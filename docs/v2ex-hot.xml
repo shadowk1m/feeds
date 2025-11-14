@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 13 Nov 2025 23:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 00:53:38 GMT</lastBuildDate>
     <item>
       <title>四博 AI 小黄鸭做活动 50 元一个</title>
       <link>https://www.v2ex.com/t/1172458</link>
@@ -121,53 +121,18 @@
 </description>
     </item>
     <item>
-      <title>来看下国内快应用有多先进</title>
-      <link>https://www.v2ex.com/t/1172417</link>
-      <guid>v2ex-1172417</guid>
-      <pubDate>Thu, 13 Nov 2025 00:05:26 GMT</pubDate>
-      <description>&lt;p&gt;先看下录屏视频&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://youtube.com/shorts/j-hTgCA_-Kk?feature=share&quot; rel=&quot;nofollow&quot;&gt;https://youtube.com/shorts/j-hTgCA_-Kk?feature=share&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这里使用的手机是一加的，OS 应该是 ColorOS 。&lt;/p&gt;
-&lt;p&gt;事件是小孩子不知道点了哪个 App 里的广告，在浏览器里打开这个链接 &lt;a href=&quot;https://dplink.xzkjyyds.com/hapLd/101/202/opks.html&quot; rel=&quot;nofollow&quot;&gt;https://dplink.xzkjyyds.com/hapLd/101/202/opks.html&lt;/a&gt; 进行触发的。&lt;/p&gt;
-&lt;p&gt;重现过程是直接打开这个链接。&lt;/p&gt;
-&lt;p&gt;在今年 7 月份的时候在宝宝巴士里就出现过观看视频时，自动跳转到浏览器，也是出现像视频这样的情况，但现在已经把宝宝巴士卸载了。&lt;/p&gt;
-&lt;p&gt;该链接携带了以下参数：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  searchParams: URLSearchParams {
-    &#39;source&#39; =&amp;gt; &#39;&#39;,
-    &#39;QUICK_APP_ST_CHANNEL&#39; =&amp;gt; &#39;&#39;,
-    &#39;xshc&#39; =&amp;gt; &#39;1&#39;,
-    &#39;adid&#39; =&amp;gt; &#39;&#39;,
-    &#39;creativeid&#39; =&amp;gt; &#39;&#39;,
-    &#39;creativetype&#39; =&amp;gt; &#39;16&#39;,
-    &#39;clickid&#39; =&amp;gt; &#39;&#39;,
-    &#39;projectid&#39; =&amp;gt; &#39;&#39;,
-    &#39;promotionid&#39; =&amp;gt; &#39;&#39;,
-    &#39;callback&#39; =&amp;gt; &#39;&#39;,
-    &#39;ts&#39; =&amp;gt; &#39;&#39;,
-    &#39;reqid&#39; =&amp;gt; &#39;&#39;,
-    &#39;pkg&#39; =&amp;gt; &#39;yinghe.f946f9.dscq.minigame&#39;,
-    &#39;pkg2&#39; =&amp;gt; &#39;com.xzkj.ysb&#39;,
-    &#39;avid&#39; =&amp;gt; &#39;&#39;,
-    &#39;apptype&#39; =&amp;gt; &#39;3&#39;,
-    &#39;company&#39; =&amp;gt; &#39;1&#39;,
-    &#39;cdid&#39; =&amp;gt; &#39;vyyy&#39;,
-    &#39;ad_id&#39; =&amp;gt; &#39;&#39;,
-    &#39;_toutiao_params&#39; =&amp;gt; &#39;{&quot;cid&quot;:0000000000000000,&quot;device_id&quot;:0000000000000000,&quot;log_extra&quot;:&quot;{\\&quot;ad_price\\&quot;:\\&quot;aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\&quot;,\\&quot;city_id\\&quot;:null,\\&quot;convert_id\\&quot;:0,\\&quot;country_id\\&quot;:null,\\&quot;dma_id\\&quot;:null,\\&quot;orit\\&quot;:900000000,\\&quot;province_id\\&quot;:null,\\&quot;req_id\\&quot;:\\&quot;----------------------------------------\\&quot;,\\&quot;rit\\&quot;:888888888}&quot;,&quot;orit&quot;:900000000,&quot;req_id&quot;:&quot;----------------------------------------&quot;,&quot;rit&quot;:888888888,&quot;sign&quot;:&quot;EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE&quot;,&quot;uid&quot;:2222222222222222,&quot;ut&quot;:12}&#39;,
-    &#39;toWeb&#39; =&amp;gt; &#39;false&#39;,
-    &#39;sessionid&#39; =&amp;gt; &#39;&#39; }
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;上面的网页内容已经保存到 gist ( &lt;a href=&quot;https://gist.github.com/zbinlin/e148849f1373bfd56d86e59bfbfb9243&quot; rel=&quot;nofollow&quot;&gt;https://gist.github.com/zbinlin/e148849f1373bfd56d86e59bfbfb9243&lt;/a&gt;) 上了，对这个感兴趣的可以去看下。&lt;/p&gt;
-&lt;p&gt;在页面的代码里有个域名，通过 whois 查询到是一家海南的公司。&lt;/p&gt;
-&lt;p&gt;随便说下，在小米手机的天气 APP 里也会出现类似的情况，直接打开天气 APP 过一会就开始自动跳快应用了（跟视频里的一样）。&lt;/p&gt;
-&lt;p&gt;另外 ColorOS 居然能在用户没有操作的情况下能自动安装应用也是满“先进”的。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>感觉现在很多东西都好便宜</title>
       <link>https://www.v2ex.com/t/1172490</link>
       <guid>v2ex-1172490</guid>
       <pubDate>Thu, 13 Nov 2025 03:24:01 GMT</pubDate>
       <description>1000 多能买 1.5 匹空调，对比 2021 年的时候我 2000 买的&lt;br /&gt;&lt;br /&gt;3000-4000 有 32G+1T 的笔记本，对比 2018 年我 5000 买的 8+256 i5 8250u ，性能续航配置各方面都是吊打。&lt;br /&gt;&lt;br /&gt;1000 块能买 55 寸 4k 电视(要求不高)，对比 2011 年 3000 多买的 47 寸 1080p 显示效果强大得不行。&lt;br /&gt;&lt;br /&gt;80 块能买三模充电鼠标&lt;br /&gt;150 能买三模机械键盘&lt;br /&gt;&lt;br /&gt;感觉很多东西价格比前几年都降了非常多</description>
+    </item>
+    <item>
+      <title>扒拉算了一下， NAS 电费比 115 还贵</title>
+      <link>https://www.v2ex.com/t/1172522</link>
+      <guid>v2ex-1172522</guid>
+      <pubDate>Thu, 13 Nov 2025 05:31:35 GMT</pubDate>
+      <description>宽带恢复以后 PT 我又开始了。今天突然想到功耗这个问题，然后看了一下我的 6 盘 NAS ，待机功耗 70-90W 。一年电费 300 多，我基本都是影音需求，感觉还是 115 网盘挂载性价比高点</description>
     </item>
   </channel>
 </rss>
