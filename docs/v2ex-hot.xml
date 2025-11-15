@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 15 Nov 2025 07:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 07:32:39 GMT</lastBuildDate>
     <item>
       <title>营销号：影视飓风你就是不懂得视频的基本原理</title>
       <link>https://www.v2ex.com/t/1172938</link>
@@ -114,22 +114,12 @@
 </description>
     </item>
     <item>
-      <title>火绒“手撕”鲁大师“劫持黑幕”，后台真硬啊！</title>
-      <link>https://www.v2ex.com/t/1172818</link>
-      <guid>v2ex-1172818</guid>
-      <pubDate>Fri, 14 Nov 2025 07:16:30 GMT</pubDate>
-      <description>&lt;p&gt;建议读者打开文章仔细过一过细节，这简直是教科书级别的流氓软件，该想到的想不到都给你想了。&lt;/p&gt;
-&lt;p&gt;火绒安全原文链接：
-&lt;a href=&quot;https://www.huorong.cn/document/tech/vir_report/1858&quot; rel=&quot;nofollow&quot;&gt;https://www.huorong.cn/document/tech/vir_report/1858&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;值得思考的还是这条评论，不得不说鲁大师还是有后台的。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pic1.zhimg.com/80/v2-9e07df70f14dd4f8490e130d0b3e6d51_720w.jpg?source=ccfced1a&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;其中最难“崩”的是：“在劫持浏览器的过程中，会对用户是否访问过周鸿祎的微博进行检测，若检测结果为已访问，则不会进行推广”&lt;/p&gt;
-&lt;p&gt;我想大概率是为了避免一堆人在他微博下面骂他。&lt;/p&gt;
-&lt;p&gt;很多人安装了鲁大师等流氓软件，但是却没有劫持、推广等现象，所以这里给大家总结 8 条。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://picx.zhimg.com/80/v2-ca4b4235a516bf4997ccd361adb1b247_720w.jpg?source=ccfced1a&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;图片来源：&lt;a href=&quot;zhuanlan.zhihu.com/p/1972679161836507550&quot; rel=&quot;nofollow&quot;&gt;火绒手撕鲁大师“劫持黑幕”，一文看懂这 8 点！&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我不明白，鲁大师都这样，还是有一大堆程序员、技术人员安装，这有啥意义？&lt;/p&gt;
-&lt;p&gt;没必要纵容这种流氓行为！&lt;/p&gt;
+      <title>为什么安卓互传联盟不开放接口协议？</title>
+      <link>https://www.v2ex.com/t/1172937</link>
+      <guid>v2ex-1172937</guid>
+      <pubDate>Sat, 15 Nov 2025 00:48:28 GMT</pubDate>
+      <description>&lt;p&gt;现在不同品牌的安卓手机之间都有这个互传协议，使用起来也比较方便,但是手机在电脑之间确实各家都有自己的系统，并不互通。恰好我手里也有不同的手机需要就想着利用这个互传联盟和电脑打通，好像并不行，各家都有自己的软件，虽然安卓上手机和电脑传文件的软件多如牛毛。但是使用起来并没有互传方便，也不愿意用那些软件&lt;/p&gt;
+&lt;p&gt;就想着利用这个互传机制，统一这个不同手机之间和电脑的互传能力使用起来方便，也不用额外装其他软件，但是找了一圈，发现这个协议好像并没有对外开放，自己开发一个电脑端也做不到，这个东西理论上应该不涉及利益问题，毕竟谁都可以有，开放了之后应该是更利好所有手机厂商的，为什么这个目前仍然是私有协议呢&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -152,12 +142,11 @@
 </description>
     </item>
     <item>
-      <title>为什么安卓互传联盟不开放接口协议？</title>
-      <link>https://www.v2ex.com/t/1172937</link>
-      <guid>v2ex-1172937</guid>
-      <pubDate>Sat, 15 Nov 2025 00:48:28 GMT</pubDate>
-      <description>&lt;p&gt;现在不同品牌的安卓手机之间都有这个互传协议，使用起来也比较方便,但是手机在电脑之间确实各家都有自己的系统，并不互通。恰好我手里也有不同的手机需要就想着利用这个互传联盟和电脑打通，好像并不行，各家都有自己的软件，虽然安卓上手机和电脑传文件的软件多如牛毛。但是使用起来并没有互传方便，也不愿意用那些软件&lt;/p&gt;
-&lt;p&gt;就想着利用这个互传机制，统一这个不同手机之间和电脑的互传能力使用起来方便，也不用额外装其他软件，但是找了一圈，发现这个协议好像并没有对外开放，自己开发一个电脑端也做不到，这个东西理论上应该不涉及利益问题，毕竟谁都可以有，开放了之后应该是更利好所有手机厂商的，为什么这个目前仍然是私有协议呢&lt;/p&gt;
+      <title>没有人讨论 steam machine 吗？</title>
+      <link>https://www.v2ex.com/t/1172893</link>
+      <guid>v2ex-1172893</guid>
+      <pubDate>Fri, 14 Nov 2025 11:46:09 GMT</pubDate>
+      <description>&lt;p&gt;看着很不错，console 加小主机。你会买吗？&lt;/p&gt;
 </description>
     </item>
   </channel>
