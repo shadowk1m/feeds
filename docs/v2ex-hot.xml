@@ -4,22 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 15 Nov 2025 23:33:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 00:57:05 GMT</lastBuildDate>
     <item>
       <title>营销号：影视飓风你就是不懂得视频的基本原理</title>
       <link>https://www.v2ex.com/t/1172938</link>
       <guid>v2ex-1172938</guid>
       <pubDate>Sat, 15 Nov 2025 01:01:37 GMT</pubDate>
       <description>有个评论说的好，把 TIM 当小雷整。切片之后还添加其他画面换任何其他人都顶不住。&lt;br /&gt;就像其他负面车企的视频放个小米的画面。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;附：关于影视飓风近期舆情&lt;br /&gt;&lt;div class=&quot;embedded_video_wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/AqQkyAZeP9s&quot; class=&quot;embedded_video&quot; allowfullscreen=&quot;&quot; type=&quot;text/html&quot; id=&quot;ytplayer&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>各省婚礼彩礼多少钱？</title>
-      <link>https://www.v2ex.com/t/1172935</link>
-      <guid>v2ex-1172935</guid>
-      <pubDate>Sat, 15 Nov 2025 00:04:53 GMT</pubDate>
-      <description>&lt;p&gt;湖南这边是 18.8 万&lt;/p&gt;
-&lt;p&gt;最近几个湖南的朋友结婚，都是 18.8 万这个价格，不知道其他地区如何，大家分享下自己身边的信息&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>[后续 5] 我申请福建通信管理局公开对泉州联通的责令整改内容，结果来了</title>
@@ -107,15 +98,6 @@
 </description>
     </item>
     <item>
-      <title>为什么安卓互传联盟不开放接口协议？</title>
-      <link>https://www.v2ex.com/t/1172937</link>
-      <guid>v2ex-1172937</guid>
-      <pubDate>Sat, 15 Nov 2025 00:48:28 GMT</pubDate>
-      <description>&lt;p&gt;现在不同品牌的安卓手机之间都有这个互传协议，使用起来也比较方便,但是手机在电脑之间确实各家都有自己的系统，并不互通。恰好我手里也有不同的手机需要就想着利用这个互传联盟和电脑打通，好像并不行，各家都有自己的软件，虽然安卓上手机和电脑传文件的软件多如牛毛。但是使用起来并没有互传方便，也不愿意用那些软件&lt;/p&gt;
-&lt;p&gt;就想着利用这个互传机制，统一这个不同手机之间和电脑的互传能力使用起来方便，也不用额外装其他软件，但是找了一圈，发现这个协议好像并没有对外开放，自己开发一个电脑端也做不到，这个东西理论上应该不涉及利益问题，毕竟谁都可以有，开放了之后应该是更利好所有手机厂商的，为什么这个目前仍然是私有协议呢&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>健身房锻炼时的一个思考</title>
       <link>https://www.v2ex.com/t/1172944</link>
       <guid>v2ex-1172944</guid>
@@ -157,6 +139,30 @@
       <pubDate>Sat, 15 Nov 2025 05:56:24 GMT</pubDate>
       <description>&lt;p&gt;我先来，今天没啥事情，正在公司无效加班中&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>宽带被拉进小黑屋有可能是有人在帮你负重前行</title>
+      <link>https://www.v2ex.com/t/1172948</link>
+      <guid>v2ex-1172948</guid>
+      <pubDate>Sat, 15 Nov 2025 02:03:30 GMT</pubDate>
+      <description>&lt;p&gt;最开始是因为我走出了成都的小黑屋 171.213
+走出来后我关注了一下上传，好家伙，一看吓一跳
+萤石摄像头跑 pcdn 。&lt;/p&gt;
+&lt;p&gt;萤石 pc 版软件跑 pcdn ，他还会给你豆子，让你去它商城换好东西，人还怪好的勒，即使我都没登录账号，不知道豆子给我发哪里了？&lt;/p&gt;
+&lt;p&gt;这两个都好解决，起码提供了明确的开关。&lt;/p&gt;
+&lt;p&gt;然后我发现 ipad 的优酷 hd ，爱奇艺 ，腾讯又在跑 hd 。  &lt;/p&gt;
+&lt;p&gt;昨晚 23 点到 00 点，在我手动关闭优酷 hd 的智能加速情况下，在我用华硕路由器给他设置了上传带宽 0.4 的情况下，给我跑了 6g 流量。  &lt;/p&gt;
+&lt;p&gt;问了 ai 才发现，nat 加速和 clash 都可能导致 qos 失败。&lt;/p&gt;
+&lt;p&gt;运营商坑你带宽费，你 tm 来坑我，消费者受伤的世界达成了是吧。  &lt;/p&gt;
+&lt;p&gt;行，我 tm 一定要给你整服帖了，就不让你这种流氓软件用我的上传带宽，我还得嫖你的带宽。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>吐槽：今天擦 mac 的时候发现了屏幕上的键盘印</title>
+      <link>https://www.v2ex.com/t/1172952</link>
+      <guid>v2ex-1172952</guid>
+      <pubDate>Sat, 15 Nov 2025 02:15:50 GMT</pubDate>
+      <description>然后搜了下怎么解决，有说异丙醇溶液可擦掉的。&lt;br /&gt;&lt;br /&gt;有说一年内出现屏幕印子可以官店换屏的。&lt;br /&gt;&lt;br /&gt;然后，更多的是推荐夹张纸进去。&lt;br /&gt;&lt;br /&gt;于是就想，如果一个人买了 Mac ，要挂硬盘的尿袋，要随身带一张纸，办公的时候小心翼翼把纸收好，插上尿袋。然后走的时候，把纸找到然后铺上，把尿袋拔下来。&lt;br /&gt;&lt;br /&gt;这一套行云流水下来，还真是。。。费劲。。。</description>
     </item>
   </channel>
 </rss>
