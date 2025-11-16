@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 16 Nov 2025 04:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 04:43:32 GMT</lastBuildDate>
     <item>
       <title>[后续 5] 我申请福建通信管理局公开对泉州联通的责令整改内容，结果来了</title>
       <link>https://www.v2ex.com/t/1172995</link>
@@ -188,16 +188,53 @@ less is more?
 </description>
     </item>
     <item>
-      <title>最近取消订阅了多家厂商的包月 token 服务,现在纯按 token 量消费, 因为它们都有降智问题。</title>
-      <link>https://www.v2ex.com/t/1172970</link>
-      <guid>v2ex-1172970</guid>
-      <pubDate>Sat, 15 Nov 2025 04:25:04 GMT</pubDate>
-      <description>&lt;p&gt;主要的问题是这些厂商，它的后台的模型并不总是用了它的主力的模型，会在后台降智。&lt;br/&gt;
-智谱的这个 GLM 4.6 ，新出的 Minimax M2 ，一开始挺好的，服务一有压力就乱来。
-只要这些模型出 token 的速度一提升，就知道开始降智了，用了次一档的东西。
-造成的结果就是写出来非常烂的代码，写出来一个文件，每个函数都是错误的，然后我要给他擦屁股几个小时。
-这太可怕了，浪费我的大量的时间，去给他他们的模型提供优化数据。
-还不如老老实实消费 token 去。&lt;/p&gt;
+      <title>VPS 持续高带宽下载却无法定位进程</title>
+      <link>https://www.v2ex.com/t/1172982</link>
+      <guid>v2ex-1172982</guid>
+      <pubDate>Sat, 15 Nov 2025 06:58:48 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;vps&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/fnis6dU.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;绿云这个 vps 第三年了，马上就要续费了，一直用着好好的，并且两个月前还换了一次服务器。今天突然出现大量的下载。&lt;/p&gt;
+&lt;p&gt;平时跑的程序有 mihomo/frp/docker ，docker 只跑了两个自己的程序。&lt;/p&gt;
+&lt;p&gt;出现高下载的时候出现了 virtio_net 内核死锁导致的内核崩溃，系统宕机了 15 分钟，我这时候才发现有高下载问题。&lt;/p&gt;
+&lt;p&gt;通过 &lt;code&gt;nethogs&lt;/code&gt; 查看 &lt;code&gt;? root unknown TCP 0.348 35687.941 KB/sec&lt;/code&gt;，其余进程(mihomo)的下载都正常的，只有这个 &lt;code&gt;?&lt;/code&gt; 出现大量高下载。&lt;/p&gt;
+&lt;p&gt;我尝试过停下 docker/停下 mihomo ，这个下载是存在，并且重启过服务器，重启过后，还是有大量的下载。&lt;/p&gt;
+&lt;p&gt;我使用命令 &lt;code&gt;nload eth0&lt;/code&gt; 查看确实是在这个网卡上下载。&lt;/p&gt;
+&lt;p&gt;并且我使用 htop 命令查看高下载时候并没有任何程序在大量读写 IO 。&lt;/p&gt;
+&lt;p&gt;这个大量下载持续了两个半小时，断断续续的，并没有一直高速下载，而是下载一会就停了，过会又开始。&lt;/p&gt;
+&lt;p&gt;到现在为止已经有两个小时没有再发生。然而我也没做任何操作。&lt;/p&gt;
+&lt;p&gt;我遍历了所有的程序（开机自启），并没有发现可疑程序。并且我一直装着 fail2ban:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Status for the jail: sshd
+|- Filter
+|  |- Currently failed:	4
+|  |- Total failed:	171
+|  `- File list:	/var/log/auth.log
+`- Actions
+   |- Currently banned:	3
+   |- Total banned:	23
+   `- Banned IP list:	217.154.62.22 45.140.17.124 45.135.232.177
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过上述问题描述，帮我分析下，或者还有哪些工具可以排查一下。&lt;/p&gt;
+&lt;p&gt;vnstat 输出:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   eth0 since 2025-09-22
+
+          rx:  532.42 GiB      tx:  316.35 GiB      total:  848.77 GiB
+
+   monthly
+                     rx      |     tx      |    total    |   avg. rate
+     ------------------------+-------------+-------------+---------------
+       2025-10    179.46 GiB |  143.27 GiB |  322.73 GiB |    1.04 Mbit/s
+       2025-11    284.93 GiB |  110.78 GiB |  395.71 GiB |    2.69 Mbit/s
+     ------------------------+-------------+-------------+---------------
+     estimated    584.48 GiB |  227.24 GiB |  811.72 GiB |
+
+   daily
+                     rx      |     tx      |    total    |   avg. rate
+     ------------------------+-------------+-------------+---------------
+     yesterday     10.08 GiB |    9.86 GiB |   19.94 GiB |    1.98 Mbit/s
+         today    177.88 GiB |    5.35 GiB |  183.23 GiB |   29.15 Mbit/s
+     ------------------------+-------------+-------------+---------------
+     estimated    284.61 GiB |    8.56 GiB |  293.18 GiB |
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
   </channel>
