@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 16 Nov 2025 08:41:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 09:10:40 GMT</lastBuildDate>
     <item>
       <title>[后续 5] 我申请福建通信管理局公开对泉州联通的责令整改内容，结果来了</title>
       <link>https://www.v2ex.com/t/1172995</link>
@@ -103,6 +103,13 @@
 </description>
     </item>
     <item>
+      <title>微信输入法打不出“鸡巴”两个字</title>
+      <link>https://www.v2ex.com/t/1173077</link>
+      <guid>v2ex-1173077</guid>
+      <pubDate>Sun, 16 Nov 2025 05:56:19 GMT</pubDate>
+      <description>也不能说是打不出，&lt;br /&gt;&lt;br /&gt;而是不会自动组词。&lt;br /&gt;&lt;br /&gt;比如输入 jiba 之后候选词里面是没有“鸡巴”的，&lt;br /&gt;&lt;br /&gt;如果我自己刻意点选“鸡”、“巴”造词，没用，输入法不会记忆，下次再输入还是没有&lt;br /&gt;&lt;br /&gt;试了试其他更脏的脏话都正常，&lt;br /&gt;&lt;br /&gt;不知道出于什么考虑🤔</description>
+    </item>
+    <item>
       <title>iphone15 电池 500 循环 77%健康度</title>
       <link>https://www.v2ex.com/t/1173042</link>
       <guid>v2ex-1173042</guid>
@@ -117,13 +124,6 @@
 &lt;p&gt;不考虑换电池，目前性能还够用，建议等 18 还是以后的型号？
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/39h3mGjK/IMG-2824.jpg&quot;/&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>微信输入法打不出“鸡巴”两个字</title>
-      <link>https://www.v2ex.com/t/1173077</link>
-      <guid>v2ex-1173077</guid>
-      <pubDate>Sun, 16 Nov 2025 05:56:19 GMT</pubDate>
-      <description>也不能说是打不出，&lt;br /&gt;&lt;br /&gt;而是不会自动组词。&lt;br /&gt;&lt;br /&gt;比如输入 jiba 之后候选词里面是没有“鸡巴”的，&lt;br /&gt;&lt;br /&gt;如果我自己刻意点选“鸡”、“巴”造词，没用，输入法不会记忆，下次再输入还是没有&lt;br /&gt;&lt;br /&gt;试了试其他更脏的脏话都正常，&lt;br /&gt;&lt;br /&gt;不知道出于什么考虑🤔</description>
     </item>
     <item>
       <title>如何联系运营商将 NAT 类型改为「NAT 1」</title>
@@ -148,16 +148,31 @@
 </description>
     </item>
     <item>
-      <title>微软将投入更多资源来提升 Windows 11 基础体验</title>
-      <link>https://www.v2ex.com/t/1173052</link>
-      <guid>v2ex-1173052</guid>
-      <pubDate>Sun, 16 Nov 2025 02:46:30 GMT</pubDate>
-      <description>&lt;p&gt;微软正在重新审视 Windows 11 的产品方向。随着微软持续在 Windows 11 上推进 AI 功能，不少用户对微软忽视改进 Windows 11 的性能、稳定性以及体验一致性提出了强烈批评。&lt;/p&gt;
-&lt;p&gt;针对上述争议，Windows 负责人 Pavan Davuluri 最近在 X 平台回应表示微软已经意识到问题的存在，并将根据反馈调整产品优先级。&lt;/p&gt;
-&lt;p&gt;Davuluri 表示微软正重新评估 AI 推进的节奏，并注意到用户对 AI 功能过多侵入式整合的不满。虽然 AI 仍会继续融入 Windows ，但团队会将更多资源投入到用户体验、性能优化和专业场景增强功能中。此外，微软计划调整内部工程团队的组织方式，使核心功能开发更紧密协作，以提升问题响应能力与产品质量。&lt;/p&gt;
-&lt;p&gt;微软后续将加强对稳定性和一致性体验的关注，简化 Windows 11 的操作流程，同时在 AI 方向保持适度创新。通过在功能扩展和系统基础体验之间取得平衡，微软希望改善当前的用户口碑，并增强 Windows 对普通用户与开发者的吸引力。&lt;/p&gt;
-&lt;p&gt;原文：&lt;a href=&quot;https://windiscover.com/posts/microsoft-will-adjust-windows-11-product-priority-to-focus-on-core-experience.html&quot; rel=&quot;nofollow&quot;&gt;微软将调整 Windows 11 产品优先级，将投入更多资源提升基础体验&lt;/a&gt;&lt;/p&gt;
-</description>
+      <title>上海移动互联网专线安装记录</title>
+      <link>https://www.v2ex.com/t/1173090</link>
+      <guid>v2ex-1173090</guid>
+      <pubDate>Sun, 16 Nov 2025 07:38:10 GMT</pubDate>
+      <description>&lt;p&gt;价格:
+20Mbps ，因为量小所以单价 7 ￥/Mbps/月，即 140 ￥/月，且 3 年合约期。如果 1Gbps+带宽可以在 5 ￥/Mbps 左右。同时包含 5 个 IPV4 地址及/56 IPV6 地址，均不额外收费，同时免去工程费及联网调试费&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/NNtb4BF.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;接入方式：
+从机房拉了一根 12 芯光纤入户，盒子装在墙壁上，LC 接口单芯 PTN 接入，接入设备为皖通邮电 ZXWT CTNS 150X/G2E4 ，&lt;a href=&quot;http://www.ahwt.com.cn/display_s.php?id=201&quot; rel=&quot;nofollow&quot;&gt;产品说明书&lt;/a&gt;。局端设备为 H3C CR16010F ，应该是直连核心路由器&lt;/p&gt;
+&lt;p&gt;安装: 从找客户经理到实际安装也差不多两个月，效率有点低，且在交付测试报告上 IP 地址不全，还是问了领导才调到数据，装维专业度存疑&lt;/p&gt;
+&lt;p&gt;体验:
+实际测速冗余能给到 33Mbps 左右，还是很慷慨的，但是可以观察到明显的全天跨网 QoS ，会限速到约 1Mbps 并伴随大量丢包，可通过&lt;a href=&quot;https://www.v2ex.com/t/1169953&quot; rel=&quot;nofollow&quot;&gt;修改数据包 Qos 等级&lt;/a&gt;来缓解，出国速度见下图&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;对端 HK&lt;/th&gt;
+&lt;th&gt;对端 JP&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/ryI4UHl.png&quot;/&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/vYxalxo.png&quot;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
