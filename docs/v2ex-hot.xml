@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 16 Nov 2025 06:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 06:46:02 GMT</lastBuildDate>
     <item>
       <title>[后续 5] 我申请福建通信管理局公开对泉州联通的责令整改内容，结果来了</title>
       <link>https://www.v2ex.com/t/1172995</link>
@@ -126,6 +126,38 @@
 </description>
     </item>
     <item>
+      <title>微软将投入更多资源来提升 Windows 11 基础体验</title>
+      <link>https://www.v2ex.com/t/1173052</link>
+      <guid>v2ex-1173052</guid>
+      <pubDate>Sun, 16 Nov 2025 02:46:30 GMT</pubDate>
+      <description>&lt;p&gt;微软正在重新审视 Windows 11 的产品方向。随着微软持续在 Windows 11 上推进 AI 功能，不少用户对微软忽视改进 Windows 11 的性能、稳定性以及体验一致性提出了强烈批评。&lt;/p&gt;
+&lt;p&gt;针对上述争议，Windows 负责人 Pavan Davuluri 最近在 X 平台回应表示微软已经意识到问题的存在，并将根据反馈调整产品优先级。&lt;/p&gt;
+&lt;p&gt;Davuluri 表示微软正重新评估 AI 推进的节奏，并注意到用户对 AI 功能过多侵入式整合的不满。虽然 AI 仍会继续融入 Windows ，但团队会将更多资源投入到用户体验、性能优化和专业场景增强功能中。此外，微软计划调整内部工程团队的组织方式，使核心功能开发更紧密协作，以提升问题响应能力与产品质量。&lt;/p&gt;
+&lt;p&gt;微软后续将加强对稳定性和一致性体验的关注，简化 Windows 11 的操作流程，同时在 AI 方向保持适度创新。通过在功能扩展和系统基础体验之间取得平衡，微软希望改善当前的用户口碑，并增强 Windows 对普通用户与开发者的吸引力。&lt;/p&gt;
+&lt;p&gt;原文：&lt;a href=&quot;https://windiscover.com/posts/microsoft-will-adjust-windows-11-product-priority-to-focus-on-core-experience.html&quot; rel=&quot;nofollow&quot;&gt;微软将调整 Windows 11 产品优先级，将投入更多资源提升基础体验&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>来聊聊智驾的路线和方法论的思考吧</title>
+      <link>https://www.v2ex.com/t/1173014</link>
+      <guid>v2ex-1173014</guid>
+      <pubDate>Sat, 15 Nov 2025 13:04:16 GMT</pubDate>
+      <description>&lt;p&gt;最近了解了下智驾技术的演变发展，在这写下总结与思考。&lt;/p&gt;
+&lt;h2&gt;端到端的“问题”&lt;/h2&gt;
+&lt;p&gt;现在头部汽车公司已将最新的智驾技术路线从端到端转到 VLA 、WEWA 。那为什么端到端被抛弃了呢？我看到的一种也比较认可的说法是：直接将环境信息数据（摄像头、lidar 等等）映射到轨迹规控（或者更低维的油门刹车方向盘控制指令），模型本身只是在做根据 2D 画面进行模仿学习，它不知道驾驶员这么做的深层逻辑---也就是知其然，不知其所以然。这也就导致泛化能力很差，当出现长尾/难 case 时，模型完全是“懵逼”的。&lt;/p&gt;
+&lt;h2&gt;VLA 的意义&lt;/h2&gt;
+&lt;p&gt;起初，我觉得从第一性原理出发(就实现自动驾驶而言)，VLA 中的 L 作为要素加入模型没啥逻辑吧？就为了车机屏幕显示 COT 思考和语音控车？
+直到我看这个观点---语言即逻辑。上面我们说到端到端的问题是知其然不知其所以然。现在我们可以将 L 作为驾驶者开车的逻辑思考的表征作为数据跟随 V ，放进模型训练，那不就可以让模型学会&quot;逻辑推理&quot;了？
+这个观点对于我来说是 make sense 的。因为加入 COT 后的 LLM 在&lt;strong&gt;功能性&lt;/strong&gt;上表现的就是具有逻辑推理能力（注意我说的是功能性），本质上也是它的训练数据里有很多逻辑推理的语言 pattern&lt;/p&gt;
+&lt;h2&gt;WEWA--本质还是端到端？&lt;/h2&gt;
+&lt;p&gt;从 WEWA 有限的资料来看，我觉得它范式还是端到端那套。只是通过 WE （世界引擎），在仿真世界里将难处理的长尾 case 密度拉高进行强化学习。我觉得它走的是&quot;力大砖飞&quot;的方法论，无所谓所以然，只要数据够多，当模仿到极致，然与所以然的界限就模糊掉了。毕竟 LLM 的本质不也只是预测下一个词的概率么？&lt;/p&gt;
+&lt;h2&gt;我的思考&lt;/h2&gt;
+&lt;p&gt;我觉得上面两个路线都有可能实现 L3/L4 ，无法直接证伪说哪个肯定不行。但是从上限和可扩展性来说，VLA 无疑更甚一筹我觉得。VLA 这套框架/范式可以说是为具身智能打造的，这套弄通了到时候迁移到诸如机器人上面会很顺畅。&lt;/p&gt;
+&lt;p&gt;另外从上限来说，我很久前在知乎上看到过一个回答关于自动驾驶能力限制的：对于伦理问题，比如电车难题，智驾怎么办？它超脱了对错的维度，更像是基于三观的一个选择。而 VLA 模型的 L ，就像一个窗口可以注入 owner 的价值观，让其做出的行为与你的意志匹配。&lt;/p&gt;
+&lt;p&gt;综上，是我一个外行人的浅思。欢迎行业内的朋友指出错误及讨论交流~&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>VPS 持续高带宽下载却无法定位进程</title>
       <link>https://www.v2ex.com/t/1172982</link>
       <guid>v2ex-1172982</guid>
@@ -176,31 +208,11 @@
 </description>
     </item>
     <item>
-      <title>来聊聊智驾的路线和方法论的思考吧</title>
-      <link>https://www.v2ex.com/t/1173014</link>
-      <guid>v2ex-1173014</guid>
-      <pubDate>Sat, 15 Nov 2025 13:04:16 GMT</pubDate>
-      <description>&lt;p&gt;最近了解了下智驾技术的演变发展，在这写下总结与思考。&lt;/p&gt;
-&lt;h2&gt;端到端的“问题”&lt;/h2&gt;
-&lt;p&gt;现在头部汽车公司已将最新的智驾技术路线从端到端转到 VLA 、WEWA 。那为什么端到端被抛弃了呢？我看到的一种也比较认可的说法是：直接将环境信息数据（摄像头、lidar 等等）映射到轨迹规控（或者更低维的油门刹车方向盘控制指令），模型本身只是在做根据 2D 画面进行模仿学习，它不知道驾驶员这么做的深层逻辑---也就是知其然，不知其所以然。这也就导致泛化能力很差，当出现长尾/难 case 时，模型完全是“懵逼”的。&lt;/p&gt;
-&lt;h2&gt;VLA 的意义&lt;/h2&gt;
-&lt;p&gt;起初，我觉得从第一性原理出发(就实现自动驾驶而言)，VLA 中的 L 作为要素加入模型没啥逻辑吧？就为了车机屏幕显示 COT 思考和语音控车？
-直到我看这个观点---语言即逻辑。上面我们说到端到端的问题是知其然不知其所以然。现在我们可以将 L 作为驾驶者开车的逻辑思考的表征作为数据跟随 V ，放进模型训练，那不就可以让模型学会&quot;逻辑推理&quot;了？
-这个观点对于我来说是 make sense 的。因为加入 COT 后的 LLM 在&lt;strong&gt;功能性&lt;/strong&gt;上表现的就是具有逻辑推理能力（注意我说的是功能性），本质上也是它的训练数据里有很多逻辑推理的语言 pattern&lt;/p&gt;
-&lt;h2&gt;WEWA--本质还是端到端？&lt;/h2&gt;
-&lt;p&gt;从 WEWA 有限的资料来看，我觉得它范式还是端到端那套。只是通过 WE （世界引擎），在仿真世界里将难处理的长尾 case 密度拉高进行强化学习。我觉得它走的是&quot;力大砖飞&quot;的方法论，无所谓所以然，只要数据够多，当模仿到极致，然与所以然的界限就模糊掉了。毕竟 LLM 的本质不也只是预测下一个词的概率么？&lt;/p&gt;
-&lt;h2&gt;我的思考&lt;/h2&gt;
-&lt;p&gt;我觉得上面两个路线都有可能实现 L3/L4 ，无法直接证伪说哪个肯定不行。但是从上限和可扩展性来说，VLA 无疑更甚一筹我觉得。VLA 这套框架/范式可以说是为具身智能打造的，这套弄通了到时候迁移到诸如机器人上面会很顺畅。&lt;/p&gt;
-&lt;p&gt;另外从上限来说，我很久前在知乎上看到过一个回答关于自动驾驶能力限制的：对于伦理问题，比如电车难题，智驾怎么办？它超脱了对错的维度，更像是基于三观的一个选择。而 VLA 模型的 L ，就像一个窗口可以注入 owner 的价值观，让其做出的行为与你的意志匹配。&lt;/p&gt;
-&lt;p&gt;综上，是我一个外行人的浅思。欢迎行业内的朋友指出错误及讨论交流~&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>使用移动宽带和阿里 DNS，大陆有服务器的 Google 域名被解析到境外的服务器</title>
-      <link>https://www.v2ex.com/t/1172992</link>
-      <guid>v2ex-1172992</guid>
-      <pubDate>Sat, 15 Nov 2025 09:17:12 GMT</pubDate>
-      <description>如题，你们也遇到了吗</description>
+      <title>如果你的老婆非要给孩子在羽绒服里面加棉袄，你会怎么做？</title>
+      <link>https://www.v2ex.com/t/1173068</link>
+      <guid>v2ex-1173068</guid>
+      <pubDate>Sun, 16 Nov 2025 04:38:11 GMT</pubDate>
+      <description>如果你的老婆非要给孩子在羽绒服里面加棉袄，你会怎么做？</description>
     </item>
   </channel>
 </rss>
