@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 17 Nov 2025 05:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 06:18:22 GMT</lastBuildDate>
     <item>
       <title>外资撤离中国什么原因？</title>
       <link>https://www.v2ex.com/t/1173174</link>
@@ -70,13 +70,6 @@
 </description>
     </item>
     <item>
-      <title>有没有老哥肉身在西雅图,求证一下最近刷到的 B 站 up@斯奎齐大王的关于西雅图万圣节冰雨夜的直播内容</title>
-      <link>https://www.v2ex.com/t/1173175</link>
-      <guid>v2ex-1173175</guid>
-      <pubDate>Mon, 17 Nov 2025 01:43:13 GMT</pubDate>
-      <description>在我自己的固有印象中,美国就算不再是山巅之国,也不可能混乱到这个地步吧?如果底层这么混乱那这个国家如何维持稳定和繁荣呢?</description>
-    </item>
-    <item>
       <title>十年韭菜的顿悟：炒股的密码是“等待”</title>
       <link>https://www.v2ex.com/t/1173121</link>
       <guid>v2ex-1173121</guid>
@@ -100,45 +93,38 @@
 </description>
     </item>
     <item>
-      <title>上海移动互联网专线安装记录</title>
-      <link>https://www.v2ex.com/t/1173090</link>
-      <guid>v2ex-1173090</guid>
-      <pubDate>Sun, 16 Nov 2025 07:38:10 GMT</pubDate>
-      <description>&lt;p&gt;价格:
-20Mbps ，因为量小所以单价 7 ￥/Mbps/月，即 140 ￥/月，且 3 年合约期。如果 1Gbps+带宽可以在 5 ￥/Mbps 左右。同时包含 5 个 IPV4 地址及/56 IPV6 地址，均不额外收费，同时免去工程费及联网调试费&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/NNtb4BF.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;接入方式：
-从机房拉了一根 12 芯光纤入户，盒子装在墙壁上，LC 接口单芯 PTN 接入，接入设备为皖通邮电 ZXWT CTNS 150X/G2E4 ，&lt;a href=&quot;http://www.ahwt.com.cn/display_s.php?id=201&quot; rel=&quot;nofollow&quot;&gt;产品说明书&lt;/a&gt;。局端设备为 H3C CR16010F ，应该是直连核心路由器&lt;/p&gt;
-&lt;p&gt;安装: 从找客户经理到实际安装也差不多两个月，效率有点低，且在交付测试报告上 IP 地址不全，还是问了领导才调到数据，装维专业度存疑&lt;/p&gt;
-&lt;p&gt;体验:
-实际测速冗余能给到 33Mbps 左右，还是很慷慨的，但是可以观察到明显的全天跨网 QoS ，会限速到约 1Mbps 并伴随大量丢包，可通过&lt;a href=&quot;https://www.v2ex.com/t/1169953&quot; rel=&quot;nofollow&quot;&gt;修改数据包 Qos 等级&lt;/a&gt;来缓解，出国速度见下图&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;对端 HK&lt;/th&gt;
-&lt;th&gt;对端 JP&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/ryI4UHl.png&quot;/&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/vYxalxo.png&quot;/&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</description>
+      <title>packycode：物美价廉的 claude code、codex 转发～「送余额」</title>
+      <link>https://www.v2ex.com/t/1173250</link>
+      <guid>v2ex-1173250</guid>
+      <pubDate>Mon, 17 Nov 2025 04:17:48 GMT</pubDate>
+      <description>&lt;p&gt;packycode 是 l 站第一个 cc 和 codex 中转站，在隔壁的口碑也还行&lt;/p&gt;
+&lt;p&gt;我们计费与官网保持一致性，没有额外的花里胡哨的计算方式，直接可以套用官网的价格进行计算&lt;/p&gt;
+&lt;p&gt;对于 cc 我们的缓存命中率也算第一梯队，codex 更是无敌，可以大幅度的减少使用费用&lt;/p&gt;
+&lt;p&gt;以 codex 的 60 刀举例，蹬完这 60 刀大概可以使用 1500-2500 次&lt;/p&gt;
+&lt;p&gt;cc 目前转换成了按量的，0.5 一刀，不过在我们的缓存优化下，这个也能减少很多使用费用（属于是自夸了）&lt;/p&gt;
+&lt;p&gt;以下是我们的服务站点&lt;/p&gt;
+&lt;p&gt;packyapi：&lt;a href=&quot;http://www.packyapi.com&quot; rel=&quot;nofollow&quot;&gt;www.packyapi.com&lt;/a&gt; （ cc 、codex 、gemini ，按量计算）&lt;/p&gt;
+&lt;p&gt;codex：&lt;a href=&quot;http://codex.packycode.com&quot; rel=&quot;nofollow&quot;&gt;codex.packycode.com&lt;/a&gt; （ codex 包月)&lt;/p&gt;
+&lt;p&gt;packyapi 目前新用户首次充值是有一个 9 折优惠可以使用：cc-switch 这个优惠券，注册就能领取 1usd 余额，可用等同 10usd codex 或者 2usd cc&lt;/p&gt;
+&lt;p&gt;虽然我们的价格不是很便宜，但是我们的综合服务还是很棒的，客服高强度在线～&lt;/p&gt;
+&lt;p&gt;本帖抽 20 份 packyapi 50usd 余额～&lt;/p&gt;
+&lt;p&gt;结束时间：11 月 19 日 17:00&lt;/p&gt;
+&lt;p&gt;抽奖程序：由 gpt 随机选取楼层&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>各位大佬每月在 AI 工具上的支出都是多少？</title>
-      <link>https://www.v2ex.com/t/1173165</link>
-      <guid>v2ex-1173165</guid>
-      <pubDate>Mon, 17 Nov 2025 01:27:06 GMT</pubDate>
-      <description>&lt;p&gt;阅 &lt;a href=&quot;https://www.v2ex.com/t/1173083#reply14&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1173083#reply14&lt;/a&gt; 有感而发。
-本人订阅了个 cursor pro ，每月 20 美刀感觉有点贵，尝试过某宝买试用期账号，但是感觉不是很稳定。
-想请问下各位佬：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;大家每个月在 AI 工具使用上花费多少？&lt;/li&gt;
-&lt;li&gt;理想中每个月支出多少合适？&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <title>有没有老哥肉身在西雅图,求证一下最近刷到的 B 站 up@斯奎齐大王的关于西雅图万圣节冰雨夜的直播内容</title>
+      <link>https://www.v2ex.com/t/1173175</link>
+      <guid>v2ex-1173175</guid>
+      <pubDate>Mon, 17 Nov 2025 01:43:13 GMT</pubDate>
+      <description>在我自己的固有印象中,美国就算不再是山巅之国,也不可能混乱到这个地步吧?如果底层这么混乱那这个国家如何维持稳定和繁荣呢?</description>
+    </item>
+    <item>
+      <title>券商低佣开户万 0.854 免 5，送五常大米！ [评论抽奖送好礼] ！</title>
+      <link>https://www.v2ex.com/t/1173149</link>
+      <guid>v2ex-1173149</guid>
+      <pubDate>Mon, 17 Nov 2025 00:27:54 GMT</pubDate>
+      <description>活动进行中，给大家发点福利！&lt;br /&gt;&lt;br /&gt;低佣开户介绍：&lt;br /&gt;开源证券，万 0.854 免 5  [小客户专享，费率非常优惠，国企券商] &lt;br /&gt;国融证券，万 0.854 免 5  [国字头券商，也是很优惠] &lt;br /&gt;银河证券，etf 万 0.5 免 5    [头部龙头券商，ETF 基金最低，适合 etf 玩家。两融也是全国最低] &lt;br /&gt;光 D 证券， 万 1 免 5         [头部龙头券商，不可多得的免 5 ] &lt;br /&gt;长江证券，万 1 免 5         [头部券商，也很是不错] &lt;br /&gt;国金证券，万 0.854 免 5  [有 miniqmt ，适合喜欢玩 qmt 的朋友] &lt;br /&gt;&lt;br /&gt;⚠️开户成功就送 [五常大米 10 斤]&lt;br /&gt;&lt;br /&gt;最新券商表格清单和我的联系方式，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;https://shimo.im/docs/rp3OMVG1KaCV6Lkm/read&quot; rel=&quot;nofollow noopener&quot;&gt;https://shimo.im/docs/rp3OMVG1KaCV6Lkm/read&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;⚠️抽奖&lt;br /&gt;抽奖 奖品： [五常大米 10 斤]  共计 5 份&lt;br /&gt;&lt;br /&gt;⚠️参与规则&lt;br /&gt;回复任意评论都行&lt;br /&gt;&lt;br /&gt;⚠️抽奖规则&lt;br /&gt;中奖 5 名，本周 5 抽奖，详细规则如下：&lt;br /&gt;&lt;br /&gt;中奖楼层：&lt;br /&gt;(上证指数收盘价 6 位整数 × 1005 % 有效楼层数) + 1&lt;br /&gt;(上证指数收盘价 6 位整数 × 2025 % 有效楼层数) + 1&lt;br /&gt;(深证指数收盘价 6 位整数 × 1005 % 有效楼层数) + 1&lt;br /&gt;(深证指数收盘价 6 位整数 × 2025 % 有效楼层数) + 1&lt;br /&gt;(创业指数收盘价 6 位整数 × 1005 % 有效楼层数) + 1&lt;br /&gt;有效楼层数，截止抽奖当日 20:00 &lt;br /&gt;[投资有风险，不因奖品而涉足股市。]</description>
     </item>
   </channel>
 </rss>
