@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 19 Nov 2025 06:17:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 06:48:47 GMT</lastBuildDate>
     <item>
       <title>「Cubence」一个小而美的中转站，支持 cc 和 cx，熬夜适配 Gemini3，抽奖余额！</title>
       <link>https://www.v2ex.com/t/1173675</link>
@@ -27,11 +27,29 @@
       <description>昨天我还以为是梯子凉了...</description>
     </item>
     <item>
+      <title>掌上生活搜朝朝宝领取 5 元返现,领取后转入朝朝宝 6 块钱就行</title>
+      <link>https://www.v2ex.com/t/1173672</link>
+      <guid>v2ex-1173672</guid>
+      <pubDate>Wed, 19 Nov 2025 01:59:50 GMT</pubDate>
+      <description>掌上生活搜朝朝宝领取 5 元返现,领取后转入朝朝宝 6 块钱就行</description>
+    </item>
+    <item>
       <title>谷歌发布了自己的 IDE --Antigravity，我用谷歌账号登录不上，咋回事</title>
       <link>https://www.v2ex.com/t/1173634</link>
       <guid>v2ex-1173634</guid>
       <pubDate>Wed, 19 Nov 2025 00:52:09 GMT</pubDate>
       <description>难道是谷歌账号的区域的问题？关键也没提示 就是登录授权之后不成功。挂梯子了。其他网站都没问题。</description>
+    </item>
+    <item>
+      <title>关于蔡司镜片值不值得买的问题</title>
+      <link>https://www.v2ex.com/t/1173651</link>
+      <guid>v2ex-1173651</guid>
+      <pubDate>Wed, 19 Nov 2025 01:25:13 GMT</pubDate>
+      <description>&lt;p&gt;去年到今年一直戴的 PDD 买的明月 PMC 1.71 的镜片，价格差不多 311 。&lt;/p&gt;
+&lt;p&gt;之前的镜架不是纯钛，戴起来比较重，鼻梁晚上摘下鼻梁就有两个大坑，今年双十一趁着京东打折，780 入手了蔡司的泽锐 1.74 钻立方防蓝光膜镜片，顺便换了纯钛镜框，价格 450 左右。&lt;/p&gt;
+&lt;p&gt;明月镜片我配镜度数特意少了 50 度，蔡司的是足矫。蔡司戴下来我的感受是，提升很大，特别是泽锐宣传的视野方面，确实比明月的强很多，看边缘也不模糊，明月的看边缘会有严重变色。亮度也比明月好不少，不过这个不确定和度数有没有关系。&lt;/p&gt;
+&lt;p&gt;总结是贵有贵的道理，纠结这两款镜片的人我建议预算够的话尽量还是蔡司吧。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>这次 cloudflare 宕机是什么原因造成的？</title>
@@ -56,30 +74,11 @@
 </description>
     </item>
     <item>
-      <title>关于蔡司镜片值不值得买的问题</title>
-      <link>https://www.v2ex.com/t/1173651</link>
-      <guid>v2ex-1173651</guid>
-      <pubDate>Wed, 19 Nov 2025 01:25:13 GMT</pubDate>
-      <description>&lt;p&gt;去年到今年一直戴的 PDD 买的明月 PMC 1.71 的镜片，价格差不多 311 。&lt;/p&gt;
-&lt;p&gt;之前的镜架不是纯钛，戴起来比较重，鼻梁晚上摘下鼻梁就有两个大坑，今年双十一趁着京东打折，780 入手了蔡司的泽锐 1.74 钻立方防蓝光膜镜片，顺便换了纯钛镜框，价格 450 左右。&lt;/p&gt;
-&lt;p&gt;明月镜片我配镜度数特意少了 50 度，蔡司的是足矫。蔡司戴下来我的感受是，提升很大，特别是泽锐宣传的视野方面，确实比明月的强很多，看边缘也不模糊，明月的看边缘会有严重变色。亮度也比明月好不少，不过这个不确定和度数有没有关系。&lt;/p&gt;
-&lt;p&gt;总结是贵有贵的道理，纠结这两款镜片的人我建议预算够的话尽量还是蔡司吧。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>掌上生活搜朝朝宝领取 5 元返现,领取后转入朝朝宝 6 块钱就行</title>
-      <link>https://www.v2ex.com/t/1173672</link>
-      <guid>v2ex-1173672</guid>
-      <pubDate>Wed, 19 Nov 2025 01:59:50 GMT</pubDate>
-      <description>掌上生活搜朝朝宝领取 5 元返现,领取后转入朝朝宝 6 块钱就行</description>
-    </item>
-    <item>
-      <title>众安银行的 root 检测无敌了</title>
-      <link>https://www.v2ex.com/t/1173502</link>
-      <guid>v2ex-1173502</guid>
-      <pubDate>Tue, 18 Nov 2025 06:22:41 GMT</pubDate>
-      <description>&lt;p&gt;手上 12306 12123  农行中行招行 都能过，唯独众安银行强制升级新版本后，死活过不了检测。&lt;/p&gt;
-</description>
+      <title>从 0 到 1，独立完整的做一个产品并上线，这个能力在程序员中普遍吗？</title>
+      <link>https://www.v2ex.com/t/1173527</link>
+      <guid>v2ex-1173527</guid>
+      <pubDate>Tue, 18 Nov 2025 08:04:50 GMT</pubDate>
+      <description>我个人的很多想法、点子，都能自己从头做到尾，独立开发并上线运行。&lt;br /&gt;&lt;br /&gt;经常看到一些技术文章或帖子底下有人留言，说能独立把项目开发好、上线跑起来很厉害、很牛。&lt;br /&gt;&lt;br /&gt;我每次看到都挺纳闷的，这不是很普通的能力吗？难道是我认知有偏差？&lt;br /&gt;&lt;br /&gt;我指的不是像淘宝、京东那种海量并发的的大型系统，数据量可能不大，但功能该有的都有，比如一个电商平台、论坛之类的。&lt;br /&gt;&lt;br /&gt;从前后端开发，到买服务器、域名备案，到最后部署运行。</description>
     </item>
   </channel>
 </rss>
