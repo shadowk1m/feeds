@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 22 Nov 2025 04:40:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 05:10:47 GMT</lastBuildDate>
     <item>
       <title>32 岁体检得了不治之症…</title>
       <link>https://www.v2ex.com/t/1174199</link>
@@ -83,6 +83,13 @@
       <description>今天打电话回家，又被老妈灵魂拷问了😅&lt;br /&gt;我随口说“我不结婚”，我妈沉默三秒，直接放大招：&lt;br /&gt;“等我和你爸都不在了，你一个人怎么办啊？”&lt;br /&gt;那一刻我突然有点愣住……&lt;br /&gt;说实话我不是没想过这个问题，但我一直觉得：&lt;br /&gt;单身又不是世界末日&lt;br /&gt;一个人也能把日子过得热热闹闹&lt;br /&gt;老了可以进高端养老院、抱团养猫、环游世界……对吧？&lt;br /&gt;可听到妈声音里那一点点颤抖，我又突然心酸得不行。&lt;br /&gt;她担心的根本不是我结不结婚，她是怕我“没人疼、没人管、没人送终，老了生病了谁来照顾”啊。&lt;br /&gt;突然好想问问大家：&lt;br /&gt;当父母用“等我们走了你一个人怎么办”来劝婚的时候，你们是怎么回答的？&lt;br /&gt;是妥协了？还是坚持单身但给了他们足够的安全感？真的很想听听你们的真实经历和想法…</description>
     </item>
     <item>
+      <title>[求救]怎么在 arm64 的麒麟 v10 上运行 win32 的 exe</title>
+      <link>https://www.v2ex.com/t/1174277</link>
+      <guid>v2ex-1174277</guid>
+      <pubDate>Fri, 21 Nov 2025 09:16:25 GMT</pubDate>
+      <description>前情提要 &lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1154926#reply49&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.v2ex.com/t/1154926#reply49&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;目前已知项目情况：&lt;br /&gt;1. 没有源码，只有一个文件夹，因为要和硬件交互，内部含有大量 dll ，靠运行一个 32 位的 exe 来启动&lt;br /&gt;2. 基于 .net framework 4.5&lt;br /&gt;&lt;br /&gt;已做尝试：&lt;br /&gt;&lt;br /&gt;1. 虚拟机方案 qemu + virt-manager&lt;br /&gt;&lt;br /&gt;	1.1 安装 xp ，并安装 .net framework 4.0, 运行 exe 提示 **不是一个有效的 Win32 应用程序**&lt;br /&gt;&lt;br /&gt;	1.2 安装 32 位和 64 位 win7 ，给了 4G 或者 8G 内存，卡顿严重。在 32 位上运行 exe 卡住无法打开。AI 说要安装 virtio 驱动，但是即使是管理员身份依然提示没有权限&lt;br /&gt;&lt;br /&gt;2. Wine/Wine64 + Box86/Box64&lt;br /&gt;&lt;br /&gt;只成功安装了 Box64 ，Box86 安装失败。使用 Box64 无法运行 32 位 exe&lt;br /&gt;&lt;br /&gt;3. 求助麒麟技术支持&lt;br /&gt;&lt;br /&gt;多位支持说 x86 的虚拟机是装不上的，而事实上我已成功安装&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;不知道大佬们还是否有别的解决方案</description>
+    </item>
+    <item>
       <title>真的除了独栋别墅，就没有别的办法避免噪音了吗？</title>
       <link>https://www.v2ex.com/t/1174218</link>
       <guid>v2ex-1174218</guid>
@@ -92,13 +99,6 @@
 &lt;p&gt;研究过隔音装修，貌似也不是百分百隔音。&lt;/p&gt;
 &lt;p&gt;独栋别墅肯定买不起，不知道复式一楼或者顶楼怎样，感觉是一个不错的选择，因为两层都是自己的，隔了一层，噪音大大减少。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>[求救]怎么在 arm64 的麒麟 v10 上运行 win32 的 exe</title>
-      <link>https://www.v2ex.com/t/1174277</link>
-      <guid>v2ex-1174277</guid>
-      <pubDate>Fri, 21 Nov 2025 09:16:25 GMT</pubDate>
-      <description>前情提要 &lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1154926#reply49&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.v2ex.com/t/1154926#reply49&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;目前已知项目情况：&lt;br /&gt;1. 没有源码，只有一个文件夹，因为要和硬件交互，内部含有大量 dll ，靠运行一个 32 位的 exe 来启动&lt;br /&gt;2. 基于 .net framework 4.5&lt;br /&gt;&lt;br /&gt;已做尝试：&lt;br /&gt;&lt;br /&gt;1. 虚拟机方案 qemu + virt-manager&lt;br /&gt;&lt;br /&gt;	1.1 安装 xp ，并安装 .net framework 4.0, 运行 exe 提示 **不是一个有效的 Win32 应用程序**&lt;br /&gt;&lt;br /&gt;	1.2 安装 32 位和 64 位 win7 ，给了 4G 或者 8G 内存，卡顿严重。在 32 位上运行 exe 卡住无法打开。AI 说要安装 virtio 驱动，但是即使是管理员身份依然提示没有权限&lt;br /&gt;&lt;br /&gt;2. Wine/Wine64 + Box86/Box64&lt;br /&gt;&lt;br /&gt;只成功安装了 Box64 ，Box86 安装失败。使用 Box64 无法运行 32 位 exe&lt;br /&gt;&lt;br /&gt;3. 求助麒麟技术支持&lt;br /&gt;&lt;br /&gt;多位支持说 x86 的虚拟机是装不上的，而事实上我已成功安装&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;不知道大佬们还是否有别的解决方案</description>
     </item>
     <item>
       <title>有什么好用的记录待办事项的软件</title>
