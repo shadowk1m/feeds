@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 22 Nov 2025 11:08:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 11:32:42 GMT</lastBuildDate>
     <item>
       <title>等我们都走了，你一个人该怎么办？</title>
       <link>https://www.v2ex.com/t/1174299</link>
@@ -30,51 +30,6 @@
 &lt;p&gt;你如果实事求是说小米的不好，我不仅不会反对，还会跟你一起骂，可是看看现在网上都是什么论调，断章取义，造谣抹黑，对小米真的是饱和式攻击。&lt;/p&gt;
 &lt;p&gt;小米红米现在的定价策略已经把我拒之门外了，我以后可能不会再买小米手机了，但是一家企业，被饱和式的造谣抹黑打趴下，我实在是看不下去。&lt;/p&gt;
 &lt;p&gt;是我错了吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>如何利用国外便利架设内网或科学上网？</title>
-      <link>https://www.v2ex.com/t/1174293</link>
-      <guid>v2ex-1174293</guid>
-      <pubDate>Fri, 21 Nov 2025 11:30:03 GMT</pubDate>
-      <description>&lt;h2&gt;X 问题&lt;/h2&gt;
-&lt;p&gt;我在新加坡，女朋友在杭州。我希望女朋友能看网飞和上外网。&lt;/p&gt;
-&lt;p&gt;需求：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;尽可能低成本；&lt;/li&gt;
-&lt;li&gt;尽可能易于配置，让女朋友一次配置以后不需要反复运维；&lt;/li&gt;
-&lt;li&gt;女朋友需要上网飞/外网，架设女朋友只有一台 iOS 和一台 macOS 设备，优先满足 macOS 设备需求。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前拥有的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;一台永不关机的 Mac mini ；&lt;/li&gt;
-&lt;li&gt;自己使用 Singtel 的 2gbps 上下行对等网络，IPv4 是 Full cone NAT 模式，IPv6 暂无，未来可能有；&lt;/li&gt;
-&lt;li&gt;Surge 订阅。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Y 问题&lt;/h2&gt;
-&lt;p&gt;为了尽可能低成本，我想尽可能多利用自己在新加坡住宅的网络，也可以避免网飞的风控。&lt;/p&gt;
-&lt;p&gt;因此，在考虑：&lt;/p&gt;
-&lt;h3&gt;方案 1&lt;/h3&gt;
-&lt;h4&gt;思路&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;使用 Surge Ponte 功能， 先将女朋友的设备加入到我的内网中；&lt;/li&gt;
-&lt;li&gt;在内网运行 Sock 5 或常见代理，女朋友使用该代理访问网飞。 —— （我不确定这一步是否需要，本质是使用自己的住宅 IP 访问）。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4&gt;问题&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;我不确定是否需要（ 2 ）这一步，以及 socks 5 代理是否足够；&lt;/li&gt;
-&lt;li&gt;我不确定 Ponte 是否可以跨 Apple ID 使用，我翻到了 surge 论坛上 2023 年提到了： &lt;a href=&quot;https://community.nssurge.com/d/1535-surge-ponte&quot; rel=&quot;nofollow&quot;&gt;https://community.nssurge.com/d/1535-surge-ponte&lt;/a&gt; 可以支持，但现在也没有找到跨  apple ID 支持的更新文档。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;方案 2&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;购买 vultr ，架设完整代理。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4&gt;问题&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;我不确定是否会频繁被 GFW 阻断，有什么办法规避和避免。并且这样似乎女朋友失去了访问我的 NAS 的便利。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;p&gt;我不确定是否我陷入了 X - Y Problem 问题，所以想发帖请教各位 V 友，是否有更合理更便捷的思路？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -133,6 +88,13 @@
       <pubDate>Sat, 22 Nov 2025 02:15:08 GMT</pubDate>
       <description>&lt;p&gt;Firefox ？说实话好几年前经常用，这一两年没怎么用过它了&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>办公笔记本电脑求推荐</title>
+      <link>https://www.v2ex.com/t/1174326</link>
+      <guid>v2ex-1174326</guid>
+      <pubDate>Sat, 22 Nov 2025 00:53:41 GMT</pubDate>
+      <description>老婆办公和写论文目前看的是 thinkbook 14+ amd 255 或者 thinkbook 14+ intel u4 225 这两个要选的话选哪个好呀？&lt;br /&gt;&lt;br /&gt;现在的 thinkbook 做工如何，听说和 thinkpad 不一样了吗？&lt;br /&gt;&lt;br /&gt;有其他品牌或者型号电脑也可以推荐下 5000 左右的 谢谢大家了&lt;br /&gt;&lt;br /&gt;需要 Windows Windows Windows</description>
     </item>
   </channel>
 </rss>
