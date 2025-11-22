@@ -4,36 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 22 Nov 2025 07:09:59 GMT</lastBuildDate>
-    <item>
-      <title>如何设计一个支持高强度对线的社区</title>
-      <link>https://www.v2ex.com/t/1174239</link>
-      <guid>v2ex-1174239</guid>
-      <pubDate>Fri, 21 Nov 2025 07:29:22 GMT</pubDate>
-      <description>&lt;p&gt;比如针对话题 ‘AI 编程就是垃圾 / AI 编程可以极大地提高效率’&lt;/p&gt;
-&lt;p&gt;对于这种比较极端的战队行为，如果想要让社区用户能够拥有良好的对线体验（对喷 对话题讨论但不上升到人身攻击），什么样的界面会是好的设计。&lt;/p&gt;
-&lt;h2&gt;核心理念：将“对立”本身可视化、可互动化&lt;/h2&gt;
-&lt;p&gt;传统社区只是在时间线上陈列“观点”，我想做的是观点之间的碰撞。
-因此整个产品需要从 UI 、信息结构、交互上都体现“对立关系”。&lt;/p&gt;
-&lt;p&gt;简单来说，就是做一个&lt;strong&gt;观点擂台（ Opinion Arena ）&lt;/strong&gt;。&lt;/p&gt;
-&lt;h2&gt;重点解决：&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;如何让用户直观感受到观点冲突&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;如何呈现 1v1 、1vN 的观点对战&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;如何在激烈对抗中维持 可控的秩序与用户体验&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;如何设计能刺激参与、又不导致社区失控的 交互与机制&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我正在思考这块内容，如果你也有兴趣，欢迎讨论。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 22 Nov 2025 07:33:20 GMT</lastBuildDate>
     <item>
       <title>究竟是什么人在饱和式攻击小米？还是小米本就如此不堪？</title>
       <link>https://www.v2ex.com/t/1174321</link>
@@ -67,17 +38,6 @@
       <guid>v2ex-1174277</guid>
       <pubDate>Fri, 21 Nov 2025 09:16:25 GMT</pubDate>
       <description>前情提要 &lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1154926#reply49&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.v2ex.com/t/1154926#reply49&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;目前已知项目情况：&lt;br /&gt;1. 没有源码，只有一个文件夹，因为要和硬件交互，内部含有大量 dll ，靠运行一个 32 位的 exe 来启动&lt;br /&gt;2. 基于 .net framework 4.5&lt;br /&gt;&lt;br /&gt;已做尝试：&lt;br /&gt;&lt;br /&gt;1. 虚拟机方案 qemu + virt-manager&lt;br /&gt;&lt;br /&gt;	1.1 安装 xp ，并安装 .net framework 4.0, 运行 exe 提示 **不是一个有效的 Win32 应用程序**&lt;br /&gt;&lt;br /&gt;	1.2 安装 32 位和 64 位 win7 ，给了 4G 或者 8G 内存，卡顿严重。在 32 位上运行 exe 卡住无法打开。AI 说要安装 virtio 驱动，但是即使是管理员身份依然提示没有权限&lt;br /&gt;&lt;br /&gt;2. Wine/Wine64 + Box86/Box64&lt;br /&gt;&lt;br /&gt;只成功安装了 Box64 ，Box86 安装失败。使用 Box64 无法运行 32 位 exe&lt;br /&gt;&lt;br /&gt;3. 求助麒麟技术支持&lt;br /&gt;&lt;br /&gt;多位支持说 x86 的虚拟机是装不上的，而事实上我已成功安装&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;不知道大佬们还是否有别的解决方案</description>
-    </item>
-    <item>
-      <title>有什么好用的记录待办事项的软件</title>
-      <link>https://www.v2ex.com/t/1174235</link>
-      <guid>v2ex-1174235</guid>
-      <pubDate>Fri, 21 Nov 2025 07:19:55 GMT</pubDate>
-      <description>&lt;p&gt;目前我是用消息发给我小号，做好了就把消息删掉 ，但是可能一时间不做的过了很久就忘记了&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;有什么好用一点的呢？
-备忘录也不合适，记在飞书里久也忘了
-&lt;/code&gt;&lt;/pre&gt;
-</description>
     </item>
     <item>
       <title>如何利用国外便利架设内网或科学上网？</title>
@@ -147,6 +107,20 @@
       <guid>v2ex-1174253</guid>
       <pubDate>Fri, 21 Nov 2025 08:05:08 GMT</pubDate>
       <description>沪指跌 2.45%失守 3900 点， 日经跌 2.4%，我们是败了吗</description>
+    </item>
+    <item>
+      <title>被 telegram 封号浪潮波及了</title>
+      <link>https://www.v2ex.com/t/1174322</link>
+      <guid>v2ex-1174322</guid>
+      <pubDate>Fri, 21 Nov 2025 15:59:28 GMT</pubDate>
+      <description>被 tg 封号浪潮波及了（ SEO 用）&lt;br /&gt;今天在外面用着手机版，打开 tg 提示被冻结了&lt;br /&gt;应该是正常使用的状态，反思自己没有发送过 nsfw 内容&lt;br /&gt;&lt;br /&gt;网传封号原因：&lt;br /&gt;第三方 telegram+机场 ip=高危使用（据说开会员没有用）&lt;br /&gt;可以在应用内套一层 socks 代理来缓解&lt;br /&gt;&lt;br /&gt;我的使用环境：swiftgram （ iOS 端）+圈 x 分流模式，账户本身是接码平台+改常用 gv （此前炸过一个号，临时用接码平台接力）&lt;br /&gt;尝试机翻给 spambot 发消息，几分钟后告诉我给拒了。随后我使用 chatgpt 翻译，截止到发帖三个多小时没有恢复和反馈。&lt;br /&gt;我打算再次通过邮件的方式申诉。那个网传帖子说，spambot 只有一次机会。所以我这几天就要做迁移了。&lt;br /&gt;&lt;br /&gt;圈 x 打开了 socks 代理模式和 http 代理还有兼容性增强，swiftgram 无法连接&lt;br /&gt;机场是一线机场（ eXRvbw==），但他的 ip 已经脏到 deepl 无法使用（非登录模式下）&lt;br /&gt;好烦，虽然是冻结状态，但是还可以一个一个加回去群聊，但是还是有一些私密群组要重新做验证，可惜了这个账户的频道和贴纸包，并且 200 人的小频道忘记做备份了（小号作为全权管理员）&lt;br /&gt;&lt;br /&gt;浪费了一个周末，杜罗夫真是活全家。前有强力反垃圾歧视所有中文聊天，后有封禁风险 ip 用户。&lt;br /&gt;昨天还在和群友聊 tgcn 圈的模仿账户诈骗事件，各个群友要做非对称加密的验证。&lt;br /&gt;&lt;br /&gt;顺带问一下 iOS 端哪个代理软件可以在本机连上 socks 代理&lt;br /&gt;我在 telegram 里设置 socks 模式，127.0.0.1：8899 和 9988 连不上&lt;br /&gt;不考虑使用小火箭，实在是不会用小火箭配置实现分流。</description>
+    </item>
+    <item>
+      <title>有没有东方树叶 青柑普洱的平替？</title>
+      <link>https://www.v2ex.com/t/1174343</link>
+      <guid>v2ex-1174343</guid>
+      <pubDate>Sat, 22 Nov 2025 03:20:44 GMT</pubDate>
+      <description>太喜欢喝了，夏天一天能喝两瓶 900ML 装。&lt;br /&gt;冬天想喝点热乎的，买了某知名品牌的青柑普洱自己泡只喝出了苦味，并且还要洗茶洗杯子好麻烦。</description>
     </item>
   </channel>
 </rss>
