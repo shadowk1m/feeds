@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 22 Nov 2025 06:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 06:45:00 GMT</lastBuildDate>
     <item>
       <title>如何设计一个支持高强度对线的社区</title>
       <link>https://www.v2ex.com/t/1174239</link>
@@ -67,17 +67,6 @@
       <guid>v2ex-1174277</guid>
       <pubDate>Fri, 21 Nov 2025 09:16:25 GMT</pubDate>
       <description>前情提要 &lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1154926#reply49&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.v2ex.com/t/1154926#reply49&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;目前已知项目情况：&lt;br /&gt;1. 没有源码，只有一个文件夹，因为要和硬件交互，内部含有大量 dll ，靠运行一个 32 位的 exe 来启动&lt;br /&gt;2. 基于 .net framework 4.5&lt;br /&gt;&lt;br /&gt;已做尝试：&lt;br /&gt;&lt;br /&gt;1. 虚拟机方案 qemu + virt-manager&lt;br /&gt;&lt;br /&gt;	1.1 安装 xp ，并安装 .net framework 4.0, 运行 exe 提示 **不是一个有效的 Win32 应用程序**&lt;br /&gt;&lt;br /&gt;	1.2 安装 32 位和 64 位 win7 ，给了 4G 或者 8G 内存，卡顿严重。在 32 位上运行 exe 卡住无法打开。AI 说要安装 virtio 驱动，但是即使是管理员身份依然提示没有权限&lt;br /&gt;&lt;br /&gt;2. Wine/Wine64 + Box86/Box64&lt;br /&gt;&lt;br /&gt;只成功安装了 Box64 ，Box86 安装失败。使用 Box64 无法运行 32 位 exe&lt;br /&gt;&lt;br /&gt;3. 求助麒麟技术支持&lt;br /&gt;&lt;br /&gt;多位支持说 x86 的虚拟机是装不上的，而事实上我已成功安装&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;不知道大佬们还是否有别的解决方案</description>
-    </item>
-    <item>
-      <title>真的除了独栋别墅，就没有别的办法避免噪音了吗？</title>
-      <link>https://www.v2ex.com/t/1174218</link>
-      <guid>v2ex-1174218</guid>
-      <pubDate>Fri, 21 Nov 2025 06:25:11 GMT</pubDate>
-      <description>&lt;p&gt;可笑现在的房子动不动几百上千万，每一个隔音的。&lt;/p&gt;
-&lt;p&gt;我租房虽然也不隔音，但是我随时可以跑，就是搬家也挺费劲的。&lt;/p&gt;
-&lt;p&gt;研究过隔音装修，貌似也不是百分百隔音。&lt;/p&gt;
-&lt;p&gt;独栋别墅肯定买不起，不知道复式一楼或者顶楼怎样，感觉是一个不错的选择，因为两层都是自己的，隔了一层，噪音大大减少。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>有什么好用的记录待办事项的软件</title>
@@ -151,6 +140,13 @@
       <guid>v2ex-1174253</guid>
       <pubDate>Fri, 21 Nov 2025 08:05:08 GMT</pubDate>
       <description>沪指跌 2.45%失守 3900 点， 日经跌 2.4%，我们是败了吗</description>
+    </item>
+    <item>
+      <title>用的苹果 12 纯数字版，开两三个软件都发热</title>
+      <link>https://www.v2ex.com/t/1174257</link>
+      <guid>v2ex-1174257</guid>
+      <pubDate>Fri, 21 Nov 2025 08:13:52 GMT</pubDate>
+      <description>用的苹果 12 纯数字版，开两三个软件都发热（甚至有时候烫）微信抖音美团淘宝京东等常用软件，这情况持续好久了。&lt;br /&gt;电池 71%，换个电池会好些么？还是说只能换手机了</description>
     </item>
   </channel>
 </rss>
