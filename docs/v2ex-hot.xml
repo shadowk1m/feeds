@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 22 Nov 2025 13:37:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 14:09:19 GMT</lastBuildDate>
     <item>
       <title>究竟是什么人在饱和式攻击小米？还是小米本就如此不堪？</title>
       <link>https://www.v2ex.com/t/1174321</link>
@@ -76,18 +76,18 @@
 </description>
     </item>
     <item>
-      <title>被 telegram 封号浪潮波及了</title>
-      <link>https://www.v2ex.com/t/1174322</link>
-      <guid>v2ex-1174322</guid>
-      <pubDate>Fri, 21 Nov 2025 15:59:28 GMT</pubDate>
-      <description>被 tg 封号浪潮波及了（ SEO 用）&lt;br /&gt;今天在外面用着手机版，打开 tg 提示被冻结了&lt;br /&gt;应该是正常使用的状态，反思自己没有发送过 nsfw 内容&lt;br /&gt;&lt;br /&gt;网传封号原因：&lt;br /&gt;第三方 telegram+机场 ip=高危使用（据说开会员没有用）&lt;br /&gt;可以在应用内套一层 socks 代理来缓解&lt;br /&gt;&lt;br /&gt;我的使用环境：swiftgram （ iOS 端）+圈 x 分流模式，账户本身是接码平台+改常用 gv （此前炸过一个号，临时用接码平台接力）&lt;br /&gt;尝试机翻给 spambot 发消息，几分钟后告诉我给拒了。随后我使用 chatgpt 翻译，截止到发帖三个多小时没有恢复和反馈。&lt;br /&gt;我打算再次通过邮件的方式申诉。那个网传帖子说，spambot 只有一次机会。所以我这几天就要做迁移了。&lt;br /&gt;&lt;br /&gt;圈 x 打开了 socks 代理模式和 http 代理还有兼容性增强，swiftgram 无法连接&lt;br /&gt;机场是一线机场（ eXRvbw==），但他的 ip 已经脏到 deepl 无法使用（非登录模式下）&lt;br /&gt;好烦，虽然是冻结状态，但是还可以一个一个加回去群聊，但是还是有一些私密群组要重新做验证，可惜了这个账户的频道和贴纸包，并且 200 人的小频道忘记做备份了（小号作为全权管理员）&lt;br /&gt;&lt;br /&gt;浪费了一个周末，杜罗夫真是活全家。前有强力反垃圾歧视所有中文聊天，后有封禁风险 ip 用户。&lt;br /&gt;昨天还在和群友聊 tgcn 圈的模仿账户诈骗事件，各个群友要做非对称加密的验证。&lt;br /&gt;&lt;br /&gt;顺带问一下 iOS 端哪个代理软件可以在本机连上 socks 代理&lt;br /&gt;我在 telegram 里设置 socks 模式，127.0.0.1：8899 和 9988 连不上&lt;br /&gt;不考虑使用小火箭，实在是不会用小火箭配置实现分流。</description>
-    </item>
-    <item>
       <title>办公笔记本电脑求推荐</title>
       <link>https://www.v2ex.com/t/1174326</link>
       <guid>v2ex-1174326</guid>
       <pubDate>Sat, 22 Nov 2025 00:53:41 GMT</pubDate>
       <description>老婆办公和写论文目前看的是 thinkbook 14+ amd 255 或者 thinkbook 14+ intel u4 225 这两个要选的话选哪个好呀？&lt;br /&gt;&lt;br /&gt;现在的 thinkbook 做工如何，听说和 thinkpad 不一样了吗？&lt;br /&gt;&lt;br /&gt;有其他品牌或者型号电脑也可以推荐下 5000 左右的 谢谢大家了&lt;br /&gt;&lt;br /&gt;需要 Windows Windows Windows</description>
+    </item>
+    <item>
+      <title>被 telegram 封号浪潮波及了</title>
+      <link>https://www.v2ex.com/t/1174322</link>
+      <guid>v2ex-1174322</guid>
+      <pubDate>Fri, 21 Nov 2025 15:59:28 GMT</pubDate>
+      <description>被 tg 封号浪潮波及了（ SEO 用）&lt;br /&gt;今天在外面用着手机版，打开 tg 提示被冻结了&lt;br /&gt;应该是正常使用的状态，反思自己没有发送过 nsfw 内容&lt;br /&gt;&lt;br /&gt;网传封号原因：&lt;br /&gt;第三方 telegram+机场 ip=高危使用（据说开会员没有用）&lt;br /&gt;可以在应用内套一层 socks 代理来缓解&lt;br /&gt;&lt;br /&gt;我的使用环境：swiftgram （ iOS 端）+圈 x 分流模式，账户本身是接码平台+改常用 gv （此前炸过一个号，临时用接码平台接力）&lt;br /&gt;尝试机翻给 spambot 发消息，几分钟后告诉我给拒了。随后我使用 chatgpt 翻译，截止到发帖三个多小时没有恢复和反馈。&lt;br /&gt;我打算再次通过邮件的方式申诉。那个网传帖子说，spambot 只有一次机会。所以我这几天就要做迁移了。&lt;br /&gt;&lt;br /&gt;圈 x 打开了 socks 代理模式和 http 代理还有兼容性增强，swiftgram 无法连接&lt;br /&gt;机场是一线机场（ eXRvbw==），但他的 ip 已经脏到 deepl 无法使用（非登录模式下）&lt;br /&gt;好烦，虽然是冻结状态，但是还可以一个一个加回去群聊，但是还是有一些私密群组要重新做验证，可惜了这个账户的频道和贴纸包，并且 200 人的小频道忘记做备份了（小号作为全权管理员）&lt;br /&gt;&lt;br /&gt;浪费了一个周末，杜罗夫真是活全家。前有强力反垃圾歧视所有中文聊天，后有封禁风险 ip 用户。&lt;br /&gt;昨天还在和群友聊 tgcn 圈的模仿账户诈骗事件，各个群友要做非对称加密的验证。&lt;br /&gt;&lt;br /&gt;顺带问一下 iOS 端哪个代理软件可以在本机连上 socks 代理&lt;br /&gt;我在 telegram 里设置 socks 模式，127.0.0.1：8899 和 9988 连不上&lt;br /&gt;不考虑使用小火箭，实在是不会用小火箭配置实现分流。</description>
     </item>
     <item>
       <title>公司要给没项目的人放无薪假期</title>
@@ -97,11 +97,16 @@
       <description>没活干的人停薪留职，等新项目来了再回公司，如何应对</description>
     </item>
     <item>
-      <title>群晖用 ext4 和 btrfs 哪个更靠谱？（无 RAID）</title>
-      <link>https://www.v2ex.com/t/1174345</link>
-      <guid>v2ex-1174345</guid>
-      <pubDate>Sat, 22 Nov 2025 03:29:44 GMT</pubDate>
-      <description>群晖用 ext4 和 btrfs 哪个更靠谱？（无 RAID）</description>
+      <title>独立开发者使用 cf r2 做图床视频床怎么样？</title>
+      <link>https://www.v2ex.com/t/1174379</link>
+      <guid>v2ex-1174379</guid>
+      <pubDate>Sat, 22 Nov 2025 07:07:06 GMT</pubDate>
+      <description>&lt;p&gt;目前使用自己搭建的 minio 做图床，放在服务器上，外面再套个 nginx 做 referer 等的读取限制以及 Cache-Control ，但缺点很明显，受限于服务器的带宽和流量，很容易被坏人刷光流量。&lt;/p&gt;
+&lt;p&gt;看了下 cf 的 r2 很适合，无限流量，兼容 S3 API 。&lt;/p&gt;
+&lt;p&gt;我的项目国内外都要访问，国内访问 cf 的对象存储直链速度怎么样？&lt;/p&gt;
+&lt;p&gt;大善人的流量给的很足，免费额度基本够用，并且还可以设置 WAF 来限制速率规则。&lt;/p&gt;
+&lt;p&gt;所以除大善人的 r2 ，还有其他类似的方案吗。有专门的 blog 或者帖子对比这些云存储服务吗（价格/后台管理/访问速度等各维度）。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
