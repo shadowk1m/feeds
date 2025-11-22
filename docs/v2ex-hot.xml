@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 22 Nov 2025 16:41:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 17:08:47 GMT</lastBuildDate>
     <item>
       <title>为什么景区，服务区，游乐场的东西这么贵？？</title>
       <link>https://www.v2ex.com/t/1174367</link>
@@ -113,16 +113,11 @@
 </description>
     </item>
     <item>
-      <title>独立开发者使用 cf r2 做图床视频床怎么样？</title>
-      <link>https://www.v2ex.com/t/1174379</link>
-      <guid>v2ex-1174379</guid>
-      <pubDate>Sat, 22 Nov 2025 07:07:06 GMT</pubDate>
-      <description>&lt;p&gt;目前使用自己搭建的 minio 做图床，放在服务器上，外面再套个 nginx 做 referer 等的读取限制以及 Cache-Control ，但缺点很明显，受限于服务器的带宽和流量，很容易被坏人刷光流量。&lt;/p&gt;
-&lt;p&gt;看了下 cf 的 r2 很适合，无限流量，兼容 S3 API 。&lt;/p&gt;
-&lt;p&gt;我的项目国内外都要访问，国内访问 cf 的对象存储直链速度怎么样？&lt;/p&gt;
-&lt;p&gt;大善人的流量给的很足，免费额度基本够用，并且还可以设置 WAF 来限制速率规则。&lt;/p&gt;
-&lt;p&gt;所以除大善人的 r2 ，还有其他类似的方案吗。有专门的 blog 或者帖子对比这些云存储服务吗（价格/后台管理/访问速度等各维度）。&lt;/p&gt;
-</description>
+      <title>群晖用 ext4 和 btrfs 哪个更靠谱？（无 RAID）</title>
+      <link>https://www.v2ex.com/t/1174345</link>
+      <guid>v2ex-1174345</guid>
+      <pubDate>Sat, 22 Nov 2025 03:29:44 GMT</pubDate>
+      <description>群晖用 ext4 和 btrfs 哪个更靠谱？（无 RAID）</description>
     </item>
   </channel>
 </rss>
