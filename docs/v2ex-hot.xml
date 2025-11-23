@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Nov 2025 06:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 06:46:33 GMT</lastBuildDate>
     <item>
       <title>大家害怕死亡吗？</title>
       <link>https://www.v2ex.com/t/1174421</link>
@@ -44,13 +44,11 @@
 </description>
     </item>
     <item>
-      <title>为什么景区，服务区，游乐场的东西这么贵？？</title>
-      <link>https://www.v2ex.com/t/1174367</link>
-      <guid>v2ex-1174367</guid>
-      <pubDate>Sat, 22 Nov 2025 06:18:20 GMT</pubDate>
-      <description>&lt;p&gt;我觉得除了泰山，黄山这种需要靠人力搬上去的，成本高 你卖的贵也能理解。&lt;/p&gt;
-&lt;p&gt;像服务器，除了偏远地区，山里 西部那些地方。江浙沪的服务区补给很轻松吧，里面卖的东西也比外面贵。&lt;/p&gt;
-&lt;p&gt;还有就是像景区，游乐场，比如什么乐高 大的户外游乐场所，一份普通的饭，4 50  这不是明显的垄断抢钱么。&lt;/p&gt;
+      <title>shadowrocket 和 Loon 如何选择？</title>
+      <link>https://www.v2ex.com/t/1174466</link>
+      <guid>v2ex-1174466</guid>
+      <pubDate>Sun, 23 Nov 2025 02:34:20 GMT</pubDate>
+      <description>&lt;p&gt;自建节点，没有订阅地址，目前有 quanX 但是不支持 reality ，想在入手一款软件，请问现在哪款比较好一些？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -77,19 +75,21 @@
 </description>
     </item>
     <item>
-      <title>shadowrocket 和 Loon 如何选择？</title>
-      <link>https://www.v2ex.com/t/1174466</link>
-      <guid>v2ex-1174466</guid>
-      <pubDate>Sun, 23 Nov 2025 02:34:20 GMT</pubDate>
-      <description>&lt;p&gt;自建节点，没有订阅地址，目前有 quanX 但是不支持 reality ，想在入手一款软件，请问现在哪款比较好一些？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>华为鸿蒙开发最新的情况怎么样，看到有不少抱怨</title>
       <link>https://www.v2ex.com/t/1174403</link>
       <guid>v2ex-1174403</guid>
       <pubDate>Sat, 22 Nov 2025 10:33:14 GMT</pubDate>
       <description>事先声明：本人小白，不是开发者，只是对这个话题感兴趣。&lt;br /&gt;起因是今天在 B 站上刷到了一个鸿蒙平台独立软件开发者发的吐槽视频：BV1u6UVBVEhk ，主要讲最近鸿蒙开发上架软件，被审了三次以上还没过，同样的软件在 Android 和 iOS 上都上架了，主要有下面几个问题：&lt;br /&gt;1.审核打回问题不一次说完，第一次是这些问题，第二次又是那些问题，开发者说他已经折腾了三次以上，我怀疑是审核外包质量不齐&lt;br /&gt;&lt;br /&gt;2.过多无理要求，内容标题不一致，认为 APP 的付费解锁使用的模式不对，而且根据列举的其他开发者的吐槽，好像审核对于一款 APP 的要求，是内容多，不是功能性，看到你 tab 栏少，交互次数不多就默认你功能不全&lt;br /&gt;&lt;br /&gt;3.貌似因为激励金不足，开始大规模卡审核，次数比之前要多了，这些是在评论区观众反馈的&lt;br /&gt;&lt;br /&gt;更戏剧的一点是，我看完视频，去小红书搜索“鸿蒙审核”时，看到一天内有好几个熟悉的知名自媒体博主发布相似软文，介绍鸿蒙开发的相关规范，并鼓励开发者入驻，合着你砍了激励金，前都用在打广告上了是吧（无语）&lt;br /&gt;大致情况是这样，有社区里参与过鸿蒙开发的大佬分享一下自己的切身开发体验吗</description>
+    </item>
+    <item>
+      <title>游戏加速器与梯子冲突怎么办？</title>
+      <link>https://www.v2ex.com/t/1174459</link>
+      <guid>v2ex-1174459</guid>
+      <pubDate>Sun, 23 Nov 2025 01:15:15 GMT</pubDate>
+      <description>&lt;p&gt;最近玩美测云顶 pbe ，需要开加速器。但是开完后会跟梯子冲突（无法再访问 google ）。&lt;/p&gt;
+&lt;p&gt;梯子是代理模式(没开 TUN ），加速器显示的已经是进程模式&lt;/p&gt;
+&lt;p&gt;PS：试过开完加速器后，重启梯子，没有用&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>公司要给没项目的人放无薪假期</title>
@@ -107,16 +107,6 @@
 </description>
     </item>
     <item>
-      <title>游戏加速器与梯子冲突怎么办？</title>
-      <link>https://www.v2ex.com/t/1174459</link>
-      <guid>v2ex-1174459</guid>
-      <pubDate>Sun, 23 Nov 2025 01:15:15 GMT</pubDate>
-      <description>&lt;p&gt;最近玩美测云顶 pbe ，需要开加速器。但是开完后会跟梯子冲突（无法再访问 google ）。&lt;/p&gt;
-&lt;p&gt;梯子是代理模式(没开 TUN ），加速器显示的已经是进程模式&lt;/p&gt;
-&lt;p&gt;PS：试过开完加速器后，重启梯子，没有用&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>独立开发者使用 cf r2 做图床视频床怎么样？</title>
       <link>https://www.v2ex.com/t/1174379</link>
       <guid>v2ex-1174379</guid>
@@ -127,6 +117,13 @@
 &lt;p&gt;大善人的流量给的很足，免费额度基本够用，并且还可以设置 WAF 来限制速率规则。&lt;/p&gt;
 &lt;p&gt;所以除大善人的 r2 ，还有其他类似的方案吗。有专门的 blog 或者帖子对比这些云存储服务吗（价格/后台管理/访问速度等各维度）。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>每一个想发大财的人在进入股票市场之前是不是都以为自己是投资天才</title>
+      <link>https://www.v2ex.com/t/1174483</link>
+      <guid>v2ex-1174483</guid>
+      <pubDate>Sun, 23 Nov 2025 04:11:30 GMT</pubDate>
+      <description>还是说想长远的赚点小钱，细水长流 &lt;br /&gt;&lt;br /&gt;但是我看很多人的人生建议是：不要玩股票</description>
     </item>
   </channel>
 </rss>
