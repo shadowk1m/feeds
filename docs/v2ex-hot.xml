@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Nov 2025 15:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 16:12:07 GMT</lastBuildDate>
     <item>
       <title>有可乐瘾的朋友们是如何戒的？</title>
       <link>https://www.v2ex.com/t/1174500</link>
@@ -79,6 +79,26 @@
       <guid>v2ex-1174483</guid>
       <pubDate>Sun, 23 Nov 2025 04:11:30 GMT</pubDate>
       <description>还是说想长远的赚点小钱，细水长流 &lt;br /&gt;&lt;br /&gt;但是我看很多人的人生建议是：不要玩股票</description>
+    </item>
+    <item>
+      <title>一次可以清理几十个 G 的 Mac 系统优化工具 Mole 小鼹鼠更新了</title>
+      <link>https://www.v2ex.com/t/1174476</link>
+      <guid>v2ex-1174476</guid>
+      <pubDate>Sun, 23 Nov 2025 03:28:14 GMT</pubDate>
+      <description>&lt;p&gt;一次可以清理几十个 G 的 Mac 系统优化工具 Mole 小鼹鼠功能终于逐步完善了 &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/tw93/Mole&quot; rel=&quot;nofollow&quot;&gt;https://github.com/tw93/Mole&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;首先给之前初级版本考虑不到位，导致有些小伙伴清理后造成某些软件的配置或者数据丢失问题，说一声抱歉，Mole 的完善会需要不少各种场景的测试验证，最近版本做了不少各种安全误删除的加固。&lt;/p&gt;
+&lt;p&gt;假如这台 Mac 对你非常重要，还是不建议现在使用 Mole ，假如需要用，第一次可以先 mo clean --dry-run 预览模式看要清理的内容，然后可以用 mo clean --whitelist 设置更多白名单。&lt;/p&gt;
+&lt;p&gt;这次发布了第十个版本，继续安全加固，新增查看系统现状功能，加上之前的清理、卸载、磁盘洞察、系统优化，基本覆盖了大伙 Mac 维护的大部分功能，近似等于 Clean My Mac + AppCleaner + DaisyDisk + Sensei + iStat 的能力，给大伙介绍小鼹鼠的 5 大功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/pic/mole1.gif&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;mo clean ，用于像鼹鼠一样强力挖掘你的 Mac 里面的各种垃圾，各种缓存以及孤岛文件，第一次使用可以清理掉非常多无用空间。&lt;/p&gt;
+&lt;p&gt;mo uninstall ，很彻底的卸载你的软件，除去软件 app 本身，还有各种注册项、启动项、配置文件等都可以非常彻底的清理掉。&lt;/p&gt;
+&lt;p&gt;mo optimize ，帮我一键优化系统，比如说各种刷新、错误重置、重置缓存，重置服务、检查开机项等内容。&lt;/p&gt;
+&lt;p&gt;mo analyze ，可视化的方式下钻你的磁盘空间，可以看到有些可以清理的无用文件，这里是对 clean 的一个很好的补充。&lt;/p&gt;
+&lt;p&gt;mo status ，可以很清楚看到你的电脑的运行健康情况，包括磁盘使用读写、电池使用、网络情况、进程占用、甚至是代理运行情况是否正常。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
