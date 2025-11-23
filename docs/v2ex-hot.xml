@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Nov 2025 04:06:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 04:48:49 GMT</lastBuildDate>
     <item>
       <title>大家害怕死亡吗？</title>
       <link>https://www.v2ex.com/t/1174421</link>
@@ -54,21 +54,6 @@
 </description>
     </item>
     <item>
-      <title>桌搭最终形态（Mac mini 篇）</title>
-      <link>https://www.v2ex.com/t/1174356</link>
-      <guid>v2ex-1174356</guid>
-      <pubDate>Sat, 22 Nov 2025 04:20:37 GMT</pubDate>
-      <description>&lt;p&gt;在家里使用 Mac mini 的时候，最大程度的还原 MacBookPro 的使用手感，至此，已完美搞定。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;5e326e4993b6152ac963c73ea01a52ca&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.baidu.com/search/down?url=https://resource.kaisir.cn/uploads/MarkDownImg/20251122/CiWi7x.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;b6156364d096636ce8e8dcfd5a9891f5&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.baidu.com/search/down?url=https://resource.kaisir.cn/uploads/MarkDownImg/20251122/wEESY2.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;19a34f3d9a81800471163bc1c9a8f0fb&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.baidu.com/search/down?url=https://resource.kaisir.cn/uploads/MarkDownImg/20251122/2Xq7Jg.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;44c2aff565a9d265164dc31a9bc75ae8&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.baidu.com/search/down?url=https://resource.kaisir.cn/uploads/MarkDownImg/20251122/1w6CDa.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;前两篇帖子地址：
-&lt;a href=&quot;https://v2ex.com/t/1146355?p=1#reply37&quot; rel=&quot;nofollow&quot;&gt;无痛从 MBP 切换至 Mac-mini 了～&lt;/a&gt;
-&lt;a href=&quot;https://v2ex.com/t/1174117?p=1#reply80&quot; rel=&quot;nofollow&quot;&gt;Mac mini 完全体&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>华为鸿蒙开发最新的情况怎么样，看到有不少抱怨</title>
       <link>https://www.v2ex.com/t/1174403</link>
       <guid>v2ex-1174403</guid>
@@ -99,6 +84,14 @@
 </description>
     </item>
     <item>
+      <title>shadowrocket 和 Loon 如何选择？</title>
+      <link>https://www.v2ex.com/t/1174466</link>
+      <guid>v2ex-1174466</guid>
+      <pubDate>Sun, 23 Nov 2025 02:34:20 GMT</pubDate>
+      <description>&lt;p&gt;自建节点，没有订阅地址，目前有 quanX 但是不支持 reality ，想在入手一款软件，请问现在哪款比较好一些？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>公司要给没项目的人放无薪假期</title>
       <link>https://www.v2ex.com/t/1174380</link>
       <guid>v2ex-1174380</guid>
@@ -124,11 +117,15 @@
 </description>
     </item>
     <item>
-      <title>shadowrocket 和 Loon 如何选择？</title>
-      <link>https://www.v2ex.com/t/1174466</link>
-      <guid>v2ex-1174466</guid>
-      <pubDate>Sun, 23 Nov 2025 02:34:20 GMT</pubDate>
-      <description>&lt;p&gt;自建节点，没有订阅地址，目前有 quanX 但是不支持 reality ，想在入手一款软件，请问现在哪款比较好一些？&lt;/p&gt;
+      <title>独立开发者使用 cf r2 做图床视频床怎么样？</title>
+      <link>https://www.v2ex.com/t/1174379</link>
+      <guid>v2ex-1174379</guid>
+      <pubDate>Sat, 22 Nov 2025 07:07:06 GMT</pubDate>
+      <description>&lt;p&gt;目前使用自己搭建的 minio 做图床，放在服务器上，外面再套个 nginx 做 referer 等的读取限制以及 Cache-Control ，但缺点很明显，受限于服务器的带宽和流量，很容易被坏人刷光流量。&lt;/p&gt;
+&lt;p&gt;看了下 cf 的 r2 很适合，无限流量，兼容 S3 API 。&lt;/p&gt;
+&lt;p&gt;我的项目国内外都要访问，国内访问 cf 的对象存储直链速度怎么样？&lt;/p&gt;
+&lt;p&gt;大善人的流量给的很足，免费额度基本够用，并且还可以设置 WAF 来限制速率规则。&lt;/p&gt;
+&lt;p&gt;所以除大善人的 r2 ，还有其他类似的方案吗。有专门的 blog 或者帖子对比这些云存储服务吗（价格/后台管理/访问速度等各维度）。&lt;/p&gt;
 </description>
     </item>
   </channel>
