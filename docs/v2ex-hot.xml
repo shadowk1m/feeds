@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 26 Nov 2025 10:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 10:44:11 GMT</lastBuildDate>
     <item>
       <title>现在国内经济还有救吗？</title>
       <link>https://www.v2ex.com/t/1175085</link>
@@ -86,15 +86,6 @@
 </description>
     </item>
     <item>
-      <title>Antigravity 这个 IDE 让我感受到惊艳，今天试用了一下，让他看了一下我今天的代码，修复 3 个高危漏洞， 5 个中等漏洞只需要 5 分钟</title>
-      <link>https://www.v2ex.com/t/1175004</link>
-      <guid>v2ex-1175004</guid>
-      <pubDate>Tue, 25 Nov 2025 10:21:01 GMT</pubDate>
-      <description>&lt;p&gt;修复的代码还给你总结一个文档出来，可以边看边 Reveiw 甚至可以添加评论，效率太高了。&lt;/p&gt;
-&lt;p&gt;其中 2 个 Bug ，我是压根儿就没想到的，我发给同事看了之后，同事说其中一个 Bug 是他之前踩过的坑，而我压根儿就没往那里考虑，太吊了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>有点想去割包皮，想来取下经</title>
       <link>https://www.v2ex.com/t/1175150</link>
       <guid>v2ex-1175150</guid>
@@ -116,6 +107,13 @@
       <pubDate>Wed, 26 Nov 2025 01:16:05 GMT</pubDate>
       <description>&lt;p&gt;是不是除了可能拿不到年终奖，可能被裁员，也没啥其他的风险了？会被开除什么的吗？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>来来来，各说一两个业界主流但是自己非常讨厌的应用/服务</title>
+      <link>https://www.v2ex.com/t/1175141</link>
+      <guid>v2ex-1175141</guid>
+      <pubDate>Wed, 26 Nov 2025 03:50:41 GMT</pubDate>
+      <description>我现在觉得 Jenkins 这玩意是真难用啊，不知道有没有人成功升级过它。插件和应用核心、插件和插件之间都有各种乱七八糟的版本依赖，即时遇到安全漏洞，想升级都难，一升级整个服务直接不可用了，好逆天的版本依赖。</description>
     </item>
   </channel>
 </rss>
