@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 26 Nov 2025 12:23:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 13:08:47 GMT</lastBuildDate>
     <item>
       <title>现在国内经济还有救吗？</title>
       <link>https://www.v2ex.com/t/1175085</link>
@@ -29,13 +29,6 @@
 </description>
     </item>
     <item>
-      <title>到底怎么做到早睡早起</title>
-      <link>https://www.v2ex.com/t/1175073</link>
-      <guid>v2ex-1175073</guid>
-      <pubDate>Wed, 26 Nov 2025 01:24:50 GMT</pubDate>
-      <description>正常下班回家吃完饭七点了，溜达一圈回来八点，陪家人一会九点了，9 点开始打游戏最多打两个小时，洗个澡差不多十一点多了，到这个点还是很抗拒结束这一天，感觉自己的时间不够用，硬熬到 12 点半才睡。</description>
-    </item>
-    <item>
       <title>谈谈很多人认为没有假大米和假鸡蛋这件事</title>
       <link>https://www.v2ex.com/t/1175158</link>
       <guid>v2ex-1175158</guid>
@@ -48,6 +41,13 @@
 &lt;p&gt;当然，严格来说，是不是假大米假鸡蛋，当然不是，人家说明了自己是什么米，自己是重制蛋，不过，如果我吃到了或者大部分人吃到了之后知晓制作过程应该都认为自己吃到了假大米，假鸡蛋。&lt;/p&gt;
 &lt;p&gt;最后，我发这个帖子的目的主要还是想科普一下这件事，因为很多人拿的理由来论证不存在假大米假鸡蛋其实一点站不住脚，确实存在假大米，假鸡蛋，当然，并不是塑料做的。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>到底怎么做到早睡早起</title>
+      <link>https://www.v2ex.com/t/1175073</link>
+      <guid>v2ex-1175073</guid>
+      <pubDate>Wed, 26 Nov 2025 01:24:50 GMT</pubDate>
+      <description>正常下班回家吃完饭七点了，溜达一圈回来八点，陪家人一会九点了，9 点开始打游戏最多打两个小时，洗个澡差不多十一点多了，到这个点还是很抗拒结束这一天，感觉自己的时间不够用，硬熬到 12 点半才睡。</description>
     </item>
     <item>
       <title>万一免五开户找老倔驴，选择多还靠谱[抽奖]</title>
@@ -101,19 +101,19 @@
 </description>
     </item>
     <item>
+      <title>来来来，各说一两个业界主流但是自己非常讨厌的应用/服务</title>
+      <link>https://www.v2ex.com/t/1175141</link>
+      <guid>v2ex-1175141</guid>
+      <pubDate>Wed, 26 Nov 2025 03:50:41 GMT</pubDate>
+      <description>我现在觉得 Jenkins 这玩意是真难用啊，不知道有没有人成功升级过它。插件和应用核心、插件和插件之间都有各种乱七八糟的版本依赖，即时遇到安全漏洞，想升级都难，一升级整个服务直接不可用了，好逆天的版本依赖。</description>
+    </item>
+    <item>
       <title>公司要求每天打卡时长必须达到 12.5 小时，我觉得太累了，我就是不听话，还是按照往常那样八九点就下班，除了可能会被裁员，还有其他风险吗？</title>
       <link>https://www.v2ex.com/t/1175070</link>
       <guid>v2ex-1175070</guid>
       <pubDate>Wed, 26 Nov 2025 01:16:05 GMT</pubDate>
       <description>&lt;p&gt;是不是除了可能拿不到年终奖，可能被裁员，也没啥其他的风险了？会被开除什么的吗？&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>来来来，各说一两个业界主流但是自己非常讨厌的应用/服务</title>
-      <link>https://www.v2ex.com/t/1175141</link>
-      <guid>v2ex-1175141</guid>
-      <pubDate>Wed, 26 Nov 2025 03:50:41 GMT</pubDate>
-      <description>我现在觉得 Jenkins 这玩意是真难用啊，不知道有没有人成功升级过它。插件和应用核心、插件和插件之间都有各种乱七八糟的版本依赖，即时遇到安全漏洞，想升级都难，一升级整个服务直接不可用了，好逆天的版本依赖。</description>
     </item>
   </channel>
 </rss>
