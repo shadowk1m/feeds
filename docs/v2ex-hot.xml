@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 27 Nov 2025 04:15:06 GMT</lastBuildDate>
-    <item>
-      <title>说一件你坚持了五年以上的事情</title>
-      <link>https://www.v2ex.com/t/1175146</link>
-      <guid>v2ex-1175146</guid>
-      <pubDate>Wed, 26 Nov 2025 04:17:45 GMT</pubDate>
-      <description>我觉得阅读算是一个吧&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;![wechat read]( &lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/a/7SiBneU&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/a/7SiBneU&lt;/a&gt;)</description>
-    </item>
+    <lastBuildDate>Thu, 27 Nov 2025 04:43:39 GMT</lastBuildDate>
     <item>
       <title>谈谈很多人认为没有假大米和假鸡蛋这件事</title>
       <link>https://www.v2ex.com/t/1175158</link>
@@ -24,21 +17,6 @@
 &lt;p&gt;其次是鸡蛋，带壳假鸡蛋我确实没见过，但是山寨乡巴佬卤蛋重灾区，蛋黄蛋液分离，加上乱七八糟的，甚至有添加鹌鹑蛋的，搜了一下，据说是原材料容易保存，我觉得还有一点可能是调味方便，制作容易，我感觉成本应该也会降低，鸡蛋需求量变少，质量要求低，破损的，小鸡蛋都可以用，工艺时间缩短，你要俩个小时卤一锅，我十秒钟（随便举个列子）加热凝固一锅。&lt;/p&gt;
 &lt;p&gt;当然，严格来说，是不是假大米假鸡蛋，当然不是，人家说明了自己是什么米，自己是重制蛋，不过，如果我吃到了或者大部分人吃到了之后知晓制作过程应该都认为自己吃到了假大米，假鸡蛋。&lt;/p&gt;
 &lt;p&gt;最后，我发这个帖子的目的主要还是想科普一下这件事，因为很多人拿的理由来论证不存在假大米假鸡蛋其实一点站不住脚，确实存在假大米，假鸡蛋，当然，并不是塑料做的。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>有点想去割包皮，想来取下经</title>
-      <link>https://www.v2ex.com/t/1175150</link>
-      <guid>v2ex-1175150</guid>
-      <pubDate>Wed, 26 Nov 2025 04:32:29 GMT</pubDate>
-      <description>&lt;p&gt;自己没有达到包茎的程度，只是原来有问过医生说有点长，所以想问问有没有必要。需要的话趁着有空做了
-想问问有没有做过的老哥：&lt;/p&gt;
-&lt;h3&gt;袖套式和环切式应该怎么选？&lt;/h3&gt;
-&lt;p&gt;看了下袖套式好像会恢复快点，术后的疼痛感和感染风险都会小点&lt;/p&gt;
-&lt;h3&gt;术后恢复大概多久？&lt;/h3&gt;
-&lt;p&gt;因为平时还要上班，所以平时想找一天请半天假去做，希望可以快点恢复&lt;/p&gt;
-&lt;h3&gt;有没有什么副作用，费用大概多少？&lt;/h3&gt;
-&lt;p&gt;环切式说的好像会不太好看，而且也有切多切少的问题，反而会有影响&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -113,6 +91,48 @@
 &lt;p&gt;虽然是人生第一辆车，父母说是给我买的，但我在北京工作，其实车买来后主要是老爸在老家（河南）开，我和老爸打算各出一半买个 25 万以内的燃油车，不考虑电车。轿车 suv 有 OK 。
 我爸喜欢丰田车,稳定省油，想开的时间长一点，他相中雷克萨斯 es200 ，我俩是对动力都没啥要求，但十一回去试驾了一下，不爽的点是：发动机噪音很大&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>WSL 使用过程中总断开，将 windows 换为 Ubuntu 是否是个好的选择</title>
+      <link>https://www.v2ex.com/t/1175219</link>
+      <guid>v2ex-1175219</guid>
+      <pubDate>Wed, 26 Nov 2025 08:19:16 GMT</pubDate>
+      <description>&lt;p&gt;目前手头有一个 window11 ， 锐龙 8845H + 24G 内存，一直使用 WSL 做前端开发，给其分配了 8 G 内存。但是使用 WSL 一直会提示重新连接，应该是 WSL 死掉了，运气好的话几天出现一次，运气不好一天出现几次。&lt;/p&gt;
+&lt;p&gt;之前是考虑升级内存。但是现在内存价格翻了好几番。所以目前考虑将 Windows 换成 Ubuntu 。看了一下必须得软件 Ubuntu 上都有。请问这是否是一个好的选择？&lt;/p&gt;
+&lt;p&gt;附：wslconfig 如下&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[automount]
+# 自动挂载所有 Windows 驱动器
+enabled = true
+# 挂载根目录设置为 /mnt/
+root = /mnt/
+# 关键：设置权限和元数据支持
+options = &quot;metadata,umask=0022&quot;
+# 启用 /etc/fstab 解析
+mountFsTab = true
+
+
+[wsl2]
+memory=12GB       # 限制最大内存，根据你电脑配置调整  之前是 8G ，这两天刚调整成 12G
+swap=4GB         # 限制交换空间，防止爆满硬盘
+processors=4     # 限制使用的 CPU 核心数（可选）
+autoMemoryReclaim=gradual  # (新版功能) 尝试自动回收内存
+localhostForwarding=true          # 是否启用 localhost 转发
+
+
+[experimental]
+networkingMode=mirrored           # 开启镜像网络
+dnsTunneling=true                 # 开启 DNS Tunneling
+firewall=true                     # 开启 Windows 防火墙
+autoProxy=true                    # 开启自动同步代理
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    <item>
+      <title>退掉京东的电视，优惠 2300 在拼多多下单，发现送货是同一个店铺</title>
+      <link>https://www.v2ex.com/t/1175338</link>
+      <guid>v2ex-1175338</guid>
+      <pubDate>Thu, 27 Nov 2025 02:06:52 GMT</pubDate>
+      <description>1 、我在京东下单，京东线下门店的人联系我，说给我送货，同时跟我说可以退掉京东的单，在他门店买，可以优惠 200 （从这里可以看出，他可能头像是京东，但可能就是个经销商？）&lt;br /&gt;2 、我退了京东线上单，但是我也没在他那买，而是直接拼多多买。&lt;br /&gt;3 、拼多多的单，也转他那里去了，还是他给我送货。&lt;br /&gt;&lt;br /&gt;但是这个人跟我说没保障什么的，但据我所知保障都是厂家 TCL 搞得，跟他线下门店好像也没啥关系？&lt;br /&gt;一顿操作下来，便宜了 2300 多。</description>
     </item>
   </channel>
 </rss>
