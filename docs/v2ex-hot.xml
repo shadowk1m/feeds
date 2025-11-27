@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 27 Nov 2025 08:17:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 08:46:58 GMT</lastBuildDate>
     <item>
       <title>发现个香港的阿里小号增强版，可以微信接码</title>
       <link>https://www.v2ex.com/t/1175273</link>
@@ -63,56 +63,11 @@
       <description>1 、我在京东下单，京东线下门店的人联系我，说给我送货，同时跟我说可以退掉京东的单，在他门店买，可以优惠 200 （从这里可以看出，他可能头像是京东，但可能就是个经销商？）&lt;br /&gt;2 、我退了京东线上单，但是我也没在他那买，而是直接拼多多买。&lt;br /&gt;3 、拼多多的单，也转他那里去了，还是他给我送货。&lt;br /&gt;&lt;br /&gt;但是这个人跟我说没保障什么的，但据我所知保障都是厂家 TCL 搞得，跟他线下门店好像也没啥关系？&lt;br /&gt;一顿操作下来，便宜了 2300 多。</description>
     </item>
     <item>
-      <title>人生第一辆车，预算 25 以内落地，有没有推荐的，只考虑油车</title>
-      <link>https://www.v2ex.com/t/1175221</link>
-      <guid>v2ex-1175221</guid>
-      <pubDate>Wed, 26 Nov 2025 08:20:35 GMT</pubDate>
-      <description>&lt;p&gt;家里至今还没有一辆车，逢年过节回去时只能蹭亲戚的车，平时回家想去周边转转也空有想法，太不方便了&lt;/p&gt;
-&lt;p&gt;虽然是人生第一辆车，父母说是给我买的，但我在北京工作，其实车买来后主要是老爸在老家（河南）开，我和老爸打算各出一半买个 25 万以内的燃油车，不考虑电车。轿车 suv 有 OK 。
-我爸喜欢丰田车,稳定省油，想开的时间长一点，他相中雷克萨斯 es200 ，我俩是对动力都没啥要求，但十一回去试驾了一下，不爽的点是：发动机噪音很大&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>上海停车有感</title>
       <link>https://www.v2ex.com/t/1175335</link>
       <guid>v2ex-1175335</guid>
       <pubDate>Thu, 27 Nov 2025 02:02:10 GMT</pubDate>
       <description>大城市停车真的很恶心，上海浦东唐镇总结如下：&lt;br /&gt;1.价格便宜的小区，位置虽然不少，但是很难找位置；（普遍 100-300 元一月，老破小为主）&lt;br /&gt;2.价格贵的小区，位置很多，基本停不满；（普遍 800 元左右，唐镇四兄弟&amp;amp;绿城为主）&lt;br /&gt;3.上班在张江，停车位要抽签，抽到的概率很低，抽不到一天要 30-40 元左右，人麻了，这哪是开车啊，这分明是烧钱。&lt;br /&gt;有没有啥社会工程学能找到便宜的停车位的？</description>
-    </item>
-    <item>
-      <title>WSL 使用过程中总断开，将 windows 换为 Ubuntu 是否是个好的选择</title>
-      <link>https://www.v2ex.com/t/1175219</link>
-      <guid>v2ex-1175219</guid>
-      <pubDate>Wed, 26 Nov 2025 08:19:16 GMT</pubDate>
-      <description>&lt;p&gt;目前手头有一个 window11 ， 锐龙 8845H + 24G 内存，一直使用 WSL 做前端开发，给其分配了 8 G 内存。但是使用 WSL 一直会提示重新连接，应该是 WSL 死掉了，运气好的话几天出现一次，运气不好一天出现几次。&lt;/p&gt;
-&lt;p&gt;之前是考虑升级内存。但是现在内存价格翻了好几番。所以目前考虑将 Windows 换成 Ubuntu 。看了一下必须得软件 Ubuntu 上都有。请问这是否是一个好的选择？&lt;/p&gt;
-&lt;p&gt;附：wslconfig 如下&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[automount]
-# 自动挂载所有 Windows 驱动器
-enabled = true
-# 挂载根目录设置为 /mnt/
-root = /mnt/
-# 关键：设置权限和元数据支持
-options = &quot;metadata,umask=0022&quot;
-# 启用 /etc/fstab 解析
-mountFsTab = true
-
-
-[wsl2]
-memory=12GB       # 限制最大内存，根据你电脑配置调整  之前是 8G ，这两天刚调整成 12G
-swap=4GB         # 限制交换空间，防止爆满硬盘
-processors=4     # 限制使用的 CPU 核心数（可选）
-autoMemoryReclaim=gradual  # (新版功能) 尝试自动回收内存
-localhostForwarding=true          # 是否启用 localhost 转发
-
-
-[experimental]
-networkingMode=mirrored           # 开启镜像网络
-dnsTunneling=true                 # 开启 DNS Tunneling
-firewall=true                     # 开启 Windows 防火墙
-autoProxy=true                    # 开启自动同步代理
-&lt;/code&gt;&lt;/pre&gt;
-</description>
     </item>
     <item>
       <title>黑五到了，有什么值得买的吗</title>
@@ -125,6 +80,27 @@ autoProxy=true                    # 开启自动同步代理
 &lt;li&gt;Apple iPad 11 英寸：$274&lt;/li&gt;
 &lt;/ol&gt;
 </description>
+    </item>
+    <item>
+      <title>高速免费政策新提案，每年享有 10 天自选免费额度</title>
+      <link>https://www.v2ex.com/t/1175346</link>
+      <guid>v2ex-1175346</guid>
+      <pubDate>Thu, 27 Nov 2025 02:12:58 GMT</pubDate>
+      <description>&lt;p&gt;简明扼要：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;每辆符合条件的 7 座及以下小客车每年享有 10 天自选免费额度&lt;/li&gt;
+&lt;li&gt;通行时通过手机 APP 预约，ETC 自动核销&lt;/li&gt;
+&lt;li&gt;保留春节、国庆两大节日的各 3 天法定免费时段，这 6 天不计入年度自选额度&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;回顾之前的每年 5000km 免费额度，我更支持 5000km 免费额度，大家怎么看&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>最近 1 个多月看了罗永浩的播客，排个序，十分推荐各位去看。</title>
+      <link>https://www.v2ex.com/t/1175341</link>
+      <guid>v2ex-1175341</guid>
+      <pubDate>Thu, 27 Nov 2025 02:07:41 GMT</pubDate>
+      <description>罗永浩采访过的人，按质量程度排序&lt;br /&gt;&lt;br /&gt;1 、宋方金（之前不认识这个人，因为我看时长有 5 个多小时，所以看了，全部看完了，文采真好）&lt;br /&gt;2 、李想 (我是没想到的，我以前不关注理想汽车,感觉真是天才) &lt;br /&gt;3 、刘谦 （不单单是魔术师，感觉是场景表演家，控场能力太强了）&lt;br /&gt;4 、何小鹏 （企业规划看上去比较好，本人比较喜欢小鹏的车）&lt;br /&gt;5 、Tim (96 年的，羡慕他的人生，讲了他的规划，参考国外的 野兽先生)&lt;br /&gt;6 、贾樟柯 （暂时记得是个导演）&lt;br /&gt;7 、何同学 （跟 tim 发展有点像，太客气了，比我网上传言的风评要好）&lt;br /&gt;8 、周鸿祎 （看了 30%？ 不太喜欢他的说话方式吧。。。所以不是很喜欢）&lt;br /&gt;&lt;br /&gt;以前对罗永浩了解也不多，只知道他是当过老师，做过手机，开过培训班。。 &lt;br /&gt;&lt;br /&gt;听他说话真舒服。。 各位如果有什么对罗永浩，被采访人的八卦，故事， 可以评论一波，我了解了解。</description>
     </item>
   </channel>
 </rss>
