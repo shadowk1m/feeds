@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 28 Nov 2025 07:37:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 08:16:36 GMT</lastBuildDate>
     <item>
       <title>什么值得看，一个还算优雅的阅读网站</title>
       <link>https://www.v2ex.com/t/1175579</link>
@@ -16,121 +16,6 @@
 &lt;p&gt;&lt;img alt=&quot;b.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://upload-images.jianshu.io/upload_images/458529-7aeae7a5c5fbbe58.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot;/&gt;
 &lt;img alt=&quot;c.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://upload-images.jianshu.io/upload_images/458529-6f82ecf66438f86c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot;/&gt;
 &lt;img alt=&quot;a.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://upload-images.jianshu.io/upload_images/458529-529998b2314d0623.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>独开不易！ Ries 这一年创造了 9157 万次无痛英语接触，感谢 v 站把我们“奶”活了。[黑五巨惠 &amp; iOS 上线]</title>
-      <link>https://www.v2ex.com/t/1175448</link>
-      <guid>v2ex-1175448</guid>
-      <pubDate>Thu, 27 Nov 2025 08:02:04 GMT</pubDate>
-      <description>&lt;p&gt;v 佬们好，我是 &lt;strong&gt;Ries&lt;/strong&gt; 的开发者 Orion ，我又回来了~&lt;/p&gt;
-&lt;p&gt;25 年 1 月，Ries 的第一个 MVP 版本就是在 V 站首发的。那时候我们只有 2 个人，带着一个十分粗糙的 Demo 和“&lt;strong&gt;实时创造英语接触&lt;/strong&gt;”的想法，忐忑地发了一个介绍帖。&lt;/p&gt;
-&lt;p&gt;没想到，那个帖子直接冲上了热榜。这几乎是我从 23 年初折腾 AI 应用以来，第一次收获如此密集的正反馈！&lt;/p&gt;
-&lt;p&gt;最让我感动的是很多朋友对我们产品理念的认同。在我们还很不成熟的时候，就有兄弟愿意付费订阅支持我们。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;对于我们这种没有收入来源的“小独开”来说，&lt;strong&gt;没有你们，我们连 LLM 的账单都付不起，Ries 很可能早已胎死腹中！&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;虽然我们还在挣扎求存，但这 11 个月我们一直保持周更，收集各种反馈、批评和建议，并努力让 Ries 更加成熟~ &lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;📅 这一年，虽然累但很值&lt;/h3&gt;
-&lt;p&gt;这一年，我们的团队从 2 个人变成了一个小 Team 。团队稍微壮大了点，虽说每天累得像狗，但看着后台数据蹭蹭涨，心里还是美滋滋的。给大家报两个数：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;91,573,671 次&lt;/strong&gt; 🚀&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这是 Ries 累计帮大家“凭空”创造的英语接触次数。快 1 亿次了，每 1 次都相当于刷新了一次大脑的语言记忆！&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;1500+ 次/天&lt;/strong&gt; ⚡️&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;平均下来，每个用户每天能多看 1500 个英语单词/短语。这说明 Ries 没被大家卸载，是真真切切地融入了浏览习惯。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🤔 数据乍看挺好，但我算了一笔账后，汗流下来了&lt;/h3&gt;
-&lt;p&gt;我们的初心是&lt;strong&gt;“创造无痛的英语环境”&lt;/strong&gt;。
-因为我们认为：&lt;strong&gt;英语不好，就是接触太少！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但我冷静下来一算，发现离这个目标还差得远：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们每天的母语接触量高达 &lt;strong&gt;3-5 万次&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Ries 的桌面插件虽然拼命为你创造了 1000 多次接触，但在庞大的母语洪流面前，可能连 &lt;strong&gt;1%&lt;/strong&gt; 都不到。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;光靠浏览器里的偶尔接触，根本无法达到熟悉一门语言的“浸泡量”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大家在电脑前大多是在专心干活，&lt;strong&gt;真正大量的、放松的阅读，其实都在手机上&lt;/strong&gt;——地铁上、马桶上、睡前的被窝里。&lt;/p&gt;
-&lt;p&gt;所以，我们才死磕移动端。
-&lt;strong&gt;目的就一个：去填补这剩下的 99% 的生活缝隙。&lt;/strong&gt; 让大家离开电脑后，依然能“无痛”地泡在英语环境里。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;💻 桌面端：逐渐成熟的“伴随式”体验&lt;/h3&gt;
-&lt;p&gt;如果你是新朋友，或者很久没用 Ries 了，现在的桌面端已经有了不小的进步：&lt;/p&gt;
-&lt;p&gt;👉 &lt;strong&gt;&lt;a href=&quot;https://www.v2ex.com/t/1145604&quot; rel=&quot;nofollow&quot;&gt;Ries 浏览器插件完整介绍帖&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;简单来说，它覆盖了大家日常上网的 &lt;strong&gt;四大核心场景&lt;/strong&gt;：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;刷&lt;strong&gt;中文网页&lt;/strong&gt;时：智能替换文章中的部分词汇为英文，刷网页的时候顺便记单词。&lt;/li&gt;
-&lt;li&gt;看&lt;strong&gt;中文视频&lt;/strong&gt;时：实时分析字幕，把关键的短语、俚语用英文标出来。&lt;/li&gt;
-&lt;li&gt;看&lt;strong&gt;英文视频&lt;/strong&gt;时：根据你的水平，只翻译你看不懂的句子，帮你摆脱字幕依赖。&lt;/li&gt;
-&lt;li&gt;看&lt;strong&gt;英文网页&lt;/strong&gt;时：做“减压翻译”，只翻译生词，保留你认识的英文。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;👉 &lt;strong&gt;&lt;a href=&quot;https://Ries.ai?c=MT4W&quot; rel=&quot;nofollow&quot;&gt;官网地址&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/XSOXjo1.gif&quot;/&gt;
-&lt;hr/&gt;
-&lt;h3&gt;📱 移动端：一个“自带插件”的超级阅读器&lt;/h3&gt;
-&lt;p&gt;既然手机不允许我们在微信里直接运行插件，那我们就&lt;strong&gt;自己做一个“内置了插件”的 App&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;废话不多说，直接上图：&lt;/p&gt;
-&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/DhDeVV3.png&quot;/&gt;
-&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/m0dlsY1.png&quot;/&gt;
-&lt;p&gt;我们把桌面端那套成熟的“语言改造引擎”完整移植到了 App 里，并针对手机场景做了专门优化：&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;1. 内置浏览器：无缝复刻桌面端的“改造”体验&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;这是 Ries 移动端的核心。你可以把它当作一个**“自带翻译插件的 Safari”**。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;怎么用？&lt;/strong&gt; 在微信/网页看到想读的文章 -&amp;gt; 复制链接 -&amp;gt; Ries 会自动识别并在&lt;strong&gt;内置浏览器&lt;/strong&gt;中打开。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;效果：&lt;/strong&gt; 体验和桌面端完全一致！ Ries 会在网页加载的瞬间，把页面内的中文智能替换为适合你的英文。你依然在读那篇感兴趣的文章，但每一屏都在增加语言接触。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;2. 书籍导入：把“追小说”变成“刷单词”&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;针对大家在手机上长时间阅读的习惯，我们专门开发了阅读器功能。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;怎么用？&lt;/strong&gt; 支持一键导入 &lt;strong&gt;TXT&lt;/strong&gt; 格式的小说或书籍（未来支持更多格式）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;效果：&lt;/strong&gt; 即使是看“闲书”，Ries 也能实时介入。想象一下，你看完一本中文玄幻小说的同时，不知不觉已经“见过”并复习了 10000 个高频英语单词。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;3. 精选社区：不知道看啥？进来随便逛逛&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;为了填补大家“拔剑四顾心茫然”的碎片时间，我们并不是一个空的浏览器，我们为你准备了“粮草”。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;怎么用？&lt;/strong&gt; 我们根据不同话题（如独立开发、AI 前沿、生活方式等），精选了大量优质的&lt;strong&gt;公众号文章&lt;/strong&gt;和&lt;strong&gt;技术 Blog&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;效果：&lt;/strong&gt; 就像刷朋友圈一样闲逛。你不需要有明确的目的，点开即看，既获取了行业资讯，又顺便给大脑做了个英语 SPA 。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🖤 黑色星期五 x iOS 上线：v 友专属 4 折回馈&lt;/h3&gt;
-&lt;p&gt;恰逢&lt;strong&gt;黑色星期五&lt;/strong&gt;，加上 iOS 版本刚刚补齐了我们生态的最后一块拼图。
-为了感谢 v 佬们这一年来对 Ries 的“救命之恩”（是你们的订阅让我们活了下来），我们决定搞一波大的回馈！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在本帖评论互动，即可享受 Ries 史上最低的“黑五”骨折价（约 4 折）：&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Ries Pro 年会员&lt;/strong&gt;：原价 ¥239 -&amp;gt; &lt;strong&gt;🔥 黑五价 ¥99 /年&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ries Ultra 年会员&lt;/strong&gt;：原价 ¥499 -&amp;gt; &lt;strong&gt;🔥 黑五价 ¥199 /年&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;参与方式：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载注册 App 。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;在本帖下方评论留言&lt;/strong&gt;（哪怕是一句“加油”）&lt;/li&gt;
-&lt;li&gt;点击活动链接参加：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://ries.ai/zh/pricing?from=black_friday&quot; rel=&quot;nofollow&quot;&gt;黑色星期五超级活动链接！！！&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;注：仅限黑五活动期间，错过这波真的要等一年了 😂&lt;/em&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;✅ 账号体系：一端多用，图谱互通&lt;/h3&gt;
-&lt;p&gt;最后强调一点，Ries 的 &lt;strong&gt;账号是全平台互通的&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;你在桌面端插件上积累的词汇量、构建的“语言图谱”，会实时同步到 iOS 端。你在手机上标记的“已掌握”，回到电脑上绝不会再打扰你。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;📥 体验邀请&lt;/h3&gt;
-&lt;p&gt;我们深知现在的 iOS 版本还处于早期，离我们心中的完美形态还有距离。&lt;/p&gt;
-&lt;p&gt;但正如一年前我们带着粗糙的 Demo 来到 V 站一样，今天我们依然选择第一时间把这个“新生儿”带给 V 佬们看看。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;下载方式：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;🍎 &lt;strong&gt;iOS&lt;/strong&gt;：App Store 搜索 “Ries” 或扫码即可安装。&lt;/li&gt;
-&lt;li&gt;💻 &lt;strong&gt;桌面插件&lt;/strong&gt;：&lt;a href=&quot;https://Ries.ai?c=MT4W&quot; rel=&quot;nofollow&quot;&gt;官网地址-&amp;gt;直接安装插件&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/V1ANhAm.png&quot;/&gt;
-&lt;p&gt;真诚地邀请大家下载体验一下。
-不管是关于 插件 or App 的交互功能体验，都欢迎在评论区留言。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;老朋友 Orion 在评论区等大家，每条回复我都会认真看！&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -168,13 +53,6 @@
       <description>今天早上刷阮一峰 weekly &lt;br /&gt;&lt;br /&gt;看到澳洲政府开发一个气象网站花费 7980 万澳元约等于 4.5 亿人民币，给我惊掉下巴。&lt;br /&gt;&lt;br /&gt;那我们从技术角度来看看这个 4.5 亿人民币开发的网站怎么样呢？&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.bom.gov.au/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.bom.gov.au/&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/2Ivy8IX.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/2Ivy8IX.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;打开一看，好家伙，上古技术栈，WordPress 外包套装！&lt;br /&gt;&lt;br /&gt;花最多的钱，用最低成本是吧🤣</description>
     </item>
     <item>
-      <title>怎样才能彻底戒烟？</title>
-      <link>https://www.v2ex.com/t/1175560</link>
-      <guid>v2ex-1175560</guid>
-      <pubDate>Fri, 28 Nov 2025 01:25:27 GMT</pubDate>
-      <description>我目前的吸烟频率为两天一盒，每盒 16 元。&lt;br /&gt;若成功戒烟，换算下来每日可实现 8 元的实际收益，相当于活期存款几十万？&lt;br /&gt;更重要的是，除了直观的经济回报，戒烟还能带来长期的健康增益，相当于在健康层面进行了一笔极具价值的隐性投资。&lt;br /&gt;&lt;br /&gt;好处列完了，该怎么戒烟呢？</description>
-    </item>
-    <item>
       <title>在 v 站学会的姿势之 ibkr</title>
       <link>https://www.v2ex.com/t/1175544</link>
       <guid>v2ex-1175544</guid>
@@ -206,12 +84,28 @@
 </description>
     </item>
     <item>
+      <title>怎样才能彻底戒烟？</title>
+      <link>https://www.v2ex.com/t/1175560</link>
+      <guid>v2ex-1175560</guid>
+      <pubDate>Fri, 28 Nov 2025 01:25:27 GMT</pubDate>
+      <description>我目前的吸烟频率为两天一盒，每盒 16 元。&lt;br /&gt;若成功戒烟，换算下来每日可实现 8 元的实际收益，相当于活期存款几十万？&lt;br /&gt;更重要的是，除了直观的经济回报，戒烟还能带来长期的健康增益，相当于在健康层面进行了一笔极具价值的隐性投资。&lt;br /&gt;&lt;br /&gt;好处列完了，该怎么戒烟呢？</description>
+    </item>
+    <item>
       <title>晕,意外来了二胎,留还是不留呢</title>
       <link>https://www.v2ex.com/t/1175575</link>
       <guid>v2ex-1175575</guid>
       <pubDate>Fri, 28 Nov 2025 02:10:04 GMT</pubDate>
       <description>&lt;p&gt;老大已经 6 岁了,明年上小学了&lt;/p&gt;
 &lt;p&gt;想问问有了二胎的是后悔多一些吗&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>育儿补贴都到账了吧，大家是准备存起来还是花掉？</title>
+      <link>https://www.v2ex.com/t/1175548</link>
+      <guid>v2ex-1175548</guid>
+      <pubDate>Fri, 28 Nov 2025 00:59:26 GMT</pubDate>
+      <description>&lt;p&gt;以前用有人说老中喜欢存钱，发钱就会存起来拉动不了消费。
+这回真发钱了，让我看看怎么个事。&lt;/p&gt;
 </description>
     </item>
   </channel>
