@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 29 Nov 2025 18:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 18:45:20 GMT</lastBuildDate>
     <item>
       <title>分享一次 FakeIP 的踩坑记录</title>
       <link>https://www.v2ex.com/t/1175803</link>
@@ -189,17 +189,6 @@
       <description>小公司经理接的项目让我开发，大致逻是连接狐狸钱包，然后划转 u 到网站上，多人参与盲盒抽奖，返还网站自己的币，然后可以兑换成 usdt 体现，静态收益，动态收益什么的😧</description>
     </item>
     <item>
-      <title>在 nas 上挂 PT，喜提严格管控</title>
-      <link>https://www.v2ex.com/t/1175779</link>
-      <guid>v2ex-1175779</guid>
-      <pubDate>Fri, 28 Nov 2025 18:23:37 GMT</pubDate>
-      <description>&lt;p&gt;湖北联通。&lt;/p&gt;
-&lt;p&gt;昨天发现任意网站加载前摇（白屏转圈）都有十几秒甚至一分钟，本以为又是 IPv6 受到抨击，检查了下发现 ping 任意外部 IP 极其稳定的丢包 20%，UDP 几乎 100% 丢包，所以才要转半天，因为卡在解析上了，超时后回退 DOH 了。&lt;/p&gt;
-&lt;p&gt;进猫调了一通设置后还是没改善才想起来找客服，客服查询后说因为上传流量极其异常被严格管控，不能申请解除，3 个月后自动解除；具体 PT 数据是，上传 1.7 TiB ，下载 238 GiB ；转投诉后说会安排运维上门检查，不过我是完全不认为运维有权限解决，先走他们自己的流程再转工信部。&lt;/p&gt;
-&lt;p&gt;此时（ 02:00 ）完全断网，光猫报错为 ISP 超时。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>这可能就是为爱发电的理由吧 😆</title>
       <link>https://www.v2ex.com/t/1175806</link>
       <guid>v2ex-1175806</guid>
@@ -216,6 +205,14 @@
       <pubDate>Sat, 29 Nov 2025 01:52:37 GMT</pubDate>
       <description>&lt;p&gt;我目前第一个盘位插的是 6T 的西数红盘 plus （这个月买的，已经是涨价状态了），目前空间占用大概在 20% 左右，但是看到最近固态硬盘和内存条的&lt;strong&gt;郁金香现象&lt;/strong&gt;，感觉会不会后续机械硬盘也会随之继续涨价？&lt;/p&gt;
 &lt;p&gt;如果可以的话我就&lt;strong&gt;给我的第二个盘位预先买好插上&lt;/strong&gt;了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>求助 域名服务商和企业邮箱选择</title>
+      <link>https://www.v2ex.com/t/1175836</link>
+      <guid>v2ex-1175836</guid>
+      <pubDate>Sat, 29 Nov 2025 07:03:44 GMT</pubDate>
+      <description>&lt;p&gt;想要以公司账号上架 App Store ，要求有公司网站和企业邮箱。有什么推荐的域名服务商和企业邮箱吗？需求一是便宜，二是避免麻烦和操蛋的事（如 &lt;a href=&quot;https://www.v2ex.com/t/1101867&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1101867&lt;/a&gt; ）&lt;/p&gt;
 </description>
     </item>
   </channel>
