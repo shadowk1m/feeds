@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 29 Nov 2025 11:32:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 12:19:55 GMT</lastBuildDate>
     <item>
       <title>分享一次 FakeIP 的踩坑记录</title>
       <link>https://www.v2ex.com/t/1175803</link>
@@ -104,52 +104,6 @@
 &lt;p&gt;因此 &lt;a href=&quot;http://S.EE&quot; rel=&quot;nofollow&quot;&gt;S.EE&lt;/a&gt; 也是长期投入、长期更新的方向，可以放心购买使用。&lt;/p&gt;
 &lt;p&gt;欢迎讨论、提意见或吐槽。  &lt;/p&gt;
 &lt;p&gt;如果对产品、功能或路线图有疑问，都可以在帖内回复，我会持续跟进。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>给点迷津指点：是从数据结构和算法入手，还是从架构出发，搞通计算机编程：</title>
-      <link>https://www.v2ex.com/t/1175787</link>
-      <guid>v2ex-1175787</guid>
-      <pubDate>Sat, 29 Nov 2025 00:46:07 GMT</pubDate>
-      <description>&lt;p&gt;学习计算机编程已久，但是一直不得其门，Java 、python 、PHP 、go 、JavaScript 都有涉猎，它们之间的联系是什么，怎么才能打通它们之间的任督二脉，我是要从架构、数据结构还是算法开始，给点指点。&lt;/p&gt;
-&lt;p&gt;叩谢！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>帮忙开发这种项目违法么</title>
-      <link>https://www.v2ex.com/t/1175819</link>
-      <guid>v2ex-1175819</guid>
-      <pubDate>Sat, 29 Nov 2025 04:10:58 GMT</pubDate>
-      <description>小公司经理接的项目让我开发，大致逻是连接狐狸钱包，然后划转 u 到网站上，多人参与盲盒抽奖，返还网站自己的币，然后可以兑换成 usdt 体现，静态收益，动态收益什么的😧</description>
-    </item>
-    <item>
-      <title>在 nas 上挂 PT，喜提严格管控</title>
-      <link>https://www.v2ex.com/t/1175779</link>
-      <guid>v2ex-1175779</guid>
-      <pubDate>Fri, 28 Nov 2025 18:23:37 GMT</pubDate>
-      <description>&lt;p&gt;湖北联通。&lt;/p&gt;
-&lt;p&gt;昨天发现任意网站加载前摇（白屏转圈）都有十几秒甚至一分钟，本以为又是 IPv6 受到抨击，检查了下发现 ping 任意外部 IP 极其稳定的丢包 20%，UDP 几乎 100% 丢包，所以才要转半天，因为卡在解析上了，超时后回退 DOH 了。&lt;/p&gt;
-&lt;p&gt;进猫调了一通设置后还是没改善才想起来找客服，客服查询后说因为上传流量极其异常被严格管控，不能申请解除，3 个月后自动解除；具体 PT 数据是，上传 1.7 TiB ，下载 238 GiB ；转投诉后说会安排运维上门检查，不过我是完全不认为运维有权限解决，先走他们自己的流程再转工信部。&lt;/p&gt;
-&lt;p&gt;此时（ 02:00 ）完全断网，光猫报错为 ISP 超时。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>这可能就是为爱发电的理由吧 😆</title>
-      <link>https://www.v2ex.com/t/1175806</link>
-      <guid>v2ex-1175806</guid>
-      <pubDate>Sat, 29 Nov 2025 03:11:59 GMT</pubDate>
-      <description>&lt;p&gt;刚收到第一条来自用户的 issue ，居然写这么长，倍受鼓舞 👉 &lt;a href=&quot;https://github.com/zhixiangxue/chak-ai/issues/2&quot; rel=&quot;nofollow&quot;&gt;https://github.com/zhixiangxue/chak-ai/issues/2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎大佬们使用+反馈，中登程序员强烈推荐，真的丝滑👉： &lt;a href=&quot;https://github.com/zhixiangxue/chak-ai&quot; rel=&quot;nofollow&quot;&gt;https://github.com/zhixiangxue/chak-ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;好用的话，帮我点个 ⭐ 啊兄弟们，感谢🙏&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>公司裁员转岗还是拿赔偿走人算了</title>
-      <link>https://www.v2ex.com/t/1175818</link>
-      <guid>v2ex-1175818</guid>
-      <pubDate>Sat, 29 Nov 2025 04:07:10 GMT</pubDate>
-      <description>&lt;p&gt;大佬们，想问个职场问题，在公司待了 2 年多，快 3 年，年底公司要裁员了，领导给了两个选择，一个是拿赔偿走人，一个人转到其他岗位。这种情况下一般选择哪个不会出错.&lt;/p&gt;
-&lt;p&gt;34 岁了,16 年硕士毕业,211 学校,工作 9 年了,做的大数据开发&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -285,6 +239,52 @@
 &lt;p&gt;我回，「早点睡，少吃垃圾食品。」&lt;/p&gt;
 &lt;p&gt;2011 年那个夏天，像什么都没发生，又好像什么都发生了。&lt;/p&gt;
 &lt;p&gt;我知道，我们俩，在那一年，既是彼此的危险，也是彼此当时唯一的救赎。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>给点迷津指点：是从数据结构和算法入手，还是从架构出发，搞通计算机编程：</title>
+      <link>https://www.v2ex.com/t/1175787</link>
+      <guid>v2ex-1175787</guid>
+      <pubDate>Sat, 29 Nov 2025 00:46:07 GMT</pubDate>
+      <description>&lt;p&gt;学习计算机编程已久，但是一直不得其门，Java 、python 、PHP 、go 、JavaScript 都有涉猎，它们之间的联系是什么，怎么才能打通它们之间的任督二脉，我是要从架构、数据结构还是算法开始，给点指点。&lt;/p&gt;
+&lt;p&gt;叩谢！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>帮忙开发这种项目违法么</title>
+      <link>https://www.v2ex.com/t/1175819</link>
+      <guid>v2ex-1175819</guid>
+      <pubDate>Sat, 29 Nov 2025 04:10:58 GMT</pubDate>
+      <description>小公司经理接的项目让我开发，大致逻是连接狐狸钱包，然后划转 u 到网站上，多人参与盲盒抽奖，返还网站自己的币，然后可以兑换成 usdt 体现，静态收益，动态收益什么的😧</description>
+    </item>
+    <item>
+      <title>在 nas 上挂 PT，喜提严格管控</title>
+      <link>https://www.v2ex.com/t/1175779</link>
+      <guid>v2ex-1175779</guid>
+      <pubDate>Fri, 28 Nov 2025 18:23:37 GMT</pubDate>
+      <description>&lt;p&gt;湖北联通。&lt;/p&gt;
+&lt;p&gt;昨天发现任意网站加载前摇（白屏转圈）都有十几秒甚至一分钟，本以为又是 IPv6 受到抨击，检查了下发现 ping 任意外部 IP 极其稳定的丢包 20%，UDP 几乎 100% 丢包，所以才要转半天，因为卡在解析上了，超时后回退 DOH 了。&lt;/p&gt;
+&lt;p&gt;进猫调了一通设置后还是没改善才想起来找客服，客服查询后说因为上传流量极其异常被严格管控，不能申请解除，3 个月后自动解除；具体 PT 数据是，上传 1.7 TiB ，下载 238 GiB ；转投诉后说会安排运维上门检查，不过我是完全不认为运维有权限解决，先走他们自己的流程再转工信部。&lt;/p&gt;
+&lt;p&gt;此时（ 02:00 ）完全断网，光猫报错为 ISP 超时。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>这可能就是为爱发电的理由吧 😆</title>
+      <link>https://www.v2ex.com/t/1175806</link>
+      <guid>v2ex-1175806</guid>
+      <pubDate>Sat, 29 Nov 2025 03:11:59 GMT</pubDate>
+      <description>&lt;p&gt;刚收到第一条来自用户的 issue ，居然写这么长，倍受鼓舞 👉 &lt;a href=&quot;https://github.com/zhixiangxue/chak-ai/issues/2&quot; rel=&quot;nofollow&quot;&gt;https://github.com/zhixiangxue/chak-ai/issues/2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎大佬们使用+反馈，中登程序员强烈推荐，真的丝滑👉： &lt;a href=&quot;https://github.com/zhixiangxue/chak-ai&quot; rel=&quot;nofollow&quot;&gt;https://github.com/zhixiangxue/chak-ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;好用的话，帮我点个 ⭐ 啊兄弟们，感谢🙏&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>公司裁员转岗还是拿赔偿走人算了</title>
+      <link>https://www.v2ex.com/t/1175818</link>
+      <guid>v2ex-1175818</guid>
+      <pubDate>Sat, 29 Nov 2025 04:07:10 GMT</pubDate>
+      <description>&lt;p&gt;大佬们，想问个职场问题，在公司待了 2 年多，快 3 年，年底公司要裁员了，领导给了两个选择，一个是拿赔偿走人，一个人转到其他岗位。这种情况下一般选择哪个不会出错.&lt;/p&gt;
+&lt;p&gt;34 岁了,16 年硕士毕业,211 学校,工作 9 年了,做的大数据开发&lt;/p&gt;
 </description>
     </item>
   </channel>
