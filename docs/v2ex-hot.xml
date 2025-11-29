@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 29 Nov 2025 09:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 09:36:42 GMT</lastBuildDate>
     <item>
       <title>遇到蹭地铁的年轻人怎么办？</title>
       <link>https://www.v2ex.com/t/1175729</link>
@@ -15,13 +15,6 @@
 搜索了一下如何举报，发现地铁工作人员没有执法权，最多不让他这次出站，好像没法解决，而且地铁工作人员好像不太想管这个。&lt;/p&gt;
 &lt;p&gt;还是个年轻人，最近遇到的那次我跟着他，发现和我一个小区。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>我家这猫啥品种啊到底</title>
-      <link>https://www.v2ex.com/t/1175723</link>
-      <guid>v2ex-1175723</guid>
-      <pubDate>Fri, 28 Nov 2025 09:22:32 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/oERuZxa.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/oERuZxa.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/MIPf1Zo.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/MIPf1Zo.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/n0v33SM.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/n0v33SM.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/1dqWLfB.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/1dqWLfB.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;夜市街逛街看上的，当加白金渐层买的，给朋友看的时候说你这是橘猫 哈哈 what ？&lt;br /&gt;不到 3 个月领回家的，现在 8 个月 每天就是吃吃吃 肥死了</description>
     </item>
     <item>
       <title>分享一次 FakeIP 的踩坑记录</title>
@@ -159,6 +152,15 @@
 &lt;p&gt;昨天发现任意网站加载前摇（白屏转圈）都有十几秒甚至一分钟，本以为又是 IPv6 受到抨击，检查了下发现 ping 任意外部 IP 极其稳定的丢包 20%，UDP 几乎 100% 丢包，所以才要转半天，因为卡在解析上了，超时后回退 DOH 了。&lt;/p&gt;
 &lt;p&gt;进猫调了一通设置后还是没改善才想起来找客服，客服查询后说因为上传流量极其异常被严格管控，不能申请解除，3 个月后自动解除；具体 PT 数据是，上传 1.7 TiB ，下载 238 GiB ；转投诉后说会安排运维上门检查，不过我是完全不认为运维有权限解决，先走他们自己的流程再转工信部。&lt;/p&gt;
 &lt;p&gt;此时（ 02:00 ）完全断网，光猫报错为 ISP 超时。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>机械硬盘以后还会继续涨价还是降价？要不要给 NAS 的第二个盘位预先插上？</title>
+      <link>https://www.v2ex.com/t/1175794</link>
+      <guid>v2ex-1175794</guid>
+      <pubDate>Sat, 29 Nov 2025 01:52:37 GMT</pubDate>
+      <description>&lt;p&gt;我目前第一个盘位插的是 6T 的西数红盘 plus （这个月买的，已经是涨价状态了），目前空间占用大概在 20% 左右，但是看到最近固态硬盘和内存条的&lt;strong&gt;郁金香现象&lt;/strong&gt;，感觉会不会后续机械硬盘也会随之继续涨价？&lt;/p&gt;
+&lt;p&gt;如果可以的话我就&lt;strong&gt;给我的第二个盘位预先买好插上&lt;/strong&gt;了&lt;/p&gt;
 </description>
     </item>
   </channel>
