@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 30 Nov 2025 06:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 06:48:18 GMT</lastBuildDate>
     <item>
       <title>一个玩劲舞团的女孩来找我，在我家住了两个月</title>
       <link>https://www.v2ex.com/t/1175844</link>
@@ -160,13 +160,6 @@
 </description>
     </item>
     <item>
-      <title>推荐一个系统好用, 拍照, 续航都在线的手机</title>
-      <link>https://www.v2ex.com/t/1175884</link>
-      <guid>v2ex-1175884</guid>
-      <pubDate>Sat, 29 Nov 2025 16:01:07 GMT</pubDate>
-      <description>求推荐一个系统好用, 拍照, 续航都在线的手机 , 不玩游戏&lt;br /&gt;&lt;br /&gt;要能拍 live 的 谢谢</description>
-    </item>
-    <item>
       <title>发现小红书、小绿书被风控会连坐设备</title>
       <link>https://www.v2ex.com/t/1175885</link>
       <guid>v2ex-1175885</guid>
@@ -202,12 +195,26 @@
 </description>
     </item>
     <item>
+      <title>推荐一个系统好用, 拍照, 续航都在线的手机</title>
+      <link>https://www.v2ex.com/t/1175884</link>
+      <guid>v2ex-1175884</guid>
+      <pubDate>Sat, 29 Nov 2025 16:01:07 GMT</pubDate>
+      <description>求推荐一个系统好用, 拍照, 续航都在线的手机 , 不玩游戏&lt;br /&gt;&lt;br /&gt;要能拍 live 的 谢谢</description>
+    </item>
+    <item>
       <title>求助 域名服务商和企业邮箱选择</title>
       <link>https://www.v2ex.com/t/1175836</link>
       <guid>v2ex-1175836</guid>
       <pubDate>Sat, 29 Nov 2025 07:03:44 GMT</pubDate>
       <description>&lt;p&gt;想要以公司账号上架 App Store ，要求有公司网站和企业邮箱。有什么推荐的域名服务商和企业邮箱吗？需求一是便宜，二是避免麻烦和操蛋的事（如 &lt;a href=&quot;https://www.v2ex.com/t/1101867&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1101867&lt;/a&gt; ）&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>开发了一个安卓 APP，发现上架要钱[笑哭]</title>
+      <link>https://www.v2ex.com/t/1175901</link>
+      <guid>v2ex-1175901</guid>
+      <pubDate>Sun, 30 Nov 2025 02:15:26 GMT</pubDate>
+      <description>开发了一个安卓 APP ，发现国内上架需要电子版权证书，易版权申请 600 块。google play 好像 25 刀开发者认证。&lt;br /&gt;&lt;br /&gt;工具类 app 暂时没有盈利的方式，很难受😂&lt;br /&gt;&lt;br /&gt;有什么免费的 app 分发的地方吗</description>
     </item>
     <item>
       <title>基于 KVM 的虚拟化（PVE/unraid/oVirt/Openstack），现在能实现 Win 虚拟机下的 3D 加速吗？</title>
@@ -219,13 +226,6 @@
 &lt;p&gt;对此，VirtualBox/VMware 都有成熟稳定的解决方案，在虚拟机中安装增强插件后，就可以启用 OpenGL/3D 加速，并启用桌面及软件的一些特效，降低 CPU 占用。&lt;/p&gt;
 &lt;p&gt;但是所有基于 KVM 的虚拟机，似乎都没啥好用的方案，我只知道有一个 virgl ，然而这个 virgl 基本就是个玩具，不稳定，性能差，而且虚拟机无法睡眠、休眠。还有啥好用的方案吗？&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>开发了一个安卓 APP，发现上架要钱[笑哭]</title>
-      <link>https://www.v2ex.com/t/1175901</link>
-      <guid>v2ex-1175901</guid>
-      <pubDate>Sun, 30 Nov 2025 02:15:26 GMT</pubDate>
-      <description>开发了一个安卓 APP ，发现国内上架需要电子版权证书，易版权申请 600 块。google play 好像 25 刀开发者认证。&lt;br /&gt;&lt;br /&gt;工具类 app 暂时没有盈利的方式，很难受😂&lt;br /&gt;&lt;br /&gt;有什么免费的 app 分发的地方吗</description>
     </item>
     <item>
       <title>想要开通 cf 的付费策略，但是苦于没有外币卡</title>
