@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 30 Nov 2025 23:10:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 23:35:03 GMT</lastBuildDate>
     <item>
       <title>疯狂动物城 2，大家觉得能打几分</title>
       <link>https://www.v2ex.com/t/1175904</link>
@@ -123,83 +123,11 @@
 </description>
     </item>
     <item>
-      <title>做了一个剪贴板工具，轻量、简洁、好看、开源，欢迎尝试～</title>
-      <link>https://www.v2ex.com/t/1175900</link>
-      <guid>v2ex-1175900</guid>
-      <pubDate>Sun, 30 Nov 2025 02:13:53 GMT</pubDate>
-      <description>&lt;h3&gt;轻量、好看、超顺手的 开源 macOS 剪贴板&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;列表布局&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/PGshen/mini-clipboard/blob/main/docs/image/list_mode.png?raw=true&quot;/&gt;
-&lt;img alt=&quot;网格布局&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/PGshen/mini-clipboard/blob/main/docs/image/grid_mode.png?raw=true&quot;/&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;功能亮点&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;⚡️ 直接粘贴：双击或回车，写入系统剪贴板，支持纯文本粘贴&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🕒 时间线浏览：横向列表/网格，两种布局随心切，可预览与重命名&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;📌 收藏分组：Pinboards 独立管理，创建/重命名/颜色标记更直观&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🔍 即时搜索：关键词 + 类型/来源过滤，输入即搜，毫秒响应&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🧩 多类型采集：文本、链接、图片、文件、颜色，统统自动记录&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🎛️ 快捷键与设置：&lt;code&gt;⇧+⌘+P&lt;/code&gt; 呼出面板，保留周期、布局与映射自由调&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;使用场景&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;设计师：颜色值与素材快速复用&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;程序员：代码片段与命令一键粘贴&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;运营/内容：标题、文案、链接高频调用不再手忙脚乱&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;隐私与体验&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;🛡️ 本地存储，历史默认保留 30 天，可随时清理&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;✅ 直接粘贴需开启“辅助功能”权限（系统弹窗引导）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🖥️ macOS 12+，Apple Silicon 原生&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;开源地址：👉 &lt;a href=&quot;github.com/PGshen/mini-clipboard&quot; rel=&quot;nofollow&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;演示视频：👇
-&lt;a href=&quot;https://youtu.be/ID8JOoSwYC8&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;演示视频&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/PGshen/mini-clipboard/blob/main/docs/image/cover.png?raw=true&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;说明：由于未签名，所以安装时需要设置里允许三方开发者；后续如果有更多人需要的话再考虑上架 AppStore&lt;/strong&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;---分割线---&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对 AI agent 开发有兴趣的朋友们可以关注一下我的另一个项目，有项目实战过程详细博客记录&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一个基于思维导图的智能思考辅助系统，用结构化可视化与 AI 代理协作，帮助你更清晰地梳理问题、探索方案与记录知识。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;开源地址：👉 &lt;a href=&quot;https://github.com/PGshen/thinking-map&quot; rel=&quot;nofollow&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;预览&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/PGshen/thinking-map/blob/main/docs/image/workspace03.png?raw=true&quot;/&gt;&lt;/p&gt;
-</description>
+      <title>目前的环境，手握 30W，怎么守住最好有收益！</title>
+      <link>https://www.v2ex.com/t/1175950</link>
+      <guid>v2ex-1175950</guid>
+      <pubDate>Sun, 30 Nov 2025 09:09:54 GMT</pubDate>
+      <description>欢迎各位彦祖献策！！！</description>
     </item>
   </channel>
 </rss>
