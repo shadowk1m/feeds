@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 30 Nov 2025 14:09:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 14:37:38 GMT</lastBuildDate>
     <item>
       <title>疯狂动物城 2，大家觉得能打几分</title>
       <link>https://www.v2ex.com/t/1175904</link>
@@ -148,17 +148,6 @@
 &lt;p&gt;如果仅需在虚拟机下启用这些桌面特效，而不需要玩游戏/跑渲染/炼丹等，那么硬件层面直通显卡或 vGPU 的方式就太笨重了。&lt;/p&gt;
 &lt;p&gt;对此，VirtualBox/VMware 都有成熟稳定的解决方案，在虚拟机中安装增强插件后，就可以启用 OpenGL/3D 加速，并启用桌面及软件的一些特效，降低 CPU 占用。&lt;/p&gt;
 &lt;p&gt;但是所有基于 KVM 的虚拟机，似乎都没啥好用的方案，我只知道有一个 virgl ，然而这个 virgl 基本就是个玩具，不稳定，性能差，而且虚拟机无法睡眠、休眠。还有啥好用的方案吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>KFCode - 一个全新的 Git 代码托管平台</title>
-      <link>https://www.v2ex.com/t/1175927</link>
-      <guid>v2ex-1175927</guid>
-      <pubDate>Sun, 30 Nov 2025 05:08:42 GMT</pubDate>
-      <description>&lt;p&gt;今天，正式宣布 KFCode ，一个全新的 Git 代码托管平台。&lt;/p&gt;
-&lt;p&gt;平台将于 2026 年正式上线。&lt;/p&gt;
-&lt;p&gt;目前能给大家的福利是，每周四微信群发 50 元红包。&lt;/p&gt;
-&lt;p&gt;官网： &lt;a href=&quot;https://kfcode-website.onrender.com&quot; rel=&quot;nofollow&quot;&gt;https://kfcode-website.onrender.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
