@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 04 Dec 2025 00:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 02:43:22 GMT</lastBuildDate>
     <item>
       <title>找对象为什么要找体制内的，四博 AI 小黄鸭做活动 50 元一个</title>
       <link>https://www.v2ex.com/t/1176584</link>
@@ -13,29 +13,84 @@
       <description>找对象为什么要找体制内的，小黄鸭回答：体制内的经过筛选，并且稳定、可靠、一直能看到未来也是幸福。&lt;br /&gt;&lt;br /&gt;四博小黄鸭再做活动，库存不多了，卖完为止：&lt;br /&gt;小黄鸭 50 元一个，开放完整的硬件生产资料，嵌入式软件代码。默认小智固件，刷机可以对接 “四博小助手”小程序，&lt;br /&gt;B 站视频：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.bilibili.com/video/BV1f7JDzrE1c/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.bilibili.com/video/BV1f7JDzrE1c/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;50 块不算多，买到实惠超值得，可以直接用，可以拆机刷机、可以看源代码二次开发&lt;br /&gt;&lt;br /&gt;活动本周五最后一天，活动结束就恢复原价 99 元&lt;br /&gt;&lt;br /&gt;购买链接：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://item.taobao.com/item.htm?id=927846834641&quot; rel=&quot;nofollow noopener&quot;&gt;https://item.taobao.com/item.htm?id=927846834641&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如果想纯开发板：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://item.taobao.com/item.htm?id=903237380382&quot; rel=&quot;nofollow noopener&quot;&gt;https://item.taobao.com/item.htm?id=903237380382&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;为了感谢各位的支持，将从评论中抽取,已经累计送出 7 台，具体抽奖规则如下：&lt;br /&gt;中奖规则：&lt;br /&gt;1. 截至 2025/12/5 23:00 评论有效。&lt;br /&gt;2. 中奖楼层 =(2025/12/5 上证指数收盘价 6 位整数 × 1005 % 有效楼层数) + 1&lt;br /&gt;&lt;br /&gt;硬件生产资料及烧录通过网盘分享的文件：&lt;br /&gt;链接: &lt;a target=&quot;_blank&quot; href=&quot;https://pan.baidu.com/s/1nti0HZ_o5dWSLU-0LG338A?pwd=asqg&quot; rel=&quot;nofollow noopener&quot;&gt;https://pan.baidu.com/s/1nti0HZ_o5dWSLU-0LG338A?pwd=asqg&lt;/a&gt; 提取码: asqg 复制这段内容后打开百度网盘手机 App ，操作更方便哦&lt;br /&gt;&lt;br /&gt;开源地址： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/SmartArduino/DOIT_AI&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/SmartArduino/DOIT_AI&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;实现了一个适合四博小助手的语音播放 MCP, 示例地址: &lt;a target=&quot;_blank&quot; href=&quot;http://diy.esp32.cn:4001/sse&quot; rel=&quot;nofollow noopener&quot;&gt;http://diy.esp32.cn:4001/sse&lt;/a&gt; 可播放小学泡泡英语音频. 四博小助手小程序增加若干个中小学老师虚拟人物.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;技术支持群：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/I0LV7V7Ll.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 I0LV7V7Ll.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/I0LV7V7Ll.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
-      <title>中国运营商的网络维护成本越来越大了。抓上传流量大的只会越来越普遍</title>
-      <link>https://www.v2ex.com/t/1176519</link>
-      <guid>v2ex-1176519</guid>
-      <pubDate>Wed, 03 Dec 2025 01:25:40 GMT</pubDate>
-      <description>&lt;p&gt;如同国家大面积的弄基建，后者基建的维护将是巨大的成本。&lt;/p&gt;
-&lt;p&gt;问了以前还在做运营商网络项目的前同事（运营商更换网络设备，升级网络的意愿越来越弱，迭代速度越来越慢），庞大的维护成本，开销越来越大。&lt;/p&gt;
-&lt;p&gt;而且以前资源提供方建了那么多 IDC ，CDN 机房，这些都需要巨额维护成本。反观一些其他省份的运营商没有键那么多机房，投入那么多资源，属于资源使用者的角色，不是明摆着占便宜吗？&lt;/p&gt;
-&lt;p&gt;不搞省间结算肯定是不行的。不然谁会当冤大头，还会大力建设 IDC,CDN 机房，建立更全的网络覆盖点？这些维护成本谁出？&lt;/p&gt;
-&lt;p&gt;不同省之间的运营商，投资力度是不一样的，维护成本就是差距巨大的，就应该让这些资源使用者的省份多付出点钱。。。&lt;/p&gt;
-&lt;p&gt;至于抓用户上传，那是因为“上传的数据若传输到外省，您的归属运营商需向接收数据的外省运营商支付结算费（每 GB 约 0.5 元）”&lt;/p&gt;
-&lt;p&gt;移动之类的垃圾宽带就别用，就应该被市场规律淘汰掉。。移动对于上传和限速弄的最狠。。。&lt;/p&gt;
-&lt;p&gt;大家还要做好宽带费用大涨的准备。。。趋势就是这样&lt;/p&gt;
-&lt;p&gt;宽带其实这些年是越来越便宜的。。。。我家 2003 年办理的 10Mbps 上下对等的家庭宽带，一个月是 300 多元&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>马斯克称中国人几乎离不开微信， X 目标打造成微信升级版</title>
-      <link>https://www.v2ex.com/t/1176515</link>
-      <guid>v2ex-1176515</guid>
-      <pubDate>Wed, 03 Dec 2025 01:12:45 GMT</pubDate>
-      <description>&lt;p&gt;在播客节目“People by WTF”中，马斯克透露其核心目标是将社交平台 X 转变为一个集多功能于一体的“超级应用（ Superapp ）”。&lt;/p&gt;
-&lt;p&gt;马斯克指出，中国用户的生活高度依赖微信，该应用完美融合了信息交换与资金流转，但在中国之外尚无同类产品。&lt;/p&gt;
-&lt;p&gt;因此，他将 X 的发展方向定义为“微信升级版（ WeChat++）”，旨在填补这一全球市场空白。&lt;/p&gt;
+      <title>独开三年后，我算是看透了：中国不配有创新。各种合规审核，只是想把我们变成听话的行尸走肉！</title>
+      <link>https://www.v2ex.com/t/1176784</link>
+      <guid>v2ex-1176784</guid>
+      <pubDate>Thu, 04 Dec 2025 00:29:49 GMT</pubDate>
+      <description>&lt;p&gt;我是 Ries 的 Orion ，今天不聊产品，也不发版，我就是单纯想骂娘。&lt;/p&gt;
+&lt;p&gt;我们的小团队最近把移动端弄上架了。过去几个月了，一直在折腾各种审批手续...心累...至今才搞完一半..&lt;/p&gt;
+&lt;p&gt;真想骂一句，去 TMD 的“大众创业”，去 TMD 的“鼓励创新”。
+做了一年独立开发我才算看透了：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;在这个环境下，如果你想做一个正经的、有创意的产品，你面临的最大敌人根本不是技术难题，不是竞争对手，而是那个庞大、臃肿、毫无意义且能把你活活耗死的“合规”体系。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我们做 Ries 的初衷多简单啊？
+就是觉得我们英语不好，就是接触太少。想用 AI 在浏览器和手机上搞个“无痛英语环境”。&lt;/p&gt;
+&lt;p&gt;（不认识的可以看一眼我之前的帖子，证明我不是在瞎喷，我们是真的在用心做一个好产品，并且已经为用户创造了 1 亿次无痛英语接触了：&lt;a href=&quot;https://v2ex.com/t/1175448&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1175448&lt;/a&gt; ）&lt;/p&gt;
+&lt;p&gt;但为了把这个单纯的想法落地，我们经历了什么？给大家报报这个&lt;strong&gt;“死亡清单”&lt;/strong&gt;，每一个环节都能扒你一层皮：&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;创业路上的“六道鬼门关”&lt;/h2&gt;
+&lt;h3&gt;第一关：域名与 ICP 备案&lt;/h3&gt;
+&lt;p&gt;买了服务器和域名，你以为能用了？想得美。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;流程&lt;/strong&gt;：先实名认证，再填表、核验、拍照、等管局审核。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;现状&lt;/strong&gt;：为了个备案号，上线进度直接叫停。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;第二关：公安联网备案&lt;/h3&gt;
+&lt;p&gt;ICP 下来了还不行，还得去公安平台再录入一遍祖宗十八代的信息。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;疑惑&lt;/strong&gt;：我寻思这不都是联网的吗？都在国内，数据不互通吗？为什么非得让我再填一遍？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;结果&lt;/strong&gt;：行，为了上线，我填。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;第三关：苹果的上架&lt;/h3&gt;
+&lt;p&gt;要做 iOS 了？好，&lt;strong&gt;邓白氏编码&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;跟老外打电话，发邮件，解释你是谁，一折腾又是半个月。&lt;/li&gt;
+&lt;li&gt;而且中国的 APP 上架还需要搞一个巨麻烦的 &lt;strong&gt;APP 备案号&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;耗时&lt;/strong&gt;：就这几个搞了一个多月。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;第四关：安卓的智商税——软著&lt;/h3&gt;
+&lt;p&gt;要做安卓了？我操，最恶心的来了——&lt;strong&gt;软件著作权&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;荒诞&lt;/strong&gt;：都 2025 年了！代码是跑在服务器上的，是跑在手机里的！你 TMD 非要我把 &lt;strong&gt;60 页代码打印成 A4 纸&lt;/strong&gt;邮寄过去？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;本质&lt;/strong&gt;：&lt;strong&gt;这不仅仅是蠢，这是坏！&lt;/strong&gt; 这纯粹就是为了养活那一帮中介机构！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;耗时&lt;/strong&gt;：创新的速度按天算，这破证 2 月起。为了这个破证，我们花了小几千块加急，还得等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;第五关：收费的“天堑”——ICP 经营许可证&lt;/h3&gt;
+&lt;p&gt;产品好不容易做出来了，想收个会员费回回血？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;门槛&lt;/strong&gt;：对不起，涉及经营，你得有 &lt;strong&gt;ICP 许可证&lt;/strong&gt;（增值电信业务经营许可证）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;要求&lt;/strong&gt;：要求注册资金、要求 &lt;strong&gt;3 个员工的社保记录&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;后果&lt;/strong&gt;：对于我们这种几个人的小团队，这简直就是天堑。没这个证，很多支付渠道你都接不了，只能在那干瞪眼。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;第六关：做社区的“死刑判决”——网文与广电双证&lt;/h3&gt;
+&lt;p&gt;产品有点起色了，想做个社区、弄个论坛让大家交流一下英语学习心得？
+对不起，你这是在自寻死路。&lt;strong&gt;网络文化经营许可证&lt;/strong&gt;（文网文）和&lt;strong&gt;视听许可证&lt;/strong&gt;（广电证）这两座大山能直接把你压成肉泥。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;文网文&lt;/strong&gt;：想让用户发帖？属于“互联网文化产品”，去办证！没这个证，你的 App 只要出现“帖子”、“圈子”这种字眼，分分钟被下架。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;广电证&lt;/strong&gt;：用户想发个语音、传个短视频演示下口语？这属于“视听节目”，去办广电证！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;绝望&lt;/strong&gt;：最绝望的是什么？&lt;strong&gt;广电证原则上根本不批给私企！必须要有国资背景！&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;荒诞&lt;/strong&gt;：我就想搞个简单的论坛评论区，让大家聊聊天，结果你按&lt;strong&gt;电视台&lt;/strong&gt;的标准来管我？这不是门槛高的问题，这是直接把门焊死了，顺便还把窗户封上了！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;深度反思&lt;/h2&gt;
+&lt;p&gt;我就想问问，这一套套的流程，到底防住了什么？
+&lt;strong&gt;除了防住了我们这些没钱没势的穷逼开发者，防住了那些真正想搞点创新的小团队，它防住了那帮搞灰产的吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;说白了，这所有的审核、备案、承诺书，&lt;strong&gt;根本没有任何实际监管意义，它唯一的意义就是“甩锅”！&lt;/strong&gt;
+每个部门都让你填个表，盖个章，就是为了出事的时候说一句：“你看，我审过了，他签了承诺书了，跟我没关系。”
+为了他们的一句“免责”，我们就要跑断腿，磨破嘴，花光原本用来打磨产品的最后一块钱。&lt;/p&gt;
+&lt;h3&gt;大部分创业团队是怎么死的？&lt;/h3&gt;
+&lt;p&gt;根本不是死在产品不好，也不是死在没市场。
+&lt;strong&gt;是死在等证的路上！&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;热情是有保质期的，资金是有燃烧率的。大家聚在一起想干番大事，结果前三个月啥也没干，光在那填表了。三个月过去，证还没下来，钱烧完了，人心散了，团队解散了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;现在国内大环境本来就不好，大家都在勒紧裤腰带过日子。
+结果越是不好，这帮人反而管得越严，手续越繁琐。
+&lt;strong&gt;我都不知道你们到底在怕什么？是怕我们创新得太快吗？还是怕我们活得太好？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;真的，怪不得现在稍微有点能力的开发者，全都在研究怎么出海，怎么搞全球化。
+不是大家不爱国，是这片土地上长满了刺，根本没法下脚。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;累了，毁灭吧。&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -57,39 +112,11 @@
 </description>
     </item>
     <item>
-      <title>B 站有个 up 主叫“聊会电影吧”</title>
-      <link>https://www.v2ex.com/t/1176545</link>
-      <guid>v2ex-1176545</guid>
-      <pubDate>Wed, 03 Dec 2025 02:21:46 GMT</pubDate>
-      <description>&lt;p&gt;我觉得是有后台的，上面在斗，不敢瞎猜，趁下架前快去缓存下来吧大伙&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>30 多万的预算买特斯拉 3/yp 还是买 yu7max？</title>
       <link>https://www.v2ex.com/t/1176632</link>
       <guid>v2ex-1176632</guid>
       <pubDate>Wed, 03 Dec 2025 06:37:59 GMT</pubDate>
       <description>RT&lt;br /&gt;目前有油车，拿 30 多万买特斯拉 3/yp 还是小米 yu7max ？&lt;br /&gt;&lt;br /&gt;感觉 model3 的底盘太低，准备等明年 modely 出 p 版后购入，犹豫是否切换小米 yu7 max 是真的好看哇，感觉性能好像也 ok ？</description>
-    </item>
-    <item>
-      <title>最近去香港办个港卡，有什么好建议没？</title>
-      <link>https://www.v2ex.com/t/1176525</link>
-      <guid>v2ex-1176525</guid>
-      <pubDate>Wed, 03 Dec 2025 01:36:33 GMT</pubDate>
-      <description>&lt;p&gt;rt,还有啥顺便值得干的事情，要不然专门为开卡跑一趟挺不值的&lt;/p&gt;
-&lt;p&gt;有没有可能顺便搞个香港的信用卡呢？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>上班是不是损耗健康</title>
-      <link>https://www.v2ex.com/t/1176524</link>
-      <guid>v2ex-1176524</guid>
-      <pubDate>Wed, 03 Dec 2025 01:34:12 GMT</pubDate>
-      <description>&lt;p&gt;跟同事讨论了一波网上很火的良子，看了一下良子的体检报告，真的逆天，没有肺结节肝功能正常，就只有肾功能异常，血糖居然是偏高没有糖尿病，血脂也只是略超标&lt;/p&gt;
-&lt;p&gt;要知道良子 177 公斤，血脂比我 70 公斤还要好&lt;/p&gt;
-&lt;p&gt;都是 30 出头的年龄，有个同事说要是指标这么好都要笑出猪叫，周围几个基本上人均肺结节，脂肪肝，肾结石，糖早，尿酸高&lt;/p&gt;
-&lt;p&gt;最后得出结论上班是最损耗健康的，不上班的都活得久&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>[Photo Cleaner] 一键清理 iPhone 重复照片，永久会员免费送</title>
@@ -200,6 +227,52 @@
       <guid>v2ex-1176663</guid>
       <pubDate>Wed, 03 Dec 2025 07:52:20 GMT</pubDate>
       <description>周末娃要拿老婆的 iPad 打游戏，老婆发现娃趁机在 ipad 上下载各种 app 刷短视频。于是她就做了如下操作&lt;br /&gt;&lt;br /&gt;1. 在设置 icloud 里关掉了 icloud keychain 同步&lt;br /&gt;2. 在 password app 里删除了所有密码。（删除所有密码是防止我们自己的密码泄露给娃。）&lt;br /&gt;3. 删除娃下的 app ，打开下载 app 永远需要密码。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;过了两天老婆突然发现她的 iphone macbook 里的 keychain 还是同步删除了所有密码。白茫茫一片大地真干净。&lt;br /&gt;&lt;br /&gt;好在我十多年前也莫名其妙的丢过一次 icloud keychain ，从那开始就不用系统建议的强密码了，全用自己定的密码规则，也要求媳妇这么做。基本上 95%的密码都再存一遍即可。她的二次验证的验证码在我这边也有备份。算是没有造成灾难性损失。&lt;br /&gt;&lt;br /&gt;再加上看到那个因为 XR 存储满了系统异常同步清空备忘录的哥们，现在真的对苹果的 icloud 0 信任。</description>
+    </item>
+    <item>
+      <title>我，吃饱了撑的注册了个域名， Cloudflare 账号没了，不建议将域名放在 Cloudflare</title>
+      <link>https://www.v2ex.com/t/1176691</link>
+      <guid>v2ex-1176691</guid>
+      <pubDate>Wed, 03 Dec 2025 08:37:43 GMT</pubDate>
+      <description>&lt;p&gt;2023 年 12 月 22 日，我注册了一个域名：&lt;a href=&quot;http://cloudflared.cn&quot; rel=&quot;nofollow&quot;&gt;cloudflared.cn&lt;/a&gt; ，想做 Cloudflare Tunnel 中文版文档&lt;/p&gt;
+&lt;p&gt;2025 年 11 月 12 日，我收到了 Cloudflare 的系统通知邮件，告诉我号没了&lt;/p&gt;
+&lt;p&gt;理由是：我仿冒和侵犯了 cloudflare 的商标&lt;/p&gt;
+&lt;p&gt;截止当前时间，我的号依然是禁止的状态&lt;/p&gt;
+&lt;p&gt;我账号下所有域名，禁止管理，也就无法转出，操作接口返回 403 状态：Registrar access forbidden&lt;/p&gt;
+&lt;p&gt;所以，我不建议将域名放在 Cloudflare ，还是去其他地方注册 NS 接入吧。&lt;/p&gt;
+&lt;p&gt;更详细的原文我发在我博客了： &lt;a href=&quot;https://blog.renfei.net/posts/1626402130325676137&quot; rel=&quot;nofollow&quot;&gt;https://blog.renfei.net/posts/1626402130325676137&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>又是春熙路</title>
+      <link>https://www.v2ex.com/t/1176661</link>
+      <guid>v2ex-1176661</guid>
+      <pubDate>Wed, 03 Dec 2025 07:47:54 GMT</pubDate>
+      <description>看到个新闻,说吃串串的用过的锅底重复使用,看到这个春熙路我就联想到 v 站分享过的各种奇葩事件了</description>
+    </item>
+    <item>
+      <title>给父母补交农村养老保险</title>
+      <link>https://www.v2ex.com/t/1176683</link>
+      <guid>v2ex-1176683</guid>
+      <pubDate>Wed, 03 Dec 2025 08:16:26 GMT</pubDate>
+      <description>&lt;p&gt;上次看了 v 友的帖子，后续自己回去问了，湖南某 18 线县城，现在还能给父母补交农村养老保险&lt;/p&gt;
+&lt;p&gt;具体是从 2008 年开始缴费的，之前好像是 100/200 一年的交的（当时还不负担家里，对这个不清楚），现在是最低 300 元一档/年&lt;/p&gt;
+&lt;p&gt;补交是这样的，2008 到 2018 年（误差 1-2 年左右）这之前最高是 3000 元/年，2018 到现在不确定是 6000/7000 年
+如果补交的话，费用一人
+3000&lt;em&gt;10+6000&lt;/em&gt;7=72000 或者 3000/10+7000*7=79000 （还要减去之前交的年份），差不多一人 8w 左右&lt;/p&gt;
+&lt;p&gt;我父亲 58 岁，母亲 56 岁，预计满 60 岁后可领养老金，听说现在是 800 左右/月&lt;/p&gt;
+&lt;p&gt;大家觉得可以补交么，有没有啥坑，或者遇到这种会选择给父母补缴么&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>特斯拉不愧是 [驾驶者] 之车</title>
+      <link>https://www.v2ex.com/t/1176785</link>
+      <guid>v2ex-1176785</guid>
+      <pubDate>Thu, 04 Dec 2025 00:45:27 GMT</pubDate>
+      <description>&lt;p&gt;大概率车企认为，后排拉的是货，不是人吧。。。&lt;/p&gt;&lt;p&gt;
+早上蹭了个同事的车，model3 ，老城区路比较烂，那路感，简直了，到公司停车场，进地下停车场减速带比较多，直接给我抛起来了，得亏有安全带。&lt;/p&gt;&lt;p&gt;
+我问同事，m3 是不是开起来是不是很爽，他说老爽了，那操控指哪打哪，要是续航再多点，就完美了，X 工要不要也买一辆，我说等过几年，电池再发展一段时间就买&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;其实我心里想的是：我要是买了，家里老人拿刀追我八百条街!!!&lt;/h2&gt;
+</description>
     </item>
   </channel>
 </rss>
