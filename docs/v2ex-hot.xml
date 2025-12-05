@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 05 Dec 2025 02:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 03:46:00 GMT</lastBuildDate>
     <item>
       <title>大家有从内心喜欢的 up 主吗</title>
       <link>https://www.v2ex.com/t/1176867</link>
@@ -29,82 +29,6 @@
 </description>
     </item>
     <item>
-      <title>Gemini 邀请好友免费送 4 个月</title>
-      <link>https://www.v2ex.com/t/1176840</link>
-      <guid>v2ex-1176840</guid>
-      <pubDate>Thu, 04 Dec 2025 02:53:44 GMT</pubDate>
-      <description>gemini 白送这么多吗？&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/DPQX0aJ.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/DPQX0aJ.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>为什么写 C++的人年龄偏大？</title>
-      <link>https://www.v2ex.com/t/1176844</link>
-      <guid>v2ex-1176844</guid>
-      <pubDate>Thu, 04 Dec 2025 03:05:49 GMT</pubDate>
-      <description>&lt;p&gt;C++什么会得到像我这样老年人的喜爱？&lt;/p&gt;
-&lt;p&gt;首先 C++这个语言表达力及其丰富，以至于初学者不知所措，经常会看到不认识的语法，这是在其它语言不太会经历到的。 但是它所有的复杂性都服务于一个目标，抽象(abstraction)。抽象是一个高级的思考过程，它试图从杂乱无章中找到模式。&lt;/p&gt;
-&lt;p&gt;不知各位有没有用过 boost json ，json 仅有几种有限的数据类型，大部分语言有类(class)，用它来抽象这些数据类型也挺不错，c++也是 OOP 。 但是 C++还有 &lt;code&gt;std::variant&lt;/code&gt;，就是说如果一个东西只可能有固定的几个类型，那么用&lt;code&gt;std::variant&lt;/code&gt;来抽象更恰当（也可能更快，更不容易错，或者无法错)。&lt;/p&gt;
-&lt;p&gt;其它比如&lt;code&gt;shared_from_this&lt;/code&gt;等都是为解决问题而生，如果你没有碰到问题，那么你就不会深入理解&lt;code&gt;shared_from_this&lt;/code&gt;。它是为了在异步环境中让对象自己保持活着，不然异步回调时如果对象已经销毁，就会 UAF 。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;namespace certctrl {
-
-class UpdateHandler : public IHandler, 
-                      public std::enable_shared_from_this&amp;lt;UpdateHandler&amp;gt; {
-private:
-  certctrl::ICertctrlConfigProvider &amp;amp;config_provider_;
-  customio::ConsoleOutput &amp;amp;output_;
-  client_async::HttpClientManager &amp;amp;http_client_;
-  certctrl::CliCtx &amp;amp;cli_ctx_;
-  std::shared_ptr&amp;lt;AgentUpdateChecker&amp;gt; update_checker_;
-
-  // Platform detection
-  std::string detect_platform();
-  std::string detect_architecture();
-  
-  // Update workflow steps
-  monad::IO&amp;lt;bool&amp;gt; check_for_updates(const std::string &amp;amp;current_version);
-  monad::IO&amp;lt;bool&amp;gt; confirm_update();
-  monad::IO&amp;lt;void&amp;gt; perform_update();
-  monad::IO&amp;lt;std::string&amp;gt; download_update(const std::string &amp;amp;download_url);
-  monad::IO&amp;lt;void&amp;gt; install_update(const std::string &amp;amp;downloaded_file);
-  monad::IO&amp;lt;void&amp;gt; backup_current_binary();
-  monad::IO&amp;lt;void&amp;gt; replace_binary(const std::string &amp;amp;new_binary_path);
-  
-  // Helper methods
-  std::string get_current_binary_path();
-  std::string generate_backup_path();
-  bool verify_downloaded_file(const std::string &amp;amp;file_path, const std::string &amp;amp;checksum_url);
-
-public:
-  UpdateHandler(certctrl::ICertctrlConfigProvider &amp;amp;config_provider,
-                customio::ConsoleOutput &amp;amp;output,
-                client_async::HttpClientManager &amp;amp;http_client,
-                certctrl::CliCtx &amp;amp;cli_ctx,
-                std::shared_ptr&amp;lt;AgentUpdateChecker&amp;gt; update_checker);
-
-  std::string command() const override;
-  monad::IO&amp;lt;void&amp;gt; start() override;
-};
-
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;当然这里仅仅举几个例子，每一个特性都是为解决问题而设计的。&lt;/p&gt;
-&lt;p&gt;说到为什么年长者更喜欢 c++，我估计可能和大脑的抽象能力相关，我不是脑科学专家，我还问了 chatgpt ，它的答复：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;情况	结果
-纯逻辑、非经验性的抽象任务（数学推理、形状类比、无语言图形测试）	年轻人通常更强
-基于经验的抽象总结、模式识别	年长者可能更强
-需要同时抽象 + 处理大量新信息的任务	年轻人更快
-需要抽象 + 基于经验的判断	年长者表现可能更佳
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;所以更准确的结论应该是，经验丰富的编程者可能会选择 C++。 如果你是初学者，不要为 C++的复杂度困扰，这需要一个过程，一个进步的过程。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>感觉程序员使用 vibe coding 接下来左右是个死</title>
-      <link>https://www.v2ex.com/t/1176989</link>
-      <guid>v2ex-1176989</guid>
-      <pubDate>Thu, 04 Dec 2025 13:25:30 GMT</pubDate>
-      <description>现在的 vibe coding 之于程序员，像极了当年蒋经国让蒋介石反腐的一个两难境地的状态——不反腐吧就亡国，一反腐吧就亡党，现在程序员就是你不用 vibe coding 是等死——等着被其他用 vibe coding 的程序员卷死，你用就是找死——用多了之后，之前的很多编程技能用进废退，不用之后全都生疏了，荒废了，清零了，所以处于一个进退两难的境地。&lt;br /&gt;&lt;br /&gt;可能需要找到新的技能树和思维升维方向成长来破局。</description>
-    </item>
-    <item>
       <title>感觉现在的智驾挺鸡肋的.现阶段不应该作为车辆评比标准之一.</title>
       <link>https://www.v2ex.com/t/1177021</link>
       <guid>v2ex-1177021</guid>
@@ -124,16 +48,32 @@ public:
 </description>
     </item>
     <item>
-      <title>吐槽一下 Windows 七月更新的 BUG</title>
-      <link>https://www.v2ex.com/t/1176855</link>
-      <guid>v2ex-1176855</guid>
-      <pubDate>Thu, 04 Dec 2025 03:39:07 GMT</pubDate>
-      <description>&lt;p&gt;相关新闻 ： &lt;a href=&quot;https://www.ithome.com/0/899/054.htm&quot; rel=&quot;nofollow&quot;&gt;时隔 4 个月：微软承认 Win11 重大 BUG ，影响开始菜单、任务栏等几乎所有核心功能&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在看到这个新闻之前，我的开始菜单搜索功能已经罢工很久了。在一个月前，我偶尔还能通过重启来恢复使用，现在是无论怎么重启都不行了。&lt;/p&gt;
-&lt;p&gt;其次是一些第三方的软件，例如 clash verge 这种利用了 tauri 开发的软件，打开也是白屏的。&lt;/p&gt;
-&lt;p&gt;直到我看到这个新闻，我才惊奇的发现，这可能就是 KB5062553 的 BUG 。&lt;/p&gt;
-&lt;p&gt;周一开始，我就已经在考虑重装系统了。真的服了这群印度阿三了&lt;/p&gt;
-</description>
+      <title>感觉程序员使用 vibe coding 接下来左右是个死</title>
+      <link>https://www.v2ex.com/t/1176989</link>
+      <guid>v2ex-1176989</guid>
+      <pubDate>Thu, 04 Dec 2025 13:25:30 GMT</pubDate>
+      <description>现在的 vibe coding 之于程序员，像极了当年蒋经国让蒋介石反腐的一个两难境地的状态——不反腐吧就亡国，一反腐吧就亡党，现在程序员就是你不用 vibe coding 是等死——等着被其他用 vibe coding 的程序员卷死，你用就是找死——用多了之后，之前的很多编程技能用进废退，不用之后全都生疏了，荒废了，清零了，所以处于一个进退两难的境地。&lt;br /&gt;&lt;br /&gt;可能需要找到新的技能树和思维升维方向成长来破局。</description>
+    </item>
+    <item>
+      <title>那个陈震的车评号挂了？</title>
+      <link>https://www.v2ex.com/t/1177038</link>
+      <guid>v2ex-1177038</guid>
+      <pubDate>Fri, 05 Dec 2025 01:42:50 GMT</pubDate>
+      <description>挂的好&lt;br /&gt;&lt;br /&gt;评车我认为就是赶上了国内造车浪潮，根本不是个刚需，加上车企将原来杂志、传统媒体的广告预算放到了更能传播和折腾的自媒体里，所以这帮人怎么折腾怎么来流量就怎么赚钱，但过了就恶心了</description>
+    </item>
+    <item>
+      <title>不用赴港申请 Wise 香港账户</title>
+      <link>https://www.v2ex.com/t/1176999</link>
+      <guid>v2ex-1176999</guid>
+      <pubDate>Thu, 04 Dec 2025 14:08:11 GMT</pubDate>
+      <description>获得了免费的 Wise 借记卡或免手续费汇款机会。快来试试吧！ &lt;a target=&quot;_blank&quot; href=&quot;https://wise.com/invite/dit/zey27&quot; rel=&quot;nofollow noopener&quot;&gt;https://wise.com/invite/dit/zey27&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>为何电自新国标越改越不被认可，民众究竟需要怎样的电动车？怎么监管？</title>
+      <link>https://www.v2ex.com/t/1177030</link>
+      <guid>v2ex-1177030</guid>
+      <pubDate>Fri, 05 Dec 2025 01:03:51 GMT</pubDate>
+      <description>最新的电动车新国标因限速过低、取消载人功能等问题引发广泛吐槽甚至抵制，嘲讽。大家普遍在支持安全初衷的同时，认为规定过于“一刀切”，未能兼顾实际出行需求。新国标成功做到了让厂家，经销商和消费者三方抵制和不屑，基本名存实亡。&lt;br /&gt;&lt;br /&gt;全国电动车保有量达 3.8 亿辆，它不仅是通勤、接娃、买菜的重要工具，也是外卖、货运等群体的生产资料。新国标为防范火灾、交通事故而立，但部分标准将“安全”与“便利”对立起来：过低限速在混合路况中可能反而危险，禁止载人则直接影响了核心使用场景。&lt;br /&gt;&lt;br /&gt;为何上面总是选择性忽视实际需求，而越改越离谱呢，以下建议几乎是共识：&lt;br /&gt;&lt;br /&gt;分级管理：按用途区分“家庭通用型”与“营运专用型”，针对不同需求设定速度、载重等标准。&lt;br /&gt;&lt;br /&gt;技术辅助：可强制要求配备儿童座椅安全接口，从源头规范电池与电控系统，杜绝非法改装空间。&lt;br /&gt;&lt;br /&gt;倾听民意：政策制定应广泛听取外卖员、家长等实际用户的声音，让规定既保安全，也贴合民生。&lt;br /&gt;&lt;br /&gt;开放电摩：25 以下电自，规划好非机动车道，强制考证，上牌，保险，25 以上，合法上牌摩托车，走机动车道。&lt;br /&gt;&lt;br /&gt;理想的电动车政策，应在安全与实用之间取得平衡，让亿万用户真正感到“贴心”。</description>
     </item>
     <item>
       <title>绿联客服把我搞蒙了</title>
