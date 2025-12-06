@@ -4,18 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 06 Dec 2025 11:08:40 GMT</lastBuildDate>
-    <item>
-      <title>残念,我的蚊帐还要买吗?</title>
-      <link>https://www.v2ex.com/t/1177260</link>
-      <guid>v2ex-1177260</guid>
-      <pubDate>Sat, 06 Dec 2025 04:00:16 GMT</pubDate>
-      <description>&lt;p&gt;我之前买了个蚊帐,但是是纱布的,不怎么保暖,今天早上嘴里有痰了,估计是受凉了.&lt;/p&gt;
-&lt;p&gt;所以我要买新的蚊帐吗?如果买新的,估计 400-500,觉得自己在浪费钱.&lt;/p&gt;
-&lt;p&gt;但是不买又心里不甘,真 TMD 不甘.心里想着连睡觉都不舒适,这活着还有什么意思?&lt;/p&gt;
-&lt;p&gt;我该怎么办?&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 06 Dec 2025 11:32:46 GMT</lastBuildDate>
     <item>
       <title>足不出户，开通香港星展银行账户</title>
       <link>https://www.v2ex.com/t/1177257</link>
@@ -67,6 +56,17 @@
 </description>
     </item>
     <item>
+      <title>残念,我的蚊帐还要买吗?</title>
+      <link>https://www.v2ex.com/t/1177260</link>
+      <guid>v2ex-1177260</guid>
+      <pubDate>Sat, 06 Dec 2025 04:00:16 GMT</pubDate>
+      <description>&lt;p&gt;我之前买了个蚊帐,但是是纱布的,不怎么保暖,今天早上嘴里有痰了,估计是受凉了.&lt;/p&gt;
+&lt;p&gt;所以我要买新的蚊帐吗?如果买新的,估计 400-500,觉得自己在浪费钱.&lt;/p&gt;
+&lt;p&gt;但是不买又心里不甘,真 TMD 不甘.心里想着连睡觉都不舒适,这活着还有什么意思?&lt;/p&gt;
+&lt;p&gt;我该怎么办?&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>谁说国内没有罢工，罢工争取加班权，反对 5 天 8 小时，倒反天罡😂</title>
       <link>https://www.v2ex.com/t/1177267</link>
       <guid>v2ex-1177267</guid>
@@ -76,25 +76,27 @@
 </description>
     </item>
     <item>
-      <title>你们在用什么笔记软件？</title>
-      <link>https://www.v2ex.com/t/1177287</link>
-      <guid>v2ex-1177287</guid>
-      <pubDate>Sat, 06 Dec 2025 09:04:18 GMT</pubDate>
-      <description>&lt;p&gt;我用过很多笔记软件，包括云同步和本地的，每款软件都各有特色，但能让我满意的软件不多，先来盘点下我用过的吧。&lt;/p&gt;
-&lt;p&gt;印象笔记：这个是老牌笔记软件了，很久之前用过，后面要 vip 才可以同步，好像只能两台设备，设计也比较难看，最开始也不支持 Markdown ，广告比较多，放弃了。&lt;/p&gt;
-&lt;p&gt;有道云笔记：这个大概十年前用过一段时间，当时很多用户强烈要求支持 Markdown ，当时官方说程序员只是个小众群体，不做，于是我也放弃了，听说后来支持了，也没有用这个。&lt;/p&gt;
-&lt;p&gt;为知笔记：这个也是早期用的，当时说是哪怕这个公司倒闭了，笔记还能导出来，wiz 格式的笔记可以转换成 html ，这个还不错，后来有新的笔记软件，也没用了。&lt;/p&gt;
-&lt;p&gt;语雀：这个当时火了一阵子，一开始我很不喜欢这个字体，看着有点发虚，而且行间距非常大，每次编辑笔记完了还要点下发布，导出 Markdown 里面的图片居然还是线上地址，有防盗链也不能粘贴到别的平台。后面体验发现改进了很多，代码格式化很好用，排版也舒服了很多，但还是不能导出完整的 Markdown ，所有这个偶尔用下。&lt;/p&gt;
-&lt;p&gt;wolai：这个目前是我用着书写体验最好的，排版美观，支持各种、和&lt;code&gt;cmd + e&lt;/code&gt;这样的快捷键，支持中西文排版，支持导出完整的 Markdown+本地图片。缺点是分享不是很方便，要点几次，性能优化有点问题，有时候加载比较慢。再就是 vip 涨价了，感觉续费不划算。在 vip 到期前，我把三年多的笔记都导出来了，发现不到 3 个 g ，包括一些安装包啥的。后面换笔记软件，只要支持 Markdown 导入，就可以完成迁移。或者用本地的也可以。&lt;/p&gt;
-&lt;p&gt;flowus：这个也是跟 wolai 差不多，但是没有 wolai 好看，体验下来有些 bug ，速度相对比较快，可能是我笔记不多的原因。&lt;/p&gt;
-&lt;p&gt;notion：这个性能是最好的，支持一次性粘贴大量文字。支持夜间模式自动切换，搜索功能也不错。缺点是不支持中文顿号呼出快捷键，不支持中西文排版，不支持四级及以下标题。免费版限制 5mb 的文件上传，plus 费用较贵。听说教育版等同于 plus ，但不知道能用多久，政策会不会变。听说有人薅羊毛被官方发现，直接被封号了，笔记找不回来，这个损失还蛮大的。notion 的 Markdown 导出功能虽然也有，但是感觉没有 wolai 好用。&lt;/p&gt;
-&lt;p&gt;思源笔记：这个浅尝辄止的用了下，感觉需要折腾下才会比较好用，近期准备再研究下，看看能不能满足我的需求。&lt;/p&gt;
-&lt;p&gt;typora：这个我用过很多年的，纯 Markdown 书写体验不错，配合 piclist 配置图床，可以复制粘贴发布到别的平台，就是快捷键少了点，似乎不支持自定义快捷键，比方说我要选中一段文字高亮为行内代码块之类的。搜索不太方便，没法根据关键词快速找到我的笔记。&lt;/p&gt;
-&lt;p&gt;obsidian：最近听说有大佬用这个做技术创作很强，然后我又下载试了下，我发现问题还蛮多的，首先这个换行的问题，是一个回车还是两个回车，折磨的我怀疑人生。所见不是所得，习惯了 typora 后，能明显感觉这个书写体验是差了一大截，就像是精装修和毛坯房的区别一样。然后我需要折腾研究各种配置和插件，可能才能达到 typora 的一部分体验。&lt;/p&gt;
-&lt;p&gt;目前我的情况是，wolai 看看历史记录的笔记，notion 记录新的内容，typora 写一些技术文章。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;综上所述，我平时的需求主要是记笔记、写文章、搜索内容，其他的比方说双链笔记啥的，我基本用不到。我对 Markdown 的书写体验要求很高，因为有了 Markdown ，我就能做到一次书写，全平台发布。&lt;/p&gt;
-&lt;p&gt;看看各位 v 友平时用的是什么笔记软件，来交流下吧。&lt;/p&gt;
+      <title>外包转正？让我给遇到了</title>
+      <link>https://www.v2ex.com/t/1177290</link>
+      <guid>v2ex-1177290</guid>
+      <pubDate>Sat, 06 Dec 2025 09:18:33 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;本人情况&lt;/strong&gt;：5 年前端，35+，一本 211 ，一线城市国企子公司外包岗，有房（但有较强改善需求）无贷，有老有小，手头现金还算充裕&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;工作情况&lt;/strong&gt;：目前大头兵，待了 1 年多，基本 965 ，加班不多（加的话无补贴无调休），税前 18 ，五险一金最低，甲方直属 leader nice 。核心项目断网古法代码开发，做事都是面向领导，需求经常不清，流程比较随意&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;事件起因&lt;/strong&gt;：前两天甲方直属 leader 突然把我叫到会议室，说刚把我推荐给了部门主管，因为明年部门会有一个前端正式岗的 hc ，感觉我还可以。之后部门主管就来了，开始和我沟通，大意是目前公司还没有外包转正的先例，且高层领导也不提倡，所以如果我选择转正，则要先走退回/离职流程，然后自己投简历走正式岗的流程（候选 1:5 ，笔试+面试+高层领导群面，最快 1.5 个月 ），到时他会和 hr 沟通，并向高层领导推荐我，不过最终还是要看面试时的表现，以及高层领导看法，估计成功率大概 7 成；也可以选择继续做外包，说这两年如果部门裁员，不会先裁我（除非有重大失误）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;后续沟通&lt;/strong&gt;：因为之前 leader 并没有和我提前沟通过此事，有点突然，个人猜测可能是因为前阵子我独立完成并上线了一个 Python+AI 的项目，效果还不错，感觉能力还可以；之后又单独和 leader 沟通过一次，他表示我做事比较仔细，对业务也熟，与其重新招一个人从头来过，不如推荐我&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;存在的风险&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果面试不成功，以自己目前的竞争力，大概率会失业。&lt;/li&gt;
+&lt;li&gt;如果还想以外包重新入职，则不可能。主管明确告知，等我离职后会立刻招新外包，以弥补人手的不足。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;如果转正成功&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优点&lt;/strong&gt;：五险一金全缴、用餐免费、节日礼等等，各种国企隐形福利就不赘述了，当然，还有不用被“特别”对待了&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;缺点&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;薪资降 3 ～ 4K&lt;/li&gt;
+&lt;li&gt;更大压力：新岗位会附加一些管理性工作，不是自己喜欢和擅长的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目前还未和外包公司沟通（因为感觉那边没有任何收益），想先听听 V 友们的看法，感谢&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -121,30 +123,6 @@
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/1kkL5ob.jpeg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GlfUP3E.jpeg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/zY1QV8N.jpeg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>外包转正？让我给遇到了</title>
-      <link>https://www.v2ex.com/t/1177290</link>
-      <guid>v2ex-1177290</guid>
-      <pubDate>Sat, 06 Dec 2025 09:18:33 GMT</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;本人情况&lt;/strong&gt;：5 年前端，35+，一本 211 ，一线城市国企子公司外包岗，有房（但有较强改善需求）无贷，有老有小，手头现金还算充裕&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;工作情况&lt;/strong&gt;：目前大头兵，待了 1 年多，基本 965 ，加班不多（加的话无补贴无调休），税前 18 ，五险一金最低，甲方直属 leader nice 。核心项目断网古法代码开发，做事都是面向领导，需求经常不清，流程比较随意&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;事件起因&lt;/strong&gt;：前两天甲方直属 leader 突然把我叫到会议室，说刚把我推荐给了部门主管，因为明年部门会有一个前端正式岗的 hc ，感觉我还可以。之后部门主管就来了，开始和我沟通，大意是目前公司还没有外包转正的先例，且高层领导也不提倡，所以如果我选择转正，则要先走退回/离职流程，然后自己投简历走正式岗的流程（候选 1:5 ，笔试+面试+高层领导群面，最快 1.5 个月 ），到时他会和 hr 沟通，并向高层领导推荐我，不过最终还是要看面试时的表现，以及高层领导看法，估计成功率大概 7 成；也可以选择继续做外包，说这两年如果部门裁员，不会先裁我（除非有重大失误）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;后续沟通&lt;/strong&gt;：因为之前 leader 并没有和我提前沟通过此事，有点突然，个人猜测可能是因为前阵子我独立完成并上线了一个 Python+AI 的项目，效果还不错，感觉能力还可以；之后又单独和 leader 沟通过一次，他表示我做事比较仔细，对业务也熟，与其重新招一个人从头来过，不如推荐我&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;存在的风险&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;如果面试不成功，以自己目前的竞争力，大概率会失业。&lt;/li&gt;
-&lt;li&gt;如果还想以外包重新入职，则不可能。主管明确告知，等我离职后会立刻招新外包，以弥补人手的不足。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;如果转正成功&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;优点&lt;/strong&gt;：五险一金全缴、用餐免费、节日礼等等，各种国企隐形福利就不赘述了，当然，还有不用被“特别”对待了&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;缺点&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;薪资降 3 ～ 4K&lt;/li&gt;
-&lt;li&gt;更大压力：新岗位会附加一些管理性工作，不是自己喜欢和擅长的&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前还未和外包公司沟通（因为感觉那边没有任何收益），想先听听 V 友们的看法，感谢&lt;/p&gt;
 </description>
     </item>
     <item>
