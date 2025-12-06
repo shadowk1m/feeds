@@ -4,26 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 05 Dec 2025 23:36:01 GMT</lastBuildDate>
-    <item>
-      <title>感觉现在的智驾挺鸡肋的.现阶段不应该作为车辆评比标准之一.</title>
-      <link>https://www.v2ex.com/t/1177021</link>
-      <guid>v2ex-1177021</guid>
-      <pubDate>Fri, 05 Dec 2025 00:34:27 GMT</pubDate>
-      <description>&lt;h3&gt;高速理论上很好用,但是出了事会死.&lt;/h3&gt;
-&lt;h3&gt;上下班理论上不会死,但是不好用.&lt;/h3&gt;
-&lt;p&gt;什么时候才能真正享受到智驾带来的福利啊?&lt;/p&gt;
-&lt;p&gt;也许有人会说飞机不是一样的,但在我看来飞机有两点不同:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;飞机更成熟,管控更严格,硬件更厉害.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;空域中其他飞机是可控的,而路上其他车辆是不可控的.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 06 Dec 2025 00:52:16 GMT</lastBuildDate>
     <item>
       <title>网易云会员免费领</title>
       <link>https://www.v2ex.com/t/1177053</link>
@@ -53,13 +34,6 @@
 </description>
     </item>
     <item>
-      <title>2026 年开始将没有人会 review vibe coding 的代码，就像没人会 review 编译器的输出结果一样</title>
-      <link>https://www.v2ex.com/t/1177023</link>
-      <guid>v2ex-1177023</guid>
-      <pubDate>Fri, 05 Dec 2025 00:41:09 GMT</pubDate>
-      <description>觉得这个观点很有趣，确实没有人关注代码编译成二进制后是什么样子。&lt;br /&gt;2026 可能为时尚早，但是一定会有这么一天的。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/3qRTLqH.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/3qRTLqH.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>饿了么正式更名为淘宝闪购</title>
       <link>https://www.v2ex.com/t/1177044</link>
       <guid>v2ex-1177044</guid>
@@ -74,6 +48,35 @@
       <guid>v2ex-1177174</guid>
       <pubDate>Fri, 05 Dec 2025 08:57:15 GMT</pubDate>
       <description>Rust 的问题？</description>
+    </item>
+    <item>
+      <title>我有个想法, 就是现在应该发明一种专用于大模型生成的语言</title>
+      <link>https://www.v2ex.com/t/1177032</link>
+      <guid>v2ex-1177032</guid>
+      <pubDate>Fri, 05 Dec 2025 01:21:37 GMT</pubDate>
+      <description>&lt;p&gt;现有的所谓 AI 辅助开发, 都是利用现有的语言&lt;/p&gt;
+&lt;p&gt;现有的语言, 当然目标都是让人类去编写的&lt;/p&gt;
+&lt;p&gt;但现在前提不一样了&lt;/p&gt;
+&lt;p&gt;所以我认为应该有一种新得语言, 满足以下目标&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主要用于大模型理解, 输入, 输出&lt;/li&gt;
+&lt;li&gt;语言必须简单, 易懂, 关键字, 特性尽量少, 或标准化, 简单来说就是,
+为了满足一个简单需求应该只有一种写法, 比如 go 只有 for 循环&lt;/li&gt;
+&lt;li&gt;语言必须是编译的, 强类型的, 因为由于大模型 ai 工具的原因, 可编译性语言可以大大提高模型生成正确率, 因为模型可以自己不断编译改错直到编译成功&lt;/li&gt;
+&lt;li&gt;语言可以比较繁琐, 但必须易读易懂 (rust 就不合格)&lt;/li&gt;
+&lt;li&gt;语言语法必须尽量兼容当前流行的语言或一些约定俗成的语法, 不发明新语法(rust 是反例)&lt;/li&gt;
+&lt;li&gt;语言的设计包括文档标准格式等, 简单说就是文档就是给模型的 prompt, 是有标准格式的, 其实就是设计文档&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我判断应该很快就有大厂做这事, 隐约感觉 go 还蛮合适的, 当然肯定要经过改造&lt;/p&gt;
+&lt;p&gt;这样以后包括文档, prompt 等等都能标准化, 大模型输入输出更精准, 因为只需要考虑一种标准化语言&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>mac 上有有没有推荐的无线键盘，连接响应速度比较快的？</title>
+      <link>https://www.v2ex.com/t/1177103</link>
+      <guid>v2ex-1177103</guid>
+      <pubDate>Fri, 05 Dec 2025 05:06:34 GMT</pubDate>
+      <description>现在用的 keychron 的键盘，用的蓝牙连接，过十几分钟不用就会断开连接，休眠状态连接上电脑要好几秒钟的时间。有没有第三方键盘连接速度快的推荐一下</description>
     </item>
   </channel>
 </rss>
