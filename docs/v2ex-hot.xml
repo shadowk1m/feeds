@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 06 Dec 2025 06:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 06:46:43 GMT</lastBuildDate>
     <item>
       <title>已婚人士请进，你们结婚女方陪嫁是什么?</title>
       <link>https://www.v2ex.com/t/1177131</link>
@@ -64,11 +64,30 @@
 </description>
     </item>
     <item>
-      <title>国外服务器有没有推荐的</title>
-      <link>https://www.v2ex.com/t/1177125</link>
-      <guid>v2ex-1177125</guid>
-      <pubDate>Fri, 05 Dec 2025 06:38:48 GMT</pubDate>
-      <description>正常部署服务使用，非中转，国内访问不要太拉跨就行，加个也不要太贵，大佬帮推荐几个</description>
+      <title>感觉找不到工作，做了五年的医疗业务，发现现在市面上很少有相关的业务需求公司，该如何寻找新出路，或者尝试新业务从零开始。</title>
+      <link>https://www.v2ex.com/t/1177180</link>
+      <guid>v2ex-1177180</guid>
+      <pubDate>Fri, 05 Dec 2025 09:01:49 GMT</pubDate>
+      <description>&lt;p&gt;医疗确实不好做，做了五年的医疗业务得到的结论就是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;医院对技术不敏感，更多的是上面要求做所谓的科技赋能。&lt;/li&gt;
+&lt;li&gt;医院不愿意出钱，对接过部分医院，医院不把软件支付放入公司财务内，说白了就是医院更需要看到实体的内容，而不是软件这种虚无缥缈的东西。&lt;/li&gt;
+&lt;li&gt;医院比较难合作，只有那种刚开的医院相对来说好沟通，三甲医院对接十分麻烦，和医院信息科沟通更是得求着人家办事。&lt;/li&gt;
+&lt;li&gt;好的医院项目基本上轮不到普通公司做，基本上都给大的外包给承包了，比如东软一类的？&lt;/li&gt;
+&lt;li&gt;还有就是当前公司对软件完全不重视，把软件当做医院维保合同内的附属产品赠送出去（公司核心业务是提供医院设备的维保服务）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目前我们做的医院几大核心业务大概如下&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;医院设备管理，医院设备生命周期记录，以及搭配公司维保服务做的一系列，运维报告输出之类的。&lt;/li&gt;
+&lt;li&gt;效益分析，针对医院的大型设备检查数据和医院内部的 his 数据做数据统计分析，展示医院的一个月、年份收入报告。&lt;/li&gt;
+&lt;li&gt;iot （这块我接触的少，其他同事做的），应该是对接硬件实现对环境的温湿度管理报警一类的。还有其他各种灰尘什么的？&lt;/li&gt;
+&lt;li&gt;共享租赁系统，这个应该是医院内部不同部门之间用来设备租赁记账用的一个东西。&lt;/li&gt;
+&lt;li&gt;不良事件上报对接
+等等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;发现写着写着成简历了快。目前公司新来了一个经理，想搞换血，把我们所有老员工给搞走，结合新人事，两人干了一堆的畜生行径。目前骑驴找马阶段。发现自己的业务经理在市场上好像没什么用处。目前接收到的大多数都是，金融相关的开发业务。可能是因为我早起有一年的银行外包的开发经历。但是除此之外没有什么工作可以找到了。
+今年已经 28 了，在考虑要么换行，要么换个业务方向重新做。虽然知道现在开发已死，而且我还是做的 java 。更是死的不能再死，但是还是想请教 v 友们，之后有什么好的方向嘛，不求发财，只求能吃上饭。之前还想着做游戏试试，但是又没有重头做游戏的勇气，游戏听说还是比较难做的。而且加班严重。不过目前也不纠结这个，如果游戏挣钱方向好，996 我也能够干。现在真的是没什么好出路了。换行感觉自己更是不知道该干什么。兢兢业业四五年，虽然不说优秀，但是工作从未偷懒，结局竟是这样。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>船长的副业日记</title>
@@ -109,39 +128,6 @@
 </description>
     </item>
     <item>
-      <title>感觉找不到工作，做了五年的医疗业务，发现现在市面上很少有相关的业务需求公司，该如何寻找新出路，或者尝试新业务从零开始。</title>
-      <link>https://www.v2ex.com/t/1177180</link>
-      <guid>v2ex-1177180</guid>
-      <pubDate>Fri, 05 Dec 2025 09:01:49 GMT</pubDate>
-      <description>&lt;p&gt;医疗确实不好做，做了五年的医疗业务得到的结论就是&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;医院对技术不敏感，更多的是上面要求做所谓的科技赋能。&lt;/li&gt;
-&lt;li&gt;医院不愿意出钱，对接过部分医院，医院不把软件支付放入公司财务内，说白了就是医院更需要看到实体的内容，而不是软件这种虚无缥缈的东西。&lt;/li&gt;
-&lt;li&gt;医院比较难合作，只有那种刚开的医院相对来说好沟通，三甲医院对接十分麻烦，和医院信息科沟通更是得求着人家办事。&lt;/li&gt;
-&lt;li&gt;好的医院项目基本上轮不到普通公司做，基本上都给大的外包给承包了，比如东软一类的？&lt;/li&gt;
-&lt;li&gt;还有就是当前公司对软件完全不重视，把软件当做医院维保合同内的附属产品赠送出去（公司核心业务是提供医院设备的维保服务）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前我们做的医院几大核心业务大概如下&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;医院设备管理，医院设备生命周期记录，以及搭配公司维保服务做的一系列，运维报告输出之类的。&lt;/li&gt;
-&lt;li&gt;效益分析，针对医院的大型设备检查数据和医院内部的 his 数据做数据统计分析，展示医院的一个月、年份收入报告。&lt;/li&gt;
-&lt;li&gt;iot （这块我接触的少，其他同事做的），应该是对接硬件实现对环境的温湿度管理报警一类的。还有其他各种灰尘什么的？&lt;/li&gt;
-&lt;li&gt;共享租赁系统，这个应该是医院内部不同部门之间用来设备租赁记账用的一个东西。&lt;/li&gt;
-&lt;li&gt;不良事件上报对接
-等等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;发现写着写着成简历了快。目前公司新来了一个经理，想搞换血，把我们所有老员工给搞走，结合新人事，两人干了一堆的畜生行径。目前骑驴找马阶段。发现自己的业务经理在市场上好像没什么用处。目前接收到的大多数都是，金融相关的开发业务。可能是因为我早起有一年的银行外包的开发经历。但是除此之外没有什么工作可以找到了。
-今年已经 28 了，在考虑要么换行，要么换个业务方向重新做。虽然知道现在开发已死，而且我还是做的 java 。更是死的不能再死，但是还是想请教 v 友们，之后有什么好的方向嘛，不求发财，只求能吃上饭。之前还想着做游戏试试，但是又没有重头做游戏的勇气，游戏听说还是比较难做的。而且加班严重。不过目前也不纠结这个，如果游戏挣钱方向好，996 我也能够干。现在真的是没什么好出路了。换行感觉自己更是不知道该干什么。兢兢业业四五年，虽然不说优秀，但是工作从未偷懒，结局竟是这样。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>做技术基建感觉好没劲，价值感在哪？求过来人指点</title>
-      <link>https://www.v2ex.com/t/1177155</link>
-      <guid>v2ex-1177155</guid>
-      <pubDate>Fri, 05 Dec 2025 07:57:33 GMT</pubDate>
-      <description>最近职业上有点迷茫，求开导。我是做偏技术基建的，不直接碰业务开发。&lt;br /&gt;&lt;br /&gt;现在主要困惑就两点：&lt;br /&gt;&lt;br /&gt;1. 做的东西，觉得“价值不大”，驱动不起来。&lt;br /&gt;&lt;br /&gt;公司基建比较差，很多事可以做，比如统一 API 网关、推注册中心、完善监控日志。但一做之前我就纠结：业务团队用 Nginx 配配也能转发，服务之间记 IP 直连也不是不能跑。感觉都是“锦上添花”，而不是“雪中送炭”。反正现在也“够用”，我费老大劲去做，动力是啥呢？&lt;br /&gt;&lt;br /&gt;2. 就算做好了，价值怎么体现？特别是年终汇报。&lt;br /&gt;&lt;br /&gt;我吭哧吭哧搞了半年，把网关、链路追踪都搭起来了，还得推动业务方改。业务方可能觉得“挺好的，方便了”。但到了我述职的时候，灵魂拷问就来了：“你做的这些，给业务带来了什么具体价值？提升了多少效率？创造了多少收益？”  感觉完全没办法量化，也就没办法体现我的贡献。&lt;br /&gt;&lt;br /&gt;我以前也做业务开发，其实也有类似困惑：业务开发的价值，难道就是“按时完成需求”吗？好像也挺模糊的。&lt;br /&gt;&lt;br /&gt;有没有同样经历过这个阶段的朋友？特别是从业务开发转型做基建，或者长期做基建的大佬，你们是怎么找到价值支点的？怎么应对那种“这事儿没啥用”的内心纠结？又怎么在汇报时，把“体验提升”说成让人信服的“价值”？</description>
-    </item>
-    <item>
       <title>残念,我的蚊帐还要买吗?</title>
       <link>https://www.v2ex.com/t/1177260</link>
       <guid>v2ex-1177260</guid>
@@ -153,11 +139,68 @@
 </description>
     </item>
     <item>
+      <title>做技术基建感觉好没劲，价值感在哪？求过来人指点</title>
+      <link>https://www.v2ex.com/t/1177155</link>
+      <guid>v2ex-1177155</guid>
+      <pubDate>Fri, 05 Dec 2025 07:57:33 GMT</pubDate>
+      <description>最近职业上有点迷茫，求开导。我是做偏技术基建的，不直接碰业务开发。&lt;br /&gt;&lt;br /&gt;现在主要困惑就两点：&lt;br /&gt;&lt;br /&gt;1. 做的东西，觉得“价值不大”，驱动不起来。&lt;br /&gt;&lt;br /&gt;公司基建比较差，很多事可以做，比如统一 API 网关、推注册中心、完善监控日志。但一做之前我就纠结：业务团队用 Nginx 配配也能转发，服务之间记 IP 直连也不是不能跑。感觉都是“锦上添花”，而不是“雪中送炭”。反正现在也“够用”，我费老大劲去做，动力是啥呢？&lt;br /&gt;&lt;br /&gt;2. 就算做好了，价值怎么体现？特别是年终汇报。&lt;br /&gt;&lt;br /&gt;我吭哧吭哧搞了半年，把网关、链路追踪都搭起来了，还得推动业务方改。业务方可能觉得“挺好的，方便了”。但到了我述职的时候，灵魂拷问就来了：“你做的这些，给业务带来了什么具体价值？提升了多少效率？创造了多少收益？”  感觉完全没办法量化，也就没办法体现我的贡献。&lt;br /&gt;&lt;br /&gt;我以前也做业务开发，其实也有类似困惑：业务开发的价值，难道就是“按时完成需求”吗？好像也挺模糊的。&lt;br /&gt;&lt;br /&gt;有没有同样经历过这个阶段的朋友？特别是从业务开发转型做基建，或者长期做基建的大佬，你们是怎么找到价值支点的？怎么应对那种“这事儿没啥用”的内心纠结？又怎么在汇报时，把“体验提升”说成让人信服的“价值”？</description>
+    </item>
+    <item>
       <title>Chrome 更新之后貌似阻断了所有代理？</title>
       <link>https://www.v2ex.com/t/1177187</link>
       <guid>v2ex-1177187</guid>
       <pubDate>Fri, 05 Dec 2025 09:30:43 GMT</pubDate>
       <description>&lt;p&gt;今天推送的版本更新之后无论是 proxy switch 或者 clash 的代理统统失效，只要有代理操作哪怕访问内网页面都超时。整个办公室的电脑都出现这个情况，有没有朋友碰到这个故障的？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>足不出户，开通香港星展银行账户</title>
+      <link>https://www.v2ex.com/t/1177257</link>
+      <guid>v2ex-1177257</guid>
+      <pubDate>Sat, 06 Dec 2025 03:37:36 GMT</pubDate>
+      <description>&lt;p&gt;以前开通一张香港银行卡，需要肉身去一趟香港，现在出现了更简单的方式。零费用，可以开一个星展银行户头，历史经来看属于灰度放开，理论上随时可能收紧，推荐能开就赶紧开，花的时间不多，注册一个备用也很香。&lt;/p&gt;
+&lt;p&gt;下面是保姆级开通教程，半小时搞定。&lt;/p&gt;
+&lt;h2&gt;教程&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;第一步是&lt;a href=&quot;https://wise.com/invite/dic/shic270&quot; rel=&quot;nofollow&quot;&gt;注册 WISE&lt;/a&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;下载 APP 后，使用邮箱登录 → 点击创建个人账户 → 填写国家和个人信息 → 然后人脸识别之后就成功创建 WISE 账户了。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Wise （前称 TransferWise ）是一家英国金融科技公司，提供低成本、透明的国际汇款、多币种账户和借记卡服务，拥有 1500 多万客户，每月处理 90 亿英镑的国际汇款。作为一间全球性的汇款公司，Wise 已经在多个国家获得当局的认可和授权，例如英国金融行为监管局（ FCA ）、美国金融犯罪执法网络（ FinCEN ）、澳洲金融监理署（ APRA ）。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;可以使用邀请链接注册，能获得 4500 元的免费转账额度。不用链接没有此额度。&lt;a href=&quot;https://wise.com/invite/dic/shic270&quot; rel=&quot;nofollow&quot;&gt;wise.com&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;第二步是创建账户。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;成功后，在首页，点击添加货币。点击添加港币，然后点击验证账户详细信息。选择国家为中国大陆，文件类型一定要选择“身份证”。护照很多人经验说无法验证成功。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;第三步验证身份。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这一步就是拍摄身份证正反面，然后上传。注意⚠️填写税号，这里填写身份证号就可以。都填完之后等待邮件通知就可以了。工作日一般第二天就会收到开户成功的信息。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://macinorg-blog.oss-cn-chengdu.aliyuncs.com/blog/G7VAM-KawAAf4Nv.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;开出来的账户是香港星展银行的，DBS Bank ，如上图所示。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;星展银行（香港）有限公司是新加坡星展银行的附属公司，属于香港第七大注册银行，实力很强。DBS 是亞洲最大金融服务集团之一，星展香港佣有 24 家分行和超過 4,500 名员工。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;开通港卡户头的用处&lt;/h2&gt;
+&lt;p&gt;这个账户支持 FPS 转账，是免赴港开户最简方式。剩下赴港路费和酒店钱，趁没有门槛，赶快注册一个吧。&lt;/p&gt;
+&lt;p&gt;你问有什么用？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可以用作推特创作者激励的收款账号&lt;/li&gt;
+&lt;li&gt;可以作为海外券商的出入金账号&lt;/li&gt;
+&lt;li&gt;可以用 FPS ，与其它香港账户之间互转都是免手续费&lt;/li&gt;
+&lt;li&gt;可以收款 Google Ads 的广告费&lt;/li&gt;
+&lt;li&gt;可以用此账户验证开通港版的 Stripe ，实现全球收款&lt;/li&gt;
+&lt;li&gt;Wise 现在完美顶替 95%+港卡甚至欧美卡场景：ChatGPT Plus 、Claude Pro 、Midjourney 、Gemini Advanced 、GitHub Copilot 、Netflix 、YouTube Premium 、Spotify……亲测全都能秒过，成功率极高&lt;/li&gt;
+&lt;li&gt;海外平台收款（ Upwork/Fiverr/Stripe/Payoneer ）直接进 Wise 美元余额 &lt;/li&gt;
+&lt;li&gt;汇率永远用中间价 + 超低手续费（通常 0.4%-1%），比银行省 80-90% &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;不足的地方&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;大陆注册的 Wise 目前只有数字卡，暂时无法申请实体卡  &lt;/li&gt;
+&lt;li&gt;每年仍有国家外汇 5 万美元额度限制（合法收入结汇不受影响）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;历史经来看属于灰度放开，理论上随时可能收紧，推荐能开就赶紧开，花的时间不多，注册一个备用也很香。开通 WISE：&lt;a href=&quot;https://wise.com/invite/dic/shic270&quot; rel=&quot;nofollow&quot;&gt;WISE.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
