@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 06 Dec 2025 05:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 06:16:12 GMT</lastBuildDate>
     <item>
       <title>已婚人士请进，你们结婚女方陪嫁是什么?</title>
       <link>https://www.v2ex.com/t/1177131</link>
@@ -20,26 +20,6 @@
       <guid>v2ex-1177174</guid>
       <pubDate>Fri, 05 Dec 2025 08:57:15 GMT</pubDate>
       <description>Rust 的问题？</description>
-    </item>
-    <item>
-      <title>面试造核弹，入职拧螺丝 (2)</title>
-      <link>https://www.v2ex.com/t/1177112</link>
-      <guid>v2ex-1177112</guid>
-      <pubDate>Fri, 05 Dec 2025 05:57:00 GMT</pubDate>
-      <description>&lt;p&gt;继 &lt;a href=&quot;https://www.v2ex.com/t/1176071?p=1#reply62&quot; rel=&quot;nofollow&quot;&gt;面试造核弹，入职拧螺丝&lt;/a&gt; 之后，很不幸的再次被抽到，45 分钟 10 题，这次没公布有多少人顺利通过，估计大家都学聪明了。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;MySQL 表里只有 1 条数据，索引高度为几层？如果再加 1 条数据呢？什么时候变成 2 层？&lt;/li&gt;
-&lt;li&gt;Redis 的红锁是不是一定没问题？如果在多个节点下一定要稳定的分布式锁该怎么做？&lt;/li&gt;
-&lt;li&gt;在转账业务中，如果网络一直波动导致分支事务悬挂时，如何设计补偿机制？&lt;/li&gt;
-&lt;li&gt;在同城双活架构中，如何实现交易请求的无缝切换？当主中心故障时，如何保证事务最终一致性？&lt;/li&gt;
-&lt;li&gt;在反洗钱监控中，如何用 Drools 实现实时规则匹配？单日交易超百万笔时，如何优化规则引擎性能？&lt;/li&gt;
-&lt;li&gt;在账户历史数据归档中，如何实现 TB 级数据迁移？当迁移中断时，如何保证数据的完整性？&lt;/li&gt;
-&lt;li&gt;在网关中，如何设计防刷限流策略？当检测到恶意请求时，如何实现自动封禁？&lt;/li&gt;
-&lt;li&gt;如何用 K8s 实现有状态服务部署？当 pod 漂移时，如何保证数据不丢失？&lt;/li&gt;
-&lt;li&gt;在新服务上线时，如何用 Istio 实现用户级灰度发布？当发现问题时，如何快速回滚并减少影响？&lt;/li&gt;
-&lt;li&gt;在 AI 智能客服场景中，如何实现多轮对话的上下文管理？当用户问题模糊时，如何设计引导策略？&lt;/li&gt;
-&lt;/ol&gt;
-</description>
     </item>
     <item>
       <title>25 下半年软考成绩可以查了</title>
@@ -152,6 +132,32 @@
 &lt;/ul&gt;
 &lt;p&gt;发现写着写着成简历了快。目前公司新来了一个经理，想搞换血，把我们所有老员工给搞走，结合新人事，两人干了一堆的畜生行径。目前骑驴找马阶段。发现自己的业务经理在市场上好像没什么用处。目前接收到的大多数都是，金融相关的开发业务。可能是因为我早起有一年的银行外包的开发经历。但是除此之外没有什么工作可以找到了。
 今年已经 28 了，在考虑要么换行，要么换个业务方向重新做。虽然知道现在开发已死，而且我还是做的 java 。更是死的不能再死，但是还是想请教 v 友们，之后有什么好的方向嘛，不求发财，只求能吃上饭。之前还想着做游戏试试，但是又没有重头做游戏的勇气，游戏听说还是比较难做的。而且加班严重。不过目前也不纠结这个，如果游戏挣钱方向好，996 我也能够干。现在真的是没什么好出路了。换行感觉自己更是不知道该干什么。兢兢业业四五年，虽然不说优秀，但是工作从未偷懒，结局竟是这样。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>做技术基建感觉好没劲，价值感在哪？求过来人指点</title>
+      <link>https://www.v2ex.com/t/1177155</link>
+      <guid>v2ex-1177155</guid>
+      <pubDate>Fri, 05 Dec 2025 07:57:33 GMT</pubDate>
+      <description>最近职业上有点迷茫，求开导。我是做偏技术基建的，不直接碰业务开发。&lt;br /&gt;&lt;br /&gt;现在主要困惑就两点：&lt;br /&gt;&lt;br /&gt;1. 做的东西，觉得“价值不大”，驱动不起来。&lt;br /&gt;&lt;br /&gt;公司基建比较差，很多事可以做，比如统一 API 网关、推注册中心、完善监控日志。但一做之前我就纠结：业务团队用 Nginx 配配也能转发，服务之间记 IP 直连也不是不能跑。感觉都是“锦上添花”，而不是“雪中送炭”。反正现在也“够用”，我费老大劲去做，动力是啥呢？&lt;br /&gt;&lt;br /&gt;2. 就算做好了，价值怎么体现？特别是年终汇报。&lt;br /&gt;&lt;br /&gt;我吭哧吭哧搞了半年，把网关、链路追踪都搭起来了，还得推动业务方改。业务方可能觉得“挺好的，方便了”。但到了我述职的时候，灵魂拷问就来了：“你做的这些，给业务带来了什么具体价值？提升了多少效率？创造了多少收益？”  感觉完全没办法量化，也就没办法体现我的贡献。&lt;br /&gt;&lt;br /&gt;我以前也做业务开发，其实也有类似困惑：业务开发的价值，难道就是“按时完成需求”吗？好像也挺模糊的。&lt;br /&gt;&lt;br /&gt;有没有同样经历过这个阶段的朋友？特别是从业务开发转型做基建，或者长期做基建的大佬，你们是怎么找到价值支点的？怎么应对那种“这事儿没啥用”的内心纠结？又怎么在汇报时，把“体验提升”说成让人信服的“价值”？</description>
+    </item>
+    <item>
+      <title>残念,我的蚊帐还要买吗?</title>
+      <link>https://www.v2ex.com/t/1177260</link>
+      <guid>v2ex-1177260</guid>
+      <pubDate>Sat, 06 Dec 2025 04:00:16 GMT</pubDate>
+      <description>&lt;p&gt;我之前买了个蚊帐,但是是纱布的,不怎么保暖,今天早上嘴里有痰了,估计是受凉了.&lt;/p&gt;
+&lt;p&gt;所以我要买新的蚊帐吗?如果买新的,估计 400-500,觉得自己在浪费钱.&lt;/p&gt;
+&lt;p&gt;但是不买又心里不甘,真 TMD 不甘.心里想着连睡觉都不舒适,这活着还有什么意思?&lt;/p&gt;
+&lt;p&gt;我该怎么办?&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Chrome 更新之后貌似阻断了所有代理？</title>
+      <link>https://www.v2ex.com/t/1177187</link>
+      <guid>v2ex-1177187</guid>
+      <pubDate>Fri, 05 Dec 2025 09:30:43 GMT</pubDate>
+      <description>&lt;p&gt;今天推送的版本更新之后无论是 proxy switch 或者 clash 的代理统统失效，只要有代理操作哪怕访问内网页面都超时。整个办公室的电脑都出现这个情况，有没有朋友碰到这个故障的？&lt;/p&gt;
 </description>
     </item>
   </channel>
