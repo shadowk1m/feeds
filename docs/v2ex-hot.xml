@@ -4,15 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 06 Dec 2025 00:52:16 GMT</lastBuildDate>
-    <item>
-      <title>网易云会员免费领</title>
-      <link>https://www.v2ex.com/t/1177053</link>
-      <guid>v2ex-1177053</guid>
-      <pubDate>Fri, 05 Dec 2025 02:12:32 GMT</pubDate>
-      <description>&lt;p&gt;1http:/$jIjaQz218b247a$ [復淛整段文案并咑閞「网易云音乐」，领免费会员]  黑胶邀请官 空***忆 送你网易云音乐 12 月黑胶会员卡，领取享 20+会员权益。&lt;a href=&quot;https://163cn.tv/WjHDRmQ&quot; rel=&quot;nofollow&quot;&gt;https://163cn.tv/WjHDRmQ&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 06 Dec 2025 02:24:21 GMT</lastBuildDate>
     <item>
       <title>已婚人士请进，你们结婚女方陪嫁是什么?</title>
       <link>https://www.v2ex.com/t/1177131</link>
@@ -34,15 +26,6 @@
 </description>
     </item>
     <item>
-      <title>饿了么正式更名为淘宝闪购</title>
-      <link>https://www.v2ex.com/t/1177044</link>
-      <guid>v2ex-1177044</guid>
-      <pubDate>Fri, 05 Dec 2025 01:54:38 GMT</pubDate>
-      <description>&lt;p&gt;一代枭雄落幕，想起大学那会天天 1 块钱吃外卖，饿了么、美团轮着点&lt;/p&gt;
-&lt;p&gt;12 月 5 日，淘宝闪购发布消息，即日起，“饿了么”App 在更新至最新版本后将全面焕新为“淘宝闪购”。与此同时，原涉及“饿了么”品牌表达的各个场景，近期也将陆续完成向“淘宝闪购”的升级。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Cloudflare 貌似又挂了</title>
       <link>https://www.v2ex.com/t/1177174</link>
       <guid>v2ex-1177174</guid>
@@ -50,33 +33,78 @@
       <description>Rust 的问题？</description>
     </item>
     <item>
-      <title>我有个想法, 就是现在应该发明一种专用于大模型生成的语言</title>
-      <link>https://www.v2ex.com/t/1177032</link>
-      <guid>v2ex-1177032</guid>
-      <pubDate>Fri, 05 Dec 2025 01:21:37 GMT</pubDate>
-      <description>&lt;p&gt;现有的所谓 AI 辅助开发, 都是利用现有的语言&lt;/p&gt;
-&lt;p&gt;现有的语言, 当然目标都是让人类去编写的&lt;/p&gt;
-&lt;p&gt;但现在前提不一样了&lt;/p&gt;
-&lt;p&gt;所以我认为应该有一种新得语言, 满足以下目标&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;主要用于大模型理解, 输入, 输出&lt;/li&gt;
-&lt;li&gt;语言必须简单, 易懂, 关键字, 特性尽量少, 或标准化, 简单来说就是,
-为了满足一个简单需求应该只有一种写法, 比如 go 只有 for 循环&lt;/li&gt;
-&lt;li&gt;语言必须是编译的, 强类型的, 因为由于大模型 ai 工具的原因, 可编译性语言可以大大提高模型生成正确率, 因为模型可以自己不断编译改错直到编译成功&lt;/li&gt;
-&lt;li&gt;语言可以比较繁琐, 但必须易读易懂 (rust 就不合格)&lt;/li&gt;
-&lt;li&gt;语言语法必须尽量兼容当前流行的语言或一些约定俗成的语法, 不发明新语法(rust 是反例)&lt;/li&gt;
-&lt;li&gt;语言的设计包括文档标准格式等, 简单说就是文档就是给模型的 prompt, 是有标准格式的, 其实就是设计文档&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我判断应该很快就有大厂做这事, 隐约感觉 go 还蛮合适的, 当然肯定要经过改造&lt;/p&gt;
-&lt;p&gt;这样以后包括文档, prompt 等等都能标准化, 大模型输入输出更精准, 因为只需要考虑一种标准化语言&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>mac 上有有没有推荐的无线键盘，连接响应速度比较快的？</title>
       <link>https://www.v2ex.com/t/1177103</link>
       <guid>v2ex-1177103</guid>
       <pubDate>Fri, 05 Dec 2025 05:06:34 GMT</pubDate>
       <description>现在用的 keychron 的键盘，用的蓝牙连接，过十几分钟不用就会断开连接，休眠状态连接上电脑要好几秒钟的时间。有没有第三方键盘连接速度快的推荐一下</description>
+    </item>
+    <item>
+      <title>面试造核弹，入职拧螺丝 (2)</title>
+      <link>https://www.v2ex.com/t/1177112</link>
+      <guid>v2ex-1177112</guid>
+      <pubDate>Fri, 05 Dec 2025 05:57:00 GMT</pubDate>
+      <description>&lt;p&gt;继 &lt;a href=&quot;https://www.v2ex.com/t/1176071?p=1#reply62&quot; rel=&quot;nofollow&quot;&gt;面试造核弹，入职拧螺丝&lt;/a&gt; 之后，很不幸的再次被抽到，45 分钟 10 题，这次没公布有多少人顺利通过，估计大家都学聪明了。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;MySQL 表里只有 1 条数据，索引高度为几层？如果再加 1 条数据呢？什么时候变成 2 层？&lt;/li&gt;
+&lt;li&gt;Redis 的红锁是不是一定没问题？如果在多个节点下一定要稳定的分布式锁该怎么做？&lt;/li&gt;
+&lt;li&gt;在转账业务中，如果网络一直波动导致分支事务悬挂时，如何设计补偿机制？&lt;/li&gt;
+&lt;li&gt;在同城双活架构中，如何实现交易请求的无缝切换？当主中心故障时，如何保证事务最终一致性？&lt;/li&gt;
+&lt;li&gt;在反洗钱监控中，如何用 Drools 实现实时规则匹配？单日交易超百万笔时，如何优化规则引擎性能？&lt;/li&gt;
+&lt;li&gt;在账户历史数据归档中，如何实现 TB 级数据迁移？当迁移中断时，如何保证数据的完整性？&lt;/li&gt;
+&lt;li&gt;在网关中，如何设计防刷限流策略？当检测到恶意请求时，如何实现自动封禁？&lt;/li&gt;
+&lt;li&gt;如何用 K8s 实现有状态服务部署？当 pod 漂移时，如何保证数据不丢失？&lt;/li&gt;
+&lt;li&gt;在新服务上线时，如何用 Istio 实现用户级灰度发布？当发现问题时，如何快速回滚并减少影响？&lt;/li&gt;
+&lt;li&gt;在 AI 智能客服场景中，如何实现多轮对话的上下文管理？当用户问题模糊时，如何设计引导策略？&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>25 下半年软考成绩可以查了</title>
+      <link>https://www.v2ex.com/t/1177147</link>
+      <guid>v2ex-1177147</guid>
+      <pubDate>Fri, 05 Dec 2025 07:33:03 GMT</pubDate>
+      <description>&lt;p&gt;考的软设,预估下午题肯定不过的,打开 47 分飘过,不知道是不是今年题目难一点普遍多给了一些?
+&lt;a href=&quot;https://www.ruankao.org.cn/&quot; rel=&quot;nofollow&quot;&gt;https://www.ruankao.org.cn/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>船长的副业日记</title>
+      <link>https://www.v2ex.com/t/1177152</link>
+      <guid>v2ex-1177152</guid>
+      <pubDate>Fri, 05 Dec 2025 07:50:11 GMT</pubDate>
+      <description>&lt;p&gt;这里理下自己的一些副业想法
+可能会有点胡言乱语，想哪写哪，先开始再说，干就完了，不想那么多了&lt;/p&gt;
+&lt;p&gt;公众号没啥反馈 YWhhY3owMDE=，个位阅读，发 v2 看看，之前经常潜水，没怎么发过文章，最近心境有些变化，开始尝试&lt;/p&gt;
+&lt;h2&gt;目的&lt;/h2&gt;
+&lt;p&gt;有些事拖太久没做了，想借助对外输出开始&lt;br/&gt;
+输入太多了，没有输出，没有对外交流，闭门造车&lt;br/&gt;
+另外也发现了，闭门造车，个人批量，难以放大，我的收入上限基本就是那些了，寻求些突破，找些志同道合的朋友，指点下，防止走偏。  &lt;/p&gt;
+&lt;h2&gt;基本情况&lt;/h2&gt;
+&lt;p&gt;现在的副业收入来源（不耽误正常上班情况下、上班摸鱼时）&lt;br/&gt;
+总结下：基本现在稳定每天 20~50 ，土鸡瓦狗，不值一提，但是第一个计划：每月额外收入 1000 元是基本完成了，下个目标是 3000 ，为期半年，截止日 2026-05-01 前.  &lt;/p&gt;
+&lt;h2&gt;详情&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;抖快等金币软件阅读领金币，脚本全自动跑，hid 模式，不开无障碍开发者，就初始化时费点劲，后面基本不用管，一周一两小时就可以管理 5-10 台手机了，单月整的好的情况（ ip 干净，号不黑）单机 150 左右，目前就 5 台，受限于 wifi ，租的房不给扯宽带，现在在折腾软路由，小白，刚 pdd 下单了个爱快软路由，300 元，据说可发 50 个独立 wifi ，ip 需单独购买，大概 每个 ip 20 一个月吧&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LOF 基金套利，目前好多都限购，一天 5-10 元，本金 2000&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;电商平台撸点货，有人收，能正常发货的话，一单利润几十上百，目前做了一个月了，没怎么整，利润大概 800&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;某享集软件看广告，一天 5-10 吧，15 个广告左右，不过号权重越来越低，目前想到的办法是自己写些脚本养养，或者借助小米的手机做个初代机，后面发现收益低了直接双清，然后一键移机过去，重新开始，不知道可不可行，还没时间尝试&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;二手机回收项目，这个还没开始，准备作为后面的方向之一（随心二手机招学员，要收学费，4k 多吧，没去做，钱倒是没那么肉痛，主要是时间现在不够用，好多事情都没搞好，精力不够，怕多头抓，哪头都搞不好）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;下一节点计划&lt;/h2&gt;
+&lt;p&gt;后面可能会在评论区每天整理下收益，难点以及解决方案，输出倒逼输入吧&lt;/p&gt;
+&lt;p&gt;下一个计划是 v2 与公众号保持每天更新，为期 2 周，总达成率 80%以上，大概就是发 10 篇吧，截止至 2025-12-19&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
