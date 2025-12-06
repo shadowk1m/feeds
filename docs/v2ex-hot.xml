@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 06 Dec 2025 09:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 09:36:44 GMT</lastBuildDate>
     <item>
       <title>残念,我的蚊帐还要买吗?</title>
       <link>https://www.v2ex.com/t/1177260</link>
@@ -67,14 +67,6 @@
 </description>
     </item>
     <item>
-      <title>Chrome 更新之后貌似阻断了所有代理？</title>
-      <link>https://www.v2ex.com/t/1177187</link>
-      <guid>v2ex-1177187</guid>
-      <pubDate>Fri, 05 Dec 2025 09:30:43 GMT</pubDate>
-      <description>&lt;p&gt;今天推送的版本更新之后无论是 proxy switch 或者 clash 的代理统统失效，只要有代理操作哪怕访问内网页面都超时。整个办公室的电脑都出现这个情况，有没有朋友碰到这个故障的？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>一种平凡的生活</title>
       <link>https://www.v2ex.com/t/1177236</link>
       <guid>v2ex-1177236</guid>
@@ -124,6 +116,15 @@
       <description>最近想着在自己的老古董 nas 上部署一些有意思的项目，比如知识库，数据库 BaaS 之类的服务。目前手上这台老古董群晖 ds220+ 一跑就爆 cpu...&lt;br /&gt;&lt;br /&gt;没办法，只能想着能不能找一些 cpu 高一点的 nas ，逛了一圈整机 nas ，看到不少 cpu 性能高一些的比如 n355 ，最终在 B 站看到了铭凡 n5 ，cpu 是 amd 锐龙 7 255 。比其他的整机 nas 性能都强，瞬间眼睛挪不开了。价格当时也美丽，只要 3500 左右，给媳妇说要买这个，拿来学习用的，她说等发工资再买。&lt;br /&gt;&lt;br /&gt;结果过几天她跟我说涨价了，涨到了 4400 。说太贵了先不买了，我的心情瞬间跌山谷，本来想买台 cpu 性能强点的，来跑一些服务玩玩 ai ，学习一下 agent 的玩法提升一下技术，结果现在止步不前了。&lt;br /&gt;&lt;br /&gt;兄弟们，还有什么其他性能相当的 nas 推荐一下</description>
     </item>
     <item>
+      <title>工人因为不能加班，吵起来的， V2EX 的各位估计没见过吧。</title>
+      <link>https://www.v2ex.com/t/1177279</link>
+      <guid>v2ex-1177279</guid>
+      <pubDate>Sat, 06 Dec 2025 07:56:50 GMT</pubDate>
+      <description>&lt;p&gt;我们厂，我见过挺多的，因为不给她们加班，她们吵到老板那里。&lt;/p&gt;
+&lt;p&gt;单休，一天 9.5 小时她们还不够，还要求让她们加班。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>做了个返利小程序，网购能省不少钱，欢迎体验</title>
       <link>https://www.v2ex.com/t/1177223</link>
       <guid>v2ex-1177223</guid>
@@ -131,12 +132,35 @@
       <description>程序员一枚，之前做过电商开发，现在在做嵌入式开发，对淘宝联盟京东联盟比较熟。&lt;br /&gt;&lt;br /&gt;自己平时网购多，就顺手做了个返利小程序，功能：&lt;br /&gt;* 淘宝/京东商品可以查隐藏券&lt;br /&gt;* 下单后有返利，直接提现&lt;br /&gt;&lt;br /&gt;自己用了一段时间，一个月能省几十块。返利比例设置得比较高，因为目前不靠这个赚钱，就是想多拉点人先用起来。&lt;br /&gt;&lt;br /&gt;目前用户很少（只有十几个），想让更多人试试，欢迎 V 友体验反馈。&lt;br /&gt;&lt;br /&gt;感兴趣可以私信我或者评论区留言。</description>
     </item>
     <item>
-      <title>工人因为不能加班，吵起来的， V2EX 的各位估计没见过吧。</title>
-      <link>https://www.v2ex.com/t/1177279</link>
-      <guid>v2ex-1177279</guid>
-      <pubDate>Sat, 06 Dec 2025 07:56:50 GMT</pubDate>
-      <description>&lt;p&gt;我们厂，我见过挺多的，因为不给她们加班，她们吵到老板那里。&lt;/p&gt;
-&lt;p&gt;单休，一天 9.5 小时她们还不够，还要求让她们加班。&lt;/p&gt;
+      <title>终身会员分享 RouteX，轨迹记录与追光</title>
+      <link>https://www.v2ex.com/t/1177214</link>
+      <guid>v2ex-1177214</guid>
+      <pubDate>Fri, 05 Dec 2025 12:56:56 GMT</pubDate>
+      <description>&lt;p&gt;RouteX 是一款为摄影师、户外爱好者、轨迹爱好者量身打造的「追光」以及「轨迹记录回忆」助手。&lt;/p&gt;
+&lt;p&gt;在这里，你可以精准掌握太阳日出日落、黄金蓝调时刻，以灵动岛、本地通知即时提醒，把握每一次光影变化，小组件倒计时显示太阳信息。&lt;/p&gt;
+&lt;p&gt;指南针与位置实时数据、实时气压、含氧量、海拔以及三种地图模式方便切换，随时校准方向、记录轨迹，美好值得记录与回忆。&lt;/p&gt;
+&lt;p&gt;不同尺寸小组件展示追光时刻、轨迹点、城市点，即使不打开 App 也能掌握关键数据信息。&lt;/p&gt;
+&lt;p&gt;支持手动添加位置信息、添加当时心情以及图片，每次记录都回忆满满。&lt;/p&gt;
+&lt;p&gt;每日激励提醒、周回顾、月回顾，极简设计，小巧无广告只有 5MB ，各种个性化设置。&lt;/p&gt;
+&lt;p&gt;陪你一起追光、轨迹回忆、户外与分享。&lt;/p&gt;
+&lt;p&gt;RouteX 参加 producthunt 发布，如果你方便可以点个支持，感谢！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.producthunt.com/products/routex&quot; rel=&quot;nofollow&quot;&gt;https://www.producthunt.com/products/routex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;App Store
+&lt;a href=&quot;https://apps.apple.com/app/id6753095851&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/id6753095851&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;终身会员：如果觉得不错，帮忙给个评分+好评，感谢！&lt;/p&gt;
+&lt;p&gt;WTRWR3XFNJW4EY4E4Y&lt;/p&gt;
+&lt;p&gt;YWWLRWYWKMHA37T4LM&lt;/p&gt;
+&lt;p&gt;YERK76JT6K3KYEPN7P&lt;/p&gt;
+&lt;p&gt;6WJARYLJLYFKH8RJLP&lt;/p&gt;
+&lt;p&gt;YHX6TN8KE87JFTTWF3&lt;/p&gt;
+&lt;p&gt;4N7Y6K7XNAEWP68ETR&lt;/p&gt;
+&lt;p&gt;HNX6A7PEPK78LHHM6P&lt;/p&gt;
+&lt;p&gt;8EL6TNJE6J8WA3HK6X&lt;/p&gt;
+&lt;p&gt;A4Y6XLJRE6WPRKT8HT&lt;/p&gt;
+&lt;p&gt;6JWF7EPYXJAR6T63TL&lt;/p&gt;
+&lt;p&gt;8K38J3L8FF8T8A4RTN&lt;/p&gt;
+&lt;p&gt;7WTM4FKXWRXYRYW77W&lt;/p&gt;
+&lt;p&gt;KLLEF8KELKFPME86XT&lt;/p&gt;
 </description>
     </item>
   </channel>
