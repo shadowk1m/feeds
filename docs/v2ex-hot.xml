@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 07 Dec 2025 13:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 13:40:04 GMT</lastBuildDate>
     <item>
       <title>WISE 注册注意事项</title>
       <link>https://www.v2ex.com/t/1177324</link>
@@ -76,6 +76,13 @@
 </description>
     </item>
     <item>
+      <title>家庭网络布局采用单线复用还是弱电箱路由器更合适呢？</title>
+      <link>https://www.v2ex.com/t/1177361</link>
+      <guid>v2ex-1177361</guid>
+      <pubDate>Sun, 07 Dec 2025 06:55:55 GMT</pubDate>
+      <description>家里宽带升级到千兆了，得给用了快 10 年的网络设备做升级，有几个问题想咨询一下大家。&lt;br /&gt;&lt;br /&gt;家里的网络布局是入户弱电箱单根 5E 网线通向卧室和客厅（ 2 个房间，1 个客厅），客厅没有预留回程线，网线端到端最长 20 米左右，最短可能 10 米。&lt;br /&gt;&lt;br /&gt;这几天参考了别人的一些经验，大概有下面三种方案可以供选择，但是对于这三种方案的优缺点还是有些模糊。&lt;br /&gt;&lt;br /&gt;方案 1：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和网管交换机，客厅放网管交换机和主路由，其余房间放同品牌路由器组有线 mesh ，客厅与弱电箱的单根网线做 5E 回程；&lt;br /&gt;&lt;br /&gt;方案 2：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和网管交换机，客厅放带 VLAN 的主路由，其余房间放同品牌路由器组有线 mesh ，客厅与弱电箱的单根网线做 5E 回程；&lt;br /&gt;&lt;br /&gt;方案 3：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和没有无线的路由器（参考最近中兴新出的星云 MAX ），客厅和其余房间放同品牌路由器组有线 mesh ；&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;1. 方案 2 中使用带 VLAN 的主路由会比方案 1 有劣势吗（性能和稳定性方面）？&lt;br /&gt;2. 网管交换机目前看的有水星和 netgeat gs108e ，是否还有别的推荐？因为拓扑确定，所以只需要 5 口就行，不需要用到 8 口，但是可以考虑使用 2.5G ，缓解单线复用在 trunk 上带宽争用问题；&lt;br /&gt;3. 方案 3 相比与方案 2 会更有优势吗？&lt;br /&gt;4. 在产品都可以考虑二手价格的情况下。如果我希望按照 网络稳定性&amp;gt;网速体验&amp;gt;整套方案成本&amp;gt;配置复杂度 做考虑，大家更推荐哪种呢？要是有具体设备型号推荐就更好了，我看很多帖子推荐的其实都是老设备，也不知道这个时间节点做网络布局是继续选用老设备还是考虑更新的产品？</description>
+    </item>
+    <item>
       <title>轻量级 macOS Clash 菜单栏客户端</title>
       <link>https://www.v2ex.com/t/1177328</link>
       <guid>v2ex-1177328</guid>
@@ -83,13 +90,6 @@
       <description>&lt;p&gt;&lt;a href=&quot;https://github.com/666OS/ClashMac&quot; rel=&quot;nofollow&quot;&gt;https://github.com/666OS/ClashMac&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;ClashMac&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/FdPPFtJ.png&quot; title=&quot;ClashMac&quot;/&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>家庭网络布局采用单线复用还是弱电箱路由器更合适呢？</title>
-      <link>https://www.v2ex.com/t/1177361</link>
-      <guid>v2ex-1177361</guid>
-      <pubDate>Sun, 07 Dec 2025 06:55:55 GMT</pubDate>
-      <description>家里宽带升级到千兆了，得给用了快 10 年的网络设备做升级，有几个问题想咨询一下大家。&lt;br /&gt;&lt;br /&gt;家里的网络布局是入户弱电箱单根 5E 网线通向卧室和客厅（ 2 个房间，1 个客厅），客厅没有预留回程线，网线端到端最长 20 米左右，最短可能 10 米。&lt;br /&gt;&lt;br /&gt;这几天参考了别人的一些经验，大概有下面三种方案可以供选择，但是对于这三种方案的优缺点还是有些模糊。&lt;br /&gt;&lt;br /&gt;方案 1：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和网管交换机，客厅放网管交换机和主路由，其余房间放同品牌路由器组有线 mesh ，客厅与弱电箱的单根网线做 5E 回程；&lt;br /&gt;&lt;br /&gt;方案 2：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和网管交换机，客厅放带 VLAN 的主路由，其余房间放同品牌路由器组有线 mesh ，客厅与弱电箱的单根网线做 5E 回程；&lt;br /&gt;&lt;br /&gt;方案 3：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和没有无线的路由器（参考最近中兴新出的星云 MAX ），客厅和其余房间放同品牌路由器组有线 mesh ；&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;1. 方案 2 中使用带 VLAN 的主路由会比方案 1 有劣势吗（性能和稳定性方面）？&lt;br /&gt;2. 网管交换机目前看的有水星和 netgeat gs108e ，是否还有别的推荐？因为拓扑确定，所以只需要 5 口就行，不需要用到 8 口，但是可以考虑使用 2.5G ，缓解单线复用在 trunk 上带宽争用问题；&lt;br /&gt;3. 方案 3 相比与方案 2 会更有优势吗？&lt;br /&gt;4. 在产品都可以考虑二手价格的情况下。如果我希望按照 网络稳定性&amp;gt;网速体验&amp;gt;整套方案成本&amp;gt;配置复杂度 做考虑，大家更推荐哪种呢？要是有具体设备型号推荐就更好了，我看很多帖子推荐的其实都是老设备，也不知道这个时间节点做网络布局是继续选用老设备还是考虑更新的产品？</description>
     </item>
     <item>
       <title>我现在内耗的严重，大家是不是刚毕业时都这样呢？</title>
