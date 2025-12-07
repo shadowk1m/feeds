@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 07 Dec 2025 08:41:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 09:11:00 GMT</lastBuildDate>
     <item>
       <title>外包转正？让我给遇到了</title>
       <link>https://www.v2ex.com/t/1177290</link>
@@ -55,45 +55,6 @@
 </description>
     </item>
     <item>
-      <title>为 Arch 推广做了一点微小的事情</title>
-      <link>https://www.v2ex.com/t/1177286</link>
-      <guid>v2ex-1177286</guid>
-      <pubDate>Sat, 06 Dec 2025 08:59:20 GMT</pubDate>
-      <description>&lt;p&gt;今年给某大学代一学期 Linux 基础入门课,期末考试要求独立安装一次 arch ，推荐官方文档，欢迎任何方式使用搜索引擎&lt;/p&gt;
-&lt;p&gt;将近 200 个同学，这立马就注入了 200 个新鲜的血液&lt;/p&gt;
-&lt;p&gt;使用 virtualbox 创建虚拟机 安装 archlinux&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-安装系统   40 分&lt;blockquote&gt;
-&lt;p&gt;分区使用 BIOS with MBR
-不创建 Swap&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;设置 hostname 为学号   5 分&lt;/li&gt;
-&lt;li&gt;设置时区为 Asia/Shanghai 5 分&lt;/li&gt;
-&lt;li&gt;创建普通用户，加入到 wheel 组，并安装 sudo   5 分&lt;/li&gt;
-&lt;li&gt;将普通用户的 shell 切换为 zsh 5 分&lt;/li&gt;
-&lt;li&gt;安装图形界面 lxde/xfce4/gnome/kde 并开机启动 5 分&lt;/li&gt;
-&lt;li&gt;安装浏览器 firefox/chromium 5 分&lt;/li&gt;
-&lt;li&gt;设置图形界面为中文并正常显示 5 分&lt;/li&gt;
-&lt;li&gt;安装输入法并开机启动正常输入 fcitx5 fcitx5-chinese 5 分&lt;/li&gt;
-&lt;li&gt;安装 nginx 并开机启动，端口设置为 8080 5 分&lt;/li&gt;
-&lt;li&gt;安装 sshd 并开机启动，端口设置为 2222 5 分&lt;/li&gt;
-&lt;li&gt;
-写一个脚本，/usr/local/bin/system_info 10 分&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;输出当前用户名&lt;/li&gt;
-&lt;li&gt;输出当前 shell&lt;/li&gt;
-&lt;li&gt;输出当前内存使用率&lt;/li&gt;
-&lt;li&gt;输出当前磁盘使用率&lt;/li&gt;
-&lt;li&gt;脚本必须可以直接被调用（在命令行直接输入 system_info 就能出结果）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    <item>
       <title>戒烟两年，我算是活明白了</title>
       <link>https://www.v2ex.com/t/1177349</link>
       <guid>v2ex-1177349</guid>
@@ -137,11 +98,56 @@
 </description>
     </item>
     <item>
-      <title>毕业选城市了，可以聊聊对上海的感受吗？</title>
-      <link>https://www.v2ex.com/t/1177342</link>
-      <guid>v2ex-1177342</guid>
-      <pubDate>Sun, 07 Dec 2025 04:47:36 GMT</pubDate>
-      <description>交待背景：&lt;br /&gt;&lt;br /&gt;小弟一月份要博士毕业了，专业是 CS 非热门分支，目前 offer 集中在京（海淀）沪（浦东）两城，待遇方面没有明显的差别，上学这些年一直在北京。&lt;br /&gt;&lt;br /&gt;具体问题：&lt;br /&gt;1. 在北京虽然有诸多好处（朋友、行业人脉、应届拿户口的机会等），但是有一点待腻了，希望能多体会体会不同的生活环境、趁年轻多看看世界；&lt;br /&gt;2. 上周抽空去上海溜了一下，感受到了如下优点：&lt;br /&gt;   （ 1 ）虽然说这段时间上海污染很严重，但是湿润的空气还是暂时治好了在北京每到冬天就犯的鼻炎；&lt;br /&gt;   （ 2 ）江景和老城区非常漂亮，带来显著的精神愉悦感（可能有作为游客的因素？）；&lt;br /&gt;   （ 3 ）房租相对便宜、通勤相对友好；&lt;br /&gt;   （ 4 ）新能源可以直接上牌，买车更自由；&lt;br /&gt;3. 看到的这些优点让我觉得挺心动的，但毕竟只是短期感受，不太适合作为人生重大抉择的依据，所以想咨询一下 v 友们，有什么优点是我还没发现的，有什么重要的缺点是我还没意识到的，谢谢！</description>
+      <title>太抽象了，终于是快散了!</title>
+      <link>https://www.v2ex.com/t/1177291</link>
+      <guid>v2ex-1177291</guid>
+      <pubDate>Sat, 06 Dec 2025 09:33:06 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/1165598&quot; rel=&quot;nofollow&quot;&gt;开始作妖前贴&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;继上次转正作妖后，后来的恶心事越来越多，没见过这么抽象的！&lt;/p&gt;
+&lt;p&gt;不加班故意延迟发放薪资，首先在大群通知一遍，把矛头转向我们&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;群通知图片&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/Breeze1203/Breeze1203.github.io/main/source/images/IMG_20251206_153513.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;三天过后，其他人薪资偷偷发放，我们四人依旧延迟发放（两个后端，一个产品，一个前端）&lt;/p&gt;
+&lt;p&gt;我们不加班，到点就走，老板直接打电话给我后端同事父母（至于为啥会有联系方式，同事家庭条件也不错，家里也有产业，搞计算机纯属爱好），说我后端同事不听话，不加班，同事母亲打电话给我同事，到这里彻底爆发，直接提离职（前后端同事一起走），同时以劳动法为由，@老板，老板怂了，赶着拖欠薪资后的第 14 天后发放。最后他来一句，延迟发放工资目的不是让你们离职，望知悉！同时截图发给前端同事，这锅甩的好。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;离职艾特图片&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/Breeze1203/Breeze1203.github.io/main/source/images/IMG_20251206_160540.jpg&quot;/&gt;
+后端同事最后一句望知悉，也是阴阳老板&lt;/p&gt;
+&lt;p&gt;到这里也好笑，同事脾气不好，提完离职那段时间呢，也不敢来我们工位转悠，同事周四离职的，昨天跟今天已经来我工位旁边转无数次了，问我在干嘛&lt;/p&gt;
+&lt;p&gt;产品被扣 40%绩效：产品是老板直属管辖，也准备跑路了，其实要不是产品有经济负担不可能这么久&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;产品准备跑路&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/Breeze1203/Breeze1203.github.io/main/source/images/IMG_20251206_162536.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;老板也是玻璃心，产品不回他信息，直接发个朋友圈
+&lt;img alt=&quot;玻璃心&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/Breeze1203/Breeze1203.github.io/main/source/images/IMG_20251206_163030.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;外包风波：三万找了一个外包团队，需要做的是公司的的一个小程序，类似商城，支付什么的要求全面完成，外包也是套了一个开源项目，做的半成品，究其原因，钱太少，问他们这个功能咋没完成，那个功能咋没完成，外包团队说直接二期在做，外包好像还是老板熟人&lt;/p&gt;
+&lt;p&gt;招人：天天压力人事，让他赶紧招人，其实招人这个事，不是她全全负责，是由她老大，但是她老大又不管，拿着一万二的人事经理底薪，不干事（老板也把他无可奈何），就只做销售，因为销售有提成。据了解，人事去厕所哭了几次，最终人事提离职，这老板还以几百块钱的薪资说事（不给加薪就离职巴拉巴拉的），她下周就交接完了，终于脱离苦海了&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;人事离职&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/Breeze1203/Breeze1203.github.io/main/source/images/IMG_20251206_170318.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;新人入职：最新就重新招了一个七年开发、10 年测试（试用期才 10K ，转正 14k ，专门挑便宜的），看水平应该不太行，nginx 都不会配置，据说是主管内推，反正他们两个经常用客家话沟通，我也不了解&lt;/p&gt;
+&lt;p&gt;回顾这几个月：入职了这么多人，走了这么多人，这老板就是纯恶心人，今天还特意让人事（刚入职没多久，也是把前人事恶心走之后重新入职的）过来把空调关了，说这季节不让开。这个迟早黄，拉进来的全是亲戚，熟人什么的，搞的我现在如坐针毡，本身是由同事招进来的，现在都走光了，我一个人也无所事事了，现在也不管我了，害，有锅就甩给我，也不知道能坚持多久，怎么办呢
+&lt;img alt=&quot;人事离职&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/Breeze1203/Breeze1203.github.io/main/source/images/IMG_20251206_172214.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;对了，我想不明白，客户来拜访，就请别人吃肠粉，人事给他们吃猪脚饭，还被叼，笑死我了&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;猪脚饭&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/Breeze1203/Breeze1203.github.io/main/source/images/IMG_20251206_170147.jpg&quot;/&gt;
+&lt;img alt=&quot;猪脚饭&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/Breeze1203/Breeze1203.github.io/main/source/images/IMG_20251206_170100.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;最后附上一份&lt;a href=&quot;https://breeze1203.github.io/about/&quot; rel=&quot;nofollow&quot;&gt;简历&lt;/a&gt;，估计也快要搞我了，他们直接客家话沟通，信息闭塞，唉，随缘吧&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Stripe 激活要求网站域名要和企业名字一致是什么意思？</title>
+      <link>https://www.v2ex.com/t/1177327</link>
+      <guid>v2ex-1177327</guid>
+      <pubDate>Sun, 07 Dec 2025 01:47:04 GMT</pubDate>
+      <description>&lt;p&gt;注册了英国企业，但是企业名称和域名完全不一致呀，Stripe 激活要求公司网站：『与您向 Stripe 提供的企业名称一致』，这怎么搞？&lt;/p&gt;
+&lt;p&gt;还是说网站的标题添加上企业名称吗？懂得朋友告知一下🙏&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.pixpark.net/202512070943941.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>成都租房好难啊，求支招哇！</title>
+      <link>https://www.v2ex.com/t/1177339</link>
+      <guid>v2ex-1177339</guid>
+      <pubDate>Sun, 07 Dec 2025 04:17:22 GMT</pubDate>
+      <description>&lt;p&gt;先在贝壳上看了一圈意向房源 中介费要一个月 然后就是 省心租 的套路 没发现的合适的房源&lt;/p&gt;
+&lt;p&gt;然后又到各大平台上去 发帖求租 全是 贝壳 链家 的中介 - 又回到了贝壳这个平台&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;中介费一个月就算了 关键是中介的作用不大 费用一分不少 也挺无语&lt;/p&gt;
+&lt;p&gt;有没有经验佬支支招&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
