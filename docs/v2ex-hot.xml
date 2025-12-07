@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 07 Dec 2025 17:35:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 18:14:54 GMT</lastBuildDate>
     <item>
       <title>WISE 注册注意事项</title>
       <link>https://www.v2ex.com/t/1177324</link>
@@ -31,6 +31,20 @@
 </description>
     </item>
     <item>
+      <title>家庭网络布局采用单线复用还是弱电箱路由器更合适呢？</title>
+      <link>https://www.v2ex.com/t/1177361</link>
+      <guid>v2ex-1177361</guid>
+      <pubDate>Sun, 07 Dec 2025 06:55:55 GMT</pubDate>
+      <description>家里宽带升级到千兆了，得给用了快 10 年的网络设备做升级，有几个问题想咨询一下大家。&lt;br /&gt;&lt;br /&gt;家里的网络布局是入户弱电箱单根 5E 网线通向卧室和客厅（ 2 个房间，1 个客厅），客厅没有预留回程线，网线端到端最长 20 米左右，最短可能 10 米。&lt;br /&gt;&lt;br /&gt;这几天参考了别人的一些经验，大概有下面三种方案可以供选择，但是对于这三种方案的优缺点还是有些模糊。&lt;br /&gt;&lt;br /&gt;方案 1：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和网管交换机，客厅放网管交换机和主路由，其余房间放同品牌路由器组有线 mesh ，客厅与弱电箱的单根网线做 5E 回程；&lt;br /&gt;&lt;br /&gt;方案 2：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和网管交换机，客厅放带 VLAN 的主路由，其余房间放同品牌路由器组有线 mesh ，客厅与弱电箱的单根网线做 5E 回程；&lt;br /&gt;&lt;br /&gt;方案 3：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和没有无线的路由器（参考最近中兴新出的星云 MAX ），客厅和其余房间放同品牌路由器组有线 mesh ；&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;1. 方案 2 中使用带 VLAN 的主路由会比方案 1 有劣势吗（性能和稳定性方面）？&lt;br /&gt;2. 网管交换机目前看的有水星和 netgeat gs108e ，是否还有别的推荐？因为拓扑确定，所以只需要 5 口就行，不需要用到 8 口，但是可以考虑使用 2.5G ，缓解单线复用在 trunk 上带宽争用问题；&lt;br /&gt;3. 方案 3 相比与方案 2 会更有优势吗？&lt;br /&gt;4. 在产品都可以考虑二手价格的情况下。如果我希望按照 网络稳定性&amp;gt;网速体验&amp;gt;整套方案成本&amp;gt;配置复杂度 做考虑，大家更推荐哪种呢？要是有具体设备型号推荐就更好了，我看很多帖子推荐的其实都是老设备，也不知道这个时间节点做网络布局是继续选用老设备还是考虑更新的产品？</description>
+    </item>
+    <item>
+      <title>毕业选城市了，可以聊聊对上海的感受吗？</title>
+      <link>https://www.v2ex.com/t/1177342</link>
+      <guid>v2ex-1177342</guid>
+      <pubDate>Sun, 07 Dec 2025 04:47:36 GMT</pubDate>
+      <description>交待背景：&lt;br /&gt;&lt;br /&gt;小弟一月份要博士毕业了，专业是 CS 非热门分支，目前 offer 集中在京（海淀）沪（浦东）两城，待遇方面没有明显的差别，上学这些年一直在北京。&lt;br /&gt;&lt;br /&gt;具体问题：&lt;br /&gt;1. 在北京虽然有诸多好处（朋友、行业人脉、应届拿户口的机会等），但是有一点待腻了，希望能多体会体会不同的生活环境、趁年轻多看看世界；&lt;br /&gt;2. 上周抽空去上海溜了一下，感受到了如下优点：&lt;br /&gt;   （ 1 ）虽然说这段时间上海污染很严重，但是湿润的空气还是暂时治好了在北京每到冬天就犯的鼻炎；&lt;br /&gt;   （ 2 ）江景和老城区非常漂亮，带来显著的精神愉悦感（可能有作为游客的因素？）；&lt;br /&gt;   （ 3 ）房租相对便宜、通勤相对友好；&lt;br /&gt;   （ 4 ）新能源可以直接上牌，买车更自由；&lt;br /&gt;3. 看到的这些优点让我觉得挺心动的，但毕竟只是短期感受，不太适合作为人生重大抉择的依据，所以想咨询一下 v 友们，有什么优点是我还没发现的，有什么重要的缺点是我还没意识到的，谢谢！</description>
+    </item>
+    <item>
       <title>戒烟两年，我算是活明白了</title>
       <link>https://www.v2ex.com/t/1177349</link>
       <guid>v2ex-1177349</guid>
@@ -41,26 +55,12 @@
 </description>
     </item>
     <item>
-      <title>毕业选城市了，可以聊聊对上海的感受吗？</title>
-      <link>https://www.v2ex.com/t/1177342</link>
-      <guid>v2ex-1177342</guid>
-      <pubDate>Sun, 07 Dec 2025 04:47:36 GMT</pubDate>
-      <description>交待背景：&lt;br /&gt;&lt;br /&gt;小弟一月份要博士毕业了，专业是 CS 非热门分支，目前 offer 集中在京（海淀）沪（浦东）两城，待遇方面没有明显的差别，上学这些年一直在北京。&lt;br /&gt;&lt;br /&gt;具体问题：&lt;br /&gt;1. 在北京虽然有诸多好处（朋友、行业人脉、应届拿户口的机会等），但是有一点待腻了，希望能多体会体会不同的生活环境、趁年轻多看看世界；&lt;br /&gt;2. 上周抽空去上海溜了一下，感受到了如下优点：&lt;br /&gt;   （ 1 ）虽然说这段时间上海污染很严重，但是湿润的空气还是暂时治好了在北京每到冬天就犯的鼻炎；&lt;br /&gt;   （ 2 ）江景和老城区非常漂亮，带来显著的精神愉悦感（可能有作为游客的因素？）；&lt;br /&gt;   （ 3 ）房租相对便宜、通勤相对友好；&lt;br /&gt;   （ 4 ）新能源可以直接上牌，买车更自由；&lt;br /&gt;3. 看到的这些优点让我觉得挺心动的，但毕竟只是短期感受，不太适合作为人生重大抉择的依据，所以想咨询一下 v 友们，有什么优点是我还没发现的，有什么重要的缺点是我还没意识到的，谢谢！</description>
-    </item>
-    <item>
       <title>现在光猫已经可以有路由器的全部功能了，还有必要用路由拨号上网么？谢谢各位大佬</title>
       <link>https://www.v2ex.com/t/1177358</link>
       <guid>v2ex-1177358</guid>
       <pubDate>Sun, 07 Dec 2025 06:33:36 GMT</pubDate>
       <description>&lt;p&gt;用路由拨号和用光猫直接拨号科学上网有什么利弊？&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>家庭网络布局采用单线复用还是弱电箱路由器更合适呢？</title>
-      <link>https://www.v2ex.com/t/1177361</link>
-      <guid>v2ex-1177361</guid>
-      <pubDate>Sun, 07 Dec 2025 06:55:55 GMT</pubDate>
-      <description>家里宽带升级到千兆了，得给用了快 10 年的网络设备做升级，有几个问题想咨询一下大家。&lt;br /&gt;&lt;br /&gt;家里的网络布局是入户弱电箱单根 5E 网线通向卧室和客厅（ 2 个房间，1 个客厅），客厅没有预留回程线，网线端到端最长 20 米左右，最短可能 10 米。&lt;br /&gt;&lt;br /&gt;这几天参考了别人的一些经验，大概有下面三种方案可以供选择，但是对于这三种方案的优缺点还是有些模糊。&lt;br /&gt;&lt;br /&gt;方案 1：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和网管交换机，客厅放网管交换机和主路由，其余房间放同品牌路由器组有线 mesh ，客厅与弱电箱的单根网线做 5E 回程；&lt;br /&gt;&lt;br /&gt;方案 2：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和网管交换机，客厅放带 VLAN 的主路由，其余房间放同品牌路由器组有线 mesh ，客厅与弱电箱的单根网线做 5E 回程；&lt;br /&gt;&lt;br /&gt;方案 3：&lt;br /&gt;&lt;br /&gt;弱电箱内放光猫和没有无线的路由器（参考最近中兴新出的星云 MAX ），客厅和其余房间放同品牌路由器组有线 mesh ；&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;1. 方案 2 中使用带 VLAN 的主路由会比方案 1 有劣势吗（性能和稳定性方面）？&lt;br /&gt;2. 网管交换机目前看的有水星和 netgeat gs108e ，是否还有别的推荐？因为拓扑确定，所以只需要 5 口就行，不需要用到 8 口，但是可以考虑使用 2.5G ，缓解单线复用在 trunk 上带宽争用问题；&lt;br /&gt;3. 方案 3 相比与方案 2 会更有优势吗？&lt;br /&gt;4. 在产品都可以考虑二手价格的情况下。如果我希望按照 网络稳定性&amp;gt;网速体验&amp;gt;整套方案成本&amp;gt;配置复杂度 做考虑，大家更推荐哪种呢？要是有具体设备型号推荐就更好了，我看很多帖子推荐的其实都是老设备，也不知道这个时间节点做网络布局是继续选用老设备还是考虑更新的产品？</description>
     </item>
     <item>
       <title>成都租房好难啊，求支招哇！</title>
