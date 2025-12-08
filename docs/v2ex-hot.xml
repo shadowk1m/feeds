@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 08 Dec 2025 10:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 10:45:38 GMT</lastBuildDate>
     <item>
       <title>大伙都用的是什么键盘？什么价格，手感如何？</title>
       <link>https://www.v2ex.com/t/1177459</link>
@@ -136,28 +136,11 @@
 </description>
     </item>
     <item>
-      <title>我们的服务宗旨是不退钱！ RackNerd VPS 大避雷</title>
-      <link>https://www.v2ex.com/t/1177446</link>
-      <guid>v2ex-1177446</guid>
-      <pubDate>Mon, 08 Dec 2025 00:45:51 GMT</pubDate>
-      <description>&lt;p&gt;RackNerd 是不退钱的&lt;/p&gt;
-&lt;p&gt;前段时间想买个便宜服务器玩玩，让 Gemini 推荐几个，其中就有它。看来图便宜就要有心理准备。&lt;/p&gt;
-&lt;p&gt;网站风格好像回到了 90 年代，忍了，&lt;/p&gt;
-&lt;p&gt;然而，装完系统发现 ping 不通，心想可能是 ip 被墙了吧，换一个；&lt;/p&gt;
-&lt;p&gt;换完还是 ping 不通，VNC 上去一看，系统直接安装失败了。。。&lt;/p&gt;
-&lt;p&gt;换个操作系统，准备去 panel 操作一下，又出幺蛾子了，password reset 邮件收不到，试了好几天都收不到&lt;/p&gt;
-&lt;p&gt;提 ticket 要求退款，客服宁愿来回几十个 ticket 跟你扯皮也不退那区区 23 美元&lt;/p&gt;
-&lt;p&gt;翻来覆去就是&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;VPS 现在能用，能 ping 通
-
-我们给你重置密码了
-
-我们这边的邮箱能收到邮件
-
-收不到重置邮件不是质量问题，你在诬陷我们
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;就是这么个体验&lt;/p&gt;
-</description>
+      <title>豆包手机遭到各大 APP 的“封杀”，未来的模式如何？</title>
+      <link>https://www.v2ex.com/t/1177469</link>
+      <guid>v2ex-1177469</guid>
+      <pubDate>Mon, 08 Dec 2025 01:30:07 GMT</pubDate>
+      <description>豆包手机提出的场景和解决问题都还不错，但是目前：&lt;br /&gt;&lt;br /&gt;1. 无论是各大厂商冠冕堂皇的安全问题，其实是为了自己的一亩三分地&lt;br /&gt;2. 还是实实在在的安全问题&lt;br /&gt;3. 以及字节豆包包揽一切变成“恶龙”的问题&lt;br /&gt;&lt;br /&gt;都阻碍了 AI 智能手机的“试水”和“发展”。&lt;br /&gt;&lt;br /&gt;那么，未来 AI 手机会以什么样的契机得到“试水”的机会呢。</description>
     </item>
   </channel>
 </rss>
