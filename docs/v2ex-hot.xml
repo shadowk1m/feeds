@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 09 Dec 2025 04:46:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 05:12:05 GMT</lastBuildDate>
     <item>
       <title>孝顺是否已不适应现代社会</title>
       <link>https://www.v2ex.com/t/1177609</link>
@@ -67,17 +67,6 @@
 </description>
     </item>
     <item>
-      <title>想把 NAS 的服务通过 FRP 映射到公网，只通过域名访问不暴露端口，风险大吗？</title>
-      <link>https://www.v2ex.com/t/1177654</link>
-      <guid>v2ex-1177654</guid>
-      <pubDate>Mon, 08 Dec 2025 10:23:41 GMT</pubDate>
-      <description>&lt;p&gt;之前因为 ZeroTier 和 TailScale 都没法打洞成功，配置过 CF Tunnel 速度也很感人。因为手头有个 VPS ，日常延迟大概在 150-200ms 之间，所以考虑通过 VPS 部署 FRP 映射 Nas 的服务到公网&lt;/p&gt;
-&lt;p&gt;原本我准备采取 Gemini 推荐的方案：用 nginx 做反代，在 cf 配置了 dns 解析，这样用域名直接访问这个服务内容。并且原服务并没有开放相关端口&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://v2ex.com/t/1177457&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1177457&lt;/a&gt; 但是上午看到这个帖子，有点吓到我了，因为准备的方案和这个帖子里的做法基本是一样的。是不是这样配置还是不太安全？&lt;/p&gt;
-&lt;p&gt;Nas 上部署了 bt webdav 图床 博客 plex 这些业务，这里的服务除了博客以外，访问都必须登录。如果通过 FRP 暴露到公网，会导致我的 Nas 数据有风险吗&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>我宣布，最好的 git 客户端是腾讯家的 ugit</title>
       <link>https://www.v2ex.com/t/1177732</link>
       <guid>v2ex-1177732</guid>
@@ -90,6 +79,17 @@
 &lt;p&gt;tower - 不太了解，很像 sourcetree ，似乎免费？有用过的来评价一下&lt;/p&gt;
 &lt;p&gt;smart git - 商用不免费，略丑&lt;/p&gt;
 &lt;p&gt;ugit - 免费，操作直观简单，文件对比方便，历史追溯清晰&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>想把 NAS 的服务通过 FRP 映射到公网，只通过域名访问不暴露端口，风险大吗？</title>
+      <link>https://www.v2ex.com/t/1177654</link>
+      <guid>v2ex-1177654</guid>
+      <pubDate>Mon, 08 Dec 2025 10:23:41 GMT</pubDate>
+      <description>&lt;p&gt;之前因为 ZeroTier 和 TailScale 都没法打洞成功，配置过 CF Tunnel 速度也很感人。因为手头有个 VPS ，日常延迟大概在 150-200ms 之间，所以考虑通过 VPS 部署 FRP 映射 Nas 的服务到公网&lt;/p&gt;
+&lt;p&gt;原本我准备采取 Gemini 推荐的方案：用 nginx 做反代，在 cf 配置了 dns 解析，这样用域名直接访问这个服务内容。并且原服务并没有开放相关端口&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://v2ex.com/t/1177457&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1177457&lt;/a&gt; 但是上午看到这个帖子，有点吓到我了，因为准备的方案和这个帖子里的做法基本是一样的。是不是这样配置还是不太安全？&lt;/p&gt;
+&lt;p&gt;Nas 上部署了 bt webdav 图床 博客 plex 这些业务，这里的服务除了博客以外，访问都必须登录。如果通过 FRP 暴露到公网，会导致我的 Nas 数据有风险吗&lt;/p&gt;
 </description>
     </item>
   </channel>
