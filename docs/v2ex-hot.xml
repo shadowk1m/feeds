@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 09 Dec 2025 09:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 09:42:19 GMT</lastBuildDate>
     <item>
       <title>原以为国庆过后风平浪静，直到丈母娘发现了老丈人的网贷……</title>
       <link>https://www.v2ex.com/t/1177748</link>
@@ -50,19 +50,6 @@
 </description>
     </item>
     <item>
-      <title>35 岁不到，感觉在男性能力方面出了点问题</title>
-      <link>https://www.v2ex.com/t/1177646</link>
-      <guid>v2ex-1177646</guid>
-      <pubDate>Mon, 08 Dec 2025 09:23:38 GMT</pubDate>
-      <description>&lt;p&gt;周末出了一件特别尴尬的事情，晚上想着夫妻生活持久一点，我在洗澡的时候先撸了一发，没想到到正式的时候一直硬不起来，或者硬起来一点刚戴了套准备进入就软了，没有做成，离了大谱。&lt;/p&gt;
-&lt;p&gt;想到之前 20 多岁一晚上三次都不在话下，现在第二次就这样，当天其实第一次撸的时候就感觉不对劲，一直撸不出来，撸一会还会软，最后是硬着头皮打出来的&lt;/p&gt;
-&lt;p&gt;平时也会自撸，看小电影，我觉得是小电影导致我大脑兴奋阈值变高了&lt;/p&gt;
-&lt;p&gt;现在搞的有点心里阴影了，之前没有出现过这个问题，慌慌的，平时不喝酒，不抽烟，坐的也久&lt;/p&gt;
-&lt;p&gt;我问了 AI ，准备做做凯格尔运动，平时戒小电影，戒撸，早睡觉，看看效果&lt;/p&gt;
-&lt;p&gt;各位有没有经验，人到中年是不是就是这样？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>对于在公司带薪划水大家咋看？</title>
       <link>https://www.v2ex.com/t/1177724</link>
       <guid>v2ex-1177724</guid>
@@ -102,6 +89,15 @@
 &lt;p&gt;原本我准备采取 Gemini 推荐的方案：用 nginx 做反代，在 cf 配置了 dns 解析，这样用域名直接访问这个服务内容。并且原服务并没有开放相关端口&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://v2ex.com/t/1177457&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1177457&lt;/a&gt; 但是上午看到这个帖子，有点吓到我了，因为准备的方案和这个帖子里的做法基本是一样的。是不是这样配置还是不太安全？&lt;/p&gt;
 &lt;p&gt;Nas 上部署了 bt webdav 图床 博客 plex 这些业务，这里的服务除了博客以外，访问都必须登录。如果通过 FRP 暴露到公网，会导致我的 Nas 数据有风险吗&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>各位的充电上限设置有用吗？</title>
+      <link>https://www.v2ex.com/t/1177706</link>
+      <guid>v2ex-1177706</guid>
+      <pubDate>Tue, 09 Dec 2025 01:19:19 GMT</pubDate>
+      <description>&lt;p&gt;16e ，26.1 的系统，设置上限 85%，晚上睡前充上，第二天起来，几乎每次都是已经充到了 100%，印象中只有 2 次是到 85%的，这是 bug 还是啥原因？&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://i.imgur.com/TU78rgM.png&quot; rel=&quot;nofollow&quot;&gt;https://i.imgur.com/TU78rgM.png&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
