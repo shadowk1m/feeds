@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 09 Dec 2025 03:45:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 04:20:43 GMT</lastBuildDate>
     <item>
       <title>孝顺是否已不适应现代社会</title>
       <link>https://www.v2ex.com/t/1177609</link>
@@ -48,12 +48,11 @@
 </description>
     </item>
     <item>
-      <title>贷款炒股，求快速方案</title>
-      <link>https://www.v2ex.com/t/1177552</link>
-      <guid>v2ex-1177552</guid>
-      <pubDate>Mon, 08 Dec 2025 04:04:48 GMT</pubDate>
-      <description>&lt;p&gt;目前满仓，招商闪电贷 3 个点，想贷 20 个出来做 T ，问一下各位，怎么避免抽贷，我现在闪电贷和券商的银行卡一张卡，如何进券商账户呢&lt;/p&gt;
-</description>
+      <title>终于轮到我啦，今天 31 岁了</title>
+      <link>https://www.v2ex.com/t/1177708</link>
+      <guid>v2ex-1177708</guid>
+      <pubDate>Tue, 09 Dec 2025 01:30:15 GMT</pubDate>
+      <description>去年这个时候经历了被裁，又赶上跟对象彩礼事情争执最后分手，当时真是一片黑暗，强绷着精神找到了一份工作，虽然薪水不高，但胜在比较清闲不咋加班。&lt;br /&gt;&lt;br /&gt;最近一年内耗了很久，总是纠结于上份感情哪点做的不好，但还是慢慢走出来了。后面开始了跑步，学习了游泳，也在积极找对象，好像年纪大了确实不好找，都没有结果，现在也不强求了，希望未来的日子自己跟家人都身体健康吧。也祝论坛的家人们都身体健康，万事胜意~</description>
     </item>
     <item>
       <title>最近发现 iPhone + 小米手环真的绝配</title>
@@ -65,13 +64,6 @@
 &lt;p&gt;可能夏天佩戴不如 Apple Watch 好看吧
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/dy5DAXK.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>终于轮到我啦，今天 31 岁了</title>
-      <link>https://www.v2ex.com/t/1177708</link>
-      <guid>v2ex-1177708</guid>
-      <pubDate>Tue, 09 Dec 2025 01:30:15 GMT</pubDate>
-      <description>去年这个时候经历了被裁，又赶上跟对象彩礼事情争执最后分手，当时真是一片黑暗，强绷着精神找到了一份工作，虽然薪水不高，但胜在比较清闲不咋加班。&lt;br /&gt;&lt;br /&gt;最近一年内耗了很久，总是纠结于上份感情哪点做的不好，但还是慢慢走出来了。后面开始了跑步，学习了游泳，也在积极找对象，好像年纪大了确实不好找，都没有结果，现在也不强求了，希望未来的日子自己跟家人都身体健康吧。也祝论坛的家人们都身体健康，万事胜意~</description>
     </item>
     <item>
       <title>大伙都用的是什么鼠标？什么价格，手感如何？</title>
@@ -90,6 +82,21 @@
 &lt;p&gt;原本我准备采取 Gemini 推荐的方案：用 nginx 做反代，在 cf 配置了 dns 解析，这样用域名直接访问这个服务内容。并且原服务并没有开放相关端口&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://v2ex.com/t/1177457&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1177457&lt;/a&gt; 但是上午看到这个帖子，有点吓到我了，因为准备的方案和这个帖子里的做法基本是一样的。是不是这样配置还是不太安全？&lt;/p&gt;
 &lt;p&gt;Nas 上部署了 bt webdav 图床 博客 plex 这些业务，这里的服务除了博客以外，访问都必须登录。如果通过 FRP 暴露到公网，会导致我的 Nas 数据有风险吗&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>我宣布，最好的 git 客户端是腾讯家的 ugit</title>
+      <link>https://www.v2ex.com/t/1177732</link>
+      <guid>v2ex-1177732</guid>
+      <pubDate>Tue, 09 Dec 2025 02:36:02 GMT</pubDate>
+      <description>&lt;p&gt;tortoise git - 丑，只支持 windows&lt;/p&gt;
+&lt;p&gt;source tree - Windows 平台卡的要死&lt;/p&gt;
+&lt;p&gt;github desktop - 功能太简单&lt;/p&gt;
+&lt;p&gt;jetbrains ide - 收费，丝滑，无缝衔接，功能略显单薄，基本够用&lt;/p&gt;
+&lt;p&gt;fork - 收费 59.99 美元，本穷鬼用不起&lt;/p&gt;
+&lt;p&gt;tower - 不太了解，很像 sourcetree ，似乎免费？有用过的来评价一下&lt;/p&gt;
+&lt;p&gt;smart git - 商用不免费，略丑&lt;/p&gt;
+&lt;p&gt;ugit - 免费，操作直观简单，文件对比方便，历史追溯清晰&lt;/p&gt;
 </description>
     </item>
   </channel>
