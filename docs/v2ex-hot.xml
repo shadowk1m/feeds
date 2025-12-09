@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 09 Dec 2025 10:14:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 10:45:58 GMT</lastBuildDate>
     <item>
       <title>原以为国庆过后风平浪静，直到丈母娘发现了老丈人的网贷……</title>
       <link>https://www.v2ex.com/t/1177748</link>
@@ -81,23 +81,21 @@
 </description>
     </item>
     <item>
-      <title>想把 NAS 的服务通过 FRP 映射到公网，只通过域名访问不暴露端口，风险大吗？</title>
-      <link>https://www.v2ex.com/t/1177654</link>
-      <guid>v2ex-1177654</guid>
-      <pubDate>Mon, 08 Dec 2025 10:23:41 GMT</pubDate>
-      <description>&lt;p&gt;之前因为 ZeroTier 和 TailScale 都没法打洞成功，配置过 CF Tunnel 速度也很感人。因为手头有个 VPS ，日常延迟大概在 150-200ms 之间，所以考虑通过 VPS 部署 FRP 映射 Nas 的服务到公网&lt;/p&gt;
-&lt;p&gt;原本我准备采取 Gemini 推荐的方案：用 nginx 做反代，在 cf 配置了 dns 解析，这样用域名直接访问这个服务内容。并且原服务并没有开放相关端口&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://v2ex.com/t/1177457&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1177457&lt;/a&gt; 但是上午看到这个帖子，有点吓到我了，因为准备的方案和这个帖子里的做法基本是一样的。是不是这样配置还是不太安全？&lt;/p&gt;
-&lt;p&gt;Nas 上部署了 bt webdav 图床 博客 plex 这些业务，这里的服务除了博客以外，访问都必须登录。如果通过 FRP 暴露到公网，会导致我的 Nas 数据有风险吗&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>程序员转行律师了，但发现我的认知中都没钱了，陷入思维黑洞，求各位兄弟姐妹提供点思路</title>
       <link>https://www.v2ex.com/t/1177774</link>
       <guid>v2ex-1177774</guid>
       <pubDate>Tue, 09 Dec 2025 05:40:19 GMT</pubDate>
       <description>&lt;p&gt;据我的切身感受，确实大家都没钱了，被房贷、婚姻、创业、理财等全部收割了。贫富差距过大，钱流不出来成了死钱，有个哥们汽车领域的前两年两千多人，现在就二百人，就这还在不断钝刀子割肉降薪好辞退时候少赔偿，确实以后要么特别能忍，要么特别有竞争力自己都能单干才可以活下去。&lt;/p&gt;
 &lt;p&gt;我的地球号：MTc2MjE5NzkxNTM=，base64&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>各位的充电上限设置有用吗？</title>
+      <link>https://www.v2ex.com/t/1177706</link>
+      <guid>v2ex-1177706</guid>
+      <pubDate>Tue, 09 Dec 2025 01:19:19 GMT</pubDate>
+      <description>&lt;p&gt;16e ，26.1 的系统，设置上限 85%，晚上睡前充上，第二天起来，几乎每次都是已经充到了 100%，印象中只有 2 次是到 85%的，这是 bug 还是啥原因？&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://i.imgur.com/TU78rgM.png&quot; rel=&quot;nofollow&quot;&gt;https://i.imgur.com/TU78rgM.png&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
