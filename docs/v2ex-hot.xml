@@ -4,20 +4,20 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 09 Dec 2025 08:49:22 GMT</lastBuildDate>
-    <item>
-      <title>终于轮到我啦，今天 31 岁了</title>
-      <link>https://www.v2ex.com/t/1177708</link>
-      <guid>v2ex-1177708</guid>
-      <pubDate>Tue, 09 Dec 2025 01:30:15 GMT</pubDate>
-      <description>去年这个时候经历了被裁，又赶上跟对象彩礼事情争执最后分手，当时真是一片黑暗，强绷着精神找到了一份工作，虽然薪水不高，但胜在比较清闲不咋加班。&lt;br /&gt;&lt;br /&gt;最近一年内耗了很久，总是纠结于上份感情哪点做的不好，但还是慢慢走出来了。后面开始了跑步，学习了游泳，也在积极找对象，好像年纪大了确实不好找，都没有结果，现在也不强求了，希望未来的日子自己跟家人都身体健康吧。也祝论坛的家人们都身体健康，万事胜意~</description>
-    </item>
+    <lastBuildDate>Tue, 09 Dec 2025 09:15:21 GMT</lastBuildDate>
     <item>
       <title>原以为国庆过后风平浪静，直到丈母娘发现了老丈人的网贷……</title>
       <link>https://www.v2ex.com/t/1177748</link>
       <guid>v2ex-1177748</guid>
       <pubDate>Tue, 09 Dec 2025 03:27:56 GMT</pubDate>
       <description>前情提要&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1160533&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.v2ex.com/t/1160533&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;老丈人前几天找村里人借钱，别人打电话找丈母娘确认。网贷的事被发现了。&lt;br /&gt;然后老丈人开始玩消失，我和我老婆基本一整天都在和丈母娘打电话。最后消失 24 小时后，打电话报警，警察定位到人在常州。&lt;br /&gt;昨天去常州接回去后，开始统计欠款，目前统计出来大概 20W 出头&lt;br /&gt;老婆今天发消息说，想帮忙还了，问我是否同意。&lt;br /&gt;我沉默了，心里不想帮，但是我也不知道如何说。 &lt;br /&gt;PS：OP 有娃无房&lt;br /&gt;只想说，平静的生活再一次被打破。😌&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/Gpfv3xe.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/Gpfv3xe.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>终于轮到我啦，今天 31 岁了</title>
+      <link>https://www.v2ex.com/t/1177708</link>
+      <guid>v2ex-1177708</guid>
+      <pubDate>Tue, 09 Dec 2025 01:30:15 GMT</pubDate>
+      <description>去年这个时候经历了被裁，又赶上跟对象彩礼事情争执最后分手，当时真是一片黑暗，强绷着精神找到了一份工作，虽然薪水不高，但胜在比较清闲不咋加班。&lt;br /&gt;&lt;br /&gt;最近一年内耗了很久，总是纠结于上份感情哪点做的不好，但还是慢慢走出来了。后面开始了跑步，学习了游泳，也在积极找对象，好像年纪大了确实不好找，都没有结果，现在也不强求了，希望未来的日子自己跟家人都身体健康吧。也祝论坛的家人们都身体健康，万事胜意~</description>
     </item>
     <item>
       <title>准备卖房，请教一下各位挂牌价多少合适</title>
@@ -63,14 +63,24 @@
 </description>
     </item>
     <item>
-      <title>想把 NAS 的服务通过 FRP 映射到公网，只通过域名访问不暴露端口，风险大吗？</title>
-      <link>https://www.v2ex.com/t/1177654</link>
-      <guid>v2ex-1177654</guid>
-      <pubDate>Mon, 08 Dec 2025 10:23:41 GMT</pubDate>
-      <description>&lt;p&gt;之前因为 ZeroTier 和 TailScale 都没法打洞成功，配置过 CF Tunnel 速度也很感人。因为手头有个 VPS ，日常延迟大概在 150-200ms 之间，所以考虑通过 VPS 部署 FRP 映射 Nas 的服务到公网&lt;/p&gt;
-&lt;p&gt;原本我准备采取 Gemini 推荐的方案：用 nginx 做反代，在 cf 配置了 dns 解析，这样用域名直接访问这个服务内容。并且原服务并没有开放相关端口&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://v2ex.com/t/1177457&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1177457&lt;/a&gt; 但是上午看到这个帖子，有点吓到我了，因为准备的方案和这个帖子里的做法基本是一样的。是不是这样配置还是不太安全？&lt;/p&gt;
-&lt;p&gt;Nas 上部署了 bt webdav 图床 博客 plex 这些业务，这里的服务除了博客以外，访问都必须登录。如果通过 FRP 暴露到公网，会导致我的 Nas 数据有风险吗&lt;/p&gt;
+      <title>对于在公司带薪划水大家咋看？</title>
+      <link>https://www.v2ex.com/t/1177724</link>
+      <guid>v2ex-1177724</guid>
+      <pubDate>Tue, 09 Dec 2025 02:17:33 GMT</pubDate>
+      <description>对于在公司带薪划水大家咋看？</description>
+    </item>
+    <item>
+      <title>直男聊天求助</title>
+      <link>https://www.v2ex.com/t/1177772</link>
+      <guid>v2ex-1177772</guid>
+      <pubDate>Tue, 09 Dec 2025 05:35:35 GMT</pubDate>
+      <description>&lt;p&gt;家人们，发现自己最近喝接触到的女生聊天有很大瓶颈。主要表现在&lt;/p&gt;
+&lt;p&gt;1 聊天很无聊无趣，没有情绪波动（不会）&lt;/p&gt;
+&lt;p&gt;2 说话没有钩子，很难引起女生好奇，或者是封闭式聊天，容易把天聊死&lt;/p&gt;
+&lt;p&gt;3 不会引导，不知道聊天该往什么方向发展&lt;/p&gt;
+&lt;p&gt;有没有情感大手子，会聊天的求教需要 1v1&lt;/p&gt;
+&lt;h2&gt;辅导可为知识付费。主要是想提升自己的沟通能力！&lt;/h2&gt;
+&lt;p&gt;希望可以有具体一些的建议和可行的操作步骤，感觉我的人际关系这块真的是很弱，包括和家人，同时的关系一般，也没有很值得说到的深入的朋友，比较孤独在人际关系上。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -84,19 +94,14 @@
 </description>
     </item>
     <item>
-      <title>对于在公司带薪划水大家咋看？</title>
-      <link>https://www.v2ex.com/t/1177724</link>
-      <guid>v2ex-1177724</guid>
-      <pubDate>Tue, 09 Dec 2025 02:17:33 GMT</pubDate>
-      <description>对于在公司带薪划水大家咋看？</description>
-    </item>
-    <item>
-      <title>各位的充电上限设置有用吗？</title>
-      <link>https://www.v2ex.com/t/1177706</link>
-      <guid>v2ex-1177706</guid>
-      <pubDate>Tue, 09 Dec 2025 01:19:19 GMT</pubDate>
-      <description>&lt;p&gt;16e ，26.1 的系统，设置上限 85%，晚上睡前充上，第二天起来，几乎每次都是已经充到了 100%，印象中只有 2 次是到 85%的，这是 bug 还是啥原因？&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://i.imgur.com/TU78rgM.png&quot; rel=&quot;nofollow&quot;&gt;https://i.imgur.com/TU78rgM.png&lt;/a&gt;&lt;/p&gt;
+      <title>想把 NAS 的服务通过 FRP 映射到公网，只通过域名访问不暴露端口，风险大吗？</title>
+      <link>https://www.v2ex.com/t/1177654</link>
+      <guid>v2ex-1177654</guid>
+      <pubDate>Mon, 08 Dec 2025 10:23:41 GMT</pubDate>
+      <description>&lt;p&gt;之前因为 ZeroTier 和 TailScale 都没法打洞成功，配置过 CF Tunnel 速度也很感人。因为手头有个 VPS ，日常延迟大概在 150-200ms 之间，所以考虑通过 VPS 部署 FRP 映射 Nas 的服务到公网&lt;/p&gt;
+&lt;p&gt;原本我准备采取 Gemini 推荐的方案：用 nginx 做反代，在 cf 配置了 dns 解析，这样用域名直接访问这个服务内容。并且原服务并没有开放相关端口&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://v2ex.com/t/1177457&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1177457&lt;/a&gt; 但是上午看到这个帖子，有点吓到我了，因为准备的方案和这个帖子里的做法基本是一样的。是不是这样配置还是不太安全？&lt;/p&gt;
+&lt;p&gt;Nas 上部署了 bt webdav 图床 博客 plex 这些业务，这里的服务除了博客以外，访问都必须登录。如果通过 FRP 暴露到公网，会导致我的 Nas 数据有风险吗&lt;/p&gt;
 </description>
     </item>
   </channel>
