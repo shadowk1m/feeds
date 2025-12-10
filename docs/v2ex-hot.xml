@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 10 Dec 2025 10:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 10:46:43 GMT</lastBuildDate>
     <item>
       <title>今早去金拱门（麦当劳）吃早餐发现，自动收桌</title>
       <link>https://www.v2ex.com/t/1177922</link>
@@ -39,26 +39,6 @@
 </description>
     </item>
     <item>
-      <title>每天开车在路上会听什么？</title>
-      <link>https://www.v2ex.com/t/1177919</link>
-      <guid>v2ex-1177919</guid>
-      <pubDate>Wed, 10 Dec 2025 00:53:24 GMT</pubDate>
-      <description>&lt;p&gt;每天开车在路上会听什么？   &lt;/p&gt;
-&lt;p&gt;歌？&lt;/p&gt;
-&lt;p&gt;有没有推荐的播客    &lt;/p&gt;
-&lt;p&gt;有没有推荐的收音频道    &lt;/p&gt;
-&lt;p&gt;我每天单程要 50 分钟左右，听了好几年歌，看看有没其他也可以听听的&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>大家都是怎么戒掉午睡的？</title>
-      <link>https://www.v2ex.com/t/1177946</link>
-      <guid>v2ex-1177946</guid>
-      <pubDate>Wed, 10 Dec 2025 01:58:22 GMT</pubDate>
-      <description>&lt;p&gt;尝试过喝咖啡，少吃碳水等方式，依然戒不掉，中午不睡下午什么活都干不了&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>微信文件过期太反人类了</title>
       <link>https://www.v2ex.com/t/1177921</link>
       <guid>v2ex-1177921</guid>
@@ -71,48 +51,6 @@
       <guid>v2ex-1177932</guid>
       <pubDate>Wed, 10 Dec 2025 01:27:10 GMT</pubDate>
       <description>&lt;p&gt;很奇怪，不知道是为了求祝福还是什么，有种多少年前刷 qq 空间和 B 站评论区的感觉。。不能再往下说了，再说要被说攻击性太强了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>发现连坐制真的好使-小区见闻</title>
-      <link>https://www.v2ex.com/t/1177939</link>
-      <guid>v2ex-1177939</guid>
-      <pubDate>Wed, 10 Dec 2025 01:46:51 GMT</pubDate>
-      <description>&lt;h1&gt;背景&lt;br/&gt;
-小区 2000 口人，有 20 户经常不交物业费&lt;br/&gt;
-由于物业费和水费是绑定得&lt;br/&gt;
-所以水费那 20 户也没交
-物业使了一计，一年没给自来水公司结算水费&lt;br/&gt;
-欠了自来水 10 几万水费&lt;br/&gt;
-现在神奇操作来了&lt;br/&gt;
-物业联合自来水公司把全小区水断了 2 天&lt;br/&gt;
-然后小区有 10 来个人去找物业闹（仅限于打嘴炮，物业推脱是自来水公司停水物业也没办法）&lt;br/&gt;
-打电话投诉什么的&lt;br/&gt;
-12345 ，居委会，街道办，小区业委会（我们小区有业委会，神奇吧）等都在看戏
-最终协商结果是：不整个小区 2000 人全停水了，改成一栋一栋轮流停水 1 天，一栋交齐费用恢复供水&lt;br/&gt;
-这样好戏来了&lt;br/&gt;
-每栋楼几十户 200 多个人，因为 1 户 2 户得不能用水，自己窝里斗开了，各个在那骂不交物业费的，逼着那几户把物业费给交上了
-挨个停，一栋楼停水去找物业理论，其他栋在看戏不考虑明天就轮到他们&lt;/h1&gt;
-&lt;p&gt;事件持续了一星期，期间没人关注停水是因为物业一年不给水公司结算，也没有人怒火中烧打物业，也没有人去小区门口把水阀给打开（水阀上有把锁，物业联合水公司把阀门关了然后上锁导致得停水）&lt;br/&gt;
-自己人窝里斗就把物业几年的老大难问题解决了&lt;br/&gt;
-连坐制+各个击破=自觉窝里斗&lt;br/&gt;
-我在物业群里呼吁一起打开水阀，没有一个人相应，我说了一句一群怂逼，然后有人还回我“你是想表达什么”&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>为什么都在吹 Claude Code，我感觉 Copliot 挺好用的啊！</title>
-      <link>https://www.v2ex.com/t/1177858</link>
-      <guid>v2ex-1177858</guid>
-      <pubDate>Tue, 09 Dec 2025 10:13:10 GMT</pubDate>
-      <description>&lt;p&gt;之前跟风试用过 Claude Code ，但用了一阵子还是换回了 Copilot ，不太理解为什么它被吹得这么厉害。说几点我的实际感受：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Claude Code 太费 token ，随便用用额度就烧得飞快，像我这种穷鬼开发实在用不起。&lt;/li&gt;
-&lt;li&gt;纯终端形态不如 IDE 集成方便，在 IDE 里做 review 和 accept 都很方便，还能把 LSP 上下文喂给模型。&lt;/li&gt;
-&lt;li&gt;Copilot 一个月只要 10 刀（当然我是开源项目白嫖的），Claude 、GPT 、Gemini 都能用，而且每次有新模型出来，它基本上很快就能跟上。&lt;/li&gt;
-&lt;li&gt;跟 GitHub 集成的非常好，在 issue 里 @copilot 就能自动开 PR 处理，而且这种只消耗一次 Premium 额度，我现在开源项目很多小改动都直接让它搞定，比如： &lt;a href=&quot;https://github.com/GopeedLab/gopeed/pull/1183&quot; rel=&quot;nofollow&quot;&gt;https://github.com/GopeedLab/gopeed/pull/1183&lt;/a&gt;
-&lt;a href=&quot;https://github.com/GopeedLab/gopeed/pull/1187&quot; rel=&quot;nofollow&quot;&gt;https://github.com/GopeedLab/gopeed/pull/1187&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;所以我是不是错过了 Claude Code 的正确打开方式？&lt;/p&gt;
 </description>
     </item>
     <item>
