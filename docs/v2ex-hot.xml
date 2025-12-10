@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 10 Dec 2025 08:49:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 09:15:46 GMT</lastBuildDate>
     <item>
       <title>今早去金拱门（麦当劳）吃早餐发现，自动收桌</title>
       <link>https://www.v2ex.com/t/1177922</link>
@@ -36,26 +36,6 @@
       <pubDate>Wed, 10 Dec 2025 01:56:05 GMT</pubDate>
       <description>&lt;p&gt;今天买入 特价信息 半仓&lt;/p&gt;
 &lt;p&gt;盈利了记得给我个感谢&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>急，理发店跑路退款问题</title>
-      <link>https://www.v2ex.com/t/1177840</link>
-      <guid>v2ex-1177840</guid>
-      <pubDate>Tue, 09 Dec 2025 08:55:16 GMT</pubDate>
-      <description>&lt;p&gt;之前家附近有一家理发店，是充值 4000 ，理发半价，折后一次几十块，觉得还行&lt;/p&gt;
-&lt;p&gt;我就充值了，用了一两年了，卡里还剩 2000 出头&lt;/p&gt;
-&lt;p&gt;现在老板把店卖掉了，换了一波人给剪头发，并且，导致原来充值的余额不能用了！&lt;/p&gt;
-&lt;p&gt;我就想退款&lt;/p&gt;
-&lt;p&gt;各种打 12315 投诉退款，&lt;/p&gt;
-&lt;p&gt;之前不给退，现在跟我说，可以退&lt;/p&gt;
-&lt;p&gt;但是因为之前用掉了 2000 ，用掉的 2000 如果退款，就不能按照 5 折算，要按照原价算&lt;/p&gt;
-&lt;p&gt;这样算，只能退个几百块&lt;/p&gt;
-&lt;p&gt;（比如我现在剩余 2200 ，用掉 1800 ，退款的话，那就是退 4000-1800x2=400 ）&lt;/p&gt;
-&lt;p&gt;我充值的 4000 ，没有任何赠送金额，充值完就是卡里剩余 4000 ，只不过以后理发就半价了！&lt;/p&gt;
-&lt;p&gt;他们现在就说，如果退，就是他们这个方案，感觉不讲道理&lt;/p&gt;
-&lt;p&gt;我想问下，他们这样，有法律支持吗？&lt;/p&gt;
-&lt;p&gt;我应该用哪条法规去反击，他们之前说不给退，我就一直说 [消费者充值的预付费卡可以无理由退] 来反驳&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -94,22 +74,6 @@
 </description>
     </item>
     <item>
-      <title>为什么都在吹 Claude Code，我感觉 Copliot 挺好用的啊！</title>
-      <link>https://www.v2ex.com/t/1177858</link>
-      <guid>v2ex-1177858</guid>
-      <pubDate>Tue, 09 Dec 2025 10:13:10 GMT</pubDate>
-      <description>&lt;p&gt;之前跟风试用过 Claude Code ，但用了一阵子还是换回了 Copilot ，不太理解为什么它被吹得这么厉害。说几点我的实际感受：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Claude Code 太费 token ，随便用用额度就烧得飞快，像我这种穷鬼开发实在用不起。&lt;/li&gt;
-&lt;li&gt;纯终端形态不如 IDE 集成方便，在 IDE 里做 review 和 accept 都很方便，还能把 LSP 上下文喂给模型。&lt;/li&gt;
-&lt;li&gt;Copilot 一个月只要 10 刀（当然我是开源项目白嫖的），Claude 、GPT 、Gemini 都能用，而且每次有新模型出来，它基本上很快就能跟上。&lt;/li&gt;
-&lt;li&gt;跟 GitHub 集成的非常好，在 issue 里 @copilot 就能自动开 PR 处理，而且这种只消耗一次 Premium 额度，我现在开源项目很多小改动都直接让它搞定，比如： &lt;a href=&quot;https://github.com/GopeedLab/gopeed/pull/1183&quot; rel=&quot;nofollow&quot;&gt;https://github.com/GopeedLab/gopeed/pull/1183&lt;/a&gt;
-&lt;a href=&quot;https://github.com/GopeedLab/gopeed/pull/1187&quot; rel=&quot;nofollow&quot;&gt;https://github.com/GopeedLab/gopeed/pull/1187&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;所以我是不是错过了 Claude Code 的正确打开方式？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>发现连坐制真的好使-小区见闻</title>
       <link>https://www.v2ex.com/t/1177939</link>
       <guid>v2ex-1177939</guid>
@@ -133,6 +97,30 @@
 自己人窝里斗就把物业几年的老大难问题解决了&lt;br/&gt;
 连坐制+各个击破=自觉窝里斗&lt;br/&gt;
 我在物业群里呼吁一起打开水阀，没有一个人相应，我说了一句一群怂逼，然后有人还回我“你是想表达什么”&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>为什么都在吹 Claude Code，我感觉 Copliot 挺好用的啊！</title>
+      <link>https://www.v2ex.com/t/1177858</link>
+      <guid>v2ex-1177858</guid>
+      <pubDate>Tue, 09 Dec 2025 10:13:10 GMT</pubDate>
+      <description>&lt;p&gt;之前跟风试用过 Claude Code ，但用了一阵子还是换回了 Copilot ，不太理解为什么它被吹得这么厉害。说几点我的实际感受：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Claude Code 太费 token ，随便用用额度就烧得飞快，像我这种穷鬼开发实在用不起。&lt;/li&gt;
+&lt;li&gt;纯终端形态不如 IDE 集成方便，在 IDE 里做 review 和 accept 都很方便，还能把 LSP 上下文喂给模型。&lt;/li&gt;
+&lt;li&gt;Copilot 一个月只要 10 刀（当然我是开源项目白嫖的），Claude 、GPT 、Gemini 都能用，而且每次有新模型出来，它基本上很快就能跟上。&lt;/li&gt;
+&lt;li&gt;跟 GitHub 集成的非常好，在 issue 里 @copilot 就能自动开 PR 处理，而且这种只消耗一次 Premium 额度，我现在开源项目很多小改动都直接让它搞定，比如： &lt;a href=&quot;https://github.com/GopeedLab/gopeed/pull/1183&quot; rel=&quot;nofollow&quot;&gt;https://github.com/GopeedLab/gopeed/pull/1183&lt;/a&gt;
+&lt;a href=&quot;https://github.com/GopeedLab/gopeed/pull/1187&quot; rel=&quot;nofollow&quot;&gt;https://github.com/GopeedLab/gopeed/pull/1187&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;所以我是不是错过了 Claude Code 的正确打开方式？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>洗地机到底值不值的买</title>
+      <link>https://www.v2ex.com/t/1177980</link>
+      <guid>v2ex-1177980</guid>
+      <pubDate>Wed, 10 Dec 2025 03:17:12 GMT</pubDate>
+      <description>&lt;p&gt;一直想买个洗地机（洗脱一体），一直没有入手，网上评论两集分化，有没有真正的使用者分享下，值不值得入手，是不是智商税&lt;/p&gt;
 </description>
     </item>
   </channel>
