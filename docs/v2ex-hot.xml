@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 11 Dec 2025 17:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 17:51:17 GMT</lastBuildDate>
     <item>
       <title>请问大家有什么除了电子产品之外在室内的爱好吗</title>
       <link>https://www.v2ex.com/t/1178169</link>
@@ -102,6 +102,23 @@
 </description>
     </item>
     <item>
+      <title>Gmail 虽好，但主力邮箱感觉还是要 Outlook</title>
+      <link>https://www.v2ex.com/t/1178237</link>
+      <guid>v2ex-1178237</guid>
+      <pubDate>Thu, 11 Dec 2025 04:09:32 GMT</pubDate>
+      <description>&lt;pre&gt;&lt;code&gt;声明：个人案例，不代表所有人
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我平时的邮件客户端：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS：Spark （需代理）&lt;/li&gt;
+&lt;li&gt;iOS：Gmail （需代理）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;主邮箱是 Gmail ，偏偏昨天服务器崩了，最要命的是当时正等着收 Gmail 的验证码，越着急越无力…&lt;/p&gt;
+&lt;p&gt;今天想了想，干脆以后换成 Outlook 客户端，虽然交互和 UI 不好，但至少不用代理就能正常收发邮件。甚至把所有账号都迁到 Outlook 算了。&lt;/p&gt;
+&lt;p&gt;至于转发，不会考虑，绕来绕去很累。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>过去 2 周，我用 Gemini 3 把 42 本书，分别转化成了网页</title>
       <link>https://www.v2ex.com/t/1178280</link>
       <guid>v2ex-1178280</guid>
@@ -117,23 +134,6 @@
 &lt;p&gt;这个项目有接近 10 万行的代码量，99.9% 的代码都是 AI 写的，对于一个只有前端没有后端，且网站的各个部分都相对独立的项目，vibe coding 完全可以胜任。&lt;/p&gt;
 &lt;p&gt;我会同时开多个编辑器，并行让不同 AI 做不同的事情。sonnet 4.5 负责想一个故事线来讲述一本书，gemini 3 负责设计和前端，codex 负责剩下的脏话累活。&lt;/p&gt;
 &lt;p&gt;由于代码是 AI 写的，加上时间有限加上，现在的 Vibary 的内容和体验是不完善甚至有误的，所以游玩时请小心，但请不要恐慌，这个网站基本无害。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Gmail 虽好，但主力邮箱感觉还是要 Outlook</title>
-      <link>https://www.v2ex.com/t/1178237</link>
-      <guid>v2ex-1178237</guid>
-      <pubDate>Thu, 11 Dec 2025 04:09:32 GMT</pubDate>
-      <description>&lt;pre&gt;&lt;code&gt;声明：个人案例，不代表所有人
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我平时的邮件客户端：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;macOS：Spark （需代理）&lt;/li&gt;
-&lt;li&gt;iOS：Gmail （需代理）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;主邮箱是 Gmail ，偏偏昨天服务器崩了，最要命的是当时正等着收 Gmail 的验证码，越着急越无力…&lt;/p&gt;
-&lt;p&gt;今天想了想，干脆以后换成 Outlook 客户端，虽然交互和 UI 不好，但至少不用代理就能正常收发邮件。甚至把所有账号都迁到 Outlook 算了。&lt;/p&gt;
-&lt;p&gt;至于转发，不会考虑，绕来绕去很累。&lt;/p&gt;
 </description>
     </item>
     <item>
