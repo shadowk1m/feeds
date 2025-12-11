@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 11 Dec 2025 07:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 08:17:51 GMT</lastBuildDate>
     <item>
       <title>请问大家有什么除了电子产品之外在室内的爱好吗</title>
       <link>https://www.v2ex.com/t/1178169</link>
@@ -41,24 +41,6 @@
       <guid>v2ex-1178090</guid>
       <pubDate>Wed, 10 Dec 2025 09:02:55 GMT</pubDate>
       <description>我就不拐弯抹角，直接打直球了，非利益相关，我订阅的 PRO 版本的 Coding Plan：&lt;br /&gt;&lt;br /&gt;1. 经常性的不按照 &lt;a target=&quot;_blank&quot; href=&quot;http://CLAUDE.md&quot; rel=&quot;nofollow noopener&quot;&gt;CLAUDE.md&lt;/a&gt; 进行工作，感觉是 GLM v4.6 本身并不能很好的理解和遵循 CC 所给的一些 Prompts&lt;br /&gt;&lt;br /&gt;2. 经常性的调用一些 CC 不存在的工具&lt;br /&gt;&lt;br /&gt;3. 无法很好的去结合 Claude Code 的 Think 功能，提了 Ticket 给官方说暂不支持，可能考虑未来支持&lt;br /&gt;&lt;br /&gt;4. 它是真的很爱写代码，明明我在 Plan 模式，我都没确认计划就打算开干了</description>
-    </item>
-    <item>
-      <title>避雷雷鸟电视,突然今天突然强制升级</title>
-      <link>https://www.v2ex.com/t/1178144</link>
-      <guid>v2ex-1178144</guid>
-      <pubDate>Wed, 10 Dec 2025 15:12:05 GMT</pubDate>
-      <description>&lt;p&gt;本来买雷鸟就冲着秒开机\无广告\桌面干净&lt;/p&gt;
-&lt;p&gt;今天突然弹一个巨大系统更新提示,还不能选取消&lt;/p&gt;
-&lt;p&gt;直接阻塞了所有 ui 操作,太恶心了&lt;/p&gt;
-&lt;p&gt;而且强行关机重启后检查系统设置,确认了所有自动更新的选项都是关闭的&lt;/p&gt;
-&lt;p&gt;解决办法:&lt;/p&gt;
-&lt;p&gt;adb connect 电视 ip 连上 adb&lt;/p&gt;
-&lt;p&gt;adb shell 进 shell&lt;/p&gt;
-&lt;p&gt;pm list packages | grep -i update  列出所有 update 相关包&lt;/p&gt;
-&lt;p&gt;pm disable-user --user0 +对应包名 全禁了&lt;/p&gt;
-&lt;p&gt;这样才不会强制更新&lt;/p&gt;
-&lt;p&gt;虽然解决了,但是以后不会再碰这牌子了&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>自家种的橙子， 2 元一斤低价出售，不是小果不是瑕疵果，是中大精品果，朋友们 帮帮孩子吧</title>
@@ -107,6 +89,24 @@
 &lt;li&gt;(展示图 1： &lt;a href=&quot;https://imgur.com/a/82oy2gm&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/82oy2gm&lt;/a&gt;)   &lt;/li&gt;
 &lt;li&gt;(展示图 2： &lt;a href=&quot;https://imgur.com/a/a9mG7HY&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/a9mG7HY&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>避雷雷鸟电视,突然今天突然强制升级</title>
+      <link>https://www.v2ex.com/t/1178144</link>
+      <guid>v2ex-1178144</guid>
+      <pubDate>Wed, 10 Dec 2025 15:12:05 GMT</pubDate>
+      <description>&lt;p&gt;本来买雷鸟就冲着秒开机\无广告\桌面干净&lt;/p&gt;
+&lt;p&gt;今天突然弹一个巨大系统更新提示,还不能选取消&lt;/p&gt;
+&lt;p&gt;直接阻塞了所有 ui 操作,太恶心了&lt;/p&gt;
+&lt;p&gt;而且强行关机重启后检查系统设置,确认了所有自动更新的选项都是关闭的&lt;/p&gt;
+&lt;p&gt;解决办法:&lt;/p&gt;
+&lt;p&gt;adb connect 电视 ip 连上 adb&lt;/p&gt;
+&lt;p&gt;adb shell 进 shell&lt;/p&gt;
+&lt;p&gt;pm list packages | grep -i update  列出所有 update 相关包&lt;/p&gt;
+&lt;p&gt;pm disable-user --user0 +对应包名 全禁了&lt;/p&gt;
+&lt;p&gt;这样才不会强制更新&lt;/p&gt;
+&lt;p&gt;虽然解决了,但是以后不会再碰这牌子了&lt;/p&gt;
 </description>
     </item>
     <item>
