@@ -4,22 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 11 Dec 2025 11:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 11:37:39 GMT</lastBuildDate>
     <item>
       <title>请问大家有什么除了电子产品之外在室内的爱好吗</title>
       <link>https://www.v2ex.com/t/1178169</link>
       <guid>v2ex-1178169</guid>
       <pubDate>Thu, 11 Dec 2025 01:25:02 GMT</pubDate>
       <description>&lt;p&gt;rt, 在工作耗费了较多精力后, 睡觉之前总是不想工作甚至学新东西的, 有什么别的事可以在睡觉前让自己轻松和快乐吗&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>你们夜里起来尿尿吗?</title>
-      <link>https://www.v2ex.com/t/1178182</link>
-      <guid>v2ex-1178182</guid>
-      <pubDate>Thu, 11 Dec 2025 01:59:09 GMT</pubDate>
-      <description>&lt;p&gt;我现在减肥,导致夜里会起来尿尿,然后早上被尿憋醒.&lt;/p&gt;
-&lt;p&gt;但是晚上起来冷啊?难道要不脱衣服睡觉吗?&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -72,6 +63,15 @@
 </description>
     </item>
     <item>
+      <title>你们夜里起来尿尿吗?</title>
+      <link>https://www.v2ex.com/t/1178182</link>
+      <guid>v2ex-1178182</guid>
+      <pubDate>Thu, 11 Dec 2025 01:59:09 GMT</pubDate>
+      <description>&lt;p&gt;我现在减肥,导致夜里会起来尿尿,然后早上被尿憋醒.&lt;/p&gt;
+&lt;p&gt;但是晚上起来冷啊?难道要不脱衣服睡觉吗?&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>上班开发自掏腰包用 AI 编程合适吗？</title>
       <link>https://www.v2ex.com/t/1178166</link>
       <guid>v2ex-1178166</guid>
@@ -82,6 +82,16 @@
 &lt;p&gt;现在他心里有点矛盾，继续手工编程被领导这么蛐蛐也不得劲，去买 coding 会员啥的又觉得自费上班不合理。&lt;/p&gt;
 &lt;p&gt;想看看大家是怎么面对这种情况的？
 （不用劝人家离职哈，大环境 dddd&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>要是用 Rust 就不会出问题了</title>
+      <link>https://www.v2ex.com/t/1178177</link>
+      <guid>v2ex-1178177</guid>
+      <pubDate>Thu, 11 Dec 2025 01:38:00 GMT</pubDate>
+      <description>&lt;p&gt;最近在开发一个新项目，技术选型阶段又一次陷入了 Rust 还是 Go 的问题。&lt;/p&gt;
+&lt;p&gt;实际用 Go 写起来非常顺手，并发模型简单明了，开发效率高，几乎没遇到什么语言层面的坑。从结果上看，项目运行稳定，性能也完全达标。&lt;/p&gt;
+&lt;p&gt;但不知道为什么，总是觉得如果换成 Rust ，内存安全、零成本抽象、模式匹配，可以让代码更稳健，用 Rust 就不会出问题。实际上，Rust 的开发节奏会拖慢进度，而且 Go 的工程表现已经足够好。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -100,16 +110,6 @@
 &lt;p&gt;pm disable-user --user0 +对应包名 全禁了&lt;/p&gt;
 &lt;p&gt;这样才不会强制更新&lt;/p&gt;
 &lt;p&gt;虽然解决了,但是以后不会再碰这牌子了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>要是用 Rust 就不会出问题了</title>
-      <link>https://www.v2ex.com/t/1178177</link>
-      <guid>v2ex-1178177</guid>
-      <pubDate>Thu, 11 Dec 2025 01:38:00 GMT</pubDate>
-      <description>&lt;p&gt;最近在开发一个新项目，技术选型阶段又一次陷入了 Rust 还是 Go 的问题。&lt;/p&gt;
-&lt;p&gt;实际用 Go 写起来非常顺手，并发模型简单明了，开发效率高，几乎没遇到什么语言层面的坑。从结果上看，项目运行稳定，性能也完全达标。&lt;/p&gt;
-&lt;p&gt;但不知道为什么，总是觉得如果换成 Rust ，内存安全、零成本抽象、模式匹配，可以让代码更稳健，用 Rust 就不会出问题。实际上，Rust 的开发节奏会拖慢进度，而且 Go 的工程表现已经足够好。&lt;/p&gt;
 </description>
     </item>
     <item>
