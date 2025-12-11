@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 11 Dec 2025 06:19:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 06:54:03 GMT</lastBuildDate>
     <item>
       <title>请问大家有什么除了电子产品之外在室内的爱好吗</title>
       <link>https://www.v2ex.com/t/1178169</link>
@@ -12,13 +12,6 @@
       <pubDate>Thu, 11 Dec 2025 01:25:02 GMT</pubDate>
       <description>&lt;p&gt;rt, 在工作耗费了较多精力后, 睡觉之前总是不想工作甚至学新东西的, 有什么别的事可以在睡觉前让自己轻松和快乐吗&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>GLM v4.6 + Claude Code 可用性极差，被那些软广狠狠坑了一把</title>
-      <link>https://www.v2ex.com/t/1178090</link>
-      <guid>v2ex-1178090</guid>
-      <pubDate>Wed, 10 Dec 2025 09:02:55 GMT</pubDate>
-      <description>我就不拐弯抹角，直接打直球了，非利益相关，我订阅的 PRO 版本的 Coding Plan：&lt;br /&gt;&lt;br /&gt;1. 经常性的不按照 &lt;a target=&quot;_blank&quot; href=&quot;http://CLAUDE.md&quot; rel=&quot;nofollow noopener&quot;&gt;CLAUDE.md&lt;/a&gt; 进行工作，感觉是 GLM v4.6 本身并不能很好的理解和遵循 CC 所给的一些 Prompts&lt;br /&gt;&lt;br /&gt;2. 经常性的调用一些 CC 不存在的工具&lt;br /&gt;&lt;br /&gt;3. 无法很好的去结合 Claude Code 的 Think 功能，提了 Ticket 给官方说暂不支持，可能考虑未来支持&lt;br /&gt;&lt;br /&gt;4. 它是真的很爱写代码，明明我在 Plan 模式，我都没确认计划就打算开干了</description>
     </item>
     <item>
       <title>上班开发自掏腰包用 AI 编程合适吗？</title>
@@ -32,6 +25,13 @@
 &lt;p&gt;想看看大家是怎么面对这种情况的？
 （不用劝人家离职哈，大环境 dddd&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>GLM v4.6 + Claude Code 可用性极差，被那些软广狠狠坑了一把</title>
+      <link>https://www.v2ex.com/t/1178090</link>
+      <guid>v2ex-1178090</guid>
+      <pubDate>Wed, 10 Dec 2025 09:02:55 GMT</pubDate>
+      <description>我就不拐弯抹角，直接打直球了，非利益相关，我订阅的 PRO 版本的 Coding Plan：&lt;br /&gt;&lt;br /&gt;1. 经常性的不按照 &lt;a target=&quot;_blank&quot; href=&quot;http://CLAUDE.md&quot; rel=&quot;nofollow noopener&quot;&gt;CLAUDE.md&lt;/a&gt; 进行工作，感觉是 GLM v4.6 本身并不能很好的理解和遵循 CC 所给的一些 Prompts&lt;br /&gt;&lt;br /&gt;2. 经常性的调用一些 CC 不存在的工具&lt;br /&gt;&lt;br /&gt;3. 无法很好的去结合 Claude Code 的 Think 功能，提了 Ticket 给官方说暂不支持，可能考虑未来支持&lt;br /&gt;&lt;br /&gt;4. 它是真的很爱写代码，明明我在 Plan 模式，我都没确认计划就打算开干了</description>
     </item>
     <item>
       <title>你们夜里起来尿尿吗?</title>
