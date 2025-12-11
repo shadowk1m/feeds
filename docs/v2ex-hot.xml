@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 11 Dec 2025 06:54:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 07:17:06 GMT</lastBuildDate>
     <item>
       <title>请问大家有什么除了电子产品之外在室内的爱好吗</title>
       <link>https://www.v2ex.com/t/1178169</link>
@@ -27,13 +27,6 @@
 </description>
     </item>
     <item>
-      <title>GLM v4.6 + Claude Code 可用性极差，被那些软广狠狠坑了一把</title>
-      <link>https://www.v2ex.com/t/1178090</link>
-      <guid>v2ex-1178090</guid>
-      <pubDate>Wed, 10 Dec 2025 09:02:55 GMT</pubDate>
-      <description>我就不拐弯抹角，直接打直球了，非利益相关，我订阅的 PRO 版本的 Coding Plan：&lt;br /&gt;&lt;br /&gt;1. 经常性的不按照 &lt;a target=&quot;_blank&quot; href=&quot;http://CLAUDE.md&quot; rel=&quot;nofollow noopener&quot;&gt;CLAUDE.md&lt;/a&gt; 进行工作，感觉是 GLM v4.6 本身并不能很好的理解和遵循 CC 所给的一些 Prompts&lt;br /&gt;&lt;br /&gt;2. 经常性的调用一些 CC 不存在的工具&lt;br /&gt;&lt;br /&gt;3. 无法很好的去结合 Claude Code 的 Think 功能，提了 Ticket 给官方说暂不支持，可能考虑未来支持&lt;br /&gt;&lt;br /&gt;4. 它是真的很爱写代码，明明我在 Plan 模式，我都没确认计划就打算开干了</description>
-    </item>
-    <item>
       <title>你们夜里起来尿尿吗?</title>
       <link>https://www.v2ex.com/t/1178182</link>
       <guid>v2ex-1178182</guid>
@@ -43,23 +36,11 @@
 </description>
     </item>
     <item>
-      <title>020 电信副宽进小黑屋了</title>
-      <link>https://www.v2ex.com/t/1178055</link>
-      <guid>v2ex-1178055</guid>
-      <pubDate>Wed, 10 Dec 2025 07:00:08 GMT</pubDate>
-      <description>&lt;h4&gt;背景&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;不跑 PCDN ，挂了 PT 。&lt;/li&gt;
-&lt;li&gt;宽带 399cny/m ，2000/100 主宽，300/40 副宽，主宽有公网 v4 、v6 ，副宽仅有 v6 ，通过 stun 打洞防火墙转发来保证连接性。&lt;/li&gt;
-&lt;li&gt;不用家宽刷上传，开了专门的盒子刷上传，家宽目前是保种 60T ，限制上传速度 6MB/s ，两条宽带同时上传，差不多是负载均衡的，观察过上传流量相差不超过 20%。实际平时上传在 3MB/s 左右浮动，少量连接特别好的 ip 才能跑到 6MB/s 。挂 pt 接近 7 个月，可统计到的家宽上传流量在 45T 。&lt;/li&gt;
-&lt;li&gt;NAS 有做数据备份，主要是家里的照片视频，一些个人文件，各个设备的备份，搞了定时任务定期上传到百度盘一份，115 一份，走主宽，上传量不大。&lt;/li&gt;
-&lt;li&gt;部署了 Jellyfin ，会在外网看，走主宽，上传量不是很大。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;目前情况&lt;/h4&gt;
-&lt;p&gt;副宽被分配到 100.64 内网网段，v6 公网无法访问，但是主宽一点毛病都没有，说明电信的限速可能跟带宽有关，打电话给 10000 号，客服装傻说限速得找师傅上门看，后台没问题。&lt;/p&gt;
-&lt;p&gt;我这个片区的装维师傅也是个菜，之前找他开 v6 公网双栈他都搞不明白。今天我打电话跟他解释半天 NAT 是什么，为什么测速判断不了（测速网站白名单），公网 v6 无法访问等等等等，费了半天口水他终于搞明白了（大概？），说这个情况他知道，今晚给我上门换个光猫，换个光猫就能解决了。&lt;/p&gt;
-&lt;p&gt;今晚换了再上来给兄弟们汇报情况。&lt;/p&gt;
-</description>
+      <title>GLM v4.6 + Claude Code 可用性极差，被那些软广狠狠坑了一把</title>
+      <link>https://www.v2ex.com/t/1178090</link>
+      <guid>v2ex-1178090</guid>
+      <pubDate>Wed, 10 Dec 2025 09:02:55 GMT</pubDate>
+      <description>我就不拐弯抹角，直接打直球了，非利益相关，我订阅的 PRO 版本的 Coding Plan：&lt;br /&gt;&lt;br /&gt;1. 经常性的不按照 &lt;a target=&quot;_blank&quot; href=&quot;http://CLAUDE.md&quot; rel=&quot;nofollow noopener&quot;&gt;CLAUDE.md&lt;/a&gt; 进行工作，感觉是 GLM v4.6 本身并不能很好的理解和遵循 CC 所给的一些 Prompts&lt;br /&gt;&lt;br /&gt;2. 经常性的调用一些 CC 不存在的工具&lt;br /&gt;&lt;br /&gt;3. 无法很好的去结合 Claude Code 的 Think 功能，提了 Ticket 给官方说暂不支持，可能考虑未来支持&lt;br /&gt;&lt;br /&gt;4. 它是真的很爱写代码，明明我在 Plan 模式，我都没确认计划就打算开干了</description>
     </item>
     <item>
       <title>双 12，四博 AI 小黄鸭做活动 50 元一个</title>
@@ -87,19 +68,19 @@
 </description>
     </item>
     <item>
+      <title>忽略脸，身高，女生最喜欢什么类型的肌肉？</title>
+      <link>https://www.v2ex.com/t/1178200</link>
+      <guid>v2ex-1178200</guid>
+      <pubDate>Thu, 11 Dec 2025 02:46:55 GMT</pubDate>
+      <description>是奥赛罗尼那种&lt;br /&gt;还是彭于晏那种&lt;br /&gt;还是王嘉尔的&lt;br /&gt;亦或者是鹿晗那种薄肌？&lt;br /&gt;&lt;br /&gt;最近我朋友疯狂健身，快成牛蛙了，我感觉我得提醒她，适度健身，不然只能吸引到同性了。</description>
+    </item>
+    <item>
       <title>vivo 加班问题</title>
       <link>https://www.v2ex.com/t/1178161</link>
       <guid>v2ex-1178161</guid>
       <pubDate>Thu, 11 Dec 2025 00:38:02 GMT</pubDate>
       <description>&lt;p&gt;听朋友说 vivo 研发岗工作日每天晚上 10 点后下班，这样哪里还有自己的生活，想问问这是不是真的？&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>忽略脸，身高，女生最喜欢什么类型的肌肉？</title>
-      <link>https://www.v2ex.com/t/1178200</link>
-      <guid>v2ex-1178200</guid>
-      <pubDate>Thu, 11 Dec 2025 02:46:55 GMT</pubDate>
-      <description>是奥赛罗尼那种&lt;br /&gt;还是彭于晏那种&lt;br /&gt;还是王嘉尔的&lt;br /&gt;亦或者是鹿晗那种薄肌？&lt;br /&gt;&lt;br /&gt;最近我朋友疯狂健身，快成牛蛙了，我感觉我得提醒她，适度健身，不然只能吸引到同性了。</description>
     </item>
     <item>
       <title>要是用 Rust 就不会出问题了</title>
@@ -109,6 +90,55 @@
       <description>&lt;p&gt;最近在开发一个新项目，技术选型阶段又一次陷入了 Rust 还是 Go 的问题。&lt;/p&gt;
 &lt;p&gt;实际用 Go 写起来非常顺手，并发模型简单明了，开发效率高，几乎没遇到什么语言层面的坑。从结果上看，项目运行稳定，性能也完全达标。&lt;/p&gt;
 &lt;p&gt;但不知道为什么，总是觉得如果换成 Rust ，内存安全、零成本抽象、模式匹配，可以让代码更稳健，用 Rust 就不会出问题。实际上，Rust 的开发节奏会拖慢进度，而且 Go 的工程表现已经足够好。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>自家种的橙子， 2 元一斤低价出售，不是小果不是瑕疵果，是中大精品果，朋友们 帮帮孩子吧</title>
+      <link>https://www.v2ex.com/t/1178183</link>
+      <guid>v2ex-1178183</guid>
+      <pubDate>Thu, 11 Dec 2025 02:03:12 GMT</pubDate>
+      <description>&lt;h1&gt;自家种植的脐橙上市&lt;/h1&gt;
+&lt;p&gt;自家果园，水果市场真的太难顶了，真的一点都卖不上价，我不敢说我这个是网上最便宜的，但绝对算是最经济实惠那一档了，有需要的朋友，可以帮忙捧个场，或者进链接看看也行，增加一点流量，感谢感谢！&lt;/p&gt;
+&lt;h2&gt;[产品介绍]&lt;/h2&gt;
+&lt;p&gt;新宁地处北纬 26°度，属亚热带季风气候，土壤以富含有机质的紫色土，红黄壤为主，pH 值在 5.5-7.0 之间，富含多种微量元素；
+依托世界自然遗产崀山丹霞地貌，生态环境优良，空气湿度高，昼夜温差大，有利于糖分积累&lt;/p&gt;
+&lt;h2&gt;[产品信息]&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;产地&lt;/strong&gt;：湖南新宁&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;发货快递&lt;/strong&gt;：EMS 邮政&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;发货时效&lt;/strong&gt;：48 小时內；正常情况都是 24 小时内寄出&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;购买须知&lt;/strong&gt;：以下区域需额外补邮费：黑龙江，吉林，辽宁，甘肃，宁夏，内蒙古，青海，新疆，西藏&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;售后服务&lt;/strong&gt;：坏果包赔；下单赠送剥橙器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[价格]&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;带箱 10 斤装（果径 70-80mm) 32 元/箱 （平均 2 元一斤）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;带箱 20 斤装（果径 70-80mm) 59.9 元/箱（平均不到 2 元一斤）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;带箱 10 斤装（果径 80-90mm) 42 元/箱（平均 3 元一斤）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;带箱 20 斤装（果径 80-90mm) 79.9 元/箱（平均不到 3 元一斤）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[下单方式]&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img alt=&quot;脐橙下单地址&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/a/gyouXIx.jpg&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;如果图片没加载出来,也可添加本人卫星：c3RydWdnbGV0b2RheQ==&lt;/li&gt;
+&lt;li&gt;下单图片地址:&lt;a href=&quot;https://imgur.com/a/gyouXIx&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/gyouXIx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;或者直接回帖，我会及时联系您&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;[订单展示]&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img alt=&quot;脐橙展示 1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/a/82oy2gm.jpg&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img alt=&quot;脐橙展示 2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/a/a9mG7HY.jpg&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;(展示图 1： &lt;a href=&quot;https://imgur.com/a/82oy2gm&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/82oy2gm&lt;/a&gt;)   &lt;/li&gt;
+&lt;li&gt;(展示图 2： &lt;a href=&quot;https://imgur.com/a/a9mG7HY&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/a9mG7HY&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
   </channel>
