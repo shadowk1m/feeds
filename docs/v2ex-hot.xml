@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 12 Dec 2025 02:49:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 03:52:17 GMT</lastBuildDate>
     <item>
       <title>同事从大厂出来的，之前不知道 git add 可以提交部分文件，现在又听都没听过 cherry pick</title>
       <link>https://www.v2ex.com/t/1178331</link>
@@ -12,6 +12,23 @@
       <pubDate>Thu, 11 Dec 2025 09:32:49 GMT</pubDate>
       <description>&lt;p&gt;如题，非常不解。难道大厂没有版本管理么？咨询了一下，说是一个人七八个项目，根本没有时间管理。
 压力这么大的么？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Gmail 虽好，但主力邮箱感觉还是要 Outlook</title>
+      <link>https://www.v2ex.com/t/1178237</link>
+      <guid>v2ex-1178237</guid>
+      <pubDate>Thu, 11 Dec 2025 04:09:32 GMT</pubDate>
+      <description>&lt;pre&gt;&lt;code&gt;声明：个人案例，不代表所有人
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我平时的邮件客户端：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS：Spark （需代理）&lt;/li&gt;
+&lt;li&gt;iOS：Gmail （需代理）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;主邮箱是 Gmail ，偏偏昨天服务器崩了，最要命的是当时正等着收 Gmail 的验证码，越着急越无力…&lt;/p&gt;
+&lt;p&gt;今天想了想，干脆以后换成 Outlook 客户端，虽然交互和 UI 不好，但至少不用代理就能正常收发邮件。甚至把所有账号都迁到 Outlook 算了。&lt;/p&gt;
+&lt;p&gt;至于转发，不会考虑，绕来绕去很累。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -30,23 +47,6 @@
 &lt;p&gt;这个项目有接近 10 万行的代码量，99.9% 的代码都是 AI 写的，对于一个只有前端没有后端，且网站的各个部分都相对独立的项目，vibe coding 完全可以胜任。&lt;/p&gt;
 &lt;p&gt;我会同时开多个编辑器，并行让不同 AI 做不同的事情。sonnet 4.5 负责想一个故事线来讲述一本书，gemini 3 负责设计和前端，codex 负责剩下的脏话累活。&lt;/p&gt;
 &lt;p&gt;由于代码是 AI 写的，加上时间有限加上，现在的 Vibary 的内容和体验是不完善甚至有误的，所以游玩时请小心，但请不要恐慌，这个网站基本无害。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Gmail 虽好，但主力邮箱感觉还是要 Outlook</title>
-      <link>https://www.v2ex.com/t/1178237</link>
-      <guid>v2ex-1178237</guid>
-      <pubDate>Thu, 11 Dec 2025 04:09:32 GMT</pubDate>
-      <description>&lt;pre&gt;&lt;code&gt;声明：个人案例，不代表所有人
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我平时的邮件客户端：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;macOS：Spark （需代理）&lt;/li&gt;
-&lt;li&gt;iOS：Gmail （需代理）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;主邮箱是 Gmail ，偏偏昨天服务器崩了，最要命的是当时正等着收 Gmail 的验证码，越着急越无力…&lt;/p&gt;
-&lt;p&gt;今天想了想，干脆以后换成 Outlook 客户端，虽然交互和 UI 不好，但至少不用代理就能正常收发邮件。甚至把所有账号都迁到 Outlook 算了。&lt;/p&gt;
-&lt;p&gt;至于转发，不会考虑，绕来绕去很累。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -78,11 +78,29 @@
 </description>
     </item>
     <item>
-      <title>个人养老金大家都存了吗，这个合适吗</title>
-      <link>https://www.v2ex.com/t/1178222</link>
-      <guid>v2ex-1178222</guid>
-      <pubDate>Thu, 11 Dec 2025 03:27:38 GMT</pubDate>
-      <description>&lt;p&gt;经常有银行，还有保险机构来公司做讲座，可以退税，但是要退休后才能领取，这个合适吗？&lt;/p&gt;
+      <title>公司后端主力开发，涨薪被拒，请各位大佬支招，谢谢</title>
+      <link>https://www.v2ex.com/t/1178382</link>
+      <guid>v2ex-1178382</guid>
+      <pubDate>Thu, 11 Dec 2025 14:54:22 GMT</pubDate>
+      <description>&lt;p&gt;一、背景： 之前空窗期一年，所以入职时被压了薪资； 从刚开始入职后端就自己一个人，把项目维护起来，到现在正式后端加我 2 人，临时外包 3 个（公司有钱）； 入职快半年马上转正了，目前正在跟进一个公司及其重要项目（我+两外包），估计 2 月初上线（这个项目涉及场地施工且已经开始施工，如果我走了，项目上线估计延期，租的场地也要付钱）,所以趁机向领导提了涨薪（说得阴险点就是也想趁机打劫让他涨薪资，毕竟试用期离职只需要提前 3 天）;&lt;/p&gt;
+&lt;p&gt;二、目前情况： 已经和领导谈过一轮，但被拒了，我说再想想，然后今天又找了我一次，我说还没想好。&lt;/p&gt;
+&lt;p&gt;三、理由：
+1 、没碰到过没满半年要涨薪的情况；
+2 、年前会向老板提给部门所有人普调+期权，如果现在给我涨，年前很难再向老板给部门所有人要普调；他没理由去单独申请一次，破坏后面给部门所有人争取普调的机会，（明确普调不会有几千,期间还问了我想涨多少，其实在现在基础上至少+2k,估计最后如果成功也就 2k ）；
+3 、小公司，如果我涨了，部门其他人知道也要求涨怎么办；&lt;/p&gt;
+&lt;p&gt;四、个人理解： 公司在这个项目上砸了将近 2 千万，包括请外包的成本；但现在就是找各种理由不给涨薪，等到年前项目基本做完，涨薪就根本不可能了；&lt;/p&gt;
+&lt;p&gt;五、请各位大佬支支招，&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>早上看到一个视频：村支书发视频助农卖谷物小米，被小米法务投诉侵权</title>
+      <link>https://www.v2ex.com/t/1178410</link>
+      <guid>v2ex-1178410</guid>
+      <pubDate>Fri, 12 Dec 2025 00:55:51 GMT</pubDate>
+      <description>&lt;p&gt;村支书发视频助农卖谷物小米，被小米法务以“侵权”为由投诉下架&lt;/p&gt;
+&lt;p&gt;干你娘的傻逼小米法务&lt;/p&gt;
+&lt;p&gt;我觉得要遏止这种傻逼行为，审核平台很重要，平台如果做到能中立，根据事实驳回，那就没那么多事了&lt;/p&gt;
+&lt;p&gt;就像老人讹人一样，审判的法官如果一开始能公正严明，那讹人是不是就不会爆发&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -158,22 +176,12 @@
 </description>
     </item>
     <item>
-      <title>早上看到一个视频：村支书发视频助农卖谷物小米，被小米法务投诉侵权</title>
-      <link>https://www.v2ex.com/t/1178410</link>
-      <guid>v2ex-1178410</guid>
-      <pubDate>Fri, 12 Dec 2025 00:55:51 GMT</pubDate>
-      <description>&lt;p&gt;村支书发视频助农卖谷物小米，被小米法务以“侵权”为由投诉下架&lt;/p&gt;
-&lt;p&gt;干你娘的傻逼小米法务&lt;/p&gt;
-&lt;p&gt;我觉得要遏止这种傻逼行为，审核平台很重要，平台如果做到能中立，根据事实驳回，那就没那么多事了&lt;/p&gt;
-&lt;p&gt;就像老人讹人一样，审判的法官如果一开始能公正严明，那讹人是不是就不会爆发&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>自己做菜有没有什么做一次可以管几天的懒人方案？</title>
-      <link>https://www.v2ex.com/t/1178247</link>
-      <guid>v2ex-1178247</guid>
-      <pubDate>Thu, 11 Dec 2025 05:00:38 GMT</pubDate>
-      <description>&lt;p&gt;饭可以每天弄，就感觉每天做菜有点麻烦， 有没有做一次菜可以管几天，同时新鲜度和口感不会太差的方案？&lt;/p&gt;
+      <title>在 AI 冲击下，我发现 [书签] 里技术分类已经失去了存在的必要</title>
+      <link>https://www.v2ex.com/t/1178315</link>
+      <guid>v2ex-1178315</guid>
+      <pubDate>Thu, 11 Dec 2025 08:41:49 GMT</pubDate>
+      <description>&lt;p&gt;从学习编程至今，陆续收集整理了一堆关于技术问题的书签栏；在很久之前遇到问题还会去翻阅一下，但是在当下只需要一个 AI 的窗口，我想是时候删除这些书签栏了...
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/ka6sHfK.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
