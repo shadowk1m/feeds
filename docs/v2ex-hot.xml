@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 12 Dec 2025 06:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 07:15:51 GMT</lastBuildDate>
     <item>
       <title>同事从大厂出来的，之前不知道 git add 可以提交部分文件，现在又听都没听过 cherry pick</title>
       <link>https://www.v2ex.com/t/1178331</link>
@@ -22,24 +22,6 @@
       <description>昨天移动的人打电话给免费升级了千兆宽带，升了之后意外的好用。中科大测速能跑满千兆，应用商店软件下载也是千兆，以前一直觉得千兆有什么用服务器下载东西又吃不满带宽，现在感觉是我之前想法有问题。&lt;br /&gt;&lt;br /&gt;坐标广东，这条宽带的价格就每个月 10 元手机卡月租+30 宽带=40/月，很划算。</description>
     </item>
     <item>
-      <title>过去 2 周，我用 Gemini 3 把 42 本书，分别转化成了网页</title>
-      <link>https://www.v2ex.com/t/1178280</link>
-      <guid>v2ex-1178280</guid>
-      <pubDate>Thu, 11 Dec 2025 07:02:18 GMT</pubDate>
-      <description>&lt;p&gt;过去 2 周，我用 Gemini 3 把 42 本书，分别转化成了网页，用可视化的方式去呈现每本书独有的 Vibe 。&lt;/p&gt;
-&lt;p&gt;不过，我想最近你也看了很多 Gemini 3 做的酷炫的网页，兴许有些厌倦了，更别说是书籍这一让人昏昏欲睡的东西了。&lt;/p&gt;
-&lt;p&gt;但如果你想要看看兔子洞里面究竟有什么东西，那么洞口在这里：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.vibary.art&quot; rel=&quot;nofollow&quot;&gt;www.vibary.art&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;之所以做这个项目，是源于之前对媒介的思考。不同媒介可以传达不同的信息和感受，在你跟媒介接触的时候，你便能感受到。&lt;/p&gt;
-&lt;p&gt;如果你想要具体，就去看视频，如果你想要效率，就去刷社媒，如果你想要触动，就去听歌，如果你想要体验，就去玩游戏，如果你想要深入，就去读书。不要抗拒某种媒介。&lt;/p&gt;
-&lt;p&gt;AI 的存在使得不同媒介之间可以相互转化，人们已做了许多的尝试。而在众多媒介当中，网页这一古老的媒介，总是时不时吸引我的注意力，因此我也在做着不同的实验，去看看我们能用网页承载什么东西。&lt;/p&gt;
-&lt;p&gt;Vibary 是其中一个粗浅的尝试，我试图把另一更加古老的媒介书籍，转化成网页，看看会有产生什么效果&lt;/p&gt;
-&lt;p&gt;这个项目有接近 10 万行的代码量，99.9% 的代码都是 AI 写的，对于一个只有前端没有后端，且网站的各个部分都相对独立的项目，vibe coding 完全可以胜任。&lt;/p&gt;
-&lt;p&gt;我会同时开多个编辑器，并行让不同 AI 做不同的事情。sonnet 4.5 负责想一个故事线来讲述一本书，gemini 3 负责设计和前端，codex 负责剩下的脏话累活。&lt;/p&gt;
-&lt;p&gt;由于代码是 AI 写的，加上时间有限加上，现在的 Vibary 的内容和体验是不完善甚至有误的，所以游玩时请小心，但请不要恐慌，这个网站基本无害。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>小米以前说不买梳子给和尚，现在却各种假营销</title>
       <link>https://www.v2ex.com/t/1178420</link>
       <guid>v2ex-1178420</guid>
@@ -50,14 +32,13 @@
 </description>
     </item>
     <item>
-      <title>为即将出生的孩子取名，有请各位小小的发挥一下吧</title>
-      <link>https://www.v2ex.com/t/1178283</link>
-      <guid>v2ex-1178283</guid>
-      <pubDate>Thu, 11 Dec 2025 07:10:53 GMT</pubDate>
-      <description>&lt;ol&gt;
-&lt;li&gt;男女未知。如果可以，顺带输出下含义和来源&lt;/li&gt;
-&lt;li&gt;姓 邓&lt;/li&gt;
-&lt;/ol&gt;
+      <title>v2 真的有真正的大厂程序员吗？</title>
+      <link>https://www.v2ex.com/t/1178455</link>
+      <guid>v2ex-1178455</guid>
+      <pubDate>Fri, 12 Dec 2025 02:20:53 GMT</pubDate>
+      <description>&lt;p&gt;刚刚看到的帖子说大厂出来的程序员不会 git add 和 cherry pick ，但是这种只要用过 jetbrain 的 ide 应该都懂吧。我虽然没在大厂工作过，但是认识不少朋友/同学（腾讯，字节，携程，美团，京东）是大厂工作的，他们基本都是我见过各方面的卷王。在我看来大厂招聘标准是非常严格的，包括我自己的校招经历也是感觉到面试官是有一定力，无论是技术还是算法方面。&lt;/p&gt;
+&lt;p&gt;但是在刚刚的帖子，大部分人都表示认可，这让我对 v2 的人员组成感到非常怀疑。包括其他的时候，v2 偶尔有年薪百万焦虑未来的帖子，帖子下面大家也是见怪不怪的样子，好像年薪百万并不稀奇。但是在那些月薪一万多的帖子下，又好多人说有工作不错了，月薪过万也不错拉。就是给我一种左右脑互博的样子，像以前的知乎。&lt;/p&gt;
+&lt;p&gt;所以说 v2 的人员组成是怎么样的？真正的大厂程序员会上 v2 吗？有没有可能大家只是在这里吹吹牛而已呢？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -73,16 +54,6 @@
 3 、小公司，如果我涨了，部门其他人知道也要求涨怎么办；&lt;/p&gt;
 &lt;p&gt;四、个人理解： 公司在这个项目上砸了将近 2 千万，包括请外包的成本；但现在就是找各种理由不给涨薪，等到年前项目基本做完，涨薪就根本不可能了；&lt;/p&gt;
 &lt;p&gt;五、请各位大佬支支招，&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>v2 真的有真正的大厂程序员吗？</title>
-      <link>https://www.v2ex.com/t/1178455</link>
-      <guid>v2ex-1178455</guid>
-      <pubDate>Fri, 12 Dec 2025 02:20:53 GMT</pubDate>
-      <description>&lt;p&gt;刚刚看到的帖子说大厂出来的程序员不会 git add 和 cherry pick ，但是这种只要用过 jetbrain 的 ide 应该都懂吧。我虽然没在大厂工作过，但是认识不少朋友/同学（腾讯，字节，携程，美团，京东）是大厂工作的，他们基本都是我见过各方面的卷王。在我看来大厂招聘标准是非常严格的，包括我自己的校招经历也是感觉到面试官是有一定力，无论是技术还是算法方面。&lt;/p&gt;
-&lt;p&gt;但是在刚刚的帖子，大部分人都表示认可，这让我对 v2 的人员组成感到非常怀疑。包括其他的时候，v2 偶尔有年薪百万焦虑未来的帖子，帖子下面大家也是见怪不怪的样子，好像年薪百万并不稀奇。但是在那些月薪一万多的帖子下，又好多人说有工作不错了，月薪过万也不错拉。就是给我一种左右脑互博的样子，像以前的知乎。&lt;/p&gt;
-&lt;p&gt;所以说 v2 的人员组成是怎么样的？真正的大厂程序员会上 v2 吗？有没有可能大家只是在这里吹吹牛而已呢？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -111,6 +82,34 @@
       <guid>v2ex-1178408</guid>
       <pubDate>Fri, 12 Dec 2025 00:51:53 GMT</pubDate>
       <description>之前说的房子已经卖掉了 &lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1125362&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.v2ex.com/t/1125362&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;家里还有套老破小，当时装修的不错，周边配套也比较完善，全天采光。在总层高 5 层顶楼，2000 年建成，楼龄 25+，110 平三居步梯房，实际上小卧室只能做书房，或者摆张单人床&lt;br /&gt;&lt;br /&gt;现在对户想卖房，是个东边户，35 万还能谈，需要重新装修，总体成本至少 50 万&lt;br /&gt;&lt;br /&gt;我想接手过来打通成一套。&lt;br /&gt;&lt;br /&gt;购入原因：主要是本人睡眠特别轻，有点动静就会醒。失眠困扰很多年。主要是想找一个安静的房子，当年从这里搬走也是因为他家经常性的对小孩咆哮，摔门，半夜小孩补作业崩溃到大吼大叫。要是到别的地方买房邻居素质也是个不确定因素，试错成本太高了&lt;br /&gt;&lt;br /&gt; 预想中的平面图：&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/RRRENHF.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RRRENHF.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>都看过神秘园的视频吗</title>
+      <link>https://www.v2ex.com/t/1178429</link>
+      <guid>v2ex-1178429</guid>
+      <pubDate>Fri, 12 Dec 2025 01:42:06 GMT</pubDate>
+      <description>&lt;p&gt;最近一直在看神秘园视频，户外徒步真是太危险了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>避雷百度搜索，这次微软 Bing 搜索“放血硬钢”！</title>
+      <link>https://www.v2ex.com/t/1178437</link>
+      <guid>v2ex-1178437</guid>
+      <pubDate>Fri, 12 Dec 2025 01:50:01 GMT</pubDate>
+      <description>&lt;p&gt;百度曾经的“优等生”，没想到现在已沦为互联网的“差等生”！&lt;/p&gt;
+&lt;p&gt;我记得有段时间百度搜索最高的时候的占比接近 90%，现在基本上“放弃治疗了”。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://files.mdnice.com/user/4562/1cb7d63e-ea4d-4b9a-822c-63d970f76cab.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;今天在某乎上刷到这条帖子：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://mmbiz.qpic.cn/sz_mmbiz_png/bBh8n8pc5NByiclVSSAhXibibpSNE193b0YfbEliaUlibQTrnBmO7WZdo2aSpibed0EbVfPyGOcCicEGib9xpQ7rM453ug/640?wx_fmt=png&amp;amp;from=appmsg&amp;amp;wxfrom=13&amp;amp;tp=wxpic#imgIndex=0&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;微软确实是“放血硬钢”，用 Bing 搜索就可以薅羊毛（可兑换原神原石、天猫、京东购物卡）&lt;/p&gt;
+&lt;p&gt;参与“微软积分计划”。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://rewards.bing.com/welcome?rh=3F4D89D2&amp;amp;ref=rafsrchae&amp;amp;form=ML2XE3&amp;amp;CREA=ML2XE3&amp;amp;form=ML2XE3&amp;amp;OCID=ML2XE3&amp;amp;PUBL=RewardsDO&amp;amp;CREA=ML2XE3&quot; rel=&quot;nofollow&quot;&gt;https://rewards.bing.com/welcome?rh=3F4D89D2&amp;amp;ref=rafsrchae&amp;amp;form=ML2XE3&amp;amp;CREA=ML2XE3&amp;amp;form=ML2XE3&amp;amp;OCID=ML2XE3&amp;amp;PUBL=RewardsDO&amp;amp;CREA=ML2XE3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;拿走收藏一下：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://mmbiz.qpic.cn/sz_mmbiz_png/bBh8n8pc5NByiclVSSAhXibibpSNE193b0YqRlbmyckcJYyAic2uw5r6InsVbHuDh8tPUaLH3XEVZXpSv3xBS8gvjg/640?wx_fmt=png&amp;amp;from=appmsg&amp;amp;tp=wxpic&amp;amp;wxfrom=5&amp;amp;wx_lazy=1#imgIndex=4&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;确实有人兑换到了：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://files.mdnice.com/user/4562/7de0ef1c-54e4-41f5-8e84-21b8e499e78b.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://mmbiz.qpic.cn/sz_mmbiz_png/bBh8n8pc5NByiclVSSAhXibibpSNE193b0Y1SL47nIwHeIUfXwulIv7E4DhqTgOPvpUdsP3pCXpiaHZrtNPe7KZ0TA/640?wx_fmt=png&amp;amp;from=appmsg&amp;amp;tp=wxpic&amp;amp;wxfrom=5&amp;amp;wx_lazy=1#imgIndex=12&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
