@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 11 Dec 2025 23:37:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 00:56:13 GMT</lastBuildDate>
     <item>
       <title>请问大家有什么除了电子产品之外在室内的爱好吗</title>
       <link>https://www.v2ex.com/t/1178169</link>
@@ -109,16 +109,6 @@
 </description>
     </item>
     <item>
-      <title>要是用 Rust 就不会出问题了</title>
-      <link>https://www.v2ex.com/t/1178177</link>
-      <guid>v2ex-1178177</guid>
-      <pubDate>Thu, 11 Dec 2025 01:38:00 GMT</pubDate>
-      <description>&lt;p&gt;最近在开发一个新项目，技术选型阶段又一次陷入了 Rust 还是 Go 的问题。&lt;/p&gt;
-&lt;p&gt;实际用 Go 写起来非常顺手，并发模型简单明了，开发效率高，几乎没遇到什么语言层面的坑。从结果上看，项目运行稳定，性能也完全达标。&lt;/p&gt;
-&lt;p&gt;但不知道为什么，总是觉得如果换成 Rust ，内存安全、零成本抽象、模式匹配，可以让代码更稳健，用 Rust 就不会出问题。实际上，Rust 的开发节奏会拖慢进度，而且 Go 的工程表现已经足够好。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>过去 2 周，我用 Gemini 3 把 42 本书，分别转化成了网页</title>
       <link>https://www.v2ex.com/t/1178280</link>
       <guid>v2ex-1178280</guid>
@@ -137,11 +127,22 @@
 </description>
     </item>
     <item>
-      <title>vivo 加班问题</title>
-      <link>https://www.v2ex.com/t/1178161</link>
-      <guid>v2ex-1178161</guid>
-      <pubDate>Thu, 11 Dec 2025 00:38:02 GMT</pubDate>
-      <description>&lt;p&gt;听朋友说 vivo 研发岗工作日每天晚上 10 点后下班，这样哪里还有自己的生活，想问问这是不是真的？&lt;/p&gt;
+      <title>要是用 Rust 就不会出问题了</title>
+      <link>https://www.v2ex.com/t/1178177</link>
+      <guid>v2ex-1178177</guid>
+      <pubDate>Thu, 11 Dec 2025 01:38:00 GMT</pubDate>
+      <description>&lt;p&gt;最近在开发一个新项目，技术选型阶段又一次陷入了 Rust 还是 Go 的问题。&lt;/p&gt;
+&lt;p&gt;实际用 Go 写起来非常顺手，并发模型简单明了，开发效率高，几乎没遇到什么语言层面的坑。从结果上看，项目运行稳定，性能也完全达标。&lt;/p&gt;
+&lt;p&gt;但不知道为什么，总是觉得如果换成 Rust ，内存安全、零成本抽象、模式匹配，可以让代码更稳健，用 Rust 就不会出问题。实际上，Rust 的开发节奏会拖慢进度，而且 Go 的工程表现已经足够好。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>同事从大厂出来的，之前不知道 git add 可以提交部分文件，现在又听都没听过 cherry pick</title>
+      <link>https://www.v2ex.com/t/1178331</link>
+      <guid>v2ex-1178331</guid>
+      <pubDate>Thu, 11 Dec 2025 09:32:49 GMT</pubDate>
+      <description>&lt;p&gt;如题，非常不解。难道大厂没有版本管理么？咨询了一下，说是一个人七八个项目，根本没有时间管理。
+压力这么大的么？&lt;/p&gt;
 </description>
     </item>
     <item>
