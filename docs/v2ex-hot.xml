@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 12 Dec 2025 04:51:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 05:13:43 GMT</lastBuildDate>
     <item>
       <title>同事从大厂出来的，之前不知道 git add 可以提交部分文件，现在又听都没听过 cherry pick</title>
       <link>https://www.v2ex.com/t/1178331</link>
@@ -97,78 +97,6 @@
 </description>
     </item>
     <item>
-      <title>以前写 Python 被 go 鄙视；现在写 go 被 rust 鄙视...</title>
-      <link>https://www.v2ex.com/t/1178244</link>
-      <guid>v2ex-1178244</guid>
-      <pubDate>Thu, 11 Dec 2025 04:53:42 GMT</pubDate>
-      <description>&lt;p&gt;后面写 rust 会不会被 zig 鄙视...
-最后会不会被写 c 语言的鄙视 一直属于王者地位&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;                      ┌──────────────────────────┐
-                      │      硬件 / 电路 / 芯片   │
-                      │ (FPGA / ASIC / 驱动开发) │
-                      └──────────▲───────────────┘
-                                 │
-                      ┌──────────┴──────────┐
-                      │    汇编 / 裸 C      │
-                      │(自己写启动代码那种) │
-                      └──────────▲──────────┘
-                                 │
-                      ┌──────────┴──────────┐
-                      │      系统级开发      │
-                      │   C / C++ / Rust    │
-                      │(内核/DB/编译器/RTOS)│
-                      └───────▲────▲───────┘
-                              │    │
-                   ┌──────────┘    └──────────┐
-                   │                          │
-       ┌───────────┴───────────┐   ┌─────────┴─────────┐
-       │      高性能服务端       │   │     安全 / 密码学  │
-       │   Rust / C++ / Go      │   │     Rust / C      │
-       └──────────▲────────────┘   └────────▲──────────┘
-                  │                        │
-                  │                        │   （互相看不顺眼）
-       ┌──────────┴──────────┐             │
-       │   正常业务后端开发   │             │
-       │  Go / Java / C#     │◄────────────┘
-       │(微服务 / CRUD / RPC)│
-       └──────────▲──────────┘
-                  │
-    ┌─────────────┴─────────────┐
-    │        脚本 &amp;amp; 应用层       │
-    │ Python / Ruby / PHP / Node│
-    │(Web, 运维脚本, AI glue)   │
-    └─────────────▲─────────────┘
-                  │
-    ┌─────────────┴─────────────┐
-    │         前端工程化         │
-    │ TypeScript / React / Vue  │
-    │(构建工具 / 工程体系 / DX)  │
-    └─────────────▲─────────────┘
-                  │
-    ┌─────────────┴─────────────┐
-    │        传统切图仔形象      │
-    │   HTML / CSS / jQuery     │
-    │ (我真没写这么说的是后端)   │
-    └─────────────▲─────────────┘
-                  │
-    ┌─────────────┴─────────────┐
-    │         低代码 / no-code   │
-    │   “会点拖拽就能上线页面”   │
-    └─────────────▲─────────────┘
-                  │
-    ┌─────────────┴─────────────┐
-    │        产品 / 运营 / PM    │
-    │ “这个很简单吧，一天能做完” │
-    └─────────────▲─────────────┘
-                  │
-    ┌─────────────┴─────────────┐
-    │         甲方 / 老板        │
-    │    “这不过就是改几行”      │
-    └────────────────────────────┘
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    <item>
       <title>在 AI 冲击下，我发现 [书签] 里技术分类已经失去了存在的必要</title>
       <link>https://www.v2ex.com/t/1178315</link>
       <guid>v2ex-1178315</guid>
@@ -176,6 +104,13 @@
       <description>&lt;p&gt;从学习编程至今，陆续收集整理了一堆关于技术问题的书签栏；在很久之前遇到问题还会去翻阅一下，但是在当下只需要一个 AI 的窗口，我想是时候删除这些书签栏了...
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/ka6sHfK.png&quot;/&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>我该接盘老破小吗</title>
+      <link>https://www.v2ex.com/t/1178408</link>
+      <guid>v2ex-1178408</guid>
+      <pubDate>Fri, 12 Dec 2025 00:51:53 GMT</pubDate>
+      <description>之前说的房子已经卖掉了 &lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1125362&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.v2ex.com/t/1125362&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;家里还有套老破小，当时装修的不错，周边配套也比较完善，全天采光。在总层高 5 层顶楼，2000 年建成，楼龄 25+，110 平三居步梯房，实际上小卧室只能做书房，或者摆张单人床&lt;br /&gt;&lt;br /&gt;现在对户想卖房，是个东边户，35 万还能谈，需要重新装修，总体成本至少 50 万&lt;br /&gt;&lt;br /&gt;我想接手过来打通成一套。&lt;br /&gt;&lt;br /&gt;购入原因：主要是本人睡眠特别轻，有点动静就会醒。失眠困扰很多年。主要是想找一个安静的房子，当年从这里搬走也是因为他家经常性的对小孩咆哮，摔门，半夜小孩补作业崩溃到大吼大叫。要是到别的地方买房邻居素质也是个不确定因素，试错成本太高了&lt;br /&gt;&lt;br /&gt; 预想中的平面图：&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/RRRENHF.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RRRENHF.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
