@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 13 Dec 2025 05:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 05:41:15 GMT</lastBuildDate>
     <item>
       <title>隔壁 LinuxDo 的注册真给我整笑了</title>
       <link>https://www.v2ex.com/t/1178578</link>
@@ -29,56 +29,6 @@
 </description>
     </item>
     <item>
-      <title>全世界，整个历史上，评价最高的游戏诞生了</title>
-      <link>https://www.v2ex.com/t/1178510</link>
-      <guid>v2ex-1178510</guid>
-      <pubDate>Fri, 12 Dec 2025 05:35:04 GMT</pubDate>
-      <description>&lt;p&gt;33 号远征队拿到了 TGA2025 那么多奖项&lt;/p&gt;
-&lt;p&gt;年度最佳游戏
-最佳角色扮演游戏
-最佳叙事游戏
-最佳独立游戏
-最佳独立处女作
-最佳游戏指导
-最佳艺术指导
-最佳配乐/音乐
-最佳表演&lt;/p&gt;
-&lt;p&gt;加上 metacritic 用户评分拿到历史最高 9.6&lt;/p&gt;
-&lt;p&gt;那它真的差不多是全世界历史上评价最高的游戏啦&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;我还没玩，想问问大家对这游戏体验如何？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>大家希望自己的孩子熟练掌握 Python 吗</title>
-      <link>https://www.v2ex.com/t/1178509</link>
-      <guid>v2ex-1178509</guid>
-      <pubDate>Fri, 12 Dec 2025 05:34:39 GMT</pubDate>
-      <description>&lt;p&gt;最近在思考孩子的教育路径，想听听大家的看法。&lt;/p&gt;
-&lt;p&gt;Python 作为胶水语言入门首选，一直以来在教育界地位很高。但站在 2024/2025 年的节点上，结合现在的技术趋势，开始重新审视 Python 对下一代的必要性。&lt;/p&gt;
-&lt;p&gt;想和大家探讨几个维度：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Python 的特殊性 vs 工程化能力
-Python 语法简洁，上手极快，确实适合培养编程思维。但它的动态类型、GIL 锁以及相对较弱的工程约束，是否会让孩子在早期养成一些“随性”的编码习惯？相比之下，Rust 这种强调内存安全、类型系统严谨的语言，或者 TypeScript/JavaScript 这种即时反馈强、Web 生态无处不在的语言，是否更能锻炼严谨的计算机科学素养？&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;LLM 时代的“语言通胀”
-现在的 LLM 最擅长的就是 Python 。写一个爬虫、数据分析脚本，甚至是一个简单的 Flask/FastAPI 服务，AI 生成的代码质量已经非常高了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;观点 A：既然 AI 都会写 Python ，人就不需要精通了，懂逻辑就行。&lt;/li&gt;
-&lt;li&gt;观点 B：正因为 AI 擅长 Python ，掌握 Python 才能更好地指挥 AI ，它是连接人类意图和 AI 算力的最佳桥梁。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;未来的竞争力在哪里？
-如果未来的编程更多是“自然语言编程”或者“架构设计”，那么花大量时间去背诵 Python 的标准库、纠结 Pandas 的各种 trick ，性价比还高吗？还是说应该直接跳过脚本语言，让孩子接触更底层的系统编程（ C/Rust ）或者更抽象的数学逻辑？&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;大家怎么看？大家希望自己的孩子熟练掌握 Python 吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>google 账号被停用了</title>
       <link>https://www.v2ex.com/t/1178599</link>
       <guid>v2ex-1178599</guid>
@@ -93,14 +43,6 @@ Python 语法简洁，上手极快，确实适合培养编程思维。但它的�
       <description>半年前买过一次会员，用了一个月，模型和其他方面都觉得还行，最难受的就是打开一段时间后就会巨卡，不管前端项目还是后端项目，搞的我一点都不想续费。&lt;br /&gt;中间很长一段时间都是 vscode+插件智能填充&lt;br /&gt;大佬们有没有其他 IDE 选择 国产的也行，价格适中 10 刀以内吧</description>
     </item>
     <item>
-      <title>钉钉文档崩了？</title>
-      <link>https://www.v2ex.com/t/1178560</link>
-      <guid>v2ex-1178560</guid>
-      <pubDate>Fri, 12 Dec 2025 08:24:53 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.erpweb.eu.org/imgs/2025/12/24ae425590cab617.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>ios26.2 正式版发布</title>
       <link>https://www.v2ex.com/t/1178642</link>
       <guid>v2ex-1178642</guid>
@@ -109,6 +51,21 @@ Python 语法简洁，上手极快，确实适合培养编程思维。但它的�
 另外，我比较关注是 wifi 断连的问题，听说也修复了。
 大家都会升级不&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>钉钉文档崩了？</title>
+      <link>https://www.v2ex.com/t/1178560</link>
+      <guid>v2ex-1178560</guid>
+      <pubDate>Fri, 12 Dec 2025 08:24:53 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.erpweb.eu.org/imgs/2025/12/24ae425590cab617.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>想给母亲换一台安卓手机，各位大佬帮忙推荐下，谢谢</title>
+      <link>https://www.v2ex.com/t/1178626</link>
+      <guid>v2ex-1178626</guid>
+      <pubDate>Fri, 12 Dec 2025 14:25:10 GMT</pubDate>
+      <description>我自己一直用苹果全家桶的，不太懂安卓手机，老妈现在的手机用了 3,4 年现在会偶尔比较卡顿了，我说给他换个苹果他说还是喜欢用安卓系统让我给她换个新款安卓手机。&lt;br /&gt;&lt;br /&gt;预算 3500-5000 之间都可以（华为除外），谢谢各位大佬推荐，屏幕不用那种特别巨大的，正常尺寸就行。</description>
     </item>
     <item>
       <title>怎么我的 M1 MacbookAir 系统只能升级 26.2 了</title>
@@ -126,6 +83,13 @@ Python 语法简洁，上手极快，确实适合培养编程思维。但它的�
       <guid>v2ex-1178511</guid>
       <pubDate>Fri, 12 Dec 2025 05:45:16 GMT</pubDate>
       <description>2025-TGA 年度最佳游戏: 《光与影： 33 号远征队》</description>
+    </item>
+    <item>
+      <title>实时记录一帖用了 8 年的 APPLE ID 被封+申诉求解封的经历</title>
+      <link>https://www.v2ex.com/t/1178614</link>
+      <guid>v2ex-1178614</guid>
+      <pubDate>Fri, 12 Dec 2025 11:11:27 GMT</pubDate>
+      <description>先说明背景：楼主有自己的 SSN ，美国区 Apple id 付款方式绑定的也是楼主本人的 Apple card ，从没用过任何第三方的 App Store 充值卡。有一个主香港 ID ，一个备美国 ID （用来下载美国银行网银之类的 App ，基本上不怎么使用 iCloud ）。香港 ID 和美国 ID ，两个账号近 3 年几乎没有任何的 App Store 内购退款。被封禁的主 ID 开了 iCloud 2T 的套餐。&lt;br /&gt;&lt;br /&gt;事件经过：因为今年下半年好像是 8 月？苹果推出了 AppleCare One 的套餐，楼主就把手里的 Macbook Pro 从 M1 换到了美版的 M4 ，用了美国 ID （下文就用 B APPLE ID 代替）买了 AppleCare one 的套餐，但是套餐里空余了 2 个席位就有点心痒痒，11 月下单了一台美版的 iPhone Air ，到手后发现必须一直长时间要在设置里登陆 B ID 账号，所以就把香港的主 ID 账号改到了美国然后重新把 iPhone Air 和 Macbook pro 加到一个套餐里。期间也一直正常购买 App 内购之类的订阅从没任何问题。因为最近在准备考试，需要和三星 Fold 上找能联动的笔记 App ，就在 App Store 免费试用了 2 个笔记软件，发现没办法和三星同步，随后取消订阅。&lt;br /&gt;&lt;br /&gt;重点来了，12 月 9 号，楼主想要订阅年轮 3 永久会员的时候，直接提示我我的购买无法完成，随即尝试更换付款卡为 Amex 还是失败，感觉坏菜了，并且联系美国的客服，客服大妈和我说等 72 小时之后再试。随即立即火速下单群晖的 NAS ，因为 iCloud 里面有接近 8 万张照片，视频就更多了。只能说最好最坏的打算，然后就一直苦等煎熬到今天结果今天更新 App 的时候直接提示“你的账户已在 App Store 和 iTunes 中被禁用”，尝试 &lt;a target=&quot;_blank&quot; href=&quot;https://support.apple.com/en-us/108100&quot; rel=&quot;nofollow noopener&quot;&gt;https://support.apple.com/en-us/108100&lt;/a&gt; 自助解封失败，网页随即给了一个 Case ID ，又去联系美国客服，美国客服和我说帮我提交了重新激活账户的申请，让我继续在等 24 小时，但是他也不保证 100%可以恢复“You can TRY to use your account again after 24 hours”, 目前的情况就是这样了，然后不争气的一块 12T 的硬盘还挂了，RAID 重建还需要 18 个小时，导致群晖开不了虚拟机下载 iCloud 照片和视频。。。&lt;br /&gt;等明天的这个时候看看账户什么情况吧，实在不行再上海 12315 和给 Tim cook 写邮件吧。&lt;br /&gt;&lt;br /&gt;本来打算等考完试之后圣诞节再买群晖送自己当礼物的，结果硬生生的给我计划全打乱了，这件事情告诉我们不要把鸡蛋全放在一个篮子里，即使是用自己的合法身份，来路干净的钱，甚至是苹果自己家的 Apple Card 作为付款方式都能被封禁，真是太离谱了。作为一个从 iPhone6 到现在的 17PM 再到 iPhone Air 的忠实用户，苹果真的有点让我寒心了，静等账户的后续吧。</description>
     </item>
   </channel>
 </rss>
