@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 13 Dec 2025 09:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 09:36:53 GMT</lastBuildDate>
     <item>
       <title>google 账号被停用了</title>
       <link>https://www.v2ex.com/t/1178599</link>
@@ -48,13 +48,6 @@
 </description>
     </item>
     <item>
-      <title>实时记录一帖用了 8 年的 APPLE ID 被封+申诉求解封的经历</title>
-      <link>https://www.v2ex.com/t/1178614</link>
-      <guid>v2ex-1178614</guid>
-      <pubDate>Fri, 12 Dec 2025 11:11:27 GMT</pubDate>
-      <description>先说明背景：楼主有自己的 SSN ，美国区 Apple id 付款方式绑定的也是楼主本人的 Apple card ，从没用过任何第三方的 App Store 充值卡。有一个主香港 ID ，一个备美国 ID （用来下载美国银行网银之类的 App ，基本上不怎么使用 iCloud ）。香港 ID 和美国 ID ，两个账号近 3 年几乎没有任何的 App Store 内购退款。被封禁的主 ID 开了 iCloud 2T 的套餐。&lt;br /&gt;&lt;br /&gt;事件经过：因为今年下半年好像是 8 月？苹果推出了 AppleCare One 的套餐，楼主就把手里的 Macbook Pro 从 M1 换到了美版的 M4 ，用了美国 ID （下文就用 B APPLE ID 代替）买了 AppleCare one 的套餐，但是套餐里空余了 2 个席位就有点心痒痒，11 月下单了一台美版的 iPhone Air ，到手后发现必须一直长时间要在设置里登陆 B ID 账号，所以就把香港的主 ID 账号改到了美国然后重新把 iPhone Air 和 Macbook pro 加到一个套餐里。期间也一直正常购买 App 内购之类的订阅从没任何问题。因为最近在准备考试，需要和三星 Fold 上找能联动的笔记 App ，就在 App Store 免费试用了 2 个笔记软件，发现没办法和三星同步，随后取消订阅。&lt;br /&gt;&lt;br /&gt;重点来了，12 月 9 号，楼主想要订阅年轮 3 永久会员的时候，直接提示我我的购买无法完成，随即尝试更换付款卡为 Amex 还是失败，感觉坏菜了，并且联系美国的客服，客服大妈和我说等 72 小时之后再试。随即立即火速下单群晖的 NAS ，因为 iCloud 里面有接近 8 万张照片，视频就更多了。只能说最好最坏的打算，然后就一直苦等煎熬到今天结果今天更新 App 的时候直接提示“你的账户已在 App Store 和 iTunes 中被禁用”，尝试 &lt;a target=&quot;_blank&quot; href=&quot;https://support.apple.com/en-us/108100&quot; rel=&quot;nofollow noopener&quot;&gt;https://support.apple.com/en-us/108100&lt;/a&gt; 自助解封失败，网页随即给了一个 Case ID ，又去联系美国客服，美国客服和我说帮我提交了重新激活账户的申请，让我继续在等 24 小时，但是他也不保证 100%可以恢复“You can TRY to use your account again after 24 hours”, 目前的情况就是这样了，然后不争气的一块 12T 的硬盘还挂了，RAID 重建还需要 18 个小时，导致群晖开不了虚拟机下载 iCloud 照片和视频。。。&lt;br /&gt;等明天的这个时候看看账户什么情况吧，实在不行再上海 12315 和给 Tim cook 写邮件吧。&lt;br /&gt;&lt;br /&gt;本来打算等考完试之后圣诞节再买群晖送自己当礼物的，结果硬生生的给我计划全打乱了，这件事情告诉我们不要把鸡蛋全放在一个篮子里，即使是用自己的合法身份，来路干净的钱，甚至是苹果自己家的 Apple Card 作为付款方式都能被封禁，真是太离谱了。作为一个从 iPhone6 到现在的 17PM 再到 iPhone Air 的忠实用户，苹果真的有点让我寒心了，静等账户的后续吧。</description>
-    </item>
-    <item>
       <title>不是单身的有必要买 115 会员吗</title>
       <link>https://www.v2ex.com/t/1178662</link>
       <guid>v2ex-1178662</guid>
@@ -80,6 +73,13 @@
 </description>
     </item>
     <item>
+      <title>实时记录一帖用了 8 年的 APPLE ID 被封+申诉求解封的经历</title>
+      <link>https://www.v2ex.com/t/1178614</link>
+      <guid>v2ex-1178614</guid>
+      <pubDate>Fri, 12 Dec 2025 11:11:27 GMT</pubDate>
+      <description>先说明背景：楼主有自己的 SSN ，美国区 Apple id 付款方式绑定的也是楼主本人的 Apple card ，从没用过任何第三方的 App Store 充值卡。有一个主香港 ID ，一个备美国 ID （用来下载美国银行网银之类的 App ，基本上不怎么使用 iCloud ）。香港 ID 和美国 ID ，两个账号近 3 年几乎没有任何的 App Store 内购退款。被封禁的主 ID 开了 iCloud 2T 的套餐。&lt;br /&gt;&lt;br /&gt;事件经过：因为今年下半年好像是 8 月？苹果推出了 AppleCare One 的套餐，楼主就把手里的 Macbook Pro 从 M1 换到了美版的 M4 ，用了美国 ID （下文就用 B APPLE ID 代替）买了 AppleCare one 的套餐，但是套餐里空余了 2 个席位就有点心痒痒，11 月下单了一台美版的 iPhone Air ，到手后发现必须一直长时间要在设置里登陆 B ID 账号，所以就把香港的主 ID 账号改到了美国然后重新把 iPhone Air 和 Macbook pro 加到一个套餐里。期间也一直正常购买 App 内购之类的订阅从没任何问题。因为最近在准备考试，需要和三星 Fold 上找能联动的笔记 App ，就在 App Store 免费试用了 2 个笔记软件，发现没办法和三星同步，随后取消订阅。&lt;br /&gt;&lt;br /&gt;重点来了，12 月 9 号，楼主想要订阅年轮 3 永久会员的时候，直接提示我我的购买无法完成，随即尝试更换付款卡为 Amex 还是失败，感觉坏菜了，并且联系美国的客服，客服大妈和我说等 72 小时之后再试。随即立即火速下单群晖的 NAS ，因为 iCloud 里面有接近 8 万张照片，视频就更多了。只能说最好最坏的打算，然后就一直苦等煎熬到今天结果今天更新 App 的时候直接提示“你的账户已在 App Store 和 iTunes 中被禁用”，尝试 &lt;a target=&quot;_blank&quot; href=&quot;https://support.apple.com/en-us/108100&quot; rel=&quot;nofollow noopener&quot;&gt;https://support.apple.com/en-us/108100&lt;/a&gt; 自助解封失败，网页随即给了一个 Case ID ，又去联系美国客服，美国客服和我说帮我提交了重新激活账户的申请，让我继续在等 24 小时，但是他也不保证 100%可以恢复“You can TRY to use your account again after 24 hours”, 目前的情况就是这样了，然后不争气的一块 12T 的硬盘还挂了，RAID 重建还需要 18 个小时，导致群晖开不了虚拟机下载 iCloud 照片和视频。。。&lt;br /&gt;等明天的这个时候看看账户什么情况吧，实在不行再上海 12315 和给 Tim cook 写邮件吧。&lt;br /&gt;&lt;br /&gt;本来打算等考完试之后圣诞节再买群晖送自己当礼物的，结果硬生生的给我计划全打乱了，这件事情告诉我们不要把鸡蛋全放在一个篮子里，即使是用自己的合法身份，来路干净的钱，甚至是苹果自己家的 Apple Card 作为付款方式都能被封禁，真是太离谱了。作为一个从 iPhone6 到现在的 17PM 再到 iPhone Air 的忠实用户，苹果真的有点让我寒心了，静等账户的后续吧。</description>
+    </item>
+    <item>
       <title>给 3W 块喝茶费，入职月薪 3k 岗位</title>
       <link>https://www.v2ex.com/t/1178620</link>
       <guid>v2ex-1178620</guid>
@@ -87,11 +87,48 @@
       <description>年底被公司裁员，回老家休息，在县城老家期间也持续留意这里的工作机会，这几天跟一位朋友聊天，说他认识一个我们县城一家国企的负责人，可以背后运作一下，给我安排个岗位，不过得给个 3w 块钱喝茶费，我打听了一下，这个岗位工资也就 3-4k 的水平，奖金绩效全拿也不会超过 6k ，相当于还没进去就得先贡献一年的工资。&lt;br /&gt;&lt;br /&gt;其实据我的了解，这个国企签的也是劳动合同，有没编制，跟在民营公司打工一样，它在县城的优势就是，五险一金齐全+双休，说出去好听一点，国企嘛，但是说不好听的，裁员优化这些操作，也是分分钟的事情，万一我运气特别差，一年没到就被优化裁员了，岂不是连本金都赚不回来？哈哈哈~</description>
     </item>
     <item>
-      <title>小米 fold3 内屏漏液，纠结换机还是换屏幕。想继续使用 root 的手机好像难搞了</title>
-      <link>https://www.v2ex.com/t/1178646</link>
-      <guid>v2ex-1178646</guid>
-      <pubDate>Sat, 13 Dec 2025 02:18:10 GMT</pubDate>
-      <description>有没有 mix fold3 换过内屏幕的，求个参考价格。以前换个外屏幕已经算是比较贵了。。。现在内屏只能看，无法触屏了。正在犹豫要不要先把数据导出来。fold3 存储空间 1T 占了 600 多 G,而以前的小米 10 是 256G 又装不下数据。而且小米 10 好像不支持 kernesu 吧，(刚刚去酷安搜，结果搜不到，全是第三方 rom 或开箱帖子还有一些入门帖)Mi10 好久没开机 还是旧版面具。迁移 app 就怕各种 app 的风控，后续即使换机了 风控可能会跟着账号走。去维修点的话，人不在省城就只能寄走，寄走前又要陷入迁移 app 的纠结......当初买 fold3 就是冲着&quot;折叠屏+可 root&quot;的，现在可以放弃折叠了，但 root 的选择就不好选了，看见网上讨论 tee 的也不少</description>
+      <title>两周做了快十款产品后，过去一周我又做了什么呢</title>
+      <link>https://www.v2ex.com/t/1178671</link>
+      <guid>v2ex-1178671</guid>
+      <pubDate>Sat, 13 Dec 2025 06:10:24 GMT</pubDate>
+      <description>&lt;p&gt;大家好，我是 Glenn ，过去几周的时间，我开始了我的 AI Coding 挑战，一周做至少一款产品，争取做出来大家喜欢好用的有影响力的产品。产品的选题会从我实际上遇到的问题和感兴趣的方向出发去做，主要专注于效率工具方向。&lt;/p&gt;
+&lt;p&gt;过去几周做的部分项目：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://modern-mermaid.live&quot; rel=&quot;nofollow&quot;&gt;Modern Mermaid&lt;/a&gt;：全世界最好看的 mermaid 流程图设计网站&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/gotoailab/llmhub&quot; rel=&quot;nofollow&quot;&gt;llmhub&lt;/a&gt;：一个 golang 的 llm 基础库，把大部分的 llm 厂商统一成一个接口，可以接入不同的 golang 项目&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/gotoailab/llmgit&quot; rel=&quot;nofollow&quot;&gt;llmgit&lt;/a&gt;：基于上面的 llmhub 项目做的 git 命令行终端工具，跟 git 一样的使用，加多了更多的 ai 功能，比如：ai 生成 commit ，ai 生成 changelog ，ai 审查代码等等&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/gotoailab/trendhub&quot; rel=&quot;nofollow&quot;&gt;trendhub&lt;/a&gt;：一个热点趋势的过推送滤平台，体验：&lt;a href=&quot;https://trendhub.wowwwow.cn&quot; rel=&quot;nofollow&quot;&gt;https://trendhub.wowwwow.cn&lt;/a&gt;，自定义每天的推送热点&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/gotoailab/simple-db-web&quot; rel=&quot;nofollow&quot;&gt;simple-db-web&lt;/a&gt;：一个 golang 编写的 web 端数据库管理工具，小而美，支持：mysql/pg/国产数据库/es/redis 等，体验：&lt;a href=&quot;https://simpledbweb.go-admin.com/&quot; rel=&quot;nofollow&quot;&gt;https://simpledbweb.go-admin.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;indexttsWeb：：一个基于 indextts 的 web 管理平台，可以让你利用自己电脑搭建一个可以对外的 indextts api 服务。随时生成逼真情绪的语音。&lt;/li&gt;
+&lt;li&gt;snapup：一个提供网站多尺寸设备的截图服务的项目，体验：&lt;a href=&quot;https://snapup.wowwwow.cn&quot; rel=&quot;nofollow&quot;&gt;https://snapup.wowwwow.cn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/gotoailab/simpletunnel&quot; rel=&quot;nofollow&quot;&gt;simpletunnel&lt;/a&gt;：一个极简好用的外网穿透代理软件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;过去一周的实践&lt;/h1&gt;
+&lt;p&gt;过去一两周我都有在迭代 Modern Mermaid 。但这个网站已经完成度可以了，剩下是一些深入的功能，等用户慢慢口碑传播后，我会再考虑进一步深入开发了。&lt;/p&gt;
+&lt;p&gt;眼下我的重心在一个新的项目，浏览器 Agent 。我发现全世界都找不到一个真正能用好用的浏览器自动化工具，于是我就动手做了。应该是全球范围内的第一个真正落地能用的浏览器 Agent 。截稿至我当前发这篇帖子，目前基础框架搭差不多，应该是可以玩了，但是肯定还有很多功能和问题，等待慢慢深入优化。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;截屏 2025-12-13 08.37.30&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://free.boltp.com/2025/12/13/693cffd88807b.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;我没有采用直接完全轮询识别浏览器结构的方案，这个方案基本就是工具性质，只能慢慢等待大模型能力增强还有算力价格下来才能用。所以退而求其次，采用录制脚本重放代码，大模型来做规划的方案，这个不能通用和泛化，但是他固定场景马上能用，更通用的，随着脚本增加，规划能力增强，也完全可行（任何 web 能做的场景），尤其当你的场景很明确的时候，实际上我觉得需要做自动化的人都有明确的场景，那么这个方案完全可以落地，很少的 token ，很低的耗时就可以帮你做日常你经常重复做的活了。&lt;/p&gt;
+&lt;p&gt;当前这个项目在找内测的同学一起帮忙免费试试呀，感兴趣的可以加我：mongorz ，备注：浏览器。我拉您入群，内测就不放开很多人了，只能先到先得呀，要真的有场景对这个方向感兴趣的同学，可以一起交流。后续功能稳定应该会开源给大家下载使用。&lt;/p&gt;
+&lt;p&gt;我猜应该能比最近火的豆包手机跟 autoglm 更加实用，如果不是，也可以一起来做得更实用！&lt;/p&gt;
+&lt;h1&gt;未来一周的展望&lt;/h1&gt;
+&lt;p&gt;接下来，我还有一个想做的产品是做一个全世界最好看的笔记应用。如果你觉得有用过好用的可以留言推荐，可能我觉得很好用就会放弃这个想法了。因为我搜索遍了网上 markdown 编辑器，都太丑了，难以想象 2025 年了，这些产品的设计还这么简陋。网上有一款有名的浏览器扩展交沉浸式翻译，我想做 markdown 编辑器的沉浸版本。&lt;/p&gt;
+&lt;h1&gt;关于我&lt;/h1&gt;
+&lt;p&gt;我还在持续的做 AI Coding 的挑战。如果你觉得有意思，可以关注联系我。
+这些是我的社交媒体，关注我可以最快获得更新，有怎么做产品/运营/出海的思考分享和经验啦。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;X： &lt;a href=&quot;https://x.com/chg80333&quot; rel=&quot;nofollow&quot;&gt;https://x.com/chg80333&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;VX：mongorz&lt;/li&gt;
+&lt;li&gt;小红书：@glenn2033&lt;/li&gt;
+&lt;li&gt;即刻：@glenn2033&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;历史分享帖子&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.v2ex.com/t/1175524&quot; rel=&quot;nofollow&quot;&gt;网上的 mermaidjs 编辑器生成图都太丑了，一怒之下写了一个新的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.v2ex.com/t/1175851&quot; rel=&quot;nofollow&quot;&gt;写文档必备，敖了三个夜写了的全新的 mermaidjs 编辑器，求体验跟点赞&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.v2ex.com/t/1176245&quot; rel=&quot;nofollow&quot;&gt;顶顶好用好看的 mermaid 图表设计工具更新了，可以来康康&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.v2ex.com/t/1177668&quot; rel=&quot;nofollow&quot;&gt;一周过去了，一怒之下写的史上最好看的流程图表设计网站咋样了&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
   </channel>
 </rss>
