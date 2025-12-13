@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 13 Dec 2025 06:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 06:48:42 GMT</lastBuildDate>
     <item>
       <title>隔壁 LinuxDo 的注册真给我整笑了</title>
       <link>https://www.v2ex.com/t/1178578</link>
@@ -34,13 +34,6 @@
       <guid>v2ex-1178599</guid>
       <pubDate>Fri, 12 Dec 2025 10:04:24 GMT</pubDate>
       <description>之前小黄鱼买了个 google 账号，今天发现被停用了。&lt;br /&gt;想申诉一下，结果发现绑定的手机号申请注销了，收不到短信验证码，导致也申诉不了。不知道还有没有办法保住这个 google 账号？&lt;br /&gt;吃一堑长一智，注销手机号之前一定要看一下有没有要绑定的短信。</description>
-    </item>
-    <item>
-      <title>Trae 现在用着还卡么</title>
-      <link>https://www.v2ex.com/t/1178528</link>
-      <guid>v2ex-1178528</guid>
-      <pubDate>Fri, 12 Dec 2025 06:43:14 GMT</pubDate>
-      <description>半年前买过一次会员，用了一个月，模型和其他方面都觉得还行，最难受的就是打开一段时间后就会巨卡，不管前端项目还是后端项目，搞的我一点都不想续费。&lt;br /&gt;中间很长一段时间都是 vscode+插件智能填充&lt;br /&gt;大佬们有没有其他 IDE 选择 国产的也行，价格适中 10 刀以内吧</description>
     </item>
     <item>
       <title>ios26.2 正式版发布</title>
@@ -90,6 +83,13 @@
       <guid>v2ex-1178620</guid>
       <pubDate>Fri, 12 Dec 2025 11:53:13 GMT</pubDate>
       <description>年底被公司裁员，回老家休息，在县城老家期间也持续留意这里的工作机会，这几天跟一位朋友聊天，说他认识一个我们县城一家国企的负责人，可以背后运作一下，给我安排个岗位，不过得给个 3w 块钱喝茶费，我打听了一下，这个岗位工资也就 3-4k 的水平，奖金绩效全拿也不会超过 6k ，相当于还没进去就得先贡献一年的工资。&lt;br /&gt;&lt;br /&gt;其实据我的了解，这个国企签的也是劳动合同，有没编制，跟在民营公司打工一样，它在县城的优势就是，五险一金齐全+双休，说出去好听一点，国企嘛，但是说不好听的，裁员优化这些操作，也是分分钟的事情，万一我运气特别差，一年没到就被优化裁员了，岂不是连本金都赚不回来？哈哈哈~</description>
+    </item>
+    <item>
+      <title>在海外使用 facet time 打在中国的用户</title>
+      <link>https://www.v2ex.com/t/1178629</link>
+      <guid>v2ex-1178629</guid>
+      <pubDate>Fri, 12 Dec 2025 14:58:42 GMT</pubDate>
+      <description>目前在东南亚使用 facetime 拨打中国的用户。目标用户使用的中国联通网络，公网 v4/v6 。总体使用起来很是挺好的，比微信强太多了！由于之前测试过，在东南亚访问中国境内的 ip ，中国电信使用的直连，效果极差；中国移动使用中国移动国际代理，效果也不错；中国联通通过 google 代转，效果也还不错！&lt;br /&gt;  咨询 ChatGpt ，说目前 factime 的视频效果很好，是因为目标用户使用中国联通，这里到中国联通的网络比较好。想问一下，有没有人在东南亚使用 facetime 拨打位于中国电信/中国移动网络的用户情况？ ChatGpt 说拨打位于中国电信的网络的效果极差！</description>
     </item>
   </channel>
 </rss>
