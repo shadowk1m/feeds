@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 13 Dec 2025 15:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 15:36:41 GMT</lastBuildDate>
     <item>
       <title>ios26.2 正式版发布</title>
       <link>https://www.v2ex.com/t/1178642</link>
@@ -117,6 +117,16 @@
       <description>我不是开发了个开源的热榜项目嘛，叫糖果梦热榜&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://tgmeng.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://tgmeng.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;然后说在 linxudo 里面给大家分享分享，由于里面一开始放了我自己的论坛和微信群的地址。我一发文，他就给我删了，然后我把论坛和微信群地址删了，再发，他就不给发了。&lt;br /&gt;持续了 4 、5 个月到现在，我的热榜站在 LinuxDo 里面永远发不了，只要带我的域名、github 项目地址、网站名称等等，全都是一发就秒删，也就是进黑名单了。&lt;br /&gt;&lt;br /&gt;之后我就发普通帖子咨询了下关于不能发的原因，还有发文注意事项等等。他的管理员就在里面评论说我发这篇文章的目的是什么。所以现在也放弃了那个站。转到 V2EX 里来了。&lt;br /&gt;&lt;br /&gt;咨询下大家在这里发东西的话，有哪些需要注意的点</description>
     </item>
     <item>
+      <title>感觉 MacOS 26.2 比 26.1 丝滑啊</title>
+      <link>https://www.v2ex.com/t/1178672</link>
+      <guid>v2ex-1178672</guid>
+      <pubDate>Sat, 13 Dec 2025 06:10:32 GMT</pubDate>
+      <description>&lt;p&gt;同样的工作场景。不知道是不是 26.1 许久没有关机了，总归会有一些内存泄露啥的。&lt;/p&gt;
+&lt;p&gt;这次升级 26.2 以后，丝滑无比。&lt;/p&gt;
+&lt;p&gt;另外，本次升级，黑白苹果进度条重新导入了好几次，感觉似乎有底层较大更新似得。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>IT 之家会自动隐藏过往新闻的评论，这会导致一些高质量评论灭失，比如这条关于机械硬盘国产化的</title>
       <link>https://www.v2ex.com/t/1178643</link>
       <guid>v2ex-1178643</guid>
@@ -125,16 +135,6 @@
 &lt;p&gt;在东芝工作了两年的前员工，讲一下为什么国产做不出 HDD 来。第一是专利问题，第二是这个产品已经成熟化基本上没有飞速发展的可能性，如果强行投资生产可能会被三家联合打压导致短期长期都无法盈利，第三就是 HDD 前几年的价格可以用一潭死水来形容，价格非常稳定，低容量对比 SSD 完全没有什么优势，HDD 市场每年都在被 SSD 挤压，以致于希捷和西数都在大力发展自己的 SSD 产品，HDD 三家在财报上都无法获得漂亮的数字。希捷更是卖了总部的几座大楼来维持运作（前几年），所以在发展没有前景，利润稀薄甚至可能亏损的产业，自然没有其他选手想抢这个蛋糕&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https://archive.md/ilvpB&quot; rel=&quot;nofollow&quot;&gt;网页存档，整个讨论串&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>感觉 MacOS 26.2 比 26.1 丝滑啊</title>
-      <link>https://www.v2ex.com/t/1178672</link>
-      <guid>v2ex-1178672</guid>
-      <pubDate>Sat, 13 Dec 2025 06:10:32 GMT</pubDate>
-      <description>&lt;p&gt;同样的工作场景。不知道是不是 26.1 许久没有关机了，总归会有一些内存泄露啥的。&lt;/p&gt;
-&lt;p&gt;这次升级 26.2 以后，丝滑无比。&lt;/p&gt;
-&lt;p&gt;另外，本次升级，黑白苹果进度条重新导入了好几次，感觉似乎有底层较大更新似得。&lt;/p&gt;
 </description>
     </item>
   </channel>
