@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 14 Dec 2025 16:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 17:09:04 GMT</lastBuildDate>
     <item>
       <title>大家的流量卡都是在哪里买的？</title>
       <link>https://www.v2ex.com/t/1178750</link>
@@ -21,13 +21,6 @@
       <guid>v2ex-1178805</guid>
       <pubDate>Sun, 14 Dec 2025 07:17:26 GMT</pubDate>
       <description>我有个美区账号也用了 10 多年了，因为国内 icloud 是云上贵州，一直把美区当主号。最近看到有不少是美国官网购买礼品卡充值也被封，所以不是黑卡的问题，我一直是这个官网购买礼品卡这个渠道。有什么明确的被封理由吗？（当初注册姓名和地址肯定是乱写的）&lt;br /&gt;账号被封之后 icloud 的照片和备忘录会给时间导出吗？钥匙串是否有办法导出备份或迁到其他账号。&lt;br /&gt;自建 nas 可以替代 iCloud 吗，会被无缘无故封号我已经想跑路了。。</description>
-    </item>
-    <item>
-      <title>请问各位大佬 cursor 是怎么计费的</title>
-      <link>https://www.v2ex.com/t/1178741</link>
-      <guid>v2ex-1178741</guid>
-      <pubDate>Sat, 13 Dec 2025 16:50:05 GMT</pubDate>
-      <description>请问 cursor 究竟是怎么计费的。目前是 pro 试用模式，这 token 用量真的吓人，用 agent 模式和 debug 模式随便用一下就 1400Wtoken 了，按它们官方价格早就几十刀了。所以我想问：&lt;br /&gt;1. 哪里可以看到详细的计费模式；网上说的 pro 每月 500 次调用是怎么回事。&lt;br /&gt;2. 比较省钱的使用组合方式是怎样的。&lt;br /&gt;3. 每月 20 刀的 pro 版超额度后是继续计费还是可以切到免费的模型，auto 机制是怎样的，默认会调哪些</description>
     </item>
     <item>
       <title>Gemini Mac 桌面版[开源]</title>
@@ -72,6 +65,14 @@
 </description>
     </item>
     <item>
+      <title>现在 AI 编程都用哪种工具比较好</title>
+      <link>https://www.v2ex.com/t/1178783</link>
+      <guid>v2ex-1178783</guid>
+      <pubDate>Sun, 14 Dec 2025 04:12:23 GMT</pubDate>
+      <description>&lt;p&gt;目前 Claude 用起来太小心翼翼了，主要用的是 Trae Solo 和 Codebuddy ，这两费用都是 10 刀一个月，而且还限制用量，感觉不够用啊，有没有什么便宜好用的工具推荐的？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>今天才发现荞麦面并不能减肥,感觉我是白吃了啊.</title>
       <link>https://www.v2ex.com/t/1178786</link>
       <guid>v2ex-1178786</guid>
@@ -87,12 +88,11 @@
 </description>
     </item>
     <item>
-      <title>现在 AI 编程都用哪种工具比较好</title>
-      <link>https://www.v2ex.com/t/1178783</link>
-      <guid>v2ex-1178783</guid>
-      <pubDate>Sun, 14 Dec 2025 04:12:23 GMT</pubDate>
-      <description>&lt;p&gt;目前 Claude 用起来太小心翼翼了，主要用的是 Trae Solo 和 Codebuddy ，这两费用都是 10 刀一个月，而且还限制用量，感觉不够用啊，有没有什么便宜好用的工具推荐的？&lt;/p&gt;
-</description>
+      <title>人类真的拥有创新能力么？</title>
+      <link>https://www.v2ex.com/t/1178817</link>
+      <guid>v2ex-1178817</guid>
+      <pubDate>Sun, 14 Dec 2025 09:27:33 GMT</pubDate>
+      <description>什么是创新？我反思自己平时的思考过程，只是把发现的已知的东西解析成更小的单位然后重新组合在一起。实际上，答案好像从来都不是我想出来的。而是我把问题放进心里，然后答案自己就突然冒出来的，成语讲就是灵光一闪吧。&lt;br /&gt;&lt;br /&gt;我们真的有创新能力么，还是我们只是个裁缝？</description>
     </item>
   </channel>
 </rss>
