@@ -4,15 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 14 Dec 2025 09:11:32 GMT</lastBuildDate>
-    <item>
-      <title>你们的机场订阅现在变成阅后即焚了吗？</title>
-      <link>https://www.v2ex.com/t/1178726</link>
-      <guid>v2ex-1178726</guid>
-      <pubDate>Sat, 13 Dec 2025 14:11:33 GMT</pubDate>
-      <description>&lt;p&gt;今天发现用了两年的机场订阅自动更新都失败了，问了客服现在订阅链接里的 token 轮转周期缩的特别短已经相当于一次性的了，这下要每天手动登机场页面获取最新的订阅链接吗？&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 14 Dec 2025 09:37:47 GMT</lastBuildDate>
     <item>
       <title>求助！ 31 岁 Java 。零基础来日本，在日本语言学校 7 个月，日语还是只能基础的问候简单表达（复杂快速的句子还是听不太清），『是继续缴费学第二年』『还是回国』？</title>
       <link>https://www.v2ex.com/t/1178721</link>
@@ -44,13 +36,6 @@
 </description>
     </item>
     <item>
-      <title>问下佬们在 LinuxDo 这个网站体验怎么样</title>
-      <link>https://www.v2ex.com/t/1178690</link>
-      <guid>v2ex-1178690</guid>
-      <pubDate>Sat, 13 Dec 2025 09:20:19 GMT</pubDate>
-      <description>我不是开发了个开源的热榜项目嘛，叫糖果梦热榜&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://tgmeng.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://tgmeng.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;然后说在 linxudo 里面给大家分享分享，由于里面一开始放了我自己的论坛和微信群的地址。我一发文，他就给我删了，然后我把论坛和微信群地址删了，再发，他就不给发了。&lt;br /&gt;持续了 4 、5 个月到现在，我的热榜站在 LinuxDo 里面永远发不了，只要带我的域名、github 项目地址、网站名称等等，全都是一发就秒删，也就是进黑名单了。&lt;br /&gt;&lt;br /&gt;之后我就发普通帖子咨询了下关于不能发的原因，还有发文注意事项等等。他的管理员就在里面评论说我发这篇文章的目的是什么。所以现在也放弃了那个站。转到 V2EX 里来了。&lt;br /&gt;&lt;br /&gt;咨询下大家在这里发东西的话，有哪些需要注意的点</description>
-    </item>
-    <item>
       <title>都说散户炒股大都亏了，感觉真想亏也很难啊。</title>
       <link>https://www.v2ex.com/t/1178719</link>
       <guid>v2ex-1178719</guid>
@@ -61,18 +46,19 @@
 </description>
     </item>
     <item>
-      <title>Clash verge VS Hiddify VS V2rayN</title>
-      <link>https://www.v2ex.com/t/1178766</link>
-      <guid>v2ex-1178766</guid>
-      <pubDate>Sun, 14 Dec 2025 02:46:22 GMT</pubDate>
-      <description>请问 windows 下，这几个代理工具哪个好用。Bug 少</description>
-    </item>
-    <item>
       <title>请问各位大佬 cursor 是怎么计费的</title>
       <link>https://www.v2ex.com/t/1178741</link>
       <guid>v2ex-1178741</guid>
       <pubDate>Sat, 13 Dec 2025 16:50:05 GMT</pubDate>
       <description>请问 cursor 究竟是怎么计费的。目前是 pro 试用模式，这 token 用量真的吓人，用 agent 模式和 debug 模式随便用一下就 1400Wtoken 了，按它们官方价格早就几十刀了。所以我想问：&lt;br /&gt;1. 哪里可以看到详细的计费模式；网上说的 pro 每月 500 次调用是怎么回事。&lt;br /&gt;2. 比较省钱的使用组合方式是怎样的。&lt;br /&gt;3. 每月 20 刀的 pro 版超额度后是继续计费还是可以切到免费的模型，auto 机制是怎样的，默认会调哪些</description>
+    </item>
+    <item>
+      <title>笔记本电脑为什么不出个无线充电功能？</title>
+      <link>https://www.v2ex.com/t/1178763</link>
+      <guid>v2ex-1178763</guid>
+      <pubDate>Sun, 14 Dec 2025 02:31:54 GMT</pubDate>
+      <description>&lt;p&gt;做个和笔记本一样大的充电垫子，本子放上面就能充电。少个充电线多方便。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>Gemini Mac 桌面版[开源]</title>
@@ -82,12 +68,11 @@
       <description>最近不想继续给 ChatGPT 付费，切换到了 Gemini 学生免费账户。但没有小窗口真的很不习惯，于是花了半天时间撸了一个 macOS 桌面端，支持悬浮聊天栏和全局快捷键呼出。&lt;br /&gt;&lt;br /&gt;写代码的时候随手一按就能弹出来问问题，用完再按一下就收起来，不用来回切窗口了。常驻菜单栏，不占 Dock 位置，强迫症友好。&lt;br /&gt;&lt;br /&gt;开源免费，有相同需求的朋友可以试试。 &lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/pfPhFye.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/pfPhFye.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/QTcxb8Y.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/QTcxb8Y.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/alexcding/gemini-desktop-mac/&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/alexcding/gemini-desktop-mac/&lt;/a&gt;</description>
     </item>
     <item>
-      <title>笔记本电脑为什么不出个无线充电功能？</title>
-      <link>https://www.v2ex.com/t/1178763</link>
-      <guid>v2ex-1178763</guid>
-      <pubDate>Sun, 14 Dec 2025 02:31:54 GMT</pubDate>
-      <description>&lt;p&gt;做个和笔记本一样大的充电垫子，本子放上面就能充电。少个充电线多方便。&lt;/p&gt;
-</description>
+      <title>猫笔刀公众号为啥这么多粉丝？</title>
+      <link>https://www.v2ex.com/t/1178760</link>
+      <guid>v2ex-1178760</guid>
+      <pubDate>Sun, 14 Dec 2025 02:12:31 GMT</pubDate>
+      <description>每篇文章阅读量都是 10w+，我觉得文章没啥营养，基本都是吹水。关注了几次，又取关了几次，实在不懂为啥这么多粉丝。</description>
     </item>
   </channel>
 </rss>
