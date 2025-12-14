@@ -4,24 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 14 Dec 2025 04:51:23 GMT</lastBuildDate>
-    <item>
-      <title>快要 [提车] 了，突然又不想提了。。。求建议！谢谢</title>
-      <link>https://www.v2ex.com/t/1178664</link>
-      <guid>v2ex-1178664</guid>
-      <pubDate>Sat, 13 Dec 2025 05:04:21 GMT</pubDate>
-      <description>&lt;p&gt;纠结了很久（领克 08 emp 和特斯拉），试驾后，感觉特斯拉更好开一点。。。
-上个月交了 1000 元下定&lt;/p&gt;
-&lt;p&gt;但是这几天和两个同行朋友聊天，发现一个 5 年 4w 公里，一个 10 年 3.5w 公里（都是油车）
-考虑到我自己不喜欢开车，估计我开的更少（上下班基本二轮小电车）&lt;/p&gt;
-&lt;p&gt;我是不是应该放弃提车，买给油车（或者是混动）。
-电车的话，咱们就算能开 10 年，如果一共才 6w 公里，是不是巨亏。。。&lt;/p&gt;
-&lt;p&gt;纯油车，稍微智能点的我看着领克 01 好像还行，不过减配了不少。
-合资的油车可能更靠谱点？
-混动的话，比亚迪什么的算了，或者领克 08 emp ？&lt;/p&gt;
-&lt;p&gt;v 友们能给我一些建议么，谢谢！&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 14 Dec 2025 05:12:22 GMT</lastBuildDate>
     <item>
       <title>两周做了快十款产品后，过去一周我又做了什么呢</title>
       <link>https://www.v2ex.com/t/1178671</link>
@@ -190,6 +173,13 @@
 &lt;p&gt;除了限制一下交易次数（免得手续费把本金消耗光了）和高杠杆（避免瞬间爆仓），正常买进卖出，预测哪只股票要跌就买哪个（事实上不一定跌），最终想亏也未必了&lt;/p&gt;
 &lt;p&gt;以前也小玩过股票，想赚的股票基本都亏了，随便乱买的几只还真的赚了😔😄&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>请问各位大佬 cursor 是怎么计费的</title>
+      <link>https://www.v2ex.com/t/1178741</link>
+      <guid>v2ex-1178741</guid>
+      <pubDate>Sat, 13 Dec 2025 16:50:05 GMT</pubDate>
+      <description>请问 cursor 究竟是怎么计费的。目前是 pro 试用模式，这 token 用量真的吓人，用 agent 模式和 debug 模式随便用一下就 1400Wtoken 了，按它们官方价格早就几十刀了。所以我想问：&lt;br /&gt;1. 哪里可以看到详细的计费模式；网上说的 pro 每月 500 次调用是怎么回事。&lt;br /&gt;2. 比较省钱的使用组合方式是怎样的。&lt;br /&gt;3. 每月 20 刀的 pro 版超额度后是继续计费还是可以切到免费的模型，auto 机制是怎样的，默认会调哪些</description>
     </item>
   </channel>
 </rss>
