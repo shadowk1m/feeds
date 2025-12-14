@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 14 Dec 2025 08:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 08:44:05 GMT</lastBuildDate>
     <item>
       <title>你们的机场订阅现在变成阅后即焚了吗？</title>
       <link>https://www.v2ex.com/t/1178726</link>
@@ -61,11 +61,11 @@
 </description>
     </item>
     <item>
-      <title>Gemini Mac 桌面版[开源]</title>
-      <link>https://www.v2ex.com/t/1178747</link>
-      <guid>v2ex-1178747</guid>
-      <pubDate>Sat, 13 Dec 2025 20:58:27 GMT</pubDate>
-      <description>最近不想继续给 ChatGPT 付费，切换到了 Gemini 学生免费账户。但没有小窗口真的很不习惯，于是花了半天时间撸了一个 macOS 桌面端，支持悬浮聊天栏和全局快捷键呼出。&lt;br /&gt;&lt;br /&gt;写代码的时候随手一按就能弹出来问问题，用完再按一下就收起来，不用来回切窗口了。常驻菜单栏，不占 Dock 位置，强迫症友好。&lt;br /&gt;&lt;br /&gt;开源免费，有相同需求的朋友可以试试。 &lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/pfPhFye.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/pfPhFye.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/QTcxb8Y.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/QTcxb8Y.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/alexcding/gemini-desktop-mac/&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/alexcding/gemini-desktop-mac/&lt;/a&gt;</description>
+      <title>Clash verge VS Hiddify VS V2rayN</title>
+      <link>https://www.v2ex.com/t/1178766</link>
+      <guid>v2ex-1178766</guid>
+      <pubDate>Sun, 14 Dec 2025 02:46:22 GMT</pubDate>
+      <description>请问 windows 下，这几个代理工具哪个好用。Bug 少</description>
     </item>
     <item>
       <title>请问各位大佬 cursor 是怎么计费的</title>
@@ -75,19 +75,19 @@
       <description>请问 cursor 究竟是怎么计费的。目前是 pro 试用模式，这 token 用量真的吓人，用 agent 模式和 debug 模式随便用一下就 1400Wtoken 了，按它们官方价格早就几十刀了。所以我想问：&lt;br /&gt;1. 哪里可以看到详细的计费模式；网上说的 pro 每月 500 次调用是怎么回事。&lt;br /&gt;2. 比较省钱的使用组合方式是怎样的。&lt;br /&gt;3. 每月 20 刀的 pro 版超额度后是继续计费还是可以切到免费的模型，auto 机制是怎样的，默认会调哪些</description>
     </item>
     <item>
+      <title>Gemini Mac 桌面版[开源]</title>
+      <link>https://www.v2ex.com/t/1178747</link>
+      <guid>v2ex-1178747</guid>
+      <pubDate>Sat, 13 Dec 2025 20:58:27 GMT</pubDate>
+      <description>最近不想继续给 ChatGPT 付费，切换到了 Gemini 学生免费账户。但没有小窗口真的很不习惯，于是花了半天时间撸了一个 macOS 桌面端，支持悬浮聊天栏和全局快捷键呼出。&lt;br /&gt;&lt;br /&gt;写代码的时候随手一按就能弹出来问问题，用完再按一下就收起来，不用来回切窗口了。常驻菜单栏，不占 Dock 位置，强迫症友好。&lt;br /&gt;&lt;br /&gt;开源免费，有相同需求的朋友可以试试。 &lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/pfPhFye.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/pfPhFye.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/QTcxb8Y.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/QTcxb8Y.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/alexcding/gemini-desktop-mac/&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/alexcding/gemini-desktop-mac/&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>笔记本电脑为什么不出个无线充电功能？</title>
       <link>https://www.v2ex.com/t/1178763</link>
       <guid>v2ex-1178763</guid>
       <pubDate>Sun, 14 Dec 2025 02:31:54 GMT</pubDate>
       <description>&lt;p&gt;做个和笔记本一样大的充电垫子，本子放上面就能充电。少个充电线多方便。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>除了 v 站还有哪些质量稍微高一点的论坛可以逛</title>
-      <link>https://www.v2ex.com/t/1178687</link>
-      <guid>v2ex-1178687</guid>
-      <pubDate>Sat, 13 Dec 2025 08:44:20 GMT</pubDate>
-      <description>最近刷短视频的时间有点多，每次刷完也觉得没意思，还有哪些有意思的论坛可以逛</description>
     </item>
   </channel>
 </rss>
