@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 14 Dec 2025 13:41:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 14:10:20 GMT</lastBuildDate>
     <item>
       <title>大家的流量卡都是在哪里买的？</title>
       <link>https://www.v2ex.com/t/1178750</link>
@@ -14,6 +14,13 @@
 &lt;p&gt;在 X 刷到这个 &lt;a href=&quot;https://pyllk.com/&quot; rel=&quot;nofollow&quot;&gt;https://pyllk.com/&lt;/a&gt; ，不知道是否靠谱？&lt;/p&gt;
 &lt;p&gt;还有，如果不想用了，一定要办理注销么？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>Gemini Mac 桌面版[开源]</title>
+      <link>https://www.v2ex.com/t/1178747</link>
+      <guid>v2ex-1178747</guid>
+      <pubDate>Sat, 13 Dec 2025 20:58:27 GMT</pubDate>
+      <description>最近不想继续给 ChatGPT 付费，切换到了 Gemini 学生免费账户。但没有小窗口真的很不习惯，于是花了半天时间撸了一个 macOS 桌面端，支持悬浮聊天栏和全局快捷键呼出。&lt;br /&gt;&lt;br /&gt;写代码的时候随手一按就能弹出来问问题，用完再按一下就收起来，不用来回切窗口了。常驻菜单栏，不占 Dock 位置，强迫症友好。&lt;br /&gt;&lt;br /&gt;开源免费，有相同需求的朋友可以试试。 &lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/pfPhFye.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/pfPhFye.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/QTcxb8Y.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/QTcxb8Y.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/alexcding/gemini-desktop-mac/&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/alexcding/gemini-desktop-mac/&lt;/a&gt;</description>
     </item>
     <item>
       <title>请问各位大佬 cursor 是怎么计费的</title>
@@ -31,13 +38,6 @@
 </description>
     </item>
     <item>
-      <title>Gemini Mac 桌面版[开源]</title>
-      <link>https://www.v2ex.com/t/1178747</link>
-      <guid>v2ex-1178747</guid>
-      <pubDate>Sat, 13 Dec 2025 20:58:27 GMT</pubDate>
-      <description>最近不想继续给 ChatGPT 付费，切换到了 Gemini 学生免费账户。但没有小窗口真的很不习惯，于是花了半天时间撸了一个 macOS 桌面端，支持悬浮聊天栏和全局快捷键呼出。&lt;br /&gt;&lt;br /&gt;写代码的时候随手一按就能弹出来问问题，用完再按一下就收起来，不用来回切窗口了。常驻菜单栏，不占 Dock 位置，强迫症友好。&lt;br /&gt;&lt;br /&gt;开源免费，有相同需求的朋友可以试试。 &lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/pfPhFye.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/pfPhFye.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/QTcxb8Y.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/QTcxb8Y.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/alexcding/gemini-desktop-mac/&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/alexcding/gemini-desktop-mac/&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>猫笔刀公众号为啥这么多粉丝？</title>
       <link>https://www.v2ex.com/t/1178760</link>
       <guid>v2ex-1178760</guid>
@@ -45,27 +45,31 @@
       <description>每篇文章阅读量都是 10w+，我觉得文章没啥营养，基本都是吹水。关注了几次，又取关了几次，实在不懂为啥这么多粉丝。</description>
     </item>
     <item>
-      <title>现在 AI 编程都用哪种工具比较好</title>
-      <link>https://www.v2ex.com/t/1178783</link>
-      <guid>v2ex-1178783</guid>
-      <pubDate>Sun, 14 Dec 2025 04:12:23 GMT</pubDate>
-      <description>&lt;p&gt;目前 Claude 用起来太小心翼翼了，主要用的是 Trae Solo 和 Codebuddy ，这两费用都是 10 刀一个月，而且还限制用量，感觉不够用啊，有没有什么便宜好用的工具推荐的？&lt;/p&gt;
+      <title>火绒阻止了两个奇怪的请求。clash 跑路后，新版内核是否存在问题？</title>
+      <link>https://www.v2ex.com/t/1178803</link>
+      <guid>v2ex-1178803</guid>
+      <pubDate>Sun, 14 Dec 2025 06:56:33 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;电脑空载&lt;/strong&gt;的情况下（只挂着 clash verge ），&lt;strong&gt;火绒&lt;/strong&gt;突然弹出了拦截窗口，网络防护自动拦截了两次访问请求。&lt;/p&gt;
+&lt;p&gt;在安全日志中，都显示为&lt;strong&gt;恶意网址拦截&lt;/strong&gt;：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;svchost.exe （ msedge.exe ）&lt;/code&gt; 尝试访问 &lt;code&gt;[ &lt;a href=&quot;http://file.uhsea.com&quot; rel=&quot;nofollow&quot;&gt;file.uhsea.com&lt;/a&gt; ]&lt;/code&gt;，已阻止。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;搜索相关文档，发现相关讨论（ linuxdo 也有类似讨论）：
+&lt;a href=&quot;https://github.com/2dust/v2rayN/discussions/7670&quot; rel=&quot;nofollow&quot;&gt;https://github.com/2dust/v2rayN/discussions/7670&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;疑似以下软件都有出现这个问题&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clash Verge Singbox V2rayN&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;结合都是用的 &lt;strong&gt;mihomo&lt;/strong&gt; 的内核，所以是否可以合理怀疑存在&lt;strong&gt;后门&lt;/strong&gt;，或某种可以通过配置文件控制的&lt;strong&gt;漏洞&lt;/strong&gt;？&lt;/p&gt;
+&lt;p&gt;uhsea 被火绒划为钓鱼仿冒，想不通在后台自动访问的目的。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>今天才发现荞麦面并不能减肥,感觉我是白吃了啊.</title>
-      <link>https://www.v2ex.com/t/1178786</link>
-      <guid>v2ex-1178786</guid>
-      <pubDate>Sun, 14 Dec 2025 04:28:31 GMT</pubDate>
-      <description>&lt;p&gt;60 克的干荞麦面热量大量 200 多大卡.&lt;/p&gt;
-&lt;p&gt;而一碗饭的热量也是 200-300 大卡.从热量上讲,基本没有区别.荞麦面的作用对我来讲估计是为了
-减少晕碳吧.&lt;/p&gt;
-&lt;p&gt;如果这样的话,我一天吃两餐,早餐时吃时不吃,如果是饭的话,两餐的话就是 600 大卡热量.而一个成年男人的
-最低热量是 1600 大卡,也就是说其他有 1000 大卡.但是我一个月难得吃一次饮料.一天只吃 2-3 根香蕉.
-也就是说大部分的热量是来自菜?&lt;/p&gt;
-&lt;p&gt;我怎么会得出这么一个结论的呢?这样对吗?&lt;/p&gt;
-&lt;p&gt;我怎么有一种毛利小五郎的感觉?&lt;/p&gt;
-</description>
+      <title>苹果外区 id 被封有明确的原因可以规避吗？自建 nas 可以替代 iCloud 吗？</title>
+      <link>https://www.v2ex.com/t/1178805</link>
+      <guid>v2ex-1178805</guid>
+      <pubDate>Sun, 14 Dec 2025 07:17:26 GMT</pubDate>
+      <description>我有个美区账号也用了 10 多年了，因为国内 icloud 是云上贵州，一直把美区当主号。最近看到有不少是美国官网购买礼品卡充值也被封，所以不是黑卡的问题，我一直是这个官网购买礼品卡这个渠道。有什么明确的被封理由吗？（当初注册姓名和地址肯定是乱写的）&lt;br /&gt;账号被封之后 icloud 的照片和备忘录会给时间导出吗？钥匙串是否有办法导出备份或迁到其他账号。&lt;br /&gt;自建 nas 可以替代 iCloud 吗，会被无缘无故封号我已经想跑路了。。</description>
     </item>
   </channel>
 </rss>
