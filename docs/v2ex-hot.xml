@@ -4,20 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 14 Dec 2025 13:02:15 GMT</lastBuildDate>
-    <item>
-      <title>求助！ 31 岁 Java 。零基础来日本，在日本语言学校 7 个月，日语还是只能基础的问候简单表达（复杂快速的句子还是听不太清），『是继续缴费学第二年』『还是回国』？</title>
-      <link>https://www.v2ex.com/t/1178721</link>
-      <guid>v2ex-1178721</guid>
-      <pubDate>Sat, 13 Dec 2025 13:23:02 GMT</pubDate>
-      <description>&lt;p&gt;如果回国，能找到 15 ～ 20k 的加班不特离谱的工作吗？ 国内明年会完全闭关吗？
-留继续学习，学完第二年，听说能有多大把握可以支持找到开发工作？&lt;/p&gt;
-&lt;p&gt;其他信息：
-学历：三本电子信息专业 17 年毕业的。
-农村出生，无房无车无贷款无老婆。做任何事情家里也没有支持。目前自己的资金大概还有 20 万人民币。&lt;/p&gt;
-&lt;p&gt;技能方面：国内 Java 开发也做了 7 年多， 也自己做过 ios 安卓 app 开发。前端技能会一点。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 14 Dec 2025 13:41:41 GMT</lastBuildDate>
     <item>
       <title>大家的流量卡都是在哪里买的？</title>
       <link>https://www.v2ex.com/t/1178750</link>
@@ -34,16 +21,6 @@
       <guid>v2ex-1178741</guid>
       <pubDate>Sat, 13 Dec 2025 16:50:05 GMT</pubDate>
       <description>请问 cursor 究竟是怎么计费的。目前是 pro 试用模式，这 token 用量真的吓人，用 agent 模式和 debug 模式随便用一下就 1400Wtoken 了，按它们官方价格早就几十刀了。所以我想问：&lt;br /&gt;1. 哪里可以看到详细的计费模式；网上说的 pro 每月 500 次调用是怎么回事。&lt;br /&gt;2. 比较省钱的使用组合方式是怎样的。&lt;br /&gt;3. 每月 20 刀的 pro 版超额度后是继续计费还是可以切到免费的模型，auto 机制是怎样的，默认会调哪些</description>
-    </item>
-    <item>
-      <title>都说散户炒股大都亏了，感觉真想亏也很难啊。</title>
-      <link>https://www.v2ex.com/t/1178719</link>
-      <guid>v2ex-1178719</guid>
-      <pubDate>Sat, 13 Dec 2025 13:17:50 GMT</pubDate>
-      <description>&lt;p&gt;假如给人一笔资金进场炒股，随意买卖，要求他必须亏，感觉也很难啊&lt;/p&gt;
-&lt;p&gt;除了限制一下交易次数（免得手续费把本金消耗光了）和高杠杆（避免瞬间爆仓），正常买进卖出，预测哪只股票要跌就买哪个（事实上不一定跌），最终想亏也未必了&lt;/p&gt;
-&lt;p&gt;以前也小玩过股票，想赚的股票基本都亏了，随便乱买的几只还真的赚了😔😄&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>笔记本电脑为什么不出个无线充电功能？</title>
@@ -66,6 +43,29 @@
       <guid>v2ex-1178760</guid>
       <pubDate>Sun, 14 Dec 2025 02:12:31 GMT</pubDate>
       <description>每篇文章阅读量都是 10w+，我觉得文章没啥营养，基本都是吹水。关注了几次，又取关了几次，实在不懂为啥这么多粉丝。</description>
+    </item>
+    <item>
+      <title>现在 AI 编程都用哪种工具比较好</title>
+      <link>https://www.v2ex.com/t/1178783</link>
+      <guid>v2ex-1178783</guid>
+      <pubDate>Sun, 14 Dec 2025 04:12:23 GMT</pubDate>
+      <description>&lt;p&gt;目前 Claude 用起来太小心翼翼了，主要用的是 Trae Solo 和 Codebuddy ，这两费用都是 10 刀一个月，而且还限制用量，感觉不够用啊，有没有什么便宜好用的工具推荐的？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>今天才发现荞麦面并不能减肥,感觉我是白吃了啊.</title>
+      <link>https://www.v2ex.com/t/1178786</link>
+      <guid>v2ex-1178786</guid>
+      <pubDate>Sun, 14 Dec 2025 04:28:31 GMT</pubDate>
+      <description>&lt;p&gt;60 克的干荞麦面热量大量 200 多大卡.&lt;/p&gt;
+&lt;p&gt;而一碗饭的热量也是 200-300 大卡.从热量上讲,基本没有区别.荞麦面的作用对我来讲估计是为了
+减少晕碳吧.&lt;/p&gt;
+&lt;p&gt;如果这样的话,我一天吃两餐,早餐时吃时不吃,如果是饭的话,两餐的话就是 600 大卡热量.而一个成年男人的
+最低热量是 1600 大卡,也就是说其他有 1000 大卡.但是我一个月难得吃一次饮料.一天只吃 2-3 根香蕉.
+也就是说大部分的热量是来自菜?&lt;/p&gt;
+&lt;p&gt;我怎么会得出这么一个结论的呢?这样对吗?&lt;/p&gt;
+&lt;p&gt;我怎么有一种毛利小五郎的感觉?&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
