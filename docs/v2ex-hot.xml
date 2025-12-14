@@ -4,51 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 14 Dec 2025 05:40:35 GMT</lastBuildDate>
-    <item>
-      <title>两周做了快十款产品后，过去一周我又做了什么呢</title>
-      <link>https://www.v2ex.com/t/1178671</link>
-      <guid>v2ex-1178671</guid>
-      <pubDate>Sat, 13 Dec 2025 06:10:24 GMT</pubDate>
-      <description>&lt;p&gt;大家好，我是 Glenn ，过去几周的时间，我开始了我的 AI Coding 挑战，一周做至少一款产品，争取做出来大家喜欢好用的有影响力的产品。产品的选题会从我实际上遇到的问题和感兴趣的方向出发去做，主要专注于效率工具方向。&lt;/p&gt;
-&lt;p&gt;过去几周做的部分项目：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://modern-mermaid.live&quot; rel=&quot;nofollow&quot;&gt;Modern Mermaid&lt;/a&gt;：全世界最好看的 mermaid 流程图设计网站&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/gotoailab/llmhub&quot; rel=&quot;nofollow&quot;&gt;llmhub&lt;/a&gt;：一个 golang 的 llm 基础库，把大部分的 llm 厂商统一成一个接口，可以接入不同的 golang 项目&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/gotoailab/llmgit&quot; rel=&quot;nofollow&quot;&gt;llmgit&lt;/a&gt;：基于上面的 llmhub 项目做的 git 命令行终端工具，跟 git 一样的使用，加多了更多的 ai 功能，比如：ai 生成 commit ，ai 生成 changelog ，ai 审查代码等等&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/gotoailab/trendhub&quot; rel=&quot;nofollow&quot;&gt;trendhub&lt;/a&gt;：一个热点趋势的过推送滤平台，体验：&lt;a href=&quot;https://trendhub.wowwwow.cn&quot; rel=&quot;nofollow&quot;&gt;https://trendhub.wowwwow.cn&lt;/a&gt;，自定义每天的推送热点&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/gotoailab/simple-db-web&quot; rel=&quot;nofollow&quot;&gt;simple-db-web&lt;/a&gt;：一个 golang 编写的 web 端数据库管理工具，小而美，支持：mysql/pg/国产数据库/es/redis 等，体验：&lt;a href=&quot;https://simpledbweb.go-admin.com/&quot; rel=&quot;nofollow&quot;&gt;https://simpledbweb.go-admin.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;indexttsWeb：：一个基于 indextts 的 web 管理平台，可以让你利用自己电脑搭建一个可以对外的 indextts api 服务。随时生成逼真情绪的语音。&lt;/li&gt;
-&lt;li&gt;snapup：一个提供网站多尺寸设备的截图服务的项目，体验：&lt;a href=&quot;https://snapup.wowwwow.cn&quot; rel=&quot;nofollow&quot;&gt;https://snapup.wowwwow.cn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/gotoailab/simpletunnel&quot; rel=&quot;nofollow&quot;&gt;simpletunnel&lt;/a&gt;：一个极简好用的外网穿透代理软件&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;过去一周的实践&lt;/h1&gt;
-&lt;p&gt;过去一两周我都有在迭代 Modern Mermaid 。但这个网站已经完成度可以了，剩下是一些深入的功能，等用户慢慢口碑传播后，我会再考虑进一步深入开发了。&lt;/p&gt;
-&lt;p&gt;眼下我的重心在一个新的项目，浏览器 Agent 。我发现全世界都找不到一个真正能用好用的浏览器自动化工具，于是我就动手做了。应该是全球范围内的第一个真正落地能用的浏览器 Agent 。截稿至我当前发这篇帖子，目前基础框架搭差不多，应该是可以玩了，但是肯定还有很多功能和问题，等待慢慢深入优化。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;截屏 2025-12-13 08.37.30&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://free.boltp.com/2025/12/13/693cffd88807b.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;我没有采用直接完全轮询识别浏览器结构的方案，这个方案基本就是工具性质，只能慢慢等待大模型能力增强还有算力价格下来才能用。所以退而求其次，采用录制脚本重放代码，大模型来做规划的方案，这个不能通用和泛化，但是他固定场景马上能用，更通用的，随着脚本增加，规划能力增强，也完全可行（任何 web 能做的场景），尤其当你的场景很明确的时候，实际上我觉得需要做自动化的人都有明确的场景，那么这个方案完全可以落地，很少的 token ，很低的耗时就可以帮你做日常你经常重复做的活了。&lt;/p&gt;
-&lt;p&gt;当前这个项目在找内测的同学一起帮忙免费试试呀，感兴趣的可以加我：mongorz ，备注：浏览器。我拉您入群，内测就不放开很多人了，只能先到先得呀，要真的有场景对这个方向感兴趣的同学，可以一起交流。后续功能稳定应该会开源给大家下载使用。&lt;/p&gt;
-&lt;p&gt;我猜应该能比最近火的豆包手机跟 autoglm 更加实用，如果不是，也可以一起来做得更实用！&lt;/p&gt;
-&lt;h1&gt;未来一周的展望&lt;/h1&gt;
-&lt;p&gt;接下来，我还有一个想做的产品是做一个全世界最好看的笔记应用。如果你觉得有用过好用的可以留言推荐，可能我觉得很好用就会放弃这个想法了。因为我搜索遍了网上 markdown 编辑器，都太丑了，难以想象 2025 年了，这些产品的设计还这么简陋。网上有一款有名的浏览器扩展交沉浸式翻译，我想做 markdown 编辑器的沉浸版本。&lt;/p&gt;
-&lt;h1&gt;关于我&lt;/h1&gt;
-&lt;p&gt;我还在持续的做 AI Coding 的挑战。如果你觉得有意思，可以关注联系我。
-这些是我的社交媒体，关注我可以最快获得更新，有怎么做产品/运营/出海的思考分享和经验啦。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;X： &lt;a href=&quot;https://x.com/chg80333&quot; rel=&quot;nofollow&quot;&gt;https://x.com/chg80333&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;VX：mongorz&lt;/li&gt;
-&lt;li&gt;小红书：@glenn2033&lt;/li&gt;
-&lt;li&gt;即刻：@glenn2033&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;历史分享帖子&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.v2ex.com/t/1175524&quot; rel=&quot;nofollow&quot;&gt;网上的 mermaidjs 编辑器生成图都太丑了，一怒之下写了一个新的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.v2ex.com/t/1175851&quot; rel=&quot;nofollow&quot;&gt;写文档必备，敖了三个夜写了的全新的 mermaidjs 编辑器，求体验跟点赞&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.v2ex.com/t/1176245&quot; rel=&quot;nofollow&quot;&gt;顶顶好用好看的 mermaid 图表设计工具更新了，可以来康康&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.v2ex.com/t/1177668&quot; rel=&quot;nofollow&quot;&gt;一周过去了，一怒之下写的史上最好看的流程图表设计网站咋样了&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 14 Dec 2025 06:17:11 GMT</lastBuildDate>
     <item>
       <title>你们的机场订阅现在变成阅后即焚了吗？</title>
       <link>https://www.v2ex.com/t/1178726</link>
@@ -69,6 +25,13 @@
 农村出生，无房无车无贷款无老婆。做任何事情家里也没有支持。目前自己的资金大概还有 20 万人民币。&lt;/p&gt;
 &lt;p&gt;技能方面：国内 Java 开发也做了 7 年多， 也自己做过 ios 安卓 app 开发。前端技能会一点。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>跨境电商想找个兼职帮做自动化实施</title>
+      <link>https://www.v2ex.com/t/1178735</link>
+      <guid>v2ex-1178735</guid>
+      <pubDate>Sat, 13 Dec 2025 15:13:27 GMT</pubDate>
+      <description>如题&lt;br /&gt;&lt;br /&gt;1 ，用影刀，coze 等帮搭工作流实现自动 post 视频到 Instagram,YouTube 等&lt;br /&gt;&lt;br /&gt;2 ，调用 ai 接口自动每天生成产品视频&lt;br /&gt;&lt;br /&gt;3 ，从 Temu ，Walmart ，amazon 等平台去定时检查客户投诉等内容自动推送到飞书多维表格生成任务监控执行等&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;基本就是这些先需求，单独招个人管理又麻烦，找靠谱的兼职对于小团队来讲更合适&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;公司在深圳坂田，深圳优先，定期能见面开个会更方便，外地酌情可以考虑</description>
     </item>
     <item>
       <title>记录我在越南的双城记：北江是生存，岘港是生活。分享一些治愈精神内耗的海景</title>
@@ -117,23 +80,6 @@
       <guid>v2ex-1178690</guid>
       <pubDate>Sat, 13 Dec 2025 09:20:19 GMT</pubDate>
       <description>我不是开发了个开源的热榜项目嘛，叫糖果梦热榜&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://tgmeng.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://tgmeng.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;然后说在 linxudo 里面给大家分享分享，由于里面一开始放了我自己的论坛和微信群的地址。我一发文，他就给我删了，然后我把论坛和微信群地址删了，再发，他就不给发了。&lt;br /&gt;持续了 4 、5 个月到现在，我的热榜站在 LinuxDo 里面永远发不了，只要带我的域名、github 项目地址、网站名称等等，全都是一发就秒删，也就是进黑名单了。&lt;br /&gt;&lt;br /&gt;之后我就发普通帖子咨询了下关于不能发的原因，还有发文注意事项等等。他的管理员就在里面评论说我发这篇文章的目的是什么。所以现在也放弃了那个站。转到 V2EX 里来了。&lt;br /&gt;&lt;br /&gt;咨询下大家在这里发东西的话，有哪些需要注意的点</description>
-    </item>
-    <item>
-      <title>跨境电商想找个兼职帮做自动化实施</title>
-      <link>https://www.v2ex.com/t/1178735</link>
-      <guid>v2ex-1178735</guid>
-      <pubDate>Sat, 13 Dec 2025 15:13:27 GMT</pubDate>
-      <description>如题&lt;br /&gt;&lt;br /&gt;1 ，用影刀，coze 等帮搭工作流实现自动 post 视频到 Instagram,YouTube 等&lt;br /&gt;&lt;br /&gt;2 ，调用 ai 接口自动每天生成产品视频&lt;br /&gt;&lt;br /&gt;3 ，从 Temu ，Walmart ，amazon 等平台去定时检查客户投诉等内容自动推送到飞书多维表格生成任务监控执行等&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;基本就是这些先需求，单独招个人管理又麻烦，找靠谱的兼职对于小团队来讲更合适&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;公司在深圳坂田，深圳优先，定期能见面开个会更方便，外地酌情可以考虑</description>
-    </item>
-    <item>
-      <title>感觉 MacOS 26.2 比 26.1 丝滑啊</title>
-      <link>https://www.v2ex.com/t/1178672</link>
-      <guid>v2ex-1178672</guid>
-      <pubDate>Sat, 13 Dec 2025 06:10:32 GMT</pubDate>
-      <description>&lt;p&gt;同样的工作场景。不知道是不是 26.1 许久没有关机了，总归会有一些内存泄露啥的。&lt;/p&gt;
-&lt;p&gt;这次升级 26.2 以后，丝滑无比。&lt;/p&gt;
-&lt;p&gt;另外，本次升级，黑白苹果进度条重新导入了好几次，感觉似乎有底层较大更新似得。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>怎么找到高性价比的 AI 中转站</title>
@@ -213,6 +159,20 @@
       <guid>v2ex-1178741</guid>
       <pubDate>Sat, 13 Dec 2025 16:50:05 GMT</pubDate>
       <description>请问 cursor 究竟是怎么计费的。目前是 pro 试用模式，这 token 用量真的吓人，用 agent 模式和 debug 模式随便用一下就 1400Wtoken 了，按它们官方价格早就几十刀了。所以我想问：&lt;br /&gt;1. 哪里可以看到详细的计费模式；网上说的 pro 每月 500 次调用是怎么回事。&lt;br /&gt;2. 比较省钱的使用组合方式是怎样的。&lt;br /&gt;3. 每月 20 刀的 pro 版超额度后是继续计费还是可以切到免费的模型，auto 机制是怎样的，默认会调哪些</description>
+    </item>
+    <item>
+      <title>Gemini Mac 桌面版[开源]</title>
+      <link>https://www.v2ex.com/t/1178747</link>
+      <guid>v2ex-1178747</guid>
+      <pubDate>Sat, 13 Dec 2025 20:58:27 GMT</pubDate>
+      <description>最近不想继续给 ChatGPT 付费，切换到了 Gemini 学生免费账户。但没有小窗口真的很不习惯，于是花了半天时间撸了一个 macOS 桌面端，支持悬浮聊天栏和全局快捷键呼出。&lt;br /&gt;&lt;br /&gt;写代码的时候随手一按就能弹出来问问题，用完再按一下就收起来，不用来回切窗口了。常驻菜单栏，不占 Dock 位置，强迫症友好。&lt;br /&gt;&lt;br /&gt;开源免费，有相同需求的朋友可以试试。 &lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/pfPhFye.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/pfPhFye.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/QTcxb8Y.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/QTcxb8Y.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/alexcding/gemini-desktop-mac/&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/alexcding/gemini-desktop-mac/&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>除了 v 站还有哪些质量稍微高一点的论坛可以逛</title>
+      <link>https://www.v2ex.com/t/1178687</link>
+      <guid>v2ex-1178687</guid>
+      <pubDate>Sat, 13 Dec 2025 08:44:20 GMT</pubDate>
+      <description>最近刷短视频的时间有点多，每次刷完也觉得没意思，还有哪些有意思的论坛可以逛</description>
     </item>
   </channel>
 </rss>
