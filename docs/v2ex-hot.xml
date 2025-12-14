@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 14 Dec 2025 15:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 15:36:49 GMT</lastBuildDate>
     <item>
       <title>大家的流量卡都是在哪里买的？</title>
       <link>https://www.v2ex.com/t/1178750</link>
@@ -30,28 +30,6 @@
       <description>最近不想继续给 ChatGPT 付费，切换到了 Gemini 学生免费账户。但没有小窗口真的很不习惯，于是花了半天时间撸了一个 macOS 桌面端，支持悬浮聊天栏和全局快捷键呼出。&lt;br /&gt;&lt;br /&gt;写代码的时候随手一按就能弹出来问问题，用完再按一下就收起来，不用来回切窗口了。常驻菜单栏，不占 Dock 位置，强迫症友好。&lt;br /&gt;&lt;br /&gt;开源免费，有相同需求的朋友可以试试。 &lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/pfPhFye.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/pfPhFye.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/QTcxb8Y.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/QTcxb8Y.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/alexcding/gemini-desktop-mac/&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/alexcding/gemini-desktop-mac/&lt;/a&gt;</description>
     </item>
     <item>
-      <title>苹果外区 id 被封有明确的原因可以规避吗？自建 nas 可以替代 iCloud 吗？</title>
-      <link>https://www.v2ex.com/t/1178805</link>
-      <guid>v2ex-1178805</guid>
-      <pubDate>Sun, 14 Dec 2025 07:17:26 GMT</pubDate>
-      <description>我有个美区账号也用了 10 多年了，因为国内 icloud 是云上贵州，一直把美区当主号。最近看到有不少是美国官网购买礼品卡充值也被封，所以不是黑卡的问题，我一直是这个官网购买礼品卡这个渠道。有什么明确的被封理由吗？（当初注册姓名和地址肯定是乱写的）&lt;br /&gt;账号被封之后 icloud 的照片和备忘录会给时间导出吗？钥匙串是否有办法导出备份或迁到其他账号。&lt;br /&gt;自建 nas 可以替代 iCloud 吗，会被无缘无故封号我已经想跑路了。。</description>
-    </item>
-    <item>
-      <title>猫笔刀公众号为啥这么多粉丝？</title>
-      <link>https://www.v2ex.com/t/1178760</link>
-      <guid>v2ex-1178760</guid>
-      <pubDate>Sun, 14 Dec 2025 02:12:31 GMT</pubDate>
-      <description>每篇文章阅读量都是 10w+，我觉得文章没啥营养，基本都是吹水。关注了几次，又取关了几次，实在不懂为啥这么多粉丝。</description>
-    </item>
-    <item>
-      <title>笔记本电脑为什么不出个无线充电功能？</title>
-      <link>https://www.v2ex.com/t/1178763</link>
-      <guid>v2ex-1178763</guid>
-      <pubDate>Sun, 14 Dec 2025 02:31:54 GMT</pubDate>
-      <description>&lt;p&gt;做个和笔记本一样大的充电垫子，本子放上面就能充电。少个充电线多方便。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>火绒阻止了两个奇怪的请求。clash 跑路后，新版内核是否存在问题？</title>
       <link>https://www.v2ex.com/t/1178803</link>
       <guid>v2ex-1178803</guid>
@@ -72,6 +50,28 @@
 </description>
     </item>
     <item>
+      <title>猫笔刀公众号为啥这么多粉丝？</title>
+      <link>https://www.v2ex.com/t/1178760</link>
+      <guid>v2ex-1178760</guid>
+      <pubDate>Sun, 14 Dec 2025 02:12:31 GMT</pubDate>
+      <description>每篇文章阅读量都是 10w+，我觉得文章没啥营养，基本都是吹水。关注了几次，又取关了几次，实在不懂为啥这么多粉丝。</description>
+    </item>
+    <item>
+      <title>苹果外区 id 被封有明确的原因可以规避吗？自建 nas 可以替代 iCloud 吗？</title>
+      <link>https://www.v2ex.com/t/1178805</link>
+      <guid>v2ex-1178805</guid>
+      <pubDate>Sun, 14 Dec 2025 07:17:26 GMT</pubDate>
+      <description>我有个美区账号也用了 10 多年了，因为国内 icloud 是云上贵州，一直把美区当主号。最近看到有不少是美国官网购买礼品卡充值也被封，所以不是黑卡的问题，我一直是这个官网购买礼品卡这个渠道。有什么明确的被封理由吗？（当初注册姓名和地址肯定是乱写的）&lt;br /&gt;账号被封之后 icloud 的照片和备忘录会给时间导出吗？钥匙串是否有办法导出备份或迁到其他账号。&lt;br /&gt;自建 nas 可以替代 iCloud 吗，会被无缘无故封号我已经想跑路了。。</description>
+    </item>
+    <item>
+      <title>笔记本电脑为什么不出个无线充电功能？</title>
+      <link>https://www.v2ex.com/t/1178763</link>
+      <guid>v2ex-1178763</guid>
+      <pubDate>Sun, 14 Dec 2025 02:31:54 GMT</pubDate>
+      <description>&lt;p&gt;做个和笔记本一样大的充电垫子，本子放上面就能充电。少个充电线多方便。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>今天才发现荞麦面并不能减肥,感觉我是白吃了啊.</title>
       <link>https://www.v2ex.com/t/1178786</link>
       <guid>v2ex-1178786</guid>
@@ -84,6 +84,14 @@
 也就是说大部分的热量是来自菜?&lt;/p&gt;
 &lt;p&gt;我怎么会得出这么一个结论的呢?这样对吗?&lt;/p&gt;
 &lt;p&gt;我怎么有一种毛利小五郎的感觉?&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>现在 AI 编程都用哪种工具比较好</title>
+      <link>https://www.v2ex.com/t/1178783</link>
+      <guid>v2ex-1178783</guid>
+      <pubDate>Sun, 14 Dec 2025 04:12:23 GMT</pubDate>
+      <description>&lt;p&gt;目前 Claude 用起来太小心翼翼了，主要用的是 Trae Solo 和 Codebuddy ，这两费用都是 10 刀一个月，而且还限制用量，感觉不够用啊，有没有什么便宜好用的工具推荐的？&lt;/p&gt;
 </description>
     </item>
   </channel>
