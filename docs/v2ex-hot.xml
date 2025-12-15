@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 15 Dec 2025 09:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 09:51:21 GMT</lastBuildDate>
     <item>
       <title>我写了一本书：《从零开始手搓数据库(Go)》；评论区抽奖</title>
       <link>https://www.v2ex.com/t/1178872</link>
@@ -27,20 +27,6 @@
       <guid>v2ex-1178880</guid>
       <pubDate>Mon, 15 Dec 2025 01:22:57 GMT</pubDate>
       <description>象限记账特色：按必要程度划分支出&lt;br /&gt;&lt;br /&gt;想法源于自己的需求，我想回顾自己支出是否合理，非刚性支出占比是否过大。&lt;br /&gt;比如：20 元的快餐算餐饮，299 的自助餐也算餐饮，但是它们支出性质本质上应该不一样的。&lt;br /&gt;所以，在灵光一闪之后，我开发了这个 App 。&lt;br /&gt;&lt;br /&gt;当然，对于如此卷的赛道，作为一个新的记账 App 功能还太过简单，在后续计划中功能会慢慢补全。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; [重点] 送码，明天抽 20 个非重复楼层送 [永久会员] &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;App 截图：&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/HiY1Ax13l.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 HiY1Ax13l.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/HiY1Ax13l.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/6da31TCzl.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 6da31TCzl.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/6da31TCzl.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/4k9m6Nahl.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 4k9m6Nahl.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/4k9m6Nahl.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/B4Fp6Ea1l.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 B4Fp6Ea1l.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/B4Fp6Ea1l.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>小米路由器</title>
-      <link>https://www.v2ex.com/t/1178881</link>
-      <guid>v2ex-1178881</guid>
-      <pubDate>Mon, 15 Dec 2025 01:23:17 GMT</pubDate>
-      <description>&lt;ul&gt;
-&lt;li&gt;2022 年在京东小米自营店买了个小米 4A(千兆版）路由器，当时没有带宽需求，也没关注传输速率，最近增加了个 NAS （且从移动换到电信宽带），对带宽有点需求了，我发现小米路由器连接最多到 10MB/s ，同时用电信网关自带 wifi 能到 40MB 。内网传输也最多到百兆，所以我肯定 LAN 和 WAN 都是百兆口，路由器后台看 WAN 是 1000M&lt;/li&gt;
-&lt;li&gt;发现问题后我找小米自营客服在升级到技术工程师协助排查后（重置路由器）还是百兆，让我提交售后维修（自费），我说这是欺诈参数说的千兆实际百兆，最后还是佷机械的回答。&lt;/li&gt;
-&lt;li&gt;无果我找京东 PLUS 会员专属客服，回复 2022 年购买已过售后期，我投诉到京东商城客服后，回复也是说已经使用 3 年了，还给我说他之前租房宽带也不行，最后换了个路由器（说很多因素都有可能导致网速），我回都不说外网带宽了，内网都是百兆跑不满，反正最后就是机器人回复问题的方式，我问能否升级投诉，他说这是京东最终回复。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;小米产品肯定是不买了（之前买过指纹锁、电饭煲、烧水器、手机、空调、路由器）
-京东也肯定是不用了（之前只用京东）&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>偶然发现我的老婆的皮肤摸起来麻麻的。</title>
@@ -71,6 +57,20 @@
 所以 AI 给的解决办法是让我把插头拔了，或者调转插头 180 度插回去。
 果然，两个方案都让带电效果消失了。&lt;/p&gt;
 &lt;p&gt;所以我的结论就是，平时多摸摸老婆。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>小米路由器</title>
+      <link>https://www.v2ex.com/t/1178881</link>
+      <guid>v2ex-1178881</guid>
+      <pubDate>Mon, 15 Dec 2025 01:23:17 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;2022 年在京东小米自营店买了个小米 4A(千兆版）路由器，当时没有带宽需求，也没关注传输速率，最近增加了个 NAS （且从移动换到电信宽带），对带宽有点需求了，我发现小米路由器连接最多到 10MB/s ，同时用电信网关自带 wifi 能到 40MB 。内网传输也最多到百兆，所以我肯定 LAN 和 WAN 都是百兆口，路由器后台看 WAN 是 1000M&lt;/li&gt;
+&lt;li&gt;发现问题后我找小米自营客服在升级到技术工程师协助排查后（重置路由器）还是百兆，让我提交售后维修（自费），我说这是欺诈参数说的千兆实际百兆，最后还是佷机械的回答。&lt;/li&gt;
+&lt;li&gt;无果我找京东 PLUS 会员专属客服，回复 2022 年购买已过售后期，我投诉到京东商城客服后，回复也是说已经使用 3 年了，还给我说他之前租房宽带也不行，最后换了个路由器（说很多因素都有可能导致网速），我回都不说外网带宽了，内网都是百兆跑不满，反正最后就是机器人回复问题的方式，我问能否升级投诉，他说这是京东最终回复。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;小米产品肯定是不买了（之前买过指纹锁、电饭煲、烧水器、手机、空调、路由器）
+京东也肯定是不用了（之前只用京东）&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -110,11 +110,11 @@
 </description>
     </item>
     <item>
-      <title>京东的价格保护都变味了</title>
-      <link>https://www.v2ex.com/t/1178869</link>
-      <guid>v2ex-1178869</guid>
-      <pubDate>Mon, 15 Dec 2025 00:25:46 GMT</pubDate>
-      <description>昨天逛京东弹了一个饺子，跟之前一个价就买了。到了才发现少了一份，之前是这个价格 2 袋。这个承认是自己的问题。可是价格明显下降了，保价是没变化。我觉得还是撤掉这个功能吧，现在商家这么会玩。</description>
+      <title>跟大家讲个笑话 - 关于面基失败</title>
+      <link>https://www.v2ex.com/t/1178993</link>
+      <guid>v2ex-1178993</guid>
+      <pubDate>Mon, 15 Dec 2025 06:56:13 GMT</pubDate>
+      <description>周末跟一个网友约好喝酒，和或许会有的深入交流&lt;br /&gt;&lt;br /&gt;然后，到了约好的地方，网友发消息问门口是不是我，我说是的。&lt;br /&gt;&lt;br /&gt;对方沉默了&lt;br /&gt;&lt;br /&gt;我问是不是不想见了&lt;br /&gt;&lt;br /&gt;对方说很不好意思，但是不想勉强自己&lt;br /&gt;&lt;br /&gt;我还假装很洒脱的说没关系&lt;br /&gt;&lt;br /&gt;就走了&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;这几天很内耗，很丧&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;顺便问问有没有个人改造计划，可以帮忙建议收拾收拾头发，帮忙选衣服什么的</description>
     </item>
     <item>
       <title>恋爱周年：买礼物还是直接给钱</title>
@@ -124,11 +124,13 @@
       <description>马上和女友两周年了，该买礼物还是直接转账。&lt;br /&gt;&lt;br /&gt;女友性格挺好的，本来准备送 iphone17 提了几次都不要，问想要啥也说没啥想要的。&lt;br /&gt;&lt;br /&gt;我也是个懒狗，一购物就头疼，自己买点小东西都是拖到不能再拖了，才去挑选商品。</description>
     </item>
     <item>
-      <title>人类真的拥有创新能力么？</title>
-      <link>https://www.v2ex.com/t/1178817</link>
-      <guid>v2ex-1178817</guid>
-      <pubDate>Sun, 14 Dec 2025 09:27:33 GMT</pubDate>
-      <description>什么是创新？我反思自己平时的思考过程，只是把发现的已知的东西解析成更小的单位然后重新组合在一起。实际上，答案好像从来都不是我想出来的。而是我把问题放进心里，然后答案自己就突然冒出来的，成语讲就是灵光一闪吧。&lt;br /&gt;&lt;br /&gt;我们真的有创新能力么，还是我们只是个裁缝？</description>
+      <title>儿子去外地见网友，有什么定位软件推荐？</title>
+      <link>https://www.v2ex.com/t/1179007</link>
+      <guid>v2ex-1179007</guid>
+      <pubDate>Mon, 15 Dec 2025 07:31:29 GMT</pubDate>
+      <description>&lt;p&gt;（我有一个朋友）
+儿子（已成年，在读大学生）要去外地见网友，目前可以确定的是女生大概率不是骗子。当父母的为了安全，考虑在儿子手机（一加手机）上装个定位软件（或者是用手机系统自带定位功能），咨询一下有什么推荐的方案？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
