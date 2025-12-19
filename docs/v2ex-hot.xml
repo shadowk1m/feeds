@@ -4,92 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 19 Dec 2025 00:56:21 GMT</lastBuildDate>
-    <item>
-      <title>半夜扰民怎么办，已经严重影响休息了</title>
-      <link>https://www.v2ex.com/t/1179658</link>
-      <guid>v2ex-1179658</guid>
-      <pubDate>Thu, 18 Dec 2025 01:48:26 GMT</pubDate>
-      <description>&lt;p&gt;情况：
-每天半夜一直断断续续发出咚咚咚类似敲木头的声音，已经持续接近一个月，昨天晚上分别在凌晨 12 点多，3 点多被吵醒，而且不止我们这一户被影响，已经不止一次听到有人受不了直接在楼外开骂了（我也骂了一次），上周日凌晨 5 点多好几户被吵醒，我们一起找了两个小时找不到声音来源。。。&lt;/p&gt;
-&lt;p&gt;现状：
-和物业已经反馈 n 次了，每次都是说不确定哪一户没办法，只能半夜敲的时候联系小区保安，但是保安来了也听不出是哪户，半夜也没办法一家家敲门。今天凌晨 3 点被吵醒，我下楼拍照大概确定是哪户了，因为只有他家灯是亮的，打了 110 来敲门无人回应，只能不了了之，现在人已经麻了，不知道怎么办了。现在手上有录音和今天凌晨拍的亮灯的照片&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>开网吧是不是个好生意</title>
-      <link>https://www.v2ex.com/t/1179669</link>
-      <guid>v2ex-1179669</guid>
-      <pubDate>Thu, 18 Dec 2025 02:37:39 GMT</pubDate>
-      <description>一直在考虑如果没有程序员工作了可以做什么，最近看了 b 站有个 up 主叫郝文博的奇妙日常， 从 40w 开第一家网吧， 赚到的钱又开下一家，不断积累扩大，如今已经有四家店了， 他每天就剪剪视频， 网吧都是招人看管， 完全是睡后收入的自由生活。 从他的描述和实拍，现在躺平经济，单身经济，男性享乐觉醒主义的当下，网吧生意真的不错，寒暑假更是爆满， 网吧生意大多一年半回本， 有钱了就开分店， 回本后一家店一年赚 50w ， 多开就多赚，不断积累。 各位认为这个生意怎么样？</description>
-    </item>
-    <item>
-      <title>失业的程序员们都在干啥？</title>
-      <link>https://www.v2ex.com/t/1179651</link>
-      <guid>v2ex-1179651</guid>
-      <pubDate>Thu, 18 Dec 2025 01:42:37 GMT</pubDate>
-      <description>&lt;p&gt;公司解散了，我失业了，上有老下有小中有房贷，一片迷茫，该何去何从？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>各位老司机们，车子一两天没开就一身灰尘，你们一般怎么快速低成本清理车身？</title>
-      <link>https://www.v2ex.com/t/1179666</link>
-      <guid>v2ex-1179666</guid>
-      <pubDate>Thu, 18 Dec 2025 02:08:12 GMT</pubDate>
-      <description>&lt;p&gt;京东养车 途虎养车 经常洗好像不便宜，加油站没加油不给洗，自助洗车好像麻烦还得拼手速&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>送码！ Nycto - macOS 服务管理桌面程序， launchctl 命令工具的 gui 程序。</title>
-      <link>https://www.v2ex.com/t/1179649</link>
-      <guid>v2ex-1179649</guid>
-      <pubDate>Thu, 18 Dec 2025 01:38:48 GMT</pubDate>
-      <description>&lt;h2&gt;Nycto 是什么？&lt;/h2&gt;
-&lt;p&gt;Nycto 是一款专为 macOS 服务管理的桌面程序，可以使用它来管理、创建 macOS 的后台服务，可以理解为它是 macOS 系统中的 launchctl 命令行工具的 gui 化。&lt;/p&gt;
-&lt;h2&gt;为什么你需要 Nycto ？&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;1. 告别手写 plist ，可视化管理服务&lt;/strong&gt;
-这是开发它的初衷。Nycto 提供了一个现代化的 GUI 界面来管理 macOS 的 Launch Agents 和 Daemons 。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;可视化创建&lt;/strong&gt;：不用再面对枯燥的 XML ，通过表单就能轻松创建后台服务。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;一键管理&lt;/strong&gt;：加载、卸载、启动、停止，全部一键搞定，不用再敲 &lt;code&gt;launchctl load -w ...&lt;/code&gt; 了。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;launchd 特性支持&lt;/strong&gt;： 完全支持 launchd 的定时执行、服务自动重启、资源限制等功能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;2. 行业唯一的远程管理功能&lt;/strong&gt;
-得益于 Flutter 的跨平台 UI ，Nycto 同时提供了 web ui 。如果你有多台 Mac （比如公司一台、家里一台，或者有台 Mac mini 做服务器），Nycto 可以让你：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;远程管理服务&lt;/strong&gt;：在 A 电脑上，直接管理 B 电脑上的后台服务。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;官网： &lt;a href=&quot;https://nycto.core-byte.com/&quot; rel=&quot;nofollow&quot;&gt;https://nycto.core-byte.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;🎁 送码福利&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;怎么拿？&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-在评论区随便说点啥（建议、吐槽、鼓励都行）。只需要评论中包含邮箱地址或者 base64 编码的邮箱地址，会有脚本每 5 分钟获取一次该帖子的评论，自动发送激活码到您的邮箱。&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;小提示：注意检查邮件垃圾箱。&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;规则：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;激活码有效期到 &lt;strong&gt;2026 年 4 月 1 日&lt;/strong&gt;，到期之前我会再发一次帖子，届时如果您还有继续使用 Nycto 我会为您再延长一年到期时间，这么做的意义在于您真的需要使用 Nycto 。&lt;/li&gt;
-&lt;li&gt;每位 v2 用户仅可以获得一份激活码，多次发不同的邮箱无效，激活码不限数量发放！！！&lt;/li&gt;
-&lt;li&gt;为 Nycto 提供有效 bug 或者建议的用户可以获得永久激活码，为了避免多人提出同一 bug ，您必须在 &lt;a href=&quot;https://discord.gg/3YKpRJjaDE&quot; rel=&quot;nofollow&quot;&gt;https://discord.gg/3YKpRJjaDE&lt;/a&gt; 此 discord 公共频道中发送您的 bug 或者建议。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;额外的小吐槽&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;谷歌真的没有自然流量！上个月谷歌搜索点击数量高达 15 次！该软件其实几个月前就做出来了，除了那个远程管理功能，这几个月时间付费用户数量为 0 ！除了一个大学生发邮件过来要一份免费的（ ps.我也给他了），追梦的独立开发者们可以参考下🐶，我没有啥推广经验，也没做啥付费推广。下一步可能会做推广分成，到时候只能指望多分成给 v 友们推广了。&lt;/p&gt;
-&lt;p&gt;感谢支持！🙏&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>家中矿泉水如何选择？口粮水</title>
-      <link>https://www.v2ex.com/t/1179664</link>
-      <guid>v2ex-1179664</guid>
-      <pubDate>Thu, 18 Dec 2025 02:03:21 GMT</pubDate>
-      <description>&lt;p&gt;家中会常备几箱矿泉水，一般家中口渴或外出游玩喝
-之前一直喝的景田百岁山，750ml 约合 1.8 元，是否还有其他比较合适的选择，口感好，矿物质水，最好 3 元以下
-大佬们有什么推荐的嘛&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 02:49:21 GMT</lastBuildDate>
     <item>
       <title>想问个社会问题</title>
       <link>https://www.v2ex.com/t/1179739</link>
@@ -111,11 +26,81 @@
 </description>
     </item>
     <item>
-      <title>一个月瘦十斤，我做到了！分享下实战经验。</title>
-      <link>https://www.v2ex.com/t/1179643</link>
-      <guid>v2ex-1179643</guid>
-      <pubDate>Thu, 18 Dec 2025 01:25:59 GMT</pubDate>
-      <description>关于要怎么减肥，一开始是看知乎，没想到现在烂成这样，铺天盖地的卖药软文，呵呵呵，大家都想走捷径，关键还那么多违规卖药的一个都不处理，评论区也是精选评论。东大现在这种环境，随便用药只可能风险自己 100%担。&lt;br /&gt;&lt;br /&gt;看了大量的文章，我总结出以下经验：&lt;br /&gt;&lt;br /&gt;1 ，90%是饮食，白天不控制任何饮食，关键是晚餐：我晚上只吃牛扒或者青菜，黄瓜，西红柿这样的冷盘，晚餐坚决不吃任何主食，晚上 9 点后水都不喝了；&lt;br /&gt;&lt;br /&gt;2 ，运动：刚毕业 62kg ，现在 90kg ，175cm ，BMI 28 ，跑步不合适，会伤膝盖，所以我选择了竞走 5km 每天，一公里 7 分钟配速，周一到周五只要不下雨都去竞走，周末休息。&lt;br /&gt;&lt;br /&gt;3 ，后勤给足：不熬夜，每天 23:30 睡觉，07:30 起床，睡足 8 小时。&lt;br /&gt;&lt;br /&gt;4 ，调整心态：就算失败，也没所谓，我是最棒的。&lt;br /&gt;&lt;br /&gt;那一个月是因为找工作空窗期，每天都有空，所以就这样坚持下来了，一个月瘦了 10 斤，从 95kg 降到 89.3kg ，明显感觉腰围，肚子都小了，人也更加自信。</description>
+      <title>V 友们 这周六过 30 年大寿 之前都没怎么过, 当天要不要开瓶飞天 53</title>
+      <link>https://www.v2ex.com/t/1179814</link>
+      <guid>v2ex-1179814</guid>
+      <pubDate>Thu, 18 Dec 2025 09:29:44 GMT</pubDate>
+      <description>&lt;p&gt;V 友们 这周六过 30 年大寿 之前都没怎么过 都是我妈提前提醒我快过生日了, 当天想起来了才会吃顿好的
+目前单身,现在纠结的是 当天要不要开瓶飞天 53(爱喝点)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;目前价格 1530,自己一直没喝过,正好体验下&lt;/li&gt;
+&lt;li&gt;30 岁也算人生一个里程碑了,也算纪念下&lt;/li&gt;
+&lt;li&gt;也没什么朋友,和一个带我健身的同事喝,他经常带我健身,关系不错&lt;/li&gt;
+&lt;li&gt;感觉很奢侈, 主要是父母见我没成家,都不舍得花钱&lt;/li&gt;
+&lt;li&gt;要不要开?&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>同志们，技术问题来了，大家讨论下， jwt 续签为什么要使用双 token</title>
+      <link>https://www.v2ex.com/t/1179704</link>
+      <guid>v2ex-1179704</guid>
+      <pubDate>Thu, 18 Dec 2025 03:41:16 GMT</pubDate>
+      <description>Access Token 和 Refresh Token 有什么区别呢？为什么需要两个 token? 有什么优点吗？</description>
+    </item>
+    <item>
+      <title>今天晶哥打了两个电话给我，叫我去喝茶</title>
+      <link>https://www.v2ex.com/t/1179773</link>
+      <guid>v2ex-1179773</guid>
+      <pubDate>Thu, 18 Dec 2025 07:24:42 GMT</pubDate>
+      <description>&lt;p&gt;早上打了一个没接到，刚刚又打来，说我加入了群，我这些年都是只看不说。要不要过去呢？？？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>为什么感觉 React 编写起来比 Vue 复杂很多?</title>
+      <link>https://www.v2ex.com/t/1179736</link>
+      <guid>v2ex-1179736</guid>
+      <pubDate>Thu, 18 Dec 2025 05:56:32 GMT</pubDate>
+      <description>&lt;p&gt;我在编写一个前端页面,在考虑使用 Vue 和 React 在尝试使用 React 后感觉 React 编写的页面非常的乱,因为太多太多的业务操作都感觉写在了 &amp;lt;Html/&amp;gt; 中而不是和 Vue 一样进行了 脚本 template style 进行拆分,不过我都是 AI 写的,是不是编写的习惯有问题?&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>存储涨价、欠钱不还，最终我选择了 115</title>
+      <link>https://www.v2ex.com/t/1179702</link>
+      <guid>v2ex-1179702</guid>
+      <pubDate>Thu, 18 Dec 2025 03:33:39 GMT</pubDate>
+      <description>&lt;p&gt;起因是过去大半年了，115 那签到返现的 500 块仍迟迟未到，昨天我就找客服：要是再不提现就 12315/起诉&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;1000058366.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s2.loli.net/2025/12/18/47gD9ZGUFNwv8c1.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;结果今天无意翻绿书发现出了个 800/8 年的促销活动……
+心动了……&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;1000058375.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s2.loli.net/2025/12/18/BLWZQPNTkxycrs7.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;提不了我还花不了吗？&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;1000058367.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s2.loli.net/2025/12/18/SZsgBmi4FOIx7qj.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;按照余额汇率 1:1.3 ，补上 150 。到手 650/8 年 40T&lt;/p&gt;
+&lt;p&gt;接下来就看 115 能苟到几时了🥲&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>反思：历史总是惊人的相似，通过别人的发展看自己未来的发展。</title>
+      <link>https://www.v2ex.com/t/1179679</link>
+      <guid>v2ex-1179679</guid>
+      <pubDate>Thu, 18 Dec 2025 02:57:48 GMT</pubDate>
+      <description>“简单来说，过去只需参加校园招聘会就能找到工作。但现在校招岗位大幅度萎缩，学生们一旦不能在规定时间内找到工作，就面临毕业即失业的困境。由此海量失业大学生，在社招市场形成了一个巨大的就业堰塞湖。而 90 年代日本社招基本由中小企业构成。中小企业对员工的压榨程度，想必今天的我们都有感受。这段时期大学生毕业 3 年离职率超过 30%，频繁的跳槽又加剧了学历贬值。至 1995 年大学生起薪出现 30 年以来首次负增长，学历贬值问题成为当年日本热议的话题。”</description>
+    </item>
+    <item>
+      <title>兄弟们，你们都是如何高效管理时间的？</title>
+      <link>https://www.v2ex.com/t/1179896</link>
+      <guid>v2ex-1179896</guid>
+      <pubDate>Fri, 19 Dec 2025 00:59:31 GMT</pubDate>
+      <description>&lt;p&gt;我每天下班经过车途，到家差不多 7 点半了，休息半个小时，就 9 点了。然后我有健身的习惯，去健身房运动或者公园跑步，就 10 点了，我现在是自己做饭吃了，所以每天还需要花半小时做饭做菜。然后就是 10 点半了，也有打游戏的习惯，一般都会打 2 局 lol 的大乱斗，这个时候一般就是 11 点过了，这个时候一般我都会洗漱上床了。我买了些兴趣书，没看几页就 12 点了。真的，感觉时间过得好快。求教各位兄弟们，你们都是如何高效管理时间的？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>iPhone Fold 的传闻越来越确切了，大家期待吗</title>
+      <link>https://www.v2ex.com/t/1179746</link>
+      <guid>v2ex-1179746</guid>
+      <pubDate>Thu, 18 Dec 2025 06:23:12 GMT</pubDate>
+      <description>IT 之家 12 月 18 日消息，科技媒体 &lt;a target=&quot;_blank&quot; href=&quot;http://iPhone-Ticker.de&quot; rel=&quot;nofollow noopener&quot;&gt;iPhone-Ticker.de&lt;/a&gt; 昨日（ 12 月 17 日）发布博文，分享了一组 CAD 渲染图，展示了苹果首款折叠屏手机 iPhone Fold ，并标注了相关尺寸信息。&lt;br /&gt;&lt;br /&gt;与此前市场预期的修长机身不同，这组图纸展示了一款造型更为“矮胖”的设备，折叠状态下形似一本护照。&lt;br /&gt;&lt;br /&gt;数据显示，该机单侧宽度为 83.8 毫米，高度仅 120.6 毫米。最引人注目的是其厚度控制：展开状态下机身仅厚 4.8 毫米，即便折叠后也仅为 9.6 毫米（不含摄像头凸起）。&lt;br /&gt;&lt;br /&gt;在屏幕配置上，曝光的 CAD 图显示其内屏对角线尺寸为 7.76 英寸，虽然略小于 iPad mini 的 8.3 英寸，但视觉体验已非常接近，其内屏分辨率高达 2713×1920 ，像素密度预计将超过现款 iPad mini 。IT 之家附上相关图片如下：&lt;br /&gt;&lt;br /&gt;外屏方面，该机配备了一块 5.49 英寸的显示屏，分辨率为 2088×1422 。这种特殊的长宽比设计，似乎是为了确保内屏展开后能获得更接近平板电脑的显示比例，从而优化分屏操作与媒体浏览体验。&lt;br /&gt;&lt;br /&gt;为了解决折叠屏常见的折痕问题，图纸暗示苹果可能采用了特殊的铰链设计，闭合时铰链区域会有约 1.8 毫米的微小突出，这种设计有助于减少屏幕弯折处的应力，从而延长面板寿命。&lt;br /&gt;&lt;br /&gt;影像系统方面，背部延续了传闻中 iPhone Air 的“跑道式”摄像头隆起设计（ Camera Plateau ），并搭载了双摄系统，这与此前“首款折叠屏仅配单摄”的传闻相左。此外，内外屏均配备了前置摄像头，内屏摄像头位于偏一侧的位置，具体是采用灵动岛还是其他方案尚不明确。&lt;br /&gt;&lt;br /&gt;不过科技媒体 Appleinsider 指出，尽管这组渲染图细节丰富，但仍存在不少疑点。例如，图纸显示扬声器开孔和 USB-C 接口仅分布在机身的一侧，对于一款定位高端的“类 iPad”设备而言，缺乏立体声扬声器显得不合常理。&lt;br /&gt;&lt;br /&gt;考虑到苹果通常对未发布产品的保密极其严格，且距离 2026 年的预计发布时间尚早，该媒体认为这组来自配件商的 CAD 图极可能只是基于早期猜想的工程占位模型，而非最终定稿。</description>
     </item>
   </channel>
 </rss>
