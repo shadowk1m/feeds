@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 20 Dec 2025 04:17:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 04:45:06 GMT</lastBuildDate>
     <item>
       <title>[送码] 音伴 FM 一个纯粹的收音机广播电台 APP (iOS/macOS)</title>
       <link>https://www.v2ex.com/t/1180035</link>
@@ -116,143 +116,11 @@
 </description>
     </item>
     <item>
-      <title>孩子，那不是说明书，那是祈祷文</title>
-      <link>https://www.v2ex.com/t/1179965</link>
-      <guid>v2ex-1179965</guid>
-      <pubDate>Fri, 19 Dec 2025 04:26:25 GMT</pubDate>
-      <description>&lt;p&gt;那天傍晚，我坐在养老院的摇椅上，身旁的 AI 护工正在给我升级第 42 次人格补丁。我孙子突然抬起头，满脸震惊地问我：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“爷爷，你们 2025 年写代码……&lt;strong&gt;是不是很迷信？&lt;/strong&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我愣了一下：“为什么这么说？”&lt;/p&gt;
-&lt;p&gt;他把全息投影转向我，屏幕上赫然是我年轻时的一个项目目录：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;.
-├── src/
-├── .claude
-├── CLAUDE.md
-├── .cursorrules
-├── .github/
-│   └── copilot-instructions.md
-├── AGENTS.md
-├── openspec.yaml
-├── prompts/
-│   ├── system.txt
-│   └── personality.md
-└── README.md
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;“你看，”他说，“核心代码只有 3 行，但&lt;strong&gt;你们给 AI 写的说明书比《人类简史》还厚&lt;/strong&gt;。”&lt;/p&gt;
-&lt;p&gt;我叹了口气：“孩子，那不是说明书，那是&lt;strong&gt;祈祷文&lt;/strong&gt;。”&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🛐 多神崇拜的 IDE 年代&lt;/h3&gt;
-&lt;p&gt;“那时候，”我缓缓说道，“我们处在&lt;strong&gt;大语言模型诸神混战时期&lt;/strong&gt;。”&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Cursor 是一尊神  &lt;/li&gt;
-&lt;li&gt;Claude 是另一尊神  &lt;/li&gt;
-&lt;li&gt;Copilot 是北欧体系的神  &lt;/li&gt;
-&lt;li&gt;开源 Agent 是民间邪神  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;而且它们全都自称‘兼容标准’。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你如果只写一个 &lt;code&gt;&lt;a href=&quot;http://AGENTS.md&quot; rel=&quot;nofollow&quot;&gt;AGENTS.md&lt;/a&gt;&lt;/code&gt;，Cursor 会说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我不吃这个格式。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;你改成 &lt;code&gt;.cursorrules&lt;/code&gt;，Claude 又会说：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“抱歉，我在 IDE 模式下是盲人。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;你把它们统一写进 &lt;code&gt;openspec.yaml&lt;/code&gt;，所有 AI 一致表示：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“这个很好，但我们暂时不支持。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h3&gt;📜 给 AI 写 Prompt 的正确姿势（ 2025 ）&lt;/h3&gt;
-&lt;p&gt;我孙子打断我：“那你们不能只写一个吗？”&lt;/p&gt;
-&lt;p&gt;我冷笑一声。&lt;/p&gt;
-&lt;p&gt;“你不懂。&lt;strong&gt;每个 AI 都需要被‘单独尊重’。&lt;/strong&gt;”&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;对 Cursor ，你要说：“你是一个世界级软件工程师”&lt;/li&gt;
-&lt;li&gt;对 Claude ，你要说：“你是一个谨慎、谦逊、有原则的助手”&lt;/li&gt;
-&lt;li&gt;对 Copilot ，你要说：“请直接给代码，不要废话”&lt;/li&gt;
-&lt;li&gt;对开源 Agent ，你得先告诉它现在是几几年、你是谁、它是谁、你们为什么存在&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;但你要用完全不同的文件名说这些话。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;否则它们会生气。
-生气的表现是：&lt;br/&gt;
-✅ 一本正经地写错代码&lt;br/&gt;
-✅ 极度自信地胡说八道&lt;br/&gt;
-✅ 在你问 A 的时候回答 B  &lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🧠 最荒诞的部分&lt;/h3&gt;
-&lt;p&gt;“那你们怎么调试这些 AI ？”孙子问。&lt;/p&gt;
-&lt;p&gt;我沉默了很久。&lt;/p&gt;
-&lt;p&gt;“靠玄学。”&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;有时候删掉 &lt;code&gt;.claude&lt;/code&gt;，Cursor 突然变聪明了  &lt;/li&gt;
-&lt;li&gt;有时候加一行“请一步一步思考”，Copilot 就不动了  &lt;/li&gt;
-&lt;li&gt;有时候什么都不改，&lt;strong&gt;重启 IDE 就好了&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我们称之为：  &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Prompt Cache 未对齐&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;其实就是：  &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;我们也不知道为什么&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h3&gt;📦 那个时代最经典的提交记录&lt;/h3&gt;
-&lt;p&gt;我点开一个古老的 commit：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;feat: adjust agent prompts&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;改动内容：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;0 行业务代码  &lt;/li&gt;
-&lt;li&gt;+300 行 prompt  &lt;/li&gt;
-&lt;li&gt;-200 行 prompt  &lt;/li&gt;
-&lt;li&gt;修复了一个 Bug  &lt;/li&gt;
-&lt;li&gt;引入了两个新 Bug  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;孙子瞪大了眼睛：“所以你们一天都在干嘛？”&lt;/p&gt;
-&lt;p&gt;我望向远方的数据中心废墟，语气沉重：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“&lt;strong&gt;我们不是在写代码。&lt;br/&gt;
-我们是在和不同厂商的 AI 沟通它们该如何理解同一份代码。&lt;/strong&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🪦 技术史的终章&lt;/h3&gt;
-&lt;p&gt;“那后来呢？”他问。&lt;/p&gt;
-&lt;p&gt;“后来行业终于统一了。”&lt;/p&gt;
-&lt;p&gt;“哇！那太好了！”&lt;/p&gt;
-&lt;p&gt;“是啊，”我点点头，“统一成了——&lt;strong&gt;每个工具一个自己的标准&lt;/strong&gt;。”&lt;/p&gt;
-&lt;p&gt;他沉默了。&lt;/p&gt;
-&lt;p&gt;我补了一句：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“就像当年的浏览器大战。&lt;br/&gt;
-不过这次，我们连页面都没渲染出来，&lt;br/&gt;
-&lt;strong&gt;光在写给浏览器看的说明书。&lt;/strong&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h3&gt;✅ 时代总结（写在 README 最后）&lt;/h3&gt;
-&lt;p&gt;我给孙子念出 README 的最后一句话：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;This project works correctly&lt;br/&gt;
-as long as you open it&lt;br/&gt;
-with the same IDE, the same AI,&lt;br/&gt;
-the same version,&lt;br/&gt;
-on the same day&lt;br/&gt;
-with the same mood.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;孙子缓缓点头：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“爷爷，我终于明白为什么后来会立法禁止 &lt;code&gt;.claude&lt;/code&gt; 文件了。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我笑了。&lt;br/&gt;
-笑得很开心。&lt;br/&gt;
-因为那一刻我知道——&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;人类终于从 Prompt 工程中毕业了。&lt;/strong&gt;&lt;/p&gt;
-&lt;hr/&gt;
-</description>
+      <title>最近有点迷茫过头了，越来越不知所措，求指点迷津。</title>
+      <link>https://www.v2ex.com/t/1180017</link>
+      <guid>v2ex-1180017</guid>
+      <pubDate>Fri, 19 Dec 2025 07:44:49 GMT</pubDate>
+      <description>我是做外贸运营的（阿里，谷歌独立站），目前在这家公司已经工作 7 年了。马上就 32 岁了，未婚未育。目前工作不管是环境还是前景都令我感到不适了。因为今年超额完成任务，领导觉得我们太轻松了，明年给加很多任务额，所以明年薪资也会降很多（今年月均 1W 多点）。明年想提桶，但是很担心工作不好找。继续呆着也没有意义还不开心。&lt;br /&gt;&lt;br /&gt;目前处境感觉有些尴尬。继续在济南呆着吧，工资就那样而且租房贵。回老家吧，老家都没有这种岗位。自己创业吧，又不认识供应链（我本身不喜欢社交，一般休息日就在家呆着，属于社恐）。工作这些年也没啥存款（ 10W 都没有），躺平根本不可能。&lt;br /&gt;&lt;br /&gt;所以，我还有啥出路呢？ V 友们有啥好的建议吗？</description>
     </item>
   </channel>
 </rss>
