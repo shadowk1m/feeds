@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 21 Dec 2025 05:40:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 06:17:26 GMT</lastBuildDate>
     <item>
       <title>我发现手下很多年轻人（后 90 后到 00 后）打字指法都不规范，能盲打的是少数</title>
       <link>https://www.v2ex.com/t/1180178</link>
@@ -49,6 +49,13 @@
 </description>
     </item>
     <item>
+      <title>小区附近三家快递驿站取件都强制下载拼多多了，扫码才能亮灯，这咋整？</title>
+      <link>https://www.v2ex.com/t/1180174</link>
+      <guid>v2ex-1180174</guid>
+      <pubDate>Sat, 20 Dec 2025 11:39:11 GMT</pubDate>
+      <description>坚决不想在手机上下载拼多多这种毫无底线的软件，下一步打算投诉 12345 和要求快递小哥送货上门</description>
+    </item>
+    <item>
       <title>筹备许久，终于我也创建了自己的论坛，欢迎来玩</title>
       <link>https://www.v2ex.com/t/1180156</link>
       <guid>v2ex-1180156</guid>
@@ -60,27 +67,6 @@ QHBH98UO0L69
 GOJVYZDIUEWE
 L8NAEGEZTUGH
 K9BBJRGX7ZPE&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>小区附近三家快递驿站取件都强制下载拼多多了，扫码才能亮灯，这咋整？</title>
-      <link>https://www.v2ex.com/t/1180174</link>
-      <guid>v2ex-1180174</guid>
-      <pubDate>Sat, 20 Dec 2025 11:39:11 GMT</pubDate>
-      <description>坚决不想在手机上下载拼多多这种毫无底线的软件，下一步打算投诉 12345 和要求快递小哥送货上门</description>
-    </item>
-    <item>
-      <title>是我的错觉吗？感觉 Gemini 是个患有健忘症的玩意儿</title>
-      <link>https://www.v2ex.com/t/1180148</link>
-      <guid>v2ex-1180148</guid>
-      <pubDate>Sat, 20 Dec 2025 08:06:38 GMT</pubDate>
-      <description>&lt;p&gt;目前 ChatGPT 和 Gemini 都在用。&lt;/p&gt;
-&lt;p&gt;我习惯了常开着 5.2pro Thinking 、Gemini PRO 。都官网页面入口。&lt;/p&gt;
-&lt;p&gt;问它俩相同的问题，在经历过反复多轮对话后，Gemini 老是会丢失重要信息，并且你提醒它有东西丢掉后，开 Canvas 让它梳理一遍，它还能继续漏掉。直到你点它一句“你忘记了刚才第几节标题 xxx”它才会说“抱歉”然后把东西补上。&lt;/p&gt;
-&lt;p&gt;而隔壁的 ChatGPT ，无论聊了多长，感觉它一直带着关键信息在走，比如，你最开始说的话，和现在说的话有冲突，它都会主动提醒你有冲突问询你。&lt;/p&gt;
-&lt;p&gt;这俩在分析相同文档的时候，让它们输出观点时效果更佳明显。&lt;/p&gt;
-&lt;p&gt;ChatGPT 除了页面单次对话太多会出现卡顿外各方面我都很满意。解决加载卡的唯一办法就是有开始卡苗头的时候就让它总结一下新开一个对话。装插件什么的都不大好使。&lt;/p&gt;
-&lt;p&gt;Gemini 现在已经没咋用了。即便是让它写前端做个报表页面出来，它也能写着写着把原本有的饼图列表给写丢。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -96,6 +82,20 @@ K9BBJRGX7ZPE&lt;/p&gt;
 是否有软件可以监测?&lt;br/&gt;
 日志太多了,也没什么感叹号,报警之类的发现&lt;br/&gt;
 也有年付卡巴斯基在运行着,最近半年也没装过新软件&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>是我的错觉吗？感觉 Gemini 是个患有健忘症的玩意儿</title>
+      <link>https://www.v2ex.com/t/1180148</link>
+      <guid>v2ex-1180148</guid>
+      <pubDate>Sat, 20 Dec 2025 08:06:38 GMT</pubDate>
+      <description>&lt;p&gt;目前 ChatGPT 和 Gemini 都在用。&lt;/p&gt;
+&lt;p&gt;我习惯了常开着 5.2pro Thinking 、Gemini PRO 。都官网页面入口。&lt;/p&gt;
+&lt;p&gt;问它俩相同的问题，在经历过反复多轮对话后，Gemini 老是会丢失重要信息，并且你提醒它有东西丢掉后，开 Canvas 让它梳理一遍，它还能继续漏掉。直到你点它一句“你忘记了刚才第几节标题 xxx”它才会说“抱歉”然后把东西补上。&lt;/p&gt;
+&lt;p&gt;而隔壁的 ChatGPT ，无论聊了多长，感觉它一直带着关键信息在走，比如，你最开始说的话，和现在说的话有冲突，它都会主动提醒你有冲突问询你。&lt;/p&gt;
+&lt;p&gt;这俩在分析相同文档的时候，让它们输出观点时效果更佳明显。&lt;/p&gt;
+&lt;p&gt;ChatGPT 除了页面单次对话太多会出现卡顿外各方面我都很满意。解决加载卡的唯一办法就是有开始卡苗头的时候就让它总结一下新开一个对话。装插件什么的都不大好使。&lt;/p&gt;
+&lt;p&gt;Gemini 现在已经没咋用了。即便是让它写前端做个报表页面出来，它也能写着写着把原本有的饼图列表给写丢。&lt;/p&gt;
 </description>
     </item>
     <item>
