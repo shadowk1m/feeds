@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 21 Dec 2025 14:38:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 15:10:12 GMT</lastBuildDate>
     <item>
       <title>新书 &lt;Learn me a solana&gt; 写完了, 从码字大师复归常人，评论区留下 solana 地址, 我来发纪念币庆祝一下~</title>
       <link>https://www.v2ex.com/t/1180199</link>
@@ -154,11 +154,29 @@
 </description>
     </item>
     <item>
-      <title>新能源车之实体物理按键</title>
-      <link>https://www.v2ex.com/t/1180193</link>
-      <guid>v2ex-1180193</guid>
-      <pubDate>Sat, 20 Dec 2025 16:44:04 GMT</pubDate>
-      <description>&lt;p&gt;现在新能源车都是触摸屏，通过语音或者触屏控制，作为车主，其实这个实体物理按键有没有必要？例如小米的物理按键。&lt;/p&gt;
+      <title>几十 G 的本地文件怎么快速传到远程服务器？</title>
+      <link>https://www.v2ex.com/t/1180242</link>
+      <guid>v2ex-1180242</guid>
+      <pubDate>Sun, 21 Dec 2025 08:49:56 GMT</pubDate>
+      <description>&lt;p&gt;有几个 50G 左右的文件，怎么快速、稳定的传到加拿大的服务器呢？
+试过 rsync ，但是速度太慢&lt;/p&gt;
+&lt;p&gt;测了下速度还可以&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec  95.7 KBytes   784 Kbits/sec                  
+[  5]   1.00-2.00   sec  1.80 MBytes  15.1 Mbits/sec                  
+[  5]   2.00-3.00   sec  5.87 MBytes  49.2 Mbits/sec                  
+[  5]   3.00-4.00   sec  8.20 MBytes  68.8 Mbits/sec                  
+[  5]   4.00-5.00   sec  8.29 MBytes  69.6 Mbits/sec                  
+[  5]   5.00-6.00   sec  6.25 MBytes  52.4 Mbits/sec                  
+[  5]   6.00-7.00   sec  83.4 KBytes   683 Kbits/sec                  
+[  5]   7.00-8.00   sec  3.83 MBytes  32.1 Mbits/sec                  
+[  5]   8.00-9.00   sec   204 KBytes  1.67 Mbits/sec                  
+[  5]   9.00-10.00  sec   227 KBytes  1.86 Mbits/sec                  
+[  5]  10.00-10.24  sec  57.4 KBytes  1.97 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.24  sec  34.9 MBytes  28.6 Mbits/sec                  receiver
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
   </channel>
