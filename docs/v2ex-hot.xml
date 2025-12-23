@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 23 Dec 2025 08:17:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 08:49:37 GMT</lastBuildDate>
     <item>
       <title>同学聚会，被上了一课</title>
       <link>https://www.v2ex.com/t/1180610</link>
@@ -70,26 +70,6 @@ A：“我在上海快 7 年了”&lt;br/&gt;
 </description>
     </item>
     <item>
-      <title>我的 app 被人干了，颠覆了我的认知！</title>
-      <link>https://www.v2ex.com/t/1180497</link>
-      <guid>v2ex-1180497</guid>
-      <pubDate>Mon, 22 Dec 2025 12:50:57 GMT</pubDate>
-      <description>&lt;p&gt;上周我 app 用户群来了一位不速之客，发了一张图片&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/imgs/2025/12/22/0c96aba433672cb9.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;我一看，我艹，这不被破解了嘛。
-随即我踢了他，然后当天下午加了他 wx ，他同意了。
-整个聊天过程没有急眼，他还表明破解的这个包没有流传出去。
-因为那个人只愿出几十块钱，他肯定不会成交的，纯试试水，就破了。&lt;/p&gt;
-&lt;p&gt;从聊天记录我总结出以下几点：&lt;/p&gt;
-&lt;p&gt;1：他不懂安卓代码，纯靠几个工具 [其中有 MT 管理器[狗东西，开发者天敌]] 就能快速重签打包，我在 Java 和 cpp 中有几个签名验证的埋点，他依然能打包，并正常运行。&lt;/p&gt;
-&lt;p&gt;2：我的 app 核心功能要用到安装包中的本地带密 zip ，解压密码由后台配置信息接口返回，每个版本的安装包中的 zip 解压密码都不一致，所以我故意改了后台配置信息接口中的密码，他破解的老包功能依然正常使用，我轻描淡写问了他，他说就一个工具就能搞定。&lt;/p&gt;
-&lt;p&gt;3：他还能破包后加卡密弹窗，说这是基操。视频链接： &lt;a href=&quot;https://m.okjike.com/originalPosts/69493b881cc9bc8e54a2608d?s=eyJ1IjoiNjM1Nzg4ZjM0N2RkNjRhN2Y3Y2RiMTk0In0%3D&quot; rel=&quot;nofollow&quot;&gt;https://m.okjike.com/originalPosts/69493b881cc9bc8e54a2608d?s=eyJ1IjoiNjM1Nzg4ZjM0N2RkNjRhN2Y3Y2RiMTk0In0%3D&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;经过几天的 v 站查帖和看 B 站视频，我知道业务逻辑在本地是无法完全防破解的，只是有几点疑问。&lt;/p&gt;
-&lt;p&gt;1：加卡密弹窗的云注入平台为爱发电？就没人投诉吗？&lt;/p&gt;
-&lt;p&gt;2：他破解的包为什么不受后端动态解压密码控制?如果绕过校检本地如何解压成功呢？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>衣服清库存，半卖半送</title>
       <link>https://www.v2ex.com/t/1180625</link>
       <guid>v2ex-1180625</guid>
@@ -114,6 +94,26 @@ A：“我在上海快 7 年了”&lt;br/&gt;
 &lt;p&gt;&lt;a href=&quot;https://shop251032684.taobao.com/?ali_refid=a3_430582_1006:1678772461:H:dg69LmwXT7fyme6VR9f9Yw%3D%3D:af71b6d237f4bad1afffda2eb4999b92&amp;amp;ali_trackid=282_af71b6d237f4bad1afffda2eb4999b92&amp;amp;spm=a21n57.1.hoverItem.1&amp;amp;mm_sceneid=1_0_2488910038_0&quot; rel=&quot;nofollow&quot;&gt;https://shop251032684.taobao.com/?ali_refid=a3_430582_1006:1678772461:H:dg69LmwXT7fyme6VR9f9Yw%3D%3D:af71b6d237f4bad1afffda2eb4999b92&amp;amp;ali_trackid=282_af71b6d237f4bad1afffda2eb4999b92&amp;amp;spm=a21n57.1.hoverItem.1&amp;amp;mm_sceneid=1_0_2488910038_0&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;另外从楼层抽 5 位小伙伴从 [ V 友福利] 送出一件短袖~ 评论即可。&lt;/h2&gt;
 &lt;h2&gt;2026.1.1 新年开奖~&lt;/h2&gt;
+</description>
+    </item>
+    <item>
+      <title>我的 app 被人干了，颠覆了我的认知！</title>
+      <link>https://www.v2ex.com/t/1180497</link>
+      <guid>v2ex-1180497</guid>
+      <pubDate>Mon, 22 Dec 2025 12:50:57 GMT</pubDate>
+      <description>&lt;p&gt;上周我 app 用户群来了一位不速之客，发了一张图片&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/imgs/2025/12/22/0c96aba433672cb9.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;我一看，我艹，这不被破解了嘛。
+随即我踢了他，然后当天下午加了他 wx ，他同意了。
+整个聊天过程没有急眼，他还表明破解的这个包没有流传出去。
+因为那个人只愿出几十块钱，他肯定不会成交的，纯试试水，就破了。&lt;/p&gt;
+&lt;p&gt;从聊天记录我总结出以下几点：&lt;/p&gt;
+&lt;p&gt;1：他不懂安卓代码，纯靠几个工具 [其中有 MT 管理器[狗东西，开发者天敌]] 就能快速重签打包，我在 Java 和 cpp 中有几个签名验证的埋点，他依然能打包，并正常运行。&lt;/p&gt;
+&lt;p&gt;2：我的 app 核心功能要用到安装包中的本地带密 zip ，解压密码由后台配置信息接口返回，每个版本的安装包中的 zip 解压密码都不一致，所以我故意改了后台配置信息接口中的密码，他破解的老包功能依然正常使用，我轻描淡写问了他，他说就一个工具就能搞定。&lt;/p&gt;
+&lt;p&gt;3：他还能破包后加卡密弹窗，说这是基操。视频链接： &lt;a href=&quot;https://m.okjike.com/originalPosts/69493b881cc9bc8e54a2608d?s=eyJ1IjoiNjM1Nzg4ZjM0N2RkNjRhN2Y3Y2RiMTk0In0%3D&quot; rel=&quot;nofollow&quot;&gt;https://m.okjike.com/originalPosts/69493b881cc9bc8e54a2608d?s=eyJ1IjoiNjM1Nzg4ZjM0N2RkNjRhN2Y3Y2RiMTk0In0%3D&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;经过几天的 v 站查帖和看 B 站视频，我知道业务逻辑在本地是无法完全防破解的，只是有几点疑问。&lt;/p&gt;
+&lt;p&gt;1：加卡密弹窗的云注入平台为爱发电？就没人投诉吗？&lt;/p&gt;
+&lt;p&gt;2：他破解的包为什么不受后端动态解压密码控制?如果绕过校检本地如何解压成功呢？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -174,11 +174,21 @@ Unity 引擎（这个对程序员来说还好）
 </description>
     </item>
     <item>
-      <title>刚起来听说昨天好像快手被攻破了，大家有看到的吗？</title>
-      <link>https://www.v2ex.com/t/1180551</link>
-      <guid>v2ex-1180551</guid>
-      <pubDate>Tue, 23 Dec 2025 00:34:08 GMT</pubDate>
-      <description>刚起来听说昨天好像快手被攻破了，大家有看到的吗？</description>
+      <title>因为一台电脑，媳妇儿跟我闹不愉快？？</title>
+      <link>https://www.v2ex.com/t/1180694</link>
+      <guid>v2ex-1180694</guid>
+      <pubDate>Tue, 23 Dec 2025 07:49:19 GMT</pubDate>
+      <description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;去年媳妇儿给我买了一台 mbp 。虽然一直以来我很想买一台 mbp （可能是每个程序员的执着），但我考虑到公司本身配有一台电脑，况且我之前的戴尔笔记本用着也没有什么问题，且才买了房车，也考虑到要结婚，经济压力较大，想着没必要花一万多去购买一个“玩具”，也就没有那么强烈的购买欲望。&lt;/p&gt;
+&lt;p&gt;巧的是去年她的电脑坏了（她是一名教师，对电脑的需求基本就是 word, ppt, 浏览器查查资料，我的戴尔笔记本完全能够轻松胜任），也就是在这个情况下，她趁这个机会给我买了一台 mbp ，由于她职业原因也蹭了一波教育优惠，送的耳机我本身想留给她用，由于她不咋爱戴耳机，她送给她弟弟了，自然而然我以前的笔记本就拿给她使用了。当然我打心底的感谢她送我的这台电脑。&lt;/p&gt;
+&lt;p&gt;再把戴尔笔记本给她的时候我说明那个电池有点不保电了，续航可能就一个小时左右，如果她有不带电使用的场景，可能需要换块电池，得知她基本没有离电使用的情况，基本都是在办公室使用，所以当时就没有去更换，平时我也给她说把电源插着用就行了，然后放寒暑假的时候带回来，不然亏电电池很容易坏，但是放寒暑假她都没带回来，我就给他说，那电池基本就废了。&lt;/p&gt;
+&lt;h2&gt;爆发&lt;/h2&gt;
+&lt;p&gt;最近她在参加一个比赛，需要开会，电池坏了，不方便带电源，电脑无法使用，她说想换个电脑，人家电脑都能用，就她电脑打不开，感觉很憨。当时我以为是电脑坏掉了，结果说是离了电开不了机，我就说肯定是电池不行了，我就说你带回来我帮你换个电池就行了，结果不愉快的事情就发生了，她说我不让她买电脑，说一堆凭什么我不能拥有自己的电脑，还说为什么别人的电脑可以不插电，我说可能是你放寒暑假没带回来亏电导致电池坏了，她反驳说她同事都没带回去，此刻我真的无话可说了，但是我还是让她把电脑带回来换个电池就可以正常使用了，她又说，她这几天正要用，我说你把我的 mbp 拿去用，我说反正我也没怎么用放家里吃灰，这个时候气人的来了，她直接回了一句，她不配用这么好的电脑？&lt;/p&gt;
+&lt;p&gt;我实在是搞不懂她现在的脑回路，没明白她换电脑的必要性，她一口咬死我不让她换电脑，我很无语，就跟她吵起来了。&lt;/p&gt;
+&lt;h2&gt;反思&lt;/h2&gt;
+&lt;p&gt;这两年由于工作，生活的原因，且大环境确实不如以前好，的确我在经济上比较节俭，自己也没啥消费欲望，我想着能多存些现金，比较有安全感，但这被她定义为抠搜、不舍得花钱，但在生活中基本的大花销都是我掏钱，并且该买的东西我都在买，只是相对理智且有计划而已，而她基本就买她喜欢吃的东西，衣服，日用品，且这些日用品经常用，就被她定义为我在花她的钱（目前我们都是各自管各自的钱）等。&lt;/p&gt;
+&lt;p&gt;我真的不知道自己哪儿错了？难道我真的“抠搜”吗？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
