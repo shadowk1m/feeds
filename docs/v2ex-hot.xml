@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 23 Dec 2025 07:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 07:41:39 GMT</lastBuildDate>
     <item>
       <title>为什么在国外似乎日本麻将比中国麻将要更流行</title>
       <link>https://www.v2ex.com/t/1180553</link>
@@ -119,19 +119,23 @@ Unity 引擎（这个对程序员来说还好）
 </description>
     </item>
     <item>
-      <title>快手这一波，不知道能不能扛住？</title>
-      <link>https://www.v2ex.com/t/1180561</link>
-      <guid>v2ex-1180561</guid>
-      <pubDate>Tue, 23 Dec 2025 01:09:55 GMT</pubDate>
-      <description>&lt;p&gt;昨持续时间这么久，据说封都封不掉，不知道后面扛得住不，不知道是罚款还是像内涵段子一样&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>比较好奇，为什么昨晚快手的审核手段失效？</title>
-      <link>https://www.v2ex.com/t/1180559</link>
-      <guid>v2ex-1180559</guid>
-      <pubDate>Tue, 23 Dec 2025 00:51:08 GMT</pubDate>
-      <description>&lt;p&gt;很神奇的一个事情，持续时间也不算短&lt;/p&gt;
+      <title>我的 app 被人干了，颠覆了我的认知！</title>
+      <link>https://www.v2ex.com/t/1180497</link>
+      <guid>v2ex-1180497</guid>
+      <pubDate>Mon, 22 Dec 2025 12:50:57 GMT</pubDate>
+      <description>&lt;p&gt;上周我 app 用户群来了一位不速之客，发了一张图片&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/imgs/2025/12/22/0c96aba433672cb9.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;我一看，我艹，这不被破解了嘛。
+随即我踢了他，然后当天下午加了他 wx ，他同意了。
+整个聊天过程没有急眼，他还表明破解的这个包没有流传出去。
+因为那个人只愿出几十块钱，他肯定不会成交的，纯试试水，就破了。&lt;/p&gt;
+&lt;p&gt;从聊天记录我总结出以下几点：&lt;/p&gt;
+&lt;p&gt;1：他不懂安卓代码，纯靠几个工具 [其中有 MT 管理器[狗东西，开发者天敌]] 就能快速重签打包，我在 Java 和 cpp 中有几个签名验证的埋点，他依然能打包，并正常运行。&lt;/p&gt;
+&lt;p&gt;2：我的 app 核心功能要用到安装包中的本地带密 zip ，解压密码由后台配置信息接口返回，每个版本的安装包中的 zip 解压密码都不一致，所以我故意改了后台配置信息接口中的密码，他破解的老包功能依然正常使用，我轻描淡写问了他，他说就一个工具就能搞定。&lt;/p&gt;
+&lt;p&gt;3：他还能破包后加卡密弹窗，说这是基操。视频链接： &lt;a href=&quot;https://m.okjike.com/originalPosts/69493b881cc9bc8e54a2608d?s=eyJ1IjoiNjM1Nzg4ZjM0N2RkNjRhN2Y3Y2RiMTk0In0%3D&quot; rel=&quot;nofollow&quot;&gt;https://m.okjike.com/originalPosts/69493b881cc9bc8e54a2608d?s=eyJ1IjoiNjM1Nzg4ZjM0N2RkNjRhN2Y3Y2RiMTk0In0%3D&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;经过几天的 v 站查帖和看 B 站视频，我知道业务逻辑在本地是无法完全防破解的，只是有几点疑问。&lt;/p&gt;
+&lt;p&gt;1：加卡密弹窗的云注入平台为爱发电？就没人投诉吗？&lt;/p&gt;
+&lt;p&gt;2：他破解的包为什么不受后端动态解压密码控制?如果绕过校检本地如何解压成功呢？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -162,6 +166,22 @@ Unity 引擎（这个对程序员来说还好）
 </description>
     </item>
     <item>
+      <title>快手这一波，不知道能不能扛住？</title>
+      <link>https://www.v2ex.com/t/1180561</link>
+      <guid>v2ex-1180561</guid>
+      <pubDate>Tue, 23 Dec 2025 01:09:55 GMT</pubDate>
+      <description>&lt;p&gt;昨持续时间这么久，据说封都封不掉，不知道后面扛得住不，不知道是罚款还是像内涵段子一样&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>比较好奇，为什么昨晚快手的审核手段失效？</title>
+      <link>https://www.v2ex.com/t/1180559</link>
+      <guid>v2ex-1180559</guid>
+      <pubDate>Tue, 23 Dec 2025 00:51:08 GMT</pubDate>
+      <description>&lt;p&gt;很神奇的一个事情，持续时间也不算短&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>[坐标上海] 历时一年为了 7000 块起诉房东胜诉，结果发现“赢了官司”只是漫长等待的开始...</title>
       <link>https://www.v2ex.com/t/1180456</link>
       <guid>v2ex-1180456</guid>
@@ -180,26 +200,6 @@ Unity 引擎（这个对程序员来说还好）
 &lt;p&gt;那一瞬间，我心态真的崩了。 明明官司赢了，判决书也在手上了，却被官方告知：你还得等，且必须等。&lt;/p&gt;
 &lt;p&gt;这就陷入了一个死循环： 房东知道这笔钱不多，也知道流程慢，他就赌我耗不起。 而对我来说，已经搭进去了一年的精力，现在被卡在这个“两个月”的等待期里，遥遥无期。&lt;/p&gt;
 &lt;p&gt;想问问 V 站的老哥们： 面对这种几千块钱的小额诉讼，遇到这种熟练运用“拖字诀”的房东，除了被动地等这两个月，真的就没有一点高效的办法了吗？ 难道所谓的“正义”，真的注定要迟到这么久吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>我的 app 被人干了，颠覆了我的认知！</title>
-      <link>https://www.v2ex.com/t/1180497</link>
-      <guid>v2ex-1180497</guid>
-      <pubDate>Mon, 22 Dec 2025 12:50:57 GMT</pubDate>
-      <description>&lt;p&gt;上周我 app 用户群来了一位不速之客，发了一张图片&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/imgs/2025/12/22/0c96aba433672cb9.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;我一看，我艹，这不被破解了嘛。
-随即我踢了他，然后当天下午加了他 wx ，他同意了。
-整个聊天过程没有急眼，他还表明破解的这个包没有流传出去。
-因为那个人只愿出几十块钱，他肯定不会成交的，纯试试水，就破了。&lt;/p&gt;
-&lt;p&gt;从聊天记录我总结出以下几点：&lt;/p&gt;
-&lt;p&gt;1：他不懂安卓代码，纯靠几个工具 [其中有 MT 管理器[狗东西，开发者天敌]] 就能快速重签打包，我在 Java 和 cpp 中有几个签名验证的埋点，他依然能打包，并正常运行。&lt;/p&gt;
-&lt;p&gt;2：我的 app 核心功能要用到安装包中的本地带密 zip ，解压密码由后台配置信息接口返回，每个版本的安装包中的 zip 解压密码都不一致，所以我故意改了后台配置信息接口中的密码，他破解的老包功能依然正常使用，我轻描淡写问了他，他说就一个工具就能搞定。&lt;/p&gt;
-&lt;p&gt;3：他还能破包后加卡密弹窗，说这是基操。视频链接： &lt;a href=&quot;https://m.okjike.com/originalPosts/69493b881cc9bc8e54a2608d?s=eyJ1IjoiNjM1Nzg4ZjM0N2RkNjRhN2Y3Y2RiMTk0In0%3D&quot; rel=&quot;nofollow&quot;&gt;https://m.okjike.com/originalPosts/69493b881cc9bc8e54a2608d?s=eyJ1IjoiNjM1Nzg4ZjM0N2RkNjRhN2Y3Y2RiMTk0In0%3D&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;经过几天的 v 站查帖和看 B 站视频，我知道业务逻辑在本地是无法完全防破解的，只是有几点疑问。&lt;/p&gt;
-&lt;p&gt;1：加卡密弹窗的云注入平台为爱发电？就没人投诉吗？&lt;/p&gt;
-&lt;p&gt;2：他破解的包为什么不受后端动态解压密码控制?如果绕过校检本地如何解压成功呢？&lt;/p&gt;
 </description>
     </item>
   </channel>
