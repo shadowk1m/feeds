@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 23 Dec 2025 02:50:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 03:55:56 GMT</lastBuildDate>
     <item>
       <title>为什么在国外似乎日本麻将比中国麻将要更流行</title>
       <link>https://www.v2ex.com/t/1180553</link>
@@ -21,44 +21,6 @@
       <description>&lt;p&gt;我还在里面
 &lt;img alt=&quot;F5B90D8E-091B-4B10-8BC5-E92B63E41631.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke2.picui.cn/s1/2025/12/23/6949f38fae61d.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>电影资源一般在哪找</title>
-      <link>https://www.v2ex.com/t/1180396</link>
-      <guid>v2ex-1180396</guid>
-      <pubDate>Mon, 22 Dec 2025 05:56:39 GMT</pubDate>
-      <description>&lt;p&gt;如题，最近把家里的老旧笔记本翻出来装了飞牛 nas,想看点 4k 的电影，苦于找不到资源&lt;/p&gt;
-&lt;p&gt;emby:目前有一家付费并且支持下载到本地的，但部分电影资源缺失并且在线播放网络不稳定
-pt:了解过，门槛高
-网盘直链播放:没试过，有推荐的吗，并且资源一般在哪找，如果不开会员会不会和百度网盘下载一样限速&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>兄弟们，迅雷网盘、夸克网盘、百度网盘，你们都开了那个网盘的会员？</title>
-      <link>https://www.v2ex.com/t/1180361</link>
-      <guid>v2ex-1180361</guid>
-      <pubDate>Mon, 22 Dec 2025 03:08:33 GMT</pubDate>
-      <description>&lt;p&gt;在开一帖，最近在调整生活习惯。问题比较多。说说我的现状：
-现状：目前 DIY 安装了一台飞牛的 NAS 。
-需求：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;看盗版电影（是的，就是从各种网盘资源网站上去获取电影资源，然后看，绝逼不开腾讯视频、爱奇艺会员的，若是正版维护者，你要骂就骂吧。PS：有喜欢的电影，还是会买票去电影院看的）。&lt;/li&gt;
-&lt;li&gt;备份 NAS 数据到云盘，将本地的数据备份到云盘，这样保险很多。本地 NAS GG 了，还能从网盘 copy 回来。多网盘备份就没必要了，本来网盘的架构就是高可用的。&lt;/li&gt;
-&lt;li&gt;下载小姐姐，下载小姐姐的话就是只能通过 bt 链接去下载了，不知道这个几个网盘对这类资源管控的如何。直接存在云盘早晚被封我是知道的。
-所以，目前要开个会员来给以上需求加加速了。我的搜集：
-百度网盘：飞牛 NAS 支持率最好，有 NAS 会员，但是不能直接 bt 链接下载，只能上传或者从云盘获取，也就是我要下小姐姐，我得先存云盘，然后在下载下拉，麻烦死了。
-迅雷网盘：可以直接 bt 链接下载，但是我 Google 了下，通过迅雷网盘分享电影的资源网站好像比较少，以前用的迅雷电影天堂 bt 下载，但是网站三天两头崩溃，卡得一批。目前 NAS 也不支持挂载。
-夸克网盘：夸克网站，资源网站比较多，也能通过 bt 下载小姐姐，但是 NAS 支持率没那么高?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;兄弟们，迅雷网盘、夸克网盘、百度网盘，你们都开了那个网盘的会员？你们都是如何进行使用的？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>刚起来听说昨天好像快手被攻破了，大家有看到的吗？</title>
-      <link>https://www.v2ex.com/t/1180551</link>
-      <guid>v2ex-1180551</guid>
-      <pubDate>Tue, 23 Dec 2025 00:34:08 GMT</pubDate>
-      <description>刚起来听说昨天好像快手被攻破了，大家有看到的吗？</description>
     </item>
     <item>
       <title>从 33 岁 iOS 主管到独立游戏开发者：我的转型之路</title>
@@ -102,6 +64,24 @@ Unity 引擎（这个对程序员来说还好）
 </description>
     </item>
     <item>
+      <title>电影资源一般在哪找</title>
+      <link>https://www.v2ex.com/t/1180396</link>
+      <guid>v2ex-1180396</guid>
+      <pubDate>Mon, 22 Dec 2025 05:56:39 GMT</pubDate>
+      <description>&lt;p&gt;如题，最近把家里的老旧笔记本翻出来装了飞牛 nas,想看点 4k 的电影，苦于找不到资源&lt;/p&gt;
+&lt;p&gt;emby:目前有一家付费并且支持下载到本地的，但部分电影资源缺失并且在线播放网络不稳定
+pt:了解过，门槛高
+网盘直链播放:没试过，有推荐的吗，并且资源一般在哪找，如果不开会员会不会和百度网盘下载一样限速&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>刚起来听说昨天好像快手被攻破了，大家有看到的吗？</title>
+      <link>https://www.v2ex.com/t/1180551</link>
+      <guid>v2ex-1180551</guid>
+      <pubDate>Tue, 23 Dec 2025 00:34:08 GMT</pubDate>
+      <description>刚起来听说昨天好像快手被攻破了，大家有看到的吗？</description>
+    </item>
+    <item>
       <title>首发的 iPhone 13，你们还好吗？</title>
       <link>https://www.v2ex.com/t/1180398</link>
       <guid>v2ex-1180398</guid>
@@ -130,22 +110,50 @@ Unity 引擎（这个对程序员来说还好）
 </description>
     </item>
     <item>
-      <title>周末就该如此。大家用什么调酒啊</title>
-      <link>https://www.v2ex.com/t/1180370</link>
-      <guid>v2ex-1180370</guid>
-      <pubDate>Mon, 22 Dec 2025 03:43:32 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/kBuSrBs.jpeg&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/L0jgwzb.jpeg&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/DZ1QKcF.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/9gOxHoE.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/xC9Ffkb.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;周末就得舒服，投影仪、鸭脖、烤鸡、锁骨、酒。爽！！！&lt;/p&gt;
+      <title>快手这一波，不知道能不能扛住？</title>
+      <link>https://www.v2ex.com/t/1180561</link>
+      <guid>v2ex-1180561</guid>
+      <pubDate>Tue, 23 Dec 2025 01:09:55 GMT</pubDate>
+      <description>&lt;p&gt;昨持续时间这么久，据说封都封不掉，不知道后面扛得住不，不知道是罚款还是像内涵段子一样&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>一直好奇在一些古老的网站会看到一堆下载按钮</title>
-      <link>https://www.v2ex.com/t/1180362</link>
-      <guid>v2ex-1180362</guid>
-      <pubDate>Mon, 22 Dec 2025 03:13:33 GMT</pubDate>
-      <description>&lt;p&gt;⬇️湖北电信下载 ⬇️上海电信下载 ⬇️湖南电信下载
-⬇️广东电信下载 ⬇️北京电信下载 ⬇️浙江电信下载&lt;/p&gt;
-&lt;p&gt;一直好奇这些下载按钮有区别吗？点不同的区别在哪里？&lt;/p&gt;
+      <title>比较好奇，为什么昨晚快手的审核手段失效？</title>
+      <link>https://www.v2ex.com/t/1180559</link>
+      <guid>v2ex-1180559</guid>
+      <pubDate>Tue, 23 Dec 2025 00:51:08 GMT</pubDate>
+      <description>&lt;p&gt;很神奇的一个事情，持续时间也不算短&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>同学聚会，被上了一课</title>
+      <link>https://www.v2ex.com/t/1180610</link>
+      <guid>v2ex-1180610</guid>
+      <pubDate>Tue, 23 Dec 2025 03:02:05 GMT</pubDate>
+      <description>&lt;h1&gt;背景&lt;/h1&gt;
+&lt;p&gt;偶然高中群里有人相约聚会，10 周年吧。时间约在了小年之前，这个时候其实很多人没放假，当然聊的人会少一些，有人也提了下时间有点早，这哥们直接来了句&lt;strong&gt;“有能力的，天天都放假”&lt;/strong&gt;，没人接话，班主任出来说了句“大家按照自己时间来，没事”&lt;/p&gt;
+&lt;h1&gt;发展&lt;/h1&gt;
+&lt;p&gt;事情到这了，其实我本着小聚不大聚的原则，我的时间多留着陪陪家人，如果你来我这边的城市，关系好的，自然会请吃饭叙旧。&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;但是群里这哥们来也句“我也在上海”。
+我的印象中这哥们性格开朗，直率，扳手腕劲很大，体育生都比不过， 高中的时候校门口的大石墩挪起来跟球一样，还算熟悉。&lt;br/&gt;
+我想着既然在一个城市，那就吃个饭聊聊天， 跟老婆商量了下，老婆让我先聊聊，因为他性格过于直（我们几个都是高中同学，大家性格都清楚）。&lt;/p&gt;
+&lt;h1&gt;被上课&lt;/h1&gt;
+&lt;p&gt;我：“hello” &lt;br/&gt;
+A:“干啥”&lt;br/&gt;
+我：“你也在上海？”&lt;br/&gt;
+A：“嗯， 你在哪，做什么工作”&lt;br/&gt;
+我：“程序员”&lt;br/&gt;
+A:“多少钱一个月”&lt;br/&gt;
+（第三句就问工资，这里我就岔开话题了）&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;我：“我在浦东，你在上海哪里”&lt;br/&gt;
+A：“我在上海快 7 年了”&lt;br/&gt;
+我：“哈哈，我们俩差不多”&lt;br/&gt;
+然后就有以下对话 &lt;br/&gt;
+&lt;img alt=&quot;ops-coffee-1766454282705.jpg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke2.picui.cn/s1/2025/12/23/6949f3ef558fc.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;后来我想了想这哥们应该是理解成“你一个月多少钱” --- “哈哈，我们俩差不多”  -- &lt;strong&gt;“你和我差不多，你确定？”&lt;/strong&gt;
+但是哈， 我越想越觉得怪怪的， 我找你叙叙旧，看你想聚餐，方便的话吃吃饭。 然后我还没问，你就开始自我介绍，叙旧的欲望瞬间清零。&lt;/p&gt;
+&lt;h1&gt;教训&lt;/h1&gt;
+&lt;p&gt;这次算是以较低成本跳了一个大坑，我难以想象如果真的去聚餐， 我还没开嘴，人家给我来这套三连， 那估计我是吃不下&lt;/p&gt;
 </description>
     </item>
   </channel>
