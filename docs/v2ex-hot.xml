@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 24 Dec 2025 08:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 08:49:10 GMT</lastBuildDate>
     <item>
       <title>圣诞节了，发布一个老站翻新，抽送 100 个会员</title>
       <link>https://www.v2ex.com/t/1180809</link>
@@ -73,12 +73,16 @@
 </description>
     </item>
     <item>
-      <title>AI 是不是基本杀死了 blog</title>
-      <link>https://www.v2ex.com/t/1180710</link>
-      <guid>v2ex-1180710</guid>
-      <pubDate>Tue, 23 Dec 2025 08:18:44 GMT</pubDate>
-      <description>&lt;p&gt;特别是技术型博客，类似 CSDN ，基本上在 AI 面前一文不值。
-其他的博客，也好不到哪里去。&lt;/p&gt;
+      <title>哎，没房子连 app 备案都不让过，现在阿里云 app 备案需要房产证了。</title>
+      <link>https://www.v2ex.com/t/1180910</link>
+      <guid>v2ex-1180910</guid>
+      <pubDate>Wed, 24 Dec 2025 06:27:21 GMT</pubDate>
+      <description>&lt;p&gt;上架个 app ，阿里云初审就被拒了。理由让我不淡定了！
+“为保证备案真实有效性，需要提供真实性地址材料证明（房产证、租赁合同、购房合同）”&lt;/p&gt;
+&lt;p&gt;房产证！房产证！房产证！&lt;/p&gt;
+&lt;p&gt;这是阿里云是初审！没房子，阿里云都不给过审核了。&lt;/p&gt;
+&lt;p&gt;为了促进房子销售都这么拼了吗？有阿里云内部的知道的能解释一下吗？这也太他妈奇葩了！&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/f295JF2.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -104,35 +108,11 @@
 </description>
     </item>
     <item>
-      <title>哎，没房子连 app 备案都不让过，现在阿里云 app 备案需要房产证了。</title>
-      <link>https://www.v2ex.com/t/1180910</link>
-      <guid>v2ex-1180910</guid>
-      <pubDate>Wed, 24 Dec 2025 06:27:21 GMT</pubDate>
-      <description>&lt;p&gt;上架个 app ，阿里云初审就被拒了。理由让我不淡定了！
-“为保证备案真实有效性，需要提供真实性地址材料证明（房产证、租赁合同、购房合同）”&lt;/p&gt;
-&lt;p&gt;房产证！房产证！房产证！&lt;/p&gt;
-&lt;p&gt;这是阿里云是初审！没房子，阿里云都不给过审核了。&lt;/p&gt;
-&lt;p&gt;为了促进房子销售都这么拼了吗？有阿里云内部的知道的能解释一下吗？这也太他妈奇葩了！&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/f295JF2.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>终于直到为什么移动的宽带口碑那么差了</title>
-      <link>https://www.v2ex.com/t/1180718</link>
-      <guid>v2ex-1180718</guid>
-      <pubDate>Tue, 23 Dec 2025 08:29:44 GMT</pubDate>
-      <description>&lt;p&gt;本人用了移动的宽带应该有 10 来年了，一直没啥大问题，便宜又好用！&lt;/p&gt;
-&lt;p&gt;然后说说最近的事，起因是最近想把宽带移机到自己另一个号码上，营业厅的小姐姐说办新的划算一点，于是就办理了一条新宽带（ 300M ）的，昨天师傅上门安装好了（我妈在家），最后也没说好没好就走了，临下班时给我打电话，说电视和网络都通了，但是我的 WiFi 没通，因为他不会登录我的路由器（自签名会被浏览器拦截），说等我下班再教我设桥接（其实我会设置桥接，只是要让师傅发管理员账号密码过来），回到家后简单看了一下：&lt;/p&gt;
-&lt;h4&gt;移动电视&lt;/h4&gt;
-&lt;p&gt;配的机顶盒是那种两个手指宽的迷你机顶盒，开机贼慢，大概用了 5 分钟才进入首页？（不知道是不是首次开机原因），然后界面操作很卡，跟 10 年前的安卓手机一样卡，不过播放和画质没什么问题，还挺流畅的。不过，电视本来就不怎么看，所以忽略掉吧。&lt;/p&gt;
-&lt;h4&gt;宽带&lt;/h4&gt;
-&lt;p&gt;电脑直连光猫上网，打开百度，居然要 2-3 秒！！我的天呐，这都 2026 了，这响应速度真的无敌了，师傅本来还想说服我用光猫拨号，说什么 300M 的用它们家设备更稳定！我信你个鬼！最后沟通了一下还是换成桥接，师傅把光猫的管理员账号密码发过来，删掉原有的 vlan41 然后新建一个，然后换回 EdgeX 拨号，然后再设置移动最快的 DNS 服务器（ 211.136.192.6, 120.196.165.24 ），连上电脑，于是百度秒开又回来了。简单测试了下，下行 503M ，上行 52M ，预料之中。&lt;/p&gt;
-&lt;h4&gt;感慨&lt;/h4&gt;
-&lt;p&gt;这都 2062 年了，移动的宽带也有千兆宽带了，但是设备供应商实在太垃圾了，根本发挥不了作用，不是这个卡就是那个慢，难怪口碑那么差，为了卖垃圾设备，压根不顾质量，普通用户（光猫拨号+移动配的垃圾路由器）用到的就是垃圾。但是，移动的网络到了我们这些人手里，就是便宜又好用的存在！不要跟说什么电信的多好用，我不接受那个价格！&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h4&gt;另一个案例&lt;/h4&gt;
-&lt;p&gt;老家那边，弟弟家新居，也是装了移动的宽带，不知道网速多少，配了两个 WiFi 路由器（说是两三百块，但用够两年可以返还），我连上打了几盘王者，也是服气，一开团就卡，一开团就卡，延迟 600ms 以上，走路偶尔也莫名卡顿，电视也是卡到不行，登录了路由器看了下，CPU 和内存都是 95%以上的，实在太无语！&lt;/p&gt;
-</description>
+      <title>看了老舅， 86 年的我，感觉生活真他妈难</title>
+      <link>https://www.v2ex.com/t/1180753</link>
+      <guid>v2ex-1180753</guid>
+      <pubDate>Tue, 23 Dec 2025 12:05:30 GMT</pubDate>
+      <description>没意思</description>
     </item>
     <item>
       <title>三个地方验光三个结果</title>
@@ -271,11 +251,22 @@
 </description>
     </item>
     <item>
-      <title>看了老舅， 86 年的我，感觉生活真他妈难</title>
-      <link>https://www.v2ex.com/t/1180753</link>
-      <guid>v2ex-1180753</guid>
-      <pubDate>Tue, 23 Dec 2025 12:05:30 GMT</pubDate>
-      <description>没意思</description>
+      <title>怎么看程序员薅教育优惠</title>
+      <link>https://www.v2ex.com/t/1180903</link>
+      <guid>v2ex-1180903</guid>
+      <pubDate>Wed, 24 Dec 2025 06:15:24 GMT</pubDate>
+      <description>&lt;p&gt;这种已经有能力正常消费，还要占便宜，并且大占特占的行为，总让我想到美国那种有工作还要领救济粮的华人新移民，大家怎么看？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>博纳这把是耐心局</title>
+      <link>https://www.v2ex.com/t/1180827</link>
+      <guid>v2ex-1180827</guid>
+      <pubDate>Wed, 24 Dec 2025 01:59:25 GMT</pubDate>
+      <description>&lt;p&gt;如题，扛不住的可以离场了
+我选择死扛了。各位可以灵活做 t 。或者离场。
+&lt;img alt=&quot;57D8CDAB-6AFE-4F5A-8F6A-DB4C94C1F3E0.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke2.picui.cn/s1/2025/12/24/694b486e004d9.jpeg&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
