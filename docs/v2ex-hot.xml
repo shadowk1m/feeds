@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 24 Dec 2025 07:16:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 07:41:27 GMT</lastBuildDate>
     <item>
       <title>因为一台电脑，媳妇儿跟我闹不愉快？？</title>
       <link>https://www.v2ex.com/t/1180694</link>
@@ -107,45 +107,6 @@
 </description>
     </item>
     <item>
-      <title>GLM-4.7 上线并开源：更强的编码</title>
-      <link>https://www.v2ex.com/t/1180676</link>
-      <guid>v2ex-1180676</guid>
-      <pubDate>Tue, 23 Dec 2025 07:17:52 GMT</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;GLM-4.7 上线并开源。&lt;/strong&gt;
-新版本面向 Coding 场景强化了编码能力、长程任务规划与工具协同，并在多项主流公开基准测试中取得开源模型中的领先表现。&lt;/p&gt;
-&lt;p&gt;目前，GLM-4.7 已通过 &lt;a href=&quot;http://BigModel.cn&quot; rel=&quot;nofollow&quot;&gt;BigModel.cn&lt;/a&gt; 提供 API ，并在 &lt;a href=&quot;http://z.ai&quot; rel=&quot;nofollow&quot;&gt;z.ai&lt;/a&gt; 全栈开发模式中上线 Skills 模块，支持多模态任务的统一规划与协作。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Coding 能力再提升&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;GLM-4.7 在编程、推理与智能体三个维度实现突破：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;更强的编程能力&lt;/strong&gt;：显著提升了模型在多语言编码和在终端智能体中的效果； GLM-4.7 现在可以在 Claude Code 、TRAE 、Kilo Code 、Cline 和 Roo Code 等编程框架中实现“先思考、再行动”的机制，在复杂任务上有更稳定的表现。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;前端审美提升&lt;/strong&gt;：GLM-4.7 在前端生成质量方面明显进步，能够生成观感更佳的网页、PPT 、海报。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;更强的工具调用能力&lt;/strong&gt;：GLM-4.7 提升了工具调用能力，在 BrowseComp 网页任务评测中获得 67.5 分；在 τ²-Bench 交互式工具调用评测中实现 87.4 分的开源 SOTA ，超过 Claude Sonnet 4.5 。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;推理能力提升&lt;/strong&gt;：显著提升了数学和推理能力，在 HLE （“人类最后的考试”）基准测试中获得 42.8% 的成绩，较 GLM-4.6 提升 41%，超过 GPT-5.1 。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;通用能力增强&lt;/strong&gt;：GLM-4.7 对话更简洁智能且富有人情味，写作与角色扮演更具文采与沉浸感。  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/5glp8688.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;Code Arena：全球百万用户参与盲测的专业编码评估系统，GLM-4.7 位列开源第一、国产第一，超过 GPT-5.2 。&lt;/p&gt;
-&lt;p&gt;在主流基准测试表现中，GLM-4.7 的代码能力对齐 Claude Sonnet 4.5：
-在 SWE-bench-Verified 获得 73.8% 的开源 SOTA 分数；
-在 LiveCodeBench V6 达到 84.9% 的开源 SOTA 分数，超过 Claude Sonnet 4.5 ；
-SWE-bench Multilingual 达到 66.7%（提升 12.9%）；
-Terminal Bench 2.0 达到 41%（提升 16.5%）。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/eLr0x6os.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;真实编程场景下的体感提升&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在 Claude Code 环境中，我们对 100 个真实编程任务进行了测试，覆盖前端、后端与指令遵循等核心能力。结果显示，GLM-4.7 相较 GLM-4.6 在稳定性与可交付性上均有明显提升。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/cDPfzcKe.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;GLM Coding Plan&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Claude Code 全面支持思考模式，复杂任务连续推理与执行更稳定&lt;/li&gt;
-&lt;li&gt;针对编程工具里的 Skills / Subagent / &lt;a href=&quot;http://Claude.md&quot; rel=&quot;nofollow&quot;&gt;Claude.md&lt;/a&gt; 等关键能力定向优化，工具调用成功率高、链路可靠&lt;/li&gt;
-&lt;li&gt;Claude Code 中视觉理解能力开箱即用；内置搜索与网页读取，信息获取到代码落地一站闭环&lt;/li&gt;
-&lt;li&gt;架构设计与指令遵循更强，明显降低长上下文下的“幻觉式完成 / 跑偏”，交付质量更可控&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;作为本次升级的首个体验权益，所有购买套餐的用户将获得「体验卡」礼包，可邀请 3–7 位新用户免费体验 7 天套餐权益。&lt;/p&gt;
-&lt;p&gt;领取链接：[&lt;a href=&quot;https://zhipuaishengchan.datasink.sensorsdata.cn/t/kc&quot; rel=&quot;nofollow&quot;&gt;https://zhipuaishengchan.datasink.sensorsdata.cn/t/kc&lt;/a&gt;]&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>上下班地铁通行的问题</title>
       <link>https://www.v2ex.com/t/1180832</link>
       <guid>v2ex-1180832</guid>
@@ -155,6 +116,16 @@ Terminal Bench 2.0 达到 41%（提升 16.5%）。&lt;/p&gt;
 &lt;p&gt;特别是那些人流众多的车站，经常出现要下的乘客还没下就蜂拥着把别人挤回去，更离谱的是一开门就往上挤，根本不关心别人要不要下&lt;/p&gt;
 &lt;p&gt;可能会有人说这就是大城市的情况，节奏快等等，但是我觉得这不能成为理由啊。&lt;/p&gt;
 &lt;p&gt;就这样，我真是奇了怪了这些人到底是怎么想的，还是说真的人口基数太大我看到的蠢逼太多了？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Google AI Pro 半价，一年 $100 可以拼 6 个人，感觉要起飞了</title>
+      <link>https://www.v2ex.com/t/1180859</link>
+      <guid>v2ex-1180859</guid>
+      <pubDate>Wed, 24 Dec 2025 03:12:29 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://one.google.com/ai-nye&quot; rel=&quot;nofollow&quot;&gt;https://one.google.com/ai-nye&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Pf0WX4j.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/4ZqLDIM.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -176,29 +147,147 @@ Terminal Bench 2.0 达到 41%（提升 16.5%）。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Google AI Pro 半价，一年 $100 可以拼 6 个人，感觉要起飞了</title>
-      <link>https://www.v2ex.com/t/1180859</link>
-      <guid>v2ex-1180859</guid>
-      <pubDate>Wed, 24 Dec 2025 03:12:29 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://one.google.com/ai-nye&quot; rel=&quot;nofollow&quot;&gt;https://one.google.com/ai-nye&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Pf0WX4j.png&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/4ZqLDIM.png&quot;/&gt;&lt;/p&gt;
+      <title>三个地方验光三个结果</title>
+      <link>https://www.v2ex.com/t/1180796</link>
+      <guid>v2ex-1180796</guid>
+      <pubDate>Wed, 24 Dec 2025 00:36:26 GMT</pubDate>
+      <description>&lt;h3&gt;眼镜与检查背景&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;目前佩戴的眼镜已使用 &lt;strong&gt;6 年&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;前段时间体检提示 &lt;strong&gt;瞳孔不等大&lt;/strong&gt;，上周六前往医院挂 &lt;strong&gt;眼科号&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;医院检查结果：&lt;strong&gt;正常&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+医生在验光结束时特别提醒：&lt;blockquote&gt;
+&lt;p&gt;如果后续配镜，建议到眼镜店实际试戴，以佩戴舒适度为准&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h3&gt;验光与配镜过程记录（按时间顺序）&lt;/h3&gt;
+&lt;h4&gt;1️⃣ 医院眼科验光（周六）&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;首次验光在医院完成&lt;/li&gt;
+&lt;li&gt;属于医学验光&lt;/li&gt;
+&lt;li&gt;验光结果作为&lt;strong&gt;基准参考&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;医院并未建议直接按该数据配镜，而是强调试戴&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;2️⃣ 商场眼镜店验光（周日中午）&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;中午吃饭时在商场验光&lt;/li&gt;
+&lt;li&gt;验光结果与医院 &lt;strong&gt;差异明显&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+验光过程中观察验光师：&lt;ul&gt;
+&lt;li&gt;主观看面相感觉不够专业&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;当下已决定 &lt;strong&gt;放弃该结果，不作为参考&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;3️⃣ 商场眼镜店验光（周日下午）&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;下午再次更换一家眼镜店&lt;/li&gt;
+&lt;li&gt;
+试戴体验：&lt;ul&gt;
+&lt;li&gt;相比中午那家 &lt;strong&gt;明显更舒服&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;但度数又是一个新的组合&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;因结果不一致，暂未最终确定&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h3&gt;三次验光结果对照表&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;说明  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DS：球镜（近视）  &lt;/li&gt;
+&lt;li&gt;DC：柱镜（散光）  &lt;/li&gt;
+&lt;li&gt;Axis：散光轴位  &lt;/li&gt;
+&lt;li&gt;VA：矫正视力  &lt;/li&gt;
+&lt;li&gt;单位：屈光度（ D ）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;验光时间 / 来源&lt;/th&gt;
+&lt;th&gt;眼别&lt;/th&gt;
+&lt;th&gt;DS （球镜）&lt;/th&gt;
+&lt;th&gt;DC （散光）&lt;/th&gt;
+&lt;th&gt;Axis （轴位）&lt;/th&gt;
+&lt;th&gt;VA&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;医院眼科（周六）&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;R&lt;/td&gt;
+&lt;td&gt;-1.50&lt;/td&gt;
+&lt;td&gt;-0.75&lt;/td&gt;
+&lt;td&gt;95°&lt;/td&gt;
+&lt;td&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;L&lt;/td&gt;
+&lt;td&gt;-1.50&lt;/td&gt;
+&lt;td&gt;-1.25&lt;/td&gt;
+&lt;td&gt;75°&lt;/td&gt;
+&lt;td&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;商场眼镜店（周日中午）&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;R&lt;/td&gt;
+&lt;td&gt;-1.50&lt;/td&gt;
+&lt;td&gt;-0.50&lt;/td&gt;
+&lt;td&gt;125°&lt;/td&gt;
+&lt;td&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;L&lt;/td&gt;
+&lt;td&gt;-2.25&lt;/td&gt;
+&lt;td&gt;-0.50&lt;/td&gt;
+&lt;td&gt;80°&lt;/td&gt;
+&lt;td&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;商场眼镜店（周日下午）&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;R&lt;/td&gt;
+&lt;td&gt;-1.00&lt;/td&gt;
+&lt;td&gt;-0.50&lt;/td&gt;
+&lt;td&gt;95°&lt;/td&gt;
+&lt;td&gt;0.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;L&lt;/td&gt;
+&lt;td&gt;-1.00&lt;/td&gt;
+&lt;td&gt;-1.25&lt;/td&gt;
+&lt;td&gt;80°&lt;/td&gt;
+&lt;td&gt;0.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;hr/&gt;
+&lt;h3&gt;下一步计划&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+主观佩戴感受上：&lt;ul&gt;
+&lt;li&gt;周日下午那家明显优于中午那家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+昨天看到 V 友相关帖子后，决定：&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;本周六前往宝岛眼镜再次验光&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;然后网上配镜，准备搞个暴龙 + 蔡司泽锐&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     <item>
-      <title>突然感觉人生好难</title>
-      <link>https://www.v2ex.com/t/1180684</link>
-      <guid>v2ex-1180684</guid>
-      <pubDate>Tue, 23 Dec 2025 07:33:14 GMT</pubDate>
-      <description>&lt;p&gt;又想起了这个杀手不太冷中的对白&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;is life always this hard,or its just when ur a kid?&lt;/li&gt;
-&lt;li&gt;always like this&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;总感觉人生的很多决定 无论怎么选 都是错
-关键的几个决定做好了 能省很多事情 生活也能顺畅很多&lt;/p&gt;
-&lt;p&gt;各位 30+的老哥们 你们过得咋样&lt;/p&gt;
-</description>
+      <title>看了老舅， 86 年的我，感觉生活真他妈难</title>
+      <link>https://www.v2ex.com/t/1180753</link>
+      <guid>v2ex-1180753</guid>
+      <pubDate>Tue, 23 Dec 2025 12:05:30 GMT</pubDate>
+      <description>没意思</description>
     </item>
   </channel>
 </rss>
