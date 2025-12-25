@@ -4,60 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 25 Dec 2025 00:56:16 GMT</lastBuildDate>
-    <item>
-      <title>圣诞节了，发布一个老站翻新，抽送 100 个会员</title>
-      <link>https://www.v2ex.com/t/1180809</link>
-      <guid>v2ex-1180809</guid>
-      <pubDate>Wed, 24 Dec 2025 01:11:33 GMT</pubDate>
-      <description>&lt;p&gt;大家好，我是做 AI 出海产品的独立开发者江炜。&lt;/p&gt;
-&lt;p&gt;今年 4 月份追热点上了站：&lt;strong&gt;ghiblio.art&lt;/strong&gt;（参见 V2EX 帖子：&lt;a href=&quot;https://v2ex.com/t/1124154&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1124154&lt;/a&gt;），在 V2EX 上得到广大 V 友的支持，完成了产品的冷启动。这周我又对老站进行了改版，在产品定位和内容上进行了一些调整。&lt;/p&gt;
-&lt;p&gt;下面简单介绍下产品的改版：&lt;/p&gt;
-&lt;h2&gt;产品改版说明&lt;/h2&gt;
-&lt;p&gt;改版前站点域名为 &lt;code&gt;ghiblio.art&lt;/code&gt;，改版后启用了新域名，访问下面新网址即可体验：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🔗 &lt;a href=&quot;https://pixto.art/&quot; rel=&quot;nofollow&quot;&gt;https://pixto.art/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;pixto.art 是我想的一个域名，直译为中文有个好听的名字：落笔生画。&lt;/p&gt;
-&lt;p&gt;回归正传，介绍下 PixToArt 这次改版的主要功能：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;All In One 的图片/视频生成 - 在一个输入框里汇集 sora2 、veo3.1 、midjourney 等顶尖图片和视频模型&lt;/li&gt;
-&lt;li&gt;所见所得的调用方式和队列式生成交互 - 体验超级友好&lt;/li&gt;
-&lt;li&gt;集成新的功能模块 - 模型广场、模板广场、灵感社区&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;下面例举下产品的部分功能截图：&lt;/p&gt;
-&lt;h3&gt;首页&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;首页截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v1.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;All In One 图片/视频模型集成&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;模型集成截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v2.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;任务队列，可多任务同时生成&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;任务队列截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v3.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;模型广场&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;模版广场截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v11.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;模版广场&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;模版广场截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v4.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;风格广场&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;模版广场截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v12.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;灵感社区&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;灵感社区截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v5.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;模版详情&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;模版详情截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v6.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;另外我们还配套了小程序的版本，可以扫码体验下小程序上的圣诞节模版：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;小程序截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v7.png&quot;/&gt;
-&lt;img alt=&quot;小程序截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v8.png&quot;/&gt;
-&lt;img alt=&quot;小程序截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v9.png&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;更多功能欢迎大家探索，大家有想要的功能也可以反馈給我，后续我会集成进去。&lt;/p&gt;
-&lt;p&gt;最后说下我们的价格，新用户有两次免费试用，对于热门的模型，我们设置的价格也都很优惠，比如 gpt4o 生成 2 张图片只消耗 1 积分，sora2 生成 1 个视频只消耗 2 积分。目前圣诞节期间，我们还开放了圣诞特惠八折活动。欢迎大家选购。&lt;/p&gt;
-&lt;p&gt;除此之外，我建了个 V 友 AI 图片/视频生成交流群，进群可享：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;V 友每月 1 次 8 折特权&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI 图片/视频高级提示词分享&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;感兴趣的可以加入下。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;交流群二维码&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.ghiblio.art/image/v2ex1223/v10.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;另外本次会在评论区抽送 100 位尝鲜版会员，截止时间 &lt;strong&gt;2025 年 12 月 25 日 24:00&lt;/strong&gt;，欢迎大家在评论区留言。&lt;/p&gt;
-&lt;p&gt;最后祝大家产品使用愉快！&lt;strong&gt;Merry Christmas!&lt;/strong&gt; 🎅🎄&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 25 Dec 2025 02:51:28 GMT</lastBuildDate>
     <item>
       <title>怎么看程序员薅教育优惠</title>
       <link>https://www.v2ex.com/t/1180903</link>
@@ -67,18 +14,11 @@
 </description>
     </item>
     <item>
-      <title>12 月初去了一趟日本关西地区旅行，分享游记</title>
-      <link>https://www.v2ex.com/t/1180815</link>
-      <guid>v2ex-1180815</guid>
-      <pubDate>Wed, 24 Dec 2025 01:23:42 GMT</pubDate>
-      <description>&lt;p&gt;玩了 12 天 11 夜，分享我的自由行经历和游览心得。&lt;/p&gt;
-&lt;p&gt;文章链接： &lt;a href=&quot;https://lynan.cn/the-journey-in-kansai-2025/&quot; rel=&quot;nofollow&quot;&gt;https://lynan.cn/the-journey-in-kansai-2025/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;关键词：日本旅游、关西地区旅行、红叶季、HDR 图片、自由行&lt;/p&gt;
-&lt;p&gt;文章比较长～&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/vyZNsDe.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/mScU4BP.jpeg&quot;/&gt;&lt;/p&gt;
-</description>
+      <title>一位朋友的人生给我带来了窒息感。</title>
+      <link>https://www.v2ex.com/t/1181040</link>
+      <guid>v2ex-1181040</guid>
+      <pubDate>Thu, 25 Dec 2025 01:09:14 GMT</pubDate>
+      <description>主人公：一位男性朋友&lt;br /&gt;&lt;br /&gt;基本信息：29 岁了，未婚未育，无房有车，去年刚还完车贷。做设计的，年薪 10W 左右。三孩还是四孩家庭我忘了，反正上面都是姐姐。父母都是农民，有重视男丁延续香火的思想，姐姐们均已婚各自有俩娃。家里只有妈妈上班，爸爸一直都是种地。所以家里存款应该也不多。&lt;br /&gt;&lt;br /&gt;事情起因：他一直过得十分抠搜，具体表现在，休息时间不出去玩怕花钱。不上班的时候每天只吃一顿饭，上班的话，晚饭能不能就不吃。在他看来吃个面加个肠都很好了。淘宝买东西有点瑕疵或者不满意就努力给自己争取一些返现或者优惠，买的东西用了一年坏了也先找商家尽量争取给重新换一个。看到他这些表现我十分不解所以问他，为啥过成这样。他回答准备买房子了。&lt;br /&gt;&lt;br /&gt;首付 60W ，贷款 60W 。我说你家里不给支持吗？他说不呀，也不想用家里的。&lt;br /&gt;&lt;br /&gt;我窒息的点：就算乐观点给他算，每年攒十万，也得 6 年，那时候他 35 岁了。得找对象结婚，结婚钱他肯定只能用家里的。然后婚后，再生娃还房贷。再乐观的给他算 8 年能还完贷款的话，他那时候 43 岁了。然后继续赚钱养孩子，生女孩还好，生男孩的话，又得攒钱给娃准备房子。他这半生过去都在省吃俭用的为这个房子，我想想都感觉窒息啊。</description>
     </item>
     <item>
       <title>Google AI Pro 半价，一年 $100 可以拼 6 个人，感觉要起飞了</title>
@@ -88,39 +28,6 @@
       <description>&lt;p&gt;&lt;a href=&quot;https://one.google.com/ai-nye&quot; rel=&quot;nofollow&quot;&gt;https://one.google.com/ai-nye&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Pf0WX4j.png&quot;/&gt;
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/4ZqLDIM.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>上下班地铁通行的问题</title>
-      <link>https://www.v2ex.com/t/1180832</link>
-      <guid>v2ex-1180832</guid>
-      <pubDate>Wed, 24 Dec 2025 02:08:28 GMT</pubDate>
-      <description>&lt;p&gt;来上海应该到现在 6 年了，至今为止一直都是地铁通勤，但是我始终理解不了一件事！&lt;/p&gt;
-&lt;p&gt;我就是奇了怪了为什么做不到先下后上，这么多年的通勤基本上每天都在发生，我都搞不明白了这都 2026 年了，整体群众的行为素质怎么还没有提升&lt;/p&gt;
-&lt;p&gt;特别是那些人流众多的车站，经常出现要下的乘客还没下就蜂拥着把别人挤回去，更离谱的是一开门就往上挤，根本不关心别人要不要下&lt;/p&gt;
-&lt;p&gt;可能会有人说这就是大城市的情况，节奏快等等，但是我觉得这不能成为理由啊。&lt;/p&gt;
-&lt;p&gt;就这样，我真是奇了怪了这些人到底是怎么想的，还是说真的人口基数太大我看到的蠢逼太多了？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>对于上班，大家有这样的感觉吗？</title>
-      <link>https://www.v2ex.com/t/1180810</link>
-      <guid>v2ex-1180810</guid>
-      <pubDate>Wed, 24 Dec 2025 01:11:48 GMT</pubDate>
-      <description>&lt;p&gt;“上班让人感到最可怕的地方是，它居然让我因为盼着退休而期待衰老，让我完全不珍惜我剩余人生里最年轻的每一天。
-总想着周一到周五赶紧过去，可是一周又一周，突然反应过来，这流逝掉的是我的生命。”&lt;/p&gt;
-&lt;p&gt;曾经对计算机，对编程无比热爱，现在只为三斗米腰椎间盘突出。
-刚看到有 V 友说，“少年心气是不可再生之物”。少年的热爱已经消失殆尽。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>博纳这把是耐心局</title>
-      <link>https://www.v2ex.com/t/1180827</link>
-      <guid>v2ex-1180827</guid>
-      <pubDate>Wed, 24 Dec 2025 01:59:25 GMT</pubDate>
-      <description>&lt;p&gt;如题，扛不住的可以离场了
-我选择死扛了。各位可以灵活做 t 。或者离场。
-&lt;img alt=&quot;57D8CDAB-6AFE-4F5A-8F6A-DB4C94C1F3E0.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke2.picui.cn/s1/2025/12/24/694b486e004d9.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -134,89 +41,51 @@
 </description>
     </item>
     <item>
-      <title>React 缺失的“M”层：我开发了 Zenith，重塑完整的 Model</title>
-      <link>https://www.v2ex.com/t/1180806</link>
-      <guid>v2ex-1180806</guid>
-      <pubDate>Wed, 24 Dec 2025 01:08:05 GMT</pubDate>
-      <description>&lt;h2&gt;迷失的 Model&lt;/h2&gt;
-&lt;p&gt;我们在谈论 React 时常说 &lt;code&gt;UI = f(State)&lt;/code&gt;。React 完美地解决了 &lt;strong&gt;View （视图）&lt;/strong&gt; 层，但对于 &lt;strong&gt;Model （数据模型）&lt;/strong&gt; 层，社区的探索从未停止。&lt;/p&gt;
-&lt;p&gt;从 Redux 到 Hooks ，再到 Zustand ，我们越来越追求“原子化”和“碎片化”。这带来了极简的 API ，但也带来了一个严重的副作用：&lt;strong&gt;Model （模型）的破碎&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;你是否遇到过这种情况：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;数据 (State)&lt;/strong&gt; 定义在一个 &lt;code&gt;create&lt;/code&gt; 函数里。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;计算 (Computed)&lt;/strong&gt; 散落在组件的 &lt;code&gt;useMemo&lt;/code&gt; 或各种 Selector 函数里。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;行为 (Action)&lt;/strong&gt; 散落在 &lt;code&gt;useEffect&lt;/code&gt; 或各个 Event Handler 里。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;“Model” 消失了，取而代之的是散落在各处的逻辑碎片。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;Zenith：重塑 Model 层&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/do-md/zenith&quot; rel=&quot;nofollow&quot;&gt;Zenith&lt;/a&gt;&lt;/strong&gt; 注重于&lt;strong&gt;高内聚（ Co-location ）&lt;/strong&gt; 的开发体验，可以把&lt;strong&gt;数据 (State)&lt;/strong&gt; 、&lt;strong&gt;计算 (Computed)&lt;/strong&gt; 和 &lt;strong&gt;行为 (Action)&lt;/strong&gt; 紧紧地封装在一起。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Zenith = Zustand 的极简 + MobX 的组织力 + Immer 的不可变基石&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;核心特性：“诚实”的 Model&lt;/h2&gt;
-&lt;h3&gt;1. 完整的模型定义 (Co-location)&lt;/h3&gt;
-&lt;p&gt;在 Zenith 中，你不需要在闭包里用 &lt;code&gt;get()&lt;/code&gt; 去“偷窥”状态，也不用担心 &lt;code&gt;set&lt;/code&gt; 的黑盒逻辑。一个 Store 就是一个完整的、逻辑自洽的业务单元。&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;class TodoStore extends ZenithStore&amp;lt;State&amp;gt; {
-  // 1. 数据 (State)
-  constructor() {
-    super({ todos: [], filter: &#39;all&#39; });
-  }
-​
-  // 2. 自动计算属性 (Computed)
-  // 告别手动写 Selector ，告别 useMemo
-  // 像定义原生 getter 一样定义派生状态
-  @memo((s) =&amp;gt; [s.state.todos, s.state.filter])
-  get filteredTodos() {
-    const { todos, filter } = this.state;
-    // ...逻辑
-  }
-​
-  // 3. 行为 (Action)
-  // 诚实地使用 this ，UI 层绝不能直接碰 State
-  addTodo(text: string) {
-    this.produce((draft) =&amp;gt; {
-      draft.todos.push({ text, completed: false });
-    });
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;2. 链式派生：自动化的数据流&lt;/h3&gt;
-&lt;p&gt;MobX 最让人着迷的是它的自动响应能力。Zenith 完美复刻了这一点，但底层依然是 &lt;strong&gt;Immutable Data&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;你可以基于一个计算属性，派生出另一个计算属性（ A -&amp;gt; B -&amp;gt; C ）。当 A 变化时，C 会自动更新。我们不再需要手动维护依赖链，也不需要在组件里写一堆 &lt;code&gt;useMemo&lt;/code&gt;，&lt;strong&gt;一切计算逻辑都收敛在 Model 内部&lt;/strong&gt;。&lt;/p&gt;
-&lt;h3&gt;3. 组件即视图 (View)：像 Zustand 一样简单&lt;/h3&gt;
-&lt;p&gt;定义 Model 虽然严谨，但在组件里使用必须极致简单。Zenith 提供了完全符合 React Hooks 习惯的 API 。&lt;/p&gt;
-&lt;p&gt;你不需要高阶组件（ HOC ），不需要 Connect ，只需要一个 Hook：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;const { useStore, useStoreApi } = createReactStore(TodoStore);
-​
-function TodoList() {
-  // ✅ 像 Zustand 一样选择状态
-  // 只有当 filteredTodos 变化时，组件才会重渲染
-  const todos = useStore((s) =&amp;gt; s.filteredTodos);
-  
-  // ✅ 获取完整的 Model 实例 (Action)
-  const store = useStoreApi();
-​
-  return (
-    &amp;lt;div&amp;gt;
-      {todos.map((todo) =&amp;gt; (
-         // UI 只负责触发意图，不负责实现逻辑
-        &amp;lt;div onClick={() =&amp;gt; store.toggle(todo.id)}&amp;gt;
-          {todo.text}
-        &amp;lt;/div&amp;gt;
-      ))}
-    &amp;lt;/div&amp;gt;
-  );
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;4. 工程化的胜利&lt;/h3&gt;
-&lt;p&gt;Zenith 不仅仅是一个状态库，它内置了 &lt;strong&gt;History (撤销/重做)&lt;/strong&gt; 和 &lt;strong&gt;DevTools&lt;/strong&gt; 中间件。&lt;/p&gt;
-&lt;p&gt;我用它构建了 &lt;a href=&quot;https://demo.domd.app/?src=https://github.com/do-md/zenith&quot; rel=&quot;nofollow&quot;&gt;domd&lt;/a&gt; markdown WYSIWYG 编辑器，能够支撑 20000 行文档流畅编辑。&lt;/p&gt;
-&lt;h2&gt;结语&lt;/h2&gt;
-&lt;p&gt;Zenith 的出现不是为了争论 FP 好还是 OOP 好。&lt;/p&gt;
-&lt;p&gt;它只是想告诉你：当你的项目逻辑日益复杂，当你受够了在几十个 Hook 文件中跳来跳去寻找业务逻辑时，&lt;strong&gt;你值得拥有一个完整的、诚实的 Model 层。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;让代码重归秩序。&lt;/p&gt;
-&lt;p&gt;Github: &lt;a href=&quot;https://github.com/do-md/zenith&quot; rel=&quot;nofollow&quot;&gt;https://github.com/do-md/zenith&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎 Star 🌟 和 Issue 交流！&lt;/p&gt;
+      <title>🎄🎄🎄祝大家圣诞快乐!🎄🎄🎄</title>
+      <link>https://www.v2ex.com/t/1181034</link>
+      <guid>v2ex-1181034</guid>
+      <pubDate>Thu, 25 Dec 2025 00:37:24 GMT</pubDate>
+      <description>祝大家圣诞快乐!一定要开心🎄🎄🎄&lt;br /&gt;虽然很多人都在给别人过圣诞节,多犒劳犒劳自己.🎄🎄🎄&lt;br /&gt;把时间和精力多留给自己一点.🎄🎄🎄&lt;br /&gt;金钱也要多给自己一些🎄🎄🎄&lt;br /&gt;没有了圣诞老人,🎄🎄🎄&lt;br /&gt;就做自己的圣诞老人🎄🎄🎄&lt;br /&gt;叮叮当 叮叮当 铃儿响叮当🎄🎄🎄&lt;br /&gt;无论刮风下雨,寒夜冰雪,🎄🎄🎄&lt;br /&gt;只有你自己知道经历的冰霜雨雪🎄🎄🎄&lt;br /&gt;其他人都只知道结果而已.🎄🎄🎄&lt;br /&gt;然而他们只关注结果和胜利者🎄🎄🎄&lt;br /&gt;生活中更多的是平庸的我们🎄🎄🎄&lt;br /&gt;接受自己的平凡🎄🎄🎄&lt;br /&gt;接受每个人的普通🎄🎄🎄&lt;br /&gt;别给自己那么大的压力🎄🎄🎄&lt;br /&gt;勇敢的过好接下来的生活.🎄🎄🎄&lt;br /&gt;祝大家 2026 平安健康 欢乐多多!🎄🎄🎄</description>
+    </item>
+    <item>
+      <title>隔壁来了个直播公司真人看到女主播颜值确实很高</title>
+      <link>https://www.v2ex.com/t/1180925</link>
+      <guid>v2ex-1180925</guid>
+      <pubDate>Wed, 24 Dec 2025 07:49:59 GMT</pubDate>
+      <description>U1S1 ，线下看到女主播，还是挺惊艳的，颜值和身材都比普通人高许多，难怪网上那么多宅男被迷得神魂颠倒甚至有些不惜一掷千金……</description>
+    </item>
+    <item>
+      <title>生病了到底能不能吃鸡蛋？</title>
+      <link>https://www.v2ex.com/t/1180861</link>
+      <guid>v2ex-1180861</guid>
+      <pubDate>Wed, 24 Dec 2025 03:24:33 GMT</pubDate>
+      <description>&lt;p&gt;类似感冒，鼻塞，轻微发烧&lt;/p&gt;
+&lt;p&gt;是蛋白，蛋黄都不能吃？还是蛋白质都不能吃？那牛奶，肉类，鱼类也不能吃了？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>2025 年 12 月 24 日， IBKR 盈透注册，用国内个税证明可以过工作证明审核</title>
+      <link>https://www.v2ex.com/t/1180916</link>
+      <guid>v2ex-1180916</guid>
+      <pubDate>Wed, 24 Dec 2025 07:12:55 GMT</pubDate>
+      <description>&lt;p&gt;如图：证明要选择第四个政府 XX ，可以试一试，不保证一定可以注册哦。
+其中个税证明，可以通过网页端 个税 ，搜索“纳税记录开具”，PDF 有密码的，记得打印成 PDF 转一下再上传&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/XT6m0i6.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>只要不上班，我感觉深圳挺好的，都没必要去外地旅游</title>
+      <link>https://www.v2ex.com/t/1180885</link>
+      <guid>v2ex-1180885</guid>
+      <pubDate>Wed, 24 Dec 2025 05:17:38 GMT</pubDate>
+      <description>&lt;p&gt;年底凑了 11 天假，我纠结了一个月也没决定到底去哪，因为怕冷北方都直接排除了。&lt;/p&gt;
+&lt;p&gt;一开始想的是去日本，看了下气候也冷就放弃了&lt;/p&gt;
+&lt;p&gt;后来想去东南亚，但是又想起那之前去新加坡和曼谷也挺无聊的，和深圳一样逛商场，排队网红餐厅，路边摊，夜市。
+新加坡的东西真的有够难吃的，网红路边摊食阁到高级餐厅都吃了，最好吃的居然是麦当劳 KFC ，东西和国内不太一样，曼谷吃的还可以，算好吃但是也没有很惊艳。
+只有去普吉岛那次比较开心，但主要也是跟前任去，两个人坐在悬崖咖啡厅待一下午也开心，一个人去有点寂寞。&lt;/p&gt;
+&lt;p&gt;然后又想去云南，看了眼小红书，好像也就那样吧，气候没有广东宜人，昼夜温差大，吃的主要是米线烧烤鸡脚这些东西，专门跑过去吃有点不值得，我本来就住在海滨城市，对洱海也没什么兴趣了，厦门那块也去过，海滨城市都差不多咯。后面还想过长沙，因为有本地的朋友，但是他直接劝退了，说如果对那个人头合照没兴趣，真没必要来，还是商场小吃和深圳有啥区别，我又不爱吃辣，他要上班也没空陪我。&lt;/p&gt;
+&lt;p&gt;越想越觉得，广东这个地方，只要不上班真的哪哪都好，今天冬天只持续了 2 天（真的太棒了），吃的又好吃（深圳除外），交通也便利，景色也好，到处都是免费的公园，只要不上班工作日去人也不多。&lt;/p&gt;
+&lt;p&gt;写了一大堆，可能我本来就是个无趣的人，所以哪哪都觉得无聊吧，然后赚的又不够多，要是能做头等舱飞到普吉岛的豪华酒店，哪也不去就在酒店躺 11 天那也爽啊，要我坐红眼廉航住快捷酒店，就觉得太苦了不想折腾。&lt;/p&gt;
 </description>
     </item>
   </channel>
