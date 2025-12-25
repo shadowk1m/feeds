@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 25 Dec 2025 05:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 05:44:29 GMT</lastBuildDate>
     <item>
       <title>一位朋友的人生给我带来了窒息感。</title>
       <link>https://www.v2ex.com/t/1181040</link>
@@ -71,27 +71,25 @@
 </description>
     </item>
     <item>
-      <title>只要不上班，我感觉深圳挺好的，都没必要去外地旅游</title>
-      <link>https://www.v2ex.com/t/1180885</link>
-      <guid>v2ex-1180885</guid>
-      <pubDate>Wed, 24 Dec 2025 05:17:38 GMT</pubDate>
-      <description>&lt;p&gt;年底凑了 11 天假，我纠结了一个月也没决定到底去哪，因为怕冷北方都直接排除了。&lt;/p&gt;
-&lt;p&gt;一开始想的是去日本，看了下气候也冷就放弃了&lt;/p&gt;
-&lt;p&gt;后来想去东南亚，但是又想起那之前去新加坡和曼谷也挺无聊的，和深圳一样逛商场，排队网红餐厅，路边摊，夜市。
-新加坡的东西真的有够难吃的，网红路边摊食阁到高级餐厅都吃了，最好吃的居然是麦当劳 KFC ，东西和国内不太一样，曼谷吃的还可以，算好吃但是也没有很惊艳。
-只有去普吉岛那次比较开心，但主要也是跟前任去，两个人坐在悬崖咖啡厅待一下午也开心，一个人去有点寂寞。&lt;/p&gt;
-&lt;p&gt;然后又想去云南，看了眼小红书，好像也就那样吧，气候没有广东宜人，昼夜温差大，吃的主要是米线烧烤鸡脚这些东西，专门跑过去吃有点不值得，我本来就住在海滨城市，对洱海也没什么兴趣了，厦门那块也去过，海滨城市都差不多咯。后面还想过长沙，因为有本地的朋友，但是他直接劝退了，说如果对那个人头合照没兴趣，真没必要来，还是商场小吃和深圳有啥区别，我又不爱吃辣，他要上班也没空陪我。&lt;/p&gt;
-&lt;p&gt;越想越觉得，广东这个地方，只要不上班真的哪哪都好，今天冬天只持续了 2 天（真的太棒了），吃的又好吃（深圳除外），交通也便利，景色也好，到处都是免费的公园，只要不上班工作日去人也不多。&lt;/p&gt;
-&lt;p&gt;写了一大堆，可能我本来就是个无趣的人，所以哪哪都觉得无聊吧，然后赚的又不够多，要是能做头等舱飞到普吉岛的豪华酒店，哪也不去就在酒店躺 11 天那也爽啊，要我坐红眼廉航住快捷酒店，就觉得太苦了不想折腾。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>小米 mino v2 flash 套壳谷歌模型</title>
       <link>https://www.v2ex.com/t/1181045</link>
       <guid>v2ex-1181045</guid>
       <pubDate>Thu, 25 Dec 2025 01:24:43 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;https://i.imgur.com/F4y0Bsk.png&quot; rel=&quot;nofollow&quot;&gt;https://i.imgur.com/F4y0Bsk.png&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;所以应该是套壳吧，提示词都没写好&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>写了一个使用 V2EX 和 solana 打赏帖子回复的脚本, 可以在帖子回复中通过点击按钮来打赏对应的回复人并同步到 V2EX 的记录中, 但是不支持附言和提示.</title>
+      <link>https://www.v2ex.com/t/1181071</link>
+      <guid>v2ex-1181071</guid>
+      <pubDate>Thu, 25 Dec 2025 02:28:31 GMT</pubDate>
+      <description>&lt;p&gt;一键安装地址: &lt;a href=&quot;https://github.com/HelloWorldImJoe/TampermonkeyScripts/raw/master/v2ex-tip-script.user.js&quot; rel=&quot;nofollow&quot;&gt;安装地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;脚本仓库地址: &lt;a href=&quot;https://github.com/HelloWorldImJoe/TampermonkeyScripts/blob/master/topic-quick-thank.user.js&quot; rel=&quot;nofollow&quot;&gt;https://github.com/HelloWorldImJoe/TampermonkeyScripts/blob/master/topic-quick-thank.user.js&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;附几个截图:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/rpZBPfn.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/LwFgcqh.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/nQ5Xxdz.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
