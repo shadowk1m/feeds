@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 26 Dec 2025 04:27:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 04:52:21 GMT</lastBuildDate>
     <item>
       <title>一直没有一个科学上网相关的交流社区论坛，于是我弄了一个。</title>
       <link>https://www.v2ex.com/t/1181168</link>
@@ -107,6 +107,13 @@
       <description>“经济形势不好”传导到大家了吗。看到新闻说京东人均 25 个月，羡慕了</description>
     </item>
     <item>
+      <title>大家苹果 id 是国区还是美区？</title>
+      <link>https://www.v2ex.com/t/1181246</link>
+      <guid>v2ex-1181246</guid>
+      <pubDate>Thu, 25 Dec 2025 17:22:03 GMT</pubDate>
+      <description>我一直是一个国区当主账号，一个美区在商店下载应用。最近看有些朋友讲应该美区当主账号，国区的偶尔在商店登陆下个应用。两个账号都有充值和购买应用，不过国区买的国区的应用和内购，美区买的是美区的应用和内购。我要是把国区的账号改成美区，哪我已经购买的 app 和内购还有用么？</description>
+    </item>
+    <item>
       <title>香格里拉回来后，发现&quot;高端&quot;其实一直被外掌握</title>
       <link>https://www.v2ex.com/t/1181179</link>
       <guid>v2ex-1181179</guid>
@@ -116,13 +123,6 @@
 &lt;p&gt;还有 P 绒，普通抓绒非常便宜，P 绒（金标）都需要 400 以上。打算买一件和普通抓绒体验一下。&lt;/p&gt;
 &lt;p&gt;后面看了下科普，高端都是国外品牌，不得不感叹他们的技术领先，就面料来说，目前国内品牌基本没有自研面料能卖上价。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>大家苹果 id 是国区还是美区？</title>
-      <link>https://www.v2ex.com/t/1181246</link>
-      <guid>v2ex-1181246</guid>
-      <pubDate>Thu, 25 Dec 2025 17:22:03 GMT</pubDate>
-      <description>我一直是一个国区当主账号，一个美区在商店下载应用。最近看有些朋友讲应该美区当主账号，国区的偶尔在商店登陆下个应用。两个账号都有充值和购买应用，不过国区买的国区的应用和内购，美区买的是美区的应用和内购。我要是把国区的账号改成美区，哪我已经购买的 app 和内购还有用么？</description>
     </item>
     <item>
       <title>有点想去尝试减肥针，据说脂肪肝都能治好。有人试过吗？</title>
@@ -159,45 +159,11 @@
 </description>
     </item>
     <item>
-      <title>“快手直播事件”引发的技术思考</title>
-      <link>https://www.v2ex.com/t/1181152</link>
-      <guid>v2ex-1181152</guid>
-      <pubDate>Thu, 25 Dec 2025 07:07:20 GMT</pubDate>
-      <description>&lt;p&gt;先来看下，近几年大厂发生的几个影响较大的运营事故：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/2vTkzdV.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;这几起事件的共同点：影响范围广、故障时间长、造成非常负面的舆论影响；&lt;/p&gt;
-&lt;p&gt;这次快手的事情，还是远远超出了我的想象，服务故障只会影响正常使用，但是被攻击进而导致了&lt;strong&gt;大面积非法活动&lt;/strong&gt;；对于监管来说，没有比这更严重的事情，属于&lt;strong&gt;妥妥的红线&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h1&gt;&lt;strong&gt;为什么会发生&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;黑客、灰产，从互联网诞生之初，就一直存在，今天我们不去讨论黑客如何操作大规模账号、如何进行的实名认证，我们从开发这个角度去考虑，怎样去避免事件的发生？&lt;/p&gt;
-&lt;p&gt;直播和视频播放不一样，它的内容属于实时产生，平台没有办法提前审核；因此直播平台建设怎样的审核机制，就关系平台能否控制用户的直播内容。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/LIo2YoA.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;大部分直播审核机制我们可以简化为上图：截取画面、音频等，通过模型自动化判定，然后再人工复审，最后处罚封禁。&lt;/p&gt;
-&lt;h2&gt;瓶颈节点&lt;/h2&gt;
-&lt;p&gt;在开发中，我们经常会提一个瓶颈节点的概念，意味着它决定着整个链路的承载量，如果它停止工作，则整个链路瘫痪。&lt;/p&gt;
-&lt;p&gt;而在上面的审核链路中，可以认为人工复审是一个瓶颈节点，因为人力是有限的；也许平时只需要 1000 个审核员既可以应对，但是当极端情况出现，同时涌现出上万个甚至更多非法直播时，这套机制自然就被攻破了。&lt;/p&gt;
-&lt;p&gt;我们可以猜测，黑客操作大量账号，同时开启非法直播，当部分账号被封禁后，又不停的新增非法账号直播，人工复审节点一直处于过载状态，没办法处理全部的审核。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h1&gt;&lt;strong&gt;可能的解决方式&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;假设我们按照上图的审核机制，怎样优化可以解决同时出现大量非法直播的问题呢？&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/8gKSVx4.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;自动判定节点&lt;/h2&gt;
-&lt;p&gt;根据模型分析结果，辅助额外账号信息，自动判定是否需要“二次人工复审”，对于不需要的案例，直接处罚。当然自动判定存在误判的风险，而快手这次事件，可以看到大部分直播是常规的淫秽视频，通过模型辅助账号信息是可以精确判定的。&lt;/p&gt;
-&lt;p&gt;为了让自动判定足够精确，我们需要做些什么？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;模型不断训练更加精准&lt;/li&gt;
-&lt;li&gt;收集更多维度信息，账号活跃度、登录 ip 、设备等等风控数据 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;目的&lt;/h2&gt;
-&lt;p&gt;减轻“人工复审”节点的压力，使它不再是瓶颈节点，是我们的最终目的，毕竟其他节点都可以通过扩容的方式解决。也许自动判定可能会存在误判的情形，但是我们可以不断优化，不断减少误判的概率。&lt;/p&gt;
-&lt;h1&gt;&lt;strong&gt;思考&lt;/strong&gt;&lt;/h1&gt;
-&lt;h2&gt;小概率事件&lt;/h2&gt;
-&lt;p&gt;对快手而言，“同时出现大规模非法直播”是一个小概率事件，在它们设计审核机制时，可能也有考虑到过？但是&lt;strong&gt;可能认为“几万人同时直播黄片”是几乎不可能出现的事情&lt;/strong&gt;，因此并没有做预案。&lt;/p&gt;
-&lt;p&gt;在互联网领域，尤其是后端模块，&lt;strong&gt;海量用户+长时间运行，任何小概率 bug 都演变成必然触发&lt;/strong&gt;；如果没有完美解决方案，则往往可以采取有损的妥协折中方案。&lt;/p&gt;
-&lt;p&gt;欢迎快手同学现身说法！&lt;/p&gt;
-&lt;p&gt;最后宣传下自己的技术公众号：欢迎关注，讨论交流
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/5KiRAmz.jpeg&quot;/&gt;&lt;/p&gt;
-</description>
+      <title>标题建议： [吐槽] 真的无语了，米家叮零门铃 E3 凌晨 4 点狂响广告，想钱想疯了？</title>
+      <link>https://www.v2ex.com/t/1181262</link>
+      <guid>v2ex-1181262</guid>
+      <pubDate>Fri, 26 Dec 2025 01:00:33 GMT</pubDate>
+      <description>真的是被气炸了，上来发个帖吐槽一下，顺便问问大家有没有遇到类似的情况。&lt;br /&gt;&lt;br /&gt;设备型号： 叮零智能视频门铃 E3 （接入米家的） 购买时间：2021 年 12 月 12 日&lt;br /&gt;&lt;br /&gt;事情经过： 今天凌晨 4 点，全家人都在熟睡，这破门铃突然开始响那种营销广告的声音，而且不是响一声，是一直持续在响！声音在寂静的凌晨显得巨响无比。&lt;br /&gt;&lt;br /&gt;最后直接被吵醒，整个人处于崩溃边缘，只能爬起来冲过去把接收器的电源拔了才清静。&lt;br /&gt;&lt;br /&gt;这已经不是第一次发生了： 之前发生过一次类似的情况，但那次是在下午，虽然觉得莫名其妙但忍忍也就过去了。结果这次给我搞到凌晨 4 点？产品经理脑子是有坑吗？为了推广告已经完全不顾用户死活了？&lt;br /&gt;&lt;br /&gt;这东西用了快 3 年了，之前还没这么离谱。现在这种 IoT 设备是不是只要连了网，就要随时准备接受厂商的“精神攻击”？&lt;br /&gt;&lt;br /&gt;想问问 V 友们：&lt;br /&gt;&lt;br /&gt;有人用同款门铃遇到过这种情况吗？&lt;br /&gt;&lt;br /&gt;这是固件 Bug 还是真的在推流氓广告？&lt;br /&gt;&lt;br /&gt;除了拔电源扔垃圾桶，还有救吗？&lt;br /&gt;&lt;br /&gt;真的想钱想疯了，大半夜的，简直有大病。</description>
     </item>
   </channel>
 </rss>
