@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 27 Dec 2025 16:44:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 17:09:07 GMT</lastBuildDate>
     <item>
       <title>卸载高德 APP，装回 iOS26 自带地图</title>
       <link>https://www.v2ex.com/t/1181532</link>
@@ -44,6 +44,13 @@
       <description>RT. 都是海外的开源软件，licence 也都是一样的。&lt;br /&gt;&lt;br /&gt;背景&lt;br /&gt;项目上遇到了相关的需求，要求包里不能有 Tomcat 。&lt;br /&gt;公司上面给的方案却是让换成 Netty 而不是打成 war 包来接入客户提供的国产化 web 服务器。&lt;br /&gt;由于之前是 spring-web ，阻塞式的，改成 netty 工作量巨大。&lt;br /&gt;&lt;br /&gt;是不是因为 Tomcat 有 TongWeb 这种国产替代。但是国内没人做 Netty 的替代。&lt;br /&gt;所以 Tomcat 才会上黑名单，但是 Netty 就活着。</description>
     </item>
     <item>
+      <title>鳏寡单身懒汉码农如何解决鞋子脏，汗，异味问题</title>
+      <link>https://www.v2ex.com/t/1181567</link>
+      <guid>v2ex-1181567</guid>
+      <pubDate>Sat, 27 Dec 2025 05:50:25 GMT</pubDate>
+      <description>1. 买个专门洗鞋子的洗衣机&lt;br /&gt;2. 扔掉买新的&lt;br /&gt;3. _________________</description>
+    </item>
+    <item>
       <title>年底提车被 4S 店吃保险差价 1000，这种操作正常吗？</title>
       <link>https://www.v2ex.com/t/1181527</link>
       <guid>v2ex-1181527</guid>
@@ -76,13 +83,6 @@
 &lt;/ol&gt;
 &lt;p&gt;因此，当你现在创业想做面向程序员的产品时，务必三思。非行业巨头，不建议走这个路线。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>鳏寡单身懒汉码农如何解决鞋子脏，汗，异味问题</title>
-      <link>https://www.v2ex.com/t/1181567</link>
-      <guid>v2ex-1181567</guid>
-      <pubDate>Sat, 27 Dec 2025 05:50:25 GMT</pubDate>
-      <description>1. 买个专门洗鞋子的洗衣机&lt;br /&gt;2. 扔掉买新的&lt;br /&gt;3. _________________</description>
     </item>
     <item>
       <title>整了一晚上 Tailscale 依然没有成功，甚至搞得手机都无法上网，真是绝望</title>
