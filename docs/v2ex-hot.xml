@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 27 Dec 2025 13:03:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 13:42:57 GMT</lastBuildDate>
     <item>
       <title>卸载高德 APP，装回 iOS26 自带地图</title>
       <link>https://www.v2ex.com/t/1181532</link>
@@ -78,18 +78,18 @@
 </description>
     </item>
     <item>
-      <title>整了一晚上 Tailscale 依然没有成功，甚至搞得手机都无法上网，真是绝望</title>
-      <link>https://www.v2ex.com/t/1181562</link>
-      <guid>v2ex-1181562</guid>
-      <pubDate>Sat, 27 Dec 2025 05:32:09 GMT</pubDate>
-      <description>有固定公网 ip ，之前一直用群晖套件的 L2TP 连回家，昨天打算换一个更现代的方式，论坛一通搜索后决定用 Tailscale 。&lt;br /&gt;&lt;br /&gt;本人不懂网络知识，所以基本都按照 Gemini 的指示，先在 PVE 的 LXC 中安装 Tialscale ，一开始很顺利，网页端能看到 PVE 和 iPhone 都在线，subnet 开启 ip 转发也都显示正常，但就是一直无法互相 ping 通；跟着 Gemini 的建议一路排查，什么 TUN 权限、防火墙、NAT 伪装都试了也不管用。&lt;br /&gt;&lt;br /&gt;后来换了在 PVE 中开一个 Debian 虚拟机安装，然而问题依旧：有时刚连上的几秒钟能 ping 通（虽然开了端口转发，但很奇怪依然绕行香港甚至波兰的服务器），随后就断连了。并且发现 iPhone 上 tailscale 常要通过反复开关飞行模式才能连接上 VPN ，甚至断开 iPhone VPN 后手机无法通过蜂窝上网了，重启和恢复网络设置也没用，为此还打了联通客服，那边说后台看一切正常。后来发现需要等上几分钟后才能恢复，不禁怀疑是不是联通的阻断。&lt;br /&gt;&lt;br /&gt;本来主要是出于学习的目的来折腾，租的房子没有公网 ip ，打算如果成功了就套用在出租房里，谁想到如此不顺利。感慨还是需要懂一些基础知识来折腾，把开了会员的 Gemini 用到限制的那一刻真是绝望啊……</description>
-    </item>
-    <item>
       <title>鳏寡单身懒汉码农如何解决鞋子脏，汗，异味问题</title>
       <link>https://www.v2ex.com/t/1181567</link>
       <guid>v2ex-1181567</guid>
       <pubDate>Sat, 27 Dec 2025 05:50:25 GMT</pubDate>
       <description>1. 买个专门洗鞋子的洗衣机&lt;br /&gt;2. 扔掉买新的&lt;br /&gt;3. _________________</description>
+    </item>
+    <item>
+      <title>整了一晚上 Tailscale 依然没有成功，甚至搞得手机都无法上网，真是绝望</title>
+      <link>https://www.v2ex.com/t/1181562</link>
+      <guid>v2ex-1181562</guid>
+      <pubDate>Sat, 27 Dec 2025 05:32:09 GMT</pubDate>
+      <description>有固定公网 ip ，之前一直用群晖套件的 L2TP 连回家，昨天打算换一个更现代的方式，论坛一通搜索后决定用 Tailscale 。&lt;br /&gt;&lt;br /&gt;本人不懂网络知识，所以基本都按照 Gemini 的指示，先在 PVE 的 LXC 中安装 Tialscale ，一开始很顺利，网页端能看到 PVE 和 iPhone 都在线，subnet 开启 ip 转发也都显示正常，但就是一直无法互相 ping 通；跟着 Gemini 的建议一路排查，什么 TUN 权限、防火墙、NAT 伪装都试了也不管用。&lt;br /&gt;&lt;br /&gt;后来换了在 PVE 中开一个 Debian 虚拟机安装，然而问题依旧：有时刚连上的几秒钟能 ping 通（虽然开了端口转发，但很奇怪依然绕行香港甚至波兰的服务器），随后就断连了。并且发现 iPhone 上 tailscale 常要通过反复开关飞行模式才能连接上 VPN ，甚至断开 iPhone VPN 后手机无法通过蜂窝上网了，重启和恢复网络设置也没用，为此还打了联通客服，那边说后台看一切正常。后来发现需要等上几分钟后才能恢复，不禁怀疑是不是联通的阻断。&lt;br /&gt;&lt;br /&gt;本来主要是出于学习的目的来折腾，租的房子没有公网 ip ，打算如果成功了就套用在出租房里，谁想到如此不顺利。感慨还是需要懂一些基础知识来折腾，把开了会员的 Gemini 用到限制的那一刻真是绝望啊……</description>
     </item>
     <item>
       <title>[一封感谢信] hi， v2 社的兄弟们还记得我吗？我创业 2 年了</title>
