@@ -4,21 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 27 Dec 2025 10:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 11:08:52 GMT</lastBuildDate>
     <item>
       <title>卸载高德 APP，装回 iOS26 自带地图</title>
       <link>https://www.v2ex.com/t/1181532</link>
       <guid>v2ex-1181532</guid>
       <pubDate>Sat, 27 Dec 2025 02:35:17 GMT</pubDate>
       <description>受不了高德地图那么多没用的东西，什么扫街、打车，恨不得把大众点评、滴滴都吞并了，底下 5 个 tab 就一个｛导航｝和｛我的｝两个有点用，因此我把它卸载，装回了 ios 自带的 map ，有一说一，ios26 上 自带 map 颜值高多了。除了没有小组件能在负一屏快速导航回家/去公司（好在可以通过快捷指令曲线救国），其他的用户体验我感觉都很好！</description>
-    </item>
-    <item>
-      <title>年底提车被 4S 店吃保险差价 1000，这种操作正常吗？</title>
-      <link>https://www.v2ex.com/t/1181527</link>
-      <guid>v2ex-1181527</guid>
-      <pubDate>Sat, 27 Dec 2025 02:16:51 GMT</pubDate>
-      <description>&lt;p&gt;订车时先收我 5000 保险费，后来急着元旦前提车，销售说年底不能正常出保险，只能走所谓“特惠渠道”，保单 4000 元，差价 1000 直接不退，说是给别人费用。这种操作合理吗？&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>6 年 Java 后端，花 10 万去爱尔兰读语言学校，这条路值不值得？</title>
@@ -28,11 +20,12 @@
       <description>本人 6 年 Java 后端开发，目前在国内做后台系统相关工作。&lt;br /&gt;28 岁了，再不系统把英语练出来，后面可能更难。&lt;br /&gt;&lt;br /&gt;我不指望出国就改变命运，只是想在还能承受试错成本的时候，给自己一次真正沉浸式的机会。&lt;br /&gt;&lt;br /&gt;如果半年后发现不适合，我也能接受回国继续走技术路线。&lt;br /&gt;只是想少一点“如果当初我去过就好了”的遗憾。&lt;br /&gt;&lt;br /&gt;这次出去并不是“移民冲动”，更多是想：&lt;br /&gt;&lt;br /&gt;真正把英语练出来&lt;br /&gt;&lt;br /&gt;体验一段完整的海外生活&lt;br /&gt;&lt;br /&gt;看看自己是否适合长期在全英文环境下工作&lt;br /&gt;&lt;br /&gt;我的预期也比较现实：&lt;br /&gt;&lt;br /&gt;语言学校期间以学习和适应为主&lt;br /&gt;&lt;br /&gt;如果后续发现不适合或机会不成熟，也可以选择回国&lt;br /&gt;&lt;br /&gt;回国后希望能凭英语 + 技术，争取更好的岗位或外企/出海机会&lt;br /&gt;&lt;br /&gt;想请教下有类似经历的朋友：&lt;br /&gt;&lt;br /&gt;对于已经有多年开发经验的人来说，单纯去念语言学校，性价比如何？&lt;br /&gt;&lt;br /&gt;爱尔兰或欧洲对 Java 后端的实际需求情况如何？&lt;br /&gt;&lt;br /&gt;这条路上，有没有我现在还没意识到的坑？&lt;br /&gt;&lt;br /&gt;非常感谢真实经验分享，不太想听情绪化或极端判断。&lt;br /&gt;说实话，我也纠结过。</description>
     </item>
     <item>
-      <title>为什么使用 Tomcat 算违反国产化要求，但是使用 Netty 却不算。</title>
-      <link>https://www.v2ex.com/t/1181537</link>
-      <guid>v2ex-1181537</guid>
-      <pubDate>Sat, 27 Dec 2025 02:55:54 GMT</pubDate>
-      <description>RT. 都是海外的开源软件，licence 也都是一样的。&lt;br /&gt;&lt;br /&gt;背景&lt;br /&gt;项目上遇到了相关的需求，要求包里不能有 Tomcat 。&lt;br /&gt;公司上面给的方案却是让换成 Netty 而不是打成 war 包来接入客户提供的国产化 web 服务器。&lt;br /&gt;由于之前是 spring-web ，阻塞式的，改成 netty 工作量巨大。&lt;br /&gt;&lt;br /&gt;是不是因为 Tomcat 有 TongWeb 这种国产替代。但是国内没人做 Netty 的替代。&lt;br /&gt;所以 Tomcat 才会上黑名单，但是 Netty 就活着。</description>
+      <title>年底提车被 4S 店吃保险差价 1000，这种操作正常吗？</title>
+      <link>https://www.v2ex.com/t/1181527</link>
+      <guid>v2ex-1181527</guid>
+      <pubDate>Sat, 27 Dec 2025 02:16:51 GMT</pubDate>
+      <description>&lt;p&gt;订车时先收我 5000 保险费，后来急着元旦前提车，销售说年底不能正常出保险，只能走所谓“特惠渠道”，保单 4000 元，差价 1000 直接不退，说是给别人费用。这种操作合理吗？&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>新年倒计时，陷入人生低谷期，不知道该如何与这个世界相处了，感到迷茫</title>
@@ -50,6 +43,13 @@
 &lt;/ol&gt;
 &lt;p&gt;这段时间经历的这一切，感觉生活失去了意义感，不知道该如何与这个世界相处了，不知道该如何一个人平静的生活。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>为什么使用 Tomcat 算违反国产化要求，但是使用 Netty 却不算。</title>
+      <link>https://www.v2ex.com/t/1181537</link>
+      <guid>v2ex-1181537</guid>
+      <pubDate>Sat, 27 Dec 2025 02:55:54 GMT</pubDate>
+      <description>RT. 都是海外的开源软件，licence 也都是一样的。&lt;br /&gt;&lt;br /&gt;背景&lt;br /&gt;项目上遇到了相关的需求，要求包里不能有 Tomcat 。&lt;br /&gt;公司上面给的方案却是让换成 Netty 而不是打成 war 包来接入客户提供的国产化 web 服务器。&lt;br /&gt;由于之前是 spring-web ，阻塞式的，改成 netty 工作量巨大。&lt;br /&gt;&lt;br /&gt;是不是因为 Tomcat 有 TongWeb 这种国产替代。但是国内没人做 Netty 的替代。&lt;br /&gt;所以 Tomcat 才会上黑名单，但是 Netty 就活着。</description>
     </item>
     <item>
       <title>immich 有备份还是炸了</title>
