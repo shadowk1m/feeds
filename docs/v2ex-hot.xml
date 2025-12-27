@@ -4,20 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 27 Dec 2025 09:38:15 GMT</lastBuildDate>
-    <item>
-      <title>不要“咬咬牙”买自已难负担的电子产品</title>
-      <link>https://www.v2ex.com/t/1181450</link>
-      <guid>v2ex-1181450</guid>
-      <pubDate>Fri, 26 Dec 2025 10:01:56 GMT</pubDate>
-      <description>&lt;p&gt;电子产品的贬值速度很快，现在看到 powermac 这种古董电脑只有几百 mb 的内存，觉得就是一个废品。但是，在当时这个电脑的设计是改变时代的。      &lt;/p&gt;
-&lt;p&gt;看到一个帖子： &lt;a href=&quot;https://www.v2ex.com/t/87825&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/87825&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;也不知道这个 op 的电脑现在是不是已经扔了。&lt;/p&gt;
-&lt;p&gt;如果你在 20 年前用 1w 购买一个顶级的电脑，虽然会有一段时间很好的体验，现在电脑也不能用了。如果你很有钱，可能无所谓，自己用的很开心就值得。但如果是“咬咬牙”买的，会很不值得，你会因为贬值而影响心情。&lt;/p&gt;
-&lt;p&gt;以前买东西都想买顶配，现在想通了，买自己足够的配置就可以了，无论再高级，10 几年后都是垃圾了。如果一个人能有钱每年买最好的电子产品，这也是一种实力。&lt;/p&gt;
-&lt;p&gt;还记得有人用肾换了个 iphone4 ，用自己负担不起的方式购买这种快消品，只会让自己越来越后悔。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 27 Dec 2025 10:11:29 GMT</lastBuildDate>
     <item>
       <title>卸载高德 APP，装回 iOS26 自带地图</title>
       <link>https://www.v2ex.com/t/1181532</link>
@@ -56,6 +43,13 @@
       <description>RT. 都是海外的开源软件，licence 也都是一样的。&lt;br /&gt;&lt;br /&gt;背景&lt;br /&gt;项目上遇到了相关的需求，要求包里不能有 Tomcat 。&lt;br /&gt;公司上面给的方案却是让换成 Netty 而不是打成 war 包来接入客户提供的国产化 web 服务器。&lt;br /&gt;由于之前是 spring-web ，阻塞式的，改成 netty 工作量巨大。&lt;br /&gt;&lt;br /&gt;是不是因为 Tomcat 有 TongWeb 这种国产替代。但是国内没人做 Netty 的替代。&lt;br /&gt;所以 Tomcat 才会上黑名单，但是 Netty 就活着。</description>
     </item>
     <item>
+      <title>整了一晚上 Tailscale 依然没有成功，甚至搞得手机都无法上网，真是绝望</title>
+      <link>https://www.v2ex.com/t/1181562</link>
+      <guid>v2ex-1181562</guid>
+      <pubDate>Sat, 27 Dec 2025 05:32:09 GMT</pubDate>
+      <description>有固定公网 ip ，之前一直用群晖套件的 L2TP 连回家，昨天打算换一个更现代的方式，论坛一通搜索后决定用 Tailscale 。&lt;br /&gt;&lt;br /&gt;本人不懂网络知识，所以基本都按照 Gemini 的指示，先在 PVE 的 LXC 中安装 Tialscale ，一开始很顺利，网页端能看到 PVE 和 iPhone 都在线，subnet 开启 ip 转发也都显示正常，但就是一直无法互相 ping 通；跟着 Gemini 的建议一路排查，什么 TUN 权限、防火墙、NAT 伪装都试了也不管用。&lt;br /&gt;&lt;br /&gt;后来换了在 PVE 中开一个 Debian 虚拟机安装，然而问题依旧：有时刚连上的几秒钟能 ping 通（虽然开了端口转发，但很奇怪依然绕行香港甚至波兰的服务器），随后就断连了。并且发现 iPhone 上 tailscale 常要通过反复开关飞行模式才能连接上 VPN ，甚至断开 iPhone VPN 后手机无法通过蜂窝上网了，重启和恢复网络设置也没用，为此还打了联通客服，那边说后台看一切正常。后来发现需要等上几分钟后才能恢复，不禁怀疑是不是联通的阻断。&lt;br /&gt;&lt;br /&gt;本来主要是出于学习的目的来折腾，租的房子没有公网 ip ，打算如果成功了就套用在出租房里，谁想到如此不顺利。感慨还是需要懂一些基础知识来折腾，把开了会员的 Gemini 用到限制的那一刻真是绝望啊……</description>
+    </item>
+    <item>
       <title>新年倒计时，陷入人生低谷期，不知道该如何与这个世界相处了，感到迷茫</title>
       <link>https://www.v2ex.com/t/1181568</link>
       <guid>v2ex-1181568</guid>
@@ -70,18 +64,6 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;这段时间经历的这一切，感觉生活失去了意义感，不知道该如何与这个世界相处了，不知道该如何一个人平静的生活。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>后悔更新 Telegram 了（iOS）</title>
-      <link>https://www.v2ex.com/t/1181447</link>
-      <guid>v2ex-1181447</guid>
-      <pubDate>Fri, 26 Dec 2025 09:50:58 GMT</pubDate>
-      <description>&lt;p&gt;手机的 Telegram 是很久之前下载的（国区），很少更新。
-最近打开 Telegram 老是提醒更新，点击更新后说已下架，然后我就删掉了 app ，切换到美区下载 Telegram 。&lt;/p&gt;
-&lt;p&gt;好家伙，这下 +86 的手机号收不了验证码，界面就跳去了让你填邮箱，填完就弹出 SMS Fee 的界面了...
-怎么也登录不进去了。&lt;/p&gt;
-&lt;p&gt;现在我的桌面端（ Mac ）还登录着这个账号，大佬们，我这账号还有得救吗？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -188,11 +170,30 @@
 </description>
     </item>
     <item>
-      <title>整了一晚上 Tailscale 依然没有成功，甚至搞得手机都无法上网，真是绝望</title>
-      <link>https://www.v2ex.com/t/1181562</link>
-      <guid>v2ex-1181562</guid>
-      <pubDate>Sat, 27 Dec 2025 05:32:09 GMT</pubDate>
-      <description>有固定公网 ip ，之前一直用群晖套件的 L2TP 连回家，昨天打算换一个更现代的方式，论坛一通搜索后决定用 Tailscale 。&lt;br /&gt;&lt;br /&gt;本人不懂网络知识，所以基本都按照 Gemini 的指示，先在 PVE 的 LXC 中安装 Tialscale ，一开始很顺利，网页端能看到 PVE 和 iPhone 都在线，subnet 开启 ip 转发也都显示正常，但就是一直无法互相 ping 通；跟着 Gemini 的建议一路排查，什么 TUN 权限、防火墙、NAT 伪装都试了也不管用。&lt;br /&gt;&lt;br /&gt;后来换了在 PVE 中开一个 Debian 虚拟机安装，然而问题依旧：有时刚连上的几秒钟能 ping 通（虽然开了端口转发，但很奇怪依然绕行香港甚至波兰的服务器），随后就断连了。并且发现 iPhone 上 tailscale 常要通过反复开关飞行模式才能连接上 VPN ，甚至断开 iPhone VPN 后手机无法通过蜂窝上网了，重启和恢复网络设置也没用，为此还打了联通客服，那边说后台看一切正常。后来发现需要等上几分钟后才能恢复，不禁怀疑是不是联通的阻断。&lt;br /&gt;&lt;br /&gt;本来主要是出于学习的目的来折腾，租的房子没有公网 ip ，打算如果成功了就套用在出租房里，谁想到如此不顺利。感慨还是需要懂一些基础知识来折腾，把开了会员的 Gemini 用到限制的那一刻真是绝望啊……</description>
+      <title>为什么创业不要选择做面向程序员的产品</title>
+      <link>https://www.v2ex.com/t/1181554</link>
+      <guid>v2ex-1181554</guid>
+      <pubDate>Sat, 27 Dec 2025 04:18:06 GMT</pubDate>
+      <description>&lt;p&gt;有很多程序员在用某一款产品的时候，发现了一些不爽的地方。然后心想：&lt;br/&gt;
+“老子自己也会开发，为啥不自己弄一个，&lt;br/&gt;
+说不定有很多人也有一样的需求，我做一个 XXX Plus ，肯定比现在这个 XXX 更牛逼，用的人更多。”&lt;/p&gt;
+&lt;p&gt;于是，很多程序员创业时，第一想法都是做一个给程序员用的产品，包括但不限于：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一个开发框架&lt;/li&gt;
+&lt;li&gt;一个开发小工具&lt;/li&gt;
+&lt;li&gt;一个只有程序员才需要的 APP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果不考虑盈利， 那你爱做啥就做啥，别人管不到。&lt;br/&gt;
+但如果你指望着靠这些产品盈利，请三思而后行。因为：&lt;/p&gt;
+&lt;p&gt;程序员是最难被赚钱的群体。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;多数程序员都是打工心态。即使你的产品很好用，他也不可能高尚到“为了做老板的项目，而花自己的钱去买一个提效工具”。老板也不可能高尚到“为了牛马干活轻松，而多花一分钱”，因为他认为他已经付过工钱了&lt;/li&gt;
+&lt;li&gt;程序员是非常理性的群体，每一笔消费都是挑三拣四、反复对比过的。你确定你的产品能在对比中取胜？&lt;/li&gt;
+&lt;li&gt;程序员只会购买他这辈子都开发不出来、并且无法免费破解的产品（比如 AI 编程）。多数程序员的选择思路是：先找破解版；再找免费版平替；最后宁愿自己撸，也不可能让同行赚到钱（因为让其他程序员赚到钱了，等于承认其他程序员比自己牛逼，这是在侮辱自己）。&lt;/li&gt;
+&lt;li&gt;你以为程序员的需求是提升开发效率？不是的，程序员真正的需求是：”不用干活，又能赚很多钱“。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;因此，当你现在创业想做面向程序员的产品时，务必三思。非行业巨头，不建议走这个路线。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>受不了！退坑 26.3，这个系统真是 LJ 堆成的</title>
@@ -200,6 +201,13 @@
       <guid>v2ex-1181491</guid>
       <pubDate>Fri, 26 Dec 2025 14:58:22 GMT</pubDate>
       <description>M4Air 不小心点了更新，体验了半个月，一大堆 Bug ，用了 4 年的 M ，第一次，一天内 2 次完全卡死，常常点不开 WIFI ，另外还有启动器问题，真的要烦死人了，各种 UI 超边界，苹果要倒退了么？退坑！！！！ 半个月，让我差点脱敏！</description>
+    </item>
+    <item>
+      <title>6 年 Java 后端，花 10 万去爱尔兰读语言学校，这条路值不值得？</title>
+      <link>https://www.v2ex.com/t/1181534</link>
+      <guid>v2ex-1181534</guid>
+      <pubDate>Sat, 27 Dec 2025 02:37:58 GMT</pubDate>
+      <description>本人 6 年 Java 后端开发，目前在国内做后台系统相关工作。&lt;br /&gt;28 岁了，再不系统把英语练出来，后面可能更难。&lt;br /&gt;&lt;br /&gt;我不指望出国就改变命运，只是想在还能承受试错成本的时候，给自己一次真正沉浸式的机会。&lt;br /&gt;&lt;br /&gt;如果半年后发现不适合，我也能接受回国继续走技术路线。&lt;br /&gt;只是想少一点“如果当初我去过就好了”的遗憾。&lt;br /&gt;&lt;br /&gt;这次出去并不是“移民冲动”，更多是想：&lt;br /&gt;&lt;br /&gt;真正把英语练出来&lt;br /&gt;&lt;br /&gt;体验一段完整的海外生活&lt;br /&gt;&lt;br /&gt;看看自己是否适合长期在全英文环境下工作&lt;br /&gt;&lt;br /&gt;我的预期也比较现实：&lt;br /&gt;&lt;br /&gt;语言学校期间以学习和适应为主&lt;br /&gt;&lt;br /&gt;如果后续发现不适合或机会不成熟，也可以选择回国&lt;br /&gt;&lt;br /&gt;回国后希望能凭英语 + 技术，争取更好的岗位或外企/出海机会&lt;br /&gt;&lt;br /&gt;想请教下有类似经历的朋友：&lt;br /&gt;&lt;br /&gt;对于已经有多年开发经验的人来说，单纯去念语言学校，性价比如何？&lt;br /&gt;&lt;br /&gt;爱尔兰或欧洲对 Java 后端的实际需求情况如何？&lt;br /&gt;&lt;br /&gt;这条路上，有没有我现在还没意识到的坑？&lt;br /&gt;&lt;br /&gt;非常感谢真实经验分享，不太想听情绪化或极端判断。&lt;br /&gt;说实话，我也纠结过。</description>
     </item>
   </channel>
 </rss>
