@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 27 Dec 2025 12:21:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 13:03:28 GMT</lastBuildDate>
     <item>
       <title>卸载高德 APP，装回 iOS26 自带地图</title>
       <link>https://www.v2ex.com/t/1181532</link>
@@ -49,6 +49,32 @@
       <guid>v2ex-1181527</guid>
       <pubDate>Sat, 27 Dec 2025 02:16:51 GMT</pubDate>
       <description>&lt;p&gt;订车时先收我 5000 保险费，后来急着元旦前提车，销售说年底不能正常出保险，只能走所谓“特惠渠道”，保单 4000 元，差价 1000 直接不退，说是给别人费用。这种操作合理吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>为什么创业不要选择做面向程序员的产品</title>
+      <link>https://www.v2ex.com/t/1181554</link>
+      <guid>v2ex-1181554</guid>
+      <pubDate>Sat, 27 Dec 2025 04:18:06 GMT</pubDate>
+      <description>&lt;p&gt;有很多程序员在用某一款产品的时候，发现了一些不爽的地方。然后心想：&lt;br/&gt;
+“老子自己也会开发，为啥不自己弄一个，&lt;br/&gt;
+说不定有很多人也有一样的需求，我做一个 XXX Plus ，肯定比现在这个 XXX 更牛逼，用的人更多。”&lt;/p&gt;
+&lt;p&gt;于是，很多程序员创业时，第一想法都是做一个给程序员用的产品，包括但不限于：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一个开发框架&lt;/li&gt;
+&lt;li&gt;一个开发小工具&lt;/li&gt;
+&lt;li&gt;一个只有程序员才需要的 APP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果不考虑盈利， 那你爱做啥就做啥，别人管不到。&lt;br/&gt;
+但如果你指望着靠这些产品盈利，请三思而后行。因为：&lt;/p&gt;
+&lt;p&gt;程序员是最难被赚钱的群体。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;多数程序员都是打工心态。即使你的产品很好用，他也不可能高尚到“为了做老板的项目，而花自己的钱去买一个提效工具”。老板也不可能高尚到“为了牛马干活轻松，而多花一分钱”，因为他认为他已经付过工钱了&lt;/li&gt;
+&lt;li&gt;程序员是非常理性的群体，每一笔消费都是挑三拣四、反复对比过的。你确定你的产品能在对比中取胜？&lt;/li&gt;
+&lt;li&gt;程序员只会购买他这辈子都开发不出来、并且无法免费破解的产品（比如 AI 编程）。多数程序员的选择思路是：先找破解版；再找免费版平替；最后宁愿自己撸，也不可能让同行赚到钱（因为让其他程序员赚到钱了，等于承认其他程序员比自己牛逼，这是在侮辱自己）。&lt;/li&gt;
+&lt;li&gt;你以为程序员的需求是提升开发效率？不是的，程序员真正的需求是：”不用干活，又能赚很多钱“。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;因此，当你现在创业想做面向程序员的产品时，务必三思。非行业巨头，不建议走这个路线。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -217,32 +243,6 @@ table_name    | total_size
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;另外把用户分为 100 张的操作在 PG 这里完全是反模式的，因为 PG 号称单表轻松过亿。另外十多年前的老设计本应该也要被淘汰了，毕竟现在都是云服务，空间存储可以轻松扩充，不用再担心这个问题。&lt;/p&gt;
 &lt;p&gt;有没有使用 PG 淘汰 MySQL 的大佬来分享一下自己的经历，一起学习哈。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>为什么创业不要选择做面向程序员的产品</title>
-      <link>https://www.v2ex.com/t/1181554</link>
-      <guid>v2ex-1181554</guid>
-      <pubDate>Sat, 27 Dec 2025 04:18:06 GMT</pubDate>
-      <description>&lt;p&gt;有很多程序员在用某一款产品的时候，发现了一些不爽的地方。然后心想：&lt;br/&gt;
-“老子自己也会开发，为啥不自己弄一个，&lt;br/&gt;
-说不定有很多人也有一样的需求，我做一个 XXX Plus ，肯定比现在这个 XXX 更牛逼，用的人更多。”&lt;/p&gt;
-&lt;p&gt;于是，很多程序员创业时，第一想法都是做一个给程序员用的产品，包括但不限于：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;一个开发框架&lt;/li&gt;
-&lt;li&gt;一个开发小工具&lt;/li&gt;
-&lt;li&gt;一个只有程序员才需要的 APP&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如果不考虑盈利， 那你爱做啥就做啥，别人管不到。&lt;br/&gt;
-但如果你指望着靠这些产品盈利，请三思而后行。因为：&lt;/p&gt;
-&lt;p&gt;程序员是最难被赚钱的群体。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;多数程序员都是打工心态。即使你的产品很好用，他也不可能高尚到“为了做老板的项目，而花自己的钱去买一个提效工具”。老板也不可能高尚到“为了牛马干活轻松，而多花一分钱”，因为他认为他已经付过工钱了&lt;/li&gt;
-&lt;li&gt;程序员是非常理性的群体，每一笔消费都是挑三拣四、反复对比过的。你确定你的产品能在对比中取胜？&lt;/li&gt;
-&lt;li&gt;程序员只会购买他这辈子都开发不出来、并且无法免费破解的产品（比如 AI 编程）。多数程序员的选择思路是：先找破解版；再找免费版平替；最后宁愿自己撸，也不可能让同行赚到钱（因为让其他程序员赚到钱了，等于承认其他程序员比自己牛逼，这是在侮辱自己）。&lt;/li&gt;
-&lt;li&gt;你以为程序员的需求是提升开发效率？不是的，程序员真正的需求是：”不用干活，又能赚很多钱“。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;因此，当你现在创业想做面向程序员的产品时，务必三思。非行业巨头，不建议走这个路线。&lt;/p&gt;
 </description>
     </item>
   </channel>
