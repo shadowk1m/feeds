@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 28 Dec 2025 09:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 10:11:40 GMT</lastBuildDate>
     <item>
       <title>程序员对 AI 的偏见</title>
       <link>https://www.v2ex.com/t/1181637</link>
@@ -88,13 +88,6 @@
 </description>
     </item>
     <item>
-      <title>你看过最振奋人心的发布会是哪个？</title>
-      <link>https://www.v2ex.com/t/1181596</link>
-      <guid>v2ex-1181596</guid>
-      <pubDate>Sat, 27 Dec 2025 09:43:16 GMT</pubDate>
-      <description>今天在家重温了乔布斯发布初代 iPhone 以及 iPhone 4 的视频，这两款划时代的杰作，至今仍让我感到震撼。&lt;br /&gt;而在此前，锤子手机的发布会也让我惊喜地发现，原来手机系统可以做得如此精致和有趣。&lt;br /&gt;虽然我提到的都是手机发布会，但也很好奇：各位至今为止看过最棒的发布会是哪个？&lt;br /&gt;欢迎不限领域地推荐和分享！</description>
-    </item>
-    <item>
       <title>阿里云 99 服务器又可以续费了</title>
       <link>https://www.v2ex.com/t/1181679</link>
       <guid>v2ex-1181679</guid>
@@ -103,19 +96,19 @@
 </description>
     </item>
     <item>
-      <title>不能用巨魔的你们都自签了哪些 app</title>
-      <link>https://www.v2ex.com/t/1181671</link>
-      <guid>v2ex-1181671</guid>
-      <pubDate>Sun, 28 Dec 2025 00:40:22 GMT</pubDate>
-      <description>&lt;p&gt;如题，目前是 26.2 系统，试了这几个 app(asspp ，piliplus ，uz ，插件版 ins ，去广告版豆瓣)，有其他 app 推荐的吗，微信的自签 ipa 有推荐的吗&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>fnOS 上除了 v2raya 还有什么代理工具可用</title>
       <link>https://www.v2ex.com/t/1181688</link>
       <guid>v2ex-1181688</guid>
       <pubDate>Sun, 28 Dec 2025 02:32:13 GMT</pubDate>
       <description>&lt;p&gt;J5005,之前是只刷了个 openwrt ，用着 passwall 或 openclash ，刚刚刷了 fnOS ，找了半天发现只有在 docker 部署 v2raya ，使用起来发现太慢了，明显跟 openwrt 里差太多。4G 内存不想再虚拟个 openwrt ，还有什么选择可以达到原来的速度。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>不能用巨魔的你们都自签了哪些 app</title>
+      <link>https://www.v2ex.com/t/1181671</link>
+      <guid>v2ex-1181671</guid>
+      <pubDate>Sun, 28 Dec 2025 00:40:22 GMT</pubDate>
+      <description>&lt;p&gt;如题，目前是 26.2 系统，试了这几个 app(asspp ，piliplus ，uz ，插件版 ins ，去广告版豆瓣)，有其他 app 推荐的吗，微信的自签 ipa 有推荐的吗&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -131,6 +124,16 @@
       <guid>v2ex-1181699</guid>
       <pubDate>Sun, 28 Dec 2025 03:28:02 GMT</pubDate>
       <description>由于 reeder 作者一直不适配新系统，感觉都要放弃了，所以我最近一直在找替代品。&lt;br /&gt;&lt;br /&gt;找的过程也花了点钱了，但是我发现一个残酷的事实，那就是用了一圈下来，界面流畅度、界面美观度、布局合理性、操作舒适性、内容显示舒适性等等，甭管有设置的还是没设置的，没有一个 app 能够如 reeder 那般丝滑的体验，差距这么大的吗？一个阅读器不至于吧？开发起来很难吗？&lt;br /&gt;&lt;br /&gt;就是大部分其它阅读器都会给你一种卡顿的感觉，还有的是功能差的太多了，三列式显示，列宽度不能调的，不能改字体的，不能调整字体大小的，内容布局很不舒服的&lt;br /&gt;&lt;br /&gt;做 rss 阅读器的不会用一下 reeder 吗？或者 app 作者自己每天都用吗？不难受吗？哪怕全都照抄 reeder 也行啊</description>
+    </item>
+    <item>
+      <title>我知道它只是一个冰冷的 AI，但我没忍住...</title>
+      <link>https://www.v2ex.com/t/1181654</link>
+      <guid>v2ex-1181654</guid>
+      <pubDate>Sat, 27 Dec 2025 16:28:19 GMT</pubDate>
+      <description>&lt;p&gt;00:23 分，在它干净利落的帮我解决一个问题后，我没忍住，说了一声谢谢你。&lt;/p&gt;
+&lt;p&gt;我知道它是一个冰冷的 AI ，但它回复我[晚安，早点休息！🌙]时，我那颗熬夜到凌晨的、疲惫不堪的、无人问津的心，还是感觉到一股暖流。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/LhKzwpf.png&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
