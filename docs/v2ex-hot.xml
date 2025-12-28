@@ -4,15 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 28 Dec 2025 06:50:48 GMT</lastBuildDate>
-    <item>
-      <title>最近跟朋友合伙了一个跨境直播项目,心是真的累</title>
-      <link>https://www.v2ex.com/t/1181582</link>
-      <guid>v2ex-1181582</guid>
-      <pubDate>Sat, 27 Dec 2025 07:01:26 GMT</pubDate>
-      <description>&lt;p&gt;团队目前结构加我一共四个人 出资老板不出现他亲家作为合伙人算上我技术入股加一个客服一个主播,每天都要发工作日报,工作总结,说我不沟通,不处理问题,·····最后在工作群直接甩出“你好自为之”,不是没有抗压能力,是这种小团队有必要走流程化?咋滴,还准备做大的感觉,心好累!&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 28 Dec 2025 07:12:49 GMT</lastBuildDate>
     <item>
       <title>你看过最振奋人心的发布会是哪个？</title>
       <link>https://www.v2ex.com/t/1181596</link>
@@ -103,32 +95,6 @@
 </description>
     </item>
     <item>
-      <title>Google 账号被停用是不是申诉也没用？</title>
-      <link>https://www.v2ex.com/t/1181578</link>
-      <guid>v2ex-1181578</guid>
-      <pubDate>Sat, 27 Dec 2025 06:55:56 GMT</pubDate>
-      <description>&lt;p&gt;我怀疑是我手机号有毒，昨天更改了下密码，然后今天前面正常登入，后面跳出要手机号发个验证码验证，然后输入验证码后就给我停用了！！！&lt;/p&gt;
-&lt;p&gt;这 Google 账号敢用啊，直接给你封了。之前也封过一个，我这手机号就收了这俩账号的验证码，用了不到两年&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>荣耀笔记本与 Linux - 性能管理</title>
-      <link>https://www.v2ex.com/t/1181579</link>
-      <guid>v2ex-1181579</guid>
-      <pubDate>Sat, 27 Dec 2025 06:57:28 GMT</pubDate>
-      <description>&lt;p&gt;这两天在 2024 独显版的&lt;strong&gt;MagicBook 16 Pro&lt;/strong&gt;（ U5 125H + 4060 mobile ）上装了&lt;strong&gt;Fedora 43 Workstation&lt;/strong&gt;，安装过程很顺利，驱动基本都自动装上了。&lt;/p&gt;
-&lt;h2&gt;现在唯一有个问题：不知道怎么调整高性能模式&lt;/h2&gt;
-&lt;p&gt;所有游戏一启动独显功耗在 40W 左右波动，一分钟左右掉到 20W ，整个系统都卡起来了。tuned ，nvidia-smi 设置频率，gamescope 都试过了，基本没啥影响。我能确定不是兼容层或 Wayland 的问题，因为 Minecraft （ OpenGL ）也会卡，也试过 mint 但没效果。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fn + P&lt;/strong&gt;是笔记本调整性能模式的快捷键，也是我唯一能复现的提高 GPU 功率的方法，不过提高后不到一分钟又会掉下去。按这个快捷键的时候能通过 &lt;code&gt;acpi_listen&lt;/code&gt; 看到 &lt;code&gt;wmi PNP0C14:03 000000a0 00000000&lt;/code&gt;，不过我没有找到任何有用的 acpi 接口。&lt;/p&gt;
-&lt;p&gt;其他基本的因素也考虑过：RAM 基本没超过 2/3 ，CPU 没降频也没满载，iGPU 基本是空闲。&lt;/p&gt;
-&lt;p&gt;我还去问了荣耀客服，让我留电话和邮箱说之后有工程师回复我，最后就等来了&lt;em&gt;“关于您反馈的在 linux 系统下的性能调度怎么调整问题我们已收到， 目前是未核实到相关信息和相关功能。”&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;要是有高人看到这里能指点一下，我将感激万分。&lt;/p&gt;
-&lt;h2&gt;闲谈&lt;/h2&gt;
-&lt;p&gt;不玩游戏的话，系统用起来没啥毛病。装了达芬奇还没试性能如何，估计跟游戏差不多拉跨。之后再装 linux 的话，笔记本电脑还是慎重考虑吧，尤其是喜欢搞自研的这几家。&lt;/p&gt;
-&lt;p&gt;我唯一舍不得的应用是 OneNote ，我想要能书写的笔记软件，要是各位有用过的话能推荐几个吗？或者如何在 linux 上用 OneNote ？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>关于海外拨打中国境内电话</title>
       <link>https://www.v2ex.com/t/1181618</link>
       <guid>v2ex-1181618</guid>
@@ -146,11 +112,41 @@
 </description>
     </item>
     <item>
+      <title>阿里云 99 服务器又可以续费了</title>
+      <link>https://www.v2ex.com/t/1181679</link>
+      <guid>v2ex-1181679</guid>
+      <pubDate>Sun, 28 Dec 2025 01:43:19 GMT</pubDate>
+      <description>&lt;p&gt;本来是收到了通知说优惠券快过期了，结果上去之后续费域名不能用，点开服务器看了下，发现续费 1 年是 99 。又续了一年，我是用阿里云 app 进行的。电脑上没看，有感兴趣的老哥可以去看看&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>不能用巨魔的你们都自签了哪些 app</title>
       <link>https://www.v2ex.com/t/1181671</link>
       <guid>v2ex-1181671</guid>
       <pubDate>Sun, 28 Dec 2025 00:40:22 GMT</pubDate>
       <description>&lt;p&gt;如题，目前是 26.2 系统，试了这几个 app(asspp ，piliplus ，uz ，插件版 ins ，去广告版豆瓣)，有其他 app 推荐的吗，微信的自签 ipa 有推荐的吗&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>fnOS 上除了 v2raya 还有什么代理工具可用</title>
+      <link>https://www.v2ex.com/t/1181688</link>
+      <guid>v2ex-1181688</guid>
+      <pubDate>Sun, 28 Dec 2025 02:32:13 GMT</pubDate>
+      <description>&lt;p&gt;J5005,之前是只刷了个 openwrt ，用着 passwall 或 openclash ，刚刚刷了 fnOS ，找了半天发现只有在 docker 部署 v2raya ，使用起来发现太慢了，明显跟 openwrt 里差太多。4G 内存不想再虚拟个 openwrt ，还有什么选择可以达到原来的速度。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>这个家没法呆了，窒息得要命。</title>
+      <link>https://www.v2ex.com/t/1181694</link>
+      <guid>v2ex-1181694</guid>
+      <pubDate>Sun, 28 Dec 2025 03:05:38 GMT</pubDate>
+      <description>&lt;p&gt;我姐买了几百块钱化妆品，周六快递到家，我妈以为是螃蟹，就放到了窗外面（东北，零下几十度，冰箱放不下的东西就放窗外）&lt;/p&gt;
+&lt;p&gt;早上起来以后，我妈准备吃螃蟹，从窗外拿回来才发现是我姐买的化妆品。&lt;/p&gt;
+&lt;p&gt;然后我姐就开始发疯，各种叫来叫去，一直埋怨我妈为什么不看一眼。&lt;/p&gt;
+&lt;p&gt;就这破事至于吗？几百块钱又不是几万块钱...而且又不是故意的。&lt;/p&gt;
+&lt;p&gt;自己快递到了不知道吗...&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;刚听到让我妈赔钱，300 块钱。。。。。&lt;/p&gt;
 </description>
     </item>
   </channel>
