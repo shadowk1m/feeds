@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 28 Dec 2025 05:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 05:44:54 GMT</lastBuildDate>
     <item>
       <title>新年倒计时，陷入人生低谷期，不知道该如何与这个世界相处了，感到迷茫</title>
       <link>https://www.v2ex.com/t/1181568</link>
@@ -21,13 +21,6 @@
 &lt;/ol&gt;
 &lt;p&gt;这段时间经历的这一切，感觉生活失去了意义感，不知道该如何与这个世界相处了，不知道该如何一个人平静的生活。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>整了一晚上 Tailscale 依然没有成功，甚至搞得手机都无法上网，真是绝望</title>
-      <link>https://www.v2ex.com/t/1181562</link>
-      <guid>v2ex-1181562</guid>
-      <pubDate>Sat, 27 Dec 2025 05:32:09 GMT</pubDate>
-      <description>有固定公网 ip ，之前一直用群晖套件的 L2TP 连回家，昨天打算换一个更现代的方式，论坛一通搜索后决定用 Tailscale 。&lt;br /&gt;&lt;br /&gt;本人不懂网络知识，所以基本都按照 Gemini 的指示，先在 PVE 的 LXC 中安装 Tialscale ，一开始很顺利，网页端能看到 PVE 和 iPhone 都在线，subnet 开启 ip 转发也都显示正常，但就是一直无法互相 ping 通；跟着 Gemini 的建议一路排查，什么 TUN 权限、防火墙、NAT 伪装都试了也不管用。&lt;br /&gt;&lt;br /&gt;后来换了在 PVE 中开一个 Debian 虚拟机安装，然而问题依旧：有时刚连上的几秒钟能 ping 通（虽然开了端口转发，但很奇怪依然绕行香港甚至波兰的服务器），随后就断连了。并且发现 iPhone 上 tailscale 常要通过反复开关飞行模式才能连接上 VPN ，甚至断开 iPhone VPN 后手机无法通过蜂窝上网了，重启和恢复网络设置也没用，为此还打了联通客服，那边说后台看一切正常。后来发现需要等上几分钟后才能恢复，不禁怀疑是不是联通的阻断。&lt;br /&gt;&lt;br /&gt;本来主要是出于学习的目的来折腾，租的房子没有公网 ip ，打算如果成功了就套用在出租房里，谁想到如此不顺利。感慨还是需要懂一些基础知识来折腾，把开了会员的 Gemini 用到限制的那一刻真是绝望啊……</description>
     </item>
     <item>
       <title>鳏寡单身懒汉码农如何解决鞋子脏，汗，异味问题</title>
@@ -103,6 +96,13 @@
       <pubDate>Sat, 27 Dec 2025 06:00:51 GMT</pubDate>
       <description>&lt;p&gt;家里移动和电信的宽带都有，最近发现广州电信拨上号后只有路由器能正常获取 IPv6 、IPv6-PD 地址，下面的设备：电脑、手机均无分配 v6,路由器用的是 iStore ，换成广州移动拨号后 一切正常，一样的配置。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>夜市小摊打包的塑料袋为什么还流行？</title>
+      <link>https://www.v2ex.com/t/1181698</link>
+      <guid>v2ex-1181698</guid>
+      <pubDate>Sun, 28 Dec 2025 03:26:40 GMT</pubDate>
+      <description>好多年前，他们懒得洗就会套一个塑料袋子，这么多年过去，每次去夜市还是能看到。这东西装热的食物到底有没有毒，有毒为什么大家能接受？</description>
     </item>
   </channel>
 </rss>
