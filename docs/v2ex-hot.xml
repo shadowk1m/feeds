@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 28 Dec 2025 01:03:06 GMT</lastBuildDate>
-    <item>
-      <title>卸载高德 APP，装回 iOS26 自带地图</title>
-      <link>https://www.v2ex.com/t/1181532</link>
-      <guid>v2ex-1181532</guid>
-      <pubDate>Sat, 27 Dec 2025 02:35:17 GMT</pubDate>
-      <description>受不了高德地图那么多没用的东西，什么扫街、打车，恨不得把大众点评、滴滴都吞并了，底下 5 个 tab 就一个｛导航｝和｛我的｝两个有点用，因此我把它卸载，装回了 ios 自带的 map ，有一说一，ios26 上 自带 map 颜值高多了。除了没有小组件能在负一屏快速导航回家/去公司（好在可以通过快捷指令曲线救国），其他的用户体验我感觉都很好！</description>
-    </item>
+    <lastBuildDate>Sun, 28 Dec 2025 03:18:46 GMT</lastBuildDate>
     <item>
       <title>新年倒计时，陷入人生低谷期，不知道该如何与这个世界相处了，感到迷茫</title>
       <link>https://www.v2ex.com/t/1181568</link>
@@ -28,20 +21,6 @@
 &lt;/ol&gt;
 &lt;p&gt;这段时间经历的这一切，感觉生活失去了意义感，不知道该如何与这个世界相处了，不知道该如何一个人平静的生活。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>6 年 Java 后端，花 10 万去爱尔兰读语言学校，这条路值不值得？</title>
-      <link>https://www.v2ex.com/t/1181534</link>
-      <guid>v2ex-1181534</guid>
-      <pubDate>Sat, 27 Dec 2025 02:37:58 GMT</pubDate>
-      <description>本人 6 年 Java 后端开发，目前在国内做后台系统相关工作。&lt;br /&gt;28 岁了，再不系统把英语练出来，后面可能更难。&lt;br /&gt;&lt;br /&gt;我不指望出国就改变命运，只是想在还能承受试错成本的时候，给自己一次真正沉浸式的机会。&lt;br /&gt;&lt;br /&gt;如果半年后发现不适合，我也能接受回国继续走技术路线。&lt;br /&gt;只是想少一点“如果当初我去过就好了”的遗憾。&lt;br /&gt;&lt;br /&gt;这次出去并不是“移民冲动”，更多是想：&lt;br /&gt;&lt;br /&gt;真正把英语练出来&lt;br /&gt;&lt;br /&gt;体验一段完整的海外生活&lt;br /&gt;&lt;br /&gt;看看自己是否适合长期在全英文环境下工作&lt;br /&gt;&lt;br /&gt;我的预期也比较现实：&lt;br /&gt;&lt;br /&gt;语言学校期间以学习和适应为主&lt;br /&gt;&lt;br /&gt;如果后续发现不适合或机会不成熟，也可以选择回国&lt;br /&gt;&lt;br /&gt;回国后希望能凭英语 + 技术，争取更好的岗位或外企/出海机会&lt;br /&gt;&lt;br /&gt;想请教下有类似经历的朋友：&lt;br /&gt;&lt;br /&gt;对于已经有多年开发经验的人来说，单纯去念语言学校，性价比如何？&lt;br /&gt;&lt;br /&gt;爱尔兰或欧洲对 Java 后端的实际需求情况如何？&lt;br /&gt;&lt;br /&gt;这条路上，有没有我现在还没意识到的坑？&lt;br /&gt;&lt;br /&gt;非常感谢真实经验分享，不太想听情绪化或极端判断。&lt;br /&gt;说实话，我也纠结过。</description>
-    </item>
-    <item>
-      <title>为什么使用 Tomcat 算违反国产化要求，但是使用 Netty 却不算。</title>
-      <link>https://www.v2ex.com/t/1181537</link>
-      <guid>v2ex-1181537</guid>
-      <pubDate>Sat, 27 Dec 2025 02:55:54 GMT</pubDate>
-      <description>RT. 都是海外的开源软件，licence 也都是一样的。&lt;br /&gt;&lt;br /&gt;背景&lt;br /&gt;项目上遇到了相关的需求，要求包里不能有 Tomcat 。&lt;br /&gt;公司上面给的方案却是让换成 Netty 而不是打成 war 包来接入客户提供的国产化 web 服务器。&lt;br /&gt;由于之前是 spring-web ，阻塞式的，改成 netty 工作量巨大。&lt;br /&gt;&lt;br /&gt;是不是因为 Tomcat 有 TongWeb 这种国产替代。但是国内没人做 Netty 的替代。&lt;br /&gt;所以 Tomcat 才会上黑名单，但是 Netty 就活着。</description>
     </item>
     <item>
       <title>整了一晚上 Tailscale 依然没有成功，甚至搞得手机都无法上网，真是绝望</title>
@@ -84,14 +63,6 @@
 </description>
     </item>
     <item>
-      <title>年底提车被 4S 店吃保险差价 1000，这种操作正常吗？</title>
-      <link>https://www.v2ex.com/t/1181527</link>
-      <guid>v2ex-1181527</guid>
-      <pubDate>Sat, 27 Dec 2025 02:16:51 GMT</pubDate>
-      <description>&lt;p&gt;订车时先收我 5000 保险费，后来急着元旦前提车，销售说年底不能正常出保险，只能走所谓“特惠渠道”，保单 4000 元，差价 1000 直接不退，说是给别人费用。这种操作合理吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>最近跟朋友合伙了一个跨境直播项目,心是真的累</title>
       <link>https://www.v2ex.com/t/1181582</link>
       <guid>v2ex-1181582</guid>
@@ -100,106 +71,62 @@
 </description>
     </item>
     <item>
-      <title>[一封感谢信] hi， v2 社的兄弟们还记得我吗？我创业 2 年了</title>
-      <link>https://www.v2ex.com/t/1181519</link>
-      <guid>v2ex-1181519</guid>
-      <pubDate>Sat, 27 Dec 2025 01:37:39 GMT</pubDate>
-      <description>&lt;p&gt;还记得我么，2024 年 3 月我发表过一篇文章，我创业了😄&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/1020793#reply20&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1020793#reply20&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;然后马上两年过去了，和大家做下汇报。&lt;/p&gt;
-&lt;h2&gt;[01 祛魅]&lt;/h2&gt;
-&lt;p&gt;我是 Mens&lt;/p&gt;
-&lt;p&gt;一个在云计算和代码里泡了 10 年的老兵&lt;/p&gt;
-&lt;p&gt;在很长一段时间里&lt;/p&gt;
-&lt;p&gt;我误以为“知道”就等于“做到”&lt;/p&gt;
-&lt;p&gt;我曾在这个行业的顶端&lt;/p&gt;
-&lt;p&gt;用 PPT 构筑过无数个商业叙事&lt;/p&gt;
-&lt;p&gt;那时候的生意&lt;/p&gt;
-&lt;p&gt;在我眼里是干净的逻辑线&lt;/p&gt;
-&lt;p&gt;是很多理论堆砌起来的确定性&lt;/p&gt;
-&lt;p&gt;直到 30 岁，我把自己归零 &lt;/p&gt;
-&lt;p&gt;当我离开平台，失去光环&lt;/p&gt;
-&lt;p&gt;独自面对市场的冷暖时&lt;/p&gt;
-&lt;p&gt;我开始重新学习&lt;/p&gt;
-&lt;p&gt;如何在一个充满不确定性的世界里&lt;/p&gt;
-&lt;p&gt;抓住那一点点真实的“成交”&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mmbiz.qpic.cn/sz_mmbiz_jpg/ccTMoiahKxX3Lu9tEX76XHux3r1A4vqlqic5zTNZMzumGPHISpCXuJPl1awFclzYyic2TLumLtfdN6AugvWP13fpQ/640?wx_fmt=jpeg&amp;amp;from=appmsg&amp;amp;watermark=1&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1#imgIndex=0&quot; rel=&quot;nofollow&quot;&gt;https://mmbiz.qpic.cn/sz_mmbiz_jpg/ccTMoiahKxX3Lu9tEX76XHux3r1A4vqlqic5zTNZMzumGPHISpCXuJPl1awFclzYyic2TLumLtfdN6AugvWP13fpQ/640?wx_fmt=jpeg&amp;amp;from=appmsg&amp;amp;watermark=1&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1#imgIndex=0&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;[02 至暗时刻]&lt;/h2&gt;
-&lt;p&gt;20 岁写代码，23 岁转管理&lt;/p&gt;
-&lt;p&gt;28 岁以前，我以为自己懂透了商业&lt;/p&gt;
-&lt;p&gt;现实却狠狠扇了我一巴掌&lt;/p&gt;
-&lt;p&gt;2024 年，为了签下一笔仅 12000 元的单子&lt;/p&gt;
-&lt;p&gt;为了省下那 50 块钱的利润&lt;/p&gt;
-&lt;p&gt;我舍不得打车&lt;/p&gt;
-&lt;p&gt;挤着早高峰的地铁去陌拜&lt;/p&gt;
-&lt;p&gt;早上 9:30&lt;/p&gt;
-&lt;p&gt;我准时站在客户门口，满怀诚意&lt;/p&gt;
-&lt;p&gt;结果迎接我的&lt;/p&gt;
-&lt;p&gt;是对方现场无情的杀价&lt;/p&gt;
-&lt;p&gt;和当场撕毁的口头承诺&lt;/p&gt;
-&lt;p&gt;那一刻，我才真正明白：&lt;/p&gt;
-&lt;p&gt;做生意最根本的最小单元&lt;/p&gt;
-&lt;p&gt;不是战略，而是「完成一笔交易」&lt;/p&gt;
-&lt;p&gt;不懂人性，没和人性贴身肉搏过&lt;/p&gt;
-&lt;p&gt;再牛的 AI 算法、再顶级的技术模型&lt;/p&gt;
-&lt;p&gt;在街边小贩的生存智慧面前&lt;/p&gt;
-&lt;p&gt;可能都是空中楼阁&lt;/p&gt;
-&lt;h2&gt;[03 痛定思痛]&lt;/h2&gt;
-&lt;p&gt;这一年，&lt;/p&gt;
-&lt;p&gt;我把自己从“做题思维”里硬生生拔了出来&lt;/p&gt;
-&lt;p&gt;拿着彩页走街串巷&lt;/p&gt;
-&lt;p&gt;被拒绝、被无视、被当成骗子&lt;/p&gt;
-&lt;p&gt;但这最“笨”的一年&lt;/p&gt;
-&lt;p&gt;让我学到的东西比过去 8 年练的“内功”都要多&lt;/p&gt;
-&lt;p&gt;过去的 8 年，我练的是内力&lt;/p&gt;
-&lt;p&gt;这一年的扫街，我练的是招式&lt;/p&gt;
-&lt;p&gt;两者合一&lt;/p&gt;
-&lt;p&gt;才是我坚信未来能爆发的根本原因&lt;/p&gt;
-&lt;h2&gt;[04 我的 2025]&lt;/h2&gt;
-&lt;p&gt;2024 的折戟&lt;/p&gt;
-&lt;p&gt;回调后的冷静
-冒险后的反思&lt;/p&gt;
-&lt;p&gt;2025 年的我&lt;/p&gt;
-&lt;p&gt;想和 v 社的伙伴说&lt;/p&gt;
-&lt;p&gt;我好像 OK 了&lt;/p&gt;
-&lt;p&gt;今年我找到了新的业务机会，AIcoding 的算力服务&lt;/p&gt;
-&lt;p&gt;主要是为我的用户提供 claude code 和 codex 月卡服务&lt;/p&gt;
-&lt;p&gt;经过我的运营和服务&lt;/p&gt;
-&lt;p&gt;我积累了至少一千名粉丝和用户&lt;/p&gt;
-&lt;p&gt;在使用我提供的服务&lt;/p&gt;
-&lt;p&gt;他们有的是看中了我的服务&lt;/p&gt;
-&lt;p&gt;有的是看中了我的态度&lt;/p&gt;
-&lt;p&gt;久而久之&lt;/p&gt;
-&lt;p&gt;也及时了很多好朋友&lt;/p&gt;
-&lt;p&gt;感谢 v 社&lt;/p&gt;
-&lt;p&gt;记得去年 2024 年 3 月份&lt;/p&gt;
-&lt;p&gt;我发布了创业的文章&lt;/p&gt;
-&lt;p&gt;很多小伙伴加我&lt;/p&gt;
-&lt;p&gt;给我加油鼓劲&lt;/p&gt;
-&lt;p&gt;这里&lt;/p&gt;
-&lt;p&gt;我还个愿望&lt;/p&gt;
-&lt;p&gt;这两年&lt;/p&gt;
-&lt;p&gt;有得有失&lt;/p&gt;
-&lt;p&gt;整体算下来&lt;/p&gt;
-&lt;p&gt;得到的很多&lt;/p&gt;
-&lt;p&gt;失去的也是应该要失去的&lt;/p&gt;
-&lt;p&gt;失去的是那个&lt;/p&gt;
-&lt;p&gt;旧我...&lt;/p&gt;
-&lt;p&gt;不足的我...&lt;/p&gt;
-&lt;p&gt;还需进步的我...&lt;/p&gt;
-&lt;p&gt;一年的跌宕&lt;/p&gt;
-&lt;p&gt;一年的收获&lt;/p&gt;
-&lt;p&gt;我对商业闭环有了更深刻的认知和手感&lt;/p&gt;
-&lt;p&gt;见得多了&lt;/p&gt;
-&lt;p&gt;也就不觉得奇怪了&lt;/p&gt;
-&lt;p&gt;商业最终就还是人性的对抗&lt;/p&gt;
-&lt;p&gt;有敌人&lt;/p&gt;
-&lt;p&gt;有并肩作战分享胜利战果的战友&lt;/p&gt;
-&lt;p&gt;也有擦肩而过的陌生人送来的温暖&lt;/p&gt;
-&lt;p&gt;我想这一切，和人本身存在的意义是相匹配的&lt;/p&gt;
-&lt;p&gt;创造价值、回馈部落&lt;/p&gt;
-&lt;p&gt;感谢 V2EX &lt;/p&gt;
-&lt;p&gt;2026 我们再出发！！&lt;/p&gt;
+      <title>除了智谱 AI 输入法， Mac 上还有没有其他推荐</title>
+      <link>https://www.v2ex.com/t/1181553</link>
+      <guid>v2ex-1181553</guid>
+      <pubDate>Sat, 27 Dec 2025 04:11:39 GMT</pubDate>
+      <description>&lt;p&gt;最近发现 &lt;strong&gt;智谱 AI 输入法&lt;/strong&gt; 真的太丝滑了，用了一段时间，工作效率明显高了不少，和大家交流下。&lt;/p&gt;
+&lt;p&gt;我是在 &lt;strong&gt;Mac&lt;/strong&gt; 上用的，整体体验很顺，比 mac 自带的转写好多了。&lt;/p&gt;
+&lt;p&gt;我发现它会读取我输入框的内容，所以它应该也知道我改了什么它原本转写的内容，用久了应该会越来越准。
+也可以自定义词典或者说术语，还挺方便。不过这里也涉及到隐私问题。&lt;/p&gt;
+&lt;p&gt;官网在这，有兴趣可以自己试试：&lt;br/&gt;
+👉 &lt;a href=&quot;https://autoglm.zhipuai.cn/autotyper&quot; rel=&quot;nofollow&quot;&gt;https://autoglm.zhipuai.cn/autotyper&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;邀请码：&lt;strong&gt;YG2DXG35&lt;/strong&gt;（注册的话咱俩都能拿积分）&lt;/p&gt;
+&lt;p&gt;顺便也想和大家交流下。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mac 上还有没有其他不错的 AI 输入法？&lt;/strong&gt;&lt;br/&gt;
+感觉这是个长期要用的东西，早点选对产品，或者未来自己做一个，可能都挺有价值的。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;2025-12-27_12-09-28.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s1.locimg.com/2025/12/27/d6db78458a49b.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;2025-12-27_12-10-01.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s1.locimg.com/2025/12/27/d008316ad224a.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>内存条这么贵现在适合上车吗</title>
+      <link>https://www.v2ex.com/t/1181560</link>
+      <guid>v2ex-1181560</guid>
+      <pubDate>Sat, 27 Dec 2025 05:03:58 GMT</pubDate>
+      <description>rt ，最近想升级电脑配置，发现内存条随便都是一两千把我整不会了。为什么 ddr5 现在这么贵，过年买有机会便宜吗？</description>
+    </item>
+    <item>
+      <title>你看过最振奋人心的发布会是哪个？</title>
+      <link>https://www.v2ex.com/t/1181596</link>
+      <guid>v2ex-1181596</guid>
+      <pubDate>Sat, 27 Dec 2025 09:43:16 GMT</pubDate>
+      <description>今天在家重温了乔布斯发布初代 iPhone 以及 iPhone 4 的视频，这两款划时代的杰作，至今仍让我感到震撼。&lt;br /&gt;而在此前，锤子手机的发布会也让我惊喜地发现，原来手机系统可以做得如此精致和有趣。&lt;br /&gt;虽然我提到的都是手机发布会，但也很好奇：各位至今为止看过最棒的发布会是哪个？&lt;br /&gt;欢迎不限领域地推荐和分享！</description>
+    </item>
+    <item>
+      <title>荣耀笔记本与 Linux - 性能管理</title>
+      <link>https://www.v2ex.com/t/1181579</link>
+      <guid>v2ex-1181579</guid>
+      <pubDate>Sat, 27 Dec 2025 06:57:28 GMT</pubDate>
+      <description>&lt;p&gt;这两天在 2024 独显版的&lt;strong&gt;MagicBook 16 Pro&lt;/strong&gt;（ U5 125H + 4060 mobile ）上装了&lt;strong&gt;Fedora 43 Workstation&lt;/strong&gt;，安装过程很顺利，驱动基本都自动装上了。&lt;/p&gt;
+&lt;h2&gt;现在唯一有个问题：不知道怎么调整高性能模式&lt;/h2&gt;
+&lt;p&gt;所有游戏一启动独显功耗在 40W 左右波动，一分钟左右掉到 20W ，整个系统都卡起来了。tuned ，nvidia-smi 设置频率，gamescope 都试过了，基本没啥影响。我能确定不是兼容层或 Wayland 的问题，因为 Minecraft （ OpenGL ）也会卡，也试过 mint 但没效果。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fn + P&lt;/strong&gt;是笔记本调整性能模式的快捷键，也是我唯一能复现的提高 GPU 功率的方法，不过提高后不到一分钟又会掉下去。按这个快捷键的时候能通过 &lt;code&gt;acpi_listen&lt;/code&gt; 看到 &lt;code&gt;wmi PNP0C14:03 000000a0 00000000&lt;/code&gt;，不过我没有找到任何有用的 acpi 接口。&lt;/p&gt;
+&lt;p&gt;其他基本的因素也考虑过：RAM 基本没超过 2/3 ，CPU 没降频也没满载，iGPU 基本是空闲。&lt;/p&gt;
+&lt;p&gt;我还去问了荣耀客服，让我留电话和邮箱说之后有工程师回复我，最后就等来了&lt;em&gt;“关于您反馈的在 linux 系统下的性能调度怎么调整问题我们已收到， 目前是未核实到相关信息和相关功能。”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;要是有高人看到这里能指点一下，我将感激万分。&lt;/p&gt;
+&lt;h2&gt;闲谈&lt;/h2&gt;
+&lt;p&gt;不玩游戏的话，系统用起来没啥毛病。装了达芬奇还没试性能如何，估计跟游戏差不多拉跨。之后再装 linux 的话，笔记本电脑还是慎重考虑吧，尤其是喜欢搞自研的这几家。&lt;/p&gt;
+&lt;p&gt;我唯一舍不得的应用是 OneNote ，我想要能书写的笔记软件，要是各位有用过的话能推荐几个吗？或者如何在 linux 上用 OneNote ？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Google 账号被停用是不是申诉也没用？</title>
+      <link>https://www.v2ex.com/t/1181578</link>
+      <guid>v2ex-1181578</guid>
+      <pubDate>Sat, 27 Dec 2025 06:55:56 GMT</pubDate>
+      <description>&lt;p&gt;我怀疑是我手机号有毒，昨天更改了下密码，然后今天前面正常登入，后面跳出要手机号发个验证码验证，然后输入验证码后就给我停用了！！！&lt;/p&gt;
+&lt;p&gt;这 Google 账号敢用啊，直接给你封了。之前也封过一个，我这手机号就收了这俩账号的验证码，用了不到两年&lt;/p&gt;
 </description>
     </item>
   </channel>
