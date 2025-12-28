@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 28 Dec 2025 06:17:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 06:50:48 GMT</lastBuildDate>
     <item>
       <title>最近跟朋友合伙了一个跨境直播项目,心是真的累</title>
       <link>https://www.v2ex.com/t/1181582</link>
@@ -26,18 +26,6 @@
       <guid>v2ex-1181698</guid>
       <pubDate>Sun, 28 Dec 2025 03:26:40 GMT</pubDate>
       <description>好多年前，他们懒得洗就会套一个塑料袋子，这么多年过去，每次去夜市还是能看到。这东西装热的食物到底有没有毒，有毒为什么大家能接受？</description>
-    </item>
-    <item>
-      <title>程序员对 AI 的偏见</title>
-      <link>https://www.v2ex.com/t/1181637</link>
-      <guid>v2ex-1181637</guid>
-      <pubDate>Sat, 27 Dec 2025 14:43:39 GMT</pubDate>
-      <description>&lt;p&gt;今天 HN 最火的一贴无疑是 Rob Pike 吐槽 AI 。（吐槽可能有点委婉，应为基本是纯骂，甚至是没什么逻辑性的骂）&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&amp;amp;viewtype=tree&quot; rel=&quot;nofollow&quot;&gt;https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&amp;amp;viewtype=tree&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这让我大跌眼镜。Rob 在我心里一直是一个理性，儒雅的技术人，也是我最敬重的程序员之一。他写的 C 和 Go 都很精妙，还有 UTF-8 的设计。他的技术分享我当圣经一样诵读。&lt;/p&gt;
-&lt;p&gt;而 HN 大部分程序员也都是站 Rob 一边，国内 V2EX 也是严格禁止 AI 文。&lt;/p&gt;
-&lt;p&gt;这令我深思。为什么程序员对 AI 有这么大的偏见。是不是有点过了？&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>我的“傻逼”室友</title>
@@ -103,6 +91,18 @@
 </description>
     </item>
     <item>
+      <title>程序员对 AI 的偏见</title>
+      <link>https://www.v2ex.com/t/1181637</link>
+      <guid>v2ex-1181637</guid>
+      <pubDate>Sat, 27 Dec 2025 14:43:39 GMT</pubDate>
+      <description>&lt;p&gt;今天 HN 最火的一贴无疑是 Rob Pike 吐槽 AI 。（吐槽可能有点委婉，应为基本是纯骂，甚至是没什么逻辑性的骂）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&amp;amp;viewtype=tree&quot; rel=&quot;nofollow&quot;&gt;https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&amp;amp;viewtype=tree&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这让我大跌眼镜。Rob 在我心里一直是一个理性，儒雅的技术人，也是我最敬重的程序员之一。他写的 C 和 Go 都很精妙，还有 UTF-8 的设计。他的技术分享我当圣经一样诵读。&lt;/p&gt;
+&lt;p&gt;而 HN 大部分程序员也都是站 Rob 一边，国内 V2EX 也是严格禁止 AI 文。&lt;/p&gt;
+&lt;p&gt;这令我深思。为什么程序员对 AI 有这么大的偏见。是不是有点过了？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Google 账号被停用是不是申诉也没用？</title>
       <link>https://www.v2ex.com/t/1181578</link>
       <guid>v2ex-1181578</guid>
@@ -146,11 +146,11 @@
 </description>
     </item>
     <item>
-      <title>fnOS 上除了 v2raya 还有什么代理工具可用</title>
-      <link>https://www.v2ex.com/t/1181688</link>
-      <guid>v2ex-1181688</guid>
-      <pubDate>Sun, 28 Dec 2025 02:32:13 GMT</pubDate>
-      <description>&lt;p&gt;J5005,之前是只刷了个 openwrt ，用着 passwall 或 openclash ，刚刚刷了 fnOS ，找了半天发现只有在 docker 部署 v2raya ，使用起来发现太慢了，明显跟 openwrt 里差太多。4G 内存不想再虚拟个 openwrt ，还有什么选择可以达到原来的速度。&lt;/p&gt;
+      <title>不能用巨魔的你们都自签了哪些 app</title>
+      <link>https://www.v2ex.com/t/1181671</link>
+      <guid>v2ex-1181671</guid>
+      <pubDate>Sun, 28 Dec 2025 00:40:22 GMT</pubDate>
+      <description>&lt;p&gt;如题，目前是 26.2 系统，试了这几个 app(asspp ，piliplus ，uz ，插件版 ins ，去广告版豆瓣)，有其他 app 推荐的吗，微信的自签 ipa 有推荐的吗&lt;/p&gt;
 </description>
     </item>
   </channel>
