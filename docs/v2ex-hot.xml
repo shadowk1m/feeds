@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 29 Dec 2025 08:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 08:51:40 GMT</lastBuildDate>
     <item>
       <title>我的 2025，自责、愧疚、遗憾与愤怒，将伴随我的一生</title>
       <link>https://www.v2ex.com/t/1181879</link>
@@ -78,15 +78,6 @@
       <description>&lt;p&gt;湖北十堰下面的小县城。&lt;/p&gt;
 &lt;p&gt;女方在上学的时候就跟表弟谈的恋爱，也供她上学。&lt;/p&gt;
 &lt;p&gt;房子，车子男方都有。彩礼 30 万，还不让借钱。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>2025 年，你最推荐哪部电影？</title>
-      <link>https://www.v2ex.com/t/1181737</link>
-      <guid>v2ex-1181737</guid>
-      <pubDate>Sun, 28 Dec 2025 08:46:38 GMT</pubDate>
-      <description>&lt;p&gt;我的答案：《本杰明·巴顿奇事》
-看完仿佛过完了一生，又拥有了从头再来的机会。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -174,6 +165,32 @@
       <guid>v2ex-1181807</guid>
       <pubDate>Mon, 29 Dec 2025 01:06:31 GMT</pubDate>
       <description>&lt;p&gt;之前有一小笔收入，可惜最终只能以 usdc 来入账，用的钱包是 rainbow ，也只有 70 多 usdc , 对虚拟币不太懂，也不知道干嘛用。求指教。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>求助梯子搭建方面大神经验</title>
+      <link>https://www.v2ex.com/t/1181893</link>
+      <guid>v2ex-1181893</guid>
+      <pubDate>Mon, 29 Dec 2025 04:57:20 GMT</pubDate>
+      <description>&lt;h3&gt;背景&lt;/h3&gt;
+&lt;p&gt;给大领导自建梯子，采用 xray 搭建代理服务，节点用的 dmit 的 vps 节点&lt;/p&gt;
+&lt;h3&gt;现状&lt;/h3&gt;
+&lt;p&gt;大领导正常使用过程中经常被 google 识别为自动化操作并弹人机验证，现在要求尽可能提前发现风控并替换风险节点，不能影响领导使用，另外要增加日志监控告警，出问题要快速定位原因。&lt;/p&gt;
+&lt;h3&gt;思路&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在 xray 做一些改造，增加日志，风控识别，监控告警；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;增加探测+自动切换逻辑，定时定点探测常用目标站点，看看梯子节点是否被风控，如果风控及时替换订阅链接，终端自动更新；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;购买国外纯净住宅 IP ，出 vps 后在增加一层转发；&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;问题&lt;/h3&gt;
+&lt;p&gt;1.如何识别到代理节点被目标站点风控？
+2.出口 IP 多了，之前遇到过访问 gemini/google 出过 IP 不一致错误，如何解决？&lt;/p&gt;
 </description>
     </item>
   </channel>
