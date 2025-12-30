@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 30 Dec 2025 08:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 08:49:20 GMT</lastBuildDate>
     <item>
       <title>你们的女朋友也这样吗？</title>
       <link>https://www.v2ex.com/t/1182044</link>
@@ -81,20 +81,14 @@
 </description>
     </item>
     <item>
-      <title>编程已死！</title>
-      <link>https://www.v2ex.com/t/1181960</link>
-      <guid>v2ex-1181960</guid>
-      <pubDate>Mon, 29 Dec 2025 09:06:23 GMT</pubDate>
-      <description>&lt;p&gt;不是情绪化的表达，而是基于下面的 3 点观察。&lt;/p&gt;
-&lt;h2&gt;反馈的循环已经建立&lt;/h2&gt;
-&lt;p&gt;这两天发现，Cursor 中的 Opus 4.5 ，已经可以自动运行浏览器，自动执行操作，自动截图。反馈的回路已经建立。&lt;/p&gt;
-&lt;h2&gt;通过 log 调试等价于 IDE 调试&lt;/h2&gt;
-&lt;p&gt;之前我还在想，为什么没见到 AI 使用 IDE 的断点调试。后来想到了，添加 log 日志的方式，不就等价于 IDE 调试吗？现在的 AI 用 log 调试是小菜一碟。&lt;/p&gt;
-&lt;h2&gt;上下文工程&lt;/h2&gt;
-&lt;p&gt;目前 AI 的上下文有大概 100 万 token 。看起来不多，但想想人类吧，当一个人面对一个大型项目，他大脑中能存储多少东西，可以说非常有限，他只能存一些大的架构方面的，或者抽象层面的东西。对于这之下更细节的东西，他也要去搜索、查看代码来确认，这些东西对 AI 来说，通过 context engeering ，也完全可以做到。&lt;/p&gt;
-&lt;p&gt;今天我就发现，Cursor 已经会自动压缩上下文了。一个对话，用着用着，本来进度条满了，过会儿然后再去看，发现进度条又回到一半了。&lt;/p&gt;
-&lt;h2&gt;编程已死，吾将何往？！&lt;/h2&gt;
-&lt;p&gt;除了架构和品味，AI 还差一些。但对于功能性的编程，动力、飞轮和链条已经完全就绪。编程已死，吾将何往？！&lt;/p&gt;
+      <title>个人本地开发相关的软件你们都是装在哪里？</title>
+      <link>https://www.v2ex.com/t/1182060</link>
+      <guid>v2ex-1182060</guid>
+      <pubDate>Tue, 30 Dec 2025 01:49:12 GMT</pubDate>
+      <description>&lt;p&gt;我现在是在自己电脑装了一个 VMware ，然后再 VMware 上装了 centos7 ，在 centos7 上装了一个 docker 。&lt;/p&gt;
+&lt;p&gt;docker 中装了 nacos 、kafka 、zookeeper 、MinIO 、php 、ngnix 、gitea&lt;/p&gt;
+&lt;p&gt;我电脑 32g 内存，装这一套倒还好，但每次开机都得手动把 vmware 打开。。。&lt;/p&gt;
+&lt;p&gt;你们都是什么方案呀&lt;/p&gt;
 </description>
     </item>
   </channel>
