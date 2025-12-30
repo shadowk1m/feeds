@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 30 Dec 2025 09:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 09:43:44 GMT</lastBuildDate>
     <item>
       <title>你们的女朋友也这样吗？</title>
       <link>https://www.v2ex.com/t/1182044</link>
@@ -60,14 +60,14 @@
 </description>
     </item>
     <item>
-      <title>重金了几个有含义域名，做什么项目好呢？</title>
-      <link>https://www.v2ex.com/t/1181964</link>
-      <guid>v2ex-1181964</guid>
-      <pubDate>Mon, 29 Dec 2025 09:23:41 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://www.openthem.com/&quot; rel=&quot;nofollow&quot;&gt;https://www.openthem.com/&lt;/a&gt;
-&lt;a href=&quot;https://developtools.net/&quot; rel=&quot;nofollow&quot;&gt;https://developtools.net/&lt;/a&gt;
-&lt;a href=&quot;https://www.geekyeah.com&quot; rel=&quot;nofollow&quot;&gt;https://www.geekyeah.com&lt;/a&gt;
-已经问了豆包和 ChatGPT ，基本都是想让差异化和掘金竞争，差异化做 Hugging Face 中文版本，或者直接来一个中文版 &lt;a href=&quot;http://dev.to&quot; rel=&quot;nofollow&quot;&gt;dev.to&lt;/a&gt;&lt;/p&gt;
+      <title>个人本地开发相关的软件你们都是装在哪里？</title>
+      <link>https://www.v2ex.com/t/1182060</link>
+      <guid>v2ex-1182060</guid>
+      <pubDate>Tue, 30 Dec 2025 01:49:12 GMT</pubDate>
+      <description>&lt;p&gt;我现在是在自己电脑装了一个 VMware ，然后再 VMware 上装了 centos7 ，在 centos7 上装了一个 docker 。&lt;/p&gt;
+&lt;p&gt;docker 中装了 nacos 、kafka 、zookeeper 、MinIO 、php 、ngnix 、gitea&lt;/p&gt;
+&lt;p&gt;我电脑 32g 内存，装这一套倒还好，但每次开机都得手动把 vmware 打开。。。&lt;/p&gt;
+&lt;p&gt;你们都是什么方案呀&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -81,14 +81,11 @@
 </description>
     </item>
     <item>
-      <title>个人本地开发相关的软件你们都是装在哪里？</title>
-      <link>https://www.v2ex.com/t/1182060</link>
-      <guid>v2ex-1182060</guid>
-      <pubDate>Tue, 30 Dec 2025 01:49:12 GMT</pubDate>
-      <description>&lt;p&gt;我现在是在自己电脑装了一个 VMware ，然后再 VMware 上装了 centos7 ，在 centos7 上装了一个 docker 。&lt;/p&gt;
-&lt;p&gt;docker 中装了 nacos 、kafka 、zookeeper 、MinIO 、php 、ngnix 、gitea&lt;/p&gt;
-&lt;p&gt;我电脑 32g 内存，装这一套倒还好，但每次开机都得手动把 vmware 打开。。。&lt;/p&gt;
-&lt;p&gt;你们都是什么方案呀&lt;/p&gt;
+      <title>你们的公积金都怎么用的？</title>
+      <link>https://www.v2ex.com/t/1182051</link>
+      <guid>v2ex-1182051</guid>
+      <pubDate>Tue, 30 Dec 2025 01:23:02 GMT</pubDate>
+      <description>&lt;p&gt;我在本地工作，住家里，没有房贷，在想要不要把公积金取出来存定期&lt;/p&gt;
 </description>
     </item>
   </channel>
