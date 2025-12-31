@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 31 Dec 2025 20:40:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 21:10:18 GMT</lastBuildDate>
     <item>
       <title>兄弟们，平时用香水吗？如何看待男生用香水的？</title>
       <link>https://www.v2ex.com/t/1182317</link>
@@ -88,17 +88,6 @@
 </description>
     </item>
     <item>
-      <title>你们 js 用过双等号吗</title>
-      <link>https://www.v2ex.com/t/1182300</link>
-      <guid>v2ex-1182300</guid>
-      <pubDate>Wed, 31 Dec 2025 01:21:02 GMT</pubDate>
-      <description>&lt;p&gt;写了很多年 js ，都是用三等号。即使类型不匹配也要强制使用 Number String 等方式转换一下再判断。&lt;/p&gt;
-&lt;p&gt;现在发现双等号直接可以帮你转类型后再比较。&lt;/p&gt;
-&lt;p&gt;甚至可以这么用: &lt;code&gt;if (a == 0) { ... }&lt;/code&gt;, 这里当 a 是 &lt;code&gt;0 / &quot;&quot; / false&lt;/code&gt; 时候都成立。&lt;/p&gt;
-&lt;p&gt;看到很多项目都把双等号给禁了（ eslint eqeqeq ），没仔细研究，但有些情况下还是不错的。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>分享你的 2025 年度应用</title>
       <link>https://www.v2ex.com/t/1182398</link>
       <guid>v2ex-1182398</guid>
@@ -127,6 +116,17 @@
 &lt;li&gt;&lt;strong&gt;类型不限&lt;/strong&gt;：效率工具、健康应用、娱乐软件、学习神器……任何让你觉得“就是它了”的应用都可以。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;也许，下一个改变你生活节奏的好工具，就藏在大家的推荐里呢。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>你们 js 用过双等号吗</title>
+      <link>https://www.v2ex.com/t/1182300</link>
+      <guid>v2ex-1182300</guid>
+      <pubDate>Wed, 31 Dec 2025 01:21:02 GMT</pubDate>
+      <description>&lt;p&gt;写了很多年 js ，都是用三等号。即使类型不匹配也要强制使用 Number String 等方式转换一下再判断。&lt;/p&gt;
+&lt;p&gt;现在发现双等号直接可以帮你转类型后再比较。&lt;/p&gt;
+&lt;p&gt;甚至可以这么用: &lt;code&gt;if (a == 0) { ... }&lt;/code&gt;, 这里当 a 是 &lt;code&gt;0 / &quot;&quot; / false&lt;/code&gt; 时候都成立。&lt;/p&gt;
+&lt;p&gt;看到很多项目都把双等号给禁了（ eslint eqeqeq ），没仔细研究，但有些情况下还是不错的。&lt;/p&gt;
 </description>
     </item>
     <item>
