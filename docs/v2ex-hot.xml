@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 31 Dec 2025 07:41:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 08:17:10 GMT</lastBuildDate>
     <item>
       <title>兄弟们，平时用香水吗？如何看待男生用香水的？</title>
       <link>https://www.v2ex.com/t/1182317</link>
@@ -17,27 +17,6 @@
 &lt;li&gt;不喜欢那种劣质香水味道，昂贵的可以。（说实话。我分不清劣质香水和昂贵香水区别。我一般就是能闻出是那种牌子的香水、是那种香水。劣质不劣质我是真闻不出来）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;起这个话题，我是想知道，大部分对香水味道是如何看的。毕竟有时候用香水，对别人可能也是一种困扰&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>一个词总结你的 2025！（来对比看看去年的）</title>
-      <link>https://www.v2ex.com/t/1182190</link>
-      <guid>v2ex-1182190</guid>
-      <pubDate>Tue, 30 Dec 2025 08:01:33 GMT</pubDate>
-      <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;感觉今年很快，突然就又年底了。如果是我用一个词总结 2025&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;那会是：淡&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;就感觉今年什么也没发生什么也没留下，莫名其妙就过了，感觉又是以后回忆不起来的一年&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;指路：&lt;a href=&quot;https://www.v2ex.com/t/1101473&quot; rel=&quot;nofollow&quot;&gt;一个词总结你的 2024 ！&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     <item>
@@ -96,17 +75,6 @@
 </description>
     </item>
     <item>
-      <title>你们 js 用过双等号吗</title>
-      <link>https://www.v2ex.com/t/1182300</link>
-      <guid>v2ex-1182300</guid>
-      <pubDate>Wed, 31 Dec 2025 01:21:02 GMT</pubDate>
-      <description>&lt;p&gt;写了很多年 js ，都是用三等号。即使类型不匹配也要强制使用 Number String 等方式转换一下再判断。&lt;/p&gt;
-&lt;p&gt;现在发现双等号直接可以帮你转类型后再比较。&lt;/p&gt;
-&lt;p&gt;甚至可以这么用: &lt;code&gt;if (a == 0) { ... }&lt;/code&gt;, 这里当 a 是 &lt;code&gt;0 / &quot;&quot; / false&lt;/code&gt; 时候都成立。&lt;/p&gt;
-&lt;p&gt;看到很多项目都把双等号给禁了（ eslint eqeqeq ），没仔细研究，但有些情况下还是不错的。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>怎么提高车感，各位都是如何练的？</title>
       <link>https://www.v2ex.com/t/1182354</link>
       <guid>v2ex-1182354</guid>
@@ -128,6 +96,17 @@
 </description>
     </item>
     <item>
+      <title>你们 js 用过双等号吗</title>
+      <link>https://www.v2ex.com/t/1182300</link>
+      <guid>v2ex-1182300</guid>
+      <pubDate>Wed, 31 Dec 2025 01:21:02 GMT</pubDate>
+      <description>&lt;p&gt;写了很多年 js ，都是用三等号。即使类型不匹配也要强制使用 Number String 等方式转换一下再判断。&lt;/p&gt;
+&lt;p&gt;现在发现双等号直接可以帮你转类型后再比较。&lt;/p&gt;
+&lt;p&gt;甚至可以这么用: &lt;code&gt;if (a == 0) { ... }&lt;/code&gt;, 这里当 a 是 &lt;code&gt;0 / &quot;&quot; / false&lt;/code&gt; 时候都成立。&lt;/p&gt;
+&lt;p&gt;看到很多项目都把双等号给禁了（ eslint eqeqeq ），没仔细研究，但有些情况下还是不错的。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>上周末去杭州西湖看了日落和日出，太美了</title>
       <link>https://www.v2ex.com/t/1182298</link>
       <guid>v2ex-1182298</guid>
@@ -141,6 +120,13 @@
 &lt;p&gt;看日出 在 &lt;strong&gt;苏堤 仁风亭&lt;/strong&gt; 位置湖边&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/kkAT5eK.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>如何看待罗永浩的“科技春晚”？</title>
+      <link>https://www.v2ex.com/t/1182293</link>
+      <guid>v2ex-1182293</guid>
+      <pubDate>Wed, 31 Dec 2025 00:57:33 GMT</pubDate>
+      <description>如何看待罗永浩的“科技春晚”？</description>
     </item>
   </channel>
 </rss>
