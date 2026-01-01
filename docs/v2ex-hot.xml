@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 01 Jan 2026 06:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 06:53:44 GMT</lastBuildDate>
     <item>
       <title>2025 年在大 A 实现了财富小自由</title>
       <link>https://www.v2ex.com/t/1182451</link>
@@ -30,11 +30,18 @@
 </description>
     </item>
     <item>
-      <title>江苏电信宽带限速求各位支招</title>
-      <link>https://www.v2ex.com/t/1182404</link>
-      <guid>v2ex-1182404</guid>
-      <pubDate>Wed, 31 Dec 2025 06:37:39 GMT</pubDate>
-      <description>从今年 9 月起历经与电信的多次拉扯现在卡在了一个黑洞死循环的地方，求各位支支招！&lt;br /&gt;我的宽带：江苏电信包年宽带，老宽带，带绝版的公网 ip （现在江苏普通的家庭宽带已经无法办到公网 ip ）&lt;br /&gt;先说目前的情况：&lt;br /&gt;	1 普通的上网，如刷抖音、b 站、微信收发信息没有问题，能用，只是慢半拍。&lt;br /&gt;	2 如抖音等直播点进去得卡一会才能看、todesk 、向日葵等远程桌面链接需要卡半分钟以上报网络异常后继续等待才能进入，进入远程桌面后鼠标延迟达 2s 以上，分辨率只能自动最低，否则无法使用。&lt;br /&gt;	3 自组的飞牛 nas 通过公网 5666 的 nas web 页面，几乎无法进去，nas 登录界面要等待数分钟才出现账号密码登录界面，登录后进行文件下载也是速度在 1KB 以下，一段时间后会报网络错误，pt 保种 30 余 tb 但是总上传会卡 30-200kb 左右&lt;br /&gt;	4 家中的宽带一旦有迅雷下载、微信视频电话、网盘备份等流量产生，瞬间整个网络奇卡无比，打游戏丢包，访问网页也会直接转圈超时。&lt;br /&gt;	5 使用 iperf3 进行打流，另一端不管是使用云主机、移动数据流量、其他的宽带、不管是电信还是联通移动等，tcp 与 udp 速度均为 1mbps 以下。&lt;br /&gt;	6 前往邻居家进行测速发现一切正常，与邻居的电信宽带安装在同一个 pon 口，以此判断被江苏电信特别对待！&lt;br /&gt;附上一些 iperf3 测速图和 todesk 等软件使用的图&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/vHswaBM.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/vHswaBM.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/DvkY9w8.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/DvkY9w8.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/F8ohE14.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/F8ohE14.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;9 月报修至电信后最初装维上门使用 pda 测速异常，后续说等待后台排查回复，随后没有音信，后台不知道做什么小动作默默修改。待我看一段时间没回复后再次报修，再次上门时，pda 测速已经正常，而以上问题依旧存在，现在访问测速网站测速均正常，但是 iperf3 依旧原形毕露。自此开始反复拉锯，电信客服表示只能保证他们的师傅上门测速是正常，其余的不做保证（此段有通话录音）。11 月通过通信管理局投诉，6 天后一位自称领导的客服一开始上来给我推荐直播宽带表示能解决这个问题，在帮我去咨询资费和套餐详细后突然又回电表示我的网络问题需要更换专线可以解决，直播宽带无法解决，询问资费：价格为数千元一个月，我表示拒绝，他那边直接进行结单，理由依旧是电信公司只保证测速正常，日常使用不做网络质量保证。&lt;br /&gt;&lt;br /&gt;同时在路由器上使用 pppoe-discovery 进行 bras 查询发现由城区的 bras 改为距离 30km+的郊区，同 olt 下的领居家宽带依旧为城区 bras ，向电信工作人员问及为何进行特殊设置时电信的回复是正常割接，但不懂只割接我以为用户是作何意义？（以上为在我的一再要求下，要求一位电信公司的技术人员回电而不是投诉处理部门说套话后一个 0519 开头的座机打入的电话）同时对方在我问及 iperf3 为什么速度不超过 1mbps 时，他们表示 iperf3 他们知道但是只一般用于专线的测试，至于为什么我的速度不超过 1 以及使用过程中的问题，他们表示了解后上报过省公司但省公司的回复是一切正常？（是否真的上报真实性未知？这么大的运营商省级层面都解决不了这种日常的问题？）&lt;br /&gt;&lt;br /&gt;求各位大佬支支招，目前已经试过的办法有工信部、通讯管理局、中国电信服务质量监督热线及 10000 ，因为江苏三大运营商的公网现在均申请不到了，所以这条电信宽带相当于是绝版的公网 ip ，所以想如何尽可能的保下这个公网 ip 。</description>
+      <title>墙已经建到国内了</title>
+      <link>https://www.v2ex.com/t/1182549</link>
+      <guid>v2ex-1182549</guid>
+      <pubDate>Thu, 01 Jan 2026 02:56:33 GMT</pubDate>
+      <description>国内电信、联通、移动三大运营商之间访问越来越困难。</description>
+    </item>
+    <item>
+      <title>2026 新年快乐，祝大家 2026 年发发发！</title>
+      <link>https://www.v2ex.com/t/1182522</link>
+      <guid>v2ex-1182522</guid>
+      <pubDate>Wed, 31 Dec 2025 15:53:06 GMT</pubDate>
+      <description>2026 新年快乐，祝大家 2026 年发发发！</description>
     </item>
     <item>
       <title>一个失业 8 个月大龄码农的年终总结</title>
@@ -64,32 +71,11 @@
 </description>
     </item>
     <item>
-      <title>2026 新年快乐，祝大家 2026 年发发发！</title>
-      <link>https://www.v2ex.com/t/1182522</link>
-      <guid>v2ex-1182522</guid>
-      <pubDate>Wed, 31 Dec 2025 15:53:06 GMT</pubDate>
-      <description>2026 新年快乐，祝大家 2026 年发发发！</description>
-    </item>
-    <item>
       <title>2026 年，开始怀疑自己不适合干这一行了，脑子越来越转不动了</title>
       <link>https://www.v2ex.com/t/1182529</link>
       <guid>v2ex-1182529</guid>
       <pubDate>Wed, 31 Dec 2025 16:57:59 GMT</pubDate>
       <description>2026 年，开始怀疑自己不适合干这一行了，脑子越来越转不动了</description>
-    </item>
-    <item>
-      <title>墙已经建到国内了</title>
-      <link>https://www.v2ex.com/t/1182549</link>
-      <guid>v2ex-1182549</guid>
-      <pubDate>Thu, 01 Jan 2026 02:56:33 GMT</pubDate>
-      <description>国内电信、联通、移动三大运营商之间访问越来越困难。</description>
-    </item>
-    <item>
-      <title>2025 年换了 4 份工作， 2026 会更好吗</title>
-      <link>https://www.v2ex.com/t/1182412</link>
-      <guid>v2ex-1182412</guid>
-      <pubDate>Wed, 31 Dec 2025 06:44:25 GMT</pubDate>
-      <description>2025 的最后一天了，无心工作，讲讲倒霉的 2025 吧&lt;br /&gt;&lt;br /&gt;1. 第一家公司待了几天，不是很想干，那公司的人也看出我骑驴找马，直接问我是不是想走，然后我坦白了，直接走了（ 24 年底入职，1 月初走人）&lt;br /&gt;&lt;br /&gt;2. 第二家 线上办公的 web3 公司，吊公司天天加班，每天晚上 9 点半展示自己做的东西，进度慢老板直接开骂（对的，直接骂人），过年前一天通宵加班，实在是受不了，跑路（入职时间大概是 1 月 10 ？，待了 20 天左右吧）&lt;br /&gt;&lt;br /&gt;3. 第三家 这家公司待的久一天，待了差不多 3 个月吧，惨遭 ktv, 整个部门全部 k 掉（ 五一节前失业&lt;br /&gt;&lt;br /&gt;4. 然后 gap 了半年，11 月底开始找工作，现在已经找到心仪的工作，入职半个月多&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;24 年底离职是因为这份工作真的太内耗了，实在是受不了，接了个 offer 赶紧跑路&lt;br /&gt;&lt;br /&gt;要说还有什么倒霉的事，染上合约，已亏麻&lt;br /&gt;&lt;br /&gt;26 年会更好吗</description>
     </item>
     <item>
       <title>想入一个 watch S9</title>
@@ -99,6 +85,30 @@
       <description>&lt;p&gt;想搭配 SleepScore 监测一下自己的睡眠数据；
 看了一些测评和推荐很多推荐 S9 ，说目前性价最高。之前从来没用过 apple watch ，想问问大家现在有没有靠谱的渠道买全新或者充新的。
 PS. 睡眠监测类软件搭配 iwatch 有没有好的组合推荐，最好免费，好用的话付费也没问题。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>求助，各位有没有使用过 PaddleOCR 的</title>
+      <link>https://www.v2ex.com/t/1182419</link>
+      <guid>v2ex-1182419</guid>
+      <pubDate>Wed, 31 Dec 2025 06:58:57 GMT</pubDate>
+      <description>&lt;p&gt;原图长这样，
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Cn0jVaV.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;识别后结果：
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/MHAh56q.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;Docekr 部署的 PaddleOCR-VL&lt;/p&gt;
+&lt;p&gt;问题就是列错位了，个别情况单位还识别不出来，官网的 API 也是这样，试了一下官网三个模型，就 VL 感觉还行&lt;/p&gt;
+&lt;p&gt;Windows 开发用过 PP-StructureV3 ，对数字的识别不太友好&lt;/p&gt;
+&lt;p&gt;除了拿到结果进行后处理，还有没有其他方法，让模型更加准确一点&lt;/p&gt;
+&lt;p&gt;AI 也给不出实质性的回答，只能来碰碰运气了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>信用卡+网贷 20w+,下个月要补不上了，咋办</title>
+      <link>https://www.v2ex.com/t/1182560</link>
+      <guid>v2ex-1182560</guid>
+      <pubDate>Thu, 01 Jan 2026 04:10:15 GMT</pubDate>
+      <description>&lt;p&gt;信用卡+网贷 20w 左右， 下个月还不上了， 网贷被秒拒，关键辞职大半年了，   公积金也只有一丁点， 名下无资产，我该怎么办， 不敢让家里人知道，父母也没钱&lt;/p&gt;
 </description>
     </item>
   </channel>
