@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 03 Jan 2026 15:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 15:37:54 GMT</lastBuildDate>
     <item>
       <title>2026 年第一次相亲</title>
       <link>https://www.v2ex.com/t/1182790</link>
@@ -367,16 +367,6 @@
       <description>搞了好多天 gemini3pro 都解决不了的问题，deepseek 给我解决了。&lt;br /&gt;我真是太盲目的迷信 gemini3pro 了，浪费了我好多时间。&lt;br /&gt;另外我发现 gork4 也真的是一坨，就没写成功过我想要的效果</description>
     </item>
     <item>
-      <title>上海电信有必要转其他的运营商吗</title>
-      <link>https://www.v2ex.com/t/1182773</link>
-      <guid>v2ex-1182773</guid>
-      <pubDate>Sat, 03 Jan 2026 03:42:37 GMT</pubDate>
-      <description>&lt;p&gt;本人坐标上海，目前用的套餐如下&lt;/p&gt;
-&lt;p&gt;十全十美美好家融合套餐，月租 169 1000/100 速率，4 张副卡免月租，一路固话免月租，iptv 压根没有用，因为安装费要 100 ，用组播转单拨工具，同城另外一个地方一路电信副宽带，月租 30 200/30 速率，总共一个月是 199 元，而且是后付费，欠费很久宽带也不会停，另外两地均有 58 开头公网 ip ，通过 wireguard 组网实现监控，目前没有发现上传限速，也传了好多流量 10 几 T&lt;/p&gt;
-&lt;p&gt;看了其他群友说上海联通便宜，请问以上的功能和我需求在上海联通可不可以实现，并且月租比上海电信低，有没有必要转网，现在上海电信资费还能不能降低，有没有必要升级 2000M ，虽然上海电信稳，但是资费降一下还是好，网上那些打折的是不是吹牛&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>蚌埠住了，现在连中英文之间加空格也能成为鉴定 AI 生成内容的标准了</title>
       <link>https://www.v2ex.com/t/1182795</link>
       <guid>v2ex-1182795</guid>
@@ -388,6 +378,16 @@
 对于文字工作者来说，他们常用的 WPS 等排版工具可以自动在中英文之间加入间距，无需手动输入空格。
 于是手动加空格的，在过去被当作异类（我在上学期间曾被同学在群里就这点吐槽过），如今则是当作 AI&lt;/p&gt;
 &lt;p&gt;相比之下，V 站这种强制加空格的（虽然很多时候不该加）反而成为了另一种风景。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>上海电信有必要转其他的运营商吗</title>
+      <link>https://www.v2ex.com/t/1182773</link>
+      <guid>v2ex-1182773</guid>
+      <pubDate>Sat, 03 Jan 2026 03:42:37 GMT</pubDate>
+      <description>&lt;p&gt;本人坐标上海，目前用的套餐如下&lt;/p&gt;
+&lt;p&gt;十全十美美好家融合套餐，月租 169 1000/100 速率，4 张副卡免月租，一路固话免月租，iptv 压根没有用，因为安装费要 100 ，用组播转单拨工具，同城另外一个地方一路电信副宽带，月租 30 200/30 速率，总共一个月是 199 元，而且是后付费，欠费很久宽带也不会停，另外两地均有 58 开头公网 ip ，通过 wireguard 组网实现监控，目前没有发现上传限速，也传了好多流量 10 几 T&lt;/p&gt;
+&lt;p&gt;看了其他群友说上海联通便宜，请问以上的功能和我需求在上海联通可不可以实现，并且月租比上海电信低，有没有必要转网，现在上海电信资费还能不能降低，有没有必要升级 2000M ，虽然上海电信稳，但是资费降一下还是好，网上那些打折的是不是吹牛&lt;/p&gt;
 </description>
     </item>
     <item>
