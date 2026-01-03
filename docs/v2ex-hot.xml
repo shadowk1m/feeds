@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 03 Jan 2026 14:10:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 14:39:52 GMT</lastBuildDate>
     <item>
       <title>2026 年第一次相亲</title>
       <link>https://www.v2ex.com/t/1182790</link>
@@ -377,20 +377,25 @@
 </description>
     </item>
     <item>
+      <title>蚌埠住了，现在连中英文之间加空格也能成为鉴定 AI 生成内容的标准了</title>
+      <link>https://www.v2ex.com/t/1182795</link>
+      <guid>v2ex-1182795</guid>
+      <pubDate>Sat, 03 Jan 2026 07:22:23 GMT</pubDate>
+      <description>&lt;p&gt;最近给一个文学类专栏投稿，被编辑拒了，理由是“疑似 AI 生成”。&lt;/p&gt;
+&lt;p&gt;如果仅仅是这样也就罢了，就当是在夸我了，毕竟只论文笔我还真比不过大模型。
+可后面的补充理由实在是让我绷不住了：中文与英文或数字之间包含空格，属于大语言模型常见的输出格式，且不符合我国现行的书写规范。&lt;/p&gt;
+&lt;p&gt;但仔细一想，还是有点道理的。除了程序员这种常年和纯文本打交道的群体，大部分人的确没有在中英文间加空格的习惯。
+对于文字工作者来说，他们常用的 WPS 等排版工具可以自动在中英文之间加入间距，无需手动输入空格。
+于是手动加空格的，在过去被当作异类（我在上学期间曾被同学在群里就这点吐槽过），如今则是当作 AI&lt;/p&gt;
+&lt;p&gt;相比之下，V 站这种强制加空格的（虽然很多时候不该加）反而成为了另一种风景。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>江东 @cosbeta 限你 3 日内出来解释 vpnso 跑路一事</title>
       <link>https://www.v2ex.com/t/1182774</link>
       <guid>v2ex-1182774</guid>
       <pubDate>Sat, 03 Jan 2026 03:49:39 GMT</pubDate>
       <description>别人匿名卖 VPN 敢跑路，你实名上网也敢跑路，是不是吃了熊心豹子胆！&lt;br /&gt;你家套餐 200 元起，只支持年付，很多人因为信任你每次充值很多年，当年还有人一下子充值 10 年！&lt;br /&gt;你的信息网上都搜得到，当年多么高调，老婆孩子们的照片都在网上，你要是想顺利过年，不想有血光之灾，限你 1 月 6 日中午 12 点之前出来解释，无论你是伤了还是残了，该退款的退款，否则后果自负！</description>
-    </item>
-    <item>
-      <title>中国银行 60 元立减金大羊毛</title>
-      <link>https://www.v2ex.com/t/1182772</link>
-      <guid>v2ex-1182772</guid>
-      <pubDate>Sat, 03 Jan 2026 03:40:12 GMT</pubDate>
-      <description>&lt;p&gt;活动入口：中国银行 app→我的→我的权益→立减金&lt;/p&gt;
-&lt;p&gt;点开能发现微信和支付宝各有三张满 10.01 减 10 的立减金，点进立减金就能兑换到微信/支付宝，然后在微信/支付宝支付的时候选择中行储蓄卡就能用这个立减金了。&lt;/p&gt;
-</description>
     </item>
   </channel>
 </rss>
