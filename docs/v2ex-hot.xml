@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 03 Jan 2026 03:50:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 04:23:33 GMT</lastBuildDate>
     <item>
       <title>今天生日，陌生人可以给我一个祝福吗</title>
       <link>https://www.v2ex.com/t/1182689</link>
@@ -19,6 +19,13 @@
       <pubDate>Fri, 02 Jan 2026 09:50:37 GMT</pubDate>
       <description>&lt;p&gt;这两个都有哪些充值活动吗，ChatGPT 充了 3 个月，马上要到期了&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>关于剪头发的&quot;阴谋&quot;</title>
+      <link>https://www.v2ex.com/t/1182758</link>
+      <guid>v2ex-1182758</guid>
+      <pubDate>Sat, 03 Jan 2026 01:35:21 GMT</pubDate>
+      <description>最近头发两边很炸,导致头看起来很大,很不美观,所以去剪掉,发现了每次发型师(无论专家还是总监)给我剪发的模板就是剪短推光两边,上面不动&lt;br /&gt;&lt;br /&gt;后面通过 ai 和小红书研究了一番,发现其实这是行业不成文的规矩,主要是为了提高顾客的复购率,并且技术要求最低最简单,而且效果明显,这种剪法就是 3-4 周内必炸!&lt;br /&gt;&lt;br /&gt;最后给大家的建议就是,如果条件允许懒得打理,每 2 周剪一次这种模板是最好的,否则就留长,然后用服帖药水自己烫两边.</description>
     </item>
     <item>
       <title>做了个在线模拟器游戏网站，随手一点免费开玩</title>
@@ -40,13 +47,6 @@
       <guid>v2ex-1182680</guid>
       <pubDate>Fri, 02 Jan 2026 06:40:27 GMT</pubDate>
       <description>目前用的成都电信，晚高峰国际出口太卡，目前想携号转网，请问联通和移动怎么选择？有没有使用过的人来说说，谢谢</description>
-    </item>
-    <item>
-      <title>关于剪头发的&quot;阴谋&quot;</title>
-      <link>https://www.v2ex.com/t/1182758</link>
-      <guid>v2ex-1182758</guid>
-      <pubDate>Sat, 03 Jan 2026 01:35:21 GMT</pubDate>
-      <description>最近头发两边很炸,导致头看起来很大,很不美观,所以去剪掉,发现了每次发型师(无论专家还是总监)给我剪发的模板就是剪短推光两边,上面不动&lt;br /&gt;&lt;br /&gt;后面通过 ai 和小红书研究了一番,发现其实这是行业不成文的规矩,主要是为了提高顾客的复购率,并且技术要求最低最简单,而且效果明显,这种剪法就是 3-4 周内必炸!&lt;br /&gt;&lt;br /&gt;最后给大家的建议就是,如果条件允许懒得打理,每 2 周剪一次这种模板是最好的,否则就留长,然后用服帖药水自己烫两边.</description>
     </item>
     <item>
       <title>[后续 9] 泉州联通限速所谓整改:优化&quot;劣质&quot;用户 | 二审开庭:责任全在合建商 | 福建宇迈律师林梦瑶被律协立案</title>
@@ -224,6 +224,18 @@
       <guid>v2ex-1182671</guid>
       <pubDate>Fri, 02 Jan 2026 06:01:26 GMT</pubDate>
       <description>挺魔幻的,还可以突然触发各种不同的 3D 视角&lt;br /&gt;&lt;br /&gt;在线 DEMO:&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://lazytypergame.pages.dev/&quot; rel=&quot;nofollow noopener&quot;&gt;https://lazytypergame.pages.dev/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;源码:&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/sfz009900/LazyTypergame&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/sfz009900/LazyTypergame&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>NAS 怎样使用 ai 项目？</title>
+      <link>https://www.v2ex.com/t/1182692</link>
+      <guid>v2ex-1182692</guid>
+      <pubDate>Fri, 02 Jan 2026 07:46:43 GMT</pubDate>
+      <description>&lt;p&gt;各位好&lt;/p&gt;
+&lt;p&gt;nas 能用 gpu 吗？&lt;/p&gt;
+&lt;p&gt;如果不能用，大家在 nas 上安装的 ai 项目可能就会比较慢，对吧&lt;/p&gt;
+&lt;p&gt;这个怎么解决呢？谢谢&lt;/p&gt;
+&lt;p&gt;我查了一下，似乎只有少数高端 nas 有 gpu ，难道 nas 就只能用于下载或者运行一些普通项目？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
