@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 04 Jan 2026 07:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 07:38:49 GMT</lastBuildDate>
     <item>
       <title>[抽码]PacketPro,一款简约的 iOS 抓包工具，新年第一抽</title>
       <link>https://www.v2ex.com/t/1182883</link>
@@ -86,6 +86,13 @@
 &lt;p&gt;没想到今天听前同事说，卷王在出差时晕倒在酒店，心脏骤停，虽然送了 120 在抢救，但是我估计够呛了，这玩意黄金时间错过了就是错过了。
 真的，为了听领导画饼，连命都不要了吗，真的很离谱&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>macOS 的窗口管理真的是一坨，一个「command+tab」都做不好</title>
+      <link>https://www.v2ex.com/t/1182896</link>
+      <guid>v2ex-1182896</guid>
+      <pubDate>Sun, 04 Jan 2026 02:19:06 GMT</pubDate>
+      <description>把 Mac 作为工作机开发快一年时间了，从 Windows 换过来一开始完全接受不了切换程序和切换窗口两个快捷键。中途也找过一些试图解决这个问题的软件，发现都没有 Windows 来的直接。&lt;br /&gt;强行说服自己相信 macOS 这一套窗口管理逻辑，高强度使用之后倒也能「自适应」。&lt;br /&gt;但是它「 command+tab 」的时候，鼠标选中是通过鼠标悬浮（而不是鼠标点击）事件触发的。想知道设计这个逻辑的人是在使用「 command+tab 」的时候鼠标完全不是在屏幕中间吗，这个时候鼠标但凡稍微动一下，光标就被鼠标抢走了。&lt;br /&gt;作为一个 Windows 和 macOS 双持的用户，每次在 Windows 使用「 alt+tab 」的时候，都忍不住感慨垃圾 macOS 。</description>
     </item>
   </channel>
 </rss>
