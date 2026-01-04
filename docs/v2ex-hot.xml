@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 04 Jan 2026 03:21:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 04:31:15 GMT</lastBuildDate>
     <item>
       <title>2026 年第一次相亲</title>
       <link>https://www.v2ex.com/t/1182790</link>
@@ -157,32 +157,6 @@
 </description>
     </item>
     <item>
-      <title>新手养猫一个星期，有点后悔了</title>
-      <link>https://www.v2ex.com/t/1182776</link>
-      <guid>v2ex-1182776</guid>
-      <pubDate>Sat, 03 Jan 2026 04:02:43 GMT</pubDate>
-      <description>&lt;p&gt;猫是宠物店买的，买两只打折，当时脑子一热就买了，一只金渐层一只非五粉起司，起司两个多月就是一只粘人跟屁虫，没摸没抱就叫，金渐层三个多月高冷一点，比起司省心一点。&lt;/p&gt;
-&lt;p&gt;缺点：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;出租房很小，20 平左右，猫很喜欢在入户地毯那里活动，估计可能猫觉得入户地毯脚感好，然后就跑到我的床上，导致我的床单上很多脏东西，每天睡前都得用吸尘器不停检查和吸&lt;/li&gt;
-&lt;li&gt;猫爱抓出租房的家具，就算我给它买了瓦楞和剑麻的猫抓窝和猫抓板，就是不用，它还是爱抓沙发布和人体工学椅的网面&lt;/li&gt;
-&lt;li&gt;猫太粘人，需要大量精力哄着，有一天晚上回来加班搞代码，猫突然就飞扑到过来，前爪抓的 macbook 屏幕，还好没抓坏，抓坏我估计当场崩溃&lt;/li&gt;
-&lt;li&gt;猫擦屁股不干净，起司经常屁眼边挂一点史，导致整只猫身上一股屎味，而且这只猫很喜欢爬我身上蹭我的脸，每次都得捏鼻子被迫闻它的屎味&lt;/li&gt;
-&lt;li&gt;猫爪抓人真的好痛，尤其是猫从别的地方跳到人身上，很喜欢用猫爪&lt;/li&gt;
-&lt;li&gt;晚上跑酷，第一天晚上我只睡了一个小时，还好那天是周六，要是工作日估计得崩溃，后面睡前关厕所里睡眠质量提高好多&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;优点：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;基本不怎么叫，就算上班和睡觉时关厕所也是&lt;/li&gt;
-&lt;li&gt;买来就会用猫砂盆，暂时还没有尿床和咬人的坏毛病&lt;/li&gt;
-&lt;li&gt;没有应激，就算我用声音很大的吸尘器，胶囊咖啡机&lt;/li&gt;
-&lt;li&gt;还算亲人，没有网上说的不亲，一直躲着人的那种&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;虽然网上看了很多攻略，知道猫怎样，也去过猫咖感受过，但有些还是得亲身体验才知道，比如猫屎真的好臭，之前去过几家猫咖，就没闻到这么臭的猫屎味，以前养过海缸，原生缸等，相比养猫还是省心和省钱多了，就算是最贵的海缸，烦人主要是白点等鱼病（不买吊类基本很少白点导致团灭）。海缸只要管住手不下新鱼，系统稳定一两周不管都不会有什么问题。还是很佩服那些养猫的打工人，每天能抽出时间铲猫屎，用逗猫棒逗猫，把猫抱在身上哄，忍受猫所有的缺点，能买单被猫破坏的房东的家具，感觉养猫还是得租那种一室一厅的，单独给猫一个空房间，体验会好很多&lt;/p&gt;
-&lt;p&gt;可能我不是很称职的养猫人，大佬们轻喷&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>2026 年了，都有什么规划</title>
       <link>https://www.v2ex.com/t/1182875</link>
       <guid>v2ex-1182875</guid>
@@ -198,11 +172,11 @@
       <description>前情提要，由于目前市面上的抓包工具都不是很适配的我的使用习惯，于是乎自己 ai coding 了一款&lt;br /&gt;&lt;br /&gt;主要功能：&lt;br /&gt;多过滤器分目录过滤&lt;br /&gt;url 过滤&lt;br /&gt;白名单-可以放行请求&lt;br /&gt;黑名单-可以阻断请求&lt;br /&gt;重写功能-请求，响应&lt;br /&gt;http&amp;amp;https 流量分析&lt;br /&gt;&lt;br /&gt;工具箱：&lt;br /&gt;Http Test&lt;br /&gt;正则调试&lt;br /&gt;Url 编码&lt;br /&gt;文本工具&lt;br /&gt;Base64/ Hash&lt;br /&gt;时间戳工具&lt;br /&gt;&lt;br /&gt;部分使用截图：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/EdtOrlU.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/EdtOrlU.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如果您对该应用感兴趣，评论即可参与&lt;br /&gt;&lt;br /&gt;最终结果根据总楼层随机抽取 6 位小伙伴，送出终身兑换码，今晚 8 点开奖&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;如何获取 App：&lt;br /&gt;App Store 搜索：PacketPro</description>
     </item>
     <item>
-      <title>求各位佬帮我决定一下 11 还是 10</title>
-      <link>https://www.v2ex.com/t/1182816</link>
-      <guid>v2ex-1182816</guid>
-      <pubDate>Sat, 03 Jan 2026 10:09:06 GMT</pubDate>
-      <description>设备是联想的 T440P ，cpu 是 i7-4700MQ ，内存 8G&lt;br /&gt;不确实是安装 win10 还是 win11 。除了 windows 系统之外还考虑安装一个 Linux 的双系统，求各位佬根据实际体验给一些建议</description>
+      <title>相亲半年来的一次错位体验</title>
+      <link>https://www.v2ex.com/t/1182909</link>
+      <guid>v2ex-1182909</guid>
+      <pubDate>Sun, 04 Jan 2026 02:40:31 GMT</pubDate>
+      <description>几个月前通过朋友介绍认识了一个女生，开始都是线上聊天，觉得话还挺投缘的。相约见面也比较顺利，聊得轻松愉快，于是又出去吃了几次饭、看了几场电影。相处下来，感觉彼此都有好感，但我心里其实一直比较清晰——我并没有特别强烈的那种想要“走进未来”的冲动。&lt;br /&gt;某个周末晚上，我们吃完饭本来准备散步，各种气氛下来，她提议去附近酒店坐坐休息一下。我想她应该是累了，就没有坚持让她回去。就这样我们去了酒店，聊了会儿天，然后关系自然地更近了一步。&lt;br /&gt;第二天醒来，那种现实感和期待感猛地冲击了我。我意识到，这其实算是我们关系的一个临界点，但对我来说，我并不打算把这段关系发展成传统意义上的男女朋友。我知道这对她可能会有伤害，也知道很多人会觉得我这样不够负责。&lt;br /&gt;一方面我很感谢那段时间和她的陪伴，真诚地认为她是个好女孩；另一方面我也必须对自己和她负责，明确自己的想法，而不是随波逐流。&lt;br /&gt;于是我跟她坦诚地聊了这件事，表达了自己的感受和立场——我尊重她，也尊重自己，不想误导她期待未来的恋爱关系。她当时听起来有些失落，但也表现得很成熟，提出未来还是可以做朋友，只是需要时间调整。&lt;br /&gt;到现在，这件事过去一段时间了，我自己也反复想过很多次。相亲遇到合适的人很难，但更难的是坦诚面对彼此的期待和边界。&lt;br /&gt;如果用一句话总结这次经历，那就是：&lt;br /&gt;有些关系，不是因为不喜欢对方，而是因为我清楚自己真正想要的是什么。</description>
     </item>
     <item>
       <title>今年可能要准备买房了，大家有什么经验可以传授吗？</title>
@@ -218,18 +192,18 @@
 </description>
     </item>
     <item>
+      <title>求各位佬帮我决定一下 11 还是 10</title>
+      <link>https://www.v2ex.com/t/1182816</link>
+      <guid>v2ex-1182816</guid>
+      <pubDate>Sat, 03 Jan 2026 10:09:06 GMT</pubDate>
+      <description>设备是联想的 T440P ，cpu 是 i7-4700MQ ，内存 8G&lt;br /&gt;不确实是安装 win10 还是 win11 。除了 windows 系统之外还考虑安装一个 Linux 的双系统，求各位佬根据实际体验给一些建议</description>
+    </item>
+    <item>
       <title>就割个痔疮当跨年吧</title>
       <link>https://www.v2ex.com/t/1182877</link>
       <guid>v2ex-1182877</guid>
       <pubDate>Sun, 04 Jan 2026 01:35:40 GMT</pubDate>
       <description>当大家都沉浸在跨年的喜悦之时，12 月 31 日晚我还在住院中，三十而立，然而我并没有立起来，趁着元旦节，请了 3 天假，当成 8 天（ 12 月 27 日~1 月 3 日），解决了十多年来的心头大患，即割痔疮。&lt;br /&gt;之前在某乎上面看到很多前人的案例，有说很严重的，也有说是小手术的，只有自己亲身经历过才有发言权，前面几个人就去医院看了医生，开了张住院单子，一直没有抽出来时间，医生之前就说住院 3~4 天就可以了，后来做了手术才知道，基本上是需要一周左右，3~4 天属于极少部分情况。做之前医生给我说手术大概就是分 2 种：&lt;br /&gt;（ 1 ）传统：差不多 2~3k&lt;br /&gt;（ 2 ）微创：4k 左右（有个器械 1800 元不能报销）&lt;br /&gt;我想着亏谁也不能亏自己，就选了微创的，后面才知道，微创确实恢复要稍微快一点。&lt;br /&gt;这次住院还是遇到了许多坑的地方，故发出来分享给大家，如果大家有想法，可以参考。&lt;br /&gt;不打广告，割这个个人觉得找个三甲医院就好了，我就找的离家最近的三甲。坐标，某西南地区省会城市。&lt;br /&gt;3 号出院的时候结账，才发现加上最开始的押金，做微创一共花了三千五左右，才知道公司还给我们买了补充医保，所以多报销了 1100 ，不然就是四千六。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/KMlbyCH.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/KMlbyCH.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>相亲半年来的一次错位体验</title>
-      <link>https://www.v2ex.com/t/1182909</link>
-      <guid>v2ex-1182909</guid>
-      <pubDate>Sun, 04 Jan 2026 02:40:31 GMT</pubDate>
-      <description>几个月前通过朋友介绍认识了一个女生，开始都是线上聊天，觉得话还挺投缘的。相约见面也比较顺利，聊得轻松愉快，于是又出去吃了几次饭、看了几场电影。相处下来，感觉彼此都有好感，但我心里其实一直比较清晰——我并没有特别强烈的那种想要“走进未来”的冲动。&lt;br /&gt;某个周末晚上，我们吃完饭本来准备散步，各种气氛下来，她提议去附近酒店坐坐休息一下。我想她应该是累了，就没有坚持让她回去。就这样我们去了酒店，聊了会儿天，然后关系自然地更近了一步。&lt;br /&gt;第二天醒来，那种现实感和期待感猛地冲击了我。我意识到，这其实算是我们关系的一个临界点，但对我来说，我并不打算把这段关系发展成传统意义上的男女朋友。我知道这对她可能会有伤害，也知道很多人会觉得我这样不够负责。&lt;br /&gt;一方面我很感谢那段时间和她的陪伴，真诚地认为她是个好女孩；另一方面我也必须对自己和她负责，明确自己的想法，而不是随波逐流。&lt;br /&gt;于是我跟她坦诚地聊了这件事，表达了自己的感受和立场——我尊重她，也尊重自己，不想误导她期待未来的恋爱关系。她当时听起来有些失落，但也表现得很成熟，提出未来还是可以做朋友，只是需要时间调整。&lt;br /&gt;到现在，这件事过去一段时间了，我自己也反复想过很多次。相亲遇到合适的人很难，但更难的是坦诚面对彼此的期待和边界。&lt;br /&gt;如果用一句话总结这次经历，那就是：&lt;br /&gt;有些关系，不是因为不喜欢对方，而是因为我清楚自己真正想要的是什么。</description>
     </item>
     <item>
       <title>脚走废了，有鞋子推荐吗</title>
@@ -241,6 +215,13 @@
 &lt;p&gt;有一双美津浓的鞋，走起来还可以，但是鞋稍微有点子重&lt;/p&gt;
 &lt;p&gt;有适合这种暴走的场景，舒适轻便不磨脚底的鞋推荐吗&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>请教下各位前辈，有了孩子后该何去何从</title>
+      <link>https://www.v2ex.com/t/1182827</link>
+      <guid>v2ex-1182827</guid>
+      <pubDate>Sat, 03 Jan 2026 12:05:35 GMT</pubDate>
+      <description>小弟家是河南的 小孩出生百天后来上海找工作了 在上海无房无户口。我的计划是明年把我妈和娘俩接过来 我妈说我俩打工挣钱 她带孩子。&lt;br /&gt;&lt;br /&gt;如果我妈来带的话，一般是带到小孩几岁合适呢，小孩上完小学都得 10 来年 时间太长对她来说估计也接受不了。&lt;br /&gt;如果媳妇做全职妈妈的话经济压力大，在这攒不到钱 感觉不如回老家&lt;br /&gt;家里小县城有房 但没啥程序员的工作，工资低 而且基本都是单休 不缴公积金&lt;br /&gt;本来想着小孩还小，出来攒几年钱再回老家。但现在我有点动摇了</description>
     </item>
   </channel>
 </rss>
