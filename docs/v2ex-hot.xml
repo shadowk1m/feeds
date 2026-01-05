@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 05 Jan 2026 16:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 16:48:35 GMT</lastBuildDate>
     <item>
       <title>[随心听书] iOS 国区和 Google Play 正式上线啦!感谢封测用户+送兑换码</title>
       <link>https://www.v2ex.com/t/1183138</link>
@@ -271,18 +271,6 @@ Android + 邮箱
       <description>⚠️抽奖参与规则：回复任意评论&lt;br /&gt;抽取 5 份 [10 斤五常大米]&lt;br /&gt;&lt;br /&gt;低佣开户介绍：&lt;br /&gt;银河证券，etf 万 0.5 免 5 [ETF,LOF ，免五费率最低，适合 etf ，lof ，打新，纳指，宽基玩家。新手必备！]&lt;br /&gt;开源证券， 万 0.854 免 5 [国企券商，股票 etf 费率都很低]&lt;br /&gt;国泰海通 ，万 0.8 免 5 [头部龙头券商，费率最优惠，大客户专享，综合费率最低]&lt;br /&gt;&lt;br /&gt;⚠️开户成功调佣后就送 [五常大米 10 斤]&lt;br /&gt;&lt;br /&gt;我的联系方式和最新券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;https://shimo.im/docs/rp3OMVG1KaCV6Lkm/read&quot; rel=&quot;nofollow noopener&quot;&gt;https://shimo.im/docs/rp3OMVG1KaCV6Lkm/read&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;⚠️抽奖规则&lt;br /&gt;中奖 5 名，1 月 9 号 20:00 开奖&lt;br /&gt;&lt;br /&gt;⚠️中奖楼层：&lt;br /&gt;(上证指数收盘价 6 位整数 × 1005 % 有效楼层数) + 1&lt;br /&gt;(上证指数收盘价 6 位整数 × 2025 % 有效楼层数) + 1&lt;br /&gt;(深证指数收盘价 6 位整数 × 1005 % 有效楼层数) + 1&lt;br /&gt;(深证指数收盘价 6 位整数 × 2025 % 有效楼层数) + 1&lt;br /&gt;(创业指数收盘价 6 位整数 × 1005 % 有效楼层数) + 1&lt;br /&gt;[投资有风险，不因奖品而涉足股市。]</description>
     </item>
     <item>
-      <title>用 mac 的第五年了，仍然不喜欢</title>
-      <link>https://www.v2ex.com/t/1183102</link>
-      <guid>v2ex-1183102</guid>
-      <pubDate>Sun, 04 Jan 2026 16:36:03 GMT</pubDate>
-      <description>&lt;p&gt;可能就是 win 和安卓用习惯了，形成了先入为主的思想钢印，即使是工作需要用 mbp 到第五年了，仍然非常不喜欢。&lt;/p&gt;
-&lt;p&gt;我最反感的就是苹果的动画，非常的拖拉、黏腻，就像是糊上猪油堵住了呼吸一样。&lt;/p&gt;
-&lt;p&gt;刚才看到另一个帖子讨论苹果没有 alt+tab 是一坨，我就特别同意，就四指上滑这个操作，且不说选中速度慢（我常年开近十个代码项目，缩放长得都差不多，每次选都得选半天），光这个缩放跟手的动画，我用到第五年还是觉得跟甩不掉的鼻涕一样，粘滞，低效，为了优雅强行加动画，类似的还有最小化收到 dock 栏，Stage Manager ，简直神经病，mac 是这个鸟样，ios 也是，我就是用不惯这种“优雅”的动画，我就是喜欢下一帧直达结果的直截了当。&lt;/p&gt;
-&lt;p&gt;有个 alttab 真是救我狗命，但是经常用几天就失效了，我得重启电脑才恢复，不知道是什么 bug 。&lt;/p&gt;
-&lt;p&gt;BTW 顺便说到重启问题，之前一直听人讲 mac 不用重启，我真是信了你们的邪，我只要一周不重启电脑，就卡的要死，再叠加上苹果的“优雅”动画，真是给我恶心坏了。（当然 win 不重启比 mac 还垃圾）&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>华为手机禁止隐私截图怎么破?</title>
       <link>https://www.v2ex.com/t/1183117</link>
       <guid>v2ex-1183117</guid>
@@ -323,6 +311,52 @@ Android + 邮箱
 &lt;h2&gt;参考资料&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;《 How an Economy Grows and Why It Crashes 》&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>windows 远程登录方案讨论</title>
+      <link>https://www.v2ex.com/t/1183259</link>
+      <guid>v2ex-1183259</guid>
+      <pubDate>Mon, 05 Jan 2026 07:55:14 GMT</pubDate>
+      <description>&lt;h2&gt;需求&lt;/h2&gt;
+&lt;p&gt;在外部（主力 iOS/Windows ，偶尔 Android ）连上 Windows 主机。&lt;/p&gt;
+&lt;h2&gt;家里环境&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;路由器&lt;/strong&gt;：有公网 IP ，有域名&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NAS&lt;/strong&gt;：做了 DDNS ，本地做了反向代理 + 路由器端口映射了各种 docker 服务&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Windows 主机&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;目前使用过的方案&lt;/h2&gt;
+&lt;h3&gt;1. ToDesk&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;使用体验&lt;/strong&gt;：无雷点&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;问题&lt;/strong&gt;：2025 年开始需要付费，免费版每个月使用 1 分钟就强制下线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. 向日葵&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;问题&lt;/strong&gt;：被控设备显示器关闭后，控制端无法显示画面操作，等于用不了了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;打算调研的方案&lt;/h2&gt;
+&lt;h3&gt;方案 1：NAS 自建 RustDesk 服务器&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows 开设客户端，外部设备下载客户端访问 Windows 主机&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;疑问&lt;/strong&gt;：不知是否可行，还是说要在 Windows 里建立服务器才行？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;方案 2：Windows 原生 RDP 服务&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows 开启原生 RDP 服务&lt;/li&gt;
+&lt;li&gt;路由作端口转发 3389 到一个特定大端口&lt;/li&gt;
+&lt;li&gt;外部通过 &lt;code&gt;域名+大端口&lt;/code&gt; 访问&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;疑问&lt;/strong&gt;：不确定安全性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;方案 3：OpenVPN + RDP&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;疑问&lt;/strong&gt;：不知是否有必要&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;方案 4：Parsec&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;问题&lt;/strong&gt;：无 iOS 客户端&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
