@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 07 Jan 2026 23:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 23:38:47 GMT</lastBuildDate>
     <item>
       <title>2026 年的第一次相亲，还没开始就结束了（咨询向）</title>
       <link>https://www.v2ex.com/t/1183681</link>
@@ -158,31 +158,6 @@
 </description>
     </item>
     <item>
-      <title>Logi Options+ 证书过期了</title>
-      <link>https://www.v2ex.com/t/1183621</link>
-      <guid>v2ex-1183621</guid>
-      <pubDate>Tue, 06 Jan 2026 23:37:26 GMT</pubDate>
-      <description>&lt;p&gt;app 打不开，鼠标配置也加载不了&lt;/p&gt;
-&lt;p&gt;如果考虑到多设备切换，把配置放到电脑端好像也还合理？但这忘续证书了是何意啊&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt; ~/ codesign -dv --extract-certificates &quot;/Applications/logioptionsplus.app&quot;
-Executable=/Applications/logioptionsplus.app/Contents/MacOS/logioptionsplus
-Identifier=com.logi.optionsplus
-Format=app bundle with Mach-O universal (x86_64 arm64)
-CodeDirectory v=20500 size=768 flags=0x10000(runtime) hashes=13+7 location=embedded
-Signature size=8996
-Timestamp=Dec 1, 2025 at 2:10:23 PM
-Info.plist entries=32
-TeamIdentifier=QED4VVPZWA
-Runtime Version=14.0.0
-Sealed Resources version=2 rules=13 files=53
-Internal requirements count=1 size=180
- ~/ openssl x509 -in codesign0 -noout -dates
-notBefore=Jan  5 20:39:41 2021 GMT
-notAfter=Jan  6 20:39:41 2026 GMT
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    <item>
       <title>为什么罗技鼠标明明很容易变双击以及滚轮回滚，还那么多人推荐？</title>
       <link>https://www.v2ex.com/t/1183700</link>
       <guid>v2ex-1183700</guid>
@@ -251,6 +226,13 @@ notAfter=Jan  6 20:39:41 2026 GMT
       <pubDate>Wed, 07 Jan 2026 07:07:54 GMT</pubDate>
       <description>&lt;p&gt;之前一直是使用 idea 开发，这两年层出不穷的 AI 编辑器冒出来，想着尝试一下，但是因为都是用 vscode 改的，像 cursor 、trae 都是这么改的，使用起来感觉很难受，很不符合我一直以来的操作方式，例如方法的跳转以及 git 的操作，方法的跳转暂时还能忍一忍慢慢适应，git 相关的操作是真的接受不了。哎，目前又不得不慢慢使用起来（公司要求都要用专门的 AI 编辑器，已经在选型，看使用哪个了），想问问各位大佬，java 使用 vscode 有没有更无痛一点的迁移方式&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>推荐一些美剧 xdm</title>
+      <link>https://www.v2ex.com/t/1183685</link>
+      <guid>v2ex-1183685</guid>
+      <pubDate>Wed, 07 Jan 2026 03:11:51 GMT</pubDate>
+      <description>RT&lt;br /&gt;上周末通宵看完了怪奇物语&lt;br /&gt;收集一些本周的片子</description>
     </item>
   </channel>
 </rss>
