@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 08 Jan 2026 15:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 15:46:26 GMT</lastBuildDate>
     <item>
       <title>宜家中国 2 月份关闭全国 7 家店 太震惊了</title>
       <link>https://www.v2ex.com/t/1183891</link>
@@ -95,13 +95,6 @@
 </description>
     </item>
     <item>
-      <title>交管 12123 检测到代理闪退</title>
-      <link>https://www.v2ex.com/t/1183932</link>
-      <guid>v2ex-1183932</guid>
-      <pubDate>Thu, 08 Jan 2026 02:32:20 GMT</pubDate>
-      <description>昨天交管 12123 自动更新后，开始出现打开代理的时候会闪退，之前是没有的。现在感觉越来越多的国内 app 搞这个检测了，银行、保险的 app 还起码提示一下，这个 12123 啥也不说直接闪退。还有广电 app 也是，检测到代理直接闪退。</description>
-    </item>
-    <item>
       <title>各位的奶昔还能用吗？</title>
       <link>https://www.v2ex.com/t/1183900</link>
       <guid>v2ex-1183900</guid>
@@ -109,6 +102,13 @@
       <description>&lt;p&gt;官网访问不了
 所有节点失效&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>交管 12123 检测到代理闪退</title>
+      <link>https://www.v2ex.com/t/1183932</link>
+      <guid>v2ex-1183932</guid>
+      <pubDate>Thu, 08 Jan 2026 02:32:20 GMT</pubDate>
+      <description>昨天交管 12123 自动更新后，开始出现打开代理的时候会闪退，之前是没有的。现在感觉越来越多的国内 app 搞这个检测了，银行、保险的 app 还起码提示一下，这个 12123 啥也不说直接闪退。还有广电 app 也是，检测到代理直接闪退。</description>
     </item>
   </channel>
 </rss>
