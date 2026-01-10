@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 10 Jan 2026 10:41:31 GMT</lastBuildDate>
-    <item>
-      <title>求推荐个人永久音乐库方案</title>
-      <link>https://www.v2ex.com/t/1184387</link>
-      <guid>v2ex-1184387</guid>
-      <pubDate>Sat, 10 Jan 2026 01:41:43 GMT</pubDate>
-      <description>现在受版权影响，几乎所有厂家版权都不全，然后最恶心的是即使现在有版权，但的可能过个一两年又无法播放了。请问 v 友们是如何解决这个问题的</description>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 11:09:26 GMT</lastBuildDate>
     <item>
       <title>20260110 - /node/create</title>
       <link>https://www.v2ex.com/t/1184452</link>
@@ -51,6 +44,13 @@
 &lt;li&gt;Markdown 编辑器加入了一些基本的自动完成输入辅助。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    <item>
+      <title>求推荐个人永久音乐库方案</title>
+      <link>https://www.v2ex.com/t/1184387</link>
+      <guid>v2ex-1184387</guid>
+      <pubDate>Sat, 10 Jan 2026 01:41:43 GMT</pubDate>
+      <description>现在受版权影响，几乎所有厂家版权都不全，然后最恶心的是即使现在有版权，但的可能过个一两年又无法播放了。请问 v 友们是如何解决这个问题的</description>
     </item>
     <item>
       <title>当勤奋不再是稀缺资源，什么才是支撑一个国家竞争力的核心？</title>
@@ -109,33 +109,11 @@
 </description>
     </item>
     <item>
-      <title>antigravity generate commit message 功能突然无法使用了（Beta）</title>
-      <link>https://www.v2ex.com/t/1184361</link>
-      <guid>v2ex-1184361</guid>
-      <pubDate>Fri, 09 Jan 2026 14:37:04 GMT</pubDate>
-      <description>&lt;p&gt;antigravity 刚开始 generate commit message 功能，正常使用。&lt;/p&gt;
-&lt;p&gt;最近发现，在 antigravity 上点击 generate commit message 功能，会弹出错误，无法生成 commit 信息。&lt;/p&gt;
-&lt;p&gt;有人遇到类似问题吗？&lt;/p&gt;
-&lt;p&gt;PS： 其他的功能看起来都是正常的。&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;2026-01-09 22:34:15.736 [info] E0109 22:34:15.681222 30855 log.go:354] error converting token count to int: unleashWrapper is nil
-2026-01-09 22:34:21.338 [info] E0109 22:34:21.338463 30855 log.go:362] Failed to generate commit message: error grabbing LLM response: stream error
-2026-01-09 22:34:21.339 [info] E0109 22:34:21.339636 30855 interceptor.go:74] /exa.language_server_pb.LanguageServerService/GenerateCommitMessage (unknown): error grabbing LLM response: stream error
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;环境：&lt;/p&gt;
-&lt;p&gt;MacBook Pro (Retina, 15-inch, Mid 2015)
-12.7.4 (21H1123)&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;版本: Antigravity
-提交: 1.13.3
-日期: 1.104.0
-Electron: 94f91bc110994badc7c086033db813077a5226af
-ElectronBuildId: 2025-12-19T21:03:14.401Z
-Chromium: 37.3.1
-Node.js: 138.0.7204.235
-V8: 22.18.0
-OS: 13.8.258.31-electron.0
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <title>让我来看看我发的这条帖子的金币是怎么流转的</title>
+      <link>https://www.v2ex.com/t/1184468</link>
+      <guid>v2ex-1184468</guid>
+      <pubDate>Sat, 10 Jan 2026 10:00:08 GMT</pubDate>
+      <description>let&#39;s go</description>
     </item>
   </channel>
 </rss>
