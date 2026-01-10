@@ -4,17 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 10 Jan 2026 08:15:02 GMT</lastBuildDate>
-    <item>
-      <title>为什么聊洗碗机的最后都会吵起来</title>
-      <link>https://www.v2ex.com/t/1184284</link>
-      <guid>v2ex-1184284</guid>
-      <pubDate>Fri, 09 Jan 2026 08:14:11 GMT</pubDate>
-      <description>&lt;p&gt;隔段时间就会看到关于洗碗机的讨论。每次到最后都会吵起来。目测感觉是觉得好的人，比，觉得不好的人言辞稍微激动一点。&lt;/p&gt;
-&lt;p&gt;都是日用家电，扫地机器人或者烘干机什么的，讨论就没这么激烈。&lt;/p&gt;
-&lt;p&gt;挺好奇背后可能的原因。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 08:45:30 GMT</lastBuildDate>
     <item>
       <title>求推荐个人永久音乐库方案</title>
       <link>https://www.v2ex.com/t/1184387</link>
@@ -96,6 +86,14 @@
       <description>&lt;p&gt;想通过一个腾讯云的服务商优惠价购买服务器，来回折腾才知道一个腾讯云账户只能绑定一个商务，而我的账户的商务角色绑定了腾讯云自家的一个商务经理。这个商务经理平时也没啥搭理我，只是在双 11 这类人人都知道的促销活动时给我发活动通知（有一次问我促销活动来了有没有购买需求，我报了需求，结果给我发了官网首页直接可以找到的活动链接告诉我直接下单，汗…）&lt;/p&gt;
 &lt;p&gt;于是找腾讯云售后问如何更换商务经理，得到的答复是不能换。请问是真的不能换吗？有没有 v 友有成功更换商务经理的经历可以分享下方法？&lt;/p&gt;
 &lt;p&gt;我知道可以通过新开腾讯云账户来绑服务商，但我是想让计划新购的服务器与老服务器内网互通，为了这个优惠把老服务器业务搬到新账户下又觉得折腾成本太高……&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>艹，北京联通开始搞事情了，封了群晖 5001 端口</title>
+      <link>https://www.v2ex.com/t/1184390</link>
+      <guid>v2ex-1184390</guid>
+      <pubDate>Sat, 10 Jan 2026 01:55:41 GMT</pubDate>
+      <description>&lt;p&gt;打了客服，本地安装师傅反馈 确认在限制名单上，重复拨号换 IP 没用。&lt;/p&gt;
 </description>
     </item>
   </channel>
