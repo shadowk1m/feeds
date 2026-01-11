@@ -4,47 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 11 Jan 2026 08:45:32 GMT</lastBuildDate>
-    <item>
-      <title>20260110 - /node/create</title>
-      <link>https://www.v2ex.com/t/1184452</link>
-      <guid>v2ex-1184452</guid>
-      <pubDate>Sat, 10 Jan 2026 08:48:50 GMT</pubDate>
-      <description>&lt;p&gt;这周，V2EX 上线了一个新功能：你可以创建并管理一个自己的节点。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;定制节点的 URL 名，标题，头像图片，头部信息。将来，根据节点创建者的反馈，会继续提供更多的定制选项。&lt;/li&gt;
-&lt;li&gt;用户发布到你创建的节点时所消耗的铜币，会进入到节点金库，节点创建者可以从这个金库提取铜币。&lt;/li&gt;
-&lt;li&gt;节点创建者可以删除节点内的主题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;V2EX 的节点系统，作为一种对信息进行整理的方式，自从 2010 年这个版本的 V2EX 上线以来，已经覆盖了大量的有意思的话题。但如果这个系统能够开放给更多人，或许能推动一些全新的可能性：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;假设你正在做一款自己的软件，你需要一个用户社区收集反馈及和用户交互&lt;/li&gt;
-&lt;li&gt;你希望为自己的某项兴趣爱好创建一个专属的讨论节点&lt;/li&gt;
-&lt;li&gt;或者，只是为了获得 &lt;code&gt;/go/:name&lt;/code&gt; 里你想要的那个词&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;p&gt;创建节点：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/node/create&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/node/create&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;持有 50,000 $V2EX token&lt;/li&gt;
-&lt;li&gt;注册时间满 14 天&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;p&gt;这个功能，我希望能成为接下来一些更进一步新功能的起点：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;其他的全新的展示主题列表的方式（而不只是现在这样的列表方式）&lt;/li&gt;
-&lt;li&gt;把节点当作 Jira / Issue Tracker 使用（加入额外的方便项目管理的信息标注功能）&lt;/li&gt;
-&lt;li&gt;节点使用行为的更多细化配置（是否允许自己节点内主题内容的无限编辑，依附在节点级别的图片存储库）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;p&gt;同时，这周上线的版本里还修复了其他的一些细节问题：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;创建主题时由于 CSRF 过期而导致经常出现的「请重新提交这个请求」&lt;/li&gt;
-&lt;li&gt;更有用的相对时间显示。现在不会再显示如「 78 天前」这样的无意义相对时间。而是会根据相对时间是否跨月、跨年而以更精细的方式显示。&lt;/li&gt;
-&lt;li&gt;Markdown 编辑器加入了一些基本的自动完成输入辅助。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 09:12:24 GMT</lastBuildDate>
     <item>
       <title>对 A 股最大的误解： A 股是垃圾市场、割韭菜市场</title>
       <link>https://www.v2ex.com/t/1184569</link>
@@ -76,18 +36,18 @@
       <description>let&#39;s go</description>
     </item>
     <item>
-      <title>怎样让村里人知道我现在在北京月薪过万了啊，回家好相亲</title>
-      <link>https://www.v2ex.com/t/1184466</link>
-      <guid>v2ex-1184466</guid>
-      <pubDate>Sat, 10 Jan 2026 09:52:12 GMT</pubDate>
-      <description>怎样让村里人知道我现在在北京月薪过万了啊，回家好相亲</description>
-    </item>
-    <item>
       <title>有什么适合宝妈在家干的网络兼职工作推荐吗？挣个零花钱就行。。</title>
       <link>https://www.v2ex.com/t/1184589</link>
       <guid>v2ex-1184589</guid>
       <pubDate>Sun, 11 Jan 2026 03:25:06 GMT</pubDate>
       <description>有什么适合宝妈在家干的网络兼职工作推荐吗？挣个零花钱就行。。</description>
+    </item>
+    <item>
+      <title>怎样让村里人知道我现在在北京月薪过万了啊，回家好相亲</title>
+      <link>https://www.v2ex.com/t/1184466</link>
+      <guid>v2ex-1184466</guid>
+      <pubDate>Sat, 10 Jan 2026 09:52:12 GMT</pubDate>
+      <description>怎样让村里人知道我现在在北京月薪过万了啊，回家好相亲</description>
     </item>
     <item>
       <title>现在这 AI Codeing 工具也太多了,眼花缭乱了！你们主要用什么什么呀？</title>
@@ -116,6 +76,13 @@
 &lt;p&gt;大家有什么推荐的英语学习频道可以分享下。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/kylesean/lingo-tube&quot; rel=&quot;nofollow&quot;&gt;https://github.com/kylesean/lingo-tube&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>Hello, Welcome to NSFW</title>
+      <link>https://www.v2ex.com/t/1184490</link>
+      <guid>v2ex-1184490</guid>
+      <pubDate>Sat, 10 Jan 2026 11:45:32 GMT</pubDate>
+      <description>Hello, Welcome to NSFW</description>
     </item>
   </channel>
 </rss>
