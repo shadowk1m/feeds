@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 11 Jan 2026 15:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 16:12:59 GMT</lastBuildDate>
     <item>
       <title>对 A 股最大的误解： A 股是垃圾市场、割韭菜市场</title>
       <link>https://www.v2ex.com/t/1184569</link>
@@ -74,18 +74,49 @@
 </description>
     </item>
     <item>
-      <title>大家有任何券商的问题都可以问我，知无不言</title>
-      <link>https://www.v2ex.com/t/1184619</link>
-      <guid>v2ex-1184619</guid>
-      <pubDate>Sun, 11 Jan 2026 06:09:34 GMT</pubDate>
-      <description>第一帖，哈哈，测试下</description>
-    </item>
-    <item>
       <title>我擦，“死了么”冲到 ios 付费榜第一了</title>
       <link>https://www.v2ex.com/t/1184659</link>
       <guid>v2ex-1184659</guid>
       <pubDate>Sun, 11 Jan 2026 10:46:13 GMT</pubDate>
       <description>&lt;p&gt;&lt;img alt=&quot;1768128320161.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke3.picui.cn/s1/2026/01/11/69637f0889951.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[开源] 零成本基于 AI 的股票分析系统</title>
+      <link>https://www.v2ex.com/t/1184566</link>
+      <guid>v2ex-1184566</guid>
+      <pubDate>Sun, 11 Jan 2026 00:59:27 GMT</pubDate>
+      <description>&lt;p&gt;v 友们看看有没有参考价值，顺便帮忙点一个 star~ 🫶 🫰  &lt;/p&gt;
+&lt;h1&gt;项目地址&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ZhuLinsen/daily_stock_analysis&quot; rel=&quot;nofollow&quot;&gt;daily_stock_analysis&lt;/a&gt;
+&lt;a href=&quot;https://github.com/ZhuLinsen/daily_stock_analysis&quot; rel=&quot;nofollow&quot;&gt;daily_stock_analysis&lt;/a&gt;
+&lt;a href=&quot;https://github.com/ZhuLinsen/daily_stock_analysis&quot; rel=&quot;nofollow&quot;&gt;daily_stock_analysis&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;项目背景&lt;/h1&gt;
+&lt;p&gt;起初只是自己做一个帮忙分析自选股和大盘的工具，减少盯盘、盯股票分析的精力，后面本着开源精神开源出来，能够每天定时推送到企业微信上。用的都是免费的方案，github action + Gemini 的 API + Serpapi 和 TAVILY 的检索功能，免费额度足够日常使用&lt;/p&gt;
+&lt;h1&gt;核心功能亮点&lt;/h1&gt;
+&lt;p&gt;┌─────────────────────────────────────────────┐
+│  买入信号 | 信心度: 高 | 立即行动           │
+├─────────────────────────────────────────────┤
+│  一句话结论: 缩量回踩 MA5 ，最佳狙击点出现    │
+│                                             │
+│  数据透视                                   │
+│  ├─ 均线: MA5&amp;gt;MA10&amp;gt;MA20 多头排列 ✓          │
+│  ├─ 乖离率: 1.2% (安全区间) ✓               │
+│  ├─ 量比: 0.8 (缩量回调) ✓                  │
+│  └─ 筹码: 集中度 12%, 健康 ✓                 │
+│                                             │
+│  作战计划                                   │
+│  ├─ 理想买点: 25.50 元 (MA5 附近)            │
+│  ├─ 止损位: 24.00 元 (跌破 MA20)             │
+│  └─ 目标位: 28.00 元 (前高压力)             │
+└─────────────────────────────────────────────┘&lt;/p&gt;
+&lt;h2&gt;智能新闻聚合&lt;/h2&gt;
+&lt;p&gt;自动搜索股票相关新闻，AI 解读舆情风险&lt;/p&gt;
+&lt;h2&gt;大盘复盘报告&lt;/h2&gt;
+&lt;p&gt;每日自动生成大盘复盘&lt;/p&gt;
+&lt;h2&gt;企业微信实时推送&lt;/h2&gt;
+&lt;p&gt;分析完成后，直接推送到你的微信&lt;/p&gt;
+&lt;p&gt;后续会视情况进行完善，大家有想法可以在 v 站或者项目 issue 内留言&lt;/p&gt;
 </description>
     </item>
   </channel>
