@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 11 Jan 2026 17:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 17:38:51 GMT</lastBuildDate>
     <item>
       <title>对 A 股最大的误解： A 股是垃圾市场、割韭菜市场</title>
       <link>https://www.v2ex.com/t/1184569</link>
@@ -46,6 +46,15 @@
 </description>
     </item>
     <item>
+      <title>老黄给的免费 LLM API 用来做网页翻译用着很爽</title>
+      <link>https://www.v2ex.com/t/1184639</link>
+      <guid>v2ex-1184639</guid>
+      <pubDate>Sun, 11 Jan 2026 08:13:21 GMT</pubDate>
+      <description>&lt;p&gt;前几天折腾了一下，ministral-14b 配合魔改之后的某著名闭源翻译插件，效果极佳，速度也飞快&lt;/p&gt;
+&lt;p&gt;最爽的是卡都不用绑，唯一的限制是每分钟只能请求 40 次，对翻译场景绰绰有余&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>游隼夫妇的空中交接</title>
       <link>https://www.v2ex.com/t/1184614</link>
       <guid>v2ex-1184614</guid>
@@ -79,15 +88,6 @@
       <guid>v2ex-1184659</guid>
       <pubDate>Sun, 11 Jan 2026 10:46:13 GMT</pubDate>
       <description>&lt;p&gt;&lt;img alt=&quot;1768128320161.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke3.picui.cn/s1/2026/01/11/69637f0889951.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>老黄给的免费 LLM API 用来做网页翻译用着很爽</title>
-      <link>https://www.v2ex.com/t/1184639</link>
-      <guid>v2ex-1184639</guid>
-      <pubDate>Sun, 11 Jan 2026 08:13:21 GMT</pubDate>
-      <description>&lt;p&gt;前几天折腾了一下，ministral-14b 配合魔改之后的某著名闭源翻译插件，效果极佳，速度也飞快&lt;/p&gt;
-&lt;p&gt;最爽的是卡都不用绑，唯一的限制是每分钟只能请求 40 次，对翻译场景绰绰有余&lt;/p&gt;
 </description>
     </item>
   </channel>
