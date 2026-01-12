@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 12 Jan 2026 10:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 10:48:18 GMT</lastBuildDate>
     <item>
       <title>自助洗车店副业后续（又开了一家）</title>
       <link>https://www.v2ex.com/t/1184755</link>
@@ -70,14 +70,6 @@
 </description>
     </item>
     <item>
-      <title>我擦，“死了么”冲到 ios 付费榜第一了</title>
-      <link>https://www.v2ex.com/t/1184659</link>
-      <guid>v2ex-1184659</guid>
-      <pubDate>Sun, 11 Jan 2026 10:46:13 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;1768128320161.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke3.picui.cn/s1/2026/01/11/69637f0889951.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>[副业] 节点：聊聊你的副业，送 20-500 $V2EX 币（领赛博鸡蛋）</title>
       <link>https://www.v2ex.com/t/1184715</link>
       <guid>v2ex-1184715</guid>
@@ -134,6 +126,25 @@
 不按他的说明书上的一天三次&lt;br/&gt;
 这种吃法&lt;br/&gt;
 有人试过吗&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>好了好了好了 一提 AOP 就说打 log 那我知道你的水平了</title>
+      <link>https://www.v2ex.com/t/1184845</link>
+      <guid>v2ex-1184845</guid>
+      <pubDate>Mon, 12 Jan 2026 04:58:13 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;说出 5 - 10 个并发容器，再讲讲他们是如何保证线程安全的&lt;/li&gt;
+&lt;li&gt;好了好了 没必要展开讲一个设计模式 还有没有其他的&lt;/li&gt;
+&lt;li&gt;jvm 都有几种 oom? 你项目中只遇到过一种？行吧我知道了&lt;/li&gt;
+&lt;li&gt;行行 好这个问题可以了 没必要那么详细的解释&lt;/li&gt;
+&lt;li&gt;mongodb 内部是如何存储数据的 如何做集群的... 好好好 不用特别展开讲那么详细&lt;/li&gt;
+&lt;li&gt;k8s 、cicd, 项目经历，这些这些都不聊 今天是技术面，只聊 java 知识&lt;/li&gt;
+&lt;li&gt;你说你做过运营商的项目 你说几个运营商的名字 哦哦 只有欧洲的几个对吧 行行行
+...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上选自今天的飞书面试&lt;/p&gt;
+&lt;p&gt;随便吐槽两句，各位新年快乐。&lt;/p&gt;
 </description>
     </item>
   </channel>
