@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 13 Jan 2026 16:18:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 16:54:33 GMT</lastBuildDate>
     <item>
       <title>[CLAUDE] 送领千万 TOKEN</title>
       <link>https://www.v2ex.com/t/1185101</link>
@@ -546,19 +546,6 @@ makeAudioWork: function() {
 </description>
     </item>
     <item>
-      <title>2FA 感觉就是时代倒退的产物</title>
-      <link>https://www.v2ex.com/t/1185075</link>
-      <guid>v2ex-1185075</guid>
-      <pubDate>Mon, 12 Jan 2026 16:22:46 GMT</pubDate>
-      <description>&lt;p&gt;所谓的账号安全强制用 2fa 属于是因噎废食了, 完全不理解为啥国外大厂强制要求这玩意&lt;/p&gt;
-&lt;p&gt;你说他安全其实也是个纯靠手机才能使用的验证器, 这东西怎么看都不可能比短信安全&lt;/p&gt;
-&lt;p&gt;而且还容易丢失一丢失就完全无解, 纯纯的坑自己&lt;/p&gt;
-&lt;p&gt;印象里二十年前银行卡开通网上支付会送一个类似 2FA 的机器, 会隔几秒换一组数字作为验证码&lt;/p&gt;
-&lt;p&gt;结果后来线上支付发展起来之后, 这东西直接就淘汰了&lt;/p&gt;
-&lt;p&gt;国外那些人也不知道脑子里哪里出问题了, 把这玩意捡回来当个宝了&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>你们接受调岗+降薪吗，或者拿赔偿走人</title>
       <link>https://www.v2ex.com/t/1185100</link>
       <guid>v2ex-1185100</guid>
@@ -610,6 +597,23 @@ makeAudioWork: function() {
 &lt;li&gt;本来考虑到老人用，这个小程序的使用已经做得足够简单了。但是我教我老丈人（ 60 来岁）使用的时候，还是要说好几遍才行。所以对于老人来说，新的产品并不能上手就直接使用，一定需要培训才行。感觉这个拓展成本就高了。如果不能跟驿站合作，自己一个人的话肯定没精力。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;这个小程序本来也是自己做着玩（ vibe coding 练手），综合考虑以上的总总问题（特别是推广和大爷大妈培训问题，感觉一个人的精力弄不过来），一个月后就停止了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>赴日工作交流</title>
+      <link>https://www.v2ex.com/t/1185213</link>
+      <guid>v2ex-1185213</guid>
+      <pubDate>Tue, 13 Jan 2026 05:13:11 GMT</pubDate>
+      <description>&lt;p&gt;这是一个分享帖 分享我目前的思考状态.如果你也有这样的疑惑 或者建议给我。
+那种开口骂人 说不去干嘛 去了干嘛很绝对的嘴臭的就别回复了。&lt;/p&gt;
+&lt;p&gt;年龄:32
+学历:大专
+base:中部某城市 15k 无房未婚 首付可以 前些年漂泊广东 一个月 25k 的样子 现在过去也就 22k 985 的工作节奏了
+起因：纠结要不要去日本 找工作越来越难 学历+背景
+日本方面： 月给 23-28w  日语学了 5 个月了 n4 词汇 n5 口语 自己懒
+为什么去： 之前工作压力大 加班无止境 996 这个强度了吧 上班就是摸鱼 但是很折磨人 有 bug 就要开始被 diss  然后知道了去日本的机会 之前有一个月给 40w 的 但是放弃了，后来找到了华系派遣 就是这个 23w 的 去了日本基本在温饱线 啥时候日语过关了可以到 35w ；
+现在的纠结：觉得在国内混吃等死也挺好 都这个年龄了 勇气早被消耗了； 但是未来在哪里真不知道 去哪都是一个无底洞 悲观看法 乐观的度过每一天 但是很焦虑&lt;/p&gt;
+&lt;p&gt;其他：对日本的生活 派遣 上下班都有了解和预期的了解 都是通过多位在日生活多年 或者过去了一年的朋友 网游长时间对话得到了一个心里预期。总的来说是悲观看法。 甚至有在那边待了十多年，且对国内很了解的人建议是： 赚钱你别来 我如果是你我会考虑下 但是一个月如果可以在国内存 6-8k 加班不多的公司就别来了。 其实我是没信心的，但是日语原因我觉得很难 到日本达到 40w 的月给 需要一年 对吧？&lt;/p&gt;
 </description>
     </item>
   </channel>
