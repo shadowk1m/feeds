@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 13 Jan 2026 06:19:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 06:55:00 GMT</lastBuildDate>
     <item>
       <title>[CLAUDE] 送领千万 TOKEN</title>
       <link>https://www.v2ex.com/t/1185101</link>
@@ -24,13 +24,6 @@
 &lt;p&gt;结果后来线上支付发展起来之后, 这东西直接就淘汰了&lt;/p&gt;
 &lt;p&gt;国外那些人也不知道脑子里哪里出问题了, 把这玩意捡回来当个宝了&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>个人觉得差不多 200w 就可以提前退休了，前提</title>
-      <link>https://www.v2ex.com/t/1185090</link>
-      <guid>v2ex-1185090</guid>
-      <pubDate>Mon, 12 Jan 2026 23:15:14 GMT</pubDate>
-      <description>前提是无负债有房有车已婚有娃，能做到年化 15%左右的稳定收益。&lt;br /&gt;对物质的欲望不要太高，家人身体健康就可以。</description>
     </item>
     <item>
       <title>[深度揭露] 你爸妈的银行卡可能正在被&quot;偷钱&quot;——保险灰产的精密收割术</title>
@@ -535,6 +528,13 @@ makeAudioWork: function() {
 </description>
     </item>
     <item>
+      <title>个人觉得差不多 200w 就可以提前退休了，前提</title>
+      <link>https://www.v2ex.com/t/1185090</link>
+      <guid>v2ex-1185090</guid>
+      <pubDate>Mon, 12 Jan 2026 23:15:14 GMT</pubDate>
+      <description>前提是无负债有房有车已婚有娃，能做到年化 15%左右的稳定收益。&lt;br /&gt;对物质的欲望不要太高，家人身体健康就可以。</description>
+    </item>
+    <item>
       <title>你们接受调岗+降薪吗，或者拿赔偿走人</title>
       <link>https://www.v2ex.com/t/1185100</link>
       <guid>v2ex-1185100</guid>
@@ -562,13 +562,6 @@ makeAudioWork: function() {
 </description>
     </item>
     <item>
-      <title>领导承诺给好绩效，但是刚沟通绩效一般</title>
-      <link>https://www.v2ex.com/t/1184943</link>
-      <guid>v2ex-1184943</guid>
-      <pubDate>Mon, 12 Jan 2026 08:09:36 GMT</pubDate>
-      <description>领导承诺给好绩效，但是刚沟通绩效一般</description>
-    </item>
-    <item>
       <title>2026 年了 竟然还有程序员接受不了 lambda</title>
       <link>https://www.v2ex.com/t/1185183</link>
       <guid>v2ex-1185183</guid>
@@ -583,6 +576,35 @@ makeAudioWork: function() {
       <guid>v2ex-1185076</guid>
       <pubDate>Mon, 12 Jan 2026 16:25:09 GMT</pubDate>
       <description>都说中年男人爱好：NAS 、软路由、充电头和钓鱼&lt;br /&gt;&lt;br /&gt;所以我想做这么一个社区，定位就是中年男人的兴趣社区。不仅仅是发帖交流，而是把帖子的知识沉淀下来成为知识，当你对一个事情感兴趣的时候，有完整的新人指南和入门会用的资源（软硬件、装备推荐）。所以我称之为知识型兴趣社区。&lt;br /&gt;&lt;br /&gt;看过太多做社区失败的了，我也没信心，但是这个念头一但有了就挥之不去。&lt;br /&gt;&lt;br /&gt;还请各位给我建议！&lt;br /&gt;&lt;br /&gt;如果你有兴趣，可以先注册查看 Demo: &lt;a target=&quot;_blank&quot; href=&quot;https://www.middlefun.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.middlefun.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;花了心思参考 Vercel 的设计做了这么一张卡片，现在注册你就能看到它&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/nz1rIUh.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/nz1rIUh.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>分享一个失败的项目经历：一个利用小区空闲的大爷大妈帮领居取快递送上门的小程序</title>
+      <link>https://www.v2ex.com/t/1185161</link>
+      <guid>v2ex-1185161</guid>
+      <pubDate>Tue, 13 Jan 2026 03:00:42 GMT</pubDate>
+      <description>&lt;p&gt;每个小区总有一些大爷或大妈会到处收集废纸箱去卖。
+某一天我突然冒出一个点子，既然这些大爷大妈这么闲，而且愿意为了几毛钱就跑一趟，那么是否可以做一个平台（微信小程序）来让他们帮同小区的领居代取快递呢？&lt;/p&gt;
+&lt;p&gt;当时我是这么想的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;每个小区总有一群收集废纸箱的大爷大妈，他们也一定愿意有偿的帮别人取快递（送上门或放家门口）&lt;/li&gt;
+&lt;li&gt;现在电商这么发达，很多人一周有好几个快递。很多快递都放快递驿站，总有一些懒人愿意付费让别人代取快递（关键是费用多少）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;现在理论上这个平台的供需端都有了，那么可能还有哪些问题呢？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;如何找到需求端：小程序如何推广？&lt;/strong&gt; 直接和驿站合作，在驿站宣传。当时想的是驿站肯定也希望快递尽早被拿走，然后考虑从大爷大妈的代取费中再抽一定比例给驿站。这样驿站可能就愿意配合宣传。而且可以给大爷大妈培训如何使用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;如何找到供应端：不同小区的大爷大妈？&lt;/strong&gt;先找一个小区试点（我想的是自己小区，让我老丈人先开始），然后大爷大妈自己有个圈子会逐渐往周边小区扩散。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;如何吸引用户下单？&lt;/strong&gt;通过超低的价格。大爷大妈相比送美团外卖的骑手来说可以接受非常低的价格。而且大爷大妈本来就住在这个小区，天天在小区附近溜达，代取快递就是顺手的事情。所以用户的代取成本可以做到很低。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;到现在感觉整个模式都闭环了。有需求端，有供应端，而且感觉很容易进行匹配。自己虽然不是程序员，但是刚好在学习 vibe coding ，于是就想自己弄一个这样的小程序出来。&lt;/p&gt;
+&lt;p&gt;前后干了 2 个月手搓了一个叫&lt;strong&gt;「大爷快跑」&lt;/strong&gt; 的小程序（现在已经没有了），发布上线后之前想象的场景并没有出现。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;找快递驿站合作，他们不愿意合作。&lt;/li&gt;
+&lt;li&gt;直接在快递驿站贴广告宣传小程序（一个月 120 元）。结果半个月时间就几十个人扫码，但是一个下单的都没有（我下线后倒是有一个领居通过小程序客服联系想下单）。&lt;/li&gt;
+&lt;li&gt;通过朋友圈广告定位小区周边 500m 投放小程序试了一下，曝光上万次点击上百次，也是一个下单都没有。&lt;/li&gt;
+&lt;li&gt;本来考虑到老人用，这个小程序的使用已经做得足够简单了。但是我教我老丈人（ 60 来岁）使用的时候，还是要说好几遍才行。所以对于老人来说，新的产品并不能上手就直接使用，一定需要培训才行。感觉这个拓展成本就高了。如果不能跟驿站合作，自己一个人的话肯定没精力。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这个小程序本来也是自己做着玩（ vibe coding 练手），综合考虑以上的总总问题（特别是推广和大爷大妈培训问题，感觉一个人的精力弄不过来），一个月后就停止了。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
