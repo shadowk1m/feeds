@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 13 Jan 2026 02:51:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 03:58:14 GMT</lastBuildDate>
     <item>
       <title>2FA 感觉就是时代倒退的产物</title>
       <link>https://www.v2ex.com/t/1185075</link>
@@ -24,25 +24,6 @@
       <guid>v2ex-1185090</guid>
       <pubDate>Mon, 12 Jan 2026 23:15:14 GMT</pubDate>
       <description>前提是无负债有房有车已婚有娃，能做到年化 15%左右的稳定收益。&lt;br /&gt;对物质的欲望不要太高，家人身体健康就可以。</description>
-    </item>
-    <item>
-      <title>好了好了好了 一提 AOP 就说打 log 那我知道你的水平了</title>
-      <link>https://www.v2ex.com/t/1184845</link>
-      <guid>v2ex-1184845</guid>
-      <pubDate>Mon, 12 Jan 2026 04:58:13 GMT</pubDate>
-      <description>&lt;ul&gt;
-&lt;li&gt;说出 5 - 10 个并发容器，再讲讲他们是如何保证线程安全的&lt;/li&gt;
-&lt;li&gt;好了好了 没必要展开讲一个设计模式 还有没有其他的&lt;/li&gt;
-&lt;li&gt;jvm 都有几种 oom? 你项目中只遇到过一种？行吧我知道了&lt;/li&gt;
-&lt;li&gt;行行 好这个问题可以了 没必要那么详细的解释&lt;/li&gt;
-&lt;li&gt;mongodb 内部是如何存储数据的 如何做集群的... 好好好 不用特别展开讲那么详细&lt;/li&gt;
-&lt;li&gt;k8s 、cicd, 项目经历，这些这些都不聊 今天是技术面，只聊 java 知识&lt;/li&gt;
-&lt;li&gt;你说你做过运营商的项目 你说几个运营商的名字 哦哦 只有欧洲的几个对吧 行行行
-...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;以上选自今天的飞书面试&lt;/p&gt;
-&lt;p&gt;随便吐槽两句，各位新年快乐。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>[深度揭露] 你爸妈的银行卡可能正在被&quot;偷钱&quot;——保险灰产的精密收割术</title>
@@ -547,11 +528,46 @@ makeAudioWork: function() {
 </description>
     </item>
     <item>
+      <title>[CLAUDE] 送领千万 TOKEN</title>
+      <link>https://www.v2ex.com/t/1185101</link>
+      <guid>v2ex-1185101</guid>
+      <pubDate>Tue, 13 Jan 2026 01:07:16 GMT</pubDate>
+      <description>a‎i‎c‎o‎d‎i‎n‎&lt;a target=&quot;_blank&quot; href=&quot;http://g.sh&quot; rel=&quot;nofollow noopener&quot;&gt;g.sh&lt;/a&gt; (手动输入）&lt;br /&gt;&lt;br /&gt;- 新用户 留言或群组 均赠送 3000 &lt;br /&gt;- 积分约等于 cc 1 千万 codex 3 千万 TOKEN&lt;br /&gt;&lt;br /&gt;真 模型&lt;br /&gt;&lt;br /&gt;不替换&lt;br /&gt;不掺假</description>
+    </item>
+    <item>
       <title>你们接受调岗+降薪吗，或者拿赔偿走人</title>
       <link>https://www.v2ex.com/t/1185100</link>
       <guid>v2ex-1185100</guid>
       <pubDate>Tue, 13 Jan 2026 01:07:00 GMT</pubDate>
       <description>去年 6 月入职，元旦节后上班第一周通知我：公司现在接不上项目了，要进行一波裁员，25 年入职的几乎都要被裁员（我就是其中之一）。&lt;br /&gt;第一次约谈就是说这两周要走流程走人，发 n+1 赔偿和工资，我税前工资 5k ，赔偿加工资估计就 15k 左右。没有奖金和福利，年终也发的很少&lt;br /&gt;&lt;br /&gt;裁员的原因是因为公司是那种积分制，你参与的项目涉及到投入的成本和带来的效益，多劳多得&lt;br /&gt;客观来说就是公司那边没有项目，导致我手上干过的项目产生的积分和实际想要的差很多。以态度不积极（只干手上的活，不积极去接项目）裁员。&lt;br /&gt;主观来说就是，去年招我们入职是因为有一个很紧急的项目缺人手，把我们招进来，现在项目干的差不多了，就把我们开了。&lt;br /&gt;&lt;br /&gt;昨天第二次约谈，问是否接受调岗，目前别的部门缺人手，可以过去帮忙干活。但是会降薪，等公司度过难关就提高待遇。且降薪非针对本人，全公司都会降薪。我多次询问调岗待遇不会更好反而会降后，毅然决然跟领导说那我拿赔偿走人，也就是这周签订离职证明。&lt;br /&gt;&lt;br /&gt;个人想法就是年后再找吧，毕业到现在四年了，一直干的是外包，不知道接下来干什么。</description>
+    </item>
+    <item>
+      <title>好了好了好了 一提 AOP 就说打 log 那我知道你的水平了</title>
+      <link>https://www.v2ex.com/t/1184845</link>
+      <guid>v2ex-1184845</guid>
+      <pubDate>Mon, 12 Jan 2026 04:58:13 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;说出 5 - 10 个并发容器，再讲讲他们是如何保证线程安全的&lt;/li&gt;
+&lt;li&gt;好了好了 没必要展开讲一个设计模式 还有没有其他的&lt;/li&gt;
+&lt;li&gt;jvm 都有几种 oom? 你项目中只遇到过一种？行吧我知道了&lt;/li&gt;
+&lt;li&gt;行行 好这个问题可以了 没必要那么详细的解释&lt;/li&gt;
+&lt;li&gt;mongodb 内部是如何存储数据的 如何做集群的... 好好好 不用特别展开讲那么详细&lt;/li&gt;
+&lt;li&gt;k8s 、cicd, 项目经历，这些这些都不聊 今天是技术面，只聊 java 知识&lt;/li&gt;
+&lt;li&gt;你说你做过运营商的项目 你说几个运营商的名字 哦哦 只有欧洲的几个对吧 行行行
+...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上选自今天的飞书面试&lt;/p&gt;
+&lt;p&gt;随便吐槽两句，各位新年快乐。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>被家人介绍了一个带 10 岁男孩的，感觉受到了侮辱</title>
+      <link>https://www.v2ex.com/t/1185054</link>
+      <guid>v2ex-1185054</guid>
+      <pubDate>Mon, 12 Jan 2026 14:11:52 GMT</pubDate>
+      <description>&lt;p&gt;说是对方 22 岁就结婚了，因为男方不给她钱花，就离婚了，她自己带着一个 10 岁的男孩。我本人属蛇，马上本命年过了，虽然互联网行业最近几年确实不太行，但是一个人也是过得快活，手里也有躺平几十年的资本。
+我是真想不通，我在我家人面前难道真的就这么不堪吗？已经到了这一步了吗？我真的内心已经无语了。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>领导承诺给好绩效，但是刚沟通绩效一般</title>
@@ -578,28 +594,11 @@ makeAudioWork: function() {
 </description>
     </item>
     <item>
-      <title>被家人介绍了一个带 10 岁男孩的，感觉受到了侮辱</title>
-      <link>https://www.v2ex.com/t/1185054</link>
-      <guid>v2ex-1185054</guid>
-      <pubDate>Mon, 12 Jan 2026 14:11:52 GMT</pubDate>
-      <description>&lt;p&gt;说是对方 22 岁就结婚了，因为男方不给她钱花，就离婚了，她自己带着一个 10 岁的男孩。我本人属蛇，马上本命年过了，虽然互联网行业最近几年确实不太行，但是一个人也是过得快活，手里也有躺平几十年的资本。
-我是真想不通，我在我家人面前难道真的就这么不堪吗？已经到了这一步了吗？我真的内心已经无语了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>你打算挣够多少钱收手？</title>
       <link>https://www.v2ex.com/t/1184989</link>
       <guid>v2ex-1184989</guid>
       <pubDate>Mon, 12 Jan 2026 09:35:04 GMT</pubDate>
       <description>&lt;p&gt;听起来有点像黑话？我的意思是，你的总资产达到多少人民币，你就打算停止挣钱，躺平退休？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>做饭总是不知道吃什么菜</title>
-      <link>https://www.v2ex.com/t/1184820</link>
-      <guid>v2ex-1184820</guid>
-      <pubDate>Mon, 12 Jan 2026 03:28:31 GMT</pubDate>
-      <description>&lt;h5&gt;感觉身边的朋友吃的菜很丰富，但是我平时就总不知道吃什么，去菜市场感觉也就那几样。朋友们能帮忙推荐一些日常简单好吃的餐食么，先谢谢各位了&lt;/h5&gt;
 </description>
     </item>
   </channel>
