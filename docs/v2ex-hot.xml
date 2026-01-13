@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 13 Jan 2026 04:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 05:18:03 GMT</lastBuildDate>
     <item>
       <title>2FA 感觉就是时代倒退的产物</title>
       <link>https://www.v2ex.com/t/1185075</link>
@@ -19,18 +19,18 @@
 </description>
     </item>
     <item>
-      <title>个人觉得差不多 200w 就可以提前退休了，前提</title>
-      <link>https://www.v2ex.com/t/1185090</link>
-      <guid>v2ex-1185090</guid>
-      <pubDate>Mon, 12 Jan 2026 23:15:14 GMT</pubDate>
-      <description>前提是无负债有房有车已婚有娃，能做到年化 15%左右的稳定收益。&lt;br /&gt;对物质的欲望不要太高，家人身体健康就可以。</description>
-    </item>
-    <item>
       <title>[CLAUDE] 送领千万 TOKEN</title>
       <link>https://www.v2ex.com/t/1185101</link>
       <guid>v2ex-1185101</guid>
       <pubDate>Tue, 13 Jan 2026 01:07:16 GMT</pubDate>
       <description>a‎i‎c‎o‎d‎i‎n‎&lt;a target=&quot;_blank&quot; href=&quot;http://g.sh&quot; rel=&quot;nofollow noopener&quot;&gt;g.sh&lt;/a&gt; (手动输入）&lt;br /&gt;&lt;br /&gt;- 新用户 留言或群组 均赠送 3000 &lt;br /&gt;- 积分约等于 cc 1 千万 codex 3 千万 TOKEN&lt;br /&gt;&lt;br /&gt;真 模型&lt;br /&gt;&lt;br /&gt;不替换&lt;br /&gt;不掺假</description>
+    </item>
+    <item>
+      <title>个人觉得差不多 200w 就可以提前退休了，前提</title>
+      <link>https://www.v2ex.com/t/1185090</link>
+      <guid>v2ex-1185090</guid>
+      <pubDate>Mon, 12 Jan 2026 23:15:14 GMT</pubDate>
+      <description>前提是无负债有房有车已婚有娃，能做到年化 15%左右的稳定收益。&lt;br /&gt;对物质的欲望不要太高，家人身体健康就可以。</description>
     </item>
     <item>
       <title>[深度揭露] 你爸妈的银行卡可能正在被&quot;偷钱&quot;——保险灰产的精密收割术</title>
@@ -551,25 +551,6 @@ makeAudioWork: function() {
 </description>
     </item>
     <item>
-      <title>好了好了好了 一提 AOP 就说打 log 那我知道你的水平了</title>
-      <link>https://www.v2ex.com/t/1184845</link>
-      <guid>v2ex-1184845</guid>
-      <pubDate>Mon, 12 Jan 2026 04:58:13 GMT</pubDate>
-      <description>&lt;ul&gt;
-&lt;li&gt;说出 5 - 10 个并发容器，再讲讲他们是如何保证线程安全的&lt;/li&gt;
-&lt;li&gt;好了好了 没必要展开讲一个设计模式 还有没有其他的&lt;/li&gt;
-&lt;li&gt;jvm 都有几种 oom? 你项目中只遇到过一种？行吧我知道了&lt;/li&gt;
-&lt;li&gt;行行 好这个问题可以了 没必要那么详细的解释&lt;/li&gt;
-&lt;li&gt;mongodb 内部是如何存储数据的 如何做集群的... 好好好 不用特别展开讲那么详细&lt;/li&gt;
-&lt;li&gt;k8s 、cicd, 项目经历，这些这些都不聊 今天是技术面，只聊 java 知识&lt;/li&gt;
-&lt;li&gt;你说你做过运营商的项目 你说几个运营商的名字 哦哦 只有欧洲的几个对吧 行行行
-...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;以上选自今天的飞书面试&lt;/p&gt;
-&lt;p&gt;随便吐槽两句，各位新年快乐。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>领导承诺给好绩效，但是刚沟通绩效一般</title>
       <link>https://www.v2ex.com/t/1184943</link>
       <guid>v2ex-1184943</guid>
@@ -599,6 +580,17 @@ makeAudioWork: function() {
       <guid>v2ex-1185076</guid>
       <pubDate>Mon, 12 Jan 2026 16:25:09 GMT</pubDate>
       <description>都说中年男人爱好：NAS 、软路由、充电头和钓鱼&lt;br /&gt;&lt;br /&gt;所以我想做这么一个社区，定位就是中年男人的兴趣社区。不仅仅是发帖交流，而是把帖子的知识沉淀下来成为知识，当你对一个事情感兴趣的时候，有完整的新人指南和入门会用的资源（软硬件、装备推荐）。所以我称之为知识型兴趣社区。&lt;br /&gt;&lt;br /&gt;看过太多做社区失败的了，我也没信心，但是这个念头一但有了就挥之不去。&lt;br /&gt;&lt;br /&gt;还请各位给我建议！&lt;br /&gt;&lt;br /&gt;如果你有兴趣，可以先注册查看 Demo: &lt;a target=&quot;_blank&quot; href=&quot;https://www.middlefun.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.middlefun.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;花了心思参考 Vercel 的设计做了这么一张卡片，现在注册你就能看到它&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/nz1rIUh.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/nz1rIUh.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>零基础，怎么学习投资理财，路径应该怎么规划？</title>
+      <link>https://www.v2ex.com/t/1185142</link>
+      <guid>v2ex-1185142</guid>
+      <pubDate>Tue, 13 Jan 2026 02:25:06 GMT</pubDate>
+      <description>&lt;p&gt;1.零基础，想自学投资理财，在慕课网，看的 中央财经大学 投资学 课程&lt;/p&gt;
+&lt;p&gt;2.感觉太难了，capm 、atp 、 债券利率、各种收益率，资产估值，定价 、现金流  等等，对零基础小白来说，太难了！&lt;/p&gt;
+&lt;p&gt;3.求重新规划学习路径，先看什么书和课程，然后看什么，最后看什么&lt;/p&gt;
+&lt;p&gt;4.主要学习，价值投资方面的，基金定投之类的，资产估值、定价、配置的之类的知识&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
