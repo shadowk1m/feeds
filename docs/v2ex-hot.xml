@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 13 Jan 2026 07:42:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:17:57 GMT</lastBuildDate>
     <item>
       <title>[CLAUDE] 送领千万 TOKEN</title>
       <link>https://www.v2ex.com/t/1185101</link>
@@ -535,6 +535,15 @@ makeAudioWork: function() {
 </description>
     </item>
     <item>
+      <title>2026 年了 竟然还有程序员接受不了 lambda</title>
+      <link>https://www.v2ex.com/t/1185183</link>
+      <guid>v2ex-1185183</guid>
+      <pubDate>Tue, 13 Jan 2026 03:31:22 GMT</pubDate>
+      <description>&lt;p&gt;新招了一个 30 岁左右的 Java 后端，表示接受不了 lambda 。对于 TS 也比较抵触。
+来了两天。友好协商离职。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>被家人介绍了一个带 10 岁男孩的，感觉受到了侮辱</title>
       <link>https://www.v2ex.com/t/1185054</link>
       <guid>v2ex-1185054</guid>
@@ -551,15 +560,6 @@ makeAudioWork: function() {
       <description>去年 6 月入职，元旦节后上班第一周通知我：公司现在接不上项目了，要进行一波裁员，25 年入职的几乎都要被裁员（我就是其中之一）。&lt;br /&gt;第一次约谈就是说这两周要走流程走人，发 n+1 赔偿和工资，我税前工资 5k ，赔偿加工资估计就 15k 左右。没有奖金和福利，年终也发的很少&lt;br /&gt;&lt;br /&gt;裁员的原因是因为公司是那种积分制，你参与的项目涉及到投入的成本和带来的效益，多劳多得&lt;br /&gt;客观来说就是公司那边没有项目，导致我手上干过的项目产生的积分和实际想要的差很多。以态度不积极（只干手上的活，不积极去接项目）裁员。&lt;br /&gt;主观来说就是，去年招我们入职是因为有一个很紧急的项目缺人手，把我们招进来，现在项目干的差不多了，就把我们开了。&lt;br /&gt;&lt;br /&gt;昨天第二次约谈，问是否接受调岗，目前别的部门缺人手，可以过去帮忙干活。但是会降薪，等公司度过难关就提高待遇。且降薪非针对本人，全公司都会降薪。我多次询问调岗待遇不会更好反而会降后，毅然决然跟领导说那我拿赔偿走人，也就是这周签订离职证明。&lt;br /&gt;&lt;br /&gt;个人想法就是年后再找吧，毕业到现在四年了，一直干的是外包，不知道接下来干什么。</description>
     </item>
     <item>
-      <title>2026 年了 竟然还有程序员接受不了 lambda</title>
-      <link>https://www.v2ex.com/t/1185183</link>
-      <guid>v2ex-1185183</guid>
-      <pubDate>Tue, 13 Jan 2026 03:31:22 GMT</pubDate>
-      <description>&lt;p&gt;新招了一个 30 岁左右的 Java 后端，表示接受不了 lambda 。对于 TS 也比较抵触。
-来了两天。友好协商离职。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>零基础，怎么学习投资理财，路径应该怎么规划？</title>
       <link>https://www.v2ex.com/t/1185142</link>
       <guid>v2ex-1185142</guid>
@@ -571,40 +571,26 @@ makeAudioWork: function() {
 </description>
     </item>
     <item>
-      <title>2026 年想做一个关于中年男人兴趣的社区，求打醒我</title>
-      <link>https://www.v2ex.com/t/1185076</link>
-      <guid>v2ex-1185076</guid>
-      <pubDate>Mon, 12 Jan 2026 16:25:09 GMT</pubDate>
-      <description>都说中年男人爱好：NAS 、软路由、充电头和钓鱼&lt;br /&gt;&lt;br /&gt;所以我想做这么一个社区，定位就是中年男人的兴趣社区。不仅仅是发帖交流，而是把帖子的知识沉淀下来成为知识，当你对一个事情感兴趣的时候，有完整的新人指南和入门会用的资源（软硬件、装备推荐）。所以我称之为知识型兴趣社区。&lt;br /&gt;&lt;br /&gt;看过太多做社区失败的了，我也没信心，但是这个念头一但有了就挥之不去。&lt;br /&gt;&lt;br /&gt;还请各位给我建议！&lt;br /&gt;&lt;br /&gt;如果你有兴趣，可以先注册查看 Demo: &lt;a target=&quot;_blank&quot; href=&quot;https://www.middlefun.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.middlefun.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;花了心思参考 Vercel 的设计做了这么一张卡片，现在注册你就能看到它&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/nz1rIUh.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/nz1rIUh.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+      <title>小白，第一次去过商 K 后有点上头了怎么办</title>
+      <link>https://www.v2ex.com/t/1185250</link>
+      <guid>v2ex-1185250</guid>
+      <pubDate>Tue, 13 Jan 2026 06:41:32 GMT</pubDate>
+      <description>&lt;p&gt;领导带我们商 K 犒劳我们，一开始我是不知道的，到地方才感觉出来。。&lt;/p&gt;
+&lt;p&gt;本能想逃避，但为了工作还是忍忍吧。。&lt;/p&gt;
+&lt;p&gt;不知道是幸运还是怎得，能在商 K 这种地方遇到一个长得像白月光的&lt;/p&gt;
+&lt;p&gt;她走进来的那一刻我人都傻了。。 ，有人三分似你我便慌了神。&lt;/p&gt;
+&lt;p&gt;意料之中选了她，然后就简单的聊一聊，&lt;/p&gt;
+&lt;p&gt;我不会玩那种喝酒猜骰子，最后让她把我教会了。。&lt;/p&gt;
+&lt;p&gt;厕所出来给递纸、水没了给倒、递水果瓜子，唠嗑等等，不过我顶着六个月没理的头发也是苦了妹妹了&lt;/p&gt;
+&lt;p&gt;整个过程没有亲密接触，虽然知道这一切都是假的，但感觉有点留恋上头啊。。&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>分享一个失败的项目经历：一个利用小区空闲的大爷大妈帮领居取快递送上门的小程序</title>
-      <link>https://www.v2ex.com/t/1185161</link>
-      <guid>v2ex-1185161</guid>
-      <pubDate>Tue, 13 Jan 2026 03:00:42 GMT</pubDate>
-      <description>&lt;p&gt;每个小区总有一些大爷或大妈会到处收集废纸箱去卖。
-某一天我突然冒出一个点子，既然这些大爷大妈这么闲，而且愿意为了几毛钱就跑一趟，那么是否可以做一个平台（微信小程序）来让他们帮同小区的领居代取快递呢？&lt;/p&gt;
-&lt;p&gt;当时我是这么想的：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;每个小区总有一群收集废纸箱的大爷大妈，他们也一定愿意有偿的帮别人取快递（送上门或放家门口）&lt;/li&gt;
-&lt;li&gt;现在电商这么发达，很多人一周有好几个快递。很多快递都放快递驿站，总有一些懒人愿意付费让别人代取快递（关键是费用多少）。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;现在理论上这个平台的供需端都有了，那么可能还有哪些问题呢？&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;如何找到需求端：小程序如何推广？&lt;/strong&gt; 直接和驿站合作，在驿站宣传。当时想的是驿站肯定也希望快递尽早被拿走，然后考虑从大爷大妈的代取费中再抽一定比例给驿站。这样驿站可能就愿意配合宣传。而且可以给大爷大妈培训如何使用。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;如何找到供应端：不同小区的大爷大妈？&lt;/strong&gt;先找一个小区试点（我想的是自己小区，让我老丈人先开始），然后大爷大妈自己有个圈子会逐渐往周边小区扩散。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;如何吸引用户下单？&lt;/strong&gt;通过超低的价格。大爷大妈相比送美团外卖的骑手来说可以接受非常低的价格。而且大爷大妈本来就住在这个小区，天天在小区附近溜达，代取快递就是顺手的事情。所以用户的代取成本可以做到很低。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;到现在感觉整个模式都闭环了。有需求端，有供应端，而且感觉很容易进行匹配。自己虽然不是程序员，但是刚好在学习 vibe coding ，于是就想自己弄一个这样的小程序出来。&lt;/p&gt;
-&lt;p&gt;前后干了 2 个月手搓了一个叫&lt;strong&gt;「大爷快跑」&lt;/strong&gt; 的小程序（现在已经没有了），发布上线后之前想象的场景并没有出现。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;找快递驿站合作，他们不愿意合作。&lt;/li&gt;
-&lt;li&gt;直接在快递驿站贴广告宣传小程序（一个月 120 元）。结果半个月时间就几十个人扫码，但是一个下单的都没有（我下线后倒是有一个领居通过小程序客服联系想下单）。&lt;/li&gt;
-&lt;li&gt;通过朋友圈广告定位小区周边 500m 投放小程序试了一下，曝光上万次点击上百次，也是一个下单都没有。&lt;/li&gt;
-&lt;li&gt;本来考虑到老人用，这个小程序的使用已经做得足够简单了。但是我教我老丈人（ 60 来岁）使用的时候，还是要说好几遍才行。所以对于老人来说，新的产品并不能上手就直接使用，一定需要培训才行。感觉这个拓展成本就高了。如果不能跟驿站合作，自己一个人的话肯定没精力。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;这个小程序本来也是自己做着玩（ vibe coding 练手），综合考虑以上的总总问题（特别是推广和大爷大妈培训问题，感觉一个人的精力弄不过来），一个月后就停止了。&lt;/p&gt;
-</description>
+      <title>相亲后续</title>
+      <link>https://www.v2ex.com/t/1185166</link>
+      <guid>v2ex-1185166</guid>
+      <pubDate>Tue, 13 Jan 2026 03:09:38 GMT</pubDate>
+      <description>我们本来已经有几天没联系了。&lt;br /&gt;她突然发我，说最近心情不好，问我有没有空出来喝一杯。&lt;br /&gt;我看到消息的时候，其实已经知道结局会是什么。&lt;br /&gt;我也知道自己不该答应。&lt;br /&gt;但我还是回了“可以”。&lt;br /&gt;见面的时候她明显比之前依赖我，说话时总是往我这边靠。她讲工作、讲家里、讲自己最近睡不好。我一边听，一边在心里判断：她现在需要的不是我，是一个能抱着她的人。&lt;br /&gt;而我刚好在场。&lt;br /&gt;后来发生的事情并不复杂。酒精、夜晚、熟悉感，顺理成章。她没有拒绝，我也没有确认。我们都默认继续往前，好像只要不说清楚，就不用为后果负责。&lt;br /&gt;在酒店里，她靠过来的时候，我没有任何犹豫。&lt;br /&gt;那一刻我甚至有点安心——&lt;br /&gt;至少我还能被需要。&lt;br /&gt;结束之后，她贴得很近，说了一句：“我还以为你不会再见我了。”&lt;br /&gt;我没有回答，只是点了点头。&lt;br /&gt;我不想骗她，但我更不想解释。&lt;br /&gt;第二天醒来，我比她早。她还在睡，表情很放松，像是终于抓住了什么。我看着她，心里却异常冷静，甚至已经在计划怎么把这件事收尾。&lt;br /&gt;离开的时候，我给她发了条消息，说我临时有事先走了。&lt;br /&gt;她回了一个“好”，后面跟着一个笑脸。&lt;br /&gt;接下来几天，她明显变得主动。&lt;br /&gt;问我有没有到家，问我下次什么时候见面，开始用那种已经默认我们“更近一步”的语气。&lt;br /&gt;而我开始后退。&lt;br /&gt;回复越来越慢，话越来越短。&lt;br /&gt;不是突然消失，而是逐步撤离——&lt;br /&gt;这是我最擅长的方式。&lt;br /&gt;终于有一天，她问我：“你是不是不打算继续了？”&lt;br /&gt;我盯着那行字看了很久。&lt;br /&gt;最后回她：“我觉得我们还是不太合适。”&lt;br /&gt;她很久没有回复。&lt;br /&gt;等她再说话的时候，只问了一句：“那你为什么还要和我那样？”&lt;br /&gt;这个问题我回答不了。&lt;br /&gt;因为真实答案太难听。&lt;br /&gt;我只能说：“对不起，是我没想清楚。”&lt;br /&gt;这是我能给出的最高级别的歉意了。&lt;br /&gt;后来我们就真的没再联系。&lt;br /&gt;她应该很难受过一阵子，但我没有去确认。&lt;br /&gt;确认意味着责任，而我从一开始就没打算承担。&lt;br /&gt;现在回头看，那一晚对我来说，只是一次确认：&lt;br /&gt;我依然可以靠近别人，却依然不打算留下。&lt;br /&gt;如果她觉得被利用了，那她的感觉是对的。&lt;br /&gt;而我也并不打算为此辩解。&lt;br /&gt;我确实和她上了床，&lt;br /&gt;然后选择了不要她。</description>
     </item>
   </channel>
 </rss>
