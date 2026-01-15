@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 15 Jan 2026 07:42:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 08:18:11 GMT</lastBuildDate>
     <item>
       <title>凌晨 4 点查了下家里的账单再也睡不着了</title>
       <link>https://www.v2ex.com/t/1185647</link>
@@ -21,6 +21,14 @@
 </description>
     </item>
     <item>
+      <title>能不能收一下味儿，不吹牛会死是吧</title>
+      <link>https://www.v2ex.com/t/1185865</link>
+      <guid>v2ex-1185865</guid>
+      <pubDate>Thu, 15 Jan 2026 04:02:14 GMT</pubDate>
+      <description>&lt;p&gt;周一入职了个 v 友，他说现在是 AI 时代，1 个人就是 1 个团队，他可以干好几个人的活，结果只干 3 天就跑路了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>公交地铁，为什么还是用二维码扫码的多？</title>
       <link>https://www.v2ex.com/t/1185815</link>
       <guid>v2ex-1185815</guid>
@@ -28,14 +36,6 @@
       <description>&lt;p&gt;公交地铁，为什么还是用二维码扫码的多？&lt;/p&gt;
 &lt;p&gt;NFC 手机支付开通的城市已经非常多了，刷卡速度也非常快，成功率还高。但现在经常一堆人排队等在刷卡机前，刷二维码失败，重新打开，再刷，没对准，挪一挪再试试。&lt;/p&gt;
 &lt;p&gt;公交地铁公司虽支持，但也没有推广手机 NFC 的刷卡方式，这是什么原因呢？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>能不能收一下味儿，不吹牛会死是吧</title>
-      <link>https://www.v2ex.com/t/1185865</link>
-      <guid>v2ex-1185865</guid>
-      <pubDate>Thu, 15 Jan 2026 04:02:14 GMT</pubDate>
-      <description>&lt;p&gt;周一入职了个 v 友，他说现在是 AI 时代，1 个人就是 1 个团队，他可以干好几个人的活，结果只干 3 天就跑路了。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -56,27 +56,21 @@
 </description>
     </item>
     <item>
-      <title>中国的房价真的会重走日本的老路吗？</title>
-      <link>https://www.v2ex.com/t/1185620</link>
-      <guid>v2ex-1185620</guid>
-      <pubDate>Wed, 14 Jan 2026 07:46:54 GMT</pubDate>
-      <description>&lt;p&gt;我当前的房子价格 150 左右。出租 3300 左右。出租毛收益：2.64%。如果要达到当年日本房价企稳的 6%的收益率，房价得跌到 66 万。
-以下都是 GPT 给出的数据。
-日本式“合理区间”的核心标准&lt;/p&gt;
-&lt;p&gt;住宅毛收益率 ≈ 6%～ 8%
-（这是日本房价真正止跌、开始有长期资金进入的区间）&lt;/p&gt;
-&lt;p&gt;日本住宅出租毛收益率 ≈ 6% 时：
-•	银行定期存款利率：约 0.1%～ 0.3%
-•	10 年期国债收益率：约 1.0%～ 1.5%&lt;/p&gt;
-&lt;p&gt;👉 房租收益率比无风险利率高：约 4 ～ 5 个百分点&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>如果暴富了第一件事是做什么？</title>
       <link>https://www.v2ex.com/t/1185671</link>
       <guid>v2ex-1185671</guid>
       <pubDate>Wed, 14 Jan 2026 09:34:33 GMT</pubDate>
       <description>在网上冲浪，看到某群友发了一张微博截图，说是 B 站 一位 UP 宣布停更，要去追求世界的真理了。传这一年来炒股挣了 1500w ,直接去享受人生了。yy 自己如果突然间暴富，牛马一枚，应该会选择找个轻松，不卷，的工作直接躺平，然后 “浑浑噩噩” 的过完自己的一生 哈哈哈哈</description>
+    </item>
+    <item>
+      <title>你们的私人项目 git 库现在都保持到哪里？</title>
+      <link>https://www.v2ex.com/t/1185792</link>
+      <guid>v2ex-1185792</guid>
+      <pubDate>Thu, 15 Jan 2026 01:38:03 GMT</pubDate>
+      <description>&lt;p&gt;之前一直使用的是 github ，用代理的话速度也还可以，并且现在 github 的私有库之类都比较方便，没有太多限制。 做一些外包跟国内朋友一起合作的时候，会选择用 gitee ，在一大部分小公司也都是用 gitee 。 但是 gitee 给的免费以及付费的限制还是比较多，比如仓库超过 1G 就很麻烦，就是用 git LFS ，这个容量也不够大。&lt;br/&gt;
+最近发现腾讯新出的 cnb.cool ，给的容量极其慷慨，感觉是 gitee 的付费版几十倍，之前几次活动获取到一些永久权益，云开发、云构建量也很大。 就是比较新，不知道长期用是否稳定。  &lt;/p&gt;
+&lt;p&gt;你们现在自己的项目都怎么存的？ 就说自己的，公司里的老板说用什么我就赞成用什么。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>[终身会员] [iOS/Watch 送码] 基于 Apple Watch 的健康 App&amp;苹果手表的文件管理器。</title>
@@ -126,13 +120,12 @@
 </description>
     </item>
     <item>
-      <title>你们的私人项目 git 库现在都保持到哪里？</title>
-      <link>https://www.v2ex.com/t/1185792</link>
-      <guid>v2ex-1185792</guid>
-      <pubDate>Thu, 15 Jan 2026 01:38:03 GMT</pubDate>
-      <description>&lt;p&gt;之前一直使用的是 github ，用代理的话速度也还可以，并且现在 github 的私有库之类都比较方便，没有太多限制。 做一些外包跟国内朋友一起合作的时候，会选择用 gitee ，在一大部分小公司也都是用 gitee 。 但是 gitee 给的免费以及付费的限制还是比较多，比如仓库超过 1G 就很麻烦，就是用 git LFS ，这个容量也不够大。&lt;br/&gt;
-最近发现腾讯新出的 cnb.cool ，给的容量极其慷慨，感觉是 gitee 的付费版几十倍，之前几次活动获取到一些永久权益，云开发、云构建量也很大。 就是比较新，不知道长期用是否稳定。  &lt;/p&gt;
-&lt;p&gt;你们现在自己的项目都怎么存的？ 就说自己的，公司里的老板说用什么我就赞成用什么。&lt;/p&gt;
+      <title>为什么会控制不住的想喝酒？</title>
+      <link>https://www.v2ex.com/t/1185788</link>
+      <guid>v2ex-1185788</guid>
+      <pubDate>Thu, 15 Jan 2026 01:29:24 GMT</pubDate>
+      <description>&lt;p&gt;v 佬们有没有喜欢自己一个人喝的？&lt;/p&gt;
+&lt;p&gt;喝多之后头痛发誓再也不喝了 过了两天又想喝。&lt;/p&gt;
 </description>
     </item>
   </channel>
