@@ -4,30 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 16 Jan 2026 08:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 09:17:19 GMT</lastBuildDate>
     <item>
       <title>曾睡过的女同学，经常联系我吐槽婚姻里的不愉快，但我也有家庭啊</title>
       <link>https://www.v2ex.com/t/1186095</link>
       <guid>v2ex-1186095</guid>
       <pubDate>Fri, 16 Jan 2026 01:17:07 GMT</pubDate>
       <description>这是我初一的同班女朋学，初二初三就不在一个班了。那时候她是我前桌的前桌，班里漂亮的有几个，但她是长得最高的一个，我还记得那时候用书纸编菠萝，她还过来给我帮忙，跳操还是我都舞伴，当时我们是两男两女，四个人一起跳。别的就不回忆了。大学毕业后我一直在北京工作，有次坐大巴回家看到了她，但不敢认，多方打听后知道确实是她，然后我就加了她 QQ 好友，当时的验证消息我写的是：昔日的女神你现在好吗。然后我们加了 QQ 好友，细节不说了总之就是经常聊天，因为本身就是老同学，有很多的共同话题，但是她有对象，是她的高中同学，不在北京。&lt;br /&gt;只要是她回家，我必回家，往返我们都在一个大巴坐在一起，互相给对方占位置。聊的就太多太多了，记得她让我教她游泳，我教了，在水立方的游泳馆，后来她搬家了，说是距离天坛很近，叫我有空了一起去天坛，老夫自然不会放过每一个相处的机会，这里不多说细节了，总之就是去天坛了、看电影了、吃饭了、送她回家了、晚上睡在一起了，睡一起这种事情有第一次就有第二次，持续了不到半年吧，不算同居也大差不差，但有一点，我们不是互相的对象，也没有互相表白过。之后她就不在北京工作了，家里给介绍了稳定的工作，她就回老家了（我们两个的老家都是同一县城），在之后她就和她对象结婚了。前段时间和我聊天说她不幸福，哪哪不好，我说不应该啊，看你总发旅游照片、晒鲜花、晒美食，看上去挺好的啊，她说看着好不一定真好，那些只是表面而已。然后就隔三岔五的找我吐槽，我现在真就怕我回家了，她在和我吐槽被我媳妇看到，就不好了</description>
-    </item>
-    <item>
-      <title>2026 年选 mac 还是 win，一起交流下</title>
-      <link>https://www.v2ex.com/t/1185955</link>
-      <guid>v2ex-1185955</guid>
-      <pubDate>Thu, 15 Jan 2026 08:53:34 GMT</pubDate>
-      <description>&lt;p&gt;我是 15 年左右就用 macbookair
-后来用了 macbook （散热太差送人了）
-用了一段时间苏菲 p
-之后 19 年买了 mbp 16g ，当时好贵，用了我妹的教育优惠还花了 1.3w
-下一款忘记是 21 年还是 22 年买的外星人 x15r2 ，专门选了 32g 内存
-前段时刻时间觉得一直很吵（之前也很吵最近更吵），而且内存都占用到 29g ，主要我这代不能加内存，无语了
-想着 x 准备换了，然后买了幻 x2025 128g 那个，我主要 win 是安装 docker
-跑的一个 bt 面板 php ，一个 python ，然后业余 cocosk 和 ue5 开发点小的游戏，其实用着还行，也有点吵，但是我买的那台屏幕下边漏光，检测后 jd 给退了，昨天去实体店看看，标的秒送 18399x ，想得还比 jd 自营还划算，去店里，刚给他们看下直接当我的面把机子下掉让最少加 500 。rog 还是武汉这边梦时代旗舰店，太恶心人了，让我放弃了这玩意。
-主要是之前内存小给我用烦了，所以目前看的是 m3max 48+1t 这个 20899 ，m4pro 有一台 48+512 19899 两个都是 16 寸的，今天还看到一台外板准新的 m3max 128g 8t 28000 但是是 14 寸，目前打算不知道 48 够不够，如果够可能随便选一个都可以，然后 win 的要不要考虑，还有就是 128g 那个怎么样？大佬们给出出主意，我大概每天高频使用，主要写代码和做方案，每年大概 300 天左右都每天 12 个小时左右，强度稍微有点高
-我希望稳定点，至少 3 年内不卡&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>身边的人不爱喝纯牛奶</title>
@@ -185,6 +168,15 @@ eb3182a9a29e4482a73717c8e183638b
 </description>
     </item>
     <item>
+      <title>天天叫 AI 编程多厉害，真用起来气死个人啊，到底是谁说不用自己写啊</title>
+      <link>https://www.v2ex.com/t/1186218</link>
+      <guid>v2ex-1186218</guid>
+      <pubDate>Fri, 16 Jan 2026 06:15:48 GMT</pubDate>
+      <description>&lt;p&gt;我写公司的一些底层框架，说个需求让 AI 嘎嘎给你一顿写，乍一看也算是实现了，但是细节太难受了，这里不考虑缓存击穿，那里不考虑性能问题。&lt;/p&gt;
+&lt;p&gt;有啥技巧没？请教一下大家&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>写在千问 Agent 破圈的前夜：程序员的未来判断</title>
       <link>https://www.v2ex.com/t/1186087</link>
       <guid>v2ex-1186087</guid>
@@ -244,22 +236,6 @@ eb3182a9a29e4482a73717c8e183638b
 </description>
     </item>
     <item>
-      <title>天天叫 AI 编程多厉害，真用起来气死个人啊，到底是谁说不用自己写啊</title>
-      <link>https://www.v2ex.com/t/1186218</link>
-      <guid>v2ex-1186218</guid>
-      <pubDate>Fri, 16 Jan 2026 06:15:48 GMT</pubDate>
-      <description>&lt;p&gt;我写公司的一些底层框架，说个需求让 AI 嘎嘎给你一顿写，乍一看也算是实现了，但是细节太难受了，这里不考虑缓存击穿，那里不考虑性能问题。&lt;/p&gt;
-&lt;p&gt;有啥技巧没？请教一下大家&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>晚上 3 点被楼上做爱吵醒</title>
-      <link>https://www.v2ex.com/t/1186091</link>
-      <guid>v2ex-1186091</guid>
-      <pubDate>Fri, 16 Jan 2026 01:13:18 GMT</pubDate>
-      <description>现在的人就不能早点做吗？&lt;br /&gt;非要凌晨 3 点做？&lt;br /&gt;女的声音不要这么大好吗？&lt;br /&gt;&lt;br /&gt;被吵醒的时候我以为楼上在家暴，tmd ，结果听着听着不对劲，哭中带爽的那种</description>
-    </item>
-    <item>
       <title>[送终身会员] 迫于饱受 Mac 系统的折磨，搓了个 Mac 平台的输入法自动切换工具 - InputSwitcher</title>
       <link>https://www.v2ex.com/t/1186212</link>
       <guid>v2ex-1186212</guid>
@@ -286,6 +262,36 @@ eb3182a9a29e4482a73717c8e183638b
 &lt;p&gt;&lt;strong&gt;优惠码&lt;/strong&gt;：&lt;code&gt;JA4Y056FBC&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;使用方式：点击官网的 [购买 Pro] 跳转支付页面后，填写折扣码就 OK~不需要填写支付卡等信息，拿了的 xdm 留个言反馈反馈呀~&lt;/p&gt;
 &lt;p&gt;官网链接: &lt;a href=&quot;https://inputswitcher.com/&quot; rel=&quot;nofollow&quot;&gt;https://inputswitcher.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>晚上 3 点被楼上做爱吵醒</title>
+      <link>https://www.v2ex.com/t/1186091</link>
+      <guid>v2ex-1186091</guid>
+      <pubDate>Fri, 16 Jan 2026 01:13:18 GMT</pubDate>
+      <description>现在的人就不能早点做吗？&lt;br /&gt;非要凌晨 3 点做？&lt;br /&gt;女的声音不要这么大好吗？&lt;br /&gt;&lt;br /&gt;被吵醒的时候我以为楼上在家暴，tmd ，结果听着听着不对劲，哭中带爽的那种</description>
+    </item>
+    <item>
+      <title>杭州余杭，被辖区内警察叔叔电话传唤派出所，反诈红卡，不去会怎样😟</title>
+      <link>https://www.v2ex.com/t/1186170</link>
+      <guid>v2ex-1186170</guid>
+      <pubDate>Fri, 16 Jan 2026 03:34:55 GMT</pubDate>
+      <description>&lt;p&gt;以前接反诈只是电话提醒，现在要求一定要线下当面核实了吗？事情是这样的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1 月 15 日 23:40 分，接到反诈民警电话，说系统提示存在高危被骗风险，&lt;strong&gt;要马上上门当面核实&lt;/strong&gt;。已是凌晨了，我说明天再说吧。挂了电话看银行卡没转账记录，就睡觉了。  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 月 16 日 09:10 分左右，再次接到电话，&lt;strong&gt;让今天务必本人带手机去辖区派出所报到&lt;/strong&gt;。语气不强硬，没说去干嘛，也没说不去就要怎样，在协商着时间，强调要当面核实。  &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;活了 20 多年，第一次被传唤。请教下喝过茶的前辈们：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;如果去了，主要谈什么？有没有 &lt;strong&gt;查手机/克隆手机&lt;/strong&gt; 的环节？安卓设备。  &lt;/li&gt;
+&lt;li&gt;实名上网多年，无极端言论，不怕查，怀疑是万人骑🪜问题。手机装了客户安全软件，如果触发客户告警，要发一堆邮件，纯属给自己没事找事。倾向保持现状。    &lt;/li&gt;
+&lt;li&gt;电话传唤，如果不去会怎样？我有被骗风险，不是涉及诈骗别人，我理解优先级应该不高🫠&lt;/li&gt;
+&lt;li&gt;欢迎分享其他应对经验🫶&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
   </channel>
