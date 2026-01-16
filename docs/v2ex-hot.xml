@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 16 Jan 2026 10:46:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 11:11:39 GMT</lastBuildDate>
     <item>
       <title>曾睡过的女同学，经常联系我吐槽婚姻里的不愉快，但我也有家庭啊</title>
       <link>https://www.v2ex.com/t/1186095</link>
@@ -50,6 +50,35 @@
       <pubDate>Fri, 16 Jan 2026 06:15:48 GMT</pubDate>
       <description>&lt;p&gt;我写公司的一些底层框架，说个需求让 AI 嘎嘎给你一顿写，乍一看也算是实现了，但是细节太难受了，这里不考虑缓存击穿，那里不考虑性能问题。&lt;/p&gt;
 &lt;p&gt;有啥技巧没？请教一下大家&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[送终身会员] 迫于饱受 Mac 系统的折磨，搓了个 Mac 平台的输入法自动切换工具 - InputSwitcher</title>
+      <link>https://www.v2ex.com/t/1186212</link>
+      <guid>v2ex-1186212</guid>
+      <pubDate>Fri, 16 Jan 2026 05:56:37 GMT</pubDate>
+      <description>&lt;p&gt;xdm 好，混迹 V 站这么久，今天终于轮到我来“分享创造”了！&lt;/p&gt;
+&lt;h3&gt;缘起&lt;/h3&gt;
+&lt;p&gt;事情还要从上个月（ 12 月 4 号）说起。当时我在技术群里求助，吐槽 Mac 总是莫名其妙自动切换回它自己的自带输入法，非常打断心流。
+当时的聊天截图如下，群里大佬给出的“硬核”建议是——“卸载自带输入法” 😂&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;聊天求助&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.inputswitcher.com/cc534d8b-9b4f-49b7-adc1-38d9815fc652.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;折腾&lt;/h3&gt;
+&lt;p&gt;玩笑归玩笑，我想了一下原理，其实通过监听 APP 的焦点切换事件，应该就能实现自动化切换。
+虽然之前学过 Flutter 和 Swift ，本来打算自己手搓一个。但转念一想，现在 AI 既然都这么努力了，为什么不试试让 AI 帮我写呢？
+反正我自己能看懂代码，逻辑把控住，不至于写出失控的代码。
+于是，在 AI 的辅助下，在这个周末搓出了这个小工具。&lt;/p&gt;
+&lt;h3&gt;意外之喜&lt;/h3&gt;
+&lt;p&gt;工具做出来后，想着“来都来了”，不如顺手加点 Pro 功能，申请了支付接口，试试能不能赚赚刀乐？
+然后火速上官网，就放着没管了。&lt;/p&gt;
+&lt;p&gt;讲真，咱也不知道这破玩意儿到底有没有人用，更别说下单买 Pro 了 —— 甚至我自己都一直在用 Free 版本 😂&lt;/p&gt;
+&lt;p&gt;直到前些天，突然收到了支付平台的用户支付邮件。&lt;/p&gt;
+&lt;p&gt;Ohhh~！不仅有人用！还有人愿意为它买单！&lt;/p&gt;
+&lt;h3&gt;福利&lt;/h3&gt;
+&lt;p&gt;既然验证了需求，就发出来给 V 友们送一波终身码。
+生成了 100 个 Pro 版终身会员兑换码，希望能帮到同样被输入法折磨的 hxd 。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优惠码&lt;/strong&gt;：&lt;code&gt;JA4Y056FBC&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;使用方式：点击官网的 [购买 Pro] 跳转支付页面后，填写折扣码就 OK~不需要填写支付卡等信息，拿了的 xdm 留个言反馈反馈呀~&lt;/p&gt;
+&lt;p&gt;官网链接: &lt;a href=&quot;https://inputswitcher.com/&quot; rel=&quot;nofollow&quot;&gt;https://inputswitcher.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -109,35 +138,6 @@
 &lt;p&gt;以上！&lt;/p&gt;
 &lt;br/&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://paodingzhiren.oss-cn-chengdu.aliyuncs.com/image/WechatIMG168.jpg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[送终身会员] 迫于饱受 Mac 系统的折磨，搓了个 Mac 平台的输入法自动切换工具 - InputSwitcher</title>
-      <link>https://www.v2ex.com/t/1186212</link>
-      <guid>v2ex-1186212</guid>
-      <pubDate>Fri, 16 Jan 2026 05:56:37 GMT</pubDate>
-      <description>&lt;p&gt;xdm 好，混迹 V 站这么久，今天终于轮到我来“分享创造”了！&lt;/p&gt;
-&lt;h3&gt;缘起&lt;/h3&gt;
-&lt;p&gt;事情还要从上个月（ 12 月 4 号）说起。当时我在技术群里求助，吐槽 Mac 总是莫名其妙自动切换回它自己的自带输入法，非常打断心流。
-当时的聊天截图如下，群里大佬给出的“硬核”建议是——“卸载自带输入法” 😂&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;聊天求助&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.inputswitcher.com/cc534d8b-9b4f-49b7-adc1-38d9815fc652.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;折腾&lt;/h3&gt;
-&lt;p&gt;玩笑归玩笑，我想了一下原理，其实通过监听 APP 的焦点切换事件，应该就能实现自动化切换。
-虽然之前学过 Flutter 和 Swift ，本来打算自己手搓一个。但转念一想，现在 AI 既然都这么努力了，为什么不试试让 AI 帮我写呢？
-反正我自己能看懂代码，逻辑把控住，不至于写出失控的代码。
-于是，在 AI 的辅助下，在这个周末搓出了这个小工具。&lt;/p&gt;
-&lt;h3&gt;意外之喜&lt;/h3&gt;
-&lt;p&gt;工具做出来后，想着“来都来了”，不如顺手加点 Pro 功能，申请了支付接口，试试能不能赚赚刀乐？
-然后火速上官网，就放着没管了。&lt;/p&gt;
-&lt;p&gt;讲真，咱也不知道这破玩意儿到底有没有人用，更别说下单买 Pro 了 —— 甚至我自己都一直在用 Free 版本 😂&lt;/p&gt;
-&lt;p&gt;直到前些天，突然收到了支付平台的用户支付邮件。&lt;/p&gt;
-&lt;p&gt;Ohhh~！不仅有人用！还有人愿意为它买单！&lt;/p&gt;
-&lt;h3&gt;福利&lt;/h3&gt;
-&lt;p&gt;既然验证了需求，就发出来给 V 友们送一波终身码。
-生成了 100 个 Pro 版终身会员兑换码，希望能帮到同样被输入法折磨的 hxd 。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;优惠码&lt;/strong&gt;：&lt;code&gt;JA4Y056FBC&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;使用方式：点击官网的 [购买 Pro] 跳转支付页面后，填写折扣码就 OK~不需要填写支付卡等信息，拿了的 xdm 留个言反馈反馈呀~&lt;/p&gt;
-&lt;p&gt;官网链接: &lt;a href=&quot;https://inputswitcher.com/&quot; rel=&quot;nofollow&quot;&gt;https://inputswitcher.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
