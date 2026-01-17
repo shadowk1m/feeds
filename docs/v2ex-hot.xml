@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 17 Jan 2026 08:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 08:45:11 GMT</lastBuildDate>
     <item>
       <title>从此不再买 A 股</title>
       <link>https://www.v2ex.com/t/1186297</link>
@@ -18,20 +18,6 @@
       <guid>v2ex-1186371</guid>
       <pubDate>Sat, 17 Jan 2026 00:09:30 GMT</pubDate>
       <description>忍对方习惯&lt;br /&gt;忍对方冒犯&lt;br /&gt;忍对方的指指点点&lt;br /&gt;&lt;br /&gt;哪天忍无可忍&lt;br /&gt;喘息空间都没有了就该爆发撤退了</description>
-    </item>
-    <item>
-      <title>为什么自己开发的跨平台开发框架 SOUI 关注度那么低？</title>
-      <link>https://www.v2ex.com/t/1186262</link>
-      <guid>v2ex-1186262</guid>
-      <pubDate>Fri, 16 Jan 2026 08:15:57 GMT</pubDate>
-      <description>SOUI 目前已经支持 windows, linux, macos ，轻量级，高性能，纯国产，兼容 windows api,编译简单，核心依赖库都采用源代码方式编译，移植完成 richedit, scintilla 编辑器支持 linux, macos （ scintilla 原生支持跨平台，但 soui 里只使用它的 windows 版本实现跨平台）。&lt;br /&gt;就是这样强大的一套框架，关注的人确屈指可数，问题出在哪？&lt;br /&gt;有兴趣的朋友可以自己拉代码： &lt;a target=&quot;_blank&quot; href=&quot;https://gitee.com/setoutsoft/soui4&quot; rel=&quot;nofollow noopener&quot;&gt;https://gitee.com/setoutsoft/soui4&lt;/a&gt;&lt;br /&gt;最新版本集成了一套棋牌游戏动画框架，动画效果碾压目前市场上所有同类游戏。&lt;br /&gt;视频可以看看我发表在知乎的效果：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.zhihu.com/zvideo/1987925917578842918&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.zhihu.com/zvideo/1987925917578842918&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.zhihu.com/pin/1994469335847171772&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.zhihu.com/pin/1994469335847171772&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>很认真的问，我自己能否做出个人主页网站？</title>
-      <link>https://www.v2ex.com/t/1186333</link>
-      <guid>v2ex-1186333</guid>
-      <pubDate>Fri, 16 Jan 2026 13:37:18 GMT</pubDate>
-      <description>很久以来我都想拥有一个主页，我自己的网站，用于展示一些传媒方面的作品。作为一个没有编程经验的小白，在和 ChatGPT 多次对话后，我感觉这仍是件难以实现的事情。&lt;br /&gt;&lt;br /&gt;恰巧最近访问了一个朋友的网站，他用 Gemini 写的，放在朋友的服务器上，最重要的是，他告诉我可以用阿里云当服务器，备案简单且免费，可是在本人与阿里云的 ai 建站工具几轮沟通后，都被 ai 推荐的网站模板丑哭，跟国内许多企业主页相同，简单的色块，持续的滚动翻页，手机版颜值也一般。（我会附上心仪的网页设计）&lt;br /&gt;&lt;br /&gt;So 我想请教一些有网页编程经验的朋友们，我该怎么做？&lt;br /&gt;&lt;br /&gt;我的目标是获得一个他人可访问并查看（主要是国内用户）视频&amp;amp;照片的网站，视频可以添加 &lt;a target=&quot;_blank&quot; href=&quot;http://xinpianchang.com&quot; rel=&quot;nofollow noopener&quot;&gt;xinpianchang.com&lt;/a&gt; 的链接，照片——如果网站存储麻烦的话——也可以放一个第三方链接。&lt;br /&gt;&lt;br /&gt;我目前的计划路径是：&lt;br /&gt; 1. 学习并使用 Gemini 来设计网页；&lt;br /&gt; 2. 将定稿网页放置到阿里云（我不清楚怎么做 but will try ）；&lt;br /&gt; 3. 备案网站（对域名没有特殊要求）&lt;br /&gt; &lt;br /&gt; PS：我心仪的摄影师网站： &lt;a target=&quot;_blank&quot; href=&quot;https://samuelbayer.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://samuelbayer.com/&lt;/a&gt;</description>
     </item>
     <item>
       <title>令大家印象深刻的梗或吃瓜事件都有啥</title>
@@ -53,6 +39,13 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>
+    </item>
+    <item>
+      <title>很认真的问，我自己能否做出个人主页网站？</title>
+      <link>https://www.v2ex.com/t/1186333</link>
+      <guid>v2ex-1186333</guid>
+      <pubDate>Fri, 16 Jan 2026 13:37:18 GMT</pubDate>
+      <description>很久以来我都想拥有一个主页，我自己的网站，用于展示一些传媒方面的作品。作为一个没有编程经验的小白，在和 ChatGPT 多次对话后，我感觉这仍是件难以实现的事情。&lt;br /&gt;&lt;br /&gt;恰巧最近访问了一个朋友的网站，他用 Gemini 写的，放在朋友的服务器上，最重要的是，他告诉我可以用阿里云当服务器，备案简单且免费，可是在本人与阿里云的 ai 建站工具几轮沟通后，都被 ai 推荐的网站模板丑哭，跟国内许多企业主页相同，简单的色块，持续的滚动翻页，手机版颜值也一般。（我会附上心仪的网页设计）&lt;br /&gt;&lt;br /&gt;So 我想请教一些有网页编程经验的朋友们，我该怎么做？&lt;br /&gt;&lt;br /&gt;我的目标是获得一个他人可访问并查看（主要是国内用户）视频&amp;amp;照片的网站，视频可以添加 &lt;a target=&quot;_blank&quot; href=&quot;http://xinpianchang.com&quot; rel=&quot;nofollow noopener&quot;&gt;xinpianchang.com&lt;/a&gt; 的链接，照片——如果网站存储麻烦的话——也可以放一个第三方链接。&lt;br /&gt;&lt;br /&gt;我目前的计划路径是：&lt;br /&gt; 1. 学习并使用 Gemini 来设计网页；&lt;br /&gt; 2. 将定稿网页放置到阿里云（我不清楚怎么做 but will try ）；&lt;br /&gt; 3. 备案网站（对域名没有特殊要求）&lt;br /&gt; &lt;br /&gt; PS：我心仪的摄影师网站： &lt;a target=&quot;_blank&quot; href=&quot;https://samuelbayer.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://samuelbayer.com/&lt;/a&gt;</description>
     </item>
     <item>
       <title>AI 很厉害，只是不会用罢了。我用 AI 写了个 13K 的软件，并开源了。</title>
@@ -102,13 +95,6 @@
 </description>
     </item>
     <item>
-      <title>现在还有什么值得定投的</title>
-      <link>https://www.v2ex.com/t/1186381</link>
-      <guid>v2ex-1186381</guid>
-      <pubDate>Sat, 17 Jan 2026 02:16:56 GMT</pubDate>
-      <description>目前定投纳指、黄金、标普、美债，但感觉有点集中了，考虑再配置 1~2 项定投，现在还有什么值得去定投的呢&lt;br /&gt;&lt;br /&gt;期望是定投一年后就能有还行的收益（≥5%），且可以长期定投有收益；然后是要在国内能方便设置定投购买的，加密币那些整起来不方便。&lt;br /&gt;&lt;br /&gt;一开始想找大 a 定投指数，但感觉各个指数都太高了，于是就去找看好的行业的基金，例如搜计算机、高端制造，好家伙这曲线涨的快跟悬崖一样陡峭了，这还有定投的价值么，不会成山顶定投了吧。。顿时都不想看了。</description>
-    </item>
-    <item>
       <title>Apple Pay 绑 Visa 购买苹果礼品卡也太玄学了？</title>
       <link>https://www.v2ex.com/t/1186354</link>
       <guid>v2ex-1186354</guid>
@@ -121,6 +107,13 @@
 </description>
     </item>
     <item>
+      <title>现在还有什么值得定投的</title>
+      <link>https://www.v2ex.com/t/1186381</link>
+      <guid>v2ex-1186381</guid>
+      <pubDate>Sat, 17 Jan 2026 02:16:56 GMT</pubDate>
+      <description>目前定投纳指、黄金、标普、美债，但感觉有点集中了，考虑再配置 1~2 项定投，现在还有什么值得去定投的呢&lt;br /&gt;&lt;br /&gt;期望是定投一年后就能有还行的收益（≥5%），且可以长期定投有收益；然后是要在国内能方便设置定投购买的，加密币那些整起来不方便。&lt;br /&gt;&lt;br /&gt;一开始想找大 a 定投指数，但感觉各个指数都太高了，于是就去找看好的行业的基金，例如搜计算机、高端制造，好家伙这曲线涨的快跟悬崖一样陡峭了，这还有定投的价值么，不会成山顶定投了吧。。顿时都不想看了。</description>
+    </item>
+    <item>
       <title>寻找“AI 灵魂架构师”：打造一个 24 小时在线的“带刀闺蜜”</title>
       <link>https://www.v2ex.com/t/1186303</link>
       <guid>v2ex-1186303</guid>
@@ -131,6 +124,38 @@
 &lt;p&gt;情绪感知： 能够识别用户在落魄时的自卑信号，并瞬间用“高配得感”逻辑进行对冲。&lt;/p&gt;
 &lt;p&gt;[商业前景]  我们切入的是“女性精神安全”和“高端博弈咨询”的蓝海。用户不仅在买对话，是在买一种“在这个世界横着走”的底气。&lt;/p&gt;
 &lt;p&gt;我们不教女孩变坏，我们教她们在这个不友好的世界里，如何更有尊严地“狠”下去。征集英雄，我们要做一个“帮你撕逼、带你变狠”的 人生陪练 App 。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Google Antigravity 使用过程中遇到的一些问题。</title>
+      <link>https://www.v2ex.com/t/1186388</link>
+      <guid>v2ex-1186388</guid>
+      <pubDate>Sat, 17 Jan 2026 02:59:37 GMT</pubDate>
+      <description>&lt;p&gt;Google Antigravity 使用过程中，遇到的一些问题，总结一下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;没告诉他规范的时候，他按照自己的性格来。
+你告诉他规范了，他说的好好的，会认真遵守，但是实际操作中，又总会丢三落四，选择性的忽略了/忘记了其中的几条规范。
+等你告诉他这个错了，请严格按照规范来，他又是道歉，重新按照规范来。
+问题是规范约束很多条，我也不一定能记得全。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;退化问题。
+比如说，让他加好的文件注释。在经过几轮对话修改后，他很可能莫名其妙得，不知道什么时候，又把注释给删掉了。（加上的代码，逻辑也有可能被删掉。）你发现了，问他为什么删掉。他又道歉，然后说删错了，又给你补回去。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;幻觉问题
+比如说，正常情况下，一个通用的包，🈶️A ，B ，C ，但是 D 部分是没有的。
+在引入的时候，他一本正经得根据推导，认为 A ，B ，C 存在，按道理 D 也应该存在。然后将 D 引入到你的项目。结果呢。你跑半天，跑不通。然后你问他，这咋回事。他又道歉，删掉 D ，换一种思路，换一种方式来实现。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;规范问题
+每次切换一个模型，你总得告诉他，请认真阅读 aiconfig 规范，并严格遵守。没法做到持久化。当然，就算你告诉他了，他也阅读了 aiconfig 规范，他也是“基本遵守”。大不了，等你发现他又犯贱，没遵守规范。他又道歉，说不好意思，我违反了规范，我马上修改。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;想到的就这些。&lt;/p&gt;
+&lt;p&gt;总之，Vibe Coding 一时爽，粗心早晚泪千行。&lt;/p&gt;
+&lt;p&gt;大家使用过程中遇到什么问题，也可以分享一下，避免踩坑。&lt;/p&gt;
 </description>
     </item>
   </channel>
