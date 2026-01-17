@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 17 Jan 2026 04:24:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 04:49:12 GMT</lastBuildDate>
     <item>
       <title>天天叫 AI 编程多厉害，真用起来气死个人啊，到底是谁说不用自己写啊</title>
       <link>https://www.v2ex.com/t/1186218</link>
@@ -178,13 +178,11 @@
 </description>
     </item>
     <item>
-      <title>40+古早程序员飘过</title>
-      <link>https://www.v2ex.com/t/1186187</link>
-      <guid>v2ex-1186187</guid>
-      <pubDate>Fri, 16 Jan 2026 04:43:49 GMT</pubDate>
-      <description>&lt;p&gt;RT.&lt;/p&gt;
-&lt;p&gt;今日学到一个词：“古早程序员” ......&lt;/p&gt;
-</description>
+      <title>很认真的问，我自己能否做出个人主页网站？</title>
+      <link>https://www.v2ex.com/t/1186333</link>
+      <guid>v2ex-1186333</guid>
+      <pubDate>Fri, 16 Jan 2026 13:37:18 GMT</pubDate>
+      <description>很久以来我都想拥有一个主页，我自己的网站，用于展示一些传媒方面的作品。作为一个没有编程经验的小白，在和 ChatGPT 多次对话后，我感觉这仍是件难以实现的事情。&lt;br /&gt;&lt;br /&gt;恰巧最近访问了一个朋友的网站，他用 Gemini 写的，放在朋友的服务器上，最重要的是，他告诉我可以用阿里云当服务器，备案简单且免费，可是在本人与阿里云的 ai 建站工具几轮沟通后，都被 ai 推荐的网站模板丑哭，跟国内许多企业主页相同，简单的色块，持续的滚动翻页，手机版颜值也一般。（我会附上心仪的网页设计）&lt;br /&gt;&lt;br /&gt;So 我想请教一些有网页编程经验的朋友们，我该怎么做？&lt;br /&gt;&lt;br /&gt;我的目标是获得一个他人可访问并查看（主要是国内用户）视频&amp;amp;照片的网站，视频可以添加 &lt;a target=&quot;_blank&quot; href=&quot;http://xinpianchang.com&quot; rel=&quot;nofollow noopener&quot;&gt;xinpianchang.com&lt;/a&gt; 的链接，照片——如果网站存储麻烦的话——也可以放一个第三方链接。&lt;br /&gt;&lt;br /&gt;我目前的计划路径是：&lt;br /&gt; 1. 学习并使用 Gemini 来设计网页；&lt;br /&gt; 2. 将定稿网页放置到阿里云（我不清楚怎么做 but will try ）；&lt;br /&gt; 3. 备案网站（对域名没有特殊要求）&lt;br /&gt; &lt;br /&gt; PS：我心仪的摄影师网站： &lt;a target=&quot;_blank&quot; href=&quot;https://samuelbayer.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://samuelbayer.com/&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
