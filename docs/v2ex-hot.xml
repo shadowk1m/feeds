@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 17 Jan 2026 10:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 10:41:12 GMT</lastBuildDate>
     <item>
       <title>结婚是不是都得要忍？？</title>
       <link>https://www.v2ex.com/t/1186371</link>
@@ -39,33 +39,6 @@
       <guid>v2ex-1186333</guid>
       <pubDate>Fri, 16 Jan 2026 13:37:18 GMT</pubDate>
       <description>很久以来我都想拥有一个主页，我自己的网站，用于展示一些传媒方面的作品。作为一个没有编程经验的小白，在和 ChatGPT 多次对话后，我感觉这仍是件难以实现的事情。&lt;br /&gt;&lt;br /&gt;恰巧最近访问了一个朋友的网站，他用 Gemini 写的，放在朋友的服务器上，最重要的是，他告诉我可以用阿里云当服务器，备案简单且免费，可是在本人与阿里云的 ai 建站工具几轮沟通后，都被 ai 推荐的网站模板丑哭，跟国内许多企业主页相同，简单的色块，持续的滚动翻页，手机版颜值也一般。（我会附上心仪的网页设计）&lt;br /&gt;&lt;br /&gt;So 我想请教一些有网页编程经验的朋友们，我该怎么做？&lt;br /&gt;&lt;br /&gt;我的目标是获得一个他人可访问并查看（主要是国内用户）视频&amp;amp;照片的网站，视频可以添加 &lt;a target=&quot;_blank&quot; href=&quot;http://xinpianchang.com&quot; rel=&quot;nofollow noopener&quot;&gt;xinpianchang.com&lt;/a&gt; 的链接，照片——如果网站存储麻烦的话——也可以放一个第三方链接。&lt;br /&gt;&lt;br /&gt;我目前的计划路径是：&lt;br /&gt; 1. 学习并使用 Gemini 来设计网页；&lt;br /&gt; 2. 将定稿网页放置到阿里云（我不清楚怎么做 but will try ）；&lt;br /&gt; 3. 备案网站（对域名没有特殊要求）&lt;br /&gt; &lt;br /&gt; PS：我心仪的摄影师网站： &lt;a target=&quot;_blank&quot; href=&quot;https://samuelbayer.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://samuelbayer.com/&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>AI 很厉害，只是不会用罢了。我用 AI 写了个 13K 的软件，并开源了。</title>
-      <link>https://www.v2ex.com/t/1186306</link>
-      <guid>v2ex-1186306</guid>
-      <pubDate>Fri, 16 Jan 2026 10:13:30 GMT</pubDate>
-      <description>&lt;p&gt;很多人用 AI 失败，是因为把它当成了“许愿池”（许个愿，代码就全自动出来了）。 正确的姿势是：把 AI 当成一个“无限体力的初级工程师”，你要做的就是给出想法，然后又反复去质疑 AI 。&lt;/p&gt;
-&lt;p&gt;我说我要做一个复制图片，直接粘贴到文件的软件。
-这是个很基础很简单的需求，可能程序员手搓都只要几分钟。&lt;/p&gt;
-&lt;p&gt;起初 AI 给了我一个 Python 方案 (Pillow + ctypes)。
-功能是实现了，但打包出来 10MB+，启动还慢。
-如果我是小白，可能就这样算了，然后吐槽 AI 做的东西臃肿。 &lt;/p&gt;
-&lt;p&gt;虽然我是代码小白，但是我觉得我这个功能不需要这么复杂，
-所以下面这个提示词就非常关键了，
-我让 AI 帮我到网上去搜索解决方案，特别是 GitHub 开源社区，并给出最佳实践。
-然后 AI 就给了我这个答复：&lt;/p&gt;
-&lt;p&gt;有更轻量的方案！
-我查阅了 GitHub 上的开源实践，发现要实现“原生且超小体积”，最佳方案是使用 C# 编写。Windows &lt;a href=&quot;http://电脑自带.NET&quot; rel=&quot;nofollow&quot;&gt;电脑自带.NET&lt;/a&gt; 运行库，所以我们完全不需要打包 30MB 的 Python 。
-新方案 (V3.0 原生版)： 我们将用 C# 重写这个工具。体积预期：20 KB (你没看错，是 KB ，只有原先的 1/1500)。&lt;/p&gt;
-&lt;p&gt;虽然只是一个很小的软件，但整个过程是从提出一个很小的需求，
-然后通过不断的迭代，最后形成产品发布到 gitHub 开源，
-并且制作了宣传网页。
-是一个很完整的闭环，有兴趣你可以看一下，里面也记录了我这整个开发过程。&lt;/p&gt;
-&lt;p&gt;我没写一句代码，因为我不会，我只是不断的去质疑 AI 。
-👉&lt;a href=&quot;https://dearhua26.github.io/PasteHere/&quot; rel=&quot;nofollow&quot;&gt;https://dearhua26.github.io/PasteHere/&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;(如果觉得这种开发模式有点意思，求个 Star 🌟，我想看看有多少人也是“AI 实用主义者”！)&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>现在还有什么值得定投的</title>
@@ -158,6 +131,15 @@
 &lt;p&gt;像这种入职短时间就“闪辞”的情况，去 2 的风险（尤其是背调/记录方面）大吗？&lt;/p&gt;
 &lt;p&gt;如何更体面、专业地处理这种“闪辞”离职？&lt;/p&gt;
 &lt;p&gt;如果是你们，会怎么选择，为什么？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>如果你是贾国龙可能更气急败坏</title>
+      <link>https://www.v2ex.com/t/1186458</link>
+      <guid>v2ex-1186458</guid>
+      <pubDate>Sat, 17 Jan 2026 09:14:59 GMT</pubDate>
+      <description>&lt;p&gt;他真的输急眼了, 本来如果没有老罗那事儿, 西贝一两年内都上市了, 刚好 a 股也走牛市, 上市后不说多, 400 亿市值以现在 a 股行情是可以给到的, 老贾算他 30%股份那上市后轻松资产过百亿. 结果因为老罗事情曝光公司业务快速萎缩业绩不振基本上无缘上市&lt;/p&gt;
+&lt;p&gt;不仅无缘上市, 他和投资人肯定有对赌协议, 现在西贝暴雷估值缩水, 那老贾所有股份赔偿对赌协议都不一定够. 可以说直接把一个人从百亿富翁打到破产, 这谁受的了吗? 关键是这可以说是贾国龙自己一系列骚操作导致的, 对于这种自负的人肯定不愿承认, 只能把仇恨转移到老罗身上&lt;/p&gt;
 </description>
     </item>
     <item>
