@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 17 Jan 2026 17:37:58 GMT</lastBuildDate>
-    <item>
-      <title>结婚是不是都得要忍？？</title>
-      <link>https://www.v2ex.com/t/1186371</link>
-      <guid>v2ex-1186371</guid>
-      <pubDate>Sat, 17 Jan 2026 00:09:30 GMT</pubDate>
-      <description>忍对方习惯&lt;br /&gt;忍对方冒犯&lt;br /&gt;忍对方的指指点点&lt;br /&gt;&lt;br /&gt;哪天忍无可忍&lt;br /&gt;喘息空间都没有了就该爆发撤退了</description>
-    </item>
+    <lastBuildDate>Sat, 17 Jan 2026 18:15:53 GMT</lastBuildDate>
     <item>
       <title>如果你是贾国龙可能更气急败坏</title>
       <link>https://www.v2ex.com/t/1186458</link>
@@ -20,6 +13,13 @@
       <description>&lt;p&gt;他真的输急眼了, 本来如果没有老罗那事儿, 西贝一两年内都上市了, 刚好 a 股也走牛市, 上市后不说多, 400 亿市值以现在 a 股行情是可以给到的, 老贾算他 30%股份那上市后轻松资产过百亿. 结果因为老罗事情曝光公司业务快速萎缩业绩不振基本上无缘上市&lt;/p&gt;
 &lt;p&gt;不仅无缘上市, 他和投资人肯定有对赌协议, 现在西贝暴雷估值缩水, 那老贾所有股份赔偿对赌协议都不一定够. 可以说直接把一个人从百亿富翁打到破产, 这谁受的了吗? 关键是这可以说是贾国龙自己一系列骚操作导致的, 对于这种自负的人肯定不愿承认, 只能把仇恨转移到老罗身上&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>结婚是不是都得要忍？？</title>
+      <link>https://www.v2ex.com/t/1186371</link>
+      <guid>v2ex-1186371</guid>
+      <pubDate>Sat, 17 Jan 2026 00:09:30 GMT</pubDate>
+      <description>忍对方习惯&lt;br /&gt;忍对方冒犯&lt;br /&gt;忍对方的指指点点&lt;br /&gt;&lt;br /&gt;哪天忍无可忍&lt;br /&gt;喘息空间都没有了就该爆发撤退了</description>
     </item>
     <item>
       <title>令大家印象深刻的梗或吃瓜事件都有啥</title>
@@ -144,18 +144,21 @@ https://api-jp.jonwinters.pw
 </description>
     </item>
     <item>
-      <title>这两个工作怎么选？</title>
-      <link>https://www.v2ex.com/t/1186363</link>
-      <guid>v2ex-1186363</guid>
-      <pubDate>Fri, 16 Jan 2026 18:00:10 GMT</pubDate>
-      <description>1.离家近，开车 10 分钟，有寒暑假，税后月收入 5k ，上升空间很窄，职级低，无背景&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;2.坐飞机两小时，有寒暑假，税后月收入 13k ，包住，有上升空间，职级高，有背景&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;背景：有家庭小孩，有房贷，公积金可覆盖。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;选 2 的话一个月飞回家两次差旅费差不多 2k5-3k ，目前在 1 ，去 2 最大的问题是有点舍不得家庭，所以才把一个月飞回去两次列出来。</description>
-    </item>
-    <item>
       <title>请问下大家，你们一个月在 vibe coding 会花多少钱？</title>
       <link>https://www.v2ex.com/t/1186469</link>
       <guid>v2ex-1186469</guid>
       <pubDate>Sat, 17 Jan 2026 10:38:52 GMT</pubDate>
       <description>&lt;p&gt;近期很多 CC 中转站都在普遍涨价，之前很多包月的也都暂停了，很好奇大家现在一个月会在 vibe coding 花多少钱？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>卧槽 codex 又自己执行了 git restore</title>
+      <link>https://www.v2ex.com/t/1186378</link>
+      <guid>v2ex-1186378</guid>
+      <pubDate>Sat, 17 Jan 2026 02:08:00 GMT</pubDate>
+      <description>&lt;p&gt;碰到过好几次了，经常发生在上下文压缩以后，它会检查工作区情况，发现有代码更改就自言自语说要恢复干净，把上下文压缩前写的代码全恢复了。
+如果开多个窗口会话同时也代码，也经常会互相干扰，自言自语说工作区发生了未知变化，开始恢复再干活，明明都是不同模块的代码也不管。&lt;/p&gt;
+&lt;p&gt;有没有什么好办法？给 &lt;a href=&quot;http://agent.md&quot; rel=&quot;nofollow&quot;&gt;agent.md&lt;/a&gt; 里写个 rule：禁止使用任何 git 命令。禁止 codex 所有操作 git 权限可行吗？ git 操作全部是我手动操作，不让 codex 接触没啥副作用吧？&lt;/p&gt;
 </description>
     </item>
   </channel>
