@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 17 Jan 2026 02:46:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 03:50:49 GMT</lastBuildDate>
     <item>
       <title>天天叫 AI 编程多厉害，真用起来气死个人啊，到底是谁说不用自己写啊</title>
       <link>https://www.v2ex.com/t/1186218</link>
@@ -51,41 +51,11 @@
       <description>如题。今天翻到一个评论&lt;br /&gt;&lt;br /&gt;“赌场老板擅自更改赌场规则是很恶劣的行为。”&lt;br /&gt;&lt;br /&gt;我真的很认同。之前以为股市稍微是清净地。没有房地产那么恶劣。金融毕竟国之命脉。&lt;br /&gt;&lt;br /&gt;如今利欧的停牌。尾盘的巨大压单。还有如今的局面。&lt;br /&gt;都说明一件事。君子不立危墙之下。&lt;br /&gt;&lt;br /&gt;各位江湖再见，或许再也不见。</description>
     </item>
     <item>
-      <title>杭州余杭，被辖区内警察叔叔电话传唤派出所，反诈红卡，不去会怎样😟</title>
-      <link>https://www.v2ex.com/t/1186170</link>
-      <guid>v2ex-1186170</guid>
-      <pubDate>Fri, 16 Jan 2026 03:34:55 GMT</pubDate>
-      <description>&lt;p&gt;以前接反诈只是电话提醒，现在要求一定要线下当面核实了吗？事情是这样的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;1 月 15 日 23:40 分，接到反诈民警电话，说系统提示存在高危被骗风险，&lt;strong&gt;要马上上门当面核实&lt;/strong&gt;。已是凌晨了，我说明天再说吧。挂了电话看银行卡没转账记录，就睡觉了。  &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;1 月 16 日 09:10 分左右，再次接到电话，&lt;strong&gt;让今天务必本人带手机去辖区派出所报到&lt;/strong&gt;。语气不强硬，没说去干嘛，也没说不去就要怎样，在协商着时间，强调要当面核实。  &lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;活了 20 多年，第一次被传唤。请教下喝过茶的前辈们：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;如果去了，主要谈什么？有没有 &lt;strong&gt;查手机/克隆手机&lt;/strong&gt; 的环节？安卓设备。  &lt;/li&gt;
-&lt;li&gt;实名上网多年，无极端言论，不怕查，怀疑是万人骑🪜问题。手机装了客户安全软件，如果触发客户告警，要发一堆邮件，纯属给自己没事找事。倾向保持现状。    &lt;/li&gt;
-&lt;li&gt;电话传唤，如果不去会怎样？我有被骗风险，不是涉及诈骗别人，我理解优先级应该不高🫠&lt;/li&gt;
-&lt;li&gt;欢迎分享其他应对经验🫶&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    <item>
       <title>大家现在在用什么 TODO 管理软件？</title>
       <link>https://www.v2ex.com/t/1186210</link>
       <guid>v2ex-1186210</guid>
       <pubDate>Fri, 16 Jan 2026 05:48:39 GMT</pubDate>
       <description>轻量、跨平台，愿意接受付费</description>
-    </item>
-    <item>
-      <title>大家还会写汉字吗</title>
-      <link>https://www.v2ex.com/t/1186156</link>
-      <guid>v2ex-1186156</guid>
-      <pubDate>Fri, 16 Jan 2026 03:14:53 GMT</pubDate>
-      <description>上周去小饭馆点菜，手写菜单，突然发现好几个菜名写不出来，最后用手机打出菜名照着模仿才写出来的。回忆了下，近 10 年写的字除了自己签名应该不超过 100 个。</description>
     </item>
     <item>
       <title>为什么自己开发的跨平台开发框架 SOUI 关注度那么低？</title>
@@ -95,38 +65,125 @@
       <description>SOUI 目前已经支持 windows, linux, macos ，轻量级，高性能，纯国产，兼容 windows api,编译简单，核心依赖库都采用源代码方式编译，移植完成 richedit, scintilla 编辑器支持 linux, macos （ scintilla 原生支持跨平台，但 soui 里只使用它的 windows 版本实现跨平台）。&lt;br /&gt;就是这样强大的一套框架，关注的人确屈指可数，问题出在哪？&lt;br /&gt;有兴趣的朋友可以自己拉代码： &lt;a target=&quot;_blank&quot; href=&quot;https://gitee.com/setoutsoft/soui4&quot; rel=&quot;nofollow noopener&quot;&gt;https://gitee.com/setoutsoft/soui4&lt;/a&gt;&lt;br /&gt;最新版本集成了一套棋牌游戏动画框架，动画效果碾压目前市场上所有同类游戏。&lt;br /&gt;视频可以看看我发表在知乎的效果：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.zhihu.com/zvideo/1987925917578842918&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.zhihu.com/zvideo/1987925917578842918&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.zhihu.com/pin/1994469335847171772&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.zhihu.com/pin/1994469335847171772&lt;/a&gt;</description>
     </item>
     <item>
-      <title>昨天突发奇想一个插件点子，于是让 antigravity 开始写，痛苦万分。。。</title>
-      <link>https://www.v2ex.com/t/1186161</link>
-      <guid>v2ex-1186161</guid>
-      <pubDate>Fri, 16 Jan 2026 03:22:43 GMT</pubDate>
-      <description>下面的问题其实还是一个老生常谈的问题，就是没有技术领域知识的”外行“目前根本不可能在所谓”氛围编程“中走多远。&lt;br /&gt;&lt;br /&gt;1. 楼主前端知识面属于小学生。&lt;br /&gt;2. 整个 debug 流程就是：ai 改一点，我拿到浏览器测一点，不符合预期，然后复制控制台的日志给 ai ，让它分析 debug 。&lt;br /&gt;&lt;br /&gt;体验真的就是：&lt;br /&gt;&lt;br /&gt;1. 确实比我从 0 开始写快多了，初步设想快速得到了验证。&lt;br /&gt;&lt;br /&gt;2. 但是到了细致的需求上，开始痛苦，一方面是进度上停滞了，在某个需求点卡住，总是改不对。同时在流程上，我完全像是一个没有脑子的木头人，机械地把自己的手供给 llm 驱使。但凡 llm 有了自己的机械手，准保一脚把我踹开，自己单干了。&lt;br /&gt;&lt;br /&gt;所以问题不在于 llm 能不能干出来，而是我在这个流程中由于没有足够的“领域知识“，完全不知所措。会显得更加的煎熬。&lt;br /&gt;&lt;br /&gt;煎熬的点在于：&lt;br /&gt;&lt;br /&gt;1. 失控感 &lt;br /&gt;&lt;br /&gt;整个实现方案和稳定性，性能等完全一无所知。&lt;br /&gt;&lt;br /&gt;2. 预期管理失败&lt;br /&gt;&lt;br /&gt;没有 llm 前，同样功能可能预期一两个星期，滞塞个一两天问题都不大。&lt;br /&gt;但是有了 llm ，大大拉高了阈值，开始预期 2h 以内，最多 1 天就要看到可用的成品，一旦滞塞住，进入机械地给 llm 打下手 debug ，就开始烦躁不耐烦。&lt;br /&gt;&lt;br /&gt;烦躁的点在于一方面没有达到自己几个小时内快速出活的预期，另一方面，整个 debug 过程学到的东西大大减少，根本不会有什么长进。&lt;br /&gt;&lt;br /&gt;没有 llm 之前，滞塞的过程其实是深入学习的过程，是提升的过程。&lt;br /&gt;&lt;br /&gt;但是给 llm 打下手，它快速出 debug 方法，快速让你验证，快速调整方案，整个流程你是万花丛中过，片叶不沾身，你学不到这个组件为什么这么用，它为什么在这个场景下不行等等等。</description>
+      <title>结婚是不是都得要忍？？</title>
+      <link>https://www.v2ex.com/t/1186371</link>
+      <guid>v2ex-1186371</guid>
+      <pubDate>Sat, 17 Jan 2026 00:09:30 GMT</pubDate>
+      <description>忍对方习惯&lt;br /&gt;忍对方冒犯&lt;br /&gt;忍对方的指指点点&lt;br /&gt;&lt;br /&gt;哪天忍无可忍&lt;br /&gt;喘息空间都没有了就该爆发撤退了</description>
     </item>
     <item>
-      <title>我做了款 App，基于 Apple Watch 健康数据，帮你科学“看见”压力——StressEase</title>
-      <link>https://www.v2ex.com/t/1186168</link>
-      <guid>v2ex-1186168</guid>
-      <pubDate>Fri, 16 Jan 2026 03:33:45 GMT</pubDate>
-      <description>&lt;p&gt;我是一名独立开发者。最近做了个 app 来科学地量化和管理压力，名字是 &lt;strong&gt;StressEase&lt;/strong&gt;。它会读取您 &lt;strong&gt;Apple Watch&lt;/strong&gt; 记录在“健康”App 里的各项指标，帮你把模糊的“感觉”转换成一个直观的压力分数。&lt;/p&gt;
-&lt;p&gt;App 会在后台自动同步和分析指标数据，帮你发现长期的压力趋势、找出影响你状态的关键因素，并给出具体可行的改善建议。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;实时压力监测&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/wQPe0xD.jpeg&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;压力走势分析&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/YOCNc6H.jpeg&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;压力时段分析&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/h8rP5UT.jpeg&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;压力洞察&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/5KPnj5L.jpeg&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;行动建议&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/cV5dYYp.jpeg&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;关于隐私：App 只会读取“健康”数据进行本地分析，所有结果都保存在你的手机上，绝不上传云端。&lt;/strong&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h4&gt;&lt;strong&gt;福利与定价&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;核心的实时压力检测功能是&lt;strong&gt;免费&lt;/strong&gt;的。&lt;/p&gt;
-&lt;p&gt;这次也为 V2EX 的朋友们准备了 &lt;strong&gt;10 个 Pro 权益月度兑换码&lt;/strong&gt;，在评论里抽楼送出。&lt;/p&gt;
-&lt;p&gt;Pro 版解锁所有高级功能，提供了大家最关心的&lt;strong&gt;一次性买断&lt;/strong&gt;选项：&lt;/p&gt;
+      <title>请教下现在 5、6 年 Java 后端面试主要问啥呢</title>
+      <link>https://www.v2ex.com/t/1186180</link>
+      <guid>v2ex-1186180</guid>
+      <pubDate>Fri, 16 Jan 2026 04:05:23 GMT</pubDate>
+      <description>&lt;p&gt;一线城市，部门越来越卷了，本来工资就不高，然后公积金又从 12%直接降到 5%了，年后看看机会了。&lt;/p&gt;
+&lt;p&gt;请教下现在后端面试都问些啥呢？算法，ai 需要到什么程度呢？有没有新一些的八股推荐下呢？多谢各位&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[送 20 个终身码 + 100 个订阅码] 中年程序员裸辞自救：从后端转行独立开发，开发了一款待办事项和习惯管理 App</title>
+      <link>https://www.v2ex.com/t/1186214</link>
+      <guid>v2ex-1186214</guid>
+      <pubDate>Fri, 16 Jan 2026 06:07:28 GMT</pubDate>
+      <description>&lt;p&gt;过去我是一名后端开发。在一家公司呆了几年后，&lt;strong&gt;我越来越无法从工作中找到成就感和自我价值的实现感。&lt;/strong&gt;不仅如此，我还遭受到了严重的价值拒绝和否定。&lt;/p&gt;
+&lt;p&gt;上头一句话，我这个“大头兵”就得忙得失去半条命，最严重的时候我一个月累计加班了几千个小时。我付出了这么大的努力却被忽视，而我另一个小失误却被批判，这一剂最猛烈的”职场毒药“，让我陷入了严重的焦虑和抑郁，也让我幡然醒悟。&lt;/p&gt;
+&lt;p&gt;我开始越来越频繁地思考一个问题：&lt;strong&gt;“仅仅为了拿一份薪水，这样子糟蹋自己的生命，值得吗？”&lt;/strong&gt;最终，我还是做出了人生中最大胆的决定：&lt;strong&gt;离开了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我不仅仅是因为不堪忍受职场，也是因为我内心一直想拥有一个&lt;strong&gt;属于我自己的产品&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3&gt;从后端到独立开发者的“深居简出”&lt;/h3&gt;
+&lt;p&gt;于是，在过去的几个月里，我像个苦行僧一样深居简出：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;一次性买断：¥138 (永久)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;年度订阅：¥99 (含免费试用)&lt;/li&gt;
-&lt;li&gt;月度订阅：¥12&lt;/li&gt;
+&lt;li&gt;从零开始学习 Swift 和 SwiftUI ；&lt;/li&gt;
+&lt;li&gt;学习使用 Xcode 和 App Store Connect ；&lt;/li&gt;
+&lt;li&gt;一个人摸索注册 LLC 公司，完成地址公证，EIN ，注册外区 Apple ID ，申请邓白氏编码，注册企业版苹果开发者账号&lt;/li&gt;
+&lt;li&gt;注册个人公司、ICP 备案；&lt;/li&gt;
+&lt;li&gt;日复一日地写代码，不停地“打磨抛光” App&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;App Store 链接：&lt;/strong&gt; [&lt;a href=&quot;https://apps.apple.com/cn/app/stressease-%E5%8E%8B%E5%8A%9B%E5%8A%A9%E6%89%8B/id6754057948&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/cn/app/stressease-%E5%8E%8B%E5%8A%9B%E5%8A%A9%E6%89%8B/id6754057948&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Avanti: 待办事项和习惯养成&lt;/strong&gt; 就是在这个过程中诞生的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Avanti&lt;/strong&gt; 是意大利语里的一个单词，意思是&lt;strong&gt;“前进、向前、进来”&lt;/strong&gt;，个人觉得非常契合作为“待办事项 &amp;amp; 习惯养成”App 的核心理念（不断前进）。为了方便，我贴出 Avanti 发音的谐音： &lt;strong&gt;阿万提&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;目前，Avanti 的主要功能是&lt;strong&gt;待办事项管理、习惯养成和戒除&lt;/strong&gt;，定位是要成为用户的 &lt;strong&gt;「人生旅途的长期伴侣」&lt;/strong&gt;。既然定位为「长期伴侣」，后续还会加入新的功能，敬请期待。&lt;/p&gt;
+&lt;p&gt;Avanti 的核心优势有：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;无需账户，无登录注册，拒绝追踪&lt;/li&gt;
+&lt;li&gt;隐私至上，数据完全私有，数据通过 Apple  iCloud 同步&lt;/li&gt;
+&lt;li&gt;完善和灵活的待办事项管理，用户可以按需启用一些功能；完善的习惯养成和戒除记录和跟踪功能&lt;/li&gt;
+&lt;li&gt;订阅模式是「一个订阅，多设备通行」，后续会上线 Mac 和 iPad 版&lt;/li&gt;
+&lt;li&gt;原生交互体验，简洁、高效&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;App 截图&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;主页&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/KHmFvUx.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;互动与记录&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/VsH299A.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;习惯变成每日待办&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/ZOyO1bI.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;习惯养成：记录和跟踪&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/x38ZYCh.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;习惯戒除，记录每次对抗坏习惯的胜利，以及偶有的失手&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/wPYEaLW.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;项目，或者成为自定义列表&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/YlZq9jq.jpeg&quot;/&gt;&lt;/p&gt;
 &lt;hr/&gt;
-&lt;p&gt;App 还是早期版本，期待各位拥有 Apple Watch 的朋友们来试试，任何反馈和吐槽都对我非常重要。谢谢！&lt;/p&gt;
+&lt;h3&gt;🎁 V2EX 专属福利 (庆祝新生版)&lt;/h3&gt;
+&lt;p&gt;为了感谢 V 友们的支持，也为了纪念这次转型，我准备了以下福利（支持 iOS 17 及更新版本的系统）。&lt;/p&gt;
+&lt;h4&gt;1️⃣ 终身版兑换码 (Lifetime) x 20&lt;/h4&gt;
+&lt;p&gt;价值最高。 &lt;strong&gt;防爬虫处理：&lt;/strong&gt; 请复制下方代码，&lt;strong&gt;删除其中的 &lt;code&gt;#&lt;/code&gt; 符号&lt;/strong&gt; 后即可使用。&lt;/p&gt;
+&lt;p&gt;HLHWKXW#9WK39&lt;/p&gt;
+&lt;p&gt;T73FWHKNJM#AX&lt;/p&gt;
+&lt;p&gt;AN4Y4KL9XEH#6&lt;/p&gt;
+&lt;p&gt;Y9KYHPF#FWRNF&lt;/p&gt;
+&lt;p&gt;RP7#FEERFR64H&lt;/p&gt;
+&lt;p&gt;JT#JNE4R6FMXN&lt;/p&gt;
+&lt;p&gt;6#XE9W9MY9XAH&lt;/p&gt;
+&lt;p&gt;JH77#L6PMEX9M&lt;/p&gt;
+&lt;p&gt;39NKYJKJ49#HJ&lt;/p&gt;
+&lt;p&gt;MN#WHF9Y337R4&lt;/p&gt;
+&lt;p&gt;H4RRRTYN#6K6P&lt;/p&gt;
+&lt;p&gt;R#NKN36A3PYLY&lt;/p&gt;
+&lt;p&gt;6YKXWL3#M9MYA&lt;/p&gt;
+&lt;p&gt;9TRK3NF4MXX#J&lt;/p&gt;
+&lt;p&gt;MNWLE7RKTL#FK&lt;/p&gt;
+&lt;p&gt;HL6RJJ63R#LKH&lt;/p&gt;
+&lt;p&gt;KTM46#XTW6RA4&lt;/p&gt;
+&lt;p&gt;WEAY#K4TTEA9X&lt;/p&gt;
+&lt;p&gt;WJ#RLN3A6H4R9&lt;/p&gt;
+&lt;p&gt;HAY3A#RMJY4NR&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📝 使用方法：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;复制上方代码并&lt;strong&gt;删掉 &lt;code&gt;#&lt;/code&gt;&lt;strong&gt;。&lt;/strong&gt;请勿选择&lt;/strong&gt;「使用摄像头」扫描兑换码&lt;/li&gt;
+&lt;li&gt;在 iPhone 桌面 &lt;strong&gt;长按 App Store 图标&lt;/strong&gt; -&amp;gt; 选择 &lt;strong&gt;「兑换」&lt;/strong&gt; -&amp;gt; 粘贴代码。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键一步：&lt;/strong&gt; 兑换成功后打开 Avanti ，在「设置」 Tab 页面点击「升级」按钮进入「升级/订阅」页面，点击底部的 &lt;strong&gt;「恢复购买」&lt;/strong&gt; 即可解锁。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;2️⃣ 前 3 个月免费的订阅优惠 x 100 （原订阅价格是 9.9 元/月）&lt;/h4&gt;
+&lt;p&gt;送给愿意深度体验的朋友，仅前 100 次兑换有效：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6752674039&amp;amp;code=V2EX3M&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6752674039&amp;amp;code=V2EX3M&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如何领取 3 个月福利：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;直接点击上方链接即可拉起 App Store 自动兑换。&lt;/li&gt;
+&lt;li&gt;回到 App 内如果未生效，需在「设置」 Tab 页面点击「升级」按钮进入「升级/订阅」页面，点击底部的 &lt;strong&gt;「恢复购买」&lt;/strong&gt; 即可解锁。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr/&gt;
+&lt;h3&gt;☕️ 写在最后&lt;/h3&gt;
+&lt;p&gt;如果没有抢到码，可以开始 7 天免费试用并锁定限时优惠订阅价，&lt;strong&gt;Avanti 的订阅价格仅需 9.9 元/月，或者 88 元/年&lt;/strong&gt;。
+这 9.9 元对我来说，不仅是一杯饮料钱，更是对我从后端转型独立开发、成立一人公司这条路的一种肯定。&lt;/p&gt;
+&lt;p&gt;👉 &lt;strong&gt;App Store 下载地址：&lt;/strong&gt; &lt;a href=&quot;https://apps.apple.com/app/id6752674039&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/id6752674039&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;无论下载与否，都感谢你花时间看完这个“中年程序员裸辞自救”的故事。
+如果你也在经历职业倦怠，或者想了解独立开发的流程（备案、上架等），欢迎在评论区交流。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>做了一款不会碰运气求解的扫雷[摸鱼]</title>
+      <link>https://www.v2ex.com/t/1186217</link>
+      <guid>v2ex-1186217</guid>
+      <pubDate>Fri, 16 Jan 2026 06:15:38 GMT</pubDate>
+      <description>&lt;p&gt;扫雷的时候经常遇到解到最后需要碰运气求解，尤其是高级难度扫到最后炸掉，非常难受，于是整了一个 100%可解的扫雷。&lt;/p&gt;
+&lt;p&gt;完全依赖于逻辑推理，玩家可以完全通过分析来找到每个地雷的位置，而不需要依赖运气。每一局都是 100%可解的，解决方案是独一无二的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;网页版&lt;/strong&gt;：&lt;a href=&quot;https://minesweeper.1b.mk/&quot; rel=&quot;nofollow&quot;&gt;https://minesweeper.1b.mk/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;摸鱼 vscode 插件版&lt;/strong&gt;：&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=Chenguang.clearbomb&quot; rel=&quot;nofollow&quot;&gt;https://marketplace.visualstudio.com/items?itemName=Chenguang.clearbomb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;开始摸鱼&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>你们对自己的投资收益率的要求是多少？</title>
+      <link>https://www.v2ex.com/t/1186244</link>
+      <guid>v2ex-1186244</guid>
+      <pubDate>Fri, 16 Jan 2026 07:19:48 GMT</pubDate>
+      <description>&lt;p&gt;每年赚到百分之多少的收益率你觉得是符合自己预期的，说说你的理由。&lt;/p&gt;
 </description>
     </item>
   </channel>
