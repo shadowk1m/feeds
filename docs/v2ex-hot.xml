@@ -4,58 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 17 Jan 2026 05:41:20 GMT</lastBuildDate>
-    <item>
-      <title>天天叫 AI 编程多厉害，真用起来气死个人啊，到底是谁说不用自己写啊</title>
-      <link>https://www.v2ex.com/t/1186218</link>
-      <guid>v2ex-1186218</guid>
-      <pubDate>Fri, 16 Jan 2026 06:15:48 GMT</pubDate>
-      <description>&lt;p&gt;我写公司的一些底层框架，说个需求让 AI 嘎嘎给你一顿写，乍一看也算是实现了，但是细节太难受了，这里不考虑缓存击穿，那里不考虑性能问题。&lt;/p&gt;
-&lt;p&gt;有啥技巧没？请教一下大家&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[送终身会员] 迫于饱受 Mac 系统的折磨，搓了个 Mac 平台的输入法自动切换工具 - InputSwitcher</title>
-      <link>https://www.v2ex.com/t/1186212</link>
-      <guid>v2ex-1186212</guid>
-      <pubDate>Fri, 16 Jan 2026 05:56:37 GMT</pubDate>
-      <description>&lt;p&gt;xdm 好，混迹 V 站这么久，今天终于轮到我来“分享创造”了！&lt;/p&gt;
-&lt;h3&gt;缘起&lt;/h3&gt;
-&lt;p&gt;事情还要从上个月（ 12 月 4 号）说起。当时我在技术群里求助，吐槽 Mac 总是莫名其妙自动切换回它自己的自带输入法，非常打断心流。
-当时的聊天截图如下，群里大佬给出的“硬核”建议是——“卸载自带输入法” 😂&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;聊天求助&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.inputswitcher.com/cc534d8b-9b4f-49b7-adc1-38d9815fc652.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;折腾&lt;/h3&gt;
-&lt;p&gt;玩笑归玩笑，我想了一下原理，其实通过监听 APP 的焦点切换事件，应该就能实现自动化切换。
-虽然之前学过 Flutter 和 Swift ，本来打算自己手搓一个。但转念一想，现在 AI 既然都这么努力了，为什么不试试让 AI 帮我写呢？
-反正我自己能看懂代码，逻辑把控住，不至于写出失控的代码。
-于是，在 AI 的辅助下，在这个周末搓出了这个小工具。&lt;/p&gt;
-&lt;h3&gt;意外之喜&lt;/h3&gt;
-&lt;p&gt;工具做出来后，想着“来都来了”，不如顺手加点 Pro 功能，申请了支付接口，试试能不能赚赚刀乐？
-然后火速上官网，就放着没管了。&lt;/p&gt;
-&lt;p&gt;讲真，咱也不知道这破玩意儿到底有没有人用，更别说下单买 Pro 了 —— 甚至我自己都一直在用 Free 版本 😂&lt;/p&gt;
-&lt;p&gt;直到前些天，突然收到了支付平台的用户支付邮件。&lt;/p&gt;
-&lt;p&gt;Ohhh~！不仅有人用！还有人愿意为它买单！&lt;/p&gt;
-&lt;h3&gt;福利&lt;/h3&gt;
-&lt;p&gt;既然验证了需求，就发出来给 V 友们送一波终身码。
-生成了 100 个 Pro 版终身会员兑换码，希望能帮到同样被输入法折磨的 hxd 。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;优惠码&lt;/strong&gt;：&lt;code&gt;JA4Y056FBC&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;使用方式：点击官网的 [购买 Pro] 跳转支付页面后，填写折扣码就 OK~不需要填写支付卡等信息，拿了的 xdm 留个言反馈反馈呀~&lt;/p&gt;
-&lt;p&gt;官网链接: &lt;a href=&quot;https://inputswitcher.com/&quot; rel=&quot;nofollow&quot;&gt;https://inputswitcher.com/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 17 Jan 2026 06:17:35 GMT</lastBuildDate>
     <item>
       <title>从此不再买 A 股</title>
       <link>https://www.v2ex.com/t/1186297</link>
       <guid>v2ex-1186297</guid>
       <pubDate>Fri, 16 Jan 2026 09:51:17 GMT</pubDate>
       <description>如题。今天翻到一个评论&lt;br /&gt;&lt;br /&gt;“赌场老板擅自更改赌场规则是很恶劣的行为。”&lt;br /&gt;&lt;br /&gt;我真的很认同。之前以为股市稍微是清净地。没有房地产那么恶劣。金融毕竟国之命脉。&lt;br /&gt;&lt;br /&gt;如今利欧的停牌。尾盘的巨大压单。还有如今的局面。&lt;br /&gt;都说明一件事。君子不立危墙之下。&lt;br /&gt;&lt;br /&gt;各位江湖再见，或许再也不见。</description>
-    </item>
-    <item>
-      <title>大家现在在用什么 TODO 管理软件？</title>
-      <link>https://www.v2ex.com/t/1186210</link>
-      <guid>v2ex-1186210</guid>
-      <pubDate>Fri, 16 Jan 2026 05:48:39 GMT</pubDate>
-      <description>轻量、跨平台，愿意接受付费</description>
     </item>
     <item>
       <title>结婚是不是都得要忍？？</title>
@@ -72,90 +27,6 @@
       <description>SOUI 目前已经支持 windows, linux, macos ，轻量级，高性能，纯国产，兼容 windows api,编译简单，核心依赖库都采用源代码方式编译，移植完成 richedit, scintilla 编辑器支持 linux, macos （ scintilla 原生支持跨平台，但 soui 里只使用它的 windows 版本实现跨平台）。&lt;br /&gt;就是这样强大的一套框架，关注的人确屈指可数，问题出在哪？&lt;br /&gt;有兴趣的朋友可以自己拉代码： &lt;a target=&quot;_blank&quot; href=&quot;https://gitee.com/setoutsoft/soui4&quot; rel=&quot;nofollow noopener&quot;&gt;https://gitee.com/setoutsoft/soui4&lt;/a&gt;&lt;br /&gt;最新版本集成了一套棋牌游戏动画框架，动画效果碾压目前市场上所有同类游戏。&lt;br /&gt;视频可以看看我发表在知乎的效果：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.zhihu.com/zvideo/1987925917578842918&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.zhihu.com/zvideo/1987925917578842918&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.zhihu.com/pin/1994469335847171772&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.zhihu.com/pin/1994469335847171772&lt;/a&gt;</description>
     </item>
     <item>
-      <title>[送 20 个终身码 + 100 个订阅码] 中年程序员裸辞自救：从后端转行独立开发，开发了一款待办事项和习惯管理 App</title>
-      <link>https://www.v2ex.com/t/1186214</link>
-      <guid>v2ex-1186214</guid>
-      <pubDate>Fri, 16 Jan 2026 06:07:28 GMT</pubDate>
-      <description>&lt;p&gt;过去我是一名后端开发。在一家公司呆了几年后，&lt;strong&gt;我越来越无法从工作中找到成就感和自我价值的实现感。&lt;/strong&gt;不仅如此，我还遭受到了严重的价值拒绝和否定。&lt;/p&gt;
-&lt;p&gt;上头一句话，我这个“大头兵”就得忙得失去半条命，最严重的时候我一个月累计加班了几千个小时。我付出了这么大的努力却被忽视，而我另一个小失误却被批判，这一剂最猛烈的”职场毒药“，让我陷入了严重的焦虑和抑郁，也让我幡然醒悟。&lt;/p&gt;
-&lt;p&gt;我开始越来越频繁地思考一个问题：&lt;strong&gt;“仅仅为了拿一份薪水，这样子糟蹋自己的生命，值得吗？”&lt;/strong&gt;最终，我还是做出了人生中最大胆的决定：&lt;strong&gt;离开了。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我不仅仅是因为不堪忍受职场，也是因为我内心一直想拥有一个&lt;strong&gt;属于我自己的产品&lt;/strong&gt;。&lt;/p&gt;
-&lt;h3&gt;从后端到独立开发者的“深居简出”&lt;/h3&gt;
-&lt;p&gt;于是，在过去的几个月里，我像个苦行僧一样深居简出：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;从零开始学习 Swift 和 SwiftUI ；&lt;/li&gt;
-&lt;li&gt;学习使用 Xcode 和 App Store Connect ；&lt;/li&gt;
-&lt;li&gt;一个人摸索注册 LLC 公司，完成地址公证，EIN ，注册外区 Apple ID ，申请邓白氏编码，注册企业版苹果开发者账号&lt;/li&gt;
-&lt;li&gt;注册个人公司、ICP 备案；&lt;/li&gt;
-&lt;li&gt;日复一日地写代码，不停地“打磨抛光” App&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Avanti: 待办事项和习惯养成&lt;/strong&gt; 就是在这个过程中诞生的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Avanti&lt;/strong&gt; 是意大利语里的一个单词，意思是&lt;strong&gt;“前进、向前、进来”&lt;/strong&gt;，个人觉得非常契合作为“待办事项 &amp;amp; 习惯养成”App 的核心理念（不断前进）。为了方便，我贴出 Avanti 发音的谐音： &lt;strong&gt;阿万提&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;目前，Avanti 的主要功能是&lt;strong&gt;待办事项管理、习惯养成和戒除&lt;/strong&gt;，定位是要成为用户的 &lt;strong&gt;「人生旅途的长期伴侣」&lt;/strong&gt;。既然定位为「长期伴侣」，后续还会加入新的功能，敬请期待。&lt;/p&gt;
-&lt;p&gt;Avanti 的核心优势有：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;无需账户，无登录注册，拒绝追踪&lt;/li&gt;
-&lt;li&gt;隐私至上，数据完全私有，数据通过 Apple  iCloud 同步&lt;/li&gt;
-&lt;li&gt;完善和灵活的待办事项管理，用户可以按需启用一些功能；完善的习惯养成和戒除记录和跟踪功能&lt;/li&gt;
-&lt;li&gt;订阅模式是「一个订阅，多设备通行」，后续会上线 Mac 和 iPad 版&lt;/li&gt;
-&lt;li&gt;原生交互体验，简洁、高效&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;App 截图&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;主页&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/KHmFvUx.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;互动与记录&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/VsH299A.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;习惯变成每日待办&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/ZOyO1bI.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;习惯养成：记录和跟踪&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/x38ZYCh.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;习惯戒除，记录每次对抗坏习惯的胜利，以及偶有的失手&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/wPYEaLW.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;项目，或者成为自定义列表&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/YlZq9jq.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🎁 V2EX 专属福利 (庆祝新生版)&lt;/h3&gt;
-&lt;p&gt;为了感谢 V 友们的支持，也为了纪念这次转型，我准备了以下福利（支持 iOS 17 及更新版本的系统）。&lt;/p&gt;
-&lt;h4&gt;1️⃣ 终身版兑换码 (Lifetime) x 20&lt;/h4&gt;
-&lt;p&gt;价值最高。 &lt;strong&gt;防爬虫处理：&lt;/strong&gt; 请复制下方代码，&lt;strong&gt;删除其中的 &lt;code&gt;#&lt;/code&gt; 符号&lt;/strong&gt; 后即可使用。&lt;/p&gt;
-&lt;p&gt;HLHWKXW#9WK39&lt;/p&gt;
-&lt;p&gt;T73FWHKNJM#AX&lt;/p&gt;
-&lt;p&gt;AN4Y4KL9XEH#6&lt;/p&gt;
-&lt;p&gt;Y9KYHPF#FWRNF&lt;/p&gt;
-&lt;p&gt;RP7#FEERFR64H&lt;/p&gt;
-&lt;p&gt;JT#JNE4R6FMXN&lt;/p&gt;
-&lt;p&gt;6#XE9W9MY9XAH&lt;/p&gt;
-&lt;p&gt;JH77#L6PMEX9M&lt;/p&gt;
-&lt;p&gt;39NKYJKJ49#HJ&lt;/p&gt;
-&lt;p&gt;MN#WHF9Y337R4&lt;/p&gt;
-&lt;p&gt;H4RRRTYN#6K6P&lt;/p&gt;
-&lt;p&gt;R#NKN36A3PYLY&lt;/p&gt;
-&lt;p&gt;6YKXWL3#M9MYA&lt;/p&gt;
-&lt;p&gt;9TRK3NF4MXX#J&lt;/p&gt;
-&lt;p&gt;MNWLE7RKTL#FK&lt;/p&gt;
-&lt;p&gt;HL6RJJ63R#LKH&lt;/p&gt;
-&lt;p&gt;KTM46#XTW6RA4&lt;/p&gt;
-&lt;p&gt;WEAY#K4TTEA9X&lt;/p&gt;
-&lt;p&gt;WJ#RLN3A6H4R9&lt;/p&gt;
-&lt;p&gt;HAY3A#RMJY4NR&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;📝 使用方法：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;复制上方代码并&lt;strong&gt;删掉 &lt;code&gt;#&lt;/code&gt;&lt;strong&gt;。&lt;/strong&gt;请勿选择&lt;/strong&gt;「使用摄像头」扫描兑换码&lt;/li&gt;
-&lt;li&gt;在 iPhone 桌面 &lt;strong&gt;长按 App Store 图标&lt;/strong&gt; -&amp;gt; 选择 &lt;strong&gt;「兑换」&lt;/strong&gt; -&amp;gt; 粘贴代码。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;关键一步：&lt;/strong&gt; 兑换成功后打开 Avanti ，在「设置」 Tab 页面点击「升级」按钮进入「升级/订阅」页面，点击底部的 &lt;strong&gt;「恢复购买」&lt;/strong&gt; 即可解锁。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4&gt;2️⃣ 前 3 个月免费的订阅优惠 x 100 （原订阅价格是 9.9 元/月）&lt;/h4&gt;
-&lt;p&gt;送给愿意深度体验的朋友，仅前 100 次兑换有效：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6752674039&amp;amp;code=V2EX3M&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6752674039&amp;amp;code=V2EX3M&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如何领取 3 个月福利：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;直接点击上方链接即可拉起 App Store 自动兑换。&lt;/li&gt;
-&lt;li&gt;回到 App 内如果未生效，需在「设置」 Tab 页面点击「升级」按钮进入「升级/订阅」页面，点击底部的 &lt;strong&gt;「恢复购买」&lt;/strong&gt; 即可解锁。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;h3&gt;☕️ 写在最后&lt;/h3&gt;
-&lt;p&gt;如果没有抢到码，可以开始 7 天免费试用并锁定限时优惠订阅价，&lt;strong&gt;Avanti 的订阅价格仅需 9.9 元/月，或者 88 元/年&lt;/strong&gt;。
-这 9.9 元对我来说，不仅是一杯饮料钱，更是对我从后端转型独立开发、成立一人公司这条路的一种肯定。&lt;/p&gt;
-&lt;p&gt;👉 &lt;strong&gt;App Store 下载地址：&lt;/strong&gt; &lt;a href=&quot;https://apps.apple.com/app/id6752674039&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/id6752674039&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;无论下载与否，都感谢你花时间看完这个“中年程序员裸辞自救”的故事。
-如果你也在经历职业倦怠，或者想了解独立开发的流程（备案、上架等），欢迎在评论区交流。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>你们对自己的投资收益率的要求是多少？</title>
       <link>https://www.v2ex.com/t/1186244</link>
       <guid>v2ex-1186244</guid>
@@ -164,25 +35,98 @@
 </description>
     </item>
     <item>
-      <title>做了一款不会碰运气求解的扫雷[摸鱼]</title>
-      <link>https://www.v2ex.com/t/1186217</link>
-      <guid>v2ex-1186217</guid>
-      <pubDate>Fri, 16 Jan 2026 06:15:38 GMT</pubDate>
-      <description>&lt;p&gt;扫雷的时候经常遇到解到最后需要碰运气求解，尤其是高级难度扫到最后炸掉，非常难受，于是整了一个 100%可解的扫雷。&lt;/p&gt;
-&lt;p&gt;完全依赖于逻辑推理，玩家可以完全通过分析来找到每个地雷的位置，而不需要依赖运气。每一局都是 100%可解的，解决方案是独一无二的。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;网页版&lt;/strong&gt;：&lt;a href=&quot;https://minesweeper.1b.mk/&quot; rel=&quot;nofollow&quot;&gt;https://minesweeper.1b.mk/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;摸鱼 vscode 插件版&lt;/strong&gt;：&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=Chenguang.clearbomb&quot; rel=&quot;nofollow&quot;&gt;https://marketplace.visualstudio.com/items?itemName=Chenguang.clearbomb&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;开始摸鱼&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>很认真的问，我自己能否做出个人主页网站？</title>
       <link>https://www.v2ex.com/t/1186333</link>
       <guid>v2ex-1186333</guid>
       <pubDate>Fri, 16 Jan 2026 13:37:18 GMT</pubDate>
       <description>很久以来我都想拥有一个主页，我自己的网站，用于展示一些传媒方面的作品。作为一个没有编程经验的小白，在和 ChatGPT 多次对话后，我感觉这仍是件难以实现的事情。&lt;br /&gt;&lt;br /&gt;恰巧最近访问了一个朋友的网站，他用 Gemini 写的，放在朋友的服务器上，最重要的是，他告诉我可以用阿里云当服务器，备案简单且免费，可是在本人与阿里云的 ai 建站工具几轮沟通后，都被 ai 推荐的网站模板丑哭，跟国内许多企业主页相同，简单的色块，持续的滚动翻页，手机版颜值也一般。（我会附上心仪的网页设计）&lt;br /&gt;&lt;br /&gt;So 我想请教一些有网页编程经验的朋友们，我该怎么做？&lt;br /&gt;&lt;br /&gt;我的目标是获得一个他人可访问并查看（主要是国内用户）视频&amp;amp;照片的网站，视频可以添加 &lt;a target=&quot;_blank&quot; href=&quot;http://xinpianchang.com&quot; rel=&quot;nofollow noopener&quot;&gt;xinpianchang.com&lt;/a&gt; 的链接，照片——如果网站存储麻烦的话——也可以放一个第三方链接。&lt;br /&gt;&lt;br /&gt;我目前的计划路径是：&lt;br /&gt; 1. 学习并使用 Gemini 来设计网页；&lt;br /&gt; 2. 将定稿网页放置到阿里云（我不清楚怎么做 but will try ）；&lt;br /&gt; 3. 备案网站（对域名没有特殊要求）&lt;br /&gt; &lt;br /&gt; PS：我心仪的摄影师网站： &lt;a target=&quot;_blank&quot; href=&quot;https://samuelbayer.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://samuelbayer.com/&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>令大家印象深刻的梗或吃瓜事件都有啥</title>
+      <link>https://www.v2ex.com/t/1186372</link>
+      <guid>v2ex-1186372</guid>
+      <pubDate>Sat, 17 Jan 2026 00:19:51 GMT</pubDate>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;小红帽、100 块都不给我
+[原版视频 100 块他都不给我！素材 get√-哔哩哔哩]  &lt;a href=&quot;https://b23.tv/iFbxKOT&quot; rel=&quot;nofollow&quot;&gt;https://b23.tv/iFbxKOT&lt;/a&gt;
+[原版视频 100 块他都不给我！素材 get√-哔哩哔哩]  &lt;a href=&quot;https://b23.tv/yQcg6Po&quot; rel=&quot;nofollow&quot;&gt;https://b23.tv/yQcg6Po&lt;/a&gt;
+[一百块钱都不给我，经典回顾-哔哩哔哩]  &lt;a href=&quot;https://b23.tv/2xuUGdV&quot; rel=&quot;nofollow&quot;&gt;https://b23.tv/2xuUGdV&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;瓜子哥、我跟你什么仇什么怨
+[全程高能！瓜子哥咆哮“我跟你有仇啊”-哔哩哔哩]  &lt;a href=&quot;https://b23.tv/NPWUlvl&quot; rel=&quot;nofollow&quot;&gt;https://b23.tv/NPWUlvl&lt;/a&gt;
+[ [撕逼神曲] 我跟你什么仇什么怨？-哔哩哔哩]  &lt;a href=&quot;https://b23.tv/UevZrU4&quot; rel=&quot;nofollow&quot;&gt;https://b23.tv/UevZrU4&lt;/a&gt;
+[ 2014 年度四大撕逼-哔哩哔哩]  &lt;a href=&quot;https://b23.tv/2nMitSJ&quot; rel=&quot;nofollow&quot;&gt;https://b23.tv/2nMitSJ&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>AI 很厉害，只是不会用罢了。我用 AI 写了个 13K 的软件，并开源了。</title>
+      <link>https://www.v2ex.com/t/1186306</link>
+      <guid>v2ex-1186306</guid>
+      <pubDate>Fri, 16 Jan 2026 10:13:30 GMT</pubDate>
+      <description>&lt;p&gt;很多人用 AI 失败，是因为把它当成了“许愿池”（许个愿，代码就全自动出来了）。 正确的姿势是：把 AI 当成一个“无限体力的初级工程师”，你要做的就是给出想法，然后又反复去质疑 AI 。&lt;/p&gt;
+&lt;p&gt;我说我要做一个复制图片，直接粘贴到文件的软件。
+这是个很基础很简单的需求，可能程序员手搓都只要几分钟。&lt;/p&gt;
+&lt;p&gt;起初 AI 给了我一个 Python 方案 (Pillow + ctypes)。
+功能是实现了，但打包出来 10MB+，启动还慢。
+如果我是小白，可能就这样算了，然后吐槽 AI 做的东西臃肿。 &lt;/p&gt;
+&lt;p&gt;虽然我是代码小白，但是我觉得我这个功能不需要这么复杂，
+所以下面这个提示词就非常关键了，
+我让 AI 帮我到网上去搜索解决方案，特别是 GitHub 开源社区，并给出最佳实践。
+然后 AI 就给了我这个答复：&lt;/p&gt;
+&lt;p&gt;有更轻量的方案！
+我查阅了 GitHub 上的开源实践，发现要实现“原生且超小体积”，最佳方案是使用 C# 编写。Windows &lt;a href=&quot;http://电脑自带.NET&quot; rel=&quot;nofollow&quot;&gt;电脑自带.NET&lt;/a&gt; 运行库，所以我们完全不需要打包 30MB 的 Python 。
+新方案 (V3.0 原生版)： 我们将用 C# 重写这个工具。体积预期：20 KB (你没看错，是 KB ，只有原先的 1/1500)。&lt;/p&gt;
+&lt;p&gt;虽然只是一个很小的软件，但整个过程是从提出一个很小的需求，
+然后通过不断的迭代，最后形成产品发布到 gitHub 开源，
+并且制作了宣传网页。
+是一个很完整的闭环，有兴趣你可以看一下，里面也记录了我这整个开发过程。&lt;/p&gt;
+&lt;p&gt;我没写一句代码，因为我不会，我只是不断的去质疑 AI 。
+👉&lt;a href=&quot;https://dearhua26.github.io/PasteHere/&quot; rel=&quot;nofollow&quot;&gt;https://dearhua26.github.io/PasteHere/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;(如果觉得这种开发模式有点意思，求个 Star 🌟，我想看看有多少人也是“AI 实用主义者”！)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>观《想 2000 以里奖励自己点东西》发现，很多说洗脚的，去洗脚不怕被帽子按吗</title>
+      <link>https://www.v2ex.com/t/1186225</link>
+      <guid>v2ex-1186225</guid>
+      <pubDate>Fri, 16 Jan 2026 06:34:17 GMT</pubDate>
+      <description>观《想 2000 以里奖励自己点东西》发现，很多说洗脚的，去洗脚不怕被帽子按吗</description>
+    </item>
+    <item>
+      <title>开 8 元保号套餐也可以的！</title>
+      <link>https://www.v2ex.com/t/1186243</link>
+      <guid>v2ex-1186243</guid>
+      <pubDate>Fri, 16 Jan 2026 07:19:36 GMT</pubDate>
+      <description>&lt;p&gt;前情提要： &lt;a href=&quot;https://v2ex.com/t/1171434&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1171434&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;童鞋门，千万不要在境外平台随便说什么东西不好哇！比如说被坑钱了（经过 60 天后的验证，可以确定 26 年初依旧有流量低保。也就是说可以自己选择想要的套餐 awa&lt;/p&gt;
+&lt;p&gt;移动 8 块钱 2.1G 的套餐，平均一天 70M 。为了省这点流量，大家真是脑洞大开，恨不得用“脑控”来戒掉上网瘾（笑）。但说到底，上网就是要花钱的，脑控仪不存在，流量焦虑却实实在在。别把“保号套餐”当成谁给你的恩赐，那只是个好听的名字。有人开玩笑说全家共用一个手机省钱，但这背后的心酸只有自己知道。关键是，这套餐是你自己选的，没人拿枪指着你。既然选了便宜货，就得接受它的“差点意思”。做生意讲究的就是一分钱一分货，明码标价最重要。咱们这又不是赌场，没必要藏着掖着。商业竞争很残酷，如果你觉得被扣钱了、不够用了，那就按规则办事，没必要非得把这点小事儿上纲上线。&lt;/p&gt;
+&lt;p&gt;8 元套餐不是施舍，而是你作为消费者的合法权利。挺直腰板去用，不必有“低保”的心理负担。但生活总要向前看，如果这 2.1G 流量成了你数字生活的枷锁，那就主动打破它。根据需求去升级套餐，不是向运营商妥协，而是对自己生活质量的负责。与其在 8 元套餐里痛苦地“苟活”，不如主动选择适合自己的价位——这种消费上的自觉与体面，才是真正的尊严。好了，以上基于 AI 生成改写（ gemini ）。&lt;/p&gt;
+&lt;p&gt;每一个运营商都可以有&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>接之前几天发的被叫去派出所的后续</title>
+      <link>https://www.v2ex.com/t/1186356</link>
+      <guid>v2ex-1186356</guid>
+      <pubDate>Fri, 16 Jan 2026 16:05:03 GMT</pubDate>
+      <description>&lt;p&gt;今天早上，叔叔联系我让我周日随便哪个时间过去，后面中午的时候让我两点前尽量赶到，说另外两个技术也要过去，我心想肯定事情大了，然后我们 3 个人一起过去了。&lt;/p&gt;
+&lt;p&gt;到了派出所，叔叔说本来是不追究的都是打工的，但毕竟涉及到刑事案件，还是得正式传唤，但和你们明说，你们 3 个人今天就会取保，上面讨论过不会起诉，然后让我们自己去分局，他也会过去。&lt;/p&gt;
+&lt;p&gt;到了分局在外面排队，他和我们闲聊，说我们都是被二老板害的，然后和我一个准备考编制的同事说，你安心备考，不会起诉没有案底，后面毕竟有违法所得，可能罚半个月到一个月的工资，我说这个我花了一两天时间就做好了，他说罚金到时再说。还问了取保钱够吗，最低 3000 。&lt;/p&gt;
+&lt;p&gt;我另外个同事现在从事算命的，然后我们在外面排队的时候，有个保安还是叔叔搞不清楚，加了我同事微信，说他也爱这个，但因为公职人员，不能给里面人算还是什么的。和我们一起来的叔叔说，我同事上次给他算的一点不准，都没算准他上班了几年，开玩笑说下次抓不到人，找你算一算人在哪，就一直在大厅闲聊。&lt;/p&gt;
+&lt;p&gt;过了很久带我们来的叔叔说，手机不要带进去，放在一个包里他帮我们保管，带进去还得采集信息时间太长，然后我们就进去了。&lt;/p&gt;
+&lt;p&gt;到里面先是把身上东西都拿出来，鞋带抽出来，裤带抽出来，眼镜摘掉，然后拍照和电视里演的一样，给个黄马甲正面侧面。弄好后被带到审讯的地方，脚上时候扣住的。审讯的时候有个旁听。具体审讯细节我不方便说。反正态度挺好的。意思很明确，你们肯定是知情的，但没有离职。&lt;/p&gt;
+&lt;p&gt;在审我的时候，叔叔有事出去了一下，旁听的叔叔和我说，我们对你算好的，同情你们打工的，让你们自己来，算自首，你这个案子大概率都不会起诉。后面出去的叔叔回来，和旁听的说，他们 3 个上面已经商量过了，不起诉了。&lt;/p&gt;
+&lt;p&gt;然后就正常的问问题，我只要态度好认罪认罚就好了。结束后，我问叔叔，我之后想做自媒体可以吗，他说你没有案底，可以做的，还问我怎么不去线下开个培训班，我说我口才不行，他说不会啊。&lt;/p&gt;
+&lt;p&gt;之后被带到一个玻璃房里，因为到了饭点，给了我一个盒饭，吃完带我去采集指纹掌纹脚纹声纹，还有验血什么的，然后又被带到玻璃房里等其他两人审讯结束办取保。&lt;/p&gt;
+&lt;p&gt;办取保的时候，叔叔和我说，可以不用交钱，找个有正经工作的朋友来担保就好，我不想麻烦别人，就说还是交钱吧。等了很久很久，叔叔终于来了，各种签字办取保，说取保期间不能和之前同事联系，2000 取保，钱是我同事老婆带现金过来的，后来才知道为什么久了，因为要现金，我同事老婆弄了很久。&lt;/p&gt;
+&lt;p&gt;取保出来在大厅和叔叔一起拍了个照，后面出去了，又被叫回来说照片不行，我那个 2B 同事比了个大拇指，叔叔说你这是干嘛，这么邪气。然后重新拍了个照片》&lt;/p&gt;
+&lt;p&gt;各回各家的时候，叔叔说每个月到附近派出所签下字，中途如果要去外地，需要和他报备，只要报备一般他都会给过，不确定具体时间，只要不相差太多都没事，他说基本上一个多月就结束了，去不了派出所几次。&lt;/p&gt;
+&lt;p&gt;事情经过就是这样。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
