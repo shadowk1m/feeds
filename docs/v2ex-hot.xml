@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 17 Jan 2026 23:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 23:37:29 GMT</lastBuildDate>
     <item>
       <title>如果你是贾国龙可能更气急败坏</title>
       <link>https://www.v2ex.com/t/1186458</link>
@@ -152,13 +152,24 @@ https://api-jp.jonwinters.pw
 </description>
     </item>
     <item>
-      <title>卧槽 codex 又自己执行了 git restore</title>
-      <link>https://www.v2ex.com/t/1186378</link>
-      <guid>v2ex-1186378</guid>
-      <pubDate>Sat, 17 Jan 2026 02:08:00 GMT</pubDate>
-      <description>&lt;p&gt;碰到过好几次了，经常发生在上下文压缩以后，它会检查工作区情况，发现有代码更改就自言自语说要恢复干净，把上下文压缩前写的代码全恢复了。
-如果开多个窗口会话同时也代码，也经常会互相干扰，自言自语说工作区发生了未知变化，开始恢复再干活，明明都是不同模块的代码也不管。&lt;/p&gt;
-&lt;p&gt;有没有什么好办法？给 &lt;a href=&quot;http://agent.md&quot; rel=&quot;nofollow&quot;&gt;agent.md&lt;/a&gt; 里写个 rule：禁止使用任何 git 命令。禁止 codex 所有操作 git 权限可行吗？ git 操作全部是我手动操作，不让 codex 接触没啥副作用吧？&lt;/p&gt;
+      <title>使用 rustdesk 被反诈联系</title>
+      <link>https://www.v2ex.com/t/1186463</link>
+      <guid>v2ex-1186463</guid>
+      <pubDate>Sat, 17 Jan 2026 09:38:06 GMT</pubDate>
+      <description>&lt;p&gt;最近刚收了个 Macmini ，用 VNC 卡顿有些严重（高性能不知道为何无法启用），所以在昨天在 Macmini 和我的 MacBook 以及 iPhone 上都安装了 Rustdesk 的客户端，并且在自己家的 NAS 中自建服务端并启用了自建的服务端。在今天接到了 96110 的电话。&lt;/p&gt;
+&lt;p&gt;接线员首先问我是不是不在北京了（我的号码是北京的号码），我如实回答。&lt;/p&gt;
+&lt;p&gt;然后她问我最近有没有手机下载什么远程控制软件。其实我当时想到了是 rustdesk ，但我想的是这个也不能控制我手机，只是我用手机控制电脑，所以就说没有下载。&lt;/p&gt;
+&lt;p&gt;她就让我提供我具体的地址，说以后会有上海的反诈中心与我联系，紧接着就问了我一句“XXXX 楼”这里是哪儿呢？&lt;/p&gt;
+&lt;p&gt;我当时听到就有点炸了，因为这就是我现在居住的地址。虽然我知道反诈是能够从运营商那里获取到手机信号地址位置信息的，但在电话中听到一个陌生人说出自己的居住地址，心里面还是会有些发毛。&lt;/p&gt;
+&lt;p&gt;在我和反诈中心接线员确认了地址后，我就问了一句，是因为我下载的 rustdesk 这个远程控制软件么？然后我解释了一下我使用这个程序的原因。接线员也是表示理解。她还是提了一句，说让我务必接听来自上海反诈的电话，因为我已经被反诈系统标记了，不然会很麻烦。然后就挂断了。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;在写这个帖子的时候接到了上海反诈中心的电话，不过这个是机器人客服，问了几个简单的问题，回答了就自动挂断了。根据机器人透漏的信息，我猜如果我拒接的话，北京反诈说的“麻烦“应该就是民警上门。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;写这个帖子的初衷原本是想提醒大家，如果用 rustdesk 软件，可以考虑阻断 &lt;a href=&quot;http://rustdesk.com&quot; rel=&quot;nofollow&quot;&gt;rustdesk.com&lt;/a&gt; 的请求（如果自建的话），或者是走代理。&lt;/p&gt;
+&lt;p&gt;我猜想反诈能联系上我，大概率是因为我在手机移动网络环境使用 rustdesk app 的原因，因为我公司的宽带和家里面的宽带绑定的都不是我的信息。&lt;/p&gt;
+&lt;p&gt;但我刚看了一眼网络请求，我三台设备关于 *.rustdesk.com 的请求都是经过代理了的，这就让我很不解了，不知道大家有没有什么想法，反诈系统是如何检测到的。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;请大家友好讨论，我分享这个并不是要批判反诈系统，我对这套系统持中立态度，它的确有让我感觉到自己的隐私泄露的不安，但想法还是复杂的，我还是相信这套系统帮助不少人的。&lt;/p&gt;
 </description>
     </item>
   </channel>
