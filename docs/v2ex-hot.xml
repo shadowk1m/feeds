@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 18 Jan 2026 17:39:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 18:15:30 GMT</lastBuildDate>
     <item>
       <title>为什么现在经济下行，买新车的还这么多？</title>
       <link>https://www.v2ex.com/t/1186527</link>
@@ -38,6 +38,13 @@
 </description>
     </item>
     <item>
+      <title>想远程控制安卓手机，求大家有提供傻瓜方案</title>
+      <link>https://www.v2ex.com/t/1186528</link>
+      <guid>v2ex-1186528</guid>
+      <pubDate>Sun, 18 Jan 2026 01:23:56 GMT</pubDate>
+      <description>起因是这样的，估计很多人也遇到过，很挠头。&lt;br /&gt;老家父母七十多了，在黑龙江，是被诈骗的重点关注对象，在网上买那些骗人的保健品，有很多保健品都算不上。&lt;br /&gt;我没法时常在他们身边，休假回家的时候告诉他们几乎完全没有效果，打电话说更是没用，软硬都无效。&lt;br /&gt;他们的手机和我的是同一个品牌的，realme ，我给买的。&lt;br /&gt;我本来想使用手机品牌厂家做的一个 APP 叫“家庭空间”，来操作自己父母的手机。&lt;br /&gt;&lt;br /&gt;我在自己手机上测试了一下，操作对方手机，很多步骤需要确认，无法达到静默的情况下操作对方手机。&lt;br /&gt;大家有没有好的办法，我猜测，那些做黑产的 APP ，但是我又不想那么做，那么做也不安全。</description>
+    </item>
+    <item>
       <title>team leader 不写代码正常吗</title>
       <link>https://www.v2ex.com/t/1186524</link>
       <guid>v2ex-1186524</guid>
@@ -45,13 +52,6 @@
       <description>&lt;p&gt;加上 leader 一共 3-4 人的小组。leader 几乎不写代码，只是 review 和根据对代码的一些理解(我感觉没有深入研究过代码逻辑)和自己的经验给一些简单的建议。即使项目严重 delay 了，也不会参与代码开发和 bug fix.  &lt;/p&gt;
 &lt;p&gt;大家遇到的 leader 也是这种情况吗&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>想远程控制安卓手机，求大家有提供傻瓜方案</title>
-      <link>https://www.v2ex.com/t/1186528</link>
-      <guid>v2ex-1186528</guid>
-      <pubDate>Sun, 18 Jan 2026 01:23:56 GMT</pubDate>
-      <description>起因是这样的，估计很多人也遇到过，很挠头。&lt;br /&gt;老家父母七十多了，在黑龙江，是被诈骗的重点关注对象，在网上买那些骗人的保健品，有很多保健品都算不上。&lt;br /&gt;我没法时常在他们身边，休假回家的时候告诉他们几乎完全没有效果，打电话说更是没用，软硬都无效。&lt;br /&gt;他们的手机和我的是同一个品牌的，realme ，我给买的。&lt;br /&gt;我本来想使用手机品牌厂家做的一个 APP 叫“家庭空间”，来操作自己父母的手机。&lt;br /&gt;&lt;br /&gt;我在自己手机上测试了一下，操作对方手机，很多步骤需要确认，无法达到静默的情况下操作对方手机。&lt;br /&gt;大家有没有好的办法，我猜测，那些做黑产的 APP ，但是我又不想那么做，那么做也不安全。</description>
     </item>
     <item>
       <title>如果 IT 不在电脑上安装软件的话,是不是只能看到我和 https 网站之间传输了多少数据?</title>
@@ -94,11 +94,24 @@
 </description>
     </item>
     <item>
-      <title>最新看上了 HOKA 的鞋，穿过的家人们说说最值得买哪个系列的</title>
-      <link>https://www.v2ex.com/t/1186522</link>
-      <guid>v2ex-1186522</guid>
-      <pubDate>Sun, 18 Jan 2026 00:42:13 GMT</pubDate>
-      <description>最新看上了 HOKA 的鞋，穿过的家人们说说最值得买哪个系列的</description>
+      <title>开源无 sim 手机是不是大有可为？</title>
+      <link>https://www.v2ex.com/t/1186612</link>
+      <guid>v2ex-1186612</guid>
+      <pubDate>Sun, 18 Jan 2026 12:18:29 GMT</pubDate>
+      <description>&lt;p&gt;现在挺多人使用两个手机，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一个工作机，上班处理烂事，顺便安装反诈 app 应付检查，安装微信支付宝银行 app ，不能解 bootloader 勉强还算安全；&lt;/li&gt;
+&lt;li&gt;另一个自用机，平常自己用，游戏娱乐，一般不要求 sim 卡，甚至可以用工作机的热点。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果生产开源无 sim 卡的手机作为自用机，应该有以下有点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;没有 sim ，不用入网许可，政府方面要求可能会松&lt;/li&gt;
+&lt;li&gt;没有 sim ，金融相关 app(微信，支付宝，银行）的安全检测可能过不了，导致无法支付，避免丢钱，安全的很。&lt;/li&gt;
+&lt;li&gt;开源，方便社区自己搞操作系统（ lineageos ），公司开发操作系统的工作都省了！&lt;/li&gt;
+&lt;li&gt;少了操作系统和 sim 相关模块，成本低，拿下游戏手机的市场。&lt;/li&gt;
+&lt;li&gt;开源硬件和软件，方便用户 DIY ，方便 root&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
   </channel>
 </rss>
