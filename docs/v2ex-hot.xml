@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 18 Jan 2026 03:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 04:25:45 GMT</lastBuildDate>
     <item>
       <title>如果你是贾国龙可能更气急败坏</title>
       <link>https://www.v2ex.com/t/1186458</link>
@@ -48,28 +48,6 @@ https://api-jp.jonwinters.pw
 </description>
     </item>
     <item>
-      <title>[Offer 求建议] 刚入职外企 1，突然拿到外企 2 的竞争性 Offer，该闪辞吗？</title>
-      <link>https://www.v2ex.com/t/1186409</link>
-      <guid>v2ex-1186409</guid>
-      <pubDate>Sat, 17 Jan 2026 03:57:31 GMT</pubDate>
-      <description>&lt;p&gt;各位 V 友大佬好，最近遇到一个职业选择的难题，想听听大家的看法。&lt;/p&gt;
-&lt;p&gt;背景：开发岗，前阵子入职了某二线城市外企 1 。这段时间感觉公司氛围和待遇都挺不错，Leader 和同事都很 Nice ，WLB 。这对我本来已经是非常满意的选择了。&lt;/p&gt;
-&lt;p&gt;突发变数：在面试 1 的同期，我还参加了某一线城市另一家外企 2 的面试。网上查到 2 的员工背景普遍很硬（ Top 校/大厂），当时怀着“重在参与”的心态，甚至带着点 Imposter Syndrome （冒充者综合征） 去面的。终面后一直没消息，也就以为没戏了（这也是我当时没考虑等 2 的 Offer 而直接入职 1 的原因）。结果就在前几天收到了 2 的正式 Offer ，薪资给得很有竞争力。&lt;/p&gt;
-&lt;p&gt;目前的纠结点：&lt;/p&gt;
-&lt;p&gt;关于背景调查：因为我已经入职了 1 且产生了相关记录（如社保等）。如果我现在选择去 2 ，担心 2 在入职背调/审查时发现我近期有入职记录，导致 Offer 产生变数。&lt;/p&gt;
-&lt;p&gt;心理负担：1 的 Leader 和同事很好。现在突然提出离开，心理上觉得非常对不起现在的 Leader 和团队，尤其是想到之前的帮助，有一种“背叛感”。&lt;/p&gt;
-&lt;p&gt;试用期风险：2 给出的是很有竞争力的薪资，且一线城市节奏通常较快。担心 2 的试用期考核会更加苛刻。&lt;/p&gt;
-&lt;p&gt;基本面对比：&lt;/p&gt;
-&lt;p&gt;外企 1：二线城市，偏 B 端，技术栈可能稍微有些历史包袱，氛围不错，WLB 。&lt;/p&gt;
-&lt;p&gt;外企 2：一线城市，偏 C 端，技术相对前沿，但工作强度和压力未知，薪资更具吸引力。&lt;/p&gt;
-&lt;p&gt;两家在国内的规模接近，都以研发为主，公司层面看稳定性差不多。&lt;/p&gt;
-&lt;p&gt;想请教各位：&lt;/p&gt;
-&lt;p&gt;像这种入职短时间就“闪辞”的情况，去 2 的风险（尤其是背调/记录方面）大吗？&lt;/p&gt;
-&lt;p&gt;如何更体面、专业地处理这种“闪辞”离职？&lt;/p&gt;
-&lt;p&gt;如果是你们，会怎么选择，为什么？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>使用 rustdesk 被反诈联系</title>
       <link>https://www.v2ex.com/t/1186463</link>
       <guid>v2ex-1186463</guid>
@@ -98,6 +76,13 @@ https://api-jp.jonwinters.pw
       <description>背景：两家都是普通农村家庭出身，我四川她贵州，大学认识的，今年快十年了吧，也该修成正果了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;两年前我带女朋友去过一次我们家见过我爸妈，去年过年前我独自去她家见了她爸妈，还算顺利。去年我得到的意思是，结婚的事情需要我家到她们老家谈（以表对当地习俗和对方的尊重）。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;目前已经商定好年后正月初带上爸妈去她家拜访了，大概计划是第一天父母认识认识，顺利的话就开始订亲的事情。听对象说，订亲需要给她们那边的来吃饭亲戚随礼（当地习俗），为了简化我方大老远过去的麻烦，她爸妈到时候可以帮忙采购随礼的东西，我方出钱即可。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;摆在我面前的第一个问题是带啥礼物到女方家（暂不考虑其他亲戚）。背景：两家都是普通农村家庭出身，我四川她贵州，大学认识的，今年快十年了吧，也该修成正果了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;两年前我带女朋友去过一次我们家见过我爸妈，去年过年前我独自去她家见了她爸妈，还算顺利。去年我得到的意思是，结婚的事情需要我家到她们老家谈（以表对当地习俗和对方的尊重）。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;目前已经商定好年后正月初带上爸妈去她家拜访了，大概计划是第一天父母认识认识，顺利的话就开始订亲的事情。听对象说，订亲需要给她们那边的来吃饭亲戚随礼（当地习俗），为了简化我方大老远过去的麻烦，她爸妈到时候可以帮忙采购随礼的东西，我方出钱即可。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;摆在我面前的第一个问题是带啥礼物到女方家（暂不考虑其他亲戚）。看网友说贵州一般带烟酒茶。第一想法是投其所好，这里是一些重要信息，也是让我在礼物选择上犯难的原因：&lt;br /&gt;&lt;br /&gt;- 她在家里话语权还行&lt;br /&gt;&lt;br /&gt;- 她家主要是她妈说了算&lt;br /&gt;&lt;br /&gt;- 她爸抽烟，但不多好像，但是她妈不喜欢她爸抽。我对象说我如果带烟，她妈会很不高兴。&lt;br /&gt;&lt;br /&gt;- 买酒肯定没问题。我问对象要买两瓶茅台吗？她说没必要打肿脸充胖子😅 那我买两瓶便宜点的五粮液或泸州老窖？&lt;br /&gt;&lt;br /&gt;- 对象说她家没有喝茶的习惯。&lt;br /&gt;&lt;br /&gt;- 她弟弟去年毕业在上海转行写代码。问对象她弟喜欢啥，对象说她弟在家比较宅，好像也没啥爱好或想要的。送个好点的键盘？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我问了对象几次她家里人喜欢啥，都没得到什么实质的答案，大概就是没特别喜欢的。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;请 V 友们给给建议，非常感谢。</description>
     </item>
     <item>
+      <title>为什么现在经济下行，买新车的还这么多？</title>
+      <link>https://www.v2ex.com/t/1186527</link>
+      <guid>v2ex-1186527</guid>
+      <pubDate>Sun, 18 Jan 2026 01:16:40 GMT</pubDate>
+      <description>坐标北京，大街上好多理想 L9 ，问界 M9 ，蔚来 ES8 还有什么岚图 MPV ，这种 30 多万以上的新车，大家在车上都能花这么多，还是挺有钱的。我感觉我最多以后也就换个小鹏 p7 ，现在是一辆开了 10 年的老 B 级油车，我在尽力攒钱，近期不打算换。现在满大街的新车都是靠的贷款换的吗？买一个 30 万的车，一年收入得多少？我感觉真的比不上大家了。</description>
+    </item>
+    <item>
       <title>请问下大家，你们一个月在 vibe coding 会花多少钱？</title>
       <link>https://www.v2ex.com/t/1186469</link>
       <guid>v2ex-1186469</guid>
@@ -122,18 +107,18 @@ https://api-jp.jonwinters.pw
 </description>
     </item>
     <item>
-      <title>为什么现在经济下行，买新车的还这么多？</title>
-      <link>https://www.v2ex.com/t/1186527</link>
-      <guid>v2ex-1186527</guid>
-      <pubDate>Sun, 18 Jan 2026 01:16:40 GMT</pubDate>
-      <description>坐标北京，大街上好多理想 L9 ，问界 M9 ，蔚来 ES8 还有什么岚图 MPV ，这种 30 多万以上的新车，大家在车上都能花这么多，还是挺有钱的。我感觉我最多以后也就换个小鹏 p7 ，现在是一辆开了 10 年的老 B 级油车，我在尽力攒钱，近期不打算换。现在满大街的新车都是靠的贷款换的吗？买一个 30 万的车，一年收入得多少？我感觉真的比不上大家了。</description>
-    </item>
-    <item>
       <title>什么样的键盘手感才是最满意的</title>
       <link>https://www.v2ex.com/t/1186441</link>
       <guid>v2ex-1186441</guid>
       <pubDate>Sat, 17 Jan 2026 07:00:55 GMT</pubDate>
       <description>现在常用的几个键盘一个是 macbook pro 的键盘，键程极短，用了好多年，用的比较习惯了，最近因为工作的原因一直用的公司罗技的机械键盘，一开始很不适应，用久了也算是习惯了，但是导致两个键盘哪个用的都觉得不是那么满意。</description>
+    </item>
+    <item>
+      <title>想远程控制安卓手机，求大家有提供傻瓜方案</title>
+      <link>https://www.v2ex.com/t/1186528</link>
+      <guid>v2ex-1186528</guid>
+      <pubDate>Sun, 18 Jan 2026 01:23:56 GMT</pubDate>
+      <description>起因是这样的，估计很多人也遇到过，很挠头。&lt;br /&gt;老家父母七十多了，在黑龙江，是被诈骗的重点关注对象，在网上买那些骗人的保健品，有很多保健品都算不上。&lt;br /&gt;我没法时常在他们身边，休假回家的时候告诉他们几乎完全没有效果，打电话说更是没用，软硬都无效。&lt;br /&gt;他们的手机和我的是同一个品牌的，realme ，我给买的。&lt;br /&gt;我本来想使用手机品牌厂家做的一个 APP 叫“家庭空间”，来操作自己父母的手机。&lt;br /&gt;&lt;br /&gt;我在自己手机上测试了一下，操作对方手机，很多步骤需要确认，无法达到静默的情况下操作对方手机。&lt;br /&gt;大家有没有好的办法，我猜测，那些做黑产的 APP ，但是我又不想那么做，那么做也不安全。</description>
     </item>
   </channel>
 </rss>
