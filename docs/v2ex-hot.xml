@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 18 Jan 2026 09:39:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 10:11:41 GMT</lastBuildDate>
     <item>
       <title>为什么现在经济下行，买新车的还这么多？</title>
       <link>https://www.v2ex.com/t/1186527</link>
@@ -92,38 +92,6 @@
       <pubDate>Sun, 18 Jan 2026 00:51:42 GMT</pubDate>
       <description>&lt;p&gt;加上 leader 一共 3-4 人的小组。leader 几乎不写代码，只是 review 和根据对代码的一些理解(我感觉没有深入研究过代码逻辑)和自己的经验给一些简单的建议。即使项目严重 delay 了，也不会参与代码开发和 bug fix.  &lt;/p&gt;
 &lt;p&gt;大家遇到的 leader 也是这种情况吗&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>「怀旧向」用 HTML+CSS 像素级复刻 QQ2006 经典界面</title>
-      <link>https://www.v2ex.com/t/1186508</link>
-      <guid>v2ex-1186508</guid>
-      <pubDate>Sat, 17 Jan 2026 15:38:29 GMT</pubDate>
-      <description>&lt;p&gt;这是一个使用 HTML + CSS + JavaScript 实现的 QQ2006 像素级复刻项目，重现了 80/90 后网友的青春记忆——那个伴随我们成长的经典 QQ 界面！&lt;/p&gt;
-&lt;p&gt;从登录框的珊瑚蓝渐变，到主面板的好友头像，再到聊天窗口的功能图标，&lt;strong&gt;所有素材全部从原版 QQ2006 安装包提取，力求还原最原始的体验&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;预览图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/16zNfqnp.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;演示地址： &lt;a href=&quot;https://lab.ur1.fun/QQ2006/&quot; rel=&quot;nofollow&quot;&gt;https://lab.ur1.fun/QQ2006/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;开源地址： &lt;a href=&quot;https://github.com/mengkunsoft/QQ2006&quot; rel=&quot;nofollow&quot;&gt;https://github.com/mengkunsoft/QQ2006&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;🎯 为什么做这个？&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;20 年前&lt;/strong&gt;的 QQ2006 ，是很多 80/90 后的数字故乡。那时我们还说着“GG/MM”，攒钱买 Q 秀，为太阳等级熬夜挂机……这个项目不只是 UI 复刻，更是一次怀旧疗愈。&lt;/p&gt;
-&lt;p&gt;好吧，其实纯为了怀旧&amp;amp;好玩，要说有什么用，还真没什么用……&lt;/p&gt;
-&lt;p&gt;本项目代码全是业余时间手搓，没有用到 AI ，断断续续做了两周。&lt;/p&gt;
-&lt;h3&gt;🌟 未来计划&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;增加更多交互逻辑，实现基础聊天功能模拟&lt;/li&gt;
-&lt;li&gt;复刻更多子功能界面，如菜单面板、视频聊天界面等&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;⚠️ 注意事项&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;仅供学习交流&lt;/strong&gt;，请勿用于商业用途&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;尊重版权&lt;/strong&gt;，所有素材均来自原版 QQ2006 安装包，版权归腾讯公司所有&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;🤝 贡献指南&lt;/h3&gt;
-&lt;p&gt;如果你对这个项目感兴趣，想一起打造更完整的 QQ2006 复刻版，欢迎提交 PR 或 Issue 。让我们一起为这段数字记忆添砖加瓦！&lt;/p&gt;
-&lt;h3&gt;📜 开源许可&lt;/h3&gt;
-&lt;p&gt;你可以自由地分享和修改代码，但请保留出处。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;让我们一同重温那段青涩时光，用代码致敬经典！&lt;/p&gt;
 </description>
     </item>
   </channel>
