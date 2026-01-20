@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 20 Jan 2026 05:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 06:21:34 GMT</lastBuildDate>
     <item>
       <title>大家认为什么东西适合在拼多多上买、什么不适合？</title>
       <link>https://www.v2ex.com/t/1186881</link>
@@ -81,23 +81,6 @@
 </description>
     </item>
     <item>
-      <title>你们会选择什么 AI 作为自己的主力辅助工具？</title>
-      <link>https://www.v2ex.com/t/1186955</link>
-      <guid>v2ex-1186955</guid>
-      <pubDate>Tue, 20 Jan 2026 00:59:31 GMT</pubDate>
-      <description>&lt;ol&gt;
-&lt;li&gt;Gemini&lt;/li&gt;
-&lt;li&gt;GPT&lt;/li&gt;
-&lt;li&gt;Claude&lt;/li&gt;
-&lt;li&gt;Qwen&lt;/li&gt;
-&lt;li&gt;DeepSeek&lt;/li&gt;
-&lt;li&gt;GLM&lt;/li&gt;
-&lt;li&gt;Doubao&lt;/li&gt;
-&lt;li&gt;...&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    <item>
       <title>我在马来西亚生活的第一阶段感受</title>
       <link>https://www.v2ex.com/t/1186976</link>
       <guid>v2ex-1186976</guid>
@@ -121,6 +104,23 @@
 </description>
     </item>
     <item>
+      <title>你们会选择什么 AI 作为自己的主力辅助工具？</title>
+      <link>https://www.v2ex.com/t/1186955</link>
+      <guid>v2ex-1186955</guid>
+      <pubDate>Tue, 20 Jan 2026 00:59:31 GMT</pubDate>
+      <description>&lt;ol&gt;
+&lt;li&gt;Gemini&lt;/li&gt;
+&lt;li&gt;GPT&lt;/li&gt;
+&lt;li&gt;Claude&lt;/li&gt;
+&lt;li&gt;Qwen&lt;/li&gt;
+&lt;li&gt;DeepSeek&lt;/li&gt;
+&lt;li&gt;GLM&lt;/li&gt;
+&lt;li&gt;Doubao&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
       <title>评价一下我应该怎么办？</title>
       <link>https://www.v2ex.com/t/1186961</link>
       <guid>v2ex-1186961</guid>
@@ -134,18 +134,24 @@
 </description>
     </item>
     <item>
-      <title>今天生日，五个人跟我说生日快乐</title>
-      <link>https://www.v2ex.com/t/1186932</link>
-      <guid>v2ex-1186932</guid>
-      <pubDate>Mon, 19 Jan 2026 14:40:39 GMT</pubDate>
-      <description>老婆孩子爸妈丈母娘&lt;br /&gt;&lt;br /&gt;是不是很失败</description>
-    </item>
-    <item>
       <title>证券低佣开户万 0.854 免 5，评论抽奖送五常大米 10 斤！ [大笑脸开户]</title>
       <link>https://www.v2ex.com/t/1186954</link>
       <guid>v2ex-1186954</guid>
       <pubDate>Tue, 20 Jan 2026 00:46:57 GMT</pubDate>
       <description>⚠️回帖抽五常大米，每 20 楼抽 1 个&lt;br /&gt;⚠️开户送五常大米，推荐朋友有红包&lt;br /&gt;&lt;br /&gt;⚠️低佣开户介绍：&lt;br /&gt;Y 河证券，ETF 万 0.5 免 5 [ETF,LOF ，免五费率最低，适合 etf ，lof ，打新，纳指，宽基玩家。新手必备！]&lt;br /&gt;HB 证券， 万 0.854 免 5 [上市券商，股票 etf 费率都很低]&lt;br /&gt;国泰海通 ，万 0.8 免 5 [头部龙头券商，费率最优惠，大客户专享，综合费率最低]&lt;br /&gt;&lt;br /&gt;⚠️我的联系方式和最新券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;http://www.daxiaolian.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.daxiaolian.com&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>都去 vibe coding 了吗？真的就我一个还在用传统的编码方式？</title>
+      <link>https://www.v2ex.com/t/1186846</link>
+      <guid>v2ex-1186846</guid>
+      <pubDate>Mon, 19 Jan 2026 08:28:05 GMT</pubDate>
+      <description>&lt;p&gt;团队里越来越多的人开始 vibe coding ，但我还是比较反感的，主要原因如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;会生成大量无意义代码。打个比方，它生成的代码就像一个初级开发，不知道从哪里 copy 来的高级代码。有时乍一看，真高端，仔细阅读，完全没起到作用，这啥玩意嘛。&lt;/li&gt;
+&lt;li&gt;难以理解。vibe coding 生成的代码量要远远大于常规开发，AI 阅读代码的速度是真的快，但一旦交给人去理解，往往要浪费很多时间。&lt;/li&gt;
+&lt;li&gt;最重要的一点，传播性强，像病毒。在一个没有 CodeReview 的项目中，原本屎山代码就算了，好歹代码简单，现在还塞了一堆你不认识的元素进去。项目一旦有人大量使用了，后来的人如果不用，维护起来十分困难。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
   </channel>
 </rss>
