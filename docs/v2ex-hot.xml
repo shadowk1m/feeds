@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 21 Jan 2026 04:28:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 05:01:01 GMT</lastBuildDate>
     <item>
       <title>用一句话证明你是老程序员</title>
       <link>https://www.v2ex.com/t/1187168</link>
@@ -81,6 +81,20 @@
 </description>
     </item>
     <item>
+      <title>如果充会员，你们会选择哪一家 AI？</title>
+      <link>https://www.v2ex.com/t/1187224</link>
+      <guid>v2ex-1187224</guid>
+      <pubDate>Wed, 21 Jan 2026 01:09:09 GMT</pubDate>
+      <description>&lt;p&gt;之前微软勾引咱，给咱免费使用 Github Copilot Pro 。
+现在微软收回去了，咱在 Google Antigravity 流浪。&lt;/p&gt;
+&lt;p&gt;现在总感觉额度不够用，想冲会员。&lt;/p&gt;
+&lt;p&gt;如果充会员的话，你会选
+vscode 的 Github Copilot ，还是 antigravity 的 google 会员？&lt;/p&gt;
+&lt;p&gt;PS：antigravity 在 arm 服务器上用不了 remote ssh ，旧一点的 CPU 电脑上也用不了 remote ssh 。vscode 可以。&lt;/p&gt;
+&lt;p&gt;总是听说 Claude 系列编程给力，但是无奈我每次用 Google Antigravity 体验 Claude ，嗖的一下额度就没了。冲会员额度能管够吗&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>果然人的立场取决于自己的利益-观小区群里电动车充电纠纷有感</title>
       <link>https://www.v2ex.com/t/1187240</link>
       <guid>v2ex-1187240</guid>
@@ -128,20 +142,6 @@
 2 、阿里云服务端的 auth.token 设置为一个随机生成的复杂 token ；
 3 、其他端口（比如：8080 ，8081 ，22 等），需要用到的时候，只要到阿里云上设置一下白名单并开放就行了。&lt;/p&gt;
 &lt;p&gt;各位大佬帮忙看看，这么做有没有什么比较严重的风险。还有没有其他可以优化的地方。抱拳&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>如果充会员，你们会选择哪一家 AI？</title>
-      <link>https://www.v2ex.com/t/1187224</link>
-      <guid>v2ex-1187224</guid>
-      <pubDate>Wed, 21 Jan 2026 01:09:09 GMT</pubDate>
-      <description>&lt;p&gt;之前微软勾引咱，给咱免费使用 Github Copilot Pro 。
-现在微软收回去了，咱在 Google Antigravity 流浪。&lt;/p&gt;
-&lt;p&gt;现在总感觉额度不够用，想冲会员。&lt;/p&gt;
-&lt;p&gt;如果充会员的话，你会选
-vscode 的 Github Copilot ，还是 antigravity 的 google 会员？&lt;/p&gt;
-&lt;p&gt;PS：antigravity 在 arm 服务器上用不了 remote ssh ，旧一点的 CPU 电脑上也用不了 remote ssh 。vscode 可以。&lt;/p&gt;
-&lt;p&gt;总是听说 Claude 系列编程给力，但是无奈我每次用 Google Antigravity 体验 Claude ，嗖的一下额度就没了。冲会员额度能管够吗&lt;/p&gt;
 </description>
     </item>
     <item>
