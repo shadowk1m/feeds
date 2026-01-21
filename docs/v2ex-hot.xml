@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 21 Jan 2026 06:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 06:58:44 GMT</lastBuildDate>
     <item>
       <title>用一句话证明你是老程序员</title>
       <link>https://www.v2ex.com/t/1187168</link>
@@ -112,19 +112,6 @@ vscode 的 Github Copilot ，还是 antigravity 的 google 会员？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>请教下 frp 的安全性</title>
-      <link>https://www.v2ex.com/t/1187068</link>
-      <guid>v2ex-1187068</guid>
-      <pubDate>Tue, 20 Jan 2026 06:30:29 GMT</pubDate>
-      <description>&lt;p&gt;最近整了个阿里云服务器，搭建了 frp 服务，准备将家里的小服务器的部分端口暴露给外网，方面自己在外使用。&lt;/p&gt;
-&lt;p&gt;我的使用方式是这样的：&lt;/p&gt;
-&lt;p&gt;1 、阿里云服务端只完全开放 7000 ，其他端口都不开放；
-2 、阿里云服务端的 auth.token 设置为一个随机生成的复杂 token ；
-3 、其他端口（比如：8080 ，8081 ，22 等），需要用到的时候，只要到阿里云上设置一下白名单并开放就行了。&lt;/p&gt;
-&lt;p&gt;各位大佬帮忙看看，这么做有没有什么比较严重的风险。还有没有其他可以优化的地方。抱拳&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>别人说广电卡信号差我不信，我现在用了之后果然， iPhone +广电=失联🥲</title>
       <link>https://www.v2ex.com/t/1187210</link>
       <guid>v2ex-1187210</guid>
@@ -140,6 +127,13 @@ vscode 的 Github Copilot ，还是 antigravity 的 google 会员？&lt;/p&gt;
       <pubDate>Wed, 21 Jan 2026 00:48:29 GMT</pubDate>
       <description>&lt;p&gt;除了相机和游戏是不是不做什么硬件了，心中白月光嫁给隔壁王老五的感觉，直接变成 tony 了。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>寒冬将至 被裁了找下份工作是说被裁了还是自己想换工作了</title>
+      <link>https://www.v2ex.com/t/1187317</link>
+      <guid>v2ex-1187317</guid>
+      <pubDate>Wed, 21 Jan 2026 05:12:53 GMT</pubDate>
+      <description>今天 2026 年 1 月 21 日，本来是一个普普通通的周三，最近还在关心年终奖发多少的事情，今天被叫到谈话，说公司近几年业绩不行，现在要裁员，我也是名单内一员，给 n （ 3 年多，给 4 个月工资），月底走人。&lt;br /&gt;&lt;br /&gt;问找下份工作是说自己是被裁员的，还是想换工作的？说被裁，会不会让别人以为自己能力不行。&lt;br /&gt;&lt;br /&gt;另外我可以去申请失业金不？领取失业金有没有什么后果？</description>
     </item>
     <item>
       <title>6 岁不到的儿子这几天问了几个问题，觉得挺有意思的，分享一下</title>
