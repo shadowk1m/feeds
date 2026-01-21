@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 21 Jan 2026 10:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 11:15:48 GMT</lastBuildDate>
     <item>
       <title>用一句话证明你是老程序员</title>
       <link>https://www.v2ex.com/t/1187168</link>
@@ -24,20 +24,6 @@
 &lt;p&gt;唉，这怎么回事呢？这个岗位方向是搞大模型的，是我看走眼了，本来想着都是 C9 了，差点也就差点，慢慢培养，但是太差了，一进来就跟着老员工学油条了，机会啥的又不懂珍惜。准备弃了。&lt;/p&gt;
 &lt;p&gt;大家面试的时候，怎么才能看出一个人是否靠谱呢？&lt;/p&gt;
 &lt;p&gt;另外吐槽一下，本来我对校招生的预期是，工作超预期完成，业余时间不断对自己充电（我也是校招进来，我就是这样）。但，连续招了 5 年的校招，只能说越来越越差了，现在要求低到，交代的事情按时完成就行了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>如果充会员，你们会选择哪一家 AI？</title>
-      <link>https://www.v2ex.com/t/1187224</link>
-      <guid>v2ex-1187224</guid>
-      <pubDate>Wed, 21 Jan 2026 01:09:09 GMT</pubDate>
-      <description>&lt;p&gt;之前微软勾引咱，给咱免费使用 Github Copilot Pro 。
-现在微软收回去了，咱在 Google Antigravity 流浪。&lt;/p&gt;
-&lt;p&gt;现在总感觉额度不够用，想冲会员。&lt;/p&gt;
-&lt;p&gt;如果充会员的话，你会选
-vscode 的 Github Copilot ，还是 antigravity 的 google 会员？&lt;/p&gt;
-&lt;p&gt;PS：antigravity 在 arm 服务器上用不了 remote ssh ，旧一点的 CPU 电脑上也用不了 remote ssh 。vscode 可以。&lt;/p&gt;
-&lt;p&gt;总是听说 Claude 系列编程给力，但是无奈我每次用 Google Antigravity 体验 Claude ，嗖的一下额度就没了。冲会员额度能管够吗&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -78,6 +64,20 @@ vscode 的 Github Copilot ，还是 antigravity 的 google 会员？&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>如果充会员，你们会选择哪一家 AI？</title>
+      <link>https://www.v2ex.com/t/1187224</link>
+      <guid>v2ex-1187224</guid>
+      <pubDate>Wed, 21 Jan 2026 01:09:09 GMT</pubDate>
+      <description>&lt;p&gt;之前微软勾引咱，给咱免费使用 Github Copilot Pro 。
+现在微软收回去了，咱在 Google Antigravity 流浪。&lt;/p&gt;
+&lt;p&gt;现在总感觉额度不够用，想冲会员。&lt;/p&gt;
+&lt;p&gt;如果充会员的话，你会选
+vscode 的 Github Copilot ，还是 antigravity 的 google 会员？&lt;/p&gt;
+&lt;p&gt;PS：antigravity 在 arm 服务器上用不了 remote ssh ，旧一点的 CPU 电脑上也用不了 remote ssh 。vscode 可以。&lt;/p&gt;
+&lt;p&gt;总是听说 Claude 系列编程给力，但是无奈我每次用 Google Antigravity 体验 Claude ，嗖的一下额度就没了。冲会员额度能管够吗&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>寒冬将至 被裁了找下份工作是说被裁了还是自己想换工作了</title>
       <link>https://www.v2ex.com/t/1187317</link>
       <guid>v2ex-1187317</guid>
@@ -109,25 +109,6 @@ vscode 的 Github Copilot ，还是 antigravity 的 google 会员？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>6 岁不到的儿子这几天问了几个问题，觉得挺有意思的，分享一下</title>
-      <link>https://www.v2ex.com/t/1187231</link>
-      <guid>v2ex-1187231</guid>
-      <pubDate>Wed, 21 Jan 2026 01:27:23 GMT</pubDate>
-      <description>&lt;p&gt;儿子上大班，还不到六岁，感觉平时还挺爱问为什么的。最近今天有几个问题都挺有意思的：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;为什么我的手机（其实是导航软件）知道前面有路口要左转呢？他是怎么看到的？&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;为什么人有两只眼睛，但是看到的画面只有一个呢？&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;为什么古代的人都那么穷喃？&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    <item>
       <title>LiteSSL 鉴权漏洞 可随意盗签他人泛域名证书</title>
       <link>https://www.v2ex.com/t/1187331</link>
       <guid>v2ex-1187331</guid>
@@ -145,6 +126,25 @@ Too many concurrent connections from IP 10.254.14.70 (limit: 10), url: urn:ietf:
 &lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BSZpWHK.jpeg&quot;/&gt;
 &lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/eYh9b0v.jpeg&quot;/&gt;
 &lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/1Sovi1m.jpeg&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>6 岁不到的儿子这几天问了几个问题，觉得挺有意思的，分享一下</title>
+      <link>https://www.v2ex.com/t/1187231</link>
+      <guid>v2ex-1187231</guid>
+      <pubDate>Wed, 21 Jan 2026 01:27:23 GMT</pubDate>
+      <description>&lt;p&gt;儿子上大班，还不到六岁，感觉平时还挺爱问为什么的。最近今天有几个问题都挺有意思的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;为什么我的手机（其实是导航软件）知道前面有路口要左转呢？他是怎么看到的？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;为什么人有两只眼睛，但是看到的画面只有一个呢？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;为什么古代的人都那么穷喃？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
   </channel>
