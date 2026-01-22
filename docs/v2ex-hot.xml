@@ -4,7 +4,14 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 22 Jan 2026 06:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 06:56:48 GMT</lastBuildDate>
+    <item>
+      <title>我是家中独子，婆媳关系不好，老婆不肯回家过年，怎么办？</title>
+      <link>https://www.v2ex.com/t/1187535</link>
+      <guid>v2ex-1187535</guid>
+      <pubDate>Thu, 22 Jan 2026 03:05:26 GMT</pubDate>
+      <description>我的父母很希望我们能一起带孩子回去过年，我夹在中间很难受。</description>
+    </item>
     <item>
       <title>大家怎么看 [32 岁程序员周末晕倒后猝死，抢救期间曾被拉入工作群]</title>
       <link>https://www.v2ex.com/t/1187486</link>
@@ -12,13 +19,6 @@
       <pubDate>Thu, 22 Jan 2026 01:10:59 GMT</pubDate>
       <description>&lt;p&gt;链接： &lt;a href=&quot;https://baijiahao.baidu.com/s?id=1854923110206171964&amp;amp;wfr=spider&amp;amp;for=pc&quot; rel=&quot;nofollow&quot;&gt;https://baijiahao.baidu.com/s?id=1854923110206171964&amp;amp;wfr=spider&amp;amp;for=pc&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>我是家中独子，婆媳关系不好，老婆不肯回家过年，怎么办？</title>
-      <link>https://www.v2ex.com/t/1187535</link>
-      <guid>v2ex-1187535</guid>
-      <pubDate>Thu, 22 Jan 2026 03:05:26 GMT</pubDate>
-      <description>我的父母很希望我们能一起带孩子回去过年，我夹在中间很难受。</description>
     </item>
     <item>
       <title>年仅 10 岁的外甥说出了 [除了我自己的命最重要，其他的爱谁谁，跟我都没关系，我就是自己吃好喝好，谁都不管]</title>
@@ -101,26 +101,6 @@
 </description>
     </item>
     <item>
-      <title>LiteSSL 鉴权漏洞 可随意盗签他人泛域名证书</title>
-      <link>https://www.v2ex.com/t/1187331</link>
-      <guid>v2ex-1187331</guid>
-      <pubDate>Wed, 21 Jan 2026 06:27:32 GMT</pubDate>
-      <description>&lt;p&gt;LiteSSL 似乎是一家去年才出现的 CA ，提供免费的 TrustAsia 的基于 acme 签发的通配符证书&lt;/p&gt;
-&lt;p&gt;不过我实测，它的 acme 服务器签发非常容易报错：
-Too many concurrent connections from IP 10.254.14.70 (limit: 10), url: urn:ietf:params:acme:error:rateLimited:concurrent&lt;/p&gt;
-&lt;p&gt;显然，它后台获取客户机真实 IP 的配置有问题，把反代服务器的内网 ip 当做客户 ip 做速率限制&lt;/p&gt;
-&lt;p&gt;并且，它存在严重的鉴权漏洞&lt;/p&gt;
-&lt;p&gt;它的 DNS-01 challenges 缓存似乎有效期很长，并且没有验证签发请求是否来自同一个 acme 账户，使得我们可以随意盗签他人使用 DNS-01 签发的证书&lt;/p&gt;
-&lt;p&gt;去这里查找该 CA 签发的证书（ ECC,RSA 也类似），随机挑选一个带通配符域名的证书，就可以用自己的 litessl acme 账户重签发证书了，不会触发验证&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://crt.sh/?CN=%25&amp;amp;iCAID=438132&quot; rel=&quot;nofollow&quot;&gt;https://crt.sh/?CN=%25&amp;amp;iCAID=438132&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://ssyhwa.cloudns.cl&quot; rel=&quot;nofollow&quot;&gt;ssyhwa.cloudns.cl&lt;/a&gt; 是我临时创建的域名，测试用的，已经过了 DNS-01 验证可以复现&lt;/p&gt;
-&lt;p&gt;*.vaadd.com 则是我随便选的一个幸运儿，也成功偷到了他的证书&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BSZpWHK.jpeg&quot;/&gt;
-&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/eYh9b0v.jpeg&quot;/&gt;
-&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/1Sovi1m.jpeg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>各位公司的春节放假通知都下来了吗？方便分享一下具体的安排吗？</title>
       <link>https://www.v2ex.com/t/1187485</link>
       <guid>v2ex-1187485</guid>
@@ -137,6 +117,59 @@ Too many concurrent connections from IP 10.254.14.70 (limit: 10), url: urn:ietf:
       <guid>v2ex-1187489</guid>
       <pubDate>Thu, 22 Jan 2026 01:13:25 GMT</pubDate>
       <description>RT&lt;br /&gt;楼上的业主是出租给了租客，业主反馈租客平时到家比较晚，9 点左右，&lt;br /&gt;但是到了 12 点左右还有重物砸地板的声音。&lt;br /&gt;之前让业主跟租客反馈过几次，也上门沟通过几次，都没有什么效果&lt;br /&gt;现在只能以暴制暴了，有没有什么报复的方法&lt;br /&gt;目前想到的方法：&lt;br /&gt;1 、震楼器，但是网上找不到购买渠道了&lt;br /&gt;2 、到楼上投放蟑螂，但是这样可能会蔓延到其他人&lt;br /&gt;3 、搞到楼上的联系方式，然后短信轰炸&lt;br /&gt;老哥们怎么看？</description>
+    </item>
+    <item>
+      <title>年会抽奖被迫营业，写了个转盘轮子，最后失控了</title>
+      <link>https://www.v2ex.com/t/1187500</link>
+      <guid>v2ex-1187500</guid>
+      <pubDate>Thu, 22 Jan 2026 01:47:00 GMT</pubDate>
+      <description>&lt;p&gt;人事小姐姐是我的饭搭子，跟我说年会要搞抽奖，问我有没有好用的在线转盘。&lt;/p&gt;
+&lt;p&gt;我随手发了几个链接给她，结果她一个个试完来吐槽：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wheel of Names：不能同时转多个轮子，她想一边抽人一边抽奖品&lt;/li&gt;
+&lt;li&gt;某国产转盘：广告太多，界面丑，领导看了要皱眉&lt;/li&gt;
+&lt;li&gt;随机数生成器：太干了，没有仪式感&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总之就是不体面，我说行吧，周末我给你写一个。&lt;/p&gt;
+&lt;p&gt;结果这一写，失控了。&lt;/p&gt;
+&lt;p&gt;刚开始想的很简单，就一个 Canvas 画个轮子，Math.random 选个结果。但写着写着开始较真：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Math.random 不够随机。查了下发现如果要&quot;公平抽奖&quot;，应该用
+crypto.getRandomValues()，这是密码学安全的随机数生成器。既然都做了，那就做对。&lt;/li&gt;
+&lt;li&gt;她要同时抽人+抽奖品。那就支持多轮盘吧，最多 6 个同时转。转完自动记录中奖历史。&lt;/li&gt;
+&lt;li&gt;中奖了的不能重复中。加了淘汰模式，中一个自动移除。&lt;/li&gt;
+&lt;li&gt;另外还加了绿幕模式，一键全屏纯绿底。&lt;/li&gt;
+&lt;li&gt;做了短链，方便分享或者保存自己定制好的转盘，用 Cloudflare Worker 写了个
+API ，转盘配置存起来生成短链，发个链接别人就能用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;做完发现功能有点多了：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;多转盘同时旋转&lt;/li&gt;
+&lt;li&gt;权重设置（买 5 张票的人权重设 5 ）&lt;/li&gt;
+&lt;li&gt;淘汰模式&lt;/li&gt;
+&lt;li&gt;倒计时模式（ 3 、2 、1 开始！）&lt;/li&gt;
+&lt;li&gt;OBS 绿幕&lt;/li&gt;
+&lt;li&gt;导入导出 JSON&lt;/li&gt;
+&lt;li&gt;8 种语言&lt;/li&gt;
+&lt;li&gt;本地自动保存&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;UI 也花了点心思，年会现场投屏效果挺好。暗色模式是青绿色系，亮色是橙粉系，看着挺舒
+服的。&lt;/p&gt;
+&lt;p&gt;技术栈是 Next.js + React + TailwindCSS ，整了个 monorepo 用 Turborepo 管理，状态用 Nuqs 存 URL
+参数方便分享。分享功能单独拆了个 Cloudflare Worker ，响应挺快的。&lt;/p&gt;
+&lt;p&gt;地址：&lt;a href=&quot;http://gospinwheel.com&quot; rel=&quot;nofollow&quot;&gt;gospinwheel.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;对了，快过年了，除了年会抽奖，其实过年聚会也能用：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://gospinwheel.com/zh-Hans/truth-or-dare&quot; rel=&quot;nofollow&quot;&gt;真心话大冒险&lt;/a&gt;：一个轮子选人，一个轮子选&quot;真心话/大冒险&quot;，再来一个轮子选具体问题或任务&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gospinwheel.com/zh-Hans/who-does-the-dishes&quot; rel=&quot;nofollow&quot;&gt;谁洗碗&lt;/a&gt;：吃完年夜饭，全家人名字往里一扔，转&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gospinwheel.com/zh-Hans/what-to-eat&quot; rel=&quot;nofollow&quot;&gt;今晚吃啥&lt;/a&gt;：火锅/烧烤/日料/随便，选择困难症救星&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gospinwheel.com/zh-Hans&quot; rel=&quot;nofollow&quot;&gt;该谁发红包了&lt;/a&gt;：下一个谁发？转盘决定，公平公正&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gospinwheel.com/zh-Hans/name-picker&quot; rel=&quot;nofollow&quot;&gt;喝酒游戏&lt;/a&gt;：转到谁谁喝，配合淘汰模式，喝过的自动移除，雨露均沾&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;反正我过年准备拿这个整活了，投屏到电视上效果应该不错。&lt;/p&gt;
+&lt;p&gt;有什么建议欢迎提，毕竟本来只是帮人事做个小工具...&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
