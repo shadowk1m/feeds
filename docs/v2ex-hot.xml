@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 22 Jan 2026 04:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 05:20:29 GMT</lastBuildDate>
     <item>
       <title>程序员现在到底还能不能润出去啊？ 身边有个朋友有个机会能出去的，现在被整的有点犹豫了</title>
       <link>https://www.v2ex.com/t/1187483</link>
@@ -13,38 +13,11 @@
       <description>有已经在外面了，了解真实情况的吗？是不是除了美国，其他地方还是可以去的。</description>
     </item>
     <item>
-      <title>寒冬将至 被裁了找下份工作是说被裁了还是自己想换工作了</title>
-      <link>https://www.v2ex.com/t/1187317</link>
-      <guid>v2ex-1187317</guid>
-      <pubDate>Wed, 21 Jan 2026 05:12:53 GMT</pubDate>
-      <description>今天 2026 年 1 月 21 日，本来是一个普普通通的周三，最近还在关心年终奖发多少的事情，今天被叫到谈话，说公司近几年业绩不行，现在要裁员，我也是名单内一员，给 n （ 3 年多，给 4 个月工资），月底走人。&lt;br /&gt;&lt;br /&gt;问找下份工作是说自己是被裁员的，还是想换工作的？说被裁，会不会让别人以为自己能力不行。&lt;br /&gt;&lt;br /&gt;另外我可以去申请失业金不？领取失业金有没有什么后果？</description>
-    </item>
-    <item>
       <title>大家怎么看 [32 岁程序员周末晕倒后猝死，抢救期间曾被拉入工作群]</title>
       <link>https://www.v2ex.com/t/1187486</link>
       <guid>v2ex-1187486</guid>
       <pubDate>Thu, 22 Jan 2026 01:10:59 GMT</pubDate>
       <description>&lt;p&gt;链接： &lt;a href=&quot;https://baijiahao.baidu.com/s?id=1854923110206171964&amp;amp;wfr=spider&amp;amp;for=pc&quot; rel=&quot;nofollow&quot;&gt;https://baijiahao.baidu.com/s?id=1854923110206171964&amp;amp;wfr=spider&amp;amp;for=pc&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>LiteSSL 鉴权漏洞 可随意盗签他人泛域名证书</title>
-      <link>https://www.v2ex.com/t/1187331</link>
-      <guid>v2ex-1187331</guid>
-      <pubDate>Wed, 21 Jan 2026 06:27:32 GMT</pubDate>
-      <description>&lt;p&gt;LiteSSL 似乎是一家去年才出现的 CA ，提供免费的 TrustAsia 的基于 acme 签发的通配符证书&lt;/p&gt;
-&lt;p&gt;不过我实测，它的 acme 服务器签发非常容易报错：
-Too many concurrent connections from IP 10.254.14.70 (limit: 10), url: urn:ietf:params:acme:error:rateLimited:concurrent&lt;/p&gt;
-&lt;p&gt;显然，它后台获取客户机真实 IP 的配置有问题，把反代服务器的内网 ip 当做客户 ip 做速率限制&lt;/p&gt;
-&lt;p&gt;并且，它存在严重的鉴权漏洞&lt;/p&gt;
-&lt;p&gt;它的 DNS-01 challenges 缓存似乎有效期很长，并且没有验证签发请求是否来自同一个 acme 账户，使得我们可以随意盗签他人使用 DNS-01 签发的证书&lt;/p&gt;
-&lt;p&gt;去这里查找该 CA 签发的证书（ ECC,RSA 也类似），随机挑选一个带通配符域名的证书，就可以用自己的 litessl acme 账户重签发证书了，不会触发验证&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://crt.sh/?CN=%25&amp;amp;iCAID=438132&quot; rel=&quot;nofollow&quot;&gt;https://crt.sh/?CN=%25&amp;amp;iCAID=438132&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://ssyhwa.cloudns.cl&quot; rel=&quot;nofollow&quot;&gt;ssyhwa.cloudns.cl&lt;/a&gt; 是我临时创建的域名，测试用的，已经过了 DNS-01 验证可以复现&lt;/p&gt;
-&lt;p&gt;*.vaadd.com 则是我随便选的一个幸运儿，也成功偷到了他的证书&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BSZpWHK.jpeg&quot;/&gt;
-&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/eYh9b0v.jpeg&quot;/&gt;
-&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/1Sovi1m.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -101,18 +74,38 @@ Too many concurrent connections from IP 10.254.14.70 (limit: 10), url: urn:ietf:
 </description>
     </item>
     <item>
+      <title>LiteSSL 鉴权漏洞 可随意盗签他人泛域名证书</title>
+      <link>https://www.v2ex.com/t/1187331</link>
+      <guid>v2ex-1187331</guid>
+      <pubDate>Wed, 21 Jan 2026 06:27:32 GMT</pubDate>
+      <description>&lt;p&gt;LiteSSL 似乎是一家去年才出现的 CA ，提供免费的 TrustAsia 的基于 acme 签发的通配符证书&lt;/p&gt;
+&lt;p&gt;不过我实测，它的 acme 服务器签发非常容易报错：
+Too many concurrent connections from IP 10.254.14.70 (limit: 10), url: urn:ietf:params:acme:error:rateLimited:concurrent&lt;/p&gt;
+&lt;p&gt;显然，它后台获取客户机真实 IP 的配置有问题，把反代服务器的内网 ip 当做客户 ip 做速率限制&lt;/p&gt;
+&lt;p&gt;并且，它存在严重的鉴权漏洞&lt;/p&gt;
+&lt;p&gt;它的 DNS-01 challenges 缓存似乎有效期很长，并且没有验证签发请求是否来自同一个 acme 账户，使得我们可以随意盗签他人使用 DNS-01 签发的证书&lt;/p&gt;
+&lt;p&gt;去这里查找该 CA 签发的证书（ ECC,RSA 也类似），随机挑选一个带通配符域名的证书，就可以用自己的 litessl acme 账户重签发证书了，不会触发验证&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://crt.sh/?CN=%25&amp;amp;iCAID=438132&quot; rel=&quot;nofollow&quot;&gt;https://crt.sh/?CN=%25&amp;amp;iCAID=438132&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ssyhwa.cloudns.cl&quot; rel=&quot;nofollow&quot;&gt;ssyhwa.cloudns.cl&lt;/a&gt; 是我临时创建的域名，测试用的，已经过了 DNS-01 验证可以复现&lt;/p&gt;
+&lt;p&gt;*.vaadd.com 则是我随便选的一个幸运儿，也成功偷到了他的证书&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BSZpWHK.jpeg&quot;/&gt;
+&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/eYh9b0v.jpeg&quot;/&gt;
+&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/1Sovi1m.jpeg&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>我是家中独子，婆媳关系不好，老婆不肯回家过年，怎么办？</title>
+      <link>https://www.v2ex.com/t/1187535</link>
+      <guid>v2ex-1187535</guid>
+      <pubDate>Thu, 22 Jan 2026 03:05:26 GMT</pubDate>
+      <description>我的父母很希望我们能一起带孩子回去过年，我夹在中间很难受。</description>
+    </item>
+    <item>
       <title>楼上经常晚上 12 点制造噪音，沟通多次无果，如何反制？</title>
       <link>https://www.v2ex.com/t/1187489</link>
       <guid>v2ex-1187489</guid>
       <pubDate>Thu, 22 Jan 2026 01:13:25 GMT</pubDate>
       <description>RT&lt;br /&gt;楼上的业主是出租给了租客，业主反馈租客平时到家比较晚，9 点左右，&lt;br /&gt;但是到了 12 点左右还有重物砸地板的声音。&lt;br /&gt;之前让业主跟租客反馈过几次，也上门沟通过几次，都没有什么效果&lt;br /&gt;现在只能以暴制暴了，有没有什么报复的方法&lt;br /&gt;目前想到的方法：&lt;br /&gt;1 、震楼器，但是网上找不到购买渠道了&lt;br /&gt;2 、到楼上投放蟑螂，但是这样可能会蔓延到其他人&lt;br /&gt;3 、搞到楼上的联系方式，然后短信轰炸&lt;br /&gt;老哥们怎么看？</description>
-    </item>
-    <item>
-      <title>终于明白平头老百姓维权难，但是黑社会却很简单！</title>
-      <link>https://www.v2ex.com/t/1187498</link>
-      <guid>v2ex-1187498</guid>
-      <pubDate>Thu, 22 Jan 2026 01:42:57 GMT</pubDate>
-      <description>不管是自己经历的还是身边人或者网友经历的，很多个人的事情你去找 gov 几乎都是踢皮球，比如东西被偷去报警、被人打了去报警、拖欠工资去找人社局或者被骗了去报警，哪怕被骗的人几十几百个，组成维权群联合报警，阿 sir 都只会说自己去自己的事发地，不允许联合报警。&lt;br /&gt;&lt;br /&gt;但如果是黑社会缺很简单，就拿最近经历的事儿来说，我们这边某个县的人有一户人不想火化，于是 gov 就去劝解，同村的人发现有人冲在前面，于是便组建突击队共同抵抗，只要你警察一来，立马就是几百人出来抵抗，下葬的当天，市政法委书记坐镇处理，直接来了一千多号村民，书记立马就怂了，就不管了，此致，打响了第一枪。&lt;br /&gt;&lt;br /&gt;然后这个消息传出去了，隔壁市的某个县某个村有人过世了，本来人家都是遵循火化的，因为他家是低保，但是来了五六个人，直接给他说，我给你 3000 块，你要求火化，gov 来了，我们来抵抗，你不用出面，由于是第一个苗头，县里面出动警察一家一家劝说，禁止给他们家出殡，否则按照寻衅滋事处理，没办法，没人出殡那肯定不行，gov 给他解决了火化和车费，这事儿算是过去了。&lt;br /&gt;&lt;br /&gt;事后调查这几个人，把其中一个抓进去关了几天。&lt;br /&gt;&lt;br /&gt;过了几天，同村又有人去世，还是这几个人，还是 3000 块，这一次他们有经验了，说谁要是配合 gov 不出殡，以后你家也别想出殡，这招确实有用，这几个人和 gov 耗了快一周，最终 gov 还是做通了主人家的思想工作，火化了。&lt;br /&gt;&lt;br /&gt;也就是这几天，同村又有人去世，同样的 3000 块，同样的发抖音，主人家这一次十分坚决不火化，同样的 gov 的去游说，但是不起作用，并且这一次闹得很大，最终市委批复不再强制要求火化，至此 gov 游说的人撤离，土葬至此放开。&lt;br /&gt;&lt;br /&gt;当然，这几个人具体的背景我也不清楚，但是有钱，敢进局子，有时间来耗，我觉得基本上和黑社会没啥两样，无非就是背后的人想要土葬，让这几个人来出面而已。你说让 gov 改变一件事儿难吗，普通人很难，但是黑社会很简单，这就是我最近感悟的一点心得体会，共勉。</description>
     </item>
     <item>
       <title>各位公司的春节放假通知都下来了吗？方便分享一下具体的安排吗？</title>
@@ -126,11 +119,13 @@ Too many concurrent connections from IP 10.254.14.70 (limit: 10), url: urn:ietf:
 </description>
     </item>
     <item>
-      <title>我是家中独子，婆媳关系不好，老婆不肯回家过年，怎么办？</title>
-      <link>https://www.v2ex.com/t/1187535</link>
-      <guid>v2ex-1187535</guid>
-      <pubDate>Thu, 22 Jan 2026 03:05:26 GMT</pubDate>
-      <description>我的父母很希望我们能一起带孩子回去过年，我夹在中间很难受。</description>
+      <title>如何跟 5 岁的小朋友介绍死亡这件事情？</title>
+      <link>https://www.v2ex.com/t/1187336</link>
+      <guid>v2ex-1187336</guid>
+      <pubDate>Wed, 21 Jan 2026 06:49:00 GMT</pubDate>
+      <description>&lt;p&gt;如题
+周一晚上小朋友半夜起来一直哭，说什么妈妈不要老（她的老就是过世的意思）就剩她一人的话，不知道怎么教育她这是人生必经的过程。昨天我的姑姑的也过世了，感觉年龄越大对老人的离去感到平静，又害怕自己的死亡。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
