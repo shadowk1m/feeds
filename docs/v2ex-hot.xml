@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 23 Jan 2026 00:59:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 03:00:01 GMT</lastBuildDate>
     <item>
       <title>我是家中独子，婆媳关系不好，老婆不肯回家过年，怎么办？</title>
       <link>https://www.v2ex.com/t/1187535</link>
@@ -13,170 +13,176 @@
       <description>我的父母很希望我们能一起带孩子回去过年，我夹在中间很难受。</description>
     </item>
     <item>
-      <title>问一下, 大家现在手里正在敲击的键盘, 都用了多久了?</title>
-      <link>https://www.v2ex.com/t/1187514</link>
-      <guid>v2ex-1187514</guid>
-      <pubDate>Thu, 22 Jan 2026 02:20:26 GMT</pubDate>
-      <description>&lt;h3&gt;只是有点儿好奇&lt;/h3&gt;
+      <title>别再裸奔了：如何优雅且安全地暴露内网服务？</title>
+      <link>https://www.v2ex.com/t/1187587</link>
+      <guid>v2ex-1187587</guid>
+      <pubDate>Thu, 22 Jan 2026 06:07:33 GMT</pubDate>
+      <description>&lt;h2&gt;1. 现状：你的内网服务在公网“裸奔”吗？&lt;/h2&gt;
+&lt;p&gt;如果你手里有几台云服务器或家里的 NAS ，大概率折腾过内网穿透。但你去翻翻 &lt;code&gt;auth.log&lt;/code&gt; 或者 SSH 日志，你会发现世界充满了“恶意”：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;因为 V2 的程序员群体占比应该在 70%以上, &lt;/li&gt;
-&lt;li&gt;作为一个干了 8 年以上程序员的牛马, 感觉对键盘的舒适度, 其实有一定的要求&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;frp 转发 22 端口：&lt;/strong&gt; 刚开几分钟，就有成千上万个 IP 开始暴力破解。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web 服务直出：&lt;/strong&gt; 暴露个 GitLab 或 Jenkins ，只要有个未授权访问漏洞，全家桶就都没了。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VPN 的痛苦：&lt;/strong&gt; WireGuard 确实快，但给非技术同事开账号、教他们配客户端，简直是运维噩梦。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;自己的装备&lt;/h3&gt;
+&lt;p&gt;我们需要的其实很简单：&lt;strong&gt;既要 frp 的便捷，又要 VPN 的安全，最好还能像访问正常网站一样，浏览器打开就能用。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;2. 为什么说传统方案让你很累？&lt;/h2&gt;
+&lt;h3&gt;frp：它是通道，但不是防线&lt;/h3&gt;
+&lt;p&gt;frp 的设计初衷是“连通性”，它只管把流量从 A 传到 B 。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;IKBC 青轴&lt;/li&gt;
-&lt;li&gt;囤了 6 个,&lt;/li&gt;
-&lt;li&gt;公司的一个是 2022 年 6 月份换的&lt;/li&gt;
-&lt;li&gt;家里的一个是 2023 年 5 月份换的&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;隐患：&lt;/strong&gt; 它把内网服务直接推到了公网的枪口下。改端口、加 &lt;code&gt;sk&lt;/code&gt; 验证确实能挡住一部分，但无法解决&lt;strong&gt;身份鉴权&lt;/strong&gt;和&lt;strong&gt;审计&lt;/strong&gt;的问题。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;现状：&lt;/strong&gt; 即使你改了端口，扫描器通过协议指纹依然能识别出你的服务。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;对键盘的一些感觉&lt;/h3&gt;
+&lt;h3&gt;VPN：安全，但“摩擦力”太大&lt;/h3&gt;
+&lt;p&gt;VPN 是一道厚重的围墙，但进出这道墙太麻烦了。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;以前最喜欢的一款键盘是 逻辑的一个 k120 的薄膜键盘,  家里囤了 8 个, 停产了以后就开始各种换和尝试, 最后适应了 ikbc 的青轴&lt;/li&gt;
-&lt;li&gt;唯一的要求是 手指不疼&lt;/li&gt;
-&lt;li&gt;换过其他的轴体, 长时间之后, 手指会疼&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;体验：&lt;/strong&gt; 手机、平板、电脑，每个设备都要装客户端。断线重连、路由冲突是常态。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;风险：&lt;/strong&gt; 典型的“一处破，处处破”。一旦 VPN 账号泄露，攻击者就拿到了内网的整张入场券。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr/&gt;
-&lt;p&gt;大家可以晒晒自己的装备~~&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>大家怎么看 [32 岁程序员周末晕倒后猝死，抢救期间曾被拉入工作群]</title>
-      <link>https://www.v2ex.com/t/1187486</link>
-      <guid>v2ex-1187486</guid>
-      <pubDate>Thu, 22 Jan 2026 01:10:59 GMT</pubDate>
-      <description>&lt;p&gt;链接： &lt;a href=&quot;https://baijiahao.baidu.com/s?id=1854923110206171964&amp;amp;wfr=spider&amp;amp;for=pc&quot; rel=&quot;nofollow&quot;&gt;https://baijiahao.baidu.com/s?id=1854923110206171964&amp;amp;wfr=spider&amp;amp;for=pc&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>年仅 10 岁的外甥说出了 [除了我自己的命最重要，其他的爱谁谁，跟我都没关系，我就是自己吃好喝好，谁都不管]</title>
-      <link>https://www.v2ex.com/t/1187504</link>
-      <guid>v2ex-1187504</guid>
-      <pubDate>Thu, 22 Jan 2026 01:57:21 GMT</pubDate>
-      <description>&lt;h3&gt;背景&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;今年，我姐夫因为车祸去世了，姐夫走的时候年龄也不大。外甥当时的反应没怎么哭过，但是多少还是能看出来难过，毕竟孩子从小是我妈在带，生活学习基本是我妈一手在抓，姐夫对外甥的学习尤其佛系，基本不怎么管，外甥平时睡觉也是跟我妈睡。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;现状&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;外甥现在跟我姐、我妈、我爸一起生活。我妈我姐管不住他，平时教育就是打。
-学习上：我们对他的学习其实我们基本没有什么过高的期待，但是平时上课他自己也不咋好好学，老师没少让他罚站。也不好好听讲，跟班里其他小朋友上课聊天打闹-来自姐姐被叫家长时的描述。
-生活上：我觉得可能从小跟我妈生活的缘故，老人比较惯着他，每次吃饭必须看电视，但是看电视就不好好吃饭，每次吃饭要吃快一个小时。而且他有个我特别生气的毛病：骂人。不知道从哪学来的，手机或者他们学校的同学那，我们家里他谁都骂，而且骂的特别难听。
-玩：特别喜欢打《我的世界》手机游戏，可以说痴迷也不为过，经常为了打游戏，不写作业，挨打。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;求助&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;其实我姐和我妈有很多地方确实做得有问题，全怪到孩子身上肯定是不对的，但是作为舅舅、弟弟、儿子该怎么跟他们沟通呢？
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    <item>
-      <title>碰到这样的父亲，能怎么办？</title>
-      <link>https://www.v2ex.com/t/1187497</link>
-      <guid>v2ex-1187497</guid>
-      <pubDate>Thu, 22 Jan 2026 01:42:00 GMT</pubDate>
-      <description>&lt;p&gt;坐标河南农村。&lt;/p&gt;
-&lt;p&gt;我们很早就反复劝父亲，年纪大了，身体也不如以前，不要再种地了，把地包出去，轻松一点过日子。但他一直嘴硬，坚持说自己“没事”“还能干”。&lt;/p&gt;
-&lt;p&gt;第一次出事（今年 5 月）
-今年 5 月份，父亲在家里给玉米脱粒。
-之所以 5 月还在脱玉米，是因为去年的玉米他一直不卖，觉得再放一放能多卖点钱。&lt;/p&gt;
-&lt;p&gt;脱粒时粉尘非常大。第二天父亲开始呼吸困难，被救护车紧急送往商丘医院，直接进了 ICU 。
-我和两个姐姐连夜从天津赶回，在医院陪护。住了几天 ICU 后，情况稍微稳定，才出院回家。&lt;/p&gt;
-&lt;p&gt;出院后，在我们的强烈要求下，父亲终于同意把大部分地包给别人，只留下一亩地，说和我妈在家种一亩，“肯定没事”。&lt;/p&gt;
-&lt;p&gt;第二次出事（最近）
-前两天，父亲又在家脱秋天收的玉米粒，说要“赶在下雪前把玉米卖了”。
-这些玉米已经存放了几个月，其中一部分已经发霉。&lt;/p&gt;
-&lt;p&gt;当天脱完玉米后，父亲开始浑身打颤、发冷。我妈察觉不对，立刻拉着他去医院，结果再次被收进 ICU 。
-我和两个姐姐又一次连夜往家赶。&lt;/p&gt;
-&lt;p&gt;医生诊断：肺部感染，白肺，考虑真菌感染。
-原因高度怀疑与吸入霉变玉米产生的粉尘有关。&lt;/p&gt;
-&lt;p&gt;这批玉米最后卖了 2000 块钱，但一天 ICU 的费用就远远不止这些。&lt;/p&gt;
-&lt;p&gt;我们的困惑和无力感&lt;/p&gt;
-&lt;p&gt;让人最难受的不是钱，而是完全无法理解：&lt;/p&gt;
-&lt;p&gt;已经明确告诉他不能再种地&lt;/p&gt;
-&lt;p&gt;已经因为脱玉米进过一次 ICU&lt;/p&gt;
-&lt;p&gt;已经知道粉尘、霉菌对肺部有致命风险&lt;/p&gt;
-&lt;p&gt;可他依然死犟死犟的——
-非要种地，
-非要玉米不及时卖，
-非要多放几个月“多卖点钱”。&lt;/p&gt;
-&lt;p&gt;我妈说不动他，我们做子女的更是说什么都不听。&lt;/p&gt;
-&lt;p&gt;真的不明白，为什么会有这么犟的父亲。当父母的年龄大了，不是应该听孩子的吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>各位公司的春节放假通知都下来了吗？方便分享一下具体的安排吗？</title>
-      <link>https://www.v2ex.com/t/1187485</link>
-      <guid>v2ex-1187485</guid>
-      <pubDate>Thu, 22 Jan 2026 01:06:28 GMT</pubDate>
-      <description>&lt;p&gt;我先来&lt;br/&gt;
-春节假期放 7 天&lt;br/&gt;
-但需要值班一天！&lt;br/&gt;
-你们呢？&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>楼上经常晚上 12 点制造噪音，沟通多次无果，如何反制？</title>
-      <link>https://www.v2ex.com/t/1187489</link>
-      <guid>v2ex-1187489</guid>
-      <pubDate>Thu, 22 Jan 2026 01:13:25 GMT</pubDate>
-      <description>RT&lt;br /&gt;楼上的业主是出租给了租客，业主反馈租客平时到家比较晚，9 点左右，&lt;br /&gt;但是到了 12 点左右还有重物砸地板的声音。&lt;br /&gt;之前让业主跟租客反馈过几次，也上门沟通过几次，都没有什么效果&lt;br /&gt;现在只能以暴制暴了，有没有什么报复的方法&lt;br /&gt;目前想到的方法：&lt;br /&gt;1 、震楼器，但是网上找不到购买渠道了&lt;br /&gt;2 、到楼上投放蟑螂，但是这样可能会蔓延到其他人&lt;br /&gt;3 、搞到楼上的联系方式，然后短信轰炸&lt;br /&gt;老哥们怎么看？</description>
-    </item>
-    <item>
-      <title>年会抽奖被迫营业，写了个转盘轮子，最后失控了</title>
-      <link>https://www.v2ex.com/t/1187500</link>
-      <guid>v2ex-1187500</guid>
-      <pubDate>Thu, 22 Jan 2026 01:47:00 GMT</pubDate>
-      <description>&lt;p&gt;人事小姐姐是我的饭搭子，跟我说年会要搞抽奖，问我有没有好用的在线转盘。&lt;/p&gt;
-&lt;p&gt;我随手发了几个链接给她，结果她一个个试完来吐槽：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Wheel of Names：不能同时转多个轮子，她想一边抽人一边抽奖品&lt;/li&gt;
-&lt;li&gt;某国产转盘：广告太多，界面丑，领导看了要皱眉&lt;/li&gt;
-&lt;li&gt;随机数生成器：太干了，没有仪式感&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;总之就是不体面，我说行吧，周末我给你写一个。&lt;/p&gt;
-&lt;p&gt;结果这一写，失控了。&lt;/p&gt;
-&lt;p&gt;刚开始想的很简单，就一个 Canvas 画个轮子，Math.random 选个结果。但写着写着开始较真：&lt;/p&gt;
+&lt;h2&gt;3. 更现代的方案：Next Terminal 的零信任实践&lt;/h2&gt;
+&lt;p&gt;作为 Next Terminal 的开发者，我在设计 Web 资产代理时，参考了 &lt;strong&gt;“零信任（ Zero Trust ）”&lt;/strong&gt; 的思路。&lt;/p&gt;
+&lt;p&gt;核心逻辑只有一句话：&lt;strong&gt;先验证身份，再建立连接。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;nt.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/TLP0s0p3.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;它是如何工作的？&lt;/h3&gt;
+&lt;p&gt;以往你访问 &lt;code&gt;&lt;a href=&quot;http://gitlab.example.com&quot; rel=&quot;nofollow&quot;&gt;gitlab.example.com&lt;/a&gt;&lt;/code&gt;，请求是直接打到 GitLab 上的。现在，Next Terminal 充当了“安全网关”的角色：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Math.random 不够随机。查了下发现如果要&quot;公平抽奖&quot;，应该用
-crypto.getRandomValues()，这是密码学安全的随机数生成器。既然都做了，那就做对。&lt;/li&gt;
-&lt;li&gt;她要同时抽人+抽奖品。那就支持多轮盘吧，最多 6 个同时转。转完自动记录中奖历史。&lt;/li&gt;
-&lt;li&gt;中奖了的不能重复中。加了淘汰模式，中一个自动移除。&lt;/li&gt;
-&lt;li&gt;另外还加了绿幕模式，一键全屏纯绿底。&lt;/li&gt;
-&lt;li&gt;做了短链，方便分享或者保存自己定制好的转盘，用 Cloudflare Worker 写了个
-API ，转盘配置存起来生成短链，发个链接别人就能用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;流量拦截&lt;/strong&gt;：所有指向内网 Web 服务的请求，先经过 Next Terminal 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;身份核验&lt;/strong&gt;：如果用户没登录 Next Terminal ，直接被拦在门外，GitLab 根本感知不到任何请求。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;动态授权&lt;/strong&gt;：登录后，系统会检查：你是否有权限访问这个特定资产？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;无感转发&lt;/strong&gt;：验证通过后，你才能看到熟悉的 GitLab 界面。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;做完发现功能有点多了：&lt;/p&gt;
+&lt;h2&gt;4. 实战：3 分钟安全发布内网 GitLab&lt;/h2&gt;
+&lt;p&gt;假设你内网 GitLab 跑在 &lt;code&gt;192.168.1.10:80&lt;/code&gt;，你可以彻底告别 &lt;code&gt;6000&lt;/code&gt; 这种奇怪的端口号。&lt;/p&gt;
+&lt;h3&gt;第一步：开启反代&lt;/h3&gt;
+&lt;p&gt;在 Next Terminal 配置文件中开启反代和 HTTPS （建议配合通配符证书）：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-yaml&quot;&gt;App:
+  ReverseProxy:
+    Enabled: true
+    HttpsEnabled: true
+    SelfDomain: &quot;nt.yourdomain.com&quot;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;第二步：添加 Web 资产&lt;/h3&gt;
+&lt;p&gt;在 Web 界面点击“添加资产”，填写内部 IP 和你想要的域名（如 &lt;code&gt;&lt;a href=&quot;http://gitlab.yourdomain.com&quot; rel=&quot;nofollow&quot;&gt;gitlab.yourdomain.com&lt;/a&gt;&lt;/code&gt;）。&lt;/p&gt;
+&lt;h3&gt;第三步：授权与访问&lt;/h3&gt;
+&lt;p&gt;把这个资产授权给指定的用户组。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;现在的体验是：&lt;/strong&gt; 你直接访问 &lt;code&gt;&lt;a href=&quot;https://gitlab.yourdomain.com&quot; rel=&quot;nofollow&quot;&gt;https://gitlab.yourdomain.com&lt;/a&gt;&lt;/code&gt;。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;多转盘同时旋转&lt;/li&gt;
-&lt;li&gt;权重设置（买 5 张票的人权重设 5 ）&lt;/li&gt;
-&lt;li&gt;淘汰模式&lt;/li&gt;
-&lt;li&gt;倒计时模式（ 3 、2 、1 开始！）&lt;/li&gt;
-&lt;li&gt;OBS 绿幕&lt;/li&gt;
-&lt;li&gt;导入导出 JSON&lt;/li&gt;
-&lt;li&gt;8 种语言&lt;/li&gt;
-&lt;li&gt;本地自动保存&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;没登录？&lt;/strong&gt; 跳转到 NT 统一登录页。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;登录了？&lt;/strong&gt; 直接进入 GitLab 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;想看谁访问了？&lt;/strong&gt; 后台审计日志一清二楚。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;UI 也花了点心思，年会现场投屏效果挺好。暗色模式是青绿色系，亮色是橙粉系，看着挺舒
-服的。&lt;/p&gt;
-&lt;p&gt;技术栈是 Next.js + React + TailwindCSS ，整了个 monorepo 用 Turborepo 管理，状态用 Nuqs 存 URL
-参数方便分享。分享功能单独拆了个 Cloudflare Worker ，响应挺快的。&lt;/p&gt;
-&lt;p&gt;地址：&lt;a href=&quot;http://gospinwheel.com&quot; rel=&quot;nofollow&quot;&gt;gospinwheel.com&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;对了，快过年了，除了年会抽奖，其实过年聚会也能用：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://gospinwheel.com/zh-Hans/truth-or-dare&quot; rel=&quot;nofollow&quot;&gt;真心话大冒险&lt;/a&gt;：一个轮子选人，一个轮子选&quot;真心话/大冒险&quot;，再来一个轮子选具体问题或任务&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://gospinwheel.com/zh-Hans/who-does-the-dishes&quot; rel=&quot;nofollow&quot;&gt;谁洗碗&lt;/a&gt;：吃完年夜饭，全家人名字往里一扔，转&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://gospinwheel.com/zh-Hans/what-to-eat&quot; rel=&quot;nofollow&quot;&gt;今晚吃啥&lt;/a&gt;：火锅/烧烤/日料/随便，选择困难症救星&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://gospinwheel.com/zh-Hans&quot; rel=&quot;nofollow&quot;&gt;该谁发红包了&lt;/a&gt;：下一个谁发？转盘决定，公平公正&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://gospinwheel.com/zh-Hans/name-picker&quot; rel=&quot;nofollow&quot;&gt;喝酒游戏&lt;/a&gt;：转到谁谁喝，配合淘汰模式，喝过的自动移除，雨露均沾&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;反正我过年准备拿这个整活了，投屏到电视上效果应该不错。&lt;/p&gt;
-&lt;p&gt;有什么建议欢迎提，毕竟本来只是帮人事做个小工具...&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;在线演示：&lt;/strong&gt; &lt;a href=&quot;https://baidu.typesafe.cn&quot; rel=&quot;nofollow&quot;&gt;https://baidu.typesafe.cn&lt;/a&gt;
+&lt;em&gt;（注：此域名模拟内网环境，登录 test/test 后即可自动跳转，感受无感代理的流程）&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;5. 进阶：多云、多机房的统一网关&lt;/h2&gt;
+&lt;p&gt;如果你有多个机房（阿里云、腾讯云、家里、公司），传统的方案需要配置复杂的路由隧道。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Next Terminal 提供了一个“安全网关（ Agent ）”模式：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在各个内网环境跑一个轻量级 Agent 。&lt;/li&gt;
+&lt;li&gt;Agent 会自动建立反向隧道回到 NT 主站。&lt;/li&gt;
+&lt;li&gt;你在主站配置资产时，选一下“所属网关”。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这样，无论服务在哪，你都只需要通过一个入口访问，而且&lt;strong&gt;不需要在路由器上做任何端口映射&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2&gt;总结&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;需求&lt;/th&gt;
+&lt;th&gt;frp&lt;/th&gt;
+&lt;th&gt;VPN&lt;/th&gt;
+&lt;th&gt;Next Terminal&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;访问门槛&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;极低 (扫端口即入)&lt;/td&gt;
+&lt;td&gt;高 (需客户端)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;极低 (浏览器即用)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;安全性&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;弱&lt;/td&gt;
+&lt;td&gt;强&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;极强 (身份认证前置)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;权限控制&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;无&lt;/td&gt;
+&lt;td&gt;粗粒度 (内网全通)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;精细 (按人/按资产授权)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;管理成本&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;分散&lt;/td&gt;
+&lt;td&gt;复杂&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;统一控制台&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;如果你已经厌倦了每天看 SSH 被爆破的日志，或者不想再为 VPN 掉线发愁，欢迎尝试 &lt;strong&gt;Next Terminal&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;官网： &lt;a href=&quot;https://typesafe.cn&quot; rel=&quot;nofollow&quot;&gt;https://typesafe.cn&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>又出现程序员猝死，你怎么看？</title>
-      <link>https://www.v2ex.com/t/1187506</link>
-      <guid>v2ex-1187506</guid>
-      <pubDate>Thu, 22 Jan 2026 01:58:44 GMT</pubDate>
-      <description>很多人都支持卷，说什么身不由己，其实卷王本质上是提前透支诸位的职场环境，从而套现作为升职加薪，你们被薅了，你们未来的职场福利都被卷王提前收割了，为毛还支持这种行为？</description>
+      <title>大家的 NAS 都买了应急电源了没？</title>
+      <link>https://www.v2ex.com/t/1187740</link>
+      <guid>v2ex-1187740</guid>
+      <pubDate>Fri, 23 Jan 2026 01:28:50 GMT</pubDate>
+      <description>家里一台群晖 ds423+和一台小主机电脑改装的飞牛，昨天家里用厨房电器，搞得跳闸停电了，我回家一看，开机后还好都没坏，除了这次，这两年断断续续的停过两三次电，所以准备购买一台 ups NAS 电源。大家都装了没？有没有好的推荐，谢谢</description>
+    </item>
+    <item>
+      <title>婚姻到底给男人带来了什么？ 5 年赚了 200 个，现在负债 70 个</title>
+      <link>https://www.v2ex.com/t/1187648</link>
+      <guid>v2ex-1187648</guid>
+      <pubDate>Thu, 22 Jan 2026 08:56:57 GMT</pubDate>
+      <description>&lt;p&gt;人在顺境的时候觉得一切都很美好，逆境中回望曾经，几年间也赚了 200 多万。钱都交给了老婆保管，我知道的大消费是买房子首付 30 万装修 10 万，但是有父母给的 6 万，其它没有任何大的消费。钱去哪了？？？&lt;/p&gt;
+&lt;p&gt;婚姻到底给男人带来了什么？免费性？孩子的欢乐？还是满脑子搞钱？没有任何其他欲望？。。。。&lt;/p&gt;
+&lt;p&gt;没有财产没有土地没有传承，要小孩的目的是什么？养老？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>戒烟后，又对咖啡上了瘾</title>
+      <link>https://www.v2ex.com/t/1187729</link>
+      <guid>v2ex-1187729</guid>
+      <pubDate>Fri, 23 Jan 2026 00:51:56 GMT</pubDate>
+      <description>感觉把烟瘾的情绪都发泄到咖啡上了，现在一天不喝不想。&lt;br /&gt;所以对于健康来讲，咖啡应该优于香烟吧。&lt;br /&gt;准备入手一套咖啡机了&lt;br /&gt;看好了，还没下手</description>
+    </item>
+    <item>
+      <title>Antigravity 好像全挂了</title>
+      <link>https://www.v2ex.com/t/1187634</link>
+      <guid>v2ex-1187634</guid>
+      <pubDate>Thu, 22 Jan 2026 08:24:43 GMT</pubDate>
+      <description>&lt;p&gt;Antigravity 好像全挂了 薅羊毛把谷歌薅坏了吧&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>结婚就要上交工资？</title>
+      <link>https://www.v2ex.com/t/1187746</link>
+      <guid>v2ex-1187746</guid>
+      <pubDate>Fri, 23 Jan 2026 01:37:38 GMT</pubDate>
+      <description>&lt;p&gt;发现论坛里很多 V 友都喜欢上交工资。导致各种家庭财务问题。首先现代人大多都不存钱，而且女人用钱都根据心情各种买，物欲比男人强，根本难存钱，如果上交等于爱她，那同几十万江西老表礼金有什么区别。上交工资大多适合我们父母那一代，一日 3 餐家里做，不会上网购物，不逛街只有他们真的帮我们存到钱&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>今天看新闻一个 32 岁程序员猝死，我今年 31……</title>
+      <link>https://www.v2ex.com/t/1187538</link>
+      <guid>v2ex-1187538</guid>
+      <pubDate>Thu, 22 Jan 2026 03:15:37 GMT</pubDate>
+      <description>这哥们临死前登录了多次 OA ，工作群还拉他，各种派活呢。&lt;br /&gt;我就想，谁能为我们程序员发声？监管制度能不能完善一下，把员工权益彻底落地啊。&lt;br /&gt;现在随便拉一个互联网人绝 b 是亚健康状态，有时候想想，每天下班都看不到太阳也真是没谁了，是时候考虑转型了，应该趁着 AI 这波技术改革抓紧找别的出路，不然说不上哪天就再见了</description>
+    </item>
+    <item>
+      <title>小公司开发有什么需要避免的操作吗</title>
+      <link>https://www.v2ex.com/t/1187601</link>
+      <guid>v2ex-1187601</guid>
+      <pubDate>Thu, 22 Jan 2026 06:51:20 GMT</pubDate>
+      <description>&lt;p&gt;目前背景:
+是个小公司的后端开发,服务器,数据库,git,公司路由器都在我手里,感觉责任重大,想知道有什么需要避免的操作吗,主要是害怕万一一周或者几个月我不在,避免公司业务出问题&lt;/p&gt;
+&lt;p&gt;以下是我自己想到的几点,想知道还有没有其他没想到的方案&lt;/p&gt;
+&lt;p&gt;1.数据库的分区表,特别是和时间相关的,不能手动生成,要不然后面人不在没交代的话会直接给服务器崩掉&lt;/p&gt;
+&lt;p&gt;2.给本地调试的服务器端口白名单,不能图方便给网段开白名单,要不然后面会有脚本小子或者勒索病毒来扫&lt;/p&gt;
+&lt;p&gt;3.一些公共库,如果有不符合业务需求的地方,不要把人家的源码拉下来自己改然后编译成引用放在库里,(比如说 ef core upsert 的库之前不支持 ef10)否则后面更新时候会炸掉&lt;/p&gt;
+&lt;p&gt;4.单元测试不要埋雷,一些当调试用的或临时跑点小任务单元测试不能放在例行单元测试的文件夹里面,污染数据库&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
