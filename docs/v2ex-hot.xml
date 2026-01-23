@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 23 Jan 2026 05:49:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 06:20:21 GMT</lastBuildDate>
     <item>
       <title>结婚就要上交工资？</title>
       <link>https://www.v2ex.com/t/1187746</link>
@@ -21,115 +21,11 @@
       <description>家里一台群晖 ds423+和一台小主机电脑改装的飞牛，昨天家里用厨房电器，搞得跳闸停电了，我回家一看，开机后还好都没坏，除了这次，这两年断断续续的停过两三次电，所以准备购买一台 ups NAS 电源。大家都装了没？有没有好的推荐，谢谢</description>
     </item>
     <item>
-      <title>别再裸奔了：如何优雅且安全地暴露内网服务？</title>
-      <link>https://www.v2ex.com/t/1187587</link>
-      <guid>v2ex-1187587</guid>
-      <pubDate>Thu, 22 Jan 2026 06:07:33 GMT</pubDate>
-      <description>&lt;h2&gt;1. 现状：你的内网服务在公网“裸奔”吗？&lt;/h2&gt;
-&lt;p&gt;如果你手里有几台云服务器或家里的 NAS ，大概率折腾过内网穿透。但你去翻翻 &lt;code&gt;auth.log&lt;/code&gt; 或者 SSH 日志，你会发现世界充满了“恶意”：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;frp 转发 22 端口：&lt;/strong&gt; 刚开几分钟，就有成千上万个 IP 开始暴力破解。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Web 服务直出：&lt;/strong&gt; 暴露个 GitLab 或 Jenkins ，只要有个未授权访问漏洞，全家桶就都没了。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;VPN 的痛苦：&lt;/strong&gt; WireGuard 确实快，但给非技术同事开账号、教他们配客户端，简直是运维噩梦。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我们需要的其实很简单：&lt;strong&gt;既要 frp 的便捷，又要 VPN 的安全，最好还能像访问正常网站一样，浏览器打开就能用。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;2. 为什么说传统方案让你很累？&lt;/h2&gt;
-&lt;h3&gt;frp：它是通道，但不是防线&lt;/h3&gt;
-&lt;p&gt;frp 的设计初衷是“连通性”，它只管把流量从 A 传到 B 。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;隐患：&lt;/strong&gt; 它把内网服务直接推到了公网的枪口下。改端口、加 &lt;code&gt;sk&lt;/code&gt; 验证确实能挡住一部分，但无法解决&lt;strong&gt;身份鉴权&lt;/strong&gt;和&lt;strong&gt;审计&lt;/strong&gt;的问题。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;现状：&lt;/strong&gt; 即使你改了端口，扫描器通过协议指纹依然能识别出你的服务。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;VPN：安全，但“摩擦力”太大&lt;/h3&gt;
-&lt;p&gt;VPN 是一道厚重的围墙，但进出这道墙太麻烦了。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;体验：&lt;/strong&gt; 手机、平板、电脑，每个设备都要装客户端。断线重连、路由冲突是常态。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;风险：&lt;/strong&gt; 典型的“一处破，处处破”。一旦 VPN 账号泄露，攻击者就拿到了内网的整张入场券。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3. 更现代的方案：Next Terminal 的零信任实践&lt;/h2&gt;
-&lt;p&gt;作为 Next Terminal 的开发者，我在设计 Web 资产代理时，参考了 &lt;strong&gt;“零信任（ Zero Trust ）”&lt;/strong&gt; 的思路。&lt;/p&gt;
-&lt;p&gt;核心逻辑只有一句话：&lt;strong&gt;先验证身份，再建立连接。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;nt.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/TLP0s0p3.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;它是如何工作的？&lt;/h3&gt;
-&lt;p&gt;以往你访问 &lt;code&gt;&lt;a href=&quot;http://gitlab.example.com&quot; rel=&quot;nofollow&quot;&gt;gitlab.example.com&lt;/a&gt;&lt;/code&gt;，请求是直接打到 GitLab 上的。现在，Next Terminal 充当了“安全网关”的角色：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;流量拦截&lt;/strong&gt;：所有指向内网 Web 服务的请求，先经过 Next Terminal 。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;身份核验&lt;/strong&gt;：如果用户没登录 Next Terminal ，直接被拦在门外，GitLab 根本感知不到任何请求。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;动态授权&lt;/strong&gt;：登录后，系统会检查：你是否有权限访问这个特定资产？&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;无感转发&lt;/strong&gt;：验证通过后，你才能看到熟悉的 GitLab 界面。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;4. 实战：3 分钟安全发布内网 GitLab&lt;/h2&gt;
-&lt;p&gt;假设你内网 GitLab 跑在 &lt;code&gt;192.168.1.10:80&lt;/code&gt;，你可以彻底告别 &lt;code&gt;6000&lt;/code&gt; 这种奇怪的端口号。&lt;/p&gt;
-&lt;h3&gt;第一步：开启反代&lt;/h3&gt;
-&lt;p&gt;在 Next Terminal 配置文件中开启反代和 HTTPS （建议配合通配符证书）：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-yaml&quot;&gt;App:
-  ReverseProxy:
-    Enabled: true
-    HttpsEnabled: true
-    SelfDomain: &quot;nt.yourdomain.com&quot;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;第二步：添加 Web 资产&lt;/h3&gt;
-&lt;p&gt;在 Web 界面点击“添加资产”，填写内部 IP 和你想要的域名（如 &lt;code&gt;&lt;a href=&quot;http://gitlab.yourdomain.com&quot; rel=&quot;nofollow&quot;&gt;gitlab.yourdomain.com&lt;/a&gt;&lt;/code&gt;）。&lt;/p&gt;
-&lt;h3&gt;第三步：授权与访问&lt;/h3&gt;
-&lt;p&gt;把这个资产授权给指定的用户组。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;现在的体验是：&lt;/strong&gt; 你直接访问 &lt;code&gt;&lt;a href=&quot;https://gitlab.yourdomain.com&quot; rel=&quot;nofollow&quot;&gt;https://gitlab.yourdomain.com&lt;/a&gt;&lt;/code&gt;。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;没登录？&lt;/strong&gt; 跳转到 NT 统一登录页。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;登录了？&lt;/strong&gt; 直接进入 GitLab 。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;想看谁访问了？&lt;/strong&gt; 后台审计日志一清二楚。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;在线演示：&lt;/strong&gt; &lt;a href=&quot;https://baidu.typesafe.cn&quot; rel=&quot;nofollow&quot;&gt;https://baidu.typesafe.cn&lt;/a&gt;
-&lt;em&gt;（注：此域名模拟内网环境，登录 test/test 后即可自动跳转，感受无感代理的流程）&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;5. 进阶：多云、多机房的统一网关&lt;/h2&gt;
-&lt;p&gt;如果你有多个机房（阿里云、腾讯云、家里、公司），传统的方案需要配置复杂的路由隧道。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Next Terminal 提供了一个“安全网关（ Agent ）”模式：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;在各个内网环境跑一个轻量级 Agent 。&lt;/li&gt;
-&lt;li&gt;Agent 会自动建立反向隧道回到 NT 主站。&lt;/li&gt;
-&lt;li&gt;你在主站配置资产时，选一下“所属网关”。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;这样，无论服务在哪，你都只需要通过一个入口访问，而且&lt;strong&gt;不需要在路由器上做任何端口映射&lt;/strong&gt;。&lt;/p&gt;
-&lt;h2&gt;总结&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;需求&lt;/th&gt;
-&lt;th&gt;frp&lt;/th&gt;
-&lt;th&gt;VPN&lt;/th&gt;
-&lt;th&gt;Next Terminal&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;访问门槛&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;极低 (扫端口即入)&lt;/td&gt;
-&lt;td&gt;高 (需客户端)&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;极低 (浏览器即用)&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;安全性&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;弱&lt;/td&gt;
-&lt;td&gt;强&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;极强 (身份认证前置)&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;权限控制&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;无&lt;/td&gt;
-&lt;td&gt;粗粒度 (内网全通)&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;精细 (按人/按资产授权)&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;管理成本&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;分散&lt;/td&gt;
-&lt;td&gt;复杂&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;统一控制台&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;如果你已经厌倦了每天看 SSH 被爆破的日志，或者不想再为 VPN 掉线发愁，欢迎尝试 &lt;strong&gt;Next Terminal&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;官网： &lt;a href=&quot;https://typesafe.cn&quot; rel=&quot;nofollow&quot;&gt;https://typesafe.cn&lt;/a&gt;&lt;/p&gt;
-</description>
+      <title>戒烟后，又对咖啡上了瘾</title>
+      <link>https://www.v2ex.com/t/1187729</link>
+      <guid>v2ex-1187729</guid>
+      <pubDate>Fri, 23 Jan 2026 00:51:56 GMT</pubDate>
+      <description>感觉把烟瘾的情绪都发泄到咖啡上了，现在一天不喝不想。&lt;br /&gt;所以对于健康来讲，咖啡应该优于香烟吧。&lt;br /&gt;准备入手一套咖啡机了&lt;br /&gt;看好了，还没下手</description>
     </item>
     <item>
       <title>婚姻到底给男人带来了什么？ 5 年赚了 200 个，现在负债 70 个</title>
@@ -140,13 +36,6 @@
 &lt;p&gt;婚姻到底给男人带来了什么？免费性？孩子的欢乐？还是满脑子搞钱？没有任何其他欲望？。。。。&lt;/p&gt;
 &lt;p&gt;没有财产没有土地没有传承，要小孩的目的是什么？养老？&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>戒烟后，又对咖啡上了瘾</title>
-      <link>https://www.v2ex.com/t/1187729</link>
-      <guid>v2ex-1187729</guid>
-      <pubDate>Fri, 23 Jan 2026 00:51:56 GMT</pubDate>
-      <description>感觉把烟瘾的情绪都发泄到咖啡上了，现在一天不喝不想。&lt;br /&gt;所以对于健康来讲，咖啡应该优于香烟吧。&lt;br /&gt;准备入手一套咖啡机了&lt;br /&gt;看好了，还没下手</description>
     </item>
     <item>
       <title>关于加班猝死说说我的经历。</title>
