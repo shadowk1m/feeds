@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 23 Jan 2026 06:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 06:56:00 GMT</lastBuildDate>
     <item>
       <title>结婚就要上交工资？</title>
       <link>https://www.v2ex.com/t/1187746</link>
@@ -53,17 +53,19 @@
 </description>
     </item>
     <item>
-      <title>小公司开发有什么需要避免的操作吗</title>
-      <link>https://www.v2ex.com/t/1187601</link>
-      <guid>v2ex-1187601</guid>
-      <pubDate>Thu, 22 Jan 2026 06:51:20 GMT</pubDate>
-      <description>&lt;p&gt;目前背景:
-是个小公司的后端开发,服务器,数据库,git,公司路由器都在我手里,感觉责任重大,想知道有什么需要避免的操作吗,主要是害怕万一一周或者几个月我不在,避免公司业务出问题&lt;/p&gt;
-&lt;p&gt;以下是我自己想到的几点,想知道还有没有其他没想到的方案&lt;/p&gt;
-&lt;p&gt;1.数据库的分区表,特别是和时间相关的,不能手动生成,要不然后面人不在没交代的话会直接给服务器崩掉&lt;/p&gt;
-&lt;p&gt;2.给本地调试的服务器端口白名单,不能图方便给网段开白名单,要不然后面会有脚本小子或者勒索病毒来扫&lt;/p&gt;
-&lt;p&gt;3.一些公共库,如果有不符合业务需求的地方,不要把人家的源码拉下来自己改然后编译成引用放在库里,(比如说 ef core upsert 的库之前不支持 ef10)否则后面更新时候会炸掉&lt;/p&gt;
-&lt;p&gt;4.单元测试不要埋雷,一些当调试用的或临时跑点小任务单元测试不能放在例行单元测试的文件夹里面,污染数据库&lt;/p&gt;
+      <title>客厅玩游戏，最佳解决方案是什么？</title>
+      <link>https://www.v2ex.com/t/1187768</link>
+      <guid>v2ex-1187768</guid>
+      <pubDate>Fri, 23 Jan 2026 02:23:57 GMT</pubDate>
+      <description>&lt;p&gt;类似黑猴这类型的，目前最佳方案是什么？ ps5 pro?&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>你们做事情会上瘾吗，我好像做啥都是三分钟热度</title>
+      <link>https://www.v2ex.com/t/1187794</link>
+      <guid>v2ex-1187794</guid>
+      <pubDate>Fri, 23 Jan 2026 03:05:49 GMT</pubDate>
+      <description>&lt;p&gt;如题，我会对一个事情喜欢，比如电影，音乐，游戏，游泳篮球，但是也可以很长一段时间不去想这件事，偶尔想到就去做，没法理解对一件事情上瘾，比如抽烟，喝酒，咖啡等&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -92,12 +94,11 @@
 </description>
     </item>
     <item>
-      <title>antigravity 炸了？</title>
-      <link>https://www.v2ex.com/t/1187653</link>
-      <guid>v2ex-1187653</guid>
-      <pubDate>Thu, 22 Jan 2026 09:22:21 GMT</pubDate>
-      <description>&lt;p&gt;模型无法选择&lt;/p&gt;
-</description>
+      <title>2026 年了，是否仍然：车上听音乐，蓝牙连接远不如 AUX 有线</title>
+      <link>https://www.v2ex.com/t/1187754</link>
+      <guid>v2ex-1187754</guid>
+      <pubDate>Fri, 23 Jan 2026 01:54:33 GMT</pubDate>
+      <description>车子中控大屏（车机导航那个大盒子）的蓝牙模块可能出毛病了，连上蓝牙音乐经常出现快进跳播的现象，手机音乐没问题，确定是中控的问题。现在有 2 个方案：&lt;br /&gt;&lt;br /&gt;1 、把中控拆了引后面那根 AUX 的线出来用（原厂中控是有 AUX 口的，因为想装屏幕用来倒车影像所以换了中控）；&lt;br /&gt;2 、把整个中控换掉，改善蓝牙连接；&lt;br /&gt;&lt;br /&gt;如果 2026 年了，AUX 有线连接仍然碾压蓝牙音质的话，那我还不如走 1 的方案，正在研究要怎么搞。如果蓝牙跟有线相差不大，那就索性花点钱换个新的中控了。</description>
     </item>
   </channel>
 </rss>
