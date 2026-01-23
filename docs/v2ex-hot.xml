@@ -4,13 +4,21 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 23 Jan 2026 03:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 04:05:24 GMT</lastBuildDate>
     <item>
-      <title>我是家中独子，婆媳关系不好，老婆不肯回家过年，怎么办？</title>
-      <link>https://www.v2ex.com/t/1187535</link>
-      <guid>v2ex-1187535</guid>
-      <pubDate>Thu, 22 Jan 2026 03:05:26 GMT</pubDate>
-      <description>我的父母很希望我们能一起带孩子回去过年，我夹在中间很难受。</description>
+      <title>结婚就要上交工资？</title>
+      <link>https://www.v2ex.com/t/1187746</link>
+      <guid>v2ex-1187746</guid>
+      <pubDate>Fri, 23 Jan 2026 01:37:38 GMT</pubDate>
+      <description>&lt;p&gt;发现论坛里很多 V 友都喜欢上交工资。导致各种家庭财务问题。首先现代人大多都不存钱，而且女人用钱都根据心情各种买，物欲比男人强，根本难存钱，如果上交等于爱她，那同几十万江西老表礼金有什么区别。上交工资大多适合我们父母那一代，一日 3 餐家里做，不会上网购物，不逛街只有他们真的帮我们存到钱&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>大家的 NAS 都买了应急电源了没？</title>
+      <link>https://www.v2ex.com/t/1187740</link>
+      <guid>v2ex-1187740</guid>
+      <pubDate>Fri, 23 Jan 2026 01:28:50 GMT</pubDate>
+      <description>家里一台群晖 ds423+和一台小主机电脑改装的飞牛，昨天家里用厨房电器，搞得跳闸停电了，我回家一看，开机后还好都没坏，除了这次，这两年断断续续的停过两三次电，所以准备购买一台 ups NAS 电源。大家都装了没？有没有好的推荐，谢谢</description>
     </item>
     <item>
       <title>别再裸奔了：如何优雅且安全地暴露内网服务？</title>
@@ -124,13 +132,6 @@
 </description>
     </item>
     <item>
-      <title>大家的 NAS 都买了应急电源了没？</title>
-      <link>https://www.v2ex.com/t/1187740</link>
-      <guid>v2ex-1187740</guid>
-      <pubDate>Fri, 23 Jan 2026 01:28:50 GMT</pubDate>
-      <description>家里一台群晖 ds423+和一台小主机电脑改装的飞牛，昨天家里用厨房电器，搞得跳闸停电了，我回家一看，开机后还好都没坏，除了这次，这两年断断续续的停过两三次电，所以准备购买一台 ups NAS 电源。大家都装了没？有没有好的推荐，谢谢</description>
-    </item>
-    <item>
       <title>婚姻到底给男人带来了什么？ 5 年赚了 200 个，现在负债 70 个</title>
       <link>https://www.v2ex.com/t/1187648</link>
       <guid>v2ex-1187648</guid>
@@ -156,19 +157,11 @@
 </description>
     </item>
     <item>
-      <title>结婚就要上交工资？</title>
-      <link>https://www.v2ex.com/t/1187746</link>
-      <guid>v2ex-1187746</guid>
-      <pubDate>Fri, 23 Jan 2026 01:37:38 GMT</pubDate>
-      <description>&lt;p&gt;发现论坛里很多 V 友都喜欢上交工资。导致各种家庭财务问题。首先现代人大多都不存钱，而且女人用钱都根据心情各种买，物欲比男人强，根本难存钱，如果上交等于爱她，那同几十万江西老表礼金有什么区别。上交工资大多适合我们父母那一代，一日 3 餐家里做，不会上网购物，不逛街只有他们真的帮我们存到钱&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>今天看新闻一个 32 岁程序员猝死，我今年 31……</title>
-      <link>https://www.v2ex.com/t/1187538</link>
-      <guid>v2ex-1187538</guid>
-      <pubDate>Thu, 22 Jan 2026 03:15:37 GMT</pubDate>
-      <description>这哥们临死前登录了多次 OA ，工作群还拉他，各种派活呢。&lt;br /&gt;我就想，谁能为我们程序员发声？监管制度能不能完善一下，把员工权益彻底落地啊。&lt;br /&gt;现在随便拉一个互联网人绝 b 是亚健康状态，有时候想想，每天下班都看不到太阳也真是没谁了，是时候考虑转型了，应该趁着 AI 这波技术改革抓紧找别的出路，不然说不上哪天就再见了</description>
+      <title>人类编写代码的时代已经结束了</title>
+      <link>https://www.v2ex.com/t/1187571</link>
+      <guid>v2ex-1187571</guid>
+      <pubDate>Thu, 22 Jan 2026 05:23:01 GMT</pubDate>
+      <description>十年程序员已经几个月没有自己写代码了，时代真的过去了</description>
     </item>
     <item>
       <title>小公司开发有什么需要避免的操作吗</title>
@@ -183,6 +176,13 @@
 &lt;p&gt;3.一些公共库,如果有不符合业务需求的地方,不要把人家的源码拉下来自己改然后编译成引用放在库里,(比如说 ef core upsert 的库之前不支持 ef10)否则后面更新时候会炸掉&lt;/p&gt;
 &lt;p&gt;4.单元测试不要埋雷,一些当调试用的或临时跑点小任务单元测试不能放在例行单元测试的文件夹里面,污染数据库&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>关于加班猝死说说我的经历。</title>
+      <link>https://www.v2ex.com/t/1187741</link>
+      <guid>v2ex-1187741</guid>
+      <pubDate>Fri, 23 Jan 2026 01:30:04 GMT</pubDate>
+      <description>1 、工作初期、新手时期，工作的第二年。&lt;br /&gt;- 我从一家 955 跳槽到了 一家 985 （虽然工资涨了 50%，但是真的难受，领导也不舒服，勾心斗角）&lt;br /&gt;&lt;br /&gt;- 我记得有一天改一个项目，要上线，我加班到了凌晨 2 点，我问领导第二天还要上班吗，领导回：“正常   早上 9 点上班”， 我记得那天晚上，还好他妈是夏天，我骑车回去，路上在狂叫，草泥马。&lt;br /&gt;&lt;br /&gt;- 还有一个原因，这家加班什么补贴都没有，只有餐补。&lt;br /&gt;（年后我就辞职了，就是这个原因，我感觉公司一点人情味也没有）&lt;br /&gt;&lt;br /&gt;- 我在这家公司上班的时候，我还会经常梦到 回 955 公司上班了。。真的惨。。&lt;br /&gt;&lt;br /&gt;2 、说说现在 - 我学会了拒绝&lt;br /&gt;- 有些产品、项目经理就是傻逼，明明项目不着急上线，非要快下班了，发个生产，非要加班。 &lt;br /&gt;  如果现在不着急的项目，我会直接说： 我不加班了，不想加，也没必要。&lt;br /&gt;&lt;br /&gt;3 、年轻的时候确实不敢拒绝，领导说什么就是什么，怕被开。。&lt;br /&gt;&lt;br /&gt;4 、如果加班没钱，没补贴，你们还卷，我想说，你肯定是个爱老婆，爱孩子的好牛马。。加油吧。</description>
     </item>
   </channel>
 </rss>
