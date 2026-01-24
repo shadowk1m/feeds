@@ -4,39 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 24 Jan 2026 02:51:29 GMT</lastBuildDate>
-    <item>
-      <title>你们做事情会上瘾吗，我好像做啥都是三分钟热度</title>
-      <link>https://www.v2ex.com/t/1187794</link>
-      <guid>v2ex-1187794</guid>
-      <pubDate>Fri, 23 Jan 2026 03:05:49 GMT</pubDate>
-      <description>&lt;p&gt;如题，我会对一个事情喜欢，比如电影，音乐，游戏，游泳篮球，但是也可以很长一段时间不去想这件事，偶尔想到就去做，没法理解对一件事情上瘾，比如抽烟，喝酒，咖啡等&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>我这种情况，当下有没有必要入手一个 Mac，求拔草或种草</title>
-      <link>https://www.v2ex.com/t/1187843</link>
-      <guid>v2ex-1187843</guid>
-      <pubDate>Fri, 23 Jan 2026 05:47:59 GMT</pubDate>
-      <description>&lt;p&gt;个人情况：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Java 、Python 、go 、前端都写过&lt;/li&gt;
-&lt;li&gt;从未用过 Mac ，家里有台式机作为主力开发，还有 NAS 和轻薄本 Windows ，偶尔外出用笔记本远程家里台式&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Windows 下个人开发遇到的问题&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;AI 总是优先使用 bash 语法，vibe coding 是经常先运行 bash 命令，看到报错再切换成 powershell ，即使增加全局 prompt 告诉它这是 windows 有时还是会失效，写的 powershell 也经常失败&lt;/li&gt;
-&lt;li&gt;很多 AI 工具对 unix 的支持比 windows 好得多，像 claude code 。一些前沿工具如 bun 也是最近才有 Windows ，而且据说还不完善&lt;/li&gt;
-&lt;li&gt;使用 wsl2 折腾过，jetbrains 系有些不能很好适配。而且如果代码在 wsl 中，jetbrains 和 vscode 系的相互跳转插件就失效了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如果新增 Mac 作为主力开发工具&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;考虑鱼上收一个 Mac mini 16+256 ，我有 NAS 可以开 docker ，不太需要内存和存储，也没有跑大模型的需要&lt;/li&gt;
-&lt;li&gt;有远程需要就用笔记本远程 Mac&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;主要是想 vibe coding 体验更好些，因为我没用过 mac ，想看看大家的意见&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 03:55:20 GMT</lastBuildDate>
     <item>
       <title>[送年度会员] 一个程序员宝爸，被每天哄睡逼到做了个“替身”</title>
       <link>https://www.v2ex.com/t/1187904</link>
@@ -169,13 +137,27 @@
 &lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://resource.flyfish.wang/activity/momoy-story-share.png&quot;/&gt;</description>
     </item>
     <item>
-      <title>Claude Code 这种智能 CLI 相对于 Cursor 的优势在哪？为什么感觉前者是主流了？</title>
-      <link>https://www.v2ex.com/t/1187879</link>
-      <guid>v2ex-1187879</guid>
-      <pubDate>Fri, 23 Jan 2026 07:22:11 GMT</pubDate>
-      <description>&lt;p&gt;当然不限于这两个，前者也可以是 OpenCode ，后者也可以是 Github Copilot ，总之分别代表 AI Agent IDE 和 AI CLI 。
-我是 Windows 客户端开发，日常工作用的是 WPF 和 Qt5 ，Qt 也有部分工作是在信创 Linux 上做的。目前的疑惑就是 CLI 感觉对我用处不大。无论是 WPF 还是 Qt5 都是那种很依赖 IDE 的开发框架，几乎不会出现需要开发者自己操作命令行的场景。然后另一方面之前用过免费的 Cursor 和 Github Copilot ，非常喜欢智能 Tab 的功能，这个是 CLI 不具备的，而且我也不知道去哪里找平价的替代……
-另外我用了 Claude Code for VS Code 插件要好一点，你们不会觉得在终端里输入中午很别扭难受吗……&lt;/p&gt;
+      <title>我这种情况，当下有没有必要入手一个 Mac，求拔草或种草</title>
+      <link>https://www.v2ex.com/t/1187843</link>
+      <guid>v2ex-1187843</guid>
+      <pubDate>Fri, 23 Jan 2026 05:47:59 GMT</pubDate>
+      <description>&lt;p&gt;个人情况：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Java 、Python 、go 、前端都写过&lt;/li&gt;
+&lt;li&gt;从未用过 Mac ，家里有台式机作为主力开发，还有 NAS 和轻薄本 Windows ，偶尔外出用笔记本远程家里台式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Windows 下个人开发遇到的问题&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AI 总是优先使用 bash 语法，vibe coding 是经常先运行 bash 命令，看到报错再切换成 powershell ，即使增加全局 prompt 告诉它这是 windows 有时还是会失效，写的 powershell 也经常失败&lt;/li&gt;
+&lt;li&gt;很多 AI 工具对 unix 的支持比 windows 好得多，像 claude code 。一些前沿工具如 bun 也是最近才有 Windows ，而且据说还不完善&lt;/li&gt;
+&lt;li&gt;使用 wsl2 折腾过，jetbrains 系有些不能很好适配。而且如果代码在 wsl 中，jetbrains 和 vscode 系的相互跳转插件就失效了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果新增 Mac 作为主力开发工具&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;考虑鱼上收一个 Mac mini 16+256 ，我有 NAS 可以开 docker ，不太需要内存和存储，也没有跑大模型的需要&lt;/li&gt;
+&lt;li&gt;有远程需要就用笔记本远程 Mac&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;主要是想 vibe coding 体验更好些，因为我没用过 mac ，想看看大家的意见&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -411,6 +393,16 @@ boss 直聘主动联系我的人很多，但是简历发了后基本就没下文
 </description>
     </item>
     <item>
+      <title>Claude Code 这种智能 CLI 相对于 Cursor 的优势在哪？为什么感觉前者是主流了？</title>
+      <link>https://www.v2ex.com/t/1187879</link>
+      <guid>v2ex-1187879</guid>
+      <pubDate>Fri, 23 Jan 2026 07:22:11 GMT</pubDate>
+      <description>&lt;p&gt;当然不限于这两个，前者也可以是 OpenCode ，后者也可以是 Github Copilot ，总之分别代表 AI Agent IDE 和 AI CLI 。
+我是 Windows 客户端开发，日常工作用的是 WPF 和 Qt5 ，Qt 也有部分工作是在信创 Linux 上做的。目前的疑惑就是 CLI 感觉对我用处不大。无论是 WPF 还是 Qt5 都是那种很依赖 IDE 的开发框架，几乎不会出现需要开发者自己操作命令行的场景。然后另一方面之前用过免费的 Cursor 和 Github Copilot ，非常喜欢智能 Tab 的功能，这个是 CLI 不具备的，而且我也不知道去哪里找平价的替代……
+另外我用了 Claude Code for VS Code 插件要好一点，你们不会觉得在终端里输入中午很别扭难受吗……&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title># 别再用 Nginx 配置折磨自己了，推荐 Zoraxy 让你 3 分钟搞定反向代理</title>
       <link>https://www.v2ex.com/t/1187867</link>
       <guid>v2ex-1187867</guid>
@@ -612,31 +604,6 @@ sudo ./zoraxy_linux_amd64
 </description>
     </item>
     <item>
-      <title>结婚上交工资？为什么就没有类似夫妻用钱审批场景的 bytebase 呢</title>
-      <link>https://www.v2ex.com/t/1187817</link>
-      <guid>v2ex-1187817</guid>
-      <pubDate>Fri, 23 Jan 2026 03:53:58 GMT</pubDate>
-      <description>&lt;p&gt;如题，如果有办法低成本的通过 api 调用支付宝/微信/银行给某个指定帐号打钱，是不是可以写一个夫妻用钱审批场景的 bytebase ？&lt;/p&gt;
-&lt;p&gt;这样比如妻子想买一个洗碗机，就可以打开一个工单，然后可以 preview 购买洗碗机后，本月家庭可支配收入的下降情况，然后工单自动流转给丈夫审批，丈夫审批同意后钱自动通过 api 从公款帐户打到指定帐户。&lt;/p&gt;
-&lt;p&gt;如果是丈夫想购买 iphone ，那么需要妻子审批通过，钱才会从公款帐户打到丈夫的个人支付宝内。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>发现一个邮件驱动的 APP</title>
-      <link>https://www.v2ex.com/t/1187854</link>
-      <guid>v2ex-1187854</guid>
-      <pubDate>Fri, 23 Jan 2026 06:11:02 GMT</pubDate>
-      <description>&lt;p&gt;第一次看到这种类型的应用，没有网站。我根据邮件提示创建了一个属于自己的邮箱。&lt;code&gt;sky@never-lost.app&lt;/code&gt;.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;只要向目标地址发送一封邮件，就可以每天获得 200M 的流量。&lt;/li&gt;
-&lt;li&gt;如果你发到我的这个邮箱，我就成为你的引荐人，referrer 。&lt;/li&gt;
-&lt;li&gt;如果你付费订阅，我可以获取 5%的充值款。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;特点在于配置文件作为邮件的附件，几乎不会被切断联系。除非屏蔽邮箱地址。&lt;/p&gt;
-&lt;p&gt;我大体研究了一下，好像没有中心节点。也就是说攻击单个节点不会对其它节点造成影响。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>求懂车的兄弟姐妹帮忙支招：可以买二手车吗，怎么买合适</title>
       <link>https://www.v2ex.com/t/1187840</link>
       <guid>v2ex-1187840</guid>
@@ -659,6 +626,31 @@ sudo ./zoraxy_linux_amd64
 &lt;li&gt;如果不适合，有更好的建议吗？&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;感谢！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>结婚上交工资？为什么就没有类似夫妻用钱审批场景的 bytebase 呢</title>
+      <link>https://www.v2ex.com/t/1187817</link>
+      <guid>v2ex-1187817</guid>
+      <pubDate>Fri, 23 Jan 2026 03:53:58 GMT</pubDate>
+      <description>&lt;p&gt;如题，如果有办法低成本的通过 api 调用支付宝/微信/银行给某个指定帐号打钱，是不是可以写一个夫妻用钱审批场景的 bytebase ？&lt;/p&gt;
+&lt;p&gt;这样比如妻子想买一个洗碗机，就可以打开一个工单，然后可以 preview 购买洗碗机后，本月家庭可支配收入的下降情况，然后工单自动流转给丈夫审批，丈夫审批同意后钱自动通过 api 从公款帐户打到指定帐户。&lt;/p&gt;
+&lt;p&gt;如果是丈夫想购买 iphone ，那么需要妻子审批通过，钱才会从公款帐户打到丈夫的个人支付宝内。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>发现一个邮件驱动的 APP</title>
+      <link>https://www.v2ex.com/t/1187854</link>
+      <guid>v2ex-1187854</guid>
+      <pubDate>Fri, 23 Jan 2026 06:11:02 GMT</pubDate>
+      <description>&lt;p&gt;第一次看到这种类型的应用，没有网站。我根据邮件提示创建了一个属于自己的邮箱。&lt;code&gt;sky@never-lost.app&lt;/code&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;只要向目标地址发送一封邮件，就可以每天获得 200M 的流量。&lt;/li&gt;
+&lt;li&gt;如果你发到我的这个邮箱，我就成为你的引荐人，referrer 。&lt;/li&gt;
+&lt;li&gt;如果你付费订阅，我可以获取 5%的充值款。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;特点在于配置文件作为邮件的附件，几乎不会被切断联系。除非屏蔽邮箱地址。&lt;/p&gt;
+&lt;p&gt;我大体研究了一下，好像没有中心节点。也就是说攻击单个节点不会对其它节点造成影响。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -865,6 +857,13 @@ sudo ./zoraxy_linux_amd64
 &lt;li&gt;&lt;strong&gt;中国与日本经济、文化对比&lt;/strong&gt;：带有明显个人立场，适合作为观点而非结论。&lt;/li&gt;
 &lt;/ol&gt;
 </description>
+    </item>
+    <item>
+      <title>一次 Apple 售后的经历分享--流程无懈可击，问题反而无处安放</title>
+      <link>https://www.v2ex.com/t/1187942</link>
+      <guid>v2ex-1187942</guid>
+      <pubDate>Fri, 23 Jan 2026 10:39:43 GMT</pubDate>
+      <description>在过去的一个多月，我经历了一个完整的 Apple 售后经历，整理出来给朋友们分享一二，顺便学习一下大公司的售后体系，里面有优秀的地方，也有僵化的地方，都值得创业者去思考。&lt;br /&gt;&lt;br /&gt;起因，是一个多月前，发现我的 iPad Pro 2022 插卡版，突然掉电很快，因为本来就是仍在床上偶尔玩一玩，用得少，之前很久都不被需要充电，但是发现突然开始放着两天就没电了，起初我觉得是 iPad 电池出问题了，本来一直都有 AC+，我就约了 Apple Store 的服务，去现场检测电池发现是 91%，25 年初我线上检测是 89%，我当时觉得就很扯淡，我就提议说返厂检测吧，于是去返厂检测了，大约几天后，Apple 返回了我的设备，说工厂检测完全符合标准。&lt;br /&gt;&lt;br /&gt;我心里也想着可能是系统 bug 吧，我就开始使用，发现问题依然存在，而且我意外发现了异常耗电的源头(插卡导致的，不插卡 WIFI 掉电 1-2%，只要插入 SIM 卡依然保持 WIFI 就会导致 30%-40%/24 小时的掉电)，我又一次的联系了 400 高级技术支持，这次按照苹果的流程是高级技术支持转争议团队处理，我花了四五天的时间，统计耗电一次的截图，在系统消耗里没有任何应用和后台，保持最新系统 26.2 ，发送了相关截图给 Apple 支持，过了 10 多天，争议团队回电说确认设备是符合出厂检测的，此后便结束了售后流程。&lt;br /&gt;&lt;br /&gt;按照苹果的售后流程，我已经无法主张自己的售后权利(当然具备 AC+的 iPad 保修政策依然宽泛，换个理由就可以换新或者走个意外，我对曾经那些 iPhone 骗保的嗤之以鼻，所以我自己不会做那样的事情，我只是实事求是)，我也对 Apple(中国大陆的售后)消耗完了耐心，我便去 12315 投诉了我的订单(诉求是退货退款)，当时是官方线上商城网站购买的，于是主体就是 Apple ，这个方法还是很有效的，第二天便来了 Apple 售后的电话，来确认问题，我又一次的把之前复现的结果邮件发送了支持，经过两天，有了结果，这一次这个问题到了 Apple 工程部(终于到了懂技术来处理问题)，他们希望捕获日志进一步分析问题，如果在 12315 之前，我很乐意协助解决，但是现在我的诉求是退货退款，Apple 售后认为他们不能提供这样的方案，这也是此文写下的时刻。&lt;br /&gt;&lt;br /&gt;当然我的维权之路还会继续，下一步我当然会走到法院的阶段共同去见证到底 iPad 是否存在问题，因为这个问题很容易确认，只需要插卡和不插卡放置 24 小时就有结论，而我的诉求则只会在法院和 Apple 确认 iPad 的这样的情况是否是预期/正常。而这款 iPad 我会保留，对自己也是更多的思考，因为我自己创业也做硬件，这次经历会思考如何更好的面对用户。&lt;br /&gt;&lt;br /&gt;最后给朋友们分享我认为对待大公司售后维权的方式，首先要保证不要情绪化，不然对自己也是巨大的消耗，Apple 的机制中有很多话术和方法就是为了降低公司体系损耗的，比如争议团队(态度极差，挑拨客户情绪)，这样的消耗会导致很多人便放弃自己的权利，而避免 Apple 的损失，因为一个不在预期内的问题，在 Apple 体系里已经是错综复杂了(很多大面积的召回就是这样暴露的，所以 Apple 所有的流程都在降低公司风险)，我曾经以为退货退款是我最大的包容，只是 Apple 拒绝了。</description>
     </item>
   </channel>
 </rss>
