@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 24 Jan 2026 04:28:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 04:53:57 GMT</lastBuildDate>
     <item>
       <title>[送年度会员] 一个程序员宝爸，被每天哄睡逼到做了个“替身”</title>
       <link>https://www.v2ex.com/t/1187904</link>
@@ -403,207 +403,6 @@ boss 直聘主动联系我的人很多，但是简历发了后基本就没下文
 </description>
     </item>
     <item>
-      <title># 别再用 Nginx 配置折磨自己了，推荐 Zoraxy 让你 3 分钟搞定反向代理</title>
-      <link>https://www.v2ex.com/t/1187867</link>
-      <guid>v2ex-1187867</guid>
-      <pubDate>Fri, 23 Jan 2026 06:49:06 GMT</pubDate>
-      <description>&lt;h1&gt;别再用 Nginx 配置折磨自己了，推荐 Zoraxy 让你 3 分钟搞定反向代理&lt;/h1&gt;
-&lt;p&gt;免责声明：本文中信息来源于网络，作者不保证其绝对正确性。读者在依据本文内容做出任何决策或行动前，应自行进行充分的调查与核实。对于因使用本文内容而产生的任何直接或间接损失，作者不承担任何责任。&lt;/p&gt;
-&lt;p&gt;本文为专业文章， 适合运维、开发、self-hosted 需求人员观看。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;你有没有这种经历？&lt;/p&gt;
-&lt;p&gt;新部署了一个服务，要去改 Nginx 配置文件。再部署一个，又要改。改完还得&lt;code&gt;nginx -s reload&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;有时候改错了语法，reload 失败，服务全挂了。&lt;/p&gt;
-&lt;p&gt;这时候你突然意识到：学 Nginx 配置语法的时间，比学做饭的时间还长。&lt;/p&gt;
-&lt;p&gt;别问我是怎么知道的。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Zoraxy001&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.jsdmirror.com/gh/sir2024/picx-images-hosting@master/blogs/Zoraxy001.232dee3k76.webp&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;现状&lt;/h2&gt;
-&lt;p&gt;反向代理在运维、开发、self-hosted  场景中经常用到，目前 Nginx 、Caddy 、Traefik 是主流选择。它们有个共同点：&lt;strong&gt;需要改配置文件&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;语法要记，改完要重载，错了要排查。对于不想折腾配置文件的人来说，这门槛不低。&lt;/p&gt;
-&lt;p&gt;今天介绍一个不一样的选择：&lt;strong&gt;Zoraxy 最大特点是全 UI 操作，支持动态应用规则的反向代理。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://zoraxy.aroz.org/img/screenshots/1.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;4&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://zoraxy.aroz.org/img/screenshots/4.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;Zoraxy 是什么&lt;/h2&gt;
-&lt;p&gt;Zoraxy 是一款基于 go 编写的动态反向代理工具。&lt;/p&gt;
-&lt;p&gt;最大的特点：&lt;strong&gt;Web UI 管理，零配置文件&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;项目简介里写得很直白——这可能是最适合新手的反向代理管理器之一。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;想到了 python 的 solgan: 人生苦短，我用 python&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;它不是药，但可能治好你的&quot;配置文件恐惧症&quot;。&lt;/p&gt;
-&lt;p&gt;让我想起一个笑话。&lt;/p&gt;
-&lt;p&gt;有人问医生：&quot;我每天都要吃止痛药才能工作，怎么办？&quot;&lt;/p&gt;
-&lt;p&gt;医生说：&quot;那你就别工作了。&quot;&lt;/p&gt;
-&lt;p&gt;Zoraxy 就是那个让你不用&quot;吃止痛药&quot;的选择——你不需要每天和配置文件较劲。&lt;/p&gt;
-&lt;h3&gt;能做什么&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;反向代理&lt;/strong&gt;：HTTP/2 、WebSocket 自动代理、虚拟目录、别名主机、自定义请求头、负载均衡。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;SSL 证书&lt;/strong&gt;：ACME 自动申请、Let&#39;s Encrypt 支持、DNS Challenge 。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;访问控制&lt;/strong&gt;：IP 黑白名单、国家/地区封禁。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;流代理&lt;/strong&gt;：TCP/UDP 代理。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;监控&lt;/strong&gt;：集成 Uptime Monitor ，实时主机健康检查。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;：Web SSH 终端、插件系统、实时流量分析。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://zoraxy.aroz.org/img/screenshots/2.png&quot;/&gt;
-&lt;img alt=&quot;3&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://zoraxy.aroz.org/img/screenshots/3.png&quot;/&gt;
-&lt;img alt=&quot;4&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://zoraxy.aroz.org/img/screenshots/4.png&quot;/&gt;
-&lt;img alt=&quot;5&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://zoraxy.aroz.org/img/screenshots/5.png&quot;/&gt;
-&lt;img alt=&quot;6&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://zoraxy.aroz.org/img/screenshots/6.png&quot;/&gt;
-&lt;img alt=&quot;7&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://zoraxy.aroz.org/img/screenshots/7.png&quot;/&gt;
-&lt;img alt=&quot;8&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://zoraxy.aroz.org/img/screenshots/8.png&quot;/&gt;
-&lt;img alt=&quot;9&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://zoraxy.aroz.org/img/screenshots/9.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;快速上手&lt;/h2&gt;
-&lt;h3&gt;安装&lt;/h3&gt;
-&lt;p&gt;因为基于 go 编写，基本上主流系统上直接安装编译好的文件就成。以 Linux 为例：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;wget https://github.com/tobychui/zoraxy/releases/latest/download/zoraxy_linux_amd64
-
-chmod +x ./zoraxy_linux_amd64
-
-sudo ./zoraxy_linux_amd64
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;启动后访问 &lt;a href=&quot;http://localhost:8000&quot; rel=&quot;nofollow&quot;&gt;http://localhost:8000&lt;/a&gt; 进行初始设置（&lt;strong&gt;无需配置文件，全部操作在 UI 中完成&lt;/strong&gt;）。&lt;/p&gt;
-&lt;p&gt;就这么简单。&lt;/p&gt;
-&lt;h3&gt;配置反向代理&lt;/h3&gt;
-&lt;p&gt;登录 Web 界面后，添加反向代理规则很简单：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;填写域名（比如 &lt;code&gt;ftp.server.local&lt;/code&gt;, 注意提前配置好你的 dns 指向）&lt;/li&gt;
-&lt;li&gt;填写目标地址（比如 &lt;code&gt;http://192.168.1.100:3000&lt;/code&gt;）&lt;/li&gt;
-&lt;li&gt;保存就动态生效了&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;就这么简单。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;zoraxy004_createrules&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.jsdmirror.com/gh/sir2024/picx-images-hosting@master/blogs/zoraxy004_createrules.54y9fmojzv.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;zoraxy004_http&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.jsdmirror.com/gh/sir2024/picx-images-hosting@master/blogs/zoraxy004_http.491s06z1vl.webp&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;SSL 证书&lt;/h3&gt;
-&lt;p&gt;Zoraxy 内置 ACME 客户端功能，支持 Let&#39;s Encrypt 等服务商证书的自动申请：证书自动续期，不用担心过期。&lt;/p&gt;
-&lt;p&gt;下面以自定义 ACME 服务器为例，展示 ssl 证书的申请。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;zoraxy005_ssl&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.jsdmirror.com/gh/sir2024/picx-images-hosting@master/blogs/zoraxy005_ssl.szg83ekz3.webp&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;Uptime Monitor&lt;/h3&gt;
-&lt;p&gt;Zoraxy 还集成了主机健康检查功能。&lt;/p&gt;
-&lt;p&gt;实时监控服务可用性，支持 HTTP/TCP/UDP 检查，失败会告警。&lt;/p&gt;
-&lt;p&gt;在&quot;Uptime Monitor&quot;页面添加监控目标就行。&lt;/p&gt;
-&lt;h2&gt;和 Nginx/Caddy 的区别&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;特性&lt;/th&gt;
-&lt;th&gt;Zoraxy&lt;/th&gt;
-&lt;th&gt;Nginx&lt;/th&gt;
-&lt;th&gt;Caddy&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;配置方式&lt;/td&gt;
-&lt;td&gt;Web UI&lt;/td&gt;
-&lt;td&gt;配置文件&lt;/td&gt;
-&lt;td&gt;配置文件&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;动态更新&lt;/td&gt;
-&lt;td&gt;✅ 即时生效&lt;/td&gt;
-&lt;td&gt;❌ 需 reload&lt;/td&gt;
-&lt;td&gt;✅ 自动&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SSL 证书&lt;/td&gt;
-&lt;td&gt;ACME 自动&lt;/td&gt;
-&lt;td&gt;需手动配置&lt;/td&gt;
-&lt;td&gt;ACME 自动&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;学习曲线&lt;/td&gt;
-&lt;td&gt;低&lt;/td&gt;
-&lt;td&gt;中&lt;/td&gt;
-&lt;td&gt;中&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;插件系统&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;❌&lt;/td&gt;
-&lt;td&gt;❌&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Uptime Monitor&lt;/td&gt;
-&lt;td&gt;✅ 内置&lt;/td&gt;
-&lt;td&gt;❌&lt;/td&gt;
-&lt;td&gt;❌&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;核心差异很明显：&lt;strong&gt;Zoraxy 全部通过 Web 界面操作，改完立即生效，不用重载服务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不想记配置文件语法的话，这是最大的优势。&lt;/p&gt;
-&lt;h2&gt;什么时候用 Zoraxy&lt;/h2&gt;
-&lt;p&gt;总体来说，zoraxy 十分适合中小企业内部， 家用 self-hosted 场景。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;人生苦短， 我用  zoraxy&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;适合&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;家用 lab/自托管多个服务&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;不想折腾配置文件&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;需要快速添加/删除代理规则&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;需要基本的健康检查&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;新手入门反向代理&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;不适合&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;需要极高性能（ Nginx/Traefik 优化更好）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;需要复杂的高级配置&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;配置即代码（ IaC ）需求&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;其他信息&lt;/h2&gt;
-&lt;p&gt;Zoraxy 是开源项目，AGPL 许可。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;GitHub: &lt;a href=&quot;https://github.com/tobychui/zoraxy&quot; rel=&quot;nofollow&quot;&gt;https://github.com/tobychui/zoraxy&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;官网: &lt;a href=&quot;https://zoraxy.aroz.org/&quot; rel=&quot;nofollow&quot;&gt;https://zoraxy.aroz.org/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;因为 go 的特性支持跨平台：Windows 、Linux 、macOS 、ARM 设备、RISC-V 。也集成到 TrueNAS 、Umbrel 、YunoHost 等应用市场。&lt;/p&gt;
-&lt;h2&gt;写在最后&lt;/h2&gt;
-&lt;p&gt;Nginx/Caddy 依然是优秀的选择。&lt;/p&gt;
-&lt;p&gt;但如果你厌倦了改配置文件，想要更简单的管理方式，或者刚开始接触 self-hosted ，可以试试 Zoraxy 。&lt;/p&gt;
-&lt;p&gt;就像那个老笑话：当手里拿着锤子时，看什么都像钉子。&lt;/p&gt;
-&lt;p&gt;但有时候，你需要的不是更好的锤子，而是一把螺丝刀。&lt;/p&gt;
-&lt;p&gt;Zoraxy 就是那把螺丝刀——它不是要取代你的锤子，而是给你一个不同的选择。&lt;/p&gt;
-&lt;p&gt;希望小编文章能帮助到大家，欢迎关注本公众号；有问题留言交流。&lt;/p&gt;
-&lt;h2&gt;其他&lt;/h2&gt;
-&lt;p&gt;欢迎关注本公众号其他社媒平台&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;link_logo&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.jsdmirror.com/gh/sir2024/picx-images-hosting@master/blogs/link_logo.7i0uzux6t7.webp&quot; title=&quot;link_logo&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;点击以下链接关注我的数字名片！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://muselink.cc/hamisay&quot; rel=&quot;nofollow&quot;&gt;https://muselink.cc/hamisay&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&quot;如果您觉得这篇文章对您或您的朋友有所帮助，不妨动动手指，关注我们、点赞并分享到朋友圈，让更多人受益。您的每一次互动都是对我们最大的支持和鼓励！&quot;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>求懂车的兄弟姐妹帮忙支招：可以买二手车吗，怎么买合适</title>
       <link>https://www.v2ex.com/t/1187840</link>
       <guid>v2ex-1187840</guid>
@@ -849,19 +648,19 @@ sudo ./zoraxy_linux_amd64
 </description>
     </item>
     <item>
-      <title>一次 Apple 售后的经历分享--流程无懈可击，问题反而无处安放</title>
-      <link>https://www.v2ex.com/t/1187942</link>
-      <guid>v2ex-1187942</guid>
-      <pubDate>Fri, 23 Jan 2026 10:39:43 GMT</pubDate>
-      <description>在过去的一个多月，我经历了一个完整的 Apple 售后经历，整理出来给朋友们分享一二，顺便学习一下大公司的售后体系，里面有优秀的地方，也有僵化的地方，都值得创业者去思考。&lt;br /&gt;&lt;br /&gt;起因，是一个多月前，发现我的 iPad Pro 2022 插卡版，突然掉电很快，因为本来就是仍在床上偶尔玩一玩，用得少，之前很久都不被需要充电，但是发现突然开始放着两天就没电了，起初我觉得是 iPad 电池出问题了，本来一直都有 AC+，我就约了 Apple Store 的服务，去现场检测电池发现是 91%，25 年初我线上检测是 89%，我当时觉得就很扯淡，我就提议说返厂检测吧，于是去返厂检测了，大约几天后，Apple 返回了我的设备，说工厂检测完全符合标准。&lt;br /&gt;&lt;br /&gt;我心里也想着可能是系统 bug 吧，我就开始使用，发现问题依然存在，而且我意外发现了异常耗电的源头(插卡导致的，不插卡 WIFI 掉电 1-2%，只要插入 SIM 卡依然保持 WIFI 就会导致 30%-40%/24 小时的掉电)，我又一次的联系了 400 高级技术支持，这次按照苹果的流程是高级技术支持转争议团队处理，我花了四五天的时间，统计耗电一次的截图，在系统消耗里没有任何应用和后台，保持最新系统 26.2 ，发送了相关截图给 Apple 支持，过了 10 多天，争议团队回电说确认设备是符合出厂检测的，此后便结束了售后流程。&lt;br /&gt;&lt;br /&gt;按照苹果的售后流程，我已经无法主张自己的售后权利(当然具备 AC+的 iPad 保修政策依然宽泛，换个理由就可以换新或者走个意外，我对曾经那些 iPhone 骗保的嗤之以鼻，所以我自己不会做那样的事情，我只是实事求是)，我也对 Apple(中国大陆的售后)消耗完了耐心，我便去 12315 投诉了我的订单(诉求是退货退款)，当时是官方线上商城网站购买的，于是主体就是 Apple ，这个方法还是很有效的，第二天便来了 Apple 售后的电话，来确认问题，我又一次的把之前复现的结果邮件发送了支持，经过两天，有了结果，这一次这个问题到了 Apple 工程部(终于到了懂技术来处理问题)，他们希望捕获日志进一步分析问题，如果在 12315 之前，我很乐意协助解决，但是现在我的诉求是退货退款，Apple 售后认为他们不能提供这样的方案，这也是此文写下的时刻。&lt;br /&gt;&lt;br /&gt;当然我的维权之路还会继续，下一步我当然会走到法院的阶段共同去见证到底 iPad 是否存在问题，因为这个问题很容易确认，只需要插卡和不插卡放置 24 小时就有结论，而我的诉求则只会在法院和 Apple 确认 iPad 的这样的情况是否是预期/正常。而这款 iPad 我会保留，对自己也是更多的思考，因为我自己创业也做硬件，这次经历会思考如何更好的面对用户。&lt;br /&gt;&lt;br /&gt;最后给朋友们分享我认为对待大公司售后维权的方式，首先要保证不要情绪化，不然对自己也是巨大的消耗，Apple 的机制中有很多话术和方法就是为了降低公司体系损耗的，比如争议团队(态度极差，挑拨客户情绪)，这样的消耗会导致很多人便放弃自己的权利，而避免 Apple 的损失，因为一个不在预期内的问题，在 Apple 体系里已经是错综复杂了(很多大面积的召回就是这样暴露的，所以 Apple 所有的流程都在降低公司风险)，我曾经以为退货退款是我最大的包容，只是 Apple 拒绝了。</description>
-    </item>
-    <item>
       <title>昨天试了下 telegram，+86 手机号登录居然要收费了！</title>
       <link>https://www.v2ex.com/t/1187997</link>
       <guid>v2ex-1187997</guid>
       <pubDate>Sat, 24 Jan 2026 01:38:23 GMT</pubDate>
       <description>&lt;p&gt;电报我一般用来当网盘用，现在+86 登录既然要收会员费一周好像 7 块，大佬们有没有其他可以替代的软件推荐？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>一次 Apple 售后的经历分享--流程无懈可击，问题反而无处安放</title>
+      <link>https://www.v2ex.com/t/1187942</link>
+      <guid>v2ex-1187942</guid>
+      <pubDate>Fri, 23 Jan 2026 10:39:43 GMT</pubDate>
+      <description>在过去的一个多月，我经历了一个完整的 Apple 售后经历，整理出来给朋友们分享一二，顺便学习一下大公司的售后体系，里面有优秀的地方，也有僵化的地方，都值得创业者去思考。&lt;br /&gt;&lt;br /&gt;起因，是一个多月前，发现我的 iPad Pro 2022 插卡版，突然掉电很快，因为本来就是仍在床上偶尔玩一玩，用得少，之前很久都不被需要充电，但是发现突然开始放着两天就没电了，起初我觉得是 iPad 电池出问题了，本来一直都有 AC+，我就约了 Apple Store 的服务，去现场检测电池发现是 91%，25 年初我线上检测是 89%，我当时觉得就很扯淡，我就提议说返厂检测吧，于是去返厂检测了，大约几天后，Apple 返回了我的设备，说工厂检测完全符合标准。&lt;br /&gt;&lt;br /&gt;我心里也想着可能是系统 bug 吧，我就开始使用，发现问题依然存在，而且我意外发现了异常耗电的源头(插卡导致的，不插卡 WIFI 掉电 1-2%，只要插入 SIM 卡依然保持 WIFI 就会导致 30%-40%/24 小时的掉电)，我又一次的联系了 400 高级技术支持，这次按照苹果的流程是高级技术支持转争议团队处理，我花了四五天的时间，统计耗电一次的截图，在系统消耗里没有任何应用和后台，保持最新系统 26.2 ，发送了相关截图给 Apple 支持，过了 10 多天，争议团队回电说确认设备是符合出厂检测的，此后便结束了售后流程。&lt;br /&gt;&lt;br /&gt;按照苹果的售后流程，我已经无法主张自己的售后权利(当然具备 AC+的 iPad 保修政策依然宽泛，换个理由就可以换新或者走个意外，我对曾经那些 iPhone 骗保的嗤之以鼻，所以我自己不会做那样的事情，我只是实事求是)，我也对 Apple(中国大陆的售后)消耗完了耐心，我便去 12315 投诉了我的订单(诉求是退货退款)，当时是官方线上商城网站购买的，于是主体就是 Apple ，这个方法还是很有效的，第二天便来了 Apple 售后的电话，来确认问题，我又一次的把之前复现的结果邮件发送了支持，经过两天，有了结果，这一次这个问题到了 Apple 工程部(终于到了懂技术来处理问题)，他们希望捕获日志进一步分析问题，如果在 12315 之前，我很乐意协助解决，但是现在我的诉求是退货退款，Apple 售后认为他们不能提供这样的方案，这也是此文写下的时刻。&lt;br /&gt;&lt;br /&gt;当然我的维权之路还会继续，下一步我当然会走到法院的阶段共同去见证到底 iPad 是否存在问题，因为这个问题很容易确认，只需要插卡和不插卡放置 24 小时就有结论，而我的诉求则只会在法院和 Apple 确认 iPad 的这样的情况是否是预期/正常。而这款 iPad 我会保留，对自己也是更多的思考，因为我自己创业也做硬件，这次经历会思考如何更好的面对用户。&lt;br /&gt;&lt;br /&gt;最后给朋友们分享我认为对待大公司售后维权的方式，首先要保证不要情绪化，不然对自己也是巨大的消耗，Apple 的机制中有很多话术和方法就是为了降低公司体系损耗的，比如争议团队(态度极差，挑拨客户情绪)，这样的消耗会导致很多人便放弃自己的权利，而避免 Apple 的损失，因为一个不在预期内的问题，在 Apple 体系里已经是错综复杂了(很多大面积的召回就是这样暴露的，所以 Apple 所有的流程都在降低公司风险)，我曾经以为退货退款是我最大的包容，只是 Apple 拒绝了。</description>
     </item>
   </channel>
 </rss>
