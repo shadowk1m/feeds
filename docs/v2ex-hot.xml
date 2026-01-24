@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 24 Jan 2026 05:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 06:18:16 GMT</lastBuildDate>
     <item>
       <title>[送年度会员] 一个程序员宝爸，被每天哄睡逼到做了个“替身”</title>
       <link>https://www.v2ex.com/t/1187904</link>
@@ -135,30 +135,6 @@
 &lt;p&gt;附上小程序码（微信搜：妈咪故事屋）：
 地址： &lt;a href=&quot;https://imgur.com/hMjpDCr&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/hMjpDCr&lt;/a&gt; （图片无法显示，尴尬）&lt;/p&gt;
 &lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://resource.flyfish.wang/activity/momoy-story-share.png&quot;/&gt;</description>
-    </item>
-    <item>
-      <title>我这种情况，当下有没有必要入手一个 Mac，求拔草或种草</title>
-      <link>https://www.v2ex.com/t/1187843</link>
-      <guid>v2ex-1187843</guid>
-      <pubDate>Fri, 23 Jan 2026 05:47:59 GMT</pubDate>
-      <description>&lt;p&gt;个人情况：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Java 、Python 、go 、前端都写过&lt;/li&gt;
-&lt;li&gt;从未用过 Mac ，家里有台式机作为主力开发，还有 NAS 和轻薄本 Windows ，偶尔外出用笔记本远程家里台式&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Windows 下个人开发遇到的问题&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;AI 总是优先使用 bash 语法，vibe coding 是经常先运行 bash 命令，看到报错再切换成 powershell ，即使增加全局 prompt 告诉它这是 windows 有时还是会失效，写的 powershell 也经常失败&lt;/li&gt;
-&lt;li&gt;很多 AI 工具对 unix 的支持比 windows 好得多，像 claude code 。一些前沿工具如 bun 也是最近才有 Windows ，而且据说还不完善&lt;/li&gt;
-&lt;li&gt;使用 wsl2 折腾过，jetbrains 系有些不能很好适配。而且如果代码在 wsl 中，jetbrains 和 vscode 系的相互跳转插件就失效了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如果新增 Mac 作为主力开发工具&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;考虑鱼上收一个 Mac mini 16+256 ，我有 NAS 可以开 docker ，不太需要内存和存储，也没有跑大模型的需要&lt;/li&gt;
-&lt;li&gt;有远程需要就用笔记本远程 Mac&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;主要是想 vibe coding 体验更好些，因为我没用过 mac ，想看看大家的意见&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>希望各位大神解答一下我找不到工作的原因。</title>
@@ -410,21 +386,6 @@ boss 直聘主动联系我的人很多，但是简历发了后基本就没下文
       <description>在过去的一个多月，我经历了一个完整的 Apple 售后经历，整理出来给朋友们分享一二，顺便学习一下大公司的售后体系，里面有优秀的地方，也有僵化的地方，都值得创业者去思考。&lt;br /&gt;&lt;br /&gt;起因，是一个多月前，发现我的 iPad Pro 2022 插卡版，突然掉电很快，因为本来就是仍在床上偶尔玩一玩，用得少，之前很久都不被需要充电，但是发现突然开始放着两天就没电了，起初我觉得是 iPad 电池出问题了，本来一直都有 AC+，我就约了 Apple Store 的服务，去现场检测电池发现是 91%，25 年初我线上检测是 89%，我当时觉得就很扯淡，我就提议说返厂检测吧，于是去返厂检测了，大约几天后，Apple 返回了我的设备，说工厂检测完全符合标准。&lt;br /&gt;&lt;br /&gt;我心里也想着可能是系统 bug 吧，我就开始使用，发现问题依然存在，而且我意外发现了异常耗电的源头(插卡导致的，不插卡 WIFI 掉电 1-2%，只要插入 SIM 卡依然保持 WIFI 就会导致 30%-40%/24 小时的掉电)，我又一次的联系了 400 高级技术支持，这次按照苹果的流程是高级技术支持转争议团队处理，我花了四五天的时间，统计耗电一次的截图，在系统消耗里没有任何应用和后台，保持最新系统 26.2 ，发送了相关截图给 Apple 支持，过了 10 多天，争议团队回电说确认设备是符合出厂检测的，此后便结束了售后流程。&lt;br /&gt;&lt;br /&gt;按照苹果的售后流程，我已经无法主张自己的售后权利(当然具备 AC+的 iPad 保修政策依然宽泛，换个理由就可以换新或者走个意外，我对曾经那些 iPhone 骗保的嗤之以鼻，所以我自己不会做那样的事情，我只是实事求是)，我也对 Apple(中国大陆的售后)消耗完了耐心，我便去 12315 投诉了我的订单(诉求是退货退款)，当时是官方线上商城网站购买的，于是主体就是 Apple ，这个方法还是很有效的，第二天便来了 Apple 售后的电话，来确认问题，我又一次的把之前复现的结果邮件发送了支持，经过两天，有了结果，这一次这个问题到了 Apple 工程部(终于到了懂技术来处理问题)，他们希望捕获日志进一步分析问题，如果在 12315 之前，我很乐意协助解决，但是现在我的诉求是退货退款，Apple 售后认为他们不能提供这样的方案，这也是此文写下的时刻。&lt;br /&gt;&lt;br /&gt;当然我的维权之路还会继续，下一步我当然会走到法院的阶段共同去见证到底 iPad 是否存在问题，因为这个问题很容易确认，只需要插卡和不插卡放置 24 小时就有结论，而我的诉求则只会在法院和 Apple 确认 iPad 的这样的情况是否是预期/正常。而这款 iPad 我会保留，对自己也是更多的思考，因为我自己创业也做硬件，这次经历会思考如何更好的面对用户。&lt;br /&gt;&lt;br /&gt;最后给朋友们分享我认为对待大公司售后维权的方式，首先要保证不要情绪化，不然对自己也是巨大的消耗，Apple 的机制中有很多话术和方法就是为了降低公司体系损耗的，比如争议团队(态度极差，挑拨客户情绪)，这样的消耗会导致很多人便放弃自己的权利，而避免 Apple 的损失，因为一个不在预期内的问题，在 Apple 体系里已经是错综复杂了(很多大面积的召回就是这样暴露的，所以 Apple 所有的流程都在降低公司风险)，我曾经以为退货退款是我最大的包容，只是 Apple 拒绝了。</description>
     </item>
     <item>
-      <title>发现一个邮件驱动的 APP</title>
-      <link>https://www.v2ex.com/t/1187854</link>
-      <guid>v2ex-1187854</guid>
-      <pubDate>Fri, 23 Jan 2026 06:11:02 GMT</pubDate>
-      <description>&lt;p&gt;第一次看到这种类型的应用，没有网站。我根据邮件提示创建了一个属于自己的邮箱。&lt;code&gt;sky@never-lost.app&lt;/code&gt;.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;只要向目标地址发送一封邮件，就可以每天获得 200M 的流量。&lt;/li&gt;
-&lt;li&gt;如果你发到我的这个邮箱，我就成为你的引荐人，referrer 。&lt;/li&gt;
-&lt;li&gt;如果你付费订阅，我可以获取 5%的充值款。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;特点在于配置文件作为邮件的附件，几乎不会被切断联系。除非屏蔽邮箱地址。&lt;/p&gt;
-&lt;p&gt;我大体研究了一下，好像没有中心节点。也就是说攻击单个节点不会对其它节点造成影响。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>昨天试了下 telegram，+86 手机号登录居然要收费了！</title>
       <link>https://www.v2ex.com/t/1187997</link>
       <guid>v2ex-1187997</guid>
@@ -440,11 +401,87 @@ boss 直聘主动联系我的人很多，但是简历发了后基本就没下文
       <description>看完 Air 销量实在不行，搞活动降价限购 13,000 台&lt;br /&gt;&lt;br /&gt;79990 减 2000 叠加国补 5499&lt;br /&gt;&lt;br /&gt;天猫苹果旗舰店&lt;br /&gt;&lt;br /&gt;这个价格真香啊😬&lt;br /&gt;&lt;br /&gt;理智告诉我克制克制</description>
     </item>
     <item>
+      <title>ai 时代， node.js 成为核心语言</title>
+      <link>https://www.v2ex.com/t/1187915</link>
+      <guid>v2ex-1187915</guid>
+      <pubDate>Fri, 23 Jan 2026 09:20:27 GMT</pubDate>
+      <description>ai 时代， node.js 成为核心语言</description>
+    </item>
+    <item>
       <title>大家如果做不了开发了还有其他赚钱方式吗？</title>
       <link>https://www.v2ex.com/t/1187901</link>
       <guid>v2ex-1187901</guid>
       <pubDate>Fri, 23 Jan 2026 08:34:58 GMT</pubDate>
       <description>&lt;p&gt;AI 的发展、加上 35 岁的问题，一直做开发其他都不会，很想知道大家有掌握什么赚钱之道以防做不了开发？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[Flutter 独立开发] 挑战千元机极限：纯客户端计算 K 线+指标，三星 A53 依然稳定 60+帧</title>
+      <link>https://www.v2ex.com/t/1187893</link>
+      <guid>v2ex-1187893</guid>
+      <pubDate>Fri, 23 Jan 2026 08:15:07 GMT</pubDate>
+      <description>&lt;h1&gt;[Flutter 独立开发] 挑战千元机极限：纯客户端计算 K 线+指标，三星 A53 实测 70 FPS&lt;/h1&gt;
+&lt;p&gt;大家好，我是《交易学徒》的独立开发者，祝大家周末愉快！&lt;/p&gt;
+&lt;p&gt;做过金融类 App 的朋友都知道，移动端的 &lt;strong&gt;K 线图（ Candlestick Chart ）&lt;/strong&gt; 渲染一直是性能优化的“深水区”。&lt;/p&gt;
+&lt;p&gt;为了降低服务器成本和网络延迟，我做了一个“违背祖宗”的决定：&lt;strong&gt;完全依赖客户端算力。&lt;/strong&gt; 所有的技术指标（ MA, BOLL, MACD 等）计算，全部在移动端本地实时完成，不依赖后端返回计算结果。&lt;/p&gt;
+&lt;p&gt;这意味着，一台三星 A53 （ Exynos 1280 处理器，典型的千元机性能）不仅要负责 UI 绘制，还要在主线程实时遍历数组计算指标。&lt;/p&gt;
+&lt;p&gt;在这种“地狱模式”下，优化成果如何？&lt;/p&gt;
+&lt;h3&gt;📉 性能实测：A53 跑分数据&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;测试设备&lt;/strong&gt;：三星 Galaxy A53 (Exynos 1280)
+&lt;strong&gt;测试场景&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GOLD &lt;strong&gt;平均每秒 2.5 次报价&lt;/strong&gt; &lt;/li&gt;
+&lt;li&gt;加载 &lt;strong&gt;500 根&lt;/strong&gt; K 线数据&lt;/li&gt;
+&lt;li&gt;同时开启 &lt;strong&gt;MA (移动平均线)&lt;/strong&gt; + &lt;strong&gt;BOLL (布林带)&lt;/strong&gt; + &lt;strong&gt;MACD&lt;/strong&gt; 三组指标 + &lt;strong&gt;图表网格&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;所有指标数据均为 &lt;strong&gt;本地实时计算&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;进行高频拖拽、缩放操作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;实测结果&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 三星 A53 (低端机代表)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;A53 帧率测试图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.zgjiazu.top/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/a53.png&quot;/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;70 FPS ！&lt;/strong&gt;
+在这种重负载下，UI 线程依然保持极高的流畅度，超过 60Hz 的及格线。对于一款千元机来说，这个渲染性能我已经非常满意了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;2. 三星 S25+ (旗舰机代表)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;S25+ 帧率图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.zgjiazu.top/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/s25%2B.png&quot;/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;旗舰机毫无压力，贵的还是好哇。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h3&gt;🏛️ 技术挑战：为何 Dart 能抗住？&lt;/h3&gt;
+&lt;p&gt;很多人对 Flutter 的印象还停留在“套壳性能差”。但实际上，通过合理的架构，Dart 的性能完全够用。我的优化核心思路是：&lt;strong&gt;UI 渲染与数据计算分离，用空间换时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;1. 极致的分层渲染 (Layered Rendering)&lt;/h4&gt;
+&lt;p&gt;我利用 &lt;code&gt;Stack&lt;/code&gt; 将视图拆解为三个独立的渲染层级：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;**Layer A (底层)**：静态 K 线与网格。这是最“重”的层（包含数千个顶点），只有在缩放或平移时才重绘。&lt;/li&gt;
+&lt;li&gt;**Layer B (中间层)**：技术指标 (MA, BOLL)。与 K 线同步，但逻辑分离。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Layer C (交互层)&lt;strong&gt;：&lt;/strong&gt;这是优化的关键&lt;/strong&gt;。包含当前的 Bid/Ask 价格线、十字光标。这一层极其轻量，且更新频率最高（每秒数次）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;通过 &lt;code&gt;Stack&lt;/code&gt; + &lt;code&gt;RepaintBoundary&lt;/code&gt;，实现了：&lt;strong&gt;价格跳动时，底层的几百根 K 线完全不需要参与重绘，GPU 只需要绘制那几条横线。&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;2. 动态 LOD (Level of Detail) 策略&lt;/h4&gt;
+&lt;p&gt;在手机屏幕上展示 500 根 K 线时，GPU 光栅化压力巨大。
+我在代码中加入了 LOD 策略：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoom In&lt;/strong&gt;：渲染完整的 &lt;code&gt;Candlestick&lt;/code&gt;（蜡烛图）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zoom Out&lt;/strong&gt;：当可视区域数据点过多时，自动切换为 &lt;code&gt;LineChart&lt;/code&gt;（收盘价连线）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这极大地降低了 GPU 的顶点绘制数量，解决了缩放时的“卡顿感”。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;📱 软件界面预览&lt;/h3&gt;
+&lt;p&gt;目前的 UI 风格偏向现代扁平，针对移动端操作做了很多适配。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;软件界面截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.zgjiazu.top/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/tu.jpg&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;🔗 下载与体验&lt;/h3&gt;
+&lt;p&gt;软件目前已上架 Google Play ，名为&lt;strong&gt;“交易学徒”&lt;/strong&gt;。如果你对高性能 Flutter 开发或者交易感兴趣，欢迎下载体验。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Play&lt;/strong&gt;：[&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.zengkai.jyxtclient&quot; rel=&quot;nofollow&quot;&gt;https://play.google.com/store/apps/details?id=com.zengkai.jyxtclient&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;官网&lt;/strong&gt;：[https://www.zgjiazu.top]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🎁 V 友专属福利&lt;/h3&gt;
+&lt;p&gt;感谢大家看完这么枯燥的技术分析。
+&lt;strong&gt;人肉送 VIP&lt;/strong&gt;：在评论区留下你的 &lt;strong&gt;用户 ID&lt;/strong&gt;（在“我的”页面可以看到），我会手动为你开通 &lt;strong&gt;1 个月的 VIP 会员&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;欢迎大家对 UI 、交互或者技术实现提出建议，每一条我都会认真看！&lt;/p&gt;
 </description>
     </item>
   </channel>
