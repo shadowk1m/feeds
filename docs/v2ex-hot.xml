@@ -4,138 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 24 Jan 2026 08:46:02 GMT</lastBuildDate>
-    <item>
-      <title>[送年度会员] 一个程序员宝爸，被每天哄睡逼到做了个“替身”</title>
-      <link>https://www.v2ex.com/t/1187904</link>
-      <guid>v2ex-1187904</guid>
-      <pubDate>Fri, 23 Jan 2026 08:44:11 GMT</pubDate>
-      <description>&lt;h2&gt;起因：连续讲了 30 多分钟故事，她还是不睡&lt;/h2&gt;
-&lt;p&gt;每天晚上 9 点半是我家的固定节目：女儿洗完澡，躺在床上，把她最爱的几本绘本摆成一排。&lt;/p&gt;
-&lt;p&gt;&quot;爸爸，今天讲这本小兔子，还有恐龙的，还有...&quot;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;通常的流程是&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;9:30 开始讲第一本绘本&lt;/li&gt;
-&lt;li&gt;9:45 &quot;爸爸再讲一个&quot;&lt;/li&gt;
-&lt;li&gt;10:00 &quot;这个讲过了，编一个新的&quot;&lt;/li&gt;
-&lt;li&gt;10:15 我开始口干舌燥，她开始挑刺：&quot;爸爸你昨天说小熊是红色的&quot;&lt;/li&gt;
-&lt;li&gt;10:30 她终于睡着，我瘫在床边刷手机缓一会儿&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;有天晚上特别崩溃&lt;/strong&gt;：讲完三本绘本，她说&quot;爸爸你编一个恐龙和兔子一起玩的故事&quot;。&lt;/p&gt;
-&lt;p&gt;我临时编了个&quot;霸王龙帮小兔子找萝卜&quot;，讲到一半自己都接不下去了，因为前面埋的坑忘了怎么圆。&lt;/p&gt;
-&lt;p&gt;她睁着大眼睛看着我：&quot;然后呢？萝卜找到了吗？&quot;&lt;/p&gt;
-&lt;p&gt;那一刻看着她期待的眼神，突然有点心酸。&lt;/p&gt;
-&lt;p&gt;不是不想讲，是真的每天都在掏空脑子，还得记住前面自己说过什么。&lt;/p&gt;
-&lt;p&gt;更难受的是，有时候加班晚了，或者状态不好，讲着讲着就敷衍了，她能听出来。会小声说：&quot;爸爸今天讲得不好玩。&quot;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我当时就想：能不能有个东西，让我即使累到说不出话，也能给她讲一个像样的故事？&lt;/strong&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;程序员的痛点，可能也是你的痛点&lt;/h2&gt;
-&lt;p&gt;说实话，在我做这个东西之前，试过市面上所有能找到的方案:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;故事 App&lt;/strong&gt;: 凯叔、口袋故事都买了会员，但听多了不光无趣，也没有个性化&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GPT 生成&lt;/strong&gt;: 文本确实能定制，但 TTS 合成音就像客服机器人，毫无感情&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;录音&lt;/strong&gt;: 自己录了 20 多个故事，但每次要翻半天找文件，而且孩子总想听&quot;新的&quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这些方案单独看都没问题，但放到每天晚上十点半这个场景里，就全都不太行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最崩溃的是某天晚上&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;22:30 讲了三只小猪&lt;/li&gt;
-&lt;li&gt;23:00 她说&quot;再讲一个有兔子的&quot;&lt;/li&gt;
-&lt;li&gt;23:20 编到词穷，开始重复情节&lt;/li&gt;
-&lt;li&gt;23:45 她睁着大眼睛说&quot;爸爸你刚才讲过了&quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;我坐在床边看着天花板，想着明天还有早会，突然冒出个念头：&lt;strong&gt;能不能让 AI 用我的声音讲？&lt;/strong&gt;&lt;/h2&gt;
-&lt;h2&gt;顺便说下我是怎么折腾这个东西的（技术相关，可跳）&lt;/h2&gt;
-&lt;h3&gt;1. 故事生成不是调 API 那么简单&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;一开始直接用 GPT 生成，结果经常前后打架，只好自己加了一层检查，避免讲着讲着把前面的设定忘了。（避免重复/逻辑 bug ）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;分龄模板&lt;/strong&gt;: 2-3 岁重复句式多，4-5 岁加入简单因果，6+开始有小反转&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;安全过滤&lt;/strong&gt;: 硬编码了很多禁用词库（包括&quot;死亡&quot;&quot;分离&quot;等敏感词）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. 音色克隆的坑&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;最开始用开源 TTS ，效果像变声器&lt;/li&gt;
-&lt;li&gt;后来接了某云的语音定制 API ，需要录多句话做训练&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;真正的难点是韵律&lt;/strong&gt;: 同样的文本，讲给 3 岁和 6 岁要用不同的停顿节奏&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3. 成本控制&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;大模型生成一个故事约 0.2 元（目前提示词就几千 token ）&lt;/li&gt;
-&lt;li&gt;音频克隆+合成约 0.4 元&lt;/li&gt;
-&lt;li&gt;单张图片 0.2-0.4 元&lt;/li&gt;
-&lt;li&gt;算上服务器和存储，也就是说，这玩意儿要是真被孩子天天听，其实还挺烧钱的。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;对用户来说只要三步&lt;/strong&gt;:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;使用官方音色或者录一句话（ 15 秒左右）&lt;/li&gt;
-&lt;li&gt;填孩子的基本信息（年龄、爱好、最近关注的事）&lt;/li&gt;
-&lt;li&gt;自己可以定制场景、故事&lt;/li&gt;
-&lt;li&gt;点生成，1-2 分钟后收到一个 5-8 分钟的音频故事&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;h2&gt;真实效果：一些意外的反馈&lt;/h2&gt;
-&lt;h3&gt;我家的变化&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;女儿的入睡时间从原来的 40 分钟缩短到 20 分钟&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;有天她指着我说&lt;/strong&gt;: &quot;爸爸你今天声音怎么跟手机里不一样？&quot; （我感冒了）&lt;/li&gt;
-&lt;li&gt;现在有时候出差也不焦虑了，每天睡前会提前生成好第二天的故事&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;朋友的案例（他们催我做出来的）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;@老王&lt;/strong&gt;: 双胞胎爸爸，每天要讲两遍不同的故事，现在各生成一个，省了一半时间&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;@小林&lt;/strong&gt;: 孩子有语言发育迟缓，医生建议多输入，他用这个每天给孩子听 3 个故事&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;最触动我的是有一位朋友的反馈&lt;/strong&gt;，她说：&quot;技术能做的不只是效率，还有情感的延续。&quot;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;目前的纠结：三个灵魂拷问&lt;/h2&gt;
-&lt;h3&gt;1. 这需求到底有多普遍？&lt;/h3&gt;
-&lt;p&gt;我的假设是：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ 认同&quot;父母声音对孩子重要&quot;&lt;/li&gt;
-&lt;li&gt;✅ 工作忙/经常出差/没空编故事&lt;/li&gt;
-&lt;li&gt;❓ 愿意为此付费（而不是凑合用免费 App ）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;V2EX 的各位宝爸宝妈，你们会为这种服务付费吗？你们觉得合理价格是多少？&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;2. 音色克隆是噱头还是刚需？&lt;/h3&gt;
-&lt;p&gt;有朋友直言：&quot;孩子听谁讲不是一样？&quot;&lt;/p&gt;
-&lt;p&gt;但我观察女儿的反应，&lt;strong&gt;她听到&quot;爸爸的声音&quot;时，真的会下意识抱紧小枕头&lt;/strong&gt;，这和听凯叔讲故事的状态完全不同。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;可能儿童心理学上有答案？有相关背景的朋友求指点。&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;3. 定位是&quot;解放家长&quot;还是&quot;陪伴工具&quot;？&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;如果定位成&quot;让家长省时间&quot;，很容易被批&quot;用技术逃避责任&quot;&lt;/li&gt;
-&lt;li&gt;但如果定位成&quot;让陪伴更高质量&quot;，又显得太虚&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;我现在的想法是&lt;/strong&gt;: 这不是替代父母讲故事，而是&lt;strong&gt;在父母不在场/不方便时，提供一种接近真人的补充方案&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;就像视频通话不能替代见面，但总比完全失联好。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;想听听大家的真实想法&lt;/h2&gt;
-&lt;h3&gt;如果你是家长：&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;/&gt;  每天哄睡要花多长时间？&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;/&gt;  试过哪些方案？痛点在哪？&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;/&gt;  如果有这个工具，最看重什么（声音相似度/故事质量/价格）？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;如果你做过类似产品：&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;定价策略怎么定的？（订阅制 vs 按次付费）&lt;/li&gt;
-&lt;li&gt;怎么平衡&quot;商业化&quot;和&quot;不制造焦虑&quot;？&lt;/li&gt;
-&lt;li&gt;推广渠道主要靠什么？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;最后&lt;/h2&gt;
-&lt;p&gt;这个东西现在还很粗糙，甚至都不确定该不该做成产品。&lt;/p&gt;
-&lt;p&gt;但每次看到女儿听着&quot;爸爸&quot;讲的新故事安静入睡，会觉得这件事可能有点意义。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;不是为了让父母逃避陪伴，而是让那些想陪但确实分身乏术的爸妈，多一种选择。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果你有想法，无论是吐槽还是建议，都欢迎留言。&lt;/p&gt;
-&lt;p&gt;先谢过各位。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;留言区如果超过 50 楼，随机抽取 5 位送年度会员&lt;/strong&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;em&gt;P.S. 如果有宝爸宝妈想试用，可以留言或私信。目前还在内测阶段，大家可以多提意见。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;附上小程序码（微信搜：妈咪故事屋）：
-地址： &lt;a href=&quot;https://imgur.com/hMjpDCr&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/hMjpDCr&lt;/a&gt; （图片无法显示，尴尬）&lt;/p&gt;
-&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://resource.flyfish.wang/activity/momoy-story-share.png&quot;/&gt;</description>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 09:11:41 GMT</lastBuildDate>
     <item>
       <title>一次 Apple 售后的经历分享--流程无懈可击，问题反而无处安放</title>
       <link>https://www.v2ex.com/t/1187942</link>
@@ -186,13 +55,6 @@
       <description>最近用了 claude code, 工作效率大大提升, 空闲的时间想自己弄个项目, 但是又不知道写啥, 想着先弄一台服务器试试, 便宜好用点的, 最好是国外的, 省的备案了</description>
     </item>
     <item>
-      <title>我 TM 真是个 213，花了三个小时尝试用软件解决软件问题，失败了。最后用人肉的方式解决了。所以大概什么样的软件问题可以用非软件的方式解决？有规律吗？</title>
-      <link>https://www.v2ex.com/t/1187992</link>
-      <guid>v2ex-1187992</guid>
-      <pubDate>Sat, 24 Jan 2026 00:38:12 GMT</pubDate>
-      <description>我是想屏蔽手机和电脑上的网易云音乐客户端的推荐页面。全是软色情封面，受不了。最后直接启动之后马上眯眼睛，然后点到其他页面就行了。不是很满意，但是能凑合用。&lt;br /&gt;&lt;br /&gt;谁要是有比较好的软件解决方法欢迎。我就不开新帖了，我花了三个小时也没解决的问题我估计希望不大。</description>
-    </item>
-    <item>
       <title>大家炒股用什么软件多一些呀</title>
       <link>https://www.v2ex.com/t/1187995</link>
       <guid>v2ex-1187995</guid>
@@ -200,11 +62,25 @@
       <description>rt ，发个投票，骗点铜币</description>
     </item>
     <item>
+      <title>我 TM 真是个 213，花了三个小时尝试用软件解决软件问题，失败了。最后用人肉的方式解决了。所以大概什么样的软件问题可以用非软件的方式解决？有规律吗？</title>
+      <link>https://www.v2ex.com/t/1187992</link>
+      <guid>v2ex-1187992</guid>
+      <pubDate>Sat, 24 Jan 2026 00:38:12 GMT</pubDate>
+      <description>我是想屏蔽手机和电脑上的网易云音乐客户端的推荐页面。全是软色情封面，受不了。最后直接启动之后马上眯眼睛，然后点到其他页面就行了。不是很满意，但是能凑合用。&lt;br /&gt;&lt;br /&gt;谁要是有比较好的软件解决方法欢迎。我就不开新帖了，我花了三个小时也没解决的问题我估计希望不大。</description>
+    </item>
+    <item>
       <title>北京在哪能买到真烟</title>
       <link>https://www.v2ex.com/t/1188002</link>
       <guid>v2ex-1188002</guid>
       <pubDate>Sat, 24 Jan 2026 02:04:34 GMT</pubDate>
       <description>不吸打算买两条烟过年送礼。有没有完全保真的地方买</description>
+    </item>
+    <item>
+      <title>为什么赌徒无法收手？</title>
+      <link>https://www.v2ex.com/t/1188018</link>
+      <guid>v2ex-1188018</guid>
+      <pubDate>Sat, 24 Jan 2026 03:52:00 GMT</pubDate>
+      <description>包括链上的炒币 KOL ，明明已经赚了成百上千万，已经一辈子不愁吃穿了，为什么还每天都在线，每天都在炒币，昨天刷到的 x 上赵纯想的帖子给了我一些启发：&lt;br /&gt;&lt;br /&gt;&quot;&lt;br /&gt;赌博难以戒除的原因，是某一次巨大的预期之外的超量分泌后的记录在案。&lt;br /&gt;&lt;br /&gt;想象你的大脑将一次 2000 倍盈利的 2000 倍的超量分泌&quot;不小心&quot;记录在案，这种&quot;2000 倍的相信&quot;，有多么凝重、残酷、使人兴奋。多巴胺记录带来的相信，是生化层面的相信，远超法条、伦理、传教信仰的后天相信。&lt;br /&gt;&lt;br /&gt;那么反复再赌，反复输，再也无法 2000 倍超量分泌了，为什么人还是戒不了赌？对不起，这就是大脑系统的&quot;BUG&quot;，它的超量分泌记录，只增不删。&lt;br /&gt;&lt;br /&gt;暴跌的失望记录，当然会累积，但那次 2000 倍的分泌记录，也同时不会被删除。&lt;br /&gt;&lt;br /&gt;这就是为什么赌博后期人员，会一边自嘲自己是”赌狗”——去看看那些赌徒采访视频吧，落魄的挂逼仔——一边承认自己是“烂人”，亲口说出“我们这种人的话都不可信，无药可救”，一边又在家人劝阻后的几个月的某个深夜，再次动身出发，相信自己能一发入魂，逆天改命。&lt;br /&gt;&quot;&lt;br /&gt;&lt;br /&gt;po 自： &lt;a target=&quot;_blank&quot; href=&quot;https://x.com/chunxiangai/status/2013854869128675368?s=20&quot; rel=&quot;nofollow noopener&quot;&gt;https://x.com/chunxiangai/status/2013854869128675368?s=20&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
