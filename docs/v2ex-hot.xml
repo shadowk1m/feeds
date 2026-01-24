@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 24 Jan 2026 17:10:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 17:39:14 GMT</lastBuildDate>
     <item>
       <title>昨天试了下 telegram，+86 手机号登录居然要收费了！</title>
       <link>https://www.v2ex.com/t/1187997</link>
@@ -19,6 +19,19 @@
       <guid>v2ex-1187990</guid>
       <pubDate>Sat, 24 Jan 2026 00:03:42 GMT</pubDate>
       <description>看完 Air 销量实在不行，搞活动降价限购 13,000 台&lt;br /&gt;&lt;br /&gt;79990 减 2000 叠加国补 5499&lt;br /&gt;&lt;br /&gt;天猫苹果旗舰店&lt;br /&gt;&lt;br /&gt;这个价格真香啊😬&lt;br /&gt;&lt;br /&gt;理智告诉我克制克制</description>
+    </item>
+    <item>
+      <title>大家自己的代码都是放在哪儿</title>
+      <link>https://www.v2ex.com/t/1188008</link>
+      <guid>v2ex-1188008</guid>
+      <pubDate>Sat, 24 Jan 2026 02:50:07 GMT</pubDate>
+      <description>&lt;p&gt;A：GitHub （私有）&lt;/p&gt;
+&lt;p&gt;B：GitHub （公开）&lt;/p&gt;
+&lt;p&gt;C：自建 Git 仓库 &lt;/p&gt;
+&lt;p&gt;D：GitHub+自建仓库&lt;/p&gt;
+&lt;p&gt;自建 Git 也有一大堆选择（ gitea 、gitlab 、...?）,&lt;/p&gt;
+&lt;p&gt;仓库放哪儿（云服务器、NAS 、...？）&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>解决+86 Telegram 账号登录难题</title>
@@ -49,19 +62,6 @@
 &lt;p&gt;移动设备登陆时，系统会自动拉起&lt;a href=&quot;https://bitwarden.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;code&gt;Bitwarden&lt;/code&gt;&lt;/a&gt;，从而实现无密码、无接码的安全登录。&lt;/p&gt;
 &lt;hr/&gt;
 &lt;p&gt;正巧看到有 v 友在讨论这个问题，决定发帖分享一下方法。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>大家自己的代码都是放在哪儿</title>
-      <link>https://www.v2ex.com/t/1188008</link>
-      <guid>v2ex-1188008</guid>
-      <pubDate>Sat, 24 Jan 2026 02:50:07 GMT</pubDate>
-      <description>&lt;p&gt;A：GitHub （私有）&lt;/p&gt;
-&lt;p&gt;B：GitHub （公开）&lt;/p&gt;
-&lt;p&gt;C：自建 Git 仓库 &lt;/p&gt;
-&lt;p&gt;D：GitHub+自建仓库&lt;/p&gt;
-&lt;p&gt;自建 Git 也有一大堆选择（ gitea 、gitlab 、...?）,&lt;/p&gt;
-&lt;p&gt;仓库放哪儿（云服务器、NAS 、...？）&lt;/p&gt;
 </description>
     </item>
     <item>
