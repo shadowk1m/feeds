@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 24 Jan 2026 06:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 06:51:40 GMT</lastBuildDate>
     <item>
       <title>[送年度会员] 一个程序员宝爸，被每天哄睡逼到做了个“替身”</title>
       <link>https://www.v2ex.com/t/1187904</link>
@@ -482,6 +482,19 @@ boss 直聘主动联系我的人很多，但是简历发了后基本就没下文
 &lt;p&gt;感谢大家看完这么枯燥的技术分析。
 &lt;strong&gt;人肉送 VIP&lt;/strong&gt;：在评论区留下你的 &lt;strong&gt;用户 ID&lt;/strong&gt;（在“我的”页面可以看到），我会手动为你开通 &lt;strong&gt;1 个月的 VIP 会员&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;欢迎大家对 UI 、交互或者技术实现提出建议，每一条我都会认真看！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>大家自己的代码都是放在哪儿</title>
+      <link>https://www.v2ex.com/t/1188008</link>
+      <guid>v2ex-1188008</guid>
+      <pubDate>Sat, 24 Jan 2026 02:50:07 GMT</pubDate>
+      <description>&lt;p&gt;A：GitHub （私有）&lt;/p&gt;
+&lt;p&gt;B：GitHub （公开）&lt;/p&gt;
+&lt;p&gt;C：自建 Git 仓库 &lt;/p&gt;
+&lt;p&gt;D：GitHub+自建仓库&lt;/p&gt;
+&lt;p&gt;自建 Git 也有一大堆选择（ gitea 、gitlab 、...?）,&lt;/p&gt;
+&lt;p&gt;仓库放哪儿（云服务器、NAS 、...？）&lt;/p&gt;
 </description>
     </item>
   </channel>
