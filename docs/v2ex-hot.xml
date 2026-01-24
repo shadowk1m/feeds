@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 24 Jan 2026 07:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 07:37:37 GMT</lastBuildDate>
     <item>
       <title>[送年度会员] 一个程序员宝爸，被每天哄睡逼到做了个“替身”</title>
       <link>https://www.v2ex.com/t/1187904</link>
@@ -369,16 +369,6 @@ boss 直聘主动联系我的人很多，但是简历发了后基本就没下文
 </description>
     </item>
     <item>
-      <title>Claude Code 这种智能 CLI 相对于 Cursor 的优势在哪？为什么感觉前者是主流了？</title>
-      <link>https://www.v2ex.com/t/1187879</link>
-      <guid>v2ex-1187879</guid>
-      <pubDate>Fri, 23 Jan 2026 07:22:11 GMT</pubDate>
-      <description>&lt;p&gt;当然不限于这两个，前者也可以是 OpenCode ，后者也可以是 Github Copilot ，总之分别代表 AI Agent IDE 和 AI CLI 。
-我是 Windows 客户端开发，日常工作用的是 WPF 和 Qt5 ，Qt 也有部分工作是在信创 Linux 上做的。目前的疑惑就是 CLI 感觉对我用处不大。无论是 WPF 还是 Qt5 都是那种很依赖 IDE 的开发框架，几乎不会出现需要开发者自己操作命令行的场景。然后另一方面之前用过免费的 Cursor 和 Github Copilot ，非常喜欢智能 Tab 的功能，这个是 CLI 不具备的，而且我也不知道去哪里找平价的替代……
-另外我用了 Claude Code for VS Code 插件要好一点，你们不会觉得在终端里输入中午很别扭难受吗……&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>一次 Apple 售后的经历分享--流程无懈可击，问题反而无处安放</title>
       <link>https://www.v2ex.com/t/1187942</link>
       <guid>v2ex-1187942</guid>
@@ -496,6 +486,13 @@ boss 直聘主动联系我的人很多，但是简历发了后基本就没下文
 &lt;strong&gt;人肉送 VIP&lt;/strong&gt;：在评论区留下你的 &lt;strong&gt;用户 ID&lt;/strong&gt;（在“我的”页面可以看到），我会手动为你开通 &lt;strong&gt;1 个月的 VIP 会员&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;欢迎大家对 UI 、交互或者技术实现提出建议，每一条我都会认真看！&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>有没有便宜好用的服务器推荐</title>
+      <link>https://www.v2ex.com/t/1187937</link>
+      <guid>v2ex-1187937</guid>
+      <pubDate>Fri, 23 Jan 2026 10:12:32 GMT</pubDate>
+      <description>最近用了 claude code, 工作效率大大提升, 空闲的时间想自己弄个项目, 但是又不知道写啥, 想着先弄一台服务器试试, 便宜好用点的, 最好是国外的, 省的备案了</description>
     </item>
   </channel>
 </rss>
