@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 24 Jan 2026 03:55:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 04:28:02 GMT</lastBuildDate>
     <item>
       <title>[送年度会员] 一个程序员宝爸，被每天哄睡逼到做了个“替身”</title>
       <link>https://www.v2ex.com/t/1187904</link>
@@ -629,31 +629,6 @@ sudo ./zoraxy_linux_amd64
 </description>
     </item>
     <item>
-      <title>结婚上交工资？为什么就没有类似夫妻用钱审批场景的 bytebase 呢</title>
-      <link>https://www.v2ex.com/t/1187817</link>
-      <guid>v2ex-1187817</guid>
-      <pubDate>Fri, 23 Jan 2026 03:53:58 GMT</pubDate>
-      <description>&lt;p&gt;如题，如果有办法低成本的通过 api 调用支付宝/微信/银行给某个指定帐号打钱，是不是可以写一个夫妻用钱审批场景的 bytebase ？&lt;/p&gt;
-&lt;p&gt;这样比如妻子想买一个洗碗机，就可以打开一个工单，然后可以 preview 购买洗碗机后，本月家庭可支配收入的下降情况，然后工单自动流转给丈夫审批，丈夫审批同意后钱自动通过 api 从公款帐户打到指定帐户。&lt;/p&gt;
-&lt;p&gt;如果是丈夫想购买 iphone ，那么需要妻子审批通过，钱才会从公款帐户打到丈夫的个人支付宝内。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>发现一个邮件驱动的 APP</title>
-      <link>https://www.v2ex.com/t/1187854</link>
-      <guid>v2ex-1187854</guid>
-      <pubDate>Fri, 23 Jan 2026 06:11:02 GMT</pubDate>
-      <description>&lt;p&gt;第一次看到这种类型的应用，没有网站。我根据邮件提示创建了一个属于自己的邮箱。&lt;code&gt;sky@never-lost.app&lt;/code&gt;.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;只要向目标地址发送一封邮件，就可以每天获得 200M 的流量。&lt;/li&gt;
-&lt;li&gt;如果你发到我的这个邮箱，我就成为你的引荐人，referrer 。&lt;/li&gt;
-&lt;li&gt;如果你付费订阅，我可以获取 5%的充值款。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;特点在于配置文件作为邮件的附件，几乎不会被切断联系。除非屏蔽邮箱地址。&lt;/p&gt;
-&lt;p&gt;我大体研究了一下，好像没有中心节点。也就是说攻击单个节点不会对其它节点造成影响。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>日本见闻录｜东京 4 日游小小分享</title>
       <link>https://www.v2ex.com/t/1187833</link>
       <guid>v2ex-1187833</guid>
@@ -859,11 +834,34 @@ sudo ./zoraxy_linux_amd64
 </description>
     </item>
     <item>
+      <title>发现一个邮件驱动的 APP</title>
+      <link>https://www.v2ex.com/t/1187854</link>
+      <guid>v2ex-1187854</guid>
+      <pubDate>Fri, 23 Jan 2026 06:11:02 GMT</pubDate>
+      <description>&lt;p&gt;第一次看到这种类型的应用，没有网站。我根据邮件提示创建了一个属于自己的邮箱。&lt;code&gt;sky@never-lost.app&lt;/code&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;只要向目标地址发送一封邮件，就可以每天获得 200M 的流量。&lt;/li&gt;
+&lt;li&gt;如果你发到我的这个邮箱，我就成为你的引荐人，referrer 。&lt;/li&gt;
+&lt;li&gt;如果你付费订阅，我可以获取 5%的充值款。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;特点在于配置文件作为邮件的附件，几乎不会被切断联系。除非屏蔽邮箱地址。&lt;/p&gt;
+&lt;p&gt;我大体研究了一下，好像没有中心节点。也就是说攻击单个节点不会对其它节点造成影响。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>一次 Apple 售后的经历分享--流程无懈可击，问题反而无处安放</title>
       <link>https://www.v2ex.com/t/1187942</link>
       <guid>v2ex-1187942</guid>
       <pubDate>Fri, 23 Jan 2026 10:39:43 GMT</pubDate>
       <description>在过去的一个多月，我经历了一个完整的 Apple 售后经历，整理出来给朋友们分享一二，顺便学习一下大公司的售后体系，里面有优秀的地方，也有僵化的地方，都值得创业者去思考。&lt;br /&gt;&lt;br /&gt;起因，是一个多月前，发现我的 iPad Pro 2022 插卡版，突然掉电很快，因为本来就是仍在床上偶尔玩一玩，用得少，之前很久都不被需要充电，但是发现突然开始放着两天就没电了，起初我觉得是 iPad 电池出问题了，本来一直都有 AC+，我就约了 Apple Store 的服务，去现场检测电池发现是 91%，25 年初我线上检测是 89%，我当时觉得就很扯淡，我就提议说返厂检测吧，于是去返厂检测了，大约几天后，Apple 返回了我的设备，说工厂检测完全符合标准。&lt;br /&gt;&lt;br /&gt;我心里也想着可能是系统 bug 吧，我就开始使用，发现问题依然存在，而且我意外发现了异常耗电的源头(插卡导致的，不插卡 WIFI 掉电 1-2%，只要插入 SIM 卡依然保持 WIFI 就会导致 30%-40%/24 小时的掉电)，我又一次的联系了 400 高级技术支持，这次按照苹果的流程是高级技术支持转争议团队处理，我花了四五天的时间，统计耗电一次的截图，在系统消耗里没有任何应用和后台，保持最新系统 26.2 ，发送了相关截图给 Apple 支持，过了 10 多天，争议团队回电说确认设备是符合出厂检测的，此后便结束了售后流程。&lt;br /&gt;&lt;br /&gt;按照苹果的售后流程，我已经无法主张自己的售后权利(当然具备 AC+的 iPad 保修政策依然宽泛，换个理由就可以换新或者走个意外，我对曾经那些 iPhone 骗保的嗤之以鼻，所以我自己不会做那样的事情，我只是实事求是)，我也对 Apple(中国大陆的售后)消耗完了耐心，我便去 12315 投诉了我的订单(诉求是退货退款)，当时是官方线上商城网站购买的，于是主体就是 Apple ，这个方法还是很有效的，第二天便来了 Apple 售后的电话，来确认问题，我又一次的把之前复现的结果邮件发送了支持，经过两天，有了结果，这一次这个问题到了 Apple 工程部(终于到了懂技术来处理问题)，他们希望捕获日志进一步分析问题，如果在 12315 之前，我很乐意协助解决，但是现在我的诉求是退货退款，Apple 售后认为他们不能提供这样的方案，这也是此文写下的时刻。&lt;br /&gt;&lt;br /&gt;当然我的维权之路还会继续，下一步我当然会走到法院的阶段共同去见证到底 iPad 是否存在问题，因为这个问题很容易确认，只需要插卡和不插卡放置 24 小时就有结论，而我的诉求则只会在法院和 Apple 确认 iPad 的这样的情况是否是预期/正常。而这款 iPad 我会保留，对自己也是更多的思考，因为我自己创业也做硬件，这次经历会思考如何更好的面对用户。&lt;br /&gt;&lt;br /&gt;最后给朋友们分享我认为对待大公司售后维权的方式，首先要保证不要情绪化，不然对自己也是巨大的消耗，Apple 的机制中有很多话术和方法就是为了降低公司体系损耗的，比如争议团队(态度极差，挑拨客户情绪)，这样的消耗会导致很多人便放弃自己的权利，而避免 Apple 的损失，因为一个不在预期内的问题，在 Apple 体系里已经是错综复杂了(很多大面积的召回就是这样暴露的，所以 Apple 所有的流程都在降低公司风险)，我曾经以为退货退款是我最大的包容，只是 Apple 拒绝了。</description>
+    </item>
+    <item>
+      <title>昨天试了下 telegram，+86 手机号登录居然要收费了！</title>
+      <link>https://www.v2ex.com/t/1187997</link>
+      <guid>v2ex-1187997</guid>
+      <pubDate>Sat, 24 Jan 2026 01:38:23 GMT</pubDate>
+      <description>&lt;p&gt;电报我一般用来当网盘用，现在+86 登录既然要收会员费一周好像 7 块，大佬们有没有其他可以替代的软件推荐？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
