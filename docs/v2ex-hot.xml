@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 25 Jan 2026 08:46:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 09:12:52 GMT</lastBuildDate>
     <item>
       <title>FSD 纯视觉路线要赢了</title>
       <link>https://www.v2ex.com/t/1188147</link>
@@ -19,6 +19,13 @@
 &lt;p&gt;当激光路线还在一城一城的开，robotaxi 很有可能后发制人&lt;/p&gt;
 &lt;p&gt;真的敬佩那些特斯拉车主，参与了这个历史进程&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>[话题探讨] 大家觉得有什么东西，价值是可以经受得住时间的考验的？</title>
+      <link>https://www.v2ex.com/t/1188101</link>
+      <guid>v2ex-1188101</guid>
+      <pubDate>Sat, 24 Jan 2026 13:14:19 GMT</pubDate>
+      <description>价值经受的住时间考验，是很多受时间而价值衰减的事物对比的。&lt;br /&gt;比如生老病死，身体随着时间而衰老；亦或者是买的汽车，随着时间和使用，价值会越来低。&lt;br /&gt;&lt;br /&gt;大家有自己的一些独特的想法么？欢迎在下面进行你的分享</description>
     </item>
     <item>
       <title>两年前买的硬盘最近发现疑似二手，求支招</title>
@@ -38,13 +45,6 @@
 &lt;p&gt;不差这块硬盘，但实在是咽不下这口气
 谢谢&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>[话题探讨] 大家觉得有什么东西，价值是可以经受得住时间的考验的？</title>
-      <link>https://www.v2ex.com/t/1188101</link>
-      <guid>v2ex-1188101</guid>
-      <pubDate>Sat, 24 Jan 2026 13:14:19 GMT</pubDate>
-      <description>价值经受的住时间考验，是很多受时间而价值衰减的事物对比的。&lt;br /&gt;比如生老病死，身体随着时间而衰老；亦或者是买的汽车，随着时间和使用，价值会越来低。&lt;br /&gt;&lt;br /&gt;大家有自己的一些独特的想法么？欢迎在下面进行你的分享</description>
     </item>
     <item>
       <title>分体式键盘真实体验怎么样？</title>
@@ -68,6 +68,46 @@
       <pubDate>Sun, 25 Jan 2026 02:08:33 GMT</pubDate>
       <description>&lt;p&gt;工作时长比面试时讲的长了很多，第一年甚至没有年假&lt;/p&gt;
 &lt;p&gt;请问各位大佬辞职时机怎么把握，是等年后再提还是在开始缴纳社保前就溜？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>C 盘救星！这神器让我的 SSD 原地复活， 10 分钟用释放 100GB 可用空间</title>
+      <link>https://www.v2ex.com/t/1188158</link>
+      <guid>v2ex-1188158</guid>
+      <pubDate>Sun, 25 Jan 2026 05:54:11 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://github.com/tanaer/WindowsClear&quot; rel=&quot;nofollow&quot;&gt;Windows 系统盘清理利器&lt;/a&gt;，专注于释放 &lt;code&gt;AppData&lt;/code&gt; 目录占用的巨量空间。
+它能扫描出占用空间大的软件数据文件夹，一键迁移到其他磁盘（如 D 盘），
+并自动创建目录联接，确保软件无缝运行，就像从未移动过一样。&lt;/p&gt;
+&lt;h2&gt;核心功能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;智能扫描&lt;/strong&gt;: 自动分析 &lt;code&gt;%LOCALAPPDATA%&lt;/code&gt; 和 &lt;code&gt;%APPDATA%&lt;/code&gt;，快速定位占用超过 10% 空间的“大户”。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;无缝迁移&lt;/strong&gt;: 跨盘移动文件后，自动在原位创建 Junction 链接，软件无需重新配置。&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;安全可靠&lt;/strong&gt;:&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;占用清理&lt;/strong&gt;: 自动检测文件占用，支持自动结束相关进程（使用 Windows Restart Manager 技术），非底层实现，有些不一定可以清理，但基本不影响空间释放效果。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;失败回滚&lt;/strong&gt;: 迁移过程中若发生错误，自动尝试恢复，保障数据安全。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;人性化体验&lt;/strong&gt;:&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;极速性能&lt;/strong&gt;: 基于 Rust 开发，多线程并行扫描，速度飞快。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;智能缓存&lt;/strong&gt;: 二次扫描无变动时秒出结果。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可视化进度&lt;/strong&gt;: 精确到字节的进度条，实时显示传输速度和剩余时间预估。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;中英双语&lt;/strong&gt;: 界面支持中英文一键切换。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;暂停/继续&lt;/strong&gt;: 大文件传输过程中可随时暂停。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;使用方法&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;以管理员身份运行&lt;/strong&gt; &lt;code&gt;WindowsClear.exe&lt;/code&gt; 。&lt;/li&gt;
+&lt;li&gt;点击 &lt;strong&gt;“扫描大文件夹”&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;在列表中勾选你想要迁移的软件（建议先从不重要的软件开始尝试）。&lt;/li&gt;
+&lt;li&gt;选择 &lt;strong&gt;目标根目录&lt;/strong&gt;（例如 &lt;code&gt;D:\AppData&lt;/code&gt;）。&lt;/li&gt;
+&lt;li&gt;点击 &lt;strong&gt;“执行迁移”&lt;/strong&gt;，等待完成即可。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/tanaer/WindowsClear/blob/main/img1.png?raw=true&quot;/&gt;
+&lt;a href=&quot;https://github.com/tanaer/WindowsClear&quot; rel=&quot;nofollow&quot;&gt;https://github.com/tanaer/WindowsClear&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -202,56 +242,13 @@
 </description>
     </item>
     <item>
-      <title>C 盘救星！这神器让我的 SSD 原地复活， 10 分钟用释放 100GB 可用空间</title>
-      <link>https://www.v2ex.com/t/1188158</link>
-      <guid>v2ex-1188158</guid>
-      <pubDate>Sun, 25 Jan 2026 05:54:11 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://github.com/tanaer/WindowsClear&quot; rel=&quot;nofollow&quot;&gt;Windows 系统盘清理利器&lt;/a&gt;，专注于释放 &lt;code&gt;AppData&lt;/code&gt; 目录占用的巨量空间。
-它能扫描出占用空间大的软件数据文件夹，一键迁移到其他磁盘（如 D 盘），
-并自动创建目录联接，确保软件无缝运行，就像从未移动过一样。&lt;/p&gt;
-&lt;h2&gt;核心功能&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;智能扫描&lt;/strong&gt;: 自动分析 &lt;code&gt;%LOCALAPPDATA%&lt;/code&gt; 和 &lt;code&gt;%APPDATA%&lt;/code&gt;，快速定位占用超过 10% 空间的“大户”。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;无缝迁移&lt;/strong&gt;: 跨盘移动文件后，自动在原位创建 Junction 链接，软件无需重新配置。&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;安全可靠&lt;/strong&gt;:&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;占用清理&lt;/strong&gt;: 自动检测文件占用，支持自动结束相关进程（使用 Windows Restart Manager 技术），非底层实现，有些不一定可以清理，但基本不影响空间释放效果。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;失败回滚&lt;/strong&gt;: 迁移过程中若发生错误，自动尝试恢复，保障数据安全。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;人性化体验&lt;/strong&gt;:&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;极速性能&lt;/strong&gt;: 基于 Rust 开发，多线程并行扫描，速度飞快。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;智能缓存&lt;/strong&gt;: 二次扫描无变动时秒出结果。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;可视化进度&lt;/strong&gt;: 精确到字节的进度条，实时显示传输速度和剩余时间预估。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;中英双语&lt;/strong&gt;: 界面支持中英文一键切换。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;暂停/继续&lt;/strong&gt;: 大文件传输过程中可随时暂停。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;使用方法&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;以管理员身份运行&lt;/strong&gt; &lt;code&gt;WindowsClear.exe&lt;/code&gt; 。&lt;/li&gt;
-&lt;li&gt;点击 &lt;strong&gt;“扫描大文件夹”&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;在列表中勾选你想要迁移的软件（建议先从不重要的软件开始尝试）。&lt;/li&gt;
-&lt;li&gt;选择 &lt;strong&gt;目标根目录&lt;/strong&gt;（例如 &lt;code&gt;D:\AppData&lt;/code&gt;）。&lt;/li&gt;
-&lt;li&gt;点击 &lt;strong&gt;“执行迁移”&lt;/strong&gt;，等待完成即可。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/tanaer/WindowsClear/blob/main/img1.png?raw=true&quot;/&gt;
-&lt;a href=&quot;https://github.com/tanaer/WindowsClear&quot; rel=&quot;nofollow&quot;&gt;https://github.com/tanaer/WindowsClear&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>始终 get 不到 Gemini 3 到底强在哪里？有没有大佬能指点下？</title>
-      <link>https://www.v2ex.com/t/1188160</link>
-      <guid>v2ex-1188160</guid>
-      <pubDate>Sun, 25 Jan 2026 06:05:00 GMT</pubDate>
-      <description>&lt;p&gt;我是 chatgpt, claude 和 gemini 的重度用户。很多朋友都跟我说，gemini 3 太强大了，但是我始终 get 不到强大在哪里。论编码能力，不如 opus ；论推理能力和丝滑的使用体验，不如 chatgpt5.2 。&lt;/p&gt;
-&lt;p&gt;所以，gemini 3 到底在哪个方向上遥遥领先了？&lt;/p&gt;
-&lt;p&gt;我常用的模型：
-Gemini 3 Pro （ Deepthink)
-ChatGPT 5.2 Think
-ClaudeCode Opus4.5/Sonnet4.5&lt;/p&gt;
+      <title>一年多过去了,大家还保持健身习惯吗</title>
+      <link>https://www.v2ex.com/t/1188141</link>
+      <guid>v2ex-1188141</guid>
+      <pubDate>Sun, 25 Jan 2026 02:35:23 GMT</pubDate>
+      <description>&lt;p&gt;之前发了一个帖子 &lt;a href=&quot;https://www.v2ex.com/t/1089393&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1089393&lt;/a&gt;&lt;br/&gt;
+繁忙的我们,总是忽略给自己加油,现在的你还在保持健身习惯吗?&lt;br/&gt;
+我依然在坚持每周打两次球&lt;/p&gt;
 </description>
     </item>
   </channel>
