@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 25 Jan 2026 05:21:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 05:47:35 GMT</lastBuildDate>
     <item>
       <title>有没有觉得“微信”店大欺客的</title>
       <link>https://www.v2ex.com/t/1188059</link>
@@ -27,21 +27,6 @@
 </description>
     </item>
     <item>
-      <title>[话题探讨] 大家觉得有什么东西，价值是可以经受得住时间的考验的？</title>
-      <link>https://www.v2ex.com/t/1188101</link>
-      <guid>v2ex-1188101</guid>
-      <pubDate>Sat, 24 Jan 2026 13:14:19 GMT</pubDate>
-      <description>价值经受的住时间考验，是很多受时间而价值衰减的事物对比的。&lt;br /&gt;比如生老病死，身体随着时间而衰老；亦或者是买的汽车，随着时间和使用，价值会越来低。&lt;br /&gt;&lt;br /&gt;大家有自己的一些独特的想法么？欢迎在下面进行你的分享</description>
-    </item>
-    <item>
-      <title>分体式键盘真实体验怎么样？</title>
-      <link>https://www.v2ex.com/t/1188095</link>
-      <guid>v2ex-1188095</guid>
-      <pubDate>Sat, 24 Jan 2026 12:25:49 GMT</pubDate>
-      <description>&lt;p&gt;看到网上有几百块的分体式键盘售卖，想试试，有没有比较了解的大佬，讲讲怎么选，以及有什么可信赖的选择&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>两年前买的硬盘最近发现疑似二手，求支招</title>
       <link>https://www.v2ex.com/t/1188133</link>
       <guid>v2ex-1188133</guid>
@@ -59,6 +44,28 @@
 &lt;p&gt;不差这块硬盘，但实在是咽不下这口气
 谢谢&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>[话题探讨] 大家觉得有什么东西，价值是可以经受得住时间的考验的？</title>
+      <link>https://www.v2ex.com/t/1188101</link>
+      <guid>v2ex-1188101</guid>
+      <pubDate>Sat, 24 Jan 2026 13:14:19 GMT</pubDate>
+      <description>价值经受的住时间考验，是很多受时间而价值衰减的事物对比的。&lt;br /&gt;比如生老病死，身体随着时间而衰老；亦或者是买的汽车，随着时间和使用，价值会越来低。&lt;br /&gt;&lt;br /&gt;大家有自己的一些独特的想法么？欢迎在下面进行你的分享</description>
+    </item>
+    <item>
+      <title>分体式键盘真实体验怎么样？</title>
+      <link>https://www.v2ex.com/t/1188095</link>
+      <guid>v2ex-1188095</guid>
+      <pubDate>Sat, 24 Jan 2026 12:25:49 GMT</pubDate>
+      <description>&lt;p&gt;看到网上有几百块的分体式键盘售卖，想试试，有没有比较了解的大佬，讲讲怎么选，以及有什么可信赖的选择&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>免费 ChatGpt 和免费 Gemini 的对比</title>
+      <link>https://www.v2ex.com/t/1188051</link>
+      <guid>v2ex-1188051</guid>
+      <pubDate>Sat, 24 Jan 2026 07:30:35 GMT</pubDate>
+      <description>我使用的免费 ChatGpt 和免费的 Gemini ，感觉 chatgpt 水平很差劲，是因为我不是 plus 吗&lt;br /&gt;&lt;br /&gt;问题： 剑来小说中的 陈淳安 是谁&lt;br /&gt;&lt;br /&gt;Gpt-5 Thingking mini 的回答&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/znIvSTR.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/znIvSTR.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Ai Studio 中 Gemini 3 Pro Preview 的回答&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/RfRZQaA.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RfRZQaA.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
       <title>我 Vibe Coding 一周，做了个桌面 Agent</title>
@@ -192,18 +199,19 @@
 </description>
     </item>
     <item>
-      <title>Nex Terminal + claude 绝配，送兑换码</title>
-      <link>https://www.v2ex.com/t/1188031</link>
-      <guid>v2ex-1188031</guid>
-      <pubDate>Sat, 24 Jan 2026 05:36:29 GMT</pubDate>
-      <description>花 2 年时间自研的终端工具，产品对标 Termius ，目前除了多人协作没有，其他全部功能都有了&lt;br /&gt;支持 Mac/iPhone/iPad&lt;br /&gt;纯 swift 语言 + 手工打造，性能体验一流，吊打一众网页套壳 ssh&lt;br /&gt;&lt;br /&gt;Claude CLI&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/351gr5vM.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 351gr5vM.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/351gr5vM.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;分屏&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/MeHGolu6.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 MeHGolu6.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/MeHGolu6.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;智能提示&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/r4scBUk4.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 r4scBUk4.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/r4scBUk4.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;下载链接： &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/app/id6479238971&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/app/id6479238971&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;10 个 1 年期兑换码送上，用过的说一声，方便后人，有任何使用建议，欢迎评论&lt;br /&gt;&lt;br /&gt;J66736LXNLFP&lt;br /&gt;LK3LTH6H39EP&lt;br /&gt;P9RWW4KN9EKA&lt;br /&gt;4XNHH7E4JX3A&lt;br /&gt;AJ7YRLY33KXY&lt;br /&gt;9FJPTAFTWYXT&lt;br /&gt;W636KAE9JKA9&lt;br /&gt;6L4H7YFEAHME&lt;br /&gt;RJ63PLRTA4RM&lt;br /&gt;6TN76Y7MYL47</description>
-    </item>
-    <item>
-      <title>免费 ChatGpt 和免费 Gemini 的对比</title>
-      <link>https://www.v2ex.com/t/1188051</link>
-      <guid>v2ex-1188051</guid>
-      <pubDate>Sat, 24 Jan 2026 07:30:35 GMT</pubDate>
-      <description>我使用的免费 ChatGpt 和免费的 Gemini ，感觉 chatgpt 水平很差劲，是因为我不是 plus 吗&lt;br /&gt;&lt;br /&gt;问题： 剑来小说中的 陈淳安 是谁&lt;br /&gt;&lt;br /&gt;Gpt-5 Thingking mini 的回答&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/znIvSTR.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/znIvSTR.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Ai Studio 中 Gemini 3 Pro Preview 的回答&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/RfRZQaA.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RfRZQaA.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+      <title>FSD 纯视觉路线要赢了</title>
+      <link>https://www.v2ex.com/t/1188147</link>
+      <guid>v2ex-1188147</guid>
+      <pubDate>Sun, 25 Jan 2026 03:44:19 GMT</pubDate>
+      <description>&lt;p&gt;从车主横跨东西海岸，从洛杉矶到纽约，100% 无人接管&lt;/p&gt;
+&lt;p&gt;还是冬季，据说还有风雪恶劣天气&lt;/p&gt;
+&lt;p&gt;客观事实证明，纯视觉路线做到了&lt;/p&gt;
+&lt;p&gt;只用摄像头，不用任何其他传感器&lt;/p&gt;
+&lt;p&gt;计算冗余，代替传感器冗余，不用拐杖&lt;/p&gt;
+&lt;p&gt;马斯克极致 scale 的思维，以更低成本、更快速度，大规模部署和升级无人驾驶&lt;/p&gt;
+&lt;p&gt;当激光路线还在一城一城的开，robotaxi 很有可能后发制人&lt;/p&gt;
+&lt;p&gt;真的敬佩那些特斯拉车主，参与了这个历史进程&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>江苏联通上行小黑屋问题？</title>
