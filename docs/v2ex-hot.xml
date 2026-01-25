@@ -4,46 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 25 Jan 2026 04:34:11 GMT</lastBuildDate>
-    <item>
-      <title>解决+86 Telegram 账号登录难题</title>
-      <link>https://www.v2ex.com/t/1188026</link>
-      <guid>v2ex-1188026</guid>
-      <pubDate>Sat, 24 Jan 2026 05:10:01 GMT</pubDate>
-      <description>&lt;h2&gt;问题描述&lt;/h2&gt;
-&lt;p&gt;不知从何时，+86 注册的 TG 账号登陆时，无法正常收到验证码。看到有人说多登陆几次会提示绑定邮箱，可用邮箱验证，但尝试未果。&lt;/p&gt;
-&lt;h2&gt;适用情况&lt;/h2&gt;
-&lt;p&gt;当前有一台移动设备正处于登录状态&lt;/p&gt;
-&lt;h2&gt;解决方法&lt;/h2&gt;
-&lt;p&gt;核心思路：通过&lt;code&gt;passkey&lt;/code&gt;绕过接码难题，进行登录。&lt;/p&gt;
-&lt;p&gt;如果你是单一设备登录，可直接使用手机自带的&lt;code&gt;passkey 管理器&lt;/code&gt;。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;打开 TG ，选择&lt;code&gt;Settings&lt;/code&gt; -&amp;gt; &lt;code&gt;Privacy and Security&lt;/code&gt; -&amp;gt; &lt;code&gt;Passkeys&lt;/code&gt; -&amp;gt; &lt;code&gt;Create Passkey&lt;/code&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&quot;移动端截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/8hEGQRh.jpeg&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;如果你有跨平台登录需求，也可按照如下步骤操作。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;注册&lt;a href=&quot;https://bitwarden.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;code&gt;Bitwarden&lt;/code&gt;&lt;/a&gt;（也可以使用 Chrome 自带 passkey 管理器）&lt;/li&gt;
-&lt;li&gt;安装&lt;a href=&quot;https://bitwarden.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;code&gt;Bitwarden&lt;/code&gt;&lt;/a&gt;客户端和浏览器插件&lt;/li&gt;
-&lt;li&gt;打开&lt;a href=&quot;https://web.telegram.org/&quot; rel=&quot;nofollow&quot;&gt;https://web.telegram.org&lt;/a&gt;，扫码登录&lt;/li&gt;
-&lt;li&gt;选择&lt;code&gt;Settings&lt;/code&gt; -&amp;gt; &lt;code&gt;Privacy and Security&lt;/code&gt; -&amp;gt; &lt;code&gt;Passkeys&lt;/code&gt; -&amp;gt; &lt;code&gt;Create Passkey&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;创建一个 passkey ，并由&lt;a href=&quot;https://bitwarden.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;code&gt;Bitwarden&lt;/code&gt;&lt;/a&gt;进行保存和同步。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;Web 端截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/wacXFNj.png&quot;/&gt; &lt;/p&gt;
-&lt;h2&gt;实现效果&lt;/h2&gt;
-&lt;p&gt;移动设备登陆时，系统会自动拉起&lt;a href=&quot;https://bitwarden.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;code&gt;Bitwarden&lt;/code&gt;&lt;/a&gt;，从而实现无密码、无接码的安全登录。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;正巧看到有 v 友在讨论这个问题，决定发帖分享一下方法。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>大家脑子里都在想什么呢，可以告诉我么</title>
-      <link>https://www.v2ex.com/t/1188023</link>
-      <guid>v2ex-1188023</guid>
-      <pubDate>Sat, 24 Jan 2026 04:52:56 GMT</pubDate>
-      <description>&lt;p&gt;我最近听了很多的播客，热内，福柯，李贽，我觉得有个有意思的点，就是无论这些哲学家的思想多么的深刻和伟大，他们也是需要工作来养活自己的，热内就更不用说了，他甚至需要去偷窃和犯罪来让自己生存，我发现了让我感到焦虑的重要因素，就是人的思想可以日行千里，甚至可以创造一个新的世界，就像马克思那样，但是生活不能，要一点一点的去过，我们要吃饭，要喝水，我知道有本书叫月亮和六便士，我没看过那本书，但是我觉得理想和现实就像月亮和六便士一样，这个差距越大我们就越焦虑，觉得这个世界如此的可恶，充满了怨恨，愤怒，失望，甚至绝望，想要自杀，我觉得人天生就有自救的倾向，所以才有这么多人研究哲学来想要想通这一切，如何解决我们和世界，理想和现实之间的问题，最近我好像能把我了解的这些东西串起来了，这些人的思想，包括佛教的思想，佛教有苦集灭道，四圣谛，和三法印，诸行无常，诸法无我，涅槃寂静，我认为就是对现实世界的一种解构，是一种对现实世界深刻的理解，包括对自然，生死，时代，命运，机遇，人性，个人的选择，世界和我们的思想念头，永远都是像火一样不断的在流动和生灭，而我们主观世界不断的对这些事情进行解读和赋予意义，我们对顺境非常的执着追求（贪），对逆境愤怒排斥（嗔），主要原因就是我们对世界的无知和困惑（痴），而因果就是事物的运转规律，这套思想框架是可以适应不同的时代的，文化不断地变化，但是规律会一直存在，佛教只是把这些东西告诉我们，生老病死就是自然之道，社会有社会之道，我们对抗是没有意义的，把月亮放在心里，双手去赚那六便士，才是最好的应对办法，我想起瑞克和莫迪里面有一集故事大王那集，就是站在创作的上帝视角结构了故事的创作，这很难，但是我觉得这些哲学家做的事是一样的，就是解构，用了不同的方法和角度，视野越来越高，就像在太空看地球，那个总观效应，终究会走向宇宙的热寂，在那个时间和空间里意义最终被消灭了，我觉得意义只是我们讲故事的方式，在我们所处的时间和空间里，我认为佛教的视角就够了，因为我们活在这里，千年，万年，那不该是我们需要考虑的，怎么过好这几十年才是我们需要考虑的事情。这是我的一些思考，因为我觉得身边也没有人可以讨论这些，所以我发出来想要跟大家交流一下&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 25 Jan 2026 05:21:30 GMT</lastBuildDate>
     <item>
       <title>有没有觉得“微信”店大欺客的</title>
       <link>https://www.v2ex.com/t/1188059</link>
@@ -78,6 +39,25 @@
       <guid>v2ex-1188095</guid>
       <pubDate>Sat, 24 Jan 2026 12:25:49 GMT</pubDate>
       <description>&lt;p&gt;看到网上有几百块的分体式键盘售卖，想试试，有没有比较了解的大佬，讲讲怎么选，以及有什么可信赖的选择&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>两年前买的硬盘最近发现疑似二手，求支招</title>
+      <link>https://www.v2ex.com/t/1188133</link>
+      <guid>v2ex-1188133</guid>
+      <pubDate>Sun, 25 Jan 2026 01:27:20 GMT</pubDate>
+      <description>&lt;p&gt;情况是这样的&lt;/p&gt;
+&lt;p&gt;两年前在 JD 自营店买了两块希捷银河硬盘，出于对自营的信任，也没看 smart 数据，就插在 NAS 里用了&lt;/p&gt;
+&lt;p&gt;去年年中开始，其中一块频繁出现 xfs 文件系统无法加载的情况，但是每次 repair 一下就 ok 了，当时我怀疑是 sata 线缆的问题，也就没有上心。直到去年年底 12 月份，我排查的时候认真看了一下 smart 里的 power on hours,发现竟然长达 3 年半之久，比盘体上标注的组装日期还长了 1 年多。&lt;/p&gt;
+&lt;p&gt;鉴于硬盘还在质保期内，我开始联系客服，没想到我天真了
+1 、开始联系 JD 自营店客服，要求更换新盘并重新计算质保期，但是客服是个复读机，只会说“我们硬盘都是全新包装销售”，拒绝承认问题
+2 、联系 JD 客服，说该店铺已经于去年清退改为第三方了，支持我维权，建议我送希捷官方鉴定，只要确认是二手或者翻新，按假一赔三处理
+3 、联系希捷官方微信客服，连续一周扯皮，表示认可 smart 报告的数据有问题，但是希捷官方不负责售后，要求我联系经销商解决
+4 、联系该盘总代，电话另一端态度极其恶劣，大致意思就是我要修就修，不修就滚的意思&lt;/p&gt;
+&lt;p&gt;现在貌似只有 12315 和报警两条路可走了？
+有没有有过类似维权经历的 V 友，能否指点一下接下来如何才能高效的解决这个问题？我应该注意什么呢？&lt;/p&gt;
+&lt;p&gt;不差这块硬盘，但实在是咽不下这口气
+谢谢&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -212,30 +192,25 @@
 </description>
     </item>
     <item>
-      <title>两年前买的硬盘最近发现疑似二手，求支招</title>
-      <link>https://www.v2ex.com/t/1188133</link>
-      <guid>v2ex-1188133</guid>
-      <pubDate>Sun, 25 Jan 2026 01:27:20 GMT</pubDate>
-      <description>&lt;p&gt;情况是这样的&lt;/p&gt;
-&lt;p&gt;两年前在 JD 自营店买了两块希捷银河硬盘，出于对自营的信任，也没看 smart 数据，就插在 NAS 里用了&lt;/p&gt;
-&lt;p&gt;去年年中开始，其中一块频繁出现 xfs 文件系统无法加载的情况，但是每次 repair 一下就 ok 了，当时我怀疑是 sata 线缆的问题，也就没有上心。直到去年年底 12 月份，我排查的时候认真看了一下 smart 里的 power on hours,发现竟然长达 3 年半之久，比盘体上标注的组装日期还长了 1 年多。&lt;/p&gt;
-&lt;p&gt;鉴于硬盘还在质保期内，我开始联系客服，没想到我天真了
-1 、开始联系 JD 自营店客服，要求更换新盘并重新计算质保期，但是客服是个复读机，只会说“我们硬盘都是全新包装销售”，拒绝承认问题
-2 、联系 JD 客服，说该店铺已经于去年清退改为第三方了，支持我维权，建议我送希捷官方鉴定，只要确认是二手或者翻新，按假一赔三处理
-3 、联系希捷官方微信客服，连续一周扯皮，表示认可 smart 报告的数据有问题，但是希捷官方不负责售后，要求我联系经销商解决
-4 、联系该盘总代，电话另一端态度极其恶劣，大致意思就是我要修就修，不修就滚的意思&lt;/p&gt;
-&lt;p&gt;现在貌似只有 12315 和报警两条路可走了？
-有没有有过类似维权经历的 V 友，能否指点一下接下来如何才能高效的解决这个问题？我应该注意什么呢？&lt;/p&gt;
-&lt;p&gt;不差这块硬盘，但实在是咽不下这口气
-谢谢&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Nex Terminal + claude 绝配，送兑换码</title>
       <link>https://www.v2ex.com/t/1188031</link>
       <guid>v2ex-1188031</guid>
       <pubDate>Sat, 24 Jan 2026 05:36:29 GMT</pubDate>
       <description>花 2 年时间自研的终端工具，产品对标 Termius ，目前除了多人协作没有，其他全部功能都有了&lt;br /&gt;支持 Mac/iPhone/iPad&lt;br /&gt;纯 swift 语言 + 手工打造，性能体验一流，吊打一众网页套壳 ssh&lt;br /&gt;&lt;br /&gt;Claude CLI&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/351gr5vM.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 351gr5vM.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/351gr5vM.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;分屏&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/MeHGolu6.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 MeHGolu6.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/MeHGolu6.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;智能提示&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/r4scBUk4.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 r4scBUk4.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/r4scBUk4.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;下载链接： &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/app/id6479238971&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/app/id6479238971&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;10 个 1 年期兑换码送上，用过的说一声，方便后人，有任何使用建议，欢迎评论&lt;br /&gt;&lt;br /&gt;J66736LXNLFP&lt;br /&gt;LK3LTH6H39EP&lt;br /&gt;P9RWW4KN9EKA&lt;br /&gt;4XNHH7E4JX3A&lt;br /&gt;AJ7YRLY33KXY&lt;br /&gt;9FJPTAFTWYXT&lt;br /&gt;W636KAE9JKA9&lt;br /&gt;6L4H7YFEAHME&lt;br /&gt;RJ63PLRTA4RM&lt;br /&gt;6TN76Y7MYL47</description>
+    </item>
+    <item>
+      <title>免费 ChatGpt 和免费 Gemini 的对比</title>
+      <link>https://www.v2ex.com/t/1188051</link>
+      <guid>v2ex-1188051</guid>
+      <pubDate>Sat, 24 Jan 2026 07:30:35 GMT</pubDate>
+      <description>我使用的免费 ChatGpt 和免费的 Gemini ，感觉 chatgpt 水平很差劲，是因为我不是 plus 吗&lt;br /&gt;&lt;br /&gt;问题： 剑来小说中的 陈淳安 是谁&lt;br /&gt;&lt;br /&gt;Gpt-5 Thingking mini 的回答&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/znIvSTR.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/znIvSTR.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Ai Studio 中 Gemini 3 Pro Preview 的回答&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/RfRZQaA.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RfRZQaA.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>江苏联通上行小黑屋问题？</title>
+      <link>https://www.v2ex.com/t/1188084</link>
+      <guid>v2ex-1188084</guid>
+      <pubDate>Sat, 24 Jan 2026 11:08:35 GMT</pubDate>
+      <description>9 月被电信限速之后从朋友那边搞来了一条带公网 ip 的联通宽带，下行 1000m 上行 350m 貌似是商企宽带，近期发现 nas 传文件极慢后查询 ip 及遍历论坛后发现意思进入小黑屋？&lt;br /&gt;ip：&lt;a target=&quot;_blank&quot; href=&quot;http://116.147.151.xxx&quot; rel=&quot;nofollow noopener&quot;&gt;116.147.151.xxx&lt;/a&gt; 地址在江苏淮安&lt;br /&gt;有的时候重新拨号会变成 122.192.198.xx 地址在江苏徐州&lt;br /&gt;症状均为 http/https 直连 nas 下载文件不超过 500kb/s 且传输时远程桌面类软件丢包极其严重高达 70%+&lt;br /&gt;微信等软件发送图片、视频极其卡顿&lt;br /&gt;常用测速站点测速正常但寻找到小众站点会发现上传限速在 2-3 兆？（排除站点本身问题）&lt;br /&gt;询问装维师傅表示在管控名单？商企客户经理表示不清楚解封流程...10010 的工单又会转移至客户经理死循环</description>
     </item>
   </channel>
 </rss>
