@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 25 Jan 2026 09:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 09:40:34 GMT</lastBuildDate>
     <item>
       <title>FSD 纯视觉路线要赢了</title>
       <link>https://www.v2ex.com/t/1188147</link>
@@ -19,13 +19,6 @@
 &lt;p&gt;当激光路线还在一城一城的开，robotaxi 很有可能后发制人&lt;/p&gt;
 &lt;p&gt;真的敬佩那些特斯拉车主，参与了这个历史进程&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>[话题探讨] 大家觉得有什么东西，价值是可以经受得住时间的考验的？</title>
-      <link>https://www.v2ex.com/t/1188101</link>
-      <guid>v2ex-1188101</guid>
-      <pubDate>Sat, 24 Jan 2026 13:14:19 GMT</pubDate>
-      <description>价值经受的住时间考验，是很多受时间而价值衰减的事物对比的。&lt;br /&gt;比如生老病死，身体随着时间而衰老；亦或者是买的汽车，随着时间和使用，价值会越来低。&lt;br /&gt;&lt;br /&gt;大家有自己的一些独特的想法么？欢迎在下面进行你的分享</description>
     </item>
     <item>
       <title>两年前买的硬盘最近发现疑似二手，求支招</title>
@@ -47,19 +40,19 @@
 </description>
     </item>
     <item>
+      <title>[话题探讨] 大家觉得有什么东西，价值是可以经受得住时间的考验的？</title>
+      <link>https://www.v2ex.com/t/1188101</link>
+      <guid>v2ex-1188101</guid>
+      <pubDate>Sat, 24 Jan 2026 13:14:19 GMT</pubDate>
+      <description>价值经受的住时间考验，是很多受时间而价值衰减的事物对比的。&lt;br /&gt;比如生老病死，身体随着时间而衰老；亦或者是买的汽车，随着时间和使用，价值会越来低。&lt;br /&gt;&lt;br /&gt;大家有自己的一些独特的想法么？欢迎在下面进行你的分享</description>
+    </item>
+    <item>
       <title>分体式键盘真实体验怎么样？</title>
       <link>https://www.v2ex.com/t/1188095</link>
       <guid>v2ex-1188095</guid>
       <pubDate>Sat, 24 Jan 2026 12:25:49 GMT</pubDate>
       <description>&lt;p&gt;看到网上有几百块的分体式键盘售卖，想试试，有没有比较了解的大佬，讲讲怎么选，以及有什么可信赖的选择&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>有没有这样的 PHP 框架</title>
-      <link>https://www.v2ex.com/t/1188137</link>
-      <guid>v2ex-1188137</guid>
-      <pubDate>Sun, 25 Jan 2026 02:06:40 GMT</pubDate>
-      <description>RT ，求推荐一个 PHP 框架，根目录直接就是 index.php ，不像 Laravel/ThinkPHP 那样的还要指定 web/目录来运行。权限什么的都是通过代码或者操作系统的权限来控制。&lt;br /&gt;想知道有这样的 PHP 框架吗？我觉得这种对于几块钱的虚拟主机特别友好（其中好多都不支持绑定子目录的），简单且足够轻量化。</description>
     </item>
     <item>
       <title>Gap 三个月后入职新公司，才一个月，又想辞职了</title>
@@ -69,6 +62,13 @@
       <description>&lt;p&gt;工作时长比面试时讲的长了很多，第一年甚至没有年假&lt;/p&gt;
 &lt;p&gt;请问各位大佬辞职时机怎么把握，是等年后再提还是在开始缴纳社保前就溜？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>有没有这样的 PHP 框架</title>
+      <link>https://www.v2ex.com/t/1188137</link>
+      <guid>v2ex-1188137</guid>
+      <pubDate>Sun, 25 Jan 2026 02:06:40 GMT</pubDate>
+      <description>RT ，求推荐一个 PHP 框架，根目录直接就是 index.php ，不像 Laravel/ThinkPHP 那样的还要指定 web/目录来运行。权限什么的都是通过代码或者操作系统的权限来控制。&lt;br /&gt;想知道有这样的 PHP 框架吗？我觉得这种对于几块钱的虚拟主机特别友好（其中好多都不支持绑定子目录的），简单且足够轻量化。</description>
     </item>
     <item>
       <title>C 盘救星！这神器让我的 SSD 原地复活， 10 分钟用释放 100GB 可用空间</title>
@@ -111,134 +111,16 @@
 </description>
     </item>
     <item>
-      <title>我 Vibe Coding 一周，做了个桌面 Agent</title>
-      <link>https://www.v2ex.com/t/1188072</link>
-      <guid>v2ex-1188072</guid>
-      <pubDate>Sat, 24 Jan 2026 09:15:50 GMT</pubDate>
-      <description>&lt;p&gt;复盘一下我 vibe coding 一周，开发 WorkAny 的过程，很有意思。😂&lt;/p&gt;
-&lt;h2&gt;开发过程&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;上周三在香港办卡，临时起意想做个桌面 Agent 项目，对标 cowork ，晚上回到广州开始写代码&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;初期目标是快速发布，没时间去研究哪个 Agent 框架好用了，看很多人在用 claude agent sdk ，先用这个吧&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/722c6bf9fff1552547bde8cc9da92697.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;第一时间想到用 tauri ，喜欢小而美，总觉得 electron 很重，不想用&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;不想自己写代码了，决定让 claude code 来写。之前的 claude 账号都被封了，用不上原版 cc ，装了个 cc-switch ，接上 OpenRouter 的 API 开始写&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;截了个 chatbot 的交互截图，让 cc 参考着先把基本的对话流程跑通，用 claude agent sdk ，接上 OpenRouter ，cc 很快写完了第一版&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/d1cadba2213dce0714a48eb6763bafc4.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;tauri 本质是用 rust 的壳子套了个前端界面，不熟悉 rust ，让 cc 用 hono 写 API ，rust 只做壳子，不做业务功能。API 作为 sidecar 打包进 app&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/183758342ed6e045dfe0f6f353c7e8a1.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;让 cc 在 API 引入 sqlite 实现本地存储，持久化任务数据，创建本地工作目录，保存任务输出文件&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;写了半天，看 OpenRouter 消耗了 110 刀，有点肉疼。买了个美国住宅 ip ，付费上了原版 claude pro&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;截了个 Manus 的任务详情图，让 cc 参考写完工具调用的逻辑，中间是 chatbot 对话，右边用一个虚拟计算机的容器展示输入输出&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/42776ca1aa41394031d60b2103e9cd0b.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;让 cc 接入 shadcn/ui ，把样式做得好看一点，支持切换皮肤&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/dc8116554ed9688ab5ca2bdbae9fe16b.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;又写了一天，关键时候 claude pro 限频了，很影响心情，补差价上了 claude max 顶配版&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;让 cc 把自定义模型配置，mcp 、skills 调用的逻辑都实现了，跑了几个生成 PPT 、Excel 、Doc 、 网页的 case ，效果不错&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/6cd581712abf842adf33761962ffdfe6.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;让 cc 把输出文件夹和中间过程的 artifacts 都在右边展示出来，写了个 artifact preview 容器，渲染各种类型的文件，可视化预览&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/a5425a4a9fea67455e86c64ff4318e5b.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;有些任务需要跑脚本完成，考虑到用户电脑可能没装代码运行环境，让 cc 引入 sandbox 来运行代码&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/3342937a35bb590afa22ca12f126ae1b.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;考虑到扩展性，需要支持不同类型的 Agent runtime 和 sandbox ，让 cc 写了两个抽象类，统一接口调用。Agent runtime 支持 claude code 、codex 、deepagents ，sandbox 支持 boxlite 、codex-sandbox 、claude-sandbox&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/d5f337ca80d5800a2a05c1845918c7d3.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;觉得 cc 写的代码有点乱，让 cc 引入 eslint 和 prettier 做了下格式化，把逻辑太多的文件做模块化拆分。再参考 ShipAny 的目录结构，调整了一下项目结构&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/23ca0b2f6e10f68b9ddce26a61088f20.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;让 cc 写打包脚本，构建不同操作系统的安装包。把安装包发给一些朋友，开始内测了。根据内测用户的反馈，再让 cc 继续优化逻辑，解决问题，迭代功能&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/462d86cd77fc41a38f01f3b83768da74.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;有些用户电脑没装 node ，没有 claude code ，安装软件后跑不起来，让 cc 在构建脚本支持 flag 参数，把 node 和 cc 作为 sidecar 打包进 app ，让用户能够开箱即用&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Mac 用户安装 app 后提示文件损坏或有安全提示，让 cc 在构建脚本里面加上签名处理，用我的 Apple 开发者账户对打包的 Mac app 做签名&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;node 和 cc 都打包进 app 的版本，安装包 100 多 m ，有点重。让 cc 在构建脚本实现默认不打包，在用户启动 app 的时候引导安装 node 和 cc ，精简版安装包才 20 多 m ，小巧精致&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/e330c13b3bee72559b20dccb7075ef9d.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;app 基本功能实现得差不多了，让 cc 在 ShipAny 模板基础上写一个 WorkAny 的官网，放上演示图，部署上线&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/f8519d6c62fdb46ad50fd356c6be254b.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;WorkAny 开源发布，MVP 版本上线，用户拉源码本地构建，配个 API 直接用&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/41b76b1ca7ca472a5643fd1009f34bcc.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;让 cc 写了个 github 构建脚本，在代码推送到 main 分支时，自动触发 github action 构建，一次性打包 Windows 、Linux 、Mac 三大平台的安装包，自动发布到 release ，用户无需自行构建了&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/54a245817c0541e95cc484de8940befe.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;根据用户的反馈，问题丢给 cc 去修，想到什么新功能也告诉 cc 加上，自己只做测试，不写代码，看都不看一眼。🌚&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/85488be558f38dbe9d94c02ae033daf0.png&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;几点感悟&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;第一次尝试全自动驾驶 vibe coding 做项目，爽感非常强烈，WorkAny 的代码 100% 由 cc 老弟完成，我只负责指挥，日常开三个窗口，让三个 cc 老弟同时干活，效率拉满&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/4331a754d17e109685fd06b06581eb02.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;AI 时代技术平权，人人都是建筑师，理解用户需求、好的产品 sense 和审美是做出好产品的关键&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/7635a1a0eacd77a47b8d11237c576109.png&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;技术广度和全局视野是最大的优势，可以精准提需求，指哪打哪，遇到问题能快速定位，防止 AI 走偏失控&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;以前总觉得手洗的衣服比洗衣机洗的干净，现在可以放心交给洗衣机了，又干净又快，能穿就行&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;优秀的程序员不会被 AI 淘汰，法拉利老了还是法拉利。🌝&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;欢迎试用 WorkAny ，感谢反馈与支持。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://workany.ai&quot; rel=&quot;nofollow&quot;&gt;https://workany.ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.shipany.ai/imgs/01e072d332de8394fc61be51d651a349.png&quot;/&gt;&lt;/p&gt;
+      <title>始终 get 不到 Gemini 3 到底强在哪里？有没有大佬能指点下？</title>
+      <link>https://www.v2ex.com/t/1188160</link>
+      <guid>v2ex-1188160</guid>
+      <pubDate>Sun, 25 Jan 2026 06:05:00 GMT</pubDate>
+      <description>&lt;p&gt;我是 chatgpt, claude 和 gemini 的重度用户。很多朋友都跟我说，gemini 3 太强大了，但是我始终 get 不到强大在哪里。论编码能力，不如 opus ；论推理能力和丝滑的使用体验，不如 chatgpt5.2 。&lt;/p&gt;
+&lt;p&gt;所以，gemini 3 到底在哪个方向上遥遥领先了？&lt;/p&gt;
+&lt;p&gt;我常用的模型：
+Gemini 3 Pro （ Deepthink)
+ChatGPT 5.2 Think
+ClaudeCode Opus4.5/Sonnet4.5&lt;/p&gt;
 </description>
     </item>
     <item>
