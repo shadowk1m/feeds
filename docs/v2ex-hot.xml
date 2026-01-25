@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 25 Jan 2026 14:40:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 15:11:21 GMT</lastBuildDate>
     <item>
       <title>两年前买的硬盘最近发现疑似二手，求支招</title>
       <link>https://www.v2ex.com/t/1188133</link>
@@ -87,15 +87,6 @@ ClaudeCode Opus4.5/Sonnet4.5&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Gap 三个月后入职新公司，才一个月，又想辞职了</title>
-      <link>https://www.v2ex.com/t/1188138</link>
-      <guid>v2ex-1188138</guid>
-      <pubDate>Sun, 25 Jan 2026 02:08:33 GMT</pubDate>
-      <description>&lt;p&gt;工作时长比面试时讲的长了很多，第一年甚至没有年假&lt;/p&gt;
-&lt;p&gt;请问各位大佬辞职时机怎么把握，是等年后再提还是在开始缴纳社保前就溜？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>关于国内外分流的问题请教一下大佬们</title>
       <link>https://www.v2ex.com/t/1188156</link>
       <guid>v2ex-1188156</guid>
@@ -104,6 +95,15 @@ ClaudeCode Opus4.5/Sonnet4.5&lt;/p&gt;
 &lt;p&gt;目前是使用 OSS 部署 PaoPaoDNS 配合 Xray 的 fakedns 进行分流，PPDNS 设置参数强制使非 CN 域名的上游 DNS 服务器为 Xray 的 DNS 入口，所有设备 DNS 设置为 PPDNS ，网关为 ROS ，ROS 将指定设备 Address-List 到 fakeip 段连接通过 PBR 到 OSS 的 Xray 的 Tproxy 入口。&lt;/p&gt;
 &lt;p&gt;之前有试过 ROS 维护 CNIP 表通过 Socksify 或 PBR 进行分流，效果不太理想，一来不知道是当时思路不够成熟有配置错误还是其他原因，访问网页会卡顿，二来 cnip 列表很难维护，依靠网上现成不够全面的列表会导致有些应用不能使用，如某买菜 app 等，为了修复这个问题，我写了个脚本读取 OSS 脚本生成的 geosite_cn.txt （需要修改文件内容为正则表达式并将每行计数到行首，因为文件过大，ros 只支持将 60kb 以内的 txt 写入数组，需要通过 read+offset+chunk-size 读取 txt 中每一行的正则表达式），通过将/ip/dns/cache 中的 name 与正则表达式匹配，将匹配得到的 name 对应的 ip 更新进 CNIP 表以达到类似使用域名分流的效果，但是这样一来并非实时更新，二来 ros 的循环读取比对非常的久（千万级甚至更多），维护一次列表大概需要 1 分钟（我是 x86 物理机，i513500te+32g3200 频率内存），ros 好像并不能使用多核来运行脚本？（这方面并不太懂）且脚本需要不间断循环，并不能触发式运行。&lt;/p&gt;
 &lt;p&gt;折腾了半天发现效果并不好，所以换到现在使用的这套配置，流畅不卡顿。不知是使用 fakeip 的原因还是我之前的配置有问题。但思来想去，还是比较想使用纯 realip ，但是个人认为这高度依赖域名分流，但 ros 本身并不能很好的完成这项工作。因为所有都是 xhttp 部署的节点，所以 xray 是不能换的。想请教一下各位大佬有什么新思路或者好的方案吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Gap 三个月后入职新公司，才一个月，又想辞职了</title>
+      <link>https://www.v2ex.com/t/1188138</link>
+      <guid>v2ex-1188138</guid>
+      <pubDate>Sun, 25 Jan 2026 02:08:33 GMT</pubDate>
+      <description>&lt;p&gt;工作时长比面试时讲的长了很多，第一年甚至没有年假&lt;/p&gt;
+&lt;p&gt;请问各位大佬辞职时机怎么把握，是等年后再提还是在开始缴纳社保前就溜？&lt;/p&gt;
 </description>
     </item>
     <item>
