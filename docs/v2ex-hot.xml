@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 25 Jan 2026 16:46:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 17:10:13 GMT</lastBuildDate>
     <item>
       <title>两年前买的硬盘最近发现疑似二手，求支招</title>
       <link>https://www.v2ex.com/t/1188133</link>
@@ -107,6 +107,13 @@ ClaudeCode Opus4.5/Sonnet4.5&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>有没有这样的 PHP 框架</title>
+      <link>https://www.v2ex.com/t/1188137</link>
+      <guid>v2ex-1188137</guid>
+      <pubDate>Sun, 25 Jan 2026 02:06:40 GMT</pubDate>
+      <description>RT ，求推荐一个 PHP 框架，根目录直接就是 index.php ，不像 Laravel/ThinkPHP 那样的还要指定 web/目录来运行。权限什么的都是通过代码或者操作系统的权限来控制。&lt;br /&gt;想知道有这样的 PHP 框架吗？我觉得这种对于几块钱的虚拟主机特别友好（其中好多都不支持绑定子目录的），简单且足够轻量化。</description>
+    </item>
+    <item>
       <title>一年多过去了,大家还保持健身习惯吗</title>
       <link>https://www.v2ex.com/t/1188141</link>
       <guid>v2ex-1188141</guid>
@@ -115,13 +122,6 @@ ClaudeCode Opus4.5/Sonnet4.5&lt;/p&gt;
 繁忙的我们,总是忽略给自己加油,现在的你还在保持健身习惯吗?&lt;br/&gt;
 我依然在坚持每周打两次球&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>有没有这样的 PHP 框架</title>
-      <link>https://www.v2ex.com/t/1188137</link>
-      <guid>v2ex-1188137</guid>
-      <pubDate>Sun, 25 Jan 2026 02:06:40 GMT</pubDate>
-      <description>RT ，求推荐一个 PHP 框架，根目录直接就是 index.php ，不像 Laravel/ThinkPHP 那样的还要指定 web/目录来运行。权限什么的都是通过代码或者操作系统的权限来控制。&lt;br /&gt;想知道有这样的 PHP 框架吗？我觉得这种对于几块钱的虚拟主机特别友好（其中好多都不支持绑定子目录的），简单且足够轻量化。</description>
     </item>
     <item>
       <title>大家在用 opencode 还是 claudecode？哪个更舒服</title>
