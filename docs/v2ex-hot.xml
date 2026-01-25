@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 25 Jan 2026 07:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 07:39:02 GMT</lastBuildDate>
     <item>
       <title>FSD 纯视觉路线要赢了</title>
       <link>https://www.v2ex.com/t/1188147</link>
@@ -68,19 +68,19 @@
 </description>
     </item>
     <item>
-      <title>免费 ChatGpt 和免费 Gemini 的对比</title>
-      <link>https://www.v2ex.com/t/1188051</link>
-      <guid>v2ex-1188051</guid>
-      <pubDate>Sat, 24 Jan 2026 07:30:35 GMT</pubDate>
-      <description>我使用的免费 ChatGpt 和免费的 Gemini ，感觉 chatgpt 水平很差劲，是因为我不是 plus 吗&lt;br /&gt;&lt;br /&gt;问题： 剑来小说中的 陈淳安 是谁&lt;br /&gt;&lt;br /&gt;Gpt-5 Thingking mini 的回答&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/znIvSTR.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/znIvSTR.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Ai Studio 中 Gemini 3 Pro Preview 的回答&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/RfRZQaA.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RfRZQaA.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>分体式键盘真实体验怎么样？</title>
       <link>https://www.v2ex.com/t/1188095</link>
       <guid>v2ex-1188095</guid>
       <pubDate>Sat, 24 Jan 2026 12:25:49 GMT</pubDate>
       <description>&lt;p&gt;看到网上有几百块的分体式键盘售卖，想试试，有没有比较了解的大佬，讲讲怎么选，以及有什么可信赖的选择&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>有没有这样的 PHP 框架</title>
+      <link>https://www.v2ex.com/t/1188137</link>
+      <guid>v2ex-1188137</guid>
+      <pubDate>Sun, 25 Jan 2026 02:06:40 GMT</pubDate>
+      <description>RT ，求推荐一个 PHP 框架，根目录直接就是 index.php ，不像 Laravel/ThinkPHP 那样的还要指定 web/目录来运行。权限什么的都是通过代码或者操作系统的权限来控制。&lt;br /&gt;想知道有这样的 PHP 框架吗？我觉得这种对于几块钱的虚拟主机特别友好（其中好多都不支持绑定子目录的），简单且足够轻量化。</description>
     </item>
     <item>
       <title>我 Vibe Coding 一周，做了个桌面 Agent</title>
@@ -214,13 +214,6 @@
 </description>
     </item>
     <item>
-      <title>有没有这样的 PHP 框架</title>
-      <link>https://www.v2ex.com/t/1188137</link>
-      <guid>v2ex-1188137</guid>
-      <pubDate>Sun, 25 Jan 2026 02:06:40 GMT</pubDate>
-      <description>RT ，求推荐一个 PHP 框架，根目录直接就是 index.php ，不像 Laravel/ThinkPHP 那样的还要指定 web/目录来运行。权限什么的都是通过代码或者操作系统的权限来控制。&lt;br /&gt;想知道有这样的 PHP 框架吗？我觉得这种对于几块钱的虚拟主机特别友好（其中好多都不支持绑定子目录的），简单且足够轻量化。</description>
-    </item>
-    <item>
       <title>Gap 三个月后入职新公司，才一个月，又想辞职了</title>
       <link>https://www.v2ex.com/t/1188138</link>
       <guid>v2ex-1188138</guid>
@@ -228,6 +221,13 @@
       <description>&lt;p&gt;工作时长比面试时讲的长了很多，第一年甚至没有年假&lt;/p&gt;
 &lt;p&gt;请问各位大佬辞职时机怎么把握，是等年后再提还是在开始缴纳社保前就溜？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>江苏联通上行小黑屋问题？</title>
+      <link>https://www.v2ex.com/t/1188084</link>
+      <guid>v2ex-1188084</guid>
+      <pubDate>Sat, 24 Jan 2026 11:08:35 GMT</pubDate>
+      <description>9 月被电信限速之后从朋友那边搞来了一条带公网 ip 的联通宽带，下行 1000m 上行 350m 貌似是商企宽带，近期发现 nas 传文件极慢后查询 ip 及遍历论坛后发现意思进入小黑屋？&lt;br /&gt;ip：&lt;a target=&quot;_blank&quot; href=&quot;http://116.147.151.xxx&quot; rel=&quot;nofollow noopener&quot;&gt;116.147.151.xxx&lt;/a&gt; 地址在江苏淮安&lt;br /&gt;有的时候重新拨号会变成 122.192.198.xx 地址在江苏徐州&lt;br /&gt;症状均为 http/https 直连 nas 下载文件不超过 500kb/s 且传输时远程桌面类软件丢包极其严重高达 70%+&lt;br /&gt;微信等软件发送图片、视频极其卡顿&lt;br /&gt;常用测速站点测速正常但寻找到小众站点会发现上传限速在 2-3 兆？（排除站点本身问题）&lt;br /&gt;询问装维师傅表示在管控名单？商企客户经理表示不清楚解封流程...10010 的工单又会转移至客户经理死循环</description>
     </item>
   </channel>
 </rss>
