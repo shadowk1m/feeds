@@ -4,7 +4,22 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 25 Jan 2026 06:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 06:52:38 GMT</lastBuildDate>
+    <item>
+      <title>FSD 纯视觉路线要赢了</title>
+      <link>https://www.v2ex.com/t/1188147</link>
+      <guid>v2ex-1188147</guid>
+      <pubDate>Sun, 25 Jan 2026 03:44:19 GMT</pubDate>
+      <description>&lt;p&gt;从车主横跨东西海岸，从洛杉矶到纽约，100% 无人接管&lt;/p&gt;
+&lt;p&gt;还是冬季，据说还有风雪恶劣天气&lt;/p&gt;
+&lt;p&gt;客观事实证明，纯视觉路线做到了&lt;/p&gt;
+&lt;p&gt;只用摄像头，不用任何其他传感器&lt;/p&gt;
+&lt;p&gt;计算冗余，代替传感器冗余，不用拐杖&lt;/p&gt;
+&lt;p&gt;马斯克极致 scale 的思维，以更低成本、更快速度，大规模部署和升级无人驾驶&lt;/p&gt;
+&lt;p&gt;当激光路线还在一城一城的开，robotaxi 很有可能后发制人&lt;/p&gt;
+&lt;p&gt;真的敬佩那些特斯拉车主，参与了这个历史进程&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>有没有觉得“微信”店大欺客的</title>
       <link>https://www.v2ex.com/t/1188059</link>
@@ -50,21 +65,6 @@
 有没有有过类似维权经历的 V 友，能否指点一下接下来如何才能高效的解决这个问题？我应该注意什么呢？&lt;/p&gt;
 &lt;p&gt;不差这块硬盘，但实在是咽不下这口气
 谢谢&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>FSD 纯视觉路线要赢了</title>
-      <link>https://www.v2ex.com/t/1188147</link>
-      <guid>v2ex-1188147</guid>
-      <pubDate>Sun, 25 Jan 2026 03:44:19 GMT</pubDate>
-      <description>&lt;p&gt;从车主横跨东西海岸，从洛杉矶到纽约，100% 无人接管&lt;/p&gt;
-&lt;p&gt;还是冬季，据说还有风雪恶劣天气&lt;/p&gt;
-&lt;p&gt;客观事实证明，纯视觉路线做到了&lt;/p&gt;
-&lt;p&gt;只用摄像头，不用任何其他传感器&lt;/p&gt;
-&lt;p&gt;计算冗余，代替传感器冗余，不用拐杖&lt;/p&gt;
-&lt;p&gt;马斯克极致 scale 的思维，以更低成本、更快速度，大规模部署和升级无人驾驶&lt;/p&gt;
-&lt;p&gt;当激光路线还在一城一城的开，robotaxi 很有可能后发制人&lt;/p&gt;
-&lt;p&gt;真的敬佩那些特斯拉车主，参与了这个历史进程&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -214,11 +214,20 @@
 </description>
     </item>
     <item>
-      <title>江苏联通上行小黑屋问题？</title>
-      <link>https://www.v2ex.com/t/1188084</link>
-      <guid>v2ex-1188084</guid>
-      <pubDate>Sat, 24 Jan 2026 11:08:35 GMT</pubDate>
-      <description>9 月被电信限速之后从朋友那边搞来了一条带公网 ip 的联通宽带，下行 1000m 上行 350m 貌似是商企宽带，近期发现 nas 传文件极慢后查询 ip 及遍历论坛后发现意思进入小黑屋？&lt;br /&gt;ip：&lt;a target=&quot;_blank&quot; href=&quot;http://116.147.151.xxx&quot; rel=&quot;nofollow noopener&quot;&gt;116.147.151.xxx&lt;/a&gt; 地址在江苏淮安&lt;br /&gt;有的时候重新拨号会变成 122.192.198.xx 地址在江苏徐州&lt;br /&gt;症状均为 http/https 直连 nas 下载文件不超过 500kb/s 且传输时远程桌面类软件丢包极其严重高达 70%+&lt;br /&gt;微信等软件发送图片、视频极其卡顿&lt;br /&gt;常用测速站点测速正常但寻找到小众站点会发现上传限速在 2-3 兆？（排除站点本身问题）&lt;br /&gt;询问装维师傅表示在管控名单？商企客户经理表示不清楚解封流程...10010 的工单又会转移至客户经理死循环</description>
+      <title>有没有这样的 PHP 框架</title>
+      <link>https://www.v2ex.com/t/1188137</link>
+      <guid>v2ex-1188137</guid>
+      <pubDate>Sun, 25 Jan 2026 02:06:40 GMT</pubDate>
+      <description>RT ，求推荐一个 PHP 框架，根目录直接就是 index.php ，不像 Laravel/ThinkPHP 那样的还要指定 web/目录来运行。权限什么的都是通过代码或者操作系统的权限来控制。&lt;br /&gt;想知道有这样的 PHP 框架吗？我觉得这种对于几块钱的虚拟主机特别友好（其中好多都不支持绑定子目录的），简单且足够轻量化。</description>
+    </item>
+    <item>
+      <title>Gap 三个月后入职新公司，才一个月，又想辞职了</title>
+      <link>https://www.v2ex.com/t/1188138</link>
+      <guid>v2ex-1188138</guid>
+      <pubDate>Sun, 25 Jan 2026 02:08:33 GMT</pubDate>
+      <description>&lt;p&gt;工作时长比面试时讲的长了很多，第一年甚至没有年假&lt;/p&gt;
+&lt;p&gt;请问各位大佬辞职时机怎么把握，是等年后再提还是在开始缴纳社保前就溜？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
