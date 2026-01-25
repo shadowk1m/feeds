@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 25 Jan 2026 08:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 08:46:35 GMT</lastBuildDate>
     <item>
       <title>FSD 纯视觉路线要赢了</title>
       <link>https://www.v2ex.com/t/1188147</link>
@@ -19,13 +19,6 @@
 &lt;p&gt;当激光路线还在一城一城的开，robotaxi 很有可能后发制人&lt;/p&gt;
 &lt;p&gt;真的敬佩那些特斯拉车主，参与了这个历史进程&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>[话题探讨] 大家觉得有什么东西，价值是可以经受得住时间的考验的？</title>
-      <link>https://www.v2ex.com/t/1188101</link>
-      <guid>v2ex-1188101</guid>
-      <pubDate>Sat, 24 Jan 2026 13:14:19 GMT</pubDate>
-      <description>价值经受的住时间考验，是很多受时间而价值衰减的事物对比的。&lt;br /&gt;比如生老病死，身体随着时间而衰老；亦或者是买的汽车，随着时间和使用，价值会越来低。&lt;br /&gt;&lt;br /&gt;大家有自己的一些独特的想法么？欢迎在下面进行你的分享</description>
     </item>
     <item>
       <title>两年前买的硬盘最近发现疑似二手，求支招</title>
@@ -45,6 +38,13 @@
 &lt;p&gt;不差这块硬盘，但实在是咽不下这口气
 谢谢&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>[话题探讨] 大家觉得有什么东西，价值是可以经受得住时间的考验的？</title>
+      <link>https://www.v2ex.com/t/1188101</link>
+      <guid>v2ex-1188101</guid>
+      <pubDate>Sat, 24 Jan 2026 13:14:19 GMT</pubDate>
+      <description>价值经受的住时间考验，是很多受时间而价值衰减的事物对比的。&lt;br /&gt;比如生老病死，身体随着时间而衰老；亦或者是买的汽车，随着时间和使用，价值会越来低。&lt;br /&gt;&lt;br /&gt;大家有自己的一些独特的想法么？欢迎在下面进行你的分享</description>
     </item>
     <item>
       <title>分体式键盘真实体验怎么样？</title>
@@ -242,11 +242,17 @@
 </description>
     </item>
     <item>
-      <title>江苏联通上行小黑屋问题？</title>
-      <link>https://www.v2ex.com/t/1188084</link>
-      <guid>v2ex-1188084</guid>
-      <pubDate>Sat, 24 Jan 2026 11:08:35 GMT</pubDate>
-      <description>9 月被电信限速之后从朋友那边搞来了一条带公网 ip 的联通宽带，下行 1000m 上行 350m 貌似是商企宽带，近期发现 nas 传文件极慢后查询 ip 及遍历论坛后发现意思进入小黑屋？&lt;br /&gt;ip：&lt;a target=&quot;_blank&quot; href=&quot;http://116.147.151.xxx&quot; rel=&quot;nofollow noopener&quot;&gt;116.147.151.xxx&lt;/a&gt; 地址在江苏淮安&lt;br /&gt;有的时候重新拨号会变成 122.192.198.xx 地址在江苏徐州&lt;br /&gt;症状均为 http/https 直连 nas 下载文件不超过 500kb/s 且传输时远程桌面类软件丢包极其严重高达 70%+&lt;br /&gt;微信等软件发送图片、视频极其卡顿&lt;br /&gt;常用测速站点测速正常但寻找到小众站点会发现上传限速在 2-3 兆？（排除站点本身问题）&lt;br /&gt;询问装维师傅表示在管控名单？商企客户经理表示不清楚解封流程...10010 的工单又会转移至客户经理死循环</description>
+      <title>始终 get 不到 Gemini 3 到底强在哪里？有没有大佬能指点下？</title>
+      <link>https://www.v2ex.com/t/1188160</link>
+      <guid>v2ex-1188160</guid>
+      <pubDate>Sun, 25 Jan 2026 06:05:00 GMT</pubDate>
+      <description>&lt;p&gt;我是 chatgpt, claude 和 gemini 的重度用户。很多朋友都跟我说，gemini 3 太强大了，但是我始终 get 不到强大在哪里。论编码能力，不如 opus ；论推理能力和丝滑的使用体验，不如 chatgpt5.2 。&lt;/p&gt;
+&lt;p&gt;所以，gemini 3 到底在哪个方向上遥遥领先了？&lt;/p&gt;
+&lt;p&gt;我常用的模型：
+Gemini 3 Pro （ Deepthink)
+ChatGPT 5.2 Think
+ClaudeCode Opus4.5/Sonnet4.5&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
