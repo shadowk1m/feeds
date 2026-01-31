@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 31 Jan 2026 05:33:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 06:25:54 GMT</lastBuildDate>
     <item>
       <title>L 站被爆出有盲水印</title>
       <link>https://www.v2ex.com/t/1189699</link>
@@ -13,6 +13,13 @@
       <description>&lt;p&gt;刷 X 看到 L 站被爆出加了盲水印，刚才试了下，截图调一下图片的对比度灰阶等，就能明显看到。&lt;/p&gt;
 &lt;p&gt;大家以后上网截图还是谨慎点，不要乱截违规信息，否则容易被定位到哦。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>飞牛 OS 疑似 0day 漏洞，许多用户设备遭到攻击，请尽快检查设备或暂停使用</title>
+      <link>https://www.v2ex.com/t/1189672</link>
+      <guid>v2ex-1189672</guid>
+      <pubDate>Fri, 30 Jan 2026 20:43:46 GMT</pubDate>
+      <description>起因：&lt;br /&gt;在近期使用飞牛时，发现会时不时的出现设备卡死、网络报错的情况，因为每天我都会通过飞牛去跑数据同步，所以没有关心这个问题，只以为是数据太多导致 FNOS 出现的什么莫名奇妙 Bug 。&lt;br /&gt;&lt;br /&gt;直到本周周五，我又出现了这个问题，于是就想去查询一下是什么起因。&lt;br /&gt;没想到，不查不知道，一查吓一跳，社区中许多人都出现了设备连接数异常、导致断网或无法连接飞牛服务器的情况。&lt;br /&gt;&lt;br /&gt;再一搜索，这居然是一个很普遍的问题！社区中有人已经分析出这是一个专门针对 FNOS 的恶意程序，即便我已经开启了 SSL 、2FA ，且密码为非弱密码的情况下，这个恶意程序仍然植入到了我的设备。&lt;br /&gt;&lt;br /&gt;根据一些大佬分析，飞牛疑似存在的 0day （路径穿越漏洞）可以在未授权的情况下可以访问整个 NAS 全部文件，包括系统的配置文件，这可能也是导致如上安全措施归零的主因之一。&lt;br /&gt;&lt;br /&gt;这种 T0 级别的重大问题居然被官方一句 “别走 http 明文方式访问设备” 一笔带过，没有任何安全预警。像我一样的普通用户如果不是注意到近期的设备异常，甚至根本不知道有这么一回事。&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/PCyiwB9.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/PCyiwB9.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这么大的一个技术团队，在出现这么大的安全事件后没有任何官方公告是什么用意？能不能有一个正面的态度？？？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;附一些官方社群的分析：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=53230&quot; rel=&quot;nofollow noopener&quot;&gt;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=53230&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=52580&quot; rel=&quot;nofollow noopener&quot;&gt;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=52580&lt;/a&gt;</description>
     </item>
     <item>
       <title>何为国漫？什么才算好作品？</title>
@@ -63,33 +70,11 @@
 </description>
     </item>
     <item>
-      <title>飞牛 OS 疑似 0day 漏洞，许多用户设备遭到攻击，请尽快检查设备或暂停使用</title>
-      <link>https://www.v2ex.com/t/1189672</link>
-      <guid>v2ex-1189672</guid>
-      <pubDate>Fri, 30 Jan 2026 20:43:46 GMT</pubDate>
-      <description>起因：&lt;br /&gt;在近期使用飞牛时，发现会时不时的出现设备卡死、网络报错的情况，因为每天我都会通过飞牛去跑数据同步，所以没有关心这个问题，只以为是数据太多导致 FNOS 出现的什么莫名奇妙 Bug 。&lt;br /&gt;&lt;br /&gt;直到本周周五，我又出现了这个问题，于是就想去查询一下是什么起因。&lt;br /&gt;没想到，不查不知道，一查吓一跳，社区中许多人都出现了设备连接数异常、导致断网或无法连接飞牛服务器的情况。&lt;br /&gt;&lt;br /&gt;再一搜索，这居然是一个很普遍的问题！社区中有人已经分析出这是一个专门针对 FNOS 的恶意程序，即便我已经开启了 SSL 、2FA ，且密码为非弱密码的情况下，这个恶意程序仍然植入到了我的设备。&lt;br /&gt;&lt;br /&gt;根据一些大佬分析，飞牛疑似存在的 0day （路径穿越漏洞）可以在未授权的情况下可以访问整个 NAS 全部文件，包括系统的配置文件，这可能也是导致如上安全措施归零的主因之一。&lt;br /&gt;&lt;br /&gt;这种 T0 级别的重大问题居然被官方一句 “别走 http 明文方式访问设备” 一笔带过，没有任何安全预警。像我一样的普通用户如果不是注意到近期的设备异常，甚至根本不知道有这么一回事。&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/PCyiwB9.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/PCyiwB9.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这么大的一个技术团队，在出现这么大的安全事件后没有任何官方公告是什么用意？能不能有一个正面的态度？？？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;附一些官方社群的分析：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=53230&quot; rel=&quot;nofollow noopener&quot;&gt;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=53230&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=52580&quot; rel=&quot;nofollow noopener&quot;&gt;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=52580&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>给那些嘲讽移民的朋友们：大部分移民跟你一样</title>
       <link>https://www.v2ex.com/t/1189530</link>
       <guid>v2ex-1189530</guid>
       <pubDate>Fri, 30 Jan 2026 06:33:43 GMT</pubDate>
       <description>大家都是找个城市努力安家落户上班过日子的普通人&lt;br /&gt;&lt;br /&gt;有的人选择去北京奋斗&lt;br /&gt;有的人选择去上海拼搏&lt;br /&gt;有的人选择去广州打拼&lt;br /&gt;有的人选择去深圳工作&lt;br /&gt;有的人选择杭州&lt;br /&gt;有的人选择东京&lt;br /&gt;有的人选择武汉&lt;br /&gt;有的人选择新加坡&lt;br /&gt;有的人选择成都&lt;br /&gt;有的人选择新西兰&lt;br /&gt;有的人选择西安&lt;br /&gt;有的人选择洛杉矶</description>
-    </item>
-    <item>
-      <title>肉眼可见的噪音贴越来越多了</title>
-      <link>https://www.v2ex.com/t/1189528</link>
-      <guid>v2ex-1189528</guid>
-      <pubDate>Fri, 30 Jan 2026 06:23:58 GMT</pubDate>
-      <description>&lt;p&gt;我在外租房这么多年，就没租到完全安静的房子。&lt;/p&gt;
-&lt;p&gt;以前在广州租的顶楼还好，到了深圳，这招不好用了，楼下的噪音也是清晰可见，尤其是关门声，整得和炸弹似的。不过总体还是要比楼上那种噪音好，毕竟没人会整天关门，但会整天走来走去。&lt;/p&gt;
-&lt;p&gt;在想以后如果买房，要买怎样的房子。&lt;/p&gt;
-&lt;p&gt;别墅肯定是买不起，以前不懂事户口迁到大城市现在也没法在老家盖房。&lt;/p&gt;
-&lt;p&gt;目前能想到的就是买顶楼复式或者一楼复式，我个人更倾向于一楼，主要是也怕吵到别人，至于外面的噪音，这个好解决，装隔音窗即可。&lt;/p&gt;
-&lt;p&gt;其它能想到的就是买隔音仓，不过总感觉占地方不像个家，或者做隔音装修，这个感觉不太靠谱也费钱。&lt;/p&gt;
-&lt;p&gt;不知道各位还有没有更好的办法，主要还是穷啊。&lt;/p&gt;
-&lt;p&gt;想不到睡个安静的好觉是如此困难，这在 21 世纪真的是一件让人意外的事。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>19 款的 inter 还能战几年</title>
@@ -111,29 +96,264 @@ Intel UHD Graphics 630 1536 MB
       <description>LoRA AI - AI Image Generator - Create Stunning Images with LoRA Models | AI 图片生成器&lt;br /&gt;Powerful LoRA AI Image Generation Tools&lt;br /&gt;&lt;br /&gt;Experience the future of digital art creation with our cutting-edge LoRA AI tools. Generate stunning images in seconds with advanced AI technology.&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://loraai.me/&quot; rel=&quot;nofollow noopener&quot;&gt;https://loraai.me/&lt;/a&gt;</description>
     </item>
     <item>
-      <title>moltbot(clawdbot) 使用场景</title>
-      <link>https://www.v2ex.com/t/1189522</link>
-      <guid>v2ex-1189522</guid>
-      <pubDate>Fri, 30 Jan 2026 05:55:52 GMT</pubDate>
-      <description>&lt;p&gt;刷到这个玩意儿，好像都称 私人 “贾维斯”。但是大部分国内的感觉都是在卖服务器，网课啥的。&lt;/p&gt;
-&lt;p&gt;部署了一下。&lt;/p&gt;
-&lt;p&gt;我觉得有用的就是，给我盯着金价，不像以前写脚本调 api 通知，现在可以互动，金价多少通知我一下之类的。&lt;/p&gt;
-&lt;p&gt;还有盯机票也还可以。&lt;/p&gt;
-&lt;p&gt;其他还有什么使用场景么，写代码还是自己搞定，本地 ide cusror antigravity 好点。&lt;/p&gt;
-&lt;p&gt;对接类似米家 api ，家电再智能化一点？感觉这东西的场景很少，背后也是依赖大模型，本地感觉能做的事情很少。&lt;/p&gt;
-&lt;p&gt;有一点确实值得说，就是没有上下文概念了，数据永远在本地。这个比较关键。&lt;/p&gt;
+      <title>看了《为什么国漫进步这么明显，有人却还是认为出不了好作品？》，大部分人都认为国漫现在还是很垃圾，我却不这样认为</title>
+      <link>https://www.v2ex.com/t/1189694</link>
+      <guid>v2ex-1189694</guid>
+      <pubDate>Sat, 31 Jan 2026 01:31:24 GMT</pubDate>
+      <description>&lt;p&gt;我开了腾讯视频，优酷（ 88 会员送的），bilibili 会员，就是为了看国漫。
+日漫我看的不多，主要是龙珠、罪恶王冠、四驱、小当家之类的还有一些其他的不太记得名字了。大家可能看习惯了日漫，所以对国漫 3D 看不来，但实际上国漫已经很多人在看了。
+关于出圈的问题，我认为《斗罗大陆》或许是出圈最大的，特别是在小孩在圈子里面。你可以说三少什么，但是不能否认他搞商业化确实有一套。
+我认为其实是小时候的经历，影响了后面的口味。大学的室友从小看日漫，他就看不上国漫 3D 。我小时候看日漫不多，所以就更喜欢国产 3D 动漫。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>现在 vibe coding 的人多不多？</title>
-      <link>https://www.v2ex.com/t/1189526</link>
-      <guid>v2ex-1189526</guid>
-      <pubDate>Fri, 30 Jan 2026 06:16:38 GMT</pubDate>
-      <description>&lt;ol&gt;
-&lt;li&gt;搜索引擎 OR 编辑器集成？&lt;/li&gt;
-&lt;li&gt;免费 OR 收费？&lt;/li&gt;
+      <title>我真的要放弃 Vue，改用 React 了</title>
+      <link>https://www.v2ex.com/t/1189625</link>
+      <guid>v2ex-1189625</guid>
+      <pubDate>Fri, 30 Jan 2026 11:40:31 GMT</pubDate>
+      <description>&lt;p&gt;因为 AI 已经彻底改变了我写代码、做产品的方式。&lt;/p&gt;
+&lt;p&gt;举个最近非常真实的例子：
+我用 AI &lt;strong&gt;从收集资料、买域名、写代码，到上线一个可访问的网站，全程不到 1 个小时&lt;/strong&gt;。 &lt;a href=&quot;https://openclawai.net/&quot; rel=&quot;nofollow&quot;&gt;https://openclawai.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这个速度，说实话，用 Vue 是几乎做不到的，而且我更加熟悉 vue 。&lt;/p&gt;
+&lt;p&gt;不是 Vue 不好，而是：各个平台默认输出的就是 react ，如果迁移到 vue 需要很多额外的 token&lt;/p&gt;
+&lt;p&gt;而用 AI 写 React：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JSX + 函数组件，AI 命中率非常高&lt;/li&gt;
+&lt;li&gt;一次生成可运行的概率明显更大&lt;/li&gt;
+&lt;li&gt;重构、拆组件、补逻辑几乎是“指哪打哪”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;更关键的一点是：
+&lt;strong&gt;我对 React 其实并不算熟。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但这件事已经不再重要了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>如果有这样一个跨平台文件传输工具，你会买单吗（预发布）</title>
+      <link>https://www.v2ex.com/t/1189533</link>
+      <guid>v2ex-1189533</guid>
+      <pubDate>Fri, 30 Jan 2026 06:40:49 GMT</pubDate>
+      <description>&lt;h1&gt;如果有这样一个跨平台文件传输工具，你会买单吗（预发布）&lt;/h1&gt;
+&lt;p&gt;如果你和我一样，长期在 &lt;strong&gt;Mac 和 Windows 之间来回切换&lt;/strong&gt;，&lt;br/&gt;
+那你大概率也对一件事感到不满过——&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;跨设备传文件。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;为什么我要做这件事？&lt;/h2&gt;
+&lt;p&gt;在同一台电脑上，我们早就形成了肌肉记忆：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;右键 → 复制  &lt;/li&gt;
+&lt;li&gt;右键 → 粘贴  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这是系统能力，不需要思考。&lt;/p&gt;
+&lt;p&gt;但一旦跨设备，这个体验就彻底断裂了。&lt;/p&gt;
+&lt;p&gt;你需要：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;打开微信 / QQ / 飞书  &lt;/li&gt;
+&lt;li&gt;或者打开云盘  &lt;/li&gt;
+&lt;li&gt;拖文件、上传  &lt;/li&gt;
+&lt;li&gt;切到另一台电脑  &lt;/li&gt;
+&lt;li&gt;下载、找路径  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;步骤本身不复杂，&lt;strong&gt;真正的问题是：&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;每一步都在打断正在进行的事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;而我想做的，只是把这件事&lt;strong&gt;还原到它本来该有的样子&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;我理想中的跨平台文件传输&lt;/h2&gt;
+&lt;p&gt;它应该简单到你几乎感觉不到它的存在。&lt;/p&gt;
+&lt;h3&gt;只保留两件事&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mac：右键 → 复制文件&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Windows：右键 → 粘贴文件&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;文件立刻出现。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不打开任何 App  &lt;/li&gt;
+&lt;li&gt;不切换窗口  &lt;/li&gt;
+&lt;li&gt;不需要理解“我现在是在上传还是下载”  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;就像你只是把文件&lt;br/&gt;
+从一个地方，粘贴到了另一个地方。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;设计原则&lt;/h2&gt;
+&lt;p&gt;我把所有设计决策，压缩成了一句话：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;不要让用户意识到「我在传文件」&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这意味着：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;❌ 没有主窗口  &lt;/li&gt;
+&lt;li&gt;❌ 没有文件列表  &lt;/li&gt;
+&lt;li&gt;❌ 没有必须进入的 App  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;它应该是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用的时候出现  &lt;/li&gt;
+&lt;li&gt;不用的时候消失  &lt;/li&gt;
+&lt;li&gt;像系统自带的一项能力  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;市面上常见方案，为什么都不太对？&lt;/h2&gt;
+&lt;h3&gt;云盘 / 网盘&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;功能强大  &lt;/li&gt;
+&lt;li&gt;但需要打开 App 或网页  &lt;/li&gt;
+&lt;li&gt;有目录、历史和管理负担  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 更像是存储工具，而不是工作流的一部分。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;即时通讯工具（微信 / QQ / 飞书）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;方便  &lt;/li&gt;
+&lt;li&gt;但文件混在聊天记录里  &lt;/li&gt;
+&lt;li&gt;有隐私和整理成本  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 是社交工具顺便能传文件。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;Snapdrop / Web 类方案&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;理念很好  &lt;/li&gt;
+&lt;li&gt;但需要双方同时打开网页  &lt;/li&gt;
+&lt;li&gt;稳定性和可预期性不足  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 更像技巧，而不是系统能力。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;LocalSend （最接近的方案，我目前使用的产品）&lt;/h3&gt;
+&lt;p&gt;LocalSend 是一个优秀的工具：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;免费、开源  &lt;/li&gt;
+&lt;li&gt;跨平台  &lt;/li&gt;
+&lt;li&gt;局域网直连，速度快  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但它的核心问题在于：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;它仍然是一个「 App 视角」的文件传输工具&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;你需要打开它、选择设备、确认发送状态。&lt;br/&gt;
+而我想做的不是“更好用的传文件 App”，&lt;br/&gt;
+而是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;把跨设备传文件，降级成一次普通的复制 / 粘贴。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h2&gt;这个工具是什么（以及不是什么）&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;它不是：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一个云盘  &lt;/li&gt;
+&lt;li&gt;一个聊天工具  &lt;/li&gt;
+&lt;li&gt;一个需要你进入操作的 App  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;它是：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Finder / 资源管理器右键菜单里的两项能力  &lt;/li&gt;
+&lt;li&gt;剪贴板语义的跨设备延伸  &lt;/li&gt;
+&lt;li&gt;一个不打断心流的基础设施型工具  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;账户与存在感&lt;/h2&gt;
+&lt;p&gt;可能会有账户，但它的存在感应该是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第一次使用时登录一次  &lt;/li&gt;
+&lt;li&gt;之后几乎感觉不到  &lt;/li&gt;
+&lt;li&gt;不频繁掉线、不反复确认  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;账户只做一件事：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;让多台设备知道——这是同一个人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h2&gt;早鸟支持计划&lt;/h2&gt;
+&lt;p&gt;这是一次&lt;strong&gt;早期支持计划&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;目前这个工具仍处于调研设计阶段，我希望通过一小部分真实用户的支持，来启动开发，并在过程中持续打磨体验。&lt;/p&gt;
+&lt;h3&gt;💡 早鸟支持价&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;15 元 / 买断&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+包含：&lt;ul&gt;
+&lt;li&gt;第一版所有功能&lt;/li&gt;
+&lt;li&gt;以及 &lt;strong&gt;后续两年内的更新&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;支持条件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;当早鸟支持人数达到 &lt;strong&gt;20 人&lt;/strong&gt; 时，正式启动开发  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;30 天内交付首个可用版本（ Preview ）&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;支付方式（微信）&lt;/h2&gt;
+&lt;p&gt;本阶段采用 &lt;strong&gt;微信转账&lt;/strong&gt; 的方式进行早鸟支持。&lt;/p&gt;
+&lt;h3&gt;参与步骤&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;先添加我的个人微信&lt;/strong&gt;（备注：文件传输）&lt;/li&gt;
+&lt;li&gt;有不清晰的产品细节或者想要的产品效果，欢迎咨询建议&lt;/li&gt;
+&lt;li&gt;确认你了解后，再进行 &lt;strong&gt;15 元早鸟支持&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;支付完成后，邀请你进入早鸟支持群&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;现在招聘很多要求会用 AI 编程，我不太明白，这是指什么？如果公司不采购大模型，难道要自己花钱去提升工作效率吗？&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;微信二维码&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://nflcfyevwtcezewafnzp.supabase.co/storage/v1/object/public/qrcodes/wechat_image_300.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;退款说明（请一定阅读）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;若 &lt;strong&gt;早鸟人数未达到 20 人&lt;/strong&gt;，不会启动开发，&lt;strong&gt;全额退款&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;若开发过程中我 &lt;strong&gt;无法继续推进或无法交付&lt;/strong&gt;，&lt;strong&gt;全额退款&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;若你在过程中觉得产品方向不适合自己，&lt;br/&gt;
+&lt;strong&gt;可随时提出，全额退款&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;退款不会设置门槛，也不需要理由。&lt;/p&gt;
+&lt;p&gt;这是一次基于信任的早期支持。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;支持后的完整流程&lt;/h2&gt;
+&lt;h3&gt;1️⃣ 支付完成&lt;/h3&gt;
+&lt;p&gt;你完成 15 元早鸟支持（微信）。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;2️⃣ 进入早鸟支持群&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;群成员均为早鸟支持者  &lt;/li&gt;
+&lt;li&gt;
+群内只做三件事：&lt;ul&gt;
+&lt;li&gt;同步开发进度&lt;/li&gt;
+&lt;li&gt;收集真实使用反馈&lt;/li&gt;
+&lt;li&gt;发布内测版本  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不闲聊、不营销。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;3️⃣ 开发与交付节奏（ 30 天）&lt;/h3&gt;
+&lt;p&gt;整体交付周期为 &lt;strong&gt;30 天左右&lt;/strong&gt;，期间会在早鸟群内进行阶段性同步。&lt;/p&gt;
+&lt;p&gt;同步方式为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在关键节点或可用进展出现时更新&lt;/li&gt;
+&lt;li&gt;同步以「已完成能力」为主，而非开发细节&lt;/li&gt;
+&lt;li&gt;保证信息透明，但不影响实际开发效率&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目标是在 30 天内交付第一个 &lt;strong&gt;可日常使用的 Preview 版本&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;4️⃣ 交付第一个可用版本（ Preview ）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mac ⇄ Windows  &lt;/li&gt;
+&lt;li&gt;离线使用（局域网）&lt;/li&gt;
+&lt;li&gt;右键「云复制 / 云粘贴」  &lt;/li&gt;
+&lt;li&gt;文件传输过程无主窗口、不打断心流  &lt;/li&gt;
+&lt;li&gt;可作为日常工具使用  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;之后根据反馈持续迭代。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;最后想说的话&lt;/h2&gt;
+&lt;p&gt;这不是一个“功能需求”，&lt;br/&gt;
+而是一个&lt;strong&gt;工作体验问题&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;如果你也希望：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;跨设备传文件像复制粘贴一样自然  &lt;/li&gt;
+&lt;li&gt;不被 App 和流程打断  &lt;/li&gt;
+&lt;li&gt;工具存在，但不喧宾夺主  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;那这个产品，大概也是为你准备的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;你只是在一台电脑上复制，&lt;br/&gt;
+在另一台电脑上粘贴。&lt;br/&gt;
+中间发生了什么，其实并不重要。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
   </channel>
