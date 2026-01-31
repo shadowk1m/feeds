@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 31 Jan 2026 08:51:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 09:17:59 GMT</lastBuildDate>
     <item>
       <title>L 站被爆出有盲水印</title>
       <link>https://www.v2ex.com/t/1189699</link>
@@ -20,46 +20,6 @@
       <guid>v2ex-1189672</guid>
       <pubDate>Fri, 30 Jan 2026 20:43:46 GMT</pubDate>
       <description>起因：&lt;br /&gt;在近期使用飞牛时，发现会时不时的出现设备卡死、网络报错的情况，因为每天我都会通过飞牛去跑数据同步，所以没有关心这个问题，只以为是数据太多导致 FNOS 出现的什么莫名奇妙 Bug 。&lt;br /&gt;&lt;br /&gt;直到本周周五，我又出现了这个问题，于是就想去查询一下是什么起因。&lt;br /&gt;没想到，不查不知道，一查吓一跳，社区中许多人都出现了设备连接数异常、导致断网或无法连接飞牛服务器的情况。&lt;br /&gt;&lt;br /&gt;再一搜索，这居然是一个很普遍的问题！社区中有人已经分析出这是一个专门针对 FNOS 的恶意程序，即便我已经开启了 SSL 、2FA ，且密码为非弱密码的情况下，这个恶意程序仍然植入到了我的设备。&lt;br /&gt;&lt;br /&gt;根据一些大佬分析，飞牛疑似存在的 0day （路径穿越漏洞）可以在未授权的情况下可以访问整个 NAS 全部文件，包括系统的配置文件，这可能也是导致如上安全措施归零的主因之一。&lt;br /&gt;&lt;br /&gt;这种 T0 级别的重大问题居然被官方一句 “别走 http 明文方式访问设备” 一笔带过，没有任何安全预警。像我一样的普通用户如果不是注意到近期的设备异常，甚至根本不知道有这么一回事。&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/PCyiwB9.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/PCyiwB9.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这么大的一个技术团队，在出现这么大的安全事件后没有任何官方公告是什么用意？能不能有一个正面的态度？？？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;附一些官方社群的分析：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=53230&quot; rel=&quot;nofollow noopener&quot;&gt;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=53230&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=52580&quot; rel=&quot;nofollow noopener&quot;&gt;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=52580&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>何为国漫？什么才算好作品？</title>
-      <link>https://www.v2ex.com/t/1189589</link>
-      <guid>v2ex-1189589</guid>
-      <pubDate>Fri, 30 Jan 2026 09:06:49 GMT</pubDate>
-      <description>&lt;p&gt;漫画这个词，是舶来品。&lt;/p&gt;
-&lt;p&gt;以前有个词，小人书。诸位，看过《老夫子》吗？&lt;/p&gt;
-&lt;p&gt;90 年代的时候，学生看小人书，被老师发现，是要挨板子的。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;作为一个 80 后，我看过太多日本动画《聪明的一休》《六神合体》《龙神罗斗士》等等，&lt;/p&gt;
-&lt;p&gt;还有一堆美国动画《猫与老鼠》《希曼》《唐老鸭和米老鼠》等等。&lt;/p&gt;
-&lt;p&gt;那个时候还有，《舒克与贝塔》《邋遢大王》《葫芦娃》《黑猫警长》《阿凡提》等等。&lt;/p&gt;
-&lt;p&gt;连环画看过吗？《陈真》《精武门》《霍元甲》等等。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;漫画，这个东西，在文化历史面前，就是一坨，你懂得。&lt;/p&gt;
-&lt;p&gt;仅仅是商业催化的产物，用完即扔。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;有兴趣的人，可以去了解一下，日本动漫黄金时段的社会背景，是个什么情况。&lt;/strong&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;不可否认，动漫（动画+漫画）陪伴了许多 80 、90 ，甚至 00 很长一段时间。&lt;/p&gt;
-&lt;p&gt;每个时期，每个人能接触到的都不一样。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;现在成人了，再回过头去看日本动画和漫画，感觉是小儿科&lt;/p&gt;
-&lt;p&gt;有这个时间，还不如看看《剑来》《明朝那些事》&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;国内不缺乏好作品，只是没有那么大的驱动力去做。&lt;/p&gt;
-&lt;p&gt;如果你以为是吹牛，可以去了解一下，&lt;strong&gt;上海美术电影制片厂&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;那些还在使用繁体字的华人圈，比如香港。&lt;/p&gt;
-&lt;p&gt;香港也有属于他们自己的“港漫”&lt;/p&gt;
-&lt;p&gt;港漫，算国漫吗？&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;现在韩漫也蛮火的，你觉得条漫是发明创造吗？&lt;/p&gt;
-&lt;p&gt;《 XX 霸道总裁》《穿越 XX 》《我与 XX 约会》&lt;/p&gt;
-&lt;p&gt;这些糟粕未来谁还会记得？谁还会愿意提及？都是一些精神鸦片，难以启齿。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“有时候，自身接触少，才回有一些奇怪言论。”&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
     </item>
     <item>
       <title>看了《为什么国漫进步这么明显，有人却还是认为出不了好作品？》，大部分人都认为国漫现在还是很垃圾，我却不这样认为</title>
@@ -102,13 +62,6 @@
 </description>
     </item>
     <item>
-      <title>见证黄金和白银历史了，涨得时候创造记录，跌的时候同样是创造记录了</title>
-      <link>https://www.v2ex.com/t/1189678</link>
-      <guid>v2ex-1189678</guid>
-      <pubDate>Fri, 30 Jan 2026 22:25:50 GMT</pubDate>
-      <description>黄金单日暴跌 12%，创 1983 年以来最大单日跌幅，白银暴跌 35%，创下历史最大单日跌幅。</description>
-    </item>
-    <item>
       <title>2021 年，我在三里屯见过一个装置，它可以让你用手势控制屏幕上的粒子，今天我把这种体验复刻了出来</title>
       <link>https://www.v2ex.com/t/1189684</link>
       <guid>v2ex-1189684</guid>
@@ -120,6 +73,13 @@
 &lt;p&gt;体验地址 → &lt;a href=&quot;https://particle-sense.vercel.app/&quot; rel=&quot;nofollow&quot;&gt;https://particle-sense.vercel.app/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.cdn1.vip/i/697d4bf335281_1769819123.webp&quot;/&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>见证黄金和白银历史了，涨得时候创造记录，跌的时候同样是创造记录了</title>
+      <link>https://www.v2ex.com/t/1189678</link>
+      <guid>v2ex-1189678</guid>
+      <pubDate>Fri, 30 Jan 2026 22:25:50 GMT</pubDate>
+      <description>黄金单日暴跌 12%，创 1983 年以来最大单日跌幅，白银暴跌 35%，创下历史最大单日跌幅。</description>
     </item>
     <item>
       <title>Antigravity 开始大面积封号了</title>
@@ -137,6 +97,17 @@
       <description>&lt;p&gt;女朋友感冒已经好得 7788 了，还剩一些咳嗽和鼻涕，其他都正常
 然后我周五下班想出去打会球，就几个小时，晚上就会回来。
 但是女朋友觉得我一点都不关心她，这个时候都没有陪着她。想问一下是我的问题比较大吗&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>才发现摩托罗拉的手机这么好用啊。</title>
+      <link>https://www.v2ex.com/t/1189715</link>
+      <guid>v2ex-1189715</guid>
+      <pubDate>Sat, 31 Jan 2026 03:50:13 GMT</pubDate>
+      <description>&lt;p&gt;摩托罗拉真是手机界的一股清流
+决定以后都买摩托罗拉了，超级适合喜欢折腾的，BL 锁直接给解锁码
+官方还提供刷机救砖工具，什么系统都能装
+就算不折腾的，原装的系统也很干净，最重要的 myui 居然什么软件都能直接冻结，都不用自己费劲 root 去卸载。&lt;/p&gt;
 </description>
     </item>
   </channel>
