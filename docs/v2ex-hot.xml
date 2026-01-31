@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 31 Jan 2026 20:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 21:11:57 GMT</lastBuildDate>
     <item>
       <title>L 站被爆出有盲水印</title>
       <link>https://www.v2ex.com/t/1189699</link>
@@ -13,13 +13,6 @@
       <description>&lt;p&gt;刷 X 看到 L 站被爆出加了盲水印，刚才试了下，截图调一下图片的对比度灰阶等，就能明显看到。&lt;/p&gt;
 &lt;p&gt;大家以后上网截图还是谨慎点，不要乱截违规信息，否则容易被定位到哦。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>飞牛 OS 疑似 0day 漏洞，许多用户设备遭到攻击，请尽快检查设备或暂停使用</title>
-      <link>https://www.v2ex.com/t/1189672</link>
-      <guid>v2ex-1189672</guid>
-      <pubDate>Fri, 30 Jan 2026 20:43:46 GMT</pubDate>
-      <description>起因：&lt;br /&gt;在近期使用飞牛时，发现会时不时的出现设备卡死、网络报错的情况，因为每天我都会通过飞牛去跑数据同步，所以没有关心这个问题，只以为是数据太多导致 FNOS 出现的什么莫名奇妙 Bug 。&lt;br /&gt;&lt;br /&gt;直到本周周五，我又出现了这个问题，于是就想去查询一下是什么起因。&lt;br /&gt;没想到，不查不知道，一查吓一跳，社区中许多人都出现了设备连接数异常、导致断网或无法连接飞牛服务器的情况。&lt;br /&gt;&lt;br /&gt;再一搜索，这居然是一个很普遍的问题！社区中有人已经分析出这是一个专门针对 FNOS 的恶意程序，即便我已经开启了 SSL 、2FA ，且密码为非弱密码的情况下，这个恶意程序仍然植入到了我的设备。&lt;br /&gt;&lt;br /&gt;根据一些大佬分析，飞牛疑似存在的 0day （路径穿越漏洞）可以在未授权的情况下可以访问整个 NAS 全部文件，包括系统的配置文件，这可能也是导致如上安全措施归零的主因之一。&lt;br /&gt;&lt;br /&gt;这种 T0 级别的重大问题居然被官方一句 “别走 http 明文方式访问设备” 一笔带过，没有任何安全预警。像我一样的普通用户如果不是注意到近期的设备异常，甚至根本不知道有这么一回事。&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/PCyiwB9.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/PCyiwB9.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这么大的一个技术团队，在出现这么大的安全事件后没有任何官方公告是什么用意？能不能有一个正面的态度？？？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;附一些官方社群的分析：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=53230&quot; rel=&quot;nofollow noopener&quot;&gt;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=53230&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=52580&quot; rel=&quot;nofollow noopener&quot;&gt;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=52580&lt;/a&gt;</description>
     </item>
     <item>
       <title>看了《为什么国漫进步这么明显，有人却还是认为出不了好作品？》，大部分人都认为国漫现在还是很垃圾，我却不这样认为</title>
@@ -97,6 +90,15 @@
       <guid>v2ex-1189730</guid>
       <pubDate>Sat, 31 Jan 2026 06:02:34 GMT</pubDate>
       <description>历史上的三次工业革命，蒸汽机，电气，信息技术计算机。三次工业革命都推动了人类的快速发展，同时也创造了更大的生产价值，更多的生产信息，人类就业量也爆增。&lt;br /&gt;    现在的 AI 和机器人时代，是不是也算得上第四次工业革命开端？或者说如果人类有第四次工业革命，那一定是 AI ？未来的几十年，如果 AGI 到来和更实用的机器人制造，AI 能帮助人类解决大部分的复杂问题，但同时可能就业量会被急剧的压缩，以后可能只是需要顶级的研究员继续研究，以及熟练使用 AI 和机器人的操作员。大部分的普通人都将面临无业可就？</description>
+    </item>
+    <item>
+      <title>昨天黄金和白银跌幅大家怎么看？</title>
+      <link>https://www.v2ex.com/t/1189733</link>
+      <guid>v2ex-1189733</guid>
+      <pubDate>Sat, 31 Jan 2026 06:26:51 GMT</pubDate>
+      <description>&lt;p&gt;我先说：积存金买了点 之前的利润几乎缩水殆尽。。。一天跌 1000 美元，我怀疑这就是黄毛和华尔街做的局，现在好了 赚的盆满钵满他们。什么技术性支撑 在昨天都是扯。&lt;/p&gt;
+&lt;p&gt;想问问大家，未来的走势（给自己一个不割肉离场的信心）&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
