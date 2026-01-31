@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 31 Jan 2026 22:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 22:45:24 GMT</lastBuildDate>
     <item>
       <title>L 站被爆出有盲水印</title>
       <link>https://www.v2ex.com/t/1189699</link>
@@ -68,13 +68,6 @@
 </description>
     </item>
     <item>
-      <title>见证黄金和白银历史了，涨得时候创造记录，跌的时候同样是创造记录了</title>
-      <link>https://www.v2ex.com/t/1189678</link>
-      <guid>v2ex-1189678</guid>
-      <pubDate>Fri, 30 Jan 2026 22:25:50 GMT</pubDate>
-      <description>黄金单日暴跌 12%，创 1983 年以来最大单日跌幅，白银暴跌 35%，创下历史最大单日跌幅。</description>
-    </item>
-    <item>
       <title>是我的问题还是女朋友的问题</title>
       <link>https://www.v2ex.com/t/1189731</link>
       <guid>v2ex-1189731</guid>
@@ -98,6 +91,25 @@
       <pubDate>Sat, 31 Jan 2026 06:26:51 GMT</pubDate>
       <description>&lt;p&gt;我先说：积存金买了点 之前的利润几乎缩水殆尽。。。一天跌 1000 美元，我怀疑这就是黄毛和华尔街做的局，现在好了 赚的盆满钵满他们。什么技术性支撑 在昨天都是扯。&lt;/p&gt;
 &lt;p&gt;想问问大家，未来的走势（给自己一个不割肉离场的信心）&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>antigravity 中的模型清单列表都是骗人的， gemini 3 pro 实际是 Gemini 2.0 Flash， claude Opus 4.5 实际是 Claude 3.5 Sonnet</title>
+      <link>https://www.v2ex.com/t/1189704</link>
+      <guid>v2ex-1189704</guid>
+      <pubDate>Sat, 31 Jan 2026 02:44:25 GMT</pubDate>
+      <description>&lt;p&gt;实操：使用 gemini 3 pro(high)
+问题：你现在思考用的是哪个模型？
+回答：我现在用于思考和回答您问题的模型是 Google Gemini 2.0 Flash （ Thinking process is powered by Gemini 2.0 Flash ）。&lt;/p&gt;
+&lt;p&gt;实操：使用 gemini 3 flash
+问题：现在是对话模式，你现在思考用的是哪个模型？
+回答：我现在用于思考和回答您问题的模型是 Google Gemini 2.0 Flash （ Thinking process is powered by Gemini 2.0 Flash ）。&lt;/p&gt;
+&lt;p&gt;实操：使用 claude Opus 4.5(Thinking)
+问题：你现在思考用的是哪个模型？
+我现在使用的模型是 Claude 3.5 Sonnet （由 Anthropic 开发）。
+刚才您切换了模型设置，因此我从 Gemini 2.0 Pro 切换到了 Claude 3.5 Sonnet 。&lt;/p&gt;
+&lt;p&gt;太垃圾了，活生生的欺骗，难怪越调 bug 越多。&lt;/p&gt;
+&lt;p&gt;发现场景，做了一个功能图片识别文字，我让他用 gemini-2.5-flash 模型，它一直反馈 Google Gemini 系列目前的最新 Flash 版本是 2.0 Flash Experimental (gemini-2.0-flash-exp)。我推测您提到的“2.5”可能是指代这个最新的 2.0 版本（目前尚无官方 2.5 发布）。&lt;/p&gt;
 </description>
     </item>
   </channel>
