@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 31 Jan 2026 04:56:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 05:33:25 GMT</lastBuildDate>
     <item>
       <title>L 站被爆出有盲水印</title>
       <link>https://www.v2ex.com/t/1189699</link>
@@ -63,19 +63,18 @@
 </description>
     </item>
     <item>
-      <title>准备换新 MacBook Air 了 纠结内存选择： 16G 还是 24G</title>
-      <link>https://www.v2ex.com/t/1189514</link>
-      <guid>v2ex-1189514</guid>
-      <pubDate>Fri, 30 Jan 2026 05:21:47 GMT</pubDate>
-      <description>&lt;p&gt;电脑用了快 5 年了 现在开浏览器都感觉卡卡的&lt;/p&gt;
-&lt;p&gt;硬盘 512G&lt;/p&gt;
-&lt;p&gt;目前纠结内存的选择：16G 还是 24G 希望这台电脑能用个 7-8 年吧&lt;/p&gt;
-&lt;p&gt;苹果的内存太贵了 跟金价一样&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;电脑使用场景：&lt;/p&gt;
-&lt;p&gt;偶尔写写 PPT 和 代码（前端和后端）&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/3MAGEZS.png&quot;/&gt;&lt;/p&gt;
-</description>
+      <title>飞牛 OS 疑似 0day 漏洞，许多用户设备遭到攻击，请尽快检查设备或暂停使用</title>
+      <link>https://www.v2ex.com/t/1189672</link>
+      <guid>v2ex-1189672</guid>
+      <pubDate>Fri, 30 Jan 2026 20:43:46 GMT</pubDate>
+      <description>起因：&lt;br /&gt;在近期使用飞牛时，发现会时不时的出现设备卡死、网络报错的情况，因为每天我都会通过飞牛去跑数据同步，所以没有关心这个问题，只以为是数据太多导致 FNOS 出现的什么莫名奇妙 Bug 。&lt;br /&gt;&lt;br /&gt;直到本周周五，我又出现了这个问题，于是就想去查询一下是什么起因。&lt;br /&gt;没想到，不查不知道，一查吓一跳，社区中许多人都出现了设备连接数异常、导致断网或无法连接飞牛服务器的情况。&lt;br /&gt;&lt;br /&gt;再一搜索，这居然是一个很普遍的问题！社区中有人已经分析出这是一个专门针对 FNOS 的恶意程序，即便我已经开启了 SSL 、2FA ，且密码为非弱密码的情况下，这个恶意程序仍然植入到了我的设备。&lt;br /&gt;&lt;br /&gt;根据一些大佬分析，飞牛疑似存在的 0day （路径穿越漏洞）可以在未授权的情况下可以访问整个 NAS 全部文件，包括系统的配置文件，这可能也是导致如上安全措施归零的主因之一。&lt;br /&gt;&lt;br /&gt;这种 T0 级别的重大问题居然被官方一句 “别走 http 明文方式访问设备” 一笔带过，没有任何安全预警。像我一样的普通用户如果不是注意到近期的设备异常，甚至根本不知道有这么一回事。&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/PCyiwB9.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/PCyiwB9.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这么大的一个技术团队，在出现这么大的安全事件后没有任何官方公告是什么用意？能不能有一个正面的态度？？？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;附一些官方社群的分析：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=53230&quot; rel=&quot;nofollow noopener&quot;&gt;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=53230&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=52580&quot; rel=&quot;nofollow noopener&quot;&gt;https://club.fnnas.com/forum.php?mod=viewthread&amp;amp;tid=52580&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>给那些嘲讽移民的朋友们：大部分移民跟你一样</title>
+      <link>https://www.v2ex.com/t/1189530</link>
+      <guid>v2ex-1189530</guid>
+      <pubDate>Fri, 30 Jan 2026 06:33:43 GMT</pubDate>
+      <description>大家都是找个城市努力安家落户上班过日子的普通人&lt;br /&gt;&lt;br /&gt;有的人选择去北京奋斗&lt;br /&gt;有的人选择去上海拼搏&lt;br /&gt;有的人选择去广州打拼&lt;br /&gt;有的人选择去深圳工作&lt;br /&gt;有的人选择杭州&lt;br /&gt;有的人选择东京&lt;br /&gt;有的人选择武汉&lt;br /&gt;有的人选择新加坡&lt;br /&gt;有的人选择成都&lt;br /&gt;有的人选择新西兰&lt;br /&gt;有的人选择西安&lt;br /&gt;有的人选择洛杉矶</description>
     </item>
     <item>
       <title>肉眼可见的噪音贴越来越多了</title>
@@ -103,13 +102,6 @@ Intel UHD Graphics 630 1536 MB
 32 GB 2667 MHz DDR4&lt;/p&gt;
 &lt;p&gt;现在用 cursor 电脑会特别卡&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>给那些嘲讽移民的朋友们：大部分移民跟你一样</title>
-      <link>https://www.v2ex.com/t/1189530</link>
-      <guid>v2ex-1189530</guid>
-      <pubDate>Fri, 30 Jan 2026 06:33:43 GMT</pubDate>
-      <description>大家都是找个城市努力安家落户上班过日子的普通人&lt;br /&gt;&lt;br /&gt;有的人选择去北京奋斗&lt;br /&gt;有的人选择去上海拼搏&lt;br /&gt;有的人选择去广州打拼&lt;br /&gt;有的人选择去深圳工作&lt;br /&gt;有的人选择杭州&lt;br /&gt;有的人选择东京&lt;br /&gt;有的人选择武汉&lt;br /&gt;有的人选择新加坡&lt;br /&gt;有的人选择成都&lt;br /&gt;有的人选择新西兰&lt;br /&gt;有的人选择西安&lt;br /&gt;有的人选择洛杉矶</description>
     </item>
     <item>
       <title>都说做网站赚钱，真的吗？做了一年，终于有一点点的收入了，这个站，真不容易容易容易。。。。</title>
