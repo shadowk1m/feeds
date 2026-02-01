@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Feb 2026 05:40:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 06:36:55 GMT</lastBuildDate>
     <item>
       <title>飞牛 NAS 的信任危机， 0Day 漏洞导致用户 NAS 及网盘文件全面泄露，官方装死</title>
       <link>https://www.v2ex.com/t/1189822</link>
@@ -36,15 +36,6 @@
 </description>
     </item>
     <item>
-      <title>昨天黄金和白银跌幅大家怎么看？</title>
-      <link>https://www.v2ex.com/t/1189733</link>
-      <guid>v2ex-1189733</guid>
-      <pubDate>Sat, 31 Jan 2026 06:26:51 GMT</pubDate>
-      <description>&lt;p&gt;我先说：积存金买了点 之前的利润几乎缩水殆尽。。。一天跌 1000 美元，我怀疑这就是黄毛和华尔街做的局，现在好了 赚的盆满钵满他们。什么技术性支撑 在昨天都是扯。&lt;/p&gt;
-&lt;p&gt;想问问大家，未来的走势（给自己一个不割肉离场的信心）&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>没想明白，现在小朋友学新技术起手式是在 B 站搜索看视频？</title>
       <link>https://www.v2ex.com/t/1189844</link>
       <guid>v2ex-1189844</guid>
@@ -54,21 +45,11 @@
 </description>
     </item>
     <item>
-      <title>我们是不是处于第四次工业（科技）革命中。</title>
-      <link>https://www.v2ex.com/t/1189730</link>
-      <guid>v2ex-1189730</guid>
-      <pubDate>Sat, 31 Jan 2026 06:02:34 GMT</pubDate>
-      <description>历史上的三次工业革命，蒸汽机，电气，信息技术计算机。三次工业革命都推动了人类的快速发展，同时也创造了更大的生产价值，更多的生产信息，人类就业量也爆增。&lt;br /&gt;    现在的 AI 和机器人时代，是不是也算得上第四次工业革命开端？或者说如果人类有第四次工业革命，那一定是 AI ？未来的几十年，如果 AGI 到来和更实用的机器人制造，AI 能帮助人类解决大部分的复杂问题，但同时可能就业量会被急剧的压缩，以后可能只是需要顶级的研究员继续研究，以及熟练使用 AI 和机器人的操作员。大部分的普通人都将面临无业可就？</description>
-    </item>
-    <item>
-      <title>是我的问题还是女朋友的问题</title>
-      <link>https://www.v2ex.com/t/1189731</link>
-      <guid>v2ex-1189731</guid>
-      <pubDate>Sat, 31 Jan 2026 06:04:43 GMT</pubDate>
-      <description>&lt;p&gt;女朋友感冒已经好得 7788 了，还剩一些咳嗽和鼻涕，其他都正常
-然后我周五下班想出去打会球，就几个小时，晚上就会回来。
-但是女朋友觉得我一点都不关心她，这个时候都没有陪着她。想问一下是我的问题比较大吗&lt;/p&gt;
-</description>
+      <title>飞牛 fnOS 发布重要安全更新通知，并提醒用户更新至 1.1.18 最新版本</title>
+      <link>https://www.v2ex.com/t/1189827</link>
+      <guid>v2ex-1189827</guid>
+      <pubDate>Sat, 31 Jan 2026 21:05:40 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/w3bGeRq.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/w3bGeRq.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;通篇文章依旧嘴硬不谈大面积被挂马的问题，用户都被挂完马了，最后只发了个更新补丁出来。&lt;br /&gt;&lt;br /&gt;最搞笑的是，如果你的设备已经感染木马，你是无法更新到最新的 1.1.18 版本的。直到这个公告发出，官方甚至都没给出一个像样的查杀补丁或者工具，目前所有操作都需要用户发挥动手能力，自己找木马或者查杀脚本，直接切割所有被挂马用户。&lt;br /&gt;&lt;br /&gt;如果真如官方所说的，在过去一周对木马样本进行了深度分析，解决方案在哪里？</description>
     </item>
     <item>
       <title>昨天在 reddit 上发了个开源插件介绍，被骂了。</title>
@@ -101,13 +82,6 @@
 </description>
     </item>
     <item>
-      <title>飞牛 fnOS 发布重要安全更新通知，并提醒用户更新至 1.1.18 最新版本</title>
-      <link>https://www.v2ex.com/t/1189827</link>
-      <guid>v2ex-1189827</guid>
-      <pubDate>Sat, 31 Jan 2026 21:05:40 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/w3bGeRq.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/w3bGeRq.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;通篇文章依旧嘴硬不谈大面积被挂马的问题，用户都被挂完马了，最后只发了个更新补丁出来。&lt;br /&gt;&lt;br /&gt;最搞笑的是，如果你的设备已经感染木马，你是无法更新到最新的 1.1.18 版本的。直到这个公告发出，官方甚至都没给出一个像样的查杀补丁或者工具，目前所有操作都需要用户发挥动手能力，自己找木马或者查杀脚本，直接切割所有被挂马用户。&lt;br /&gt;&lt;br /&gt;如果真如官方所说的，在过去一周对木马样本进行了深度分析，解决方案在哪里？</description>
-    </item>
-    <item>
       <title>为什么这么多人用飞牛 NAS，有什么优势吗</title>
       <link>https://www.v2ex.com/t/1189823</link>
       <guid>v2ex-1189823</guid>
@@ -126,6 +100,26 @@ Syncthing
       <guid>v2ex-1189806</guid>
       <pubDate>Sat, 31 Jan 2026 15:11:29 GMT</pubDate>
       <description>打开 FN Connect 随便输入一个 id ，只要撞上了能打开登录页，加上&lt;br /&gt;&lt;br /&gt;/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../&lt;br /&gt;&lt;br /&gt;直接就到 /了啊&lt;br /&gt;&lt;br /&gt;太离谱了</description>
+    </item>
+    <item>
+      <title>M3 Max (16+40)/64G/2T 跟 M5 (10+10)/32G/1T 的选择</title>
+      <link>https://www.v2ex.com/t/1189776</link>
+      <guid>v2ex-1189776</guid>
+      <pubDate>Sat, 31 Jan 2026 11:21:23 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;M3 Max (16+40)/64G/2T 摩集电商 16650&lt;/li&gt;
+&lt;li&gt;M5 (10+10)/32G/1T PDD 15199&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;都是 14 寸（ 16 寸太大了，暂不考虑）&lt;/p&gt;
+&lt;p&gt;全栈开发，大家会倾向于选哪个？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>某东就是这样招人的吗？</title>
+      <link>https://www.v2ex.com/t/1189808</link>
+      <guid>v2ex-1189808</guid>
+      <pubDate>Sat, 31 Jan 2026 15:15:57 GMT</pubDate>
+      <description>贴主最近投了某东一个岗位信息 20k*19 的岗位，面完谈薪，给了个 10k ，一顿说 19 薪，我真后悔把自己薪资啥的信息给过去，HR 到底有没有这个权利在给 offer 之前套薪资信息套对方公司运作模式的信息？我甚至觉得这个都违法。拉了个 10k 在我手上😅一把直接好感败完了，狗东。</description>
     </item>
   </channel>
 </rss>
