@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Feb 2026 16:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 16:52:51 GMT</lastBuildDate>
     <item>
       <title>没想明白，现在小朋友学新技术起手式是在 B 站搜索看视频？</title>
       <link>https://www.v2ex.com/t/1189844</link>
@@ -57,18 +57,6 @@
       <guid>v2ex-1189827</guid>
       <pubDate>Sat, 31 Jan 2026 21:05:40 GMT</pubDate>
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/w3bGeRq.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/w3bGeRq.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;通篇文章依旧嘴硬不谈大面积被挂马的问题，用户都被挂完马了，最后只发了个更新补丁出来。&lt;br /&gt;&lt;br /&gt;最搞笑的是，如果你的设备已经感染木马，你是无法更新到最新的 1.1.18 版本的。直到这个公告发出，官方甚至都没给出一个像样的查杀补丁或者工具，目前所有操作都需要用户发挥动手能力，自己找木马或者查杀脚本，直接切割所有被挂马用户。&lt;br /&gt;&lt;br /&gt;如果真如官方所说的，在过去一周对木马样本进行了深度分析，解决方案在哪里？</description>
-    </item>
-    <item>
-      <title>[悬赏 5000 V2EX 币] 帮我家新成员西高地小狗狗起个好听的名字！</title>
-      <link>https://www.v2ex.com/t/1189813</link>
-      <guid>v2ex-1189813</guid>
-      <pubDate>Sat, 31 Jan 2026 16:35:45 GMT</pubDate>
-      <description>&lt;p&gt;大家好，家里最近迎来了一位超级可爱的西高地白梗小伙子。&lt;/p&gt;
-&lt;p&gt;目前还没想好叫什么名字，想请 V 友们帮帮忙。如果你有比较有创意、好听、好养活的名字，欢迎留言！&lt;/p&gt;
-&lt;p&gt;悬赏说明：
-如果最终采纳了你的创意，我会发送 5000 枚 V2EX 币作为谢礼。&lt;/p&gt;
-&lt;p&gt;期待大家的脑洞！&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>为什么这么多人用飞牛 NAS，有什么优势吗</title>
@@ -333,6 +321,14 @@ Syncthing
       <guid>v2ex-1189898</guid>
       <pubDate>Sun, 01 Feb 2026 06:19:24 GMT</pubDate>
       <description>&lt;p&gt;各位 V2EX 的大佬们好，本人马上干前端开发三年了，但是感觉前端的上限很低，现在公司大力推 ai ，后端开发的同事用 ai 也能维护前端项目了，感觉自己没啥竞争力，平时学习也是东一块西一块，一会儿 node ，一会儿 php 的，但是学着学着就因为工作用不到半途而废了。今年就 28 了，感觉自己真的竞争力不大，如果为了以后能有口饭吃还能学点啥&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>逃离飞牛，大佬们有没有数据迁移方案</title>
+      <link>https://www.v2ex.com/t/1189944</link>
+      <guid>v2ex-1189944</guid>
+      <pubDate>Sun, 01 Feb 2026 12:14:53 GMT</pubDate>
+      <description>&lt;p&gt;推送的最新版到处都是问题，官方还像死了一样，太恶心了&lt;/p&gt;
 </description>
     </item>
   </channel>
