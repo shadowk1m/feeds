@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Feb 2026 17:47:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 18:20:37 GMT</lastBuildDate>
     <item>
       <title>没想明白，现在小朋友学新技术起手式是在 B 站搜索看视频？</title>
       <link>https://www.v2ex.com/t/1189844</link>
@@ -12,36 +12,6 @@
       <pubDate>Sun, 01 Feb 2026 01:56:19 GMT</pubDate>
       <description>&lt;p&gt;最近教我弟学习编程，明年大四毕业，让他先自己研究一下怎么安装 Claude Code ，然后我看他起手式是到 B 站搜索教程？然后直接跳着看视频？&lt;/p&gt;
 &lt;p&gt;当年我怎么也是用百度搜索吧，直接看技术文章。现在直接用 google 了。但起手式都不是看视频。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>飞牛 NAS 的信任危机， 0Day 漏洞导致用户 NAS 及网盘文件全面泄露，官方装死</title>
-      <link>https://www.v2ex.com/t/1189822</link>
-      <guid>v2ex-1189822</guid>
-      <pubDate>Sat, 31 Jan 2026 17:57:39 GMT</pubDate>
-      <description>&lt;p&gt;8 年群晖正版老用户，今年做了个愚蠢的动作，出了用着极其稳定的群晖，换成 8 盘位飞牛，原因是系统开放，飞牛影视体验还不错。&lt;/p&gt;
-&lt;p&gt;昨天的 飞牛 0Day 事件之后，从各个社区、群获取到的信息看到了以下场面：&lt;/p&gt;
-&lt;h2&gt;官方处理态度&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;官方在极力掩饰，即使大量技术细节已被爆出的情况下，还在装死；&lt;/li&gt;
-&lt;li&gt;漏洞能够追溯到 0.9 ，且飞牛有能力来尽快通知用户的情况下，仍然未关闭 fn connect ，目前根据扫描情况推算，仍有超过 90%的用户停留在 1.1.15 之前的版本，所有数据被看光光；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;目前 0Day 导致的问题：&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;公开到外网，能够直接访问的飞牛 NAS ，如果没有更新到最新的 1.1.15 版本，通过路径穿越漏洞可以被入侵者用极低的成本拿到 NAS 中的所有文件；&lt;/li&gt;
-&lt;li&gt;即使没有公开到外网，fn connect 如果开启，依然能够通过官方 fn connect 来实现上面的入侵，隐私全面泄露。我尝试了一些常见的 name ，基本上全部成功看到了 NAS 中的照片、文件，甚至还看到了许多比特币钱包备份和恢复文件；&lt;/li&gt;
-&lt;li&gt;基于上面的漏洞能够获取到用于登陆 cookie 加密计算的私钥，随便让 AI 搞了下，可以搞定模拟登陆，进入到用户 NAS 并进行任意操作。目前看了被种马的都是通过这个路径~&lt;/li&gt;
-&lt;li&gt;大量隐私、配置文件泄露，即使亡羊补牢，仍然会有很多隐患。例如我翻到了一个用户自部署的 Bitwaden 服务端及密码导出文件 json;&lt;/li&gt;
-&lt;li&gt;很多飞牛用户挂载了网盘，通过这个漏洞可以直接访问已挂载的网盘文件~&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;决定&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;立即断网飞牛，并在以后完全不再尝试。不是不能接受漏洞问题，而是官方态度决定了这个产品的上限。&lt;/li&gt;
-&lt;li&gt;检查与隐私相关的其他服务，如果是来自于非知名厂商的产品，立即开始寻找替代品。&lt;/li&gt;
-&lt;li&gt;告知身边所有还在使用飞牛服务的朋友，立即放弃；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这应该是亲身经历的最大规模的一次普通人信息泄露了。最近几天应该有大量的黑灰产玩家在全网扫描，获取资源了。&lt;/p&gt;
-&lt;p&gt;这是第一次呼吁大家放弃一个本来我在支持的一个产品。希望未来有个开源的 NAS 替代来满足需要吧~&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -330,6 +300,13 @@ Syncthing
       <pubDate>Sun, 01 Feb 2026 12:14:53 GMT</pubDate>
       <description>&lt;p&gt;推送的最新版到处都是问题，官方还像死了一样，太恶心了&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>讨论关于 nas 的系统选择有没有好的建议</title>
+      <link>https://www.v2ex.com/t/1189958</link>
+      <guid>v2ex-1189958</guid>
+      <pubDate>Sun, 01 Feb 2026 13:40:42 GMT</pubDate>
+      <description>目前是在飞牛 os ，以前用过黑群晖，由于黑群晖的洗白经常要验证，飞牛出来之后就切换到飞牛了&lt;br /&gt;鉴于目前的情况，可能考虑后续继续进行系统迁移。所以想问一下大家有没有什么好的方案&lt;br /&gt;目前考虑的几种：&lt;br /&gt;1：继续维持飞牛，关闭直接的外部访问和 fn connect ，所有链接走 tailscale&lt;br /&gt;2：回到黑群晖&lt;br /&gt;3：pve 底层做存储和阵列，docker 部署 qb 等应用，虚拟机安装飞牛通过文件共享协议进行飞牛影视的刮削（因为家里人也用 nas 看电影和剧，所以相比 jellyfin 和 emby ，飞牛的影视 app 感觉更容易上手一点？）&lt;br /&gt;大家有没有其他好的方案推荐</description>
     </item>
   </channel>
 </rss>
