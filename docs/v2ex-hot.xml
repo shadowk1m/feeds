@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Feb 2026 19:42:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 20:14:23 GMT</lastBuildDate>
     <item>
       <title>没想明白，现在小朋友学新技术起手式是在 B 站搜索看视频？</title>
       <link>https://www.v2ex.com/t/1189844</link>
@@ -281,19 +281,19 @@
 </description>
     </item>
     <item>
+      <title>讨论关于 nas 的系统选择有没有好的建议</title>
+      <link>https://www.v2ex.com/t/1189958</link>
+      <guid>v2ex-1189958</guid>
+      <pubDate>Sun, 01 Feb 2026 13:40:42 GMT</pubDate>
+      <description>目前是在飞牛 os ，以前用过黑群晖，由于黑群晖的洗白经常要验证，飞牛出来之后就切换到飞牛了&lt;br /&gt;鉴于目前的情况，可能考虑后续继续进行系统迁移。所以想问一下大家有没有什么好的方案&lt;br /&gt;目前考虑的几种：&lt;br /&gt;1：继续维持飞牛，关闭直接的外部访问和 fn connect ，所有链接走 tailscale&lt;br /&gt;2：回到黑群晖&lt;br /&gt;3：pve 底层做存储和阵列，docker 部署 qb 等应用，虚拟机安装飞牛通过文件共享协议进行飞牛影视的刮削（因为家里人也用 nas 看电影和剧，所以相比 jellyfin 和 emby ，飞牛的影视 app 感觉更容易上手一点？）&lt;br /&gt;大家有没有其他好的方案推荐</description>
+    </item>
+    <item>
       <title>逃离飞牛，大佬们有没有数据迁移方案</title>
       <link>https://www.v2ex.com/t/1189944</link>
       <guid>v2ex-1189944</guid>
       <pubDate>Sun, 01 Feb 2026 12:14:53 GMT</pubDate>
       <description>&lt;p&gt;推送的最新版到处都是问题，官方还像死了一样，太恶心了&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>讨论关于 nas 的系统选择有没有好的建议</title>
-      <link>https://www.v2ex.com/t/1189958</link>
-      <guid>v2ex-1189958</guid>
-      <pubDate>Sun, 01 Feb 2026 13:40:42 GMT</pubDate>
-      <description>目前是在飞牛 os ，以前用过黑群晖，由于黑群晖的洗白经常要验证，飞牛出来之后就切换到飞牛了&lt;br /&gt;鉴于目前的情况，可能考虑后续继续进行系统迁移。所以想问一下大家有没有什么好的方案&lt;br /&gt;目前考虑的几种：&lt;br /&gt;1：继续维持飞牛，关闭直接的外部访问和 fn connect ，所有链接走 tailscale&lt;br /&gt;2：回到黑群晖&lt;br /&gt;3：pve 底层做存储和阵列，docker 部署 qb 等应用，虚拟机安装飞牛通过文件共享协议进行飞牛影视的刮削（因为家里人也用 nas 看电影和剧，所以相比 jellyfin 和 emby ，飞牛的影视 app 感觉更容易上手一点？）&lt;br /&gt;大家有没有其他好的方案推荐</description>
     </item>
   </channel>
 </rss>
