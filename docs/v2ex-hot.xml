@@ -4,16 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Feb 2026 11:13:50 GMT</lastBuildDate>
-    <item>
-      <title>没想明白，现在小朋友学新技术起手式是在 B 站搜索看视频？</title>
-      <link>https://www.v2ex.com/t/1189844</link>
-      <guid>v2ex-1189844</guid>
-      <pubDate>Sun, 01 Feb 2026 01:56:19 GMT</pubDate>
-      <description>&lt;p&gt;最近教我弟学习编程，明年大四毕业，让他先自己研究一下怎么安装 Claude Code ，然后我看他起手式是到 B 站搜索教程？然后直接跳着看视频？&lt;/p&gt;
-&lt;p&gt;当年我怎么也是用百度搜索吧，直接看技术文章。现在直接用 google 了。但起手式都不是看视频。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 01 Feb 2026 11:41:16 GMT</lastBuildDate>
     <item>
       <title>飞牛 NAS 的信任危机， 0Day 漏洞导致用户 NAS 及网盘文件全面泄露，官方装死</title>
       <link>https://www.v2ex.com/t/1189822</link>
@@ -42,6 +33,15 @@
 &lt;/ul&gt;
 &lt;p&gt;这应该是亲身经历的最大规模的一次普通人信息泄露了。最近几天应该有大量的黑灰产玩家在全网扫描，获取资源了。&lt;/p&gt;
 &lt;p&gt;这是第一次呼吁大家放弃一个本来我在支持的一个产品。希望未来有个开源的 NAS 替代来满足需要吧~&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>没想明白，现在小朋友学新技术起手式是在 B 站搜索看视频？</title>
+      <link>https://www.v2ex.com/t/1189844</link>
+      <guid>v2ex-1189844</guid>
+      <pubDate>Sun, 01 Feb 2026 01:56:19 GMT</pubDate>
+      <description>&lt;p&gt;最近教我弟学习编程，明年大四毕业，让他先自己研究一下怎么安装 Claude Code ，然后我看他起手式是到 B 站搜索教程？然后直接跳着看视频？&lt;/p&gt;
+&lt;p&gt;当年我怎么也是用百度搜索吧，直接看技术文章。现在直接用 google 了。但起手式都不是看视频。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -114,24 +114,18 @@ Syncthing
 </description>
     </item>
     <item>
-      <title>M3 Max (16+40)/64G/2T 跟 M5 (10+10)/32G/1T 的选择</title>
-      <link>https://www.v2ex.com/t/1189776</link>
-      <guid>v2ex-1189776</guid>
-      <pubDate>Sat, 31 Jan 2026 11:21:23 GMT</pubDate>
-      <description>&lt;ul&gt;
-&lt;li&gt;M3 Max (16+40)/64G/2T 摩集电商 16650&lt;/li&gt;
-&lt;li&gt;M5 (10+10)/32G/1T PDD 15199&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;都是 14 寸（ 16 寸太大了，暂不考虑）&lt;/p&gt;
-&lt;p&gt;全栈开发，大家会倾向于选哪个？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>飞牛这个漏洞 POC 太容易了啊</title>
       <link>https://www.v2ex.com/t/1189806</link>
       <guid>v2ex-1189806</guid>
       <pubDate>Sat, 31 Jan 2026 15:11:29 GMT</pubDate>
       <description>打开 FN Connect 随便输入一个 id ，只要撞上了能打开登录页，加上&lt;br /&gt;&lt;br /&gt;/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../&lt;br /&gt;&lt;br /&gt;直接就到 /了啊&lt;br /&gt;&lt;br /&gt;太离谱了</description>
+    </item>
+    <item>
+      <title>某东就是这样招人的吗？</title>
+      <link>https://www.v2ex.com/t/1189808</link>
+      <guid>v2ex-1189808</guid>
+      <pubDate>Sat, 31 Jan 2026 15:15:57 GMT</pubDate>
+      <description>贴主最近投了某东一个岗位信息 20k*19 的岗位，面完谈薪，给了个 10k ，一顿说 19 薪，我真后悔把自己薪资啥的信息给过去，HR 到底有没有这个权利在给 offer 之前套薪资信息套对方公司运作模式的信息？我甚至觉得这个都违法。拉了个 10k 在我手上😅一把直接好感败完了，狗东。</description>
     </item>
   </channel>
 </rss>
