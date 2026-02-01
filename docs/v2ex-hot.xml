@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Feb 2026 08:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 08:53:55 GMT</lastBuildDate>
     <item>
       <title>飞牛 NAS 的信任危机， 0Day 漏洞导致用户 NAS 及网盘文件全面泄露，官方装死</title>
       <link>https://www.v2ex.com/t/1189822</link>
@@ -82,19 +82,6 @@
 </description>
     </item>
     <item>
-      <title>为什么这么多人用飞牛 NAS，有什么优势吗</title>
-      <link>https://www.v2ex.com/t/1189823</link>
-      <guid>v2ex-1189823</guid>
-      <pubDate>Sat, 31 Jan 2026 18:26:55 GMT</pubDate>
-      <description>&lt;p&gt;感觉下面这些就够用了
-samba
-openlist
-Syncthing
-为什么非要用一个国产系统，宝塔面板的福报还历历在目，有什么很明确的优势吗
-（叠甲，并非歧视，只是我实在想不到为什么要用，不懂为什么在程序员社区也有这么多讨论的，感觉实际学习成本要大于上面这些）&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>小红书怎么找到一个曾经聊过天的账号？</title>
       <link>https://www.v2ex.com/t/1189840</link>
       <guid>v2ex-1189840</guid>
@@ -102,11 +89,16 @@ Syncthing
       <description>以前聊过天，想找到她的账号。知道 2021 年 4 月 4 号的时候有聊天，但是现在没有任何记录了，有互关过，后面不知道是取消互关还是她账号被封/注销了，没有其他信息。</description>
     </item>
     <item>
-      <title>飞牛这个漏洞 POC 太容易了啊</title>
-      <link>https://www.v2ex.com/t/1189806</link>
-      <guid>v2ex-1189806</guid>
-      <pubDate>Sat, 31 Jan 2026 15:11:29 GMT</pubDate>
-      <description>打开 FN Connect 随便输入一个 id ，只要撞上了能打开登录页，加上&lt;br /&gt;&lt;br /&gt;/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../&lt;br /&gt;&lt;br /&gt;直接就到 /了啊&lt;br /&gt;&lt;br /&gt;太离谱了</description>
+      <title>[悬赏 5000 V2EX 币] 帮我家新成员西高地小狗狗起个好听的名字！</title>
+      <link>https://www.v2ex.com/t/1189813</link>
+      <guid>v2ex-1189813</guid>
+      <pubDate>Sat, 31 Jan 2026 16:35:45 GMT</pubDate>
+      <description>&lt;p&gt;大家好，家里最近迎来了一位超级可爱的西高地白梗小伙子。&lt;/p&gt;
+&lt;p&gt;目前还没想好叫什么名字，想请 V 友们帮帮忙。如果你有比较有创意、好听、好养活的名字，欢迎留言！&lt;/p&gt;
+&lt;p&gt;悬赏说明：
+如果最终采纳了你的创意，我会发送 5000 枚 V2EX 币作为谢礼。&lt;/p&gt;
+&lt;p&gt;期待大家的脑洞！&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>M3 Max (16+40)/64G/2T 跟 M5 (10+10)/32G/1T 的选择</title>
@@ -122,15 +114,23 @@ Syncthing
 </description>
     </item>
     <item>
-      <title>[悬赏 5000 V2EX 币] 帮我家新成员西高地小狗狗起个好听的名字！</title>
-      <link>https://www.v2ex.com/t/1189813</link>
-      <guid>v2ex-1189813</guid>
-      <pubDate>Sat, 31 Jan 2026 16:35:45 GMT</pubDate>
-      <description>&lt;p&gt;大家好，家里最近迎来了一位超级可爱的西高地白梗小伙子。&lt;/p&gt;
-&lt;p&gt;目前还没想好叫什么名字，想请 V 友们帮帮忙。如果你有比较有创意、好听、好养活的名字，欢迎留言！&lt;/p&gt;
-&lt;p&gt;悬赏说明：
-如果最终采纳了你的创意，我会发送 5000 枚 V2EX 币作为谢礼。&lt;/p&gt;
-&lt;p&gt;期待大家的脑洞！&lt;/p&gt;
+      <title>飞牛这个漏洞 POC 太容易了啊</title>
+      <link>https://www.v2ex.com/t/1189806</link>
+      <guid>v2ex-1189806</guid>
+      <pubDate>Sat, 31 Jan 2026 15:11:29 GMT</pubDate>
+      <description>打开 FN Connect 随便输入一个 id ，只要撞上了能打开登录页，加上&lt;br /&gt;&lt;br /&gt;/app-center-static/serviceicon/myapp/%7B0%7D/?size=../../../../&lt;br /&gt;&lt;br /&gt;直接就到 /了啊&lt;br /&gt;&lt;br /&gt;太离谱了</description>
+    </item>
+    <item>
+      <title>为什么这么多人用飞牛 NAS，有什么优势吗</title>
+      <link>https://www.v2ex.com/t/1189823</link>
+      <guid>v2ex-1189823</guid>
+      <pubDate>Sat, 31 Jan 2026 18:26:55 GMT</pubDate>
+      <description>&lt;p&gt;感觉下面这些就够用了
+samba
+openlist
+Syncthing
+为什么非要用一个国产系统，宝塔面板的福报还历历在目，有什么很明确的优势吗
+（叠甲，并非歧视，只是我实在想不到为什么要用，不懂为什么在程序员社区也有这么多讨论的，感觉实际学习成本要大于上面这些）&lt;/p&gt;
 </description>
     </item>
   </channel>
