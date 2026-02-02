@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 02 Feb 2026 08:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 09:35:44 GMT</lastBuildDate>
     <item>
       <title>Claude Code, openai codex 送激活码 20 刀,外加 100 刀抽奖,V 友们年前开心的 Vibe Coding 吧～</title>
       <link>https://www.v2ex.com/t/1190025</link>
@@ -112,13 +112,6 @@
 </description>
     </item>
     <item>
-      <title>新加坡机场入境居然没有安检？</title>
-      <link>https://www.v2ex.com/t/1189964</link>
-      <guid>v2ex-1189964</guid>
-      <pubDate>Sun, 01 Feb 2026 14:20:30 GMT</pubDate>
-      <description>changyi 机场那么大 入境居然没有过安检而是直接刷护照自动出闸？还以为和国内一样坐个高铁都需要过 5 关斩六将害得我把没抽完的两包 luckies 提前丢了垃圾桶……&lt;br /&gt;当时本想回去翻垃圾桶把那两包烟掏出来，工作人员说不能再回去……尴尬</description>
-    </item>
-    <item>
       <title>关于听歌的鄙视链问题</title>
       <link>https://www.v2ex.com/t/1190041</link>
       <guid>v2ex-1190041</guid>
@@ -126,44 +119,241 @@
       <description>之前大学还没感受，老听同学说欧美的才是正经音乐，现在感觉国内的音乐风格越来越偏苦情歌，各种无痛呻吟。再听韩国的 k-pop ，感觉国内音乐连韩国都赶不上了。不知道大家有类似感受没。从娱乐到科技。咱们国内综合实力是不是一直都处于中等的位置、</description>
     </item>
     <item>
-      <title>讨论关于 nas 的系统选择有没有好的建议</title>
-      <link>https://www.v2ex.com/t/1189958</link>
-      <guid>v2ex-1189958</guid>
-      <pubDate>Sun, 01 Feb 2026 13:40:42 GMT</pubDate>
-      <description>目前是在飞牛 os ，以前用过黑群晖，由于黑群晖的洗白经常要验证，飞牛出来之后就切换到飞牛了&lt;br /&gt;鉴于目前的情况，可能考虑后续继续进行系统迁移。所以想问一下大家有没有什么好的方案&lt;br /&gt;目前考虑的几种：&lt;br /&gt;1：继续维持飞牛，关闭直接的外部访问和 fn connect ，所有链接走 tailscale&lt;br /&gt;2：回到黑群晖&lt;br /&gt;3：pve 底层做存储和阵列，docker 部署 qb 等应用，虚拟机安装飞牛通过文件共享协议进行飞牛影视的刮削（因为家里人也用 nas 看电影和剧，所以相比 jellyfin 和 emby ，飞牛的影视 app 感觉更容易上手一点？）&lt;br /&gt;大家有没有其他好的方案推荐</description>
+      <title>新加坡机场入境居然没有安检？</title>
+      <link>https://www.v2ex.com/t/1189964</link>
+      <guid>v2ex-1189964</guid>
+      <pubDate>Sun, 01 Feb 2026 14:20:30 GMT</pubDate>
+      <description>changyi 机场那么大 入境居然没有过安检而是直接刷护照自动出闸？还以为和国内一样坐个高铁都需要过 5 关斩六将害得我把没抽完的两包 luckies 提前丢了垃圾桶……&lt;br /&gt;当时本想回去翻垃圾桶把那两包烟掏出来，工作人员说不能再回去……尴尬</description>
     </item>
     <item>
-      <title>按 Ctrl 好累？我不是一个人吧</title>
-      <link>https://www.v2ex.com/t/1189930</link>
-      <guid>v2ex-1189930</guid>
-      <pubDate>Sun, 01 Feb 2026 10:17:14 GMT</pubDate>
-      <description>&lt;p&gt;不知道你们有没有这种体验——每天办公、写文档、写代码或者远程操作，左手小拇指按 Ctrl 的时候，酸、累、甚至有点痛。
-我最近就深深体会到了。&lt;/p&gt;
-&lt;p&gt;1️⃣ 键位太尴尬&lt;/p&gt;
-&lt;p&gt;笔记本/薄膜键盘：Ctrl 在左下角，小拇指必须伸到最角落&lt;/p&gt;
-&lt;p&gt;手腕不自然，长时间按容易疲劳&lt;/p&gt;
-&lt;p&gt;2️⃣ 按键行程和压力不合适&lt;/p&gt;
-&lt;p&gt;薄膜键盘压得硬、行程短 → 小拇指受力大&lt;/p&gt;
-&lt;p&gt;机械键盘如果轴体太硬也会累&lt;/p&gt;
-&lt;p&gt;3️⃣ Ctrl 使用频率太高&lt;/p&gt;
-&lt;p&gt;Ctrl+C 、Ctrl+V 、Ctrl+Z 、Ctrl+S……&lt;/p&gt;
-&lt;p&gt;一天按几十次甚至上百次，累成习惯前就开始受伤&lt;/p&gt;
-&lt;p&gt;请问大家有什么好的建议吗？&lt;/p&gt;
+      <title>opus 低至 0.005| 狂送 1.5w 刀 | Claude+Codex+gemini 一站式 api</title>
+      <link>https://www.v2ex.com/t/1190139</link>
+      <guid>v2ex-1190139</guid>
+      <pubDate>Mon, 02 Feb 2026 07:01:46 GMT</pubDate>
+      <description>&lt;p&gt;感谢各位老哥这几天的支持 🙏&lt;br/&gt;
+这几天的节奏，说实话有点 &lt;strong&gt;恍如隔世&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;项目最初，我们只有一个 &lt;strong&gt;Kiro 渠道&lt;/strong&gt;：&lt;br/&gt;
+倍率压到极限，&lt;strong&gt;单次收益只有 0.01&lt;/strong&gt;，目标也很明确 ——&lt;br/&gt;
+&lt;strong&gt;先把完整链路跑通、跑稳。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;到目前为止，我们已经完成了以下关键能力建设：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ &lt;strong&gt;多渠道 / 多备用架构&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;媲美官方的满血 Claude CC&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;全网独家 · Kiro 真缓存&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;低倍率、长期可用的价格模型&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Codex / Gemini 接入&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;完整 CCG 工作流闭环&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;p&gt;🌐 官网地址：&lt;a href=&quot;https://bytecatcode.org&quot; rel=&quot;nofollow&quot;&gt;https://bytecatcode.org&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;近期完成的工作&lt;/h2&gt;
+&lt;h3&gt;1️⃣ 基础设施迁移与网络优化&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;从 &lt;strong&gt;香港高延迟节点（灵车）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;迁移至 &lt;strong&gt;三网优化服务器&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;国内访问延迟：&lt;code&gt;~1800ms → ~140ms&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;稳定性与可用性始终是第一优先级&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h3&gt;2️⃣ Kiro 渠道深度优化&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;新增 &lt;strong&gt;真实缓存层&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;优化请求与调度链路&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;倍率直接压到成本边缘&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h3&gt;3️⃣ 多模型 / 多渠道接入&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+新增模型支持：&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Codex&lt;/strong&gt;&lt;br/&gt;
+请求地址：&lt;code&gt;&lt;a href=&quot;https://bytecatcode.org/v1&quot; rel=&quot;nofollow&quot;&gt;https://bytecatcode.org/v1&lt;/a&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gemini&lt;/strong&gt;&lt;br/&gt;
+请求地址：&lt;code&gt;&lt;a href=&quot;https://bytecatcode.org&quot; rel=&quot;nofollow&quot;&gt;https://bytecatcode.org&lt;/a&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;多通道冗余，避免单点失效&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h3&gt;4️⃣ 商业与系统能力补齐&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ 在线支付接入&lt;/li&gt;
+&lt;li&gt;✅ 自动用户分组&lt;/li&gt;
+&lt;li&gt;✅ 权限与资源隔离&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h3&gt;5️⃣ 服务体验优化&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;付费用户独立服务器&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;降低互相干扰&lt;/li&gt;
+&lt;li&gt;提升高峰期稳定性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这几天团队基本 &lt;strong&gt;每天睡眠 &amp;lt; 4h&lt;/strong&gt;&lt;br/&gt;
+把服务跑稳，是目前唯一目标&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h2&gt;项目初心&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;没有变化。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用尽可能低的价格，&lt;br/&gt;
+提供稳定、好用、长期可持续的 Claude 服务。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我们只关注三个关键词：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;稳定 / 便宜 / 好用&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h2&gt;当前可用渠道说明&lt;/h2&gt;
+&lt;h3&gt;🔹 Kiro&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ 真缓存&lt;/li&gt;
+&lt;li&gt;✅ 联网搜索&lt;/li&gt;
+&lt;li&gt;✅ 思考模式&lt;/li&gt;
+&lt;li&gt;💰 倍率：&lt;code&gt;0.25&lt;/code&gt;（开业期 &lt;code&gt;0.15&lt;/code&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h3&gt;🔹 AWS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ 缓存&lt;/li&gt;
+&lt;li&gt;✅ 联网搜索&lt;/li&gt;
+&lt;li&gt;✅ 思考模式&lt;/li&gt;
+&lt;li&gt;✅ 支持文件上传&lt;/li&gt;
+&lt;li&gt;💰 倍率：&lt;code&gt;0.4&lt;/code&gt;（开业期 &lt;code&gt;0.35&lt;/code&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h3&gt;🔹 Supper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ 极致缓存&lt;/li&gt;
+&lt;li&gt;⚡ 思考链路深度优化&lt;/li&gt;
+&lt;li&gt;⚡ &lt;strong&gt;效果对标官方满血 CC&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;💰 倍率：&lt;code&gt;0.5&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;近期遇到的问题&lt;/h2&gt;
+&lt;h3&gt;❌ 已踩过的坑&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;注册 / 邀请奖励被刷&lt;/li&gt;
+&lt;li&gt;DDoS 攻击&lt;/li&gt;
+&lt;li&gt;不稳定机房背刺&lt;/li&gt;
+&lt;li&gt;上游渠道涨价&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr/&gt;
+&lt;h3&gt;✅ 当前状态&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;问题已全部处理&lt;/li&gt;
+&lt;li&gt;风控与防护机制补齐&lt;/li&gt;
+&lt;li&gt;相关经验已沉淀到系统设计中&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;接下来的计划&lt;/h2&gt;
+&lt;h3&gt;🚀 近期 Roadmap&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;strong&gt;Claude 包月方案&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;降低使用心理成本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;官方满血 CC 上新&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;纯血 Max20&lt;/li&gt;
+&lt;li&gt;自建订阅号池&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;首充奖励机制&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;继续下探整体倍率&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr/&gt;
+&lt;h2&gt;当前福利活动&lt;/h2&gt;
+&lt;h3&gt;🎁 进行中&lt;/h3&gt;
+&lt;h4&gt;1️⃣ 免费 Kiro Key&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;QQ 群 &lt;strong&gt;全天发放&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;总额约 &lt;strong&gt;2000 美元&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;倍率：&lt;code&gt;0.15&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;≈ &lt;strong&gt;接近 2 万美元等效用量&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h4&gt;2️⃣ Kiro 缓存福利&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;缓存全天不计费&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;仅计算输入&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Haiku&lt;/code&gt;：&lt;strong&gt;完全免费&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Opus&lt;/code&gt;：&lt;strong&gt;低至 0.005 / 次&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h4&gt;3️⃣ V 站楼层抽奖&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;每满 &lt;strong&gt;50 楼&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;🎯 抽 &lt;strong&gt;2 位&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;💰 每人 &lt;strong&gt;50 美元&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;直接发放到账户&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h4&gt;4️⃣ Supper 渠道降价&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;倍率：&lt;code&gt;0.5 → 0.4&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;与 AWS 基本同价&lt;/li&gt;
+&lt;li&gt;提供更高质量 CC 体验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;用户权限说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+🆓 &lt;strong&gt;免费用户&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;可使用 &lt;code&gt;Kiro&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+💳 &lt;strong&gt;付费用户&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;
+可使用：&lt;ul&gt;
+&lt;li&gt;Supper&lt;/li&gt;
+&lt;li&gt;AWS&lt;/li&gt;
+&lt;li&gt;Codex&lt;/li&gt;
+&lt;li&gt;Gemini&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;最后说明&lt;/h2&gt;
+&lt;p&gt;再次感谢每一位支持的老哥 🙇  &lt;/p&gt;
+&lt;p&gt;我们会持续做到：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;保持 &lt;strong&gt;低利润&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;只赚 &lt;strong&gt;流量与维护成本&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;持续优化稳定性&lt;/li&gt;
+&lt;li&gt;长期提供 &lt;strong&gt;靠谱、可用、价格合理&lt;/strong&gt; 的 Claude 服务&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;这不是短期项目，而是准备长期投入的基础设施。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们继续肝 💪&lt;br/&gt;
+有问题、有建议，欢迎随时提。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>新手恋爱求后续指导</title>
-      <link>https://www.v2ex.com/t/1190008</link>
-      <guid>v2ex-1190008</guid>
-      <pubDate>Mon, 02 Feb 2026 01:23:23 GMT</pubDate>
-      <description>&lt;p&gt;标题不符合实际情况哈，只是吃了一顿饭而已。
-背景： &lt;a href=&quot;https://www.v2ex.com/t/1189224#reply56&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1189224#reply56&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;上周末和朋友以及妹子约了见面，在杭州运河附近吃了一顿饭，然后在河边公园也走了半小时，从 5 点到晚上 8 点附近左右回家。
-一开始见面和我想象中的银行女性不一样，娇小可爱型的，但是人本身是很有规划的，确实是学霸思维。喜欢旅游，自由，经常和妈妈一起出去周末游玩，喜欢南方。
-我感觉本人有时不会接话，比如女生喜欢旅游，介绍的时候，很多话都可以接过来，我都没意识去接，还是我朋友有时接过来，比如哪个地方有推荐的，比较好玩的，印象深刻的这种。女生也喜欢看星象，但是可惜我不会，我是水瓶，她是金牛。
-本人学习了很多，希望后续有个好结果。&lt;/p&gt;
-&lt;p&gt;昨天回家后就是常规的我到家了，你呢。聊了几分钟就结束了。 &lt;/p&gt;
-&lt;p&gt;最后，询问各位 v 友，后续我该如何聊天啊，比如今天，我就不知道聊啥了，起来了？早安？这周一到周五要聊天吗，聊啥啊，怎么下周末再约出来？给点建议&lt;/p&gt;
+      <title>小米的产品到底差在哪里了？</title>
+      <link>https://www.v2ex.com/t/1190064</link>
+      <guid>v2ex-1190064</guid>
+      <pubDate>Mon, 02 Feb 2026 03:30:17 GMT</pubDate>
+      <description>&lt;p&gt;互联网上无脑的人太多了，说小米指定被喷， 这个站点的人相对水平高，辨识能力强，大家一起讨论下，小米到底差在哪了。&lt;/p&gt;
+&lt;p&gt;我用小米很多年了，最近也准备弃了，还没想好换啥，但绝对不用小米了，总是遇到几个问题, 用的是 REDMI K80 ，当时冲首发买的，系统更好几个版本了，还是没解决。&lt;/p&gt;
+&lt;p&gt;1.打游戏的时候（原神 / 王者），在等待的时候小窗抖音刷视频，或者小窗微信回消息，时不时接卡死，卡到长按电源键都没用，得等一会它自己重启。&lt;/p&gt;
+&lt;p&gt;2.NFC 总是失灵， 换各个角度好多遍。&lt;/p&gt;
+&lt;p&gt;3.之前上线超级小爱吹得 AI 游戏助手，目前在原神上都是一片白（国际版原神）。&lt;/p&gt;
+&lt;p&gt;4.微信，抖音，高德，只要打开 3 个 App 以上，必然掉帧，卡到人崩溃。&lt;/p&gt;
+&lt;p&gt;其他的就不说了，总之小问题不少。&lt;/p&gt;
+&lt;p&gt;当时 Hyper OS 2 出来的时候就猜到了，哪怕到了 Hyper OS 3 也还是那个尿性，果然如此。&lt;/p&gt;
+&lt;p&gt;我这几个月算了算，真的用过不少小米的产品：
+小爱音箱触屏版、智能风扇、电动牙刷、充电宝、小米 10 ，小米 11 ，小米 12S ，小米 12 X ，K40 ，K60 ，K80 ，小米 CIVI ，插线板，平板，触控笔、耳机、拓展坞、手环 6 NFC 、小米手表 Watch S3 、智能插座、摄像头...&lt;/p&gt;
+&lt;p&gt;不能说全不好，至少接下来手机 + 平板绝不考虑小米!!! 接下来可能继续用回一加，但现在一加已经是 Color OS 了 ...&lt;/p&gt;
 </description>
     </item>
   </channel>
