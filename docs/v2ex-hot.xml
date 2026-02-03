@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 03 Feb 2026 08:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 09:29:47 GMT</lastBuildDate>
     <item>
       <title>1 月 20 号失业， 2 月 1 号离婚，还有更快的吗（二）</title>
       <link>https://www.v2ex.com/t/1190294</link>
@@ -22,19 +22,18 @@
 </description>
     </item>
     <item>
-      <title>经过此次飞牛的漏洞，搞不懂为什么都喜欢直接把服务公网暴露出去</title>
-      <link>https://www.v2ex.com/t/1190193</link>
-      <guid>v2ex-1190193</guid>
-      <pubDate>Mon, 02 Feb 2026 09:12:48 GMT</pubDate>
-      <description>&lt;p&gt;有一说一，家庭的公网，不是飞牛要关闭公网直连，严格来说，而是所有都要关，公网的正确用法应该是 vpn 、frp xtcp 、stcp 等一切加密作为入口，哪怕用 ss 来作为入口都行，不可能直接把服务的公网暴露出去啊，就算嫌麻烦也应该用白名单模式吧，这次是飞牛有问题，下次又不知道是什么了&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>看了夫妻关系的热帖子-发一个我自己正面的例子吧</title>
       <link>https://www.v2ex.com/t/1190353</link>
       <guid>v2ex-1190353</guid>
       <pubDate>Tue, 03 Feb 2026 03:15:04 GMT</pubDate>
       <description>我准备结婚的女朋友：&lt;br /&gt;第一次出门旅行，主动和我 aa 费用。&lt;br /&gt;每周末去他那里都给我做饭吃，都会问我想吃什么好吃的，有时候我洗碗，有时候他连碗都不让我洗。&lt;br /&gt;我每周都会给她买一些小东西带过去，草莓，车厘子这些，绝大部分是否他都问我想不想吃，然后会洗好端过来和我一起吃。&lt;br /&gt;甚至我有时候太累太困，他都愿意体谅我，不洗澡就直接睡觉。&lt;br /&gt;和我妈沟通，一直都是捧着我妈妈，即使他觉得不妥，也会来和我商量，然后由我出面解决。&lt;br /&gt;过生日总来问我有没有想要的礼物&lt;br /&gt;谈彩礼结婚，说黄金太贵了，如果父母有旧的存金，也不用买，直接拿过来就行&lt;br /&gt;&lt;br /&gt;很多很多，你能感觉到她是真的愿意和你做很多事情的。&lt;br /&gt;&lt;br /&gt;婚姻要想清楚，你是要给自己找个好队友，给孩子找个妈妈，甚至给自己找个“妈妈”。&lt;br /&gt;这些角色，本质都是需要奉献和良好的沟通，以及互相体谅的。&lt;br /&gt;&lt;br /&gt;双方都要想清楚，愿意为婚姻付出什么，而又想得到什么，双方需要匹配。&lt;br /&gt;说点现实的，就像一个人进入了一个商店，即要知道自己想，想买什么，也要知道自己兜里有几个子。&lt;br /&gt;然后就是想明白那些重要那些不重要，因为你慢慢就会发现，你自己大概率匹配不了那么好的对象，所以就要有所取舍了。&lt;br /&gt;&lt;br /&gt;我非常忌讳那些对工作生活非常苛刻的人，因为在我看来，当你把所有的事情都看得重要完美的时候。&lt;br /&gt;其实就是所有的事情都不重要，或者你兜里钱太少买不到那么完美的东西。&lt;br /&gt;人可以对自己苛刻要求严格，但是不要对别人苛刻要求严格。&lt;br /&gt;&lt;br /&gt;另外就是菜就要多练，别被一叶障目，这世界大部分能力都是熟练度的问题，包括找女朋友和识人。</description>
+    </item>
+    <item>
+      <title>沪深 300 指数能不能买</title>
+      <link>https://www.v2ex.com/t/1190313</link>
+      <guid>v2ex-1190313</guid>
+      <pubDate>Tue, 03 Feb 2026 01:49:06 GMT</pubDate>
+      <description>大部分人都推荐标普 500 ，但是我感觉美国在走下坡路，我比较看好中国经济（不是小分红），但是又有人说中国股市和中国经济没有关系。。。</description>
     </item>
     <item>
       <title>聊聊你看的第一本小说/第一本印象最深的小说吧！</title>
@@ -48,13 +47,6 @@
 &lt;/ul&gt;
 &lt;p&gt;最近书荒，开贴！&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>沪深 300 指数能不能买</title>
-      <link>https://www.v2ex.com/t/1190313</link>
-      <guid>v2ex-1190313</guid>
-      <pubDate>Tue, 03 Feb 2026 01:49:06 GMT</pubDate>
-      <description>大部分人都推荐标普 500 ，但是我感觉美国在走下坡路，我比较看好中国经济（不是小分红），但是又有人说中国股市和中国经济没有关系。。。</description>
     </item>
     <item>
       <title>飞牛的影响面比想象的大很多</title>
@@ -121,11 +113,21 @@
 </description>
     </item>
     <item>
-      <title>哪家的智能开关稳定性比较好</title>
-      <link>https://www.v2ex.com/t/1190309</link>
-      <guid>v2ex-1190309</guid>
-      <pubDate>Tue, 03 Feb 2026 01:33:44 GMT</pubDate>
-      <description>目前是用的小米的，单零火兼容版，买来就有一个直接就是坏的，继电器粘连。现在才用半个月  又有一个三天两头就离线  客服说重置  重置了过一会又这样了  我是有零线的  而且是客厅的主灯开关坏了 路由器就在客厅  而且也只是它离线别的设备不离线。他那个开关按起来的手感都像随时会粘连一样  体验是真的拉胯！有什么稳定性好的第三方开关推荐吗，还得是接入米家的  毕竟其他东西现在都是米家。</description>
+      <title>回家的高铁要坐 8 小时，这个时间怎么度过？</title>
+      <link>https://www.v2ex.com/t/1190385</link>
+      <guid>v2ex-1190385</guid>
+      <pubDate>Tue, 03 Feb 2026 05:37:46 GMT</pubDate>
+      <description>回家的高铁要坐 8 小时，这个时间怎么度过？</description>
+    </item>
+    <item>
+      <title>怎么教育孩子？</title>
+      <link>https://www.v2ex.com/t/1190350</link>
+      <guid>v2ex-1190350</guid>
+      <pubDate>Tue, 03 Feb 2026 03:10:33 GMT</pubDate>
+      <description>&lt;p&gt;一直以来，都不赞成暴力管教孩子，但是却也不知道应该怎么去教孩子&lt;/p&gt;
+&lt;p&gt;虽然目前还没有孩子但是觉得也应该未雨绸缪，提前学习&lt;/p&gt;
+&lt;p&gt;所以，有什么体系化的课程或者书籍，能学习怎么教育孩子？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
