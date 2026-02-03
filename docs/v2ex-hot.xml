@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 03 Feb 2026 06:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 07:13:45 GMT</lastBuildDate>
     <item>
       <title>1 月 20 号失业， 2 月 1 号离婚，还有更快的吗（二）</title>
       <link>https://www.v2ex.com/t/1190294</link>
@@ -22,232 +22,12 @@
 </description>
     </item>
     <item>
-      <title>opus 低至 0.005| 狂送 1.5w 刀 | Claude+Codex+gemini 一站式 api</title>
-      <link>https://www.v2ex.com/t/1190139</link>
-      <guid>v2ex-1190139</guid>
-      <pubDate>Mon, 02 Feb 2026 07:01:46 GMT</pubDate>
-      <description>&lt;p&gt;感谢各位老哥这几天的支持 🙏&lt;br/&gt;
-这几天的节奏，说实话有点 &lt;strong&gt;恍如隔世&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;项目最初，我们只有一个 &lt;strong&gt;Kiro 渠道&lt;/strong&gt;：&lt;br/&gt;
-倍率压到极限，&lt;strong&gt;单次收益只有 0.01&lt;/strong&gt;，目标也很明确 ——&lt;br/&gt;
-&lt;strong&gt;先把完整链路跑通、跑稳。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;到目前为止，我们已经完成了以下关键能力建设：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ &lt;strong&gt;多渠道 / 多备用架构&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;strong&gt;媲美官方的满血 Claude CC&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;strong&gt;全网独家 · Kiro 真缓存&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;strong&gt;低倍率、长期可用的价格模型&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;strong&gt;Codex / Gemini 接入&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;strong&gt;完整 CCG 工作流闭环&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;p&gt;🌐 官网地址：&lt;a href=&quot;https://bytecatcode.org&quot; rel=&quot;nofollow&quot;&gt;https://bytecatcode.org&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;近期完成的工作&lt;/h2&gt;
-&lt;h3&gt;1️⃣ 基础设施迁移与网络优化&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;从 &lt;strong&gt;香港高延迟节点（灵车）&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;迁移至 &lt;strong&gt;三网优化服务器&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;国内访问延迟：&lt;code&gt;~1800ms → ~140ms&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;稳定性与可用性始终是第一优先级&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h3&gt;2️⃣ Kiro 渠道深度优化&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;新增 &lt;strong&gt;真实缓存层&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;优化请求与调度链路&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;倍率直接压到成本边缘&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;3️⃣ 多模型 / 多渠道接入&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-新增模型支持：&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Codex&lt;/strong&gt;&lt;br/&gt;
-请求地址：&lt;code&gt;&lt;a href=&quot;https://bytecatcode.org/v1&quot; rel=&quot;nofollow&quot;&gt;https://bytecatcode.org/v1&lt;/a&gt;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Gemini&lt;/strong&gt;&lt;br/&gt;
-请求地址：&lt;code&gt;&lt;a href=&quot;https://bytecatcode.org&quot; rel=&quot;nofollow&quot;&gt;https://bytecatcode.org&lt;/a&gt;&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;多通道冗余，避免单点失效&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;4️⃣ 商业与系统能力补齐&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ 在线支付接入&lt;/li&gt;
-&lt;li&gt;✅ 自动用户分组&lt;/li&gt;
-&lt;li&gt;✅ 权限与资源隔离&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;5️⃣ 服务体验优化&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;付费用户独立服务器&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;降低互相干扰&lt;/li&gt;
-&lt;li&gt;提升高峰期稳定性&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这几天团队基本 &lt;strong&gt;每天睡眠 &amp;lt; 4h&lt;/strong&gt;&lt;br/&gt;
-把服务跑稳，是目前唯一目标&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h2&gt;项目初心&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;没有变化。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;用尽可能低的价格，&lt;br/&gt;
-提供稳定、好用、长期可持续的 Claude 服务。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我们只关注三个关键词：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;稳定 / 便宜 / 好用&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h2&gt;当前可用渠道说明&lt;/h2&gt;
-&lt;h3&gt;🔹 Kiro&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ 真缓存&lt;/li&gt;
-&lt;li&gt;✅ 联网搜索&lt;/li&gt;
-&lt;li&gt;✅ 思考模式&lt;/li&gt;
-&lt;li&gt;💰 倍率：&lt;code&gt;0.25&lt;/code&gt;（开业期 &lt;code&gt;0.15&lt;/code&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🔹 AWS&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ 缓存&lt;/li&gt;
-&lt;li&gt;✅ 联网搜索&lt;/li&gt;
-&lt;li&gt;✅ 思考模式&lt;/li&gt;
-&lt;li&gt;✅ 支持文件上传&lt;/li&gt;
-&lt;li&gt;💰 倍率：&lt;code&gt;0.4&lt;/code&gt;（开业期 &lt;code&gt;0.35&lt;/code&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🔹 Supper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;⚡ 极致缓存&lt;/li&gt;
-&lt;li&gt;⚡ 思考链路深度优化&lt;/li&gt;
-&lt;li&gt;⚡ &lt;strong&gt;效果对标官方满血 CC&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;💰 倍率：&lt;code&gt;0.5&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;近期遇到的问题&lt;/h2&gt;
-&lt;h3&gt;❌ 已踩过的坑&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;注册 / 邀请奖励被刷&lt;/li&gt;
-&lt;li&gt;DDoS 攻击&lt;/li&gt;
-&lt;li&gt;不稳定机房背刺&lt;/li&gt;
-&lt;li&gt;上游渠道涨价&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;h3&gt;✅ 当前状态&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;问题已全部处理&lt;/li&gt;
-&lt;li&gt;风控与防护机制补齐&lt;/li&gt;
-&lt;li&gt;相关经验已沉淀到系统设计中&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;接下来的计划&lt;/h2&gt;
-&lt;h3&gt;🚀 近期 Roadmap&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;strong&gt;Claude 包月方案&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;降低使用心理成本&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;官方满血 CC 上新&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;纯血 Max20&lt;/li&gt;
-&lt;li&gt;自建订阅号池&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;首充奖励机制&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;继续下探整体倍率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;h2&gt;当前福利活动&lt;/h2&gt;
-&lt;h3&gt;🎁 进行中&lt;/h3&gt;
-&lt;h4&gt;1️⃣ 免费 Kiro Key&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;QQ 群 &lt;strong&gt;全天发放&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;总额约 &lt;strong&gt;2000 美元&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;倍率：&lt;code&gt;0.15&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;≈ &lt;strong&gt;接近 2 万美元等效用量&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h4&gt;2️⃣ Kiro 缓存福利&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;缓存全天不计费&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;仅计算输入&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Haiku&lt;/code&gt;：&lt;strong&gt;完全免费&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Opus&lt;/code&gt;：&lt;strong&gt;低至 0.005 / 次&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h4&gt;3️⃣ V 站楼层抽奖&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;每满 &lt;strong&gt;50 楼&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;🎯 抽 &lt;strong&gt;2 位&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;💰 每人 &lt;strong&gt;50 美元&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;直接发放到账户&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h4&gt;4️⃣ Supper 渠道降价&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;倍率：&lt;code&gt;0.5 → 0.4&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;与 AWS 基本同价&lt;/li&gt;
-&lt;li&gt;提供更高质量 CC 体验&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;用户权限说明&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-🆓 &lt;strong&gt;免费用户&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;可使用 &lt;code&gt;Kiro&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-💳 &lt;strong&gt;付费用户&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;
-可使用：&lt;ul&gt;
-&lt;li&gt;Supper&lt;/li&gt;
-&lt;li&gt;AWS&lt;/li&gt;
-&lt;li&gt;Codex&lt;/li&gt;
-&lt;li&gt;Gemini&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;最后说明&lt;/h2&gt;
-&lt;p&gt;再次感谢每一位支持的老哥 🙇  &lt;/p&gt;
-&lt;p&gt;我们会持续做到：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;保持 &lt;strong&gt;低利润&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;只赚 &lt;strong&gt;流量与维护成本&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;持续优化稳定性&lt;/li&gt;
-&lt;li&gt;长期提供 &lt;strong&gt;靠谱、可用、价格合理&lt;/strong&gt; 的 Claude 服务&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;这不是短期项目，而是准备长期投入的基础设施。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我们继续肝 💪&lt;br/&gt;
-有问题、有建议，欢迎随时提。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>经过此次飞牛的漏洞，搞不懂为什么都喜欢直接把服务公网暴露出去</title>
       <link>https://www.v2ex.com/t/1190193</link>
       <guid>v2ex-1190193</guid>
       <pubDate>Mon, 02 Feb 2026 09:12:48 GMT</pubDate>
       <description>&lt;p&gt;有一说一，家庭的公网，不是飞牛要关闭公网直连，严格来说，而是所有都要关，公网的正确用法应该是 vpn 、frp xtcp 、stcp 等一切加密作为入口，哪怕用 ss 来作为入口都行，不可能直接把服务的公网暴露出去啊，就算嫌麻烦也应该用白名单模式吧，这次是飞牛有问题，下次又不知道是什么了&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>沪深 300 指数能不能买</title>
-      <link>https://www.v2ex.com/t/1190313</link>
-      <guid>v2ex-1190313</guid>
-      <pubDate>Tue, 03 Feb 2026 01:49:06 GMT</pubDate>
-      <description>大部分人都推荐标普 500 ，但是我感觉美国在走下坡路，我比较看好中国经济（不是小分红），但是又有人说中国股市和中国经济没有关系。。。</description>
     </item>
     <item>
       <title>聊聊你看的第一本小说/第一本印象最深的小说吧！</title>
@@ -261,6 +41,32 @@
 &lt;/ul&gt;
 &lt;p&gt;最近书荒，开贴！&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>沪深 300 指数能不能买</title>
+      <link>https://www.v2ex.com/t/1190313</link>
+      <guid>v2ex-1190313</guid>
+      <pubDate>Tue, 03 Feb 2026 01:49:06 GMT</pubDate>
+      <description>大部分人都推荐标普 500 ，但是我感觉美国在走下坡路，我比较看好中国经济（不是小分红），但是又有人说中国股市和中国经济没有关系。。。</description>
+    </item>
+    <item>
+      <title>飞牛的影响面比想象的大很多</title>
+      <link>https://www.v2ex.com/t/1190343</link>
+      <guid>v2ex-1190343</guid>
+      <pubDate>Tue, 03 Feb 2026 03:02:19 GMT</pubDate>
+      <description>&lt;p&gt;从 30 号的这个帖子开始 &lt;a href=&quot;https://www.v2ex.com/t/1189392&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1189392&lt;/a&gt; 到今天，已经三四天的时间了，现在随便一搜，仍然有二十多万的资产暴露在公网，试了两百个，一半多可访问，32 个未升级到最新版本，存在路径穿越漏洞。&lt;/p&gt;
+&lt;p&gt;如果说这些用户存的就是些片子也就罢了，但是很多都是用来备份自己手机电脑的，里面的文档不少都是个人隐私，各种证件、资料。&lt;/p&gt;
+&lt;p&gt;去年不是计算机行业的朋友想折腾 NAS ，我推荐了群晖和飞牛，后面他没买硬件就涨价了，也就没折腾。我个人猜测，飞牛的大多数用户都是和我这个朋友类似的，第一次接触 NAS 的小白，他们不知道网络安全，也不知道暴露在公网意味着什么。查了下，广州铁刃智造技术有限公司成立于 23 年，这两年正是硬件便宜的时候，对于这些用户来说，NAS 比网盘便宜，可以备份各种设备的数据，还能看看片，就足够了。&lt;/p&gt;
+&lt;p&gt;现在出了这种级别的事故，官方的种种措辞还是遮遮掩掩，懂的人知道严重性，但大部分小白用户可能一点也意识不到，即便现在官方关闭了未升级的用户的内网穿透，作用也是有限的。这些用户脑子里是缺少安全意识的，只会照着教程一步一步做，并不能理解每一步的含义（回想我刚接触的时候也是如此），所以官方的指南是非常非常重要的。&lt;/p&gt;
+&lt;p&gt;以后飞牛在我这里是被拉入永久黑名单了，我觉得无关乎国产与否，任何品牌这么搞都是自寻死路。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>看了夫妻关系的热帖子-发一个我自己正面的例子吧</title>
+      <link>https://www.v2ex.com/t/1190353</link>
+      <guid>v2ex-1190353</guid>
+      <pubDate>Tue, 03 Feb 2026 03:15:04 GMT</pubDate>
+      <description>我准备结婚的女朋友：&lt;br /&gt;第一次出门旅行，主动和我 aa 费用。&lt;br /&gt;每周末去他那里都给我做饭吃，都会问我想吃什么好吃的，有时候我洗碗，有时候他连碗都不让我洗。&lt;br /&gt;我每周都会给她买一些小东西带过去，草莓，车厘子这些，绝大部分是否他都问我想不想吃，然后会洗好端过来和我一起吃。&lt;br /&gt;甚至我有时候太累太困，他都愿意体谅我，不洗澡就直接睡觉。&lt;br /&gt;和我妈沟通，一直都是捧着我妈妈，即使他觉得不妥，也会来和我商量，然后由我出面解决。&lt;br /&gt;过生日总来问我有没有想要的礼物&lt;br /&gt;谈彩礼结婚，说黄金太贵了，如果父母有旧的存金，也不用买，直接拿过来就行&lt;br /&gt;&lt;br /&gt;很多很多，你能感觉到她是真的愿意和你做很多事情的。&lt;br /&gt;&lt;br /&gt;婚姻要想清楚，你是要给自己找个好队友，给孩子找个妈妈，甚至给自己找个“妈妈”。&lt;br /&gt;这些角色，本质都是需要奉献和良好的沟通，以及互相体谅的。&lt;br /&gt;&lt;br /&gt;双方都要想清楚，愿意为婚姻付出什么，而又想得到什么，双方需要匹配。&lt;br /&gt;说点现实的，就像一个人进入了一个商店，即要知道自己想，想买什么，也要知道自己兜里有几个子。&lt;br /&gt;然后就是想明白那些重要那些不重要，因为你慢慢就会发现，你自己大概率匹配不了那么好的对象，所以就要有所取舍了。&lt;br /&gt;&lt;br /&gt;我非常忌讳那些对工作生活非常苛刻的人，因为在我看来，当你把所有的事情都看得重要完美的时候。&lt;br /&gt;其实就是所有的事情都不重要，或者你兜里钱太少买不到那么完美的东西。&lt;br /&gt;人可以对自己苛刻要求严格，但是不要对别人苛刻要求严格。&lt;br /&gt;&lt;br /&gt;另外就是菜就要多练，别被一叶障目，这世界大部分能力都是熟练度的问题，包括找女朋友和识人。</description>
     </item>
     <item>
       <title>中银香港 60 元 小羊毛</title>
@@ -285,221 +91,6 @@
       <description>我记得我从小学五年级看的第一本小说是 燕垒生的《天行健》， 小说的主角让我记忆到现在。&lt;br /&gt;然后第二本书小说也是小学时候看的《兽王》，&lt;br /&gt;后面又看了初中时期大火的斗破苍穹，斗罗大陆, 仙逆，遮天，凡人等等，我已经记不清楚了.&lt;br /&gt;小学最后一年，初中三年，高中三年，大学四年，甚至工作后两三年我都沉迷于网络小说。&lt;br /&gt;基本上起点本站的仙侠，玄幻，奇幻，历史，都市，军事，体育. 除了言情和耽美不看之外，起码看了几千本，凡是有一点名气的小说基本上都看过.&lt;br /&gt;也天天在起点上蹲过老鹰的万族之劫的每天爆更.&lt;br /&gt;学生时代没钱就看盗版，然后工作之后有钱了就花点钱看正版.&lt;br /&gt;&lt;br /&gt;有时候甚至会为一本小说熬夜看到凌晨三四点.&lt;br /&gt;&lt;br /&gt;......&lt;br /&gt;&lt;br /&gt;但是不知道从什么时候开始，再次打开起点上的小说，就再也提不起兴趣了。&lt;br /&gt;大量的同质化的小说出现，特别是体育游戏竞技板块，从上到下，千篇一律，枯燥无味，就好像是流水线批量生产出来的小说.&lt;br /&gt;即使是我曾经非常喜欢的某足球文作者，我以为他的新书会有不同的思路，看了开篇也是这样，结果一看到后面，又是千篇一律，没有任何创新，除了主角名称不同外，一样的故事套路，看了几章就知道后面的内容了。&lt;br /&gt;&lt;br /&gt;还有其他分类，就是感觉时间停止了一样，除了主角名称不同，换了个故事模板，故事情节，节奏一模一样，看了上文知道下文，完全没有了当初的那种期待感。&lt;br /&gt;&lt;br /&gt;有时候无聊的时候也会打开起点看看排行榜上的小说，结果每次看了一两章之后就没了继续看下去的兴趣，&lt;br /&gt;以前那种熬夜看小说的情况已经彻底离我而去了......</description>
     </item>
     <item>
-      <title>opus 低至 0.005| 狂送 2w 刀 | Claude+Codex+gemini 一站式 api。交个朋友~</title>
-      <link>https://www.v2ex.com/t/1190119</link>
-      <guid>v2ex-1190119</guid>
-      <pubDate>Mon, 02 Feb 2026 06:30:24 GMT</pubDate>
-      <description>&lt;p&gt;感谢各位老哥这几天的支持 🙏&lt;br/&gt;
-这几天的节奏，说实话真的有点 &lt;strong&gt;恍如隔世&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;最开始我们只有一个 &lt;strong&gt;kiro 渠道&lt;/strong&gt;，&lt;br/&gt;
-倍率压到最低，&lt;strong&gt;一单只赚 0.01&lt;/strong&gt;，只想着先把链路跑通。&lt;/p&gt;
-&lt;p&gt;到现在为止，我们已经完成了：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ &lt;strong&gt;多渠道 + 多备用&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;strong&gt;媲美官方的满血 CC&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;strong&gt;全网独家 kiro 真缓存&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;strong&gt;低倍率、便宜可用&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;strong&gt;接入 Codex / Gemini&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;strong&gt;完整 CCG 工作流&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;这几天我们做了什么&lt;/h2&gt;
-&lt;h3&gt;1️⃣ 基础设施迁移&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;从 &lt;strong&gt;灵车香港服务器&lt;/strong&gt; &lt;/li&gt;
-&lt;li&gt;迁移至 &lt;strong&gt;三网优化节点&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;国内延迟 &lt;strong&gt;1800ms → 170ms&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;稳定性和体验是第一优先级&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h3&gt;2️⃣ Kiro 渠道深度优化&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;增加 &lt;strong&gt;缓存层&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;优化请求链路&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;价格直接打到底&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;3️⃣ 多模型、多渠道接入&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-新增：&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Codex&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Gemini&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;多备用，防单点失效&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;4️⃣ 商业与系统能力完善&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ 在线支付对接&lt;/li&gt;
-&lt;li&gt;✅ 自动用户分组&lt;/li&gt;
-&lt;li&gt;✅ 权限隔离&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;5️⃣ 服务体验升级&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;付费用户独立服务器&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;降低互相影响&lt;/li&gt;
-&lt;li&gt;保证高峰期稳定性&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这几天我们团队基本没睡超过 &lt;strong&gt;4h / 天&lt;/strong&gt;&lt;br/&gt;
-服务好各位老哥，是我们唯一目标&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h2&gt;我们的初心&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;不变。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;用最低的价格，&lt;br/&gt;
-提供稳定、好用、长期可持续的 Claude 服务。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;关键词只有三个：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;稳定 / 便宜 / 好用&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h2&gt;当前可用渠道说明&lt;/h2&gt;
-&lt;h3&gt;🔹 Kiro&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ 有缓存&lt;/li&gt;
-&lt;li&gt;✅ 可联网搜索&lt;/li&gt;
-&lt;li&gt;✅ 支持思考&lt;/li&gt;
-&lt;li&gt;💰 倍率：&lt;code&gt;0.25&lt;/code&gt;（开业 &lt;code&gt;0.15&lt;/code&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🔹 AWS&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ 有缓存&lt;/li&gt;
-&lt;li&gt;✅ 可联网搜索&lt;/li&gt;
-&lt;li&gt;✅ 支持思考&lt;/li&gt;
-&lt;li&gt;✅ 文件可上传&lt;/li&gt;
-&lt;li&gt;💰 倍率：&lt;code&gt;0.4&lt;/code&gt;（开业 &lt;code&gt;0.35&lt;/code&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🔹 Supper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;⚡ 极致缓存&lt;/li&gt;
-&lt;li&gt;⚡ 思考优化&lt;/li&gt;
-&lt;li&gt;⚡ &lt;strong&gt;媲美官方满血 CC&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;💰 倍率：&lt;code&gt;0.5&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;最近遇到的问题 &amp;amp; 解决情况&lt;/h2&gt;
-&lt;h3&gt;❌ 遇到的坑&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;注册 / 邀请奖励被刷&lt;/li&gt;
-&lt;li&gt;DDoS 攻击&lt;/li&gt;
-&lt;li&gt;野鸡机房背刺&lt;/li&gt;
-&lt;li&gt;上游渠道涨价&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;h3&gt;✅ 当前状态&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;全部已解决&lt;/li&gt;
-&lt;li&gt;风控与防护已补齐&lt;/li&gt;
-&lt;li&gt;这些坑也成为了我们后续的宝贵经验&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;接下来我们准备做什么&lt;/h2&gt;
-&lt;h3&gt;🚀 近期规划&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;strong&gt;Claude 包月&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;让每个人都不心疼用量&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;官方满血 CC 上新&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;纯血 Max20&lt;/li&gt;
-&lt;li&gt;自建订阅号池&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;首充奖励&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;继续下探倍率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;h2&gt;给大家的福利 🎁&lt;/h2&gt;
-&lt;h3&gt;🎉 当前活动&lt;/h3&gt;
-&lt;h4&gt;1️⃣ 免费 Kiro Key&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;QQ 群 &lt;strong&gt;全天发放&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;总额 &lt;strong&gt;2000 美刀&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;倍率 &lt;code&gt;0.15&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;≈ &lt;strong&gt;接近 2 万刀可用量&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h4&gt;2️⃣ Kiro 缓存上线福利&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;缓存全天不计费&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;只算输入&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Haiku&lt;/code&gt;：&lt;strong&gt;直接免费&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Opus&lt;/code&gt;：&lt;strong&gt;低至 0.005 / 次&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h4&gt;3️⃣ V 站楼层抽奖&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;每满 &lt;strong&gt;50 楼&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;🎯 抽 &lt;strong&gt;2 位&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;💰 每人 &lt;strong&gt;50 美刀&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;直接到账户&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h4&gt;4️⃣ Supper 渠道降价&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;0.5 → 0.4&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;与 AWS 几乎同价&lt;/li&gt;
-&lt;li&gt;让大家用更好的 CC ，玩得更爽&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h4&gt;5️⃣ 注册送 5 刀&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;叠加目前的福利，可以相当于 50 刀了！&lt;/li&gt;
-&lt;li&gt;免费使用 kiro 渠道&lt;/li&gt;
-&lt;li&gt;不满意，不充值！&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;用户权限说明&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-🆓 &lt;strong&gt;免费用户&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;可使用 &lt;code&gt;Kiro&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-💳 &lt;strong&gt;付费用户&lt;/strong&gt;&lt;ul&gt;
-&lt;li&gt;
-解锁：&lt;ul&gt;
-&lt;li&gt;Supper&lt;/li&gt;
-&lt;li&gt;AWS&lt;/li&gt;
-&lt;li&gt;Codex&lt;/li&gt;
-&lt;li&gt;Gemini&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;最后&lt;/h2&gt;
-&lt;p&gt;再次感谢现在的每一位老哥 🙇&lt;br/&gt;
-我们会：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;保持 &lt;strong&gt;低利润&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;只赚 &lt;strong&gt;流量费&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;持续打磨稳定性&lt;/li&gt;
-&lt;li&gt;长期提供 &lt;strong&gt;靠谱、便宜、好用&lt;/strong&gt; 的 Claude 服务&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;这不是割一波的项目，是准备长期做的基础设施。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;后面我们继续肝 💪&lt;br/&gt;
-有问题、有建议，随时提。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>a 股券商低佣开户万一免五，评论抽奖送五常大米！[大笑脸开户]</title>
       <link>https://www.v2ex.com/t/1190293</link>
       <guid>v2ex-1190293</guid>
@@ -507,15 +98,22 @@
       <description>⚠️回帖抽五常大米，每 20 楼抽 1 个&lt;br /&gt;⚠️开户送五常大米，推荐朋友有红包&lt;br /&gt;&lt;br /&gt;⚠️大笑脸低佣开户推荐：&lt;br /&gt;银河证券：ETF 万 0.5 免 5 [ETF,LOF ，免五费率最低，适合 etf ，打新，纳指，宽基玩家。新手必备]&lt;br /&gt;国盛证券： 万 0.854 免 5 [国企券商，股票 etf 费率都很低]&lt;br /&gt;国泰海通： 万 0.8 免 5 [头部龙头券商，费率最优惠，大客户专享，综合费率最低]&lt;br /&gt;&lt;br /&gt;⚠️大笑脸开户 · 专业低佣券商开户&lt;br /&gt;⚠️大笑脸联系方式和最新具体券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;http://www.daxiaolian.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.daxiaolian.com&lt;/a&gt;</description>
     </item>
     <item>
-      <title>飞牛的影响面比想象的大很多</title>
-      <link>https://www.v2ex.com/t/1190343</link>
-      <guid>v2ex-1190343</guid>
-      <pubDate>Tue, 03 Feb 2026 03:02:19 GMT</pubDate>
-      <description>&lt;p&gt;从 30 号的这个帖子开始 &lt;a href=&quot;https://www.v2ex.com/t/1189392&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1189392&lt;/a&gt; 到今天，已经三四天的时间了，现在随便一搜，仍然有二十多万的资产暴露在公网，试了两百个，一半多可访问，32 个未升级到最新版本，存在路径穿越漏洞。&lt;/p&gt;
-&lt;p&gt;如果说这些用户存的就是些片子也就罢了，但是很多都是用来备份自己手机电脑的，里面的文档不少都是个人隐私，各种证件、资料。&lt;/p&gt;
-&lt;p&gt;去年不是计算机行业的朋友想折腾 NAS ，我推荐了群晖和飞牛，后面他没买硬件就涨价了，也就没折腾。我个人猜测，飞牛的大多数用户都是和我这个朋友类似的，第一次接触 NAS 的小白，他们不知道网络安全，也不知道暴露在公网意味着什么。查了下，广州铁刃智造技术有限公司成立于 23 年，这两年正是硬件便宜的时候，对于这些用户来说，NAS 比网盘便宜，可以备份各种设备的数据，还能看看片，就足够了。&lt;/p&gt;
-&lt;p&gt;现在出了这种级别的事故，官方的种种措辞还是遮遮掩掩，懂的人知道严重性，但大部分小白用户可能一点也意识不到，即便现在官方关闭了未升级的用户的内网穿透，作用也是有限的。这些用户脑子里是缺少安全意识的，只会照着教程一步一步做，并不能理解每一步的含义（回想我刚接触的时候也是如此），所以官方的指南是非常非常重要的。&lt;/p&gt;
-&lt;p&gt;以后飞牛在我这里是被拉入永久黑名单了，我觉得无关乎国产与否，任何品牌这么搞都是自寻死路。&lt;/p&gt;
+      <title>现在每年都不想回家，但是每年都回家，类似的 V 友们是怎么处理的？</title>
+      <link>https://www.v2ex.com/t/1190301</link>
+      <guid>v2ex-1190301</guid>
+      <pubDate>Tue, 03 Feb 2026 01:15:35 GMT</pubDate>
+      <description>&lt;p&gt;这种复杂的情绪，好难排解，大家有什么想法？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;觉得只要爸妈还在，就很难真的说出口「今年我不回」。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;内心也会有愧疚感，春节的氛围和习俗，就很难彻底做那个「过年不回家的人」。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;每年都要和自己谈判拉扯，这种无力感好无奈。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
   </channel>
