@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 05 Feb 2026 09:33:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 10:30:51 GMT</lastBuildDate>
     <item>
       <title>建议给所有需要公网暴露的 web 服务套一层 authelia</title>
       <link>https://www.v2ex.com/t/1190896</link>
@@ -22,18 +22,19 @@
 </description>
     </item>
     <item>
-      <title>发现每个地方驾驶习惯都不一样，大家在哪里觉得开车最舒服啊</title>
-      <link>https://www.v2ex.com/t/1190776</link>
-      <guid>v2ex-1190776</guid>
-      <pubDate>Wed, 04 Feb 2026 09:56:34 GMT</pubDate>
-      <description>之前在上海开车感觉是比较有秩序，新工作换了城市，感觉开车就没那么舒服了</description>
-    </item>
-    <item>
       <title>2026 年了，为什么我依然认为 Rust 是过度设计，而 Golang 才是工程界的终极答案？</title>
       <link>https://www.v2ex.com/t/1190921</link>
       <guid>v2ex-1190921</guid>
       <pubDate>Thu, 05 Feb 2026 05:37:10 GMT</pubDate>
       <description>大部分公司不需要内存级的极致安全，他们需要的是业务快速上线。很多推崇 Rust 的人，其实只是在享受那种“我会你不会”的智力优越感。Go 的大道至简，让代码在三年后换了一波人维护时依然能看懂；&lt;br /&gt;&lt;br /&gt;最近把手头一个核心高并发模块从 Rust 迁回了 Go ，如释重负。不可否认 Rust 的安全性，但那极其陡峭的学习曲线和漫长的编译时间，真的不是在浪费生命吗？为了那 5% 的极致性能提升，增加 200% 的心智负担，这在商业化开发中真的合算吗？</description>
+    </item>
+    <item>
+      <title>如何劝导工作了四五年依然借网贷的弟弟？</title>
+      <link>https://www.v2ex.com/t/1190853</link>
+      <guid>v2ex-1190853</guid>
+      <pubDate>Thu, 05 Feb 2026 01:32:56 GMT</pubDate>
+      <description>&lt;p&gt;如题，从中专毕业出来每个月的工资不够支出，就一直都是借网贷维持生活，我妈已经超过三番五次的给他兜低了，他现在的工资是到手 6000 ，最近找我妈借了两万四去还各个平台的网贷，就是说目前 6000 的工资都不足够他的支出，我应该如何去劝导他的消费习惯？真的好头疼，说过了无数遍要对金钱有概念，但是到头来还是欠这么多钱...&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>生育对女性的影响真的好大。</title>
@@ -46,12 +47,11 @@
 </description>
     </item>
     <item>
-      <title>如何劝导工作了四五年依然借网贷的弟弟？</title>
-      <link>https://www.v2ex.com/t/1190853</link>
-      <guid>v2ex-1190853</guid>
-      <pubDate>Thu, 05 Feb 2026 01:32:56 GMT</pubDate>
-      <description>&lt;p&gt;如题，从中专毕业出来每个月的工资不够支出，就一直都是借网贷维持生活，我妈已经超过三番五次的给他兜低了，他现在的工资是到手 6000 ，最近找我妈借了两万四去还各个平台的网贷，就是说目前 6000 的工资都不足够他的支出，我应该如何去劝导他的消费习惯？真的好头疼，说过了无数遍要对金钱有概念，但是到头来还是欠这么多钱...&lt;/p&gt;
-</description>
+      <title>漫长的绿皮火车怎么打发时间</title>
+      <link>https://www.v2ex.com/t/1190946</link>
+      <guid>v2ex-1190946</guid>
+      <pubDate>Thu, 05 Feb 2026 07:10:15 GMT</pubDate>
+      <description>如题，快过年了，只抢到了绿皮，还是无座，全程 14 个小时，火车上信号不好，打游戏是没啥希望了。&lt;br /&gt;最近有啥好看的肥皂剧吗，小说啥的打发时间也可以</description>
     </item>
     <item>
       <title>携程还是被罚少了, 春节车票附加费套路, 你踩坑了吗</title>
@@ -59,6 +59,13 @@
       <guid>v2ex-1190839</guid>
       <pubDate>Thu, 05 Feb 2026 00:33:30 GMT</pubDate>
       <description>在[去哪儿]上买的春节期间一家人返乡的车票, 然后订回程票的时候才发现金额有点问题, 查询订单详情才发现没人额外扣了笔 40 元的意外险附加费用, 查了下去程的车票, 果然也被扣了. 之后我又复盘了下这个套路, 发现真的非常容易踩坑:&lt;br /&gt;&lt;br /&gt;1. 用过[去哪儿]的, 应该都知道, 在购票的环节都会出现三个购票选项, 只有一个是以 12306 原价购票, 另外两个都是捆绑酒店或是其他权益的, 当然它起码有小字用低对比度颜色注明了会加多少钱. 当你选了原价购票的选项自以为不被平台套路, 但实际上这个意外险增值服务是以底部弹窗的形式出现在跳转支付前的一个页面弹窗大致意思是大致意思是保障出行,这个弹窗没有标注会加多少钱, 而且按照一般习惯跳转支付前是有个确认底部弹窗很正常, 就很容易忽视这是个附加服务购买的确认弹窗&lt;br /&gt;&lt;br /&gt;2. 最终确认金额的时候很难察觉的金额不对, 众所周知春节期间车票靠抢, 一般会选择多个车次和座位作候补, 而最终付款时是以金额最贵的车票付费, 之后抢到后再退费. 因此看到支付时多出 8%左右的费用会下意识的以为买的是较贵的车次. 我在买回程车票的时候之所以察觉到问题就是因为回程车票只选了一个车次, 就察觉到付款时与车票价格的差别. 幸亏没有选择开通平台自动扣费, 不然连察觉的机会都没有.&lt;br /&gt;&lt;br /&gt;3. 如果是短途车票或是单人购票, 是不会有这个底部弹窗, 它赌的就是你数学不好. 以往买过很多单人都没遇到这种情况.&lt;br /&gt;&lt;br /&gt;结果: 当我发现被套路扣费后还想着在平台退款, 然后它居然敢不提供该附加费用退款的选项. 自动客服也不给退. 打电话也说不给退, 最后转人工退了. 不然还打算 12377 伺候. 各位如果被套路的可以 12377 举报一波了.</description>
+    </item>
+    <item>
+      <title>如果我做一个类似 V2EX 的网站，不用翻墙就可以看，里面的内容不用多专业，类似文字版的抖音，大家觉得有前途吗</title>
+      <link>https://www.v2ex.com/t/1190852</link>
+      <guid>v2ex-1190852</guid>
+      <pubDate>Thu, 05 Feb 2026 01:32:10 GMT</pubDate>
+      <description>如果我做一个类似 V2EX 的网站，不用翻墙就可以看，里面的内容不用多专业，类似文字版的抖音，大家觉得有前途吗</description>
     </item>
     <item>
       <title>请教各位什么是技术管理？忙一年发现没干技术</title>
@@ -76,13 +83,6 @@ IT 技术岗，工作 7 年。平时都在协调、组织，写材料。“带�
 另外，管理岗是不是更不好跳槽？技术岗相对更容易跳槽？&lt;/p&gt;
 &lt;p&gt;大家有遇到类似的情况吗，怎么看待职场这样的变化？&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>如果我做一个类似 V2EX 的网站，不用翻墙就可以看，里面的内容不用多专业，类似文字版的抖音，大家觉得有前途吗</title>
-      <link>https://www.v2ex.com/t/1190852</link>
-      <guid>v2ex-1190852</guid>
-      <pubDate>Thu, 05 Feb 2026 01:32:10 GMT</pubDate>
-      <description>如果我做一个类似 V2EX 的网站，不用翻墙就可以看，里面的内容不用多专业，类似文字版的抖音，大家觉得有前途吗</description>
     </item>
   </channel>
 </rss>
