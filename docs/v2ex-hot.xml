@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 05 Feb 2026 07:30:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 08:30:21 GMT</lastBuildDate>
     <item>
       <title>我对家里的态度正常吗？</title>
       <link>https://www.v2ex.com/t/1190747</link>
@@ -51,6 +51,13 @@
 </description>
     </item>
     <item>
+      <title>建议给所有需要公网暴露的 web 服务套一层 authelia</title>
+      <link>https://www.v2ex.com/t/1190896</link>
+      <guid>v2ex-1190896</guid>
+      <pubDate>Thu, 05 Feb 2026 03:30:13 GMT</pubDate>
+      <description>飞牛的漏洞应该让很多人认识到了公网暴露的安全性问题，挺多人推荐通过 VPN 的方式来保护想公网暴露的服务，VPN 的方式安全性肯定很高，但是很多时候也相对比较麻烦，需要安装 VPN 终端，有时还会和科学上网没法共用。&lt;br /&gt;&lt;br /&gt;很多人玩 NAS 就是为了部署各种 web 服务，像 openclaw, matrix, memos 之类的，对外暴露本身就是为了方便能随时访问，如果每次访问都还要切 VPN 着实有点麻烦了。&lt;br /&gt;&lt;br /&gt;这里推荐另外一种折中一些的方案，通过 frp 穿透把内网服务映射到服务端,注意自建 CA, 启用 token + TLS 双重认证，映射的端口在服务器上禁用掉，然后通过 NPM 来管理二级域名反向代理内网 ip:端口，通过二级域名访问这个服务，开启 https, 同时在 NPM 的 advance 里配置好 authelia 认证，这样直接访问二级域名会跳转到认证页面，认证后可以访问，和正常直接访问没什么区别。通过这种方式可以将所有对外暴露的服务统一管理，很多小众的 web 服务安全性并没有什么保证，但是经过 authelia 叠加一层之后可以减小很多的安全攻击面。&lt;br /&gt;&lt;br /&gt;authelia 的服务比较单一，也得到过国际安全标准认证，相对于 github 上各种大小项目，安全性肯定高很多 level.</description>
+    </item>
+    <item>
       <title>生育对女性的影响真的好大。</title>
       <link>https://www.v2ex.com/t/1190845</link>
       <guid>v2ex-1190845</guid>
@@ -67,13 +74,6 @@
       <pubDate>Thu, 05 Feb 2026 01:32:56 GMT</pubDate>
       <description>&lt;p&gt;如题，从中专毕业出来每个月的工资不够支出，就一直都是借网贷维持生活，我妈已经超过三番五次的给他兜低了，他现在的工资是到手 6000 ，最近找我妈借了两万四去还各个平台的网贷，就是说目前 6000 的工资都不足够他的支出，我应该如何去劝导他的消费习惯？真的好头疼，说过了无数遍要对金钱有概念，但是到头来还是欠这么多钱...&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>建议给所有需要公网暴露的 web 服务套一层 authelia</title>
-      <link>https://www.v2ex.com/t/1190896</link>
-      <guid>v2ex-1190896</guid>
-      <pubDate>Thu, 05 Feb 2026 03:30:13 GMT</pubDate>
-      <description>飞牛的漏洞应该让很多人认识到了公网暴露的安全性问题，挺多人推荐通过 VPN 的方式来保护想公网暴露的服务，VPN 的方式安全性肯定很高，但是很多时候也相对比较麻烦，需要安装 VPN 终端，有时还会和科学上网没法共用。&lt;br /&gt;&lt;br /&gt;很多人玩 NAS 就是为了部署各种 web 服务，像 openclaw, matrix, memos 之类的，对外暴露本身就是为了方便能随时访问，如果每次访问都还要切 VPN 着实有点麻烦了。&lt;br /&gt;&lt;br /&gt;这里推荐另外一种折中一些的方案，通过 frp 穿透把内网服务映射到服务端,注意自建 CA, 启用 token + TLS 双重认证，映射的端口在服务器上禁用掉，然后通过 NPM 来管理二级域名反向代理内网 ip:端口，通过二级域名访问这个服务，开启 https, 同时在 NPM 的 advance 里配置好 authelia 认证，这样直接访问二级域名会跳转到认证页面，认证后可以访问，和正常直接访问没什么区别。通过这种方式可以将所有对外暴露的服务统一管理，很多小众的 web 服务安全性并没有什么保证，但是经过 authelia 叠加一层之后可以减小很多的安全攻击面。&lt;br /&gt;&lt;br /&gt;authelia 的服务比较单一，也得到过国际安全标准认证，相对于 github 上各种大小项目，安全性肯定高很多 level.</description>
     </item>
     <item>
       <title>2026 年了，为什么我依然认为 Rust 是过度设计，而 Golang 才是工程界的终极答案？</title>
