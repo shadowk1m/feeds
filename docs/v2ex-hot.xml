@@ -4,23 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 06 Feb 2026 01:06:42 GMT</lastBuildDate>
-    <item>
-      <title>建议给所有需要公网暴露的 web 服务套一层 authelia</title>
-      <link>https://www.v2ex.com/t/1190896</link>
-      <guid>v2ex-1190896</guid>
-      <pubDate>Thu, 05 Feb 2026 03:30:13 GMT</pubDate>
-      <description>飞牛的漏洞应该让很多人认识到了公网暴露的安全性问题，挺多人推荐通过 VPN 的方式来保护想公网暴露的服务，VPN 的方式安全性肯定很高，但是很多时候也相对比较麻烦，需要安装 VPN 终端，有时还会和科学上网没法共用。&lt;br /&gt;&lt;br /&gt;很多人玩 NAS 就是为了部署各种 web 服务，像 openclaw, matrix, memos 之类的，对外暴露本身就是为了方便能随时访问，如果每次访问都还要切 VPN 着实有点麻烦了。&lt;br /&gt;&lt;br /&gt;这里推荐另外一种折中一些的方案，通过 frp 穿透把内网服务映射到服务端,注意自建 CA, 启用 token + TLS 双重认证，映射的端口在服务器上禁用掉，然后通过 NPM 来管理二级域名反向代理内网 ip:端口，通过二级域名访问这个服务，开启 https, 同时在 NPM 的 advance 里配置好 authelia 认证，这样直接访问二级域名会跳转到认证页面，认证后可以访问，和正常直接访问没什么区别。通过这种方式可以将所有对外暴露的服务统一管理，很多小众的 web 服务安全性并没有什么保证，但是经过 authelia 叠加一层之后可以减小很多的安全攻击面。&lt;br /&gt;&lt;br /&gt;authelia 的服务比较单一，也得到过国际安全标准认证，相对于 github 上各种大小项目，安全性肯定高很多 level.</description>
-    </item>
-    <item>
-      <title>同事刮刮乐中了 100 万</title>
-      <link>https://www.v2ex.com/t/1190861</link>
-      <guid>v2ex-1190861</guid>
-      <pubDate>Thu, 05 Feb 2026 01:54:48 GMT</pubDate>
-      <description>&lt;p&gt;听说有个下属单位的同事买了刮刮乐 中了 100 万，我从来没买过这玩意，突然想去买了，万一中了呢？&lt;/p&gt;
-&lt;p&gt;这玩意就看运气吗 有啥技巧吗&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 03:41:54 GMT</lastBuildDate>
     <item>
       <title>2026 年了，为什么我依然认为 Rust 是过度设计，而 Golang 才是工程界的终极答案？</title>
       <link>https://www.v2ex.com/t/1190921</link>
@@ -36,24 +20,6 @@
       <description>如题，快过年了，只抢到了绿皮，还是无座，全程 14 个小时，火车上信号不好，打游戏是没啥希望了。&lt;br /&gt;最近有啥好看的肥皂剧吗，小说啥的打发时间也可以</description>
     </item>
     <item>
-      <title>生育对女性的影响真的好大。</title>
-      <link>https://www.v2ex.com/t/1190845</link>
-      <guid>v2ex-1190845</guid>
-      <pubDate>Thu, 05 Feb 2026 01:08:27 GMT</pubDate>
-      <description>&lt;p&gt;有个女同事之前一直脾气不算太好，我每次听到她声音时，不是和同事因为接口吵架，就是因为业务问题在拌嘴，永远皱着眉头，额头中间隐约呈现出一个“川”字形。&lt;/p&gt;
-&lt;p&gt;后来她回家生孩子去了，最近回来上班之后，我惊奇的发现她似乎变了一个人；再也没有听到她和同事争辩，和谁说话都是温温柔柔，眉头挥之不去的川字也消失不见。&lt;/p&gt;
-&lt;p&gt;如果她是解决了心中的什么事情导致心情很好，那我由衷的为她祝福；如果是生育、激素的影响，那我觉得这也太可怕了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>如何劝导工作了四五年依然借网贷的弟弟？</title>
-      <link>https://www.v2ex.com/t/1190853</link>
-      <guid>v2ex-1190853</guid>
-      <pubDate>Thu, 05 Feb 2026 01:32:56 GMT</pubDate>
-      <description>&lt;p&gt;如题，从中专毕业出来每个月的工资不够支出，就一直都是借网贷维持生活，我妈已经超过三番五次的给他兜低了，他现在的工资是到手 6000 ，最近找我妈借了两万四去还各个平台的网贷，就是说目前 6000 的工资都不足够他的支出，我应该如何去劝导他的消费习惯？真的好头疼，说过了无数遍要对金钱有概念，但是到头来还是欠这么多钱...&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>如何看待死亡？</title>
       <link>https://www.v2ex.com/t/1190971</link>
       <guid>v2ex-1190971</guid>
@@ -64,18 +30,67 @@
 </description>
     </item>
     <item>
-      <title>VPS 自建梯子选择</title>
-      <link>https://www.v2ex.com/t/1190885</link>
-      <guid>v2ex-1190885</guid>
-      <pubDate>Thu, 05 Feb 2026 02:58:16 GMT</pubDate>
-      <description>我看很多人推荐 dmit ，但是现在没有优惠，有其他好选择嘛&lt;br /&gt;&lt;br /&gt;或者我看可以直接收别人之前在黑五买的，有没有啥风险&lt;br /&gt;&lt;br /&gt;希望各位大佬指点</description>
+      <title>[求助] 涨薪 20% 的新公司 vs 离家 5 分钟的前司，怎么选？</title>
+      <link>https://www.v2ex.com/t/1191000</link>
+      <guid>v2ex-1191000</guid>
+      <pubDate>Thu, 05 Feb 2026 09:17:06 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;背景：&lt;/strong&gt; 2 年 Java 经验，无经济压力。年前因前司拖欠工资离职，入职新公司一周。 现在前司补发了薪资(1 个月)，老板也支持我回去，薪资持平（比新公司低 20%）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 新公司（目前在职）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;优点：&lt;/strong&gt; 涨薪 20%，百人规模，现金流稳。&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;缺点：&lt;/strong&gt; 管理严格， 技术栈混乱，不同项目不一样，没有产品经理和前端，基本就是维护老项目。需求直接和老板对接&lt;ul&gt;
+&lt;li&gt;通勤地铁 &lt;strong&gt;40+ 分钟&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;电脑配置差，流程乱（无 PM 直对老板），考勤严，迟到罚款。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. 前司（回头草）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;strong&gt;优点：&lt;/strong&gt; &lt;strong&gt;极度舒适&lt;/strong&gt;：步行 &lt;strong&gt;5 分钟&lt;/strong&gt;上班，不打卡。&lt;ul&gt;
+&lt;li&gt;工作环境舒适（电脑配置好、300 多的人体工学椅），同事熟，纯 Java 环境。&lt;/li&gt;
+&lt;li&gt;福利好（春节提前一周放假居家办公）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;缺点：&lt;/strong&gt;  薪资低 20%。&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;风险高&lt;/strong&gt;：10 人小团队，有过拖欠 3 个月工资前科，老板曾提过解散。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;纠结：&lt;/strong&gt; 目前不缺钱。 留新公司：钱多点但每天上班如上坟（通勤累+技术栈不喜+电脑卡）。 回前司：生活质量极高，但怕再次欠薪倒闭，面临二次找工作。新公司也是自己负责一个项目（包含前端和产品设计），前司有前端、产品，后端也只有我一人。项目都是同一类型项目。&lt;/p&gt;
+&lt;p&gt;求建议，是为了生活质量回前司苟着，还是在新公司硬抗？&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>如果我做一个类似 V2EX 的网站，不用翻墙就可以看，里面的内容不用多专业，类似文字版的抖音，大家觉得有前途吗</title>
-      <link>https://www.v2ex.com/t/1190852</link>
-      <guid>v2ex-1190852</guid>
-      <pubDate>Thu, 05 Feb 2026 01:32:10 GMT</pubDate>
-      <description>如果我做一个类似 V2EX 的网站，不用翻墙就可以看，里面的内容不用多专业，类似文字版的抖音，大家觉得有前途吗</description>
+      <title>BTC 最低 60000，又上热搜了，你们还好么？</title>
+      <link>https://www.v2ex.com/t/1191089</link>
+      <guid>v2ex-1191089</guid>
+      <pubDate>Fri, 06 Feb 2026 01:07:24 GMT</pubDate>
+      <description>黄金，白银，比特币暴跌，超 21 万人爆仓。</description>
+    </item>
+    <item>
+      <title>感觉千问的这个活动产品负责人实在动脑子了</title>
+      <link>https://www.v2ex.com/t/1191110</link>
+      <guid>v2ex-1191110</guid>
+      <pubDate>Fri, 06 Feb 2026 01:54:34 GMT</pubDate>
+      <description>&lt;p&gt;一个是投入的成本确实足够，再一个可以通过实物（结合外卖生活）的形式给到用户实打实的获利，还能宣传：“我靠，用你 app 都可以点奶茶了，现在的智能体真牛逼”  相比元宝的拼多多式红包，个人感觉千问在活动规划和格局上赢了（个人简介，没有广告）&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>AI 编程先别说好不好用，贵是真的贵，个人真用得起么</title>
+      <link>https://www.v2ex.com/t/1191023</link>
+      <guid>v2ex-1191023</guid>
+      <pubDate>Thu, 05 Feb 2026 10:46:54 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/NoPbbBU.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/NoPbbBU.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;  &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/TyKzZbN.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/TyKzZbN.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; 感觉也没聊几句，就改了七八个文件，对话了 10 几次，就几十刀了&lt;br /&gt; &lt;br /&gt; 这 token 怎么算的，有的对话几块钱，突然就蹦出几十刀的&lt;br /&gt; &lt;br /&gt; auto 便宜，但随机弱智</description>
+    </item>
+    <item>
+      <title>个人长期出点 U，只出个人，目前还剩 3919U</title>
+      <link>https://www.v2ex.com/t/1191086</link>
+      <guid>v2ex-1191086</guid>
+      <pubDate>Fri, 06 Feb 2026 00:55:30 GMT</pubDate>
+      <description>楼主因为做外贸的副业生意，经常客户都是付 U ，我一般都是让他们直接给打到我币安 TRC20 地址&lt;br /&gt;这样的操作，如果 U 有问题，币安平台自己一般能快速查出来，这样也能马上跟客户对质，最后真正到我币安账户的，基本都是安全的 USDT 了，这算是我做外贸副业收 U 的一点心得吧，不去用冷钱包，借用一下币安的风控系统&lt;br /&gt;到现在积累了 3919U 了，所以准备出一出，出完这波后面陆陆续续也还会有，所以是长期出，只出个人，多少 U 都可以出，价格就按照币安的市场价来&lt;br /&gt;交易方式是扫我支付宝二维码，然后我直接通过币安平台内转账给你（需要给我你的币安 UID ），这样 0 手续费。&lt;br /&gt;昨天已经出了 100U 给 @&lt;a target=&quot;_blank&quot; href=&quot;/member/zenfsharp&quot; rel=&quot;nofollow noopener&quot;&gt;zenfsharp&lt;/a&gt; , 有需要的 V 友可以留言，我会联系你。</description>
     </item>
   </channel>
 </rss>
