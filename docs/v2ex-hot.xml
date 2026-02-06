@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 05 Feb 2026 23:45:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 01:06:42 GMT</lastBuildDate>
     <item>
       <title>建议给所有需要公网暴露的 web 服务套一层 authelia</title>
       <link>https://www.v2ex.com/t/1190896</link>
@@ -54,18 +54,14 @@
 </description>
     </item>
     <item>
-      <title>携程还是被罚少了, 春节车票附加费套路, 你踩坑了吗</title>
-      <link>https://www.v2ex.com/t/1190839</link>
-      <guid>v2ex-1190839</guid>
-      <pubDate>Thu, 05 Feb 2026 00:33:30 GMT</pubDate>
-      <description>在[去哪儿]上买的春节期间一家人返乡的车票, 然后订回程票的时候才发现金额有点问题, 查询订单详情才发现没人额外扣了笔 40 元的意外险附加费用, 查了下去程的车票, 果然也被扣了. 之后我又复盘了下这个套路, 发现真的非常容易踩坑:&lt;br /&gt;&lt;br /&gt;1. 用过[去哪儿]的, 应该都知道, 在购票的环节都会出现三个购票选项, 只有一个是以 12306 原价购票, 另外两个都是捆绑酒店或是其他权益的, 当然它起码有小字用低对比度颜色注明了会加多少钱. 当你选了原价购票的选项自以为不被平台套路, 但实际上这个意外险增值服务是以底部弹窗的形式出现在跳转支付前的一个页面弹窗大致意思是大致意思是保障出行,这个弹窗没有标注会加多少钱, 而且按照一般习惯跳转支付前是有个确认底部弹窗很正常, 就很容易忽视这是个附加服务购买的确认弹窗&lt;br /&gt;&lt;br /&gt;2. 最终确认金额的时候很难察觉的金额不对, 众所周知春节期间车票靠抢, 一般会选择多个车次和座位作候补, 而最终付款时是以金额最贵的车票付费, 之后抢到后再退费. 因此看到支付时多出 8%左右的费用会下意识的以为买的是较贵的车次. 我在买回程车票的时候之所以察觉到问题就是因为回程车票只选了一个车次, 就察觉到付款时与车票价格的差别. 幸亏没有选择开通平台自动扣费, 不然连察觉的机会都没有.&lt;br /&gt;&lt;br /&gt;3. 如果是短途车票或是单人购票, 是不会有这个底部弹窗, 它赌的就是你数学不好. 以往买过很多单人都没遇到这种情况.&lt;br /&gt;&lt;br /&gt;结果: 当我发现被套路扣费后还想着在平台退款, 然后它居然敢不提供该附加费用退款的选项. 自动客服也不给退. 打电话也说不给退, 最后转人工退了. 不然还打算 12377 伺候. 各位如果被套路的可以 12377 举报一波了.</description>
-    </item>
-    <item>
-      <title>如果我做一个类似 V2EX 的网站，不用翻墙就可以看，里面的内容不用多专业，类似文字版的抖音，大家觉得有前途吗</title>
-      <link>https://www.v2ex.com/t/1190852</link>
-      <guid>v2ex-1190852</guid>
-      <pubDate>Thu, 05 Feb 2026 01:32:10 GMT</pubDate>
-      <description>如果我做一个类似 V2EX 的网站，不用翻墙就可以看，里面的内容不用多专业，类似文字版的抖音，大家觉得有前途吗</description>
+      <title>如何看待死亡？</title>
+      <link>https://www.v2ex.com/t/1190971</link>
+      <guid>v2ex-1190971</guid>
+      <pubDate>Thu, 05 Feb 2026 08:05:53 GMT</pubDate>
+      <description>&lt;p&gt;人活着的意义在哪里？
+小时候总在想一个问题，人死了之后会怎么样？长大后才知道身死道消的道理。
+这些年忙忙碌碌，算是一事无成吧。中途也经历了非至亲的死亡，那时候对死亡没有深刻的思考，甚至对于死亡思考的还没有小时候多。现在面对至亲得了极凶险的癌症后，看着她化疗后一点点消瘦，脸色变得越来越差，头发也剃光了，以至现在无法进食，但是自己却无能为力，不知道该做些什么。甚至对死亡有了一丝畏惧，回想想想幼时的想法，人死了之后会怎样？好像这些思考也没有任何意义。现在唯一能做的是多陪伴，活好当下。当自己面对这一天时，能否坦然接受呢？只有时间能给我答案了。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>VPS 自建梯子选择</title>
@@ -73,6 +69,13 @@
       <guid>v2ex-1190885</guid>
       <pubDate>Thu, 05 Feb 2026 02:58:16 GMT</pubDate>
       <description>我看很多人推荐 dmit ，但是现在没有优惠，有其他好选择嘛&lt;br /&gt;&lt;br /&gt;或者我看可以直接收别人之前在黑五买的，有没有啥风险&lt;br /&gt;&lt;br /&gt;希望各位大佬指点</description>
+    </item>
+    <item>
+      <title>如果我做一个类似 V2EX 的网站，不用翻墙就可以看，里面的内容不用多专业，类似文字版的抖音，大家觉得有前途吗</title>
+      <link>https://www.v2ex.com/t/1190852</link>
+      <guid>v2ex-1190852</guid>
+      <pubDate>Thu, 05 Feb 2026 01:32:10 GMT</pubDate>
+      <description>如果我做一个类似 V2EX 的网站，不用翻墙就可以看，里面的内容不用多专业，类似文字版的抖音，大家觉得有前途吗</description>
     </item>
   </channel>
 </rss>
