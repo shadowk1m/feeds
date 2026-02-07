@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 07 Feb 2026 12:25:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 13:23:28 GMT</lastBuildDate>
     <item>
       <title>中转站 opus-4-6 上线，免费开蹬一周，回帖抽奖赠送 50 刀</title>
       <link>https://www.v2ex.com/t/1191355</link>
@@ -37,6 +37,17 @@
       <description>ps: 你有多长时间没加过班了??</description>
     </item>
     <item>
+      <title>别再神化 VS Code 了，现在的它臃肿得像个 IDE，我决定回归 Vim/Cursor。</title>
+      <link>https://www.v2ex.com/t/1191387</link>
+      <guid>v2ex-1191387</guid>
+      <pubDate>Sat, 07 Feb 2026 06:54:11 GMT</pubDate>
+      <description>&lt;p&gt;用了 5 年 VS Code ，今天还是把它卸了。现在插件是真的多到飞起，占内存不说，打开个项目都能感到明显变慢，已经完全没有当年那种轻快感了。&lt;/p&gt;
+&lt;p&gt;Cursor 这种把 AI 原生融进编辑器里的，才更像是 2026 年该有的形态；至于 Vim / Neovim 只有在黑窗口里敲字的时候，我才能重新进入那种纯粹的心流。&lt;/p&gt;
+&lt;p&gt;我一直有个很主观的看法：如果一个程序员连基本快捷键都记不住，每天全靠鼠标点来点去，那效率上限大概率不会太高。&lt;/p&gt;
+&lt;p&gt;来吧，晒晒你们现在的编辑器配置。还有多少人还在死磕 Vim / Neovim ？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>有没有一种“把私钥关进时间胶囊”的工具？想物理强制自己 HODL</title>
       <link>https://www.v2ex.com/t/1191350</link>
       <guid>v2ex-1191350</guid>
@@ -53,17 +64,6 @@
 &lt;p&gt;● 这种“加密后丢弃钥匙”的方案，目前有成熟的开源工具吗？&lt;/p&gt;
 &lt;p&gt;● 这种做法最大的风险是不是如果不小心把加密文件也删了，就彻底归零了？&lt;/p&gt;
 &lt;p&gt;● 还有没有比这更绝的“防手贱”方案？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>别再神化 VS Code 了，现在的它臃肿得像个 IDE，我决定回归 Vim/Cursor。</title>
-      <link>https://www.v2ex.com/t/1191387</link>
-      <guid>v2ex-1191387</guid>
-      <pubDate>Sat, 07 Feb 2026 06:54:11 GMT</pubDate>
-      <description>&lt;p&gt;用了 5 年 VS Code ，今天还是把它卸了。现在插件是真的多到飞起，占内存不说，打开个项目都能感到明显变慢，已经完全没有当年那种轻快感了。&lt;/p&gt;
-&lt;p&gt;Cursor 这种把 AI 原生融进编辑器里的，才更像是 2026 年该有的形态；至于 Vim / Neovim 只有在黑窗口里敲字的时候，我才能重新进入那种纯粹的心流。&lt;/p&gt;
-&lt;p&gt;我一直有个很主观的看法：如果一个程序员连基本快捷键都记不住，每天全靠鼠标点来点去，那效率上限大概率不会太高。&lt;/p&gt;
-&lt;p&gt;来吧，晒晒你们现在的编辑器配置。还有多少人还在死磕 Vim / Neovim ？&lt;/p&gt;
 </description>
     </item>
     <item>
