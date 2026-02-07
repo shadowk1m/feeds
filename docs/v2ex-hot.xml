@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 07 Feb 2026 06:47:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 07:24:25 GMT</lastBuildDate>
     <item>
       <title>帮朋友问下如何跨过情色一关</title>
       <link>https://www.v2ex.com/t/1191247</link>
@@ -79,11 +79,20 @@ nodejs 干了两年。结果 nodejs 项目少了，我主动把仅剩的项目�
 </description>
     </item>
     <item>
-      <title>现代美观的 Clash 流量可视化工具: Clash Master</title>
-      <link>https://www.v2ex.com/t/1191225</link>
-      <guid>v2ex-1191225</guid>
-      <pubDate>Fri, 06 Feb 2026 07:15:14 GMT</pubDate>
-      <description>昨晚写了一个 OpenClash (也兼容其他使用 Clash 内核的应用) 的流量可视化面板。&lt;br /&gt;&lt;br /&gt;主要是为了解决原生面板在数据分析和历史趋势查看上的不足，直观感知家庭网络流量。&lt;br /&gt;&lt;br /&gt;推荐家里用 OpenClash 或 Clash 内核的朋友体验下 👇&lt;br /&gt;&lt;br /&gt;👁️ 旁路部署：非侵入式设计，不影响原 Clash 核心稳定性&lt;br /&gt;📊 多维度统计：域名 / IP / 节点流量 / ASN / 地理位置实时监控&lt;br /&gt;📈 30 分钟~24 小时趋势分析&lt;br /&gt;🔄 多后端监控：支持同时管理多个 Clash 实例&lt;br /&gt;💾 数据持久化&lt;br /&gt;🐳 部署便捷：Docker 一键启动&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;代码已开源，欢迎 Star 和试用： &lt;br /&gt;🔗 &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/foru17/clash-master&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/foru17/clash-master&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/aAi49x5.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/aAi49x5.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/4wVwWFb.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/4wVwWFb.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+      <title>关于根据生辰八字取名字被 V 友说胡说八道这件事....</title>
+      <link>https://www.v2ex.com/t/1191341</link>
+      <guid>v2ex-1191341</guid>
+      <pubDate>Sat, 07 Feb 2026 01:30:17 GMT</pubDate>
+      <description>&lt;p&gt;起因：OP 在这个帖子： &lt;a href=&quot;https://www.v2ex.com/t/1190576?p=1&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1190576?p=1&lt;/a&gt; 回复楼主取名字最好还是要根据孩子生辰八字（也没有指名道姓做推广），但是突然就被这位朋友怼了，如图。比较懵的一点是：难道根据生成八字取名字在大家眼里真的是封建迷信吗？怎么这位朋友火气这么大？欢迎大家指正交流。
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/4Kw0ceA.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>正在加班的你, 来这个节点签个到吧! 分享一下你加班的原因, 让 V 友们温暖温暖你 (狗头</title>
+      <link>https://www.v2ex.com/t/1191347</link>
+      <guid>v2ex-1191347</guid>
+      <pubDate>Sat, 07 Feb 2026 02:33:53 GMT</pubDate>
+      <description>ps: 你有多长时间没加过班了??</description>
     </item>
     <item>
       <title>求推荐 Linux 桌面</title>
@@ -100,13 +109,6 @@ nodejs 干了两年。结果 nodejs 项目少了，我主动把仅剩的项目�
 </description>
     </item>
     <item>
-      <title>正在加班的你, 来这个节点签个到吧! 分享一下你加班的原因, 让 V 友们温暖温暖你 (狗头</title>
-      <link>https://www.v2ex.com/t/1191347</link>
-      <guid>v2ex-1191347</guid>
-      <pubDate>Sat, 07 Feb 2026 02:33:53 GMT</pubDate>
-      <description>ps: 你有多长时间没加过班了??</description>
-    </item>
-    <item>
       <title>终于，隐藏门把手正式被 ban 了</title>
       <link>https://www.v2ex.com/t/1191291</link>
       <guid>v2ex-1191291</guid>
@@ -114,12 +116,11 @@ nodejs 干了两年。结果 nodejs 项目少了，我主动把仅剩的项目�
       <description>tesla 造的孽竟然现在才被禁，也是没想到。可能还是得感谢天朝汽车行业卷到飞起，把异形把手发扬光大，卷的亲妈都不认识了，终于逼得国家出条款来规范了。&lt;br /&gt;&lt;br /&gt;tesla 几大“创新”：全触屏操作，反人类门把手，吹 nb 智驾，不可修复车身，偷空间玻璃顶。且看还能剩下几个。</description>
     </item>
     <item>
-      <title>关于根据生辰八字取名字被 V 友说胡说八道这件事....</title>
-      <link>https://www.v2ex.com/t/1191341</link>
-      <guid>v2ex-1191341</guid>
-      <pubDate>Sat, 07 Feb 2026 01:30:17 GMT</pubDate>
-      <description>&lt;p&gt;起因：OP 在这个帖子： &lt;a href=&quot;https://www.v2ex.com/t/1190576?p=1&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1190576?p=1&lt;/a&gt; 回复楼主取名字最好还是要根据孩子生辰八字（也没有指名道姓做推广），但是突然就被这位朋友怼了，如图。比较懵的一点是：难道根据生成八字取名字在大家眼里真的是封建迷信吗？怎么这位朋友火气这么大？欢迎大家指正交流。
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/4Kw0ceA.png&quot;/&gt;&lt;/p&gt;
+      <title>QQ 音乐是不是穷疯了</title>
+      <link>https://www.v2ex.com/t/1191282</link>
+      <guid>v2ex-1191282</guid>
+      <pubDate>Fri, 06 Feb 2026 10:35:34 GMT</pubDate>
+      <description>&lt;p&gt;腾讯这么缺钱吗，还是 QQ 音乐事业部穷疯了？每次打开 app 都必然会有开屏广告，退到后台或者锁屏，重新进入前台时，又显示开屏广告，是几乎每次都会显示，广告过后，又经常显示那个什么音质升级的弹窗，光是取消这个开屏和弹窗都花费我大量的时间，想到 app 内切换个音乐就得看一遍开屏广告，QQ 音乐的负责人是不是有什么毛病？这么缺钱吗！！&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -151,6 +152,35 @@ mysite.com  （实际证书是 digcert 注册的）
 &lt;hr/&gt;
 &lt;h1&gt;免费 WIFI 确实好&lt;/h1&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/3vOmHFx.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>像我父亲这种长期多病、且不配合治疗的老年健康问题，家属应当如何应对和处理？</title>
+      <link>https://www.v2ex.com/t/1191334</link>
+      <guid>v2ex-1191334</guid>
+      <pubDate>Sat, 07 Feb 2026 00:39:02 GMT</pubDate>
+      <description>&lt;p&gt;父亲今年将近 70 岁，一生勤劳，和蔼可亲，曾是我的榜样。然而随着年纪渐长，他反而越来越不注意自己的身体健康，长期吸烟、饮酒，不控制饮食，坏习惯很多。虽然我工作上的问题都能解决，这个问题始终无法解决，这种落差感让我感到非常无力和挫败。&lt;/p&gt;
+&lt;p&gt;近两年来，他频繁出入医院，几乎成了医院的常客。昨天再次住院，身体问题集中爆发：脑梗、脑萎缩，血糖一度高达 26 ，并伴有肾功能衰竭。由于我常年在外地，主要由哥哥姐姐在身边照顾、陪床。我在 2024 年 11 月回家时，他已经住院一周。当时母亲住在姐姐家。&lt;/p&gt;
+&lt;p&gt;住院治疗期间，父亲多次不配合医生治疗，也不愿意花钱，对治疗态度消极。2024 年曾做过一次手术：因白内障视力严重下降，其中一只眼睛已完成手术，另一只眼睛则因其不配合，至今未能手术。&lt;/p&gt;
+&lt;p&gt;经济方面，哥哥姐姐家庭条件本就紧张，目前大部分医药费用由我承担，住院费用暂时不是问题但是一直不彻底彻底治疗，病情反反复复的情况，包括妈妈哥哥姐姐也都无可奈何。&lt;/p&gt;
+&lt;p&gt;我为了安慰哥哥姐姐他们其实已经给出了兜底的回答，你们尽自己能力，父亲因为什么原因离开都不怪你们。&lt;/p&gt;
+&lt;p&gt;为了让哥哥姐姐腾出时间和精力应付爸爸妈妈的危机问题。我从去年就开始主动和侄子、侄女沟通，算是半个老师得角色，也获得可哥哥姐姐的肯定，成效明显。&lt;/p&gt;
+&lt;p&gt;早上醒来，看看车票今天是回不去了，周六的票已经买好，其实陪床也用不了几个人，哥哥说医生建议打胰岛素，否则可能撑不了太久，就像这种随时可能发生的健康问题，我们几个家人没有更好的办法了😭😭，请教一下大家有无更好的建议。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>中转站 opus-4-6 上线，免费开蹬一周，回帖抽奖赠送 50 刀</title>
+      <link>https://www.v2ex.com/t/1191355</link>
+      <guid>v2ex-1191355</guid>
+      <pubDate>Sat, 07 Feb 2026 03:23:32 GMT</pubDate>
+      <description>&lt;p&gt;免费，免费，免费    开蹬，kiro 逆向分组，全部 0 倍率 全部 0 倍率&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GThIBdw.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;注册地址
+[https://terminal.pub/register]https://terminal.pub/register&lt;/p&gt;
+&lt;p&gt;注册后回帖 抽奖送 50 刀
+回帖请带上您的 id
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/9sit66o.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;以下周 5 上证指数收盘后两位，作为 hash 取模，抽取 5 位幸运伙伴，赠送 50 刀&lt;/p&gt;
 </description>
     </item>
   </channel>
