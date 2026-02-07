@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 07 Feb 2026 07:24:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 07:48:35 GMT</lastBuildDate>
     <item>
       <title>帮朋友问下如何跨过情色一关</title>
       <link>https://www.v2ex.com/t/1191247</link>
@@ -116,42 +116,26 @@ nodejs 干了两年。结果 nodejs 项目少了，我主动把仅剩的项目�
       <description>tesla 造的孽竟然现在才被禁，也是没想到。可能还是得感谢天朝汽车行业卷到飞起，把异形把手发扬光大，卷的亲妈都不认识了，终于逼得国家出条款来规范了。&lt;br /&gt;&lt;br /&gt;tesla 几大“创新”：全触屏操作，反人类门把手，吹 nb 智驾，不可修复车身，偷空间玻璃顶。且看还能剩下几个。</description>
     </item>
     <item>
+      <title>中转站 opus-4-6 上线，免费开蹬一周，回帖抽奖赠送 50 刀</title>
+      <link>https://www.v2ex.com/t/1191355</link>
+      <guid>v2ex-1191355</guid>
+      <pubDate>Sat, 07 Feb 2026 03:23:32 GMT</pubDate>
+      <description>&lt;p&gt;免费，免费，免费    开蹬，kiro 逆向分组，全部 0 倍率 全部 0 倍率&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GThIBdw.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;注册地址
+[https://terminal.pub/register]https://terminal.pub/register&lt;/p&gt;
+&lt;p&gt;注册后回帖 抽奖送 50 刀
+回帖请带上您的 id
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/9sit66o.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;以下周 5 上证指数收盘后两位，作为 hash 取模，抽取 5 位幸运伙伴，赠送 50 刀&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>QQ 音乐是不是穷疯了</title>
       <link>https://www.v2ex.com/t/1191282</link>
       <guid>v2ex-1191282</guid>
       <pubDate>Fri, 06 Feb 2026 10:35:34 GMT</pubDate>
       <description>&lt;p&gt;腾讯这么缺钱吗，还是 QQ 音乐事业部穷疯了？每次打开 app 都必然会有开屏广告，退到后台或者锁屏，重新进入前台时，又显示开屏广告，是几乎每次都会显示，广告过后，又经常显示那个什么音质升级的弹窗，光是取消这个开屏和弹窗都花费我大量的时间，想到 app 内切换个音乐就得看一遍开屏广告，QQ 音乐的负责人是不是有什么毛病？这么缺钱吗！！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>外面的免费 WiFi，你就连吧，一连一个不吱声</title>
-      <link>https://www.v2ex.com/t/1191236</link>
-      <guid>v2ex-1191236</guid>
-      <pubDate>Fri, 06 Feb 2026 07:45:37 GMT</pubDate>
-      <description>&lt;p&gt;今天看网络日志，发现一个证书错误&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;一些信息可能比较敏感，引起跑题争论或者误会，做了掩码&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;pre&gt;&lt;code&gt; 
-
-xxxxxxxxxxxxxx (58xxxxxxxxxx)     这是权威境外 CA crt.sh 能查到 
-
-｜
-
-xxxxxxxxxxxxxx (d0xxxxxxxxxx)     这是权威境外 CA crt.sh 能查到
-
-｜
-
-free-m.wifi.xxxxxxxxxxxxxx(afaef9xxxxx) (这个证书在 crt.sh 上搜不到)  
-
-｜
-
-mysite.com  （实际证书是 digcert 注册的）
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr/&gt;
-&lt;h1&gt;免费 WIFI 确实好&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/3vOmHFx.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -169,18 +153,22 @@ mysite.com  （实际证书是 digcert 注册的）
 </description>
     </item>
     <item>
-      <title>中转站 opus-4-6 上线，免费开蹬一周，回帖抽奖赠送 50 刀</title>
-      <link>https://www.v2ex.com/t/1191355</link>
-      <guid>v2ex-1191355</guid>
-      <pubDate>Sat, 07 Feb 2026 03:23:32 GMT</pubDate>
-      <description>&lt;p&gt;免费，免费，免费    开蹬，kiro 逆向分组，全部 0 倍率 全部 0 倍率&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GThIBdw.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;注册地址
-[https://terminal.pub/register]https://terminal.pub/register&lt;/p&gt;
-&lt;p&gt;注册后回帖 抽奖送 50 刀
-回帖请带上您的 id
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/9sit66o.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;以下周 5 上证指数收盘后两位，作为 hash 取模，抽取 5 位幸运伙伴，赠送 50 刀&lt;/p&gt;
+      <title>有没有一种“把私钥关进时间胶囊”的工具？想物理强制自己 HODL</title>
+      <link>https://www.v2ex.com/t/1191350</link>
+      <guid>v2ex-1191350</guid>
+      <pubDate>Sat, 07 Feb 2026 02:53:21 GMT</pubDate>
+      <description>&lt;p&gt;最近在思考一个反人性的操作：与其考验主观耐力，不如从客观上切断退路。
+我想找这样一个工具：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;本地生成一个新的钱包私钥。&lt;/li&gt;
+&lt;li&gt;对私钥进行“时间锁加密”（ Time-lock Encryption ）。设定一个解密难度或者依赖未来的某个时间戳（比如 Drand 信标）才能解密。&lt;/li&gt;
+&lt;li&gt;把币转进去，然后彻底删除明文私钥，只保留那个“打不开”的加密文件。&lt;/li&gt;
+&lt;li&gt;这样在设定时间到达之前，哪怕比特币涨到 20 万或者跌到 1 万，我也只能干瞪眼，没有任何办法卖出。
+现在的智能合约（如 CLTV ）虽然能做到锁定，但往往操作门槛高，而且要把币转到合约里总觉得不放心。我想问问大家：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;● 这种“加密后丢弃钥匙”的方案，目前有成熟的开源工具吗？&lt;/p&gt;
+&lt;p&gt;● 这种做法最大的风险是不是如果不小心把加密文件也删了，就彻底归零了？&lt;/p&gt;
+&lt;p&gt;● 还有没有比这更绝的“防手贱”方案？&lt;/p&gt;
 </description>
     </item>
   </channel>
