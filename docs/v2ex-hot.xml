@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 07 Feb 2026 09:51:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 10:15:27 GMT</lastBuildDate>
     <item>
       <title>中转站 opus-4-6 上线，免费开蹬一周，回帖抽奖赠送 50 刀</title>
       <link>https://www.v2ex.com/t/1191355</link>
@@ -37,20 +37,6 @@
       <description>ps: 你有多长时间没加过班了??</description>
     </item>
     <item>
-      <title>求推荐 Linux 桌面</title>
-      <link>https://www.v2ex.com/t/1191277</link>
-      <guid>v2ex-1191277</guid>
-      <pubDate>Fri, 06 Feb 2026 10:11:00 GMT</pubDate>
-      <description>&lt;p&gt;昨晚将我的红米笔记本安装了 Pop!_OS ，存在几个问题&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;没有 wifi 驱动，后面下载驱动好了&lt;/li&gt;
-&lt;li&gt;每次重启后，首次蓝牙连接都不能用，必须重启蓝牙才行&lt;/li&gt;
-&lt;li&gt;clash verge 无法安装虚拟网卡，没法打开 tun 模式，开全局又没网络&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;大佬们推荐一下你们最喜欢的 Linux 桌面给我体验体验&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>终于，隐藏门把手正式被 ban 了</title>
       <link>https://www.v2ex.com/t/1191291</link>
       <guid>v2ex-1191291</guid>
@@ -74,6 +60,25 @@
 &lt;p&gt;Cursor 这种把 AI 原生融进编辑器里的，才更像是 2026 年该有的形态；至于 Vim / Neovim 只有在黑窗口里敲字的时候，我才能重新进入那种纯粹的心流。&lt;/p&gt;
 &lt;p&gt;我一直有个很主观的看法：如果一个程序员连基本快捷键都记不住，每天全靠鼠标点来点去，那效率上限大概率不会太高。&lt;/p&gt;
 &lt;p&gt;来吧，晒晒你们现在的编辑器配置。还有多少人还在死磕 Vim / Neovim ？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>有没有一种“把私钥关进时间胶囊”的工具？想物理强制自己 HODL</title>
+      <link>https://www.v2ex.com/t/1191350</link>
+      <guid>v2ex-1191350</guid>
+      <pubDate>Sat, 07 Feb 2026 02:53:21 GMT</pubDate>
+      <description>&lt;p&gt;最近在思考一个反人性的操作：与其考验主观耐力，不如从客观上切断退路。
+我想找这样一个工具：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;本地生成一个新的钱包私钥。&lt;/li&gt;
+&lt;li&gt;对私钥进行“时间锁加密”（ Time-lock Encryption ）。设定一个解密难度或者依赖未来的某个时间戳（比如 Drand 信标）才能解密。&lt;/li&gt;
+&lt;li&gt;把币转进去，然后彻底删除明文私钥，只保留那个“打不开”的加密文件。&lt;/li&gt;
+&lt;li&gt;这样在设定时间到达之前，哪怕比特币涨到 20 万或者跌到 1 万，我也只能干瞪眼，没有任何办法卖出。
+现在的智能合约（如 CLTV ）虽然能做到锁定，但往往操作门槛高，而且要把币转到合约里总觉得不放心。我想问问大家：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;● 这种“加密后丢弃钥匙”的方案，目前有成熟的开源工具吗？&lt;/p&gt;
+&lt;p&gt;● 这种做法最大的风险是不是如果不小心把加密文件也删了，就彻底归零了？&lt;/p&gt;
+&lt;p&gt;● 还有没有比这更绝的“防手贱”方案？&lt;/p&gt;
 </description>
     </item>
     <item>
