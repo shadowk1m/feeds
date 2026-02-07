@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 07 Feb 2026 17:17:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 17:48:26 GMT</lastBuildDate>
     <item>
       <title>中转站 opus-4-6 上线，免费开蹬一周，回帖抽奖赠送 50 刀</title>
       <link>https://www.v2ex.com/t/1191355</link>
@@ -102,15 +102,6 @@
 </description>
     </item>
     <item>
-      <title>开发者怒批华为云 C++ SDK 质量：文档失效、基础代码错误频出</title>
-      <link>https://www.v2ex.com/t/1191371</link>
-      <guid>v2ex-1191371</guid>
-      <pubDate>Sat, 07 Feb 2026 04:52:25 GMT</pubDate>
-      <description>&lt;p&gt;😄围观 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3/issues/7&quot; rel=&quot;nofollow&quot;&gt;https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3/issues/7&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>用户经常输错邮箱，有什么办法优化下？</title>
       <link>https://www.v2ex.com/t/1191354</link>
       <guid>v2ex-1191354</guid>
@@ -120,6 +111,15 @@
 .com -&amp;gt; .con
 gmail -&amp;gt; gmall&lt;/p&gt;
 &lt;p&gt;穷举总会有漏网的，有什么办法？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>开发者怒批华为云 C++ SDK 质量：文档失效、基础代码错误频出</title>
+      <link>https://www.v2ex.com/t/1191371</link>
+      <guid>v2ex-1191371</guid>
+      <pubDate>Sat, 07 Feb 2026 04:52:25 GMT</pubDate>
+      <description>&lt;p&gt;😄围观 &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3/issues/7&quot; rel=&quot;nofollow&quot;&gt;https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3/issues/7&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
