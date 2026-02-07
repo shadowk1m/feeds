@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 07 Feb 2026 16:17:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 16:54:08 GMT</lastBuildDate>
     <item>
       <title>中转站 opus-4-6 上线，免费开蹬一周，回帖抽奖赠送 50 刀</title>
       <link>https://www.v2ex.com/t/1191355</link>
@@ -37,15 +37,6 @@
       <description>ps: 你有多长时间没加过班了??</description>
     </item>
     <item>
-      <title>[吐槽] 看着 Claude 4.6 和 GPT-5.3 神仙打架，再看看国内大厂春节在搞奶茶发红包，破防了</title>
-      <link>https://www.v2ex.com/t/1191364</link>
-      <guid>v2ex-1191364</guid>
-      <pubDate>Sat, 07 Feb 2026 04:12:25 GMT</pubDate>
-      <description>&lt;p&gt;刚刚在外网看到这篇文章的辣评，突然有感而发，看着 Claude 4.6 和 GPT-5.3 神仙打架，再看看国内大厂春节在搞奶茶发红包，彻底破防了。。。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://deepseekv4.app/zh/news/2026-02-06-opinion-us-nuclear-vs-cn-tea&quot; rel=&quot;nofollow&quot;&gt;https://deepseekv4.app/zh/news/2026-02-06-opinion-us-nuclear-vs-cn-tea&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>别再神化 VS Code 了，现在的它臃肿得像个 IDE，我决定回归 Vim/Cursor。</title>
       <link>https://www.v2ex.com/t/1191387</link>
       <guid>v2ex-1191387</guid>
@@ -54,6 +45,15 @@
 &lt;p&gt;Cursor 这种把 AI 原生融进编辑器里的，才更像是 2026 年该有的形态；至于 Vim / Neovim 只有在黑窗口里敲字的时候，我才能重新进入那种纯粹的心流。&lt;/p&gt;
 &lt;p&gt;我一直有个很主观的看法：如果一个程序员连基本快捷键都记不住，每天全靠鼠标点来点去，那效率上限大概率不会太高。&lt;/p&gt;
 &lt;p&gt;来吧，晒晒你们现在的编辑器配置。还有多少人还在死磕 Vim / Neovim ？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[吐槽] 看着 Claude 4.6 和 GPT-5.3 神仙打架，再看看国内大厂春节在搞奶茶发红包，破防了</title>
+      <link>https://www.v2ex.com/t/1191364</link>
+      <guid>v2ex-1191364</guid>
+      <pubDate>Sat, 07 Feb 2026 04:12:25 GMT</pubDate>
+      <description>&lt;p&gt;刚刚在外网看到这篇文章的辣评，突然有感而发，看着 Claude 4.6 和 GPT-5.3 神仙打架，再看看国内大厂春节在搞奶茶发红包，彻底破防了。。。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://deepseekv4.app/zh/news/2026-02-06-opinion-us-nuclear-vs-cn-tea&quot; rel=&quot;nofollow&quot;&gt;https://deepseekv4.app/zh/news/2026-02-06-opinion-us-nuclear-vs-cn-tea&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -102,11 +102,16 @@
 </description>
     </item>
     <item>
-      <title>求推荐个父母用的手机</title>
-      <link>https://www.v2ex.com/t/1191327</link>
-      <guid>v2ex-1191327</guid>
-      <pubDate>Fri, 06 Feb 2026 16:42:52 GMT</pubDate>
-      <description>国内给父母换个手机，他们一直用 Android 。&lt;br /&gt;需求是 电池容量大 信号好，价格 2k 内。其他他们也就刷个抖音 西瓜视频啥的，用用微信</description>
+      <title>用户经常输错邮箱，有什么办法优化下？</title>
+      <link>https://www.v2ex.com/t/1191354</link>
+      <guid>v2ex-1191354</guid>
+      <pubDate>Sat, 07 Feb 2026 03:13:53 GMT</pubDate>
+      <description>&lt;p&gt;常见的错误：
+.com -&amp;gt; .cpm
+.com -&amp;gt; .con
+gmail -&amp;gt; gmall&lt;/p&gt;
+&lt;p&gt;穷举总会有漏网的，有什么办法？&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>开发者怒批华为云 C++ SDK 质量：文档失效、基础代码错误频出</title>
