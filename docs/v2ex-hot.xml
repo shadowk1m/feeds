@@ -4,47 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Feb 2026 01:28:39 GMT</lastBuildDate>
-    <item>
-      <title>中转站 opus-4-6 上线，免费开蹬一周，回帖抽奖赠送 50 刀</title>
-      <link>https://www.v2ex.com/t/1191355</link>
-      <guid>v2ex-1191355</guid>
-      <pubDate>Sat, 07 Feb 2026 03:23:32 GMT</pubDate>
-      <description>&lt;p&gt;免费，免费，免费    开蹬，kiro 逆向分组，全部 0 倍率 全部 0 倍率&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GThIBdw.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;注册地址
-[https://terminal.pub/register]https://terminal.pub/register&lt;/p&gt;
-&lt;p&gt;注册后回帖 抽奖送 50 刀
-回帖请带上您的 id
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/9sit66o.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;以下周 5 上证指数收盘后两位，作为 hash 取模，抽取 5 位幸运伙伴，赠送 50 刀&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>关于根据生辰八字取名字被 V 友说胡说八道这件事....</title>
-      <link>https://www.v2ex.com/t/1191341</link>
-      <guid>v2ex-1191341</guid>
-      <pubDate>Sat, 07 Feb 2026 01:30:17 GMT</pubDate>
-      <description>&lt;p&gt;起因：OP 在这个帖子： &lt;a href=&quot;https://www.v2ex.com/t/1190576?p=1&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1190576?p=1&lt;/a&gt; 回复楼主取名字最好还是要根据孩子生辰八字（也没有指名道姓做推广），但是突然就被这位朋友怼了，如图。比较懵的一点是：难道根据生成八字取名字在大家眼里真的是封建迷信吗？怎么这位朋友火气这么大？欢迎大家指正交流。
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/4Kw0ceA.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>正在加班的你, 来这个节点签个到吧! 分享一下你加班的原因, 让 V 友们温暖温暖你 (狗头</title>
-      <link>https://www.v2ex.com/t/1191347</link>
-      <guid>v2ex-1191347</guid>
-      <pubDate>Sat, 07 Feb 2026 02:33:53 GMT</pubDate>
-      <description>ps: 你有多长时间没加过班了??</description>
-    </item>
-    <item>
-      <title>[吐槽] 看着 Claude 4.6 和 GPT-5.3 神仙打架，再看看国内大厂春节在搞奶茶发红包，破防了</title>
-      <link>https://www.v2ex.com/t/1191364</link>
-      <guid>v2ex-1191364</guid>
-      <pubDate>Sat, 07 Feb 2026 04:12:25 GMT</pubDate>
-      <description>&lt;p&gt;刚刚在外网看到这篇文章的辣评，突然有感而发，看着 Claude 4.6 和 GPT-5.3 神仙打架，再看看国内大厂春节在搞奶茶发红包，彻底破防了。。。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://deepseekv4.app/zh/news/2026-02-06-opinion-us-nuclear-vs-cn-tea&quot; rel=&quot;nofollow&quot;&gt;https://deepseekv4.app/zh/news/2026-02-06-opinion-us-nuclear-vs-cn-tea&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 04:16:21 GMT</lastBuildDate>
     <item>
       <title>别再神化 VS Code 了，现在的它臃肿得像个 IDE，我决定回归 Vim/Cursor。</title>
       <link>https://www.v2ex.com/t/1191387</link>
@@ -57,25 +17,6 @@
 </description>
     </item>
     <item>
-      <title>有没有一种“把私钥关进时间胶囊”的工具？想物理强制自己 HODL</title>
-      <link>https://www.v2ex.com/t/1191350</link>
-      <guid>v2ex-1191350</guid>
-      <pubDate>Sat, 07 Feb 2026 02:53:21 GMT</pubDate>
-      <description>&lt;p&gt;最近在思考一个反人性的操作：与其考验主观耐力，不如从客观上切断退路。
-我想找这样一个工具：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;本地生成一个新的钱包私钥。&lt;/li&gt;
-&lt;li&gt;对私钥进行“时间锁加密”（ Time-lock Encryption ）。设定一个解密难度或者依赖未来的某个时间戳（比如 Drand 信标）才能解密。&lt;/li&gt;
-&lt;li&gt;把币转进去，然后彻底删除明文私钥，只保留那个“打不开”的加密文件。&lt;/li&gt;
-&lt;li&gt;这样在设定时间到达之前，哪怕比特币涨到 20 万或者跌到 1 万，我也只能干瞪眼，没有任何办法卖出。
-现在的智能合约（如 CLTV ）虽然能做到锁定，但往往操作门槛高，而且要把币转到合约里总觉得不放心。我想问问大家：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;● 这种“加密后丢弃钥匙”的方案，目前有成熟的开源工具吗？&lt;/p&gt;
-&lt;p&gt;● 这种做法最大的风险是不是如果不小心把加密文件也删了，就彻底归零了？&lt;/p&gt;
-&lt;p&gt;● 还有没有比这更绝的“防手贱”方案？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>开发者怒批华为云 C++ SDK 质量：文档失效、基础代码错误频出</title>
       <link>https://www.v2ex.com/t/1191371</link>
       <guid>v2ex-1191371</guid>
@@ -85,46 +26,156 @@
 </description>
     </item>
     <item>
-      <title>用户经常输错邮箱，有什么办法优化下？</title>
-      <link>https://www.v2ex.com/t/1191354</link>
-      <guid>v2ex-1191354</guid>
-      <pubDate>Sat, 07 Feb 2026 03:13:53 GMT</pubDate>
-      <description>&lt;p&gt;常见的错误：
-.com -&amp;gt; .cpm
-.com -&amp;gt; .con
-gmail -&amp;gt; gmall&lt;/p&gt;
-&lt;p&gt;穷举总会有漏网的，有什么办法？&lt;/p&gt;
+      <title>奶茶店的奶茶到底健康吗？</title>
+      <link>https://www.v2ex.com/t/1191440</link>
+      <guid>v2ex-1191440</guid>
+      <pubDate>Sat, 07 Feb 2026 15:35:15 GMT</pubDate>
+      <description>&lt;p&gt;现在奶茶店琳琅满目。太多种类了&lt;/p&gt;
+&lt;p&gt;但是真的健康吗。里面的牛奶是真的牛奶吗。珍珠啥的都健康吗&lt;/p&gt;
+&lt;p&gt;还有奶茶店的食材工商管理或者食品安全部门会检查吗&lt;/p&gt;
+&lt;p&gt;不求喝了能延年益寿。起码没什么致癌或者心脑血管的成分吧&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>刚续费一年的国内服务器被停止服务了，应该怎样处理</title>
-      <link>https://www.v2ex.com/t/1191358</link>
-      <guid>v2ex-1191358</guid>
-      <pubDate>Sat, 07 Feb 2026 03:31:08 GMT</pubDate>
-      <description>&lt;p&gt;今早突然收到邮件&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;尊敬的用户：
+      <title>mac 现在必备的有什么?</title>
+      <link>https://www.v2ex.com/t/1191386</link>
+      <guid>v2ex-1191386</guid>
+      <pubDate>Sat, 07 Feb 2026 06:53:59 GMT</pubDate>
+      <description>&lt;p&gt;RT, 公司发了个新 mac, 用了 5 年的 m1 可以退役了, 很久没有 setup 新 mac 了, 请问大家现在这个年代 mac 有什么必备的软件吗? 我过去习惯 iterm2 这一套了. 谢谢大家!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>用了安卓一段时间发现有个奇怪的现象</title>
+      <link>https://www.v2ex.com/t/1191396</link>
+      <guid>v2ex-1191396</guid>
+      <pubDate>Sat, 07 Feb 2026 07:59:04 GMT</pubDate>
+      <description>多年 IOS 用户最近双持了一加 15 刷成了 oxygenOS ，用了几个星期下来发现一些不理解的现象。&lt;br /&gt;&lt;br /&gt;国外的 app 包括但不限于通讯、银行、购物、工具、政府、生产力等等，在安卓上的体验几乎跟在 IOS 没有差别，有的甚至更顺手，比如我常用的二手平台 Carousell ，还有 meta 、亚马逊等各家大厂的 app 也是用起来很顺手。&lt;br /&gt;&lt;br /&gt;唯独国产的 App 不知道怎么就是比 IOS 要难用，不跟手，逻辑混乱，界面字体大小混乱，是做不到吗还是不想做？</description>
+    </item>
+    <item>
+      <title>2.8 正在加班</title>
+      <link>https://www.v2ex.com/t/1191474</link>
+      <guid>v2ex-1191474</guid>
+      <pubDate>Sun, 08 Feb 2026 02:33:33 GMT</pubDate>
+      <description>公司要求补班，路上寥寥无几的行人，今天还降温了，沿途没有了摆摊的小贩，我失去了今天的早餐，一种春节的感觉扑面而来到了公司楼下，一电梯都是公司的人，电梯高峰期直达公司所在楼层。</description>
+    </item>
+    <item>
+      <title>rmx：给 Windows 换一个能用的删除</title>
+      <link>https://www.v2ex.com/t/1191415</link>
+      <guid>v2ex-1191415</guid>
+      <pubDate>Sat, 07 Feb 2026 11:20:30 GMT</pubDate>
+      <description>&lt;p&gt;Windows 的文件删除功能有多难用，做开发的大概都有体会。&lt;/p&gt;
+&lt;p&gt;删个 node_modules 得等上好几秒甚至十几秒，进度条一格一格地挪。碰上某个文件被进程占用，直接弹个&quot;操作无法完成，因为文件已在另一个程序中打开&quot;，然后你得自己去找到底是哪个进程锁的，打开任务管理器翻一圈，杀掉再回来重试。&lt;/p&gt;
+&lt;p&gt;rmx 就是来解决这两件事的：&lt;strong&gt;删得快&lt;/strong&gt;，&lt;strong&gt;删得掉&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2&gt;它到底做了什么&lt;/h2&gt;
+&lt;p&gt;rmx 是一个 Windows 下的命令行文件删除工具，Rust 写的，开源（ MIT ）。&lt;/p&gt;
+&lt;p&gt;速度上，它绕过了 Windows 的高层文件 API ，直接调用底层的 &lt;code&gt;CreateFileW&lt;/code&gt; + &lt;code&gt;SetFileInformationByHandle&lt;/code&gt;，再配合 &lt;code&gt;FILE_DISPOSITION_POSIX_SEMANTICS&lt;/code&gt; 这个标志位实现即时删除——文件在命名空间里直接消失，不用等所有句柄关闭。整个删除过程多线程并行，目录扫描和文件删除分层调度。&lt;/p&gt;
+&lt;p&gt;实际跑下来是什么效果？在 5301 个文件（ 5000 文件 + 301 目录）的测试里，rmx 用了 514 毫秒，PowerShell 的 &lt;code&gt;Remove-Item&lt;/code&gt; 用了 1150 毫秒。快了一倍多。&lt;/p&gt;
+&lt;p&gt;文件占用这块更直接：加一个 &lt;code&gt;--kill-processes&lt;/code&gt; 参数，rmx 通过 Windows Restart Manager API 自动识别锁住文件的进程，干掉它，再删。不用你自己去查。&lt;/p&gt;
+&lt;h2&gt;不只是命令行&lt;/h2&gt;
+&lt;p&gt;说实话，一个命令行删除工具对大多数人吸引力有限。rmx 真正有意思的地方在于它可以&lt;strong&gt;直接替代 Windows 资源管理器的删除功能&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;跑一下 &lt;code&gt;rmx init&lt;/code&gt;，它会注册一个 Shell 扩展到 Windows 右键菜单。之后你在资源管理器里右键任意文件或文件夹，会多出一个 &quot;Delete with rmx&quot; 的选项。&lt;/p&gt;
+&lt;p&gt;日常使用方式完全不变——还是右键、点删除，但背后走的是 rmx 的并行引擎。该快的快了，该能删的也能删了。对不想碰命令行的人来说，这才是真正有用的功能。&lt;/p&gt;
+&lt;h2&gt;具体能干什么&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;基本删除&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# 删文件夹
+rmx ./node_modules
 
-您好！
-我们在您的服务器产品 xxx 中检测到了违规代理程序 sxxx-bxx 。
-根据《互联网信息服务管理办法》第十五条规定九不准内容、《 xx 云计算使用协议》之条款 4.5.1 及管局通知文件精神要求，xx 云计算现停止对您提供服务。
+# 一次删多个
+rmx ./target ./node_modules ./dist
 
-感谢您对我们的理解与支持。
-xx 云计算 
+# 删单个文件
+rmx ./log.txt
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;服务器本来是用来 easytier p2p 组网，方便我访问实验室资源。按月支付，用了一年之后觉得还挺稳定，就续了一年😢。现在是暂停计费状态，不确定以后会不会恢复。&lt;/p&gt;
-&lt;p&gt;代理程序是测试绕过 wifi login 页面的时候装的，协议忘了是 hy2 还是 vless ，但是之后都没怎么使用，感觉不太可能被扫到端口定位出使用的程序。&lt;/p&gt;
-&lt;p&gt;工单里面问了一下，说不能退款。可以开放 24 小时迁移数据。&lt;/p&gt;
-&lt;p&gt;请问一下各位大哥，这种情况下我应该怎么做呢？申请退款试试？开放 24 小时上去删数据？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;处理文件占用&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# 自动杀掉占用进程再删除
+rmx --kill-processes ./locked_directory
+
+# 递归 + 强制 + 杀进程，一把梭
+rmx -rf --kill-processes ./path
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# 只解除占用不删除（调试时有用）
+rmx --unlock ./locked_file.txt
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;右键菜单集成&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-powershell&quot;&gt;# 注册到 Windows 资源管理器右键菜单（需要管理员权限）
+rmx init
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;跑完之后就能右键删了，不用再开终端。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# 预览模式，看看要删什么但不真删
+rmx -n ./node_modules
+
+# 查看删除统计
+rmx -v --stats ./target
+
+# 自升级
+rmx upgrade
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;安全方面&lt;/h2&gt;
+&lt;p&gt;rmx 内置了保护机制，删不了 &lt;code&gt;C:\Windows&lt;/code&gt;、&lt;code&gt;C:\Program Files&lt;/code&gt; 这些系统目录，也删不了用户主目录。没加 &lt;code&gt;-f&lt;/code&gt; 的话删除前会要求确认。不用担心手滑把系统搞坏。&lt;/p&gt;
+&lt;h2&gt;安装&lt;/h2&gt;
+&lt;p&gt;最简单的方式是用 Scoop：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-powershell&quot;&gt;scoop bucket add rmx https://github.com/zerx-lab/rmx
+scoop install rmx
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;也可以用 Cargo：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;cargo install --git https://github.com/zerx-lab/rmx
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;或者直接去 &lt;a href=&quot;https://github.com/zerx-lab/rmx/releases&quot; rel=&quot;nofollow&quot;&gt;GitHub Releases&lt;/a&gt; 下载编译好的二进制。&lt;/p&gt;
+&lt;p&gt;装完建议跑一下 &lt;code&gt;rmx init&lt;/code&gt; 把右键菜单注册上，日常用起来最方便。&lt;/p&gt;
+&lt;h2&gt;技术要求&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows 10 1607 或更高版本&lt;/li&gt;
+&lt;li&gt;NTFS 文件系统&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;谁适合用&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;前端开发，天天跟 node_modules 打交道的&lt;/li&gt;
+&lt;li&gt;Rust 开发，target 文件夹动不动几个 G 的&lt;/li&gt;
+&lt;li&gt;任何经常碰到&quot;文件被占用删不掉&quot;的人&lt;/li&gt;
+&lt;li&gt;想要一个更快的右键删除的普通用户&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;p&gt;GitHub： &lt;a href=&quot;https://github.com/zerx-lab/rmx&quot; rel=&quot;nofollow&quot;&gt;https://github.com/zerx-lab/rmx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;协议：MIT&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>12306 高铁短补长查询</title>
-      <link>https://www.v2ex.com/t/1191361</link>
-      <guid>v2ex-1191361</guid>
-      <pubDate>Sat, 07 Feb 2026 03:53:23 GMT</pubDate>
-      <description>&lt;p&gt;上午 vibe 了一个 12306 高铁短补长查询。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://12306.aiplanapp.com/&quot; rel=&quot;nofollow&quot;&gt;https://12306.aiplanapp.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;已经帮我一个朋友买到票了&lt;/p&gt;
+      <title>404 警告, 正在摸鱼的你还记得你最初的梦想吗?偷偷的告诉我, 我保证不跟别人说.</title>
+      <link>https://www.v2ex.com/t/1191393</link>
+      <guid>v2ex-1191393</guid>
+      <pubDate>Sat, 07 Feb 2026 07:38:03 GMT</pubDate>
+      <description>&lt;p&gt;欢迎大家关注这个[梦想 🫧]节点: &lt;a href=&quot;/go/404&quot; rel=&quot;nofollow&quot;&gt;/go/404&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大胆的说出来, 万一碰到有相同梦想的人呢? &lt;/p&gt;
+&lt;p&gt;ps: 我一直梦想着当一个小说作家, 之前一直没时间和精力, 最近又突然想起来了, 所以搞了这么一个节点 &lt;a href=&quot;/go/writer&quot; rel=&quot;nofollow&quot;&gt;有故事的人&lt;/a&gt; 准备以后在这里面连载一些小故事练练手, 欢迎大家提意见.&lt;/p&gt;
+&lt;p&gt;我还有一个梦想, 是开发一个属于我自己的独立游戏, 但是之前一直没接触过游戏开发, 最近一段时间接触到了, 又有点想搞了&lt;/p&gt;
+&lt;p&gt;我还有一个梦想, 这个真的是梦想了, 当一个科学家, 从小就有的梦想, 但是这辈子实现好像有点难了, 所以没事就多想想, 万一下辈子的孟婆汤不够劲, 记忆没全洗掉呢, 哈哈哈哈.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>微信利用垄断地位作恶</title>
+      <link>https://www.v2ex.com/t/1191458</link>
+      <guid>v2ex-1191458</guid>
+      <pubDate>Sat, 07 Feb 2026 20:32:47 GMT</pubDate>
+      <description>&lt;p&gt;在微信的小程序里有 4.72 元余额，是通过微信充值进去的。
+退款时，小程序申称退款了，微信却申称没有收到。
+我投诉小程序，被微信私自关闭，要我私下打电话和小程序商量，我的钱我要去商量很奇怪，我去联系小程序，又被推给微信，说钱给了微信，
+我又去联系微信，微信说钱给到了小程序，不管他们的事。
+就这样我的钱进入了规则黑洞，不可见了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>周末来玩小游戏啊</title>
+      <link>https://www.v2ex.com/t/1191402</link>
+      <guid>v2ex-1191402</guid>
+      <pubDate>Sat, 07 Feb 2026 08:46:34 GMT</pubDate>
+      <description>&lt;p&gt;个人开发的小游戏《潜艇进击》上线快一个月了。这几天发了一版大的更新（新的敌人、BOSS 和防护盾等）。&lt;/p&gt;
+&lt;p&gt;V 站氛围比较好，流量也比较大。之前分享过作品，有 V 友反馈 UI 有点丑，这次也上了新的 UI 。&lt;/p&gt;
+&lt;p&gt;希望可以得到大家的试玩和反馈，小游戏还是很好玩的。&lt;/p&gt;
+&lt;p&gt;微信和抖音均已上架，直接扫码直达，或者搜“潜艇进击”就能看到。&lt;/p&gt;
+&lt;p&gt;感谢支持！&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://p.sda1.dev/30/f3db8b55ccd869facd3b129d6bd02333/QTJJ.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://p.sda1.dev/30/f1d8be0dc52ba0ed308d111c738aafd9/QRCODE.jpg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
