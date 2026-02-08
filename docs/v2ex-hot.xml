@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Feb 2026 21:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 21:47:07 GMT</lastBuildDate>
     <item>
       <title>花 4 个月和 3 万刀做了个 Agent 网页支持工具 coolvibe.io，手机/PC 都能看，支持自部署，订阅免费送！</title>
       <link>https://www.v2ex.com/t/1191528</link>
@@ -58,6 +58,13 @@
       <description>&lt;p&gt;有种说法是第一份工作决定了整个职业生涯的道路&lt;/p&gt;
 &lt;p&gt;我毕业的时候选错了第一份工作，干了几年，感觉不管是发展空间还是技术路线都很局限，想跑路，却发现工作经验可能无法匹配目标岗位，请教大家如何解决这种困境？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>为什么 AI 就这么聪明了，能想到很巧妙的方式解决问题</title>
+      <link>https://www.v2ex.com/t/1191488</link>
+      <guid>v2ex-1191488</guid>
+      <pubDate>Sun, 08 Feb 2026 04:05:13 GMT</pubDate>
+      <description>事情是这样的，我先自己思考写了一个特定条件下搜索文本的代码。然后想了想贴给了 AI ，让它看看有没有什么没考虑到的地方。&lt;br /&gt;没想到它用了一种比较巧妙的方式解决了问题，是我之前怎么都没想到的。&lt;br /&gt;感叹下 AI 真的很聪明，是吸收了迄今为止所有程序员的智慧吗？个人如何与之比较，只能一起合作解决问题。</description>
     </item>
     <item>
       <title>追觅集团 | 热招岗位汇总</title>
@@ -367,13 +374,6 @@ for 智能影像 BU ，&lt;strong&gt;base 深圳&lt;/strong&gt;。&lt;/li&gt;
       <description>新人，发现了这里。有软件开发需求去哪里找人定制？速冻果蔬工厂，需要一套 rs232 读取称重软件，后续要配合 rfid 管理工厂从原料到发货 全流程。</description>
     </item>
     <item>
-      <title>为什么 AI 就这么聪明了，能想到很巧妙的方式解决问题</title>
-      <link>https://www.v2ex.com/t/1191488</link>
-      <guid>v2ex-1191488</guid>
-      <pubDate>Sun, 08 Feb 2026 04:05:13 GMT</pubDate>
-      <description>事情是这样的，我先自己思考写了一个特定条件下搜索文本的代码。然后想了想贴给了 AI ，让它看看有没有什么没考虑到的地方。&lt;br /&gt;没想到它用了一种比较巧妙的方式解决了问题，是我之前怎么都没想到的。&lt;br /&gt;感叹下 AI 真的很聪明，是吸收了迄今为止所有程序员的智慧吗？个人如何与之比较，只能一起合作解决问题。</description>
-    </item>
-    <item>
       <title>上海移动新套路 qos，官方测速正常，实际限速 1Mbps</title>
       <link>https://www.v2ex.com/t/1191479</link>
       <guid>v2ex-1191479</guid>
@@ -382,11 +382,11 @@ for 智能影像 BU ，&lt;strong&gt;base 深圳&lt;/strong&gt;。&lt;/li&gt;
 </description>
     </item>
     <item>
-      <title>大家过年喝什么酒啊</title>
-      <link>https://www.v2ex.com/t/1191513</link>
-      <guid>v2ex-1191513</guid>
-      <pubDate>Sun, 08 Feb 2026 07:41:11 GMT</pubDate>
-      <description>最近看五粮液，800 不到了。真便宜&lt;br /&gt;大家买了什么年货么</description>
+      <title>低前糖电饭煲交智商税么？真有用的请 V 友推荐一下。</title>
+      <link>https://www.v2ex.com/t/1191553</link>
+      <guid>v2ex-1191553</guid>
+      <pubDate>Sun, 08 Feb 2026 11:10:56 GMT</pubDate>
+      <description>⼁受不了现在用的电饭煲，有锅巴产生，想换掉，反正换想弄个低糖的，减少摄入碳水。要求只有不生成锅巴/不起焦，低糖更好，功能无要求，越简单越快煮好就行，价格小几百可搞定最好，有经验的 V 友介绍一下，感谢</description>
     </item>
   </channel>
 </rss>
