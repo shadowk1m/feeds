@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Feb 2026 17:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 17:49:44 GMT</lastBuildDate>
     <item>
       <title>花 4 个月和 3 万刀做了个 Agent 网页支持工具 coolvibe.io，手机/PC 都能看，支持自部署，订阅免费送！</title>
       <link>https://www.v2ex.com/t/1191528</link>
@@ -65,6 +65,13 @@
       <guid>v2ex-1191578</guid>
       <pubDate>Sun, 08 Feb 2026 14:20:21 GMT</pubDate>
       <description>新人，发现了这里。有软件开发需求去哪里找人定制？速冻果蔬工厂，需要一套 rs232 读取称重软件，后续要配合 rfid 管理工厂从原料到发货 全流程。</description>
+    </item>
+    <item>
+      <title>为什么 AI 就这么聪明了，能想到很巧妙的方式解决问题</title>
+      <link>https://www.v2ex.com/t/1191488</link>
+      <guid>v2ex-1191488</guid>
+      <pubDate>Sun, 08 Feb 2026 04:05:13 GMT</pubDate>
+      <description>事情是这样的，我先自己思考写了一个特定条件下搜索文本的代码。然后想了想贴给了 AI ，让它看看有没有什么没考虑到的地方。&lt;br /&gt;没想到它用了一种比较巧妙的方式解决了问题，是我之前怎么都没想到的。&lt;br /&gt;感叹下 AI 真的很聪明，是吸收了迄今为止所有程序员的智慧吗？个人如何与之比较，只能一起合作解决问题。</description>
     </item>
     <item>
       <title>追觅集团 | 热招岗位汇总</title>
@@ -385,13 +392,6 @@ for 智能影像 BU ，&lt;strong&gt;base 深圳&lt;/strong&gt;。&lt;/li&gt;
       <pubDate>Sun, 08 Feb 2026 03:14:39 GMT</pubDate>
       <description>&lt;p&gt;估计是上个月传百度网盘+bilibili 流量 2TB ，这个月不管是什么上传，速度都限速 1Mbps ，然而官方测速上行速度正常，越来越魔幻了&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>为什么 AI 就这么聪明了，能想到很巧妙的方式解决问题</title>
-      <link>https://www.v2ex.com/t/1191488</link>
-      <guid>v2ex-1191488</guid>
-      <pubDate>Sun, 08 Feb 2026 04:05:13 GMT</pubDate>
-      <description>事情是这样的，我先自己思考写了一个特定条件下搜索文本的代码。然后想了想贴给了 AI ，让它看看有没有什么没考虑到的地方。&lt;br /&gt;没想到它用了一种比较巧妙的方式解决了问题，是我之前怎么都没想到的。&lt;br /&gt;感叹下 AI 真的很聪明，是吸收了迄今为止所有程序员的智慧吗？个人如何与之比较，只能一起合作解决问题。</description>
     </item>
   </channel>
 </rss>
