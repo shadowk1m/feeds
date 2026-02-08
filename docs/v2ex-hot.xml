@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Feb 2026 09:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 09:50:22 GMT</lastBuildDate>
     <item>
       <title>奶茶店的奶茶到底健康吗？</title>
       <link>https://www.v2ex.com/t/1191440</link>
@@ -22,6 +22,29 @@
       <guid>v2ex-1191474</guid>
       <pubDate>Sun, 08 Feb 2026 02:33:33 GMT</pubDate>
       <description>公司要求补班，路上寥寥无几的行人，今天还降温了，沿途没有了摆摊的小贩，我失去了今天的早餐，一种春节的感觉扑面而来到了公司楼下，一电梯都是公司的人，电梯高峰期直达公司所在楼层。</description>
+    </item>
+    <item>
+      <title>花 4 个月和 3 万刀做了个 Agent 网页支持工具 coolvibe.io，手机/PC 都能看，支持自部署，订阅免费送！</title>
+      <link>https://www.v2ex.com/t/1191528</link>
+      <guid>v2ex-1191528</guid>
+      <pubDate>Sun, 08 Feb 2026 08:43:05 GMT</pubDate>
+      <description>&lt;p&gt;官网地址：&lt;a href=&quot;https://www.coolvibe.io&quot; rel=&quot;nofollow&quot;&gt;https://www.coolvibe.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以前想在外面看看代码跑得怎么样
+又是 frp 又是 ngrok 配半天&lt;/p&gt;
+&lt;p&gt;市面上又没有一个比较方便的手机可以看电脑 Agent 任务的程序，不是这个功能欠缺就是做的比较简陋，功能不齐全，到处卡手。和团队小伙伴合计，参考 vibekanban 的模式和样式，我们团队自己开发了一套。自己内部使用三个月之后，几乎已经不需要再打开 cursor 了，觉得这么好用的东西，感觉可以做成一个产品分享给大家。&lt;/p&gt;
+&lt;p&gt;软件几乎也是没有功能限制，而且只要登录一下官网账号，自带了公网隧道，一键开启。个人用户几乎完全没有限制，不过鉴于公网流量，限制了一下带宽(成本考虑）&lt;/p&gt;
+&lt;p&gt;开发这个产品几乎从开始到结束应该有花三万多美元的 Agent 额度，整个团队投入四个月(怪不得 xterminal 不更新)，在交互，易用性，性能上投入了非常多的人力，内部也几乎只用这个工具开发软件了，但肯定摆脱不了会存在一些不完美的地方，我们会努力继续迭代的。&lt;/p&gt;
+&lt;p&gt;三年前 xterminal 首发 V2EX 社区，我们第二款产品也在这里诞生，这是我们内部开发工具催生出来的产品，也是一个新的道路的尝试，希望能给大家带来一些编程上的便捷性。&lt;/p&gt;
+&lt;p&gt;当然最后也不会让大家破费（当然也欢迎），安装软件后，授权账号信息之后，复制账号 id 评论，我就会给大家开通订阅，希望大家有 bug 或者需求，可以直接反馈，这边会尽快修复。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;图片 1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/f0fxsPyRl.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;官网地址：&lt;a href=&quot;https://www.coolvibe.io&quot; rel=&quot;nofollow&quot;&gt;https://www.coolvibe.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;下面是一些使用中的截图
+&lt;img alt=&quot;图片 3&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/0DO01Cfwl.png&quot;/&gt;
+&lt;img alt=&quot;图片 1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/QkYdloE9l.png&quot;/&gt;
+&lt;img alt=&quot;图片 3&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/mv327J7Dl.png&quot;/&gt;
+&lt;img alt=&quot;图片 5&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/X821499tl.jpeg&quot;/&gt;
+&lt;img alt=&quot;图片 6&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/f65y64O7l.jpeg&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>「第一份工作决定了整个职业生涯」是真的吗</title>
@@ -141,15 +164,6 @@ scoop install rmx
 </description>
     </item>
     <item>
-      <title>京东现在的客服是不是外包的，感觉客服非常差</title>
-      <link>https://www.v2ex.com/t/1191430</link>
-      <guid>v2ex-1191430</guid>
-      <pubDate>Sat, 07 Feb 2026 13:35:18 GMT</pubDate>
-      <description>&lt;p&gt;京东好像好取消了客服电话，现在整个 APP 都找不到客服电话了。
-现在只有 web 在线客服，但是这些在线客服整体业务和素质都不如当初的。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>上海移动新套路 qos，官方测速正常，实际限速 1Mbps</title>
       <link>https://www.v2ex.com/t/1191479</link>
       <guid>v2ex-1191479</guid>
@@ -158,11 +172,13 @@ scoop install rmx
 </description>
     </item>
     <item>
-      <title>江苏联通，在家刷抖音偶尔卡顿，把 5G 关掉，速度起飞！~</title>
-      <link>https://www.v2ex.com/t/1191486</link>
-      <guid>v2ex-1191486</guid>
-      <pubDate>Sun, 08 Feb 2026 03:50:44 GMT</pubDate>
-      <description>在家刷抖音偶尔卡顿，我怀疑抖音服务器的问题，都没怀疑是联通 5G 的问题。。。&lt;br /&gt;今天突发奇想测速了一下，5G 状态竟然只有几百 kb/s ，关闭之后使用 4G 再测速有 10MB/S ，刷抖音偶尔卡顿的原因找到了。&lt;br /&gt;江苏联通，怎么这么垃圾！！！！！！！！！！以后再也不开 5G 了！！！！</description>
+      <title>京东现在的客服是不是外包的，感觉客服非常差</title>
+      <link>https://www.v2ex.com/t/1191430</link>
+      <guid>v2ex-1191430</guid>
+      <pubDate>Sat, 07 Feb 2026 13:35:18 GMT</pubDate>
+      <description>&lt;p&gt;京东好像好取消了客服电话，现在整个 APP 都找不到客服电话了。
+现在只有 web 在线客服，但是这些在线客服整体业务和素质都不如当初的。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
