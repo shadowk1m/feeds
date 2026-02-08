@@ -4,18 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Feb 2026 06:37:46 GMT</lastBuildDate>
-    <item>
-      <title>别再神化 VS Code 了，现在的它臃肿得像个 IDE，我决定回归 Vim/Cursor。</title>
-      <link>https://www.v2ex.com/t/1191387</link>
-      <guid>v2ex-1191387</guid>
-      <pubDate>Sat, 07 Feb 2026 06:54:11 GMT</pubDate>
-      <description>&lt;p&gt;用了 5 年 VS Code ，今天还是把它卸了。现在插件是真的多到飞起，占内存不说，打开个项目都能感到明显变慢，已经完全没有当年那种轻快感了。&lt;/p&gt;
-&lt;p&gt;Cursor 这种把 AI 原生融进编辑器里的，才更像是 2026 年该有的形态；至于 Vim / Neovim 只有在黑窗口里敲字的时候，我才能重新进入那种纯粹的心流。&lt;/p&gt;
-&lt;p&gt;我一直有个很主观的看法：如果一个程序员连基本快捷键都记不住，每天全靠鼠标点来点去，那效率上限大概率不会太高。&lt;/p&gt;
-&lt;p&gt;来吧，晒晒你们现在的编辑器配置。还有多少人还在死磕 Vim / Neovim ？&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 07:32:15 GMT</lastBuildDate>
     <item>
       <title>奶茶店的奶茶到底健康吗？</title>
       <link>https://www.v2ex.com/t/1191440</link>
@@ -35,11 +24,24 @@
       <description>公司要求补班，路上寥寥无几的行人，今天还降温了，沿途没有了摆摊的小贩，我失去了今天的早餐，一种春节的感觉扑面而来到了公司楼下，一电梯都是公司的人，电梯高峰期直达公司所在楼层。</description>
     </item>
     <item>
-      <title>mac 现在必备的有什么?</title>
-      <link>https://www.v2ex.com/t/1191386</link>
-      <guid>v2ex-1191386</guid>
-      <pubDate>Sat, 07 Feb 2026 06:53:59 GMT</pubDate>
-      <description>&lt;p&gt;RT, 公司发了个新 mac, 用了 5 年的 m1 可以退役了, 很久没有 setup 新 mac 了, 请问大家现在这个年代 mac 有什么必备的软件吗? 我过去习惯 iterm2 这一套了. 谢谢大家!&lt;/p&gt;
+      <title>「第一份工作决定了整个职业生涯」是真的吗</title>
+      <link>https://www.v2ex.com/t/1191470</link>
+      <guid>v2ex-1191470</guid>
+      <pubDate>Sun, 08 Feb 2026 02:01:21 GMT</pubDate>
+      <description>&lt;p&gt;有种说法是第一份工作决定了整个职业生涯的道路&lt;/p&gt;
+&lt;p&gt;我毕业的时候选错了第一份工作，干了几年，感觉不管是发展空间还是技术路线都很局限，想跑路，却发现工作经验可能无法匹配目标岗位，请教大家如何解决这种困境？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>404 警告, 正在摸鱼的你还记得你最初的梦想吗?偷偷的告诉我, 我保证不跟别人说.</title>
+      <link>https://www.v2ex.com/t/1191393</link>
+      <guid>v2ex-1191393</guid>
+      <pubDate>Sat, 07 Feb 2026 07:38:03 GMT</pubDate>
+      <description>&lt;p&gt;欢迎大家关注这个[梦想 🫧]节点: &lt;a href=&quot;/go/404&quot; rel=&quot;nofollow&quot;&gt;/go/404&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大胆的说出来, 万一碰到有相同梦想的人呢? &lt;/p&gt;
+&lt;p&gt;ps: 我一直梦想着当一个小说作家, 之前一直没时间和精力, 最近又突然想起来了, 所以搞了这么一个节点 &lt;a href=&quot;/go/writer&quot; rel=&quot;nofollow&quot;&gt;有故事的人&lt;/a&gt; 准备以后在这里面连载一些小故事练练手, 欢迎大家提意见.&lt;/p&gt;
+&lt;p&gt;我还有一个梦想, 是开发一个属于我自己的独立游戏, 但是之前一直没接触过游戏开发, 最近一段时间接触到了, 又有点想搞了&lt;/p&gt;
+&lt;p&gt;我还有一个梦想, 这个真的是梦想了, 当一个科学家, 从小就有的梦想, 但是这辈子实现好像有点难了, 所以没事就多想想, 万一下辈子的孟婆汤不够劲, 记忆没全洗掉呢, 哈哈哈哈.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -57,24 +59,15 @@
       <description>又要到情人节了，为了避免我直接“死亡”，媳妇刚才提醒了我一下</description>
     </item>
     <item>
-      <title>404 警告, 正在摸鱼的你还记得你最初的梦想吗?偷偷的告诉我, 我保证不跟别人说.</title>
-      <link>https://www.v2ex.com/t/1191393</link>
-      <guid>v2ex-1191393</guid>
-      <pubDate>Sat, 07 Feb 2026 07:38:03 GMT</pubDate>
-      <description>&lt;p&gt;欢迎大家关注这个[梦想 🫧]节点: &lt;a href=&quot;/go/404&quot; rel=&quot;nofollow&quot;&gt;/go/404&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;大胆的说出来, 万一碰到有相同梦想的人呢? &lt;/p&gt;
-&lt;p&gt;ps: 我一直梦想着当一个小说作家, 之前一直没时间和精力, 最近又突然想起来了, 所以搞了这么一个节点 &lt;a href=&quot;/go/writer&quot; rel=&quot;nofollow&quot;&gt;有故事的人&lt;/a&gt; 准备以后在这里面连载一些小故事练练手, 欢迎大家提意见.&lt;/p&gt;
-&lt;p&gt;我还有一个梦想, 是开发一个属于我自己的独立游戏, 但是之前一直没接触过游戏开发, 最近一段时间接触到了, 又有点想搞了&lt;/p&gt;
-&lt;p&gt;我还有一个梦想, 这个真的是梦想了, 当一个科学家, 从小就有的梦想, 但是这辈子实现好像有点难了, 所以没事就多想想, 万一下辈子的孟婆汤不够劲, 记忆没全洗掉呢, 哈哈哈哈.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>「第一份工作决定了整个职业生涯」是真的吗</title>
-      <link>https://www.v2ex.com/t/1191470</link>
-      <guid>v2ex-1191470</guid>
-      <pubDate>Sun, 08 Feb 2026 02:01:21 GMT</pubDate>
-      <description>&lt;p&gt;有种说法是第一份工作决定了整个职业生涯的道路&lt;/p&gt;
-&lt;p&gt;我毕业的时候选错了第一份工作，干了几年，感觉不管是发展空间还是技术路线都很局限，想跑路，却发现工作经验可能无法匹配目标岗位，请教大家如何解决这种困境？&lt;/p&gt;
+      <title>微信利用垄断地位作恶</title>
+      <link>https://www.v2ex.com/t/1191458</link>
+      <guid>v2ex-1191458</guid>
+      <pubDate>Sat, 07 Feb 2026 20:32:47 GMT</pubDate>
+      <description>&lt;p&gt;在微信的小程序里有 4.72 元余额，是通过微信充值进去的。
+退款时，小程序申称退款了，微信却申称没有收到。
+我投诉小程序，被微信私自关闭，要我私下打电话和小程序商量，我的钱我要去商量很奇怪，我去联系小程序，又被推给微信，说钱给了微信，
+我又去联系微信，微信说钱给到了小程序，不管他们的事。
+就这样我的钱进入了规则黑洞，不可见了。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -160,15 +153,26 @@ scoop install rmx
 </description>
     </item>
     <item>
-      <title>微信利用垄断地位作恶</title>
-      <link>https://www.v2ex.com/t/1191458</link>
-      <guid>v2ex-1191458</guid>
-      <pubDate>Sat, 07 Feb 2026 20:32:47 GMT</pubDate>
-      <description>&lt;p&gt;在微信的小程序里有 4.72 元余额，是通过微信充值进去的。
-退款时，小程序申称退款了，微信却申称没有收到。
-我投诉小程序，被微信私自关闭，要我私下打电话和小程序商量，我的钱我要去商量很奇怪，我去联系小程序，又被推给微信，说钱给了微信，
-我又去联系微信，微信说钱给到了小程序，不管他们的事。
-就这样我的钱进入了规则黑洞，不可见了。&lt;/p&gt;
+      <title>京东现在的客服是不是外包的，感觉客服非常差</title>
+      <link>https://www.v2ex.com/t/1191430</link>
+      <guid>v2ex-1191430</guid>
+      <pubDate>Sat, 07 Feb 2026 13:35:18 GMT</pubDate>
+      <description>&lt;p&gt;京东好像好取消了客服电话，现在整个 APP 都找不到客服电话了。
+现在只有 web 在线客服，但是这些在线客服整体业务和素质都不如当初的。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>周末来玩小游戏啊</title>
+      <link>https://www.v2ex.com/t/1191402</link>
+      <guid>v2ex-1191402</guid>
+      <pubDate>Sat, 07 Feb 2026 08:46:34 GMT</pubDate>
+      <description>&lt;p&gt;个人开发的小游戏《潜艇进击》上线快一个月了。这几天发了一版大的更新（新的敌人、BOSS 和防护盾等）。&lt;/p&gt;
+&lt;p&gt;V 站氛围比较好，流量也比较大。之前分享过作品，有 V 友反馈 UI 有点丑，这次也上了新的 UI 。&lt;/p&gt;
+&lt;p&gt;希望可以得到大家的试玩和反馈，小游戏还是很好玩的。&lt;/p&gt;
+&lt;p&gt;微信和抖音均已上架，直接扫码直达，或者搜“潜艇进击”就能看到。&lt;/p&gt;
+&lt;p&gt;感谢支持！&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://p.sda1.dev/30/f3db8b55ccd869facd3b129d6bd02333/QTJJ.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://p.sda1.dev/30/f1d8be0dc52ba0ed308d111c738aafd9/QRCODE.jpg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
