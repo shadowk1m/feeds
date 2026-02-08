@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 07 Feb 2026 23:52:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 01:28:39 GMT</lastBuildDate>
     <item>
       <title>中转站 opus-4-6 上线，免费开蹬一周，回帖抽奖赠送 50 刀</title>
       <link>https://www.v2ex.com/t/1191355</link>
@@ -37,6 +37,15 @@
       <description>ps: 你有多长时间没加过班了??</description>
     </item>
     <item>
+      <title>[吐槽] 看着 Claude 4.6 和 GPT-5.3 神仙打架，再看看国内大厂春节在搞奶茶发红包，破防了</title>
+      <link>https://www.v2ex.com/t/1191364</link>
+      <guid>v2ex-1191364</guid>
+      <pubDate>Sat, 07 Feb 2026 04:12:25 GMT</pubDate>
+      <description>&lt;p&gt;刚刚在外网看到这篇文章的辣评，突然有感而发，看着 Claude 4.6 和 GPT-5.3 神仙打架，再看看国内大厂春节在搞奶茶发红包，彻底破防了。。。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://deepseekv4.app/zh/news/2026-02-06-opinion-us-nuclear-vs-cn-tea&quot; rel=&quot;nofollow&quot;&gt;https://deepseekv4.app/zh/news/2026-02-06-opinion-us-nuclear-vs-cn-tea&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>别再神化 VS Code 了，现在的它臃肿得像个 IDE，我决定回归 Vim/Cursor。</title>
       <link>https://www.v2ex.com/t/1191387</link>
       <guid>v2ex-1191387</guid>
@@ -45,15 +54,6 @@
 &lt;p&gt;Cursor 这种把 AI 原生融进编辑器里的，才更像是 2026 年该有的形态；至于 Vim / Neovim 只有在黑窗口里敲字的时候，我才能重新进入那种纯粹的心流。&lt;/p&gt;
 &lt;p&gt;我一直有个很主观的看法：如果一个程序员连基本快捷键都记不住，每天全靠鼠标点来点去，那效率上限大概率不会太高。&lt;/p&gt;
 &lt;p&gt;来吧，晒晒你们现在的编辑器配置。还有多少人还在死磕 Vim / Neovim ？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[吐槽] 看着 Claude 4.6 和 GPT-5.3 神仙打架，再看看国内大厂春节在搞奶茶发红包，破防了</title>
-      <link>https://www.v2ex.com/t/1191364</link>
-      <guid>v2ex-1191364</guid>
-      <pubDate>Sat, 07 Feb 2026 04:12:25 GMT</pubDate>
-      <description>&lt;p&gt;刚刚在外网看到这篇文章的辣评，突然有感而发，看着 Claude 4.6 和 GPT-5.3 神仙打架，再看看国内大厂春节在搞奶茶发红包，彻底破防了。。。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://deepseekv4.app/zh/news/2026-02-06-opinion-us-nuclear-vs-cn-tea&quot; rel=&quot;nofollow&quot;&gt;https://deepseekv4.app/zh/news/2026-02-06-opinion-us-nuclear-vs-cn-tea&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -76,29 +76,12 @@
 </description>
     </item>
     <item>
-      <title>千问的这次崩了，会属于事故吗？</title>
-      <link>https://www.v2ex.com/t/1191337</link>
-      <guid>v2ex-1191337</guid>
-      <pubDate>Sat, 07 Feb 2026 01:06:39 GMT</pubDate>
-      <description>&lt;p&gt;千问 app 昨天崩了，从软件运营、活动营销角度来说肯定是预期非常好的。&lt;br/&gt;
-但是站在技术的角度说，这次活动就属于一场“高并发”事件，那这次算不算事故，技术部会不会承担责任。&lt;br/&gt;
-还是说之前有预设过这种情况，因为涉及到 ai 算力资源成本高，最优解就是大不了崩了，因为当天是高并发，后面人流量就分散了，也不会有这种事件发生。  &lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;突发奇想：像这类并发，目前技术除了堆配置，有没有其他的优化手段。&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>像我父亲这种长期多病、且不配合治疗的老年健康问题，家属应当如何应对和处理？</title>
-      <link>https://www.v2ex.com/t/1191334</link>
-      <guid>v2ex-1191334</guid>
-      <pubDate>Sat, 07 Feb 2026 00:39:02 GMT</pubDate>
-      <description>&lt;p&gt;父亲今年将近 70 岁，一生勤劳，和蔼可亲，曾是我的榜样。然而随着年纪渐长，他反而越来越不注意自己的身体健康，长期吸烟、饮酒，不控制饮食，坏习惯很多。虽然我工作上的问题都能解决，这个问题始终无法解决，这种落差感让我感到非常无力和挫败。&lt;/p&gt;
-&lt;p&gt;近两年来，他频繁出入医院，几乎成了医院的常客。昨天再次住院，身体问题集中爆发：脑梗、脑萎缩，血糖一度高达 26 ，并伴有肾功能衰竭。由于我常年在外地，主要由哥哥姐姐在身边照顾、陪床。我在 2024 年 11 月回家时，他已经住院一周。当时母亲住在姐姐家。&lt;/p&gt;
-&lt;p&gt;住院治疗期间，父亲多次不配合医生治疗，也不愿意花钱，对治疗态度消极。2024 年曾做过一次手术：因白内障视力严重下降，其中一只眼睛已完成手术，另一只眼睛则因其不配合，至今未能手术。&lt;/p&gt;
-&lt;p&gt;经济方面，哥哥姐姐家庭条件本就紧张，目前大部分医药费用由我承担，住院费用暂时不是问题但是一直不彻底彻底治疗，病情反反复复的情况，包括妈妈哥哥姐姐也都无可奈何。&lt;/p&gt;
-&lt;p&gt;我为了安慰哥哥姐姐他们其实已经给出了兜底的回答，你们尽自己能力，父亲因为什么原因离开都不怪你们。&lt;/p&gt;
-&lt;p&gt;为了让哥哥姐姐腾出时间和精力应付爸爸妈妈的危机问题。我从去年就开始主动和侄子、侄女沟通，算是半个老师得角色，也获得可哥哥姐姐的肯定，成效明显。&lt;/p&gt;
-&lt;p&gt;早上醒来，看看车票今天是回不去了，周六的票已经买好，其实陪床也用不了几个人，哥哥说医生建议打胰岛素，否则可能撑不了太久，就像这种随时可能发生的健康问题，我们几个家人没有更好的办法了😭😭，请教一下大家有无更好的建议。&lt;/p&gt;
+      <title>开发者怒批华为云 C++ SDK 质量：文档失效、基础代码错误频出</title>
+      <link>https://www.v2ex.com/t/1191371</link>
+      <guid>v2ex-1191371</guid>
+      <pubDate>Sat, 07 Feb 2026 04:52:25 GMT</pubDate>
+      <description>&lt;p&gt;😄围观 &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3/issues/7&quot; rel=&quot;nofollow&quot;&gt;https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3/issues/7&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -114,12 +97,34 @@ gmail -&amp;gt; gmall&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>开发者怒批华为云 C++ SDK 质量：文档失效、基础代码错误频出</title>
-      <link>https://www.v2ex.com/t/1191371</link>
-      <guid>v2ex-1191371</guid>
-      <pubDate>Sat, 07 Feb 2026 04:52:25 GMT</pubDate>
-      <description>&lt;p&gt;😄围观 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3/issues/7&quot; rel=&quot;nofollow&quot;&gt;https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3/issues/7&lt;/a&gt;&lt;/p&gt;
+      <title>刚续费一年的国内服务器被停止服务了，应该怎样处理</title>
+      <link>https://www.v2ex.com/t/1191358</link>
+      <guid>v2ex-1191358</guid>
+      <pubDate>Sat, 07 Feb 2026 03:31:08 GMT</pubDate>
+      <description>&lt;p&gt;今早突然收到邮件&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;尊敬的用户：
+
+您好！
+我们在您的服务器产品 xxx 中检测到了违规代理程序 sxxx-bxx 。
+根据《互联网信息服务管理办法》第十五条规定九不准内容、《 xx 云计算使用协议》之条款 4.5.1 及管局通知文件精神要求，xx 云计算现停止对您提供服务。
+
+感谢您对我们的理解与支持。
+xx 云计算 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;服务器本来是用来 easytier p2p 组网，方便我访问实验室资源。按月支付，用了一年之后觉得还挺稳定，就续了一年😢。现在是暂停计费状态，不确定以后会不会恢复。&lt;/p&gt;
+&lt;p&gt;代理程序是测试绕过 wifi login 页面的时候装的，协议忘了是 hy2 还是 vless ，但是之后都没怎么使用，感觉不太可能被扫到端口定位出使用的程序。&lt;/p&gt;
+&lt;p&gt;工单里面问了一下，说不能退款。可以开放 24 小时迁移数据。&lt;/p&gt;
+&lt;p&gt;请问一下各位大哥，这种情况下我应该怎么做呢？申请退款试试？开放 24 小时上去删数据？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>12306 高铁短补长查询</title>
+      <link>https://www.v2ex.com/t/1191361</link>
+      <guid>v2ex-1191361</guid>
+      <pubDate>Sat, 07 Feb 2026 03:53:23 GMT</pubDate>
+      <description>&lt;p&gt;上午 vibe 了一个 12306 高铁短补长查询。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://12306.aiplanapp.com/&quot; rel=&quot;nofollow&quot;&gt;https://12306.aiplanapp.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;已经帮我一个朋友买到票了&lt;/p&gt;
 </description>
     </item>
   </channel>
