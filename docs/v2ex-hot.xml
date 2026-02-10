@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 10 Feb 2026 16:53:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 17:54:19 GMT</lastBuildDate>
     <item>
       <title>结婚前隐瞒了我爸曾经因为肇事逃逸坐过几个月牢，现在被媳妇儿知道了，说影响他孩子考公了，吵架好几天了，影响真的这么大吗</title>
       <link>https://www.v2ex.com/t/1191885</link>
@@ -65,42 +65,6 @@
 </description>
     </item>
     <item>
-      <title>开发了一款无广告的下载器</title>
-      <link>https://www.v2ex.com/t/1192008</link>
-      <guid>v2ex-1192008</guid>
-      <pubDate>Tue, 10 Feb 2026 07:33:15 GMT</pubDate>
-      <description>&lt;h2&gt;马上放假了,在节日前送自己也送给 25 年一个礼物&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;使用过 idm,ndm,迅雷冲过年会员(最高等级的),各有各的不满意,索性自己+AI 开始做一个自己喜欢的&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;官方下载地址&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://fluxdown.zerx.dev/&quot; rel=&quot;nofollow&quot;&gt;https://fluxdown.zerx.dev/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;技术栈&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;rust + tokio + reqwest 实现高速并行下载&lt;/li&gt;
-&lt;li&gt;flutter + shadcn-ui 实现高性能的 UI 与可接受的系统资源占用&lt;/li&gt;
-&lt;li&gt;wxt: 一次开发多个浏览器适配&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;预览&lt;/h2&gt;
-&lt;h3&gt;首页&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/dsG6RgfG/2.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;创建下载任务&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/Hf9GrtRy/1.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;设置页面&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/23ZbtX72/3.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;功能支持情况&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;bt 协议支持中,年前发布&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;http 协议下载&lt;/li&gt;
-&lt;li&gt;断点续传&lt;/li&gt;
-&lt;li&gt;分片并发下载&lt;/li&gt;
-&lt;li&gt;ftp 协议&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
       <title>Antify — macOS 网络控制工具， Proxifier 的简易免费版</title>
       <link>https://www.v2ex.com/t/1191848</link>
       <guid>v2ex-1191848</guid>
@@ -144,6 +108,42 @@
 &lt;hr/&gt;
 &lt;h2&gt;版本信息&lt;/h2&gt;
 &lt;p&gt;当前版本：&lt;code&gt;v0.0.27&lt;/code&gt;，持续迭代中。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>开发了一款无广告的下载器</title>
+      <link>https://www.v2ex.com/t/1192008</link>
+      <guid>v2ex-1192008</guid>
+      <pubDate>Tue, 10 Feb 2026 07:33:15 GMT</pubDate>
+      <description>&lt;h2&gt;马上放假了,在节日前送自己也送给 25 年一个礼物&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用过 idm,ndm,迅雷冲过年会员(最高等级的),各有各的不满意,索性自己+AI 开始做一个自己喜欢的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;官方下载地址&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://fluxdown.zerx.dev/&quot; rel=&quot;nofollow&quot;&gt;https://fluxdown.zerx.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;技术栈&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;rust + tokio + reqwest 实现高速并行下载&lt;/li&gt;
+&lt;li&gt;flutter + shadcn-ui 实现高性能的 UI 与可接受的系统资源占用&lt;/li&gt;
+&lt;li&gt;wxt: 一次开发多个浏览器适配&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;预览&lt;/h2&gt;
+&lt;h3&gt;首页&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/dsG6RgfG/2.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;创建下载任务&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/Hf9GrtRy/1.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;设置页面&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/23ZbtX72/3.png&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;功能支持情况&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;bt 协议支持中,年前发布&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;http 协议下载&lt;/li&gt;
+&lt;li&gt;断点续传&lt;/li&gt;
+&lt;li&gt;分片并发下载&lt;/li&gt;
+&lt;li&gt;ftp 协议&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
   </channel>
