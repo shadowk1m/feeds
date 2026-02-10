@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 10 Feb 2026 04:40:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 06:05:21 GMT</lastBuildDate>
     <item>
       <title>结婚前隐瞒了我爸曾经因为肇事逃逸坐过几个月牢，现在被媳妇儿知道了，说影响他孩子考公了，吵架好几天了，影响真的这么大吗</title>
       <link>https://www.v2ex.com/t/1191885</link>
@@ -27,24 +27,6 @@
 &lt;p&gt;我老婆是新晋宝妈，互联网行业，995 ，感觉哺乳期到了就会被裁员。所以心生焦虑，并且相信她的同学，希望立刻脱离这个坑，去一个金饭碗工作。&lt;/p&gt;
 &lt;p&gt;目前我劝说不了，软磨硬泡，她已经无条件相信她同学，并且已经递交简历。她的家人也是一样劝阻，不过她的家人大部分都说，如果这个是真的那真的是个肥差。但是，她只能听得进去是肥差，但是没有听得进去很可能不是真的，是骗局。&lt;/p&gt;
 &lt;p&gt;那么，我该怎么办这事儿无论成功与否，无疑是对家庭造成伤害。。。各位 V 友怎么看&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>赴日 工作交流</title>
-      <link>https://www.v2ex.com/t/1191681</link>
-      <guid>v2ex-1191681</guid>
-      <pubDate>Mon, 09 Feb 2026 05:16:58 GMT</pubDate>
-      <description>&lt;p&gt;93 年 typescript c#都写
-过往工作均大厂经历   现在北京一外企工作..
-Base 45K. 股票若干. 工作强度适中&lt;/p&gt;
-&lt;p&gt;日语完全不会   英语 IELTS 5.5 &lt;/p&gt;
-&lt;p&gt;一直想通过《高度人才计划》拿永驻.&lt;br/&gt;
-想去日本找份 600-700w 日元年收的工作 (大于 600w 是为了加分，不为了在日本挣钱..）
-学历本科计算机，又读了个国内的 MBA （为了加分），考了软考的两个证（又凑了 10 分） &lt;/p&gt;
-&lt;p&gt;现在分基本上凑够了 就是要找工作了
-因为语言问题只能找中文工作环境
-但因为中文工作环境又会卷+不稳定  &lt;/p&gt;
-&lt;p&gt;死锁了...感觉要生生世世种花家了&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -90,11 +72,30 @@ Base 45K. 股票若干. 工作强度适中&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>油车每次去做保养总有一种不太透明的感觉</title>
-      <link>https://www.v2ex.com/t/1191685</link>
-      <guid>v2ex-1191685</guid>
-      <pubDate>Mon, 09 Feb 2026 05:41:18 GMT</pubDate>
-      <description>例如  如何保证店子换的机油,刹车油,变速箱油是否是指定品牌,是否更换了?&lt;br /&gt;现在不接受预约,不让线上下单,不让用券. 主要联系了线下的途虎,京东门店(老修车铺子合作挂牌加盟那种)&lt;br /&gt;&lt;br /&gt;用车少,每次都是按公里时间要求计划保养套餐.&lt;br /&gt;但是每次去做保养总能检测出很多计划外项目,总超出预算. &lt;br /&gt;我也没那么多时间在那守着,守着看着也不太懂. 总有一种不太透明的感觉.&lt;br /&gt;&lt;br /&gt;也许是我多想了,想问下大家有没有好的方法提升体验..或者懂行的介绍介绍.&lt;br /&gt;像 15w 左右的家用代步车 小保(机油机滤),大保(机油机滤 刹车油 变速箱油)多少算合理</description>
+      <title>如何保障个人的信息安全？</title>
+      <link>https://www.v2ex.com/t/1191863</link>
+      <guid>v2ex-1191863</guid>
+      <pubDate>Tue, 10 Feb 2026 01:18:28 GMT</pubDate>
+      <description>&lt;p&gt;早上看到影视飓风发了个视频，说字节最新的视频生成模型用了他们大量的素材训练，给一张 tim 的照片，模型就能自动匹配他的声音和公司的真实环境。&lt;/p&gt;
+&lt;p&gt;然后我试了一下，找了个爱发朋友圈的前同事，把很多朋友圈截图丢 gemini 了，最后 gemini 确实给出了比较准确的猜测信息，这还只是朋友圈一个数据源的情况下。&lt;/p&gt;
+&lt;p&gt;所以我觉得，以前的人肉搜索是一个复杂的过程，现在大模型工具可能会加快信息滥用和身份挖掘。
+如果有一个模型，喂足够多的人脸照片，然后输出性能也够强，是不是完全可以实现针对现在各类 app 的活体认证了？要求摇头 点头 张嘴 眨眼，他都能做到，颜色光也可以摄像头采集颜色 然后模拟打光。&lt;/p&gt;
+&lt;p&gt;我一直秉承，不把个人照片传互联网网，不带个人姓名等等信息，密码用公式法，每家不一样但有一定规律，但感觉完全不够。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Antigravity 被送中后 Gemini 多久会被送中？</title>
+      <link>https://www.v2ex.com/t/1191781</link>
+      <guid>v2ex-1191781</guid>
+      <pubDate>Mon, 09 Feb 2026 10:21:08 GMT</pubDate>
+      <description>&lt;p&gt;太惨了，主 Google 账号被送中了&lt;/p&gt;
+&lt;p&gt;一直用的好好的，今天 Antigravity 被要求重新登录，重新登录后就不让用了&lt;/p&gt;
+&lt;p&gt;查了一下 &lt;a href=&quot;https://policies.google.com/terms#footnote-country-version&quot; rel=&quot;nofollow&quot;&gt;https://policies.google.com/terms#footnote-country-version&lt;/a&gt; 果不其然&lt;/p&gt;
+&lt;p&gt;最近一段时间还照着 &lt;a href=&quot;https://v2ex.com/t/1176609&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1176609&lt;/a&gt; 每天用 firefox 虚假定位用几次 Google&lt;/p&gt;
+&lt;p&gt;结果还是被送中了&lt;/p&gt;
+&lt;p&gt;我的问题是，现在 Gemini 居然还能用，不知道多久会同步这个信息？&lt;/p&gt;
+&lt;p&gt;我的工作生活已经完全离不来 Gemini 了，上面好多工作的历史对话。都焦虑了。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
