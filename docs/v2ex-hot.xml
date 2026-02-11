@@ -4,50 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 11 Feb 2026 07:32:56 GMT</lastBuildDate>
-    <item>
-      <title>开发了一款无广告的下载器</title>
-      <link>https://www.v2ex.com/t/1192008</link>
-      <guid>v2ex-1192008</guid>
-      <pubDate>Tue, 10 Feb 2026 07:33:15 GMT</pubDate>
-      <description>&lt;h2&gt;马上放假了,在节日前送自己也送给 25 年一个礼物&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;使用过 idm,ndm,迅雷冲过年会员(最高等级的),各有各的不满意,索性自己+AI 开始做一个自己喜欢的&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;官方下载地址&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://fluxdown.zerx.dev/&quot; rel=&quot;nofollow&quot;&gt;https://fluxdown.zerx.dev/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;技术栈&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;rust + tokio + reqwest 实现高速并行下载&lt;/li&gt;
-&lt;li&gt;flutter + shadcn-ui 实现高性能的 UI 与可接受的系统资源占用&lt;/li&gt;
-&lt;li&gt;wxt: 一次开发多个浏览器适配&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;预览&lt;/h2&gt;
-&lt;h3&gt;首页&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/dsG6RgfG/2.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;创建下载任务&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/Hf9GrtRy/1.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;设置页面&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/23ZbtX72/3.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;功能支持情况&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;bt 协议支持中,年前发布&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;http 协议下载&lt;/li&gt;
-&lt;li&gt;断点续传&lt;/li&gt;
-&lt;li&gt;分片并发下载&lt;/li&gt;
-&lt;li&gt;ftp 协议&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>很好奇，国内的公务员事业单位面试存不存在走后门？</title>
-      <link>https://www.v2ex.com/t/1192032</link>
-      <guid>v2ex-1192032</guid>
-      <pubDate>Tue, 10 Feb 2026 08:25:23 GMT</pubDate>
-      <description>老家县城老婆的一个小老弟正在考编，考公务员、事业单位，由此引发了家族聊天话题：&lt;br /&gt;&lt;br /&gt;1. 亲戚 A：公务员、事业单位面试肯定需要找人找关系，你不看看你那个姐夫，听说当时面试也是找的关系，最终才面试通过的；&lt;br /&gt;&lt;br /&gt;2. 小老弟的爸爸（年轻的时候靠自己考上的公务员）：公务员面试的时候，考官考场都是双盲，不到面试那一天，考官都不知道去哪里面试谁；问了同事他们有子女也是考公，人家都没有找关系，除了极端情况（家里有官非常高的那种亲戚），面试都是靠自己。&lt;br /&gt;&lt;br /&gt;3. 小老弟的妈妈：孩子他爸就是太理想主义了，怎么可能不需要找关系，人家都是花钱找人，才面试通过的！&lt;br /&gt;&lt;br /&gt;我感觉这个事，是不是像，包生男孩，不成功全额退款一样，是骗局，只有心理作用的加成，没有什么门门道道？  有没有懂行的朋友可以解答一下。</description>
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 08:35:48 GMT</lastBuildDate>
     <item>
       <title>低至 0.1495 一刀的 Claude Opus4.6 套餐上线｜注册送 $2 + 100 楼抽 2 个 Kiro 套餐</title>
       <link>https://www.v2ex.com/t/1192145</link>
@@ -156,14 +113,12 @@ c3eb0a7294f443d19d8ed870321d487c
 </description>
     </item>
     <item>
-      <title>观“老哥隐瞒父亲坐牢有感”</title>
-      <link>https://www.v2ex.com/t/1192142</link>
-      <guid>v2ex-1192142</guid>
-      <pubDate>Wed, 11 Feb 2026 01:37:18 GMT</pubDate>
-      <description>&lt;p&gt;第一次觉得论坛逆天的人这么多。原帖楼主前面吞吞吐吐不肯说真话，营造出一种“女方没问，我才没说”的假象。结果呢？-&amp;gt;&lt;strong&gt;&quot;婚前问过我爸有没有坐过牢，我说没有，一是我有私心，二是我认为她把这个事情看的太重要了，会闹很大，我想着不影响她就行了&quot;&lt;/strong&gt;
-本来就是邻村，对方父母多少都有耳闻，这种事怎么可能瞒得住？&lt;/p&gt;
-&lt;p&gt;底下一堆人还在喷女方，拿她无业备考公务员说事，但这不是隐瞒的理由啊，而且那个女方考上研究生了，如果一无是处，原帖楼主也不会办婚礼，楼主的发言给人一种妥妥的精致利己者。&lt;/p&gt;
-&lt;p&gt;15 年前肇事逃逸+坐牢几个月，大抵就是醉驾出车祸被逮了，又不是什么不能说的天大的事，婚前坦诚说开，根本不会闹到现在这步。玻璃碎了就是碎了，再想圆回来，太难了。&lt;/p&gt;
+      <title>支付宝下载蚂蚁阿福，可得 16.8 到店支付红包</title>
+      <link>https://www.v2ex.com/t/1192184</link>
+      <guid>v2ex-1192184</guid>
+      <pubDate>Wed, 11 Feb 2026 03:22:36 GMT</pubDate>
+      <description>&lt;p&gt;支付宝-五福界面-蚂蚁阿福，下载后可以得 16.8 到店支付红包&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/DOuUyHc.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -173,6 +128,17 @@ c3eb0a7294f443d19d8ed870321d487c
       <pubDate>Wed, 11 Feb 2026 01:01:43 GMT</pubDate>
       <description>&lt;p&gt;上上周五晚上吃牛排套餐，里面有个柚子红茶，早上 7 点多还没睡着，昨天下午 3 点多千问上点了个奥利奥半熟芝士（鲜奶茶版），今天早上 6 点多才睡着，拖着疲惫的身体上节前的最后一天班，心脏感觉也不舒服了。&lt;/p&gt;
 &lt;p&gt;结合之前的经历，喝柠檬茶（ 6 点多）、霸王茶姬（ 5 点多）、瑞幸（ 3 点多）、奈雪都有睡不着的经历，看来只能喝肥宅快乐水了吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>观“老哥隐瞒父亲坐牢有感”</title>
+      <link>https://www.v2ex.com/t/1192142</link>
+      <guid>v2ex-1192142</guid>
+      <pubDate>Wed, 11 Feb 2026 01:37:18 GMT</pubDate>
+      <description>&lt;p&gt;第一次觉得论坛逆天的人这么多。原帖楼主前面吞吞吐吐不肯说真话，营造出一种“女方没问，我才没说”的假象。结果呢？-&amp;gt;&lt;strong&gt;&quot;婚前问过我爸有没有坐过牢，我说没有，一是我有私心，二是我认为她把这个事情看的太重要了，会闹很大，我想着不影响她就行了&quot;&lt;/strong&gt;
+本来就是邻村，对方父母多少都有耳闻，这种事怎么可能瞒得住？&lt;/p&gt;
+&lt;p&gt;底下一堆人还在喷女方，拿她无业备考公务员说事，但这不是隐瞒的理由啊，而且那个女方考上研究生了，如果一无是处，原帖楼主也不会办婚礼，楼主的发言给人一种妥妥的精致利己者。&lt;/p&gt;
+&lt;p&gt;15 年前肇事逃逸+坐牢几个月，大抵就是醉驾出车祸被逮了，又不是什么不能说的天大的事，婚前坦诚说开，根本不会闹到现在这步。玻璃碎了就是碎了，再想圆回来，太难了。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -187,6 +153,16 @@ c3eb0a7294f443d19d8ed870321d487c
 &lt;li&gt;简历更新时间 2025 年 4 月&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;简历地址 =&amp;gt; &lt;a href=&quot;https://github.com/YuncenLiu/show-resume&quot; rel=&quot;nofollow&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>春晚你们还看吗？</title>
+      <link>https://www.v2ex.com/t/1192196</link>
+      <guid>v2ex-1192196</guid>
+      <pubDate>Wed, 11 Feb 2026 03:53:05 GMT</pubDate>
+      <description>&lt;p&gt;自从赵大爷不演了就没再看过了&lt;/p&gt;
+&lt;p&gt;个人觉得表演没必要搞得多么宏大。有意思才值得看&lt;/p&gt;
+&lt;p&gt;不知道为啥他们不把春晚的直播权下放各省市。自己办自己的得了还能百家齐放 一起争鸣&lt;/p&gt;
 </description>
     </item>
   </channel>
