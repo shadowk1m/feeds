@@ -4,33 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 12 Feb 2026 04:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 05:44:47 GMT</lastBuildDate>
     <item>
       <title>如何看待理发春节前涨价</title>
       <link>https://www.v2ex.com/t/1192366</link>
       <guid>v2ex-1192366</guid>
       <pubDate>Thu, 12 Feb 2026 01:02:11 GMT</pubDate>
       <description>好像很少见其他行业明摆着这么干</description>
-    </item>
-    <item>
-      <title>有没有真实的小米手机用户？</title>
-      <link>https://www.v2ex.com/t/1192208</link>
-      <guid>v2ex-1192208</guid>
-      <pubDate>Wed, 11 Feb 2026 05:15:55 GMT</pubDate>
-      <description>&lt;p&gt;去年年底开始准备把主力机从苹果换成安卓(不考虑华为)，从最初的红米 K90 Promax ，中间还看过 iqoo15 、真我 GT8 Pro 、一加 15 、OPPO FindX9 Pro 、荣耀 Magic8 Pro 。&lt;/p&gt;
-&lt;p&gt;现在肥也减下来了，钱也到位了，就是在犹豫要不要换小米生态，此前换手机的需求排序是：护眼&amp;gt;系统&amp;gt;=生态。&lt;/p&gt;
-&lt;p&gt;护眼问题通过 V 友推荐的国外叶黄素胶囊以及自己买了个防蓝光眼镜算是解决了。&lt;/p&gt;
-&lt;p&gt;现在就是系统和生态之间权衡，之前苹果全家桶，从去年年底开始陆续把 iPad 、airpods 、watch 都出了，意味着安卓阵营也要入这些设备，看来看去，只有小米能满足所有生态位的产品，其他家或多或少都有那么一点残缺，但是选择小米，又害怕系统不行，有没有最近两三年用过小米或者红米旗舰机型的 V 友说一下，小米的系统真的像网上吐槽的那么不堪一击吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>感觉年味越来越淡，像是一次稀松平常的放假</title>
-      <link>https://www.v2ex.com/t/1192213</link>
-      <guid>v2ex-1192213</guid>
-      <pubDate>Wed, 11 Feb 2026 05:36:13 GMT</pubDate>
-      <description>&lt;p&gt;难道是因为国外文化的冲击？&lt;/p&gt;
-&lt;p&gt;我们这的商超圣诞节的时候还立了一个圣诞老人像，一堆人来打卡，反而过年啥也没有了&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>带孩子到底要几个人！</title>
@@ -118,22 +98,65 @@
       <description>因有一友使用 restic 备份，为遵循 3-2-1 原则，repo 也使用 123 盘备份一份。今天也想尝试一下，故询问对方客服是否有做数据冗余机制，对方一问三不知，疑似装傻。建议需要备份文件的用户远离该网盘。还是大厂靠谱。&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/a/hNcloAF.png&quot; rel=&quot;nofollow noopener&quot;&gt;https://i.imgur.com/a/hNcloAF.png&lt;/a&gt;</description>
     </item>
     <item>
-      <title>感觉前端真的已死，我怀疑全世界总的页面浏览量已经在迅速下跌。不服来辩</title>
-      <link>https://www.v2ex.com/t/1192198</link>
-      <guid>v2ex-1192198</guid>
-      <pubDate>Wed, 11 Feb 2026 04:06:58 GMT</pubDate>
-      <description>&lt;p&gt;感觉前端真的已死，我怀疑全世界总的页面浏览量已经在迅速下跌。&lt;/p&gt;
-&lt;p&gt;不光是指前端程序员的就业市场，更重要的是前端界面可能不太需要了。&lt;/p&gt;
-&lt;p&gt;因为大家都转去用 AI ，而 AI 不太需要看界面。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>最近 claude codex gemini 三个轮流用，我发现 codex 各种不如另外两个啊</title>
       <link>https://www.v2ex.com/t/1192220</link>
       <guid>v2ex-1192220</guid>
       <pubDate>Wed, 11 Feb 2026 05:59:49 GMT</pubDate>
       <description>&lt;p&gt;RT ，大家有明显的感受吗？ 我都打算下个月不续费 chatGPT 了，直接买 claude 的 Max 得了。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>其实我有点理解 HodlAI 的限制</title>
+      <link>https://www.v2ex.com/t/1192346</link>
+      <guid>v2ex-1192346</guid>
+      <pubDate>Wed, 11 Feb 2026 16:02:35 GMT</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;利益相关：我在 V2EX 发布的第一天买入，至今日均消耗 $100+ token&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我从第一天起就知道这就是个旁氏骗局/资金盘，但我还是入了 —— 你不被骗只是还没有遇到适合你的骗局，我觉得，入场早，应该就能赚吧？&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/HUUnJVl.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;我在第一天就发现了 Claude 系列计费异常（无法利用缓存）的问题并反馈给了相关人员（在 V2EX 也能找到我的发帖记录），但官方人员消极对待&lt;/p&gt;
+&lt;p&gt;我当时觉得我猜到了原因 —— 只有不用缓存，让大家用着约 5 倍价格的 CC ，才能推动更多有需求的人买币，然后才能把币价抬上去&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;今天这个限制我是真的真的没弄明白&lt;/p&gt;
+&lt;p&gt;先说一个数据：「国库」（ 0x6f7D20FB985ae407Eae6157F8b298729febCe8F0 ）只有 $100+ BNB 即约 $6w 但日均 token 消耗量已经约 $1w 了&lt;/p&gt;
+&lt;p&gt;团队肯定不希望这个盘撑不够 7 天，所以他们选择了…… 自己实现缓存？再限制单次 5w token ？&lt;/p&gt;
+&lt;p&gt;我真的想不明白这个「降本」的方案的决策路径究竟是什么…… 他们团队宁愿交着 5% 的 openrouter 税、宁愿做一些「恶心」用户的事情，也不愿意接入 Claude 官方 API&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;哦对，就这个事情我问过他们，他们的解释是「有兼容问题」—— 这我真的想不明白了，到底什么情况应用会不兼容 Claude 官方 —— 就这一问题他们就没再回复了&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;反正我是真的没想明白这个限制的真正意义在哪；日 token 限额不变的情况下，这个限制除了劝退用户，应该也不会给官方省多少钱吧？不会吧？&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;又想到了一件事情。官方 tg 群有个 OpenClaw 搭载的机器人，用的 Gemini 模型，而这模型最大的问题就是…… 完全不懂自己知道什么不知道什么，经常瞎说、瞎编…… 所以大家别信……&lt;/p&gt;
+&lt;p&gt;所以插个私活，大家多用用 OpenAI 吧，支持一下 $MSFT （前几天财报日抄底我赔惨了……&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;anyway ，我还是挺理解 HodlAI 的最近一系列「违约」的举动的，甚至支持的（除了这个奇怪的 cache proxy…… ）&lt;/p&gt;
+&lt;p&gt;// 如果官方有啥解决不了的问题，不然考虑下送我点 $HODLAI 我帮你吧，毕竟我现在工作就是做 AI Gateway 。。&lt;/p&gt;
+&lt;p&gt;我不知道大家怎么样，反正我是觉得，至少对于我自己而言，买所谓终身的东西和买订阅产品的决策路径是完全不同的 —— 我甚至有时候会冲动花 5 倍甚至 10 倍的溢价，去买一些我感觉只能存活三五年的产品。&lt;/p&gt;
+&lt;p&gt;就用 HODLAI 来说，我买 HODLAI 花的钱足够我订阅 $200 Claude Max 一年了…… 或许没有用过的人不知道，$200 的 MAX 周限额平均到每日能达到差不多 $500 ，而想用多模型的人现在也有 ZenMux 可选；但我还是选择了赌一把 HODLAI —— 正如我之前最初贴的截图中我的想法，有了这些「免费」的 token ，我有很多点子终于愿意尝试去做了（开发 Agent 感觉远远比运行 Agent 更费钱，随随便便测试一下可能几十刀甚至几百刀就烧没了，真的心疼）。拥有 HODLAI 的这几天，我已经构思甚至投入开发好几个我之前不敢去碰的项目了，所以不管他们最终怎么样，也不管我的钱到底会不会随着币价清零，我都感谢他们。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;我不会卖出我持有的 HODLAI （官方作大恶除外），但也不会再买了&lt;/p&gt;
+&lt;p&gt;商业中，赚钱是第一位的，而赚不到钱甚至活不下去呢？我能理解并接受为了活下去去做的一些改动，但是无论如何，某些情况下损失的信誉是回不来的&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;最后，这个帖子我选择发在了 v2 官方节点&lt;/p&gt;
+&lt;p&gt;我本来是想发在 HODLAI 节点的，但是节点主人有一个我很不喜欢的功能 —— 可以删帖&lt;/p&gt;
+&lt;p&gt;我喜欢 X ，因为 op 不能删回复；我讨厌小红书，因为 op 可以随便删评论只留下他喜欢的&lt;/p&gt;
+&lt;p&gt;我喜欢 V2EX ，因为他不能删帖；我不喜欢自定义节点，因为节点主人可以随意删帖 —— 对于一个商业项目，封口要远比解决问题容易吧，所以我没有选择发到 HODLAI 节点&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>圆梦了</title>
+      <link>https://www.v2ex.com/t/1192338</link>
+      <guid>v2ex-1192338</guid>
+      <pubDate>Wed, 11 Feb 2026 15:19:45 GMT</pubDate>
+      <description>多少年来的梦想&lt;br /&gt;&lt;br /&gt;没想到真的有这么一天&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/rwHtFMB.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/rwHtFMB.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>算了一下，过年要发 5000 块的红包了</title>
+      <link>https://www.v2ex.com/t/1192362</link>
+      <guid>v2ex-1192362</guid>
+      <pubDate>Thu, 12 Feb 2026 00:23:58 GMT</pubDate>
+      <description>去年同辈的两个亲戚生了孩子，刚好准备今天取钱，昨天算了一下过年要发超过 5000 块的红包了&lt;br /&gt;稍微打听了一下，我们当地现在都是 600 起步，因为大部分人都是有来有回的，所以金额即使大一点也无所谓。&lt;br /&gt;另外原则是给所有小孩的红包金额要保持一致。无论是你经常见面的亲戚，还是每年见一次的亲戚，所以我也得遵循。&lt;br /&gt;没有小孩或者不准备要小孩的家庭，给亲戚的孩子发多少过年红包合适呢？</description>
     </item>
   </channel>
 </rss>
