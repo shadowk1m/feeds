@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 13 Feb 2026 03:57:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 05:19:01 GMT</lastBuildDate>
     <item>
       <title>结婚了，之前给出去的份子钱怎么收？</title>
       <link>https://www.v2ex.com/t/1192452</link>
@@ -13,65 +13,11 @@
       <description>都是大学的同学，他们早早结婚了，后面就没怎么联系了，已经毕业 10 年了。&lt;br /&gt;&lt;br /&gt;我已经提前一个月都单独通知了，但都被告知，可能过年期间不方便到场。&lt;br /&gt;&lt;br /&gt;还有一周就婚礼了，是不是需要再通知一下？&lt;br /&gt;如果对方确定不到场，一般是什么时候会把份子钱补起来?&lt;br /&gt;如果对方到时候不到场，钱也没来，怎么处理呢？</description>
     </item>
     <item>
-      <title>折腾许久， 自己用 Go 写的 macOS App 上架了，对标 Ditto 的全能剪贴板，海量存储+搜索+上锁+分组+编辑+局域网同步（OnlyPaste）</title>
-      <link>https://www.v2ex.com/t/1192450</link>
-      <guid>v2ex-1192450</guid>
-      <pubDate>Thu, 12 Feb 2026 05:16:59 GMT</pubDate>
-      <description>&lt;p&gt;作为一个 macOS 和 Windows 双持的野生程序员，一直有个痛点：在 Windows 上有 Ditto 这种神器，而在 macOS 上，虽然剪贴板工具不少，但总感觉差点意思。要么是功能太简单，存不了几条记录(我想存几十万条那种，当归档记事本用了)；要么是没法搜索/功能太少；要么就是缺少“局域网同步”这种功能（不喜欢 icloud 同步）。&lt;/p&gt;
-&lt;p&gt;既然找不到完美的，那就自己动手造一个吧。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;onlyPaste&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/1f/40/e01f40bd-cd68-493d-cee6-9cd64dec3df4/1c4fcdfb-fd1f-4051-ac3f-2c6daeee4810.png/626x392bb.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;这是我第一次尝试用 Go 开发 macOS 应用。不得不说，Go 还是很省内存，我的 app 常驻后台也就使用 40MB 左右的内存。打出来的包整体在 10MB 左右，个人觉得也没比原生应用差太多。&lt;/p&gt;
-&lt;p&gt;使用倒排索引，即使存了几万条剪贴板记录，搜索起来也是秒开（不过至少要搜 3 个字符）。&lt;/p&gt;
-&lt;p&gt;取名叫 &lt;strong&gt;OnlyPaste&lt;/strong&gt;，最初只是想做一个纯粹的粘贴工具，但写着写着就收不住了，把我想用的功能全加上了：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;数十万级别的存储&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;局域网同步&lt;/strong&gt;：这个是我最刚需的功能。在同一局域网下的两台电脑，复制的内容可以直接同步。不用再通过微信文件传输助手倒腾了，数据只在局域网传输。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;隐私上锁&lt;/strong&gt;：有些敏感的剪贴板内容（比如密码、Key ），不希望被别人看到。支持单独上锁，还能加密存储。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;分组与标签&lt;/strong&gt;：不再是一锅粥。支持按来源应用分组，也可以给重要的记录打上标签/收藏。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;直接编辑&lt;/strong&gt;：复制的内容有一点点小瑕疵不用粘贴出来再改，直接在历史记录里编辑好，再次粘贴就是好的。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;清理&lt;/strong&gt;：支持按某些策略清理历史不要的剪贴板数据，我有点强迫症，需要这个。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;低内存占用&lt;/strong&gt;：后台 40mb 内存使用&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;支持敏感词过滤&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;支持最大字符数排除&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;支持排除指定应用的复制项&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;等等&lt;/p&gt;
-&lt;p&gt;开发过程中也踩了不少坑，特别是 macOS 的沙盒机制和 CGO 的交互，头发都掉了一把（ macos 上架对权限要求的太严格了，主要是辅助权限那块）。不过看到成品运行在自己的菜单栏里，还是比较有成就感的。&lt;/p&gt;
-&lt;p&gt;为啥不用 swift 写？实在是不想再学一个语言，我觉得 go 配合 ai 肯定能胜任，实在不行就写 cgo 调 mac api 嘛。。（事实也的确如此，核心功能、内购基本都是通过 cgo 调用来实现的，还比较复杂）&lt;/p&gt;
-&lt;p&gt;目前 App 已经基本稳定了，基础功能免费，为了回血搞了个 Pro 版（主要是局域网和显示数量，其他功能都共有），定价也比较便宜。免费版对于日常使用也够了。&lt;/p&gt;
-&lt;p&gt;大家感兴趣的话可以去下载试试，也欢迎各位大佬提提意见，轻喷哈！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;app 下载地址：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/onlypaste/id6758364019&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/us/app/onlypaste/id6758364019&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;也可以直接搜 OnlyPaste 。下面放免费码，希望各位大佬体验下，给出意见，感激不尽。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;关于技术栈补充一下：
-后端用了 Wails v3 (Go)，前端是 Vue3 + Naive UI 。为了搞定 macOS 的原生剪贴板监听，还专门写了不少 CGO 代码去调 Cocoa 的 API ，还有内购代码也全部是纯 cgo 写的，有点折磨人了……&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;备案：国内要做 app 备案，需要有服务器和域名……就和网站也要备案一样&lt;/li&gt;
-&lt;li&gt;审核：appstore 审核都是人工的，&lt;strong&gt;审核员会实际去装，去使用你的 app&lt;/strong&gt;，有问题会截图发给你（每次都是凌晨 2 点到 5 点发我……）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;送内购免费优惠码，人多再接着发，祝大家新年快乐，事事顺心~&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;7T6L6KPMY6EP
-PPT77L7F4H6H
-9A6RXFXPEKLF
-WKRKKKLFRAFN
-KK3RWA7WLLJL
-WANLN9JYT4W9
-73X9NJJXP7XA
-XRFHYNFKRJKP
-NPMTJ44AWKWJ
-MLWXX36HR4TM
-4YTPY9PNKH3P
-9PP4MM4PMEYX
-6TP9FK9MJRAL
-MFPXYAX3476Y
-MEL7JNFP7W7A
-3JYTRMWFNWWM
-JFFHWAYR36AK
-WJ4AKXP44RFK
-MRRF497HMXXR
-6HNF6FKTHY7M
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <title>大家现在还想润吗？</title>
+      <link>https://www.v2ex.com/t/1192604</link>
+      <guid>v2ex-1192604</guid>
+      <pubDate>Fri, 13 Feb 2026 01:24:53 GMT</pubDate>
+      <description>有沒有人还想 run 的啊？看这个 h1b 薪资数据，只是 base ，没算股票，感觉美国还是太香了，&lt;a target=&quot;_blank&quot; href=&quot;https://openh1b.org/search?job=software%20engineer&quot; rel=&quot;nofollow noopener&quot;&gt;https://openh1b.org/search?job=software%20engineer&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;但又离不开家里，不想放弃国内的生活环境和关系。想听听大家意见。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/h8BrNXp.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/h8BrNXp.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
       <title>部门混进一个混子,我该如何避免被牵连</title>
@@ -79,13 +25,6 @@ MRRF497HMXXR
       <guid>v2ex-1192505</guid>
       <pubDate>Thu, 12 Feb 2026 09:04:36 GMT</pubDate>
       <description>背景: 部门新招了一个新同事.由领导招进来的.领导不懂技术.&lt;br /&gt;经过半个月的观察,可以确认这个同事完全不懂技术.纯当场搜豆包 AI 来应对各种问题.&lt;br /&gt;(因为领导让我给他对接个接口,我给他发了服务器 IP 协议 路由 请求头 请求体 返回值 和完整示例.一个 http 请求他三天都没调通.他看示例上的 url 是本地 IP,都不知道替换成服务器的 IP,一直说报错报错.)&lt;br /&gt;但是这同事又喜欢主动参与项目,主动去做技术难点攻坚.我本着不管闲事的原则.尽量不说什么了.&lt;br /&gt;但是他这种行为极可能会闯祸.导致项目出线上事故,我怕被牵连进去...&lt;br /&gt;该怎么应对这种情况?</description>
-    </item>
-    <item>
-      <title>大家现在还想润吗？</title>
-      <link>https://www.v2ex.com/t/1192604</link>
-      <guid>v2ex-1192604</guid>
-      <pubDate>Fri, 13 Feb 2026 01:24:53 GMT</pubDate>
-      <description>有沒有人还想 run 的啊？看这个 h1b 薪资数据，只是 base ，没算股票，感觉美国还是太香了，&lt;a target=&quot;_blank&quot; href=&quot;https://openh1b.org/search?job=software%20engineer&quot; rel=&quot;nofollow noopener&quot;&gt;https://openh1b.org/search?job=software%20engineer&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;但又离不开家里，不想放弃国内的生活环境和关系。想听听大家意见。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/h8BrNXp.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/h8BrNXp.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
       <title>看到 v2 上出现的越来越多的带孩子帖子，你还想生吗</title>
@@ -169,19 +108,26 @@ MRRF497HMXXR
 </description>
     </item>
     <item>
+      <title>让 Claude Code 汇报工作时用上魔兽 3 兽族农民的配音</title>
+      <link>https://www.v2ex.com/t/1192541</link>
+      <guid>v2ex-1192541</guid>
+      <pubDate>Thu, 12 Feb 2026 11:37:22 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://peon-ping.vercel.app/&quot; rel=&quot;nofollow noopener&quot;&gt;https://peon-ping.vercel.app/&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>年前公司要求 Java 转岗 c++能接受吗</title>
+      <link>https://www.v2ex.com/t/1192610</link>
+      <guid>v2ex-1192610</guid>
+      <pubDate>Fri, 13 Feb 2026 01:42:36 GMT</pubDate>
+      <description>情况描述：&lt;br /&gt;目前已经 30 岁了，从毕业到现在干了七八年 Java 开发，今年 3 月在这个公司呆满 3 年即将面临合同续签的问题，因为公司后续不打算做 Java 相关的业务了，前几天领导沟通让转岗去做 c++，或者选择优化。&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;1 、选择转岗还是优化，目前倾向于优化。&lt;br /&gt;2 、如果优化的话是赔偿 n 吧，这里面有没有什么坑需要注意呢？&lt;br /&gt;3 、以前都是主动润的，第一次遇到这种情况，请问有没有什么其他需要注意的呢？</description>
+    </item>
+    <item>
       <title>突然想买无人机，是不是 49 年入国军</title>
       <link>https://www.v2ex.com/t/1192455</link>
       <guid>v2ex-1192455</guid>
       <pubDate>Thu, 12 Feb 2026 05:35:03 GMT</pubDate>
       <description>&lt;p&gt;看网络说只能飞 120m  很多地方需要申请。120m 感觉我农村都飞不到山顶&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>让 Claude Code 汇报工作时用上魔兽 3 兽族农民的配音</title>
-      <link>https://www.v2ex.com/t/1192541</link>
-      <guid>v2ex-1192541</guid>
-      <pubDate>Thu, 12 Feb 2026 11:37:22 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://peon-ping.vercel.app/&quot; rel=&quot;nofollow noopener&quot;&gt;https://peon-ping.vercel.app/&lt;/a&gt;</description>
     </item>
     <item>
       <title>[不懂就问] 用光纤无人机能不能绕开无人机监管呀</title>
