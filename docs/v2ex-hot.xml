@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 12 Feb 2026 23:50:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 01:15:27 GMT</lastBuildDate>
     <item>
       <title>带孩子到底要几个人！</title>
       <link>https://www.v2ex.com/t/1192408</link>
@@ -149,18 +149,25 @@ MRRF497HMXXR
 </description>
     </item>
     <item>
-      <title>算了一下，过年要发 5000 块的红包了</title>
-      <link>https://www.v2ex.com/t/1192362</link>
-      <guid>v2ex-1192362</guid>
-      <pubDate>Thu, 12 Feb 2026 00:23:58 GMT</pubDate>
-      <description>去年同辈的两个亲戚生了孩子，刚好准备今天取钱，昨天算了一下过年要发超过 5000 块的红包了&lt;br /&gt;稍微打听了一下，我们当地现在都是 600 起步，因为大部分人都是有来有回的，所以金额即使大一点也无所谓。&lt;br /&gt;另外原则是给所有小孩的红包金额要保持一致。无论是你经常见面的亲戚，还是每年见一次的亲戚，所以我也得遵循。&lt;br /&gt;没有小孩或者不准备要小孩的家庭，给亲戚的孩子发多少过年红包合适呢？</description>
-    </item>
-    <item>
       <title>围绕 nas 最好的笔记同步方案是什么？</title>
       <link>https://www.v2ex.com/t/1192402</link>
       <guid>v2ex-1192402</guid>
       <pubDate>Thu, 12 Feb 2026 02:46:07 GMT</pubDate>
       <description>组了 nas ，想把笔记的数据也那回到 nas 上。&lt;br /&gt;目前研究到比较理想的方案是用 obsidian 的 webdav ，绿联 nas 现在又不支持远程 webdav ，用 lucky 映射，但是家里的宽带没 ipv4 公网，公司的网络没 ipv6 公网，所以还是有点不方便。&lt;br /&gt;思源笔记之类的，部署在 nas 上以后，手机端又不能使用 app ，只能使用网页端，也不方便。。。&lt;br /&gt;求一个更完美的解决方案</description>
+    </item>
+    <item>
+      <title>看到 v2 上出现的越来越多的带孩子帖子，你还想生吗</title>
+      <link>https://www.v2ex.com/t/1192476</link>
+      <guid>v2ex-1192476</guid>
+      <pubDate>Thu, 12 Feb 2026 07:06:17 GMT</pubDate>
+      <description>看到 v2 上出现的越来越多的带孩子帖子，你还想生吗</description>
+    </item>
+    <item>
+      <title>感觉被智谱的 Coding Plan 背刺了</title>
+      <link>https://www.v2ex.com/t/1192383</link>
+      <guid>v2ex-1192383</guid>
+      <pubDate>Thu, 12 Feb 2026 01:52:26 GMT</pubDate>
+      <description>去年 12 月底买了智谱的 Coding Plan ，今年 1 月初升级到了 Pro 版，升级原因是发现 Lite 版本不承诺会更新最新模型，Pro 、Max 版本的介绍是“订阅期内，享受最新旗舰模型更新”。&lt;br /&gt;昨晚 GLM5 发布了，想上去试试，发现 Pro 版暂时也不支持 GLM5 模型。</description>
     </item>
   </channel>
 </rss>
