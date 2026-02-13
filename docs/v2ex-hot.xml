@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 13 Feb 2026 07:42:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 08:31:19 GMT</lastBuildDate>
     <item>
       <title>大家现在还想润吗？</title>
       <link>https://www.v2ex.com/t/1192604</link>
@@ -51,80 +51,6 @@
 </description>
     </item>
     <item>
-      <title>GLM-5 开源：从代码到工程， Agentic Engineering 时代最好的开源模型</title>
-      <link>https://www.v2ex.com/t/1192496</link>
-      <guid>v2ex-1192496</guid>
-      <pubDate>Thu, 12 Feb 2026 08:10:51 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/rn89LN68.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;今天，我们上线并开源 GLM-5 。&lt;/p&gt;
-&lt;p&gt;学界与业界正逐渐形成一种共识，大模型从写代码、写前端，进化到写工程、完成大任务，即从“Vibe Coding”变革为“Agentic Engineering”。&lt;/p&gt;
-&lt;p&gt;GLM-5 正是这一变革的产物：在 Coding 与 Agent 能力上，取得开源 SOTA 表现，在真实编程场景的使用体感逼近 Claude Opus 4.5 ，擅长复杂系统工程与长程 Agent 任务。&lt;/p&gt;
-&lt;p&gt;在全球权威的 Artificial Analysis 榜单中，GLM-5 位居全球第四、开源第一。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/3E9fH92P.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;更大基座，更强智能&lt;/h3&gt;
-&lt;p&gt;GLM-5 全新基座为从“写代码”到“写工程”的能力演进提供了坚实基础：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;参数规模扩展&lt;/strong&gt;：从 355B （激活 32B ）扩展至 744B （激活 40B ），预训练数据从 23T 提升至 28.5T ，更大规模的预训练算力显著提升了模型的通用智能水平。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;异步强化学习&lt;/strong&gt;：构建全新的“Slime”框架，支持更大模型规模及更复杂的强化学习任务，提升强化学习后训练流程效率；提出异步智能体强化学习算法，使模型能够持续从长程交互中学习，充分激发预训练模型的潜力。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;稀疏注意力机制&lt;/strong&gt;：首次集成 DeepSeek Sparse Attention ，在维持长文本效果无损的同时，大幅降低模型部署成本，提升 Token Efficiency 。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/3i6716m6.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;Coding 能力：对齐 Claude Opus 4.5&lt;/h3&gt;
-&lt;p&gt;GLM-5 在编程能力上实现了对 Claude Opus 4.5 的对齐，在业内公认的主流基准测试中取得开源模型 SOTA 分数。在 SWE-bench-Verified 和 Terminal Bench 2.0 中分别获得 &lt;strong&gt;77.8&lt;/strong&gt; 和 &lt;strong&gt;56.2&lt;/strong&gt; 的开源模型 SOTA 分数，性能超过 Gemini 3 Pro 。&lt;/p&gt;
-&lt;p&gt;2026 年，大模型需要从“会写”走到“会完成”，尤其是端到端完成大型任务。GLM-5 是一个“系统架构师”，它不仅为开发精美的 Demo 而生，更为稳定交付生产结果而生。&lt;/p&gt;
-&lt;p&gt;在内部 Claude Code 评估集合中，GLM-5 在前端、后端、长程任务等编程开发任务上显著超越 GLM-4.7 （平均增幅超过 20%），能够以极少的人工干预自主完成 Agentic 长程规划与执行、后端重构和深度调试等系统工程任务，使用体感逼近 Opus 4.5 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/kRMz79up.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;Agent 能力：SOTA 级长程任务执行&lt;/h3&gt;
-&lt;p&gt;GLM-5 在 Agent 能力上实现开源 SOTA ，在多个评测基准中取得开源第一：在 BrowseComp （联网检索与信息理解）、MCP-Atlas （工具调用和多步骤任务执行）和 τ²-Bench （复杂多工具场景下的规划和执行）均取得最佳表现。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/3i6716m6.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;在衡量模型经营能力的 Vending Bench 2 中，GLM-5 获得开源模型第一的表现。Vending Bench 2 要求模型在一年期内经营一个模拟的自动售货机业务，GLM-5 最终账户余额达到 4432 美元，经营表现接近 Claude Opus 4.5 ，展现了出色的长期规划和资源管理能力。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/p1u15SDt.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;这些能力是 Agentic Engineering 的核心：模型不仅要能写代码、完成工程，还要能在长程任务中保持目标一致性、进行资源管理、处理多步骤依赖关系，成为真正的 Agentic Ready 基座模型。&lt;/p&gt;
-&lt;h3&gt;国产芯片支持线上推理集群&lt;/h3&gt;
-&lt;p&gt;GLM 系列模型受到全球开发者喜爱，在 GLM Coding Plan 全球爆量后，我们不得不启动限售活动。本次 GLM-5 的上线依托众多国产芯片有力保障了线上服务的稳定和高效。&lt;/p&gt;
-&lt;p&gt;目前，GLM-5 已完成与华为昇腾、摩尔线程、寒武纪、昆仑芯、沐曦、燧原、海光等国产算力平台的深度推理适配。通过底层算子优化与硬件加速，GLM-5 在国产芯片集群上已经实现高吞吐、低延迟的稳定运行。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/216CU20x.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;Agentic Engineering 典型场景&lt;/h3&gt;
-&lt;p&gt;点击或在浏览器输入：&lt;a href=&quot;https://showcase.z.ai&quot; rel=&quot;nofollow&quot;&gt;showcase.z.ai&lt;/a&gt;，即可查看所有案例。&lt;/p&gt;
-&lt;h3&gt;开源与使用方式&lt;/h3&gt;
-&lt;p&gt;即日起，GLM-5 在 Hugging Face 与 ModelScope 平台同步开源，模型权重遵循 MIT License 。&lt;/p&gt;
-&lt;p&gt;GLM-5 已经纳入 Max 用户套餐，Pro 将尽快在 5 天内支持，接下来我们将逐步扩大范围，尽力让更多用户体验并使用 GLM-5 。GLM Coding Plan 支持 Claude Code 、OpenCode 等主流开发工具。&lt;/p&gt;
-&lt;p&gt;GLM Coding Plan 同步升级 Agentic Engineering 体验：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;官方适配 OpenClaw&lt;/strong&gt;：仅需简单几步即可完成配置，快速开启 Agent 工作流；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pro / Max 用户限量赠送 AutoGLM-OpenClaw&lt;/strong&gt;：支持将云端个人 AI 助手接入飞书，实现办公场景的长任务执行；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;新增 GLM in Excel 权益&lt;/strong&gt;：原生适配 Excel 环境的 AI 插件，支持在侧边栏以自然语言交互，深度赋能数据处理与表格工作流（ Beta 期仅 Max 用户可享套餐抵扣）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h4&gt;1. 官方 API 接入&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;BigModel 开放平台： &lt;a href=&quot;https://docs.bigmodel.cn/cn/guide/models/text/glm-5&quot; rel=&quot;nofollow&quot;&gt;https://docs.bigmodel.cn/cn/guide/models/text/glm-5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://Z.ai&quot; rel=&quot;nofollow&quot;&gt;Z.ai&lt;/a&gt;： &lt;a href=&quot;https://docs.z.ai/guides/llm/glm-5&quot; rel=&quot;nofollow&quot;&gt;https://docs.z.ai/guides/llm/glm-5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;OpenClaw 接入文档： &lt;a href=&quot;https://docs.bigmodel.cn/cn/coding-plan/tool/openclaw&quot; rel=&quot;nofollow&quot;&gt;https://docs.bigmodel.cn/cn/coding-plan/tool/openclaw&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;2. 在线体验&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://Z.ai&quot; rel=&quot;nofollow&quot;&gt;Z.ai&lt;/a&gt;： &lt;a href=&quot;https://chat.z.ai&quot; rel=&quot;nofollow&quot;&gt;https://chat.z.ai&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;智谱清言 APP/网页版： &lt;a href=&quot;https://chatglm.cn&quot; rel=&quot;nofollow&quot;&gt;https://chatglm.cn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;3. 开源链接&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;GitHub： &lt;a href=&quot;https://github.com/zai-org/GLM-5&quot; rel=&quot;nofollow&quot;&gt;https://github.com/zai-org/GLM-5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hugging Face： &lt;a href=&quot;https://huggingface.co/zai-org/GLM-5&quot; rel=&quot;nofollow&quot;&gt;https://huggingface.co/zai-org/GLM-5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ModelScope： &lt;a href=&quot;https://modelscope.cn/models/ZhipuAI/GLM-5&quot; rel=&quot;nofollow&quot;&gt;https://modelscope.cn/models/ZhipuAI/GLM-5&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;4. Agent&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;AutoGLM： &lt;a href=&quot;https://autoglm.zhipuai.cn/?channel=AutoGLM_OpenClaw&amp;amp;redeem_modal_open=1&quot; rel=&quot;nofollow&quot;&gt;https://autoglm.zhipuai.cn/?channel=AutoGLM_OpenClaw&amp;amp;redeem_modal_open=1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Z Code： &lt;a href=&quot;https://zcode.z.ai/cn&quot; rel=&quot;nofollow&quot;&gt;https://zcode.z.ai/cn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;5. Blog&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://z.ai/blog/glm-5&quot; rel=&quot;nofollow&quot;&gt;https://z.ai/blog/glm-5&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
       <title>年前公司要求 Java 转岗 c++能接受吗</title>
       <link>https://www.v2ex.com/t/1192610</link>
       <guid>v2ex-1192610</guid>
@@ -139,14 +65,6 @@
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://peon-ping.vercel.app/&quot; rel=&quot;nofollow noopener&quot;&gt;https://peon-ping.vercel.app/&lt;/a&gt;</description>
     </item>
     <item>
-      <title>明天要第一次去老丈人家了，大家还记得第一次去对象家里都被问了什么问题吗？</title>
-      <link>https://www.v2ex.com/t/1192548</link>
-      <guid>v2ex-1192548</guid>
-      <pubDate>Thu, 12 Feb 2026 12:34:20 GMT</pubDate>
-      <description>&lt;p&gt;人比较内向，不太善于表达，现阶段的心情就是有些紧张&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>你们觉得一天最爽的时候是什么时候？</title>
       <link>https://www.v2ex.com/t/1192569</link>
       <guid>v2ex-1192569</guid>
@@ -154,6 +72,14 @@
       <description>&lt;p&gt;我觉得是下班吃晚餐的时候&lt;/p&gt;
 &lt;p&gt;一是下班了，不用重复劳动了&lt;/p&gt;
 &lt;p&gt;二是人类天性，吃好吃的，分泌多巴胺&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>明天要第一次去老丈人家了，大家还记得第一次去对象家里都被问了什么问题吗？</title>
+      <link>https://www.v2ex.com/t/1192548</link>
+      <guid>v2ex-1192548</guid>
+      <pubDate>Thu, 12 Feb 2026 12:34:20 GMT</pubDate>
+      <description>&lt;p&gt;人比较内向，不太善于表达，现阶段的心情就是有些紧张&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -167,6 +93,13 @@
 发现现在好多问题都归结与过敏，医生也说不出个原因&lt;/p&gt;
 &lt;p&gt;你们的孩子过敏吗&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>今天上班的还有吗？</title>
+      <link>https://www.v2ex.com/t/1192608</link>
+      <guid>v2ex-1192608</guid>
+      <pubDate>Fri, 13 Feb 2026 01:35:40 GMT</pubDate>
+      <description>今天上班的还有吗？</description>
     </item>
   </channel>
 </rss>
