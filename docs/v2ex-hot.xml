@@ -4,23 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 14 Feb 2026 03:39:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 05:04:09 GMT</lastBuildDate>
     <item>
       <title>今天还有在上班？</title>
       <link>https://www.v2ex.com/t/1192773</link>
       <guid>v2ex-1192773</guid>
       <pubDate>Sat, 14 Feb 2026 00:34:44 GMT</pubDate>
       <description>农历 2025 最后上半天班了</description>
-    </item>
-    <item>
-      <title>看了几天 seedance2.0 的作品，很震撼，也很悲观</title>
-      <link>https://www.v2ex.com/t/1192649</link>
-      <guid>v2ex-1192649</guid>
-      <pubDate>Fri, 13 Feb 2026 03:47:38 GMT</pubDate>
-      <description>&lt;h2&gt;首先 seedance2 确实很强，出乎我意料的强，直接前进到人人可以当导演的时代了。AI 生成从此取代了短视频、广告、演员、场景、动效等等各个领域的工作。
-然而，正是这种强，让我对普通人的未来更加悲观，各个工种逐渐被替代，美术、配音行业已经是大灾难了，现在轮到了视频、特效，下一步普通程序员也要大量下岗。然后等机器人普及，是不是普通人就真没用了？&lt;/h2&gt;
-&lt;p&gt;它们替代导演时，我们幸灾乐祸；它们替代演员时，我们幸灾乐祸；它们替代设计师时，我们幸灾乐祸；它们替代程序员时，我们幸灾乐祸……它们替代我们时……&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>AI 编程后，我更累了</title>
@@ -143,13 +133,6 @@
 </description>
     </item>
     <item>
-      <title>论家宽建站的可行性？</title>
-      <link>https://www.v2ex.com/t/1192736</link>
-      <guid>v2ex-1192736</guid>
-      <pubDate>Fri, 13 Feb 2026 11:12:22 GMT</pubDate>
-      <description>突然想到的，如果使用这个方案，能不能防运营商探测？&lt;br /&gt;1.使用一个备案域名的子域名。&lt;br /&gt;2.前端接入腾讯云 edgeone CDN 。CDN 回源指向家宽公网 IPv4 一个高位端口&lt;br /&gt;3.在家用路由器上做端口转发，把该高位端口映射到内网主机。同时设置端口仅监听指定 IP （即只允许 CDN 回源段 IP 访问，其他来源 DROP ）。除此以外对公网不直接开放网站端口，用户必须通过前端域名访问。</description>
-    </item>
-    <item>
       <title>江苏联通的小黑屋兄弟们出来了吗？</title>
       <link>https://www.v2ex.com/t/1192705</link>
       <guid>v2ex-1192705</guid>
@@ -157,15 +140,26 @@
       <description>前后差不多快进去一个月了&lt;br /&gt;目前我的家宽出来了，但是政企商宽还在 122.192 开头的小黑屋里，ip 属地是徐州，由于商企的处理流程特殊貌似需要客户经理处理，现在联通一口咬死宽带没有问题，理由是测速正常，ip 不是本地是全省 ip 随机分配导致…&lt;br /&gt;目前直播/视频上传/文件备份等均被限制在 1mbps ，只有联通自己的测速还有全球网测等大众 app 测速正常，小众站点和 iperf3 都原形毕露，但是联通不认。联通一直说是网站对我限速而不是他们运营商有限速，之前装维师傅说宽带被管控现在也改口了说听公司的处理方法&lt;br /&gt;问一下大家是如何处理的？特别是商企宽带</description>
     </item>
     <item>
-      <title>今天提早溜下班啦，给明天还要上班的老哥发三个红包吧</title>
-      <link>https://www.v2ex.com/t/1192651</link>
-      <guid>v2ex-1192651</guid>
-      <pubDate>Fri, 13 Feb 2026 03:50:36 GMT</pubDate>
-      <description>&lt;p&gt;本来要上到明天的，但是老板已经走了，明天可以居家（相当于放了吧），看还有上到明天的老哥，给大家送个小福利吧。 &lt;/p&gt;
-&lt;p&gt;本来想送几张咖啡券的，结果现在给别人账号送有点麻烦，不搞了，就发三个红包吧（支付宝口令红包，每个 10 块）。4 点来 Append 口令码，明天上班的兄弟姐妹们辛苦咯~~~&lt;/p&gt;
-&lt;p&gt;祝大家马年 666 吧~~&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://i.imgur.com/oRu5HmU.png&quot; rel=&quot;nofollow&quot;&gt;https://i.imgur.com/oRu5HmU.png&lt;/a&gt;&lt;/p&gt;
+      <title>论家宽建站的可行性？</title>
+      <link>https://www.v2ex.com/t/1192736</link>
+      <guid>v2ex-1192736</guid>
+      <pubDate>Fri, 13 Feb 2026 11:12:22 GMT</pubDate>
+      <description>突然想到的，如果使用这个方案，能不能防运营商探测？&lt;br /&gt;1.使用一个备案域名的子域名。&lt;br /&gt;2.前端接入腾讯云 edgeone CDN 。CDN 回源指向家宽公网 IPv4 一个高位端口&lt;br /&gt;3.在家用路由器上做端口转发，把该高位端口映射到内网主机。同时设置端口仅监听指定 IP （即只允许 CDN 回源段 IP 访问，其他来源 DROP ）。除此以外对公网不直接开放网站端口，用户必须通过前端域名访问。</description>
+    </item>
+    <item>
+      <title>人老了，有一些感触想写出来。现在建博客还有什么好选择吗？</title>
+      <link>https://www.v2ex.com/t/1192790</link>
+      <guid>v2ex-1192790</guid>
+      <pubDate>Sat, 14 Feb 2026 02:37:15 GMT</pubDate>
+      <description>&lt;p&gt;希望成本低、预期可以较长时间存活的，谢谢。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>是不是可以粗略的认为，，还有 1/3 以上的老哥今天还在上班啊</title>
+      <link>https://www.v2ex.com/t/1192777</link>
+      <guid>v2ex-1192777</guid>
+      <pubDate>Sat, 14 Feb 2026 01:16:03 GMT</pubDate>
+      <description>2626 人在线 / 最高记录 6679&lt;br /&gt;&lt;br /&gt;哈哈 一起当劳模 站岗到六点</description>
     </item>
   </channel>
 </rss>
