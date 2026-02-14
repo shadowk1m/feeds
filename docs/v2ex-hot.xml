@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 14 Feb 2026 10:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 10:50:25 GMT</lastBuildDate>
     <item>
       <title>今天还有在上班？</title>
       <link>https://www.v2ex.com/t/1192773</link>
@@ -44,13 +44,6 @@
       <description>突然想到的，如果使用这个方案，能不能防运营商探测？&lt;br /&gt;1.使用一个备案域名的子域名。&lt;br /&gt;2.前端接入腾讯云 edgeone CDN 。CDN 回源指向家宽公网 IPv4 一个高位端口&lt;br /&gt;3.在家用路由器上做端口转发，把该高位端口映射到内网主机。同时设置端口仅监听指定 IP （即只允许 CDN 回源段 IP 访问，其他来源 DROP ）。除此以外对公网不直接开放网站端口，用户必须通过前端域名访问。</description>
     </item>
     <item>
-      <title>是不是可以粗略的认为，，还有 1/3 以上的老哥今天还在上班啊</title>
-      <link>https://www.v2ex.com/t/1192777</link>
-      <guid>v2ex-1192777</guid>
-      <pubDate>Sat, 14 Feb 2026 01:16:03 GMT</pubDate>
-      <description>2626 人在线 / 最高记录 6679&lt;br /&gt;&lt;br /&gt;哈哈 一起当劳模 站岗到六点</description>
-    </item>
-    <item>
       <title>glm 5 和 minimax m2.5 都挺菜的</title>
       <link>https://www.v2ex.com/t/1192786</link>
       <guid>v2ex-1192786</guid>
@@ -67,24 +60,28 @@
 </description>
     </item>
     <item>
+      <title>是不是可以粗略的认为，，还有 1/3 以上的老哥今天还在上班啊</title>
+      <link>https://www.v2ex.com/t/1192777</link>
+      <guid>v2ex-1192777</guid>
+      <pubDate>Sat, 14 Feb 2026 01:16:03 GMT</pubDate>
+      <description>2626 人在线 / 最高记录 6679&lt;br /&gt;&lt;br /&gt;哈哈 一起当劳模 站岗到六点</description>
+    </item>
+    <item>
+      <title>年前这段时间上班是真的爽</title>
+      <link>https://www.v2ex.com/t/1192792</link>
+      <guid>v2ex-1192792</guid>
+      <pubDate>Sat, 14 Feb 2026 02:40:49 GMT</pubDate>
+      <description>&lt;p&gt;很多同事休假了，没什么需要推进的事情。
+公司系统也封禁期了，不需要上线迭代。
+只要不出线上问题，能一连摸鱼好几天。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>情人节你是跟老婆过还是跟情人过</title>
       <link>https://www.v2ex.com/t/1192814</link>
       <guid>v2ex-1192814</guid>
       <pubDate>Sat, 14 Feb 2026 04:26:03 GMT</pubDate>
       <description>如果情人 &amp;gt; 1 又该如何合理安排，雨露均沾</description>
-    </item>
-    <item>
-      <title>过年去广州，有什么地方推荐</title>
-      <link>https://www.v2ex.com/t/1192781</link>
-      <guid>v2ex-1192781</guid>
-      <pubDate>Sat, 14 Feb 2026 01:56:52 GMT</pubDate>
-      <description>&lt;p&gt;主要是去体验不同城市文化，有 2 个主要想做的&lt;/p&gt;
-&lt;p&gt;1 、想要认识不同的人，和他们聊天。所以我住宿会选择青旅。大家有广州的青旅推进吗？或者一些社交聊天的地方&lt;/p&gt;
-&lt;p&gt;2 、第二个就是感受广州的年味。好像有花灯、舞狮这类少见的活动，这是我 AI 搜索出来的。我还是更加愿意相信大家推荐的&lt;/p&gt;
-&lt;p&gt;我是一个人去广州，没什么顾虑。
-时间阳历 14 号到 20 号（农历 27 到大年初四）&lt;/p&gt;
-&lt;p&gt;大家推荐的，我都会给小心心感谢 ：）&lt;/p&gt;
-</description>
     </item>
   </channel>
 </rss>
