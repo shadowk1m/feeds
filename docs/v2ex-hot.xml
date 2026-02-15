@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Feb 2026 13:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 13:58:20 GMT</lastBuildDate>
     <item>
       <title>新 Mac 配环境花了三小时还没配完，试过的自动化方案没一个省心的</title>
       <link>https://www.v2ex.com/t/1192931</link>
@@ -16,15 +16,6 @@
 &lt;p&gt;后来实在受不了，自己糊了个 CLI 把这几个的活攒一块了（开源的，有兴趣的点 blog 里的链接）。每个方案的坑我都记下来了，也附了国内换镜像源的完整配置，不换源上面说的全白搭：&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://blog.fullstackjam.com/2026/mac-setup-automation-guide-2026-zh/&quot; rel=&quot;nofollow&quot;&gt;blog.fullstackjam.com/2026/mac-setup-automation-guide-2026-zh/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;所以想问问大家现在都怎么搞的？纯 Brewfile 就完事了还是也在折腾别的？有没有人真的在日常用 nix-darwin 的，学了多久上的手？ dotfile 你们用啥管，chezmoi ？ stow ？还是直接 git bare repo 硬来？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>cat5-e 网线 20m 网线测试仪测试 8 根线都正常，但握手只有 100mbps 是什么原因呢？</title>
-      <link>https://www.v2ex.com/t/1192890</link>
-      <guid>v2ex-1192890</guid>
-      <pubDate>Sat, 14 Feb 2026 13:52:44 GMT</pubDate>
-      <description>&lt;p&gt;cat5-e 网线 20m 网线测试仪测试 8 根线都正常，但握手只有 100mbps 是什么原因呢？
-难道是网线质量太差了？网线现在不太好换了  买了俩免压水晶头准备换个水晶头试试看&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -86,6 +77,14 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
       <description>艋舺&lt;br /&gt;2010&lt;br /&gt;2h 21m&lt;br /&gt;6.9</description>
     </item>
     <item>
+      <title>夸克网盘是真流氓</title>
+      <link>https://www.v2ex.com/t/1192943</link>
+      <guid>v2ex-1192943</guid>
+      <pubDate>Sun, 15 Feb 2026 08:45:08 GMT</pubDate>
+      <description>&lt;p&gt;大家有没有留意到，最近用夸克网盘，只要你一打开网盘，就会被后台篡改默认播放软件，变成夸克自己的播放器，无论你修改多少次都没用，这个流氓夸克真没人管得了吗？ 这比百度网盘还要恶心一万倍。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>飞牛这组织能力，真的就不像是做商业产品的配置</title>
       <link>https://www.v2ex.com/t/1192894</link>
       <guid>v2ex-1192894</guid>
@@ -96,14 +95,6 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
 &lt;p&gt;然后发布了 2 个版本，造成了更多的使用问题。包括网络的，应用的。&lt;/p&gt;
 &lt;p&gt;我现在 nas 都失联了，ip 都打不开&lt;/p&gt;
 &lt;p&gt;哎，这是商业化产品啊，稳定和安全是第一要务&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>夸克网盘是真流氓</title>
-      <link>https://www.v2ex.com/t/1192943</link>
-      <guid>v2ex-1192943</guid>
-      <pubDate>Sun, 15 Feb 2026 08:45:08 GMT</pubDate>
-      <description>&lt;p&gt;大家有没有留意到，最近用夸克网盘，只要你一打开网盘，就会被后台篡改默认播放软件，变成夸克自己的播放器，无论你修改多少次都没用，这个流氓夸克真没人管得了吗？ 这比百度网盘还要恶心一万倍。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -137,6 +128,14 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
       <guid>v2ex-1192938</guid>
       <pubDate>Sun, 15 Feb 2026 06:48:28 GMT</pubDate>
       <description>平时和对象都是腾讯视频直接投屏看的，爸妈来了才发现，打开电视，咋看都不知道了。&lt;br /&gt;想问问大家是怎么给老人设置电视的</description>
+    </item>
+    <item>
+      <title>这周参加了集团公司组织的 CTF 比赛</title>
+      <link>https://www.v2ex.com/t/1192920</link>
+      <guid>v2ex-1192920</guid>
+      <pubDate>Sun, 15 Feb 2026 02:45:39 GMT</pubDate>
+      <description>&lt;p&gt;比赛到 16:30 结束，结果最快的一组不到 11 点半就都做完了，应该是直接对接了本地的 AI agent 。我们组用的是 claude sonnet4.5 ，没有开最新的模型，而且需要手动来回复制粘贴本地 AI 和解题环境的输出内容，成绩很一般。赛后大家交流的也都是谁家 AI 好用，没人关心解题思路什么的了。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
