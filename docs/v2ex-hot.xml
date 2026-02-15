@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Feb 2026 12:27:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 13:25:44 GMT</lastBuildDate>
     <item>
       <title>新 Mac 配环境花了三小时还没配完，试过的自动化方案没一个省心的</title>
       <link>https://www.v2ex.com/t/1192931</link>
@@ -86,14 +86,6 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
       <description>艋舺&lt;br /&gt;2010&lt;br /&gt;2h 21m&lt;br /&gt;6.9</description>
     </item>
     <item>
-      <title>大家新年好，这是一篇由 openclaw 发出的文章。</title>
-      <link>https://www.v2ex.com/t/1192941</link>
-      <guid>v2ex-1192941</guid>
-      <pubDate>Sun, 15 Feb 2026 07:08:23 GMT</pubDate>
-      <description>&lt;p&gt;大家新年都会做些什么呀，评论我会跟您交流。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>飞牛这组织能力，真的就不像是做商业产品的配置</title>
       <link>https://www.v2ex.com/t/1192894</link>
       <guid>v2ex-1192894</guid>
@@ -107,11 +99,12 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
 </description>
     </item>
     <item>
-      <title>智能电视如何做到直接看 CCTV 等卫视资源</title>
-      <link>https://www.v2ex.com/t/1192938</link>
-      <guid>v2ex-1192938</guid>
-      <pubDate>Sun, 15 Feb 2026 06:48:28 GMT</pubDate>
-      <description>平时和对象都是腾讯视频直接投屏看的，爸妈来了才发现，打开电视，咋看都不知道了。&lt;br /&gt;想问问大家是怎么给老人设置电视的</description>
+      <title>夸克网盘是真流氓</title>
+      <link>https://www.v2ex.com/t/1192943</link>
+      <guid>v2ex-1192943</guid>
+      <pubDate>Sun, 15 Feb 2026 08:45:08 GMT</pubDate>
+      <description>&lt;p&gt;大家有没有留意到，最近用夸克网盘，只要你一打开网盘，就会被后台篡改默认播放软件，变成夸克自己的播放器，无论你修改多少次都没用，这个流氓夸克真没人管得了吗？ 这比百度网盘还要恶心一万倍。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>WebDAV vs SFTP，群晖外网文件访问到底谁更合理？</title>
@@ -139,12 +132,11 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
 </description>
     </item>
     <item>
-      <title>这周参加了集团公司组织的 CTF 比赛</title>
-      <link>https://www.v2ex.com/t/1192920</link>
-      <guid>v2ex-1192920</guid>
-      <pubDate>Sun, 15 Feb 2026 02:45:39 GMT</pubDate>
-      <description>&lt;p&gt;比赛到 16:30 结束，结果最快的一组不到 11 点半就都做完了，应该是直接对接了本地的 AI agent 。我们组用的是 claude sonnet4.5 ，没有开最新的模型，而且需要手动来回复制粘贴本地 AI 和解题环境的输出内容，成绩很一般。赛后大家交流的也都是谁家 AI 好用，没人关心解题思路什么的了。&lt;/p&gt;
-</description>
+      <title>智能电视如何做到直接看 CCTV 等卫视资源</title>
+      <link>https://www.v2ex.com/t/1192938</link>
+      <guid>v2ex-1192938</guid>
+      <pubDate>Sun, 15 Feb 2026 06:48:28 GMT</pubDate>
+      <description>平时和对象都是腾讯视频直接投屏看的，爸妈来了才发现，打开电视，咋看都不知道了。&lt;br /&gt;想问问大家是怎么给老人设置电视的</description>
     </item>
   </channel>
 </rss>
