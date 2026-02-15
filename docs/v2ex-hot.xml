@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Feb 2026 19:44:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 20:14:27 GMT</lastBuildDate>
     <item>
       <title>新 Mac 配环境花了三小时还没配完，试过的自动化方案没一个省心的</title>
       <link>https://www.v2ex.com/t/1192931</link>
@@ -16,17 +16,6 @@
 &lt;p&gt;后来实在受不了，自己糊了个 CLI 把这几个的活攒一块了（开源的，有兴趣的点 blog 里的链接）。每个方案的坑我都记下来了，也附了国内换镜像源的完整配置，不换源上面说的全白搭：&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://blog.fullstackjam.com/2026/mac-setup-automation-guide-2026-zh/&quot; rel=&quot;nofollow&quot;&gt;blog.fullstackjam.com/2026/mac-setup-automation-guide-2026-zh/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;所以想问问大家现在都怎么搞的？纯 Brewfile 就完事了还是也在折腾别的？有没有人真的在日常用 nix-darwin 的，学了多久上的手？ dotfile 你们用啥管，chezmoi ？ stow ？还是直接 git bare repo 硬来？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>关于普陀拜佛求健康</title>
-      <link>https://www.v2ex.com/t/1192907</link>
-      <guid>v2ex-1192907</guid>
-      <pubDate>Sat, 14 Feb 2026 19:58:43 GMT</pubDate>
-      <description>&lt;p&gt;坐标南京上海的叔叔 2025 下半年身体不好住院，然后有提点说该去拜拜佛。
-想春节期间拜拜佛，于是有推荐普陀山的，不知道是不是最优解？
-如果去普陀，主要为了拜佛，两天左右的日程，可以上海出发，有什么推荐路线和日程，以及注意事项吗？谢谢！
-对了，并不打算问 ai ，想请教实际经验。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -140,6 +129,15 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
       <guid>v2ex-1192940</guid>
       <pubDate>Sun, 15 Feb 2026 07:04:15 GMT</pubDate>
       <description>体制内瞧不上做生意的&lt;br /&gt;创业的瞧不上打工的&lt;br /&gt;青春饭瞧不上固定工资的&lt;br /&gt;&lt;br /&gt;私底下吃的苦是一点不提啊</description>
+    </item>
+    <item>
+      <title>使用公司提供的 AI 套餐来做个人项目，会有所有权的纠纷么？</title>
+      <link>https://www.v2ex.com/t/1192961</link>
+      <guid>v2ex-1192961</guid>
+      <pubDate>Sun, 15 Feb 2026 12:49:25 GMT</pubDate>
+      <description>&lt;p&gt;公司提供了 codex 、Claude 、Gemini 。Claude code 是中转的，codex 和 Gemini 都是走官方的 API 。&lt;/p&gt;
+&lt;p&gt;额度很多，平时工作用不完。如果我用来搞个人项目（ GitHub 开源），会有啥风险不？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
