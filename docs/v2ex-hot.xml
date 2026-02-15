@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Feb 2026 13:58:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 14:26:02 GMT</lastBuildDate>
     <item>
       <title>新 Mac 配环境花了三小时还没配完，试过的自动化方案没一个省心的</title>
       <link>https://www.v2ex.com/t/1192931</link>
@@ -85,17 +85,11 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
 </description>
     </item>
     <item>
-      <title>飞牛这组织能力，真的就不像是做商业产品的配置</title>
-      <link>https://www.v2ex.com/t/1192894</link>
-      <guid>v2ex-1192894</guid>
-      <pubDate>Sat, 14 Feb 2026 14:02:24 GMT</pubDate>
-      <description>&lt;p&gt;虽然系统免费，精神可嘉，但是不得不说。最近的状态一言难尽&lt;/p&gt;
-&lt;p&gt;首先是爆出安全漏洞，那你尽快发布补丁修复或者发通知怎么避免
-可是飞牛的应对。。。&lt;/p&gt;
-&lt;p&gt;然后发布了 2 个版本，造成了更多的使用问题。包括网络的，应用的。&lt;/p&gt;
-&lt;p&gt;我现在 nas 都失联了，ip 都打不开&lt;/p&gt;
-&lt;p&gt;哎，这是商业化产品啊，稳定和安全是第一要务&lt;/p&gt;
-</description>
+      <title>智能电视如何做到直接看 CCTV 等卫视资源</title>
+      <link>https://www.v2ex.com/t/1192938</link>
+      <guid>v2ex-1192938</guid>
+      <pubDate>Sun, 15 Feb 2026 06:48:28 GMT</pubDate>
+      <description>平时和对象都是腾讯视频直接投屏看的，爸妈来了才发现，打开电视，咋看都不知道了。&lt;br /&gt;想问问大家是怎么给老人设置电视的</description>
     </item>
     <item>
       <title>WebDAV vs SFTP，群晖外网文件访问到底谁更合理？</title>
@@ -123,19 +117,19 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
 </description>
     </item>
     <item>
-      <title>智能电视如何做到直接看 CCTV 等卫视资源</title>
-      <link>https://www.v2ex.com/t/1192938</link>
-      <guid>v2ex-1192938</guid>
-      <pubDate>Sun, 15 Feb 2026 06:48:28 GMT</pubDate>
-      <description>平时和对象都是腾讯视频直接投屏看的，爸妈来了才发现，打开电视，咋看都不知道了。&lt;br /&gt;想问问大家是怎么给老人设置电视的</description>
-    </item>
-    <item>
       <title>这周参加了集团公司组织的 CTF 比赛</title>
       <link>https://www.v2ex.com/t/1192920</link>
       <guid>v2ex-1192920</guid>
       <pubDate>Sun, 15 Feb 2026 02:45:39 GMT</pubDate>
       <description>&lt;p&gt;比赛到 16:30 结束，结果最快的一组不到 11 点半就都做完了，应该是直接对接了本地的 AI agent 。我们组用的是 claude sonnet4.5 ，没有开最新的模型，而且需要手动来回复制粘贴本地 AI 和解题环境的输出内容，成绩很一般。赛后大家交流的也都是谁家 AI 好用，没人关心解题思路什么的了。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>过年饭桌上，全是幸存者偏差话题，怎么溜？？</title>
+      <link>https://www.v2ex.com/t/1192940</link>
+      <guid>v2ex-1192940</guid>
+      <pubDate>Sun, 15 Feb 2026 07:04:15 GMT</pubDate>
+      <description>体制内瞧不上做生意的&lt;br /&gt;创业的瞧不上打工的&lt;br /&gt;青春饭瞧不上固定工资的&lt;br /&gt;&lt;br /&gt;私底下吃的苦是一点不提啊</description>
     </item>
   </channel>
 </rss>
