@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 16 Feb 2026 03:59:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 05:27:06 GMT</lastBuildDate>
     <item>
       <title>为什么端到端加密的 PGP 邮件没有被广泛使用？</title>
       <link>https://www.v2ex.com/t/1192939</link>
@@ -77,20 +77,20 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
 </description>
     </item>
     <item>
-      <title>夸克网盘是真流氓</title>
-      <link>https://www.v2ex.com/t/1192943</link>
-      <guid>v2ex-1192943</guid>
-      <pubDate>Sun, 15 Feb 2026 08:45:08 GMT</pubDate>
-      <description>&lt;p&gt;大家有没有留意到，最近用夸克网盘，只要你一打开网盘，就会被后台篡改默认播放软件，变成夸克自己的播放器，无论你修改多少次都没用，这个流氓夸克真没人管得了吗？ 这比百度网盘还要恶心一万倍。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>使用公司提供的 AI 套餐来做个人项目，会有所有权的纠纷么？</title>
       <link>https://www.v2ex.com/t/1192961</link>
       <guid>v2ex-1192961</guid>
       <pubDate>Sun, 15 Feb 2026 12:49:25 GMT</pubDate>
       <description>&lt;p&gt;公司提供了 codex 、Claude 、Gemini 。Claude code 是中转的，codex 和 Gemini 都是走官方的 API 。&lt;/p&gt;
 &lt;p&gt;额度很多，平时工作用不完。如果我用来搞个人项目（ GitHub 开源），会有啥风险不？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>夸克网盘是真流氓</title>
+      <link>https://www.v2ex.com/t/1192943</link>
+      <guid>v2ex-1192943</guid>
+      <pubDate>Sun, 15 Feb 2026 08:45:08 GMT</pubDate>
+      <description>&lt;p&gt;大家有没有留意到，最近用夸克网盘，只要你一打开网盘，就会被后台篡改默认播放软件，变成夸克自己的播放器，无论你修改多少次都没用，这个流氓夸克真没人管得了吗？ 这比百度网盘还要恶心一万倍。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -101,6 +101,18 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
       <description>体制内瞧不上做生意的&lt;br /&gt;创业的瞧不上打工的&lt;br /&gt;青春饭瞧不上固定工资的&lt;br /&gt;&lt;br /&gt;私底下吃的苦是一点不提啊</description>
     </item>
     <item>
+      <title>感觉今年高速上龟速新手少了很多</title>
+      <link>https://www.v2ex.com/t/1192945</link>
+      <guid>v2ex-1192945</guid>
+      <pubDate>Sun, 15 Feb 2026 09:20:36 GMT</pubDate>
+      <description>&lt;p&gt;今天（大年廿八）开了 300 公里 G2 ，从上海到镇江。感觉路上新手事故少了很多。龟速车也很少了。是不是新手司机和新势力电车高度重叠，智驾普及的功劳？&lt;/p&gt;
+&lt;p&gt;只是遇到过几次超车的时候莫名踩刹车的。路况良好，视野良好，前后都没有障碍，就是快要和大车平行的时候突然一脚刹车。&lt;/p&gt;
+&lt;p&gt;电车的里程焦虑缓解了以后路上明显分为了两派：🚙电车党和🚗油车党
+🚙电动党基本上压着 90 ～ 100 的时速跑。🚗油车党依然保持 120 ～ 130 的目标速度。两辆电车可以压制住一大队油车。电车也有愿意开 120 的，但很少。有一段我竟然是跟着一辆五菱宏光大哥一路超越了一众油车🤦&lt;/p&gt;
+&lt;p&gt;期待着两档电车能早点普及，大家都可以无顾虑开 120😄&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>智能电视如何做到直接看 CCTV 等卫视资源</title>
       <link>https://www.v2ex.com/t/1192938</link>
       <guid>v2ex-1192938</guid>
@@ -108,29 +120,11 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
       <description>平时和对象都是腾讯视频直接投屏看的，爸妈来了才发现，打开电视，咋看都不知道了。&lt;br /&gt;想问问大家是怎么给老人设置电视的</description>
     </item>
     <item>
-      <title>WebDAV vs SFTP，群晖外网文件访问到底谁更合理？</title>
-      <link>https://www.v2ex.com/t/1192942</link>
-      <guid>v2ex-1192942</guid>
-      <pubDate>Sun, 15 Feb 2026 07:31:49 GMT</pubDate>
-      <description>&lt;p&gt;最近在折腾家庭 NAS 的外网文件访问方案，也看了不少关于 WebDAV 、SFTP 在性能和安全性方面的讨论，发现很多结论差异很大，想结合自己的场景再请教一下各位如何选择。&lt;/p&gt;
-&lt;p&gt;网络环境：家庭宽带（电信）、公网 IPv4 ，上行 50Mbps ，下行 1000Mbps ，有域名，有 DDNS 脚本进行 IP 绑定。
-设备：群晖 NAS （最新版 DSM ）
-使用场景：同城同运营商，偶尔会跨运营商。手机客户端用 Documents by Readdle ，电脑客户端用 Mountain Duck 5 或者 RaiDrive （旧版，无广告的），电脑在外基本要靠手机热点联网。&lt;/p&gt;
-&lt;p&gt;主要用途是：办公文件管理（列目录、找文件、在线编辑等），偶尔大文件传输，有时还会访问 3000+文件的超大目录。&lt;/p&gt;
-&lt;p&gt;看了前段时间飞牛的问题，在安全方面也有考虑，希望不要被攻破。但由于家人都要使用，设备太多，全部配 VPN 也不现实，还是得通过 DDNS 直连。&lt;/p&gt;
-&lt;p&gt;考虑了好久现在有 2 种方案：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;WebDAV 套 Nginx 反代后暴漏到公网，限制本省 IP 访问。
-使用群晖官方套件的 WebDAV 服务，套一层内置的 Nginx 反代后通过高位端口映射出去。WebDAV 和 Nginx 都启用 https ，TLS 强制 1.3 版本。所有用户设置 50 位以上的强密码，群晖启用自动封锁。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SFTP 直接暴漏到公网，限制本省 IP 访问。
-目前 DSM 最新版的 OpenSSH 版本信息为&lt;code&gt;OpenSSH_8.2p1, OpenSSL 1.1.1u  30 May 2023&lt;/code&gt;，通过高位端口直接映射出去，给所有用户都生成 ed25519 的密钥（带 passphrase ），仅允许密钥认证，禁止密码登录。所有的公钥都添加&lt;code&gt;restrict,command=&quot;internal-sftp&quot;&lt;/code&gt;限制使用范围。群晖启用自动封锁，且强制所有用户登录 SFTP 后进入家目录，不得进入其他路径。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;综合性能、安全、稳定等多方面因素，上面两个方案哪个更合适呢？&lt;/p&gt;
-</description>
+      <title>过年给老丈人多少红包合适？</title>
+      <link>https://www.v2ex.com/t/1192955</link>
+      <guid>v2ex-1192955</guid>
+      <pubDate>Sun, 15 Feb 2026 10:39:57 GMT</pubDate>
+      <description>一人 1k 合适么？另外还会带点白酒。&lt;br /&gt;另外，老婆的爷爷奶奶也要红包么？多少合适？她的爷爷奶奶是老婆自己给，还是我也得分开给？</description>
     </item>
     <item>
       <title>Mac 上 有 Navicat 的替代品吗？</title>
