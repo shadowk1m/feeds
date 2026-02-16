@@ -4,47 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 16 Feb 2026 06:38:44 GMT</lastBuildDate>
-    <item>
-      <title>为什么端到端加密的 PGP 邮件没有被广泛使用？</title>
-      <link>https://www.v2ex.com/t/1192939</link>
-      <guid>v2ex-1192939</guid>
-      <pubDate>Sun, 15 Feb 2026 06:50:40 GMT</pubDate>
-      <description>&lt;p&gt;看起来似乎是使用太复杂的缘故，真正的原因是所有邮件巨头对此项技术采取消极接纳的结果，如果积极推进使用的复杂性会马上得到解决。那么他们为什么要抗拒呢？一旦采用端到端的 PGP 加密，那些邮件服务商无法看到邮件的内容，无法扫描，也无法提供和内容关联的广告，总之无法从用户的邮件中获取信息。&lt;/p&gt;
-&lt;p&gt;当然作为程序员要面对现实，抱怨不解决任何问题，但我可以使用 PGP 加密，当越来越多的人使用 PGP 加密通讯时，反而会促进邮件厂商的跟进。目前的情况下，使用一款支持 PGP 的邮件客户端是普通人入门 PGP 加密邮件的最佳选择，thunderbird 几乎是不二的选择。&lt;/p&gt;
-&lt;p&gt;我是 &lt;a href=&quot;mailto:a@example.com&quot;&gt;a@example.com&lt;/a&gt; 要发送一封加密的邮件给 &lt;a href=&quot;mailto:b@example.com&quot;&gt;b@example.com&lt;/a&gt; 。打开 thunderbird 发送邮件的界面：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/5zWD7oih.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;你会看到加密按钮是灰掉的，你需要在账号设置的端到端加密界面生成自己的密钥对。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/B98MYA7K.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;密钥对生成之后：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/XyJZ7GLL.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;这里有个发布按钮，这个会将你的邮箱的公钥发布到 &lt;a href=&quot;http://keys.openpgp.org&quot; rel=&quot;nofollow&quot;&gt;keys.openpgp.org&lt;/a&gt; ，这个有什么用？等一下你给 &lt;a href=&quot;mailto:b@example.com&quot;&gt;b@example.com&lt;/a&gt; 发邮件时就会需要 b 的公钥，除非通过其它方式获取 b 的公钥，不然你没法给 b 发加密邮件。&lt;/p&gt;
-&lt;p&gt;当你的 &lt;a href=&quot;mailto:a@example.com&quot;&gt;a@example.com&lt;/a&gt; 账号有了密钥对之后，thunderbird 发送邮件的界面就会出现变化。此时加密按钮激活了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/v3ZG5q3e.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;然后当你输入 &lt;a href=&quot;mailto:b@example.com&quot;&gt;b@example.com&lt;/a&gt; 之后，并且点击加密按钮，此时 thunderbird 系统内还没有 &lt;a href=&quot;mailto:b@example.com&quot;&gt;b@example.com&lt;/a&gt; 的公钥，它会尝试获取这个电邮的公钥，比如 KWD ，&lt;a href=&quot;http://keys.openpgp.org&quot; rel=&quot;nofollow&quot;&gt;keys.openpgp.org&lt;/a&gt; ，&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/YD4mtMM6.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;点击解决，可以看到不同的导入方法，其中包括文件导入。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/DQ0zI7rb.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;当你导入之后，就可以发送加密邮件了。
-当 a 发给 b 时，用 b 的公钥加密，用 a 的私钥对内容签名（防篡改）.反之则反之。&lt;/p&gt;
-&lt;p&gt;接下来谈谈 KWD （ web key directory)，直接以例子说明可以直观的了解它的应用范围。比如一个邮箱 &lt;a href=&quot;mailto:sky@never-lost.app&quot;&gt;sky@never-lost.app&lt;/a&gt; ，如果邮箱主人同时拥有 never-lost.app 的域名，那么它可以在自己的站点部署 KWD 端点，类似于域名验证的挑战，都是在.well-known 的目录下。比如：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;email: sky@never-lost.app
-localpart: sky
-domain: never-lost.app
-wkd_hash: kh566nfd7omkgp7cxgo7qgx51gsmwefr
-wkd_policy_url: https://never-lost.app/.well-known/openpgpkey/policy
-wkd_hu_url: https://never-lost.app/.well-known/openpgpkey/hu/kh566nfd7omkgp7cxgo7qgx51gsmwefr
-policy_record_exists: yes
-hu_record_exists: yes
-key_id: B4621D5A04EB1A1C
-fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这个有什么用呢？当你在 thunderbird 发送邮件的界面输入 &lt;a href=&quot;mailto:sky@never-lost.app&quot;&gt;sky@never-lost.app&lt;/a&gt; 时，thunderbird 显示前面图片中的黄色警告，然后你点击 在网上寻找公钥，thunderbird 就会从该网站获取公钥。 如果域名不是你的，那么可以将你的公钥发送到 &lt;a href=&quot;http://keys.openpgp.org&quot; rel=&quot;nofollow&quot;&gt;keys.openpgp.org&lt;/a&gt; ，thunderbird 也会从该网站查找。&lt;/p&gt;
-&lt;p&gt;怎么样？准备发送你的第一封 PGP 加密邮件了吗？如果你没有可接受加密邮件的邮箱，可以发送到 &lt;a href=&quot;mailto:sky@never-lost.app&quot;&gt;sky@never-lost.app&lt;/a&gt; ，会自动回复加密的邮件。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/dpnkMRDb.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;PGP 加密的私钥在你手里，你掌控你的信息。不是 Google ，微软，qq 或网易，如果你查看网页版的邮件，看到的是加密的内容（通常是附件形式）。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Mon, 16 Feb 2026 07:44:45 GMT</lastBuildDate>
     <item>
       <title>问问各位过来人，想问下是否要继续？</title>
       <link>https://www.v2ex.com/t/1192967</link>
@@ -81,13 +41,6 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
 </description>
     </item>
     <item>
-      <title>过年饭桌上，全是幸存者偏差话题，怎么溜？？</title>
-      <link>https://www.v2ex.com/t/1192940</link>
-      <guid>v2ex-1192940</guid>
-      <pubDate>Sun, 15 Feb 2026 07:04:15 GMT</pubDate>
-      <description>体制内瞧不上做生意的&lt;br /&gt;创业的瞧不上打工的&lt;br /&gt;青春饭瞧不上固定工资的&lt;br /&gt;&lt;br /&gt;私底下吃的苦是一点不提啊</description>
-    </item>
-    <item>
       <title>感觉今年高速上龟速新手少了很多</title>
       <link>https://www.v2ex.com/t/1192945</link>
       <guid>v2ex-1192945</guid>
@@ -118,35 +71,96 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
       <description>一人 1k 合适么？另外还会带点白酒。&lt;br /&gt;另外，老婆的爷爷奶奶也要红包么？多少合适？她的爷爷奶奶是老婆自己给，还是我也得分开给？</description>
     </item>
     <item>
-      <title>智能电视如何做到直接看 CCTV 等卫视资源</title>
-      <link>https://www.v2ex.com/t/1192938</link>
-      <guid>v2ex-1192938</guid>
-      <pubDate>Sun, 15 Feb 2026 06:48:28 GMT</pubDate>
-      <description>平时和对象都是腾讯视频直接投屏看的，爸妈来了才发现，打开电视，咋看都不知道了。&lt;br /&gt;想问问大家是怎么给老人设置电视的</description>
+      <title>2025 父亲走了, 很怀念他</title>
+      <link>https://www.v2ex.com/t/1192974</link>
+      <guid>v2ex-1192974</guid>
+      <pubDate>Sun, 15 Feb 2026 15:50:21 GMT</pubDate>
+      <description>&lt;p&gt;父亲在 2025 年因病离世，如今新一年春节又即将来临，去年春节全家和亲戚去广西自驾了玩一圈，当时父亲在路上还说起明年准备去张家界，路线都规划好了，今年这段旅程终究是无法成行了，很是怀念。当时父亲离去后，心情沉痛，在这疾病的一个论坛里记录了父亲最后的&lt;a href=&quot;https://app.house086.com/mag/circle/v1/forum/threadWapPage?tid=328239&amp;amp;themecolor=7a7a7a&amp;amp;circle_id=121&quot; rel=&quot;nofollow&quot;&gt; [病情历程] &lt;/a&gt;，不过心里其实还有很多话想说，想找一个树洞再写写我的父亲。&lt;/p&gt;
+&lt;p&gt;父亲生于 1964 年，2024 年 2 月初因为持续的乏力，面部浮肿，去检查后确诊为淋巴瘤，一种恶性的血液肿瘤，确诊时为滤泡淋巴瘤 3B 级，属于晚期了，这给我们以及临近退休的父亲带来了沉重的打击。但当时查资料了解到滤泡淋巴瘤属于一种惰性淋巴瘤，并且淋巴瘤主要是看分型不看分期，对化疗很敏感，有规范的治疗方案，虽然当时也担心这种重大疾病肯定对生命有影响，想过与父亲离别的一天可能会提前到来，但是真没想到会来的这么快。&lt;/p&gt;
+&lt;p&gt;父亲年轻时成绩不错，考上大学学的冶炼相关专业，在一座西南小城的国企中工作了一辈子，技术出身不太擅长应酬的他从普通的技术员逐渐做到一个小头目，至少对我这三十多还在各种二三流小公司打工的 IT 民工来说，还是很钦佩的，他为我们家提供了不算富裕但也足够的经济基础，是我这个样样很普通，到处瞎折腾却也还算活得下去的底气。他年轻时工作总是很忙，在我上中学后又调到离市区很远的一个县，可能一两周才能回来一次，有时候感觉他事情很多，回来了很疲惫话也不多，虽然在我成长中少了很多陪伴，不过他和我说话时总是很温和，偶尔会夹杂一些父亲他自带的独特风趣，我学习上每次跟他说要买资料报班啥的也从不吝啬，我很喜欢也很感谢他，他一直是我心中一座靠山。&lt;/p&gt;
+&lt;p&gt;之前父亲的身体状况一直还算不错，他这辈子也经历了很多事，操劳了很多事，临近退休的几年，因为工作单位上出了些事受到了影响，从一线位置退居闲职，虽然没那么多事情操心了，但心里也受了很大打击，他从未和我详细讲过这番经历，但想必这过程还是很曲折的。后来很多人说父亲遭这病必定有很大这方面因素的影响，不过已经过去很多年了，我是感觉父亲也逐渐放下了，他有了更多自己的时间，也开始规划着退休生活，学习拍照摄影视频剪辑，AI 刚出来那会他对各种 AI 的文案图片编辑，视频生成能力掌握的比我还 6 ，经常在家族群里展示展示他新剪出来的视频，给大家带来了很多欢乐。我们一家人都比较内向话不多，父亲算是最 E 的人，他在时家里气氛还算偶有活跃，如今他走了家里便也冷清了许多。&lt;/p&gt;
+&lt;p&gt;这是父亲最后一段平和而又温馨的时光，我一直觉着父亲这样的状态也还不错，只是他常常说睡不着觉，晚上睡下只能挨到早上眯一会，只是我每次见父亲他都是笑呵呵的很精神，看不出什么异样。生病前父亲每年也有体检，主要也就是有些肥胖的问题，医生着重提醒后，父亲其实也比较关注身体健康了，常常晚饭后就去老家小区旁边的公园登山锻炼，瘦下来了不少。特别是临近退休前一年，他瘦了三十多斤，我们还以为这是他锻炼的结果，父亲自己也觉得精神头不错，但这也许就是疾病开始的前兆。&lt;/p&gt;
+&lt;p&gt;得益于多年前随手为父亲购置了份医疗险，报销了绝大部分医疗费用，不至于为高昂的医疗费用发愁，还在疾病复发后使用了号称目前最为先进也非常昂贵的 CART 疗法，没为这病背上沉重的经济负担。这是我们的万幸，但这也让我放松了警惕，倘若是自己真金白银的药费，应当更驱动着我注重医疗知识的学习，更关注父亲的身体状态，可以更早发现父亲健康的危险状态。只是我太过于相信这些高昂费用的靶向药，CART 疗法的效果，想着有保险托底心里多了虚妄的自信，在发现 CART 疗法没有清除肿瘤后我还硬着头皮跟父亲说不怕，二线失败还有三线、四线的方案，别太焦虑。只是没想到多轮治疗后父亲的身体实则已千疮百孔，需要极其精细的照顾。病情急转直下的前两天，父亲出现了心率升高的情况，我们想着急诊的拥挤和漫长的等待，不如两天后的常规检查再好好问问主治医生，凭着经验没有及时拉着父亲去检查。又在入院后，症状本已逐渐好转，但我们照顾不周，不知是饮食还是什么原因，突然出现的肠穿孔让一切没了转机。&lt;/p&gt;
+&lt;p&gt;父亲最后动手术那一天的神情时常在我脑海里浮现，他紧锁着眉头，面容上浮现着焦虑与不安。在急诊留观的第三天，他出现了谵妄的症状，神志不清，总是觉得有人要害他。我第一次见到这样恐慌的父亲，心里非常难受。到手术的前几天，症状本有所好转，能认出人了，还能和我们聊天，只是聊的内容非常飘忽，说着好了要去开茶园，投资卖特色茶叶等等以前从没听过他讲过的事，不知是不是精神的恍惚让他回想起了年轻时的理想。多想等父亲出院再好好和他聊聊这些事啊，听听他这些思绪来源于他哪些想干而没干的事，能和他一起坐着正常的吹吹牛谈谈这些天马行空的想法。这一天父亲还是有些迷糊，但他肯定能从我们半夜来到医院，以及几次被医生喊出去单独谈话的行为上感觉到了什么。我们没法询问父亲自己真实的想法，还跟父亲说就是小手术，做了肚子就不痛了，父亲听了低头默默不语。现在回想起来，多想跟父亲好好说这个手术风险很大，您是不是害怕不想做呀，不想我们就回家好不好，至少再让我好好陪陪您。&lt;/p&gt;
+&lt;p&gt;手术之后父亲没有再醒来，各项指标跟状态越来越差，医生多次暗示我们救治下去的意义不大，医院 ICU 没有排到床位，父亲在普通病房躺着浑身插满各种管子，眼睑肿胀到只能半闭着眼睛，看着就非常难受。在经历了一次半夜的危险边缘的抢救后，母亲和我不忍心再让父亲受苦了，决定转运回老家的医院，我们在这里签署了放弃治疗协议。最后在父亲的床位前，老家的亲戚和我们一起见了父亲最后一面，我和母亲流着泪呼唤了父亲，父亲嘴角竟也抽动了下，这算是我们最后的告别，不久之后父亲便永远的离开了。&lt;/p&gt;
+&lt;p&gt;很多人说经历如此重大的事件后，人会变得更坚强更成熟，但我始终只感觉到的是虚无，无力和悔恨，以及对父亲一阵阵的想念… 还有太多话想和父亲说，但他就这样撒手离开了。他生这病后，偶有焦虑的神情，但在我们面前都尽量表现得平和，他去世后我在整理他手机时，看到了他有自己在好医生 APP 在线挂号以及和各种 AI 询问讨论病情的对话，言语间其实是很害怕焦虑的，这种恐慌他从未在我们面前表现出来，我每次在他面前也只是尽量表现乐观的让他有信心，别太焦虑，实在不知其实父亲他这么害怕，我那些无力的说辞到底有没有宽慰到他的心情。&lt;/p&gt;
+&lt;p&gt;父亲刚入院时，我和我的姑妈通电话，父亲小时候是她一直照顾着长大的，因而平常父亲和姑妈电话聊的最多，她说我爸这次感觉不好，前两天和她电话时说已经把遗书准备好了，一份给我一份给我妈。但是我当时还没想到情况这么严重，此后父亲精神变得不稳定，也没机会再询问，在他去世后，我才仔细的检查了他的遗物以及各个电子设备，却没有找到任何遗言，不知是不是这只是当时父亲的一个想法，只是还没来得及书写便症状恶化了。母亲之前也没想到这么快，她说父亲本来有几次想和她聊聊后事，但她感觉太沉重，父亲状态也还好，都打断了没让父亲继续说。我们无法再得知父亲还有什么遗愿，也是非常遗憾，倘若真有阴曹地府，真想百年后能与父亲在那重逢，能再好好和他聊聊，听他说说话聊聊天，讲讲他的过去，问问他本来还有什么想跟我们说的话呀。&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>WebDAV vs SFTP，群晖外网文件访问到底谁更合理？</title>
-      <link>https://www.v2ex.com/t/1192942</link>
-      <guid>v2ex-1192942</guid>
-      <pubDate>Sun, 15 Feb 2026 07:31:49 GMT</pubDate>
-      <description>&lt;p&gt;最近在折腾家庭 NAS 的外网文件访问方案，也看了不少关于 WebDAV 、SFTP 在性能和安全性方面的讨论，发现很多结论差异很大，想结合自己的场景再请教一下各位如何选择。&lt;/p&gt;
-&lt;p&gt;网络环境：家庭宽带（电信）、公网 IPv4 ，上行 50Mbps ，下行 1000Mbps ，有域名，有 DDNS 脚本进行 IP 绑定。
-设备：群晖 NAS （最新版 DSM ）
-使用场景：同城同运营商，偶尔会跨运营商。手机客户端用 Documents by Readdle ，电脑客户端用 Mountain Duck 5 或者 RaiDrive （旧版，无广告的），电脑在外基本要靠手机热点联网。&lt;/p&gt;
-&lt;p&gt;主要用途是：办公文件管理（列目录、找文件、在线编辑等），偶尔大文件传输，有时还会访问 3000+文件的超大目录。&lt;/p&gt;
-&lt;p&gt;看了前段时间飞牛的问题，在安全方面也有考虑，希望不要被攻破。但由于家人都要使用，设备太多，全部配 VPN 也不现实，还是得通过 DDNS 直连。&lt;/p&gt;
-&lt;p&gt;考虑了好久现在有 2 种方案：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;WebDAV 套 Nginx 反代后暴漏到公网，限制本省 IP 访问。
-使用群晖官方套件的 WebDAV 服务，套一层内置的 Nginx 反代后通过高位端口映射出去。WebDAV 和 Nginx 都启用 https ，TLS 强制 1.3 版本。所有用户设置 50 位以上的强密码，群晖启用自动封锁。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SFTP 直接暴漏到公网，限制本省 IP 访问。
-目前 DSM 最新版的 OpenSSH 版本信息为&lt;code&gt;OpenSSH_8.2p1, OpenSSL 1.1.1u  30 May 2023&lt;/code&gt;，通过高位端口直接映射出去，给所有用户都生成 ed25519 的密钥（带 passphrase ），仅允许密钥认证，禁止密码登录。所有的公钥都添加&lt;code&gt;restrict,command=&quot;internal-sftp&quot;&lt;/code&gt;限制使用范围。群晖启用自动封锁，且强制所有用户登录 SFTP 后进入家目录，不得进入其他路径。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;综合性能、安全、稳定等多方面因素，上面两个方案哪个更合适呢？&lt;/p&gt;
+      <title>主要海外使用，华为 Mate 30 Pro 推荐刷什么系统？</title>
+      <link>https://www.v2ex.com/t/1192973</link>
+      <guid>v2ex-1192973</guid>
+      <pubDate>Sun, 15 Feb 2026 15:28:39 GMT</pubDate>
+      <description>各位好，&lt;br /&gt;&lt;br /&gt;我有一台 Mate 30 Pro ，想刷一下系统，用来联系海外客户（多开 Line / WhatsApp / 微信）。&lt;br /&gt;&lt;br /&gt;想知道推荐刷什么系统比较好？&lt;br /&gt;&lt;br /&gt;我去 Lineage OS 的官网看了一下，并没有看到专属于 Mate 30 Pro 的版本。&lt;br /&gt;&lt;br /&gt;同时，既然用了华为，是不是要做好隐私泄露的准备？&lt;br /&gt;&lt;br /&gt;谢谢大家！</description>
+    </item>
+    <item>
+      <title>[求助] 家里发现蚂蚁，撒药，依然清除不尽</title>
+      <link>https://www.v2ex.com/t/1192977</link>
+      <guid>v2ex-1192977</guid>
+      <pubDate>Sun, 15 Feb 2026 16:51:58 GMT</pubDate>
+      <description>&lt;p&gt;小黄蚂蚁，满屋都有，撒药管一点点用，怎么彻底根除&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>性价比机场选购指南</title>
+      <link>https://www.v2ex.com/t/1192996</link>
+      <guid>v2ex-1192996</guid>
+      <pubDate>Mon, 16 Feb 2026 02:53:27 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;协议&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;优先选择新协议, 通常: Vless &amp;gt; AnyTLS &amp;gt; ShadowTLS &amp;gt; Hysteria2 &amp;gt; Tuic &amp;gt; Trojan &amp;gt; Vmess &amp;gt; SS/SSR&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;线路类型&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;简单理解&lt;/th&gt;
+&lt;th&gt;稳定性&lt;/th&gt;
+&lt;th&gt;2026 合理价位&lt;/th&gt;
+&lt;th&gt;备注&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;直连&lt;/td&gt;
+&lt;td&gt;你的设备 → 直接连境外服务器(便宜但不稳)&lt;/td&gt;
+&lt;td&gt;★☆☆☆ (易被封)&lt;/td&gt;
+&lt;td&gt;5-10 元/月&lt;/td&gt;
+&lt;td&gt;仅做备用&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;中转 (BGP)&lt;/td&gt;
+&lt;td&gt;你的设备 → 国内中转优化 → 境外服务器(性价比高)&lt;/td&gt;
+&lt;td&gt;★★★☆ (有优化)&lt;/td&gt;
+&lt;td&gt;15-30 元/月&lt;/td&gt;
+&lt;td&gt;建议 公网中转&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;专线 (IPLC)&lt;/td&gt;
+&lt;td&gt;你的设备 → 专用物理线路 → 境外服务器(贵但稳)&lt;/td&gt;
+&lt;td&gt;★★★★ (不过墙)&lt;/td&gt;
+&lt;td&gt;40 元+/月&lt;/td&gt;
+&lt;td&gt;办公/不差钱&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;延迟&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TCP ping 和 Google ping 越低越好, 可以网上搜相关的测速情况. 最好有试用自己测试, 看晚高峰(20:30 – 22:30)的表现. 自己简单测试可以开 Youtube 4K 视频拖拖进度条.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;费用&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;推荐一主一备, 备用机场推荐按量付费. 月付优先. 开业时间不到 1 年的不要年付.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;稳定性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;通常在官网公告, 或者 tg 通告频道会有历史维护公告. 特殊时期挂了多久能修好.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;流量倍率&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果有 0.1x 0.3x 等低倍率节点就更好. 如果只有高倍率节点好用可以放弃.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;隐私安全&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;机场主理论上能看到你访问的域名. No Logs 不记录日志最好. 支付方式: USDT (加密货币)  &amp;gt; 支付宝/微信.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特殊需求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;流媒体解锁能力? 政治敏感内容封锁?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;客服渠道&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Telegram 群 / 网页工单 / Email. 只留 QQ 群/微信(会被喝茶，高风险).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;客户端&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;定制客户端使用起来方便, 但开源客户端会更安全.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;运营与口碑&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;真正的好机场，通常都很低调，官网可能都要翻墙才能搜到，靠的是老用户的口口相传。相关论坛的骂声或者夸赞，才是最真实的买家秀.&lt;/p&gt;
+&lt;p&gt;源: &lt;a href=&quot;http://github.com/thesomeexp/Proxy-service-recommendations&quot; rel=&quot;nofollow&quot;&gt;github.com/thesomeexp/Proxy-service-recommendations&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
