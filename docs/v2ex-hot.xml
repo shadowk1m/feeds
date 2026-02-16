@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 16 Feb 2026 05:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 06:38:44 GMT</lastBuildDate>
     <item>
       <title>为什么端到端加密的 PGP 邮件没有被广泛使用？</title>
       <link>https://www.v2ex.com/t/1192939</link>
@@ -43,19 +43,6 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
 &lt;p&gt;怎么样？准备发送你的第一封 PGP 加密邮件了吗？如果你没有可接受加密邮件的邮箱，可以发送到 &lt;a href=&quot;mailto:sky@never-lost.app&quot;&gt;sky@never-lost.app&lt;/a&gt; ，会自动回复加密的邮件。&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/dpnkMRDb.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;PGP 加密的私钥在你手里，你掌控你的信息。不是 Google ，微软，qq 或网易，如果你查看网页版的邮件，看到的是加密的内容（通常是附件形式）。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>新 Mac 配环境花了三小时还没配完，试过的自动化方案没一个省心的</title>
-      <link>https://www.v2ex.com/t/1192931</link>
-      <guid>v2ex-1192931</guid>
-      <pubDate>Sun, 15 Feb 2026 05:38:53 GMT</pubDate>
-      <description>&lt;p&gt;上个月又买了台 Mac ，又经历了一遍配环境地狱。&lt;/p&gt;
-&lt;p&gt;之前几年一直想找个靠谱的自动化方案，陆续试了 Brewfile 、自己写 bash 、chezmoi 、nix-darwin ，踩了一圈坑。Brewfile 最省事但只管 brew install 那堆东西，shell 配置 macOS 偏好 git 身份统统不管，搞完发现才干了三分之一的活。自己写 bash 想把剩下的也自动化，结果国内网络你懂的，中间断一下整个脚本就挂了，而且这玩意跑两遍就报错。&lt;/p&gt;
-&lt;p&gt;chezmoi 搞 dotfile 确实专业，但光研究它的目录结构就花了比我配 .zshrc 还长的时间。nix-darwin 我专门花了一整个周末，从满怀期待到满屏报错，现在对日常用 nix 的人是真的肃然起敬。&lt;/p&gt;
-&lt;p&gt;后来实在受不了，自己糊了个 CLI 把这几个的活攒一块了（开源的，有兴趣的点 blog 里的链接）。每个方案的坑我都记下来了，也附了国内换镜像源的完整配置，不换源上面说的全白搭：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.fullstackjam.com/2026/mac-setup-automation-guide-2026-zh/&quot; rel=&quot;nofollow&quot;&gt;blog.fullstackjam.com/2026/mac-setup-automation-guide-2026-zh/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;所以想问问大家现在都怎么搞的？纯 Brewfile 就完事了还是也在折腾别的？有没有人真的在日常用 nix-darwin 的，学了多久上的手？ dotfile 你们用啥管，chezmoi ？ stow ？还是直接 git bare repo 硬来？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -113,11 +100,15 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
 </description>
     </item>
     <item>
-      <title>智能电视如何做到直接看 CCTV 等卫视资源</title>
-      <link>https://www.v2ex.com/t/1192938</link>
-      <guid>v2ex-1192938</guid>
-      <pubDate>Sun, 15 Feb 2026 06:48:28 GMT</pubDate>
-      <description>平时和对象都是腾讯视频直接投屏看的，爸妈来了才发现，打开电视，咋看都不知道了。&lt;br /&gt;想问问大家是怎么给老人设置电视的</description>
+      <title>Mac 上 有 Navicat 的替代品吗？</title>
+      <link>https://www.v2ex.com/t/1192969</link>
+      <guid>v2ex-1192969</guid>
+      <pubDate>Sun, 15 Feb 2026 14:20:15 GMT</pubDate>
+      <description>&lt;p&gt;安装的破解版，公司电脑不给装&lt;/p&gt;
+&lt;p&gt;说是只要公司电脑安装就算商用，没有购买授权，有侵权风险&lt;/p&gt;
+&lt;p&gt;一安装，安全部门的人就监控到然后要求删除&lt;/p&gt;
+&lt;p&gt;想问下，有没有类似 Navicat 的软件，用起来感觉挺顺手的，可以管理多种数据库&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>过年给老丈人多少红包合适？</title>
@@ -127,14 +118,35 @@ fingerprint: F08FD399804724A1307CE38DB4621D5A04EB1A1C
       <description>一人 1k 合适么？另外还会带点白酒。&lt;br /&gt;另外，老婆的爷爷奶奶也要红包么？多少合适？她的爷爷奶奶是老婆自己给，还是我也得分开给？</description>
     </item>
     <item>
-      <title>Mac 上 有 Navicat 的替代品吗？</title>
-      <link>https://www.v2ex.com/t/1192969</link>
-      <guid>v2ex-1192969</guid>
-      <pubDate>Sun, 15 Feb 2026 14:20:15 GMT</pubDate>
-      <description>&lt;p&gt;安装的破解版，公司电脑不给装&lt;/p&gt;
-&lt;p&gt;说是只要公司电脑安装就算商用，没有购买授权，有侵权风险&lt;/p&gt;
-&lt;p&gt;一安装，安全部门的人就监控到然后要求删除&lt;/p&gt;
-&lt;p&gt;想问下，有没有类似 Navicat 的软件，用起来感觉挺顺手的，可以管理多种数据库&lt;/p&gt;
+      <title>智能电视如何做到直接看 CCTV 等卫视资源</title>
+      <link>https://www.v2ex.com/t/1192938</link>
+      <guid>v2ex-1192938</guid>
+      <pubDate>Sun, 15 Feb 2026 06:48:28 GMT</pubDate>
+      <description>平时和对象都是腾讯视频直接投屏看的，爸妈来了才发现，打开电视，咋看都不知道了。&lt;br /&gt;想问问大家是怎么给老人设置电视的</description>
+    </item>
+    <item>
+      <title>WebDAV vs SFTP，群晖外网文件访问到底谁更合理？</title>
+      <link>https://www.v2ex.com/t/1192942</link>
+      <guid>v2ex-1192942</guid>
+      <pubDate>Sun, 15 Feb 2026 07:31:49 GMT</pubDate>
+      <description>&lt;p&gt;最近在折腾家庭 NAS 的外网文件访问方案，也看了不少关于 WebDAV 、SFTP 在性能和安全性方面的讨论，发现很多结论差异很大，想结合自己的场景再请教一下各位如何选择。&lt;/p&gt;
+&lt;p&gt;网络环境：家庭宽带（电信）、公网 IPv4 ，上行 50Mbps ，下行 1000Mbps ，有域名，有 DDNS 脚本进行 IP 绑定。
+设备：群晖 NAS （最新版 DSM ）
+使用场景：同城同运营商，偶尔会跨运营商。手机客户端用 Documents by Readdle ，电脑客户端用 Mountain Duck 5 或者 RaiDrive （旧版，无广告的），电脑在外基本要靠手机热点联网。&lt;/p&gt;
+&lt;p&gt;主要用途是：办公文件管理（列目录、找文件、在线编辑等），偶尔大文件传输，有时还会访问 3000+文件的超大目录。&lt;/p&gt;
+&lt;p&gt;看了前段时间飞牛的问题，在安全方面也有考虑，希望不要被攻破。但由于家人都要使用，设备太多，全部配 VPN 也不现实，还是得通过 DDNS 直连。&lt;/p&gt;
+&lt;p&gt;考虑了好久现在有 2 种方案：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;WebDAV 套 Nginx 反代后暴漏到公网，限制本省 IP 访问。
+使用群晖官方套件的 WebDAV 服务，套一层内置的 Nginx 反代后通过高位端口映射出去。WebDAV 和 Nginx 都启用 https ，TLS 强制 1.3 版本。所有用户设置 50 位以上的强密码，群晖启用自动封锁。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SFTP 直接暴漏到公网，限制本省 IP 访问。
+目前 DSM 最新版的 OpenSSH 版本信息为&lt;code&gt;OpenSSH_8.2p1, OpenSSL 1.1.1u  30 May 2023&lt;/code&gt;，通过高位端口直接映射出去，给所有用户都生成 ed25519 的密钥（带 passphrase ），仅允许密钥认证，禁止密码登录。所有的公钥都添加&lt;code&gt;restrict,command=&quot;internal-sftp&quot;&lt;/code&gt;限制使用范围。群晖启用自动封锁，且强制所有用户登录 SFTP 后进入家目录，不得进入其他路径。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;综合性能、安全、稳定等多方面因素，上面两个方案哪个更合适呢？&lt;/p&gt;
 </description>
     </item>
   </channel>
