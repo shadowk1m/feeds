@@ -4,34 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 17 Feb 2026 13:59:50 GMT</lastBuildDate>
-    <item>
-      <title>[求助] 国内 Java 10 年，总包 几十个 个，正在日本旅游，极度纠结是否润日，求在日大佬指点</title>
-      <link>https://www.v2ex.com/t/1193044</link>
-      <guid>v2ex-1193044</guid>
-      <pubDate>Mon, 16 Feb 2026 14:20:32 GMT</pubDate>
-      <description>&lt;p&gt;真心求教，焦虑的不行。如果有机会想在大阪线下见面。或者大家愿意聊聊，欢迎加微信 dlam007 。&lt;/p&gt;
-&lt;p&gt;各位 V 友大家好，目前本人（ 30+，Java 10 年经验，英语 PTE 已过）正在京都/大阪一带旅游。&lt;/p&gt;
-&lt;p&gt;这几天实地走访，对日本的生活环境非常心动，但回到现实的职业规划，陷入了巨大的矛盾，想听听在日 IT 前辈们的真实建议。&lt;/p&gt;
-&lt;p&gt;先说下我的现状：
-国内： 目前在某一线城市，月入 40k+，算上年终奖总包在 几十 w RMB 之间浮动。虽然收入还可以，但由于大家都懂的原因，对 35 岁后的职业稳定性极度焦虑，感觉国内是“高杠杆、高风险”的人生模式。&lt;/p&gt;
-&lt;p&gt;日本： 向往这边的职场稳定性（较少裁员、无 35 岁歧视）和生活质量，但目前调研到的 IT 平均薪资似乎在 600w-800w 日元左右（约 30w-40w RMB ），相比国内几乎是腰斩。&lt;/p&gt;
-&lt;p&gt;我的核心矛盾点：
-薪资天花板： 以我 10 年 Java 的经验加英语能力，如果瞄准外资（如 Google, AWS ）或日本本土大厂（如 Mercari, Rakuten, PayPay ），拿到 1000w-1200w JPY 的概率有多大？
-如果只能拿 800w ，心理落差确实很难平衡。&lt;/p&gt;
-&lt;p&gt;生活成本与体感： 大家都说日本税高，1000w 日元到手后的实际购买力，比起国内月入 4w ，体感下降明显吗？（本人对奢侈消费无感，更看重居住环境和食品安全）。&lt;/p&gt;
-&lt;p&gt;长期价值： 这种“降薪换稳定”的买卖，在 40 岁以后回看，真的值吗？&lt;/p&gt;
-&lt;p&gt;想请教在日的大佬们：有没有背景类似（国内大厂高薪去日本）的前辈，分享一下你们的心路历程？在现在的日本市场，10 年老兵如果想找一份平衡收入与生活的 Job ，哪些公司或渠道比较靠谱？&lt;/p&gt;
-&lt;p&gt;如果这几天有在大阪，京都，东京的朋友愿意线下交流，我愿请喝咖啡/吃顿和牛，当面讨教。感谢各位，祝大家不卷不燥。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>远程桌面被玩坏了，还有救吗？</title>
-      <link>https://www.v2ex.com/t/1193048</link>
-      <guid>v2ex-1193048</guid>
-      <pubDate>Mon, 16 Feb 2026 15:37:15 GMT</pubDate>
-      <description>不知道怎么被我玩坏了，一直卡在验证完用户后的请稍后界面&lt;br /&gt;&lt;br /&gt;问了 ai 试了几个方法都不行&lt;br /&gt;&lt;br /&gt;怎么办，现在在老家，没法物理层面解决</description>
-    </item>
+    <lastBuildDate>Tue, 17 Feb 2026 14:49:39 GMT</lastBuildDate>
     <item>
       <title>疯狂吹捧 AI 的人，能不能让 AI 给我定期定时清理 C 盘无用垃圾文件呢？</title>
       <link>https://www.v2ex.com/t/1193072</link>
@@ -43,6 +16,13 @@
 &lt;p&gt;当然了，如果有非 AI 的工具、解决方案，也是希望大家提供一下哈。&lt;/p&gt;
 &lt;p&gt;大家新年快乐~马年大吉~&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>远程桌面被玩坏了，还有救吗？</title>
+      <link>https://www.v2ex.com/t/1193048</link>
+      <guid>v2ex-1193048</guid>
+      <pubDate>Mon, 16 Feb 2026 15:37:15 GMT</pubDate>
+      <description>不知道怎么被我玩坏了，一直卡在验证完用户后的请稍后界面&lt;br /&gt;&lt;br /&gt;问了 ai 试了几个方法都不行&lt;br /&gt;&lt;br /&gt;怎么办，现在在老家，没法物理层面解决</description>
     </item>
     <item>
       <title>magsafe 外置电池能减少电池循环吗</title>
@@ -57,23 +37,6 @@
       <guid>v2ex-1193098</guid>
       <pubDate>Tue, 17 Feb 2026 10:27:54 GMT</pubDate>
       <description>macOS 26.4 系统自带限制充电了，可以删掉 AlDente 之类的软件了</description>
-    </item>
-    <item>
-      <title>关于 360 摄像头永久云录像</title>
-      <link>https://www.v2ex.com/t/1193070</link>
-      <guid>v2ex-1193070</guid>
-      <pubDate>Tue, 17 Feb 2026 02:27:36 GMT</pubDate>
-      <description>&lt;p&gt;每到过年 360 摄像头都搞点优惠，这次玛德直接上永久了，支持一次设备转移，也就是说转移后设备损坏遗失这个永久服务就到期了。上永久第一反应就是跑路节奏。
-&lt;a href=&quot;https://imgur.com/a/6LOdWVg&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/6LOdWVg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;大家有买类似服务吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>新年第一问： 2026 年了， v 站有官方的 app 吗</title>
-      <link>https://www.v2ex.com/t/1193075</link>
-      <guid>v2ex-1193075</guid>
-      <pubDate>Tue, 17 Feb 2026 03:23:32 GMT</pubDate>
-      <description>一直使用的是 v2er ，安卓有官方的 app 吗，新年换个新马甲</description>
     </item>
     <item>
       <title>Re:Source 新 V 站客戶端</title>
@@ -94,6 +57,30 @@ Re:Source 是一款多个论坛的 Android 原生客户端。速度快、操作�
 Google Play: &lt;a href=&quot;https://play.google.com/store/apps/details?id=io.lv1.resource%E2%80%8B&quot; rel=&quot;nofollow&quot;&gt;https://play.google.com/store/apps/details?id=io.lv1.resource​&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;GitHub: &lt;a href=&quot;https://github.com/kenischu/ReSource/releases%E2%80%8B&quot; rel=&quot;nofollow&quot;&gt;https://github.com/kenischu/ReSource/releases​&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>关于 360 摄像头永久云录像</title>
+      <link>https://www.v2ex.com/t/1193070</link>
+      <guid>v2ex-1193070</guid>
+      <pubDate>Tue, 17 Feb 2026 02:27:36 GMT</pubDate>
+      <description>&lt;p&gt;每到过年 360 摄像头都搞点优惠，这次玛德直接上永久了，支持一次设备转移，也就是说转移后设备损坏遗失这个永久服务就到期了。上永久第一反应就是跑路节奏。
+&lt;a href=&quot;https://imgur.com/a/6LOdWVg&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/6LOdWVg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大家有买类似服务吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>新年第一问： 2026 年了， v 站有官方的 app 吗</title>
+      <link>https://www.v2ex.com/t/1193075</link>
+      <guid>v2ex-1193075</guid>
+      <pubDate>Tue, 17 Feb 2026 03:23:32 GMT</pubDate>
+      <description>一直使用的是 v2er ，安卓有官方的 app 吗，新年换个新马甲</description>
+    </item>
+    <item>
+      <title>大年初一，祝各位马年发大财</title>
+      <link>https://www.v2ex.com/t/1193063</link>
+      <guid>v2ex-1193063</guid>
+      <pubDate>Tue, 17 Feb 2026 00:34:39 GMT</pubDate>
+      <description>找不到哪个节点比较喜庆，只能发这了。&lt;br /&gt;&lt;br /&gt;新的一年，祝大家万事如意，身体健康。一早起来腰都睡疼，听了一晚上烟花，睡得不好。</description>
     </item>
   </channel>
 </rss>
