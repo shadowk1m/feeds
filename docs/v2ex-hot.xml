@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 17 Feb 2026 01:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 03:55:18 GMT</lastBuildDate>
     <item>
       <title>表妹高三专业文科 400 分 让她自学 ai 技能做互联网/自媒体业务然后去应聘可能吗，比如深圳、江浙，我不太看好上大专，大专真有必要上马？</title>
       <link>https://www.v2ex.com/t/1193014</link>
@@ -37,64 +37,23 @@
 </description>
     </item>
     <item>
-      <title>性价比机场选购指南</title>
-      <link>https://www.v2ex.com/t/1192996</link>
-      <guid>v2ex-1192996</guid>
-      <pubDate>Mon, 16 Feb 2026 02:53:27 GMT</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;协议&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;优先选择新协议, 通常: Vless &amp;gt; AnyTLS &amp;gt; ShadowTLS &amp;gt; Hysteria2 &amp;gt; Tuic &amp;gt; Trojan &amp;gt; Vmess &amp;gt; SS/SSR&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;线路类型&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;简单理解&lt;/th&gt;
-&lt;th&gt;稳定性&lt;/th&gt;
-&lt;th&gt;2026 合理价位&lt;/th&gt;
-&lt;th&gt;备注&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;直连&lt;/td&gt;
-&lt;td&gt;你的设备 → 直接连境外服务器(便宜但不稳)&lt;/td&gt;
-&lt;td&gt;★☆☆☆ (易被封)&lt;/td&gt;
-&lt;td&gt;5-10 元/月&lt;/td&gt;
-&lt;td&gt;仅做备用&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;中转 (BGP)&lt;/td&gt;
-&lt;td&gt;你的设备 → 国内中转优化 → 境外服务器(性价比高)&lt;/td&gt;
-&lt;td&gt;★★★☆ (有优化)&lt;/td&gt;
-&lt;td&gt;15-30 元/月&lt;/td&gt;
-&lt;td&gt;建议 公网中转&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;专线 (IPLC)&lt;/td&gt;
-&lt;td&gt;你的设备 → 专用物理线路 → 境外服务器(贵但稳)&lt;/td&gt;
-&lt;td&gt;★★★★ (不过墙)&lt;/td&gt;
-&lt;td&gt;40 元+/月&lt;/td&gt;
-&lt;td&gt;办公/不差钱&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;延迟&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TCP ping 和 Google ping 越低越好, 可以网上搜相关的测速情况. 最好有试用自己测试, 看晚高峰(20:30 – 22:30)的表现. 自己简单测试可以开 Youtube 4K 视频拖拖进度条.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;费用&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;推荐一主一备, 备用机场推荐按量付费. 月付优先. 开业时间不到 1 年的不要年付.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;稳定性&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;通常在官网公告, 或者 tg 通告频道会有历史维护公告. 特殊时期挂了多久能修好.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;流量倍率&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果有 0.1x 0.3x 等低倍率节点就更好. 如果只有高倍率节点好用可以放弃.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;隐私安全&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;机场主理论上能看到你访问的域名. No Logs 不记录日志最好. 支付方式: USDT (加密货币)  &amp;gt; 支付宝/微信.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;特殊需求&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;流媒体解锁能力? 政治敏感内容封锁?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;客服渠道&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Telegram 群 / 网页工单 / Email. 只留 QQ 群/微信(会被喝茶，高风险).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;客户端&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;定制客户端使用起来方便, 但开源客户端会更安全.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;运营与口碑&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;真正的好机场，通常都很低调，官网可能都要翻墙才能搜到，靠的是老用户的口口相传。相关论坛的骂声或者夸赞，才是最真实的买家秀.&lt;/p&gt;
-&lt;p&gt;源: &lt;a href=&quot;http://github.com/thesomeexp/Proxy-service-recommendations&quot; rel=&quot;nofollow&quot;&gt;github.com/thesomeexp/Proxy-service-recommendations&lt;/a&gt;&lt;/p&gt;
+      <title>[求助] 国内 Java 10 年，总包 几十个 个，正在日本旅游，极度纠结是否润日，求在日大佬指点</title>
+      <link>https://www.v2ex.com/t/1193044</link>
+      <guid>v2ex-1193044</guid>
+      <pubDate>Mon, 16 Feb 2026 14:20:32 GMT</pubDate>
+      <description>&lt;p&gt;真心求教，焦虑的不行。如果有机会想在大阪线下见面。或者大家愿意聊聊，欢迎加微信 dlam007 。&lt;/p&gt;
+&lt;p&gt;各位 V 友大家好，目前本人（ 30+，Java 10 年经验，英语 PTE 已过）正在京都/大阪一带旅游。&lt;/p&gt;
+&lt;p&gt;这几天实地走访，对日本的生活环境非常心动，但回到现实的职业规划，陷入了巨大的矛盾，想听听在日 IT 前辈们的真实建议。&lt;/p&gt;
+&lt;p&gt;先说下我的现状：
+国内： 目前在某一线城市，月入 40k+，算上年终奖总包在 几十 w RMB 之间浮动。虽然收入还可以，但由于大家都懂的原因，对 35 岁后的职业稳定性极度焦虑，感觉国内是“高杠杆、高风险”的人生模式。&lt;/p&gt;
+&lt;p&gt;日本： 向往这边的职场稳定性（较少裁员、无 35 岁歧视）和生活质量，但目前调研到的 IT 平均薪资似乎在 600w-800w 日元左右（约 30w-40w RMB ），相比国内几乎是腰斩。&lt;/p&gt;
+&lt;p&gt;我的核心矛盾点：
+薪资天花板： 以我 10 年 Java 的经验加英语能力，如果瞄准外资（如 Google, AWS ）或日本本土大厂（如 Mercari, Rakuten, PayPay ），拿到 1000w-1200w JPY 的概率有多大？
+如果只能拿 800w ，心理落差确实很难平衡。&lt;/p&gt;
+&lt;p&gt;生活成本与体感： 大家都说日本税高，1000w 日元到手后的实际购买力，比起国内月入 4w ，体感下降明显吗？（本人对奢侈消费无感，更看重居住环境和食品安全）。&lt;/p&gt;
+&lt;p&gt;长期价值： 这种“降薪换稳定”的买卖，在 40 岁以后回看，真的值吗？&lt;/p&gt;
+&lt;p&gt;想请教在日的大佬们：有没有背景类似（国内大厂高薪去日本）的前辈，分享一下你们的心路历程？在现在的日本市场，10 年老兵如果想找一份平衡收入与生活的 Job ，哪些公司或渠道比较靠谱？&lt;/p&gt;
+&lt;p&gt;如果这几天有在大阪，京都，东京的朋友愿意线下交流，我愿请喝咖啡/吃顿和牛，当面讨教。感谢各位，祝大家不卷不燥。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -132,24 +91,11 @@
       <description>今年春晚基本被机器人统治了，武术表演，小品表演，歌曲表演，等等，已经被机器人统治了，未来已来😁</description>
     </item>
     <item>
-      <title>[求助] 国内 Java 10 年，总包 几十个 个，正在日本旅游，极度纠结是否润日，求在日大佬指点</title>
-      <link>https://www.v2ex.com/t/1193044</link>
-      <guid>v2ex-1193044</guid>
-      <pubDate>Mon, 16 Feb 2026 14:20:32 GMT</pubDate>
-      <description>&lt;p&gt;真心求教，焦虑的不行。如果有机会想在大阪线下见面。或者大家愿意聊聊，欢迎加微信 dlam007 。&lt;/p&gt;
-&lt;p&gt;各位 V 友大家好，目前本人（ 30+，Java 10 年经验，英语 PTE 已过）正在京都/大阪一带旅游。&lt;/p&gt;
-&lt;p&gt;这几天实地走访，对日本的生活环境非常心动，但回到现实的职业规划，陷入了巨大的矛盾，想听听在日 IT 前辈们的真实建议。&lt;/p&gt;
-&lt;p&gt;先说下我的现状：
-国内： 目前在某一线城市，月入 40k+，算上年终奖总包在 几十 w RMB 之间浮动。虽然收入还可以，但由于大家都懂的原因，对 35 岁后的职业稳定性极度焦虑，感觉国内是“高杠杆、高风险”的人生模式。&lt;/p&gt;
-&lt;p&gt;日本： 向往这边的职场稳定性（较少裁员、无 35 岁歧视）和生活质量，但目前调研到的 IT 平均薪资似乎在 600w-800w 日元左右（约 30w-40w RMB ），相比国内几乎是腰斩。&lt;/p&gt;
-&lt;p&gt;我的核心矛盾点：
-薪资天花板： 以我 10 年 Java 的经验加英语能力，如果瞄准外资（如 Google, AWS ）或日本本土大厂（如 Mercari, Rakuten, PayPay ），拿到 1000w-1200w JPY 的概率有多大？
-如果只能拿 800w ，心理落差确实很难平衡。&lt;/p&gt;
-&lt;p&gt;生活成本与体感： 大家都说日本税高，1000w 日元到手后的实际购买力，比起国内月入 4w ，体感下降明显吗？（本人对奢侈消费无感，更看重居住环境和食品安全）。&lt;/p&gt;
-&lt;p&gt;长期价值： 这种“降薪换稳定”的买卖，在 40 岁以后回看，真的值吗？&lt;/p&gt;
-&lt;p&gt;想请教在日的大佬们：有没有背景类似（国内大厂高薪去日本）的前辈，分享一下你们的心路历程？在现在的日本市场，10 年老兵如果想找一份平衡收入与生活的 Job ，哪些公司或渠道比较靠谱？&lt;/p&gt;
-&lt;p&gt;如果这几天有在大阪，京都，东京的朋友愿意线下交流，我愿请喝咖啡/吃顿和牛，当面讨教。感谢各位，祝大家不卷不燥。&lt;/p&gt;
-</description>
+      <title>远程桌面被玩坏了，还有救吗？</title>
+      <link>https://www.v2ex.com/t/1193048</link>
+      <guid>v2ex-1193048</guid>
+      <pubDate>Mon, 16 Feb 2026 15:37:15 GMT</pubDate>
+      <description>不知道怎么被我玩坏了，一直卡在验证完用户后的请稍后界面&lt;br /&gt;&lt;br /&gt;问了 ai 试了几个方法都不行&lt;br /&gt;&lt;br /&gt;怎么办，现在在老家，没法物理层面解决</description>
     </item>
     <item>
       <title>除夕当天给我 nas 失联了，气死</title>
@@ -167,12 +113,20 @@
 </description>
     </item>
     <item>
-      <title>买了 Gemini Pro 付费，用不了 API Key 吗？</title>
-      <link>https://www.v2ex.com/t/1192990</link>
-      <guid>v2ex-1192990</guid>
-      <pubDate>Mon, 16 Feb 2026 01:20:36 GMT</pubDate>
-      <description>&lt;p&gt;在 Google AI Stuido 创建的 Key ，配额层级显示 [不可用] 。&lt;/p&gt;
-&lt;p&gt;是不是只能用网页版的 Gemini ？&lt;/p&gt;
+      <title>今天过年，家里电视好像坏了，家人非要叫维修人员上门修，我错了吗?</title>
+      <link>https://www.v2ex.com/t/1193013</link>
+      <guid>v2ex-1193013</guid>
+      <pubDate>Mon, 16 Feb 2026 08:40:59 GMT</pubDate>
+      <description>&lt;p&gt;我家过年就三口人，我和我妈我姐。&lt;/p&gt;
+&lt;p&gt;电视半年没看了，突然看不了。&lt;/p&gt;
+&lt;p&gt;弄了半天没修好。&lt;/p&gt;
+&lt;p&gt;我回我房间躺着了，到了下午。&lt;/p&gt;
+&lt;p&gt;有维修人员上门了，一分钟修好了，我却有点生气。&lt;/p&gt;
+&lt;p&gt;不知道是我家人强硬态度人家才来，还是机顶盒的维修人员主动要来。
+（因为我家人之前跟这种服务客服电话态度一直很强硬）&lt;/p&gt;
+&lt;p&gt;但是我总觉得大过年的，还让人家上门修电视，这是在干嘛？？&lt;/p&gt;
+&lt;p&gt;现在手机上啥 app 都能看春晚啊。。。&lt;/p&gt;
+&lt;p&gt;请轻喷，我只想知道我哪里可以做的更好。&lt;/p&gt;
 </description>
     </item>
   </channel>
