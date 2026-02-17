@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 17 Feb 2026 12:37:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 13:59:50 GMT</lastBuildDate>
     <item>
       <title>[求助] 国内 Java 10 年，总包 几十个 个，正在日本旅游，极度纠结是否润日，求在日大佬指点</title>
       <link>https://www.v2ex.com/t/1193044</link>
@@ -24,40 +24,6 @@
 &lt;p&gt;想请教在日的大佬们：有没有背景类似（国内大厂高薪去日本）的前辈，分享一下你们的心路历程？在现在的日本市场，10 年老兵如果想找一份平衡收入与生活的 Job ，哪些公司或渠道比较靠谱？&lt;/p&gt;
 &lt;p&gt;如果这几天有在大阪，京都，东京的朋友愿意线下交流，我愿请喝咖啡/吃顿和牛，当面讨教。感谢各位，祝大家不卷不燥。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>看着智谱和 minimax 翻倍，心情很复杂</title>
-      <link>https://www.v2ex.com/t/1193036</link>
-      <guid>v2ex-1193036</guid>
-      <pubDate>Mon, 16 Feb 2026 13:06:18 GMT</pubDate>
-      <description>&lt;p&gt;最近半年在富途牛牛玩港股。&lt;/p&gt;
-&lt;p&gt;两个大模型的股票 智谱（ 2513 ） 和 minimax （ 0100 ）在最近一周内，都翻倍了&lt;/p&gt;
-&lt;p&gt;其中&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[智谱] 由 2.9 号开盘的 200 元，到今天收盘 540 元，翻了一倍多&lt;/li&gt;
-&lt;li&gt;[ Minimax ]  由 2.9 号开盘的 400 元，到今天收盘 840 元，也翻了一倍多&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;注意&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;智谱 1.8 号上市，招股价 116 元&lt;/li&gt;
-&lt;li&gt;minimax 1.9 号上市，招股价 160 元&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;而我呢，因为是大模型算法相关工作，也就一直关注着这俩股票，关注的原因，是因为我工作真的会用到 GLM 模型&lt;/p&gt;
-&lt;p&gt;虽然会写代码，奈何不懂投资，就一直看着他俩涨，很难受，因为自己没敢买&lt;/p&gt;
-&lt;p&gt;并且到今天，minimax 再次涨了 30%，我依旧觉得，他不值这几千亿的市值。&lt;/p&gt;
-&lt;p&gt;但这是我第一次，看到两只股票涨的这么疯狂，并且我曾经在 minimax 股价 360 的时候，买入 100 股，10 分钟就变成 380 ，立刻卖掉赚了 2000 元，然后就开始希望他跌&lt;/p&gt;
-&lt;p&gt;现在就会想，如果没有卖掉，36000 已经变成 86000 了。。。&lt;/p&gt;
-&lt;p&gt;为啥这俩股票，就能一点不跌，每天 20%-30%的上涨呢？&lt;/p&gt;
-&lt;p&gt;大家就别喷我了，我是一个新鲜韭菜。&lt;/p&gt;
-&lt;p&gt;最近还挺影响心情的，知道这是自己赚不到的钱，因为自己不敢买，也没勇气输，但是就是看着他天天涨，每天就会很关注。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>看春晚有感</title>
-      <link>https://www.v2ex.com/t/1193033</link>
-      <guid>v2ex-1193033</guid>
-      <pubDate>Mon, 16 Feb 2026 12:43:20 GMT</pubDate>
-      <description>今年春晚基本被机器人统治了，武术表演，小品表演，歌曲表演，等等，已经被机器人统治了，未来已来😁</description>
     </item>
     <item>
       <title>远程桌面被玩坏了，还有救吗？</title>
@@ -86,12 +52,11 @@
       <description>对电池寿命有好处吗？听说第三方也有能达到外置电池的充电宝</description>
     </item>
     <item>
-      <title>现在 x 上不去了嘛？</title>
-      <link>https://www.v2ex.com/t/1193040</link>
-      <guid>v2ex-1193040</guid>
-      <pubDate>Mon, 16 Feb 2026 13:55:47 GMT</pubDate>
-      <description>&lt;p&gt;除夕 21:55&lt;/p&gt;
-</description>
+      <title>macOS 26.4 系统自带限制充电了，可以删掉 AlDente 之类的软件了</title>
+      <link>https://www.v2ex.com/t/1193098</link>
+      <guid>v2ex-1193098</guid>
+      <pubDate>Tue, 17 Feb 2026 10:27:54 GMT</pubDate>
+      <description>macOS 26.4 系统自带限制充电了，可以删掉 AlDente 之类的软件了</description>
     </item>
     <item>
       <title>关于 360 摄像头永久云录像</title>
@@ -101,6 +66,33 @@
       <description>&lt;p&gt;每到过年 360 摄像头都搞点优惠，这次玛德直接上永久了，支持一次设备转移，也就是说转移后设备损坏遗失这个永久服务就到期了。上永久第一反应就是跑路节奏。
 &lt;a href=&quot;https://imgur.com/a/6LOdWVg&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/6LOdWVg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;大家有买类似服务吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>新年第一问： 2026 年了， v 站有官方的 app 吗</title>
+      <link>https://www.v2ex.com/t/1193075</link>
+      <guid>v2ex-1193075</guid>
+      <pubDate>Tue, 17 Feb 2026 03:23:32 GMT</pubDate>
+      <description>一直使用的是 v2er ，安卓有官方的 app 吗，新年换个新马甲</description>
+    </item>
+    <item>
+      <title>Re:Source 新 V 站客戶端</title>
+      <link>https://www.v2ex.com/t/1193082</link>
+      <guid>v2ex-1193082</guid>
+      <pubDate>Tue, 17 Feb 2026 05:18:45 GMT</pubDate>
+      <description>&lt;p&gt;简介
+Re:Source 是一款多个论坛的 Android 原生客户端。速度快、操作流畅，遵循 Material 3 设计规范，并支持多论坛聚合模式，欢迎试用！&lt;/p&gt;
+&lt;p&gt;支持论坛 / 社区&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;51NB / 专门网&lt;/li&gt;
+&lt;li&gt;Chiphell&lt;/li&gt;
+&lt;li&gt;HiPDA / 4D4Y&lt;/li&gt;
+&lt;li&gt;LINUX DO&lt;/li&gt;
+&lt;li&gt;V2EX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;下载
+Google Play: &lt;a href=&quot;https://play.google.com/store/apps/details?id=io.lv1.resource%E2%80%8B&quot; rel=&quot;nofollow&quot;&gt;https://play.google.com/store/apps/details?id=io.lv1.resource​&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub: &lt;a href=&quot;https://github.com/kenischu/ReSource/releases%E2%80%8B&quot; rel=&quot;nofollow&quot;&gt;https://github.com/kenischu/ReSource/releases​&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
