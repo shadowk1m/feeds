@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 16 Feb 2026 23:50:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 01:10:58 GMT</lastBuildDate>
     <item>
       <title>表妹高三专业文科 400 分 让她自学 ai 技能做互联网/自媒体业务然后去应聘可能吗，比如深圳、江浙，我不太看好上大专，大专真有必要上马？</title>
       <link>https://www.v2ex.com/t/1193014</link>
@@ -34,20 +34,6 @@
 &lt;p&gt;但还是更想让自己的梦想更近一步吧，但不知前方是否是深渊。&lt;/p&gt;
 &lt;p&gt;而且不用多想，家里一定会阻挠的。&lt;/p&gt;
 &lt;p&gt;要不是高考报考的时候家里一直阻挠我报考南方的高校，现在也不至于会这样。甚至今年都没想着回家去看看。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>南京联通进小黑屋了</title>
-      <link>https://www.v2ex.com/t/1192989</link>
-      <guid>v2ex-1192989</guid>
-      <pubDate>Mon, 16 Feb 2026 01:04:29 GMT</pubDate>
-      <description>&lt;p&gt;昨晚打开某测试网站，发现我的 IP 变成了 116.147.102.9, 一看就是小黑屋 IP ，再次查询自己 PPPOE 发现公网也没了，变成了 100.108.115.25 ，同时 IPv6 消失了，我想了下家里没有跑 PCDN ，只有迅雷下载多一些，&lt;/p&gt;
-&lt;p&gt;目前的症状：
-1.常规测速站点速度正常（白名单）
-2.迅雷下载速度起不来了原来可以 40-50MB/s 现在只能 2-3MB/s
-3.连接数变少了，下载的时候网络就卡了
-4.出国速度没啥影响&lt;/p&gt;
-&lt;p&gt;由于我没啥特殊公网应用，目前先观察下，看后期是否会主动拉出小黑屋&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -112,13 +98,6 @@
 </description>
     </item>
     <item>
-      <title>看春晚有感</title>
-      <link>https://www.v2ex.com/t/1193033</link>
-      <guid>v2ex-1193033</guid>
-      <pubDate>Mon, 16 Feb 2026 12:43:20 GMT</pubDate>
-      <description>今年春晚基本被机器人统治了，武术表演，小品表演，歌曲表演，等等，已经被机器人统治了，未来已来😁</description>
-    </item>
-    <item>
       <title>看着智谱和 minimax 翻倍，心情很复杂</title>
       <link>https://www.v2ex.com/t/1193036</link>
       <guid>v2ex-1193036</guid>
@@ -144,6 +123,13 @@
 &lt;p&gt;大家就别喷我了，我是一个新鲜韭菜。&lt;/p&gt;
 &lt;p&gt;最近还挺影响心情的，知道这是自己赚不到的钱，因为自己不敢买，也没勇气输，但是就是看着他天天涨，每天就会很关注。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>看春晚有感</title>
+      <link>https://www.v2ex.com/t/1193033</link>
+      <guid>v2ex-1193033</guid>
+      <pubDate>Mon, 16 Feb 2026 12:43:20 GMT</pubDate>
+      <description>今年春晚基本被机器人统治了，武术表演，小品表演，歌曲表演，等等，已经被机器人统治了，未来已来😁</description>
     </item>
     <item>
       <title>[求助] 国内 Java 10 年，总包 几十个 个，正在日本旅游，极度纠结是否润日，求在日大佬指点</title>
@@ -178,6 +164,15 @@
       <guid>v2ex-1193040</guid>
       <pubDate>Mon, 16 Feb 2026 13:55:47 GMT</pubDate>
       <description>&lt;p&gt;除夕 21:55&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>买了 Gemini Pro 付费，用不了 API Key 吗？</title>
+      <link>https://www.v2ex.com/t/1192990</link>
+      <guid>v2ex-1192990</guid>
+      <pubDate>Mon, 16 Feb 2026 01:20:36 GMT</pubDate>
+      <description>&lt;p&gt;在 Google AI Stuido 创建的 Key ，配额层级显示 [不可用] 。&lt;/p&gt;
+&lt;p&gt;是不是只能用网页版的 Gemini ？&lt;/p&gt;
 </description>
     </item>
   </channel>
