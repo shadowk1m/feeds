@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 18 Feb 2026 12:36:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 14:00:48 GMT</lastBuildDate>
     <item>
       <title>[新年送码] 功能十分齐全完善的多平台 RSS 阅读器（RSS Reader），支持沉浸式双语对照翻译、 AI 摘要、集成多 RSS 服务账户等特性，已上架 Google Play，微软商店</title>
       <link>https://www.v2ex.com/t/1193145</link>
@@ -185,15 +185,70 @@ The MIUI system has miui optimization disabled, but the installation returns use
 </description>
     </item>
     <item>
-      <title>offer 选择求指点，农发行软开 or 徽商总行金科</title>
-      <link>https://www.v2ex.com/t/1193122</link>
-      <guid>v2ex-1193122</guid>
-      <pubDate>Tue, 17 Feb 2026 15:03:43 GMT</pubDate>
-      <description>&lt;p&gt;9 本 9 硕，男生，安徽人&lt;/p&gt;
-&lt;p&gt;徽商是安徽最大的城商行，跟总行签合同，总包 20w 左右，据说平均工作强度比较低（但是看组，也有的组经常加班）&lt;/p&gt;
-&lt;p&gt;农发行是政策行，银行地位上比徽商强不少，但是软开中心是跟子公司签合同而非总行，有点担心后续的稳定性，总包 30w 左右，平均工作强度比较高&lt;/p&gt;
-&lt;p&gt;然后还想问一点是工作地点重要吗？徽商总行的地理位置比较好，农发行的软开大楼地理位置比较偏，虽然合肥不大，离核心区也就 10km 左右。。。&lt;/p&gt;
-&lt;p&gt;不知道有没有对银行 IT 比较了解的大佬给点意见，拜谢！&lt;/p&gt;
+      <title>运营转型，独立开发了一个月，我做了一个 AI 视频/AI 图片 生成工具，想听听大家的建议</title>
+      <link>https://www.v2ex.com/t/1193176</link>
+      <guid>v2ex-1193176</guid>
+      <pubDate>Wed, 18 Feb 2026 10:39:28 GMT</pubDate>
+      <description>&lt;p&gt;各位 V 友好，我是 &lt;a href=&quot;https://popcornai.art/&quot; rel=&quot;nofollow&quot;&gt;PopcornAI Art&lt;/a&gt;的开发者，从运营转型为独立开发者。花了一个月的时间，终于把这个产品做出来了，想在这里分享一下开发历程，也希望能得到大家的反馈和建议。&lt;/p&gt;
+&lt;h2&gt;一、为什么要做这个产品：&lt;/h2&gt;
+&lt;p&gt;25 年年底，我开始接触 vibe coding ，并尝试用 vibe coding 开发了几个小工具，实现的效果很好，那一刻我的感觉就是，终于不用被束缚了，可以在没有团队，不用花很多钱的情况下，创造产品，并且让别人使用自己的产品了——能看到别人使用自己创造出来的产品，是一件很开心的事情，也是我的心愿。&lt;/p&gt;
+&lt;p&gt;从那以后，我一直在找方向，坦白讲，是有些拿锤子找钉子的感觉，期间也做了几个小产品：关于时间管理、任务规划等的，但都没有什么反响。&lt;/p&gt;
+&lt;p&gt;后来通过流量分析，发现 AI 视频生成+AI 图片生成领域的流量很大；再加上我老婆就是做设计和市场方向的，对于素材和视频设计在工作中是刚需，每个月也都要花几百块钱去订购会员，而且也经常不够用；还有就是广告一直以来都是很大的市场，其中视频和图片是广告的基础载体，现在的多模态 AI 的发展，也一定能够为整个广告相关的产业赋能，推动广告产品的进一步发展，同时自身在其中也会扮演越来越重要的作用。&lt;/p&gt;
+&lt;p&gt;总之就是：市场足够大、足够刚需、也一直向前发展。 当然，这样的机会，竞争也一定大，&lt;strong&gt;但机会来了，先上车，才是最重要的，竞争力是在实战中成长起来的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;于是，我大概从 26 年元旦后的 1 月中旬，开始开发这个网站，到农历新年的第二天(2 月 18 号)，终于开发完成。&lt;/p&gt;
+&lt;h2&gt;二、&lt;a href=&quot;https://popcornai.art/&quot; rel=&quot;nofollow&quot;&gt;PopcornAI Art&lt;/a&gt; 能做什么：&lt;/h2&gt;
+&lt;p&gt;目前产品包含了以下几个核心功能：&lt;/p&gt;
+&lt;h3&gt;1 、参考生视频：&lt;/h3&gt;
+&lt;p&gt;上传参考图（比如一个角色），AI 能保持角色一致性生成视频，适合做 IP 动画或系列内容。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;参考生视频功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/0lwrhes.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;2 、图生视频：&lt;/h3&gt;
+&lt;p&gt;上传图片生成动态视频，支持多帧参考图引导。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;图生视频功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Lvg5pvy.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;3 、文生视频：&lt;/h3&gt;
+&lt;p&gt;输入文字描述直接生成视频，支持 1-10 秒时长，最高 1080P 。
+&lt;img alt=&quot;文生视频功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/WDM2Xvi.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;4 、图生图：&lt;/h3&gt;
+&lt;p&gt;上传参考图，基于原图生成新图，保持主体一致性。
+&lt;img alt=&quot;图生图功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/RHva4kU.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;5 、文生图：&lt;/h3&gt;
+&lt;p&gt;基于文字生成高质量图片，支持多种风格。
+&lt;img alt=&quot;文生图功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/FfaZyx6.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;6 、特效模版：&lt;/h3&gt;
+&lt;p&gt;目前积累了 100+视频模板，涵盖：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Viral Dance （ viral 舞蹈效果）&lt;/li&gt;
+&lt;li&gt;Product Ads （产品广告）&lt;/li&gt;
+&lt;li&gt;Cinematic （电影感风格）&lt;/li&gt;
+&lt;li&gt;Art Styles （艺术风格转换）&lt;/li&gt;
+&lt;li&gt;Fun Transform （趣味变形）&lt;/li&gt;
+&lt;li&gt;Holidays （节日主题）&lt;/li&gt;
+&lt;li&gt;等
+&lt;img alt=&quot;特效模版功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/XkPZQbZ.png&quot;/&gt;
+&lt;img alt=&quot;特效模版功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/632S56m.jpeg&quot;/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;三、一些开发心得：&lt;/h2&gt;
+&lt;p&gt;作为独立开发者，这一个月遇到了一些坑，不过也都解决了，以下是分享几个感悟：&lt;/p&gt;
+&lt;h3&gt;1 、奉行 MVP 核心原则&lt;/h3&gt;
+&lt;p&gt;•&lt;strong&gt;先完成再完美：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中间有小段时间浪费了，也为了解决一些不重要的困难和功能，甚至熬了通宵，但现在回头看来，其实没有太大必要，完全可以先上线，后续再改善：不在上线前追求极致的交互和美化，核心功能实现即可上站，后续根据流量数据再做迭代。&lt;/p&gt;
+&lt;p&gt;• &lt;strong&gt;控制开发周期：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这个和上一条呼应：无论产品多大，MVP 开发周期应尽量控制在短时间内（如果非要有个明确的时间的话，我认为对于独立开发者来说，1~2 周就够了）。过长的周期说明需求拆解不够细，或陷入了“过度设计”的深渊。&lt;/p&gt;
+&lt;h3&gt;2 、AI 驱动高效开发&lt;/h3&gt;
+&lt;p&gt;• &lt;strong&gt;充分利用 AI 工具：&lt;/strong&gt;
+熟练组合使用 Cursor 、Claude Code 、ChatGPT  、Gemini 等工具。和 Gemini 讨论需求，让 ChatGPT 充当架构师和 Code Reviewer ，而 Claude Code 负责具体的执行与 Bug 修复。&lt;/p&gt;
+&lt;p&gt;• &lt;strong&gt;先沟通再编码：&lt;/strong&gt;
+最佳流程是先与 AI 深度沟通需求，明确提示词（ Prompt ）后再让 AI 生成代码，这比直接盲目编码效率更高。&lt;/p&gt;
+&lt;p&gt;• &lt;strong&gt;利用现成模板：&lt;/strong&gt;
+对于 0 基础或求快的开发者，直接使用成熟的 SaaS 模板（如集成了 Auth 和 Stripe 的模板）可以避开登录、订阅等复杂技术坑位，这个也是蛮重要的，不要在不重要的事情上，花费过多的时间。&lt;/p&gt;
+&lt;h2&gt;四、想请教大家几个问题：&lt;/h2&gt;
+&lt;p&gt;目前产品刚上线，希望能得到大家的建议，因此想请教大家几个问题：&lt;/p&gt;
+&lt;p&gt;1 、这个产品你们体验后，有没有觉得不好，想吐槽的地方？&lt;/p&gt;
+&lt;p&gt;2 、如果你们也是创作者，你们对 AI 视频工具最看重什么？（价格、质量、速度、还是功能丰富度？）&lt;/p&gt;
+&lt;p&gt;3 、目前产品还有哪些功能你们觉得是刚需但缺失的？&lt;/p&gt;
+&lt;p&gt;4 、有没有独立开发者朋友，想请教一下产品推广的经验？&lt;/p&gt;
+&lt;p&gt;我的网站地址是：&lt;a href=&quot;https://popcornai.art/&quot; rel=&quot;nofollow&quot;&gt;https://popcornai.art/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎试用：&lt;a href=&quot;https://popcornai.art/&quot; rel=&quot;nofollow&quot;&gt;PopcornAI Art&lt;/a&gt;，有任何问题都可以在这里留言，我会认真回复每一条建议。
+谢谢！&lt;/p&gt;
 </description>
     </item>
     <item>
