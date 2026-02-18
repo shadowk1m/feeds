@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 18 Feb 2026 07:43:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 08:33:28 GMT</lastBuildDate>
     <item>
       <title>[新年送码] 功能十分齐全完善的多平台 RSS 阅读器（RSS Reader），支持沉浸式双语对照翻译、 AI 摘要、集成多 RSS 服务账户等特性，已上架 Google Play，微软商店</title>
       <link>https://www.v2ex.com/t/1193145</link>
@@ -169,11 +169,13 @@ e03yfk04u64lsaqazryt1w53
       <description>直到现在也还没恢复</description>
     </item>
     <item>
-      <title>想捡个二手笔记本装 Linux 桌面玩玩儿，有啥推荐么</title>
-      <link>https://www.v2ex.com/t/1193105</link>
-      <guid>v2ex-1193105</guid>
-      <pubDate>Tue, 17 Feb 2026 11:38:44 GMT</pubDate>
-      <description>最近在 Mac 用虚拟机装了 Debian13 玩儿，KDE 的桌面，感觉也蛮不错的。</description>
+      <title>家里最近装了太阳能 50 度电池，有什么好的办法把电都用掉？</title>
+      <link>https://www.v2ex.com/t/1193150</link>
+      <guid>v2ex-1193150</guid>
+      <pubDate>Wed, 18 Feb 2026 03:01:26 GMT</pubDate>
+      <description>&lt;p&gt;目前正在夏季，电池差不多每天都能消耗完，没办法，耗电量大户，家里有娃有电车, 大佬们有什么别的建议来使用这些电呢？不想白白的浪费掉.&lt;/p&gt;
+&lt;p&gt;目前的想法是收一些显卡做本地大模型推理&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>请问小米第三方 APP 无法安装？</title>
@@ -186,13 +188,11 @@ The MIUI system has miui optimization disabled, but the installation returns use
 </description>
     </item>
     <item>
-      <title>家里最近装了太阳能 50 度电池，有什么好的办法把电都用掉？</title>
-      <link>https://www.v2ex.com/t/1193150</link>
-      <guid>v2ex-1193150</guid>
-      <pubDate>Wed, 18 Feb 2026 03:01:26 GMT</pubDate>
-      <description>&lt;p&gt;目前正在夏季，电池差不多每天都能消耗完，没办法，耗电量大户，家里有娃有电车, 大佬们有什么别的建议来使用这些电呢？不想白白的浪费掉.&lt;/p&gt;
-&lt;p&gt;目前的想法是收一些显卡做本地大模型推理&lt;/p&gt;
-</description>
+      <title>想捡个二手笔记本装 Linux 桌面玩玩儿，有啥推荐么</title>
+      <link>https://www.v2ex.com/t/1193105</link>
+      <guid>v2ex-1193105</guid>
+      <pubDate>Tue, 17 Feb 2026 11:38:44 GMT</pubDate>
+      <description>最近在 Mac 用虚拟机装了 Debian13 玩儿，KDE 的桌面，感觉也蛮不错的。</description>
     </item>
   </channel>
 </rss>
