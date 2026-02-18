@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 18 Feb 2026 11:31:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 12:36:57 GMT</lastBuildDate>
     <item>
       <title>[新年送码] 功能十分齐全完善的多平台 RSS 阅读器（RSS Reader），支持沉浸式双语对照翻译、 AI 摘要、集成多 RSS 服务账户等特性，已上架 Google Play，微软商店</title>
       <link>https://www.v2ex.com/t/1193145</link>
@@ -165,13 +165,6 @@ The MIUI system has miui optimization disabled, but the installation returns use
 </description>
     </item>
     <item>
-      <title>想捡个二手笔记本装 Linux 桌面玩玩儿，有啥推荐么</title>
-      <link>https://www.v2ex.com/t/1193105</link>
-      <guid>v2ex-1193105</guid>
-      <pubDate>Tue, 17 Feb 2026 11:38:44 GMT</pubDate>
-      <description>最近在 Mac 用虚拟机装了 Debian13 玩儿，KDE 的桌面，感觉也蛮不错的。</description>
-    </item>
-    <item>
       <title>iphoneAir 5499 版, 激活两周内, 自动重启三次.</title>
       <link>https://www.v2ex.com/t/1193136</link>
       <guid>v2ex-1193136</guid>
@@ -182,12 +175,13 @@ The MIUI system has miui optimization disabled, but the installation returns use
 </description>
     </item>
     <item>
-      <title>OSS 相比传统的文件系统有什么优势？</title>
-      <link>https://www.v2ex.com/t/1193107</link>
-      <guid>v2ex-1193107</guid>
-      <pubDate>Tue, 17 Feb 2026 11:56:39 GMT</pubDate>
-      <description>&lt;p&gt;如题，尤其是我看到很多项目实际上把 OSS 当成普通的文件系统来使用（建立目录结构、挂载为普通 UNIX 文件系统，等等）。&lt;/p&gt;
-&lt;p&gt;问了下 AI ，提到了高吞吐、扁平结构、支持 tags 等元数据、远程访问之类的。但这些在传统文件系统中不也能做到吗？&lt;/p&gt;
+      <title>如果大模型按照自动驾驶的方式来分级的话，当前大模型能达到 L3 吗？</title>
+      <link>https://www.v2ex.com/t/1193160</link>
+      <guid>v2ex-1193160</guid>
+      <pubDate>Wed, 18 Feb 2026 06:19:15 GMT</pubDate>
+      <description>&lt;p&gt;现在的大模型让我脱离一线开发 N 年的领导重新飘起来了。自动生成的 PPT 信手拈来，犹如蒋委员长附体，天天是“机枪往左移 5 米”这种级别的指挥，技术方案叭叭的往外冒，那种勃勃生机、万物竞发的境界，犹在眼前。但是仔细一想很多细节他是压根不考虑，贼烦的就是话里话外是你们这些人都已经不重要了。&lt;/p&gt;
+&lt;p&gt;假如让这老登指挥 Agent 机枪左移 5 米这种微操，程序员彻底被替代，当前的大模型的能力还差多少？&lt;/p&gt;
+&lt;p&gt;以后会不会出现一些大模型服务提供商能保证，如果使用他家大模型出了生产事故，他们也承担相应责任的。这一天有可能到来吗&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -200,6 +194,22 @@ The MIUI system has miui optimization disabled, but the installation returns use
 &lt;p&gt;农发行是政策行，银行地位上比徽商强不少，但是软开中心是跟子公司签合同而非总行，有点担心后续的稳定性，总包 30w 左右，平均工作强度比较高&lt;/p&gt;
 &lt;p&gt;然后还想问一点是工作地点重要吗？徽商总行的地理位置比较好，农发行的软开大楼地理位置比较偏，虽然合肥不大，离核心区也就 10km 左右。。。&lt;/p&gt;
 &lt;p&gt;不知道有没有对银行 IT 比较了解的大佬给点意见，拜谢！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>大过年的遇到一个诡异的网络问题</title>
+      <link>https://www.v2ex.com/t/1193179</link>
+      <guid>v2ex-1193179</guid>
+      <pubDate>Wed, 18 Feb 2026 11:13:19 GMT</pubDate>
+      <description>&lt;p&gt;基本背景如下坐标重庆联通,宽带 1000M,光猫型号中兴 ZXHN F657GV9,路由器型号:中兴巡天 BE5100pro+,从办宽带开始就让师傅改了桥接,路由器 PPPOE 拨号上网,稳定运行了一年左右至今.&lt;/p&gt;
+&lt;p&gt;从初一晚上回到重庆家里开始,发现抢红包啥的延迟很高,本来以为是春节网络拥堵,也没太在意,结果空下来准备 LOL 海斗两把放松,结果发现显示区服延迟在 200ms,以前都是 35ms,没太当回事儿继续登录上开始游戏,结果点排队多次一直无反应,以为电脑问题,重启之后继续排队结果提示多次退出临时被禁排队,加上老婆说看视频刷小红书都卡,才开始重大排查.&lt;/p&gt;
+&lt;p&gt;排查过程,先分别重启了路由器,光猫等,发现问题依旧,电脑网线直连的路由器,ping 路由器网关,发现延迟平均在 9MS 左右,遂把电脑网线直连到光猫,ping 光猫的网关,发现延迟从几十毫秒到几百毫秒波动,感觉事情不对劲,虽然相应知识不多,但我也知道内网 ping 应该都是≤1ms 才对.
+联系师傅报修,次日师傅上门,了解经过之后,初步判断是光猫坏了,换了个新光猫.结果注册好之后问题依旧,师傅有些挠头,用光猫拨号,路由器纯 AP,结果问题依旧存在,最后断开路由器,只用电脑和光猫直连,瞬间正常.&lt;/p&gt;
+&lt;p&gt;师傅寻思换上了旧光猫,还是只用电脑和光猫直连,也依旧正常,于是再接上路由器,延迟瞬间就产生.
+于是师傅判断:虽然我不知道啥问题,但肯定是你路由器坏了.我说那好吧,确实不接路由器都没事儿,可是无奈这个光猫不带 WIFI 啊,我只能美团临时本地下单一个普通的小米路由器先用着&lt;/p&gt;
+&lt;p&gt;接下来就是诡异的事情了,新路由器,自带的新网线,接上光猫之后,原本和光猫直连的电脑,ping 光猫网关,延迟又瞬间开始剧烈波动
+我换了新路由器的工作模式 AP 和 DHCP 都试过了,都是依旧的现象,然后我断开路由器,网关延迟又恢复正常小于 1ms.&lt;/p&gt;
+&lt;p&gt;求助各位大佬又遇到过这种问题吗?&lt;/p&gt;
 </description>
     </item>
   </channel>
