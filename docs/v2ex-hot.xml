@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 18 Feb 2026 10:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 11:31:16 GMT</lastBuildDate>
     <item>
       <title>[新年送码] 功能十分齐全完善的多平台 RSS 阅读器（RSS Reader），支持沉浸式双语对照翻译、 AI 摘要、集成多 RSS 服务账户等特性，已上架 Google Play，微软商店</title>
       <link>https://www.v2ex.com/t/1193145</link>
@@ -81,15 +81,6 @@ e03yfk04u64lsaqazryt1w53
 &lt;p&gt;作为首个产品，也是花了非常多的时间用于跑通独立开发技术侧的整个流程，例如包括 UI 设计，前端客户端与后端服务搭建，支付流程的设计等等，收获还是非常多的。&lt;/p&gt;
 &lt;p&gt;但在产品运营相关方面略微欠缺，从 Agr Reader 诞生开始一直并未做更多的进一步推广，所有这次我来补全 Agr Reader 一次迟来的产品推广，毕竟运营推广有时候往往比打磨产品本身更为重要。&lt;/p&gt;
 &lt;p&gt;大家喜欢的话也感谢给我一个好评~有任何问题欢迎交流🙌，联系邮件 &lt;a href=&quot;mailto:support@agrreader.com&quot;&gt;support@agrreader.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>听自媒体说, Apple 3 月 4 日会发布超低价 Macbook, 搭载 iPhone 的 A 系列芯片</title>
-      <link>https://www.v2ex.com/t/1193099</link>
-      <guid>v2ex-1193099</guid>
-      <pubDate>Tue, 17 Feb 2026 10:39:46 GMT</pubDate>
-      <description>&lt;p&gt;古尔曼表示，这次发布会最值得期待的，就是苹果要推出低价入门级 MacBook 新品！划重点：这款新 MacBook ，大概率会搭载和 iPhone16 系列同款的 A18 Pro 芯片，性能够用还不溢价，主打一个亲民实用，预计起售价折合人民币仅 4853 元左右，直接打破苹果入门笔记本的定价壁垒&lt;/p&gt;
-&lt;p&gt;我是通过博主大耳朵的视频了解的: &lt;a href=&quot;https://www.youtube.com/watch?v=kQ-aFczITCg&quot; rel=&quot;nofollow&quot;&gt;https://www.youtube.com/watch?v=kQ-aFczITCg&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -188,6 +179,15 @@ The MIUI system has miui optimization disabled, but the installation returns use
       <description>&lt;p&gt;一次在激活过程中.
 一次打炉石,屏幕出现紫色碎碎碎碎花,然后黑.
 一次美团切换位置,直接黑.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>OSS 相比传统的文件系统有什么优势？</title>
+      <link>https://www.v2ex.com/t/1193107</link>
+      <guid>v2ex-1193107</guid>
+      <pubDate>Tue, 17 Feb 2026 11:56:39 GMT</pubDate>
+      <description>&lt;p&gt;如题，尤其是我看到很多项目实际上把 OSS 当成普通的文件系统来使用（建立目录结构、挂载为普通 UNIX 文件系统，等等）。&lt;/p&gt;
+&lt;p&gt;问了下 AI ，提到了高吞吐、扁平结构、支持 tags 等元数据、远程访问之类的。但这些在传统文件系统中不也能做到吗？&lt;/p&gt;
 </description>
     </item>
     <item>
