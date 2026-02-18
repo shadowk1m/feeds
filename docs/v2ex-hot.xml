@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 18 Feb 2026 15:09:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 16:13:47 GMT</lastBuildDate>
     <item>
       <title>[新年送码] 功能十分齐全完善的多平台 RSS 阅读器（RSS Reader），支持沉浸式双语对照翻译、 AI 摘要、集成多 RSS 服务账户等特性，已上架 Google Play，微软商店</title>
       <link>https://www.v2ex.com/t/1193145</link>
@@ -148,23 +148,6 @@ e03yfk04u64lsaqazryt1w53
 </description>
     </item>
     <item>
-      <title>youtube 又挂掉了</title>
-      <link>https://www.v2ex.com/t/1193138</link>
-      <guid>v2ex-1193138</guid>
-      <pubDate>Wed, 18 Feb 2026 01:21:17 GMT</pubDate>
-      <description>直到现在也还没恢复</description>
-    </item>
-    <item>
-      <title>请问小米第三方 APP 无法安装？</title>
-      <link>https://www.v2ex.com/t/1193132</link>
-      <guid>v2ex-1193132</guid>
-      <pubDate>Wed, 18 Feb 2026 00:16:18 GMT</pubDate>
-      <description>&lt;p&gt;如题，用 APKPURE 装几个纯净版软件，小米手机 APKPURE 无法安装，结果提示
-The MIUI system has miui optimization disabled, but the installation returns user canceled immediately.
-请问这个如何能安装？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>运营转型，独立开发了一个月，我做了一个 AI 视频/AI 图片 生成工具，想听听大家的建议</title>
       <link>https://www.v2ex.com/t/1193176</link>
       <guid>v2ex-1193176</guid>
@@ -232,6 +215,13 @@ The MIUI system has miui optimization disabled, but the installation returns use
 </description>
     </item>
     <item>
+      <title>youtube 又挂掉了</title>
+      <link>https://www.v2ex.com/t/1193138</link>
+      <guid>v2ex-1193138</guid>
+      <pubDate>Wed, 18 Feb 2026 01:21:17 GMT</pubDate>
+      <description>直到现在也还没恢复</description>
+    </item>
+    <item>
       <title>大过年的遇到一个诡异的网络问题</title>
       <link>https://www.v2ex.com/t/1193179</link>
       <guid>v2ex-1193179</guid>
@@ -248,6 +238,23 @@ The MIUI system has miui optimization disabled, but the installation returns use
 </description>
     </item>
     <item>
+      <title>请问小米第三方 APP 无法安装？</title>
+      <link>https://www.v2ex.com/t/1193132</link>
+      <guid>v2ex-1193132</guid>
+      <pubDate>Wed, 18 Feb 2026 00:16:18 GMT</pubDate>
+      <description>&lt;p&gt;如题，用 APKPURE 装几个纯净版软件，小米手机 APKPURE 无法安装，结果提示
+The MIUI system has miui optimization disabled, but the installation returns user canceled immediately.
+请问这个如何能安装？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>那些工作中浏览器要打开 50+标签的人都是啥想法</title>
+      <link>https://www.v2ex.com/t/1193193</link>
+      <guid>v2ex-1193193</guid>
+      <pubDate>Wed, 18 Feb 2026 13:56:48 GMT</pubDate>
+      <description>非引战，单纯好奇，有些窗口挂在那里可能一辈子都不会再看一眼了，那为啥还开着。。&lt;br /&gt;&lt;br /&gt;本人习惯是超过 20 个就要清理一波，影响也不是很大&lt;br /&gt;&lt;br /&gt;我最佩服的是一个同事，开三四个 chrome 窗口，每个窗口的标签都摆满了，但是他还是能在沟通会议上精准找到自己要展示的标签页。。脑容量不够的我无法想象他是怎么做到的</description>
+    </item>
+    <item>
       <title>iphoneAir 5499 版, 激活两周内, 自动重启三次.</title>
       <link>https://www.v2ex.com/t/1193136</link>
       <guid>v2ex-1193136</guid>
@@ -255,16 +262,6 @@ The MIUI system has miui optimization disabled, but the installation returns use
       <description>&lt;p&gt;一次在激活过程中.
 一次打炉石,屏幕出现紫色碎碎碎碎花,然后黑.
 一次美团切换位置,直接黑.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>如果大模型按照自动驾驶的方式来分级的话，当前大模型能达到 L3 吗？</title>
-      <link>https://www.v2ex.com/t/1193160</link>
-      <guid>v2ex-1193160</guid>
-      <pubDate>Wed, 18 Feb 2026 06:19:15 GMT</pubDate>
-      <description>&lt;p&gt;现在的大模型让我脱离一线开发 N 年的领导重新飘起来了。自动生成的 PPT 信手拈来，犹如蒋委员长附体，天天是“机枪往左移 5 米”这种级别的指挥，技术方案叭叭的往外冒，那种勃勃生机、万物竞发的境界，犹在眼前。但是仔细一想很多细节他是压根不考虑，贼烦的就是话里话外是你们这些人都已经不重要了。&lt;/p&gt;
-&lt;p&gt;假如让这老登指挥 Agent 机枪左移 5 米这种微操，程序员彻底被替代，当前的大模型的能力还差多少？&lt;/p&gt;
-&lt;p&gt;以后会不会出现一些大模型服务提供商能保证，如果使用他家大模型出了生产事故，他们也承担相应责任的。这一天有可能到来吗&lt;/p&gt;
 </description>
     </item>
   </channel>
