@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Feb 2026 11:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 12:38:00 GMT</lastBuildDate>
     <item>
       <title>那些工作中浏览器要打开 50+标签的人都是啥想法</title>
       <link>https://www.v2ex.com/t/1193193</link>
@@ -38,19 +38,19 @@
       <description>虽然 v 友们或者大厂可能已经 vibe coding 很久了，但是估计还没有铺的很开。&lt;br /&gt;&lt;br /&gt;今年隐约会有这样的一种趋势：&lt;br /&gt;&lt;br /&gt;部分远离一线已久的中上层管理会更“折腾”人，尤其是中小公司的那种管理，他们在宣传和 PPT 中感觉 llm 已经差不多大成，可以很好的提效了。估计会下达一些”浮夸风“的命令，他们会认为以往预估在半个月～一个月的工作量项目可以压缩到两三天。&lt;br /&gt;&lt;br /&gt;于是，他们会肆无忌惮的下达“亩产万斤”式的指令，并毫无顾忌的让一线员工使用和转换不熟悉的技术栈。快速迭代，快速上线。</description>
     </item>
     <item>
+      <title>书房桌子小， Studio Display 想接两台主机（Mac Mini + Win 4090），求方案</title>
+      <link>https://www.v2ex.com/t/1193238</link>
+      <guid>v2ex-1193238</guid>
+      <pubDate>Thu, 19 Feb 2026 09:40:55 GMT</pubDate>
+      <description>背景&lt;br /&gt;书房桌子比较小，只能放一台显示器。目前在用 Apple Studio Display ，主要搭配 Mac Mini 使用，日常办公效率很高，已经很习惯这套组合了。&lt;br /&gt;另外还有一台 Windows 主机，配置是 RTX 4090 + 华硕 ProArt 显卡（带 Type-C 接口），主要用来打游戏和跑 4090 的算力。&lt;br /&gt;现在的痛点是：两台主机想共用这一台 Studio Display ，找不到好的切换方案。&lt;br /&gt;已经尝试/了解过的方案&lt;br /&gt;1. 串流（ Moonlight / Parsec 等）&lt;br /&gt;试了一下，体验不太行，有明显延迟和画质损失，尤其打游戏的时候感知很强，暂时放弃了。&lt;br /&gt;2. KVM 切换器&lt;br /&gt;网上搜了一圈，支持 Studio Display （ Thunderbolt 接口）的 KVM 好像目前只有一款，价格要 2000 多，而且不确定实际体验如何，有点犹豫。&lt;br /&gt;3. 来回拔插线缆&lt;br /&gt;理论上可行，但 Studio Display 背后的 Thunderbolt 口不太好够到，每次拔插太麻烦了，而且频繁拔插怕伤接口，不是长久之计。&lt;br /&gt;我的需求&lt;br /&gt;&lt;br /&gt;平时 80% 时间用 Mac Mini + Studio Display 办公，这套组合不想动&lt;br /&gt;偶尔切到 Windows 打游戏或用 4090 跑计算任务&lt;br /&gt;切换过程尽量简单，最好不用爬到显示器后面拔线&lt;br /&gt;预算合理就行，不是不能花钱，但想花得值&lt;br /&gt;&lt;br /&gt;想问问大家&lt;br /&gt;&lt;br /&gt;有没有靠谱的 Thunderbolt KVM 方案推荐？用过的说说体验？&lt;br /&gt;有没有什么我没想到的方案，比如转接、扩展坞之类的玩法？&lt;br /&gt;同样双主机的朋友是怎么解决的？&lt;br /&gt;或者说，这个场景下是不是干脆再买一台支持多输入的显示器更合理？（但真的很喜欢 Studio Display 的效果…）&lt;br /&gt;&lt;br /&gt;感谢各位大佬指点 🙏</description>
+    </item>
+    <item>
       <title>大家怎么解决 claude 封号的问题的啊</title>
       <link>https://www.v2ex.com/t/1193200</link>
       <guid>v2ex-1193200</guid>
       <pubDate>Wed, 18 Feb 2026 16:20:49 GMT</pubDate>
       <description>&lt;p&gt;被封了四个号了，买了干净的 ip 还是被封，真的没招了，撑不过 12 个小时&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>同级别年限差不多的测试 QA 薪资比开发高，你觉得合理吗</title>
-      <link>https://www.v2ex.com/t/1193216</link>
-      <guid>v2ex-1193216</guid>
-      <pubDate>Thu, 19 Feb 2026 03:08:59 GMT</pubDate>
-      <description>以我们公司当前研发团队为例，在同级别、年限差不多的情况下，确实存在测试 QA 薪资高于开发的情况。&lt;br /&gt;&lt;br /&gt;A 同事，后端开发工程师&lt;br /&gt;&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：25K&lt;br /&gt;&lt;br /&gt;B 同事，测试 QA 工程师&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：28K&lt;br /&gt;&lt;br /&gt;从表面看，两人年限相当、职级一致，但 QA 的薪资明显高于开发。   你觉得合理吗</description>
     </item>
     <item>
       <title>BNBrain 进展更新：现在可以全程 AI 部署并自动验证合约到 BSCScan 了</title>
@@ -101,6 +101,13 @@
 </description>
     </item>
     <item>
+      <title>同级别年限差不多的测试 QA 薪资比开发高，你觉得合理吗</title>
+      <link>https://www.v2ex.com/t/1193216</link>
+      <guid>v2ex-1193216</guid>
+      <pubDate>Thu, 19 Feb 2026 03:08:59 GMT</pubDate>
+      <description>以我们公司当前研发团队为例，在同级别、年限差不多的情况下，确实存在测试 QA 薪资高于开发的情况。&lt;br /&gt;&lt;br /&gt;A 同事，后端开发工程师&lt;br /&gt;&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：25K&lt;br /&gt;&lt;br /&gt;B 同事，测试 QA 工程师&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：28K&lt;br /&gt;&lt;br /&gt;从表面看，两人年限相当、职级一致，但 QA 的薪资明显高于开发。   你觉得合理吗</description>
+    </item>
+    <item>
       <title>手机的定位好坏竟然和 SIM 卡几乎没有关系</title>
       <link>https://www.v2ex.com/t/1193213</link>
       <guid>v2ex-1193213</guid>
@@ -141,13 +148,6 @@
       <guid>v2ex-1193198</guid>
       <pubDate>Wed, 18 Feb 2026 15:41:03 GMT</pubDate>
       <description>如题，想请教下论坛里的各位大佬。&lt;br /&gt;&lt;br /&gt;本人情况比较尴尬：对整个 Web 生态（ git 、框架特性、前后端分离、API 、docker ）都有些认知，基本能跟程序员沟通得挺顺畅。但每当自己想动手撸个小工具、改改开源项目的代码时，就彻底卡壳。&lt;br /&gt;&lt;br /&gt;目前病灶：&lt;br /&gt;&lt;br /&gt;入门教程 PTSD： 每次想学写代码，打开教程或是写 HTML 这种东西就极度烦躁。感觉像是在做纯体力活，很无趣，没有那种即时反馈感觉。&lt;br /&gt;&lt;br /&gt;依赖外包惯性： 因为自己动手能力跟不上大脑，目前想做的工具基本都找固定配合的兄弟代劳了。但看到好玩的项目还是希望能自己改两行，这种有力使不出的感觉挺折磨人。&lt;br /&gt;&lt;br /&gt;目标导向太强： 其实就是坐不住冷板凳，想跳过基础阶段直接盖楼，但做一些啥闹钟计时器的又太无聊。&lt;br /&gt;&lt;br /&gt;主要问题：&lt;br /&gt;&lt;br /&gt;像我这种已经有一些知识点，但极度排斥枯燥的，但想达到能自力更生写点工具的水平，应该从什么路径切入？&lt;br /&gt;&lt;br /&gt;有没有经历过类似阶段的朋友分享下经验？或者是推荐一些学习路径？&lt;br /&gt;&lt;br /&gt;感谢各位！</description>
-    </item>
-    <item>
-      <title>书房桌子小， Studio Display 想接两台主机（Mac Mini + Win 4090），求方案</title>
-      <link>https://www.v2ex.com/t/1193238</link>
-      <guid>v2ex-1193238</guid>
-      <pubDate>Thu, 19 Feb 2026 09:40:55 GMT</pubDate>
-      <description>背景&lt;br /&gt;书房桌子比较小，只能放一台显示器。目前在用 Apple Studio Display ，主要搭配 Mac Mini 使用，日常办公效率很高，已经很习惯这套组合了。&lt;br /&gt;另外还有一台 Windows 主机，配置是 RTX 4090 + 华硕 ProArt 显卡（带 Type-C 接口），主要用来打游戏和跑 4090 的算力。&lt;br /&gt;现在的痛点是：两台主机想共用这一台 Studio Display ，找不到好的切换方案。&lt;br /&gt;已经尝试/了解过的方案&lt;br /&gt;1. 串流（ Moonlight / Parsec 等）&lt;br /&gt;试了一下，体验不太行，有明显延迟和画质损失，尤其打游戏的时候感知很强，暂时放弃了。&lt;br /&gt;2. KVM 切换器&lt;br /&gt;网上搜了一圈，支持 Studio Display （ Thunderbolt 接口）的 KVM 好像目前只有一款，价格要 2000 多，而且不确定实际体验如何，有点犹豫。&lt;br /&gt;3. 来回拔插线缆&lt;br /&gt;理论上可行，但 Studio Display 背后的 Thunderbolt 口不太好够到，每次拔插太麻烦了，而且频繁拔插怕伤接口，不是长久之计。&lt;br /&gt;我的需求&lt;br /&gt;&lt;br /&gt;平时 80% 时间用 Mac Mini + Studio Display 办公，这套组合不想动&lt;br /&gt;偶尔切到 Windows 打游戏或用 4090 跑计算任务&lt;br /&gt;切换过程尽量简单，最好不用爬到显示器后面拔线&lt;br /&gt;预算合理就行，不是不能花钱，但想花得值&lt;br /&gt;&lt;br /&gt;想问问大家&lt;br /&gt;&lt;br /&gt;有没有靠谱的 Thunderbolt KVM 方案推荐？用过的说说体验？&lt;br /&gt;有没有什么我没想到的方案，比如转接、扩展坞之类的玩法？&lt;br /&gt;同样双主机的朋友是怎么解决的？&lt;br /&gt;或者说，这个场景下是不是干脆再买一台支持多输入的显示器更合理？（但真的很喜欢 Studio Display 的效果…）&lt;br /&gt;&lt;br /&gt;感谢各位大佬指点 🙏</description>
     </item>
   </channel>
 </rss>
