@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Feb 2026 12:38:00 GMT</lastBuildDate>
-    <item>
-      <title>那些工作中浏览器要打开 50+标签的人都是啥想法</title>
-      <link>https://www.v2ex.com/t/1193193</link>
-      <guid>v2ex-1193193</guid>
-      <pubDate>Wed, 18 Feb 2026 13:56:48 GMT</pubDate>
-      <description>非引战，单纯好奇，有些窗口挂在那里可能一辈子都不会再看一眼了，那为啥还开着。。&lt;br /&gt;&lt;br /&gt;本人习惯是超过 20 个就要清理一波，影响也不是很大&lt;br /&gt;&lt;br /&gt;我最佩服的是一个同事，开三四个 chrome 窗口，每个窗口的标签都摆满了，但是他还是能在沟通会议上精准找到自己要展示的标签页。。脑容量不够的我无法想象他是怎么做到的</description>
-    </item>
+    <lastBuildDate>Thu, 19 Feb 2026 14:02:07 GMT</lastBuildDate>
     <item>
       <title>Gemini 突然删除了我所有的 conversation history</title>
       <link>https://www.v2ex.com/t/1193217</link>
@@ -51,6 +44,13 @@
       <pubDate>Wed, 18 Feb 2026 16:20:49 GMT</pubDate>
       <description>&lt;p&gt;被封了四个号了，买了干净的 ip 还是被封，真的没招了，撑不过 12 个小时&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>系统逼着用户升级到底是合理的还是不合理的</title>
+      <link>https://www.v2ex.com/t/1193247</link>
+      <guid>v2ex-1193247</guid>
+      <pubDate>Thu, 19 Feb 2026 11:04:55 GMT</pubDate>
+      <description>因为看不惯当前所谓玻璃质感的审美，所以一直没有升级 MacOS26 。&lt;br /&gt;&lt;br /&gt;并且按照 v 友教的已经把更新链接重置为 &lt;a target=&quot;_blank&quot; href=&quot;http://www.example.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.example.com&lt;/a&gt; 了。&lt;br /&gt;&lt;br /&gt;但是苹果系统还是每隔一段时间提醒我一次 install tonight 。</description>
     </item>
     <item>
       <title>BNBrain 进展更新：现在可以全程 AI 部署并自动验证合约到 BSCScan 了</title>
@@ -101,13 +101,6 @@
 </description>
     </item>
     <item>
-      <title>同级别年限差不多的测试 QA 薪资比开发高，你觉得合理吗</title>
-      <link>https://www.v2ex.com/t/1193216</link>
-      <guid>v2ex-1193216</guid>
-      <pubDate>Thu, 19 Feb 2026 03:08:59 GMT</pubDate>
-      <description>以我们公司当前研发团队为例，在同级别、年限差不多的情况下，确实存在测试 QA 薪资高于开发的情况。&lt;br /&gt;&lt;br /&gt;A 同事，后端开发工程师&lt;br /&gt;&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：25K&lt;br /&gt;&lt;br /&gt;B 同事，测试 QA 工程师&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：28K&lt;br /&gt;&lt;br /&gt;从表面看，两人年限相当、职级一致，但 QA 的薪资明显高于开发。   你觉得合理吗</description>
-    </item>
-    <item>
       <title>手机的定位好坏竟然和 SIM 卡几乎没有关系</title>
       <link>https://www.v2ex.com/t/1193213</link>
       <guid>v2ex-1193213</guid>
@@ -143,11 +136,18 @@
 </description>
     </item>
     <item>
-      <title>有 Web 生态概念但静不下心学基础 HTML，导致永远卡在入门，这种状态怎么破？</title>
-      <link>https://www.v2ex.com/t/1193198</link>
-      <guid>v2ex-1193198</guid>
-      <pubDate>Wed, 18 Feb 2026 15:41:03 GMT</pubDate>
-      <description>如题，想请教下论坛里的各位大佬。&lt;br /&gt;&lt;br /&gt;本人情况比较尴尬：对整个 Web 生态（ git 、框架特性、前后端分离、API 、docker ）都有些认知，基本能跟程序员沟通得挺顺畅。但每当自己想动手撸个小工具、改改开源项目的代码时，就彻底卡壳。&lt;br /&gt;&lt;br /&gt;目前病灶：&lt;br /&gt;&lt;br /&gt;入门教程 PTSD： 每次想学写代码，打开教程或是写 HTML 这种东西就极度烦躁。感觉像是在做纯体力活，很无趣，没有那种即时反馈感觉。&lt;br /&gt;&lt;br /&gt;依赖外包惯性： 因为自己动手能力跟不上大脑，目前想做的工具基本都找固定配合的兄弟代劳了。但看到好玩的项目还是希望能自己改两行，这种有力使不出的感觉挺折磨人。&lt;br /&gt;&lt;br /&gt;目标导向太强： 其实就是坐不住冷板凳，想跳过基础阶段直接盖楼，但做一些啥闹钟计时器的又太无聊。&lt;br /&gt;&lt;br /&gt;主要问题：&lt;br /&gt;&lt;br /&gt;像我这种已经有一些知识点，但极度排斥枯燥的，但想达到能自力更生写点工具的水平，应该从什么路径切入？&lt;br /&gt;&lt;br /&gt;有没有经历过类似阶段的朋友分享下经验？或者是推荐一些学习路径？&lt;br /&gt;&lt;br /&gt;感谢各位！</description>
+      <title>同级别年限差不多的测试 QA 薪资比开发高，你觉得合理吗</title>
+      <link>https://www.v2ex.com/t/1193216</link>
+      <guid>v2ex-1193216</guid>
+      <pubDate>Thu, 19 Feb 2026 03:08:59 GMT</pubDate>
+      <description>以我们公司当前研发团队为例，在同级别、年限差不多的情况下，确实存在测试 QA 薪资高于开发的情况。&lt;br /&gt;&lt;br /&gt;A 同事，后端开发工程师&lt;br /&gt;&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：25K&lt;br /&gt;&lt;br /&gt;B 同事，测试 QA 工程师&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：28K&lt;br /&gt;&lt;br /&gt;从表面看，两人年限相当、职级一致，但 QA 的薪资明显高于开发。   你觉得合理吗</description>
+    </item>
+    <item>
+      <title>有没有免费易用的 md 编辑器推荐一下</title>
+      <link>https://www.v2ex.com/t/1193229</link>
+      <guid>v2ex-1193229</guid>
+      <pubDate>Thu, 19 Feb 2026 06:45:12 GMT</pubDate>
+      <description>最近在学习码字，&lt;br /&gt;用 wps 总觉得太重，&lt;br /&gt;印象笔记和有道比较有点卡，&lt;br /&gt;比较习惯 md 的码字方式，&lt;br /&gt;想要找一个免费易用的 md 编辑器，&lt;br /&gt;没有强烈的联网要求。&lt;br /&gt;&lt;br /&gt;之前用过 typora ，&lt;br /&gt;非常喜欢这种极简风格的编辑器，&lt;br /&gt;网上说的免费版本目前官网已经找不到，&lt;br /&gt;且不确定是否支持 mac arm 。&lt;br /&gt;&lt;br /&gt;看过 notion ，obsdian ，都不大行。&lt;br /&gt;&lt;br /&gt;求各位大佬推荐一个简单的 md 编辑器，&lt;br /&gt;纯粹的 md 编辑器，&lt;br /&gt;不需要花里胡哨的其他功能。</description>
     </item>
   </channel>
 </rss>
