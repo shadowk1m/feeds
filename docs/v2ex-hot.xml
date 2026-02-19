@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Feb 2026 10:32:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 11:31:00 GMT</lastBuildDate>
     <item>
       <title>那些工作中浏览器要打开 50+标签的人都是啥想法</title>
       <link>https://www.v2ex.com/t/1193193</link>
@@ -23,13 +23,6 @@
 </description>
     </item>
     <item>
-      <title>26 年研发环境预测，更累？</title>
-      <link>https://www.v2ex.com/t/1193194</link>
-      <guid>v2ex-1193194</guid>
-      <pubDate>Wed, 18 Feb 2026 14:14:37 GMT</pubDate>
-      <description>虽然 v 友们或者大厂可能已经 vibe coding 很久了，但是估计还没有铺的很开。&lt;br /&gt;&lt;br /&gt;今年隐约会有这样的一种趋势：&lt;br /&gt;&lt;br /&gt;部分远离一线已久的中上层管理会更“折腾”人，尤其是中小公司的那种管理，他们在宣传和 PPT 中感觉 llm 已经差不多大成，可以很好的提效了。估计会下达一些”浮夸风“的命令，他们会认为以往预估在半个月～一个月的工作量项目可以压缩到两三天。&lt;br /&gt;&lt;br /&gt;于是，他们会肆无忌惮的下达“亩产万斤”式的指令，并毫无顾忌的让一线员工使用和转换不熟悉的技术栈。快速迭代，快速上线。</description>
-    </item>
-    <item>
       <title>各位现在还在用 GPT 还是转向别的 LLM</title>
       <link>https://www.v2ex.com/t/1193220</link>
       <guid>v2ex-1193220</guid>
@@ -38,87 +31,11 @@
 </description>
     </item>
     <item>
-      <title>运营转型，独立开发了一个月，我做了一个 AI 视频/AI 图片 生成工具，想听听大家的建议</title>
-      <link>https://www.v2ex.com/t/1193176</link>
-      <guid>v2ex-1193176</guid>
-      <pubDate>Wed, 18 Feb 2026 10:39:28 GMT</pubDate>
-      <description>&lt;p&gt;各位 V 友好，我是 &lt;a href=&quot;https://popcornai.art/&quot; rel=&quot;nofollow&quot;&gt;PopcornAI Art&lt;/a&gt;的开发者，从运营转型为独立开发者。花了一个月的时间，终于把这个产品做出来了，想在这里分享一下开发历程，也希望能得到大家的反馈和建议。&lt;/p&gt;
-&lt;h2&gt;一、为什么要做这个产品：&lt;/h2&gt;
-&lt;p&gt;25 年年底，我开始接触 vibe coding ，并尝试用 vibe coding 开发了几个小工具，实现的效果很好，那一刻我的感觉就是，终于不用被束缚了，可以在没有团队，不用花很多钱的情况下，创造产品，并且让别人使用自己的产品了——能看到别人使用自己创造出来的产品，是一件很开心的事情，也是我的心愿。&lt;/p&gt;
-&lt;p&gt;从那以后，我一直在找方向，坦白讲，是有些拿锤子找钉子的感觉，期间也做了几个小产品：关于时间管理、任务规划等的，但都没有什么反响。&lt;/p&gt;
-&lt;p&gt;后来通过流量分析，发现 AI 视频生成+AI 图片生成领域的流量很大；再加上我老婆就是做设计和市场方向的，对于素材和视频设计在工作中是刚需，每个月也都要花几百块钱去订购会员，而且也经常不够用；还有就是广告一直以来都是很大的市场，其中视频和图片是广告的基础载体，现在的多模态 AI 的发展，也一定能够为整个广告相关的产业赋能，推动广告产品的进一步发展，同时自身在其中也会扮演越来越重要的作用。&lt;/p&gt;
-&lt;p&gt;总之就是：市场足够大、足够刚需、也一直向前发展。 当然，这样的机会，竞争也一定大，&lt;strong&gt;但机会来了，先上车，才是最重要的，竞争力是在实战中成长起来的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;于是，我大概从 26 年元旦后的 1 月中旬，开始开发这个网站，到农历新年的第二天(2 月 18 号)，终于开发完成。&lt;/p&gt;
-&lt;h2&gt;二、&lt;a href=&quot;https://popcornai.art/&quot; rel=&quot;nofollow&quot;&gt;PopcornAI Art&lt;/a&gt; 能做什么：&lt;/h2&gt;
-&lt;p&gt;目前产品包含了以下几个核心功能：&lt;/p&gt;
-&lt;h3&gt;1 、参考生视频：&lt;/h3&gt;
-&lt;p&gt;上传参考图（比如一个角色），AI 能保持角色一致性生成视频，适合做 IP 动画或系列内容。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;参考生视频功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/0lwrhes.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;2 、图生视频：&lt;/h3&gt;
-&lt;p&gt;上传图片生成动态视频，支持多帧参考图引导。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;图生视频功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Lvg5pvy.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;3 、文生视频：&lt;/h3&gt;
-&lt;p&gt;输入文字描述直接生成视频，支持 1-10 秒时长，最高 1080P 。
-&lt;img alt=&quot;文生视频功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/WDM2Xvi.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;4 、图生图：&lt;/h3&gt;
-&lt;p&gt;上传参考图，基于原图生成新图，保持主体一致性。
-&lt;img alt=&quot;图生图功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/RHva4kU.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;5 、文生图：&lt;/h3&gt;
-&lt;p&gt;基于文字生成高质量图片，支持多种风格。
-&lt;img alt=&quot;文生图功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/FfaZyx6.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;6 、特效模版：&lt;/h3&gt;
-&lt;p&gt;目前积累了 100+视频模板，涵盖：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Viral Dance （ viral 舞蹈效果）&lt;/li&gt;
-&lt;li&gt;Product Ads （产品广告）&lt;/li&gt;
-&lt;li&gt;Cinematic （电影感风格）&lt;/li&gt;
-&lt;li&gt;Art Styles （艺术风格转换）&lt;/li&gt;
-&lt;li&gt;Fun Transform （趣味变形）&lt;/li&gt;
-&lt;li&gt;Holidays （节日主题）&lt;/li&gt;
-&lt;li&gt;等
-&lt;img alt=&quot;特效模版功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/XkPZQbZ.png&quot;/&gt;
-&lt;img alt=&quot;特效模版功能截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/632S56m.jpeg&quot;/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;三、一些开发心得：&lt;/h2&gt;
-&lt;p&gt;作为独立开发者，这一个月遇到了一些坑，不过也都解决了，以下是分享几个感悟：&lt;/p&gt;
-&lt;h3&gt;1 、奉行 MVP 核心原则&lt;/h3&gt;
-&lt;p&gt;•&lt;strong&gt;先完成再完美：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;中间有小段时间浪费了，也为了解决一些不重要的困难和功能，甚至熬了通宵，但现在回头看来，其实没有太大必要，完全可以先上线，后续再改善：不在上线前追求极致的交互和美化，核心功能实现即可上站，后续根据流量数据再做迭代。&lt;/p&gt;
-&lt;p&gt;• &lt;strong&gt;控制开发周期：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这个和上一条呼应：无论产品多大，MVP 开发周期应尽量控制在短时间内（如果非要有个明确的时间的话，我认为对于独立开发者来说，1~2 周就够了）。过长的周期说明需求拆解不够细，或陷入了“过度设计”的深渊。&lt;/p&gt;
-&lt;h3&gt;2 、AI 驱动高效开发&lt;/h3&gt;
-&lt;p&gt;• &lt;strong&gt;充分利用 AI 工具：&lt;/strong&gt;
-熟练组合使用 Cursor 、Claude Code 、ChatGPT  、Gemini 等工具。和 Gemini 讨论需求，让 ChatGPT 充当架构师和 Code Reviewer ，而 Claude Code 负责具体的执行与 Bug 修复。&lt;/p&gt;
-&lt;p&gt;• &lt;strong&gt;先沟通再编码：&lt;/strong&gt;
-最佳流程是先与 AI 深度沟通需求，明确提示词（ Prompt ）后再让 AI 生成代码，这比直接盲目编码效率更高。&lt;/p&gt;
-&lt;p&gt;• &lt;strong&gt;利用现成模板：&lt;/strong&gt;
-对于 0 基础或求快的开发者，直接使用成熟的 SaaS 模板（如集成了 Auth 和 Stripe 的模板）可以避开登录、订阅等复杂技术坑位，这个也是蛮重要的，不要在不重要的事情上，花费过多的时间。&lt;/p&gt;
-&lt;h2&gt;四、想请教大家几个问题：&lt;/h2&gt;
-&lt;p&gt;目前产品刚上线，希望能得到大家的建议，因此想请教大家几个问题：&lt;/p&gt;
-&lt;p&gt;1 、这个产品你们体验后，有没有觉得不好，想吐槽的地方？&lt;/p&gt;
-&lt;p&gt;2 、如果你们也是创作者，你们对 AI 视频工具最看重什么？（价格、质量、速度、还是功能丰富度？）&lt;/p&gt;
-&lt;p&gt;3 、目前产品还有哪些功能你们觉得是刚需但缺失的？&lt;/p&gt;
-&lt;p&gt;4 、有没有独立开发者朋友，想请教一下产品推广的经验？&lt;/p&gt;
-&lt;p&gt;我的网站地址是：&lt;a href=&quot;https://popcornai.art/&quot; rel=&quot;nofollow&quot;&gt;https://popcornai.art/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎试用：&lt;a href=&quot;https://popcornai.art/&quot; rel=&quot;nofollow&quot;&gt;PopcornAI Art&lt;/a&gt;，有任何问题都可以在这里留言，我会认真回复每一条建议。
-谢谢！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>大过年的遇到一个诡异的网络问题</title>
-      <link>https://www.v2ex.com/t/1193179</link>
-      <guid>v2ex-1193179</guid>
-      <pubDate>Wed, 18 Feb 2026 11:13:19 GMT</pubDate>
-      <description>&lt;p&gt;基本背景如下坐标重庆联通,宽带 1000M,光猫型号中兴 ZXHN F657GV9,路由器型号:中兴巡天 BE5100pro+,从办宽带开始就让师傅改了桥接,路由器 PPPOE 拨号上网,稳定运行了一年左右至今.&lt;/p&gt;
-&lt;p&gt;从初一晚上回到重庆家里开始,发现抢红包啥的延迟很高,本来以为是春节网络拥堵,也没太在意,结果空下来准备 LOL 海斗两把放松,结果发现显示区服延迟在 200ms,以前都是 35ms,没太当回事儿继续登录上开始游戏,结果点排队多次一直无反应,以为电脑问题,重启之后继续排队结果提示多次退出临时被禁排队,加上老婆说看视频刷小红书都卡,才开始重大排查.&lt;/p&gt;
-&lt;p&gt;排查过程,先分别重启了路由器,光猫等,发现问题依旧,电脑网线直连的路由器,ping 路由器网关,发现延迟平均在 9MS 左右,遂把电脑网线直连到光猫,ping 光猫的网关,发现延迟从几十毫秒到几百毫秒波动,感觉事情不对劲,虽然相应知识不多,但我也知道内网 ping 应该都是≤1ms 才对.
-联系师傅报修,次日师傅上门,了解经过之后,初步判断是光猫坏了,换了个新光猫.结果注册好之后问题依旧,师傅有些挠头,用光猫拨号,路由器纯 AP,结果问题依旧存在,最后断开路由器,只用电脑和光猫直连,瞬间正常.&lt;/p&gt;
-&lt;p&gt;师傅寻思换上了旧光猫,还是只用电脑和光猫直连,也依旧正常,于是再接上路由器,延迟瞬间就产生.
-于是师傅判断:虽然我不知道啥问题,但肯定是你路由器坏了.我说那好吧,确实不接路由器都没事儿,可是无奈这个光猫不带 WIFI 啊,我只能美团临时本地下单一个普通的小米路由器先用着&lt;/p&gt;
-&lt;p&gt;接下来就是诡异的事情了,新路由器,自带的新网线,接上光猫之后,原本和光猫直连的电脑,ping 光猫网关,延迟又瞬间开始剧烈波动
-我换了新路由器的工作模式 AP 和 DHCP 都试过了,都是依旧的现象,然后我断开路由器,网关延迟又恢复正常小于 1ms.&lt;/p&gt;
-&lt;p&gt;求助各位大佬又遇到过这种问题吗?&lt;/p&gt;
-</description>
+      <title>26 年研发环境预测，更累？</title>
+      <link>https://www.v2ex.com/t/1193194</link>
+      <guid>v2ex-1193194</guid>
+      <pubDate>Wed, 18 Feb 2026 14:14:37 GMT</pubDate>
+      <description>虽然 v 友们或者大厂可能已经 vibe coding 很久了，但是估计还没有铺的很开。&lt;br /&gt;&lt;br /&gt;今年隐约会有这样的一种趋势：&lt;br /&gt;&lt;br /&gt;部分远离一线已久的中上层管理会更“折腾”人，尤其是中小公司的那种管理，他们在宣传和 PPT 中感觉 llm 已经差不多大成，可以很好的提效了。估计会下达一些”浮夸风“的命令，他们会认为以往预估在半个月～一个月的工作量项目可以压缩到两三天。&lt;br /&gt;&lt;br /&gt;于是，他们会肆无忌惮的下达“亩产万斤”式的指令，并毫无顾忌的让一线员工使用和转换不熟悉的技术栈。快速迭代，快速上线。</description>
     </item>
     <item>
       <title>大家怎么解决 claude 封号的问题的啊</title>
@@ -217,6 +134,20 @@
 &lt;h4&gt;顾虑&lt;/h4&gt;
 &lt;p&gt;ai 推荐我买一个带 GPS 功能的手表, 但我已经有一个小米手环(无 GPS). 专门买一个运动手表, 成本有点高, 而且我不太喜欢手上戴东西(可以的话, 其实手机我也不想带)&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>有 Web 生态概念但静不下心学基础 HTML，导致永远卡在入门，这种状态怎么破？</title>
+      <link>https://www.v2ex.com/t/1193198</link>
+      <guid>v2ex-1193198</guid>
+      <pubDate>Wed, 18 Feb 2026 15:41:03 GMT</pubDate>
+      <description>如题，想请教下论坛里的各位大佬。&lt;br /&gt;&lt;br /&gt;本人情况比较尴尬：对整个 Web 生态（ git 、框架特性、前后端分离、API 、docker ）都有些认知，基本能跟程序员沟通得挺顺畅。但每当自己想动手撸个小工具、改改开源项目的代码时，就彻底卡壳。&lt;br /&gt;&lt;br /&gt;目前病灶：&lt;br /&gt;&lt;br /&gt;入门教程 PTSD： 每次想学写代码，打开教程或是写 HTML 这种东西就极度烦躁。感觉像是在做纯体力活，很无趣，没有那种即时反馈感觉。&lt;br /&gt;&lt;br /&gt;依赖外包惯性： 因为自己动手能力跟不上大脑，目前想做的工具基本都找固定配合的兄弟代劳了。但看到好玩的项目还是希望能自己改两行，这种有力使不出的感觉挺折磨人。&lt;br /&gt;&lt;br /&gt;目标导向太强： 其实就是坐不住冷板凳，想跳过基础阶段直接盖楼，但做一些啥闹钟计时器的又太无聊。&lt;br /&gt;&lt;br /&gt;主要问题：&lt;br /&gt;&lt;br /&gt;像我这种已经有一些知识点，但极度排斥枯燥的，但想达到能自力更生写点工具的水平，应该从什么路径切入？&lt;br /&gt;&lt;br /&gt;有没有经历过类似阶段的朋友分享下经验？或者是推荐一些学习路径？&lt;br /&gt;&lt;br /&gt;感谢各位！</description>
+    </item>
+    <item>
+      <title>书房桌子小， Studio Display 想接两台主机（Mac Mini + Win 4090），求方案</title>
+      <link>https://www.v2ex.com/t/1193238</link>
+      <guid>v2ex-1193238</guid>
+      <pubDate>Thu, 19 Feb 2026 09:40:55 GMT</pubDate>
+      <description>背景&lt;br /&gt;书房桌子比较小，只能放一台显示器。目前在用 Apple Studio Display ，主要搭配 Mac Mini 使用，日常办公效率很高，已经很习惯这套组合了。&lt;br /&gt;另外还有一台 Windows 主机，配置是 RTX 4090 + 华硕 ProArt 显卡（带 Type-C 接口），主要用来打游戏和跑 4090 的算力。&lt;br /&gt;现在的痛点是：两台主机想共用这一台 Studio Display ，找不到好的切换方案。&lt;br /&gt;已经尝试/了解过的方案&lt;br /&gt;1. 串流（ Moonlight / Parsec 等）&lt;br /&gt;试了一下，体验不太行，有明显延迟和画质损失，尤其打游戏的时候感知很强，暂时放弃了。&lt;br /&gt;2. KVM 切换器&lt;br /&gt;网上搜了一圈，支持 Studio Display （ Thunderbolt 接口）的 KVM 好像目前只有一款，价格要 2000 多，而且不确定实际体验如何，有点犹豫。&lt;br /&gt;3. 来回拔插线缆&lt;br /&gt;理论上可行，但 Studio Display 背后的 Thunderbolt 口不太好够到，每次拔插太麻烦了，而且频繁拔插怕伤接口，不是长久之计。&lt;br /&gt;我的需求&lt;br /&gt;&lt;br /&gt;平时 80% 时间用 Mac Mini + Studio Display 办公，这套组合不想动&lt;br /&gt;偶尔切到 Windows 打游戏或用 4090 跑计算任务&lt;br /&gt;切换过程尽量简单，最好不用爬到显示器后面拔线&lt;br /&gt;预算合理就行，不是不能花钱，但想花得值&lt;br /&gt;&lt;br /&gt;想问问大家&lt;br /&gt;&lt;br /&gt;有没有靠谱的 Thunderbolt KVM 方案推荐？用过的说说体验？&lt;br /&gt;有没有什么我没想到的方案，比如转接、扩展坞之类的玩法？&lt;br /&gt;同样双主机的朋友是怎么解决的？&lt;br /&gt;或者说，这个场景下是不是干脆再买一台支持多输入的显示器更合理？（但真的很喜欢 Studio Display 的效果…）&lt;br /&gt;&lt;br /&gt;感谢各位大佬指点 🙏</description>
     </item>
   </channel>
 </rss>
