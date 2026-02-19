@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Feb 2026 16:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 17:26:10 GMT</lastBuildDate>
     <item>
       <title>Gemini 突然删除了我所有的 conversation history</title>
       <link>https://www.v2ex.com/t/1193217</link>
@@ -29,14 +29,6 @@
       <guid>v2ex-1193238</guid>
       <pubDate>Thu, 19 Feb 2026 09:40:55 GMT</pubDate>
       <description>背景&lt;br /&gt;书房桌子比较小，只能放一台显示器。目前在用 Apple Studio Display ，主要搭配 Mac Mini 使用，日常办公效率很高，已经很习惯这套组合了。&lt;br /&gt;另外还有一台 Windows 主机，配置是 RTX 4090 + 华硕 ProArt 显卡（带 Type-C 接口），主要用来打游戏和跑 4090 的算力。&lt;br /&gt;现在的痛点是：两台主机想共用这一台 Studio Display ，找不到好的切换方案。&lt;br /&gt;已经尝试/了解过的方案&lt;br /&gt;1. 串流（ Moonlight / Parsec 等）&lt;br /&gt;试了一下，体验不太行，有明显延迟和画质损失，尤其打游戏的时候感知很强，暂时放弃了。&lt;br /&gt;2. KVM 切换器&lt;br /&gt;网上搜了一圈，支持 Studio Display （ Thunderbolt 接口）的 KVM 好像目前只有一款，价格要 2000 多，而且不确定实际体验如何，有点犹豫。&lt;br /&gt;3. 来回拔插线缆&lt;br /&gt;理论上可行，但 Studio Display 背后的 Thunderbolt 口不太好够到，每次拔插太麻烦了，而且频繁拔插怕伤接口，不是长久之计。&lt;br /&gt;我的需求&lt;br /&gt;&lt;br /&gt;平时 80% 时间用 Mac Mini + Studio Display 办公，这套组合不想动&lt;br /&gt;偶尔切到 Windows 打游戏或用 4090 跑计算任务&lt;br /&gt;切换过程尽量简单，最好不用爬到显示器后面拔线&lt;br /&gt;预算合理就行，不是不能花钱，但想花得值&lt;br /&gt;&lt;br /&gt;想问问大家&lt;br /&gt;&lt;br /&gt;有没有靠谱的 Thunderbolt KVM 方案推荐？用过的说说体验？&lt;br /&gt;有没有什么我没想到的方案，比如转接、扩展坞之类的玩法？&lt;br /&gt;同样双主机的朋友是怎么解决的？&lt;br /&gt;或者说，这个场景下是不是干脆再买一台支持多输入的显示器更合理？（但真的很喜欢 Studio Display 的效果…）&lt;br /&gt;&lt;br /&gt;感谢各位大佬指点 🙏</description>
-    </item>
-    <item>
-      <title>大家怎么解决 claude 封号的问题的啊</title>
-      <link>https://www.v2ex.com/t/1193200</link>
-      <guid>v2ex-1193200</guid>
-      <pubDate>Wed, 18 Feb 2026 16:20:49 GMT</pubDate>
-      <description>&lt;p&gt;被封了四个号了，买了干净的 ip 还是被封，真的没招了，撑不过 12 个小时&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>系统逼着用户升级到底是合理的还是不合理的</title>
@@ -148,6 +140,17 @@
       <guid>v2ex-1193239</guid>
       <pubDate>Thu, 19 Feb 2026 10:10:45 GMT</pubDate>
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/1v1UuqL_d.webp?maxwidth=760&amp;amp;fidelity=grand&quot; rel=&quot;nofollow noopener&quot;&gt;https://i.imgur.com/1v1UuqL_d.webp?maxwidth=760&amp;amp;fidelity=grand&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;左上角的美团小说是什么东西&lt;br /&gt;&lt;br /&gt;一加手机，已经在系统里关闭它的所有权限了&lt;br /&gt;&lt;br /&gt;系统的小布什么的乱七八糟的都关闭了&lt;br /&gt;&lt;br /&gt;但是打开美团还是时不时创建出来</description>
+    </item>
+    <item>
+      <title>不是，这就是吹的很火的 codex 5.3 吗？我才第一次体验就把我文件清空了。。</title>
+      <link>https://www.v2ex.com/t/1193244</link>
+      <guid>v2ex-1193244</guid>
+      <pubDate>Thu, 19 Feb 2026 10:40:06 GMT</pubDate>
+      <description>&lt;p&gt;第一次用 vscode 玩，之前都是网页对话框里改代码，
+结果一直等啊等搞好久，结果提示
+&lt;img alt=&quot;yBsJ5t.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/02/19/yBsJ5t.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;真的挺无语的。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
