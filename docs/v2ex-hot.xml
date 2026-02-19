@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Feb 2026 15:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 16:08:20 GMT</lastBuildDate>
     <item>
       <title>Gemini 突然删除了我所有的 conversation history</title>
       <link>https://www.v2ex.com/t/1193217</link>
@@ -46,6 +46,20 @@
       <description>因为看不惯当前所谓玻璃质感的审美，所以一直没有升级 MacOS26 。&lt;br /&gt;&lt;br /&gt;并且按照 v 友教的已经把更新链接重置为 &lt;a target=&quot;_blank&quot; href=&quot;http://www.example.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.example.com&lt;/a&gt; 了。&lt;br /&gt;&lt;br /&gt;但是苹果系统还是每隔一段时间提醒我一次 install tonight 。</description>
     </item>
     <item>
+      <title>同级别年限差不多的测试 QA 薪资比开发高，你觉得合理吗</title>
+      <link>https://www.v2ex.com/t/1193216</link>
+      <guid>v2ex-1193216</guid>
+      <pubDate>Thu, 19 Feb 2026 03:08:59 GMT</pubDate>
+      <description>以我们公司当前研发团队为例，在同级别、年限差不多的情况下，确实存在测试 QA 薪资高于开发的情况。&lt;br /&gt;&lt;br /&gt;A 同事，后端开发工程师&lt;br /&gt;&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：25K&lt;br /&gt;&lt;br /&gt;B 同事，测试 QA 工程师&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：28K&lt;br /&gt;&lt;br /&gt;从表面看，两人年限相当、职级一致，但 QA 的薪资明显高于开发。   你觉得合理吗</description>
+    </item>
+    <item>
+      <title>有没有免费易用的 md 编辑器推荐一下</title>
+      <link>https://www.v2ex.com/t/1193229</link>
+      <guid>v2ex-1193229</guid>
+      <pubDate>Thu, 19 Feb 2026 06:45:12 GMT</pubDate>
+      <description>最近在学习码字，&lt;br /&gt;用 wps 总觉得太重，&lt;br /&gt;印象笔记和有道比较有点卡，&lt;br /&gt;比较习惯 md 的码字方式，&lt;br /&gt;想要找一个免费易用的 md 编辑器，&lt;br /&gt;没有强烈的联网要求。&lt;br /&gt;&lt;br /&gt;之前用过 typora ，&lt;br /&gt;非常喜欢这种极简风格的编辑器，&lt;br /&gt;网上说的免费版本目前官网已经找不到，&lt;br /&gt;且不确定是否支持 mac arm 。&lt;br /&gt;&lt;br /&gt;看过 notion ，obsdian ，都不大行。&lt;br /&gt;&lt;br /&gt;求各位大佬推荐一个简单的 md 编辑器，&lt;br /&gt;纯粹的 md 编辑器，&lt;br /&gt;不需要花里胡哨的其他功能。</description>
+    </item>
+    <item>
       <title>手机的定位好坏竟然和 SIM 卡几乎没有关系</title>
       <link>https://www.v2ex.com/t/1193213</link>
       <guid>v2ex-1193213</guid>
@@ -79,13 +93,6 @@
 &lt;h4&gt;顾虑&lt;/h4&gt;
 &lt;p&gt;ai 推荐我买一个带 GPS 功能的手表, 但我已经有一个小米手环(无 GPS). 专门买一个运动手表, 成本有点高, 而且我不太喜欢手上戴东西(可以的话, 其实手机我也不想带)&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>有没有免费易用的 md 编辑器推荐一下</title>
-      <link>https://www.v2ex.com/t/1193229</link>
-      <guid>v2ex-1193229</guid>
-      <pubDate>Thu, 19 Feb 2026 06:45:12 GMT</pubDate>
-      <description>最近在学习码字，&lt;br /&gt;用 wps 总觉得太重，&lt;br /&gt;印象笔记和有道比较有点卡，&lt;br /&gt;比较习惯 md 的码字方式，&lt;br /&gt;想要找一个免费易用的 md 编辑器，&lt;br /&gt;没有强烈的联网要求。&lt;br /&gt;&lt;br /&gt;之前用过 typora ，&lt;br /&gt;非常喜欢这种极简风格的编辑器，&lt;br /&gt;网上说的免费版本目前官网已经找不到，&lt;br /&gt;且不确定是否支持 mac arm 。&lt;br /&gt;&lt;br /&gt;看过 notion ，obsdian ，都不大行。&lt;br /&gt;&lt;br /&gt;求各位大佬推荐一个简单的 md 编辑器，&lt;br /&gt;纯粹的 md 编辑器，&lt;br /&gt;不需要花里胡哨的其他功能。</description>
     </item>
     <item>
       <title>BNBrain 进展更新：现在可以全程 AI 部署并自动验证合约到 BSCScan 了</title>
@@ -136,18 +143,11 @@
 </description>
     </item>
     <item>
-      <title>同级别年限差不多的测试 QA 薪资比开发高，你觉得合理吗</title>
-      <link>https://www.v2ex.com/t/1193216</link>
-      <guid>v2ex-1193216</guid>
-      <pubDate>Thu, 19 Feb 2026 03:08:59 GMT</pubDate>
-      <description>以我们公司当前研发团队为例，在同级别、年限差不多的情况下，确实存在测试 QA 薪资高于开发的情况。&lt;br /&gt;&lt;br /&gt;A 同事，后端开发工程师&lt;br /&gt;&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：25K&lt;br /&gt;&lt;br /&gt;B 同事，测试 QA 工程师&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：28K&lt;br /&gt;&lt;br /&gt;从表面看，两人年限相当、职级一致，但 QA 的薪资明显高于开发。   你觉得合理吗</description>
-    </item>
-    <item>
-      <title>有 Web 生态概念但静不下心学基础 HTML，导致永远卡在入门，这种状态怎么破？</title>
-      <link>https://www.v2ex.com/t/1193198</link>
-      <guid>v2ex-1193198</guid>
-      <pubDate>Wed, 18 Feb 2026 15:41:03 GMT</pubDate>
-      <description>如题，想请教下论坛里的各位大佬。&lt;br /&gt;&lt;br /&gt;本人情况比较尴尬：对整个 Web 生态（ git 、框架特性、前后端分离、API 、docker ）都有些认知，基本能跟程序员沟通得挺顺畅。但每当自己想动手撸个小工具、改改开源项目的代码时，就彻底卡壳。&lt;br /&gt;&lt;br /&gt;目前病灶：&lt;br /&gt;&lt;br /&gt;入门教程 PTSD： 每次想学写代码，打开教程或是写 HTML 这种东西就极度烦躁。感觉像是在做纯体力活，很无趣，没有那种即时反馈感觉。&lt;br /&gt;&lt;br /&gt;依赖外包惯性： 因为自己动手能力跟不上大脑，目前想做的工具基本都找固定配合的兄弟代劳了。但看到好玩的项目还是希望能自己改两行，这种有力使不出的感觉挺折磨人。&lt;br /&gt;&lt;br /&gt;目标导向太强： 其实就是坐不住冷板凳，想跳过基础阶段直接盖楼，但做一些啥闹钟计时器的又太无聊。&lt;br /&gt;&lt;br /&gt;主要问题：&lt;br /&gt;&lt;br /&gt;像我这种已经有一些知识点，但极度排斥枯燥的，但想达到能自力更生写点工具的水平，应该从什么路径切入？&lt;br /&gt;&lt;br /&gt;有没有经历过类似阶段的朋友分享下经验？或者是推荐一些学习路径？&lt;br /&gt;&lt;br /&gt;感谢各位！</description>
+      <title>美团总是创建桌面广告</title>
+      <link>https://www.v2ex.com/t/1193239</link>
+      <guid>v2ex-1193239</guid>
+      <pubDate>Thu, 19 Feb 2026 10:10:45 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/1v1UuqL_d.webp?maxwidth=760&amp;amp;fidelity=grand&quot; rel=&quot;nofollow noopener&quot;&gt;https://i.imgur.com/1v1UuqL_d.webp?maxwidth=760&amp;amp;fidelity=grand&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;左上角的美团小说是什么东西&lt;br /&gt;&lt;br /&gt;一加手机，已经在系统里关闭它的所有权限了&lt;br /&gt;&lt;br /&gt;系统的小布什么的乱七八糟的都关闭了&lt;br /&gt;&lt;br /&gt;但是打开美团还是时不时创建出来</description>
     </item>
   </channel>
 </rss>
