@@ -4,94 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Feb 2026 01:12:35 GMT</lastBuildDate>
-    <item>
-      <title>[新年送码] 功能十分齐全完善的多平台 RSS 阅读器（RSS Reader），支持沉浸式双语对照翻译、 AI 摘要、集成多 RSS 服务账户等特性，已上架 Google Play，微软商店</title>
-      <link>https://www.v2ex.com/t/1193145</link>
-      <guid>v2ex-1193145</guid>
-      <pubDate>Wed, 18 Feb 2026 02:26:11 GMT</pubDate>
-      <description>&lt;h2&gt;这是什么？&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Agr Reader&lt;/strong&gt; 是一款简洁、优美、Material You 风格的 RSS 阅读器，覆盖移动端与桌面端，让你把关注的内容集中到一个地方，用更干净、更高效的方式阅读与沉淀。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://www.agrreader.com/screenshots/mobile_cover.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://www.agrreader.com/screenshots/desktop_cover.webp&quot;/&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://agrreader.com/screenshots/1.webp&quot;/&gt;&lt;/th&gt;
-&lt;th&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://agrreader.com/screenshots/4.webp&quot;/&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://agrreader.com/screenshots/6.webp&quot;/&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://agrreader.com/screenshots/5.webp&quot;/&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;Agr Reader 主要特性 &lt;/h2&gt;
-&lt;h3&gt;轻松高效的 RSS 管理：&lt;/h3&gt;
-&lt;p&gt;🎨 精美的 Material You 设计： 享受视觉上令人愉悦的现代化界面，支持根据您的风格自定义个性化主题。&lt;/p&gt;
-&lt;p&gt;📄 强大的全文解析功能： 得益于强大的全文提取技术（支持大多数网站），您可以离线阅读文章，享受无干扰的阅读体验。&lt;/p&gt;
-&lt;p&gt;🧩 便捷的主屏幕小组件： 无需打开应用，即可在桌面直接获取订阅源的最新更新。&lt;/p&gt;
-&lt;h3&gt;量身定制的阅读偏好：&lt;/h3&gt;
-&lt;p&gt;📖 可定制的阅读样式： 微调字体大小、字重、行距等，打造完美的阅读体验。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;桌面小组件：第一时间看到更新，不错过重要内容&lt;/li&gt;
-&lt;li&gt;阅读样式可高度自定义：字体大小、字重、间距等可调&lt;/li&gt;
-&lt;li&gt;常用操作更顺手：滚动标记已读、全部标记已读等配置齐全&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🌐 沉浸式翻译体验： 通过自动标题翻译和无缝的文中翻译，轻松打破语言障碍。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;支持文章列表中的标题双语对照翻译&lt;/li&gt;
-&lt;li&gt;支持文章正文的沉浸式双语对照翻译&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🖥️ 宽屏/平板模式： 利用文章列表与阅读内容并排显示的视图，最大化利用平板电脑或大屏设备的优势。&lt;/p&gt;
-&lt;p&gt;🤖 个性化 AI 助手： 利用可自定义的 AI Prompt （提示词）自动化工作流，例如总结长篇文章或翻译复杂内容。&lt;/p&gt;
-&lt;h3&gt;无缝集成与同步：&lt;/h3&gt;
-&lt;p&gt;☁️ 广泛的 RSS 服务兼容性：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;支持集成 The Old Reader, Feedly, Feedbin, Bazqux （部分将在下版本支持）&lt;/li&gt;
-&lt;li&gt;支持 FreshRSS 、Miniflux 、Tiny Tiny RSS 自部署服务&lt;/li&gt;
-&lt;li&gt;支持 Google Reader API 与 Fever API 等兼容协议&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🔄 WebDAV 同步： 轻松安全地备份和恢复您的订阅列表。&lt;/p&gt;
-&lt;h3&gt;专属的自建 RSSHub：让更多内容“可订阅”&lt;/h3&gt;
-&lt;p&gt;Agr Reader 提供自建的 RSSHub （目前仅限 App 内订阅使用），对部分站点的抓取与访问体验会更友好，并为你的订阅源选择提供更多可能性。&lt;/p&gt;
-&lt;h2&gt;下载地址&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;官网：&lt;a href=&quot;https://www.agrreader.com/zh/&quot; rel=&quot;nofollow&quot;&gt;https://www.agrreader.com/zh/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Google Play：&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.lowae.agrreader&quot; rel=&quot;nofollow&quot;&gt;https://play.google.com/store/apps/details?id=com.lowae.agrreader&lt;/a&gt; （推荐下载面向国内用户的支持买断制的版本，Google Play 版本为订阅制）&lt;/li&gt;
-&lt;li&gt;微软商店：&lt;a href=&quot;https://apps.microsoft.com/detail/9nlqhvgwg5d2?hl=zh-CN&quot; rel=&quot;nofollow&quot;&gt;https://apps.microsoft.com/detail/9nlqhvgwg5d2?hl=zh-CN&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;其他桌面端版本可见官网&lt;/p&gt;
-&lt;h2&gt;新年送码&lt;/h2&gt;
-&lt;p&gt;Agr Reader 永久 Pro 会员激活码&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;z38dgiucysj1hdsk4mrmxu3k
-0ckfoyyh0h66z8cdk1muravn
-r91d43zj337dqi2yidoo7v0n
-3gw6niajhxd34t9gt0v7ortx
-07he6fmcc49f94dldckywkza
-k3na3gy99lx57xywh3a9tpk8
-l5jznc76e4pt4bnn1cnodxwn
-tylhb33lw2l659h41uprj36c
-2abfhb23hpdsall6aywsjt63
-e03yfk04u64lsaqazryt1w53
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;领取后的记得在 Google Play 或微软商店给个好评支持一下,感谢~&lt;/p&gt;
-&lt;h2&gt;后言&lt;/h2&gt;
-&lt;p&gt;Agr Reader 算是我个人对于独立开发领域的一小步尝试，从 24 年立项到现在已经推出有一定时间了，目前也有固定的使用用户。&lt;/p&gt;
-&lt;p&gt;作为首个产品，也是花了非常多的时间用于跑通独立开发技术侧的整个流程，例如包括 UI 设计，前端客户端与后端服务搭建，支付流程的设计等等，收获还是非常多的。&lt;/p&gt;
-&lt;p&gt;但在产品运营相关方面略微欠缺，从 Agr Reader 诞生开始一直并未做更多的进一步推广，所有这次我来补全 Agr Reader 一次迟来的产品推广，毕竟运营推广有时候往往比打磨产品本身更为重要。&lt;/p&gt;
-&lt;p&gt;大家喜欢的话也感谢给我一个好评~有任何问题欢迎交流🙌，联系邮件 &lt;a href=&quot;mailto:support@agrreader.com&quot;&gt;support@agrreader.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>家里最近装了太阳能 50 度电池，有什么好的办法把电都用掉？</title>
-      <link>https://www.v2ex.com/t/1193150</link>
-      <guid>v2ex-1193150</guid>
-      <pubDate>Wed, 18 Feb 2026 03:01:26 GMT</pubDate>
-      <description>&lt;p&gt;目前正在夏季，电池差不多每天都能消耗完，没办法，耗电量大户，家里有娃有电车, 大佬们有什么别的建议来使用这些电呢？不想白白的浪费掉.&lt;/p&gt;
-&lt;p&gt;目前的想法是收一些显卡做本地大模型推理&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 19 Feb 2026 03:56:24 GMT</lastBuildDate>
     <item>
       <title>那些工作中浏览器要打开 50+标签的人都是啥想法</title>
       <link>https://www.v2ex.com/t/1193193</link>
@@ -167,11 +80,11 @@ e03yfk04u64lsaqazryt1w53
 </description>
     </item>
     <item>
-      <title>youtube 又挂掉了</title>
-      <link>https://www.v2ex.com/t/1193138</link>
-      <guid>v2ex-1193138</guid>
-      <pubDate>Wed, 18 Feb 2026 01:21:17 GMT</pubDate>
-      <description>直到现在也还没恢复</description>
+      <title>26 年研发环境预测，更累？</title>
+      <link>https://www.v2ex.com/t/1193194</link>
+      <guid>v2ex-1193194</guid>
+      <pubDate>Wed, 18 Feb 2026 14:14:37 GMT</pubDate>
+      <description>虽然 v 友们或者大厂可能已经 vibe coding 很久了，但是估计还没有铺的很开。&lt;br /&gt;&lt;br /&gt;今年隐约会有这样的一种趋势：&lt;br /&gt;&lt;br /&gt;部分远离一线已久的中上层管理会更“折腾”人，尤其是中小公司的那种管理，他们在宣传和 PPT 中感觉 llm 已经差不多大成，可以很好的提效了。估计会下达一些”浮夸风“的命令，他们会认为以往预估在半个月～一个月的工作量项目可以压缩到两三天。&lt;br /&gt;&lt;br /&gt;于是，他们会肆无忌惮的下达“亩产万斤”式的指令，并毫无顾忌的让一线员工使用和转换不熟悉的技术栈。快速迭代，快速上线。</description>
     </item>
     <item>
       <title>大过年的遇到一个诡异的网络问题</title>
@@ -190,11 +103,59 @@ e03yfk04u64lsaqazryt1w53
 </description>
     </item>
     <item>
-      <title>26 年研发环境预测，更累？</title>
-      <link>https://www.v2ex.com/t/1193194</link>
-      <guid>v2ex-1193194</guid>
-      <pubDate>Wed, 18 Feb 2026 14:14:37 GMT</pubDate>
-      <description>虽然 v 友们或者大厂可能已经 vibe coding 很久了，但是估计还没有铺的很开。&lt;br /&gt;&lt;br /&gt;今年隐约会有这样的一种趋势：&lt;br /&gt;&lt;br /&gt;部分远离一线已久的中上层管理会更“折腾”人，尤其是中小公司的那种管理，他们在宣传和 PPT 中感觉 llm 已经差不多大成，可以很好的提效了。估计会下达一些”浮夸风“的命令，他们会认为以往预估在半个月～一个月的工作量项目可以压缩到两三天。&lt;br /&gt;&lt;br /&gt;于是，他们会肆无忌惮的下达“亩产万斤”式的指令，并毫无顾忌的让一线员工使用和转换不熟悉的技术栈。快速迭代，快速上线。</description>
+      <title>BNBrain 进展更新：现在可以全程 AI 部署并自动验证合约到 BSCScan 了</title>
+      <link>https://www.v2ex.com/t/1193209</link>
+      <guid>v2ex-1193209</guid>
+      <pubDate>Wed, 18 Feb 2026 21:40:57 GMT</pubDate>
+      <description>&lt;p&gt;接上篇：&lt;a href=&quot;https://www.v2ex.com/t/1192982&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1192982&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这两天主要在做一件事：优化体验和合约部署这条链路从头到尾打通。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;img alt=&quot;Contract Deployment Flow&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.bnbrain.dev/contract.png&quot;/&gt;
+&lt;img alt=&quot;Deep Token Analysis&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.bnbrain.dev/deep.png&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;全流程是什么意思&lt;/h2&gt;
+&lt;p&gt;不是&quot;AI 帮你写 Solidity 代码，然后你自己去部署&quot;——而是真的全程：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;你描述需求，AI 跟你澄清细节&lt;/li&gt;
+&lt;li&gt;自动生成 Solidity 代码&lt;/li&gt;
+&lt;li&gt;调用 solc 编译&lt;/li&gt;
+&lt;li&gt;你本地签名确认（私钥不离本地）&lt;/li&gt;
+&lt;li&gt;自动部署上链&lt;/li&gt;
+&lt;li&gt;自动提交验证到 BSCScan&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;全程你只需要&lt;strong&gt;说清楚你要什么 + 最后签一次名&lt;/strong&gt;。不需要装开发环境，不需要看文档，不需要手动去 BSCScan 填验证表单。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;真实案例&lt;/h2&gt;
+&lt;p&gt;我让它给我开发了一个代币合约，完整对话可以打开继续聊：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对话记录：&lt;a href=&quot;https://app.bnbrain.dev/share/33db3d86-9d43-445f-86c3-edaf6ac3b8df&quot; rel=&quot;nofollow&quot;&gt;https://app.bnbrain.dev/share/33db3d86-9d43-445f-86c3-edaf6ac3b8df&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;部署交易：&lt;a href=&quot;https://bscscan.com/tx/0xf8b311de7edeb1cedd84a37d006e745b4a398cffde25dd5b18511a8f1b948d3a&quot; rel=&quot;nofollow&quot;&gt;https://bscscan.com/tx/0xf8b311d...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;合约地址（已验证）：&lt;a href=&quot;https://bscscan.com/address/0xb0539f4ebf9d0718283cbcf69fa9fc0e56454a5c#code&quot; rel=&quot;nofollow&quot;&gt;https://bscscan.com/address/0xb0539f4e...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;交互体验上也做了改动&lt;/h2&gt;
+&lt;p&gt;右侧新增了独立的交互卡片区域，每一步操作都有对应的结构化卡片，前面的卡片会自动折叠，整个流程不会乱。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;接下来要做&lt;/h2&gt;
+&lt;p&gt;合约部署之后，下一步是&lt;strong&gt;自动生成配套的管理页面和交互页面&lt;/strong&gt;，直接部署到 Cloudflare Pages ，用户不需要自己建站就能对这个合约进行管理和操作。&lt;/p&gt;
+&lt;p&gt;再往后是把编程 Agent 和区块链 Agent 真正结合——Docker 沙箱环境、链上数据直接拉取用于量化分析、GitHub 自动推送、跨链桥聚合等，慢慢来。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;想体验的话&lt;/h2&gt;
+&lt;p&gt;直接打开 &lt;a href=&quot;https://app.bnbrain.dev&quot; rel=&quot;nofollow&quot;&gt;https://app.bnbrain.dev&lt;/a&gt;，免费，不用注册。&lt;/p&gt;
+&lt;p&gt;可以用 &lt;strong&gt;opBNB 测试网&lt;/strong&gt;跑合约部署，费用极低。需要测试资金的留一下地址，我可以给一点够跑几次的 BNB 。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;小福利&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;本帖 20 号前评论的 V2EXer&lt;/strong&gt;，项目后续能持续做下去的话，送永久 Pro 套餐，代码编写和审查会上 Claude Opus 4.6/codex 5.3 Xhigh 等强模型。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;最后，项目在参加 BNB Chain 的黑客松，体验后觉得还不错的话欢迎去点个 Upvote ，感谢：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dorahacks.io/buidl/39521&quot; rel=&quot;nofollow&quot;&gt;https://dorahacks.io/buidl/39521&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>antigravity 的 claude 会偷换模型吗？</title>
+      <link>https://www.v2ex.com/t/1193163</link>
+      <guid>v2ex-1193163</guid>
+      <pubDate>Wed, 18 Feb 2026 07:27:51 GMT</pubDate>
+      <description>话说 antigravity 的 claude 会存在偷换模型的问题吗？跟朋友拼车一个 google ultra plan ，近半个月高强度用 opus 4.6 ，但是从来没碰到限制墙。</description>
     </item>
     <item>
       <title>目前干着月入 5k 的兼职要自己交社保吗？怎么缴合适？</title>
@@ -202,6 +163,18 @@ e03yfk04u64lsaqazryt1w53
       <guid>v2ex-1193172</guid>
       <pubDate>Wed, 18 Feb 2026 09:44:30 GMT</pubDate>
       <description>01 年住苏州这边，在两家小公司来回兼职，公司不交社保，建议自己缴吗？</description>
+    </item>
+    <item>
+      <title>现在入门前端还来得及吗？</title>
+      <link>https://www.v2ex.com/t/1193170</link>
+      <guid>v2ex-1193170</guid>
+      <pubDate>Wed, 18 Feb 2026 09:23:36 GMT</pubDate>
+      <description>&lt;p&gt;AI 当道，技术迸发。&lt;/p&gt;
+&lt;p&gt;请问我现在入门前端还来得及吗？&lt;/p&gt;
+&lt;p&gt;比如说我学习 let/const/var 的区别这种基础知识，还有必要学吗？&lt;/p&gt;
+&lt;p&gt;还是现在入职公司，都是用 AI 写提示词呢？&lt;/p&gt;
+&lt;p&gt;有真正在公司上班的前端吗？现在真的是不写代码了吗？&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>如果大模型按照自动驾驶的方式来分级的话，当前大模型能达到 L3 吗？</title>
@@ -214,11 +187,12 @@ e03yfk04u64lsaqazryt1w53
 </description>
     </item>
     <item>
-      <title>antigravity 的 claude 会偷换模型吗？</title>
-      <link>https://www.v2ex.com/t/1193163</link>
-      <guid>v2ex-1193163</guid>
-      <pubDate>Wed, 18 Feb 2026 07:27:51 GMT</pubDate>
-      <description>话说 antigravity 的 claude 会存在偷换模型的问题吗？跟朋友拼车一个 google ultra plan ，近半个月高强度用 opus 4.6 ，但是从来没碰到限制墙。</description>
+      <title>大家怎么解决 claude 封号的问题的啊</title>
+      <link>https://www.v2ex.com/t/1193200</link>
+      <guid>v2ex-1193200</guid>
+      <pubDate>Wed, 18 Feb 2026 16:20:49 GMT</pubDate>
+      <description>&lt;p&gt;被封了四个号了，买了干净的 ip 还是被封，真的没招了，撑不过 12 个小时&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
