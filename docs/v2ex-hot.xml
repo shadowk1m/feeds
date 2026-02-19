@@ -4,13 +4,21 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Feb 2026 06:34:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 07:42:07 GMT</lastBuildDate>
     <item>
       <title>那些工作中浏览器要打开 50+标签的人都是啥想法</title>
       <link>https://www.v2ex.com/t/1193193</link>
       <guid>v2ex-1193193</guid>
       <pubDate>Wed, 18 Feb 2026 13:56:48 GMT</pubDate>
       <description>非引战，单纯好奇，有些窗口挂在那里可能一辈子都不会再看一眼了，那为啥还开着。。&lt;br /&gt;&lt;br /&gt;本人习惯是超过 20 个就要清理一波，影响也不是很大&lt;br /&gt;&lt;br /&gt;我最佩服的是一个同事，开三四个 chrome 窗口，每个窗口的标签都摆满了，但是他还是能在沟通会议上精准找到自己要展示的标签页。。脑容量不够的我无法想象他是怎么做到的</description>
+    </item>
+    <item>
+      <title>传闻两河地区网络运营商开始打击 steam 用户？有没有了解的来说一下和近期上海限速有没有关系</title>
+      <link>https://www.v2ex.com/t/1193165</link>
+      <guid>v2ex-1193165</guid>
+      <pubDate>Wed, 18 Feb 2026 08:05:31 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://i.mji.rip/2026/02/18/9e3264481b9792c2ac8ad594b2a87f6e.png&quot; rel=&quot;nofollow&quot;&gt;https://i.mji.rip/2026/02/18/9e3264481b9792c2ac8ad594b2a87f6e.png&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>运营转型，独立开发了一个月，我做了一个 AI 视频/AI 图片 生成工具，想听听大家的建议</title>
@@ -80,6 +88,13 @@
 </description>
     </item>
     <item>
+      <title>26 年研发环境预测，更累？</title>
+      <link>https://www.v2ex.com/t/1193194</link>
+      <guid>v2ex-1193194</guid>
+      <pubDate>Wed, 18 Feb 2026 14:14:37 GMT</pubDate>
+      <description>虽然 v 友们或者大厂可能已经 vibe coding 很久了，但是估计还没有铺的很开。&lt;br /&gt;&lt;br /&gt;今年隐约会有这样的一种趋势：&lt;br /&gt;&lt;br /&gt;部分远离一线已久的中上层管理会更“折腾”人，尤其是中小公司的那种管理，他们在宣传和 PPT 中感觉 llm 已经差不多大成，可以很好的提效了。估计会下达一些”浮夸风“的命令，他们会认为以往预估在半个月～一个月的工作量项目可以压缩到两三天。&lt;br /&gt;&lt;br /&gt;于是，他们会肆无忌惮的下达“亩产万斤”式的指令，并毫无顾忌的让一线员工使用和转换不熟悉的技术栈。快速迭代，快速上线。</description>
+    </item>
+    <item>
       <title>大过年的遇到一个诡异的网络问题</title>
       <link>https://www.v2ex.com/t/1193179</link>
       <guid>v2ex-1193179</guid>
@@ -94,20 +109,6 @@
 我换了新路由器的工作模式 AP 和 DHCP 都试过了,都是依旧的现象,然后我断开路由器,网关延迟又恢复正常小于 1ms.&lt;/p&gt;
 &lt;p&gt;求助各位大佬又遇到过这种问题吗?&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>26 年研发环境预测，更累？</title>
-      <link>https://www.v2ex.com/t/1193194</link>
-      <guid>v2ex-1193194</guid>
-      <pubDate>Wed, 18 Feb 2026 14:14:37 GMT</pubDate>
-      <description>虽然 v 友们或者大厂可能已经 vibe coding 很久了，但是估计还没有铺的很开。&lt;br /&gt;&lt;br /&gt;今年隐约会有这样的一种趋势：&lt;br /&gt;&lt;br /&gt;部分远离一线已久的中上层管理会更“折腾”人，尤其是中小公司的那种管理，他们在宣传和 PPT 中感觉 llm 已经差不多大成，可以很好的提效了。估计会下达一些”浮夸风“的命令，他们会认为以往预估在半个月～一个月的工作量项目可以压缩到两三天。&lt;br /&gt;&lt;br /&gt;于是，他们会肆无忌惮的下达“亩产万斤”式的指令，并毫无顾忌的让一线员工使用和转换不熟悉的技术栈。快速迭代，快速上线。</description>
-    </item>
-    <item>
-      <title>antigravity 的 claude 会偷换模型吗？</title>
-      <link>https://www.v2ex.com/t/1193163</link>
-      <guid>v2ex-1193163</guid>
-      <pubDate>Wed, 18 Feb 2026 07:27:51 GMT</pubDate>
-      <description>话说 antigravity 的 claude 会存在偷换模型的问题吗？跟朋友拼车一个 google ultra plan ，近半个月高强度用 opus 4.6 ，但是从来没碰到限制墙。</description>
     </item>
     <item>
       <title>大家怎么解决 claude 封号的问题的啊</title>
@@ -173,22 +174,21 @@
 </description>
     </item>
     <item>
-      <title>同级别年限差不多的测试 QA 薪资比开发高，你觉得合理吗</title>
-      <link>https://www.v2ex.com/t/1193216</link>
-      <guid>v2ex-1193216</guid>
-      <pubDate>Thu, 19 Feb 2026 03:08:59 GMT</pubDate>
-      <description>以我们公司当前研发团队为例，在同级别、年限差不多的情况下，确实存在测试 QA 薪资高于开发的情况。&lt;br /&gt;&lt;br /&gt;A 同事，后端开发工程师&lt;br /&gt;&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：25K&lt;br /&gt;&lt;br /&gt;B 同事，测试 QA 工程师&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：28K&lt;br /&gt;&lt;br /&gt;从表面看，两人年限相当、职级一致，但 QA 的薪资明显高于开发。   你觉得合理吗</description>
+      <title>Gemini 突然删除了我所有的 conversation history</title>
+      <link>https://www.v2ex.com/t/1193217</link>
+      <guid>v2ex-1193217</guid>
+      <pubDate>Thu, 19 Feb 2026 03:11:53 GMT</pubDate>
+      <description>&lt;p&gt;真的是匪夷所思！  这样的大公司做出来的产品居然连这么基本的事情都能搞砸！ 我数十条对话记录一夜之间就突然消失了！ &lt;/p&gt;
+&lt;p&gt;网上也有许多相同的遭遇的记录， 大家都愤怒但是毫无办法。  Google 至今没有给合理解释和解决方案。&lt;/p&gt;
+&lt;p&gt;让我想起之前的 Google read, Google+ 等等众多产品。 这真是一个可怕而糟糕的公司&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>现在入门前端还来得及吗？</title>
-      <link>https://www.v2ex.com/t/1193170</link>
-      <guid>v2ex-1193170</guid>
-      <pubDate>Wed, 18 Feb 2026 09:23:36 GMT</pubDate>
-      <description>&lt;p&gt;AI 当道，技术迸发。&lt;/p&gt;
-&lt;p&gt;请问我现在入门前端还来得及吗？&lt;/p&gt;
-&lt;p&gt;比如说我学习 let/const/var 的区别这种基础知识，还有必要学吗？&lt;/p&gt;
-&lt;p&gt;还是现在入职公司，都是用 AI 写提示词呢？&lt;/p&gt;
-&lt;p&gt;有真正在公司上班的前端吗？现在真的是不写代码了吗？&lt;/p&gt;
+      <title>各位现在还在用 GPT 还是转向别的 LLM</title>
+      <link>https://www.v2ex.com/t/1193220</link>
+      <guid>v2ex-1193220</guid>
+      <pubDate>Thu, 19 Feb 2026 03:42:34 GMT</pubDate>
+      <description>&lt;p&gt;现在涉及价值判断和社会科学的问题我都不问 GPT 了，因为它会一直端水、和稀泥、扮好人，想教育我的价值观。指责他错他还会先狡辩，然后继续装圣母输出道德正确的废话。Grok 感觉过于刻意俏皮，一定要嘻嘻哈哈，有效信息密度很低。Gemini 稍微平衡点&lt;/p&gt;
 </description>
     </item>
   </channel>
