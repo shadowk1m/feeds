@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Feb 2026 21:22:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 21:54:21 GMT</lastBuildDate>
     <item>
       <title>Gemini 突然删除了我所有的 conversation history</title>
       <link>https://www.v2ex.com/t/1193217</link>
@@ -87,54 +87,6 @@
 </description>
     </item>
     <item>
-      <title>BNBrain 进展更新：现在可以全程 AI 部署并自动验证合约到 BSCScan 了</title>
-      <link>https://www.v2ex.com/t/1193209</link>
-      <guid>v2ex-1193209</guid>
-      <pubDate>Wed, 18 Feb 2026 21:40:57 GMT</pubDate>
-      <description>&lt;p&gt;接上篇：&lt;a href=&quot;https://www.v2ex.com/t/1192982&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1192982&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这两天主要在做一件事：优化体验和合约部署这条链路从头到尾打通。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;img alt=&quot;Contract Deployment Flow&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.bnbrain.dev/contract.png&quot;/&gt;
-&lt;img alt=&quot;Deep Token Analysis&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.bnbrain.dev/deep.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;全流程是什么意思&lt;/h2&gt;
-&lt;p&gt;不是&quot;AI 帮你写 Solidity 代码，然后你自己去部署&quot;——而是真的全程：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;你描述需求，AI 跟你澄清细节&lt;/li&gt;
-&lt;li&gt;自动生成 Solidity 代码&lt;/li&gt;
-&lt;li&gt;调用 solc 编译&lt;/li&gt;
-&lt;li&gt;你本地签名确认（私钥不离本地）&lt;/li&gt;
-&lt;li&gt;自动部署上链&lt;/li&gt;
-&lt;li&gt;自动提交验证到 BSCScan&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;全程你只需要&lt;strong&gt;说清楚你要什么 + 最后签一次名&lt;/strong&gt;。不需要装开发环境，不需要看文档，不需要手动去 BSCScan 填验证表单。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;真实案例&lt;/h2&gt;
-&lt;p&gt;我让它给我开发了一个代币合约，完整对话可以打开继续聊：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;对话记录：&lt;a href=&quot;https://app.bnbrain.dev/share/33db3d86-9d43-445f-86c3-edaf6ac3b8df&quot; rel=&quot;nofollow&quot;&gt;https://app.bnbrain.dev/share/33db3d86-9d43-445f-86c3-edaf6ac3b8df&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;部署交易：&lt;a href=&quot;https://bscscan.com/tx/0xf8b311de7edeb1cedd84a37d006e745b4a398cffde25dd5b18511a8f1b948d3a&quot; rel=&quot;nofollow&quot;&gt;https://bscscan.com/tx/0xf8b311d...&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;合约地址（已验证）：&lt;a href=&quot;https://bscscan.com/address/0xb0539f4ebf9d0718283cbcf69fa9fc0e56454a5c#code&quot; rel=&quot;nofollow&quot;&gt;https://bscscan.com/address/0xb0539f4e...&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;交互体验上也做了改动&lt;/h2&gt;
-&lt;p&gt;右侧新增了独立的交互卡片区域，每一步操作都有对应的结构化卡片，前面的卡片会自动折叠，整个流程不会乱。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;接下来要做&lt;/h2&gt;
-&lt;p&gt;合约部署之后，下一步是&lt;strong&gt;自动生成配套的管理页面和交互页面&lt;/strong&gt;，直接部署到 Cloudflare Pages ，用户不需要自己建站就能对这个合约进行管理和操作。&lt;/p&gt;
-&lt;p&gt;再往后是把编程 Agent 和区块链 Agent 真正结合——Docker 沙箱环境、链上数据直接拉取用于量化分析、GitHub 自动推送、跨链桥聚合等，慢慢来。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;想体验的话&lt;/h2&gt;
-&lt;p&gt;直接打开 &lt;a href=&quot;https://app.bnbrain.dev&quot; rel=&quot;nofollow&quot;&gt;https://app.bnbrain.dev&lt;/a&gt;，免费，不用注册。&lt;/p&gt;
-&lt;p&gt;可以用 &lt;strong&gt;opBNB 测试网&lt;/strong&gt;跑合约部署，费用极低。需要测试资金的留一下地址，我可以给一点够跑几次的 BNB 。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;小福利&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;本帖 20 号前评论的 V2EXer&lt;/strong&gt;，项目后续能持续做下去的话，送永久 Pro 套餐，代码编写和审查会上 Claude Opus 4.6/codex 5.3 Xhigh 等强模型。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;最后，项目在参加 BNB Chain 的黑客松，体验后觉得还不错的话欢迎去点个 Upvote ，感谢：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://dorahacks.io/buidl/39521&quot; rel=&quot;nofollow&quot;&gt;https://dorahacks.io/buidl/39521&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>[吐槽] 零基础靠 AI 搓了个佳能打印小程序，自己还没用热乎就被微信永封了...</title>
       <link>https://www.v2ex.com/t/1193256</link>
       <guid>v2ex-1193256</guid>
@@ -148,6 +100,13 @@
       <pubDate>Thu, 19 Feb 2026 07:43:21 GMT</pubDate>
       <description>&lt;p&gt;当时还只是 codepilot 辅助编程，现在 ai 编程这么广泛先进，年后准备找工作了，想知道最近找工作的朋友，现在面试还是要刷题和背八股吗？面试有什么新的变化可以准备的吗&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>美团总是创建桌面广告</title>
+      <link>https://www.v2ex.com/t/1193239</link>
+      <guid>v2ex-1193239</guid>
+      <pubDate>Thu, 19 Feb 2026 10:10:45 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/1v1UuqL_d.webp?maxwidth=760&amp;amp;fidelity=grand&quot; rel=&quot;nofollow noopener&quot;&gt;https://i.imgur.com/1v1UuqL_d.webp?maxwidth=760&amp;amp;fidelity=grand&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;左上角的美团小说是什么东西&lt;br /&gt;&lt;br /&gt;一加手机，已经在系统里关闭它的所有权限了&lt;br /&gt;&lt;br /&gt;系统的小布什么的乱七八糟的都关闭了&lt;br /&gt;&lt;br /&gt;但是打开美团还是时不时创建出来</description>
     </item>
   </channel>
 </rss>
