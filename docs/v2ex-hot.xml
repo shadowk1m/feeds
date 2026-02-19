@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Feb 2026 14:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 15:11:02 GMT</lastBuildDate>
     <item>
       <title>Gemini 突然删除了我所有的 conversation history</title>
       <link>https://www.v2ex.com/t/1193217</link>
@@ -22,13 +22,6 @@
       <pubDate>Thu, 19 Feb 2026 03:42:34 GMT</pubDate>
       <description>&lt;p&gt;现在涉及价值判断和社会科学的问题我都不问 GPT 了，因为它会一直端水、和稀泥、扮好人，想教育我的价值观。指责他错他还会先狡辩，然后继续装圣母输出道德正确的废话。Grok 感觉过于刻意俏皮，一定要嘻嘻哈哈，有效信息密度很低。Gemini 稍微平衡点&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>26 年研发环境预测，更累？</title>
-      <link>https://www.v2ex.com/t/1193194</link>
-      <guid>v2ex-1193194</guid>
-      <pubDate>Wed, 18 Feb 2026 14:14:37 GMT</pubDate>
-      <description>虽然 v 友们或者大厂可能已经 vibe coding 很久了，但是估计还没有铺的很开。&lt;br /&gt;&lt;br /&gt;今年隐约会有这样的一种趋势：&lt;br /&gt;&lt;br /&gt;部分远离一线已久的中上层管理会更“折腾”人，尤其是中小公司的那种管理，他们在宣传和 PPT 中感觉 llm 已经差不多大成，可以很好的提效了。估计会下达一些”浮夸风“的命令，他们会认为以往预估在半个月～一个月的工作量项目可以压缩到两三天。&lt;br /&gt;&lt;br /&gt;于是，他们会肆无忌惮的下达“亩产万斤”式的指令，并毫无顾忌的让一线员工使用和转换不熟悉的技术栈。快速迭代，快速上线。</description>
     </item>
     <item>
       <title>书房桌子小， Studio Display 想接两台主机（Mac Mini + Win 4090），求方案</title>
@@ -51,6 +44,48 @@
       <guid>v2ex-1193247</guid>
       <pubDate>Thu, 19 Feb 2026 11:04:55 GMT</pubDate>
       <description>因为看不惯当前所谓玻璃质感的审美，所以一直没有升级 MacOS26 。&lt;br /&gt;&lt;br /&gt;并且按照 v 友教的已经把更新链接重置为 &lt;a target=&quot;_blank&quot; href=&quot;http://www.example.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.example.com&lt;/a&gt; 了。&lt;br /&gt;&lt;br /&gt;但是苹果系统还是每隔一段时间提醒我一次 install tonight 。</description>
+    </item>
+    <item>
+      <title>手机的定位好坏竟然和 SIM 卡几乎没有关系</title>
+      <link>https://www.v2ex.com/t/1193213</link>
+      <guid>v2ex-1193213</guid>
+      <pubDate>Thu, 19 Feb 2026 02:34:31 GMT</pubDate>
+      <description>&lt;h3&gt;问题描述&lt;/h3&gt;
+&lt;p&gt;op 使用的是去年发布的 iPhone 17 pro, SIM 卡是中国联通&lt;/p&gt;
+&lt;p&gt;从上一代 iPhone 13 迭代上来, SIM 没有更换, 发现 17 的定位似乎比 13 还不靠谱&lt;/p&gt;
+&lt;h4&gt;问题表现&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;使用 keep 在城市的公园(附近有高楼)绕圈跑步, 运动轨迹出现很乱的概率变多了&lt;/li&gt;
+&lt;li&gt;更换了一天朋友的电信卡, 在同样的公园绕圈跑步, 轨迹混乱的程度很少. 但测试样本只有这一次, 无法确认是否为 SIM 的增益&lt;/li&gt;
+&lt;li&gt;使用百度地图导航时, 人还在原地就提示已经偏航, 且次数不少. 这我理解为定位漂移, 导致了地图提示偏航&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;思考&lt;/h3&gt;
+&lt;p&gt;一直以为是中国联通的问题, 毕竟三大运营商里面它的信号最差了&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当然我也知道 iPhone 本身也有问题, 但显然更换 SIM 卡的成本更低&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;想起来有一些手表是有 GPS 功能的, 而且它们也不需要插入 SIM 卡, 那么就说明 GPS 不需要 SIM 卡的帮助也能进行&lt;/p&gt;
+&lt;p&gt;问了一下 ai. 果然, SIM 卡的定位精度更差, 我的跑步路线虽然很乱, 但确确实实没有出现 10m 这么大的误差, SIM 卡主要是在 GPS 中充当了辅助的定位&lt;/p&gt;
+&lt;h3&gt;新的问题&lt;/h3&gt;
+&lt;p&gt;那么新的问题来了, 既然更换 SIM 卡的增益不大, 难道只能更换手机了吗? 还是说我哪里的操作有问题?&lt;/p&gt;
+&lt;p&gt;以下因素已排除&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;省电模式没有开启&lt;/li&gt;
+&lt;li&gt;后台刷新开启&lt;/li&gt;
+&lt;li&gt;GPS 权限肯定也给了&lt;/li&gt;
+&lt;li&gt;手机壳是凯夫拉材质的&lt;/li&gt;
+&lt;li&gt;平时跑步手机放在腰包里&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;顾虑&lt;/h4&gt;
+&lt;p&gt;ai 推荐我买一个带 GPS 功能的手表, 但我已经有一个小米手环(无 GPS). 专门买一个运动手表, 成本有点高, 而且我不太喜欢手上戴东西(可以的话, 其实手机我也不想带)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>有没有免费易用的 md 编辑器推荐一下</title>
+      <link>https://www.v2ex.com/t/1193229</link>
+      <guid>v2ex-1193229</guid>
+      <pubDate>Thu, 19 Feb 2026 06:45:12 GMT</pubDate>
+      <description>最近在学习码字，&lt;br /&gt;用 wps 总觉得太重，&lt;br /&gt;印象笔记和有道比较有点卡，&lt;br /&gt;比较习惯 md 的码字方式，&lt;br /&gt;想要找一个免费易用的 md 编辑器，&lt;br /&gt;没有强烈的联网要求。&lt;br /&gt;&lt;br /&gt;之前用过 typora ，&lt;br /&gt;非常喜欢这种极简风格的编辑器，&lt;br /&gt;网上说的免费版本目前官网已经找不到，&lt;br /&gt;且不确定是否支持 mac arm 。&lt;br /&gt;&lt;br /&gt;看过 notion ，obsdian ，都不大行。&lt;br /&gt;&lt;br /&gt;求各位大佬推荐一个简单的 md 编辑器，&lt;br /&gt;纯粹的 md 编辑器，&lt;br /&gt;不需要花里胡哨的其他功能。</description>
     </item>
     <item>
       <title>BNBrain 进展更新：现在可以全程 AI 部署并自动验证合约到 BSCScan 了</title>
@@ -101,41 +136,6 @@
 </description>
     </item>
     <item>
-      <title>手机的定位好坏竟然和 SIM 卡几乎没有关系</title>
-      <link>https://www.v2ex.com/t/1193213</link>
-      <guid>v2ex-1193213</guid>
-      <pubDate>Thu, 19 Feb 2026 02:34:31 GMT</pubDate>
-      <description>&lt;h3&gt;问题描述&lt;/h3&gt;
-&lt;p&gt;op 使用的是去年发布的 iPhone 17 pro, SIM 卡是中国联通&lt;/p&gt;
-&lt;p&gt;从上一代 iPhone 13 迭代上来, SIM 没有更换, 发现 17 的定位似乎比 13 还不靠谱&lt;/p&gt;
-&lt;h4&gt;问题表现&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;使用 keep 在城市的公园(附近有高楼)绕圈跑步, 运动轨迹出现很乱的概率变多了&lt;/li&gt;
-&lt;li&gt;更换了一天朋友的电信卡, 在同样的公园绕圈跑步, 轨迹混乱的程度很少. 但测试样本只有这一次, 无法确认是否为 SIM 的增益&lt;/li&gt;
-&lt;li&gt;使用百度地图导航时, 人还在原地就提示已经偏航, 且次数不少. 这我理解为定位漂移, 导致了地图提示偏航&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;思考&lt;/h3&gt;
-&lt;p&gt;一直以为是中国联通的问题, 毕竟三大运营商里面它的信号最差了&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;当然我也知道 iPhone 本身也有问题, 但显然更换 SIM 卡的成本更低&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;想起来有一些手表是有 GPS 功能的, 而且它们也不需要插入 SIM 卡, 那么就说明 GPS 不需要 SIM 卡的帮助也能进行&lt;/p&gt;
-&lt;p&gt;问了一下 ai. 果然, SIM 卡的定位精度更差, 我的跑步路线虽然很乱, 但确确实实没有出现 10m 这么大的误差, SIM 卡主要是在 GPS 中充当了辅助的定位&lt;/p&gt;
-&lt;h3&gt;新的问题&lt;/h3&gt;
-&lt;p&gt;那么新的问题来了, 既然更换 SIM 卡的增益不大, 难道只能更换手机了吗? 还是说我哪里的操作有问题?&lt;/p&gt;
-&lt;p&gt;以下因素已排除&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;省电模式没有开启&lt;/li&gt;
-&lt;li&gt;后台刷新开启&lt;/li&gt;
-&lt;li&gt;GPS 权限肯定也给了&lt;/li&gt;
-&lt;li&gt;手机壳是凯夫拉材质的&lt;/li&gt;
-&lt;li&gt;平时跑步手机放在腰包里&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4&gt;顾虑&lt;/h4&gt;
-&lt;p&gt;ai 推荐我买一个带 GPS 功能的手表, 但我已经有一个小米手环(无 GPS). 专门买一个运动手表, 成本有点高, 而且我不太喜欢手上戴东西(可以的话, 其实手机我也不想带)&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>同级别年限差不多的测试 QA 薪资比开发高，你觉得合理吗</title>
       <link>https://www.v2ex.com/t/1193216</link>
       <guid>v2ex-1193216</guid>
@@ -143,11 +143,11 @@
       <description>以我们公司当前研发团队为例，在同级别、年限差不多的情况下，确实存在测试 QA 薪资高于开发的情况。&lt;br /&gt;&lt;br /&gt;A 同事，后端开发工程师&lt;br /&gt;&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：25K&lt;br /&gt;&lt;br /&gt;B 同事，测试 QA 工程师&lt;br /&gt;入职 4 年&lt;br /&gt;职级：P6&lt;br /&gt;月薪：28K&lt;br /&gt;&lt;br /&gt;从表面看，两人年限相当、职级一致，但 QA 的薪资明显高于开发。   你觉得合理吗</description>
     </item>
     <item>
-      <title>有没有免费易用的 md 编辑器推荐一下</title>
-      <link>https://www.v2ex.com/t/1193229</link>
-      <guid>v2ex-1193229</guid>
-      <pubDate>Thu, 19 Feb 2026 06:45:12 GMT</pubDate>
-      <description>最近在学习码字，&lt;br /&gt;用 wps 总觉得太重，&lt;br /&gt;印象笔记和有道比较有点卡，&lt;br /&gt;比较习惯 md 的码字方式，&lt;br /&gt;想要找一个免费易用的 md 编辑器，&lt;br /&gt;没有强烈的联网要求。&lt;br /&gt;&lt;br /&gt;之前用过 typora ，&lt;br /&gt;非常喜欢这种极简风格的编辑器，&lt;br /&gt;网上说的免费版本目前官网已经找不到，&lt;br /&gt;且不确定是否支持 mac arm 。&lt;br /&gt;&lt;br /&gt;看过 notion ，obsdian ，都不大行。&lt;br /&gt;&lt;br /&gt;求各位大佬推荐一个简单的 md 编辑器，&lt;br /&gt;纯粹的 md 编辑器，&lt;br /&gt;不需要花里胡哨的其他功能。</description>
+      <title>有 Web 生态概念但静不下心学基础 HTML，导致永远卡在入门，这种状态怎么破？</title>
+      <link>https://www.v2ex.com/t/1193198</link>
+      <guid>v2ex-1193198</guid>
+      <pubDate>Wed, 18 Feb 2026 15:41:03 GMT</pubDate>
+      <description>如题，想请教下论坛里的各位大佬。&lt;br /&gt;&lt;br /&gt;本人情况比较尴尬：对整个 Web 生态（ git 、框架特性、前后端分离、API 、docker ）都有些认知，基本能跟程序员沟通得挺顺畅。但每当自己想动手撸个小工具、改改开源项目的代码时，就彻底卡壳。&lt;br /&gt;&lt;br /&gt;目前病灶：&lt;br /&gt;&lt;br /&gt;入门教程 PTSD： 每次想学写代码，打开教程或是写 HTML 这种东西就极度烦躁。感觉像是在做纯体力活，很无趣，没有那种即时反馈感觉。&lt;br /&gt;&lt;br /&gt;依赖外包惯性： 因为自己动手能力跟不上大脑，目前想做的工具基本都找固定配合的兄弟代劳了。但看到好玩的项目还是希望能自己改两行，这种有力使不出的感觉挺折磨人。&lt;br /&gt;&lt;br /&gt;目标导向太强： 其实就是坐不住冷板凳，想跳过基础阶段直接盖楼，但做一些啥闹钟计时器的又太无聊。&lt;br /&gt;&lt;br /&gt;主要问题：&lt;br /&gt;&lt;br /&gt;像我这种已经有一些知识点，但极度排斥枯燥的，但想达到能自力更生写点工具的水平，应该从什么路径切入？&lt;br /&gt;&lt;br /&gt;有没有经历过类似阶段的朋友分享下经验？或者是推荐一些学习路径？&lt;br /&gt;&lt;br /&gt;感谢各位！</description>
     </item>
   </channel>
 </rss>
