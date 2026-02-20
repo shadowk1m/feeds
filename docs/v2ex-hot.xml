@@ -4,15 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 20 Feb 2026 03:42:37 GMT</lastBuildDate>
-    <item>
-      <title>各位现在还在用 GPT 还是转向别的 LLM</title>
-      <link>https://www.v2ex.com/t/1193220</link>
-      <guid>v2ex-1193220</guid>
-      <pubDate>Thu, 19 Feb 2026 03:42:34 GMT</pubDate>
-      <description>&lt;p&gt;现在涉及价值判断和社会科学的问题我都不问 GPT 了，因为它会一直端水、和稀泥、扮好人，想教育我的价值观。指责他错他还会先狡辩，然后继续装圣母输出道德正确的废话。Grok 感觉过于刻意俏皮，一定要嘻嘻哈哈，有效信息密度很低。Gemini 稍微平衡点&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 05:11:25 GMT</lastBuildDate>
     <item>
       <title>系统逼着用户升级到底是合理的还是不合理的</title>
       <link>https://www.v2ex.com/t/1193247</link>
@@ -35,14 +27,6 @@
       <description>最近在学习码字，&lt;br /&gt;用 wps 总觉得太重，&lt;br /&gt;印象笔记和有道比较有点卡，&lt;br /&gt;比较习惯 md 的码字方式，&lt;br /&gt;想要找一个免费易用的 md 编辑器，&lt;br /&gt;没有强烈的联网要求。&lt;br /&gt;&lt;br /&gt;之前用过 typora ，&lt;br /&gt;非常喜欢这种极简风格的编辑器，&lt;br /&gt;网上说的免费版本目前官网已经找不到，&lt;br /&gt;且不确定是否支持 mac arm 。&lt;br /&gt;&lt;br /&gt;看过 notion ，obsdian ，都不大行。&lt;br /&gt;&lt;br /&gt;求各位大佬推荐一个简单的 md 编辑器，&lt;br /&gt;纯粹的 md 编辑器，&lt;br /&gt;不需要花里胡哨的其他功能。</description>
     </item>
     <item>
-      <title>现在的主旋律洗脑作用真大。</title>
-      <link>https://www.v2ex.com/t/1193278</link>
-      <guid>v2ex-1193278</guid>
-      <pubDate>Fri, 20 Feb 2026 02:28:42 GMT</pubDate>
-      <description>&lt;p&gt;大年初三晚上，在 youtube 上看有个 UP 在总结 2025 十大烂片，其中讲到 731 的时候，9 岁的儿子跑过来看了一会，突然说： 爸，我想手搓个核弹送个日本。大为震撼。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>被裁员玩了快一年了</title>
       <link>https://www.v2ex.com/t/1193233</link>
       <guid>v2ex-1193233</guid>
@@ -56,6 +40,13 @@
       <guid>v2ex-1193256</guid>
       <pubDate>Thu, 19 Feb 2026 14:22:25 GMT</pubDate>
       <description>最近入了一台佳能的 mf667Cdw 一体机。因为是水货，没法接入佳能国内官方的微信小程序，只能硬着头皮用官方 App 。&lt;br /&gt;但官方 App 体验实在一言难尽：&lt;br /&gt;1. 网络受限：只支持局域网打印，想远程的话得绕道各种云服务，国内的网络环境用起来极其不友好。&lt;br /&gt;2. 排版 Bug：打印预览有玄学问题，明明 5 页的文档，预览出来硬生生只有 4 页，根本不敢放心打。&lt;br /&gt;为了解决这个痛点，就想着自己动手丰衣足食。在 Gemini 的帮助下，我尝试开发了一个微信小程序。&lt;br /&gt;我本人是完全没有开发经验的纯小白，全靠着 AI 一步步指导实现各种功能。期间经历了无数次枯燥的 debug 。当代码终于跑通，提交审核并且顺利发布的那一刻，那种成就感和兴奋感真的是拉满了。&lt;br /&gt;结果还没高兴多久，微信突然提示我“恶意注册”，直接把小程序给永封了。&lt;br /&gt;说实话真的挺唏嘘的。这个小程序：&lt;br /&gt;• 从头到尾就我自己一个人在用。&lt;br /&gt;• 因为没有经过认证，它根本不会被公开搜索到。&lt;br /&gt;• 被封禁后，连站内私信通道都打不开了，死得不明不白，连自己到底触犯了哪条规则都不知道。&lt;br /&gt;后来我又在微信上搜了一下同类的小程序，发现很多具备同样功能的第三方工具都在正常存活。但毕竟打印件经常涉及敏感信息，总担心第三方小程序的隐私问题，这才想着自己搞一个，结果卡在了平台生态的黑盒里。&lt;br /&gt;纯吐槽，辛辛苦苦跟 AI 一起敲的代码就这样没了，实在太搞心态了。</description>
+    </item>
+    <item>
+      <title>AI 能力大幅提升后，我们大部分人是不是躺平就可以了？</title>
+      <link>https://www.v2ex.com/t/1193282</link>
+      <guid>v2ex-1193282</guid>
+      <pubDate>Fri, 20 Feb 2026 03:23:33 GMT</pubDate>
+      <description>春晚观后感：现在的 AI 智能体+有型的实体=完美人类；之后人形机器人大量投产后，大部分工作都不需要普通人了（普通人有肉体限制、认知限制等不可控因素，但仿生人没有），如此一来，大量普通人确实「没用」了，到那时会发生什么呢？</description>
     </item>
     <item>
       <title>介绍一下大一学生使用 Flutter+Rust 开发的一站式学习工作台</title>
