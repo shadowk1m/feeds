@@ -4,13 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 20 Feb 2026 08:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 09:02:54 GMT</lastBuildDate>
     <item>
-      <title>系统逼着用户升级到底是合理的还是不合理的</title>
-      <link>https://www.v2ex.com/t/1193247</link>
-      <guid>v2ex-1193247</guid>
-      <pubDate>Thu, 19 Feb 2026 11:04:55 GMT</pubDate>
-      <description>因为看不惯当前所谓玻璃质感的审美，所以一直没有升级 MacOS26 。&lt;br /&gt;&lt;br /&gt;并且按照 v 友教的已经把更新链接重置为 &lt;a target=&quot;_blank&quot; href=&quot;http://www.example.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.example.com&lt;/a&gt; 了。&lt;br /&gt;&lt;br /&gt;但是苹果系统还是每隔一段时间提醒我一次 install tonight 。</description>
+      <title>AI 能力大幅提升后，我们大部分人是不是躺平就可以了？</title>
+      <link>https://www.v2ex.com/t/1193282</link>
+      <guid>v2ex-1193282</guid>
+      <pubDate>Fri, 20 Feb 2026 03:23:33 GMT</pubDate>
+      <description>春晚观后感：现在的 AI 智能体+有型的实体=完美人类；之后人形机器人大量投产后，大部分工作都不需要普通人了（普通人有肉体限制、认知限制等不可控因素，但仿生人没有），如此一来，大量普通人确实「没用」了，到那时会发生什么呢？</description>
     </item>
     <item>
       <title>书房桌子小， Studio Display 想接两台主机（Mac Mini + Win 4090），求方案</title>
@@ -20,11 +20,11 @@
       <description>背景&lt;br /&gt;书房桌子比较小，只能放一台显示器。目前在用 Apple Studio Display ，主要搭配 Mac Mini 使用，日常办公效率很高，已经很习惯这套组合了。&lt;br /&gt;另外还有一台 Windows 主机，配置是 RTX 4090 + 华硕 ProArt 显卡（带 Type-C 接口），主要用来打游戏和跑 4090 的算力。&lt;br /&gt;现在的痛点是：两台主机想共用这一台 Studio Display ，找不到好的切换方案。&lt;br /&gt;已经尝试/了解过的方案&lt;br /&gt;1. 串流（ Moonlight / Parsec 等）&lt;br /&gt;试了一下，体验不太行，有明显延迟和画质损失，尤其打游戏的时候感知很强，暂时放弃了。&lt;br /&gt;2. KVM 切换器&lt;br /&gt;网上搜了一圈，支持 Studio Display （ Thunderbolt 接口）的 KVM 好像目前只有一款，价格要 2000 多，而且不确定实际体验如何，有点犹豫。&lt;br /&gt;3. 来回拔插线缆&lt;br /&gt;理论上可行，但 Studio Display 背后的 Thunderbolt 口不太好够到，每次拔插太麻烦了，而且频繁拔插怕伤接口，不是长久之计。&lt;br /&gt;我的需求&lt;br /&gt;&lt;br /&gt;平时 80% 时间用 Mac Mini + Studio Display 办公，这套组合不想动&lt;br /&gt;偶尔切到 Windows 打游戏或用 4090 跑计算任务&lt;br /&gt;切换过程尽量简单，最好不用爬到显示器后面拔线&lt;br /&gt;预算合理就行，不是不能花钱，但想花得值&lt;br /&gt;&lt;br /&gt;想问问大家&lt;br /&gt;&lt;br /&gt;有没有靠谱的 Thunderbolt KVM 方案推荐？用过的说说体验？&lt;br /&gt;有没有什么我没想到的方案，比如转接、扩展坞之类的玩法？&lt;br /&gt;同样双主机的朋友是怎么解决的？&lt;br /&gt;或者说，这个场景下是不是干脆再买一台支持多输入的显示器更合理？（但真的很喜欢 Studio Display 的效果…）&lt;br /&gt;&lt;br /&gt;感谢各位大佬指点 🙏</description>
     </item>
     <item>
-      <title>AI 能力大幅提升后，我们大部分人是不是躺平就可以了？</title>
-      <link>https://www.v2ex.com/t/1193282</link>
-      <guid>v2ex-1193282</guid>
-      <pubDate>Fri, 20 Feb 2026 03:23:33 GMT</pubDate>
-      <description>春晚观后感：现在的 AI 智能体+有型的实体=完美人类；之后人形机器人大量投产后，大部分工作都不需要普通人了（普通人有肉体限制、认知限制等不可控因素，但仿生人没有），如此一来，大量普通人确实「没用」了，到那时会发生什么呢？</description>
+      <title>系统逼着用户升级到底是合理的还是不合理的</title>
+      <link>https://www.v2ex.com/t/1193247</link>
+      <guid>v2ex-1193247</guid>
+      <pubDate>Thu, 19 Feb 2026 11:04:55 GMT</pubDate>
+      <description>因为看不惯当前所谓玻璃质感的审美，所以一直没有升级 MacOS26 。&lt;br /&gt;&lt;br /&gt;并且按照 v 友教的已经把更新链接重置为 &lt;a target=&quot;_blank&quot; href=&quot;http://www.example.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.example.com&lt;/a&gt; 了。&lt;br /&gt;&lt;br /&gt;但是苹果系统还是每隔一段时间提醒我一次 install tonight 。</description>
     </item>
     <item>
       <title>[吐槽] 零基础靠 AI 搓了个佳能打印小程序，自己还没用热乎就被微信永封了...</title>
