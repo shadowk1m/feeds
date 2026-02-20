@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 20 Feb 2026 06:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 07:28:17 GMT</lastBuildDate>
     <item>
       <title>系统逼着用户升级到底是合理的还是不合理的</title>
       <link>https://www.v2ex.com/t/1193247</link>
@@ -18,13 +18,6 @@
       <guid>v2ex-1193238</guid>
       <pubDate>Thu, 19 Feb 2026 09:40:55 GMT</pubDate>
       <description>背景&lt;br /&gt;书房桌子比较小，只能放一台显示器。目前在用 Apple Studio Display ，主要搭配 Mac Mini 使用，日常办公效率很高，已经很习惯这套组合了。&lt;br /&gt;另外还有一台 Windows 主机，配置是 RTX 4090 + 华硕 ProArt 显卡（带 Type-C 接口），主要用来打游戏和跑 4090 的算力。&lt;br /&gt;现在的痛点是：两台主机想共用这一台 Studio Display ，找不到好的切换方案。&lt;br /&gt;已经尝试/了解过的方案&lt;br /&gt;1. 串流（ Moonlight / Parsec 等）&lt;br /&gt;试了一下，体验不太行，有明显延迟和画质损失，尤其打游戏的时候感知很强，暂时放弃了。&lt;br /&gt;2. KVM 切换器&lt;br /&gt;网上搜了一圈，支持 Studio Display （ Thunderbolt 接口）的 KVM 好像目前只有一款，价格要 2000 多，而且不确定实际体验如何，有点犹豫。&lt;br /&gt;3. 来回拔插线缆&lt;br /&gt;理论上可行，但 Studio Display 背后的 Thunderbolt 口不太好够到，每次拔插太麻烦了，而且频繁拔插怕伤接口，不是长久之计。&lt;br /&gt;我的需求&lt;br /&gt;&lt;br /&gt;平时 80% 时间用 Mac Mini + Studio Display 办公，这套组合不想动&lt;br /&gt;偶尔切到 Windows 打游戏或用 4090 跑计算任务&lt;br /&gt;切换过程尽量简单，最好不用爬到显示器后面拔线&lt;br /&gt;预算合理就行，不是不能花钱，但想花得值&lt;br /&gt;&lt;br /&gt;想问问大家&lt;br /&gt;&lt;br /&gt;有没有靠谱的 Thunderbolt KVM 方案推荐？用过的说说体验？&lt;br /&gt;有没有什么我没想到的方案，比如转接、扩展坞之类的玩法？&lt;br /&gt;同样双主机的朋友是怎么解决的？&lt;br /&gt;或者说，这个场景下是不是干脆再买一台支持多输入的显示器更合理？（但真的很喜欢 Studio Display 的效果…）&lt;br /&gt;&lt;br /&gt;感谢各位大佬指点 🙏</description>
-    </item>
-    <item>
-      <title>有没有免费易用的 md 编辑器推荐一下</title>
-      <link>https://www.v2ex.com/t/1193229</link>
-      <guid>v2ex-1193229</guid>
-      <pubDate>Thu, 19 Feb 2026 06:45:12 GMT</pubDate>
-      <description>最近在学习码字，&lt;br /&gt;用 wps 总觉得太重，&lt;br /&gt;印象笔记和有道比较有点卡，&lt;br /&gt;比较习惯 md 的码字方式，&lt;br /&gt;想要找一个免费易用的 md 编辑器，&lt;br /&gt;没有强烈的联网要求。&lt;br /&gt;&lt;br /&gt;之前用过 typora ，&lt;br /&gt;非常喜欢这种极简风格的编辑器，&lt;br /&gt;网上说的免费版本目前官网已经找不到，&lt;br /&gt;且不确定是否支持 mac arm 。&lt;br /&gt;&lt;br /&gt;看过 notion ，obsdian ，都不大行。&lt;br /&gt;&lt;br /&gt;求各位大佬推荐一个简单的 md 编辑器，&lt;br /&gt;纯粹的 md 编辑器，&lt;br /&gt;不需要花里胡哨的其他功能。</description>
     </item>
     <item>
       <title>AI 能力大幅提升后，我们大部分人是不是躺平就可以了？</title>
@@ -54,17 +47,6 @@
       <guid>v2ex-1193276</guid>
       <pubDate>Fri, 20 Feb 2026 02:03:21 GMT</pubDate>
       <description>5.0 还没体验过呢，10 点钟发售，一分钟不到只有 Max 了，但是太贵。。</description>
-    </item>
-    <item>
-      <title>不是，这就是吹的很火的 codex 5.3 吗？我才第一次体验就把我文件清空了。。</title>
-      <link>https://www.v2ex.com/t/1193244</link>
-      <guid>v2ex-1193244</guid>
-      <pubDate>Thu, 19 Feb 2026 10:40:06 GMT</pubDate>
-      <description>&lt;p&gt;第一次用 vscode 玩，之前都是网页对话框里改代码，
-结果一直等啊等搞好久，结果提示
-&lt;img alt=&quot;yBsJ5t.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/02/19/yBsJ5t.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;真的挺无语的。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>介绍一下大一学生使用 Flutter+Rust 开发的一站式学习工作台</title>
@@ -131,6 +113,64 @@
 &lt;p&gt;我的个人主页&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://asaka.moe&quot; rel=&quot;nofollow&quot;&gt;个人主页&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;欢迎各位 V 友提提建议、聊聊想法，不管是功能方向还是设计细节都很想听听反馈 🙏&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>不是，这就是吹的很火的 codex 5.3 吗？我才第一次体验就把我文件清空了。。</title>
+      <link>https://www.v2ex.com/t/1193244</link>
+      <guid>v2ex-1193244</guid>
+      <pubDate>Thu, 19 Feb 2026 10:40:06 GMT</pubDate>
+      <description>&lt;p&gt;第一次用 vscode 玩，之前都是网页对话框里改代码，
+结果一直等啊等搞好久，结果提示
+&lt;img alt=&quot;yBsJ5t.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/02/19/yBsJ5t.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;真的挺无语的。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>顺风车从开始到放弃</title>
+      <link>https://www.v2ex.com/t/1193284</link>
+      <guid>v2ex-1193284</guid>
+      <pubDate>Fri, 20 Feb 2026 03:29:34 GMT</pubDate>
+      <description>&lt;h2&gt;简述&lt;/h2&gt;
+&lt;p&gt;笔者从年前认证车主到现在的战绩是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;滴滴拉了 3 单， 赚取了 369.62 元  额外花差不多 3 ~ 4 个小时。 总里程数 807 公里。 （首单奖励了 30 元） &lt;/li&gt;
+&lt;li&gt;滴滴有一单到了地方联系不上人，打电话空号， 随后笔者取消了&lt;/li&gt;
+&lt;li&gt;滴滴有一单去的路上 对方有事取消了&lt;/li&gt;
+&lt;li&gt;哈啰顺风车拉了两单  赚取了 320 元，  不算绕路是 452 公里。  有一单乘客吐了， 虽然没直接在吐在车上，笔者看到他的时候， 他在捂嘴。。 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;详细过程&lt;/h2&gt;
+&lt;h3&gt;选单&lt;/h3&gt;
+&lt;p&gt;滴滴有自动接单， 笔者到没尝试， 应该可以使用一下。  否则按照笔者的经历， 每天差不多花 1 个小时在选单上，主要工作是综合对比，模拟导航。  &lt;/p&gt;
+&lt;p&gt;笔者主要需要关注下面三个因素：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;时间&lt;/li&gt;
+&lt;li&gt;出发地点&lt;/li&gt;
+&lt;li&gt;目的地&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;因为单很少， 所以笔者频繁的看。    然后有些订单看起来很好，但是不付车费，打电话过去对方就说 临时有事不出发了。&lt;/p&gt;
+&lt;p&gt;滴滴有顺路的会发通知给笔者，但是滴滴的顺路 95%  其实也不知道绕到哪里去了。 &lt;/p&gt;
+&lt;h3&gt;接乘客&lt;/h3&gt;
+&lt;p&gt;如果不是特别顺路的话， 需要绕行挺久去接乘客，笔者回老家的时候去接 2 个乘客就差不多花了两个小时， 如果不接的话， 笔者可能总路程就 7-8 个小时。 &lt;/p&gt;
+&lt;p&gt;有些乘客， 你到了， 他还在磨蹭磨蹭，让你等 40 分钟。 &lt;/p&gt;
+&lt;h3&gt;送乘客&lt;/h3&gt;
+&lt;p&gt;笔者本来以为大多都是正常人， 直到第 5 单（哈啰的第二单）碰到一个喝多的， 开一半 要靠边吐，然后弄的车里黏液不少。   &lt;/p&gt;
+&lt;p&gt;走的时候说给 200 清洗费， 到地方了只愿意给 100 ， 一次精洗的钱都不够。  笔者也不是特别在意这没给的 100 块，所以也没多折腾就让他走了， 但是由衷的感觉恶心。  &lt;/p&gt;
+&lt;p&gt;这个人在高速堵车的时候， 啥也没说，突然拉开车门，走下去了。  给笔者吓傻了。  堵车是一会挪动一点的那种。   笔者当时非常后怕， 万一他被撞了怎么办。。&lt;/p&gt;
+&lt;p&gt;有些乘客身上还有点个味道， 然后睡在后排呼噜震天响。 &lt;/p&gt;
+&lt;h3&gt;路线与时间&lt;/h3&gt;
+&lt;p&gt;本来笔者只用走老家的市区乡村路线， 目的地的市区路线， 结果需要接送乘客之后， 需要走很多乘客附近的乡村路线， 那些路线都是 事故多发地段。  两个车道中间使用黄线分割（单向单车道）， 很多借道超车的， 还有重卡，半挂什么的。 笔者来的时候 还看到一个三轮车被一个小轿车撞翻在地， 交警还没来。 &lt;/p&gt;
+&lt;p&gt;返程接的单是非常顺路的单， 但还是多花了差不多 2-4 个小时。 &lt;/p&gt;
+&lt;h3&gt;其他&lt;/h3&gt;
+&lt;p&gt;今天特意在哈啰顺风车里面看了一下，FAQ 里面没说乘客吐车上了怎么办， 万一乘客就是不给钱， 估计报警也没啥用。  &lt;/p&gt;
+&lt;h2&gt;结论&lt;/h2&gt;
+&lt;p&gt;笔者决定再也不跑顺风车了， 本来是想油费回个血， 然后提升一下车子的利用率， 现在看起来太麻烦了，各种不值得。&lt;/p&gt;
+&lt;p&gt;如果解决了接单问题， 也拒绝接喝酒的乘客， 笔者认为下面的问题也是硬伤：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;单价太低&lt;/li&gt;
+&lt;li&gt;绕路太久&lt;/li&gt;
+&lt;li&gt;乡村小道也容易出事故。&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
   </channel>
