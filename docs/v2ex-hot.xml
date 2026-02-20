@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 20 Feb 2026 13:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 14:33:08 GMT</lastBuildDate>
     <item>
       <title>AI 能力大幅提升后，我们大部分人是不是躺平就可以了？</title>
       <link>https://www.v2ex.com/t/1193282</link>
@@ -67,13 +67,6 @@
 </description>
     </item>
     <item>
-      <title>有没有 Oppo 和 Vivo 都用过的老哥？</title>
-      <link>https://www.v2ex.com/t/1193283</link>
-      <guid>v2ex-1193283</guid>
-      <pubDate>Fri, 20 Feb 2026 03:26:39 GMT</pubDate>
-      <description>这两个品牌的系统哪个更好用一些啊，想给爸妈更新一下手机。&lt;br /&gt;他俩因为工作原因使用手机的频率都很高，iPhone 充电太慢就不考虑了&lt;br /&gt;华为因为鸿蒙的原因很多软件适配不太好也不考虑了&lt;br /&gt;目前纠结 OV ，想听听老哥们的意见，新年快乐，感谢🙏</description>
-    </item>
-    <item>
       <title>自组 AI NAS 硬件配置求助，过年没事来聊聊吧</title>
       <link>https://www.v2ex.com/t/1193298</link>
       <guid>v2ex-1193298</guid>
@@ -107,11 +100,11 @@
 </description>
     </item>
     <item>
-      <title>[吐槽] 零基础靠 AI 搓了个佳能打印小程序，自己还没用热乎就被微信永封了...</title>
-      <link>https://www.v2ex.com/t/1193256</link>
-      <guid>v2ex-1193256</guid>
-      <pubDate>Thu, 19 Feb 2026 14:22:25 GMT</pubDate>
-      <description>最近入了一台佳能的 mf667Cdw 一体机。因为是水货，没法接入佳能国内官方的微信小程序，只能硬着头皮用官方 App 。&lt;br /&gt;但官方 App 体验实在一言难尽：&lt;br /&gt;1. 网络受限：只支持局域网打印，想远程的话得绕道各种云服务，国内的网络环境用起来极其不友好。&lt;br /&gt;2. 排版 Bug：打印预览有玄学问题，明明 5 页的文档，预览出来硬生生只有 4 页，根本不敢放心打。&lt;br /&gt;为了解决这个痛点，就想着自己动手丰衣足食。在 Gemini 的帮助下，我尝试开发了一个微信小程序。&lt;br /&gt;我本人是完全没有开发经验的纯小白，全靠着 AI 一步步指导实现各种功能。期间经历了无数次枯燥的 debug 。当代码终于跑通，提交审核并且顺利发布的那一刻，那种成就感和兴奋感真的是拉满了。&lt;br /&gt;结果还没高兴多久，微信突然提示我“恶意注册”，直接把小程序给永封了。&lt;br /&gt;说实话真的挺唏嘘的。这个小程序：&lt;br /&gt;• 从头到尾就我自己一个人在用。&lt;br /&gt;• 因为没有经过认证，它根本不会被公开搜索到。&lt;br /&gt;• 被封禁后，连站内私信通道都打不开了，死得不明不白，连自己到底触犯了哪条规则都不知道。&lt;br /&gt;后来我又在微信上搜了一下同类的小程序，发现很多具备同样功能的第三方工具都在正常存活。但毕竟打印件经常涉及敏感信息，总担心第三方小程序的隐私问题，这才想着自己搞一个，结果卡在了平台生态的黑盒里。&lt;br /&gt;纯吐槽，辛辛苦苦跟 AI 一起敲的代码就这样没了，实在太搞心态了。</description>
+      <title>有没有 Oppo 和 Vivo 都用过的老哥？</title>
+      <link>https://www.v2ex.com/t/1193283</link>
+      <guid>v2ex-1193283</guid>
+      <pubDate>Fri, 20 Feb 2026 03:26:39 GMT</pubDate>
+      <description>这两个品牌的系统哪个更好用一些啊，想给爸妈更新一下手机。&lt;br /&gt;他俩因为工作原因使用手机的频率都很高，iPhone 充电太慢就不考虑了&lt;br /&gt;华为因为鸿蒙的原因很多软件适配不太好也不考虑了&lt;br /&gt;目前纠结 OV ，想听听老哥们的意见，新年快乐，感谢🙏</description>
     </item>
     <item>
       <title>GLM5.0 一分钟不到， Lite 跟 Pro 都抢完了怎么回事</title>
@@ -121,38 +114,42 @@
       <description>5.0 还没体验过呢，10 点钟发售，一分钟不到只有 Max 了，但是太贵。。</description>
     </item>
     <item>
-      <title>Claude VS GLM VS Kimi VS MiniMax VS Gemini 2026 年半年内 Vibe Coding 谁更强？</title>
-      <link>https://www.v2ex.com/t/1193255</link>
-      <guid>v2ex-1193255</guid>
-      <pubDate>Thu, 19 Feb 2026 13:54:49 GMT</pubDate>
-      <description>&lt;p&gt;想咨询一下各位最近使用的这几个模型体感哪个更强呢？&lt;/p&gt;
-&lt;p&gt;Agent 场景，主要是 &lt;strong&gt;tool using/vibe coding&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;入围的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Claude Opus 4.6&lt;/li&gt;
-&lt;li&gt;Claude Sonnet 4.6&lt;/li&gt;
-&lt;li&gt;GLM 5&lt;/li&gt;
-&lt;li&gt;Kimi k2.5&lt;/li&gt;
-&lt;li&gt;MiniMax M2.5&lt;/li&gt;
-&lt;li&gt;Gemini 3&lt;/li&gt;
-&lt;li&gt;Chatgpt 5.2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如果还有推荐的也可以写（比如 chatgpt ）&lt;/p&gt;
-&lt;p&gt;由于 prompt 其实和模型是较为绑定的（这个很类似当年针对某个芯片版本写的汇编优化，当芯片/编译器版本换了，方法也就失灵了），所以希望选择一个半年内持续使用的模型。希望了解一下大家目前在 tool using/vibe coding 哪个更方便？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;公司生产场景，部署在美东&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前在 openrouter 平台，有什么更好的平台也推荐。&lt;/p&gt;
-&lt;p&gt;参考：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://openrouter.ai/rankings?programming-language=JavaScript#programming-languages&quot; rel=&quot;nofollow&quot;&gt;https://openrouter.ai/rankings?programming-language=JavaScript#programming-languages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
       <title>求推荐一个家用路由器，小白不知道怎么搞</title>
       <link>https://www.v2ex.com/t/1193286</link>
       <guid>v2ex-1193286</guid>
       <pubDate>Fri, 20 Feb 2026 04:04:31 GMT</pubDate>
       <description>以前妈妈家里用的还是 WiFi5 的 13000 路由器，打算换个新的。搞不明白换什么。&lt;br /&gt;目前基准看着是小米 211 元的 AX3000 ，更贵能到 400 元 BE6500PRO （但不知道有啥用,只是有点怀疑 WiFi6 是不是有点老了）。&lt;br /&gt;使用多的时候也就四部手机、一个平板、两台电脑、一个智能电视，这样的需求。&lt;br /&gt;（目前科学上网都是手机电脑平板自己开 clash ，想弄代理网络，让妈妈能用电视看看网飞什么的，但是路由器本身做代理网络是不是很难呀，似乎要外挂软路由，但家里没有多余的内存条可以用）&lt;br /&gt;谢谢大佬指点，或者推荐点学习资料也好。实在没有头绪。。。。</description>
+    </item>
+    <item>
+      <title>个人如何选择出海软件的支付方案？</title>
+      <link>https://www.v2ex.com/t/1193329</link>
+      <guid>v2ex-1193329</guid>
+      <pubDate>Fri, 20 Feb 2026 13:39:45 GMT</pubDate>
+      <description>&lt;h2&gt;如何选择出海软件的支付方案？&lt;/h2&gt;
+&lt;p&gt;个体如何合规开发软件，向国际市场销售获取收入？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;paddle&lt;/li&gt;
+&lt;li&gt;lemonsqueezy&lt;/li&gt;
+&lt;li&gt;creem&lt;/li&gt;
+&lt;li&gt;pingpong&lt;/li&gt;
+&lt;li&gt;连连支付（国际）&lt;/li&gt;
+&lt;li&gt;dogpay&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>YouTube premium 被取消续订了，怎么解</title>
+      <link>https://www.v2ex.com/t/1193288</link>
+      <guid>v2ex-1193288</guid>
+      <pubDate>Fri, 20 Feb 2026 04:22:14 GMT</pubDate>
+      <description>&lt;pre&gt;&lt;code&gt;谨以此邮件通知您，我们对您的“YouTube Premium”订阅进行了一项重要更新。
+ 
+我们注意到，您的“YouTube Premium”订阅服务主要在您订阅时所在的国家/地区之外使用。根据我们的服务条款，订阅服务应主要在您订阅时所在的国家或地区使用。
+ 
+在当前结算周期（ 2026 年 3 月）结束前，您仍可继续享受“YouTube Premium”的所有福利。由于“YouTube Premium”方案因国家/地区而异，因此您的订阅已取消，并且不会在 2026 年 3 月之后自动续订。如果您想在当前所在地继续订阅，欢迎重新订阅“YouTube Premium”。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;去浏览器 renew 提醒我 &lt;code&gt;We couldn’t verify your country.&lt;/code&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
