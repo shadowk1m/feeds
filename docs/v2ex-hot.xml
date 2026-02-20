@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 20 Feb 2026 12:34:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 13:53:11 GMT</lastBuildDate>
     <item>
       <title>AI 能力大幅提升后，我们大部分人是不是躺平就可以了？</title>
       <link>https://www.v2ex.com/t/1193282</link>
@@ -74,6 +74,39 @@
       <description>这两个品牌的系统哪个更好用一些啊，想给爸妈更新一下手机。&lt;br /&gt;他俩因为工作原因使用手机的频率都很高，iPhone 充电太慢就不考虑了&lt;br /&gt;华为因为鸿蒙的原因很多软件适配不太好也不考虑了&lt;br /&gt;目前纠结 OV ，想听听老哥们的意见，新年快乐，感谢🙏</description>
     </item>
     <item>
+      <title>自组 AI NAS 硬件配置求助，过年没事来聊聊吧</title>
+      <link>https://www.v2ex.com/t/1193298</link>
+      <guid>v2ex-1193298</guid>
+      <pubDate>Fri, 20 Feb 2026 06:45:54 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;背景：&lt;/strong&gt; 目前使用 蜗牛星际，CPU 与 8G 内存已经捉襟见肘，内存确实太贵，但是也不知道啥时候能等到回落。 早买早享受吧&lt;/p&gt;
+&lt;h1&gt;1. 核心需求&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;计算任务：&lt;/strong&gt; 运行 &lt;strong&gt;Immich&lt;/strong&gt; (照片 AI 识别)、&lt;strong&gt;OpenClaw&lt;/strong&gt; (AI Agent + 向量库)、本地语音识别、文档向量化、多个 Docker 容器。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;虚拟化：&lt;/strong&gt; PVE 宿主，运行 Windows VM (日常办公/挂机) + 多个 LXC 容器和 Docker 容器。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;存储：&lt;/strong&gt; ZFS 文件系统 (需大量内存作 ARC 缓存)，注重数据防腐烂/快照备份。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;形态：&lt;/strong&gt; &lt;strong&gt;mATX&lt;/strong&gt; 方案（不强求热插拔机箱，更看重散热、静音和扩展性）。&lt;/li&gt;
+&lt;li&gt;不在本地跑大参数量的大模型，希望能支持向量化、语音识别等模型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h1&gt;2. 现有硬件、系统&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;硬盘：&lt;/strong&gt; 400G SATA SSD ×1 (用于 LXC)； 4T HDD ×2 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;旧机痛点：&lt;/strong&gt; 现有的 32G mSSD 系统盘容量过小且速度慢，不确定是否需更换为 NVMe 作为 PVE 系统盘。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;系统：&lt;/strong&gt;  采用 PVE+LXC+Docker 方案&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;3. 意向配置单&lt;/h1&gt;
+&lt;p&gt;这些都是咨询 AI ，在淘宝上搜索得到的配置和价格。&lt;/p&gt;
+&lt;p&gt;大佬们，我是小白，请不吝赐教！&lt;/p&gt;
+&lt;p&gt;不着急一次性买完装好，可以考虑二手和 pdd 降降价格。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;i5 12400 散片+微星 PRO B760M-A DDR4 Ⅱ    ￥ 1868 （ 4 个内存槽，考虑后续扩展）&lt;/li&gt;
+&lt;li&gt;御夫座+风扇*4+散热器 N92B+6 口 sata 线   ￥ 836 （ 6 盘位，因为没找到合适的 4 盘位机箱）&lt;/li&gt;
+&lt;li&gt;骇客神条 32G DDR4 3200   ¥1287.49 （太贵了！）&lt;/li&gt;
+&lt;li&gt;航嘉 GX650 全模组金牌 650W   ￥ 362.49 （全模组方便省心利于散热，没找到更小的合适的）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>[吐槽] 零基础靠 AI 搓了个佳能打印小程序，自己还没用热乎就被微信永封了...</title>
       <link>https://www.v2ex.com/t/1193256</link>
       <guid>v2ex-1193256</guid>
@@ -112,79 +145,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://openrouter.ai/rankings?programming-language=JavaScript#programming-languages&quot; rel=&quot;nofollow&quot;&gt;https://openrouter.ai/rankings?programming-language=JavaScript#programming-languages&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>分享一个自己开发的 4 平台代理客户端：通途</title>
-      <link>https://www.v2ex.com/t/1193252</link>
-      <guid>v2ex-1193252</guid>
-      <pubDate>Thu, 19 Feb 2026 12:45:32 GMT</pubDate>
-      <description>&lt;h2&gt;通途 - 只为自由翱翔&lt;/h2&gt;
-&lt;p&gt;之前因为频繁遇到上网障碍（通报等），加上实在是不爽 Clash 一类的应用功能设计，直接自己手搓协议和手搓客户端。一开始没有中文命名（原名称 Mundo Connect ），后面取了个好听的名字，就叫通途。&lt;br/&gt;
-通途 App 基本没使用 AI 进行开发，仅鸿蒙版本少数页面使用了 AI 进行美化，核心和应用交互完全没使用 AI ，纯原生手搓开发（似乎不是一个卖点）。&lt;br/&gt;
-先介绍一下核心功能吧，包括 Android 、鸿蒙版本的，Windows 和 Linux 版本只有协议，&lt;del&gt;没有太亮眼的功能&lt;/del&gt;。  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Android/HarmonyOS 5+版本  &lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;全新的外观设计，开屏自带使用方案提示。  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;全新的免 VPN 代理功能（鸿蒙 Android 同步），例如建行生活不允许 VPN 打开的情况使用、工作时必须连接奇安信一类的 VPN （不能连接别的第三方 VPN ）等等，此时设置里面调整代理模式，修改为私密空间智能代理，即可使用免 VPN 代理，修改模式以后再连接代理，连接以后仅对内部私密空间应用生效（类似内置代理），支持众多游戏、应用等。  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;全新私密空间功能，支持免安装方式安装 apk/apks 和&lt;del&gt;hap （仅内测版）&lt;/del&gt;，鸿蒙版支持 iSulad 自定义镜像。可以安装你懂的某些小应用，不需要安装到本机，不会被宿主扫描。安装后仅在应用内部生效，无性能折损，高效运行应用。  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;自定义 ECH 主机名称指示查询功能，免费梯专用，填写某 CDN 的 ECH 域名即可，不多作叙述。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;自定义主题、自定义 UA 、自定义覆写 DNS 等常规功能均有提供，支持应用列表过滤等。  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;独家 H3H2H1 智能回落提升功能，这个功能暂时只支持自己的协议，由于自己的协议原生自带 H1H2H3 的协议支持，和第三方锁定某个 alpn （目前第三方协议使用 V2ray 实现）不同，可以实现提升或者回落。说人话就是电信网下载负载高的时候自动从 H3 回落到 H1 ，负载低了看情况提升，而移动网检测到 H1 和 H2 被 Q 自动锁 H3 并自动进行暴力发包操作，提高网络使用体验。  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;独家多级链式代理功能（内测中，正式版未上线），例如购买了某个专线机场发现 IP 不行，或者民运人士要多级代理保护自身安全等，使用方法是点按选择（会清除链式状态）落地节点（最后的节点），进入订阅页面，长按选择作为前置代理，可以套多层前置代理（无限制，测试 10 级没问题），安卓版可以主页点按标题查看链式路径，鸿蒙版在首页节点处点查看可以看见链式路径。  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Windows / Linux 版本&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;［ WIP ］链式代理&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;H1 到 H3 提升回落（需要自己设置运营商模式）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;自定义 DNS 、ECH 名称、UA 、分流等常见基础功能。  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;预览图（鸿蒙原生版本）&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;图片 1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/699704d29382f.webp&quot;/&gt;
-&lt;img alt=&quot;图片 2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/699704d2ae08a.webp&quot;/&gt;
-&lt;img alt=&quot;图片 3&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/699704d3289ce.webp&quot;/&gt; &lt;/p&gt;
-&lt;h2&gt;下载&lt;/h2&gt;
-&lt;p&gt;注意：鸿蒙版本下载需要自签。&lt;br/&gt;
-注意设置修改以后，点击保存按钮才能保存，不点击不保存！&lt;br/&gt;
-&lt;a href=&quot;https://668993.xyz&quot; rel=&quot;nofollow&quot;&gt;https://668993.xyz&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
