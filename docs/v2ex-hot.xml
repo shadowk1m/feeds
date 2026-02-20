@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 20 Feb 2026 10:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 11:01:44 GMT</lastBuildDate>
     <item>
       <title>AI 能力大幅提升后，我们大部分人是不是躺平就可以了？</title>
       <link>https://www.v2ex.com/t/1193282</link>
@@ -18,105 +18,6 @@
       <guid>v2ex-1193247</guid>
       <pubDate>Thu, 19 Feb 2026 11:04:55 GMT</pubDate>
       <description>因为看不惯当前所谓玻璃质感的审美，所以一直没有升级 MacOS26 。&lt;br /&gt;&lt;br /&gt;并且按照 v 友教的已经把更新链接重置为 &lt;a target=&quot;_blank&quot; href=&quot;http://www.example.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.example.com&lt;/a&gt; 了。&lt;br /&gt;&lt;br /&gt;但是苹果系统还是每隔一段时间提醒我一次 install tonight 。</description>
-    </item>
-    <item>
-      <title>[吐槽] 零基础靠 AI 搓了个佳能打印小程序，自己还没用热乎就被微信永封了...</title>
-      <link>https://www.v2ex.com/t/1193256</link>
-      <guid>v2ex-1193256</guid>
-      <pubDate>Thu, 19 Feb 2026 14:22:25 GMT</pubDate>
-      <description>最近入了一台佳能的 mf667Cdw 一体机。因为是水货，没法接入佳能国内官方的微信小程序，只能硬着头皮用官方 App 。&lt;br /&gt;但官方 App 体验实在一言难尽：&lt;br /&gt;1. 网络受限：只支持局域网打印，想远程的话得绕道各种云服务，国内的网络环境用起来极其不友好。&lt;br /&gt;2. 排版 Bug：打印预览有玄学问题，明明 5 页的文档，预览出来硬生生只有 4 页，根本不敢放心打。&lt;br /&gt;为了解决这个痛点，就想着自己动手丰衣足食。在 Gemini 的帮助下，我尝试开发了一个微信小程序。&lt;br /&gt;我本人是完全没有开发经验的纯小白，全靠着 AI 一步步指导实现各种功能。期间经历了无数次枯燥的 debug 。当代码终于跑通，提交审核并且顺利发布的那一刻，那种成就感和兴奋感真的是拉满了。&lt;br /&gt;结果还没高兴多久，微信突然提示我“恶意注册”，直接把小程序给永封了。&lt;br /&gt;说实话真的挺唏嘘的。这个小程序：&lt;br /&gt;• 从头到尾就我自己一个人在用。&lt;br /&gt;• 因为没有经过认证，它根本不会被公开搜索到。&lt;br /&gt;• 被封禁后，连站内私信通道都打不开了，死得不明不白，连自己到底触犯了哪条规则都不知道。&lt;br /&gt;后来我又在微信上搜了一下同类的小程序，发现很多具备同样功能的第三方工具都在正常存活。但毕竟打印件经常涉及敏感信息，总担心第三方小程序的隐私问题，这才想着自己搞一个，结果卡在了平台生态的黑盒里。&lt;br /&gt;纯吐槽，辛辛苦苦跟 AI 一起敲的代码就这样没了，实在太搞心态了。</description>
-    </item>
-    <item>
-      <title>GLM5.0 一分钟不到， Lite 跟 Pro 都抢完了怎么回事</title>
-      <link>https://www.v2ex.com/t/1193276</link>
-      <guid>v2ex-1193276</guid>
-      <pubDate>Fri, 20 Feb 2026 02:03:21 GMT</pubDate>
-      <description>5.0 还没体验过呢，10 点钟发售，一分钟不到只有 Max 了，但是太贵。。</description>
-    </item>
-    <item>
-      <title>介绍一下大一学生使用 Flutter+Rust 开发的一站式学习工作台</title>
-      <link>https://www.v2ex.com/t/1193243</link>
-      <guid>v2ex-1193243</guid>
-      <pubDate>Thu, 19 Feb 2026 10:21:33 GMT</pubDate>
-      <description>&lt;p&gt;各位 V 友好，来分享一下自己正在做的一个项目。 我是一名大一学生，去年高考完在知乎上发过一本自己写的高中数学教材&amp;amp;教辅，反响还不错。 &lt;/p&gt;
-&lt;p&gt;写教材的过程中发现一个痛点：市面上没有一款软件能覆盖完整的学习链路——从 &lt;strong&gt;输入 → 巩固复习 → 输出&lt;/strong&gt; 全流程打通。现有工具要么只做阅读，要么只做闪卡，要么只做笔记，想串起来得在好几个 App 之间反复横跳。 &lt;/p&gt;
-&lt;p&gt;所以就自己动手做了 &lt;strong&gt;Yaru&lt;/strong&gt;，一个多合一的学习工作台。目前还在早期开发阶段，先放出来听听大家的想法。&lt;/p&gt;
-&lt;h2&gt;核心模块&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;📖 学习模块&lt;/strong&gt; — 类似 Brilliant / Math Academy 的交互式课堂，按 Roadmap 选课学习 &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;📚 书库模块&lt;/strong&gt; — 支持 PDF / EPUB / MOBI / AZW3 / Markdown / HTML 等格式，社区书库 + 本地导入，可普通阅读或渐进式阅读 &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;🧠 记忆模块&lt;/strong&gt; — 间隔重复闪卡，后续会针对语言学习做更深度的适配 &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;✍️ 创作模块&lt;/strong&gt; — 积木式编辑器 &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;🧩 扩展模块&lt;/strong&gt; — 计划支持浏览器扩展、RSS ，以及从 B 站 / YouTube 视频中提取摘要导入（尚未开发） &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;📝 笔记 / 题库 / 论坛&lt;/strong&gt; — 规划中 一个典型的使用流程：在书库里读一本书 → 在类似 NotebookLM 的面板里生成闪卡和习题 → 闪卡自动进入记忆模块，习题进入题库 → 形成闭环。 &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h2&gt;特点&lt;/h2&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Material You 设计，界面干净无广告 &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;跨平台：Android / Windows / Linux / macOS / Web - 积木编辑器（ Block Editor ） &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;自实现的增强 Markdown 格式（ yfm ）&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;目前的开发截图&lt;/h1&gt;
-&lt;h2&gt;首页 &lt;img alt=&quot;首页 1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c77fad06f.webp&quot;/&gt; &lt;img alt=&quot;首页 2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c7b083b52.webp&quot;/&gt;&lt;/h2&gt;
-&lt;h2&gt;学习模块（开发中）&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;学习 1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c82dbbb31.webp&quot;/&gt; &lt;img alt=&quot;学习 2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c866d683b.webp&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;记忆模块&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;记忆 1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c87febd59.webp&quot;/&gt; &lt;img alt=&quot;记忆 2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c8c826111.webp&quot;/&gt; &lt;img alt=&quot;记忆 3&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c8ca63274.webp&quot;/&gt; &lt;img alt=&quot;记忆 4&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c9000f95f.webp&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;书库模块&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;书库 1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c95c7c9e5.webp&quot;/&gt; &lt;img alt=&quot;书库 2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c960ec937.webp&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;创作模块&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;创作&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c9c733474.webp&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;扩展模块（尚未开发）&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;扩展&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/6996c9d21a350.webp&quot;/&gt; &lt;/p&gt;
-&lt;h1&gt;当前状态&lt;/h1&gt;
-&lt;p&gt;项目还在早期阶段，内容侧还没来得及填充，功能也在持续迭代中。先把架子搭起来，后面慢慢打磨。 &lt;/p&gt;
-&lt;p&gt;至于里面的内容，我自己也是有内容生产能力的。生产中学和本科，以及一些编程语言，或者是 AI 方面的应用课程，也有点余力。&lt;/p&gt;
-&lt;p&gt;以后目的是先在国内试水，之后出海。&lt;/p&gt;
-&lt;h1&gt;使用&lt;/h1&gt;
-&lt;p&gt;可以在线使用 Flutter Web ，之后各平台打包后再补充。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://web.asaka.moe&quot; rel=&quot;nofollow&quot;&gt;在线体验&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;产品落地页&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://app.asaka.moe&quot; rel=&quot;nofollow&quot;&gt;产品落地页&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我的个人主页&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://asaka.moe&quot; rel=&quot;nofollow&quot;&gt;个人主页&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎各位 V 友提提建议、聊聊想法，不管是功能方向还是设计细节都很想听听反馈 🙏&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>不是，这就是吹的很火的 codex 5.3 吗？我才第一次体验就把我文件清空了。。</title>
-      <link>https://www.v2ex.com/t/1193244</link>
-      <guid>v2ex-1193244</guid>
-      <pubDate>Thu, 19 Feb 2026 10:40:06 GMT</pubDate>
-      <description>&lt;p&gt;第一次用 vscode 玩，之前都是网页对话框里改代码，
-结果一直等啊等搞好久，结果提示
-&lt;img alt=&quot;yBsJ5t.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/02/19/yBsJ5t.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;真的挺无语的。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>4 年后再问， 2026 适合在深圳买房吗？</title>
-      <link>https://www.v2ex.com/t/1193299</link>
-      <guid>v2ex-1193299</guid>
-      <pubDate>Fri, 20 Feb 2026 07:00:02 GMT</pubDate>
-      <description>4 年前来 v 站问过，大家都不建议买房 t/848580&lt;br /&gt;&lt;br /&gt;果然深圳的房子是跌了，还好那会听进去大家的建议没有买房，今年带父母来深圳过年，带他们去各大公园遛弯，他们也觉得这里很好，适合养老。&lt;br /&gt;&lt;br /&gt;刚好明年他们就都退休了，所以我又萌生了买房落户的想法。&lt;br /&gt;&lt;br /&gt;情况和之前有点差异，现在手里有 300w 现金，每年也能存个 20-30w 的样子，依然是不婚不育所以无需考虑学位，买个 2 房或者 3 房就够了。&lt;br /&gt;&lt;br /&gt;深圳的房子是不是差不多跌到底了？ 还能跌的话，再租个两三年也没问题。</description>
     </item>
     <item>
       <title>顺风车从开始到放弃</title>
@@ -166,6 +67,34 @@
 </description>
     </item>
     <item>
+      <title>4 年后再问， 2026 适合在深圳买房吗？</title>
+      <link>https://www.v2ex.com/t/1193299</link>
+      <guid>v2ex-1193299</guid>
+      <pubDate>Fri, 20 Feb 2026 07:00:02 GMT</pubDate>
+      <description>4 年前来 v 站问过，大家都不建议买房 t/848580&lt;br /&gt;&lt;br /&gt;果然深圳的房子是跌了，还好那会听进去大家的建议没有买房，今年带父母来深圳过年，带他们去各大公园遛弯，他们也觉得这里很好，适合养老。&lt;br /&gt;&lt;br /&gt;刚好明年他们就都退休了，所以我又萌生了买房落户的想法。&lt;br /&gt;&lt;br /&gt;情况和之前有点差异，现在手里有 300w 现金，每年也能存个 20-30w 的样子，依然是不婚不育所以无需考虑学位，买个 2 房或者 3 房就够了。&lt;br /&gt;&lt;br /&gt;深圳的房子是不是差不多跌到底了？ 还能跌的话，再租个两三年也没问题。</description>
+    </item>
+    <item>
+      <title>[吐槽] 零基础靠 AI 搓了个佳能打印小程序，自己还没用热乎就被微信永封了...</title>
+      <link>https://www.v2ex.com/t/1193256</link>
+      <guid>v2ex-1193256</guid>
+      <pubDate>Thu, 19 Feb 2026 14:22:25 GMT</pubDate>
+      <description>最近入了一台佳能的 mf667Cdw 一体机。因为是水货，没法接入佳能国内官方的微信小程序，只能硬着头皮用官方 App 。&lt;br /&gt;但官方 App 体验实在一言难尽：&lt;br /&gt;1. 网络受限：只支持局域网打印，想远程的话得绕道各种云服务，国内的网络环境用起来极其不友好。&lt;br /&gt;2. 排版 Bug：打印预览有玄学问题，明明 5 页的文档，预览出来硬生生只有 4 页，根本不敢放心打。&lt;br /&gt;为了解决这个痛点，就想着自己动手丰衣足食。在 Gemini 的帮助下，我尝试开发了一个微信小程序。&lt;br /&gt;我本人是完全没有开发经验的纯小白，全靠着 AI 一步步指导实现各种功能。期间经历了无数次枯燥的 debug 。当代码终于跑通，提交审核并且顺利发布的那一刻，那种成就感和兴奋感真的是拉满了。&lt;br /&gt;结果还没高兴多久，微信突然提示我“恶意注册”，直接把小程序给永封了。&lt;br /&gt;说实话真的挺唏嘘的。这个小程序：&lt;br /&gt;• 从头到尾就我自己一个人在用。&lt;br /&gt;• 因为没有经过认证，它根本不会被公开搜索到。&lt;br /&gt;• 被封禁后，连站内私信通道都打不开了，死得不明不白，连自己到底触犯了哪条规则都不知道。&lt;br /&gt;后来我又在微信上搜了一下同类的小程序，发现很多具备同样功能的第三方工具都在正常存活。但毕竟打印件经常涉及敏感信息，总担心第三方小程序的隐私问题，这才想着自己搞一个，结果卡在了平台生态的黑盒里。&lt;br /&gt;纯吐槽，辛辛苦苦跟 AI 一起敲的代码就这样没了，实在太搞心态了。</description>
+    </item>
+    <item>
+      <title>GLM5.0 一分钟不到， Lite 跟 Pro 都抢完了怎么回事</title>
+      <link>https://www.v2ex.com/t/1193276</link>
+      <guid>v2ex-1193276</guid>
+      <pubDate>Fri, 20 Feb 2026 02:03:21 GMT</pubDate>
+      <description>5.0 还没体验过呢，10 点钟发售，一分钟不到只有 Max 了，但是太贵。。</description>
+    </item>
+    <item>
+      <title>有没有 Oppo 和 Vivo 都用过的老哥？</title>
+      <link>https://www.v2ex.com/t/1193283</link>
+      <guid>v2ex-1193283</guid>
+      <pubDate>Fri, 20 Feb 2026 03:26:39 GMT</pubDate>
+      <description>这两个品牌的系统哪个更好用一些啊，想给爸妈更新一下手机。&lt;br /&gt;他俩因为工作原因使用手机的频率都很高，iPhone 充电太慢就不考虑了&lt;br /&gt;华为因为鸿蒙的原因很多软件适配不太好也不考虑了&lt;br /&gt;目前纠结 OV ，想听听老哥们的意见，新年快乐，感谢🙏</description>
+    </item>
+    <item>
       <title>Claude VS GLM VS Kimi VS MiniMax VS Gemini 2026 年半年内 Vibe Coding 谁更强？</title>
       <link>https://www.v2ex.com/t/1193255</link>
       <guid>v2ex-1193255</guid>
@@ -190,6 +119,79 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://openrouter.ai/rankings?programming-language=JavaScript#programming-languages&quot; rel=&quot;nofollow&quot;&gt;https://openrouter.ai/rankings?programming-language=JavaScript#programming-languages&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>分享一个自己开发的 4 平台代理客户端：通途</title>
+      <link>https://www.v2ex.com/t/1193252</link>
+      <guid>v2ex-1193252</guid>
+      <pubDate>Thu, 19 Feb 2026 12:45:32 GMT</pubDate>
+      <description>&lt;h2&gt;通途 - 只为自由翱翔&lt;/h2&gt;
+&lt;p&gt;之前因为频繁遇到上网障碍（通报等），加上实在是不爽 Clash 一类的应用功能设计，直接自己手搓协议和手搓客户端。一开始没有中文命名（原名称 Mundo Connect ），后面取了个好听的名字，就叫通途。&lt;br/&gt;
+通途 App 基本没使用 AI 进行开发，仅鸿蒙版本少数页面使用了 AI 进行美化，核心和应用交互完全没使用 AI ，纯原生手搓开发（似乎不是一个卖点）。&lt;br/&gt;
+先介绍一下核心功能吧，包括 Android 、鸿蒙版本的，Windows 和 Linux 版本只有协议，&lt;del&gt;没有太亮眼的功能&lt;/del&gt;。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Android/HarmonyOS 5+版本  &lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;全新的外观设计，开屏自带使用方案提示。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;全新的免 VPN 代理功能（鸿蒙 Android 同步），例如建行生活不允许 VPN 打开的情况使用、工作时必须连接奇安信一类的 VPN （不能连接别的第三方 VPN ）等等，此时设置里面调整代理模式，修改为私密空间智能代理，即可使用免 VPN 代理，修改模式以后再连接代理，连接以后仅对内部私密空间应用生效（类似内置代理），支持众多游戏、应用等。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;全新私密空间功能，支持免安装方式安装 apk/apks 和&lt;del&gt;hap （仅内测版）&lt;/del&gt;，鸿蒙版支持 iSulad 自定义镜像。可以安装你懂的某些小应用，不需要安装到本机，不会被宿主扫描。安装后仅在应用内部生效，无性能折损，高效运行应用。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;自定义 ECH 主机名称指示查询功能，免费梯专用，填写某 CDN 的 ECH 域名即可，不多作叙述。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;自定义主题、自定义 UA 、自定义覆写 DNS 等常规功能均有提供，支持应用列表过滤等。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;独家 H3H2H1 智能回落提升功能，这个功能暂时只支持自己的协议，由于自己的协议原生自带 H1H2H3 的协议支持，和第三方锁定某个 alpn （目前第三方协议使用 V2ray 实现）不同，可以实现提升或者回落。说人话就是电信网下载负载高的时候自动从 H3 回落到 H1 ，负载低了看情况提升，而移动网检测到 H1 和 H2 被 Q 自动锁 H3 并自动进行暴力发包操作，提高网络使用体验。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;独家多级链式代理功能（内测中，正式版未上线），例如购买了某个专线机场发现 IP 不行，或者民运人士要多级代理保护自身安全等，使用方法是点按选择（会清除链式状态）落地节点（最后的节点），进入订阅页面，长按选择作为前置代理，可以套多层前置代理（无限制，测试 10 级没问题），安卓版可以主页点按标题查看链式路径，鸿蒙版在首页节点处点查看可以看见链式路径。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Windows / Linux 版本&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;［ WIP ］链式代理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;H1 到 H3 提升回落（需要自己设置运营商模式）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;自定义 DNS 、ECH 名称、UA 、分流等常见基础功能。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;预览图（鸿蒙原生版本）&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&quot;图片 1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/699704d29382f.webp&quot;/&gt;
+&lt;img alt=&quot;图片 2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/699704d2ae08a.webp&quot;/&gt;
+&lt;img alt=&quot;图片 3&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/19/699704d3289ce.webp&quot;/&gt; &lt;/p&gt;
+&lt;h2&gt;下载&lt;/h2&gt;
+&lt;p&gt;注意：鸿蒙版本下载需要自签。&lt;br/&gt;
+注意设置修改以后，点击保存按钮才能保存，不点击不保存！&lt;br/&gt;
+&lt;a href=&quot;https://668993.xyz&quot; rel=&quot;nofollow&quot;&gt;https://668993.xyz&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
