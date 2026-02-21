@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Feb 2026 05:44:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 06:29:29 GMT</lastBuildDate>
     <item>
       <title>4 年后再问， 2026 适合在深圳买房吗？</title>
       <link>https://www.v2ex.com/t/1193299</link>
@@ -105,6 +105,24 @@
 </description>
     </item>
     <item>
+      <title>铁铁们“好酒”喝起来到底好在哪啊？</title>
+      <link>https://www.v2ex.com/t/1193363</link>
+      <guid>v2ex-1193363</guid>
+      <pubDate>Sat, 21 Feb 2026 03:42:58 GMT</pubDate>
+      <description>&lt;p&gt;过年走亲访友难免喝酒，年纪也不小了，说过年不沾酒也做不到啦&lt;/p&gt;
+&lt;p&gt;平日自己最多就是撸串时喝点啤酒的水平，公司搞活动少数时喝点红酒，主要也都是领导的事，普通牛马大多喝果汁干饭&lt;/p&gt;
+&lt;p&gt;过年亲戚张罗聚餐都喝白酒，还都是珍藏的“好酒”，飞天茅台、五粮液这些平时不舍得喝的拿出来过年喝，长辈喝的眉飞色舞，可惜咱这品味跟不上啊，只能强作欢颜&lt;/p&gt;
+&lt;p&gt;大佬们，所谓“好酒”到底好喝在哪？是年纪老了自然能体会？还是品酒有技巧？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>rootshell + tsshd 组成 VPN 太丝滑了，从此自建 VPN 不会再掉线</title>
+      <link>https://www.v2ex.com/t/1193350</link>
+      <guid>v2ex-1193350</guid>
+      <pubDate>Sat, 21 Feb 2026 00:10:37 GMT</pubDate>
+      <description>rootshell： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/kitknox/rootshell&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/kitknox/rootshell&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;tsshd: &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/trzsz/tsshd&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/trzsz/tsshd&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我给 rootshell 提了个 issue： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/kitknox/rootshell/issues/51&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/kitknox/rootshell/issues/51&lt;/a&gt; ，rootshell 作者实现了 VPN 功能，配合 tsshd 用起来实在是太丝滑了，在 iPhone 看 YouTube 终于不再有掉线的烦恼了，太 Cool 了！&lt;br /&gt;&lt;br /&gt;分享一下 rootshell 的 VPN 用法：&lt;br /&gt;&lt;br /&gt;1 、安装 rootshell 后，先 + 一个 profile ，添加某台海外的 VPS 服务器，重点是 Protocol 选择 Roam - tssh ，打开 Enable VPN 。&lt;br /&gt;&lt;br /&gt;2 、在 VPS 服务器上安装 tsshd ，要在 PATH 路径下能找到 tsshd 二进制程序。验证：在 rootshell 中选择 profile 看能不能正常登录（使用 VPN  时可以不登录）。&lt;br /&gt;&lt;br /&gt;3 、在 rootshell 右上角 Settings 中，找到 VPN ，点击 VPN Profile 中的启动按钮，就可以愉快地刷 YouTube 了。</description>
+    </item>
+    <item>
       <title>随着这几年 AI 的崛起，我发现一个非常困惑的问题。</title>
       <link>https://www.v2ex.com/t/1193304</link>
       <guid>v2ex-1193304</guid>
@@ -115,13 +133,6 @@
 &lt;p&gt;就给我的感觉是迷迷糊糊的 AI 就火了，身边程序员啥的都开始用。&lt;/p&gt;
 &lt;p&gt;但是并没有看到新闻报道突破了什么困难。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>春晚太无聊, 做了个漂亮的 native 剪切板 app</title>
-      <link>https://www.v2ex.com/t/1193295</link>
-      <guid>v2ex-1193295</guid>
-      <pubDate>Fri, 20 Feb 2026 05:58:33 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/LdalVLP&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/LdalVLP&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;目前已经支持的:&lt;br /&gt;- 自动记录剪切板;&lt;br /&gt;- 搜索;&lt;br /&gt;- 过滤来源 app;&lt;br /&gt;- 过滤类型;&lt;br /&gt;- tag 筛选;&lt;br /&gt;- 快捷键绑定 tag;&lt;br /&gt;- 预览常用类型;&lt;br /&gt;- 直接粘贴到目标 app(审核问题, 需要下载个外部插件);&lt;br /&gt;&lt;br /&gt;正在开发中:&lt;br /&gt;- 支持常用视频类型压缩、转换;&lt;br /&gt;- 视频转 GIF;&lt;br /&gt;- 支持 tinypng 压缩;&lt;br /&gt;- 支持 imgbb 图床;&lt;br /&gt;&lt;br /&gt;后续计划:&lt;br /&gt;- iOS 版;&lt;br /&gt;&lt;br /&gt;基本功能免费, 高级功能需要 pro, 目前支持早鸟价格买断!, 欢迎下载体验!&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/XlhUerN&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/XlhUerN&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/kmp8NLz&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/kmp8NLz&lt;/a&gt;</description>
     </item>
     <item>
       <title>个人如何选择出海软件的支付方案？</title>
@@ -139,13 +150,6 @@
 &lt;li&gt;dogpay&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-    </item>
-    <item>
-      <title>rootshell + tsshd 组成 VPN 太丝滑了，从此自建 VPN 不会再掉线</title>
-      <link>https://www.v2ex.com/t/1193350</link>
-      <guid>v2ex-1193350</guid>
-      <pubDate>Sat, 21 Feb 2026 00:10:37 GMT</pubDate>
-      <description>rootshell： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/kitknox/rootshell&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/kitknox/rootshell&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;tsshd: &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/trzsz/tsshd&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/trzsz/tsshd&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我给 rootshell 提了个 issue： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/kitknox/rootshell/issues/51&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/kitknox/rootshell/issues/51&lt;/a&gt; ，rootshell 作者实现了 VPN 功能，配合 tsshd 用起来实在是太丝滑了，在 iPhone 看 YouTube 终于不再有掉线的烦恼了，太 Cool 了！&lt;br /&gt;&lt;br /&gt;分享一下 rootshell 的 VPN 用法：&lt;br /&gt;&lt;br /&gt;1 、安装 rootshell 后，先 + 一个 profile ，添加某台海外的 VPS 服务器，重点是 Protocol 选择 Roam - tssh ，打开 Enable VPN 。&lt;br /&gt;&lt;br /&gt;2 、在 VPS 服务器上安装 tsshd ，要在 PATH 路径下能找到 tsshd 二进制程序。验证：在 rootshell 中选择 profile 看能不能正常登录（使用 VPN  时可以不登录）。&lt;br /&gt;&lt;br /&gt;3 、在 rootshell 右上角 Settings 中，找到 VPN ，点击 VPN Profile 中的启动按钮，就可以愉快地刷 YouTube 了。</description>
     </item>
   </channel>
 </rss>
