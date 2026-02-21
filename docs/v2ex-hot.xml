@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Feb 2026 14:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 14:49:04 GMT</lastBuildDate>
     <item>
       <title>[送码] Scrollie - 长截图 iOS 上线，送 50 个终身会员兑换码（邮箱发放）</title>
       <link>https://www.v2ex.com/t/1193400</link>
@@ -59,6 +59,19 @@
 </description>
     </item>
     <item>
+      <title>写代码不再是一种严肃意义的技能，类似于驾驶技术了</title>
+      <link>https://www.v2ex.com/t/1193393</link>
+      <guid>v2ex-1193393</guid>
+      <pubDate>Sat, 21 Feb 2026 09:55:36 GMT</pubDate>
+      <description>&lt;p&gt;没有人会因为自己会开车而炫耀，
+今后，写代码也是如此，不值一提。&lt;/p&gt;
+&lt;p&gt;花一天时间指挥 codex 写了一个安卓程序，而我从来没有写过安卓程序。&lt;/p&gt;
+&lt;p&gt;我一点也没有感觉自己厉害，因为我知道谁都会写，就像谁都会开车一样。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/k3Amr08L.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;apk 大小大概 20m ，如果你想看看一天时间第一个 app 长什么样，发送邮件至 &lt;a href=&quot;mailto:sky@never-lost.app&quot;&gt;sky@never-lost.app&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>反馈 api 不可用，被踢了。</title>
       <link>https://www.v2ex.com/t/1193339</link>
       <guid>v2ex-1193339</guid>
@@ -78,24 +91,56 @@
       <description>rootshell： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/kitknox/rootshell&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/kitknox/rootshell&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;tsshd: &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/trzsz/tsshd&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/trzsz/tsshd&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我给 rootshell 提了个 issue： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/kitknox/rootshell/issues/51&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/kitknox/rootshell/issues/51&lt;/a&gt; ，rootshell 作者实现了 VPN 功能，配合 tsshd 用起来实在是太丝滑了，在 iPhone 看 YouTube 终于不再有掉线的烦恼了，太 Cool 了！&lt;br /&gt;&lt;br /&gt;分享一下 rootshell 的 VPN 用法：&lt;br /&gt;&lt;br /&gt;1 、安装 rootshell 后，先 + 一个 profile ，添加某台海外的 VPS 服务器，重点是 Protocol 选择 Roam - tssh ，打开 Enable VPN 。&lt;br /&gt;&lt;br /&gt;2 、在 VPS 服务器上安装 tsshd ，要在 PATH 路径下能找到 tsshd 二进制程序。验证：在 rootshell 中选择 profile 看能不能正常登录（使用 VPN  时可以不登录）。&lt;br /&gt;&lt;br /&gt;3 、在 rootshell 右上角 Settings 中，找到 VPN ，点击 VPN Profile 中的启动按钮，就可以愉快地刷 YouTube 了。</description>
     </item>
     <item>
-      <title>写代码不再是一种严肃意义的技能，类似于驾驶技术了</title>
-      <link>https://www.v2ex.com/t/1193393</link>
-      <guid>v2ex-1193393</guid>
-      <pubDate>Sat, 21 Feb 2026 09:55:36 GMT</pubDate>
-      <description>&lt;p&gt;没有人会因为自己会开车而炫耀，
-今后，写代码也是如此，不值一提。&lt;/p&gt;
-&lt;p&gt;花一天时间指挥 codex 写了一个安卓程序，而我从来没有写过安卓程序。&lt;/p&gt;
-&lt;p&gt;我一点也没有感觉自己厉害，因为我知道谁都会写，就像谁都会开车一样。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/k3Amr08L.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;apk 大小大概 20m ，如果你想看看一天时间第一个 app 长什么样，发送邮件至 &lt;a href=&quot;mailto:sky@never-lost.app&quot;&gt;sky@never-lost.app&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>中行储蓄卡羊毛 最高 88</title>
       <link>https://www.v2ex.com/t/1193375</link>
       <guid>v2ex-1193375</guid>
       <pubDate>Sat, 21 Feb 2026 07:14:35 GMT</pubDate>
       <description>&lt;p&gt;中行 app 首页-中部 bannerz 中行惠出游-右上角-支付领券中心-下面猜美食中大奖，答对 3 个就能抽，op 抽到了 88 ，微信 44 支付宝 44 ，充了话费&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>初中辍学后 何去何从</title>
+      <link>https://www.v2ex.com/t/1193401</link>
+      <guid>v2ex-1193401</guid>
+      <pubDate>Sat, 21 Feb 2026 10:34:29 GMT</pubDate>
+      <description>&lt;p&gt;上文
+&lt;a href=&quot;https://v2ex.com/t/1170926#reply217&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1170926#reply217&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;春节前在理发店扫地学徒&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在我附近, 除了玩手机时间长还算省心 &lt;br/&gt;
+回家过年了,找小伙伴后 又变了: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;没和家里说就和小伙伴的父母去了市区玩 , &lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;第 2 天 又没和家里说 去了县城, 通话时在日租房 晚 9 点说回来 凌晨 2 点多才到家. &lt;br/&gt;后来问说是小伙伴好了 3 年,失恋了(16 岁...那 13 岁就谈恋爱了)  &lt;br/&gt;他去陪人喝酒了.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;现在有 3 个选项&lt;/h2&gt;
+&lt;h3&gt;1 我倾向于考虑让去上中专&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;大概率学不到什么&lt;/li&gt;
+&lt;li&gt;和同龄人在一起,好坏掺半 &lt;/li&gt;
+&lt;li&gt;学校周末不让出来, 月末统一放假&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1zCBjBrEGQ?t=444.6&quot; rel=&quot;nofollow&quot;&gt;这个 up 粪坑理论也有道理&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;2 他自己想法:和小伙伴打零工 &quot;网赚&quot; 发短视频卖东西&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;容易被骗 , 微信 手机号 淘宝 都被封过&lt;/li&gt;
+&lt;li&gt;小伙伴抽烟&lt;/li&gt;
+&lt;li&gt;没长期规划 一时一个想法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;3 继续在我身边的理发店&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;这个好处是不会学坏&lt;/li&gt;
+&lt;li&gt;但他说就干 1 年 之后还是去打零工,1 年之后可能就彻底管不了他了&lt;/li&gt;
+&lt;li&gt;初衷是希望能受自己影响学点东西 但他对电脑类的没兴趣儿&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;_________________________________________________________________&lt;/h1&gt;
 </description>
     </item>
     <item>
@@ -117,32 +162,6 @@
 &lt;p&gt;好恶心啊这个逼，不是我当面不发作，只是这个逼真的太恶心了，说了也没用&lt;/p&gt;
 &lt;p&gt;npd ，没办法，只能保持距离。然后我发出来，看大家也喷一喷他，我就能舒服开心点，不然我堵得慌&lt;/p&gt;
 &lt;p&gt;肯定也有喷我的，那只能说“未经人事，莫劝人善”&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>分享一个 A 股量化回测平台-BackQuant</title>
-      <link>https://www.v2ex.com/t/1193359</link>
-      <guid>v2ex-1193359</guid>
-      <pubDate>Sat, 21 Feb 2026 03:11:38 GMT</pubDate>
-      <description>&lt;p&gt;这是我春节期间借助 codex ，消耗了将近 2 亿 token 写的一个本地化部署回测平台。
-暂时先支持 A 股日线的回测和研究。
-出发点主要是：&lt;strong&gt;在本地实现策略回测和研究，完全在本地运行，不依赖第三方平台，保障策略隐私安全&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;系统截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/jgrLMHy.png&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;一、项目地址&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/bloom8262/backquant&quot; rel=&quot;nofollow&quot;&gt;https://github.com/bloom8262/backquant&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;二、项目亮点&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;完整的量化回测平台&lt;/strong&gt;：包括回测工作台和研究工作台两个主要功能。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;技术栈&lt;/strong&gt;：后端是 Flask+RQAlpha ，前端是 Vue ，提供良好的用户体验。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;支持 A 股市场数据&lt;/strong&gt;：内置 RQAlpha 的日线数据（ 2005 年–2026 年）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;部署友好&lt;/strong&gt;：推荐使用 Docker 一键部署，包含依赖和数据下载。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;集成 Jupyter Lab&lt;/strong&gt;：方便做策略研究、数据分析和可视化笔记。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;p&gt;目前项目刚起步，随着我自己的深度使用，会逐渐迭代～
-如果你也想在本地进行量化研究和回测，或者学习 Python 量化策略，欢迎 star ，提 issue 一起完善～&lt;/p&gt;
-&lt;p&gt;项目地址：&lt;a href=&quot;https://github.com/bloom8262/backquant&quot; rel=&quot;nofollow&quot;&gt;https://github.com/bloom8262/backquant&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
