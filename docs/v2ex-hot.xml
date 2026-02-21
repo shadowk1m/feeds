@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Feb 2026 06:29:29 GMT</lastBuildDate>
-    <item>
-      <title>4 年后再问， 2026 适合在深圳买房吗？</title>
-      <link>https://www.v2ex.com/t/1193299</link>
-      <guid>v2ex-1193299</guid>
-      <pubDate>Fri, 20 Feb 2026 07:00:02 GMT</pubDate>
-      <description>4 年前来 v 站问过，大家都不建议买房 t/848580&lt;br /&gt;&lt;br /&gt;果然深圳的房子是跌了，还好那会听进去大家的建议没有买房，今年带父母来深圳过年，带他们去各大公园遛弯，他们也觉得这里很好，适合养老。&lt;br /&gt;&lt;br /&gt;刚好明年他们就都退休了，所以我又萌生了买房落户的想法。&lt;br /&gt;&lt;br /&gt;情况和之前有点差异，现在手里有 300w 现金，每年也能存个 20-30w 的样子，依然是不婚不育所以无需考虑学位，买个 2 房或者 3 房就够了。&lt;br /&gt;&lt;br /&gt;深圳的房子是不是差不多跌到底了？ 还能跌的话，再租个两三年也没问题。</description>
-    </item>
+    <lastBuildDate>Sat, 21 Feb 2026 07:06:56 GMT</lastBuildDate>
     <item>
       <title>过年回家相亲记录</title>
       <link>https://www.v2ex.com/t/1193325</link>
@@ -29,39 +22,6 @@
 &lt;p&gt;最后，自我反思一下，目前我可能还是想着谈个恋爱而不是结婚。这几年工作上其实不算顺利，经济基础没有打好（我基本没有父母支持），自身身高也不高，所以前面几年也没有谈过恋爱，比较遗憾。&lt;/p&gt;
 &lt;p&gt;还有个问题可能是见完面之后家里亲戚每天都会问进展，真的太痛苦了 qwq&lt;/p&gt;
 &lt;p&gt;祝各位 2026 年顺顺利利吧～&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>自组 AI NAS 硬件配置求助，过年没事来聊聊吧</title>
-      <link>https://www.v2ex.com/t/1193298</link>
-      <guid>v2ex-1193298</guid>
-      <pubDate>Fri, 20 Feb 2026 06:45:54 GMT</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;背景：&lt;/strong&gt; 目前使用 蜗牛星际，CPU 与 8G 内存已经捉襟见肘，内存确实太贵，但是也不知道啥时候能等到回落。 早买早享受吧&lt;/p&gt;
-&lt;h1&gt;1. 核心需求&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;计算任务：&lt;/strong&gt; 运行 &lt;strong&gt;Immich&lt;/strong&gt; (照片 AI 识别)、&lt;strong&gt;OpenClaw&lt;/strong&gt; (AI Agent + 向量库)、本地语音识别、文档向量化、多个 Docker 容器。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;虚拟化：&lt;/strong&gt; PVE 宿主，运行 Windows VM (日常办公/挂机) + 多个 LXC 容器和 Docker 容器。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;存储：&lt;/strong&gt; ZFS 文件系统 (需大量内存作 ARC 缓存)，注重数据防腐烂/快照备份。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;形态：&lt;/strong&gt; &lt;strong&gt;mATX&lt;/strong&gt; 方案（不强求热插拔机箱，更看重散热、静音和扩展性）。&lt;/li&gt;
-&lt;li&gt;不在本地跑大参数量的大模型，希望能支持向量化、语音识别等模型&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h1&gt;2. 现有硬件、系统&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;硬盘：&lt;/strong&gt; 400G SATA SSD ×1 (用于 LXC)； 4T HDD ×2 。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;旧机痛点：&lt;/strong&gt; 现有的 32G mSSD 系统盘容量过小且速度慢，不确定是否需更换为 NVMe 作为 PVE 系统盘。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;系统：&lt;/strong&gt;  采用 PVE+LXC+Docker 方案&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;3. 意向配置单&lt;/h1&gt;
-&lt;p&gt;这些都是咨询 AI ，在淘宝上搜索得到的配置和价格。&lt;/p&gt;
-&lt;p&gt;大佬们，我是小白，请不吝赐教！&lt;/p&gt;
-&lt;p&gt;不着急一次性买完装好，可以考虑二手和 pdd 降降价格。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;i5 12400 散片+微星 PRO B760M-A DDR4 Ⅱ    ￥ 1868 （ 4 个内存槽，考虑后续扩展）&lt;/li&gt;
-&lt;li&gt;御夫座+风扇*4+散热器 N92B+6 口 sata 线   ￥ 836 （ 6 盘位，因为没找到合适的 4 盘位机箱）&lt;/li&gt;
-&lt;li&gt;骇客神条 32G DDR4 3200   ¥1287.49 （太贵了！）&lt;/li&gt;
-&lt;li&gt;航嘉 GX650 全模组金牌 650W   ￥ 362.49 （全模组方便省心利于散热，没找到更小的合适的）&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     <item>
@@ -93,6 +53,17 @@
 </description>
     </item>
     <item>
+      <title>铁铁们“好酒”喝起来到底好在哪啊？</title>
+      <link>https://www.v2ex.com/t/1193363</link>
+      <guid>v2ex-1193363</guid>
+      <pubDate>Sat, 21 Feb 2026 03:42:58 GMT</pubDate>
+      <description>&lt;p&gt;过年走亲访友难免喝酒，年纪也不小了，说过年不沾酒也做不到啦&lt;/p&gt;
+&lt;p&gt;平日自己最多就是撸串时喝点啤酒的水平，公司搞活动少数时喝点红酒，主要也都是领导的事，普通牛马大多喝果汁干饭&lt;/p&gt;
+&lt;p&gt;过年亲戚张罗聚餐都喝白酒，还都是珍藏的“好酒”，飞天茅台、五粮液这些平时不舍得喝的拿出来过年喝，长辈喝的眉飞色舞，可惜咱这品味跟不上啊，只能强作欢颜&lt;/p&gt;
+&lt;p&gt;大佬们，所谓“好酒”到底好喝在哪？是年纪老了自然能体会？还是品酒有技巧？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>反馈 api 不可用，被踢了。</title>
       <link>https://www.v2ex.com/t/1193339</link>
       <guid>v2ex-1193339</guid>
@@ -102,17 +73,6 @@
 &lt;p&gt;v2ex 站长怎么会去支持这种项目。
 如果这个帖子被删了，你觉得我会怎么做？&lt;/p&gt;
 &lt;p&gt;⚠️ API provider returned a billing error — your API key has run out of credits or has an insufficient balance. Check your provider&#39;s billing dashboard and top up or switch to a different API key.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>铁铁们“好酒”喝起来到底好在哪啊？</title>
-      <link>https://www.v2ex.com/t/1193363</link>
-      <guid>v2ex-1193363</guid>
-      <pubDate>Sat, 21 Feb 2026 03:42:58 GMT</pubDate>
-      <description>&lt;p&gt;过年走亲访友难免喝酒，年纪也不小了，说过年不沾酒也做不到啦&lt;/p&gt;
-&lt;p&gt;平日自己最多就是撸串时喝点啤酒的水平，公司搞活动少数时喝点红酒，主要也都是领导的事，普通牛马大多喝果汁干饭&lt;/p&gt;
-&lt;p&gt;过年亲戚张罗聚餐都喝白酒，还都是珍藏的“好酒”，飞天茅台、五粮液这些平时不舍得喝的拿出来过年喝，长辈喝的眉飞色舞，可惜咱这品味跟不上啊，只能强作欢颜&lt;/p&gt;
-&lt;p&gt;大佬们，所谓“好酒”到底好喝在哪？是年纪老了自然能体会？还是品酒有技巧？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -135,6 +95,17 @@
 </description>
     </item>
     <item>
+      <title>活不下去了。</title>
+      <link>https://www.v2ex.com/t/1193355</link>
+      <guid>v2ex-1193355</guid>
+      <pubDate>Sat, 21 Feb 2026 01:42:41 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;每天脑子里担心害怕的事情非常离谱&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;没人能理解&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;死亡焦虑到了极点，因为焦虑症跟家人生气，只要生气就会担心自己高血压出事，赶紧要量血压&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;每天要量几十遍血压&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>个人如何选择出海软件的支付方案？</title>
       <link>https://www.v2ex.com/t/1193329</link>
       <guid>v2ex-1193329</guid>
@@ -149,6 +120,35 @@
 &lt;li&gt;连连支付（国际）&lt;/li&gt;
 &lt;li&gt;dogpay&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>高峰时段跨国下行网速很低有解决办法吗？</title>
+      <link>https://www.v2ex.com/t/1193327</link>
+      <guid>v2ex-1193327</guid>
+      <pubDate>Fri, 20 Feb 2026 13:01:52 GMT</pubDate>
+      <description>&lt;p&gt;书接前回，按大家在 &lt;a href=&quot;https://www.v2ex.com/t/1190260&quot; rel=&quot;nofollow&quot;&gt;/t/119026&lt;/a&gt; 的建议，自建了一个节点。&lt;/p&gt;
+&lt;p&gt;用起来发现，从国内连这个节点空闲时段和高峰时段的网速差别很大：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;下行速度&lt;/th&gt;
+&lt;th&gt;上行速度&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;空闲时段（早八点）&lt;/td&gt;
+&lt;td&gt;69Mbps&lt;/td&gt;
+&lt;td&gt;46Mbps&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;高峰时段（晚八点）&lt;/td&gt;
+&lt;td&gt;5Mbps&lt;/td&gt;
+&lt;td&gt;52Mbps&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;家里的宽带好像是湖南电信的光纤到户，有没有解决这个问题的办法啊？&lt;/p&gt;
 </description>
     </item>
   </channel>
