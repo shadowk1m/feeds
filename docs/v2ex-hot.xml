@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Feb 2026 07:06:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 07:48:33 GMT</lastBuildDate>
     <item>
       <title>过年回家相亲记录</title>
       <link>https://www.v2ex.com/t/1193325</link>
@@ -76,6 +76,17 @@
 </description>
     </item>
     <item>
+      <title>活不下去了。</title>
+      <link>https://www.v2ex.com/t/1193355</link>
+      <guid>v2ex-1193355</guid>
+      <pubDate>Sat, 21 Feb 2026 01:42:41 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;每天脑子里担心害怕的事情非常离谱&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;没人能理解&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;死亡焦虑到了极点，因为焦虑症跟家人生气，只要生气就会担心自己高血压出事，赶紧要量血压&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;每天要量几十遍血压&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>rootshell + tsshd 组成 VPN 太丝滑了，从此自建 VPN 不会再掉线</title>
       <link>https://www.v2ex.com/t/1193350</link>
       <guid>v2ex-1193350</guid>
@@ -95,14 +106,11 @@
 </description>
     </item>
     <item>
-      <title>活不下去了。</title>
-      <link>https://www.v2ex.com/t/1193355</link>
-      <guid>v2ex-1193355</guid>
-      <pubDate>Sat, 21 Feb 2026 01:42:41 GMT</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;每天脑子里担心害怕的事情非常离谱&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;没人能理解&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;死亡焦虑到了极点，因为焦虑症跟家人生气，只要生气就会担心自己高血压出事，赶紧要量血压&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;每天要量几十遍血压&lt;/strong&gt;&lt;/p&gt;
+      <title>这个推理速度也太快了吧！ chatjimmy.ai 比查 db 都快啊！</title>
+      <link>https://www.v2ex.com/t/1193358</link>
+      <guid>v2ex-1193358</guid>
+      <pubDate>Sat, 21 Feb 2026 02:49:14 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;http://chatjimmy.ai&quot; rel=&quot;nofollow&quot;&gt;chatjimmy.ai&lt;/a&gt;  可以体验 “Taalas 推出首款产品 HC1 ，搭载 Llama 3.1 8B 模型，性能达每用户 17,000 tokens/秒，较现有技术快近 10 倍，制造成本降低 20 倍，功耗减少 10 倍。该模型虽采用自定义 3-bit 数据格式，存在轻微精度损失，但第二代产品将采用标准 4-bit 浮点格式，进一步优化性能。”&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -120,35 +128,6 @@
 &lt;li&gt;连连支付（国际）&lt;/li&gt;
 &lt;li&gt;dogpay&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    <item>
-      <title>高峰时段跨国下行网速很低有解决办法吗？</title>
-      <link>https://www.v2ex.com/t/1193327</link>
-      <guid>v2ex-1193327</guid>
-      <pubDate>Fri, 20 Feb 2026 13:01:52 GMT</pubDate>
-      <description>&lt;p&gt;书接前回，按大家在 &lt;a href=&quot;https://www.v2ex.com/t/1190260&quot; rel=&quot;nofollow&quot;&gt;/t/119026&lt;/a&gt; 的建议，自建了一个节点。&lt;/p&gt;
-&lt;p&gt;用起来发现，从国内连这个节点空闲时段和高峰时段的网速差别很大：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;下行速度&lt;/th&gt;
-&lt;th&gt;上行速度&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;空闲时段（早八点）&lt;/td&gt;
-&lt;td&gt;69Mbps&lt;/td&gt;
-&lt;td&gt;46Mbps&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;高峰时段（晚八点）&lt;/td&gt;
-&lt;td&gt;5Mbps&lt;/td&gt;
-&lt;td&gt;52Mbps&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;家里的宽带好像是湖南电信的光纤到户，有没有解决这个问题的办法啊？&lt;/p&gt;
 </description>
     </item>
   </channel>
