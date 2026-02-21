@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Feb 2026 09:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 09:50:05 GMT</lastBuildDate>
     <item>
       <title>过年回家相亲记录</title>
       <link>https://www.v2ex.com/t/1193325</link>
@@ -84,23 +84,6 @@
       <description>rootshell： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/kitknox/rootshell&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/kitknox/rootshell&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;tsshd: &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/trzsz/tsshd&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/trzsz/tsshd&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我给 rootshell 提了个 issue： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/kitknox/rootshell/issues/51&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/kitknox/rootshell/issues/51&lt;/a&gt; ，rootshell 作者实现了 VPN 功能，配合 tsshd 用起来实在是太丝滑了，在 iPhone 看 YouTube 终于不再有掉线的烦恼了，太 Cool 了！&lt;br /&gt;&lt;br /&gt;分享一下 rootshell 的 VPN 用法：&lt;br /&gt;&lt;br /&gt;1 、安装 rootshell 后，先 + 一个 profile ，添加某台海外的 VPS 服务器，重点是 Protocol 选择 Roam - tssh ，打开 Enable VPN 。&lt;br /&gt;&lt;br /&gt;2 、在 VPS 服务器上安装 tsshd ，要在 PATH 路径下能找到 tsshd 二进制程序。验证：在 rootshell 中选择 profile 看能不能正常登录（使用 VPN  时可以不登录）。&lt;br /&gt;&lt;br /&gt;3 、在 rootshell 右上角 Settings 中，找到 VPN ，点击 VPN Profile 中的启动按钮，就可以愉快地刷 YouTube 了。</description>
     </item>
     <item>
-      <title>个人如何选择出海软件的支付方案？</title>
-      <link>https://www.v2ex.com/t/1193329</link>
-      <guid>v2ex-1193329</guid>
-      <pubDate>Fri, 20 Feb 2026 13:39:45 GMT</pubDate>
-      <description>&lt;h2&gt;如何选择出海软件的支付方案？&lt;/h2&gt;
-&lt;p&gt;个体如何合规开发软件，向国际市场销售获取收入？&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;paddle&lt;/li&gt;
-&lt;li&gt;lemonsqueezy&lt;/li&gt;
-&lt;li&gt;creem&lt;/li&gt;
-&lt;li&gt;pingpong&lt;/li&gt;
-&lt;li&gt;连连支付（国际）&lt;/li&gt;
-&lt;li&gt;dogpay&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    <item>
       <title>高峰时段跨国下行网速很低有解决办法吗？</title>
       <link>https://www.v2ex.com/t/1193327</link>
       <guid>v2ex-1193327</guid>
@@ -127,6 +110,23 @@
 &lt;td&gt;52Mbps&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;家里的宽带好像是湖南电信的光纤到户，有没有解决这个问题的办法啊？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>个人如何选择出海软件的支付方案？</title>
+      <link>https://www.v2ex.com/t/1193329</link>
+      <guid>v2ex-1193329</guid>
+      <pubDate>Fri, 20 Feb 2026 13:39:45 GMT</pubDate>
+      <description>&lt;h2&gt;如何选择出海软件的支付方案？&lt;/h2&gt;
+&lt;p&gt;个体如何合规开发软件，向国际市场销售获取收入？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;paddle&lt;/li&gt;
+&lt;li&gt;lemonsqueezy&lt;/li&gt;
+&lt;li&gt;creem&lt;/li&gt;
+&lt;li&gt;pingpong&lt;/li&gt;
+&lt;li&gt;连连支付（国际）&lt;/li&gt;
+&lt;li&gt;dogpay&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     <item>
