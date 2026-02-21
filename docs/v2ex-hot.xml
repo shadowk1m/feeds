@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Feb 2026 13:55:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 14:18:08 GMT</lastBuildDate>
     <item>
       <title>[送码] Scrollie - 长截图 iOS 上线，送 50 个终身会员兑换码（邮箱发放）</title>
       <link>https://www.v2ex.com/t/1193400</link>
@@ -120,11 +120,30 @@
 </description>
     </item>
     <item>
-      <title>南京电信 微信支付相关加载缓慢</title>
-      <link>https://www.v2ex.com/t/1193345</link>
-      <guid>v2ex-1193345</guid>
-      <pubDate>Fri, 20 Feb 2026 20:54:31 GMT</pubDate>
-      <description>加载余额要三四秒左右，转账发红包领红包要等快 10 秒，诡异的是手机端开启 vpn 或者抓包软件，速度就恢复正常了，当然流量下也是一切正常的。除了微信支付其他加载速度也都全部正常，测速带宽各方面也没问题&lt;br /&gt;路由器是软路由爱快 3.7.10&lt;br /&gt;&lt;br /&gt;问 gemini 改了 dns 成 119.29.29.29 ，没有用； MTU 改成 1452 ，没有用；各种分流全部关掉了，也没有用；把爱快抓的 wireshark 日志发给它，也没分析出什么能解决问题的办法&lt;br /&gt;&lt;br /&gt;日志传到 od 了如果有大佬方便的话看一下吧 到底是不是运营商在作妖 &lt;a target=&quot;_blank&quot; href=&quot;https://lushugcadd-my.sharepoint.com/:u:/g/personal/ym_tm_sb/IQCmlOao5G0eT7bQm00VfLVuAXH2Giyum1RTYkgVMJxN_kM?e=Cg7dNR&quot; rel=&quot;nofollow noopener&quot;&gt;https://lushugcadd-my.sharepoint.com/:u:/g/personal/ym_tm_sb/IQCmlOao5G0eT7bQm00VfLVuAXH2Giyum1RTYkgVMJxN_kM?e=Cg7dNR&lt;/a&gt;</description>
+      <title>分享一个 A 股量化回测平台-BackQuant</title>
+      <link>https://www.v2ex.com/t/1193359</link>
+      <guid>v2ex-1193359</guid>
+      <pubDate>Sat, 21 Feb 2026 03:11:38 GMT</pubDate>
+      <description>&lt;p&gt;这是我春节期间借助 codex ，消耗了将近 2 亿 token 写的一个本地化部署回测平台。
+暂时先支持 A 股日线的回测和研究。
+出发点主要是：&lt;strong&gt;在本地实现策略回测和研究，完全在本地运行，不依赖第三方平台，保障策略隐私安全&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;系统截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/jgrLMHy.png&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;一、项目地址&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/bloom8262/backquant&quot; rel=&quot;nofollow&quot;&gt;https://github.com/bloom8262/backquant&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;二、项目亮点&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;完整的量化回测平台&lt;/strong&gt;：包括回测工作台和研究工作台两个主要功能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术栈&lt;/strong&gt;：后端是 Flask+RQAlpha ，前端是 Vue ，提供良好的用户体验。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;支持 A 股市场数据&lt;/strong&gt;：内置 RQAlpha 的日线数据（ 2005 年–2026 年）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;部署友好&lt;/strong&gt;：推荐使用 Docker 一键部署，包含依赖和数据下载。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;集成 Jupyter Lab&lt;/strong&gt;：方便做策略研究、数据分析和可视化笔记。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;p&gt;目前项目刚起步，随着我自己的深度使用，会逐渐迭代～
+如果你也想在本地进行量化研究和回测，或者学习 Python 量化策略，欢迎 star ，提 issue 一起完善～&lt;/p&gt;
+&lt;p&gt;项目地址：&lt;a href=&quot;https://github.com/bloom8262/backquant&quot; rel=&quot;nofollow&quot;&gt;https://github.com/bloom8262/backquant&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
