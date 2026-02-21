@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Feb 2026 10:48:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 11:13:47 GMT</lastBuildDate>
     <item>
       <title>过年回家相亲记录</title>
       <link>https://www.v2ex.com/t/1193325</link>
@@ -67,6 +67,29 @@
 </description>
     </item>
     <item>
+      <title>[送码] Scrollie - 长截图 iOS 上线，送 50 个终身会员兑换码（邮箱发放）</title>
+      <link>https://www.v2ex.com/t/1193400</link>
+      <guid>v2ex-1193400</guid>
+      <pubDate>Sat, 21 Feb 2026 10:33:33 GMT</pubDate>
+      <description>&lt;p&gt;老哥们新年好，我是 Scrollie （一款长截图 app ）的开发者，App 刚上线。&lt;/p&gt;
+&lt;p&gt;Scrollie 主要做一件事：
+把 iPhone 录屏/多张截图，快速整理成一张干净长图。&lt;/p&gt;
+&lt;p&gt;这次在 V2EX 送 50 个「终身会员」兑换码（ App 内购项目）&lt;/p&gt;
+&lt;p&gt;参与方式：在本帖回复邮箱（ base64 或 原邮箱都行）&lt;/p&gt;
+&lt;p&gt;兑换方式（ iOS / App 内购终身会员）：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开 App Store&lt;/li&gt;
+&lt;li&gt;右上角头像 -&amp;gt; 兑换充值卡或代码&lt;/li&gt;
+&lt;li&gt;输入兑换码&lt;/li&gt;
+&lt;li&gt;回到 Scrollie ，若未自动生效：设置页 -&amp;gt; 恢复购买&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;注意：兑换码有有效期，具体时间以邮件内为准&lt;/p&gt;
+&lt;p&gt;如果你用下来觉得顺手，欢迎在 App Store 留个真实评价；
+不评价也完全没关系，先用起来最重要。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/v13331r3.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>rootshell + tsshd 组成 VPN 太丝滑了，从此自建 VPN 不会再掉线</title>
       <link>https://www.v2ex.com/t/1193350</link>
       <guid>v2ex-1193350</guid>
@@ -125,16 +148,6 @@
       <guid>v2ex-1193345</guid>
       <pubDate>Fri, 20 Feb 2026 20:54:31 GMT</pubDate>
       <description>加载余额要三四秒左右，转账发红包领红包要等快 10 秒，诡异的是手机端开启 vpn 或者抓包软件，速度就恢复正常了，当然流量下也是一切正常的。除了微信支付其他加载速度也都全部正常，测速带宽各方面也没问题&lt;br /&gt;路由器是软路由爱快 3.7.10&lt;br /&gt;&lt;br /&gt;问 gemini 改了 dns 成 119.29.29.29 ，没有用； MTU 改成 1452 ，没有用；各种分流全部关掉了，也没有用；把爱快抓的 wireshark 日志发给它，也没分析出什么能解决问题的办法&lt;br /&gt;&lt;br /&gt;日志传到 od 了如果有大佬方便的话看一下吧 到底是不是运营商在作妖 &lt;a target=&quot;_blank&quot; href=&quot;https://lushugcadd-my.sharepoint.com/:u:/g/personal/ym_tm_sb/IQCmlOao5G0eT7bQm00VfLVuAXH2Giyum1RTYkgVMJxN_kM?e=Cg7dNR&quot; rel=&quot;nofollow noopener&quot;&gt;https://lushugcadd-my.sharepoint.com/:u:/g/personal/ym_tm_sb/IQCmlOao5G0eT7bQm00VfLVuAXH2Giyum1RTYkgVMJxN_kM?e=Cg7dNR&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>有没有第三方的苹果抛光布</title>
-      <link>https://www.v2ex.com/t/1193316</link>
-      <guid>v2ex-1193316</guid>
-      <pubDate>Fri, 20 Feb 2026 11:44:09 GMT</pubDate>
-      <description>&lt;p&gt;官方的太贵了 基本上一个月用不了几次&lt;/p&gt;
-&lt;p&gt;想入手一个第三方的 多买几个&lt;/p&gt;
-&lt;p&gt;老铁们 有推荐的嘛？&lt;/p&gt;
-</description>
     </item>
   </channel>
 </rss>
