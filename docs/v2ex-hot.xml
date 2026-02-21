@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Feb 2026 10:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 10:48:53 GMT</lastBuildDate>
     <item>
       <title>过年回家相亲记录</title>
       <link>https://www.v2ex.com/t/1193325</link>
@@ -36,21 +36,22 @@
 </description>
     </item>
     <item>
-      <title>身体已是靠胰岛素维持的状态，爸爸还是酒不离身，不正常吃饭吃药</title>
-      <link>https://www.v2ex.com/t/1193312</link>
-      <guid>v2ex-1193312</guid>
-      <pubDate>Fri, 20 Feb 2026 10:29:35 GMT</pubDate>
-      <description>&lt;p&gt;每天正常到饭点不吃饭，也不吃药，也不愿意吃药，还不愿意打胰岛素。他那血糖高，全都胰岛素压着&lt;/p&gt;
-&lt;p&gt;这是今天睡在石头窝里面的照片，发出来可能当作一个笑话，也可能多一个人看到无意间的一个评论也说不定有新的希望，是否能让结果变成另外一种可能，期望大家集思广益&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/20/699834dde4c99.webp&quot; rel=&quot;nofollow&quot;&gt;https://youke.xn--y7xa690gmna.cn/s1/2026/02/20/699834dde4c99.webp&lt;/a&gt;&lt;/p&gt;
-&lt;img alt=&quot;IMG_3497.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/20/699834dde4c99.webp&quot; title=&quot;IMG_3497.jpeg&quot;/&gt;</description>
-    </item>
-    <item>
       <title>这个推理速度也太快了吧！ chatjimmy.ai 比查 db 都快啊！</title>
       <link>https://www.v2ex.com/t/1193358</link>
       <guid>v2ex-1193358</guid>
       <pubDate>Sat, 21 Feb 2026 02:49:14 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;http://chatjimmy.ai&quot; rel=&quot;nofollow&quot;&gt;chatjimmy.ai&lt;/a&gt;  可以体验 “Taalas 推出首款产品 HC1 ，搭载 Llama 3.1 8B 模型，性能达每用户 17,000 tokens/秒，较现有技术快近 10 倍，制造成本降低 20 倍，功耗减少 10 倍。该模型虽采用自定义 3-bit 数据格式，存在轻微精度损失，但第二代产品将采用标准 4-bit 浮点格式，进一步优化性能。”&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>活不下去了。</title>
+      <link>https://www.v2ex.com/t/1193355</link>
+      <guid>v2ex-1193355</guid>
+      <pubDate>Sat, 21 Feb 2026 01:42:41 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;每天脑子里担心害怕的事情非常离谱&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;没人能理解&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;死亡焦虑到了极点，因为焦虑症跟家人生气，只要生气就会担心自己高血压出事，赶紧要量血压&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;每天要量几十遍血压&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -63,17 +64,6 @@
 &lt;p&gt;v2ex 站长怎么会去支持这种项目。
 如果这个帖子被删了，你觉得我会怎么做？&lt;/p&gt;
 &lt;p&gt;⚠️ API provider returned a billing error — your API key has run out of credits or has an insufficient balance. Check your provider&#39;s billing dashboard and top up or switch to a different API key.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>活不下去了。</title>
-      <link>https://www.v2ex.com/t/1193355</link>
-      <guid>v2ex-1193355</guid>
-      <pubDate>Sat, 21 Feb 2026 01:42:41 GMT</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;每天脑子里担心害怕的事情非常离谱&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;没人能理解&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;死亡焦虑到了极点，因为焦虑症跟家人生气，只要生气就会担心自己高血压出事，赶紧要量血压&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;每天要量几十遍血压&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -135,6 +125,16 @@
       <guid>v2ex-1193345</guid>
       <pubDate>Fri, 20 Feb 2026 20:54:31 GMT</pubDate>
       <description>加载余额要三四秒左右，转账发红包领红包要等快 10 秒，诡异的是手机端开启 vpn 或者抓包软件，速度就恢复正常了，当然流量下也是一切正常的。除了微信支付其他加载速度也都全部正常，测速带宽各方面也没问题&lt;br /&gt;路由器是软路由爱快 3.7.10&lt;br /&gt;&lt;br /&gt;问 gemini 改了 dns 成 119.29.29.29 ，没有用； MTU 改成 1452 ，没有用；各种分流全部关掉了，也没有用；把爱快抓的 wireshark 日志发给它，也没分析出什么能解决问题的办法&lt;br /&gt;&lt;br /&gt;日志传到 od 了如果有大佬方便的话看一下吧 到底是不是运营商在作妖 &lt;a target=&quot;_blank&quot; href=&quot;https://lushugcadd-my.sharepoint.com/:u:/g/personal/ym_tm_sb/IQCmlOao5G0eT7bQm00VfLVuAXH2Giyum1RTYkgVMJxN_kM?e=Cg7dNR&quot; rel=&quot;nofollow noopener&quot;&gt;https://lushugcadd-my.sharepoint.com/:u:/g/personal/ym_tm_sb/IQCmlOao5G0eT7bQm00VfLVuAXH2Giyum1RTYkgVMJxN_kM?e=Cg7dNR&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>有没有第三方的苹果抛光布</title>
+      <link>https://www.v2ex.com/t/1193316</link>
+      <guid>v2ex-1193316</guid>
+      <pubDate>Fri, 20 Feb 2026 11:44:09 GMT</pubDate>
+      <description>&lt;p&gt;官方的太贵了 基本上一个月用不了几次&lt;/p&gt;
+&lt;p&gt;想入手一个第三方的 多买几个&lt;/p&gt;
+&lt;p&gt;老铁们 有推荐的嘛？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
