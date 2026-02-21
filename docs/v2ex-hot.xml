@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Feb 2026 08:52:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 09:20:36 GMT</lastBuildDate>
     <item>
       <title>过年回家相亲记录</title>
       <link>https://www.v2ex.com/t/1193325</link>
@@ -46,21 +46,11 @@
 &lt;img alt=&quot;IMG_3497.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/20/699834dde4c99.webp&quot; title=&quot;IMG_3497.jpeg&quot;/&gt;</description>
     </item>
     <item>
-      <title>从洗车问题到存款问题，短期内 AI 编程无法全自动化</title>
-      <link>https://www.v2ex.com/t/1193310</link>
-      <guid>v2ex-1193310</guid>
-      <pubDate>Fri, 20 Feb 2026 09:07:00 GMT</pubDate>
-      <description>&lt;p&gt;在前不久，洗车问题（洗车店距离近，我该走过去还是开车过去的问题），几乎全部 AI 回答都是走过去。（后面部分 AI 大模型经过了微调，现在部分能回答出正确的答案）
-但问题只要稍微转换一下，如存钱问题（自助取款机排队太慢了，我前边的人要存 100 ，我要取 100 ，我们两个都在这儿排着，完全是在浪费时间，有什么办法让我们都效率一点吗？）几乎大部分 AI 的大模型回答又是一本正经的胡说八道。
-如，最近很火的一款 AI 回答如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;这是一个经典的效率优化问题！你们两个的需求刚好互补：
-解决方案：直接私下交易
-前面的人直接把 100 元现金给你
-你就不用取了，他也省去存款操作
-两个人都可以直接离开
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;其实，从上面的情况，我们可以看出，目前的大模型其实并不是真正的理解问题的本质，而是纯粹概率学上的堆砌。而总所周知，概率学的堆砌在重复足够次数之后，可能存在重大的偏差，如：0.9 的 5 次方是 0.59049 。&lt;/p&gt;
-&lt;p&gt;我不否认 Vibing Coding 对效率的大幅提升，这是显而易见的。但我觉得短期之内，AI 无法实现全自动化的编程。即，当前的 AI 编程是处于类似 L3 级别的辅助驾驶阶段，距离 L4 级别的自动驾驶还有一段较长的路径要走。&lt;/p&gt;
+      <title>这个推理速度也太快了吧！ chatjimmy.ai 比查 db 都快啊！</title>
+      <link>https://www.v2ex.com/t/1193358</link>
+      <guid>v2ex-1193358</guid>
+      <pubDate>Sat, 21 Feb 2026 02:49:14 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;http://chatjimmy.ai&quot; rel=&quot;nofollow&quot;&gt;chatjimmy.ai&lt;/a&gt;  可以体验 “Taalas 推出首款产品 HC1 ，搭载 Llama 3.1 8B 模型，性能达每用户 17,000 tokens/秒，较现有技术快近 10 倍，制造成本降低 20 倍，功耗减少 10 倍。该模型虽采用自定义 3-bit 数据格式，存在轻微精度损失，但第二代产品将采用标准 4-bit 浮点格式，进一步优化性能。”&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -92,14 +82,6 @@
       <guid>v2ex-1193350</guid>
       <pubDate>Sat, 21 Feb 2026 00:10:37 GMT</pubDate>
       <description>rootshell： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/kitknox/rootshell&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/kitknox/rootshell&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;tsshd: &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/trzsz/tsshd&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/trzsz/tsshd&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我给 rootshell 提了个 issue： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/kitknox/rootshell/issues/51&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/kitknox/rootshell/issues/51&lt;/a&gt; ，rootshell 作者实现了 VPN 功能，配合 tsshd 用起来实在是太丝滑了，在 iPhone 看 YouTube 终于不再有掉线的烦恼了，太 Cool 了！&lt;br /&gt;&lt;br /&gt;分享一下 rootshell 的 VPN 用法：&lt;br /&gt;&lt;br /&gt;1 、安装 rootshell 后，先 + 一个 profile ，添加某台海外的 VPS 服务器，重点是 Protocol 选择 Roam - tssh ，打开 Enable VPN 。&lt;br /&gt;&lt;br /&gt;2 、在 VPS 服务器上安装 tsshd ，要在 PATH 路径下能找到 tsshd 二进制程序。验证：在 rootshell 中选择 profile 看能不能正常登录（使用 VPN  时可以不登录）。&lt;br /&gt;&lt;br /&gt;3 、在 rootshell 右上角 Settings 中，找到 VPN ，点击 VPN Profile 中的启动按钮，就可以愉快地刷 YouTube 了。</description>
-    </item>
-    <item>
-      <title>这个推理速度也太快了吧！ chatjimmy.ai 比查 db 都快啊！</title>
-      <link>https://www.v2ex.com/t/1193358</link>
-      <guid>v2ex-1193358</guid>
-      <pubDate>Sat, 21 Feb 2026 02:49:14 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;http://chatjimmy.ai&quot; rel=&quot;nofollow&quot;&gt;chatjimmy.ai&lt;/a&gt;  可以体验 “Taalas 推出首款产品 HC1 ，搭载 Llama 3.1 8B 模型，性能达每用户 17,000 tokens/秒，较现有技术快近 10 倍，制造成本降低 20 倍，功耗减少 10 倍。该模型虽采用自定义 3-bit 数据格式，存在轻微精度损失，但第二代产品将采用标准 4-bit 浮点格式，进一步优化性能。”&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>个人如何选择出海软件的支付方案？</title>
@@ -146,6 +128,13 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;家里的宽带好像是湖南电信的光纤到户，有没有解决这个问题的办法啊？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>南京电信 微信支付相关加载缓慢</title>
+      <link>https://www.v2ex.com/t/1193345</link>
+      <guid>v2ex-1193345</guid>
+      <pubDate>Fri, 20 Feb 2026 20:54:31 GMT</pubDate>
+      <description>加载余额要三四秒左右，转账发红包领红包要等快 10 秒，诡异的是手机端开启 vpn 或者抓包软件，速度就恢复正常了，当然流量下也是一切正常的。除了微信支付其他加载速度也都全部正常，测速带宽各方面也没问题&lt;br /&gt;路由器是软路由爱快 3.7.10&lt;br /&gt;&lt;br /&gt;问 gemini 改了 dns 成 119.29.29.29 ，没有用； MTU 改成 1452 ，没有用；各种分流全部关掉了，也没有用；把爱快抓的 wireshark 日志发给它，也没分析出什么能解决问题的办法&lt;br /&gt;&lt;br /&gt;日志传到 od 了如果有大佬方便的话看一下吧 到底是不是运营商在作妖 &lt;a target=&quot;_blank&quot; href=&quot;https://lushugcadd-my.sharepoint.com/:u:/g/personal/ym_tm_sb/IQCmlOao5G0eT7bQm00VfLVuAXH2Giyum1RTYkgVMJxN_kM?e=Cg7dNR&quot; rel=&quot;nofollow noopener&quot;&gt;https://lushugcadd-my.sharepoint.com/:u:/g/personal/ym_tm_sb/IQCmlOao5G0eT7bQm00VfLVuAXH2Giyum1RTYkgVMJxN_kM?e=Cg7dNR&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
