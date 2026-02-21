@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Feb 2026 03:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 05:00:02 GMT</lastBuildDate>
     <item>
       <title>4 年后再问， 2026 适合在深圳买房吗？</title>
       <link>https://www.v2ex.com/t/1193299</link>
@@ -65,13 +65,6 @@
 </description>
     </item>
     <item>
-      <title>求推荐一个家用路由器，小白不知道怎么搞</title>
-      <link>https://www.v2ex.com/t/1193286</link>
-      <guid>v2ex-1193286</guid>
-      <pubDate>Fri, 20 Feb 2026 04:04:31 GMT</pubDate>
-      <description>以前妈妈家里用的还是 WiFi5 的 13000 路由器，打算换个新的。搞不明白换什么。&lt;br /&gt;目前基准看着是小米 211 元的 AX3000 ，更贵能到 400 元 BE6500PRO （但不知道有啥用,只是有点怀疑 WiFi6 是不是有点老了）。&lt;br /&gt;使用多的时候也就四部手机、一个平板、两台电脑、一个智能电视，这样的需求。&lt;br /&gt;（目前科学上网都是手机电脑平板自己开 clash ，想弄代理网络，让妈妈能用电视看看网飞什么的，但是路由器本身做代理网络是不是很难呀，似乎要外挂软路由，但家里没有多余的内存条可以用）&lt;br /&gt;谢谢大佬指点，或者推荐点学习资料也好。实在没有头绪。。。。</description>
-    </item>
-    <item>
       <title>身体已是靠胰岛素维持的状态，爸爸还是酒不离身，不正常吃饭吃药</title>
       <link>https://www.v2ex.com/t/1193312</link>
       <guid>v2ex-1193312</guid>
@@ -80,18 +73,6 @@
 &lt;p&gt;这是今天睡在石头窝里面的照片，发出来可能当作一个笑话，也可能多一个人看到无意间的一个评论也说不定有新的希望，是否能让结果变成另外一种可能，期望大家集思广益&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/20/699834dde4c99.webp&quot; rel=&quot;nofollow&quot;&gt;https://youke.xn--y7xa690gmna.cn/s1/2026/02/20/699834dde4c99.webp&lt;/a&gt;&lt;/p&gt;
 &lt;img alt=&quot;IMG_3497.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://youke.xn--y7xa690gmna.cn/s1/2026/02/20/699834dde4c99.webp&quot; title=&quot;IMG_3497.jpeg&quot;/&gt;</description>
-    </item>
-    <item>
-      <title>反馈 api 不可用，被踢了。</title>
-      <link>https://www.v2ex.com/t/1193339</link>
-      <guid>v2ex-1193339</guid>
-      <pubDate>Fri, 20 Feb 2026 16:15:48 GMT</pubDate>
-      <description>&lt;p&gt;持币 1000w 以上，今天 api 使用不足 10 刀，反馈 api 报错，然后就被踢出群了。
-我以为项目方跑路！&lt;/p&gt;
-&lt;p&gt;v2ex 站长怎么会去支持这种项目。
-如果这个帖子被删了，你觉得我会怎么做？&lt;/p&gt;
-&lt;p&gt;⚠️ API provider returned a billing error — your API key has run out of credits or has an insufficient balance. Check your provider&#39;s billing dashboard and top up or switch to a different API key.&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>从洗车问题到存款问题，短期内 AI 编程无法全自动化</title>
@@ -112,6 +93,25 @@
 </description>
     </item>
     <item>
+      <title>反馈 api 不可用，被踢了。</title>
+      <link>https://www.v2ex.com/t/1193339</link>
+      <guid>v2ex-1193339</guid>
+      <pubDate>Fri, 20 Feb 2026 16:15:48 GMT</pubDate>
+      <description>&lt;p&gt;持币 1000w 以上，今天 api 使用不足 10 刀，反馈 api 报错，然后就被踢出群了。
+我以为项目方跑路！&lt;/p&gt;
+&lt;p&gt;v2ex 站长怎么会去支持这种项目。
+如果这个帖子被删了，你觉得我会怎么做？&lt;/p&gt;
+&lt;p&gt;⚠️ API provider returned a billing error — your API key has run out of credits or has an insufficient balance. Check your provider&#39;s billing dashboard and top up or switch to a different API key.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>春晚太无聊, 做了个漂亮的 native 剪切板 app</title>
+      <link>https://www.v2ex.com/t/1193295</link>
+      <guid>v2ex-1193295</guid>
+      <pubDate>Fri, 20 Feb 2026 05:58:33 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/LdalVLP&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/LdalVLP&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;目前已经支持的:&lt;br /&gt;- 自动记录剪切板;&lt;br /&gt;- 搜索;&lt;br /&gt;- 过滤来源 app;&lt;br /&gt;- 过滤类型;&lt;br /&gt;- tag 筛选;&lt;br /&gt;- 快捷键绑定 tag;&lt;br /&gt;- 预览常用类型;&lt;br /&gt;- 直接粘贴到目标 app(审核问题, 需要下载个外部插件);&lt;br /&gt;&lt;br /&gt;正在开发中:&lt;br /&gt;- 支持常用视频类型压缩、转换;&lt;br /&gt;- 视频转 GIF;&lt;br /&gt;- 支持 tinypng 压缩;&lt;br /&gt;- 支持 imgbb 图床;&lt;br /&gt;&lt;br /&gt;后续计划:&lt;br /&gt;- iOS 版;&lt;br /&gt;&lt;br /&gt;基本功能免费, 高级功能需要 pro, 目前支持早鸟价格买断!, 欢迎下载体验!&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/XlhUerN&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/XlhUerN&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/kmp8NLz&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/kmp8NLz&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>随着这几年 AI 的崛起，我发现一个非常困惑的问题。</title>
       <link>https://www.v2ex.com/t/1193304</link>
       <guid>v2ex-1193304</guid>
@@ -122,13 +122,6 @@
 &lt;p&gt;就给我的感觉是迷迷糊糊的 AI 就火了，身边程序员啥的都开始用。&lt;/p&gt;
 &lt;p&gt;但是并没有看到新闻报道突破了什么困难。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>春晚太无聊, 做了个漂亮的 native 剪切板 app</title>
-      <link>https://www.v2ex.com/t/1193295</link>
-      <guid>v2ex-1193295</guid>
-      <pubDate>Fri, 20 Feb 2026 05:58:33 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/LdalVLP&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/LdalVLP&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;目前已经支持的:&lt;br /&gt;- 自动记录剪切板;&lt;br /&gt;- 搜索;&lt;br /&gt;- 过滤来源 app;&lt;br /&gt;- 过滤类型;&lt;br /&gt;- tag 筛选;&lt;br /&gt;- 快捷键绑定 tag;&lt;br /&gt;- 预览常用类型;&lt;br /&gt;- 直接粘贴到目标 app(审核问题, 需要下载个外部插件);&lt;br /&gt;&lt;br /&gt;正在开发中:&lt;br /&gt;- 支持常用视频类型压缩、转换;&lt;br /&gt;- 视频转 GIF;&lt;br /&gt;- 支持 tinypng 压缩;&lt;br /&gt;- 支持 imgbb 图床;&lt;br /&gt;&lt;br /&gt;后续计划:&lt;br /&gt;- iOS 版;&lt;br /&gt;&lt;br /&gt;基本功能免费, 高级功能需要 pro, 目前支持早鸟价格买断!, 欢迎下载体验!&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/XlhUerN&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/XlhUerN&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/kmp8NLz&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/kmp8NLz&lt;/a&gt;</description>
     </item>
     <item>
       <title>个人如何选择出海软件的支付方案？</title>
@@ -145,6 +138,35 @@
 &lt;li&gt;连连支付（国际）&lt;/li&gt;
 &lt;li&gt;dogpay&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>高峰时段跨国下行网速很低有解决办法吗？</title>
+      <link>https://www.v2ex.com/t/1193327</link>
+      <guid>v2ex-1193327</guid>
+      <pubDate>Fri, 20 Feb 2026 13:01:52 GMT</pubDate>
+      <description>&lt;p&gt;书接前回，按大家在 &lt;a href=&quot;https://www.v2ex.com/t/1190260&quot; rel=&quot;nofollow&quot;&gt;/t/119026&lt;/a&gt; 的建议，自建了一个节点。&lt;/p&gt;
+&lt;p&gt;用起来发现，从国内连这个节点空闲时段和高峰时段的网速差别很大：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;下行速度&lt;/th&gt;
+&lt;th&gt;上行速度&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;空闲时段（早八点）&lt;/td&gt;
+&lt;td&gt;69Mbps&lt;/td&gt;
+&lt;td&gt;46Mbps&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;高峰时段（晚八点）&lt;/td&gt;
+&lt;td&gt;5Mbps&lt;/td&gt;
+&lt;td&gt;52Mbps&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;家里的宽带好像是湖南电信的光纤到户，有没有解决这个问题的办法啊？&lt;/p&gt;
 </description>
     </item>
   </channel>
