@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 22 Feb 2026 09:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 09:51:08 GMT</lastBuildDate>
     <item>
       <title>[送码] Scrollie - 长截图 iOS 上线，送 50 个终身会员兑换码（邮箱发放）</title>
       <link>https://www.v2ex.com/t/1193400</link>
@@ -131,40 +131,6 @@
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;h1&gt;_________________________________________________________________&lt;/h1&gt;
-</description>
-    </item>
-    <item>
-      <title>独立开发了一个&quot;有终点&quot;的新闻站 3mins.news，今天上了 Product Hunt</title>
-      <link>https://www.v2ex.com/t/1193390</link>
-      <guid>v2ex-1193390</guid>
-      <pubDate>Sat, 21 Feb 2026 09:38:58 GMT</pubDate>
-      <description>&lt;p&gt;各位大佬好，&lt;/p&gt;
-&lt;p&gt;我是一个独立开发者，做了一个新闻聚合站 &lt;a href=&quot;https://3mins.news/?utm_source=v2ex&amp;amp;utm_medium=post&amp;amp;utm_campaign=ph_launch&quot; rel=&quot;nofollow&quot;&gt;3mins.news&lt;/a&gt;，今天刚在 Product Hunt 上线，来分享一下。&lt;/p&gt;
-&lt;h2&gt;为什么做这个&lt;/h2&gt;
-&lt;p&gt;所有新闻 App 都想让你一直刷下去。我之前每天早上打开新闻，不知不觉就焦虑了——总觉得还有更多没看的。&lt;/p&gt;
-&lt;p&gt;所以我做了一个反过来的东西：一个有终点的新闻页面。&lt;/p&gt;
-&lt;p&gt;每天只给 5-7 条精选，读完页面底部会告诉你&quot;You&#39;re all caught up&quot;——今天的世界，你已了解，去过你的生活吧。&lt;/p&gt;
-&lt;h2&gt;做了什么&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;AI 从 180+ 信息源（ 17 种语言）的 30,000+ 篇文章中筛选出每天最重要的 5-7 条&lt;/li&gt;
-&lt;li&gt;每条新闻都有 AI 生成的四段式事件速览（现状/最新/背景/展望），帮你 2 分钟搞懂一件事的来龙去脉&lt;/li&gt;
-&lt;li&gt;支持 17 种语言界面&lt;/li&gt;
-&lt;li&gt;每日邮件简报&lt;/li&gt;
-&lt;li&gt;完全免费（竞品 News Minimalist 类似功能收 $15/月）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;技术栈&lt;/h2&gt;
-&lt;p&gt;Next.js + Cloudflare Workers ，pgvector 做新闻向量聚类，自建了 6 个工作流管线（抓取 → 聚类 → 评分 → 发布 + 事件追踪 + 叙事生成）。运营成本大概 $130-150/月，一个人扛得住。&lt;/p&gt;
-&lt;h2&gt;Product Hunt&lt;/h2&gt;
-&lt;p&gt;今天刚上线 PH ，如果觉得有意思可以去支持一下：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.producthunt.com/posts/3mins-news&quot; rel=&quot;nofollow&quot;&gt;https://www.producthunt.com/posts/3mins-news&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;（第一次上 PH ，不太懂玩法，纯粹想让更多人看到）&lt;/p&gt;
-&lt;h2&gt;想聊的&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&quot;有限&quot;这个概念你们觉得有吸引力吗？还是大部分人其实就是想要更多内容？&lt;/li&gt;
-&lt;li&gt;目前在探索商业化方向（事件订阅推送），有什么建议？&lt;/li&gt;
-&lt;li&gt;任何反馈都欢迎，产品还在早期。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;谢谢各位。&lt;/p&gt;
 </description>
     </item>
     <item>
