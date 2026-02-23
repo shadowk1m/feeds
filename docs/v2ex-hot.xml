@@ -4,39 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 23 Feb 2026 07:46:39 GMT</lastBuildDate>
-    <item>
-      <title>请教一下稳定的 VPS 推荐。</title>
-      <link>https://www.v2ex.com/t/1193471</link>
-      <guid>v2ex-1193471</guid>
-      <pubDate>Sun, 22 Feb 2026 07:58:51 GMT</pubDate>
-      <description>&lt;p&gt;最近一直用的机场跑路了，干脆想着自己搭一个，想请各位推荐一下，一定要是稳定的，感谢感谢。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;用途&lt;/strong&gt; ：梯子&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;预算&lt;/strong&gt; ：250 美元/年左右&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;网络环境&lt;/strong&gt; ：广州电信、广州移动&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;基本要求&lt;/strong&gt; : 看 youtube 不卡，高峰时期也能保证基本的速度&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;优先级&lt;/strong&gt; ：稳定&amp;gt;速度&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>正向思维， AI 会利好哪些岗位？</title>
-      <link>https://www.v2ex.com/t/1193498</link>
-      <guid>v2ex-1193498</guid>
-      <pubDate>Sun, 22 Feb 2026 14:06:01 GMT</pubDate>
-      <description>Ai 加持下传统软件工程里 coding 和 test 岗位（数量）确实面临压力。&lt;br /&gt;&lt;br /&gt;那么其他的岗位呢？比如架构，需求分析，运维，技术支持，售前支持等岗位，他们被 ai 冲击的部分会在哪里。&lt;br /&gt;&lt;br /&gt;架构和需求分析有可能会进一步演化成 prompt oriented 。目标是搞清楚客户要什么，转化为 ai 能执行的 prompt 。&lt;br /&gt;&lt;br /&gt;运维感觉也会受到不小的冲击。&lt;br /&gt;&lt;br /&gt;（高级）技术支持怕是主要作用是给 ai 擦屁股？分析 ai vibe 出来的代码怎么就在这个地方不管用。而售前支持则是对齐需求和既有产品颗粒度，感觉也容易被 ai 替代。</description>
-    </item>
-    <item>
-      <title>也许又是一个删库跑路的爽文</title>
-      <link>https://www.v2ex.com/t/1193513</link>
-      <guid>v2ex-1193513</guid>
-      <pubDate>Sun, 22 Feb 2026 23:29:53 GMT</pubDate>
-      <description>&lt;p&gt;没听各位大佬的忠告啊，想到是大学同学让帮忙就没有埋雷，结果被坑了。
-大致流程就是技术入股-&amp;gt;免费劳动帮程序从 php go ，迁移到 java ，期间给过几次 3 千生活费，然后去年威逼/利诱离职跟着干我看他们对技术没那么尊重，而且行业我也不看好（房地产购房小程序），就拿了几万退股，后面知道那套程序卖了 90 多，我说那有没有我的份，从合同上来看，确实是没我的份，后悔没埋雷啊。
-打开电脑找资料的时候，发现里面还有数据库的连接还能连上......应该是他们交接了没改密码，或者是我当初建的查询账户，总之我资料全交了，有没有合法的方法要回我的收入，还有合同里面应该备注程序之类的智慧知识产权不能专卖，坑啊，大家引以为戒。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Mon, 23 Feb 2026 08:36:32 GMT</lastBuildDate>
     <item>
       <title>在 x 上看到一篇文章，贴给大家看看： Claude Code 创始人：程序员， 2026 年开始消失</title>
       <link>https://www.v2ex.com/t/1193512</link>
@@ -133,6 +101,13 @@ Claude Code 拿到 heap dump 之后，先给自己写了一个小工具来分析
 </description>
     </item>
     <item>
+      <title>正向思维， AI 会利好哪些岗位？</title>
+      <link>https://www.v2ex.com/t/1193498</link>
+      <guid>v2ex-1193498</guid>
+      <pubDate>Sun, 22 Feb 2026 14:06:01 GMT</pubDate>
+      <description>Ai 加持下传统软件工程里 coding 和 test 岗位（数量）确实面临压力。&lt;br /&gt;&lt;br /&gt;那么其他的岗位呢？比如架构，需求分析，运维，技术支持，售前支持等岗位，他们被 ai 冲击的部分会在哪里。&lt;br /&gt;&lt;br /&gt;架构和需求分析有可能会进一步演化成 prompt oriented 。目标是搞清楚客户要什么，转化为 ai 能执行的 prompt 。&lt;br /&gt;&lt;br /&gt;运维感觉也会受到不小的冲击。&lt;br /&gt;&lt;br /&gt;（高级）技术支持怕是主要作用是给 ai 擦屁股？分析 ai vibe 出来的代码怎么就在这个地方不管用。而售前支持则是对齐需求和既有产品颗粒度，感觉也容易被 ai 替代。</description>
+    </item>
+    <item>
       <title>[送码]视频加密播放器,回帖即送</title>
       <link>https://www.v2ex.com/t/1193532</link>
       <guid>v2ex-1193532</guid>
@@ -146,6 +121,16 @@ Claude Code 拿到 heap dump 之后，先给自己写了一个小工具来分析
 &lt;p&gt;欢迎有需要的朋友尝试.&lt;/p&gt;
 &lt;p&gt;下载地址:&lt;a href=&quot;https://lockbox.movingshop.cn&quot; rel=&quot;nofollow&quot;&gt;https://lockbox.movingshop.cn&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;注册后,回复注册的用户 ID 即送 10 年会员.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>也许又是一个删库跑路的爽文</title>
+      <link>https://www.v2ex.com/t/1193513</link>
+      <guid>v2ex-1193513</guid>
+      <pubDate>Sun, 22 Feb 2026 23:29:53 GMT</pubDate>
+      <description>&lt;p&gt;没听各位大佬的忠告啊，想到是大学同学让帮忙就没有埋雷，结果被坑了。
+大致流程就是技术入股-&amp;gt;免费劳动帮程序从 php go ，迁移到 java ，期间给过几次 3 千生活费，然后去年威逼/利诱离职跟着干我看他们对技术没那么尊重，而且行业我也不看好（房地产购房小程序），就拿了几万退股，后面知道那套程序卖了 90 多，我说那有没有我的份，从合同上来看，确实是没我的份，后悔没埋雷啊。
+打开电脑找资料的时候，发现里面还有数据库的连接还能连上......应该是他们交接了没改密码，或者是我当初建的查询账户，总之我资料全交了，有没有合法的方法要回我的收入，还有合同里面应该备注程序之类的智慧知识产权不能专卖，坑啊，大家引以为戒。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -166,6 +151,24 @@ Claude Code 拿到 heap dump 之后，先给自己写了一个小工具来分析
 &lt;p&gt;&lt;strong&gt;存在的问题&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;百度的布局不完全 iOS, 九宫格输入时 1 键会变成分词, 而不是一直是逗号句号.&lt;/p&gt;
 &lt;p&gt;还有其他类 iOS 输入法推荐?&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>大家现在语音输入使用什么输入法？</title>
+      <link>https://www.v2ex.com/t/1193531</link>
+      <guid>v2ex-1193531</guid>
+      <pubDate>Mon, 23 Feb 2026 03:19:57 GMT</pubDate>
+      <description>&lt;p&gt;之前朋友向我推荐语音输入，说他用语音输入法后效率大幅提升，&lt;br/&gt;
+但我之前用的一些语音输入法识别率不高。&lt;br/&gt;
+而且一直对语音输入心理上多多少少有点抵触，平时本身就不怎么喜欢说话...  &lt;/p&gt;
+&lt;p&gt;昨天我在手机上装了豆包输入法，准确率很高，会结合上下文修正输出。&lt;br/&gt;
+感觉相比键盘输入，效率确实提升不少。  &lt;/p&gt;
+&lt;p&gt;但电脑端豆包输入法没有出。&lt;br/&gt;
+我在电脑上也试了秘塔回响，准确率还是比豆包低一些。&lt;br/&gt;
+不过秘塔的优势是会用大模型对你说的内容自动进行整理后再输出。&lt;br/&gt;
+但是感觉准确率还是差了一些，还需要手动改。
+就用了一会，感觉还是有很多 BUG.   &lt;/p&gt;
+&lt;p&gt;不知道当下有没有其他更优的工具或输入法推荐？&lt;/p&gt;
 </description>
     </item>
     <item>
