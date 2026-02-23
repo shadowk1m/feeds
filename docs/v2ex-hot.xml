@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 23 Feb 2026 08:36:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 09:42:01 GMT</lastBuildDate>
     <item>
       <title>在 x 上看到一篇文章，贴给大家看看： Claude Code 创始人：程序员， 2026 年开始消失</title>
       <link>https://www.v2ex.com/t/1193512</link>
@@ -101,13 +101,6 @@ Claude Code 拿到 heap dump 之后，先给自己写了一个小工具来分析
 </description>
     </item>
     <item>
-      <title>正向思维， AI 会利好哪些岗位？</title>
-      <link>https://www.v2ex.com/t/1193498</link>
-      <guid>v2ex-1193498</guid>
-      <pubDate>Sun, 22 Feb 2026 14:06:01 GMT</pubDate>
-      <description>Ai 加持下传统软件工程里 coding 和 test 岗位（数量）确实面临压力。&lt;br /&gt;&lt;br /&gt;那么其他的岗位呢？比如架构，需求分析，运维，技术支持，售前支持等岗位，他们被 ai 冲击的部分会在哪里。&lt;br /&gt;&lt;br /&gt;架构和需求分析有可能会进一步演化成 prompt oriented 。目标是搞清楚客户要什么，转化为 ai 能执行的 prompt 。&lt;br /&gt;&lt;br /&gt;运维感觉也会受到不小的冲击。&lt;br /&gt;&lt;br /&gt;（高级）技术支持怕是主要作用是给 ai 擦屁股？分析 ai vibe 出来的代码怎么就在这个地方不管用。而售前支持则是对齐需求和既有产品颗粒度，感觉也容易被 ai 替代。</description>
-    </item>
-    <item>
       <title>[送码]视频加密播放器,回帖即送</title>
       <link>https://www.v2ex.com/t/1193532</link>
       <guid>v2ex-1193532</guid>
@@ -134,24 +127,11 @@ Claude Code 拿到 heap dump 之后，先给自己写了一个小工具来分析
 </description>
     </item>
     <item>
-      <title>因为 iOS 输入法的词库问题而换掉了默认输入法</title>
-      <link>https://www.v2ex.com/t/1193523</link>
-      <guid>v2ex-1193523</guid>
-      <pubDate>Mon, 23 Feb 2026 02:03:25 GMT</pubDate>
-      <description>&lt;p&gt;试了搜狗, Gboard, 微信, 手心, 最后留下了 百度 来用.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;布局&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;习惯了 iOS 默认的九宫格输入布局, 觉得用起来挺舒服顺手, 不能调整布局的输入法就没考虑了.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;词库&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;国内输入法很好的补全了词库的问题. 在词库设置里添加热门词库就可以用了.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;隐私&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;剪贴板, 翻译, 计算器小功能都可以离线使用, 禁止联网权限能减轻隐私焦虑?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风评&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;百度 这个词确实很难评.&lt;/p&gt;
-&lt;p&gt;一直使用默认的输入法, 切到淘宝京东抖音立马给推荐相关产品也会出现.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;存在的问题&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;百度的布局不完全 iOS, 九宫格输入时 1 键会变成分词, 而不是一直是逗号句号.&lt;/p&gt;
-&lt;p&gt;还有其他类 iOS 输入法推荐?&lt;/p&gt;
-</description>
+      <title>正向思维， AI 会利好哪些岗位？</title>
+      <link>https://www.v2ex.com/t/1193498</link>
+      <guid>v2ex-1193498</guid>
+      <pubDate>Sun, 22 Feb 2026 14:06:01 GMT</pubDate>
+      <description>Ai 加持下传统软件工程里 coding 和 test 岗位（数量）确实面临压力。&lt;br /&gt;&lt;br /&gt;那么其他的岗位呢？比如架构，需求分析，运维，技术支持，售前支持等岗位，他们被 ai 冲击的部分会在哪里。&lt;br /&gt;&lt;br /&gt;架构和需求分析有可能会进一步演化成 prompt oriented 。目标是搞清楚客户要什么，转化为 ai 能执行的 prompt 。&lt;br /&gt;&lt;br /&gt;运维感觉也会受到不小的冲击。&lt;br /&gt;&lt;br /&gt;（高级）技术支持怕是主要作用是给 ai 擦屁股？分析 ai vibe 出来的代码怎么就在这个地方不管用。而售前支持则是对齐需求和既有产品颗粒度，感觉也容易被 ai 替代。</description>
     </item>
     <item>
       <title>大家现在语音输入使用什么输入法？</title>
@@ -172,6 +152,26 @@ Claude Code 拿到 heap dump 之后，先给自己写了一个小工具来分析
 </description>
     </item>
     <item>
+      <title>因为 iOS 输入法的词库问题而换掉了默认输入法</title>
+      <link>https://www.v2ex.com/t/1193523</link>
+      <guid>v2ex-1193523</guid>
+      <pubDate>Mon, 23 Feb 2026 02:03:25 GMT</pubDate>
+      <description>&lt;p&gt;试了搜狗, Gboard, 微信, 手心, 最后留下了 百度 来用.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;布局&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;习惯了 iOS 默认的九宫格输入布局, 觉得用起来挺舒服顺手, 不能调整布局的输入法就没考虑了.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;词库&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;国内输入法很好的补全了词库的问题. 在词库设置里添加热门词库就可以用了.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;隐私&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;剪贴板, 翻译, 计算器小功能都可以离线使用, 禁止联网权限能减轻隐私焦虑?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风评&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;百度 这个词确实很难评.&lt;/p&gt;
+&lt;p&gt;一直使用默认的输入法, 切到淘宝京东抖音立马给推荐相关产品也会出现.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;存在的问题&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;百度的布局不完全 iOS, 九宫格输入时 1 键会变成分词, 而不是一直是逗号句号.&lt;/p&gt;
+&lt;p&gt;还有其他类 iOS 输入法推荐?&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>求推荐大手人体工学鼠标</title>
       <link>https://www.v2ex.com/t/1193480</link>
       <guid>v2ex-1193480</guid>
@@ -181,21 +181,21 @@ Claude Code 拿到 heap dump 之后，先给自己写了一个小工具来分析
 </description>
     </item>
     <item>
-      <title>特斯拉内推</title>
-      <link>https://www.v2ex.com/t/1193477</link>
-      <guid>v2ex-1193477</guid>
-      <pubDate>Sun, 22 Feb 2026 08:47:42 GMT</pubDate>
-      <description>&lt;p&gt;特斯拉内推&lt;/p&gt;
-&lt;p&gt;前后端开发，数据，算法工程师都有。&lt;/p&gt;
-&lt;p&gt;企业福利&lt;/p&gt;
-&lt;p&gt;15 天年假&lt;/p&gt;
-&lt;p&gt;ESPP 员工优惠购股&lt;/p&gt;
-&lt;p&gt;足额五险一金外有额外商业保险&lt;/p&gt;
-&lt;p&gt;入职有股票/现金奖励&lt;/p&gt;
-&lt;p&gt;免费午餐&lt;/p&gt;
-&lt;p&gt;工作地点：大部分职位在上海临港超级工厂办公，班车接送&lt;/p&gt;
-&lt;p&gt;工作时间：8:30 到下午 5 点&lt;/p&gt;
-&lt;p&gt;vx：LoL88880space&lt;/p&gt;
+      <title>梦见我的 app 一天新增 20 多个用户了</title>
+      <link>https://www.v2ex.com/t/1193516</link>
+      <guid>v2ex-1193516</guid>
+      <pubDate>Mon, 23 Feb 2026 00:28:29 GMT</pubDate>
+      <description>梦见我的 app 一天新增 20 多个用户了，醒来第一件事就是打开后台刷新数据&lt;br /&gt;——现实还是很冰冷，但我做的 Fluoro （荧光） 确实在慢慢发光。&lt;br /&gt;&lt;br /&gt;它是一个专为 AI 图像创作者准备的小社区，分享作品、整理 Prompt 、寻找灵感，不卷流量、不追风口，只让创作本身被看见。如果你也在深夜反复调参数、为一张图较真细节，或许可以来 Fluoro 看看，也许下一个“新增 20+”的那天，就从你开始。</description>
+    </item>
+    <item>
+      <title>AI 写的项目要怎么维护？都是一次性代码吗？</title>
+      <link>https://www.v2ex.com/t/1193522</link>
+      <guid>v2ex-1193522</guid>
+      <pubDate>Mon, 23 Feb 2026 01:55:52 GMT</pubDate>
+      <description>&lt;p&gt;去年 Leader 让大干快上了不少 AI 代码工程，年后开工需求又增加了不少，话说这些 AI 产生的项目（含 AI 量超过 50%）要怎么维护？&lt;/p&gt;
+&lt;p&gt;让人去读 AI 的代码，再去增删改查，还不如让人重新写来的顺手，就是慢。&lt;/p&gt;
+&lt;p&gt;另外，就是让 AI 自己改，从以往的经验看，让 AI 维护需求更新代码，还不如让 AI 从头重写，从零开始写代码可能消耗的 tokens 比改需求绕圈圈烧的钱还少。&lt;/p&gt;
+&lt;p&gt;这么看下来，AI 做的项目都是一次性代码吗？&lt;/p&gt;
 </description>
     </item>
   </channel>
