@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 23 Feb 2026 14:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 15:10:52 GMT</lastBuildDate>
     <item>
       <title>[送码]视频加密播放器,回帖即送</title>
       <link>https://www.v2ex.com/t/1193532</link>
@@ -19,6 +19,16 @@
 &lt;p&gt;欢迎有需要的朋友尝试.&lt;/p&gt;
 &lt;p&gt;下载地址:&lt;a href=&quot;https://lockbox.movingshop.cn&quot; rel=&quot;nofollow&quot;&gt;https://lockbox.movingshop.cn&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;注册后,回复注册的用户 ID 即送 10 年会员.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>也许又是一个删库跑路的爽文</title>
+      <link>https://www.v2ex.com/t/1193513</link>
+      <guid>v2ex-1193513</guid>
+      <pubDate>Sun, 22 Feb 2026 23:29:53 GMT</pubDate>
+      <description>&lt;p&gt;没听各位大佬的忠告啊，想到是大学同学让帮忙就没有埋雷，结果被坑了。
+大致流程就是技术入股-&amp;gt;免费劳动帮程序从 php go ，迁移到 java ，期间给过几次 3 千生活费，然后去年威逼/利诱离职跟着干我看他们对技术没那么尊重，而且行业我也不看好（房地产购房小程序），就拿了几万退股，后面知道那套程序卖了 90 多，我说那有没有我的份，从合同上来看，确实是没我的份，后悔没埋雷啊。
+打开电脑找资料的时候，发现里面还有数据库的连接还能连上......应该是他们交接了没改密码，或者是我当初建的查询账户，总之我资料全交了，有没有合法的方法要回我的收入，还有合同里面应该备注程序之类的智慧知识产权不能专卖，坑啊，大家引以为戒。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -117,23 +127,6 @@ Claude Code 拿到 heap dump 之后，先给自己写了一个小工具来分析
 </description>
     </item>
     <item>
-      <title>也许又是一个删库跑路的爽文</title>
-      <link>https://www.v2ex.com/t/1193513</link>
-      <guid>v2ex-1193513</guid>
-      <pubDate>Sun, 22 Feb 2026 23:29:53 GMT</pubDate>
-      <description>&lt;p&gt;没听各位大佬的忠告啊，想到是大学同学让帮忙就没有埋雷，结果被坑了。
-大致流程就是技术入股-&amp;gt;免费劳动帮程序从 php go ，迁移到 java ，期间给过几次 3 千生活费，然后去年威逼/利诱离职跟着干我看他们对技术没那么尊重，而且行业我也不看好（房地产购房小程序），就拿了几万退股，后面知道那套程序卖了 90 多，我说那有没有我的份，从合同上来看，确实是没我的份，后悔没埋雷啊。
-打开电脑找资料的时候，发现里面还有数据库的连接还能连上......应该是他们交接了没改密码，或者是我当初建的查询账户，总之我资料全交了，有没有合法的方法要回我的收入，还有合同里面应该备注程序之类的智慧知识产权不能专卖，坑啊，大家引以为戒。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>正向思维， AI 会利好哪些岗位？</title>
-      <link>https://www.v2ex.com/t/1193498</link>
-      <guid>v2ex-1193498</guid>
-      <pubDate>Sun, 22 Feb 2026 14:06:01 GMT</pubDate>
-      <description>Ai 加持下传统软件工程里 coding 和 test 岗位（数量）确实面临压力。&lt;br /&gt;&lt;br /&gt;那么其他的岗位呢？比如架构，需求分析，运维，技术支持，售前支持等岗位，他们被 ai 冲击的部分会在哪里。&lt;br /&gt;&lt;br /&gt;架构和需求分析有可能会进一步演化成 prompt oriented 。目标是搞清楚客户要什么，转化为 ai 能执行的 prompt 。&lt;br /&gt;&lt;br /&gt;运维感觉也会受到不小的冲击。&lt;br /&gt;&lt;br /&gt;（高级）技术支持怕是主要作用是给 ai 擦屁股？分析 ai vibe 出来的代码怎么就在这个地方不管用。而售前支持则是对齐需求和既有产品颗粒度，感觉也容易被 ai 替代。</description>
-    </item>
-    <item>
       <title>厨艺不精，养锅太难，友们推荐一个不粘锅吧（也欢迎推荐其他厨房好物）</title>
       <link>https://www.v2ex.com/t/1193565</link>
       <guid>v2ex-1193565</guid>
@@ -195,6 +188,14 @@ Claude Code 拿到 heap dump 之后，先给自己写了一个小工具来分析
 &lt;p&gt;让人去读 AI 的代码，再去增删改查，还不如让人重新写来的顺手，就是慢。&lt;/p&gt;
 &lt;p&gt;另外，就是让 AI 自己改，从以往的经验看，让 AI 维护需求更新代码，还不如让 AI 从头重写，从零开始写代码可能消耗的 tokens 比改需求绕圈圈烧的钱还少。&lt;/p&gt;
 &lt;p&gt;这么看下来，AI 做的项目都是一次性代码吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>目前 Manus 的替代品?</title>
+      <link>https://www.v2ex.com/t/1193552</link>
+      <guid>v2ex-1193552</guid>
+      <pubDate>Mon, 23 Feb 2026 06:46:02 GMT</pubDate>
+      <description>&lt;p&gt;想问问现在有哪些类似 manus 的帮我自动做事的平台？以及相较于 manus 如何呢？&lt;/p&gt;
 </description>
     </item>
   </channel>
