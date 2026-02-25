@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 25 Feb 2026 09:42:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 10:39:37 GMT</lastBuildDate>
     <item>
       <title>直接修改前端 class 就能查到 25 年的个税年度汇算了</title>
       <link>https://www.v2ex.com/t/1193867</link>
@@ -116,6 +116,16 @@ AI 驱动的项目命名
 </description>
     </item>
     <item>
+      <title>iPhone 如何优雅的添加 nfc 门禁卡</title>
+      <link>https://www.v2ex.com/t/1193889</link>
+      <guid>v2ex-1193889</guid>
+      <pubDate>Wed, 25 Feb 2026 01:59:27 GMT</pubDate>
+      <description>&lt;p&gt;网上找到的教程是开交通卡去物业写卡，太麻烦了&lt;/p&gt;
+&lt;p&gt;或者就是买个 nfc 卡贴自己复制&lt;/p&gt;
+&lt;p&gt;还有没有更优雅的方式&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Java 后端，被公司内部转岗到 AI 部门，现在整个人很麻，求指路</title>
       <link>https://www.v2ex.com/t/1193907</link>
       <guid>v2ex-1193907</guid>
@@ -131,16 +141,6 @@ Java 后端，搬砖多年，习惯了 Spring Cloud 、K8s 、MySQL 那一套确
 &lt;p&gt;学习路径怎么规划最稳妥？是先死磕 Python 基础，还是直接上手 LangChain 、向量数据库这些工具层？&lt;/p&gt;
 &lt;p&gt;大家都说 AI 是未来，但我怕自己只是去当个“调 API 的”，有没有类似转型经历的朋友分享下心得？&lt;/p&gt;
 &lt;p&gt;真心求教，不胜感激&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>iPhone 如何优雅的添加 nfc 门禁卡</title>
-      <link>https://www.v2ex.com/t/1193889</link>
-      <guid>v2ex-1193889</guid>
-      <pubDate>Wed, 25 Feb 2026 01:59:27 GMT</pubDate>
-      <description>&lt;p&gt;网上找到的教程是开交通卡去物业写卡，太麻烦了&lt;/p&gt;
-&lt;p&gt;或者就是买个 nfc 卡贴自己复制&lt;/p&gt;
-&lt;p&gt;还有没有更优雅的方式&lt;/p&gt;
 </description>
     </item>
     <item>
