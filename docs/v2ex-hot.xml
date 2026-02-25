@@ -4,128 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 25 Feb 2026 06:36:59 GMT</lastBuildDate>
-    <item>
-      <title>开工福利： Codex 免费蹬， Claude 低至 0.03 一次。助力 v 友开工</title>
-      <link>https://www.v2ex.com/t/1193738</link>
-      <guid>v2ex-1193738</guid>
-      <pubDate>Tue, 24 Feb 2026 06:36:29 GMT</pubDate>
-      <description>&lt;p&gt;网站地址：&lt;br/&gt;
-&lt;a href=&quot;https://www.bytecatcode.org&quot; rel=&quot;nofollow&quot;&gt;https://www.bytecatcode.org&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;我们是谁&lt;/h2&gt;
-&lt;p&gt;一群长期折腾 AI 渠道的技术玩家。&lt;br/&gt;
-从早期 kiro cc 渠道开始踩坑，一路做成现在的多模型中转服务。&lt;/p&gt;
-&lt;p&gt;不讲故事，只讲稳定和性价比。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h1&gt;当前支持模型&lt;/h1&gt;
-&lt;hr/&gt;
-&lt;h2&gt;1️⃣ Claude 系列（ CC 分组）&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;渠道&lt;/th&gt;
-&lt;th&gt;倍率&lt;/th&gt;
-&lt;th&gt;缓存&lt;/th&gt;
-&lt;th&gt;说明&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Kiro&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;0.2x&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;支持 Opus 4.6 ，性价比首选&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;AWS-Q&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;0.35x&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;综合表现更优，输出质量更稳&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Supper （反重力）&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;0.5x&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;接近满血，长上下文能力更好&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Hyber&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;0.68x&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;高思考预算，适合复杂任务&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Max&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;1.3x&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;官方 200 刀订阅号池，纯血 Max&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;hr/&gt;
-&lt;h2&gt;2️⃣ Codex 系列&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;渠道&lt;/th&gt;
-&lt;th&gt;倍率&lt;/th&gt;
-&lt;th&gt;说明&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Codex&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;0.25x&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;自建号池，支持 5.3 全系&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Codex-特惠&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;0.001x&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;自建号池，支持 5.3 全系 免费到正月十五&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;hr/&gt;
-&lt;h2&gt;3️⃣ Gemini 系列&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;渠道&lt;/th&gt;
-&lt;th&gt;倍率&lt;/th&gt;
-&lt;th&gt;说明&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Gemini&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;0.55x&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;支持 Gemini 3 全系（ Nano Banana 渠道对接中）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;hr/&gt;
-&lt;h1&gt;我们在做什么&lt;/h1&gt;
-&lt;p&gt;目标很简单：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;做一个长期稳定、价格合理的 AI 中转服务。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;目前已做：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;多渠道兜底，降低单点故障&lt;/li&gt;
-&lt;li&gt;优选 CF IP 节点，优化速度&lt;/li&gt;
-&lt;li&gt;套餐机制上线，适合价格敏感用户&lt;/li&gt;
-&lt;li&gt;用多少充多少，不要求大额预存&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;长期做，不跑路。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h1&gt;开工福利&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ Codex 免费体验：0.001 倍率&lt;/li&gt;
-&lt;li&gt;✅ 注册送 2$ | 邀请送 2$&lt;/li&gt;
-&lt;li&gt;✅ qq 群内抽奖兑换码
-📢 明天下午 3 点抽奖：&lt;br/&gt;
-Claude Kiro 套餐 199 × 2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;p&gt;欢迎自行测试对比。&lt;br/&gt;
-延迟、稳定性、模型表现问题可以直接回帖问。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Wed, 25 Feb 2026 07:44:36 GMT</lastBuildDate>
     <item>
       <title>直接修改前端 class 就能查到 25 年的个税年度汇算了</title>
       <link>https://www.v2ex.com/t/1193867</link>
@@ -134,14 +13,6 @@ Claude Kiro 套餐 199 × 2&lt;/li&gt;
       <description>&lt;p&gt;直接登录 &lt;a href=&quot;https://www.etax.chinatax.gov.cn&quot; rel=&quot;nofollow&quot;&gt;https://www.etax.chinatax.gov.cn&lt;/a&gt; 选我要办税-年度汇算，选择申报年度的时候，打开开发者工具，给 2025 那个 span 上的 disabled 类名移除，就能选择了，然后下一步，就能看到退/补税的信息了，当然现在还不能提交。
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/6SlO2gf.png&quot;/&gt;
 再次感慨一下，世界果然是个巨大的草台班子……&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>厌恶酒桌文化的碎碎念</title>
-      <link>https://www.v2ex.com/t/1193741</link>
-      <guid>v2ex-1193741</guid>
-      <pubDate>Tue, 24 Feb 2026 06:41:08 GMT</pubDate>
-      <description>&lt;p&gt;不知道别的地方是什么样，坐标苏北，真的太推崇酒桌文化了。每次过年回家都是不停的酒局（亲戚间），还都是白酒，先一桌一起喝四杯，然后一圈互相敬两杯，最后还得拿壶喝。喝酒我倒还好，主要是对于我这种内向的人来说主动敬酒真的是灾难，感觉自己像小孩子努力伪装成大人。我爸更是酒桌文化的推崇者，每次席上都要给我发消息：起来敬酒啊。在他看来酒桌文化玩不转的就好像是没用的人，啥事都干不了的，在亲戚面前给他丢面。年轻的时候我会甩脸就走，现在岁数大了想着尽量不要发生冲突，但是真的好厌恶。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -237,11 +108,11 @@ AI 驱动的项目命名
 </description>
     </item>
     <item>
-      <title>xshell xftp 过段时间让我升级一次 有没有其他的软件</title>
-      <link>https://www.v2ex.com/t/1193760</link>
-      <guid>v2ex-1193760</guid>
-      <pubDate>Tue, 24 Feb 2026 07:24:09 GMT</pubDate>
-      <description>&lt;p&gt;xshell xftp 过段时间让我升级一次 然后注册登录   很多次了  有没有大佬推荐个差不多的&lt;/p&gt;
+      <title>在社区医院如何正确跟医生表达不要开中成药、中药？</title>
+      <link>https://www.v2ex.com/t/1193873</link>
+      <guid>v2ex-1193873</guid>
+      <pubDate>Wed, 25 Feb 2026 01:35:38 GMT</pubDate>
+      <description>&lt;p&gt;如题，感冒每次都开盒口服液之类的又苦又感觉用处不是很大&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -253,43 +124,39 @@ AI 驱动的项目命名
 </description>
     </item>
     <item>
-      <title>标题： [求推荐] 寻找开箱即用的 Go Web 模板（需 GORM + DI + 垂直切片架构），顺便探讨一下 Go 社区对 DI 的态度</title>
-      <link>https://www.v2ex.com/t/1193763</link>
-      <guid>v2ex-1193763</guid>
-      <pubDate>Tue, 24 Feb 2026 07:27:36 GMT</pubDate>
-      <description>&lt;p&gt;大家好，&lt;/p&gt;
-&lt;p&gt;最近在做 Go 的 Web 项目选型，看了一圈生态里的框架，希望能找到一款偏向开箱即用的模板。想请大家推荐一下：&lt;/p&gt;
-&lt;p&gt;我理想中的框架特性：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;开箱即用：不想从零开始拼凑路由、日志、配置和 ORM 等基础组件，希望能有一套成熟的默认约定。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;深度集成依赖注入（ DI ）：希望框架能很好地管理对象的生命周期和依赖关系。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;集成 GORM：因为业务原因，需要 GORM 作为核心的数据库 ORM 工具。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;支持垂直切片架构（ Vertical Slice Architecture ）：这点极其重要！我不希望代码是按“技术职责”横向分层的（比如所有 controller 在一个包，所有 model 在一个包）。我希望框架的推荐实践是按“业务模块”来组织代码的。例如一个用户的业务，其结构应类似于：&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;/user
-  ├── user.model.go
-  ├── user.repository.go
-  ├── user.service.go
-  └── user.controller.go
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;不知道大家有没有符合上述要求的脚手架或框架推荐？&lt;/p&gt;
-&lt;p&gt;另外，还有一个疑惑想和大家交流讨论：&lt;/p&gt;
-&lt;p&gt;在研究 Go Web 框架和各种开源模板的过程中，我发现一个现象：在 Go 语言生态中，大家似乎对“依赖注入（ DI ）”并不是特别热衷？&lt;/p&gt;
-&lt;p&gt;在 Java (Spring) 或 C# (.NET) 里，DI 几乎是刻在骨子里的标配，不使用 IoC 容器简直没法写代码。&lt;/p&gt;
-&lt;p&gt;想听听老哥们的看法，为什么 Go 的社区风气对 DI 容器显得比较克制？&lt;/p&gt;
-&lt;p&gt;是因为 Go 强调的“大道至简（ Keep it simple ）”和显式编程哲学？&lt;/p&gt;
-&lt;p&gt;是手动传递依赖在 Go 里写起来并没有那么繁琐？&lt;/p&gt;
-&lt;p&gt;还是说使用反射（ Reflection ）做运行期 DI 在 Go 中有什么性能隐患或难以调试的坑？&lt;/p&gt;
-&lt;p&gt;期待大家的框架推荐以及对 DI 问题的看法，提前感谢！&lt;/p&gt;
-&lt;p&gt;前提，本人对 go 语言没有任务基础，也是最近刚尝试使用。上面的讨论如有不当之处，请多多包涵。&lt;/p&gt;
+      <title>Java 后端，被公司内部转岗到 AI 部门，现在整个人很麻，求指路</title>
+      <link>https://www.v2ex.com/t/1193907</link>
+      <guid>v2ex-1193907</guid>
+      <pubDate>Wed, 25 Feb 2026 02:40:31 GMT</pubDate>
+      <description>&lt;p&gt;[背景]
+Java 后端，搬砖多年，习惯了 Spring Cloud 、K8s 、MySQL 那一套确定性的东西。最近公司业务调整，领导找谈话，想把我抽调到刚成立的 AI 部门。&lt;/p&gt;
+&lt;p&gt;[现状]&lt;/p&gt;
+&lt;p&gt;技术栈断层： 除了大一学过的那点线性代数，对模型、参数、训练基本上一窍不通。&lt;/p&gt;
+&lt;p&gt;焦虑点： 担心 Python 这种动态语言写不习惯，更怕以后算法门槛太高，自己沦为“AI 搬砖工”，丢了 Java 的深度，又学不到 AI 的核心。&lt;/p&gt;
+&lt;p&gt;[想请教各位大佬]&lt;/p&gt;
+&lt;p&gt;这种“工程化”的角色在 AI 团队有前途吗？会不会随时被更懂 Python 的算法同学替代？&lt;/p&gt;
+&lt;p&gt;如果转岗，Java 后端最核心的优势（比如并发处理、JVM 调优）在 AI 领域还有发挥空间吗？&lt;/p&gt;
+&lt;p&gt;学习路径怎么规划最稳妥？是先死磕 Python 基础，还是直接上手 LangChain 、向量数据库这些工具层？&lt;/p&gt;
+&lt;p&gt;大家都说 AI 是未来，但我怕自己只是去当个“调 API 的”，有没有类似转型经历的朋友分享下心得？&lt;/p&gt;
+&lt;p&gt;真心求教，不胜感激&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>iPhone 如何优雅的添加 nfc 门禁卡</title>
+      <link>https://www.v2ex.com/t/1193889</link>
+      <guid>v2ex-1193889</guid>
+      <pubDate>Wed, 25 Feb 2026 01:59:27 GMT</pubDate>
+      <description>&lt;p&gt;网上找到的教程是开交通卡去物业写卡，太麻烦了&lt;/p&gt;
+&lt;p&gt;或者就是买个 nfc 卡贴自己复制&lt;/p&gt;
+&lt;p&gt;还有没有更优雅的方式&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>问个无聊的问题，现在结婚真的都是 100%爱情吗</title>
+      <link>https://www.v2ex.com/t/1193888</link>
+      <guid>v2ex-1193888</guid>
+      <pubDate>Wed, 25 Feb 2026 01:57:27 GMT</pubDate>
+      <description>&lt;p&gt;还是短视频刷多了，夸大了爱情的想象&lt;/p&gt;
 </description>
     </item>
   </channel>
