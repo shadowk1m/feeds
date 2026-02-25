@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 25 Feb 2026 07:44:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 08:35:49 GMT</lastBuildDate>
     <item>
       <title>直接修改前端 class 就能查到 25 年的个税年度汇算了</title>
       <link>https://www.v2ex.com/t/1193867</link>
@@ -13,32 +13,6 @@
       <description>&lt;p&gt;直接登录 &lt;a href=&quot;https://www.etax.chinatax.gov.cn&quot; rel=&quot;nofollow&quot;&gt;https://www.etax.chinatax.gov.cn&lt;/a&gt; 选我要办税-年度汇算，选择申报年度的时候，打开开发者工具，给 2025 那个 span 上的 disabled 类名移除，就能选择了，然后下一步，就能看到退/补税的信息了，当然现在还不能提交。
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/6SlO2gf.png&quot;/&gt;
 再次感慨一下，世界果然是个巨大的草台班子……&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>1password 涨价了。。</title>
-      <link>https://www.v2ex.com/t/1193850</link>
-      <guid>v2ex-1193850</guid>
-      <pubDate>Tue, 24 Feb 2026 17:32:22 GMT</pubDate>
-      <description>&lt;p&gt;1password 从 26.3.7 开始从 35.88USD/年涨价到$47.88 USD/年。。是时候说再见了。。&lt;/p&gt;
-&lt;p&gt;官方邮件&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;自 2005 年以来，1Password 一直致力于让安全变得简单、可靠且人人可及。随着人们在线工作和生活方式的不断演变，1Password 也在持续发展。
-
-最近，我们在多项新功能上进行了大量投入，使 1Password 更加强大且易于使用，帮助你更好地保护最重要的内容，包括：
-
-自动保存登录信息和付款详细信息
-增强的 Watchtower 警报
-更快、更安全的设备设置
-AI 驱动的项目命名
-扩展恢复选项
-主动式网络钓鱼防护
-尽管 1Password 在价值和功能方面已大幅提升，但我们的定价多年来基本保持不变。为持续投入创新并提供你所期望的世界一流安全保障，我们将更新个人方案的价格，更新将自 2026 年 3 月 27 日起生效。
-
-当前价格 vs 新价格：
-
-当前价格：$35.88 USD/年
-新价格：$47.88 USD/年
-&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     <item>
@@ -72,6 +46,32 @@ AI 驱动的项目命名
 &lt;p&gt;一边骑着一边想着今天的消费。&lt;/p&gt;
 &lt;p&gt;三瓶水：六块，烧烤：三十，纸巾：两块，雪糕：两块。总计四十。&lt;/p&gt;
 &lt;p&gt;还好，真别说，烧烤还是挺好吃的。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>1password 涨价了。。</title>
+      <link>https://www.v2ex.com/t/1193850</link>
+      <guid>v2ex-1193850</guid>
+      <pubDate>Tue, 24 Feb 2026 17:32:22 GMT</pubDate>
+      <description>&lt;p&gt;1password 从 26.3.7 开始从 35.88USD/年涨价到$47.88 USD/年。。是时候说再见了。。&lt;/p&gt;
+&lt;p&gt;官方邮件&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;自 2005 年以来，1Password 一直致力于让安全变得简单、可靠且人人可及。随着人们在线工作和生活方式的不断演变，1Password 也在持续发展。
+
+最近，我们在多项新功能上进行了大量投入，使 1Password 更加强大且易于使用，帮助你更好地保护最重要的内容，包括：
+
+自动保存登录信息和付款详细信息
+增强的 Watchtower 警报
+更快、更安全的设备设置
+AI 驱动的项目命名
+扩展恢复选项
+主动式网络钓鱼防护
+尽管 1Password 在价值和功能方面已大幅提升，但我们的定价多年来基本保持不变。为持续投入创新并提供你所期望的世界一流安全保障，我们将更新个人方案的价格，更新将自 2026 年 3 月 27 日起生效。
+
+当前价格 vs 新价格：
+
+当前价格：$35.88 USD/年
+新价格：$47.88 USD/年
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     <item>
