@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 25 Feb 2026 03:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 05:19:52 GMT</lastBuildDate>
     <item>
       <title>打算入手小米电器全家桶，有什么需要避雷的品吗？</title>
       <link>https://www.v2ex.com/t/1193730</link>
@@ -179,14 +179,6 @@ Claude Kiro 套餐 199 × 2&lt;/li&gt;
 </description>
     </item>
     <item>
-      <title>厌恶酒桌文化的碎碎念</title>
-      <link>https://www.v2ex.com/t/1193741</link>
-      <guid>v2ex-1193741</guid>
-      <pubDate>Tue, 24 Feb 2026 06:41:08 GMT</pubDate>
-      <description>&lt;p&gt;不知道别的地方是什么样，坐标苏北，真的太推崇酒桌文化了。每次过年回家都是不停的酒局（亲戚间），还都是白酒，先一桌一起喝四杯，然后一圈互相敬两杯，最后还得拿壶喝。喝酒我倒还好，主要是对于我这种内向的人来说主动敬酒真的是灾难，感觉自己像小孩子努力伪装成大人。我爸更是酒桌文化的推崇者，每次席上都要给我发消息：起来敬酒啊。在他看来酒桌文化玩不转的就好像是没用的人，啥事都干不了的，在亲戚面前给他丢面。年轻的时候我会甩脸就走，现在岁数大了想着尽量不要发生冲突，但是真的好厌恶。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>直接修改前端 class 就能查到 25 年的个税年度汇算了</title>
       <link>https://www.v2ex.com/t/1193867</link>
       <guid>v2ex-1193867</guid>
@@ -194,6 +186,14 @@ Claude Kiro 套餐 199 × 2&lt;/li&gt;
       <description>&lt;p&gt;直接登录 &lt;a href=&quot;https://www.etax.chinatax.gov.cn&quot; rel=&quot;nofollow&quot;&gt;https://www.etax.chinatax.gov.cn&lt;/a&gt; 选我要办税-年度汇算，选择申报年度的时候，打开开发者工具，给 2025 那个 span 上的 disabled 类名移除，就能选择了，然后下一步，就能看到退/补税的信息了，当然现在还不能提交。
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/6SlO2gf.png&quot;/&gt;
 再次感慨一下，世界果然是个巨大的草台班子……&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>厌恶酒桌文化的碎碎念</title>
+      <link>https://www.v2ex.com/t/1193741</link>
+      <guid>v2ex-1193741</guid>
+      <pubDate>Tue, 24 Feb 2026 06:41:08 GMT</pubDate>
+      <description>&lt;p&gt;不知道别的地方是什么样，坐标苏北，真的太推崇酒桌文化了。每次过年回家都是不停的酒局（亲戚间），还都是白酒，先一桌一起喝四杯，然后一圈互相敬两杯，最后还得拿壶喝。喝酒我倒还好，主要是对于我这种内向的人来说主动敬酒真的是灾难，感觉自己像小孩子努力伪装成大人。我爸更是酒桌文化的推崇者，每次席上都要给我发消息：起来敬酒啊。在他看来酒桌文化玩不转的就好像是没用的人，啥事都干不了的，在亲戚面前给他丢面。年轻的时候我会甩脸就走，现在岁数大了想着尽量不要发生冲突，但是真的好厌恶。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -256,19 +256,19 @@ AI 驱动的项目命名
 </description>
     </item>
     <item>
-      <title>xshell xftp 过段时间让我升级一次 有没有其他的软件</title>
-      <link>https://www.v2ex.com/t/1193760</link>
-      <guid>v2ex-1193760</guid>
-      <pubDate>Tue, 24 Feb 2026 07:24:09 GMT</pubDate>
-      <description>&lt;p&gt;xshell xftp 过段时间让我升级一次 然后注册登录   很多次了  有没有大佬推荐个差不多的&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>苹果手机一大堆孩子照片，存储空间已满，怎么导出去保存比较合适？</title>
       <link>https://www.v2ex.com/t/1193870</link>
       <guid>v2ex-1193870</guid>
       <pubDate>Wed, 25 Feb 2026 01:30:16 GMT</pubDate>
       <description>&lt;p&gt;苹果 15pro 内存已满，经常没事需要删除一些应用或者相片来释放空间，准备想搞个移动硬盘？或者有无其它更好的方案，希望能长期把孩子的照片给存下来，嘿嘿&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>xshell xftp 过段时间让我升级一次 有没有其他的软件</title>
+      <link>https://www.v2ex.com/t/1193760</link>
+      <guid>v2ex-1193760</guid>
+      <pubDate>Tue, 24 Feb 2026 07:24:09 GMT</pubDate>
+      <description>&lt;p&gt;xshell xftp 过段时间让我升级一次 然后注册登录   很多次了  有没有大佬推荐个差不多的&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -297,43 +297,11 @@ AI 驱动的项目命名
 </description>
     </item>
     <item>
-      <title>标题： [求推荐] 寻找开箱即用的 Go Web 模板（需 GORM + DI + 垂直切片架构），顺便探讨一下 Go 社区对 DI 的态度</title>
-      <link>https://www.v2ex.com/t/1193763</link>
-      <guid>v2ex-1193763</guid>
-      <pubDate>Tue, 24 Feb 2026 07:27:36 GMT</pubDate>
-      <description>&lt;p&gt;大家好，&lt;/p&gt;
-&lt;p&gt;最近在做 Go 的 Web 项目选型，看了一圈生态里的框架，希望能找到一款偏向开箱即用的模板。想请大家推荐一下：&lt;/p&gt;
-&lt;p&gt;我理想中的框架特性：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;开箱即用：不想从零开始拼凑路由、日志、配置和 ORM 等基础组件，希望能有一套成熟的默认约定。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;深度集成依赖注入（ DI ）：希望框架能很好地管理对象的生命周期和依赖关系。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;集成 GORM：因为业务原因，需要 GORM 作为核心的数据库 ORM 工具。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;支持垂直切片架构（ Vertical Slice Architecture ）：这点极其重要！我不希望代码是按“技术职责”横向分层的（比如所有 controller 在一个包，所有 model 在一个包）。我希望框架的推荐实践是按“业务模块”来组织代码的。例如一个用户的业务，其结构应类似于：&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;/user
-  ├── user.model.go
-  ├── user.repository.go
-  ├── user.service.go
-  └── user.controller.go
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;不知道大家有没有符合上述要求的脚手架或框架推荐？&lt;/p&gt;
-&lt;p&gt;另外，还有一个疑惑想和大家交流讨论：&lt;/p&gt;
-&lt;p&gt;在研究 Go Web 框架和各种开源模板的过程中，我发现一个现象：在 Go 语言生态中，大家似乎对“依赖注入（ DI ）”并不是特别热衷？&lt;/p&gt;
-&lt;p&gt;在 Java (Spring) 或 C# (.NET) 里，DI 几乎是刻在骨子里的标配，不使用 IoC 容器简直没法写代码。&lt;/p&gt;
-&lt;p&gt;想听听老哥们的看法，为什么 Go 的社区风气对 DI 容器显得比较克制？&lt;/p&gt;
-&lt;p&gt;是因为 Go 强调的“大道至简（ Keep it simple ）”和显式编程哲学？&lt;/p&gt;
-&lt;p&gt;是手动传递依赖在 Go 里写起来并没有那么繁琐？&lt;/p&gt;
-&lt;p&gt;还是说使用反射（ Reflection ）做运行期 DI 在 Go 中有什么性能隐患或难以调试的坑？&lt;/p&gt;
-&lt;p&gt;期待大家的框架推荐以及对 DI 问题的看法，提前感谢！&lt;/p&gt;
-&lt;p&gt;前提，本人对 go 语言没有任务基础，也是最近刚尝试使用。上面的讨论如有不当之处，请多多包涵。&lt;/p&gt;
+      <title>看到 AI 未来会不会代替人类的话题，有一个问题， AI 只生产不消费</title>
+      <link>https://www.v2ex.com/t/1193895</link>
+      <guid>v2ex-1193895</guid>
+      <pubDate>Wed, 25 Feb 2026 02:07:01 GMT</pubDate>
+      <description>&lt;p&gt;AI 不买房不穿衣服不喝咖啡，也不拿工资，产出一大堆商品，但是到时候人类失业了也没钱消费，经济怎么办&lt;/p&gt;
 </description>
     </item>
   </channel>
