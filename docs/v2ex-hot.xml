@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 27 Feb 2026 10:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 11:02:39 GMT</lastBuildDate>
     <item>
       <title>节后被相亲整烦了</title>
       <link>https://www.v2ex.com/t/1194454</link>
@@ -111,28 +111,6 @@
 </description>
     </item>
     <item>
-      <title>给我弟做了个 AI 信息聚合小程序，从一个脚本搞成了完整产品</title>
-      <link>https://www.v2ex.com/t/1194325</link>
-      <guid>v2ex-1194325</guid>
-      <pubDate>Thu, 26 Feb 2026 10:35:45 GMT</pubDate>
-      <description>&lt;p&gt;起因是我弟是股民，最近聊天他说有很多国外的信息对他炒股挺有帮助的，但是工作原因他不方便翻墙，给我分享了一个小程序，如果关注的人推特发消息了可以实时在微信接收消息推送，但是看英文费劲，而且缺少上下文也很难理解想表达的什么，于是就想着做个小工具，把消息推给他就行。&lt;/p&gt;
-&lt;p&gt;所以第一版工具诞生了，这个时候还没有小程序，只是个简单的 Python 服务，定时调第三方 API 查指定的一些推特账号，然后调 LLM 翻译推文，联网查相关信息，再解读一下，然后再调 PushPlus 推给我弟以及几个朋友的微信，这样收到消息就可以快速了解大概的信息，时间成本降低很多。&lt;/p&gt;
-&lt;p&gt;但是这样看信息只能每条点进去看，太费劲了，看过退出以后基本就不可能找到了。所以，就得有个载体，于是就有了这个小程序。等我吭哧吭哧把管理后台、小程序写完，发现小程序、公众号备案也挺费劲的...中间审核打回好多次，我都觉得可能没法上线了，期间还开发了 H5 版本准备将就着用了，没想到最后过了。&lt;/p&gt;
-&lt;p&gt;没过几天，我弟又说能不能把 Substack 上一些作者的文章也放进去，说那些分析报告很有用。没想到我弟竟然有一天给我当上了甲方 - -# 没办法，毕竟咱还有钱在他那炒着股呢，能帮一点是一点，于是又把 Substack 接入进来。你以为这就结束了？错！过了两天，&quot;甲方&quot;又来了，那个 SemiAnalysis 上也有一些文章也要...我 @#$^&amp;amp;*，于是干脆就用 RSS 的方式对接了，后续要是还有类似需求，后台配一下就行了，我怕&quot;甲方&quot;想法太多...&lt;/p&gt;
-&lt;p&gt;最后一部分是复盘报告，这块是&quot;甲方&quot;从不愿意透露姓名的世外高人那拿到的一份复盘报告，我用 Claude Code 逆向+拆解步骤，然后搭建的一个自动化流程，数据源用的 Tushare ，每天收盘后自动采集全市场数据，调 LLM 分 7 个部分生成完整报告，迭代了几个版本后上交甲方审阅，目前甲方还没有给出批复建议 - -#&lt;/p&gt;
-&lt;h2&gt;目前能干啥&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;信息聚合这块&lt;/strong&gt;：推特账号、Substack 、RSS 订阅源都能加，系统自动抓取，AI 翻译+摘要，不用翻墙，打开小程序就能看。目前内置了一些科技/投资类的源（ Elon Musk PS.这大哥真的是话痨中的战斗机，因为他我甚至开发了个自定义勿扰时间段的功能、Sam Altman 、SpaceX 之类的），如果没有你想看的，可以在发现页点推荐提交你想看的源。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;复盘报告这块&lt;/strong&gt;：每天自动生成，大盘走势、板块轮动、资金流向（融资融券、涨跌停）、全球资产联动、技术面、事件催化、风险提示都有，全自动不用管。&lt;/p&gt;
-&lt;h2&gt;技术栈&lt;/h2&gt;
-&lt;p&gt;后端 Flask + PostgreSQL + Redis + APScheduler ，前端 Vue 3 + uni-app （小程序），AI 用的 DeepSeek （可配置）。部署在香港服务器，Docker Compose 一把梭。&lt;/p&gt;
-&lt;p&gt;小程序大概长下面这样&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;信息流列表&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/e0D5zGm.jpeg&quot;/&gt;
-&lt;img alt=&quot;AI 深度解读&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/f5rOh88.jpeg&quot;/&gt;
-&lt;img alt=&quot;复盘报告&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/4vv8P0z.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;目前主要就是朋友圈内部在用，现在想找一些真实用户帮忙试试看好不好用。微信搜小程序「拜效引擎」就能找到。有需要的 V 友可以来瞧一瞧逛一逛哈，前 50 名的支持用户直接送 30 天 Pro 体验（包含完整复盘报告 + 不限量信息源订阅），登录小程序后前往&quot;我的&quot;设置好昵称，回帖你的昵称，我后台手动给你开。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Intel CPU 的 MBP 已经配置完全不行了么？卡死我了。</title>
       <link>https://www.v2ex.com/t/1194432</link>
       <guid>v2ex-1194432</guid>
@@ -147,6 +125,15 @@
 &lt;p&gt;然后，开 Edge 浏览器，标签数都还没我 4 代 i5 ，16G 的笔记本多，edge 突然就崩了。整个浏览器的所有菜单全消失，窗口内容也消失，只剩左上角关闭按钮还在。&lt;/p&gt;
 &lt;p&gt;最要命的就是，外接显示屏，开小破站看视频完全不能开弹幕，开完秒变 PPT 。。。不开弹幕外接屏幕也能明显感受到卡顿。&lt;/p&gt;
 &lt;p&gt;这个配置已经差到开网页看视频都卡的地步了么？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>女性结婚后需要生育，这是不是对女性来说不公平？结婚前提点要求是不是应该的？</title>
+      <link>https://www.v2ex.com/t/1194560</link>
+      <guid>v2ex-1194560</guid>
+      <pubDate>Fri, 27 Feb 2026 07:33:44 GMT</pubDate>
+      <description>&lt;p&gt;对这个问题一直挺困惑的
+如果女性结婚前仅要求有个付了首付的房子，这到底合理吗，  有这个要求就不是独立女性了吗&lt;/p&gt;
 </description>
     </item>
   </channel>
