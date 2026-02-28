@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 28 Feb 2026 05:53:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 06:24:36 GMT</lastBuildDate>
     <item>
       <title>女性结婚后需要生育，这是不是对女性来说不公平？结婚前提点要求是不是应该的？</title>
       <link>https://www.v2ex.com/t/1194560</link>
@@ -281,30 +281,6 @@
 </description>
     </item>
     <item>
-      <title>2026 年会是大裁员的开始吗</title>
-      <link>https://www.v2ex.com/t/1194510</link>
-      <guid>v2ex-1194510</guid>
-      <pubDate>Fri, 27 Feb 2026 05:59:09 GMT</pubDate>
-      <description>&lt;p&gt;block 刚刚宣布，从 10000 人缩减到不到 6000 人&lt;/p&gt;
-&lt;p&gt;jack 说的很直接： 不是因为公司的业务不好，而是 AI 提高了效率，不需要那么多人了&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/jack/status/2027129697092731343&quot; rel=&quot;nofollow&quot;&gt;https://x.com/jack/status/2027129697092731343&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>脂溢性皮炎 + 头发特别爱出油，有什么靠谱的治疗方法吗</title>
-      <link>https://www.v2ex.com/t/1194513</link>
-      <guid>v2ex-1194513</guid>
-      <pubDate>Fri, 27 Feb 2026 06:01:49 GMT</pubDate>
-      <description>各位 V 友好，&lt;br /&gt;&lt;br /&gt;想请教一下脂溢性皮炎的问题。&lt;br /&gt;&lt;br /&gt;我头皮出油特别厉害，基本上一天不洗就塌得不行，而且还会痒、用手能扣出来小颗粒，有头屑（有时候是那种油油的头屑）。去看过医生，说是脂溢性皮炎，开过二硫化硒药，用的时候会好一点，但停了又反复。&lt;br /&gt;&lt;br /&gt;现在的情况大概是：&lt;br /&gt;&lt;br /&gt;基本每天都得洗头，不然很油&lt;br /&gt;有时头皮痒，抓了会更严重&lt;br /&gt;熬夜或的时候明显加重&lt;br /&gt;用普通去油洗发水会更干、更痒&lt;br /&gt;&lt;br /&gt;想问问大家：&lt;br /&gt;&lt;br /&gt;有没有长期控制得比较好的方案？&lt;br /&gt;洗发水有木有推荐的？&lt;br /&gt;有必要长期用二硫化硒吗？&lt;br /&gt;如果有亲测有效的产品/方法，也欢迎分享一下（比如某款洗发水、护理步骤、用药节奏等）。&lt;br /&gt;&lt;br /&gt;先谢过各位</description>
-    </item>
-    <item>
-      <title>我觉得古法编程是一种乐趣</title>
-      <link>https://www.v2ex.com/t/1194693</link>
-      <guid>v2ex-1194693</guid>
-      <pubDate>Sat, 28 Feb 2026 00:48:36 GMT</pubDate>
-      <description>现在都在吹捧 ai ，公司也在强制使用 ai ，甚至把 ai 使用率和代码提交率作为 kpi ，我承认 ai 很强，有时候实现重复工作或者一些复杂算法功能非常方便，还有大量注释和示例，但不能否认的是幻觉一直存在，尤其是功能复杂度太高或者交互设计不合理的场景(这个我认为本质上是产品或者设计的锅)，经常会进入死胡同，导致大量浪费 token 和时间(其实可能一开始解决思路就错了)。&lt;br /&gt;&lt;br /&gt;古法编程虽然费脑子，但我挺享受过程，我觉得把复杂问题拆解，一步步完成 todolist ，让后过程中进行适当封装优化，是个很有乐趣的事情，就好像玩解密游戏或者密室逃脱那种，解决完看着自己优化的代码，是一种成就感，并且对于项目的把控也了然于胸。如果都交给 ai 一把梭，工作就真的完全成为工作，出了问题也只能让 ai 去看，感觉每天的目的就是为了做需求，牛马感油然而生，公司又不是我的，做多了对我也没好处，何必呢？&lt;br /&gt;&lt;br /&gt;古法编程可以让我进入心流状态，ai 用多了我只会觉得他越来越蠢，可能我只是强迫症吧。&lt;br /&gt;&lt;br /&gt;个人见解，不喜勿喷。</description>
-    </item>
-    <item>
       <title>同事的离谱代码让我想发疯</title>
       <link>https://www.v2ex.com/t/1194623</link>
       <guid>v2ex-1194623</guid>
@@ -341,6 +317,29 @@
 &lt;p&gt;我怀疑它们真的是从来不 review AI 生成的代码，只要能跑通就行。代价是后续负责修 BUG 的人要一点一点抠这个是什么意思，连 CC 有时候都理不清它们写的是什么。&lt;/p&gt;
 &lt;p&gt;别问我为什么不和 Leader 沟通，因为它就是带头拉屎的人。&lt;/p&gt;
 &lt;p&gt;F@@@@@@KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>我觉得古法编程是一种乐趣</title>
+      <link>https://www.v2ex.com/t/1194693</link>
+      <guid>v2ex-1194693</guid>
+      <pubDate>Sat, 28 Feb 2026 00:48:36 GMT</pubDate>
+      <description>现在都在吹捧 ai ，公司也在强制使用 ai ，甚至把 ai 使用率和代码提交率作为 kpi ，我承认 ai 很强，有时候实现重复工作或者一些复杂算法功能非常方便，还有大量注释和示例，但不能否认的是幻觉一直存在，尤其是功能复杂度太高或者交互设计不合理的场景(这个我认为本质上是产品或者设计的锅)，经常会进入死胡同，导致大量浪费 token 和时间(其实可能一开始解决思路就错了)。&lt;br /&gt;&lt;br /&gt;古法编程虽然费脑子，但我挺享受过程，我觉得把复杂问题拆解，一步步完成 todolist ，让后过程中进行适当封装优化，是个很有乐趣的事情，就好像玩解密游戏或者密室逃脱那种，解决完看着自己优化的代码，是一种成就感，并且对于项目的把控也了然于胸。如果都交给 ai 一把梭，工作就真的完全成为工作，出了问题也只能让 ai 去看，感觉每天的目的就是为了做需求，牛马感油然而生，公司又不是我的，做多了对我也没好处，何必呢？&lt;br /&gt;&lt;br /&gt;古法编程可以让我进入心流状态，ai 用多了我只会觉得他越来越蠢，可能我只是强迫症吧。&lt;br /&gt;&lt;br /&gt;个人见解，不喜勿喷。</description>
+    </item>
+    <item>
+      <title>快要结婚时分手了，压力小了好多</title>
+      <link>https://www.v2ex.com/t/1194726</link>
+      <guid>v2ex-1194726</guid>
+      <pubDate>Sat, 28 Feb 2026 02:05:59 GMT</pubDate>
+      <description>快要结婚时分手了，压力小了好多</description>
+    </item>
+    <item>
+      <title>全职独立开发满一个月</title>
+      <link>https://www.v2ex.com/t/1194692</link>
+      <guid>v2ex-1194692</guid>
+      <pubDate>Sat, 28 Feb 2026 00:42:14 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/Y8CcCt7M.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;稳步增长，不过一个月不上班还挺无聊的。&lt;/p&gt;
 </description>
     </item>
   </channel>
