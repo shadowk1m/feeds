@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 28 Feb 2026 09:44:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 10:13:21 GMT</lastBuildDate>
     <item>
       <title>恋爱这个未完成的课题重复出现了</title>
       <link>https://www.v2ex.com/t/1194725</link>
@@ -80,45 +80,6 @@
       <description>快要结婚时分手了，压力小了好多</description>
     </item>
     <item>
-      <title>同事的离谱代码让我想发疯</title>
-      <link>https://www.v2ex.com/t/1194623</link>
-      <guid>v2ex-1194623</guid>
-      <pubDate>Fri, 27 Feb 2026 09:58:25 GMT</pubDate>
-      <description>&lt;p&gt;楼主是前端，每次看到组里其他人写的代码我都痛苦的要命。随便举几个例子吧：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;最基本的代码对齐都做不到，例如它们的代码是这样的：&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;if (isDefault) {
-    this.xxx = true;
-  this.timer = setInterval(() =&amp;gt; {
-      if (this.zzz) {
-        if (this.ddd) {
-          this.box = 24;
-            }
-    }
-  })
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;每次看到这些代码我都快脑溢血发作，现在随便哪个编辑器都能做到自动对齐大括号，我真的怀疑它们在用记事本写代码。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;喜欢全局重置某个组件库样式，从来不管会不会影响到其他组件样式。例如：&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.el-table__fixed-right {
-  display: none;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;每次都是等到测试发现了，然后再回过头来改这个问题。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;用 AI 漫天拉屎&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;自从公司的人会用 Trae 之后，每次看到它们提交的 commit 里有 markdown 写的很详细的提交信息之后，我就知道它们又拉了一坨大的。&lt;/p&gt;
-&lt;p&gt;业务确实实现了，问题也解决了，但是代码质量真的令人发指，比如说，从某个模块中莫名奇妙引入一个根本不存在的虚空方法，然后莫名奇妙的在代码中调用，然后莫名其妙的逻辑根本不会走这里，业务还莫名奇妙实现了。&lt;/p&gt;
-&lt;p&gt;我怀疑它们真的是从来不 review AI 生成的代码，只要能跑通就行。代价是后续负责修 BUG 的人要一点一点抠这个是什么意思，连 CC 有时候都理不清它们写的是什么。&lt;/p&gt;
-&lt;p&gt;别问我为什么不和 Leader 沟通，因为它就是带头拉屎的人。&lt;/p&gt;
-&lt;p&gt;F@@@@@@KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>想要给父母在农村建个四合院养老，问 v 友家人们几个问题～</title>
       <link>https://www.v2ex.com/t/1194760</link>
       <guid>v2ex-1194760</guid>
@@ -188,6 +149,30 @@
 &lt;p&gt;显示器就算卖二手，算上搬家费，也血亏 1000 多。&lt;/p&gt;
 &lt;p&gt;意难平。😂&lt;/p&gt;
 &lt;p&gt;大家以后搬家一定选公司，一般都有保险。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>我妈已经不再催婚了，我如释重负，但更感到心酸</title>
+      <link>https://www.v2ex.com/t/1194772</link>
+      <guid>v2ex-1194772</guid>
+      <pubDate>Sat, 28 Feb 2026 03:47:14 GMT</pubDate>
+      <description>&lt;p&gt;这次过年回到家，我妈不再像以前那样苦口婆心地劝我找个对象成家了。在这之前，每次打电话几乎都会谈到这个话题，而且无一例外都是闹得不开心。怕被催婚，也是我三年没有回家的原因之一。&lt;/p&gt;
+&lt;p&gt;在以前，她总说：现在不结婚，老了怎么办？生病没人照顾怎么办？一个人不孤单吗？而我总回怼：结了婚就不会老了吗？结了婚就不会生病了吗？结婚有什么好处，结了婚国家给分房吗？&lt;/p&gt;
+&lt;p&gt;而这次，她说：你二姑家的两个孩子也还没找对象，现在的年轻人，可能真的想法跟我们不一样了吧。管他的，只要自己过得好，一个人也可以。&lt;/p&gt;
+&lt;p&gt;她还说，让我也买一份什么保险，就是那种每个月交多少钱，60 岁后每个月可以领多少钱的那种储蓄型保险。这样，以后他们都不在了，我一个人每个月也算有基本的保障，至少饿不死。&lt;/p&gt;
+&lt;p&gt;我妈人很好，从小生活非常艰难，承受了太多的不容易。&lt;/p&gt;
+&lt;p&gt;我外公和外婆很早就离异了，妈妈和舅舅跟外公；小姨跟外婆。外婆再婚后，小姨便跟她继父姓王。在外公和外公的兄弟姐妹口中，外婆是个不负责任的妈妈，抛弃年幼的儿女，跟另一个男人跑了。而在外婆、小姨和小姨的继父口中，外公是个烂赌鬼，当年，外婆把家里仅剩的值钱的东西交给外公，让他拿到街上换点米回家，结果外公换了钱拿去赌输了，还说被偷了，让全家人饿肚子。离异后，他们老死不相往来。直到前年外公去世后，外婆才会偶尔来我们家看看。&lt;/p&gt;
+&lt;p&gt;我妈从来不主动提起这些往事，所以她和外婆家、外公家两边的亲戚都相处得很愉快。&lt;/p&gt;
+&lt;p&gt;今年，我爸满 60 岁。考虑到现在过年期间，大部分亲戚朋友都在家，于是准备就在正月初六宴请各位亲朋好友。我妈理所当然地邀请了外公的兄弟姐妹和外婆、小姨和小姨的继父。外婆这边的人先到，外公的兄弟们后到，可到了之后，他们看到“这个人”（指小姨的继父）居然也在，就非常生气，饭都没吃就走了。外婆一行人吃完饭后也没有过多停留，匆匆走了。&lt;/p&gt;
+&lt;p&gt;那天，一共摆了十桌。两家人就算是有矛盾，只要不坐一桌，也不会尴尬，就算见了面就当不认识，起码也能各自体面。而妈妈的叔爷们，显然并不考虑这一点，仍然对五十年前的事耿耿于怀，让本该其乐融融的聚会搞得两拨人不欢而散。&lt;/p&gt;
+&lt;p&gt;事后，妈妈和四外公（也就是妈妈的四叔）提起此事，表达了内心的委屈：我们做晚辈的，这种事不可能不请你们，也不可能不请我老娘（指外婆），老娘来了，王叔叔（小姨的继父）要来，我难道能让他不来吗？……说着说着，再也掩饰不住内心的悲伤，泪水止不住地流了下来。&lt;/p&gt;
+&lt;p&gt;也许是这些亲身经历，让她意识到，婚姻并不一定导向好的结果，甚至还会带来许多麻烦。一个人，如果能照顾好自己，为什么不行呢？&lt;/p&gt;
+&lt;p&gt;前两天，我离开家，回到工作的城市。&lt;/p&gt;
+&lt;p&gt;昨天，妈妈发来一张截图，说已经给我买了保险。每个月交费，到我 60 岁就可以开始领钱。&lt;/p&gt;
+&lt;p&gt;而等到我 60 岁的时候，妈妈已经像外婆一样老，甚至可能像外公一样已经不在了。想到这里，心里就十分难受，难以面对。&lt;/p&gt;
+&lt;p&gt;以前觉得妈妈太唠叨、不理解我，我特别后悔当时对她说了很多很重的话，让她很难过。&lt;/p&gt;
+&lt;p&gt;好在，现在还有机会弥补。今年或明年准备带爸妈去旅游，尽量多攒点钱，多给他们买点东西，争取每年都能回家看看。&lt;/p&gt;
+&lt;p&gt;希望全天下的父母都能健康长寿。&lt;/p&gt;
 </description>
     </item>
   </channel>
