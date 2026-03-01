@@ -4,36 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Mar 2026 13:53:09 GMT</lastBuildDate>
-    <item>
-      <title>Conex - 现代化 SSH 客户端， Termius 平替</title>
-      <link>https://www.v2ex.com/t/1194906</link>
-      <guid>v2ex-1194906</guid>
-      <pubDate>Sat, 28 Feb 2026 14:03:40 GMT</pubDate>
-      <description>&lt;p&gt;大家好，分享一下我做的一个项目 &lt;strong&gt;Conex&lt;/strong&gt; —— 一个现代化的跨平台 SSH 客户端。&lt;/p&gt;
-&lt;p&gt;做这个项目的初衷很简单：Termius 非常好用但是实在消费不起，所以就自己写了一个。。&lt;/p&gt;
-&lt;h3&gt;主要功能&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;SSH 终端&lt;/strong&gt;：基于 xterm.js ，支持 256 色和真彩色，体验接近原生终端&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;主机管理&lt;/strong&gt;：支持分组、搜索，轻松管理大量服务器&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;多标签页&lt;/strong&gt;：同时连接多台服务器，自由切换&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SFTP 文件浏览器&lt;/strong&gt;：可视化管理远程文件，支持上传、下载、批量操作，带进度条&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;端口转发&lt;/strong&gt;：本地/远程 TCP 隧道，一键启停&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;代码片段&lt;/strong&gt;：保存常用命令，一键复制&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;密钥管理&lt;/strong&gt;：集中管理 SSH 密钥，支持导入和编辑&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;云端加密同步&lt;/strong&gt;（ Pro ）：支持 Google / GitHub 登录，使用 AES-256-GCM 端到端加密，同步你的主机、密钥、片段等配置，方便多设备和混合办公牛马、数字游民。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;深色 / 浅色主题&lt;/strong&gt;切换&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;中英文双语&lt;/strong&gt;支持&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;关于定价&lt;/h3&gt;
-&lt;p&gt;本地功能完全免费使用，无任何限制。云端同步功能需要 Pro 计划，&lt;strong&gt;目前提供 30 天免费试用&lt;/strong&gt;。&lt;/p&gt;
-&lt;h3&gt;跨平台&lt;/h3&gt;
-&lt;p&gt;支持 macOS 、Windows 、Linux （计划中）。&lt;/p&gt;
-&lt;p&gt;官网： &lt;a href=&quot;https://getconex.app&quot; rel=&quot;nofollow&quot;&gt;https://getconex.app&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Conex&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://getconex.app/screenshots/main.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;欢迎大家试用，也欢迎提需求和建议！有价值建议提供免费更长 Pro 计划答谢。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 14:15:41 GMT</lastBuildDate>
     <item>
       <title>大家都是如何从开车小白成长起来的</title>
       <link>https://www.v2ex.com/t/1194921</link>
@@ -254,6 +225,56 @@
       <guid>v2ex-1194908</guid>
       <pubDate>Sat, 28 Feb 2026 14:24:37 GMT</pubDate>
       <description>不清楚现在 AI 编程是怎么运作的，问问大伙。&lt;br /&gt;&lt;br /&gt;一堆有结构的 markdown 组合起来，还有些 markdown 用来描述每个 markdown 干什么的，让 AI 挑着读？&lt;br /&gt;&lt;br /&gt;看起来还有 json ，用来结构化描述这堆 markdown 作用，或者 AI 平台会用写好的代码读取这个 json ？&lt;br /&gt;&lt;br /&gt;至于 markdown 里，就是没有特定结构的自然语言咯？描述规则、规范等等？&lt;br /&gt;&lt;br /&gt;AI 客户端会让我们把这堆东西按一定目录结构放到特定文件夹里？比如一个项目里面的.claude 、.cursor 、.agents 、&lt;a target=&quot;_blank&quot; href=&quot;http://AGENTS.md&quot; rel=&quot;nofollow noopener&quot;&gt;AGENTS.md&lt;/a&gt; 等用于提供给不同 AI 客户端用？&lt;br /&gt;&lt;br /&gt;要是需要让 AI 调用外部代码能力的情况，就是 http 请求或者 stdio 通信？比如起个本地后端服务用于获取一言，那 markdown 里就写请求地址、入参出参长啥样？ AI 模型判断到自己需要调的时候，就会去发请求？发请求、读写本地文件、执行命令这些基础能力是 AI IDE 等客户端自带的？&lt;br /&gt;&lt;br /&gt;所以和各种 AI API 发请求时，除了校验、会话 id 、模型调参之类的，就只是在传这些 markdown 和上下文组成的字符串？不能一股脑都传过去吧，怎么实现按需传的？</description>
+    </item>
+    <item>
+      <title>[iOS/watchOS 元宵限免] ：压力自测与身心电量，看见身体的每一刻</title>
+      <link>https://www.v2ex.com/t/1194941</link>
+      <guid>v2ex-1194941</guid>
+      <pubDate>Sun, 01 Mar 2026 01:45:05 GMT</pubDate>
+      <description>&lt;p&gt;元宵佳节将至&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;开启元宵节限免活动&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;下载方式见文末&lt;/strong&gt;&lt;/h2&gt;
+&lt;div&gt;
+&lt;p&gt;🎉 限免时间：2026 年 2 月 28 日 - 3 月 3 日 23:59&lt;/p&gt;
+&lt;p&gt;0 元领取终身会员，解锁全部高级功能。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;本次更新带来了四大核心功能，希望能真正帮到你：&lt;/p&gt;
+&lt;h2&gt;1. 压力看得见：源头精准定位&lt;/h2&gt;
+&lt;p&gt;不仅仅是数字，我们让压力“可视化”。首页实时展示压力状态，新增&lt;strong&gt;压力源头精准定位&lt;/strong&gt;，帮你分析是工作、睡眠还是其他因素导致了压力波动。试试搜索“&lt;strong&gt;压力自测&lt;/strong&gt;”，让腕能帮你找到答案。&lt;/p&gt;
+&lt;div&gt;
+&lt;img alt=&quot;实时压力界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E9%A6%96%E9%A1%B5-%E5%AE%9E%E6%97%B6%E5%8E%8B%E5%8A%9B.png&quot;/&gt;
+&lt;p&gt;▲ 首页实时压力状态&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;img alt=&quot;首页压力展示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E9%A6%96%E9%A1%B5-%E5%8E%8B%E5%8A%9B%E7%9C%8B%E5%BE%97%E8%A7%81.png&quot;/&gt;
+&lt;img alt=&quot;压力源头定位&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E5%AE%9E%E6%97%B6%E5%8E%8B%E5%8A%9B-%E5%8E%8B%E5%8A%9B%E6%BA%90%E5%A4%B4%E7%B2%BE%E5%87%86%E5%AE%9A%E4%BD%8D.png&quot;/&gt;
+&lt;/div&gt;
+&lt;h2&gt;2. 身体还有电吗？行健与科学训练&lt;/h2&gt;
+&lt;p&gt;身体就像电池，需要充放电管理。新版本引入“&lt;strong&gt;身体电量&lt;/strong&gt;”概念，直观展示能量储备。针对跑步爱好者，我们提供科学的训练指导，拒绝无效堆跑量，让每一次流汗都更有价值。&lt;/p&gt;
+&lt;div&gt;
+&lt;img alt=&quot;身体电量&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E8%A1%8C%E5%81%A5-%E8%BA%AB%E4%BD%93%E7%94%B5%E9%87%8F-%E8%BA%AB%E4%BD%93%E8%BF%98%E6%9C%89%E7%94%B5%E5%90%97.png&quot;/&gt;
+&lt;img alt=&quot;跑步训练指导&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E8%A1%8C%E5%81%A5-%E8%B7%91%E6%AD%A5%E8%AE%AD%E7%BB%83%E6%8C%87%E5%AF%BC-%E5%91%8A%E5%88%AB%E7%9B%B2%E7%9B%AE%E8%AE%AD%E7%BB%83.png&quot;/&gt;
+&lt;img alt=&quot;运动汇总&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E8%A1%8C%E5%81%A5-%E8%BF%90%E5%8A%A8%E6%B1%87%E6%80%BB.jpg&quot;/&gt;
+&lt;/div&gt;
+&lt;h2&gt;3. 深度睡眠监测：睡个好觉&lt;/h2&gt;
+&lt;p&gt;睡眠是恢复能量的关键。我们强化了睡眠分析算法，特别关注&lt;strong&gt;深度睡眠&lt;/strong&gt;时长与质量，帮你拆解睡眠结构，找到身体修复的秘密。&lt;/p&gt;
+&lt;div&gt;
+&lt;img alt=&quot;深度睡眠监测&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E7%9D%A1%E7%9C%A0%E5%88%86%E6%9E%90-%E6%B7%B1%E5%BA%A6%E7%9D%A1%E7%9C%A0%E7%9B%91%E6%B5%8B.png&quot;/&gt;
+&lt;/div&gt;
+&lt;h2&gt;4. 洞察与观照：看见身体规律&lt;/h2&gt;
+&lt;p&gt;通过长期的“观照”，你会发现身体运行的规律。我们将每一个瞬间记录下来，生成可视化的健康趋势图，让你对自己的身体了如指掌。&lt;/p&gt;
+&lt;div&gt;
+&lt;img alt=&quot;观照身体规律&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E8%A7%82%E7%85%A7-%E7%9C%8B%E8%A7%81%E8%BA%AB%E4%BD%93%E7%9A%84%E8%A7%84%E5%BE%8B.png&quot;/&gt;
+&lt;img alt=&quot;洞察记录&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E6%B4%9E%E5%AF%9F-%E8%AE%B0%E5%BD%95%E8%BA%AB%E4%BD%93%E7%9A%84%E6%AF%8F%E4%B8%80%E5%88%BB.png&quot;/&gt;
+&lt;img alt=&quot;运动趋势&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E8%A1%8C%E5%81%A5-%E8%BF%90%E5%8A%A8%E8%B6%8B%E5%8A%BF.jpg&quot;/&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;h3&gt;如何获取？&lt;/h3&gt;
+&lt;p&gt;打开 App Store 搜索关键词 &lt;strong&gt;“压力自测”&lt;/strong&gt;&lt;br/&gt;
+&lt;em&gt;（优先搜索此词，可以帮助我们提升关键词权重，感谢支持！）&lt;/em&gt;&lt;br/&gt;
+或 “腕能”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/sa/app/id6448225070&quot; rel=&quot;nofollow&quot;&gt;立即下载体验&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;提前祝大家元宵快乐，愿你身心安康，电力满满！&lt;/div&gt;</description>
     </item>
     <item>
       <title>最近朋友想弄个 tg 号，怎么弄</title>
