@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Mar 2026 09:48:36 GMT</lastBuildDate>
-    <item>
-      <title>想买个美区礼品卡怎么这么费劲了</title>
-      <link>https://www.v2ex.com/t/1194957</link>
-      <guid>v2ex-1194957</guid>
-      <pubDate>Sun, 01 Mar 2026 03:40:27 GMT</pubDate>
-      <description>美区官网上买了 300 刀，结果三个小时了也没发货；美亚上下单了，结果账号被封了，发了两次资料也没通过；支付宝上旧金山卖礼品卡的小程序也下架了&lt;br /&gt;&lt;br /&gt;无语了。</description>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 10:14:35 GMT</lastBuildDate>
     <item>
       <title>Conex - 现代化 SSH 客户端， Termius 平替</title>
       <link>https://www.v2ex.com/t/1194906</link>
@@ -42,6 +35,13 @@
 </description>
     </item>
     <item>
+      <title>想买个美区礼品卡怎么这么费劲了</title>
+      <link>https://www.v2ex.com/t/1194957</link>
+      <guid>v2ex-1194957</guid>
+      <pubDate>Sun, 01 Mar 2026 03:40:27 GMT</pubDate>
+      <description>美区官网上买了 300 刀，结果三个小时了也没发货；美亚上下单了，结果账号被封了，发了两次资料也没通过；支付宝上旧金山卖礼品卡的小程序也下架了&lt;br /&gt;&lt;br /&gt;无语了。</description>
+    </item>
+    <item>
       <title>刷 LineageOS 等第三方 ROM 的手机，短信日历常用 APP 都用的什么代替品？</title>
       <link>https://www.v2ex.com/t/1194927</link>
       <guid>v2ex-1194927</guid>
@@ -49,6 +49,22 @@
       <description>&lt;p&gt;像 LineageOS 这些 ROM ，自带的电话/短信/日历/通讯录/闹钟等 APP 都不怎么好用。功能过于简单，比如短信没有搜索功能；不适合中文环境，比如日历没有显示农历的功能，闹钟不会根据调休自动调整等方便的功能。&lt;/p&gt;
 &lt;p&gt;像这些 APP 都有哪些好用代替品？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>大家都是如何从开车小白成长起来的</title>
+      <link>https://www.v2ex.com/t/1194921</link>
+      <guid>v2ex-1194921</guid>
+      <pubDate>Sat, 28 Feb 2026 15:59:49 GMT</pubDate>
+      <description>&lt;p&gt;拿了 8 年驾照了，最近才有购车资格。
+问下大家都是怎么慢慢上路，练车的过程是怎样的，有什么好的方法技巧可以分享的～&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Skill、MCP 等等 AI 外围工具，本质是 markdown 小作文吗</title>
+      <link>https://www.v2ex.com/t/1194908</link>
+      <guid>v2ex-1194908</guid>
+      <pubDate>Sat, 28 Feb 2026 14:24:37 GMT</pubDate>
+      <description>不清楚现在 AI 编程是怎么运作的，问问大伙。&lt;br /&gt;&lt;br /&gt;一堆有结构的 markdown 组合起来，还有些 markdown 用来描述每个 markdown 干什么的，让 AI 挑着读？&lt;br /&gt;&lt;br /&gt;看起来还有 json ，用来结构化描述这堆 markdown 作用，或者 AI 平台会用写好的代码读取这个 json ？&lt;br /&gt;&lt;br /&gt;至于 markdown 里，就是没有特定结构的自然语言咯？描述规则、规范等等？&lt;br /&gt;&lt;br /&gt;AI 客户端会让我们把这堆东西按一定目录结构放到特定文件夹里？比如一个项目里面的.claude 、.cursor 、.agents 、&lt;a target=&quot;_blank&quot; href=&quot;http://AGENTS.md&quot; rel=&quot;nofollow noopener&quot;&gt;AGENTS.md&lt;/a&gt; 等用于提供给不同 AI 客户端用？&lt;br /&gt;&lt;br /&gt;要是需要让 AI 调用外部代码能力的情况，就是 http 请求或者 stdio 通信？比如起个本地后端服务用于获取一言，那 markdown 里就写请求地址、入参出参长啥样？ AI 模型判断到自己需要调的时候，就会去发请求？发请求、读写本地文件、执行命令这些基础能力是 AI IDE 等客户端自带的？&lt;br /&gt;&lt;br /&gt;所以和各种 AI API 发请求时，除了校验、会话 id 、模型调参之类的，就只是在传这些 markdown 和上下文组成的字符串？不能一股脑都传过去吧，怎么实现按需传的？</description>
     </item>
     <item>
       <title>我是淘宝小卖家，买家拍错商品却不退款，淘宝让我发货，请教我应该给买家发什么？</title>
@@ -60,22 +76,6 @@
 &lt;p&gt;现在买家不退款，我只有等着淘宝处罚（不发货是发货超时处罚、发货是虚假发货）。&lt;/p&gt;
 &lt;p&gt;前后多次联系淘宝千牛客服，客服让报备、投诉，但是递交后都是不通过。&lt;/p&gt;
 &lt;p&gt;现在淘宝的最终裁决是，按正常流程发货。可是我不知道给买家发什么啊！！！！求指教！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Skill、MCP 等等 AI 外围工具，本质是 markdown 小作文吗</title>
-      <link>https://www.v2ex.com/t/1194908</link>
-      <guid>v2ex-1194908</guid>
-      <pubDate>Sat, 28 Feb 2026 14:24:37 GMT</pubDate>
-      <description>不清楚现在 AI 编程是怎么运作的，问问大伙。&lt;br /&gt;&lt;br /&gt;一堆有结构的 markdown 组合起来，还有些 markdown 用来描述每个 markdown 干什么的，让 AI 挑着读？&lt;br /&gt;&lt;br /&gt;看起来还有 json ，用来结构化描述这堆 markdown 作用，或者 AI 平台会用写好的代码读取这个 json ？&lt;br /&gt;&lt;br /&gt;至于 markdown 里，就是没有特定结构的自然语言咯？描述规则、规范等等？&lt;br /&gt;&lt;br /&gt;AI 客户端会让我们把这堆东西按一定目录结构放到特定文件夹里？比如一个项目里面的.claude 、.cursor 、.agents 、&lt;a target=&quot;_blank&quot; href=&quot;http://AGENTS.md&quot; rel=&quot;nofollow noopener&quot;&gt;AGENTS.md&lt;/a&gt; 等用于提供给不同 AI 客户端用？&lt;br /&gt;&lt;br /&gt;要是需要让 AI 调用外部代码能力的情况，就是 http 请求或者 stdio 通信？比如起个本地后端服务用于获取一言，那 markdown 里就写请求地址、入参出参长啥样？ AI 模型判断到自己需要调的时候，就会去发请求？发请求、读写本地文件、执行命令这些基础能力是 AI IDE 等客户端自带的？&lt;br /&gt;&lt;br /&gt;所以和各种 AI API 发请求时，除了校验、会话 id 、模型调参之类的，就只是在传这些 markdown 和上下文组成的字符串？不能一股脑都传过去吧，怎么实现按需传的？</description>
-    </item>
-    <item>
-      <title>大家都是如何从开车小白成长起来的</title>
-      <link>https://www.v2ex.com/t/1194921</link>
-      <guid>v2ex-1194921</guid>
-      <pubDate>Sat, 28 Feb 2026 15:59:49 GMT</pubDate>
-      <description>&lt;p&gt;拿了 8 年驾照了，最近才有购车资格。
-问下大家都是怎么慢慢上路，练车的过程是怎样的，有什么好的方法技巧可以分享的～&lt;/p&gt;
 </description>
     </item>
     <item>
