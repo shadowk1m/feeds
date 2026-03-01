@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Mar 2026 06:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 07:06:31 GMT</lastBuildDate>
     <item>
       <title>大佬们， coding plan 选哪家强？体验最好？最稳定？最大方？</title>
       <link>https://www.v2ex.com/t/1194846</link>
@@ -29,29 +29,6 @@
 &lt;p&gt;个人还是更喜欢玩峡谷的排位，玩了一段时间海克斯乱斗，觉得没啥意思了
 现在玩排位除了反应不过来，还要被 ELO 支配，有时候玩完就感觉受挫特别严重。&lt;/p&gt;
 &lt;p&gt;所以还有老玩家知道怎么缓解吗？（除了放弃不玩转战其他游戏）&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>我也来记一次事故处理，各位后续可以参考我的办法避免对方扯皮</title>
-      <link>https://www.v2ex.com/t/1194813</link>
-      <guid>v2ex-1194813</guid>
-      <pubDate>Sat, 28 Feb 2026 06:29:06 GMT</pubDate>
-      <description>&lt;p&gt;事故起因&lt;/p&gt;
-&lt;p&gt;郑州南三环高架三车道，我形式在最右侧车道，前方车龟速形式大约速度不到 60 。&lt;/p&gt;
-&lt;p&gt;我在实线变虚线以后向左侧变道，变道完成后加速行驶。就在这时原龟速车打左转灯向左变道。&lt;/p&gt;
-&lt;p&gt;此时，对于我而言，我在变道前原中间车道后方车辆我没有留够安全距离，而最左侧车道有车。&lt;/p&gt;
-&lt;p&gt;我变道前，我的方案就是变道后加速驶离，好巧不巧我正在，大油门驶离过程中对方开始变道了，按了喇叭还是蹭上了。&lt;/p&gt;
-&lt;p&gt;事故发生后对方是一个中年女士，我没想到的是第一句话就质问我为何不让她......   她都打灯了属于正常变道。&lt;/p&gt;
-&lt;p&gt;没有理会，我直接选择报警处理。警方判定对方全责。&lt;/p&gt;
-&lt;p&gt;全责认定后对方希望私自出钱修车，我说可以，但是你得提前报保险。&lt;/p&gt;
-&lt;p&gt;以下是我让警察帮我做的事情&lt;/p&gt;
-&lt;p&gt;1 、事故认定书确定以及签署完毕。&lt;/p&gt;
-&lt;p&gt;2 、从系统上查询对方车辆保险公司。&lt;/p&gt;
-&lt;p&gt;事故发生后，我当天开车去定损，小面积擦伤，4S 店报价：800 元。此时我拿着 4S 店的报价给她打电话沟通，如果她愿意自己承担我可以考虑去外面修毕竟问题不大估计 500 到 600 能搞定。&lt;/p&gt;
-&lt;p&gt;对方说自己在开车，让我等等再给她打，后续就是再也不接我电话了。&lt;/p&gt;
-&lt;p&gt;我就让 4S 店直接处理，并且告知了 4S 店对方的保险公司。&lt;/p&gt;
-&lt;p&gt;大概一个月后，对方主动打电话过来问为什么用了她的保险?&lt;/p&gt;
-&lt;p&gt;而我接听第一次以后，也选择不接电话了。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -88,6 +65,44 @@
 &lt;p&gt;文章转于 NS&lt;br/&gt;
 感谢作者：嘉然今天吃什麼&lt;/p&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    <item>
+      <title>Conex - 现代化 SSH 客户端， Termius 平替</title>
+      <link>https://www.v2ex.com/t/1194906</link>
+      <guid>v2ex-1194906</guid>
+      <pubDate>Sat, 28 Feb 2026 14:03:40 GMT</pubDate>
+      <description>&lt;p&gt;大家好，分享一下我做的一个项目 &lt;strong&gt;Conex&lt;/strong&gt; —— 一个现代化的跨平台 SSH 客户端。&lt;/p&gt;
+&lt;p&gt;做这个项目的初衷很简单：Termius 非常好用但是实在消费不起，所以就自己写了一个。。&lt;/p&gt;
+&lt;h3&gt;主要功能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SSH 终端&lt;/strong&gt;：基于 xterm.js ，支持 256 色和真彩色，体验接近原生终端&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主机管理&lt;/strong&gt;：支持分组、搜索，轻松管理大量服务器&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多标签页&lt;/strong&gt;：同时连接多台服务器，自由切换&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SFTP 文件浏览器&lt;/strong&gt;：可视化管理远程文件，支持上传、下载、批量操作，带进度条&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;端口转发&lt;/strong&gt;：本地/远程 TCP 隧道，一键启停&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;代码片段&lt;/strong&gt;：保存常用命令，一键复制&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;密钥管理&lt;/strong&gt;：集中管理 SSH 密钥，支持导入和编辑&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;云端加密同步&lt;/strong&gt;（ Pro ）：支持 Google / GitHub 登录，使用 AES-256-GCM 端到端加密，同步你的主机、密钥、片段等配置，方便多设备和混合办公牛马、数字游民。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;深色 / 浅色主题&lt;/strong&gt;切换&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;中英文双语&lt;/strong&gt;支持&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;关于定价&lt;/h3&gt;
+&lt;p&gt;本地功能完全免费使用，无任何限制。云端同步功能需要 Pro 计划，&lt;strong&gt;目前提供 30 天免费试用&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3&gt;跨平台&lt;/h3&gt;
+&lt;p&gt;支持 macOS 、Windows 、Linux （计划中）。&lt;/p&gt;
+&lt;p&gt;官网： &lt;a href=&quot;https://getconex.app&quot; rel=&quot;nofollow&quot;&gt;https://getconex.app&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Conex&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://getconex.app/screenshots/main.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;欢迎大家试用，也欢迎提需求和建议！有价值建议提供免费更长 Pro 计划答谢。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>刷 LineageOS 等第三方 ROM 的手机，短信日历常用 APP 都用的什么代替品？</title>
+      <link>https://www.v2ex.com/t/1194927</link>
+      <guid>v2ex-1194927</guid>
+      <pubDate>Sat, 28 Feb 2026 16:52:21 GMT</pubDate>
+      <description>&lt;p&gt;像 LineageOS 这些 ROM ，自带的电话/短信/日历/通讯录/闹钟等 APP 都不怎么好用。功能过于简单，比如短信没有搜索功能；不适合中文环境，比如日历没有显示农历的功能，闹钟不会根据调休自动调整等方便的功能。&lt;/p&gt;
+&lt;p&gt;像这些 APP 都有哪些好用代替品？&lt;/p&gt;
 </description>
     </item>
   </channel>
