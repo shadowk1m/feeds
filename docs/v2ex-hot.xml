@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Mar 2026 17:43:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 18:19:17 GMT</lastBuildDate>
     <item>
       <title>想买个美区礼品卡怎么这么费劲了</title>
       <link>https://www.v2ex.com/t/1194957</link>
@@ -308,11 +308,46 @@
 </description>
     </item>
     <item>
-      <title>openclaw 用来下电影实在太舒服了</title>
-      <link>https://www.v2ex.com/t/1194944</link>
-      <guid>v2ex-1194944</guid>
-      <pubDate>Sun, 01 Mar 2026 02:22:29 GMT</pubDate>
-      <description>我先尝试了 moviepilot ，但那个破认证我实在搞不定，我一个本地工具有啥好认证的。&lt;br /&gt;&lt;br /&gt;实在不行就老三样 xarr 套件。Prowlarr+Radarr+Sonarr&lt;br /&gt;&lt;br /&gt;配置上馒头的帐号和 tr 的下载器。测试了一下可以搜索馒头然后下载了，但操作也巨麻烦，要来回切。开始上龙虾聚合：&lt;br /&gt;&lt;br /&gt;* 学会豆瓣等能力&lt;br /&gt;* 学会 imdb/tmdb/tvdb 能力&lt;br /&gt;* 学会 plex 的能力&lt;br /&gt;* 学会 arr 套件使用能力&lt;br /&gt;&lt;br /&gt;完事后就是个人版的影音系统。不知道看什么就让他全网找，看社区，看榜单，再根据我的 plex 观看距离和片列表进行推荐，介绍完我觉得不错就是一句下吧、好了告诉我一声就完事了。&lt;br /&gt;&lt;br /&gt;想找什么片就给你更简单了，昨天媳妇说我娃喜欢看超能陆战队，但都是 b 站看的，正好试试龙虾好不好使：嘿，帮我看看我有没有超能陆战队。没有下一个。&lt;br /&gt;&lt;br /&gt;在没有 pt 浏览器工具后终于再一次好用起来</description>
+      <title>Netcatty - 开源免费的 SSH 终端软件</title>
+      <link>https://www.v2ex.com/t/1195002</link>
+      <guid>v2ex-1195002</guid>
+      <pubDate>Sun, 01 Mar 2026 10:14:46 GMT</pubDate>
+      <description>&lt;p&gt;用三个礼拜的时间 vibe 了一款 SSH Client：&lt;/p&gt;
+&lt;h1&gt;Netcatty&lt;/h1&gt;
+&lt;p&gt;项目地址：&lt;a href=&quot;http://github.com/binaricat/Netcatty&quot; rel=&quot;nofollow&quot;&gt;github.com/binaricat/Netcatty&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;之前一直付费用 Termius ，不过后来感觉一个月 15 刀买一个 SSH Client 还是有点贵。中间调研过各种平替，确实除了 Termius 没找到第二款支持云同步的 SSH Client 。所以决定尝试 vibe 一个出来。&lt;/p&gt;
+&lt;p&gt;Netcatty 支持基于多种方式的云同步，包括 Google Drive, Github Gist,  OneDrive,  S3, WebDav 。同步几乎是实时的，只要配置发生变化就会自动往云端同步。
+在功能上，Netcatty 实现了 Termius 的大部分功能，交互，布局都有参考。如果你是 Termius 老用户应该会很熟悉 Netcatty 的交互。&lt;/p&gt;
+&lt;p&gt;不过 Fido2/生物指纹密钥功能暂时先没做。此外 Netcatty 目前没有实现移动端。&lt;/p&gt;
+&lt;p&gt;如果你刚好缺一个带云同步功能的 SSH Client ，同时也觉得 Termius 有点贵，并且没有移动端的需求，那么可以试试这个开源平替。省下来的钱可以买一个 AI 订阅了😘&lt;/p&gt;
+&lt;p&gt;本项目定位于做 termius 开源平替，后续也不会收费，我会在平时使用的时候顺手修一修 bug ，如果可以帮到你，莫忘记给主包点个 star 就当交个朋友&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;功能特性&lt;/h1&gt;
+&lt;h3&gt;🗂️ Vault&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;多种视图&lt;/strong&gt; —— 网格 / 列表 / 树形&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;快速搜索&lt;/strong&gt; —— 迅速定位主机与分组&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🖥️ 终端工作区&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;分屏&lt;/strong&gt; —— 水平/垂直分割，多任务并行&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多会话管理&lt;/strong&gt; —— 多连接并排处理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;📁 SFTP + 内置编辑器&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;文件工作流&lt;/strong&gt; —— 拖拽上传/下载更直观&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;就地编辑&lt;/strong&gt; —— 内置编辑器快速修改文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🎨 个性化&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;自定义主题&lt;/strong&gt; —— 按喜好调整应用外观&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键词高亮&lt;/strong&gt; —— 自定义终端输出高亮规则&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;云端同步&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;本项目支持基于 Github/Google/OneDrive/WebDav 等机制的云端同步功能&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
   </channel>
 </rss>
