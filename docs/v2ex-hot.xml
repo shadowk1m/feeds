@@ -4,16 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Mar 2026 15:42:42 GMT</lastBuildDate>
-    <item>
-      <title>大家都是如何从开车小白成长起来的</title>
-      <link>https://www.v2ex.com/t/1194921</link>
-      <guid>v2ex-1194921</guid>
-      <pubDate>Sat, 28 Feb 2026 15:59:49 GMT</pubDate>
-      <description>&lt;p&gt;拿了 8 年驾照了，最近才有购车资格。
-问下大家都是怎么慢慢上路，练车的过程是怎样的，有什么好的方法技巧可以分享的～&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 16:15:37 GMT</lastBuildDate>
     <item>
       <title>想买个美区礼品卡怎么这么费劲了</title>
       <link>https://www.v2ex.com/t/1194957</link>
@@ -56,6 +47,46 @@
       <pubDate>Sat, 28 Feb 2026 16:52:21 GMT</pubDate>
       <description>&lt;p&gt;像 LineageOS 这些 ROM ，自带的电话/短信/日历/通讯录/闹钟等 APP 都不怎么好用。功能过于简单，比如短信没有搜索功能；不适合中文环境，比如日历没有显示农历的功能，闹钟不会根据调休自动调整等方便的功能。&lt;/p&gt;
 &lt;p&gt;像这些 APP 都有哪些好用代替品？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>我的 AI 辅助软著申请材料上线了，新注册即送无门槛 20 积分，邀请新用户积分赠送，欢迎大佬试用、激情开喷</title>
+      <link>https://www.v2ex.com/t/1194981</link>
+      <guid>v2ex-1194981</guid>
+      <pubDate>Sun, 01 Mar 2026 07:12:37 GMT</pubDate>
+      <description>&lt;p&gt;访问地址： &lt;a href=&quot;https://mz.skyler.uno&quot; rel=&quot;nofollow&quot;&gt;https://mz.skyler.uno&lt;/a&gt;,  [秒著] &lt;/p&gt;
+&lt;h1&gt;介绍&lt;/h1&gt;
+&lt;p&gt;我也是需要有两个项目需要申请软件著作权，一个探店小程序，一个私域小程序，写材料又比较痛苦；&lt;/p&gt;
+&lt;p&gt;然后想着看看能不能用 AI 辅助一下开发，然后自己花了 3 周整了一个这个 AI 辅助系统&lt;/p&gt;
+&lt;p&gt;目前可以生成完整的申请材料&lt;/p&gt;
+&lt;p&gt;我自己用自己的项目试了下，基本上可以生成文档鉴别材料和源码文档&lt;/p&gt;
+&lt;h1&gt;架构&lt;/h1&gt;
+&lt;p&gt;实际上挺简单的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;前端 vue3 + ts + vite&lt;/li&gt;
+&lt;li&gt;后端：fastapi&lt;/li&gt;
+&lt;li&gt;存储：OSS&lt;/li&gt;
+&lt;li&gt;AI：对接 deepseek&lt;/li&gt;
+&lt;li&gt;word: 忘了用的啥的&lt;/li&gt;
+&lt;li&gt;pdf 生成：libre&lt;/li&gt;
+&lt;li&gt;HTTPS：let&#39;s encrypt&lt;/li&gt;
+&lt;li&gt;反向代理：nginx ，前后端分离部署&lt;/li&gt;
+&lt;li&gt;数据库：mysql&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;开发的经验：&lt;/h1&gt;
+&lt;p&gt;之前没搞过 AI 的开发，这次开发也是使用 claude code 助力了一下&lt;/p&gt;
+&lt;p&gt;材料的生成使用的 deepseek api ，生成简单，问题是要合成一个完整的 word ，这一步是真的有点难，而且保证章节序号都是对的&lt;/p&gt;
+&lt;p&gt;另外的，就是有别的用户试用希望能有图片生成，这个需求真的是让我头麻了，&lt;/p&gt;
+&lt;p&gt;架构图，uml 勉强可以生成一下，就是功能点对应的 UI 图感觉不是很好生成，第一个是要契合业务的功能点，另一个就是这些功能图片要 UI 风格统一，一致。理想的情况下就是真正的生成了一个系统，然后得到 UI 图片。&lt;/p&gt;
+&lt;h1&gt;使用情况&lt;/h1&gt;
+&lt;p&gt;我自己生成了两个鉴别材料，稍微调整了一下，然后已经申请了软件著作，还在审核中&lt;/p&gt;
+&lt;h1&gt;新用户&lt;/h1&gt;
+&lt;p&gt;注册即送无门槛 20 积分，邀请新用户积分赠送&lt;/p&gt;
+&lt;p&gt;生成一个完整的文档鉴别材料和源码是够了的&lt;/p&gt;
+&lt;p&gt;欢迎大佬试用、激情开喷&lt;/p&gt;
+&lt;p&gt;访问地址： &lt;a href=&quot;https://mz.skyler.uno&quot; rel=&quot;nofollow&quot;&gt;https://mz.skyler.uno&lt;/a&gt;,  [秒著] &lt;/p&gt;
+&lt;h1&gt;源码赠送&lt;/h1&gt;
+&lt;p&gt;有需要源码的，可以留个邮箱，我整理下代码，把我的微信支付，oss 账号，乱七八糟的打个码，就可以发出去&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -270,46 +301,6 @@
 &lt;div&gt;提前祝大家元宵快乐，愿你身心安康，电力满满！&lt;/div&gt;</description>
     </item>
     <item>
-      <title>我的 AI 辅助软著申请材料上线了，新注册即送无门槛 20 积分，邀请新用户积分赠送，欢迎大佬试用、激情开喷</title>
-      <link>https://www.v2ex.com/t/1194981</link>
-      <guid>v2ex-1194981</guid>
-      <pubDate>Sun, 01 Mar 2026 07:12:37 GMT</pubDate>
-      <description>&lt;p&gt;访问地址： &lt;a href=&quot;https://mz.skyler.uno&quot; rel=&quot;nofollow&quot;&gt;https://mz.skyler.uno&lt;/a&gt;,  [秒著] &lt;/p&gt;
-&lt;h1&gt;介绍&lt;/h1&gt;
-&lt;p&gt;我也是需要有两个项目需要申请软件著作权，一个探店小程序，一个私域小程序，写材料又比较痛苦；&lt;/p&gt;
-&lt;p&gt;然后想着看看能不能用 AI 辅助一下开发，然后自己花了 3 周整了一个这个 AI 辅助系统&lt;/p&gt;
-&lt;p&gt;目前可以生成完整的申请材料&lt;/p&gt;
-&lt;p&gt;我自己用自己的项目试了下，基本上可以生成文档鉴别材料和源码文档&lt;/p&gt;
-&lt;h1&gt;架构&lt;/h1&gt;
-&lt;p&gt;实际上挺简单的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;前端 vue3 + ts + vite&lt;/li&gt;
-&lt;li&gt;后端：fastapi&lt;/li&gt;
-&lt;li&gt;存储：OSS&lt;/li&gt;
-&lt;li&gt;AI：对接 deepseek&lt;/li&gt;
-&lt;li&gt;word: 忘了用的啥的&lt;/li&gt;
-&lt;li&gt;pdf 生成：libre&lt;/li&gt;
-&lt;li&gt;HTTPS：let&#39;s encrypt&lt;/li&gt;
-&lt;li&gt;反向代理：nginx ，前后端分离部署&lt;/li&gt;
-&lt;li&gt;数据库：mysql&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;开发的经验：&lt;/h1&gt;
-&lt;p&gt;之前没搞过 AI 的开发，这次开发也是使用 claude code 助力了一下&lt;/p&gt;
-&lt;p&gt;材料的生成使用的 deepseek api ，生成简单，问题是要合成一个完整的 word ，这一步是真的有点难，而且保证章节序号都是对的&lt;/p&gt;
-&lt;p&gt;另外的，就是有别的用户试用希望能有图片生成，这个需求真的是让我头麻了，&lt;/p&gt;
-&lt;p&gt;架构图，uml 勉强可以生成一下，就是功能点对应的 UI 图感觉不是很好生成，第一个是要契合业务的功能点，另一个就是这些功能图片要 UI 风格统一，一致。理想的情况下就是真正的生成了一个系统，然后得到 UI 图片。&lt;/p&gt;
-&lt;h1&gt;使用情况&lt;/h1&gt;
-&lt;p&gt;我自己生成了两个鉴别材料，稍微调整了一下，然后已经申请了软件著作，还在审核中&lt;/p&gt;
-&lt;h1&gt;新用户&lt;/h1&gt;
-&lt;p&gt;注册即送无门槛 20 积分，邀请新用户积分赠送&lt;/p&gt;
-&lt;p&gt;生成一个完整的文档鉴别材料和源码是够了的&lt;/p&gt;
-&lt;p&gt;欢迎大佬试用、激情开喷&lt;/p&gt;
-&lt;p&gt;访问地址： &lt;a href=&quot;https://mz.skyler.uno&quot; rel=&quot;nofollow&quot;&gt;https://mz.skyler.uno&lt;/a&gt;,  [秒著] &lt;/p&gt;
-&lt;h1&gt;源码赠送&lt;/h1&gt;
-&lt;p&gt;有需要源码的，可以留个邮箱，我整理下代码，把我的微信支付，oss 账号，乱七八糟的打个码，就可以发出去&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>最近朋友想弄个 tg 号，怎么弄</title>
       <link>https://www.v2ex.com/t/1194971</link>
       <guid>v2ex-1194971</guid>
@@ -317,6 +308,13 @@
       <description>&lt;p&gt;我一个朋友，他想弄个 tg 号，结果发现又是验证码收不到，又是需要填信用卡啥的。&lt;/p&gt;
 &lt;p&gt;问下朋友们，就是有没有什么方式或者靠谱渠道推荐，能弄个 tg 号自己稳定用的，花点钱都可以，这样子&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>一个女生 90 年相亲，谈了 3 段，最近一段谈了 6 年（同居 2 年），现在 gap 2 年，这种女生是不是不要去了解了</title>
+      <link>https://www.v2ex.com/t/1195026</link>
+      <guid>v2ex-1195026</guid>
+      <pubDate>Sun, 01 Mar 2026 12:57:25 GMT</pubDate>
+      <description>一个女生 90 年相亲，谈了 3 段，最近一段谈了 6 年（同居 2 年），现在 gap 2 年，这种女生是不是不要去了解了</description>
     </item>
   </channel>
 </rss>
