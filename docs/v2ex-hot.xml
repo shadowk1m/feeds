@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 02 Mar 2026 05:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 06:09:13 GMT</lastBuildDate>
     <item>
       <title>我目前听过最离谱的天价彩礼</title>
       <link>https://www.v2ex.com/t/1195075</link>
@@ -25,6 +25,14 @@
 第一次真切感觉到：好像不太配开这车。
 回头看看我那辆二轮电瓶车，用着踏实又省心。花了大价钱买的四轮车，反而成了最鸡肋的存在——钱花了不少，生活方式却没因为它变好多少，很多时候反而是在“创造需求”来用它。&lt;/p&gt;
 &lt;p&gt;就……吐槽两句，感慨一下。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>国内税真的太重了</title>
+      <link>https://www.v2ex.com/t/1195132</link>
+      <guid>v2ex-1195132</guid>
+      <pubDate>Mon, 02 Mar 2026 03:15:27 GMT</pubDate>
+      <description>&lt;p&gt;最近在整退税，查看了一下每个月都差不多交 1500+个税，12 月份甚至 3200 ，拿个两三万的工资生活在一线城市，加上平时出门吃饭，开车加油生活各处都有隐形税，如此高的生活成本税务成本，根本剩不下几个钱，何谈提振内需消费&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -77,59 +85,11 @@
 </description>
     </item>
     <item>
-      <title>国内税真的太重了</title>
-      <link>https://www.v2ex.com/t/1195132</link>
-      <guid>v2ex-1195132</guid>
-      <pubDate>Mon, 02 Mar 2026 03:15:27 GMT</pubDate>
-      <description>&lt;p&gt;最近在整退税，查看了一下每个月都差不多交 1500+个税，12 月份甚至 3200 ，拿个两三万的工资生活在一线城市，加上平时出门吃饭，开车加油生活各处都有隐形税，如此高的生活成本税务成本，根本剩不下几个钱，何谈提振内需消费&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>父亲喝了点小酒，出去上厕所，晕倒在院子里</title>
       <link>https://www.v2ex.com/t/1195112</link>
       <guid>v2ex-1195112</guid>
       <pubDate>Mon, 02 Mar 2026 02:33:09 GMT</pubDate>
       <description>父亲喝了点酒（平时喝的很少，这次也没喝多），出去上厕所，突然摔倒了（村里的房子，院里都是水泥地），摔倒后晕了，脸上磕了一块，他说摔倒之前完全没征兆，都没记忆，也不知道怎么就摔了，可以理解为原地晕了，我妈看到后叫醒了，现在年龄也才 55 左右，常年在家干农活（包地，有时候比较忙），有些肥胖，血压高，我怀疑是血压高导致的，大家有见过这种情况吗？</description>
-    </item>
-    <item>
-      <title>我的 AI 辅助软著申请材料上线了，新注册即送无门槛 20 积分，邀请新用户积分赠送，欢迎大佬试用、激情开喷</title>
-      <link>https://www.v2ex.com/t/1194981</link>
-      <guid>v2ex-1194981</guid>
-      <pubDate>Sun, 01 Mar 2026 07:12:37 GMT</pubDate>
-      <description>&lt;p&gt;访问地址： &lt;a href=&quot;https://mz.skyler.uno&quot; rel=&quot;nofollow&quot;&gt;https://mz.skyler.uno&lt;/a&gt;,  [秒著] &lt;/p&gt;
-&lt;h1&gt;介绍&lt;/h1&gt;
-&lt;p&gt;我也是需要有两个项目需要申请软件著作权，一个探店小程序，一个私域小程序，写材料又比较痛苦；&lt;/p&gt;
-&lt;p&gt;然后想着看看能不能用 AI 辅助一下开发，然后自己花了 3 周整了一个这个 AI 辅助系统&lt;/p&gt;
-&lt;p&gt;目前可以生成完整的申请材料&lt;/p&gt;
-&lt;p&gt;我自己用自己的项目试了下，基本上可以生成文档鉴别材料和源码文档&lt;/p&gt;
-&lt;h1&gt;架构&lt;/h1&gt;
-&lt;p&gt;实际上挺简单的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;前端 vue3 + ts + vite&lt;/li&gt;
-&lt;li&gt;后端：fastapi&lt;/li&gt;
-&lt;li&gt;存储：OSS&lt;/li&gt;
-&lt;li&gt;AI：对接 deepseek&lt;/li&gt;
-&lt;li&gt;word: 忘了用的啥的&lt;/li&gt;
-&lt;li&gt;pdf 生成：libre&lt;/li&gt;
-&lt;li&gt;HTTPS：let&#39;s encrypt&lt;/li&gt;
-&lt;li&gt;反向代理：nginx ，前后端分离部署&lt;/li&gt;
-&lt;li&gt;数据库：mysql&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;开发的经验：&lt;/h1&gt;
-&lt;p&gt;之前没搞过 AI 的开发，这次开发也是使用 claude code 助力了一下&lt;/p&gt;
-&lt;p&gt;材料的生成使用的 deepseek api ，生成简单，问题是要合成一个完整的 word ，这一步是真的有点难，而且保证章节序号都是对的&lt;/p&gt;
-&lt;p&gt;另外的，就是有别的用户试用希望能有图片生成，这个需求真的是让我头麻了，&lt;/p&gt;
-&lt;p&gt;架构图，uml 勉强可以生成一下，就是功能点对应的 UI 图感觉不是很好生成，第一个是要契合业务的功能点，另一个就是这些功能图片要 UI 风格统一，一致。理想的情况下就是真正的生成了一个系统，然后得到 UI 图片。&lt;/p&gt;
-&lt;h1&gt;使用情况&lt;/h1&gt;
-&lt;p&gt;我自己生成了两个鉴别材料，稍微调整了一下，然后已经申请了软件著作，还在审核中&lt;/p&gt;
-&lt;h1&gt;新用户&lt;/h1&gt;
-&lt;p&gt;注册即送无门槛 20 积分，邀请新用户积分赠送&lt;/p&gt;
-&lt;p&gt;生成一个完整的文档鉴别材料和源码是够了的&lt;/p&gt;
-&lt;p&gt;欢迎大佬试用、激情开喷&lt;/p&gt;
-&lt;p&gt;访问地址： &lt;a href=&quot;https://mz.skyler.uno&quot; rel=&quot;nofollow&quot;&gt;https://mz.skyler.uno&lt;/a&gt;,  [秒著] &lt;/p&gt;
-&lt;h1&gt;源码赠送&lt;/h1&gt;
-&lt;p&gt;有需要源码的，可以留个邮箱，我整理下代码，把我的微信支付，oss 账号，乱七八糟的打个码，就可以发出去&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>Netcatty - 开源免费的 SSH 终端软件</title>
@@ -179,6 +139,46 @@
       <guid>v2ex-1195125</guid>
       <pubDate>Mon, 02 Mar 2026 02:58:24 GMT</pubDate>
       <description>标题党了，单纯考试和分数当然很难有后门。&lt;br /&gt;&lt;br /&gt;广义的，只要目标是：进入一个更好的大学就算的话，应该还是不少。&lt;br /&gt;&lt;br /&gt;说一个我知道的：某个分数线比我校低几十分的学校的一个人在大二上学期的时候转学进入我班，然后在我校毕业。</description>
+    </item>
+    <item>
+      <title>我的 AI 辅助软著申请材料上线了，新注册即送无门槛 20 积分，邀请新用户积分赠送，欢迎大佬试用、激情开喷</title>
+      <link>https://www.v2ex.com/t/1194981</link>
+      <guid>v2ex-1194981</guid>
+      <pubDate>Sun, 01 Mar 2026 07:12:37 GMT</pubDate>
+      <description>&lt;p&gt;访问地址： &lt;a href=&quot;https://mz.skyler.uno&quot; rel=&quot;nofollow&quot;&gt;https://mz.skyler.uno&lt;/a&gt;,  [秒著] &lt;/p&gt;
+&lt;h1&gt;介绍&lt;/h1&gt;
+&lt;p&gt;我也是需要有两个项目需要申请软件著作权，一个探店小程序，一个私域小程序，写材料又比较痛苦；&lt;/p&gt;
+&lt;p&gt;然后想着看看能不能用 AI 辅助一下开发，然后自己花了 3 周整了一个这个 AI 辅助系统&lt;/p&gt;
+&lt;p&gt;目前可以生成完整的申请材料&lt;/p&gt;
+&lt;p&gt;我自己用自己的项目试了下，基本上可以生成文档鉴别材料和源码文档&lt;/p&gt;
+&lt;h1&gt;架构&lt;/h1&gt;
+&lt;p&gt;实际上挺简单的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;前端 vue3 + ts + vite&lt;/li&gt;
+&lt;li&gt;后端：fastapi&lt;/li&gt;
+&lt;li&gt;存储：OSS&lt;/li&gt;
+&lt;li&gt;AI：对接 deepseek&lt;/li&gt;
+&lt;li&gt;word: 忘了用的啥的&lt;/li&gt;
+&lt;li&gt;pdf 生成：libre&lt;/li&gt;
+&lt;li&gt;HTTPS：let&#39;s encrypt&lt;/li&gt;
+&lt;li&gt;反向代理：nginx ，前后端分离部署&lt;/li&gt;
+&lt;li&gt;数据库：mysql&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;开发的经验：&lt;/h1&gt;
+&lt;p&gt;之前没搞过 AI 的开发，这次开发也是使用 claude code 助力了一下&lt;/p&gt;
+&lt;p&gt;材料的生成使用的 deepseek api ，生成简单，问题是要合成一个完整的 word ，这一步是真的有点难，而且保证章节序号都是对的&lt;/p&gt;
+&lt;p&gt;另外的，就是有别的用户试用希望能有图片生成，这个需求真的是让我头麻了，&lt;/p&gt;
+&lt;p&gt;架构图，uml 勉强可以生成一下，就是功能点对应的 UI 图感觉不是很好生成，第一个是要契合业务的功能点，另一个就是这些功能图片要 UI 风格统一，一致。理想的情况下就是真正的生成了一个系统，然后得到 UI 图片。&lt;/p&gt;
+&lt;h1&gt;使用情况&lt;/h1&gt;
+&lt;p&gt;我自己生成了两个鉴别材料，稍微调整了一下，然后已经申请了软件著作，还在审核中&lt;/p&gt;
+&lt;h1&gt;新用户&lt;/h1&gt;
+&lt;p&gt;注册即送无门槛 20 积分，邀请新用户积分赠送&lt;/p&gt;
+&lt;p&gt;生成一个完整的文档鉴别材料和源码是够了的&lt;/p&gt;
+&lt;p&gt;欢迎大佬试用、激情开喷&lt;/p&gt;
+&lt;p&gt;访问地址： &lt;a href=&quot;https://mz.skyler.uno&quot; rel=&quot;nofollow&quot;&gt;https://mz.skyler.uno&lt;/a&gt;,  [秒著] &lt;/p&gt;
+&lt;h1&gt;源码赠送&lt;/h1&gt;
+&lt;p&gt;有需要源码的，可以留个邮箱，我整理下代码，把我的微信支付，oss 账号，乱七八糟的打个码，就可以发出去&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
