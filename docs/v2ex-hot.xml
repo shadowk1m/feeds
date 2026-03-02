@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 02 Mar 2026 10:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 11:06:09 GMT</lastBuildDate>
     <item>
       <title>我目前听过最离谱的天价彩礼</title>
       <link>https://www.v2ex.com/t/1195075</link>
@@ -35,81 +35,11 @@
       <description>标题党了，单纯考试和分数当然很难有后门。&lt;br /&gt;&lt;br /&gt;广义的，只要目标是：进入一个更好的大学就算的话，应该还是不少。&lt;br /&gt;&lt;br /&gt;说一个我知道的：某个分数线比我校低几十分的学校的一个人在大二上学期的时候转学进入我班，然后在我校毕业。</description>
     </item>
     <item>
-      <title>过年回家跟发小打牌，发小 3 天一共输了 400， 说今后不打牌了。</title>
-      <link>https://www.v2ex.com/t/1195089</link>
-      <guid>v2ex-1195089</guid>
-      <pubDate>Mon, 02 Mar 2026 01:54:18 GMT</pubDate>
-      <description>&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;每年过年回去，我们都会打牌。&lt;br/&gt;
-一共 3 个玩的比较好的发小。&lt;br/&gt;
-认识了 20 多年了。 都是一个小区的。     &lt;/p&gt;
-&lt;p&gt;这人工资 6000 多，背了 70 多万房贷&lt;br/&gt;
-我们玩的很小，一晚上输赢最多 200 。。他连输 3 天， 输满了 400 ，就不玩了。。说明年也不玩了。。&lt;br/&gt;
-哎，房贷把他搞麻了啊。看来房贷压力不小，，我是真的没想到他会说出这样的话&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>父亲喝了点小酒，出去上厕所，晕倒在院子里</title>
       <link>https://www.v2ex.com/t/1195112</link>
       <guid>v2ex-1195112</guid>
       <pubDate>Mon, 02 Mar 2026 02:33:09 GMT</pubDate>
       <description>父亲喝了点酒（平时喝的很少，这次也没喝多），出去上厕所，突然摔倒了（村里的房子，院里都是水泥地），摔倒后晕了，脸上磕了一块，他说摔倒之前完全没征兆，都没记忆，也不知道怎么就摔了，可以理解为原地晕了，我妈看到后叫醒了，现在年龄也才 55 左右，常年在家干农活（包地，有时候比较忙），有些肥胖，血压高，我怀疑是血压高导致的，大家有见过这种情况吗？</description>
-    </item>
-    <item>
-      <title>Netcatty - 开源免费的 SSH 终端软件</title>
-      <link>https://www.v2ex.com/t/1195002</link>
-      <guid>v2ex-1195002</guid>
-      <pubDate>Sun, 01 Mar 2026 10:14:46 GMT</pubDate>
-      <description>&lt;p&gt;用三个礼拜的时间 vibe 了一款 SSH Client：&lt;/p&gt;
-&lt;h1&gt;Netcatty&lt;/h1&gt;
-&lt;p&gt;项目地址：&lt;a href=&quot;http://github.com/binaricat/Netcatty&quot; rel=&quot;nofollow&quot;&gt;github.com/binaricat/Netcatty&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;之前一直付费用 Termius ，不过后来感觉一个月 15 刀买一个 SSH Client 还是有点贵。中间调研过各种平替，确实除了 Termius 没找到第二款支持云同步的 SSH Client 。所以决定尝试 vibe 一个出来。&lt;/p&gt;
-&lt;p&gt;Netcatty 支持基于多种方式的云同步，包括 Google Drive, Github Gist,  OneDrive,  S3, WebDav 。同步几乎是实时的，只要配置发生变化就会自动往云端同步。
-在功能上，Netcatty 实现了 Termius 的大部分功能，交互，布局都有参考。如果你是 Termius 老用户应该会很熟悉 Netcatty 的交互。&lt;/p&gt;
-&lt;p&gt;不过 Fido2/生物指纹密钥功能暂时先没做。此外 Netcatty 目前没有实现移动端。&lt;/p&gt;
-&lt;p&gt;如果你刚好缺一个带云同步功能的 SSH Client ，同时也觉得 Termius 有点贵，并且没有移动端的需求，那么可以试试这个开源平替。省下来的钱可以买一个 AI 订阅了😘&lt;/p&gt;
-&lt;p&gt;本项目定位于做 termius 开源平替，后续也不会收费，我会在平时使用的时候顺手修一修 bug ，如果可以帮到你，莫忘记给主包点个 star 就当交个朋友&lt;/p&gt;
-&lt;p&gt;&lt;a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;功能特性&lt;/h1&gt;
-&lt;h3&gt;🗂️ Vault&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;多种视图&lt;/strong&gt; —— 网格 / 列表 / 树形&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;快速搜索&lt;/strong&gt; —— 迅速定位主机与分组&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;🖥️ 终端工作区&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;分屏&lt;/strong&gt; —— 水平/垂直分割，多任务并行&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;多会话管理&lt;/strong&gt; —— 多连接并排处理&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;📁 SFTP + 内置编辑器&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;文件工作流&lt;/strong&gt; —— 拖拽上传/下载更直观&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;就地编辑&lt;/strong&gt; —— 内置编辑器快速修改文件&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;🎨 个性化&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;自定义主题&lt;/strong&gt; —— 按喜好调整应用外观&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;关键词高亮&lt;/strong&gt; —— 自定义终端输出高亮规则&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;云端同步&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;本项目支持基于 Github/Google/OneDrive/WebDav 等机制的云端同步功能&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>一个女生 90 年相亲，谈了 3 段，最近一段谈了 6 年（同居 2 年），现在 gap 2 年，这种女生是不是不要去了解了</title>
-      <link>https://www.v2ex.com/t/1195026</link>
-      <guid>v2ex-1195026</guid>
-      <pubDate>Sun, 01 Mar 2026 12:57:25 GMT</pubDate>
-      <description>一个女生 90 年相亲，谈了 3 段，最近一段谈了 6 年（同居 2 年），现在 gap 2 年，这种女生是不是不要去了解了</description>
-    </item>
-    <item>
-      <title>过年几天给 5 岁多的女儿写了个益智游戏</title>
-      <link>https://www.v2ex.com/t/1195110</link>
-      <guid>v2ex-1195110</guid>
-      <pubDate>Mon, 02 Mar 2026 02:20:46 GMT</pubDate>
-      <description>为了给我 5 岁多女儿训练逻辑能力,最近找到了 google 很多年前的 doodles 的一个儿童节逻辑游戏,娃很喜欢,但是这游戏在手机和平板上玩起来都不太友好,想找类似的发现竟然没有替代品,于是过年期间花了几天时间 Vibe Coding 了一版，除了关卡手工编辑其余全部用 AI 写代码搞定，增加了一些想法和内容(比如限制了步数),娃很喜欢，自己用起来感觉适合 5 到 14 岁的小盆友训练空间和逻辑思维，大盆友们（尤其程序猿们[旺柴]）也可以试试看(尤其完成所有成就)，后续有空我再多编辑几个关卡.免费随便玩无广告,欢迎给小盆友们练练手,多提意见.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;游戏地址： &lt;a target=&quot;_blank&quot; href=&quot;https://code.99puz.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://code.99puz.com/&lt;/a&gt;</description>
     </item>
     <item>
       <title>Claude Code, openai codex 送 20 刀余额，楼层抽奖 100 刀余额，可接 OpenClaw🦞龙虾</title>
@@ -181,6 +111,41 @@
 &lt;li&gt;👉 2 楼中奖&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    <item>
+      <title>过年回家跟发小打牌，发小 3 天一共输了 400， 说今后不打牌了。</title>
+      <link>https://www.v2ex.com/t/1195089</link>
+      <guid>v2ex-1195089</guid>
+      <pubDate>Mon, 02 Mar 2026 01:54:18 GMT</pubDate>
+      <description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;每年过年回去，我们都会打牌。&lt;br/&gt;
+一共 3 个玩的比较好的发小。&lt;br/&gt;
+认识了 20 多年了。 都是一个小区的。     &lt;/p&gt;
+&lt;p&gt;这人工资 6000 多，背了 70 多万房贷&lt;br/&gt;
+我们玩的很小，一晚上输赢最多 200 。。他连输 3 天， 输满了 400 ，就不玩了。。说明年也不玩了。。&lt;br/&gt;
+哎，房贷把他搞麻了啊。看来房贷压力不小，，我是真的没想到他会说出这样的话&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>过年几天给 5 岁多的女儿写了个益智游戏</title>
+      <link>https://www.v2ex.com/t/1195110</link>
+      <guid>v2ex-1195110</guid>
+      <pubDate>Mon, 02 Mar 2026 02:20:46 GMT</pubDate>
+      <description>为了给我 5 岁多女儿训练逻辑能力,最近找到了 google 很多年前的 doodles 的一个儿童节逻辑游戏,娃很喜欢,但是这游戏在手机和平板上玩起来都不太友好,想找类似的发现竟然没有替代品,于是过年期间花了几天时间 Vibe Coding 了一版，除了关卡手工编辑其余全部用 AI 写代码搞定，增加了一些想法和内容(比如限制了步数),娃很喜欢，自己用起来感觉适合 5 到 14 岁的小盆友训练空间和逻辑思维，大盆友们（尤其程序猿们[旺柴]）也可以试试看(尤其完成所有成就)，后续有空我再多编辑几个关卡.免费随便玩无广告,欢迎给小盆友们练练手,多提意见.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;游戏地址： &lt;a target=&quot;_blank&quot; href=&quot;https://code.99puz.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://code.99puz.com/&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>一个女生 90 年相亲，谈了 3 段，最近一段谈了 6 年（同居 2 年），现在 gap 2 年，这种女生是不是不要去了解了</title>
+      <link>https://www.v2ex.com/t/1195026</link>
+      <guid>v2ex-1195026</guid>
+      <pubDate>Sun, 01 Mar 2026 12:57:25 GMT</pubDate>
+      <description>一个女生 90 年相亲，谈了 3 段，最近一段谈了 6 年（同居 2 年），现在 gap 2 年，这种女生是不是不要去了解了</description>
+    </item>
+    <item>
+      <title>股票 etf 基金证券低佣开户万 1 免 5，评论抽奖送五常大米！[大笑脸开户]</title>
+      <link>https://www.v2ex.com/t/1195063</link>
+      <guid>v2ex-1195063</guid>
+      <pubDate>Mon, 02 Mar 2026 00:41:09 GMT</pubDate>
+      <description>⚠️回帖抽五常大米，每 20 楼抽 1 个&lt;br /&gt;⚠️开户送五常大米，推荐朋友开户有红包&lt;br /&gt;&lt;br /&gt;⚠️大笑脸低佣开户推荐：&lt;br /&gt;银河证券：ETF 万 0.5 免 5  [ETF,免五费率最低，适合 etf ，打新，纳指，宽基玩家。新手必备]&lt;br /&gt;开源证券： 万 0.854 免 5   [国企券商，股票 etf 费率都很低]&lt;br /&gt;国泰海通： 万 0.8 免 5     [头部龙头券商，费率最优惠，大客户专享，综合费率最低]&lt;br /&gt;&lt;br /&gt;⚠️大笑脸开户 · 行业最低佣金，安全省心，负责到底&lt;br /&gt;⚠️大笑脸联系方式和最新具体券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;http://www.daxiaolian.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.daxiaolian.com&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
