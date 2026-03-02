@@ -4,7 +4,14 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 02 Mar 2026 01:09:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 03:05:52 GMT</lastBuildDate>
+    <item>
+      <title>我目前听过最离谱的天价彩礼</title>
+      <link>https://www.v2ex.com/t/1195075</link>
+      <guid>v2ex-1195075</guid>
+      <pubDate>Mon, 02 Mar 2026 01:17:31 GMT</pubDate>
+      <description>都说江西彩礼高，最近听到朋友说秦皇岛农村一个女生的彩礼，让我三观震裂。&lt;br /&gt;女生背景：家里单亲跟随父亲，家里还有个瘫痪的爷爷。女生中专生，老家干活。&lt;br /&gt;男生背景：老家干干活，月入几千。父亲似乎是工地干活普通家庭一个。&lt;br /&gt;两人是媒婆牵线的，谈到彩礼的时候，女生奶奶一开始说要 60W ，后面跟男方家谈的是 50 万，男方家不同意，女生降低到 45W ，还是不同意，结果两人就分了。补充下，彩礼不带回，嫁妆几床被子。。。&lt;br /&gt;&lt;br /&gt;这要是在南方有些地方说这个高彩礼，媒婆都不敢进门，怕是有人连媒婆都一起揍了。北方彩礼真的都是这么高吗。。。</description>
+    </item>
     <item>
       <title>每月买 2 克实物黄金，能不能解决以后养老的问题？</title>
       <link>https://www.v2ex.com/t/1194993</link>
@@ -39,6 +46,63 @@
       <guid>v2ex-1195026</guid>
       <pubDate>Sun, 01 Mar 2026 12:57:25 GMT</pubDate>
       <description>一个女生 90 年相亲，谈了 3 段，最近一段谈了 6 年（同居 2 年），现在 gap 2 年，这种女生是不是不要去了解了</description>
+    </item>
+    <item>
+      <title>买车感觉像买了一个爹回来</title>
+      <link>https://www.v2ex.com/t/1195108</link>
+      <guid>v2ex-1195108</guid>
+      <pubDate>Mon, 02 Mar 2026 02:15:44 GMT</pubDate>
+      <description>&lt;p&gt;坐标一线城市，日常几乎没什么用车场景。提车半年多，总里程才 1700 多公里，这其中还有两趟高速贡献了 700–800 公里。家里小孩晕车，出远门基本只能选火车。
+刚提车那会儿，我几乎两星期就洗一次车，下雨下雪回来也得立刻去自助洗车点冲洗，洗完还得仔仔细细擦干，不然留水渍看着难受（还好小区附近有自助洗车）。
+就算真的要开车，也会提前焦虑：目的地有没有停车位？自己技术一般还好有自动驻车，可万一旁边车主开门杀怎么办……一堆念头。
+每个月还要 OTA 1–2 次，车里一坐就是小半天，用的是自己手机热点，一个版本动辄 10G 流量（这个倒还好）。
+最近车机提示雾灯坏了，去 4S 店一查是物理损伤，估计刚提车不久不小心磕裂了没注意，后来进水才彻底坏掉。修的话 1700+，想想还是先算了——反正外观基本看不出来，日常也用不到。老款车型这个位置甚至连灯都没有，就一块反光片而已。
+第一次真切感觉到：好像不太配开这车。
+回头看看我那辆二轮电瓶车，用着踏实又省心。花了大价钱买的四轮车，反而成了最鸡肋的存在——钱花了不少，生活方式却没因为它变好多少，很多时候反而是在“创造需求”来用它。&lt;/p&gt;
+&lt;p&gt;就……吐槽两句，感慨一下。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Netcatty - 开源免费的 SSH 终端软件</title>
+      <link>https://www.v2ex.com/t/1195002</link>
+      <guid>v2ex-1195002</guid>
+      <pubDate>Sun, 01 Mar 2026 10:14:46 GMT</pubDate>
+      <description>&lt;p&gt;用三个礼拜的时间 vibe 了一款 SSH Client：&lt;/p&gt;
+&lt;h1&gt;Netcatty&lt;/h1&gt;
+&lt;p&gt;项目地址：&lt;a href=&quot;http://github.com/binaricat/Netcatty&quot; rel=&quot;nofollow&quot;&gt;github.com/binaricat/Netcatty&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;之前一直付费用 Termius ，不过后来感觉一个月 15 刀买一个 SSH Client 还是有点贵。中间调研过各种平替，确实除了 Termius 没找到第二款支持云同步的 SSH Client 。所以决定尝试 vibe 一个出来。&lt;/p&gt;
+&lt;p&gt;Netcatty 支持基于多种方式的云同步，包括 Google Drive, Github Gist,  OneDrive,  S3, WebDav 。同步几乎是实时的，只要配置发生变化就会自动往云端同步。
+在功能上，Netcatty 实现了 Termius 的大部分功能，交互，布局都有参考。如果你是 Termius 老用户应该会很熟悉 Netcatty 的交互。&lt;/p&gt;
+&lt;p&gt;不过 Fido2/生物指纹密钥功能暂时先没做。此外 Netcatty 目前没有实现移动端。&lt;/p&gt;
+&lt;p&gt;如果你刚好缺一个带云同步功能的 SSH Client ，同时也觉得 Termius 有点贵，并且没有移动端的需求，那么可以试试这个开源平替。省下来的钱可以买一个 AI 订阅了😘&lt;/p&gt;
+&lt;p&gt;本项目定位于做 termius 开源平替，后续也不会收费，我会在平时使用的时候顺手修一修 bug ，如果可以帮到你，莫忘记给主包点个 star 就当交个朋友&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;功能特性&lt;/h1&gt;
+&lt;h3&gt;🗂️ Vault&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;多种视图&lt;/strong&gt; —— 网格 / 列表 / 树形&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;快速搜索&lt;/strong&gt; —— 迅速定位主机与分组&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🖥️ 终端工作区&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;分屏&lt;/strong&gt; —— 水平/垂直分割，多任务并行&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多会话管理&lt;/strong&gt; —— 多连接并排处理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;📁 SFTP + 内置编辑器&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;文件工作流&lt;/strong&gt; —— 拖拽上传/下载更直观&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;就地编辑&lt;/strong&gt; —— 内置编辑器快速修改文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🎨 个性化&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;自定义主题&lt;/strong&gt; —— 按喜好调整应用外观&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键词高亮&lt;/strong&gt; —— 自定义终端输出高亮规则&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;云端同步&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;本项目支持基于 Github/Google/OneDrive/WebDav 等机制的云端同步功能&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     <item>
       <title>想买个美区礼品卡怎么这么费劲了</title>
@@ -88,112 +152,35 @@
 </description>
     </item>
     <item>
-      <title>[iOS/watchOS 元宵限免] ：压力自测与身心电量，看见身体的每一刻</title>
-      <link>https://www.v2ex.com/t/1194941</link>
-      <guid>v2ex-1194941</guid>
-      <pubDate>Sun, 01 Mar 2026 01:45:05 GMT</pubDate>
-      <description>&lt;p&gt;元宵佳节将至&lt;/p&gt;
-&lt;h1&gt;&lt;strong&gt;开启元宵节限免活动&lt;/strong&gt;&lt;/h1&gt;
-&lt;h2&gt;&lt;strong&gt;下载方式见文末&lt;/strong&gt;&lt;/h2&gt;
-&lt;div&gt;
-&lt;p&gt;🎉 限免时间：2026 年 2 月 28 日 - 3 月 3 日 23:59&lt;/p&gt;
-&lt;p&gt;0 元领取终身会员，解锁全部高级功能。&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;本次更新带来了四大核心功能，希望能真正帮到你：&lt;/p&gt;
-&lt;h2&gt;1. 压力看得见：源头精准定位&lt;/h2&gt;
-&lt;p&gt;不仅仅是数字，我们让压力“可视化”。首页实时展示压力状态，新增&lt;strong&gt;压力源头精准定位&lt;/strong&gt;，帮你分析是工作、睡眠还是其他因素导致了压力波动。试试搜索“&lt;strong&gt;压力自测&lt;/strong&gt;”，让腕能帮你找到答案。&lt;/p&gt;
-&lt;div&gt;
-&lt;img alt=&quot;实时压力界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E9%A6%96%E9%A1%B5-%E5%AE%9E%E6%97%B6%E5%8E%8B%E5%8A%9B.png&quot;/&gt;
-&lt;p&gt;▲ 首页实时压力状态&lt;/p&gt;
-&lt;/div&gt;
-&lt;div&gt;
-&lt;img alt=&quot;首页压力展示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E9%A6%96%E9%A1%B5-%E5%8E%8B%E5%8A%9B%E7%9C%8B%E5%BE%97%E8%A7%81.png&quot;/&gt;
-&lt;img alt=&quot;压力源头定位&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E5%AE%9E%E6%97%B6%E5%8E%8B%E5%8A%9B-%E5%8E%8B%E5%8A%9B%E6%BA%90%E5%A4%B4%E7%B2%BE%E5%87%86%E5%AE%9A%E4%BD%8D.png&quot;/&gt;
-&lt;/div&gt;
-&lt;h2&gt;2. 身体还有电吗？行健与科学训练&lt;/h2&gt;
-&lt;p&gt;身体就像电池，需要充放电管理。新版本引入“&lt;strong&gt;身体电量&lt;/strong&gt;”概念，直观展示能量储备。针对跑步爱好者，我们提供科学的训练指导，拒绝无效堆跑量，让每一次流汗都更有价值。&lt;/p&gt;
-&lt;div&gt;
-&lt;img alt=&quot;身体电量&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E8%A1%8C%E5%81%A5-%E8%BA%AB%E4%BD%93%E7%94%B5%E9%87%8F-%E8%BA%AB%E4%BD%93%E8%BF%98%E6%9C%89%E7%94%B5%E5%90%97.png&quot;/&gt;
-&lt;img alt=&quot;跑步训练指导&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E8%A1%8C%E5%81%A5-%E8%B7%91%E6%AD%A5%E8%AE%AD%E7%BB%83%E6%8C%87%E5%AF%BC-%E5%91%8A%E5%88%AB%E7%9B%B2%E7%9B%AE%E8%AE%AD%E7%BB%83.png&quot;/&gt;
-&lt;img alt=&quot;运动汇总&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E8%A1%8C%E5%81%A5-%E8%BF%90%E5%8A%A8%E6%B1%87%E6%80%BB.jpg&quot;/&gt;
-&lt;/div&gt;
-&lt;h2&gt;3. 深度睡眠监测：睡个好觉&lt;/h2&gt;
-&lt;p&gt;睡眠是恢复能量的关键。我们强化了睡眠分析算法，特别关注&lt;strong&gt;深度睡眠&lt;/strong&gt;时长与质量，帮你拆解睡眠结构，找到身体修复的秘密。&lt;/p&gt;
-&lt;div&gt;
-&lt;img alt=&quot;深度睡眠监测&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E7%9D%A1%E7%9C%A0%E5%88%86%E6%9E%90-%E6%B7%B1%E5%BA%A6%E7%9D%A1%E7%9C%A0%E7%9B%91%E6%B5%8B.png&quot;/&gt;
-&lt;/div&gt;
-&lt;h2&gt;4. 洞察与观照：看见身体规律&lt;/h2&gt;
-&lt;p&gt;通过长期的“观照”，你会发现身体运行的规律。我们将每一个瞬间记录下来，生成可视化的健康趋势图，让你对自己的身体了如指掌。&lt;/p&gt;
-&lt;div&gt;
-&lt;img alt=&quot;观照身体规律&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E8%A7%82%E7%85%A7-%E7%9C%8B%E8%A7%81%E8%BA%AB%E4%BD%93%E7%9A%84%E8%A7%84%E5%BE%8B.png&quot;/&gt;
-&lt;img alt=&quot;洞察记录&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E5%AE%A3%E4%BC%A0%E5%9B%BE-%E6%B4%9E%E5%AF%9F-%E8%AE%B0%E5%BD%95%E8%BA%AB%E4%BD%93%E7%9A%84%E6%AF%8F%E4%B8%80%E5%88%BB.png&quot;/&gt;
-&lt;img alt=&quot;运动趋势&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://whieet.github.io/watch-one.github.io/assets/images/20260228fress/%E8%A1%8C%E5%81%A5-%E8%BF%90%E5%8A%A8%E8%B6%8B%E5%8A%BF.jpg&quot;/&gt;
-&lt;/div&gt;
-&lt;hr/&gt;
-&lt;h3&gt;如何获取？&lt;/h3&gt;
-&lt;p&gt;打开 App Store 搜索关键词 &lt;strong&gt;“压力自测”&lt;/strong&gt;&lt;br/&gt;
-&lt;em&gt;（优先搜索此词，可以帮助我们提升关键词权重，感谢支持！）&lt;/em&gt;&lt;br/&gt;
-或 “腕能”&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/sa/app/id6448225070&quot; rel=&quot;nofollow&quot;&gt;立即下载体验&lt;/a&gt;&lt;/p&gt;
-&lt;div&gt;提前祝大家元宵快乐，愿你身心安康，电力满满！&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>最近朋友想弄个 tg 号，怎么弄</title>
-      <link>https://www.v2ex.com/t/1194971</link>
-      <guid>v2ex-1194971</guid>
-      <pubDate>Sun, 01 Mar 2026 05:59:33 GMT</pubDate>
-      <description>&lt;p&gt;我一个朋友，他想弄个 tg 号，结果发现又是验证码收不到，又是需要填信用卡啥的。&lt;/p&gt;
-&lt;p&gt;问下朋友们，就是有没有什么方式或者靠谱渠道推荐，能弄个 tg 号自己稳定用的，花点钱都可以，这样子&lt;/p&gt;
+      <title>过年回家跟发小打牌，发小 3 天一共输了 400， 说今后不打牌了。</title>
+      <link>https://www.v2ex.com/t/1195089</link>
+      <guid>v2ex-1195089</guid>
+      <pubDate>Mon, 02 Mar 2026 01:54:18 GMT</pubDate>
+      <description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;每年过年回去，我们都会打牌。&lt;br/&gt;
+一共 3 个玩的比较好的发小。&lt;br/&gt;
+认识了 20 多年了。 都是一个小区的。     &lt;/p&gt;
+&lt;p&gt;这人工资 6000 多，背了 70 多万房贷&lt;br/&gt;
+我们玩的很小，一晚上输赢最多 200 。。他连输 3 天， 输满了 400 ，就不玩了。。说明年也不玩了。。&lt;br/&gt;
+哎，房贷把他搞麻了啊。看来房贷压力不小，，我是真的没想到他会说出这样的话&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Netcatty - 开源免费的 SSH 终端软件</title>
-      <link>https://www.v2ex.com/t/1195002</link>
-      <guid>v2ex-1195002</guid>
-      <pubDate>Sun, 01 Mar 2026 10:14:46 GMT</pubDate>
-      <description>&lt;p&gt;用三个礼拜的时间 vibe 了一款 SSH Client：&lt;/p&gt;
-&lt;h1&gt;Netcatty&lt;/h1&gt;
-&lt;p&gt;项目地址：&lt;a href=&quot;http://github.com/binaricat/Netcatty&quot; rel=&quot;nofollow&quot;&gt;github.com/binaricat/Netcatty&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;之前一直付费用 Termius ，不过后来感觉一个月 15 刀买一个 SSH Client 还是有点贵。中间调研过各种平替，确实除了 Termius 没找到第二款支持云同步的 SSH Client 。所以决定尝试 vibe 一个出来。&lt;/p&gt;
-&lt;p&gt;Netcatty 支持基于多种方式的云同步，包括 Google Drive, Github Gist,  OneDrive,  S3, WebDav 。同步几乎是实时的，只要配置发生变化就会自动往云端同步。
-在功能上，Netcatty 实现了 Termius 的大部分功能，交互，布局都有参考。如果你是 Termius 老用户应该会很熟悉 Netcatty 的交互。&lt;/p&gt;
-&lt;p&gt;不过 Fido2/生物指纹密钥功能暂时先没做。此外 Netcatty 目前没有实现移动端。&lt;/p&gt;
-&lt;p&gt;如果你刚好缺一个带云同步功能的 SSH Client ，同时也觉得 Termius 有点贵，并且没有移动端的需求，那么可以试试这个开源平替。省下来的钱可以买一个 AI 订阅了😘&lt;/p&gt;
-&lt;p&gt;本项目定位于做 termius 开源平替，后续也不会收费，我会在平时使用的时候顺手修一修 bug ，如果可以帮到你，莫忘记给主包点个 star 就当交个朋友&lt;/p&gt;
-&lt;p&gt;&lt;a&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;功能特性&lt;/h1&gt;
-&lt;h3&gt;🗂️ Vault&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;多种视图&lt;/strong&gt; —— 网格 / 列表 / 树形&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;快速搜索&lt;/strong&gt; —— 迅速定位主机与分组&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;🖥️ 终端工作区&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;分屏&lt;/strong&gt; —— 水平/垂直分割，多任务并行&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;多会话管理&lt;/strong&gt; —— 多连接并排处理&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;📁 SFTP + 内置编辑器&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;文件工作流&lt;/strong&gt; —— 拖拽上传/下载更直观&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;就地编辑&lt;/strong&gt; —— 内置编辑器快速修改文件&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;🎨 个性化&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;自定义主题&lt;/strong&gt; —— 按喜好调整应用外观&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;关键词高亮&lt;/strong&gt; —— 自定义终端输出高亮规则&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;云端同步&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;本项目支持基于 Github/Google/OneDrive/WebDav 等机制的云端同步功能&lt;/li&gt;
-&lt;/ul&gt;
+      <title>脑洞：有没有想过一个人万一哪一天突然在家独自挂掉，你的财产会怎么处理？</title>
+      <link>https://www.v2ex.com/t/1194995</link>
+      <guid>v2ex-1194995</guid>
+      <pubDate>Sun, 01 Mar 2026 09:31:13 GMT</pubDate>
+      <description>&lt;p&gt;最近米哈游那个程序员独自在家突然暴毙（包括前几年上海那个独居女性也是突然暴毙她的财产好像是被充公了？）&lt;br/&gt;&lt;br/&gt;我觉得这种事情在未来，甚至现在已经有越来越多这种独自生活的人。那么像他们要怎么去提前规划，处理好自己万一哪一天突然挂掉之后，财产的处理方案呢？&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;结合前段时间 死了么 app 爆火，我突然想到一个事情，现在中国是不是已经有大量的独居人群，甚至年龄已经开始偏年轻化了？&lt;/p&gt;
+&lt;p&gt;就像上海那个案例，我记得她年纪其实不大。这说明了一个什么问题？是不是中国现在其实存在大量潜在的、处于孤独或危险境地的这类人群？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>openclaw 用来下电影实在太舒服了</title>
-      <link>https://www.v2ex.com/t/1194944</link>
-      <guid>v2ex-1194944</guid>
-      <pubDate>Sun, 01 Mar 2026 02:22:29 GMT</pubDate>
-      <description>我先尝试了 moviepilot ，但那个破认证我实在搞不定，我一个本地工具有啥好认证的。&lt;br /&gt;&lt;br /&gt;实在不行就老三样 xarr 套件。Prowlarr+Radarr+Sonarr&lt;br /&gt;&lt;br /&gt;配置上馒头的帐号和 tr 的下载器。测试了一下可以搜索馒头然后下载了，但操作也巨麻烦，要来回切。开始上龙虾聚合：&lt;br /&gt;&lt;br /&gt;* 学会豆瓣等能力&lt;br /&gt;* 学会 imdb/tmdb/tvdb 能力&lt;br /&gt;* 学会 plex 的能力&lt;br /&gt;* 学会 arr 套件使用能力&lt;br /&gt;&lt;br /&gt;完事后就是个人版的影音系统。不知道看什么就让他全网找，看社区，看榜单，再根据我的 plex 观看距离和片列表进行推荐，介绍完我觉得不错就是一句下吧、好了告诉我一声就完事了。&lt;br /&gt;&lt;br /&gt;想找什么片就给你更简单了，昨天媳妇说我娃喜欢看超能陆战队，但都是 b 站看的，正好试试龙虾好不好使：嘿，帮我看看我有没有超能陆战队。没有下一个。&lt;br /&gt;&lt;br /&gt;在没有 pt 浏览器工具后终于再一次好用起来</description>
+      <title>父亲喝了点小酒，出去上厕所，晕倒在院子里</title>
+      <link>https://www.v2ex.com/t/1195112</link>
+      <guid>v2ex-1195112</guid>
+      <pubDate>Mon, 02 Mar 2026 02:33:09 GMT</pubDate>
+      <description>父亲喝了点酒（平时喝的很少，这次也没喝多），出去上厕所，突然摔倒了（村里的房子，院里都是水泥地），摔倒后晕了，脸上磕了一块，他说摔倒之前完全没征兆，都没记忆，也不知道怎么就摔了，可以理解为原地晕了，我妈看到后叫醒了，现在年龄也才 55 左右，常年在家干农活（包地，有时候比较忙），有些肥胖，血压高，我怀疑是血压高导致的，大家有见过这种情况吗？</description>
     </item>
   </channel>
 </rss>
