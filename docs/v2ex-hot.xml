@@ -4,85 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 03 Mar 2026 06:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 07:13:28 GMT</lastBuildDate>
     <item>
-      <title>Claude Code, openai codex 送 20 刀余额，楼层抽奖 100 刀余额，可接 OpenClaw🦞龙虾</title>
-      <link>https://www.v2ex.com/t/1195195</link>
-      <guid>v2ex-1195195</guid>
-      <pubDate>Mon, 02 Mar 2026 07:01:20 GMT</pubDate>
-      <description>&lt;h1&gt;🚀 VBCode 中转站&lt;/h1&gt;
-&lt;h2&gt;🌐 官方地址&lt;/h2&gt;
-&lt;p&gt;👉 &lt;a href=&quot;https://vbcode.io&quot; rel=&quot;nofollow&quot;&gt;https://vbcode.io&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;⚡ 当前可用服务&lt;/h2&gt;
-&lt;h3&gt;1️⃣ Claude Code – AWS （逆向渠道）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;💡 倍率：0.35 倍率&lt;/li&gt;
-&lt;li&gt;✅ 支持 Opus 4.6, sonnet 4.6&lt;/li&gt;
-&lt;li&gt;✅ 支持 网络搜索&lt;/li&gt;
-&lt;li&gt;✅ 支持 缓存&lt;/li&gt;
-&lt;li&gt;✅ 支持 深度思考&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;2️⃣ Claude Code – Max （官方 Max 账户号池）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;💡 倍率：1.2 倍率&lt;/li&gt;
-&lt;li&gt;✅ 官方 Max 号池&lt;/li&gt;
-&lt;li&gt;
-💼  另有官方渠道账号资源，提供成品号(带售后,需要可私聊,公告有群地址)&lt;ul&gt;
-&lt;li&gt;200 美刀 Max&lt;/li&gt;
-&lt;li&gt;100 美刀 Max&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;3️⃣ Codex 5.3&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;💡 &lt;strong&gt;倍率：0.25 倍率&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;🎁 新用户福利&lt;/h2&gt;
-&lt;h2&gt;🎉 V 站新注册用户回复本帖 &lt;strong&gt;直接赠送 20 美元余额&lt;/strong&gt;&lt;br/&gt;
-上一贴回复过的都赠送过 20 美元余额，若再次回复，也赠送 5 刀余额&lt;/h2&gt;
-&lt;h2&gt;📌 获取方式&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;在本帖回复你的 &lt;strong&gt;注册 ID&lt;/strong&gt; (例如: ID: 123)
-👉 查看地址： &lt;a href=&quot;https://vbcode.io/console/personal&quot; rel=&quot;nofollow&quot;&gt;https://vbcode.io/console/personal&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;没有账户回帖的用户加群(公告有群地址)私聊发放 10 美金余额&lt;/li&gt;
-&lt;li&gt;旧帖( &lt;a href=&quot;https://v2ex.com/t/1190025)%E4%BD%9C%E5%BA%9F&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1190025)作废&lt;/a&gt;, 后续请在本帖回复  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;h1&gt;🎫 抽奖活动&lt;/h1&gt;
-&lt;h2&gt;🎁 奖品&lt;/h2&gt;
-&lt;p&gt;💰 &lt;strong&gt;100 美元兑换码 × 1&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;⏰ 截止时间&lt;/h2&gt;
-&lt;p&gt;2026 年 3 月 6 日 15:00&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;🎯 抽奖规则&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;取当日(2026 年 3 月 6 日) &lt;strong&gt;A 股沪指收盘点位整数部分&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;对 15:00 前的楼层总数取模&lt;/li&gt;
-&lt;li&gt;得到的楼层号即为中奖楼层&lt;/li&gt;
-&lt;li&gt;若抽到楼主楼层 → 自动顺延下一楼&lt;br/&gt;
-（若无下一楼则顺延上一楼）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;📌 示例&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;沪指收盘：3500 点  &lt;/li&gt;
-&lt;li&gt;参与人数：66 人  &lt;/li&gt;
-&lt;li&gt;&lt;code&gt;3500 % 66 = 2&lt;/code&gt; &lt;/li&gt;
-&lt;li&gt;👉 2 楼中奖&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>墓地也太贵了</title>
-      <link>https://www.v2ex.com/t/1195184</link>
-      <guid>v2ex-1195184</guid>
-      <pubDate>Mon, 02 Mar 2026 06:32:25 GMT</pubDate>
-      <description>&lt;p&gt;父母年纪大了，过年期间去打听了下墓地的价格，竟然要 8 万一个，真的买不起啊。&lt;/p&gt;
-</description>
+      <title>洗烘一体机怎么选？</title>
+      <link>https://www.v2ex.com/t/1195346</link>
+      <guid>v2ex-1195346</guid>
+      <pubDate>Tue, 03 Mar 2026 01:22:20 GMT</pubDate>
+      <description>租房没有配，今年深圳梅雨天比较多，想买带烘干的，各位彭于晏们有什么推荐吗？&lt;br /&gt;预算 2k 以内</description>
     </item>
     <item>
       <title>投资，就想做了一场梦一样</title>
@@ -93,11 +21,11 @@
 </description>
     </item>
     <item>
-      <title>洗烘一体机怎么选？</title>
-      <link>https://www.v2ex.com/t/1195346</link>
-      <guid>v2ex-1195346</guid>
-      <pubDate>Tue, 03 Mar 2026 01:22:20 GMT</pubDate>
-      <description>租房没有配，今年深圳梅雨天比较多，想买带烘干的，各位彭于晏们有什么推荐吗？&lt;br /&gt;预算 2k 以内</description>
+      <title>28 岁感觉精力不足如何调节？</title>
+      <link>https://www.v2ex.com/t/1195366</link>
+      <guid>v2ex-1195366</guid>
+      <pubDate>Tue, 03 Mar 2026 02:14:36 GMT</pubDate>
+      <description>职业：程序员&lt;br /&gt;作息：大概每天 1:00am 睡觉 8.30am 起床，按道理来说也有 7 个多小时睡眠&lt;br /&gt;运动：大概 1-2 周打篮球一次&lt;br /&gt;&lt;br /&gt;但是感觉每天还是睡不足，早晨醒来脑袋还是很晕，会不会是短视频刷多了导致脑雾？&lt;br /&gt;咨询一下大家如何调节，还是说真的年龄大了代谢变慢了</description>
     </item>
     <item>
       <title>如果觉得自己是股神，但是想财富自由本金有点少，怎么快速起飞？</title>
@@ -119,13 +47,6 @@
 </description>
     </item>
     <item>
-      <title>28 岁感觉精力不足如何调节？</title>
-      <link>https://www.v2ex.com/t/1195366</link>
-      <guid>v2ex-1195366</guid>
-      <pubDate>Tue, 03 Mar 2026 02:14:36 GMT</pubDate>
-      <description>职业：程序员&lt;br /&gt;作息：大概每天 1:00am 睡觉 8.30am 起床，按道理来说也有 7 个多小时睡眠&lt;br /&gt;运动：大概 1-2 周打篮球一次&lt;br /&gt;&lt;br /&gt;但是感觉每天还是睡不足，早晨醒来脑袋还是很晕，会不会是短视频刷多了导致脑雾？&lt;br /&gt;咨询一下大家如何调节，还是说真的年龄大了代谢变慢了</description>
-    </item>
-    <item>
       <title>今天你亏钱了吗？</title>
       <link>https://www.v2ex.com/t/1195386</link>
       <guid>v2ex-1195386</guid>
@@ -139,6 +60,30 @@
       <guid>v2ex-1195300</guid>
       <pubDate>Mon, 02 Mar 2026 14:13:54 GMT</pubDate>
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://www.apple.com.cn/iphone-17e/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.apple.com.cn/iphone-17e/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.apple.com.cn/ipad-air/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.apple.com.cn/ipad-air/&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>元宵节快乐，即将就要正式过完年了，今年的目标是啥？留言后，明年来看看</title>
+      <link>https://www.v2ex.com/t/1195350</link>
+      <guid>v2ex-1195350</guid>
+      <pubDate>Tue, 03 Mar 2026 01:37:17 GMT</pubDate>
+      <description>元宵节快乐，即将就要正式过完年了，今年的目标是啥？留言后，明年来看看</description>
+    </item>
+    <item>
+      <title>https://terminal.pub , Codex/OpenAI/GPT 全部免费调用, [元宵节]今日充值八折优惠， claude 逆向低至 2 毛一刀，周五抽奖持续盖楼中</title>
+      <link>https://www.v2ex.com/t/1195383</link>
+      <guid>v2ex-1195383</guid>
+      <pubDate>Tue, 03 Mar 2026 02:36:13 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://terminal.pub/register&quot; rel=&quot;nofollow&quot;&gt;注册地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Codex 全免费、GPT 不要钱、OPENAI 模型全免费
+claude kiro 逆向低至 2 毛一刀&lt;/p&gt;
+&lt;p&gt;注册后发送自己的 ID 到这里盖楼，效果同如下帖子一致，周五按照上证收盘抽取 5 位 50 刀中奖用户
+&lt;a href=&quot;https://cn.v2ex.com/t/1194389&quot; rel=&quot;nofollow&quot;&gt;https://cn.v2ex.com/t/1194389&lt;/a&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/SFBjkjE.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;tg:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://t.me/+4D5U2msTRshkZmFl&quot; rel=&quot;nofollow&quot;&gt;TG 群&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;wechat:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Eqj5cz1.png&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
