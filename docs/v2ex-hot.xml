@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 03 Mar 2026 03:43:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 05:09:40 GMT</lastBuildDate>
     <item>
       <title>Claude Code, openai codex 送 20 刀余额，楼层抽奖 100 刀余额，可接 OpenClaw🦞龙虾</title>
       <link>https://www.v2ex.com/t/1195195</link>
@@ -77,26 +77,6 @@
 </description>
     </item>
     <item>
-      <title>说说春节期间结婚，在江西遇到的一些事情，大家看看，不喜勿喷！</title>
-      <link>https://www.v2ex.com/t/1195147</link>
-      <guid>v2ex-1195147</guid>
-      <pubDate>Mon, 02 Mar 2026 03:43:55 GMT</pubDate>
-      <description>具体位置就不说了，大家可以猜猜&lt;br /&gt;然后就是必须夸夸我老婆，帮我避免很多不必要的习俗&lt;br /&gt;&lt;br /&gt;1 、 请女方的亲友来吃饭，要先给出 600 红包+一些礼品（喜糖，中华烟，旺仔，牛奶），诚邀他们来参加喜宴&lt;br /&gt;2 、 一定要有订婚，订婚会有改口流程，亲友们吃的第一顿是订婚宴(亲友不会给红包，就是吃饭)&lt;br /&gt;3 、 结婚宴，关系好点的亲友会在原来 600 的基础上加 200-400 给回来，关系一般的亲友就是 600 给回，这种基本上就是白吃两顿饭，可能后续也不打算来往了&lt;br /&gt;4 、 结婚用的烟酒，和当地小商贩合作，酒席上拿的烟酒会被亲友拿回去再换成钱，我这次用的免税烟，酒在京东买的，导致那些亲友没办法换钱，还被一些亲友说成用假烟假酒(我不用当地小卖部的烟酒，也就是为了防止当地小卖部，真假参半供货)&lt;br /&gt;4 、 在江西舅舅和大伯的地位非常高，一定要去接，不接不来，甚至会见怪&lt;br /&gt;5 、 大伯家和舅舅家的小孩，红包会比一般亲友的小孩高一倍&lt;br /&gt;6 、 喜事一定要双数，车子要双数，接亲友的车要双数(宁愿空车来回也要双数)，甚至车里面坐的人都要双数....&lt;br /&gt;7 、 当地父母会掏空钱包给儿子结婚，甚至愿意负债，他们会为此感到自豪（为了延续香火名字进祠堂）&lt;br /&gt;8 、 重男轻女思想比较严重，儿子给亲友拜年，不需要带礼品，就见面聊几句，然后换一家继续拜年，但是女孩给亲友拜年不提礼品就会被见怪，甚至被小本本记下来&lt;br /&gt;9 、 女生家出后，近几年不能回家过年（我老婆没去拜祠堂，所以也就没受这个规矩约束，也可能是我没有祠堂给她入，这个流程简化了）&lt;br /&gt;10 、 结婚这件事，男方会承包女方所有的一切支出，当地就是这么循环至今&lt;br /&gt;&lt;br /&gt;最后就是，江西也有好的女孩子，找到合适的就不要错过</description>
-    </item>
-    <item>
-      <title>你的路由器不间断运行多久了</title>
-      <link>https://www.v2ex.com/t/1195155</link>
-      <guid>v2ex-1195155</guid>
-      <pubDate>Mon, 02 Mar 2026 05:02:31 GMT</pubDate>
-      <description>&lt;p&gt;无意看到知乎一个问答 [每天重启路由器有好处还是有害？]  &lt;a href=&quot;https://www.zhihu.com/question/392412428/answer/1772992455?share_code=VerCUmrwuWLY&amp;amp;utm_psn=2011784588310115802&quot; rel=&quot;nofollow&quot;&gt;https://www.zhihu.com/question/392412428/answer/1772992455?share_code=VerCUmrwuWLY&amp;amp;utm_psn=2011784588310115802&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;引用高赞的一个回答：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;所以我的建议是，光猫和路由器每周重启一次。如果遇到不重启，isp 换 ip 时断网，那就每天重启一次。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;可根据我的使用经验来看，除了小区断电，就没有主动重启过路由器或者光猫。当然，折腾 openwrt 时除外。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;img&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/2JfwuEU.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>墓地也太贵了</title>
       <link>https://www.v2ex.com/t/1195184</link>
       <guid>v2ex-1195184</guid>
@@ -120,6 +100,13 @@
       <description>NAS 入门用户，通过群晖自带的 Synology Photos / Drive ，外网访问速度很慢，希望能实现 4K 视频串流播放（如在线播放 NAS 存储的电影），及文件下载提速（期望能外网实现 2MB/s 的访问速度），家中的是 200Mbp 的电信网络。&lt;br /&gt;&lt;br /&gt;求助各位大佬，有何好办法？希望尽量简单。</description>
     </item>
     <item>
+      <title>洗烘一体机怎么选？</title>
+      <link>https://www.v2ex.com/t/1195346</link>
+      <guid>v2ex-1195346</guid>
+      <pubDate>Tue, 03 Mar 2026 01:22:20 GMT</pubDate>
+      <description>租房没有配，今年深圳梅雨天比较多，想买带烘干的，各位彭于晏们有什么推荐吗？&lt;br /&gt;预算 2k 以内</description>
+    </item>
+    <item>
       <title>微信是如何识别远程控制环境的？</title>
       <link>https://www.v2ex.com/t/1195332</link>
       <guid>v2ex-1195332</guid>
@@ -139,11 +126,18 @@
 </description>
     </item>
     <item>
-      <title>洗烘一体机怎么选？</title>
-      <link>https://www.v2ex.com/t/1195346</link>
-      <guid>v2ex-1195346</guid>
-      <pubDate>Tue, 03 Mar 2026 01:22:20 GMT</pubDate>
-      <description>租房没有配，今年深圳梅雨天比较多，想买带烘干的，各位彭于晏们有什么推荐吗？&lt;br /&gt;预算 2k 以内</description>
+      <title>28 岁感觉精力不足如何调节？</title>
+      <link>https://www.v2ex.com/t/1195366</link>
+      <guid>v2ex-1195366</guid>
+      <pubDate>Tue, 03 Mar 2026 02:14:36 GMT</pubDate>
+      <description>职业：程序员&lt;br /&gt;作息：大概每天 1:00am 睡觉 8.30am 起床，按道理来说也有 7 个多小时睡眠&lt;br /&gt;运动：大概 1-2 周打篮球一次&lt;br /&gt;&lt;br /&gt;但是感觉每天还是睡不足，早晨醒来脑袋还是很晕，会不会是短视频刷多了导致脑雾？&lt;br /&gt;咨询一下大家如何调节，还是说真的年龄大了代谢变慢了</description>
+    </item>
+    <item>
+      <title>iPhone 17e &amp; iPad air m4</title>
+      <link>https://www.v2ex.com/t/1195300</link>
+      <guid>v2ex-1195300</guid>
+      <pubDate>Mon, 02 Mar 2026 14:13:54 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://www.apple.com.cn/iphone-17e/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.apple.com.cn/iphone-17e/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.apple.com.cn/ipad-air/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.apple.com.cn/ipad-air/&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
