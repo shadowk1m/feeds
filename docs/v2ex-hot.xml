@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 03 Mar 2026 23:46:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 01:07:36 GMT</lastBuildDate>
     <item>
       <title>https://terminal.pub , Codex/OpenAI/GPT 全部免费调用, [元宵节]今日充值八折优惠， claude 逆向低至 2 毛一刀，周五抽奖持续盖楼中</title>
       <link>https://www.v2ex.com/t/1195383</link>
@@ -59,16 +59,6 @@ claude kiro 逆向低至 2 毛一刀&lt;/p&gt;
       <description>职业：程序员&lt;br /&gt;作息：大概每天 1:00am 睡觉 8.30am 起床，按道理来说也有 7 个多小时睡眠&lt;br /&gt;运动：大概 1-2 周打篮球一次&lt;br /&gt;&lt;br /&gt;但是感觉每天还是睡不足，早晨醒来脑袋还是很晕，会不会是短视频刷多了导致脑雾？&lt;br /&gt;咨询一下大家如何调节，还是说真的年龄大了代谢变慢了</description>
     </item>
     <item>
-      <title>微信是如何识别远程控制环境的？</title>
-      <link>https://www.v2ex.com/t/1195332</link>
-      <guid>v2ex-1195332</guid>
-      <pubDate>Tue, 03 Mar 2026 00:09:30 GMT</pubDate>
-      <description>&lt;p&gt;我平时经常需要远程到他人电脑上协助处理问题，但发现一个比较稳定的现象：只要在远程会话中操作微信客户端，基本都会触发“环境异常”，随后被强制下线，几乎是 100% 复现。&lt;/p&gt;
-&lt;p&gt;从这个表现来看，微信客户端应该具备一定的运行环境识别能力。比如，它是否会检测当前系统的会话类型？是否会枚举系统进程，识别是否存在远程控制软件？又或者是通过分析操作环境特征，比如鼠标轨迹、点击节奏等行为数据进行综合判断？&lt;/p&gt;
-&lt;p&gt;我自己也做过一些简单排查，但并没有发现异常或特殊接口调用，所以有些困惑它具体是通过什么方式实现这一判断的。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>如何看 OpenClaw 超越 Linux 登顶 Github Star 第一？</title>
       <link>https://www.v2ex.com/t/1195367</link>
       <guid>v2ex-1195367</guid>
@@ -86,6 +76,13 @@ claude kiro 逆向低至 2 毛一刀&lt;/p&gt;
 &lt;p&gt;只想询问一下大致流程和等待时间需要多久, 目前看挂号得提前一周预约,多次去才能确诊的话周期会拉到多长?一个月?两个月?花费呢?&lt;/p&gt;
 &lt;p&gt;另外就是我应该挂哪个科?精神科/心理科/心身科 这些科室有什么区别? 我看很多医院的名称不同,是否职能也不同?&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>人体工学椅买哪个好？</title>
+      <link>https://www.v2ex.com/t/1195406</link>
+      <guid>v2ex-1195406</guid>
+      <pubDate>Tue, 03 Mar 2026 03:20:30 GMT</pubDate>
+      <description>看了一圈评测，感觉博主们介绍的功能太眼花缭乱了，大部分功能感觉我都用不上。&lt;br /&gt;&lt;br /&gt;只想买一个久坐的时候舒服一点，175/65 有推荐的人体工学椅吗？预算 500 以内。</description>
     </item>
   </channel>
 </rss>
