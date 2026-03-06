@@ -4,87 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 06 Mar 2026 03:38:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 05:04:29 GMT</lastBuildDate>
     <item>
       <title>比亚迪出二代刀片电池了， 5 分钟充好 9 分钟充饱零下 30 度只多 3 分钟，我准备冲了</title>
       <link>https://www.v2ex.com/t/1196192</link>
       <guid>v2ex-1196192</guid>
       <pubDate>Fri, 06 Mar 2026 00:42:20 GMT</pubDate>
       <description>昨晚发布会，可以说非常炸裂。这可以说相当于电车充电速度已经基本赶上油车了，上个厕所的时间就充好，新车还送 1 年免费充电，我准备冲钛 7 EV ，续航 700 多 km ，大家看好这波趋势吗？</description>
-    </item>
-    <item>
-      <title>AI 中转站黑话大全整理，带你一次性了解中转站逻辑，别用中转站，用的不明不白</title>
-      <link>https://www.v2ex.com/t/1196011</link>
-      <guid>v2ex-1196011</guid>
-      <pubDate>Thu, 05 Mar 2026 04:33:26 GMT</pubDate>
-      <description>&lt;ul&gt;
-&lt;li&gt;我做的站主要在 v 友之间推广，目前日充值流水达 2000 以上了，感谢 v 友的支持，我们一起做大做强，向上游大号池压价，为各位 v 友提供质优价廉的 token&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;安全警示：&lt;/strong&gt; 在使用任何中转服务前，请务必在客户端保护好私钥、密码等关键信息。建议采取 &lt;code&gt;ignore&lt;/code&gt; 配置文件等手段，避免敏感数据被 AI 读取并提交到中转服务器。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h2&gt;一、 什么是 AI 中转？&lt;/h2&gt;
-&lt;p&gt;中转站是通过技术手段打破海外地理与支付封锁（如信用卡限制、IP 封禁）的中间服务商。其核心目的是让国内用户能够便捷地调用 &lt;strong&gt;Codex / Claude / Gemini&lt;/strong&gt; 等世界一流模型的 API 。&lt;/p&gt;
-&lt;h3&gt;🔗 供应链条 (CCMAX)&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;上游：&lt;/strong&gt; 卡商 / 号商（提供虚拟信用卡、批量注册账号）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;中游：&lt;/strong&gt; 号池（大号池/小号池） → 中转站（大中转/小中转）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;下游：&lt;/strong&gt; C 端最终用户。
-&lt;em&gt;注：逆向渠道链条相似，通常为：号贩子 → 中转 → 客户。&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;h2&gt;二、 产业链盈利逻辑&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;角色&lt;/th&gt;
-&lt;th&gt;盈利方式&lt;/th&gt;
-&lt;th&gt;备注&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;卡商 / 号商&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;赚取虚拟卡（ U 卡）手续费，或通过批量注册账号获利。&lt;/td&gt;
-&lt;td&gt;行业的基础设施。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;号池&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;利用 API 平台的退款政策（如 Anthropic 退款）获取低价额度。&lt;/td&gt;
-&lt;td&gt;退款政策收紧会导致中转价格波动。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;中转站&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;整合客户需求向上游压价，赚取中间差额。&lt;/td&gt;
-&lt;td&gt;核心竞争力在于积累客户规模。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;hr/&gt;
-&lt;h2&gt;三、 中转价格与“黑话”解析&lt;/h2&gt;
-&lt;h3&gt;1. 充值汇率与“刀”&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;行业黑话：&lt;/strong&gt; “跑了多少刀”中的“刀”，通常指&lt;strong&gt;人民币充值转换后的虚拟美刀&lt;/strong&gt;，并非按中国人民银行实时汇率兑换的真实美刀。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;计价逻辑：&lt;/strong&gt; 通常遵循 &lt;strong&gt;1 元人民币 = 1 美刀&lt;/strong&gt; 的比例，并伴有优惠（例如 0.8 元 = 1 美刀）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. Token 计费公式&lt;/h3&gt;
-&lt;p&gt;最终的扣费通常受以下逻辑驱动：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;官方定价：&lt;/strong&gt; 参照 OpenAI / Anthropic 官方公布的单位 Token 价格。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;渠道倍率：&lt;/strong&gt; 中转站根据成本设定不同的倍率。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;案例分析：&lt;/strong&gt;
-如果你使用 &lt;strong&gt;1 元人民币&lt;/strong&gt; 充值了 &lt;strong&gt;1 美刀&lt;/strong&gt; 额度，而该中转站的逆向渠道倍率为 &lt;strong&gt;0.3 倍&lt;/strong&gt;：
-实际上你只需花费 &lt;strong&gt;0.3 元人民币&lt;/strong&gt;，即可购买到官方价值 &lt;strong&gt;1 美金&lt;/strong&gt; 的 Token 用量。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h2&gt;四、 防护建议&lt;/h2&gt;
-&lt;p&gt;为了防止重要私钥和密码被 AI 读取并提交，建议：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;配置忽略文件：&lt;/strong&gt; 在 &lt;code&gt;gemini cli&lt;/code&gt;、&lt;code&gt;codex cli&lt;/code&gt; 或 &lt;code&gt;claude code&lt;/code&gt; 等终端工具中设置过滤规则。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;利用 AI 配置：&lt;/strong&gt; 可以直接要求 AI 助手帮你写好针对特定客户端的敏感路径屏蔽配置。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     <item>
       <title>替尔泊肽 60 天，瘦了 20 斤</title>
@@ -95,13 +21,6 @@
 &lt;p&gt;体重减少 10kg ，体脂率减少 3%，肌肉率增加 2.9%，换算下来脂肪减少了 5-6kg &lt;/p&gt;
 &lt;p&gt;这些数据来源于小米体脂秤 s400 ，1 月的初次检测结果和医院的人体分析仪数据接近，因此我认为数据可靠。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>我一直很好奇小米这种手机到底是谁再买？</title>
-      <link>https://www.v2ex.com/t/1196112</link>
-      <guid>v2ex-1196112</guid>
-      <pubDate>Thu, 05 Mar 2026 09:33:07 GMT</pubDate>
-      <description>之前给家人买过小米 12 还是多少来着，半年不到就坏了，从此转为米黑，以前用苹果，现在手持一加 13 感觉真不错，所以很好奇现在小米这种手机买的人真的多嘛？感觉现在小米系统太拉了吧，当然小米 200 以内的东西还是可以的，主打一个便宜，但是手机是真的垃圾&lt;br /&gt;看隔壁帖子有感而发:&lt;a target=&quot;_blank&quot; href=&quot;https://v2ex.com/t/1195898?p=1#reply186&quot; rel=&quot;nofollow noopener&quot;&gt;https://v2ex.com/t/1195898?p=1#reply186&lt;/a&gt;&lt;br /&gt;只能说人的认知真的不一样</description>
     </item>
     <item>
       <title>北漂 15 年依然不被这个城市接纳</title>
@@ -146,6 +65,13 @@
 &lt;p&gt;我想让他定时抓微博内容。需要搞定登录问题，需要写脚本(skill)，本质上跟我拿 CC 写一个脚本调通 playwright 抓微博的时间差不多，好像还不太可能实现一句话任务然后不管（这个任务的结果还是比较容易验证的）. &lt;/p&gt;
 &lt;p&gt;所以各位有什么好的使用 Case 吗？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>明天去见女方家长,这套配置怎么样</title>
+      <link>https://www.v2ex.com/t/1196235</link>
+      <guid>v2ex-1196235</guid>
+      <pubDate>Fri, 06 Mar 2026 02:46:27 GMT</pubDate>
+      <description>外公外婆：钙片 199 、西洋参红参套餐 437&lt;br /&gt;姐姐一家/弟弟一家：山姆牛奶饼干&lt;br /&gt;爸爸妈妈：习酒 800 、西洋参海参 598&lt;br /&gt;小孩红包：200✖️3=600&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我 28 岁 女朋友 30 岁 湖南人&lt;br /&gt;1,那些中药补品都是女朋友公司的有内部价&lt;br /&gt;2,东西有点多,不是很好提,准备打个专车,没有车会很尴尬吗,(有存款,无车房)&lt;br /&gt;3,女方爸爸说如果明天面试的还可以,后面节假日可以多聚聚,一开始以为只有端午中秋啥的,但是女朋友说一些生日可能也要去,(包括她弟妹姐夫小侄子那些),我很难理解,因为我家很少过生日&lt;br /&gt;4,需要考察女方家庭的哪些状况</description>
     </item>
     <item>
       <title>当前开发跨平台桌面应用应该用什么语言和框架？考虑到生态和性能，以及 vibe coding 加持</title>
