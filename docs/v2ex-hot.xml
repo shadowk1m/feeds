@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 07 Mar 2026 10:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 10:45:33 GMT</lastBuildDate>
     <item>
       <title>你身边有没有这样的人，他们拒绝学习任何新技术和新工具？</title>
       <link>https://www.v2ex.com/t/1196461</link>
@@ -13,18 +13,18 @@
       <description>比如我身边就有这样的 java 程序员，它连 linux shell 都懒得学，一行 for 循环 shell 搞定的事情，他就是要写个 java 程序去解决。一切问题，java 搞定，搞不定的，就说这个需求做不了，不好实现，让产品经理改需求，也是绝了。</description>
     </item>
     <item>
-      <title>GPT-5.4 Thinking 依然过不了洗车测试</title>
-      <link>https://www.v2ex.com/t/1196407</link>
-      <guid>v2ex-1196407</guid>
-      <pubDate>Fri, 06 Mar 2026 12:32:34 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;/i/ztQ0wmwn.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 ztQ0wmwn.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/ztQ0wmwn.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;测试提示词：&lt;br /&gt;&lt;br /&gt;I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</description>
-    </item>
-    <item>
       <title>给女儿起名求建议</title>
       <link>https://www.v2ex.com/t/1196463</link>
       <guid>v2ex-1196463</guid>
       <pubDate>Sat, 07 Mar 2026 02:32:45 GMT</pubDate>
       <description>最近在给马上出生的女儿想名字，想了很久还是没特别满意的，想听听大家的感觉，也欢迎大家随便给点名字或者灵感。&lt;br /&gt;&lt;br /&gt;#### 基本情况：&lt;br /&gt;&lt;br /&gt;1. 武姓&lt;br /&gt;2. 女孩&lt;br /&gt;3. 预计 5 月出生&lt;br /&gt;4. 倾向单字名</description>
+    </item>
+    <item>
+      <title>GPT-5.4 Thinking 依然过不了洗车测试</title>
+      <link>https://www.v2ex.com/t/1196407</link>
+      <guid>v2ex-1196407</guid>
+      <pubDate>Fri, 06 Mar 2026 12:32:34 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;/i/ztQ0wmwn.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 ztQ0wmwn.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/ztQ0wmwn.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;测试提示词：&lt;br /&gt;&lt;br /&gt;I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</description>
     </item>
     <item>
       <title>搓了一个把内容变成分享卡片的扩展程序，轻喷，前 20 楼送 20 个兑换码</title>
@@ -66,13 +66,11 @@
 </description>
     </item>
     <item>
-      <title>我靠， MacBook neo 叠加教育优惠和国补， 3399！？</title>
-      <link>https://www.v2ex.com/t/1196452</link>
-      <guid>v2ex-1196452</guid>
-      <pubDate>Sat, 07 Mar 2026 01:14:15 GMT</pubDate>
-      <description>&lt;p&gt;这他妈 618 不得破 3000 啊，要迈入真香行列？？？？
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://comment-img.smzdm.com/202603/06/69aa5aa2458c98646.jpg&quot;/&gt;&lt;/p&gt;
-</description>
+      <title>claude code 使用哪家国内 api 靠谱</title>
+      <link>https://www.v2ex.com/t/1196478</link>
+      <guid>v2ex-1196478</guid>
+      <pubDate>Sat, 07 Mar 2026 03:52:02 GMT</pubDate>
+      <description>之前一直使用 google play 订阅 claude code ，已经习惯了 claude code 的使用方式，但是最近已经连续被封了三四个账号了，不想再折腾了，打算直接用国内的编程套餐了，看了一圈，好像大家对 GLM5 的评价稍好，但是最近 glm 的编程套餐已经限购了，一直买不到，大家还有其他曲线救国的方式么？</description>
     </item>
     <item>
       <title>这两天找工作找到自闭</title>
@@ -90,6 +88,15 @@
 &lt;p&gt;现在感觉,自己这几年就像井底之蛙,不了解现在人家大公司,大项目用什么架构.有时候想想有些东西一旦错过就是错过了,当年玩社区的时候,有位大哥问我要不要去跟他干数据库,当时就想着把自己负责的游戏弄好,想着游戏要是火了,老板吃肉,自己能跟着喝点汤,现在相回也回不去了.&lt;/p&gt;
 &lt;p&gt;现在先学习吧,下半年再冲刺面试.&lt;/p&gt;
 &lt;p&gt;自己今晚有感而写,有些话不吐不快,V2 站卧虎藏龙,欢迎大佬给建议,也欢迎各位给一些面试经验,比如资深一点的开发,面试官主要想考察哪些能力.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>我靠， MacBook neo 叠加教育优惠和国补， 3399！？</title>
+      <link>https://www.v2ex.com/t/1196452</link>
+      <guid>v2ex-1196452</guid>
+      <pubDate>Sat, 07 Mar 2026 01:14:15 GMT</pubDate>
+      <description>&lt;p&gt;这他妈 618 不得破 3000 啊，要迈入真香行列？？？？
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://comment-img.smzdm.com/202603/06/69aa5aa2458c98646.jpg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -154,13 +161,6 @@ Testing &amp;amp;Others: Integration testing, Unit testing(Mocha, chai, Jest), A
 DevOps 工具&amp;amp; CI/CD: ：Git, Docker, AWS(EC2, IAM,RDS), GitLab, GitHub Actions, Linux Shell
 其他：集成测试，单元测试(Mocha, chai, Jest)，Agile, Jira&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>简单体验了一下 openClaw，说说自己的看法</title>
-      <link>https://www.v2ex.com/t/1196394</link>
-      <guid>v2ex-1196394</guid>
-      <pubDate>Fri, 06 Mar 2026 10:37:20 GMT</pubDate>
-      <description>最近 OpenClaw 火的有点过于夸张了，楼主这边跟风体验，简单说说自己的认识。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;0.很多人宣传的是飞书里一句话，AI 就可以帮你搞定一切？这个执行手段确实很新颖，但是正如站内有些朋友说的，很多时候你连远程开 claudeCode 也能实现类似的效果。个人认为这种更亲切的执行方式主要会更受大众喜爱，更加的“接地气”&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;1.这个产品的安全性是很低的，存在提示词注入等风险，所以大伙一般都是把它安装在云电脑或者 Mac mini 这种独立的沙盒里面让他随意发挥&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;2.由于 1 中的问题，这个产品本质上是个外包员工，这辈子也只能当个外包员工。因为部署在独立的新电脑上，系统是空荡荡的，他没法见到开发机的数据环境这些。至少对于我这种使用场景来说，它能够做到的独特的事不算很多。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;3.和第一点中提到的接地气相矛盾的是，OpenClaw 部署流程并不算简单，尤其是 skills 各种定制，甚至还有了了小黄鱼上门安装 OpenClaw 这种一条龙业务。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;4.真的有点烧 token ，恰逢各大国内云厂商纷纷在这个时间节点推出了自己的 coding plan ，站内也有很多广告，也不知道是巧合还是有别的意思。</description>
     </item>
   </channel>
 </rss>
