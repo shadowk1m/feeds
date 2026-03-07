@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 07 Mar 2026 18:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 18:53:43 GMT</lastBuildDate>
     <item>
       <title>很多人不看好 macbook neo,大胆预测一波会卖爆</title>
       <link>https://www.v2ex.com/t/1196496</link>
@@ -59,6 +59,13 @@
       <description>本人 0 代码经验，用 AI 写出来的 SKILL 。最近玩 Openclaw ，大家有需要可以使用。&lt;br /&gt;主要功能是通过对话，skill 可以搜索对应的电影，并列出种数高的资源，回复后自动加入到本地的 transmission 下载。&lt;br /&gt;github：（虽然比较拉，还是在这求各位大佬们 stars ）&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/dengqijun/mteam-transmission0.1&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/dengqijun/mteam-transmission0.1&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;另外就是留下邮箱，发 20 个馒头邀请。</description>
     </item>
     <item>
+      <title>我实话，我真不建议你现在就去养 小龙虾</title>
+      <link>https://www.v2ex.com/t/1196469</link>
+      <guid>v2ex-1196469</guid>
+      <pubDate>Sat, 07 Mar 2026 03:05:01 GMT</pubDate>
+      <description>最近 OpenClaw 很火，我已经帮大家折腾过了。结论就是，方向挺好，但是为时过早，这个玩意虽然能自动化，但是效率很低，配置极其复杂，你需要折腾很久，token 杀死，分分钟扣你的 api 额度没商量。 &lt;br /&gt;还有一点，也是最重要的，非常尴尬的是，你根本不知道要用它去自动化点什么比较好。好像没有什么特别有价值的活非得让它才更干好。真有什么自动化需求，好像直接 codex 写个程序也能搞定。&lt;br /&gt; 当然 AI 程序员是趋势，先让子弹飞一会吧。</description>
+    </item>
+    <item>
       <title>市场冷清，全栈消失，金三不在，即便有全栈的部署项目都无人问津，不知道大家是否同样的感受</title>
       <link>https://www.v2ex.com/t/1196448</link>
       <guid>v2ex-1196448</guid>
@@ -85,13 +92,6 @@ Testing &amp;amp;Others: Integration testing, Unit testing(Mocha, chai, Jest), A
 DevOps 工具&amp;amp; CI/CD: ：Git, Docker, AWS(EC2, IAM,RDS), GitLab, GitHub Actions, Linux Shell
 其他：集成测试，单元测试(Mocha, chai, Jest)，Agile, Jira&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>我实话，我真不建议你现在就去养 小龙虾</title>
-      <link>https://www.v2ex.com/t/1196469</link>
-      <guid>v2ex-1196469</guid>
-      <pubDate>Sat, 07 Mar 2026 03:05:01 GMT</pubDate>
-      <description>最近 OpenClaw 很火，我已经帮大家折腾过了。结论就是，方向挺好，但是为时过早，这个玩意虽然能自动化，但是效率很低，配置极其复杂，你需要折腾很久，token 杀死，分分钟扣你的 api 额度没商量。 &lt;br /&gt;还有一点，也是最重要的，非常尴尬的是，你根本不知道要用它去自动化点什么比较好。好像没有什么特别有价值的活非得让它才更干好。真有什么自动化需求，好像直接 codex 写个程序也能搞定。&lt;br /&gt; 当然 AI 程序员是趋势，先让子弹飞一会吧。</description>
     </item>
     <item>
       <title>我靠， MacBook neo 叠加教育优惠和国补， 3399！？</title>
