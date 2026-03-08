@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Mar 2026 08:51:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 09:19:10 GMT</lastBuildDate>
     <item>
       <title>AI 编写 SKILL：通过 m-team 搜索并下载电影（ps：发邀）</title>
       <link>https://www.v2ex.com/t/1196541</link>
@@ -20,49 +20,6 @@
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/YhVwqha.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/YhVwqha.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; 家里的网络如图所示。&lt;br /&gt; 0.电信宽带 2000M 。&lt;br /&gt; 1.电信给的 fttr 主路由没有 2.5G 口，光下联的 fttr 子路由上有 2.5G 口和一个 itv 口。&lt;br /&gt; 2.光猫到客厅，墙里只埋了一个网线。光猫到主卧，也是一个网线。&lt;br /&gt; 3.需要在客厅看 itv ，故调整了一下光猫后台和客厅的华硕路由器，实现了 itv 插在路由器上看 itv 的需求。（其中一个路由器必须放在客厅，否则客厅信号差）&lt;br /&gt; &lt;br /&gt; 问题：&lt;br /&gt; 1.由于客厅路由器需要接 itv ，只能设置为主路由模式，设置成 ap 模式就无法看 itv 了，所以目前这俩路由器无法 aimesh 。&lt;br /&gt; 2.由于 fttr 主路由没有 2.5G 口，加上客厅需要看 itv ，把光猫的 itv 通过 vlan 绑定了一下，无法映射到子路由上，所以客厅的路由器只有千兆。&lt;br /&gt; &lt;br /&gt; 需求：&lt;br /&gt; 1.俩华硕路由器能组网，不论是 aimesh 还是 ap 模式都可以。&lt;br /&gt; 2.可能要能看 itv 。&lt;br /&gt; 3.路由器连 2.5G 口跑满 2000M 宽带。&lt;br /&gt; &lt;br /&gt; 求各位大佬指点一下，有没有解决办法 orz</description>
     </item>
     <item>
-      <title>瓦工 IP 被全 ban 了，迁移 DC 也不行</title>
-      <link>https://www.v2ex.com/t/1196516</link>
-      <guid>v2ex-1196516</guid>
-      <pubDate>Sat, 07 Mar 2026 08:52:48 GMT</pubDate>
-      <description>&lt;p&gt;提了 ticket ，回复好搞笑，意思是自己也承认自家 IP 被全 ban 了，咋迁移也没用。
-我是美区 IP 被封，才想迁 DC 啊。&lt;/p&gt;
-&lt;p&gt;[机票编号:182508223]迁移总是失败。
-Bandwagon Host Support&lt;a href=&quot;mailto:support@bandwagonhost.com&quot;&gt;support@bandwagonhost.com&lt;/a&gt;
-由
-apache
-@
-&lt;a href=&quot;http://bandwagonhost.com&quot; rel=&quot;nofollow&quot;&gt;bandwagonhost.com&lt;/a&gt;
-代发
-我&amp;lt;&lt;em&gt;&lt;strong&gt;@&lt;/strong&gt;&lt;/em&gt;.com&amp;gt;
-您好，&lt;/p&gt;
-&lt;p&gt;感谢您就您遇到的移民问题与我们联系。&lt;/p&gt;
-&lt;p&gt;经调查，我们已确认 IP 地址 64.64.*.*被中国防火长城（ GFW ）封锁。这种阻塞是您无法从中国建立连接的原因。这也是您无法将服务迁移到另一个数据中心的原因。&lt;/p&gt;
-&lt;p&gt;虽然 IP64.64.*.*在任何主要封锁列表（ Spamhaus 、GFW 等）中，VPS 仍保持完全运行，但在封锁被移除之前，您将无法将 VPS 迁移到不同的数据中心。&lt;/p&gt;
-&lt;h1&gt;=========================
-可能的解决方案&lt;/h1&gt;
-&lt;p&gt;一般来说，当“被禁止”的服务不再被检测到时，GFW 会自动解除禁令，通常在几天到几周内。禁令期间的最佳方法是首先删除所有可能触发禁令的服务，然后等待禁令解除。&lt;/p&gt;
-&lt;p&gt;然而，请理解，我们无法控制 GFW 的运营或其机制。我们的责任是确保我们的硬件和网络保持完全运转，与 GFW 相关的问题不在我们的专业范围之内。&lt;/p&gt;
-&lt;p&gt;替换受禁用 IP:
-如果您的计划允许免费更改 IP ，则可以通过 KiwiVM 控制面板进行替换。&lt;/p&gt;
-&lt;p&gt;否则，如果您不愿意等待禁令解除，需要立即用一个干净的 IP 替换被禁的 IP ，可以通过以下链接进行:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://bandwagonhost.com/ipchange.php&quot; rel=&quot;nofollow&quot;&gt;https://bandwagonhost.com/ipchange.php&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;镜子：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://bwh81.net/ipchange.php&quot; rel=&quot;nofollow&quot;&gt;https://bwh81.net/ipchange.php&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;哔哔哔！我是您友好的机器人助手，处理数据和票务信息，为您提供最佳的技术智慧。
-我可以进行一些基本的诊断，我的回复确实考虑到了这些数据。然而，如果我的电路还没有完全解决你的问题，请在这里回复。我们的一位人类工程师（不那么光鲜，但相当聪明）会跳进来协助。&lt;/p&gt;
-&lt;p&gt;谢谢你。&lt;/p&gt;
-&lt;p&gt;马丁 C
-班车主机/IT7 网络&lt;/p&gt;
-&lt;p&gt;全球服务状态页面： &lt;a href=&quot;https://bwhstatus.com/&quot; rel=&quot;nofollow&quot;&gt;https://bwhstatus.com/&lt;/a&gt;
-诊断与网络相关的问题 &lt;a href=&quot;https://ping.pe/&quot; rel=&quot;nofollow&quot;&gt;https://ping.pe/&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;机票号码:182508223
-主题：迁移总是失败。
-状态：已回答
-门票网址： &lt;a href=&quot;https://bandwagonhost.com/viewticket.php?tid=182508223&amp;amp;c=encHAmLp&quot; rel=&quot;nofollow&quot;&gt;https://bandwagonhost.com/viewticket.php?tid=182508223&amp;amp;c=encHAmLp&lt;/a&gt;&lt;/h2&gt;
-</description>
-    </item>
-    <item>
       <title>再次倡议：放弃使用 imgur !</title>
       <link>https://www.v2ex.com/t/1196619</link>
       <guid>v2ex-1196619</guid>
@@ -73,6 +30,22 @@ apache
 &lt;p&gt;发贴发图是为了传递信息，如果你不在意大量的人看到图裂的话，可以无视本贴。&lt;/p&gt;
 &lt;p&gt;Google 和 V2 对于用户们来说基本是不可以替代的，但是 imgur 有很多代替品，这种玻璃心产品，放弃吧。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>注册 telegram 的实体卡，用那个国家比较好</title>
+      <link>https://www.v2ex.com/t/1196586</link>
+      <guid>v2ex-1196586</guid>
+      <pubDate>Sun, 08 Mar 2026 02:33:08 GMT</pubDate>
+      <description>&lt;p&gt;1
+如题，需要注册一个 telegram 长期使用，用那个国家卡比较好？麻烦各位大屌告知一下&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？</title>
+      <link>https://www.v2ex.com/t/1196592</link>
+      <guid>v2ex-1196592</guid>
+      <pubDate>Sun, 08 Mar 2026 03:01:06 GMT</pubDate>
+      <description>感觉 cursor 一点价格优势都没有了</description>
     </item>
     <item>
       <title>寻找量化交易爱好者，一起做点有意思的事</title>
@@ -100,35 +73,6 @@ apache
 &lt;/ul&gt;
 &lt;p&gt;说明：平时有主业工作，回复可能不及时，看到一定会回。&lt;/p&gt;
 &lt;p&gt;有兴趣的加微信：ddgotrich&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>注册 telegram 的实体卡，用那个国家比较好</title>
-      <link>https://www.v2ex.com/t/1196586</link>
-      <guid>v2ex-1196586</guid>
-      <pubDate>Sun, 08 Mar 2026 02:33:08 GMT</pubDate>
-      <description>&lt;p&gt;1
-如题，需要注册一个 telegram 长期使用，用那个国家卡比较好？麻烦各位大屌告知一下&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？</title>
-      <link>https://www.v2ex.com/t/1196592</link>
-      <guid>v2ex-1196592</guid>
-      <pubDate>Sun, 08 Mar 2026 03:01:06 GMT</pubDate>
-      <description>感觉 cursor 一点价格优势都没有了</description>
-    </item>
-    <item>
-      <title>为什么 MacOS 这个脑残 bug 这么多版本都没有修复?</title>
-      <link>https://www.v2ex.com/t/1196517</link>
-      <guid>v2ex-1196517</guid>
-      <pubDate>Sat, 07 Mar 2026 08:54:06 GMT</pubDate>
-      <description>&lt;p&gt;BUG 的原因就是本地网络授权. &lt;/p&gt;
-&lt;p&gt;自从 MacOS 加入这个功能以来就一直有问题, 经常会导致浏览器突然无法访问局域网.&lt;/p&gt;
-&lt;p&gt;有时候重启浏览器可以触发重新授权, 有时候多次重启都不行, 又不能手动添加授权, 急需访问内网的时候急的直打转.&lt;/p&gt;
-&lt;p&gt;设置里面留了一堆授权记录, 也不能删除, 这个 bug 真的是够脑残的. 而且我也根本不需要局域网访问授权, 完全就是一个负作用的功能.&lt;/p&gt;
-&lt;p&gt;当前系统版本已经是最新的 26.3, 我主要使用 Edge 和 Chrome, 都有问题.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/X5nDsPS.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -162,6 +106,65 @@ apache
       <pubDate>Sat, 07 Mar 2026 09:23:48 GMT</pubDate>
       <description>&lt;p&gt;&lt;a href=&quot;http://www.v2ny.com&quot; rel=&quot;nofollow&quot;&gt;www.v2ny.com&lt;/a&gt;
 目前已经完全不可用，telegram 已经全部禁言，工单全部关闭，站方还在搞 3.8 促销，估计是准备最后捞一波跑路了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>和香港同事开会总是听不太懂粤语，我用 Tauri 搓了个实时字幕工具 (macOS/Win)</title>
+      <link>https://www.v2ex.com/t/1196574</link>
+      <guid>v2ex-1196574</guid>
+      <pubDate>Sun, 08 Mar 2026 00:39:20 GMT</pubDate>
+      <description>&lt;h1&gt;和香港同事开会总是听不太懂粤语，我用 Tauri 搓了个实时字幕工具 (macOS/Win)&lt;/h1&gt;
+&lt;p&gt;在一家跨地区团队工作了一段时间后，我发现一个挺真实的痛点：会议语言有时候是粤语。&lt;/p&gt;
+&lt;p&gt;虽然大家也能切换普通话或英语，但很多时候讨论进入状态之后，自然就会变成粤语交流。其实我自己最近也刚好在学粤语，但如果你不是长期在粤语环境里，在工作场景下会遇到一种很微妙的情况：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不是完全听不懂，但经常只能听懂七八成。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;特别是遇到一些香港本地表达、粤语里夹杂英文、多人同时快速讨论的时候。结果就是：会议能跟上大概意思，但细节容易漏掉。有时候大家已经开始讨论下一个问题了，我还在脑子里 compile 上一句到底说了什么。&lt;/p&gt;
+&lt;p&gt;久而久之觉得挺影响沟通效率，所以后来我就做了一个自己用的小工具：
+&lt;strong&gt;把电脑里播放的粤语语音，实时变成中文字幕。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当然不止是粤语翻粤，英语、日语、韩语等都可以。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;网站：&lt;a href=&quot;https://fanyueai.com/&quot; rel=&quot;nofollow&quot;&gt;https://fanyueai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;解决的其实就是一个很简单的场景&lt;/h2&gt;
+&lt;p&gt;我做这个工具最初只有一个目标：&lt;strong&gt;开会的时候能实时看到字幕。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不管是 Zoom 、Google Meet 、Teams 还是网页版会议，只要电脑里有粤语语音，它就会：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;实时监听系统级音频&lt;/li&gt;
+&lt;li&gt;实时识别粤语并翻译&lt;/li&gt;
+&lt;li&gt;用一个悬浮字幕条显示出来&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;当有人语速很快的时候，看一眼字幕基本就能跟上内容。因为是系统级音频监听，所以平时用来看港区 YouTube 、听粤语播客，或者看没字幕的生肉视频也都能顺带用上。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;主界面
+&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://user0001.cn.imgto.link/public/20260307/image-wy1pmquu.avif&quot;/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;实时字幕界面
+&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://user0001.cn.imgto.link/public/20260308/image-pj8aoc66.avif&quot;/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;聊聊技术演进和踩坑&lt;/h2&gt;
+&lt;p&gt;一开始我也想过做成某个会议软件的插件，但大家用的软件太杂了，最后决定直接做系统级监听。&lt;/p&gt;
+&lt;p&gt;客户端我个人比较反感那种动不动就吃掉几个 GB 内存的 Electron 巨兽，所以：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;技术栈：&lt;/strong&gt; 选了 &lt;strong&gt;Tauri&lt;/strong&gt; 来打包，客户端做得很轻（大概二十多 MB ），内存和 CPU 占用基本可以忽略不计。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UI 设计：&lt;/strong&gt; 没有花里胡哨的主题切换，直接做成了类似苹果原生的深空灰暗色调，主打一个开会时悬浮在屏幕边缘“不喧宾夺主”。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;关于核心的翻译延迟问题，其实经历过一次重构：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一开始的 V1 版本，我图省事直接接了阿里云的自动识别与翻译 API 。调用一个接口就能出结果，开发确实快，但效果很感人：机器味重、识别不准，而且&lt;strong&gt;延迟太高&lt;/strong&gt;，开会用起来有明显的割裂感。&lt;/p&gt;
+&lt;p&gt;后来痛定思痛改了架构。最近刚好发现 Google 新出了 &lt;code&gt;gemini-3.1-flash-lite&lt;/code&gt; 模型，测试了一下发现用来做实时翻译简直是神器：速度极快，翻译的人话味道很浓，最关键的是&lt;strong&gt;支持自定义提示词&lt;/strong&gt;（可以喂给它一些团队开会常用的 IT 缩写和黑话）。&lt;/p&gt;
+&lt;p&gt;所以现在的版本改成了：&lt;strong&gt;实时语音识别 + 实时流式调用大模型 API 进行翻译&lt;/strong&gt;。目前把整体的延迟压在了开会完全可接受的范围内。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;如果你刚好有类似场景&lt;/h2&gt;
+&lt;p&gt;目前打包了 &lt;strong&gt;macOS&lt;/strong&gt; 和 &lt;strong&gt;Windows&lt;/strong&gt; 版本（ Windows 没测太多老系统，目前 Win10 及以上可以正常跑）。&lt;/p&gt;
+&lt;p&gt;如果你也是在香港工作的内地开发者，或者有远程和港区团队合作的需求，可以试试这个工具：&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&quot;https://fanyueai.com/?ref=BRSLH8JQ&quot; rel=&quot;nofollow&quot;&gt;https://fanyueai.com/?ref=BRSLH8JQ&lt;/a&gt;](通过邀请码注册即赠 120 分钟时长。点击体验： &lt;a href=&quot;https://fanyueai.com/?ref=BRSLH8JQ&quot; rel=&quot;nofollow&quot;&gt;https://fanyueai.com/?ref=BRSLH8JQ&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;给刚注册的新用户默认塞了 &lt;strong&gt;15 天体验和 90 分钟的翻译时长&lt;/strong&gt;，基本足够大家开几次会，或者看个视频体验一下效果了。&lt;/p&gt;
+&lt;p&gt;我自己也是一边用一边慢慢迭代，如果大家体验后觉得有什么 Bug ，或者在技术实现上（特别是跨平台音频流处理这块）有更好的思路，欢迎在帖子里吐槽交流，我下班后去修。&lt;/p&gt;
 </description>
     </item>
   </channel>
