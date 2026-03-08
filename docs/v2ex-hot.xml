@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Mar 2026 08:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 08:51:50 GMT</lastBuildDate>
     <item>
       <title>AI 编写 SKILL：通过 m-team 搜索并下载电影（ps：发邀）</title>
       <link>https://www.v2ex.com/t/1196541</link>
@@ -112,6 +112,13 @@ apache
 </description>
     </item>
     <item>
+      <title>相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？</title>
+      <link>https://www.v2ex.com/t/1196592</link>
+      <guid>v2ex-1196592</guid>
+      <pubDate>Sun, 08 Mar 2026 03:01:06 GMT</pubDate>
+      <description>感觉 cursor 一点价格优势都没有了</description>
+    </item>
+    <item>
       <title>为什么 MacOS 这个脑残 bug 这么多版本都没有修复?</title>
       <link>https://www.v2ex.com/t/1196517</link>
       <guid>v2ex-1196517</guid>
@@ -123,13 +130,6 @@ apache
 &lt;p&gt;当前系统版本已经是最新的 26.3, 我主要使用 Edge 和 Chrome, 都有问题.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/X5nDsPS.png&quot;/&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？</title>
-      <link>https://www.v2ex.com/t/1196592</link>
-      <guid>v2ex-1196592</guid>
-      <pubDate>Sun, 08 Mar 2026 03:01:06 GMT</pubDate>
-      <description>感觉 cursor 一点价格优势都没有了</description>
     </item>
     <item>
       <title>AI 让折腾变得更容易并且快乐了（Vim 和 Linux ）</title>
@@ -156,17 +156,12 @@ apache
 </description>
     </item>
     <item>
-      <title>从“腾讯工程师摆摊给粉丝装 OpenClaw”看，这项目是不是被资本绑架了？</title>
-      <link>https://www.v2ex.com/t/1196513</link>
-      <guid>v2ex-1196513</guid>
-      <pubDate>Sat, 07 Mar 2026 08:22:42 GMT</pubDate>
-      <description>&lt;p&gt;最近看到一个离谱的现象：
-腾讯云的人在线下摆摊帮人装 OpenClaw ，排队排到看不到头，还有人直接扛着台式机过去。朋友圈、公众号、直播间，全都在聊 OpenClaw 。淘宝上甚至出现了“OpenClaw 部署安装服务”，最猛的店铺靠远程装机已经卖了快 20 万（一次 200 左右）。&lt;/p&gt;
-&lt;p&gt;作为一个开发者，说实话，这工具现在的走向已经完全变味了。&lt;/p&gt;
-&lt;p&gt;最开始它确实解决了一些痛点，但现在明显被各种平台的 KPI 推着往前冲。云厂商、Token 服务商、各种渠道商都在疯狂收割这波流量，于是就出现了面向小白的营销、培训、饭圈化运营，甚至线下摆摊装机这种奇怪的场景。&lt;/p&gt;
-&lt;p&gt;而 GPT‑5.4 一出来，直接原生支持电脑操作。对比之下，OpenClaw 这种“套壳拼装 + 疯狂地推”的路线显得格外无力。&lt;/p&gt;
-&lt;p&gt;现在的热度已经完全过火了。
-在 5.4 这种原生能力面前，它的技术壁垒本来就不多，再加上资本疯狂推着它出圈，硬把一个面向程序员的专业工具搞成全民狂欢。等潮水退了，这种靠造势堆起来的繁荣，估计会挺难看。&lt;/p&gt;
+      <title>注意奈云机场 v2ny 已经跑路，目前线路全红，厂家还在圈钱</title>
+      <link>https://www.v2ex.com/t/1196524</link>
+      <guid>v2ex-1196524</guid>
+      <pubDate>Sat, 07 Mar 2026 09:23:48 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;http://www.v2ny.com&quot; rel=&quot;nofollow&quot;&gt;www.v2ny.com&lt;/a&gt;
+目前已经完全不可用，telegram 已经全部禁言，工单全部关闭，站方还在搞 3.8 促销，估计是准备最后捞一波跑路了&lt;/p&gt;
 </description>
     </item>
   </channel>
