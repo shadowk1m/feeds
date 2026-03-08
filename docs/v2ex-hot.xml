@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Mar 2026 05:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:00:49 GMT</lastBuildDate>
     <item>
       <title>很多人不看好 macbook neo,大胆预测一波会卖爆</title>
       <link>https://www.v2ex.com/t/1196496</link>
@@ -81,25 +81,11 @@ apache
 </description>
     </item>
     <item>
-      <title>魔都电信端口映射数量限制</title>
-      <link>https://www.v2ex.com/t/1196485</link>
-      <guid>v2ex-1196485</guid>
-      <pubDate>Sat, 07 Mar 2026 05:04:16 GMT</pubDate>
-      <description>以前是 fttr 1000M 的，端口映射可以设置 30+ 都没问题&lt;br /&gt;&lt;br /&gt;不知道什么时候开始添加端口映射一直显示失败，后来测试发现是只被最多允许加 8 9 个端口了，再加就是失败。&lt;br /&gt;&lt;br /&gt;这种时候不能换设备 换套餐 不然会刷掉所有端口映射&lt;br /&gt;&lt;br /&gt;想来咨询下有其他办法么。 要了超级密码，设置 DMZ 但是点击保存是无法保存进去的</description>
-    </item>
-    <item>
       <title>家里的网络设计问题，脑子要炸了</title>
       <link>https://www.v2ex.com/t/1196577</link>
       <guid>v2ex-1196577</guid>
       <pubDate>Sun, 08 Mar 2026 01:27:03 GMT</pubDate>
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/YhVwqha.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/YhVwqha.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; 家里的网络如图所示。&lt;br /&gt; 0.电信宽带 2000M 。&lt;br /&gt; 1.电信给的 fttr 主路由没有 2.5G 口，光下联的 fttr 子路由上有 2.5G 口和一个 itv 口。&lt;br /&gt; 2.光猫到客厅，墙里只埋了一个网线。光猫到主卧，也是一个网线。&lt;br /&gt; 3.需要在客厅看 itv ，故调整了一下光猫后台和客厅的华硕路由器，实现了 itv 插在路由器上看 itv 的需求。（其中一个路由器必须放在客厅，否则客厅信号差）&lt;br /&gt; &lt;br /&gt; 问题：&lt;br /&gt; 1.由于客厅路由器需要接 itv ，只能设置为主路由模式，设置成 ap 模式就无法看 itv 了，所以目前这俩路由器无法 aimesh 。&lt;br /&gt; 2.由于 fttr 主路由没有 2.5G 口，加上客厅需要看 itv ，把光猫的 itv 通过 vlan 绑定了一下，无法映射到子路由上，所以客厅的路由器只有千兆。&lt;br /&gt; &lt;br /&gt; 需求：&lt;br /&gt; 1.俩华硕路由器能组网，不论是 aimesh 还是 ap 模式都可以。&lt;br /&gt; 2.可能要能看 itv 。&lt;br /&gt; 3.路由器连 2.5G 口跑满 2000M 宽带。&lt;br /&gt; &lt;br /&gt; 求各位大佬指点一下，有没有解决办法 orz</description>
-    </item>
-    <item>
-      <title>如何看 apple tv 官方的 F1 直播呀</title>
-      <link>https://www.v2ex.com/t/1196493</link>
-      <guid>v2ex-1196493</guid>
-      <pubDate>Sat, 07 Mar 2026 05:40:35 GMT</pubDate>
-      <description>有美区 apple one 的会员，包含 apple tv 会员&lt;br /&gt;今年 apple tv 买了 f1 直播的版权&lt;br /&gt;通过 apple tv 看 f1 直播提示 此视频在你当前所在国家或地区无法观看&lt;br /&gt;全局挂梯子也不行</description>
     </item>
     <item>
       <title>小象超市和盒马鲜生哪个便宜？</title>
@@ -150,18 +136,26 @@ apache
 </description>
     </item>
     <item>
-      <title>刚安装的 OpenClaw 被莫名奇妙流入了广告</title>
-      <link>https://www.v2ex.com/t/1196487</link>
-      <guid>v2ex-1196487</guid>
-      <pubDate>Sat, 07 Mar 2026 05:14:51 GMT</pubDate>
-      <description>&lt;p&gt;平时都习惯在 OC 上开 verbose 但以看他的 tools 的调用过程中发现以下异常内容&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{&quot;command&quot;:&quot;find /home/xxxx/.openclaw -maxdepth 3 \( -name &#39;.json&#39; -o -name &#39;.yaml&#39; -o -name &#39;.yml&#39; -o -name &#39;.toml&#39; -o -name &#39;.env&#39; -o -name &#39;.md&#39; \) | sort | sed -n &#39;1,200p&#39;&quot;,&quot;workdir&quot;:&quot;/home/xxxx/.openclaw/workspace&quot;,&quot;yieldMs&quot;:10000} to=functions.exec  彩神争霸 to=functions.exec ￣色ობრივი code ＿色 data  天天中彩票公司? Wait previous.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;但我找了很多配置也没有这种 “彩神争霸，彩票”的字眼&lt;/p&gt;
-&lt;p&gt;通过 gpt 5.4 来排查也是说在 生成 prompt 产生的。。&lt;/p&gt;
-&lt;p&gt;最主要是刚刚新安装的 OC ，没有其他插件就有这种内容出现&lt;/p&gt;
-&lt;p&gt;有点细思恐，不知道哪里触发了注意，来执行某些内容；&lt;/p&gt;
-&lt;p&gt;大佬分们，遇到这种情况有哪些思路来排查&lt;/p&gt;
+      <title>注册 telegram 的实体卡，用那个国家比较好</title>
+      <link>https://www.v2ex.com/t/1196586</link>
+      <guid>v2ex-1196586</guid>
+      <pubDate>Sun, 08 Mar 2026 02:33:08 GMT</pubDate>
+      <description>&lt;p&gt;1
+如题，需要注册一个 telegram 长期使用，用那个国家卡比较好？麻烦各位大屌告知一下&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>从“腾讯工程师摆摊给粉丝装 OpenClaw”看，这项目是不是被资本绑架了？</title>
+      <link>https://www.v2ex.com/t/1196513</link>
+      <guid>v2ex-1196513</guid>
+      <pubDate>Sat, 07 Mar 2026 08:22:42 GMT</pubDate>
+      <description>&lt;p&gt;最近看到一个离谱的现象：
+腾讯云的人在线下摆摊帮人装 OpenClaw ，排队排到看不到头，还有人直接扛着台式机过去。朋友圈、公众号、直播间，全都在聊 OpenClaw 。淘宝上甚至出现了“OpenClaw 部署安装服务”，最猛的店铺靠远程装机已经卖了快 20 万（一次 200 左右）。&lt;/p&gt;
+&lt;p&gt;作为一个开发者，说实话，这工具现在的走向已经完全变味了。&lt;/p&gt;
+&lt;p&gt;最开始它确实解决了一些痛点，但现在明显被各种平台的 KPI 推着往前冲。云厂商、Token 服务商、各种渠道商都在疯狂收割这波流量，于是就出现了面向小白的营销、培训、饭圈化运营，甚至线下摆摊装机这种奇怪的场景。&lt;/p&gt;
+&lt;p&gt;而 GPT‑5.4 一出来，直接原生支持电脑操作。对比之下，OpenClaw 这种“套壳拼装 + 疯狂地推”的路线显得格外无力。&lt;/p&gt;
+&lt;p&gt;现在的热度已经完全过火了。
+在 5.4 这种原生能力面前，它的技术壁垒本来就不多，再加上资本疯狂推着它出圈，硬把一个面向程序员的专业工具搞成全民狂欢。等潮水退了，这种靠造势堆起来的繁荣，估计会挺难看。&lt;/p&gt;
 </description>
     </item>
   </channel>
