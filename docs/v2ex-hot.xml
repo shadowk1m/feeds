@@ -4,20 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Mar 2026 10:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 10:47:25 GMT</lastBuildDate>
     <item>
       <title>AI 编写 SKILL：通过 m-team 搜索并下载电影（ps：发邀）</title>
       <link>https://www.v2ex.com/t/1196541</link>
       <guid>v2ex-1196541</guid>
       <pubDate>Sat, 07 Mar 2026 13:03:08 GMT</pubDate>
       <description>本人 0 代码经验，用 AI 写出来的 SKILL 。最近玩 Openclaw ，大家有需要可以使用。&lt;br /&gt;主要功能是通过对话，skill 可以搜索对应的电影，并列出种数高的资源，回复后自动加入到本地的 transmission 下载。&lt;br /&gt;github：（虽然比较拉，还是在这求各位大佬们 stars ）&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/dengqijun/mteam-transmission0.1&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/dengqijun/mteam-transmission0.1&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;另外就是留下邮箱，发 20 个馒头邀请。</description>
-    </item>
-    <item>
-      <title>家里的网络设计问题，脑子要炸了</title>
-      <link>https://www.v2ex.com/t/1196577</link>
-      <guid>v2ex-1196577</guid>
-      <pubDate>Sun, 08 Mar 2026 01:27:03 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/YhVwqha.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/YhVwqha.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; 家里的网络如图所示。&lt;br /&gt; 0.电信宽带 2000M 。&lt;br /&gt; 1.电信给的 fttr 主路由没有 2.5G 口，光下联的 fttr 子路由上有 2.5G 口和一个 itv 口。&lt;br /&gt; 2.光猫到客厅，墙里只埋了一个网线。光猫到主卧，也是一个网线。&lt;br /&gt; 3.需要在客厅看 itv ，故调整了一下光猫后台和客厅的华硕路由器，实现了 itv 插在路由器上看 itv 的需求。（其中一个路由器必须放在客厅，否则客厅信号差）&lt;br /&gt; &lt;br /&gt; 问题：&lt;br /&gt; 1.由于客厅路由器需要接 itv ，只能设置为主路由模式，设置成 ap 模式就无法看 itv 了，所以目前这俩路由器无法 aimesh 。&lt;br /&gt; 2.由于 fttr 主路由没有 2.5G 口，加上客厅需要看 itv ，把光猫的 itv 通过 vlan 绑定了一下，无法映射到子路由上，所以客厅的路由器只有千兆。&lt;br /&gt; &lt;br /&gt; 需求：&lt;br /&gt; 1.俩华硕路由器能组网，不论是 aimesh 还是 ap 模式都可以。&lt;br /&gt; 2.可能要能看 itv 。&lt;br /&gt; 3.路由器连 2.5G 口跑满 2000M 宽带。&lt;br /&gt; &lt;br /&gt; 求各位大佬指点一下，有没有解决办法 orz</description>
     </item>
     <item>
       <title>再次倡议：放弃使用 imgur !</title>
@@ -32,11 +25,27 @@
 </description>
     </item>
     <item>
+      <title>家里的网络设计问题，脑子要炸了</title>
+      <link>https://www.v2ex.com/t/1196577</link>
+      <guid>v2ex-1196577</guid>
+      <pubDate>Sun, 08 Mar 2026 01:27:03 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/YhVwqha.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/YhVwqha.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; 家里的网络如图所示。&lt;br /&gt; 0.电信宽带 2000M 。&lt;br /&gt; 1.电信给的 fttr 主路由没有 2.5G 口，光下联的 fttr 子路由上有 2.5G 口和一个 itv 口。&lt;br /&gt; 2.光猫到客厅，墙里只埋了一个网线。光猫到主卧，也是一个网线。&lt;br /&gt; 3.需要在客厅看 itv ，故调整了一下光猫后台和客厅的华硕路由器，实现了 itv 插在路由器上看 itv 的需求。（其中一个路由器必须放在客厅，否则客厅信号差）&lt;br /&gt; &lt;br /&gt; 问题：&lt;br /&gt; 1.由于客厅路由器需要接 itv ，只能设置为主路由模式，设置成 ap 模式就无法看 itv 了，所以目前这俩路由器无法 aimesh 。&lt;br /&gt; 2.由于 fttr 主路由没有 2.5G 口，加上客厅需要看 itv ，把光猫的 itv 通过 vlan 绑定了一下，无法映射到子路由上，所以客厅的路由器只有千兆。&lt;br /&gt; &lt;br /&gt; 需求：&lt;br /&gt; 1.俩华硕路由器能组网，不论是 aimesh 还是 ap 模式都可以。&lt;br /&gt; 2.可能要能看 itv 。&lt;br /&gt; 3.路由器连 2.5G 口跑满 2000M 宽带。&lt;br /&gt; &lt;br /&gt; 求各位大佬指点一下，有没有解决办法 orz</description>
+    </item>
+    <item>
       <title>相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？</title>
       <link>https://www.v2ex.com/t/1196592</link>
       <guid>v2ex-1196592</guid>
       <pubDate>Sun, 08 Mar 2026 03:01:06 GMT</pubDate>
       <description>感觉 cursor 一点价格优势都没有了</description>
+    </item>
+    <item>
+      <title>注册 telegram 的实体卡，用那个国家比较好</title>
+      <link>https://www.v2ex.com/t/1196586</link>
+      <guid>v2ex-1196586</guid>
+      <pubDate>Sun, 08 Mar 2026 02:33:08 GMT</pubDate>
+      <description>&lt;p&gt;1
+如题，需要注册一个 telegram 长期使用，用那个国家卡比较好？麻烦各位大屌告知一下&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>AI 让折腾变得更容易并且快乐了（Vim 和 Linux ）</title>
@@ -60,15 +69,6 @@
 &lt;p&gt;上一次我自己安装 Arch 以失败告终，那是 2014 年左右吧，在折腾了好久，所有的步骤都执行完毕了之后，无论如何都进不去系统。过了好久之后才知道正好是我安装的当时，Archlinux 做了一个变更，把某个系统级目录（类似 /usr/bin ，具体是什么记不清了）移动了一个位置，导致所有使用那个版本的镜像的新装用户都会挂掉。已经折腾了那么久又遇到那么离谱的事情，这给我当时幼小的心灵带来了巨大的伤害，于是转向了 Ubuntu 。&lt;/p&gt;
 &lt;p&gt;如果这个事情放到现在，我应该不会倒在这一步。因为可能过去跑完所有安装流程需要研究一两天，现在用 AI 只需要几个小时，等到遇到难题的时候，还剩有充足的精力去解决这些问题。&lt;/p&gt;
 &lt;p&gt;本文全程没有用 AI ，很久没有输出这么大段的文字了。最近找工作不顺利，写点东西缓解一下压力，感谢各位观看。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>注册 telegram 的实体卡，用那个国家比较好</title>
-      <link>https://www.v2ex.com/t/1196586</link>
-      <guid>v2ex-1196586</guid>
-      <pubDate>Sun, 08 Mar 2026 02:33:08 GMT</pubDate>
-      <description>&lt;p&gt;1
-如题，需要注册一个 telegram 长期使用，用那个国家卡比较好？麻烦各位大屌告知一下&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -97,17 +97,6 @@
 &lt;/ul&gt;
 &lt;p&gt;说明：平时有主业工作，回复可能不及时，看到一定会回。&lt;/p&gt;
 &lt;p&gt;有兴趣的加微信：ddgotrich&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Codex 的额度又又又重置了。</title>
-      <link>https://www.v2ex.com/t/1196614</link>
-      <guid>v2ex-1196614</guid>
-      <pubDate>Sun, 08 Mar 2026 05:34:07 GMT</pubDate>
-      <description>&lt;p&gt;即上次 openai 出现 bug 重置额度后，今天又重置了额度。官方人员说是因为有用户反馈额度消耗过快，所以重置了。&lt;/p&gt;
-&lt;p&gt;切换 gpt-5.4 后，额度消耗真的很快，我以为是因为 5.4 输出快导致的，没想到很可能是一个 bug 。&lt;/p&gt;
-&lt;p&gt;这世界果然都是草台班子。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/XauPiqa.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -175,6 +164,17 @@
       <guid>v2ex-1196587</guid>
       <pubDate>Sun, 08 Mar 2026 02:33:14 GMT</pubDate>
       <description>&lt;p&gt;昨晚更新完 MacOS 26.3.1 之后，发现 Clash 似乎不能用了，有同样问题的朋友吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Codex 的额度又又又重置了。</title>
+      <link>https://www.v2ex.com/t/1196614</link>
+      <guid>v2ex-1196614</guid>
+      <pubDate>Sun, 08 Mar 2026 05:34:07 GMT</pubDate>
+      <description>&lt;p&gt;即上次 openai 出现 bug 重置额度后，今天又重置了额度。官方人员说是因为有用户反馈额度消耗过快，所以重置了。&lt;/p&gt;
+&lt;p&gt;切换 gpt-5.4 后，额度消耗真的很快，我以为是因为 5.4 输出快导致的，没想到很可能是一个 bug 。&lt;/p&gt;
+&lt;p&gt;这世界果然都是草台班子。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/XauPiqa.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
