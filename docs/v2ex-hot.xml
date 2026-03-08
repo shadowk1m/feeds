@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Mar 2026 16:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 16:49:08 GMT</lastBuildDate>
     <item>
       <title>再次倡议：放弃使用 imgur !</title>
       <link>https://www.v2ex.com/t/1196619</link>
@@ -72,6 +72,13 @@
       <description>我部署在 ubuntu ，好像也没做什么</description>
     </item>
     <item>
+      <title>无聊重复的游戏还会有人玩？</title>
+      <link>https://www.v2ex.com/t/1196655</link>
+      <guid>v2ex-1196655</guid>
+      <pubDate>Sun, 08 Mar 2026 10:44:22 GMT</pubDate>
+      <description>tg 上有人说了这句话：&lt;br /&gt;“你如果玩过原神这些国产游戏，就知道每天的一些固定任务是很无聊重复的，雇人打这些有市场的”&lt;br /&gt;而且好像支持的人还不少，你在多大程度上同意这句话？&lt;br /&gt;&lt;br /&gt;我的看法是，这话本身就矛盾吧，他自己都说重复无聊，那不就直接不玩了吗？难道一家饭店难吃，你还要找人代吃？？？</description>
+    </item>
+    <item>
       <title>和香港同事开会总是听不太懂粤语，我用 Tauri 搓了个实时字幕工具 (macOS/Win)</title>
       <link>https://www.v2ex.com/t/1196574</link>
       <guid>v2ex-1196574</guid>
@@ -131,13 +138,6 @@
 </description>
     </item>
     <item>
-      <title>无聊重复的游戏还会有人玩？</title>
-      <link>https://www.v2ex.com/t/1196655</link>
-      <guid>v2ex-1196655</guid>
-      <pubDate>Sun, 08 Mar 2026 10:44:22 GMT</pubDate>
-      <description>tg 上有人说了这句话：&lt;br /&gt;“你如果玩过原神这些国产游戏，就知道每天的一些固定任务是很无聊重复的，雇人打这些有市场的”&lt;br /&gt;而且好像支持的人还不少，你在多大程度上同意这句话？&lt;br /&gt;&lt;br /&gt;我的看法是，这话本身就矛盾吧，他自己都说重复无聊，那不就直接不玩了吗？难道一家饭店难吃，你还要找人代吃？？？</description>
-    </item>
-    <item>
       <title>昨晚升级完 26.3.1 以后🪜用不了了？</title>
       <link>https://www.v2ex.com/t/1196587</link>
       <guid>v2ex-1196587</guid>
@@ -146,11 +146,15 @@
 </description>
     </item>
     <item>
-      <title>今年买手机是否继续用国补，国补到底合适不，有坑吗</title>
-      <link>https://www.v2ex.com/t/1196591</link>
-      <guid>v2ex-1196591</guid>
-      <pubDate>Sun, 08 Mar 2026 02:58:47 GMT</pubDate>
-      <description>今年买手机是否继续用国补，国补到底合适不，有坑吗</description>
+      <title>Codex 的额度又又又重置了。</title>
+      <link>https://www.v2ex.com/t/1196614</link>
+      <guid>v2ex-1196614</guid>
+      <pubDate>Sun, 08 Mar 2026 05:34:07 GMT</pubDate>
+      <description>&lt;p&gt;即上次 openai 出现 bug 重置额度后，今天又重置了额度。官方人员说是因为有用户反馈额度消耗过快，所以重置了。&lt;/p&gt;
+&lt;p&gt;切换 gpt-5.4 后，额度消耗真的很快，我以为是因为 5.4 输出快导致的，没想到很可能是一个 bug 。&lt;/p&gt;
+&lt;p&gt;这世界果然都是草台班子。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/XauPiqa.png&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
