@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Mar 2026 09:49:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 10:15:08 GMT</lastBuildDate>
     <item>
       <title>AI 编写 SKILL：通过 m-team 搜索并下载电影（ps：发邀）</title>
       <link>https://www.v2ex.com/t/1196541</link>
@@ -32,6 +32,37 @@
 </description>
     </item>
     <item>
+      <title>相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？</title>
+      <link>https://www.v2ex.com/t/1196592</link>
+      <guid>v2ex-1196592</guid>
+      <pubDate>Sun, 08 Mar 2026 03:01:06 GMT</pubDate>
+      <description>感觉 cursor 一点价格优势都没有了</description>
+    </item>
+    <item>
+      <title>AI 让折腾变得更容易并且快乐了（Vim 和 Linux ）</title>
+      <link>https://www.v2ex.com/t/1196595</link>
+      <guid>v2ex-1196595</guid>
+      <pubDate>Sun, 08 Mar 2026 03:20:25 GMT</pubDate>
+      <description>&lt;p&gt;以前折腾过 vim ，一方面是因为装 b ，一方面是因为好玩，花很多时间去折腾 Youcompleteme ，后来尝试 spf13 ，搞来搞去最后觉得没意思，浪费了太多时间最后的效果也不好，bug 多多，就用了 Windows ，上了 JetBrains 全家桶。随后的几年期间，我觉得“最好的 vim 是活在各种 IDE 里的 vim”。&lt;/p&gt;
+&lt;h1&gt;从 JetBrains 到 Vim&lt;/h1&gt;
+&lt;p&gt;那时候还是学生，所以可以免费获得全家桶的学生版。后来进入互联网公司工作期间主力用过一两年 Ubuntu 工作，最后换了 MacOS 一直用到现在，但是使用 JetBrains 的习惯一直保持下来。工作的五年间用了一段时间免费的版本和从朋友那里“借用”的版本，最后索性直接买。一开始是买的国区，后面发现日区便宜就转到日区。这么买了三四年，从公司离职之后 GAP 了两年多一直到现在，这两年之间我还一直保持续费。到了 2025 年秋季的时候，我还在试着用里面的 Junie 写点代码，确实也是给了第一次 vibe coding 的我一点点震撼。&lt;/p&gt;
+&lt;p&gt;进入 2026 之后，coding agent 爆发，又找到了可以稳定续订 ChatGPT 的路子。我计算了一下，觉得如果未来是 coding agent 写大部分代码，手动编辑少量代码的时代，那么我对 IDE 的需求其实没有那么重了，不如就把用来买 IDE 的钱拿去买 OpenAI 的服务，再借助 AI 花上一两天，打磨出一个趁手的轻量化编辑工具。&lt;/p&gt;
+&lt;p&gt;于是我就这样做了。用一两天，借助 ChatBot 帮我搜集资料，根据我的需求让它告诉我我需要什么样的 nvim 插件。最后折腾出来一个我自己完全可用、好用的配置，为此还浅浅学会了一点点 Lua 。不得不说，折腾还是很快乐的，跟 AI 一起折腾那是双倍的快乐。&lt;/p&gt;
+&lt;p&gt;新生的 nvim config 很好用，bug 不多，快捷键完全是我自己设计的。&lt;/p&gt;
+&lt;p&gt;这个 repo 比过去花上一两周折腾出来的东西更好用，想要什么功能都有插件，并且可以借助 AI 的能力轻易让插件跑起来。遇到问题不需要读大量文档就能解决，过去需要折腾 10 个插件才能达到的“好用阈值”，到现在并没有降低，还是 10 个，但是过去折腾 10 个插件需要 10 天的话，现在一天半天就能搞定。这种折腾就对耐心和体力的要求大大降低了。&lt;/p&gt;
+&lt;p&gt;当然这种体验不仅仅是 AI 带来的，更多的是技术的发展。在十多年之前，vscode 还没有（或者刚刚）发布，没有 LSP ，没有 treesitter ，补全用的是 ctags ，Youcompleteme 发明了 ycmd + 各种语言的补全后端，C++ 用 clang ，Java 用 Eclim （其实就是用了 Eclipse 的补全能力）。&lt;/p&gt;
+&lt;p&gt;自己折腾的也比“拿来主义”的 spf13-like 的 config repo 好用。人家的毕竟是人家的，每个人在工作了那么多年之后都有一套自己趁手的工作流和工具，很难改。自己从零搞一个就是更加符合自己的习惯。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（可能可以搞一个帮助新手初始化 nvim 的 skills ，让新手更加快地搞定自己的 nvim?）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;Archlinux&lt;/h1&gt;
+&lt;p&gt;除了折腾 nvim 之外，我还第一次成功地自己安装了 Archlinux 。&lt;/p&gt;
+&lt;p&gt;上一次我自己安装 Arch 以失败告终，那是 2014 年左右吧，在折腾了好久，所有的步骤都执行完毕了之后，无论如何都进不去系统。过了好久之后才知道正好是我安装的当时，Archlinux 做了一个变更，把某个系统级目录（类似 /usr/bin ，具体是什么记不清了）移动了一个位置，导致所有使用那个版本的镜像的新装用户都会挂掉。已经折腾了那么久又遇到那么离谱的事情，这给我当时幼小的心灵带来了巨大的伤害，于是转向了 Ubuntu 。&lt;/p&gt;
+&lt;p&gt;如果这个事情放到现在，我应该不会倒在这一步。因为可能过去跑完所有安装流程需要研究一两天，现在用 AI 只需要几个小时，等到遇到难题的时候，还剩有充足的精力去解决这些问题。&lt;/p&gt;
+&lt;p&gt;本文全程没有用 AI ，很久没有输出这么大段的文字了。最近找工作不顺利，写点东西缓解一下压力，感谢各位观看。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>注册 telegram 的实体卡，用那个国家比较好</title>
       <link>https://www.v2ex.com/t/1196586</link>
       <guid>v2ex-1196586</guid>
@@ -39,13 +70,6 @@
       <description>&lt;p&gt;1
 如题，需要注册一个 telegram 长期使用，用那个国家卡比较好？麻烦各位大屌告知一下&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？</title>
-      <link>https://www.v2ex.com/t/1196592</link>
-      <guid>v2ex-1196592</guid>
-      <pubDate>Sun, 08 Mar 2026 03:01:06 GMT</pubDate>
-      <description>感觉 cursor 一点价格优势都没有了</description>
     </item>
     <item>
       <title>寻找量化交易爱好者，一起做点有意思的事</title>
@@ -76,27 +100,14 @@
 </description>
     </item>
     <item>
-      <title>AI 让折腾变得更容易并且快乐了（Vim 和 Linux ）</title>
-      <link>https://www.v2ex.com/t/1196595</link>
-      <guid>v2ex-1196595</guid>
-      <pubDate>Sun, 08 Mar 2026 03:20:25 GMT</pubDate>
-      <description>&lt;p&gt;以前折腾过 vim ，一方面是因为装 b ，一方面是因为好玩，花很多时间去折腾 Youcompleteme ，后来尝试 spf13 ，搞来搞去最后觉得没意思，浪费了太多时间最后的效果也不好，bug 多多，就用了 Windows ，上了 JetBrains 全家桶。随后的几年期间，我觉得“最好的 vim 是活在各种 IDE 里的 vim”。&lt;/p&gt;
-&lt;h1&gt;从 JetBrains 到 Vim&lt;/h1&gt;
-&lt;p&gt;那时候还是学生，所以可以免费获得全家桶的学生版。后来进入互联网公司工作期间主力用过一两年 Ubuntu 工作，最后换了 MacOS 一直用到现在，但是使用 JetBrains 的习惯一直保持下来。工作的五年间用了一段时间免费的版本和从朋友那里“借用”的版本，最后索性直接买。一开始是买的国区，后面发现日区便宜就转到日区。这么买了三四年，从公司离职之后 GAP 了两年多一直到现在，这两年之间我还一直保持续费。到了 2025 年秋季的时候，我还在试着用里面的 Junie 写点代码，确实也是给了第一次 vibe coding 的我一点点震撼。&lt;/p&gt;
-&lt;p&gt;进入 2026 之后，coding agent 爆发，又找到了可以稳定续订 ChatGPT 的路子。我计算了一下，觉得如果未来是 coding agent 写大部分代码，手动编辑少量代码的时代，那么我对 IDE 的需求其实没有那么重了，不如就把用来买 IDE 的钱拿去买 OpenAI 的服务，再借助 AI 花上一两天，打磨出一个趁手的轻量化编辑工具。&lt;/p&gt;
-&lt;p&gt;于是我就这样做了。用一两天，借助 ChatBot 帮我搜集资料，根据我的需求让它告诉我我需要什么样的 nvim 插件。最后折腾出来一个我自己完全可用、好用的配置，为此还浅浅学会了一点点 Lua 。不得不说，折腾还是很快乐的，跟 AI 一起折腾那是双倍的快乐。&lt;/p&gt;
-&lt;p&gt;新生的 nvim config 很好用，bug 不多，快捷键完全是我自己设计的。&lt;/p&gt;
-&lt;p&gt;这个 repo 比过去花上一两周折腾出来的东西更好用，想要什么功能都有插件，并且可以借助 AI 的能力轻易让插件跑起来。遇到问题不需要读大量文档就能解决，过去需要折腾 10 个插件才能达到的“好用阈值”，到现在并没有降低，还是 10 个，但是过去折腾 10 个插件需要 10 天的话，现在一天半天就能搞定。这种折腾就对耐心和体力的要求大大降低了。&lt;/p&gt;
-&lt;p&gt;当然这种体验不仅仅是 AI 带来的，更多的是技术的发展。在十多年之前，vscode 还没有（或者刚刚）发布，没有 LSP ，没有 treesitter ，补全用的是 ctags ，Youcompleteme 发明了 ycmd + 各种语言的补全后端，C++ 用 clang ，Java 用 Eclim （其实就是用了 Eclipse 的补全能力）。&lt;/p&gt;
-&lt;p&gt;自己折腾的也比“拿来主义”的 spf13-like 的 config repo 好用。人家的毕竟是人家的，每个人在工作了那么多年之后都有一套自己趁手的工作流和工具，很难改。自己从零搞一个就是更加符合自己的习惯。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;（可能可以搞一个帮助新手初始化 nvim 的 skills ，让新手更加快地搞定自己的 nvim?）&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1&gt;Archlinux&lt;/h1&gt;
-&lt;p&gt;除了折腾 nvim 之外，我还第一次成功地自己安装了 Archlinux 。&lt;/p&gt;
-&lt;p&gt;上一次我自己安装 Arch 以失败告终，那是 2014 年左右吧，在折腾了好久，所有的步骤都执行完毕了之后，无论如何都进不去系统。过了好久之后才知道正好是我安装的当时，Archlinux 做了一个变更，把某个系统级目录（类似 /usr/bin ，具体是什么记不清了）移动了一个位置，导致所有使用那个版本的镜像的新装用户都会挂掉。已经折腾了那么久又遇到那么离谱的事情，这给我当时幼小的心灵带来了巨大的伤害，于是转向了 Ubuntu 。&lt;/p&gt;
-&lt;p&gt;如果这个事情放到现在，我应该不会倒在这一步。因为可能过去跑完所有安装流程需要研究一两天，现在用 AI 只需要几个小时，等到遇到难题的时候，还剩有充足的精力去解决这些问题。&lt;/p&gt;
-&lt;p&gt;本文全程没有用 AI ，很久没有输出这么大段的文字了。最近找工作不顺利，写点东西缓解一下压力，感谢各位观看。&lt;/p&gt;
+      <title>Codex 的额度又又又重置了。</title>
+      <link>https://www.v2ex.com/t/1196614</link>
+      <guid>v2ex-1196614</guid>
+      <pubDate>Sun, 08 Mar 2026 05:34:07 GMT</pubDate>
+      <description>&lt;p&gt;即上次 openai 出现 bug 重置额度后，今天又重置了额度。官方人员说是因为有用户反馈额度消耗过快，所以重置了。&lt;/p&gt;
+&lt;p&gt;切换 gpt-5.4 后，额度消耗真的很快，我以为是因为 5.4 输出快导致的，没想到很可能是一个 bug 。&lt;/p&gt;
+&lt;p&gt;这世界果然都是草台班子。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/XauPiqa.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -164,17 +175,6 @@
       <guid>v2ex-1196587</guid>
       <pubDate>Sun, 08 Mar 2026 02:33:14 GMT</pubDate>
       <description>&lt;p&gt;昨晚更新完 MacOS 26.3.1 之后，发现 Clash 似乎不能用了，有同样问题的朋友吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Codex 的额度又又又重置了。</title>
-      <link>https://www.v2ex.com/t/1196614</link>
-      <guid>v2ex-1196614</guid>
-      <pubDate>Sun, 08 Mar 2026 05:34:07 GMT</pubDate>
-      <description>&lt;p&gt;即上次 openai 出现 bug 重置额度后，今天又重置了额度。官方人员说是因为有用户反馈额度消耗过快，所以重置了。&lt;/p&gt;
-&lt;p&gt;切换 gpt-5.4 后，额度消耗真的很快，我以为是因为 5.4 输出快导致的，没想到很可能是一个 bug 。&lt;/p&gt;
-&lt;p&gt;这世界果然都是草台班子。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/XauPiqa.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
