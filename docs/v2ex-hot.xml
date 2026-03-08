@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Mar 2026 03:40:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 05:04:57 GMT</lastBuildDate>
     <item>
       <title>很多人不看好 macbook neo,大胆预测一波会卖爆</title>
       <link>https://www.v2ex.com/t/1196496</link>
@@ -29,13 +29,6 @@
 &lt;h2&gt;综上所述&lt;/h2&gt;
 &lt;p&gt;在 2800-3500 元 的价格区间内，这款设备将成为非专业软件用户、Office 办公族以及“颜值党”的首选，尤其是广大文科女生。对于身边的数码小白，我也会毫不犹豫地推荐这款产品。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>claude code 使用哪家国内 api 靠谱</title>
-      <link>https://www.v2ex.com/t/1196478</link>
-      <guid>v2ex-1196478</guid>
-      <pubDate>Sat, 07 Mar 2026 03:52:02 GMT</pubDate>
-      <description>之前一直使用 google play 订阅 claude code ，已经习惯了 claude code 的使用方式，但是最近已经连续被封了三四个账号了，不想再折腾了，打算直接用国内的编程套餐了，看了一圈，好像大家对 GLM5 的评价稍好，但是最近 glm 的编程套餐已经限购了，一直买不到，大家还有其他曲线救国的方式么？</description>
     </item>
     <item>
       <title>AI 编写 SKILL：通过 m-team 搜索并下载电影（ps：发邀）</title>
@@ -88,13 +81,6 @@ apache
 </description>
     </item>
     <item>
-      <title>现在真的有成功的 vibe coding 出地 app 或程序吗</title>
-      <link>https://www.v2ex.com/t/1196481</link>
-      <guid>v2ex-1196481</guid>
-      <pubDate>Sat, 07 Mar 2026 03:59:58 GMT</pubDate>
-      <description>所谓成功可定义为被广泛使用或是有可观收入。&lt;br /&gt;在个人维度上的效率提升是否真的在推动社会进步？</description>
-    </item>
-    <item>
       <title>魔都电信端口映射数量限制</title>
       <link>https://www.v2ex.com/t/1196485</link>
       <guid>v2ex-1196485</guid>
@@ -102,13 +88,11 @@ apache
       <description>以前是 fttr 1000M 的，端口映射可以设置 30+ 都没问题&lt;br /&gt;&lt;br /&gt;不知道什么时候开始添加端口映射一直显示失败，后来测试发现是只被最多允许加 8 9 个端口了，再加就是失败。&lt;br /&gt;&lt;br /&gt;这种时候不能换设备 换套餐 不然会刷掉所有端口映射&lt;br /&gt;&lt;br /&gt;想来咨询下有其他办法么。 要了超级密码，设置 DMZ 但是点击保存是无法保存进去的</description>
     </item>
     <item>
-      <title>避雷，魅影从 1.1 开始断断续续，问客服就是马上修复，老牌机场也不过如此，慎入吧</title>
-      <link>https://www.v2ex.com/t/1196479</link>
-      <guid>v2ex-1196479</guid>
-      <pubDate>Sat, 07 Mar 2026 03:55:34 GMT</pubDate>
-      <description>&lt;p&gt;之前一直都正常，从今年 1 月开始就不能稳定使用，问就是被攻击了，马上修复、即将重新上线。客观事实是作为付费者根本没有持续正常使用过几天，本着习惯还是 1 月下正常续费了，实际上魅影绝对不算便宜的，也确实拥有良好的过往，但是持续 2 个月的故障常态真的失去耐心了，寻求退款就开始装蒜。所以啊，天下乌鸦一般黑，现在只能当喂狗了，又重新买了别家，后来者慎入吧。&lt;/p&gt;
-&lt;p&gt;就我现在的经验，多买几家分散流量，这样不至于押宝一家认倒霉。&lt;/p&gt;
-</description>
+      <title>家里的网络设计问题，脑子要炸了</title>
+      <link>https://www.v2ex.com/t/1196577</link>
+      <guid>v2ex-1196577</guid>
+      <pubDate>Sun, 08 Mar 2026 01:27:03 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/YhVwqha.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/YhVwqha.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; 家里的网络如图所示。&lt;br /&gt; 0.电信宽带 2000M 。&lt;br /&gt; 1.电信给的 fttr 主路由没有 2.5G 口，光下联的 fttr 子路由上有 2.5G 口和一个 itv 口。&lt;br /&gt; 2.光猫到客厅，墙里只埋了一个网线。光猫到主卧，也是一个网线。&lt;br /&gt; 3.需要在客厅看 itv ，故调整了一下光猫后台和客厅的华硕路由器，实现了 itv 插在路由器上看 itv 的需求。（其中一个路由器必须放在客厅，否则客厅信号差）&lt;br /&gt; &lt;br /&gt; 问题：&lt;br /&gt; 1.由于客厅路由器需要接 itv ，只能设置为主路由模式，设置成 ap 模式就无法看 itv 了，所以目前这俩路由器无法 aimesh 。&lt;br /&gt; 2.由于 fttr 主路由没有 2.5G 口，加上客厅需要看 itv ，把光猫的 itv 通过 vlan 绑定了一下，无法映射到子路由上，所以客厅的路由器只有千兆。&lt;br /&gt; &lt;br /&gt; 需求：&lt;br /&gt; 1.俩华硕路由器能组网，不论是 aimesh 还是 ap 模式都可以。&lt;br /&gt; 2.可能要能看 itv 。&lt;br /&gt; 3.路由器连 2.5G 口跑满 2000M 宽带。&lt;br /&gt; &lt;br /&gt; 求各位大佬指点一下，有没有解决办法 orz</description>
     </item>
     <item>
       <title>如何看 apple tv 官方的 F1 直播呀</title>
@@ -123,6 +107,47 @@ apache
       <guid>v2ex-1196503</guid>
       <pubDate>Sat, 07 Mar 2026 07:01:30 GMT</pubDate>
       <description>小象超市和盒马鲜生哪个便宜？</description>
+    </item>
+    <item>
+      <title>寻找量化交易爱好者，一起做点有意思的事</title>
+      <link>https://www.v2ex.com/t/1196543</link>
+      <guid>v2ex-1196543</guid>
+      <pubDate>Sat, 07 Mar 2026 13:35:02 GMT</pubDate>
+      <description>&lt;p&gt;我自己写了个趋势跟踪策略，回测年化还可以，就想能不能扩展下思路，所以有了这个平台。&lt;/p&gt;
+&lt;p&gt;Meepo Quant： &lt;a href=&quot;https://meepoquant.com/&quot; rel=&quot;nofollow&quot;&gt;https://meepoquant.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;数据源获取逻辑已开源： &lt;a href=&quot;https://github.com/finvfamily/finshare&quot; rel=&quot;nofollow&quot;&gt;https://github.com/finvfamily/finshare&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;可以自动切换多数据源而数据格式统一。&lt;/p&gt;
+&lt;p&gt;已上线运行，模式是平台产生交易信号(交易期间)，用户参考决定是否交易（模拟盘）。&lt;/p&gt;
+&lt;p&gt;做了平台但感觉一个人玩没意思，想找几个志同道合的人一起交流。&lt;/p&gt;
+&lt;p&gt;希望你：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自己也做量化，或对量化交易感兴趣&lt;/li&gt;
+&lt;li&gt;会看策略、会做回测&lt;/li&gt;
+&lt;li&gt;愿意一起讨论、一起优化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一起做什么：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;交流量化策略&lt;/li&gt;
+&lt;li&gt;测试平台功能、提建议&lt;/li&gt;
+&lt;li&gt;也许将来可以一起做更多有趣的事&lt;/li&gt;
+&lt;li&gt;平台内功能免费使用，私信要激活码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;说明：平时有主业工作，回复可能不及时，看到一定会回。&lt;/p&gt;
+&lt;p&gt;有兴趣的加微信：ddgotrich&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>为什么 MacOS 这个脑残 bug 这么多版本都没有修复?</title>
+      <link>https://www.v2ex.com/t/1196517</link>
+      <guid>v2ex-1196517</guid>
+      <pubDate>Sat, 07 Mar 2026 08:54:06 GMT</pubDate>
+      <description>&lt;p&gt;BUG 的原因就是本地网络授权. &lt;/p&gt;
+&lt;p&gt;自从 MacOS 加入这个功能以来就一直有问题, 经常会导致浏览器突然无法访问局域网.&lt;/p&gt;
+&lt;p&gt;有时候重启浏览器可以触发重新授权, 有时候多次重启都不行, 又不能手动添加授权, 急需访问内网的时候急的直打转.&lt;/p&gt;
+&lt;p&gt;设置里面留了一堆授权记录, 也不能删除, 这个 bug 真的是够脑残的. 而且我也根本不需要局域网访问授权, 完全就是一个负作用的功能.&lt;/p&gt;
+&lt;p&gt;当前系统版本已经是最新的 26.3, 我主要使用 Edge 和 Chrome, 都有问题.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/X5nDsPS.png&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>刚安装的 OpenClaw 被莫名奇妙流入了广告</title>
