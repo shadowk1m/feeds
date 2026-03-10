@@ -4,106 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 10 Mar 2026 16:45:06 GMT</lastBuildDate>
-    <item>
-      <title>[API 中转站] APIPool - 纯血 Claude Opus 4.6 + GPT-5.4 API 中转站，支持 codex、cc，支持小龙虾🦞｜注册送 10 美元 + 抽奖 400 美元</title>
-      <link>https://www.v2ex.com/t/1196998</link>
-      <guid>v2ex-1196998</guid>
-      <pubDate>Mon, 09 Mar 2026 17:08:14 GMT</pubDate>
-      <description>&lt;p&gt;官网地址： &lt;a href=&quot;https://apipool.dev&quot; rel=&quot;nofollow&quot;&gt;https://apipool.dev&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 当前支持模型&lt;/h2&gt;
-&lt;h3&gt;Claude 系列（官方 Max 号池）&lt;/h3&gt;
-&lt;p&gt;💡 1x 倍率（限制 Claude Code 客户端）
-💡 1.3x 倍率（不限制客户端）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;claude-opus-4-6&lt;/li&gt;
-&lt;li&gt;claude-sonnet-4-6&lt;/li&gt;
-&lt;li&gt;以及 Claude 4.5 等各种模型&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;说明：&lt;/p&gt;
-&lt;p&gt;1 ）只有 Claude max 号池，不做 aws 逆向，不做 kiro 逆向。
-2 ）不限客户端比限制客户端贵，是因为不限制客户端，特征更明显，封号的概率高一些&lt;/p&gt;
-&lt;h3&gt;GPT 系列（ Codex Plus 号池）&lt;/h3&gt;
-&lt;p&gt;💡 0.4x 倍率（不限客户端）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GPT-5.4&lt;/li&gt;
-&lt;li&gt;GPT-5.3-Codex&lt;/li&gt;
-&lt;li&gt;以及官方 Codex 有的其它模型&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🎁 新用户福利&lt;/h2&gt;
-&lt;p&gt;🎉 V 站用户注册后回复本帖，直接赠送 10 美元余额。
-（非 V 站用户注册，可以加微信，送 5 美元余额）&lt;/p&gt;
-&lt;h2&gt;🎯 获取方式&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;在本帖回复你的用户 ID （个人信息页: &lt;a href=&quot;https://apipool.dev/profile&quot; rel=&quot;nofollow&quot;&gt;https://apipool.dev/profile&lt;/a&gt; 可查看），每天晚上我会集中添加&lt;/li&gt;
-&lt;li&gt;非 V 站用户，加微信（网站公告有），送 5 美元余额。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;🎰 抽奖（参考之前帖子惯例）&lt;/h2&gt;
-&lt;h3&gt;奖品&lt;/h3&gt;
-&lt;p&gt;100 美元 * 4&lt;/p&gt;
-&lt;h3&gt;抽奖时间&lt;/h3&gt;
-&lt;p&gt;2026 年 3 月 10 日 ～ 2026 年 3 月 13 日，每日 1 次，一共 4 次&lt;/p&gt;
-&lt;h3&gt;抽奖规则&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;取当日 &lt;strong&gt;A 股沪指收盘点位整数部分&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;对当日 23:59 前的楼层总数取模 + 1 （避免抽到第 0 层）&lt;/li&gt;
-&lt;li&gt;得到的楼层号即为中奖楼层&lt;/li&gt;
-&lt;li&gt;若抽到楼主楼层 → 自动顺延下一楼&lt;br/&gt;
-（若无下一楼则顺延上一楼）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;示例&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;沪指收盘：3500 点&lt;/li&gt;
-&lt;li&gt;参与人数：66 人&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;3500 % 66 + 1 = 3&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;👉 3 楼中奖&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;💰 API 站充值及费率说明&lt;/h2&gt;
-&lt;p&gt;充值汇率：1 元人民币 = 1 美元（充多少人民币，余额就增加多少美元）&lt;/p&gt;
-&lt;p&gt;API 调用费用按官方价格计算，每个分组有一个倍率系数：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;不同分组倍率&lt;/th&gt;
-&lt;th&gt;含义&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1.0&lt;/td&gt;
-&lt;td&gt;与官方价格一致（美元）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&amp;gt; 1.0&lt;/td&gt;
-&lt;td&gt;高于官方价格（美元）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&amp;lt; 1.0&lt;/td&gt;
-&lt;td&gt;低于官方价格（美元）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;实际平台扣费 = 官方价格 × 分组系数&lt;/p&gt;
-&lt;h2&gt;💬 题外话&lt;/h2&gt;
-&lt;h3&gt;为什么做 API 中转站？&lt;/h3&gt;
-&lt;p&gt;两个原因。&lt;/p&gt;
-&lt;p&gt;第一个是春节期间我封掉了 4 个 Claude 账号，两个 Max ，2 个 Pro ，我自认为自己已经算比较能折腾的了。如果连我都有困难的话，那相当多的人都会有 API 这个需求。&lt;/p&gt;
-&lt;p&gt;第二个原因就是随着 agent 的兴起，token 的消耗量大幅上升，我觉得这是一个比较不错的方向。&lt;/p&gt;
-&lt;h3&gt;如何保证 Claude Opus 4.6 满血无降智？&lt;/h3&gt;
-&lt;p&gt;我不能说具体原因，避免其他中转站进行伪造。只能做一些提示。&lt;/p&gt;
-&lt;p&gt;如果是 Opus 4.5 及之前的模型，还不好说，因为单纯依靠模型智商来判断，很不靠谱。模型 ID 这些都是可以通过提示词注入伪造的。&lt;/p&gt;
-&lt;p&gt;但是对于 Opus 4.6 ，是有很硬的证据来判断的，细节都藏在官方文档里。&lt;/p&gt;
-&lt;p&gt;我目前测试的各种 API 的 Claude Opus 4.6 里面，能通过的只有以下几种：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;官方 API&lt;/li&gt;
-&lt;li&gt;aws bedrock （非 aws 服务逆向，只有 aws bedrock 官方）&lt;/li&gt;
-&lt;li&gt;google vertex ai&lt;/li&gt;
-&lt;li&gt;openrouter （知名 API 聚合平台）&lt;/li&gt;
-&lt;li&gt;Claude Code Max 号池&lt;/li&gt;
-&lt;li&gt;反重力号池（关键特征符合，有些许瑕疵，智商没有问题）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;像 aws 服务逆向、kiro 逆向等，都无法通过关键特征校验。&lt;/p&gt;
-&lt;p&gt;我们使用的是 Max 号池，属于以上能通过校验的渠道之一。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Tue, 10 Mar 2026 17:38:23 GMT</lastBuildDate>
     <item>
       <title>亲戚找我爸借钱</title>
       <link>https://www.v2ex.com/t/1197006</link>
@@ -128,6 +29,13 @@
       <guid>v2ex-1197030</guid>
       <pubDate>Tue, 10 Mar 2026 01:37:54 GMT</pubDate>
       <description>1. 日产: 红色和灰色的老款车,龟速 &amp;amp; 并排,前面一辆车都没有都不走&lt;br /&gt;2. 本田: 白色轿车车型,相当低素质.扔垃圾,停通道出入口,无变道条件强行变道,红绿灯故意不走压后面的车.&lt;br /&gt;3. 理想: 选配转向灯, 停车随心所欲&lt;br /&gt;4. 路虎: 选配转向灯&amp;amp;后视镜,扔垃圾烟头&lt;br /&gt;5. 零跑: 少部分车子特别大的爱乱停&lt;br /&gt;6. Tesla: 大多正常,小部分选配转向灯.3 爱市区疯狂变道,旧款的 Y 喜欢高速起飞&lt;br /&gt;7. 问界: 大多正常,少部分车子特别大的爱乱停&lt;br /&gt;8. 半挂: 大部分很规矩,小部分爱强行变道,直接把车逼到其他车道&lt;br /&gt;9. 奔驰: SUV 车型,选配转向灯&amp;amp;后视镜&lt;br /&gt;10. 奥迪: 少部分开车很着急的样子&lt;br /&gt;&lt;br /&gt;全是体感,一次又一次的亲身经历.</description>
+    </item>
+    <item>
+      <title>杭州 5 年前端想转行了，大家觉得怎么样呢？</title>
+      <link>https://www.v2ex.com/t/1197028</link>
+      <guid>v2ex-1197028</guid>
+      <pubDate>Tue, 10 Mar 2026 01:32:45 GMT</pubDate>
+      <description>最近越来越不想当程序员了，写代码都感到一阵厌恶，刚好最近自己做自媒体搞起来了，全网粉丝破 80w+了，还在上涨期，有了另一份职业的支撑，我是越来越想转行了，真不再想继续在这代码世界转了。&lt;br /&gt;&lt;br /&gt;1 、先说说为什么入编程的坑吧：大学学的机械，大三 20 年疫情那会为了以后赚钱，努力在家学了半年，自学了前端就入行了，没有一丁点热爱，单纯就是为了赚钱。&lt;br /&gt;&lt;br /&gt;2 、开始 1-2 年那会还学点技术，现在 AI 出来了，我也几年没学技术了，越来越觉得没啥意思，与其花这 8 小时去换那点薪资（税前 16k ），不低了，我纠结也是纠结这 16k 的薪资，但仔细想想，与其在这里继续坐牢，不如去做一些能够提升自己，以及未来 AI 不能替代的东西（后面提到）。&lt;br /&gt;&lt;br /&gt;3 、未来做什么？&lt;br /&gt;&lt;br /&gt;3.1 、首先自媒体这行肯定继续做，这是我的保底（目前稳定 14k 左右），能够保证我饿不死，是我支撑我去做其他事情的基石。&lt;br /&gt;&lt;br /&gt;3.2 、去做假发主播。之前我本人一直都在戴假发，也认识杭州本地的一个假发实体店大老板，本来去年他就叫我去全职当主播的，那会因为没有副业不敢，现在有了，有底气了，就重新联系了他，如果他愿意给我机会，就算薪资减半（底薪+提成），我都愿意去。因为我个人脱发+戴假发的特点+我喜欢说话，这种独特性保证了 AI 无法替代我，我自己本身日常就街头卖艺了，不怕丢脸哈哈哈，感觉做主播还挺有意思的，真的很锻炼人。希望那个老板也能够给我一个机会。（ ps：以后别人问我干啥的，我就说我是假发主播，假发主播戴假发是不是很合理？？🤣）&lt;br /&gt;&lt;br /&gt;3.3 、如果不给我机会，那么我会尝试去做销售，即使是从零开始，也愿意，我是真心不想和机器、和 AI 打一辈子交道了（ ps：假发主播本质也算是销售的一种）&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;其实我想转行，也仅仅是有了自媒体这个兜底，如果没有自媒体，我是不敢去想的~&lt;br /&gt;&lt;br /&gt;大家觉得怎么样？</description>
     </item>
     <item>
       <title>ImgURL 图床 8 周年啦，送兑换码</title>
@@ -162,13 +70,6 @@ V2EX-DSIV98MAOMG
 </description>
     </item>
     <item>
-      <title>杭州 5 年前端想转行了，大家觉得怎么样呢？</title>
-      <link>https://www.v2ex.com/t/1197028</link>
-      <guid>v2ex-1197028</guid>
-      <pubDate>Tue, 10 Mar 2026 01:32:45 GMT</pubDate>
-      <description>最近越来越不想当程序员了，写代码都感到一阵厌恶，刚好最近自己做自媒体搞起来了，全网粉丝破 80w+了，还在上涨期，有了另一份职业的支撑，我是越来越想转行了，真不再想继续在这代码世界转了。&lt;br /&gt;&lt;br /&gt;1 、先说说为什么入编程的坑吧：大学学的机械，大三 20 年疫情那会为了以后赚钱，努力在家学了半年，自学了前端就入行了，没有一丁点热爱，单纯就是为了赚钱。&lt;br /&gt;&lt;br /&gt;2 、开始 1-2 年那会还学点技术，现在 AI 出来了，我也几年没学技术了，越来越觉得没啥意思，与其花这 8 小时去换那点薪资（税前 16k ），不低了，我纠结也是纠结这 16k 的薪资，但仔细想想，与其在这里继续坐牢，不如去做一些能够提升自己，以及未来 AI 不能替代的东西（后面提到）。&lt;br /&gt;&lt;br /&gt;3 、未来做什么？&lt;br /&gt;&lt;br /&gt;3.1 、首先自媒体这行肯定继续做，这是我的保底（目前稳定 14k 左右），能够保证我饿不死，是我支撑我去做其他事情的基石。&lt;br /&gt;&lt;br /&gt;3.2 、去做假发主播。之前我本人一直都在戴假发，也认识杭州本地的一个假发实体店大老板，本来去年他就叫我去全职当主播的，那会因为没有副业不敢，现在有了，有底气了，就重新联系了他，如果他愿意给我机会，就算薪资减半（底薪+提成），我都愿意去。因为我个人脱发+戴假发的特点+我喜欢说话，这种独特性保证了 AI 无法替代我，我自己本身日常就街头卖艺了，不怕丢脸哈哈哈，感觉做主播还挺有意思的，真的很锻炼人。希望那个老板也能够给我一个机会。（ ps：以后别人问我干啥的，我就说我是假发主播，假发主播戴假发是不是很合理？？🤣）&lt;br /&gt;&lt;br /&gt;3.3 、如果不给我机会，那么我会尝试去做销售，即使是从零开始，也愿意，我是真心不想和机器、和 AI 打一辈子交道了（ ps：假发主播本质也算是销售的一种）&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;其实我想转行，也仅仅是有了自媒体这个兜底，如果没有自媒体，我是不敢去想的~&lt;br /&gt;&lt;br /&gt;大家觉得怎么样？</description>
-    </item>
-    <item>
       <title>吐槽一下 DeepSeek 余额清空</title>
       <link>https://www.v2ex.com/t/1197048</link>
       <guid>v2ex-1197048</guid>
@@ -196,6 +97,50 @@ V2EX-DSIV98MAOMG
       <guid>v2ex-1197018</guid>
       <pubDate>Tue, 10 Mar 2026 01:12:47 GMT</pubDate>
       <description>&lt;p&gt;去年十月搞了个邀请链接，费劲吧啦写了 50 字小作文注册上了，没发过贴，然后有段时间没咋登，昨天想登上去看看，结果发现号已经没了。。。。。。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[API Hub] Chintao - 纯血 Claude Opus 4.6 + GPT5.3 中转站，支持 codex、cc 注册送 10 美元 + 抽奖 400 美元</title>
+      <link>https://www.v2ex.com/t/1197085</link>
+      <guid>v2ex-1197085</guid>
+      <pubDate>Tue, 10 Mar 2026 03:40:04 GMT</pubDate>
+      <description>&lt;h1&gt;AI 中转站使用指南&lt;/h1&gt;
+&lt;p&gt;官网地址：&lt;a href=&quot;https://chintao.cn&quot; rel=&quot;nofollow&quot;&gt;https://chintao.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;还在纠结海量 AI 工具不会用？苦恼众多 AI 中转站无从选择？又因白嫖使用不好意思咨询问题？
+仅需充值&lt;strong&gt;10 个馒头（ 20 刀额度）&lt;/strong&gt;，即可享受手把手教学，轻松上手 AI ，紧跟 AI 中转站潮流！&lt;/p&gt;
+&lt;p&gt;本站核心策略：专注保护新人 0 基础入门，体验丝般顺滑，无需担心因消费高低被区别对待。
+用户群：&lt;img alt=&quot;用户群&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/03/10/qftoowZR.png&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 支持模型&lt;/h2&gt;
+&lt;h3&gt;Claude 系列（官方 Max 号池）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;促销渠道：💡 0.9 倍率&lt;/li&gt;
+&lt;li&gt;正规渠道：💡 1.2x 倍率&lt;/li&gt;
+&lt;li&gt;适配模型：claude-opus-4-6 、claude-sonnet-4-6 、Claude 4.5 等全系列模型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;GPT5&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;倍率：💡 0.3x 倍率&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🎁 福利活动&lt;/h2&gt;
+&lt;h3&gt;评论送福利&lt;/h3&gt;
+&lt;p&gt;前 50 位回复 ID ，直接赠送&lt;strong&gt;10 刀&lt;/strong&gt;！&lt;/p&gt;
+&lt;h3&gt;幸运抽奖&lt;/h3&gt;
+&lt;h4&gt;奖品设置&lt;/h4&gt;
+&lt;p&gt;100 美元 × 4 份&lt;/p&gt;
+&lt;h4&gt;抽奖时间&lt;/h4&gt;
+&lt;p&gt;2026 年 3 月 10 日 ～ 2026 年 3 月 13 日
+每日 1 次，共计 4 次&lt;/p&gt;
+&lt;h4&gt;抽奖规则&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;提取当日&lt;strong&gt;贵州茅台&lt;/strong&gt;收盘点位的整数部分；&lt;/li&gt;
+&lt;li&gt;用该数字对当日 23:59 前的楼层总数取模，结果**+1**（规避 0 层），所得数字为中奖楼层；&lt;/li&gt;
+&lt;li&gt;若中奖楼层为楼主楼层，自动顺延至下一楼层；若无下一楼层，则顺延至上一楼层。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;计算示例&lt;/h4&gt;
+&lt;p&gt;茅台收盘点位：1400
+当日楼层总数：66
+计算：1400 % 66 + 1 = 22
+👉 中奖楼层：22 楼&lt;/p&gt;
 </description>
     </item>
   </channel>
