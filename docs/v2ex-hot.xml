@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 11 Mar 2026 03:35:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 05:06:37 GMT</lastBuildDate>
     <item>
       <title>兄弟们，我失恋了，攀枝花认识那个女孩子的情况有些复杂，求安慰！ QAQ</title>
       <link>https://www.v2ex.com/t/1197274</link>
@@ -65,50 +65,6 @@ V2EX-DSIV98MAOMG
 &lt;/ul&gt;
 &lt;h2&gt;版本对比与说明&lt;/h2&gt;
 &lt;p&gt;&lt;img alt=&quot;7fdbd2ef26cdedcc.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.rss.ink/imgs/2026/03/10/7fdbd2ef26cdedcc.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[API Hub] Chintao - 纯血 Claude Opus 4.6 + GPT5.3 中转站，支持 codex、cc 注册送 10 美元 + 抽奖 400 美元</title>
-      <link>https://www.v2ex.com/t/1197085</link>
-      <guid>v2ex-1197085</guid>
-      <pubDate>Tue, 10 Mar 2026 03:40:04 GMT</pubDate>
-      <description>&lt;h1&gt;AI 中转站使用指南&lt;/h1&gt;
-&lt;p&gt;官网地址：&lt;a href=&quot;https://chintao.cn&quot; rel=&quot;nofollow&quot;&gt;https://chintao.cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;还在纠结海量 AI 工具不会用？苦恼众多 AI 中转站无从选择？又因白嫖使用不好意思咨询问题？
-仅需充值&lt;strong&gt;10 个馒头（ 20 刀额度）&lt;/strong&gt;，即可享受手把手教学，轻松上手 AI ，紧跟 AI 中转站潮流！&lt;/p&gt;
-&lt;p&gt;本站核心策略：专注保护新人 0 基础入门，体验丝般顺滑，无需担心因消费高低被区别对待。
-用户群：&lt;img alt=&quot;用户群&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/03/10/qftoowZR.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 支持模型&lt;/h2&gt;
-&lt;h3&gt;Claude 系列（官方 Max 号池）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;促销渠道：💡 0.9 倍率&lt;/li&gt;
-&lt;li&gt;正规渠道：💡 1.2x 倍率&lt;/li&gt;
-&lt;li&gt;适配模型：claude-opus-4-6 、claude-sonnet-4-6 、Claude 4.5 等全系列模型&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;GPT5&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;倍率：💡 0.3x 倍率&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🎁 福利活动&lt;/h2&gt;
-&lt;h3&gt;评论送福利&lt;/h3&gt;
-&lt;p&gt;前 50 位回复 ID ，直接赠送&lt;strong&gt;10 刀&lt;/strong&gt;！&lt;/p&gt;
-&lt;h3&gt;幸运抽奖&lt;/h3&gt;
-&lt;h4&gt;奖品设置&lt;/h4&gt;
-&lt;p&gt;100 美元 × 4 份&lt;/p&gt;
-&lt;h4&gt;抽奖时间&lt;/h4&gt;
-&lt;p&gt;2026 年 3 月 10 日 ～ 2026 年 3 月 13 日
-每日 1 次，共计 4 次&lt;/p&gt;
-&lt;h4&gt;抽奖规则&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;提取当日&lt;strong&gt;贵州茅台&lt;/strong&gt;收盘点位的整数部分；&lt;/li&gt;
-&lt;li&gt;用该数字对当日 23:59 前的楼层总数取模，结果**+1**（规避 0 层），所得数字为中奖楼层；&lt;/li&gt;
-&lt;li&gt;若中奖楼层为楼主楼层，自动顺延至下一楼层；若无下一楼层，则顺延至上一楼层。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4&gt;计算示例&lt;/h4&gt;
-&lt;p&gt;茅台收盘点位：1400
-当日楼层总数：66
-计算：1400 % 66 + 1 = 22
-👉 中奖楼层：22 楼&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -281,11 +237,18 @@ df = fs.get_lhb()                     # 龙虎榜&lt;/p&gt;
       <description>1.一个人使用，数据存在本地，不需要开启同步功能&lt;br /&gt;&lt;br /&gt;2.如果需要多个家人共通记录，开启同步功能，数据传到云端，将邀请链接发给其他家人即可&lt;br /&gt;&lt;br /&gt;目前有很多小程序，也有类似功能，但是有的不能一家人共通记录，有的使用起来比较麻烦，有的需要看广告，于是就自己写了一个。&lt;br /&gt;&lt;br /&gt;有需要的朋友可以试下&lt;br /&gt;&lt;br /&gt;网址 &lt;a target=&quot;_blank&quot; href=&quot;https://baby.lusxh.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://baby.lusxh.com&lt;/a&gt;</description>
     </item>
     <item>
-      <title>朋友老婆在单位遇到可恶领导 如何是好</title>
-      <link>https://www.v2ex.com/t/1197087</link>
-      <guid>v2ex-1197087</guid>
-      <pubDate>Tue, 10 Mar 2026 03:42:53 GMT</pubDate>
-      <description>&lt;p&gt;朋友老婆在体制内边缘部门工作，去年调来一个上级正科，比她高一级，那个人学历低（初中？），家里有个亲戚在很远的外地当官（比较大的官还是）。平时把什么活都推给朋友老婆，只会说，没啥文化。然后朋友老婆也管不住手底下的人，使唤不动，就很痛苦。然后这个领导还经常三番五次的去上面告状（ ZZB)，给我朋友老婆扣帽子: 不听他话 不作为 不担当。请问大家这种情况该如何是好？（朋友老婆没啥关系，也没啥想法向上升职，甚至想降职） PS： 朋友就是那个我有一个朋友。&lt;/p&gt;
+      <title>为什么这次“龙虾🦞”能这么火？？各方面感觉都在往里面拱火儿。</title>
+      <link>https://www.v2ex.com/t/1197227</link>
+      <guid>v2ex-1197227</guid>
+      <pubDate>Tue, 10 Mar 2026 13:54:55 GMT</pubDate>
+      <description>看到有几个市里面的政策在出。&lt;br /&gt;云厂商在宣传一键部署和云电脑/云服务器。&lt;br /&gt;大模型厂商在出套餐卖 token 。&lt;br /&gt;公共平台热搜在涨。&lt;br /&gt;报道里有上门安装赚几十万这种新闻。&lt;br /&gt;公众号/知识星球/这些卖课的在取 UC 震惊体引流。&lt;br /&gt;&lt;br /&gt;这玩意儿在“合规性”和“生产力落地上”称得上这么大的阵仗吗。&lt;br /&gt;没有顶级的模型在后面撑着不就一滩泥巴吗。&lt;br /&gt;&lt;br /&gt;先不说 token 耗的多不多。&lt;br /&gt;真有拿免费的或者低价的类似 glm 这种模型的 api 干出正经活儿的吗。</description>
+    </item>
+    <item>
+      <title>公司开始裁员了, 因为 AI 太好用了</title>
+      <link>https://www.v2ex.com/t/1197294</link>
+      <guid>v2ex-1197294</guid>
+      <pubDate>Wed, 11 Mar 2026 01:36:06 GMT</pubDate>
+      <description>&lt;p&gt;今天开发 leader 不在, 把我叫过去开会, 测试 leader, 前端 leader 都在, 一进去就说要裁 10 人(现在开发加测试一共四十来个), 问我们能不能在足量 AI 额度的情况下，接手这些人的工作。&lt;/p&gt;
 </description>
     </item>
   </channel>
