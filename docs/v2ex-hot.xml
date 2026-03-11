@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 11 Mar 2026 07:58:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 08:40:35 GMT</lastBuildDate>
     <item>
       <title>兄弟们，我失恋了，攀枝花认识那个女孩子的情况有些复杂，求安慰！ QAQ</title>
       <link>https://www.v2ex.com/t/1197274</link>
@@ -149,62 +149,6 @@
 </description>
     </item>
     <item>
-      <title>分享一个完全免费的中国 A 股数据获取库</title>
-      <link>https://www.v2ex.com/t/1197162</link>
-      <guid>v2ex-1197162</guid>
-      <pubDate>Tue, 10 Mar 2026 08:00:14 GMT</pubDate>
-      <description>&lt;p&gt;大家好！今天想分享一个我开源的金融数据获取库 finshare ，完全免费，无需 API
-Key 。&lt;/p&gt;
-&lt;p&gt;GitHub: &lt;a href=&quot;https://github.com/finvfamily/finshare&quot; rel=&quot;nofollow&quot;&gt;https://github.com/finvfamily/finshare&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;finshare 源于我的项目： &lt;a href=&quot;https://meepoquant.com/&quot; rel=&quot;nofollow&quot;&gt;https://meepoquant.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;特性：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;完全免费：无需 API Key ，无调用次数限制&lt;/li&gt;
-&lt;li&gt;多数据源：东方财富、腾讯、新浪、通达信、BaoStock&lt;/li&gt;
-&lt;li&gt;自动故障切换：数据源失败时自动切换备用源&lt;/li&gt;
-&lt;li&gt;高性能：支持异步批量获取&lt;/li&gt;
-&lt;li&gt;内置缓存：减少重复请求&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;安装：
-pip install finshare&lt;/p&gt;
-&lt;p&gt;快速开始：
-import finshare as fs&lt;/p&gt;
-&lt;h1&gt;获取历史 K 线数据&lt;/h1&gt;
-&lt;p&gt;df = fs.get_historical_data(&#39;&lt;a href=&quot;http://000001.SZ&quot; rel=&quot;nofollow&quot;&gt;000001.SZ&lt;/a&gt;&#39;, start=&#39;2024-01-01&#39;, end=&#39;2024-12-31&#39;,
-adjust=&#39;qfq&#39;)&lt;/p&gt;
-&lt;h1&gt;获取实时快照&lt;/h1&gt;
-&lt;p&gt;snapshot = fs.get_snapshot_data(&#39;&lt;a href=&quot;http://000001.SZ&quot; rel=&quot;nofollow&quot;&gt;000001.SZ&lt;/a&gt;&#39;)&lt;/p&gt;
-&lt;h1&gt;财务数据&lt;/h1&gt;
-&lt;p&gt;df = fs.get_income(&#39;&lt;a href=&quot;http://000001.SZ&quot; rel=&quot;nofollow&quot;&gt;000001.SZ&lt;/a&gt;&#39;)  # 利润表&lt;/p&gt;
-&lt;h1&gt;特色数据&lt;/h1&gt;
-&lt;p&gt;df = fs.get_money_flow(&#39;&lt;a href=&quot;http://000001.SZ&quot; rel=&quot;nofollow&quot;&gt;000001.SZ&lt;/a&gt;&#39;)  # 资金流向
-df = fs.get_lhb()                     # 龙虎榜&lt;/p&gt;
-&lt;p&gt;征集想法：&lt;/p&gt;
-&lt;p&gt;我正在开发 finquant 开源量化交易框架，想收集大家的想法：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;你想要什么样的交易系统？&lt;/li&gt;
-&lt;li&gt;需要哪些功能？（回测、实盘、因子库、风控、实时交易等）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;欢迎加入 Discord 社群一起讨论： &lt;a href=&quot;https://discord.gg/XT5f8ZGB&quot; rel=&quot;nofollow&quot;&gt;https://discord.gg/XT5f8ZGB&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;也欢迎 Star 和 PR ！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Gemini 一直把我当作某乡党委书记该怎么办？</title>
-      <link>https://www.v2ex.com/t/1197190</link>
-      <guid>v2ex-1197190</guid>
-      <pubDate>Tue, 10 Mar 2026 09:59:01 GMT</pubDate>
-      <description>&lt;p&gt;不久之前我和 Gemini 讨论了关于作为一名乡党委书记的工作情况，大致如下：“小明是 XX 乡党委书记，他今天在工作中 xxxxx ，你作为一名客观公正的第三方，来评估下这件事会给他带来什么影响？” ，全程使用第三人称。&lt;/p&gt;
-&lt;p&gt;从那以后，Gemini 就把我当作了某乡党委书记，经常和它聊着聊着就蹦出来下面这一段话：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;你极其聪明、硬核且执行力惊人，但你正在让自己的“系统”超载。你的硬件（精力）和带宽（时间）无法同时支撑乡党委书记和顶级前端工程师的双线作战。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr/&gt;
-&lt;p&gt;我很是哭笑不得，尝试了很多方法，告诉它这段记忆是错误的，让它删除关于我是“某乡党委书记”的记忆，之间的那个会话我也翻出来删除了。&lt;/p&gt;
-&lt;p&gt;Gemini 答应的很好，声称自己会更新记忆，但是这段记忆并没有被修正。&lt;/p&gt;
-&lt;p&gt;大家有什么好的解决办法吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>codex+各种 skill，跑通了自动写需求+自动调试+自动修 bug+自动部署，很担心</title>
       <link>https://www.v2ex.com/t/1197259</link>
       <guid>v2ex-1197259</guid>
@@ -223,11 +167,19 @@ df = fs.get_lhb()                     # 龙虎榜&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>为什么这次“龙虾🦞”能这么火？？各方面感觉都在往里面拱火儿。</title>
-      <link>https://www.v2ex.com/t/1197227</link>
-      <guid>v2ex-1197227</guid>
-      <pubDate>Tue, 10 Mar 2026 13:54:55 GMT</pubDate>
-      <description>看到有几个市里面的政策在出。&lt;br /&gt;云厂商在宣传一键部署和云电脑/云服务器。&lt;br /&gt;大模型厂商在出套餐卖 token 。&lt;br /&gt;公共平台热搜在涨。&lt;br /&gt;报道里有上门安装赚几十万这种新闻。&lt;br /&gt;公众号/知识星球/这些卖课的在取 UC 震惊体引流。&lt;br /&gt;&lt;br /&gt;这玩意儿在“合规性”和“生产力落地上”称得上这么大的阵仗吗。&lt;br /&gt;没有顶级的模型在后面撑着不就一滩泥巴吗。&lt;br /&gt;&lt;br /&gt;先不说 token 耗的多不多。&lt;br /&gt;真有拿免费的或者低价的类似 glm 这种模型的 api 干出正经活儿的吗。</description>
+      <title>Gemini 一直把我当作某乡党委书记该怎么办？</title>
+      <link>https://www.v2ex.com/t/1197190</link>
+      <guid>v2ex-1197190</guid>
+      <pubDate>Tue, 10 Mar 2026 09:59:01 GMT</pubDate>
+      <description>&lt;p&gt;不久之前我和 Gemini 讨论了关于作为一名乡党委书记的工作情况，大致如下：“小明是 XX 乡党委书记，他今天在工作中 xxxxx ，你作为一名客观公正的第三方，来评估下这件事会给他带来什么影响？” ，全程使用第三人称。&lt;/p&gt;
+&lt;p&gt;从那以后，Gemini 就把我当作了某乡党委书记，经常和它聊着聊着就蹦出来下面这一段话：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;你极其聪明、硬核且执行力惊人，但你正在让自己的“系统”超载。你的硬件（精力）和带宽（时间）无法同时支撑乡党委书记和顶级前端工程师的双线作战。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr/&gt;
+&lt;p&gt;我很是哭笑不得，尝试了很多方法，告诉它这段记忆是错误的，让它删除关于我是“某乡党委书记”的记忆，之间的那个会话我也翻出来删除了。&lt;/p&gt;
+&lt;p&gt;Gemini 答应的很好，声称自己会更新记忆，但是这段记忆并没有被修正。&lt;/p&gt;
+&lt;p&gt;大家有什么好的解决办法吗？&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>ARC 浏览器大家还在用么？有啥替换的对象</title>
@@ -238,6 +190,21 @@ df = fs.get_lhb()                     # 龙虎榜&lt;/p&gt;
 大家有啥替换的对象么？
 试了下 Firefox 内核的 Zen Browser ，跟 ARC 是挺像的，就是挺多网页现在都不适配火狐了，小问题太多了，有点忍不了。&lt;/p&gt;
 &lt;p&gt;需要竖版的标签栏和左上角的常驻收藏的功能&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>为什么这次“龙虾🦞”能这么火？？各方面感觉都在往里面拱火儿。</title>
+      <link>https://www.v2ex.com/t/1197227</link>
+      <guid>v2ex-1197227</guid>
+      <pubDate>Tue, 10 Mar 2026 13:54:55 GMT</pubDate>
+      <description>看到有几个市里面的政策在出。&lt;br /&gt;云厂商在宣传一键部署和云电脑/云服务器。&lt;br /&gt;大模型厂商在出套餐卖 token 。&lt;br /&gt;公共平台热搜在涨。&lt;br /&gt;报道里有上门安装赚几十万这种新闻。&lt;br /&gt;公众号/知识星球/这些卖课的在取 UC 震惊体引流。&lt;br /&gt;&lt;br /&gt;这玩意儿在“合规性”和“生产力落地上”称得上这么大的阵仗吗。&lt;br /&gt;没有顶级的模型在后面撑着不就一滩泥巴吗。&lt;br /&gt;&lt;br /&gt;先不说 token 耗的多不多。&lt;br /&gt;真有拿免费的或者低价的类似 glm 这种模型的 api 干出正经活儿的吗。</description>
+    </item>
+    <item>
+      <title>macmini m4 丐版的价格是疯了么</title>
+      <link>https://www.v2ex.com/t/1197299</link>
+      <guid>v2ex-1197299</guid>
+      <pubDate>Wed, 11 Mar 2026 01:43:26 GMT</pubDate>
+      <description>&lt;p&gt;年前还能 2999 买到，现在疯狂涨价，全都被买来干 openclaw 去了。啥时候泡沫能灭，能让我买个便宜点的&lt;/p&gt;
 </description>
     </item>
   </channel>
