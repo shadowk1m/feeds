@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 11 Mar 2026 05:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 06:06:28 GMT</lastBuildDate>
     <item>
       <title>兄弟们，我失恋了，攀枝花认识那个女孩子的情况有些复杂，求安慰！ QAQ</title>
       <link>https://www.v2ex.com/t/1197274</link>
@@ -156,6 +156,13 @@ V2EX-DSIV98MAOMG
 </description>
     </item>
     <item>
+      <title>女儿出生了，写了一个记录孩子喝奶的小程序</title>
+      <link>https://www.v2ex.com/t/1197303</link>
+      <guid>v2ex-1197303</guid>
+      <pubDate>Wed, 11 Mar 2026 01:52:27 GMT</pubDate>
+      <description>1.一个人使用，数据存在本地，不需要开启同步功能&lt;br /&gt;&lt;br /&gt;2.如果需要多个家人共通记录，开启同步功能，数据传到云端，将邀请链接发给其他家人即可&lt;br /&gt;&lt;br /&gt;目前有很多小程序，也有类似功能，但是有的不能一家人共通记录，有的使用起来比较麻烦，有的需要看广告，于是就自己写了一个。&lt;br /&gt;&lt;br /&gt;有需要的朋友可以试下&lt;br /&gt;&lt;br /&gt;网址 &lt;a target=&quot;_blank&quot; href=&quot;https://baby.lusxh.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://baby.lusxh.com&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>分享一个完全免费的中国 A 股数据获取库</title>
       <link>https://www.v2ex.com/t/1197162</link>
       <guid>v2ex-1197162</guid>
@@ -212,6 +219,13 @@ df = fs.get_lhb()                     # 龙虎榜&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>为什么这次“龙虾🦞”能这么火？？各方面感觉都在往里面拱火儿。</title>
+      <link>https://www.v2ex.com/t/1197227</link>
+      <guid>v2ex-1197227</guid>
+      <pubDate>Tue, 10 Mar 2026 13:54:55 GMT</pubDate>
+      <description>看到有几个市里面的政策在出。&lt;br /&gt;云厂商在宣传一键部署和云电脑/云服务器。&lt;br /&gt;大模型厂商在出套餐卖 token 。&lt;br /&gt;公共平台热搜在涨。&lt;br /&gt;报道里有上门安装赚几十万这种新闻。&lt;br /&gt;公众号/知识星球/这些卖课的在取 UC 震惊体引流。&lt;br /&gt;&lt;br /&gt;这玩意儿在“合规性”和“生产力落地上”称得上这么大的阵仗吗。&lt;br /&gt;没有顶级的模型在后面撑着不就一滩泥巴吗。&lt;br /&gt;&lt;br /&gt;先不说 token 耗的多不多。&lt;br /&gt;真有拿免费的或者低价的类似 glm 这种模型的 api 干出正经活儿的吗。</description>
+    </item>
+    <item>
       <title>codex+各种 skill，跑通了自动写需求+自动调试+自动修 bug+自动部署，很担心</title>
       <link>https://www.v2ex.com/t/1197259</link>
       <guid>v2ex-1197259</guid>
@@ -228,20 +242,6 @@ df = fs.get_lhb()                     # 龙虎榜&lt;/p&gt;
 &lt;p&gt;唯一能做的就是早点睡觉，早上早点起床跑步 &lt;/p&gt;
 &lt;p&gt;（虽然晚上愁得睡不着）&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>女儿出生了，写了一个记录孩子喝奶的小程序</title>
-      <link>https://www.v2ex.com/t/1197303</link>
-      <guid>v2ex-1197303</guid>
-      <pubDate>Wed, 11 Mar 2026 01:52:27 GMT</pubDate>
-      <description>1.一个人使用，数据存在本地，不需要开启同步功能&lt;br /&gt;&lt;br /&gt;2.如果需要多个家人共通记录，开启同步功能，数据传到云端，将邀请链接发给其他家人即可&lt;br /&gt;&lt;br /&gt;目前有很多小程序，也有类似功能，但是有的不能一家人共通记录，有的使用起来比较麻烦，有的需要看广告，于是就自己写了一个。&lt;br /&gt;&lt;br /&gt;有需要的朋友可以试下&lt;br /&gt;&lt;br /&gt;网址 &lt;a target=&quot;_blank&quot; href=&quot;https://baby.lusxh.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://baby.lusxh.com&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>为什么这次“龙虾🦞”能这么火？？各方面感觉都在往里面拱火儿。</title>
-      <link>https://www.v2ex.com/t/1197227</link>
-      <guid>v2ex-1197227</guid>
-      <pubDate>Tue, 10 Mar 2026 13:54:55 GMT</pubDate>
-      <description>看到有几个市里面的政策在出。&lt;br /&gt;云厂商在宣传一键部署和云电脑/云服务器。&lt;br /&gt;大模型厂商在出套餐卖 token 。&lt;br /&gt;公共平台热搜在涨。&lt;br /&gt;报道里有上门安装赚几十万这种新闻。&lt;br /&gt;公众号/知识星球/这些卖课的在取 UC 震惊体引流。&lt;br /&gt;&lt;br /&gt;这玩意儿在“合规性”和“生产力落地上”称得上这么大的阵仗吗。&lt;br /&gt;没有顶级的模型在后面撑着不就一滩泥巴吗。&lt;br /&gt;&lt;br /&gt;先不说 token 耗的多不多。&lt;br /&gt;真有拿免费的或者低价的类似 glm 这种模型的 api 干出正经活儿的吗。</description>
     </item>
     <item>
       <title>公司开始裁员了, 因为 AI 太好用了</title>
