@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 11 Mar 2026 15:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 16:39:27 GMT</lastBuildDate>
     <item>
       <title>兄弟们，我失恋了，攀枝花认识那个女孩子的情况有些复杂，求安慰！ QAQ</title>
       <link>https://www.v2ex.com/t/1197274</link>
@@ -208,17 +208,15 @@
 </description>
     </item>
     <item>
-      <title>年后第一次逛 v2ex，天塌了</title>
-      <link>https://www.v2ex.com/t/1197334</link>
-      <guid>v2ex-1197334</guid>
-      <pubDate>Wed, 11 Mar 2026 03:02:39 GMT</pubDate>
-      <description>&lt;p&gt;工作越干越没意思，一秒都不想待&lt;br/&gt;
-想裸辞，就想来看看 v 友们最近发的贴&lt;br/&gt;
-看完后太夸张了&lt;br/&gt;
-去年还有些贴找到了好的下家&lt;br/&gt;
-今年一看这类贴查无此贴&lt;br/&gt;
-唱衰的居多&lt;br/&gt;
-形式这么严峻吗 v 友们来点好消息&lt;/p&gt;
+      <title>用中转站的千万要小心，已经有人在 tg 大量购买用户数据用于训练</title>
+      <link>https://www.v2ex.com/t/1197381</link>
+      <guid>v2ex-1197381</guid>
+      <pubDate>Wed, 11 Mar 2026 04:16:53 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Y9jY5NE.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;最近站点做起来了，有人已经开始找我买用户数据了，这个很容易闹成法律纠纷，我这边果断还是拒绝了&lt;/p&gt;
+&lt;p&gt;之前的帖子里面讲了，模型蒸馏产业链、以及用中转站的注意事项
+&lt;a href=&quot;https://cn.v2ex.com/t/1196011&quot; rel=&quot;nofollow&quot;&gt;https://cn.v2ex.com/t/1196011&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大家还是使用中转的时候 还是要多多留意，关键 key 跟私钥 一定要放置到 agent 不能读取的目录里面，防止被坏人利用&lt;/p&gt;
 </description>
     </item>
   </channel>
