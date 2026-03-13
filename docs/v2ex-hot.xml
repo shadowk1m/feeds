@@ -4,15 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 13 Mar 2026 07:14:51 GMT</lastBuildDate>
-    <item>
-      <title>v 友们，失业了， 35 岁了，没结婚，房子车子都有无债，存款 100 个，焦虑的不行，不知道能抗多久？催婚也是压力倍增了，后面怎么走？辛苦 v 友们给点路子</title>
-      <link>https://www.v2ex.com/t/1197767</link>
-      <guid>v2ex-1197767</guid>
-      <pubDate>Thu, 12 Mar 2026 07:57:20 GMT</pubDate>
-      <description>&lt;p&gt;刚失业，本来依靠工作今年相亲谈个对象结婚的，现在好了，失业了，这谁还敢给我介绍啊，现在也是焦虑的不行，年级又大了，又没对象，又失业，哎。。。。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 07:59:58 GMT</lastBuildDate>
     <item>
       <title>父母极限催生，快要断绝父子关系了</title>
       <link>https://www.v2ex.com/t/1197957</link>
@@ -45,19 +37,19 @@
 </description>
     </item>
     <item>
-      <title>去父留子，女性单身生育的视频我最近一周刷到 7-8 个视频了，你们怎么看</title>
-      <link>https://www.v2ex.com/t/1197880</link>
-      <guid>v2ex-1197880</guid>
-      <pubDate>Fri, 13 Mar 2026 00:30:04 GMT</pubDate>
-      <description>&lt;p&gt;还单身的哥们，有危机感吗？？？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>又到周五了，大家一般周五晚上怎么安排？</title>
       <link>https://www.v2ex.com/t/1197884</link>
       <guid>v2ex-1197884</guid>
       <pubDate>Fri, 13 Mar 2026 00:44:03 GMT</pubDate>
       <description>&lt;p&gt;又到周五了，大家一般周五晚上怎么安排？周五晚上应该是幸福感最高的一个晚上啊&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>去父留子，女性单身生育的视频我最近一周刷到 7-8 个视频了，你们怎么看</title>
+      <link>https://www.v2ex.com/t/1197880</link>
+      <guid>v2ex-1197880</guid>
+      <pubDate>Fri, 13 Mar 2026 00:30:04 GMT</pubDate>
+      <description>&lt;p&gt;还单身的哥们，有危机感吗？？？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -103,6 +95,14 @@
 </description>
     </item>
     <item>
+      <title>Clash Verge 你们用的系统代理还是 TUN 模式？</title>
+      <link>https://www.v2ex.com/t/1197934</link>
+      <guid>v2ex-1197934</guid>
+      <pubDate>Fri, 13 Mar 2026 02:14:53 GMT</pubDate>
+      <description>&lt;p&gt;主要场景是在公司，涉及一些内网，所以一直用系统代理，不过最近配置 claude code 需要走代理，查询后建议走 tun 模式就不用再增加配置了，你们都是怎么配置的？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>windows 代理软件更推荐哪个？</title>
       <link>https://www.v2ex.com/t/1197878</link>
       <guid>v2ex-1197878</guid>
@@ -110,12 +110,11 @@
       <description>Clash 、v2rayN 、clash-verge-rev</description>
     </item>
     <item>
-      <title>Clash Verge 你们用的系统代理还是 TUN 模式？</title>
-      <link>https://www.v2ex.com/t/1197934</link>
-      <guid>v2ex-1197934</guid>
-      <pubDate>Fri, 13 Mar 2026 02:14:53 GMT</pubDate>
-      <description>&lt;p&gt;主要场景是在公司，涉及一些内网，所以一直用系统代理，不过最近配置 claude code 需要走代理，查询后建议走 tun 模式就不用再增加配置了，你们都是怎么配置的？&lt;/p&gt;
-</description>
+      <title>有没有觉得，其实国内的程序员们最近几年，付费习惯培养起来了</title>
+      <link>https://www.v2ex.com/t/1197879</link>
+      <guid>v2ex-1197879</guid>
+      <pubDate>Fri, 13 Mar 2026 00:29:28 GMT</pubDate>
+      <description>刚入行的时候，我就从来没有遇到过身边的程序员 会付费购买效率工具的，所以我一直认为不要面向程序员做付费软件，但是这个观点，最近几年我彻底改变了。发现越来越多的国内程序员，愿意为有价值的，能提高效率的工具买单，所以，专注把产品做好就行。</description>
     </item>
   </channel>
 </rss>
