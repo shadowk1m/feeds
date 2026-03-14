@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 14 Mar 2026 11:43:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 12:27:36 GMT</lastBuildDate>
     <item>
       <title>人到中年前路迷茫</title>
       <link>https://www.v2ex.com/t/1198165</link>
@@ -68,6 +68,20 @@
 </description>
     </item>
     <item>
+      <title>兄弟们， M5 MBA 已上车，国补+教育优惠 6374 元，</title>
+      <link>https://www.v2ex.com/t/1198231</link>
+      <guid>v2ex-1198231</guid>
+      <pubDate>Sat, 14 Mar 2026 04:36:09 GMT</pubDate>
+      <description>M5 、16+512GB ，六千多应该很香吧&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/gjQdT6G.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/gjQdT6G.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>求教哪里能买到廉价而保真的 claude api</title>
+      <link>https://www.v2ex.com/t/1198239</link>
+      <guid>v2ex-1198239</guid>
+      <pubDate>Sat, 14 Mar 2026 05:19:43 GMT</pubDate>
+      <description>team 拼车 codex 用了一阵子了，想试试 claude4.6 看看谁才是王</description>
+    </item>
+    <item>
       <title>[送码] 写了个 macOS 状态栏信息聚合工具</title>
       <link>https://www.v2ex.com/t/1198169</link>
       <guid>v2ex-1198169</guid>
@@ -108,20 +122,6 @@ RL7RLLKXMN6Y
 </description>
     </item>
     <item>
-      <title>求教哪里能买到廉价而保真的 claude api</title>
-      <link>https://www.v2ex.com/t/1198239</link>
-      <guid>v2ex-1198239</guid>
-      <pubDate>Sat, 14 Mar 2026 05:19:43 GMT</pubDate>
-      <description>team 拼车 codex 用了一阵子了，想试试 claude4.6 看看谁才是王</description>
-    </item>
-    <item>
-      <title>兄弟们， M5 MBA 已上车，国补+教育优惠 6374 元，</title>
-      <link>https://www.v2ex.com/t/1198231</link>
-      <guid>v2ex-1198231</guid>
-      <pubDate>Sat, 14 Mar 2026 04:36:09 GMT</pubDate>
-      <description>M5 、16+512GB ，六千多应该很香吧&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/gjQdT6G.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/gjQdT6G.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>真不建议买中转 api</title>
       <link>https://www.v2ex.com/t/1198197</link>
       <guid>v2ex-1198197</guid>
@@ -130,11 +130,31 @@ RL7RLLKXMN6Y
 </description>
     </item>
     <item>
-      <title>vibe coding 让我对代码的掌控力越来越弱了</title>
-      <link>https://www.v2ex.com/t/1198170</link>
-      <guid>v2ex-1198170</guid>
-      <pubDate>Fri, 13 Mar 2026 15:02:47 GMT</pubDate>
-      <description>Claude Code 确实猛，堆功能的速度堪称咔咔咔。&lt;br /&gt;但随着功能越堆越多，代码越来越厚，对项目的掌控感却越来越薄。&lt;br /&gt;以前写 Java ，功能模块、业务逻辑基本了然于胸，调试过无数遍的代码，闭着眼睛都知道走哪条路径。&lt;br /&gt;现在变成了：给指令 → 看结果 → 不对再调。至于代码长什么样、逻辑怎么跑的，基本不管了。&lt;br /&gt;一个人扛客户端、管理后台、后端，代码量每天在涨，看代码的时间却越来越少。&lt;br /&gt;AI 越强，功能加得越快。功能加得越快，对代码就越陌生。&lt;br /&gt;这是一个让人又爽又不安的循环。&lt;br /&gt;&lt;br /&gt;现在都做不到耐心的看完一段代码逻辑，因为太多了</description>
+      <title>程序员过去 10 年工资变化回顾</title>
+      <link>https://www.v2ex.com/t/1198236</link>
+      <guid>v2ex-1198236</guid>
+      <pubDate>Sat, 14 Mar 2026 05:01:49 GMT</pubDate>
+      <description>&lt;p&gt;回不去的过去，只能忆往昔。&lt;/p&gt;
+&lt;p&gt;在当下经济不景气，收入降低情况下回顾下过去 10 年作为程序员收入的变化。&lt;/p&gt;
+&lt;p&gt;2014 年前情回顾，当时在 xxx 位置一家中美夫妻店公司上班，攒了一堆老同事做开发，里面员工有一些外国人，临近年底公司业务受限陆续开始裁员，预感不妙的我开始准备跑路，因为项目开发前胖子老美许诺开发完成给奖金，拍脑袋的项目最后缩减需求完成了，不提奖金的事情，我就坐不住了，问了技术负责人一个台湾人，胖子老美被迫每人发了 1000 块。我成了老板眼里坏人，大家普惠。当时工资 20k ，拿了一个月赔偿走人。&lt;/p&gt;
+&lt;p&gt;2015 年换到一家也是 xxx 位置附近公司，临近春节当时火速面了一堆公司，拿到 3-4 家 offer ，犹豫选择中，胖子老美找我谈话，同一天一气呵成，给一个月工资，多上一个月社保，电话通知下家同意 offer ，工资 24k 。&lt;/p&gt;
+&lt;p&gt;2016 年涨薪到 25.5k, 6 月开发组合并工作气氛变差，开始准备跑路，面了几家给出的 offer 居然工资下调，11 月接到老同事消息，他加入一家公司邀请我过去当负责人，位置 xxx ，32k 一月，这个涨幅是我没想到的。&lt;/p&gt;
+&lt;p&gt;2017 年组内裁员，换了负责人，每天日报周报的，我作为邀请来的技术负责人没必要撕破脸等裁员，只能主动跑路，5 月面试成功换到 xxx 位置公司上班，薪资 35k 。&lt;/p&gt;
+&lt;p&gt;2018 年涨薪到 35.5k ，当时区块链流行，公司紧急布局发币上所，最后赔的裤衩子不剩，年中开始裁员，拿钱走人，后面裁员的被欠钱。&lt;/p&gt;
+&lt;p&gt;2019 年入职 xxx 位置附近公司，薪资 36k ，然后行业崩塌，办公室搬迁，国庆节拿小礼包走人。&lt;/p&gt;
+&lt;p&gt;2020 年疫情第一年，入职 xxx 位置公司，28k ，年底团队切换引入自己人疯狂加班，团队散，拿 1.5 月年终，n+1 赔偿大礼包。&lt;/p&gt;
+&lt;p&gt;2021 年朋友介绍进入 xxx 位置公司，重回 36k 。疯狂加班从老板要求的 21 点，陆续有人卷到 22 点，23 点，24 点，凌晨 1 点。半年业务崩，裁员，小礼包。&lt;/p&gt;
+&lt;p&gt;2022 年换到一家 xxx 位置初创小公司，35k ，把我邀请的小伙伴开了后，我就时时刻刻想着跑路，在年中被居委会居家时候成功面试 xxx 位置公司。&lt;/p&gt;
+&lt;p&gt;2023 年重回 xxx 位置，28k ，传统行业自研系统想卖出去，年终失败裁员，发了一点年中奖，领大礼包走人。&lt;/p&gt;
+&lt;p&gt;2024 年 33k ，地址在 xxx 位置，web3 公司短暂半年，拓展钱包业务失败。&lt;/p&gt;
+&lt;p&gt;2025 东京 ...&lt;/p&gt;
+&lt;p&gt;去年的等合适时机写一篇长文。&lt;/p&gt;
+&lt;p&gt;国内黄金时间就是 17 年左右，疫情冻住三年。未来如何且行且珍惜。&lt;/p&gt;
+&lt;p&gt;还有一点规律  涨薪靠跳槽，攒钱靠礼包。&lt;/p&gt;
+&lt;p&gt;以上地点都是北京，这里隐去了地点名字。&lt;/p&gt;
+&lt;p&gt;全文在公众号文章： &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/onN1hGdbhFBie1TfNXOQlw&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/onN1hGdbhFBie1TfNXOQlw&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
