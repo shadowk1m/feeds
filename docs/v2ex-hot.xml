@@ -4,15 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 14 Mar 2026 06:02:44 GMT</lastBuildDate>
-    <item>
-      <title>xdm，民间是否真的有法术存在？</title>
-      <link>https://www.v2ex.com/t/1198043</link>
-      <guid>v2ex-1198043</guid>
-      <pubDate>Fri, 13 Mar 2026 06:50:50 GMT</pubDate>
-      <description>&lt;p&gt;昨天跟一个法师聊天，他说他有个法术可以长 jj ，名字叫狐仙增阴，我需要做的就是就是烧一杯热水，把热水倒碗里，然后再倒一杯冷水到热水里，再把地址和姓名发给他，拍一张照。他做法术后，兵马就会跑到碗里，我在喝掉。每四天做一次，一个月收费 12 张。听着挺神奇的，他还会很多其他法术，比如增高的&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 14 Mar 2026 07:08:29 GMT</lastBuildDate>
     <item>
       <title>极客湾恢复更新：小米笔记本 Pro 上手体验：性能表现优秀的超轻薄本！</title>
       <link>https://www.v2ex.com/t/1198056</link>
@@ -65,75 +57,6 @@
 </description>
     </item>
     <item>
-      <title>为什么放弃了 RAG？ RAG 的六大难题</title>
-      <link>https://www.v2ex.com/t/1198028</link>
-      <guid>v2ex-1198028</guid>
-      <pubDate>Fri, 13 Mar 2026 06:17:03 GMT</pubDate>
-      <description>&lt;p&gt;RAG 本身并不算是个坏主意。我们认真实践过，也确实在某些场景下跑通了。&lt;/p&gt;
-&lt;p&gt;去年，我们花了几个月搭过几套完整的 RAG 管线：三阶段处理（ Extract 、Chunk 、Embed ），三种搜索策略（ Vector 、BM25 、Hybrid + Reranking ）。从文本提取，粗排，到 Rerank 精排，每一个环节都认真做了一遍。工程量不小，技术上看着很漂亮。&lt;/p&gt;
-&lt;p&gt;但最终不得不承认一个事实：&lt;strong&gt;效果不好&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这篇文章不是要批判 RAG ，而是诚实地分享下我们具体遇到了哪些问题，以及我们后来怎么想的。以及，小广告。。。&lt;/p&gt;
-&lt;h2&gt;问题一：Embedding 模型两难&lt;/h2&gt;
-&lt;p&gt;做本地桌面应用，Embedding 模型的选择是一个没有好答案的问题。&lt;/p&gt;
-&lt;p&gt;小模型（参数量 &amp;lt; 500M ）在设备上跑得动，但语义理解质量不稳定——碰到专业文档、跨语言搜索、长文档时，召回率明显下降。大模型（ 1B+）质量好，但在普通用户的笔记本上内存和计算开销太大，后台常驻时对系统资源的占用让人无法接受。&lt;/p&gt;
-&lt;p&gt;桌面应用没有服务器可以依赖，只能在&quot;跑得动&quot;和&quot;效果好&quot;之间妥协。选了一个，另一个就要让步。这个困境在服务端应用里不存在，在本地优先应用里却是无解的。&lt;/p&gt;
-&lt;h2&gt;问题二：领域词汇不敏感&lt;/h2&gt;
-&lt;p&gt;向量语义搜索有一个根本性的弱点：它对专业术语的理解很差。&lt;/p&gt;
-&lt;p&gt;原因并不复杂。Embedding 模型是在通用语料上训练的，而代码函数名、医学缩写、法律条款、产品专名这些词在训练语料里出现频率低，在向量空间里的位置偏僻且不稳定。&lt;/p&gt;
-&lt;p&gt;实际表现是什么样的？用户搜 &quot;RLHF&quot;，不一定能找到写着 &quot;Reinforcement Learning from Human Feedback&quot; 的文档。搜&quot;LTV&quot;，可能匹配不到写着&quot;用户生命周期价值&quot;的分析报告。搜某个产品的型号，向量搜索根本抓不住这个词的准确语义。&lt;/p&gt;
-&lt;p&gt;这不是配置问题，不是参数调优能解决的，业内常见做法是做 embedding 模型的微调，但一般都是针对特定领域，只能在 ToB 场景中 work 。&lt;/p&gt;
-&lt;p&gt;Embedding 优势是模糊语义匹配，它的劣势恰好就是精确词汇匹配。而用户的真实需求往往是两者都要。&lt;/p&gt;
-&lt;h2&gt;问题三：Rerank 的代价&lt;/h2&gt;
-&lt;p&gt;召回率低和准确性差，是 RAG 管线的两个经典问题。针对准确性问题，业界的标准解法是引入 Rerank 模型做最后一步的精排。&lt;/p&gt;
-&lt;p&gt;我们也做了这一步，然后发现问题并没有被解决，只是被转移了。&lt;/p&gt;
-&lt;p&gt;Rerank 模型比 Embedding 模型更重、更慢。引入它之后，整个检索链路的延迟大幅上升，对本地应用来说尤其明显。更关键的是，Rerank 模型同样是在通用语料上训练的，同样存在专业词汇不敏感的问题——它只是在你已经召回的候选里重新排序，而不能召回那些一开始就没被捞到的文档。&lt;/p&gt;
-&lt;p&gt;最终结果：链路变慢了，架构变复杂了，根本问题还在。引入 Rerank 后，排序质量的提升非常有限，反而让 BM25 的作用几乎被掩盖了。&lt;/p&gt;
-&lt;h2&gt;问题四：碎片化的上下文&lt;/h2&gt;
-&lt;p&gt;分块（ Chunking ）是 RAG 最无法绕开的问题。&lt;/p&gt;
-&lt;p&gt;文档被切成固定大小的片段之后，每个片段都与它的前后文脱节了。AI 拿到的是一段从报告中间截取的内容，不知道这段话在哪个章节，不知道前一段在讲什么，也不知道后续有没有结论。&lt;/p&gt;
-&lt;p&gt;最糟糕的情况是：一个关键段落恰好横跨两个 Chunk 的边界，两个 Chunk 都能匹配到，但又各自不完整。AI 拿到的两份碎片都沾了边，却都缺少关键信息，最终给出一个似是而非的回答。&lt;/p&gt;
-&lt;p&gt;这个问题业内有很多补丁办法，比如：加大 Chunk 重叠，加入父 Chunk 检索，引入 Small-to-Big 策略……每个补丁都能在某个维度上改善问题，但也都会带来新的代价——更多 Token 、更复杂的管线、更难调试的行为、更加无法通用。&lt;/p&gt;
-&lt;p&gt;我们把这些补丁叠在一起，得到了一个复杂、易出错，但仍然不够好的系统。&lt;/p&gt;
-&lt;h2&gt;问题五：不同文档类型需要特殊处理&lt;/h2&gt;
-&lt;p&gt;通用分块策略对不同文档类型的效果差异极大，这是我们当初没有充分预判到的。&lt;/p&gt;
-&lt;p&gt;论文有 Abstract + 正文 + References 的结构；书籍有章节层级和页眉页脚；合同有条款编号和交叉引用；代码文档有 API 列表和示例代码；表格类文档的&quot;内容&quot;是列名和数据类型，而不是单元格里的文字……&lt;/p&gt;
-&lt;p&gt;固定窗口切块的策略不理解这些结构，分块点往往切在语义中间，把标题和它的正文分开，把条款编号和条款内容切断，把表头和数据分离。&lt;/p&gt;
-&lt;p&gt;每种文档类型其实需要完全不同的处理逻辑。但针对每种类型都写特化的解析器和分块策略，工作量巨大，维护成本也高——而且即使都做完了，效果也只是&quot;比通用策略好一些&quot;，仍然是碎片化的。&lt;/p&gt;
-&lt;h2&gt;问题六：Agent 使用体验极差&lt;/h2&gt;
-&lt;p&gt;以上五个问题单独看，每个都还在可接受的范围内，但当 RAG 被实际接入 AI Agent 使用的时候，所有问题叠加在一起，效果非常糟糕。&lt;/p&gt;
-&lt;p&gt;一个真实的场景：AI 在帮用户分析一份合同，调用 &lt;code&gt;search()&lt;/code&gt; 检索相关条款，拿到了 10 个 Chunk 。有几个 Chunk 沾了边，但信息不完整。AI 无法判断该怎么继续，只好调整关键词重新搜索。再拿到 10 个 Chunk ，还是不够。再换关键词，再搜一次。&lt;/p&gt;
-&lt;p&gt;每次搜索都是黑盒：AI 不知道换哪个关键词才能找到它需要的内容，不知道文档里到底有没有这个信息，不知道自己距离答案有多远。这种低效不是 Agent 能力不够，而是工具本身的设计不支持它做出合理的决策。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;RAG 在设计上是为&quot;用户直接提问&quot;场景优化的，不是为&quot;Agent 自主探索&quot;场景设计的。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;行业也在转移&lt;/h2&gt;
-&lt;p&gt;这些问题不是我们独有的，业内已经有明显的应对趋势：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;微软的 GraphRAG&lt;/strong&gt; 引入知识图谱来缓解上下文碎片化问题，把相关实体和关系显式地存储下来，而不是靠碎片拼凑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PageIndex&lt;/strong&gt; 不按固定大小切 Chunk ，而是以页面为单位建立索引，保留文档的自然边界。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Agentic RAG&lt;/strong&gt; 尝试让 AI 自主决定检索策略，而不是走固定管线——方向是对的，但在 RAG 架构上叠加 Agent 逻辑，复杂度随之翻倍。&lt;/p&gt;
-&lt;p&gt;最彻底的转向来自 Claude Code 和 Manus 。它们干脆放弃了 RAG ，回到最原始的方式：&lt;strong&gt;Glob + Grep + Read&lt;/strong&gt;。找文件、搜关键词、读内容。没有向量数据库，没有 Embedding 模型，没有 Chunk 管线。效果反而更好。&lt;/p&gt;
-&lt;p&gt;这让我们想明白了一件事：RAG 的设计假设是&quot;LLM 不够聪明，需要我们帮它把信息预处理好&quot;。这在 GPT-3.5 时代是合理的。但现在的 LLM 已经有能力自主使用工具完成多步检索任务——它们不需要预切碎片，它们需要的是&lt;strong&gt;线索&lt;/strong&gt;：文件在哪，结构是什么，然后它自己能决定读什么、读多少。&lt;/p&gt;
-&lt;h2&gt;我们的解法：Outline Index&lt;/h2&gt;
-&lt;p&gt;Glob + Grep + Read 对代码库很有效，但对用户文档行不通。代码库里 &lt;code&gt;src/services/auth.ts&lt;/code&gt; 这个路径本身就在告诉你这是认证服务；但 &lt;code&gt;2024 年度总结(修改版)(最终版).docx&lt;/code&gt;，路径告诉你的信息约等于零。更别提 PDF 和 Word 是二进制格式，grep 根本读不了。&lt;/p&gt;
-&lt;p&gt;所以我们的问题变成了：能不能给文档也建立一套等价的&quot;目录索引&quot;，让 AI 用 search → outline → read 的方式渐进式地翻阅你的文件？&lt;/p&gt;
-&lt;p&gt;我们把这套方案叫做 &lt;strong&gt;Outline Index&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;核心思想一句话：&lt;strong&gt;不替 AI 预切信息，而是给它一张地图。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;为每个文档建立一份结构化&quot;名片&quot;，包含文档的元数据（标题、作者、关键词、摘要）和结构大纲（章节标题、层级关系、行号范围）。AI 按三层路径访问文档：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;search&lt;/strong&gt;：搜索相关文档，返回文件列表和 Metadata ，约 50 tokens/文件&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;outline&lt;/strong&gt;：查看文档的结构地图，约 200-500 tokens/文件&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;read&lt;/strong&gt;：精准读取指定章节的原文，按需加载&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这与人类阅读的方式完全一致：先找书，看目录，翻到对应章节精读。AI 在这个过程中有完整的上下文，知道自己在文档的什么位置，可以决定&quot;再多看一点&quot;，也可以跨文档对比。&lt;/p&gt;
-&lt;p&gt;对比传统 RAG：同样的场景下，Outline Index 方式的 Token 消耗约 800-3400 ，AI 拿到有完整上下文的精确信息。传统 RAG 返回 10 个预切碎片，消耗 4000-6000 tokens ，AI 对文档结构一无所知。&lt;/p&gt;
-&lt;p&gt;另一个副产品：Embedding 的对象从原文 Chunk 变成了 Outline Index 本身。一个文档只需要一个向量。10000 个文档 ≈ 10000 个向量 ≈ 30MB 存储，检索速度也快得多。&lt;/p&gt;
-&lt;p&gt;关于领域词汇不敏感的问题，BM25 全文检索补上了这块短板。双路检索（ BM25 精确匹配 + 向量语义理解），通过 RRF 融合，不再需要 Rerank 模型。&lt;/p&gt;
-&lt;p&gt;最后，是广告时间：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Outline Index 是 &lt;a href=&quot;https://linkly.ai&quot; rel=&quot;nofollow&quot;&gt;Linkly AI&lt;/a&gt; 的核心技术。如果你对具体的实现细节感兴趣，可以阅读这篇技术文章：&lt;a href=&quot;https://linkly.ai/blog/zh/outlines-index-progressive-disclosure-for-ai-agents&quot; rel=&quot;nofollow&quot;&gt;Outlines Index：一种渐进式披露大量文档给 AI Agent 的方法&lt;/a&gt;。&lt;/li&gt;
-&lt;li&gt;如果你想体验实际效果，请下载 &lt;a href=&quot;https://linkly.ai&quot; rel=&quot;nofollow&quot;&gt;Linkly AI&lt;/a&gt;，以及 &lt;a href=&quot;https://linkly.ai/docs/en/use-cli&quot; rel=&quot;nofollow&quot;&gt;linkly-ai-cli&lt;/a&gt;，&lt;a href=&quot;https://linkly.ai/docs/en/integration/use-in-claude&quot; rel=&quot;nofollow&quot;&gt;接入到某个 AI 客户端&lt;/a&gt;中体验，实测效果远好于 RAG 。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
       <title>人到中年前路迷茫</title>
       <link>https://www.v2ex.com/t/1198165</link>
       <guid>v2ex-1198165</guid>
@@ -146,6 +69,25 @@
       <guid>v2ex-1198062</guid>
       <pubDate>Fri, 13 Mar 2026 07:23:48 GMT</pubDate>
       <description>&lt;p&gt;今年 30 岁，单身，马上要失业了，除了写代码没啥别的一技之长了，平常的爱好就是打打游戏看看剧。也不太想找工作了，不知道失业之后可以去干啥，现在很迷茫，老哥们有啥建议吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[抽奖] 为了庆祝 4 年的工具站重构上线&amp;开源，抽 1 个 chatgpt team 车位</title>
+      <link>https://www.v2ex.com/t/1198203</link>
+      <guid>v2ex-1198203</guid>
+      <pubDate>Sat, 14 Mar 2026 00:31:48 GMT</pubDate>
+      <description>&lt;h2&gt;前言&lt;/h2&gt;
+&lt;p&gt;为了庆祝自己的工具站在 4 年没动的情况用 codex 一天重构换了血，也顺便开源了一下 ， 所以抽个奖&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;开源地址： &lt;a href=&quot;https://github.com/Licoy/utils.fun&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Licoy/utils.fun&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在线使用：&lt;a href=&quot;https://utils.fun&quot; rel=&quot;nofollow&quot;&gt;https://utils.fun&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;（如果觉得站点不错可以给个小小的 star✨）&lt;/p&gt;
+&lt;h2&gt;抽奖内容&lt;/h2&gt;
+&lt;p&gt;chatgpt team 车位 * 1 ，1 个月无质保&lt;/p&gt;
+&lt;h2&gt;开奖时间&lt;/h2&gt;
+&lt;p&gt;北京时间 3 月 14 晚 23 点&lt;/p&gt;
+&lt;h2&gt;抽奖条件&lt;/h2&gt;
+&lt;p&gt;评论即可参与抽奖，多次评论只会最早一次的评论生效&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/Licoy/utils.fun/raw/main/docs/index.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -171,22 +113,72 @@
 </description>
     </item>
     <item>
-      <title>[抽奖] 为了庆祝 4 年的工具站重构上线&amp;开源，抽 1 个 chatgpt team 车位</title>
-      <link>https://www.v2ex.com/t/1198203</link>
-      <guid>v2ex-1198203</guid>
-      <pubDate>Sat, 14 Mar 2026 00:31:48 GMT</pubDate>
-      <description>&lt;h2&gt;前言&lt;/h2&gt;
-&lt;p&gt;为了庆祝自己的工具站在 4 年没动的情况用 codex 一天重构换了血，也顺便开源了一下 ， 所以抽个奖&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;开源地址： &lt;a href=&quot;https://github.com/Licoy/utils.fun&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Licoy/utils.fun&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在线使用：&lt;a href=&quot;https://utils.fun&quot; rel=&quot;nofollow&quot;&gt;https://utils.fun&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;（如果觉得站点不错可以给个小小的 star✨）&lt;/p&gt;
-&lt;h2&gt;抽奖内容&lt;/h2&gt;
-&lt;p&gt;chatgpt team 车位 * 1 ，1 个月无质保&lt;/p&gt;
-&lt;h2&gt;开奖时间&lt;/h2&gt;
-&lt;p&gt;北京时间 3 月 14 晚 23 点&lt;/p&gt;
-&lt;h2&gt;抽奖条件&lt;/h2&gt;
-&lt;p&gt;评论即可参与抽奖，多次评论只会最早一次的评论生效&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/Licoy/utils.fun/raw/main/docs/index.png&quot;/&gt;&lt;/p&gt;
+      <title>观热贴有感而发，如果可以的话，你想选择哪种人生？</title>
+      <link>https://www.v2ex.com/t/1198088</link>
+      <guid>v2ex-1198088</guid>
+      <pubDate>Fri, 13 Mar 2026 08:29:26 GMT</pubDate>
+      <description>&lt;p&gt;A：已婚，一线城市有房，背负百万以上房贷，工作 996 。&lt;/p&gt;
+&lt;p&gt;B：已婚，二线城市，有房，有几十万贷款，工作 965 。&lt;/p&gt;
+&lt;p&gt;C：未婚，三线城市有房，无贷款，存款百万 失业躺平。&lt;/p&gt;
+&lt;p&gt;1：有娃&lt;/p&gt;
+&lt;p&gt;2：无娃&lt;/p&gt;
+&lt;p&gt;我选 B 和 1&lt;/p&gt;
+&lt;p&gt;本来想把有娃没娃加在 ABC 上的，但是觉得不太合理,单独弄了一列。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[后续]三甲医院看抑郁症完整流程, 分享一下我的个人感受.</title>
+      <link>https://www.v2ex.com/t/1198059</link>
+      <guid>v2ex-1198059</guid>
+      <pubDate>Fri, 13 Mar 2026 07:18:12 GMT</pubDate>
+      <description>&lt;p&gt;我之前我分享了下想去三甲医院看一下心理 &lt;a href=&quot;/t/1195408&quot; rel=&quot;nofollow&quot;&gt;/t/1195408&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今天终于看完开出药了, 跟朋友们分享一下我的个人感受.&lt;/p&gt;
+&lt;h2&gt;时间安排&lt;/h2&gt;
+&lt;p&gt;累计请了三次半天的假&lt;/p&gt;
+&lt;p&gt;我去的比较热门的三甲,提前一周微信上挂号预约, 约到了周二下午 3 点,去的时候挂号加上排队检查没有做完(医院下午 1 点到 4 点半上班),其中一个检查排队约到了周四下午 1 点第 1 个.&lt;/p&gt;
+&lt;p&gt;第二次下午去检查很快就检查完了, 但我的主治医生下午不在, 医生提前开条子让我检查完后, 周三四五任意早上去指定医院,她给我加号.&lt;/p&gt;
+&lt;p&gt;第三次今天早上我 8 半到达医院见医生加号.&lt;/p&gt;
+&lt;h2&gt;具体流程&lt;/h2&gt;
+&lt;p&gt;中间做了 10 个各种测试题累计几百道,有一个明尼苏达多项人格测验测试题最多 399 道.
+最后的综合评价是&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;明显 PTSD
+中度强迫
+中度狂躁
+轻度双相
+轻度焦虑
+轻度抑郁
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;主要涉及心理的就是这个做题, 以及做完之后打印报告去见医生&lt;strong&gt;话疗&lt;/strong&gt;,由医生再填一份报告最后统一给主治医生去看.&lt;/p&gt;
+&lt;p&gt;除测试外还做了心电/脑电/问询等好几个健康检查, 我是都正常.&lt;/p&gt;
+&lt;h2&gt;花费及开药&lt;/h2&gt;
+&lt;p&gt;全程下来总共 1300 左右, 1000 的各项检查和最后不到 300 的药费. 不过全部都可以走医保.&lt;/p&gt;
+&lt;p&gt;医生给我开了 &lt;strong&gt;舒肝解郁胶囊&lt;/strong&gt; 和 &lt;strong&gt;草酸艾司西酞普兰片&lt;/strong&gt; 一个月的量, &lt;strong&gt;另外给我了建议让我学会把压力反馈给他人&lt;/strong&gt;~~&lt;/p&gt;
+&lt;h2&gt;插曲&lt;/h2&gt;
+&lt;p&gt;开完药医生推荐我去了解一下一个线下心理课程,就在诊室隔壁,进去就有俩护士打扮的人开始轻声细语的温柔的介绍一个 app.&lt;/p&gt;
+&lt;p&gt;每天上去打卡 15 分钟做心理锻炼课程, 还有一些各种可以花时间的自选游戏和心理建设课程,完了有专人建群了解你的状态.&lt;/p&gt;
+&lt;p&gt;一个疗程 3 个月 2000 块,&lt;strong&gt;但是走不了医保.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我就感觉我心理状态还行了.&lt;/strong&gt; 用不了医保, 这个钱我拿去健身房办个年卡我感觉更能抗抑郁~~, 虽然我已经办了年卡.&lt;/p&gt;
+&lt;h2&gt;个人感受&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;我最初去检查的目的其实很单纯, 就是搞一个病历, 拿来堵住亲戚朋友长辈的嘴.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我是知道我没病, 只是周围环境给的相亲催婚压力和快 30 岁的焦虑太大了.&lt;/p&gt;
+&lt;p&gt;在测试题的评价中, 我接触到了一个概念&lt;strong&gt;升华&lt;/strong&gt;. 满分 9 我该项得分是 9.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;升华是惟一真正成功的防御机制.升华用得越多,自我的生产性越强.
+升华是将无意识冲动转化为社会接受行为的渠道.
+例如,一位具有强烈嫉妒心的人,理智又不允许他表现出嫉妒别人的成就,于是他发奋学习,成绩超过别人,这对于社会和他本人具有积极意义.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我是比较感同身受的, 如果你们看我之前的帖子, 我从去年 7 月份开始减肥, &lt;strong&gt;截止年前共 6 个月我减肥了 50 斤&lt;/strong&gt;,体重从 170 减到了 120.&lt;/p&gt;
+&lt;p&gt;今年开始增肌, 准备在年底前变身超级赛亚人.&lt;/p&gt;
+&lt;p&gt;我是真的做到了少油少盐戒糖健康饮食, 修改作息, &lt;strong&gt;我现在连烟都戒了&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;论自律能力我是绝对自信的, 我知道我能, 我以前不想, 我现在在向他人证明我以前是不想.&lt;/p&gt;
+&lt;p&gt;现在吃了这个药, &lt;strong&gt;连酒也要戒了...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我知道我在变好,但是我不快乐.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;困扰我的始终是 30 岁年龄的 deadline 和催婚压力导致的内耗&lt;/strong&gt;, 我一边又一遍的反思自己, 我到底还有哪里做的不好, 我做错了什么, 为什么只有我要做到这种地步, 真的有必要吗?&lt;/p&gt;
+&lt;p&gt;朋友们都说我爱钻牛角尖, 在他们眼里我是同时满足&lt;strong&gt;没主见&lt;/strong&gt;和&lt;strong&gt;死犟&lt;/strong&gt;两个冲突条件的.&lt;/p&gt;
+&lt;p&gt;我知道这个世道有问题, 但是我不想同流合污. 纯爱无敌好吧, 休想让我去做舔狗或者渣男.&lt;/p&gt;
+&lt;p&gt;今天距离我 30 岁还有 68 天, 我依旧在对抗自己的焦虑. 祈祷着仿佛过了 30 岁自己会华丽转身变一个人, 人生会豁然开朗, 我已经开始变了.&lt;/p&gt;
+&lt;h1&gt;希望你们见证我的改变, 但愿我会幸福.&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/GzOfru2.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/q58ajRP.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
