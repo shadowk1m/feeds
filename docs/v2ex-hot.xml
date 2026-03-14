@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 14 Mar 2026 14:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 15:17:52 GMT</lastBuildDate>
     <item>
       <title>[抽奖] 为了庆祝 4 年的工具站重构上线&amp;开源，抽 1 个 chatgpt team 车位</title>
       <link>https://www.v2ex.com/t/1198203</link>
@@ -68,13 +68,6 @@
 </description>
     </item>
     <item>
-      <title>求教哪里能买到廉价而保真的 claude api</title>
-      <link>https://www.v2ex.com/t/1198239</link>
-      <guid>v2ex-1198239</guid>
-      <pubDate>Sat, 14 Mar 2026 05:19:43 GMT</pubDate>
-      <description>team 拼车 codex 用了一阵子了，想试试 claude4.6 看看谁才是王</description>
-    </item>
-    <item>
       <title>为什么好多名人播客的最后对年轻人的建议是爱护身体。是其他建议没有用吗。</title>
       <link>https://www.v2ex.com/t/1198279</link>
       <guid>v2ex-1198279</guid>
@@ -83,44 +76,11 @@
 </description>
     </item>
     <item>
-      <title>[送码] 写了个 macOS 状态栏信息聚合工具</title>
-      <link>https://www.v2ex.com/t/1198169</link>
-      <guid>v2ex-1198169</guid>
-      <pubDate>Fri, 13 Mar 2026 14:57:28 GMT</pubDate>
-      <description>&lt;p&gt;Glanceway 是一个轻量的 macOS 状态栏信息聚合工具，想解决的问题很简单：把你日常关注的各种信息源（ RSS 、V 站、新闻、股票等等）聚合到菜单栏，方便上班摸鱼。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/gYjn4hO.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;特性&lt;/h2&gt;
-&lt;h3&gt;RSS&lt;/h3&gt;
-&lt;p&gt;支持 RSS ，使用 RSSHub 就能覆盖大部份信息源了&lt;/p&gt;
-&lt;h3&gt;可编程信息源&lt;/h3&gt;
-&lt;p&gt;如果没有 RSS ，可以编写简单的 Javascript 脚本获取信息。&lt;a href=&quot;https://github.com/glanceway/glanceway-sources/blob/master/docs/js-source.md&quot; rel=&quot;nofollow&quot;&gt;开发文档&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;也可以先到官网看看是否已经有相关信息源插件 &lt;a href=&quot;https://glanceway.app/sources/&quot; rel=&quot;nofollow&quot;&gt;https://glanceway.app/sources/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;又或者添加 &lt;a href=&quot;https://github.com/glanceway/glanceway-sources/blob/master/glanceway-source.md&quot; rel=&quot;nofollow&quot;&gt;skill&lt;/a&gt; 给 Claude 让它生成你需要的信息源插件&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/gQE4tdJ.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;MCP&lt;/h3&gt;
-&lt;p&gt;Glanceway 公开了拉取信息的 API ，供其他应用使用。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Claude Desktop: 提供一键安装的 &lt;a href=&quot;https://github.com/glanceway/glanceway-mcp/releases/latest/download/glanceway.mcpb&quot; rel=&quot;nofollow&quot;&gt;.mcpb 文件&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Claude Code: &lt;code&gt;claude mcp add glanceway -- npx -y glanceway-mcp&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/lnCcJTP.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;其他&lt;/h3&gt;
-&lt;p&gt;这个工具本质上只是一个定时任务执行器，并且有个信息展示小窗口，所以能做的事情还有很多。比如用来监控服务状态、定时问你的 openClaw 是否有未完成的任务……&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/app/6758926117&quot; rel=&quot;nofollow&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://glanceway.app/&quot; rel=&quot;nofollow&quot;&gt;官网&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;深夜福利：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;9KYPL7R3EEYF
-7W64P694NEYE
-AP3T9KF7TYHY
-N9EA4N94M4HP
-ELPEATY37R74
-P344PNW9HJRY
-Y7RMFLNXK63P
-RNWMHHY3434E
-4MR9XM7M4KNN
-RL7RLLKXMN6Y
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <title>求教哪里能买到廉价而保真的 claude api</title>
+      <link>https://www.v2ex.com/t/1198239</link>
+      <guid>v2ex-1198239</guid>
+      <pubDate>Sat, 14 Mar 2026 05:19:43 GMT</pubDate>
+      <description>team 拼车 codex 用了一阵子了，想试试 claude4.6 看看谁才是王</description>
     </item>
     <item>
       <title>真不建议买中转 api</title>
@@ -155,6 +115,37 @@ RL7RLLKXMN6Y
 &lt;p&gt;以上地点都是北京，这里隐去了地点名字。&lt;/p&gt;
 &lt;p&gt;全文在公众号文章： &lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/onN1hGdbhFBie1TfNXOQlw&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/onN1hGdbhFBie1TfNXOQlw&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>三本计科毕业 gap 两年，还有机会入行吗</title>
+      <link>https://www.v2ex.com/t/1198256</link>
+      <guid>v2ex-1198256</guid>
+      <pubDate>Sat, 14 Mar 2026 06:50:37 GMT</pubDate>
+      <description>&lt;p&gt;之前毕业之后因为考研考公 gap 了两年，今年年后才开始找工作，才发现行情这么差，投了好几百个岗位，回复的大概只有百分之一，基本都是校招要应届，社招要经验，完全进不了面&lt;/p&gt;
+&lt;p&gt;先简单说一下背景&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;技术情况&lt;/strong&gt;
+因为没有正式项目经验，也没有实习经历，所以会的都是自己日常玩的一些东西，折腾过很多软硬件，都是现用现学，比较杂，没有精通的语言&lt;/p&gt;
+&lt;p&gt;大概接触过的东西：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;因为用浏览器，写过一些 &lt;strong&gt;扩展和脚本&lt;/strong&gt;，了解一些 &lt;strong&gt;前端基础&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;用安卓，自己手机长期 &lt;strong&gt;root&lt;/strong&gt;，接触过一点 &lt;strong&gt;逆向 / hook&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;玩 &lt;strong&gt;软路由&lt;/strong&gt;，所以对 TCP/IP 基础、代理相关、Docker 、Linux 、网站部署 比较熟&lt;/li&gt;
+&lt;li&gt;熟悉 &lt;strong&gt;数据结构、计算机组成原理、操作系统和计算机网络&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;其他情况&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;英语：读写还可以，词汇量大概 &lt;strong&gt;1 万左右&lt;/strong&gt;，口语较差&lt;/li&gt;
+&lt;li&gt;对 &lt;strong&gt;金融和衍生品&lt;/strong&gt; 比较熟，有丰富的交易经验，了解 web3&lt;/li&gt;
+&lt;li&gt;自认为学习能力还可以，上手新东西比较快，熟悉 Vibe Coding&lt;/li&gt;
+&lt;li&gt;接受 &lt;strong&gt;996&lt;/strong&gt;，全国可飞，没啥薪资要求，只求入行（别付费上班就行）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;想请教一下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;这种情况还有什么办法进入计算机相关行业，感觉因为 ai ，未来只会一年不如一年&lt;/li&gt;
+&lt;li&gt;要不要编一点工作经历，不然海投大部分简历关都过不了，看到 gap 全都不回&lt;/li&gt;
+&lt;li&gt;如果有合适的岗位或者需要人，也可以联系我（计算机相关）&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
   </channel>
