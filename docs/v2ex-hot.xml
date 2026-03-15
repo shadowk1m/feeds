@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Mar 2026 17:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 17:50:44 GMT</lastBuildDate>
     <item>
       <title>生活远比剧本精彩，被抓奸在床？？</title>
       <link>https://www.v2ex.com/t/1198358</link>
@@ -36,6 +36,13 @@
 </description>
     </item>
     <item>
+      <title>我用 cc 和 codex 用到现在，写前端感觉都是一坨啊</title>
+      <link>https://www.v2ex.com/t/1198405</link>
+      <guid>v2ex-1198405</guid>
+      <pubDate>Sun, 15 Mar 2026 08:02:11 GMT</pubDate>
+      <description>复杂一点的，在美感设计上，交互上。全是一坨。点也能点，看也能看，但是就是毫无美感的各种元素大大小小的不合时宜的堆在一起。&lt;br /&gt;&lt;br /&gt;这个得物怎么敢解散前端团队的。&lt;br /&gt;&lt;br /&gt;还是说我使用上有问题。</description>
+    </item>
+    <item>
       <title>nas 备份了照片，手机上直接删除吗</title>
       <link>https://www.v2ex.com/t/1198378</link>
       <guid>v2ex-1198378</guid>
@@ -43,13 +50,6 @@
       <description>&lt;p&gt;你们是怎么处理的，如果删除了，我又要使用怎么办，比如我微信又要发
 大佬们是怎么搞的&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>我用 cc 和 codex 用到现在，写前端感觉都是一坨啊</title>
-      <link>https://www.v2ex.com/t/1198405</link>
-      <guid>v2ex-1198405</guid>
-      <pubDate>Sun, 15 Mar 2026 08:02:11 GMT</pubDate>
-      <description>复杂一点的，在美感设计上，交互上。全是一坨。点也能点，看也能看，但是就是毫无美感的各种元素大大小小的不合时宜的堆在一起。&lt;br /&gt;&lt;br /&gt;这个得物怎么敢解散前端团队的。&lt;br /&gt;&lt;br /&gt;还是说我使用上有问题。</description>
     </item>
     <item>
       <title>小孩子最近喜欢看动画片，我希望可以控制他能看哪些动画片，腾讯视频之类的做不到，有解决方案吗？</title>
@@ -89,6 +89,15 @@ https://news.ycombinator.com/item?id=47368494
 </description>
     </item>
     <item>
+      <title>现在购买 ssl 证书最具性价比的方案是什么？</title>
+      <link>https://www.v2ex.com/t/1198387</link>
+      <guid>v2ex-1198387</guid>
+      <pubDate>Sun, 15 Mar 2026 06:18:12 GMT</pubDate>
+      <description>&lt;p&gt;给微信小程序后端域名用的&lt;/p&gt;
+&lt;p&gt;网上搜了一下，阿里云提供的都要一千多一年了，在别的地方能搜到便宜一点的都要大几百，到处都是推广和广告，我感觉这个价格有水分，咸鱼上面很多几十块一年的，不知道是否靠谱？感觉这玩意好不透明，水太深了，希望有经验的兄弟能解惑&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>被 API 账单逼疯，花 15k 买了个极摩客当本地 AI 工作站，写了篇排坑指南</title>
       <link>https://www.v2ex.com/t/1198439</link>
       <guid>v2ex-1198439</guid>
@@ -105,15 +114,6 @@ https://news.ycombinator.com/item?id=47368494
 &lt;p&gt;写了篇比较详细的保姆级本地部署方案，包括硬件选择逻辑、Ollama 实操和一些排坑点。&lt;/p&gt;
 &lt;p&gt;算是自己的一些折腾记录，欢迎各位大佬轻喷交流。&lt;/p&gt;
 &lt;p&gt;原文在公众号： &lt;a href=&quot;https://mp.weixin.qq.com/s/EpQ7UAsx-JHBcNZRmOB47g&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/EpQ7UAsx-JHBcNZRmOB47g&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>现在购买 ssl 证书最具性价比的方案是什么？</title>
-      <link>https://www.v2ex.com/t/1198387</link>
-      <guid>v2ex-1198387</guid>
-      <pubDate>Sun, 15 Mar 2026 06:18:12 GMT</pubDate>
-      <description>&lt;p&gt;给微信小程序后端域名用的&lt;/p&gt;
-&lt;p&gt;网上搜了一下，阿里云提供的都要一千多一年了，在别的地方能搜到便宜一点的都要大几百，到处都是推广和广告，我感觉这个价格有水分，咸鱼上面很多几十块一年的，不知道是否靠谱？感觉这玩意好不透明，水太深了，希望有经验的兄弟能解惑&lt;/p&gt;
 </description>
     </item>
   </channel>
