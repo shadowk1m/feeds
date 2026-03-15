@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Mar 2026 12:29:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 13:29:01 GMT</lastBuildDate>
     <item>
       <title>一次相亲经历，让我疑惑、怀疑自己</title>
       <link>https://www.v2ex.com/t/1198337</link>
@@ -100,6 +100,15 @@
       <description>宽带 1：西南电信 1000/50Mbps ，自 2022 年用到 2025 年，融合套餐 199/月&lt;br /&gt;宽带 2：杭州移动 300/?Mbps ，2025 年底用到 2026 年 2 月底，单宽带 25/月&lt;br /&gt;宽带 3：杭州联通 300/50Mbps ，2026 年 3 月开始用，融合套餐 39/月&lt;br /&gt;其它设备完全一样，改桥接并且分配了 IPv6 （ DNS 设置 v4 优先），外网访问黑名单模式，可以直接访问的走直连。&lt;br /&gt;背景是搬家回杭州，杭州的房子原本安装了移动的宽带，用了一段时间后感觉难以忍受，由于之后大部分时间不常住杭州所以打算换个稍微便宜点的，又需要流量卡，就选了联通。这里以宽带 1 为 base line （之前用的时间最长已经习惯）作为对比。&lt;br /&gt;日常访问国内网络体验最差的是移动，主要问题是某些情况下一部分连接会被限速。举个例子打开 B 站首页，移动大概率只能加载出前几个首页视频的缩略图，后面的加载会十分缓慢或者干脆加载不出来，播放视频完全无法加载的可能性最高（已经非常影响体验）。另外如果不在路由器上部署 DoT/DoH 能发现移动对部分国内域名也有 DNS 劫持行为。联通的体验和电信基本接近（如果忽略最大下行带宽差异），最大的问题是在访问某些只有电信服务器的网站时会出现图片加载缓慢，不知道是对方自己做了限制还是运营商对专线也有跨网 QOS ；但一个比较奇怪的问题是本地 DNS 服务器 log 显示联通到 DNSPod 的 DoT 会经常出错（每分钟 1-2 次，并非完全不可用），换成 AliDNS 走 DoH 则无此问题。&lt;br /&gt;游戏搬家后没怎么打，无法评价。&lt;br /&gt;外网体验方面体验最好的是联通，和电信相比能发现那种能连上但是传输巨慢或者连接不稳定的情况明显缓解，电信家宽没 CN2 的情况下国际互连确实糟糕。移动则比较奇怪，连接质量明显优于电信甚至有时候优于联通，但是完全不可访问的情况也明显增多。另外移动还能观察到存在主动阻断的行为（即使开启 DoT/DoH 依然存在），具体表现是某些网站第一次访问能部分/完全正常加载，但是很快就无法访问，过相当长一段时间内又恢复最初的状态，而且可以确定其它运营商访问正常。&lt;br /&gt;外部可访问性上移动最糟糕，虽然三家都下发了/60 的 IPv6 PD ，但移动即使改了桥接也无法入站，完全没法从外部访问。联通开通的时候经销商说可以开公网 IPv4 ，还发了已修改的截图，但是拿到的仍然是内网 IP ，和维装沟通后维装说可以申请但是过了一天了还没给出结果。电信找维装申请后就分配了公网 IPv4 （杭州似乎两年前甚至默认给），而且同网即使在省外访问质量也还可以（ TCP 某些时候 Q 到 20Mbps ，某些时候完全不 Q ）。&lt;br /&gt;后面大概要搬去深圳比较纠结选哪家，电信新装 1000M 融合套餐大概要 199(某些渠道似乎可以降到 169 ？）如果再加个公网 IP 每个月还要多 100 ，深圳联通似乎是 NAT4 而且不给改桥接也不提供公网 IPv4 但是便宜，这样下来每个月差价高达 200 多，为了公网 IPv4 多花 200 多好像有点贵了……</description>
     </item>
     <item>
+      <title>nas 备份了照片，手机上直接删除吗</title>
+      <link>https://www.v2ex.com/t/1198378</link>
+      <guid>v2ex-1198378</guid>
+      <pubDate>Sun, 15 Mar 2026 04:34:37 GMT</pubDate>
+      <description>&lt;p&gt;你们是怎么处理的，如果删除了，我又要使用怎么办，比如我微信又要发
+大佬们是怎么搞的&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>独立开发收款方案</title>
       <link>https://www.v2ex.com/t/1198323</link>
       <guid>v2ex-1198323</guid>
@@ -108,13 +117,11 @@
 </description>
     </item>
     <item>
-      <title>nas 备份了照片，手机上直接删除吗</title>
-      <link>https://www.v2ex.com/t/1198378</link>
-      <guid>v2ex-1198378</guid>
-      <pubDate>Sun, 15 Mar 2026 04:34:37 GMT</pubDate>
-      <description>&lt;p&gt;你们是怎么处理的，如果删除了，我又要使用怎么办，比如我微信又要发
-大佬们是怎么搞的&lt;/p&gt;
-</description>
+      <title>我用 cc 和 codex 用到现在，写前端感觉都是一坨啊</title>
+      <link>https://www.v2ex.com/t/1198405</link>
+      <guid>v2ex-1198405</guid>
+      <pubDate>Sun, 15 Mar 2026 08:02:11 GMT</pubDate>
+      <description>复杂一点的，在美感设计上，交互上。全是一坨。点也能点，看也能看，但是就是毫无美感的各种元素大大小小的不合时宜的堆在一起。&lt;br /&gt;&lt;br /&gt;这个得物怎么敢解散前端团队的。&lt;br /&gt;&lt;br /&gt;还是说我使用上有问题。</description>
     </item>
     <item>
       <title>做了一个自认为很有潜力的 AI 项目，大家看看有没有前途</title>
@@ -154,13 +161,6 @@ https://news.ycombinator.com/item?id=47368494
       <description>&lt;p&gt;我用 Opus 4.6 （先了解代码情况，再按需求）写一个文档，每次都到最后关头，就报错。。。&lt;/p&gt;
 &lt;p&gt;连续试了三次，现在 Claude 模型的额度还剩 2 格，额度是扣了，但事情是一件没给我干啊，才上年费 Pro 的车，感觉像吃了苍蝇&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>我用 cc 和 codex 用到现在，写前端感觉都是一坨啊</title>
-      <link>https://www.v2ex.com/t/1198405</link>
-      <guid>v2ex-1198405</guid>
-      <pubDate>Sun, 15 Mar 2026 08:02:11 GMT</pubDate>
-      <description>复杂一点的，在美感设计上，交互上。全是一坨。点也能点，看也能看，但是就是毫无美感的各种元素大大小小的不合时宜的堆在一起。&lt;br /&gt;&lt;br /&gt;这个得物怎么敢解散前端团队的。&lt;br /&gt;&lt;br /&gt;还是说我使用上有问题。</description>
     </item>
   </channel>
 </rss>
