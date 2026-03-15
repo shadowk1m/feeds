@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Mar 2026 18:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 19:02:31 GMT</lastBuildDate>
     <item>
       <title>生活远比剧本精彩，被抓奸在床？？</title>
       <link>https://www.v2ex.com/t/1198358</link>
@@ -52,21 +52,6 @@
 </description>
     </item>
     <item>
-      <title>做了一个自认为很有潜力的 AI 项目，大家看看有没有前途</title>
-      <link>https://www.v2ex.com/t/1198345</link>
-      <guid>v2ex-1198345</guid>
-      <pubDate>Sat, 14 Mar 2026 18:24:10 GMT</pubDate>
-      <description>&lt;p&gt;最近做了个开源项目：
-&lt;a href=&quot;https://github.com/golutra/golutra&quot; rel=&quot;nofollow&quot;&gt;https://github.com/golutra/golutra&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;简单说就是一个 多 Agent 的 AI 工作空间，可以组建一个 蜂群 Agent Team ，让不同 AI 协作工作，有点像搭一个 一人公司的 AI 团队，可以长期运行。自定义工作流（不同行业场景都能搭），工作流模板一键导入导出，适合长期运行的 AI 自动化系统。&lt;/p&gt;
-&lt;p&gt;后面准备做的：&lt;/p&gt;
-&lt;p&gt;实现真正的「 CEO Agent 」，一个月不用人监管，支持手机端远程操控，自动构建 Agent ，接入永久记忆层&lt;/p&gt;
-&lt;p&gt;还在早期阶段，想听听大家的评价：
-这个方向有没有前途？有没有什么建议？&lt;/p&gt;
-&lt;p&gt;欢迎评论 🙏&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>小孩子最近喜欢看动画片，我希望可以控制他能看哪些动画片，腾讯视频之类的做不到，有解决方案吗？</title>
       <link>https://www.v2ex.com/t/1198360</link>
       <guid>v2ex-1198360</guid>
@@ -98,22 +83,13 @@ https://news.ycombinator.com/item?id=47368494
 </description>
     </item>
     <item>
-      <title>被 API 账单逼疯，花 15k 买了个极摩客当本地 AI 工作站，写了篇排坑指南</title>
-      <link>https://www.v2ex.com/t/1198439</link>
-      <guid>v2ex-1198439</guid>
-      <pubDate>Sun, 15 Mar 2026 12:08:56 GMT</pubDate>
-      <description>&lt;p&gt;上个月稍微跑了点复杂的 Agent 任务，Token 哗哗掉，API 账单看着属实肉疼。关键是有些涉及到公司业务代码和私人数据的，传给云端 API 始终觉得不妥。&lt;/p&gt;
-&lt;p&gt;这周末一咬牙，弄了台极摩客 EVO-X2 （ 128G+2T ，¥14,999 ）。折腾了两天，彻底跑通了本地部署 DeepSeek （满血版）。&lt;/p&gt;
-&lt;p&gt;目前体验：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;统一内存真香：128GB 随便塞几十 B 的模型。&lt;/li&gt;
-&lt;li&gt;静音：小机器放桌上，24 小时跑没啥动静。&lt;/li&gt;
-&lt;li&gt;软件栈：最稳的还是 Ollama + Open WebUI ，简单粗暴。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;简单算笔账，按重度使用 API 的花销，这台机器一年出头就能回本。&lt;/p&gt;
-&lt;p&gt;写了篇比较详细的保姆级本地部署方案，包括硬件选择逻辑、Ollama 实操和一些排坑点。&lt;/p&gt;
-&lt;p&gt;算是自己的一些折腾记录，欢迎各位大佬轻喷交流。&lt;/p&gt;
-&lt;p&gt;原文在公众号： &lt;a href=&quot;https://mp.weixin.qq.com/s/EpQ7UAsx-JHBcNZRmOB47g&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/EpQ7UAsx-JHBcNZRmOB47g&lt;/a&gt;&lt;/p&gt;
+      <title>某国企工作人员直接电话告诉了我的密码</title>
+      <link>https://www.v2ex.com/t/1198441</link>
+      <guid>v2ex-1198441</guid>
+      <pubDate>Sun, 15 Mar 2026 12:20:28 GMT</pubDate>
+      <description>&lt;p&gt;这段时间找工作，投了江西某个国企的简历，然后前几天要考试确认，但是当时密码忘了，然后到网站上找回密码，结果报服务器内部异常，然后我就打电话联系网站负责人问一下要怎么办。&lt;/p&gt;
+&lt;p&gt;我原本以为他们是要告诉我维修要一段时间或者给我发密码重置链接。&lt;/p&gt;
+&lt;p&gt;万万没想到的是： 对方直接念出了我的密码！！！！！！给我尴尬的要死。当时我都傻了，第一次有人念我用了十几年的密码！&lt;/p&gt;
 </description>
     </item>
   </channel>
