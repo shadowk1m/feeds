@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Mar 2026 05:48:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 06:43:04 GMT</lastBuildDate>
     <item>
       <title>一次相亲经历，让我疑惑、怀疑自己</title>
       <link>https://www.v2ex.com/t/1198337</link>
@@ -157,98 +157,6 @@
 </description>
     </item>
     <item>
-      <title>告别人肉复制粘贴：我的 Claude + Codex 自动化协作工作流</title>
-      <link>https://www.v2ex.com/t/1198247</link>
-      <guid>v2ex-1198247</guid>
-      <pubDate>Sat, 14 Mar 2026 06:10:10 GMT</pubDate>
-      <description>&lt;h2&gt;背景介绍&lt;/h2&gt;
-&lt;p&gt;我日常喜欢用 Claude 来做项目的架构师，而 codex 做代码执行者，不管是 claude 还是 codex ，我对他们的生成的结果都保持怀疑态度的，但我又不可能去看一行行代码看，所以我日常使用的一个最常用方式，就是让他们互相进行 review 。&lt;/p&gt;
-&lt;p&gt;在这个过程中，我往往充当一个“无情”的复制粘贴者。比如 Claude 做完架构或方案设计后，我就让 Codex 去 review ，再把 Codex 的 review 结果复制粘贴回 Claude 的终端；或者 Codex 写完代码，我就让 Claude 去 review ，再把 review 意见贴回给 Codex 。我成了他们之间沟通的桥梁，这种方式非常低效。&lt;/p&gt;
-&lt;h2&gt;方案介绍&lt;/h2&gt;
-&lt;p&gt;为了解决这个问题，我开发了两个开源的 Skill ，让它们可以自动沟通和 review：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;1. Codex Skill （底层基础）&lt;/strong&gt;
-首先需要一个把 Codex 封装成&quot;即插即用&quot;接口的基础 Skill 。我参考的是&lt;a href=&quot;https://github.com/oil-oil/codex&quot; rel=&quot;nofollow&quot;&gt;oil-oil/codex&lt;/a&gt;，把 Codex 做成一个随时可调用的 Sub-Agent 。不管是 Plan Review 还是 Plan Execute ，Claude 想让它干活就直接调这个接口。整个协作体系都是搭在这个基础之上的。&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;Plan Review Skill （方案评审层）&lt;/strong&gt;
-这个项目整体由 Claude 驱动，因为我觉得 Claude 在工具调用（ Tool Use ）上的表现更好。&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;流程：&lt;/strong&gt; 我先跟 Claude 沟通出一版方案，我觉得差不多了，但不确定是否有遗漏或优化空间，此时我会调用 &lt;code&gt;Plan Review&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;机制：&lt;/strong&gt; Claude 会调用封装好的 Codex Skill ，让 Codex 进行 review 。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;迭代：&lt;/strong&gt; review 完后，Claude 会自动读取 Codex 反馈的结果并进行修改。这个过程会反复迭代，直到两者达成一致。这完全省去了我日常手动复制粘贴的麻烦。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;Plan Execute Skill （方案执行层）&lt;/strong&gt;
-方案 review 完后进入执行阶段，我会使用这个负责“计划执行”的 Skill 。&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;角色分工：&lt;/strong&gt; Claude 依然作为“架构师”或“代码审计员”，它不会亲自动手写代码，而是将任务交给 Codex 。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;执行：&lt;/strong&gt; 它通过调用 Codex Skill ，让 Codex 去完成具体的代码编写。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;闭环：&lt;/strong&gt; Codex 完成后，Claude 会去 review 它的代码。如果发现问题，就让 Codex 继续改，直到两者达成统一。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;通过这种“左右互博”的博弈机制，最终产出的结果基本上不会有大问题。这样可以更高效地解放双手，不需要时刻盯着，就能达到满意的结果。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;阶段&lt;/th&gt;
-&lt;th&gt;Skill&lt;/th&gt;
-&lt;th&gt;Claude 角色&lt;/th&gt;
-&lt;th&gt;Codex 角色&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;方案打磨&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;/plan-review&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;编排 + 改方案&lt;/td&gt;
-&lt;td&gt;批判性审稿人&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;代码实施&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;/plan-execute&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;编排 + review 代码&lt;/td&gt;
-&lt;td&gt;写代码 + 修复&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;补充说明&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;claude 进入 &lt;code&gt;plan&lt;/code&gt; 模式之后默认存储的位置是在 &lt;code&gt;~/.claude&lt;/code&gt;下的，可以在 &lt;code&gt;~/.claude/settings.json&lt;/code&gt; 进行配置 &lt;code&gt;plan&lt;/code&gt; 存放的目录，如下所示，便会存放到当前项目中了&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-json&quot;&gt;{
-  &quot;env&quot;: {
-  },
-...
-  &quot;plansDirectory&quot;: &quot;./plans&quot;,
-}
-
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;工作流&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;claude_gpt_workflow&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pub-e61e59c2220d4dfba3768981b76f6c40.r2.dev/img/claude_gpt_workflow.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;安装&lt;/h2&gt;
-&lt;h3&gt;方式一：npx add-skill （推荐）&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;前置条件：&lt;/strong&gt; 先安装 add-skill CLI：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;npm install -g add-skill
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;然后安装 skills：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;npx add-skill longranger2/claude-gpt-workflow
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;方式二：单独安装&lt;/h3&gt;
-&lt;p&gt;单独安装各个 skill：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;npx add-skill longranger2/claude-gpt-workflow/plan-review
-npx add-skill longranger2/claude-gpt-workflow/plan-execute
-npx add-skill longranger2/claude-gpt-workflow/codex
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;方式三：手动安装&lt;/h3&gt;
-&lt;p&gt;复制 skills 到你的 Claude Code skills 目录：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;cp -r plan-review/ ~/.claude/skills/
-cp -r plan-execute/ ~/.claude/skills/
-cp -r codex/ ~/.claude/skills/
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;参考链接&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/longranger2/claude-gpt-workflow&quot; rel=&quot;nofollow&quot;&gt;https://github.com/longranger2/claude-gpt-workflow&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>独立开发收款方案</title>
       <link>https://www.v2ex.com/t/1198323</link>
       <guid>v2ex-1198323</guid>
@@ -263,6 +171,21 @@ cp -r codex/ ~/.claude/skills/
       <pubDate>Sat, 14 Mar 2026 13:36:10 GMT</pubDate>
       <description>&lt;p&gt;我用 Opus 4.6 （先了解代码情况，再按需求）写一个文档，每次都到最后关头，就报错。。。&lt;/p&gt;
 &lt;p&gt;连续试了三次，现在 Claude 模型的额度还剩 2 格，额度是扣了，但事情是一件没给我干啊，才上年费 Pro 的车，感觉像吃了苍蝇&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>做了一个自认为很有潜力的 AI 项目，大家看看有没有前途</title>
+      <link>https://www.v2ex.com/t/1198345</link>
+      <guid>v2ex-1198345</guid>
+      <pubDate>Sat, 14 Mar 2026 18:24:10 GMT</pubDate>
+      <description>&lt;p&gt;最近做了个开源项目：
+&lt;a href=&quot;https://github.com/golutra/golutra&quot; rel=&quot;nofollow&quot;&gt;https://github.com/golutra/golutra&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;简单说就是一个 多 Agent 的 AI 工作空间，可以组建一个 蜂群 Agent Team ，让不同 AI 协作工作，有点像搭一个 一人公司的 AI 团队，可以长期运行。自定义工作流（不同行业场景都能搭），工作流模板一键导入导出，适合长期运行的 AI 自动化系统。&lt;/p&gt;
+&lt;p&gt;后面准备做的：&lt;/p&gt;
+&lt;p&gt;实现真正的「 CEO Agent 」，一个月不用人监管，支持手机端远程操控，自动构建 Agent ，接入永久记忆层&lt;/p&gt;
+&lt;p&gt;还在早期阶段，想听听大家的评价：
+这个方向有没有前途？有没有什么建议？&lt;/p&gt;
+&lt;p&gt;欢迎评论 🙏&lt;/p&gt;
 </description>
     </item>
   </channel>
