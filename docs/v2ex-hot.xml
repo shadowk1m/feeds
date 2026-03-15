@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Mar 2026 14:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 14:52:35 GMT</lastBuildDate>
     <item>
       <title>一次相亲经历，让我疑惑、怀疑自己</title>
       <link>https://www.v2ex.com/t/1198337</link>
@@ -93,6 +93,14 @@
 </description>
     </item>
     <item>
+      <title>你认为的最强编程 AI 工具？</title>
+      <link>https://www.v2ex.com/t/1198412</link>
+      <guid>v2ex-1198412</guid>
+      <pubDate>Sun, 15 Mar 2026 08:37:18 GMT</pubDate>
+      <description>&lt;p&gt;反重力，cc ，cursor ，trae ，codex ，Gemini cli ？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>最近正好因为搬家三大运营商的宽带都用了一遍，说说感受</title>
       <link>https://www.v2ex.com/t/1198352</link>
       <guid>v2ex-1198352</guid>
@@ -109,12 +117,11 @@
 </description>
     </item>
     <item>
-      <title>独立开发收款方案</title>
-      <link>https://www.v2ex.com/t/1198323</link>
-      <guid>v2ex-1198323</guid>
-      <pubDate>Sat, 14 Mar 2026 14:46:35 GMT</pubDate>
-      <description>&lt;p&gt;请教佬们独立开发如何解决收款问题&lt;/p&gt;
-</description>
+      <title>我用 cc 和 codex 用到现在，写前端感觉都是一坨啊</title>
+      <link>https://www.v2ex.com/t/1198405</link>
+      <guid>v2ex-1198405</guid>
+      <pubDate>Sun, 15 Mar 2026 08:02:11 GMT</pubDate>
+      <description>复杂一点的，在美感设计上，交互上。全是一坨。点也能点，看也能看，但是就是毫无美感的各种元素大大小小的不合时宜的堆在一起。&lt;br /&gt;&lt;br /&gt;这个得物怎么敢解散前端团队的。&lt;br /&gt;&lt;br /&gt;还是说我使用上有问题。</description>
     </item>
     <item>
       <title>做了一个自认为很有潜力的 AI 项目，大家看看有没有前途</title>
@@ -132,13 +139,6 @@
 </description>
     </item>
     <item>
-      <title>我用 cc 和 codex 用到现在，写前端感觉都是一坨啊</title>
-      <link>https://www.v2ex.com/t/1198405</link>
-      <guid>v2ex-1198405</guid>
-      <pubDate>Sun, 15 Mar 2026 08:02:11 GMT</pubDate>
-      <description>复杂一点的，在美感设计上，交互上。全是一坨。点也能点，看也能看，但是就是毫无美感的各种元素大大小小的不合时宜的堆在一起。&lt;br /&gt;&lt;br /&gt;这个得物怎么敢解散前端团队的。&lt;br /&gt;&lt;br /&gt;还是说我使用上有问题。</description>
-    </item>
-    <item>
       <title>电脑硬件价格离谱，今天看到 hn 上一个网友的回复心有戚戚</title>
       <link>https://www.v2ex.com/t/1198356</link>
       <guid>v2ex-1198356</guid>
@@ -154,11 +154,20 @@ https://news.ycombinator.com/item?id=47368494
 </description>
     </item>
     <item>
-      <title>你认为的最强编程 AI 工具？</title>
-      <link>https://www.v2ex.com/t/1198412</link>
-      <guid>v2ex-1198412</guid>
-      <pubDate>Sun, 15 Mar 2026 08:37:18 GMT</pubDate>
-      <description>&lt;p&gt;反重力，cc ，cursor ，trae ，codex ，Gemini cli ？&lt;/p&gt;
+      <title>电信又在整什么活？跨运营商下行严重限速</title>
+      <link>https://www.v2ex.com/t/1198327</link>
+      <guid>v2ex-1198327</guid>
+      <pubDate>Sat, 14 Mar 2026 15:04:48 GMT</pubDate>
+      <description>&lt;p&gt;广西电信，1000m 宽带&lt;/p&gt;
+&lt;p&gt;使用全球网测 APP 测速&lt;/p&gt;
+&lt;p&gt;南宁电信节点，跑满千兆&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://yt3.ggpht.com/_pa-yWFK3Cwy0g62xljOuSpa5iucR6ZMGYAxV_VcKGbBWnN51d23K5gC8ZdRC18sGrgZ0DwtYQb4qw=s0-rw-nd-v1&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;南宁联通节点，下行差不多 20mbps ，上行正常&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://yt3.ggpht.com/UC4HGUammrqyZiDgBGRLekJ635vz_kumFft29OJ6mFrfX44EHqakRbQ4Vxl9rIwMg_-COshtDTLvCrI=s0-rw-nd-v1&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;南宁移动节点，下行就惨不忍睹了，5mbps 左右，上行正常&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://yt3.ggpht.com/GrRkEYgDUttjUSIlDuH-kHO6SJ1JLpI7h_M3zYhLIWnGCqH9LtdEQSThI5eu0RsWAauSf0B_yBSuoQ=s0-rw-nd-v1&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;为了确认是不是我家被暗中限速了，我就找个同小区的电信千兆宽带的朋友来测，居然也得到了一样的结果。同省其他地方的电信宽带没试。&lt;/p&gt;
+&lt;p&gt;不知其他省有这种情况吗？可以用全球网测选自己同省不同运营商的节点测测&lt;/p&gt;
 </description>
     </item>
   </channel>
