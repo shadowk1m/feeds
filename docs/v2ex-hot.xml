@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Mar 2026 23:49:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 01:19:28 GMT</lastBuildDate>
     <item>
       <title>生活远比剧本精彩，被抓奸在床？？</title>
       <link>https://www.v2ex.com/t/1198358</link>
@@ -21,6 +21,13 @@
 </description>
     </item>
     <item>
+      <title>[中转] Opus-4-6 thinking 上线，限时免费开蹬！回帖参与狂送 💰20 刀！</title>
+      <link>https://www.v2ex.com/t/1198508</link>
+      <guid>v2ex-1198508</guid>
+      <pubDate>Mon, 16 Mar 2026 00:45:02 GMT</pubDate>
+      <description>免费！免费！通通免费，全速开蹬！&lt;br /&gt;&lt;br /&gt;🚀 全天各时段 0 费率，Claude 统统免费，Opus 4.6 免费爽用！&lt;br /&gt;&lt;br /&gt;🧠 支持 Thinking 思考模式 · 用户数据不存储，隐私安全拉满！&lt;br /&gt;&lt;br /&gt;💰 充值比例 1 人民币 = 1 美刀，9 块 9 即享 5.5M Token !&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/xDhOCW0.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/xDhOCW0.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;注册地址 👉 &lt;a target=&quot;_blank&quot; href=&quot;https://bestaigate.top/register&quot; rel=&quot;nofollow noopener&quot;&gt;https://bestaigate.top/register&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;📚 注册回帖参与活动 不墨迹！&lt;br /&gt;🔥 [抽奖]  3 月 16 日 22 时前回复，即可参与抽奖！&lt;br /&gt;🎁 中奖狂送 20 刀，即 11.1M Token ！&lt;br /&gt;💺 30 个席位等你来拿！&lt;br /&gt;📖 记得带上你的 id 哟！&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/7vL2u4B.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/7vL2u4B.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;🎁 更多福利，欢迎交流！&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/s05frAu.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/s05frAu.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>你认为的最强编程 AI 工具？</title>
       <link>https://www.v2ex.com/t/1198412</link>
       <guid>v2ex-1198412</guid>
@@ -29,25 +36,37 @@
 </description>
     </item>
     <item>
-      <title>最近正好因为搬家三大运营商的宽带都用了一遍，说说感受</title>
-      <link>https://www.v2ex.com/t/1198352</link>
-      <guid>v2ex-1198352</guid>
-      <pubDate>Sun, 15 Mar 2026 00:15:06 GMT</pubDate>
-      <description>宽带 1：西南电信 1000/50Mbps ，自 2022 年用到 2025 年，融合套餐 199/月&lt;br /&gt;宽带 2：杭州移动 300/?Mbps ，2025 年底用到 2026 年 2 月底，单宽带 25/月&lt;br /&gt;宽带 3：杭州联通 300/50Mbps ，2026 年 3 月开始用，融合套餐 39/月&lt;br /&gt;其它设备完全一样，改桥接并且分配了 IPv6 （ DNS 设置 v4 优先），外网访问黑名单模式，可以直接访问的走直连。&lt;br /&gt;背景是搬家回杭州，杭州的房子原本安装了移动的宽带，用了一段时间后感觉难以忍受，由于之后大部分时间不常住杭州所以打算换个稍微便宜点的，又需要流量卡，就选了联通。这里以宽带 1 为 base line （之前用的时间最长已经习惯）作为对比。&lt;br /&gt;日常访问国内网络体验最差的是移动，主要问题是某些情况下一部分连接会被限速。举个例子打开 B 站首页，移动大概率只能加载出前几个首页视频的缩略图，后面的加载会十分缓慢或者干脆加载不出来，播放视频完全无法加载的可能性最高（已经非常影响体验）。另外如果不在路由器上部署 DoT/DoH 能发现移动对部分国内域名也有 DNS 劫持行为。联通的体验和电信基本接近（如果忽略最大下行带宽差异），最大的问题是在访问某些只有电信服务器的网站时会出现图片加载缓慢，不知道是对方自己做了限制还是运营商对专线也有跨网 QOS ；但一个比较奇怪的问题是本地 DNS 服务器 log 显示联通到 DNSPod 的 DoT 会经常出错（每分钟 1-2 次，并非完全不可用），换成 AliDNS 走 DoH 则无此问题。&lt;br /&gt;游戏搬家后没怎么打，无法评价。&lt;br /&gt;外网体验方面体验最好的是联通，和电信相比能发现那种能连上但是传输巨慢或者连接不稳定的情况明显缓解，电信家宽没 CN2 的情况下国际互连确实糟糕。移动则比较奇怪，连接质量明显优于电信甚至有时候优于联通，但是完全不可访问的情况也明显增多。另外移动还能观察到存在主动阻断的行为（即使开启 DoT/DoH 依然存在），具体表现是某些网站第一次访问能部分/完全正常加载，但是很快就无法访问，过相当长一段时间内又恢复最初的状态，而且可以确定其它运营商访问正常。&lt;br /&gt;外部可访问性上移动最糟糕，虽然三家都下发了/60 的 IPv6 PD ，但移动即使改了桥接也无法入站，完全没法从外部访问。联通开通的时候经销商说可以开公网 IPv4 ，还发了已修改的截图，但是拿到的仍然是内网 IP ，和维装沟通后维装说可以申请但是过了一天了还没给出结果。电信找维装申请后就分配了公网 IPv4 （杭州似乎两年前甚至默认给），而且同网即使在省外访问质量也还可以（ TCP 某些时候 Q 到 20Mbps ，某些时候完全不 Q ）。&lt;br /&gt;后面大概要搬去深圳比较纠结选哪家，电信新装 1000M 融合套餐大概要 199(某些渠道似乎可以降到 169 ？）如果再加个公网 IP 每个月还要多 100 ，深圳联通似乎是 NAT4 而且不给改桥接也不提供公网 IPv4 但是便宜，这样下来每个月差价高达 200 多，为了公网 IPv4 多花 200 多好像有点贵了……</description>
-    </item>
-    <item>
-      <title>我用 cc 和 codex 用到现在，写前端感觉都是一坨啊</title>
-      <link>https://www.v2ex.com/t/1198405</link>
-      <guid>v2ex-1198405</guid>
-      <pubDate>Sun, 15 Mar 2026 08:02:11 GMT</pubDate>
-      <description>复杂一点的，在美感设计上，交互上。全是一坨。点也能点，看也能看，但是就是毫无美感的各种元素大大小小的不合时宜的堆在一起。&lt;br /&gt;&lt;br /&gt;这个得物怎么敢解散前端团队的。&lt;br /&gt;&lt;br /&gt;还是说我使用上有问题。</description>
-    </item>
-    <item>
       <title>小孩子最近喜欢看动画片，我希望可以控制他能看哪些动画片，腾讯视频之类的做不到，有解决方案吗？</title>
       <link>https://www.v2ex.com/t/1198360</link>
       <guid>v2ex-1198360</guid>
       <pubDate>Sun, 15 Mar 2026 02:24:57 GMT</pubDate>
       <description>如题，我希望他看一些健康的动画片或者纪录片，而不是短视频之类的。&lt;br /&gt;我了解到似乎自建 nas+某些 app 可以做到？&lt;br /&gt;那假如没有自建 nas 呢？有啥付费的方案吗？&lt;br /&gt;&lt;br /&gt;设备：ipad</description>
+    </item>
+    <item>
+      <title>大家看今年的 315 晚会了吗？我感觉每年都是这些东西</title>
+      <link>https://www.v2ex.com/t/1198448</link>
+      <guid>v2ex-1198448</guid>
+      <pubDate>Sun, 15 Mar 2026 13:01:56 GMT</pubDate>
+      <description>&lt;p&gt;我感觉每年都是这些东西，抓几个小厂凑数。。。&lt;/p&gt;
+&lt;p&gt;大厂一个不敢提，毕竟都是金主&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>AI 时代，你们还每年自觉交物业费吗</title>
+      <link>https://www.v2ex.com/t/1198502</link>
+      <guid>v2ex-1198502</guid>
+      <pubDate>Mon, 16 Mar 2026 00:10:53 GMT</pubDate>
+      <description>物业最大作用就是清理垃圾，其他电梯维修日常维修等还是业主掏钱，用的是维修基金&lt;br /&gt;&lt;br /&gt;有的小区物业费很贵，一平米好几块，买房时候被割韭菜，交房后每个月交物业费一辈子被割韭菜&lt;br /&gt;&lt;br /&gt;社区的公共收益  广告费停车费 不透明  电梯是完全是业主花钱安装的，停车费广告费等都是业主收益。 但大部分都进了物业口袋&lt;br /&gt;&lt;br /&gt;AI 时代，物业躺着赚钱的时代结束了吗，你们还每年自觉交物业费吗</description>
+    </item>
+    <item>
+      <title>某国企工作人员直接电话告诉了我的密码</title>
+      <link>https://www.v2ex.com/t/1198441</link>
+      <guid>v2ex-1198441</guid>
+      <pubDate>Sun, 15 Mar 2026 12:20:28 GMT</pubDate>
+      <description>&lt;p&gt;这段时间找工作，投了江西某个国企的简历，然后前几天要考试确认，但是当时密码忘了，然后到网站上找回密码，结果报服务器内部异常，然后我就打电话联系网站负责人问一下要怎么办。&lt;/p&gt;
+&lt;p&gt;我原本以为他们是要告诉我维修要一段时间或者给我发密码重置链接。&lt;/p&gt;
+&lt;p&gt;万万没想到的是： 对方直接念出了我的密码！！！！！！给我尴尬的要死。当时我都傻了，第一次有人念我用了十几年的密码！&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>nas 备份了照片，手机上直接删除吗</title>
@@ -59,37 +78,19 @@
 </description>
     </item>
     <item>
+      <title>我用 cc 和 codex 用到现在，写前端感觉都是一坨啊</title>
+      <link>https://www.v2ex.com/t/1198405</link>
+      <guid>v2ex-1198405</guid>
+      <pubDate>Sun, 15 Mar 2026 08:02:11 GMT</pubDate>
+      <description>复杂一点的，在美感设计上，交互上。全是一坨。点也能点，看也能看，但是就是毫无美感的各种元素大大小小的不合时宜的堆在一起。&lt;br /&gt;&lt;br /&gt;这个得物怎么敢解散前端团队的。&lt;br /&gt;&lt;br /&gt;还是说我使用上有问题。</description>
+    </item>
+    <item>
       <title>现在购买 ssl 证书最具性价比的方案是什么？</title>
       <link>https://www.v2ex.com/t/1198387</link>
       <guid>v2ex-1198387</guid>
       <pubDate>Sun, 15 Mar 2026 06:18:12 GMT</pubDate>
       <description>&lt;p&gt;给微信小程序后端域名用的&lt;/p&gt;
 &lt;p&gt;网上搜了一下，阿里云提供的都要一千多一年了，在别的地方能搜到便宜一点的都要大几百，到处都是推广和广告，我感觉这个价格有水分，咸鱼上面很多几十块一年的，不知道是否靠谱？感觉这玩意好不透明，水太深了，希望有经验的兄弟能解惑&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>电脑硬件价格离谱，今天看到 hn 上一个网友的回复心有戚戚</title>
-      <link>https://www.v2ex.com/t/1198356</link>
-      <guid>v2ex-1198356</guid>
-      <pubDate>Sun, 15 Mar 2026 01:08:35 GMT</pubDate>
-      <description>&lt;pre&gt;&lt;code&gt;I&#39;ve developed a new fear of my 2025 desktop PC being damaged by a power surge or something, because it would cost at least $2K more to replace than I paid for it, assuming I can even find parts now. Compared to the rest of my adult life when I used to secretly pray for something to fail so I would have a reason to upgrade.
-
-https://news.ycombinator.com/item?id=47368494
-
-我现在对 2025 款台式机被电源浪涌之类的弄坏产生了新的恐惧，因为想要更换的话，成本至少比我买的时候多花 2000 美元，而且就算现在能找到配件也未必行。这和我成年后其他时候太不一样了，以前我总是暗自祈祷出点毛病，好给自己一个升级的理由。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr/&gt;
-&lt;p&gt;我现在也是同样的想法，内存太贵了啊！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>某国企工作人员直接电话告诉了我的密码</title>
-      <link>https://www.v2ex.com/t/1198441</link>
-      <guid>v2ex-1198441</guid>
-      <pubDate>Sun, 15 Mar 2026 12:20:28 GMT</pubDate>
-      <description>&lt;p&gt;这段时间找工作，投了江西某个国企的简历，然后前几天要考试确认，但是当时密码忘了，然后到网站上找回密码，结果报服务器内部异常，然后我就打电话联系网站负责人问一下要怎么办。&lt;/p&gt;
-&lt;p&gt;我原本以为他们是要告诉我维修要一段时间或者给我发密码重置链接。&lt;/p&gt;
-&lt;p&gt;万万没想到的是： 对方直接念出了我的密码！！！！！！给我尴尬的要死。当时我都傻了，第一次有人念我用了十几年的密码！&lt;/p&gt;
 </description>
     </item>
   </channel>
