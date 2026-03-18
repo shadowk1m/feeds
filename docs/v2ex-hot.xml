@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 17 Mar 2026 23:51:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 01:15:00 GMT</lastBuildDate>
     <item>
       <title>五年谈的 4 个女朋友，给各位大佬一点借鉴，以及迷茫一下现在！</title>
       <link>https://www.v2ex.com/t/1198831</link>
@@ -23,142 +23,11 @@
 </description>
     </item>
     <item>
-      <title>出海/远程利器：任意输入框，中/英/混打随便写，免切屏一键润色成专业得体的母语级表达（送会员）</title>
-      <link>https://www.v2ex.com/t/1198813</link>
-      <guid>v2ex-1198813</guid>
-      <pubDate>Tue, 17 Mar 2026 00:20:03 GMT</pubDate>
-      <description>&lt;p&gt;V 佬们好，我是 Ries 的开发者 Orion 。&lt;/p&gt;
-&lt;p&gt;今天给做独立出海、跨国远程工作的兄弟带来一个解决&lt;strong&gt;“发消息内耗”&lt;/strong&gt;的硬核发布。&lt;/p&gt;
-&lt;p&gt;经常&lt;strong&gt;用英文跟老外沟通&lt;/strong&gt;的兄弟，肯定受过这三种罪：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;发前心里没底&lt;/strong&gt;：写完总是怕语法错，更怕不够礼貌得体。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;中式英语&lt;/strong&gt;：语法对，但全是“中文逻辑”，老外一眼看出你不是 Native 。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;切屏断思路&lt;/strong&gt;：写一半突然卡壳，只能切出去查词再粘回来，思路全断了。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;在 2026 年，发个消息不该这么反人类。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;💡 Ries 解法：原生输入框内，中、英、混打随便写&lt;/h3&gt;
-&lt;p&gt;Ries 直接寄生在你的 WhatsApp 、Slack 、Gmail 等原生输入框里。&lt;/p&gt;
-&lt;p&gt;无论你怎么打，都能一键转成&lt;strong&gt;专业得体&lt;/strong&gt;的母语者表达：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;1. 中英混打（保思路）&lt;/strong&gt;：敲英文卡壳了？别切屏查词，直接打中文。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;比如输入 &lt;code&gt;&quot;I think we should 把这个功能推迟到下个版本&quot;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;点一下即可变成母语级英文&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;&quot;I think we should push this feature to the next release.&quot;&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2. 纯英文（保得体）&lt;/strong&gt;：正常写英文，Ries 用红/橙下划线实时揪出“语法错误”和“中式英语”。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;当你输入生硬的 &lt;code&gt;&quot;We want to cooperate&quot;&lt;/code&gt; &lt;/li&gt;
-&lt;li&gt;Ries 会自动实时分析并提供建议&lt;/li&gt;
-&lt;li&gt;可选择一键润色成 &lt;code&gt;&quot;We&#39;d love to explore a partnership.&quot;&lt;/code&gt;，教你 Native 的人情世故。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;3. 纯中文（意图翻译）&lt;/strong&gt;：拒绝字面死翻！&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;输入 &lt;code&gt;&quot;不好意思回复晚了，之前一直在忙&quot;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;普通机翻是生硬的 &lt;code&gt;&quot;Sorry... I have been busy before&quot;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Ries 会翻译成地道职场用语 &lt;code&gt;&quot;Apologies for the delayed response — things have been hectic on my end.&quot;&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&quot;实际效果展示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Wn0Ks2W.png&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🧮 算笔账：Ries vs 你现在用的工具&lt;/h3&gt;
-&lt;p&gt;光说不练假把式，我们直接拉一张表，看看 Ries 作为一个“全场景语言助理”，和大家常用的工具有什么代差：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;核心能力&lt;/th&gt;
-&lt;th&gt;百度 / 有道&lt;/th&gt;
-&lt;th&gt;沉浸式翻译&lt;/th&gt;
-&lt;th&gt;ChatGPT&lt;/th&gt;
-&lt;th&gt;Grammarly&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;Ries&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;检测中式英语&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;✗&lt;/td&gt;
-&lt;td&gt;✗&lt;/td&gt;
-&lt;td&gt;✗&lt;/td&gt;
-&lt;td&gt;✓ 仅查拼写语法&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;✓ 专门优化&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;中英夹杂直接写&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;✗&lt;/td&gt;
-&lt;td&gt;✗&lt;/td&gt;
-&lt;td&gt;✗&lt;/td&gt;
-&lt;td&gt;✗&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;✓ 完美支持&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;意图 vs 字面翻译&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;仅字面&lt;/td&gt;
-&lt;td&gt;仅字面&lt;/td&gt;
-&lt;td&gt;需写提示词&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;意图翻译&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;在输入框内直接用&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;✗ 需反复切屏&lt;/td&gt;
-&lt;td&gt;✓&lt;/td&gt;
-&lt;td&gt;✗ 需反复切屏&lt;/td&gt;
-&lt;td&gt;✓&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;✓ 原生一键操作&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;网页内容翻译&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;✓ 机翻&lt;/td&gt;
-&lt;td&gt;✓ 小模型&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;✓ 大模型翻译&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;视频双语字幕&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
-&lt;td&gt;✓ 小模型&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;✓ 大模型翻译&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;em&gt;(PS: 不只是英文，日语、韩语、法语、西班牙语……Ries 都能自动识别上下文，一个插件覆盖所有语言)&lt;/em&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🔗 30s 安装，免费开用&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;🌍 &lt;strong&gt;官网直达&lt;/strong&gt;：&lt;a href=&quot;https://Ries.ai?c=CAZp&quot; rel=&quot;nofollow&quot;&gt;Ries.AI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🎁 V 友福利：抽 20 个 Pro 月度会员&lt;/h3&gt;
-&lt;p&gt;老规矩！在评论区&lt;strong&gt;留下你对新功能的看法，或吐槽下平时跟老外沟通的尴尬瞬间&lt;/strong&gt;，抽 20 位送 Pro 会员！&lt;/p&gt;
-&lt;p&gt;⚠️ &lt;strong&gt;请务必留下邮箱&lt;/strong&gt;（防骚扰可用 base64 ），方便我直接发兑换码。挨骂或被夸都躺平接受，等你反馈！&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>目前智驾谁是中国第一？</title>
       <link>https://www.v2ex.com/t/1198848</link>
       <guid>v2ex-1198848</guid>
       <pubDate>Tue, 17 Mar 2026 02:27:34 GMT</pubDate>
       <description>昨天刷到视频[洋人之下我第一]， 我看到这个视频后，有点生气。。&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://v.douyin.com/ZAg-j1-13Jg/&quot; rel=&quot;nofollow noopener&quot;&gt;https://v.douyin.com/ZAg-j1-13Jg/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/5ibSVmm.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/5ibSVmm.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;  &lt;br /&gt; &lt;br /&gt; - 首先，我觉得这段文字没毛病啊。。难道要吹牛逼， 说 [遥遥领先] 吗？我看评论有好多人支持他的。&lt;br /&gt; - 这人是不是小米请的水军？我看了其他几个，是吹小米的。</description>
-    </item>
-    <item>
-      <title>说说曾经买过的软件</title>
-      <link>https://www.v2ex.com/t/1198822</link>
-      <guid>v2ex-1198822</guid>
-      <pubDate>Tue, 17 Mar 2026 00:58:28 GMT</pubDate>
-      <description>已购入正版 IDM ，永久 128 元，频繁升级就不用来回折腾了&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/7MC7Lo9.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/7MC7Lo9.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
       <title>结婚选日子看八字很重要吗，为什么答案都不同？</title>
@@ -168,11 +37,11 @@
       <description>之前已看好日子，但昨天她给我说这天忌结婚要重新选，因为我不信这个，对这个也不在意，然后有点小争执，最后我让她妈推荐下让我爸再去看看，结果他妈推荐的我爸也去看过，不过那个算命的住院了，人不在，她无语了。&lt;br /&gt;&lt;br /&gt;当时反驳她在不同的地方测试了下，问豆包还有网站和小程序，结果出来的都不一样，有说这天可以的，有说这天不可以的，我说这样的话到时候找 10 个人 10 个人的结果也不一样，她说每个人水平不一样，我也无语了。</description>
     </item>
     <item>
-      <title>这波内存涨价究竟会持续到什么时候</title>
-      <link>https://www.v2ex.com/t/1198823</link>
-      <guid>v2ex-1198823</guid>
-      <pubDate>Tue, 17 Mar 2026 01:06:18 GMT</pubDate>
-      <description>难道和显卡行业一样，只要 ai 还在风口上，显卡价格就永远在高位，ai 热直接拉高了显卡的价位，难道内存也要一样。&lt;br /&gt;显卡我可以说，只要我不玩 3a ，对我没有影响，但是内存对电子产品的影响实在太大了，只要是上系统的方案没有不用内存的，对消费电子行业的冲击太大了。&lt;br /&gt;&lt;br /&gt;不要 ai 还没发展到究极智慧体解决人类问题的时候，先把人类世界有限资源的经济体系干翻了</description>
+      <title>windows 远程操作 mac 电脑, 有什么好方案阿</title>
+      <link>https://www.v2ex.com/t/1198828</link>
+      <guid>v2ex-1198828</guid>
+      <pubDate>Tue, 17 Mar 2026 01:25:32 GMT</pubDate>
+      <description>vnc 这种总觉得太落后&lt;br /&gt;&lt;br /&gt;要能达到 windows 自带 mstsc 那种远程, 基本无感操作就好了&lt;br /&gt;&lt;br /&gt;这么多年了, 好像也没啥发展&lt;br /&gt;&lt;br /&gt;大家一般都是用什么方案的</description>
     </item>
     <item>
       <title>如何开一家中转站，中转站乱相百态，掺水、同行诋毁、DDos，带你拨开迷雾见真章</title>
@@ -223,11 +92,77 @@
 </description>
     </item>
     <item>
-      <title>windows 远程操作 mac 电脑, 有什么好方案阿</title>
-      <link>https://www.v2ex.com/t/1198828</link>
-      <guid>v2ex-1198828</guid>
-      <pubDate>Tue, 17 Mar 2026 01:25:32 GMT</pubDate>
-      <description>vnc 这种总觉得太落后&lt;br /&gt;&lt;br /&gt;要能达到 windows 自带 mstsc 那种远程, 基本无感操作就好了&lt;br /&gt;&lt;br /&gt;这么多年了, 好像也没啥发展&lt;br /&gt;&lt;br /&gt;大家一般都是用什么方案的</description>
+      <title>调整方向，重新出发（两性关系）</title>
+      <link>https://www.v2ex.com/t/1198898</link>
+      <guid>v2ex-1198898</guid>
+      <pubDate>Tue, 17 Mar 2026 04:50:12 GMT</pubDate>
+      <description>&lt;p&gt;接上文（ &lt;a href=&quot;https://www.v2ex.com/t/1198337&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1198337&lt;/a&gt; ），我发现之前忽略了一个重要的过程是筛选，后面主要处理好这个东西，我有一些自己的背景和疑问，想问下大家&lt;/p&gt;
+&lt;p&gt;我的基本情况&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;96 年出生&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;目前和父母一起住，有一个弟弟（还在上学），在一个二线城市有一个商品房（和父母一起还贷中，约 4800 ，还剩 40W 未还；另有一套一线城市农民房，月租 2000 左右）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;年薪约 40+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我现在有这些途径（ xhs 、抖音、她说之类的脱单平台）看下能不能多认识一些女生，提高数量。&lt;/p&gt;
+&lt;p&gt;但是我有一个问题，就是我平时比较节俭，看起来的话，和月入 5000 的生活水平差不多（没买车，平时请女生见面的话也是最多人均 150 ，几乎不出去旅游），那么在填写信息的时候，是不是要往低填写会比较好，比如填 10+左右，这样的不话不会有太大的预期落差？还是有其他的更好的建议，希望大家能给我一些信息，谢谢&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>怪不得这么多中转站</title>
+      <link>https://www.v2ex.com/t/1198908</link>
+      <guid>v2ex-1198908</guid>
+      <pubDate>Tue, 17 Mar 2026 06:05:44 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://doc.newapi.pro/&quot; rel=&quot;nofollow&quot;&gt;https://doc.newapi.pro/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[这个工具目前被滥用，更多的人使用该工具进行骗人]
+&lt;a href=&quot;https://github.com/QuantumNous/new-api/issues/3277&quot; rel=&quot;nofollow&quot;&gt;https://github.com/QuantumNous/new-api/issues/3277&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>不好意思 V 友，我再撒一下我的简历，希望有人捞（投简历投的手抽筋）： web3 全栈，大厂背景，全栈作品 0-1 手撸，英语口语丝滑，接近母语</title>
+      <link>https://www.v2ex.com/t/1198944</link>
+      <guid>v2ex-1198944</guid>
+      <pubDate>Tue, 17 Mar 2026 07:38:19 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;PROFESSIONAL SUMMARY&lt;/strong&gt;&lt;br/&gt;
+Full-Stack Engineer with 10+ years of experience(3 years of Web3 full-stack experience). In the past two years, through intensive GitHub activity (1500+ commits/year), independently delivered a Uniswap V3-integrated DEX and an NFT Marketplace. My early career focused on backend distributed systems (IBM/Huawei), later expanded into full-stack development and DevOps (ZTE/Alstela/recent 2 years). Experienced in building high-availability systems and implementing CI/CD pipelines from scratch. Tech stack covers Node.js/Next.js/TypeScript/Solidity, with solid skills in REST API design, event-driven architecture , smart contract&amp;amp;wallet integration and on-chain interaction optimization. Quick learner, self-driven, committed to engineering excellence in DeFi/Web3.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CORE COMPETENCIES&lt;/strong&gt;&lt;br/&gt;
+Blockchain/Web3: Uniswap V3, AMM, ERC20/721/1155, Smart Contract Security, SIWE(Sign-In with Ethereum), Solidity, Hardhat, Wagmi, Ethers.js, Viem, The Graph
+Backend/Distributed Systems: Node.js, Express, RESTful API, WebSocket, Redis, RabbitMQ, Microservices, Event-Driven Architecture, Distributed System Design
+Frontend: Next.js, TypeScript, React, Tailwind CSS, Shadcn, Responsive Design,RainbowKit
+Database: MongoDB, MySQL, Schema Design, Query Optimization
+DevOps Tools &amp;amp; CI/CD: Git, Docker, AWS(EC2, IAM,RDS), GitLab, GitHub Actions, Linux Shell
+Testing &amp;amp;Others: Integration testing, Unit testing(Mocha, chai, Jest), Agile, Jira, Auth2, Cloudflare, authentication, authorization&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;专业摘要&lt;/strong&gt;&lt;br/&gt;
+全栈工程师（ 10+年经验，含 2 年 Web3 全栈经验），近两年以高强度 GitHub 活动（年均 1500+提交）独立交付并部署 Uniswap V3 集成 DEX 及 NFT 市场。早期深耕后端分布式系统（ IBM/华为），后期拓展至全栈与 DevOps （中兴/Alstela/近三年），具备从 0 到 1 构建高可用系统及 CI/CD 落地经验。技术栈覆盖 Node.js/Next.js/TypeScript/Solidity 等，擅长 REST API 设计，高可靠性分布式系统设计，消息驱动设计及智能合约&amp;amp;钱包集成与链上交互优化等。快速学习、自我驱动，英语流利，致力于在 DeFi/Web3 领域贡献复杂系统的工程化能力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心能力矩阵&lt;/strong&gt;&lt;br/&gt;
+区块链/Web3：Uniswap V3, AMM, ERC20/721/1155, Wagmi, Viem, 智能合约安,SIWE(Sign-In with Ethereum), Solidity, Ethers.js , Hardhat, The Graph etc
+后端/分布式：Node.js, Express, RESTful API, WebSocket, Redis, RabbitMQ, 微服务架构, 分布式系统设计 etc
+前端：Next.js, TypeScript, React(Hooks), Tailwind CSS, Shadcn, RainbowKit etc
+数据库: MongoDB, MySQL, Schema Design, Query Optimization
+DevOps 工具&amp;amp; CI/CD: ：Git, Docker, AWS(EC2, IAM,RDS), GitLab, GitHub Actions, Linux Shell
+其他：集成测试，单元测试(Mocha, chai, Jest)，Agile, Jira&lt;/p&gt;
+&lt;p&gt;作品： &lt;a href=&quot;https://app.bestdex-by-janessatech.com/&quot; rel=&quot;nofollow&quot;&gt;https://app.bestdex-by-janessatech.com/&lt;/a&gt;&lt;br/&gt;
+自我介绍： &lt;a href=&quot;https://www.youtube.com/watch?v=gzZp0TNLECo&quot; rel=&quot;nofollow&quot;&gt;https://www.youtube.com/watch?v=gzZp0TNLECo&lt;/a&gt;&lt;br/&gt;
+github: &lt;a href=&quot;https://github.com/janessatech&quot; rel=&quot;nofollow&quot;&gt;https://github.com/janessatech&lt;/a&gt;&lt;br/&gt;
+email: &lt;a href=&quot;mailto:janessatech.web3@gmail.com&quot;&gt;janessatech.web3@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>希望 v 友能点评下简历，感觉上海地区 boss 上约不到啥面试机会</title>
+      <link>https://www.v2ex.com/t/1198895</link>
+      <guid>v2ex-1198895</guid>
+      <pubDate>Tue, 17 Mar 2026 04:46:43 GMT</pubDate>
+      <description>&lt;p&gt;去年 6 月份 gap 到现在了，期间其实也没闲着——公司项目没啥难度，所以简历第一个 agent 相关的项目是这几个月自己捣鼓出来的。&lt;/p&gt;
+&lt;p&gt;准备年后找 agent + 前端方向的工作，但年后到现在一共就两个线上面试。&lt;/p&gt;
+&lt;p&gt;是不是我&lt;strong&gt;项目经历&lt;/strong&gt;写的出啥问题了？看 Boss 上的 JD ，尤其是 agent 相关的，其实和我自己做的项目挺吻合的，很多要求有 vibe coding 经验，我简历上也体现了。希望能跟 v 友取取经，听听大伙的建议，先谢过了 🙏🏻&lt;/p&gt;
+&lt;p&gt;其实吧也问过 AI ，但不管写啥它都回「你太棒了」之类的，还是被设计的太讨好型人格了（难绷）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://forma.zhangdawei.org/&quot; rel=&quot;nofollow&quot;&gt;在线简历地址&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
