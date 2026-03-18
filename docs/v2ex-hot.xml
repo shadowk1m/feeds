@@ -4,7 +4,16 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 18 Mar 2026 03:59:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 05:26:10 GMT</lastBuildDate>
+    <item>
+      <title>王自如太强了</title>
+      <link>https://www.v2ex.com/t/1199084</link>
+      <guid>v2ex-1199084</guid>
+      <pubDate>Wed, 18 Mar 2026 01:07:03 GMT</pubDate>
+      <description>&lt;p&gt;看了最新一期王自如的视频,感觉人和人的差距太大了,老王还是太强了,一个非程序员能把 AI 用的这么 6,产品思维能力这么强,感觉纯写代码的没有未来了&lt;/p&gt;
+&lt;p&gt;另外他的思路和技术栈竟然对我启发很大,太惭愧了&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>不好意思 V 友，我再撒一下我的简历，希望有人捞（投简历投的手抽筋）： web3 全栈，大厂背景，全栈作品 0-1 手撸，英语口语丝滑，接近母语</title>
       <link>https://www.v2ex.com/t/1198944</link>
@@ -35,85 +44,6 @@ email: &lt;a href=&quot;mailto:janessatech.web3@gmail.com&quot;&gt;janessatech.w
 </description>
     </item>
     <item>
-      <title>王自如太强了</title>
-      <link>https://www.v2ex.com/t/1199084</link>
-      <guid>v2ex-1199084</guid>
-      <pubDate>Wed, 18 Mar 2026 01:07:03 GMT</pubDate>
-      <description>&lt;p&gt;看了最新一期王自如的视频,感觉人和人的差距太大了,老王还是太强了,一个非程序员能把 AI 用的这么 6,产品思维能力这么强,感觉纯写代码的没有未来了&lt;/p&gt;
-&lt;p&gt;另外他的思路和技术栈竟然对我启发很大,太惭愧了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>调整方向，重新出发（两性关系）</title>
-      <link>https://www.v2ex.com/t/1198898</link>
-      <guid>v2ex-1198898</guid>
-      <pubDate>Tue, 17 Mar 2026 04:50:12 GMT</pubDate>
-      <description>&lt;p&gt;接上文（ &lt;a href=&quot;https://www.v2ex.com/t/1198337&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1198337&lt;/a&gt; ），我发现之前忽略了一个重要的过程是筛选，后面主要处理好这个东西，我有一些自己的背景和疑问，想问下大家&lt;/p&gt;
-&lt;p&gt;我的基本情况&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;96 年出生&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;目前和父母一起住，有一个弟弟（还在上学），在一个二线城市有一个商品房（和父母一起还贷中，约 4800 ，还剩 40W 未还；另有一套一线城市农民房，月租 2000 左右）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;年薪约 40+&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我现在有这些途径（ xhs 、抖音、她说之类的脱单平台）看下能不能多认识一些女生，提高数量。&lt;/p&gt;
-&lt;p&gt;但是我有一个问题，就是我平时比较节俭，看起来的话，和月入 5000 的生活水平差不多（没买车，平时请女生见面的话也是最多人均 150 ，几乎不出去旅游），那么在填写信息的时候，是不是要往低填写会比较好，比如填 10+左右，这样的不话不会有太大的预期落差？还是有其他的更好的建议，希望大家能给我一些信息，谢谢&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>如何开一家中转站，中转站乱相百态，掺水、同行诋毁、DDos，带你拨开迷雾见真章</title>
-      <link>https://www.v2ex.com/t/1198897</link>
-      <guid>v2ex-1198897</guid>
-      <pubDate>Tue, 17 Mar 2026 04:48:15 GMT</pubDate>
-      <description>&lt;p&gt;继上期 &lt;a href=&quot;https://cn.v2ex.com/t/1196011&quot; rel=&quot;nofollow&quot;&gt;https://cn.v2ex.com/t/1196011&lt;/a&gt; 之后，我今天再来普及一下如何开一家中转站的知识，以及科普一下目前的行业乱相&lt;/p&gt;
-&lt;h1&gt;搭建工具&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;大量 v 友已经发现了中转站很大多长的差不多，其实各家都是用 newapi 、sub2api 等开源项目搭建，github 上有很多类似成熟的项目，newapi 是目前用较多的，项目最为成熟的一家，而且方便接入各个
-鉴权登录、支付系统。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;新手的话，从这里 newapi 玩起即可，功能最全面，除了页面 low 了一点，别的几乎没啥毛病。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;逆向 2api 工具, 目前市面上有
-&lt;br/&gt;
-&lt;a href=&quot;https://github.com/Wei-Shaw/claude-relay-service&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Wei-Shaw/claude-relay-service&lt;/a&gt;
-&lt;br/&gt;
-&lt;a href=&quot;https://github.com/router-for-me/CLIProxyAPI&quot; rel=&quot;nofollow&quot;&gt;https://github.com/router-for-me/CLIProxyAPI&lt;/a&gt;
-&lt;br/&gt;
-&lt;a href=&quot;https://github.com/Wei-Shaw/sub2api&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Wei-Shaw/sub2api&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;协议通常就是 Anthropic/OpenAI/Gemini 那几种，国产编程模型通常会用 Anthropic 的 API 标准&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;开一家中转站前的忠告&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;屎难吃，钱不好挣，小白开发者很多，冲 50 块钱要当大爷供着，各种配置问题都会找上门，没有一点阅读文档跟动手能力的人也极多，你得忍着性子去帮他配置好，特别是目前 Code Agent 工具都是基于整套传统的 Unix Bash 环境来适配的，还有大量的 windows 开发者客户在那里叨叨一堆的问题，说实话，如果你买不起 mac ，至少整个 WSL2 吧，AI 时代你还用 windows 开发，闹呢？ LLM 配合命令行工具都能全流程开发了，人只需要关键节点介入即可了，作为这个时代的开发者，如果你还抗拒命令行工具链，趁早离开开发者这行是比较合适的。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;上线第一天我被人打了 20T 流量，那个时候客户只有 3 个，不知道是谁发病，而且是针对 newapi 做的 cc 攻击。使用开源工具很容易被人针对弱点进行攻击，一定要用好的 CDN 做防护，且不要轻易泄露源站 ip 地址&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;实际上每一家中转都有注水的嫌疑与动机，注水的一次请求整体的价格可能不到官方 api 的十分之一，这一点诱惑力极大，很多站会采取半真半假，或者 50 次抽取 7-8 次进行注水&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;我想开一家中转站，去哪里找池子，合作，这一点目前是最困难的，我遇到很多 v 友，有自己的圈子，流量也不少，中转站本身做的就是私域流量的开发者客群生意，最重要的就是客群与中转站长之间相互信任，如果信任基础没了，这个站就基本上没了，池子跟站长也是合作信任的关系，信任没了，渠道也就断了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;不要相信任何打假工具，这些打假工具都是同行用来抹黑竞争对手的中转站的，其目的是为了抢夺行业定价权、话语权。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这些工具他们自家的 ccmax 渠道 API ，测了一点问题都没有，然后别家测出来的全都有问题。&lt;/p&gt;
-&lt;p&gt;实际上由于每家逆向工具或者逆向能力不一样，返回的 json 字段都是有差异的，所有打假工具从理论上来讲都是幌子，好的逆向工具完全可以用国产模型做到天衣无缝的注水，让你察觉不到半点差异，对于使用者只有一条原则，机场、中转只冲 50 ，体验不好立马跑路，只有跟站长混熟了，才能多充点。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>我也来宣传下自己的中转</title>
       <link>https://www.v2ex.com/t/1199060</link>
       <guid>v2ex-1199060</guid>
@@ -140,16 +70,6 @@ email: &lt;a href=&quot;mailto:janessatech.web3@gmail.com&quot;&gt;janessatech.w
 </description>
     </item>
     <item>
-      <title>怪不得这么多中转站</title>
-      <link>https://www.v2ex.com/t/1198908</link>
-      <guid>v2ex-1198908</guid>
-      <pubDate>Tue, 17 Mar 2026 06:05:44 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://doc.newapi.pro/&quot; rel=&quot;nofollow&quot;&gt;https://doc.newapi.pro/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[这个工具目前被滥用，更多的人使用该工具进行骗人]
-&lt;a href=&quot;https://github.com/QuantumNous/new-api/issues/3277&quot; rel=&quot;nofollow&quot;&gt;https://github.com/QuantumNous/new-api/issues/3277&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>开车有什么好的提神用品吗？</title>
       <link>https://www.v2ex.com/t/1199115</link>
       <guid>v2ex-1199115</guid>
@@ -173,15 +93,13 @@ email: &lt;a href=&quot;mailto:janessatech.web3@gmail.com&quot;&gt;janessatech.w
 </description>
     </item>
     <item>
-      <title>希望 v 友能点评下简历，感觉上海地区 boss 上约不到啥面试机会</title>
-      <link>https://www.v2ex.com/t/1198895</link>
-      <guid>v2ex-1198895</guid>
-      <pubDate>Tue, 17 Mar 2026 04:46:43 GMT</pubDate>
-      <description>&lt;p&gt;去年 6 月份 gap 到现在了，期间其实也没闲着——公司项目没啥难度，所以简历第一个 agent 相关的项目是这几个月自己捣鼓出来的。&lt;/p&gt;
-&lt;p&gt;准备年后找 agent + 前端方向的工作，但年后到现在一共就两个线上面试。&lt;/p&gt;
-&lt;p&gt;是不是我&lt;strong&gt;项目经历&lt;/strong&gt;写的出啥问题了？看 Boss 上的 JD ，尤其是 agent 相关的，其实和我自己做的项目挺吻合的，很多要求有 vibe coding 经验，我简历上也体现了。希望能跟 v 友取取经，听听大伙的建议，先谢过了 🙏🏻&lt;/p&gt;
-&lt;p&gt;其实吧也问过 AI ，但不管写啥它都回「你太棒了」之类的，还是被设计的太讨好型人格了（难绷）&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://forma.zhangdawei.org/&quot; rel=&quot;nofollow&quot;&gt;在线简历地址&lt;/a&gt;&lt;/p&gt;
+      <title>怪不得这么多中转站</title>
+      <link>https://www.v2ex.com/t/1198908</link>
+      <guid>v2ex-1198908</guid>
+      <pubDate>Tue, 17 Mar 2026 06:05:44 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://doc.newapi.pro/&quot; rel=&quot;nofollow&quot;&gt;https://doc.newapi.pro/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[这个工具目前被滥用，更多的人使用该工具进行骗人]
+&lt;a href=&quot;https://github.com/QuantumNous/new-api/issues/3277&quot; rel=&quot;nofollow&quot;&gt;https://github.com/QuantumNous/new-api/issues/3277&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -190,6 +108,30 @@ email: &lt;a href=&quot;mailto:janessatech.web3@gmail.com&quot;&gt;janessatech.w
       <guid>v2ex-1199034</guid>
       <pubDate>Tue, 17 Mar 2026 13:27:31 GMT</pubDate>
       <description>查了在线的现代汉语词典，对“电车”这个词语的解释是“以电做动力的公共交通车辆,包括有轨电车和无轨电车”&lt;br /&gt;&lt;br /&gt;另外 macOS 的中文输入法里，输入“电车”会显示🚃的 emoji 。&lt;br /&gt;&lt;br /&gt;但是在网上，“电车”一词经常被用来指“电力驱动的汽车”。而很少听到有人把“有轨电车和无轨电车”简称为“电车”。&lt;br /&gt;&lt;br /&gt;如果你听到“电车”一词，在没有明确上下文的情况下，直觉反应是哪个意思？毕竟两个意思（汽车和轨道交通）完全不同</description>
+    </item>
+    <item>
+      <title>iPhone 预报最准确的天气 app 是什么</title>
+      <link>https://www.v2ex.com/t/1199079</link>
+      <guid>v2ex-1199079</guid>
+      <pubDate>Wed, 18 Mar 2026 00:54:05 GMT</pubDate>
+      <description>iPhone 预报最准确的天气 app 是什么</description>
+    </item>
+    <item>
+      <title>哥哥们 15promax 升级 ios26 到底合不合适哇</title>
+      <link>https://www.v2ex.com/t/1198905</link>
+      <guid>v2ex-1198905</guid>
+      <pubDate>Tue, 17 Mar 2026 05:46:23 GMT</pubDate>
+      <description>眼馋 CarPlay&lt;br /&gt;但是又怕手机歇菜的快 毕竟之后好久一段时间都不会换手机了</description>
+    </item>
+    <item>
+      <title>6544 M5 午夜色已下单～～</title>
+      <link>https://www.v2ex.com/t/1198907</link>
+      <guid>v2ex-1198907</guid>
+      <pubDate>Tue, 17 Mar 2026 05:59:26 GMT</pubDate>
+      <description>&lt;p&gt;教育优惠+国补，闲鱼上 88 买的教育优惠，给我了一个根证书和 VPN 代理设置通过支付宝教职工认证，需要留邮箱分享给你，不知道能不能复用。
+&lt;a href=&quot;https://imgur.com/a/VHcA1c9&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/VHcA1c9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;歪门邪道为了省钱，不喜勿喷。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
