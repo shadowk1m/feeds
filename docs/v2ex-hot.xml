@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 18 Mar 2026 12:44:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 14:15:02 GMT</lastBuildDate>
     <item>
       <title>我也来宣传下自己的中转</title>
       <link>https://www.v2ex.com/t/1199060</link>
@@ -85,14 +85,6 @@
       <description>iPhone 预报最准确的天气 app 是什么</description>
     </item>
     <item>
-      <title>2020 年买的房子不隔音 困扰中</title>
-      <link>https://www.v2ex.com/t/1199027</link>
-      <guid>v2ex-1199027</guid>
-      <pubDate>Tue, 17 Mar 2026 13:04:04 GMT</pubDate>
-      <description>&lt;p&gt;20 年买的期房，住在中间楼层，之前楼上没住人的时候还好，住人之后 不断的各种咚一声 小孩跑跳声 关门声 冲水声，和楼上交涉多次，都基本不承认，而且楼下弹钢琴我也能听见，想问下是我买的这个房子质量确实不小 偷工减料太厉害 还是近几年的房子（高层）都这样？还是只是刚好碰见发出噪音的领居？换房成本太高了，难道只能买顶楼或者老破小砖头房吗&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>AI 时代的程序员困境</title>
       <link>https://www.v2ex.com/t/1199195</link>
       <guid>v2ex-1199195</guid>
@@ -104,11 +96,74 @@
 </description>
     </item>
     <item>
-      <title>“电车”这个词语默认指“轨道交通”还是指“电动汽车”？</title>
-      <link>https://www.v2ex.com/t/1199034</link>
-      <guid>v2ex-1199034</guid>
-      <pubDate>Tue, 17 Mar 2026 13:27:31 GMT</pubDate>
-      <description>查了在线的现代汉语词典，对“电车”这个词语的解释是“以电做动力的公共交通车辆,包括有轨电车和无轨电车”&lt;br /&gt;&lt;br /&gt;另外 macOS 的中文输入法里，输入“电车”会显示🚃的 emoji 。&lt;br /&gt;&lt;br /&gt;但是在网上，“电车”一词经常被用来指“电力驱动的汽车”。而很少听到有人把“有轨电车和无轨电车”简称为“电车”。&lt;br /&gt;&lt;br /&gt;如果你听到“电车”一词，在没有明确上下文的情况下，直觉反应是哪个意思？毕竟两个意思（汽车和轨道交通）完全不同</description>
+      <title>（后续）关于新来的技术 leader 准备用 Claude code 升级现有项目</title>
+      <link>https://www.v2ex.com/t/1199066</link>
+      <guid>v2ex-1199066</guid>
+      <pubDate>Tue, 17 Mar 2026 23:26:15 GMT</pubDate>
+      <description>&lt;p&gt;原文： &lt;a href=&quot;https://www.v2ex.com/t/1167789&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1167789&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;原帖已经是 145 天以前了，但实际升级并没有那么久，中间间隔了比较长的假期，以及额外的工作安排。实际整体升级差不多是两个月左右，一个月的测试时间。&lt;/p&gt;
+&lt;p&gt;现在可以很负责任的说 Claude code 已经完成了所有升级。&lt;/p&gt;
+&lt;p&gt;基本上是按照这个步骤来执行，AI 的工作占比至少 90%&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Phase&lt;/th&gt;
+&lt;th&gt;Versions&lt;/th&gt;
+&lt;th&gt;Risk&lt;/th&gt;
+&lt;th&gt;Impact&lt;/th&gt;
+&lt;th&gt;Key Challenge&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1. Minor Updates&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;5.2 → 5.3 → 5.8&lt;/strong&gt; &lt;br/&gt; &lt;strong&gt;(SKIP 5.4, 5.6, 5.7, 5.5)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;⚠️ Medium&lt;/td&gt;
+&lt;td&gt;Minimal&lt;/td&gt;
+&lt;td&gt;Small improvements, bug fixes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2. First Major Hurdle&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;5.8 → 6.x&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;⚠️ Medium&lt;/td&gt;
+&lt;td&gt;Moderate&lt;/td&gt;
+&lt;td&gt;Some old code needs rewriting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3. Modern Architecture&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;6.x → 8.x (SKIP 7.x)&lt;/strong&gt; &lt;br/&gt; &lt;strong&gt;Laravel 8 -&lt;/strong&gt; Supports PHP 8.1&lt;/td&gt;
+&lt;td&gt;⚠️ Medium&lt;/td&gt;
+&lt;td&gt;Significant internal changes, minimal user impact&lt;/td&gt;
+&lt;td&gt;Reorganizing application structure&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4. Performance Leap&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;8.x → 11.x (SKIP 9.x, 10.x)&lt;/strong&gt; &lt;br/&gt; Supports PHP 8.4&lt;/td&gt;
+&lt;td&gt;✅ Low&lt;/td&gt;
+&lt;td&gt;Major performance improvements&lt;/td&gt;
+&lt;td&gt;Adopting modern PHP features&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5. Future-Proofing&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;11.x → 12.x&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;✅ Low&lt;/td&gt;
+&lt;td&gt;Final optimization&lt;/td&gt;
+&lt;td&gt;Latest features and security&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;订阅的是 Claude Max, Opus 4.6&lt;/p&gt;
+&lt;p&gt;感慨：
+AI 真的变强了，从理解、分析、执行各维度都很强。对于有经验的码农是召唤分身来减轻工作，对于新手来说是刚出新手村就拿到了屠龙宝刀，能让自己快速增长经验并且能打更高级的怪。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>淘宝国补给父母买手机，结果遇到上门诈骗</title>
+      <link>https://www.v2ex.com/t/1199085</link>
+      <guid>v2ex-1199085</guid>
+      <pubDate>Wed, 18 Mar 2026 01:10:56 GMT</pubDate>
+      <description>&lt;p&gt;五天前我在淘宝给父母下单了一台荣耀 WinRT ，一直没发货。结果今天竟有骗子上门，谎称到了两部手机，让我爸妈签字签收。幸好他们打电话过来跟我确认，否则真就上当受骗。
+比较好奇的是哪方泄露了我的信息，图片可以看到是一个租借手机的合同，如果不是爸妈谨慎可能真会一个不注意直接把合同签了&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/6nfwfFM&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/6nfwfFM&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
