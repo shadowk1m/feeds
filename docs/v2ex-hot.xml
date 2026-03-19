@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Mar 2026 07:29:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 08:02:24 GMT</lastBuildDate>
     <item>
       <title>来点乐观的，大胆预测十几年后 AI 全面升级，人人都可躺平无需工作</title>
       <link>https://www.v2ex.com/t/1199250</link>
@@ -12,6 +12,13 @@
       <pubDate>Wed, 18 Mar 2026 08:18:12 GMT</pubDate>
       <description>&lt;p&gt;看了那么多预测 AI 取代程序员的，仿佛失去工作就失去了体面生活的权利，为何不能直接实现共产主义，大家都不用为了生活奔波，这才是科技的魅力所在啊。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>你人生中最重要的事是什么呢？</title>
+      <link>https://www.v2ex.com/t/1199412</link>
+      <guid>v2ex-1199412</guid>
+      <pubDate>Thu, 19 Mar 2026 01:38:10 GMT</pubDate>
+      <description>看完 绝命毒师，律师，除了律师中主角 金 认为的应该是 正义，剧中的角色最重要的事都是家人。&lt;br /&gt;不知道人活一生，你认为最重要的事会是什么呢？</description>
     </item>
     <item>
       <title>没用过 opus4.6 + agents + skills + mcp 组合的人不足以谈 AI 编程</title>
@@ -39,13 +46,6 @@
 &lt;p&gt;不是所有 AI 编程都叫 AI 编程。&lt;/p&gt;
 &lt;p&gt;有同感的吗？或者有人用了完整工具链之后觉得也不过如此的，也欢迎来说说。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>你人生中最重要的事是什么呢？</title>
-      <link>https://www.v2ex.com/t/1199412</link>
-      <guid>v2ex-1199412</guid>
-      <pubDate>Thu, 19 Mar 2026 01:38:10 GMT</pubDate>
-      <description>看完 绝命毒师，律师，除了律师中主角 金 认为的应该是 正义，剧中的角色最重要的事都是家人。&lt;br /&gt;不知道人活一生，你认为最重要的事会是什么呢？</description>
     </item>
     <item>
       <title>大家不要笑话我，最近突然觉得很绝望，不停在失业，找工作，写代码的循环中。</title>
@@ -97,16 +97,6 @@
 </description>
     </item>
     <item>
-      <title>阿里巴巴与中山大学花了 100 亿 token 证明目前 ai 编程无法承担长期任务</title>
-      <link>https://www.v2ex.com/t/1199231</link>
-      <guid>v2ex-1199231</guid>
-      <pubDate>Wed, 18 Mar 2026 07:28:58 GMT</pubDate>
-      <description>&lt;p&gt;论文地址： &lt;a href=&quot;https://arxiv.org/abs/2603.03823&quot; rel=&quot;nofollow&quot;&gt;https://arxiv.org/abs/2603.03823&lt;/a&gt;
-新闻总结版： &lt;a href=&quot;https://baijiahao.baidu.com/s?id=1859905657933003430&quot; rel=&quot;nofollow&quot;&gt;https://baijiahao.baidu.com/s?id=1859905657933003430&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;和我个人的感觉差不多，还是只能当作提高效率的工具，对于大的项目来说还是无法做到完全交给 AI&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>有没有去医院掏过耳朵的，如何实操</title>
       <link>https://www.v2ex.com/t/1199254</link>
       <guid>v2ex-1199254</guid>
@@ -122,6 +112,16 @@
       <description>&lt;p&gt;X 上看到的，不知道真假，有猪场的人出来说说看吗？&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;网图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/a/w7oEeoR&quot;/&gt;
 &lt;a href=&quot;https://imgur.com/a/w7oEeoR&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/w7oEeoR&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>程序员都是铁公鸡?</title>
+      <link>https://www.v2ex.com/t/1199474</link>
+      <guid>v2ex-1199474</guid>
+      <pubDate>Thu, 19 Mar 2026 03:41:08 GMT</pubDate>
+      <description>&lt;p&gt;昨天晚上在中关村参加了一个线下龙虾沙龙,有个嘉宾分享的时候说程序员都是铁公鸡,一毛不拔,舍不得花钱买 token 造,感觉被当众骂了,然后一想,难道说在坐的各位程序员也都是这样吗?&lt;/p&gt;
+&lt;p&gt;我平时也会买 token,不过大多数都是上车队,找公益,找最便宜最稳定的第三方供应商,肯定不会直接上官网充高价会员.&lt;/p&gt;
+&lt;p&gt;身边的朋友好像确实都是直接买会员,之前聊天他们还说一个月也就几十刀,我听着都觉得奢侈.我年入税后 50 多个,倒不是买不起会员,就是觉得真没啥性价比,大家也会这样吗?&lt;/p&gt;
 </description>
     </item>
   </channel>
