@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 20 Mar 2026 08:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 09:30:52 GMT</lastBuildDate>
     <item>
       <title>1xm.ai 中转站新站开业，新注册立送 10$体验金，欢迎各位技术大佬品鉴</title>
       <link>https://www.v2ex.com/t/1199682</link>
@@ -87,6 +87,18 @@
 </description>
     </item>
     <item>
+      <title>互联网可能会进入大裁员时代</title>
+      <link>https://www.v2ex.com/t/1199726</link>
+      <guid>v2ex-1199726</guid>
+      <pubDate>Fri, 20 Mar 2026 02:44:31 GMT</pubDate>
+      <description>&lt;p&gt;科大讯飞、网易、B 站都在裁员，AI 时代先解决就业问题。&lt;/p&gt;
+&lt;p&gt;以后 OPC （一人公司）会越来越火，一人 + AI Agent 模式。&lt;/p&gt;
+&lt;p&gt;肉眼可见，AI 模型在不断增强。&lt;/p&gt;
+&lt;p&gt;也有可能 AI 泡沫，AI 的发展需要算力，算力需要石油，还要看中东战事如何发展。&lt;/p&gt;
+&lt;p&gt;我再说一遍，程序员的护城河：屎山代码 + 拒绝公开技术分享。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>想在 NAS 上囤积番剧和电影，大伙用的是什么方案？</title>
       <link>https://www.v2ex.com/t/1199703</link>
       <guid>v2ex-1199703</guid>
@@ -94,195 +106,6 @@
       <description>&lt;p&gt;我想将我喜欢的番剧和电影批量下载到 NAS 上，以方便用手机和平板随时观看，大伙有什么方案？&lt;/p&gt;
 &lt;p&gt;基于 BT 的下载？还是用脚本从在线观看网站上用 yt-dlp 等工具按集数批量拉取 m3u8 ？&lt;/p&gt;
 &lt;p&gt;清晰度新番 720p ，老番 480p 即可。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>以为会爆，结果很冷：我的独立开发第一次上线经历</title>
-      <link>https://www.v2ex.com/t/1199589</link>
-      <guid>v2ex-1199589</guid>
-      <pubDate>Thu, 19 Mar 2026 09:49:55 GMT</pubDate>
-      <description>&lt;p&gt;过年在家无所事事，加上刚好赶上 Codex 免费开放，就想着反正也没什么事，不如做一个能真正上线的 App 。&lt;/p&gt;
-&lt;p&gt;想来想去，决定做一个数独。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;为什么是数独&lt;/h2&gt;
-&lt;p&gt;一开始其实没有特别复杂的想法，就做了两件事：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;打开 App Store 搜竞品&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;下载了几个评分还不错的数独 App&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;结果体验下来有一个很明显的问题：&lt;strong&gt;广告太多了&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;很多 App 玩几步就弹广告，体验非常割裂。&lt;/p&gt;
-&lt;p&gt;所以我一开始就给自己定了几个方向：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;面向海外市场&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;界面尽量简洁&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;不放广告&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;通过订阅解锁全部关卡&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目标很简单：做一个“干净”的数独 App 。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;开发其实不难，难的是设计&lt;/h2&gt;
-&lt;p&gt;对于程序员来说，写代码不是问题，真正头痛的是设计。&lt;/p&gt;
-&lt;p&gt;但这次我基本是用 AI 把设计这一块“打通了”。&lt;/p&gt;
-&lt;p&gt;整个流程是这样的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;用 Google Stitch 生成 App 设计稿&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Prompt 也是通过 AI 帮我一起写&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;把生成的设计导入到 Figma&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;再通过读取 Figma 的 MCP 来生成界面代码&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这一套下来，&lt;strong&gt;界面还原度比我预期的高很多&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;基本上可以说是：&lt;br/&gt;
-👉 一个开发 + 一套 AI 工具链，把设计到代码全走通了&lt;/p&gt;
-&lt;p&gt;整个开发过程大概花了 7 ～ 8 天。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;提交审核时，我开始幻想了&lt;/h2&gt;
-&lt;p&gt;在提交 App Store 审核的那一刻，其实挺兴奋的。&lt;/p&gt;
-&lt;p&gt;脑子里已经开始自动播放一些画面：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;每天多少下载&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;海外用户增长&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;甚至开始想排行榜&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;但现实很快就给我泼了一盆冷水。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;App Store 审核，卡住了&lt;/h2&gt;
-&lt;p&gt;我是 2 月 22 号提交的审核。&lt;/p&gt;
-&lt;p&gt;结果一直等，一直没动静。&lt;/p&gt;
-&lt;p&gt;那段时间苹果审核明显变慢了，很多应用都在卡审。&lt;/p&gt;
-&lt;p&gt;最后是 3 月 10 号才通过。&lt;/p&gt;
-&lt;p&gt;也就是说——&lt;br/&gt;
-&lt;strong&gt;整整等了 16 天。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;而在这之前，我的经验基本都是 48 小时内通过。&lt;/p&gt;
-&lt;p&gt;那段时间其实挺煎熬的。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;不过我没有干等&lt;/h2&gt;
-&lt;p&gt;审核期间我也没闲着，主要做了几件事：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;持续优化 App 体验&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;修 bug&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;通过 TestFlight 分发给网友测试&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;收集了一些真实用户反馈&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;根据反馈做调整&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;重新制作 logo&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;有时候晚上睡觉前也会想：&lt;br/&gt;
-“这个地方是不是还能再优化一下？”&lt;/p&gt;
-&lt;p&gt;现在回头看，这段时间其实挺关键的。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;上线后的数据，很真实&lt;/h2&gt;
-&lt;p&gt;App 上线之后，我第一时间就去看数据。&lt;/p&gt;
-&lt;p&gt;前两天还可以：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;每天大概 20 多个下载&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;但很快就掉下来了：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;后面基本稳定在十几个&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;说实话，这个数据让我有点不太自信。&lt;/p&gt;
-&lt;p&gt;和最开始幻想的差距还是挺大的。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;一个很意外的发现&lt;/h2&gt;
-&lt;p&gt;我一开始的目标用户是&lt;strong&gt;海外市场&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;但上线之后发现：&lt;/p&gt;
-&lt;p&gt;👉 &lt;strong&gt;国内的下载量远远多于国外&lt;/strong&gt;&lt;br/&gt;
-👉 国外几乎没什么流量&lt;/p&gt;
-&lt;p&gt;这个其实有点打破我一开始的判断。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;第一个付费用户出现了&lt;/h2&gt;
-&lt;p&gt;前几天，出现了第一个内购用户。&lt;/p&gt;
-&lt;p&gt;而且是中国区用户，直接选择了买断。&lt;/p&gt;
-&lt;p&gt;那一刻其实挺有感觉的。&lt;/p&gt;
-&lt;p&gt;这说明一件事：&lt;/p&gt;
-&lt;p&gt;👉 &lt;strong&gt;这个产品是有人愿意为它付费的&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不管金额多少，这都是一个很重要的信号。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;现在在做什么&lt;/h2&gt;
-&lt;p&gt;目前我还在持续更新这个 App ，主要在做：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;优化使用体验&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;修复 bug&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;调整产品细节&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;另外还有一块很重要的是：&lt;/p&gt;
-&lt;p&gt;👉 App Store 的展示（五图）&lt;/p&gt;
-&lt;p&gt;这一部分 AI 生成的东西始终还是有点问题，&lt;br/&gt;
-最后还是靠朋友帮忙一起调整，效果好了很多。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;一点总结&lt;/h2&gt;
-&lt;p&gt;这次从开发到上线，其实让我有几个挺深的感受：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1. AI 确实能提高效率，但解决不了产品问题&lt;/strong&gt;&lt;br/&gt;
-设计可以用 AI ，代码也可以加速，但“做什么、怎么卖”还是得自己想。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. 上架只是开始，分发才是最难的&lt;/strong&gt;&lt;br/&gt;
-真正难的不是把 App 做出来，而是让用户看到它。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. 预期不要太高，现实会更冷一点&lt;/strong&gt;&lt;br/&gt;
-上线前的那些幻想，现在看还是有点天真。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4. 但哪怕只有一个付费用户，也很重要&lt;/strong&gt;&lt;br/&gt;
-因为这代表一件事：方向是有可能成立的。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;最后&lt;/h2&gt;
-&lt;p&gt;这个 App 还在继续优化中。&lt;/p&gt;
-&lt;p&gt;后面我也会继续尝试看看：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;怎么获取更多用户&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;要不要继续做海外&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;还是转向国内&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如果你也在做独立开发，或者刚准备开始，希望这段经历能给你一点参考。&lt;/p&gt;
-&lt;p&gt;也欢迎一起交流。
-附上我的 app 链接 感兴趣的小伙伴可以去下载玩玩，需要的话我可以提供折扣码
-&lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/cn/app/%E6%95%B0%E7%8B%AC%E5%A4%A7%E5%B8%88-%E6%97%A0%E5%B9%BF%E5%91%8A%E6%AF%8F%E6%97%A5%E6%95%B0%E7%8B%AC%E6%8C%91%E6%88%98%E6%B5%B7%E9%87%8F%E9%A2%98%E5%BA%93/id6759447148&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
