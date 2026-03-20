@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 20 Mar 2026 11:49:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 12:34:30 GMT</lastBuildDate>
     <item>
       <title>1xm.ai 中转站新站开业，新注册立送 10$体验金，欢迎各位技术大佬品鉴</title>
       <link>https://www.v2ex.com/t/1199682</link>
@@ -91,6 +91,13 @@
 </description>
     </item>
     <item>
+      <title>买个扫拖机器人真的可以解放双手吗？</title>
+      <link>https://www.v2ex.com/t/1199783</link>
+      <guid>v2ex-1199783</guid>
+      <pubDate>Fri, 20 Mar 2026 05:09:29 GMT</pubDate>
+      <description>套内 140 多点，每天拖地得花十多分钟，有没有在用扫拖机器人的？你们买的哪款？好用吗？&lt;br /&gt;&lt;br /&gt;基础的地板日常打扫可以搞定吗？我家里没有养宠物。&lt;br /&gt;&lt;br /&gt;我预算大概 4K 左右</description>
+    </item>
+    <item>
       <title>Ai 时代，大家还学英语么？</title>
       <link>https://www.v2ex.com/t/1199685</link>
       <guid>v2ex-1199685</guid>
@@ -121,16 +128,6 @@
 &lt;p&gt;当然最好的方式就是直接不用别人搭建的，真心建议有动手能力的个人或者团队，直接去 Github 拿源码本地部署！自己对接官方接口，或者用反代项目转一下 api 都可以，千万别把辛苦写的代码和机密喂给灰产！&lt;/p&gt;
 &lt;p&gt;还有就是我们不对外出售 API ，任何以 New API 名义销售 API 的均为假冒！！！&lt;/p&gt;
 &lt;p&gt;官方项目仓库： &lt;a href=&quot;https://github.com/QuantumNous/new-api&quot; rel=&quot;nofollow&quot;&gt;https://github.com/QuantumNous/new-api&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>想在 NAS 上囤积番剧和电影，大伙用的是什么方案？</title>
-      <link>https://www.v2ex.com/t/1199703</link>
-      <guid>v2ex-1199703</guid>
-      <pubDate>Fri, 20 Mar 2026 01:48:31 GMT</pubDate>
-      <description>&lt;p&gt;我想将我喜欢的番剧和电影批量下载到 NAS 上，以方便用手机和平板随时观看，大伙有什么方案？&lt;/p&gt;
-&lt;p&gt;基于 BT 的下载？还是用脚本从在线观看网站上用 yt-dlp 等工具按集数批量拉取 m3u8 ？&lt;/p&gt;
-&lt;p&gt;清晰度新番 720p ，老番 480p 即可。&lt;/p&gt;
 </description>
     </item>
   </channel>
