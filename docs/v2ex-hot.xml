@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Mar 2026 08:19:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 08:53:59 GMT</lastBuildDate>
     <item>
       <title>iPhone 是真 TM 难用</title>
       <link>https://www.v2ex.com/t/1199995</link>
@@ -29,6 +29,23 @@
 目前只抓最近几百条，全量历史分析还在做。有 bug 欢迎反馈，
 也可以把你的分析结果贴出来，看看 AI 的品味如何。&lt;/p&gt;
 &lt;p&gt;最后说一句：跟踪学习 ML/DL/AI 有十几年了，本身也是个十几年的 IT 人，但这波 AI 的进展还是超越了我的想象。无论谁最后是离开、还是留在了这个行业，都期望保留着我们对原理/真相/未知的不懈探求...&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>最近 V2 几乎被各种 AI 中转帖子占领了</title>
+      <link>https://www.v2ex.com/t/1199927</link>
+      <guid>v2ex-1199927</guid>
+      <pubDate>Fri, 20 Mar 2026 13:06:54 GMT</pubDate>
+      <description>&lt;p&gt;简单总结两点，希望大家注意避雷：&lt;/p&gt;
+&lt;h3&gt;⚠️ 核心痛点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;不稳定且不安全&lt;/strong&gt;：中转 API &lt;strong&gt;跑路是常态&lt;/strong&gt;，且数据隐私毫无保障。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;货不对板&lt;/strong&gt;：很多号称 &lt;code&gt;1:n&lt;/code&gt; 的中转其实都有“加料”，&lt;strong&gt;Token 污染严重&lt;/strong&gt;，输出质量大打折扣。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h3&gt;✅ 避雷建议&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;低成本方案：&lt;/strong&gt; 直接用国产大厂（如 &lt;strong&gt;GLM&lt;/strong&gt;, &lt;strong&gt;MiniMax&lt;/strong&gt; 等），现在的模型水平已经很高，核心是&lt;strong&gt;便宜、好用、不折腾&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高质量方案：&lt;/strong&gt; 预算充足请直接订阅 &lt;strong&gt;OpenAI / Anthropic 官方&lt;/strong&gt;，或者选择大厂云转售（如 &lt;strong&gt;Azure OpenAI&lt;/strong&gt;, &lt;strong&gt;AWS Claude&lt;/strong&gt; 等）。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -94,21 +111,11 @@ WK4JY7LNN4T3
 </description>
     </item>
     <item>
-      <title>最近 V2 几乎被各种 AI 中转帖子占领了</title>
-      <link>https://www.v2ex.com/t/1199927</link>
-      <guid>v2ex-1199927</guid>
-      <pubDate>Fri, 20 Mar 2026 13:06:54 GMT</pubDate>
-      <description>&lt;p&gt;简单总结两点，希望大家注意避雷：&lt;/p&gt;
-&lt;h3&gt;⚠️ 核心痛点&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;不稳定且不安全&lt;/strong&gt;：中转 API &lt;strong&gt;跑路是常态&lt;/strong&gt;，且数据隐私毫无保障。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;货不对板&lt;/strong&gt;：很多号称 &lt;code&gt;1:n&lt;/code&gt; 的中转其实都有“加料”，&lt;strong&gt;Token 污染严重&lt;/strong&gt;，输出质量大打折扣。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;✅ 避雷建议&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;低成本方案：&lt;/strong&gt; 直接用国产大厂（如 &lt;strong&gt;GLM&lt;/strong&gt;, &lt;strong&gt;MiniMax&lt;/strong&gt; 等），现在的模型水平已经很高，核心是&lt;strong&gt;便宜、好用、不折腾&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;高质量方案：&lt;/strong&gt; 预算充足请直接订阅 &lt;strong&gt;OpenAI / Anthropic 官方&lt;/strong&gt;，或者选择大厂云转售（如 &lt;strong&gt;Azure OpenAI&lt;/strong&gt;, &lt;strong&gt;AWS Claude&lt;/strong&gt; 等）。&lt;/p&gt;
-</description>
+      <title>你真的敢让 AI 自主编写代码吗？</title>
+      <link>https://www.v2ex.com/t/1199934</link>
+      <guid>v2ex-1199934</guid>
+      <pubDate>Fri, 20 Mar 2026 14:08:28 GMT</pubDate>
+      <description>作为一个程序员，如果你的 AI 助手突然提交了一个它自己重构过的、性能提升 10 倍但你完全看不懂的底层内核 PR ，你会选择点击“Merge”吗？</description>
     </item>
     <item>
       <title>[寻中转站合作] CC 逆向最低 0.1 元/刀（需量大），远大于 200K 上下文，深度思考，支持 websearch</title>
@@ -141,13 +148,6 @@ WK4JY7LNN4T3
 &lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;想要了解开站、合作建站、找兜底线路的佬可以进群找群主聊一下&lt;/p&gt;
 &lt;p&gt;TG： &lt;a href=&quot;https://t.me/+WpdHEOGotVY2NThh&quot; rel=&quot;nofollow&quot;&gt;https://t.me/+WpdHEOGotVY2NThh&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>你真的敢让 AI 自主编写代码吗？</title>
-      <link>https://www.v2ex.com/t/1199934</link>
-      <guid>v2ex-1199934</guid>
-      <pubDate>Fri, 20 Mar 2026 14:08:28 GMT</pubDate>
-      <description>作为一个程序员，如果你的 AI 助手突然提交了一个它自己重构过的、性能提升 10 倍但你完全看不懂的底层内核 PR ，你会选择点击“Merge”吗？</description>
     </item>
     <item>
       <title>小米为什么跌的这么惨？的确之前有一些做的不到位的，为什么大家要这么踩？就不能给一些时间去改进吗？试问哪家公司没有问题，形成这种踩踏的到底是谁？</title>
