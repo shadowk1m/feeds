@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Mar 2026 07:50:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 08:19:51 GMT</lastBuildDate>
     <item>
       <title>iPhone 是真 TM 难用</title>
       <link>https://www.v2ex.com/t/1199995</link>
@@ -111,20 +111,6 @@ WK4JY7LNN4T3
 </description>
     </item>
     <item>
-      <title>你真的敢让 AI 自主编写代码吗？</title>
-      <link>https://www.v2ex.com/t/1199934</link>
-      <guid>v2ex-1199934</guid>
-      <pubDate>Fri, 20 Mar 2026 14:08:28 GMT</pubDate>
-      <description>作为一个程序员，如果你的 AI 助手突然提交了一个它自己重构过的、性能提升 10 倍但你完全看不懂的底层内核 PR ，你会选择点击“Merge”吗？</description>
-    </item>
-    <item>
-      <title>小米为什么跌的这么惨？的确之前有一些做的不到位的，为什么大家要这么踩？就不能给一些时间去改进吗？试问哪家公司没有问题，形成这种踩踏的到底是谁？</title>
-      <link>https://www.v2ex.com/t/1199882</link>
-      <guid>v2ex-1199882</guid>
-      <pubDate>Fri, 20 Mar 2026 09:03:57 GMT</pubDate>
-      <description>小米为什么跌的这么惨？的确之前有一些做的不到位的，为什么大家要这么踩？就不能给一些时间去改进吗？试问哪家公司没有问题，形成这种踩踏的到底是谁？</description>
-    </item>
-    <item>
       <title>[寻中转站合作] CC 逆向最低 0.1 元/刀（需量大），远大于 200K 上下文，深度思考，支持 websearch</title>
       <link>https://www.v2ex.com/t/1199977</link>
       <guid>v2ex-1199977</guid>
@@ -157,6 +143,20 @@ WK4JY7LNN4T3
 </description>
     </item>
     <item>
+      <title>你真的敢让 AI 自主编写代码吗？</title>
+      <link>https://www.v2ex.com/t/1199934</link>
+      <guid>v2ex-1199934</guid>
+      <pubDate>Fri, 20 Mar 2026 14:08:28 GMT</pubDate>
+      <description>作为一个程序员，如果你的 AI 助手突然提交了一个它自己重构过的、性能提升 10 倍但你完全看不懂的底层内核 PR ，你会选择点击“Merge”吗？</description>
+    </item>
+    <item>
+      <title>小米为什么跌的这么惨？的确之前有一些做的不到位的，为什么大家要这么踩？就不能给一些时间去改进吗？试问哪家公司没有问题，形成这种踩踏的到底是谁？</title>
+      <link>https://www.v2ex.com/t/1199882</link>
+      <guid>v2ex-1199882</guid>
+      <pubDate>Fri, 20 Mar 2026 09:03:57 GMT</pubDate>
+      <description>小米为什么跌的这么惨？的确之前有一些做的不到位的，为什么大家要这么踩？就不能给一些时间去改进吗？试问哪家公司没有问题，形成这种踩踏的到底是谁？</description>
+    </item>
+    <item>
       <title>普通人是不是每天定投 100 块钱纳斯达克就可以了？</title>
       <link>https://www.v2ex.com/t/1199966</link>
       <guid>v2ex-1199966</guid>
@@ -166,11 +166,15 @@ WK4JY7LNN4T3
 </description>
     </item>
     <item>
-      <title>iPhone 的存储空间快满了（主要是照片视频占用空间比较大），除了 iCloud，还有其他的导出/备份方案吗？</title>
-      <link>https://www.v2ex.com/t/1199859</link>
-      <guid>v2ex-1199859</guid>
-      <pubDate>Fri, 20 Mar 2026 07:58:20 GMT</pubDate>
-      <description>&lt;p&gt;512GB 的存储，现在连 100G 都不到了。之前加入了 iCloud 家庭组，但是备份的占用甚至超过了 400G ，，家庭组就不公平了，有没有其他的方案能备份这些。&lt;/p&gt;
+      <title>其实这波大裁员对社会的影响也有限吧？</title>
+      <link>https://www.v2ex.com/t/1199887</link>
+      <guid>v2ex-1199887</guid>
+      <pubDate>Fri, 20 Mar 2026 09:26:45 GMT</pubDate>
+      <description>&lt;p&gt;根据 2024 年开放原子开发者大会上工信部负责人公布的信息，中国软件开发者（广义程序员）数量已突破 940 万。&lt;/p&gt;
+&lt;p&gt;按 60% 失业来看，大约是失业人数在 600w 左右。&lt;/p&gt;
+&lt;p&gt;上一次教培改革影响的人数也差不多在这个范围（基于 AI 的判断）。&lt;/p&gt;
+&lt;p&gt;目前看就算是裁员也会有缓冲期，整体影响不大。  &lt;/p&gt;
+&lt;p&gt;但是对个人来说确实是灾难了&lt;/p&gt;
 </description>
     </item>
   </channel>
