@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Mar 2026 08:53:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 09:22:02 GMT</lastBuildDate>
     <item>
       <title>iPhone 是真 TM 难用</title>
       <link>https://www.v2ex.com/t/1199995</link>
@@ -49,14 +49,11 @@
 </description>
     </item>
     <item>
-      <title>买一个 switch 有没有吃灰的可能</title>
-      <link>https://www.v2ex.com/t/1199879</link>
-      <guid>v2ex-1199879</guid>
-      <pubDate>Fri, 20 Mar 2026 08:54:38 GMT</pubDate>
-      <description>&lt;p&gt;好久没玩游戏了，在电脑旁边坐着也不知道玩什么
-想买个 switch 来玩游戏会不会吃灰
-请问下有 Switch 的各位看看，买了 Switch 会不会像电脑一样不知道玩啥最后设备就吃灰了呢&lt;/p&gt;
-</description>
+      <title>你真的敢让 AI 自主编写代码吗？</title>
+      <link>https://www.v2ex.com/t/1199934</link>
+      <guid>v2ex-1199934</guid>
+      <pubDate>Fri, 20 Mar 2026 14:08:28 GMT</pubDate>
+      <description>作为一个程序员，如果你的 AI 助手突然提交了一个它自己重构过的、性能提升 10 倍但你完全看不懂的底层内核 PR ，你会选择点击“Merge”吗？</description>
     </item>
     <item>
       <title>[送码] 做了个阅读记录 App：书途（Booklane），欢迎试用</title>
@@ -111,13 +108,6 @@ WK4JY7LNN4T3
 </description>
     </item>
     <item>
-      <title>你真的敢让 AI 自主编写代码吗？</title>
-      <link>https://www.v2ex.com/t/1199934</link>
-      <guid>v2ex-1199934</guid>
-      <pubDate>Fri, 20 Mar 2026 14:08:28 GMT</pubDate>
-      <description>作为一个程序员，如果你的 AI 助手突然提交了一个它自己重构过的、性能提升 10 倍但你完全看不懂的底层内核 PR ，你会选择点击“Merge”吗？</description>
-    </item>
-    <item>
       <title>[寻中转站合作] CC 逆向最低 0.1 元/刀（需量大），远大于 200K 上下文，深度思考，支持 websearch</title>
       <link>https://www.v2ex.com/t/1199977</link>
       <guid>v2ex-1199977</guid>
@@ -150,13 +140,6 @@ WK4JY7LNN4T3
 </description>
     </item>
     <item>
-      <title>小米为什么跌的这么惨？的确之前有一些做的不到位的，为什么大家要这么踩？就不能给一些时间去改进吗？试问哪家公司没有问题，形成这种踩踏的到底是谁？</title>
-      <link>https://www.v2ex.com/t/1199882</link>
-      <guid>v2ex-1199882</guid>
-      <pubDate>Fri, 20 Mar 2026 09:03:57 GMT</pubDate>
-      <description>小米为什么跌的这么惨？的确之前有一些做的不到位的，为什么大家要这么踩？就不能给一些时间去改进吗？试问哪家公司没有问题，形成这种踩踏的到底是谁？</description>
-    </item>
-    <item>
       <title>普通人是不是每天定投 100 块钱纳斯达克就可以了？</title>
       <link>https://www.v2ex.com/t/1199966</link>
       <guid>v2ex-1199966</guid>
@@ -175,6 +158,32 @@ WK4JY7LNN4T3
 &lt;p&gt;上一次教培改革影响的人数也差不多在这个范围（基于 AI 的判断）。&lt;/p&gt;
 &lt;p&gt;目前看就算是裁员也会有缓冲期，整体影响不大。  &lt;/p&gt;
 &lt;p&gt;但是对个人来说确实是灾难了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>组里应届生用 ai 写的代码有 bug 解决不了，我帮助解决后，有感而发</title>
+      <link>https://www.v2ex.com/t/1199894</link>
+      <guid>v2ex-1199894</guid>
+      <pubDate>Fri, 20 Mar 2026 09:45:35 GMT</pubDate>
+      <description>&lt;p&gt;昨日，组长派我去支援一位被 Redis 配置坑了数小时的应届生。背景很简单，他是想给这个服务引入 redis ，通过 ai 已经写好了 redis 的组件和相关代码，编译可以通过，但是启动后报错，某 class not found 。&lt;/p&gt;
+&lt;p&gt;在我介入后，我排除了一些依赖，并把 redisson 的依赖降低了几个版本，问题解决了，前后也就花费了十分钟。&lt;/p&gt;
+&lt;p&gt;我并不想吹嘘自己多厉害，是因为类似的问题我在几年前遇到过，当年我好像花费了一整天才研究明白了前因后果，搞懂了框架背后的运行原理。这才能使我今天能够十分钟解决问题。&lt;/p&gt;
+&lt;p&gt;事后我和应届生分析他为什么和 ai 对话了几个小时也没能把问题解决，是因为 ai 只能根据你给出的有限上下文给出概率分析。ai 并没有做错，ai 看到问题是 class not found ，所以就去想办法去补充这个 class ，但这是错上加错，加上 c 依赖，a 依赖又报错了。问题的根因其实很隐蔽，这个项目的 springboot 版本较低，但是很久之前引入的某个三方包带了 spring redis 较高的依赖，你这次把 redis 集成进来了，在不知情的情况下唤醒了这个三方包里的 autoconfiguration ，他们有个自动检测 redis health 并打点的异步任务，实际上这个任务对我们是没有用的，把相关的依赖排掉，不让这个任务跑了就行了。&lt;/p&gt;
+&lt;p&gt;这个应届生，不知道 springboot 的 autoconfiguration 机制，所以不知道三方包里引进来有可能会有自动运行的东西；也不知道 maven 的传递依赖机制，所以查不明白 springboot 真实生效的版本是多少；更别说知道 redisson 的依赖 redisson-spring-boot-starter 和 redisson-spring-data 的版本和 springboot 的版本有很坑的对应关系（很小众的知识），所以不能无脑用最新的版本号或者随便用个版本。ai 呢，可能也是被 maven 的传递依赖机制坑了，他错误了获取到了 springboot 的版本号，所以给出的 redisson 依赖版本也是错的，出错的那个 not found class 又是公司内部自己写的，ai 又不认识，所以 ai 自己也找不出问题根因也无可厚非。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;我不禁在想，于 AI 时代毕业的新人们，以后会越来越缺乏这些经验。虽说在古法编程中会遇到各种各样浪费大量时间，走多条弯路去解决某个不起眼的问题，但正是这些时间和弯路也促使我们对技术的链路和背后的原理有了更深的理解，使我们从初级工程师走向高级工程师。&lt;/p&gt;
+&lt;p&gt;当然，AI 的浪潮谁也阻挡不住，兴许半年后更强大的 AI 就可以找出真实原因并解决这个问题，或者多年后全面转向全 AI 编程后，这种三方包留坑拉屎的问题从源头就不复存在了。&lt;/p&gt;
+&lt;p&gt;当年我刚刚毕业时，我也曾鄙视过坚守旧技术的老登们，时过境迁，想不到这么快我也成为他们的一员了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>求推荐个靠谱梯子</title>
+      <link>https://www.v2ex.com/t/1199980</link>
+      <guid>v2ex-1199980</guid>
+      <pubDate>Sat, 21 Mar 2026 02:36:55 GMT</pubDate>
+      <description>&lt;p&gt;甚至已经上奶昔 2000 人民币/年 的套餐了...
+还是经常卡出不输出阿...
+大家用啥梯子能够平顺地使用 cursor 这些呢...&lt;/p&gt;
 </description>
     </item>
   </channel>
