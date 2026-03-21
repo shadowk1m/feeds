@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 21 Mar 2026 09:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 09:51:16 GMT</lastBuildDate>
     <item>
       <title>iPhone 是真 TM 难用</title>
       <link>https://www.v2ex.com/t/1199995</link>
@@ -56,58 +56,6 @@
       <description>作为一个程序员，如果你的 AI 助手突然提交了一个它自己重构过的、性能提升 10 倍但你完全看不懂的底层内核 PR ，你会选择点击“Merge”吗？</description>
     </item>
     <item>
-      <title>[送码] 做了个阅读记录 App：书途（Booklane），欢迎试用</title>
-      <link>https://www.v2ex.com/t/1199889</link>
-      <guid>v2ex-1199889</guid>
-      <pubDate>Fri, 20 Mar 2026 09:28:28 GMT</pubDate>
-      <description>&lt;p&gt;最近写了一个给自己用的阅读记录工具，上架了 iOS 。&lt;/p&gt;
-&lt;p&gt;功能比较简单，也会慢慢迭代。&lt;/p&gt;
-&lt;p&gt;主要是把读过的书，安静地记录下来。&lt;/p&gt;
-&lt;h2&gt;目前支持：&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;想读 / 在读 / 已读管理&lt;/li&gt;
-&lt;li&gt;进度、评分、简单书评&lt;/li&gt;
-&lt;li&gt;标签归档 + 基础统计（打卡 / 连续 / 趋势）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;关于免费 / 付费：&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;免费版：最多 30 本书，核心功能可用&lt;/li&gt;
-&lt;li&gt;Pro：无限书籍，一次买断（无订阅）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;p&gt;如果你也有记录阅读的习惯，可以试试：
-App Store 搜索：书途 / Booklane&lt;/p&gt;
-&lt;p&gt;👉 &lt;a href=&quot;https://apps.apple.com/app/6759910577&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/6759910577&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;还在早期阶段，欢迎提意见或吐槽。&lt;/p&gt;
-&lt;h2&gt;兑换码&lt;/h2&gt;
-&lt;p&gt;下面是一些兑换码，领用的麻烦回复下，方便后来的人。&lt;/p&gt;
-&lt;p&gt;兑换码使用方式：打开 App Store -&amp;gt; 右上角头像 -&amp;gt; 兑换充值卡或代码 -&amp;gt; 手动输入代码。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;FK6R7HNN7XMF
-NW6K6EMLXKEW
-M6WN77L79XPY
-M49LREA4HT3T
-P6LXYT7JXW33
-NK77XP9FXJ79
-9N4RWTM4JLJX
-EH7RNRFPLNP4
-9RNRR6FEFJYH
-RELYLHH9L6W3
-YF9JYKLLJMLM
-X7HPYWJKTJ6A
-WRNM67NNPYKW
-MLHW3WE9TAEP
-T66W9T9ALKH9
-39X3XTFPRJ7Y
-RAHKX349HYAK
-MKKLWN4Y3PYK
-WK4JY7LNN4T3
-3PTKX4R3PMMW
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    <item>
       <title>[寻中转站合作] CC 逆向最低 0.1 元/刀（需量大），远大于 200K 上下文，深度思考，支持 websearch</title>
       <link>https://www.v2ex.com/t/1199977</link>
       <guid>v2ex-1199977</guid>
@@ -149,34 +97,6 @@ WK4JY7LNN4T3
 </description>
     </item>
     <item>
-      <title>其实这波大裁员对社会的影响也有限吧？</title>
-      <link>https://www.v2ex.com/t/1199887</link>
-      <guid>v2ex-1199887</guid>
-      <pubDate>Fri, 20 Mar 2026 09:26:45 GMT</pubDate>
-      <description>&lt;p&gt;根据 2024 年开放原子开发者大会上工信部负责人公布的信息，中国软件开发者（广义程序员）数量已突破 940 万。&lt;/p&gt;
-&lt;p&gt;按 60% 失业来看，大约是失业人数在 600w 左右。&lt;/p&gt;
-&lt;p&gt;上一次教培改革影响的人数也差不多在这个范围（基于 AI 的判断）。&lt;/p&gt;
-&lt;p&gt;目前看就算是裁员也会有缓冲期，整体影响不大。  &lt;/p&gt;
-&lt;p&gt;但是对个人来说确实是灾难了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>组里应届生用 ai 写的代码有 bug 解决不了，我帮助解决后，有感而发</title>
-      <link>https://www.v2ex.com/t/1199894</link>
-      <guid>v2ex-1199894</guid>
-      <pubDate>Fri, 20 Mar 2026 09:45:35 GMT</pubDate>
-      <description>&lt;p&gt;昨日，组长派我去支援一位被 Redis 配置坑了数小时的应届生。背景很简单，他是想给这个服务引入 redis ，通过 ai 已经写好了 redis 的组件和相关代码，编译可以通过，但是启动后报错，某 class not found 。&lt;/p&gt;
-&lt;p&gt;在我介入后，我排除了一些依赖，并把 redisson 的依赖降低了几个版本，问题解决了，前后也就花费了十分钟。&lt;/p&gt;
-&lt;p&gt;我并不想吹嘘自己多厉害，是因为类似的问题我在几年前遇到过，当年我好像花费了一整天才研究明白了前因后果，搞懂了框架背后的运行原理。这才能使我今天能够十分钟解决问题。&lt;/p&gt;
-&lt;p&gt;事后我和应届生分析他为什么和 ai 对话了几个小时也没能把问题解决，是因为 ai 只能根据你给出的有限上下文给出概率分析。ai 并没有做错，ai 看到问题是 class not found ，所以就去想办法去补充这个 class ，但这是错上加错，加上 c 依赖，a 依赖又报错了。问题的根因其实很隐蔽，这个项目的 springboot 版本较低，但是很久之前引入的某个三方包带了 spring redis 较高的依赖，你这次把 redis 集成进来了，在不知情的情况下唤醒了这个三方包里的 autoconfiguration ，他们有个自动检测 redis health 并打点的异步任务，实际上这个任务对我们是没有用的，把相关的依赖排掉，不让这个任务跑了就行了。&lt;/p&gt;
-&lt;p&gt;这个应届生，不知道 springboot 的 autoconfiguration 机制，所以不知道三方包里引进来有可能会有自动运行的东西；也不知道 maven 的传递依赖机制，所以查不明白 springboot 真实生效的版本是多少；更别说知道 redisson 的依赖 redisson-spring-boot-starter 和 redisson-spring-data 的版本和 springboot 的版本有很坑的对应关系（很小众的知识），所以不能无脑用最新的版本号或者随便用个版本。ai 呢，可能也是被 maven 的传递依赖机制坑了，他错误了获取到了 springboot 的版本号，所以给出的 redisson 依赖版本也是错的，出错的那个 not found class 又是公司内部自己写的，ai 又不认识，所以 ai 自己也找不出问题根因也无可厚非。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;我不禁在想，于 AI 时代毕业的新人们，以后会越来越缺乏这些经验。虽说在古法编程中会遇到各种各样浪费大量时间，走多条弯路去解决某个不起眼的问题，但正是这些时间和弯路也促使我们对技术的链路和背后的原理有了更深的理解，使我们从初级工程师走向高级工程师。&lt;/p&gt;
-&lt;p&gt;当然，AI 的浪潮谁也阻挡不住，兴许半年后更强大的 AI 就可以找出真实原因并解决这个问题，或者多年后全面转向全 AI 编程后，这种三方包留坑拉屎的问题从源头就不复存在了。&lt;/p&gt;
-&lt;p&gt;当年我刚刚毕业时，我也曾鄙视过坚守旧技术的老登们，时过境迁，想不到这么快我也成为他们的一员了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>求推荐个靠谱梯子</title>
       <link>https://www.v2ex.com/t/1199980</link>
       <guid>v2ex-1199980</guid>
@@ -185,6 +105,40 @@ WK4JY7LNN4T3
 还是经常卡出不输出阿...
 大家用啥梯子能够平顺地使用 cursor 这些呢...&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>为了在被窝里或陪老婆逛街时还可以 Vibe Coding, 我做了 Vibe Remote</title>
+      <link>https://www.v2ex.com/t/1199897</link>
+      <guid>v2ex-1199897</guid>
+      <pubDate>Fri, 20 Mar 2026 10:12:44 GMT</pubDate>
+      <description>产品官网 (推荐开始的地方): &lt;a target=&quot;_blank&quot; href=&quot;https://vibe-remote.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://vibe-remote.com/&lt;/a&gt;&lt;br /&gt;APP Store 地址: &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/us/app/vibe-remote-ai-dev/id6759615708&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/us/app/vibe-remote-ai-dev/id6759615708&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如果你已经在用 Claude Code 、Codex 或者 OpenCode 这些工具，真的没理由再把自己绑在电脑前了。我做 vibe-remote 的初衷很简单：我想躺在被窝里写代码，或者在公园长椅上随时用写一些项目. 并且要完整复用我自己的 Claude code 或 OpenCode 的订阅、配置. 拥有 Git 查看、文件查看等功能.&lt;br /&gt;&lt;br /&gt;产品是**永久免费**的, PRO 用户是给我这种高强度使用、需要管理数十个 session 的人. 大部分用户一直用免费版就可以.&lt;br /&gt;&lt;br /&gt;使用起来很简单:&lt;br /&gt;&lt;br /&gt;1. 确保你本机有 Claude Code 、Codex 、OpenCode 、Gemini-Cli 任意一个&lt;br /&gt;2. 访问官网, 输入命令&lt;br /&gt;3. 扫码下载 app&lt;br /&gt;4. app 扫码命令行的二维码&lt;br /&gt;&lt;br /&gt;完成, 可以带着 agent 出门了. 欢迎体验哈.</description>
+    </item>
+    <item>
+      <title>我在民办大学教“龙虾”</title>
+      <link>https://www.v2ex.com/t/1199914</link>
+      <guid>v2ex-1199914</guid>
+      <pubDate>Fri, 20 Mar 2026 11:33:50 GMT</pubDate>
+      <description>&lt;p&gt;背景：
+我在上海一家民办大学教书，这所大学，算是典型的大厂再就业中心，好多华为、阿里大厂高龄博士在这里发光发热，兄弟我也一样。&lt;/p&gt;
+&lt;p&gt;学生算是年轻人中最普通的群体，除了个别能跟上 AI 热潮，大都浑浑噩噩，只知 “豆包”，无论 CC 。&lt;/p&gt;
+&lt;p&gt;安装龙虾之后，我给大家出了三道题：&lt;/p&gt;
+&lt;p&gt;1.用龙虾点一杯奶茶。
+2.用龙虾模拟邮件收集作业，要求附件按学号存放到指定目录，然后生成一个 Excel ，如果没有附件，自动回复清发附件。
+3.用龙虾无论什么方式，赚一分钱。&lt;/p&gt;
+&lt;p&gt;结果：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;没有人搞得定，但是能搞定麦当劳；&lt;/li&gt;
+&lt;li&gt;有人搞定了，出乎我的意料；&lt;/li&gt;
+&lt;li&gt;正在实验中&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>今天去途虎做保养，疑似被套路了</title>
+      <link>https://www.v2ex.com/t/1199915</link>
+      <guid>v2ex-1199915</guid>
+      <pubDate>Fri, 20 Mar 2026 11:40:33 GMT</pubDate>
+      <description>今天去途虎做保养，本来计划就是换个机油机滤啥的，结果检测出来一堆毛病，换了包括刹车片、火花塞等七八个项目，花费 1700 多。&lt;br /&gt;其他项目我不确定有没有问题就不说了，但是关于换电池我觉得很可疑。&lt;br /&gt;&lt;br /&gt;师傅一上来首先掀开发动机盖拿了个设备连到电池上，然后说电池容量只剩 4%，随时可能无法启动，让我换电池，我考虑了一下以防万一就同意了。&lt;br /&gt;&lt;br /&gt;问题出在保养结束结账要走的时候，我随口问了一句这次保养记录都能查到吧，然后师傅让我打开他们的小程序告诉我在哪查看记录。&lt;br /&gt;&lt;br /&gt;然后我无意间看到了一个之前的检查记录，当时是 2025 年 1 月份在途虎另一家店，显示电池容量为 1%，问题是，这个电池是 2024 年 6 月份在京东换的瓦尔塔电池，&lt;br /&gt;也就是说电池刚换了半年当时就检测为剩 1%了!!!&lt;br /&gt;所以这个就很侮辱智商了，这次说的 4%容量又有多大可能是真的呢？呵呵&lt;br /&gt;&lt;br /&gt;当时收到报价单还弹出一个对话框让我选是否被过度推销之类的，我犹豫了一下还选了否。这家店刚开不久，确实比之前去的另一家营销厉害的多，之前两次在途虎都只做了四五百的基础保养。</description>
     </item>
   </channel>
 </rss>
