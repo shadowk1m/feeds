@@ -4,27 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 22 Mar 2026 03:56:22 GMT</lastBuildDate>
-    <item>
-      <title>iPhone 是真 TM 难用</title>
-      <link>https://www.v2ex.com/t/1199995</link>
-      <guid>v2ex-1199995</guid>
-      <pubDate>Sat, 21 Mar 2026 04:10:10 GMT</pubDate>
-      <description>之前用的是一个 13mini ，当备用机买会员、集 esim 之类的，2 个月前从安卓转 16pro 日常使用，有几个点太难受了：&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://1.App&quot; rel=&quot;nofollow noopener&quot;&gt;1.App&lt;/a&gt; 通知无法通道管理。私信通知和营销广告混在一起，没办法单独设置，要关只能全关。不要跟我说 App 里可以单独设置，没有几个 App 能做到，最典型的就是银行 App ，以及闲鱼、得物这种有重要通知的 App ，私信、账单、单笔消费等要从海量的垃圾消息里去找。要想实现分类关闭除非用 15pro 这种价格上天的低系统老机器玩巨魔才能实现，这不扯淡呢吗？&lt;br /&gt;2.没有电话黄页。尤其现在好多广告电话用手机号打，电话打过来根本分不清营销还是重要的，只能硬接。Github 上那个黄页项目聊胜于无，标记范围太小了。&lt;br /&gt;3.杀后台。打开第 3 、4 个 App ，再回去开第 1 个，结果发现已经重启了，特别容易让人忘记原来这个 App 是在做什么任务，甚至 Surge 这种都有可能被关掉。本来以为 iPhone 通知及时才转过来的，结果发现连后台应用常驻都做不到。&lt;br /&gt;4.没有右侧左滑返回，要想退出还得点 App 的关闭键，或者滑左边，很反人类。&lt;br /&gt;5.有急事的时候安卓来通知上滑一下 1 分钟内就不再弹出了，苹果却还是反复弹出，真的很烦人。&lt;br /&gt;6.2 小时以内的通知消息没有一键清除，一堆消息堆在锁屏页，越堆越多，真的很乱。&lt;br /&gt;7.桌面 4 乘 4 布局没法改，底部想放 5 个应用都没办法。而且最多 15 页，多了就移到资源库里。&lt;br /&gt;&lt;br /&gt;相比之下，短信通知不分级、电话录音功能繁琐、发热、信号差这些对我来说都不算是问题了。好多问题网上一搜，别人问有没有这个功能，回复不说没有，反而清一色回答这个功能不需要，我就纳闷了，苹果用户的宽容度怎么就这么高呢？&lt;br /&gt;&lt;br /&gt;当然了，iPone 也有几个我离不开的：&lt;br /&gt;1.各种外区内购，土区、尼区低价会员，国区内购也能通过 9 折充余额省钱&lt;br /&gt;2.有几个独占 App ，比如 Reeder 、Infuse 、Surge 之类的&lt;br /&gt;3.Apple One&lt;br /&gt;但是这些在我看来都是锦上添花的东西，基础功能都做不好，这些有个蛋用呢？正好赶上这波解锁 BL 锁，昨天重新下单了小米 17 ，这个 16pro 当个备用机得了。</description>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 05:16:03 GMT</lastBuildDate>
     <item>
       <title>Android 是真 TM 难用</title>
       <link>https://www.v2ex.com/t/1200054</link>
       <guid>v2ex-1200054</guid>
       <pubDate>Sat, 21 Mar 2026 11:53:07 GMT</pubDate>
       <description>之前一直用的是 iPhone ，当主力机用了两三年，最近心血来潮换了安卓 (某旗舰)，想着“自由度高、可玩性强”，结果用了一个多月，结论就一句话：Android 真 TM 难用。&lt;br /&gt;&lt;br /&gt;说几个最离谱的点：&lt;br /&gt;1.通知系统看起来很强，实际一团乱麻&lt;br /&gt;表面上说什么“通知通道精细管理”，结果实际体验就是——大部分 App 根本不按规范来。&lt;br /&gt;有的全塞一个通道，有的命名乱七八糟，有的干脆不给你细分。你想只关营销推送？不好意思，要么全关，要么继续被轰炸。&lt;br /&gt;尤其是国内这些 App ，和你想象的“可控”完全不是一回事。&lt;br /&gt;2.系统割裂严重，每家都在自创标准&lt;br /&gt;用过几个品牌：小米、OPPO 、vivo ，甚至 三星。&lt;br /&gt;每家一套逻辑：权限管理不一样、后台机制不一样、设置入口也不一样。&lt;br /&gt;你换个手机，相当于重新学习一遍系统，这在 iOS 上基本不存在。&lt;br /&gt;3.后台机制玄学，完全不可预测&lt;br /&gt;官方说“不卡后台”“大内存”，结果现实是：&lt;br /&gt;你以为它在？其实没了。&lt;br /&gt;你以为它没了？它又突然活了。&lt;br /&gt;像 Clash 这种需要常驻的工具，经常莫名其妙断掉。&lt;br /&gt;各种“电池优化白名单”“锁后台”“自启动”，全开了也不一定有用，纯玄学。&lt;br /&gt;4.应用质量参差不齐，体验极不稳定&lt;br /&gt;同一个 App ，在不同安卓机上表现都不一样：&lt;br /&gt;卡顿、掉帧、适配问题、闪退，时不时就来一下。&lt;br /&gt;很多开发者明显是“先适配 iOS ，再糊一个安卓版本”，用起来就是明显粗糙一档。&lt;br /&gt;5.权限系统看似自由，其实非常烦&lt;br /&gt;动不动就弹权限：位置、后台、通知、悬浮窗、自启动……&lt;br /&gt;而且很多功能不给权限就直接不给用。&lt;br /&gt;你要么妥协全开，要么体验残废，所谓“自由”其实是把复杂性转嫁给用户。&lt;br /&gt;6.系统广告和骚操作太多&lt;br /&gt;有些系统级 App 都能给你推广告，文件管理、天气、浏览器，全都有。&lt;br /&gt;你要一个个关，还藏得特别深。&lt;br /&gt;买个几千块的手机，还得自己“去广告”，这事本身就挺离谱。&lt;br /&gt;7.更新策略混乱，版本碎片化严重&lt;br /&gt;安卓版本一堆（ 12 、13 、14…），厂商还要再套一层 UI 。&lt;br /&gt;结果就是：&lt;br /&gt;同一个功能，不同机型有没有都不一定。&lt;br /&gt;系统更新？有的快，有的等一年，有的直接没了。&lt;br /&gt;8.生态不统一，小功能全靠拼凑&lt;br /&gt;像剪贴板同步、设备联动这种东西，得看品牌生态。&lt;br /&gt;你用 小米 就配小米全家桶，用 三星 又是另一套。&lt;br /&gt;跨品牌基本等于没有，完全不像 iOS 那种统一体验。&lt;br /&gt;&lt;br /&gt;——&lt;br /&gt;&lt;br /&gt;当然，安卓也不是一无是处：&lt;br /&gt;1.确实自由，能折腾（前提是你愿意花时间）&lt;br /&gt;2.硬件选择多，性价比高&lt;br /&gt;3.有些功能确实比 iOS 激进，比如分屏、窗口化&lt;br /&gt;&lt;br /&gt;但说实话，这些都是“加分项”。&lt;br /&gt;而基础体验——稳定、统一、可预期——反而做不好。&lt;br /&gt;&lt;br /&gt;最离谱的是，你去网上搜这些问题：&lt;br /&gt;有人问“能不能更简单点”，下面一堆回复不是说怎么解决，而是——&lt;br /&gt;“你为什么需要这个功能？”&lt;br /&gt;&lt;br /&gt;我就有点看不懂了，安卓用户的忍耐力是不是也太强了？&lt;br /&gt;&lt;br /&gt;目前的结论就是：&lt;br /&gt;安卓适合折腾，当玩具可以；&lt;br /&gt;但要当主力机长期用，真的挺折磨人的。&lt;br /&gt;&lt;br /&gt;*以上内容通过 AI 生成。</description>
-    </item>
-    <item>
-      <title>你們現在使用光貓撥號還是路由撥號上網？</title>
-      <link>https://www.v2ex.com/t/1199996</link>
-      <guid>v2ex-1199996</guid>
-      <pubDate>Sat, 21 Mar 2026 04:28:58 GMT</pubDate>
-      <description>如題！現在被 pcdn 封堵，寬帶上網好像使用光貓撥號穩定一點，這個是不是心裡作用？延時也低一點。</description>
     </item>
     <item>
       <title>保姆级教程｜ 3 月最新的谷歌 Gemini 免费一年领取教程｜ Pixel 认证教程</title>
@@ -63,20 +49,6 @@
 哎，不知道以后干啥了
 现在有个济南的 12k ，基本腰斩了都，查了查风评也不好，不知道要不要去&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>今日话题：你被人割过没</title>
-      <link>https://www.v2ex.com/t/1200010</link>
-      <guid>v2ex-1200010</guid>
-      <pubDate>Sat, 21 Mar 2026 06:56:45 GMT</pubDate>
-      <description>我 2020 年被别人割了 1w  当时学习的国外问卷调查赚美金项目，现在想想当时太傻逼了</description>
-    </item>
-    <item>
-      <title>推荐一下大家常用的 iPhone 快捷指令</title>
-      <link>https://www.v2ex.com/t/1200102</link>
-      <guid>v2ex-1200102</guid>
-      <pubDate>Sun, 22 Mar 2026 01:48:35 GMT</pubDate>
-      <description>目前用了扫码付款、导航回家、查找购物订单、查快递、记录体重等</description>
     </item>
     <item>
       <title>直达源头，绝不掺水，中转站 Unity2.Ai，注册后进群立送 10 刀，周一上富可敌国</title>
@@ -119,6 +91,20 @@ codex 0.3 元一刀&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>今日话题：你被人割过没</title>
+      <link>https://www.v2ex.com/t/1200010</link>
+      <guid>v2ex-1200010</guid>
+      <pubDate>Sat, 21 Mar 2026 06:56:45 GMT</pubDate>
+      <description>我 2020 年被别人割了 1w  当时学习的国外问卷调查赚美金项目，现在想想当时太傻逼了</description>
+    </item>
+    <item>
+      <title>推荐一下大家常用的 iPhone 快捷指令</title>
+      <link>https://www.v2ex.com/t/1200102</link>
+      <guid>v2ex-1200102</guid>
+      <pubDate>Sun, 22 Mar 2026 01:48:35 GMT</pubDate>
+      <description>目前用了扫码付款、导航回家、查找购物订单、查快递、记录体重等</description>
+    </item>
+    <item>
       <title>怎么感觉樱桃比春节期间的车厘子还贵啊</title>
       <link>https://www.v2ex.com/t/1200048</link>
       <guid>v2ex-1200048</guid>
@@ -129,12 +115,26 @@ codex 0.3 元一刀&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>东哥外卖,根本没认真搞</title>
+      <link>https://www.v2ex.com/t/1200103</link>
+      <guid>v2ex-1200103</guid>
+      <pubDate>Sun, 22 Mar 2026 01:48:39 GMT</pubDate>
+      <description>今天早上点了个麦当劳外卖,凑满减加个香芋派,结果没给香芋派&lt;br /&gt;我正常申请退款,结果发现不能单退商品,只能整个订单退&lt;br /&gt;但是整单退,麦当劳那边不同意,拒绝退款&lt;br /&gt;拒绝之后订单没有申诉入口,只能找人工客服&lt;br /&gt;人工客服只能让找麦当劳客服电话&lt;br /&gt;麦当劳客服,只能转给餐厅,餐厅没有商家后台,不能单退,继续拒绝&lt;br /&gt;这就导致了死循环,&lt;br /&gt;申请退款-拒绝退款-人工客服-转发餐厅-拒绝退款-申请退款&lt;br /&gt;&lt;br /&gt;就这样,餐厅后续答应补我香芋派,但是已经过了 4 小时,我已经不想吃了,白白丢了一次钱</description>
+    </item>
+    <item>
       <title>目前美伊战争持续期间 大家对各类投资如何看啊</title>
       <link>https://www.v2ex.com/t/1200004</link>
       <guid>v2ex-1200004</guid>
       <pubDate>Sat, 21 Mar 2026 06:12:43 GMT</pubDate>
       <description>&lt;p&gt;昨晚好像除了原油，其他美股 港股 大 A 基金 有色 黄金等等 好像无一避免，又下跌一轮，想听听大家的想法，如果战争持续下去，或者继续升级（比如海军登录地面），那这些资产哪个会反转反弹啊，难道原油一直上涨，其他一直下跌吗？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>一个人搞了个佛学文献搜索引擎，整合了全球 500+ 个数据源，开源了</title>
+      <link>https://www.v2ex.com/t/1200096</link>
+      <guid>v2ex-1200096</guid>
+      <pubDate>Sun, 22 Mar 2026 00:11:07 GMT</pubDate>
+      <description>一个人搞了个佛学文献搜索引擎，整合了全球 500+ 个数据源，开源了&lt;br /&gt;&lt;br /&gt;  搞佛学研究的朋友应该都有体会：资料散落在全球几百个数据库里，CBETA 、SuttaCentral 、BDRC 、84000……查一个主题要开一&lt;br /&gt;  堆网站，格式各异，体验参差不齐。&lt;br /&gt;&lt;br /&gt;  我做了 FoJin （佛津），把这些资源聚到一起：504 个数据源，9,200+ 部典籍，21 种语言（中文、梵文、巴利文、藏文等）。&lt;br /&gt;&lt;br /&gt;  🔗 体验： &lt;a target=&quot;_blank&quot; href=&quot;https://fojin.app&quot; rel=&quot;nofollow noopener&quot;&gt;https://fojin.app&lt;/a&gt; ｜ 源码： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/xr843/fojin&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/xr843/fojin&lt;/a&gt; （ Apache 2.0 ）&lt;br /&gt;&lt;br /&gt;  几个核心功能&lt;br /&gt;&lt;br /&gt;  - 多语种全文检索 — ES + ICU 分词，支持中日韩/梵巴藏，按朝代、分类、来源多维筛选&lt;br /&gt;  - 平行阅读 — 同一部经的不同语言译本左右对照（如《心经》梵汉藏英对读）&lt;br /&gt;  - AI 问答（小津） — RAG 驱动，回答标注经典出处，匿名可用，支持 BYOK&lt;br /&gt;  - 知识图谱 — 9,600 实体 + 3,800 关系，D3 可视化&lt;br /&gt;  - 辞典整合 — 6 部权威辞典，23 万+ 词条&lt;br /&gt;  - 学术导出 — BibTeX / RIS / APA&lt;br /&gt;&lt;br /&gt;  技术栈&lt;br /&gt;&lt;br /&gt;  React 18 + TS + Ant Design 5 | FastAPI + SQLAlchemy async&lt;br /&gt;  PostgreSQL 15 (pgvector) + Elasticsearch 8 + Redis 7&lt;br /&gt;  Docker Compose 一键起</description>
     </item>
   </channel>
 </rss>
