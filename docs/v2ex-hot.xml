@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 22 Mar 2026 07:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 07:53:23 GMT</lastBuildDate>
     <item>
       <title>Android 是真 TM 难用</title>
       <link>https://www.v2ex.com/t/1200054</link>
@@ -91,18 +91,28 @@
 </description>
     </item>
     <item>
-      <title> MacBook Air M5 相当于只花了 5300 多元✌️</title>
-      <link>https://www.v2ex.com/t/1200050</link>
-      <guid>v2ex-1200050</guid>
-      <pubDate>Sat, 21 Mar 2026 11:16:36 GMT</pubDate>
-      <description>MBA M5 16+512GB 国补+教育 6374&lt;br /&gt;教育 80&lt;br /&gt;出二手 Mac mini M4 赚了 1087&lt;br /&gt;&lt;br /&gt;6374+80-1087=5367&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/r3Yju1w.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/r3Yju1w.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+      <title>［无广］ AI 中转站的底裤，扒给你看</title>
+      <link>https://www.v2ex.com/t/1200135</link>
+      <guid>v2ex-1200135</guid>
+      <pubDate>Sun, 22 Mar 2026 05:03:56 GMT</pubDate>
+      <description>最近 V2 中转广告满天飞，我把这个行业的盈利模式整理了一下，一些东西看完可能会不舒服。&lt;br /&gt;&lt;br /&gt;产业链长什么样&lt;br /&gt;&lt;br /&gt;卡商/号商（批量注册账号、倒卖虚拟信用卡）&lt;br /&gt;&lt;br /&gt;    ↓&lt;br /&gt;&lt;br /&gt;号池（汇聚账号，批发 token 额度）&lt;br /&gt;&lt;br /&gt;    ↓&lt;br /&gt;&lt;br /&gt;中转站（零售给你）&lt;br /&gt;&lt;br /&gt;    ↓&lt;br /&gt;&lt;br /&gt;   你&lt;br /&gt;&lt;br /&gt;每一层都在赚差价。问题在于中间每一层都有自己的黑活。&lt;br /&gt;&lt;br /&gt;低价从哪来：四种手法&lt;br /&gt;&lt;br /&gt;① 反代其他客户端&lt;br /&gt;&lt;br /&gt;最常见也最隐蔽。中转站不走官方 API ，而是逆向破解 Kiro 、Cursor 、各类 AI IDE 插件的内部接口，把这些客户端订阅账号的额度转卖给你。这类渠道成本极低，但后果是：你的请求会被注入这些客户端自带的系统提示词（专为代码场景优化的），你以为在用裸 Claude ，其实在用被改造过的 Claude 。&lt;br /&gt;&lt;br /&gt;② 模型掺水&lt;br /&gt;&lt;br /&gt;又叫&quot;换头术&quot;。界面显示 claude-opus-4 ，后台跑的可能是某个 7B 开源模型。用量少的时候给你真货，高峰期或者流量大了悄悄切换。感觉模型今天&quot;降智&quot;了？很可能是真的。&lt;br /&gt;&lt;br /&gt;CISPA 亥姆霍兹信息安全中心今年 3 月发了一篇论文（ arxiv:2603.01919 ），系统打假了第三方 API 市场，结论很炸：被测的 24 个 API 端点里，超过半数在后台换了模型。用假模型每花 1 美元，错误数量是官方 API 的 2-4 倍。更离谱的是，有 187 篇学术论文在用这些假 API 跑实验，其中 62% 已被 ACL 、CVPR 等顶会接收——连做 AI 研究的人都被坑了。&lt;br /&gt;&lt;br /&gt;③ 三头吃：一笔钱赚三遍&lt;br /&gt;&lt;br /&gt;这是一些黑心中转站的终极形态，一笔流量赚三份钱：&lt;br /&gt;&lt;br /&gt;第一头：收你的充值费用（人民币结算，真实收入）&lt;br /&gt;&lt;br /&gt;第二头：背后用批量注册的账号白嫖 Anthropic/OpenAI 额度，等账号被封之后申请退款——等于薅官方羊毛来服务你，成本趋近于零&lt;br /&gt;&lt;br /&gt;第三头：你所有的输入输出都是明文，打包卖给需要训练数据的买家。V2 上有站长亲口说过，有人开价来买他的用户数据，他拒绝了——他拒绝了，不代表别人也拒绝&lt;br /&gt;&lt;br /&gt;这三条腿同时踩，哪条先断都还有另外两条。&lt;br /&gt;&lt;br /&gt;跑路的生命周期&lt;br /&gt;&lt;br /&gt;低价+送额度 → 吸引用户 → 规模大了涨价降稳定性 → 群里一吐槽就封号踢人 → 某天域名消失，余额归零&lt;br /&gt;&lt;br /&gt;中转站解决了真实的支付和访问痛点，不是说不能用，但这个行业的信息不对称极其严重。你不知道背后跑的是什么模型，不知道你的对话有没有被存档，不知道站长明天会不会消失。&lt;br /&gt;&lt;br /&gt;用之前，心里得有数。</description>
     </item>
     <item>
-      <title>用惯了免费的 gpt-5.4，完全不想再碰自部署开源模型了，哎😑</title>
-      <link>https://www.v2ex.com/t/1200047</link>
-      <guid>v2ex-1200047</guid>
-      <pubDate>Sat, 21 Mar 2026 10:43:53 GMT</pubDate>
-      <description>最近 codex 开放给 free 用户用了，用惯了免费的 gpt-5.4 ，完全不想再碰开源模型了&lt;br /&gt;Claude 在 24 年就有的 Computer Use 功能都没有，都没法操作屏幕自己验收前端工程，写出来的代码自己 debug 都做不到， &lt;br /&gt;Tool Search 也没有，搜索工具还需要自己配 api ，有的更是睁着眼睛说瞎话没有 skills ，&lt;br /&gt;别说 Extreme 推理，思考过程几乎在放屁，对主线流程完全没有帮助，原本设定 11 小时的任务，打个电话五分钟就完全无响应了</description>
+      <title>Claude Code 最近风控力度加大，太容易封账号了，已经连续封了 3 个了</title>
+      <link>https://www.v2ex.com/t/1200112</link>
+      <guid>v2ex-1200112</guid>
+      <pubDate>Sun, 22 Mar 2026 03:01:04 GMT</pubDate>
+      <description>&lt;p&gt;一共注册了 4 个账号。&lt;/p&gt;
+&lt;p&gt;第一个 1 个账号用了半年被封，另外 1 个账号用了 3 个月被封，最近 2 个账号不到 1 个月就被封了。&lt;/p&gt;
+&lt;p&gt;有 3 个登不进去了：
+Your account has been disabled after an automatic review of your recent activities. Please take a look at our Terms of Service and Usage Policy for more information. If you wish to appeal your suspension, please visit our Trust &amp;amp; Safety Center.&lt;/p&gt;
+&lt;p&gt;有一个可以登进去：提示
+This organization has been disabled.&lt;/p&gt;
+&lt;p&gt;我实在没辙了，又注册一个，小心翼翼地，生怕又被封禁了。（现在注册得现有 Google 账号，Google 账号还得手机扫码，太麻烦你了。Google 账号有了，还得用国外手机收 Claude 的短信，太费劲了）&lt;/p&gt;
+&lt;p&gt;通过 Openrouter 、poloai 之类是可以，但很费银子啊，这是关键地方才用的；
+通过 anyrouter 之类公益站，稳定性太差，真实没招了，我付费都不让用啊。&lt;/p&gt;
+&lt;p&gt;Anthropic 为啥就不让中国人用呢？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
