@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 22 Mar 2026 16:17:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 16:51:45 GMT</lastBuildDate>
     <item>
       <title>一个人搞了个佛学文献搜索引擎，整合了全球 500+ 个数据源，开源了</title>
       <link>https://www.v2ex.com/t/1200096</link>
@@ -46,13 +46,6 @@ This organization has been disabled.&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>推荐一下大家常用的 iPhone 快捷指令</title>
-      <link>https://www.v2ex.com/t/1200102</link>
-      <guid>v2ex-1200102</guid>
-      <pubDate>Sun, 22 Mar 2026 01:48:35 GMT</pubDate>
-      <description>目前用了扫码付款、导航回家、查找购物订单、查快递、记录体重等</description>
-    </item>
-    <item>
       <title>理论上来说最优的新能源方案是不是使用甲醇/乙醇燃料电池？</title>
       <link>https://www.v2ex.com/t/1200106</link>
       <guid>v2ex-1200106</guid>
@@ -74,36 +67,18 @@ This organization has been disabled.&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>推荐一下大家常用的 iPhone 快捷指令</title>
+      <link>https://www.v2ex.com/t/1200102</link>
+      <guid>v2ex-1200102</guid>
+      <pubDate>Sun, 22 Mar 2026 01:48:35 GMT</pubDate>
+      <description>目前用了扫码付款、导航回家、查找购物订单、查快递、记录体重等</description>
+    </item>
+    <item>
       <title>［无广］ AI 中转站的底裤，扒给你看</title>
       <link>https://www.v2ex.com/t/1200135</link>
       <guid>v2ex-1200135</guid>
       <pubDate>Sun, 22 Mar 2026 05:03:56 GMT</pubDate>
       <description>最近 V2 中转广告满天飞，我把这个行业的盈利模式整理了一下，一些东西看完可能会不舒服。&lt;br /&gt;&lt;br /&gt;产业链长什么样&lt;br /&gt;&lt;br /&gt;卡商/号商（批量注册账号、倒卖虚拟信用卡）&lt;br /&gt;&lt;br /&gt;    ↓&lt;br /&gt;&lt;br /&gt;号池（汇聚账号，批发 token 额度）&lt;br /&gt;&lt;br /&gt;    ↓&lt;br /&gt;&lt;br /&gt;中转站（零售给你）&lt;br /&gt;&lt;br /&gt;    ↓&lt;br /&gt;&lt;br /&gt;   你&lt;br /&gt;&lt;br /&gt;每一层都在赚差价。问题在于中间每一层都有自己的黑活。&lt;br /&gt;&lt;br /&gt;低价从哪来：四种手法&lt;br /&gt;&lt;br /&gt;① 反代其他客户端&lt;br /&gt;&lt;br /&gt;最常见也最隐蔽。中转站不走官方 API ，而是逆向破解 Kiro 、Cursor 、各类 AI IDE 插件的内部接口，把这些客户端订阅账号的额度转卖给你。这类渠道成本极低，但后果是：你的请求会被注入这些客户端自带的系统提示词（专为代码场景优化的），你以为在用裸 Claude ，其实在用被改造过的 Claude 。&lt;br /&gt;&lt;br /&gt;② 模型掺水&lt;br /&gt;&lt;br /&gt;又叫&quot;换头术&quot;。界面显示 claude-opus-4 ，后台跑的可能是某个 7B 开源模型。用量少的时候给你真货，高峰期或者流量大了悄悄切换。感觉模型今天&quot;降智&quot;了？很可能是真的。&lt;br /&gt;&lt;br /&gt;CISPA 亥姆霍兹信息安全中心今年 3 月发了一篇论文（ arxiv:2603.01919 ），系统打假了第三方 API 市场，结论很炸：被测的 24 个 API 端点里，超过半数在后台换了模型。用假模型每花 1 美元，错误数量是官方 API 的 2-4 倍。更离谱的是，有 187 篇学术论文在用这些假 API 跑实验，其中 62% 已被 ACL 、CVPR 等顶会接收——连做 AI 研究的人都被坑了。&lt;br /&gt;&lt;br /&gt;③ 三头吃：一笔钱赚三遍&lt;br /&gt;&lt;br /&gt;这是一些黑心中转站的终极形态，一笔流量赚三份钱：&lt;br /&gt;&lt;br /&gt;第一头：收你的充值费用（人民币结算，真实收入）&lt;br /&gt;&lt;br /&gt;第二头：背后用批量注册的账号白嫖 Anthropic/OpenAI 额度，等账号被封之后申请退款——等于薅官方羊毛来服务你，成本趋近于零&lt;br /&gt;&lt;br /&gt;第三头：你所有的输入输出都是明文，打包卖给需要训练数据的买家。V2 上有站长亲口说过，有人开价来买他的用户数据，他拒绝了——他拒绝了，不代表别人也拒绝&lt;br /&gt;&lt;br /&gt;这三条腿同时踩，哪条先断都还有另外两条。&lt;br /&gt;&lt;br /&gt;跑路的生命周期&lt;br /&gt;&lt;br /&gt;低价+送额度 → 吸引用户 → 规模大了涨价降稳定性 → 群里一吐槽就封号踢人 → 某天域名消失，余额归零&lt;br /&gt;&lt;br /&gt;中转站解决了真实的支付和访问痛点，不是说不能用，但这个行业的信息不对称极其严重。你不知道背后跑的是什么模型，不知道你的对话有没有被存档，不知道站长明天会不会消失。&lt;br /&gt;&lt;br /&gt;用之前，心里得有数。</description>
-    </item>
-    <item>
-      <title>分享一下最近搞过的 AI + 副业，也给大家看看几个行业下的 AI 能力边界（？），顺便给自己打波求职广告</title>
-      <link>https://www.v2ex.com/t/1200128</link>
-      <guid>v2ex-1200128</guid>
-      <pubDate>Sun, 22 Mar 2026 04:08:49 GMT</pubDate>
-      <description>&lt;p&gt;起因： &lt;/p&gt;
-&lt;p&gt;其一，是最近接的私活开发业务暂停了，一下子少了一大笔收入，迫切的需要开辟新的收入来源。
-其二，是自己之前只是用 ai 来解决代码功能开发相关的问题，其实对 ai 原理一知半解，对 ai 技术比较好奇，想要探索探索 ai 赋能的各种方向下，ai 的能力到底如何。于是边学 ai 原理，一边用 ai 来做各种副业测试。&lt;/p&gt;
-&lt;p&gt;模型：
-文字为载体的任务，主要使用基于 GPT-5.4 的模型来进行各类非代码任务的测试。 代码类之前比较喜欢使用 GPT-5.3-CODEX 。
-视频类主要就是即梦里的 seedance 模型了。
-在几年之前，就大概什么模型新发布了都会尝试用用，主要还是习惯 GPT 系的，去年 12 月份用 Gemini 比较多，现在还是用回 GPT 了。 （
-为什么要特意介绍模型呢，因为现在各种流行的 ai 赋能工具，都可以理解为 ai agent ，而 ai agent 到底好不好用，受使用的 LLM 模型底座很大影响。有时候或许不是你写的 System Prompt 不好使，而是模型能力不够。） &lt;/p&gt;
-&lt;p&gt;AI 载体：部署在 HetZner 的 CX33 服务器上的 openclaw ，使用 qq bot 渠道来交流。 &lt;/p&gt;
-&lt;p&gt;副业方向 1——初次尝试 AI Agent 开发：用 ReAct Agent 开发范式自己开发了一个黄金行情交易分析工具 agent. 通过 Cron 来推进 Agent 自动运行，通过 akshare 拿到的上海黄金交易所行情数据，然后让 agent 来多次循环分析行情，根据 macd ，rsi 等。用 fastapi 暴露出后端服务，然后让 ai 快速糊了一个前端页面来查看。主要是满足自己一颗量化分析交易的心。目前死于找不到合适的量化交易接口，开通接口资金门槛太高。收入 0.（模型 GPT-5.3-CODEX ） &lt;/p&gt;
-&lt;p&gt;副业方向 2—— AI 小说：通过多轮次和 Claw 讨论小说设定，先敲定整本书设定，然后跟 ai 再多轮次对话敲定各类主角、配角、力量体系、世界观等设定。也是通过 Cron + HeartBeat 来让 Claw 可以每半小时自动续写一章节小说。同时让其在工作流里不断实现，读设定——遵从设定——写细纲——写正文——一致性检查——逻辑硬伤检查——时间线更新——…。目前昨晚刚刚签约番茄小说，后台更新到了 13 章，实际 Claw 已经写到了 43 章，但是最近我让他从 25 章开始重构了。因为读起来太平淡，小说数据似乎也不太好，不清楚番茄这里签约到底根据什么来的。收入 0.（模型 GPT-5.4 ，思考等级 xhigh ，几天时间烧了快 500 多美元的 token 了 感谢 ai 公益站，感谢奥特曼，感谢 Openai 。感觉是拿薅的 token 换钱，但是小说的转换比例还是太少了，转换速度也太慢了） &lt;/p&gt;
-&lt;p&gt;副业方向 3—— AI 视频：平常刷 B 站比较多，经常能刷到咕咕嘎嘎小企鹅的形象。于是用即梦来创作 AI 视频，买的最低档的一个月基础会员。现在 AI 视频制作真的火爆，从早上到晚上 24 点都在排队。24 点以后倒是经常可以直接提交 prompt ，直接开始制作。主要就是看同行最火的视频怎么做，自己口头描述一下发给 GPT ，再让 GPT 来生成、润色视频生成 prompt 脚本。再通过剪映简单的剪辑。或者直接上传抖音，简单的配一个 Rec 贴纸，如果生成的视频声音效果不好，那就配个 BGM 遮盖一点。目前用的 0 基础抖音新号，发布了 4 个 AI 视频，增长 29 个粉丝，播放量 1 万 5. 点赞 600-700 的样子。收入 0. &lt;/p&gt;
-&lt;p&gt;其它方向，比如 用 ai 翻译技术文章，然后降低 ai 感觉，发布到微信公众号啊什么的。 &lt;/p&gt;
-&lt;p&gt;看到这里，这篇文章主要就是希望能给大家一点使用 ai 探索副业的经验上的参考帮助。 &lt;/p&gt;
-&lt;p&gt;最后，也给自己打个广告，我 30 岁，3 年左右的开发经验，不过工作经历不太好。技术方面会全栈开发，前端开发（ React + Vue + ts + Tailwind ），后端开发 （ Express + MySQL + Prisma ）。对 WMS 类型（或者后台管理类型）业务比较熟悉，也负责过对相关类型业务从 0 搭建项目到独立建模，建表，确定模型关系，然后完成全栈项目。对 AI Agent 开发也算上手了，也搞过知识库，有 rag 等实操经验。目前坐标北京，北京，上海，杭州，南京目前都可以，最好还是优先北京吧。 &lt;/p&gt;
-&lt;p&gt;对交流 AI 副业感兴趣的可以加入 Discord &lt;a href=&quot;https://discord.gg/MWWDwXZ2TV&quot; rel=&quot;nofollow&quot;&gt;https://discord.gg/MWWDwXZ2TV&lt;/a&gt; ，平常一起讨论。也欢迎对想要给我一份工作的老板来加入，或者留言你的联系方式，我来加老板。谢谢了&lt;/p&gt;
-&lt;p&gt;（ AI 目前还是不够全能，在某些方向上也有所欠缺。但是对于代码方向上，至少 github 上分享的代码都是能跑通的吧，那么对于 AI 训练来讲，代码资料这方面真的相比于其他领域的资料质量很高了。所以大模型强于代码开发。实际商业中，从用户感知角度来考虑，功能的开发，用户能跑通就够用。极致的交互体验和性能优化，是活下来的才有资格来进行的）&lt;/p&gt;
-&lt;p&gt;（本文内容由本人来书写的，没有经过 AI 虚构，润色）谢谢。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>Gemini 真是天才</title>
@@ -129,6 +104,31 @@ This organization has been disabled.&lt;/p&gt;
 **极高 (动态溯源)**：不使用脚本批量生成，而是基于针对源码的自动化正则定位引擎，精准分析了对 $fileName 的调用。
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;果然是美版豆包。。。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>分享一下最近搞过的 AI + 副业，也给大家看看几个行业下的 AI 能力边界（？），顺便给自己打波求职广告</title>
+      <link>https://www.v2ex.com/t/1200128</link>
+      <guid>v2ex-1200128</guid>
+      <pubDate>Sun, 22 Mar 2026 04:08:49 GMT</pubDate>
+      <description>&lt;p&gt;起因： &lt;/p&gt;
+&lt;p&gt;其一，是最近接的私活开发业务暂停了，一下子少了一大笔收入，迫切的需要开辟新的收入来源。
+其二，是自己之前只是用 ai 来解决代码功能开发相关的问题，其实对 ai 原理一知半解，对 ai 技术比较好奇，想要探索探索 ai 赋能的各种方向下，ai 的能力到底如何。于是边学 ai 原理，一边用 ai 来做各种副业测试。&lt;/p&gt;
+&lt;p&gt;模型：
+文字为载体的任务，主要使用基于 GPT-5.4 的模型来进行各类非代码任务的测试。 代码类之前比较喜欢使用 GPT-5.3-CODEX 。
+视频类主要就是即梦里的 seedance 模型了。
+在几年之前，就大概什么模型新发布了都会尝试用用，主要还是习惯 GPT 系的，去年 12 月份用 Gemini 比较多，现在还是用回 GPT 了。 （
+为什么要特意介绍模型呢，因为现在各种流行的 ai 赋能工具，都可以理解为 ai agent ，而 ai agent 到底好不好用，受使用的 LLM 模型底座很大影响。有时候或许不是你写的 System Prompt 不好使，而是模型能力不够。） &lt;/p&gt;
+&lt;p&gt;AI 载体：部署在 HetZner 的 CX33 服务器上的 openclaw ，使用 qq bot 渠道来交流。 &lt;/p&gt;
+&lt;p&gt;副业方向 1——初次尝试 AI Agent 开发：用 ReAct Agent 开发范式自己开发了一个黄金行情交易分析工具 agent. 通过 Cron 来推进 Agent 自动运行，通过 akshare 拿到的上海黄金交易所行情数据，然后让 agent 来多次循环分析行情，根据 macd ，rsi 等。用 fastapi 暴露出后端服务，然后让 ai 快速糊了一个前端页面来查看。主要是满足自己一颗量化分析交易的心。目前死于找不到合适的量化交易接口，开通接口资金门槛太高。收入 0.（模型 GPT-5.3-CODEX ） &lt;/p&gt;
+&lt;p&gt;副业方向 2—— AI 小说：通过多轮次和 Claw 讨论小说设定，先敲定整本书设定，然后跟 ai 再多轮次对话敲定各类主角、配角、力量体系、世界观等设定。也是通过 Cron + HeartBeat 来让 Claw 可以每半小时自动续写一章节小说。同时让其在工作流里不断实现，读设定——遵从设定——写细纲——写正文——一致性检查——逻辑硬伤检查——时间线更新——…。目前昨晚刚刚签约番茄小说，后台更新到了 13 章，实际 Claw 已经写到了 43 章，但是最近我让他从 25 章开始重构了。因为读起来太平淡，小说数据似乎也不太好，不清楚番茄这里签约到底根据什么来的。收入 0.（模型 GPT-5.4 ，思考等级 xhigh ，几天时间烧了快 500 多美元的 token 了 感谢 ai 公益站，感谢奥特曼，感谢 Openai 。感觉是拿薅的 token 换钱，但是小说的转换比例还是太少了，转换速度也太慢了） &lt;/p&gt;
+&lt;p&gt;副业方向 3—— AI 视频：平常刷 B 站比较多，经常能刷到咕咕嘎嘎小企鹅的形象。于是用即梦来创作 AI 视频，买的最低档的一个月基础会员。现在 AI 视频制作真的火爆，从早上到晚上 24 点都在排队。24 点以后倒是经常可以直接提交 prompt ，直接开始制作。主要就是看同行最火的视频怎么做，自己口头描述一下发给 GPT ，再让 GPT 来生成、润色视频生成 prompt 脚本。再通过剪映简单的剪辑。或者直接上传抖音，简单的配一个 Rec 贴纸，如果生成的视频声音效果不好，那就配个 BGM 遮盖一点。目前用的 0 基础抖音新号，发布了 4 个 AI 视频，增长 29 个粉丝，播放量 1 万 5. 点赞 600-700 的样子。收入 0. &lt;/p&gt;
+&lt;p&gt;其它方向，比如 用 ai 翻译技术文章，然后降低 ai 感觉，发布到微信公众号啊什么的。 &lt;/p&gt;
+&lt;p&gt;看到这里，这篇文章主要就是希望能给大家一点使用 ai 探索副业的经验上的参考帮助。 &lt;/p&gt;
+&lt;p&gt;最后，也给自己打个广告，我 30 岁，3 年左右的开发经验，不过工作经历不太好。技术方面会全栈开发，前端开发（ React + Vue + ts + Tailwind ），后端开发 （ Express + MySQL + Prisma ）。对 WMS 类型（或者后台管理类型）业务比较熟悉，也负责过对相关类型业务从 0 搭建项目到独立建模，建表，确定模型关系，然后完成全栈项目。对 AI Agent 开发也算上手了，也搞过知识库，有 rag 等实操经验。目前坐标北京，北京，上海，杭州，南京目前都可以，最好还是优先北京吧。 &lt;/p&gt;
+&lt;p&gt;对交流 AI 副业感兴趣的可以加入 Discord &lt;a href=&quot;https://discord.gg/MWWDwXZ2TV&quot; rel=&quot;nofollow&quot;&gt;https://discord.gg/MWWDwXZ2TV&lt;/a&gt; ，平常一起讨论。也欢迎对想要给我一份工作的老板来加入，或者留言你的联系方式，我来加老板。谢谢了&lt;/p&gt;
+&lt;p&gt;（ AI 目前还是不够全能，在某些方向上也有所欠缺。但是对于代码方向上，至少 github 上分享的代码都是能跑通的吧，那么对于 AI 训练来讲，代码资料这方面真的相比于其他领域的资料质量很高了。所以大模型强于代码开发。实际商业中，从用户感知角度来考虑，功能的开发，用户能跑通就够用。极致的交互体验和性能优化，是活下来的才有资格来进行的）&lt;/p&gt;
+&lt;p&gt;（本文内容由本人来书写的，没有经过 AI 虚构，润色）谢谢。&lt;/p&gt;
 </description>
     </item>
   </channel>
