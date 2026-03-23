@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 23 Mar 2026 08:58:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 10:01:18 GMT</lastBuildDate>
     <item>
       <title>死亡螺旋若隐若现</title>
       <link>https://www.v2ex.com/t/1200248</link>
@@ -15,13 +15,6 @@
 </description>
     </item>
     <item>
-      <title>撸了日本小电影提取字幕并翻译的工具</title>
-      <link>https://www.v2ex.com/t/1200245</link>
-      <guid>v2ex-1200245</guid>
-      <pubDate>Mon, 23 Mar 2026 01:08:50 GMT</pubDate>
-      <description>撸了个提取视频字幕并用大模型翻译的工具，专门针对日语优化，支持 Windows 和 macOS （ M 芯片）： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/cddqssc/Caption-Trans&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/cddqssc/Caption-Trans&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如图，帮我的一个朋友翻译了一部番号为 ipx-726 的日语片，效果非常哇塞&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/PxbaieAt.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 PxbaieAt.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/PxbaieAt.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;利用 whisperX 的词级时间戳针对日语进行优化，其他语言保持 whisperX 的基本水准，比 whisper 强。&lt;br /&gt;转录自动识别 GPU 加速&lt;br /&gt;推荐使用 gemini flash lite 系列模型，速度快价格便宜，还能翻译敏感词</description>
-    </item>
-    <item>
       <title>我想到一个 UBI 方案，大家可以讨论宣传下吗</title>
       <link>https://www.v2ex.com/t/1200232</link>
       <guid>v2ex-1200232</guid>
@@ -30,6 +23,13 @@
 &lt;p&gt;制定如下方法：每周工作五天的没有任何 UBI 收入，每周工作其他天数都可以获得相同的 UBI 收入&lt;/p&gt;
 &lt;p&gt;话说怎样发图片&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>撸了日本小电影提取字幕并翻译的工具</title>
+      <link>https://www.v2ex.com/t/1200245</link>
+      <guid>v2ex-1200245</guid>
+      <pubDate>Mon, 23 Mar 2026 01:08:50 GMT</pubDate>
+      <description>撸了个提取视频字幕并用大模型翻译的工具，专门针对日语优化，支持 Windows 和 macOS （ M 芯片）： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/cddqssc/Caption-Trans&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/cddqssc/Caption-Trans&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如图，帮我的一个朋友翻译了一部番号为 ipx-726 的日语片，效果非常哇塞&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/PxbaieAt.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 PxbaieAt.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/PxbaieAt.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;利用 whisperX 的词级时间戳针对日语进行优化，其他语言保持 whisperX 的基本水准，比 whisper 强。&lt;br /&gt;转录自动识别 GPU 加速&lt;br /&gt;推荐使用 gemini flash lite 系列模型，速度快价格便宜，还能翻译敏感词</description>
     </item>
     <item>
       <title>原来成都小米汽车事故不是因为车结构变形没法打开车门</title>
@@ -49,59 +49,11 @@
 </description>
     </item>
     <item>
-      <title>[相亲]和相亲对象该怎么坚持下去</title>
-      <link>https://www.v2ex.com/t/1200213</link>
-      <guid>v2ex-1200213</guid>
-      <pubDate>Sun, 22 Mar 2026 15:30:27 GMT</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;TL;DR &lt;/p&gt;
-&lt;p&gt;男方相亲遇到一个条件/长相都比较优秀的女生，但受困于（异地+没有恋爱经验）等问题，不知道要不要坚持下去以及怎么坚持下去/推进关系&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;背景&lt;/h3&gt;
-&lt;p&gt;过年的时候，家里临时安排了一场相亲，互相没有发照片，第二天直接见的面；自身条件：99 年，互联网厂，在上海，农村家庭，单亲，母亲在制造业做采购，还有两年退休；颜值一般，没有听到同辈说过长得帅，只有听长辈（姑姑/婶婶这种）客套话说过；穿鞋 179 ；&lt;/p&gt;
-&lt;p&gt;对方家里条件挺好的，父亲省会体制内领导，在四大，做审计工作，很忙，经常到处出差，人挺漂亮的，脸不胖，符合我的审美；比较怀疑就是因为经常[出差+很忙]导致没有处对象；&lt;/p&gt;
-&lt;h3&gt;现状&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;一个多月了，基本每天都有在微信聊天；&lt;/li&gt;
-&lt;li&gt;女方比较热情，经常主动发起聊天，分享日常之类的；&lt;/li&gt;
-&lt;li&gt;异地；只在过年的时候，见过两次面；&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;困境&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;异地问题，都是微信聊天，但感觉一直聊总会腻 or 没话题的时候；和她聊天有点压力，因为我尽可能在让聊天不太尴尬/没话题，好在对方总能接住我抛出的话题，但这也导致有时候我虽然看到了消息，但在思考后续该怎么聊天，不会立马就回消息（之前给婶婶也提过这个事儿，她说如果男方总是 5min 没回消息就直接 pass ），现在和她聊的最多的还是工作，但感觉不是长久之计；&lt;/li&gt;
-&lt;li&gt;家里条件，让我感觉有点门不当户不对&lt;/li&gt;
-&lt;li&gt;我没谈过对象，有点豁不太出去，之前三八妇女节我妈让我给女生买花，关键当时我连她地址都不知道，最后想给他点奶茶也被婉拒；而且我很惧怕见面（怕尴尬+带给对方体验不好），一想到见面要各种流程就有点紧张和难受；导致长辈们都觉得我不想谈恋爱；&lt;/li&gt;
-&lt;li&gt;我对旅游/拍照不是很感兴趣，可能与本人长得一般导致；对方朋友圈置顶全是旅游照片；对方有时分享的一些照片（小动物/风景）我自己感觉回复的也有些敷衍；&lt;/li&gt;
-&lt;li&gt;不知道怎么推进，长辈们只会说喜欢就去追，母单+异地这种天崩开局真的玩不来；但如果就这样放弃，应该会难过挺久的；&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    <item>
-      <title>黄金入手节点</title>
-      <link>https://www.v2ex.com/t/1200249</link>
-      <guid>v2ex-1200249</guid>
-      <pubDate>Mon, 23 Mar 2026 01:19:07 GMT</pubDate>
-      <description>&lt;p&gt;现在黄金一路下跌，有没有大神预测一下什么时候到底，最近有金饰购买需求（ 2 个月内买），什么时候入手比较合适，是现在还是再等等&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>跌的这么狠，抄底吗抄底吗抄底吗，博一下，再不济也会有超跌反弹吧</title>
       <link>https://www.v2ex.com/t/1200300</link>
       <guid>v2ex-1200300</guid>
       <pubDate>Mon, 23 Mar 2026 02:37:03 GMT</pubDate>
       <description>&lt;p&gt;RT&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>据称舒淇没驾照、不开车，代言 SU7 这款运动型车，不搭么？</title>
-      <link>https://www.v2ex.com/t/1200325</link>
-      <guid>v2ex-1200325</guid>
-      <pubDate>Mon, 23 Mar 2026 03:14:51 GMT</pubDate>
-      <description>&lt;p&gt;小米 SU7 定位显然不是大劳、迈巴赫这种乘坐型霸总车，是属于驾控体验优先的车型。&lt;/p&gt;
-&lt;p&gt;媒体报道舒淇没驾照，自己不开车，定位勉强算副驾女王，这显然不是 SU7 的优点，纯粹为了一个网络梗吗&lt;/p&gt;
-&lt;p&gt;有些品牌要求代言人必须是深度用户，这点苏神显然很了解 SU7 这个车，舒淇代言感觉就是个摆件&lt;/p&gt;
-&lt;p&gt;倒是舒淇年纪越大气质越好，就是和追求年轻化的 SU7 用户群，感觉有点不搭么&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/S7JfTpYP/su7.jpg%3E%3C/a%3E&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -224,6 +176,54 @@
 &lt;p&gt;写这篇的原因很简单：工具是好工具，没必要因为支付这点破事去求中间商，更没必要拿一个不知道掺没掺假、随时可能被封的号凑合。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;钱花在刀刃上，账号攥在自己手里，踏实。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;有问题评论区见。能帮到一个是一个。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[相亲]和相亲对象该怎么坚持下去</title>
+      <link>https://www.v2ex.com/t/1200213</link>
+      <guid>v2ex-1200213</guid>
+      <pubDate>Sun, 22 Mar 2026 15:30:27 GMT</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TL;DR &lt;/p&gt;
+&lt;p&gt;男方相亲遇到一个条件/长相都比较优秀的女生，但受困于（异地+没有恋爱经验）等问题，不知道要不要坚持下去以及怎么坚持下去/推进关系&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;背景&lt;/h3&gt;
+&lt;p&gt;过年的时候，家里临时安排了一场相亲，互相没有发照片，第二天直接见的面；自身条件：99 年，互联网厂，在上海，农村家庭，单亲，母亲在制造业做采购，还有两年退休；颜值一般，没有听到同辈说过长得帅，只有听长辈（姑姑/婶婶这种）客套话说过；穿鞋 179 ；&lt;/p&gt;
+&lt;p&gt;对方家里条件挺好的，父亲省会体制内领导，在四大，做审计工作，很忙，经常到处出差，人挺漂亮的，脸不胖，符合我的审美；比较怀疑就是因为经常[出差+很忙]导致没有处对象；&lt;/p&gt;
+&lt;h3&gt;现状&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;一个多月了，基本每天都有在微信聊天；&lt;/li&gt;
+&lt;li&gt;女方比较热情，经常主动发起聊天，分享日常之类的；&lt;/li&gt;
+&lt;li&gt;异地；只在过年的时候，见过两次面；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;困境&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;异地问题，都是微信聊天，但感觉一直聊总会腻 or 没话题的时候；和她聊天有点压力，因为我尽可能在让聊天不太尴尬/没话题，好在对方总能接住我抛出的话题，但这也导致有时候我虽然看到了消息，但在思考后续该怎么聊天，不会立马就回消息（之前给婶婶也提过这个事儿，她说如果男方总是 5min 没回消息就直接 pass ），现在和她聊的最多的还是工作，但感觉不是长久之计；&lt;/li&gt;
+&lt;li&gt;家里条件，让我感觉有点门不当户不对&lt;/li&gt;
+&lt;li&gt;我没谈过对象，有点豁不太出去，之前三八妇女节我妈让我给女生买花，关键当时我连她地址都不知道，最后想给他点奶茶也被婉拒；而且我很惧怕见面（怕尴尬+带给对方体验不好），一想到见面要各种流程就有点紧张和难受；导致长辈们都觉得我不想谈恋爱；&lt;/li&gt;
+&lt;li&gt;我对旅游/拍照不是很感兴趣，可能与本人长得一般导致；对方朋友圈置顶全是旅游照片；对方有时分享的一些照片（小动物/风景）我自己感觉回复的也有些敷衍；&lt;/li&gt;
+&lt;li&gt;不知道怎么推进，长辈们只会说喜欢就去追，母单+异地这种天崩开局真的玩不来；但如果就这样放弃，应该会难过挺久的；&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>黄金入手节点</title>
+      <link>https://www.v2ex.com/t/1200249</link>
+      <guid>v2ex-1200249</guid>
+      <pubDate>Mon, 23 Mar 2026 01:19:07 GMT</pubDate>
+      <description>&lt;p&gt;现在黄金一路下跌，有没有大神预测一下什么时候到底，最近有金饰购买需求（ 2 个月内买），什么时候入手比较合适，是现在还是再等等&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>据称舒淇没驾照、不开车，代言 SU7 这款运动型车，不搭么？</title>
+      <link>https://www.v2ex.com/t/1200325</link>
+      <guid>v2ex-1200325</guid>
+      <pubDate>Mon, 23 Mar 2026 03:14:51 GMT</pubDate>
+      <description>&lt;p&gt;小米 SU7 定位显然不是大劳、迈巴赫这种乘坐型霸总车，是属于驾控体验优先的车型。&lt;/p&gt;
+&lt;p&gt;媒体报道舒淇没驾照，自己不开车，定位勉强算副驾女王，这显然不是 SU7 的优点，纯粹为了一个网络梗吗&lt;/p&gt;
+&lt;p&gt;有些品牌要求代言人必须是深度用户，这点苏神显然很了解 SU7 这个车，舒淇代言感觉就是个摆件&lt;/p&gt;
+&lt;p&gt;倒是舒淇年纪越大气质越好，就是和追求年轻化的 SU7 用户群，感觉有点不搭么&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/S7JfTpYP/su7.jpg%3E%3C/a%3E&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
