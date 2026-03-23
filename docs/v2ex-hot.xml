@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 23 Mar 2026 04:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 05:51:24 GMT</lastBuildDate>
     <item>
       <title>原来成都小米汽车事故不是因为车结构变形没法打开车门</title>
       <link>https://www.v2ex.com/t/1200186</link>
@@ -22,13 +22,11 @@
 </description>
     </item>
     <item>
-      <title>今天房价又降了不少，为啥租房子租金没怎么降</title>
-      <link>https://www.v2ex.com/t/1200132</link>
-      <guid>v2ex-1200132</guid>
-      <pubDate>Sun, 22 Mar 2026 04:28:59 GMT</pubDate>
-      <description>&lt;p&gt;坐标东部沿海省会，今年房价比去年又降了一些，但是我看租房市场的租金（一些精装修的次新房）整租价格相比 20-21 年几乎没怎么降啊，这是为啥啊？&lt;/p&gt;
-&lt;p&gt;疑问点：大家发现房价低，租金贵，不应该就去考虑买房了吗？租房租金也是给房东 不划算啊&lt;/p&gt;
-</description>
+      <title>撸了日本小电影提取字幕并翻译的工具</title>
+      <link>https://www.v2ex.com/t/1200245</link>
+      <guid>v2ex-1200245</guid>
+      <pubDate>Mon, 23 Mar 2026 01:08:50 GMT</pubDate>
+      <description>撸了个提取视频字幕并用大模型翻译的工具，专门针对日语优化，支持 Windows 和 macOS （ M 芯片）： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/cddqssc/Caption-Trans&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/cddqssc/Caption-Trans&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如图，帮我的一个朋友翻译了一部番号为 ipx-726 的日语片，效果非常哇塞&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/PxbaieAt.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 PxbaieAt.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/PxbaieAt.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;利用 whisperX 的词级时间戳针对日语进行优化，其他语言保持 whisperX 的基本水准，比 whisper 强。&lt;br /&gt;转录自动识别 GPU 加速&lt;br /&gt;推荐使用 gemini flash lite 系列模型，速度快价格便宜，还能翻译敏感词</description>
     </item>
     <item>
       <title>我想到一个 UBI 方案，大家可以讨论宣传下吗</title>
@@ -39,20 +37,6 @@
 &lt;p&gt;制定如下方法：每周工作五天的没有任何 UBI 收入，每周工作其他天数都可以获得相同的 UBI 收入&lt;/p&gt;
 &lt;p&gt;话说怎样发图片&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>撸了日本小电影提取字幕并翻译的工具</title>
-      <link>https://www.v2ex.com/t/1200245</link>
-      <guid>v2ex-1200245</guid>
-      <pubDate>Mon, 23 Mar 2026 01:08:50 GMT</pubDate>
-      <description>撸了个提取视频字幕并用大模型翻译的工具，专门针对日语优化，支持 Windows 和 macOS （ M 芯片）： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/cddqssc/Caption-Trans&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/cddqssc/Caption-Trans&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如图，帮我的一个朋友翻译了一部番号为 ipx-726 的日语片，效果非常哇塞&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/PxbaieAt.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 PxbaieAt.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/PxbaieAt.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;利用 whisperX 的词级时间戳针对日语进行优化，其他语言保持 whisperX 的基本水准，比 whisper 强。&lt;br /&gt;转录自动识别 GPU 加速&lt;br /&gt;推荐使用 gemini flash lite 系列模型，速度快价格便宜，还能翻译敏感词</description>
-    </item>
-    <item>
-      <title>［无广］ AI 中转站的底裤，扒给你看</title>
-      <link>https://www.v2ex.com/t/1200135</link>
-      <guid>v2ex-1200135</guid>
-      <pubDate>Sun, 22 Mar 2026 05:03:56 GMT</pubDate>
-      <description>最近 V2 中转广告满天飞，我把这个行业的盈利模式整理了一下，一些东西看完可能会不舒服。&lt;br /&gt;&lt;br /&gt;产业链长什么样&lt;br /&gt;&lt;br /&gt;卡商/号商（批量注册账号、倒卖虚拟信用卡）&lt;br /&gt;&lt;br /&gt;    ↓&lt;br /&gt;&lt;br /&gt;号池（汇聚账号，批发 token 额度）&lt;br /&gt;&lt;br /&gt;    ↓&lt;br /&gt;&lt;br /&gt;中转站（零售给你）&lt;br /&gt;&lt;br /&gt;    ↓&lt;br /&gt;&lt;br /&gt;   你&lt;br /&gt;&lt;br /&gt;每一层都在赚差价。问题在于中间每一层都有自己的黑活。&lt;br /&gt;&lt;br /&gt;低价从哪来：四种手法&lt;br /&gt;&lt;br /&gt;① 反代其他客户端&lt;br /&gt;&lt;br /&gt;最常见也最隐蔽。中转站不走官方 API ，而是逆向破解 Kiro 、Cursor 、各类 AI IDE 插件的内部接口，把这些客户端订阅账号的额度转卖给你。这类渠道成本极低，但后果是：你的请求会被注入这些客户端自带的系统提示词（专为代码场景优化的），你以为在用裸 Claude ，其实在用被改造过的 Claude 。&lt;br /&gt;&lt;br /&gt;② 模型掺水&lt;br /&gt;&lt;br /&gt;又叫&quot;换头术&quot;。界面显示 claude-opus-4 ，后台跑的可能是某个 7B 开源模型。用量少的时候给你真货，高峰期或者流量大了悄悄切换。感觉模型今天&quot;降智&quot;了？很可能是真的。&lt;br /&gt;&lt;br /&gt;CISPA 亥姆霍兹信息安全中心今年 3 月发了一篇论文（ arxiv:2603.01919 ），系统打假了第三方 API 市场，结论很炸：被测的 24 个 API 端点里，超过半数在后台换了模型。用假模型每花 1 美元，错误数量是官方 API 的 2-4 倍。更离谱的是，有 187 篇学术论文在用这些假 API 跑实验，其中 62% 已被 ACL 、CVPR 等顶会接收——连做 AI 研究的人都被坑了。&lt;br /&gt;&lt;br /&gt;③ 三头吃：一笔钱赚三遍&lt;br /&gt;&lt;br /&gt;这是一些黑心中转站的终极形态，一笔流量赚三份钱：&lt;br /&gt;&lt;br /&gt;第一头：收你的充值费用（人民币结算，真实收入）&lt;br /&gt;&lt;br /&gt;第二头：背后用批量注册的账号白嫖 Anthropic/OpenAI 额度，等账号被封之后申请退款——等于薅官方羊毛来服务你，成本趋近于零&lt;br /&gt;&lt;br /&gt;第三头：你所有的输入输出都是明文，打包卖给需要训练数据的买家。V2 上有站长亲口说过，有人开价来买他的用户数据，他拒绝了——他拒绝了，不代表别人也拒绝&lt;br /&gt;&lt;br /&gt;这三条腿同时踩，哪条先断都还有另外两条。&lt;br /&gt;&lt;br /&gt;跑路的生命周期&lt;br /&gt;&lt;br /&gt;低价+送额度 → 吸引用户 → 规模大了涨价降稳定性 → 群里一吐槽就封号踢人 → 某天域名消失，余额归零&lt;br /&gt;&lt;br /&gt;中转站解决了真实的支付和访问痛点，不是说不能用，但这个行业的信息不对称极其严重。你不知道背后跑的是什么模型，不知道你的对话有没有被存档，不知道站长明天会不会消失。&lt;br /&gt;&lt;br /&gt;用之前，心里得有数。</description>
     </item>
     <item>
       <title>[相亲]和相亲对象该怎么坚持下去</title>
@@ -97,6 +81,22 @@
       <description>说到板鞋，优点有很多：&lt;br /&gt;&lt;br /&gt;例如样式简洁大方，也很好搭配衣服与裤子。夏天的时候，随随便便搭一条直筒的休闲裤或者牛仔裤，再加上花色简单的衬衫，整个人看起来就很利落干净。&lt;br /&gt;&lt;br /&gt;清洁起来不费事，只要你不是在丛林探险或者田间劳作，日常城市街道通勤上下班的时间，鞋面落了些灰，软毛刷蘸上清洁剂几下就干净了。&lt;br /&gt;&lt;br /&gt;穿脱也很方便，对我这样的懒癌晚期，鞋带系松一些，平时都不用解开。出门一蹬，进门一甩，那叫一个潇洒！&lt;br /&gt;&lt;br /&gt;自从知道这种鞋型后，板鞋就成了我夏天的心头好。&lt;br /&gt;&lt;br /&gt;但是板鞋有个致命的缺点，致命到掩盖了上面的一切优点。卖家会告诉你，穿着起来舒服着呢，就是跑步不太合适。对我来说，到不了跑步的时候，长时间穿着走路就会让我很难受。&lt;br /&gt;&lt;br /&gt;无论商家吹得天花乱坠，更改不了的事实就是板鞋的设计是反人体构造的。正常人的脚有足弓构造，你可以把它想象成一个反扣过来弹性材料的碗。走路的时候，足弓起到支撑与缓冲的作用，保护脚底的血管与神经。有种病叫扁平足，就是足弓失去了支撑力。&lt;br /&gt;&lt;br /&gt;板鞋的鞋底是平板一块，中间没有支持，每次落脚，足弓舒张，压力本来应该从前脚掌和后跟散发出去，但我们穿着合脚的板鞋啊，这下子两头堵了，作用力就反馈到小腿上。长此以往，对身体健康有很大影响。&lt;br /&gt;&lt;br /&gt;我昨天从西安车站下车，没带多少行李，就背着几件衣服，手里提个零食袋子。本来以为会很热，没想到天气阴沉沉的，还刮着几丝凉风。心情也不错，我已出舱，感觉良好。&lt;br /&gt;&lt;br /&gt;西安这个城市我也是久仰大名了，正好这次有时间过来，也没啥琐事打扰，想着好好地转一转，来之前没有认真做功课，随心而动。下车前，稍微查了一下，大明宫遗址公园好像就在火车站对面。准备下车后就去逛，感受一下跨越千年，唐代的壮阔。&lt;br /&gt;&lt;br /&gt;想得挺美。奈何，我脚上蹬着一双帆布板鞋。没走几步呢，小腿肚子就隐隐作痛了。不管我是如何遮掩与自我欺骗，扎心的事实就是过年我又胖了。谁让老家西北小县城物产贫瘠，过年桌上家家户户桌上摆着砂糖橘和腊肉呢？&lt;br /&gt;&lt;br /&gt;胖子遭受的恶意无处不在，连鞋都不待见你了。去年我还穿板鞋走个几公里，气不喘心不跳呢。再走下去，估计我爸见了又得锤我一顿：那是走路还是拖地？脚抬高！&lt;br /&gt;&lt;br /&gt;思索再三：还是先找个住的地方吧。在坐车去吉祥村的路上，我心想：是时候把减肥提上日程了......</description>
     </item>
     <item>
+      <title>4 offer 选择？</title>
+      <link>https://www.v2ex.com/t/1200284</link>
+      <guid>v2ex-1200284</guid>
+      <pubDate>Mon, 23 Mar 2026 02:20:35 GMT</pubDate>
+      <description>&lt;p&gt;周末 实验室的 师弟博士准备毕业，找工作，有 4 个 offer ，问我意见？&lt;/p&gt;
+&lt;p&gt;1.某 211 大学讲师  2.二本大学讲师？（有点忘记，就是有安家费+科研费，211 的非升即走） 3.南方电网（跟本专业不符合） 4.某互联网大厂&lt;/p&gt;
+&lt;p&gt;=======================================
+我首先排除了 4 的，最后推荐了 1 。但师弟给了我看他小红书上面的问题回复，大部分推荐电网的。。。&lt;/p&gt;
+&lt;p&gt;我勒个豆，仔细看了下。还真的最有优选是电网了！！！&lt;/p&gt;
+&lt;p&gt;电网：别人的 offer 都是空头承诺，我的是一辈子的契约！！！&lt;/p&gt;
+&lt;p&gt;然后，想起每天跟我打本的基友，就是电网的，每次打本叫不来，不是喝酒就是打牌，日子过得贼爽。&lt;/p&gt;
+&lt;p&gt;电网从电力时代革命，一直高歌猛进到新能源，未来还有 AI 能源的大头等着，根本不会愁的。&lt;/p&gt;
+&lt;p&gt;很蛋疼，曾经我也有电网的 offer ，但是看工资低弃了，当时家里太穷了，选了大厂，果然牛马还得穷人当。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Gemini 真是天才</title>
       <link>https://www.v2ex.com/t/1200172</link>
       <guid>v2ex-1200172</guid>
@@ -120,6 +120,15 @@
 **极高 (动态溯源)**：不使用脚本批量生成，而是基于针对源码的自动化正则定位引擎，精准分析了对 $fileName 的调用。
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;果然是美版豆包。。。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>想问问大家， Intel 芯片的 Mac 装 windows 系统，体验如何？</title>
+      <link>https://www.v2ex.com/t/1200183</link>
+      <guid>v2ex-1200183</guid>
+      <pubDate>Sun, 22 Mar 2026 11:39:48 GMT</pubDate>
+      <description>&lt;p&gt;手上买的末班车 2020mbp Intel 16G+512G ，买的时候花了一万多，低价处理太心疼。用起来总是觉得太卡，于是想装 windows 系统试试，但我没有相关经验，特来问问有这方面的 V 友，Mac 装 win 系统体验怎么样？卡吗，电风扇呼啦啦的转吗？&lt;/p&gt;
+&lt;p&gt;谢谢大家！&lt;/p&gt;
 </description>
     </item>
   </channel>
