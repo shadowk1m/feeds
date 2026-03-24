@@ -4,7 +4,57 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 24 Mar 2026 01:07:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 03:44:34 GMT</lastBuildDate>
+    <item>
+      <title>作为 Leader 也被裁了，挺意外的，随便聊聊</title>
+      <link>https://www.v2ex.com/t/1200592</link>
+      <guid>v2ex-1200592</guid>
+      <pubDate>Tue, 24 Mar 2026 01:14:32 GMT</pubDate>
+      <description>&lt;h3&gt;去年年底和今年年初，我分别在论坛写了一个 V2EX 成分分析器和新年愿望分析，包括创建了副业和 NSFW 节点，可能有些人对我还有点印象。&lt;/h3&gt;
+&lt;h3&gt;没想到，今年轮到我自己被淘汰了。&lt;strong&gt;我被裁了，整个项目组连锅端。&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;1. 在公司&lt;/h3&gt;
+&lt;p&gt;这几年，我几乎是魔怔般地在钻研 AI 。开源社区里，我陆陆续续写了十多个 GitHub 项目且有不错的 star(已删)；自己家里的 NAS 上，常年跑着几十个我写的私有化服务和效率工具。&lt;/p&gt;
+&lt;p&gt;在公司内部，我也算是第一批吃螃蟹并疯狂推动落地的人。从 2023 年开始，我们就把 UI 全部交给了 AI 产出，产品经理的原型也全面接入 AI 。我带着团队把工程化做到了极致：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;给公司开发了专门的原型管理平台；&lt;/li&gt;
+&lt;li&gt;给运营团队撸了一套全自动矩阵系统，24 小时自动爬取新闻、生成爆款文案和配图，直接分发到社交平台；&lt;/li&gt;
+&lt;li&gt;给销售端做了一个基于大模型的线索实时分析与通知平台。&lt;/li&gt;
+&lt;li&gt;给公司 100 多号人培训 AI 编程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其实这两年，得益于这套自己搭建的 AI 基建，我在工作上“摸鱼”摸得挺开心的。别人熬夜干的活，我让系统跑个批处理就搞定了。而那些被 AI 省下的大把时间，几乎又全被我反哺到了对 AI 底层的狂热研究和新项目的折腾中。&lt;/p&gt;
+&lt;p&gt;依靠这波红利，我们的 To B 产品在市面上相当能打。我曾以为，只要我工程化能力足够强，跑得足够快，就能把大部分同行甩在身后，端稳这碗饭。&lt;/p&gt;
+&lt;p&gt;直到今年年初，“龙虾”出来了。&lt;/p&gt;
+&lt;p&gt;几个高层开完会，得出了一个让人绝望但又无法反驳的结论：&lt;strong&gt;市面上绝大多数的 To B 业务，现在根本不需要我们这种重兵把守的工程化团队了。只需要写一堆固定模式的 Skill ，丢给大模型就能直接跑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上级大概的意思是：公司现在的策略就是急流勇退，保命要紧。现在全行业去卷“龙虾”，哪怕你耗尽资源保住了这波，过几个月又冒出个“帝王蟹”、“大鲍鱼”，怎么跟？追不上的，不如直接掀桌子不玩了。&lt;/p&gt;
+&lt;p&gt;其实去年看着众多拿着融资搞 Workflow 、搞 Agent 的公司，在基础模型升级（比如生图被降维打击，费劲画的流程被大模型的一句 Skill 直接平替）后死掉一大片时，我就知道，这一天早晚会来。&lt;/p&gt;
+&lt;h3&gt;2. 关于 IT&lt;/h3&gt;
+&lt;p&gt;回首这些年的职业生涯，title 是产品总监，管过团队，坐过办公室，也操盘过千万级的项目，该经历的都经历了。对于职场，我似乎也没有太多遗憾了。&lt;/p&gt;
+&lt;p&gt;但我对 IT 的未来是极度悲观的&lt;/p&gt;
+&lt;p&gt;现在很多人喜欢拿 AI 和前三次工业革命做对比。&lt;/p&gt;
+&lt;p&gt;但我有个观点：前三次工业革命（蒸汽、电气、信息），虽然砸了手工纺织工、马车夫的饭碗，但它建立起了庞大的工厂、流水线和互联网体系，创造了更多的工人、白领和程序员岗位。&lt;/p&gt;
+&lt;p&gt;但这第四次 AI 革命完全不同。&lt;strong&gt;它的终极形态是“极简”和“去中介化”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;它的目的不是创造新的工作流，而是消灭中间环节。&lt;/p&gt;
+&lt;p&gt;当智能设计简化到不需要 IDE 、不需要命令行，一句话就能跑通一个业务的时候，现在的 IT 行业还需要这么多人吗？绝对不需要。&lt;/p&gt;
+&lt;p&gt;现在的 Cursor 、Claude Code ，甚至“龙虾”，我认为不过是 AI 发展史上的一段弯路，但也必须走。最终的形态，很有可能个人生成喜好的 app ，个人喜好的音乐，甚至个人爱看的电影。&lt;/p&gt;
+&lt;p&gt;以我个人浅薄的判断，后面大部分所谓的基础 IT ，均会变成运维公司。&lt;/p&gt;
+&lt;h3&gt;3. 时代&lt;/h3&gt;
+&lt;p&gt;年初的时候，我买了一辆旅行车，原本想着周末透透气。过年期间，我把车开到了惠州一处绝美的海边。铺开帐篷，接上车的外放电，炒菜、煮饭，晚上就睡在车里。&lt;/p&gt;
+&lt;p&gt;以前工作、出差，习惯了卡着点赶飞机、坐高铁，整个人的生活被压缩成一个个追求效率的进度条。但自从买了车，尤其是这样晃晃悠悠、没有明确目的地的自驾，我突然开始思考一个问题：&lt;strong&gt;人真的需要活得这么“快”吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;IT 行业把效率推到了极致，AI 更是把这种极致变成了吞噬一切的黑洞。不过最后我坐在海边，看着自己花个把小时只为吹着海风煮熟一锅饭时，我才发现，跳出那个追求效率的框架后，慢下来才是最符合人性的物理状态。&lt;/p&gt;
+&lt;p&gt;也就是在那几天，突然发现，一个人要活下去的成本，真的可以低到令人发指。一整天下来就几十块钱成本，带着海浪的宁静与舒适，这是上班这段时间从未有过的体验。&lt;/p&gt;
+&lt;p&gt;另外公司也给了一笔不错的赔偿金，如果按照这种生活方式，应该还是可以生活很久。正好也为后面裁员后的规划埋下了伏笔。&lt;/p&gt;
+&lt;p&gt;对于赚钱，这也许是最糟糕的时代；但对于纯粹的生存，似乎也是最好的时代。&lt;/p&gt;
+&lt;h3&gt;4. 未来&lt;/h3&gt;
+&lt;p&gt;接下来离职后，我准备从深圳出发，先去海南环岛，然后回来经过广西，穿插云南、贵州，最后回老家。后续再继续规划全国游。&lt;/p&gt;
+&lt;p&gt;写下这些零碎的文字，算是我对曾经那个极度钻研技术、试图跟 AI 赛跑的自己，做一个正式的告别。&lt;/p&gt;
+&lt;p&gt;在接下来的旅途中，我大概率会主动屏蔽掉所有关于技术迭代的焦虑，也不再去关心什么“改变世界”、“第四次工业革命”的宏大叙事。前半生都在处理服务器里的虚拟数据，后半生我只想用脚丈量一下真实的泥土，单纯地去看看这个世界本来的样子。&lt;/p&gt;
+&lt;p&gt;后续偶尔我也会回 V2EX 发发帖子，可能会发几张海边的日落，或者分享一下哪里好玩的攻略。&lt;/p&gt;
+&lt;p&gt;看帖子的陌生人，我也祝福你们。不管时代怎么变，希望你们都能找到最适合自己的解法。&lt;/p&gt;
+&lt;h3&gt;5. 说人话&lt;/h3&gt;
+&lt;p&gt;太长不看：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;卷不动了；既然打不过，索性不伺候了！拿着赔偿金，开着车提前退休旅居去！&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>恐飞越来越严重了</title>
       <link>https://www.v2ex.com/t/1200397</link>
@@ -14,13 +64,6 @@
 也不是第一次坐，大概加起来也有 6 ，7 次吧，都是一个人，年纪越大却越害怕。内心是知道没什么风险的，但是就是控制不住的紧张。也许是以前坐过跳楼机产生了心理阴影？或者是负面新闻看多了？之前飞也是整段路都处于神经紧张的状态，好几次宁愿选择高铁。
 解决办法无非就是呼吸法，转移注意力等等，都没法克服恐惧。AI 提到的认知疗法还没有尝试，似乎得做心理咨询，不知道有没有用。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>撸了日本小电影提取字幕并翻译的工具</title>
-      <link>https://www.v2ex.com/t/1200245</link>
-      <guid>v2ex-1200245</guid>
-      <pubDate>Mon, 23 Mar 2026 01:08:50 GMT</pubDate>
-      <description>撸了个提取视频字幕并用大模型翻译的工具，专门针对日语优化，支持 Windows 和 macOS （ M 芯片）： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/cddqssc/Caption-Trans&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/cddqssc/Caption-Trans&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如图，帮我的一个朋友翻译了一部番号为 ipx-726 的日语片，效果非常哇塞&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/PxbaieAt.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 PxbaieAt.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/PxbaieAt.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;利用 whisperX 的词级时间戳针对日语进行优化，其他语言保持 whisperX 的基本水准，比 whisper 强。&lt;br /&gt;转录自动识别 GPU 加速&lt;br /&gt;推荐使用 gemini flash lite 系列模型，速度快价格便宜，还能翻译敏感词</description>
     </item>
     <item>
       <title>「教程揭秘向」扒完中转站掺假，再扒低价代充——顺便教你自己订阅 Claude/ChatGPT，一分钱不经手中间商</title>
@@ -145,43 +188,255 @@
 </description>
     </item>
     <item>
-      <title>跌的这么狠，抄底吗抄底吗抄底吗，博一下，再不济也会有超跌反弹吧</title>
-      <link>https://www.v2ex.com/t/1200300</link>
-      <guid>v2ex-1200300</guid>
-      <pubDate>Mon, 23 Mar 2026 02:37:03 GMT</pubDate>
-      <description>&lt;p&gt;RT&lt;/p&gt;
+      <title>94 年 211 本女找精神契合的男朋友，坐标成都</title>
+      <link>https://www.v2ex.com/t/1200542</link>
+      <guid>v2ex-1200542</guid>
+      <pubDate>Mon, 23 Mar 2026 13:45:45 GMT</pubDate>
+      <description>&lt;p&gt;94 年生，INFP ，射手座，单身，前北漂，现在成都，前互联网产品的……嗯……和父母住。
+啊……认识我的人看到能不能装作没看到谢谢了……&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;概况&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;生活半径：倾向于室内&amp;amp;公园等，也可能会扩大。对高强度户外运动和低心智社交兴趣较低。160 又或许是 159cm, 54kg ，应该没有因为丑陋吓哭过别人或留下阴影。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;个人特质&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;高敏感型人群特质（噪音、音乐、文字敏感型），现在似乎因理性训练钝化了很多。&lt;/li&gt;
+&lt;li&gt;平时是发散型，说话做事可做到形散神聚，也可结果导向。&lt;/li&gt;
+&lt;li&gt;性格：偏直接，线上文字交流可能话唠，线下可能比较安静，偶尔会突然很活泼，情况会因面对人群和氛围而产生变化。不喜欢发脾气但被 trigger 会生气，生气会直说“我生气了”。有灵感和放松的时候有一定幽默感（&lt;/li&gt;
+&lt;li&gt;比较广泛和浅层的兴趣：AI/写作/观鸟/键政/美食/泛二次元/初级心理学/人类观察，好多，但可能没什么超级精通的，因为爱好和时间好分散啊！可实操生产比较逆天的食物。最喜欢的游戏是古剑奇谭全家桶。最喜欢的作品是攻壳机动队，但没有很深刻的见解（&lt;/li&gt;
+&lt;li&gt;价值观：求真求真求真，喜欢公平、真诚、实事求是、契约精神、沟通透明。对自己有一定研究，自我觉察力高。比较同意稻盛和夫说的“希望死之前比来的时候更高贵一点”（大意）。&lt;/li&gt;
+&lt;li&gt;内核： 比较自洽和独立。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;联系前提&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;硬性（如您不满足，即可排除我）：出生年份在 92-96 年间；身高 172cm 及以上，BMI 不可超重；本科为一本及其以上；有一定沟通能力和表达能力；不暴脾气、讲卫生，有个人管理能力和个人收入来源。&lt;/li&gt;
+&lt;li&gt;会收到什么样的私信对我而言估计是有范围限定的盲盒，但希望你能看完、尊重且明白这是双向筛选……有意可在私信的第一条附带一段简单的自我介绍，请说明一些你沉迷过的爱好，或者你对某件小事的逻辑看法。仅发出打招呼类的私信我可能会不回复……上来说得太难听的……公正的大家啊，可以给我出个主意是举了还是怎么。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;偏好类型&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;聪明，真诚，单偶制，真正懂相互尊重不双标，有能力解决问题的，皮肤不黑偏白一点就更好了对不起因为对干净很有好感……理工人更好因为比较怕常识对齐困难太大……&lt;/li&gt;
+&lt;li&gt;能接受吵架不过夜除非我俩都累了的人。我要是累了你还想吵我也会撑着的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;闲话&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;第一次尝试这种形式啊有点忐忑，但是比较宅的人可能就这下场啊！前些年工作在其他地方跑来跑去的感觉不想谈异地，压根儿没想过这方面，恰好同事也都是小朋友和孩子一把年纪的大哥，唉。现在感觉好像可以蹲在成都不挪窝了，就想找男朋友了，加上这些年沟通和情绪管理似乎都成熟了很多，感觉比年轻时候更会爱人了？所以可以实践下。&lt;/li&gt;
+&lt;li&gt;详细的情况是希望有机会深入聊的，我的计划是聊十分钟大家都觉得沟通还可以的话，可以视频打个招呼，或者去浣花溪之类的公共场所逛逛，不合适咱们就直接道别回家。&lt;/li&gt;
+&lt;li&gt;在这种主题下产生联系的话，需要你真的对我写的这样的人有兴趣、有这方面的意愿，而且是能接受一个不轻浮和互相尊重的状态，不然对大家来说……就没有意义呀，大家都明白的，猎艳去别的地方更合适呢我这不艳啊……如果是能一起出去玩做朋友也可以，但我认识的绝大部分男性并不需要女性朋友所以没抱希望，但有的话也可以的。&lt;/li&gt;
+&lt;li&gt;知道成功几率很小，所以我做好了慢速尝试的打算。有这种倾向的朋友其实也可以跟我一样靠算法去寻找一些自己可能感兴趣的人，小红书好像就……没什么男性，我发了贴一天过去 50 浏览哈哈哈哈哈哈哈所以借贵宝地行个方便，尝试一下。但小红书有挺漂亮的女生在找以结婚为前提的对象，还跟我聊了聊，我真有看到。&lt;/li&gt;
+&lt;li&gt;希望找的是能一起玩的人，对我来说亲密关系发展对象一定要是好朋友，双方处于坦诚、尊重的前提下共同努力建立和维护这种关系。玩什么都行，游戏、观鸟、发呆、画画、搞音乐……我比较喜欢那种两个人相依为 gay 的感觉。&lt;/li&gt;
+&lt;li&gt;因为年龄不小，发这种贴子应该也算是比较少见的，说一下我能提供的：本人比较善于看见别人，和我聊天的人总会莫名让我剖析他们或者给决策建议，比较容易进入深度一对一对话，或许是因为比较擅长解剖心理动机。因为擅长看见人的特质和优点，明白喜恶同因的道理，所以和人相处应该会比较成熟。共情和同理心比较强，也比较难被操控。另外我爸妈自行养老，不指望我（土下座）。另外我会有什么都会说出来，会说明白什么事情让我产生了什么情绪我有什么感受希望大家怎么处理。一切为了沟通。&lt;/li&gt;
+&lt;li&gt;涉猎比较碎而广，应该几乎什么话题都能聊点。&lt;/li&gt;
+&lt;li&gt;希望联系我的人能截一个 v2 的个人页面给我，并保证不论是否聊得来都不要在未经允许的情况下公布对方任何个人信息和对话内容。如有一方违反，另一方可保留追究的权利，出于对双方的保护，无奈声明一下，不想一把年纪被网暴啊……&lt;/li&gt;
+&lt;li&gt;我找的不是结婚对象而是男朋友，原因还是不太倾向于直接在建立财产契约的前提下与别人接触，虽然我比较实用主义但不喜欢太功利。如果要考察对方是否能做一个好的父亲也是很折磨人的。这个泥沙俱下的环境下，我希望自己先想的是能提供什么给下一代，如果我认为自己能力不够、不能承担没有“好父亲”的风险，我就不会擅自决定一个人的命运，另外我的父母无条件支持我的选择。&lt;/li&gt;
+&lt;li&gt;平常我放松时是偏活泼的，也比较乐意找一些有趣的事情做。我的乐趣都比较普通，吃好吃的、听歌、看影视作品、玩游戏、思考有的没的，不是阳春白雪的人。&lt;/li&gt;
+&lt;li&gt;应该还是有人困惑于如何与异性相处，我能想到最好的是用《安德的游戏》里主角那样，即便是对方虫族，看起来很不同，都能尽量善意充分沟通。消除猜疑链，达成理解与共存。但同时我了解沟通的局限性，不能弥平每个人原则性的价值观和认知差异。&lt;/li&gt;
+&lt;li&gt;所以我这次尝试是一种探索，也可以算实验。有一些人追求的可能是权力，有一些人追求的可能是爱，希望大家明白自己的需求，找到匹配的人。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;有限的文字不能写尽一个人的价值观，生活中还有非常多的细节，我只能先尽力向有这方面发展的朋友做表达，可能太啰嗦了点。但我毕竟之前是一个产品，“她都做产品了让让她吧！！！”写罗里吧嗦没人看的文档真是信手拈来。&lt;/p&gt;
+&lt;p&gt;但还是感谢有人看到这里。跳着看也感谢。&lt;/p&gt;
+&lt;p&gt;如果上述文字中有任何您不能理解的，是我的问题，还请见谅。感谢各位的时间！&lt;/p&gt;
+&lt;p&gt;哦对神秘代码：d3hpZF9rdXR3M3NubTc3aHYyMg==&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>据称舒淇没驾照、不开车，代言 SU7 这款运动型车，不搭么？</title>
-      <link>https://www.v2ex.com/t/1200325</link>
-      <guid>v2ex-1200325</guid>
-      <pubDate>Mon, 23 Mar 2026 03:14:51 GMT</pubDate>
-      <description>&lt;p&gt;小米 SU7 定位显然不是大劳、迈巴赫这种乘坐型霸总车，是属于驾控体验优先的车型。&lt;/p&gt;
-&lt;p&gt;媒体报道舒淇没驾照，自己不开车，定位勉强算副驾女王，这显然不是 SU7 的优点，纯粹为了一个网络梗吗&lt;/p&gt;
-&lt;p&gt;有些品牌要求代言人必须是深度用户，这点苏神显然很了解 SU7 这个车，舒淇代言感觉就是个摆件&lt;/p&gt;
-&lt;p&gt;倒是舒淇年纪越大气质越好，就是和追求年轻化的 SU7 用户群，感觉有点不搭么&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/S7JfTpYP/su7.jpg%3E%3C/a%3E&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>黄金入手节点</title>
-      <link>https://www.v2ex.com/t/1200249</link>
-      <guid>v2ex-1200249</guid>
-      <pubDate>Mon, 23 Mar 2026 01:19:07 GMT</pubDate>
-      <description>&lt;p&gt;现在黄金一路下跌，有没有大神预测一下什么时候到底，最近有金饰购买需求（ 2 个月内买），什么时候入手比较合适，是现在还是再等等&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>老板发话了，所有开发人员晋升 ai 工程师</title>
-      <link>https://www.v2ex.com/t/1200294</link>
-      <guid>v2ex-1200294</guid>
-      <pubDate>Mon, 23 Mar 2026 02:29:22 GMT</pubDate>
-      <description>&lt;p&gt;公司规模：中型
-地点：福建二线
-所有开发人员全面拥抱 ai ，成为全栈&lt;/p&gt;
-&lt;p&gt;曾经调侃的，前后端分离，人不分离 就要实现了&lt;/p&gt;
-&lt;p&gt;这种情况是不是就要全国普及了&lt;/p&gt;
+      <title>B 站前端开发工程师被裁员，开源了 B 站 app 源码。请大家支持一下方便俺后续找工作🥹</title>
+      <link>https://www.v2ex.com/t/1200526</link>
+      <guid>v2ex-1200526</guid>
+      <pubDate>Mon, 23 Mar 2026 12:21:57 GMT</pubDate>
+      <description>&lt;h1&gt;我用 React Native 做了一个功能完整的 B 站客户端，为了规避法律问题，所以具体代码我重新写了一遍。&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;从 DASH 解码、弹幕系统到 WBI 签名，一个人把该踩的坑全踩了一遍&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h2&gt;先看效果&lt;/h2&gt;
+&lt;h2&gt;截图预览&lt;/h2&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;转存失败，建议直接上传图片文件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/112f12f4638b4fb5b2286f9d1783c13f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sw6YeR5rKZ:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNjI5MzU5NDI1OTAwMjg2In0%3D&amp;amp;rk3s=f64ab15b&amp;amp;x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&amp;amp;x-orig-expires=1774873065&amp;amp;x-orig-sign=ZjnVsER15RaeOmYBtTLWkpZ%2FQLs%3D&quot;/&gt;&lt;br/&gt;&amp;lt;sub&amp;gt;首页热门 · 内联视频 · 穿插直播&amp;lt;/sub&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt=&quot;转存失败，建议直接上传图片文件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/86ebc512054240efa0ffeb82b79b8dca~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sw6YeR5rKZ:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNjI5MzU5NDI1OTAwMjg2In0%3D&amp;amp;rk3s=f64ab15b&amp;amp;x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&amp;amp;x-orig-expires=1774873065&amp;amp;x-orig-sign=%2B3IzqavkLyPISYMgNrJ9Goz6BiM%3D&quot;/&gt;&lt;br/&gt;&amp;lt;sub&amp;gt;视频详情 · 简介 · 推荐视频&amp;lt;/sub&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt=&quot;转存失败，建议直接上传图片文件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/bf01af13a8c54c3aa40b33ddb99ff6ba~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sw6YeR5rKZ:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNjI5MzU5NDI1OTAwMjg2In0%3D&amp;amp;rk3s=f64ab15b&amp;amp;x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&amp;amp;x-orig-expires=1774873065&amp;amp;x-orig-sign=m%2Bcbo%2BNXo%2F2SukARgs6If89kOAQ%3D&quot;/&gt;&lt;br/&gt;&amp;lt;sub&amp;gt;竖屏播放 · 4K HDR · 多清晰度&amp;lt;/sub&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;转存失败，建议直接上传图片文件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/47764ced23dd4166b401b7256de73944~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sw6YeR5rKZ:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNjI5MzU5NDI1OTAwMjg2In0%3D&amp;amp;rk3s=f64ab15b&amp;amp;x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&amp;amp;x-orig-expires=1774873065&amp;amp;x-orig-sign=mAgZX48jIkd7bIwrdkB9rczUzow%3D&quot;/&gt;&lt;br/&gt;&amp;lt;sub&amp;gt;下载管理 · 局域网分享二维码&amp;lt;/sub&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt=&quot;转存失败，建议直接上传图片文件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/2a7696b66dee472695685133f5bd150e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sw6YeR5rKZ:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNjI5MzU5NDI1OTAwMjg2In0%3D&amp;amp;rk3s=f64ab15b&amp;amp;x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&amp;amp;x-orig-expires=1774873065&amp;amp;x-orig-sign=0m96Z2rm4WQCnQMSN%2FFuawq5kEw%3D&quot;/&gt;&lt;br/&gt;&amp;lt;sub&amp;gt;直播 Tab · 关注主播在线 · 分区筛选&amp;lt;/sub&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt=&quot;转存失败，建议直接上传图片文件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/7ae8b8a87f9b4341bc0291aa7864a973~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sw6YeR5rKZ:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNjI5MzU5NDI1OTAwMjg2In0%3D&amp;amp;rk3s=f64ab15b&amp;amp;x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&amp;amp;x-orig-expires=1774873065&amp;amp;x-orig-sign=UAmLo4K1azlimSXVKkWZLzmyWd4%3D&quot;/&gt;&lt;br/&gt;&amp;lt;sub&amp;gt;直播详情 · 实时弹幕 · 舰长标记&amp;lt;/sub&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;全宽内联视频、飘屏弹幕、实时直播、扫码登录、离线下载……大部分你在官方客户端能用到的核心功能，这个项目基本都有。&lt;/p&gt;
+&lt;p&gt;跨平台运行，Android / iOS / Web 三端一套代码，Expo Go 扫码 5 分钟就能跑起来，不需要任何编译环境。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;为什么做这个&lt;/h2&gt;
+&lt;p&gt;B 站的开放接口虽然没有官方文档，但社区里已经有大量逆向分析的积累。我想验证一件事：&lt;strong&gt;用 React Native 能不能做出一个体验接近原生的视频应用，并且把视频播放、弹幕、直播这些最硬核的部分都做到位。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;结论是：可以，但需要踩很多坑。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;技术架构&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;React Native 0.83 + Expo SDK 55
+├── 路由        expo-router v4 （文件系统路由）
+├── 状态管理    Zustand
+├── 网络请求    Axios （自动注入 Cookie / WBI 签名）
+├── 视频播放    react-native-video （ DASH MPD / HLS / MP4 ）
+├── 降级播放    react-native-webview （ HTML5 video 注入）
+├── 页面滑动    react-native-pager-view
+└── 本地存储    @react-native-async-storage/async-storage
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;整体是标准的文件系统路由结构，&lt;code&gt;app/&lt;/code&gt; 下每个文件对应一个页面，Stack 导航管理跳转层级。状态全部走 Zustand ，没有用 Redux 那一套，轻量很多。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;最硬的部分：DASH 视频播放&lt;/h2&gt;
+&lt;p&gt;B 站的高清视频走的是 DASH 协议，服务端返回的是分离的 video stream 和 audio stream ，需要客户端自己做 mux 。&lt;/p&gt;
+&lt;p&gt;浏览器的 &lt;code&gt;&amp;lt;video&amp;gt;&lt;/code&gt; 标签支持 MSE （ Media Source Extensions ），可以直接喂 DASH 数据。但 React Native 里的 &lt;code&gt;react-native-video&lt;/code&gt; 底层走的是 Android ExoPlayer ，它需要一个标准的 &lt;code&gt;.mpd&lt;/code&gt; 文件才能工作。&lt;/p&gt;
+&lt;p&gt;B 站接口返回的是 JSON ，不是 MPD ，所以我手写了一个转换器：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-typescript&quot;&gt;// utils/dash.ts
+export function buildDashMpdUri(dashData: DashData): string {
+  const videoRep = dashData.video
+    .map(v =&amp;gt; `
+      &amp;lt;Representation id=&quot;${v.id}&quot; bandwidth=&quot;${v.bandwidth}&quot;
+        codecs=&quot;${v.codecs}&quot; width=&quot;${v.width}&quot; height=&quot;${v.height}&quot; frameRate=&quot;${v.frameRate}&quot;&amp;gt;
+        &amp;lt;BaseURL&amp;gt;${escapeXml(v.baseUrl)}&amp;lt;/BaseURL&amp;gt;
+        &amp;lt;SegmentBase indexRange=&quot;${v.segmentBase.indexRange}&quot;&amp;gt;
+          &amp;lt;Initialization range=&quot;${v.segmentBase.initialization}&quot;/&amp;gt;
+        &amp;lt;/SegmentBase&amp;gt;
+      &amp;lt;/Representation&amp;gt;`)
+    .join(&#39;&#39;);
+
+  const audioRep = dashData.audio
+    .map(a =&amp;gt; `
+      &amp;lt;Representation id=&quot;${a.id}&quot; bandwidth=&quot;${a.bandwidth}&quot; codecs=&quot;${a.codecs}&quot;&amp;gt;
+        &amp;lt;BaseURL&amp;gt;${escapeXml(a.baseUrl)}&amp;lt;/BaseURL&amp;gt;
+        &amp;lt;SegmentBase indexRange=&quot;${a.segmentBase.indexRange}&quot;&amp;gt;
+          &amp;lt;Initialization range=&quot;${a.segmentBase.initialization}&quot;/&amp;gt;
+        &amp;lt;/SegmentBase&amp;gt;
+      &amp;lt;/Representation&amp;gt;`)
+    .join(&#39;&#39;);
+
+  const mpd = `&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;
+&amp;lt;MPD xmlns=&quot;urn:mpeg:dash:schema:mpd:2011&quot; ...&amp;gt;
+  ...${videoRep}${audioRep}...
+&amp;lt;/MPD&amp;gt;`;
+
+  // 转成 data URI ，直接喂给 react-native-video
+  return `data:application/dash+xml;base64,${btoa(unescape(encodeURIComponent(mpd)))}`;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;生成的 MPD data URI 直接传给 &lt;code&gt;&amp;lt;Video source={{ uri: mpdUri }} /&amp;gt;&lt;/code&gt;，ExoPlayer 拿到合法的 MPD 就能正确解码 1080P+ / 4K HDR 内容。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;WBI 签名：纯 TypeScript 手写 MD5&lt;/h2&gt;
+&lt;p&gt;B 站在 2023 年给核心 API 加了 WBI 签名校验。每次请求需要：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;从 &lt;code&gt;/x/web-interface/nav&lt;/code&gt; 拉取 &lt;code&gt;img_url&lt;/code&gt; 和 &lt;code&gt;sub_url&lt;/code&gt;，从路径中提取密钥字符&lt;/li&gt;
+&lt;li&gt;按固定顺序重排密钥，取前 32 位拼出 &lt;code&gt;mixin_key&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在请求参数里加入 &lt;code&gt;wts&lt;/code&gt;（当前时间戳），用 &lt;code&gt;mixin_key&lt;/code&gt; 对参数做 MD5 签名，附上 &lt;code&gt;w_rid&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;关键在于 MD5——React Native 环境里没有 Node.js 的 &lt;code&gt;crypto&lt;/code&gt; 模块，npm 上的 MD5 库又大多依赖 Buffer ，在 Hermes 引擎上会有兼容问题。&lt;/p&gt;
+&lt;p&gt;最终选择自己实现了一个精简版 MD5 ，纯字符串操作，零外部依赖，在所有平台上跑得很稳。nav 接口结果缓存 12 小时，避免频繁请求。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;弹幕系统：两套机制，一套界面&lt;/h2&gt;
+&lt;h3&gt;视频弹幕&lt;/h3&gt;
+&lt;p&gt;通过 &lt;code&gt;/x/v1/dm/&lt;a href=&quot;http://list.so&quot; rel=&quot;nofollow&quot;&gt;list.so&lt;/a&gt;&lt;/code&gt; 拉取 XML 格式的全量弹幕，解析后得到带时间戳的弹幕列表。播放时按当前进度 drip （逐帧滴入）到飘屏层。&lt;/p&gt;
+&lt;p&gt;飘屏层（&lt;code&gt;DanmakuOverlay&lt;/code&gt;）维护 5 条轨道，每条弹幕根据文字长度计算飞行时间，自动选择未被占用的轨道，避免重叠。颜色、字号、舰长标记全部还原。&lt;/p&gt;
+&lt;h3&gt;直播弹幕&lt;/h3&gt;
+&lt;p&gt;完全不同的机制——WebSocket 长连接，B 站直播弹幕走的是私有二进制协议（头部 16 字节，含包长度、协议版本、操作码、序列号）。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;useLiveDanmaku&lt;/code&gt; Hook 处理连接建立、心跳保活（每 30 秒发一次 &lt;code&gt;[object Object]&lt;/code&gt; 心跳包）、Zlib 解压和数据包解析。支持普通弹幕、礼物事件、进场通知，舰长弹幕有独立标记和颜色。直播弹幕实时追加，保留最近 500 条。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;首页内联视频：BigVideoCard&lt;/h2&gt;
+&lt;p&gt;列表里的精选视频直接内联播放，静音自动开始，可见时播放、离屏时暂停。&lt;/p&gt;
+&lt;p&gt;额外实现了水平手势快进：用 &lt;code&gt;PanResponder&lt;/code&gt; 监听水平滑动，每 &lt;code&gt;dx&lt;/code&gt; 像素对应一定秒数的快进/快退，滑动时显示浮层时间标签，松手跳转。进度条和缓冲条实时更新，和视频状态完全同步。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;全局迷你播放器&lt;/h2&gt;
+&lt;p&gt;这是体验细节里比较难做的一个功能。要求是：从视频详情页退出后，底部出现迷你播放器，续播当前视频，不会因为页面卸载而中断。&lt;/p&gt;
+&lt;p&gt;实现方式：&lt;code&gt;videoStore&lt;/code&gt;（ Zustand ）保存当前播放视频的元数据和播放状态，&lt;code&gt;MiniPlayer&lt;/code&gt; 组件挂载在根布局 &lt;code&gt;_layout.tsx&lt;/code&gt; 里，与路由层级完全解耦。视频详情页卸载时不销毁播放器，只是把控制权交给 MiniPlayer ，播放状态无缝衔接。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;扫码登录&lt;/h2&gt;
+&lt;p&gt;完整实现了 B 站的 OAuth 扫码流程：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;调用 &lt;code&gt;generateQRCode()&lt;/code&gt; 获取 &lt;code&gt;qrcode_key&lt;/code&gt; 和二维码内容&lt;/li&gt;
+&lt;li&gt;用第三方二维码渲染服务生成图片展示给用户&lt;/li&gt;
+&lt;li&gt;每 2 秒轮询 &lt;code&gt;pollQRCode&lt;/code&gt;，监听 &lt;code&gt;code&lt;/code&gt; 字段变化&lt;/li&gt;
+&lt;li&gt;扫码确认后（&lt;code&gt;code === 0&lt;/code&gt;），从响应头的 &lt;code&gt;set-cookie&lt;/code&gt; 字段提取 &lt;code&gt;SESSDATA&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;写入 AsyncStorage ，后续所有请求自动携带&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;登录状态通过 &lt;code&gt;authStore&lt;/code&gt; 持久化，App 启动时自动恢复。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;离线下载 + 局域网分享&lt;/h2&gt;
+&lt;p&gt;下载功能支持多清晰度选择（ 720P / 1080P / 1080P+），后台队列下载，进度实时显示在导航栏角标。&lt;/p&gt;
+&lt;p&gt;有一个比较有意思的功能：下载完成后，可以一键启动内置 HTTP 服务器，生成局域网访问二维码。同一 Wi-Fi 下的任意设备扫码，直接在浏览器播放已下载的视频，不需要任何额外 App 。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;技术栈总结&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;层&lt;/th&gt;
+&lt;th&gt;技术选型&lt;/th&gt;
+&lt;th&gt;理由&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;框架&lt;/td&gt;
+&lt;td&gt;React Native 0.83 + Expo SDK 55&lt;/td&gt;
+&lt;td&gt;跨平台，生态成熟&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;路由&lt;/td&gt;
+&lt;td&gt;expo-router v4&lt;/td&gt;
+&lt;td&gt;文件系统路由，类 Next.js 体验&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;状态&lt;/td&gt;
+&lt;td&gt;Zustand&lt;/td&gt;
+&lt;td&gt;轻量，无 boilerplate&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;视频&lt;/td&gt;
+&lt;td&gt;react-native-video&lt;/td&gt;
+&lt;td&gt;ExoPlayer 底层，支持 DASH/HLS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;弹幕&lt;/td&gt;
+&lt;td&gt;自研&lt;/td&gt;
+&lt;td&gt;两套协议，一套 UI&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;WBI 签名&lt;/td&gt;
+&lt;td&gt;自研纯 TS MD5&lt;/td&gt;
+&lt;td&gt;零依赖，全平台兼容&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;下载&lt;/td&gt;
+&lt;td&gt;自研队列 + HTTP server&lt;/td&gt;
+&lt;td&gt;支持局域网分享&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;hr/&gt;
+&lt;h2&gt;运行方式&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Expo Go （ 5 分钟，无需编译）&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git clone https://github.com/tiajinsha/JKVideo.git
+cd JKVideo
+npm install
+npx expo start
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;用 Expo Go 扫码即可，视频降级为 WebView 方案。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dev Build （完整功能，推荐）&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;npm install
+npx expo run:android
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;解锁 DASH 原生播放、完整弹幕系统。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;直接安装（ Android ）&lt;/strong&gt;
+前往 &lt;a href=&quot;https://github.com/tiajinsha/JKVideo/releases/latest&quot; rel=&quot;nofollow&quot;&gt;Releases&lt;/a&gt; 下载 APK ，安装即用。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;最后&lt;/h2&gt;
+&lt;p&gt;这个项目从零开始大概花了三周，期间踩的最深的坑是 DASH MPD 拼装（ ExoPlayer 对 MPD 格式极为严格，差一个属性就报 &lt;code&gt;SOURCE_ERROR&lt;/code&gt;）和直播弹幕的二进制协议解析（官方没有任何文档，全靠抓包逆向）。&lt;/p&gt;
+&lt;p&gt;整个项目代码完全开源，欢迎 Star 、Fork 、提 Issue 和 PR 。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GitHub：&lt;a href=&quot;https://github.com/tiajinsha/JKVideo&quot; rel=&quot;nofollow&quot;&gt;https://github.com/tiajinsha/JKVideo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果觉得有帮助，点个 Star 是对我最大的鼓励 ⭐&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -224,6 +479,45 @@
 &lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;所以现在事情变得骑虎难下。基本所有我们共同的亲戚都知道、关心、撮合、催促我们的事，我没法后退，我又没有能力、动力去追求她。现在就卡在中间了。&lt;/p&gt;
 &lt;p&gt;这周末主动跟她讲下周去上海找她玩，她表示可以并询问了我一些想玩的事物（说实话我对去上海玩根本不感兴趣）。我想到时候给她带束小花+潮玩盲盒（之前聊天时她表示喜欢这种），但是我到时候是坐高铁去，拿着一天又不方便，又开始陷入焦虑了，头疼想逃避。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>一个人照顾新生儿和剖腹产老婆，我也是没谁了</title>
+      <link>https://www.v2ex.com/t/1200577</link>
+      <guid>v2ex-1200577</guid>
+      <pubDate>Mon, 23 Mar 2026 22:11:12 GMT</pubDate>
+      <description>&lt;p&gt;终于睡完了一个整觉，来吐槽下。&lt;/p&gt;
+&lt;p&gt;由于老婆坚持顺产，又觉得老人来了也是添乱，所以一开始定的计划是我一个人陪护。&lt;/p&gt;
+&lt;p&gt;结果在一天的试产后，胎心很高，医生觉得继续下去有风险，强烈要求我们剖了。老婆也是在没有任何心理准备的情况下签字剖了。好处是还没开指，不算两遍罪，坏处是已经消耗了一天的体力了。&lt;/p&gt;
+&lt;p&gt;孩子出生后，几乎没消停，就吃了拉，拉了吃。老婆几乎不能动，帮她小便一次就得半个多小时。我自己也得吃喝拉撒，连续 4 天每天只睡 2-4 小时。&lt;/p&gt;
+&lt;p&gt;昨天终于把他们娘两送到月子中心，回来睡了个觉，开车的时候精神都是恍惚的。&lt;/p&gt;
+&lt;p&gt;我估计我的事迹已经在护士站传开了，每天都有人问你们怎么只有一个陪护，赶紧再叫一个吧，一个人不可能照顾大人和小孩的。到了月子中心，他们说新生儿第一周体重都是下降的，结果我家的还涨了几百克。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>关于我转行矿工的一年半后</title>
+      <link>https://www.v2ex.com/t/1200578</link>
+      <guid>v2ex-1200578</guid>
+      <pubDate>Mon, 23 Mar 2026 22:13:30 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/1095904#reply253%22%E5%85%84%E5%BC%9F%E4%BB%AC%EF%BC%8C%E6%88%91%E5%9D%9A%E6%8C%81%E4%B8%8B%E6%9D%A5%E4%BA%86%22&quot; rel=&quot;nofollow&quot;&gt;从软件测试转行矿工，兄弟们我坚持下来了&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/1033107#reply63&quot; rel=&quot;nofollow&quot;&gt;24 年四月份正好的空窗期，我爸生病了，我去考了本地的国企煤矿&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;从第一次下井，到现在已经一年半了，算是坚持下来了，也算是适应了；&lt;/p&gt;
+&lt;p&gt;对我来说几乎是一眼可以忘到头的工作，如果没有意外，那我一辈子可以预测所有人生轨迹；&lt;/p&gt;
+&lt;p&gt;回到老家这个小城市工作的好处就是一年内买车买房结婚了吧（非常的迅速，我完全的措手不及），这里算是一个五线资源类小城市，主要经济支柱依靠我所在的这个煤矿的母公司，月薪下来平均一万，好点的房价六千左右（我的房子 139 平米，贷款是 59W ，我月还 2519,公积金每个月有一千三，有压力但是不算很大吧）；&lt;/p&gt;
+&lt;p&gt;工作当然没那么轻松，煤矿的工作耗时很大，我刚才起床没有去上班，想了想就和大家分享一下吧，最近我上小班的时间（凌晨 5:00 起床--6:10 前到队组会议室开会--7:00+下井坐人车去工作面--晚上 20:30 坐人车去上井--大概 21:40 上井--然后洗澡再回家，基本上我回家就快 0:00 了）；&lt;/p&gt;
+&lt;p&gt;第二天上班择是 17:00 出发&amp;gt;18：00 开会&amp;gt;19:00 下井&amp;gt;次日上井大概 10:00(以上工作需要预留一个人交班，所以可能那个人需要晚两个小时上井);&lt;/p&gt;
+&lt;p&gt;时间来说，适应了就还好，毕竟这就是生活；&lt;/p&gt;
+&lt;p&gt;我在 24 年空窗期的时候做了一段时间零工（验收医保项目，没有时间限制，多劳多得），经常听到很多前同事同样的离开了北京，我在想他们在回家后做什么呢？有好多安排吗？也会迷茫他们的人生如何，我当时从来没有想过自己会去到煤矿，人生的确是不可预测的，希望大家都可以有顺利的人生吧，煤矿没有那么好，但是对我来说能养家，我就可以坚持下去。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>储备石油什么时候释放？</title>
+      <link>https://www.v2ex.com/t/1200377</link>
+      <guid>v2ex-1200377</guid>
+      <pubDate>Mon, 23 Mar 2026 05:01:05 GMT</pubDate>
+      <description>&lt;p&gt;我突然有个疑问：&lt;/p&gt;
+&lt;p&gt;日本、韩国、台湾、越南、印尼、马来西亚、泰国…，都积极释放储备油或直接发放补贴来抑制油价，有的不但没涨还微降。只有中国既没发补贴，也不释放储备油，而是任由两次大幅涨价。&lt;/p&gt;
+&lt;p&gt;这是出于什么考量呢？🤔&lt;/p&gt;
 </description>
     </item>
   </channel>
