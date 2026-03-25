@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 25 Mar 2026 23:24:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 23:54:39 GMT</lastBuildDate>
     <item>
       <title>四年前听张雪峰报考计算机的现在会后悔吗</title>
       <link>https://www.v2ex.com/t/1200986</link>
@@ -18,14 +18,6 @@
       <guid>v2ex-1200970</guid>
       <pubDate>Wed, 25 Mar 2026 03:46:41 GMT</pubDate>
       <description>在 23 年就表达了希望死在工作台上，也的确践行了这一点&lt;br /&gt;无论如何也好，他做到了，虽然最后这两年的各方面状态很糟糕，但就值得敬佩&lt;br /&gt;但有些人的宿命和习惯就是燃尽，就像明日之丈里的矢吹丈一样拳击到最后一刻在拳击台上去世&lt;br /&gt;各类极限运动所追求的本质也是无惧坦然的面对自己的终结，与自身最后本能的反抗谈和，达到真正的和谐&lt;br /&gt;张雪峰既不是为了钱，也不是为了名誉，更不是为了死，而是为了真正活着，所以赴死。</description>
-    </item>
-    <item>
-      <title>token 的中文翻译，正式定为词元，如何？</title>
-      <link>https://www.v2ex.com/t/1200873</link>
-      <guid>v2ex-1200873</guid>
-      <pubDate>Tue, 24 Mar 2026 23:31:24 GMT</pubDate>
-      <description>&lt;p&gt;个人认为很不错，语言的最小单元，和字节这个翻译类似。有没有人去注册一家词元跳动的公司？🤣&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>我是不是错过了，真想给自己两巴掌！</title>
@@ -79,6 +71,13 @@
       <guid>v2ex-1200956</guid>
       <pubDate>Wed, 25 Mar 2026 03:08:00 GMT</pubDate>
       <description>朋友创业了，初创公司全是写代码和项目管理人员，没有正式向外招聘的需要。团队内没有人懂这方面基础知识，我算是略懂一些，老板本着大学生（熟人）低价劳动力，就让我去搞。&lt;br /&gt;很显然老板有意培养我&lt;br /&gt;（老板甚至不会挑选机场）&lt;br /&gt;&lt;br /&gt;预算原本是无明显上限，原计划整个机架服务器，被老板拒绝了，然后我压低成本组了个玩具机：4 代 i5 ，8Gddr3 ，杂盘二手 sataSSD （系统盘）。&lt;br /&gt;老板接受后期这套可以直接扔了&lt;br /&gt;该主板 6 口 sata ，本套机器计划 4 块硬盘（ raid10/zfs ）&lt;br /&gt;&lt;br /&gt;由于存储方面成本问题，现阶段不买大容量机械硬盘，老板恰好有 tb 级的存储。所以用 pcie 转 nvme 的 SSD 作为存储撑过一段时间。SSD 盘不做 raid ，数据也不是重要用户数据。&lt;br /&gt;&lt;br /&gt;NAS 使用场景：&lt;br /&gt;不是实际意义上的热备份。老板计算往硬件投几千块钱比阿里云划算。&lt;br /&gt;具体流程：用户→云高性能计算→结果传输（ 5mbps ）→用户传输+本地 NAS&lt;br /&gt;本地 NAS 不做数据传输到用户，数据不经常使用。&lt;br /&gt;&lt;br /&gt;除了热备份功能，又要满足：&lt;br /&gt;内网穿透（ VPN ），bitwarden ，s3/oss 对外&lt;br /&gt;锻炼运维基础能力，后续数据达到了 20t 去管理&lt;br /&gt;&lt;br /&gt;大家有没有推荐的 nas 系统，或者说有没有什么地方需要注意的</description>
+    </item>
+    <item>
+      <title>跨端技术应该入坑哪个</title>
+      <link>https://www.v2ex.com/t/1200959</link>
+      <guid>v2ex-1200959</guid>
+      <pubDate>Wed, 25 Mar 2026 03:26:43 GMT</pubDate>
+      <description>不谈技术偏好只谈市场需求&lt;br /&gt;&lt;br /&gt;移动端: flutter / react native / uniappx&lt;br /&gt;桌面端: electron / tauri / flutter(ui) + rust&lt;br /&gt;&lt;br /&gt;目前市场需求最好找工作的事哪个，大家目前公司都选哪套想统计下</description>
     </item>
   </channel>
 </rss>
