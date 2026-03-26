@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 26 Mar 2026 14:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 15:47:24 GMT</lastBuildDate>
     <item>
       <title>各位的婚姻都幸福吗？ 99 年老弟有感而发，婚姻是什么</title>
       <link>https://www.v2ex.com/t/1201184</link>
@@ -45,24 +45,6 @@
 &lt;p&gt;工作上收到近期 AI 影响，一会儿传言说要无薪加班 996 ，一会儿传言说要裁员。B 站的朋友被开了未婚未育要去环游中国，而我如果被开恐怕还得尽快找工作养家糊口。&lt;/p&gt;
 &lt;p&gt;生活上因为父母没退休，和老婆两个人照顾孩子，早上起床带娃，中午下班回去带娃，晚上下班回去带娃然后睡觉。几乎没有娱乐时间，外包都是靠着老婆硬抗我挤时间做一下。&lt;/p&gt;
 &lt;p&gt;一把好牌打的稀碎，无所适从了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Apifox 遭受供应链攻击</title>
-      <link>https://www.v2ex.com/t/1201146</link>
-      <guid>v2ex-1201146</guid>
-      <pubDate>Wed, 25 Mar 2026 15:26:45 GMT</pubDate>
-      <description>&lt;p&gt;近期有使用的快排查下吧&lt;/p&gt;
-&lt;p&gt;官方通告链接： &lt;a href=&quot;https://mp.weixin.qq.com/s/GpACQdnhVNsMn51cm4hZig&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/GpACQdnhVNsMn51cm4hZig&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;近期我们排查发现，Apifox 公网 SaaS 版桌面客户端动态加载的一个外部 JavaScript 文件遭遇了恶意篡改（遭受供应链攻击）。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;如果您在 [ 2026 年 3 月 4 日] 至 [ 2026 年 3 月 22 日] 期间使用了公网 SaaS 版 Apifox 桌面客户端，可能存在敏感信息泄露风险。Apifox 私有化版不受此次事件影响。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;攻击者使用的 C2 恶意域名（ apifox[.]&lt;a href=&quot;http://it.com&quot; rel=&quot;nofollow&quot;&gt;it.com&lt;/a&gt; ）当时托管在 Cloudflare ，存活 18 天（ 2026 年 3 月 4 日 至 2026 年 3 月 22 日）。目前该域名已无法访问，没有持续发生恶意行为，我们当前无法复现现场。但是根据部分用户反馈和专业人员分析，被篡改的恶意脚本具有概率性触发的特征，触发时可能会读取用户本地设备上的高敏感文件（如 ~/.ssh/ 、~/.zsh_history 、~/.bash_history 、~/.git-credentials 等）。可能会上报到该恶意域名（ apifox[.]&lt;a href=&quot;http://it.com&quot; rel=&quot;nofollow&quot;&gt;it.com&lt;/a&gt; ）。我们正在联合安全团队持续进行深度溯源。&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     <item>
