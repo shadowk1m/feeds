@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 25 Mar 2026 23:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 01:19:06 GMT</lastBuildDate>
     <item>
       <title>四年前听张雪峰报考计算机的现在会后悔吗</title>
       <link>https://www.v2ex.com/t/1200986</link>
@@ -59,13 +59,6 @@
 </description>
     </item>
     <item>
-      <title>感觉我里外都不是人，成了夹心饼干</title>
-      <link>https://www.v2ex.com/t/1200883</link>
-      <guid>v2ex-1200883</guid>
-      <pubDate>Wed, 25 Mar 2026 00:45:56 GMT</pubDate>
-      <description>组员一来例假就请假，不是提前一天，而是刚好上班的时候就请假。</description>
-    </item>
-    <item>
       <title>如何选择企业级 NAS 系统？</title>
       <link>https://www.v2ex.com/t/1200956</link>
       <guid>v2ex-1200956</guid>
@@ -73,11 +66,57 @@
       <description>朋友创业了，初创公司全是写代码和项目管理人员，没有正式向外招聘的需要。团队内没有人懂这方面基础知识，我算是略懂一些，老板本着大学生（熟人）低价劳动力，就让我去搞。&lt;br /&gt;很显然老板有意培养我&lt;br /&gt;（老板甚至不会挑选机场）&lt;br /&gt;&lt;br /&gt;预算原本是无明显上限，原计划整个机架服务器，被老板拒绝了，然后我压低成本组了个玩具机：4 代 i5 ，8Gddr3 ，杂盘二手 sataSSD （系统盘）。&lt;br /&gt;老板接受后期这套可以直接扔了&lt;br /&gt;该主板 6 口 sata ，本套机器计划 4 块硬盘（ raid10/zfs ）&lt;br /&gt;&lt;br /&gt;由于存储方面成本问题，现阶段不买大容量机械硬盘，老板恰好有 tb 级的存储。所以用 pcie 转 nvme 的 SSD 作为存储撑过一段时间。SSD 盘不做 raid ，数据也不是重要用户数据。&lt;br /&gt;&lt;br /&gt;NAS 使用场景：&lt;br /&gt;不是实际意义上的热备份。老板计算往硬件投几千块钱比阿里云划算。&lt;br /&gt;具体流程：用户→云高性能计算→结果传输（ 5mbps ）→用户传输+本地 NAS&lt;br /&gt;本地 NAS 不做数据传输到用户，数据不经常使用。&lt;br /&gt;&lt;br /&gt;除了热备份功能，又要满足：&lt;br /&gt;内网穿透（ VPN ），bitwarden ，s3/oss 对外&lt;br /&gt;锻炼运维基础能力，后续数据达到了 20t 去管理&lt;br /&gt;&lt;br /&gt;大家有没有推荐的 nas 系统，或者说有没有什么地方需要注意的</description>
     </item>
     <item>
+      <title>凌晨 3 点有人按我家门铃和尝试开锁，报警查监控却“查无此人”，求老哥们帮忙分析分析</title>
+      <link>https://www.v2ex.com/t/1201050</link>
+      <guid>v2ex-1201050</guid>
+      <pubDate>Wed, 25 Mar 2026 08:11:23 GMT</pubDate>
+      <description>&lt;p&gt;细思极恐。昨晚遇到一件非常害怕的事，到现在还有点后怕&lt;/p&gt;
+&lt;h3&gt;事件经过：&lt;/h3&gt;
+&lt;p&gt;凌晨 3 点 18：我家大门突然传来智能锁密码的门铃声，看门锁日志显示 1 分钟触发一次。
+我家是普通的智能密码锁（不带摄像头），且防盗门的猫眼之前被挡住了，我在里面完全看不到外面的情况。
+长达十几分钟：我没敢开门，家里狗子一直对着门口叫，我隔着门大声问“是谁？”，外面没人说话。过几分钟又按一下门铃，中间还轻轻敲了一次门。因为持续了十几分钟，我非常确定门外肯定是有“人”或“动静”的。
+在确定确实是门铃在响以后报了警。&lt;/p&gt;
+&lt;h3&gt;结果&lt;/h3&gt;
+&lt;p&gt;警察同志到了之后门外已经没人了。
+最离谱的是，警察陪我去物业调取了单元口和电梯（电梯是刷卡的）的监控，反复看了事发时间段前后十几分钟的录像，走廊里电梯里连个人影都没有！&lt;/p&gt;
+&lt;h3&gt;目前我个人的猜测（瞎分析）：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;喝醉酒的 （也不太像 喝醉酒为何在外面一点动静没有 只是默默的按门铃 只能说可能性大些吧）&lt;/li&gt;
+&lt;li&gt;报复恶心我的（我生活两点一线 没得罪人 跟领居也没有矛盾）&lt;/li&gt;
+&lt;li&gt;小偷/坏人踩点 （也不太像 这种发现家里有人应该会赶紧走吧）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;也在小区物业群里发了，别人家没有遇到这个情况。 越想越难受，越想越搞明白
+想请各位老哥帮忙分析分析，然后发生了这种事情后，准备立刻上监控设备了，目前在纠结是买智能电子猫眼 还是干脆拉根网线装个 Poe 摄像头？求大家给点推荐或建议，感谢！&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/MkOmepo.jpeg&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>跨端技术应该入坑哪个</title>
       <link>https://www.v2ex.com/t/1200959</link>
       <guid>v2ex-1200959</guid>
       <pubDate>Wed, 25 Mar 2026 03:26:43 GMT</pubDate>
       <description>不谈技术偏好只谈市场需求&lt;br /&gt;&lt;br /&gt;移动端: flutter / react native / uniappx&lt;br /&gt;桌面端: electron / tauri / flutter(ui) + rust&lt;br /&gt;&lt;br /&gt;目前市场需求最好找工作的事哪个，大家目前公司都选哪套想统计下</description>
+    </item>
+    <item>
+      <title>究竟是什么原因导致连基础的合法性校验都做不了？</title>
+      <link>https://www.v2ex.com/t/1200943</link>
+      <guid>v2ex-1200943</guid>
+      <pubDate>Wed, 25 Mar 2026 02:49:06 GMT</pubDate>
+      <description>&lt;p&gt;起因在于我导入用户失败了，就直接把所有用户身份证发送给 gemini 让他帮我排查身份证号填写错误的人员，但是第一次回答他直接帮我写了一个校验方法，我想可能我没有描述好就明确让他直接检查合法性把错误的筛选出来，但是给出的答案面目全非错误非常低端，详细聊天记录看图 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Wwzdcg2.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/WaiDXYq.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/D4uK18V.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/mbYU10P.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/0muaABN.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>我这种情况是不是已经确定永远告别这个行业了？</title>
+      <link>https://www.v2ex.com/t/1201045</link>
+      <guid>v2ex-1201045</guid>
+      <pubDate>Wed, 25 Mar 2026 08:00:17 GMT</pubDate>
+      <description>&lt;p&gt;我 3 年前在 V 站发过求职贴:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://v2ex.com/t/912005&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/912005&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;当时有 v 友内推我入职了深圳某公司，在那里工作了 1 年半，之后就一直在家里躺，最近才开始在 boss 直聘上投简历，结果大几百份简历投出去 0 面试，让我觉得再在深圳待已经没啥意义了，存款也从离职时的 24 万花到现在只剩 6 万了，现在在考虑回老家了，但回老家的话以后就没可能再从事这个行业了，而且我从 16 年出来混到现在都没回过老家，因为以前的一些经历对我来说回老家是个很艰难的决定，到现在都没能下定决心回去，不过这次感觉不回的话真就是死路一条了，我发这个帖子的主要目的就是想让 v 友们狠狠的骂一骂，让我坚定回老家的想法，不要再在这里拖着了。&lt;/p&gt;
+&lt;p&gt;这里补充一下我的基本信息和我的一些近况：
+28 岁，初中学历，会一点 Linux 内核和 KVM 虚拟化技术，比较爱玩硬件，买过不少设备，现在还有的包括 5070 ，5060 ，4060 ，9950x ，265k ，12700 x 2 ，5700x x 2 ，990ep 4TB x 4 ，990pro 2TB x2 ，288GB ddr4 ram, 128GB ddr5 ram ，万兆交换机 + 万兆网卡 x 6 ，以及 5 台 mac 设备等等，过去一年多基本上就是在买硬件，玩硬件，玩系统，针对自己的需求去学技术，不过因为我遇到的问题都没有很复杂所以也没有学的多么深入，而且感觉自己学的这点东西在 AI 时代根本不值一提，前两天我试了用 Codex 给 kvmtool 添加了 vhost-user 和 virtiofs 支持，一个小时就搞好了，Codex 生成了一千行代码，功能完全正常，这个功能如果要我用传统方法搞出来的话没有 2 个月都搞不定，这更让我感觉自己的这点技术水平已经不足以在这个行业混了。&lt;/p&gt;
+&lt;p&gt;我是成天在 v 站潜水的，我知道现在大环境有多差，还没有下定决心回去的原因之一是我一直都有种赌徒心理，从我 16 年出来混就是这样，当年就是想着自己在老家待只能是废物一个，出来混不管混的好坏反正都不亏，但是现在的这个情况我感觉已经没啥可混的了，希望能被 v 友骂醒然后下个月底回老家。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
