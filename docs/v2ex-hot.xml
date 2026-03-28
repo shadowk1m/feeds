@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 28 Mar 2026 10:31:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 11:19:20 GMT</lastBuildDate>
     <item>
       <title>有点搞不懂 Claude Code 了</title>
       <link>https://www.v2ex.com/t/1201779</link>
@@ -79,6 +79,70 @@
       <guid>v2ex-1201764</guid>
       <pubDate>Fri, 27 Mar 2026 20:19:51 GMT</pubDate>
       <description>作为一个超级 app,只要有对应的 skills, 大部分 app 会死掉吗?</description>
+    </item>
+    <item>
+      <title>[无卡订阅 Claude Pro 方案] 尼日利亚🇳🇬路线约 6.2 折、美区苹果路线约等于汇率价购买 Claude Pro，附 Claude 假模型避坑指南以及为什么不使用中转站</title>
+      <link>https://www.v2ex.com/t/1201760</link>
+      <guid>v2ex-1201760</guid>
+      <pubDate>Fri, 27 Mar 2026 17:19:52 GMT</pubDate>
+      <description>&lt;p&gt;整理了两个不需要信用卡的 Claude Pro 购买方式，主要走 Apple Store / Google Play 礼品卡路线。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;为什么不推荐代充/成品号&lt;/h2&gt;
+&lt;p&gt;因隔壁站各种无下限怂恿小白送风控指纹的操作，A\目前有一套充分且完善的滥用画像，新号开 Max 订阅封号概率极高，买来的账号随时可能被封，&lt;strong&gt;站内欺诈成本低且无售后&lt;/strong&gt;，闲鱼起码还有披露流程和小法庭流程。比较常见的坑有「确提即争议退款」——卖家收款后立刻对你发起支付争议，「保存登录凭证二次利用」等等…&lt;/p&gt;
+&lt;p&gt;当然，除去无泄漏，走 Apple store/google play 渠道最大的好处是：&lt;strong&gt;封号后可以走平台争议退款，金额退回账户余额&lt;/strong&gt;，损失相对可控。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;方案一：美区 Apple Store 礼品卡（按照实时汇率 Claude Pro 大概是 139 元/月）&lt;/h2&gt;
+&lt;p&gt;本质是绕过直接付款障碍，按即时汇率购买，&lt;strong&gt;并无折扣&lt;/strong&gt;，约等于花人民币买美元订阅。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;将 Apple ID 切换至美区或者注册美区账户（网络有很多案例这里不赘述）&lt;/li&gt;
+&lt;li&gt;收件地址填美国免税州地址（俄勒冈、蒙大拿等，网上搜一个即可）&lt;/li&gt;
+&lt;li&gt;支付宝搜索 &lt;strong&gt;PockytShop&lt;/strong&gt;（支付宝内的跨境购物小程序）&lt;/li&gt;
+&lt;li&gt;购买 $20 面值美区 App Store 礼品卡，按即时汇率结算&lt;/li&gt;
+&lt;li&gt;充值后在 Claude App 里内购 Claude Pro&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;费用：&lt;/strong&gt; 按当前汇率约 &lt;strong&gt;139 元人民币&lt;/strong&gt;，风控比较低。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;方案二：尼日利亚🇳🇬 Apple store 礼品卡（目前约 86 元）&lt;/h2&gt;
+&lt;p&gt;折扣来源是 Claude Pro 在尼日利亚的&lt;strong&gt;本地化定价&lt;/strong&gt;远低于美区（ 14,900 奈拉 vs $20 ），并非汇率差。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;操作步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;准备一个&lt;strong&gt;尼日利亚区 Apple store 账号&lt;/strong&gt;（自行搜改区教程，换成尼日利亚地址即可）&lt;/li&gt;
+&lt;li&gt;在&lt;strong&gt;闲鱼&lt;/strong&gt;搜索「尼日利亚 Apple store 礼品卡」，购买 14,900 奈拉面值&lt;/li&gt;
+&lt;li&gt;走闲鱼担保交易，收到卡后先充值 Apple store ，Claude APP 里内购即可，等到时间会自动确认收货，无需手动确提，有问题则可以发起退款争议，二次争议上闲鱼小法庭。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;费用：&lt;/strong&gt; 14,900 奈拉闲鱼收购价约 &lt;strong&gt;86 元人民币&lt;/strong&gt;，对比美区约 139 元，折扣约 &lt;strong&gt;6.2 折&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;封号应对&lt;/h2&gt;
+&lt;p&gt;A\目前有一套充分且完善的滥用画像。如果你被画像误伤，封号后：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;平台&lt;/th&gt;
+&lt;th&gt;操作路径&lt;/th&gt;
+&lt;th&gt;退款去向&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Apple Store&lt;/td&gt;
+&lt;td&gt;设置 → Apple ID → 订阅 → 报告问题，以「服务无法使用」为由申请&lt;/td&gt;
+&lt;td&gt;退回 App Store 余额&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Google Play&lt;/td&gt;
+&lt;td&gt;进入订单记录提交退款申请&lt;/td&gt;
+&lt;td&gt;退回 Play 余额&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;两个平台退款成功率都还可以，远优于代充的维权难度。&lt;/p&gt;
+&lt;h2&gt;Google play 同理&lt;/h2&gt;
+&lt;p&gt;有更新方案欢迎补充。&lt;/p&gt;
+&lt;p&gt;关于为什么不使用站内中转站，道理一样，&lt;/p&gt;
+&lt;p&gt;最后小声 bb 两句：&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;kiro 渠道的模型都是隔壁几十万撤离的小孩哥玩腻的假渠道，&lt;a href=&quot;http://Claude.ai&quot; rel=&quot;nofollow&quot;&gt;Claude.ai&lt;/a&gt; 宕机了那玩意儿还跑着，早被锤麻了，那玩意儿搁隔壁骗小孩都卖不掉&lt;/del&gt;
+&lt;a href=&quot;https://www.v2ex.com/t/1187389?p=1&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1187389?p=1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;实在没经费又想用 Claude opus4.6 ，Cursor Pro Plus 和 google ai ultra 试用去搞点啊&lt;/del&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>我去年反 AI，一群人骂我</title>
