@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 28 Mar 2026 14:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 14:54:56 GMT</lastBuildDate>
     <item>
       <title>有点搞不懂 Claude Code 了</title>
       <link>https://www.v2ex.com/t/1201779</link>
@@ -21,13 +21,6 @@
       <guid>v2ex-1201775</guid>
       <pubDate>Sat, 28 Mar 2026 01:15:57 GMT</pubDate>
       <description>1 做命令行软件+skills&lt;br /&gt;2 大模型定制化训练，提供训练好的模型文件&lt;br /&gt;3 不断尝试，找到一个较为成熟的 ai 原生工作流平台，安全可靠稳定性都要优先考虑，然后等待一个就职机会或主动出击给企业提供安装与卸载服务&lt;br /&gt;4 为 ai 做安全的基座，国内外都在开发这种 ai 工作流平台，核心还是保安全，保稳定。与第 3 条不同，第 3 条是使用工具，这条是制作工具&lt;br /&gt;5 服务那些被 ai 幻觉带偏的小白，从环境搭建 bug 编写 部署上线 甚至计算机基础，全流程服务</description>
-    </item>
-    <item>
-      <title>如果人生能带着记忆重来就好了</title>
-      <link>https://www.v2ex.com/t/1201741</link>
-      <guid>v2ex-1201741</guid>
-      <pubDate>Fri, 27 Mar 2026 14:53:35 GMT</pubDate>
-      <description>就不会走这么多弯路</description>
     </item>
     <item>
       <title>2026 年了， todo 应用烂大街了，仍然没有一个符合我要求的</title>
@@ -128,6 +121,13 @@
       <guid>v2ex-1201764</guid>
       <pubDate>Fri, 27 Mar 2026 20:19:51 GMT</pubDate>
       <description>作为一个超级 app,只要有对应的 skills, 大部分 app 会死掉吗?</description>
+    </item>
+    <item>
+      <title>opus 小时限额之后，你们是等，还是用 sonnet 继续？</title>
+      <link>https://www.v2ex.com/t/1201800</link>
+      <guid>v2ex-1201800</guid>
+      <pubDate>Sat, 28 Mar 2026 03:52:40 GMT</pubDate>
+      <description>默认都是用 opus 在跑，中间换 sonnet ，然后又 opus 继续，&lt;br /&gt;&lt;br /&gt;遇到限额就这样适合吗，从各角度综合来看？ ——已经是 max</description>
     </item>
     <item>
       <title>深圳.NET B/S 方向出路何在？</title>
