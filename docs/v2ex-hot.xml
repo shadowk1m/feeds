@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 28 Mar 2026 05:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 06:14:09 GMT</lastBuildDate>
     <item>
       <title>昨晚买了人生中的第一套房</title>
       <link>https://www.v2ex.com/t/1201611</link>
@@ -37,11 +37,11 @@
 </description>
     </item>
     <item>
-      <title>程序员会被产品经理替代吗</title>
-      <link>https://www.v2ex.com/t/1201573</link>
-      <guid>v2ex-1201573</guid>
-      <pubDate>Fri, 27 Mar 2026 05:22:53 GMT</pubDate>
-      <description>现在 AI 越来越强，一个人就能做全栈。&lt;br /&gt;如果产品经理能使用 AI 能直接做项目，程序员还有存在的意义吗?</description>
+      <title>今天苏州是真有十里长街送雪峰</title>
+      <link>https://www.v2ex.com/t/1201790</link>
+      <guid>v2ex-1201790</guid>
+      <pubDate>Sat, 28 Mar 2026 03:13:25 GMT</pubDate>
+      <description>网络上，抖音不许直播，热搜也禁了，视频不推送要自己搜，头条，微博也禁热搜。&lt;br /&gt;现实中，队伍排到十里开外，上万人自发送行。&lt;br /&gt;所以说，金杯银杯，不如老百姓的口碑，是非功过，人民的眼睛是雪亮的。&lt;br /&gt;第一次看到这种规模的送行，真心是佩服。&lt;br /&gt;人生至此，功德圆满。</description>
     </item>
     <item>
       <title>Opus 4.6 模型不能用了</title>
@@ -56,13 +56,6 @@
       <guid>v2ex-1201606</guid>
       <pubDate>Fri, 27 Mar 2026 06:41:08 GMT</pubDate>
       <description>我自己的小龙虾使用了一款 PUA 的 skill 后没有发现变强啊，只会不断重试&lt;br /&gt;模型：GPT-5.4-xhigh&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/PsPzyVb.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/PsPzyVb.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/J13WsW5.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/J13WsW5.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/AR4IWb2.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/AR4IWb2.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>今天苏州是真有十里长街送雪峰</title>
-      <link>https://www.v2ex.com/t/1201790</link>
-      <guid>v2ex-1201790</guid>
-      <pubDate>Sat, 28 Mar 2026 03:13:25 GMT</pubDate>
-      <description>网络上，抖音不许直播，热搜也禁了，视频不推送要自己搜，头条，微博也禁热搜。&lt;br /&gt;现实中，队伍排到十里开外，上万人自发送行。&lt;br /&gt;所以说，金杯银杯，不如老百姓的口碑，是非功过，人民的眼睛是雪亮的。&lt;br /&gt;第一次看到这种规模的送行，真心是佩服。&lt;br /&gt;人生至此，功德圆满。</description>
     </item>
     <item>
       <title>有点搞不懂 Claude Code 了</title>
@@ -119,21 +112,11 @@
 </description>
     </item>
     <item>
-      <title>国内 AI 开发，受到的冲击没有想象中那么大？</title>
-      <link>https://www.v2ex.com/t/1201575</link>
-      <guid>v2ex-1201575</guid>
-      <pubDate>Fri, 27 Mar 2026 05:28:02 GMT</pubDate>
-      <description>&lt;p&gt;网络上都在说 claude 和 gpt 最好用，但实际上风控非常严格，在国内使用，很容易封号。&lt;/p&gt;
-&lt;p&gt;（各种玄学推测，家宽 ip 设备环境什么就不说了。有的能用，有的封了，原因全靠猜）&lt;/p&gt;
-&lt;p&gt;（至于铺天盖地的中转站，挂羊头卖狗肉，模型掺水割韭菜，比比皆是）&lt;/p&gt;
-&lt;p&gt;国产模型比如千问、智谱，智力不达标，效果差。提效作用非常有限，还不如自己写。&lt;/p&gt;
-&lt;p&gt;换句话说，10 个公司里边，可能都没有一个，能做到 claude 自由 gpt 自由。&lt;/p&gt;
-&lt;p&gt;（或者你这么想，公司想用 claude ，先标配个家宽 ip 做梯子，防止被封号。就很抽象吧）&lt;/p&gt;
-&lt;p&gt;可能是 2%的人，发出了 92%的音量。&lt;/p&gt;
-&lt;p&gt;听到声音的人，全部跟着集体恐慌。&lt;/p&gt;
-&lt;p&gt;但现实（国内环境）中的影响，并没有那么大。&lt;/p&gt;
-&lt;p&gt;各位如何看？&lt;/p&gt;
-</description>
+      <title>如果人生能带着记忆重来就好了</title>
+      <link>https://www.v2ex.com/t/1201741</link>
+      <guid>v2ex-1201741</guid>
+      <pubDate>Fri, 27 Mar 2026 14:53:35 GMT</pubDate>
+      <description>就不会走这么多弯路</description>
     </item>
     <item>
       <title>AI 飞速发展的当下，各大厂们为啥都还在卷 IDE？</title>
@@ -142,6 +125,21 @@
       <pubDate>Fri, 27 Mar 2026 09:55:34 GMT</pubDate>
       <description>&lt;p&gt;这 IDE 不是一出来就落伍了么？
 原本 AI 只能当辅助编程，可 AI 发展太快，强如 Cluade ，完全不需要人来写了，这些 IDE 整出来的意义是啥？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>个人对于几个主流 Agent 编程套餐的感受</title>
+      <link>https://www.v2ex.com/t/1201703</link>
+      <guid>v2ex-1201703</guid>
+      <pubDate>Fri, 27 Mar 2026 10:21:56 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;Claude 就不用说了，除了贵，最大的问题就是要保号，暂时懒得折腾  &lt;/li&gt;
+&lt;li&gt;Codex 我最近用了几次 5.3 codex 和 5.4 ，感觉还行，而且我很喜欢和他家的那个专家级模型来对话一些比较复杂的问题，就是 Plus 好像用不了，得 Pro 或者 Team 。所以甚至想过正价开 Team ，看了下 Team 订阅最少两个人，一个月 25/30 * 2 = 50/60 刀，每人每月比 Plus 贵 5/10 刀，但是 Plus 和 Team 的 Codex 额度是一样的，Team 可以额外买额度（问的 GPT ，没验证，不保真）  &lt;/li&gt;
+&lt;li&gt;Gemini Antigravity 额度大砍，基本废了吧，我开得 99 刀的会员，最近都没怎么打开了，准备应急用用吧。另外之前刚开会员的时候，很多问题喜欢问 Gemini Pro 模型，最近对比了下 GPT 的高级或者专家级模型，感觉回答得有点简单了  &lt;/li&gt;
+&lt;li&gt;Copilot 按照次数的，Pro 一个月 300 次，注意使用感觉还可以啊，就是看站里说上下文窗口比较小，效果相对较差一点。不过有人知道这个是只针对 Claude 系列的模型还是所有模型都这样吗？因为我用 GPT 系列的模型也还行。感觉他家后续要么涨价，要么要改计费方式，比如次数改 credit  &lt;/li&gt;
+&lt;li&gt;还试了下腾讯旗下的 CodeBuddy 国际站，有 GPT 5.3 codex 和 5.4, 10 刀一个月，试了送的 1000 credits ，一个不是很大的项目，前半部分需求，用 5.3 codex 干掉了 600+ credits ，所以感觉每个月 1000 credits 不够用  &lt;/li&gt;
+&lt;li&gt;字节的 Trae 国际站注册的时候 IP 在美国，后来竟然连 GPT 系列的模型都不能用了，就没继续看了&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
   </channel>
