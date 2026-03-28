@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 28 Mar 2026 03:54:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 05:17:10 GMT</lastBuildDate>
     <item>
       <title>昨晚买了人生中的第一套房</title>
       <link>https://www.v2ex.com/t/1201611</link>
@@ -44,146 +44,6 @@
       <description>现在 AI 越来越强，一个人就能做全栈。&lt;br /&gt;如果产品经理能使用 AI 能直接做项目，程序员还有存在的意义吗?</description>
     </item>
     <item>
-      <title>[开源] 给微信 Bot 做了个 App Store：装一个查股票，装一个生成图片，装一个 AI 聊天，全程不写代码</title>
-      <link>https://www.v2ex.com/t/1201560</link>
-      <guid>v2ex-1201560</guid>
-      <pubDate>Fri, 27 Mar 2026 03:54:22 GMT</pubDate>
-      <description>&lt;h3&gt;背景&lt;/h3&gt;
-&lt;p&gt;3 月 22 号微信正式开放了 ClawBot 插件，底层叫 iLink 协议（&lt;code&gt;&lt;a href=&quot;http://ilinkai.weixin.qq.com&quot; rel=&quot;nofollow&quot;&gt;ilinkai.weixin.qq.com&lt;/a&gt;&lt;/code&gt;）。这是微信第一次官方允许用程序收发个人号消息，不用逆向、不怕封号，算是个里程碑。&lt;/p&gt;
-&lt;p&gt;我第一时间就开始对接了。说实话，iLink 协议本身的设计不复杂——标准 HTTP/JSON ，长轮询收消息，POST 发回复。但实际用下来，坑比想象中多很多。&lt;/p&gt;
-&lt;h3&gt;用 iLink 遇到的几个大坑&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. 没有官方文档&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;腾讯到现在没有公开 iLink 的 API 文档。现在社区里流传的协议规范全是逆向出来的，光端点说明就有 1200 多行。哪天腾讯调一下接口，所有第三方实现可能瞬间挂掉。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. context_token 管理复杂&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这是 iLink 最反直觉的设计。跟其他 Bot 平台不同（比如 Slack 你知道 channel_id 就能发消息），iLink 里光知道 user_id 不够，你必须拿到这条消息附带的 &lt;code&gt;context_token&lt;/code&gt; 才能回复。token 是动态的、24 小时过期的，你得自己做缓存和刷新逻辑。我一开始没处理好这块，消息发出去微信端根本收不到，debug 了一整天。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. 24 小时窗口过期&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;iLink 有个硬性限制：如果 24 小时内没有新的用户消息，之前的 context_token 全部失效，Bot 等于掉线了。对于需要持久运行的 Bot （比如定时提醒、消息转发），这个限制很致命。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4. 发媒体消息的门槛离谱&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;想让 Bot 发张图片？流程是这样的：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;调 &lt;code&gt;getuploadurl&lt;/code&gt; 拿到腾讯 CDN 的预签名上传地址&lt;/li&gt;
-&lt;li&gt;用 AES-128-ECB 加密图片数据&lt;/li&gt;
-&lt;li&gt;上传到 CDN&lt;/li&gt;
-&lt;li&gt;拿到 CDN URL 后再调 &lt;code&gt;sendmessage&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;语音消息更惨，还要处理 Silk 编码格式。这套流程每种语言都得自己实现一遍。
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BAXQrdY.jpeg&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;5. 没有管理界面&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;想同时管多个微信号的 Bot ？想看消息有没有送达？想知道哪个环节出了问题？只能自己写日志慢慢翻。&lt;/p&gt;
-&lt;h3&gt;所以我做了 OpeniLink Hub&lt;/h3&gt;
-&lt;p&gt;花了几周时间，把上面这些问题全解决了，做成一个完整的开源平台。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一行命令安装：&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;curl -fsSL https://raw.githubusercontent.com/openilink/openilink-hub/main/install.sh | sh
-oih
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;内置 SQLite ，零配置启动。打开 &lt;code&gt;http://localhost:9800&lt;/code&gt;，第一个注册用户自动当管理员，扫码绑定微信号就可以用了。&lt;/p&gt;
-&lt;h3&gt;最大的亮点：应用市场&lt;/h3&gt;
-&lt;p&gt;这是和其他 iLink 项目最大的区别。GitHub 上已经有不少 iLink 的 SDK 和 Agent 桥接工具了，但它们都需要你写代码才能用。&lt;/p&gt;
-&lt;p&gt;Hub 有一个&lt;strong&gt;应用市场&lt;/strong&gt;，扫码绑定 Bot 之后，在引导页面直接点「安装」就能给 Bot 加新功能：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Command Service （ 20+ 命令）&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;/s 600519&lt;/code&gt; — 查贵州茅台实时股价&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/ss&lt;/code&gt; — 查上证指数&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/sus&lt;/code&gt; — 查美股指数（标普、纳斯达克、道琼斯）&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/shk&lt;/code&gt; — 查港股指数&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/b btc&lt;/code&gt; — 查数字货币价格&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/gi 赛博朋克城市夜景&lt;/code&gt; — AI 生成图片，Bot 直接发回微信&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/a 帮我写一封请假邮件&lt;/code&gt; — AI 对话，调大模型回答问题&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/dp&lt;/code&gt; — 查大盘市场信息&lt;/li&gt;
-&lt;li&gt;还有更多...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Bridge （消息转发）&lt;/strong&gt;
-把微信收到的消息自动转发到飞书、Slack 、或者你自己的 HTTP 服务。不用写代码，配一下转发地址就行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;OpenClaw （ AI Agent ）&lt;/strong&gt;
-如果你在用 OpenClaw ，装这个 App 你的 Agent 就能直接通过微信聊天了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Echo （开发模板）&lt;/strong&gt;
-想自己开发 App ？从 Echo 开始，3 个命令的最简示例，看懂了就能写自己的。&lt;/p&gt;
-&lt;p&gt;整个流程就是：扫码绑定 → 打开应用市场 → 点安装 → Bot 立刻获得新能力。App 之间互不影响，想装就装想卸就卸。&lt;/p&gt;
-&lt;h3&gt;其他功能&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;自动续期&lt;/strong&gt; — 24 小时窗口快到期了，Hub 自动续约，Bot 不会莫名其妙掉线。这个功能可以设置提前多久续期（比如提前 1 小时）。
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Dllgto3.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;消息追踪&lt;/strong&gt; — 每条消息从收到、存储、投递到 App 、App 回复、发送回微信，完整的时间线。哪一步成功了、哪一步耗时多少、哪一步出错了，打开追踪页面一眼就能看到。Debug 体验比自己翻日志好 10 倍。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;多 Bot 管理&lt;/strong&gt; — 可以同时绑定多个微信号，统一面板管理。每个 Bot 独立安装不同的 App 、独立配置。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;三通道并行&lt;/strong&gt; — WebSocket 实时推送 + Webhook HTTP 回调 + AI 自动回复，三个通道可以同时开。你可以一边让 AI 自动回复用户，一边通过 WebSocket 实时收消息做自己的处理。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;7 种语言 SDK&lt;/strong&gt; — Go 、Node.js 、Python 、PHP 、Java 、C#、Lua 。如果你想写代码对接而不是用应用市场，SDK 已经帮你封装好了 context_token 管理、CDN 加密、媒体发送这些脏活。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Passkey 登录&lt;/strong&gt; — 支持指纹、Face ID 、硬件密钥直接登录管理后台，也支持 GitHub / LinuxDo OAuth 。&lt;/p&gt;
-&lt;h3&gt;和其他项目的区别&lt;/h3&gt;
-&lt;p&gt;目前 GitHub 上 iLink 相关的开源项目不少，但大多是两类：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;底层 SDK&lt;/strong&gt;（比如 wechatbot 、weixin-bot ） — 帮你封装了协议调用，但你得自己写全部业务逻辑&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Agent 桥接器&lt;/strong&gt;（比如 WeClaw ） — 专注于把微信消息转给 AI Agent ，但没有通用的消息管理能力&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Hub 的定位不一样：它是一个&lt;strong&gt;完整的消息管理平台&lt;/strong&gt;，带 Web 后台、应用市场、消息追踪、多通道分发。如果类比的话，SDK 相当于给你一堆砖头，Hub 相当于给你一栋装修好的房子，应用市场相当于家具城——你搬进去就能住，还能随时加家具。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;OpeniLink Hub&lt;/th&gt;
-&lt;th&gt;SDK 类&lt;/th&gt;
-&lt;th&gt;Agent 桥接类&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Web 管理后台&lt;/td&gt;
-&lt;td&gt;有&lt;/td&gt;
-&lt;td&gt;无&lt;/td&gt;
-&lt;td&gt;无/简易&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;应用市场&lt;/td&gt;
-&lt;td&gt;有&lt;/td&gt;
-&lt;td&gt;无&lt;/td&gt;
-&lt;td&gt;无&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;消息追踪&lt;/td&gt;
-&lt;td&gt;有&lt;/td&gt;
-&lt;td&gt;无&lt;/td&gt;
-&lt;td&gt;无&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;多 Bot 管理&lt;/td&gt;
-&lt;td&gt;有&lt;/td&gt;
-&lt;td&gt;需自己实现&lt;/td&gt;
-&lt;td&gt;部分支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;不写代码也能用&lt;/td&gt;
-&lt;td&gt;是&lt;/td&gt;
-&lt;td&gt;否&lt;/td&gt;
-&lt;td&gt;否&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SDK 数量&lt;/td&gt;
-&lt;td&gt;7 种语言&lt;/td&gt;
-&lt;td&gt;1~4 种&lt;/td&gt;
-&lt;td&gt;无&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;技术栈&lt;/h3&gt;
-&lt;p&gt;后端 Go 1.25 ，前端 React 19 + Vite + Tailwind ，数据库默认 SQLite （可选 PostgreSQL ），认证 WebAuthn + OAuth 2.0 PKCE ，App 事件投递支持 WebSocket 和 Webhook ，部署方式单文件二进制 / Docker / Docker Compose 。&lt;/p&gt;
-&lt;h3&gt;链接&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;GitHub： &lt;a href=&quot;https://github.com/openilink/openilink-hub&quot; rel=&quot;nofollow&quot;&gt;https://github.com/openilink/openilink-hub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;官网 &amp;amp; 文档： &lt;a href=&quot;https://openilink.com&quot; rel=&quot;nofollow&quot;&gt;https://openilink.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;在线体验： &lt;a href=&quot;https://hub.openilink.com&quot; rel=&quot;nofollow&quot;&gt;https://hub.openilink.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;App 开发模板： &lt;a href=&quot;https://github.com/openilink/openilink-app-echo&quot; rel=&quot;nofollow&quot;&gt;https://github.com/openilink/openilink-app-echo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;MIT 开源，随便用，不限商用。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;如果你也在折腾微信 iLink ，欢迎试用反馈。有问题可以在 GitHub 提 issue ，也欢迎 star 支持一下。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>闲鱼 ai 代充的货源都来自于这个卡网</title>
-      <link>https://www.v2ex.com/t/1201567</link>
-      <guid>v2ex-1201567</guid>
-      <pubDate>Fri, 27 Mar 2026 04:50:21 GMT</pubDate>
-      <description>&lt;p&gt;推荐一下这个卡网，可以代充各个会员到自己账号，在这推广是想赚点推广费，闲鱼的 ai 代充货源都来自这个网站，都是一样的模板，我自己也卖了点还不错，但是在闲鱼被下载的挺厉害，现在转去了小红书，流量还不错。
-附上推广链接： &lt;a href=&quot;https://www.ai-member.icu?from=1001&quot; rel=&quot;nofollow&quot;&gt;https://www.ai-member.icu?from=1001&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Opus 4.6 模型不能用了</title>
       <link>https://www.v2ex.com/t/1201647</link>
       <guid>v2ex-1201647</guid>
@@ -198,14 +58,64 @@ oih
       <description>我自己的小龙虾使用了一款 PUA 的 skill 后没有发现变强啊，只会不断重试&lt;br /&gt;模型：GPT-5.4-xhigh&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/PsPzyVb.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/PsPzyVb.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/J13WsW5.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/J13WsW5.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/AR4IWb2.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/AR4IWb2.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
-      <title>我的 Github Copilot Pro 嘎了</title>
-      <link>https://www.v2ex.com/t/1201562</link>
-      <guid>v2ex-1201562</guid>
-      <pubDate>Fri, 27 Mar 2026 04:05:50 GMT</pubDate>
-      <description>&lt;h1&gt;严重影响我当牛马&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;突然之间大量人反馈&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/orgs/community/discussions/189990&quot; rel=&quot;nofollow&quot;&gt;https://github.com/orgs/community/discussions/189990&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;截屏 2026-03-27 11.54.43&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/ZOcUuVa.png&quot;/&gt;&lt;/p&gt;
+      <title>今天苏州是真有十里长街送雪峰</title>
+      <link>https://www.v2ex.com/t/1201790</link>
+      <guid>v2ex-1201790</guid>
+      <pubDate>Sat, 28 Mar 2026 03:13:25 GMT</pubDate>
+      <description>网络上，抖音不许直播，热搜也禁了，视频不推送要自己搜，头条，微博也禁热搜。&lt;br /&gt;现实中，队伍排到十里开外，上万人自发送行。&lt;br /&gt;所以说，金杯银杯，不如老百姓的口碑，是非功过，人民的眼睛是雪亮的。&lt;br /&gt;第一次看到这种规模的送行，真心是佩服。&lt;br /&gt;人生至此，功德圆满。</description>
+    </item>
+    <item>
+      <title>有点搞不懂 Claude Code 了</title>
+      <link>https://www.v2ex.com/t/1201779</link>
+      <guid>v2ex-1201779</guid>
+      <pubDate>Sat, 28 Mar 2026 01:56:34 GMT</pubDate>
+      <description>&lt;p&gt;之前习惯的编程工具是 cursor ，本质还是在 vscode 的基础上内置了聊天对话方式调用 agent 来变成或进行任意授权的操作，一直习惯边改还能边看看代码，不管是 review 具体代码还是看看生成了什么文件，就觉得很方便&lt;/p&gt;
+&lt;p&gt;最近 claude code 越来越火，也了解到有很多人可以多开或者使用 agent teams 来同时使用多个 agent 来干活，想尝试一下，然后就试了。但有发现纯 cli 编码的话任务开始后不就不能东看西看（指看看代码之类的）了，编码完成之后在 claude code 里看代码/review 貌似也不是很方便，用了之后突然感觉有点无所适从了，完成一个需求后还得打开 cursor 看看改动了什么然后再提交。&lt;/p&gt;
+&lt;p&gt;请教一下各位佬，我这使用姿势是不是不太对？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>家庭琐事，我奶把我姑折磨崩溃了。</title>
+      <link>https://www.v2ex.com/t/1201723</link>
+      <guid>v2ex-1201723</guid>
+      <pubDate>Fri, 27 Mar 2026 13:20:21 GMT</pubDate>
+      <description>&lt;p&gt;疫情的某一年爷爷在骑着电动车去做核酸检测的路上在老家村里的一个十字路口被车撞了，那天还下小雨，开车司机过路口没看前面他在看后面，但是由于电动车没有上车牌，最后五五责任。&lt;/p&gt;
+&lt;p&gt;由于撞到脑袋，接到现在待的城市治疗，后面爷爷治疗后的状态就是半植物人状态躺在床上，手脚不会动，眼睛能睁开但没有意识，吃饭需要胃管打流食。&lt;/p&gt;
+&lt;p&gt;爷爷奶奶有两个孩子，爸爸和姑姑，爷爷刚开始出院后显示在姑姑家待了一段时间，后面到我家一段时间（两个“一段时间”代表半年到一年时间，具体的时间我忘记了），再后面搬去我姑姑家。刚出院在我姑家我姑是真受累了，每天伺候我爷爷，那时候姑姑每天还给爷爷做康复训练，希望能恢复过来。&lt;/p&gt;
+&lt;p&gt;结果有一天奶奶不知道受了什么刺激在姑姑家吵吵着要跳楼，当天晚上我爸就去把爷爷奶奶接到我家了，来我家了就说我姑父怎么怎么她，说我姑父跟她你不想你儿子吗，不去你儿子那待一段时间吗什么的，具体发生了什么事也无从考证。&lt;/p&gt;
+&lt;p&gt;我爸是做木工工作的，在一家小家具厂工作多年，接到我家后晚上下班回家做饭、喂我爷爷和翻身，我爸回家我奶奶每天就跟叫魂似的，要么就是一个劲的说话啰嗦的跟念紧箍咒似的（后面我深有体会），后面我爸除了必要说的话就不怎么和我奶奶搭话了。&lt;/p&gt;
+&lt;p&gt;我奶奶不知道为什么每隔一段时间就要闹一次，在我家待了这几年的期间我姑说过把我爷爷奶奶接到她那里去待一段时间，我奶奶就死也不去还一个劲的对着我爸我妈和我骂我姑父（现在只是单骂我姑父，后面连我姑一起骂）。&lt;/p&gt;
+&lt;p&gt;在去年 9 月底我爸脑出血、脑干出血，出血量太大了去世了，可能是那几天有加班的原因太累了回家还要管我爷爷还要听紧箍咒。我爸去世后我妈恨我奶奶说我爸是被我奶奶磨人磨死的，即便如此我妈也没往外赶我爷爷奶奶，还是一直在家里住着。我就帮着奶奶喂喂爷爷，给爷爷翻翻身。&lt;/p&gt;
+&lt;p&gt;我爸没了，我姑就和我奶奶说给找个钟点工保姆，每天中午和晚上来给我奶奶做做饭，给爷爷喂喂饭、翻翻身、扫扫地什么的。&lt;/p&gt;
+&lt;p&gt;一开始我姑找了一个来了几天，我奶奶不满意说这个钟点工有时候干完了活就走和说的定的时间不一样，我姑就说人家干完了活不走还得一直陪你唠嗑唠到点再走吗，我姑就给中介说换人，后面换了一个，这个我奶奶倒是还算满意，就一直让人家干着。干了大概三四个月，直到过年，我奶奶不声不响的把人家辞了，不让人家来了。我姑和我妈一开始还不知道的时候问我奶奶，我奶奶说人家家里有事不来了，等到人家管我姑要最后几天的工资的时候，我姑一问人家才知道是我奶奶直接把人家辞了。&lt;/p&gt;
+&lt;p&gt;我姑问我奶奶不请人你怎么弄，说我要是出去上班不在家，你一个人行不行，我奶奶就说她自己能弄我爷爷，还说她一直就没用过我们，都是她自己一个人干的活。把我姑气的没法。而且我奶奶总是喜欢自己想点不切实际的想法，比如她要让我姑把她和我爷爷弄回老家，她自己在老家照顾爷爷。&lt;/p&gt;
+&lt;p&gt;可能有人会好奇，为什么我奶奶会无缘无故的把人家辞了？&lt;/p&gt;
+&lt;p&gt;原因就是我奶奶不想掏钱，我爷爷奶奶攒了下 19 万的养老钱，我姑和我妈妈说了，你就花你的钱，等你没钱了会给你，我奶奶就不花。每天她自己出去买菜、买吃的、买药，一天花个二三十回来就跟我说每天天花了多少钱，今天买菜花了十块二十块、今天买什么东西花了多少钱，每天都说一直念叨，我每天听到这些头都要炸了。&lt;/p&gt;
+&lt;p&gt;我后面在家吃饭大多数都自己叫外卖吃饭了，我都不跟我奶奶一起吃，可能偶尔一起吃一次，她自己做自己吃，给爷爷打好饭，叫我我就喂，不叫我她就自己喂。叫我帮忙翻身我就帮着给爷爷翻身。我就想看看你自己到底能不能弄，什么叫没用过我们，都是你自己一个人干的。&lt;/p&gt;
+&lt;p&gt;后面就经常性的开始叫我了，让我喂我爷爷和翻身，让我干活我就干，我唯一受不了的是开始给我念紧箍咒了。&lt;/p&gt;
+&lt;p&gt;前天中午我奶奶叫我给爷爷喂饭跟我说她身体不舒服，头晕、牙疼、舌头疼什么的，去楼下小区里诊所买药都要摔倒，具体哪天不舒服的我也不知道，只是这天跟我说的，我没搭理她，因为之前她不舒服就跟我嘟囔，我说我给我姑打电话去和你看看，她就说：“你别打，我没事。” 好几次这样，这次她跟我嘟囔我也就没管了。&lt;/p&gt;
+&lt;p&gt;到下午可能她实在的受不了了，就给我姑打电话，我姑在外面有事回不来，就让我姑父和我说去拉着她去医院看看，我姑父来了，我把她社保卡找出来了，她又不去了。&lt;/p&gt;
+&lt;p&gt;我姑晚上来了之后就凶我奶奶，说：“给你请个人你还把人家辞了，你自己干你能干吗，一说就是都是你自己干的，我们帮你都不算，都是你自己干的，你自己干把你自己累坏了，到时候怎么着，还能不能过下去。” 什么什么的。&lt;/p&gt;
+&lt;p&gt;第二天早上不知道为什么我姑又凶我奶奶，我在屋里刚睡醒就听到她们在吵。&lt;/p&gt;
+&lt;p&gt;我奶奶就说：“我就是给你打电话让你来看你爹一晚上，第二天我就好了”&lt;/p&gt;
+&lt;p&gt;我姑说：“你今天好了吗，你第二天就好了，你好了吗？”&lt;/p&gt;
+&lt;p&gt;中间对话就是我姑一直说想法让我奶奶轻松点不至于累着生病什么的，我奶奶就是不领情就是怎么为难人怎么来（不止这一次，以前就这样，我感觉就是她认为她的养老钱比她的命更重要）。&lt;/p&gt;
+&lt;p&gt;后面我奶奶就开始撒泼起来了，开始骂。&lt;/p&gt;
+&lt;p&gt;我姑就说：“你把你儿磨死了，你就来折磨我，把我折磨死了，你就折磨你孙子。”&lt;/p&gt;
+&lt;p&gt;说带我奶奶去看病，她就开始你们走吧，你们走吧去上班去吧，我姑就说：“你这样让我们走（我奶奶瘫坐在地上），我们还是不是人。”&lt;/p&gt;
+&lt;p&gt;叫我奶奶去看病就不动就一直念紧箍咒，说也说不到重点上就一直嘟囔个没完没了。还一直说：“我就是让你来看一晚上，你一来怎么就这样说我，第二天我就好了。” 我姑就说：“这是第二天了，你好了没有，你这个样你这是好了吗。”&lt;/p&gt;
+&lt;p&gt;我奶奶就一直念紧箍咒，意思是都是我姑气的她才这样，气的我姑给我奶奶磕了个头就要走，我和我妈拦着我姑，我妈就说我奶奶：“你要一直有那个保姆你至于这样吗？赶紧起来穿衣服穿鞋去和你看病去“ 我姑就说不去了，她这样都是我害得。我奶奶起来说：”到底还和我去不去？“，我寻思刚才和你说跟你去看病你不去，一直说没用的。&lt;/p&gt;
+&lt;p&gt;后来我和我妈我姑带着她去看了看做了个 CT 、验血，医生给开了点药说先吃吃看。&lt;/p&gt;
+&lt;p&gt;其实我姑姑对于照顾我爷爷并没有什么怨言或者其他，唯独就是我奶奶把我姑折磨的实在是没办法了，在我奶奶眼里怎么怎么不对，干什么都不对。&lt;/p&gt;
+&lt;p&gt;今天我姑把我爷爷喂了去上班了，中午我喂我爷爷的时候，我奶奶就一直自己嘟囔骂我姑骂的很难听，还跟我说她生病还得挑时间生，还得看她闺女有没有空什么的，我也没搭理她。&lt;/p&gt;
+&lt;p&gt;我心想我姑昨天说的那么明白了，不是你生病挑时间生，是能预防就预防，能不干活就不让你干活，你自己找的你非得自己干，别人帮你你还不领情。你自己寻思的，我姑可不是这个意思。&lt;/p&gt;
+&lt;p&gt;之前还有件小事就是我爸还在的时候，我妈妈把我爷爷奶奶的养老钱从老家存的定期到期的取出来了，因为原来我爷爷存进去的没有密码，异地取不了只能在老家取，之前我妈回老家有事就取出来了，因为到期时间不一样，分了三个折子，我妈回来就把那个钱也是分了三个折子存到我妈自己的名下了定期以后万一有个什么事好能取出来。&lt;/p&gt;
+&lt;p&gt;我爷爷奶奶一直是我爷爷当家，没让我奶奶处理过外面的什么事，银行门都没进过。&lt;/p&gt;
+&lt;p&gt;我奶奶知道了以后就让我姑、让我管我妈要钱，她要自己拿着。&lt;/p&gt;
+&lt;p&gt;我爸去世了以后，她就有事没事就和我姑和我嘟囔嘟囔念紧箍咒，生怕我妈把钱私吞了，我姑说：“她存的定期还没到时间，现在取出来利息少。你放心她花不了你的，她花了不用你找她，我就找她了。” 我奶奶就不听，就非得要，后来我妈取出来把钱拿回来了，还是我带着她去把钱存上的，存折她自己拿着。&lt;/p&gt;
+&lt;p&gt;后面就是上面讲的每天花钱了就要一直嘟囔今天花了多少多少钱。你自己的钱你想怎么花就怎么花，要么你别花，花了还一直一直说重复的说就让人很烦。&lt;/p&gt;
+&lt;p&gt;我也理解了什么叫子女不和多是老人无德，有时候根本不是老人嘴里说的那么回事。&lt;/p&gt;
+&lt;p&gt;文笔不是很好，希望大家谅解，不知道各位怎么看待和理解的，有什么好的建议。&lt;/p&gt;
 </description>
     </item>
     <item>
