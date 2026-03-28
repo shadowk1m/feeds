@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 28 Mar 2026 14:54:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 15:21:16 GMT</lastBuildDate>
     <item>
       <title>有点搞不懂 Claude Code 了</title>
       <link>https://www.v2ex.com/t/1201779</link>
@@ -123,13 +123,6 @@
       <description>作为一个超级 app,只要有对应的 skills, 大部分 app 会死掉吗?</description>
     </item>
     <item>
-      <title>opus 小时限额之后，你们是等，还是用 sonnet 继续？</title>
-      <link>https://www.v2ex.com/t/1201800</link>
-      <guid>v2ex-1201800</guid>
-      <pubDate>Sat, 28 Mar 2026 03:52:40 GMT</pubDate>
-      <description>默认都是用 opus 在跑，中间换 sonnet ，然后又 opus 继续，&lt;br /&gt;&lt;br /&gt;遇到限额就这样适合吗，从各角度综合来看？ ——已经是 max</description>
-    </item>
-    <item>
       <title>深圳.NET B/S 方向出路何在？</title>
       <link>https://www.v2ex.com/t/1201818</link>
       <guid>v2ex-1201818</guid>
@@ -199,6 +192,13 @@
 &lt;/ul&gt;
 &lt;hr/&gt;
 </description>
+    </item>
+    <item>
+      <title>opus 小时限额之后，你们是等，还是用 sonnet 继续？</title>
+      <link>https://www.v2ex.com/t/1201800</link>
+      <guid>v2ex-1201800</guid>
+      <pubDate>Sat, 28 Mar 2026 03:52:40 GMT</pubDate>
+      <description>默认都是用 opus 在跑，中间换 sonnet ，然后又 opus 继续，&lt;br /&gt;&lt;br /&gt;遇到限额就这样适合吗，从各角度综合来看？ ——已经是 max</description>
     </item>
   </channel>
 </rss>
