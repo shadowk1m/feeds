@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 29 Mar 2026 06:52:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 07:44:50 GMT</lastBuildDate>
     <item>
       <title>豆包输入法 mac 版来了，牛逼 plus</title>
       <link>https://www.v2ex.com/t/1201848</link>
@@ -41,78 +41,6 @@ debian 重启会把之前未关闭的程序恢复，但是不会恢复我在命�
       <guid>v2ex-1201942</guid>
       <pubDate>Sun, 29 Mar 2026 02:37:50 GMT</pubDate>
       <description>现在刷 v 站 其实不仅 V 站 主观感受所有东西都在跟 AI 沾边&lt;br /&gt;&lt;br /&gt;所以真的很想问问诸位用 AI 赚到过钱吗，哪怕是 1 块钱 怎么赚的 简单聊聊</description>
-    </item>
-    <item>
-      <title>想要一个 codex/claude code 的 Web UI 界面</title>
-      <link>https://www.v2ex.com/t/1201842</link>
-      <guid>v2ex-1201842</guid>
-      <pubDate>Sat, 28 Mar 2026 07:35:21 GMT</pubDate>
-      <description>&lt;p&gt;背景：
-我本地配好了 codex ，想让非技术同学用。
-不是写代码，是想做一些数据分析之类，主要能连数据库。&lt;/p&gt;
-&lt;p&gt;在他们本地配置比较麻烦，同时我又想管控这个权限。
-所以想要一个 Web 环境的 codex 。&lt;/p&gt;
-&lt;p&gt;看了下，Github 上有一些开源的项目。但是都不怎么活跃。
-比如
-&lt;a href=&quot;https://github.com/harryneopotter/Codex-webui&quot; rel=&quot;nofollow&quot;&gt;https://github.com/harryneopotter/Codex-webui&lt;/a&gt;
-&lt;a href=&quot;https://github.com/friuns2/codex-web-ui&quot; rel=&quot;nofollow&quot;&gt;https://github.com/friuns2/codex-web-ui&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;类似需求，大家都怎么搞呢？&lt;/p&gt;
-&lt;p&gt;难道真要搞个服务器，让他们 ssh 上面，自己跑吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[独立开发 / 招募封测] 📻 做了一款极简且高颜值的全球电台 App，求 20 位 Google Play 封测体验官 (即送终身 Pro)</title>
-      <link>https://www.v2ex.com/t/1201854</link>
-      <guid>v2ex-1201854</guid>
-      <pubDate>Sat, 28 Mar 2026 08:57:38 GMT</pubDate>
-      <description>&lt;p&gt;大家好，我是独立开发者。&lt;/p&gt;
-&lt;p&gt;最近花了点时间做了一款 Android 端全球电台应用 —— RadioPlayer 。
-市面上其实有很多电台应用（比如 TuneIn ），但大多充满了臃肿的 UI 、繁杂的推荐逻辑，甚至满屏的各种横幅广告。所以我决定自己造一把轮子，核心理念就三个字：好看、纯粹、极简。&lt;/p&gt;
-&lt;p&gt;✨ 核心亮点：&lt;/p&gt;
-&lt;p&gt;全球频道：依托 RadioBrowser 数据库，按国家 / 流派 (Jazz, Pop, News 等) 随意切换收听。
-超高颜值 UI：使用完全原生的 Compose 构建，全局支持顺滑的暗色模式。特别是播放页底部的 MiniPlayer 有纯正的高斯模糊（毛玻璃）效果和音频波纹动画。
-自定义源：支持 m3u / mp3 直播流，自己添加私有电台（如网易云播客、私服音乐等）。
-完全没有流氓组件：权限极简，清爽无后台驻留。
-💎 Pro 版特权（封测用户免费赠送）：
-应用本身包含基础体验，高级版 (Pro) 支持了：&lt;/p&gt;
-&lt;p&gt;📻 纯净无广告
-🎧 强制解锁最高音质比特率 (High Quality Audio)
-💤 睡眠定时关闭 (Sleep Timer)
-🚗 专为开车定制的极大字体的“驾车模式” (Car Mode)
-⚡ 无限量的自定义专属电台
-🚀 关于封闭测试 (Closed Test) 与福利：
-众所周知，Google Play 现在上架新应用要求有 20 个用户连续测试 14 天。
-为了顺利上架，我在此向大家招募 20 位体验官！
-福利说明：
-只要你愿意加入测试群组并帮我挂够时长，我会将你的 Google 账号加入 Android 内部测试组（ License Testing ）。在测试版本由于配置了特权测试通道，你可以免费直接购买 Pro 版本（显示 Google Pay 模拟扣款，实际 0 元白嫖应用终身 Pro 权益！） 感谢你的支持。&lt;/p&gt;
-&lt;p&gt;📌 如何参与？&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;先加入测试群组
-&lt;a href=&quot;https://groups.google.com/g/radioplayer-beta&quot; rel=&quot;nofollow&quot;&gt;https://groups.google.com/g/radioplayer-beta&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;加入测试计划
-&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.nomo.simpleradio&quot; rel=&quot;nofollow&quot;&gt;https://play.google.com/store/apps/details?id=com.nomo.simpleradio&lt;/a&gt;
-需要在手机浏览器 打开后跳转 google play store&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;在 Google Play 安装 App 并打开一次即可&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;如果你也有需要测试的 App ，可以把链接发出来，我也可以帮忙测试，互相帮助一下 🙏
-再次感谢大家，如果有任何交互建议或 Bug 反馈，欢迎直接在帖子里指出，我会光速迭代！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案</title>
-      <link>https://www.v2ex.com/t/1201922</link>
-      <guid>v2ex-1201922</guid>
-      <pubDate>Sun, 29 Mar 2026 00:43:25 GMT</pubDate>
-      <description>&lt;p&gt;查到很多大流量的卡，但看评论是限速虚标之类的&lt;/p&gt;
-&lt;p&gt;CPE 的选择又非常多，不知道怎么选，希望最好自带梯子插件，并且能接 usb 的，放车上。&lt;/p&gt;
-&lt;p&gt;有玩类似设备和卡的佬吗，求推荐&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>apple watch 你们都用来干什么？</title>
@@ -159,6 +87,60 @@ debian 重启会把之前未关闭的程序恢复，但是不会恢复我在命�
 &lt;hr/&gt;
 &lt;p&gt;&lt;strong&gt;Base64 编码（如需反馈或联系）：&lt;/strong&gt;
 QnVuQ29tZWR5&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案</title>
+      <link>https://www.v2ex.com/t/1201922</link>
+      <guid>v2ex-1201922</guid>
+      <pubDate>Sun, 29 Mar 2026 00:43:25 GMT</pubDate>
+      <description>&lt;p&gt;查到很多大流量的卡，但看评论是限速虚标之类的&lt;/p&gt;
+&lt;p&gt;CPE 的选择又非常多，不知道怎么选，希望最好自带梯子插件，并且能接 usb 的，放车上。&lt;/p&gt;
+&lt;p&gt;有玩类似设备和卡的佬吗，求推荐&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[独立开发 / 招募封测] 📻 做了一款极简且高颜值的全球电台 App，求 20 位 Google Play 封测体验官 (即送终身 Pro)</title>
+      <link>https://www.v2ex.com/t/1201854</link>
+      <guid>v2ex-1201854</guid>
+      <pubDate>Sat, 28 Mar 2026 08:57:38 GMT</pubDate>
+      <description>&lt;p&gt;大家好，我是独立开发者。&lt;/p&gt;
+&lt;p&gt;最近花了点时间做了一款 Android 端全球电台应用 —— RadioPlayer 。
+市面上其实有很多电台应用（比如 TuneIn ），但大多充满了臃肿的 UI 、繁杂的推荐逻辑，甚至满屏的各种横幅广告。所以我决定自己造一把轮子，核心理念就三个字：好看、纯粹、极简。&lt;/p&gt;
+&lt;p&gt;✨ 核心亮点：&lt;/p&gt;
+&lt;p&gt;全球频道：依托 RadioBrowser 数据库，按国家 / 流派 (Jazz, Pop, News 等) 随意切换收听。
+超高颜值 UI：使用完全原生的 Compose 构建，全局支持顺滑的暗色模式。特别是播放页底部的 MiniPlayer 有纯正的高斯模糊（毛玻璃）效果和音频波纹动画。
+自定义源：支持 m3u / mp3 直播流，自己添加私有电台（如网易云播客、私服音乐等）。
+完全没有流氓组件：权限极简，清爽无后台驻留。
+💎 Pro 版特权（封测用户免费赠送）：
+应用本身包含基础体验，高级版 (Pro) 支持了：&lt;/p&gt;
+&lt;p&gt;📻 纯净无广告
+🎧 强制解锁最高音质比特率 (High Quality Audio)
+💤 睡眠定时关闭 (Sleep Timer)
+🚗 专为开车定制的极大字体的“驾车模式” (Car Mode)
+⚡ 无限量的自定义专属电台
+🚀 关于封闭测试 (Closed Test) 与福利：
+众所周知，Google Play 现在上架新应用要求有 20 个用户连续测试 14 天。
+为了顺利上架，我在此向大家招募 20 位体验官！
+福利说明：
+只要你愿意加入测试群组并帮我挂够时长，我会将你的 Google 账号加入 Android 内部测试组（ License Testing ）。在测试版本由于配置了特权测试通道，你可以免费直接购买 Pro 版本（显示 Google Pay 模拟扣款，实际 0 元白嫖应用终身 Pro 权益！） 感谢你的支持。&lt;/p&gt;
+&lt;p&gt;📌 如何参与？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;先加入测试群组
+&lt;a href=&quot;https://groups.google.com/g/radioplayer-beta&quot; rel=&quot;nofollow&quot;&gt;https://groups.google.com/g/radioplayer-beta&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;加入测试计划
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.nomo.simpleradio&quot; rel=&quot;nofollow&quot;&gt;https://play.google.com/store/apps/details?id=com.nomo.simpleradio&lt;/a&gt;
+需要在手机浏览器 打开后跳转 google play store&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在 Google Play 安装 App 并打开一次即可&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果你也有需要测试的 App ，可以把链接发出来，我也可以帮忙测试，互相帮助一下 🙏
+再次感谢大家，如果有任何交互建议或 Bug 反馈，欢迎直接在帖子里指出，我会光速迭代！&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -304,6 +286,312 @@ Country: Austria
 &lt;p&gt;20 美元一个月，重度用户的话值，轻度用户自己衡量需求。&lt;/p&gt;
 &lt;hr/&gt;
 &lt;p&gt;整套流程踩坑最多的就是三个地方：&lt;strong&gt;账单地址最好和你的支付卡的地址一致&lt;/strong&gt;、&lt;strong&gt;全程网络稳定不要切换&lt;/strong&gt;、&lt;strong&gt;续费前记得保持卡内有余额&lt;/strong&gt;。其他按步骤来基本没什么问题。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[科普向]claude 中转站为什么这么费钱？明明便宜 70%，余额却消耗得飞快</title>
+      <link>https://www.v2ex.com/t/1201851</link>
+      <guid>v2ex-1201851</guid>
+      <pubDate>Sat, 28 Mar 2026 08:40:15 GMT</pubDate>
+      <description>&lt;p&gt;最近在 V2 和 LinuxDo 看到不少人吐槽：中转站价格明明便宜，但余额消耗速度比官方还快。&lt;/p&gt;
+&lt;p&gt;有人说&quot;自己什么都没做，上下文就已经用了 25K&quot;，有人说&quot;扣费扣得有点快，但看日志每次请求又正常&quot;。&lt;/p&gt;
+&lt;p&gt;今天算一笔账，看看钱到底花在哪了。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;一、缓存率：被忽视的吃钱黑洞&lt;/h2&gt;
+&lt;h3&gt;什么是 Prompt Caching ？&lt;/h3&gt;
+&lt;p&gt;大模型每次对话都要重新读一遍完整历史。就像翻译文件，每次都要从头读一遍之前的内容。&lt;/p&gt;
+&lt;p&gt;Prompt Caching 就是把读过的内容缓存起来，下次直接用。**缓存命中的部分，价格降低 90%**。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prompt Caching 价格表&lt;/strong&gt;：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;操作类型&lt;/th&gt;
+&lt;th&gt;价格倍率&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;正常输入&lt;/td&gt;
+&lt;td&gt;1x&lt;/td&gt;
+&lt;td&gt;基础价格&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;缓存创建（ 5 分钟）&lt;/td&gt;
+&lt;td&gt;1.25x&lt;/td&gt;
+&lt;td&gt;首次建立缓存&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;缓存创建（ 1 小时）&lt;/td&gt;
+&lt;td&gt;2x&lt;/td&gt;
+&lt;td&gt;长期缓存&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;缓存读取&lt;/td&gt;
+&lt;td&gt;0.1x&lt;/td&gt;
+&lt;td&gt;便宜 90%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;缓存率对成本的影响&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;核心原理&lt;/strong&gt;：缓存命中的部分，成本只有原来的 10%（节省 90%）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;举个例子&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;假设你和 Claude 聊了很久，对话历史有 50K tokens 。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;官方渠道（有缓存）&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第 1 次请求：50K tokens 全部计费，建立缓存&lt;/li&gt;
+&lt;li&gt;第 2 次请求：50K tokens 中 80% 从缓存读取（便宜 90%），只有 20% 重新计算&lt;/li&gt;
+&lt;li&gt;第 3 次、第 4 次...都是这样&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;中转站（无缓存）&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第 1 次请求：50K tokens 全部计费（虽然便宜 70%）&lt;/li&gt;
+&lt;li&gt;第 2 次请求：50K tokens 又全部计费&lt;/li&gt;
+&lt;li&gt;第 3 次、第 4 次...每次都全部计费&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;算一笔账&lt;/strong&gt;（ 10 次对话）：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;场景&lt;/th&gt;
+&lt;th&gt;首次成本&lt;/th&gt;
+&lt;th&gt;后续 9 次成本&lt;/th&gt;
+&lt;th&gt;总成本&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;官方（有缓存）&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;9 × 28 = 252&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;352&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;中转站（无缓存但便宜 70%）&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;9 × 30 = 270&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;300&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;看起来中转站便宜？但如果对话次数更多：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;算一笔账&lt;/strong&gt;（ 100 次对话）：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;场景&lt;/th&gt;
+&lt;th&gt;首次成本&lt;/th&gt;
+&lt;th&gt;后续 99 次成本&lt;/th&gt;
+&lt;th&gt;总成本&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;官方（有缓存）&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;99 × 28 = 2772&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;2872&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;中转站（无缓存但便宜 70%）&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;99 × 30 = 2970&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;3000&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;结论&lt;/strong&gt;：对话次数越多，官方越划算。&lt;/p&gt;
+&lt;h3&gt;为什么中转站缓存率低？&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;原因一：逆向渠道本身不支持缓存&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kiro 、Cursor 、Windsurf 等客户端的逆向接口，本身就不支持 Prompt Caching 。中转站即使想提供也做不到。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原因二：号池轮询导致缓存失效&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中转站用号池轮询分配请求：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第一次请求用账号 A ，缓存建在 A 上&lt;/li&gt;
+&lt;li&gt;第二次请求分配到账号 B ，缓存全部失效&lt;/li&gt;
+&lt;li&gt;第三次请求又分配到账号 C ，又要重新建缓存&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;结果就是：缓存创建多，但命中的少。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原因三：虚标缓存率&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有些中转站声称有缓存，实际是站长写死的假数据（比如写死 80%~88%）。&lt;/p&gt;
+&lt;p&gt;实际情况：缓存率差 10%，长期成本可能更高。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;二、隐藏的系统提示词：上下文黑洞&lt;/h2&gt;
+&lt;h3&gt;一个真实案例&lt;/h3&gt;
+&lt;p&gt;有人测试发现：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用自己的 Claude Pro 账号，新对话 &lt;code&gt;/context&lt;/code&gt; 显示正常&lt;/li&gt;
+&lt;li&gt;用中转站，新对话 &lt;code&gt;/context&lt;/code&gt; 显示已经用了 25K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;问客服，客服说&quot;就是官网，不可能是假的&quot;，然后就不解释了。&lt;/p&gt;
+&lt;h3&gt;为什么会有隐藏的系统提示词？&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;原因一：反代客户端自带的提示词&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;逆向 Kiro 、Cursor 等客户端的接口，这些客户端有自己的系统提示词（专为代码场景优化）。你的请求会被自动注入这些提示词。你看不到，但它在消耗你的 tokens 。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原因二：中转站自己注入的提示词&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有些中转站为了&quot;优化&quot;体验，会注入自己的提示词。这些提示词每次对话都要计算，而且无法缓存。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原因三：多层代理叠加&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中转站 A 从中转站 B 拿货，中转站 B 又从中转站 C 拿货。每一层都可能注入自己的提示词。最终到你手上，上下文已经被塞满了。&lt;/p&gt;
+&lt;h3&gt;如何验证？&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;方法&lt;/strong&gt;：用 &lt;code&gt;/context&lt;/code&gt; 命令对比&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;用官方账号新建对话，输入 &lt;code&gt;/context&lt;/code&gt;，记录基础消耗&lt;/li&gt;
+&lt;li&gt;用中转站新建对话，输入 &lt;code&gt;/context&lt;/code&gt;，记录基础消耗&lt;/li&gt;
+&lt;li&gt;对比两者差异&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;判断标准&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果中转站的基础消耗明显高于官方（差距超过 50%），说明中转站注入了额外的系统提示词&lt;/li&gt;
+&lt;li&gt;这些额外的提示词每次对话都要计算，而且无法缓存&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：即使是官方账号，新建对话后也会有系统提示和工具的基础消耗，不会是 0&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;三、切换服务商 + 无缓存 = 双重打击&lt;/h2&gt;
+&lt;h3&gt;为什么需要频繁切换？&lt;/h3&gt;
+&lt;p&gt;中转站经常不可用，很多人需要准备多个备用中转站。甚至有人问&quot;怎么快速切换，不用每次都复制 url 和 api-key&quot;——切换频繁到需要专门的工具。&lt;/p&gt;
+&lt;h3&gt;切换的成本&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;每次切换，缓存全部丢失&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;举个例子：&lt;/p&gt;
+&lt;p&gt;你在服务商 A 上聊了很久，已经建立了缓存。现在每次对话成本很低（假设 100 元）。&lt;/p&gt;
+&lt;p&gt;突然服务商 A 挂了，你切换到服务商 B：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;服务商 B 没有你之前的缓存&lt;/li&gt;
+&lt;li&gt;需要重新建立缓存&lt;/li&gt;
+&lt;li&gt;首次请求成本：500 元（是有缓存时的 5 倍）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果一天切换 3 次：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第 1 次切换：多花 400 元（ 500 - 100 ）&lt;/li&gt;
+&lt;li&gt;第 2 次切换：又多花 400 元&lt;/li&gt;
+&lt;li&gt;第 3 次切换：又多花 400 元&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;一天多花 1200 元&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;切换 + 无缓存 = 双重打击&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;切换导致缓存丢失（每次切换都要重新建缓存）&lt;/li&gt;
+&lt;li&gt;中转站本身缓存率低（即使不切换，缓存命中率也低）&lt;/li&gt;
+&lt;li&gt;双重打击，成本爆炸&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;四、其他吃钱的坑&lt;/h2&gt;
+&lt;h3&gt;扣费 bug&lt;/h3&gt;
+&lt;p&gt;有些中转站存在扣费 bug：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;缓存创建和缓存读取计费混乱&lt;/li&gt;
+&lt;li&gt;重复计费&lt;/li&gt;
+&lt;li&gt;计费精度问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;套餐陷阱&lt;/h3&gt;
+&lt;p&gt;便宜的套餐往往有日度预算限制，比如 11.90$ 的套餐每天只有 25$ 额度，根本不够用。超出部分按量计费，可能比官方还贵。&lt;/p&gt;
+&lt;p&gt;贵的套餐又用不完，不用就等于亏了。&lt;/p&gt;
+&lt;h3&gt;不稳定导致的重试成本&lt;/h3&gt;
+&lt;p&gt;有些低价分组很不稳定，不是 api timeout 就是 filter 。timeout 后重试，每次重试都要重新计费。不稳定导致的重试成本，可能比正常使用还高。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;五、如何避免被坑&lt;/h2&gt;
+&lt;h3&gt;选择中转站的核心原则&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;原则一：问清楚缓存率&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不支持缓存的中转站，再便宜也贵&lt;/li&gt;
+&lt;li&gt;虚标缓存率的中转站，更坑&lt;/li&gt;
+&lt;li&gt;要求提供真实的缓存命中数据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;原则二：测试上下文消耗&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新建对话，用 &lt;code&gt;/context&lt;/code&gt; 检查&lt;/li&gt;
+&lt;li&gt;看上下文是否有隐藏的系统提示词&lt;/li&gt;
+&lt;li&gt;如果有，立即退款&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;原则三：算清楚长期成本&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不要只看单价&lt;/li&gt;
+&lt;li&gt;要看缓存率&lt;/li&gt;
+&lt;li&gt;要看长期使用的总成本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;官方 vs 中转站：全面对比&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;维度&lt;/th&gt;
+&lt;th&gt;官方渠道&lt;/th&gt;
+&lt;th&gt;中转站&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;月费&lt;/td&gt;
+&lt;td&gt;$20 （ Claude Pro ）&lt;/td&gt;
+&lt;td&gt;看起来便宜&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;缓存率&lt;/td&gt;
+&lt;td&gt;80%~85%&lt;/td&gt;
+&lt;td&gt;0%~40%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;稳定性&lt;/td&gt;
+&lt;td&gt;高&lt;/td&gt;
+&lt;td&gt;差，需要频繁切换&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;长期成本&lt;/td&gt;
+&lt;td&gt;约 28%&lt;/td&gt;
+&lt;td&gt;40%~60%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;隐藏提示词&lt;/td&gt;
+&lt;td&gt;无&lt;/td&gt;
+&lt;td&gt;可能有&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;扣费透明度&lt;/td&gt;
+&lt;td&gt;高&lt;/td&gt;
+&lt;td&gt;可能有 bug&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;结论&lt;/strong&gt;：短期看中转站便宜，长期看官方更划算。&lt;/p&gt;
+&lt;h3&gt;什么时候可以用中转站？&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;场景类型&lt;/th&gt;
+&lt;th&gt;是否适合&lt;/th&gt;
+&lt;th&gt;原因&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;短对话&lt;/td&gt;
+&lt;td&gt;✅ 适合&lt;/td&gt;
+&lt;td&gt;上下文少，缓存影响小&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;临时使用&lt;/td&gt;
+&lt;td&gt;✅ 适合&lt;/td&gt;
+&lt;td&gt;不需要长期稳定&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;预算极度有限&lt;/td&gt;
+&lt;td&gt;✅ 适合&lt;/td&gt;
+&lt;td&gt;愿意接受不稳定&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;长对话&lt;/td&gt;
+&lt;td&gt;❌ 不适合&lt;/td&gt;
+&lt;td&gt;上下文多，缓存影响大&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;重度使用&lt;/td&gt;
+&lt;td&gt;❌ 不适合&lt;/td&gt;
+&lt;td&gt;每天高频使用，成本累积&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;对稳定性有要求&lt;/td&gt;
+&lt;td&gt;❌ 不适合&lt;/td&gt;
+&lt;td&gt;不能接受频繁切换&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;hr/&gt;
+&lt;h2&gt;总结&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;中转站价格便宜 70%，但缓存率低或没有缓存&lt;/li&gt;
+&lt;li&gt;缓存率差 10%，长期成本可能更高&lt;/li&gt;
+&lt;li&gt;隐藏的系统提示词，每次对话都在吃钱&lt;/li&gt;
+&lt;li&gt;频繁切换 + 无缓存 = 双重打击，成本爆炸&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;最后建议&lt;/strong&gt;：问清楚缓存率、测试上下文消耗、算清楚长期成本。别让&quot;便宜&quot;蒙蔽了双眼，最后发现钱花得比官方还多。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;数据来源&lt;/strong&gt;：基于官方以及参考真实用户使用信息，仅供参考&lt;/p&gt;
 </description>
     </item>
   </channel>
