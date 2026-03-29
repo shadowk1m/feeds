@@ -4,30 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 29 Mar 2026 11:19:58 GMT</lastBuildDate>
-    <item>
-      <title>还是要用 ubuntu</title>
-      <link>https://www.v2ex.com/t/1201875</link>
-      <guid>v2ex-1201875</guid>
-      <pubDate>Sat, 28 Mar 2026 11:47:04 GMT</pubDate>
-      <description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;过去一直用 windows 开发，编码问题，行尾问题，使用 docker 绑定目录也会有同步问题。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;后来就转到 wsl 中开发，但是不好说是 wsl 的 bug 还是 docker 的 bug ，经常出现磁盘读写 100%，
-磁盘完全占满后所有 app 都不能正常工作了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;然后就转 linux ，选的三个 mint ，debian/kde ，ubuntu
-先用 live 模式尝试，ubuntu 出现了一点卡顿就放弃了，尝试 mint 发现官方网站上列了很多已知问题，
-我不敢用，debian 暂时没有发现问题，就安装了，用了之后才发现这个 debian 反而经常出现 freeze 的情况，就是所有 app 都不可以操作，10 秒钟之后才能恢复，重启之后问题只是频次有所降低，不过 debian 还不只这一个问题，chrome 渲染也有问题，chrome 打开白屏无法操作，所有基于 chromium 的也都不能用（比如 vscode ），启动时需要添加参数才行，然后更搞是如果
-debian 重启会把之前未关闭的程序恢复，但是不会恢复我在命令行中指定的参数，也就是说每次重启都会打开了一堆不能用的窗口&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;最终，用了 ubuntu ，最看不上的反而没有问题。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 29 Mar 2026 11:48:59 GMT</lastBuildDate>
     <item>
       <title>你用 AI 赚到过钱吗 怎么赚的？</title>
       <link>https://www.v2ex.com/t/1201942</link>
@@ -118,141 +95,22 @@ QnVuQ29tZWR5&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Claude Pro 信用卡频频被拒？用 N26 + Apple Pay 丝滑升级保姆级教程</title>
-      <link>https://www.v2ex.com/t/1201877</link>
-      <guid>v2ex-1201877</guid>
-      <pubDate>Sat, 28 Mar 2026 12:19:18 GMT</pubDate>
-      <description>&lt;p&gt;近被问了好几次&quot;Claude Pro 怎么开通&quot;，说实话，这事卡在支付上的人不少。支付宝不行，微信不行，国内信用卡（包括双币卡）想都不要想，基本上填完卡号点确认，直接就是一个 Card declined 打回来，搞不清楚原因，折腾半天又得重新找路子。&lt;/p&gt;
-&lt;p&gt;我自己当时也是这样，试了几条路之后发现最顺滑的方案就是 &lt;strong&gt;N26 欧洲虚拟卡&lt;/strong&gt;。配合众安和 Wise 入金，整条链路打通之后其实没什么难度，就是每一步都有几个坑，没人提前说的话真的很容易卡住。今天把完整流程都写出来，建议先收藏再操作。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;出发前先对照准备清单&lt;/h2&gt;
-&lt;p&gt;东西没齐全，中途卡壳会很烦，提前检查一遍：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;N26 账户&lt;/strong&gt;：已开通并完成实名，App 里能看到虚拟卡（卡号 + 有效期 + CVV ）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;众安银行（ ZA Bank ）&lt;/strong&gt;：港元账户，作为整条入金链路的起点&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Wise 账户&lt;/strong&gt;：港币换欧元的中转，缺了这个没法低损耗入金&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;海外网络&lt;/strong&gt;：美国节点，全程不能断、不能切换，这点后面会反复提&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gmail 邮箱&lt;/strong&gt;：注册 Claude 用，国内邮箱成功率玄学&lt;/p&gt;
-&lt;/li&gt;
+      <title>大家一人来一句 AI 味很浓的语句，纯属娱乐</title>
+      <link>https://www.v2ex.com/t/1202017</link>
+      <guid>v2ex-1202017</guid>
+      <pubDate>Sun, 29 Mar 2026 10:11:19 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;不是 xx ，（也不是 yy ，）而是 zz&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;还没有 N26 账户？参考：&lt;a href=&quot;https://easypaylog.com/archives/n26-austria-account-no-video-verification-guide&quot; rel=&quot;nofollow&quot;&gt;N26 账户免视频验证&quot;偷渡&quot;实录，半小时丝滑下户&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;还没有 Wise 账户？参考：&lt;a href=&quot;https://easypaylog.com/archives/wise-registration-china-id-card-x-stripe-guide&quot; rel=&quot;nofollow&quot;&gt;2026 最新教程：用身份证开通 Wise 香港、美元账户&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;还没有香港银行卡？参考：&lt;a href=&quot;https://easypaylog.com/archives/hong-kong-bank-account-opening-guide-hsbc-za-bochk-airstar&quot; rel=&quot;nofollow&quot;&gt;肉身实测：香港一日极限开 4 张卡全流程复盘&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h2&gt;第一步：先把钱的问题解决掉&lt;/h2&gt;
-&lt;p&gt;很多人 N26 开好了，对着那个 AT 开头的 IBAN 发了半天呆，不知道钱从哪来。这是整条流程里最容易被忽视但又最基础的一步，先把它搞清楚。&lt;/p&gt;
-&lt;p&gt;我用的入金链路是这样的：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;众安银行（港元）→ Wise 港币账户 → 换汇欧元 → SEPA 转账到 N26&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;为什么用众安而不是其他港卡？&lt;/strong&gt; 众安转 Wise 走的是本地港元通道，免手续费，基本上是秒到的。我试过其他港卡，有的要收跨行费，有的到账要等个把小时，众安是目前这几张里最顺手的，而且开户门槛也最低，基本上申请就能过。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Wise 换汇的步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;打开 Wise App ，进入「港币账户」，复制账户号码和 Sort Code&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;打开众安 App ，发起本地转账，把钱打到 Wise 港币账户，秒到&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;钱到账后，在 Wise 里发起一笔「港元 → 欧元」的换汇&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Wise 用中间市场汇率，手续费大概 **0.4%-0.6%**，换 200 港元损耗不到 2 块钱，基本感知不到&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;换好之后发起 SEPA 转账，填入 N26 的 IBAN ，收款人写自己名字，打过去&lt;strong&gt;基本秒到账&lt;/strong&gt;，N26 App 会直接弹余额通知&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/yDMBdfuxgE7l6spdkeBA3yQTXXhLdu3X.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;每月 Claude Pro 是 20 美元，折合欧元大概 18-19 欧。建议&lt;strong&gt;一次往 N26 里打 30 欧&lt;/strong&gt;，不要刚好卡着余额，续费扣款的时候余额不够直接降回免费版，然后还要手动重新触发付款才能恢复，烦得很（我就吃过这个亏）。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/PfHjE7s0M9LKUReIY2wZEJyZL9gNhC52.png&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;第一步：注册 Claude 账号&lt;/h2&gt;
-&lt;p&gt;打开 &lt;a href=&quot;https://claude.ai/&quot; rel=&quot;nofollow&quot;&gt;claude.ai&lt;/a&gt;，右上角 Sign up 开始注册。&lt;/p&gt;
-&lt;h3&gt;邮箱选 Gmail&lt;/h3&gt;
-&lt;p&gt;优先 Gmail ，因为可以直接使用 Google 账户登入，如果是其他方式风控的可能性更高所以还是建议使用 Google 的账户最简单。之前也有人反馈用 Outlook 注册没问题，但 Gmail 目前是最稳的，没必要拿其他邮箱碰运气。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/Bo9Gb1Qm6wPMRmkHXyNFuYGWIXVaiqZ4.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;手机验证——只能使用国外账户&lt;/h3&gt;
-&lt;p&gt;这里是第一个坑。Claude 注册需要验证手机号，国内 +86 的号码就不要想了，原因是 Anthropic 的短信服务商对部分国家/地区的号码有限制。&lt;/p&gt;
-&lt;p&gt;解决方案有两个：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;有 esim 的直接用（比如 GG 卡）&lt;/strong&gt;：以前还是很容易得到的，但是如果没有那就没办法了现在闲鱼也涨价了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;使用第三方接码平台&lt;/strong&gt;：找一些靠谱的第三方接码平台，也是一个不错的选择，价格也在几块钱以内，最好是欧洲的手机号码和你的支付卡一直。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我手里是有现成的 GG 卡，所以直接使用了 GG 卡完成了注册&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/IvmPZrOdwP2NGKUfCw0Zh1NWJxVcntXJ.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;全程同一个网络，不要切换&lt;/h3&gt;
-&lt;p&gt;网络风控是毕竟严格的一种，如果没搞好很容易出现问题，全程建议不要出现网络切换和网络波动。&lt;/p&gt;
-&lt;p&gt;最好保持一致的网络环境，这样对你的注册流程是最方便的。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;第二步：升级 Claude Pro ，绑定 N26 虚拟卡&lt;/h2&gt;
-&lt;p&gt;账号注册好之后，登录 &lt;a href=&quot;http://Claude.ai&quot; rel=&quot;nofollow&quot;&gt;Claude.ai&lt;/a&gt; ，&lt;strong&gt;左下角点击头像&lt;/strong&gt; → 选「 Upgrade to &lt;a href=&quot;http://Claude.ai&quot; rel=&quot;nofollow&quot;&gt;Claude.ai&lt;/a&gt; Pro 」，进入付款页面。&lt;/p&gt;
-&lt;h3&gt;填写卡片信息&lt;/h3&gt;
-&lt;p&gt;打开 N26 App ，进入「卡」页面，找到你的虚拟卡，把三个信息复制出来：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;卡号（ 16 位）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;有效期（月/年）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;CVV （ 3 位）&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;填入 Claude 的付款表单，这步没什么难度。&lt;/p&gt;
-&lt;h3&gt;支付方式&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;卡支付：直接输入你刚才复制的内容，然后绑定卡就可以完成支付。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Apple Pay：如果你是 IOS 手机我非常建议使用 Apple Pay 完成购买，现在是通过 Apple Pay 支付是最稳定的。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我这里是选择的 Apple Pay 完成的支付，稳定使用了一段时间没什么问题。如果遇到封号退款概率也是最大的，如果出现问题还可以联系客服。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/mP1OPoph6f8aMCVBPsmozjGSgd73h39k.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;账单地址&lt;/h3&gt;
-&lt;p&gt;付款表单里有一栏「账单地址（ Billing Address ）」，很多人在这里栽跟头。然后不注意随手填了国内地址，大概率支付的时候会报 Card declined 或者 Do not honor ，报错信息还非常模糊，完全看不出来是哪里的问题，就是一个劲地提示支付失败。&lt;/p&gt;
-&lt;p&gt;这里还是建议填写&lt;strong&gt;你注册 N26 时登记的奥地利地址&lt;/strong&gt;，因为 Apple Pay 会拿你填的账单地址跟 N26 的发卡行记录做比对，这样对风控来说也是风险最小的。&lt;/p&gt;
-&lt;p&gt;不记得当时填的地址？打开 N26 App → 右下角「我的账户」→「个人信息」，里面有你注册时填的地址，原样搬过来就行。格式参考：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Street: Mariahilfer Straße 100
-City: Wien
-Postal Code: 1060
-Country: Austria
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr/&gt;
-&lt;h2&gt;续费维护：别让账号在自动扣款时翻车&lt;/h2&gt;
-&lt;p&gt;Claude Pro 是&lt;strong&gt;按月自动续费&lt;/strong&gt;，每月从你绑定的 N26 卡里扣款，金额大概 18-20 欧，视当时汇率略有波动。&lt;/p&gt;
-&lt;p&gt;这里有个很容易忽视的点：如果续费那天卡内余额不足，Claude 会直接把账号降回免费版，同时发一封「支付失败」的邮件给你。要恢复 Pro 的话，还要先往 N26 补钱，再进 Claude 的「账单设置」页面手动触发一次付款，整个过程折腾起来挺烦的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我的习惯&lt;/strong&gt;：在手机日历里设一个每月月初的提醒，专门检查一次 N26 余额够不够下个月的续费，确认没问题再关掉。每次往 N26 打 30 欧，基本能覆盖一个多月，安全边际够用。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;开通之后&lt;/h2&gt;
-&lt;p&gt;免费版用久了再用 Pro ，最直接的感受就是不卡了。免费版在高峰期经常要等，有时候等到一半还给你一个「 Claude is at capacity 」，Pro 基本上发出去就能回。&lt;/p&gt;
-&lt;p&gt;用得最多的是 &lt;strong&gt;Projects 功能&lt;/strong&gt;，可以建独立的项目空间，给 Claude 设定一段固定的背景信息，这样每次开新对话不用再重新解释&quot;我是谁、我在做什么、我的偏好是什么&quot;，对话质量明显提升，省了很多来回沟通的时间。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/Drs3OyIrpNg6Q4F2tWEfpSivbvFoYhHO.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;上下文窗口也更长，处理长文档、长代码的时候免费版容易在中途截断，Pro 的表现好很多。另外每次 Anthropic 发新模型，Pro 用户也是第一批能用上的。&lt;/p&gt;
-&lt;p&gt;20 美元一个月，重度用户的话值，轻度用户自己衡量需求。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;整套流程踩坑最多的就是三个地方：&lt;strong&gt;账单地址最好和你的支付卡的地址一致&lt;/strong&gt;、&lt;strong&gt;全程网络稳定不要切换&lt;/strong&gt;、&lt;strong&gt;续费前记得保持卡内有余额&lt;/strong&gt;。其他按步骤来基本没什么问题。&lt;/p&gt;
+&lt;p&gt;现在不管哪里看到这个句式我就不舒服了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>请问大家写代码 用 5.4 还是 5.3-codex</title>
+      <link>https://www.v2ex.com/t/1201927</link>
+      <guid>v2ex-1201927</guid>
+      <pubDate>Sun, 29 Mar 2026 01:27:29 GMT</pubDate>
+      <description>&lt;p&gt;我想知道写代码哪个更稳一点，都是用 high 模式&lt;/p&gt;
 </description>
     </item>
   </channel>
