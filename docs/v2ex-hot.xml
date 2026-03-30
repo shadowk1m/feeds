@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 30 Mar 2026 10:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 11:46:29 GMT</lastBuildDate>
     <item>
       <title>自家新茶又来啦，龙井茶和径山茶有需要的 V 友欢迎联系[抽奖送龙井茶]</title>
       <link>https://www.v2ex.com/t/1202184</link>
@@ -31,21 +31,6 @@
       <description>前两年大家喊 AI 替代程序员，我没当回事。那时候的模型写写单测还凑合，碰到微服务和历史屎山就开始一本正经地胡说八道。&lt;br /&gt;&lt;br /&gt;上周有个需求改变了我的看法。&lt;br /&gt;&lt;br /&gt;要重构一个跑了七年的订单结算模块，历史数据迁移、分布式事务、顺带把 CI/CD 流水线升了。我原计划让两个两年经验的开发花两周搞定。&lt;br /&gt;&lt;br /&gt;后来手贱，把 API 文档、数据库 Schema 和业务上下文打包丢给 Claude code ，模型用的 Claude 4.6 Sonnet 。&lt;br /&gt;&lt;br /&gt;二十分钟后，它交给我：重构后的 Go 代码、完整单测、Kubernetes 部署 yaml 。&lt;br /&gt;&lt;br /&gt;但让我不安的不是速度。是它在我没提示的情况下，主动指出了两个并发问题：订单状态流转缺乐观锁保护，结算任务在高并发下会重复触发。这不是代码补全，这是 Code Review 。&lt;br /&gt;&lt;br /&gt;代码我们做了完整测试，跑通了，合并进主干了。&lt;br /&gt;&lt;br /&gt;人类开发做这件事要多久？两个人、两周、沟通联调加 Code Review ，起码小半个月。一个初中级开发月薪加五险一金和工位成本两万起步，还带薪拉屎、有情绪、会离职。而现在，几十刀的订阅费加一点 Token 消耗，就能换来这个。&lt;br /&gt;&lt;br /&gt;今早看着组里年轻人为 Redis 缓存穿透的八股文争来争去，我说不上来是什么感觉。&lt;br /&gt;&lt;br /&gt;----------------------------------------------------------------&lt;br /&gt;有几个问题想问大家：&lt;br /&gt;&lt;br /&gt;你们公司 HC 现在什么情况？是真在招人，还是在偷偷用 AI 消化需求，只是没人敢说出来？&lt;br /&gt;&lt;br /&gt;基础架构工作被 AI 吃掉之后，下一代架构师从哪里长出来？底层断掉了，上面还能接上吗？&lt;br /&gt;&lt;br /&gt;现在还在刷题背八股准备春招的应届生，你们怎么看这件事？&lt;br /&gt;&lt;br /&gt;还是说，其实大家早就这么干了，只是没人愿意公开讲？</description>
     </item>
     <item>
-      <title>我录入了 14 亿条数据泄漏信息，搓了一个 个人信息 “泄漏” 检测工具</title>
-      <link>https://www.v2ex.com/t/1202064</link>
-      <guid>v2ex-1202064</guid>
-      <pubDate>Sun, 29 Mar 2026 14:49:56 GMT</pubDate>
-      <description>&lt;p&gt;据公开传播的泄漏数据, 花了几天 搓了一个 个人信息 “泄漏” 检测工具。&lt;/p&gt;
-&lt;p&gt;地址： &lt;a href=&quot;https://breach.garinasset.com/&quot; rel=&quot;nofollow&quot;&gt;https://breach.garinasset.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主要特点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;“不记录”「查询记录」&lt;/li&gt;
-&lt;li&gt;“不提供”「隐私信息」&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;欢迎大家试用.&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>在香港和澳门之间做选择，去了澳门，但是感觉太不爽了</title>
       <link>https://www.v2ex.com/t/1202136</link>
       <guid>v2ex-1202136</guid>
@@ -63,13 +48,6 @@
 </description>
     </item>
     <item>
-      <title>2026 年了，程序员用 chrome 还是用 Safari 比较多？可以说一下推荐的原因吗？</title>
-      <link>https://www.v2ex.com/t/1202062</link>
-      <guid>v2ex-1202062</guid>
-      <pubDate>Sun, 29 Mar 2026 14:39:37 GMT</pubDate>
-      <description>2026 年了，程序员用 chrome 还是用 Safari 比较多？可以说一下推荐的原因吗？</description>
-    </item>
-    <item>
       <title>朋友一头扎进 AI 漫剧赛道，怎么委婉劝他别上头？</title>
       <link>https://www.v2ex.com/t/1202119</link>
       <guid>v2ex-1202119</guid>
@@ -83,6 +61,13 @@
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/PH1cGHz.png&quot;/&gt; &lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/CYAD4QO.png&quot;/&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>2026 年了，程序员用 chrome 还是用 Safari 比较多？可以说一下推荐的原因吗？</title>
+      <link>https://www.v2ex.com/t/1202062</link>
+      <guid>v2ex-1202062</guid>
+      <pubDate>Sun, 29 Mar 2026 14:39:37 GMT</pubDate>
+      <description>2026 年了，程序员用 chrome 还是用 Safari 比较多？可以说一下推荐的原因吗？</description>
     </item>
     <item>
       <title>新买的酷态科 10 号 ultra 坏了</title>
