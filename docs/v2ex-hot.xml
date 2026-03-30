@@ -4,25 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 30 Mar 2026 09:52:14 GMT</lastBuildDate>
-    <item>
-      <title>大家一人来一句 AI 味很浓的语句，纯属娱乐</title>
-      <link>https://www.v2ex.com/t/1202017</link>
-      <guid>v2ex-1202017</guid>
-      <pubDate>Sun, 29 Mar 2026 10:11:19 GMT</pubDate>
-      <description>&lt;ul&gt;
-&lt;li&gt;不是 xx ，（也不是 yy ，）而是 zz&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;现在不管哪里看到这个句式我就不舒服了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>今天和 HR 说取消校招，因为上周一个需求让我后背发凉</title>
-      <link>https://www.v2ex.com/t/1202098</link>
-      <guid>v2ex-1202098</guid>
-      <pubDate>Mon, 30 Mar 2026 01:15:21 GMT</pubDate>
-      <description>前两年大家喊 AI 替代程序员，我没当回事。那时候的模型写写单测还凑合，碰到微服务和历史屎山就开始一本正经地胡说八道。&lt;br /&gt;&lt;br /&gt;上周有个需求改变了我的看法。&lt;br /&gt;&lt;br /&gt;要重构一个跑了七年的订单结算模块，历史数据迁移、分布式事务、顺带把 CI/CD 流水线升了。我原计划让两个两年经验的开发花两周搞定。&lt;br /&gt;&lt;br /&gt;后来手贱，把 API 文档、数据库 Schema 和业务上下文打包丢给 Claude code ，模型用的 Claude 4.6 Sonnet 。&lt;br /&gt;&lt;br /&gt;二十分钟后，它交给我：重构后的 Go 代码、完整单测、Kubernetes 部署 yaml 。&lt;br /&gt;&lt;br /&gt;但让我不安的不是速度。是它在我没提示的情况下，主动指出了两个并发问题：订单状态流转缺乐观锁保护，结算任务在高并发下会重复触发。这不是代码补全，这是 Code Review 。&lt;br /&gt;&lt;br /&gt;代码我们做了完整测试，跑通了，合并进主干了。&lt;br /&gt;&lt;br /&gt;人类开发做这件事要多久？两个人、两周、沟通联调加 Code Review ，起码小半个月。一个初中级开发月薪加五险一金和工位成本两万起步，还带薪拉屎、有情绪、会离职。而现在，几十刀的订阅费加一点 Token 消耗，就能换来这个。&lt;br /&gt;&lt;br /&gt;今早看着组里年轻人为 Redis 缓存穿透的八股文争来争去，我说不上来是什么感觉。&lt;br /&gt;&lt;br /&gt;----------------------------------------------------------------&lt;br /&gt;有几个问题想问大家：&lt;br /&gt;&lt;br /&gt;你们公司 HC 现在什么情况？是真在招人，还是在偷偷用 AI 消化需求，只是没人敢说出来？&lt;br /&gt;&lt;br /&gt;基础架构工作被 AI 吃掉之后，下一代架构师从哪里长出来？底层断掉了，上面还能接上吗？&lt;br /&gt;&lt;br /&gt;现在还在刷题背八股准备春招的应届生，你们怎么看这件事？&lt;br /&gt;&lt;br /&gt;还是说，其实大家早就这么干了，只是没人愿意公开讲？</description>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 10:53:23 GMT</lastBuildDate>
     <item>
       <title>自家新茶又来啦，龙井茶和径山茶有需要的 V 友欢迎联系[抽奖送龙井茶]</title>
       <link>https://www.v2ex.com/t/1202184</link>
@@ -42,6 +24,13 @@
 </description>
     </item>
     <item>
+      <title>今天和 HR 说取消校招，因为上周一个需求让我后背发凉</title>
+      <link>https://www.v2ex.com/t/1202098</link>
+      <guid>v2ex-1202098</guid>
+      <pubDate>Mon, 30 Mar 2026 01:15:21 GMT</pubDate>
+      <description>前两年大家喊 AI 替代程序员，我没当回事。那时候的模型写写单测还凑合，碰到微服务和历史屎山就开始一本正经地胡说八道。&lt;br /&gt;&lt;br /&gt;上周有个需求改变了我的看法。&lt;br /&gt;&lt;br /&gt;要重构一个跑了七年的订单结算模块，历史数据迁移、分布式事务、顺带把 CI/CD 流水线升了。我原计划让两个两年经验的开发花两周搞定。&lt;br /&gt;&lt;br /&gt;后来手贱，把 API 文档、数据库 Schema 和业务上下文打包丢给 Claude code ，模型用的 Claude 4.6 Sonnet 。&lt;br /&gt;&lt;br /&gt;二十分钟后，它交给我：重构后的 Go 代码、完整单测、Kubernetes 部署 yaml 。&lt;br /&gt;&lt;br /&gt;但让我不安的不是速度。是它在我没提示的情况下，主动指出了两个并发问题：订单状态流转缺乐观锁保护，结算任务在高并发下会重复触发。这不是代码补全，这是 Code Review 。&lt;br /&gt;&lt;br /&gt;代码我们做了完整测试，跑通了，合并进主干了。&lt;br /&gt;&lt;br /&gt;人类开发做这件事要多久？两个人、两周、沟通联调加 Code Review ，起码小半个月。一个初中级开发月薪加五险一金和工位成本两万起步，还带薪拉屎、有情绪、会离职。而现在，几十刀的订阅费加一点 Token 消耗，就能换来这个。&lt;br /&gt;&lt;br /&gt;今早看着组里年轻人为 Redis 缓存穿透的八股文争来争去，我说不上来是什么感觉。&lt;br /&gt;&lt;br /&gt;----------------------------------------------------------------&lt;br /&gt;有几个问题想问大家：&lt;br /&gt;&lt;br /&gt;你们公司 HC 现在什么情况？是真在招人，还是在偷偷用 AI 消化需求，只是没人敢说出来？&lt;br /&gt;&lt;br /&gt;基础架构工作被 AI 吃掉之后，下一代架构师从哪里长出来？底层断掉了，上面还能接上吗？&lt;br /&gt;&lt;br /&gt;现在还在刷题背八股准备春招的应届生，你们怎么看这件事？&lt;br /&gt;&lt;br /&gt;还是说，其实大家早就这么干了，只是没人愿意公开讲？</description>
+    </item>
+    <item>
       <title>我录入了 14 亿条数据泄漏信息，搓了一个 个人信息 “泄漏” 检测工具</title>
       <link>https://www.v2ex.com/t/1202064</link>
       <guid>v2ex-1202064</guid>
@@ -55,28 +44,6 @@
 &lt;/ol&gt;
 &lt;p&gt;欢迎大家试用.&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>朋友一头扎进 AI 漫剧赛道，怎么委婉劝他别上头？</title>
-      <link>https://www.v2ex.com/t/1202119</link>
-      <guid>v2ex-1202119</guid>
-      <pubDate>Mon, 30 Mar 2026 02:00:24 GMT</pubDate>
-      <description>&lt;p&gt;有个朋友最近问我平时爱看什么类型的漫剧，我还以为他只是剧荒，就给他推荐了满级大佬隐藏实力装逼之类的&lt;/p&gt;
-&lt;p&gt;结果他直接告诉我，打算自己用 AI 做漫剧，用的是即梦，付费做了个 demo 发给我看了下&lt;/p&gt;
-&lt;p&gt;看完真的一言难尽。现在虽然都说 AI 降低了创作门槛，人人都能当创作者，但漫剧其实特别吃剧本、分镜和画面质感，描述不到位，抽卡不理想，做出来的内容根本没吸引力&lt;/p&gt;
-&lt;p&gt;再说他本身也不是相关专业出身，完全是一腔热血硬上，还计划做五十多集，这不纯纯烧钱...我怕他投入太多最后没啥人看，要不要劝他再慎重考虑下？&lt;/p&gt;
-&lt;p&gt;放几个截图，大家如果有兴趣，上线了我滴滴你们。哈哈哈&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/5dl8Jjy.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/PH1cGHz.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/CYAD4QO.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>2026 年了，程序员用 chrome 还是用 Safari 比较多？可以说一下推荐的原因吗？</title>
-      <link>https://www.v2ex.com/t/1202062</link>
-      <guid>v2ex-1202062</guid>
-      <pubDate>Sun, 29 Mar 2026 14:39:37 GMT</pubDate>
-      <description>2026 年了，程序员用 chrome 还是用 Safari 比较多？可以说一下推荐的原因吗？</description>
     </item>
     <item>
       <title>在香港和澳门之间做选择，去了澳门，但是感觉太不爽了</title>
@@ -96,11 +63,42 @@
 </description>
     </item>
     <item>
+      <title>2026 年了，程序员用 chrome 还是用 Safari 比较多？可以说一下推荐的原因吗？</title>
+      <link>https://www.v2ex.com/t/1202062</link>
+      <guid>v2ex-1202062</guid>
+      <pubDate>Sun, 29 Mar 2026 14:39:37 GMT</pubDate>
+      <description>2026 年了，程序员用 chrome 还是用 Safari 比较多？可以说一下推荐的原因吗？</description>
+    </item>
+    <item>
+      <title>朋友一头扎进 AI 漫剧赛道，怎么委婉劝他别上头？</title>
+      <link>https://www.v2ex.com/t/1202119</link>
+      <guid>v2ex-1202119</guid>
+      <pubDate>Mon, 30 Mar 2026 02:00:24 GMT</pubDate>
+      <description>&lt;p&gt;有个朋友最近问我平时爱看什么类型的漫剧，我还以为他只是剧荒，就给他推荐了满级大佬隐藏实力装逼之类的&lt;/p&gt;
+&lt;p&gt;结果他直接告诉我，打算自己用 AI 做漫剧，用的是即梦，付费做了个 demo 发给我看了下&lt;/p&gt;
+&lt;p&gt;看完真的一言难尽。现在虽然都说 AI 降低了创作门槛，人人都能当创作者，但漫剧其实特别吃剧本、分镜和画面质感，描述不到位，抽卡不理想，做出来的内容根本没吸引力&lt;/p&gt;
+&lt;p&gt;再说他本身也不是相关专业出身，完全是一腔热血硬上，还计划做五十多集，这不纯纯烧钱...我怕他投入太多最后没啥人看，要不要劝他再慎重考虑下？&lt;/p&gt;
+&lt;p&gt;放几个截图，大家如果有兴趣，上线了我滴滴你们。哈哈哈&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/5dl8Jjy.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/PH1cGHz.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/CYAD4QO.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>新买的酷态科 10 号 ultra 坏了</title>
       <link>https://www.v2ex.com/t/1202112</link>
       <guid>v2ex-1202112</guid>
       <pubDate>Mon, 30 Mar 2026 01:42:27 GMT</pubDate>
       <description>到手 10 天，OTA 一次，昨天同时在充 14 和 16pm ，功率不超过 60w&lt;br /&gt;&lt;br /&gt;突然跳空开，有一股焦臭味，正在售后中。。&lt;br /&gt;&lt;br /&gt;果然果子还是只能和 anker 配吗？我之前买的 anker 也炸过</description>
+    </item>
+    <item>
+      <title>是否需要拔智齿</title>
+      <link>https://www.v2ex.com/t/1202131</link>
+      <guid>v2ex-1202131</guid>
+      <pubDate>Mon, 30 Mar 2026 02:29:58 GMT</pubDate>
+      <description>&lt;p&gt;目前发现下颚大牙最里面开始长了，都是横着长的，目前左边已经长出来了能看到白白牙齿，现在右边也开始冒头了，现在就是右边会出现阵痛，头皮发麻那种，还有就是左边因为长出来了虽然现在不痛了，但是因为有缝隙总感觉里面藏了东西，抠一下就很臭那种
+这种需要去拔掉吗？如果不拔还会继续长吗？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
