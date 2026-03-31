@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 30 Mar 2026 23:55:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 01:29:38 GMT</lastBuildDate>
     <item>
       <title>自家新茶又来啦，龙井茶和径山茶有需要的 V 友欢迎联系[抽奖送龙井茶]</title>
       <link>https://www.v2ex.com/t/1202184</link>
@@ -22,13 +22,6 @@
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://markdown-pic-blackboxo.oss-cn-shanghai.aliyuncs.com/e6f5fc7e94494444d9433c5118822eff.jpg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://markdown-pic-blackboxo.oss-cn-shanghai.aliyuncs.com/d509c85b30d45b20e76c4c4b85b10635.jpg&quot;/&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>今天和 HR 说取消校招，因为上周一个需求让我后背发凉</title>
-      <link>https://www.v2ex.com/t/1202098</link>
-      <guid>v2ex-1202098</guid>
-      <pubDate>Mon, 30 Mar 2026 01:15:21 GMT</pubDate>
-      <description>前两年大家喊 AI 替代程序员，我没当回事。那时候的模型写写单测还凑合，碰到微服务和历史屎山就开始一本正经地胡说八道。&lt;br /&gt;&lt;br /&gt;上周有个需求改变了我的看法。&lt;br /&gt;&lt;br /&gt;要重构一个跑了七年的订单结算模块，历史数据迁移、分布式事务、顺带把 CI/CD 流水线升了。我原计划让两个两年经验的开发花两周搞定。&lt;br /&gt;&lt;br /&gt;后来手贱，把 API 文档、数据库 Schema 和业务上下文打包丢给 Claude code ，模型用的 Claude 4.6 Sonnet 。&lt;br /&gt;&lt;br /&gt;二十分钟后，它交给我：重构后的 Go 代码、完整单测、Kubernetes 部署 yaml 。&lt;br /&gt;&lt;br /&gt;但让我不安的不是速度。是它在我没提示的情况下，主动指出了两个并发问题：订单状态流转缺乐观锁保护，结算任务在高并发下会重复触发。这不是代码补全，这是 Code Review 。&lt;br /&gt;&lt;br /&gt;代码我们做了完整测试，跑通了，合并进主干了。&lt;br /&gt;&lt;br /&gt;人类开发做这件事要多久？两个人、两周、沟通联调加 Code Review ，起码小半个月。一个初中级开发月薪加五险一金和工位成本两万起步，还带薪拉屎、有情绪、会离职。而现在，几十刀的订阅费加一点 Token 消耗，就能换来这个。&lt;br /&gt;&lt;br /&gt;今早看着组里年轻人为 Redis 缓存穿透的八股文争来争去，我说不上来是什么感觉。&lt;br /&gt;&lt;br /&gt;----------------------------------------------------------------&lt;br /&gt;有几个问题想问大家：&lt;br /&gt;&lt;br /&gt;你们公司 HC 现在什么情况？是真在招人，还是在偷偷用 AI 消化需求，只是没人敢说出来？&lt;br /&gt;&lt;br /&gt;基础架构工作被 AI 吃掉之后，下一代架构师从哪里长出来？底层断掉了，上面还能接上吗？&lt;br /&gt;&lt;br /&gt;现在还在刷题背八股准备春招的应届生，你们怎么看这件事？&lt;br /&gt;&lt;br /&gt;还是说，其实大家早就这么干了，只是没人愿意公开讲？</description>
     </item>
     <item>
       <title>在香港和澳门之间做选择，去了澳门，但是感觉太不爽了</title>
@@ -79,16 +72,6 @@
 </description>
     </item>
     <item>
-      <title>2026 年，个人开发首选是直接走原生还是走 RN 或 flutter</title>
-      <link>https://www.v2ex.com/t/1202088</link>
-      <guid>v2ex-1202088</guid>
-      <pubDate>Mon, 30 Mar 2026 00:27:52 GMT</pubDate>
-      <description>&lt;p&gt;基本都是 AI 写代码了，现在 AI 写 swift 这些擅长吗？因为一直以来只用来写过前端。&lt;/p&gt;
-&lt;p&gt;我想的是，都 AI 写代码，是不是直接上原生的好一些？&lt;/p&gt;
-&lt;p&gt;另外我现在开发的 app 是用 RN 写的，但是我担心 RN 会容易在不同手机上出现各种兼容性问题。我也没那么多可测试的。只能保证自己手机上没问题。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>张雪摩托车连续获得两个 WSBK 分站冠军， 是不是意味着国产摩托车已经达到世界先进水平？</title>
       <link>https://www.v2ex.com/t/1202185</link>
       <guid>v2ex-1202185</guid>
@@ -122,11 +105,41 @@ Street Triple 765 RS （高性能版）：117,895 元&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>蜕变日记 5(2 约女大学生)</title>
+      <link>https://www.v2ex.com/t/1202265</link>
+      <guid>v2ex-1202265</guid>
+      <pubDate>Mon, 30 Mar 2026 08:24:53 GMT</pubDate>
+      <description>2026 年 3 月 30 日&lt;br /&gt;二性关系中，有供养中也有被供养者，你在这段关系中做什么是取决于你自己，大家常说的龟男/龟女去给另一方提供更多的情绪，经济价值来维护双方的恋爱关系，婚姻关系。本质是你在这段二性关系中缺乏吸引力，你吸引不了对方，而你被对方吸引，所以你要付出更多的成本才能和他有一段关系，甚至都产生不了关系。 吸引的点，无非颜值，穿搭，高，帅，有钱，个人魅力，等那些好的词汇。所以当女生需要你给她花钱，给她情绪价值，但她喜爱疯狂的男神，买他的周边看他的演唱会，她肯定不会要他的男神给她花一分钱，甚至能心甘情愿把一切给她的男神。&lt;br /&gt;&lt;br /&gt;不要成为供养中，做一个有魅力人&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;2026 年 3 月 28 日 星期 6 天气阴雨&lt;br /&gt;这次是 2 约上次的 20 岁女大学生，第一次约会就是在私人影院里面，在我的约会日记 2 里面。第一次约会我并没有和她发生实际关系，也没有跟她确认关系，说白了我没有把她拿下。这次 2 约就是为了把她拿下。&lt;br /&gt;&lt;br /&gt;今天没课吗&lt;br /&gt;没有呢&lt;br /&gt;那出来玩呀&lt;br /&gt;我想去吃 need&lt;br /&gt;&lt;br /&gt;我打开美团搜了下这个店，感觉不怎么好吃，就算好吃我也不会这么容易答应女生要求。我问她去吃日料，火锅，还是烤肉。她选择了烤肉，我就找了一家人均 100 多的烤肉。给她发了个位置，定好了六点半见面。&lt;br /&gt;&lt;br /&gt;她说你不开车来接我吗&lt;br /&gt;可是我没有车呀宝贝，是什么错觉让你觉得我有车&lt;br /&gt;因为我有过的约会都是有男生开车来接的&lt;br /&gt;hhh 小公主呀，你打车过来吧，这里挺近的，晚点还是跟之前一样送你回去&lt;br /&gt;&lt;br /&gt;周六的商场还是有比较多的人的，我到了烤肉门口拿了个号，坐在门口就开始等着。&lt;br /&gt;&lt;br /&gt;她穿着黑白条纹上衣，黑色牛仔裤，还是之前的那双黑色小高更鞋，鞋跟不高，但是她走起来很明显是很少穿高更鞋的样子。&lt;br /&gt;&lt;br /&gt;一见面开着手机美团说想喝楼下的喜茶，要我去买。我说马上就号就到我们了，会错过号的。她说口好干，想喝水了，我指着店门口处的茶水说，那里可以倒水喝你去吧。你去帮我倒下吧。这是服从试训练吗，我脑海想着这个词，又不得不帮她去倒了杯水。&lt;br /&gt;&lt;br /&gt;你怎么不自己倒一杯，我喝你的就可以了，你喝了的水不会变臭什么的吧，我调侃了她一下，她把水喝完了，我是一口没喝到。&lt;br /&gt;&lt;br /&gt;等了 20 分钟左右，到了我们的号进店入座，选了个 258 烤肉套餐，在问她看看还有什么想吃的继续点。她说吃完到时候在继续看吧，又说要下去买喜茶。&lt;br /&gt;&lt;br /&gt;我跟她一起去了楼下喜茶店，点喜茶，喊她给我推荐了一杯，点完后发现只有空凳子了，就坐下喊她一起坐，一开始还有点不愿意，我拉了她一下，就自然而然的坐了过来。搂着她的小腰坐着，之前从下楼也是一直搂着下来的。&lt;br /&gt;&lt;br /&gt;又是十多分钟的等待时间，终于奶茶好了，拿了二杯就拉着她走人。&lt;br /&gt;&lt;br /&gt;弄了这么久终于可以吃上饭了，店员看我们回来，也帮我们弄起了烤肉，我跟店员说了下，我们自己来就行了，就喊店员走开了。这家店服务什么的确实还可以，下次还可以再去&lt;br /&gt;&lt;br /&gt;晚饭结束后，就跟她在附近商场逛了逛，她左手拿着奶茶，右手拿着手机，我便把她手机拿走放到了我都口袋里，牵着她的手走着。&lt;br /&gt;&lt;br /&gt;逛街时，我时不时的看着手机，她问我在看什么，我说有些工作需要处理下，你先跟我回去处理下工作吧，处理完我们在去清吧喝点东西。&lt;br /&gt;&lt;br /&gt;打了专车，把她带到了我的寒舍，城中村一室一厅，人多杂乱环境差。&lt;br /&gt;&lt;br /&gt;在楼下的时候还不想上去，说在下面等我，那我肯定是把她拉了上去，嘴上说着一定不会对她做什么等。&lt;br /&gt;&lt;br /&gt;进门后，要她拖鞋坐到我沙发上。&lt;br /&gt;&lt;br /&gt;我沙发下面铺了一个 180x120 左右的地毯。沙发前有一个小茶几。 在茶几前的墙边，放了一个 1 米 2 长左右的柜子，柜子上面摆着一个鱼缸，跟一些乐高积木等玩具。&lt;br /&gt;&lt;br /&gt;我坐在沙发旁边的椅子上，拿出电脑操作起来，问她一般喜欢听什么歌，又用我的台式电脑给她放起了歌。&lt;br /&gt;&lt;br /&gt;我操作了一会电脑后，便把客厅大灯关了，只剩下鱼缸的灯光跟电脑灯光，灯光暗一点也能让氛围感好一些。我也坐到了沙发上，跟她聊起了天。&lt;br /&gt;&lt;br /&gt;看她在玩手机我便凑了过去，聊着天摸她的腿，亲她的脸，强吻上去几次都被躲开了（后悔没有直接把她按着吻，还是经验太少了）&lt;br /&gt;&lt;br /&gt;我坐在茶几上，她的对面，跟她聊着感情史。她说她前 2 任男友都对她很好，也都是工作了的，给她花钱转账，给她提供情绪价值，她说需要仪式感，开始需要一粟花，一顿漂亮饭。&lt;br /&gt;&lt;br /&gt;我应付着说红玫瑰，还是白玫瑰，她说好像都收到过了你直接转账给我就好了。&lt;br /&gt;&lt;br /&gt;我们约好清明假期最后一天，一粟花，一顿漂亮饭，转账，一个好的酒店在确认关系，商量着穿什么衣服见面。&lt;br /&gt;&lt;br /&gt;她问我会不会觉得她太直接了，太现实了，她说不会太委婉，比如她想要一个东西，发给链接过来，问好不好看，别人要说不好看就不好了，还不如直接问她要。&lt;br /&gt;&lt;br /&gt;我觉得这样挺好的，挺真实，不像那些圣母婊，绿茶什么的，我就喜欢你这么真实&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;她说要回去洗澡了没热水，我要她在这里洗，她说没带换洗的衣服。&lt;br /&gt;&lt;br /&gt;总共在我家待了 2 个多小时，我打了个车把她送回了宿舍，又自己打车回了家。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;事后第二天后她还发了消息给我，但我没怎么在理她了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;大概率不会在第三次见面了，就像我在前言所说，2 性交往中，展示自己的魅力吸引别人，这次约会肯定是有很多地方做的不够好，凌晨 12 点在我家，我都没能跟着女生发生关系，确认关系。最后我还需要爆金币才能跟别人交往，发生关系。</description>
+    </item>
+    <item>
       <title>V2EX 是否在实质上接受了 AI 生成的内容了</title>
       <link>https://www.v2ex.com/t/1202159</link>
       <guid>v2ex-1202159</guid>
       <pubDate>Mon, 30 Mar 2026 03:23:21 GMT</pubDate>
       <description>最近越来越多人开始使用 AI 润色文案，以前要识别标题党，现在没办法识别标题党了，点开一看超级详细，都以为是好文章，结果读着读着越来越不对劲，说了半天信息量极少而且喜欢绕来绕去，本来几句话能说完的，结果 AI 润色写了一篇文章。&lt;br /&gt;&lt;br /&gt;AI 提升了部分人的写作水平，但是制造了更多的让人看起来有条有理但是冗余信息巨多的文章，完全浪费时间。&lt;br /&gt;&lt;br /&gt;而 V2EX 也无法幸免，虽然一直都说禁止使用 AI ，但是实时上每天都会看到 AI 生成或 AI 润色的帖子。&lt;br /&gt;&lt;br /&gt;所以说现在再说禁止 AI 还有意义吗。</description>
+    </item>
+    <item>
+      <title>“万一免五”低佣低两融老倔驴开户，抽山姆 BRUNO 咖啡机一台，程序员对自己好一点～</title>
+      <link>https://www.v2ex.com/t/1202120</link>
+      <guid>v2ex-1202120</guid>
+      <pubDate>Mon, 30 Mar 2026 02:01:16 GMT</pubDate>
+      <description>&lt;p&gt;每周一个工程师值得拥有的精选好物，本周抽山姆 BRUNO 咖啡机一台，程序员对自己好一点～&lt;/p&gt;
+&lt;p&gt;war 在升级，轻仓或清仓为宜，低费率的账号可以提前准备～&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/CN6T026m.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;回复即可参与～～&lt;/p&gt;
+&lt;p&gt;免五低佣低两融开户，找老倔驴，靠谱！ 开户选择多还靠谱，聚合几十家券商优惠，连接 100+家营业部，已帮助 2000 人+。&lt;/p&gt;
+&lt;p&gt;开户点这里: &lt;a href=&quot;https://jue.lv/kh/V2/202604a&quot; rel=&quot;nofollow&quot;&gt;https://jue.lv/kh/V2/202604a&lt;/a&gt; (10+券商可选，开户有礼！)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;只玩 ETF 的聪明钱 银河 ETF 万 0.5 ，1 毛起收非常合适。适合大多数散户，宽指 ETF+逆回购+打新。&lt;/li&gt;
+&lt;li&gt;量化选手 miniqmt 申万国金可选。&lt;/li&gt;
+&lt;li&gt;50W 免五国泰长江可选，两融利率选西南广发银河平安等 。&lt;/li&gt;
+&lt;li&gt;VIP 通道 东莞万 0.76 ，20 万获得上限 50 人的 VIP 通道(不限制人数的都是假的，一般需要 100 门槛的)，长江高门槛上限 200 人尊享通到，打板领先一步；&lt;/li&gt;
+&lt;li&gt;另外，渣打远程开港卡(存刀年化 3.7%，还能远程开港卡），港美 FX 可选；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;（低门槛继续拉跨，开 y 川 C 要排队～～）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/186OJDmb.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;友情提醒：不因奖品而参与股市，得不偿失！&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
