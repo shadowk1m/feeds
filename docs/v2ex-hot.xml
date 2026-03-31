@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 31 Mar 2026 23:24:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 23:55:03 GMT</lastBuildDate>
     <item>
       <title>如何投诉苏州大学？</title>
       <link>https://www.v2ex.com/t/1202403</link>
@@ -45,6 +45,13 @@
       <description>全程录制开箱视频，心潮澎湃。&lt;br /&gt;&lt;br /&gt;开箱就看到电脑的纸质保护膜有破损，立马心就凉了半截。&lt;br /&gt;&lt;br /&gt;移除纸质保护膜看到机身 logo 有指纹，又凉了 1/4 。&lt;br /&gt;&lt;br /&gt;开盖看到屏幕很多处指纹，凉透了。&lt;br /&gt;&lt;br /&gt;我没联网激活，官网查序列号提示“这台设备缺少购买日期信息”。&lt;br /&gt;&lt;br /&gt;不知道怎样跳过联网激活步骤查查电池循环记录，按 ai 提示“Command + Option + T”打不开终端。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;拿着完整的开箱视频对峙，商家竟然甩锅给“包装工人留下的指纹”。&lt;br /&gt;&lt;br /&gt;目前已带着完整视频证据向拼多多官方发起投诉。&lt;br /&gt;&lt;br /&gt;请问大家，这种疑似后封的机器，多多官方介入能顺利退货退款吗？&lt;br /&gt;&lt;br /&gt;急求维权经验！</description>
     </item>
     <item>
+      <title>Claude Code 的源码好像被 Anthropic 自己发出来了</title>
+      <link>https://www.v2ex.com/t/1202562</link>
+      <guid>v2ex-1202562</guid>
+      <pubDate>Tue, 31 Mar 2026 08:57:25 GMT</pubDate>
+      <description>目前可以直接下载 map:&lt;br /&gt;npm pack @&lt;a target=&quot;_blank&quot; href=&quot;/member/anthropic-ai&quot; rel=&quot;nofollow noopener&quot;&gt;anthropic-ai&lt;/a&gt;/claude-code@2.1.88 --registry=&lt;a target=&quot;_blank&quot; href=&quot;https://registry.npmjs.org/&quot; rel=&quot;nofollow noopener&quot;&gt;https://registry.npmjs.org/&lt;/a&gt; &lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/a/4uRyLKa&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/a/4uRyLKa&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>公司开始推行每个人创建各自的 agent、skills 了，并纳入考核</title>
       <link>https://www.v2ex.com/t/1202429</link>
       <guid>v2ex-1202429</guid>
@@ -52,13 +59,6 @@
       <description>&lt;p&gt;RT ，要求根据自己的岗位，培养出能胜任自己的 agent 、skills ，能够替代自己，并纳入考核。&lt;/p&gt;
 &lt;p&gt;我就不理解了，但凡有点生产力提升，想到的不是提早，而是干人，这群🐽真该 4️⃣&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>Claude Code 的源码好像被 Anthropic 自己发出来了</title>
-      <link>https://www.v2ex.com/t/1202562</link>
-      <guid>v2ex-1202562</guid>
-      <pubDate>Tue, 31 Mar 2026 08:57:25 GMT</pubDate>
-      <description>目前可以直接下载 map:&lt;br /&gt;npm pack @&lt;a target=&quot;_blank&quot; href=&quot;/member/anthropic-ai&quot; rel=&quot;nofollow noopener&quot;&gt;anthropic-ai&lt;/a&gt;/claude-code@2.1.88 --registry=&lt;a target=&quot;_blank&quot; href=&quot;https://registry.npmjs.org/&quot; rel=&quot;nofollow noopener&quot;&gt;https://registry.npmjs.org/&lt;/a&gt; &lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/a/4uRyLKa&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/a/4uRyLKa&lt;/a&gt;</description>
     </item>
     <item>
       <title>axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击</title>
