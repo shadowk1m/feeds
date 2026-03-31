@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 31 Mar 2026 22:54:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 23:24:39 GMT</lastBuildDate>
     <item>
       <title>如何投诉苏州大学？</title>
       <link>https://www.v2ex.com/t/1202403</link>
@@ -52,6 +52,13 @@
       <description>&lt;p&gt;RT ，要求根据自己的岗位，培养出能胜任自己的 agent 、skills ，能够替代自己，并纳入考核。&lt;/p&gt;
 &lt;p&gt;我就不理解了，但凡有点生产力提升，想到的不是提早，而是干人，这群🐽真该 4️⃣&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>Claude Code 的源码好像被 Anthropic 自己发出来了</title>
+      <link>https://www.v2ex.com/t/1202562</link>
+      <guid>v2ex-1202562</guid>
+      <pubDate>Tue, 31 Mar 2026 08:57:25 GMT</pubDate>
+      <description>目前可以直接下载 map:&lt;br /&gt;npm pack @&lt;a target=&quot;_blank&quot; href=&quot;/member/anthropic-ai&quot; rel=&quot;nofollow noopener&quot;&gt;anthropic-ai&lt;/a&gt;/claude-code@2.1.88 --registry=&lt;a target=&quot;_blank&quot; href=&quot;https://registry.npmjs.org/&quot; rel=&quot;nofollow noopener&quot;&gt;https://registry.npmjs.org/&lt;/a&gt; &lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/a/4uRyLKa&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/a/4uRyLKa&lt;/a&gt;</description>
     </item>
     <item>
       <title>axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击</title>
@@ -115,13 +122,6 @@ ls -la /tmp/ld.py 2&amp;gt;/dev/null &amp;amp;&amp;amp; echo &quot;⚠️ COMPRO
 # Windows (cmd)
 dir &quot;%PROGRAMDATA%\wt.exe&quot; 2&amp;gt;nul &amp;amp;&amp;amp; echo COMPROMISED&lt;/code&gt;&lt;/pre&gt;
 </description>
-    </item>
-    <item>
-      <title>Claude Code 的源码好像被 Anthropic 自己发出来了</title>
-      <link>https://www.v2ex.com/t/1202562</link>
-      <guid>v2ex-1202562</guid>
-      <pubDate>Tue, 31 Mar 2026 08:57:25 GMT</pubDate>
-      <description>目前可以直接下载 map:&lt;br /&gt;npm pack @&lt;a target=&quot;_blank&quot; href=&quot;/member/anthropic-ai&quot; rel=&quot;nofollow noopener&quot;&gt;anthropic-ai&lt;/a&gt;/claude-code@2.1.88 --registry=&lt;a target=&quot;_blank&quot; href=&quot;https://registry.npmjs.org/&quot; rel=&quot;nofollow noopener&quot;&gt;https://registry.npmjs.org/&lt;/a&gt; &lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://imgur.com/a/4uRyLKa&quot; rel=&quot;nofollow noopener&quot;&gt;https://imgur.com/a/4uRyLKa&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
