@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 31 Mar 2026 23:55:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 01:26:34 GMT</lastBuildDate>
     <item>
       <title>如何投诉苏州大学？</title>
       <link>https://www.v2ex.com/t/1202403</link>
@@ -31,13 +31,6 @@
 </description>
     </item>
     <item>
-      <title>a 股证券低佣开户万一免五，再抽一箱汾酒 [6 瓶] ~~~ [大笑脸开户]</title>
-      <link>https://www.v2ex.com/t/1202388</link>
-      <guid>v2ex-1202388</guid>
-      <pubDate>Tue, 31 Mar 2026 00:34:16 GMT</pubDate>
-      <description>⚠️回帖抽一箱汾酒 [ 6 瓶]&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/C0In2h16l.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 C0In2h16l.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/C0In2h16l.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;⚠️开户送五常大米，推荐朋友有红包&lt;br /&gt;&lt;br /&gt;⚠️大笑脸低佣开户推荐：&lt;br /&gt;银河证券：ETF 万 0.5 免 5  [ETF,LOF ，费率低，适合 etf ，打新，纳指，宽基玩家。新手必备]&lt;br /&gt;光大证券： 万 0.854 免 5  [头部龙头券商，股票和 ETF 费率都不错] &lt;br /&gt;东北证券： 万 0.741 免 5 [国企券商，股票 etf 费率都很低]&lt;br /&gt;国泰海通： 万 0.8 免 5  [头部龙头券商，费率最优惠，大客户专享，综合费率最低]&lt;br /&gt;&lt;br /&gt;⚠️大笑脸联系方式和最新具体券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;http://www.daxiaolian.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.daxiaolian.com&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工</title>
       <link>https://www.v2ex.com/t/1202478</link>
       <guid>v2ex-1202478</guid>
@@ -61,66 +54,20 @@
 </description>
     </item>
     <item>
-      <title>axios@1.14.1 遭遇供应链投毒：针对开发者及 MCP 用户的高隐蔽性 0-day 攻击</title>
-      <link>https://www.v2ex.com/t/1202470</link>
-      <guid>v2ex-1202470</guid>
-      <pubDate>Tue, 31 Mar 2026 03:47:44 GMT</pubDate>
-      <description>&lt;h2&gt;这是 2026 年 3 月 31 日（不到 24 小时前） 爆发的全新 0day 供应链攻击，目前 npm 官方和主流安全社区尚未公开披露。&lt;/h2&gt;
-&lt;h3&gt;攻击核心&lt;/h3&gt;
-&lt;p&gt;通过 &lt;code&gt;npx&lt;/code&gt; 安装 latest 版本时，&lt;strong&gt;&lt;a href=&quot;mailto:axios@1.14&quot;&gt;axios@1.14&lt;/a&gt;.1&lt;/strong&gt; 被恶意投毒，偷偷引入了伪装成 &lt;code&gt;crypto-js&lt;/code&gt; 的恶意包 &lt;code&gt;plain-crypto-js@4.2.1&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;不仅普通开发者受影响&lt;/strong&gt;，大量使用 &lt;strong&gt;AI Coding CLI&lt;/strong&gt;（ Cursor 、Claude Code 、Windsurf 、Codex 等）调用 &lt;code&gt;open-websearch&lt;/code&gt;、&lt;code&gt;exa-mcp-server&lt;/code&gt; 等 MCP 工具的用户也极易中招，因为它们的 npx 缓存同样被污染。&lt;/p&gt;
-&lt;h3&gt;攻击手法（三平台全覆盖）&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;C2 服务器&lt;/strong&gt;：&lt;code&gt;&lt;a href=&quot;http://sfrclak.com:8000/6202033&quot; rel=&quot;nofollow&quot;&gt;http://sfrclak.com:8000/6202033&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Windows&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;复制 &lt;code&gt;powershell.exe&lt;/code&gt; 到 &lt;code&gt;C:\ProgramData\wt.exe&lt;/code&gt;（伪装成 Windows Terminal ）&lt;/li&gt;
-&lt;li&gt;生成 VBS 脚本下载 payload ，隐藏执行 PowerShell （&lt;code&gt;-w hidden -ep bypass&lt;/code&gt;）&lt;/li&gt;
-&lt;li&gt;执行后自删除所有痕迹&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;macOS&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;下载后门二进制到 &lt;code&gt;/Library/Caches/com.apple.act.mond&lt;/code&gt;（伪装系统进程）&lt;/li&gt;
-&lt;li&gt;赋予权限后后台运行 + 连回 C2&lt;/li&gt;
-&lt;li&gt;通过 &lt;code&gt;osascript&lt;/code&gt; 执行并擦除痕迹&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Linux&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;下载 Python 后门到 &lt;code&gt;/tmp/&lt;a href=&quot;http://ld.py&quot; rel=&quot;nofollow&quot;&gt;ld.py&lt;/a&gt;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;nohup&lt;/code&gt; 后台常驻&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;最阴险的是毁尸灭迹&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;删除自身的 &lt;code&gt;setup.js&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;把 &lt;code&gt;&lt;a href=&quot;http://package.md&quot; rel=&quot;nofollow&quot;&gt;package.md&lt;/a&gt;&lt;/code&gt; 重命名为 &lt;code&gt;package.json&lt;/code&gt;，彻底覆盖原始 &lt;code&gt;postinstall&lt;/code&gt; 字段&lt;/li&gt;
-&lt;li&gt;事后查看 &lt;code&gt;package.json&lt;/code&gt; 和 &lt;code&gt;npm list&lt;/code&gt; 几乎看不出任何异常&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;快速自查命令（强烈建议立刻执行）&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# 检查可疑 axios 版本
-npm list axios 2&amp;gt;/dev/null | grep -E &quot;1\.14\.1|0\.30\.4&quot;
-
-# 检查 lock 文件
-grep -A1 &#39;&quot;axios&quot;&#39; package-lock.json | grep -E &quot;1\.14\.1|0\.30\.4&quot;
-
-# 检查恶意依赖
-ls node_modules/plain-crypto-js 2&amp;gt;/dev/null &amp;amp;&amp;amp; echo &quot;⚠️ 可能已中招！&quot;
-
-# 检查 RAT 残留痕迹
-# macOS
-ls -la /Library/Caches/com.apple.act.mond 2&amp;gt;/dev/null &amp;amp;&amp;amp; echo &quot;⚠️ COMPROMISED&quot;
-
-# Linux
-ls -la /tmp/ld.py 2&amp;gt;/dev/null &amp;amp;&amp;amp; echo &quot;⚠️ COMPROMISED&quot;
-
-# Windows (cmd)
-dir &quot;%PROGRAMDATA%\wt.exe&quot; 2&amp;gt;nul &amp;amp;&amp;amp; echo COMPROMISED&lt;/code&gt;&lt;/pre&gt;
+      <title>所以今天凌晨的 Apple intelligence，是草台班子具像化吗。。</title>
+      <link>https://www.v2ex.com/t/1202424</link>
+      <guid>v2ex-1202424</guid>
+      <pubDate>Tue, 31 Mar 2026 02:10:05 GMT</pubDate>
+      <description>&lt;p&gt;因为我醒晚了，手机晚上也没有插着电充电，所以我没有收到推送，好气（虽然我知道没啥用，但是我没有就会很不爽系列）。。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>阿里云的 Coding Plan 现在是不是根本不放货了</title>
+      <link>https://www.v2ex.com/t/1202410</link>
+      <guid>v2ex-1202410</guid>
+      <pubDate>Tue, 31 Mar 2026 01:46:40 GMT</pubDate>
+      <description>&lt;p&gt;说是 9:30 补货，9:30:00 刷新页面还是售罄，有抢到的兄弟吗？要真不补货干脆别在页面标什么每天 9:30 补货了，浪费感情&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/89c49D0h.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
