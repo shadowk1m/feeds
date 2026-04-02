@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 02 Apr 2026 04:03:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 05:54:19 GMT</lastBuildDate>
     <item>
       <title>大模型中转站， Unity2.Ai 内测招募：直达源头，拒绝“掺水”！</title>
       <link>https://www.v2ex.com/t/1202897</link>
@@ -96,13 +96,6 @@
 </description>
     </item>
     <item>
-      <title>[求助] 公司给了 $90 刀 Claude 额度，但在境内用 cc-switch 和 env 都救不活 Claude Code</title>
-      <link>https://www.v2ex.com/t/1202778</link>
-      <guid>v2ex-1202778</guid>
-      <pubDate>Wed, 01 Apr 2026 05:08:37 GMT</pubDate>
-      <description>账单（里面有钱）&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/sdrHueR.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/sdrHueR.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt; cc-switch 配置&lt;br /&gt;  &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/NxXqMcX.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/NxXqMcX.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;各种改 cc-switch 配置 配置，就是连不上&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/XVpwTV7.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/XVpwTV7.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; ==============================================================================&lt;br /&gt; &lt;br /&gt; 背景：&lt;br /&gt;公司提供的 Anthropic 组织账号，里面充了 $90 多刀 Credits （如图）。人在大陆开发，想把 Claude Code (CLI) 跑起来。&lt;br /&gt;&lt;br /&gt;尝试过的操作：&lt;br /&gt;&lt;br /&gt;使用 cc-switch 切换配置。&lt;br /&gt;&lt;br /&gt;通过 env 注入 ANTHROPIC_BASE_URL &lt;br /&gt;&lt;br /&gt;终端已配置 HTTPS_PROXY 。&lt;br /&gt;&lt;br /&gt;目前的坑：&lt;br /&gt;依然连不上。怀疑是 Claude Code 的 CLI 工具在底层忽略了系统代理，或者是对 Base URL 的注入格式有特殊要求（比如证书校验强行匹配官方域名）。&lt;br /&gt;&lt;br /&gt;想请教各位老哥：&lt;br /&gt;在境内环境，除了肉身出海或全程透明网关，有没有人成功通过 修改参数/环境变量 让 Claude Code 丝滑走通？</description>
-    </item>
-    <item>
       <title>codex 站起来蹬吗？</title>
       <link>https://www.v2ex.com/t/1202878</link>
       <guid>v2ex-1202878</guid>
@@ -111,11 +104,12 @@
 </description>
     </item>
     <item>
-      <title>分享一下各位 Claude Code 愚人节彩蛋 /buddy 抽到的赛博小伙伴呗？</title>
-      <link>https://www.v2ex.com/t/1202767</link>
-      <guid>v2ex-1202767</guid>
-      <pubDate>Wed, 01 Apr 2026 04:06:02 GMT</pubDate>
-      <description>我抽到了一个罕见 概率 25%，有没有老哥抽到 Legendary 和 Shiny 啊？&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/znt043l6.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 znt043l6.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/znt043l6.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
+      <title>13pm 现在 18.6.2 有必要更新到 26.4 吗,有经验的兄弟说说</title>
+      <link>https://www.v2ex.com/t/1202994</link>
+      <guid>v2ex-1202994</guid>
+      <pubDate>Thu, 02 Apr 2026 01:18:22 GMT</pubDate>
+      <description>&lt;p&gt;如题,&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>快三年了，发现好像没签劳动合同，现在被裁准备仲裁咋办？</title>
@@ -123,6 +117,14 @@
       <guid>v2ex-1202864</guid>
       <pubDate>Wed, 01 Apr 2026 08:43:24 GMT</pubDate>
       <description>&lt;p&gt;这个月刚通知我，如果不同意他们的条件，那么公司要强制裁我了。但是目前我找了一圈，什么 e 签宝，邮箱发现都没有我的电子合同，好像当初就没签合同，即使仲裁没合同好像也不行，现在是不知道咋办了，v 友们给点建议把。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>感觉 ai agent 时代， windows 越来越不行了</title>
+      <link>https://www.v2ex.com/t/1203016</link>
+      <guid>v2ex-1203016</guid>
+      <pubDate>Thu, 02 Apr 2026 02:00:50 GMT</pubDate>
+      <description>&lt;p&gt;agent 在 cmd 环境下，运行时候，会出现各种兼容性的报错。每次执行，都需要烧掉额外的 token 来修复兼容性问题。大家是怎么跑的？虚拟机里面执行吗？是 vmware 还是 wsl ？&lt;/p&gt;
 </description>
     </item>
   </channel>
