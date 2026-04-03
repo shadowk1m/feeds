@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 03 Apr 2026 01:28:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 04:09:22 GMT</lastBuildDate>
     <item>
       <title>不到两个月就要离开北京了，聊聊我的故事，以及为什么…</title>
       <link>https://www.v2ex.com/t/1203134</link>
@@ -73,21 +73,6 @@
 </description>
     </item>
     <item>
-      <title>感觉 ai agent 时代， windows 越来越不行了</title>
-      <link>https://www.v2ex.com/t/1203016</link>
-      <guid>v2ex-1203016</guid>
-      <pubDate>Thu, 02 Apr 2026 02:00:50 GMT</pubDate>
-      <description>&lt;p&gt;agent 在 cmd 环境下，运行时候，会出现各种兼容性的报错。每次执行，都需要烧掉额外的 token 来修复兼容性问题。大家是怎么跑的？虚拟机里面执行吗？是 vmware 还是 wsl ？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>亲测中转确实坑。。说好的江湖呢？</title>
-      <link>https://www.v2ex.com/t/1203033</link>
-      <guid>v2ex-1203033</guid>
-      <pubDate>Thu, 02 Apr 2026 02:25:58 GMT</pubDate>
-      <description>自己做为互联网老菜鸟，以前做灰产也是盗亦有道啊。。。&lt;br /&gt;最近写代码，想着自己折腾累，干脆买中转吧，别人该赚这个钱。找了两家号称源头卡商，在 V2 天天吹自己是源头的。越用越不对劲。只能自己折腾自己搭一个反代用&lt;br /&gt;做一个对比。同样的项目、同样的环境。我自己建的 new-api&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/mRivVTc.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/mRivVTc.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;也就是抛开掺假不惨假（我真的很善意的认为 GPT5.4 没必要掺假。）。。扣费先翻倍。然后速度还奇慢，动不动跑个代码 20 分钟过去。。&lt;br /&gt;&lt;br /&gt;另外某家说自己买 PLUS ，源头号商，一个 50 块。结果充值链接跟别人卖 15 的是一家。。&lt;br /&gt;兄弟们，盗亦有道啊。</description>
-    </item>
-    <item>
       <title>很苦恼,对已婚有娃的同学可能有些喜欢怎么办</title>
       <link>https://www.v2ex.com/t/1203165</link>
       <guid>v2ex-1203165</guid>
@@ -100,14 +85,27 @@
 </description>
     </item>
     <item>
-      <title>怀念那个美好的时代</title>
-      <link>https://www.v2ex.com/t/1203053</link>
-      <guid>v2ex-1203053</guid>
-      <pubDate>Thu, 02 Apr 2026 03:28:09 GMT</pubDate>
-      <description>&lt;p&gt;昨天在 B 站偶然看到一个古法编程的外国小哥直播，在 Vim 里健步如飞。
-曾几何时自己也是那样的选手，折腾 Vim ，把 Vim 打造成自己专属的编辑器。编程时可以完全不碰鼠标。&lt;/p&gt;
-&lt;p&gt;但我怀念不仅仅是这个。以前敲代码是逻辑游戏，还记得之前挑战 MIT6.824 和 CMU15-445.逻辑必须做到严丝合缝，才能通过每一个测试。需要无数次推演代码的逻辑，各种并发、异步、边界的情况。当程序真正通过测试，那种愉悦感真是难以形容。&lt;/p&gt;
-&lt;p&gt;当然我也只是怀念而已，我知道那个时代再也回不去了。&lt;/p&gt;
+      <title>尴尬了，可能招聘了一个不会手写代码的 AI 工程师</title>
+      <link>https://www.v2ex.com/t/1203210</link>
+      <guid>v2ex-1203210</guid>
+      <pubDate>Thu, 02 Apr 2026 16:25:09 GMT</pubDate>
+      <description>&lt;p&gt;公司要求尽量招 985/211 ，这个还真是，是线上面试的，问的技术问题答的挺好的。&lt;/p&gt;
+&lt;p&gt;工作经验 6 年，没安排笔试就让本周入职，几个小事让人有点蒙。&lt;/p&gt;
+&lt;p&gt;1 ，API Key 为什么无效？
+实际上他复制粘贴的 AI 写的代码，压根没填公司提供的 API KEY.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;让同事教他用 ES ，同事发一段代码给他，他看不懂。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;写项目就是打开一个中转的 GPT 网页，从早到晚在那对话，复制粘贴。公司给他开的 Cursor 账号 3 天用了 0.02 刀，问他用了公司给他开的 Cursor 吗，回答用了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不知道怎么调试程序，不知道自己的代码存在哪，要把代码复制到桌面。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我觉得他离开那个 AI 应该是什么代码都写不了，明天咋搞？&lt;/p&gt;
+&lt;p&gt;职业生涯的污点了，马失前蹄。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -119,42 +117,143 @@
 </description>
     </item>
     <item>
-      <title>避雷 小米 Type-C 充电器快充版 20W 白色</title>
-      <link>https://www.v2ex.com/t/1203019</link>
-      <guid>v2ex-1203019</guid>
-      <pubDate>Thu, 02 Apr 2026 02:03:51 GMT</pubDate>
-      <description>&lt;p&gt;官网商品页面： &lt;a href=&quot;https://www.mi.com/shop/buy/detail?product_id=12896&quot; rel=&quot;nofollow&quot;&gt;https://www.mi.com/shop/buy/detail?product_id=12896&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;先叠个甲，如果你只是用来给手机/平板充电那么是没问题的，也不需要避雷，可以关掉帖子了。&lt;/p&gt;
-&lt;p&gt;下面描述下我遇到的问题，这款充电器我买很久了，29 块确实便宜，一开始我也一直用来充手机，没什么问题。&lt;/p&gt;
-&lt;p&gt;然后我有一款 GL.iNet 家的路由器放在公司，之前一直用的 Apple 原装充电器，好像是 iPhone 13 pro 送的，18W 的，过年的时候把路由器带回家了，然后回来的时候估计是不小心把插头弄混了，就把小米的给路由器插上了。&lt;/p&gt;
-&lt;p&gt;然后，好巧不巧，我想折腾一下，给路由器升级了个系统，最终导致了我长达一个多月的折腾。&lt;/p&gt;
-&lt;p&gt;系统升级之后，路由器突然变得不稳定了，最长一天，最短几个小时就突然重启，我一直以为是自己的问题或者是路由器系统的问题，然后就过几天重新刷一次系统，各种版本都试了，什么 SNAPSHOT, openwrt 24 ，稳定版，不稳定版，还有年前用的版本，就是不行。明明路由器负载又不高，内存也没有 OOM ，日志也带着 AI 分析了，就是不知道为啥。&lt;/p&gt;
-&lt;p&gt;后来，就给客服发了个邮件，客服回复是&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;您好，&lt;/p&gt;
-&lt;p&gt;感谢联系 GL-iNet ，对于设备给您带来的不便，我们深表歉意。&lt;/p&gt;
-&lt;p&gt;为了帮助您快速解决问题，烦请确认以下步骤：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1. 请使用路由器原装适配器供电。
-2. 请确认未在“系统”→“计划任务”中设置定时重启。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;如果上述步骤未能解决问题，请在问题发生后导出路由器日志供我们排查。
-您可以通过进入路由器管理界面→ “系统” → “日志”，然后点击右上角的“导出”按钮进行操作。&lt;/p&gt;
-&lt;p&gt;感谢您的耐心与理解。
-祝您生活愉快！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我这时候猛然意识到，我的适配器似乎换过，就换了回来。果然，不出所料，恢复了以往的稳定。&lt;/p&gt;
-&lt;p&gt;我是真的没有想到也是第一次遇到适配器会有这种神奇的问题，只能说真是一分钱一分货。&lt;/p&gt;
-&lt;p&gt;我想很多人可能像我一样，适配器基本只看功率和快充，从没怀疑过稳定性，也不仅仅用适配器充手机平板，所以分享出来给大家避坑吧。&lt;/p&gt;
+      <title>各位有没有靠谱的方法可以给团队提供 AI 编程服务的？</title>
+      <link>https://www.v2ex.com/t/1203227</link>
+      <guid>v2ex-1203227</guid>
+      <pubDate>Fri, 03 Apr 2026 00:28:36 GMT</pubDate>
+      <description>&lt;p&gt;首先排除中转！首先排除中转！首先排除中转！首先排除中转！&lt;/p&gt;
+&lt;p&gt;之前用某个号称 V 站大火的中转（最近开了个马甲站又在卖力宣传了），不仅自己用，还介绍给公司用，充了几笔钱后，结果白天工作日服务基本不可用，动不动就报错、断流，完全没法正常工作&lt;/p&gt;
+&lt;p&gt;别问，一问就是：“没一家中转能给你保证 SLA”，一说就是“我们要和客户建立信任”，倍率从 vip 一路开到 ssssvip ，一开，服务状态数据也是一路从绿变黄到红，客户微信群这一周都没几条信息了，请问这家是真不知道为什么吗？&lt;/p&gt;
+&lt;p&gt;服务没保障，模型不透明，给中转充钱真是充的一肚子气&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;牢骚话不多说了，目前是这样：&lt;/p&gt;
+&lt;p&gt;公司在 aws 上自建了一个 sub2api 做中转，用国外的 PayPal （绑定的国内信用卡），买了一批官方的 gptbusiness 开的席位，丢进号池里，结果才蹬了 1 天，这批号全封了，本来打算行得通就再开一批 cc max 的号也丢进号池的，现在也不敢开了&lt;/p&gt;
+&lt;p&gt;各位有什么想法不？或者能长期提供 codex team 、plus 号的，也可以联系我&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>请问已经有汇丰 one，如何申请卓越或 pulse？</title>
-      <link>https://www.v2ex.com/t/1203049</link>
-      <guid>v2ex-1203049</guid>
-      <pubDate>Thu, 02 Apr 2026 03:19:02 GMT</pubDate>
-      <description>&lt;p&gt;请问已经有汇丰 one ，如何申请卓越或 pulse ？&lt;/p&gt;
-&lt;p&gt;目前港股有几十 w 的闲置资金，想借此开通一下信用卡，方便后续国内消费。&lt;/p&gt;
-&lt;p&gt;请教大佬们，该怎么操作？&lt;/p&gt;
+      <title>如果一天只能睡 5 个钟左右，怎么保证精力和身体健康</title>
+      <link>https://www.v2ex.com/t/1203236</link>
+      <guid>v2ex-1203236</guid>
+      <pubDate>Fri, 03 Apr 2026 01:13:41 GMT</pubDate>
+      <description>&lt;p&gt;如果是不得已的情况   &lt;/p&gt;
+&lt;p&gt;一天只能睡 5 个钟左右，怎么保证精力和身体健康，还有防猝死 &lt;/p&gt;
+&lt;p&gt;有没大佬有相关经验/邪修也行&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[寻中转站合作/个人盖楼送 10 刀] Codex 最低 0.08 元/刀（需量大）， Team 号池，每日可提供 100B token</title>
+      <link>https://www.v2ex.com/t/1203186</link>
+      <guid>v2ex-1203186</guid>
+      <pubDate>Thu, 02 Apr 2026 14:03:49 GMT</pubDate>
+      <description>&lt;p&gt;奥特曼出杀手锏，FREE 号没得用、免费试用搞不上。&lt;/p&gt;
+&lt;p&gt;好多中转站又又又 Game Over 了。&lt;/p&gt;
+&lt;p&gt;本站这几天上号上冒烟，现有富余额度可对外提供支持，大约每日可提供 100B token ，欢迎站长前来洽谈。&lt;/p&gt;
+&lt;p&gt;站点地址（仅支持 Github 登录）： &lt;a href=&quot;http://api.autocode.space&quot; rel=&quot;nofollow&quot;&gt;http://api.autocode.space&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;价格表（充值比例 1:1 ）&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;阶梯&lt;/th&gt;
+&lt;th&gt;价格&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;lt;单日 1w&lt;/td&gt;
+&lt;td&gt;0.18 元/刀(每日价格会轻微上下浮动)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;lt;单日 10w 刀&lt;/td&gt;
+&lt;td&gt;0.15 元/刀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt;单日 10w 刀&lt;/td&gt;
+&lt;td&gt;协议报价&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;想要了解开站、合作建站、找兜底线路的佬可以进群找群主聊一下（上次发帖后大概有 10 位朋友已经接入我站进行分发）&lt;/p&gt;
+&lt;h3&gt;C 端价格&lt;/h3&gt;
+&lt;p&gt;本站不卷了，价格都是稳定线路的价格。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;线路&lt;/th&gt;
+&lt;th&gt;价格&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;试用线路&lt;/td&gt;
+&lt;td&gt;0.2 元/刀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Kiro 逆向&lt;/td&gt;
+&lt;td&gt;0.4 元/刀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Codex Team 号池&lt;/td&gt;
+&lt;td&gt;0.4 元/刀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;反重力&lt;/td&gt;
+&lt;td&gt;0.8 元/刀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CCMAX&lt;/td&gt;
+&lt;td&gt;2.2 元/刀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CCMAX 主备双线路&lt;/td&gt;
+&lt;td&gt;3 元/刀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;企业专用 aws 单线路&lt;/td&gt;
+&lt;td&gt;2.8 元/刀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;企业专用 aws 主备双线路&lt;/td&gt;
+&lt;td&gt;6 元/刀&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;联系方式&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TG&lt;/th&gt;
+&lt;th&gt;微信&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;https://t.me/+WpdHEOGotVY2NThh&quot; rel=&quot;nofollow&quot;&gt;https://t.me/+WpdHEOGotVY2NThh&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt=&quot;qr&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.baidu.com/search/down?url=https://tva1.sinaimg.cn/large/9a9ead2fgy1ibssccwa5aj20mq0nijv1.jpg&quot;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;hr/&gt;
+&lt;p&gt;🎉🎉🎉 还是老规矩了，本帖 &lt;strong&gt;24 小时&lt;/strong&gt; 内盖楼送 &lt;strong&gt;24 小时 10 刀 VIP 线路免费蹬套餐&lt;/strong&gt; ，直接加到账号上，可以免费使用 ChatGPT Codex 、Claude 20 刀额度。&lt;/p&gt;
+&lt;h3&gt;标准姿势&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Github 注册 -&amp;gt; 获取用户 ID -&amp;gt; V 站留言 -&amp;gt; 进群 push 群主加套餐&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;⚠️⚠️⚠️充值前一定要试用！！！！不要野性充值再找我退款，这很麻烦！要试用找群主！！！！⚠️⚠️⚠️&lt;/h4&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.baidu.com/search/down?url=https://tva1.sinaimg.cn/large/9a9ead2fgy1ibert8tpqsj21wm0ksjtr.jpg&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[非情感] 在鱼上购买的 codex 团队空间，因售后争吵，你们支持谁？</title>
+      <link>https://www.v2ex.com/t/1203083</link>
+      <guid>v2ex-1203083</guid>
+      <pubDate>Thu, 02 Apr 2026 05:56:38 GMT</pubDate>
+      <description>本周一购买的，今天周四早上又不能用了，实际使用不到 3 天（争论时随便估了个 5 天，刚整理图片才发现不到 3 天）。&lt;br /&gt;&lt;br /&gt;支持谁，就回复 A/a 或 B/b 就行。（可以跟上看法）&lt;br /&gt;本身钱不多，输赢都没事。&lt;br /&gt;&lt;br /&gt;A. 商家。 &lt;br /&gt;B. 用户。&lt;br /&gt;&lt;br /&gt;下面是图片：&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;1.图片 1    &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/34nh0Mk.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/34nh0Mk.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;2.图片 2    &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/tTDxa14.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/tTDxa14.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;3.图片 3    &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/hDEwEjt.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/hDEwEjt.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;4.图片 4    &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/w4qDBJi.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/w4qDBJi.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;5.图片 5    &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/MvMykNx.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/MvMykNx.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>老哥们，怎么才能放下啊</title>
+      <link>https://www.v2ex.com/t/1203266</link>
+      <guid>v2ex-1203266</guid>
+      <pubDate>Fri, 03 Apr 2026 02:30:52 GMT</pubDate>
+      <description>&lt;p&gt;我以为她和别人不一样呢，以为网上的段子都是别人的。&lt;/p&gt;
+&lt;p&gt;我们俩是大学确认的关系，毕业后，她家是西安的，她留在了西安，而我因为工作原因来到了成都找工作，中间一直异地。&lt;/p&gt;
+&lt;p&gt;周末的时候偶然听到她和闺蜜开玩笑，说是在介绍一个帅哥里，都是那种朋友开玩笑的语气的嘛，她兴致勃勃的答应了，然后我就带着拿捏的态度去质问她，因为她自从过年后对我态度一直都很冷谈，都是我在找她聊天，她都是被动性的回复，就已经感觉不太对了，开始以为是找工作太久了，有点压力和抑郁，但是看到她和闺蜜聊天就是兴高采烈，手舞足蹈的，我就有点不开心了哇。没想到这就是个导火索，然后就一直没说话，直到第二天下午，我主动给他发消息，希望晚上能聊聊，我一个男的，先低头又不会少块肉，没想到等来的是她的分手。从现在开始到微信最后一条消息，中间过去了 3 天，我们没有大吵大闹，就是谈为什么，我们什么话都说了，道理也讲说了，明白不可能一直爱下去，新鲜期过了就是平淡如水；人生的规划也讲了，后面房子买多大的，彩礼给多少；也说了，你规划的很好，只是不想在和你一起走下去了，要解决的问题太多了；挽留的话也说了，即使这次过去了，后面也还是会因为这些事情吵架的；哭也都哭了，眼泪鼻涕一把一把的，最后回了一趟西安，见了最后一面，也算是稍微正式一些，也对得起这些年的感情，太快了，我真的没想到事情会发展成这样，我也不知道事情怎么就发展成这样了呢。&lt;/p&gt;
+&lt;p&gt;观念不合就是从去年的谈婚论嫁开始的，最开始，她是想要房子，我是想能不能在我们县城买个房子，可以不用还月供，我们生活的也轻松些。在到后面是有一次吵架因为异地，问我什么时候回西安发展，但是当时只觉得回西安挣不到钱，连月供都还不起，就有些不太想回西安，现在回想起来，这确实好过分的想法。她也不愿意来成都打工，即使说是一起打工，攒点钱然后回去即使失业了，我们月供也能撑一段时间，她没有同意，当时的说辞是不想离开家，我想也是，哪有父母会让女儿和一个毛头小伙子去另一个城市呢，所以我加快了脚步， 去年国庆去见了她的父母之后。之后感觉一切都在往好的方向发展，也一起规划了人生的计划，我今年在搞一年，明年就回这个西安，然后今年中秋或者端午带她去年父母，过年回家，明年上半年订婚，下半年结婚，彩礼，五金，房子交首付，然后我们还月供，我以为，我以为一切都在想着好的方向发展，之所以过年没带回去，是因为想着着她失业了，一直在找工作，她本身有点胆怯，有点怂怂的，我是想着是她找到工作了，然后有底气了，就没那么怂怂了，可能这个在在父母那边也是个不好的信号吧。&lt;/p&gt;
+&lt;p&gt;打工这么久了，我也没有房，没有车，也没存到钱，还一直异地，对她来说真的很不容易，可是我之前真的以为她能理解呢，但是她的朋友结婚的结婚，买车的买车，买房的买房，包括她亲戚家里女儿的彩礼也要了 15w 左右，想着对她影响应该也挺大的吧，我又不是不买房子，不给彩礼，都给呢嘛，怎么就发展成这样了呢，这次吵架，她说我优柔寡断，磨磨唧唧的，可是我就是这么个人啊。说我老是找她哭诉，一点都不像个男人。说我们不对等，她没有什么付出，感觉我对她都是施舍，到时候结婚肯定也没有好的结果，说我幼稚，都是自己的想法。这么久了，也许也就是真的没有爱与不爱了，也没有谁对的，谁是错的，就是现实的异地，房子，票子。谈婚论嫁，我们没有谈过去罢了，我知道应该放手，哪怕她后面过的好还是不好呢，我能接受我们的分开，可是我就是有点舍不得，真的舍不得，哪里都是回忆，相机里都是出去玩的照片，微信里也全是她的表情包，各个软件都是用的彼此的账号，好难受啊，微信收藏里有个 19 年收藏的语音，“我脑子不够用嘛”，她就是脑子不够用，她就是没脑子。她现在还没找到工作，存款都花完了，她 5 月份过生日，我还想着在 51 的假期，我回去，顺便把生日一起过了呢，我还想着今年求婚呢，她还想去哈尔滨，想着今天冬天一起去呢。现在还是想哭，但是哭不出来眼泪了。我刚来成都那会，都没有感觉自己一个人，哪有什么怕不怕的，过来才找的工作，可是我现在真的有些孤单了，我好像又剩下一个人了，我不知道还要干啥了&lt;/p&gt;
 </description>
     </item>
   </channel>
