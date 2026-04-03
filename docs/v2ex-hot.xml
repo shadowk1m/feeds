@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 03 Apr 2026 15:32:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 16:28:02 GMT</lastBuildDate>
     <item>
       <title>老哥们，怎么才能放下啊</title>
       <link>https://www.v2ex.com/t/1203266</link>
@@ -30,30 +30,6 @@
 &lt;p&gt;牢骚话不多说了，目前是这样：&lt;/p&gt;
 &lt;p&gt;公司在 aws 上自建了一个 sub2api 做中转，用国外的 PayPal （绑定的国内信用卡），买了一批官方的 gptbusiness 开的席位，丢进号池里，结果才蹬了 1 天，这批号全封了，本来打算行得通就再开一批 cc max 的号也丢进号池的，现在也不敢开了&lt;/p&gt;
 &lt;p&gt;各位有什么想法不？或者能长期提供 codex team 、plus 号的，也可以联系我&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>尴尬了，可能招聘了一个不会手写代码的 AI 工程师</title>
-      <link>https://www.v2ex.com/t/1203210</link>
-      <guid>v2ex-1203210</guid>
-      <pubDate>Thu, 02 Apr 2026 16:25:09 GMT</pubDate>
-      <description>&lt;p&gt;公司要求尽量招 985/211 ，这个还真是，是线上面试的，问的技术问题答的挺好的。&lt;/p&gt;
-&lt;p&gt;工作经验 6 年，没安排笔试就让本周入职，几个小事让人有点蒙。&lt;/p&gt;
-&lt;p&gt;1 ，API Key 为什么无效？
-实际上他复制粘贴的 AI 写的代码，压根没填公司提供的 API KEY.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;让同事教他用 ES ，同事发一段代码给他，他看不懂。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;写项目就是打开一个中转的 GPT 网页，从早到晚在那对话，复制粘贴。公司给他开的 Cursor 账号 3 天用了 0.02 刀，问他用了公司给他开的 Cursor 吗，回答用了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;不知道怎么调试程序，不知道自己的代码存在哪，要把代码复制到桌面。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我觉得他离开那个 AI 应该是什么代码都写不了，明天咋搞？&lt;/p&gt;
-&lt;p&gt;职业生涯的污点了，马失前蹄。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -124,6 +100,13 @@
       <description>家里有一台 2018 年的拯救者，配置是 intel 8750h + 16G + 512 SSD + GTX 1060 ，操作系统是 Win11 ，在几次更新后，现在卡的已经彻底没法用了，开机 5 分钟点不开开始菜单，风扇不停的狂转，浏览网页都不太行。装回 Win10 感觉会好一些？还是装个 Linux 瞎折腾折腾呢？</description>
     </item>
     <item>
+      <title>昆山花桥 中小公司 12k 求招 Java 方向全栈</title>
+      <link>https://www.v2ex.com/t/1203301</link>
+      <guid>v2ex-1203301</guid>
+      <pubDate>Fri, 03 Apr 2026 03:57:29 GMT</pubDate>
+      <description>坐标花桥，算上海周边，工资肯定比不上北上广这种大城市，求轻喷&lt;br /&gt;&lt;br /&gt;基本情况：&lt;br /&gt;1. 公司目前不到 400 人，21 年成立，盈利情况持续增长、现金流充足，25 年纯利润 2 千多万&lt;br /&gt;2. 劳务行业 saas 服务产品，目前利润大头是 saas 的保险模块&lt;br /&gt;3. 产研团队 20 人，人事团队十多人&lt;br /&gt;4. 花桥这里独门独户有厨卫的单间大概在 1600 一个月左右&lt;br /&gt;&lt;br /&gt;福利待遇：&lt;br /&gt;1. 公司旅游团建多，有生日会等，节假日都提前放假，春节基本休了半个月的假期，25 年年会全体坐飞机去三亚开的&lt;br /&gt;&lt;br /&gt;2. 公司有社团文化，参与社团活动有积分可以兑换礼品，有读书社、公益社、健身社、美妆社、跳操社、电竞社等，不定期举办活动。&lt;br /&gt;如 4.23 工作日下午我们会举办半天的 5h 读书挑战，电竞社搞过 金铲铲、王者、三角洲甚至斗地主等娱乐比赛活动，健身社是公司有健身房健身打卡得积分，跳操社的话每周一三五公司都会请外部老师带我们跳操&lt;br /&gt;&lt;br /&gt;3. 公司层级少相对平等，老板对 AI 等技术领域感兴趣支持但是不瞎指挥，老板一直重复一句话 在 xx 能学习到东西最重要，所以 25 年公司也花了两百多万搞了一个大学每周都请外部老师过来讲课&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;存在问题：&lt;br /&gt;1. 大小周、大小周、大小周，但是周六一般不做工作安排，意思工作忙忙工作，不忙可以一起玩，比如上周六上班我们部门就是在打掼蛋。&lt;br /&gt;2. 社保、公积金等，最低基数&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;招聘要求：&lt;br /&gt;1. 能玩到一起，希望你是个热爱生活的人&lt;br /&gt;2. vibe coding 能达到日常工作的 80%（公司包 token ）&lt;br /&gt;3. java 为主编程语言，三年及以上经验&lt;br /&gt;&lt;br /&gt;最后，我算是 99 年的产研部门负责人，我还是很喜欢一句话 “和有趣的人一起做有趣的事”，希望有趣的你能够加入我们&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/6X4AgOER.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 6X4AgOER.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/6X4AgOER.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/m1830Dlm.webp&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 m1830Dlm.webp&quot;&gt;&lt;img src=&quot;//i.v2ex.co/m1830Dlm.webp&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>Gemma 4 可以通过洗车测试</title>
       <link>https://www.v2ex.com/t/1203234</link>
       <guid>v2ex-1203234</guid>
@@ -131,11 +114,11 @@
       <description>&lt;a target=&quot;_blank&quot; href=&quot;/i/8aAsq30c.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 8aAsq30c.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/8aAsq30c.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;而且思考时间很短。</description>
     </item>
     <item>
-      <title>昆山花桥 中小公司 12k 求招 Java 方向全栈</title>
-      <link>https://www.v2ex.com/t/1203301</link>
-      <guid>v2ex-1203301</guid>
-      <pubDate>Fri, 03 Apr 2026 03:57:29 GMT</pubDate>
-      <description>坐标花桥，算上海周边，工资肯定比不上北上广这种大城市，求轻喷&lt;br /&gt;&lt;br /&gt;基本情况：&lt;br /&gt;1. 公司目前不到 400 人，21 年成立，盈利情况持续增长、现金流充足，25 年纯利润 2 千多万&lt;br /&gt;2. 劳务行业 saas 服务产品，目前利润大头是 saas 的保险模块&lt;br /&gt;3. 产研团队 20 人，人事团队十多人&lt;br /&gt;4. 花桥这里独门独户有厨卫的单间大概在 1600 一个月左右&lt;br /&gt;&lt;br /&gt;福利待遇：&lt;br /&gt;1. 公司旅游团建多，有生日会等，节假日都提前放假，春节基本休了半个月的假期，25 年年会全体坐飞机去三亚开的&lt;br /&gt;&lt;br /&gt;2. 公司有社团文化，参与社团活动有积分可以兑换礼品，有读书社、公益社、健身社、美妆社、跳操社、电竞社等，不定期举办活动。&lt;br /&gt;如 4.23 工作日下午我们会举办半天的 5h 读书挑战，电竞社搞过 金铲铲、王者、三角洲甚至斗地主等娱乐比赛活动，健身社是公司有健身房健身打卡得积分，跳操社的话每周一三五公司都会请外部老师带我们跳操&lt;br /&gt;&lt;br /&gt;3. 公司层级少相对平等，老板对 AI 等技术领域感兴趣支持但是不瞎指挥，老板一直重复一句话 在 xx 能学习到东西最重要，所以 25 年公司也花了两百多万搞了一个大学每周都请外部老师过来讲课&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;存在问题：&lt;br /&gt;1. 大小周、大小周、大小周，但是周六一般不做工作安排，意思工作忙忙工作，不忙可以一起玩，比如上周六上班我们部门就是在打掼蛋。&lt;br /&gt;2. 社保、公积金等，最低基数&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;招聘要求：&lt;br /&gt;1. 能玩到一起，希望你是个热爱生活的人&lt;br /&gt;2. vibe coding 能达到日常工作的 80%（公司包 token ）&lt;br /&gt;3. java 为主编程语言，三年及以上经验&lt;br /&gt;&lt;br /&gt;最后，我算是 99 年的产研部门负责人，我还是很喜欢一句话 “和有趣的人一起做有趣的事”，希望有趣的你能够加入我们&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/6X4AgOER.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 6X4AgOER.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/6X4AgOER.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/m1830Dlm.webp&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 m1830Dlm.webp&quot;&gt;&lt;img src=&quot;//i.v2ex.co/m1830Dlm.webp&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
+      <title>5k 以内的扫地机器人推荐</title>
+      <link>https://www.v2ex.com/t/1203255</link>
+      <guid>v2ex-1203255</guid>
+      <pubDate>Fri, 03 Apr 2026 02:06:42 GMT</pubDate>
+      <description>需要有拖地功能，噪音越小越好</description>
     </item>
   </channel>
 </rss>
