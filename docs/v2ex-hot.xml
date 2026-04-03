@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 03 Apr 2026 10:33:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 11:29:57 GMT</lastBuildDate>
     <item>
       <title>老哥们，怎么才能放下啊</title>
       <link>https://www.v2ex.com/t/1203266</link>
@@ -18,15 +18,18 @@
 </description>
     </item>
     <item>
-      <title>很苦恼,对已婚有娃的同学可能有些喜欢怎么办</title>
-      <link>https://www.v2ex.com/t/1203165</link>
-      <guid>v2ex-1203165</guid>
-      <pubDate>Thu, 02 Apr 2026 11:18:39 GMT</pubDate>
-      <description>&lt;p&gt;以前的同学,现在双方都已婚有娃,但偶尔约出来会一起吃饭/看电影/玩电玩城,频率一月一次吧,因为以前很熟.&lt;/p&gt;
-&lt;p&gt;我看不懂她什么意思,感觉她段位很高,每当我有些越界举动时她也会躲,比如一起走的时候搭她的肩膀她就会走开,应该是排斥的吧.&lt;/p&gt;
-&lt;p&gt;我现在很苦恼,知道自己不该有这种奇怪的想法,自己也是有家庭的.&lt;/p&gt;
-&lt;p&gt;而且她的想法我也完全弄不清楚,或许她觉得这都是正常社交?&lt;/p&gt;
-&lt;p&gt;我需要忏悔&lt;/p&gt;
+      <title>各位有没有靠谱的方法可以给团队提供 AI 编程服务的？</title>
+      <link>https://www.v2ex.com/t/1203227</link>
+      <guid>v2ex-1203227</guid>
+      <pubDate>Fri, 03 Apr 2026 00:28:36 GMT</pubDate>
+      <description>&lt;p&gt;首先排除中转！首先排除中转！首先排除中转！首先排除中转！&lt;/p&gt;
+&lt;p&gt;之前用某个号称 V 站大火的中转（最近开了个马甲站又在卖力宣传了），不仅自己用，还介绍给公司用，充了几笔钱后，结果白天工作日服务基本不可用，动不动就报错、断流，完全没法正常工作&lt;/p&gt;
+&lt;p&gt;别问，一问就是：“没一家中转能给你保证 SLA”，一说就是“我们要和客户建立信任”，倍率从 vip 一路开到 ssssvip ，一开，服务状态数据也是一路从绿变黄到红，客户微信群这一周都没几条信息了，请问这家是真不知道为什么吗？&lt;/p&gt;
+&lt;p&gt;服务没保障，模型不透明，给中转充钱真是充的一肚子气&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;牢骚话不多说了，目前是这样：&lt;/p&gt;
+&lt;p&gt;公司在 aws 上自建了一个 sub2api 做中转，用国外的 PayPal （绑定的国内信用卡），买了一批官方的 gptbusiness 开的席位，丢进号池里，结果才蹬了 1 天，这批号全封了，本来打算行得通就再开一批 cc max 的号也丢进号池的，现在也不敢开了&lt;/p&gt;
+&lt;p&gt;各位有什么想法不？或者能长期提供 codex team 、plus 号的，也可以联系我&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -51,21 +54,6 @@
 &lt;/ol&gt;
 &lt;p&gt;我觉得他离开那个 AI 应该是什么代码都写不了，明天咋搞？&lt;/p&gt;
 &lt;p&gt;职业生涯的污点了，马失前蹄。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>各位有没有靠谱的方法可以给团队提供 AI 编程服务的？</title>
-      <link>https://www.v2ex.com/t/1203227</link>
-      <guid>v2ex-1203227</guid>
-      <pubDate>Fri, 03 Apr 2026 00:28:36 GMT</pubDate>
-      <description>&lt;p&gt;首先排除中转！首先排除中转！首先排除中转！首先排除中转！&lt;/p&gt;
-&lt;p&gt;之前用某个号称 V 站大火的中转（最近开了个马甲站又在卖力宣传了），不仅自己用，还介绍给公司用，充了几笔钱后，结果白天工作日服务基本不可用，动不动就报错、断流，完全没法正常工作&lt;/p&gt;
-&lt;p&gt;别问，一问就是：“没一家中转能给你保证 SLA”，一说就是“我们要和客户建立信任”，倍率从 vip 一路开到 ssssvip ，一开，服务状态数据也是一路从绿变黄到红，客户微信群这一周都没几条信息了，请问这家是真不知道为什么吗？&lt;/p&gt;
-&lt;p&gt;服务没保障，模型不透明，给中转充钱真是充的一肚子气&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;牢骚话不多说了，目前是这样：&lt;/p&gt;
-&lt;p&gt;公司在 aws 上自建了一个 sub2api 做中转，用国外的 PayPal （绑定的国内信用卡），买了一批官方的 gptbusiness 开的席位，丢进号池里，结果才蹬了 1 天，这批号全封了，本来打算行得通就再开一批 cc max 的号也丢进号池的，现在也不敢开了&lt;/p&gt;
-&lt;p&gt;各位有什么想法不？或者能长期提供 codex team 、plus 号的，也可以联系我&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -216,6 +204,13 @@
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/xYiaiG1.png&quot;/&gt;
 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/m8NSSin.png&quot;/&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>安卓手机硬件远超 iPhone 为啥系统还是没有 IOS 流畅</title>
+      <link>https://www.v2ex.com/t/1203272</link>
+      <guid>v2ex-1203272</guid>
+      <pubDate>Fri, 03 Apr 2026 02:37:21 GMT</pubDate>
+      <description>手上刚好有两个手机 MI12s：12g+256g iPhone12：4g+128g&lt;br /&gt;&lt;br /&gt;最近体验下来 安卓满电卡的一批 难道是安卓的通病 越用越卡 关键还是 120hz 刷新率 刚到手的新机器我记得很丝滑&lt;br /&gt;&lt;br /&gt;iPhone 这边 60hz 貌似一直以来都是这么稳定的表现&lt;br /&gt;&lt;br /&gt;可以看出来硬件上还是差距不小 但是实际最终体验确实反差不小 估计只能归功于 IOS 的系统调教了&lt;br /&gt;&lt;br /&gt;macos 我记得之前还有黑苹果，但是手机貌似从来都没有</description>
     </item>
     <item>
       <title>一台 2018 年的老拯救者现在卡的不行了，还有什么利用价值吗？</title>
