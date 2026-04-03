@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 03 Apr 2026 09:43:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 10:33:27 GMT</lastBuildDate>
     <item>
       <title>老哥们，怎么才能放下啊</title>
       <link>https://www.v2ex.com/t/1203266</link>
@@ -51,6 +51,21 @@
 &lt;/ol&gt;
 &lt;p&gt;我觉得他离开那个 AI 应该是什么代码都写不了，明天咋搞？&lt;/p&gt;
 &lt;p&gt;职业生涯的污点了，马失前蹄。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>各位有没有靠谱的方法可以给团队提供 AI 编程服务的？</title>
+      <link>https://www.v2ex.com/t/1203227</link>
+      <guid>v2ex-1203227</guid>
+      <pubDate>Fri, 03 Apr 2026 00:28:36 GMT</pubDate>
+      <description>&lt;p&gt;首先排除中转！首先排除中转！首先排除中转！首先排除中转！&lt;/p&gt;
+&lt;p&gt;之前用某个号称 V 站大火的中转（最近开了个马甲站又在卖力宣传了），不仅自己用，还介绍给公司用，充了几笔钱后，结果白天工作日服务基本不可用，动不动就报错、断流，完全没法正常工作&lt;/p&gt;
+&lt;p&gt;别问，一问就是：“没一家中转能给你保证 SLA”，一说就是“我们要和客户建立信任”，倍率从 vip 一路开到 ssssvip ，一开，服务状态数据也是一路从绿变黄到红，客户微信群这一周都没几条信息了，请问这家是真不知道为什么吗？&lt;/p&gt;
+&lt;p&gt;服务没保障，模型不透明，给中转充钱真是充的一肚子气&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;牢骚话不多说了，目前是这样：&lt;/p&gt;
+&lt;p&gt;公司在 aws 上自建了一个 sub2api 做中转，用国外的 PayPal （绑定的国内信用卡），买了一批官方的 gptbusiness 开的席位，丢进号池里，结果才蹬了 1 天，这批号全封了，本来打算行得通就再开一批 cc max 的号也丢进号池的，现在也不敢开了&lt;/p&gt;
+&lt;p&gt;各位有什么想法不？或者能长期提供 codex team 、plus 号的，也可以联系我&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -147,21 +162,6 @@
 &lt;/blockquote&gt;
 &lt;h4&gt;⚠️⚠️⚠️充值前一定要试用！！！！不要野性充值再找我退款，这很麻烦！要试用找群主！！！！⚠️⚠️⚠️&lt;/h4&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://image.baidu.com/search/down?url=https://tva1.sinaimg.cn/large/9a9ead2fgy1ibert8tpqsj21wm0ksjtr.jpg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>各位有没有靠谱的方法可以给团队提供 AI 编程服务的？</title>
-      <link>https://www.v2ex.com/t/1203227</link>
-      <guid>v2ex-1203227</guid>
-      <pubDate>Fri, 03 Apr 2026 00:28:36 GMT</pubDate>
-      <description>&lt;p&gt;首先排除中转！首先排除中转！首先排除中转！首先排除中转！&lt;/p&gt;
-&lt;p&gt;之前用某个号称 V 站大火的中转（最近开了个马甲站又在卖力宣传了），不仅自己用，还介绍给公司用，充了几笔钱后，结果白天工作日服务基本不可用，动不动就报错、断流，完全没法正常工作&lt;/p&gt;
-&lt;p&gt;别问，一问就是：“没一家中转能给你保证 SLA”，一说就是“我们要和客户建立信任”，倍率从 vip 一路开到 ssssvip ，一开，服务状态数据也是一路从绿变黄到红，客户微信群这一周都没几条信息了，请问这家是真不知道为什么吗？&lt;/p&gt;
-&lt;p&gt;服务没保障，模型不透明，给中转充钱真是充的一肚子气&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;牢骚话不多说了，目前是这样：&lt;/p&gt;
-&lt;p&gt;公司在 aws 上自建了一个 sub2api 做中转，用国外的 PayPal （绑定的国内信用卡），买了一批官方的 gptbusiness 开的席位，丢进号池里，结果才蹬了 1 天，这批号全封了，本来打算行得通就再开一批 cc max 的号也丢进号池的，现在也不敢开了&lt;/p&gt;
-&lt;p&gt;各位有什么想法不？或者能长期提供 codex team 、plus 号的，也可以联系我&lt;/p&gt;
 </description>
     </item>
     <item>
