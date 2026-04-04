@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 04 Apr 2026 12:31:31 GMT</lastBuildDate>
-    <item>
-      <title>苹果 m5 芯片的 mbp 永远的神啊</title>
-      <link>https://www.v2ex.com/t/1203428</link>
-      <guid>v2ex-1203428</guid>
-      <pubDate>Fri, 03 Apr 2026 13:35:20 GMT</pubDate>
-      <description>我买的 mbp m5 32g 1t 到货了，今天打开直接 clean 项目，然后打包安卓 app&lt;br /&gt;&lt;br /&gt;同样的条件，imac 2019 i7 4.6ghz ，32g ，1t 一起打包命令&lt;br /&gt;&lt;br /&gt;结果&lt;br /&gt;m5 只用了 2m40s&lt;br /&gt;imac 用了 17m48s&lt;br /&gt;&lt;br /&gt;我的天！！！&lt;br /&gt;&lt;br /&gt;早换早享受😎</description>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 13:44:34 GMT</lastBuildDate>
     <item>
       <title>现在有什么相对客观中立的新闻媒体推荐吗</title>
       <link>https://www.v2ex.com/t/1203501</link>
@@ -50,14 +43,6 @@
 </description>
     </item>
     <item>
-      <title>现在 session 是主流还是 jwt + refresh token 是主流？</title>
-      <link>https://www.v2ex.com/t/1203511</link>
-      <guid>v2ex-1203511</guid>
-      <pubDate>Sat, 04 Apr 2026 06:04:33 GMT</pubDate>
-      <description>&lt;p&gt;徘徊了好几年，看了好多文章，也问了 chatgpt ，现在想看看生产中用到都是啥？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Gemma 4 31B 大概什么水平，本地部署是不是又成为现实了</title>
       <link>https://www.v2ex.com/t/1203450</link>
       <guid>v2ex-1203450</guid>
@@ -65,13 +50,11 @@
       <description>Gemma 4 31B 大概什么水平，本地部署是不是又成为现实了</description>
     </item>
     <item>
-      <title>开源的 Vibe Island —— Treland！</title>
-      <link>https://www.v2ex.com/t/1203426</link>
-      <guid>v2ex-1203426</guid>
-      <pubDate>Fri, 03 Apr 2026 13:17:23 GMT</pubDate>
-      <description>&lt;p&gt;Treland 就是 Trellis Island ，后续会在面板上加上更多 Trellis 工作流相关的适配（比如一键 record-session 或者 update-spec ），敬请期待～&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://github.com/mindfold-ai/Treland&quot; rel=&quot;nofollow&quot;&gt;github.com/mindfold-ai/Treland&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;使用 Trellis 的 harness agent 工作流进行辅助开发，欢迎大家使用～&lt;/p&gt;
+      <title>现在 session 是主流还是 jwt + refresh token 是主流？</title>
+      <link>https://www.v2ex.com/t/1203511</link>
+      <guid>v2ex-1203511</guid>
+      <pubDate>Sat, 04 Apr 2026 06:04:33 GMT</pubDate>
+      <description>&lt;p&gt;徘徊了好几年，看了好多文章，也问了 chatgpt ，现在想看看生产中用到都是啥？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -89,6 +72,29 @@
   --custom-compatibility openai \
   --accept-risk
 &lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    <item>
+      <title>GPT Plus 怎么收费？研究完付款方式后我的结论是别自己折腾</title>
+      <link>https://www.v2ex.com/t/1203479</link>
+      <guid>v2ex-1203479</guid>
+      <pubDate>Sat, 04 Apr 2026 02:22:58 GMT</pubDate>
+      <description>&lt;p&gt;最近在搞一个跨时区的远程协作项目，四个人分布在三个城市，靠 ChatGPT 做需求拆解、代码审查、文档翻译，基本上每天都在用。用到这个频率，订阅稳定性就不是小事了。&lt;/p&gt;
+&lt;p&gt;官方 Plus 是 20 刀一个月，这个价格本身不贵。但问题从来不是价格，是你怎么把钱交出去。&lt;/p&gt;
+&lt;p&gt;我之前的路径是自己搞海外卡，虚拟卡绑过两张，一张用了三个月被风控，另一张续费的时候直接扣款失败，账号状态变成 past due ，等我换卡重新绑的时候已经断了两天。远程协作最怕这个，你这边断了，别人的工作流也卡住。后来试过让朋友代付、用过礼品卡，礼品卡那条路现在风险更高，OpenAI 对礼品卡来源查得越来越严，封号案例在社区里已经不少了。&lt;/p&gt;
+&lt;p&gt;折腾了大半年，我现在的结论很明确：国内用户别自己搞支付链路，找一个靠谱的代订阅平台是更优解。&lt;/p&gt;
+&lt;p&gt;我现在走的是 bewild ，说几个实际的点。第一，它不是礼品卡方案，走的是正规订阅流程，这意味着 OpenAI 那边检测到的风险更低，不容易触发封号。第二，不需要交账号密码，全程你自己操作，账号控制权在自己手里，这点对我来说是底线。第三，支持微信支付，不用再维护一张海外卡，续费的时候也不用担心卡过期或者被风控。第四，Plus 如果真被封了可以退款，售后边界是清楚的，不是那种&quot;出了事找不到人&quot;的模式。&lt;/p&gt;
+&lt;p&gt;是，它比官网贵几刀。但你算算自己折腾虚拟卡的时间成本、绑卡失败的风险、礼品卡封号的可能性，这几刀买的是一条稳定的续费链路。尤其是长期用的人，续费链路断一次，代价比多花几刀大得多。&lt;/p&gt;
+&lt;p&gt;而且它还支持 Pro ，这个在国内几乎没有别的干净渠道能开。如果你的场景需要更高的用量上限，这条路基本是唯一选择。&lt;/p&gt;
+&lt;p&gt;我现在不会再自己折腾支付了，也不会再碰礼品卡。换个入口进去「 &lt;a href=&quot;https://bewild.ai?code=Flow&quot; rel=&quot;nofollow&quot;&gt;https://bewild.ai?code=Flow&lt;/a&gt; 」，会更友好一点。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>facebook 账号太容易被封</title>
+      <link>https://www.v2ex.com/t/1203484</link>
+      <guid>v2ex-1203484</guid>
+      <pubDate>Sat, 04 Apr 2026 02:48:08 GMT</pubDate>
+      <description>&lt;p&gt;在上面建了个账号，准备购买 facebook ads 做推广， 没几天就封账号了，两个账号都是这样，没有发布任何违规信息，各位有没有什么经验。&lt;/p&gt;
 </description>
     </item>
   </channel>
