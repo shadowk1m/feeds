@@ -4,23 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 04 Apr 2026 09:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 09:59:03 GMT</lastBuildDate>
     <item>
       <title>苹果 m5 芯片的 mbp 永远的神啊</title>
       <link>https://www.v2ex.com/t/1203428</link>
       <guid>v2ex-1203428</guid>
       <pubDate>Fri, 03 Apr 2026 13:35:20 GMT</pubDate>
       <description>我买的 mbp m5 32g 1t 到货了，今天打开直接 clean 项目，然后打包安卓 app&lt;br /&gt;&lt;br /&gt;同样的条件，imac 2019 i7 4.6ghz ，32g ，1t 一起打包命令&lt;br /&gt;&lt;br /&gt;结果&lt;br /&gt;m5 只用了 2m40s&lt;br /&gt;imac 用了 17m48s&lt;br /&gt;&lt;br /&gt;我的天！！！&lt;br /&gt;&lt;br /&gt;早换早享受😎</description>
-    </item>
-    <item>
-      <title>对于想做独立开发的程序员来说， AI 时代的到来是最大的福报</title>
-      <link>https://www.v2ex.com/t/1203390</link>
-      <guid>v2ex-1203390</guid>
-      <pubDate>Fri, 03 Apr 2026 09:37:17 GMT</pubDate>
-      <description>&lt;p&gt;做了 8 年后端开发，其实很想做一个真正属于自己的产品。以前总是卡在了 UI 设计、前端开发、多语言适配、落地页设计、文案等周边问题上。这些问题难度不是很高，但会占据大量开发时间。
-现在好了，这些周边的事情可以全部交给 AI 来做，我只需要把控全局、引导方向。核心的系统设计当然还是得自己来做，自己做好了交给 Codex 和 Claude 分别 Review ，有需要提升的就接纳它们的建议。
-我认为未来 1-3 年会是独立程序员借助 AI 腾飞的一个好时机，OPC 一人公司不是近在眼前，而是正在发生的当下。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>现在有什么相对客观中立的新闻媒体推荐吗</title>
@@ -101,43 +91,6 @@
 </description>
     </item>
     <item>
-      <title>从 Antigravity 转 Claude Code 几天的心得</title>
-      <link>https://www.v2ex.com/t/1203411</link>
-      <guid>v2ex-1203411</guid>
-      <pubDate>Fri, 03 Apr 2026 11:08:27 GMT</pubDate>
-      <description>&lt;p&gt;前几天由于 Antigravity 砍额度严重，我终于下决心转向目前地球上最强的 AI 编程助手，拥抱最纯的 opus token ，用了几天有些心得。&lt;/p&gt;
-&lt;h3&gt;Cladue Code 比 Antigravity 好用的部份&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Model 额度&lt;/strong&gt;：这是提升最有感的部分，我开 100 刀的 max5x 方案，每天高强度用 5-6 小时 opus 用量都不超过 20%。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;CLI 整合&lt;/strong&gt;：cc 本身就是 cli 应用，调用 cli 没有任何权限问题；反重力要另外调命令行的时候总是不太听话。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;写代码能力&lt;/strong&gt;：同样是 opus 4.6 ，在 cc 里面调用的就是更会写代码，意图理解能力也强过反重力。在反重力里，我还单独写了一个 skills 让 agent 读项目文档理解上下文；在 cc 里只要让它读过几次，下次遇到类似的问题它就会自动去文档位置找来读。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;：cc 特有功能，光是网站搜索的能力就比反重力强，反重力甚至不懂怎么用 curl ，每次都要费勁巴拉打开瀏览器操作 DOM 。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;：虽然反重力也有 Skills ，但 cc 的 skills 比反重力更好用，不但生态更全，能力也更强（得力于 cc 的 Tools ）。例如我装了一个 /flutter-review 的 skills ，每次 opus 写完代码我就调用这个 skills 来 review 代码再修正，比我人力 prompt 还精确。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;工作流&lt;/strong&gt;：因为全程 cli ，大部分操作都可以用键盘完成，不用分心用鼠标、中断思路，突然有想法可以马上 &lt;code&gt;/btw&lt;/code&gt; 补充，效率更高。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Antigravity 比 Cladue Code 好用的部份&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Implementaion Plan&lt;/strong&gt;：反重力的 Plan Mode 会生成实施计划的 markdown ，可以直接像改论文一样在想批注的部份加注。cc 没那么好改，只能多花一些 prompt 说明想法，或是一开始就给足够约束的 prompt 。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;生成图片&lt;/strong&gt;：例如我需要批量生成测试用户的头像並用脚本上传到服务器，cc 没法直接生成图片，反重力可以同时画图+写脚本。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;UI 绘制&lt;/strong&gt;：因为 cc 也能上传图片，还有 ui 相关的 skills 可以帮助设计，这点我觉得反重力没多大优势；不过很多人反馈反重力做 UI 方便，也加上吧。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;结论&lt;/h3&gt;
-&lt;p&gt;后悔没早点开始用 Claude Code 。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>[送永久会员] MakePaper 专注高质量极简壁纸，假期前送一波会员码！</title>
       <link>https://www.v2ex.com/t/1203404</link>
       <guid>v2ex-1203404</guid>
@@ -207,6 +160,43 @@ E17KP8MYJDUEYGEXLKYSFE6
 </description>
     </item>
     <item>
+      <title>从 Antigravity 转 Claude Code 几天的心得</title>
+      <link>https://www.v2ex.com/t/1203411</link>
+      <guid>v2ex-1203411</guid>
+      <pubDate>Fri, 03 Apr 2026 11:08:27 GMT</pubDate>
+      <description>&lt;p&gt;前几天由于 Antigravity 砍额度严重，我终于下决心转向目前地球上最强的 AI 编程助手，拥抱最纯的 opus token ，用了几天有些心得。&lt;/p&gt;
+&lt;h3&gt;Cladue Code 比 Antigravity 好用的部份&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Model 额度&lt;/strong&gt;：这是提升最有感的部分，我开 100 刀的 max5x 方案，每天高强度用 5-6 小时 opus 用量都不超过 20%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CLI 整合&lt;/strong&gt;：cc 本身就是 cli 应用，调用 cli 没有任何权限问题；反重力要另外调命令行的时候总是不太听话。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;写代码能力&lt;/strong&gt;：同样是 opus 4.6 ，在 cc 里面调用的就是更会写代码，意图理解能力也强过反重力。在反重力里，我还单独写了一个 skills 让 agent 读项目文档理解上下文；在 cc 里只要让它读过几次，下次遇到类似的问题它就会自动去文档位置找来读。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;：cc 特有功能，光是网站搜索的能力就比反重力强，反重力甚至不懂怎么用 curl ，每次都要费勁巴拉打开瀏览器操作 DOM 。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;：虽然反重力也有 Skills ，但 cc 的 skills 比反重力更好用，不但生态更全，能力也更强（得力于 cc 的 Tools ）。例如我装了一个 /flutter-review 的 skills ，每次 opus 写完代码我就调用这个 skills 来 review 代码再修正，比我人力 prompt 还精确。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;工作流&lt;/strong&gt;：因为全程 cli ，大部分操作都可以用键盘完成，不用分心用鼠标、中断思路，突然有想法可以马上 &lt;code&gt;/btw&lt;/code&gt; 补充，效率更高。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Antigravity 比 Cladue Code 好用的部份&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Implementaion Plan&lt;/strong&gt;：反重力的 Plan Mode 会生成实施计划的 markdown ，可以直接像改论文一样在想批注的部份加注。cc 没那么好改，只能多花一些 prompt 说明想法，或是一开始就给足够约束的 prompt 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成图片&lt;/strong&gt;：例如我需要批量生成测试用户的头像並用脚本上传到服务器，cc 没法直接生成图片，反重力可以同时画图+写脚本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UI 绘制&lt;/strong&gt;：因为 cc 也能上传图片，还有 ui 相关的 skills 可以帮助设计，这点我觉得反重力没多大优势；不过很多人反馈反重力做 UI 方便，也加上吧。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;结论&lt;/h3&gt;
+&lt;p&gt;后悔没早点开始用 Claude Code 。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>现在各个厂家的 coding plan 是不是都抢不到了..</title>
       <link>https://www.v2ex.com/t/1203486</link>
       <guid>v2ex-1203486</guid>
@@ -214,11 +204,21 @@ E17KP8MYJDUEYGEXLKYSFE6
       <description>现在各个厂家的 coding plan 是不是都抢不到了..</description>
     </item>
     <item>
-      <title>如果给你 5 个人的团队，这 5 个人就是全能的，并且有 500w 资金你最想干什么事情？</title>
-      <link>https://www.v2ex.com/t/1203386</link>
-      <guid>v2ex-1203386</guid>
-      <pubDate>Fri, 03 Apr 2026 09:27:19 GMT</pubDate>
-      <description>如果给你 5 个人的团队，这 5 个人就是全能的，并且有 500w 资金你最想干什么事情？</description>
+      <title>开源的 Vibe Island —— Treland！</title>
+      <link>https://www.v2ex.com/t/1203426</link>
+      <guid>v2ex-1203426</guid>
+      <pubDate>Fri, 03 Apr 2026 13:17:23 GMT</pubDate>
+      <description>&lt;p&gt;Treland 就是 Trellis Island ，后续会在面板上加上更多 Trellis 工作流相关的适配（比如一键 record-session 或者 update-spec ），敬请期待～&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://github.com/mindfold-ai/Treland&quot; rel=&quot;nofollow&quot;&gt;github.com/mindfold-ai/Treland&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;使用 Trellis 的 harness agent 工作流进行辅助开发，欢迎大家使用～&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Gemma 4 31B 大概什么水平，本地部署是不是又成为现实了</title>
+      <link>https://www.v2ex.com/t/1203450</link>
+      <guid>v2ex-1203450</guid>
+      <pubDate>Fri, 03 Apr 2026 16:01:43 GMT</pubDate>
+      <description>Gemma 4 31B 大概什么水平，本地部署是不是又成为现实了</description>
     </item>
   </channel>
 </rss>
