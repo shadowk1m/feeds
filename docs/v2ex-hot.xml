@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 04 Apr 2026 11:49:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 12:31:31 GMT</lastBuildDate>
     <item>
       <title>苹果 m5 芯片的 mbp 永远的神啊</title>
       <link>https://www.v2ex.com/t/1203428</link>
@@ -41,60 +41,20 @@
       <description>从物理距离上，韩国至少比日本和新加坡都近，但很少见有走韩国的节点。</description>
     </item>
     <item>
-      <title>中转站真的就是一个辛苦钱，还要被人锤</title>
-      <link>https://www.v2ex.com/t/1203418</link>
-      <guid>v2ex-1203418</guid>
-      <pubDate>Fri, 03 Apr 2026 12:04:14 GMT</pubDate>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;最近锤我的帖子上了热榜，我再来澄清一下，也算是给大家再次做科普了&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://cn.v2ex.com/t/1203227&quot; rel=&quot;nofollow&quot;&gt;https://cn.v2ex.com/t/1203227&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;SLA 为什么无法保证？&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;中转站背后全是账号池，包括缓存都没法保证命中率，而且风控级别一提高，账号成批成批的死，A 畜也是基本不做人的。目前大部分时候封号是全额退款，但是信用卡、上号、服务器、cdn 都是成本，商家不可能不赚钱&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;claude 保障 SLA 的全都是注水大户，我不搞注水，是因为我不敢给客户降级到便宜的 gpt-5.4 ，所以我的 claude 经常标红。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;我可以说市面上敢承诺 SLA 的全都是注水大户，包括我圈内几个中转站站长，很多也是风控一提高就标红，逆向都活得的好好的，因为很多逆向渠道，要么就是玩死了，不会存在半死不活的情况，所以你能看到不标红的全是逆向 kiro/antigravity/gpt4.5 等注水大户。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;因为逆向技术就 TLS 指纹、信用卡、接口行为、ip 那些 ，这在逆向圈内都不是什么机密，算是逆向工程里面最低一层次的一档，人家还有玩虚拟机加密逆向的，我们这个玩接口逆向的，真的不算什么。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;风控只要提高一个级别，基本上就是账号成片成片地死，谁家敢说自己反封号厉害，一个字都不要信。上次 88code 就被锤死了，他们家说有什么反封号的技术，让大家把账号放到他们家去跑，结果第二天服务器就瘫痪了，笑掉大牙。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;任何说自己 SLA 牛逼，一个字都不要信。在风格最严格的阶段，基本上就是拿信用卡在送死，强行批量上号，续上 ccmax 账号保命，因为中转站客户跑了，钱就没了&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;注水的事情&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;目前注水是非常难查的，很多小白被一些网站给骗了，说我们可以用网页检测 claude 是否满血 cc ，有一说一全是骗子，因为这个东西 就是查几个 tools 字段跟一些特定字段返回，全都是智商税，如果信这个，你这个程序员基本上就白入行了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;所有网站检测满血 cc 的一个字都不要信，甚至有中转站友商，他们家每次测试都能通过，竞对中转站怎么测都通不过&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;另外圈内有大佬基本上可以把 kiro/gpt-5.4 完美伪装成 claude ccmax 通过市面上所有的网页检测手段，但是这位佬很良心，并没有把 kiro/gpt/以及其它逆向当 ccmax 卖。&lt;em&gt;&lt;strong&gt;因为两者纯度完全不一样，ccmax opus 你吸过一口，那感觉，特么地跟吸毒一样，基本上你提示词文档写的完善，都是一把过，测试都不用测的，那个感觉，写了十年代码的，你看那生成出来的效果，都能够发自内心地笑出声。基本上实装过 ccmax 的佬都说好，你换到 kiro 或者那种带了不知道注入了多少提示词那种逆向又或者国产那种模型，你会觉得特么跟吃了屎一样。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;我一直都建议客户 如果用我的 ccmax 渠道感觉智商不对，效果不好,就不要用 ccmax 去消耗你的积分了，宁愿去用便宜的 kiro 逆向，那个才几毛钱，你亏也不会亏到哪里去&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;注水是一件十分隐蔽的事情，有的时候中转站会给你十次注 1-2 次，因为 gpt-5.4 圈内可能就 4 分，ccmax 成本要到 1 块 5 ，中间差了几十倍，中转肯定有注水的动机，这是没办法的事情&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;目前唯一检测注水相对可靠的办法，就是拿中转的思考块签名，把这个签名后的报文，提交到官方 ccmax 去进行验证，如果是逆向渠道，官方是不会认证这个思考块的签名的，直接返回报错，而正经的 ccmax 中转可以通过这个检测&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;下面是我之前写的一些关于中转的帖子，大家可以去看一看，提升一下对中转站的认识跟了解&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://cn.v2ex.com/t/1198897&quot; rel=&quot;nofollow&quot;&gt;如何开一家中转站&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://cn.v2ex.com/t/1197381&quot; rel=&quot;nofollow&quot;&gt;用中转站的千万要小心，已经有人在 tg 大量购买用户数据用于训练&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://cn.v2ex.com/t/1196011&quot; rel=&quot;nofollow&quot;&gt;AI 中转站黑话大全整理，带你一次性了解中转站逻辑，别用中转站，用的不明不白&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;OPUS-4-6 吸毒成瘾搞笑视频&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://d.fqdeng.com/claude-4-6.mp4&quot; rel=&quot;nofollow&quot;&gt;OPUS-4-6 吸毒成瘾搞笑视频&lt;/a&gt;&lt;/p&gt;
+      <title>死活下载不了 youtube 了</title>
+      <link>https://www.v2ex.com/t/1203509</link>
+      <guid>v2ex-1203509</guid>
+      <pubDate>Sat, 04 Apr 2026 05:56:15 GMT</pubDate>
+      <description>&lt;p&gt;想给孩子下载下面列表的，之前都是可以的，现在试了 downie 4.0 ，单个都无法下载，找了一些其他下载工具都不能直接下载，现在是网站有什么现在吗，很长时间没下载 youtube 东西了，哪位大咖有啥经验传授的？
+&lt;a href=&quot;https://www.youtube.com/watch?v=Jladv8-wBKY&amp;amp;list=PLC8VpLy9lgWtWS56NB7lsELcfe_Y-RY8Q&quot; rel=&quot;nofollow&quot;&gt;https://www.youtube.com/watch?v=Jladv8-wBKY&amp;amp;list=PLC8VpLy9lgWtWS56NB7lsELcfe_Y-RY8Q&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>现在 session 是主流还是 jwt + refresh token 是主流？</title>
+      <link>https://www.v2ex.com/t/1203511</link>
+      <guid>v2ex-1203511</guid>
+      <pubDate>Sat, 04 Apr 2026 06:04:33 GMT</pubDate>
+      <description>&lt;p&gt;徘徊了好几年，看了好多文章，也问了 chatgpt ，现在想看看生产中用到都是啥？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -103,15 +63,6 @@
       <guid>v2ex-1203450</guid>
       <pubDate>Fri, 03 Apr 2026 16:01:43 GMT</pubDate>
       <description>Gemma 4 31B 大概什么水平，本地部署是不是又成为现实了</description>
-    </item>
-    <item>
-      <title>死活下载不了 youtube 了</title>
-      <link>https://www.v2ex.com/t/1203509</link>
-      <guid>v2ex-1203509</guid>
-      <pubDate>Sat, 04 Apr 2026 05:56:15 GMT</pubDate>
-      <description>&lt;p&gt;想给孩子下载下面列表的，之前都是可以的，现在试了 downie 4.0 ，单个都无法下载，找了一些其他下载工具都不能直接下载，现在是网站有什么现在吗，很长时间没下载 youtube 东西了，哪位大咖有啥经验传授的？
-&lt;a href=&quot;https://www.youtube.com/watch?v=Jladv8-wBKY&amp;amp;list=PLC8VpLy9lgWtWS56NB7lsELcfe_Y-RY8Q&quot; rel=&quot;nofollow&quot;&gt;https://www.youtube.com/watch?v=Jladv8-wBKY&amp;amp;list=PLC8VpLy9lgWtWS56NB7lsELcfe_Y-RY8Q&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>开源的 Vibe Island —— Treland！</title>
