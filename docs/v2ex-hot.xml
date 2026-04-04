@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 04 Apr 2026 07:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 08:28:54 GMT</lastBuildDate>
     <item>
       <title>看到我的同事一天到晚还在手写代码我就想笑</title>
       <link>https://www.v2ex.com/t/1203377</link>
@@ -31,6 +31,13 @@
 </description>
     </item>
     <item>
+      <title>现在有什么相对客观中立的新闻媒体推荐吗</title>
+      <link>https://www.v2ex.com/t/1203501</link>
+      <guid>v2ex-1203501</guid>
+      <pubDate>Sat, 04 Apr 2026 05:01:24 GMT</pubDate>
+      <description>知道不存在完全客观中立的新闻媒体，有没有相对客观中立的。</description>
+    </item>
+    <item>
       <title>福建联通续费包年宽带要求签新入网服务协议</title>
       <link>https://www.v2ex.com/t/1203376</link>
       <guid>v2ex-1203376</guid>
@@ -43,13 +50,6 @@
 &lt;p&gt;月上行带宽超过 0.8TB 会限速&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/AAohAMW.png&quot;/&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>现在有什么相对客观中立的新闻媒体推荐吗</title>
-      <link>https://www.v2ex.com/t/1203501</link>
-      <guid>v2ex-1203501</guid>
-      <pubDate>Sat, 04 Apr 2026 05:01:24 GMT</pubDate>
-      <description>知道不存在完全客观中立的新闻媒体，有没有相对客观中立的。</description>
     </item>
     <item>
       <title>Claude Code 又送了 $100 的 extra balance</title>
@@ -116,14 +116,55 @@
 </description>
     </item>
     <item>
-      <title>奥特曼你听我说</title>
-      <link>https://www.v2ex.com/t/1203364</link>
-      <guid>v2ex-1203364</guid>
-      <pubDate>Fri, 03 Apr 2026 07:54:51 GMT</pubDate>
-      <description>&lt;p&gt;你要毁了天才程序员吗?
-听闻今天砍了 codex 额度, coding 的时候天都塌了, 我个人体感比之前消耗速度至少快了 5 倍, 焦虑了
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/q0wwPkG.png&quot;/&gt;&lt;/p&gt;
+      <title>有点好奇，翻墙节点一般都是香港日本新加坡，为什么很少走韩国呢？</title>
+      <link>https://www.v2ex.com/t/1203483</link>
+      <guid>v2ex-1203483</guid>
+      <pubDate>Sat, 04 Apr 2026 02:47:11 GMT</pubDate>
+      <description>从物理距离上，韩国至少比日本和新加坡都近，但很少见有走韩国的节点。</description>
+    </item>
+    <item>
+      <title>从 Antigravity 转 Claude Code 几天的心得</title>
+      <link>https://www.v2ex.com/t/1203411</link>
+      <guid>v2ex-1203411</guid>
+      <pubDate>Fri, 03 Apr 2026 11:08:27 GMT</pubDate>
+      <description>&lt;p&gt;前几天由于 Antigravity 砍额度严重，我终于下决心转向目前地球上最强的 AI 编程助手，拥抱最纯的 opus token ，用了几天有些心得。&lt;/p&gt;
+&lt;h3&gt;Cladue Code 比 Antigravity 好用的部份&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Model 额度&lt;/strong&gt;：这是提升最有感的部分，我开 100 刀的 max5x 方案，每天高强度用 5-6 小时 opus 用量都不超过 20%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CLI 整合&lt;/strong&gt;：cc 本身就是 cli 应用，调用 cli 没有任何权限问题；反重力要另外调命令行的时候总是不太听话。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;写代码能力&lt;/strong&gt;：同样是 opus 4.6 ，在 cc 里面调用的就是更会写代码，意图理解能力也强过反重力。在反重力里，我还单独写了一个 skills 让 agent 读项目文档理解上下文；在 cc 里只要让它读过几次，下次遇到类似的问题它就会自动去文档位置找来读。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;：cc 特有功能，光是网站搜索的能力就比反重力强，反重力甚至不懂怎么用 curl ，每次都要费勁巴拉打开瀏览器操作 DOM 。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;：虽然反重力也有 Skills ，但 cc 的 skills 比反重力更好用，不但生态更全，能力也更强（得力于 cc 的 Tools ）。例如我装了一个 /flutter-review 的 skills ，每次 opus 写完代码我就调用这个 skills 来 review 代码再修正，比我人力 prompt 还精确。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;工作流&lt;/strong&gt;：因为全程 cli ，大部分操作都可以用键盘完成，不用分心用鼠标、中断思路，突然有想法可以马上 &lt;code&gt;/btw&lt;/code&gt; 补充，效率更高。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Antigravity 比 Cladue Code 好用的部份&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Implementaion Plan&lt;/strong&gt;：反重力的 Plan Mode 会生成实施计划的 markdown ，可以直接像改论文一样在想批注的部份加注。cc 没那么好改，只能多花一些 prompt 说明想法，或是一开始就给足够约束的 prompt 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生成图片&lt;/strong&gt;：例如我需要批量生成测试用户的头像並用脚本上传到服务器，cc 没法直接生成图片，反重力可以同时画图+写脚本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UI 绘制&lt;/strong&gt;：因为 cc 也能上传图片，还有 ui 相关的 skills 可以帮助设计，这点我觉得反重力没多大优势；不过很多人反馈反重力做 UI 方便，也加上吧。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;结论&lt;/h3&gt;
+&lt;p&gt;后悔没早点开始用 Claude Code 。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>如果给你 5 个人的团队，这 5 个人就是全能的，并且有 500w 资金你最想干什么事情？</title>
+      <link>https://www.v2ex.com/t/1203386</link>
+      <guid>v2ex-1203386</guid>
+      <pubDate>Fri, 03 Apr 2026 09:27:19 GMT</pubDate>
+      <description>如果给你 5 个人的团队，这 5 个人就是全能的，并且有 500w 资金你最想干什么事情？</description>
     </item>
   </channel>
 </rss>
