@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 05 Apr 2026 06:58:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 07:54:11 GMT</lastBuildDate>
     <item>
       <title>AI 写代码真香喷；以后只要产品经理就可以了</title>
       <link>https://www.v2ex.com/t/1203613</link>
@@ -90,14 +90,6 @@
       <description>是砍额度了，还是说之前在搞什么双倍活动，现在过期了。</description>
     </item>
     <item>
-      <title>哪里有 giffgaff 手机卡</title>
-      <link>https://www.v2ex.com/t/1203525</link>
-      <guid>v2ex-1203525</guid>
-      <pubDate>Sat, 04 Apr 2026 07:44:20 GMT</pubDate>
-      <description>&lt;p&gt;好像找不到了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>新入职了一家公司，犹豫要不要跑路</title>
       <link>https://www.v2ex.com/t/1203611</link>
       <guid>v2ex-1203611</guid>
@@ -120,13 +112,6 @@
       <guid>v2ex-1203536</guid>
       <pubDate>Sat, 04 Apr 2026 09:21:42 GMT</pubDate>
       <description>众所周知的方案是使用 anygo 这款软件模拟定位到国外，然后开通，看到网上很多人都用这个方案成功了&lt;br /&gt;不过由于不想付费购买 anygo 会员也不想在自己电脑上运行那个破解的注册机，&lt;br /&gt;然后我心里一想现在 AI 这么火，那么能否用 AI 解决呢？&lt;br /&gt;问了一下 chatGPT ，它回答 anygo 的方案大概也是通过开发者调试机制来模拟定位，这个功能在 xcode 上就有&lt;br /&gt;于是下载了 xcode ，研究了一番（毕竟没做过 iOS 开发），通过 Debug → Simulate Location 模拟了美国纽约的定位。&lt;br /&gt;最终的结果是，天气 app 显示当前位置在纽约，地图 app 显示当前位置在纽约（左下角仍是高德地图），系统时区那里显示时区是纽约&lt;br /&gt;然而健康 app 里面的核对清单里死活就是无法启用，始终显示这个功能在你所在地区不可用。&lt;br /&gt;哎，折腾一下午还是没搞定，真是无语&lt;br /&gt;手机是 iPhone Air ，手表是 s11 ，iPhone 全程魔法，手表全程关机。</description>
-    </item>
-    <item>
-      <title>上海联通 9929 必须接内网？</title>
-      <link>https://www.v2ex.com/t/1203547</link>
-      <guid>v2ex-1203547</guid>
-      <pubDate>Sat, 04 Apr 2026 11:04:43 GMT</pubDate>
-      <description>国际游戏直通车客服说能办，但是宽带要接内网，有办过的朋友知道？</description>
     </item>
     <item>
       <title>谨慎购入 Thinkbook 14+笔记本，过保后主板故障</title>
@@ -153,6 +138,29 @@
 &lt;h2&gt;求推荐&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;预算 5k-6k Archlinux 友好型笔记本，不要联想。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>上海联通 9929 必须接内网？</title>
+      <link>https://www.v2ex.com/t/1203547</link>
+      <guid>v2ex-1203547</guid>
+      <pubDate>Sat, 04 Apr 2026 11:04:43 GMT</pubDate>
+      <description>国际游戏直通车客服说能办，但是宽带要接内网，有办过的朋友知道？</description>
+    </item>
+    <item>
+      <title>Claude 限制在小龙虾上使用了，有什么比较稳定的途径可以解决？</title>
+      <link>https://www.v2ex.com/t/1203556</link>
+      <guid>v2ex-1203556</guid>
+      <pubDate>Sat, 04 Apr 2026 12:52:36 GMT</pubDate>
+      <description>&lt;p&gt;Claude 大面积封号很大的原因就是大家用龙虾疯狂的在调，垃圾 token 太多了，频率太快了，算力太紧张，然后就疯狂的干掉龙虾了&lt;/p&gt;
+&lt;p&gt;小龙虾官方给了一个 cli 的过渡方案，但是看下来&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这是一个临时过渡方案，体验会差一些&lt;/li&gt;
+&lt;li&gt;不支持工具调用&lt;/li&gt;
+&lt;li&gt;没有流式输出&lt;/li&gt;
+&lt;li&gt;会话恢复可能有小问题&lt;/li&gt;
+&lt;li&gt;仍可能需要额外按量付费超出订阅部分&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
