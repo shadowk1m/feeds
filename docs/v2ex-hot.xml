@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 05 Apr 2026 15:52:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 16:24:15 GMT</lastBuildDate>
     <item>
       <title>AI 写代码真香喷；以后只要产品经理就可以了</title>
       <link>https://www.v2ex.com/t/1203613</link>
@@ -103,6 +103,17 @@
       <description>Hi~各位 V2EX 网站的伙伴们好。我期待能在这个网站上认识女性朋友。&lt;br /&gt;可能大家会觉得奇怪，为啥不去其他的平台，非得在这里发帖。因为过去的经验让我感受到，程序员这个群体对我有很强的吸引力。我喜欢 hot nerd ，她们智慧的大脑，对技术的执着与热爱，以及一些可爱的桀骜，都深深让我着迷。喜欢伍思薇导演的《面子》里的小薇。&lt;br /&gt;现在让我自我介绍一下吧，我的生理和心理性别都为女生，性格是活泼可爱的，比较有个性，为人并不随和。刚刚毕业两年，在上海独居生活，我并不会写任何代码，学文科的，受教育程度为硕士。我的身高 165cm ，体重 105 斤，风格，他评和自评均为少年感，头发长达在肩膀，当然也不仅仅只有这一种风格，夏天也想打扮火辣。属性 0.1 。&lt;br /&gt;期待你是生活在上海的女性朋友，长发，30 岁以上。&lt;br /&gt;最近可能没有那么想恋爱。过去的情感经历让我意识到，我有一些个人课题需要处理，我在情感中存在独立和依赖的矛盾。&lt;br /&gt;看到此处如果您有意向认识我的话，请给我发邮件联系吧。bmFmc29uZ0BxcS5jb20=</description>
     </item>
     <item>
+      <title>没有苹果电脑， vibe codding 是不是用 Linux 更合适一些？</title>
+      <link>https://www.v2ex.com/t/1203702</link>
+      <guid>v2ex-1203702</guid>
+      <pubDate>Sun, 05 Apr 2026 12:40:06 GMT</pubDate>
+      <description>&lt;p&gt;从去年 6 月开始用 Cursor 做开发，发现 AI 经常需要对一些代码文件做批量处理，在 Windows 上他会先使用 cmd 命令，经常失败或者报错，然后他又不得不切换成 powershell 脚本，但也是经常报错。
+codex 似乎更多使用 python 脚本做这些处理，与平台关系更小一些。
+感觉 Linux 的 Shell 命令要强大的多，是不是用 Linux 做 vibe codding 效率会更高一些？
+你们有尝试过的没？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>新入职了一家公司，犹豫要不要跑路</title>
       <link>https://www.v2ex.com/t/1203611</link>
       <guid>v2ex-1203611</guid>
@@ -117,17 +128,6 @@
 &lt;li&gt;代码层面就不索了，魔法值满天飞，到处都是 JSONObject 传值，单体架构。。。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;入职前也在公司附近租了房子，1700 左右，纠结是继续面试骑驴找马还是再坚持，熬一下看看，佬们给个建议吧，感谢大家&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>没有苹果电脑， vibe codding 是不是用 Linux 更合适一些？</title>
-      <link>https://www.v2ex.com/t/1203702</link>
-      <guid>v2ex-1203702</guid>
-      <pubDate>Sun, 05 Apr 2026 12:40:06 GMT</pubDate>
-      <description>&lt;p&gt;从去年 6 月开始用 Cursor 做开发，发现 AI 经常需要对一些代码文件做批量处理，在 Windows 上他会先使用 cmd 命令，经常失败或者报错，然后他又不得不切换成 powershell 脚本，但也是经常报错。
-codex 似乎更多使用 python 脚本做这些处理，与平台关系更小一些。
-感觉 Linux 的 Shell 命令要强大的多，是不是用 Linux 做 vibe codding 效率会更高一些？
-你们有尝试过的没？&lt;/p&gt;
 </description>
     </item>
     <item>
