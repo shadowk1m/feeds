@@ -4,24 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 05 Apr 2026 05:56:58 GMT</lastBuildDate>
-    <item>
-      <title>死活下载不了 youtube 了</title>
-      <link>https://www.v2ex.com/t/1203509</link>
-      <guid>v2ex-1203509</guid>
-      <pubDate>Sat, 04 Apr 2026 05:56:15 GMT</pubDate>
-      <description>&lt;p&gt;想给孩子下载下面列表的，之前都是可以的，现在试了 downie 4.0 ，单个都无法下载，找了一些其他下载工具都不能直接下载，现在是网站有什么现在吗，很长时间没下载 youtube 东西了，哪位大咖有啥经验传授的？
-&lt;a href=&quot;https://www.youtube.com/watch?v=Jladv8-wBKY&amp;amp;list=PLC8VpLy9lgWtWS56NB7lsELcfe_Y-RY8Q&quot; rel=&quot;nofollow&quot;&gt;https://www.youtube.com/watch?v=Jladv8-wBKY&amp;amp;list=PLC8VpLy9lgWtWS56NB7lsELcfe_Y-RY8Q&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>现在 session 是主流还是 jwt + refresh token 是主流？</title>
-      <link>https://www.v2ex.com/t/1203511</link>
-      <guid>v2ex-1203511</guid>
-      <pubDate>Sat, 04 Apr 2026 06:04:33 GMT</pubDate>
-      <description>&lt;p&gt;徘徊了好几年，看了好多文章，也问了 chatgpt ，现在想看看生产中用到都是啥？&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 06:58:42 GMT</lastBuildDate>
     <item>
       <title>AI 写代码真香喷；以后只要产品经理就可以了</title>
       <link>https://www.v2ex.com/t/1203613</link>
@@ -115,6 +98,23 @@
 </description>
     </item>
     <item>
+      <title>新入职了一家公司，犹豫要不要跑路</title>
+      <link>https://www.v2ex.com/t/1203611</link>
+      <guid>v2ex-1203611</guid>
+      <pubDate>Sun, 05 Apr 2026 02:18:47 GMT</pubDate>
+      <description>&lt;p&gt;前段时间接了家 C 轮创业公司的 offer ，入职之后发现公司有如下不满意的地方：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;需要写日报、周报，而且还要详细的写&lt;/li&gt;
+&lt;li&gt;每月绩效考核，但是貌似和工资不挂钩，不确定&lt;/li&gt;
+&lt;li&gt;办公环境类似居民楼那种，大平层一层&lt;/li&gt;
+&lt;li&gt;非周三周五可能要加班到 8 点半，发版可能需要到十一二点，周六可能会加班，不过申请后可以全额折薪或者调休&lt;/li&gt;
+&lt;li&gt;主要做 saas 系统，需要维护很多套生产环境，个人感觉后续会在这上面浪费很多精力&lt;/li&gt;
+&lt;li&gt;代码层面就不索了，魔法值满天飞，到处都是 JSONObject 传值，单体架构。。。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;入职前也在公司附近租了房子，1700 左右，纠结是继续面试骑驴找马还是再坚持，熬一下看看，佬们给个建议吧，感谢大家&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>折腾一下午开通 watch 的高血压检测还是失败了，很无语</title>
       <link>https://www.v2ex.com/t/1203536</link>
       <guid>v2ex-1203536</guid>
@@ -127,6 +127,34 @@
       <guid>v2ex-1203547</guid>
       <pubDate>Sat, 04 Apr 2026 11:04:43 GMT</pubDate>
       <description>国际游戏直通车客服说能办，但是宽带要接内网，有办过的朋友知道？</description>
+    </item>
+    <item>
+      <title>谨慎购入 Thinkbook 14+笔记本，过保后主板故障</title>
+      <link>https://www.v2ex.com/t/1203549</link>
+      <guid>v2ex-1203549</guid>
+      <pubDate>Sat, 04 Apr 2026 11:14:20 GMT</pubDate>
+      <description>&lt;h2&gt;笔记本配置&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: 7840H &lt;/li&gt;
+&lt;li&gt;内存: 32G&lt;/li&gt;
+&lt;li&gt;版本：thinkbook 14+ 2023 锐龙版&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;具体表现&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;正常工作中，会突然黑屏，电源灯亮，键盘无反应&lt;/li&gt;
+&lt;li&gt;重启后，键盘灯亮一下，依然黑屏，电源灯亮，键盘无反应&lt;/li&gt;
+&lt;li&gt;静置半小时以上或拔掉电池，能进系统。用一会依然重复上面故障。&lt;/li&gt;
+&lt;li&gt;尝试重装系统，重装系统失败，继续黑屏，电源灯亮，键盘无反应。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;售后&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;听到我的描述，售后说估计主板有故障，建议返修，价格 800+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;求推荐&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;预算 5k-6k Archlinux 友好型笔记本，不要联想。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
   </channel>
 </rss>
