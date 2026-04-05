@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 05 Apr 2026 16:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 16:59:34 GMT</lastBuildDate>
     <item>
       <title>AI 写代码真香喷；以后只要产品经理就可以了</title>
       <link>https://www.v2ex.com/t/1203613</link>
@@ -114,33 +114,6 @@ codex 似乎更多使用 python 脚本做这些处理，与平台关系更小一
 </description>
     </item>
     <item>
-      <title>新入职了一家公司，犹豫要不要跑路</title>
-      <link>https://www.v2ex.com/t/1203611</link>
-      <guid>v2ex-1203611</guid>
-      <pubDate>Sun, 05 Apr 2026 02:18:47 GMT</pubDate>
-      <description>&lt;p&gt;前段时间接了家 C 轮创业公司的 offer ，入职之后发现公司有如下不满意的地方：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;需要写日报、周报，而且还要详细的写&lt;/li&gt;
-&lt;li&gt;每月绩效考核，但是貌似和工资不挂钩，不确定&lt;/li&gt;
-&lt;li&gt;办公环境类似居民楼那种，大平层一层&lt;/li&gt;
-&lt;li&gt;非周三周五可能要加班到 8 点半，发版可能需要到十一二点，周六可能会加班，不过申请后可以全额折薪或者调休&lt;/li&gt;
-&lt;li&gt;主要做 saas 系统，需要维护很多套生产环境，个人感觉后续会在这上面浪费很多精力&lt;/li&gt;
-&lt;li&gt;代码层面就不索了，魔法值满天飞，到处都是 JSONObject 传值，单体架构。。。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;入职前也在公司附近租了房子，1700 左右，纠结是继续面试骑驴找马还是再坚持，熬一下看看，佬们给个建议吧，感谢大家&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>公司可以报销一半 ai 使用费用了 有啥推荐吗？</title>
-      <link>https://www.v2ex.com/t/1203674</link>
-      <guid>v2ex-1203674</guid>
-      <pubDate>Sun, 05 Apr 2026 09:21:04 GMT</pubDate>
-      <description>&lt;p&gt;1 coding 相关的，例如 codex 和 Claude code 。但 z 最近 codex 修改了额度计算方式，很多人说不够用了； Claude code 又 e 容易封号🤐&lt;/p&gt;
-&lt;p&gt;2 创作相关的，例如即梦，扣子，manus 这些&lt;/p&gt;
-&lt;p&gt;3 ai 眼镜，没接触过，有点想买来玩玩&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Claude Pro 存活快大半个月啦！支付方式/使用情况分享</title>
       <link>https://www.v2ex.com/t/1203633</link>
       <guid>v2ex-1203633</guid>
@@ -156,6 +129,33 @@ codex 似乎更多使用 python 脚本做这些处理，与平台关系更小一
 经常由于网路的问题，页面卡住。&lt;/p&gt;
 &lt;p&gt;没用 claude code ，pro 这点额度，做几个 ppt 就没了。&lt;/p&gt;
 &lt;p&gt;再等段时间，准备开 MAX 5x 试一下了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>公司可以报销一半 ai 使用费用了 有啥推荐吗？</title>
+      <link>https://www.v2ex.com/t/1203674</link>
+      <guid>v2ex-1203674</guid>
+      <pubDate>Sun, 05 Apr 2026 09:21:04 GMT</pubDate>
+      <description>&lt;p&gt;1 coding 相关的，例如 codex 和 Claude code 。但 z 最近 codex 修改了额度计算方式，很多人说不够用了； Claude code 又 e 容易封号🤐&lt;/p&gt;
+&lt;p&gt;2 创作相关的，例如即梦，扣子，manus 这些&lt;/p&gt;
+&lt;p&gt;3 ai 眼镜，没接触过，有点想买来玩玩&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>新入职了一家公司，犹豫要不要跑路</title>
+      <link>https://www.v2ex.com/t/1203611</link>
+      <guid>v2ex-1203611</guid>
+      <pubDate>Sun, 05 Apr 2026 02:18:47 GMT</pubDate>
+      <description>&lt;p&gt;前段时间接了家 C 轮创业公司的 offer ，入职之后发现公司有如下不满意的地方：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;需要写日报、周报，而且还要详细的写&lt;/li&gt;
+&lt;li&gt;每月绩效考核，但是貌似和工资不挂钩，不确定&lt;/li&gt;
+&lt;li&gt;办公环境类似居民楼那种，大平层一层&lt;/li&gt;
+&lt;li&gt;非周三周五可能要加班到 8 点半，发版可能需要到十一二点，周六可能会加班，不过申请后可以全额折薪或者调休&lt;/li&gt;
+&lt;li&gt;主要做 saas 系统，需要维护很多套生产环境，个人感觉后续会在这上面浪费很多精力&lt;/li&gt;
+&lt;li&gt;代码层面就不索了，魔法值满天飞，到处都是 JSONObject 传值，单体架构。。。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;入职前也在公司附近租了房子，1700 左右，纠结是继续面试骑驴找马还是再坚持，熬一下看看，佬们给个建议吧，感谢大家&lt;/p&gt;
 </description>
     </item>
     <item>
