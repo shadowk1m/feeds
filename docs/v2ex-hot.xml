@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 06 Apr 2026 09:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 10:46:14 GMT</lastBuildDate>
     <item>
       <title>免费发 codex 10000 刀</title>
       <link>https://www.v2ex.com/t/1203746</link>
@@ -35,13 +35,6 @@ codex 似乎更多使用 python 脚本做这些处理，与平台关系更小一
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://fixupx.com/Gracker_Gao/status/2040613961826283550&quot; rel=&quot;nofollow noopener&quot;&gt;https://fixupx.com/Gracker_Gao/status/2040613961826283550&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;？？？&lt;br /&gt;就不知道他在研究什么 莫名其妙的 竟然还要发出来 那用户看见了岂不是全都卸载了？应聘者也会觉得你这公司做的事情很奇怪，不知道为什么要这么做。</description>
     </item>
     <item>
-      <title>如果你还在用机场，搞自建吧，买台 vps，上面执行这个脚本，按 3 个回车即可拥有了 6 个节点</title>
-      <link>https://www.v2ex.com/t/1203755</link>
-      <guid>v2ex-1203755</guid>
-      <pubDate>Mon, 06 Apr 2026 00:53:04 GMT</pubDate>
-      <description>···&lt;br /&gt;bash &amp;lt;(wget -qO- &lt;a target=&quot;_blank&quot; href=&quot;https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh&quot; rel=&quot;nofollow noopener&quot;&gt;https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh&lt;/a&gt;)&lt;br /&gt;···</description>
-    </item>
-    <item>
       <title>[送 5 张 Giffgaff 卡] 阿里云大客户折扣账户， ECS 轻松 5 折！</title>
       <link>https://www.v2ex.com/t/1203796</link>
       <guid>v2ex-1203796</guid>
@@ -64,6 +57,13 @@ CDN 、网络类产品正在走流程 折扣力度同样不小&lt;br/&gt;
 </description>
     </item>
     <item>
+      <title>如果你还在用机场，搞自建吧，买台 vps，上面执行这个脚本，按 3 个回车即可拥有了 6 个节点</title>
+      <link>https://www.v2ex.com/t/1203755</link>
+      <guid>v2ex-1203755</guid>
+      <pubDate>Mon, 06 Apr 2026 00:53:04 GMT</pubDate>
+      <description>···&lt;br /&gt;bash &amp;lt;(wget -qO- &lt;a target=&quot;_blank&quot; href=&quot;https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh&quot; rel=&quot;nofollow noopener&quot;&gt;https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh&lt;/a&gt;)&lt;br /&gt;···</description>
+    </item>
+    <item>
       <title>职场汇报发言总是紧张、语无伦次，自信不够怎么办</title>
       <link>https://www.v2ex.com/t/1203735</link>
       <guid>v2ex-1203735</guid>
@@ -82,6 +82,13 @@ CDN 、网络类产品正在走流程 折扣力度同样不小&lt;br/&gt;
 </description>
     </item>
     <item>
+      <title>什么时候老人身份是插队者的挡箭牌？？</title>
+      <link>https://www.v2ex.com/t/1203803</link>
+      <guid>v2ex-1203803</guid>
+      <pubDate>Mon, 06 Apr 2026 08:10:20 GMT</pubDate>
+      <description>清明玩耍排队，被一老头儿横插一脚，还有其余插队者骂缩回去了&lt;br /&gt;就一老头儿豪横的就插，大声的不让位置，没招儿&lt;br /&gt;&lt;br /&gt;第二次家人过来了，死杠不让，开始吵起来了&lt;br /&gt;旁观者还想让年轻人让让，教养，没素质等等&lt;br /&gt;把劝让的旁观者也骂了一遍&lt;br /&gt;家人略微身体抗造，没让老头儿插进来&lt;br /&gt;就是不让，事后没注意手破皮受了点小伤&lt;br /&gt;&lt;br /&gt;复盘：老人无法选中吗？&lt;br /&gt;旁观者被插可以沉默，但为什么还让年轻人退？&lt;br /&gt;嗓子骂的有点冒火，又尖又细，真想炸了这园区啊</description>
+    </item>
+    <item>
       <title>App Store 一大波 App 更新显示一模一样的文案：此次的 Apple 更新将会改善该 App 的功能。未包括任何新功能。</title>
       <link>https://www.v2ex.com/t/1203723</link>
       <guid>v2ex-1203723</guid>
@@ -98,13 +105,6 @@ CDN 、网络类产品正在走流程 折扣力度同样不小&lt;br/&gt;
 &lt;p&gt;家里也是动态 ip ，同样 ddns ，wol 唤醒游戏电脑，moonlight 串流打游戏。（之前公司串家里，玩星际 2 不卡，基本无感）&lt;/p&gt;
 &lt;p&gt;我以前没用过 mac ，大家提提建议&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>用 Rust + WASM + WebGL2 做了个实时 3D 航班追踪器，浏览器里跑 1 万架飞机 60fps</title>
-      <link>https://www.v2ex.com/t/1203750</link>
-      <guid>v2ex-1203750</guid>
-      <pubDate>Sun, 05 Apr 2026 23:41:17 GMT</pubDate>
-      <description>做了个副项目 Flight-Viz （ &lt;a target=&quot;_blank&quot; href=&quot;https://flight-viz.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://flight-viz.com&lt;/a&gt; ），在浏览器里用 3D 地球实时显示全球航班。整个项目用 Rust 编译成 WebAssembly ，渲染层是原生 WebGL2 着色器，没有用任何 JS 框架。&lt;br /&gt;&lt;br /&gt;前两天发到了 Reddit r/webdev （ &lt;a target=&quot;_blank&quot; href=&quot;https://www.reddit.com/r/webdev/comments/1sbnhvm/i_built_a_realtime_flight_tracker_with_rust/）冲到了版块第一，评论区反响不错。Hacker&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.reddit.com/r/webdev/comments/1sbnhvm/i_built_a_realtime_flight_tracker_with_rust/）冲到了版块第一，评论区反响不错。Hacker&lt;/a&gt; News 上也进了当天前十（ &lt;a target=&quot;_blank&quot; href=&quot;https://news.ycombinator.com/item?id=47603966&quot; rel=&quot;nofollow noopener&quot;&gt;https://news.ycombinator.com/item?id=47603966&lt;/a&gt; ）。来 V2EX 也分享一下。&lt;br /&gt;&lt;br /&gt;技术细节：&lt;br /&gt;&lt;br /&gt;SDF 飞机图标：5 种不同的飞机形状（客机、货机、螺旋桨、直升机、军机）全部在片段着色器里用有符号距离场画的，完全不用贴图。单次 glDrawArraysInstanced 渲染 1 万+ 飞机。&lt;br /&gt;&lt;br /&gt;飞机分类：OpenSky 不返回机型信息，所以根据呼号来判断——三字母 ICAO 代码+数字是客机，FDX/UPS 是货机，N 开头是私人螺旋桨飞机，RCH/EVAC 是军机。&lt;br /&gt;&lt;br /&gt;平滑移动：数据每 2 分钟更新一次，中间用线性插值让飞机持续移动。插值结束后用航向+速度做外推，飞机不会卡住。&lt;br /&gt;&lt;br /&gt;FlightRadar24 补充数据：OpenSky 大概覆盖 6000-10000 架飞机。搜索不在 OpenSky 里的航班时会按需从 FR24 拉取实时坐标，通过 Cloudflare Workers 代理。&lt;br /&gt;&lt;br /&gt;机场信息牌：点击机场能看到类似真实机场 FIDS 的出发/到达信息牌，深蓝色背景，有登机口、延误信息。还能搜索任意航班号查看时刻表。&lt;br /&gt;&lt;br /&gt;技术栈：Rust/WASM (Trunk) + egui + glow/WebGL2 + 自写 GLSL 着色器 + OpenSky + FR24 + Cloudflare Workers + nginx/$5 VPS 。WASM 二进制约 4MB gzip 。&lt;br /&gt;&lt;br /&gt;在线体验： &lt;a target=&quot;_blank&quot; href=&quot;https://flight-viz.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://flight-viz.com&lt;/a&gt;&lt;br /&gt;技术博客： &lt;a target=&quot;_blank&quot; href=&quot;https://dev.to/hao_jiang_c21b032bd6fbcfa/how-i-render-10000-live-aircraft-at-60fps-in-the-browser-with-rust-wasm-and-raw-webgl2-4360&quot; rel=&quot;nofollow noopener&quot;&gt;https://dev.to/hao_jiang_c21b032bd6fbcfa/how-i-render-10000-live-aircraft-at-60fps-in-the-browser-with-rust-wasm-and-raw-webgl2-4360&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;欢迎试用，有问题随时问！</description>
     </item>
   </channel>
 </rss>
