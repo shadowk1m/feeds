@@ -4,17 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 09 Apr 2026 01:23:59 GMT</lastBuildDate>
-    <item>
-      <title>空投谁要？留下你的地址</title>
-      <link>https://www.v2ex.com/t/1204218</link>
-      <guid>v2ex-1204218</guid>
-      <pubDate>Wed, 08 Apr 2026 02:19:32 GMT</pubDate>
-      <description>&lt;p&gt;今晚 10 点 统一发放。发放币名称 Lucky Buyback 。
-缩写 LBB&lt;/p&gt;
-&lt;p&gt;留下你的地址吧&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 04:06:44 GMT</lastBuildDate>
     <item>
       <title>亲爹瞒着我给继子买房，现在又要给他攒 30 万，我很难受，是我太贪了吗。</title>
       <link>https://www.v2ex.com/t/1204330</link>
@@ -26,93 +16,6 @@
 ·我爸和继母为了面子，花了整整 50 万把老家房子重建了（很偏僻的小乡镇），这其中我也出资了 3 万块，而且继母自己拿家里共同财产全款买了一辆 15 万的车。
 ·我不否认家里对我也有支持，19 年到 22 年我经历了考研失败和短暂工作，这期间家里帮我还了每月三千多的房贷，还出了一万多的培训费和几个月生活费，不过考研期间的很多其他费用其实是我爷爷负担的，从 22 年我上班后房贷生活费就是我自己承担了。
 ·真正让我彻底爆发的导火索是，我现在准备结婚，家里表态给我 20 万结婚外加 10 万买车钱，但这 10 万其实是我爷爷给的，并不是他们出的。拿完这笔钱后家里给我交了底，说他们接下来的任务是要给继母的那个亲生儿子攒二三十万的安家费。我现在心里极度不平衡甚至想大闹一场，我的愤怒不在于他们不给我钱，而是我亲爸作为一个体制内有稳定收入的人，心甘情愿把家庭共同财产去倒贴给一个抚养权都不在自己这边的外人。他们觉得给我出了首付、还了三年房贷、又给了结婚钱，已经对得起我了，所以后续的几十万理所应当该给继子留着，但我看着那套烂在手里逼我背债的破房子，再想到我爸用工资给别人的儿子兜底 30 万，我真的咽不下这口气。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>近期免费的 opus 渠道</title>
-      <link>https://www.v2ex.com/t/1204217</link>
-      <guid>v2ex-1204217</guid>
-      <pubDate>Wed, 08 Apr 2026 02:17:18 GMT</pubDate>
-      <description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Replit&lt;/strong&gt;：量大管饱，有大佬已经放焚决了，可以邮箱注册，1 个号是 5 刀的额度，但是如果你免费绑个卡搞会员，然后再撤掉会员，那么就是 120 刀 x2=240 刀的额度。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Anything&lt;/strong&gt;：开个注册机就能批量刷免费号，基本对于邮箱后缀没有要求，然后再叠加 2api 的软件，也是好用的，就是慢一点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Accio&lt;/strong&gt;：有额度，但是注册似乎有点困难了，对于 代理线路、邮箱后缀等都要求好严，基本就是注册机碰运气，而且还经常封号，我本地处于别注册别封号的状态，基本能维持可用，属于保底方案了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;免费白嫖 Claude 模型教程，3 分钟就能用&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;注册
-打开 &lt;a href=&quot;https://replit.com/&quot; rel=&quot;nofollow&quot;&gt;Replit&lt;/a&gt; 注册账号，选择 免费计划。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;输入 Prompt
-在首页输入下面的 Prompt ，按提示继续操作。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;目标：在 Replit pnpm monorepo 中建立 OpenAI 兼容反代 API 并发布。
-
- [环境准备] 
-1. 在 Replit Integrations 中添加 OpenAI 和 Anthropic AI 集成
-2. 设置 Secret：PROXY_API_KEY （任意字符串，作为 Bearer Token ）、SESSION_SECRET
-
- [ API Server 修改] 
-文件：artifacts/api-server/src/routes/proxy.ts
-- 创建 GET /v1/models ，返回模型列表（ gpt-5.2, gpt-5-mini, gpt-5-nano, o4-mini, o3, claude-opus-4-6, claude-sonnet-4-6, claude-haiku-4-5 ）
-- 创建 POST /v1/chat/completions：
-  - 验证 Authorization: Bearer ${PROXY_API_KEY}，失败返回 401
-  - 按 model 前缀分发：gpt/o 开头→OpenAI client ，claude 开头→Anthropic client
-  - Anthropic 需转换格式：提取 system 消息，messages 只保留 user/assistant
-  - 支持 stream=true：设置 Content-Type: text/event-stream ，X-Accel-Buffering: no ，res.flushHeaders()
-  - OpenAI 流：直接透传 chunk ，每块 res.flush()
-  - Anthropic 流：将 content_block_delta 转为 OpenAI chunk 格式，每块 res.flush()
-  - 每 5 秒发送 keepalive (&quot;: keepalive\n\n&quot;)，req.on(&quot;close&quot;) 时 clearInterval ，用 try/finally 防 500
-  - 非流：等待完整响应后返回 OpenAI 格式 JSON
-  - Express body limit 设为 50mb
-
-文件：artifacts/api-server/src/app.ts
-- app.use(&quot;/v1&quot;, proxyRouter)
-
-文件：artifacts/api-server/.replit-artifact/artifact.toml
-- paths 数组加入 &quot;/v1&quot;
-
- [前端门户] 
-用 createArtifact({ artifactType: &quot;react-vite&quot;, slug: &quot;api-portal&quot;, previewPath: &quot;/&quot;, title: &quot;API Portal&quot; }) 创建 artifact
-
-App.tsx 功能：
-- fetch(`${window.location.origin}/api/healthz`) 检测在线状态
-- 展示 Base URL 、/v1/models 、/v1/chat/completions 、API Key 说明
-- 复制按钮
-- CherryStudio 4 步设置指引
-- 模型列表
-- 深色主题
-
- [发布] 
-- 启动两个 workflow：api-server 和 api-portal
-- presentArtifact({ artifactId: &quot;artifacts/api-portal&quot; })
-- suggestDeploy()
-- 发布后域名即为 CherryStudio 的 Base URL
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol&gt;
-&lt;li&gt;填写 API Key
-创建过程中会弹出窗口，让你填写 &lt;strong&gt;API Key&lt;/strong&gt;。
-这个 Key 需要自己创建，并且一定要保存好，后面不会再显示。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://picui.ogmua.cn/s1/2026/04/05/69d1be711bed9.webp&quot;/&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;获取地址
-创建完成后，会显示一个接口地址，例如：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;https://xxx--username.replit.app
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;code&gt;Base URL&lt;/code&gt;：上面的地址
-&lt;code&gt;API Key&lt;/code&gt;：你刚才填写的那个 Key&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -139,20 +42,52 @@ App.tsx 功能：
       <description>小孩 7 个月大，丈母娘帮忙带。小孩喝奶的时候，排气孔没压好，丈母娘喂奶时发现孩子衣服湿了，就让我去拿一件刚洗晒了没多久的衣服。孩子妈当时在给小孩做辅食。我把衣服拿过来摸了一下，发现袖子还没干，就说拿回去再晾一下。结果孩子妈一下子就急了，冲我一顿输出，说我拿个衣服都拿不明白，整天磨磨唧唧的，小孩马上要冻着了。态度非常不好，急头白脸，一脸嫌弃的样子。  &lt;br /&gt;&lt;br /&gt;  其实中午气温有 24 度多，根本不冷，她手上的辅食放一放自己去拿也行。我不过就是把没干的衣服拿回去继续晾，再去拿一件干的而已。但类似这种小事她也会发火，只要没按她的心意来，就容易爆发。每次我都选择沉默，不吭声，自己消化她带给我的负面情绪，憋在心里。时间久了，我现在都有点不太想回家了。  &lt;br /&gt;  &lt;br /&gt;想问问已婚有小孩的家庭，都像我这样吗？有没有什么办法能改变现状？</description>
     </item>
     <item>
-      <title>人的想法都是屁股决定脑袋</title>
-      <link>https://www.v2ex.com/t/1204196</link>
-      <guid>v2ex-1204196</guid>
-      <pubDate>Wed, 08 Apr 2026 01:30:36 GMT</pubDate>
-      <description>自己是小孩的时候说父母禁锢自己思想，到了自己有小孩也会禁锢小孩思想&lt;br /&gt;&lt;br /&gt;楼上装修骂别人吵，自己装修就是最重要的（这个不是说 V 友，是我在🍅上一个评论，被人骂了很多，也有很多赞）&lt;br /&gt;&lt;br /&gt;楼上有噪声说楼上吵闹，要震楼器报复，自己吵闹说楼下神经衰弱&lt;br /&gt;&lt;br /&gt;打工的时候讨厌加班、KPI 、汇报，当 leader 了主动压进度、要结果、要可控性&lt;br /&gt;&lt;br /&gt;是租客了嫌房租贵、限制多，是房东了怕损耗、怕违约、各种条款&lt;br /&gt;&lt;br /&gt;使用平台反感审核、限制内容，如果自己是平台必须风控，风控，严格风控，任何一句垃圾话都别想发出来</description>
+      <title>通勤路上被和尚纠缠，应该如何应对？</title>
+      <link>https://www.v2ex.com/t/1204503</link>
+      <guid>v2ex-1204503</guid>
+      <pubDate>Thu, 09 Apr 2026 01:54:09 GMT</pubDate>
+      <description>&lt;p&gt;如题，早上上班时，老远有个和尚过来说是化缘，让我给他买米。&lt;/p&gt;
+&lt;p&gt;可是上班马上迟到，我没有时间，也一直在给他解释。&lt;/p&gt;
+&lt;p&gt;对方仍然不依不饶，我提出给他转钱他不要，我说加微信等我下班，也不行，跟了我大概 150 米。
+即将路过一家超市门口时，他拦住我，说这里就行，直接转钱买点就可以。&lt;/p&gt;
+&lt;p&gt;但是我确实没有时间了，路边很多人坐着乘凉，让他重新问下他人也不答应，非要揪着我。&lt;/p&gt;
+&lt;p&gt;最后让我转钱，我没搭理，快步走开，他在我身后人群中吼了几句“你这人真的是，没救了，你这个人怎么这样啊”，感觉很不舒服。想找他理论，刚回头，他就行了一礼说“阿弥陀佛”，无法选中啊。&lt;/p&gt;
+&lt;p&gt;实在是着急上班（迟到一分钟就是扣半天工资），就赶紧离开了。&lt;/p&gt;
+&lt;p&gt;后续遇见这种情况应该如何处理？心里感觉很不是滋味。&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>公司要开 AI 分享会，求一些 idea</title>
-      <link>https://www.v2ex.com/t/1204230</link>
-      <guid>v2ex-1204230</guid>
-      <pubDate>Wed, 08 Apr 2026 02:44:19 GMT</pubDate>
-      <description>&lt;p&gt;公司目前每周五随机抽三个人分享 ai 的使用与发现 or 工具使用教程。
-目前情况就是，大部分能讲的都讲了，而且讲的越来越卷，能讲的内容越来越少。
-求一些写代码和开发的比较新的，高大上的 ai 类的分享 idea 。&lt;/p&gt;
+      <title>周杰伦抄袭,我天唯一无黑点的歌手也塌房了</title>
+      <link>https://www.v2ex.com/t/1204378</link>
+      <guid>v2ex-1204378</guid>
+      <pubDate>Wed, 08 Apr 2026 09:15:57 GMT</pubDate>
+      <description>&lt;p&gt;从小到大,从小学到大学粉了他很多年&lt;/p&gt;
+&lt;p&gt;哎😔&lt;/p&gt;
+&lt;p&gt;抖音上现在正在炎上&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>来一起讨论一下，你选择生育的理由是什么？</title>
+      <link>https://www.v2ex.com/t/1204483</link>
+      <guid>v2ex-1204483</guid>
+      <pubDate>Thu, 09 Apr 2026 00:53:02 GMT</pubDate>
+      <description>&lt;p&gt;首先，个人非厌童，非丁克，娃这种生物虽然可爱，但是想到要负责培养一个“人”，对于我来说挑战性还是太高了。所以想知道你们选择生育，成为父母的理由是什么呢？是缘分到了，还是年龄到了，或者想过一种新的体验，又或者是迫于长辈的压力？&lt;/p&gt;
+&lt;p&gt;本帖只讨论生育，不讨论丁克，不婚，不育。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>咱们这一辈，真可能是最后一代人类程序员了！</title>
+      <link>https://www.v2ex.com/t/1204310</link>
+      <guid>v2ex-1204310</guid>
+      <pubDate>Wed, 08 Apr 2026 06:25:05 GMT</pubDate>
+      <description>Claude Mythos vs Claude Opus 4.6&lt;br /&gt;&lt;br /&gt;SWE-bench Verifed:93.9%  --  80.8%&lt;br /&gt;SWE-bench Pro:77.8% -- 53.4%&lt;br /&gt;SWE-bench-Multilingual:87.3% -- 77.8%&lt;br /&gt;SWE-benchMultimodal:59% -- 27.1%&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf&quot; rel=&quot;nofollow noopener&quot;&gt;https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>大家来说一个自己独特的癖好吧！</title>
+      <link>https://www.v2ex.com/t/1204499</link>
+      <guid>v2ex-1204499</guid>
+      <pubDate>Thu, 09 Apr 2026 01:43:52 GMT</pubDate>
+      <description>&lt;p&gt;独特癖好，比如喜欢闻&lt;strong&gt;消毒水&lt;/strong&gt;味儿。&lt;/p&gt;
 </description>
     </item>
   </channel>
