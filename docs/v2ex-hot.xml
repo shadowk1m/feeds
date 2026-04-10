@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 10 Apr 2026 05:52:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:14:32 GMT</lastBuildDate>
     <item>
       <title>新 codex 站点上线，纯 plus 号池，比买 plus 月卡还划算</title>
       <link>https://www.v2ex.com/t/1204632</link>
@@ -31,6 +31,15 @@
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/RAsaPvE.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RAsaPvE.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/izw537i.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/izw537i.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;从第一代 SU7 就想买了，快两年了，梦想成真了！</description>
     </item>
     <item>
+      <title>你的 SBTI 是什么？</title>
+      <link>https://www.v2ex.com/t/1204785</link>
+      <guid>v2ex-1204785</guid>
+      <pubDate>Fri, 10 Apr 2026 01:33:11 GMT</pubDate>
+      <description>&lt;p&gt;这两天 sbti 很火，在 &lt;a href=&quot;https://www.sbti.cam/&quot; rel=&quot;nofollow&quot;&gt;https://www.sbti.cam/&lt;/a&gt; 测了一下，发现我是尤物
+我还以为我是屌丝呢。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>今年 28 岁，我应该为婚姻而焦虑吗？</title>
       <link>https://www.v2ex.com/t/1204642</link>
       <guid>v2ex-1204642</guid>
@@ -44,12 +53,11 @@
 </description>
     </item>
     <item>
-      <title>你的 SBTI 是什么？</title>
-      <link>https://www.v2ex.com/t/1204785</link>
-      <guid>v2ex-1204785</guid>
-      <pubDate>Fri, 10 Apr 2026 01:33:11 GMT</pubDate>
-      <description>&lt;p&gt;这两天 sbti 很火，在 &lt;a href=&quot;https://www.sbti.cam/&quot; rel=&quot;nofollow&quot;&gt;https://www.sbti.cam/&lt;/a&gt; 测了一下，发现我是尤物
-我还以为我是屌丝呢。&lt;/p&gt;
+      <title>看中了蔚来 ET5T 的电车， 75 度租电，大家觉得如何</title>
+      <link>https://www.v2ex.com/t/1204799</link>
+      <guid>v2ex-1204799</guid>
+      <pubDate>Fri, 10 Apr 2026 02:07:55 GMT</pubDate>
+      <description>&lt;p&gt;看中了蔚来 ET5T ，大家有没有什么建议？或者有什么其他车型推荐，因为租电 19w 左右嘛，然后其实算下来应该比油车便宜，哪怕租电。。。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -60,12 +68,11 @@
       <description>清明去了趟苏州，可以说老城街上都是高密度的人，更别说山塘古镇这种地方直接爆了&lt;br /&gt;8 年前也是清明也是苏州，人倒是也多，但是绝对没有今年这么夸张&lt;br /&gt;&lt;br /&gt;这几年去国内其他城市也是，明显感觉人更多了，大家有什么头绪吗</description>
     </item>
     <item>
-      <title>看中了蔚来 ET5T 的电车， 75 度租电，大家觉得如何</title>
-      <link>https://www.v2ex.com/t/1204799</link>
-      <guid>v2ex-1204799</guid>
-      <pubDate>Fri, 10 Apr 2026 02:07:55 GMT</pubDate>
-      <description>&lt;p&gt;看中了蔚来 ET5T ，大家有没有什么建议？或者有什么其他车型推荐，因为租电 19w 左右嘛，然后其实算下来应该比油车便宜，哪怕租电。。。&lt;/p&gt;
-</description>
+      <title>大家觉得 gemini 和 gpt 哪个好用？</title>
+      <link>https://www.v2ex.com/t/1204772</link>
+      <guid>v2ex-1204772</guid>
+      <pubDate>Fri, 10 Apr 2026 00:34:47 GMT</pubDate>
+      <description>最近个人感觉很多时候感觉还是 gpt 会戳中要害一点。&lt;br /&gt;各位用下来，对比如何。</description>
     </item>
     <item>
       <title>怎么看待公司强制使用 AI？</title>
@@ -75,11 +82,11 @@
       <description>背景：后端 Java 开发，目前我使用 AI 的方式是，接口设计和整体框架还是我来，复杂的部分自己写，碰到一些比较机械的实现或者不知道怎么写的时候，跟 Claude Code 和 Copilot 描述，让它们帮我写然后检查一遍（简单的方法也会直接让它们写）。单测全让 AI 写。&lt;br /&gt;&lt;br /&gt;公司现状：不给 API KEY ，不给报销，纯自费，但是极力鼓吹 AI 。用 OpenSpec ，基本全靠人机交互整理出设计文档。&lt;a target=&quot;_blank&quot; href=&quot;http://AGENTS.md&quot; rel=&quot;nofollow noopener&quot;&gt;AGENTS.md&lt;/a&gt; 文档做全局规范，强制用 DDD 模式，业务全写在 Entity 里。裁员，人人全栈，包括测试。压缩工时。&lt;br /&gt;&lt;br /&gt;我现在的态度是，只要我没有影响进度和效率，我用不用 AI 怎么用 AI 那是我的事情。如果你要强制我用 AI ，那请你花钱给我免费的。更别说让 AI 统一架构，全靠人机交互的事情了，从拿到需求开始到改完 bug 上线，没有一行是自己写的。&lt;br /&gt;&lt;br /&gt;我自认为已经不能算是古法编程了吧，但还是感觉发展太快了，就像我能接受一只手变成机械手，但还是接受不了整个人变成机器人。现在让我全靠和 AI 对话来完成，我的第一反应是心里没底，不知道它实现的对不对。第二反应是害怕，关键是它还真能实现，有种不知道未来怎么走的空落感。大家是怎么看的？</description>
     </item>
     <item>
-      <title>大家觉得 gemini 和 gpt 哪个好用？</title>
-      <link>https://www.v2ex.com/t/1204772</link>
-      <guid>v2ex-1204772</guid>
-      <pubDate>Fri, 10 Apr 2026 00:34:47 GMT</pubDate>
-      <description>最近个人感觉很多时候感觉还是 gpt 会戳中要害一点。&lt;br /&gt;各位用下来，对比如何。</description>
+      <title>湿了，兄弟们难顶呀，这两天你的梯子还好吗？</title>
+      <link>https://www.v2ex.com/t/1204733</link>
+      <guid>v2ex-1204733</guid>
+      <pubDate>Thu, 09 Apr 2026 15:18:29 GMT</pubDate>
+      <description>梯子大面积挂一直用的飞鸟 VPN 。结果公告说最近严查要推荐使用官方客户端，巨难用。今天换了一家 VPN 也是同样如此，clash verge mac ，很多连导入都成问题，原来的订阅也刷新不了。哪位大佬推荐稳定且实惠的梯子我用用。</description>
     </item>
     <item>
       <title>Codex 改为 Token 计费了...</title>
@@ -92,22 +99,6 @@ Note: As of April 2, 2026, we’ve updated Codex pricing to align with API token
 留意下用量吧...（别忘了目前是临时的双倍流量）&lt;br/&gt;
 Plus 的 5 小时用量也将被调整。&lt;br/&gt;
 睡醒觉后 plus 用户的天塌了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>SBTI 火了，感觉大家现在真的很需要这种“帮自己说句话”的测试</title>
-      <link>https://www.v2ex.com/t/1204770</link>
-      <guid>v2ex-1204770</guid>
-      <pubDate>Fri, 10 Apr 2026 00:11:40 GMT</pubDate>
-      <description>&lt;p&gt;昨天今天一直刷到 SBTI 。
-我越看越觉得，这类东西火起来，不一定是因为大家多相信测试本身，而是因为很多人现在都挺需要一种低成本的表达方式。&lt;/p&gt;
-&lt;p&gt;题目不长，做起来没压力；
-结果出来得快，文案也比较有梗；
-最关键的是，它给了人一个机会，把一些本来不好直接说出口的情绪，换一种更轻松的方式发出来。&lt;/p&gt;
-&lt;p&gt;某种程度上，大家测的可能不是“我到底是什么类型”，
-而是“有没有一个东西，能替我把我现在这状态说出来”。&lt;/p&gt;
-&lt;p&gt;点击 &lt;a href=&quot;https://sbtitest.co/&quot; rel=&quot;nofollow&quot;&gt;https://sbtitest.co/&lt;/a&gt; 进去就能测。&lt;/p&gt;
-&lt;p&gt;SBTI 这波火，共鸣感导致的裂变很明显。&lt;/p&gt;
 </description>
     </item>
   </channel>
