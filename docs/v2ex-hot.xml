@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 10 Apr 2026 10:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 10:58:38 GMT</lastBuildDate>
     <item>
       <title>你的 SBTI 是什么？</title>
       <link>https://www.v2ex.com/t/1204785</link>
@@ -78,11 +78,20 @@
       <description>最近个人感觉很多时候感觉还是 gpt 会戳中要害一点。&lt;br /&gt;各位用下来，对比如何。</description>
     </item>
     <item>
-      <title>怎么看待公司强制使用 AI？</title>
-      <link>https://www.v2ex.com/t/1204686</link>
-      <guid>v2ex-1204686</guid>
-      <pubDate>Thu, 09 Apr 2026 10:01:01 GMT</pubDate>
-      <description>背景：后端 Java 开发，目前我使用 AI 的方式是，接口设计和整体框架还是我来，复杂的部分自己写，碰到一些比较机械的实现或者不知道怎么写的时候，跟 Claude Code 和 Copilot 描述，让它们帮我写然后检查一遍（简单的方法也会直接让它们写）。单测全让 AI 写。&lt;br /&gt;&lt;br /&gt;公司现状：不给 API KEY ，不给报销，纯自费，但是极力鼓吹 AI 。用 OpenSpec ，基本全靠人机交互整理出设计文档。&lt;a target=&quot;_blank&quot; href=&quot;http://AGENTS.md&quot; rel=&quot;nofollow noopener&quot;&gt;AGENTS.md&lt;/a&gt; 文档做全局规范，强制用 DDD 模式，业务全写在 Entity 里。裁员，人人全栈，包括测试。压缩工时。&lt;br /&gt;&lt;br /&gt;我现在的态度是，只要我没有影响进度和效率，我用不用 AI 怎么用 AI 那是我的事情。如果你要强制我用 AI ，那请你花钱给我免费的。更别说让 AI 统一架构，全靠人机交互的事情了，从拿到需求开始到改完 bug 上线，没有一行是自己写的。&lt;br /&gt;&lt;br /&gt;我自认为已经不能算是古法编程了吧，但还是感觉发展太快了，就像我能接受一只手变成机械手，但还是接受不了整个人变成机器人。现在让我全靠和 AI 对话来完成，我的第一反应是心里没底，不知道它实现的对不对。第二反应是害怕，关键是它还真能实现，有种不知道未来怎么走的空落感。大家是怎么看的？</description>
+      <title>2026 年了，安卓、鸿蒙项目路径居然还是要求不能有中文</title>
+      <link>https://www.v2ex.com/t/1204805</link>
+      <guid>v2ex-1204805</guid>
+      <pubDate>Fri, 10 Apr 2026 02:35:35 GMT</pubDate>
+      <description>&lt;p&gt;很早之前蜻蜓点水接触过一点安卓，还不知道这一点，最近要下载同事的鸿蒙代码测试，才发现这个问题，作为一个习惯了 iOS 开发的人，表示匪夷所思&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>AI 的出现，是否让资本主义走向了终局</title>
+      <link>https://www.v2ex.com/t/1204835</link>
+      <guid>v2ex-1204835</guid>
+      <pubDate>Fri, 10 Apr 2026 03:56:25 GMT</pubDate>
+      <description>&lt;p&gt;是否验证了共产主义才是出路&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>SBTI 火了，感觉大家现在真的很需要这种“帮自己说句话”的测试</title>
@@ -98,14 +107,6 @@
 而是“有没有一个东西，能替我把我现在这状态说出来”。&lt;/p&gt;
 &lt;p&gt;点击 &lt;a href=&quot;https://sbtitest.co/&quot; rel=&quot;nofollow&quot;&gt;https://sbtitest.co/&lt;/a&gt; 进去就能测。&lt;/p&gt;
 &lt;p&gt;SBTI 这波火，共鸣感导致的裂变很明显。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>2026 年了，安卓、鸿蒙项目路径居然还是要求不能有中文</title>
-      <link>https://www.v2ex.com/t/1204805</link>
-      <guid>v2ex-1204805</guid>
-      <pubDate>Fri, 10 Apr 2026 02:35:35 GMT</pubDate>
-      <description>&lt;p&gt;很早之前蜻蜓点水接触过一点安卓，还不知道这一点，最近要下载同事的鸿蒙代码测试，才发现这个问题，作为一个习惯了 iOS 开发的人，表示匪夷所思&lt;/p&gt;
 </description>
     </item>
   </channel>
