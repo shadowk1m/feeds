@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 10 Apr 2026 03:44:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 05:52:29 GMT</lastBuildDate>
     <item>
       <title>新 codex 站点上线，纯 plus 号池，比买 plus 月卡还划算</title>
       <link>https://www.v2ex.com/t/1204632</link>
@@ -53,22 +53,6 @@
 </description>
     </item>
     <item>
-      <title>腰椎间盘突出了，站坐都疼，每天都在焦虑中</title>
-      <link>https://www.v2ex.com/t/1204600</link>
-      <guid>v2ex-1204600</guid>
-      <pubDate>Thu, 09 Apr 2026 05:36:52 GMT</pubDate>
-      <description>&lt;p&gt;去年 10 月前经常徒步出行。国庆期间连续两天高强度爬山徒步。突然感觉腰，还有髋关节剧痛，赶紧结束运动
-去了医院，拍了 CT ，看着没啥大问题。最开始以为是腰肌劳损，直到今年 1 月，有次着凉，腰痛加剧，拍了核磁共振才发现腰突了。去了上海第六人民医院中医科理疗。7 天医保保险前一万多（再次吐槽，中医相关的每次都让人钱包大出血）。然后几乎没有任何作用。现在每天带护腰，焦虑以后还能不能好了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>最近打算购买 17air，有没有朋友购买后的使用体感分享下</title>
-      <link>https://www.v2ex.com/t/1204565</link>
-      <guid>v2ex-1204565</guid>
-      <pubDate>Thu, 09 Apr 2026 03:51:24 GMT</pubDate>
-      <description>实体店看了摄像头、扬声器，感觉也都还能接受。不玩游戏，续航应该可以满足把。我看实体店黑色机器后背有掉漆，天蓝色就没有（不知道是不是不明显）</description>
-    </item>
-    <item>
       <title>明显感觉最近出来旅游的玩的人比以前多，是我的错觉吗</title>
       <link>https://www.v2ex.com/t/1204774</link>
       <guid>v2ex-1204774</guid>
@@ -76,18 +60,54 @@
       <description>清明去了趟苏州，可以说老城街上都是高密度的人，更别说山塘古镇这种地方直接爆了&lt;br /&gt;8 年前也是清明也是苏州，人倒是也多，但是绝对没有今年这么夸张&lt;br /&gt;&lt;br /&gt;这几年去国内其他城市也是，明显感觉人更多了，大家有什么头绪吗</description>
     </item>
     <item>
-      <title>中年人要开始折腾家用网络了，帮忙 review 一下，三方案选一，提出合理的建议</title>
-      <link>https://www.v2ex.com/t/1204608</link>
-      <guid>v2ex-1204608</guid>
-      <pubDate>Thu, 09 Apr 2026 05:47:47 GMT</pubDate>
-      <description>1.N100 单网口（带 wifi ）装飞牛虚拟 openwrt ，USB3.2 拓展出一个网卡，挂运营商的路由器&lt;br /&gt;&lt;br /&gt;2.主网络不变，n100 开热点，家里两个 wifi 区分开&lt;br /&gt;&lt;br /&gt;3.n100 做旁路由，运营商路由器没那么多功能，直接网关指向 n100&lt;br /&gt;&lt;br /&gt;核心需求：&lt;br /&gt;1.把吃灰的 N100 利用起来&lt;br /&gt;2.无感代理家庭网络&lt;br /&gt;3.装 uu 加速器主机插件&lt;br /&gt;&lt;br /&gt;补充问题：后续还打算在书房放个路由器桥接一下，不然过道人一走动就有影响</description>
-    </item>
-    <item>
       <title>看中了蔚来 ET5T 的电车， 75 度租电，大家觉得如何</title>
       <link>https://www.v2ex.com/t/1204799</link>
       <guid>v2ex-1204799</guid>
       <pubDate>Fri, 10 Apr 2026 02:07:55 GMT</pubDate>
       <description>&lt;p&gt;看中了蔚来 ET5T ，大家有没有什么建议？或者有什么其他车型推荐，因为租电 19w 左右嘛，然后其实算下来应该比油车便宜，哪怕租电。。。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>怎么看待公司强制使用 AI？</title>
+      <link>https://www.v2ex.com/t/1204686</link>
+      <guid>v2ex-1204686</guid>
+      <pubDate>Thu, 09 Apr 2026 10:01:01 GMT</pubDate>
+      <description>背景：后端 Java 开发，目前我使用 AI 的方式是，接口设计和整体框架还是我来，复杂的部分自己写，碰到一些比较机械的实现或者不知道怎么写的时候，跟 Claude Code 和 Copilot 描述，让它们帮我写然后检查一遍（简单的方法也会直接让它们写）。单测全让 AI 写。&lt;br /&gt;&lt;br /&gt;公司现状：不给 API KEY ，不给报销，纯自费，但是极力鼓吹 AI 。用 OpenSpec ，基本全靠人机交互整理出设计文档。&lt;a target=&quot;_blank&quot; href=&quot;http://AGENTS.md&quot; rel=&quot;nofollow noopener&quot;&gt;AGENTS.md&lt;/a&gt; 文档做全局规范，强制用 DDD 模式，业务全写在 Entity 里。裁员，人人全栈，包括测试。压缩工时。&lt;br /&gt;&lt;br /&gt;我现在的态度是，只要我没有影响进度和效率，我用不用 AI 怎么用 AI 那是我的事情。如果你要强制我用 AI ，那请你花钱给我免费的。更别说让 AI 统一架构，全靠人机交互的事情了，从拿到需求开始到改完 bug 上线，没有一行是自己写的。&lt;br /&gt;&lt;br /&gt;我自认为已经不能算是古法编程了吧，但还是感觉发展太快了，就像我能接受一只手变成机械手，但还是接受不了整个人变成机器人。现在让我全靠和 AI 对话来完成，我的第一反应是心里没底，不知道它实现的对不对。第二反应是害怕，关键是它还真能实现，有种不知道未来怎么走的空落感。大家是怎么看的？</description>
+    </item>
+    <item>
+      <title>大家觉得 gemini 和 gpt 哪个好用？</title>
+      <link>https://www.v2ex.com/t/1204772</link>
+      <guid>v2ex-1204772</guid>
+      <pubDate>Fri, 10 Apr 2026 00:34:47 GMT</pubDate>
+      <description>最近个人感觉很多时候感觉还是 gpt 会戳中要害一点。&lt;br /&gt;各位用下来，对比如何。</description>
+    </item>
+    <item>
+      <title>Codex 改为 Token 计费了...</title>
+      <link>https://www.v2ex.com/t/1204764</link>
+      <guid>v2ex-1204764</guid>
+      <pubDate>Thu, 09 Apr 2026 23:18:58 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://help.openai.com/en/articles/20001106-codex-rate-card&quot; rel=&quot;nofollow&quot;&gt;Codex rate card&lt;/a&gt;&lt;br/&gt;
+Note: As of April 2, 2026, we’ve updated Codex pricing to align with API token usage, instead of per-message pricing. This change is applicable to &lt;strong&gt;new and existing Plus, Pro&lt;/strong&gt;, ChatGPT Business and new ChatGPT Enterprise plans - please refer to the new rate card in the section below for details.&lt;br/&gt;
+&lt;a href=&quot;https://x.com/OpenAI/status/2042295688323875316&quot; rel=&quot;nofollow&quot; title=&quot;tweet&quot;&gt;推文&lt;/a&gt;&lt;br/&gt;
+留意下用量吧...（别忘了目前是临时的双倍流量）&lt;br/&gt;
+Plus 的 5 小时用量也将被调整。&lt;br/&gt;
+睡醒觉后 plus 用户的天塌了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>SBTI 火了，感觉大家现在真的很需要这种“帮自己说句话”的测试</title>
+      <link>https://www.v2ex.com/t/1204770</link>
+      <guid>v2ex-1204770</guid>
+      <pubDate>Fri, 10 Apr 2026 00:11:40 GMT</pubDate>
+      <description>&lt;p&gt;昨天今天一直刷到 SBTI 。
+我越看越觉得，这类东西火起来，不一定是因为大家多相信测试本身，而是因为很多人现在都挺需要一种低成本的表达方式。&lt;/p&gt;
+&lt;p&gt;题目不长，做起来没压力；
+结果出来得快，文案也比较有梗；
+最关键的是，它给了人一个机会，把一些本来不好直接说出口的情绪，换一种更轻松的方式发出来。&lt;/p&gt;
+&lt;p&gt;某种程度上，大家测的可能不是“我到底是什么类型”，
+而是“有没有一个东西，能替我把我现在这状态说出来”。&lt;/p&gt;
+&lt;p&gt;点击 &lt;a href=&quot;https://sbtitest.co/&quot; rel=&quot;nofollow&quot;&gt;https://sbtitest.co/&lt;/a&gt; 进去就能测。&lt;/p&gt;
+&lt;p&gt;SBTI 这波火，共鸣感导致的裂变很明显。&lt;/p&gt;
 </description>
     </item>
   </channel>
