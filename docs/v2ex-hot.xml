@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 11 Apr 2026 03:57:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 05:23:46 GMT</lastBuildDate>
     <item>
       <title>[V 友专属｜ claude 模型中转站免费送 20 刀 已稳定运行一个月 支持 claude-opus-4-6</title>
       <link>https://www.v2ex.com/t/1204888</link>
@@ -27,6 +27,17 @@
 &lt;p&gt;&lt;strong&gt;🎁 V 友专属福利&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;注册完成后，在本帖留言您的&lt;strong&gt;中转站用户名&lt;/strong&gt;，即赠送价值 &lt;strong&gt;$20&lt;/strong&gt; 的额度！&lt;/p&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    <item>
+      <title>有人用豆包买保险，结果支付到我这里来了</title>
+      <link>https://www.v2ex.com/t/1205029</link>
+      <guid>v2ex-1205029</guid>
+      <pubDate>Fri, 10 Apr 2026 16:05:31 GMT</pubDate>
+      <description>&lt;p&gt;大概情况就是这个人使用询问豆包的方式购买保险，然后豆包编得有模有样还说已经生成订单，然后还生成了一个收款二维码说向这个二维码付款即可, 最终受害人支付了 1620 元后发现看不到保单询问的豆包时，豆包还信誓旦旦说要在今天 24 点后才能出单,所以看不见是正常的, 受害者最终通过收款商家入口联系到了我, 我在咨询支付宝客服后, 客服建议我使用订单的原路退回功能, 这样会安全一些。&lt;/p&gt;
+&lt;p&gt;我怀疑豆包语料库中的二维码来自我的一些开源库或者博客, 之前在这些地方贴过我的收款二维码。&lt;/p&gt;
+&lt;p&gt;这个案例告诉我们国内很多人根本就不知道 AI 的边界在哪里, AI 存在幻觉也不清楚, 连 AI 实际接入了哪些业务也不清楚, 甚至真的相信 AI 给出的建议和方案。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/4l0hrNE.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/jZuNz5p.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -91,17 +102,6 @@
 </description>
     </item>
     <item>
-      <title>有人用豆包买保险，结果支付到我这里来了</title>
-      <link>https://www.v2ex.com/t/1205029</link>
-      <guid>v2ex-1205029</guid>
-      <pubDate>Fri, 10 Apr 2026 16:05:31 GMT</pubDate>
-      <description>&lt;p&gt;大概情况就是这个人使用询问豆包的方式购买保险，然后豆包编得有模有样还说已经生成订单，然后还生成了一个收款二维码说向这个二维码付款即可, 最终受害人支付了 1620 元后发现看不到保单询问的豆包时，豆包还信誓旦旦说要在今天 24 点后才能出单,所以看不见是正常的, 受害者最终通过收款商家入口联系到了我, 我在咨询支付宝客服后, 客服建议我使用订单的原路退回功能, 这样会安全一些。&lt;/p&gt;
-&lt;p&gt;我怀疑豆包语料库中的二维码来自我的一些开源库或者博客, 之前在这些地方贴过我的收款二维码。&lt;/p&gt;
-&lt;p&gt;这个案例告诉我们国内很多人根本就不知道 AI 的边界在哪里, AI 存在幻觉也不清楚, 连 AI 实际接入了哪些业务也不清楚, 甚至真的相信 AI 给出的建议和方案。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/4l0hrNE.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/jZuNz5p.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>有个事想请教： GitHub 上有人用了和我一样的项目名，复刻了一模一样的项目</title>
       <link>https://www.v2ex.com/t/1204945</link>
       <guid>v2ex-1204945</guid>
@@ -140,26 +140,27 @@
 </description>
     </item>
     <item>
-      <title>对于我来说，阿里这家企业已经有诚信问题了</title>
-      <link>https://www.v2ex.com/t/1204840</link>
-      <guid>v2ex-1204840</guid>
-      <pubDate>Fri, 10 Apr 2026 04:14:26 GMT</pubDate>
-      <description>&lt;p&gt;原因如下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;被阿里收购的产品，意味着它即将变成淘宝的入口，或者被放弃关闭。&lt;/li&gt;
-&lt;li&gt;被阿里投资的企业，一些味道都会逐渐变得浓郁，直到完全同化。&lt;/li&gt;
-&lt;li&gt;初期性价比高的产品，绑定用户关系后，会开始恶心用户，直到被用户主动放弃或替换到利润更高的档位。&lt;/li&gt;
-&lt;li&gt;产品初期拉拢客户作出的承诺，在商业化阶段就像放过的屁。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;具体是哪些产品、企业我就不举例了，相信各位心中都有杆称。&lt;/p&gt;
-&lt;p&gt;这就导致了我：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;有喜欢的产品宣布和阿里有了接触，我就会迅速的迁移到同类产品，即使这个产品完成度还差一大截。&lt;/li&gt;
-&lt;li&gt;有认可的企业被阿里投资，我会悲观的认为，它即将在市场消失。&lt;/li&gt;
-&lt;li&gt;现在阿里出的新产品，完全不想碰，免费尝试一下都不愿意。&lt;/li&gt;
-&lt;li&gt;只有一个例外：除了阿里仅剩百度在这个行业，那我还是继续用阿里的吧。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;对于创业者来说，被阿里投资绝对是好事，意味着自己可以功成身退，拿钱走人。对于我来说，又多了一个淘宝。&lt;/p&gt;
+      <title>我好像造出来了印钞机</title>
+      <link>https://www.v2ex.com/t/1204970</link>
+      <guid>v2ex-1204970</guid>
+      <pubDate>Fri, 10 Apr 2026 09:33:39 GMT</pubDate>
+      <description>&lt;p&gt;最近一直在潜心研究加密货币量化，尝试过几百个方向，全部失败了。&lt;/p&gt;
+&lt;p&gt;但是最终炼丹出来了 2 个策略：其中 1 个回测平均年化在 120%以上，回撤不超过 18%，感觉可以财富自由了。打算用 1 万美金先实盘跑半年看看。&lt;/p&gt;
+&lt;p&gt;说一下我探索的心得：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;越是赌徒多的市场，越适合量化，关键在于如何捕捉赌徒的群体性行为&lt;/li&gt;
+&lt;li&gt;纯数学的方式进行因子挖掘没戏，所有的因子，一定要有解释机制，要不然因子一定是假的&lt;/li&gt;
+&lt;li&gt;个人量化不要想着做高频，不要想着做 BTC/ETH ，这里面全都是机构，个人斗不过他们&lt;/li&gt;
+&lt;li&gt;还是那句话，哪里的散户多，哪里的赌徒多，就去哪里发掘因子，因子就藏在赌徒的非理性行为中&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>质谱 GLM5.1 根本没法玩了</title>
+      <link>https://www.v2ex.com/t/1204899</link>
+      <guid>v2ex-1204899</guid>
+      <pubDate>Fri, 10 Apr 2026 06:52:08 GMT</pubDate>
+      <description>&lt;p&gt;一下午都在&quot;该模型当前访问量过大，请您稍后再试&quot;, 完全没法用&lt;/p&gt;
 </description>
     </item>
   </channel>
