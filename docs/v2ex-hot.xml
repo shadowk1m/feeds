@@ -4,31 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 11 Apr 2026 05:23:46 GMT</lastBuildDate>
-    <item>
-      <title>[V 友专属｜ claude 模型中转站免费送 20 刀 已稳定运行一个月 支持 claude-opus-4-6</title>
-      <link>https://www.v2ex.com/t/1204888</link>
-      <guid>v2ex-1204888</guid>
-      <pubDate>Fri, 10 Apr 2026 06:22:01 GMT</pubDate>
-      <description>&lt;h3&gt;🚀 MEAI 中转站服务&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;🌐 地址：&lt;/strong&gt; &lt;a href=&quot;https://api.meai.cloud&quot; rel=&quot;nofollow&quot;&gt;https://api.meai.cloud&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;✨ 主打模型：&lt;/strong&gt; &lt;code&gt;claude-opus-4.6&lt;/code&gt; | &lt;code&gt;claude-sonnet-4.6&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;⚡️ 更多模型：&lt;/strong&gt; &lt;code&gt;glm-5.1&lt;/code&gt; · &lt;code&gt;gemini-3-flash&lt;/code&gt; · &lt;code&gt;deepseek-v3.2&lt;/code&gt; · &lt;code&gt;minimax-m2.7&lt;/code&gt; · &lt;code&gt;qwen3.5&lt;/code&gt; · &lt;code&gt;qwen3-coder-plus&lt;/code&gt; · &lt;code&gt;kimi-k2.5&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;🎁 V 友专属福利&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;注册完成后，在本帖留言您的&lt;strong&gt;中转站用户名&lt;/strong&gt;，即赠送价值 &lt;strong&gt;$20&lt;/strong&gt; 的额度！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 06:35:35 GMT</lastBuildDate>
     <item>
       <title>有人用豆包买保险，结果支付到我这里来了</title>
       <link>https://www.v2ex.com/t/1205029</link>
@@ -137,6 +113,37 @@
       <guid>v2ex-1204920</guid>
       <pubDate>Fri, 10 Apr 2026 07:54:53 GMT</pubDate>
       <description>&lt;p&gt;之前一直把 Xcode 读作 cha code 。所以现在读 code cha&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>好奇问一下：为什么很多国人开源项目，第一语言还是英文？</title>
+      <link>https://www.v2ex.com/t/1205084</link>
+      <guid>v2ex-1205084</guid>
+      <pubDate>Sat, 11 Apr 2026 04:20:24 GMT</pubDate>
+      <description>&lt;p&gt;经常在 GitHub 上看到一些国内开发者做的项目：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;README 是英文&lt;/li&gt;
+&lt;li&gt;UI 界面默认英文&lt;/li&gt;
+&lt;li&gt;文档也是英文优先，之后再补充中文或其他语言&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;纯好奇，没有抬杠的意思。都 2026 年了，中文开发者群体已经非常大，技术社区和文档生态也比几年前成熟很多。&lt;/p&gt;
+&lt;p&gt;我想知道主要是什么原因，让大家习惯把英文放在第一位？&lt;/p&gt;
+&lt;p&gt;我能想到一些可能的原因，但不确定哪个是主流：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;国际化考虑&lt;/strong&gt; – 方便海外用户使用，也更容易在 Hacker News 等国际社区推广&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;协作习惯&lt;/strong&gt; – 希望吸引全球开发者提 Issue 或 PR ，英文 README 是一个默认信号&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术模板惯性&lt;/strong&gt; – 很多开源脚手架默认就是英文 README ，顺手就用了&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;语言习惯&lt;/strong&gt; – 代码注释、变量名都是英文，文档跟着用英文写更自然&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;避免误解&lt;/strong&gt; – 担心一上来就用中文，会被默认认为“只服务中文用户”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;也有人说是因为“英文显得更专业”，但我不太确定这个因素现在还占多大比重。&lt;/p&gt;
+&lt;p&gt;真心想听真实开发者的想法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你如果也是这样做的，主要原因是什么？&lt;/li&gt;
+&lt;li&gt;有没有哪一刻觉得“其实中文优先也行”？&lt;/li&gt;
+&lt;li&gt;或者反过来，有没有因为英文优先，确实带来了实际的贡献或用户？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不吵架，就是想了解一下背后的真实逻辑。谢谢。&lt;/p&gt;
 </description>
     </item>
     <item>
