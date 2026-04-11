@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 10 Apr 2026 23:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 01:16:45 GMT</lastBuildDate>
     <item>
       <title>[V 友专属｜ claude 模型中转站免费送 20 刀 已稳定运行一个月 支持 claude-opus-4-6</title>
       <link>https://www.v2ex.com/t/1204888</link>
@@ -55,13 +55,6 @@
 回想起来我和爷爷其实不亲近，特别是上初中后更加生疏。平时也是传统节假日回乡下祭拜才会见面，上大学后老爸让我偶尔打个电话给爷爷，我打了之后除了问候身体也没有其它话题。
 昨晚老妈打电话跟我说了，让我下周或者没什么事就早点回去（年前离职到现在还在面试找工作）。我其实确实好像没有很难过，只是第一次这么近距离接触死亡，还有我想我爸会是怎样的难过。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>明显感觉最近出来旅游的玩的人比以前多，是我的错觉吗</title>
-      <link>https://www.v2ex.com/t/1204774</link>
-      <guid>v2ex-1204774</guid>
-      <pubDate>Fri, 10 Apr 2026 00:50:33 GMT</pubDate>
-      <description>清明去了趟苏州，可以说老城街上都是高密度的人，更别说山塘古镇这种地方直接爆了&lt;br /&gt;8 年前也是清明也是苏州，人倒是也多，但是绝对没有今年这么夸张&lt;br /&gt;&lt;br /&gt;这几年去国内其他城市也是，明显感觉人更多了，大家有什么头绪吗</description>
     </item>
     <item>
       <title>送懒猫微服！送 CodeX 啦！极速内网穿透+AI 编程小主机，出门也能 Vibe Coding</title>
@@ -141,6 +134,26 @@
       <guid>v2ex-1204805</guid>
       <pubDate>Fri, 10 Apr 2026 02:35:35 GMT</pubDate>
       <description>&lt;p&gt;很早之前蜻蜓点水接触过一点安卓，还不知道这一点，最近要下载同事的鸿蒙代码测试，才发现这个问题，作为一个习惯了 iOS 开发的人，表示匪夷所思&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>有个事想请教： GitHub 上有人用了和我一样的项目名，复刻了一模一样的项目</title>
+      <link>https://www.v2ex.com/t/1204945</link>
+      <guid>v2ex-1204945</guid>
+      <pubDate>Fri, 10 Apr 2026 08:30:52 GMT</pubDate>
+      <description>&lt;h2&gt;困境&lt;/h2&gt;
+&lt;p&gt;我的 &lt;a href=&quot;https://github.com/wang93wei/SwiftMTP&quot; rel=&quot;nofollow&quot;&gt;SwiftMTP&lt;/a&gt;这个 vibe 出来的项目，是因为裁员，在家待了 3 个月实在无聊，再加上车票考完了，于去年 12 月突发奇想才着手开发的。&lt;/p&gt;
+&lt;p&gt;一直到 1 月份中旬，一直断断续续在维护。&lt;/p&gt;
+&lt;p&gt;1 月底快过年了，再加上我也想思考一下后续要做成什么样子，跟朋友出门玩了一圈，就停工了。&lt;/p&gt;
+&lt;p&gt;今天在电报上瞎逛，发现有人新开了一个仓库也叫 &lt;a href=&quot;https://github.com/Neighbor-Z/SwiftMTP&quot; rel=&quot;nofollow&quot;&gt;SwiftMTP&lt;/a&gt;，4 月 7 日才创建，在搞推广。&lt;/p&gt;
+&lt;h2&gt;我自己的想法&lt;/h2&gt;
+&lt;p&gt;首先，我自己觉得这个事情很正常，因为我也是 MIT 协议。
+但问题在于，新开的这个是完全自己重写的。没用到我的代码，目前实现的功能基本也都是一致的。&lt;/p&gt;
+&lt;p&gt;我觉得，&lt;strong&gt;原创（ idea ）&lt;/strong&gt; 这个事情很重要，哪怕没用到原始代码。
+致敬一下我的&lt;strong&gt;idea&lt;/strong&gt;也可以啊。&lt;/p&gt;
+&lt;p&gt;不光没致敬，还四处推广也不说明，这就有点过分了。（在某书上也看到有人提到了）&lt;/p&gt;
+&lt;h2&gt;疑问&lt;/h2&gt;
+&lt;p&gt;遇到这种情况该怎么办啊？&lt;/p&gt;
 </description>
     </item>
   </channel>
