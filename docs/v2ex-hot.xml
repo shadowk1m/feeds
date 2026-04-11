@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 11 Apr 2026 10:23:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 10:59:44 GMT</lastBuildDate>
     <item>
       <title>有人用豆包买保险，结果支付到我这里来了</title>
       <link>https://www.v2ex.com/t/1205029</link>
@@ -100,55 +100,20 @@ xhs 上一堆人遇到了同样的问题，国外 reddit 也有很多人讨论�
 </description>
     </item>
     <item>
-      <title>99 美刀的 google one pro 完全不可用了</title>
-      <link>https://www.v2ex.com/t/1205028</link>
-      <guid>v2ex-1205028</guid>
-      <pubDate>Fri, 10 Apr 2026 15:53:17 GMT</pubDate>
-      <description>&lt;p&gt;虽然这个价也不能多说什么，和人拼完车三四百块钱而已。&lt;/p&gt;
-&lt;p&gt;但是现在 Antigravity 额度几乎没有了，最近频频报自己负载高，不愿意干活。&lt;/p&gt;
-&lt;p&gt;然后 gemini cli 自从订购以来觉得不好用，一直也没用过，今天有个活儿想让 gemini 搭把手，结果一问，报这么个错，不知道是谷狗搞幺蛾子，还是我那几个车友狠蹬代理把我的家庭号蹬脏了。&lt;/p&gt;
-&lt;p&gt;其他的一些 ai 福利也就路边摊小吃试吃的程度，没啥好说。&lt;/p&gt;
-&lt;p&gt;总之，无语。&lt;/p&gt;
-&lt;p&gt;✕ [API Error: [{
-&quot;error&quot;: {
-&quot;code&quot;: 403,
-&quot;message&quot;: &quot;The caller does not have permission&quot;,
-&quot;errors&quot;: [
-{
-&quot;message&quot;: &quot;The caller does not have permission&quot;,
-&quot;domain&quot;: &quot;global&quot;,
-&quot;reason&quot;: &quot;forbidden&quot;
-}
-],
-&quot;status&quot;: &quot;PERMISSION_DENIED&quot;
-}
-}
-]]&lt;/p&gt;
+      <title>确定豆包能发二维码吗？</title>
+      <link>https://www.v2ex.com/t/1205133</link>
+      <guid>v2ex-1205133</guid>
+      <pubDate>Sat, 11 Apr 2026 09:17:32 GMT</pubDate>
+      <description>&lt;p&gt;今天看了&lt;a href=&quot;https://www.v2ex.com/t/1205029&quot; rel=&quot;nofollow&quot;&gt;有人用豆包买保险，结果支付到我这里来了&lt;/a&gt;，产生了一个疑问：AI 助手理论上是不可能直接发二维码的吧？这肯定是要过审核的，而且就算有 AI 支付的机制，肯定也是要走支付模块的啊，怎么可能给你裸发二维码？&lt;/p&gt;
+&lt;p&gt;有没有朋友能试出来？我个人怀疑是新的诈骗方式，先 P 一张图诈唬你一下，没准儿就有哪个大傻子就中计了呢。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>32 岁找工作记录</title>
-      <link>https://www.v2ex.com/t/1205027</link>
-      <guid>v2ex-1205027</guid>
-      <pubDate>Fri, 10 Apr 2026 15:38:30 GMT</pubDate>
-      <description>&lt;p&gt;岗位是运维开发工程师
-从 3 月份断断续续的面，目前没有一个中意的 offer 。&lt;/p&gt;
-&lt;p&gt;准备中止面试，继续苟着了，等待被裁员，没想到失业可能来的如此早（可以预见到的失业）。&lt;/p&gt;
-&lt;p&gt;本人 211 本科 985 硕士，读研读的晚，工作没有几年。&lt;/p&gt;
-&lt;p&gt;公司内部活水找了大概 5 个，全都没有走到 offer 阶段（花费了我大量的时间和精力，面试次数接近 12-15 次，全部都要了终面，然后因为各种各样不知名原因挂掉了）&lt;/p&gt;
-&lt;p&gt;自变量机器人 说他们 sre 要在深圳，所以就没办法面了，因为我不会换城市&lt;/p&gt;
-&lt;p&gt;千寻智能，当时有点问题，取消面试了&lt;/p&gt;
-&lt;p&gt;元宝，二面，取消面试了（当时也是有事情冲突）&lt;/p&gt;
-&lt;p&gt;minmax ，一面挂了，代码题没按时完成，寻找有序数组指定值的左右边界，二分法不是很熟练&lt;/p&gt;
-&lt;p&gt;阿里百炼，一面可能也挂了&lt;/p&gt;
-&lt;p&gt;游戏公司 两个，aviagames 二面挂了，说是经验不匹配&lt;/p&gt;
-&lt;p&gt;huangry studio 二面说让去他们公司，准备拒绝了，这种面试要去现场的感觉都有点神经&lt;/p&gt;
-&lt;p&gt;滴滴 薪酬来回（大概也就 20%的涨幅都给不到）掰头，已经好几周了，不准备进行下去了&lt;/p&gt;
-&lt;p&gt;天天玩家，约了面试，不准备再面了&lt;/p&gt;
-&lt;p&gt;中电信人工智能， 降薪 1/3 ，我只有疯了才会去&lt;/p&gt;
-&lt;p&gt;目前这份工作，除了感觉就是偏开发，业务比较少，其实日常也没有很忙，最近两次绩效季都涨薪了，就苟着吧，行情简直惨不忍睹。&lt;/p&gt;
-&lt;p&gt;让时代浪潮带着我漂泊不定吧&lt;/p&gt;
-</description>
+      <title>记一次 Apple Passwords 数据遗失的经历</title>
+      <link>https://www.v2ex.com/t/1205135</link>
+      <guid>v2ex-1205135</guid>
+      <pubDate>Sat, 11 Apr 2026 09:42:25 GMT</pubDate>
+      <description>我今天打了苹果客服的电话，起因是我存在苹果 Passwords 这个密码管理 APP 里的一部分验证码和密码莫名其妙地消失了，不是我主动删的，就是凭空没了。&lt;br /&gt;我先问这些验证码和密码有没有可能找回，客服通过远程操作指引我检查了手机的各种设置，结论是无法找回。&lt;br /&gt;我跟客服说，这些密码不要紧，但是两步验证的验证码一丢，有些账户可能就彻底找不回来了，损失很大。因为有的账号不提供备份码，也不能用邮箱找回，只能联系客服提供真实身份信息，但是有的注册地区资料填写的是别的国家，如果我提供了护照，相当于暴露了我是「黑户」，所以这种账号基本就是无解了。&lt;br /&gt;客服又强调了一遍说他们确实无法找回。因为密码是莫名其妙就没了的，不是我手动删除，也不是苹果告知我哪里做错了需要删除这个密码，而是凭空消失，什么警示都没有，我觉得苹果多少有些责任，所以我提出可以象征性地提供一点补偿措施，比如减免一个月的 iCloud 费用，那么这件事我就认了，我订阅的还是 50G 的 iCloud ，一个月只需要 8 块钱。&lt;br /&gt;然后客服去跟上级确认，之后说无法提供，回来还跟我强调，数据备份是用户自己的责任。我说苹果从来没明确提醒过我密码可能会丢失、要记得备份，如果我能预想到会这样我干嘛还用它呢？而且苹果也没有任何明显的提醒或者告知，买设备的时候、注册账号的时候，都没人跟我说过这种事。&lt;br /&gt;客服这边就继续用车轱辘话搪塞回来，基本上就是：密码找不回来了，苹果也不打算给任何补偿，最多只能帮我调查原因。&lt;br /&gt;&lt;br /&gt;在转换到 Apple Passwords 之前，我一直是 1Password 7 的钉子户，同步用的 Dropbox ，两步认证用的 Authy ，这么多年一点问题都没出现过，今年才给那些账号给那些账号启用 Passkey ，放到了 Apple Passwords 里，想着图个方便，就把密码连同验证码都转移过来了，没想到会吃到苍蝇……&lt;br /&gt;所以鸡蛋真的不能放进一个篮子里，我现在已经开始把能转移的都转移了，密码、passkey 、两步认证都各自用不同的 app 保存了。</description>
     </item>
   </channel>
 </rss>
