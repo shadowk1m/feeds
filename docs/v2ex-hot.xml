@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 11 Apr 2026 21:54:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 22:20:43 GMT</lastBuildDate>
     <item>
       <title>被狗咬伤，对方拒绝赔偿，警察和稀泥应该如何维权。</title>
       <link>https://www.v2ex.com/t/1205139</link>
@@ -95,20 +95,6 @@
       <guid>v2ex-1205135</guid>
       <pubDate>Sat, 11 Apr 2026 09:42:25 GMT</pubDate>
       <description>我今天打了苹果客服的电话，起因是我存在苹果 Passwords 这个密码管理 APP 里的一部分验证码和密码莫名其妙地消失了，不是我主动删的，就是凭空没了。&lt;br /&gt;我先问这些验证码和密码有没有可能找回，客服通过远程操作指引我检查了手机的各种设置，结论是无法找回。&lt;br /&gt;我跟客服说，这些密码不要紧，但是两步验证的验证码一丢，有些账户可能就彻底找不回来了，损失很大。因为有的账号不提供备份码，也不能用邮箱找回，只能联系客服提供真实身份信息，但是有的注册地区资料填写的是别的国家，如果我提供了护照，相当于暴露了我是「黑户」，所以这种账号基本就是无解了。&lt;br /&gt;客服又强调了一遍说他们确实无法找回。因为密码是莫名其妙就没了的，不是我手动删除，也不是苹果告知我哪里做错了需要删除这个密码，而是凭空消失，什么警示都没有，我觉得苹果多少有些责任，所以我提出可以象征性地提供一点补偿措施，比如减免一个月的 iCloud 费用，那么这件事我就认了，我订阅的还是 50G 的 iCloud ，一个月只需要 8 块钱。&lt;br /&gt;然后客服去跟上级确认，之后说无法提供，回来还跟我强调，数据备份是用户自己的责任。我说苹果从来没明确提醒过我密码可能会丢失、要记得备份，如果我能预想到会这样我干嘛还用它呢？而且苹果也没有任何明显的提醒或者告知，买设备的时候、注册账号的时候，都没人跟我说过这种事。&lt;br /&gt;客服这边就继续用车轱辘话搪塞回来，基本上就是：密码找不回来了，苹果也不打算给任何补偿，最多只能帮我调查原因。&lt;br /&gt;&lt;br /&gt;在转换到 Apple Passwords 之前，我一直是 1Password 7 的钉子户，同步用的 Dropbox ，两步认证用的 Authy ，这么多年一点问题都没出现过，今年才给那些账号给那些账号启用 Passkey ，放到了 Apple Passwords 里，想着图个方便，就把密码连同验证码都转移过来了，没想到会吃到苍蝇……&lt;br /&gt;所以鸡蛋真的不能放进一个篮子里，我现在已经开始把能转移的都转移了，密码、passkey 、两步认证都各自用不同的 app 保存了。</description>
-    </item>
-    <item>
-      <title>AirTag 只有在绑定的设备附近才会更新位置？？</title>
-      <link>https://www.v2ex.com/t/1205044</link>
-      <guid>v2ex-1205044</guid>
-      <pubDate>Fri, 10 Apr 2026 22:16:44 GMT</pubDate>
-      <description>&lt;p&gt;有用 AirTag 的吗？
-理论来讲只要周边有连着 Find My 的 iphone 就应该会更新位置的，但实际情况是离开自己的设备（或者分享给的人的设备）位置就不再更新，要他有何用？
-xhs 上一堆人遇到了同样的问题，国外 reddit 也有很多人讨论。&lt;/p&gt;
-&lt;p&gt;我的具体情况是这样的：
-坐标美国，AirTag Gen2 ，iphone ，Mac 全是最新系统，iCloud 用的国区。
-一开始绑定到国区 icloud 上遇到了这个问题，尝试了各种措施都不行，即使 AirTag 在登陆国区 Apple Id 的 iphone 周边也不会更新位置。
-后来重新绑定到美区的 iCloud ，一样的问题。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>刚毕业也是当上牛马了</title>
