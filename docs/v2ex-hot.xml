@@ -4,18 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 11 Apr 2026 15:52:18 GMT</lastBuildDate>
-    <item>
-      <title>有人用豆包买保险，结果支付到我这里来了</title>
-      <link>https://www.v2ex.com/t/1205029</link>
-      <guid>v2ex-1205029</guid>
-      <pubDate>Fri, 10 Apr 2026 16:05:31 GMT</pubDate>
-      <description>&lt;p&gt;大概情况就是这个人使用询问豆包的方式购买保险，然后豆包编得有模有样还说已经生成订单，然后还生成了一个收款二维码说向这个二维码付款即可, 最终受害人支付了 1620 元后发现看不到保单询问的豆包时，豆包还信誓旦旦说要在今天 24 点后才能出单,所以看不见是正常的, 受害者最终通过收款商家入口联系到了我, 我在咨询支付宝客服后, 客服建议我使用订单的原路退回功能, 这样会安全一些。&lt;/p&gt;
-&lt;p&gt;我怀疑豆包语料库中的二维码来自我的一些开源库或者博客, 之前在这些地方贴过我的收款二维码。&lt;/p&gt;
-&lt;p&gt;这个案例告诉我们国内很多人根本就不知道 AI 的边界在哪里, AI 存在幻觉也不清楚, 连 AI 实际接入了哪些业务也不清楚, 甚至真的相信 AI 给出的建议和方案。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/4l0hrNE.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/jZuNz5p.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 16:24:18 GMT</lastBuildDate>
     <item>
       <title>被狗咬伤，对方拒绝赔偿，警察和稀泥应该如何维权。</title>
       <link>https://www.v2ex.com/t/1205139</link>
@@ -108,6 +97,15 @@
       <description>我今天打了苹果客服的电话，起因是我存在苹果 Passwords 这个密码管理 APP 里的一部分验证码和密码莫名其妙地消失了，不是我主动删的，就是凭空没了。&lt;br /&gt;我先问这些验证码和密码有没有可能找回，客服通过远程操作指引我检查了手机的各种设置，结论是无法找回。&lt;br /&gt;我跟客服说，这些密码不要紧，但是两步验证的验证码一丢，有些账户可能就彻底找不回来了，损失很大。因为有的账号不提供备份码，也不能用邮箱找回，只能联系客服提供真实身份信息，但是有的注册地区资料填写的是别的国家，如果我提供了护照，相当于暴露了我是「黑户」，所以这种账号基本就是无解了。&lt;br /&gt;客服又强调了一遍说他们确实无法找回。因为密码是莫名其妙就没了的，不是我手动删除，也不是苹果告知我哪里做错了需要删除这个密码，而是凭空消失，什么警示都没有，我觉得苹果多少有些责任，所以我提出可以象征性地提供一点补偿措施，比如减免一个月的 iCloud 费用，那么这件事我就认了，我订阅的还是 50G 的 iCloud ，一个月只需要 8 块钱。&lt;br /&gt;然后客服去跟上级确认，之后说无法提供，回来还跟我强调，数据备份是用户自己的责任。我说苹果从来没明确提醒过我密码可能会丢失、要记得备份，如果我能预想到会这样我干嘛还用它呢？而且苹果也没有任何明显的提醒或者告知，买设备的时候、注册账号的时候，都没人跟我说过这种事。&lt;br /&gt;客服这边就继续用车轱辘话搪塞回来，基本上就是：密码找不回来了，苹果也不打算给任何补偿，最多只能帮我调查原因。&lt;br /&gt;&lt;br /&gt;在转换到 Apple Passwords 之前，我一直是 1Password 7 的钉子户，同步用的 Dropbox ，两步认证用的 Authy ，这么多年一点问题都没出现过，今年才给那些账号给那些账号启用 Passkey ，放到了 Apple Passwords 里，想着图个方便，就把密码连同验证码都转移过来了，没想到会吃到苍蝇……&lt;br /&gt;所以鸡蛋真的不能放进一个篮子里，我现在已经开始把能转移的都转移了，密码、passkey 、两步认证都各自用不同的 app 保存了。</description>
     </item>
     <item>
+      <title>刚毕业也是当上牛马了</title>
+      <link>https://www.v2ex.com/t/1205050</link>
+      <guid>v2ex-1205050</guid>
+      <pubDate>Sat, 11 Apr 2026 00:28:44 GMT</pubDate>
+      <description>&lt;p&gt;朝九晚十一
+破写代码的 一个月七八千&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>AirTag 只有在绑定的设备附近才会更新位置？？</title>
       <link>https://www.v2ex.com/t/1205044</link>
       <guid>v2ex-1205044</guid>
@@ -122,21 +120,21 @@ xhs 上一堆人遇到了同样的问题，国外 reddit 也有很多人讨论�
 </description>
     </item>
     <item>
-      <title>刚毕业也是当上牛马了</title>
-      <link>https://www.v2ex.com/t/1205050</link>
-      <guid>v2ex-1205050</guid>
-      <pubDate>Sat, 11 Apr 2026 00:28:44 GMT</pubDate>
-      <description>&lt;p&gt;朝九晚十一
-破写代码的 一个月七八千&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>确定豆包能发二维码吗？</title>
       <link>https://www.v2ex.com/t/1205133</link>
       <guid>v2ex-1205133</guid>
       <pubDate>Sat, 11 Apr 2026 09:17:32 GMT</pubDate>
       <description>&lt;p&gt;今天看了&lt;a href=&quot;https://www.v2ex.com/t/1205029&quot; rel=&quot;nofollow&quot;&gt;有人用豆包买保险，结果支付到我这里来了&lt;/a&gt;，产生了一个疑问：AI 助手理论上是不可能直接发二维码的吧？这肯定是要过审核的，而且就算有 AI 支付的机制，肯定也是要走支付模块的啊，怎么可能给你裸发二维码？&lt;/p&gt;
 &lt;p&gt;有没有朋友能试出来？我个人怀疑是新的诈骗方式，先 P 一张图诈唬你一下，没准儿就有哪个大傻子就中计了呢。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>自己撸了一个小工具、终于吧 Mac&quot;系统数据&quot;占用干下来了</title>
+      <link>https://www.v2ex.com/t/1205096</link>
+      <guid>v2ex-1205096</guid>
+      <pubDate>Sat, 11 Apr 2026 05:34:14 GMT</pubDate>
+      <description>&lt;p&gt;以前用惯了 1TB 的 Mac ，去年贪便宜（以旧换新+国补）换了个小硬盘版，结果没多久磁盘就爆了。MD 不想花 598 买 CleanMyMac ，趁着 Cursor 还有这个月还有点额度，直接半个小时撸了个磁盘分析工具，终于把空间清出来了！为啥这些 Mac App 的开发者总喜欢用 Electron 开发 ，还喜欢在磁盘里到处拉粑粑！搞的文件系统乱七八糟！
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/RvLoTp5.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
