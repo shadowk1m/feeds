@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 12 Apr 2026 10:28:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 11:06:02 GMT</lastBuildDate>
     <item>
       <title>被这个事情困扰挺久，我感觉跟那位女同事走得太近了</title>
       <link>https://www.v2ex.com/t/1205209</link>
@@ -93,70 +93,25 @@
 </description>
     </item>
     <item>
-      <title>注册尼日利亚区域的方法，包括如何更改区域</title>
-      <link>https://www.v2ex.com/t/1205255</link>
-      <guid>v2ex-1205255</guid>
-      <pubDate>Sun, 12 Apr 2026 05:12:27 GMT</pubDate>
-      <description>&lt;h2&gt;现状&lt;/h2&gt;
-&lt;p&gt;现在尼日利亚区的 Claude 订阅价格确实很香，和国区相比，差不多能省下近 60 元人民币。也正因为这样，最近不少同学都在研究怎么注册尼日利亚区的 Apple ID 。&lt;/p&gt;
-&lt;p&gt;很多人第一步其实都挺顺利：直接去 iCloud 官网注册，往往很快就能成功。结果满怀期待地跑去 App Store 登录时，却当场被泼了一盆冷水——账号区域不是被切回了国区，就是莫名变成了土耳其区之类的其他区域。&lt;/p&gt;
-&lt;p&gt;这类情况其实很常见，原因也不少。最常见的一种，就是你的设备之前登录过国区或其他地区的 Apple 账号，系统可能会沿用之前的区域信息。这样一来，等你想再切回尼日利亚区时，系统往往就会要求你补充支付方式，比如绑定信用卡。&lt;/p&gt;
-&lt;p&gt;问题偏偏就卡在这里：很多同学拿国内的 MasterCard 去绑，结果系统直接提示不支持。折腾到这一步，不少人就开始怀疑是不是彻底没戏了，最后干脆放弃。&lt;/p&gt;
-&lt;p&gt;但其实，真不用慌。走到这一步并不代表失败了，这个问题也不是无解，还是有办法可以处理的。&lt;/p&gt;
-&lt;h2&gt;注册方法&lt;/h2&gt;
-&lt;p&gt;请参考以下方法进行注册。如果已经注册的可以直接略过，进入更改区域步骤。&lt;/p&gt;
-&lt;h3&gt;1. 注册&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;全程开启全局代理，并确保网络出口为非中国大陆地区。&lt;/li&gt;
-&lt;li&gt;先在 iCloud 注册新账号，手机号可以直接使用 &lt;code&gt;+86&lt;/code&gt;，这一步通常会很快完成。&lt;/li&gt;
-&lt;li&gt;接着在手机上登录这个新账号。这时你可能会发现，账号的 Region 被自动改成了中国，或者沿用了设备上一次登录账号的区域，比如土耳其等。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;2. 更改区域&lt;/h3&gt;
-&lt;p&gt;如果你发现当前区域与预期不一致，也不用慌，账号区域是可以修改的。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;先打开 &lt;a href=&quot;https://account.apple.com/sign-in&quot; rel=&quot;nofollow&quot;&gt;https://account.apple.com/sign-in&lt;/a&gt; 网页，如下图所示，点击右下角“国家”，比如我的是“United States”&lt;/li&gt;
-&lt;/ol&gt;
-&lt;img alt=&quot;i Shot 2026 04 12 12 47 47&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/3mxmGqZt/i-Shot-2026-04-12-12-47-47.png&quot;/&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;在打开的页面选择尼日利亚区域。
-&lt;img alt=&quot;i Shot 2026 04 12 12 51 11&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/Nd6g8PDR/i-Shot-2026-04-12-12-51-11.png&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;开始登录你的账号，进入到账号管理页面，选择“Personal Information”，你可以查看你当前的区域，比如我的是“China Mainland”
-&lt;img alt=&quot;1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/Ng8hXGfY/1.jpg&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;将你的区域改为尼日利亚区，然后继续下一步，如下所示
-&lt;img alt=&quot;2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/yBZpRCGB/2.jpg&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;继续下一步
-&lt;img alt=&quot;3&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/BkF23Rt/3.jpg&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;继续下一步
-&lt;img alt=&quot;4&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/yckGS1MS/4.jpg&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;进入支付方式绑定，选择 None&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
+      <title>[合肥] 初级小程序全栈工程师</title>
+      <link>https://www.v2ex.com/t/1205233</link>
+      <guid>v2ex-1205233</guid>
+      <pubDate>Sun, 12 Apr 2026 02:35:31 GMT</pubDate>
+      <description>&lt;p&gt;开发的⼩程序不是很复杂，但是前端后端还有运维都会接触⼀些（前端侧重的多⼀些）&lt;/p&gt;
+&lt;p&gt;我们希望你：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;如果没有步骤 1 ，和步骤 2 ，这里是不会出现 None 选项的。&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;注意：用 Google 搜索尼日利亚的街区地址，就可以了。&lt;/strong&gt;
-&lt;img alt=&quot;5&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/VpQMBXLR/5.jpg&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;了解 UniApp Vue 开发&lt;/li&gt;
+&lt;li&gt;有过独自开发全栈应用的经历（不要求多复杂）&lt;/li&gt;
+&lt;li&gt;了解某个后端框架，⽐如 ThinkPHP ，SpringBoot ，Django 等&lt;/li&gt;
+&lt;li&gt;有过 Linux 和 Nginx 操作和配置经验&lt;/li&gt;
+&lt;li&gt;了解一些 Python 和 Bash&lt;/li&gt;
+&lt;li&gt;对于从前端到后端再到数据库之间的交互有概念&lt;/li&gt;
+&lt;li&gt;能够独自查阅文档，解决问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;保存后，你可以看到你的区域更改成功了。
-&lt;img alt=&quot;6&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/pBf2brZ2/6.jpg&quot;/&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;验证&lt;/h2&gt;
-&lt;p&gt;再次在手机上登录该账号，你会发现，区域已经更改成功，可以愉快的在闲鱼上买尼日利亚的 Apple 礼品卡，开始 claude 订阅了。&lt;/p&gt;
-&lt;img alt=&quot;IMG 1444&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/ksj5hBs8/IMG-1444.png&quot;/&gt;
-&lt;p&gt;订阅成功示例&lt;/p&gt;
-&lt;img alt=&quot;IMG 1443&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/bjGLKSzt/IMG-1443.png&quot;/&gt;
-&lt;p&gt;祝好运。&lt;/p&gt;
+&lt;p&gt;自研，非外包，早 9 晚 6 ，单休，薪资 4-5k&lt;/p&gt;
+&lt;p&gt;BOSS 直聘链接： &lt;a href=&quot;https://m.zhipin.com/mpa/html/weijd/weijd-job/9df10c802f843e5c0nZz0tS5ElRY&quot; rel=&quot;nofollow&quot;&gt;https://m.zhipin.com/mpa/html/weijd/weijd-job/9df10c802f843e5c0nZz0tS5ElRY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;电子邮箱： &lt;a href=&quot;mailto:17352909825@163.com&quot;&gt;17352909825@163.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;薪资待遇确实不是很好😂但是工作难度不大，刚毕业或者快毕业的同学可以来投一下&lt;/p&gt;
 </description>
     </item>
   </channel>
