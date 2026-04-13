@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 13 Apr 2026 10:58:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 12:01:40 GMT</lastBuildDate>
     <item>
       <title>[ Codex 中转站 | 纯 plus 号池] 开了一个多月的站子， token 烧了 2599 亿，我决定给大伙发福利了</title>
       <link>https://www.v2ex.com/t/1205340</link>
@@ -52,25 +52,6 @@
 &lt;/tbody&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>真的不建议任何人用中转</title>
-      <link>https://www.v2ex.com/t/1205344</link>
-      <guid>v2ex-1205344</guid>
-      <pubDate>Sun, 12 Apr 2026 14:25:29 GMT</pubDate>
-      <description>&lt;p&gt;首先，中转并不便宜，往往是 ¥1 = $1 ，个别能做到在这基础上再打个三五折，但这个价格如果去用官方的订阅，通常也能用到更高的用量&lt;/p&gt;
-&lt;p&gt;个别中转或许会提供更便宜的选择，但如果低于了官方价格，还要考虑运营成本，那么可以想象一定在其它地方玩了手脚，比如收集数据、换模型、甚至掺入恶意指令&lt;/p&gt;
-&lt;p&gt;就目前而言，大多数人应该也都是不会去专门每一条工具调用都手动 allow 甚至完全不会去看模型执行的几分钟里的工具调用到底都干了啥的，更何况即使你看了有的时候敏感信息就在环境变量里也会被完全正常的访问到&lt;/p&gt;
-&lt;p&gt;再加上很多人去用的都是 OpenClaw 之类的独立 Agent ，安装工具时通常也都是直接把授权凭证直接给它配置了&lt;/p&gt;
-&lt;p&gt;当然，除了便宜，可能还有一些人是被付款方式挡住了；但是稍微愿意折腾点，app store, google play, wise, ocbc, n26 ，有太多方式可以轻松付款了，而封号问题，基本只要个人用、付款方式正常（不用币圈的卡、不用各种虚拟卡）、买个独享家宽 IP ，其实也都能解决 —— 实在不想折腾，还有万能的淘宝月抛号，官方订阅带质保，比各种中转站强太多了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>最近看太多 AI 的东西，太 AI(油)腻了，来点生活的吧，推荐分享一些你日常好物呗</title>
-      <link>https://www.v2ex.com/t/1205376</link>
-      <guid>v2ex-1205376</guid>
-      <pubDate>Mon, 13 Apr 2026 00:42:24 GMT</pubDate>
-      <description>最近看太多 AI 的东西，太 AI(油)腻了，来点生活的吧，推荐分享一些你日常好物呗</description>
-    </item>
-    <item>
       <title>生小孩的意义，转自 53 岁深圳不婚不育女性自述</title>
       <link>https://www.v2ex.com/t/1205472</link>
       <guid>v2ex-1205472</guid>
@@ -114,6 +95,25 @@
 &lt;p&gt;主要想说，要么有伴侣，要么孩子，不要什么都不要，现在有伴侣是最像家，有就最好，陪家人，陪人，重要家人在身边，我现在觉得，没条件接到身边照顾，现在有条件接到身边了，没享多长时间幸福他们却走了。&lt;/p&gt;
 &lt;p&gt;那些催婚的，也请好好理解父母，不要像我以前一样不懂事，跟他们吵，吵架，好好坐下来谈，不要伤害他们的心，他们也是为你好。也不说不什么道理，或者说大道理你们也不听，就像青春期的懵懂，不要像青春期一样叛逆伤了父母的心，长大才做了父母后后悔少时的冲动。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>真的不建议任何人用中转</title>
+      <link>https://www.v2ex.com/t/1205344</link>
+      <guid>v2ex-1205344</guid>
+      <pubDate>Sun, 12 Apr 2026 14:25:29 GMT</pubDate>
+      <description>&lt;p&gt;首先，中转并不便宜，往往是 ¥1 = $1 ，个别能做到在这基础上再打个三五折，但这个价格如果去用官方的订阅，通常也能用到更高的用量&lt;/p&gt;
+&lt;p&gt;个别中转或许会提供更便宜的选择，但如果低于了官方价格，还要考虑运营成本，那么可以想象一定在其它地方玩了手脚，比如收集数据、换模型、甚至掺入恶意指令&lt;/p&gt;
+&lt;p&gt;就目前而言，大多数人应该也都是不会去专门每一条工具调用都手动 allow 甚至完全不会去看模型执行的几分钟里的工具调用到底都干了啥的，更何况即使你看了有的时候敏感信息就在环境变量里也会被完全正常的访问到&lt;/p&gt;
+&lt;p&gt;再加上很多人去用的都是 OpenClaw 之类的独立 Agent ，安装工具时通常也都是直接把授权凭证直接给它配置了&lt;/p&gt;
+&lt;p&gt;当然，除了便宜，可能还有一些人是被付款方式挡住了；但是稍微愿意折腾点，app store, google play, wise, ocbc, n26 ，有太多方式可以轻松付款了，而封号问题，基本只要个人用、付款方式正常（不用币圈的卡、不用各种虚拟卡）、买个独享家宽 IP ，其实也都能解决 —— 实在不想折腾，还有万能的淘宝月抛号，官方订阅带质保，比各种中转站强太多了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>最近看太多 AI 的东西，太 AI(油)腻了，来点生活的吧，推荐分享一些你日常好物呗</title>
+      <link>https://www.v2ex.com/t/1205376</link>
+      <guid>v2ex-1205376</guid>
+      <pubDate>Mon, 13 Apr 2026 00:42:24 GMT</pubDate>
+      <description>最近看太多 AI 的东西，太 AI(油)腻了，来点生活的吧，推荐分享一些你日常好物呗</description>
     </item>
     <item>
       <title>入职外包，本以为能顺利入职，没想到却要待岗</title>
