@@ -4,61 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 15 Apr 2026 00:03:18 GMT</lastBuildDate>
-    <item>
-      <title>[送码]截图工具 PixPin3.0 正式发布（文字识别，长截图，录屏，标注），时隔两年半再来 v 站宣传</title>
-      <link>https://www.v2ex.com/t/1205693</link>
-      <guid>v2ex-1205693</guid>
-      <pubDate>Tue, 14 Apr 2026 02:14:35 GMT</pubDate>
-      <description>&lt;p&gt;各位 v 友好，2023 年底在 v 站发了 PixPin 的&lt;a href=&quot;https://www.v2ex.com/t/989393&quot; rel=&quot;nofollow&quot;&gt;第一个宣传帖子&lt;/a&gt;，当时 PixPin 还非常稚嫩简陋，甚至没有官网，只能放在 onedrive/百度网盘上给大家下载，功能上也有很多不足的地方，但是 v 友们还是非常支持，给了很多鼓励和建议&lt;br/&gt;
-这两年多来我一直在更新完善：增加 macOS 版本、增加更多的标注工具、增加 mp4 格式支持等等。现在 PixPin 已经日趋成熟，如果有 V 友曾因为当时的不足而没有尝试过，或者当时尝试过但觉得不够好用的，现在可以再次体验，相信会有不一样的感受。也欢迎大家继续提出宝贵的意见和建议，PixPin 会继续努力完善。&lt;/p&gt;
-&lt;p&gt;PixPin 官网：&lt;a href=&quot;https://pixpin.cn/&quot; rel=&quot;nofollow&quot;&gt;https://pixpin.cn/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;PixPin 是什么&lt;/h2&gt;
-&lt;p&gt;PixPin 是一款截图工具，并且围绕截图这个核心功能做了非常多的完善和拓展，贴图，文字识别，长截图，录屏，标注等等功能都非常完善，适用于任何使用电脑工作的用户，PixPin 能帮助你快速记录屏幕内容，无论是普通图像，还是长文章，或者是动态的过程，使用 PixPin 都能轻松记录，然后通过贴图功能固定到屏幕上随时参考。也能通过标注功能（高亮，放大镜，箭头，文字等）在图像上标注以表达更清晰的意思。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;PixPin&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/d7dB4hPz.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PixPin 现已支持 Windows 和 MacOS&lt;/strong&gt; &lt;/p&gt;
-&lt;h2&gt;截图&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;智能范围识别：在截图时检测鼠标指向 ui 的矩形范围，还可以通过鼠标滚轮调整检测的层级&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;范围识别&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/0ETw5zdv.webp&quot;/&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;阴影效果：支持截图时设置阴影&lt;/li&gt;
-&lt;li&gt;文本识别：截图时按下 Shift+C 可以识别文本&lt;/li&gt;
-&lt;li&gt;录屏：支持录制为 gif ，webp ，mp4 格式，支持倍速播放，嵌入播放进度条/倒计时&lt;/li&gt;
-&lt;li&gt;长截图：支持滚动窗口的长截图，自动拼接成长图，还有裁剪功能，如果不小心多截了，可以裁剪掉不需要的部分&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;滚动截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/Kr26M0TW.webp&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;贴图&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;图像贴图：将截图或者复制的图像固定在屏幕上方便参考，&lt;strong&gt;可以直接使用鼠标选择图像上的文字进行复制&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;文本贴图：将文本固定在屏幕上，支持 HTML 格式&lt;/li&gt;
-&lt;li&gt;颜色贴图：如果剪贴板里有 HEX 或者 RGB 格式的文本，可以直接以颜色版的形式贴图，方便设计师使用&lt;/li&gt;
-&lt;li&gt;文件贴图：如果复制了文件，可以以文件贴图的形式展示，通过右键定位文件位置或者打开文件&lt;/li&gt;
-&lt;li&gt;窗口贴图（仅 Windows ）：将指定窗口的某个区域投射到贴图上，内容会实时更新，适合监控某个窗口的动态内容&lt;/li&gt;
-&lt;li&gt;Latex 贴图：复制了 Latex 公式文本后按贴图键可以直接渲染成公式，通过右键也可以复制 latex 代码或者公式图像，方便学术人员使用&lt;/li&gt;
-&lt;li&gt;缩略图模式：在贴图上使用右键框选一个区域，可以只保留这部分内容，适合只关注图像的某个部分的内容，可以随时还原（ shift+双击）&lt;/li&gt;
-&lt;li&gt;贴图分组：可以将相关的贴图放在一个组里，在不同工作场景下切换显示不同的贴图组&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;标注&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;丰富的标注工具：高亮，马赛克，箭头，放大镜，文字等等&lt;/li&gt;
-&lt;li&gt;录制标注：在录屏的过程中也可以使用标注工具，将标注过程录制下来，适合制作教程视频&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;PixPin 3.0 版本更新了什么&lt;/h2&gt;
-&lt;p&gt;首先是 UI 的大幅改版，现在 PixPin 有了专业的设计师，对主要界面和图标进行了重新设计，界面更加现代化了
-其次是文本识别，现在文本识别支持同时识别简繁体中文，英文，日文了，识别准确率也有了很大的提升
-另外 3.0 版本增加了一个悬浮窗，如果 v 友觉得悬浮窗侵入性太强也可以随时关掉，悬浮窗主要是方便习惯使用鼠标的用户，可以通过悬浮窗快速操作，另外还是拖放贴图的入口，在浏览网页，或者微信/QQ 聊天窗口下，直接将图像拖放到悬浮窗可以快速贴图&lt;/p&gt;
-&lt;h2&gt;赠送激活码&lt;/h2&gt;
-&lt;p&gt;PixPin 是一个免费增值软件，大部分功能都是免费的，无论是个人使用还是公司使用都可以免费使用，后续的更新的功能大部分也会是免费功能。为了 PixPin 的持续发展，我们也提供了部分高级功能给会员用户，如果 PixPin 的会员功能可以帮到你，欢迎开通会员。&lt;/p&gt;
-&lt;p&gt;为了感谢 v 友们的支持同时也是庆祝 PixPin3.0 的发布，v 友们可以在这个帖子留下邮箱（可使用 base64 编码以避免爬虫抓取），&lt;strong&gt;每一位留下邮箱的 v 友都可以获赠一枚 PixPin 的月度会员激活码&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;活动截止：2026 年 4 月 17 日&lt;/li&gt;
-&lt;li&gt;发码方式：我每天都会把激活码发到大家的邮箱里&lt;/li&gt;
-&lt;li&gt;兑换期限：激活码需要在 2026 年 4 月 20 日前使用&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
+    <lastBuildDate>Wed, 15 Apr 2026 03:44:30 GMT</lastBuildDate>
     <item>
       <title>新 Codex 中转站点上线，来给 V 友发福利了, 送价值 $50 额度</title>
       <link>https://www.v2ex.com/t/1205750</link>
@@ -67,37 +13,11 @@
       <description>新站点开业，当前 Plus 号池倍率 0.2：&lt;br /&gt;&lt;br /&gt;FlyMux 镜像站：🚀 站点地址： &lt;a target=&quot;_blank&quot; href=&quot;https://flymux.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://flymux.com&lt;/a&gt;&lt;br /&gt;加入官方 QQ 群，私聊群主 ID 即可领取 10 刀余额（ 0.2 倍率实际可用 50 刀额度）。&lt;br /&gt;1:1 充值，全场 0.2 倍率，1 块当成 5 块花！&lt;br /&gt;告别复杂的汇率换算，我们坚持 1 RMB = 1 刀 的直观计费。&lt;br /&gt;&lt;br /&gt;V 友专属福利&lt;br /&gt;注册完成后，站点后台右上角复制 ID, 在本帖留言并附上你的 ID ，赠送价值 50 刀额度。&lt;br /&gt;&lt;br /&gt;领取额度&lt;br /&gt;扫码进群，私聊群主发 ID ，可领取价值 50 刀额度：&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/7HbF4c4.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/7HbF4c4.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
-      <title>想问下大家早餐都吃什么？</title>
-      <link>https://www.v2ex.com/t/1205652</link>
-      <guid>v2ex-1205652</guid>
-      <pubDate>Tue, 14 Apr 2026 00:51:55 GMT</pubDate>
-      <description>我过去几年都是吃全家的酸菜肉包+豆浆，后面上班时间提前了，去了两次包子都没做好，就不知道吃啥了。吃了一段时间的鸡蛋糕，现在感觉有点腻了，想问问大家早上都吃啥，给我参考下。</description>
-    </item>
-    <item>
       <title>想不到文案了， codex 中转，留邮箱就送。</title>
       <link>https://www.v2ex.com/t/1205787</link>
       <guid>v2ex-1205787</guid>
       <pubDate>Tue, 14 Apr 2026 06:55:57 GMT</pubDate>
       <description>如题，实在想不到文案了，注册后留邮箱就送&lt;br /&gt;&lt;br /&gt;5 刀（日卡）额度，仅限 codex 模型，有国内 cdn 线路&lt;br /&gt;&lt;br /&gt;官网： &lt;a target=&quot;_blank&quot; href=&quot;https://www.krill-ai.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.krill-ai.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;ps：仅限个人合理使用，分发会封号&lt;br /&gt;&lt;br /&gt;--------以下内容为，老板要求加的--------&lt;br /&gt;&lt;br /&gt;为支持国产模型发展，GLM-5.1 、qwen3.6-plus 、deepseek-v3.2 已上线 0.1 倍率渠道，此渠道为阿里云直连，支持 completions 、messages 、responses 等接口，可无缝接入 hermes 、claude code 、openclaw 、cherry studio 等渠道，支付福利余额使用。对了还有 gemini 香蕉生图</description>
-    </item>
-    <item>
-      <title>减脂，可能是成年人最容易获得正反馈的一件事</title>
-      <link>https://www.v2ex.com/t/1205661</link>
-      <guid>v2ex-1205661</guid>
-      <pubDate>Tue, 14 Apr 2026 01:08:29 GMT</pubDate>
-      <description>&lt;p&gt;3 月初，抖音刷到一个博主朱少禹，花了几个月时间增肥了 100 多斤，然后从 3 月 11 日开始，要进行为期 3 个月的减肥 100 斤，瞬间被震撼到了。&lt;/p&gt;
-&lt;p&gt;原来减肥可以是这么容易的一件事么？可以这么轻松瘦下来么？&lt;/p&gt;
-&lt;p&gt;然后刷了他过往的视频，这已经是他好几次增肥减肥了。他这样做的目的肯定是卖课，毫无疑问，但是给我带来了非常大的触动。&lt;/p&gt;
-&lt;p&gt;他能花 3 个月减 100 斤，我减 20 斤不过分吧。&lt;/p&gt;
-&lt;p&gt;这也是抖音算法的强大。当我刷了这个博主的减肥视频后，抖音接连给我推减肥相关的内容，包括吃的、如何练的，瞬间有了动力和方向。&lt;/p&gt;
-&lt;p&gt;截止到今天 4 月 14 日，40 多天，从 75kg 到现在的 65.9kg,交出了我的期中答卷，还是很满意的：
-•	体脂降了
-•	游泳肚也没了
-•	之前穿不了的裤子，现在都能穿了，而且还松松垮垮了
-•	人也更精神了&lt;/p&gt;
-&lt;p&gt;希望与各位 V 友共勉
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/veTKOPb.jpeg&quot;/&gt;&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>年轻人的第一套房（求指导！）</title>
@@ -108,25 +28,172 @@
 </description>
     </item>
     <item>
-      <title>38 岁老程序猿该何去何从，希望前辈能指点一、二</title>
-      <link>https://www.v2ex.com/t/1205696</link>
-      <guid>v2ex-1205696</guid>
-      <pubDate>Tue, 14 Apr 2026 02:21:57 GMT</pubDate>
-      <description>15 年干的 iOS ，21 年转行干的前端、期间会点 go 能写简单的接口，25 年年中失业了，投了几个月的简历，现在一点面试机会都没有了，希望论坛里的前辈们能指点一下，该往哪个方向转行</description>
+      <title>pura x max 有点心动</title>
+      <link>https://www.v2ex.com/t/1205770</link>
+      <guid>v2ex-1205770</guid>
+      <pubDate>Tue, 14 Apr 2026 06:09:25 GMT</pubDate>
+      <description>&lt;p&gt;现在直板手机已经有点腻了，想尝试一下折叠屏，折叠屏的话好像就华为一家做的最好&lt;/p&gt;
+&lt;p&gt;看了下华子最新发布的 pura x max ，感觉有点心动的感觉&lt;/p&gt;
+&lt;p&gt;但是好像价格不便宜，估计 8k 起步了&lt;/p&gt;
+&lt;p&gt;今天上午 10.08 在华为商城预定了一台 8+512 的白色&lt;/p&gt;
+&lt;p&gt;有没有同样打算入手的，可以交流一下&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>XChat 替代 tg 还是 wx</title>
-      <link>https://www.v2ex.com/t/1205659</link>
-      <guid>v2ex-1205659</guid>
-      <pubDate>Tue, 14 Apr 2026 01:02:47 GMT</pubDate>
-      <description>有佬深度评测么</description>
+      <title>大模型中转站， Unity2.Ai 内测招募：直达源头，拒绝“掺水”！</title>
+      <link>https://www.v2ex.com/t/1205859</link>
+      <guid>v2ex-1205859</guid>
+      <pubDate>Tue, 14 Apr 2026 10:15:09 GMT</pubDate>
+      <description>&lt;h1&gt;🚀 &lt;a href=&quot;http://Unity2.Ai&quot; rel=&quot;nofollow&quot;&gt;Unity2.Ai&lt;/a&gt; 公测招募｜直达源头，拒绝降智，解锁纯粹 AI 体验！&lt;/h1&gt;
+&lt;p&gt;为什么选择我们？ 直达源头，从根本上杜绝降智与回复干预。&lt;/p&gt;
+&lt;p&gt;受够了模型降智和回复“掺水”？&lt;a href=&quot;https://unity2.Ai&quot; rel=&quot;nofollow&quot;&gt;Unity2.Ai&lt;/a&gt; 正式开启周末公测，诚邀硬核玩家入驻！&lt;/p&gt;
+&lt;h2&gt;🎁 限时公测福利｜注册即领，无门槛起飞&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;✅ 注册就送：完成注册后，回帖报上你的用户 ID ，并加入官方群&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;✅ 立享赠金：群内发送注册邮箱/用户 ID ，立即到账 &lt;strong&gt;$10 体验金&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;✅ 全量解锁：全模型覆盖，真实额度无套路，到手直接用&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;💎 为什么必选 &lt;a href=&quot;http://Unity2.Ai&quot; rel=&quot;nofollow&quot;&gt;Unity2.Ai&lt;/a&gt; ？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;直达源头，拒绝中转&lt;/strong&gt;：跳过层层转包，直接对接 CCMAX 核心源头，享受原汁原味的响应速度与稳定性，告别延迟卡顿&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;绝不掺水，还原智商&lt;/strong&gt;：郑重承诺——不做任何模型降智、不替换低价模型、不干预后台逻辑，每一次响应都是真实 AI 实力输出&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;极简接入，无缝适配&lt;/strong&gt;：支持标准 OpenAI 、Anthropic 格式，适配各类插件、IDE 工具，无需额外调试&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;💰 极具竞争力的计费体系｜高性价比拉满&lt;/h2&gt;
+&lt;p&gt;全站汇率：&lt;strong&gt;1 人民币 = 1 美元&lt;/strong&gt;（诚意定价，拒绝溢价）&lt;/p&gt;
+&lt;p&gt;核心模型定价：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;CCMAX：2.5 元/刀&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Codex：0.4 元/刀&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🏃 参与方式｜ 3 步解锁巅峰体验&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;🔗 &lt;a href=&quot;https://unity2.Ai&quot; rel=&quot;nofollow&quot;&gt;点击此处前往注册&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📩 加入官方群，发送：&lt;strong&gt;报邮箱： yourname@email.com&lt;/strong&gt; 或 &lt;strong&gt;报 ID：你的用户 ID&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;⌛ 等待后台手动充值，到账后即可开启测试，畅享纯粹 AI 体验！&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;提示：用户 ID 获取方式——注册成功后，点击页面左上角「复制我的 ID 」即可。注册后进群/回帖发送 ID ，即可申请$10 免费额度，先到先得！邀请新用户注册再送 5 刀！&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/11inRNp.png&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>2026 年 Infuse 值得花$99 美元买断吗</title>
-      <link>https://www.v2ex.com/t/1205682</link>
-      <guid>v2ex-1205682</guid>
-      <pubDate>Tue, 14 Apr 2026 01:59:41 GMT</pubDate>
-      <description>&lt;p&gt;按年订阅是$12.9/年，终身是$99 ，Apple TV 重度用户值得买断吗，后续能升级大版本吗&lt;/p&gt;
+      <title>突然发现我还没交过比自己年纪小的女友。。。</title>
+      <link>https://www.v2ex.com/t/1205862</link>
+      <guid>v2ex-1205862</guid>
+      <pubDate>Tue, 14 Apr 2026 10:20:48 GMT</pubDate>
+      <description>&lt;p&gt;第一任&amp;gt;14y 第二任&amp;gt;6y 第三任&amp;gt;17y 现在还在和&amp;gt;7 妹子相亲:).&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>辞职回乡，状态很好</title>
+      <link>https://www.v2ex.com/t/1205819</link>
+      <guid>v2ex-1205819</guid>
+      <pubDate>Tue, 14 Apr 2026 08:29:21 GMT</pubDate>
+      <description>&lt;p&gt;辞职&lt;/p&gt;
+&lt;p&gt;上个月从北京辞职，领了满额的年终奖，再见了北京&lt;/p&gt;
+&lt;p&gt;因为孩子要上初中了，没有户口也不能在北京高考，考虑到孩子将来高中跟不上老家的节奏，还是早点回去上初中吧，没有办法了。&lt;/p&gt;
+&lt;p&gt;孩子他妈工作比我稳定，也比我挣的多，只能是我回家陪孩子上学了，碰巧三月底刷招聘信息，正好有个运维的岗位，过去一面试直接四月到岗上班。&lt;/p&gt;
+&lt;p&gt;公司是房地产行业，虽然房地产大方向不太行，但是跟我这岗位又有什么关系呢，况且也算本地比较有名的房地产公司，公司只有我一个 IT ，每天干的活也就是装装系统，修修打印机，熟悉熟悉 OA 系统运行，轻轻松松也挺好。&lt;/p&gt;
+&lt;p&gt;小城足够小，每天骑电动车上下班十分钟就能到，比北京日常通勤四十分钟好多了，每天八点上班，五点下班，下班后逛逛超市买点菜回家做饭，吃完饭还能陪孩子辅导辅导功课，完事玩玩游戏。&lt;/p&gt;
+&lt;p&gt;我也没有大的志气，日子平平常常就够了。&lt;/p&gt;
+&lt;p&gt;应该没有同事能够刷到吧。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title># 🐱 送懒猫微服！送 CodeX 啦！（第二轮）</title>
+      <link>https://www.v2ex.com/t/1205888</link>
+      <guid>v2ex-1205888</guid>
+      <pubDate>Tue, 14 Apr 2026 13:04:27 GMT</pubDate>
+      <description>&lt;h1&gt;🐱 送懒猫微服！！！送 CodeX 啦！！！&lt;/h1&gt;
+&lt;h1&gt;极速内网穿透+AI 编程小主机，出门也能 Vibe Coding&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/96XFwHon.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;丝滑内网穿透：速度快，不受运营商干扰，比 CloudFlare 和 Tailscale 快很多，TCP 、UDP 、WebSocket 混合打洞，从根本上解决运营商限速的问题。&lt;/p&gt;
+&lt;p&gt;自研 LightOS：相当于一台自由的 VPS ，在家插上鼠标键盘显示器可以当作 Linux 桌面开发机用，在外可以用手机直接操控 Claude Code 和 Codex ，手机移动 AI 编程才是真正的 YYDS 。&lt;/p&gt;
+&lt;p&gt;已经有很多大佬感受到懒猫微服 LightOS 的魅力了。一次部署好，就能随时随地 Vibe Coding——电脑/平板/手机都行，不用守着桌面，也不用反复折腾。&lt;/p&gt;
+&lt;p&gt;感谢大家一直以来的支持与厚爱，欢迎积极参与活动，就有机会把懒猫微服 Coding 神器带回家！本次活动特别感谢 @&lt;a href=&quot;/member/AICodeMirror&quot;&gt;AICodeMirror&lt;/a&gt; 老板提供的 30 份 CODEX 体验激活码，他家很稳，有兴趣的大佬们可以关注下。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;📝 抽奖规则（必看）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+收藏本帖子，在评论区评论：&lt;blockquote&gt;
+&lt;p&gt;送懒猫微服！送 CodeX 啦！极速内网穿透+AI 编程小主机，出门也能 Vibe Coding&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;添加官方微信进「懒猫微服微信交流群」 15342333561 18627819427 17820700354 17612774028&lt;/li&gt;
+&lt;li&gt;已经在懒猫微服任意交流群的大佬不用重复进群&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr/&gt;
+&lt;h2&gt;⏰ 开奖时间和规则&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;第一轮：4 月 14 日（周二）晚上 8 点，抽取 15 份二等奖&lt;/li&gt;
+&lt;li&gt;第二轮：4 月 17 日（周五）晚上 8 点，抽取 1 份一等奖，15 份二等奖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;第一轮抽奖活动结束后，会有第二轮的抽奖贴可以继续参与，可以重复中奖。
+开奖时，所有参与活动的 ID 会导入开源抽奖程序，保证公平公正。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;🎁 奖品列表&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;一等奖&lt;/strong&gt;：价值 5499 元「懒猫微服 LC-03 随身 AI 编程机器」×1 台&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;二等奖&lt;/strong&gt;：50 美刀额度的「 codex 体验激活码」+「 499 元懒猫微服主机优惠券」×30 套&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💰 优惠券使用规则&lt;/h3&gt;
+&lt;p&gt;中奖优惠券仅用于小程序购买，不与京东优惠叠加，奖品和优惠券均不可折现，不可兑换其他奖品。&lt;/p&gt;
+&lt;h3&gt;⏳ 中奖有效期&lt;/h3&gt;
+&lt;p&gt;3 天，过期未联系工作人员奖品将失效。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;⚠️ 特别提醒&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;一定要进「懒猫微服交流群」才能获得中奖资格。&lt;/li&gt;
+&lt;li&gt;中奖大佬需要把“参与活动截图以及个人主页截图”作为凭证发给工作人员验证。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr/&gt;
+&lt;h2&gt;🛒 购买渠道和优惠&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;添加下方微信获取懒猫微服内部资料和优惠，或京东搜索“懒猫微服”
+15342333561 18627819427 17820700354 17612774028 添加微信可以备注 V 站或者 V2EX ，感谢老板们的支持&lt;/li&gt;
+&lt;li&gt;懒猫零元购：微服用户每移植一款应用到懒猫商店即可得百元红包，原创应用奖励翻倍；撰写一篇攻略可得 50 红包，多移多得，没有上限。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>大家下班了一般都干啥</title>
+      <link>https://www.v2ex.com/t/1205790</link>
+      <guid>v2ex-1205790</guid>
+      <pubDate>Tue, 14 Apr 2026 07:20:31 GMT</pubDate>
+      <description>之前下班会打哈 pubg ，现在也不玩了，不知道干啥</description>
+    </item>
+    <item>
+      <title>继续启动！ 19 元/月质保整月的 gpt plus！</title>
+      <link>https://www.v2ex.com/t/1205942</link>
+      <guid>v2ex-1205942</guid>
+      <pubDate>Wed, 15 Apr 2026 00:34:57 GMT</pubDate>
+      <description>&lt;p&gt;昨天 V 友们太热情了，给了我这个刚开始搞副业的中年程序员亿点小小的震撼，今天继续上货！&lt;/p&gt;
+&lt;p&gt;19/r 月，充到自己账号，不共享不中转，质保整月，掉了重新补，补不了的按天退钱，主打一个良心！&lt;/p&gt;
+&lt;p&gt;小店地址： &lt;a href=&quot;https://pay.ldxp.cn/shop/JVDCG8IG&quot; rel=&quot;nofollow&quot;&gt;https://pay.ldxp.cn/shop/JVDCG8IG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;TG 群： &lt;a href=&quot;https://t.me/+FrPczGaCtTVhZTc9&quot; rel=&quot;nofollow&quot;&gt;https://t.me/+FrPczGaCtTVhZTc9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;QQ 群：1087590361&lt;/p&gt;
 </description>
     </item>
   </channel>
