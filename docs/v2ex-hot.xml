@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 15 Apr 2026 14:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 15:58:23 GMT</lastBuildDate>
     <item>
       <title>[加群领 10U 额度 评论留 ID 再发 5U] ⛽ RootFlow AI — 高性能 AI API 加油站</title>
       <link>https://www.v2ex.com/t/1206000</link>
@@ -143,6 +143,16 @@
 </description>
     </item>
     <item>
+      <title>Anthropic 宣布在 Claude 平台推行身份验证机制</title>
+      <link>https://www.v2ex.com/t/1206060</link>
+      <guid>v2ex-1206060</guid>
+      <pubDate>Wed, 15 Apr 2026 06:12:01 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://support.claude.com/en/articles/14328960-identity-verification-on-claude&quot; rel=&quot;nofollow&quot;&gt;原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic 正在其 Claude 平台逐步推行身份验证机制，当用户访问特定功能或触发常规平台完整性检查时，系统会要求通过第三方合作伙伴 Persona Identities 完成验证以防止滥用、执行使用政策并履行法律义务，用户需提供有效的政府签发证件（如护照、驾照或国民身份证）并拍摄实时自拍。身份验证数据仅用于确认用户身份及合规用途，不会用于模型训练，也不会共享给第三方用于营销。&lt;/p&gt;
+&lt;p&gt;若验证后发现用户多次违反政策、来自不支持的地区或未满 18 岁，其账号仍可能被封禁。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>替尔泊肽，一个月减掉 20 斤</title>
       <link>https://www.v2ex.com/t/1205963</link>
       <guid>v2ex-1205963</guid>
@@ -152,16 +162,6 @@
 4 月 2 号晚上打第三针     减 12 斤
 4 月 11 号晚上打第四针    截止 4 月 15 号，已经减 20 斤了&lt;/p&gt;
 &lt;p&gt;原体重 100 公斤，目前 90 公斤，耗时一个月&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Anthropic 宣布在 Claude 平台推行身份验证机制</title>
-      <link>https://www.v2ex.com/t/1206060</link>
-      <guid>v2ex-1206060</guid>
-      <pubDate>Wed, 15 Apr 2026 06:12:01 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://support.claude.com/en/articles/14328960-identity-verification-on-claude&quot; rel=&quot;nofollow&quot;&gt;原文&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 正在其 Claude 平台逐步推行身份验证机制，当用户访问特定功能或触发常规平台完整性检查时，系统会要求通过第三方合作伙伴 Persona Identities 完成验证以防止滥用、执行使用政策并履行法律义务，用户需提供有效的政府签发证件（如护照、驾照或国民身份证）并拍摄实时自拍。身份验证数据仅用于确认用户身份及合规用途，不会用于模型训练，也不会共享给第三方用于营销。&lt;/p&gt;
-&lt;p&gt;若验证后发现用户多次违反政策、来自不支持的地区或未满 18 岁，其账号仍可能被封禁。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -177,13 +177,6 @@
 </description>
     </item>
     <item>
-      <title>26 岁确诊高血压 要靠药物降血压终身</title>
-      <link>https://www.v2ex.com/t/1206044</link>
-      <guid>v2ex-1206044</guid>
-      <pubDate>Wed, 15 Apr 2026 05:25:26 GMT</pubDate>
-      <description>如题 去年 12 月份进外包之前 入职体检 说我血压有点高最高 高压 180 了&lt;br /&gt;然后体检中心挂了一个号去心血管 挂号 让我去做全面检测 &lt;br /&gt;最后住院三天 确证原发性高血压  这个意思是以后要靠靠厄贝沙坦 和美酸托尔缓释片 降血压了 &lt;br /&gt;.... 最后告诫大家身体要紧.....</description>
-    </item>
-    <item>
       <title>有人会觉得很可怕吗 ，</title>
       <link>https://www.v2ex.com/t/1206067</link>
       <guid>v2ex-1206067</guid>
@@ -192,6 +185,13 @@
 &lt;p&gt;这么小的孩子，在幼儿园的一举一动都被墙外的家长眼睛盯着，
 在没有边界的监视下的成长，会形成怎样的性格，会成为以后怎样的枷锁&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>26 岁确诊高血压 要靠药物降血压终身</title>
+      <link>https://www.v2ex.com/t/1206044</link>
+      <guid>v2ex-1206044</guid>
+      <pubDate>Wed, 15 Apr 2026 05:25:26 GMT</pubDate>
+      <description>如题 去年 12 月份进外包之前 入职体检 说我血压有点高最高 高压 180 了&lt;br /&gt;然后体检中心挂了一个号去心血管 挂号 让我去做全面检测 &lt;br /&gt;最后住院三天 确证原发性高血压  这个意思是以后要靠靠厄贝沙坦 和美酸托尔缓释片 降血压了 &lt;br /&gt;.... 最后告诫大家身体要紧.....</description>
     </item>
   </channel>
 </rss>
