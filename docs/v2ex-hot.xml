@@ -4,59 +4,16 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 16 Apr 2026 04:33:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:27:37 GMT</lastBuildDate>
     <item>
-      <title>硕 2 大厂 2 年，想 all in 考公，打算入职江浙沪的小厂做过渡，求建议</title>
-      <link>https://www.v2ex.com/t/1206048</link>
-      <guid>v2ex-1206048</guid>
-      <pubDate>Wed, 15 Apr 2026 05:30:44 GMT</pubDate>
-      <description>&lt;p&gt;先抛问题，感谢 v 站的各位大哥观看，也希望各位能根据自己的经验，给点建议，鞠躬感谢！&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;我是否要去这家小厂。还是说自己准备面试去试试外企或者国企&lt;/li&gt;
-&lt;li&gt;all in 考公是否风险，我需要预防什么，以及我需要怎么做&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;背景：本硕 985 ，在北京一家大厂做 agent 开发，强度特别大，作息 10 10.30 5 并且涉及一些 agent infra 的工作。连续 2 年都是高绩效，有晋升。&lt;/p&gt;
-&lt;p&gt;个人想法：对于未来程序员很悲观，特别是大厂升不上去，一直在一线城市的人。而且我是一个特别内耗的人（主要原因），对于 ai 很乐观，对于自己很悲观，对于安稳生活的极度渴望，不要求大富大贵，自己一个人一个月到手 6k 就很满足了，所以才想考江浙的体制内。&lt;/p&gt;
-&lt;p&gt;现有路径：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;自己已经去年就开始准备考公了，现在粉笔行测模考均能保证 70 分以上，剩下的就看考场状态。但是申论太差了，没有那种体制内的写作灵感，导致每次考试申论的分数都不好看，今年国考和省考都只有 60 出头。所以想找个小厂，能正常下班，专心备考，且能有一定收入，维持日常的生活。&lt;/li&gt;
-&lt;li&gt;之前实习有个小厂的老板，人数大概 50 人，主要是 ToG 的业务，去年营收 5k 个。本科实习的时候就特别看好我，我硕士毕业后也一直想让我去他那里工作。前几天重新沟通了，对方也愿意接收我，base 应该 18k ，每天 6 点能下班，一个月大概有 10 天加班到 8 点。做的方向应该就是大模型和 agent 相关了。然后估计会独立负责一块，估计也有点压力。我之前自己都是螺丝钉，负责一小部分，害怕自己接不了这个活。&lt;/li&gt;
-&lt;/ol&gt;
+      <title>有人说 [外包] 太难听了，很土，有没有什么别的、更好听的名称。</title>
+      <link>https://www.v2ex.com/t/1206278</link>
+      <guid>v2ex-1206278</guid>
+      <pubDate>Thu, 16 Apr 2026 02:57:37 GMT</pubDate>
+      <description>&lt;p&gt;V 站外包大佬的数量，算是个人已知最多的站了。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;外包这个名称有没有什么别的、更好听的名称。征求一下&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>有人会觉得很可怕吗 ，</title>
-      <link>https://www.v2ex.com/t/1206067</link>
-      <guid>v2ex-1206067</guid>
-      <pubDate>Wed, 15 Apr 2026 06:20:39 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/NUt3QuT.jpeg&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/xEf6IsQ.jpeg&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;这么小的孩子，在幼儿园的一举一动都被墙外的家长眼睛盯着，
-在没有边界的监视下的成长，会形成怎样的性格，会成为以后怎样的枷锁&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>科普一下低价 gpt 是怎么来的</title>
-      <link>https://www.v2ex.com/t/1206058</link>
-      <guid>v2ex-1206058</guid>
-      <pubDate>Wed, 15 Apr 2026 05:50:07 GMT</pubDate>
-      <description>说白了就是卡 bug 的灵车。&lt;br /&gt;像新加坡、日本、英国这些地区，有时候会有首月免费试用。Telegram 上有 bot 可以全自动免费帮你开通。你只要把自己的 access token 贴进去，它就帮你操作。原理基本就是 ip 代理到免费试用活动区，拿虚拟信用卡、假地址之类的东西去薅首月试用。&lt;br /&gt;这种东西真不建议碰。先不说稳不稳，光是把自己的 token 交出去这件事就已经很危险了，封号、盗号、隐私泄露都有可能。如果 GPT 确实能给你的生活和工作带来帮助，老老实实付费订阅得了。再说了，低价区一个月也就 70 多，真没必要省这点钱</description>
-    </item>
-    <item>
-      <title>Anthropic 宣布在 Claude 平台推行身份验证机制</title>
-      <link>https://www.v2ex.com/t/1206060</link>
-      <guid>v2ex-1206060</guid>
-      <pubDate>Wed, 15 Apr 2026 06:12:01 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://support.claude.com/en/articles/14328960-identity-verification-on-claude&quot; rel=&quot;nofollow&quot;&gt;原文&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 正在其 Claude 平台逐步推行身份验证机制，当用户访问特定功能或触发常规平台完整性检查时，系统会要求通过第三方合作伙伴 Persona Identities 完成验证以防止滥用、执行使用政策并履行法律义务，用户需提供有效的政府签发证件（如护照、驾照或国民身份证）并拍摄实时自拍。身份验证数据仅用于确认用户身份及合规用途，不会用于模型训练，也不会共享给第三方用于营销。&lt;/p&gt;
-&lt;p&gt;若验证后发现用户多次违反政策、来自不支持的地区或未满 18 岁，其账号仍可能被封禁。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>26 岁确诊高血压 要靠药物降血压终身</title>
-      <link>https://www.v2ex.com/t/1206044</link>
-      <guid>v2ex-1206044</guid>
-      <pubDate>Wed, 15 Apr 2026 05:25:26 GMT</pubDate>
-      <description>如题 去年 12 月份进外包之前 入职体检 说我血压有点高最高 高压 180 了&lt;br /&gt;然后体检中心挂了一个号去心血管 挂号 让我去做全面检测 &lt;br /&gt;最后住院三天 确证原发性高血压  这个意思是以后要靠靠厄贝沙坦 和美酸托尔缓释片 降血压了 &lt;br /&gt;.... 最后告诫大家身体要紧.....</description>
     </item>
     <item>
       <title>关于父母的托举</title>
@@ -76,16 +33,6 @@
 </description>
     </item>
     <item>
-      <title>有人说 [外包] 太难听了，很土，有没有什么别的、更好听的名称。</title>
-      <link>https://www.v2ex.com/t/1206278</link>
-      <guid>v2ex-1206278</guid>
-      <pubDate>Thu, 16 Apr 2026 02:57:37 GMT</pubDate>
-      <description>&lt;p&gt;V 站外包大佬的数量，算是个人已知最多的站了。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;外包这个名称有没有什么别的、更好听的名称。征求一下&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>一人推荐一款 mac m5 必装软件</title>
       <link>https://www.v2ex.com/t/1206103</link>
       <guid>v2ex-1206103</guid>
@@ -95,14 +42,61 @@
 </description>
     </item>
     <item>
-      <title>27 届毕业生的迷思</title>
-      <link>https://www.v2ex.com/t/1206037</link>
-      <guid>v2ex-1206037</guid>
-      <pubDate>Wed, 15 Apr 2026 04:37:45 GMT</pubDate>
-      <description>&lt;p&gt;23 年在 v 站发的帖子 &lt;a href=&quot;https://www.v2ex.com/t/962775#reply29&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/962775#reply29&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;现在在找暑期实习，我才发现最大的错误就是选择读研，没有在本科的时候选择就业。
-读研期间干一堆烂事，研二才开始做自己的课题，一边学开发找工作，实验室以前资源也一般，没什么科研成果，浪费了三年时间，还不一定找得到本科努力就能去的大厂。&lt;/p&gt;
-&lt;p&gt;唏嘘&lt;/p&gt;
+      <title>为什么普通人戾气越来越重？看看这两条新闻就懂了</title>
+      <link>https://www.v2ex.com/t/1206266</link>
+      <guid>v2ex-1206266</guid>
+      <pubDate>Thu, 16 Apr 2026 02:28:05 GMT</pubDate>
+      <description>&lt;p&gt;最近有两条新闻让人气愤又心寒。&lt;/p&gt;
+&lt;p&gt;首先是成都一位 73 岁老人骑车到乡村游玩，因走错村民的生产小路，在急转弯处摔倒不幸身亡。家属以“路没有警示牌”为由要求赔偿，然而村里回应称这条路不是旅游路线，是村民自用的生产道路。网友纷纷吐槽，这种心态让人无语，讹到就是赚到，讹不成就撤诉，完全没有责任感。&lt;/p&gt;
+&lt;p&gt;另一条新闻是一位道士在道观内无偿传授针灸技艺，被认定为非法行医，被罚十万元。道士感到委屈，因为他并未收费或行医，只是传授技艺。但当地卫健部门坚持处罚，网友纷纷表示这完全缺乏常识和人情。&lt;/p&gt;
+&lt;p&gt;这两件事看似不同，却反映出当下社会的不公。一方面，乱索赔、讹人得利；另一方面，本分做事的人却被重罚。规则不能没有人情，善意不该承担风险。这样下去，谁能不心寒？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Gemini app, now on Mac</title>
+      <link>https://www.v2ex.com/t/1206235</link>
+      <guid>v2ex-1206235</guid>
+      <pubDate>Thu, 16 Apr 2026 00:48:27 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://gemini.google/mac/&quot; rel=&quot;nofollow noopener&quot;&gt;https://gemini.google/mac/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/wSQqk5L.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/wSQqk5L.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>京东家政 2 小时预约火爆，为什么</title>
+      <link>https://www.v2ex.com/t/1206231</link>
+      <guid>v2ex-1206231</guid>
+      <pubDate>Thu, 16 Apr 2026 00:22:17 GMT</pubDate>
+      <description>&lt;h3&gt;买的京东 Plus 送的 12 积分，5 积分换了京东家政 2 小时&lt;/h3&gt;
+&lt;p&gt;约的时间是近四天内，无论选系统推荐的时间或是其它任何时间均是预约火爆，
+我不死心，约 4 月 30 日系统推荐的时间总不火爆吧，很遗憾，依然是销售火爆。
+问 Plus 客服说让我换时间约或约系统推荐时间除此无它。&lt;/p&gt;
+&lt;h3&gt;烦请有经验的前辈指点怎么才能约上。&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;img&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://im.gurl.eu.org/file/AgACAgEAAxkDAAEBfwxp4CsRE0qd-ckod7sI3eWySxAqfwAC2AtrG7AOAUcmAAGCPykGxUYBAAMCAAN3AAM7BA.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;img&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://im.gurl.eu.org/file/AgACAgEAAxkDAAEBfw1p4CtWWRYJt74MRZ0h4hqxuFkAAaQAAtkLaxuwDgFHVRrVVUo62QMBAAMCAAN3AAM7BA.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>claude 认证莫慌</title>
+      <link>https://www.v2ex.com/t/1206105</link>
+      <guid>v2ex-1206105</guid>
+      <pubDate>Wed, 15 Apr 2026 07:49:34 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/sxbDGTC.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;黑市已经有认证服务提供了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>万把块钱搞什么投资（投机？）好呢</title>
+      <link>https://www.v2ex.com/t/1206257</link>
+      <guid>v2ex-1206257</guid>
+      <pubDate>Thu, 16 Apr 2026 02:03:11 GMT</pubDate>
+      <description>应届牛马干了大半年，有点存款放着，有什么投资渠道？&lt;br /&gt;&lt;br /&gt;现在就定投纳指，但是每天限额 10 块钱，大半年现在才总额 2k 不到，要换个渠道继续投吗？&lt;br /&gt;&lt;br /&gt;在想着是大 A 开户还是炒虚拟币现货，虚拟币之前玩过，合约害人一千块被插针爆仓了，倒也有个好处让我从此以后任何赌博都不碰了。</description>
+    </item>
+    <item>
+      <title>调查: 有人跟我一样用 微信文件传输助手 当记事本用的吗</title>
+      <link>https://www.v2ex.com/t/1206169</link>
+      <guid>v2ex-1206169</guid>
+      <pubDate>Wed, 15 Apr 2026 12:01:34 GMT</pubDate>
+      <description>&lt;p&gt;偶尔有碎片的文字需要记录一下,懒得打开别的 APP, 就顺手发给文件传输助手.&lt;/p&gt;
+&lt;p&gt;手机/PC 就就都有记录了,用的时候翻翻聊天记录,还支持搜索..&lt;/p&gt;
+&lt;p&gt;就是一换手机数据就没了.&lt;/p&gt;
 </description>
     </item>
   </channel>
