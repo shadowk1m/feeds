@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 18 Apr 2026 10:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 11:26:11 GMT</lastBuildDate>
     <item>
       <title>今天结婚了☺️☺️☺️</title>
       <link>https://www.v2ex.com/t/1206769</link>
@@ -41,6 +41,18 @@ CDN 、网络类产品正在走流程 折扣力度同样不小&lt;br/&gt;
 </description>
     </item>
     <item>
+      <title>刚刚自建的，目前自己在用，网速还不错</title>
+      <link>https://www.v2ex.com/t/1206847</link>
+      <guid>v2ex-1206847</guid>
+      <pubDate>Sat, 18 Apr 2026 08:42:50 GMT</pubDate>
+      <description>&lt;p&gt;找到搬瓦工   全程跟着 Gemini 搭建起来   Mac 上建好了&lt;/p&gt;
+&lt;p&gt;美国 - 洛杉矶 DC9 CN2GIA (USCA_9)     **49.99 美元/3 个月   Alipay&lt;/p&gt;
+&lt;p&gt;Ubuntu-22.04-x86_64    机房 USCA_9 (DC9)&lt;/p&gt;
+&lt;p&gt;**20 GB SSD / 1 GB RAM / 1 TB 流量每月 / 2.5G 带宽&lt;/p&gt;
+&lt;p&gt;各位评价一下怎么样&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>1Password 日本代理商最后的低价</title>
       <link>https://www.v2ex.com/t/1206734</link>
       <guid>v2ex-1206734</guid>
@@ -68,18 +80,6 @@ CDN 、网络类产品正在走流程 折扣力度同样不小&lt;br/&gt;
 &lt;/ul&gt;
 &lt;p&gt;官网上写了 5/13 开始要跟随 1Password 官方进行提价，现在这个（老价格+活动打折+老用户打折）可能是最后一次低价了。&lt;/p&gt;
 &lt;p&gt;网址（无 AFF ）： &lt;a href=&quot;https://www.sourcenext.com/product/1password/&quot; rel=&quot;nofollow&quot;&gt;https://www.sourcenext.com/product/1password/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>刚刚自建的，目前自己在用，网速还不错</title>
-      <link>https://www.v2ex.com/t/1206847</link>
-      <guid>v2ex-1206847</guid>
-      <pubDate>Sat, 18 Apr 2026 08:42:50 GMT</pubDate>
-      <description>&lt;p&gt;找到搬瓦工   全程跟着 Gemini 搭建起来   Mac 上建好了&lt;/p&gt;
-&lt;p&gt;美国 - 洛杉矶 DC9 CN2GIA (USCA_9)     **49.99 美元/3 个月   Alipay&lt;/p&gt;
-&lt;p&gt;Ubuntu-22.04-x86_64    机房 USCA_9 (DC9)&lt;/p&gt;
-&lt;p&gt;**20 GB SSD / 1 GB RAM / 1 TB 流量每月 / 2.5G 带宽&lt;/p&gt;
-&lt;p&gt;各位评价一下怎么样&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -153,6 +153,13 @@ Your ID must be issued by a government, clearly legible, undamaged, and include 
 &lt;/ol&gt;
 &lt;p&gt;不理解为什么 cli 或者 codex 这种模式，咋还有这么多人用&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>也做了一款 Markdown 编辑器</title>
+      <link>https://www.v2ex.com/t/1206777</link>
+      <guid>v2ex-1206777</guid>
+      <pubDate>Sat, 18 Apr 2026 01:14:59 GMT</pubDate>
+      <description>一直想拥有一款简单、沉浸、干净的 md 编辑器，Typora 的 UI 有点糙，obsd 太重，我喜欢 Raycast notes 的书写体验，但是它没有文件管理系统。所以花了点时间自己做了一个，功能很简单：所见即所得、iCloud 同步、文件夹管理。&lt;br /&gt;&lt;br /&gt;没有考虑做知识库，完全是随手记的简单使用场景。&lt;br /&gt;&lt;br /&gt;似乎现在不加点 AI 功能有点落伍了，但是考虑到 AI 迭代太快，担心污染产品架构暂时没想好怎么接入，而且我认为简单的文字处理工作其实不需要很强的 AI 能力，所以私心是希望苹果国区能够快点准备好 🤣。&lt;br /&gt;&lt;br /&gt;暂时只支持 MacOS 15.6+&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;App Store: &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/cn/app/pencel/id6757791415?mt=12&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/cn/app/pencel/id6757791415?mt=12&lt;/a&gt;&lt;br /&gt;官网: &lt;a target=&quot;_blank&quot; href=&quot;https://apps.the3ash.com/pencel&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.the3ash.com/pencel&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/le2olLI.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/le2olLI.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
