@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 18 Apr 2026 12:37:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 13:54:49 GMT</lastBuildDate>
     <item>
       <title>今天结婚了☺️☺️☺️</title>
       <link>https://www.v2ex.com/t/1206769</link>
@@ -30,34 +30,18 @@
 </description>
     </item>
     <item>
-      <title>1Password 日本代理商最后的低价</title>
-      <link>https://www.v2ex.com/t/1206734</link>
-      <guid>v2ex-1206734</guid>
-      <pubDate>Fri, 17 Apr 2026 13:02:08 GMT</pubDate>
-      <description>&lt;p&gt;因为 SourceNext 卖的是 3 年版，下面按照 3 年算一下价格&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;官网目前价格&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;个人版 3 年 4 x 36 = $144 约 982 RMB&lt;/li&gt;
-&lt;li&gt;家庭版 3 年 6 x 36 = $216 约 1,473 RMB&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;打折中（目前只有第一年，假设每年都是这个力度有打折）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;个人版 3 年 2.4 x 36 = $86.4 约 589 RMB&lt;/li&gt;
-&lt;li&gt;家庭版 3 年 3.6 x 36 = $129.6 约 884 RMB&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;SourceNext 代理店价格&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;个人版 3 年 新客价 9980 JPY 约 428 RMB&lt;/li&gt;
-&lt;li&gt;家庭版 3 年 新客价 16980 JPY 约 729 RMB&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如果购买过一次（比如 3 年前买过一次）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;个人版 3 年 追加购买价 7800 JPY 约 335 RMB&lt;/li&gt;
-&lt;li&gt;家庭版 3 年 追加购买价 11800 JPY 约 507 RMB&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;官网上写了 5/13 开始要跟随 1Password 官方进行提价，现在这个（老价格+活动打折+老用户打折）可能是最后一次低价了。&lt;/p&gt;
-&lt;p&gt;网址（无 AFF ）： &lt;a href=&quot;https://www.sourcenext.com/product/1password/&quot; rel=&quot;nofollow&quot;&gt;https://www.sourcenext.com/product/1password/&lt;/a&gt;&lt;/p&gt;
-</description>
+      <title>也做了一款 Markdown 编辑器</title>
+      <link>https://www.v2ex.com/t/1206777</link>
+      <guid>v2ex-1206777</guid>
+      <pubDate>Sat, 18 Apr 2026 01:14:59 GMT</pubDate>
+      <description>一直想拥有一款简单、沉浸、干净的 md 编辑器，Typora 的 UI 有点糙，obsd 太重，我喜欢 Raycast notes 的书写体验，但是它没有文件管理系统。所以花了点时间自己做了一个，功能很简单：所见即所得、iCloud 同步、文件夹管理。&lt;br /&gt;&lt;br /&gt;没有考虑做知识库，完全是随手记的简单使用场景。&lt;br /&gt;&lt;br /&gt;似乎现在不加点 AI 功能有点落伍了，但是考虑到 AI 迭代太快，担心污染产品架构暂时没想好怎么接入，而且我认为简单的文字处理工作其实不需要很强的 AI 能力，所以私心是希望苹果国区能够快点准备好 🤣。&lt;br /&gt;&lt;br /&gt;暂时只支持 MacOS 15.6+&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;App Store: &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/cn/app/pencel/id6757791415?mt=12&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/cn/app/pencel/id6757791415?mt=12&lt;/a&gt;&lt;br /&gt;官网: &lt;a target=&quot;_blank&quot; href=&quot;https://apps.the3ash.com/pencel&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.the3ash.com/pencel&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/le2olLI.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/le2olLI.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>低价 GPT 订阅漏洞已被捅到官方脸上</title>
+      <link>https://www.v2ex.com/t/1206762</link>
+      <guid>v2ex-1206762</guid>
+      <pubDate>Fri, 17 Apr 2026 18:53:45 GMT</pubDate>
+      <description>link： &lt;a target=&quot;_blank&quot; href=&quot;https://www.nodeseek.com/jump?to=https%3A%2F%2Fcommunity.openai.com%2Ft%2Fsecurity-report-apple-pay-receipt-validation-does-not-bind-to-purchaser-apple-id-potential-subscription-bypass%2F1379167%3Futm_source%3Dchatgpt.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.nodeseek.com/jump?to=https%3A%2F%2Fcommunity.openai.com%2Ft%2Fsecurity-report-apple-pay-receipt-validation-does-not-bind-to-purchaser-apple-id-potential-subscription-bypass%2F1379167%3Futm_source%3Dchatgpt.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;现在好了，大家都别玩了，估计这周末就会把漏洞堵上</description>
     </item>
     <item>
       <title>探讨下获取其他国家身份的途径</title>
@@ -105,20 +89,6 @@ Your ID must be issued by a government, clearly legible, undamaged, and include 
 </description>
     </item>
     <item>
-      <title>也做了一款 Markdown 编辑器</title>
-      <link>https://www.v2ex.com/t/1206777</link>
-      <guid>v2ex-1206777</guid>
-      <pubDate>Sat, 18 Apr 2026 01:14:59 GMT</pubDate>
-      <description>一直想拥有一款简单、沉浸、干净的 md 编辑器，Typora 的 UI 有点糙，obsd 太重，我喜欢 Raycast notes 的书写体验，但是它没有文件管理系统。所以花了点时间自己做了一个，功能很简单：所见即所得、iCloud 同步、文件夹管理。&lt;br /&gt;&lt;br /&gt;没有考虑做知识库，完全是随手记的简单使用场景。&lt;br /&gt;&lt;br /&gt;似乎现在不加点 AI 功能有点落伍了，但是考虑到 AI 迭代太快，担心污染产品架构暂时没想好怎么接入，而且我认为简单的文字处理工作其实不需要很强的 AI 能力，所以私心是希望苹果国区能够快点准备好 🤣。&lt;br /&gt;&lt;br /&gt;暂时只支持 MacOS 15.6+&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;App Store: &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/cn/app/pencel/id6757791415?mt=12&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/cn/app/pencel/id6757791415?mt=12&lt;/a&gt;&lt;br /&gt;官网: &lt;a target=&quot;_blank&quot; href=&quot;https://apps.the3ash.com/pencel&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.the3ash.com/pencel&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/le2olLI.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/le2olLI.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>低价 GPT 订阅漏洞已被捅到官方脸上</title>
-      <link>https://www.v2ex.com/t/1206762</link>
-      <guid>v2ex-1206762</guid>
-      <pubDate>Fri, 17 Apr 2026 18:53:45 GMT</pubDate>
-      <description>link： &lt;a target=&quot;_blank&quot; href=&quot;https://www.nodeseek.com/jump?to=https%3A%2F%2Fcommunity.openai.com%2Ft%2Fsecurity-report-apple-pay-receipt-validation-does-not-bind-to-purchaser-apple-id-potential-subscription-bypass%2F1379167%3Futm_source%3Dchatgpt.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.nodeseek.com/jump?to=https%3A%2F%2Fcommunity.openai.com%2Ft%2Fsecurity-report-apple-pay-receipt-validation-does-not-bind-to-purchaser-apple-id-potential-subscription-bypass%2F1379167%3Futm_source%3Dchatgpt.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;现在好了，大家都别玩了，估计这周末就会把漏洞堵上</description>
-    </item>
-    <item>
       <title>继续送！ codex 中转，留邮箱就送。（老板去找老黑收 kyc 去了）</title>
       <link>https://www.v2ex.com/t/1206747</link>
       <guid>v2ex-1206747</guid>
@@ -144,6 +114,14 @@ Your ID must be issued by a government, clearly legible, undamaged, and include 
 &lt;li&gt;提供上下文给 ai 时，没办法精确关联到文件第几行&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;不理解为什么 cli 或者 codex 这种模式，咋还有这么多人用&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ios 设置的闹钟没响，导致我今天上班迟到😭。</title>
+      <link>https://www.v2ex.com/t/1206783</link>
+      <guid>v2ex-1206783</guid>
+      <pubDate>Sat, 18 Apr 2026 01:44:07 GMT</pubDate>
+      <description>&lt;p&gt;上一周都是正常响的呀，我的闹钟都是震动，不开声音的。今天唯一不同的就是，iwtach 没电了，闹钟只在页面显示个图标，但是手机没有震动。重新设置闹钟也是一样的不震动，这是为啥呀！ &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/AHYXDnE.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
