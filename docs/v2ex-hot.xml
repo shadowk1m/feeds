@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 18 Apr 2026 06:44:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:52:49 GMT</lastBuildDate>
     <item>
       <title>今天结婚了☺️☺️☺️</title>
       <link>https://www.v2ex.com/t/1206769</link>
@@ -16,13 +16,6 @@
 &lt;p&gt;此刻时间早晨 2026.4.18 号 7.17 分
 准备起床带老婆去换婚纱和化妆了！&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>周五了，大家周末准备干啥呢</title>
-      <link>https://www.v2ex.com/t/1206651</link>
-      <guid>v2ex-1206651</guid>
-      <pubDate>Fri, 17 Apr 2026 07:05:29 GMT</pubDate>
-      <description>今天晚上去买麦当劳整点薯条&lt;br /&gt;明天去南京南站南广场买绝味鸭脖的虾尾&lt;br /&gt;再买点菜做两天菜&lt;br /&gt;然后就宅家看两天金庸武侠电视剧</description>
     </item>
     <item>
       <title>上门女婿和女性嫁去男方家有什么本质区别？</title>
@@ -77,85 +70,6 @@
 </description>
     </item>
     <item>
-      <title>对于不听取任务布置的下属，你们会怎么做？</title>
-      <link>https://www.v2ex.com/t/1206673</link>
-      <guid>v2ex-1206673</guid>
-      <pubDate>Fri, 17 Apr 2026 08:11:10 GMT</pubDate>
-      <description>&lt;p&gt;我有 1-2 个下属，平时布置的任务答应得好好的，也没有提出意见。执行的时候按不及格交付，或者根本不做。我应该：
-1.一直不停地 push 他去做（目前我是这样做的，push 了两三遍，直接当面指出也没有用）；
-2.听之任之，让他自己去碰壁，让这个项目失败；
-3.我自己上，补位完成任务交付&lt;/p&gt;
-&lt;p&gt;事实上我虽然负责给他们布置任务，但是管不到他们的绩效，所以约束力不是很强，也弄得自己心很累。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>从 X 上搬运来的白嫖 GPT Plus 教程</title>
-      <link>https://www.v2ex.com/t/1206640</link>
-      <guid>v2ex-1206640</guid>
-      <pubDate>Fri, 17 Apr 2026 06:42:59 GMT</pubDate>
-      <description>&lt;h1&gt;超优质教程&lt;/h1&gt;
-&lt;p&gt;什么 Apple ID 绑定、什么账号对应关系，全不查。这就好比你拿着别人的购物小票去柜台领东西，柜员只看小票真假，不看你身份证。&lt;/p&gt;
-&lt;p&gt;三端订阅管理都是交给第三方 API 处理的，iOS 系统框架允许 App 把内购凭据往第三方服务器发，这本是正常开发逻辑。但 OpenAI 在这条链路上偷了懒——或者说，压根没想过有人会卡这个环节。&lt;/p&gt;
-&lt;p&gt;既然漏洞摆在这儿，流程就简单了。&lt;/p&gt;
-&lt;p&gt;第一步：搞一个土耳其区 Apple ID 。&lt;/p&gt;
-&lt;p&gt;土耳其区 Plus 标价 499 里拉一个月，折人民币大概八十五块。国内定价多少？一百四五。差价自己算。&lt;/p&gt;
-&lt;p&gt;往这个土区 Apple ID 里充好礼品卡，钱备足。&lt;/p&gt;
-&lt;p&gt;第二步：拦截收据。&lt;/p&gt;
-&lt;p&gt;在你 iPhone 上打开 ChatGPT App ，别登录你想开 Plus 的目标账号，随便登个临时号或者干脆不登。&lt;/p&gt;
-&lt;p&gt;内购付款之前，配置网络拦截——核心操作就是阻止 ChatGPT App 把收据发给 OpenAI 服务器。&lt;/p&gt;
-&lt;p&gt;App Store 那边照常扣钱，Apple 照常把收据扔到你手机本地沙盒目录里。但因为你的拦截，这张收据没自动飞向 OpenAI ，而是老老实实待在本地等你来拿。&lt;/p&gt;
-&lt;p&gt;第三步：导出收据。&lt;/p&gt;
-&lt;p&gt;导出收据通常需越狱设备或利用系统漏洞。实际主流玩法有三种：&lt;/p&gt;
-&lt;p&gt;方法 A ，端点本地映射。用 DNS 劫持或本地代理，把 ChatGPT App 发往 OpenAI 的请求重定向到你自己的本地服务器。请求里本来就带着 Base64 编码的收据，到了你本地，直接保存下来。工具就那些：mitmproxy 、Charles Proxy 、自建 HTTPS 代理加一张自签证书。不用越狱，门槛低得令人发指。&lt;/p&gt;
-&lt;p&gt;方法 B ，越狱加 Hook 。越狱设备上用 Frida 或者 Flex ，直接 hook StoreKit 框架，截下 SKPaymentTransaction 的 transactionReceipt ，或者读 appStoreReceiptURL 拿收据文件。粗暴直接。&lt;/p&gt;
-&lt;p&gt;方法 C ，安卓路径用 Xposed Hook ，逻辑类似。&lt;/p&gt;
-&lt;p&gt;第四步：API 补单。&lt;/p&gt;
-&lt;p&gt;收据到手，直接往 OpenAI 的订阅接口发请求：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;POST https://chat.openai.com/backend-api/subscription/upgrade
-Content-Type: application/json
-Authorization: Bearer &amp;lt;目标账号的 auth token&amp;gt;
- https://chat.openai.com/backend-api/subscription/upgrade 
-Content-Type: application/json
-授权：持有&amp;lt; 目标账号的授权令牌&amp;gt;
-
-{
-  &quot;receipt&quot;: &quot;&amp;lt;Base64 编码的 iOS 收据&amp;gt;&quot;,
-  &quot;platform&quot;: &quot;ios&quot;,
-  &quot;product_id&quot;: &quot;http://com.openai.chatgpt.plus&quot;,
-  &quot;device_info&quot;: {
-    &quot;model&quot;: &quot;iPhone14,2&quot;,
-    &quot;os_version&quot;: &quot;17.0&quot;,
-    &quot;timezone&quot;: &quot;Asia/Shanghai&quot;
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;{ &quot;receipt&quot;: &quot;&amp;lt;Base64 编码的 iOS 收据&amp;gt;&quot;, &quot;platform&quot;: &quot;ios&quot;, &quot;product_id&quot;: &quot; &lt;a href=&quot;http://com.openai.chatgpt.plus&quot; rel=&quot;nofollow&quot;&gt;http://com.openai.chatgpt.plus&lt;/a&gt; &quot;,
-&quot;device_info&quot;: {
-型号： “iPhone14,2”
-&quot;os_version&quot;: &quot;17.0&quot;,
-“时区”： “亚洲/上海”
-}
-}&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;
-注意，这里的 auth token 是目标用户给你的登录令牌，权限有限，有效期短。你给他充完 Plus ，他立刻改密码，你拿着这张收据去充下一个。
-
-一张土耳其收据八十五块人民币成本，能给无数个账号开 Plus 。闲鱼上那些二三十块钱一个月的 GPT Plus 代充，就是这么来的。你以为人家做慈善？人家是拿一张票反复上车。
-
-OpenAI 至今没补这个窟窿。不是补不了，是优先级不够，或者说，他们根本不在乎这点订阅收入的漏洞。毕竟大头在企业 API 那边。
-
-这套流程，技术含量不高，但信息差极高。外面那些收费几千教人“GPT 代充技术”的，教的就是这几步。我今天直接摊开写，省得你们再去交智商税。
-
-这套教程是 
-@xkajon
-  这位大佬发的
-但是他被同行干了
-帖子不得不删除
-我流量小  需要的可以收藏保存
-或者直接复制保存下去
-一起去搞老外的钱&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    <item>
       <title>[送 5 张 Giffgaff 卡] 阿里云折扣账户， 低门槛 ECS 五折</title>
       <link>https://www.v2ex.com/t/1206723</link>
       <guid>v2ex-1206723</guid>
@@ -176,6 +90,18 @@ CDN 、网络类产品正在走流程 折扣力度同样不小&lt;br/&gt;
 欢迎各位 wx 咨询 base64:WWFuZ0hhb05pbmcwMjE=    &lt;/p&gt;
 &lt;p&gt;有疑问、需求和建议可以评论区或微信直接联系我！&lt;br/&gt;
 &lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.r2.yserver.ink/2026/04/06/69d348c5bb6cb.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>对于不听取任务布置的下属，你们会怎么做？</title>
+      <link>https://www.v2ex.com/t/1206673</link>
+      <guid>v2ex-1206673</guid>
+      <pubDate>Fri, 17 Apr 2026 08:11:10 GMT</pubDate>
+      <description>&lt;p&gt;我有 1-2 个下属，平时布置的任务答应得好好的，也没有提出意见。执行的时候按不及格交付，或者根本不做。我应该：
+1.一直不停地 push 他去做（目前我是这样做的，push 了两三遍，直接当面指出也没有用）；
+2.听之任之，让他自己去碰壁，让这个项目失败；
+3.我自己上，补位完成任务交付&lt;/p&gt;
+&lt;p&gt;事实上我虽然负责给他们布置任务，但是管不到他们的绩效，所以约束力不是很强，也弄得自己心很累。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -209,27 +135,56 @@ CDN 、网络类产品正在走流程 折扣力度同样不小&lt;br/&gt;
 </description>
     </item>
     <item>
-      <title>牛逼了，我的阿里云百炼 Coding Plan Pro 莫名被永久封禁，联系客服，无法解封。寻求替代。</title>
-      <link>https://www.v2ex.com/t/1206664</link>
-      <guid>v2ex-1206664</guid>
-      <pubDate>Fri, 17 Apr 2026 07:47:42 GMT</pubDate>
-      <description>&lt;p&gt;有遇到这个的么？&lt;/p&gt;
-&lt;p&gt;今天阿里云百炼 Coding Plan Pro 莫名被永久封禁，联系客服，无法解封。
-就自己在云服务部署了几个龙虾，和本地用 claude code 编程用。
-都是正常使用，由原来的轻量套餐刚升级到 pro ，使用十几天，今天提示违规被禁。&lt;/p&gt;
-&lt;p&gt;先收到的短信：
-[阿里云] 尊敬的 xxx：安全系统检测到您账号下的 Coding Plan 存在异常调用行为，违反了 Coding Plan 《订阅前须知》的相关规定，阿里云将于 1 小时后终止您的订阅服务，届时您的 Coding Plan 将不可用且无法恢复。如有疑问请通过工单与我们联系。&lt;/p&gt;
-&lt;p&gt;然后联系客服，客服说系统自动永久封禁且无法解封，不能告知具体原因，请谅解。&lt;/p&gt;
-&lt;p&gt;自己觉得唯一可能触发的是几个龙虾和本地 2 电脑配置使用了，触发了账户共享导致被封？
-有用阿里云百炼 Coding Plan 的朋友需要注意了。
-大家有没有别的推荐的 coding plan ？&lt;/p&gt;
-&lt;p&gt;查看相关条款：&lt;/p&gt;
-&lt;p&gt;订阅前须知
-Coding Plan 服务不支持退款。因此在订阅前请知悉以下重要内容：&lt;/p&gt;
-&lt;p&gt;严禁 API 调用：仅限在编程工具（如 Claude Code 、OpenClaw 等）中使用，禁止以 API 调用的形式用于自动化脚本、自定义应用程序后端或任何非交互式批量调用场景。将套餐 API Key 用于允许范围之外的调用将被视为违规或滥用，可能会导致订阅被暂停或 API Key 被封禁。&lt;/p&gt;
-&lt;p&gt;数据使用授权：使用 Coding Plan 期间，模型输入以及模型生成的内容将用于服务改进与模型优化。停止使用 Coding Plan 服务可终止后续数据授权，但终止授权的范围不涵盖已授权使用的 Coding Plan 数据。详细条款请参见阿里云百炼服务协议第 5.2 条。&lt;/p&gt;
-&lt;p&gt;账号使用规范：套餐为订阅人专享使用，禁止共享。账号共享可能导致订阅权益受限。&lt;/p&gt;
+      <title>探讨下获取其他国家身份的途径</title>
+      <link>https://www.v2ex.com/t/1206775</link>
+      <guid>v2ex-1206775</guid>
+      <pubDate>Sat, 18 Apr 2026 00:52:22 GMT</pubDate>
+      <description>&lt;p&gt;OP 人在中国大陆。对这个话题不熟悉，请指教&lt;/p&gt;
+&lt;p&gt;有 3 点感觉：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;美国的 AI 至少还能领先一些年（没有说只能领先一些年，也没有说能长期领先下去，不想讨论这个话题）&lt;/li&gt;
+&lt;li&gt;美国的 AI 对中国人的限制会越来越严厉&lt;/li&gt;
+&lt;li&gt;个人很需要强大的 AI ，没有靠谱的 AI 感觉已经无法正常工作了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所以，是不是有个其他国家的身份（例如绿卡、永居、某类合法的数字游民）比较好？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;政府背书的身份证明&lt;/li&gt;
+&lt;li&gt;当地手机号&lt;/li&gt;
+&lt;li&gt;当地银行卡/支付&lt;/li&gt;
+&lt;li&gt;（有必要可以更容易获得）当地的居住证明&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;风险：按照 Anthropic 官方的限制，绿卡、永居之类的也不一定行。但是查阅给他提供认证服务的 Persona 公司的资料，绿卡等有概率还是可以的。具体只能等实测了。不过这个话题作为比较通用的问题，感觉也还有讨论的价值&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Accepted ID types
+
+We accept original, physical government-issued photo IDs from most countries. Common examples include:
+
+    Passport
+
+    Driver&#39;s license or state/provincial ID card
+
+    National identity card
+
+Your ID must be issued by a government, clearly legible, undamaged, and include a photo of you.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果能以&lt;strong&gt;相对比较低&lt;/strong&gt;的成本，获取到其他国家的身份，是不是可以作为一个考虑项？长期来看比各种折腾综合来看可能性价比更高？
+需要考虑的因素：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;获取和维护的成本要可控，所以基本只能是小国&lt;/li&gt;
+&lt;li&gt;和西方敌对的国家，排除&lt;/li&gt;
+&lt;li&gt;政治经济社会很不稳定、人身过去首都有额外风险的国家，排除&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;找 AI 分析、Deep Research 过，没有很满意的结果&lt;/p&gt;
+&lt;p&gt;还有一个想法：在其他国家开设一个公司，以公司名义使用？还没有仔细思考，也可以展开讨论讨论&lt;/p&gt;
+&lt;p&gt;能预见到会有几种特定类型的回帖，我就不回复这些回帖了&lt;/p&gt;
+&lt;p&gt;大家有没有相关想法和经验呢？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>低价 GPT 订阅漏洞已被捅到官方脸上</title>
+      <link>https://www.v2ex.com/t/1206762</link>
+      <guid>v2ex-1206762</guid>
+      <pubDate>Fri, 17 Apr 2026 18:53:45 GMT</pubDate>
+      <description>link： &lt;a target=&quot;_blank&quot; href=&quot;https://www.nodeseek.com/jump?to=https%3A%2F%2Fcommunity.openai.com%2Ft%2Fsecurity-report-apple-pay-receipt-validation-does-not-bind-to-purchaser-apple-id-potential-subscription-bypass%2F1379167%3Futm_source%3Dchatgpt.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.nodeseek.com/jump?to=https%3A%2F%2Fcommunity.openai.com%2Ft%2Fsecurity-report-apple-pay-receipt-validation-does-not-bind-to-purchaser-apple-id-potential-subscription-bypass%2F1379167%3Futm_source%3Dchatgpt.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;现在好了，大家都别玩了，估计这周末就会把漏洞堵上</description>
     </item>
   </channel>
 </rss>
