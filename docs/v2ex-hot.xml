@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 18 Apr 2026 14:34:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 15:28:43 GMT</lastBuildDate>
     <item>
       <title>今天结婚了☺️☺️☺️</title>
       <link>https://www.v2ex.com/t/1206769</link>
@@ -28,13 +28,6 @@
 &lt;p&gt;**20 GB SSD / 1 GB RAM / 1 TB 流量每月 / 2.5G 带宽&lt;/p&gt;
 &lt;p&gt;各位评价一下怎么样&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>也做了一款 Markdown 编辑器</title>
-      <link>https://www.v2ex.com/t/1206777</link>
-      <guid>v2ex-1206777</guid>
-      <pubDate>Sat, 18 Apr 2026 01:14:59 GMT</pubDate>
-      <description>一直想拥有一款简单、沉浸、干净的 md 编辑器，Typora 的 UI 有点糙，obsd 太重，我喜欢 Raycast notes 的书写体验，但是它没有文件管理系统。所以花了点时间自己做了一个，功能很简单：所见即所得、iCloud 同步、文件夹管理。&lt;br /&gt;&lt;br /&gt;没有考虑做知识库，完全是随手记的简单使用场景。&lt;br /&gt;&lt;br /&gt;似乎现在不加点 AI 功能有点落伍了，但是考虑到 AI 迭代太快，担心污染产品架构暂时没想好怎么接入，而且我认为简单的文字处理工作其实不需要很强的 AI 能力，所以私心是希望苹果国区能够快点准备好 🤣。&lt;br /&gt;&lt;br /&gt;暂时只支持 MacOS 15.6+&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;App Store: &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/cn/app/pencel/id6757791415?mt=12&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/cn/app/pencel/id6757791415?mt=12&lt;/a&gt;&lt;br /&gt;官网: &lt;a target=&quot;_blank&quot; href=&quot;https://apps.the3ash.com/pencel&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.the3ash.com/pencel&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/le2olLI.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/le2olLI.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
       <title>探讨下获取其他国家身份的途径</title>
@@ -82,6 +75,13 @@ Your ID must be issued by a government, clearly legible, undamaged, and include 
 </description>
     </item>
     <item>
+      <title>也做了一款 Markdown 编辑器</title>
+      <link>https://www.v2ex.com/t/1206777</link>
+      <guid>v2ex-1206777</guid>
+      <pubDate>Sat, 18 Apr 2026 01:14:59 GMT</pubDate>
+      <description>一直想拥有一款简单、沉浸、干净的 md 编辑器，Typora 的 UI 有点糙，obsd 太重，我喜欢 Raycast notes 的书写体验，但是它没有文件管理系统。所以花了点时间自己做了一个，功能很简单：所见即所得、iCloud 同步、文件夹管理。&lt;br /&gt;&lt;br /&gt;没有考虑做知识库，完全是随手记的简单使用场景。&lt;br /&gt;&lt;br /&gt;似乎现在不加点 AI 功能有点落伍了，但是考虑到 AI 迭代太快，担心污染产品架构暂时没想好怎么接入，而且我认为简单的文字处理工作其实不需要很强的 AI 能力，所以私心是希望苹果国区能够快点准备好 🤣。&lt;br /&gt;&lt;br /&gt;暂时只支持 MacOS 15.6+&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;App Store: &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/cn/app/pencel/id6757791415?mt=12&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/cn/app/pencel/id6757791415?mt=12&lt;/a&gt;&lt;br /&gt;官网: &lt;a target=&quot;_blank&quot; href=&quot;https://apps.the3ash.com/pencel&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.the3ash.com/pencel&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/le2olLI.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/le2olLI.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>低价 GPT 订阅漏洞已被捅到官方脸上</title>
       <link>https://www.v2ex.com/t/1206762</link>
       <guid>v2ex-1206762</guid>
@@ -97,24 +97,23 @@ Your ID must be issued by a government, clearly legible, undamaged, and include 
 </description>
     </item>
     <item>
-      <title>没有编辑器， CLI 纯聊天写代码的方式有点儿难适应</title>
-      <link>https://www.v2ex.com/t/1206751</link>
-      <guid>v2ex-1206751</guid>
-      <pubDate>Fri, 17 Apr 2026 15:25:30 GMT</pubDate>
-      <description>&lt;p&gt;体验了一段时间纯聊天写代码，没有编辑器的模式，好难适应。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;看不到代码，心里感觉虚的很&lt;/li&gt;
-&lt;li&gt;提供上下文给 ai 时，没办法精确关联到文件第几行&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;不理解为什么 cli 或者 codex 这种模式，咋还有这么多人用&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>ios 设置的闹钟没响，导致我今天上班迟到😭。</title>
       <link>https://www.v2ex.com/t/1206783</link>
       <guid>v2ex-1206783</guid>
       <pubDate>Sat, 18 Apr 2026 01:44:07 GMT</pubDate>
       <description>&lt;p&gt;上一周都是正常响的呀，我的闹钟都是震动，不开声音的。今天唯一不同的就是，iwtach 没电了，闹钟只在页面显示个图标，但是手机没有震动。重新设置闹钟也是一样的不震动，这是为啥呀！ &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/AHYXDnE.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>IETF 推出 IPv8 协议， IPv6 说明是个草台班子</title>
+      <link>https://www.v2ex.com/t/1206826</link>
+      <guid>v2ex-1206826</guid>
+      <pubDate>Sat, 18 Apr 2026 05:17:34 GMT</pubDate>
+      <description>&lt;p&gt;IPv6 这么多年推不动，难道就没有人觉得 IPv6 协议丑陋无比吗，那一坨地址看着就不想用啊&lt;/p&gt;
+&lt;p&gt;二十年了，IETF 终于醒悟了，改 IPv8 全面兼容 IPv4&lt;/p&gt;
+&lt;p&gt;r.r.r.r.n.n.n.n 如果 r 全部为 0 ，自动识别为 IPv4&lt;/p&gt;
+&lt;p&gt;终于看的顺眼了&lt;/p&gt;
+&lt;p&gt;IPv6 说明世界真是个草台班子&lt;/p&gt;
 </description>
     </item>
   </channel>
