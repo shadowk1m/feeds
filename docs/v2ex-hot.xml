@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 19 Apr 2026 05:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 06:55:18 GMT</lastBuildDate>
     <item>
       <title>我妈逼迫我 23 年深圳买房，导致 3 年房子降价 100 万，加上 30 年利息亏损 180 万</title>
       <link>https://www.v2ex.com/t/1206894</link>
@@ -35,18 +35,6 @@
 </description>
     </item>
     <item>
-      <title>IETF 推出 IPv8 协议， IPv6 说明是个草台班子</title>
-      <link>https://www.v2ex.com/t/1206826</link>
-      <guid>v2ex-1206826</guid>
-      <pubDate>Sat, 18 Apr 2026 05:17:34 GMT</pubDate>
-      <description>&lt;p&gt;IPv6 这么多年推不动，难道就没有人觉得 IPv6 协议丑陋无比吗，那一坨地址看着就不想用啊&lt;/p&gt;
-&lt;p&gt;二十年了，IETF 终于醒悟了，改 IPv8 全面兼容 IPv4&lt;/p&gt;
-&lt;p&gt;r.r.r.r.n.n.n.n 如果 r 全部为 0 ，自动识别为 IPv4&lt;/p&gt;
-&lt;p&gt;终于看的顺眼了&lt;/p&gt;
-&lt;p&gt;IPv6 说明世界真是个草台班子&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>你会愿意为浏览器付费吗？</title>
       <link>https://www.v2ex.com/t/1206919</link>
       <guid>v2ex-1206919</guid>
@@ -59,13 +47,6 @@
       <guid>v2ex-1206927</guid>
       <pubDate>Sun, 19 Apr 2026 00:07:15 GMT</pubDate>
       <description>emmmm ，京东今天送了 500 京豆。&lt;br /&gt;网上国网以前有优惠券。现在没有了。&lt;br /&gt;兄弟们，还有其他什么羊毛可以薅吗？</description>
-    </item>
-    <item>
-      <title>如果我是个企业，可以用哪些方法对冲 token 价格上涨的风险？</title>
-      <link>https://www.v2ex.com/t/1206837</link>
-      <guid>v2ex-1206837</guid>
-      <pubDate>Sat, 18 Apr 2026 06:22:28 GMT</pubDate>
-      <description>现在每个企业都在用 AI ，如果我是企业的 CFO ，我会想有没有什么办法对冲（或者锁定） token 价格上涨的风险？&lt;br /&gt;&lt;br /&gt;现在想到的办法有&lt;br /&gt;－ 与供应商签订长期合同，比如微软就可以提供固定 Token 价格的长期合同，风险是企业被锁定在单一的供应商上。&lt;br /&gt;－ 购买电力价格期货，假设 token 价格上涨的最大因素是电力价格。&lt;br /&gt;－ ？？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我目前的几个疑问：&lt;br /&gt;&lt;br /&gt;Token / 推理成本到底更像什么？&lt;br /&gt;－ 大宗商品（电力）？&lt;br /&gt;－ 云资源（ AWS ）？&lt;br /&gt;－ 还是一种新的资产类别？&lt;br /&gt;有没有企业已经在做“系统性对冲”，而不是简单谈判价格？&lt;br /&gt;如果未来出现“算力期货”，它的标的应该如何定义？&lt;br /&gt;－ Token 数量？&lt;br /&gt;－ FLOPs ？&lt;br /&gt;－ 还是某种标准化模型调用？&lt;br /&gt;&lt;br /&gt;欢迎拍砖，尤其想听听：&lt;br /&gt;有没有人从 CFO / Treasury 角度真的在设计这类对冲策略？</description>
     </item>
     <item>
       <title>小飞机突然支持中文了</title>
@@ -90,6 +71,37 @@
       <guid>v2ex-1206930</guid>
       <pubDate>Sun, 19 Apr 2026 00:53:20 GMT</pubDate>
       <description>主包中年单身，产品经理岗位，已经确定被裁，有几十万的存款，基本上跟房贷持平（可以一次还清）。&lt;br /&gt;可以选择路径：&lt;br /&gt;	1.  [找工作] 找一个同类型工作，继续内卷。但是要接受薪资大幅下滑的现实。&lt;br /&gt;	2.  [躺平] 先调整心态，什么时候休息好了，再想接下来的工作。&lt;br /&gt;	3.  [回老家] 把房子卖了，然后回老家发展（北方省会级城市）。&lt;br /&gt;	4.  [创业] 通过 ai 搞一些一人公司的小项目，小而美赚生活费。&lt;br /&gt;	5.  [自媒体] 通过工作经验，写一些干货做视频，分享一些自己的项目经历。&lt;br /&gt;    &lt;br /&gt;    像一个从家里被赶出来淋雨的孩子，挺迷茫的，大家有没有成功的案例呀？</description>
+    </item>
+    <item>
+      <title>问问大家，这个工作能去吗</title>
+      <link>https://www.v2ex.com/t/1206944</link>
+      <guid>v2ex-1206944</guid>
+      <pubDate>Sun, 19 Apr 2026 02:55:48 GMT</pubDate>
+      <description>&lt;p&gt;先说我的 bg: 双非二本, 今年 6 月份毕业, 软件工程专业, 无实习, 近几个月在学习 agent 开发相关知识;&lt;/p&gt;
+&lt;p&gt;今天去面试了本地一家公司(郑州), 面试结果还行, 就是感觉公司不太靠谱呢,&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;公司没有 HR, 老板自己就是 HR, 真正的 boss 直聘...&lt;/li&gt;
+&lt;li&gt;公司是做男性保健品的, 自己有工厂生产保健品, 然后有下级的经销商; 技术部门的主要职责就是开发给经销商用的软件系统, 包括前后端、智能体, 然后每月这方面收入的一部分会分给整个技术部门;&lt;/li&gt;
+&lt;li&gt;如果进去工作的话, 前后端、智能体都要会做，可能各个流程都要参与, 全栈~全干, 老板强调要会用 AI&lt;/li&gt;
+&lt;li&gt;老板不知道什么是三方协议;&lt;/li&gt;
+&lt;li&gt;说先让我实习两月, 每月工资 3k, kpi 1k, 补贴 8 百; 如果能力可以的话，等我毕业后转正, 基本工资大概七八千.&lt;/li&gt;
+&lt;li&gt;单双休, 每天早 10 晚 7&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;请各位前辈帮忙分析一下, 这工作靠谱吗, 总感觉做保健品不太靠谱啊!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>被 Google Adsense 拒绝 6 次后，终于在第 7 次通过审核</title>
+      <link>https://www.v2ex.com/t/1206942</link>
+      <guid>v2ex-1206942</guid>
+      <pubDate>Sun, 19 Apr 2026 02:54:02 GMT</pubDate>
+      <description>&lt;p&gt;2026 年 3 月 22 日终于通过了 Google Adsense 审核，从 2024 年 4 月 3 日开始提交审核，总共提交了 7 次，总算是通过了。到今天为止差不多一个月的时间，带来的总广告收入为 5.78 美元，虽然还很低，但起码流程上通了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/99Jq4l4m.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/tsuFzL9D.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/9OcV58ir.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;小小纪念一下，接下来继续优化 SEO ，争取广告费早日日入 1 刀&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/205W5UIe.jpeg&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
