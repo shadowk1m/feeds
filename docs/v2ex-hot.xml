@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 20 Apr 2026 14:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 15:50:48 GMT</lastBuildDate>
     <item>
       <title>想问下是不是和女朋友三观不一致</title>
       <link>https://www.v2ex.com/t/1207078</link>
@@ -35,44 +35,18 @@
 </description>
     </item>
     <item>
-      <title>公司前两周招了个新人， 在犹豫要不要叫老板辞退他</title>
-      <link>https://www.v2ex.com/t/1207033</link>
-      <guid>v2ex-1207033</guid>
-      <pubDate>Sun, 19 Apr 2026 15:29:25 GMT</pubDate>
-      <description>&lt;p&gt;说说前提， 公司不是说非常的正规， 总共就三四个开发。。所以要求是能够全栈的去做，没有测试， 需求理解也得靠自己来琢磨。 现在有 ai coding 的情况下， 分析理解代码也很快，公司也有提供 github copilot ， 所以我很快就分配任务下去了&lt;/p&gt;
-&lt;p&gt;最近给他分配了几个任务&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;让他对接 api 接口， 开发完说好了， 提交了代码， 因为是新人， 我就做做兜底审核， 发现有部分参数不能生效， 他没有测试出来， 而这几个参数是这个接口效果的核心参数&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;再次对接 api 接口， 开发完说好了， 提交了代码， 我继续审核， 发现计费逻辑没有考虑完全， 有部分计费逻辑没有算进去。 &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;再次对接 api 接口，开发完说好了， 提交了代码， 我继续审核， 发现他计费逻辑少了数量计费&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;三次， 我都对他进行了警告，要求他思维要严谨， 计费是与金钱有关， 说实话我已经对他很不满了， 本身自己工作就多，还每次都能检查到这种基本需求问题&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;还是开发个功能， 基于现有的邀请返利，增加充值返利功能，发现他把返利逻辑设置成了固定返回，不考虑充值多少返利多少。。。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;如果说之前几次我是觉得他是个新人 ，应该要对他包容的话， 这里我已经有点怀疑人生了， 他到底有没有思维严谨性，是否真的做过开发。。。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;昨天晚上， 我又心血来潮的，休息日想到他前几天有分配一个比较重要的功能还没有 merge 进来。。。就 merge 来看了看， 因为逻辑比较复杂， 修改点也比较多， 我就叫 ai 分析了下他的修改，发现他的实现是基于预估的值来实现， 而不是根据 api 接口返回的实际的值来实现的。。。我马上就测了下，发现预估值和实际值会有严重偏差， 很大概率会落实不到位。  我更怀疑人生了， 用 claude 直接修改，自己审核修了。心塞&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;再来个补充，api 接口对接都是有明确文档的。 计费逻辑文档也写的清楚。。。我分配任务的时候也只是简单的描述下。很多时候都要自己去理解， 补充， 脑补。 而我观他代码，基本都是 ai 生成， 不知道有没有去审核，我保持怀疑态度，  估计是把我的描述简答的修改了下丢 ai ， 然后直接就用来测了&lt;/p&gt;
-&lt;p&gt;招这个人，本意上是想给我分担一下压力，并且更快速的迭代项目。但到目前来看， 应该是没有给我带来啥效率提升的，反倒给我增加了测试的压力负担。。。以及后续的任务也都得继续测试保障。 同时这个人努力也努力，也有在加班，但加班加班， 没有带来任何的对我来说的正向反馈。 就很心塞&lt;/p&gt;
-&lt;p&gt;个人没有带过人， 以前也是过安逸日子，就一直想给他机会，叫他走，开发压力有落在身上， 新招人过来也要时间，同时也不忍心， 但不叫他走，等于我给自己添了许多测试任务，开发任务的效率也没有提升多少， 把自己又搞心塞。 &lt;/p&gt;
-&lt;p&gt;现在感觉他就像是没有新兵蛋子一样，没有啥逻辑思维，谨慎思维， 而且他三十来岁，十年经验了， 工资也不低 20+， 真的很纳闷， 那么多年经验，在有 ai 的前提下，怎么会对开发功能出那么多能忍的 bug&lt;/p&gt;
-&lt;p&gt;由衷请教下，这个人该叫他走人吗，有点忍不了了&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>大家一定要注意自己的血糖指标</title>
       <link>https://www.v2ex.com/t/1207065</link>
       <guid>v2ex-1207065</guid>
       <pubDate>Mon, 20 Apr 2026 01:24:14 GMT</pubDate>
       <description>因为老婆是内分泌科的护士，所以对于血糖和糖尿病的预防有点敏感&lt;br /&gt;我自认为身体是很好的，体重也不超标，但是去医院一查，就是已经胰岛素抵抗了，而且常规体检也不会检查这一项这就是糖尿病的前期，如果不注意防治，很有可能就会发展成糖尿病。&lt;br /&gt;所以建议各位朋友吃完饭有口渴严重的症状，或者主食面食米食吃的多的，最好去医院查一下。</description>
+    </item>
+    <item>
+      <title>昨天早上有社区民警打电话来问什么时候买的无人机？但是没买过啊？</title>
+      <link>https://www.v2ex.com/t/1207072</link>
+      <guid>v2ex-1207072</guid>
+      <pubDate>Mon, 20 Apr 2026 01:34:06 GMT</pubDate>
+      <description>也没有核实这个民警是否是真的，当时就直接回答了没有。&lt;br /&gt;这个会有地方监控无人机是否备案吗？我这能想到的只是搜了些无人机起飞限制的东西,和这个有关系吗？还打算给孩子买一个玩呢。但是看了下，好像都无法起飞了啊，管控很严</description>
     </item>
     <item>
       <title>报了人生第一个 110</title>
@@ -87,11 +61,24 @@
 </description>
     </item>
     <item>
-      <title>昨天早上有社区民警打电话来问什么时候买的无人机？但是没买过啊？</title>
-      <link>https://www.v2ex.com/t/1207072</link>
-      <guid>v2ex-1207072</guid>
-      <pubDate>Mon, 20 Apr 2026 01:34:06 GMT</pubDate>
-      <description>也没有核实这个民警是否是真的，当时就直接回答了没有。&lt;br /&gt;这个会有地方监控无人机是否备案吗？我这能想到的只是搜了些无人机起飞限制的东西,和这个有关系吗？还打算给孩子买一个玩呢。但是看了下，好像都无法起飞了啊，管控很严</description>
+      <title>简单稳定的 codex 中转， 0.1 倍率，送 10+10 刀额度</title>
+      <link>https://www.v2ex.com/t/1207166</link>
+      <guid>v2ex-1207166</guid>
+      <pubDate>Mon, 20 Apr 2026 06:07:53 GMT</pubDate>
+      <description>&lt;p&gt;自有 Plus / Team 号池，稳定运行 10 天。&lt;/p&gt;
+&lt;h3&gt;定价&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;充值&lt;/strong&gt;：35 元到账 35 刀&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;倍率&lt;/strong&gt;：0.1 倍率，实际可用 &lt;strong&gt;350 刀额度&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;计费方式&lt;/strong&gt;：按量计费，余额不过期
+站点地址：&lt;a href=&quot;https://hi-code.cc&quot; rel=&quot;nofollow&quot;&gt;hi-code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;V 友专属试用福利&lt;/h3&gt;
+&lt;p&gt;注册完成后，在本帖留言并附上&lt;strong&gt;加密后的注册邮箱&lt;/strong&gt;，赠送价值 10 刀额度（到账 1 刀，0.1 倍率实际可用 &lt;strong&gt;10 刀额度&lt;/strong&gt;）。&lt;/p&gt;
+&lt;h3&gt;加群领取额度&lt;/h3&gt;
+&lt;p&gt;扫码进群，私聊群主发邮箱，可领取价值 10 刀额度（到账 1 刀，0.1 倍率实际可用 &lt;strong&gt;10 刀额度&lt;/strong&gt;）。
+&lt;img alt=&quot;群二维码&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img-cdn.lusyoe.cn/images/hi-code/2026/04/09/23rzbpbu5l.png&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>爱上一个学历差距巨大的人，无法走出</title>
@@ -118,15 +105,11 @@
 </description>
     </item>
     <item>
-      <title>在你们的求学和职业生涯中，有“恩师”的存在吗</title>
-      <link>https://www.v2ex.com/t/1207034</link>
-      <guid>v2ex-1207034</guid>
-      <pubDate>Sun, 19 Apr 2026 15:29:30 GMT</pubDate>
-      <description>&lt;p&gt;我回顾我的求学生涯，好像一直没有遇到所谓的书籍上的“恩师”，都是教师以及“老板”或者“工头”。在基础教育阶段有几位老师至今感觉上还是很不错，但是也很难称之为“恩师”。&lt;/p&gt;
-&lt;p&gt;职场我目前还初出茅庐，就更没有了。&lt;/p&gt;
-&lt;p&gt;当然了，“恩师”这种东西，可能本身就和知己，仙侣，君子一样的，时常存活在“台词”中。&lt;/p&gt;
-&lt;p&gt;大概也是一种只见其名，不见其人的东西。&lt;/p&gt;
-</description>
+      <title>AI 代码后面怎么维护,心智负担太大了</title>
+      <link>https://www.v2ex.com/t/1207049</link>
+      <guid>v2ex-1207049</guid>
+      <pubDate>Sun, 19 Apr 2026 23:37:14 GMT</pubDate>
+      <description>ai 生成爽是很爽,但是数量太多了,每次阅读起来真的太累了&lt;br /&gt;今天加了两个函数,回来一看,又多了 300 行,也不能说它错,因为字段检验,格式又是自己写的要求&lt;br /&gt;本来立项的时候,规定一个文件最长就 400 行,现在都多余,无非是拆分一堆小文件,还不如一个文件两千行,省得点了&lt;br /&gt;整个项目搞下来都几万行了&lt;br /&gt;读是肯定要读的,不然后面报错,只能跟 ai 一起赌运气了,好累啊,难道要用 AI 控制 AI?</description>
     </item>
   </channel>
 </rss>
