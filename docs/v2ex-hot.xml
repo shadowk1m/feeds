@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 24 Apr 2026 12:57:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 14:43:32 GMT</lastBuildDate>
     <item>
       <title>方程豹出轿跑了，直面小米与尚界</title>
       <link>https://www.v2ex.com/t/1208173</link>
@@ -166,15 +166,6 @@ FEWYTARRRLW3438KRP&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>昨天开始广东深圳地区是不是墙变高了</title>
-      <link>https://www.v2ex.com/t/1208168</link>
-      <guid>v2ex-1208168</guid>
-      <pubDate>Fri, 24 Apr 2026 01:36:52 GMT</pubDate>
-      <description>&lt;p&gt;昨天 11:20 开始用公司的网络连我的 VPS 时不时超时，公司的出口是联通，如果用联通流量直接连就稳定了。问了公司的 IT 确认没有调整任何网络策略，但不确定他们说的是不是这个女的。&lt;/p&gt;
-&lt;p&gt;今天看了下买的机场大部分节点都挂了，联通流量连也时不时超时，感觉快要断网了一样。VPS 是美国洛杉矶的搬瓦工。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>外甥女马上初中毕业，学习不好，该选择什么样的出路，求大家给点建议</title>
       <link>https://www.v2ex.com/t/1208188</link>
       <guid>v2ex-1208188</guid>
@@ -202,16 +193,11 @@ FEWYTARRRLW3438KRP&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>不仅有 Z7 趴窝，原来前天发布会还有雪地白羊 AEB 造假呢...</title>
-      <link>https://www.v2ex.com/t/1208157</link>
-      <guid>v2ex-1208157</guid>
-      <pubDate>Fri, 24 Apr 2026 00:54:47 GMT</pubDate>
-      <description>&lt;p&gt;绝了，大嘴发布会宣传雪地遇白羊，问界 AEB 正常触发，应该是想给激光雷达吹牛逼，
-但是... 漏洞一大堆，羊的影子从左前方突然变正右方，太阳方位不可能在几秒内转 90 度，只能是两段不同时间的素材硬拼。
-车头 “充电枪” 穿帮：视频里车头侧面一直插着运动相机支架，正常路测不可能带这东西，纯摆拍痕迹。
-画面 AI 感过重：雪地太干净、车痕不连贯、羊的边缘糊边，符合生成式 AI 合成特征，不是真实拍摄。
-车过雪地不留痕，论坛干净不沾雪，服了&lt;/p&gt;
-</description>
+      <title>Vibe coding 有什么意义？</title>
+      <link>https://www.v2ex.com/t/1208240</link>
+      <guid>v2ex-1208240</guid>
+      <pubDate>Fri, 24 Apr 2026 03:28:38 GMT</pubDate>
+      <description>除了做 demo ，任何一个需要稳定性的系统都不应该使用 vibe coding 实现。全黑盒，完全不可控。&lt;br /&gt;之前的一家公司，PM 开始自己 vibe coding ，推到上线后结果完全不可维护，到最后还是研发来擦屁股。产品爽了，最后烂摊子研发全接走？</description>
     </item>
     <item>
       <title>天下苦 Claude 久矣， GPT 就出招了， 5.5 目测下限是 opus 4.6</title>
@@ -224,13 +210,6 @@ FEWYTARRRLW3438KRP&lt;/p&gt;
 &lt;p&gt;解决了 5.4 最大的 l 几个问题，可主力使用。&lt;/p&gt;
 &lt;p&gt;我想说出早了，再等 1-2 周，Claude 继续硬着脖子说自己模型没问题。等着 claude 的口碑再烂点。奥特曼太着急了&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>Vibe coding 有什么意义？</title>
-      <link>https://www.v2ex.com/t/1208240</link>
-      <guid>v2ex-1208240</guid>
-      <pubDate>Fri, 24 Apr 2026 03:28:38 GMT</pubDate>
-      <description>除了做 demo ，任何一个需要稳定性的系统都不应该使用 vibe coding 实现。全黑盒，完全不可控。&lt;br /&gt;之前的一家公司，PM 开始自己 vibe coding ，推到上线后结果完全不可维护，到最后还是研发来擦屁股。产品爽了，最后烂摊子研发全接走？</description>
     </item>
   </channel>
 </rss>
