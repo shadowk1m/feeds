@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 25 Apr 2026 09:41:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 10:34:24 GMT</lastBuildDate>
     <item>
       <title>我做了个工具让 8GB 显卡跑 30B 模型从 3 tok/s 提到 21 tok/s，记录一下技术发现</title>
       <link>https://www.v2ex.com/t/1208365</link>
@@ -150,15 +150,6 @@
 </description>
     </item>
     <item>
-      <title>2026 年，选择 Podman 还是 Docker</title>
-      <link>https://www.v2ex.com/t/1208359</link>
-      <guid>v2ex-1208359</guid>
-      <pubDate>Fri, 24 Apr 2026 10:12:41 GMT</pubDate>
-      <description>&lt;p&gt;Docker 对于大多数自托管应用支持的比较好，个人使用也基本熟悉了。
-Podman 的无守护进程和默认的 Rootless 很好用，在服务器上测试部署了一个服务，感觉还挺好的。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>感觉自己真的快扛不住了，想从国企裸辞跳槽去外企。。。</title>
       <link>https://www.v2ex.com/t/1208397</link>
       <guid>v2ex-1208397</guid>
@@ -178,20 +169,6 @@ Podman 的无守护进程和默认的 Rootless 很好用，在服务器上测试
 </description>
     </item>
     <item>
-      <title>想使用 ARM 软路由，套路由器当 AP，已有 NAS，不跑重服务，大家都用的什么机器？</title>
-      <link>https://www.v2ex.com/t/1208358</link>
-      <guid>v2ex-1208358</guid>
-      <pubDate>Fri, 24 Apr 2026 10:12:13 GMT</pubDate>
-      <description>&lt;p&gt;我目前手里的&lt;strong&gt;某型号红米路由器&lt;/strong&gt; 虽然刷了 immortalwrt ，但是其内存和 flash 都太小了，于是在网上看了看&lt;strong&gt;升级内存服务&lt;/strong&gt;，但是综合考虑其价格和成功率，感觉并&lt;strong&gt;不是很划算&lt;/strong&gt;，故考虑购买一台 &lt;strong&gt;ARM 软路由&lt;/strong&gt;充当&lt;strong&gt;主路由&lt;/strong&gt;，原路由器只充当 AP 使用。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;排除了旁路由方案&lt;/strong&gt;，因其对 &lt;strong&gt;ipv6&lt;/strong&gt; 不友好，(我有 ipv6 需求)&lt;/li&gt;
-&lt;li&gt;我&lt;strong&gt;已有&lt;/strong&gt;一台 &lt;strong&gt;j4125 处理器的 NAS&lt;/strong&gt;，和一台&lt;strong&gt;腾讯云轻量主机&lt;/strong&gt;，大部分存储和私人同步服务由这两台机器承担，故&lt;strong&gt;软路由不需要跑此类重服务&lt;/strong&gt;，综合考虑耗电和散热等因素，可能 &lt;strong&gt;ARM 软路由更加适合需求&lt;/strong&gt;；&lt;/li&gt;
-&lt;li&gt;之前看上 友善的 &lt;strong&gt;R4S&lt;/strong&gt;, 但此机器无 HDMI 口，可能造成网络配置写坏后无法登录进去（但此机器存储用的是 TF 卡，好像这种情况直接重刷系统就搞定了）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;大家的软路由方案都是怎么样的？谢谢大家。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>大项目中大家真的会用 Spec-Driven Development 吗？</title>
       <link>https://www.v2ex.com/t/1208418</link>
       <guid>v2ex-1208418</guid>
@@ -208,12 +185,27 @@ Podman 的无守护进程和默认的 Rootless 很好用，在服务器上测试
 </description>
     </item>
     <item>
+      <title>你们一个月上班要用多少 token?</title>
+      <link>https://www.v2ex.com/t/1208477</link>
+      <guid>v2ex-1208477</guid>
+      <pubDate>Sat, 25 Apr 2026 07:45:40 GMT</pubDate>
+      <description>&lt;p&gt;如题，我上个月用了 200M ，主要是 GPT5.4 和 Gemini3.1Pro&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>XChat 正式上架 App Store 了</title>
       <link>https://www.v2ex.com/t/1208417</link>
       <guid>v2ex-1208417</guid>
       <pubDate>Sat, 25 Apr 2026 00:14:21 GMT</pubDate>
       <description>&lt;p&gt;有些失望，就是 X 的一个聊天 Tab 独立为 XChat 了，替代不了 TG ，也替代不了微信。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>感觉 iOS 现在 Apple Intelligence 真的挺绷不住的。。。</title>
+      <link>https://www.v2ex.com/t/1208382</link>
+      <guid>v2ex-1208382</guid>
+      <pubDate>Fri, 24 Apr 2026 12:59:14 GMT</pubDate>
+      <description>我是 美版 iPhone16Pro+美区 Apple ID&lt;br /&gt;这样就可以使用 Apple Intelligence&lt;br /&gt;但是我现在在国内，也必须使用一些国内特供的 App 。所以我也有一个国区的 Apple ID 去下载这些软件。。&lt;br /&gt;&lt;br /&gt;这就出现一个很逆天的判定，就是 Apple Intelligence 判定的是你设备里的所有账户都为环大陆的，才能启用。。。&lt;br /&gt;&lt;br /&gt;以至于我每次切国行 appleid 的时候，他都会自己删除模型（是的，是删除，不是禁用。。。）。然后每次切回来的时候，他又重新再下载一遍。。。&lt;br /&gt;&lt;br /&gt;真挺无语的，虽然下载模型似乎走的是国内的 CDN ，走的不是代理。。。要不流量就真的撑不住</description>
     </item>
   </channel>
 </rss>
