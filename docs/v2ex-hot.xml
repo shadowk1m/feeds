@@ -4,215 +4,255 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 25 Apr 2026 01:22:28 GMT</lastBuildDate>
-    <item>
-      <title>方程豹出轿跑了，直面小米与尚界</title>
-      <link>https://www.v2ex.com/t/1208173</link>
-      <guid>v2ex-1208173</guid>
-      <pubDate>Fri, 24 Apr 2026 01:45:33 GMT</pubDate>
-      <description>&lt;p&gt;方程豹出轿跑了，直面小米与尚界。&lt;/p&gt;
-&lt;p&gt;相比看一下传统车企与新势力在产品力方面的较量，我更想看一下在&lt;strong&gt;网络层面&lt;/strong&gt;的交锋。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>只能说 DeepSeek V4 Pro 继续努力吧，天气卡片效果一般</title>
-      <link>https://www.v2ex.com/t/1208250</link>
-      <guid>v2ex-1208250</guid>
-      <pubDate>Fri, 24 Apr 2026 03:45:41 GMT</pubDate>
-      <description>&lt;p&gt;简单试了下天气卡片，中文英文都试了，太简陋了：
-&lt;img alt=&quot;图片.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/04/24/useViXUw.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;中文：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;创建一个包含 CSS 和 JavaScript 的单一 HTML 文件，用于生成动画天气卡片。卡片应该通过不同的动画直观地表示以下天气状况：
-
-风：（例如，移动的云朵、摇摆的树木或风线）
-
-雨：（例如，下落的雨滴、形成的水坑）
-
-阳光：（例如，闪耀的光线、明亮的背景）
-
-雪：（例如，下落的雪花、积累的雪）
-
-所有天气卡片应并排显示，卡片应该有深色背景。
-
-在这个单一文件中提供所有 HTML 、CSS 和 JavaScript 代码。JavaScript 应该包含一种切换不同天气状况的方式（例如，一个函数或一组按钮）以展示每种天气的动画效果。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;英文：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Create a single HTML file containing CSS and JavaScript to generate an animated weather card. The card should visually represent the following weather conditions with distinct animations: Wind: (e.g., moving clouds, swaying trees, or wind lines) Rain: (e.g., falling raindrops, puddles forming) Sun: (e.g., shining rays, bright background) Snow: (e.g., falling snowflakes, snow accumulating) Show all the weather card side by side The card should have a dark background. Provide all the HTML, CSS, and JavaScript code within this single file. The JavaScript should include a way to switch between the different weather conditions (e.g., a function or a set of buttons) to demonstrate the animations for each.
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    <item>
-      <title>一个英语学习 APP [iOS] ，送 50 个终身会员</title>
-      <link>https://www.v2ex.com/t/1208178</link>
-      <guid>v2ex-1208178</guid>
-      <pubDate>Fri, 24 Apr 2026 01:56:17 GMT</pubDate>
-      <description>&lt;p&gt;做了一款成语填字 APP ，名字叫做《多福单词》，对学习英语有诉求的，可以下载看看，送 50 个终生会员给各位大佬。&lt;/p&gt;
-&lt;p&gt;希望大佬们兑换了，能够顺手给个好评，独立开发不易，再次祝各位大佬，早日财富自由，早日赢取白富美。&lt;/p&gt;
-&lt;p&gt;========================&lt;/p&gt;
-&lt;p&gt;背单词是不是总让你昏昏欲睡？来试试用玩游戏的方式把单词刻进脑子里！&lt;/p&gt;
-&lt;p&gt;📱 多福单词 · 背单词猜字游戏&lt;/p&gt;
-&lt;p&gt;一款专为英语学习者打造的益智单词 App ，把枯燥的背单词变成每天最期待的事！&lt;/p&gt;
-&lt;p&gt;✨ 核心玩法
-🔤 猜单词 — 字母连线、填字闯关，在游戏中自然记住拼写和释义&lt;/p&gt;
-&lt;p&gt;🔗 连线拼字 — 拖动字母连成正确单词，强化拼写记忆，简单上手&lt;/p&gt;
-&lt;p&gt;⚡ 单词接龙 — 根据上一个单词末字母快速接龙，越玩越上瘾&lt;/p&gt;
-&lt;p&gt;📅 每日一词 — 每天精选词汇配例句，坚持一年积累 365 个新单词&lt;/p&gt;
-&lt;p&gt;🏆 单词闯关 — 从基础词汇到四六级常考词，循序渐进解锁新挑战&lt;/p&gt;
-&lt;p&gt;👥 适合人群
-无论你是备考四六级、考研的学生，还是想利用碎片时间充电的上班族，每天 10 分钟就有效！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://postimg.cc/F1dxdPF9&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;fdff986d430ced6ff28d6fe8c76f773b.jpg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.postimg.cc/9X1gkSvq/fdff986d430ced6ff28d6fe8c76f773b.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://postimg.cc/f3qxkd6B&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;wei-xin-tu-pian-20260424095306-262-40-fu-ben.jpg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.postimg.cc/rmMgnCgX/wei-xin-tu-pian-20260424095306-262-40-fu-ben.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;========================&lt;/p&gt;
-&lt;p&gt;3ARJKET8F63PEY44EE
-4E4WKPXJMK84TTWN3H
-6LNYLP6RHYA6H7MAFW
-44MEWA4PNA8TMHA4J8
-Y83TEFL6Y68A8PYW7T
-TYNHMFHPELN8YXA4FK
-YWYW4ERY7FEA3AH66K
-TKT7PPXKH8XP877YRY
-Y6ANMF3ERHAL8KPHXR
-LNF3EWWMXWK6L4YXH7
-NJ4FEY8NPXLW4L3AH8
-YYRKXFN74FJXJ7JT77
-TRTYALHLAAH8ALTFT6
-R786YK8MN4WK4JL6TM
-EXLX7P8MFPAHJFPRFE
-MAFY3LY6RNXMK8KHPY
-87WNANMAJWLATF374A
-4PLRXHPFWXJXFHKRH3
-APKNFTTP6YL43ANK7W
-PKWJ7MAW3AFJ4R86P4
-86YYPW7KEJLLK4RWXN
-MRYRXTAWXT8EATY6JY
-38JLHXH8XXLPAH6RYH
-AXNKN87MWTFF3MTJAX
-RF8J76TWKL6HFXWHTF
-M6A3MWXNL4XTNLK87L
-T3MH3YJMHJW7P4AK7F
-MLN7RKXNX3HL7JR387
-RYWLMFRJHN67JNHWTP
-WFXAWKYXWNXH8RR64Y
-T74FJM8LA638RR7XWL
-EEEPHYKY6TN8LAFYYM
-J8HRTJ3YWW8P3YA6F7
-F4W3Y4NJA8KJAAPR8A
-77FELPYTXWW7AA8WMR
-R38A4TYJEHHXTRH4JP
-6PX8AX8NEFT8F4HHPX
-XK47XPYE3TKMJKMPEP
-737RERKKANHWLFRMPE
-YFJYWELENTRFJ47P3R
-KR6LT6EYKWWWENPRX8
-6FWPNN3PRENHJ4Y3L8
-FJRJ7TE3JAJXMYL88E
-8WPT7EHWH8THX3PFTF
-4WKHMMNW6HKERMXNMR
-EJTNYT3FM4R36E47HK
-MRFT7TJE43HELLR38J
-TRFMNMKHYF68TK48KL
-NYE6TNL4YN847ARFMJ
-6ENN6PFFEFN8HF73Y6
-3E8FRWRE7JYXYJKWMH
-HHF47TWKPXT7PPA68N
-AKEE6EEEJRE37AERMA
-F3ALP8LYJLANTA8HNX
-6RJ6HWPKMYF4LMNTFL
-NL4ELR6A38N44TP7R6
-PH6FHW63JMW3W46KJ8
-XHWE6HXA647AX87X6X
-KL4TMYX44NNEWXTPH7
-HWRLT4PMKYAF6H8K44
-74E84WKMWYYMY4TX3X
-XX8RAF33EKLL3L68EY
-WWXHTHXJ38P6YMPWWW
-XKFE3XJJ6AXW3E7T6P
-J6EM487ERTM643N3HT
-A8M67NTFJKKTPAF43X
-4PJEXTHXWRHF7MLFTK
-LXJFM78RTLN48JRR8J
-RRPLYARL666X44LKJJ
-N34RWRYPARWLEYTTLL
-MH847NLRXYYYWX6ARR
-TR8PFK6NXMAEEYXKHJ
-6PY488MT6RXTN4RMW4
-4FATXMN4TXEEHYANXP
-84JFWL6ERLK8XHHKFY
-HE786EYEJYMN6F7M3R
-LHJKJRLA8JKTAWE6FT
-X6XYLAT6N8TF3RJ8X8
-HP6WJXJJTLHXF4W3RF
-FN644MHMW37E7Y8KMA
-PLE3TJLLNX7PYX4L3K
-E76KHNRXN6MYF7XPN8
-R34EXJX334YTERA7P4
-EM4YJ483XX8NJJJJN8
-7PH6YHLW8LH346E6XX
-EHRJL3YJ4PK3LPMNLM
-RNJPTNWHTJNH7EAXWF
-K4YXE6JLP74H4X8KNH
-A7R774WKE6LPHXFR43
-LK8T4E8WYRXLFAFHWK
-APYYPN6ATAXFAKF778
-8X8A3JFTHFA4T8LNLM
-EPJN6KTFATYTXK3EME
-3PT7JHLPATRWAN8K3F
-JR8X6XT7YY3WT74XM7
-HYRJXLHXW4NL44H6HN
-HHXKLPFKY4KM4X8FHE
-RKY467T64WXN4MHT4L
-YJHFYT3HPFHPY8H6MH
-FEWYTARRRLW3438KRP&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>你每天用的最多的 app 是啥？</title>
-      <link>https://www.v2ex.com/t/1208192</link>
-      <guid>v2ex-1208192</guid>
-      <pubDate>Fri, 24 Apr 2026 02:14:50 GMT</pubDate>
-      <description>我的前三名：微信、微博、小红书</description>
-    </item>
-    <item>
-      <title>外甥女马上初中毕业，学习不好，该选择什么样的出路，求大家给点建议</title>
-      <link>https://www.v2ex.com/t/1208188</link>
-      <guid>v2ex-1208188</guid>
-      <pubDate>Fri, 24 Apr 2026 02:10:40 GMT</pubDate>
-      <description>&lt;p&gt;中部省份四线城市，身高 150cm 的女生，马上要初中毕业，学习不好，是出去打工，还是读技校，读技校读什么专业呢？
-助产师和电商方向是我比较倾向的。
-各位 v 友觉得呢。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Vibe coding 有什么意义？</title>
-      <link>https://www.v2ex.com/t/1208240</link>
-      <guid>v2ex-1208240</guid>
-      <pubDate>Fri, 24 Apr 2026 03:28:38 GMT</pubDate>
-      <description>除了做 demo ，任何一个需要稳定性的系统都不应该使用 vibe coding 实现。全黑盒，完全不可控。&lt;br /&gt;之前的一家公司，PM 开始自己 vibe coding ，推到上线后结果完全不可维护，到最后还是研发来擦屁股。产品爽了，最后烂摊子研发全接走？</description>
-    </item>
-    <item>
-      <title>性爱机器人的诞生合理吗？</title>
-      <link>https://www.v2ex.com/t/1208252</link>
-      <guid>v2ex-1208252</guid>
-      <pubDate>Fri, 24 Apr 2026 03:57:02 GMT</pubDate>
-      <description>&lt;p&gt;机器人的发展是大势所趋，性爱机器人肯定会出现。&lt;/p&gt;
-&lt;p&gt;但未来的机器人会拥有人的权力吗？从而出现侵犯机器人权益&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>DeepSeek V4 终于出来了。。不知道强不强</title>
-      <link>https://www.v2ex.com/t/1208225</link>
-      <guid>v2ex-1208225</guid>
-      <pubDate>Fri, 24 Apr 2026 03:07:59 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.tianjiyao.com/v2ex/0002.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.tianjiyao.com/v2ex/0007.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 25 Apr 2026 04:11:44 GMT</lastBuildDate>
     <item>
       <title>如果你有且仅有一次机会获得一项超能力，你最想拥有什么能力？</title>
       <link>https://www.v2ex.com/t/1208310</link>
       <guid>v2ex-1208310</guid>
       <pubDate>Fri, 24 Apr 2026 07:24:59 GMT</pubDate>
       <description>如果你有且仅有一次机会获得一项超能力，你最想拥有什么能力？</description>
+    </item>
+    <item>
+      <title>我做了个工具让 8GB 显卡跑 30B 模型从 3 tok/s 提到 21 tok/s，记录一下技术发现</title>
+      <link>https://www.v2ex.com/t/1208365</link>
+      <guid>v2ex-1208365</guid>
+      <pubDate>Fri, 24 Apr 2026 10:51:29 GMT</pubDate>
+      <description>&lt;p&gt;最近在折腾本地大模型，发现一个核心问题：Ollama 和 LM Studio 能让模型跑起来，但参数全靠猜——上下文长度、KV cache 类型、MoE expert 放哪、ubatch 多大……用默认参数基本是在浪费显卡。&lt;/p&gt;
+&lt;p&gt;于是做了个工具自动找最优配置，过程中踩了不少坑，记录一下。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;核心发现&lt;/h2&gt;
+&lt;h3&gt;1. MoE 模型的 offload 策略决定了一切&lt;/h3&gt;
+&lt;p&gt;Qwen3-30B-A3B 是 MoE 架构，在 8GB 显卡上：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LM Studio 默认把所有层塞进显存 → 7549MB （ 93%），3 tok/s&lt;/li&gt;
+&lt;li&gt;只把 attention 层放 GPU ，MoE expert 层走 CPU → 2603MB （ 32%），21 tok/s&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;快了 7 倍，显存反而省了 65%。关键是 llama.cpp 支持这个，但你得自己识别哪些 tensor 是 MoE expert （&lt;code&gt;.ffn_.*_exps.&lt;/code&gt; 这类命名），然后手动配。&lt;/p&gt;
+&lt;h3&gt;2. KV cache 类型影响比大多数人想的大&lt;/h3&gt;
+&lt;p&gt;同一张 8GB 显卡跑 Llama 3.1 8B ，不同 KV cache 配置速度差异：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;配置&lt;/th&gt;
+&lt;th&gt;ctx&lt;/th&gt;
+&lt;th&gt;速度&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;iso3+iso3 ，4 slot&lt;/td&gt;
+&lt;td&gt;8K&lt;/td&gt;
+&lt;td&gt;19.4 tok/s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;q8_0+q4_0 ，1 slot&lt;/td&gt;
+&lt;td&gt;8K&lt;/td&gt;
+&lt;td&gt;38.2 tok/s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;f16+f16 ，1 slot&lt;/td&gt;
+&lt;td&gt;8K&lt;/td&gt;
+&lt;td&gt;51.7 tok/s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;f16+f16 ，1 slot （自动）&lt;/td&gt;
+&lt;td&gt;64K&lt;/td&gt;
+&lt;td&gt;26.2 tok/s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;f16 比 iso3 快将近 3 倍。但 f16 显存占用更大，所以正确策略是：先算 f16 KV cache 占多少显存，装得下就用 f16 ，装不下再降级。&lt;/p&gt;
+&lt;p&gt;公式：&lt;code&gt;KV_MB = 2 × layers × kv_heads × head_dim × ctx × bytes / 1024²&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;3. oobabooga 公式用来预测 ctx 上限&lt;/h3&gt;
+&lt;p&gt;社区里流传的 oobabooga 显存估算公式，原本用来预测装载模型后剩余显存能支持多大 ctx 。但这个公式是基于 q8_0/f16 拟合的，用 iso3 的时候会严重高估显存需求，导致 ctx 只算出 4K 。&lt;/p&gt;
+&lt;p&gt;最后放弃公式预测，改成二分探测：从 min(nativeCtx, 65536) 开始，OOM 就减半，最多探 5 次，让 llama-server 自己告诉我能跑多少。Llama 3.1 8B 的 ctx 从 4K 直接到 64K 。&lt;/p&gt;
+&lt;h3&gt;4. parallel slot 数量对单用户场景影响巨大&lt;/h3&gt;
+&lt;p&gt;llama.cpp 默认开 4 个并行 slot （为了多用户并发），但单用户场景下这会把 VRAM 分成 4 份。&lt;/p&gt;
+&lt;p&gt;关掉多余 slot （&lt;code&gt;--parallel 1&lt;/code&gt;）之后：18.5 → 38.2 tok/s ，直接翻倍。&lt;/p&gt;
+&lt;h3&gt;5. ubatch 实测比理论更可靠&lt;/h3&gt;
+&lt;p&gt;ubatch 128 vs 512 的性能差异跟模型和显卡都有关系，没有通用最优值。实测结论：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;8K ctx：ubatch 512 比 128 快 7.6%&lt;/li&gt;
+&lt;li&gt;64K ctx：ubatch 512 比 128 快 21.6%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;直接 benchmark 两个值取快的，比查文档猜靠谱。&lt;/p&gt;
+&lt;h3&gt;6. 对话压缩不要用模型生成摘要&lt;/h3&gt;
+&lt;p&gt;最初方案是上下文满了之后调本地模型生成摘要——结果单 slot 阻塞，直接超时。&lt;/p&gt;
+&lt;p&gt;改成纯算法提取：保留头部（ system prompt + 首轮对话）和尾部（最近 8K tokens ），中间部分提取代码路径、函数名、文件名、TODO 等关键信息。压缩率 73%，耗时 &amp;lt;1ms 。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;用了哪些技术，实现了什么功能&lt;/h2&gt;
+&lt;h3&gt;llama.cpp — 推理引擎核心&lt;/h3&gt;
+&lt;p&gt;直接调用 llama.cpp 的 llama-server ，所有参数（ ctx 、KV cache 类型、线程数、ubatch 、mlock 、tensor split ）都通过启动参数注入。Kaiwu 本质上是一个参数决策层，不改推理引擎本身。&lt;/p&gt;
+&lt;h3&gt;IsoQuant / TurboQuant — 3-bit KV cache 压缩&lt;/h3&gt;
+&lt;p&gt;集成了 johndpope 的 turboquant fork （&lt;code&gt;feature/planarquant-kv-cache&lt;/code&gt;），支持 &lt;code&gt;-ctk iso3 -ctv iso3&lt;/code&gt; 参数。iso3 的压缩系数实测 0.73 ，理论值 0.75 ，在 VRAM 紧张的设备（ 8GB ）上可以把 KV cache 占用压缩到 q8_0 的一半。但有约 600MB 固定解码 buffer 开销，VRAM 充裕时反而比 f16 慢 8%，所以策略是 VRAM &amp;gt; 16GB 才默认开 iso3 。&lt;/p&gt;
+&lt;h3&gt;oobabooga 显存估算公式 — ctx 上限预测（已放弃）&lt;/h3&gt;
+&lt;p&gt;社区流传的公式用来预测剩余显存能支持多大 ctx ，基于 q8_0/f16 拟合。iso3 场景下高估显存需求，导致 ctx 只算出 4K 。最终改成二分探测代替公式，让 llama-server 自己决定能跑多少。&lt;/p&gt;
+&lt;h3&gt;GQA 架构识别 — KV cache 精准估算&lt;/h3&gt;
+&lt;p&gt;Qwen3 等新模型用 GQA （ Grouped Query Attention ），kv_heads 远小于 attention_heads 。KV cache 大小公式里用的是 kv_heads 而不是 heads ，不识别这一点会高估 3-4 倍。通过读 GGUF metadata 拿到准确的 kv_heads 值再做计算。&lt;/p&gt;
+&lt;h3&gt;MoE tensor 识别 — 自动 expert offload&lt;/h3&gt;
+&lt;p&gt;读取模型的 tensor 名称列表，匹配 &lt;code&gt;.ffn_.*_exps.&lt;/code&gt; 模式识别出 MoE expert 层，自动决定把这部分路由到 CPU 。不需要用户手动指定，也不需要提前知道模型架构。&lt;/p&gt;
+&lt;h3&gt;Extractive Summary — 零延迟对话压缩&lt;/h3&gt;
+&lt;p&gt;上下文到 75% 时触发，纯算法提取：保留 system prompt 、首轮对话、最近 8K tokens ，中间部分按关键词权重保留（代码路径、函数名、文件名、TODO 、命令行等）。不调用任何模型，压缩耗时 &amp;lt;1ms ，73% 压缩率。最初试过调本地模型生成摘要，单 slot 阻塞直接超时，这条路走不通。&lt;/p&gt;
+&lt;h3&gt;GitHub Actions CI — 跨平台自动编译&lt;/h3&gt;
+&lt;p&gt;turboquant fork 需要自己编译带 iso3 支持的 llama-server 。用 GitHub Actions 同时编译 Windows （ MSVC ）和 Linux （ GCC ）版本，CUDA 12.4 ，覆盖 sm_75/80/86/89 架构，RTX 50 系列通过 PTX JIT 运行时支持。踩了三个 MSVC 编译坑（ extern &quot;C&quot; 声明改定义、M_PI 未定义、全局符号缺失），记录在 &lt;a href=&quot;http://PROGRESS.md&quot; rel=&quot;nofollow&quot;&gt;PROGRESS.md&lt;/a&gt; 里。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;工具&lt;/h2&gt;
+&lt;p&gt;把上面这些逻辑都自动化了，叫开物（ Kaiwu ）。一行命令启动，参数全部自动找，结果缓存起来，第二次 2 秒启动。&lt;/p&gt;
+&lt;p&gt;GitHub： &lt;a href=&quot;https://github.com/val1813/kaiwu&quot; rel=&quot;nofollow&quot;&gt;https://github.com/val1813/kaiwu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 兼容 API ，Continue / Cursor / Claude Code 直接接。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;有遇到类似问题的欢迎交流，尤其是 MoE offload 和 KV cache 这块踩坑挺深的。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>时光荏苒，四年了自己一点长进都没有。大家点进来看看我这个笨蛋</title>
+      <link>https://www.v2ex.com/t/1208262</link>
+      <guid>v2ex-1208262</guid>
+      <pubDate>Fri, 24 Apr 2026 04:43:45 GMT</pubDate>
+      <description>四年过去了，我现在还是没学会前端。html ，css ，JavaScript ，vue3 看过视频，对着视频抄过一遍代码，关了视频两眼一黑就不会写代码了&lt;br /&gt;学不会编程，是不是我太笨了？（求暴躁老哥骂醒我）&lt;br /&gt;原帖子在这里 &lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/931075#reply16&quot;&gt;https://www.v2ex.com/t/931075#reply16&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>GPT-5.5 / gpt-image-2 API 已上线， 0.06$/张，注册留 ID 送 5 美金额度</title>
+      <link>https://www.v2ex.com/t/1208351</link>
+      <guid>v2ex-1208351</guid>
+      <pubDate>Fri, 24 Apr 2026 09:25:03 GMT</pubDate>
+      <description>&lt;p&gt;「创界 API 」已经正式支持以下模型：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GPT-5.5 全系列：
+gpt-5.5-high / medium / low / xhigh&lt;/li&gt;
+&lt;li&gt;图片生成：gpt-image-2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 简单说下特点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新用户注册送 $5 测试额度（数量有限先到先得）&lt;/li&gt;
+&lt;li&gt;gpt-image-2 价格：$0.06 / 张&lt;/li&gt;
+&lt;li&gt;实测稳定性 95%+（适合业务长期跑）&lt;/li&gt;
+&lt;li&gt;支持企业用户开票&lt;/li&gt;
+&lt;li&gt;接口稳定，适合接入生产环境&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目前已经有一些做 AI 应用、工具站、自动化业务的在用，整体反馈还不错。&lt;/p&gt;
+&lt;p&gt;有需要接入 API 或者做长期合作的老板欢迎来对接👇
+&lt;a href=&quot;https://makerend.com/console&quot; rel=&quot;nofollow&quot;&gt;https://makerend.com/console&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;也欢迎 V2EX 的朋友测试反馈，我们会持续优化 👍&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>我是不是意味着职业生涯到期了？</title>
+      <link>https://www.v2ex.com/t/1208339</link>
+      <guid>v2ex-1208339</guid>
+      <pubDate>Fri, 24 Apr 2026 08:49:50 GMT</pubDate>
+      <description>&lt;p&gt;从毕业到现在都工作 4 年多，简单概括整个工作生涯，工作上也没啥特别高深技术，就很纯粹的业务 Boy 。最近投了大半个月简历，且 op 都是专挑外包岗位去投，对面招聘 HR 拿完我信息就没后续了，面试机会也很少。前几天倒是有两三个电话面试打过来，都是问一些八股文，整体面试过程，我都浅略回答面试官问题。（后续估计也悬了）。还有就是前段时间还收到什么帮忙代面电话，挺无语的，我还问他们，谁把我信息卖给你们，之后他们就草草挂断电话了。&lt;/p&gt;
+&lt;p&gt;八股文也看了，但是每到面试时候都会忘得七七八八，即使自己知道的，不知道怎么组织语言，表达逻辑不流畅？&lt;/p&gt;
+&lt;p&gt;为什么我感觉职业生涯到期？主要以下几点：&lt;/p&gt;
+&lt;p&gt;个人情况：OP 乡镇，二本毕业，26 岁，性格较为内向，家庭一般。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;刚毕业那段时间，找工作，与面试官聊着聊着，拿着我简历说到“哎，原来你是本科的，xxx”。陷入自我怀疑状态...（省内公办本科毕业，遇到不少于过两次，搞得我很自闭）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;实习时候。因为疫情和学校诸多强制事情，找实习推迟了。后续在找实习时候，迟迟找不到实习，差不多找了 4 个多月。那时候每次笔试和面试失败都会进行复盘，以为是不是要价太多了和知识储备太少了。价格上，每次找实习一直压低价格；知识上，什么八股文，JVM 一堆八股文往上套，死劲背，leetcode 狂刷题，到最后被问到的公司没要我，倒是没被问到通过了。最终以 2k 月薪，能接受大小周，在一线城市小公司工作实习。我还记得当时入职时候，对面 HR 说到：“我们这边 2k 也是给得起的”，“你这边生活费够用？”。差不哦多 10 年前初中时候，我在当地进厂打暑假工，也 3k+了，当时又深深自我怀疑...。从那时候起，我非常厌恶八股文，但是找工作又不得不看它，唉...。还有个小插曲：当时为了那实习证明，工作几个月就溜走了，等我回到学校问道同学们，他们实习证明要不是让父母盖章，或者亲戚内推，或者淘宝买了，就只有我们几个真的招实习工作，感觉我还是太老实了...&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;现在大环境差，学历一般，以往工作背景没啥亮点（有外包经历），感觉估计也要凉了。本还想能干到 35 岁就知足了，回头想想，除了程序员，我都不知道我能干啥。还有一件小事情，每次找工作都会有代面，培训机构（刚出来毕业工作时候经常收到的）问我要不要尝试一下，太恶心了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;回顾整个求职和工作生涯，诸多不顺。&lt;/p&gt;
+&lt;p&gt;今天思绪有些散，乱想了一通，有感而发，随手记下，回头读着不太顺畅，也凑合吧。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>占比大幅提升！谷歌：公司内部 75%的新代码已由 AI 生成</title>
+      <link>https://www.v2ex.com/t/1208284</link>
+      <guid>v2ex-1208284</guid>
+      <pubDate>Fri, 24 Apr 2026 06:20:03 GMT</pubDate>
+      <description>&lt;p&gt;程序员这个行业职业生涯基本到头了吧，没有再进入的必要了，之后会越来越平民化。&lt;/p&gt;
+&lt;p&gt;但是按道理应该老程序能焕发第二春了，有了 AI 加持越来越需要有编程经验的老炮。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>2026 年，选择 Podman 还是 Docker</title>
+      <link>https://www.v2ex.com/t/1208359</link>
+      <guid>v2ex-1208359</guid>
+      <pubDate>Fri, 24 Apr 2026 10:12:41 GMT</pubDate>
+      <description>&lt;p&gt;Docker 对于大多数自托管应用支持的比较好，个人使用也基本熟悉了。
+Podman 的无守护进程和默认的 Rootless 很好用，在服务器上测试部署了一个服务，感觉还挺好的。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title># 抽奖 | 懒猫小龙猫 AI Agent 抽奖活动（第二轮）</title>
+      <link>https://www.v2ex.com/t/1208385</link>
+      <guid>v2ex-1208385</guid>
+      <pubDate>Fri, 24 Apr 2026 13:30:17 GMT</pubDate>
+      <description>&lt;h1&gt;抽奖 | 懒猫小龙猫 AI Agent 抽奖活动（第二轮）&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/AJmH0gWb.jpeg&quot;/&gt;
+想玩 AI Agent 又怕门槛高？那是你没遇上“小龙猫”。&lt;/p&gt;
+&lt;p&gt;龙虾（ OpenClaw ）不失联，爱马仕（ Hermes ）更好用！&lt;/p&gt;
+&lt;p&gt;懒猫小龙猫一键部署，多人群聊，安全隔离，永远不挂，让你的 AI 助手 24 小时为你打工！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;上一轮活动中奖名单在帖子底部&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;欢迎大佬们参与我们本次抽奖活动，有机会直接获得懒猫微服一台，规则如下&lt;/p&gt;
+&lt;h1&gt;第二轮活动时间&lt;/h1&gt;
+&lt;p&gt;4 月 24 日-4 月 29 日&lt;/p&gt;
+&lt;p&gt;开奖时间：4 月 29 日晚上 20:00 （周三）
+奖品：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- 一等奖：价值 5499 元 7 盘位新款「懒猫微服 AI 主机」*1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- 三等奖：价值 142 元「绿联万兆交换机」+「懒猫微服 AI 主机」 499 优惠券*5&lt;/strong&gt;&lt;/p&gt;
+&lt;h1&gt;抽奖规则（必看）：&lt;/h1&gt;
+&lt;p&gt;1.评论区评论下面内容，或者分享你在使用小龙虾和爱马仕时的体验&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;想玩 AI Agent 又怕门槛高？那是你没遇上“小龙猫”。龙虾（ OpenClaw ）不失联，爱马仕（ Hermes ）更好用！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2.添加微信进入懒猫微服交流群 15342333561 / 18627819427 / 17820700354 / 17612774028&lt;/p&gt;
+&lt;h1&gt;抽奖方式&lt;/h1&gt;
+&lt;p&gt;本次抽奖依据名单统计，使用懒猫微服商店中的抽奖工具开奖，公平公正，结果第一时间公布在微信群。（需加微信进群）&lt;/p&gt;
+&lt;h1&gt;领奖方式&lt;/h1&gt;
+&lt;p&gt;通过微信群联系我们的工作人员领奖，中奖后进群无效，所以参加抽奖的大佬进懒猫微服任意交流群即可。（需加微信进群）&lt;/p&gt;
+&lt;h1&gt;特别提醒：&lt;/h1&gt;
+&lt;p&gt;1.大佬一定要进我们的交流群才能获得中奖资格哦。&lt;/p&gt;
+&lt;p&gt;2.中奖用户需要把“推特参与活动截图以及推特主页”作为凭证发给工作人员验证。&lt;/p&gt;
+&lt;p&gt;3.中奖优惠券仅用于小程序购买，不与京东分期优惠叠加,不可用于 LC-03 基础款&lt;/p&gt;
+&lt;h1&gt;购买渠道和优惠：&lt;/h1&gt;
+&lt;p&gt;1.添加下方微信获取懒猫微服内部资料和优惠，或京东搜索“懒猫微服”下单 &lt;/p&gt;
+&lt;p&gt;15342333561 18627819427 17820700354 17612774028&lt;/p&gt;
+&lt;p&gt;2.全球包邮，UPS 红牌到家&lt;/p&gt;
+&lt;p&gt;3.懒猫零元购，微服用户每移植一款应用到懒猫商店即可得百元红包，原创应用奖励翻倍，撰写一篇攻略可得 50 红包，多移多得，没有上限。&lt;/p&gt;
+&lt;h1&gt;第一轮中奖名单&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/JT6u6edF.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>v 友们每个月要为 ai 上供多少呢？</title>
+      <link>https://www.v2ex.com/t/1208303</link>
+      <guid>v2ex-1208303</guid>
+      <pubDate>Fri, 24 Apr 2026 07:14:05 GMT</pubDate>
+      <description>&lt;p&gt;我先来：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th&gt;费用&lt;/th&gt;
+&lt;th&gt;备注&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;阿里 Coding Plan Pro 套餐&lt;/td&gt;
+&lt;td&gt;200 元/月&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;智谱 GML Lite&lt;/td&gt;
+&lt;td&gt;480 元/年&lt;/td&gt;
+&lt;td&gt;相当于 40 元/月&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;自建 Sub2API 反代 GPT&lt;/td&gt;
+&lt;td&gt;0 元&lt;/td&gt;
+&lt;td&gt;都是抽奖获得的号，快到期了&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>感觉自己真的快扛不住了，想从国企裸辞跳槽去外企。。。</title>
+      <link>https://www.v2ex.com/t/1208397</link>
+      <guid>v2ex-1208397</guid>
+      <pubDate>Fri, 24 Apr 2026 15:21:10 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ifUu9pZ.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ifUu9pZ.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;	从下定决心到跳槽已经有差不多三个月了，算法题自我感觉是刷得差不多了。听力目前也还凑合，不过口语可能还差点意思。本来是打算五月份开始投简历的，但是最近心态真的有点儿爆炸，也不知道该咋办了。&lt;br /&gt;&lt;br /&gt;	年后的一两个月其实还凑合，虽然每天出差，但是基本上能保持一天学习七八个小时，每天超级有成就感，也对未来充满希望。但是最近一个月，领导给我派到了项目现场驻场。。。活干慢了甲方也要叼人，周末也不让休息。最近活实在干不完，领导派了个外包大哥来帮忙，不过大哥估计下个月就要走了，下个月估计要忙到飞起。。。。身边的正式工同事都在干管理，基本上也不加班，只因为我当时和大领导还有领导说了几次自己喜欢做技术，结果现在给我派到各个项目现场来调设备，类似电气工程师了。。。真是脑子进了屎来了现在这个单位。每天就像个外包，连甲方的食堂都不能进去吃饭，任何一个甲方的员工都能趾高气昂的怼我，当然 95%以上的甲方同事还是比较不错的，有些奇葩真的很让人不舒服。&lt;br /&gt;&lt;br /&gt;	现在是真的很想下个月裸辞了，每天没有学习时间真的好焦虑。。。现场的事情也拖不了，因为六七月份又要验收了。八月份还有个项目要验收。感觉后面基本没有时间准备和面试了，不知道该怎么办了。。。现在是钱少事多离家远。裸辞真的能找到满意的外企吗？爸妈也不让我裸辞。。。不知道该如何是好了。&lt;br /&gt;&lt;br /&gt;    隔壁组有个新员工最近找到新工作了，辞职之后组织部的领导说可以让他换个部门，不知道如果我辞职的话能不能也换个轻松点的部门。&lt;br /&gt;&lt;br /&gt;    该怎么办呢？求大家给我点点建议吧！</description>
     </item>
   </channel>
 </rss>
