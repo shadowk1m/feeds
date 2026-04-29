@@ -4,32 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 29 Apr 2026 13:01:12 GMT</lastBuildDate>
-    <item>
-      <title>[源头工厂] 顶级万号 ProMAX， $30 刀 Codex/GPT5 免费送，企业级稳定！</title>
-      <link>https://www.v2ex.com/t/1209209</link>
-      <guid>v2ex-1209209</guid>
-      <pubDate>Tue, 28 Apr 2026 15:15:56 GMT</pubDate>
-      <description>&lt;h1&gt;MuskAI 稳定生产力的源泉&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;💎超大源头 GPT PROMAX 池，按量 0.11 倍，tokens 吞吐量为 team/plus &lt;strong&gt;5 倍&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;💎超低延迟，国内专线接入（稳定不掉线）&lt;/li&gt;
-&lt;li&gt;💎稳定持续可用，适合长期使用与业务接入（可开发票）&lt;/li&gt;
-&lt;li&gt;💎适合需要稳定渠道的客户！&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;V 友专属福利：$30 刀 Codex/GPT5 爽用&lt;/h2&gt;
-&lt;h1&gt;领取步骤&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;1 、加入 Q 群：1090132599&lt;/li&gt;
-&lt;li&gt;2 、打开 &lt;a href=&quot;http://muskpay.top&quot; rel=&quot;nofollow&quot;&gt;http://muskpay.top&lt;/a&gt; 注册账户&lt;/li&gt;
-&lt;li&gt;3 、在本帖回帖，留下你的注册邮箱，将为你发放订阅&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;数千名用户优选，感谢大家的信任，我们一直坚持为大家提供能力范围内最佳的 AI 服务&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/bSPXo59CdgUxDj68NBCiILnuiKNY7ifo.png&quot;/&gt;
-&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/qpZpvr1NrH7xWyE4cYAVRA1JShLB2CF3.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;qrcode_1777304837238.jpg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cfpic.890214.net/file/pc/1777304932038_qrcode_1777304837238.jpg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 15:31:04 GMT</lastBuildDate>
     <item>
       <title>GoAPIs 中转站开业 🚀 主打稳定，注册送$10 美金额度</title>
       <link>https://www.v2ex.com/t/1209249</link>
@@ -65,223 +40,6 @@
 </description>
     </item>
     <item>
-      <title>能一起给本地部署的开源模型做个适配的 coding agent 吗？我憋了口气</title>
-      <link>https://www.v2ex.com/t/1209195</link>
-      <guid>v2ex-1209195</guid>
-      <pubDate>Tue, 28 Apr 2026 13:24:51 GMT</pubDate>
-      <description>&lt;h1&gt;我做了一个专门为本地开源模型优化的 Coding Agent ，希望更多华人开发者一起来搞&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;本贴发布的目的不是推产品，不是炫技，而是想扬眉吐气——和华人开发者一起，和开源模型本地部署开发者一起，做一件我们自己的事。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h2&gt;一、我遇到了什么问题&lt;/h2&gt;
-&lt;p&gt;去年开始用本地模型做编程辅助。原因很简单：公司代码不能传到海外服务器，Claude Code 和 Cursor 走不通。&lt;/p&gt;
-&lt;p&gt;但更大的问题是：&lt;strong&gt;中国开发者根本没有一个好用的本地 coding agent 平台。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CC 需要翻墙，还要订阅。Cursor 同样。Codex 刚出来也是海外服务。Hermes 这类开源工具不支持 Windows 原生运行，要装 WSL2 ，劝退了大多数国内开发者。最后大家的选择是：要么翻墙凑合用，要么忍着不用。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这是一个真实存在的空缺，没有人填。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本地跑 qwen3:8b ，然后发现问题一个接一个：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🔴 无限循环，像卡带一样&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这是本地小模型最让人抓狂的问题。遇到它不会处理的场景，它不会说&quot;我不知道&quot;，而是开始重复——同一句话说三遍，同一个错误的修改建议循环出现，同一段代码反复生成。整个任务卡死，只能手动强制退出。这不是偶发现象，是小模型在推理能力不足时的典型崩溃模式。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🔴 修 bug 反复踩同一个坑&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;让它修一个函数，第一次失败，第二次用完全一样的方式再试，第三次依然。三次机会全浪费在同一个错误上，什么都没推进。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🔴 模型能力本身就弱于 API 模型&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这是无法回避的现实。8B 、14B 的参数量，推理能力和 Claude Opus 、GPT-4 差距明显。让一个 8B 模型扛下一个复杂任务的全部推理，成功率很低，这不是哪个工具的问题，是模型本身的边界。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🔴 找不到要改的文件&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;项目大了之后，模型根本不知道要改哪个文件。让它找 bug ，它要么猜错，要么说&quot;我需要看更多代码&quot;，然后把整个项目塞进 context ，然后 context 又爆了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🔴 对话几轮就开始遗忘&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;8B 模型 context 窗口只有 8K ，对话多了就满了，模型开始给出驴唇不对马嘴的回答。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;这些问题叠在一起，用本地模型做开发辅助的体验极差。&lt;/p&gt;
-&lt;p&gt;所以我想自己做一个产品来跑。有人就会说：为什么不直接用 ollama + cc ？还友情指导我命令。&lt;/p&gt;
-&lt;p&gt;哎。&lt;/p&gt;
-&lt;p&gt;大厂的产品只会为它的商业模式服务。ollama 放弃了参数微调来换取稳定，lm 让开发者纠结什么是最优，CC/Codex/Cursor 都是卖 token ，&lt;strong&gt;没有人会真的认真想本地部署缺什么，需要优化什么，记忆怎么优化，上下文怎么压缩，小参数怎么辅助。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;但我人微言轻，所以我做了个 MVP 想抛砖引玉。我们可以一起把要优化的都优化了，打造我们自己的产品。&lt;/p&gt;
-&lt;p&gt;有人也说，我能力不够。&lt;/p&gt;
-&lt;p&gt;那我的思路是：&lt;strong&gt;不够就做整合，够了就做突破。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;所以我做了 KWCode ，不是为了商业化，MIT 任何人都能拿走，只希望哪个感兴趣的大神，愿意和我或者和所有开发者一起把它实现并开源，给所有被本地部署膈应的宝子们。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;二、我用了哪些思路&lt;/h2&gt;
-&lt;h3&gt;思路一：MoE 架构——让 LLM 只做它擅长的那一步&lt;/h3&gt;
-&lt;p&gt;这是 KWCode 最核心的设计决策，也是解决上面所有问题的根本思路。&lt;/p&gt;
-&lt;p&gt;传统 coding agent 的架构是：&lt;strong&gt;一个 LLM 扛全部&lt;/strong&gt;——理解需求、定位代码、生成修改、验证结果，全让同一个模型做。强模型能扛，小模型扛不住，然后就开始循环、幻觉、乱说。&lt;/p&gt;
-&lt;p&gt;KWCode 用的是 &lt;strong&gt;MoE （ Mixture of Experts ）架构&lt;/strong&gt;：把任务切碎，每个专家只做一件事，LLM 只负责 Gate 分类和内容生成，其他步骤能不调 LLM 就不调。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;用户输入
-  └─► Gate （ LLM 做一次分类，判断任务类型）
-        └─► Locator （ BM25 + 调用图，不调 LLM ，毫秒级定位文件和函数）
-              └─► Generator （ LLM 只写需要修改的那几行代码）
-                    └─► Verifier （自动跑语法检查 + pytest ，不调 LLM ）
-                          └─► SearchAugmentor （两次失败后自动搜索）
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;LLM 在这条流水线里的任务被压到了最小：Gate 做一次分类，Generator 生成几行代码。定位文件、验证结果这两件最耗推理能力的事，完全不让 LLM 做。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;参考：Agentless 论文（ ICSE 2025 ）——确定性流水线在 SWE-bench 上同时达到最高通过率和最低成本，优于让 LLM 自主决策的复杂 agent 。原因很简单：每一步 scope 极小，小模型在小 scope 里表现稳定。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h3&gt;思路二：用调用图定位代码，不靠 LLM 猜&lt;/h3&gt;
-&lt;p&gt;代码定位是小模型最容易失败的步骤，把它从 LLM 手里拿走，换成确定性算法。&lt;/p&gt;
-&lt;p&gt;CodeCompass （ arXiv:2602.20048 ，2026 年）做了 258 次实验，发现了一个关键结论：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;真实项目里，很多 bug 的根因文件名和错误描述毫无关联，只能通过调用链追踪才能找到。对这类&quot;隐藏依赖&quot;任务，BM25 关键词搜索准确率只有 **76.2%**，而图遍历达到 **99.4%**，差了 23 个百分点。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;KWCode 的两阶段检索：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;BM25 关键词召回&lt;/strong&gt;（毫秒级，不调 LLM ）：从代码库所有函数/类中，快速召回 top-20 候选&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AST 调用图展开&lt;/strong&gt;（毫秒级，不调 LLM ）：对每个候选函数，沿调用图向上向下各展开 2 跳，发现隐藏依赖&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;整个过程不调 LLM ，SQLite 持久化调用图，重启不重建。&lt;/p&gt;
-&lt;p&gt;技术栈：&lt;code&gt;tree-sitter&lt;/code&gt; + &lt;code&gt;rank-bm25&lt;/code&gt; + &lt;code&gt;SQLite&lt;/code&gt;。不需要 Neo4j ，不需要 embedding 模型，不需要额外 Docker 。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;思路三：打破循环——失败时强制换策略&lt;/h3&gt;
-&lt;p&gt;针对&quot;反复踩同一个坑&quot;和&quot;无限循环&quot;这两个问题：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;反无限循环&lt;/strong&gt;：MAX_RETRIES 硬编码为 3 ，没有任何路径能绕过。同时检测连续两次生成完全相同的 patch ，直接跳过不重试，告诉用户&quot;模型卡住了，建议缩小任务范围&quot;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;反重复失败&lt;/strong&gt;：三次重试强制用三种不同的问题表述：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;第几次&lt;/th&gt;
-&lt;th&gt;策略&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;第一次&lt;/td&gt;
-&lt;td&gt;正常描述需求&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;第二次&lt;/td&gt;
-&lt;td&gt;从错误信息出发：&quot;直接修复这个报错，不要解释&quot;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;第三次&lt;/td&gt;
-&lt;td&gt;最小化修改：&quot;只改这一个函数，其他代码一行不动&quot;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;第一次失败后先做 &lt;strong&gt;Reflection&lt;/strong&gt;：让 LLM 一句话分析上次失败的原因，然后把这个分析注入下次的 prompt 。不是让模型自由发挥，是强制它先诊断再修。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;思路四：专家飞轮，越用越懂你的项目&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;参考：EE-MCP （ NeurIPS 2025 ）——从任务执行轨迹自动提取经验，验证可显著提升后续同类任务成功率。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;KWCode 预置了 15 个专家（ BugFix 、TestGen 、SpringBoot 、FastAPI 等），每个专家有独立的 system prompt 。&lt;/p&gt;
-&lt;p&gt;同类任务成功 5 次之后，飞轮自动分析轨迹，生成新专家，经过&lt;strong&gt;三道验证门&lt;/strong&gt;后投产：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;回测门&lt;/strong&gt;：新专家成功率必须 ≥ 原流水线&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AB 测试门&lt;/strong&gt;：10 次真实对比，提升超过 10% 才投产&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;生命周期&lt;/strong&gt;：new → mature → declining → archived ，自动淘汰变差的专家&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;专家可以导出成 &lt;code&gt;.kwx&lt;/code&gt; 文件，&lt;code&gt;kwcode expert install URL&lt;/code&gt; 一行安装别人分享的专家。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;思路五：模型能力自适应&lt;/h3&gt;
-&lt;p&gt;CC 不需要考虑这个，因为它只用一个模型。KWCode 需要。&lt;/p&gt;
-&lt;p&gt;自动检测当前模型的参数量，然后应用不同策略：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;模型规模&lt;/th&gt;
-&lt;th&gt;自动策略&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&amp;lt; 10B （ qwen3:8b ）&lt;/td&gt;
-&lt;td&gt;强制计划确认 · 任务范围限 2 个文件 · 第 1 次失败触发搜索&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10-30B （ qwen3:14b ）&lt;/td&gt;
-&lt;td&gt;可选计划 · 4 个文件范围 · 第 2 次失败触发搜索&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&amp;gt; 30B （ qwen3:72b ）&lt;/td&gt;
-&lt;td&gt;宽松策略 · 8 个文件 · 自动处理复杂任务&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;切换模型，策略自动切换。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;三、现在做了什么&lt;/h2&gt;
-&lt;p&gt;核心功能跑通了。&lt;strong&gt;282/282 单元测试通过，E2E 验收通过率 87%（ 26/30 ，4 个失败是模型能力边界，不是框架问题）。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;代码能力&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;BM25 + AST 调用图两阶段定位，G3 隐藏依赖准确率 99.4%（论文验证）&lt;/li&gt;
-&lt;li&gt;三阶段重试 + Reflection ，不重复同样的错&lt;/li&gt;
-&lt;li&gt;专家飞轮三道门（轨迹 → 模式 → AB 测试 → 投产）&lt;/li&gt;
-&lt;li&gt;15 个预置专家（通用 + SpringBoot / MyBatis / FastAPI / UniApp 等）&lt;/li&gt;
-&lt;li&gt;Office 文档生成（ Excel / PPT / Word ，有样式不是白底）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;工程能力&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://KWCODE.md&quot; rel=&quot;nofollow&quot;&gt;KWCODE.md&lt;/a&gt; 项目规则文件，按任务类型分段注入，永远不忘&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/plan&lt;/code&gt; 计划模式 + 风险评估（ High/Medium/Low ，基于历史失败记录）&lt;/li&gt;
-&lt;li&gt;Checkpoint 文件快照，失败一键还原&lt;/li&gt;
-&lt;li&gt;非代码文件读取（ PDF / Word / Markdown ，BM25 段落匹配注入）&lt;/li&gt;
-&lt;li&gt;搜索增强（ SearXNG 自部署 + DDG fallback ，四级内容提取）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;体验&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Windows cmd/PowerShell 原生支持，不需要 WSL2&lt;/li&gt;
-&lt;li&gt;首次引导（ API 配置 + 连通性验证）&lt;/li&gt;
-&lt;li&gt;执行过程只显示 spinner ，完成后输出用户可读的结果摘要&lt;/li&gt;
-&lt;li&gt;支持任何 OpenAI 兼容 API （本地 Ollama / DeepSeek / 硅基流动等）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;四、还差什么&lt;/h2&gt;
-&lt;p&gt;说实话，有些地方还挺粗糙的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;AST 调用图目前只完整支持 Python ，其他语言调用图准确率还没有充分验证&lt;/li&gt;
-&lt;li&gt;专家飞轮的 Gate 2 回测逻辑偏简单，还不够严格&lt;/li&gt;
-&lt;li&gt;Windows 上的各种边界情况（ AMD 显卡、部分 Ollama 版本兼容性、中文路径）没有充分测试&lt;/li&gt;
-&lt;li&gt;钉钉/飞书 webhook 没做，手机发消息触发 agent 这个场景设计了但没实现&lt;/li&gt;
-&lt;li&gt;没有 IDE 插件，目前只有 CLI&lt;/li&gt;
-&lt;li&gt;Prompt Optimizer （用 Opus API 自动迭代优化专家 prompt ）只做了框架，没有跑起来&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;五、为什么想让更多人一起做&lt;/h2&gt;
-&lt;p&gt;我一个人做这个工具有明显的上限，不是技术上的上限，是视野上的上限。&lt;/p&gt;
-&lt;p&gt;我自己主要用 Python 和 FastAPI ，所以这方面想得细。但我不知道每天写 Spring Boot 的人最痛的点在哪，不知道搞 Rust 的人在本地模型上遇到什么问题，不知道做小程序的人需要什么。&lt;/p&gt;
-&lt;p&gt;更重要的是，&lt;strong&gt;这件事不应该只是一个人的工具，应该是中国开发者社区的工具。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CC 是 Anthropic 的，Cursor 是美国公司的，Hermes 是外国社区做的。我们用的工具，我们的使用习惯、技术栈偏好、本地化需求，从来都是别人顺手加进去的功能，不是第一优先级。&lt;/p&gt;
-&lt;p&gt;我想做的是反过来——&lt;strong&gt;把中国开发者的需求放在第一位，把本地开源模型的适配放在第一位，然后把这个工具做到能和大厂产品掰手腕。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这件事一个人做不到，但开源社区可以。&lt;/p&gt;
-&lt;p&gt;Linux 打败了 Unix ，不是因为某一个天才，而是全球开发者共同维护了几十年。VSCode 能超过那么多商业 IDE ，也是因为背后有庞大的插件和贡献生态。&lt;/p&gt;
-&lt;p&gt;KWCode 不需要你有多高的水平，只需要你在用本地模型做开发，然后把你遇到的问题、你的解法、你的改进贡献进来。&lt;strong&gt;多一个人，就多一个使用场景被照顾到，多一个坑被填掉。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Fork 这个项目，改进你最痛的那个点，提 PR ，我们互相借力，一起把它做好。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;闭源大厂有钱有人有算力，我们有什么？我们有真实的使用场景，有对本地部署的真实需求，有不依赖海外服务的动力。&lt;strong&gt;这已经足够了。&lt;/strong&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;六、怎么参与&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;项目地址&lt;/strong&gt;：&lt;a href=&quot;https://github.com/val1813/kwcode&quot; rel=&quot;nofollow&quot;&gt;github.com/val1813/kwcode&lt;/a&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# Fork 项目，克隆到本地
-git clone https://github.com/your-fork/kwcode.git
-cd kwcode
-
-# 安装开发版
-pip install -e &quot;.[dev]&quot;
-
-# 运行测试确认环境正常
-python -m pytest kaiwu/tests/ -v
-
-# 找一个你最想改的地方，开始动手
-git checkout -b fix/your-improvement
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;改什么都可以：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;你每天用 Go 写代码，觉得 Go 的 AST 调用图支持不够好，就去改它&lt;/li&gt;
-&lt;li&gt;你在用 Qwen3 发现某个场景总是触发无限循环，就去修它&lt;/li&gt;
-&lt;li&gt;你有更好的 context 压缩算法，就替换掉现有的&lt;/li&gt;
-&lt;li&gt;你发现 README 写错了，改一个字也算&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Issues&lt;/strong&gt; 里列了已知问题和规划中的功能，可以从那里找方向。&lt;strong&gt;Discussions&lt;/strong&gt; 里可以聊技术思路，聊某个方向值不值得做。&lt;/p&gt;
-&lt;p&gt;没有什么贡献太小。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;七、最后说一句&lt;/h2&gt;
-&lt;p&gt;我不知道 KWCode 能不能真的超越 CC 或者 Hermes 。&lt;/p&gt;
-&lt;p&gt;但我知道，如果中国开发者一直用别人做的工具，一直把自己的需求当作&quot;次要功能&quot;等别人来实现，这件事永远不会有答案。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;有些东西，只有自己做才知道能不能做到。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;项目是 MIT 开源的，你贡献的代码永远是你的。如果 KWCode 最后做成了，这件事是所有参与的人一起做成的。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;项目地址&lt;/strong&gt;：&lt;a href=&quot;https://github.com/val1813/kwcode&quot; rel=&quot;nofollow&quot;&gt;github.com/val1813/kwcode&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;天工开物 · KWCode · 中国开发者自己的本地 Coding Agent&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Flico 突然倒闭了，时代的眼泪</title>
       <link>https://www.v2ex.com/t/1209238</link>
       <guid>v2ex-1209238</guid>
@@ -309,21 +67,12 @@ git checkout -b fix/your-improvement
 </description>
     </item>
     <item>
-      <title>领到小米 100T 计划来集合了，我领到了个 MAX 套餐相当于 659 一月🐶</title>
-      <link>https://www.v2ex.com/t/1209234</link>
-      <guid>v2ex-1209234</guid>
-      <pubDate>Wed, 29 Apr 2026 00:35:29 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/wTahDkD.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>夏雨荷翻车了，你认为济南应该用哪个 IP？</title>
-      <link>https://www.v2ex.com/t/1209236</link>
-      <guid>v2ex-1209236</guid>
-      <pubDate>Wed, 29 Apr 2026 00:37:46 GMT</pubDate>
-      <description>&lt;p&gt;我认为可以选两个
-其一 大舜帝
-其二 辛弃疾&lt;/p&gt;
+      <title>新上中转站送 Token 纯血 gpt-5.5 分组倍率 0.15x</title>
+      <link>https://www.v2ex.com/t/1209410</link>
+      <guid>v2ex-1209410</guid>
+      <pubDate>Wed, 29 Apr 2026 08:36:43 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;http://www.bossclaw.org&quot; rel=&quot;nofollow&quot;&gt;www.bossclaw.org&lt;/a&gt; 注册完评论放邮箱送 3000 万 token&lt;/p&gt;
+&lt;p&gt;如有违规请管理直接删帖&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -372,11 +121,37 @@ git checkout -b fix/your-improvement
 </description>
     </item>
     <item>
+      <title>领到小米 100T 计划来集合了，我领到了个 MAX 套餐相当于 659 一月🐶</title>
+      <link>https://www.v2ex.com/t/1209234</link>
+      <guid>v2ex-1209234</guid>
+      <pubDate>Wed, 29 Apr 2026 00:35:29 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/wTahDkD.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>夏雨荷翻车了，你认为济南应该用哪个 IP？</title>
+      <link>https://www.v2ex.com/t/1209236</link>
+      <guid>v2ex-1209236</guid>
+      <pubDate>Wed, 29 Apr 2026 00:37:46 GMT</pubDate>
+      <description>&lt;p&gt;我认为可以选两个
+其一 大舜帝
+其二 辛弃疾&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>大家最近有什么取悦自己的东西分享吗？</title>
       <link>https://www.v2ex.com/t/1209218</link>
       <guid>v2ex-1209218</guid>
       <pubDate>Tue, 28 Apr 2026 16:40:22 GMT</pubDate>
       <description>最近大 A 赚了一点点钱，想买点东西快乐一下，但想不到有什么特别想要的，手机、电脑没有要换的需求，游戏平时也没什么时间玩。&lt;br /&gt;好像很久没有大学时候那种很想要又舍不得买某件东西的感觉了</description>
+    </item>
+    <item>
+      <title>APPLE 为什么没出折叠手机</title>
+      <link>https://www.v2ex.com/t/1209267</link>
+      <guid>v2ex-1209267</guid>
+      <pubDate>Wed, 29 Apr 2026 01:48:29 GMT</pubDate>
+      <description>&lt;p&gt;想买一个玩玩，是放弃这个赛道了吗&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
