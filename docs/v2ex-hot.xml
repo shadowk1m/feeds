@@ -4,155 +4,339 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 29 Apr 2026 00:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 04:07:22 GMT</lastBuildDate>
     <item>
-      <title>有人开过塔斯汀吗？</title>
-      <link>https://www.v2ex.com/t/1208994</link>
-      <guid>v2ex-1208994</guid>
-      <pubDate>Tue, 28 Apr 2026 01:04:31 GMT</pubDate>
-      <description>坐标上海，发现附近 4km 内没有塔斯汀店。。&lt;br /&gt;感觉是个机遇，这边人很多。。&lt;br /&gt;有说法吗？&lt;br /&gt;---&lt;br /&gt;一直都是程序员，没干过餐饮。。&lt;br /&gt;想看看大家的想法。</description>
-    </item>
-    <item>
-      <title>现在网上都在说 Agent 自动开发，我还是在对话模式，是不是落后了？</title>
-      <link>https://www.v2ex.com/t/1209036</link>
-      <guid>v2ex-1209036</guid>
-      <pubDate>Tue, 28 Apr 2026 03:13:54 GMT</pubDate>
-      <description>&lt;p&gt;最近这段时间看了很多关于 AI 开发的文章、博客、视频，
-尤其是各种 Agent 工作流 的分享。&lt;/p&gt;
-&lt;p&gt;比如：&lt;/p&gt;
-&lt;p&gt;AI 自己拆任务
-AI 自己写代码
-AI 自动做 code review
-AI 自动提交 PR
-AI 管理整个项目流程&lt;/p&gt;
-&lt;p&gt;甚至有些文章给人的感觉是：&lt;/p&gt;
-&lt;p&gt;人只需要把需求说清楚，剩下的事情 AI 自己就能完成。&lt;/p&gt;
-&lt;p&gt;说实话，看多了之后，我开始有点焦虑了。&lt;/p&gt;
-&lt;p&gt;先说一下我的背景：&lt;/p&gt;
-&lt;p&gt;我是一个前端开发工程师，
-使用 AI 辅助开发大概有 一年半左右 了。&lt;/p&gt;
-&lt;p&gt;平时主要工具是：&lt;/p&gt;
-&lt;p&gt;Claude
-GPT
-Cursor
-Windsurf&lt;/p&gt;
-&lt;p&gt;基本每天都在用，也算是比较重度用户。&lt;/p&gt;
-&lt;p&gt;但我目前真实的工作方式，其实还是：&lt;/p&gt;
-&lt;p&gt;人主导开发 + AI 辅助
-主要是对话模式&lt;/p&gt;
-&lt;p&gt;比如：&lt;/p&gt;
-&lt;p&gt;写代码的时候遇到问题就问 AI
-让 AI 帮我优化一段逻辑
-让 AI 帮我 review 一段代码
-或者生成一些基础结构&lt;/p&gt;
-&lt;p&gt;整体感觉：&lt;/p&gt;
-&lt;p&gt;AI 很强，但更像一个：&lt;/p&gt;
-&lt;p&gt;非常聪明的助手，而不是一个真正能接管项目的“开发者”。&lt;/p&gt;
-&lt;p&gt;我现在的困惑主要有几个：&lt;/p&gt;
-&lt;p&gt;1 ）现在真的有人在用 Agent 自己写代码吗？&lt;/p&gt;
-&lt;p&gt;不是 demo ，
-而是：&lt;/p&gt;
-&lt;p&gt;在真实项目里长期使用&lt;/p&gt;
-&lt;p&gt;比如：&lt;/p&gt;
-&lt;p&gt;前端项目
-后端服务
-中大型系统&lt;/p&gt;
-&lt;p&gt;而不是一个简单的脚手架项目。&lt;/p&gt;
-&lt;p&gt;2 ）现在的开发流程，真的变成这样了吗？&lt;/p&gt;
-&lt;p&gt;比如：&lt;/p&gt;
-&lt;p&gt;人只负责写需求
-Agent 自动拆任务
-Agent 自动写代码
-Agent 自动测试
-Agent 自动提交
-人只负责最后确认&lt;/p&gt;
-&lt;p&gt;如果真有人这样用，我非常想了解：&lt;/p&gt;
-&lt;p&gt;这个工作流到底是怎么搭建的？&lt;/p&gt;
-&lt;p&gt;3 ）前端和后端的差别是不是很大？&lt;/p&gt;
-&lt;p&gt;我有一种感觉是：&lt;/p&gt;
-&lt;p&gt;很多文章里的 Agent 工作流，
-可能更偏：&lt;/p&gt;
-&lt;p&gt;后端
-AI 工程
-Python / Node 服务
-工具链开发&lt;/p&gt;
-&lt;p&gt;而前端这边：&lt;/p&gt;
-&lt;p&gt;UI
-交互
-状态管理
-兼容性
-复杂业务逻辑&lt;/p&gt;
-&lt;p&gt;可能还比较难做到完全自动化。&lt;/p&gt;
-&lt;p&gt;但这只是我的猜测，不确定是不是事实。&lt;/p&gt;
-&lt;p&gt;4 ）大家现在真实的 AI 工作流到底是什么样的？&lt;/p&gt;
-&lt;p&gt;比如：&lt;/p&gt;
-&lt;p&gt;你们现在更接近哪种模式：&lt;/p&gt;
-&lt;p&gt;A ）
-人写代码 + AI 辅助&lt;/p&gt;
-&lt;p&gt;B ）
-人设计结构 + AI 写大部分代码&lt;/p&gt;
-&lt;p&gt;C ）
-Agent 负责模块开发，人负责 review&lt;/p&gt;
-&lt;p&gt;D ）
-Agent 基本可以接管项目&lt;/p&gt;
-&lt;p&gt;我不是质疑 AI 的能力。&lt;/p&gt;
-&lt;p&gt;只是看了太多“AI 自动开发”的文章之后，
-开始有点不确定：&lt;/p&gt;
-&lt;p&gt;现在行业真实的状态，到底是什么样的？&lt;/p&gt;
-&lt;p&gt;是：&lt;/p&gt;
-&lt;p&gt;大家已经进入 Agent 自动开发阶段了，
-还是说大多数人其实还是：&lt;/p&gt;
-&lt;p&gt;对话模式 + 人主导开发&lt;/p&gt;
-&lt;p&gt;只是没有人专门写这种“普通但真实”的文章。&lt;/p&gt;
-&lt;p&gt;如果有在实际项目里长期使用 Agent 的同学，
-非常希望能分享一下：&lt;/p&gt;
-&lt;p&gt;你们用的工具
-工作流大概是什么样
-哪些事情真的能自动化
-哪些事情还是必须人工做&lt;/p&gt;
-&lt;p&gt;小弟真心求教。&lt;/p&gt;
+      <title>[源头工厂] 顶级万号 ProMAX， $30 刀 Codex/GPT5 免费送，企业级稳定！</title>
+      <link>https://www.v2ex.com/t/1209209</link>
+      <guid>v2ex-1209209</guid>
+      <pubDate>Tue, 28 Apr 2026 15:15:56 GMT</pubDate>
+      <description>&lt;h1&gt;MuskAI 稳定生产力的源泉&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;💎超大源头 GPT PROMAX 池，按量 0.11 倍，tokens 吞吐量为 team/plus &lt;strong&gt;5 倍&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;💎超低延迟，国内专线接入（稳定不掉线）&lt;/li&gt;
+&lt;li&gt;💎稳定持续可用，适合长期使用与业务接入（可开发票）&lt;/li&gt;
+&lt;li&gt;💎适合需要稳定渠道的客户！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;V 友专属福利：$30 刀 Codex/GPT5 爽用&lt;/h2&gt;
+&lt;h1&gt;领取步骤&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;1 、加入 Q 群：1090132599&lt;/li&gt;
+&lt;li&gt;2 、打开 &lt;a href=&quot;http://muskpay.top&quot; rel=&quot;nofollow&quot;&gt;http://muskpay.top&lt;/a&gt; 注册账户&lt;/li&gt;
+&lt;li&gt;3 、在本帖回帖，留下你的注册邮箱，将为你发放订阅&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;数千名用户优选，感谢大家的信任，我们一直坚持为大家提供能力范围内最佳的 AI 服务&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/bSPXo59CdgUxDj68NBCiILnuiKNY7ifo.png&quot;/&gt;
+&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/qpZpvr1NrH7xWyE4cYAVRA1JShLB2CF3.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;qrcode_1777304837238.jpg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cfpic.890214.net/file/pc/1777304932038_qrcode_1777304837238.jpg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Xiaomi MiMo Token 激励计划</title>
-      <link>https://www.v2ex.com/t/1209013</link>
-      <guid>v2ex-1209013</guid>
-      <pubDate>Tue, 28 Apr 2026 01:44:10 GMT</pubDate>
-      <description>邀请你参加 Xiaomi MiMo Orbit 百万亿 Token 创造者激励计划，100T Credits 面向全球用户限时发放中... &lt;a target=&quot;_blank&quot; href=&quot;https://100t.xiaomimimo.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://100t.xiaomimimo.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;创造者百万亿 Token 激励计划&lt;br /&gt;Xiaomi MiMo 将面向全球 AI 用户进行免费 Token 发放，我们将在 30 天内发放总计 100 万亿（ 100T ） Token 权益，赠完即止。&lt;br /&gt;活动时间：北京时间 2026 年 4 月 28 日 00:00 至 5 月 28 日 00:00&lt;br /&gt;参与地址：&lt;a target=&quot;_blank&quot; href=&quot;http://100t.xiaomimimo.com&quot; rel=&quot;nofollow noopener&quot;&gt;100t.xiaomimimo.com&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>兄弟们平常都用什么浏览器？</title>
-      <link>https://www.v2ex.com/t/1209014</link>
-      <guid>v2ex-1209014</guid>
-      <pubDate>Tue, 28 Apr 2026 01:44:40 GMT</pubDate>
-      <description>Chrome 这几天突然变得好卡，不知道咋回事</description>
-    </item>
-    <item>
-      <title>找工作找了两个多月越找越烦</title>
-      <link>https://www.v2ex.com/t/1209005</link>
-      <guid>v2ex-1209005</guid>
-      <pubDate>Tue, 28 Apr 2026 01:35:18 GMT</pubDate>
-      <description>&lt;h3&gt;现状&lt;/h3&gt;
-&lt;p&gt;坐标深圳，3 年多的嵌入式软件开发工作经验，年前 1 月底被动离职（部门解散了，算是好聚好散吧），然后投了下简历面了 2 家试试水（因为很久没面试了），没后续就回老家一直呆到春节后又开始投。其实那段时间还不算很认真找，2 月底回深后才算，期间也参加了几家面试，线上线下都有。一直到现在 boss 累计沟通 1000+、投出 200+，线上线下面试累计 20+吧，但 offer 依旧为 0 。期间也不断改过简历，复习八股（但天杀的嵌入式太广了，总能问到想不起来的）。有几家面了感觉还行，后面依旧没后续，自己追问结果都是不合适。有一家大公司两面下来都不错，结果不知道为啥依旧不行（不知道是不是最后一面问我加班介不介意，我说研发加班正常的说了很多反而给面试官有种抵触加班的印象？）。
-找工作这段时间也感觉出来嵌入式越来越卷了，一个岗位可以上百人沟通过，大部分都要求要有 rtos 经验或者垂直经验。我都开始质疑自己是不是得转行不做开发了，毕竟这三年貌似下班后都没怎么主动学习了，都是靠工作上的积累，但工作上大部分时候也是做产品业务功能。&lt;/p&gt;
-&lt;h3&gt;打算&lt;/h3&gt;
-&lt;p&gt;目前想的是再找一个月看看，找不到就退房回老家边待边找了。boss 深圳的岗位刷得没几个了，准备看看珠海那边，但很多岗位一听到我是异地的都不是特别热情。5 月社保不打算交了只交医保（其实 4 月早就想停了，但是忘了自动扣费这回事）。发这帖也想问问有经验的大伙，现在这样安排行不行或者有没有其他建议，在此感谢大家了。&lt;/p&gt;
+      <title>能一起给本地部署的开源模型做个适配的 coding agent 吗？我憋了口气</title>
+      <link>https://www.v2ex.com/t/1209195</link>
+      <guid>v2ex-1209195</guid>
+      <pubDate>Tue, 28 Apr 2026 13:24:51 GMT</pubDate>
+      <description>&lt;h1&gt;我做了一个专门为本地开源模型优化的 Coding Agent ，希望更多华人开发者一起来搞&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本贴发布的目的不是推产品，不是炫技，而是想扬眉吐气——和华人开发者一起，和开源模型本地部署开发者一起，做一件我们自己的事。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h2&gt;一、我遇到了什么问题&lt;/h2&gt;
+&lt;p&gt;去年开始用本地模型做编程辅助。原因很简单：公司代码不能传到海外服务器，Claude Code 和 Cursor 走不通。&lt;/p&gt;
+&lt;p&gt;但更大的问题是：&lt;strong&gt;中国开发者根本没有一个好用的本地 coding agent 平台。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CC 需要翻墙，还要订阅。Cursor 同样。Codex 刚出来也是海外服务。Hermes 这类开源工具不支持 Windows 原生运行，要装 WSL2 ，劝退了大多数国内开发者。最后大家的选择是：要么翻墙凑合用，要么忍着不用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这是一个真实存在的空缺，没有人填。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本地跑 qwen3:8b ，然后发现问题一个接一个：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🔴 无限循环，像卡带一样&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这是本地小模型最让人抓狂的问题。遇到它不会处理的场景，它不会说&quot;我不知道&quot;，而是开始重复——同一句话说三遍，同一个错误的修改建议循环出现，同一段代码反复生成。整个任务卡死，只能手动强制退出。这不是偶发现象，是小模型在推理能力不足时的典型崩溃模式。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🔴 修 bug 反复踩同一个坑&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;让它修一个函数，第一次失败，第二次用完全一样的方式再试，第三次依然。三次机会全浪费在同一个错误上，什么都没推进。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🔴 模型能力本身就弱于 API 模型&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这是无法回避的现实。8B 、14B 的参数量，推理能力和 Claude Opus 、GPT-4 差距明显。让一个 8B 模型扛下一个复杂任务的全部推理，成功率很低，这不是哪个工具的问题，是模型本身的边界。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🔴 找不到要改的文件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;项目大了之后，模型根本不知道要改哪个文件。让它找 bug ，它要么猜错，要么说&quot;我需要看更多代码&quot;，然后把整个项目塞进 context ，然后 context 又爆了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🔴 对话几轮就开始遗忘&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8B 模型 context 窗口只有 8K ，对话多了就满了，模型开始给出驴唇不对马嘴的回答。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;这些问题叠在一起，用本地模型做开发辅助的体验极差。&lt;/p&gt;
+&lt;p&gt;所以我想自己做一个产品来跑。有人就会说：为什么不直接用 ollama + cc ？还友情指导我命令。&lt;/p&gt;
+&lt;p&gt;哎。&lt;/p&gt;
+&lt;p&gt;大厂的产品只会为它的商业模式服务。ollama 放弃了参数微调来换取稳定，lm 让开发者纠结什么是最优，CC/Codex/Cursor 都是卖 token ，&lt;strong&gt;没有人会真的认真想本地部署缺什么，需要优化什么，记忆怎么优化，上下文怎么压缩，小参数怎么辅助。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但我人微言轻，所以我做了个 MVP 想抛砖引玉。我们可以一起把要优化的都优化了，打造我们自己的产品。&lt;/p&gt;
+&lt;p&gt;有人也说，我能力不够。&lt;/p&gt;
+&lt;p&gt;那我的思路是：&lt;strong&gt;不够就做整合，够了就做突破。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;所以我做了 KWCode ，不是为了商业化，MIT 任何人都能拿走，只希望哪个感兴趣的大神，愿意和我或者和所有开发者一起把它实现并开源，给所有被本地部署膈应的宝子们。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;二、我用了哪些思路&lt;/h2&gt;
+&lt;h3&gt;思路一：MoE 架构——让 LLM 只做它擅长的那一步&lt;/h3&gt;
+&lt;p&gt;这是 KWCode 最核心的设计决策，也是解决上面所有问题的根本思路。&lt;/p&gt;
+&lt;p&gt;传统 coding agent 的架构是：&lt;strong&gt;一个 LLM 扛全部&lt;/strong&gt;——理解需求、定位代码、生成修改、验证结果，全让同一个模型做。强模型能扛，小模型扛不住，然后就开始循环、幻觉、乱说。&lt;/p&gt;
+&lt;p&gt;KWCode 用的是 &lt;strong&gt;MoE （ Mixture of Experts ）架构&lt;/strong&gt;：把任务切碎，每个专家只做一件事，LLM 只负责 Gate 分类和内容生成，其他步骤能不调 LLM 就不调。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;用户输入
+  └─► Gate （ LLM 做一次分类，判断任务类型）
+        └─► Locator （ BM25 + 调用图，不调 LLM ，毫秒级定位文件和函数）
+              └─► Generator （ LLM 只写需要修改的那几行代码）
+                    └─► Verifier （自动跑语法检查 + pytest ，不调 LLM ）
+                          └─► SearchAugmentor （两次失败后自动搜索）
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;LLM 在这条流水线里的任务被压到了最小：Gate 做一次分类，Generator 生成几行代码。定位文件、验证结果这两件最耗推理能力的事，完全不让 LLM 做。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;参考：Agentless 论文（ ICSE 2025 ）——确定性流水线在 SWE-bench 上同时达到最高通过率和最低成本，优于让 LLM 自主决策的复杂 agent 。原因很简单：每一步 scope 极小，小模型在小 scope 里表现稳定。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h3&gt;思路二：用调用图定位代码，不靠 LLM 猜&lt;/h3&gt;
+&lt;p&gt;代码定位是小模型最容易失败的步骤，把它从 LLM 手里拿走，换成确定性算法。&lt;/p&gt;
+&lt;p&gt;CodeCompass （ arXiv:2602.20048 ，2026 年）做了 258 次实验，发现了一个关键结论：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;真实项目里，很多 bug 的根因文件名和错误描述毫无关联，只能通过调用链追踪才能找到。对这类&quot;隐藏依赖&quot;任务，BM25 关键词搜索准确率只有 **76.2%**，而图遍历达到 **99.4%**，差了 23 个百分点。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;KWCode 的两阶段检索：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;BM25 关键词召回&lt;/strong&gt;（毫秒级，不调 LLM ）：从代码库所有函数/类中，快速召回 top-20 候选&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AST 调用图展开&lt;/strong&gt;（毫秒级，不调 LLM ）：对每个候选函数，沿调用图向上向下各展开 2 跳，发现隐藏依赖&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;整个过程不调 LLM ，SQLite 持久化调用图，重启不重建。&lt;/p&gt;
+&lt;p&gt;技术栈：&lt;code&gt;tree-sitter&lt;/code&gt; + &lt;code&gt;rank-bm25&lt;/code&gt; + &lt;code&gt;SQLite&lt;/code&gt;。不需要 Neo4j ，不需要 embedding 模型，不需要额外 Docker 。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;思路三：打破循环——失败时强制换策略&lt;/h3&gt;
+&lt;p&gt;针对&quot;反复踩同一个坑&quot;和&quot;无限循环&quot;这两个问题：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;反无限循环&lt;/strong&gt;：MAX_RETRIES 硬编码为 3 ，没有任何路径能绕过。同时检测连续两次生成完全相同的 patch ，直接跳过不重试，告诉用户&quot;模型卡住了，建议缩小任务范围&quot;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;反重复失败&lt;/strong&gt;：三次重试强制用三种不同的问题表述：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;第几次&lt;/th&gt;
+&lt;th&gt;策略&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;第一次&lt;/td&gt;
+&lt;td&gt;正常描述需求&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;第二次&lt;/td&gt;
+&lt;td&gt;从错误信息出发：&quot;直接修复这个报错，不要解释&quot;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;第三次&lt;/td&gt;
+&lt;td&gt;最小化修改：&quot;只改这一个函数，其他代码一行不动&quot;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;第一次失败后先做 &lt;strong&gt;Reflection&lt;/strong&gt;：让 LLM 一句话分析上次失败的原因，然后把这个分析注入下次的 prompt 。不是让模型自由发挥，是强制它先诊断再修。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;思路四：专家飞轮，越用越懂你的项目&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;参考：EE-MCP （ NeurIPS 2025 ）——从任务执行轨迹自动提取经验，验证可显著提升后续同类任务成功率。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;KWCode 预置了 15 个专家（ BugFix 、TestGen 、SpringBoot 、FastAPI 等），每个专家有独立的 system prompt 。&lt;/p&gt;
+&lt;p&gt;同类任务成功 5 次之后，飞轮自动分析轨迹，生成新专家，经过&lt;strong&gt;三道验证门&lt;/strong&gt;后投产：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;回测门&lt;/strong&gt;：新专家成功率必须 ≥ 原流水线&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AB 测试门&lt;/strong&gt;：10 次真实对比，提升超过 10% 才投产&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生命周期&lt;/strong&gt;：new → mature → declining → archived ，自动淘汰变差的专家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;专家可以导出成 &lt;code&gt;.kwx&lt;/code&gt; 文件，&lt;code&gt;kwcode expert install URL&lt;/code&gt; 一行安装别人分享的专家。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;思路五：模型能力自适应&lt;/h3&gt;
+&lt;p&gt;CC 不需要考虑这个，因为它只用一个模型。KWCode 需要。&lt;/p&gt;
+&lt;p&gt;自动检测当前模型的参数量，然后应用不同策略：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;模型规模&lt;/th&gt;
+&lt;th&gt;自动策略&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;lt; 10B （ qwen3:8b ）&lt;/td&gt;
+&lt;td&gt;强制计划确认 · 任务范围限 2 个文件 · 第 1 次失败触发搜索&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10-30B （ qwen3:14b ）&lt;/td&gt;
+&lt;td&gt;可选计划 · 4 个文件范围 · 第 2 次失败触发搜索&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;gt; 30B （ qwen3:72b ）&lt;/td&gt;
+&lt;td&gt;宽松策略 · 8 个文件 · 自动处理复杂任务&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;切换模型，策略自动切换。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;三、现在做了什么&lt;/h2&gt;
+&lt;p&gt;核心功能跑通了。&lt;strong&gt;282/282 单元测试通过，E2E 验收通过率 87%（ 26/30 ，4 个失败是模型能力边界，不是框架问题）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;代码能力&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BM25 + AST 调用图两阶段定位，G3 隐藏依赖准确率 99.4%（论文验证）&lt;/li&gt;
+&lt;li&gt;三阶段重试 + Reflection ，不重复同样的错&lt;/li&gt;
+&lt;li&gt;专家飞轮三道门（轨迹 → 模式 → AB 测试 → 投产）&lt;/li&gt;
+&lt;li&gt;15 个预置专家（通用 + SpringBoot / MyBatis / FastAPI / UniApp 等）&lt;/li&gt;
+&lt;li&gt;Office 文档生成（ Excel / PPT / Word ，有样式不是白底）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;工程能力&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://KWCODE.md&quot; rel=&quot;nofollow&quot;&gt;KWCODE.md&lt;/a&gt; 项目规则文件，按任务类型分段注入，永远不忘&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/plan&lt;/code&gt; 计划模式 + 风险评估（ High/Medium/Low ，基于历史失败记录）&lt;/li&gt;
+&lt;li&gt;Checkpoint 文件快照，失败一键还原&lt;/li&gt;
+&lt;li&gt;非代码文件读取（ PDF / Word / Markdown ，BM25 段落匹配注入）&lt;/li&gt;
+&lt;li&gt;搜索增强（ SearXNG 自部署 + DDG fallback ，四级内容提取）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;体验&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows cmd/PowerShell 原生支持，不需要 WSL2&lt;/li&gt;
+&lt;li&gt;首次引导（ API 配置 + 连通性验证）&lt;/li&gt;
+&lt;li&gt;执行过程只显示 spinner ，完成后输出用户可读的结果摘要&lt;/li&gt;
+&lt;li&gt;支持任何 OpenAI 兼容 API （本地 Ollama / DeepSeek / 硅基流动等）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;四、还差什么&lt;/h2&gt;
+&lt;p&gt;说实话，有些地方还挺粗糙的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AST 调用图目前只完整支持 Python ，其他语言调用图准确率还没有充分验证&lt;/li&gt;
+&lt;li&gt;专家飞轮的 Gate 2 回测逻辑偏简单，还不够严格&lt;/li&gt;
+&lt;li&gt;Windows 上的各种边界情况（ AMD 显卡、部分 Ollama 版本兼容性、中文路径）没有充分测试&lt;/li&gt;
+&lt;li&gt;钉钉/飞书 webhook 没做，手机发消息触发 agent 这个场景设计了但没实现&lt;/li&gt;
+&lt;li&gt;没有 IDE 插件，目前只有 CLI&lt;/li&gt;
+&lt;li&gt;Prompt Optimizer （用 Opus API 自动迭代优化专家 prompt ）只做了框架，没有跑起来&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;五、为什么想让更多人一起做&lt;/h2&gt;
+&lt;p&gt;我一个人做这个工具有明显的上限，不是技术上的上限，是视野上的上限。&lt;/p&gt;
+&lt;p&gt;我自己主要用 Python 和 FastAPI ，所以这方面想得细。但我不知道每天写 Spring Boot 的人最痛的点在哪，不知道搞 Rust 的人在本地模型上遇到什么问题，不知道做小程序的人需要什么。&lt;/p&gt;
+&lt;p&gt;更重要的是，&lt;strong&gt;这件事不应该只是一个人的工具，应该是中国开发者社区的工具。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CC 是 Anthropic 的，Cursor 是美国公司的，Hermes 是外国社区做的。我们用的工具，我们的使用习惯、技术栈偏好、本地化需求，从来都是别人顺手加进去的功能，不是第一优先级。&lt;/p&gt;
+&lt;p&gt;我想做的是反过来——&lt;strong&gt;把中国开发者的需求放在第一位，把本地开源模型的适配放在第一位，然后把这个工具做到能和大厂产品掰手腕。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这件事一个人做不到，但开源社区可以。&lt;/p&gt;
+&lt;p&gt;Linux 打败了 Unix ，不是因为某一个天才，而是全球开发者共同维护了几十年。VSCode 能超过那么多商业 IDE ，也是因为背后有庞大的插件和贡献生态。&lt;/p&gt;
+&lt;p&gt;KWCode 不需要你有多高的水平，只需要你在用本地模型做开发，然后把你遇到的问题、你的解法、你的改进贡献进来。&lt;strong&gt;多一个人，就多一个使用场景被照顾到，多一个坑被填掉。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fork 这个项目，改进你最痛的那个点，提 PR ，我们互相借力，一起把它做好。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;闭源大厂有钱有人有算力，我们有什么？我们有真实的使用场景，有对本地部署的真实需求，有不依赖海外服务的动力。&lt;strong&gt;这已经足够了。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;六、怎么参与&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;项目地址&lt;/strong&gt;：&lt;a href=&quot;https://github.com/val1813/kwcode&quot; rel=&quot;nofollow&quot;&gt;github.com/val1813/kwcode&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;# Fork 项目，克隆到本地
+git clone https://github.com/your-fork/kwcode.git
+cd kwcode
+
+# 安装开发版
+pip install -e &quot;.[dev]&quot;
+
+# 运行测试确认环境正常
+python -m pytest kaiwu/tests/ -v
+
+# 找一个你最想改的地方，开始动手
+git checkout -b fix/your-improvement
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;改什么都可以：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你每天用 Go 写代码，觉得 Go 的 AST 调用图支持不够好，就去改它&lt;/li&gt;
+&lt;li&gt;你在用 Qwen3 发现某个场景总是触发无限循环，就去修它&lt;/li&gt;
+&lt;li&gt;你有更好的 context 压缩算法，就替换掉现有的&lt;/li&gt;
+&lt;li&gt;你发现 README 写错了，改一个字也算&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Issues&lt;/strong&gt; 里列了已知问题和规划中的功能，可以从那里找方向。&lt;strong&gt;Discussions&lt;/strong&gt; 里可以聊技术思路，聊某个方向值不值得做。&lt;/p&gt;
+&lt;p&gt;没有什么贡献太小。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;七、最后说一句&lt;/h2&gt;
+&lt;p&gt;我不知道 KWCode 能不能真的超越 CC 或者 Hermes 。&lt;/p&gt;
+&lt;p&gt;但我知道，如果中国开发者一直用别人做的工具，一直把自己的需求当作&quot;次要功能&quot;等别人来实现，这件事永远不会有答案。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;有些东西，只有自己做才知道能不能做到。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;项目是 MIT 开源的，你贡献的代码永远是你的。如果 KWCode 最后做成了，这件事是所有参与的人一起做成的。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;项目地址&lt;/strong&gt;：&lt;a href=&quot;https://github.com/val1813/kwcode&quot; rel=&quot;nofollow&quot;&gt;github.com/val1813/kwcode&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;天工开物 · KWCode · 中国开发者自己的本地 Coding Agent&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>本科毕业又能读大专了，全国多地鼓励进大专院校进修，你怎么看？</title>
-      <link>https://www.v2ex.com/t/1208997</link>
-      <guid>v2ex-1208997</guid>
-      <pubDate>Tue, 28 Apr 2026 01:17:01 GMT</pubDate>
-      <description>&lt;p&gt;本科毕业读大专，回炉重造。&lt;/p&gt;
+      <title>我开始使用呼吸机睡觉了</title>
+      <link>https://www.v2ex.com/t/1209141</link>
+      <guid>v2ex-1209141</guid>
+      <pubDate>Tue, 28 Apr 2026 08:22:25 GMT</pubDate>
+      <description>&lt;p&gt;之前我妻子跟我说其实她睡眠越来越差，每晚都能听到我打呼，有的时候还有那种吸不上来气的感觉，我一下子就连联想到我的父亲和祖父，小时候和他们一起睡，就算其他房间也能听到打呼，而且经常有吸不上来气然后就像启动拖拉机似的要猛吸几口并伴随着让人心悸的声音。&lt;/p&gt;
+&lt;p&gt;没想到我也这样了。我和妻子也是坐下来聊了聊，其实这里有个第三者，gemini ，简单聊过就是要去看医生。但是苦于我在东京，日语也不好，家附近搜了几家诊所，感觉都不行。日本这边的就医体验和医生关系很大，很多医生看你不懂日语，压根不多说，就说大丈夫开始赶人。当时也没当回事，就这么放着了。&lt;/p&gt;
+&lt;p&gt;后面我自己发现，虽然我每天睡了一觉，但是早上起来依然感觉身心俱疲，这个状态持续很久了。而且打呼大概率是肥胖引起的，以前上大学的时候我 120 斤，现在已经快 150 斤了，我的妻子也说我之前是不打呼的。我不抽烟不喝酒，除了肥胖也没有其他可能了，所以开始超慢跑并且跟着一些视频教程来改善打呼的情况。&lt;/p&gt;
+&lt;p&gt;打呼这玩意，按我妻子的说法，就像是有自己的意识，她经常被我吵得起来捏住我的嘴，但是我的呼声会停止一会儿，然后又开始打，然后她在做同样的动作就没有用了。我锻炼完，第一晚信心满满，妻子也告诉我，那个晚上她睡得挺好的，但是第二晚就打回原形了。从这里开始，我逐渐焦虑，渐渐地晚上入睡也困难了。可能是我以为的入睡困难，但是妻子总是跟我说你都在打呼了，这些话我小时候不理解，我的祖父总会起来说“我没有睡着呀”，结果现在发生在我身上，但是我确实处于一个我认为的清醒状态，我感觉我并没有睡着，还能控制身体，但是确实听不见打呼的声音，仅有几次能有那种呼不上气然后发出巨大声音的感觉。&lt;/p&gt;
+&lt;p&gt;接下来是一次 1on1 和主管聊到这个事，他极力推荐我去做 sleep study ，我当时还在想这是啥，人挺好的主管还给我解释了美国做这个都是什么流程。当天我就通过 Gemini 找了一些说英语的诊所，在港区那边有一家评分很高的耳鼻喉科诊所，医生耶鲁毕业，随后我预约了并且去了。&lt;/p&gt;
+&lt;p&gt;不得不说，医生态度很好，老医生，给我做了解释并且检查了我的喉咙。顺便帮我看了我很久以来的耳朵痒的问题。日本这边 sleep study 是诊所给你寄一台机器，然后看情况戴一个或者两个晚上，再把机器寄回去。第一个晚上我就失眠了，很久才睡，毕竟鼻子上戴一个东西，手指再上个夹子，很难说舒服对吧。&lt;/p&gt;
+&lt;p&gt;过了三周我去复诊，得到化验的结果是耳朵是真菌感染不是中耳炎，当时通过他开的药就已经不痒了。睡眠的问题直接给我下了判书，我每个小时会呼吸暂停 41 次，而正常值是 5 次以下，最长的暂停时间快到 2 分钟，情况属于非常严重，介入手段就是带呼吸机。之前主管也跟我说，呼吸机 CPAP machine 其实不能治疗打呼，但是可以让自己的生活改善，每天起床至少恢复精力然后再去做其他的事。所以我也算是欣然接受并抱着期待。&lt;/p&gt;
+&lt;p&gt;日本医保会报销呼吸机的月租费用，我直接不需要花什么钱。但是我似乎选错了面罩，我目前选的是一个覆盖嘴巴的，这个东西链接的管子就很多，把自己的脑袋环绕了一圈，这半个月以来，我从来没能戴着它睡着。我目前放弃了，等着下次复诊和医生沟通换一个鼻塞式的。主管也是很关心我的这个情况，告诉我美国那边医生其实会教你如何使用。我第一晚压根儿没有戴对，面罩漏气的声音巨大无比。国内我看了基本上护士也会教，而且还会配合加湿器，我这个租的并没有配加湿器。&lt;/p&gt;
+&lt;p&gt;不过这件事也算是让我下定决心减肥了（虽然感觉这个决心下了很多次了），最近也是成功减了 1 公斤（ XD ），不知道是我先适应呼吸机还是我先通过减肥根治打呼。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>现在一个初三男生一千米跑 3 分 45 秒就能拿到 95 分了？</title>
-      <link>https://www.v2ex.com/t/1208988</link>
-      <guid>v2ex-1208988</guid>
-      <pubDate>Tue, 28 Apr 2026 00:34:32 GMT</pubDate>
-      <description>出处来自教育部关于印发《国家学生体质健康标准（ 2014 年修订）》的通知（已确认就是最新版）的附件第 19 页表 1-15  男生耐力跑单项评分表（单位：分·秒）&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/GKJAInx.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/GKJAInx.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;为什么我对此印象这么深刻呢？因为我记得清清楚楚，2003 年 1 月我上初三那天上午天气特别冷，跑一千米。那时的评分标准是 3 分 45 秒刚好 80 分。结果我跑了 3 分 46 秒，被老师骂得狗血喷头。&lt;br /&gt;&lt;br /&gt;二十年过去了，营养越来越好，孩子们身高也越来越高，怎么体育打分标准还下降了 16% ？&lt;br /&gt;&lt;br /&gt;现在我在网上查不到相当于 2003 年的打分标准，如有能查到的 V 友可以分享一下</description>
+      <title>领到小米 100T 计划来集合了，我领到了个 MAX 套餐相当于 659 一月🐶</title>
+      <link>https://www.v2ex.com/t/1209234</link>
+      <guid>v2ex-1209234</guid>
+      <pubDate>Wed, 29 Apr 2026 00:35:29 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/wTahDkD.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>公司买 api 一般是官 key 还是中转？</title>
+      <link>https://www.v2ex.com/t/1209118</link>
+      <guid>v2ex-1209118</guid>
+      <pubDate>Tue, 28 Apr 2026 07:22:41 GMT</pubDate>
+      <description>老板体验了 claude 后拍板要把 claude 嵌入全公司工作流，让我去解决采购渠道问题，要求数据不得经过非正规公司传送，大概意思估计是买大厂 vps 自建 api 代理可以，但不能买贩子的中转站。但是先不说走什么代理的问题，国内几乎都找不到官 key 的货源啊，都是 5 刀 20 刀这种个人用的，总不能让老板去小黄鱼买吧。&lt;br /&gt;&lt;br /&gt;问了几家能做对公的，都是中转，拍胸脯保证他们客户都是大厂，绝对稳定高质量，但那个价格感觉就像假的。&lt;br /&gt;&lt;br /&gt;老板要求 3 天内必须给结果，老板不懂电脑，跟他没法解释</description>
+    </item>
+    <item>
+      <title>你们会孤独吗？</title>
+      <link>https://www.v2ex.com/t/1209105</link>
+      <guid>v2ex-1209105</guid>
+      <pubDate>Tue, 28 Apr 2026 06:41:05 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;想想毕业已经十年了，最近时常有一些感慨。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我是 E 人，喜欢社交，也喜欢跟熟悉的老朋友聊天，但是在自己的某个时刻，想找一个人聊一聊天，却发现没有人。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对待老朋友，我们无法再次同频，哪怕我们都有时间，也只是聊一些无关痛痒的话题。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我们不在了解彼此的生活近况，无法在细微之处展开更深入和同频的话题。其实我通常能接受这一点，毕竟我们已经分别，我们不在年少，我们都有了新的圈子，在彼此不属于对方的圈子里生活。每次见面，都意味着我们人生中见面的次数正在减少，或许这就是成长带来的代价。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对于新朋友，我不知道自己是不是老了，现在我对于社交，通常情况下，我比以前更克制，更礼貌，新的朋友也只是朋友，没有了太多的情感交流，我们或许聊聊工作，或许聊聊摄影，或者谈谈彼此的生活，但也只是流于表面，在我的内心中，我依然很难相信新认识的任何一个人，尽管我们可以谈笑风生。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;好像现在能够了解我的生活，还能够让我信任的只有我的老婆，但是有家的人都知道，不是所有的话都可以和老婆说。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;这让我时常感受到孤独，深深的孤独。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我成长了，我已经了解了关系的本质是交换，但是依然回味那种曾经经历过但已经无法找回的纯粹关系。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;或者这就是成长，&lt;strong&gt;也意味着分别。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Flico 突然倒闭了，时代的眼泪</title>
+      <link>https://www.v2ex.com/t/1209238</link>
+      <guid>v2ex-1209238</guid>
+      <pubDate>Wed, 29 Apr 2026 00:48:05 GMT</pubDate>
+      <description>&lt;p&gt;市场太卷，各种轴体客制，flico 已经被卷的有的新同事都没听说过🤣&lt;/p&gt;
+&lt;p&gt;等手里的圣手挂了准备换个磁轴试试（不知道要到哪年）&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>大家最近有什么取悦自己的东西分享吗？</title>
+      <link>https://www.v2ex.com/t/1209218</link>
+      <guid>v2ex-1209218</guid>
+      <pubDate>Tue, 28 Apr 2026 16:40:22 GMT</pubDate>
+      <description>最近大 A 赚了一点点钱，想买点东西快乐一下，但想不到有什么特别想要的，手机、电脑没有要换的需求，游戏平时也没什么时间玩。&lt;br /&gt;好像很久没有大学时候那种很想要又舍不得买某件东西的感觉了</description>
+    </item>
+    <item>
+      <title>五一去平潭</title>
+      <link>https://www.v2ex.com/t/1209068</link>
+      <guid>v2ex-1209068</guid>
+      <pubDate>Tue, 28 Apr 2026 04:15:42 GMT</pubDate>
+      <description>&lt;p&gt;有没有什么需要注意的。顺便求一份攻略，然后问了民宿的老板，电动车已经 170 一天了。。。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
