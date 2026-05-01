@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 01 May 2026 05:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 08:00:20 GMT</lastBuildDate>
     <item>
       <title>从 2026 年后开始，就没手写过代码了，全部 ai 写，我也知道我的职业要完了</title>
       <link>https://www.v2ex.com/t/1209740</link>
@@ -17,81 +17,18 @@
 </description>
     </item>
     <item>
-      <title>HyperAPI 订阅套餐上线，注册送 5$，评论留邮箱，发 10$兑换码</title>
-      <link>https://www.v2ex.com/t/1209647</link>
-      <guid>v2ex-1209647</guid>
-      <pubDate>Thu, 30 Apr 2026 06:12:28 GMT</pubDate>
-      <description>&lt;h1&gt;HyperAPI 订阅套餐&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;订阅套餐现已上线。进入控制台后，点击 &lt;strong&gt;钱包管理&lt;/strong&gt; 即可开始订阅。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;套餐一览&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;套餐&lt;/th&gt;
-&lt;th&gt;适用场景&lt;/th&gt;
-&lt;th&gt;价格&lt;/th&gt;
-&lt;th&gt;有效期&lt;/th&gt;
-&lt;th&gt;总额度&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;月卡套餐&lt;/td&gt;
-&lt;td&gt;覆盖常规研发工作量&lt;/td&gt;
-&lt;td&gt;39.90 元&lt;/td&gt;
-&lt;td&gt;1 个月&lt;/td&gt;
-&lt;td&gt;$480.00&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;周卡套餐&lt;/td&gt;
-&lt;td&gt;适合短周期项目&lt;/td&gt;
-&lt;td&gt;9.90 元&lt;/td&gt;
-&lt;td&gt;7 天&lt;/td&gt;
-&lt;td&gt;$120.00&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;日卡套餐&lt;/td&gt;
-&lt;td&gt;灵活应对突发需求&lt;/td&gt;
-&lt;td&gt;1.90 元&lt;/td&gt;
-&lt;td&gt;1 天&lt;/td&gt;
-&lt;td&gt;$20.00&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;如何订阅&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;登录 &lt;a href=&quot;https://hyperapi.cc&quot; rel=&quot;nofollow&quot;&gt;https://hyperapi.cc&lt;/a&gt; 控制台。&lt;/li&gt;
-&lt;li&gt;进入 &lt;strong&gt;钱包管理&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;选择合适的订阅套餐并完成订阅。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;推荐选择&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;常规研发使用&lt;/strong&gt;：建议选择月卡套餐，额度更充足。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;短期项目&lt;/strong&gt;：建议选择周卡套餐。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;临时突发需求&lt;/strong&gt;：建议选择日卡套餐，灵活轻量。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <title>很多人把 Claude 读成 cloud</title>
+      <link>https://www.v2ex.com/t/1209761</link>
+      <guid>v2ex-1209761</guid>
+      <pubDate>Thu, 30 Apr 2026 14:27:35 GMT</pubDate>
+      <description>这两个词的读音还是有区别的，但是我看到很多的自媒体大部分都是 cloud 的读音</description>
     </item>
     <item>
-      <title>五一前的最后一个下午了，还有多少人在认真工作</title>
-      <link>https://www.v2ex.com/t/1209672</link>
-      <guid>v2ex-1209672</guid>
-      <pubDate>Thu, 30 Apr 2026 07:25:58 GMT</pubDate>
-      <description>&lt;p&gt;顺便说说大家五一都去哪里玩，有没有在家 Vibe coding 的&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>你们在用什么数据库管理软件？</title>
-      <link>https://www.v2ex.com/t/1209676</link>
-      <guid>v2ex-1209676</guid>
-      <pubDate>Thu, 30 Apr 2026 07:52:54 GMT</pubDate>
-      <description>&lt;p&gt;Windows&lt;/p&gt;
-&lt;p&gt;需要的功能除了正常的 crud ，编辑表的时候能显示 alter 语句，最好支持数据迁移
-体验上来说不卡就行，能支持简单的自定义 ui&lt;/p&gt;
-&lt;p&gt;navicat 总是很卡，而且老是黑屏
-dbeaver 也卡，而且 ui 也不如 navicat 简洁
-Beekeeper 功能有点羸弱了，换字体都不行&lt;/p&gt;
-</description>
+      <title>顺风车已经变味了</title>
+      <link>https://www.v2ex.com/t/1209795</link>
+      <guid>v2ex-1209795</guid>
+      <pubDate>Fri, 01 May 2026 00:22:39 GMT</pubDate>
+      <description>今天忙，想给家人约个顺风车（私享）回老家。&lt;br /&gt;&lt;br /&gt;结果顺风车全被滴滴型司机占据了，还有私信加要感谢费，还有提出价格翻倍的（因为节假日？）还有防止被别的正常车主接单，接单立马取消的，之前的沟通全部作废。</description>
     </item>
     <item>
       <title>Anthropic 真是绝了，刚收完钱就把我踢了</title>
@@ -110,18 +47,23 @@ Beekeeper 功能有点羸弱了，换字体都不行&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>国家超算平台也出 coding plan 了</title>
-      <link>https://www.v2ex.com/t/1209689</link>
-      <guid>v2ex-1209689</guid>
-      <pubDate>Thu, 30 Apr 2026 08:30:45 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/VJQFQyf.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/VJQFQyf.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>很多人把 Claude 读成 cloud</title>
-      <link>https://www.v2ex.com/t/1209761</link>
-      <guid>v2ex-1209761</guid>
-      <pubDate>Thu, 30 Apr 2026 14:27:35 GMT</pubDate>
-      <description>这两个词的读音还是有区别的，但是我看到很多的自媒体大部分都是 cloud 的读音</description>
+      <title>iOS 无法收到 TG 的通知</title>
+      <link>https://www.v2ex.com/t/1209797</link>
+      <guid>v2ex-1209797</guid>
+      <pubDate>Fri, 01 May 2026 00:36:38 GMT</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;苹果🍎用户注意：Telegram 消息推送服务疑似出现异常，部分用户可能遇到消息通知不显示、推送延迟或无法及时收到提醒的问题，建议临时打开应用内查看消息，避免遗漏重要信息&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;已经测试了，确实收不到 TG 的推送了，&lt;/p&gt;
+&lt;p&gt;加入代理列表，依旧无法收到 TG 消息，目前国内应用推送正常&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;DOMAIN-SUFFIX,push.apple.com,PROXY
+IP-CIDR,17.0.0.0/8,PROXY,no-resolve
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;TG 为 DC4/5
+美区账号
+肉身国内&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>请问 v2 各位 100w 的小目标是炒股炒的还是打工打的啊</title>
@@ -129,6 +71,33 @@ Beekeeper 功能有点羸弱了，换字体都不行&lt;/p&gt;
       <guid>v2ex-1209680</guid>
       <pubDate>Thu, 30 Apr 2026 08:01:40 GMT</pubDate>
       <description>如题，感觉光打工攒到 100w 不知道得多久，大家的 100w 都是打工攒的吗</description>
+    </item>
+    <item>
+      <title>国家超算平台也出 coding plan 了</title>
+      <link>https://www.v2ex.com/t/1209689</link>
+      <guid>v2ex-1209689</guid>
+      <pubDate>Thu, 30 Apr 2026 08:30:45 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/VJQFQyf.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/VJQFQyf.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>领到小米 MIMO 的额度了，大家领了多少？</title>
+      <link>https://www.v2ex.com/t/1209799</link>
+      <guid>v2ex-1209799</guid>
+      <pubDate>Fri, 01 May 2026 01:11:49 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/aGwLOne.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/aGwLOne.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;真“大方”&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/0NkFuFp.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/0NkFuFp.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>家在小县城的农村，老婆在省会的郊区，如果把我的户口迁过来是不是违背祖宗了？</title>
+      <link>https://www.v2ex.com/t/1209774</link>
+      <guid>v2ex-1209774</guid>
+      <pubDate>Thu, 30 Apr 2026 15:45:39 GMT</pubDate>
+      <description>&lt;p&gt;我家是一个小农村，基本上没啥发展的那种，房子在乡里边，有几亩田地，基本上没啥征收的可能&lt;/p&gt;
+&lt;p&gt;媳妇儿家是在省会的郊区，周边不少地方都征收了，传了挺久要征收了，估计后续征收的可能性确实也比较大&lt;/p&gt;
+&lt;p&gt;后面小孩为了教育问题，小孩肯定是想落省会的户口了，可能落到老妈那边去？不然的话怎么操作？&lt;/p&gt;
+&lt;p&gt;又考虑是不是一般娃娃户口都跟爹走？不知道家里会不会有意见？我情况还比较特殊，父亲不在了，独生子，还没开口跟家里提过，也不知道该找谁聊聊&lt;/p&gt;
+&lt;p&gt;进一步的，我那户口是不是也可以迁出来？迁到老婆这边是不是违背祖宗了，一般印象会认为与入赘一样么？像我这种单亲，如果我迁出来了，百年后母上大人也不在了，房子和土地怎么办？收归集体了？&lt;/p&gt;
+&lt;p&gt;V 友们有没有想法的，可否交流一下，哪怕想法不妥，就骂上两句也行&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
