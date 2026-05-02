@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 02 May 2026 18:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 19:30:58 GMT</lastBuildDate>
     <item>
       <title>决定开始定投标普 500 和纳指 100 了！</title>
       <link>https://www.v2ex.com/t/1209961</link>
@@ -63,25 +63,11 @@
 </description>
     </item>
     <item>
-      <title>[送兑换码] 做了个本地 4K 视频播放器 QuietBox，想请大家帮忙体验下</title>
-      <link>https://www.v2ex.com/t/1209921</link>
-      <guid>v2ex-1209921</guid>
-      <pubDate>Fri, 01 May 2026 18:04:31 GMT</pubDate>
-      <description>大家好，最近把自己一直在做的一个 iOS 播放器 App 打磨到一个相对稳定的阶段了，想来 V2EX 发个帖，求一波真实反馈。&lt;br /&gt;&lt;br /&gt;App 叫 QuietBox ，主要是给 iPhone / iPad 用的本地视频播放器。最开始做它的原因其实挺简单：我自己平时会在手机和 iPad 上看不少本地视频、网盘视频和局域网媒体，但一直没找到一个在“本地播放、文件管理、媒体服务器、投屏、画质体验”之间比较均衡的播放器，所以干脆自己做了。&lt;br /&gt;&lt;br /&gt;现在 QuietBox 已经比较完整的能力大概有这些：&lt;br /&gt;&lt;br /&gt;本地视频播放，支持常见视频格式&lt;br /&gt;4K / 高码率视频播放优化&lt;br /&gt;两套播放内核可选：原生内核 / 高阶内核&lt;br /&gt;媒体服务器接入：适合挂在 NAS 或远程媒体库场景&lt;br /&gt;IPTV 支持&lt;br /&gt;DLNA / Chromecast 投屏&lt;br /&gt;字幕、音轨、倍速、后台播放等基础播放器能力&lt;br /&gt;iPhone / iPad 适配和偏本地文件管理的使用体验&lt;br /&gt;这段时间我也在持续打磨几个方向：&lt;br /&gt;&lt;br /&gt;高阶内核播放体验&lt;br /&gt;大文件 / 高码率视频的稳定性&lt;br /&gt;设置页和会员权益逻辑&lt;br /&gt;首次启动和播放器响应速度&lt;br /&gt;App Store 上架和审核相关问题&lt;br /&gt;目前 App Store 已经可以下载，想邀请感兴趣的朋友帮忙试试，尤其欢迎这几类反馈：&lt;br /&gt;&lt;br /&gt;播放兼容性问题&lt;br /&gt;高码率 / 4K / HDR 视频表现&lt;br /&gt;字幕、投屏、媒体服务器相关体验&lt;br /&gt;UI/交互哪里不顺手&lt;br /&gt;你最希望播放器补什么能力&lt;br /&gt;为了感谢帮忙体验，我这边准备了一些 内购优惠码 / 兑换码，会优先发给认真反馈的朋友。&lt;br /&gt;如果你愿意体验，可以直接在帖子里回复一下你的使用场景，或者指出你最关心哪个功能，我来私信发码。&lt;br /&gt;&lt;br /&gt;App 信息：&lt;br /&gt;&lt;br /&gt;名称：QuietBox&lt;br /&gt;平台：iPhone / iPad&lt;br /&gt;方向：本地视频播放 / 媒体服务器 / IPTV / 投屏&lt;br /&gt;&lt;br /&gt;应用商店地址： &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/cn/app/quietbox-%E9%AB%98%E6%B8%854k%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id6756213219&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/cn/app/quietbox-%E9%AB%98%E6%B8%854k%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id6756213219&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;也欢迎直接拍砖，真实意见比客气更有帮助。谢谢大家。</description>
-    </item>
-    <item>
       <title>AI 时代， Java 中短期的地位不降反增</title>
       <link>https://www.v2ex.com/t/1209937</link>
       <guid>v2ex-1209937</guid>
       <pubDate>Sat, 02 May 2026 02:37:01 GMT</pubDate>
       <description>AI 的兴起在 Java 面前只能算是一个稚童。&lt;br /&gt;一些人借 AI 炒热度造铲子，搞得像新兴的邪修门派功法，并借此开宗立派喊口号，一度造成了几十年的名门正派中的内外门弟子都感觉马上要被颠覆的错觉。&lt;br /&gt;但在真正的 AGI 到来前，AI 不会颠覆现在的传统编程语言，只会融入到传统编程语言中，这种新兴的理念会被名门正派所吸收。&lt;br /&gt;Java 在企业级场景下占据主导地位。现实世界的逻辑是大量 Java 基建项目与 AI 结合，在原有的商业闭环中迭代与进步，这也是 Java 8 这些年屹立不动的原因——而不是幻想着用 AI 加上一门轻量快速的编程语言，就能随时造出商业铲子、一人 OPC 改变命运。&lt;br /&gt;商业的本质是闭环。AI 是放大器，放大个人和已有的商业闭环的效率，而不是因为新时代造楼效率有突破，就跟随喊高口号的人流，把原有的大楼推翻，再建一个自认为创新的小屋等着别人住进来。</description>
-    </item>
-    <item>
-      <title>2026 年 5 月，最新的穷鬼 AI 套餐有哪些？</title>
-      <link>https://www.v2ex.com/t/1209933</link>
-      <guid>v2ex-1209933</guid>
-      <pubDate>Sat, 02 May 2026 01:46:37 GMT</pubDate>
-      <description>月租 50 人民币以内，之前有 codex plus ， 现在已经没法开通了。&lt;br /&gt;还有没有其他的平替呢？天才程序员已经陨落了两天了。</description>
     </item>
     <item>
       <title>有人在推特展示深圳高中的情况...</title>
@@ -94,11 +80,26 @@
 </description>
     </item>
     <item>
+      <title>2026 年 5 月，最新的穷鬼 AI 套餐有哪些？</title>
+      <link>https://www.v2ex.com/t/1209933</link>
+      <guid>v2ex-1209933</guid>
+      <pubDate>Sat, 02 May 2026 01:46:37 GMT</pubDate>
+      <description>月租 50 人民币以内，之前有 codex plus ， 现在已经没法开通了。&lt;br /&gt;还有没有其他的平替呢？天才程序员已经陨落了两天了。</description>
+    </item>
+    <item>
       <title>glm-5.1, kimi-k2.6 在 code arena React 项目上排名 5 和 6，是不是真的好用？</title>
       <link>https://www.v2ex.com/t/1209926</link>
       <guid>v2ex-1209926</guid>
       <pubDate>Fri, 01 May 2026 23:38:05 GMT</pubDate>
       <description>&lt;a target=&quot;_blank&quot; href=&quot;/i/7ksTRf68.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 7ksTRf68.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/7ksTRf68.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;真的假的？</description>
+    </item>
+    <item>
+      <title>5.5 codex 模型是不是更耗流量了......</title>
+      <link>https://www.v2ex.com/t/1209935</link>
+      <guid>v2ex-1209935</guid>
+      <pubDate>Sat, 02 May 2026 01:50:08 GMT</pubDate>
+      <description>&lt;p&gt;我感覺燒的比 5.4 更快，但是我的提升不是很明顯，你們感覺呢。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
