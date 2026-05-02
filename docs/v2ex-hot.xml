@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 02 May 2026 12:44:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 14:04:27 GMT</lastBuildDate>
     <item>
       <title>Codex 登录需要验证手机号了</title>
       <link>https://www.v2ex.com/t/1209905</link>
@@ -22,11 +22,21 @@
 </description>
     </item>
     <item>
-      <title>chatgpt 代充这是常规操作 还是我被坑了</title>
-      <link>https://www.v2ex.com/t/1209887</link>
-      <guid>v2ex-1209887</guid>
-      <pubDate>Fri, 01 May 2026 12:49:20 GMT</pubDate>
-      <description>在 &lt;a target=&quot;_blank&quot; href=&quot;https://www.naifeistation.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.naifeistation.com/&lt;/a&gt; （星际放映厅） 充值的 三个月的 chatgpt pro 账号代充&lt;br /&gt;价格是 2600+&lt;br /&gt;只用了一个星期就停了&lt;br /&gt;客服说他们是一个月一个月的充值，只是今天官方风控的原因， 这是常规操作还是我被坑了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/fQaBZkj.jpg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/fQaBZkj.jpg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/dkGYZWY.jpg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/dkGYZWY.jpg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/nCI35IQ.jpg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/nCI35IQ.jpg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/JGFGlHr.jpg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/JGFGlHr.jpg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/OED8DfG.jpg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/OED8DfG.jpg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+      <title>安卓的权限管理是假的，拒绝了仍然可以获取</title>
+      <link>https://www.v2ex.com/t/1210002</link>
+      <guid>v2ex-1210002</guid>
+      <pubDate>Sat, 02 May 2026 11:11:43 GMT</pubDate>
+      <description>&lt;p&gt;123 云盘 app ，在拒绝了获取访问剪贴板之后，仍然可以读取。
+起因是在酷安找到一个 app 旧版本的链接，是 123 云盘的，于是就复制了链接去浏览器下载，但是现在不能直接下载，需要用账号密码登录，不记得密码，于是就去 123 云盘 app 去设置密码。
+然后发现 app 直接弹窗提醒刚才复制的链接。
+于是之后进行更完整的测试：重新下载 app ，启动之前就拒绝权限，然后把手机上唯一一个可以写入和读取的输入法 app 也给拒绝。
+再次测试之后，仍然可以读取复制的链接。
+在手机权限记录中，可以看到 123 云盘读取剪贴板-已允许，点击进去之后，发现仍然是拒绝的。
+系统版本是小米澎湃 os3 。
+反观 iOS ，iOS 默认不显示从未申请过的权限，于是我创建了快捷指令，在 app 第一次申请剪贴板时，一键跳转到系统设置对应的 app 中选择永久拒绝。&lt;/p&gt;
+&lt;p&gt;再次补充一点：国产安卓中还有拒绝访问应用列表的权限,如果拒绝了该权限，那么像酷安，taptap 这些软件就不知道手机上有什么 app 了。
+但是，有一个例外，那就是腾讯的应用宝 app ，无论你怎么拒绝，它始终知道手机上安装的 app 。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>ChatGPT Pro 低价兑换 最后的绝唱了 全网唯一 ku0.com 抽奖送一个 Pro 5x</title>
@@ -49,41 +59,6 @@
 </description>
     </item>
     <item>
-      <title>安卓的权限管理是假的，拒绝了仍然可以获取</title>
-      <link>https://www.v2ex.com/t/1210002</link>
-      <guid>v2ex-1210002</guid>
-      <pubDate>Sat, 02 May 2026 11:11:43 GMT</pubDate>
-      <description>&lt;p&gt;123 云盘 app ，在拒绝了获取访问剪贴板之后，仍然可以读取。
-起因是在酷安找到一个 app 旧版本的链接，是 123 云盘的，于是就复制了链接去浏览器下载，但是现在不能直接下载，需要用账号密码登录，不记得密码，于是就去 123 云盘 app 去设置密码。
-然后发现 app 直接弹窗提醒刚才复制的链接。
-于是之后进行更完整的测试：重新下载 app ，启动之前就拒绝权限，然后把手机上唯一一个可以写入和读取的输入法 app 也给拒绝。
-再次测试之后，仍然可以读取复制的链接。
-在手机权限记录中，可以看到 123 云盘读取剪贴板-已允许，点击进去之后，发现仍然是拒绝的。
-系统版本是小米澎湃 os3 。
-反观 iOS ，iOS 默认不显示从未申请过的权限，于是我创建了快捷指令，在 app 第一次申请剪贴板时，一键跳转到系统设置对应的 app 中选择永久拒绝。&lt;/p&gt;
-&lt;p&gt;再次补充一点：国产安卓中还有拒绝访问应用列表的权限,如果拒绝了该权限，那么像酷安，taptap 这些软件就不知道手机上有什么 app 了。
-但是，有一个例外，那就是腾讯的应用宝 app ，无论你怎么拒绝，它始终知道手机上安装的 app 。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>异地组网方案怎么选？从 n2n 到 WireGuard，折腾一圈后的真实记录</title>
-      <link>https://www.v2ex.com/t/1209892</link>
-      <guid>v2ex-1209892</guid>
-      <pubDate>Fri, 01 May 2026 13:21:35 GMT</pubDate>
-      <description>&lt;p&gt;最近手上管着几台散落在不同地方的机器，为了能让它们像在同一个交换机下那样互访，我决定自己组一个虚拟局域网。&lt;/p&gt;
-&lt;p&gt;起初我用的是老牌工具 &lt;strong&gt;n2n&lt;/strong&gt;，P2P 二层网络，配置极其简单。可惜项目停更了，NAT 后的设备间偶尔会莫名掉线，可靠性还是打了折扣。&lt;/p&gt;
-&lt;p&gt;后来全面转向了现在更火的 &lt;strong&gt;WireGuard&lt;/strong&gt;。虽然它默认是三层网络、不带 NAT 穿透，但生态是真的好，配置成星形网络也很简洁。帖子重点记录了我在两个特殊环境下的踩坑经验：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;红米 AX3000 刷 OpenWrt&lt;/strong&gt;：内核模块缺失，最后靠 &lt;code&gt;wireguard-go&lt;/code&gt; 的用户空间方案救急成功。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;openEuler 22.03 LTS&lt;/strong&gt;：官方源没有包，内核编译时还故意没带模块。我分享了从编译内核源码到成功加载 &lt;code&gt;wireguard.ko&lt;/code&gt; 的全过程，光是编译就花了一整天。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;文章最后也顺便提了 &lt;strong&gt;VNT&lt;/strong&gt; 和 &lt;strong&gt;EasyTier&lt;/strong&gt; 这类新兴 Rust 工具，支持 TCP/WebSocket 且兼容 WireGuard 协议，在特殊网络环境下是个不错的备选。&lt;/p&gt;
-&lt;p&gt;总之，现在用于异地组网的好方案真的比前几年多太多了。如果你也在纠结怎么选，或者遇到了类似编译报错的问题，欢迎来看看全文，一起交流。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mabbs.github.io/2026/05/01/virtual-net.html&quot; rel=&quot;nofollow&quot;&gt;阅读全文&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;👉 你的环境遇到过什么奇怪的坑吗？欢迎回帖聊聊。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>[送兑换码] 做了个本地 4K 视频播放器 QuietBox，想请大家帮忙体验下</title>
       <link>https://www.v2ex.com/t/1209921</link>
       <guid>v2ex-1209921</guid>
@@ -103,6 +78,21 @@
       <guid>v2ex-1209933</guid>
       <pubDate>Sat, 02 May 2026 01:46:37 GMT</pubDate>
       <description>月租 50 人民币以内，之前有 codex plus ， 现在已经没法开通了。&lt;br /&gt;还有没有其他的平替呢？天才程序员已经陨落了两天了。</description>
+    </item>
+    <item>
+      <title>5.5 codex 模型是不是更耗流量了......</title>
+      <link>https://www.v2ex.com/t/1209935</link>
+      <guid>v2ex-1209935</guid>
+      <pubDate>Sat, 02 May 2026 01:50:08 GMT</pubDate>
+      <description>&lt;p&gt;我感覺燒的比 5.4 更快，但是我的提升不是很明顯，你們感覺呢。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>glm-5.1, kimi-k2.6 在 code arena React 项目上排名 5 和 6，是不是真的好用？</title>
+      <link>https://www.v2ex.com/t/1209926</link>
+      <guid>v2ex-1209926</guid>
+      <pubDate>Fri, 01 May 2026 23:38:05 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;/i/7ksTRf68.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 7ksTRf68.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/7ksTRf68.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;真的假的？</description>
     </item>
   </channel>
 </rss>
