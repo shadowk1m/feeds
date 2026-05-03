@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 03 May 2026 17:37:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 18:41:54 GMT</lastBuildDate>
     <item>
       <title>中转福利，每人送 50 刀。GPT-5.5 高质量 Pro 号池（含 GPT-5.5 / GPT-5.4 / GPT-5.3-Codex，速度快）</title>
       <link>https://www.v2ex.com/t/1210060</link>
@@ -37,60 +37,6 @@
       <description>&lt;p&gt;我也不清楚这个问题是否有解，我平时工作实在太忙，技术又更迭得非常快，实在抽不出精力去做功课，所以来请教 V 友们。&lt;/p&gt;
 &lt;p&gt;我目前开的是一辆纯油的领克 01 ，领克对底盘的调教我是很喜欢的，对路况的反馈到位，也不属于那种生硬。最近几年坐过同事的电车，有的型号的底盘实在太软了，晃得我很晕，所以我对新车的要求有两个：一是智驾能进入第一梯队（注：四线城市），二是地盘调教较好。&lt;/p&gt;
 &lt;p&gt;感谢！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>五一假期写代码不想打字？ Mac 语音输入工具 Voilà，送 20 个免费授权</title>
-      <link>https://www.v2ex.com/t/1210036</link>
-      <guid>v2ex-1210036</guid>
-      <pubDate>Sat, 02 May 2026 18:22:00 GMT</pubDate>
-      <description>&lt;h2&gt;Demo&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/G8W7Syj5.gif&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;为什么做这个&lt;/h2&gt;
-&lt;p&gt;去年迷上了 Claude Code ，但每次都要打字描述需求，有点累。市面上的语音输入工具试了一圈：要么贵、要么单语种、要么不支持润色，甚至粘贴到终端还会丢字。&lt;/p&gt;
-&lt;p&gt;6 个月前干脆自己做了一个，专注 macOS 语音输入。界面不花哨，但够实用，有需要可以试试。&lt;/p&gt;
-&lt;p&gt;我的场景比较特殊：人在海外开发，中英法混用，一句话里频繁切换语言。这正好是大多数商业方案的痛点。&lt;/p&gt;
-&lt;p&gt;目前已经完全融入日常工作流，每天触发上百次，用得很顺手。&lt;/p&gt;
-&lt;h2&gt;几个比较用心的点&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;多引擎可选&lt;/strong&gt;：Soniox / ElevenLabs / 火山引擎 / Groq Whisper / Apple Speech ，按需切换&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;实时字幕浮窗&lt;/strong&gt;：说话时能看到识别中的文字流，不用等结果出来才知道说错了&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI 自动润色&lt;/strong&gt;：去口水词、补标点、修口误，置信度高时自动跳过润色省 200ms 延迟&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;终端友好&lt;/strong&gt;：Ghostty / iTerm2 / Kitty 通过 Accessibility API 直接走菜单粘贴，不会被 Cmd+V 事件丢字&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;自定义词汇表&lt;/strong&gt;：人名、专业术语强制替换，不会再把 &quot;Soniox&quot; 识别成 &quot;骚扰客死&quot;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;隐私&lt;/strong&gt;：本地优先，云端 STT 直连官方 API ，不经过我自己的服务器&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;引擎怎么选&lt;/h2&gt;
-&lt;p&gt;如果你跟我一样要写英文代码注释、和海外团队对接、刷英文文档、中英混着说话，&lt;strong&gt;首选 Soniox&lt;/strong&gt;。这五个引擎我都跑了几个月，Soniox 是多语种混合识别最稳的一个：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Soniox&lt;/strong&gt;：中英法日西自动切换，无需指定语种，首字延迟 ~1 秒，海外开发者 / 中英混说场景强推&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;火山引擎&lt;/strong&gt;：纯中文最准，但不支持混合识别，碰到英文单词会音译成汉字&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Groq Whisper&lt;/strong&gt;：英文最强，但是 HTTP 批量识别不是流式，延迟高&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ElevenLabs&lt;/strong&gt;：英文流式好，中文一般&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Apple Speech&lt;/strong&gt;：完全本地，隐私最好，但中英混说会跳错语种&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;试用期 30 天可以把这几个引擎挨个跑一遍，选最顺手的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;仅支持 Apple Silicon （ M1 及以上）+ macOS 14 Sonoma 及以上&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;PS&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;不订阅、不联网激活、License 文件离线验证&lt;/li&gt;
-&lt;li&gt;当然了，还有隐藏授权，比如说你想专门体验的老哥也可以信箱私,主要交个朋友.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;20 个免费早鸟授权，先到先得&lt;/strong&gt;，结账时输入折扣码 &lt;em&gt;VOILAV2EX&lt;/em&gt;，价格直接归零&lt;/li&gt;
-&lt;li&gt;官网： &lt;a href=&quot;https://voilapro.app&quot; rel=&quot;nofollow&quot;&gt;https://voilapro.app&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;技术栈感兴趣的也欢迎聊：Swift + SwiftUI 、AVAudioEngine 抓音频、WebSocket 流式 STT 、Ed25519 离线 License 验签。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>我妈逼迫我 23 年深圳买房，导致 3 年房子降价 100 万</title>
-      <link>https://www.v2ex.com/t/1210034</link>
-      <guid>v2ex-1210034</guid>
-      <pubDate>Sat, 02 May 2026 17:55:54 GMT</pubDate>
-      <description>&lt;p&gt;我的成长背景：
-我是男的。我家有爷爷奶奶，爸爸和妈妈，我弟（比我小 13 岁），叔叔，姥姥，大舅，小舅。
-我从小就是一个比较内向的人。从小我爸妈就把垃圾情绪发泄给我，导致我一直拉个脸，他们就会怒斥我，为什么老是拉个脸！！！！
-我爸从我小时就来到深圳，跟我大舅做吊车生意，算是给我大舅打工。我妈从我幼儿园到小学 5 年纪，之后就把我丢到我爷爷奶奶家了，她来深圳和我爸住一块了。我从此以后就寒暑假来深圳找我爸妈。
-到了深圳以后，就开始猛教训我，他们不是拉近和我的关系，而是一直让我做家务，一直训斥我，一直教育我，一直打压我说我是个废物。我很不明白，为什么对我态度这么差？好像我学习不好就对他们没用。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -152,6 +98,32 @@
 &lt;p&gt;老 plan 每 5 小时 600 次调用，没有 weekly cap ，新 plan 每五小时 400 次，weekly cap 2000.&lt;/p&gt;
 &lt;p&gt;说是送两个月“同等级”套餐，首先上面的五小时调用就不是“同等级”了。另外我前面猛猛写的时候一天写 12 小时…老套餐理论 cap 是每周 19800 次，就算我按 10 小时的 cap 算，就算一周写 6 天，那是 600 * 2 * 6 = 7200 。严重怀疑 G 开头的某司是按每天干五小时活，一周干五天的量设计产品的。算了算 400 * 5 = 2000 ，正好。&lt;/p&gt;
 &lt;p&gt;3 月的时候信誓旦旦说恢复老用户续订老套餐权力，这一个多月就改了。A\ 不做人，你也不做人？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>谷歌广告一个月带来 7.58 美元的收入</title>
+      <link>https://www.v2ex.com/t/1210051</link>
+      <guid>v2ex-1210051</guid>
+      <pubDate>Sun, 03 May 2026 01:23:29 GMT</pubDate>
+      <description>&lt;p&gt;3 月底正式通过了 Google Adsense 的审核，4 月份一个月带来的广告收入是 7.58 美元，千次展示收入是 1.02 美元。总体表现还算符合预期，接下来就是要继续优化 SEO 了，争取能够月入 30 美元。
+站点： &lt;a href=&quot;http://uwarp.design/&quot; rel=&quot;nofollow&quot;&gt;http://uwarp.design/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;希望有经验的大佬可以留言指点，看看如果提升&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/VX2ZqEWc.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/Fun3qQex.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/205W5UIe.jpeg&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>就在刚刚，听到了初中时喜欢的人即将结婚的消息。</title>
+      <link>https://www.v2ex.com/t/1210131</link>
+      <guid>v2ex-1210131</guid>
+      <pubDate>Sun, 03 May 2026 13:02:51 GMT</pubDate>
+      <description>&lt;p&gt;五一假期到处人都很多，懒得出去玩，在家打 LOL 。刚刚结束一把刺激的无限火力，朋友给我发了一条消息。&lt;/p&gt;
+&lt;p&gt;“X 结婚了”。&lt;/p&gt;
+&lt;p&gt;我脑中瞬间想到了某人的名字，因为朋友和 X 是同一条街道的，他得知 X 的消息很正常。 甚至五年前朋友的家里人还尝试让他两相亲过，朋友拒绝了。 （见 &lt;a href=&quot;/t/807189&quot; rel=&quot;nofollow&quot;&gt;/t/807189&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;朋友告诉了我她举办婚礼的地址，我犹豫了一下，在一瞬间甚至萌生了想去看看她结婚时样子的想法，但又很快掐灭了。&lt;/p&gt;
+&lt;p&gt;我对现在的她并谈不上什么喜欢，只是怀念当年的自己和她，而现实中和她早已失联，未来也必然不会来往，何必再去打扰她，徒增尴尬。&lt;/p&gt;
+&lt;p&gt;回老家也得花不少路费，就这样吧，再来开一把海克斯大乱斗吧。&lt;/p&gt;
 </description>
     </item>
   </channel>
