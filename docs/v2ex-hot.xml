@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 03 May 2026 11:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 12:01:42 GMT</lastBuildDate>
     <item>
       <title>中转福利，每人送 50 刀。GPT-5.5 高质量 Pro 号池（含 GPT-5.5 / GPT-5.4 / GPT-5.3-Codex，速度快）</title>
       <link>https://www.v2ex.com/t/1210060</link>
@@ -35,38 +35,11 @@
       <description>夫妻两一直在广州租房过的，现在因为买房的事情吵架，原因是因为房东要赶我们走了，51 看好了房子，我当时说不要着急回去考虑一天，老婆非要下定，结果因为某些原因（我也上头了）真下定了，结果第二天我感觉买完房给完首付后，月供压力很大，剩余现金如果我失业了只能支撑 2 年（老家已有一套房，打算卖但是估计不好出，还有车贷没还完，另有一娃在读幼儿园中班），现在吵到要离婚，买也不是不买也不是，大家说说，真能买吗。</description>
     </item>
     <item>
-      <title>安卓的权限管理是假的，拒绝了仍然可以获取</title>
-      <link>https://www.v2ex.com/t/1210002</link>
-      <guid>v2ex-1210002</guid>
-      <pubDate>Sat, 02 May 2026 11:11:43 GMT</pubDate>
-      <description>&lt;p&gt;123 云盘 app ，在拒绝了获取访问剪贴板之后，仍然可以读取。
-起因是在酷安找到一个 app 旧版本的链接，是 123 云盘的，于是就复制了链接去浏览器下载，但是现在不能直接下载，需要用账号密码登录，不记得密码，于是就去 123 云盘 app 去设置密码。
-然后发现 app 直接弹窗提醒刚才复制的链接。
-于是之后进行更完整的测试：重新下载 app ，启动之前就拒绝权限，然后把手机上唯一一个可以写入和读取的输入法 app 也给拒绝。
-再次测试之后，仍然可以读取复制的链接。
-在手机权限记录中，可以看到 123 云盘读取剪贴板-已允许，点击进去之后，发现仍然是拒绝的。
-系统版本是小米澎湃 os3 。
-反观 iOS ，iOS 默认不显示从未申请过的权限，于是我创建了快捷指令，在 app 第一次申请剪贴板时，一键跳转到系统设置对应的 app 中选择永久拒绝。&lt;/p&gt;
-&lt;p&gt;再次补充一点：国产安卓中还有拒绝访问应用列表的权限,如果拒绝了该权限，那么像酷安，taptap 这些软件就不知道手机上有什么 app 了。
-但是，有一个例外，那就是腾讯的应用宝 app ，无论你怎么拒绝，它始终知道手机上安装的 app 。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>接龙了，兄弟们， dnshe 域名可永久了</title>
       <link>https://www.v2ex.com/t/1210050</link>
       <guid>v2ex-1210050</guid>
       <pubDate>Sun, 03 May 2026 01:20:44 GMT</pubDate>
       <description>新注册是十年到期，到期后可手动免费续期&lt;br /&gt;&lt;br /&gt;现在有活动，按如下操作，可变成永久域名&lt;br /&gt;&lt;br /&gt;抓紧！！！&lt;br /&gt;&lt;br /&gt;每个域名互助 5 次可永久使用 &lt;br /&gt;&lt;br /&gt;今年注册的可以互相互助一下 &lt;br /&gt;&lt;br /&gt;先选择您的域名-功能中心-域名永久升级-创建助力任务&lt;br /&gt;&lt;br /&gt;达到 5 次好友助力后将自动升级为永久有效。 &lt;br /&gt;&lt;br /&gt;每位用户最多可为好友助力 10 次。&lt;br /&gt;&lt;br /&gt;我的助力码&lt;br /&gt;&lt;br /&gt;助力码：BWPGA2Y3YC&lt;br /&gt;助力码：KJGH9HJ3NP&lt;br /&gt;&lt;br /&gt;助力码：T65TZRMN32&lt;br /&gt;助力码：6VQSDPPR4L&lt;br /&gt;助力码：QV5Y6F4TJR&lt;br /&gt;&lt;br /&gt;助力码：VTKVXBTLR4&lt;br /&gt;助力码：MQ5NU6CRAJ&lt;br /&gt;助力码：6Y2QWZG6AQ&lt;br /&gt;&lt;br /&gt;抓紧！！！</description>
-    </item>
-    <item>
-      <title>有人在推特展示深圳高中的情况...</title>
-      <link>https://www.v2ex.com/t/1210004</link>
-      <guid>v2ex-1210004</guid>
-      <pubDate>Sat, 02 May 2026 11:22:25 GMT</pubDate>
-      <description>&lt;p&gt;老外很疑惑，为什么他们晚上还要上学&lt;/p&gt;
-&lt;p&gt;😰😰😰😰😰&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/ed_dems/status/2050423204036911109&quot; rel=&quot;nofollow&quot;&gt;https://x.com/ed_dems/status/2050423204036911109&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>我妈逼迫我 23 年深圳买房，导致 3 年房子降价 100 万</title>
@@ -96,6 +69,55 @@
       <guid>v2ex-1210021</guid>
       <pubDate>Sat, 02 May 2026 14:30:17 GMT</pubDate>
       <description>打算通过 ddns 搞一个出租页面, 可以在平时不用的时候把算力出租出去回点血, 请问这个方案可行吗?</description>
+    </item>
+    <item>
+      <title>五一假期写代码不想打字？ Mac 语音输入工具 Voilà，送 20 个免费授权</title>
+      <link>https://www.v2ex.com/t/1210036</link>
+      <guid>v2ex-1210036</guid>
+      <pubDate>Sat, 02 May 2026 18:22:00 GMT</pubDate>
+      <description>&lt;h2&gt;Demo&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/G8W7Syj5.gif&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;为什么做这个&lt;/h2&gt;
+&lt;p&gt;去年迷上了 Claude Code ，但每次都要打字描述需求，有点累。市面上的语音输入工具试了一圈：要么贵、要么单语种、要么不支持润色，甚至粘贴到终端还会丢字。&lt;/p&gt;
+&lt;p&gt;6 个月前干脆自己做了一个，专注 macOS 语音输入。界面不花哨，但够实用，有需要可以试试。&lt;/p&gt;
+&lt;p&gt;我的场景比较特殊：人在海外开发，中英法混用，一句话里频繁切换语言。这正好是大多数商业方案的痛点。&lt;/p&gt;
+&lt;p&gt;目前已经完全融入日常工作流，每天触发上百次，用得很顺手。&lt;/p&gt;
+&lt;h2&gt;几个比较用心的点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;多引擎可选&lt;/strong&gt;：Soniox / ElevenLabs / 火山引擎 / Groq Whisper / Apple Speech ，按需切换&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实时字幕浮窗&lt;/strong&gt;：说话时能看到识别中的文字流，不用等结果出来才知道说错了&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI 自动润色&lt;/strong&gt;：去口水词、补标点、修口误，置信度高时自动跳过润色省 200ms 延迟&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;终端友好&lt;/strong&gt;：Ghostty / iTerm2 / Kitty 通过 Accessibility API 直接走菜单粘贴，不会被 Cmd+V 事件丢字&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自定义词汇表&lt;/strong&gt;：人名、专业术语强制替换，不会再把 &quot;Soniox&quot; 识别成 &quot;骚扰客死&quot;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;隐私&lt;/strong&gt;：本地优先，云端 STT 直连官方 API ，不经过我自己的服务器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;引擎怎么选&lt;/h2&gt;
+&lt;p&gt;如果你跟我一样要写英文代码注释、和海外团队对接、刷英文文档、中英混着说话，&lt;strong&gt;首选 Soniox&lt;/strong&gt;。这五个引擎我都跑了几个月，Soniox 是多语种混合识别最稳的一个：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Soniox&lt;/strong&gt;：中英法日西自动切换，无需指定语种，首字延迟 ~1 秒，海外开发者 / 中英混说场景强推&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;火山引擎&lt;/strong&gt;：纯中文最准，但不支持混合识别，碰到英文单词会音译成汉字&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Groq Whisper&lt;/strong&gt;：英文最强，但是 HTTP 批量识别不是流式，延迟高&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ElevenLabs&lt;/strong&gt;：英文流式好，中文一般&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apple Speech&lt;/strong&gt;：完全本地，隐私最好，但中英混说会跳错语种&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;试用期 30 天可以把这几个引擎挨个跑一遍，选最顺手的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;仅支持 Apple Silicon （ M1 及以上）+ macOS 14 Sonoma 及以上&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;PS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;不订阅、不联网激活、License 文件离线验证&lt;/li&gt;
+&lt;li&gt;当然了，还有隐藏授权，比如说你想专门体验的老哥也可以信箱私,主要交个朋友.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;20 个免费早鸟授权，先到先得&lt;/strong&gt;，结账时输入折扣码 &lt;em&gt;VOILAV2EX&lt;/em&gt;，价格直接归零&lt;/li&gt;
+&lt;li&gt;官网： &lt;a href=&quot;https://voilapro.app&quot; rel=&quot;nofollow&quot;&gt;https://voilapro.app&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;技术栈感兴趣的也欢迎聊：Swift + SwiftUI 、AVAudioEngine 抓音频、WebSocket 流式 STT 、Ed25519 离线 License 验签。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Mac mini 配显示器，上 5K 还是高刷更重要？</title>
+      <link>https://www.v2ex.com/t/1210057</link>
+      <guid>v2ex-1210057</guid>
+      <pubDate>Sun, 03 May 2026 02:54:59 GMT</pubDate>
+      <description>Mac mini 配显示器，上 5K 还是高刷更重要？</description>
     </item>
   </channel>
 </rss>
