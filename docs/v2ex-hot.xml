@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 03 May 2026 13:51:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 14:40:06 GMT</lastBuildDate>
     <item>
       <title>中转福利，每人送 50 刀。GPT-5.5 高质量 Pro 号池（含 GPT-5.5 / GPT-5.4 / GPT-5.3-Codex，速度快）</title>
       <link>https://www.v2ex.com/t/1210060</link>
@@ -52,13 +52,6 @@
 </description>
     </item>
     <item>
-      <title>买了一台 256G 显存, 96G 内存电脑放家里, 如何对外出租出售剩余算力?</title>
-      <link>https://www.v2ex.com/t/1210021</link>
-      <guid>v2ex-1210021</guid>
-      <pubDate>Sat, 02 May 2026 14:30:17 GMT</pubDate>
-      <description>打算通过 ddns 搞一个出租页面, 可以在平时不用的时候把算力出租出去回点血, 请问这个方案可行吗?</description>
-    </item>
-    <item>
       <title>五一假期写代码不想打字？ Mac 语音输入工具 Voilà，送 20 个免费授权</title>
       <link>https://www.v2ex.com/t/1210036</link>
       <guid>v2ex-1210036</guid>
@@ -98,6 +91,38 @@
 &lt;li&gt;官网： &lt;a href=&quot;https://voilapro.app&quot; rel=&quot;nofollow&quot;&gt;https://voilapro.app&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;技术栈感兴趣的也欢迎聊：Swift + SwiftUI 、AVAudioEngine 抓音频、WebSocket 流式 STT 、Ed25519 离线 License 验签。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>求助个人订阅 gpt pro 最安全的方法</title>
+      <link>https://www.v2ex.com/t/1210117</link>
+      <guid>v2ex-1210117</guid>
+      <pubDate>Sun, 03 May 2026 10:08:19 GMT</pubDate>
+      <description>&lt;h1&gt;求一个稳定、安全的官方订阅方案&lt;/h1&gt;
+&lt;p&gt;目前项目组向公司申请了每月约 200 美元的费用，想寻求一个稳定、安全的官方订阅方法。&lt;/p&gt;
+&lt;p&gt;不考虑土区、菲律宾区等汇率优惠方案，因为费用可以全额报销，安全和稳定是第一优先级。&lt;/p&gt;
+&lt;p&gt;目前综合论坛各位大佬的发表的看法,经验,心得以及潜水学习，初步方案如下：&lt;/p&gt;
+&lt;h2&gt;初步方案&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;使用香港个人手机卡注册一个新的 Apple 美区账号，或其他合适地区账号，并绑定香港汇丰个人借记卡。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在 AWS 亚马逊云上开通一台新加坡 VPS ，用作全局代理。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;苹果手机连接新加坡 VPS 的代理后，通过 Apple 订阅 GPT Pro 月付服务，并使用香港汇丰银行卡付款。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在新加坡 VPS 上安装 &lt;code&gt;new-api&lt;/code&gt;、&lt;code&gt;xxxapi&lt;/code&gt; 等 API 分发服务。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;国内项目组通过新加坡 VPS 分发的 API ，提供给团队成员使用。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;需求说明&lt;/h2&gt;
+&lt;p&gt;请各位大佬帮忙看看这个方案是否可行，或者是否有更稳妥的建议。
+另外公司在越南有分公司。,是否可以考虑在越南分公司找一台办公电脑，保持 24 小时开机，用作代理节点？相比使用新加坡 VPS ，这种方式是否会更安全、更稳定？&lt;/p&gt;
 </description>
     </item>
     <item>
