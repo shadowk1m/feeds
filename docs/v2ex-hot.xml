@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 04 May 2026 13:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 15:26:56 GMT</lastBuildDate>
     <item>
       <title>城巴佬——城市中产在消费劳动表演</title>
       <link>https://www.v2ex.com/t/1210190</link>
@@ -70,29 +70,6 @@
 </description>
     </item>
     <item>
-      <title>各位大佬，调查一下你们都用哪些运营商？每月所有话费多钱一个月？</title>
-      <link>https://www.v2ex.com/t/1210156</link>
-      <guid>v2ex-1210156</guid>
-      <pubDate>Sun, 03 May 2026 23:10:01 GMT</pubDate>
-      <description>&lt;p&gt;你用的哪家运营商？每月多少话费？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>微信输入法这么扯淡都没有切换输入法的选项的吗？</title>
-      <link>https://www.v2ex.com/t/1210181</link>
-      <guid>v2ex-1210181</guid>
-      <pubDate>Mon, 04 May 2026 05:43:10 GMT</pubDate>
-      <description>我不懂具体这个东西有没有什么规范和标准，但是我印象中，你一个输入法，肯定要有切换到别的输入法的选项或者按钮对吧。比如 Google 的 Gboard ，那个地球图标，长按就能切换到比如微信输入法、讯飞、搜狗之类的。&lt;br /&gt;&lt;br /&gt;但是微信输入法（ Android ）居然连这个选项和按钮都没有，我首先是在键盘上找，没找到，工具栏上找，没找到，然后进输入法 app 选项，也没有找到。太操蛋了。&lt;br /&gt;&lt;br /&gt;要切换只能去系统设置那里切换。这不相当于就是“我不给你切，你激活了我的输入法，就一直用我家的”。&lt;br /&gt;&lt;br /&gt;我下了个豆包输入法，以为不这样，结果一样，也是找不到切换的入口。&lt;br /&gt;&lt;br /&gt;我以前用过讯飞，讯飞是在二级菜单，也就是在输入法界面点开一个工具栏，里面有切换的选项，这都能勉强接受。&lt;br /&gt;&lt;br /&gt;iOS 好像没这个问题，我在 iOS 也用微信输入法，iOS 不管什么输入法，那个地球图标都在，强制有的，好像是属于 app 之外的固定 UI 。&lt;br /&gt;&lt;br /&gt;为什么我要切输入法呢，因为我在查单词，然后微信输入法查着查着，就不能固定英文输入，重新查词又变成中文九宫格，我就觉得很奇怪，我换成 GBoard 就不会这样，我在有道里面，怎么点来点去，刚才是英文 keyboard ，现在就还是。</description>
-    </item>
-    <item>
-      <title>因为炒币合约亏太多了，用 ai 做了一个裸 K 实盘训练的网页，不用登陆欢迎大家来玩</title>
-      <link>https://www.v2ex.com/t/1210177</link>
-      <guid>v2ex-1210177</guid>
-      <pubDate>Mon, 04 May 2026 04:55:15 GMT</pubDate>
-      <description>&lt;p&gt;灵感来源是在抖音刷到有博主用这种训练软件来教学裸 K 盘感和一些指标技巧，自己也跟着弄了一个；用的 nextjs 做的小训练平台，地址： &lt;a href=&quot;https://trade-me.vercel.app/training&quot; rel=&quot;nofollow&quot;&gt;https://trade-me.vercel.app/training&lt;/a&gt; ；支持限价市价止盈止损，内置排行榜功能=。=&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>正确使用 claude 的姿势是什么？怎么能降低 Token 消耗</title>
       <link>https://www.v2ex.com/t/1210195</link>
       <guid>v2ex-1210195</guid>
@@ -108,24 +85,73 @@
 </description>
     </item>
     <item>
-      <title>想问下 chatpgt(codex) 通过美区 apple id + 闲鱼购买礼品卡是否有风险</title>
-      <link>https://www.v2ex.com/t/1210149</link>
-      <guid>v2ex-1210149</guid>
-      <pubDate>Sun, 03 May 2026 16:20:11 GMT</pubDate>
-      <description>&lt;p&gt;如题，使用 &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;使用美国区 apple id&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;咸鱼购买礼品卡&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;在 ios 进行订阅&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;这样操作是否会有封号或者其他风险&lt;/p&gt;
+      <title>各位大佬，调查一下你们都用哪些运营商？每月所有话费多钱一个月？</title>
+      <link>https://www.v2ex.com/t/1210156</link>
+      <guid>v2ex-1210156</guid>
+      <pubDate>Sun, 03 May 2026 23:10:01 GMT</pubDate>
+      <description>&lt;p&gt;你用的哪家运营商？每月多少话费？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>吐槽一下外卖不送货上门，怎么就成众矢之的了？</title>
+      <link>https://www.v2ex.com/t/1210229</link>
+      <guid>v2ex-1210229</guid>
+      <pubDate>Mon, 04 May 2026 13:38:01 GMT</pubDate>
+      <description>&lt;p&gt;点了个外卖，我小区是人车分流的，只能走路。 骑手直接说自己是众包，不能骑车进去，所以不给送上门，只能给放小区门口。
+这事我本来就随口吐槽了一下——我既没投诉骑手，也没申请退款，东西也送骑手了。&lt;/p&gt;
+&lt;p&gt;我在一个技术群里就吐槽了下，结果全是骂我的。后来我有在某论坛发了下，结果评论区还是清一色开始骂我，给我整不会了，我现在说服不了自己，我觉得我没问题，兄弟们评论下，如果是我的问题请骂醒我。&lt;/p&gt;
+&lt;p&gt;不知道是不是现在真是说是全民外卖时代，很多人下意识就代入骑手视角：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不爽别点&lt;/li&gt;
+&lt;li&gt;这点钱还想要服务？&lt;/li&gt;
+&lt;li&gt;体谅一下行不行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;甚至还有人直接脑补：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;肯定点的便宜单&lt;/li&gt;
+&lt;li&gt;拼好饭吧&lt;/li&gt;
+&lt;li&gt;是不是出不起配送费&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但实际情况是，我点的是一对一专送。
+不过说实话，这件事从始至终在我看来，都不是点什么的问题。&lt;/p&gt;
+&lt;p&gt;送货上门，本来就是外卖服务的一部分。 用户点外卖，本质就是为了不出门。
+平台写明服务内容，我按规则付费，这就是最基础的交易关系。 你可以说价格低，可以说系统有问题，但只要这个服务还写在规则里，它就不该变成看心情履约。
+不然逻辑就只剩一句话： 钱可以照收，事可以不办。 那这还算什么交易？&lt;/p&gt;
+&lt;p&gt;还有一点我是真的看不懂。
+评论区不少人说，让物业给你送上来。
+这个逻辑我完全无法理解。
+物业不让外卖骑车进，是出于小区管理和业主安全考虑，这是物业的职责，和外卖履约是两件事。 更关键的是，我小区本身就是人车分流的。
+我付的钱是给平台买配送服务的，不是让物业替平台履约。 把这件事甩到物业头上，本身就不成立。&lt;/p&gt;
+&lt;p&gt;还有人说：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;上门本质是压榨底层劳动力&lt;/li&gt;
+&lt;li&gt;可以多沟通、多加钱&lt;/li&gt;
+&lt;li&gt;大家都是被压榨的，应该互相体谅&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;听着挺对，但问题是——逻辑不成立。
+我不是骑手的雇主。 我是按平台规则买服务的用户。
+你接单，价格是明码标价的； 规则，也是平台写清楚的。
+你可以觉得不合理， 但那是你和平台之间的问题。你可以选择不做。
+而不是你选择做了。既想要收钱，还要“不做”。&lt;/p&gt;
+&lt;p&gt;所以我的逻辑对吗？不对就骂我，骂醒我，我真不不知道现在是我风气有问题还是怎么了。&lt;/p&gt;
+&lt;p&gt;原帖子文章截图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;原帖子截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tc.7zz.cn/i/2026/03/25/ab10f8b7a8c76546c40f2fd23be53313.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>因为炒币合约亏太多了，用 ai 做了一个裸 K 实盘训练的网页，不用登陆欢迎大家来玩</title>
+      <link>https://www.v2ex.com/t/1210177</link>
+      <guid>v2ex-1210177</guid>
+      <pubDate>Mon, 04 May 2026 04:55:15 GMT</pubDate>
+      <description>&lt;p&gt;灵感来源是在抖音刷到有博主用这种训练软件来教学裸 K 盘感和一些指标技巧，自己也跟着弄了一个；用的 nextjs 做的小训练平台，地址： &lt;a href=&quot;https://trade-me.vercel.app/training&quot; rel=&quot;nofollow&quot;&gt;https://trade-me.vercel.app/training&lt;/a&gt; ；支持限价市价止盈止损，内置排行榜功能=。=&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>微信输入法这么扯淡都没有切换输入法的选项的吗？</title>
+      <link>https://www.v2ex.com/t/1210181</link>
+      <guid>v2ex-1210181</guid>
+      <pubDate>Mon, 04 May 2026 05:43:10 GMT</pubDate>
+      <description>我不懂具体这个东西有没有什么规范和标准，但是我印象中，你一个输入法，肯定要有切换到别的输入法的选项或者按钮对吧。比如 Google 的 Gboard ，那个地球图标，长按就能切换到比如微信输入法、讯飞、搜狗之类的。&lt;br /&gt;&lt;br /&gt;但是微信输入法（ Android ）居然连这个选项和按钮都没有，我首先是在键盘上找，没找到，工具栏上找，没找到，然后进输入法 app 选项，也没有找到。太操蛋了。&lt;br /&gt;&lt;br /&gt;要切换只能去系统设置那里切换。这不相当于就是“我不给你切，你激活了我的输入法，就一直用我家的”。&lt;br /&gt;&lt;br /&gt;我下了个豆包输入法，以为不这样，结果一样，也是找不到切换的入口。&lt;br /&gt;&lt;br /&gt;我以前用过讯飞，讯飞是在二级菜单，也就是在输入法界面点开一个工具栏，里面有切换的选项，这都能勉强接受。&lt;br /&gt;&lt;br /&gt;iOS 好像没这个问题，我在 iOS 也用微信输入法，iOS 不管什么输入法，那个地球图标都在，强制有的，好像是属于 app 之外的固定 UI 。&lt;br /&gt;&lt;br /&gt;为什么我要切输入法呢，因为我在查单词，然后微信输入法查着查着，就不能固定英文输入，重新查词又变成中文九宫格，我就觉得很奇怪，我换成 GBoard 就不会这样，我在有道里面，怎么点来点去，刚才是英文 keyboard ，现在就还是。</description>
     </item>
   </channel>
 </rss>
