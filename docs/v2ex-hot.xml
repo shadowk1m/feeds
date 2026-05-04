@@ -4,17 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 04 May 2026 04:14:06 GMT</lastBuildDate>
-    <item>
-      <title>苦于开车通勤时间太长，想换一部 20-30w 的第一梯队智驾的车</title>
-      <link>https://www.v2ex.com/t/1210078</link>
-      <guid>v2ex-1210078</guid>
-      <pubDate>Sun, 03 May 2026 05:39:46 GMT</pubDate>
-      <description>&lt;p&gt;我也不清楚这个问题是否有解，我平时工作实在太忙，技术又更迭得非常快，实在抽不出精力去做功课，所以来请教 V 友们。&lt;/p&gt;
-&lt;p&gt;我目前开的是一辆纯油的领克 01 ，领克对底盘的调教我是很喜欢的，对路况的反馈到位，也不属于那种生硬。最近几年坐过同事的电车，有的型号的底盘实在太软了，晃得我很晕，所以我对新车的要求有两个：一是智驾能进入第一梯队（注：四线城市），二是地盘调教较好。&lt;/p&gt;
-&lt;p&gt;感谢！&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Mon, 04 May 2026 07:29:47 GMT</lastBuildDate>
     <item>
       <title>苹果的信号是我误解了吗</title>
       <link>https://www.v2ex.com/t/1210120</link>
@@ -83,13 +73,6 @@
 </description>
     </item>
     <item>
-      <title>在手机上使用 Codex</title>
-      <link>https://www.v2ex.com/t/1210106</link>
-      <guid>v2ex-1210106</guid>
-      <pubDate>Sun, 03 May 2026 09:08:28 GMT</pubDate>
-      <description>通过 ssh 和远程电脑上的 Codex 交互。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://kittylitter.app/&quot; rel=&quot;nofollow noopener&quot;&gt;https://kittylitter.app/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;挺好用的。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/31lkl9Uc.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 31lkl9Uc.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/31lkl9Uc.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>虽然是老生常谈，但还是求教 2026 年笔记软件如何选择</title>
       <link>https://www.v2ex.com/t/1210148</link>
       <guid>v2ex-1210148</guid>
@@ -108,12 +91,11 @@
 </description>
     </item>
     <item>
-      <title>嘚瑟一下，有一个 gmail 账号可以改用户名了</title>
-      <link>https://www.v2ex.com/t/1210089</link>
-      <guid>v2ex-1210089</guid>
-      <pubDate>Sun, 03 May 2026 07:10:15 GMT</pubDate>
-      <description>&lt;p&gt;之前试了一个账号，更新成功了，又尝试了另一个账号，依然可以，但我就是不修改，气不气人！&lt;/p&gt;
-&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.urusai.cc/P8Kdv.png&quot;/&gt;</description>
+      <title>在手机上使用 Codex</title>
+      <link>https://www.v2ex.com/t/1210106</link>
+      <guid>v2ex-1210106</guid>
+      <pubDate>Sun, 03 May 2026 09:08:28 GMT</pubDate>
+      <description>通过 ssh 和远程电脑上的 Codex 交互。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://kittylitter.app/&quot; rel=&quot;nofollow noopener&quot;&gt;https://kittylitter.app/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;挺好用的。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/31lkl9Uc.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 31lkl9Uc.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/31lkl9Uc.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
       <title>怎么充 gpt 会员，还是我被骗了</title>
@@ -137,6 +119,21 @@
 &lt;p&gt;目前测试下来，最近并非所有海外 app 都受限制，我的 PlayStation app 、gemini 等可以正常收到消息，所以猜测是苹果针对部分 app 的 Bundle ID 结合设备终端 *.push.apple.com 请求头中获取到的终端 ip ，来做了黑名单限制。也并非觉得是我们的功夫 w 限制了 apns ，如果说 apns 被 q 那么显然所有的消息推送都会有问题。&lt;/p&gt;
 &lt;p&gt;需要注意的是这个方案不够优雅，但是在 ios 上想不到更好的解决方案了，隧道无法根据 app 选择是否经过，所以当 apns 走海外的话，若节.发生故障，所有的消息（包括国内的）也会出现推送异常，目前做法是做了个 fallback 的组，选中了较为稳定的节.（集）和 direct 。&lt;/p&gt;
 &lt;p&gt;目前尝试发邮件骚扰了 cook ，以及咨询了 apple 400 客服，希望能给点说法，毕竟商业公司选择自宫是一件令人感到很绝望的事情，不知道这种问题反应多了能否得到原厂的支持。。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>If everyone is cooking, who is eating?</title>
+      <link>https://www.v2ex.com/t/1210104</link>
+      <guid>v2ex-1210104</guid>
+      <pubDate>Sun, 03 May 2026 08:50:37 GMT</pubDate>
+      <description>If everyone is cooking, who is eating?</description>
+    </item>
+    <item>
+      <title>各位大佬，调查一下你们都用哪些运营商？每月所有话费多钱一个月？</title>
+      <link>https://www.v2ex.com/t/1210156</link>
+      <guid>v2ex-1210156</guid>
+      <pubDate>Sun, 03 May 2026 23:10:01 GMT</pubDate>
+      <description>&lt;p&gt;你用的哪家运营商？每月多少话费？&lt;/p&gt;
 </description>
     </item>
   </channel>
