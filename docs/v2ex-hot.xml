@@ -4,26 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 04 May 2026 11:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 13:20:11 GMT</lastBuildDate>
     <item>
       <title>城巴佬——城市中产在消费劳动表演</title>
       <link>https://www.v2ex.com/t/1210190</link>
       <guid>v2ex-1210190</guid>
       <pubDate>Mon, 04 May 2026 07:12:23 GMT</pubDate>
       <description>1. 无法理解露营,开个车跑十几公里跑到修的某个河道边边,厕所都没有,就在那露营,不嫌热还是不嫌有蚊子,也不嫌河边那臭哄哄的味&lt;br /&gt;&lt;br /&gt;2. 无法理解挖野菜的,见到一个路边挖野菜的,说挖的地软,瞅了一眼起码一半都是小时候喂猪的.还有几次在碰见在地里挖野菜的,说实话真的不怕打药了吗?小时候放自家羊,都知道要看人家地头有没有打药的袋子.吃中毒了是不是又要去讹人家种地的.&lt;br /&gt;&lt;br /&gt;3. 无法理解下雨下雪天去山里的,真的是嫌命长.上高中就知道了下雨天上面就会有人通知,全部人都要撤出山里,就有些人非要去,反正去了都是被水冲跑了的&lt;br /&gt;&lt;br /&gt;4. 无法理解吃农家乐的.什么狗屁的土养,除了走的路多,吃的也是饲料啊,谁没事给他去割草,就山头那点吃的,早饿死了&lt;br /&gt;&lt;br /&gt;5. 无法理解让小孩体验农活的.纯的在糟蹋粮食糟蹋地了,我觉得就是在修仙人.算了没有地就不要体验了,真想体验包地去干吧,我觉得包 2 分地,只种菜你家小孩就受不了.&lt;br /&gt;&lt;br /&gt;6. 无法理解自助采摘的,不嫌热么,还帮人家干活,固定采摘量,拿回去又吃不完,除了浪费还是浪费,纯的花钱受罪</description>
-    </item>
-    <item>
-      <title>就在刚刚，听到了初中时喜欢的人即将结婚的消息。</title>
-      <link>https://www.v2ex.com/t/1210131</link>
-      <guid>v2ex-1210131</guid>
-      <pubDate>Sun, 03 May 2026 13:02:51 GMT</pubDate>
-      <description>&lt;p&gt;五一假期到处人都很多，懒得出去玩，在家打 LOL 。刚刚结束一把刺激的无限火力，朋友给我发了一条消息。&lt;/p&gt;
-&lt;p&gt;“X 结婚了”。&lt;/p&gt;
-&lt;p&gt;我脑中瞬间想到了某人的名字，因为朋友和 X 是同一条街道的，他得知 X 的消息很正常。 甚至五年前朋友的家里人还尝试让他两相亲过，朋友拒绝了。 （见 &lt;a href=&quot;/t/807189&quot; rel=&quot;nofollow&quot;&gt;/t/807189&lt;/a&gt;）&lt;/p&gt;
-&lt;p&gt;朋友告诉了我她举办婚礼的地址，我犹豫了一下，在一瞬间甚至萌生了想去看看她结婚时样子的想法，但又很快掐灭了。&lt;/p&gt;
-&lt;p&gt;我对现在的她并谈不上什么喜欢，只是怀念当年的自己和她，而现实中和她早已失联，未来也必然不会来往，何必再去打扰她，徒增尴尬。&lt;/p&gt;
-&lt;p&gt;回老家也得花不少路费，就这样吧，再来开一把海克斯大乱斗吧。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>虽然是老生常谈，但还是求教 2026 年笔记软件如何选择</title>
@@ -64,31 +51,11 @@
 </description>
     </item>
     <item>
-      <title>apns（苹果消息服务）推送异常后目前所做的努力</title>
-      <link>https://www.v2ex.com/t/1210130</link>
-      <guid>v2ex-1210130</guid>
-      <pubDate>Sun, 03 May 2026 12:47:46 GMT</pubDate>
-      <description>&lt;p&gt;按照 &lt;a href=&quot;https://support.apple.com/zh-cn/102266&quot; rel=&quot;nofollow&quot;&gt;https://support.apple.com/zh-cn/102266&lt;/a&gt; 信息，以及论坛上大佬们提供的域名，做了个 rule-set ，方便工具接入使用
-地址： &lt;a href=&quot;https://raw.githubusercontent.com/mrbruce516/apns-fix/refs/heads/main/Apple_APNs.list&quot; rel=&quot;nofollow&quot;&gt;https://raw.githubusercontent.com/mrbruce516/apns-fix/refs/heads/main/Apple_APNs.list&lt;/a&gt; 指向外面的节. 即可&lt;/p&gt;
-&lt;p&gt;目前测试下来，最近并非所有海外 app 都受限制，我的 PlayStation app 、gemini 等可以正常收到消息，所以猜测是苹果针对部分 app 的 Bundle ID 结合设备终端 *.push.apple.com 请求头中获取到的终端 ip ，来做了黑名单限制。也并非觉得是我们的功夫 w 限制了 apns ，如果说 apns 被 q 那么显然所有的消息推送都会有问题。&lt;/p&gt;
-&lt;p&gt;需要注意的是这个方案不够优雅，但是在 ios 上想不到更好的解决方案了，隧道无法根据 app 选择是否经过，所以当 apns 走海外的话，若节.发生故障，所有的消息（包括国内的）也会出现推送异常，目前做法是做了个 fallback 的组，选中了较为稳定的节.（集）和 direct 。&lt;/p&gt;
-&lt;p&gt;目前尝试发邮件骚扰了 cook ，以及咨询了 apple 400 客服，希望能给点说法，毕竟商业公司选择自宫是一件令人感到很绝望的事情，不知道这种问题反应多了能否得到原厂的支持。。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>大疆 Pocket 4 好难抢，是饥饿营销还是真缺货？</title>
       <link>https://www.v2ex.com/t/1210171</link>
       <guid>v2ex-1210171</guid>
       <pubDate>Mon, 04 May 2026 03:55:06 GMT</pubDate>
       <description>&lt;p&gt;每天都是秒没，比我 24 年抢 Mac mini 还难……难道只能加价从第三方商家购买了么&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>各位大佬，调查一下你们都用哪些运营商？每月所有话费多钱一个月？</title>
-      <link>https://www.v2ex.com/t/1210156</link>
-      <guid>v2ex-1210156</guid>
-      <pubDate>Sun, 03 May 2026 23:10:01 GMT</pubDate>
-      <description>&lt;p&gt;你用的哪家运营商？每月多少话费？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -100,6 +67,14 @@
 &lt;p&gt;是个 eSIM 卡，我测过速度还行，当备用以防失联&lt;/p&gt;
 &lt;p&gt;官网就能直接购买: &lt;a href=&quot;http://esim.cmlink.com&quot; rel=&quot;nofollow&quot;&gt;esim.cmlink.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/LolqwRu.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>各位大佬，调查一下你们都用哪些运营商？每月所有话费多钱一个月？</title>
+      <link>https://www.v2ex.com/t/1210156</link>
+      <guid>v2ex-1210156</guid>
+      <pubDate>Sun, 03 May 2026 23:10:01 GMT</pubDate>
+      <description>&lt;p&gt;你用的哪家运营商？每月多少话费？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -115,6 +90,41 @@
       <guid>v2ex-1210177</guid>
       <pubDate>Mon, 04 May 2026 04:55:15 GMT</pubDate>
       <description>&lt;p&gt;灵感来源是在抖音刷到有博主用这种训练软件来教学裸 K 盘感和一些指标技巧，自己也跟着弄了一个；用的 nextjs 做的小训练平台，地址： &lt;a href=&quot;https://trade-me.vercel.app/training&quot; rel=&quot;nofollow&quot;&gt;https://trade-me.vercel.app/training&lt;/a&gt; ；支持限价市价止盈止损，内置排行榜功能=。=&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>正确使用 claude 的姿势是什么？怎么能降低 Token 消耗</title>
+      <link>https://www.v2ex.com/t/1210195</link>
+      <guid>v2ex-1210195</guid>
+      <pubDate>Mon, 04 May 2026 08:35:13 GMT</pubDate>
+      <description>&lt;h2&gt;RT&lt;/h2&gt;
+&lt;p&gt;开的 claude pro ；&lt;/p&gt;
+&lt;p&gt;平时只用 claude opus4.7 写页面。codex 写后端；&lt;/p&gt;
+&lt;p&gt;目前使用的姿势。&lt;/p&gt;
+&lt;p&gt;桌面端的 desktop ，模型 opus4.7 high ，从写这个项目开始，一直都是一个对话框来对话。&lt;/p&gt;
+&lt;p&gt;举例做个功能，让他修改一个 vue 项目，一页面增加一个按钮，点击按钮弹出对话框。 这一个功能要用掉 70%。&lt;/p&gt;
+&lt;p&gt;1 个问题直接 limit 。&lt;/p&gt;
+&lt;p&gt;是不是姿势不对 ~ 求大佬指点&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>想问下 chatpgt(codex) 通过美区 apple id + 闲鱼购买礼品卡是否有风险</title>
+      <link>https://www.v2ex.com/t/1210149</link>
+      <guid>v2ex-1210149</guid>
+      <pubDate>Sun, 03 May 2026 16:20:11 GMT</pubDate>
+      <description>&lt;p&gt;如题，使用 &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;使用美国区 apple id&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;咸鱼购买礼品卡&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在 ios 进行订阅&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这样操作是否会有封号或者其他风险&lt;/p&gt;
 </description>
     </item>
   </channel>
