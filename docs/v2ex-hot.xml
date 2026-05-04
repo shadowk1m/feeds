@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 03 May 2026 23:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:08:04 GMT</lastBuildDate>
     <item>
       <title>中转福利，每人送 50 刀。GPT-5.5 高质量 Pro 号池（含 GPT-5.5 / GPT-5.4 / GPT-5.3-Codex，速度快）</title>
       <link>https://www.v2ex.com/t/1210060</link>
@@ -49,6 +49,19 @@
       <description>Mac mini 配显示器，上 5K 还是高刷更重要？</description>
     </item>
     <item>
+      <title>都说 Anthropic 不做人，现在国产模型厂也不做人</title>
+      <link>https://www.v2ex.com/t/1210113</link>
+      <guid>v2ex-1210113</guid>
+      <pubDate>Sun, 03 May 2026 09:46:07 GMT</pubDate>
+      <description>&lt;p&gt;潜水老玩意冒出来…首帖没想到竟是吐槽&lt;/p&gt;
+&lt;p&gt;事情是这样的…&lt;/p&gt;
+&lt;p&gt;某 G 开头的模型厂的 coding plan, 4/22 号改了用户协议，4/30 号老 plan 下架。 我今天 （ 5/3 ）登陆控制台才看到弹窗。&lt;/p&gt;
+&lt;p&gt;老 plan 每 5 小时 600 次调用，没有 weekly cap ，新 plan 每五小时 400 次，weekly cap 2000.&lt;/p&gt;
+&lt;p&gt;说是送两个月“同等级”套餐，首先上面的五小时调用就不是“同等级”了。另外我前面猛猛写的时候一天写 12 小时…老套餐理论 cap 是每周 19800 次，就算我按 10 小时的 cap 算，就算一周写 6 天，那是 600 * 2 * 6 = 7200 。严重怀疑 G 开头的某司是按每天干五小时活，一周干五天的量设计产品的。算了算 400 * 5 = 2000 ，正好。&lt;/p&gt;
+&lt;p&gt;3 月的时候信誓旦旦说恢复老用户续订老套餐权力，这一个多月就改了。A\ 不做人，你也不做人？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>求助个人订阅 gpt pro 最安全的方法</title>
       <link>https://www.v2ex.com/t/1210117</link>
       <guid>v2ex-1210117</guid>
@@ -78,19 +91,6 @@
 &lt;h2&gt;需求说明&lt;/h2&gt;
 &lt;p&gt;请各位大佬帮忙看看这个方案是否可行，或者是否有更稳妥的建议。
 另外公司在越南有分公司。,是否可以考虑在越南分公司找一台办公电脑，保持 24 小时开机，用作代理节点？相比使用新加坡 VPS ，这种方式是否会更安全、更稳定？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>都说 Anthropic 不做人，现在国产模型厂也不做人</title>
-      <link>https://www.v2ex.com/t/1210113</link>
-      <guid>v2ex-1210113</guid>
-      <pubDate>Sun, 03 May 2026 09:46:07 GMT</pubDate>
-      <description>&lt;p&gt;潜水老玩意冒出来…首帖没想到竟是吐槽&lt;/p&gt;
-&lt;p&gt;事情是这样的…&lt;/p&gt;
-&lt;p&gt;某 G 开头的模型厂的 coding plan, 4/22 号改了用户协议，4/30 号老 plan 下架。 我今天 （ 5/3 ）登陆控制台才看到弹窗。&lt;/p&gt;
-&lt;p&gt;老 plan 每 5 小时 600 次调用，没有 weekly cap ，新 plan 每五小时 400 次，weekly cap 2000.&lt;/p&gt;
-&lt;p&gt;说是送两个月“同等级”套餐，首先上面的五小时调用就不是“同等级”了。另外我前面猛猛写的时候一天写 12 小时…老套餐理论 cap 是每周 19800 次，就算我按 10 小时的 cap 算，就算一周写 6 天，那是 600 * 2 * 6 = 7200 。严重怀疑 G 开头的某司是按每天干五小时活，一周干五天的量设计产品的。算了算 400 * 5 = 2000 ，正好。&lt;/p&gt;
-&lt;p&gt;3 月的时候信誓旦旦说恢复老用户续订老套餐权力，这一个多月就改了。A\ 不做人，你也不做人？&lt;/p&gt;
 </description>
     </item>
     <item>
