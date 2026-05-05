@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 05 May 2026 07:10:50 GMT</lastBuildDate>
-    <item>
-      <title>城巴佬——城市中产在消费劳动表演</title>
-      <link>https://www.v2ex.com/t/1210190</link>
-      <guid>v2ex-1210190</guid>
-      <pubDate>Mon, 04 May 2026 07:12:23 GMT</pubDate>
-      <description>1. 无法理解露营,开个车跑十几公里跑到修的某个河道边边,厕所都没有,就在那露营,不嫌热还是不嫌有蚊子,也不嫌河边那臭哄哄的味&lt;br /&gt;&lt;br /&gt;2. 无法理解挖野菜的,见到一个路边挖野菜的,说挖的地软,瞅了一眼起码一半都是小时候喂猪的.还有几次在碰见在地里挖野菜的,说实话真的不怕打药了吗?小时候放自家羊,都知道要看人家地头有没有打药的袋子.吃中毒了是不是又要去讹人家种地的.&lt;br /&gt;&lt;br /&gt;3. 无法理解下雨下雪天去山里的,真的是嫌命长.上高中就知道了下雨天上面就会有人通知,全部人都要撤出山里,就有些人非要去,反正去了都是被水冲跑了的&lt;br /&gt;&lt;br /&gt;4. 无法理解吃农家乐的.什么狗屁的土养,除了走的路多,吃的也是饲料啊,谁没事给他去割草,就山头那点吃的,早饿死了&lt;br /&gt;&lt;br /&gt;5. 无法理解让小孩体验农活的.纯的在糟蹋粮食糟蹋地了,我觉得就是在修仙人.算了没有地就不要体验了,真想体验包地去干吧,我觉得包 2 分地,只种菜你家小孩就受不了.&lt;br /&gt;&lt;br /&gt;6. 无法理解自助采摘的,不嫌热么,还帮人家干活,固定采摘量,拿回去又吃不完,除了浪费还是浪费,纯的花钱受罪</description>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 09:25:11 GMT</lastBuildDate>
     <item>
       <title>26 年是 llm 泡沫崩破之年还是又冲高之年？</title>
       <link>https://www.v2ex.com/t/1210221</link>
@@ -20,18 +13,16 @@
       <description>算力、能源、商业模式、安全、隐私、政治政策等等因素&lt;br /&gt;&lt;br /&gt;26 年的 llm 是否会降温。</description>
     </item>
     <item>
-      <title>正确使用 claude 的姿势是什么？怎么能降低 Token 消耗</title>
-      <link>https://www.v2ex.com/t/1210195</link>
-      <guid>v2ex-1210195</guid>
-      <pubDate>Mon, 04 May 2026 08:35:13 GMT</pubDate>
-      <description>&lt;h2&gt;RT&lt;/h2&gt;
-&lt;p&gt;开的 claude pro ；&lt;/p&gt;
-&lt;p&gt;平时只用 claude opus4.7 写页面。codex 写后端；&lt;/p&gt;
-&lt;p&gt;目前使用的姿势。&lt;/p&gt;
-&lt;p&gt;桌面端的 desktop ，模型 opus4.7 high ，从写这个项目开始，一直都是一个对话框来对话。&lt;/p&gt;
-&lt;p&gt;举例做个功能，让他修改一个 vue 项目，一页面增加一个按钮，点击按钮弹出对话框。 这一个功能要用掉 70%。&lt;/p&gt;
-&lt;p&gt;1 个问题直接 limit 。&lt;/p&gt;
-&lt;p&gt;是不是姿势不对 ~ 求大佬指点&lt;/p&gt;
+      <title>豆包即将开始收费了，每月 68 元</title>
+      <link>https://www.v2ex.com/t/1210265</link>
+      <guid>v2ex-1210265</guid>
+      <pubDate>Tue, 05 May 2026 01:20:20 GMT</pubDate>
+      <description>&lt;p&gt;根据 App Store 页面显示，豆包计划在免费版基础上推出三档付费订阅方案：&lt;/p&gt;
+&lt;p&gt;基础版（免费）：日常对话、信息查询、文档处理等常规功能，永久免费。&lt;/p&gt;
+&lt;p&gt;标准版：连续包月 68 元，连续包年 688 元。&lt;/p&gt;
+&lt;p&gt;加强版：连续包月 200 元，连续包年 2048 元。&lt;/p&gt;
+&lt;p&gt;专业版：连续包月 500 元，连续包年 5088 元。&lt;/p&gt;
+&lt;p&gt;感觉价格快对标 ChatGPT 了，根据豆包的水平，大家觉得值得购买吗？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -58,19 +49,6 @@
 </description>
     </item>
     <item>
-      <title>豆包即将开始收费了，每月 68 元</title>
-      <link>https://www.v2ex.com/t/1210265</link>
-      <guid>v2ex-1210265</guid>
-      <pubDate>Tue, 05 May 2026 01:20:20 GMT</pubDate>
-      <description>&lt;p&gt;根据 App Store 页面显示，豆包计划在免费版基础上推出三档付费订阅方案：&lt;/p&gt;
-&lt;p&gt;基础版（免费）：日常对话、信息查询、文档处理等常规功能，永久免费。&lt;/p&gt;
-&lt;p&gt;标准版：连续包月 68 元，连续包年 688 元。&lt;/p&gt;
-&lt;p&gt;加强版：连续包月 200 元，连续包年 2048 元。&lt;/p&gt;
-&lt;p&gt;专业版：连续包月 500 元，连续包年 5088 元。&lt;/p&gt;
-&lt;p&gt;感觉价格快对标 ChatGPT 了，根据豆包的水平，大家觉得值得购买吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>写给苹果 CEO 库克的一封信</title>
       <link>https://www.v2ex.com/t/1210228</link>
       <guid>v2ex-1210228</guid>
@@ -90,21 +68,18 @@
 </description>
     </item>
     <item>
-      <title>用了好多年的机场（梯子）就快停止服务了，求大家推荐一些价格实惠的机场或者梯子</title>
-      <link>https://www.v2ex.com/t/1210281</link>
-      <guid>v2ex-1210281</guid>
-      <pubDate>Tue, 05 May 2026 03:05:56 GMT</pubDate>
-      <description>&lt;p&gt;早上登陆机场（梯子）的网页页面，收到这样一条消息：&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;你好&lt;/p&gt;
-&lt;p&gt;目前已全部停售了，到期后不要在继续续费了，以免后期线路中断带来使用上的不便，请选择其他优质服务商,感谢十年以来的风雨长期陪伴,谢谢。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;我用了好多年，也推荐了不少周围的朋友用。平时主要就是开启一个本地服务（ Clash Verge rev 软件开起来），然后使用 socks5 的代理上网。主要以 Google 搜索，github 访问，chatgpt 网站和 gemini 网站访问为主，同时也会访问 youtube 等视频资源。每个月应该在几十 G 的流量。&lt;/p&gt;
-&lt;p&gt;请大家帮忙推荐类似的机场（梯子）服务，谢谢。&lt;/p&gt;
-&lt;p&gt;另外，我看到之前有一个帖子：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/1192996&quot; rel=&quot;nofollow&quot;&gt;性价比机场选购指南 - V2EX&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;里面有一些人推荐了（用的都是 base64 编码的链接），我看里面有每个月 2 元左右的机场（帖子）？不知道是否靠谱。&lt;/p&gt;
-&lt;p&gt;不知道是不是这样的帖子，发到宽带症候群是否合适？谢谢！&lt;/p&gt;
+      <title>你们现在都在用什么协议，我怎么感觉老协议更稳</title>
+      <link>https://www.v2ex.com/t/1210259</link>
+      <guid>v2ex-1210259</guid>
+      <pubDate>Tue, 05 May 2026 00:24:52 GMT</pubDate>
+      <description>座标特殊地区，实际用下来 trojan 舒服些</description>
+    </item>
+    <item>
+      <title>有没有最近用天翼云或者 ollama 的朋友</title>
+      <link>https://www.v2ex.com/t/1210261</link>
+      <guid>v2ex-1210261</guid>
+      <pubDate>Tue, 05 May 2026 00:53:10 GMT</pubDate>
+      <description>&lt;p&gt;因为比较刚需 GLM5.1 ，所以想问问最近有没有在使用天翼云或者在 ollama cloud 里用 GLM5.1 的朋友。工作日和高峰期能用吗？速度和稳定性咋样？感谢&lt;/p&gt;
 </description>
     </item>
   </channel>
