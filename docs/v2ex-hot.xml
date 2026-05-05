@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 05 May 2026 01:51:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 04:53:12 GMT</lastBuildDate>
     <item>
       <title>吐槽一下外卖不送货上门，怎么就成众矢之的了？</title>
       <link>https://www.v2ex.com/t/1210229</link>
@@ -66,37 +66,6 @@
       <description>算力、能源、商业模式、安全、隐私、政治政策等等因素&lt;br /&gt;&lt;br /&gt;26 年的 llm 是否会降温。</description>
     </item>
     <item>
-      <title>做了一个把新闻翻译成股票信号的工具</title>
-      <link>https://www.v2ex.com/t/1210161</link>
-      <guid>v2ex-1210161</guid>
-      <pubDate>Mon, 04 May 2026 02:16:23 GMT</pubDate>
-      <description>&lt;p&gt;作为小白散户，每天就是看各类新闻去分析股票走势。有时候不知道一条新闻会对应哪些股票走势&lt;/p&gt;
-&lt;p&gt;所以我做了一个「新闻雷达」。
-它现在能做的事情：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;每天自动整理财经新闻事件；&lt;/li&gt;
-&lt;li&gt;区分宏观、政策、公司、海外事件；&lt;/li&gt;
-&lt;li&gt;列出可能相关的 A 股；&lt;/li&gt;
-&lt;li&gt;解释为什么相关；&lt;/li&gt;
-&lt;li&gt;展示关联度；&lt;/li&gt;
-&lt;li&gt;追踪事件后的阶段表现。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;现在还在 MVP 阶段，肯定有很多不准的地方,欢迎帮我内测.&lt;/p&gt;
-&lt;p&gt;入口地址:&lt;a href=&quot;https://stocks.matraceai.com/&quot; rel=&quot;nofollow&quot;&gt;https://stocks.matraceai.com/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>现在这个形势，推荐备一个 CMHK 的流量卡</title>
-      <link>https://www.v2ex.com/t/1210180</link>
-      <guid>v2ex-1210180</guid>
-      <pubDate>Mon, 04 May 2026 05:42:56 GMT</pubDate>
-      <description>&lt;p&gt;10GB 流量，68 HKD 可以用半年，后续还能充值&lt;/p&gt;
-&lt;p&gt;是个 eSIM 卡，我测过速度还行，当备用以防失联&lt;/p&gt;
-&lt;p&gt;官网就能直接购买: &lt;a href=&quot;http://esim.cmlink.com&quot; rel=&quot;nofollow&quot;&gt;esim.cmlink.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/LolqwRu.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>正确使用 claude 的姿势是什么？怎么能降低 Token 消耗</title>
       <link>https://www.v2ex.com/t/1210195</link>
       <guid>v2ex-1210195</guid>
@@ -112,11 +81,21 @@
 </description>
     </item>
     <item>
-      <title>大疆 Pocket 4 好难抢，是饥饿营销还是真缺货？</title>
-      <link>https://www.v2ex.com/t/1210171</link>
-      <guid>v2ex-1210171</guid>
-      <pubDate>Mon, 04 May 2026 03:55:06 GMT</pubDate>
-      <description>&lt;p&gt;每天都是秒没，比我 24 年抢 Mac mini 还难……难道只能加价从第三方商家购买了么&lt;/p&gt;
+      <title>微信输入法这么扯淡都没有切换输入法的选项的吗？</title>
+      <link>https://www.v2ex.com/t/1210181</link>
+      <guid>v2ex-1210181</guid>
+      <pubDate>Mon, 04 May 2026 05:43:10 GMT</pubDate>
+      <description>我不懂具体这个东西有没有什么规范和标准，但是我印象中，你一个输入法，肯定要有切换到别的输入法的选项或者按钮对吧。比如 Google 的 Gboard ，那个地球图标，长按就能切换到比如微信输入法、讯飞、搜狗之类的。&lt;br /&gt;&lt;br /&gt;但是微信输入法（ Android ）居然连这个选项和按钮都没有，我首先是在键盘上找，没找到，工具栏上找，没找到，然后进输入法 app 选项，也没有找到。太操蛋了。&lt;br /&gt;&lt;br /&gt;要切换只能去系统设置那里切换。这不相当于就是“我不给你切，你激活了我的输入法，就一直用我家的”。&lt;br /&gt;&lt;br /&gt;我下了个豆包输入法，以为不这样，结果一样，也是找不到切换的入口。&lt;br /&gt;&lt;br /&gt;我以前用过讯飞，讯飞是在二级菜单，也就是在输入法界面点开一个工具栏，里面有切换的选项，这都能勉强接受。&lt;br /&gt;&lt;br /&gt;iOS 好像没这个问题，我在 iOS 也用微信输入法，iOS 不管什么输入法，那个地球图标都在，强制有的，好像是属于 app 之外的固定 UI 。&lt;br /&gt;&lt;br /&gt;为什么我要切输入法呢，因为我在查单词，然后微信输入法查着查着，就不能固定英文输入，重新查词又变成中文九宫格，我就觉得很奇怪，我换成 GBoard 就不会这样，我在有道里面，怎么点来点去，刚才是英文 keyboard ，现在就还是。</description>
+    </item>
+    <item>
+      <title>现在这个形势，推荐备一个 CMHK 的流量卡</title>
+      <link>https://www.v2ex.com/t/1210180</link>
+      <guid>v2ex-1210180</guid>
+      <pubDate>Mon, 04 May 2026 05:42:56 GMT</pubDate>
+      <description>&lt;p&gt;10GB 流量，68 HKD 可以用半年，后续还能充值&lt;/p&gt;
+&lt;p&gt;是个 eSIM 卡，我测过速度还行，当备用以防失联&lt;/p&gt;
+&lt;p&gt;官网就能直接购买: &lt;a href=&quot;http://esim.cmlink.com&quot; rel=&quot;nofollow&quot;&gt;esim.cmlink.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/LolqwRu.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -126,13 +105,6 @@
       <pubDate>Mon, 04 May 2026 04:55:15 GMT</pubDate>
       <description>&lt;p&gt;灵感来源是在抖音刷到有博主用这种训练软件来教学裸 K 盘感和一些指标技巧，自己也跟着弄了一个；用的 nextjs 做的小训练平台，地址： &lt;a href=&quot;https://trade-me.vercel.app/training&quot; rel=&quot;nofollow&quot;&gt;https://trade-me.vercel.app/training&lt;/a&gt; ；支持限价市价止盈止损，内置排行榜功能=。=&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>微信输入法这么扯淡都没有切换输入法的选项的吗？</title>
-      <link>https://www.v2ex.com/t/1210181</link>
-      <guid>v2ex-1210181</guid>
-      <pubDate>Mon, 04 May 2026 05:43:10 GMT</pubDate>
-      <description>我不懂具体这个东西有没有什么规范和标准，但是我印象中，你一个输入法，肯定要有切换到别的输入法的选项或者按钮对吧。比如 Google 的 Gboard ，那个地球图标，长按就能切换到比如微信输入法、讯飞、搜狗之类的。&lt;br /&gt;&lt;br /&gt;但是微信输入法（ Android ）居然连这个选项和按钮都没有，我首先是在键盘上找，没找到，工具栏上找，没找到，然后进输入法 app 选项，也没有找到。太操蛋了。&lt;br /&gt;&lt;br /&gt;要切换只能去系统设置那里切换。这不相当于就是“我不给你切，你激活了我的输入法，就一直用我家的”。&lt;br /&gt;&lt;br /&gt;我下了个豆包输入法，以为不这样，结果一样，也是找不到切换的入口。&lt;br /&gt;&lt;br /&gt;我以前用过讯飞，讯飞是在二级菜单，也就是在输入法界面点开一个工具栏，里面有切换的选项，这都能勉强接受。&lt;br /&gt;&lt;br /&gt;iOS 好像没这个问题，我在 iOS 也用微信输入法，iOS 不管什么输入法，那个地球图标都在，强制有的，好像是属于 app 之外的固定 UI 。&lt;br /&gt;&lt;br /&gt;为什么我要切输入法呢，因为我在查单词，然后微信输入法查着查着，就不能固定英文输入，重新查词又变成中文九宫格，我就觉得很奇怪，我换成 GBoard 就不会这样，我在有道里面，怎么点来点去，刚才是英文 keyboard ，现在就还是。</description>
     </item>
     <item>
       <title>关于失业 关于创业</title>
@@ -145,6 +117,24 @@
 &lt;p&gt;但是回去上班也不太行了，一来是现在的行情大家也知道，二来，几年没上班也没法解释。
 存款见底了，准备找个便利店干干算了。写这个是提个醒，虽然现在失业潮，但是创业也很难。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>联通宽带速率不达标</title>
+      <link>https://www.v2ex.com/t/1210226</link>
+      <guid>v2ex-1210226</guid>
+      <pubDate>Mon, 04 May 2026 13:03:41 GMT</pubDate>
+      <description>&lt;p&gt;坐标重庆，千兆宽带测试下来下载只有 400M 的样子，找装维，装维给了个本地测速服务器。。。测出来没问题就不管了，但是实际使用体验根本就达不到 1000M ，只有 200M 的样子，坛友们见多识广，有啥解决办法吗？我投诉的话，还是这个装维来处理，感觉死循环了。。
+&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img2.pixhost.to/images/7653/722274170_1.png&quot;/&gt;
+&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img2.pixhost.to/images/7654/722274289_2.png&quot;/&gt;
+&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img2.pixhost.to/images/7654/722274292_3.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>写给苹果 CEO 库克的一封信</title>
+      <link>https://www.v2ex.com/t/1210228</link>
+      <guid>v2ex-1210228</guid>
+      <pubDate>Mon, 04 May 2026 13:35:05 GMT</pubDate>
+      <description>写给苹果 CEO 库克的一封信&lt;br /&gt;&lt;br /&gt;request for Official Free Repair for My iPad Air 3 Blank Screen Issue&lt;br /&gt;&lt;br /&gt;Dear Mr. Tim Cook,&lt;br /&gt;&lt;br /&gt;My name is a professional AI self-media blogger and a big Google fan. I have been a loyal Apple user for many years. I have purchased many Apple products including iPhone 4, iPhone 7 Plus, iPhone 8, iPhone 14, iPhone 14 Pro Max and iPhone 15.&lt;br /&gt;&lt;br /&gt;Recently, my iPad Air 3 has suffered from the permanent black screen and frozen death problem, which is exactly the official recall issue Apple announced before. My device matches the faulty batch of iPad Air 3 with blank screen failure.&lt;br /&gt;&lt;br /&gt;Now my iPad cannot power on at all, and there are a large amount of precious and irreplaceable personal and work data stored inside. I cannot lose these important data.&lt;br /&gt;&lt;br /&gt;I have contacted Apple official customer service in Chinese mainland many times by phone for repeated communication, but the local support team refused to take responsibility and failed to solve my problem at all.&lt;br /&gt;&lt;br /&gt;I sincerely request you to arrange Apple offline official stores to provide free maintenance and official screen replacement service for my faulty iPad Air 3 as promised in the recall program, and help protect and recover my important data.&lt;br /&gt;&lt;br /&gt;As a long-term loyal Apple user and tech content creator, I truly hope Apple can keep its after-sales commitment and solve this problem for me as soon as possible.&lt;br /&gt;&lt;br /&gt;Looking forward to your positive reply and help urgently.&lt;br /&gt;&lt;br /&gt;Best regards</description>
     </item>
   </channel>
 </rss>
