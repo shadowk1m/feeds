@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 05 May 2026 20:54:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 21:52:32 GMT</lastBuildDate>
     <item>
       <title>豆包即将开始收费了，每月 68 元</title>
       <link>https://www.v2ex.com/t/1210265</link>
@@ -961,47 +961,18 @@
       <description>现在 ai 冲击这么厉害，但军工是不是还是全内网没啥资料的开发模式，变化大么？</description>
     </item>
     <item>
+      <title>机场专用客户端如何抓取节点</title>
+      <link>https://www.v2ex.com/t/1210301</link>
+      <guid>v2ex-1210301</guid>
+      <pubDate>Tue, 05 May 2026 06:52:06 GMT</pubDate>
+      <description>在用的一个机场禁止订阅有段时间了，不太想用专用客户端，但是又不想浪费掉。&lt;br /&gt;问了下 Gemini ，尝试抓包，获取到了订阅链接和 UA ，但是在 mihomo 或 sing-box 中订阅，还是会提示使用非官方客户端。又尝试使用内存解密当前运行的配置，获取到的也是不连续的节点片段。&lt;br /&gt;有没有朋友研究过的可以分享下？感谢！</description>
+    </item>
+    <item>
       <title>有没有最近用天翼云或者 ollama 的朋友</title>
       <link>https://www.v2ex.com/t/1210261</link>
       <guid>v2ex-1210261</guid>
       <pubDate>Tue, 05 May 2026 00:53:10 GMT</pubDate>
       <description>&lt;p&gt;因为比较刚需 GLM5.1 ，所以想问问最近有没有在使用天翼云或者在 ollama cloud 里用 GLM5.1 的朋友。工作日和高峰期能用吗？速度和稳定性咋样？感谢&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>51 摆摊记，随缘更新~</title>
-      <link>https://www.v2ex.com/t/1210293</link>
-      <guid>v2ex-1210293</guid>
-      <pubDate>Tue, 05 May 2026 05:32:36 GMT</pubDate>
-      <description>&lt;h3&gt;51 假期摆地摊，第二天已有回头客，有个顾客最近 3 天连续购买&lt;/h3&gt;
-&lt;h1&gt;摊位图&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&quot;Imgur&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Cbng4de.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;h1&gt;营业额&lt;/h1&gt;
-&lt;h3&gt;微信&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;26.05.01-04&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/SiXYOPZ.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;支付宝&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;26.05.01-04&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/nBT3TlQ.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;现金&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;日期&lt;/th&gt;
-&lt;th&gt;金额&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;5.1&lt;/td&gt;
-&lt;td&gt;20 元&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;5.3&lt;/td&gt;
-&lt;td&gt;16 元&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;hr/&gt;
-&lt;h1&gt;合计：662 元&lt;/h1&gt;
-&lt;hr/&gt;
-&lt;p&gt;还没有回本，今晚继续，想交流欢迎📧：ODUwNjY2NzQ0QDEzOS5jb20=(base64)&lt;/p&gt;
 </description>
     </item>
   </channel>
