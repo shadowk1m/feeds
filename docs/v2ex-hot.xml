@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 08 May 2026 16:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 18:03:25 GMT</lastBuildDate>
     <item>
       <title>[压力测试] Codex GPT-5.5 新中转站开业，人人免费领 3 亿 token， 评论立送 300 美刀/月会员</title>
       <link>https://www.v2ex.com/t/1211140</link>
@@ -118,6 +118,79 @@
 </description>
     </item>
     <item>
+      <title>高强度使用了半年 claude code 后，我终于无法忍受了，并且我发现了绝佳替代</title>
+      <link>https://www.v2ex.com/t/1211200</link>
+      <guid>v2ex-1211200</guid>
+      <pubDate>Fri, 08 May 2026 07:57:05 GMT</pubDate>
+      <description>&lt;h1&gt;直接上菜：&lt;a href=&quot;https://github.com/lsdefine/GenericAgent&quot; rel=&quot;nofollow&quot;&gt;GenericAgent&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/lsdefine/GenericAgent&quot; rel=&quot;nofollow&quot;&gt;https://github.com/lsdefine/GenericAgent&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;本人基本信息&lt;/strong&gt;：国内某 top3 的计算机博士在读，大模型方向。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最近对 cc 的使用情况&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/Bt7Xda2.png&quot;/&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我最近在 github trending 上关注了 &lt;strong&gt;GA&lt;/strong&gt; 这个项目，并&lt;strong&gt;高强度使用了一周多（完全接管我的科研+生活）&lt;/strong&gt;，然后我就&lt;strong&gt;卸载了 cc 、codex 和 openclaw&lt;/strong&gt;（但是感谢 cc 曾经在我的生命中出现过，不过 openclaw 你是真的垃圾啊）。。&lt;/p&gt;
+&lt;p&gt;那么有人问了，cc 那么屌，openclaw 被吹的那么神，有什么问题？
+我想但凡用过的人此时在心里都有答案了。。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;下文的数据来自 &lt;a href=&quot;https://arxiv.org/abs/2604.17091&quot; rel=&quot;nofollow&quot;&gt;arxiv.org/abs/2604.17091&lt;/a&gt;，也就是 &lt;strong&gt;GA 的技术报告&lt;/strong&gt;，里面有些 insights 我非常喜欢，而且我的风格也是&lt;strong&gt;用数据说话&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h2&gt;一、你的钱包顶得住吗？&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&quot;pic_1.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhT4j.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;打一个招呼，&lt;strong&gt;oc 要用 4w tokens ，cc 和 codex 也是 2w tokens 打底了&lt;/strong&gt;，真当我 token 不是花钱买的？&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;pic_2.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhRYQ.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;在长程任务上，&lt;strong&gt;GA 能够用更少的预算（ 1/3 或者更少）获得一样甚至更好的效果&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;pic_3.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhEGa.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GA 有无敌的原生浏览器操作&lt;/strong&gt;，能用非常夸张的极低的预算（&lt;strong&gt;1/5 左右&lt;/strong&gt;）实现非常非常 nice 的网页搜索、浏览器操作（&lt;strong&gt;1-3 倍的成功率&lt;/strong&gt;）。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;插个题外话，我就是做 deepresearch 的，论文里选的 &lt;strong&gt;browsecamp 、webcanvas&lt;/strong&gt; 这些数据集是非常有挑战的，也给我打开新世界了 hh&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最近看大家都在流行 claude code 的各种 web 插件，我的嘴角慢慢上扬。
+说实话，&lt;strong&gt;ga 的原生浏览器操作吊打所有的 web 插件&lt;/strong&gt;，不服来战（本人已服）。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;二、更好用的智能体一定能自进化&lt;/h2&gt;
+&lt;p&gt;这也是最近 hermes 风头正盛的原因。在这一点上，&lt;strong&gt;我认为 GA 做的更好&lt;/strong&gt;。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不要谈参数自进化，因为我认为的自进化就是 &lt;strong&gt;agent 对错误经验的总结学习&lt;/strong&gt;，就像人的进化就是在直立行走之后能够制造和使用工具，而不是长出第六根手指。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt=&quot;pic_4.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhhyN.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;直接上结果，oc 就不谈了，纯垃圾。。看 codex 和 cc ，实际上由于这两者的定位（ coding ），所以&lt;strong&gt;他们是不会自主的总结重复的工作经验的&lt;/strong&gt;。如果你每次都让他们做一些崭新的项目，那当然没问题，但是你要是让他们去追踪股票，能够按你一句话帮你去网上填表，去做你日常做的操作，&lt;strong&gt;那他们每次探索的成本则是巨大的&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GA 的自进化机制让 GA 得以越用越快，越用越方便&lt;/strong&gt;（最后甚至能到心领神会的地步。。）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;pic_5.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhUFf.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;依旧吊打 oc ，&lt;strong&gt;oc 赶紧下桌吧&lt;/strong&gt;。。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;三、好的智能体离不开记忆&lt;/h2&gt;
+&lt;p&gt;我知道大家这时候说了，&lt;strong&gt;LLM-Wiki 很吊，Evermemos 很吊，Mem0 很吊&lt;/strong&gt;，我装这些插件就能让我的智能体有记忆。&lt;/p&gt;
+&lt;p&gt;先不谈这几个插件到底真实性能怎么样，我作为一个看了很多 memory 论文的从事大模型的人来说，作为一个 agent 的 memory 框架：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;测 Locomo 、LongtermMem 这几个数据集就是不合适的！&lt;/strong&gt;
+现在的大模型的记忆&lt;strong&gt;不再是 user-centric&lt;/strong&gt; 了！现在我们需要的大模型记忆是 &lt;strong&gt;task-centric&lt;/strong&gt;，这两者有本质的区别。&lt;/p&gt;
+&lt;p&gt;所以，&lt;strong&gt;停止人云亦云吧&lt;/strong&gt;。。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我深扒了 GA 的记忆设计，&lt;strong&gt;其简洁性和有效性真的令人印象深刻&lt;/strong&gt;，但是在这里就不展开（如果大家感兴趣，我可能再开一篇帖子详细讲讲）。&lt;/p&gt;
+&lt;p&gt;我现在对 GA 的使用如图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;pic_6.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhQne.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;有什么记不得的，直接问就好了。。太 tm 牛逼了&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;彩蛋&lt;/h2&gt;
+&lt;p&gt;另外，我是第一次在 V2EX 发帖，发现这图床都要买。。然后也让 GA 给我整了一个，&lt;strong&gt;就一句话&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;pic_7.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYjJwP.png&quot;/&gt;
+&lt;img alt=&quot;pic_8.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYjKPa.png&quot;/&gt;
+&lt;img alt=&quot;pic_10.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYglEB.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;嘿嘿。。最后放一张 GA 自己的 skillhub 里的截图，&lt;strong&gt;懂的人自然知道干啥用的&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;pic_9.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYgT7e.png&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;写在最后&lt;/h2&gt;
+&lt;p&gt;还有很多没提到的，大家自己尝试就好了。当然 GA 也有很多让我不爽的地方，比如&lt;strong&gt;极其简陋的前端&lt;/strong&gt;，然后我就在 GA 的群里潜水，最后发现了，大概是&lt;strong&gt;开发者的个人风格就是毛坯房的风格&lt;/strong&gt;。。问他能不能给整好看点，他回答也简单：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他说 &quot;你让 GA 给你做&quot;。。真的无敌了。。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我不允许还有人不知道 GA ！！！！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果这个帖子有点热度，大家有要求的话，&lt;strong&gt;我可能会从专业的角度展开讲讲 GA 的技术实现方法&lt;/strong&gt;，太 tm 优雅了。。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>AI 写代码越来越强，但它不知道我们上周修了什么 bug，把 Bug 重新引入生产环境了</title>
       <link>https://www.v2ex.com/t/1211151</link>
       <guid>v2ex-1211151</guid>
@@ -203,76 +276,21 @@
 </description>
     </item>
     <item>
-      <title>高强度使用了半年 claude code 后，我终于无法忍受了，并且我发现了绝佳替代</title>
-      <link>https://www.v2ex.com/t/1211200</link>
-      <guid>v2ex-1211200</guid>
-      <pubDate>Fri, 08 May 2026 07:57:05 GMT</pubDate>
-      <description>&lt;h1&gt;直接上菜：&lt;a href=&quot;https://github.com/lsdefine/GenericAgent&quot; rel=&quot;nofollow&quot;&gt;GenericAgent&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/lsdefine/GenericAgent&quot; rel=&quot;nofollow&quot;&gt;https://github.com/lsdefine/GenericAgent&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;本人基本信息&lt;/strong&gt;：国内某 top3 的计算机博士在读，大模型方向。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最近对 cc 的使用情况&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/Bt7Xda2.png&quot;/&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我最近在 github trending 上关注了 &lt;strong&gt;GA&lt;/strong&gt; 这个项目，并&lt;strong&gt;高强度使用了一周多（完全接管我的科研+生活）&lt;/strong&gt;，然后我就&lt;strong&gt;卸载了 cc 、codex 和 openclaw&lt;/strong&gt;（但是感谢 cc 曾经在我的生命中出现过，不过 openclaw 你是真的垃圾啊）。。&lt;/p&gt;
-&lt;p&gt;那么有人问了，cc 那么屌，openclaw 被吹的那么神，有什么问题？
-我想但凡用过的人此时在心里都有答案了。。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;下文的数据来自 &lt;a href=&quot;https://arxiv.org/abs/2604.17091&quot; rel=&quot;nofollow&quot;&gt;arxiv.org/abs/2604.17091&lt;/a&gt;，也就是 &lt;strong&gt;GA 的技术报告&lt;/strong&gt;，里面有些 insights 我非常喜欢，而且我的风格也是&lt;strong&gt;用数据说话&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
+      <title>AI 让事物贬值，各种层面上</title>
+      <link>https://www.v2ex.com/t/1211027</link>
+      <guid>v2ex-1211027</guid>
+      <pubDate>Fri, 08 May 2026 00:07:06 GMT</pubDate>
+      <description>&lt;p&gt;AI 写小说，所以当你看小说的时候，你就不想付费了，因为你觉得它可能是随便生成的，就是有人为干预，也是比以前廉价了。&lt;/p&gt;
+&lt;p&gt;同样的，AI 可以生产视频/图片/代码。需要这些的人（你的老板）就会觉得你的成果不够值钱。&lt;/p&gt;
+&lt;p&gt;AI 做的游戏，也是一样，愿意付费的人只会更少。&lt;/p&gt;
+&lt;p&gt;发帖也是一样，我现在基本很少看脉脉，很少发帖回帖了，因为它充满了 AI 发的水贴。以前多少还是水军，现在全是脚本。&lt;/p&gt;
+&lt;p&gt;短视频平台现在 AI 生成的视频那么多，你还会经常刷经常看吗？&lt;/p&gt;
+&lt;p&gt;AI 不只是降低成本，同时还是在降低价值。哪怕它生成的东西质量高，只要是成本低，就不值得我去付费/付精力/付时间。&lt;/p&gt;
+&lt;p&gt;我觉得内容为主的平台会逐渐被 AI 搞死。。。&lt;/p&gt;
 &lt;hr/&gt;
-&lt;h2&gt;一、你的钱包顶得住吗？&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_1.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhT4j.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;打一个招呼，&lt;strong&gt;oc 要用 4w tokens ，cc 和 codex 也是 2w tokens 打底了&lt;/strong&gt;，真当我 token 不是花钱买的？&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_2.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhRYQ.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;在长程任务上，&lt;strong&gt;GA 能够用更少的预算（ 1/3 或者更少）获得一样甚至更好的效果&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_3.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhEGa.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;GA 有无敌的原生浏览器操作&lt;/strong&gt;，能用非常夸张的极低的预算（&lt;strong&gt;1/5 左右&lt;/strong&gt;）实现非常非常 nice 的网页搜索、浏览器操作（&lt;strong&gt;1-3 倍的成功率&lt;/strong&gt;）。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;插个题外话，我就是做 deepresearch 的，论文里选的 &lt;strong&gt;browsecamp 、webcanvas&lt;/strong&gt; 这些数据集是非常有挑战的，也给我打开新世界了 hh&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;最近看大家都在流行 claude code 的各种 web 插件，我的嘴角慢慢上扬。
-说实话，&lt;strong&gt;ga 的原生浏览器操作吊打所有的 web 插件&lt;/strong&gt;，不服来战（本人已服）。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;二、更好用的智能体一定能自进化&lt;/h2&gt;
-&lt;p&gt;这也是最近 hermes 风头正盛的原因。在这一点上，&lt;strong&gt;我认为 GA 做的更好&lt;/strong&gt;。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;不要谈参数自进化，因为我认为的自进化就是 &lt;strong&gt;agent 对错误经验的总结学习&lt;/strong&gt;，就像人的进化就是在直立行走之后能够制造和使用工具，而不是长出第六根手指。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_4.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhhyN.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;直接上结果，oc 就不谈了，纯垃圾。。看 codex 和 cc ，实际上由于这两者的定位（ coding ），所以&lt;strong&gt;他们是不会自主的总结重复的工作经验的&lt;/strong&gt;。如果你每次都让他们做一些崭新的项目，那当然没问题，但是你要是让他们去追踪股票，能够按你一句话帮你去网上填表，去做你日常做的操作，&lt;strong&gt;那他们每次探索的成本则是巨大的&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;GA 的自进化机制让 GA 得以越用越快，越用越方便&lt;/strong&gt;（最后甚至能到心领神会的地步。。）&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_5.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhUFf.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;依旧吊打 oc ，&lt;strong&gt;oc 赶紧下桌吧&lt;/strong&gt;。。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;三、好的智能体离不开记忆&lt;/h2&gt;
-&lt;p&gt;我知道大家这时候说了，&lt;strong&gt;LLM-Wiki 很吊，Evermemos 很吊，Mem0 很吊&lt;/strong&gt;，我装这些插件就能让我的智能体有记忆。&lt;/p&gt;
-&lt;p&gt;先不谈这几个插件到底真实性能怎么样，我作为一个看了很多 memory 论文的从事大模型的人来说，作为一个 agent 的 memory 框架：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;测 Locomo 、LongtermMem 这几个数据集就是不合适的！&lt;/strong&gt;
-现在的大模型的记忆&lt;strong&gt;不再是 user-centric&lt;/strong&gt; 了！现在我们需要的大模型记忆是 &lt;strong&gt;task-centric&lt;/strong&gt;，这两者有本质的区别。&lt;/p&gt;
-&lt;p&gt;所以，&lt;strong&gt;停止人云亦云吧&lt;/strong&gt;。。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我深扒了 GA 的记忆设计，&lt;strong&gt;其简洁性和有效性真的令人印象深刻&lt;/strong&gt;，但是在这里就不展开（如果大家感兴趣，我可能再开一篇帖子详细讲讲）。&lt;/p&gt;
-&lt;p&gt;我现在对 GA 的使用如图：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_6.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhQne.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;有什么记不得的，直接问就好了。。太 tm 牛逼了&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;彩蛋&lt;/h2&gt;
-&lt;p&gt;另外，我是第一次在 V2EX 发帖，发现这图床都要买。。然后也让 GA 给我整了一个，&lt;strong&gt;就一句话&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_7.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYjJwP.png&quot;/&gt;
-&lt;img alt=&quot;pic_8.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYjKPa.png&quot;/&gt;
-&lt;img alt=&quot;pic_10.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYglEB.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;嘿嘿。。最后放一张 GA 自己的 skillhub 里的截图，&lt;strong&gt;懂的人自然知道干啥用的&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_9.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYgT7e.png&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;写在最后&lt;/h2&gt;
-&lt;p&gt;还有很多没提到的，大家自己尝试就好了。当然 GA 也有很多让我不爽的地方，比如&lt;strong&gt;极其简陋的前端&lt;/strong&gt;，然后我就在 GA 的群里潜水，最后发现了，大概是&lt;strong&gt;开发者的个人风格就是毛坯房的风格&lt;/strong&gt;。。问他能不能给整好看点，他回答也简单：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;他说 &quot;你让 GA 给你做&quot;。。真的无敌了。。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;我不允许还有人不知道 GA ！！！！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果这个帖子有点热度，大家有要求的话，&lt;strong&gt;我可能会从专业的角度展开讲讲 GA 的技术实现方法&lt;/strong&gt;，太 tm 优雅了。。&lt;/p&gt;
+&lt;p&gt;在 AI 视频/出图刚兴起的时候可以割一波韭菜，然后就会变成廉价劳动，像送外卖一样 3 元一单。网络游戏运营商也有类似的操作（滚服，滚游戏）。大部分人反应过来之后，内心就会轻视这类产品，导致工作室老板和平台这两方逐渐做不下去。&lt;/p&gt;
+&lt;p&gt;最终就是资本家杀死了自己，虽然打工人先死。&lt;/p&gt;
+&lt;p&gt;AI 加速了生产，同时减少了产品的生命周期&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -320,24 +338,6 @@
 &lt;p&gt;&lt;img alt=&quot;2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/vL31Ms4.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;3&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/UucY3hy.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;4&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/FjT7bX5.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>AI 让事物贬值，各种层面上</title>
-      <link>https://www.v2ex.com/t/1211027</link>
-      <guid>v2ex-1211027</guid>
-      <pubDate>Fri, 08 May 2026 00:07:06 GMT</pubDate>
-      <description>&lt;p&gt;AI 写小说，所以当你看小说的时候，你就不想付费了，因为你觉得它可能是随便生成的，就是有人为干预，也是比以前廉价了。&lt;/p&gt;
-&lt;p&gt;同样的，AI 可以生产视频/图片/代码。需要这些的人（你的老板）就会觉得你的成果不够值钱。&lt;/p&gt;
-&lt;p&gt;AI 做的游戏，也是一样，愿意付费的人只会更少。&lt;/p&gt;
-&lt;p&gt;发帖也是一样，我现在基本很少看脉脉，很少发帖回帖了，因为它充满了 AI 发的水贴。以前多少还是水军，现在全是脚本。&lt;/p&gt;
-&lt;p&gt;短视频平台现在 AI 生成的视频那么多，你还会经常刷经常看吗？&lt;/p&gt;
-&lt;p&gt;AI 不只是降低成本，同时还是在降低价值。哪怕它生成的东西质量高，只要是成本低，就不值得我去付费/付精力/付时间。&lt;/p&gt;
-&lt;p&gt;我觉得内容为主的平台会逐渐被 AI 搞死。。。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;在 AI 视频/出图刚兴起的时候可以割一波韭菜，然后就会变成廉价劳动，像送外卖一样 3 元一单。网络游戏运营商也有类似的操作（滚服，滚游戏）。大部分人反应过来之后，内心就会轻视这类产品，导致工作室老板和平台这两方逐渐做不下去。&lt;/p&gt;
-&lt;p&gt;最终就是资本家杀死了自己，虽然打工人先死。&lt;/p&gt;
-&lt;p&gt;AI 加速了生产，同时减少了产品的生命周期&lt;/p&gt;
 </description>
     </item>
   </channel>
