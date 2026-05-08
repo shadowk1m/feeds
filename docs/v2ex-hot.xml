@@ -4,13 +4,54 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 08 May 2026 02:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:13:45 GMT</lastBuildDate>
     <item>
-      <title>FlyMux 中转站，来给 V 友发福利了, 评论就送 $10 额度</title>
-      <link>https://www.v2ex.com/t/1210817</link>
-      <guid>v2ex-1210817</guid>
-      <pubDate>Thu, 07 May 2026 04:10:05 GMT</pubDate>
-      <description>FlyMux 镜像站：🚀 站点地址： &lt;a target=&quot;_blank&quot; href=&quot;https://flymux.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://flymux.com&lt;/a&gt;&lt;br /&gt;V 友专属福利注册完成后，站点后台右上角复制 ID, 在本帖留言并附上你的 ID ，赠送 $10 刀额度。&lt;br /&gt;&lt;br /&gt;Claude Awsq 渠道倍率 0.6&lt;br /&gt;当前 Plus 号池倍率 0.2, $10 可用价值 50 刀左右的额度&lt;br /&gt;&lt;br /&gt;前 600 名有效, 当前由脚本 10 分钟自动处理一次.</description>
+      <title># GPT-5.4 / 5.5 / 5.3-codex / image2 中转站，评论送 15 美刀</title>
+      <link>https://www.v2ex.com/t/1211033</link>
+      <guid>v2ex-1211033</guid>
+      <pubDate>Fri, 08 May 2026 00:38:54 GMT</pubDate>
+      <description>&lt;h1&gt;GPT-5.4 / 5.5 / 5.3-codex / image2 中转站，评论送 15 美刀&lt;/h1&gt;
+&lt;p&gt;地址：&lt;a href=&quot;https://api.euzhi.com/&quot; rel=&quot;nofollow&quot;&gt;https://api.euzhi.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大家好，我最近做了一个 &lt;strong&gt;Euzhi API 中转站&lt;/strong&gt;，想给 V2EX 的朋友开放一波试用。&lt;/p&gt;
+&lt;p&gt;主要是为了方便接入 &lt;strong&gt;GPT-5.4 、GPT-5.5 、gpt-5.3-codex 、gpt-image-2&lt;/strong&gt; 等模型，兼容常见 OpenAI API 调用格式，自建 Plus 号池，不掺水。&lt;/p&gt;
+&lt;h2&gt;福利&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;所有新用户注册即送：&lt;strong&gt;2 美刀额度&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;V2EX 评论区发 &lt;strong&gt;用户 ID 或用户名&lt;/strong&gt;：再送 &lt;strong&gt;15 美刀额度&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;评论福利限前 &lt;strong&gt;300 名&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;合计最高可拿：&lt;strong&gt;17 美刀额度&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;价格&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;充值倍率：&lt;strong&gt;20 元人民币 = 100 美刀额度&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;100 美刀约可调用 &lt;strong&gt;1 亿 token&lt;/strong&gt;，包含输入和输出 token&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;支持模型&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GPT-5.4&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPT-5.5&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;gpt-5.3-codex&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;gpt-image-2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;以及后续接入的其他模型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注册后会自动生成可用令牌，默认勾选 GPT-5.4 、GPT-5.5 、gpt-image-2 ，可以直接拿去接自己的项目。&lt;/p&gt;
+&lt;h2&gt;附属产品：优智图&lt;/h2&gt;
+&lt;p&gt;同一套账号和余额还可以登录 &lt;strong&gt;优智图&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;它把 gpt-image-2 做成了场景模板，适合生成海报、知识卡片、商品图、封面图、壁纸等。每个场景内置 Skill ，用来约束提示词和风格，让结果更稳定。&lt;/p&gt;
+&lt;p&gt;优智图里的 gpt-image-2 图片生成计费：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1 美刀 / 张&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;按 &lt;strong&gt;20 元人民币 = 100 美刀额度&lt;/strong&gt; 换算，约 &lt;strong&gt;0.2 元 / 张&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;100 美刀约可生成 &lt;strong&gt;100 张 image2 图片&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;中转站和优智图账号互通、余额共享。注册一个账号，两个地方都能登录。后续优智图会上架苹果商城。&lt;/p&gt;
+&lt;h2&gt;链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Euzhi API 中转站：&lt;a href=&quot;https://api.euzhi.com/&quot; rel=&quot;nofollow&quot;&gt;https://api.euzhi.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;优智图：&lt;a href=&quot;https://app.euzhi.com/&quot; rel=&quot;nofollow&quot;&gt;https://app.euzhi.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;所有新用户注册即送 2 美刀；注册后在评论区发用户 ID 或用户名，我看到后再追加赠送 15 美刀，评论福利限前 300 名。&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>Opus 自由，限量开抢！ 498 兑换 2000 美金额度（评论就送＄ 20 额度）！</title>
@@ -117,74 +158,12 @@
 </description>
     </item>
     <item>
-      <title>还有两周离职还在被不停追加需求怎么办</title>
-      <link>https://www.v2ex.com/t/1210776</link>
-      <guid>v2ex-1210776</guid>
-      <pubDate>Thu, 07 May 2026 02:34:13 GMT</pubDate>
-      <description>我想的是这两周就只接些优化类的和 bug 处理，结果还在不停给我追加开发量 3 天以上的专项，是担心我跑了没人干了吗？搞得我没时间写交接文档了咋办，第一次跑路，这种情况正常吗？</description>
-    </item>
-    <item>
-      <title># GPT-5.4 / 5.5 / 5.3-codex / image2 中转站，评论送 15 美刀</title>
-      <link>https://www.v2ex.com/t/1211033</link>
-      <guid>v2ex-1211033</guid>
-      <pubDate>Fri, 08 May 2026 00:38:54 GMT</pubDate>
-      <description>&lt;h1&gt;GPT-5.4 / 5.5 / 5.3-codex / image2 中转站，评论送 15 美刀&lt;/h1&gt;
-&lt;p&gt;地址：&lt;a href=&quot;https://api.euzhi.com/&quot; rel=&quot;nofollow&quot;&gt;https://api.euzhi.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;大家好，我最近做了一个 &lt;strong&gt;Euzhi API 中转站&lt;/strong&gt;，想给 V2EX 的朋友开放一波试用。&lt;/p&gt;
-&lt;p&gt;主要是为了方便接入 &lt;strong&gt;GPT-5.4 、GPT-5.5 、gpt-5.3-codex 、gpt-image-2&lt;/strong&gt; 等模型，兼容常见 OpenAI API 调用格式，自建 Plus 号池，不掺水。&lt;/p&gt;
-&lt;h2&gt;福利&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;所有新用户注册即送：&lt;strong&gt;2 美刀额度&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;V2EX 评论区发 &lt;strong&gt;用户 ID 或用户名&lt;/strong&gt;：再送 &lt;strong&gt;15 美刀额度&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;评论福利限前 &lt;strong&gt;300 名&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;合计最高可拿：&lt;strong&gt;17 美刀额度&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;价格&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;充值倍率：&lt;strong&gt;20 元人民币 = 100 美刀额度&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;100 美刀约可调用 &lt;strong&gt;1 亿 token&lt;/strong&gt;，包含输入和输出 token&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;支持模型&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;GPT-5.4&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GPT-5.5&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;gpt-5.3-codex&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;gpt-image-2&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;以及后续接入的其他模型&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;注册后会自动生成可用令牌，默认勾选 GPT-5.4 、GPT-5.5 、gpt-image-2 ，可以直接拿去接自己的项目。&lt;/p&gt;
-&lt;h2&gt;附属产品：优智图&lt;/h2&gt;
-&lt;p&gt;同一套账号和余额还可以登录 &lt;strong&gt;优智图&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;它把 gpt-image-2 做成了场景模板，适合生成海报、知识卡片、商品图、封面图、壁纸等。每个场景内置 Skill ，用来约束提示词和风格，让结果更稳定。&lt;/p&gt;
-&lt;p&gt;优智图里的 gpt-image-2 图片生成计费：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;1 美刀 / 张&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;按 &lt;strong&gt;20 元人民币 = 100 美刀额度&lt;/strong&gt; 换算，约 &lt;strong&gt;0.2 元 / 张&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;100 美刀约可生成 &lt;strong&gt;100 张 image2 图片&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;中转站和优智图账号互通、余额共享。注册一个账号，两个地方都能登录。后续优智图会上架苹果商城。&lt;/p&gt;
-&lt;h2&gt;链接&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Euzhi API 中转站：&lt;a href=&quot;https://api.euzhi.com/&quot; rel=&quot;nofollow&quot;&gt;https://api.euzhi.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;优智图：&lt;a href=&quot;https://app.euzhi.com/&quot; rel=&quot;nofollow&quot;&gt;https://app.euzhi.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;所有新用户注册即送 2 美刀；注册后在评论区发用户 ID 或用户名，我看到后再追加赠送 15 美刀，评论福利限前 300 名。&lt;/strong&gt;&lt;/p&gt;
+      <title>周末双休会选择去爬山吗？</title>
+      <link>https://www.v2ex.com/t/1211069</link>
+      <guid>v2ex-1211069</guid>
+      <pubDate>Fri, 08 May 2026 02:11:55 GMT</pubDate>
+      <description>&lt;p&gt;rt ，最近喜欢周末去爬周边的山，有没有徒步、登山的大佬介绍一下适合小白的一些必备的装备？&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>未来三年后适合买房吗</title>
-      <link>https://www.v2ex.com/t/1210770</link>
-      <guid>v2ex-1210770</guid>
-      <pubDate>Thu, 07 May 2026 02:22:27 GMT</pubDate>
-      <description>&lt;p&gt;目前计划有广西南宁，广东珠海，两座城市，买房，江浙一带那边不知道那边房价怎么样，江浙那边的苏州，南京，还不知道选哪个城市定居呢，烦呀&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>相亲太难了-续</title>
-      <link>https://www.v2ex.com/t/1210757</link>
-      <guid>v2ex-1210757</guid>
-      <pubDate>Thu, 07 May 2026 02:05:38 GMT</pubDate>
-      <description>昨天发帖&lt;br /&gt;“五一相亲一个对象，长相一般，年收入 2w 多一点（其实原话是 1w 左右），居然要求年收入百万以上”&lt;br /&gt;&lt;br /&gt;后续：&lt;br /&gt;中间人说女方是对我有意思的（感觉是骗我的），还说我为啥后面怎么不主动找女方说话了（这才是真的）；&lt;br /&gt;我说我年薪就 40 左右，实在配不上啊；&lt;br /&gt;中间人说是啊，还挺不错的；&lt;br /&gt;我说女孩要求百万年薪的；&lt;br /&gt;中间人说我是在找借口，然后说了些女孩子的好话，大概意思就是让我珍惜缘分，主动点啥的；&lt;br /&gt;我实在无语了；</description>
     </item>
     <item>
       <title>北京现在严查戴头盔，刚买的头盔早上刚戴上晚上就丢了</title>
@@ -195,22 +174,46 @@
 </description>
     </item>
     <item>
-      <title>🧼求推荐好用的拖地机！看了了几天越看越晕</title>
-      <link>https://www.v2ex.com/t/1210761</link>
-      <guid>v2ex-1210761</guid>
-      <pubDate>Thu, 07 May 2026 02:07:52 GMT</pubDate>
-      <description>&lt;h1&gt;扫拖机器人退休了，想换一台 2000 元以内的洗地机&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;面积 120㎡ | 预算 ¥2000 以内 | 主要地面：瓷砖&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🙏 真心求推荐&lt;/h2&gt;
-&lt;p&gt;希望买过的朋友，&lt;strong&gt;真实反馈&lt;/strong&gt;一下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;型号 + 大概入手价格&lt;/li&gt;
-&lt;li&gt;你最满意的一个点&lt;/li&gt;
-&lt;li&gt;你最想吐槽的一个缺点&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;提前感谢每一位回复的朋友 🙇&lt;/p&gt;
+      <title>摸鱼间隙总结一下我这两年来的倒霉人生.</title>
+      <link>https://www.v2ex.com/t/1210862</link>
+      <guid>v2ex-1210862</guid>
+      <pubDate>Thu, 07 May 2026 06:55:22 GMT</pubDate>
+      <description>24 年 5 月爷爷突然说不舒服,我赶回去,一天后离世&lt;br /&gt;24 年 8 月分手&lt;br /&gt;25 年 4 月份公司经营困难,强制休假&lt;br /&gt;25 年 4 月休假去青甘环线旅游,第二天早晨得知奶奶病重,返回&lt;br /&gt;25 年 6 月被强制休假*2&lt;br /&gt;25 年 6 月奶奶离世&lt;br /&gt;25 年 11 月被强制休假*3,去深圳找朋友散心&lt;br /&gt;25 年 11 月到深圳第二天早晨得知伯伯猝死,返回&lt;br /&gt;25 年 11 月伯伯后事处理完回老家, 当天外婆去世&lt;br /&gt;26 年 5 月 1 号早上得知三岁的侄儿意外去世&lt;br /&gt;&lt;br /&gt;这几天人都是恍惚的,昨天班也不想上就请假了,想去游个泳,防水袋又坏了,手机给泡水报废了.现在整个人的状态就是不想上班, 不想说话, 也没人说话, 怕手机响, 不想出远门, 回去怕催婚,不回去又孤单.</description>
+    </item>
+    <item>
+      <title>工作其实没那么难找</title>
+      <link>https://www.v2ex.com/t/1211079</link>
+      <guid>v2ex-1211079</guid>
+      <pubDate>Fri, 08 May 2026 02:27:22 GMT</pubDate>
+      <description>从 4.20 开始投简历，到 5.7 拒绝最后一个口头 offer 大概拿了 10 个口头 offer ，主要来源:同事推荐、boss 、猎聘,涨幅从 10%-50%不等。面下来的感觉就是，1.学历尚可 2.年轻 3.技术、表达等都 ok  4.有垂直经验，有这些的老哥们放心冲就完事了，干的不爽就跑，问题不大。</description>
+    </item>
+    <item>
+      <title>AI 让事物贬值，各种层面上</title>
+      <link>https://www.v2ex.com/t/1211027</link>
+      <guid>v2ex-1211027</guid>
+      <pubDate>Fri, 08 May 2026 00:07:06 GMT</pubDate>
+      <description>&lt;p&gt;AI 写小说，所以当你看小说的时候，你就不想付费了，因为你觉得它可能是随便生成的，就是有人为干预，也是比以前廉价了。&lt;/p&gt;
+&lt;p&gt;同样的，AI 可以生产视频/图片/代码。需要这些的人（你的老板）就会觉得你的成果不够值钱。&lt;/p&gt;
+&lt;p&gt;AI 做的游戏，也是一样，愿意付费的人只会更少。&lt;/p&gt;
+&lt;p&gt;发帖也是一样，我现在基本很少看脉脉，很少发帖回帖了，因为它充满了 AI 发的水贴。以前多少还是水军，现在全是脚本。&lt;/p&gt;
+&lt;p&gt;短视频平台现在 AI 生成的视频那么多，你还会经常刷经常看吗？&lt;/p&gt;
+&lt;p&gt;AI 不只是降低成本，同时还是在降低价值。哪怕它生成的东西质量高，只要是成本低，就不值得我去付费/付精力/付时间。&lt;/p&gt;
+&lt;p&gt;我觉得内容为主的平台会逐渐被 AI 搞死。。。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;在 AI 视频/出图刚兴起的时候可以割一波韭菜，然后就会变成廉价劳动，像送外卖一样 3 元一单。网络游戏运营商也有类似的操作（滚服，滚游戏）。大部分人反应过来之后，内心就会轻视这类产品，导致工作室老板和平台这两方逐渐做不下去。&lt;/p&gt;
+&lt;p&gt;最终就是资本家杀死了自己，虽然打工人先死。&lt;/p&gt;
+&lt;p&gt;AI 加速了生产，同时减少了产品的生命周期&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>AI 编程工具大家实际使用中哪个综合下来最好用？</title>
+      <link>https://www.v2ex.com/t/1210849</link>
+      <guid>v2ex-1210849</guid>
+      <pubDate>Thu, 07 May 2026 06:11:17 GMT</pubDate>
+      <description>&lt;p&gt;claudecode,codex,cursor ，通义灵码，Qoder 等等.....
+感觉很多测评的自媒体账号都是跟风随便乱说的，
+想问问大家实际使用整体体验下来哪个最好？
+因为我们实际使用肯定要考虑性价比，效率等等各个方面&lt;/p&gt;
 </description>
     </item>
   </channel>
