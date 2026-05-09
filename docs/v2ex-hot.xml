@@ -4,95 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 09 May 2026 07:22:03 GMT</lastBuildDate>
-    <item>
-      <title>高强度使用了半年 claude code 后，我终于无法忍受了，并且我发现了绝佳替代</title>
-      <link>https://www.v2ex.com/t/1211200</link>
-      <guid>v2ex-1211200</guid>
-      <pubDate>Fri, 08 May 2026 07:57:05 GMT</pubDate>
-      <description>&lt;h1&gt;直接上菜：&lt;a href=&quot;https://github.com/lsdefine/GenericAgent&quot; rel=&quot;nofollow&quot;&gt;GenericAgent&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/lsdefine/GenericAgent&quot; rel=&quot;nofollow&quot;&gt;https://github.com/lsdefine/GenericAgent&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;本人基本信息&lt;/strong&gt;：国内某 top3 的计算机博士在读，大模型方向。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最近对 cc 的使用情况&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/Bt7Xda2.png&quot;/&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我最近在 github trending 上关注了 &lt;strong&gt;GA&lt;/strong&gt; 这个项目，并&lt;strong&gt;高强度使用了一周多（完全接管我的科研+生活）&lt;/strong&gt;，然后我就&lt;strong&gt;卸载了 cc 、codex 和 openclaw&lt;/strong&gt;（但是感谢 cc 曾经在我的生命中出现过，不过 openclaw 你是真的垃圾啊）。。&lt;/p&gt;
-&lt;p&gt;那么有人问了，cc 那么屌，openclaw 被吹的那么神，有什么问题？
-我想但凡用过的人此时在心里都有答案了。。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;下文的数据来自 &lt;a href=&quot;https://arxiv.org/abs/2604.17091&quot; rel=&quot;nofollow&quot;&gt;arxiv.org/abs/2604.17091&lt;/a&gt;，也就是 &lt;strong&gt;GA 的技术报告&lt;/strong&gt;，里面有些 insights 我非常喜欢，而且我的风格也是&lt;strong&gt;用数据说话&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h2&gt;一、你的钱包顶得住吗？&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_1.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhT4j.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;打一个招呼，&lt;strong&gt;oc 要用 4w tokens ，cc 和 codex 也是 2w tokens 打底了&lt;/strong&gt;，真当我 token 不是花钱买的？&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_2.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhRYQ.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;在长程任务上，&lt;strong&gt;GA 能够用更少的预算（ 1/3 或者更少）获得一样甚至更好的效果&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_3.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhEGa.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;GA 有无敌的原生浏览器操作&lt;/strong&gt;，能用非常夸张的极低的预算（&lt;strong&gt;1/5 左右&lt;/strong&gt;）实现非常非常 nice 的网页搜索、浏览器操作（&lt;strong&gt;1-3 倍的成功率&lt;/strong&gt;）。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;插个题外话，我就是做 deepresearch 的，论文里选的 &lt;strong&gt;browsecamp 、webcanvas&lt;/strong&gt; 这些数据集是非常有挑战的，也给我打开新世界了 hh&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;最近看大家都在流行 claude code 的各种 web 插件，我的嘴角慢慢上扬。
-说实话，&lt;strong&gt;ga 的原生浏览器操作吊打所有的 web 插件&lt;/strong&gt;，不服来战（本人已服）。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;二、更好用的智能体一定能自进化&lt;/h2&gt;
-&lt;p&gt;这也是最近 hermes 风头正盛的原因。在这一点上，&lt;strong&gt;我认为 GA 做的更好&lt;/strong&gt;。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;不要谈参数自进化，因为我认为的自进化就是 &lt;strong&gt;agent 对错误经验的总结学习&lt;/strong&gt;，就像人的进化就是在直立行走之后能够制造和使用工具，而不是长出第六根手指。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_4.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhhyN.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;直接上结果，oc 就不谈了，纯垃圾。。看 codex 和 cc ，实际上由于这两者的定位（ coding ），所以&lt;strong&gt;他们是不会自主的总结重复的工作经验的&lt;/strong&gt;。如果你每次都让他们做一些崭新的项目，那当然没问题，但是你要是让他们去追踪股票，能够按你一句话帮你去网上填表，去做你日常做的操作，&lt;strong&gt;那他们每次探索的成本则是巨大的&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;GA 的自进化机制让 GA 得以越用越快，越用越方便&lt;/strong&gt;（最后甚至能到心领神会的地步。。）&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_5.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhUFf.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;依旧吊打 oc ，&lt;strong&gt;oc 赶紧下桌吧&lt;/strong&gt;。。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;三、好的智能体离不开记忆&lt;/h2&gt;
-&lt;p&gt;我知道大家这时候说了，&lt;strong&gt;LLM-Wiki 很吊，Evermemos 很吊，Mem0 很吊&lt;/strong&gt;，我装这些插件就能让我的智能体有记忆。&lt;/p&gt;
-&lt;p&gt;先不谈这几个插件到底真实性能怎么样，我作为一个看了很多 memory 论文的从事大模型的人来说，作为一个 agent 的 memory 框架：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;测 Locomo 、LongtermMem 这几个数据集就是不合适的！&lt;/strong&gt;
-现在的大模型的记忆&lt;strong&gt;不再是 user-centric&lt;/strong&gt; 了！现在我们需要的大模型记忆是 &lt;strong&gt;task-centric&lt;/strong&gt;，这两者有本质的区别。&lt;/p&gt;
-&lt;p&gt;所以，&lt;strong&gt;停止人云亦云吧&lt;/strong&gt;。。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我深扒了 GA 的记忆设计，&lt;strong&gt;其简洁性和有效性真的令人印象深刻&lt;/strong&gt;，但是在这里就不展开（如果大家感兴趣，我可能再开一篇帖子详细讲讲）。&lt;/p&gt;
-&lt;p&gt;我现在对 GA 的使用如图：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_6.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYhQne.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;有什么记不得的，直接问就好了。。太 tm 牛逼了&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;彩蛋&lt;/h2&gt;
-&lt;p&gt;另外，我是第一次在 V2EX 发帖，发现这图床都要买。。然后也让 GA 给我整了一个，&lt;strong&gt;就一句话&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_7.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYjJwP.png&quot;/&gt;
-&lt;img alt=&quot;pic_8.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYjKPa.png&quot;/&gt;
-&lt;img alt=&quot;pic_10.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYglEB.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;嘿嘿。。最后放一张 GA 自己的 skillhub 里的截图，&lt;strong&gt;懂的人自然知道干啥用的&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pic_9.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iili.io/BtYgT7e.png&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;写在最后&lt;/h2&gt;
-&lt;p&gt;还有很多没提到的，大家自己尝试就好了。当然 GA 也有很多让我不爽的地方，比如&lt;strong&gt;极其简陋的前端&lt;/strong&gt;，然后我就在 GA 的群里潜水，最后发现了，大概是&lt;strong&gt;开发者的个人风格就是毛坯房的风格&lt;/strong&gt;。。问他能不能给整好看点，他回答也简单：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;他说 &quot;你让 GA 给你做&quot;。。真的无敌了。。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;我不允许还有人不知道 GA ！！！！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果这个帖子有点热度，大家有要求的话，&lt;strong&gt;我可能会从专业的角度展开讲讲 GA 的技术实现方法&lt;/strong&gt;，太 tm 优雅了。。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 09 May 2026 08:55:38 GMT</lastBuildDate>
     <item>
       <title>大家有计划什么时候退休吗？</title>
       <link>https://www.v2ex.com/t/1211326</link>
       <guid>v2ex-1211326</guid>
       <pubDate>Sat, 09 May 2026 00:45:59 GMT</pubDate>
       <description>计划 45 岁攒够 100 万回老家开始退休生活，现在还差 130 万</description>
-    </item>
-    <item>
-      <title>观帖有感，多少钱才能躺平</title>
-      <link>https://www.v2ex.com/t/1211195</link>
-      <guid>v2ex-1211195</guid>
-      <pubDate>Fri, 08 May 2026 07:50:23 GMT</pubDate>
-      <description>&lt;p&gt;看到老哥 150 个，现在还在焦虑： &lt;a href=&quot;https://www.v2ex.com/t/1211187&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1211187&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;但是下面有人说可以躺了，你觉得多少钱能躺平&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>兄弟们你们加薪最低的比例是多少，有没有像我一样的小丑</title>
@@ -103,16 +21,21 @@
 </description>
     </item>
     <item>
-      <title>[求职/失业] 失业 3 年，前路在何方？</title>
-      <link>https://www.v2ex.com/t/1211187</link>
-      <guid>v2ex-1211187</guid>
-      <pubDate>Fri, 08 May 2026 07:30:46 GMT</pubDate>
-      <description>&lt;p&gt;3 年前这个时候领大礼包走人，之前在某外企做后台开发，考公好几年没考上，现在存款有 150 个，老家有房，单身，前路何方，求指点。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;在一二线求职，但不知道市场行情如何，而且空档期也很长，可能需要美化简历（知道不好，但为了求口饭吃），如果是这个选择，有没有什么好的建议？&lt;/li&gt;
-&lt;li&gt;继续考公。&lt;/li&gt;
-&lt;li&gt;转行干其它的，但目前不知道能干什么。&lt;/li&gt;
-&lt;/ol&gt;
+      <title>26 岁， 3 次考公失败、0 工作经验，现在年轻人的处境确实不容易</title>
+      <link>https://www.v2ex.com/t/1211458</link>
+      <guid>v2ex-1211458</guid>
+      <pubDate>Sat, 09 May 2026 06:23:15 GMT</pubDate>
+      <description>&lt;p&gt;说下我外甥吧，00 年的。&lt;/p&gt;
+&lt;p&gt;当年高考复读了两年，最后上了本科线。那时候年轻也比较叛逆，不太听家里人的建议，执意跑得远远的，去了新疆那边读了个二本，学的是网络相关专业。&lt;/p&gt;
+&lt;p&gt;24 年毕业回来后，应该也是知道现在行情不好，就开始考公了。毕竟还有个应届生身份，好像大四的时候就已经开始考了。&lt;/p&gt;
+&lt;p&gt;结果这一考，就考了 3 次。今年还是没上岸。&lt;/p&gt;
+&lt;p&gt;今年成绩出来后，本来五一都计划好来我这边玩的，后来也取消了。我都不敢想象他现在压力有多大。&lt;/p&gt;
+&lt;p&gt;现在也 26 岁了，还是 0 工作经验。相当于这么多年一直都在读书，后面又花了两年时间考公。专业估计也差不多荒废了，毕竟只是个普通二本。&lt;/p&gt;
+&lt;p&gt;他们老家是小镇上的，家里条件在镇上应该算中上吧。父母已经在市里买了房，不过还在镇上工作。他爸好像还是 67 年的，记得他爸 50 岁的时候就说想抱孙子了，那时候他确实也还小。&lt;/p&gt;
+&lt;p&gt;结果这一晃，他爸也快 60 了。&lt;/p&gt;
+&lt;p&gt;所以有时候我也会突然庆幸自己，毕竟没有生活在这个时代。早了 10 多年毕业，还赶上了互联网的末班车。&lt;/p&gt;
+&lt;p&gt;真的是：&lt;/p&gt;
+&lt;p&gt;时代的一粒沙，落在个人身上，就是一座山。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -430,205 +353,25 @@
 </description>
     </item>
     <item>
-      <title>[Token 抽奖 + 招推广人] 我们做了个 token 中转,先上来挨打,顺便送点额度</title>
-      <link>https://www.v2ex.com/t/1211197</link>
-      <guid>v2ex-1211197</guid>
-      <pubDate>Fri, 08 May 2026 07:55:37 GMT</pubDate>
-      <description>&lt;p&gt;各位 V 友好~&lt;/p&gt;
-&lt;p&gt;先自报家门:我们是 &lt;strong&gt;蒲云 AI&lt;/strong&gt;(&lt;a href=&quot;https://ai.tracup.com&quot; rel=&quot;nofollow&quot;&gt;ai.tracup.com&lt;/a&gt;)，一个 AI API 中转站。背后是做了 10 多年开发者服务平台的蒲公英 &lt;a href=&quot;https://www.pgyer.com&quot; rel=&quot;nofollow&quot;&gt;pgyer.com&lt;/a&gt; 团队——可能有些做 App 内测分发的 V 友用过。&lt;/p&gt;
-&lt;p&gt;为什么发这个帖?两件事:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;一是送点 token 额度(下面有抽奖规则，我知道最近 V 社被同类型话题冲击了，大家可以先看完再骂);&lt;/li&gt;
-&lt;li&gt;二是找一些愿意试用 + 反馈的人，如果觉得还行，欢迎加入我们的推广人计划。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;一、关于产品(尽量不吹)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;支持 OpenAI / Claude / Gemini 等 &lt;strong&gt;40 多家&lt;/strong&gt; 大模型供应商，主流模型基本都有&lt;/li&gt;
-&lt;li&gt;完全兼容官方 SDK ，改个 &lt;code&gt;base_url&lt;/code&gt; 就能跑，不需要重写代码&lt;/li&gt;
-&lt;li&gt;按量计费，1 块钱也能用，不强制套餐&lt;/li&gt;
-&lt;li&gt;稳定性我们「钱」能补拙，懂的都懂&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;不吹的部分:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;个别小众模型还在补，目前没法 100% 对齐官方&lt;/li&gt;
-&lt;li&gt;高峰期偶尔会有 1-2 秒额外延迟&lt;/li&gt;
-&lt;li&gt;客服只在工作日 9-22 点 1 小时内响应，夜间会慢一点&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;要是您的业务对稳定性要求极高(比如生产环境关键服务)，&lt;strong&gt;建议同时备一个备用平台&lt;/strong&gt;，这是真心话。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;二、抽奖规则(主菜)&lt;/h2&gt;
-&lt;p&gt;为了感谢愿意点进来看完的 V 友，搞个抽奖。&lt;/p&gt;
-&lt;h3&gt;🎁 奖池&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;奖项&lt;/th&gt;
-&lt;th&gt;名额&lt;/th&gt;
-&lt;th&gt;奖励&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;一等奖&lt;/td&gt;
-&lt;td&gt;1 名&lt;/td&gt;
-&lt;td&gt;100 元 token 额度&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;二等奖&lt;/td&gt;
-&lt;td&gt;3 名&lt;/td&gt;
-&lt;td&gt;50 元 token 额度&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;三等奖&lt;/td&gt;
-&lt;td&gt;10 名&lt;/td&gt;
-&lt;td&gt;30 元 token 额度&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;参与奖&lt;/td&gt;
-&lt;td&gt;所有认真回帖的 V 友&lt;/td&gt;
-&lt;td&gt;5 元体验金(不抽，直接给)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;📌 参与方式&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;回帖内容必须包含你的蒲云 AI 账号&lt;/strong&gt;，因为我要给大家发 Token 用，到账时间:&lt;strong&gt;5 月 11 号中午 12 点前&lt;/strong&gt;~&lt;/p&gt;
-&lt;p&gt;除了账号内容以外，回帖内容随意，但还是很真诚地希望您回点真东西，比如:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;您现在在用什么 token 中转?有什么吐槽?&lt;/li&gt;
-&lt;li&gt;对蒲云 AI 有什么疑问?(我看到都会回)&lt;/li&gt;
-&lt;li&gt;您觉得一个理想的 token 中转该长什么样?&lt;/li&gt;
-&lt;li&gt;或者就是来盖楼的，留个&quot;参与&quot;也行(不会歧视)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;📅 开奖&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;报名截止时间&lt;/strong&gt;:&lt;code&gt;5 月 10 日 23:59&lt;/code&gt;（温馨提示:这一天是母亲节 ❤️）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;开奖时间&lt;/strong&gt;:&lt;code&gt;5 月 11 日中午 12 点前&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;开奖方式&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;一到三等奖依次以 5 月 8 日美股以下 14 支股票的收盘价(精确到分):&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;序号&lt;/th&gt;
-&lt;th&gt;股票&lt;/th&gt;
-&lt;th&gt;代码&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;特斯拉&lt;/td&gt;
-&lt;td&gt;TSLA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;苹果&lt;/td&gt;
-&lt;td&gt;AAPL&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;谷歌&lt;/td&gt;
-&lt;td&gt;GOOGL&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;微软&lt;/td&gt;
-&lt;td&gt;MSFT&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;英伟达&lt;/td&gt;
-&lt;td&gt;NVDA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;亚马逊&lt;/td&gt;
-&lt;td&gt;AMZN&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;Meta&lt;/td&gt;
-&lt;td&gt;META&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;奈飞&lt;/td&gt;
-&lt;td&gt;NFLX&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;阿里巴巴&lt;/td&gt;
-&lt;td&gt;BABA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;台积电&lt;/td&gt;
-&lt;td&gt;TSM&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;AMD&lt;/td&gt;
-&lt;td&gt;AMD&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12&lt;/td&gt;
-&lt;td&gt;英特尔&lt;/td&gt;
-&lt;td&gt;INTC&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13&lt;/td&gt;
-&lt;td&gt;百度&lt;/td&gt;
-&lt;td&gt;BIDU&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14&lt;/td&gt;
-&lt;td&gt;哔哩哔哩&lt;/td&gt;
-&lt;td&gt;BILI&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;计算公式:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;中奖编号 = (每支股票收盘价 × 100) mod N
-(N = 参与人数，已去重;余数为 0 则取 N)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;重复处理&lt;/strong&gt;:如果 14 个号码中出现重复，则该重复号码 +1 得奖;如果依然重复，再次 +1 ，直到不重复为止。&lt;/p&gt;
-&lt;h3&gt;⚠️ 防刷说明&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;同一账号只算一次有效回复&lt;/li&gt;
-&lt;li&gt;复制粘贴他人评论的，不参与抽奖，但参与奖也照发(我们不至于这么小气)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;三、推广人计划(可选，不感兴趣直接划过)&lt;/h2&gt;
-&lt;p&gt;如果您试用之后觉得这玩意还行，可以考虑加入我们的种子推广人计划。&lt;strong&gt;仅限前 30 位&lt;/strong&gt;，目前还有名额。&lt;/p&gt;
-&lt;h3&gt;待遇&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;首充返佣 &lt;strong&gt;20%&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;200 元 Token 额度&lt;/strong&gt;(签约就给)&lt;/li&gt;
-&lt;li&gt;直接对接运营同学(就是我)，有想法可以直接推动产品改动&lt;/li&gt;
-&lt;li&gt;不定期 Token 空投权益等&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;要求&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;真实使用过，不是冲返佣进来的&lt;/li&gt;
-&lt;li&gt;有自己的小渠道(博客、视频、微信群、朋友圈都行，&lt;strong&gt;真实就行，大小不重要&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;不做硬广、不刷单、不忽悠用户&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;申请入口&lt;/strong&gt;:&lt;a href=&quot;https://jsj.top/f/R0mtm8&quot; rel=&quot;nofollow&quot;&gt;https://jsj.top/f/R0mtm8&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;填表大约 10 分钟，我们 3 个工作日内审核回复。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;说在前面&lt;/strong&gt;:这个计划不是&quot;拉人头返佣&quot;的兼职，我们筛得比较严，主要是想找真心觉得产品 OK 的人。觉得不符合或者懒得填的，跳过没关系，&lt;strong&gt;不影响您参加抽奖&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;四、求拷打&lt;/h2&gt;
-&lt;p&gt;最后，真心求拷打。&lt;/p&gt;
-&lt;p&gt;V 站老哥们对中转站的弯弯绕绕都门儿清，如果您发现我们哪里写得不对、文档有坑，&lt;strong&gt;直接评论区开喷&lt;/strong&gt;，我全程蹲守，24 小时内回复每一条。&lt;/p&gt;
-&lt;p&gt;提一个被采纳的有效 bug 或建议，&lt;strong&gt;额外送 30 元额度&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;谢谢看到这里。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;Allen&lt;/strong&gt; · 蒲云 AI · 运营同学&lt;/p&gt;
-&lt;p&gt;微信:&lt;code&gt;SnVuN19HdQ==&lt;/code&gt;(有使用问题或者建议欢迎私聊)&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>小学生二年级的 [魔幻] 数学作业</title>
       <link>https://www.v2ex.com/t/1211285</link>
       <guid>v2ex-1211285</guid>
       <pubDate>Fri, 08 May 2026 13:44:34 GMT</pubDate>
       <description>某 app 小程序&lt;br /&gt;点赞、收藏、转发量&lt;br /&gt;请用算盘表示&lt;br /&gt;&lt;br /&gt;坐标深圳&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/6dlSps2.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/6dlSps2.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>五一期间认识的一个初中老师退休工资一个月 9000+，想去当老师了</title>
+      <link>https://www.v2ex.com/t/1211440</link>
+      <guid>v2ex-1211440</guid>
+      <pubDate>Sat, 09 May 2026 05:45:30 GMT</pubDate>
+      <description>五一期间认识的一个初中老师退休工资一个月 9000+，想去当老师了</description>
+    </item>
+    <item>
+      <title>无法接受自己的错误</title>
+      <link>https://www.v2ex.com/t/1211383</link>
+      <guid>v2ex-1211383</guid>
+      <pubDate>Sat, 09 May 2026 03:03:42 GMT</pubDate>
+      <description>最近看到一个出版社改错别字的视频，非常有趣。&lt;br /&gt;最有趣的地方在于人们（包括我自己）发现自己错了的时候的反应。&lt;br /&gt;&lt;br /&gt;先看错别字，以下词语里有错别字：&lt;br /&gt;&lt;br /&gt;披萨 &lt;br /&gt;被弄懵了 &lt;br /&gt;不知所踪 &lt;br /&gt;睡眼朦胧 &lt;br /&gt;山青水秀 &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;修改后，以下用字正确：&lt;br /&gt;&lt;br /&gt;比萨&lt;br /&gt;被弄蒙了&lt;br /&gt;不知所终&lt;br /&gt;睡眼蒙眬&lt;br /&gt;山清水秀&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;这个视频不得了，弹幕一大堆问号，评论区争论了几千条，其中很多人无法承认错误，能看出来他们的情绪与抵抗。&lt;br /&gt;其实这种现象在炒股论坛也很常见，例如雪球，可以看到很多人不肯承认错误、不肯接受事实。&lt;br /&gt;字写错了，问题不大，但投资的认知错了，是真的会亏钱。因此这种现象是非常值得重视的，学会修正自己的认知，百利而无一害。&lt;br /&gt;&lt;br /&gt;而想要修正自己的认知，第一步也是最难的一步，就是要愿意。这说来简单，但多数人意识不到这个问题，意识到了也一千一万个不愿意。想找理由找借口让自己逃离，不去面对错误，是非常容易的，很多人也是这样做的，而且会说 “我不是，我没有，从未发生过，不知道你在说什么！”</description>
     </item>
     <item>
       <title>老东家不发工资，投诉了社保局，要不要去签字</title>
@@ -638,13 +381,26 @@
       <description>之前的公司欠薪。投诉了社保、公积金。一审二审都打完，现在在走强制执行了。今天公积金中心打电话让我过去补缴公积金，公司已经把公积金补了。社保局之前打电话说不配合，让我过去签字移交稽核科，一直拖着没去。公积金我确定要去，但是社保局不知道去不去啊，五个月的社保，最低基数，让豆包算了一下，大概要补 2000+，退休后每个月能多拿 70-80 。大哥们出出主意啊！！</description>
     </item>
     <item>
-      <title>怎么续费京东 plus 划算</title>
-      <link>https://www.v2ex.com/t/1211340</link>
-      <guid>v2ex-1211340</guid>
-      <pubDate>Sat, 09 May 2026 01:37:00 GMT</pubDate>
-      <description>&lt;p&gt;去海鲜市场搜了下，发现最低 30 块的都有，感觉坑很多啊&lt;/p&gt;
-&lt;p&gt;有没有比官方便宜又稳得渠道？&lt;/p&gt;
-&lt;p&gt;目前是 149-50=99 ，啥都不送&lt;/p&gt;
+      <title>这几天的美股，是不是让大家萌发了不上班的念头</title>
+      <link>https://www.v2ex.com/t/1211355</link>
+      <guid>v2ex-1211355</guid>
+      <pubDate>Sat, 09 May 2026 01:53:50 GMT</pubDate>
+      <description>这阵子，美股一顿涨，多少 v 友有不上班的念头了，确实跟之前 v 友说的似的，每次美股下跌就是给你加仓、定投的机会呀。v 友诚不欺我，感谢感谢。</description>
+    </item>
+    <item>
+      <title>老哥们同意这段话吗?在一个家族中第一个接触金融、股票、基金、债券、期货的人，看似是不务正业，实则是为整个家族完成了一场认知的提升</title>
+      <link>https://www.v2ex.com/t/1211422</link>
+      <guid>v2ex-1211422</guid>
+      <pubDate>Sat, 09 May 2026 04:25:03 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/EUVllDX.jpeg&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;原文：
+在一个家族中第一个接触金融、股票、基金、债券、期货的人，看似是不务正业，实则是为整个家族完成了一场认知的提升，
+这个不是赌博，更不是投机，而是选择成为资本流动的参与者，而非旁观者。
+劳动能让你存活，只有资本才能让你自由。
+可悲的是，很多人经常恐惧资本的风险，却坦然接受了通货膨胀和货币贬值以及意外事故和大病返贫的更大风险，多少人宁愿承受确定性的贫穷，也不敢面对不确定性的可能的财富。
+如果你是家族中第一个敢吃螃蟹的人，那么你的孤独和试探实则是整个家族财务史上的转折点，是打破传统致富模式的尝试。
+你建立的不只是一笔投资，而是一种心理遗传，是对复利的理解，是对风险的度量。
+这条路的价值不在于你第一个账户的数字是多少，而在于从此以后家族后代面对财富时眼里多了一种选择。&lt;/p&gt;
 </description>
     </item>
   </channel>
