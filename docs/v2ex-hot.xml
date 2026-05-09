@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 09 May 2026 05:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 07:22:03 GMT</lastBuildDate>
     <item>
       <title>高强度使用了半年 claude code 后，我终于无法忍受了，并且我发现了绝佳替代</title>
       <link>https://www.v2ex.com/t/1211200</link>
@@ -79,126 +79,11 @@
 </description>
     </item>
     <item>
-      <title>我发现如果有小汽车，出去玩真的太幸福了</title>
-      <link>https://www.v2ex.com/t/1211183</link>
-      <guid>v2ex-1211183</guid>
-      <pubDate>Fri, 08 May 2026 07:19:25 GMT</pubDate>
-      <description>&lt;p&gt;距离我毕业已经过去一年了，自从开始在外面租房，我就买了续航 30 公里的电动车来通勤；有电动车每天通勤时间都在 10 分钟内。&lt;/p&gt;
-&lt;p&gt;电动车给我带来了极大的幸福感，附近 10 公里的地方，我几乎都 ride 电动车去遍了。&lt;/p&gt;
-&lt;p&gt;5 月 1 日和 2 个朋友结伴开车去南京玩，是一台 2015 年的福特，除了我坐在后排能闻到明显的汽车味道的不适外，有汽车还是非常幸福。
-原因如下：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;杭州到南京，全程 200 多公里，3 个小时就到达，一路上聊聊天就到南京了。如果是乘坐公共交通，家到高铁站 50 分钟，高铁 1 小时多，南京南到景区（中山陵） 40 分钟。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;市区消费较高，去郊区洗脚,直接开车过去就可以了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;装备都可以放在车子上，不需要考虑行李寄存。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;除了车子在景区的停车费较高。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>AI 写代码越来越强，但它不知道我们上周修了什么 bug，把 Bug 重新引入生产环境了</title>
-      <link>https://www.v2ex.com/t/1211151</link>
-      <guid>v2ex-1211151</guid>
-      <pubDate>Fri, 08 May 2026 05:26:38 GMT</pubDate>
-      <description>&lt;p&gt;三个月前，我们花了两周时间修了一个 bug 。&lt;/p&gt;
-&lt;p&gt;用户账单偶尔会出现 ¥0.01 的误差。复现不稳定，线上偶发，客服一直在手动补差价。翻遍了日志，最后定位到一个经典问题：浮点数精度。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;0.1 + 0.2&lt;/code&gt; 在 IEEE 754 里不等于 &lt;code&gt;0.3&lt;/code&gt;，这个大家都听说过，但真的踩到还是很痛。&lt;/p&gt;
-&lt;p&gt;修复方案是把所有金额改成以「分」为单位存整数，展示时再除以 100 。改动不复杂，但涉及的地方很多，改完之后代码里到处是 &lt;code&gt;amount * 100&lt;/code&gt;、&lt;code&gt;Math.round()&lt;/code&gt;、&lt;code&gt;/ 100&lt;/code&gt;，看起来有点丑，但能用，bug 消失了。&lt;/p&gt;
-&lt;p&gt;然后上个月，我让 Agent 帮我重构结算模块，优化一下代码结构。&lt;/p&gt;
-&lt;p&gt;它看到那堆乘除，觉得多此一举，顺手给「简化」了，改回了直接用浮点数。逻辑更清晰，代码更短，单元测试全过。&lt;/p&gt;
-&lt;p&gt;那个 ¥0.01 的 bug 悄悄回来了。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;这件事让我开始认真想一个问题：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我们有代码审查，但我们需要「意图审查」。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;这不是 AI 写了烂代码&lt;/h2&gt;
-&lt;p&gt;大家讨论 AI 写代码，通常聚焦在输出质量上：架构合不合理、有没有 bug 、测试过了没有。&lt;/p&gt;
-&lt;p&gt;但我说的这个问题不一样。&lt;/p&gt;
-&lt;p&gt;Agent 那次重构质量是好的。逻辑清晰，可读性提升了，测试也没挂。它只是不知道「那堆看起来多余的乘除，是两周 debug 换来的」。&lt;/p&gt;
-&lt;p&gt;从它的角度看，&lt;code&gt;price * 100&lt;/code&gt; 然后 &lt;code&gt;/ 100&lt;/code&gt; 是纯粹的噪音——数学上等价，白白增加了阅读负担。优化掉，天经地义。&lt;/p&gt;
-&lt;p&gt;你想想一个工作了五六年的老工程师，碰到这段代码会怎么做？&lt;/p&gt;
-&lt;p&gt;大概率不会直接删。他会皱着眉头想：「这里为什么要转成整数？不可能是手滑写的，一定有原因。」然后去翻 commit ，或者去问写这段的人。&lt;/p&gt;
-&lt;p&gt;这叫&lt;strong&gt;对不熟悉代码的谦逊感&lt;/strong&gt;——被坑多了，知道看起来多余的代码往往不是真的多余。&lt;/p&gt;
-&lt;p&gt;AI Agent 没有这个。它被训练成「顺着干」，而不是「先问为什么」。代码看起来可以简化？简化它。逻辑看起来绕弯子？拉直它。它只会优化表面，不会追问历史。&lt;/p&gt;
-&lt;p&gt;新项目里这没问题，在一个有历史的真实代码库里，这会出事。&lt;/p&gt;
-&lt;h2&gt;现有的方案都差点意思&lt;/h2&gt;
-&lt;p&gt;每次我说起这个问题，大家都会推荐一些工具。我挨个想过，说说为什么都不够用：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;注释&lt;/strong&gt;：「// 不要修改这里，浮点精度问题」写上去当然有用。但你得先意识到这里需要警告，才会去写。当时修 bug 的人在想的是「终于修完了」，不是「三个月后的 Agent 可能会把这个改回去」。漏写的注释保护不了任何人。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://AGENTS.md&quot; rel=&quot;nofollow&quot;&gt;AGENTS.md&lt;/a&gt; / &lt;a href=&quot;http://CLAUDE.md&quot; rel=&quot;nofollow&quot;&gt;CLAUDE.md&lt;/a&gt;&lt;/strong&gt;：同理，你想到的禁忌才能写进去。但大多数坑是事后才知道是坑的，你没法提前把所有决策都整理成文档。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ADR / RFC&lt;/strong&gt;：门槛太高，大多数团队第一个季度之后就不维护了。就算维护着，也是给人看的文档，不是供 Agent 在改代码前按需查询的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Wiki / Notion / Confluence&lt;/strong&gt;：文档会和代码脱节。「金额统一用分存储」这件事，可能在某个内部文档里提了一句，但 Agent 不会在重构代码前主动去翻 Confluence ，就算翻了，也是一堆非结构化的文字，未必能命中。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PR 描述&lt;/strong&gt;：当时修 bug 的 PR 描述里可能写了原因，但埋在 GitHub 历史里，没人去翻，Agent 更不会主动去看。&lt;/p&gt;
-&lt;p&gt;每一个工具都是对真实问题的局部回应，但没有一个能在 Agent 动手之前，把「这里曾经踩过什么坑、为什么要这么写」这件事，可靠地送到它面前。&lt;/p&gt;
-&lt;h2&gt;我们缺的是「意图审查」&lt;/h2&gt;
-&lt;p&gt;现有的代码审查，回答的是：&lt;strong&gt;「这个变更实现得好不好？」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;看 diff ，查正确性、风格、测试覆盖率。这个流程很成熟，也很必要。&lt;/p&gt;
-&lt;p&gt;但代码审查解决不了另一个问题：&lt;strong&gt;「这个变更，在已有的历史背景下，方向对不对？」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这个问题需要审查者记住代码库的历史，记得这堆乘除是两周 debug 换来的，记得某个绕弯子的写法是填过坑之后留下的疤。大多数审查者没这个上下文，就算是原作者，三个月后也可能忘了当时为什么。&lt;/p&gt;
-&lt;p&gt;所以我觉得我们需要一层新的审查，叫&lt;strong&gt;意图审查&lt;/strong&gt;，发生在代码被改之前，而不是之后。&lt;/p&gt;
-&lt;p&gt;它问的是：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;这块代码有没有被踩过坑？当时怎么处理的？&lt;/li&gt;
-&lt;li&gt;看起来「多余」的写法，是不是刻意为之？&lt;/li&gt;
-&lt;li&gt;有没有哪些「优化」是被明确否定过的？&lt;/li&gt;
-&lt;li&gt;这里有哪些不能动的隐性约束？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;对人类工程师来说，这些审查以非正式的方式发生：发条消息、瞄一眼 commit 历史、和写那段代码的人聊三十秒。&lt;/p&gt;
-&lt;p&gt;对 AI Agent 来说，这根本不会发生。没有「去问问当时踩过坑的人」的等价操作。Agent 读当前代码，看起来可以优化，就优化了，历史上踩过的坑对它来说是不可见的。&lt;/p&gt;
-&lt;h2&gt;意图审查要怎么做&lt;/h2&gt;
-&lt;p&gt;要真的能用起来，得满足三点：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一，决策必须是结构化的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;「金额统一用分存储，避免浮点精度」这句话写在 Wiki 上供人阅读没问题。但 Agent 需要的是：决定了什么、为什么这么决定、涉及哪些文件、哪些操作是被明确禁止的。自由文本把这些结构藏起来了，Agent 每次都要重新解析一遍，还不一定能命中。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二，决策必须住在代码旁边。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Wiki 会漂移，Notion 会被遗忘，Slack 消息串会被淹没。唯一能和代码永远保持连接的是 git 本身。决策活在 git 里，就能跟着代码一起被 clone 、被 fork 、被带到三个月后还没接手过这块的人面前。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三，查询必须自动发生，在改代码之前。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果需要提醒 Agent 「先查一下历史决策」，它就不会查。这个步骤必须内嵌在正常工作流里，就像它在重构前会先 grep 符号定义一样，查历史的摩擦要低于直接动手的摩擦。&lt;/p&gt;
-&lt;h2&gt;我做了个工具&lt;/h2&gt;
-&lt;p&gt;我最近在开发一个叫 &lt;strong&gt;Mainline&lt;/strong&gt; 的东西，把团队决策以结构化记录的形式存进 git 本身，让 Agent 在改代码前可以查询。&lt;/p&gt;
-&lt;p&gt;每条「意图记录」长这样：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;决定了什么、为什么这么决定&lt;/li&gt;
-&lt;li&gt;考虑过哪些备选方案，为什么没选&lt;/li&gt;
-&lt;li&gt;识别出了哪些风险&lt;/li&gt;
-&lt;li&gt;涉及哪些文件，哪些操作是被明确禁止的&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如果当时修浮点 bug 的时候封存了一条意图记录，三个月后 Agent 重构结算模块，运行 &lt;code&gt;mainline context billing&lt;/code&gt;，就会看到：「金额统一用分存储，直接用浮点运算会导致 ¥0.01 偶发误差，已确认线上踩坑，禁止还原。」&lt;/p&gt;
-&lt;p&gt;那次「简化」大概率就不会发生了。&lt;/p&gt;
-&lt;p&gt;用了一个月，有几点出乎我意料：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;摩擦不在我以为的地方。&lt;/strong&gt; 我以为工程师会抗拒写这些记录，结果没有——因为 Agent 负责起草，工程师只是过目和调整。真正的摩擦在于：什么时候该封存一条记录？封太频繁是噪音，封太少会漏掉重要的坑。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;收益来得比预期晚。&lt;/strong&gt; 第一周感觉纯粹是额外负担。第三周开始出现「这段为什么要这么写？」的时刻，答案就在日志里。第六周，Agent 开始不用提示就把历史决策当作上下文来用。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;两个人协作比一个人用难得多。&lt;/strong&gt; 一个人用的时候，意图记录是写给自己的备忘。两个工程师同时工作时，它变成了一个协调协议——你得知道对方封存了什么，你们的方向有没有冲突。&lt;/p&gt;
-&lt;p&gt;工具是开源的（ Apache 2.0 ），目前小范围私测，地址在 &lt;a href=&quot;http://mainline.sh&quot; rel=&quot;nofollow&quot;&gt;mainline.sh&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/mainline-org/mainline&quot; rel=&quot;nofollow&quot;&gt;https://github.com/mainline-org/mainline&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;说回这件事本身&lt;/h2&gt;
-&lt;p&gt;AI Agent 现在在很多团队里写相当比例的新代码。代码审查的负担没有降低，反而在升高——因为审查 AI 写的代码认知成本更高，你没办法像问同事一样问它「你为什么这么改」。&lt;/p&gt;
-&lt;p&gt;现在的情况是，每次代码审查都得身兼两职：一边看实现，一边猜方向对不对。大多数时候，方向验证是静默失败的。审查者不知道那堆乘除是修 bug 留下来的，点了 approve ，坑就回来了。&lt;/p&gt;
-&lt;p&gt;这个问题靠更好的 prompt 解决不了，靠更大的上下文窗口解决不了，靠更强的模型也解决不了。&lt;/p&gt;
-&lt;p&gt;这是一个结构性问题：&lt;strong&gt;团队踩过的坑住在哪里？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;现在它住在人的脑子里、Slack 里、PR 描述里——Agent 不会主动去看的地方。&lt;/p&gt;
-&lt;p&gt;要让 AI 真正能在一个有历史的代码库里可靠地工作，我们需要把这些知识搬到它会可靠地去看的地方。对大多数团队来说，那就是 git 。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我们有代码审查。我们需要意图审查。&lt;/strong&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;你们有没有被 Agent 悄悄还原过某个 bug 修复？现在是怎么防的？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>大家有计划什么时候退休吗？</title>
       <link>https://www.v2ex.com/t/1211326</link>
       <guid>v2ex-1211326</guid>
       <pubDate>Sat, 09 May 2026 00:45:59 GMT</pubDate>
       <description>计划 45 岁攒够 100 万回老家开始退休生活，现在还差 130 万</description>
-    </item>
-    <item>
-      <title>吐槽一下，没帮老家的同族侄子安排成工作，被嫌弃了。。。大家吸取教训啊</title>
-      <link>https://www.v2ex.com/t/1211157</link>
-      <guid>v2ex-1211157</guid>
-      <pubDate>Fri, 08 May 2026 05:57:28 GMT</pubDate>
-      <description>五一有事回老家，碰到这个堂哥感觉对自己态度冷淡，一开始还一头雾水后来恍然大悟。&lt;br /&gt;&lt;br /&gt;两年前这个好久没联系的堂哥（他爷爷跟我爷爷是兄弟）突然打电话给我说想让他儿子进我公司，估计听说公司还不错，当时我是个领导也确实有机会内推，就让这个堂侄联系我把简历发过来，结果发过来一看是大专，公司当时要求最低本科，所以跟他说明情况，也能感觉出来他不太高兴。我自己感觉虽然没帮成忙但也不亏欠他们，所以没当回事。&lt;br /&gt;&lt;br /&gt;当时想想自己处理的还是不够圆滑，应该假装给他说已经退给人力了，过两天再说人力没审核通过。做技术久了人情世故这一块欠缺。</description>
     </item>
     <item>
       <title>观帖有感，多少钱才能躺平</title>
@@ -207,6 +92,14 @@
       <pubDate>Fri, 08 May 2026 07:50:23 GMT</pubDate>
       <description>&lt;p&gt;看到老哥 150 个，现在还在焦虑： &lt;a href=&quot;https://www.v2ex.com/t/1211187&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1211187&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;但是下面有人说可以躺了，你觉得多少钱能躺平&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>兄弟们你们加薪最低的比例是多少，有没有像我一样的小丑</title>
+      <link>https://www.v2ex.com/t/1211380</link>
+      <guid>v2ex-1211380</guid>
+      <pubDate>Sat, 09 May 2026 02:57:12 GMT</pubDate>
+      <description>&lt;p&gt;绩优，加薪 4%&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -537,14 +430,6 @@
 </description>
     </item>
     <item>
-      <title>兄弟们你们加薪最低的比例是多少，有没有像我一样的小丑</title>
-      <link>https://www.v2ex.com/t/1211380</link>
-      <guid>v2ex-1211380</guid>
-      <pubDate>Sat, 09 May 2026 02:57:12 GMT</pubDate>
-      <description>&lt;p&gt;绩优，加薪 4%&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>[Token 抽奖 + 招推广人] 我们做了个 token 中转,先上来挨打,顺便送点额度</title>
       <link>https://www.v2ex.com/t/1211197</link>
       <guid>v2ex-1211197</guid>
@@ -736,6 +621,30 @@
 &lt;hr/&gt;
 &lt;p&gt;&lt;strong&gt;Allen&lt;/strong&gt; · 蒲云 AI · 运营同学&lt;/p&gt;
 &lt;p&gt;微信:&lt;code&gt;SnVuN19HdQ==&lt;/code&gt;(有使用问题或者建议欢迎私聊)&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>小学生二年级的 [魔幻] 数学作业</title>
+      <link>https://www.v2ex.com/t/1211285</link>
+      <guid>v2ex-1211285</guid>
+      <pubDate>Fri, 08 May 2026 13:44:34 GMT</pubDate>
+      <description>某 app 小程序&lt;br /&gt;点赞、收藏、转发量&lt;br /&gt;请用算盘表示&lt;br /&gt;&lt;br /&gt;坐标深圳&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/6dlSps2.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/6dlSps2.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>老东家不发工资，投诉了社保局，要不要去签字</title>
+      <link>https://www.v2ex.com/t/1211350</link>
+      <guid>v2ex-1211350</guid>
+      <pubDate>Sat, 09 May 2026 01:46:23 GMT</pubDate>
+      <description>之前的公司欠薪。投诉了社保、公积金。一审二审都打完，现在在走强制执行了。今天公积金中心打电话让我过去补缴公积金，公司已经把公积金补了。社保局之前打电话说不配合，让我过去签字移交稽核科，一直拖着没去。公积金我确定要去，但是社保局不知道去不去啊，五个月的社保，最低基数，让豆包算了一下，大概要补 2000+，退休后每个月能多拿 70-80 。大哥们出出主意啊！！</description>
+    </item>
+    <item>
+      <title>怎么续费京东 plus 划算</title>
+      <link>https://www.v2ex.com/t/1211340</link>
+      <guid>v2ex-1211340</guid>
+      <pubDate>Sat, 09 May 2026 01:37:00 GMT</pubDate>
+      <description>&lt;p&gt;去海鲜市场搜了下，发现最低 30 块的都有，感觉坑很多啊&lt;/p&gt;
+&lt;p&gt;有没有比官方便宜又稳得渠道？&lt;/p&gt;
+&lt;p&gt;目前是 149-50=99 ，啥都不送&lt;/p&gt;
 </description>
     </item>
   </channel>
