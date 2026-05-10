@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 10 May 2026 10:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 11:41:05 GMT</lastBuildDate>
     <item>
       <title>自用 Codex 站</title>
       <link>https://www.v2ex.com/t/1211578</link>
@@ -66,6 +66,13 @@
 </description>
     </item>
     <item>
+      <title>女朋友怀孕了，要还是不要</title>
+      <link>https://www.v2ex.com/t/1211648</link>
+      <guid>v2ex-1211648</guid>
+      <pubDate>Sun, 10 May 2026 09:17:54 GMT</pubDate>
+      <description>我们在四川的一个四线小城市上班，一起工作了四年多，现在在一起 1 年多了，我 28 岁，她，前几天她大姨妈一直没来，用验孕棒验两条杠，我们都是单亲家庭，也是比较内向的人，能在一起离不开长时间的一起工作，我们性格挺合得来，在一起以后基本上都黏在一起，现在主要有以下几点让我很纠结孩子的去或留&lt;br /&gt;&lt;br /&gt;1 、我们现在的状态很不错，在一起很开心，看了太多网上的案例，担心往后发展就会一地鸡毛&lt;br /&gt;2 、她胆子太小了，比如不敢去见我的家人甚至朋友，下班之后没人和她一起她就不敢出门等，我担心以后遇到事情的时候她没办法和我共度难关&lt;br /&gt;3 、她和我年龄的差距&lt;br /&gt;4 、她比较挑食，非常瘦，很多人看见她都会让她多吃点，我担心她的身体状况&lt;br /&gt;5 、刚还完房贷，手里没存款，还有 7W 左右的负债，每月到手 8K ，没钱办婚礼这些&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;他闺蜜今天陪她去医院去了，我现在还不知道她的想法，请教各位 Ver 的意见，是保持现状还是往前迈一步把孩子留下来</description>
+    </item>
+    <item>
       <title>我就想知道 2026 年失业的都是哪些人？我 1 月 8 日失业的</title>
       <link>https://www.v2ex.com/t/1211582</link>
       <guid>v2ex-1211582</guid>
@@ -85,16 +92,6 @@
       <guid>v2ex-1211600</guid>
       <pubDate>Sun, 10 May 2026 03:12:23 GMT</pubDate>
       <description>搭了个 gpt 的中转站，主要自用顺便回点血&lt;br /&gt;&lt;br /&gt;目前主要是买了 10 多个 plus 号做号池，一个月成本大概三四百，一个人用有点贵所以放出来回点血，有需要的朋友可以加入一起使用&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://qimengai.top&quot; rel=&quot;nofollow noopener&quot;&gt;https://qimengai.top&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;qq 群：1079403496&lt;br /&gt;&lt;br /&gt;前 10 位加群的朋友赠送 10 刀体验卡</description>
-    </item>
-    <item>
-      <title>上海电信同城宽带也存在上传达量限速？</title>
-      <link>https://www.v2ex.com/t/1211613</link>
-      <guid>v2ex-1211613</guid>
-      <pubDate>Sun, 10 May 2026 04:49:57 GMT</pubDate>
-      <description>&lt;p&gt;上海电信十全十美 169 套餐，1000/100.和一路 200/30 的副宽带，部署两地，两地直线距离相距 5 公里，一个区，先说一下需求，主要目的是拉取副宽带部署的摄像头流，两地的宽带都在一个 bras 下，两地都有公网，均可以播到 255.255.0.0 的公网段，使用 wireguard 组网，稳定用了好几个月，月流量起码 5T 以上，带宽均可以跑到 5mb 左右。&lt;/p&gt;
-&lt;p&gt;问题出现在 &lt;a href=&quot;https://img.cdn1.vip/i/6a000b67be8fa_1778387815.webp&quot; rel=&quot;nofollow&quot;&gt;https://img.cdn1.vip/i/6a000b67be8fa_1778387815.webp&lt;/a&gt; ，这个时间 2026.5.7 23:00 。wg 的组网速度下降到 1.5mb 。期间用 iperf3 测速，速度达标，丢包起飞。
-做过的尝试，测速肯定都是正常的，因为有白名单，将 wg 对端域名改成 speedtest ，无效，改成 tcp 协议的组网软件，Easytier ，延迟爆炸 1000ms ，还是限速在 1.5mb 下，观察发现副宽带的公网 ip 池，变成 180.165 了。之前还是 116 ，而且拨号时间重置了，改两个 bras 也是 180.165 这个段，是不是进限速池了/理论上监控传输应该是没啥问题。哎头疼。请问是电信存在限速，那为什么之前用了很久也没事，难不成是电信的限速误判？&lt;/p&gt;
-</description>
     </item>
   </channel>
 </rss>
