@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 10 May 2026 14:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 15:28:43 GMT</lastBuildDate>
     <item>
       <title>自用 Codex 站</title>
       <link>https://www.v2ex.com/t/1211578</link>
@@ -46,14 +46,6 @@
       <description>打算自组一 AI 主机，用于本地 llm 。 可用于 kiro IDE 的，gitlab duo 。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;可行性有多大，能否代替订阅的那些 ai 服务？&lt;br /&gt;&lt;br /&gt;配置有没有推荐的，各 AI 行家请出手相助。</description>
     </item>
     <item>
-      <title>HyperAPI 中转站继续送福利，留邮箱发 10$兑换码</title>
-      <link>https://www.v2ex.com/t/1211550</link>
-      <guid>v2ex-1211550</guid>
-      <pubDate>Sat, 09 May 2026 14:21:44 GMT</pubDate>
-      <description>&lt;p&gt;纯 gpt5.5, 注册即有 5$额度，套餐低至 0.1 倍率， 欢迎体验： &lt;a href=&quot;https://hyperapi.cc&quot; rel=&quot;nofollow&quot;&gt;https://hyperapi.cc&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>女朋友怀孕了，要还是不要</title>
       <link>https://www.v2ex.com/t/1211648</link>
       <guid>v2ex-1211648</guid>
@@ -90,19 +82,32 @@
 </description>
     </item>
     <item>
-      <title>搭了个 gpt 的中转站，主要自用顺便回点血</title>
-      <link>https://www.v2ex.com/t/1211600</link>
-      <guid>v2ex-1211600</guid>
-      <pubDate>Sun, 10 May 2026 03:12:23 GMT</pubDate>
-      <description>搭了个 gpt 的中转站，主要自用顺便回点血&lt;br /&gt;&lt;br /&gt;目前主要是买了 10 多个 plus 号做号池，一个月成本大概三四百，一个人用有点贵所以放出来回点血，有需要的朋友可以加入一起使用&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://qimengai.top&quot; rel=&quot;nofollow noopener&quot;&gt;https://qimengai.top&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;qq 群：1079403496&lt;br /&gt;&lt;br /&gt;前 10 位加群的朋友赠送 10 刀体验卡</description>
+      <title>安卓 17 没人讨论吗？要出 PC 桌面模式了</title>
+      <link>https://www.v2ex.com/t/1211669</link>
+      <guid>v2ex-1211669</guid>
+      <pubDate>Sun, 10 May 2026 12:07:32 GMT</pubDate>
+      <description>&lt;p&gt;以后折叠屏安卓可以做不少事情了。
+远程桌面到刷系统，代替现有轻薄笔记本的部分功能。
+加上一线通，处理本地的部分工作，娱乐视频也不错。
+原生 linux ，超长的待机。
+感觉是一次很大的功能和版本升级。&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>想买车 阿维塔 06 有劝退的么</title>
-      <link>https://www.v2ex.com/t/1211611</link>
-      <guid>v2ex-1211611</guid>
-      <pubDate>Sun, 10 May 2026 04:31:05 GMT</pubDate>
-      <description>&lt;p&gt;和媳妇觉得阿维塔 06max 不错，纯电，原创设计、前排双零重力、华为智驾。现在价钱也相对便宜不少了，有了解的 v 友吗？担心点就是网上说 小毛病多、车机稍微有点卡？阿维塔的售后。还有路上这个牌子确实比较少见&lt;/p&gt;
+      <title>大家的自建 Blog 都是用的什么域名？</title>
+      <link>https://www.v2ex.com/t/1211642</link>
+      <guid>v2ex-1211642</guid>
+      <pubDate>Sun, 10 May 2026 08:44:03 GMT</pubDate>
+      <description>&lt;p&gt;我目前知道 github &lt;a href=&quot;http://有免费的.io&quot; rel=&quot;nofollow&quot;&gt;有免费的.io&lt;/a&gt;  cf 有免费的.dev&lt;/p&gt;
+&lt;p&gt;想看看各位大佬们用的哪些域名后缀来搭博客&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>Deekseek v4 真不错，一天时间写了一个 rust 的 trojan 的服务端</title>
+      <link>https://www.v2ex.com/t/1211677</link>
+      <guid>v2ex-1211677</guid>
+      <pubDate>Sun, 10 May 2026 12:49:01 GMT</pubDate>
+      <description>flash 就很好了，pro 除了慢，暂时没看出优点。&lt;br /&gt;如题 trojan rust  grpc ，又快又稳，之前一直用的大佬写的 go 版 ws 协议，5 年了，稍微慢点也很稳，想想不如自己手搓一个。&lt;br /&gt;rust 0 基础，8 小时，花了 5 块不到，又快又稳。&lt;br /&gt;配上年初抢的，很多人看不上 19.9 一年的的搬瓦工，晚点 8 点半，油管 2k60 帧，带宽跑到 120MB 。</description>
     </item>
   </channel>
 </rss>
