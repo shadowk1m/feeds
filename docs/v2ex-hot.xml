@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 10 May 2026 11:41:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 12:53:16 GMT</lastBuildDate>
     <item>
       <title>自用 Codex 站</title>
       <link>https://www.v2ex.com/t/1211578</link>
@@ -80,11 +80,14 @@
       <description>降薪调岗或者自己离职让我选</description>
     </item>
     <item>
-      <title>家庭是否需要一个 ERP 系统来管理夫妻财产和家庭支出</title>
-      <link>https://www.v2ex.com/t/1211536</link>
-      <guid>v2ex-1211536</guid>
-      <pubDate>Sat, 09 May 2026 12:09:29 GMT</pubDate>
-      <description>家庭的所有开销都能像公司一样走流程化报销 是不是能让各项开销透明化 显著减少无用支出</description>
+      <title>上海电信同城宽带也存在上传达量限速？</title>
+      <link>https://www.v2ex.com/t/1211613</link>
+      <guid>v2ex-1211613</guid>
+      <pubDate>Sun, 10 May 2026 04:49:57 GMT</pubDate>
+      <description>&lt;p&gt;上海电信十全十美 169 套餐，1000/100.和一路 200/30 的副宽带，部署两地，两地直线距离相距 5 公里，一个区，先说一下需求，主要目的是拉取副宽带部署的摄像头流，两地的宽带都在一个 bras 下，两地都有公网，均可以播到 255.255.0.0 的公网段，使用 wireguard 组网，稳定用了好几个月，月流量起码 5T 以上，带宽均可以跑到 5mb 左右。&lt;/p&gt;
+&lt;p&gt;问题出现在 &lt;a href=&quot;https://img.cdn1.vip/i/6a000b67be8fa_1778387815.webp&quot; rel=&quot;nofollow&quot;&gt;https://img.cdn1.vip/i/6a000b67be8fa_1778387815.webp&lt;/a&gt; ，这个时间 2026.5.7 23:00 。wg 的组网速度下降到 1.5mb 。期间用 iperf3 测速，速度达标，丢包起飞。
+做过的尝试，测速肯定都是正常的，因为有白名单，将 wg 对端域名改成 speedtest ，无效，改成 tcp 协议的组网软件，Easytier ，延迟爆炸 1000ms ，还是限速在 1.5mb 下，观察发现副宽带的公网 ip 池，变成 180.165 了。之前还是 116 ，而且拨号时间重置了，改两个 bras 也是 180.165 这个段，是不是进限速池了/理论上监控传输应该是没啥问题。哎头疼。请问是电信存在限速，那为什么之前用了很久也没事，难不成是电信的限速误判？&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>搭了个 gpt 的中转站，主要自用顺便回点血</title>
@@ -92,6 +95,14 @@
       <guid>v2ex-1211600</guid>
       <pubDate>Sun, 10 May 2026 03:12:23 GMT</pubDate>
       <description>搭了个 gpt 的中转站，主要自用顺便回点血&lt;br /&gt;&lt;br /&gt;目前主要是买了 10 多个 plus 号做号池，一个月成本大概三四百，一个人用有点贵所以放出来回点血，有需要的朋友可以加入一起使用&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://qimengai.top&quot; rel=&quot;nofollow noopener&quot;&gt;https://qimengai.top&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;qq 群：1079403496&lt;br /&gt;&lt;br /&gt;前 10 位加群的朋友赠送 10 刀体验卡</description>
+    </item>
+    <item>
+      <title>想买车 阿维塔 06 有劝退的么</title>
+      <link>https://www.v2ex.com/t/1211611</link>
+      <guid>v2ex-1211611</guid>
+      <pubDate>Sun, 10 May 2026 04:31:05 GMT</pubDate>
+      <description>&lt;p&gt;和媳妇觉得阿维塔 06max 不错，纯电，原创设计、前排双零重力、华为智驾。现在价钱也相对便宜不少了，有了解的 v 友吗？担心点就是网上说 小毛病多、车机稍微有点卡？阿维塔的售后。还有路上这个牌子确实比较少见&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
