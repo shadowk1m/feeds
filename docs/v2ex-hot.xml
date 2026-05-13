@@ -4,29 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 13 May 2026 02:04:50 GMT</lastBuildDate>
-    <item>
-      <title>被多梦困扰的十几年</title>
-      <link>https://www.v2ex.com/t/1212140</link>
-      <guid>v2ex-1212140</guid>
-      <pubDate>Tue, 12 May 2026 05:52:58 GMT</pubDate>
-      <description>&lt;p&gt;今年 23 岁，从我记事开始，每天晚上睡觉都会做好几个梦，最少也是三个起步。
-梦里有各种维度、各种场景：异世界探险、年老后的生活，还有各种乱七八糟、无厘头的剧情。
-早上醒来，最少也能记住一两个。有时候普通的梦还好，最怕遇到被追赶、s 人，或是各种感官体验特别真实清晰的场景。
-这种梦醒来之后会特别累，感觉跟没睡一样。身边朋友总说自己从来不做梦，我都完全体会不到不做梦睡醒是什么状态。
-之前也喝过半年中药调理，一点作用都没有。
-但有时候又会有点期待晚上会做什么梦，像开启一场未知冒险一样。
-很好奇有没有和我一样的人，大家都是怎么缓解、调整这种状态的？
-除此之外，我总觉得自己的大脑过度活跃，很难真正静下心来。只要开始放空想象，脑海里浮现的场景细节满满，真实感极强，如同亲身置身其中一般。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>老妈想买个平板看看视频，我对平板也不是很懂，希望大家推荐一下，二手的也行</title>
-      <link>https://www.v2ex.com/t/1212075</link>
-      <guid>v2ex-1212075</guid>
-      <pubDate>Tue, 12 May 2026 02:14:14 GMT</pubDate>
-      <description>老妈想买个平板看看视频，我对平板也不是很懂，希望大家推荐一下，二手的也行</description>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 05:59:36 GMT</lastBuildDate>
     <item>
       <title>我身边同事也在用的满血中转 codex ：发放福利分组名额 数量有限，先到先得</title>
       <link>https://www.v2ex.com/t/1212296</link>
@@ -66,23 +44,116 @@ rules:
 </description>
     </item>
     <item>
-      <title>感觉 AI Coding 比古法编程累多了</title>
-      <link>https://www.v2ex.com/t/1212128</link>
-      <guid>v2ex-1212128</guid>
-      <pubDate>Tue, 12 May 2026 04:54:21 GMT</pubDate>
-      <description>&lt;p&gt;上午的一个需求排期，本来评估的 5 天，产品一句：“这个用 AI 几个小时就能生成吧”，排期当场被砍到 2 天。&lt;/p&gt;
-&lt;p&gt;有了 AI 开发确实是快了，但问题也变多了。如：边界、权限、脏数据、线上兼容...... 最后还是得靠人来兜底。&lt;/p&gt;
-&lt;p&gt;之前用 cc opus4.6 + codex gpt5.5 ，cc 负责做，codex 负责审核，还勉强能顶住，现在不让用了，统一采购了 qoder + 百炼 coding plan (qwen3.5-plus)，用起来真的一言难尽......&lt;/p&gt;
-&lt;p&gt;从古法编程进化到 AI 分析需求、架构设计、生成代码、review 、AI 测试和上线，到现在前端、后端、移动端一个人包圆，感觉工作比之前累多了。&lt;/p&gt;
-&lt;p&gt;大家有没有这种感觉呢？&lt;/p&gt;
+      <title>初来 v 站福利多多，注册就送 30$余额，需要中转的可以薅薅</title>
+      <link>https://www.v2ex.com/t/1212358</link>
+      <guid>v2ex-1212358</guid>
+      <pubDate>Wed, 13 May 2026 03:08:49 GMT</pubDate>
+      <description>&lt;p&gt;小站稳定运营，满血 gpt plus 号池，开通五种套餐订阅：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;套餐名&lt;/th&gt;
+&lt;th&gt;价格&lt;/th&gt;
+&lt;th&gt;余额&lt;/th&gt;
+&lt;th&gt;日限额&lt;/th&gt;
+&lt;th&gt;汇率&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;日卡&lt;/td&gt;
+&lt;td&gt;3 元&lt;/td&gt;
+&lt;td&gt;50 刀&lt;/td&gt;
+&lt;td&gt;日限额 50&lt;/td&gt;
+&lt;td&gt;3/50=0.06&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;周卡&lt;/td&gt;
+&lt;td&gt;19 元&lt;/td&gt;
+&lt;td&gt;400 刀&lt;/td&gt;
+&lt;td&gt;日限额 100&lt;/td&gt;
+&lt;td&gt;20/400=0.05&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;月卡&lt;/td&gt;
+&lt;td&gt;49 元&lt;/td&gt;
+&lt;td&gt;1200 刀&lt;/td&gt;
+&lt;td&gt;日限额 200&lt;/td&gt;
+&lt;td&gt;49/1200=0.04&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;月卡（大杯）&lt;/td&gt;
+&lt;td&gt;89 元&lt;/td&gt;
+&lt;td&gt;3000 刀&lt;/td&gt;
+&lt;td&gt;日限额 400&lt;/td&gt;
+&lt;td&gt;89/3000=0.03&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;月卡（超大杯）&lt;/td&gt;
+&lt;td&gt;199 元&lt;/td&gt;
+&lt;td&gt;8888 刀&lt;/td&gt;
+&lt;td&gt;日限额 888&lt;/td&gt;
+&lt;td&gt;199/8888=0.0223&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;blockquote&gt;
+&lt;p&gt;V 站用户专属福利：新用户注册即赠送$6.6 ，在本帖回复注册邮箱，即可免费再送$23.4 余额！（送了的我会在评论区回复）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;欢迎加入 q 群：1092067247
+群中已经 150+人啦，初来 v 社，放点福利
+主站： &lt;a href=&quot;https://api.xiaoxin.best/home&quot; rel=&quot;nofollow&quot;&gt;https://api.xiaoxin.best/home&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>失业 3 个月后第一次摆摊，记录一下</title>
-      <link>https://www.v2ex.com/t/1212110</link>
-      <guid>v2ex-1212110</guid>
-      <pubDate>Tue, 12 May 2026 03:27:40 GMT</pubDate>
-      <description>年初被裁员，以前觉得上班没意思，谁知道接下来就是找工作接连受挫，现在好了变成无业游民了。&lt;br /&gt;&lt;br /&gt;今天是摆摊第一天卖文玩核桃，来 V2 跟大家唠唠。&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/yLRt0o5.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/yLRt0o5.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;摆摊前其实有点忐忑，有点不好意思，但是把摊子摆开后觉得也没啥，坐标在通州某公园旁边，好多遛弯的大爷大妈，刚支开摊就围上来好几个大妈，她们爱凑热闹但是不买。&lt;br /&gt;&lt;br /&gt;最开始基本都是围观，也有大爷过来问价格，但是没人买。其实我核桃卖的挺便宜，因为核桃是自己家的，能卖出去就不亏，核桃配对一般，主打一个便宜，后来调整定价 10 元起。&lt;br /&gt;&lt;br /&gt;半个小时候终于开张了！因为我卖的便宜阿姨怕是假的，刚好旁边有玩核桃的大爷帮着给她看，这才成交了第一单，入账 10 元。&lt;br /&gt;&lt;br /&gt;其实北京大爷大妈挺爱凑热闹的，他们不买也会和你聊天，也有大妈提醒我说附近有城管，管的很严会罚款，让我见了城管说点好话。&lt;br /&gt;果然不到一个小时城管来了，好像是社工没穿制服，也没说啥只是让我把摊子收了，推荐我去哪哪能摆，但都是收费的地方。&lt;br /&gt;&lt;br /&gt;收摊回家喽。&lt;br /&gt;&lt;br /&gt;首日摆摊心得：原来摆摊很简单。</description>
+      <title>给 V2EX 加了个「主题关键词屏蔽」，大家不用天天看中转站广告了</title>
+      <link>https://www.v2ex.com/t/1212300</link>
+      <guid>v2ex-1212300</guid>
+      <pubDate>Wed, 13 May 2026 00:35:53 GMT</pubDate>
+      <description>&lt;p&gt;看到几个帖子&lt;a href=&quot;https://www.v2ex.com/t/1212032&quot; rel=&quot;nofollow&quot;&gt;吐槽首页全是各种中转站的推广&lt;/a&gt;，说实话我也忍了很久了。每天打开 V2EX ，首页靠前几条就是“机场推荐”、“XXX 中转站”。这些帖子发得还特别勤，今天发明天发，换个标题继续发。&lt;/p&gt;
+&lt;p&gt;所以给 &lt;a href=&quot;https://chromewebstore.google.com/detail/v2ex-polish/onnepejgdiojhiflfoemillegpgpabdm&quot; rel=&quot;nofollow&quot;&gt;V2EX Polish&lt;/a&gt; 加了一个主题屏蔽功能，你可以自己定义关键词和规则，匹配到的主题直接隐藏。&lt;/p&gt;
+&lt;h2&gt;怎么用&lt;/h2&gt;
+&lt;p&gt;打开插件的设置页，找到「主题屏蔽」这块，有两个模式可以选。&lt;/p&gt;
+&lt;p&gt;简单模式就是填关键词，一行一个。比如你填上「中转站」，首页、节点页、热议列表里所有标题带这三个字的帖子就自动没了。也可以直接屏蔽某个节点，比如把 promotions （推广节点）整个屏蔽掉，这个节点下面的帖子一个都不会出现。&lt;/p&gt;
+&lt;p&gt;被隐藏的帖子会在列表顶部显示一行「已隐藏 N 条主题」，点一下「显示」就能恢复，不会误杀之后找不回来。&lt;/p&gt;
+&lt;p&gt;高级模式适合更精细的需求，可以配 AND 关系 —— 比如「标题包含『机场』且 发布在推广节点」才屏蔽。也支持正则表达式，会玩的话可以写很灵活的匹配规则。&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;
+&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/OY3Zstu.png&quot;/&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/dqeOiHU.png&quot;/&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2&gt;与 V2EX 原生的节点屏蔽区别&lt;/h2&gt;
+&lt;p&gt;官方的节点屏蔽功能是一刀切的，比如你把分享节点屏蔽了，这个节点下面所有帖子都消失，包括你想看的正经分享和干货。&lt;/p&gt;
+&lt;p&gt;这个插件的屏蔽是关键词粒度的。你可以只屏蔽推广节点下标题带「中转站」「机场」的帖子，同一个节点下的其他内容照常显示，不会误伤你想看的东西。&lt;/p&gt;
+&lt;h2&gt;顺便说一下：&lt;/h2&gt;
+&lt;p&gt;如果你觉得 V2EX Polish 不错，去商店写个好评就行，&lt;a href=&quot;https://v2p.leoku.dev/support&quot; rel=&quot;nofollow&quot;&gt;请我喝杯咖啡&lt;/a&gt;我更感激哈哈。&lt;/p&gt;
+&lt;p&gt;另外我最近在开发另一个浏览器插件，目前还在迭代中。给 V2EX Polish 打赏过的朋友，等新产品完善了我会单独发一波福利 😄。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>V 友们有什么长期慢性病吗，大家是怎么发现治疗的</title>
+      <link>https://www.v2ex.com/t/1212348</link>
+      <guid>v2ex-1212348</guid>
+      <pubDate>Wed, 13 May 2026 02:43:34 GMT</pubDate>
+      <description>&lt;p&gt;先说我，我是十几岁的时候就发现了，我胳膊肘，腋下，肚子上 老友硬皮，蜕皮，一直拖了十年了，后面有机会去上海华山医院看了下。 医生说我这是花斑疹， 给我开了 2 个药，配合尿素软霜用：  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;兰美抒 -  盐酸特比萘芬乳膏    10g&lt;/li&gt;
+&lt;li&gt;卓兰 - 硝酸舍他康唑乳膏   10g&lt;/li&gt;
+&lt;li&gt;尿素乳膏 30g&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;涂了 2 年了 基本上消完了，但是我不知道是不是落下来病根，不涂药的话 皮肤老干 也是老掉皮，所以我还坚持涂尿素乳&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>NET 已死</title>
+      <link>https://www.v2ex.com/t/1212251</link>
+      <guid>v2ex-1212251</guid>
+      <pubDate>Tue, 12 May 2026 12:46:11 GMT</pubDate>
+      <description>&lt;p&gt;这么好的语言 这么优雅的语言，在这片土地上 打不过 JAVA 唉&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>做了个赛博斗蛐蛐：让 AI 写坦克逻辑，然后看它上战场</title>
@@ -100,26 +171,28 @@ rules:
 </description>
     </item>
     <item>
-      <title>NET 已死</title>
-      <link>https://www.v2ex.com/t/1212251</link>
-      <guid>v2ex-1212251</guid>
-      <pubDate>Tue, 12 May 2026 12:46:11 GMT</pubDate>
-      <description>&lt;p&gt;这么好的语言 这么优雅的语言，在这片土地上 打不过 JAVA 唉&lt;/p&gt;
+      <title>原来追觅做了这么多，是想崩地方国资的钱。</title>
+      <link>https://www.v2ex.com/t/1212295</link>
+      <guid>v2ex-1212295</guid>
+      <pubDate>Wed, 13 May 2026 00:18:04 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://i.imgur.com/2h2Gfbw.png&quot; rel=&quot;nofollow&quot;&gt;https://i.imgur.com/2h2Gfbw.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;搞了很多和科技沾点边的东西，拿到三四线小城市就是一顿忽悠，这些地方的国资委正愁没有项目投资，是个辣鸡都要，追觅老板前期这些暴论也是为了博流量扩大知名度。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>前端，第一学历大专，年龄 26，只会 go， Python ， nodejs， react， vue 能在大城市混饭吃吗</title>
-      <link>https://www.v2ex.com/t/1212074</link>
-      <guid>v2ex-1212074</guid>
-      <pubDate>Tue, 12 May 2026 02:10:16 GMT</pubDate>
-      <description>如题，去年在深圳，目前跳槽坐标上海，薪资介于 1-2 之间，长期目标 1-2 个 w 的区间找 965 的混饭吃，没有考研考公想法，能混到 35 岁吗，人生目标就是一线城市周边（惠州，昆山）买一个 50 平左右的房子，不买车不结婚，有没有 v2 佬给我一点人生建议</description>
+      <title>目前仓位多少？心态咋样</title>
+      <link>https://www.v2ex.com/t/1212318</link>
+      <guid>v2ex-1212318</guid>
+      <pubDate>Wed, 13 May 2026 01:35:10 GMT</pubDate>
+      <description>&lt;p&gt;目前 3 层仓位，有点恐高了。大伙今年收益多少，下一步准备怎么操作&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>体制内去医院看神经内科</title>
-      <link>https://www.v2ex.com/t/1212164</link>
-      <guid>v2ex-1212164</guid>
-      <pubDate>Tue, 12 May 2026 06:27:43 GMT</pubDate>
-      <description>&lt;p&gt;一朋友是体制内工作，工作上压力很大，领导有点针对个人的感觉，情绪很焦虑 甚至有点抑郁倾向，决定对医院挂个神经内科看看，好像可以做什么情绪测试之类的。想问下大家 如果在病历上有这样的就诊记录，或者诊断出焦虑，抑郁倾向，对工作有什么不利影响吗？（我只知道可能部分意外险太好买）&lt;/p&gt;
+      <title>大家不觉得跟理发师沟通就像用大模型吗？</title>
+      <link>https://www.v2ex.com/t/1212311</link>
+      <guid>v2ex-1212311</guid>
+      <pubDate>Wed, 13 May 2026 01:14:50 GMT</pubDate>
+      <description>&lt;p&gt;有时候取决于 Prompt ，有时候 Prompt 再好，大模型拉跨也白搭，好的理发师只需要简单的 Prompt ，你们经常给理发师的 Prompt 是什么&lt;/p&gt;
 </description>
     </item>
   </channel>
