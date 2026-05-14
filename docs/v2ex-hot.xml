@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 14 May 2026 11:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 13:11:05 GMT</lastBuildDate>
     <item>
       <title>问一下大伙，遇到了更好的人，怎么做才是最优解呢？</title>
       <link>https://www.v2ex.com/t/1212626</link>
@@ -23,13 +23,6 @@
 </description>
     </item>
     <item>
-      <title>神人同事向我要 VISA 卡号和安全码</title>
-      <link>https://www.v2ex.com/t/1212580</link>
-      <guid>v2ex-1212580</guid>
-      <pubDate>Thu, 14 May 2026 01:22:53 GMT</pubDate>
-      <description>认识 3 个月的新同事，昨天下午问我有没有 visa 卡，然后说卡号和安全码借他，他想去白嫖大模型的首月免费，我借口说卡在家安全码不记得了，结果这哥们要我晚上拍照发给他&lt;br /&gt;我没理他🤣</description>
-    </item>
-    <item>
       <title>你会花 3 个月的月薪买台手机吗？</title>
       <link>https://www.v2ex.com/t/1212622</link>
       <guid>v2ex-1212622</guid>
@@ -37,21 +30,11 @@
       <description>- 奶茶店员工，男的，今年 20 岁， 月薪应该 3000 多。 &lt;br /&gt;- 目前手持 iphone14, 屏幕碎过一次，修了 900 多。不带壳，说裸奔舒服，也没有买 ac 。平常主要玩三角洲。&lt;br /&gt;- 月光，有时候都没钱买烟抽。&lt;br /&gt;- 人品不错，接触过几次， 现在存钱买 iphone17,为了买 17 ，连饭钱都省。 我真的没整明白。。&lt;br /&gt;- 这种是什么思路？</description>
     </item>
     <item>
-      <title>推广一下自己的中转站, 注册就送 30 刀, 是兄弟就来蹬我</title>
-      <link>https://www.v2ex.com/t/1212497</link>
-      <guid>v2ex-1212497</guid>
-      <pubDate>Wed, 13 May 2026 11:32:33 GMT</pubDate>
-      <description>&lt;p&gt;💎满血 GPT5.5 模型, 0.2 倍率， 绝不偷改倍率掺水&lt;/p&gt;
-&lt;p&gt;💎超低延迟,超快响应, Pro 20X 号池&lt;/p&gt;
-&lt;p&gt;💎稳定持续可用，适合长期使用&lt;/p&gt;
-&lt;p&gt;现在注册的前 50 V 友送 30 刀，助你爽蹬 AI.&lt;/p&gt;
-&lt;h2&gt;领取步骤&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;在 &lt;a href=&quot;https://opentk.ai&quot; rel=&quot;nofollow&quot;&gt;https://opentk.ai&lt;/a&gt; 注册账号 加入 Q 群：215816872&lt;/li&gt;
-&lt;li&gt;加入 Q 群：215816872&lt;/li&gt;
-&lt;li&gt;在本帖回帖，留下你的注册邮箱，马上为你发放订阅&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <title>神人同事向我要 VISA 卡号和安全码</title>
+      <link>https://www.v2ex.com/t/1212580</link>
+      <guid>v2ex-1212580</guid>
+      <pubDate>Thu, 14 May 2026 01:22:53 GMT</pubDate>
+      <description>认识 3 个月的新同事，昨天下午问我有没有 visa 卡，然后说卡号和安全码借他，他想去白嫖大模型的首月免费，我借口说卡在家安全码不记得了，结果这哥们要我晚上拍照发给他&lt;br /&gt;我没理他🤣</description>
     </item>
     <item>
       <title>真实相亲 app 构想</title>
@@ -61,6 +44,14 @@
       <description>&lt;p&gt;我想开发一款相亲应用，只能使用 app 原生的摄像头拍摄无滤镜无美颜的视频，视频搭配 AI 实时的一些生活趣味问答互动，上传真实视频才能匹配嘉宾。&lt;/p&gt;
 &lt;p&gt;邀请各位评估一下，只做 ios 平台会不会更真实？&lt;/p&gt;
 &lt;p&gt;现在的社交 App 真的是太假了，照片和真人的感觉差太远&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>写代码一定要防御性编程</title>
+      <link>https://www.v2ex.com/t/1212589</link>
+      <guid>v2ex-1212589</guid>
+      <pubDate>Thu, 14 May 2026 01:48:14 GMT</pubDate>
+      <description>&lt;p&gt;最近因为五一拒绝加班得事情，和组长闹得不太愉快，组长让我教另一个合作的同事我写得代码。这个同事经常白天摸鱼，晚上加班，自己做项目做不出来，派我过来帮忙才把这个项目得主要难题给解决了。本来我都把大部分功能都写好了，然后我又重新改了下，故意用错误得方案，把性能改差，主要功能具备，表面上看不出问题。这个同事稍微一改代码，运行出来就有问题，排查问题一时半会儿也找不到，我也说不知道。什么时候这项目我单独负责了，我再把代码改回来，不然有他们费劲的。以后写代码，自己写好以后，把注释给改一下，然后把逻辑给弄混乱点，代码写的太好，AI 也能理解，其他同事也能接手，对我们而言，没一点好处。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -93,19 +84,31 @@
 </description>
     </item>
     <item>
-      <title>写代码一定要防御性编程</title>
-      <link>https://www.v2ex.com/t/1212589</link>
-      <guid>v2ex-1212589</guid>
-      <pubDate>Thu, 14 May 2026 01:48:14 GMT</pubDate>
-      <description>&lt;p&gt;最近因为五一拒绝加班得事情，和组长闹得不太愉快，组长让我教另一个合作的同事我写得代码。这个同事经常白天摸鱼，晚上加班，自己做项目做不出来，派我过来帮忙才把这个项目得主要难题给解决了。本来我都把大部分功能都写好了，然后我又重新改了下，故意用错误得方案，把性能改差，主要功能具备，表面上看不出问题。这个同事稍微一改代码，运行出来就有问题，排查问题一时半会儿也找不到，我也说不知道。什么时候这项目我单独负责了，我再把代码改回来，不然有他们费劲的。以后写代码，自己写好以后，把注释给改一下，然后把逻辑给弄混乱点，代码写的太好，AI 也能理解，其他同事也能接手，对我们而言，没一点好处。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>替尔泊肽要糖尿病处方才能买？</title>
       <link>https://www.v2ex.com/t/1212700</link>
       <guid>v2ex-1212700</guid>
       <pubDate>Thu, 14 May 2026 06:58:41 GMT</pubDate>
       <description>医院检查了，可以用替尔泊肽。&lt;br /&gt;出门问了好几家药店，都说处方要写糖尿病才可以。&lt;br /&gt;我就没买，糖尿病的话好多保险就不能买了。</description>
+    </item>
+    <item>
+      <title>全职写代码感觉坚持不下去了，你们呢？</title>
+      <link>https://www.v2ex.com/t/1212702</link>
+      <guid>v2ex-1212702</guid>
+      <pubDate>Thu, 14 May 2026 07:06:00 GMT</pubDate>
+      <description>&lt;p&gt;水平很一般，之前在国外上学，家里也不缺现在一个月到手不到 2w 的工资，之前觉得这工作虽然累，但起码给我们公司内部做一些工具的前端界面和功能是有成就感的。现在天天就是叫 ai 做这做那，真的有点坚持不下去了。可能别人更在乎工资，而我更在乎事情的意义本身把。反正就是不想卷，不想配合着领导每天在那里 vibe coding ，把外面开源的东西一遍遍复制进公司内部然后搞得好像自己发明的一样。&lt;/p&gt;
+&lt;p&gt;公司的现状就是一两周做出来一个系统，业务产品已经不知道做些什么了。所以也不是很忙，每天在公司坐着都没啥事，有事来了刷刷两下就能做完。&lt;/p&gt;
+&lt;p&gt;我现在经常想象自己能白天陪陪家里人，做做饭，下午能够好好思考为自己的未来做些什么别的事情，学习一些东西沉淀自己，晚上能够开着家里的商务车跑跑滴滴，接送一些老板或者各行各业的人，聊聊天听听他们的生活，真的不想再坚持下去（其实主要也是家里人被大环境吓得，天天觉得我丢了工作天就塌了）&lt;/p&gt;
+&lt;p&gt;自从毕业到现在都没有真正的去接触这个社会，每天两点一线在这个格子间里码来码去~ 哎～ 和之前同学交流，也有类似的感受，感觉以后全职写代码迟早要变天。&lt;/p&gt;
+&lt;p&gt;不知道各位此时此刻是什么感觉呢？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>HyperAPI 新增 pro20x 号，继续送福利，评论留 ID 加 10 刀</title>
+      <link>https://www.v2ex.com/t/1212522</link>
+      <guid>v2ex-1212522</guid>
+      <pubDate>Wed, 13 May 2026 13:39:02 GMT</pubDate>
+      <description>&lt;p&gt;纯 gpt5.5, 注册即有 10$额度，套餐倍率低至 0.1 ， 欢迎体验： &lt;a href=&quot;https://hyperapi.cc&quot; rel=&quot;nofollow&quot;&gt;https://hyperapi.cc&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
