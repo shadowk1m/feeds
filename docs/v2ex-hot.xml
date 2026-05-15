@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 15 May 2026 11:32:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:28:01 GMT</lastBuildDate>
     <item>
       <title>前女友出轨 2 次，我负债 350 万</title>
       <link>https://www.v2ex.com/t/1212953</link>
@@ -69,68 +69,6 @@
 </description>
     </item>
     <item>
-      <title>[发码] 想躺着吸 AI, 试了一圈工具都不爽, 自己搓了个</title>
-      <link>https://www.v2ex.com/t/1212788</link>
-      <guid>v2ex-1212788</guid>
-      <pubDate>Thu, 14 May 2026 11:51:38 GMT</pubDate>
-      <description>&lt;p&gt;先自我介绍一下, 网名&quot;我是妖怪&quot;, 英文网名 &quot;dualface&quot;. 一直喜欢搞开源, 做了国内最早的开源 PHP 框架. 最初版本叫 FleaPHP, 主打简单, 后来又做了 QeePHP, 主打 All-in-one. PHP 框架做了好几年, 纯属为爱发电, 自己创业挣不到钱只有把这个 PHP 框架停了.&lt;/p&gt;
-&lt;p&gt;PS: 怀念当初在 PHPChina 和 ThinkPHP 那帮人对线的日子, PHP 框架版都可以干到发帖量全站第一...&lt;/p&gt;
-&lt;p&gt;iPhone 火了以后, 好像是 2011 还是 2012 啊, 我拿了几十万投资, 开始搞手游. 当时手游引擎都挺一般的, 后来觉得 cocos2d-x 还不错, 最起码功能接近 cocos2d-iphone 又可以跨平台.&lt;/p&gt;
-&lt;p&gt;cocos2d-x 当时有个公司贡献了 Luabinding, 我记得是网龙吧. 但是这个 Luabinding 还挺粗糙, 我就继续改进. 改着改着就弄成了自己的引擎, 干脆取名 quick-cocos2d-x 开源发布了. 最火的时候国内好多团队都在用, 后来赶上触控要上市, 就把我收了, 嘿嘿嘿.&lt;/p&gt;
-&lt;p&gt;引擎虽然卖了钱, 但是游戏一直没挣钱...继续混日子混了好些年, 一直想做独立游戏, 可惜拖延症已经是末期了, 啥也没搞出来...期间还搞了各种 quick 系列开源项目, 基本都无疾而终...&lt;/p&gt;
-&lt;p&gt;去年开始吸 AI, 结果一发不可收拾, 现在一个月高纯度的起码吸它 100 亿...cc200+codex200 都不够用(钱包肉疼).&lt;/p&gt;
-&lt;p&gt;说到正题, 其实是因为我最近做了一些 AI 工具, 自我感觉良好, 所以来宣传宣传.&lt;/p&gt;
-&lt;h2&gt;第一个: 赛博监工鞭打赛博牛马&lt;/h2&gt;
-&lt;p&gt;我现在每天用自己做的 cc-leader skills. 核心目标就是让 cc 当监工, codex 当牛马. 因为 cc 实在不够吸, codex 量才够大, 所以这样组合一下, 个人用下来还是很爽的.&lt;/p&gt;
-&lt;p&gt;网址: &lt;a href=&quot;https://github.com/dualface/cc-leader&quot; rel=&quot;nofollow&quot;&gt;https://github.com/dualface/cc-leader&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;用法超简单, 用 cc-leader-spec 确定需求, 然后用 cc-leader-run 鞭打 codex 干活.&lt;/p&gt;
-&lt;p&gt;PS: skill 最初很多内容都是从 superpowers 搬运来的, 后来逐渐改进和简化.&lt;/p&gt;
-&lt;h2&gt;第二个: codex 自己骑自己&lt;/h2&gt;
-&lt;p&gt;其实就是从 cc-leader 改写的, cc 吸完了就让 codex 自己驱动自己.&lt;/p&gt;
-&lt;p&gt;网址: &lt;a href=&quot;https://github.com/dualface/codex-ride-codex&quot; rel=&quot;nofollow&quot;&gt;https://github.com/dualface/codex-ride-codex&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;第三个: cc 状态行&lt;/h2&gt;
-&lt;p&gt;这个其实和有个叫 cc status hub (大概这名字) 的插件差不多, 我这个功能少很多, 主要也是配合 cc-leader 用, 可以跟踪 sub-agent 的任务时长.&lt;/p&gt;
-&lt;p&gt;网址: &lt;a href=&quot;https://github.com/dualface/cc-statusline&quot; rel=&quot;nofollow&quot;&gt;https://github.com/dualface/cc-statusline&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;第四个: QuickTUI 闪亮登场&lt;/h2&gt;
-&lt;p&gt;好吧, 我这就是个广告...&lt;/p&gt;
-&lt;p&gt;长期吸 AI 的兄弟都知道, 吸了第一口就停不下来了, 真是除了吃饭睡觉都在吸. 我之前电脑面前一坐十几个小时, 同时开十几个会话, 脑浆都烧干了.&lt;/p&gt;
-&lt;p&gt;后来被家里人强制拉着出门, 想要吸 AI 就得远程桌面或者 claude remote 这些, 用下来那体验就是一坨翔. 又试了各种远程终端, 没一个好用的, 干脆自己搓了一个...&lt;/p&gt;
-&lt;p&gt;名字嘛, 还是 quick 系列老传统, 就叫 QuickTUI.&lt;/p&gt;
-&lt;p&gt;和其他远程终端最大的区别就是 100% 融合了 tmux 的功能, 所以可以电脑面前终端里吸, 出了门手机平板里继续吸, 主打一个走路吸坐车吸躺着也吸, 无缝切换. 不用担心手机掉线了终端会话就断了.&lt;/p&gt;
-&lt;p&gt;本来想贴几张实拍照片, 结果好像没这功能?&lt;/p&gt;
-&lt;p&gt;反正我的目标就是别人有的我都有, 而且还要做得更好. 别人没有的我也要有, 一切都是为了随时随地吸 AI.&lt;/p&gt;
-&lt;p&gt;目前 iOS 版已经更新到 1.4 了, 个人感觉比较成熟了. Android 版正在努力搞, 估计还要一周.&lt;/p&gt;
-&lt;p&gt;下载地址: &lt;a href=&quot;https://apps.apple.com/app/quicktui/id6761338192&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/quicktui/id6761338192&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;项目网址: &lt;a href=&quot;https://quicktui.ai/&quot; rel=&quot;nofollow&quot;&gt;https://quicktui.ai/&lt;/a&gt; (我这域名帅吧)&lt;/p&gt;
-&lt;p&gt;App Store 里搜 quicktui 也行.&lt;/p&gt;
-&lt;p&gt;免费下载, 连接单个机器没有任何功能限制. 要连接多个机器, 就用下面的兑换码, 福利必须给够.&lt;/p&gt;
-&lt;p&gt;补充说一句, App 不收集任何信息, 也没有任何遥测.&lt;/p&gt;
-&lt;p&gt;%%% 怎么用 %%%&lt;/p&gt;
-&lt;p&gt;要连接机器, 还是需要装个服务端的. 服务端会和机器里的 tmux 交互, 这样客户端才能实现很多功能.&lt;/p&gt;
-&lt;p&gt;如果是可以 ssh 登录的机器, 用 App 里的安装向导就可以了. 如果没有 ssh 登录的机器, 就需要自己去服务器里安装.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-shell&quot;&gt;curl -fsSL https://quicktui.ai/q.sh | sh
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;详细说明可以访问 &lt;a href=&quot;https://quicktui.ai/&quot; rel=&quot;nofollow&quot;&gt;https://quicktui.ai/&lt;/a&gt; , 里面有 FAQ, 顶部是可以切换中英文的.&lt;/p&gt;
-&lt;p&gt;这里附上一些手势操作:&lt;/p&gt;
-&lt;p&gt;单指双击: 输入 Tab
-双指双击: 输入 Enter
-单指上下滑动: 滚动历史记录
-单指左右滑动: 切换 Window
-双指上下左右滑动: 输入 方向键
-三指左滑: BACKSPACE
-三指上滑: 打开 Switcher(用来快速切换会话)&lt;/p&gt;
-&lt;p&gt;设置里有选项, 可以切换单指双指的一些操作.&lt;/p&gt;
-&lt;p&gt;--&amp;gt; --&amp;gt; --&amp;gt; 华丽的分割线 &amp;lt;-- &amp;lt;-- &amp;lt;--&lt;/p&gt;
-&lt;p&gt;新版在做中转功能, 这样内网机器也可以随时连接. 目前我连家里的 mac 和 linux 都是走的 tailscale, 说实话还是有点麻烦, 而且和梯子会冲突. 关键 tailscale 国内也没中转, 为了连接流畅还自己搭了一个 custom derp server, 属实折腾.&lt;/p&gt;
-&lt;p&gt;另外还在加聊天模式和通知功能, 赛博牛马有问题要确认或者干完了活, 就可以发通知到手机上.&lt;/p&gt;
-&lt;p&gt;反正有什么需求和建议, 欢迎大家使劲提, 不要停.&lt;/p&gt;
-&lt;p&gt;=== X === 爱的分割线 === X ===&lt;/p&gt;
-&lt;p&gt;App Store 兑换码, 大家自取&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;AMHJR4XJPP7FX77368  PLTTXJFMN4F3X64JNT  NT7RFH4K3747KR8JA8  NW663K8K7HA3XX64AW  X8M867XEEL76AFT4XT  6JMFFMTEHHJKX48F7M  X7ATH7J3WNFAW4PA87  FWJYXYPE3PELK8XYLW  6463Y8A3NHMTM4FYR7  J3FM63T66XW8Y4HWEY  7YTWL4T3XPRT7K7X37  LHEXNHJE6TE6ET3NPN  AW6R88LKM34HMJYF8J  EPAMJKMYET8KP68H8R  74MH7TYFR3LMH8AN86  M3YAEMXR4JNHFPJJNF  EL7F88JKXFHFMH777F  RPW3YXLELF8JL63XFH  XH8JAM87X3FXYPJJ8J  WML3YFKJWYATMRMFX3  YN7EJ47PP83AA64R4W  RRAFT8PJTWEHYLNARW  FPHXH7REE6WPJFW7M7  6MKHWK44MRRXW6JHL4  YEWE7PRW7AM3MHY4MF  7KKNFX4XX7LWJWAPRN  MLF38MHJE4F4YHFKNA  AJLAARAYA836LMHFHH  APY7NHXX33WTHE7864  HLJPMALWR86X43FW7P  RJRM46LEH8L8KFK3JF  R6LX44MMNLHMARWRT7  344TAJH7EFPA4RPR3E  P8W4NKLEA4E8LPH7LE  LW6MKLYPNNK8AW4YRL  K33TR6Y4HPXPLJJJ63  R7YXRXTXWMYWLRN64T  H4LHWLEAH83ALTAWNN  TXFNTXAHEPMLYNRA67  NAJLR6AK4WAEF3WKWE  87LPJEJ7XNWKJNEJNK  LRLF3TXTRNN4LNKX8P  MP7R68YRM8L6YL6JEE  66AFMMT8HPXKHM6MKE  LLMKLWKAMPYHAMHHT3  4EY4J68YJMKFPHFEW8  JF8AXFKP4KPK3P6NNA  TLFKMREPN6HMWA7RXP  K7TYMYW3PJ3KY76HTM  3RWFFA7TWRX3ME6R6H  
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    <item>
       <title>一个真正一目了然的自建 Codex 中转站</title>
       <link>https://www.v2ex.com/t/1212851</link>
       <guid>v2ex-1212851</guid>
@@ -165,6 +103,13 @@
       <guid>v2ex-1212914</guid>
       <pubDate>Fri, 15 May 2026 03:18:50 GMT</pubDate>
       <description>看这两个热帖，让我不太能理解的是，表妹被骂了二百多楼，瓢虫就算不认同的回复也比较 peace 。&lt;br /&gt;这种舆论反差让我挺困惑的，在情、理、法上面，瓢虫都比表妹要严重得多吧，但舆论却是反着的，为什么会是这样的舆论，是有两套道德标准还是大家觉得后者比前者更严重呢，还是一些其他的什么原因。</description>
+    </item>
+    <item>
+      <title>iPhone 17 系列最高直降 1000 元</title>
+      <link>https://www.v2ex.com/t/1212840</link>
+      <guid>v2ex-1212840</guid>
+      <pubDate>Fri, 15 May 2026 00:31:43 GMT</pubDate>
+      <description>天猫旗舰店价格如下：&lt;br /&gt;iPhone 17 实付 5299 元（原价 5999 元）&lt;br /&gt;iPhone 17 Pro 实付 7999 元（原价 8999 元）&lt;br /&gt;iPhone 17 Pro Max 实付 8999 元（原价 9999 元） iPhone Air 实付 5499 元（原价 7999 元）</description>
     </item>
     <item>
       <title>天塌了，数据库被黑客删库了，交 BTC 才会恢复数据，大家有办法恢复数据么</title>
@@ -282,11 +227,11 @@
 </description>
     </item>
     <item>
-      <title>iPhone 17 系列最高直降 1000 元</title>
-      <link>https://www.v2ex.com/t/1212840</link>
-      <guid>v2ex-1212840</guid>
-      <pubDate>Fri, 15 May 2026 00:31:43 GMT</pubDate>
-      <description>天猫旗舰店价格如下：&lt;br /&gt;iPhone 17 实付 5299 元（原价 5999 元）&lt;br /&gt;iPhone 17 Pro 实付 7999 元（原价 8999 元）&lt;br /&gt;iPhone 17 Pro Max 实付 8999 元（原价 9999 元） iPhone Air 实付 5499 元（原价 7999 元）</description>
+      <title>GPT 试用时代结束了， Codex 中转站 送 2000w Token</title>
+      <link>https://www.v2ex.com/t/1212987</link>
+      <guid>v2ex-1212987</guid>
+      <pubDate>Fri, 15 May 2026 07:12:04 GMT</pubDate>
+      <description>今天传出 GPT 试用结束了，后续估计没有试用了&lt;br /&gt;&lt;br /&gt;上周，买了几个正价 Pro 会员，没什么人用，目前还没有回本，希望大佬们需要的支持一下&lt;br /&gt;&lt;br /&gt;目前号池由 Team 、Plus 和 Pro 20x 组成，后续拉闸了准备入手多个 Pro 账号，目前卖的也是比较的便宜&lt;br /&gt;&lt;br /&gt;每张卡赠送 5 刀，倍率比较低&lt;br /&gt;&lt;br /&gt;中转站网址： https://1024token.club&lt;br /&gt;&lt;br /&gt;评论区留邮箱赠送&lt;br /&gt;&lt;br /&gt;希望觉得好用的大佬可以留下来，谢谢</description>
     </item>
     <item>
       <title>现在 j1900 还值得入手吗</title>
