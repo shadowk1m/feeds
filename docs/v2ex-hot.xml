@@ -4,17 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 17 May 2026 16:44:10 GMT</lastBuildDate>
-    <item>
-      <title>国内的企业是压根不在乎域名吗</title>
-      <link>https://www.v2ex.com/t/1213230</link>
-      <guid>v2ex-1213230</guid>
-      <pubDate>Sat, 16 May 2026 17:01:40 GMT</pubDate>
-      <description>&lt;p&gt;看到一些 hack 域名，比如 &lt;a href=&quot;http://redd.it&quot; rel=&quot;nofollow&quot;&gt;redd.it&lt;/a&gt; 、&lt;a href=&quot;http://youtu.be&quot; rel=&quot;nofollow&quot;&gt;youtu.be&lt;/a&gt; ，挺好的，一眼能够看出来自哪里。&lt;/p&gt;
-&lt;p&gt;国内的企业好像没这种意识，B 站用的还是 &lt;a href=&quot;http://b23.tv&quot; rel=&quot;nofollow&quot;&gt;b23.tv&lt;/a&gt; 这种没什么含义的域名。不知道在搞什么。&lt;/p&gt;
-&lt;p&gt;早些年可能还关注一点，比如天猫的 &lt;a href=&quot;http://tianmao.com&quot; rel=&quot;nofollow&quot;&gt;tianmao.com&lt;/a&gt; 。现在很少了。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 17 May 2026 17:47:46 GMT</lastBuildDate>
     <item>
       <title>0 元购，听书阅读器 Aurader 征集新功能</title>
       <link>https://www.v2ex.com/t/1213307</link>
@@ -188,6 +178,51 @@ IP：湖北&lt;/p&gt;
       <guid>v2ex-1213313</guid>
       <pubDate>Sun, 17 May 2026 08:52:08 GMT</pubDate>
       <description>最近看了两个视频，这个两个视频下面的评论区对这个问题的反响截然不同。&lt;br /&gt;&lt;br /&gt;一个是李沐大神，最新的一期视频：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.bilibili.com/video/BV1pB586fEap/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.bilibili.com/video/BV1pB586fEap/&lt;/a&gt;&lt;br /&gt;这个视频是李沐老师最新项目技术展示&lt;br /&gt;&lt;br /&gt;另外一个是影视剧风，上个月拍的一条视频：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.bilibili.com/video/BV1g29UB9E7C/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.bilibili.com/video/BV1g29UB9E7C/&lt;/a&gt;&lt;br /&gt;这个视频有着明显的批判立意&lt;br /&gt;&lt;br /&gt;我觉得这是一个很有意思的问题，其实流浪地球二也探讨过。&lt;br /&gt;我们感觉这一代应该是无法避免这个问题的。</description>
+    </item>
+    <item>
+      <title>我做了一个把网文自动变成动漫短视频的工具，但不确定有没有人真的需要</title>
+      <link>https://www.v2ex.com/t/1213256</link>
+      <guid>v2ex-1213256</guid>
+      <pubDate>Sun, 17 May 2026 01:47:06 GMT</pubDate>
+      <description>&lt;h2&gt;它做什么&lt;/h2&gt;
+&lt;p&gt;一句话：网文作者上传小说章节 → 自动生成 3-5 分钟的日系动漫风格短视频。&lt;/p&gt;
+&lt;p&gt;具体 pipeline：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;豆包 LLM&lt;/strong&gt; 解析文本 → 提取角色、场景、对话、自动分镜&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seedream&lt;/strong&gt; 按分镜生成动漫画面（参考图保持角色一致性）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seedance 2.0&lt;/strong&gt; 图生视频 + 环境音效&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;火山引擎 TTS&lt;/strong&gt; 多角色配音&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FFmpeg&lt;/strong&gt; 合成字幕 → 导出 1080p MP4&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;整套跑下来一集成本约 &lt;strong&gt;¥9-19&lt;/strong&gt;（用户自备火山方舟 API Key ），不需要 GPU ，纯编排代码。&lt;/p&gt;
+&lt;h2&gt;跟现有方案的区别&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;即梦/可灵/Vidu&lt;/strong&gt;：通用视频生成，没有角色一致性概念，理解不了长篇叙事&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NovelAI&lt;/strong&gt;：能出图但需要大量手动操作，不是端到端&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;小说推文工具&lt;/strong&gt;：本质是 PPT 翻页配 AI 配音，没有动画&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这个项目想做的是「有声漫画」这个形态——类似 B 站上已经百万播放验证过的有声漫画视频，对话场景用中景/远景配合微动作，不追求唇形同步，靠字幕和声优表现力撑。&lt;/p&gt;
+&lt;h2&gt;为什么做这个&lt;/h2&gt;
+&lt;p&gt;我是网文读者，注意到很多中腰部的作者其实很想把自己的作品「动漫化」来引流，但找动画工作室动辄几万块一集，完全不现实。AI 视频生成去年下半年的进步让我觉得这个事技术上可行了。&lt;/p&gt;
+&lt;p&gt;花了两个月调研 + 写 PRD ，技术链路基本跑通了。&lt;/p&gt;
+&lt;h2&gt;我不确定的事&lt;/h2&gt;
+&lt;p&gt;这也是发帖想请教的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;作者真的需要吗？&lt;/strong&gt; 我聊过几个作者，反馈两极分化——有人说「太需要了，手动做推文视频累死」，有人说「我不如花钱找人画个封面」。网文作者的付费意愿和能力到底怎么样？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;有声漫画这个定位靠谱吗？&lt;/strong&gt; 它介于 PPT 推文和真动画之间，会不会两头不讨好？追求动画质感的觉得不够，追求效率的觉得太慢？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开源免费但依赖商业 API 这个模式怪不怪？&lt;/strong&gt; 代码全开源，但用户得自己充火山方舟的钱。这种「免费代码 + 付费 API 」的模式，创作者能接受吗？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;¥9-19 一集的成本是高了还是低了？&lt;/strong&gt; 我个人觉得还行，但网文作者很多是学生/副业，这个价格会不会劝退？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;有没有更痛的场景我没看到？&lt;/strong&gt; 也许网文作者最大的痛点根本不是「视频化」而是别的什么，我拿着锤子找钉子了？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;技术上的诚意&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;全栈火山方舟（豆包 + Seedream + Seedance + TTS + 视频合成），一个 Key 搞定&lt;/li&gt;
+&lt;li&gt;Web 端提供精调面板：不满意可以手动改角色外观、调整镜头顺序、重绘单帧&lt;/li&gt;
+&lt;li&gt;角色 IP 库：第一次上传章节后 AI 提取角色设定，作者确认后所有后续章节自动沿用&lt;/li&gt;
+&lt;li&gt;Phase 1 目标：60 分质量，跑通端到端，成本 ¥5-8/集&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎泼冷水，也欢迎告诉我「你其实应该做 XXX 方向」。V 站各位的判断力我是信的，拍砖越狠我越清醒。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>我自学编程上架了一款无广告、本地优先的 App「破己行动」</title>
