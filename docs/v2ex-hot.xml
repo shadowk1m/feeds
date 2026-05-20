@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 20 May 2026 12:40:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 16:23:13 GMT</lastBuildDate>
     <item>
       <title>HyperAPI 又来了，废话不多说直接开送</title>
       <link>https://www.v2ex.com/t/1214001</link>
@@ -126,70 +126,11 @@
 </description>
     </item>
     <item>
-      <title>[Relay AI] ChatGPT / Codex API 网关试运营开放：注册 $10 + 回帖 $10 + 加群 $10</title>
-      <link>https://www.v2ex.com/t/1213914</link>
-      <guid>v2ex-1213914</guid>
-      <pubDate>Tue, 19 May 2026 13:29:02 GMT</pubDate>
-      <description>&lt;p&gt;做了一个 AI API 网关 Relay AI ，目前是早期试运营阶段，今天开放注册并发放限时额度。&lt;/p&gt;
-&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;最近想稳定调用 ChatGPT / Codex API 做一些个人项目，调研了一圈现有的第三方中转后发现几个常见痛点：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;账号池来源不透明，可能掺入 Plus 假冒 Pro 的账号，配额一耗尽就静默降级&lt;/li&gt;
-&lt;li&gt;历史请求和响应是否留存无从验证&lt;/li&gt;
-&lt;li&gt;充值与退款机制不透明，担心跑路&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;干脆自己搭了一个，慢慢迭代成完整的 API 网关 —— Relay AI 。&lt;/p&gt;
-&lt;h2&gt;当前状态&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;上游账号统一升级到 &lt;strong&gt;ChatGPT Pro&lt;/strong&gt;，全部自持，严格鉴别 Plan 类型，配额充裕&lt;/li&gt;
-&lt;li&gt;支持 ChatGPT 全系模型&lt;/li&gt;
-&lt;li&gt;国内直连，无需翻墙&lt;/li&gt;
-&lt;li&gt;支付宝在线充值已开通，&lt;strong&gt;余额永不过期&lt;/strong&gt;，未消费部分可申请退款&lt;/li&gt;
-&lt;li&gt;请求与响应&lt;strong&gt;不做持久化记录&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;兼容 Codex CLI / Cursor / Cline / OpenCode 等主流客户端&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;近期计划&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;图片生成功能接入中，预计下周支持 &lt;strong&gt;gpt-image-2&lt;/strong&gt; 模型&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;配置文档&lt;/h2&gt;
-&lt;p&gt;各客户端的接入与配置说明都整理在文档站，可自助查阅：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://docs.relayai.asia/&quot; rel=&quot;nofollow&quot;&gt;https://docs.relayai.asia/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;试运营福利&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;注册即送 $10 永久额度&lt;/strong&gt;（系统自动到账）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;回帖留下注册邮箱 / ID&lt;/strong&gt;，再送 $10 永久额度（前 100 楼有效）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;加 QQ 群或微信群发注册邮箱 / ID&lt;/strong&gt;，首批 30 名送 $10 兑换码（同一用户限领一次）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;手工充值，慢慢来 🙏&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;链接&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;站点： &lt;a href=&quot;https://relayai.asia&quot; rel=&quot;nofollow&quot;&gt;https://relayai.asia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;文档： &lt;a href=&quot;https://docs.relayai.asia&quot; rel=&quot;nofollow&quot;&gt;https://docs.relayai.asia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;客服群&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;QQ 客服群&lt;/th&gt;
-&lt;th&gt;微信客服群&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;群号：&lt;strong&gt;263891281&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;扫码加入&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img alt=&quot;QQ 客服群&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://docs.relayai.asia/qq-qr.jpg&quot;/&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt=&quot;微信客服群&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://docs.relayai.asia/wechat-qr.png&quot;/&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;blockquote&gt;
-&lt;p&gt;总福利额度送完为止，最终解释权归本站所有。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;试运营期间欢迎使用反馈，特别是关于稳定性、模型表现、配置体验方面的建议。&lt;/p&gt;
+      <title>Antigravity 更新了，引入了 Gemini 3.5 Flash，更新的不像 vscode 了</title>
+      <link>https://www.v2ex.com/t/1213965</link>
+      <guid>v2ex-1213965</guid>
+      <pubDate>Tue, 19 May 2026 23:52:58 GMT</pubDate>
+      <description>&lt;p&gt;Version 2.0.0&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -294,14 +235,6 @@ PV66DXPYOZCVITACRKOQTG2I
 </description>
     </item>
     <item>
-      <title>Antigravity 更新了，引入了 Gemini 3.5 Flash，更新的不像 vscode 了</title>
-      <link>https://www.v2ex.com/t/1213965</link>
-      <guid>v2ex-1213965</guid>
-      <pubDate>Tue, 19 May 2026 23:52:58 GMT</pubDate>
-      <description>&lt;p&gt;Version 2.0.0&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>大家都是怎么判断中转站安全性呢？</title>
       <link>https://www.v2ex.com/t/1213987</link>
       <guid>v2ex-1213987</guid>
@@ -316,6 +249,86 @@ PV66DXPYOZCVITACRKOQTG2I
       <description>&lt;p&gt;本人在江苏一个很有名的医院骨科读完硕士，读的时候才发现以前以为的科研氛围、学术氛围都是扯淡，大家都是草台班子，为了发文章不择手段，数据不理想都可以随意优化。
 而且我同时还要规培，就是当临床医生用，要写很多病历，上很多夜班，夜班那个床一个星期才换一次床单被套，而且我个子比较高，睡在值班床上很难睡着。
 我不想上班上一辈子，没办法享受人生，之前也考虑过出国发展，但是又下不了决心，因为有一个谈了 5 年的女朋友，6 月份毕业了，打算转行，但是不知道转去做什么，考虑过外贸、自媒体。有没有过来人指点迷津，感谢&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>做了一个睡前听书 App：用 Apple 系统语音读自己的 EPUB/PDF，送 30 个码</title>
+      <link>https://www.v2ex.com/t/1214142</link>
+      <guid>v2ex-1214142</guid>
+      <pubDate>Wed, 20 May 2026 07:21:55 GMT</pubDate>
+      <description>&lt;p&gt;各位佬，大家好。&lt;/p&gt;
+&lt;p&gt;最近把 Drowsebook （入梦书）上架了。它是一个 iPhone 上的睡前听书 / 本地阅读 App：把自己的 EPUB 、PDF 、TXT 、MOBI 、AZW3 导进去，用 Apple 系统内部的语音读出来，再在下面叠一点雨声、火炉、海浪、森林这类背景音。&lt;/p&gt;
+&lt;p&gt;做这个东西的起点挺个人的：我有一阵子晚上睡不着，想听点自己的书，但又不想继续刷短视频，也不想再订阅一个内容平台。最开始我也认真考虑过 AI 声音，效果确实更自然，但在手机上长时间跑下来，功耗、发热、延迟和成本都不太像一个“睡前最后半小时”该有的东西。&lt;/p&gt;
+&lt;p&gt;后来折中下来，我直接用了 Apple 系统自带的语音。高品质语音其实没有想象中差，关键是稳定、省电、不用上传文本，也没有分钟数消耗。这个取舍更符合我自己真实的使用场景：晚上关灯之后，放一点环境音，让手机慢慢把书读完一小段。&lt;/p&gt;
+&lt;p&gt;核心功能大概是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持 EPUB / PDF / TXT / MOBI / AZW3 ，本地导入自己的无 DRM 图书&lt;/li&gt;
+&lt;li&gt;调用 Apple 系统语音朗读，不走云端 TTS ，没有账号和服务器&lt;/li&gt;
+&lt;li&gt;睡眠定时器和淡出，适合睡前听一会儿&lt;/li&gt;
+&lt;li&gt;雨声、火炉、海浪、森林等背景音可以叠在朗读下面&lt;/li&gt;
+&lt;li&gt;支持 AirPods 前后跳转、书签、章节大纲和自动续读&lt;/li&gt;
+&lt;li&gt;不收集书名、阅读进度、书签这些数据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;坦白说目前也不是完美：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PDF 遇到复杂排版、脚注、页眉页脚时还会有边界情况&lt;/li&gt;
+&lt;li&gt;Apple 系统语音不等于真人播讲，也不等于云端 AI 情感朗读&lt;/li&gt;
+&lt;li&gt;它更适合“睡前听自己的书”，不是内容平台，也不提供书源&lt;/li&gt;
+&lt;li&gt;部分特殊编码的老电子书格式还需要继续打磨&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这次想先在 V2EX 放 30 个兑换码，换一些真实反馈。尤其想听：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Apple 系统语音在睡前听书这个场景里是否够用&lt;/li&gt;
+&lt;li&gt;背景音和朗读音量混合是否自然&lt;/li&gt;
+&lt;li&gt;EPUB/PDF 导入有没有遇到具体问题&lt;/li&gt;
+&lt;li&gt;你们希望它更像阅读器，还是更像睡前音频工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;截图放两张：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Drowsebook 听书页&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://hooosberg.github.io/DrowseBook/posters/zh-Hans/05-listening.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Drowsebook 背景音页&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://hooosberg.github.io/DrowseBook/posters/zh-Hans/06-soundscape.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;App Store：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/drowsebook-read-aloud-ebooks/id6768475647?uo=4&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/us/app/drowsebook-read-aloud-ebooks/id6768475647?uo=4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;兑换方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;iPhone 打开 App Store&lt;/li&gt;
+&lt;li&gt;点右上角头像&lt;/li&gt;
+&lt;li&gt;选择「兑换礼品卡或代码」&lt;/li&gt;
+&lt;li&gt;粘贴下面任意一个兑换码&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;本次先放 30 个：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;01. RF9LKLJYLLKE
+02. 4PFFKW7977XW
+03. NY3M3P6NFFEJ
+04. LXP9ALWKMXFH
+05. YPM7M37NXRXW
+06. WJ6TX7R4LEPX
+07. 67P7AXPJXP7H
+08. FRAX6JJ977FA
+09. FX9X4XTKJHAM
+10. KKRAYPJELNXW
+11. YYMMFH66PPAT
+12. WFK4M76LEHWL
+13. J3PPAEXMHHWT
+14. MFYLXNN37MTA
+15. YJX9YRY6JPRE
+16. ATEKXTH3J9WN
+17. YLNEE4XWWL36
+18. M6KXFTJALPPY
+19. E7TTK3Y6RYHX
+20. AJXHPT37RE7R
+21. MMNFNXLK364K
+22. 3EEKKM6PKEF6
+23. EL6WKNAM3KEM
+24. K9PTE4LMWLAK
+25. AYTKEN6E99MT
+26. RLL7H974K79R
+27. 9HWHEXMPK3NT
+28. LMYKP4RFRR4T
+29. AJW7FHTAKYHN
+30. WEE6A7H3LTEP
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果兑换成功，麻烦在评论里说一下用了哪个码，方便后面的人不要重复试。&lt;/p&gt;
+&lt;p&gt;也欢迎直接吐槽。这个东西本来就是自己晚上用出来的，越具体的问题越好改。谢谢各位佬。&lt;/p&gt;
 </description>
     </item>
   </channel>
