@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 20 May 2026 10:17:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 12:40:06 GMT</lastBuildDate>
     <item>
       <title>HyperAPI 又来了，废话不多说直接开送</title>
       <link>https://www.v2ex.com/t/1214001</link>
@@ -126,6 +126,73 @@
 </description>
     </item>
     <item>
+      <title>[Relay AI] ChatGPT / Codex API 网关试运营开放：注册 $10 + 回帖 $10 + 加群 $10</title>
+      <link>https://www.v2ex.com/t/1213914</link>
+      <guid>v2ex-1213914</guid>
+      <pubDate>Tue, 19 May 2026 13:29:02 GMT</pubDate>
+      <description>&lt;p&gt;做了一个 AI API 网关 Relay AI ，目前是早期试运营阶段，今天开放注册并发放限时额度。&lt;/p&gt;
+&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;最近想稳定调用 ChatGPT / Codex API 做一些个人项目，调研了一圈现有的第三方中转后发现几个常见痛点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;账号池来源不透明，可能掺入 Plus 假冒 Pro 的账号，配额一耗尽就静默降级&lt;/li&gt;
+&lt;li&gt;历史请求和响应是否留存无从验证&lt;/li&gt;
+&lt;li&gt;充值与退款机制不透明，担心跑路&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;干脆自己搭了一个，慢慢迭代成完整的 API 网关 —— Relay AI 。&lt;/p&gt;
+&lt;h2&gt;当前状态&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;上游账号统一升级到 &lt;strong&gt;ChatGPT Pro&lt;/strong&gt;，全部自持，严格鉴别 Plan 类型，配额充裕&lt;/li&gt;
+&lt;li&gt;支持 ChatGPT 全系模型&lt;/li&gt;
+&lt;li&gt;国内直连，无需翻墙&lt;/li&gt;
+&lt;li&gt;支付宝在线充值已开通，&lt;strong&gt;余额永不过期&lt;/strong&gt;，未消费部分可申请退款&lt;/li&gt;
+&lt;li&gt;请求与响应&lt;strong&gt;不做持久化记录&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;兼容 Codex CLI / Cursor / Cline / OpenCode 等主流客户端&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;近期计划&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;图片生成功能接入中，预计下周支持 &lt;strong&gt;gpt-image-2&lt;/strong&gt; 模型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;配置文档&lt;/h2&gt;
+&lt;p&gt;各客户端的接入与配置说明都整理在文档站，可自助查阅：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.relayai.asia/&quot; rel=&quot;nofollow&quot;&gt;https://docs.relayai.asia/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;试运营福利&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;注册即送 $10 永久额度&lt;/strong&gt;（系统自动到账）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;回帖留下注册邮箱 / ID&lt;/strong&gt;，再送 $10 永久额度（前 100 楼有效）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;加 QQ 群或微信群发注册邮箱 / ID&lt;/strong&gt;，首批 30 名送 $10 兑换码（同一用户限领一次）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;手工充值，慢慢来 🙏&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;站点： &lt;a href=&quot;https://relayai.asia&quot; rel=&quot;nofollow&quot;&gt;https://relayai.asia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;文档： &lt;a href=&quot;https://docs.relayai.asia&quot; rel=&quot;nofollow&quot;&gt;https://docs.relayai.asia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;客服群&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;QQ 客服群&lt;/th&gt;
+&lt;th&gt;微信客服群&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;群号：&lt;strong&gt;263891281&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;扫码加入&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;QQ 客服群&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://docs.relayai.asia/qq-qr.jpg&quot;/&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt=&quot;微信客服群&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://docs.relayai.asia/wechat-qr.png&quot;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;blockquote&gt;
+&lt;p&gt;总福利额度送完为止，最终解释权归本站所有。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;试运营期间欢迎使用反馈，特别是关于稳定性、模型表现、配置体验方面的建议。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>分享一个自己做的 SSH 桌面工具， macOS / Windows / Linux 都能用 [送码]</title>
       <link>https://www.v2ex.com/t/1213996</link>
       <guid>v2ex-1213996</guid>
@@ -232,73 +299,6 @@ PV66DXPYOZCVITACRKOQTG2I
       <guid>v2ex-1213965</guid>
       <pubDate>Tue, 19 May 2026 23:52:58 GMT</pubDate>
       <description>&lt;p&gt;Version 2.0.0&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[Relay AI] ChatGPT / Codex API 网关试运营开放：注册 $10 + 回帖 $10 + 加群 $10</title>
-      <link>https://www.v2ex.com/t/1213914</link>
-      <guid>v2ex-1213914</guid>
-      <pubDate>Tue, 19 May 2026 13:29:02 GMT</pubDate>
-      <description>&lt;p&gt;做了一个 AI API 网关 Relay AI ，目前是早期试运营阶段，今天开放注册并发放限时额度。&lt;/p&gt;
-&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;最近想稳定调用 ChatGPT / Codex API 做一些个人项目，调研了一圈现有的第三方中转后发现几个常见痛点：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;账号池来源不透明，可能掺入 Plus 假冒 Pro 的账号，配额一耗尽就静默降级&lt;/li&gt;
-&lt;li&gt;历史请求和响应是否留存无从验证&lt;/li&gt;
-&lt;li&gt;充值与退款机制不透明，担心跑路&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;干脆自己搭了一个，慢慢迭代成完整的 API 网关 —— Relay AI 。&lt;/p&gt;
-&lt;h2&gt;当前状态&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;上游账号统一升级到 &lt;strong&gt;ChatGPT Pro&lt;/strong&gt;，全部自持，严格鉴别 Plan 类型，配额充裕&lt;/li&gt;
-&lt;li&gt;支持 ChatGPT 全系模型&lt;/li&gt;
-&lt;li&gt;国内直连，无需翻墙&lt;/li&gt;
-&lt;li&gt;支付宝在线充值已开通，&lt;strong&gt;余额永不过期&lt;/strong&gt;，未消费部分可申请退款&lt;/li&gt;
-&lt;li&gt;请求与响应&lt;strong&gt;不做持久化记录&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;兼容 Codex CLI / Cursor / Cline / OpenCode 等主流客户端&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;近期计划&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;图片生成功能接入中，预计下周支持 &lt;strong&gt;gpt-image-2&lt;/strong&gt; 模型&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;配置文档&lt;/h2&gt;
-&lt;p&gt;各客户端的接入与配置说明都整理在文档站，可自助查阅：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://docs.relayai.asia/&quot; rel=&quot;nofollow&quot;&gt;https://docs.relayai.asia/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;试运营福利&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;注册即送 $10 永久额度&lt;/strong&gt;（系统自动到账）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;回帖留下注册邮箱 / ID&lt;/strong&gt;，再送 $10 永久额度（前 100 楼有效）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;加 QQ 群或微信群发注册邮箱 / ID&lt;/strong&gt;，首批 30 名送 $10 兑换码（同一用户限领一次）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;手工充值，慢慢来 🙏&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;链接&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;站点： &lt;a href=&quot;https://relayai.asia&quot; rel=&quot;nofollow&quot;&gt;https://relayai.asia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;文档： &lt;a href=&quot;https://docs.relayai.asia&quot; rel=&quot;nofollow&quot;&gt;https://docs.relayai.asia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;客服群&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;QQ 客服群&lt;/th&gt;
-&lt;th&gt;微信客服群&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;群号：&lt;strong&gt;263891281&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;扫码加入&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img alt=&quot;QQ 客服群&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://docs.relayai.asia/qq-qr.jpg&quot;/&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt=&quot;微信客服群&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://docs.relayai.asia/wechat-qr.png&quot;/&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;blockquote&gt;
-&lt;p&gt;总福利额度送完为止，最终解释权归本站所有。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;试运营期间欢迎使用反馈，特别是关于稳定性、模型表现、配置体验方面的建议。&lt;/p&gt;
 </description>
     </item>
     <item>
