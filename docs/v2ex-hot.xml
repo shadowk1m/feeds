@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 22 May 2026 10:40:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:22:12 GMT</lastBuildDate>
     <item>
       <title>大家都用的什么代理软件</title>
       <link>https://www.v2ex.com/t/1214608</link>
@@ -27,11 +27,23 @@
       <description>取消北京办公地点，全员沟通 7.18 离职。无商量余地，孕妇也不例外。法务已经准备好。其余深圳同学投奔 wb 怀抱</description>
     </item>
     <item>
-      <title>用过马应龙的湿厕纸后，无法忍受普通的厕纸了</title>
-      <link>https://www.v2ex.com/t/1214566</link>
-      <guid>v2ex-1214566</guid>
-      <pubDate>Fri, 22 May 2026 00:54:00 GMT</pubDate>
-      <description>&lt;p&gt;不是广告哈，马应龙应该用不着打广告。这个湿厕纸太牛逼了，早买早享受。&lt;/p&gt;
+      <title>怎么没人讨论昨晚小米的 YU7 GT</title>
+      <link>https://www.v2ex.com/t/1214634</link>
+      <guid>v2ex-1214634</guid>
+      <pubDate>Fri, 22 May 2026 02:51:31 GMT</pubDate>
+      <description>&lt;p&gt;偷偷订了一辆顶配
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Y2VO4ZD.jpeg&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>蔚来换电讨论</title>
+      <link>https://www.v2ex.com/t/1214689</link>
+      <guid>v2ex-1214689</guid>
+      <pubDate>Fri, 22 May 2026 05:53:18 GMT</pubDate>
+      <description>&lt;p&gt;最近在买电车，了解到蔚来换电以及最近的锁电门事件。
+理性分析下，蔚来换电是不是非常有优势的赛道，也是比较好的选择，虽然 baas 每个月会有对应的换电费用，也就是永续贷。
+电车最有价值，风险最大的就是电池，通过 bass 买入，把这部分风险交给蔚来公司，不需要担心电池老化，锁电等恶心人操作，同时出远门时可以申请 100 度电池，跑个 400 公里也没啥大问题。
+有点想入手蔚来 es6 ，虽然是 400v 平台。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -81,23 +93,11 @@
 </description>
     </item>
     <item>
-      <title>怎么没人讨论昨晚小米的 YU7 GT</title>
-      <link>https://www.v2ex.com/t/1214634</link>
-      <guid>v2ex-1214634</guid>
-      <pubDate>Fri, 22 May 2026 02:51:31 GMT</pubDate>
-      <description>&lt;p&gt;偷偷订了一辆顶配
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Y2VO4ZD.jpeg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>蔚来换电讨论</title>
-      <link>https://www.v2ex.com/t/1214689</link>
-      <guid>v2ex-1214689</guid>
-      <pubDate>Fri, 22 May 2026 05:53:18 GMT</pubDate>
-      <description>&lt;p&gt;最近在买电车，了解到蔚来换电以及最近的锁电门事件。
-理性分析下，蔚来换电是不是非常有优势的赛道，也是比较好的选择，虽然 baas 每个月会有对应的换电费用，也就是永续贷。
-电车最有价值，风险最大的就是电池，通过 bass 买入，把这部分风险交给蔚来公司，不需要担心电池老化，锁电等恶心人操作，同时出远门时可以申请 100 度电池，跑个 400 公里也没啥大问题。
-有点想入手蔚来 es6 ，虽然是 400v 平台。&lt;/p&gt;
+      <title>用过马应龙的湿厕纸后，无法忍受普通的厕纸了</title>
+      <link>https://www.v2ex.com/t/1214566</link>
+      <guid>v2ex-1214566</guid>
+      <pubDate>Fri, 22 May 2026 00:54:00 GMT</pubDate>
+      <description>&lt;p&gt;不是广告哈，马应龙应该用不着打广告。这个湿厕纸太牛逼了，早买早享受。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -112,6 +112,13 @@
 </description>
     </item>
     <item>
+      <title>自用 Neverun API 中转, Pro 号池，纯手工打造，欢迎鉴赏！</title>
+      <link>https://www.v2ex.com/t/1214609</link>
+      <guid>v2ex-1214609</guid>
+      <pubDate>Fri, 22 May 2026 02:05:26 GMT</pubDate>
+      <description>小站基于 sub2api 搭建，无需任何代码改动！&lt;br /&gt;绝不出售用户信息，完全为开发小组自用，诚邀同行分摊成本！&lt;br /&gt;支持 OpenAI 、Anthropic 使用，文档清晰可查 [帮助文档] 。&lt;br /&gt;本站使用的全部为 Pro 号池，享 0.3 倍率。&lt;br /&gt;在本帖回复注册邮箱(base 64 编码)，即可免费获赠 $5 额度。&lt;br /&gt;限时推出超值 Pro 号池套餐：仅 20 元到账 80 刀 + 专属 0.3 倍率，相当于实际 266 刀使用价值！ 1 元仅 13.33 刀官方额度，低至 0.075 元/刀！&lt;br /&gt;小站地址： &lt;a target=&quot;_blank&quot; href=&quot;https://api.nerverun.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://api.nerverun.com&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>时代落幕了，拉勾网主动申请破产了</title>
       <link>https://www.v2ex.com/t/1214578</link>
       <guid>v2ex-1214578</guid>
@@ -120,13 +127,6 @@
 &lt;p&gt;5 月 15 日正式被裁定进入破产重整，且为公司主动申请自身破产&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/udbE1sg.png&quot;/&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>自用 Neverun API 中转, Pro 号池，纯手工打造，欢迎鉴赏！</title>
-      <link>https://www.v2ex.com/t/1214609</link>
-      <guid>v2ex-1214609</guid>
-      <pubDate>Fri, 22 May 2026 02:05:26 GMT</pubDate>
-      <description>小站基于 sub2api 搭建，无需任何代码改动！&lt;br /&gt;绝不出售用户信息，完全为开发小组自用，诚邀同行分摊成本！&lt;br /&gt;支持 OpenAI 、Anthropic 使用，文档清晰可查 [帮助文档] 。&lt;br /&gt;本站使用的全部为 Pro 号池，享 0.3 倍率。&lt;br /&gt;在本帖回复注册邮箱(base 64 编码)，即可免费获赠 $5 额度。&lt;br /&gt;限时推出超值 Pro 号池套餐：仅 20 元到账 80 刀 + 专属 0.3 倍率，相当于实际 266 刀使用价值！ 1 元仅 13.33 刀官方额度，低至 0.075 元/刀！&lt;br /&gt;小站地址： &lt;a target=&quot;_blank&quot; href=&quot;https://api.nerverun.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://api.nerverun.com&lt;/a&gt;</description>
     </item>
     <item>
       <title>继续继续推广我的 gpt 中转站，注册就送 28.8$余额</title>
