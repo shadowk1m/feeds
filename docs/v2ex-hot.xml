@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 23 May 2026 08:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 10:09:56 GMT</lastBuildDate>
     <item>
       <title>今天我生日,可以薅 V 友一句生日快乐吗?</title>
       <link>https://www.v2ex.com/t/1214784</link>
@@ -33,32 +33,6 @@
 &lt;h3&gt;加 QQ 群领额度&lt;/h3&gt;
 &lt;p&gt;扫码进群后，私聊群主或管理员，可领取价值 &lt;code&gt;1 元&lt;/code&gt; 的试用额度，折合约 &lt;code&gt;25 美元&lt;/code&gt; 使用额度。
 &lt;img alt=&quot;HappyCode QQ 群二维码&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://happycode.vip/images/happy_code_qun.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>AI 蓬勃发展，各种资讯满天飞，大家都是从哪里获取 AI 资讯</title>
-      <link>https://www.v2ex.com/t/1214741</link>
-      <guid>v2ex-1214741</guid>
-      <pubDate>Fri, 22 May 2026 08:36:34 GMT</pubDate>
-      <description>&lt;p&gt;AI 发展太快了，几乎每天，每小时都有各种新的东西出现，不关注吧，感觉过几天就会落伍。关注吧，又不知道从哪里能获取，现在的资讯零零散散，分布在各种地方。&lt;/p&gt;
-&lt;p&gt;或者说我这个命题是不存在的，我们根本不需要非常实时的每天关注 AI 资讯。&lt;/p&gt;
-&lt;p&gt;又或者用 AI 能帮我解决这个问题吗，AI 自动搜集信息对于英文网站感觉还行，但是对于中文环境，各自平台又很封闭，很难用 AI 自动爬，各种反爬机制。&lt;/p&gt;
-&lt;p&gt;真是怀念当初的 RSS 时代，可以定制自己喜欢的资讯。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>也不知道会不会被开盒，还是憋不住想说说。以后借钱一定要当时就签个腾讯签的借条啊。前几个月借给朋友 5 万，说过两个月还，到现在一直了无音讯。我准备下周问问，不论如何补个欠条。这一两周晚上老是想到这事，太内耗了。</title>
-      <link>https://www.v2ex.com/t/1214747</link>
-      <guid>v2ex-1214747</guid>
-      <pubDate>Fri, 22 May 2026 08:43:38 GMT</pubDate>
-      <description>也不知道会不会被开盒，还是憋不住想说说。以后借钱一定要当时就签个腾讯签的借条啊。前几个月借给朋友 5 万，说过两个月还，到现在一直了无音讯。我准备下周问问，不论如何补个欠条。这一两周晚上老是想到这事，太内耗了。</description>
-    </item>
-    <item>
-      <title>ChatGPT Pro 额度怎么蹬满?</title>
-      <link>https://www.v2ex.com/t/1214772</link>
-      <guid>v2ex-1214772</guid>
-      <pubDate>Fri, 22 May 2026 09:35:26 GMT</pubDate>
-      <description>&lt;p&gt;公司报销了 100 刀的额度 正好用在 ChatGPT 的 PRO 会员上了, 但是似乎很难蹬满 , 已经让 codex 在给项目每个接口生成对应文档了 ....大家都是怎么蹬的? 没需求我就创造需求!必须蹬冒烟&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -109,6 +83,25 @@
 </description>
     </item>
     <item>
+      <title>春风若有怜花意 可否许我再少年</title>
+      <link>https://www.v2ex.com/t/1214856</link>
+      <guid>v2ex-1214856</guid>
+      <pubDate>Sat, 23 May 2026 01:01:00 GMT</pubDate>
+      <description>&lt;p&gt;青丝白发一瞬间，
+年华老去向谁言。
+春风若有怜花意，
+可否许我再少年？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>你们有没有觉得，用了 AI 后，收入没增长，开销却变大了？</title>
+      <link>https://www.v2ex.com/t/1214875</link>
+      <guid>v2ex-1214875</guid>
+      <pubDate>Sat, 23 May 2026 02:25:10 GMT</pubDate>
+      <description>&lt;p&gt;你们各种 AI 工具订阅费加起来多少了？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>有没有不用买车也能让新手熟练掌握开车驾驶的办法？</title>
       <link>https://www.v2ex.com/t/1214887</link>
       <guid>v2ex-1214887</guid>
@@ -118,6 +111,113 @@
 &lt;p&gt;其实用车的场景有限，后续还是想租车玩，所以就面临一个问题，租车之前怎么熟练的掌握驾驶&lt;/p&gt;
 &lt;hr/&gt;
 &lt;p&gt;有没有同样经历的朋友&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>做了第一款 iOS 小游戏：用 SwiftUI 写了个水墨麻将连连看，送 50 个内购码</title>
+      <link>https://www.v2ex.com/t/1214874</link>
+      <guid>v2ex-1214874</guid>
+      <pubDate>Sat, 23 May 2026 02:21:14 GMT</pubDate>
+      <description>&lt;p&gt;各位佬，大家好。&lt;/p&gt;
+&lt;p&gt;最近把第一款 iOS 小游戏上架了，叫 Sumi Mahjong Solitaire 。中文我自己叫它「禅艺麻将 / 水墨连连看」。它不是四人麻将，是麻将牌面的连连看 / Mahjong Solitaire：点两张相同的自由牌，如果能连起来就消掉。&lt;/p&gt;
+&lt;p&gt;App Store：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/sumi-mahjong-solitaire/id6770823912?uo=4&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/us/app/sumi-mahjong-solitaire/id6770823912?uo=4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这次做它其实不是想一上来做一个特别大的游戏，而是想完整跑一遍 iPhone 小游戏从开发、性能优化、内购、审核到上架的流程。因为是第一款游戏，我刻意没有选特别大的项目，也没有用 Unity 、SpriteKit 、Metal 或其他游戏框架，主实现就是 Swift / SwiftUI / SwiftData / StoreKit 2 ，加一些 Apple 系统框架自己硬写。&lt;/p&gt;
+&lt;p&gt;做之前觉得「麻将连连看」规则很简单，做完才发现游戏里的简单经常是假象。&lt;/p&gt;
+&lt;p&gt;比如牌面资源层是完整 144 张麻将牌，但手机竖屏上如果一味塞满，触控会小、画面会挤、玩家也更容易疲劳。后来默认局面反而往更舒服的牌数调，把精力放在可消对子数量、布局密度、死局重排和提示可信度上。&lt;/p&gt;
+&lt;p&gt;算法这块也比我想象中有意思。不能只是随机撒牌，因为很容易开局就无聊，或者中途卡死。最后做法更像「约束下的随机」：布局要满足堆叠和遮挡规则，开局要有足够但不过量的可选对子，还要用 Solver 去验证能不能继续玩。一个看起来很轻的小游戏，最后还是会回到核心算法和手感调参。&lt;/p&gt;
+&lt;p&gt;视觉和性能也踩了不少坑。最早我用代码实时画牌体、厚度、阴影和牌面，效果可控，但游戏里牌一多，任何一处重复绘制都会开始变贵。后面就上了烘焙流程：牌面先按图集裁切，再把代码画出来的牌体、厚度、材质烘成完整 PNG ，运行时直接用图片，帧率和稳定性会舒服很多。&lt;/p&gt;
+&lt;p&gt;音效和一些小特效也基本是自己做的。消除粒子、碰撞感、落叶飘动这些不是接现成物理引擎，而是用曲线、随机数和一些公式去调。落叶一开始只是想做氛围，后来发现它随着时间落下来会轻微遮挡棋盘，反而变成一种自然的难度；所以游戏里保留了扫叶次数，让它既是装饰也是一点玩法压力。&lt;/p&gt;
+&lt;p&gt;当前功能大概是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;无广告、无账号、无第三方分析 SDK&lt;/li&gt;
+&lt;li&gt;离线可玩，本地保存进度和设置&lt;/li&gt;
+&lt;li&gt;水墨主题免费，核心玩法不锁&lt;/li&gt;
+&lt;li&gt;提示、撤销、洗牌、落叶清扫&lt;/li&gt;
+&lt;li&gt;背景音乐、音效和触觉反馈可开关&lt;/li&gt;
+&lt;li&gt;一个可选内购：一次性解锁全部高级主题，不是订阅&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;也坦白说现在还有不少可以继续打磨的地方：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;玩法平衡还可以继续调，不同人对「太简单 / 太难」的阈值差很多&lt;/li&gt;
+&lt;li&gt;牌面、落叶、粒子这些视觉效果在不同 iPhone 尺寸上还值得继续看&lt;/li&gt;
+&lt;li&gt;SwiftUI 做游戏挺有意思，但动画和性能边界需要一直盯&lt;/li&gt;
+&lt;li&gt;这个 App 更像一个安静的小棋盘，不是那种有闯关、体力、排行榜、活动弹窗的手游&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;截图放两张，图片放在 GitHub Pages 上：&lt;/p&gt;
+&lt;p&gt;主玩法截图：
+&lt;a href=&quot;https://hooosberg.github.io/Sumi-Mahjong/posters/zh-Hans/01.webp&quot; rel=&quot;nofollow&quot;&gt;https://hooosberg.github.io/Sumi-Mahjong/posters/zh-Hans/01.webp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;主题截图：
+&lt;a href=&quot;https://hooosberg.github.io/Sumi-Mahjong/posters/zh-Hans/03.webp&quot; rel=&quot;nofollow&quot;&gt;https://hooosberg.github.io/Sumi-Mahjong/posters/zh-Hans/03.webp&lt;/a&gt;
+这次放 50 个内购码，想换一些真实反馈。&lt;/p&gt;
+&lt;p&gt;注意：下面这些是 &lt;code&gt;Unlock All Themes&lt;/code&gt; 的内购 Offer Code ，不是 App 下载码。这个坑我之前在另一个 App 上踩过一次，苹果后台把外层 Promo Codes 和内购 Offer Codes 分得特别绕，真的很容易点错。这次是在 In-App Purchases 里的内购商品下面生成的。&lt;/p&gt;
+&lt;p&gt;兑换方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;iPhone 打开 App Store&lt;/li&gt;
+&lt;li&gt;点右上角头像&lt;/li&gt;
+&lt;li&gt;选择「兑换礼品卡或代码」&lt;/li&gt;
+&lt;li&gt;粘贴下面任意一个兑换码&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果兑换成功，麻烦回复一下用了哪个编号，方便后面的人少试重复码。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;01. FW8NR6KMT4YY4WJT7W
+02. TEXK4A63A4FKRH6F3N
+03. FPKJAWXJX368KWMKYK
+04. 66M4KAA4HJT8TMP7FJ
+05. TNP7ERJWXPRN878K33
+06. N7HW4PWXW3NMFJWKLA
+07. YEKXELENPMFYA34K4Y
+08. W8RFHXN7R7AK4LRMEE
+09. EJKHRTYYF7FW6T4E4N
+10. T8743LLPNNFW7X3HR8
+11. 67LN47348M6MW6R6EK
+12. NWK4NT6JAEHNF347RP
+13. XNEL8MMYKFTLEYJRF8
+14. WE8EYK7HE6HE3WLPXY
+15. 6E47AKXPJM3HRAMFAH
+16. HEMJ67E78RL8XX8N8K
+17. KF3EWEX33JWAN7FK6X
+18. T7RXMWWEPMEAH4EL67
+19. 3LPPR3LAWJJ7YE43RW
+20. XKLL63EJPTA8PJFW33
+21. 6AT7NEY6HX3KW3TLXJ
+22. L8HY7HE3ALAXW8TLWF
+23. PH3A8WJJHLTW3X6HKK
+24. MTE4KA8736TNXFN4L3
+25. E846MJMLNA8M7WKHTP
+26. NTT36RTJA6E34WLA4M
+27. HYJAFXTEYFRF76KH7T
+28. FJJA63NNPEF8MH6Y3A
+29. L6N7JHKFM8Y6JNKT4L
+30. PPL8XANNRMJKP4RFEE
+31. M4JF3YHMKAXK8JKRN6
+32. 6J7RE7HJYF3E68F733
+33. LNE8NXM86XMWFP6X8F
+34. T67NJM33K37W3RPNME
+35. LHRXWHFLKJLAKPKTLE
+36. AL4EETX6N6KK7E3M63
+37. KLFH7P8X8KANH7WH6R
+38. WTTAH84LA3XRWWLT3J
+39. HK6YAH6E6MLPXH6XFL
+40. 46HM4JF3K6AJ83T3PL
+41. AHNJH8KN7FMWW4EKYP
+42. LAHKY84HE7MH6HFJFY
+43. JHYYWY6RPPRRHJKR46
+44. RHKFR67KKH78PLKAMM
+45. NRX3MTMLM8Y7PK8A3F
+46. E8TN3XXJ3FMRXEXHK4
+47. 34Y4HNAWLH3ENPM3P8
+48. J8NYRFF7TMTMP8RPLN
+49. K4WPPPE8JPRRY3ENWP
+50. AYAX6MLJP776HT3FHN
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;特别想听大家吐槽：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;玩法是不是太简单 / 太难&lt;/li&gt;
+&lt;li&gt;牌面和主题有没有看不清的地方&lt;/li&gt;
+&lt;li&gt;落叶到底是有趣，还是烦人&lt;/li&gt;
+&lt;li&gt;SwiftUI 写小游戏这条路有没有你们觉得很蠢或很妙的地方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;谢谢各位佬。&lt;/p&gt;
 </description>
     </item>
   </channel>
