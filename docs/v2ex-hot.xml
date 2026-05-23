@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 23 May 2026 05:57:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 08:13:34 GMT</lastBuildDate>
     <item>
       <title>今天我生日,可以薅 V 友一句生日快乐吗?</title>
       <link>https://www.v2ex.com/t/1214784</link>
@@ -36,32 +36,6 @@
 </description>
     </item>
     <item>
-      <title>Surge 作者将 𝕏 个人简介修改为已退休</title>
-      <link>https://www.v2ex.com/t/1214693</link>
-      <guid>v2ex-1214693</guid>
-      <pubDate>Fri, 22 May 2026 06:10:27 GMT</pubDate>
-      <description>&lt;p&gt;Surge 作者将𝕏个人简介修改为已退休&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/blankwonder&quot; rel=&quot;nofollow&quot;&gt;https://x.com/blankwonder&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Surge 在 macOS 上的体验确实不错，稳定性很好，我这边基本没遇到过什么问题，作为网关使用也很方便。它的 Dashboard 和整体 UI 设计也很直观，这部分体验明显优于不少同类产品，用起来确实更顺手，Mac 平台上整体完成度很高。&lt;/p&gt;
-&lt;p&gt;最近更新加入的 Agent Skill 支持，以及按住 Option 键点击 Surge 主菜单后显示隐藏策略组这些细节功能，我觉得都非常实用。这类偏效率和可维护性的设计，确实能看出来产品在长期使用体验上的打磨。&lt;/p&gt;
-&lt;p&gt;不过如果只是单纯作为代理工具使用，其实很多免费的 Clash 系列软件已经做得相当不错了。尤其是在 iOS 上，Loon 、Quantumult X 以及小火箭这类产品，价格更低一些，同时代理体验和 Surge 其实已经比较接近了，该有的功能基本也都有。&lt;/p&gt;
-&lt;p&gt;以 Surge 目前的价格和订阅费用来看，还是希望功能上能再进一步，尤其是协议支持和兼容性这块。相比 Loon 以及各类 Clash 方案，Surge 在灵活性和协议覆盖方面，确实还有一些需要补足的地方ε-(´∀｀; )&lt;/p&gt;
-&lt;p&gt;当然，也希望未来同类型的软件都能越做越好，彼此竞争、共同进步，最终受益的还是用户。也感谢这些开源项目以及长期无私贡献的开发者和维护者，正是因为这些人的持续投入，代理工具这几年才能变得越来越稳定、越来越易用。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>家宽这么不稳定，有没有 NAS 托管服务么？</title>
-      <link>https://www.v2ex.com/t/1214722</link>
-      <guid>v2ex-1214722</guid>
-      <pubDate>Fri, 22 May 2026 07:40:08 GMT</pubDate>
-      <description>&lt;p&gt;NAS 放家也经常不稳定，人在家里当然无所谓，没有网络都可以直接对拷&lt;/p&gt;
-&lt;p&gt;对 NAS 是希望能在外面也能随时稳定的访问，才是真正实用。&lt;/p&gt;
-&lt;p&gt;实际上，家宽总是隔三岔五的不稳定&lt;/p&gt;
-&lt;p&gt;如果有类似 NAS 托管的服务，这个不怎么耗电，商业网络能稳定很多&lt;/p&gt;
-&lt;p&gt;也许纯粹是监管问题，不允许开展这类业务吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>AI 蓬勃发展，各种资讯满天飞，大家都是从哪里获取 AI 资讯</title>
       <link>https://www.v2ex.com/t/1214741</link>
       <guid>v2ex-1214741</guid>
@@ -88,6 +62,31 @@
 </description>
     </item>
     <item>
+      <title>作为程序员，你愿意为“0 AI 代码介入”的汽车支付溢价吗？</title>
+      <link>https://www.v2ex.com/t/1214894</link>
+      <guid>v2ex-1214894</guid>
+      <pubDate>Sat, 23 May 2026 03:49:58 GMT</pubDate>
+      <description>&lt;p&gt;大家好，我是做嵌入式开发的。先给纯软方向的同学铺垫个背景：基本上现在能通电的设备都会带 MCU ，也都有代码在上面运行。&lt;/p&gt;
+&lt;p&gt;结合目前的行业现状，我想和大家探讨一个细思极恐的问题：&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;现状：防不胜防，汽车底层代码正被 AI 全面渗透&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;我可以很肯定地说，只要是今年新出的车，100% 已经包含了 AI 生成的代码。而且很多时候，这已经是避无可避的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;上游污染（被动使用）：&lt;/strong&gt; 现在的 AI 渗透是全方位的，很多 MCU 原厂提供的 SDK 源码里，本身就已经混入了 AI 生成的代码。哪怕下游车企的程序员完全不用 AI ，只要基于官方库做开发，就已经“被动”使用了 AI 代码。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;下游外包（主动使用）：&lt;/strong&gt; 汽车行业有着极度细分的分包特性。很多底层设备的最终逻辑代码，可能就是由刚毕业没几年的应届生，为了赶工期用着各种 AI 工具（甚至是国产 AI ）直接跑出来的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;隐患：缺乏 Review 的黑盒&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;难听点说，由于层层外包和赶进度，很多这种 AI 参与的代码根本没人严格 Review 。它纯粹是一个跑得通就行的“黑盒”。
+它的控制范围有多广？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;轻则：&lt;/strong&gt; 车上所有能被按下的按钮、空调开关、车窗升降。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;重则：&lt;/strong&gt; 转向系统控制、ESP 车身稳定系统、甚至是碰撞后的应急解锁。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;我的问题：&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;如果未来有车厂以此为卖点，宣传自己的系统是 &lt;strong&gt;“100% 纯人类手写、0 AI 介入、经过严格人工 Code Review”&lt;/strong&gt;，大家愿意为这种安全性（或者说安全感）额外付费吗？
+还是说，大家更愿意相信车厂的黑盒 Testcase 覆盖度足够高，只要价格越便宜越好？想听听各位 V 友的看法。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>萌新的第一台软路由上 N5105 是不是有点奢侈？</title>
       <link>https://www.v2ex.com/t/1214855</link>
       <guid>v2ex-1214855</guid>
@@ -107,6 +106,18 @@
 刚到公司一点额度都还没用的情况下，一直请求失败，不是断断续续的失败，是直接无法访问了，只有早上可能稍微好一点。&lt;/p&gt;
 &lt;p&gt;阿里云 tokenplan 的问题，积分制，199 买了 25000 积分，但是具体这个积分怎么算没有找到，然后我接入后就发了一个 1 ， 扣了我 160 积分，所以我只能发 150 个 1.。。。。
 然后我测试写了一个很简单的用户卡包的列表和查询功能，扣了我 1000 积分，25000 估计只能用 1 天。。 慎买慎买&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>有没有不用买车也能让新手熟练掌握开车驾驶的办法？</title>
+      <link>https://www.v2ex.com/t/1214887</link>
+      <guid>v2ex-1214887</guid>
+      <pubDate>Sat, 23 May 2026 03:30:21 GMT</pubDate>
+      <description>&lt;p&gt;10 年驾照从未上过路，迫切地想开车自驾，但是处于没啥经验，心中胆怯。&lt;/p&gt;
+&lt;p&gt;家里本来计划过继一辆旧车给我，但是考虑到必要性和后续使用成本，没有要。&lt;/p&gt;
+&lt;p&gt;其实用车的场景有限，后续还是想租车玩，所以就面临一个问题，租车之前怎么熟练的掌握驾驶&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;有没有同样经历的朋友&lt;/p&gt;
 </description>
     </item>
   </channel>
