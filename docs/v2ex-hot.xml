@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 24 May 2026 15:40:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 16:51:08 GMT</lastBuildDate>
     <item>
       <title>我开发了这么多游戏，也没啥热度，不知道我做错了什么</title>
       <link>https://www.v2ex.com/t/1215087</link>
@@ -79,18 +79,36 @@
 </description>
     </item>
     <item>
-      <title>让 AI 写产品官网还蛮困难，很磨时间，默认出的文案和样式都不太行，有什么技巧么？ 或者有啥神奇的 skill、prompt 可以提高效率？</title>
-      <link>https://www.v2ex.com/t/1214996</link>
-      <guid>v2ex-1214996</guid>
-      <pubDate>Sat, 23 May 2026 16:09:58 GMT</pubDate>
-      <description>陆陆续续花了接近 3 天时间才改了一版本。&lt;br /&gt;&lt;br /&gt;之前是&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/jU0jggr.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/jU0jggr.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;改完现在是&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/dPFGHP3.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/dPFGHP3.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/mnJzFX1.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/mnJzFX1.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;最初的版本是，AI 直出的文案和样式，文案不说人话，样式也看着着就别扭。&lt;br /&gt;&lt;br /&gt;新版是，每一幕和 AI 描述自己的想法然后定制调出来的，个人感官上舒服了很多。&lt;br /&gt;&lt;br /&gt;然后想着未来可能会用 AI 做更多新产品，手动调也太麻烦了，大家是套模板还是有啥神奇的 skill 或 prompt 可以提高效率么？求分享。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;另外自荐产品&lt;br /&gt;名字：叙野 Lorewild &lt;br /&gt;网址： &lt;a target=&quot;_blank&quot; href=&quot;https://lorewild.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://lorewild.com&lt;/a&gt;&lt;br /&gt;推特： &lt;a target=&quot;_blank&quot; href=&quot;https://x.com/ethan180953&quot; rel=&quot;nofollow noopener&quot;&gt;https://x.com/ethan180953&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;定位是“用 AI 故事学外语”和“AI 角色对话学外语”，支持中文、英语、日语、韩语、德语、西班牙语六个语言。类似酒馆，也可以自建角色和剧本，目前提供了轻量的学习层。&lt;br /&gt;&lt;br /&gt;md ，一点流量没有，得多尝试 build in public 啥的整起来。</description>
-    </item>
-    <item>
       <title>在推广节点领了大半个月赛博鸡蛋，做了个 AI 中转站排名网站</title>
       <link>https://www.v2ex.com/t/1215053</link>
       <guid>v2ex-1215053</guid>
       <pubDate>Sun, 24 May 2026 04:52:44 GMT</pubDate>
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://apirank.ttop5.cc&quot; rel=&quot;nofollow noopener&quot;&gt;https://apirank.ttop5.cc&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;最近中转站铺天盖地，我也薅了不少羊毛，发现各个中转站服务质量参差不齐，于是分析了一下日志做了这个网站。&lt;br /&gt;&lt;br /&gt;这是一个 AI 中转站观察站点，用于汇总和展示中转站的排名记各种相关信息。目前能看到：综合排名（分工作时段 / 非工作时段）、公告聚合、倍率和价格的历史快照，还有一个黑盒安全审计入口（填 API 地址 + 临时 Key ，跑一轮检测看风险）。审计结果不计入正式排名，纯参考。&lt;br /&gt;&lt;br /&gt;绝大多数测试额度都是领的新用户免费额度，也有一些是充过 3 块 5 块的，样本有限，仅供参考。</description>
+    </item>
+    <item>
+      <title>转弯不让直行有感</title>
+      <link>https://www.v2ex.com/t/1215108</link>
+      <guid>v2ex-1215108</guid>
+      <pubDate>Sun, 24 May 2026 11:00:08 GMT</pubDate>
+      <description>骑了电动车最近上下班，有些路转弯车比较多，大巴，小汽车，电摩托，基本没让过直行车辆，有几次还有抢跑的，如果不是直行车速极慢，就是一场事故&lt;br /&gt;&lt;br /&gt;各位对现在交通有啥感想</description>
+    </item>
+    <item>
+      <title>想问一下🌹花在微信里是表示成功、勿忧的黑话吗？</title>
+      <link>https://www.v2ex.com/t/1215039</link>
+      <guid>v2ex-1215039</guid>
+      <pubDate>Sun, 24 May 2026 03:39:51 GMT</pubDate>
+      <description>&lt;p&gt;周五下午投个标，竞争家数挺多的。忐忑的很。&lt;/p&gt;
+&lt;p&gt;甲方评委是同学，但是只是参加（被授权），其实他本身不能做主（听领导的）&lt;/p&gt;
+&lt;p&gt;说白了，是领导跟他一起参加，他负责打分，领导线下指挥，出了事儿他背锅，不出事皆大欢喜。&lt;/p&gt;
+&lt;p&gt;傍晚 6 点多，还没有结果，我问他结束了吗？没回。&lt;/p&gt;
+&lt;p&gt;7 点钟忍不住给他打了微信电话，给掐了。&lt;/p&gt;
+&lt;p&gt;8 点钟他回了个  “才到家明天还加班，累啊🌹”&lt;/p&gt;
+&lt;p&gt;我感觉，这应该是“黑话”，他知道我关照结果，又受限于纪律不该透露，就放了个小花花&lt;/p&gt;
+&lt;p&gt;但是又不敢十分确定&lt;/p&gt;
+&lt;p&gt;马上要写周报了，如何跟领导汇报这个呢？ &lt;/p&gt;
+&lt;p&gt;是“等待结果”还是“初步是好消息”&lt;/p&gt;
+&lt;p&gt;xdm 帮我诊断一下呢？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
