@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 24 May 2026 22:28:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 23:31:49 GMT</lastBuildDate>
     <item>
       <title>我开发了这么多游戏，也没啥热度，不知道我做错了什么</title>
       <link>https://www.v2ex.com/t/1215087</link>
@@ -53,6 +53,13 @@
 </description>
     </item>
     <item>
+      <title>最近感觉叫陌生人老师挺好的</title>
+      <link>https://www.v2ex.com/t/1215112</link>
+      <guid>v2ex-1215112</guid>
+      <pubDate>Sun, 24 May 2026 11:17:31 GMT</pubDate>
+      <description>以前感觉山东兄弟叫老师比较多，最近和公司对接的陌生人比较多，发现很多人都叫对方老师，也挺好</description>
+    </item>
+    <item>
       <title>你们都在用什么机器跑 hermes</title>
       <link>https://www.v2ex.com/t/1215014</link>
       <guid>v2ex-1215014</guid>
@@ -62,13 +69,6 @@
 &lt;p&gt;不知道什么配置性能不会溢出？&lt;/p&gt;
 &lt;p&gt;m1 8+256 的 macbook air 如何？&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>最近感觉叫陌生人老师挺好的</title>
-      <link>https://www.v2ex.com/t/1215112</link>
-      <guid>v2ex-1215112</guid>
-      <pubDate>Sun, 24 May 2026 11:17:31 GMT</pubDate>
-      <description>以前感觉山东兄弟叫老师比较多，最近和公司对接的陌生人比较多，发现很多人都叫对方老师，也挺好</description>
     </item>
     <item>
       <title>抖音上有人推菲律宾线上 1 对 1 小朋友的外教，靠谱吗？</title>
@@ -93,22 +93,11 @@
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://apirank.ttop5.cc&quot; rel=&quot;nofollow noopener&quot;&gt;https://apirank.ttop5.cc&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;最近中转站铺天盖地，我也薅了不少羊毛，发现各个中转站服务质量参差不齐，于是分析了一下日志做了这个网站。&lt;br /&gt;&lt;br /&gt;这是一个 AI 中转站观察站点，用于汇总和展示中转站的排名记各种相关信息。目前能看到：综合排名（分工作时段 / 非工作时段）、公告聚合、倍率和价格的历史快照，还有一个黑盒安全审计入口（填 API 地址 + 临时 Key ，跑一轮检测看风险）。审计结果不计入正式排名，纯参考。&lt;br /&gt;&lt;br /&gt;绝大多数测试额度都是领的新用户免费额度，也有一些是充过 3 块 5 块的，样本有限，仅供参考。</description>
     </item>
     <item>
-      <title>想问一下🌹花在微信里是表示成功、勿忧的黑话吗？</title>
-      <link>https://www.v2ex.com/t/1215039</link>
-      <guid>v2ex-1215039</guid>
-      <pubDate>Sun, 24 May 2026 03:39:51 GMT</pubDate>
-      <description>&lt;p&gt;周五下午投个标，竞争家数挺多的。忐忑的很。&lt;/p&gt;
-&lt;p&gt;甲方评委是同学，但是只是参加（被授权），其实他本身不能做主（听领导的）&lt;/p&gt;
-&lt;p&gt;说白了，是领导跟他一起参加，他负责打分，领导线下指挥，出了事儿他背锅，不出事皆大欢喜。&lt;/p&gt;
-&lt;p&gt;傍晚 6 点多，还没有结果，我问他结束了吗？没回。&lt;/p&gt;
-&lt;p&gt;7 点钟忍不住给他打了微信电话，给掐了。&lt;/p&gt;
-&lt;p&gt;8 点钟他回了个  “才到家明天还加班，累啊🌹”&lt;/p&gt;
-&lt;p&gt;我感觉，这应该是“黑话”，他知道我关照结果，又受限于纪律不该透露，就放了个小花花&lt;/p&gt;
-&lt;p&gt;但是又不敢十分确定&lt;/p&gt;
-&lt;p&gt;马上要写周报了，如何跟领导汇报这个呢？ &lt;/p&gt;
-&lt;p&gt;是“等待结果”还是“初步是好消息”&lt;/p&gt;
-&lt;p&gt;xdm 帮我诊断一下呢？&lt;/p&gt;
-</description>
+      <title>你们都是 plus、pro，但是程序需要用 api 在哪里买？</title>
+      <link>https://www.v2ex.com/t/1215096</link>
+      <guid>v2ex-1215096</guid>
+      <pubDate>Sun, 24 May 2026 09:12:25 GMT</pubDate>
+      <description>也许不应该说哪里买，是怎么买官方的 gpt 和 gemini 的 api ，不是聊天或者 coding plan</description>
     </item>
   </channel>
 </rss>
