@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 25 May 2026 11:03:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 14:18:56 GMT</lastBuildDate>
     <item>
       <title>彩礼是男方出还是男方父母出?</title>
       <link>https://www.v2ex.com/t/1215213</link>
@@ -19,20 +19,6 @@
       <guid>v2ex-1215221</guid>
       <pubDate>Mon, 25 May 2026 02:44:23 GMT</pubDate>
       <description>兄弟姐妹们，来参与一下😂&lt;br /&gt;&lt;br /&gt;老家房子预计 6 月份硬装结束，接下来准备开始疯狂采购家具家电了。&lt;br /&gt;这次打算主打一个“全网抄作业”。&lt;br /&gt;&lt;br /&gt;现在真诚邀请大家：&lt;br /&gt;&lt;br /&gt;👉 把你用过之后觉得“真香”的东西推荐给家人们！&lt;br /&gt;&lt;br /&gt;不限品类：&lt;br /&gt;&lt;br /&gt;* 家电&lt;br /&gt;* 家具&lt;br /&gt;* 厨房用品&lt;br /&gt;* 卫浴&lt;br /&gt;* 智能家居&lt;br /&gt;* 小众神器&lt;br /&gt;&lt;br /&gt;尤其欢迎：&lt;br /&gt;&lt;br /&gt;“已经用了几年，还想继续回购”的东西。&lt;br /&gt;&lt;br /&gt;大家尽量带上：&lt;br /&gt;&lt;br /&gt;* 品牌/型号&lt;br /&gt;* 为什么好用&lt;br /&gt;* 有没有踩坑&lt;br /&gt;&lt;br /&gt;也希望评论区最后能成为一份“普通人真实家居推荐大全”😂&lt;br /&gt;先谢谢大家了！🙏</description>
-    </item>
-    <item>
-      <title>最近感觉叫陌生人老师挺好的</title>
-      <link>https://www.v2ex.com/t/1215112</link>
-      <guid>v2ex-1215112</guid>
-      <pubDate>Sun, 24 May 2026 11:17:31 GMT</pubDate>
-      <description>以前感觉山东兄弟叫老师比较多，最近和公司对接的陌生人比较多，发现很多人都叫对方老师，也挺好</description>
-    </item>
-    <item>
-      <title>阿里云的 dns 解析要收钱了</title>
-      <link>https://www.v2ex.com/t/1215176</link>
-      <guid>v2ex-1215176</guid>
-      <pubDate>Mon, 25 May 2026 01:11:28 GMT</pubDate>
-      <description>影响时间&lt;br /&gt;&lt;br /&gt;2026-06-24 免费版限速通知&lt;br /&gt;&lt;br /&gt;变更内容和影响&lt;br /&gt;&lt;br /&gt;尊敬的用户：&lt;br /&gt;       感谢您长期以来对阿里云云解析 DNS 的支持与信任。随着云解析 DNS-公网权威解析免费版用户规模的快速增长，平台承载的解析总量不断攀升。为进一步保障全球解析链路的整体稳定性与高可用，避免因局部流量突增或异常查询而影响广大用户的正常业务，我们计划对免费版的超大流量请求进行管控。现将相关事项公告如下：&lt;br /&gt;自 2026 年 6 月 24 日起，云解析 DNS-公网权威解析免费版将增加单域名日解析量限制：&lt;br /&gt;1 、免费版单域名日解析量限额：10 万次&lt;br /&gt;2 、超限额处理策略：如系统监测到整体流量激增或并发压力过大时，为保障核心链路稳定，我们将对超额部分的解析请求采取动态限速措施（如请求响应延迟、丢包等）&lt;br /&gt;应对建议&lt;br /&gt;&lt;br /&gt;1 、用量自查：登录云解析 DNS 控制台，查看您的免费版域名的实际解析量使用趋势，提前评估业务水位。 链接&lt;br /&gt;2 、升级版本：如您的域名日解析量超过 10 万次，建议升级到云解析 DNS-公网权威解析付费版。付费版具备更高的解析量额度和 SLA 保障，支持平滑升级，能有效保障您核心业务的域名解析稳定性和低延时。&lt;br /&gt;感谢您的支持和理解！&lt;br /&gt;&lt;br /&gt;如您有任何问题，可随时通过工单 或者服务热线与我们联系。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;换 cf 吗？ cf 对国内兼容性如何大家说说呢。</description>
     </item>
     <item>
       <title>花费近万元，跑了 8500km，我租车一年后的真实感受</title>
@@ -140,6 +126,13 @@
 </description>
     </item>
     <item>
+      <title>阿里云的 dns 解析要收钱了</title>
+      <link>https://www.v2ex.com/t/1215176</link>
+      <guid>v2ex-1215176</guid>
+      <pubDate>Mon, 25 May 2026 01:11:28 GMT</pubDate>
+      <description>影响时间&lt;br /&gt;&lt;br /&gt;2026-06-24 免费版限速通知&lt;br /&gt;&lt;br /&gt;变更内容和影响&lt;br /&gt;&lt;br /&gt;尊敬的用户：&lt;br /&gt;       感谢您长期以来对阿里云云解析 DNS 的支持与信任。随着云解析 DNS-公网权威解析免费版用户规模的快速增长，平台承载的解析总量不断攀升。为进一步保障全球解析链路的整体稳定性与高可用，避免因局部流量突增或异常查询而影响广大用户的正常业务，我们计划对免费版的超大流量请求进行管控。现将相关事项公告如下：&lt;br /&gt;自 2026 年 6 月 24 日起，云解析 DNS-公网权威解析免费版将增加单域名日解析量限制：&lt;br /&gt;1 、免费版单域名日解析量限额：10 万次&lt;br /&gt;2 、超限额处理策略：如系统监测到整体流量激增或并发压力过大时，为保障核心链路稳定，我们将对超额部分的解析请求采取动态限速措施（如请求响应延迟、丢包等）&lt;br /&gt;应对建议&lt;br /&gt;&lt;br /&gt;1 、用量自查：登录云解析 DNS 控制台，查看您的免费版域名的实际解析量使用趋势，提前评估业务水位。 链接&lt;br /&gt;2 、升级版本：如您的域名日解析量超过 10 万次，建议升级到云解析 DNS-公网权威解析付费版。付费版具备更高的解析量额度和 SLA 保障，支持平滑升级，能有效保障您核心业务的域名解析稳定性和低延时。&lt;br /&gt;感谢您的支持和理解！&lt;br /&gt;&lt;br /&gt;如您有任何问题，可随时通过工单 或者服务热线与我们联系。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;换 cf 吗？ cf 对国内兼容性如何大家说说呢。</description>
+    </item>
+    <item>
       <title>周末给生活找点乐：试驾多款车玩</title>
       <link>https://www.v2ex.com/t/1215171</link>
       <guid>v2ex-1215171</guid>
@@ -155,13 +148,6 @@
 </description>
     </item>
     <item>
-      <title>为什么人可以脑子抽成这样。</title>
-      <link>https://www.v2ex.com/t/1215167</link>
-      <guid>v2ex-1215167</guid>
-      <pubDate>Mon, 25 May 2026 00:33:40 GMT</pubDate>
-      <description>当时环境:前面一辆 suv ，我跟着 suv 后面，女的也在 suv 后面和我并行(都在骑电动车，没有非机动车道，路肩全是车)&lt;br /&gt;&lt;br /&gt;她车着一个七八岁的女孩想把我强行逼停下来进行左转，问题是我在左边她在右边，不应该是她自己减速从我后面进行左转吗。她居然想强行骑着电动车往左边把我撵出去，过程中车把手是碰到了，她发现我没让她居然还发出晦气的声音。&lt;br /&gt;&lt;br /&gt;又是无语的一天。</description>
-    </item>
-    <item>
       <title>公司给每个研发分配了不限量 CC sonnet 4.6，每周发布额度消耗排行榜，如何能排名靠前些呢？</title>
       <link>https://www.v2ex.com/t/1215243</link>
       <guid>v2ex-1215243</guid>
@@ -174,6 +160,29 @@
       <guid>v2ex-1215226</guid>
       <pubDate>Mon, 25 May 2026 02:53:19 GMT</pubDate>
       <description>&lt;p&gt;你们有没有这种感觉？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>为什么人可以脑子抽成这样。</title>
+      <link>https://www.v2ex.com/t/1215167</link>
+      <guid>v2ex-1215167</guid>
+      <pubDate>Mon, 25 May 2026 00:33:40 GMT</pubDate>
+      <description>当时环境:前面一辆 suv ，我跟着 suv 后面，女的也在 suv 后面和我并行(都在骑电动车，没有非机动车道，路肩全是车)&lt;br /&gt;&lt;br /&gt;她车着一个七八岁的女孩想把我强行逼停下来进行左转，问题是我在左边她在右边，不应该是她自己减速从我后面进行左转吗。她居然想强行骑着电动车往左边把我撵出去，过程中车把手是碰到了，她发现我没让她居然还发出晦气的声音。&lt;br /&gt;&lt;br /&gt;又是无语的一天。</description>
+    </item>
+    <item>
+      <title>限时前 100 名！ ChaoyeAPI 免费 10 刀额度等你来拿</title>
+      <link>https://www.v2ex.com/t/1215236</link>
+      <guid>v2ex-1215236</guid>
+      <pubDate>Mon, 25 May 2026 03:07:27 GMT</pubDate>
+      <description>&lt;p&gt;想体验强大的 AI 接口？现在加入 ChaoyeAPI 就送你 10 刀额度，让你马上开始调试、测试和使用各种 AI 工具！&lt;/p&gt;
+&lt;p&gt;🎁 活动福利：&lt;/p&gt;
+&lt;p&gt;每位新注册用户立即获得 10 刀 ChaoyeAPI 额度
+直接可用于 Plus / Pro / Claude / Kiro / Max20x 渠道
+轻松测试 API 调用，无需额外付费&lt;/p&gt;
+&lt;p&gt;🌐 立即注册领取： &lt;a href=&quot;https://chaoye.xyz&quot; rel=&quot;nofollow&quot;&gt;https://chaoye.xyz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;⚡ 备注：每个账号仅限领取一次，先到先得！
+评论区发邮箱 给你加上余额
+上次人太多了 没有发到的重新发下哦&lt;/p&gt;
 </description>
     </item>
     <item>
