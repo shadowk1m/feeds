@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 26 May 2026 10:33:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 13:45:42 GMT</lastBuildDate>
     <item>
       <title>看上了个女同事，有什么办法能加到微信嘛</title>
       <link>https://www.v2ex.com/t/1215464</link>
@@ -18,33 +18,6 @@
       <guid>v2ex-1215487</guid>
       <pubDate>Tue, 26 May 2026 02:37:58 GMT</pubDate>
       <description>4w 玩了一个月还剩三万，这就是牛市吗</description>
-    </item>
-    <item>
-      <title>自建了一个 AI 中转站，邀请大家帮忙压测（支持 Claude Code 调用 GPT-5.5）</title>
-      <link>https://www.v2ex.com/t/1215389</link>
-      <guid>v2ex-1215389</guid>
-      <pubDate>Mon, 25 May 2026 10:38:32 GMT</pubDate>
-      <description>&lt;p&gt;之前有在站内提过，我们自己折腾了一个 AI 中转站，也有一些 V 友注册体验过。&lt;/p&gt;
-&lt;p&gt;最近这段时间主要在搞稳定性优化、上游渠道调整和监控告警，陆续解决了一些模型可用性和响应速度方面的问题，现在准备再拉一些用户进来做压力测试和长期使用验证。&lt;/p&gt;
-&lt;p&gt;欢迎注册体验，帮忙测测稳定性和兼容性。&lt;/p&gt;
-&lt;p&gt;价格方面目前应该还算有竞争力，主要还是想做一个自己也愿意长期使用的平台。&lt;/p&gt;
-&lt;p&gt;目前开放测试期间：&lt;/p&gt;
-&lt;p&gt;注册赠送 50 刀
-充值 1 元到账 10 刀
-邀请好友可得 50 刀&lt;/p&gt;
-&lt;p&gt;本帖留言前 100 位用户额外送 100 刀(请留下 base64 编码的 QQ ，我会逐个发放)&lt;/p&gt;
-&lt;p&gt;官网：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://tokenwork.app&quot; rel=&quot;nofollow&quot;&gt;https://tokenwork.app&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;交流群：&lt;/p&gt;
-&lt;p&gt;QQ 群：768465677&lt;/p&gt;
-&lt;p&gt;如果测试过程中遇到：&lt;/p&gt;
-&lt;p&gt;模型不可用
-响应速度异常
-Claude Code 兼容问题
-余额计费异常
-其他 Bug&lt;/p&gt;
-&lt;p&gt;欢迎直接在群里反馈，我基本都会第一时间处理。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>“万一免五”a 股低佣大笑脸开户，抽一个小银元宝，拿着把玩</title>
@@ -87,6 +60,13 @@ Claude Code 兼容问题
       <description>预算 3000 以下，倾向于 vivo 系的，我自己刚用了 x200s 一年，系统蛮好用的，拍照也挺不错&lt;br /&gt;搜之前的帖子有推荐 iqoo 的，我不太了解产品线，现在 618 这个时点有推荐的吗，或者我买个新的，给我妈用我的 x200 也行 hh&lt;br /&gt;希望能用 3 年左右，日常最多是打个欢乐麻将+刷抖音，偶尔拍拍照，使用强度不高。</description>
     </item>
     <item>
+      <title>玩美股的兄弟们，现在应对策略是什么</title>
+      <link>https://www.v2ex.com/t/1215456</link>
+      <guid>v2ex-1215456</guid>
+      <pubDate>Tue, 26 May 2026 01:27:01 GMT</pubDate>
+      <description>被制裁的三家，我好久之前都开了，当时是为了混入金和转仓奖励的，结果成为我唯一的渠道了。后悔没开个 ib 之类的。&lt;br /&gt;&lt;br /&gt;奥对，我还有中银国际= =||，是不是还能接着拿着玩。&lt;br /&gt;&lt;br /&gt;CRS 我还没报税了，我基本只买不卖，就是怕报税，头疼。&lt;br /&gt;&lt;br /&gt;把股票转仓走，是不是就可以躲开 CRS 。</description>
+    </item>
+    <item>
       <title>各位 Javaer 现在是怎么用 idea+各种 AI 工具的</title>
       <link>https://www.v2ex.com/t/1215463</link>
       <guid>v2ex-1215463</guid>
@@ -100,13 +80,6 @@ Claude Code 兼容问题
 </description>
     </item>
     <item>
-      <title>玩美股的兄弟们，现在应对策略是什么</title>
-      <link>https://www.v2ex.com/t/1215456</link>
-      <guid>v2ex-1215456</guid>
-      <pubDate>Tue, 26 May 2026 01:27:01 GMT</pubDate>
-      <description>被制裁的三家，我好久之前都开了，当时是为了混入金和转仓奖励的，结果成为我唯一的渠道了。后悔没开个 ib 之类的。&lt;br /&gt;&lt;br /&gt;奥对，我还有中银国际= =||，是不是还能接着拿着玩。&lt;br /&gt;&lt;br /&gt;CRS 我还没报税了，我基本只买不卖，就是怕报税，头疼。&lt;br /&gt;&lt;br /&gt;把股票转仓走，是不是就可以躲开 CRS 。</description>
-    </item>
-    <item>
       <title>你们遇到最奇怪的同事是什么样的</title>
       <link>https://www.v2ex.com/t/1215470</link>
       <guid>v2ex-1215470</guid>
@@ -115,6 +88,13 @@ Claude Code 兼容问题
 各种滑音，全频段覆盖，听得人很难受，只要她一说话我就戴耳机……&lt;/p&gt;
 &lt;p&gt;(有点像是阴阳怪气人那种音调，但是其实内容很正常，人似乎也不错，只是他平时说话就这个样子)&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>感觉共享单车可以增加碰一下解锁</title>
+      <link>https://www.v2ex.com/t/1215473</link>
+      <guid>v2ex-1215473</guid>
+      <pubDate>Tue, 26 May 2026 01:56:03 GMT</pubDate>
+      <description>就放在二维码下面，相比于二维码容易被破坏、被贴纸替换，碰一下不容易破坏，除非拆车，多一种开锁方式，使用也更便捷。</description>
     </item>
   </channel>
 </rss>
