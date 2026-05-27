@@ -54,6 +54,16 @@ https://<your-username>.github.io/<repo-name>/zhihu-hot.xml
 https://<your-username>.github.io/<repo-name>/v2ex-hot.xml
 ```
 
+## Keyword Blacklist
+
+Set the `FEED_BLACKLIST` environment variable to a comma-separated list of keywords. Items whose title or description contains any keyword (case-insensitive substring match) are dropped before the RSS file is written.
+
+```bash
+FEED_BLACKLIST="广告,推广,sponsored" npm run generate
+```
+
+Leave the variable unset (or empty) to disable filtering. To use this in GitHub Actions, add `FEED_BLACKLIST` as a repository variable or secret and pass it through to the generator step's `env`.
+
 ## Extending
 
 Add another feed: push a new object into the `FEEDS` array in `src/generate.js` with an `id`, metadata, and a `fetcher` function returning normalized items: `{ title, link, guid, date, description }`.

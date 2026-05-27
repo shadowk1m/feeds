@@ -12,6 +12,18 @@ import { existsSync } from 'node:fs';
 import path from 'node:path';
 
 const DOCS_DIR = path.resolve('docs');
+
+const BLACKLIST_KEYWORDS = (process.env.FEED_BLACKLIST || '')
+  .split(',')
+  .map(k => k.trim().toLowerCase())
+  .filter(Boolean);
+
+function isBlacklisted(item) {
+  if (BLACKLIST_KEYWORDS.length === 0) return false;
+  const haystack = `${item.title || ''} ${item.description || ''}`.toLowerCase();
+  return BLACKLIST_KEYWORDS.some(kw => haystack.includes(kw));
+}
+
 const FEEDS = [
   // {
   //   id: 'zhihu-hot',
@@ -28,6 +40,22 @@ const FEEDS = [
     link: 'https://www.v2ex.com/?tab=hot',
     description: 'Hot topics from V2EX',
     fetcher: fetchV2ex
+  },
+  {
+    id: 'linuxdo-news',
+    filename: 'linuxdo-news.xml',
+    title: 'LINUX DO - News',
+    link: 'https://linux.do/c/news/34',
+    description: 'News category from linux.do',
+    fetcher: () => fetchRss('https://linux.do/c/news/34.rss', 'linuxdo-news')
+  },
+  {
+    id: 'linuxdo-welfare',
+    filename: 'linuxdo-welfare.xml',
+    title: 'LINUX DO - Welfare',
+    link: 'https://linux.do/c/welfare/36',
+    description: 'Welfare category from linux.do',
+    fetcher: () => fetchRss('https://linux.do/c/welfare/36.rss', 'linuxdo-welfare')
   }
 ];
 
@@ -74,6 +102,63 @@ async function fetchJson(url, options = {}) {
   return res.json();
 }
 
+async function fetchText(url, options = {}) {
+  const res = await fetch(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (FeedGenerator)',
+      'Accept': 'application/rss+xml, application/xml, text/xml; q=0.9, */*; q=0.8',
+    },
+    ...options
+  });
+  if (!res.ok) throw new Error(`Request failed ${res.status} ${url}`);
+  return res.text();
+}
+
+function unwrapCdata(s = '') {
+  const m = s.match(/^<!\[CDATA\[([\s\S]*?)\]\]>$/);
+  return m ? m[1] : s;
+}
+
+function decodeEntities(s = '') {
+  return s
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&apos;/g, "'")
+    .replace(/&amp;/g, '&');
+}
+
+function pickTag(block, tag) {
+  const re = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i');
+  const m = block.match(re);
+  if (!m) return '';
+  return decodeEntities(unwrapCdata(m[1].trim()));
+}
+
+async function fetchRss(url, idPrefix) {
+  const xml = await fetchText(url);
+  const items = [];
+  const itemRe = /<item[^>]*>([\s\S]*?)<\/item>/gi;
+  let m;
+  while ((m = itemRe.exec(xml)) !== null) {
+    const block = m[1];
+    const title = pickTag(block, 'title') || 'Untitled';
+    const link = pickTag(block, 'link');
+    const guidRaw = pickTag(block, 'guid');
+    const pubDate = pickTag(block, 'pubDate');
+    const description = pickTag(block, 'description');
+    items.push({
+      title,
+      link: link || url,
+      guid: guidRaw || `${idPrefix}-${link || title}`,
+      date: pubDate ? new Date(pubDate) : new Date(),
+      description
+    });
+  }
+  return items;
+}
+
 async function fetchZhihu() {
   const url = 'https://api.zhihu.com/topstory';
   const data = await fetchJson(url);
@@ -118,7 +203,12 @@ async function fetchV2ex() {
 }
 
 async function writeFeed(feedMeta) {
-  const items = await feedMeta.fetcher();
+  const rawItems = await feedMeta.fetcher();
+  const items = rawItems.filter(it => !isBlacklisted(it));
+  const filtered = rawItems.length - items.length;
+  if (filtered > 0) {
+    console.log(`  filtered ${filtered} item(s) by blacklist`);
+  }
   const xml = buildRss({
     title: feedMeta.title,
     link: feedMeta.link,
@@ -127,7 +217,7 @@ async function writeFeed(feedMeta) {
   });
   const outPath = path.join(DOCS_DIR, feedMeta.filename);
   await writeFile(outPath, xml, 'utf8');
-  return { ...feedMeta, count: items.length, outPath };
+  return { ...feedMeta, count: items.length, filtered, outPath };
 }
 
 async function buildIndex(results) {
