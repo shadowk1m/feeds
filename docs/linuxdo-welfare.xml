@@ -4,7 +4,85 @@
     <title>LINUX DO - Welfare</title>
     <link>https://linux.do/c/welfare/36</link>
     <description>Welfare category from linux.do</description>
-    <lastBuildDate>Wed, 27 May 2026 14:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 17:37:39 GMT</lastBuildDate>
+    <item>
+      <title>阿里云学生300元代金券可白嫖资源汇总</title>
+      <link>https://linux.do/t/topic/2258128</link>
+      <guid>linux.do-topic-2258128</guid>
+      <pubDate>Wed, 27 May 2026 17:24:32 GMT</pubDate>
+      <description>
+            &lt;p&gt;众所周知，阿里云每年都会给大学生发300元的代金券，但是这个代金券的可用范围是非常有限的（而且还在不断收缩中）。&lt;/p&gt;
+&lt;p&gt;今天突然发现我的券就要过期了，于是在论坛里翻找了半天如何用券，开此贴作为汇总，也欢迎佬友们补充。&lt;/p&gt;
+&lt;p&gt;还没有券的朋友可以先来这里领一个&lt;a href=&quot;https://university.aliyun.com/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://university.aliyun.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;好了，现在进入正题，代金券目前可用范围汇总。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;服务器&lt;/p&gt;
+&lt;p&gt;首先是经典的2c2g云服务器一年。现在只能开通中国大陆地区的服务器。开通CDT计费后每月流量20GB 。&lt;a href=&quot;https://linux.do/t/topic/525346/&quot;&gt;https://linux.do/t/topic/525346/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;然后是2c2g轻量应用服务器半年，这个的优点是无限流量。&lt;a href=&quot;https://university.aliyun.com/buycenter/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://university.aliyun.com/buycenter/&lt;/a&gt; 学生优惠界面往下滑，或者ctrl+f搜索&quot;轻量应用服务器&quot;就能看到。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;云电脑（含GPU服务器）&lt;/p&gt;
+&lt;p&gt;阿里云无影云电脑可以用代金券买无影灵豆，拿来云电脑打游戏（如黑悟空）。&lt;/p&gt;
+&lt;p&gt;此外，无影灵豆还可以用在阿里云的无影灵构平台，在这里可以租用 GPU 服务器（现在只有RTX5880一种配置），利好科研党。下载一个无影云电脑桌面版更便宜，300元可以买8000无影灵豆，大约可以开160个小时的RTX5880 48GB GPU 云，如果不需要这么多显存的话，可以开更长时间。具体见这一篇帖子 &lt;a href=&quot;https://linux.do/t/topic/2219866/60&quot;&gt;https://linux.do/t/topic/2219866/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;大模型API&lt;/p&gt;
+&lt;p&gt;目前代金券支持抵扣阿里云所有按量计费的大模型API，包括千问系列，kimi，glm，deepseek。注意在调用的时候要选择官方直供模型，选三方的是不能抵扣的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;目前我实测这些已经失效（不能应用代金券），如果有大佬知道用券的办法，欢迎补充。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;所有非中国大陆地区的服务器都不能使用代金券&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;购买域名不能使用代金券&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这个帖子 &lt;a href=&quot;https://linux.do/t/topic/194662&quot;&gt;https://linux.do/t/topic/194662&lt;/a&gt; 里的阿里云免费开9年服务器。开九年的核心是通过缩小磁盘容量（最小可以缩到1GB）来降低价格，但经我实测，现在只有磁盘容量是默认的40GB，才能够应用代金券。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;目前找到的就是这些，欢迎大佬补充 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/grinning_face.png?v=15&quot; title=&quot;:grinning_face:&quot; class=&quot;emoji&quot; alt=&quot;:grinning_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2258128&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>送一个Plasma One的邀请码</title>
+      <link>https://linux.do/t/topic/2258094</link>
+      <guid>linux.do-topic-2258094</guid>
+      <pubDate>Wed, 27 May 2026 17:08:01 GMT</pubDate>
+      <description>
+            &lt;p&gt;Plasma One还在内测阶段,不过可以绑定ApplePay,没有年费,最近使用AI还有10%返现,邀请码:VNRNG2&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2258094&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>（已无）分享GLM 7天体验卡 * 4</title>
+      <link>https://linux.do/t/topic/2257592</link>
+      <guid>linux.do-topic-2257592</guid>
+      <pubDate>Wed, 27 May 2026 15:29:02 GMT</pubDate>
+      <description>
+            &lt;p&gt;我在使用GLM Coding Plan，数小时内完成过去需要数周的开发工作，赠送你1张7天AI Coding体验卡，一起来用吧：&lt;a href=&quot;https://bigmodel.cn/activity/trial-card/LCUQNESI7O&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;智谱AI开放平台&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2257592&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>48个月20刀2人的team优惠码</title>
+      <link>https://linux.do/t/topic/2257518</link>
+      <guid>linux.do-topic-2257518</guid>
+      <pubDate>Wed, 27 May 2026 15:15:42 GMT</pubDate>
+      <description>
+            &lt;p&gt;墨西哥：&lt;a href=&quot;https://chatgpt.com/?promoCode=thinkiamx&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://chatgpt.com/?promoCode=thinkiamx&lt;/a&gt;&lt;br&gt;
+西班牙 ：&lt;a href=&quot;https://chatgpt.com/?promoCode=thinkiaes&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://chatgpt.com/?promoCode=thinkiaes&lt;/a&gt;&lt;br&gt;
+哥伦比亚：&lt;a href=&quot;https://chatgpt.com/?promoCode=thinkiaco&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://chatgpt.com/?promoCode=thinkiaco&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2257518&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>小米模型110亿token分享</title>
       <link>https://linux.do/t/topic/2255637</link>
@@ -84,111 +162,6 @@ KEY &lt;a href=&quot;https://linux.do/t/topic/2254617/1&quot;&gt;（点击了解
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/0/4/704d0f1c43092bc61bfa67c4fb88c67a830ca56b.png&quot; data-download-href=&quot;/uploads/short-url/g1szDSmwZZ3ol3wbECaN6Yegauv.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/0/4/704d0f1c43092bc61bfa67c4fb88c67a830ca56b.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;g1szDSmwZZ3ol3wbECaN6Yegauv&quot; width=&quot;374&quot; height=&quot;143&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254372&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>抽奖：一个 Team 邀请链接</title>
-      <link>https://linux.do/t/topic/2254364</link>
-      <guid>linux.do-topic-2254364</guid>
-      <pubDate>Wed, 27 May 2026 07:00:41 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;strong&gt;抽奖主题：&lt;/strong&gt; 一个 Team 邀请链接&lt;/p&gt;
-&lt;p&gt;还有几个 Team 母号，不过都马上就过期了，感觉还可以速蹬一下 Pro，需要的佬友点赞或者评论一下，我会随机抽一位佬友，私信你邀请链接。 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/distorted_face.png?v=15&quot; title=&quot;:distorted_face:&quot; class=&quot;emoji&quot; alt=&quot;:distorted_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/trophy.png?v=15&quot; title=&quot;:trophy:&quot; class=&quot;emoji&quot; alt=&quot;:trophy:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 奖品详情：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;[奖品]：[1个 Team 邀请链接]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/three_o_clock.png?v=15&quot; title=&quot;:three_o_clock:&quot; class=&quot;emoji&quot; alt=&quot;:three_o_clock:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 活动时间：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;开始时间-截止时间： 今天 14:00→ 16:00 (Tokyo)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/memo.png?v=15&quot; title=&quot;:memo:&quot; class=&quot;emoji&quot; alt=&quot;:memo:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 参与方式：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在本帖下回复任意你需要这个邀请链接的理由。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/magnifying_glass_tilted_left.png?v=15&quot; title=&quot;:magnifying_glass_tilted_left:&quot; class=&quot;emoji&quot; alt=&quot;:magnifying_glass_tilted_left:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 抽奖规则：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;每位用户仅允许参与一次。&lt;br&gt;
-使用LinuxDo抽奖程序工具随机抽取中奖者。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/warning.png?v=15&quot; title=&quot;:warning:&quot; class=&quot;emoji&quot; alt=&quot;:warning:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 注意事项：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本活动将在活动截止时间后关闭回帖，以确保公正性。&lt;br&gt;
-中奖者将在活动结束后 2 小时内在本帖公布，并通过站内私信通知领奖方式。&lt;br&gt;
-所有规则及抽奖结果由活动发起人和论坛管理团队最终解释。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;期待您的积极参与，祝您好运！如有任何疑问，欢迎随时联系抽奖发起人。&lt;/strong&gt;&lt;/p&gt;
-&lt;pre data-code-wrap=&quot;markdown&quot;&gt;&lt;code class=&quot;lang-markdown&quot;&gt;================================================================================
-                            LINUX DO 抽奖结果 - 0.1.1                             
-================================================================================
-帖子链接: https://linux.do/t/topic/2254364
-帖子标题: 抽奖：一个 Team 邀请链接
-帖子作者: Xiaolizia
-发帖时间: 2026-05-27 15:00:41
---------------------------------------------------------------------------------
-抽奖时间: 2026-05-27 15:52:11
-参与楼层: 2 - 21 楼
-有效楼层: 20 楼
-中奖数量: 1 个
-最终种子: e85e7659dd47004ac9a4678d66eba35b7e4aeeb6194e9315c58b9674be04fe2f
---------------------------------------------------------------------------------
-恭喜以下楼层中奖:
---------------------------------------------------------------------------------
-[  1   ]    2 楼，楼层链接: https://linux.do/t/topic/2254364/2
-================================================================================
-注: 楼层顺序即为抽奖顺序
-================================================================================
-&lt;/code&gt;&lt;/pre&gt;
-            &lt;p&gt;&lt;small&gt;18 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254364&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【蹬完了】小米额度重置了，发出来蹬一下</title>
-      <link>https://linux.do/t/topic/2254051</link>
-      <guid>linux.do-topic-2254051</guid>
-      <pubDate>Wed, 27 May 2026 06:17:41 GMT</pubDate>
-      <description>
-            &lt;p&gt;当前计划使用情况&lt;/p&gt;
-&lt;p&gt;11,007,663,924 / 11,000,000,000&lt;br&gt;
-已使用 100.0%&lt;br&gt;
-59,740,260 / 59,740,260&lt;br&gt;
-补偿使用率 100.0%&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;tp-c6haieuwzhs3763206by8em1nmeixql89967966rpk3or9bf
-&lt;/code&gt;&lt;/pre&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254051&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>咸鱼3.9一杯的必胜客咖啡</title>
-      <link>https://linux.do/t/topic/2254035</link>
-      <guid>linux.do-topic-2254035</guid>
-      <pubDate>Wed, 27 May 2026 06:15:34 GMT</pubDate>
-      <description>
-            &lt;p&gt;亲测可用&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/0/d/b0d77c6e83c5e1817cd45466f426c1e6d4340370.jpeg&quot; data-download-href=&quot;/uploads/short-url/pepI7dLfo4KvubxAOUGwf4Emcpy.jpeg?dl=1&quot; title=&quot;Screenshot20260527141358&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/0/d/b0d77c6e83c5e1817cd45466f426c1e6d4340370_2_230x500.jpeg&quot; alt=&quot;Screenshot20260527141358&quot; data-base62-sha1=&quot;pepI7dLfo4KvubxAOUGwf4Emcpy&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/0/d/b0d77c6e83c5e1817cd45466f426c1e6d4340370_2_230x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/0/d/b0d77c6e83c5e1817cd45466f426c1e6d4340370_2_345x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/0/d/b0d77c6e83c5e1817cd45466f426c1e6d4340370_2_460x1000.jpeg 2x&quot; data-dominant-color=&quot;F6F6F4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254035&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>共享一个pp开的plus凭证</title>
-      <link>https://linux.do/t/topic/2253726</link>
-      <guid>linux.do-topic-2253726</guid>
-      <pubDate>Wed, 27 May 2026 05:21:55 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/8Xj1uJApKiEqqaOVnOKVzrGeSVQ.txt&quot;&gt;GO-X0CDIJMMFR_sub2.txt&lt;/a&gt; (4.5 KB)&lt;br&gt;
-&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/a2JbsZY065C04VU7Q5vhfXa6HkO.txt&quot;&gt;GO-X0CDIJMMFR_cpa.txt&lt;/a&gt; (4.0 KB)&lt;br&gt;
-简单的事并没有什么好说的，把.txt改成.json就能用了&lt;br&gt;
-什么时候能直接上传json呢&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2253726&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>「福利来袭」送一个GPT-plus会员，目前满额度，昨天新出炉的。佬速蹬！</title>
-      <link>https://linux.do/t/topic/2253387</link>
-      <guid>linux.do-topic-2253387</guid>
-      <pubDate>Wed, 27 May 2026 04:21:28 GMT</pubDate>
-      <description>
-            &lt;p&gt;记得修改成.json    使用 cpa-sub2&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/b/c/bbcb5d5783d7a3e098409e941d9200e346a8278e.png&quot; data-download-href=&quot;/uploads/short-url/qNiZBBXstSw4SQymbRjuEVOBrhI.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/b/c/bbcb5d5783d7a3e098409e941d9200e346a8278e_2_690x283.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;qNiZBBXstSw4SQymbRjuEVOBrhI&quot; width=&quot;690&quot; height=&quot;283&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/b/c/bbcb5d5783d7a3e098409e941d9200e346a8278e_2_690x283.png, https://cdn3.ldstatic.com/original/4X/b/b/c/bbcb5d5783d7a3e098409e941d9200e346a8278e.png 1.5x, https://cdn3.ldstatic.com/original/4X/b/b/c/bbcb5d5783d7a3e098409e941d9200e346a8278e.png 2x&quot; data-dominant-color=&quot;E7F3F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;始皇大人中午好&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/a/d/ad2d245bbe71a05b0bd7a42f435d25524517c7ac.png?v=15&quot; title=&quot;:tieba_026:&quot; class=&quot;emoji emoji-custom only-emoji&quot; alt=&quot;:tieba_026:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/a/d/ad2d245bbe71a05b0bd7a42f435d25524517c7ac.png?v=15&quot; title=&quot;:tieba_026:&quot; class=&quot;emoji emoji-custom only-emoji&quot; alt=&quot;:tieba_026:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/a/d/ad2d245bbe71a05b0bd7a42f435d25524517c7ac.png?v=15&quot; title=&quot;:tieba_026:&quot; class=&quot;emoji emoji-custom only-emoji&quot; alt=&quot;:tieba_026:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/8MFMYLnXyZl0aSCwrsi46DWdFgX.txt&quot;&gt;codex-zhangsan000001101@outlook.com-50e1ba83.txt&lt;/a&gt; (6.7 KB)&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2253387&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
