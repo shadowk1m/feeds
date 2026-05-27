@@ -4,14 +4,59 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Wed, 27 May 2026 05:29:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 06:53:10 GMT</lastBuildDate>
+    <item>
+      <title>Kimi误封后仅用英文致歉海外用户，国内开发者怒斥双标并永久停更开源插件！</title>
+      <link>https://linux.do/t/topic/2254212</link>
+      <guid>linux.do-topic-2254212</guid>
+      <pubDate>Wed, 27 May 2026 06:40:02 GMT</pubDate>
+      <description>
+            &lt;p&gt;Kimi Code Plan 近日因封号事件在中文开发者社区引发抗议。风波始于开源开发者 Leechael 针对终端 Agent 工具 Pi Coding Agent 开发了 Kimi 适配器 pi-provider-kimi-code 。由于 Pi 官方最初未支持 Kimi ， Leechael 编写了适配代码方便付费用户在终端复用自身额度 。然而，适配器上线后， Kimi 官方对 Leechael 的账号实施了封禁。&lt;/p&gt;
+&lt;p&gt;与此同时，海外开发者 Noemi 也声称在 Docker 容器中将 Kimi Code 接入 Pi 运行两天后遭遇封号，并贴出 403 权限被拒的截图质问月之暗面官方。&lt;/p&gt;
+&lt;p&gt;面对开发者群体的集体声讨，封号事件在 5 月 26 日下午迎来了戏剧性解决。 Kimi Code 团队成员 Young 在 X 上仅回复海外开发者 Noemi 表示 「We immediately adjusted our strategy and restored normal access to the affected accounts. ?」 ，紧急解封了受影响的付费账户。&lt;/p&gt;
+&lt;p&gt;然而，风波并未停息，反而迅速演变成第二波舆论危机。官方的致歉与解封声明仅用英文发布，且只在 X 上选择性回复了国外开发者，对国内开发者在中文渠道发起的抗议与退款请求完全不予正面回应。双重态度彻底引爆了国内付费用户的不满。 Leechael 公开晒出 pi-provider-kimi-code 插件 README 停更声明的截图，直言 「解封了。申请退款。只给老外用户公开道歉，中文用户不值得一个解释。??」 。&lt;/p&gt;
+&lt;p&gt;停更声明以英文直白列出三条弃用原因：首先是官方错误封禁，其次是解封后无任何解释与道歉，最后是平台对中文用户存在 「差别对待（Discriminatory treatment of Chinese users）」 的系统性倾向，包括更严苛的规则执行、不透明的风控以及缺乏申诉渠道。声明指出，在一个 「先封号且事后拒绝解释」 的厂商底座上开发没有任何长期价值，适配器自此无限期停更，不接受任何合并请求与新版本发布。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/a/1/fa122c96b75aa4238f2de29635ba7c0783a64d67.jpeg&quot; data-download-href=&quot;/uploads/short-url/zGeiWJwZW90B4dNoGZYoiQLZoB9.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa122c96b75aa4238f2de29635ba7c0783a64d67_2_527x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zGeiWJwZW90B4dNoGZYoiQLZoB9&quot; width=&quot;527&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa122c96b75aa4238f2de29635ba7c0783a64d67_2_527x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa122c96b75aa4238f2de29635ba7c0783a64d67_2_790x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa122c96b75aa4238f2de29635ba7c0783a64d67_2_1054x1000.jpeg 2x&quot; data-dominant-color=&quot;F2F2F2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254212&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>看到一个Coding排名野榜DeepSWE，佬们评价一下</title>
+      <link>https://linux.do/t/topic/2254131</link>
+      <guid>linux.do-topic-2254131</guid>
+      <pubDate>Wed, 27 May 2026 06:29:08 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/d/e/2de1b50461d25f5920806ca7521d4c0c9f42afb0.jpeg&quot; data-download-href=&quot;/uploads/short-url/6xT3O0MYBhaM1hOrNlCb1Iy83Ly.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/d/e/2de1b50461d25f5920806ca7521d4c0c9f42afb0_2_379x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6xT3O0MYBhaM1hOrNlCb1Iy83Ly&quot; width=&quot;379&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/d/e/2de1b50461d25f5920806ca7521d4c0c9f42afb0_2_379x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/d/e/2de1b50461d25f5920806ca7521d4c0c9f42afb0_2_568x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/2/d/e/2de1b50461d25f5920806ca7521d4c0c9f42afb0.jpeg 2x&quot; data-dominant-color=&quot;949494&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254131&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>70% off your first month on Cursor 3</title>
+      <link>https://linux.do/t/topic/2254011</link>
+      <guid>linux.do-topic-2254011</guid>
+      <pubDate>Wed, 27 May 2026 06:11:52 GMT</pubDate>
+      <description>
+            &lt;p&gt;午睡起来,发现邮箱收到Cursor的新鲜邮件，召唤老用户了属于是&lt;/p&gt;
+&lt;p&gt;Come back for 70% off&lt;/p&gt;
+&lt;p&gt;Built for agentic work and now with Composer 2.5. Exceptionally intelligent and 10x more efficient than similarly capable models&lt;/p&gt;
+&lt;p&gt;While you were away we shipped Cursor 3, a new interface built around agents. Try it now and your first month back is 70% off.&lt;/p&gt;
+&lt;p&gt;好吧 我承认最近的Composer 2.5 吹的效果不错，回归尝尝味道，看看最低套餐可以到什么样的体验和用量。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/7/2/1723bad568ee312e4dd269fb9269bb5ccceb562e.png&quot; data-download-href=&quot;/uploads/short-url/3iHx1kuWH7ytcmzenjXShzAuZkO.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/7/2/1723bad568ee312e4dd269fb9269bb5ccceb562e.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;3iHx1kuWH7ytcmzenjXShzAuZkO&quot; width=&quot;690&quot; height=&quot;217&quot; data-dominant-color=&quot;F8F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;另有Refer friends 可以 New users with your link get 50% off their first month of Pro, Pro+, or Ultra. 需要的佬友可以找我。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254011&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>汇丰香港要求内地客户新开投资户时签署声明书</title>
       <link>https://linux.do/t/topic/2253719</link>
       <guid>linux.do-topic-2253719</guid>
       <pubDate>Wed, 27 May 2026 05:20:37 GMT</pubDate>
       <description>
-            &lt;p&gt;自今日起，内地客户新开汇丰香港投资账户，申请过程或发出投资交易指示时将报错并无法完成申请（未能完成交易：参考代码 URS0224）。如确需申请投资户，须签署《中国内地投资者开立投资账户之声明书》并邮寄/亲身递交给汇丰香港分行，再申请开立投资户。&lt;/p&gt;
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/c/1/4c1165ea08051b7e3f2e2fd29779a99c82333e29.jpeg&quot; data-download-href=&quot;/uploads/short-url/aQVyUeyVuKmCOE1GhRqSTZWERjX.jpeg?dl=1&quot; title=&quot;IMG20260527133838002&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/c/1/4c1165ea08051b7e3f2e2fd29779a99c82333e29_2_690x297.jpeg&quot; alt=&quot;IMG20260527133838002&quot; data-base62-sha1=&quot;aQVyUeyVuKmCOE1GhRqSTZWERjX&quot; width=&quot;690&quot; height=&quot;297&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/c/1/4c1165ea08051b7e3f2e2fd29779a99c82333e29_2_690x297.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/c/1/4c1165ea08051b7e3f2e2fd29779a99c82333e29_2_1035x445.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/4/c/1/4c1165ea08051b7e3f2e2fd29779a99c82333e29.jpeg 2x&quot; data-dominant-color=&quot;F1F1F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;自今日起，内地客户新开汇丰香港投资账户，申请过程或发出投资交易指示时将报错并无法完成申请（未能完成交易：参考代码 URS0224）。如确需申请投资户，须签署《中国内地投资者开立投资账户之声明书》并邮寄/亲身递交给汇丰香港分行，再申请开立投资户。&lt;/p&gt;
 &lt;p&gt;声明书可在此处下载，其主要内容与「第3项措施」基本相同。&lt;/p&gt;&lt;aside class=&quot;onebox pdf&quot; data-onebox-src=&quot;https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/investments/account-opening/invac-declaration.pdf&quot;&gt;
   &lt;header class=&quot;source&quot;&gt;
 
@@ -53,7 +98,7 @@
 &lt;hr&gt;
 &lt;p&gt;但声明书上，资金来源这一点，就已经把门焊死了&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/a/4/ea42fd021a65307abdd08248b061bdf2193aa68d.png&quot; data-download-href=&quot;/uploads/short-url/xqnfuytgJUBuarb6s6e4xtGeIRT.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/a/4/ea42fd021a65307abdd08248b061bdf2193aa68d_2_580x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xqnfuytgJUBuarb6s6e4xtGeIRT&quot; width=&quot;580&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/a/4/ea42fd021a65307abdd08248b061bdf2193aa68d_2_580x500.png, https://cdn3.ldstatic.com/optimized/4X/e/a/4/ea42fd021a65307abdd08248b061bdf2193aa68d_2_870x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/a/4/ea42fd021a65307abdd08248b061bdf2193aa68d_2_1160x1000.png 2x&quot; data-dominant-color=&quot;EEEAEA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;22 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;27 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2253607&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -67,7 +112,7 @@
 &lt;p&gt;近期多地接连曝出有顾客私自使用餐厅公共餐具喂宠物的争议事件，也有顾客直接让自家宠物坐到专门给孩童准备的儿童椅上。早前尝试推进宠物友好服务的内地连锁火锅店海底捞昨日发布声明，主动叫停相关试点项目。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/1/1/3111b3d77e6d0e08db2fb4bb7ac64e165b974eca.jpeg&quot; data-download-href=&quot;/uploads/short-url/705k3wFFTnSZIYdpsasbsXZMgWe.jpeg?dl=1&quot; title=&quot;海底捞声明。&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/1/1/3111b3d77e6d0e08db2fb4bb7ac64e165b974eca_2_241x500.jpeg&quot; alt=&quot;海底捞声明。&quot; title=&quot;海底捞声明。&quot; data-base62-sha1=&quot;705k3wFFTnSZIYdpsasbsXZMgWe&quot; width=&quot;241&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/1/1/3111b3d77e6d0e08db2fb4bb7ac64e165b974eca_2_241x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/1/1/3111b3d77e6d0e08db2fb4bb7ac64e165b974eca_2_361x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/1/1/3111b3d77e6d0e08db2fb4bb7ac64e165b974eca_2_482x1000.jpeg 2x&quot; data-dominant-color=&quot;E7CFD0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.stheadline.com/zh-hans/loadnext/0/3576640&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.stheadline.com/zh-hans/loadnext/0/3576640&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;26 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2253496&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -123,7 +168,7 @@
           </description>
     </item>
     <item>
-      <title>反思代理人工智能时代的组织设计 | MIT</title>
+      <title>反思 Agentic AI 时代的组织设计 | MIT</title>
       <link>https://linux.do/t/topic/2253431</link>
       <guid>linux.do-topic-2253431</guid>
       <pubDate>Wed, 27 May 2026 04:31:38 GMT</pubDate>
@@ -155,10 +200,10 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;在企业级人工智能代理迅速普及的同时，雄心与执行之间出现了脱节。&lt;/p&gt;
-&lt;p&gt;尽管 85% 的组织表示希望在未来三年内实现代理化，但 76% 的组织表示其当前的运营和基础设施无法支持这一变革。他们的理由是在人员、流程和工作流程方面缺乏准备。&lt;/p&gt;
+&lt;p&gt;在企业级 AI Agent 迅速普及的同时，雄心与执行之间出现了脱节。&lt;/p&gt;
+&lt;p&gt;尽管 85% 的组织表示希望在未来三年内实现 Agentic，但 76% 的组织表示其当前的运营和基础设施无法支持这一变革。他们的理由是在人员、流程和工作流程方面缺乏准备。&lt;/p&gt;
 &lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2253431&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -352,7 +397,7 @@ gemini-3.5-flash得分不如gpt 但是贵&lt;p&gt;&lt;/p&gt;
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/0/3/e039c86fbea0ac3f129667b4c32ed4bbcd67269e.jpeg&quot; data-download-href=&quot;/uploads/short-url/vZAKFJ9npuOTXvFxX39Ziv7OMfY.jpeg?dl=1&quot; title=&quot;dc0d9a566d15b021c5809cb63bb4d8ba&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/0/3/e039c86fbea0ac3f129667b4c32ed4bbcd67269e_2_480x500.jpeg&quot; alt=&quot;dc0d9a566d15b021c5809cb63bb4d8ba&quot; data-base62-sha1=&quot;vZAKFJ9npuOTXvFxX39Ziv7OMfY&quot; width=&quot;480&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/0/3/e039c86fbea0ac3f129667b4c32ed4bbcd67269e_2_480x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/0/3/e039c86fbea0ac3f129667b4c32ed4bbcd67269e_2_720x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/0/3/e039c86fbea0ac3f129667b4c32ed4bbcd67269e_2_960x1000.jpeg 2x&quot; data-dominant-color=&quot;F0F1F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 各位佬看是否符合体感&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;22 个帖子 - 18 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;23 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2252564&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -420,7 +465,7 @@ gemini-3.5-flash得分不如gpt 但是贵&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;目前，在此日期前线上开立且未补充签名的户口暂维持原有限额不变，尚不明确后期是否会与信银国际做出相同的统一下调措施。&lt;/p&gt;
 &lt;p&gt;感谢 Haruka Shirakawa 投稿&lt;/p&gt;
 &lt;p&gt;转自encmasuta&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2251775&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -450,25 +495,6 @@ gemini-3.5-flash得分不如gpt 但是贵&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/4/0/0401bbedc69996c97a2558d4b35c4f8661781baa.jpeg&quot; data-download-href=&quot;/uploads/short-url/zrCL8ShwmwvrrAYG2l29OxUosO.jpeg?dl=1&quot; title=&quot;510506e904f6c2e4c63219da65edd391&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/4/0/0401bbedc69996c97a2558d4b35c4f8661781baa_2_290x500.jpeg&quot; alt=&quot;510506e904f6c2e4c63219da65edd391&quot; data-base62-sha1=&quot;zrCL8ShwmwvrrAYG2l29OxUosO&quot; width=&quot;290&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/4/0/0401bbedc69996c97a2558d4b35c4f8661781baa_2_290x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/4/0/0401bbedc69996c97a2558d4b35c4f8661781baa_2_435x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/4/0/0401bbedc69996c97a2558d4b35c4f8661781baa_2_580x1000.jpeg 2x&quot; data-dominant-color=&quot;F4F5F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;15 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2251332&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>小米硬核 Token 套餐（核弹）</title>
-      <link>https://linux.do/t/topic/2251253</link>
-      <guid>linux.do-topic-2251253</guid>
-      <pubDate>Tue, 26 May 2026 16:39:39 GMT</pubDate>
-      <description>
-            &lt;p&gt;Token Plan 加量不加价&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Credits 加量不加价：V2.5 系列模型用量可提升 5-8 倍；对 cache、输入、输出整体比例均有计量优化，整体更清晰。&lt;/li&gt;
-&lt;li&gt;Credits 用量再重置：所有仍在有效期的 Token Plan（包括参与百万亿 Token 创造者激励计划获得的 Token Plan，涵盖 Apache 软件基金会专属福利），无论当前套餐的用量如何，其已消耗的 Credits 额度将被完全重置，有效期不变。&lt;/li&gt;
-&lt;li&gt;One More Thing：针对 Token Plan 已过期的历史付费用户，我们也同样准备了惊喜好礼，将在未来一周宣布，请保持关注。&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/d/0/1d0e42e6b4ac7e2a8ef7f5b8822c15c3d1e53c30.jpeg&quot; data-download-href=&quot;/uploads/short-url/492oT0FHGSMvKvP2hjLp3Owhfeo.jpeg?dl=1&quot; title=&quot;1000233443.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/d/0/1d0e42e6b4ac7e2a8ef7f5b8822c15c3d1e53c30_2_290x500.jpeg&quot; alt=&quot;1000233443.jpg&quot; data-base62-sha1=&quot;492oT0FHGSMvKvP2hjLp3Owhfeo&quot; width=&quot;290&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/d/0/1d0e42e6b4ac7e2a8ef7f5b8822c15c3d1e53c30_2_290x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/d/0/1d0e42e6b4ac7e2a8ef7f5b8822c15c3d1e53c30_2_435x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/d/0/1d0e42e6b4ac7e2a8ef7f5b8822c15c3d1e53c30_2_580x1000.jpeg 2x&quot; data-dominant-color=&quot;F6F6F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/3/1/e31dc53f53e81467839200569697c3cde568725f.jpeg&quot; data-download-href=&quot;/uploads/short-url/wpaasP5Lf9RpYJYLQEAFPaZe08f.jpeg?dl=1&quot; title=&quot;1000233444.png&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/3/1/e31dc53f53e81467839200569697c3cde568725f_2_286x499.jpeg&quot; alt=&quot;1000233444.png&quot; data-base62-sha1=&quot;wpaasP5Lf9RpYJYLQEAFPaZe08f&quot; width=&quot;286&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/3/1/e31dc53f53e81467839200569697c3cde568725f_2_286x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/3/1/e31dc53f53e81467839200569697c3cde568725f_2_429x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/3/1/e31dc53f53e81467839200569697c3cde568725f_2_572x998.jpeg 2x&quot; data-dominant-color=&quot;F5F5F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2251253&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
