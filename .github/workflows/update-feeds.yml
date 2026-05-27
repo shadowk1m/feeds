@@ -23,6 +23,8 @@ jobs:
         run: npm install --no-audit --no-fund || true
       - name: Generate feeds
         run: npm run generate
+        env:
+          FEED_BLACKLIST: ${{ vars.FEED_BLACKLIST }}
       - name: Commit changes
         run: |
           if [[ -n $(git status --porcelain docs) ]]; then

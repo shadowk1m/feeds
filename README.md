@@ -62,7 +62,7 @@ Set the `FEED_BLACKLIST` environment variable to a comma-separated list of keywo
 FEED_BLACKLIST="广告,推广,sponsored" npm run generate
 ```
 
-Leave the variable unset (or empty) to disable filtering. To use this in GitHub Actions, add `FEED_BLACKLIST` as a repository variable or secret and pass it through to the generator step's `env`.
+Leave the variable unset (or empty) to disable filtering. To use this in GitHub Actions, add `FEED_BLACKLIST` as a repository variable (Settings → Secrets and variables → Actions → Variables) — the workflow already wires it through to the generator step.
 
 ## Extending
 
