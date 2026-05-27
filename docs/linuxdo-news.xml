@@ -4,21 +4,196 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Wed, 27 May 2026 06:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:45:15 GMT</lastBuildDate>
     <item>
-      <title>Kimi误封后仅用英文致歉海外用户，国内开发者怒斥双标并永久停更开源插件！</title>
-      <link>https://linux.do/t/topic/2254212</link>
-      <guid>linux.do-topic-2254212</guid>
-      <pubDate>Wed, 27 May 2026 06:40:02 GMT</pubDate>
+      <title>工银亚洲疑收紧以投资理财为理由的新开户 且暂不允许新开立投资账户</title>
+      <link>https://linux.do/t/topic/2255786</link>
+      <guid>linux.do-topic-2255786</guid>
+      <pubDate>Wed, 27 May 2026 10:02:15 GMT</pubDate>
       <description>
-            &lt;p&gt;Kimi Code Plan 近日因封号事件在中文开发者社区引发抗议。风波始于开源开发者 Leechael 针对终端 Agent 工具 Pi Coding Agent 开发了 Kimi 适配器 pi-provider-kimi-code 。由于 Pi 官方最初未支持 Kimi ， Leechael 编写了适配代码方便付费用户在终端复用自身额度 。然而，适配器上线后， Kimi 官方对 Leechael 的账号实施了封禁。&lt;/p&gt;
-&lt;p&gt;与此同时，海外开发者 Noemi 也声称在 Docker 容器中将 Kimi Code 接入 Pi 运行两天后遭遇封号，并贴出 403 权限被拒的截图质问月之暗面官方。&lt;/p&gt;
-&lt;p&gt;面对开发者群体的集体声讨，封号事件在 5 月 26 日下午迎来了戏剧性解决。 Kimi Code 团队成员 Young 在 X 上仅回复海外开发者 Noemi 表示 「We immediately adjusted our strategy and restored normal access to the affected accounts. ?」 ，紧急解封了受影响的付费账户。&lt;/p&gt;
-&lt;p&gt;然而，风波并未停息，反而迅速演变成第二波舆论危机。官方的致歉与解封声明仅用英文发布，且只在 X 上选择性回复了国外开发者，对国内开发者在中文渠道发起的抗议与退款请求完全不予正面回应。双重态度彻底引爆了国内付费用户的不满。 Leechael 公开晒出 pi-provider-kimi-code 插件 README 停更声明的截图，直言 「解封了。申请退款。只给老外用户公开道歉，中文用户不值得一个解释。??」 。&lt;/p&gt;
-&lt;p&gt;停更声明以英文直白列出三条弃用原因：首先是官方错误封禁，其次是解封后无任何解释与道歉，最后是平台对中文用户存在 「差别对待（Discriminatory treatment of Chinese users）」 的系统性倾向，包括更严苛的规则执行、不透明的风控以及缺乏申诉渠道。声明指出，在一个 「先封号且事后拒绝解释」 的厂商底座上开发没有任何长期价值，适配器自此无限期停更，不接受任何合并请求与新版本发布。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/a/1/fa122c96b75aa4238f2de29635ba7c0783a64d67.jpeg&quot; data-download-href=&quot;/uploads/short-url/zGeiWJwZW90B4dNoGZYoiQLZoB9.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa122c96b75aa4238f2de29635ba7c0783a64d67_2_527x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zGeiWJwZW90B4dNoGZYoiQLZoB9&quot; width=&quot;527&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa122c96b75aa4238f2de29635ba7c0783a64d67_2_527x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa122c96b75aa4238f2de29635ba7c0783a64d67_2_790x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa122c96b75aa4238f2de29635ba7c0783a64d67_2_1054x1000.jpeg 2x&quot; data-dominant-color=&quot;F2F2F2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254212&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;如题，经投稿者与工银亚洲某分行客户经理沟通，得悉受近期影响，目前不可以为大陆证件客户开立投资户口。&lt;/p&gt;
+&lt;p&gt;目前客户经理指，如使用APP全新客户预审批开户，但仅申请储蓄户口，若在分行表示开户理由为投资理财，有机会无法激活储蓄户口；而若在申请中一并预审批了投资户口，二者均无法激活，需做一并销户处理。&lt;/p&gt;
+&lt;p&gt;如在网页预约，投资理财之理由将不被接纳，需重新进行预约。&lt;/p&gt;
+&lt;p&gt;该客户经理未有提及经智慧柜员机（VTM）远程开立账户的情况，但料应与线下或线上预审批相关规则保持一致。&lt;/p&gt;
+&lt;p&gt;目前，储蓄户口将仍可正常开立，惟开户人需提供其他合理理由，并经分行审批后开户。&lt;/p&gt;
+&lt;p&gt;以上仅代表该分行原则政策，具体实际如何执行，以各分行审批为准。&lt;/p&gt;
+&lt;p&gt;感谢 Murphy 投稿&lt;/p&gt;
+&lt;p&gt;转自encmasuta&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2255786&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>华侨香港疑已暂停内地居民开立投资户</title>
+      <link>https://linux.do/t/topic/2255784</link>
+      <guid>linux.do-topic-2255784</guid>
+      <pubDate>Wed, 27 May 2026 10:01:56 GMT</pubDate>
+      <description>
+            &lt;p&gt;华侨银行（香港）部分分行反馈今日新发通知：内地居民客户暂时不允许新开立投资户。&lt;/p&gt;
+&lt;p&gt;转自encmasuta&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2255784&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>建亚疑已暂停内地居民开立投资户</title>
+      <link>https://linux.do/t/topic/2255242</link>
+      <guid>linux.do-topic-2255242</guid>
+      <pubDate>Wed, 27 May 2026 08:57:19 GMT</pubDate>
+      <description>
+            &lt;p&gt;中国建设银行（亚洲）部分分行反馈今日新发通知：内地居民客户暂时不允许开立投资户。&lt;/p&gt;
+&lt;p&gt;转自encmasuta&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2255242&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>LED 照明给人类线粒体带来 伤害</title>
+      <link>https://linux.do/t/topic/2254893</link>
+      <guid>linux.do-topic-2254893</guid>
+      <pubDate>Wed, 27 May 2026 08:20:09 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://www.newsnationnow.com/health/led-lighting-human-mitochondria-research/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.newsnationnow.com/health/led-lighting-human-mitochondria-research/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-026-35389-6&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/s41598-026-35389-6&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract]+ LED 照明（350-650nm）会损害人类视觉性能，除非辅以更宽光谱（400-1500nm+）的光，例如日光。&lt;/p&gt;
+&lt;p&gt;生命起源于从紫外线到红外线（300-2500纳米）的宽光谱阳光照射下。这种光谱平衡的光照塑造了生命的生理机能和新陈代谢。然而，现代照明近年来却被光谱受限的发光二极管（LED，350-650纳米）所主导。LED缺乏长波长光，且短波长光占主导地位，这会影响生理机能，损害调节新陈代谢、疾病和衰老的正常线粒体呼吸作用。线粒体对光敏感。LED中占主导地位的420-450纳米波长会抑制呼吸作用，而深红光/红外线（670-900纳米）则会在衰老和某些疾病（包括血糖调节）中增强呼吸作用。本研究中，我们用宽光谱光（400-1500纳米以上）补充LED光两周，并测试颜色对比敏感度。结果显示，该指标显著改善，且在停止补充光照后仍持续两个月。线粒体在体内进行信息传递，局部光照会对全身产生影响。这可能涉及血清细胞因子表达模式的改变，从而增加了LED灯对人类健康（尤其是老年人或体弱者所在的临床环境）产生更广泛负面影响的可能性。改变这些环境中的照明可能是一种提高公众健康的经济有效途径。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254893&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>雌激素流失可能引发女性阿尔茨海默病</title>
+      <link>https://linux.do/t/topic/2254743</link>
+      <guid>linux.do-topic-2254743</guid>
+      <pubDate>Wed, 27 May 2026 07:56:07 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://neurosciencenews.com/estrogen-loss-extracellular-matrix-alzheimers-30762/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/d/e/deec764f26479399ccf917221594348bf0adfee8.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;8B8BAE&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://neurosciencenews.com/estrogen-loss-extracellular-matrix-alzheimers-30762/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;06:39PM - 26 May 2026&quot;&gt;Neuroscience News – 26 May 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/8/6/e/86eb955e9d6724d1acd747ae394bc65b87fc1330.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;504A44&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://neurosciencenews.com/estrogen-loss-extracellular-matrix-alzheimers-30762/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Estrogen Loss May Drive Female Alzheimer&#39;s - Neuroscience News&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Estrogen loss in aging females causes the collapse of the brain&#39;s extracellular matrix, increasing Alzheimer&#39;s risk.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 9 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;一项新研究揭示了女性为何对阿尔茨海默病（AD）极为敏感的一个结构性解释。研究重点从传统脑细胞转向研究细胞外基质（ECM），这是一种填补脑细胞间隙的基础性非细胞&quot;砂浆&quot;。&lt;/p&gt;
+&lt;p&gt;通过分析局部雌激素缺乏的小鼠模型，研究人员发现衰老、女性性别和绝经后雌激素流失的结合会引发海马体外膜结构的坍塌，破坏记忆保持所需的支撑支架。&lt;/p&gt;
+&lt;p&gt;在更年期之前，卵巢是女性雌激素的主要来源。绝经后，雌激素水平急剧下降，身体其他部位（包括大脑、脂肪组织、骨骼、肌肉、血管和乳腺组织）仅产生少量雌激素。在小鼠中，雌激素在大脑局部合成，雄性则在性腺脂肪中局部合成，而雌性则主要在大脑中产生。&lt;/p&gt;
+&lt;p&gt;研究表明，患有AD的女性大脑中的雌激素水平可能甚至比没有AD的女性更低。这项研究进一步支持了这一点。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1111/acel.70551&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://onlinelibrary.wiley.com/doi/10.1111/acel.70551&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254743&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>广东高三延迟1个月开学，明确9.1开学</title>
+      <link>https://linux.do/t/topic/2254721</link>
+      <guid>linux.do-topic-2254721</guid>
+      <pubDate>Wed, 27 May 2026 07:52:14 GMT</pubDate>
+      <description>
+            &lt;p&gt;5月以来，广东多地相继发布了2026-2027学年普通中小学校校历，其中高三开学时间从往年的8月1日均调整至9月1日。这一变化迅速成为舆论关注的焦点。&lt;/p&gt;
+&lt;p&gt;5月26日，广东省教育厅在“广东民声热线”上就此作出回应。广东省委教育工委委员、省教育厅党组成员、副厅长李璧亮表示，推出这个政策之前，广东差不多花了一年半的时间做了大量调研，同时也征求了教育部相关部门的意见，也统计了目前全国30多个省市区的情况。结合现有政策和调研，包括校长、老师、学生家长的综合意见，广东省教育厅非常慎重地做了这样的决定。&lt;/p&gt;
+&lt;p&gt;广东省教育厅基础教育与信息化处处长赵琦补充说，目前，高三开学时间，全国有约20个省份是9月1日开学，尤其是发达的省份，比如北京、上海、江苏、浙江等。另外，湖南、湖北、江西等省则将这个权力交给了各地市来决定。“但对广东来说，省级应该扛起这个责任，因为高考是统一时间，不可能由各个地市来决定。”赵琦说，“最终促使我们下定这个决心的是，去年年底国家高中课程方案发布以后，已经对高三的上课时间做出了明确规定，所以我们也找到了比较好的依据。”&lt;/p&gt;
+&lt;p&gt;澎湃新闻注意到，此前，广东东莞有网友通过当地的“阳光热线问政平台”提出恢复高三年级8月1日开学。这名网友认为，压缩教学时间，等于让学生在高考前少了系统复习的机会。&lt;/p&gt;
+&lt;p&gt;就此官方答复称，根据广东省教育厅《关于制定2026-2027学年普通中小学校历的通知》以及相关会议有关要求，全省高三年级开学时间由往年的8月1日统一调整为9月1日，与其他年级同步。开学时间的调整，严格执行国家和省有关政策规定，是规范办学行为、遏制“教育内卷”、落实“健康第一”教育理念的必然要求，也是遵循教育规律促进学生全面发展的客观需要。教育管理部门将督促指导各高中学校，严格按照新校历和课程方案，科学调整高三教学计划、优化备考节奏，细化分层辅导、线上答疑、学情监测等各项举措，全力保障高三备考工作平稳有序推进，确保备考质量不打折扣，与家长、社会携手为孩子的高考保驾护航。&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.huxiu.com/moment/1248803.html&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://www.huxiu.com/moment/1248803.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;12:48PM - 27 May 2026&quot;&gt;虎嗅网 – 27 May 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://www.huxiu.com/moment/1248803.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;广东省教育厅回应高三开学时间调整至9月1日&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;2026-2027学年广东高三开学时间由8月1日调整至9月1日。广东省教育厅回应称该调整基于一年半调研、全国多数省份情况以及国家高中课程方案规定，旨在规范办学行为、遏制教育内卷。&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;30 个帖子 - 25 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254721&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>「快讯」嘉信更新了大陆相关的用户说明</title>
+      <link>https://linux.do/t/topic/2254677</link>
+      <guid>linux.do-topic-2254677</guid>
+      <pubDate>Wed, 27 May 2026 07:45:18 GMT</pubDate>
+      <description>
+            &lt;p&gt;今天更新了用户相关的文件&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/e/4/5e4b097e6ac928270c2dccaed2494e3a9623b5f2.png&quot; data-download-href=&quot;/uploads/short-url/ds9EcAq3kaOqqmjWW43NbQdEuSm.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/e/4/5e4b097e6ac928270c2dccaed2494e3a9623b5f2_2_517x212.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ds9EcAq3kaOqqmjWW43NbQdEuSm&quot; width=&quot;517&quot; height=&quot;212&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/e/4/5e4b097e6ac928270c2dccaed2494e3a9623b5f2_2_517x212.png, https://cdn3.ldstatic.com/optimized/4X/5/e/4/5e4b097e6ac928270c2dccaed2494e3a9623b5f2_2_775x318.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/e/4/5e4b097e6ac928270c2dccaed2494e3a9623b5f2_2_1034x424.png 2x&quot; data-dominant-color=&quot;ECECEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;其中一条 有点吓人&lt;/strong&gt;&lt;/em&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/sad_but_relieved_face.png?v=15&quot; title=&quot;:sad_but_relieved_face:&quot; class=&quot;emoji&quot; alt=&quot;:sad_but_relieved_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/sad_but_relieved_face.png?v=15&quot; title=&quot;:sad_but_relieved_face:&quot; class=&quot;emoji&quot; alt=&quot;:sad_but_relieved_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/sad_but_relieved_face.png?v=15&quot; title=&quot;:sad_but_relieved_face:&quot; class=&quot;emoji&quot; alt=&quot;:sad_but_relieved_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/sad_but_relieved_face.png?v=15&quot; title=&quot;:sad_but_relieved_face:&quot; class=&quot;emoji&quot; alt=&quot;:sad_but_relieved_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1.4. 我们保留在任何情况下&lt;em&gt;&lt;strong&gt;自行决定&lt;/strong&gt;&lt;/em&gt;、&lt;em&gt;&lt;strong&gt;不提前通知您&lt;/strong&gt;&lt;/em&gt;的情况下&lt;br&gt;
+终止或暂停（永久或临时）软件或任何特殊功能的权利&lt;br&gt;
+我们还有权因您违反本许可协议条款而拒绝您访问软件&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/7/2/97232e57dc72484987e8e6e6e4d5d108c283c379.png&quot; data-download-href=&quot;/uploads/short-url/lz1tknokPFoJaGzhTjLNLJ0UP3j.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/7/2/97232e57dc72484987e8e6e6e4d5d108c283c379_2_517x282.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;lz1tknokPFoJaGzhTjLNLJ0UP3j&quot; width=&quot;517&quot; height=&quot;282&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/7/2/97232e57dc72484987e8e6e6e4d5d108c283c379_2_517x282.png, https://cdn3.ldstatic.com/optimized/4X/9/7/2/97232e57dc72484987e8e6e6e4d5d108c283c379_2_775x423.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/7/2/97232e57dc72484987e8e6e6e4d5d108c283c379_2_1034x564.png 2x&quot; data-dominant-color=&quot;303132&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;加上疑似最近新出现在注册流程的说明，说明嘉信还是有影响的&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/e/4/ce4db8e4385fa965cebb938afbc12a96bc22c2e8.jpeg&quot; data-download-href=&quot;/uploads/short-url/tr2Sr8voeG8rreX4puecPyFdAjm.jpeg?dl=1&quot; title=&quot;e53bef8ae23efebe926c9b10a724f51d&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/e/4/ce4db8e4385fa965cebb938afbc12a96bc22c2e8_2_517x243.jpeg&quot; alt=&quot;e53bef8ae23efebe926c9b10a724f51d&quot; data-base62-sha1=&quot;tr2Sr8voeG8rreX4puecPyFdAjm&quot; width=&quot;517&quot; height=&quot;243&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/e/4/ce4db8e4385fa965cebb938afbc12a96bc22c2e8_2_517x243.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/e/4/ce4db8e4385fa965cebb938afbc12a96bc22c2e8_2_775x364.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/e/4/ce4db8e4385fa965cebb938afbc12a96bc22c2e8_2_1034x486.jpeg 2x&quot; data-dominant-color=&quot;EFEEEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/f/b/2fb480c5808f79f57eb21bdf191b083ef66d15e4.jpeg&quot; data-download-href=&quot;/uploads/short-url/6O1am4WBExfHlQP0XGmfQx33tVG.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/b/2fb480c5808f79f57eb21bdf191b083ef66d15e4_2_517x264.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6O1am4WBExfHlQP0XGmfQx33tVG&quot; width=&quot;517&quot; height=&quot;264&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/b/2fb480c5808f79f57eb21bdf191b083ef66d15e4_2_517x264.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/f/b/2fb480c5808f79f57eb21bdf191b083ef66d15e4_2_775x396.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/f/b/2fb480c5808f79f57eb21bdf191b083ef66d15e4_2_1034x528.jpeg 2x&quot; data-dominant-color=&quot;ECEDEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;27 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254677&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>一个claude注册小技巧</title>
+      <link>https://linux.do/t/topic/2254534</link>
+      <guid>linux.do-topic-2254534</guid>
+      <pubDate>Wed, 27 May 2026 07:25:22 GMT</pubDate>
+      <description>
+            &lt;p&gt;用icloud邮箱注册claude秒过, 不用手机号验证. 我试了2个都OK&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254534&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>MiniMax M2.7内测飞书群已改名为 &quot;M3内测群&quot;</title>
+      <link>https://linux.do/t/topic/2254532</link>
+      <guid>linux.do-topic-2254532</guid>
+      <pubDate>Wed, 27 May 2026 07:24:51 GMT</pubDate>
+      <description>
+            &lt;p&gt;飞书可能有隐水印，先不急，具体消息还没发出来，今天倒是名字改了，有消息了我就回来说说。&lt;br&gt;
+当时脑子一热买了一年的minimax,都吃灰好久了www&lt;br&gt;
+M3加油啊！至少是老老实实的能干点真活呗QAQ&lt;/p&gt;
+&lt;p&gt;具体上下文和多模态还不清楚，有佬友根据官方发的图推测有1m的&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;24 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254532&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
@@ -28,7 +203,7 @@
       <pubDate>Wed, 27 May 2026 06:29:08 GMT</pubDate>
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/d/e/2de1b50461d25f5920806ca7521d4c0c9f42afb0.jpeg&quot; data-download-href=&quot;/uploads/short-url/6xT3O0MYBhaM1hOrNlCb1Iy83Ly.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/d/e/2de1b50461d25f5920806ca7521d4c0c9f42afb0_2_379x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6xT3O0MYBhaM1hOrNlCb1Iy83Ly&quot; width=&quot;379&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/d/e/2de1b50461d25f5920806ca7521d4c0c9f42afb0_2_379x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/d/e/2de1b50461d25f5920806ca7521d4c0c9f42afb0_2_568x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/2/d/e/2de1b50461d25f5920806ca7521d4c0c9f42afb0.jpeg 2x&quot; data-dominant-color=&quot;949494&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254131&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -45,7 +220,7 @@
 &lt;p&gt;好吧 我承认最近的Composer 2.5 吹的效果不错，回归尝尝味道，看看最低套餐可以到什么样的体验和用量。&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/7/2/1723bad568ee312e4dd269fb9269bb5ccceb562e.png&quot; data-download-href=&quot;/uploads/short-url/3iHx1kuWH7ytcmzenjXShzAuZkO.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/7/2/1723bad568ee312e4dd269fb9269bb5ccceb562e.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;3iHx1kuWH7ytcmzenjXShzAuZkO&quot; width=&quot;690&quot; height=&quot;217&quot; data-dominant-color=&quot;F8F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;另有Refer friends 可以 New users with your link get 50% off their first month of Pro, Pro+, or Ultra. 需要的佬友可以找我。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2254011&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -83,7 +258,7 @@
 &lt;p&gt;由于涉及签名，在汇丰未留有签名的客户可能无法通过邮寄方式递交声明书。&lt;/p&gt;
 &lt;p&gt;感谢 Tomo, xhs@流星雨. 投稿。&lt;/p&gt;
 &lt;p&gt;转自encmasuta&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2253719&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -98,7 +273,7 @@
 &lt;hr&gt;
 &lt;p&gt;但声明书上，资金来源这一点，就已经把门焊死了&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/a/4/ea42fd021a65307abdd08248b061bdf2193aa68d.png&quot; data-download-href=&quot;/uploads/short-url/xqnfuytgJUBuarb6s6e4xtGeIRT.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/a/4/ea42fd021a65307abdd08248b061bdf2193aa68d_2_580x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xqnfuytgJUBuarb6s6e4xtGeIRT&quot; width=&quot;580&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/a/4/ea42fd021a65307abdd08248b061bdf2193aa68d_2_580x500.png, https://cdn3.ldstatic.com/optimized/4X/e/a/4/ea42fd021a65307abdd08248b061bdf2193aa68d_2_870x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/a/4/ea42fd021a65307abdd08248b061bdf2193aa68d_2_1160x1000.png 2x&quot; data-dominant-color=&quot;EEEAEA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;27 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;30 个帖子 - 18 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2253607&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -112,7 +287,7 @@
 &lt;p&gt;近期多地接连曝出有顾客私自使用餐厅公共餐具喂宠物的争议事件，也有顾客直接让自家宠物坐到专门给孩童准备的儿童椅上。早前尝试推进宠物友好服务的内地连锁火锅店海底捞昨日发布声明，主动叫停相关试点项目。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/1/1/3111b3d77e6d0e08db2fb4bb7ac64e165b974eca.jpeg&quot; data-download-href=&quot;/uploads/short-url/705k3wFFTnSZIYdpsasbsXZMgWe.jpeg?dl=1&quot; title=&quot;海底捞声明。&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/1/1/3111b3d77e6d0e08db2fb4bb7ac64e165b974eca_2_241x500.jpeg&quot; alt=&quot;海底捞声明。&quot; title=&quot;海底捞声明。&quot; data-base62-sha1=&quot;705k3wFFTnSZIYdpsasbsXZMgWe&quot; width=&quot;241&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/1/1/3111b3d77e6d0e08db2fb4bb7ac64e165b974eca_2_241x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/1/1/3111b3d77e6d0e08db2fb4bb7ac64e165b974eca_2_361x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/1/1/3111b3d77e6d0e08db2fb4bb7ac64e165b974eca_2_482x1000.jpeg 2x&quot; data-dominant-color=&quot;E7CFD0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.stheadline.com/zh-hans/loadnext/0/3576640&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.stheadline.com/zh-hans/loadnext/0/3576640&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;26 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;33 个帖子 - 27 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2253496&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -203,7 +378,7 @@
 &lt;p&gt;在企业级 AI Agent 迅速普及的同时，雄心与执行之间出现了脱节。&lt;/p&gt;
 &lt;p&gt;尽管 85% 的组织表示希望在未来三年内实现 Agentic，但 76% 的组织表示其当前的运营和基础设施无法支持这一变革。他们的理由是在人员、流程和工作流程方面缺乏准备。&lt;/p&gt;
 &lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2253431&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -276,7 +451,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2253416&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -385,7 +560,7 @@
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/6/b/e6b84b5ab07a61f095c9b9b9d9a7a97de566c3d3.png&quot; data-download-href=&quot;/uploads/short-url/wV2Fm4y5RxgyT33XtNuPdSuY6bh.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/6/b/e6b84b5ab07a61f095c9b9b9d9a7a97de566c3d3.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wV2Fm4y5RxgyT33XtNuPdSuY6bh&quot; width=&quot;554&quot; height=&quot;500&quot; data-dominant-color=&quot;EEEEEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/7/1/9711da844eca6dd21bc52cffedef513539cc1279.png&quot; data-download-href=&quot;/uploads/short-url/lyqlEatmzjcFKeMsDMb97JIEBIt.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/7/1/9711da844eca6dd21bc52cffedef513539cc1279_2_604x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;lyqlEatmzjcFKeMsDMb97JIEBIt&quot; width=&quot;604&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/7/1/9711da844eca6dd21bc52cffedef513539cc1279_2_604x500.png, https://cdn3.ldstatic.com/optimized/4X/9/7/1/9711da844eca6dd21bc52cffedef513539cc1279_2_906x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/9/7/1/9711da844eca6dd21bc52cffedef513539cc1279.png 2x&quot; data-dominant-color=&quot;FBFBFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 gemini-3.5-flash得分不如gpt 但是贵&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2253050&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -438,63 +613,6 @@ gemini-3.5-flash得分不如gpt 但是贵&lt;p&gt;&lt;/p&gt;
 
             &lt;p&gt;&lt;small&gt;13 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2252460&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>小米公布 2026 年第一财季财报</title>
-      <link>https://linux.do/t/topic/2251859</link>
-      <guid>linux.do-topic-2251859</guid>
-      <pubDate>Wed, 27 May 2026 00:46:42 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a href=&quot;https://ir.mi.com/static-files/8bf22346-dc4f-473c-bfac-a748db90f4d2&quot; rel=&quot;noopener nofollow ugc&quot;&gt;小米2026年一季度财报&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/4/6/e463560621514e700e781b32e7d6fb4ad97ba812.png&quot; data-download-href=&quot;/uploads/short-url/wApGLjkUxwRCINQOqDwOakAFsrw.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/4/6/e463560621514e700e781b32e7d6fb4ad97ba812_2_690x318.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wApGLjkUxwRCINQOqDwOakAFsrw&quot; width=&quot;690&quot; height=&quot;318&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/4/6/e463560621514e700e781b32e7d6fb4ad97ba812_2_690x318.png, https://cdn3.ldstatic.com/optimized/4X/e/4/6/e463560621514e700e781b32e7d6fb4ad97ba812_2_1035x477.png 1.5x, https://cdn3.ldstatic.com/original/4X/e/4/6/e463560621514e700e781b32e7d6fb4ad97ba812.png 2x&quot; data-dominant-color=&quot;F5F4F4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/e/3/2e3ea407a5f098d7486bbc7d9ec0c2742ee24720.jpeg&quot; data-download-href=&quot;/uploads/short-url/6B6aAAZJ0zhlcf0GvEGw4TEeGyc.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/e/3/2e3ea407a5f098d7486bbc7d9ec0c2742ee24720_2_61x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6B6aAAZJ0zhlcf0GvEGw4TEeGyc&quot; width=&quot;61&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/e/3/2e3ea407a5f098d7486bbc7d9ec0c2742ee24720_2_61x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/e/3/2e3ea407a5f098d7486bbc7d9ec0c2742ee24720_2_91x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/e/3/2e3ea407a5f098d7486bbc7d9ec0c2742ee24720_2_122x1000.jpeg 2x&quot; data-dominant-color=&quot;E3DEDC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;小米确实很强啊, 在手机领域厮杀的同时还能开分矿研发芯片, 造车, 今年又拿出了大模型.&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2251859&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>中银香港5月17日起于线上新开立的户口限额已经下调至60000港元</title>
-      <link>https://linux.do/t/topic/2251775</link>
-      <guid>linux.do-topic-2251775</guid>
-      <pubDate>Wed, 27 May 2026 00:24:49 GMT</pubDate>
-      <description>
-            &lt;p&gt;此前，中银香港线上开立的户口限额均统一限制为21万港元（20万已登记收款人限额+1万小额转账限额），而自5月17日起于线上新开立的户口，限额已统一下调至6万港元（5万已登记收款人限额+1万限额转账限额），邮件通知文本已同步修改。&lt;/p&gt;
-&lt;p&gt;目前，在此日期前线上开立且未补充签名的户口暂维持原有限额不变，尚不明确后期是否会与信银国际做出相同的统一下调措施。&lt;/p&gt;
-&lt;p&gt;感谢 Haruka Shirakawa 投稿&lt;/p&gt;
-&lt;p&gt;转自encmasuta&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2251775&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Opencode Go套餐现已支持Qwen3.7max</title>
-      <link>https://linux.do/t/topic/2251587</link>
-      <guid>linux.do-topic-2251587</guid>
-      <pubDate>Tue, 26 May 2026 19:32:24 GMT</pubDate>
-      <description>
-            &lt;p&gt;消息来自飞书官群&lt;/p&gt;
-
-总结 &lt;a href=&quot;https://linux.do/t/topic/2251587/1&quot;&gt;（点击了解更多详细信息）&lt;/a&gt;
-&lt;p&gt;去官网看了一眼，额度大概是比glm-5.1多一点，这个模型不是不开源吗也不知道Opencode怎么谈好的&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/9/8/8986dc0b36c5b4f1b34d8975c579eb93e368f451.jpeg&quot; data-download-href=&quot;/uploads/short-url/jCClCo8M6qQftwxjjp6C2eWEWu5.jpeg?dl=1&quot; title=&quot;IMG7782&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/8/8986dc0b36c5b4f1b34d8975c579eb93e368f451_2_296x500.jpeg&quot; alt=&quot;IMG7782&quot; data-base62-sha1=&quot;jCClCo8M6qQftwxjjp6C2eWEWu5&quot; width=&quot;296&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/8/8986dc0b36c5b4f1b34d8975c579eb93e368f451_2_296x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/9/8/8986dc0b36c5b4f1b34d8975c579eb93e368f451_2_444x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/9/8/8986dc0b36c5b4f1b34d8975c579eb93e368f451_2_592x1000.jpeg 2x&quot; data-dominant-color=&quot;F8F6F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2251587&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>注意：小米tokenplan已更换计费方式，并非 1:2 token</title>
-      <link>https://linux.do/t/topic/2251332</link>
-      <guid>linux.do-topic-2251332</guid>
-      <pubDate>Tue, 26 May 2026 17:00:50 GMT</pubDate>
-      <description>
-            &lt;p&gt;省流就是：99元的套餐获得110元API额度，相当于API价格打9折（其他套餐折扣不同）&lt;/p&gt;
-&lt;p&gt;110亿Credits = 限时110元余额&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/4/0/0401bbedc69996c97a2558d4b35c4f8661781baa.jpeg&quot; data-download-href=&quot;/uploads/short-url/zrCL8ShwmwvrrAYG2l29OxUosO.jpeg?dl=1&quot; title=&quot;510506e904f6c2e4c63219da65edd391&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/4/0/0401bbedc69996c97a2558d4b35c4f8661781baa_2_290x500.jpeg&quot; alt=&quot;510506e904f6c2e4c63219da65edd391&quot; data-base62-sha1=&quot;zrCL8ShwmwvrrAYG2l29OxUosO&quot; width=&quot;290&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/4/0/0401bbedc69996c97a2558d4b35c4f8661781baa_2_290x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/4/0/0401bbedc69996c97a2558d4b35c4f8661781baa_2_435x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/4/0/0401bbedc69996c97a2558d4b35c4f8661781baa_2_580x1000.jpeg 2x&quot; data-dominant-color=&quot;F4F5F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;15 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2251332&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>

@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 27 May 2026 06:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:45:15 GMT</lastBuildDate>
     <item>
       <title>老婆最近频繁让我准备润去新加坡</title>
       <link>https://www.v2ex.com/t/1215832</link>
@@ -23,47 +23,31 @@
 </description>
     </item>
     <item>
-      <title>身为广东人，为啥我身边不洗澡的人越来越多了</title>
-      <link>https://www.v2ex.com/t/1215806</link>
-      <guid>v2ex-1215806</guid>
-      <pubDate>Wed, 27 May 2026 01:51:42 GMT</pubDate>
-      <description>&lt;p&gt;坐标深圳，感觉在身边越来越多的人不洗澡（路人或同事），路过他或者擦身而过，我都能 yue 一声那种，是生理不适到要吐那种。以前这周味道我只在流浪汉边上闻到过，那种浑身黢黑脏兮兮的流浪汉。&lt;/p&gt;
-&lt;p&gt;我说的有味道的人，有的穿的衣服就像咸菜，但是还有的是传的很好看，远看根本想不到靠近味道那么冲。&lt;/p&gt;
-&lt;p&gt;真的很好奇：
-1 他自己不难受不知道吗？
-2 是巧合还是真的越来越多这种人&lt;/p&gt;
-&lt;p&gt;不吐不快，我最近真的鼻子遭老罪了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[送码] 维护了快一年的会员订阅管理工具 — 口袋订阅，最近大幅优化了一版本</title>
-      <link>https://www.v2ex.com/t/1215718</link>
-      <guid>v2ex-1215718</guid>
-      <pubDate>Tue, 26 May 2026 13:10:39 GMT</pubDate>
-      <description>一个苹果 iOS 原生制作的会员订阅管理工具 —— 口袋订阅，维护了快一年了，总体很稳定了，非常感谢国内外的朋友反馈，特别是一个老外叫 Jimmy ，好像非常喜欢我这款产品，他发现 bug 总是发邮件给我，邮件里有和他对话的几十封邮件了，真的非常感谢，也很开心。&lt;br /&gt;产品主打简约，可以快速添加会员订阅，快速查找会员订阅，其他功能，订阅 APP 里该有的应该都有。然后可以通过长按别的 APP 分享到 口袋订阅 快速添加，也可以通过搜索 APP/网站 名称来快速添加，其他功能我倒觉得没那么重要，主要看个大概的费用。&lt;br /&gt;APP 不搜集你的任何数据，这里其实有个缺点，就是你想改善你的产品的时候，没有数据，就会发现无从下手，你根本不知道用户在哪个页面体验不好😂，全靠用户从其他渠道反馈，邮件、小红书等。如有苹果开发者也可以一起交流下这方面的经验。&lt;br /&gt;App Store 地址： &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/cn/app/%E5%8F%A3%E8%A2%8B%E8%AE%A2%E9%98%85-%E8%AE%A2%E9%98%85%E7%AE%A1%E7%90%86%E4%B8%8E%E8%B4%A6%E5%8D%95%E6%8F%90%E9%86%92/id6752631319&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/cn/app/%E5%8F%A3%E8%A2%8B%E8%AE%A2%E9%98%85-%E8%AE%A2%E9%98%85%E7%AE%A1%E7%90%86%E4%B8%8E%E8%B4%A6%E5%8D%95%E6%8F%90%E9%86%92/id6752631319&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/RApyBOD.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RApyBOD.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;留言抽 20 个永久会员，明天收市后按上证指数抽出，因为我发现我送的很多兑换码感觉被机器人秒了&lt;br /&gt;抽奖程序由 GPT 提供，代码如下&lt;br /&gt;```javascript&lt;br /&gt;(async function lottery() {&lt;br /&gt;  const drawTime = &quot;2026-05-27 18:00:00&quot;;      // 开奖时间&lt;br /&gt;  const postUrl = &quot;&lt;a target=&quot;_blank&quot; href=&quot;https://example.com/post/123&quot; rel=&quot;nofollow noopener&quot;&gt;https://example.com/post/123&lt;/a&gt;&quot;; // 帖子链接&lt;br /&gt;  const shIndex = &quot;3123.45&quot;;                   // 上证指数，建议用字符串，避免小数精度问题&lt;br /&gt;  const replyTotal = 1000;                     // 回复总数&lt;br /&gt;  const winnerCount = 20;                       // 抽奖个数&lt;br /&gt;&lt;br /&gt;  if (!drawTime || !postUrl || !shIndex) {&lt;br /&gt;    console.error(&quot;开奖时间、帖子链接、上证指数不能为空&quot;);&lt;br /&gt;    return;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  if (!Number.isSafeInteger(replyTotal) || replyTotal &amp;lt;= 0) {&lt;br /&gt;    console.error(&quot;回复总数必须是大于 0 的安全整数&quot;);&lt;br /&gt;    return;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  if (!Number.isSafeInteger(winnerCount) || winnerCount &amp;lt;= 0) {&lt;br /&gt;    console.error(&quot;抽奖个数必须是大于 0 的安全整数&quot;);&lt;br /&gt;    return;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  if (winnerCount &amp;gt; replyTotal) {&lt;br /&gt;    console.error(&quot;抽奖个数不能大于回复总数&quot;);&lt;br /&gt;    return;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  async function sha256Hex(text) {&lt;br /&gt;    const data = new TextEncoder().encode(text);&lt;br /&gt;    const hashBuffer = await crypto.subtle.digest(&quot;SHA-256&quot;, data);&lt;br /&gt;&lt;br /&gt;    return Array.from(new Uint8Array(hashBuffer))&lt;br /&gt;      .map(b =&amp;gt; b.toString(16).padStart(2, &quot;0&quot;))&lt;br /&gt;      .join(&quot;&quot;);&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  function hexToBigInt(hex) {&lt;br /&gt;    return BigInt(&quot;0x&quot; + hex);&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  async function randomInt(seed, counter, maxExclusive) {&lt;br /&gt;    const max = BigInt(maxExclusive);&lt;br /&gt;    const space = 1n &amp;lt;&amp;lt; 256n;&lt;br /&gt;    const limit = space - (space % max);&lt;br /&gt;&lt;br /&gt;    while (true) {&lt;br /&gt;      const hash = await sha256Hex(seed + &quot;:&quot; + counter.value);&lt;br /&gt;      counter.value++;&lt;br /&gt;&lt;br /&gt;      const num = hexToBigInt(hash);&lt;br /&gt;&lt;br /&gt;      // 拒绝采样，避免简单取模产生偏差&lt;br /&gt;      if (num &amp;lt; limit) {&lt;br /&gt;        return Number(num % max);&lt;br /&gt;      }&lt;br /&gt;    }&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  async function drawWinners(seed, replyTotal, winnerCount) {&lt;br /&gt;    const winners = [];&lt;br /&gt;    const swapped = new Map();&lt;br /&gt;    const counter = { value: 0 };&lt;br /&gt;&lt;br /&gt;    for (let i = 0; i &amp;lt; winnerCount; i++) {&lt;br /&gt;      const remaining = replyTotal - i;&lt;br /&gt;      const r = await randomInt(seed, counter, remaining);&lt;br /&gt;&lt;br /&gt;      const selectedIndex = i + r;&lt;br /&gt;&lt;br /&gt;      const selectedValue = swapped.has(selectedIndex)&lt;br /&gt;        ? swapped.get(selectedIndex)&lt;br /&gt;        : selectedIndex + 1;&lt;br /&gt;&lt;br /&gt;      const currentValue = swapped.has(i)&lt;br /&gt;        ? swapped.get(i)&lt;br /&gt;        : i + 1;&lt;br /&gt;&lt;br /&gt;      swapped.set(selectedIndex, currentValue);&lt;br /&gt;      winners.push(selectedValue);&lt;br /&gt;    }&lt;br /&gt;&lt;br /&gt;    return winners;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  const rawSeed = [&lt;br /&gt;    `开奖时间=${drawTime}`,&lt;br /&gt;    `帖子链接=${postUrl}`,&lt;br /&gt;    `上证指数=${shIndex}`,&lt;br /&gt;    `回复总数=${replyTotal}`,&lt;br /&gt;    `抽奖个数=${winnerCount}`&lt;br /&gt;  ].join(&quot;|&quot;);&lt;br /&gt;&lt;br /&gt;  const seedHash = await sha256Hex(rawSeed);&lt;br /&gt;  const winners = await drawWinners(seedHash, replyTotal, winnerCount);&lt;br /&gt;  const sortedWinners = [...winners].sort((a, b) =&amp;gt; a - b);&lt;br /&gt;&lt;br /&gt;  console.log(&quot;========== 抽奖结果 ==========&quot;);&lt;br /&gt;  console.log(&quot;原始种子：&quot;);&lt;br /&gt;  console.log(rawSeed);&lt;br /&gt;  console.log(&quot;&quot;);&lt;br /&gt;  console.log(&quot;种子 SHA-256：&quot;);&lt;br /&gt;  console.log(seedHash);&lt;br /&gt;  console.log(&quot;&quot;);&lt;br /&gt;  console.log(&quot;中奖楼层：&quot;);&lt;br /&gt;  console.log(winners.join(&quot;, &quot;));&lt;br /&gt;  console.log(&quot;&quot;);&lt;br /&gt;  console.log(&quot;中奖楼层，升序：&quot;);&lt;br /&gt;  console.log(sortedWinners.join(&quot;, &quot;));&lt;br /&gt;  console.log(&quot;============================&quot;);&lt;br /&gt;})();&lt;br /&gt;```</description>
-    </item>
-    <item>
-      <title>工作多年，还是改不了待人热情，这是不是一个缺点？</title>
-      <link>https://www.v2ex.com/t/1215825</link>
-      <guid>v2ex-1215825</guid>
-      <pubDate>Wed, 27 May 2026 02:18:08 GMT</pubDate>
-      <description>&lt;p&gt;之所以有这个疑问，是前几天和同事聊天，他们觉得待人热情的人，大多都是另有所图。&lt;/p&gt;
-&lt;p&gt;可工作这么多年，我始终没变，遇见陌生人、接触新事物，依旧心怀热忱。就像有新人入职，我会主动约他们一起吃饭，对方遇到难处也会搭把手。于我而言，这只是团队里本该有的相处方式，真的没有任何别的想法。如果说奢求什么，一句简单的 “谢谢” 就足够了。&lt;/p&gt;
-&lt;p&gt;也想问问大家，在职场历练多年后，我这样的热情，算得上是一种缺点吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>寻找 postman、xshell、navicat 的替代软件</title>
-      <link>https://www.v2ex.com/t/1215798</link>
-      <guid>v2ex-1215798</guid>
-      <pubDate>Wed, 27 May 2026 01:30:42 GMT</pubDate>
-      <description>&lt;p&gt;postman: 接口调试工具。&lt;br/&gt;
-替换原因：强制账号登录&lt;/p&gt;
-&lt;p&gt;xshell: 远程连接工具。&lt;br/&gt;
-替换原因：强制版本更新&lt;/p&gt;
-&lt;p&gt;navicat：数据库管理工具。&lt;br/&gt;
-替换原因：收到官方邮件了，商业使用需付费&lt;/p&gt;
-&lt;p&gt;求推荐免费、轻量、好用的替代软件&lt;/p&gt;
+      <title>不主动不拒绝不表态的女生，还有必要继续吗？</title>
+      <link>https://www.v2ex.com/t/1215945</link>
+      <guid>v2ex-1215945</guid>
+      <pubDate>Wed, 27 May 2026 08:14:08 GMT</pubDate>
+      <description>&lt;h2&gt;大概信息&lt;/h2&gt;
+&lt;p&gt;我 98 年，170cm/70kg ，长相中等路人；她 96 年，160cm / 不到 50kg ，瘦瘦的，长得挺好看。我们老家是一个地方的，现在工作异地，距离大概 400 公里。&lt;/p&gt;
+&lt;h2&gt;短文&lt;/h2&gt;
+&lt;p&gt;今年过年回家，堂哥开车去火车站接我，路上无意间聊起找对象的事，堂哥和嫂子说可以把她小姨介绍给我，比我大 2 岁，问我介不介意。我说完全不介意，一直觉得大一点的女生更成熟懂事。当天晚上，堂哥、嫂子、堂弟、堂弟对象还有她，我们六个人一起吃了饭，饭后凑在一起打了麻将，散场后我顺利加上了她的微信。&lt;/p&gt;
+&lt;p&gt;加了微信之后，我们就有一搭没一搭的聊天，互相分享日常，也摸清了喜好。她是做运营的，平时最大的爱好就是爬山、徒步和拍照，性格看起来挺开朗的。聊了大概一个月，我们约好 4 月初再见一面。&lt;/p&gt;
+&lt;p&gt;第二次见面我们一起吃了饭、逛了街。那天我确实犯了追女生的大忌 —— 太急于表现自己，唠叨着讲了不少没用的大道理，惹得她明显有点不耐烦，甚至当场就生气了。不过第二天我们按原计划去拍照，我给她拍了很多她很喜欢的照片，看得出来她那天玩得很开心，回家路上还在夸我拍的不错，互相鼓励，感觉会更进一步。&lt;/p&gt;
+&lt;p&gt;之后的三四天，我们聊得依旧不错，还是会互相分享日常。可到了第五天，我发的消息她没回，心里越想越慌，又连着发了好几条追问她在哪、在干嘛。直到第二天中午，她回了一句，说前一天晚上和朋友出去喝酒，回去都一点多了，倒头就睡忘了看手机。我当时脑子一热，没忍住发了一大段话，翻来覆去都是让她晚上少喝酒、提防身边的异性，说异性之间喝到这么晚总归不安全。&lt;/p&gt;
+&lt;p&gt;紧接着就是周末，她的回复变得格外敷衍，几乎都是 “忙”“在外面” 这几个字。周日那天，我没忍住又发了一大堆日常分享，到了晚上情绪上头，发了一大段现在看来特别蠢的纠缠式小作文。&lt;/p&gt;
+&lt;p&gt;第二天一早，我收到了她的回复：“没必要这样，你好好生活吧，再见。” 说完就直接把我微信删了。被删的第四天，我买了她之前说过喜欢的零食寄到她那了，她通过了我的微信验证，说“谢谢，以后不要再买了”。从那之后，我一直很克制地聊天，再也没有连发过消息。&lt;/p&gt;
+&lt;p&gt;又过了三天，周一聊天时，我提到她做运营工作，很多重复的数据处理可以用 AI 提高效率，我能帮她。她随口说了句 “钱解决不了”，我当时脑子一热，脱口而出 “我可以养你”。她回 “那看看心意”，我立刻转了 1500 块，说想送她一套 SKII ，毕竟她经常爬山风吹日晒，皮肤需要保养。&lt;/p&gt;
+&lt;p&gt;她说 “心意不够”，我告诉她我可以把每个月工资剩下的都给她，还报了具体的数字，也把钱转给她了。结果她把钱全退了回来，说：“这些我都不要，收了只会显得我势利。我们只是普通朋友，真的没必要这样。”&lt;/p&gt;
+&lt;p&gt;从那以后，聊天基本都是我主动找话题、分享日常，她主动找我的次数屈指可数，满打满算也就三次。一开始我还抱着希望，把我们的聊天记录丢给 AI 分析，得到的结论是她可能属于回避型慢热性格，需要多给一点时间和耐心。于是我开始调整节奏，之后改成每隔两天找她聊几句，坚持了 2 次，后面改回了每天都找她聊。这样过了大概两周，我找了个借口，说想让她帮我看看穿衣搭配，其实就是想多跟她说说话。&lt;/p&gt;
+&lt;p&gt;她调侃到 “我的时间就这么不值钱吗”，我顺势说 “可以送你东西当报酬，你喜欢什么我送你”。她答应了，说喜欢凯乐石的鞋。我围着鞋子跟她聊了很久，问清了她喜欢的颜色、款式和尺码，后来她又说凯乐石那款有点贵，想看看 HOKA ，我又陪她挑了 HOKA 的款式，直接下单寄给了她。&lt;/p&gt;
+&lt;p&gt;之后聊天依旧平淡。她很喜欢帽子，有一次我看到一款可爱的 Hello Kitty 帽子，就发给她看，她说不好看，更喜欢 MLB 的。我立刻找了几款 MLB 的帽子让她选，她挑中了一款，我就先加入了购物车。&lt;/p&gt;
+&lt;p&gt;快到 520 的时候，我怕直接送礼物会给她造成心理压力，就找了个现在看来特别蹩脚的借口，说要帮一个和她性格、喜好都一样，也在她当地上班的女生选口红。她当时说等会儿帮我挑，晚上给我发了四款过来。我选了其中一款口红，再加上之前她挑好的 MLB 帽子，一起下单寄给了她。礼物收到后，她发了个消息说了声谢谢。&lt;/p&gt;
+&lt;p&gt;过了几天我鼓起勇气约她一起爬山，结果她说她只喜欢跟着团队爬山，而且她是单休，每周日固定都会去，没有多余的时间。那天我真的有点心灰意冷了。其实为了能和她有共同话题，一个月前我就开始自己锻炼徒步爬山，陆陆续续走了 10 多次，最长一次走了 44 公里。我当时就想，算了吧，真的太累了。后面几个小时我都没再找她聊天。结果就在我快要放弃的时候，她突然给我分享了一首《桃花运》。就是这首歌，又给了我一丝希望。我觉得她可能还是对我有点意思的，只是比较慢热而已。于是我又开始像以前一样，主动找她有一搭没一搭地聊天。&lt;/p&gt;
+&lt;p&gt;前几天，她主动找我，让我帮忙抢一台大疆 Pocket 4 ，说最近这款特别火，溢价很高。可惜我没抢到，我问她是不是自己用，她说 “没钱用”，我随口说 “以后可以让男朋友送啊”，她回 “是啊，看他心意吧”，接着又说她喜欢一款格里高利的徒步背包。我立刻找了那款背包的款式和容量，让她选了喜欢的，也加入了购物车，打算等她过生日的时候送给她。&lt;/p&gt;
+&lt;p&gt;其实我心里一直很清楚，从被删除好友那天起，这段关系里就只有我一个人在主动。她几乎从不主动找话题，收到礼物也只是说声谢谢，确认一下是不是我送到，我约了她无数次见面、爬山，她一次都没答应过。这样一直单方面付出，我真的觉得身心俱疲。&lt;/p&gt;
+&lt;p&gt;前几天我终于做了个决定：先断联 7 天看看。如果她心里真的有我，肯定会主动找我的。今天已经是断联的第四天了，她一条消息都没有发过。&lt;/p&gt;
+&lt;p&gt;我其实早就明白，她大概率是不喜欢我的，可我始终想不通，如果不喜欢，为什么不干脆明确地拒绝我呢？为什么在我快要放弃的时候，又要给我发一首《桃花运》呢？站在她的角度想，或许是觉得我们是亲戚介绍的，直接拒绝太尴尬，又或许，只是不想失去我这个对她好的 “朋友” 吧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;有没有过来人能帮我分析一下，她到底是怎么想的？我还有必要再坚持下去吗？&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -121,36 +105,47 @@
 </description>
     </item>
     <item>
-      <title>做了一个“全网视频下载”的 Windows 桌面应用：仅 2.2MB，粘贴链接就能下，欢迎试用</title>
-      <link>https://www.v2ex.com/t/1215779</link>
-      <guid>v2ex-1215779</guid>
-      <pubDate>Wed, 27 May 2026 00:43:29 GMT</pubDate>
-      <description>&lt;p&gt;最近做了一个自己一直想要的工具：yt-dlp-tauri 。&lt;/p&gt;
-&lt;p&gt;项目地址： &lt;a href=&quot;https://github.com/Chlience/yt-dlp-tauri&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Chlience/yt-dlp-tauri&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;﻿&lt;img alt=&quot;yt-dlp-tauri 中文界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/Chlience/yt-dlp-tauri/main/docs/assets/readme-zh.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;一句话：把 yt-dlp 做成一个更像正常桌面软件的 Windows 应用。粘贴视频链接，解析标题、封面、时长和清晰度，选一个格式，然后下载。&lt;/p&gt;
-&lt;p&gt;说“全网”当然不是我自己重新造了一个下载内核，而是站在 yt-dlp 的肩膀上：它本来就支持大量视频站点。我做的是把常见使用流程桌面化，尽量让“不想写命令行参数”的人也能直接用。&lt;/p&gt;
-&lt;p&gt;目前能做的事：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;粘贴链接后解析视频信息和封面。&lt;/li&gt;
-&lt;li&gt;选择清晰度，下载 MP4 友好的文件。&lt;/li&gt;
-&lt;li&gt;显示下载进度、速度、ETA ，支持取消。&lt;/li&gt;
-&lt;li&gt;自动安装和修复 yt-dlp / ffmpeg / ffprobe / deno 。&lt;/li&gt;
-&lt;li&gt;工具链版本固定，带 SHA-256 校验。&lt;/li&gt;
-&lt;li&gt;支持中英文界面。&lt;/li&gt;
-&lt;li&gt;支持检查 GitHub Releases 更新。&lt;/li&gt;
-&lt;li&gt;Windows x64 已有安装包。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;最近还专门修了几个实际使用时比较烦的问题：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;B 站封面图在桌面 WebView 里会因为 Referer 防盗链 403 ，现在已处理。&lt;/li&gt;
-&lt;li&gt;GitHub 检查更新遇到 API 限流时，会显示具体什么时候能重试。&lt;/li&gt;
-&lt;li&gt;发版说明自动从 &lt;a href=&quot;http://CHANGELOG.md&quot; rel=&quot;nofollow&quot;&gt;CHANGELOG.md&lt;/a&gt; 截取，不再靠手写。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这个项目的定位不是“大而全视频下载管家”，而是一个小、干净、能开箱用的 yt-dlp 桌面入口。如果你平时偶尔要下载自己有权保存的视频，又不想每次查 yt-dlp 参数，可以试试看。&lt;/p&gt;
-&lt;p&gt;Release 下载：
-&lt;a href=&quot;https://github.com/Chlience/yt-dlp-tauri/releases&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Chlience/yt-dlp-tauri/releases&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎试用、提 issue 、吐槽 UI ，或者帮忙 review Windows / Tauri 打包流程。&lt;/p&gt;
+      <title>身为广东人，为啥我身边不洗澡的人越来越多了</title>
+      <link>https://www.v2ex.com/t/1215806</link>
+      <guid>v2ex-1215806</guid>
+      <pubDate>Wed, 27 May 2026 01:51:42 GMT</pubDate>
+      <description>&lt;p&gt;坐标深圳，感觉在身边越来越多的人不洗澡（路人或同事），路过他或者擦身而过，我都能 yue 一声那种，是生理不适到要吐那种。以前这周味道我只在流浪汉边上闻到过，那种浑身黢黑脏兮兮的流浪汉。&lt;/p&gt;
+&lt;p&gt;我说的有味道的人，有的穿的衣服就像咸菜，但是还有的是传的很好看，远看根本想不到靠近味道那么冲。&lt;/p&gt;
+&lt;p&gt;真的很好奇：
+1 他自己不难受不知道吗？
+2 是巧合还是真的越来越多这种人&lt;/p&gt;
+&lt;p&gt;不吐不快，我最近真的鼻子遭老罪了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[送码] 维护了快一年的会员订阅管理工具 — 口袋订阅，最近大幅优化了一版本</title>
+      <link>https://www.v2ex.com/t/1215718</link>
+      <guid>v2ex-1215718</guid>
+      <pubDate>Tue, 26 May 2026 13:10:39 GMT</pubDate>
+      <description>一个苹果 iOS 原生制作的会员订阅管理工具 —— 口袋订阅，维护了快一年了，总体很稳定了，非常感谢国内外的朋友反馈，特别是一个老外叫 Jimmy ，好像非常喜欢我这款产品，他发现 bug 总是发邮件给我，邮件里有和他对话的几十封邮件了，真的非常感谢，也很开心。&lt;br /&gt;产品主打简约，可以快速添加会员订阅，快速查找会员订阅，其他功能，订阅 APP 里该有的应该都有。然后可以通过长按别的 APP 分享到 口袋订阅 快速添加，也可以通过搜索 APP/网站 名称来快速添加，其他功能我倒觉得没那么重要，主要看个大概的费用。&lt;br /&gt;APP 不搜集你的任何数据，这里其实有个缺点，就是你想改善你的产品的时候，没有数据，就会发现无从下手，你根本不知道用户在哪个页面体验不好😂，全靠用户从其他渠道反馈，邮件、小红书等。如有苹果开发者也可以一起交流下这方面的经验。&lt;br /&gt;App Store 地址： &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/cn/app/%E5%8F%A3%E8%A2%8B%E8%AE%A2%E9%98%85-%E8%AE%A2%E9%98%85%E7%AE%A1%E7%90%86%E4%B8%8E%E8%B4%A6%E5%8D%95%E6%8F%90%E9%86%92/id6752631319&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/cn/app/%E5%8F%A3%E8%A2%8B%E8%AE%A2%E9%98%85-%E8%AE%A2%E9%98%85%E7%AE%A1%E7%90%86%E4%B8%8E%E8%B4%A6%E5%8D%95%E6%8F%90%E9%86%92/id6752631319&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/RApyBOD.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/RApyBOD.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;留言抽 20 个永久会员，明天收市后按上证指数抽出，因为我发现我送的很多兑换码感觉被机器人秒了&lt;br /&gt;抽奖程序由 GPT 提供，代码如下&lt;br /&gt;```javascript&lt;br /&gt;(async function lottery() {&lt;br /&gt;  const drawTime = &quot;2026-05-27 18:00:00&quot;;      // 开奖时间&lt;br /&gt;  const postUrl = &quot;&lt;a target=&quot;_blank&quot; href=&quot;https://example.com/post/123&quot; rel=&quot;nofollow noopener&quot;&gt;https://example.com/post/123&lt;/a&gt;&quot;; // 帖子链接&lt;br /&gt;  const shIndex = &quot;3123.45&quot;;                   // 上证指数，建议用字符串，避免小数精度问题&lt;br /&gt;  const replyTotal = 1000;                     // 回复总数&lt;br /&gt;  const winnerCount = 20;                       // 抽奖个数&lt;br /&gt;&lt;br /&gt;  if (!drawTime || !postUrl || !shIndex) {&lt;br /&gt;    console.error(&quot;开奖时间、帖子链接、上证指数不能为空&quot;);&lt;br /&gt;    return;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  if (!Number.isSafeInteger(replyTotal) || replyTotal &amp;lt;= 0) {&lt;br /&gt;    console.error(&quot;回复总数必须是大于 0 的安全整数&quot;);&lt;br /&gt;    return;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  if (!Number.isSafeInteger(winnerCount) || winnerCount &amp;lt;= 0) {&lt;br /&gt;    console.error(&quot;抽奖个数必须是大于 0 的安全整数&quot;);&lt;br /&gt;    return;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  if (winnerCount &amp;gt; replyTotal) {&lt;br /&gt;    console.error(&quot;抽奖个数不能大于回复总数&quot;);&lt;br /&gt;    return;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  async function sha256Hex(text) {&lt;br /&gt;    const data = new TextEncoder().encode(text);&lt;br /&gt;    const hashBuffer = await crypto.subtle.digest(&quot;SHA-256&quot;, data);&lt;br /&gt;&lt;br /&gt;    return Array.from(new Uint8Array(hashBuffer))&lt;br /&gt;      .map(b =&amp;gt; b.toString(16).padStart(2, &quot;0&quot;))&lt;br /&gt;      .join(&quot;&quot;);&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  function hexToBigInt(hex) {&lt;br /&gt;    return BigInt(&quot;0x&quot; + hex);&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  async function randomInt(seed, counter, maxExclusive) {&lt;br /&gt;    const max = BigInt(maxExclusive);&lt;br /&gt;    const space = 1n &amp;lt;&amp;lt; 256n;&lt;br /&gt;    const limit = space - (space % max);&lt;br /&gt;&lt;br /&gt;    while (true) {&lt;br /&gt;      const hash = await sha256Hex(seed + &quot;:&quot; + counter.value);&lt;br /&gt;      counter.value++;&lt;br /&gt;&lt;br /&gt;      const num = hexToBigInt(hash);&lt;br /&gt;&lt;br /&gt;      // 拒绝采样，避免简单取模产生偏差&lt;br /&gt;      if (num &amp;lt; limit) {&lt;br /&gt;        return Number(num % max);&lt;br /&gt;      }&lt;br /&gt;    }&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  async function drawWinners(seed, replyTotal, winnerCount) {&lt;br /&gt;    const winners = [];&lt;br /&gt;    const swapped = new Map();&lt;br /&gt;    const counter = { value: 0 };&lt;br /&gt;&lt;br /&gt;    for (let i = 0; i &amp;lt; winnerCount; i++) {&lt;br /&gt;      const remaining = replyTotal - i;&lt;br /&gt;      const r = await randomInt(seed, counter, remaining);&lt;br /&gt;&lt;br /&gt;      const selectedIndex = i + r;&lt;br /&gt;&lt;br /&gt;      const selectedValue = swapped.has(selectedIndex)&lt;br /&gt;        ? swapped.get(selectedIndex)&lt;br /&gt;        : selectedIndex + 1;&lt;br /&gt;&lt;br /&gt;      const currentValue = swapped.has(i)&lt;br /&gt;        ? swapped.get(i)&lt;br /&gt;        : i + 1;&lt;br /&gt;&lt;br /&gt;      swapped.set(selectedIndex, currentValue);&lt;br /&gt;      winners.push(selectedValue);&lt;br /&gt;    }&lt;br /&gt;&lt;br /&gt;    return winners;&lt;br /&gt;  }&lt;br /&gt;&lt;br /&gt;  const rawSeed = [&lt;br /&gt;    `开奖时间=${drawTime}`,&lt;br /&gt;    `帖子链接=${postUrl}`,&lt;br /&gt;    `上证指数=${shIndex}`,&lt;br /&gt;    `回复总数=${replyTotal}`,&lt;br /&gt;    `抽奖个数=${winnerCount}`&lt;br /&gt;  ].join(&quot;|&quot;);&lt;br /&gt;&lt;br /&gt;  const seedHash = await sha256Hex(rawSeed);&lt;br /&gt;  const winners = await drawWinners(seedHash, replyTotal, winnerCount);&lt;br /&gt;  const sortedWinners = [...winners].sort((a, b) =&amp;gt; a - b);&lt;br /&gt;&lt;br /&gt;  console.log(&quot;========== 抽奖结果 ==========&quot;);&lt;br /&gt;  console.log(&quot;原始种子：&quot;);&lt;br /&gt;  console.log(rawSeed);&lt;br /&gt;  console.log(&quot;&quot;);&lt;br /&gt;  console.log(&quot;种子 SHA-256：&quot;);&lt;br /&gt;  console.log(seedHash);&lt;br /&gt;  console.log(&quot;&quot;);&lt;br /&gt;  console.log(&quot;中奖楼层：&quot;);&lt;br /&gt;  console.log(winners.join(&quot;, &quot;));&lt;br /&gt;  console.log(&quot;&quot;);&lt;br /&gt;  console.log(&quot;中奖楼层，升序：&quot;);&lt;br /&gt;  console.log(sortedWinners.join(&quot;, &quot;));&lt;br /&gt;  console.log(&quot;============================&quot;);&lt;br /&gt;})();&lt;br /&gt;```</description>
+    </item>
+    <item>
+      <title>工作多年，还是改不了待人热情，这是不是一个缺点？</title>
+      <link>https://www.v2ex.com/t/1215825</link>
+      <guid>v2ex-1215825</guid>
+      <pubDate>Wed, 27 May 2026 02:18:08 GMT</pubDate>
+      <description>&lt;p&gt;之所以有这个疑问，是前几天和同事聊天，他们觉得待人热情的人，大多都是另有所图。&lt;/p&gt;
+&lt;p&gt;可工作这么多年，我始终没变，遇见陌生人、接触新事物，依旧心怀热忱。就像有新人入职，我会主动约他们一起吃饭，对方遇到难处也会搭把手。于我而言，这只是团队里本该有的相处方式，真的没有任何别的想法。如果说奢求什么，一句简单的 “谢谢” 就足够了。&lt;/p&gt;
+&lt;p&gt;也想问问大家，在职场历练多年后，我这样的热情，算得上是一种缺点吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>寻找 postman、xshell、navicat 的替代软件</title>
+      <link>https://www.v2ex.com/t/1215798</link>
+      <guid>v2ex-1215798</guid>
+      <pubDate>Wed, 27 May 2026 01:30:42 GMT</pubDate>
+      <description>&lt;p&gt;postman: 接口调试工具。&lt;br/&gt;
+替换原因：强制账号登录&lt;/p&gt;
+&lt;p&gt;xshell: 远程连接工具。&lt;br/&gt;
+替换原因：强制版本更新&lt;/p&gt;
+&lt;p&gt;navicat：数据库管理工具。&lt;br/&gt;
+替换原因：收到官方邮件了，商业使用需付费&lt;/p&gt;
+&lt;p&gt;求推荐免费、轻量、好用的替代软件&lt;/p&gt;
 </description>
     </item>
     <item>
