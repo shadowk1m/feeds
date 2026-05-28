@@ -4,24 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 27 May 2026 23:08:09 GMT</lastBuildDate>
-    <item>
-      <title>老婆最近频繁让我准备润去新加坡</title>
-      <link>https://www.v2ex.com/t/1215832</link>
-      <guid>v2ex-1215832</guid>
-      <pubDate>Wed, 27 May 2026 02:34:37 GMT</pubDate>
-      <description>&lt;h2&gt;情况&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;目前外企在职，情况一般般 P9 管理大头兵&lt;/li&gt;
-&lt;li&gt;3 月老婆检查怀孕，目前在家稳定待产&lt;/li&gt;
-&lt;li&gt;目前无负债有存款，双方固定资产 3-5 套房（二线）&lt;/li&gt;
-&lt;li&gt;现在 30 出头的年龄，对工作也好像没有激情&lt;/li&gt;
-&lt;li&gt;老婆喜欢旅游，去过十几个国家，所以目前想去新加坡/日本，说是为了孩子教育&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;想问问新加坡的朋友是否值得去？
-当下去的话是否在生活跟工作上有所改善&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 01:20:32 GMT</lastBuildDate>
     <item>
       <title>不主动不拒绝不表态的女生，还有必要继续吗？</title>
       <link>https://www.v2ex.com/t/1215945</link>
@@ -48,6 +31,23 @@
 &lt;p&gt;前几天我终于做了个决定：先断联 7 天看看。如果她心里真的有我，肯定会主动找我的。今天已经是断联的第四天了，她一条消息都没有发过。&lt;/p&gt;
 &lt;p&gt;我其实早就明白，她大概率是不喜欢我的，可我始终想不通，如果不喜欢，为什么不干脆明确地拒绝我呢？为什么在我快要放弃的时候，又要给我发一首《桃花运》呢？站在她的角度想，或许是觉得我们是亲戚介绍的，直接拒绝太尴尬，又或许，只是不想失去我这个对她好的 “朋友” 吧。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;有没有过来人能帮我分析一下，她到底是怎么想的？我还有必要再坚持下去吗？&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>老婆最近频繁让我准备润去新加坡</title>
+      <link>https://www.v2ex.com/t/1215832</link>
+      <guid>v2ex-1215832</guid>
+      <pubDate>Wed, 27 May 2026 02:34:37 GMT</pubDate>
+      <description>&lt;h2&gt;情况&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;目前外企在职，情况一般般 P9 管理大头兵&lt;/li&gt;
+&lt;li&gt;3 月老婆检查怀孕，目前在家稳定待产&lt;/li&gt;
+&lt;li&gt;目前无负债有存款，双方固定资产 3-5 套房（二线）&lt;/li&gt;
+&lt;li&gt;现在 30 出头的年龄，对工作也好像没有激情&lt;/li&gt;
+&lt;li&gt;老婆喜欢旅游，去过十几个国家，所以目前想去新加坡/日本，说是为了孩子教育&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;想问问新加坡的朋友是否值得去？
+当下去的话是否在生活跟工作上有所改善&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -142,6 +142,13 @@
 </description>
     </item>
     <item>
+      <title>大厂前端社招复盘</title>
+      <link>https://www.v2ex.com/t/1215796</link>
+      <guid>v2ex-1215796</guid>
+      <pubDate>Wed, 27 May 2026 01:21:55 GMT</pubDate>
+      <description>最近经历了一次前端社招面试，一共四轮。比较意外的一点是：手写题这块我发挥得很差，3 道题都没写出来，但整轮流程里，项目和作品集反而聊了很久。&lt;br /&gt;&lt;br /&gt;背景先交代一下：我不是标准履历，专升本背景，之前找工作也遇到过学历筛选。所以这次经历让我重新想了一下：对非标准背景的开发者来说，作品集/开源项目到底能不能在面试里补一部分信任。&lt;br /&gt;&lt;br /&gt;这篇不是标准面经，也不是说基础不重要。更像是一次复盘，想听听大家怎么看。&lt;br /&gt;&lt;br /&gt;大致过程：&lt;br /&gt;&lt;br /&gt;1. 一面 1h30min&lt;br /&gt;- 自我介绍之后展示项目和作品，这部分占了超过一半时间。&lt;br /&gt;- 有常规前端场景题。&lt;br /&gt;- 手写 3 道：前端场景题 2 道，算法题 1 道。我这轮确实没写出来，也比较坦诚地说了自己现在大量使用 AI Coding ，平时更关注工程落地、产品思路和项目实现。&lt;br /&gt;&lt;br /&gt;2. 二面 40min&lt;br /&gt;- 自我介绍。&lt;br /&gt;- 继续介绍作品。&lt;br /&gt;- 基本围绕项目展开：为什么做、解决什么问题、技术上怎么设计、有没有真实使用场景。&lt;br /&gt;&lt;br /&gt;3. 三面 1h&lt;br /&gt;- 常规自我介绍。&lt;br /&gt;- 因为我是专升本背景，个人经历聊得比较多。&lt;br /&gt;- 作品展示依旧占了大部分时间，面试官会顺着项目继续追问。&lt;br /&gt;&lt;br /&gt;4. 四面 40min&lt;br /&gt;- 没有再做完整自我介绍。&lt;br /&gt;- 直接进入作品展示。&lt;br /&gt;- 围绕项目定位、技术取舍、后续规划聊了一些更发散的问题。&lt;br /&gt;- 最后问有没有觉得自己没展示到的内容，我就继续补充介绍作品，但时间比较紧，没有完全展开。&lt;br /&gt;&lt;br /&gt;我的一个感受是：项目不是简历上的装饰，它真的可能变成面试的主线。&lt;br /&gt;&lt;br /&gt;尤其是背景不算标准的时候，单靠学历和履历不一定能让人快速建立信任。但如果能把作品拿出来演示，讲清楚为什么做、怎么做、遇到什么问题、怎么解决，面试官就会更容易从“标签”转向“能力”。&lt;br /&gt;&lt;br /&gt;我觉得作品集至少要准备这几件事：&lt;br /&gt;&lt;br /&gt;- 项目能现场打开，最好有线上地址或 GitHub 。&lt;br /&gt;- 能用 1 分钟讲清楚它解决什么问题。&lt;br /&gt;- 能讲清楚 2-3 个关键技术点。&lt;br /&gt;- 能讲清楚做过哪些取舍，而不是只说用了哪些技术栈。&lt;br /&gt;- 能讲清楚下一步还想怎么迭代。&lt;br /&gt;&lt;br /&gt;当然，这不是说基础不重要。手写题没写出来肯定是问题，我后面也要补。但这次经历让我觉得，如果背景不够漂亮，或者履历不是特别标准，确实可以多花时间做可展示的作品。它不一定能补齐所有短板，但至少能给面试多一个打开局面的机会。&lt;br /&gt;&lt;br /&gt;我的 GitHub 放这里，不是求 star ，主要是方便理解我说的“作品集”是什么：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/tt-a1i&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/tt-a1i&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;也想听听 V 友怎么看：&lt;br /&gt;&lt;br /&gt;- 现在社招里，作品集/开源项目到底有多大权重？&lt;br /&gt;- 对非标准学历背景的人来说，作品是不是一个比较现实的补充证明？&lt;br /&gt;- 大量使用 AI Coding 之后，面试里该怎么诚实表达，同时又不让人觉得基础不行？</description>
+    </item>
+    <item>
       <title>618 准备换个手机</title>
       <link>https://www.v2ex.com/t/1215824</link>
       <guid>v2ex-1215824</guid>
@@ -158,11 +165,130 @@
 </description>
     </item>
     <item>
-      <title>大厂前端社招复盘</title>
-      <link>https://www.v2ex.com/t/1215796</link>
-      <guid>v2ex-1215796</guid>
-      <pubDate>Wed, 27 May 2026 01:21:55 GMT</pubDate>
-      <description>最近经历了一次前端社招面试，一共四轮。比较意外的一点是：手写题这块我发挥得很差，3 道题都没写出来，但整轮流程里，项目和作品集反而聊了很久。&lt;br /&gt;&lt;br /&gt;背景先交代一下：我不是标准履历，专升本背景，之前找工作也遇到过学历筛选。所以这次经历让我重新想了一下：对非标准背景的开发者来说，作品集/开源项目到底能不能在面试里补一部分信任。&lt;br /&gt;&lt;br /&gt;这篇不是标准面经，也不是说基础不重要。更像是一次复盘，想听听大家怎么看。&lt;br /&gt;&lt;br /&gt;大致过程：&lt;br /&gt;&lt;br /&gt;1. 一面 1h30min&lt;br /&gt;- 自我介绍之后展示项目和作品，这部分占了超过一半时间。&lt;br /&gt;- 有常规前端场景题。&lt;br /&gt;- 手写 3 道：前端场景题 2 道，算法题 1 道。我这轮确实没写出来，也比较坦诚地说了自己现在大量使用 AI Coding ，平时更关注工程落地、产品思路和项目实现。&lt;br /&gt;&lt;br /&gt;2. 二面 40min&lt;br /&gt;- 自我介绍。&lt;br /&gt;- 继续介绍作品。&lt;br /&gt;- 基本围绕项目展开：为什么做、解决什么问题、技术上怎么设计、有没有真实使用场景。&lt;br /&gt;&lt;br /&gt;3. 三面 1h&lt;br /&gt;- 常规自我介绍。&lt;br /&gt;- 因为我是专升本背景，个人经历聊得比较多。&lt;br /&gt;- 作品展示依旧占了大部分时间，面试官会顺着项目继续追问。&lt;br /&gt;&lt;br /&gt;4. 四面 40min&lt;br /&gt;- 没有再做完整自我介绍。&lt;br /&gt;- 直接进入作品展示。&lt;br /&gt;- 围绕项目定位、技术取舍、后续规划聊了一些更发散的问题。&lt;br /&gt;- 最后问有没有觉得自己没展示到的内容，我就继续补充介绍作品，但时间比较紧，没有完全展开。&lt;br /&gt;&lt;br /&gt;我的一个感受是：项目不是简历上的装饰，它真的可能变成面试的主线。&lt;br /&gt;&lt;br /&gt;尤其是背景不算标准的时候，单靠学历和履历不一定能让人快速建立信任。但如果能把作品拿出来演示，讲清楚为什么做、怎么做、遇到什么问题、怎么解决，面试官就会更容易从“标签”转向“能力”。&lt;br /&gt;&lt;br /&gt;我觉得作品集至少要准备这几件事：&lt;br /&gt;&lt;br /&gt;- 项目能现场打开，最好有线上地址或 GitHub 。&lt;br /&gt;- 能用 1 分钟讲清楚它解决什么问题。&lt;br /&gt;- 能讲清楚 2-3 个关键技术点。&lt;br /&gt;- 能讲清楚做过哪些取舍，而不是只说用了哪些技术栈。&lt;br /&gt;- 能讲清楚下一步还想怎么迭代。&lt;br /&gt;&lt;br /&gt;当然，这不是说基础不重要。手写题没写出来肯定是问题，我后面也要补。但这次经历让我觉得，如果背景不够漂亮，或者履历不是特别标准，确实可以多花时间做可展示的作品。它不一定能补齐所有短板，但至少能给面试多一个打开局面的机会。&lt;br /&gt;&lt;br /&gt;我的 GitHub 放这里，不是求 star ，主要是方便理解我说的“作品集”是什么：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/tt-a1i&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/tt-a1i&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;也想听听 V 友怎么看：&lt;br /&gt;&lt;br /&gt;- 现在社招里，作品集/开源项目到底有多大权重？&lt;br /&gt;- 对非标准学历背景的人来说，作品是不是一个比较现实的补充证明？&lt;br /&gt;- 大量使用 AI Coding 之后，面试里该怎么诚实表达，同时又不让人觉得基础不行？</description>
+      <title>33 岁阿里 5 年，平薪去长沙 vs 继续卷杭州，怎么选？</title>
+      <link>https://www.v2ex.com/t/1215982</link>
+      <guid>v2ex-1215982</guid>
+      <pubDate>Wed, 27 May 2026 10:08:29 GMT</pubDate>
+      <description>&lt;h2&gt;〇、概要&lt;/h2&gt;
+&lt;p&gt;手上一个&lt;strong&gt;长沙平薪 offer&lt;/strong&gt;，在「&lt;strong&gt;留杭州继续卷&lt;/strong&gt;」和「&lt;strong&gt;去长沙降强度&lt;/strong&gt;」之间反复横跳。我自己倾向去长沙，但有一些顾虑想听听站友的意见，尤其是有过类似经历的朋友。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;核心矛盾&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;留杭州 = 强度大、房价高、要继续卷，但职业稳定、女友支持网络完整&lt;/li&gt;
+&lt;li&gt;去长沙 = 强度低、房价便宜一半、生活舒服，但&lt;strong&gt;职业天花板下移&lt;/strong&gt; + &lt;strong&gt;女友单方面让步&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h2&gt;一、个人情况&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th&gt;详情&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;年龄&lt;/td&gt;
+&lt;td&gt;33 岁（ 93 年）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;现职&lt;/td&gt;
+&lt;td&gt;杭州阿里系，5 年司龄，LLM 智能语音方向后端&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;籍贯&lt;/td&gt;
+&lt;td&gt;广东（外婆在湖南常德，离长沙近）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;原生家庭&lt;/td&gt;
+&lt;td&gt;情况复杂、无经济支持，已决定专注小家、暂停帮扶、减少回家&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;户口&lt;/td&gt;
+&lt;td&gt;我和女友均在各自老家，无杭州户口&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;资产&lt;/td&gt;
+&lt;td&gt;现金 + 股票 ≈ 200w ，&lt;strong&gt;杭州无房无车&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;年收入（税前）&lt;/td&gt;
+&lt;td&gt;我 50w ，女友 25w&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;二、女友与家庭情况&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;女友&lt;/strong&gt;：江苏人，&lt;strong&gt;HR 岗位&lt;/strong&gt;，父母在杭州工作（老家江苏，弟弟在苏北已成家）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;感情&lt;/strong&gt;：稳定，计划 1-2 年内结婚，再 1 年要小孩，希望&lt;strong&gt;小孩上幼儿园之前买房&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;女友对长沙的态度&lt;/strong&gt;：已深度沟通 N 次，是&lt;strong&gt;真心愿意&lt;/strong&gt;为小家一起过去；她唯一的担忧是——&lt;strong&gt;如果感情破裂，她在长沙没有退路&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;双方父母&lt;/strong&gt;：都还健康、有收入，目前未把养老作为主要决策变量；待小家稳固后再考虑经济支持 + 少量陪伴&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;三、长沙 Offer 情况&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;行业&lt;/strong&gt;：头部消费类上市公司，高速扩张期&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;赛道&lt;/strong&gt;：竞争激烈、毛利低，长期看有业务瓶颈&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;岗位&lt;/strong&gt;：核心业务后端研发&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;薪资&lt;/strong&gt;：与现岗位&lt;strong&gt;基本持平&lt;/strong&gt;，但&lt;strong&gt;公积金/补贴/福利显著缩水&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;强度&lt;/strong&gt;：&lt;strong&gt;大小周&lt;/strong&gt;，常态 7 点下班，迭代发布日加班&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;四、两边对比&lt;/h2&gt;
+&lt;h3&gt;🅰️ 留杭州&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;优点&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;职业稳&lt;/strong&gt;：大厂背景认可度仍可，35 岁被裁在杭州还能找到工作；满司龄可签无固定期限合同&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;隐性收入高&lt;/strong&gt;：高公积金、假期多、各类补贴&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;女友友好&lt;/strong&gt;：HR 岗位机会多，亲友/家庭支持网络完整&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;回旋空间大&lt;/strong&gt;：外部还有大厂可跳，base 有 30% 涨幅机会&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;缺点&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;强度高&lt;/strong&gt;：加班多，个人时间被持续挤压&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;房价压力大&lt;/strong&gt;：杭州房价高，&lt;strong&gt;幼儿园前买房&lt;/strong&gt;的目标会让储蓄被一次性掏空，未来 20 年背贷&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;无户口&lt;/strong&gt;：买房资格、子女教育要额外操作&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;依然要继续卷&lt;/strong&gt;：跳外部大厂只是换个地方卷&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;🅱️ 去长沙&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;优点&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;收入/房价比极优&lt;/strong&gt;：薪资不变，房价&lt;strong&gt;至少便宜一半&lt;/strong&gt;，200w 现金可全款或低首付，&lt;strong&gt;生活质量直接跃迁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;强度低&lt;/strong&gt;：准点下班、复杂度低，能腾出时间陪家人/锻炼/带娃&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;城市宜居&lt;/strong&gt;：吃喝玩乐便利，松弛感强&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;抗风险&lt;/strong&gt;：即便被裁降薪，无房贷压力也能扛&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;离外婆近&lt;/strong&gt;：常德到长沙很近，亲缘上有个落点&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;缺点&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;职业天花板下移&lt;/strong&gt;：大厂 → 小厂、一线 → 弱二线，&lt;strong&gt;再回一线难度极大&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;福利全面缩水&lt;/strong&gt;：公积金、假期、补贴显著下降&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;女友是单方面让步&lt;/strong&gt;：HR 在长沙岗位少，&lt;strong&gt;预计要大幅降薪&lt;/strong&gt;，且亲友圈全部要重建&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;支持网络归零&lt;/strong&gt;：双方在长沙均无亲友，育儿、应急都得纯靠自己&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;女友的退路问题&lt;/strong&gt;：万一感情有变，她在一个零支持网络的城市重新开始，&lt;strong&gt;代价远大于我&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr/&gt;
+&lt;h2&gt;五、我自己的倾向&lt;/h2&gt;
+&lt;p&gt;我&lt;strong&gt;更倾向去长沙&lt;/strong&gt;，主要驱动力是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;薪资不变 + 房价便宜一半 + 强度骤降&lt;/strong&gt;，对一个 33 岁的人太诱人。
+如果继续留杭州，未来大概率是&quot;高强度工作 → 还房贷 → 没时间陪家人&quot;的循环。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;但我有两个过不去的坎：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;3-5 年后想回一线几乎不可能&lt;/strong&gt;，到时候如果后悔，没有回头路&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;女友是为我做出让步&lt;/strong&gt;——她到长沙等于亲友圈归零、职业大幅降薪。万一感情/工作出问题，她承担的代价远大于我，&lt;strong&gt;我会内疚一辈子&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr/&gt;
+&lt;h2&gt;六、想听站友的意见&lt;/h2&gt;
+&lt;p&gt;最想听有过类似选择经历的朋友：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;从&lt;strong&gt;一线大厂去二线小厂&lt;/strong&gt;的，3 年后回头看是否后悔？尤其是带着伴侣一起搬过去的&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HR 这种岗位&lt;/strong&gt;在长沙这种弱二线，实际就业情况和降薪幅度大概是什么水平？&lt;/li&gt;
+&lt;li&gt;33 岁这个节点，&lt;strong&gt;职业惯性 vs 生活质量&lt;/strong&gt;该怎么权衡？&lt;/li&gt;
+&lt;li&gt;如果你是我，会怎么选？为什么？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;先谢过各位 🙏&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
