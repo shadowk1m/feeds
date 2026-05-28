@@ -4,158 +4,18 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 28 May 2026 09:43:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 13:00:13 GMT</lastBuildDate>
     <item>
-      <title>33 岁阿里 5 年，平薪去长沙 vs 继续卷杭州，怎么选？</title>
-      <link>https://www.v2ex.com/t/1215982</link>
-      <guid>v2ex-1215982</guid>
-      <pubDate>Wed, 27 May 2026 10:08:29 GMT</pubDate>
-      <description>&lt;h2&gt;〇、概要&lt;/h2&gt;
-&lt;p&gt;手上一个&lt;strong&gt;长沙平薪 offer&lt;/strong&gt;，在「&lt;strong&gt;留杭州继续卷&lt;/strong&gt;」和「&lt;strong&gt;去长沙降强度&lt;/strong&gt;」之间反复横跳。我自己倾向去长沙，但有一些顾虑想听听站友的意见，尤其是有过类似经历的朋友。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;核心矛盾&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;留杭州 = 强度大、房价高、要继续卷，但职业稳定、女友支持网络完整&lt;/li&gt;
-&lt;li&gt;去长沙 = 强度低、房价便宜一半、生活舒服，但&lt;strong&gt;职业天花板下移&lt;/strong&gt; + &lt;strong&gt;女友单方面让步&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;hr/&gt;
-&lt;h2&gt;一、个人情况&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;项目&lt;/th&gt;
-&lt;th&gt;详情&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;年龄&lt;/td&gt;
-&lt;td&gt;33 岁（ 93 年）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;现职&lt;/td&gt;
-&lt;td&gt;杭州阿里系，5 年司龄，LLM 智能语音方向后端&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;籍贯&lt;/td&gt;
-&lt;td&gt;广东（外婆在湖南常德，离长沙近）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;原生家庭&lt;/td&gt;
-&lt;td&gt;情况复杂、无经济支持，已决定专注小家、暂停帮扶、减少回家&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;户口&lt;/td&gt;
-&lt;td&gt;我和女友均在各自老家，无杭州户口&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;资产&lt;/td&gt;
-&lt;td&gt;现金 + 股票 ≈ 200w ，&lt;strong&gt;杭州无房无车&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;年收入（税前）&lt;/td&gt;
-&lt;td&gt;我 50w ，女友 25w&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;二、女友与家庭情况&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;女友&lt;/strong&gt;：江苏人，&lt;strong&gt;HR 岗位&lt;/strong&gt;，父母在杭州工作（老家江苏，弟弟在苏北已成家）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;感情&lt;/strong&gt;：稳定，计划 1-2 年内结婚，再 1 年要小孩，希望&lt;strong&gt;小孩上幼儿园之前买房&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;女友对长沙的态度&lt;/strong&gt;：已深度沟通 N 次，是&lt;strong&gt;真心愿意&lt;/strong&gt;为小家一起过去；她唯一的担忧是——&lt;strong&gt;如果感情破裂，她在长沙没有退路&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;双方父母&lt;/strong&gt;：都还健康、有收入，目前未把养老作为主要决策变量；待小家稳固后再考虑经济支持 + 少量陪伴&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;三、长沙 Offer 情况&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;行业&lt;/strong&gt;：头部消费类上市公司，高速扩张期&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;赛道&lt;/strong&gt;：竞争激烈、毛利低，长期看有业务瓶颈&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;岗位&lt;/strong&gt;：核心业务后端研发&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;薪资&lt;/strong&gt;：与现岗位&lt;strong&gt;基本持平&lt;/strong&gt;，但&lt;strong&gt;公积金/补贴/福利显著缩水&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;强度&lt;/strong&gt;：&lt;strong&gt;大小周&lt;/strong&gt;，常态 7 点下班，迭代发布日加班&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;四、两边对比&lt;/h2&gt;
-&lt;h3&gt;🅰️ 留杭州&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;优点&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;职业稳&lt;/strong&gt;：大厂背景认可度仍可，35 岁被裁在杭州还能找到工作；满司龄可签无固定期限合同&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;隐性收入高&lt;/strong&gt;：高公积金、假期多、各类补贴&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;女友友好&lt;/strong&gt;：HR 岗位机会多，亲友/家庭支持网络完整&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;回旋空间大&lt;/strong&gt;：外部还有大厂可跳，base 有 30% 涨幅机会&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;缺点&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;强度高&lt;/strong&gt;：加班多，个人时间被持续挤压&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;房价压力大&lt;/strong&gt;：杭州房价高，&lt;strong&gt;幼儿园前买房&lt;/strong&gt;的目标会让储蓄被一次性掏空，未来 20 年背贷&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;无户口&lt;/strong&gt;：买房资格、子女教育要额外操作&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;依然要继续卷&lt;/strong&gt;：跳外部大厂只是换个地方卷&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;🅱️ 去长沙&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;优点&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;收入/房价比极优&lt;/strong&gt;：薪资不变，房价&lt;strong&gt;至少便宜一半&lt;/strong&gt;，200w 现金可全款或低首付，&lt;strong&gt;生活质量直接跃迁&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;强度低&lt;/strong&gt;：准点下班、复杂度低，能腾出时间陪家人/锻炼/带娃&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;城市宜居&lt;/strong&gt;：吃喝玩乐便利，松弛感强&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;抗风险&lt;/strong&gt;：即便被裁降薪，无房贷压力也能扛&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;离外婆近&lt;/strong&gt;：常德到长沙很近，亲缘上有个落点&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;缺点&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;职业天花板下移&lt;/strong&gt;：大厂 → 小厂、一线 → 弱二线，&lt;strong&gt;再回一线难度极大&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;福利全面缩水&lt;/strong&gt;：公积金、假期、补贴显著下降&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;女友是单方面让步&lt;/strong&gt;：HR 在长沙岗位少，&lt;strong&gt;预计要大幅降薪&lt;/strong&gt;，且亲友圈全部要重建&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;支持网络归零&lt;/strong&gt;：双方在长沙均无亲友，育儿、应急都得纯靠自己&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;女友的退路问题&lt;/strong&gt;：万一感情有变，她在一个零支持网络的城市重新开始，&lt;strong&gt;代价远大于我&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;h2&gt;五、我自己的倾向&lt;/h2&gt;
-&lt;p&gt;我&lt;strong&gt;更倾向去长沙&lt;/strong&gt;，主要驱动力是：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;薪资不变 + 房价便宜一半 + 强度骤降&lt;/strong&gt;，对一个 33 岁的人太诱人。
-如果继续留杭州，未来大概率是&quot;高强度工作 → 还房贷 → 没时间陪家人&quot;的循环。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;但我有两个过不去的坎：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;3-5 年后想回一线几乎不可能&lt;/strong&gt;，到时候如果后悔，没有回头路&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;女友是为我做出让步&lt;/strong&gt;——她到长沙等于亲友圈归零、职业大幅降薪。万一感情/工作出问题，她承担的代价远大于我，&lt;strong&gt;我会内疚一辈子&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;h2&gt;六、想听站友的意见&lt;/h2&gt;
-&lt;p&gt;最想听有过类似选择经历的朋友：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;从&lt;strong&gt;一线大厂去二线小厂&lt;/strong&gt;的，3 年后回头看是否后悔？尤其是带着伴侣一起搬过去的&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;HR 这种岗位&lt;/strong&gt;在长沙这种弱二线，实际就业情况和降薪幅度大概是什么水平？&lt;/li&gt;
-&lt;li&gt;33 岁这个节点，&lt;strong&gt;职业惯性 vs 生活质量&lt;/strong&gt;该怎么权衡？&lt;/li&gt;
-&lt;li&gt;如果你是我，会怎么选？为什么？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;先谢过各位 🙏&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>入手了 一加 15T，说说感受</title>
-      <link>https://www.v2ex.com/t/1215979</link>
-      <guid>v2ex-1215979</guid>
-      <pubDate>Wed, 27 May 2026 09:52:55 GMT</pubDate>
-      <description>&lt;p&gt;手里在用的 iPhone11 早就因为电池损耗变得不耐用了，乘着 618 和国补，用手里的 iPhone11 折了 360 元 换了一部 OnePlus 15T 。3500 元的价格，买到这个机器我觉得是很有性价比的，当然要看和谁比了。&lt;/p&gt;
-&lt;p&gt;下面把这几天使用过程中觉得优秀的点和存在的缺点，进行不完全列举：&lt;/p&gt;
-&lt;h3&gt;优点&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;电池够大，早上满电出门，晚上回家后基本都还能剩 50% 的电量。早上通勤抖音酷酷刷，中午还能玩会《鸣潮》，上一个 iPhone11 一天两充都不够用，因为电池确实老化的严重了。电池大就是爽玩。&lt;/li&gt;
-&lt;li&gt;游戏流畅，画质表现也可以。性能方面不太懂，只能凭感觉，给我的感受就是流畅不卡。可能现在机器的性能都溢出了。接上 Xbox 的手柄玩《鸣潮》体验很好，使用推荐画质很流畅。&lt;/li&gt;
-&lt;li&gt;可以使用 GKD 跳过部分广告，但是并不是完美，有的页面会误触。（使用别人免费的开源规则，能有这样的效果也很满意了。）&lt;/li&gt;
-&lt;li&gt;100W 的快充，充电确实快。对比之前在用的 iPhone11 确实快了不是一点半点。 &lt;/li&gt;
-&lt;li&gt;不到四千的价格买 16+512 的配置，相对于 iPhone 来说硬件配置确实具有很高性价比。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;缺点&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;系统广告超多，很多自带应用都有广告植入。（大部分是可以关掉的，但还是像捏着鼻子吃屎的感觉）&lt;/li&gt;
-&lt;li&gt;屏幕触控准确度不够，存在很多情况下误触的情况。比如，在桌面左滑、右滑角度稍微判定错误就被当成了下拉通知栏。APP 中带有关闭的广告，本身为了增加关闭难度，就设计的很小。在此手机上误触的概率很大，明明想关闭广告却被判定为点击弹出广告。&lt;/li&gt;
-&lt;li&gt;存在收到消息桌面软件图标不显示红点通知的情况。（不知道 APP 的问题，还是系统问题。）像 Outlook 和 Gmail 都不支持。iPhone 上是不是同样的情况我不清楚。&lt;/li&gt;
-&lt;li&gt;三天两头推送新系统的更新弹窗，这个在 iPhone 上也存在。但是没有强制升级，目前还能忍。&lt;/li&gt;
-&lt;li&gt;功能太多而未进行整合，很多功能都是单独一个 APP ，你都不知道是干什么用的。举例：逍遥游、小游戏、禅定空间、百变引擎、快应用、融合搜索、融合框架...... &lt;/li&gt;
-&lt;li&gt;相机很难识别二维码，在使用 passkey 绑定的时候，相机存在无法检测到二维码的情况，只能当做文本识别。只有反复多次尝试才能识别出二维码。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;最后说句真实的感受，如果有钱我还是选择双持。安卓用来打游戏，日常使用还是 iPhone 省心。三千多的手机，虽然存在诸多不足，但是和七八千的 iPhone 比前者更具性价比。&lt;/p&gt;
+      <title>跟风开了一个自助洗车店</title>
+      <link>https://www.v2ex.com/t/1216096</link>
+      <guid>v2ex-1216096</guid>
+      <pubDate>Thu, 28 May 2026 02:36:31 GMT</pubDate>
+      <description>&lt;h4&gt;去年看西安哥们开了之后就动心思了，行动了一波，以为可以做个安稳副业，结果，事巨多，公司一堆事，店里一堆事，还好老婆给力，帮我撑住了。&lt;/h4&gt;
+&lt;h4&gt;总算都弄利索了，在回龙观 Long 街，在回龙观的小伙伴欢迎来体验啊！！别的不说，回龙观自助洗车体验绝对第一&lt;/h4&gt;
+&lt;h3&gt;免停，毛巾，有专人定时清理卫生，洗毛巾！保证大家过来用到的都是干净的！&lt;/h3&gt;
+&lt;h3&gt;迪太欧 Long 街店&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/TixSZma.jpeg&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/2IvhyPD.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -181,36 +41,11 @@
 </description>
     </item>
     <item>
-      <title>跟风开了一个自助洗车店</title>
-      <link>https://www.v2ex.com/t/1216096</link>
-      <guid>v2ex-1216096</guid>
-      <pubDate>Thu, 28 May 2026 02:36:31 GMT</pubDate>
-      <description>&lt;h4&gt;去年看西安哥们开了之后就动心思了，行动了一波，以为可以做个安稳副业，结果，事巨多，公司一堆事，店里一堆事，还好老婆给力，帮我撑住了。&lt;/h4&gt;
-&lt;h4&gt;总算都弄利索了，在回龙观 Long 街，在回龙观的小伙伴欢迎来体验啊！！别的不说，回龙观自助洗车体验绝对第一&lt;/h4&gt;
-&lt;h3&gt;免停，毛巾，有专人定时清理卫生，洗毛巾！保证大家过来用到的都是干净的！&lt;/h3&gt;
-&lt;h3&gt;迪太欧 Long 街店&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/TixSZma.jpeg&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/2IvhyPD.jpeg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>被领导警告了</title>
       <link>https://www.v2ex.com/t/1216157</link>
       <guid>v2ex-1216157</guid>
       <pubDate>Thu, 28 May 2026 05:45:01 GMT</pubDate>
       <description>早上在那里趁着 AI 干活的间隙（用的 codex ，最近跑任务好慢），在哪里回微信消息，组长看到了，直接警告我说再抓到我上班玩手机就试用期转正不了，并跟带我老哥说我的任务是不是严重不饱和，叫他盯我紧点</description>
-    </item>
-    <item>
-      <title>英语学了几十年，还是听不懂说不出，大家都是怎么练听说的？</title>
-      <link>https://www.v2ex.com/t/1216089</link>
-      <guid>v2ex-1216089</guid>
-      <pubDate>Thu, 28 May 2026 02:22:10 GMT</pubDate>
-      <description>&lt;p&gt;平时工作中偶尔也会用到英语听说，所以一直挺想把英语好好补起来。&lt;/p&gt;
-&lt;p&gt;但问题是，英语断断续续学了几十年，感觉还是停留在哑巴英语阶段。看一些简单的英文材料还凑合，但真到听的时候，经常听不全，反应不过来；轮到自己说，又很难组织句子，脑子里一片空白。&lt;/p&gt;
-&lt;p&gt;英语 App 试了不少，没有一个有效的，多邻国、流利说、AI 陪练之类的都试过，但整体感觉效果都不太明显。有些是坚持不下去，有些是练完之后感觉没用，还有一些价格也不便宜。&lt;/p&gt;
-&lt;p&gt;还上过一些公司的培训课，主要就是老师分享一段材料，然后分组尬聊，感觉这种方式只是在不断强化自己的蹩脚英语，也没啥用。&lt;/p&gt;
-&lt;p&gt;大家都是咋练的啊？有啥切实有效的方法么？&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>感觉有点 ai 阳痿了，话说你们都用 ai 做了啥</title>
@@ -227,13 +62,30 @@
 </description>
     </item>
     <item>
-      <title>mac 笔记本 500G，开发用，现在没有储存空间了怎么办</title>
-      <link>https://www.v2ex.com/t/1216060</link>
-      <guid>v2ex-1216060</guid>
-      <pubDate>Thu, 28 May 2026 01:10:52 GMT</pubDate>
-      <description>&lt;p&gt;mac 笔记本 500G ，开发用，现在没有储存空间了怎么办
-有没有的大佬遇到这样问题的，怎么解决的&lt;/p&gt;
+      <title>有没有一种工作能每天稳定收入 10-50 元</title>
+      <link>https://www.v2ex.com/t/1216147</link>
+      <guid>v2ex-1216147</guid>
+      <pubDate>Thu, 28 May 2026 05:00:26 GMT</pubDate>
+      <description>只要把基础处理好，后面就是能躺赚的小网赚，钱不多但是长久的那种</description>
+    </item>
+    <item>
+      <title>英语学了几十年，还是听不懂说不出，大家都是怎么练听说的？</title>
+      <link>https://www.v2ex.com/t/1216089</link>
+      <guid>v2ex-1216089</guid>
+      <pubDate>Thu, 28 May 2026 02:22:10 GMT</pubDate>
+      <description>&lt;p&gt;平时工作中偶尔也会用到英语听说，所以一直挺想把英语好好补起来。&lt;/p&gt;
+&lt;p&gt;但问题是，英语断断续续学了几十年，感觉还是停留在哑巴英语阶段。看一些简单的英文材料还凑合，但真到听的时候，经常听不全，反应不过来；轮到自己说，又很难组织句子，脑子里一片空白。&lt;/p&gt;
+&lt;p&gt;英语 App 试了不少，没有一个有效的，多邻国、流利说、AI 陪练之类的都试过，但整体感觉效果都不太明显。有些是坚持不下去，有些是练完之后感觉没用，还有一些价格也不便宜。&lt;/p&gt;
+&lt;p&gt;还上过一些公司的培训课，主要就是老师分享一段材料，然后分组尬聊，感觉这种方式只是在不断强化自己的蹩脚英语，也没啥用。&lt;/p&gt;
+&lt;p&gt;大家都是咋练的啊？有啥切实有效的方法么？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>是否存在港卡以外的其他选择？比如东南亚各国？</title>
+      <link>https://www.v2ex.com/t/1216059</link>
+      <guid>v2ex-1216059</guid>
+      <pubDate>Thu, 28 May 2026 01:05:41 GMT</pubDate>
+      <description>只有旅游签、本金 5 万以内、能够开国外券商投资、消费、没什么限制的卡，还有什么选择呢？</description>
     </item>
   </channel>
 </rss>
