@@ -4,15 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 29 May 2026 12:39:37 GMT</lastBuildDate>
-    <item>
-      <title>各位现在的主力手机是哪款？</title>
-      <link>https://www.v2ex.com/t/1216280</link>
-      <guid>v2ex-1216280</guid>
-      <pubDate>Thu, 28 May 2026 13:52:49 GMT</pubDate>
-      <description>&lt;p&gt;参考一下。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 29 May 2026 16:34:19 GMT</lastBuildDate>
     <item>
       <title>牛逼，比亚迪昨晚智驾发布会，宣布自家天神之眼 AB 免费城市领航兜底 1 年，就等大唐上市了</title>
       <link>https://www.v2ex.com/t/1216318</link>
@@ -57,6 +49,26 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;这是我随便挑的例子，离谱的话一堆，轻飘飘从他口里出来，完全不考虑下面的安排。我司之前不怎么加班，现在硬性要求加班到 8 点，产品需求做完没需求了，就自己给自己提技术需求，或者学习 AI&lt;/p&gt;
 &lt;p&gt;还有，这人不以身作则，考勤也是随意的不行，经常早上不来，下午才来，每周五，下午 4 点就提前背包走了，来了差不多一年了，项目的营收一直在下跌，没有之前的好，一团乱，这人是老板花了半年软磨硬泡拉过来了，我是觉得一点用都没有&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[开源自荐] 烧了几百亿 token，我写了一个能在浏览器运行的安卓系统</title>
+      <link>https://www.v2ex.com/t/1216344</link>
+      <guid>v2ex-1216344</guid>
+      <pubDate>Fri, 29 May 2026 01:33:42 GMT</pubDate>
+      <description>&lt;h2&gt;MobileGym (不是移动健身房)&lt;/h2&gt;
+&lt;p&gt;有点标题党了，但是真烧了几百亿 Token ，纯前端 &lt;strong&gt;TypeScript + React&lt;/strong&gt;，实现了 28 个仿真 APP——&lt;strong&gt;微信、支付宝、小红书、bilibili 、X 、Reddit 、微信读书、12306 、腾讯会议、Spotify 、eBay&lt;/strong&gt;， 外加桌面、设置、通讯录、短信、相册、日历、文件、浏览器等系统应用。 桌面&lt;strong&gt;兼容小米主题包、支持自定义小组件&lt;/strong&gt;，Activity 栈、Intent 、手势返回、键盘适配这些 Android 系统机制全部在浏览器里重写了一遍。&lt;/p&gt;
+&lt;p&gt;虽然本来是为了研究 GUI Agent 打造的，但是 V 友们也完全欢迎来玩啊——可以顺便研究一下安卓系统的一些机制(?我自己也不太懂),或者直接 fork 代码去搞点别的(&lt;strong&gt;法律允许范围内&lt;/strong&gt;)。在线试玩 👉 &lt;a href=&quot;https://mobilegym.dev&quot; rel=&quot;nofollow&quot;&gt;mobilegym.dev&lt;/a&gt; 。&lt;/p&gt;
+&lt;h2&gt;特性&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;超轻量，高并发&lt;/strong&gt;，单实例仅占 400M 内存（对比安卓模拟器 4-10G ），单台服务器支持&lt;strong&gt;成百上千个&lt;/strong&gt;环境实例并行&lt;/li&gt;
+&lt;li&gt;🧪 &lt;strong&gt;416 个任务模板&lt;/strong&gt;，参数化可以生成无限个任务实例，确定性评测，毫秒级出结果，摆脱 LLM as a Judge 的不可靠&lt;/li&gt;
+&lt;li&gt;🌉 &lt;strong&gt;Sim-to-Real 实测有效&lt;/strong&gt;，在仿真环境用 GRPO 强化学习训练的模型，实测 95% 以上的收益迁移到真机&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;扩展友好&lt;/strong&gt;，文档齐全，新增一个 App 只需要建一个文件夹 + 一份 manifest ；新写一个任务只需要一个 Python 类,最短&lt;strong&gt;三行代码&lt;/strong&gt;搞定&lt;/li&gt;
+&lt;li&gt;🛡️ &lt;strong&gt;纯沙盒,无后果&lt;/strong&gt;，不连真服务、不转真钱、不发真消息，放心瞎点&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Purewhiter/mobilegym&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Purewhiter/mobilegym&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
