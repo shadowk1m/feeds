@@ -4,7 +4,179 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sat, 30 May 2026 04:31:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 07:34:35 GMT</lastBuildDate>
+    <item>
+      <title>Windows的Codex支持手机远程连接了</title>
+      <link>https://linux.do/t/topic/2273620</link>
+      <guid>linux.do-topic-2273620</guid>
+      <pubDate>Sat, 30 May 2026 07:14:17 GMT</pubDate>
+      <description>
+            &lt;p&gt;刚Windows更新Codex后，发现可以支持手机远程连接了 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/smiley.png?v=15&quot; title=&quot;:smiley:&quot; class=&quot;emoji&quot; alt=&quot;:smiley:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
+以下官网更新说明：&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/2/0/1207c76368d8536a1e241bcc44098311380b462d.jpeg&quot; data-download-href=&quot;/uploads/short-url/2zvg9KiAupGS0ptGctrF5kNu0s5.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/2/0/1207c76368d8536a1e241bcc44098311380b462d_2_690x304.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;2zvg9KiAupGS0ptGctrF5kNu0s5&quot; width=&quot;690&quot; height=&quot;304&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/2/0/1207c76368d8536a1e241bcc44098311380b462d_2_690x304.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/2/0/1207c76368d8536a1e241bcc44098311380b462d_2_1035x456.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/2/0/1207c76368d8536a1e241bcc44098311380b462d_2_1380x608.jpeg 2x&quot; data-dominant-color=&quot;F3F1F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2273620&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Codex App在Windows端上线计算机控制与跨设备远控功能</title>
+      <link>https://linux.do/t/topic/2273229</link>
+      <guid>linux.do-topic-2273229</guid>
+      <pubDate>Sat, 30 May 2026 05:44:53 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;strong&gt;Codex App 在 Windows 环境下正式解锁了计算机使用（Computer Use）能力，能够通过屏幕视觉、鼠标点击与键盘输入，直接物理操控 Windows 桌面应用程序，用于编写代码并执行调试。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为了配合跨平台协作，系统上线了跨设备远程控制（Remote Control）功能。开发者能够直接在 Mac 电脑或手机的 ChatGPT 界面下向 Windows 运行设备派发任务，并实时查看执行进度。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;此外，全新的 Profile 面板整合了 Token 消耗的实时审计图表与用量自限机制，帮助用户直观掌握调用频次并防止超支。&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/d/f/9dfcb19d2534c14031939af2c98b9240615d0fb8.jpeg&quot; data-download-href=&quot;/uploads/short-url/mxCm7GHsegm4Ljv7s3RlfKl7VtS.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/d/f/9dfcb19d2534c14031939af2c98b9240615d0fb8_2_690x448.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;mxCm7GHsegm4Ljv7s3RlfKl7VtS&quot; width=&quot;690&quot; height=&quot;448&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/d/f/9dfcb19d2534c14031939af2c98b9240615d0fb8_2_690x448.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/d/f/9dfcb19d2534c14031939af2c98b9240615d0fb8_2_1035x672.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/9/d/f/9dfcb19d2534c14031939af2c98b9240615d0fb8.jpeg 2x&quot; data-dominant-color=&quot;F1F1F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://developers.openai.com/codex/changelog&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/e/6/4e6c215b527d954515a2695f3754a6bce3aa56f7.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;399CF9&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://developers.openai.com/codex/changelog&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;developers.openai.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/6/1/9619e7f08e85f64d73e60e53677b4e3373612385_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;BECBF9&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://developers.openai.com/codex/changelog&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Changelog – Codex | OpenAI Developers&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Latest updates to Codex, OpenAI’s coding agent&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2273229&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>美国企业开始限额使用AI，因成本急剧攀升</title>
+      <link>https://linux.do/t/topic/2273156</link>
+      <guid>linux.do-topic-2273156</guid>
+      <pubDate>Sat, 30 May 2026 05:24:57 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/7/d/37de24e8d79f2c6da71efc184e3046689fad9ac5.jpeg&quot; data-download-href=&quot;/uploads/short-url/7YecyIG7dfCKc1XSeDIJ1RIPCAJ.jpeg?dl=1&quot; title=&quot;IMG_20260530_132351&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/7/d/37de24e8d79f2c6da71efc184e3046689fad9ac5_2_284x500.jpeg&quot; alt=&quot;IMG_20260530_132351&quot; data-base62-sha1=&quot;7YecyIG7dfCKc1XSeDIJ1RIPCAJ&quot; width=&quot;284&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/7/d/37de24e8d79f2c6da71efc184e3046689fad9ac5_2_284x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/7/d/37de24e8d79f2c6da71efc184e3046689fad9ac5_2_426x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/7/d/37de24e8d79f2c6da71efc184e3046689fad9ac5_2_568x1000.jpeg 2x&quot; data-dominant-color=&quot;535451&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad?utm_source=perplexity&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/f/7/bf79cc2d4094f38f9e122c1aa8448d598a5488b2.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;5200FF&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad?utm_source=perplexity&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;07:00PM - 14 May 2026&quot;&gt;The Verge – 14 May 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/360;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/9/f/99f61544ec3f4763c075dc20990a9126b770fcdc_2_690x358.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;A5A485&quot; width=&quot;690&quot; height=&quot;358&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad?utm_source=perplexity&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Microsoft starts canceling Claude Code licenses&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Thousands of Microsoft developers will use GitHub Copilot CLI instead&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5?utm_source=perplexity&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/9/c/59c8b16514890ef5cc81423e5f90d8313e38b43c.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;3E5DFF&quot; width=&quot;192&quot; height=&quot;192&quot;&gt;
+
+      &lt;a href=&quot;https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5?utm_source=perplexity&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Business Insider&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/344;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/f/2ff1c574b6090fe5d3f20acdc1ee7bea96f13ffb_2_690x345.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;805070&quot; width=&quot;690&quot; height=&quot;345&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5?utm_source=perplexity&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Uber&#39;s COO says it&#39;s getting harder to justify the money spent on AI...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Operations chief Andrew Macdonald said he&#39;s not seeing proportional productivity gains from increasing AI costs within Uber.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2273156&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>一位颇具影响力的科技公司创始人表示，同行们正遭受 大规模人工智能精神病的困扰</title>
+      <link>https://linux.do/t/topic/2273025</link>
+      <guid>linux.do-topic-2273025</guid>
+      <pubDate>Sat, 30 May 2026 05:00:43 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://futurism.com/artificial-intelligence/influential-tech-founder-box-ai-psychosis&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/6/2/a62534b227c75f5e3247d1a555bcdee20fd6186d.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;000000&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://futurism.com/artificial-intelligence/influential-tech-founder-box-ai-psychosis&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;11:46AM - 28 May 2026&quot;&gt;Futurism – 28 May 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/8/4/c84c15fc70b92e41523f33cd5738f9ffde06cc72_2_690x459.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;564866&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://futurism.com/artificial-intelligence/influential-tech-founder-box-ai-psychosis&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Influential Tech Founder Says His Peers Are Suffering From Mass AI Psychosis&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Aaron Levie, founder and CEO of cloud computing firm Box has a unique take on why his peers are so gung-ho about AI.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 3 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+ “首席执行官们特别容易患上人工智能精神病，因为他们距离利用人工智能创造最大价值所需的最后阶段工作还有一定的距离。”&lt;/p&gt;
+&lt;p&gt;&quot;CEO们特别容易患上AI精神病，因为他们与真正需要完成的、才能最大程度发挥AI价值的最后阶段工作相去甚远，&quot;Levie在推特上写道。换句话说：这些沉迷于AI的CEO们与那些负责实现他们AI宏伟蓝图的普通员工脱节了。&lt;/p&gt;
+&lt;p&gt;莱维举例说，有些企业高管会说：“看，我用人工智能聊天机器人做了一个超棒的产品原型。” 莱维反驳道：“没错，但你们不用在产品上线前审查代码，也不用修复一堆问题。”&lt;/p&gt;
+&lt;p&gt;&quot;人工智能精神病&quot;是否是描述这一概念的最佳比喻，尚有争议。目前最常见的定义是，人工智能精神病是指与人工智能的极端互动会引发或加剧妄想或偏执的现象，这些妄想或偏执有时原本就存在，有时则似乎是人工智能凭空捏造出来的。症状可能非常严重，人工智能聊天机器人会让受害者相信他们正在与神一般的存在交流，或者他们凭一己之力发现了对人类构成严重威胁的事物。&lt;/p&gt;
+&lt;p&gt;确实有一些高管似乎符合这种描述。去年，Futurism 报道称，数十亿美元投资公司 Bedrock 的管理合伙人 Geoff Lewis 的同事们担心他因为长时间使用 ChatGPT 而脱离现实（讽刺的是，Bedrock 正是 OpenAI 的早期投资者）。当时，Lewis 声称自己正在绘制一个难以理解的&quot;非政府系统&quot;的地图，该系统旨在扰乱他的生活。&lt;/p&gt;
+&lt;p&gt;话虽如此，高管认为自己被庞大的阴谋网络盯上，和高管盲目相信人工智能炒作之间，存在着巨大的鸿沟。Levie 指出的这种现象或许更应该归类为&quot;组织盲点&quot;，这是一种众所周知的现象，指的是公司领导者发现自己与基层工作的实际情况脱节。再加上对利润的贪婪追求，这种目光短浅的现象似乎正是我们在全球各地公司中看到的。&lt;/p&gt;
+&lt;p&gt;在当今世界，许多高管和经理都在抽象层面上运作，依靠电子表格、电子邮件和 Zoom 会议进行工作。这与具体的劳动不同，具体劳动指的是工人执行的那些繁琐且耗费资源的任务，例如编写代码或连接服务器机架。当一群高管在会议室里忽视了这些有形的劳动------例如，他们没有考虑到人工智能聊天机器人真正擅长的任务类型------这无疑会造成一种与物质现实的脱节，尽管这种脱节是由社会因素而非心理因素驱动的。&lt;/p&gt;
+&lt;p&gt;换句话说，有两种可能：要么全世界的CEO们都疯了，要么他们只是屈服于资本主义失控的最新表现形式。奥卡姆剃刀原理或许指向后者。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2273025&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Codex WIN版的computer use 已支持</title>
+      <link>https://linux.do/t/topic/2272986</link>
+      <guid>linux.do-topic-2272986</guid>
+      <pubDate>Sat, 30 May 2026 04:51:46 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/5/4/c54e7f4855da39a3fee4c8331fe0bcabba171abe.png&quot; data-download-href=&quot;/uploads/short-url/s9seWYqQpoMQFnX9Z0Cpzr0q3DM.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/5/4/c54e7f4855da39a3fee4c8331fe0bcabba171abe_2_690x321.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;s9seWYqQpoMQFnX9Z0Cpzr0q3DM&quot; width=&quot;690&quot; height=&quot;321&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/5/4/c54e7f4855da39a3fee4c8331fe0bcabba171abe_2_690x321.png, https://cdn3.ldstatic.com/original/4X/c/5/4/c54e7f4855da39a3fee4c8331fe0bcabba171abe.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/5/4/c54e7f4855da39a3fee4c8331fe0bcabba171abe.png 2x&quot; data-dominant-color=&quot;1F1F20&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2272986&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>Tencent Design Miora 开放邀测</title>
       <link>https://linux.do/t/topic/2272680</link>
@@ -54,7 +226,7 @@
             &lt;p&gt;填写资料：&lt;br&gt;
 &lt;a href=&quot;https://openai.com/ja-JP/form/codex-for-oss/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://openai.com/ja-JP/form/codex-for-oss/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/a/8/3a8f000d47b2a94a6418dada89042911dbe63018.png&quot; data-download-href=&quot;/uploads/short-url/8m24kl0GJuaMx7hDwgnOjUsrZqM.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/a/8/3a8f000d47b2a94a6418dada89042911dbe63018_2_690x385.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8m24kl0GJuaMx7hDwgnOjUsrZqM&quot; width=&quot;690&quot; height=&quot;385&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/a/8/3a8f000d47b2a94a6418dada89042911dbe63018_2_690x385.png, https://cdn3.ldstatic.com/optimized/4X/3/a/8/3a8f000d47b2a94a6418dada89042911dbe63018_2_1035x577.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/a/8/3a8f000d47b2a94a6418dada89042911dbe63018_2_1380x770.png 2x&quot; data-dominant-color=&quot;FBFBFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2272541&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -79,7 +251,7 @@
 &lt;hr&gt;
 &lt;p&gt;MiniMax 成立于 2021 年 6 月 30 日，2026 年 1 月 9 日已在港交所上市。&lt;/p&gt;
 &lt;p&gt;消息来源：证监会官网&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2272294&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -104,7 +276,7 @@
             &lt;p&gt;所以互联网确实是没有记忆的是么…这也能回来…&lt;br&gt;
 反正我表示 无法接受&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/b/5/bb5bc2256584061f5f078e535ec1d245ea6b6570.png&quot; data-download-href=&quot;/uploads/short-url/qJrSsA45OOvRdgIP6UpBtFognXG.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/b/5/bb5bc2256584061f5f078e535ec1d245ea6b6570_2_690x211.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;qJrSsA45OOvRdgIP6UpBtFognXG&quot; width=&quot;690&quot; height=&quot;211&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/b/5/bb5bc2256584061f5f078e535ec1d245ea6b6570_2_690x211.png, https://cdn3.ldstatic.com/original/4X/b/b/5/bb5bc2256584061f5f078e535ec1d245ea6b6570.png 1.5x, https://cdn3.ldstatic.com/original/4X/b/b/5/bb5bc2256584061f5f078e535ec1d245ea6b6570.png 2x&quot; data-dominant-color=&quot;262625&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;60 个帖子 - 54 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;69 个帖子 - 61 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2272155&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -224,7 +396,7 @@
       <description>
             &lt;p&gt;来源：&lt;a href=&quot;https://llm2014.github.io/llm_benchmark/#category=logic&amp;dataset=logic%7C2026-05%7C0&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;LLM Benchmark Leaderboard&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/e/9/ae9d024a4073196c297d52ef1e166ec6fd2df648.png&quot; data-download-href=&quot;/uploads/short-url/oUHt8zADFYpITqmMB80Z93kHBqw.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/e/9/ae9d024a4073196c297d52ef1e166ec6fd2df648_2_690x374.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;oUHt8zADFYpITqmMB80Z93kHBqw&quot; width=&quot;690&quot; height=&quot;374&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/e/9/ae9d024a4073196c297d52ef1e166ec6fd2df648_2_690x374.png, https://cdn3.ldstatic.com/optimized/4X/a/e/9/ae9d024a4073196c297d52ef1e166ec6fd2df648_2_1035x561.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/e/9/ae9d024a4073196c297d52ef1e166ec6fd2df648_2_1380x748.png 2x&quot; data-dominant-color=&quot;F3F5F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;17 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;19 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2272012&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -347,7 +519,7 @@
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/4/9/749dbc7fc54da686e04f4a8b2da0c6801f462a09.png&quot; data-download-href=&quot;/uploads/short-url/gDDkM55ESJ9QYLhx8QOSk5EzeVX.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/4/9/749dbc7fc54da686e04f4a8b2da0c6801f462a09.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gDDkM55ESJ9QYLhx8QOSk5EzeVX&quot; width=&quot;690&quot; height=&quot;316&quot; data-dominant-color=&quot;161616&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 刚刚codex弹了个更新，然后我就去x上看了一下openai的发布信息，最新的这条就是图片上的内容&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;佬友们赶紧去试试~~~&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;22 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;24 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2271681&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -428,7 +600,7 @@
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/a/d/1adea08bde5dc65b747c3bf93f9868574a2c8430.jpeg&quot; data-download-href=&quot;/uploads/short-url/3PHodISiyFanhHz6Ua0neBjonsY.jpeg?dl=1&quot; title=&quot;&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/a/d/1adea08bde5dc65b747c3bf93f9868574a2c8430_2_440x500.jpeg&quot; alt=&quot;&quot; data-base62-sha1=&quot;3PHodISiyFanhHz6Ua0neBjonsY&quot; role=&quot;presentation&quot; width=&quot;440&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/a/d/1adea08bde5dc65b747c3bf93f9868574a2c8430_2_440x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/a/d/1adea08bde5dc65b747c3bf93f9868574a2c8430_2_660x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/a/d/1adea08bde5dc65b747c3bf93f9868574a2c8430_2_880x1000.jpeg 2x&quot; data-dominant-color=&quot;E1E3E4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 之前还是GPT Mini，今天发现换成DS V4 Flash了。不过，这个渠道有点神秘，模型名称前面多了一个前缀，不会是始皇自己部署的吧&lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/2/e/2e09f3a3c7b27eacbabe9e9614b06b88d5b06343.png?v=15&quot; title=&quot;:tieba_087:&quot; class=&quot;emoji emoji-custom&quot; alt=&quot;:tieba_087:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;20 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2270879&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -445,172 +617,6 @@
 不知何时能够生产出来，先期待一手&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;7 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2270777&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>chatgpt ios版本也有 `/side` 命令了</title>
-      <link>https://linux.do/t/topic/2270718</link>
-      <guid>linux.do-topic-2270718</guid>
-      <pubDate>Fri, 29 May 2026 14:54:46 GMT</pubDate>
-      <description>
-            &lt;p&gt;非常好用的命令,类似claude code的&lt;code&gt;/btw&lt;/code&gt;,问一些小问题不占用主线上下文&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/2/9/b2919e73c8d275bb86a18ef84a25b40753905cc9.jpeg&quot; data-download-href=&quot;/uploads/short-url/ptGYzf7O6HpJSLpK0019dm5E1E5.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/2/9/b2919e73c8d275bb86a18ef84a25b40753905cc9_2_230x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ptGYzf7O6HpJSLpK0019dm5E1E5&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/2/9/b2919e73c8d275bb86a18ef84a25b40753905cc9_2_230x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/2/9/b2919e73c8d275bb86a18ef84a25b40753905cc9_2_345x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/2/9/b2919e73c8d275bb86a18ef84a25b40753905cc9_2_460x1000.jpeg 2x&quot; data-dominant-color=&quot;E8E8E9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://x.com/testingcatalog/status/2060353123030389247?s=20&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://x.com/testingcatalog/status/2060353123030389247?s=20&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2270718&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>新的 Linux CIFSwitch 内核漏洞允许攻击者获得 Root 访问权限，上游内核补丁已经可用</title>
-      <link>https://linux.do/t/topic/2270704</link>
-      <guid>linux.do-topic-2270704</guid>
-      <pubDate>Fri, 29 May 2026 14:52:13 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://cybersecuritynews.com/linux-cifswitch-kernel-vulnerability/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/6/e/66ec7dd9e8b2aa3e226d5f7cdb68d1ed87a6c2c3.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;354F92&quot; width=&quot;40&quot; height=&quot;40&quot;&gt;
-
-      &lt;a href=&quot;https://cybersecuritynews.com/linux-cifswitch-kernel-vulnerability/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;03:18PM - 28 May 2026&quot;&gt;Cyber Security News – 28 May 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/f/9/7f96112794efdb9d465992ae01846bb8a73dab8f_2_690x388.webp&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;DBD4CA&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://cybersecuritynews.com/linux-cifswitch-kernel-vulnerability/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;New Linux CIFSwitch Kernel Vulnerability Allows Attackers to Gain Root Access&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The newly disclosed Linux LPE flaw “CIFSwitch” allows low-privileged users to gain root access via weaknesses in the kernel CIFS subsystem.&lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 3 minutes&lt;/span&gt;
-  &lt;/p&gt;
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;一个新披露的名为 &quot;CIFSwitch &quot;的 Linux 本地权限升级（LPE）漏洞，可让低权限用户利用 Linux 内核 CIFS 客户端和用户空间 cifs-utils 软件包之间的逻辑漏洞，获得 root 访问权限。&lt;/p&gt;
-&lt;p&gt;该漏洞是由安全研究员 Asim Manizada 发现的，他已发布了一份详细的技术报告和 PoC，以帮助防御者评估其风险并验证补丁。&lt;/p&gt;
-&lt;p&gt;该问题源于对 CIFs.Spnego 密钥类型中的密钥描述验证不当，导致无权限用户冒充受信任的内核请求并触发权限操作。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox githubrepo&quot; data-onebox-src=&quot;https://github.com/manizada/CIFSwitch&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://github.com/manizada/CIFSwitch&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;github.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;github-row&quot; data-github-private-repo=&quot;false&quot;&gt;
-  &lt;img width=&quot;690&quot; height=&quot;344&quot; src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/5/6/2565c19bf6df67f3f445631a4ed83a749a67fe75_2_690x344.png&quot; class=&quot;thumbnail&quot; data-dominant-color=&quot;F1F4F4&quot;&gt;
-
-  &lt;h3&gt;&lt;a href=&quot;https://github.com/manizada/CIFSwitch&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;GitHub - manizada/CIFSwitch&lt;/a&gt;&lt;/h3&gt;
-
-    &lt;p&gt;&lt;span class=&quot;github-repo-description&quot;&gt;通过在 GitHub 上创建帐户来为 manizada/CIFSwitch 开发做出贡献。&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2270704&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>中国代表队确定放弃参加亚运会英雄联盟项目</title>
-      <link>https://linux.do/t/topic/2270271</link>
-      <guid>linux.do-topic-2270271</guid>
-      <pubDate>Fri, 29 May 2026 13:23:56 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/c/0/ac0098694c5fd848f6dfcef3e3f39262e72641f5.jpeg&quot; data-download-href=&quot;/uploads/short-url/oxBoPnzSDQtVy8jH8l5pJjp1ewl.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/c/0/ac0098694c5fd848f6dfcef3e3f39262e72641f5_2_411x499.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;oxBoPnzSDQtVy8jH8l5pJjp1ewl&quot; width=&quot;411&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/c/0/ac0098694c5fd848f6dfcef3e3f39262e72641f5_2_411x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/c/0/ac0098694c5fd848f6dfcef3e3f39262e72641f5_2_616x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/c/0/ac0098694c5fd848f6dfcef3e3f39262e72641f5_2_822x998.jpeg 2x&quot; data-dominant-color=&quot;E9E9E9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;14 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2270271&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>ChatGPT 中的 GPT-5.5 Instant 和 API已更新</title>
-      <link>https://linux.do/t/topic/2270244</link>
-      <guid>linux.do-topic-2270244</guid>
-      <pubDate>Fri, 29 May 2026 13:19:23 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/2/4/f2452a16f8f931d57c6d870de216816feff733f4.png&quot; data-download-href=&quot;/uploads/short-url/yzdJnv4sE22gL8MMaFiO1YzqqXy.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/2/4/f2452a16f8f931d57c6d870de216816feff733f4.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;yzdJnv4sE22gL8MMaFiO1YzqqXy&quot; width=&quot;616&quot; height=&quot;500&quot; data-dominant-color=&quot;EDEDED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://help.openai.com/en/articles/6825453-chatgpt-release-notes&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://help.openai.com/en/articles/6825453-chatgpt-release-notes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;机翻看的有点难懂，我让DeepSeek又翻译了一下：&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/d/0/bd09d9fbc6850b2042894698f82ef701ca3b51e0.png&quot; data-download-href=&quot;/uploads/short-url/qYjlCdydzyIq6GLxtkLFWB1BcL6.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/d/0/bd09d9fbc6850b2042894698f82ef701ca3b51e0.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;qYjlCdydzyIq6GLxtkLFWB1BcL6&quot; width=&quot;526&quot; height=&quot;500&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2270244&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>claude web更新了模型思考等级选择</title>
-      <link>https://linux.do/t/topic/2270028</link>
-      <guid>linux.do-topic-2270028</guid>
-      <pubDate>Fri, 29 May 2026 12:38:02 GMT</pubDate>
-      <description>
-            &lt;p&gt;rt,免费用户也可以使用&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/6/7/b67d17053fb5edcf013628df24200daf7ff0f05f.png&quot; data-download-href=&quot;/uploads/short-url/q2mU1eFZTkeAaiPAgGLD89FbrdR.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/6/7/b67d17053fb5edcf013628df24200daf7ff0f05f_2_690x495.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;q2mU1eFZTkeAaiPAgGLD89FbrdR&quot; width=&quot;690&quot; height=&quot;495&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/6/7/b67d17053fb5edcf013628df24200daf7ff0f05f_2_690x495.png, https://cdn3.ldstatic.com/optimized/4X/b/6/7/b67d17053fb5edcf013628df24200daf7ff0f05f_2_1035x742.png 1.5x, https://cdn3.ldstatic.com/original/4X/b/6/7/b67d17053fb5edcf013628df24200daf7ff0f05f.png 2x&quot; data-dominant-color=&quot;F7F7F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2270028&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>人类造血干细胞能够记住炎症应激</title>
-      <link>https://linux.do/t/topic/2269784</link>
-      <guid>linux.do-topic-2269784</guid>
-      <pubDate>Fri, 29 May 2026 11:50:56 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-026-10522-7&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/s41586-026-10522-7&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!abstract]+&lt;/p&gt;
-&lt;p&gt;炎症激活血细胞，导致衰老和恶性肿瘤的发生&lt;sup&gt;1,2,3&lt;/sup&gt;。造血干细胞（HSC）能够终生存活于感染之中，维持终身造血功能&lt;sup&gt;1,2,3,4,5,6,7,8,9&lt;/sup&gt;，但人类HSC如何响应和适应炎症应激仍不甚明了。为了从经验层面理解这种适应机制，我们构建了异种移植炎症-恢复模型，并对异种移植的人类HSC进行了单细胞多组学分析。我们鉴定出两个转录和表观遗传特征不同的HSC亚群，其中一个亚群被命名为HSC炎症记忆（HSC-iM），保留了既往炎症治疗的分子记忆。HSC-iM亚群表现出静止状态，且造血输出受到抑制。在分子水平上，HSC-iM程序在成人和儿童样本的造血干细胞（HSC）中均富集，涵盖了从新冠肺炎康复、镰状细胞病、衰老到克隆性造血等多种情况，这既验证了我们异种移植模型的有效性，也证实了HSC-iM的生理相关性。HSC-iM中的克隆性造血突变通过促进HSC活化和分化来减弱炎症应激的影响。此外，在异种移植和生理条件下，均证实了促炎性HSC-iM转录程序能够传递给分化的免疫子代细胞。最后，在人群队列分析中，循环血细胞中HSC-iM程序的富集与全因死亡风险评分升高相关，凸显了这一新发现的HSC亚群在表征终生异质性健康结局方面的临床意义。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://bioengineer.org/human-blood-stem-cells-retain-inflammatory-memory/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/d/2/1d2defb8c29ae89260c4dd395d40b1d4a08d4a91.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;B19579&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://bioengineer.org/human-blood-stem-cells-retain-inflammatory-memory/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;01:22PM - 28 May 2026&quot;&gt;BIOENGINEER.ORG – 28 May 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;img width=&quot;500&quot; height=&quot;500&quot; src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/b/4/1b4237edb146c463202ee10b08c42243e4b18f87_2_500x500.jpeg&quot; class=&quot;thumbnail onebox-avatar&quot; alt=&quot;&quot; data-dominant-color=&quot;430211&quot;&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://bioengineer.org/human-blood-stem-cells-retain-inflammatory-memory/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Human Blood Stem Cells Retain Inflammatory Memory&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;A groundbreaking study published in Nature reveals that human hematopoietic stem cells (HSCs) possess a remarkable capability to “remember” inflammatory stress experienced during severe inf&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;该研究的作者利用基因组富集分析（GSEA）将 HSC-iM 程序与数千种已知基因通路和特征联系起来。值得注意的是，在将ICU-COVID造血干细胞与其他组别造血干细胞进行比较时，造血干细胞-iM程序在富集方面表现出了最高的统计学意义。这一发现强调了COVID-19严重感染诱导造血干细胞发生的独特转录变化，并提出了这种记忆状态影响免疫恢复和抵御后续感染或炎症损伤的可能性。&lt;/p&gt;
-&lt;p&gt;除了感染恢复之外，造血干细胞炎症记忆的影响还深入到衰老过程中。慢性低度炎症或 &quot;炎症衰老 &quot;是生理衰老的一个公认标志，会导致组织再生能力减弱和疾病风险增加。通过分析多个骨髓队列中年龄从19岁到87岁的捐献者的23000多个造血干细胞转录组，研究发现与年轻捐献者相比，中老年人的造血干细胞中造血干细胞-iM程序富集明显增加。这些结果表明，炎症记忆程序会随着年龄的增长而逐渐积累，有可能使老年造血干细胞的炎症反应发生改变并导致功能衰退。&lt;/p&gt;
-&lt;p&gt;与此同时，研究表明，老年造血干细胞转录组变化与造血干细胞-iM特征趋于一致，这进一步证实了炎症是年龄相关干细胞重塑的关键驱动因素。老年造血干细胞群体中上调的DEGs与HSC-iM基因有明显重叠，而且老年个体的染色质可及性也有所提高。此外，还发现了一个由 37 个衰老相关基因组成的元特征，其中富含炎症调节因子，如 NR4A1，已知它能调节克隆造血过程中的炎症抵抗力。这个元特征将造血干细胞iM阳性细胞与无炎症的细胞区分开来，突出了炎症、衰老和干细胞功能障碍的分子基础。&lt;/p&gt;
-&lt;p&gt;研究人员对镰状细胞病（SCD）儿科患者造血干细胞中的造血干细胞-iM状态进行了研究，这又增加了一个重要的临床维度，镰状细胞病是一种以慢性炎症和早衰表型为特征的疾病。令人吃惊的是，与健康供体相比，SCD患者造血干细胞中的造血干细胞-iM程序明显丰富。这表明炎症记忆特征不仅是生理性衰老的特征，也会在具有持续炎症压力的疾病状态中出现。SCD患者样本中造血干细胞-iM的不同表达进一步反映了疾病的异质性，并为了解炎症如何在不同临床环境中塑造干细胞动态提供了一个窗口。&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2269784&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
