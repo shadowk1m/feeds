@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 30 May 2026 22:46:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 23:51:27 GMT</lastBuildDate>
     <item>
       <title>大佬们 vibe coding 的项目怎么样了</title>
       <link>https://www.v2ex.com/t/1216679</link>
@@ -58,22 +58,6 @@
 苹果官网好像也没找到这种打印机的解决方案。
 不知道大家有没有过类似的经验，该怎么处理？&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>给大二的小孩买了 GPT Go</title>
-      <link>https://www.v2ex.com/t/1216664</link>
-      <guid>v2ex-1216664</guid>
-      <pubDate>Sat, 30 May 2026 07:15:04 GMT</pubDate>
-      <description>&lt;p&gt;前几天抱怨免费的不够用&lt;br/&gt;
-今天给买了 Go 套餐，感觉用来完成学校的事情 应该足够了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>有没有大佬知道如何获取安卓唯一标识</title>
-      <link>https://www.v2ex.com/t/1216634</link>
-      <guid>v2ex-1216634</guid>
-      <pubDate>Sat, 30 May 2026 03:11:23 GMT</pubDate>
-      <description>如题，公司自己内部使用的 APP ，不需要上架商店，扫码安装。&lt;br /&gt;&lt;br /&gt;系统为 11 、12 。设备需要经常刷机。&lt;br /&gt;&lt;br /&gt;在不 root ，不通过电脑单独开启某权限的情况下如何获取不会改变的唯一编码？</description>
     </item>
     <item>
       <title>求救，这样的婚姻，还有必要坚持吗？从来没有对谁倾诉过，实在内耗得不行了。</title>
@@ -164,14 +148,20 @@
 </description>
     </item>
     <item>
-      <title>开发转运维，是否是一条不归路</title>
-      <link>https://www.v2ex.com/t/1216610</link>
-      <guid>v2ex-1216610</guid>
-      <pubDate>Sat, 30 May 2026 01:36:03 GMT</pubDate>
-      <description>&lt;p&gt;背景：二本 Go 开发，7 年经验，今年 4 月初拿到礼包，没到能够躺平的水平。&lt;/p&gt;
-&lt;p&gt;开始投简历，准备找下一份工作。中间经过一些波折，最终收获了一份运维开发的 offer 。期间因为一直没有合适的机会，整个人都焦虑了。&lt;/p&gt;
-&lt;p&gt;入职几天，发现主要是做运维的工作，而且需要值班，强度一下被拉高了，怀疑自己是不是走上了一条不归路。&lt;/p&gt;
+      <title>给大二的小孩买了 GPT Go</title>
+      <link>https://www.v2ex.com/t/1216664</link>
+      <guid>v2ex-1216664</guid>
+      <pubDate>Sat, 30 May 2026 07:15:04 GMT</pubDate>
+      <description>&lt;p&gt;前几天抱怨免费的不够用&lt;br/&gt;
+今天给买了 Go 套餐，感觉用来完成学校的事情 应该足够了&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>有没有大佬知道如何获取安卓唯一标识</title>
+      <link>https://www.v2ex.com/t/1216634</link>
+      <guid>v2ex-1216634</guid>
+      <pubDate>Sat, 30 May 2026 03:11:23 GMT</pubDate>
+      <description>如题，公司自己内部使用的 APP ，不需要上架商店，扫码安装。&lt;br /&gt;&lt;br /&gt;系统为 11 、12 。设备需要经常刷机。&lt;br /&gt;&lt;br /&gt;在不 root ，不通过电脑单独开启某权限的情况下如何获取不会改变的唯一编码？</description>
     </item>
     <item>
       <title>Kimi Code 用起来感觉还行，就是很容易达到限额</title>
@@ -180,6 +170,16 @@
       <pubDate>Sat, 30 May 2026 04:31:22 GMT</pubDate>
       <description>&lt;p&gt;公司用的是 Cursor ，平时工作都会选择 Opus4.6 处理，自己平时订阅了 MiniMax 和 Kimi Code 俩个 49 元档的计划。使用 MiniMax 主要是给 Hermes Agent 用的，因为除了语言大模型还支持图片、语音生成、歌曲/歌词生成，还有翻唱，感觉作为日常助手很不错，Kimi Code 的话是因为在使用了一段时间 Claude Code + MiniMax-M2.7 进行编码任务后发现它对上下文理解和代码理解能力确实不如 Kimi 。尤其最近在使用 playwright-mcp 结合 AI 去做自动化测试发现，一些操作，使用 Cursor 中的高级模型或者使用 Kimi ，这些操作都能自己顺利完成，而使用 MiniMax 的话老是说不能操作，需要人工复验。&lt;/p&gt;
 &lt;p&gt;我觉得抛开国外的不谈，现在 Kimi Code 已经算不错的了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>开发转运维，是否是一条不归路</title>
+      <link>https://www.v2ex.com/t/1216610</link>
+      <guid>v2ex-1216610</guid>
+      <pubDate>Sat, 30 May 2026 01:36:03 GMT</pubDate>
+      <description>&lt;p&gt;背景：二本 Go 开发，7 年经验，今年 4 月初拿到礼包，没到能够躺平的水平。&lt;/p&gt;
+&lt;p&gt;开始投简历，准备找下一份工作。中间经过一些波折，最终收获了一份运维开发的 offer 。期间因为一直没有合适的机会，整个人都焦虑了。&lt;/p&gt;
+&lt;p&gt;入职几天，发现主要是做运维的工作，而且需要值班，强度一下被拉高了，怀疑自己是不是走上了一条不归路。&lt;/p&gt;
 </description>
     </item>
   </channel>
