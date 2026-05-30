@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 30 May 2026 20:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 21:50:03 GMT</lastBuildDate>
     <item>
       <title>大佬们 vibe coding 的项目怎么样了</title>
       <link>https://www.v2ex.com/t/1216679</link>
@@ -20,6 +20,13 @@
 </description>
     </item>
     <item>
+      <title>有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了</title>
+      <link>https://www.v2ex.com/t/1216615</link>
+      <guid>v2ex-1216615</guid>
+      <pubDate>Sat, 30 May 2026 02:02:10 GMT</pubDate>
+      <description>Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品&quot;daybreak&quot;,效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI 公司开口闭口我要 AGI ，它就默默的干，一个一个领域的突破。Claude Mythos Preview 由于太牛逼 Anthropic 说在他们开发出更加牛逼的防护系统之前不对外发布，只给一些信得过的 partner 使用，有没有大佬实际用过啊？是否真的那么牛逼。&lt;br /&gt;&lt;br /&gt;4 月博文： &lt;a target=&quot;_blank&quot; href=&quot;https://red.anthropic.com/2026/mythos-preview/&quot; rel=&quot;nofollow noopener&quot;&gt;https://red.anthropic.com/2026/mythos-preview/&lt;/a&gt;&lt;br /&gt;5 月博文： &lt;a target=&quot;_blank&quot; href=&quot;https://www.anthropic.com/research/glasswing-initial-update&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.anthropic.com/research/glasswing-initial-update&lt;/a&gt;&lt;br /&gt;openai 跟进： &lt;a target=&quot;_blank&quot; href=&quot;https://x.com/OpenAI/status/2053939702110269822&quot; rel=&quot;nofollow noopener&quot;&gt;https://x.com/OpenAI/status/2053939702110269822&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间</title>
       <link>https://www.v2ex.com/t/1216703</link>
       <guid>v2ex-1216703</guid>
@@ -32,13 +39,6 @@
 &lt;p&gt;如果你是在校大学生的话赶紧去试试 Gemini （不过能上 V2EX 的话应该也不会上大学的当吧）&lt;/p&gt;
 &lt;p&gt;现在工作了要深夜还债了  我已急哭😭&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了</title>
-      <link>https://www.v2ex.com/t/1216615</link>
-      <guid>v2ex-1216615</guid>
-      <pubDate>Sat, 30 May 2026 02:02:10 GMT</pubDate>
-      <description>Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品&quot;daybreak&quot;,效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI 公司开口闭口我要 AGI ，它就默默的干，一个一个领域的突破。Claude Mythos Preview 由于太牛逼 Anthropic 说在他们开发出更加牛逼的防护系统之前不对外发布，只给一些信得过的 partner 使用，有没有大佬实际用过啊？是否真的那么牛逼。&lt;br /&gt;&lt;br /&gt;4 月博文： &lt;a target=&quot;_blank&quot; href=&quot;https://red.anthropic.com/2026/mythos-preview/&quot; rel=&quot;nofollow noopener&quot;&gt;https://red.anthropic.com/2026/mythos-preview/&lt;/a&gt;&lt;br /&gt;5 月博文： &lt;a target=&quot;_blank&quot; href=&quot;https://www.anthropic.com/research/glasswing-initial-update&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.anthropic.com/research/glasswing-initial-update&lt;/a&gt;&lt;br /&gt;openai 跟进： &lt;a target=&quot;_blank&quot; href=&quot;https://x.com/OpenAI/status/2053939702110269822&quot; rel=&quot;nofollow noopener&quot;&gt;https://x.com/OpenAI/status/2053939702110269822&lt;/a&gt;</description>
     </item>
     <item>
       <title>各位大佬们，固态硬盘到底分不分区？</title>
