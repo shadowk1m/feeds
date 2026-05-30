@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 30 May 2026 15:43:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 16:51:01 GMT</lastBuildDate>
     <item>
       <title>大佬们 vibe coding 的项目怎么样了</title>
       <link>https://www.v2ex.com/t/1216679</link>
@@ -27,6 +27,27 @@
       <description>就是之前一次性接码接完能登，现在直接弹出来之前那个手机号让接码了。&lt;br /&gt;&lt;br /&gt;之前用的接码平台本来就是一次性的，现在又不能修改手机号重新验证</description>
     </item>
     <item>
+      <title>有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了</title>
+      <link>https://www.v2ex.com/t/1216615</link>
+      <guid>v2ex-1216615</guid>
+      <pubDate>Sat, 30 May 2026 02:02:10 GMT</pubDate>
+      <description>Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品&quot;daybreak&quot;,效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI 公司开口闭口我要 AGI ，它就默默的干，一个一个领域的突破。Claude Mythos Preview 由于太牛逼 Anthropic 说在他们开发出更加牛逼的防护系统之前不对外发布，只给一些信得过的 partner 使用，有没有大佬实际用过啊？是否真的那么牛逼。&lt;br /&gt;&lt;br /&gt;4 月博文： &lt;a target=&quot;_blank&quot; href=&quot;https://red.anthropic.com/2026/mythos-preview/&quot; rel=&quot;nofollow noopener&quot;&gt;https://red.anthropic.com/2026/mythos-preview/&lt;/a&gt;&lt;br /&gt;5 月博文： &lt;a target=&quot;_blank&quot; href=&quot;https://www.anthropic.com/research/glasswing-initial-update&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.anthropic.com/research/glasswing-initial-update&lt;/a&gt;&lt;br /&gt;openai 跟进： &lt;a target=&quot;_blank&quot; href=&quot;https://x.com/OpenAI/status/2053939702110269822&quot; rel=&quot;nofollow noopener&quot;&gt;https://x.com/OpenAI/status/2053939702110269822&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间</title>
+      <link>https://www.v2ex.com/t/1216703</link>
+      <guid>v2ex-1216703</guid>
+      <pubDate>Sat, 30 May 2026 13:22:34 GMT</pubDate>
+      <description>&lt;p&gt;其实我已经毕业于某 985 大学，上大学的时候就感觉上当受骗了，感觉就是个专科水平，啥真本事不教（当然也可能是专业问题）&lt;/p&gt;
+&lt;p&gt;今天骨骼了一下各种虚拟化平台 pros and cons ， 突发奇想就顺着下面那个“Ask anything”问了下去，
+一聊就是 4 个小时，从主流方案到 infini band 这种追求极致效率的方案都有了大致印象，了解到了 Ansible 这种运维工具，接下来可以实践一下了，从头到尾还不收我一分钱&lt;/p&gt;
+&lt;p&gt;一想到大学上的计算机课不教操作系统不教编译原理不教版本管理，就教安装 DevC++然后到链表/排序就戛然而止了（甚至不愿意教一下 malloc 和 free ，哦对了堆和栈更是没提过），还参杂大量思政内容，嗨呀真气得我直跺脚啊，浪费大把青春年华&lt;/p&gt;
+&lt;p&gt;讲数据库用的 Mysql ，做那沟槽的小实验，交纸质版的试验报告； Elasticsearch 啊 Vector DB 什么的前沿技术栈都是一概没讲的，这两个我也不熟，要去找 Gemini 请教了&lt;/p&gt;
+&lt;p&gt;如果你是在校大学生的话赶紧去试试 Gemini （不过能上 V2EX 的话应该也不会上大学的当吧）&lt;/p&gt;
+&lt;p&gt;现在工作了要深夜还债了  我已急哭😭&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>各位大佬们，固态硬盘到底分不分区？</title>
       <link>https://www.v2ex.com/t/1216669</link>
       <guid>v2ex-1216669</guid>
@@ -46,6 +67,13 @@
 </description>
     </item>
     <item>
+      <title>有没有大佬知道如何获取安卓唯一标识</title>
+      <link>https://www.v2ex.com/t/1216634</link>
+      <guid>v2ex-1216634</guid>
+      <pubDate>Sat, 30 May 2026 03:11:23 GMT</pubDate>
+      <description>如题，公司自己内部使用的 APP ，不需要上架商店，扫码安装。&lt;br /&gt;&lt;br /&gt;系统为 11 、12 。设备需要经常刷机。&lt;br /&gt;&lt;br /&gt;在不 root ，不通过电脑单独开启某权限的情况下如何获取不会改变的唯一编码？</description>
+    </item>
+    <item>
       <title>给大二的小孩买了 GPT Go</title>
       <link>https://www.v2ex.com/t/1216664</link>
       <guid>v2ex-1216664</guid>
@@ -53,13 +81,6 @@
       <description>&lt;p&gt;前几天抱怨免费的不够用&lt;br/&gt;
 今天给买了 Go 套餐，感觉用来完成学校的事情 应该足够了&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>有没有大佬知道如何获取安卓唯一标识</title>
-      <link>https://www.v2ex.com/t/1216634</link>
-      <guid>v2ex-1216634</guid>
-      <pubDate>Sat, 30 May 2026 03:11:23 GMT</pubDate>
-      <description>如题，公司自己内部使用的 APP ，不需要上架商店，扫码安装。&lt;br /&gt;&lt;br /&gt;系统为 11 、12 。设备需要经常刷机。&lt;br /&gt;&lt;br /&gt;在不 root ，不通过电脑单独开启某权限的情况下如何获取不会改变的唯一编码？</description>
     </item>
     <item>
       <title>开发转运维，是否是一条不归路</title>
@@ -72,33 +93,12 @@
 </description>
     </item>
     <item>
-      <title>有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了</title>
-      <link>https://www.v2ex.com/t/1216615</link>
-      <guid>v2ex-1216615</guid>
-      <pubDate>Sat, 30 May 2026 02:02:10 GMT</pubDate>
-      <description>Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品&quot;daybreak&quot;,效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI 公司开口闭口我要 AGI ，它就默默的干，一个一个领域的突破。Claude Mythos Preview 由于太牛逼 Anthropic 说在他们开发出更加牛逼的防护系统之前不对外发布，只给一些信得过的 partner 使用，有没有大佬实际用过啊？是否真的那么牛逼。&lt;br /&gt;&lt;br /&gt;4 月博文： &lt;a target=&quot;_blank&quot; href=&quot;https://red.anthropic.com/2026/mythos-preview/&quot; rel=&quot;nofollow noopener&quot;&gt;https://red.anthropic.com/2026/mythos-preview/&lt;/a&gt;&lt;br /&gt;5 月博文： &lt;a target=&quot;_blank&quot; href=&quot;https://www.anthropic.com/research/glasswing-initial-update&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.anthropic.com/research/glasswing-initial-update&lt;/a&gt;&lt;br /&gt;openai 跟进： &lt;a target=&quot;_blank&quot; href=&quot;https://x.com/OpenAI/status/2053939702110269822&quot; rel=&quot;nofollow noopener&quot;&gt;https://x.com/OpenAI/status/2053939702110269822&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>Kimi Code 用起来感觉还行，就是很容易达到限额</title>
       <link>https://www.v2ex.com/t/1216645</link>
       <guid>v2ex-1216645</guid>
       <pubDate>Sat, 30 May 2026 04:31:22 GMT</pubDate>
       <description>&lt;p&gt;公司用的是 Cursor ，平时工作都会选择 Opus4.6 处理，自己平时订阅了 MiniMax 和 Kimi Code 俩个 49 元档的计划。使用 MiniMax 主要是给 Hermes Agent 用的，因为除了语言大模型还支持图片、语音生成、歌曲/歌词生成，还有翻唱，感觉作为日常助手很不错，Kimi Code 的话是因为在使用了一段时间 Claude Code + MiniMax-M2.7 进行编码任务后发现它对上下文理解和代码理解能力确实不如 Kimi 。尤其最近在使用 playwright-mcp 结合 AI 去做自动化测试发现，一些操作，使用 Cursor 中的高级模型或者使用 Kimi ，这些操作都能自己顺利完成，而使用 MiniMax 的话老是说不能操作，需要人工复验。&lt;/p&gt;
 &lt;p&gt;我觉得抛开国外的不谈，现在 Kimi Code 已经算不错的了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间</title>
-      <link>https://www.v2ex.com/t/1216703</link>
-      <guid>v2ex-1216703</guid>
-      <pubDate>Sat, 30 May 2026 13:22:34 GMT</pubDate>
-      <description>&lt;p&gt;其实我已经毕业于某 985 大学，上大学的时候就感觉上当受骗了，感觉就是个专科水平，啥真本事不教（当然也可能是专业问题）&lt;/p&gt;
-&lt;p&gt;今天骨骼了一下各种虚拟化平台 pros and cons ， 突发奇想就顺着下面那个“Ask anything”问了下去，
-一聊就是 4 个小时，从主流方案到 infini band 这种追求极致效率的方案都有了大致印象，了解到了 Ansible 这种运维工具，接下来可以实践一下了，从头到尾还不收我一分钱&lt;/p&gt;
-&lt;p&gt;一想到大学上的计算机课不教操作系统不教编译原理不教版本管理，就教安装 DevC++然后到链表/排序就戛然而止了（甚至不愿意教一下 malloc 和 free ，哦对了堆和栈更是没提过），还参杂大量思政内容，嗨呀真气得我直跺脚啊，浪费大把青春年华&lt;/p&gt;
-&lt;p&gt;讲数据库用的 Mysql ，做那沟槽的小实验，交纸质版的试验报告； Elasticsearch 啊 Vector DB 什么的前沿技术栈都是一概没讲的，这两个我也不熟，要去找 Gemini 请教了&lt;/p&gt;
-&lt;p&gt;如果你是在校大学生的话赶紧去试试 Gemini （不过能上 V2EX 的话应该也不会上大学的当吧）&lt;/p&gt;
-&lt;p&gt;现在工作了要深夜还债了  我已急哭😭&lt;/p&gt;
 </description>
     </item>
   </channel>
