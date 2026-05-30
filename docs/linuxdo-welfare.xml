@@ -4,7 +4,78 @@
     <title>LINUX DO - Welfare</title>
     <link>https://linux.do/c/welfare/36</link>
     <description>Welfare category from linux.do</description>
-    <lastBuildDate>Sat, 30 May 2026 07:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 09:49:38 GMT</lastBuildDate>
+    <item>
+      <title>翻译API，支持deeplx格式。</title>
+      <link>https://linux.do/t/topic/2274075</link>
+      <guid>linux.do-topic-2274075</guid>
+      <pubDate>Sat, 30 May 2026 08:58:31 GMT</pubDate>
+      <description>
+            &lt;p&gt;BaseURL：&lt;a href=&quot;https://sl.al/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://sl.al/&lt;/a&gt;&lt;br&gt;
+Openai格式：&lt;a href=&quot;https://sl.al/v1/chat/completions&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://sl.al/v1/chat/completions&lt;/a&gt;&lt;br&gt;
+Key：sk-Translate-Forever&lt;br&gt;
+Model（如果需要）：Translate&lt;br&gt;
+支持DeepLX接口。&lt;br&gt;
+示例：&lt;br&gt;
+&lt;strong&gt;填法 1：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;API 地址&lt;/strong&gt;: &lt;code&gt;https://sl.al/translate?token=sk-Translate-Forever&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API Key&lt;/strong&gt;: &lt;em&gt;(留空即可)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;填法 2：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;API 地址&lt;/strong&gt;: &lt;code&gt;https://sl.al/translate&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API Key / Access Token&lt;/strong&gt;: &lt;code&gt;sk-Translate-Forever&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;填法 3：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;API 地址&lt;/strong&gt;: &lt;code&gt;https://sl.al/{{apiKey}}/translate&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API Key&lt;/strong&gt;: &lt;code&gt;sk-Translate-Forever&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2274075&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>送200$ API额度!可用MiniMax M2.7,一秒400tokens!!!</title>
+      <link>https://linux.do/t/topic/2273990</link>
+      <guid>linux.do-topic-2273990</guid>
+      <pubDate>Sat, 30 May 2026 08:40:30 GMT</pubDate>
+      <description>
+            &lt;p&gt;需要手机号验证,+86可以,这200$是限时的,有效期是6个月,能用的模型很少,不过有MiniMax M2.7,DeepSeek V3.2,跑翻译是不错的选择!&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/5/d/35d82f11791f30216f72bcd98428feb24b71d5b8.png&quot; data-download-href=&quot;/uploads/short-url/7GktClHhLcp4RruJUfJXIsuEaow.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/d/35d82f11791f30216f72bcd98428feb24b71d5b8_2_690x342.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;7GktClHhLcp4RruJUfJXIsuEaow&quot; width=&quot;690&quot; height=&quot;342&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/d/35d82f11791f30216f72bcd98428feb24b71d5b8_2_690x342.png, https://cdn3.ldstatic.com/optimized/4X/3/5/d/35d82f11791f30216f72bcd98428feb24b71d5b8_2_1035x513.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/5/d/35d82f11791f30216f72bcd98428feb24b71d5b8_2_1380x684.png 2x&quot; data-dominant-color=&quot;F9FAFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/3/3/d33b52ef83f33b216afb5352c97b8b83cc4c7b7b.png&quot; data-download-href=&quot;/uploads/short-url/u8DQwW9dWqzrDWGhPnT2WJiZxR9.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/3/3/d33b52ef83f33b216afb5352c97b8b83cc4c7b7b_2_690x341.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;u8DQwW9dWqzrDWGhPnT2WJiZxR9&quot; width=&quot;690&quot; height=&quot;341&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/3/3/d33b52ef83f33b216afb5352c97b8b83cc4c7b7b_2_690x341.png, https://cdn3.ldstatic.com/optimized/4X/d/3/3/d33b52ef83f33b216afb5352c97b8b83cc4c7b7b_2_1035x511.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/3/3/d33b52ef83f33b216afb5352c97b8b83cc4c7b7b_2_1380x682.png 2x&quot; data-dominant-color=&quot;F8F9FA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/b/a/5bada2bebef779f0c39132fddd74db41e5830330.png&quot; data-download-href=&quot;/uploads/short-url/d51sGm6U6R0X72kSgPIJwxBR6Fy.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/b/a/5bada2bebef779f0c39132fddd74db41e5830330_2_690x337.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;d51sGm6U6R0X72kSgPIJwxBR6Fy&quot; width=&quot;690&quot; height=&quot;337&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/b/a/5bada2bebef779f0c39132fddd74db41e5830330_2_690x337.png, https://cdn3.ldstatic.com/optimized/4X/5/b/a/5bada2bebef779f0c39132fddd74db41e5830330_2_1035x505.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/b/a/5bada2bebef779f0c39132fddd74db41e5830330_2_1380x674.png 2x&quot; data-dominant-color=&quot;0A0B0C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.generalcompute.com/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/c/f/bcfa6adaa7d0f11e66d6c2b47d1a321e2659c084.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;7E7F7F&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.generalcompute.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;generalcompute.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://www.generalcompute.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;General Compute — World&#39;s Fastest AI Inference&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;The world&#39;s fastest inference provider. Deploy AI models with unmatched speed. Sub-millisecond TTFT, high throughput, OpenAI-compatible API.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;此链接无AFF,无任何营销推广,只是分享薅羊毛的渠道 &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/9/c/9c2f3e1ce5982036af66b951a26231b7590e93d4.png?v=15&quot; title=&quot;:tieba_024:&quot; class=&quot;emoji emoji-custom&quot; alt=&quot;:tieba_024:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2273990&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>想京东自营入手教育优惠的MacAir 有认证方法吗</title>
       <link>https://linux.do/t/topic/2273477</link>
@@ -61,7 +132,7 @@
 &lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;sk-sp-1540fa0eb3b547d99e32087081d3ba3b
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/8/8/e8883c68848d1fb63f0a76ffa589c427c78e28d4.png&quot; data-download-href=&quot;/uploads/short-url/xb4EKU5M0WxNLa6woKBZfbkM9Bq.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/8/8/e8883c68848d1fb63f0a76ffa589c427c78e28d4_2_690x389.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xb4EKU5M0WxNLa6woKBZfbkM9Bq&quot; width=&quot;690&quot; height=&quot;389&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/8/8/e8883c68848d1fb63f0a76ffa589c427c78e28d4_2_690x389.png, https://cdn3.ldstatic.com/optimized/4X/e/8/8/e8883c68848d1fb63f0a76ffa589c427c78e28d4_2_1035x583.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/8/8/e8883c68848d1fb63f0a76ffa589c427c78e28d4_2_1380x778.png 2x&quot; data-dominant-color=&quot;F9F9FB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2272771&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -208,175 +279,6 @@ modelid:astron-code-latest&lt;/p&gt;
           </description>
     </item>
     <item>
-      <title>新人报道，送20个域名</title>
-      <link>https://linux.do/t/topic/2271224</link>
-      <guid>linux.do-topic-2271224</guid>
-      <pubDate>Fri, 29 May 2026 16:24:52 GMT</pubDate>
-      <description>
-            &lt;p&gt;佬友们好，我是刚刚加入的新人，先水一贴&lt;br&gt;
-下面是20个在Dynadot上的域名，有喜欢的请直接回帖@我，并把你的dynadot推送用户名发给我，如果没有dynadot账户，请注册一个并填写好联系信息，我直接push&lt;br&gt;
-东西不好，聊表心意，刚来 LinuxDo，还在慢慢熟悉氛围。如果有什么不合适的地方，欢迎提醒，我会及时修改。&lt;br&gt;
-祝大家玩得开心。&lt;/p&gt;
-&lt;div class=&quot;md-table&quot;&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;域名&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;过期时间&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;注册时间&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;DNS设置&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;续订成本&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;aetherportal.lol&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2026/11/06&lt;/td&gt;
-&lt;td&gt;2025/11/06&lt;/td&gt;
-&lt;td&gt;Dynadot Parking&lt;/td&gt;
-&lt;td&gt;¥184.70&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;s&gt;&lt;strong&gt;mcl.lol&lt;/strong&gt;&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2026/11/16&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2025/11/16&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;Dynadot Parking&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;¥184.70&lt;/s&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;s&gt;&lt;strong&gt;2b2t.app&lt;/strong&gt;&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2026/11/17&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2025/11/17&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;Dynadot Parking&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;¥99.30&lt;/s&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;s&gt;&lt;strong&gt;aetherportal.wtf&lt;/strong&gt;&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2026/11/22&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2025/11/22&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;Dynadot Parking&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;¥206.70&lt;/s&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;mcorg.zip&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2026/11/22&lt;/td&gt;
-&lt;td&gt;2025/11/22&lt;/td&gt;
-&lt;td&gt;Dynadot Parking&lt;/td&gt;
-&lt;td&gt;¥74.80&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;s&gt;&lt;strong&gt;aetherportal.dev&lt;/strong&gt;&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2026/11/24&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2025/11/24&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;Dynadot Parking&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;¥85.60&lt;/s&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;mcredirect.info&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2026/12/05&lt;/td&gt;
-&lt;td&gt;2025/12/05&lt;/td&gt;
-&lt;td&gt;Dynadot Parking&lt;/td&gt;
-&lt;td&gt;¥155.40&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;mcredirect.online&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2026/12/05&lt;/td&gt;
-&lt;td&gt;2025/12/05&lt;/td&gt;
-&lt;td&gt;Dynadot Parking&lt;/td&gt;
-&lt;td&gt;¥203.00&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;mineecho.info&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2026/12/31&lt;/td&gt;
-&lt;td&gt;2025/12/31&lt;/td&gt;
-&lt;td&gt;Dynadot Parking&lt;/td&gt;
-&lt;td&gt;¥155.40&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;s&gt;&lt;strong&gt;minecraft.ml&lt;/strong&gt;&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2026/12/31&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2025/12/31&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;Dynadot Parking&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;¥98.70&lt;/s&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;mineecho.online&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2026/12/31&lt;/td&gt;
-&lt;td&gt;2025/12/31&lt;/td&gt;
-&lt;td&gt;Dynadot Parking&lt;/td&gt;
-&lt;td&gt;¥203.00&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;s&gt;&lt;strong&gt;fogg05.rip&lt;/strong&gt;&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2027/01/01&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2026/01/01&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;Dynadot Parking&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;¥133.40&lt;/s&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;s&gt;&lt;strong&gt;aetheris.llc&lt;/strong&gt;&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2027/02/14&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2026/02/14&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;Dynadot Parking&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;¥241.10&lt;/s&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;furry.ong&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2027/02/20&lt;/td&gt;
-&lt;td&gt;2024/02/20&lt;/td&gt;
-&lt;td&gt;Dynadot Parking&lt;/td&gt;
-&lt;td&gt;¥114.50&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;liquidation.click&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2027/02/21&lt;/td&gt;
-&lt;td&gt;2026/02/21&lt;/td&gt;
-&lt;td&gt;Dynadot Parking&lt;/td&gt;
-&lt;td&gt;¥74.80&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;liquidation.cl&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2027/02/21&lt;/td&gt;
-&lt;td&gt;2026/02/21&lt;/td&gt;
-&lt;td&gt;Dynadot Parking&lt;/td&gt;
-&lt;td&gt;¥80.60&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;s&gt;&lt;strong&gt;ip.energy&lt;/strong&gt;&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2027/03/04&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2025/03/04&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;Dynadot Parking&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;¥661.00&lt;/s&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;s&gt;&lt;strong&gt;furries.cv&lt;/strong&gt;&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2027/03/07&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;2026/03/07&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;Dynadot Parking&lt;/s&gt;&lt;/td&gt;
-&lt;td&gt;&lt;s&gt;¥66.80&lt;/s&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;vps8.xyz&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2027/04/05&lt;/td&gt;
-&lt;td&gt;2026/04/05&lt;/td&gt;
-&lt;td&gt;Dynadot Parking&lt;/td&gt;
-&lt;td&gt;¥90.20&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;ethereum.cfd&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;2027/04/19&lt;/td&gt;
-&lt;td&gt;2021/04/19&lt;/td&gt;
-&lt;td&gt;Dynadot Parking&lt;/td&gt;
-&lt;td&gt;¥111.50&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;&lt;p&gt;各位佬友，我限制回复了，给我发dynadot用户名后在你的dynadot账户里把你的联系信息都填写上，要不然不能push，推送成功后会给你的dynadot账户邮箱发送推送邮件，账户首页会提示接收域名&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;78 个帖子 - 55 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2271224&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
       <title>送一个冰佬的24小时自助畅饮套餐</title>
       <link>https://linux.do/t/topic/2270744</link>
       <guid>linux.do-topic-2270744</guid>
@@ -395,7 +297,7 @@ modelid:astron-code-latest&lt;/p&gt;
       <pubDate>Fri, 29 May 2026 14:17:39 GMT</pubDate>
       <description>
             &lt;p&gt;原理是通过邮件邀请，然后注册之后享受5折，不用私信，直接PM我留邮箱就可以了&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2270538&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>

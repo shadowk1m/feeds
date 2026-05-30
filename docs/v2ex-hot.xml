@@ -4,19 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 30 May 2026 07:34:35 GMT</lastBuildDate>
-    <item>
-      <title>Claude Opus 4.8 来了，但它说它是 qwen</title>
-      <link>https://www.v2ex.com/t/1216494</link>
-      <guid>v2ex-1216494</guid>
-      <pubDate>Fri, 29 May 2026 08:05:27 GMT</pubDate>
-      <description>&lt;p&gt;今天 Claude Opus 4.8 发布了，又一次升级，说现在已经支持在一次会话里调度几百个子 agent 同时干活了。&lt;/p&gt;
-&lt;p&gt;虽然听起来又是一个新的 token 绞肉机，但是。。。利好一人公司！哈哈。&lt;/p&gt;
-&lt;p&gt;但是我在评论区下面刷到了一个瓜，说 4.8 蒸馏了太多 qwen 等开源模型，导致自我认知出了问题，你现在问它是谁，它基本认为自己是千问，哈哈。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/b3gfH8A&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/b3gfH8A&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;不过它吹任它吹，别把 4.6 下了就行，我看他们说非编程感受还不如 4.6 ，不如等之后传说中更聪明的 Mythos 吧。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 09:49:38 GMT</lastBuildDate>
     <item>
       <title>AI 把我调教了，从 0 消费，到月消费 1200 元。</title>
       <link>https://www.v2ex.com/t/1216578</link>
@@ -37,18 +25,6 @@
 &lt;p&gt;从今年 3 月中到现在 5 月底，2 个半月，我已经被调教到没有 AI 活不了的地步了。&lt;/p&gt;
 &lt;p&gt;看了下统计，近一个月用了 76 亿的 token 。&lt;/p&gt;
 &lt;p&gt;AI 的费用越来越高，依赖也越来越高。不知道是好是坏。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>热死人了，你们都喝什么保命</title>
-      <link>https://www.v2ex.com/t/1216505</link>
-      <guid>v2ex-1216505</guid>
-      <pubDate>Fri, 29 May 2026 08:48:44 GMT</pubDate>
-      <description>&lt;p&gt;气温显示 36°，但实际难受得一批，像发烧了一样，食欲不振，精神萎靡，大量喝水还是口渴。AI 推荐&lt;/p&gt;
-&lt;p&gt;1：喝淡盐+糖水；&lt;/p&gt;
-&lt;p&gt;2：水煮米+姜片+盐&lt;/p&gt;
-&lt;p&gt;3：水煮绿豆+盐&lt;/p&gt;
-&lt;p&gt;1 替代茶； 2 和 3 感觉比较麻烦点，要煮 20 分钟。。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -93,6 +69,16 @@
 </description>
     </item>
     <item>
+      <title>开发转运维，是否是一条不归路</title>
+      <link>https://www.v2ex.com/t/1216610</link>
+      <guid>v2ex-1216610</guid>
+      <pubDate>Sat, 30 May 2026 01:36:03 GMT</pubDate>
+      <description>&lt;p&gt;背景：二本 Go 开发，7 年经验，今年 4 月初拿到礼包，没到能够躺平的水平。&lt;/p&gt;
+&lt;p&gt;开始投简历，准备找下一份工作。中间经过一些波折，最终收获了一份运维开发的 offer 。期间因为一直没有合适的机会，整个人都焦虑了。&lt;/p&gt;
+&lt;p&gt;入职几天，发现主要是做运维的工作，而且需要值班，强度一下被拉高了，怀疑自己是不是走上了一条不归路。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>小龙虾为什么突然不火了？</title>
       <link>https://www.v2ex.com/t/1216575</link>
       <guid>v2ex-1216575</guid>
@@ -108,36 +94,188 @@ F. 对 AI Agent 已经没兴趣了&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>开发转运维，是否是一条不归路</title>
-      <link>https://www.v2ex.com/t/1216610</link>
-      <guid>v2ex-1216610</guid>
-      <pubDate>Sat, 30 May 2026 01:36:03 GMT</pubDate>
-      <description>&lt;p&gt;背景：二本 Go 开发，7 年经验，今年 4 月初拿到礼包，没到能够躺平的水平。&lt;/p&gt;
-&lt;p&gt;开始投简历，准备找下一份工作。中间经过一些波折，最终收获了一份运维开发的 offer 。期间因为一直没有合适的机会，整个人都焦虑了。&lt;/p&gt;
-&lt;p&gt;入职几天，发现主要是做运维的工作，而且需要值班，强度一下被拉高了，怀疑自己是不是走上了一条不归路。&lt;/p&gt;
-</description>
+      <title>有没有大佬知道如何获取安卓唯一标识</title>
+      <link>https://www.v2ex.com/t/1216634</link>
+      <guid>v2ex-1216634</guid>
+      <pubDate>Sat, 30 May 2026 03:11:23 GMT</pubDate>
+      <description>如题，公司自己内部使用的 APP ，不需要上架商店，扫码安装。&lt;br /&gt;&lt;br /&gt;系统为 11 、12 。设备需要经常刷机。&lt;br /&gt;&lt;br /&gt;在不 root ，不通过电脑单独开启某权限的情况下如何获取不会改变的唯一编码？</description>
     </item>
     <item>
-      <title>一念成仙：在一个窄门赛道里，把日活熬到了 3 万+，聊点真实的运营感受</title>
-      <link>https://www.v2ex.com/t/1216532</link>
-      <guid>v2ex-1216532</guid>
-      <pubDate>Fri, 29 May 2026 09:42:26 GMT</pubDate>
-      <description>&lt;p&gt;各位 V 站的老哥好，我是耄耋。&lt;/p&gt;
-&lt;p&gt;最近大环境挺冷的，看一些节点里大家都有点焦虑。我好久没发帖子了，也想碎碎念一下，&lt;/p&gt;
-&lt;p&gt;上次我发帖吐槽的微信支付被拒绝问题，后来我找到了抖音支付，顺利的接入了，目前越来越多的支付通过抖音支付去进行，未来磨合以后，可能会作为主要的一个方式了。&lt;/p&gt;
-&lt;p&gt;今天就是单纯作为个干了十几年的草根独立开发，草根创业者，分享点自己这几年的折腾经历和碎碎念。希望能给准备起步，或者正在单干煎熬期的新人朋友，提供一个不太一样的破局视角。&lt;/p&gt;
-&lt;p&gt;先简单交代一下背景。我是在 QQ 生态里做独立开发的，写群机器人。估计论坛里不少 V 友看到这就笑了，觉得这就是个上不了台面的边缘玩具，不如搞个高大上的小程序或者 APP 或是独立站。&lt;/p&gt;
-&lt;p&gt;但我一直有个执念：对话式交互不是什么玩具，它就是一个和 APP 、网页完全平级的多模态内容分发渠道。人在哪里，交互在哪里，渠道就在哪里，流量也在那里。&lt;/p&gt;
-&lt;p&gt;我做的是一个修仙主题的机器人，叫《一念成仙》。没有大富大贵，也是挺辛苦的，一直是自己干，但到了 2026 年 5 月这个节点，算是稳住了，目前日活 DAU 大概在 3 ～ 4 万多。跟 APP 这些没法比，甚至跟很多大起大落的流量热点也没法比，但让我比较踏实的是，这 3 万多活人是每天都在稳稳地涨的。&lt;/p&gt;
-&lt;p&gt;论坛里很多做独立开发的朋友经常卡在“推广”这一步。说实话，我不懂买量，我也没钱去投流。我苟活下来的策略，就是放弃堆砌复杂度，死磕品质。&lt;/p&gt;
-&lt;p&gt;现在很多同行喜欢搞缝合怪，什么火就往里塞什么。但我的感觉是，产品小没关系，你要让它有质感。我所有的增长，基本都是靠《增长黑客》里那些最土的办法，在自己的小产品里做裂变、做口碑，靠用户口口相传滚雪球滚出来的。虽然比起传统 APP 或者小程序，它的体量很小，但它确确实实成了一份持续、稳定、能养活家庭的事业。&lt;/p&gt;
-&lt;p&gt;这几年摸爬滚打，我最大的感触就六个字：耕瘦田，入窄门。&lt;/p&gt;
-&lt;p&gt;大家都是程序员，技术都不差，但为什么做产品容易凉？因为总盯着那些流着奶与蜜的“肥田”。大厂看不上、觉得没油水、甚至被主流鄙视的“瘦田”，恰恰才是我们独立开发者的自留地。选一个你真心喜欢的极窄赛道，一头扎进去。别管别人说这东西有多 Low ，当你把一个看似不起眼的小东西，打磨到连同行都觉得你是个疯子的时候，你的护城河就挖出来了。&lt;/p&gt;
-&lt;p&gt;另外，在社区运营上，我想分享一个对我个人极其好用的心态：倒金字塔原则。&lt;/p&gt;
-&lt;p&gt;很多做技术出身的创始人，容易有一种“造物主”的傲慢，觉得用户什么都不懂，老想教用户做事。但我发现，真正的社区并不是靠系统条条框框管出来的。我平时就把自己放在金字塔的最底端，就是个给用户打杂的兜底员。遇到刺头或者纠纷，我就老老实实去一线，跟人家 1 对 1 沟通，把道理掰扯清楚。&lt;/p&gt;
-&lt;p&gt;当我把身段降到泥里，真正把用户当成有独立思考能力的成年人去尊重时，你会发现这帮用户不仅不难搞，反而会自发地帮你维护整个社区的秩序。&lt;/p&gt;
-&lt;p&gt;啰嗦了一大堆，其实也就是点个人的避坑感悟。现在大环境确实难，但机会永远都在那些不起眼的角落里。&lt;/p&gt;
-&lt;p&gt;不教人做事，也不指望几句话能改变什么。只希望大家在迷茫或者焦虑的时候，能找到那个属于自己的“窄门”。选定了，就安安静静的慢慢熬了。&lt;/p&gt;
+      <title>有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了</title>
+      <link>https://www.v2ex.com/t/1216615</link>
+      <guid>v2ex-1216615</guid>
+      <pubDate>Sat, 30 May 2026 02:02:10 GMT</pubDate>
+      <description>Anthopic 四月发了博文说搞了一个 Claude Mythos Preview ，挖了 500+个漏洞，前几天又更新了进展，扫描了 1000 多个开源项目发现了估计为 23019 个漏洞，某家独立的安全研究公司对其中 1752 个高危或严重级别漏洞进行了仔细评估，其中 90.6%（ 1587 个）被证实为有效漏洞，62.4%（ 1094 个）被确认为高危或严重级别。然后五月份 OpenAI 也推出了同类产品&quot;daybreak&quot;,效果如何没有说，但是给我的感觉挖洞这个工作是不是 Anthropic 继搞定编程这个工作后，准备要颠覆掉的下一个工作？给人感觉 Anthopic 不像其他 AI 公司开口闭口我要 AGI ，它就默默的干，一个一个领域的突破。Claude Mythos Preview 由于太牛逼 Anthropic 说在他们开发出更加牛逼的防护系统之前不对外发布，只给一些信得过的 partner 使用，有没有大佬实际用过啊？是否真的那么牛逼。&lt;br /&gt;&lt;br /&gt;4 月博文： &lt;a target=&quot;_blank&quot; href=&quot;https://red.anthropic.com/2026/mythos-preview/&quot; rel=&quot;nofollow noopener&quot;&gt;https://red.anthropic.com/2026/mythos-preview/&lt;/a&gt;&lt;br /&gt;5 月博文： &lt;a target=&quot;_blank&quot; href=&quot;https://www.anthropic.com/research/glasswing-initial-update&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.anthropic.com/research/glasswing-initial-update&lt;/a&gt;&lt;br /&gt;openai 跟进： &lt;a target=&quot;_blank&quot; href=&quot;https://x.com/OpenAI/status/2053939702110269822&quot; rel=&quot;nofollow noopener&quot;&gt;https://x.com/OpenAI/status/2053939702110269822&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>安卓用户终于等到了！《巴比伦富翁家庭理财助手》Google Play 正式上线</title>
+      <link>https://www.v2ex.com/t/1216632</link>
+      <guid>v2ex-1216632</guid>
+      <pubDate>Sat, 30 May 2026 02:59:57 GMT</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;从 iOS 到 Android ，这款让家庭财务一目了然的 App ，现在全面覆盖两大平台。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;p&gt;2018 年，一款名为《巴比伦富翁家庭理财助手》的 App 悄然登陆 Apple App Store 。它没有华丽的广告，没有铺天盖地的投放，却凭借「银行级安全 + 极简操作 + 深度分析」的产品理念，收获了一批忠实用户。&lt;/p&gt;
+&lt;p&gt;8 年过去了。&lt;/p&gt;
+&lt;p&gt;今天，我们郑重宣布：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;《巴比伦富翁家庭理财助手》 Android 版，正式上线 Google Play ！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;App 图标&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://play-lh.googleusercontent.com/mLW4g5Rwb_D7d5gelTkceIt9ujtOQ529eWIRlg46a2Ai1vngOWhGn0lW7oWrLbSxdhQtcKHD1z0zboAHCnhCEzM=w240-h480-rw&quot;/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;扫描下方二维码，或点击文末「阅读原文」直达 Google Play 下载页。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h2&gt;一、你是否也有这样的困扰？&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;月底翻看钱包，发现钱又花光了，却想不起来花在了哪里？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;投资了股票、基金、理财产品，一年下来不知道是赚还是亏？家庭财务一团乱麻，想理清却无从下手？担心财务数据泄露，不敢用记账软件？&lt;/p&gt;
+&lt;p&gt;如果你点头了三次以上，那么——&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;你需要的不只是一个记账工具，而是一个家庭财务管家。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;记账界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://play-lh.googleusercontent.com/ilLWulNx1p6YB_brMg0HILw9p73OYL4EKaW-xX0Y7MxlRAjafT0zr_jI_OD1zBvkIkgQQKLhJmtIthQhGLMX28c=w5120-h2880-rw&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;二、为什么是「巴比伦富翁」？&lt;/h2&gt;
+&lt;p&gt;这款 App 的名字灵感来自经典理财著作《巴比伦最富有的人》。就像书中所说：&lt;strong&gt;「财富，是那些懂得管理它的人的仆人。」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;《巴比伦富翁家庭理财助手》集 &lt;strong&gt;记账、理财、分析、安全&lt;/strong&gt; 于一体，让你的财务管理变得 &lt;strong&gt;简单、高效、安全&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3&gt;iOS 用户已经用了 8 年，他们怎么说？&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;V2EX 用户评价：「功能齐全，界面简洁，数据只存本地，用着很安心。」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr/&gt;
+&lt;h2&gt;三、五大核心功能，全方位守护你的财富&lt;/h2&gt;
+&lt;h3&gt;1️⃣ 秒速记账 —— 3 秒完成一笔收支&lt;/h3&gt;
+&lt;p&gt;记账是财务管理的基础，但传统记账太繁琐，让人难以坚持。&lt;/p&gt;
+&lt;p&gt;《巴比伦富翁》设计了&lt;strong&gt;极简记账流程&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ 多账户管理：现金、银行卡、支付宝、微信，一个 App 全搞定&lt;/li&gt;
+&lt;li&gt;✅ 多币种支持：人民币、美元、欧元、日元……自动汇率转换&lt;/li&gt;
+&lt;li&gt;✅ 智能分类：常用分类快速选择，历史记录自动提示&lt;/li&gt;
+&lt;li&gt;✅ 账户间转账：资金流动清晰可查&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3 秒完成一笔记录，再忙也能坚持。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;记账界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://play-lh.googleusercontent.com/ltvRUyAYQ7G1ESvuYUCO8Veznc4FaHghLHflXOaP2X3cxneiXA0WJ-IwdG7LztmfVENWjDC31uqacrmnX4XWCw=w5120-h2880-rw&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;2️⃣ 理财管理 —— 让投资收益清晰可见&lt;/h3&gt;
+&lt;p&gt;投了股票、买了基金、配了理财——&lt;strong&gt;一年下来到底赚了多少？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;《巴比伦富翁》帮你：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📈 详细记录每笔买入、卖出、分红&lt;/li&gt;
+&lt;li&gt;📊 实时追踪资产价值变动&lt;/li&gt;
+&lt;li&gt;💰 每日 / 月度 / 年度盈利自动计算&lt;/li&gt;
+&lt;li&gt;📉 自动生成盈亏分析，支持估值调整&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;告别「凭感觉」投资，让数据告诉你真相。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;理财界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://play-lh.googleusercontent.com/MOlq-imtCsOcEtuEhfIKJJn0iQ_N4vsoYux3vcD6aW6lSAPndGRcIC-BnGv3VpwWpOCLvXfeUtfqIO1iN3sA=w5120-h2880-rw&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;3️⃣ 智能分析 —— 让财务数据开口说话&lt;/h3&gt;
+&lt;p&gt;数据只有被分析和利用，才能发挥真正的价值。&lt;/p&gt;
+&lt;p&gt;《巴比伦富翁》提供&lt;strong&gt;多维度财务分析&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📋 收支分析：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;按时间、账户、分类多维度查询&lt;/li&gt;
+&lt;li&gt;年度收支统计 + 月度对比分析&lt;/li&gt;
+&lt;li&gt;账户余额变化趋势图&lt;/li&gt;
+&lt;li&gt;按月查看对账单，每笔交易后余额清晰可见&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;📊 盈利分析：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;每日盈利：及时发现收益变化&lt;/li&gt;
+&lt;li&gt;月度盈利：对比不同月份表现&lt;/li&gt;
+&lt;li&gt;年度盈利：评估投资组合整体表现&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🏠 资产分析：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;月度 / 年度理财资产变化趋势&lt;/li&gt;
+&lt;li&gt;家庭总资产实时汇总&lt;/li&gt;
+&lt;li&gt;资产配置一目了然&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;分析界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://play-lh.googleusercontent.com/on7o15zLgKN3LEZ_mTrc2_B4vNJiAqBq8vn4mbw3FgroHmLyizWZ5htebn6IkiFnEWf9zb4Iu5KVqpMePM4UL1Y=w5120-h2880-rw&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;4️⃣ 银行级安全 —— 你的数据只属于你 🔒&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;这是《巴比伦富翁家庭理财助手》最核心的底线。&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔐 &lt;strong&gt;数据库加密&lt;/strong&gt;：256 位 AES 加密，与银行、金融机构同级&lt;/li&gt;
+&lt;li&gt;🔐 &lt;strong&gt;多重身份验证&lt;/strong&gt;：脸部识别 / 手势密码 / 传统密码，任你选择&lt;/li&gt;
+&lt;li&gt;🔐 &lt;strong&gt;100% 本地存储&lt;/strong&gt;：数据不上传云端，不收集用户信息&lt;/li&gt;
+&lt;li&gt;🔐 &lt;strong&gt;完全离线可用&lt;/strong&gt;：不与其他应用共享数据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;即使手机丢失，没有密码也无法访问你的财务数据。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h3&gt;5️⃣ 智能自动化 —— 省心省力更高效&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🤖 &lt;strong&gt;自动余额刷新&lt;/strong&gt;：每月首日自动初始化新月份余额&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;汇率自动更新&lt;/strong&gt;：多币种自动转换，汇率实时准确&lt;/li&gt;
+&lt;li&gt;📱 &lt;strong&gt;完美适配安卓&lt;/strong&gt;：流畅的操作体验，响应迅速&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;四、适用人群：谁需要「巴比伦富翁家庭理财助手」？&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;用户类型&lt;/th&gt;
+&lt;th&gt;你将获得&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;🏠 家庭财务管理者&lt;/td&gt;
+&lt;td&gt;多账户统一管理，家庭资产一目了然&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;📈 理财投资者&lt;/td&gt;
+&lt;td&gt;投资记录、盈亏追踪、组合分析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;📊 财务分析爱好者&lt;/td&gt;
+&lt;td&gt;多维度数据分析，发现财务规律&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🔒 注重隐私的用户&lt;/td&gt;
+&lt;td&gt;银行级加密，本地存储，完全离线&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;hr/&gt;
+&lt;h2&gt;五、App Store → Google Play：一次迟到的相遇&lt;/h2&gt;
+&lt;p&gt;2018 年 iOS 版上线时，就有不少安卓用户在 V2EX 上问：「什么时候出 Android 版？」&lt;/p&gt;
+&lt;p&gt;8 年后，这一天终于来了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;两个平台，同一套数据理念：安全、简洁、专业。&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;平台&lt;/th&gt;
+&lt;th&gt;下载方式&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;🍎 iOS&lt;/td&gt;
+&lt;td&gt;App Store 搜索「巴比伦富翁家庭理财助手」或「 Family Finance 」&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;🤖 Android&lt;/td&gt;
+&lt;td&gt;Google Play 搜索「巴比伦富翁家庭理财助手」&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;hr/&gt;
+&lt;h2&gt;六、立即下载&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Android 用户：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;访问 Google Play 下载页：&lt;/p&gt;
+&lt;p&gt;🔗 &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.dw.familyfinance&quot; rel=&quot;nofollow&quot;&gt;https://play.google.com/store/apps/details?id=com.dw.familyfinance&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Google Play&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://play-lh.googleusercontent.com/mLW4g5Rwb_D7d5gelTkceIt9ujtOQ529eWIRlg46a2Ai1vngOWhGn0lW7oWrLbSxdhQtcKHD1z0zboAHCnhCEzM=w480-h960-rw&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;七、写在最后&lt;/h2&gt;
+&lt;p&gt;《巴比伦最富有的人》里有一句话：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;「财富就像一棵树，是从一粒小小的种子开始生长的。你存下的第一个铜板，就是这棵树的种子。」&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;而《巴比伦富翁家庭理财助手》，就是帮你呵护这棵树的园丁。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ 不需要手动计算&lt;/li&gt;
+&lt;li&gt;✅ 不需要多个 App 切换&lt;/li&gt;
+&lt;li&gt;✅ 不需要担心数据泄露&lt;/li&gt;
+&lt;li&gt;✅ 不需要凭感觉理财&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;让家庭财务，从此一目了然。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;em&gt;《巴比伦富翁家庭理财助手》是一款专业的家庭财务管理工具。所有数据存储在本地设备，采用数据库加密保护。不上传云端，不收集用户信息，完全离线可用。支持 iOS 和 Android 双平台。&lt;/em&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;📲 &lt;strong&gt;立即下载，掌控你的财富！&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
