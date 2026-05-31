@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 31 May 2026 12:54:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 14:25:05 GMT</lastBuildDate>
     <item>
       <title>求救，这样的婚姻，还有必要坚持吗？从来没有对谁倾诉过，实在内耗得不行了。</title>
       <link>https://www.v2ex.com/t/1216728</link>
@@ -110,20 +110,6 @@
 </description>
     </item>
     <item>
-      <title>和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间</title>
-      <link>https://www.v2ex.com/t/1216703</link>
-      <guid>v2ex-1216703</guid>
-      <pubDate>Sat, 30 May 2026 13:22:34 GMT</pubDate>
-      <description>&lt;p&gt;其实我已经毕业于某 985 大学，上大学的时候就感觉上当受骗了，感觉就是个专科水平，啥真本事不教（当然也可能是专业问题）&lt;/p&gt;
-&lt;p&gt;今天骨骼了一下各种虚拟化平台 pros and cons ， 突发奇想就顺着下面那个“Ask anything”问了下去，
-一聊就是 4 个小时，从主流方案到 infini band 这种追求极致效率的方案都有了大致印象，了解到了 Ansible 这种运维工具，接下来可以实践一下了，从头到尾还不收我一分钱&lt;/p&gt;
-&lt;p&gt;一想到大学上的计算机课不教操作系统不教编译原理不教版本管理，就教安装 DevC++然后到链表/排序就戛然而止了（甚至不愿意教一下 malloc 和 free ，哦对了堆和栈更是没提过），还参杂大量思政内容，嗨呀真气得我直跺脚啊，浪费大把青春年华&lt;/p&gt;
-&lt;p&gt;讲数据库用的 Mysql ，做那沟槽的小实验，交纸质版的试验报告； Elasticsearch 啊 Vector DB 什么的前沿技术栈都是一概没讲的，这两个我也不熟，要去找 Gemini 请教了&lt;/p&gt;
-&lt;p&gt;如果你是在校大学生的话赶紧去试试 Gemini （不过能上 V2EX 的话应该也不会上大学的当吧）&lt;/p&gt;
-&lt;p&gt;现在工作了要深夜还债了  我已急哭😭&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>HyperAPI 的新老用户来领福利了</title>
       <link>https://www.v2ex.com/t/1216743</link>
       <guid>v2ex-1216743</guid>
@@ -142,6 +128,19 @@
 &lt;p&gt;之前还推荐了几次花云，现在发现有时候也不太靠谱。&lt;/p&gt;
 &lt;p&gt;预算，一个月 10-20 块钱。&lt;/p&gt;
 &lt;p&gt;能稳定用 Chatgpt 和 Gemini 就行。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>工作时，你们喜欢打开音乐吗</title>
+      <link>https://www.v2ex.com/t/1216797</link>
+      <guid>v2ex-1216797</guid>
+      <pubDate>Sun, 31 May 2026 09:46:11 GMT</pubDate>
+      <description>&lt;p&gt;大家可以投个票&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;喜欢听平时就爱听的音乐&lt;/li&gt;
+&lt;li&gt;喜欢听一些专门工作时听的音乐，可能是轻音乐什么的&lt;/li&gt;
+&lt;li&gt;绝对不听，老子需要安静&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     <item>
@@ -201,6 +200,16 @@ X76J3L46F46L8YTNKE&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     <item>
+      <title>[通知] Codex 明早重置额度，上号，/fast 开蹬了</title>
+      <link>https://www.v2ex.com/t/1216791</link>
+      <guid>v2ex-1216791</guid>
+      <pubDate>Sun, 31 May 2026 08:51:36 GMT</pubDate>
+      <description>&lt;p&gt;刚看到 Tibo 的 X：庆祝 Codex 500 万用户，Tibo 说会在“明天早上”重置额度
+&lt;img alt=&quot;Codex 限额重置截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tmpfiles.org/dl/wdwHfuzc8PPI/ad4ecb0006e123f9aeb73ca3bf385ddc.png&quot;/&gt;
+好奇佬友们，现在 toekn 都烧在了哪些地方？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>买了 100 多家机场的订阅,能用来干嘛</title>
       <link>https://www.v2ex.com/t/1216720</link>
       <guid>v2ex-1216720</guid>
@@ -208,66 +217,30 @@ X76J3L46F46L8YTNKE&lt;/code&gt;&lt;/pre&gt;
       <description>我的 codex 帮我买了 100 家机场的订阅,我能用来干嘛</description>
     </item>
     <item>
-      <title>工作时，你们喜欢打开音乐吗</title>
-      <link>https://www.v2ex.com/t/1216797</link>
-      <guid>v2ex-1216797</guid>
-      <pubDate>Sun, 31 May 2026 09:46:11 GMT</pubDate>
-      <description>&lt;p&gt;大家可以投个票&lt;/p&gt;
+      <title>[长沙] 3-5W 预算二手代步车求推荐，目前倾向日产轩逸</title>
+      <link>https://www.v2ex.com/t/1216761</link>
+      <guid>v2ex-1216761</guid>
+      <pubDate>Sun, 31 May 2026 03:44:29 GMT</pubDate>
+      <description>&lt;p&gt;如题，人在长沙，日常通勤单向 8 公里，想买台省心省油的二手代步车。目前初步看中了日产轩逸，V 友们有推荐吗？&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;个人背景与用车场景&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;本人为&quot;计算机&quot;专业准博士，理工科思维，对车没有太多情怀加成，主打一个“工具属性”。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;坐标：&lt;/strong&gt; 长沙岳麓山脚下（学校附近）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;通勤路线：&lt;/strong&gt; 开车走湖底隧道单程约 8 公里，路况相对较好。&lt;/li&gt;
+&lt;li&gt;
+弃选其他方案的原因：&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;骑行：&lt;/strong&gt; 需要过桥，单程变成 12 公里，长沙的夏天和雨季实在劝退。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;地铁：&lt;/strong&gt; 虽然有直达，但“首尾一公里”太痛苦。双边到地铁口分别需要步行 1.5 公里和 2.7 公里，每天多走半小时实在耗不起精力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;想请教大家&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;喜欢听平时就爱听的音乐&lt;/li&gt;
-&lt;li&gt;喜欢听一些专门工作时听的音乐，可能是轻音乐什么的&lt;/li&gt;
-&lt;li&gt;绝对不听，老子需要安静&lt;/li&gt;
+&lt;li&gt;在这个预算下，除了轩逸，还有没有更推荐的“理工男”代步神车？（比如丰田系或者德系？）&lt;/li&gt;
+&lt;li&gt;买二手轩逸在验车时有什么通病或暗坑需要特别注意的吗？&lt;/li&gt;
+&lt;li&gt;长沙本地有没有靠谱的二手车渠道或者避坑经验可以分享？&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    <item>
-      <title>polymarket 是新赛道印钞机吗</title>
-      <link>https://www.v2ex.com/t/1216709</link>
-      <guid>v2ex-1216709</guid>
-      <pubDate>Sat, 30 May 2026 13:57:33 GMT</pubDate>
-      <description>&lt;p&gt;Polymarket 本质上是一个“预测市场（ Prediction Market ）”，你不是直接下注，而是在交易“某件事发生的概率”。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;核心原理&lt;/p&gt;
-&lt;p&gt;假设市场问题是：&lt;/p&gt;
-&lt;p&gt;BTC 会在 2026 年 6 月 30 日前突破 150000 美元吗？&lt;/p&gt;
-&lt;p&gt;市场会有两个结果：&lt;/p&gt;
-&lt;p&gt;YES
-NO&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;如何赚钱
-情况 1：事件发生&lt;/p&gt;
-&lt;p&gt;你买：&lt;/p&gt;
-&lt;p&gt;YES @ 0.35&lt;/p&gt;
-&lt;p&gt;买 100 份：&lt;/p&gt;
-&lt;p&gt;成本 = 35 美元&lt;/p&gt;
-&lt;p&gt;最后真的发生：&lt;/p&gt;
-&lt;p&gt;结算 = 100 × 1 美元
-= 100 美元&lt;/p&gt;
-&lt;p&gt;利润：&lt;/p&gt;
-&lt;p&gt;100 - 35
-= 65 美元&lt;/p&gt;
-&lt;p&gt;收益率：&lt;/p&gt;
-&lt;p&gt;185%&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;以下是某些未经验证的案例，仅供参考：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;案例一：
-Polymarket 机器人，在短短 60 天内狂卷了 822,440 美金。
-超过 40,000 次预测。
-高达 59% 的胜率。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;案例二：
-深圳大二普通在校生，靠 Claude 自研交易机器人，在 Polymarket 拿下 14.9 万美金收益，属实把信息差玩明白了。&lt;/p&gt;
-&lt;p&gt;机器人一小时执行 59.93 笔交易，折算下来一分钟约 1.82 笔，只聚焦 5 分钟 BTC 涨跌预测市场，专门抓取定价错位的订单，单笔平均能拿到 2.7%的套利优势。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;案例三：
-据传一名旅居日本的中国留学生，在 Polymarket 上靠交易把区区 0.90 美金滚成了 408,292 美金。&lt;/p&gt;
-&lt;p&gt;而几乎没人注意到这件事。&lt;/p&gt;
-&lt;p&gt;这个账户名叫 “Gravia”。&lt;/p&gt;
-&lt;p&gt;它甚至才刚刚活跃了 2 天。&lt;/p&gt;
-&lt;p&gt;但最离谱的部分在于：&lt;/p&gt;
-&lt;p&gt;他声称自己用 Claude 调教了一个机器人，全天候死盯着比特币 5 分钟涨跌的极速盘口。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;x 上还能看到无数个类似的帖子，不知真假&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;hr/&gt;
+&lt;p&gt;提前感谢各位大佬的建议！&lt;/p&gt;
 </description>
     </item>
     <item>
