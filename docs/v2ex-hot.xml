@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 31 May 2026 06:39:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 09:41:15 GMT</lastBuildDate>
     <item>
       <title>求救，这样的婚姻，还有必要坚持吗？从来没有对谁倾诉过，实在内耗得不行了。</title>
       <link>https://www.v2ex.com/t/1216728</link>
@@ -94,34 +94,6 @@
 </description>
     </item>
     <item>
-      <title>大佬们 vibe coding 的项目怎么样了</title>
-      <link>https://www.v2ex.com/t/1216679</link>
-      <guid>v2ex-1216679</guid>
-      <pubDate>Sat, 30 May 2026 09:17:45 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.nodebits.xyz/i/2026/05/30/sa3wrc.png&quot;/&gt;
-&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.nodebits.xyz/i/2026/05/30/sarbgt.png&quot;/&gt;
-从 4 月 16 日到今天（ 2026 年 5 月 30 日），一共是 44 天&lt;/p&gt;
-&lt;p&gt;以上是我 vibe coding 的访问量&lt;/p&gt;
-&lt;p&gt;大佬们的怎么样了&lt;/p&gt;
-&lt;p&gt;欢迎分享，学习，交流&lt;/p&gt;
-&lt;p&gt;地址在这：&lt;a href=&quot;https://www.nodebits.xyz/&quot; rel=&quot;nofollow&quot;&gt;nodebits&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间</title>
-      <link>https://www.v2ex.com/t/1216703</link>
-      <guid>v2ex-1216703</guid>
-      <pubDate>Sat, 30 May 2026 13:22:34 GMT</pubDate>
-      <description>&lt;p&gt;其实我已经毕业于某 985 大学，上大学的时候就感觉上当受骗了，感觉就是个专科水平，啥真本事不教（当然也可能是专业问题）&lt;/p&gt;
-&lt;p&gt;今天骨骼了一下各种虚拟化平台 pros and cons ， 突发奇想就顺着下面那个“Ask anything”问了下去，
-一聊就是 4 个小时，从主流方案到 infini band 这种追求极致效率的方案都有了大致印象，了解到了 Ansible 这种运维工具，接下来可以实践一下了，从头到尾还不收我一分钱&lt;/p&gt;
-&lt;p&gt;一想到大学上的计算机课不教操作系统不教编译原理不教版本管理，就教安装 DevC++然后到链表/排序就戛然而止了（甚至不愿意教一下 malloc 和 free ，哦对了堆和栈更是没提过），还参杂大量思政内容，嗨呀真气得我直跺脚啊，浪费大把青春年华&lt;/p&gt;
-&lt;p&gt;讲数据库用的 Mysql ，做那沟槽的小实验，交纸质版的试验报告； Elasticsearch 啊 Vector DB 什么的前沿技术栈都是一概没讲的，这两个我也不熟，要去找 Gemini 请教了&lt;/p&gt;
-&lt;p&gt;如果你是在校大学生的话赶紧去试试 Gemini （不过能上 V2EX 的话应该也不会上大学的当吧）&lt;/p&gt;
-&lt;p&gt;现在工作了要深夜还债了  我已急哭😭&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>每天瑞幸自由，算是中产的标志了吗？</title>
       <link>https://www.v2ex.com/t/1216756</link>
       <guid>v2ex-1216756</guid>
@@ -148,31 +120,28 @@
 </description>
     </item>
     <item>
-      <title>各位大佬们，固态硬盘到底分不分区？</title>
-      <link>https://www.v2ex.com/t/1216669</link>
-      <guid>v2ex-1216669</guid>
-      <pubDate>Sat, 30 May 2026 08:07:50 GMT</pubDate>
-      <description>&lt;p&gt;记得之前看到过，有人说固态盘不建议分区，到底要不要分区？分区影响整体寿命吗？还是说不分区使用更好？&lt;/p&gt;
+      <title>和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间</title>
+      <link>https://www.v2ex.com/t/1216703</link>
+      <guid>v2ex-1216703</guid>
+      <pubDate>Sat, 30 May 2026 13:22:34 GMT</pubDate>
+      <description>&lt;p&gt;其实我已经毕业于某 985 大学，上大学的时候就感觉上当受骗了，感觉就是个专科水平，啥真本事不教（当然也可能是专业问题）&lt;/p&gt;
+&lt;p&gt;今天骨骼了一下各种虚拟化平台 pros and cons ， 突发奇想就顺着下面那个“Ask anything”问了下去，
+一聊就是 4 个小时，从主流方案到 infini band 这种追求极致效率的方案都有了大致印象，了解到了 Ansible 这种运维工具，接下来可以实践一下了，从头到尾还不收我一分钱&lt;/p&gt;
+&lt;p&gt;一想到大学上的计算机课不教操作系统不教编译原理不教版本管理，就教安装 DevC++然后到链表/排序就戛然而止了（甚至不愿意教一下 malloc 和 free ，哦对了堆和栈更是没提过），还参杂大量思政内容，嗨呀真气得我直跺脚啊，浪费大把青春年华&lt;/p&gt;
+&lt;p&gt;讲数据库用的 Mysql ，做那沟槽的小实验，交纸质版的试验报告； Elasticsearch 啊 Vector DB 什么的前沿技术栈都是一概没讲的，这两个我也不熟，要去找 Gemini 请教了&lt;/p&gt;
+&lt;p&gt;如果你是在校大学生的话赶紧去试试 Gemini （不过能上 V2EX 的话应该也不会上大学的当吧）&lt;/p&gt;
+&lt;p&gt;现在工作了要深夜还债了  我已急哭😭&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>HP 打印机没有 mac 驱动怎么办？</title>
-      <link>https://www.v2ex.com/t/1216672</link>
-      <guid>v2ex-1216672</guid>
-      <pubDate>Sat, 30 May 2026 08:15:28 GMT</pubDate>
-      <description>&lt;p&gt;买了个 hp 的打印机，比较便宜的那种。hp 105w 激光打印机。
-官网没有 mac 系统的驱动，windows 倒是正常。
-苹果官网好像也没找到这种打印机的解决方案。
-不知道大家有没有过类似的经验，该怎么处理？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>给大二的小孩买了 GPT Go</title>
-      <link>https://www.v2ex.com/t/1216664</link>
-      <guid>v2ex-1216664</guid>
-      <pubDate>Sat, 30 May 2026 07:15:04 GMT</pubDate>
-      <description>&lt;p&gt;前几天抱怨免费的不够用&lt;br/&gt;
-今天给买了 Go 套餐，感觉用来完成学校的事情 应该足够了&lt;/p&gt;
+      <title>求推荐靠谱机场</title>
+      <link>https://www.v2ex.com/t/1216741</link>
+      <guid>v2ex-1216741</guid>
+      <pubDate>Sun, 31 May 2026 01:17:03 GMT</pubDate>
+      <description>&lt;p&gt;个人使用的花云，之前用的挺好的，这次快 2 天了，都无法正常使用。&lt;/p&gt;
+&lt;p&gt;之前还推荐了几次花云，现在发现有时候也不太靠谱。&lt;/p&gt;
+&lt;p&gt;预算，一个月 10-20 块钱。&lt;/p&gt;
+&lt;p&gt;能稳定用 Chatgpt 和 Gemini 就行。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -262,6 +231,70 @@ PJ6EFYL33JYP6XTR8F
 7X8HRR7EJRLXHE7YKE
 6XM3HE7APPWW6R3LHE
 X76J3L46F46L8YTNKE&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    <item>
+      <title>买了 100 多家机场的订阅,能用来干嘛</title>
+      <link>https://www.v2ex.com/t/1216720</link>
+      <guid>v2ex-1216720</guid>
+      <pubDate>Sat, 30 May 2026 15:32:15 GMT</pubDate>
+      <description>我的 codex 帮我买了 100 家机场的订阅,我能用来干嘛</description>
+    </item>
+    <item>
+      <title>MBP 适合盒盖用不关机用吗？</title>
+      <link>https://www.v2ex.com/t/1216698</link>
+      <guid>v2ex-1216698</guid>
+      <pubDate>Sat, 30 May 2026 12:51:12 GMT</pubDate>
+      <description>之前有一台 Mac Mini M4 一直都不关机，别的机器远程也很方便。&lt;br /&gt;现在买了 Codex Plus 感觉有一台 24h 不关机的机器还是挺方便的。&lt;br /&gt;所以想问问，MBP 适合&lt;br /&gt;&lt;br /&gt;1. 外接电源&lt;br /&gt;2. 合盖竖起来&lt;br /&gt;3. 外接显示器 - 但是我希望允许这个显示器在 MBP 工作的时候休眠&lt;br /&gt;4. 24 小时不关机甚至不休眠，随时可以用 Codex 等唤醒。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;这样是否对电池健康有影响？目前设置了电池只能充到 80%.</description>
+    </item>
+    <item>
+      <title>polymarket 是新赛道印钞机吗</title>
+      <link>https://www.v2ex.com/t/1216709</link>
+      <guid>v2ex-1216709</guid>
+      <pubDate>Sat, 30 May 2026 13:57:33 GMT</pubDate>
+      <description>&lt;p&gt;Polymarket 本质上是一个“预测市场（ Prediction Market ）”，你不是直接下注，而是在交易“某件事发生的概率”。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;核心原理&lt;/p&gt;
+&lt;p&gt;假设市场问题是：&lt;/p&gt;
+&lt;p&gt;BTC 会在 2026 年 6 月 30 日前突破 150000 美元吗？&lt;/p&gt;
+&lt;p&gt;市场会有两个结果：&lt;/p&gt;
+&lt;p&gt;YES
+NO&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;如何赚钱
+情况 1：事件发生&lt;/p&gt;
+&lt;p&gt;你买：&lt;/p&gt;
+&lt;p&gt;YES @ 0.35&lt;/p&gt;
+&lt;p&gt;买 100 份：&lt;/p&gt;
+&lt;p&gt;成本 = 35 美元&lt;/p&gt;
+&lt;p&gt;最后真的发生：&lt;/p&gt;
+&lt;p&gt;结算 = 100 × 1 美元
+= 100 美元&lt;/p&gt;
+&lt;p&gt;利润：&lt;/p&gt;
+&lt;p&gt;100 - 35
+= 65 美元&lt;/p&gt;
+&lt;p&gt;收益率：&lt;/p&gt;
+&lt;p&gt;185%&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;以下是某些未经验证的案例，仅供参考：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;案例一：
+Polymarket 机器人，在短短 60 天内狂卷了 822,440 美金。
+超过 40,000 次预测。
+高达 59% 的胜率。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;案例二：
+深圳大二普通在校生，靠 Claude 自研交易机器人，在 Polymarket 拿下 14.9 万美金收益，属实把信息差玩明白了。&lt;/p&gt;
+&lt;p&gt;机器人一小时执行 59.93 笔交易，折算下来一分钟约 1.82 笔，只聚焦 5 分钟 BTC 涨跌预测市场，专门抓取定价错位的订单，单笔平均能拿到 2.7%的套利优势。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;案例三：
+据传一名旅居日本的中国留学生，在 Polymarket 上靠交易把区区 0.90 美金滚成了 408,292 美金。&lt;/p&gt;
+&lt;p&gt;而几乎没人注意到这件事。&lt;/p&gt;
+&lt;p&gt;这个账户名叫 “Gravia”。&lt;/p&gt;
+&lt;p&gt;它甚至才刚刚活跃了 2 天。&lt;/p&gt;
+&lt;p&gt;但最离谱的部分在于：&lt;/p&gt;
+&lt;p&gt;他声称自己用 Claude 调教了一个机器人，全天候死盯着比特币 5 分钟涨跌的极速盘口。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;x 上还能看到无数个类似的帖子，不知真假&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr/&gt;
 </description>
     </item>
   </channel>
