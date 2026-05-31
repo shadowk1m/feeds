@@ -4,7 +4,51 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sun, 31 May 2026 09:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 11:26:05 GMT</lastBuildDate>
+    <item>
+      <title>”他们会毁了我的生活“ 微软威胁对漏洞披露动用 &quot;数字犯罪小组&quot;</title>
+      <link>https://linux.do/t/topic/2279508</link>
+      <guid>linux.do-topic-2279508</guid>
+      <pubDate>Sun, 31 May 2026 10:39:38 GMT</pubDate>
+      <description>
+            &lt;p&gt;从&lt;a href=&quot;https://linux.do/t/topic/2260046&quot;&gt;微软的 GitHub 禁止发布零日 Windows 漏洞的安全研究人员访问&lt;/a&gt;继续讨论：&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.windowscentral.com/microsoft/they-will-ruin-my-life-microsoft-threatens-to-wield-digital-crimes-unit-over-zero-day-exploit-disclosures-causing-uproar-in-the-cybersec-community&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/f/0/3f0ccc88cb0b3a18cd9b03050926a9ea959a5406.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;F7E3E4&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.windowscentral.com/microsoft/they-will-ruin-my-life-microsoft-threatens-to-wield-digital-crimes-unit-over-zero-day-exploit-disclosures-causing-uproar-in-the-cybersec-community&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;10:06PM - 30 May 2026&quot;&gt;Windows Central – 30 May 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/7/8/078d8565325067338ae14dc0bb6dd46ec5ebe1e8_2_690x460.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;133450&quot; width=&quot;690&quot; height=&quot;460&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.windowscentral.com/microsoft/they-will-ruin-my-life-microsoft-threatens-to-wield-digital-crimes-unit-over-zero-day-exploit-disclosures-causing-uproar-in-the-cybersec-community&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&quot;They will ruin my life&quot;: Microsoft threatens cybersec researchers&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Microsoft&#39;s approach to working with security researchers has long been controversial, but some of its recent language has alarmed some commentators.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;安全研究人员 “噩梦日蚀”（Nightmare Eclipse）最近疯狂地公开披露了 Windows 和其他微软系统中的六大安全漏洞。通常情况下，这类漏洞会直接报告给微软，以便该公司进行修补，但 Eclipse 此前的博客文章显示，他公开披露这些漏洞可能是出于报复。&lt;/p&gt;
+&lt;p&gt;&quot;Eclipse 写道（通过 PCMag）：“通常情况下，我会通过乞求他们来修复 bug，但概括地说，他们亲口告诉我，他们会毁了我的生活，他们确实这么做了，我不确定是否只有我一个人有这样的恐怖经历，或者很少有人有这样的经历，但我认为大多数人都会忍气吞声，减少损失，但对我来说，他们夺走了我的一切。他们把我拖在地板上，玩各种幼稚的游戏。情况太糟糕了，我都怀疑自己是在和一家大公司打交道，还是在和一个看我受苦就觉得好玩的人打交道，但这似乎是一个集体的决定”。&lt;/p&gt;
+&lt;h1&gt;&quot;更新（2026 年 5 月 31 日）：微软发言人就 Eclipse 的指控发表了以下评论：“微软不会删除 MSRC 研究人员门户账户，任何人都可以通过该账户向公司提交漏洞。微软无法确认此人声称被停用的账户。”&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;&lt;span lang=&quot;zh&quot;&gt;&quot;被称为 RedSun、UnDefend、BlueHammer、YellowKey、GreenPlasma 和 MiniPlasma 的漏洞没有得到负责任的披露。为了应对这些漏洞造成的不必要风险，我们的安全团队一直在夜以继日地工作，以了解其影响、保护我们的客户并开发安全更新。&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span lang=&quot;zh&quot;&gt;我们仍然坚决反对这些行为以及任何未经适当协调的披露行为，因为这可能会损害我们的客户和数字生态系统。未经协调的披露行为会将未修补漏洞的概念验证代码落入坏人之手，这是毫无道理的，而且会造成现实世界的后果。我们整个公司的安全团队不知疲倦地追踪那些寻找类似漏洞攻击微软和我们客户的威胁行为者。我们的数字犯罪部门将继续对这些行为者和那些助长其犯罪活动的人提起诉讼，并根据需要与世界各地的执法部门进行协调。&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2279508&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>好技术正在悄悄变便宜</title>
       <link>https://linux.do/t/topic/2279194</link>
@@ -187,7 +231,7 @@
 &lt;/aside&gt;
 
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/5/c/75c36f064beac3be94702f0866e9e4e666c9e42c.png&quot; data-download-href=&quot;/uploads/short-url/gNMzSSjDCBOrclHUX4LvCXj4Yzi.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/5/c/75c36f064beac3be94702f0866e9e4e666c9e42c_2_494x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gNMzSSjDCBOrclHUX4LvCXj4Yzi&quot; width=&quot;494&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/5/c/75c36f064beac3be94702f0866e9e4e666c9e42c_2_494x500.png, https://cdn3.ldstatic.com/optimized/4X/7/5/c/75c36f064beac3be94702f0866e9e4e666c9e42c_2_741x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/5/c/75c36f064beac3be94702f0866e9e4e666c9e42c_2_988x1000.png 2x&quot; data-dominant-color=&quot;1B1B1C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;19 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;21 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2278334&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -612,28 +656,6 @@
 &lt;p&gt;五是防范“免押金”“高回报”等租车套路，签约需核对条款；六是警惕租车公司逾期缴纳保险导致失效的风险。&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2274987&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>多所高校撤销外语学院</title>
-      <link>https://linux.do/t/topic/2274970</link>
-      <guid>linux.do-topic-2274970</guid>
-      <pubDate>Sat, 30 May 2026 12:20:50 GMT</pubDate>
-      <description>
-            &lt;p&gt;人工智能的发展及其他因素的影响下，外语类专业面临挑战，近年来一些高校对外语学院进行调整、重组。&lt;/p&gt;
-&lt;p&gt;近日，桂林信息科技学院发布关于机构调整等事项的通知，撤销外贸与外语学院、体育与健康学院及素质素养教育中心建制；以现有基础教研部为依托，统筹纳入公共英语、公共体育、通识教育课程等教学职能，组建通识教育学院。&lt;/p&gt;
-&lt;p&gt;通知还明确原外贸与外语学院所属各专业教研室全体教师，整体并入商学院管理；原外贸与外语学院所属公共课教研室及承担公共课教学的全体教师，整体并入新组建的通识教育学院。&lt;/p&gt;
-&lt;p&gt;近年来，有多所高校撤销外语学院建制后将传统的外语学院更名，或与其他院系专业合并、调整组建成新学院。&lt;/p&gt;
-&lt;p&gt;例如，2025年5月，新余学院人文学院成立，由原文学与传媒学院、外国语学院组合设立。新学院设汉语言文学、英语、商务英语、网络与新媒体、播音与主持艺术五个本科专业。&lt;/p&gt;
-&lt;p&gt;在景德镇陶瓷大学，2025年1月外国语学院更名为文化传播学院。2025年底，在文化传播学院基础上，整合国际学院优质资源与特色优势，合并组建国际文化传播学院。湖南工业大学语言文化与传媒学院简介显示，该学院由原文学与新闻传播学院和外国语学院合并组建。&lt;/p&gt;
-&lt;p&gt;厦门大学经济学系副教授丁长发对第一财经分析，人工智能的发展对很多领域产生影响，其中外语类专业受影响较大，所以一些高校对这些学院进行调整和整合。&lt;/p&gt;
-&lt;p&gt;包括“双一流”高校在内的不少高校也纷纷停招或撤销外语类本科专业。2023年，中国科学技术大学公示拟撤销英语本科专业，成了第一个裁撤英语专业的985高校。上海财经大学信息公开网发布的2025本科专业设置已停招包括英语在内的12个专业。华东师范大学发布的2025年本科专业设置及新增专业、停招专业情况也显示，停招包括德语、翻译在内的24个专业。&lt;/p&gt;
-&lt;p&gt;麦可思研究院分析，AI时代，全球语言专业正面临前所未有的挑战。面对新一轮学科发展大变局，一些高校已经率先行动，将加强跨学科复合型人才培养作为外语类专业逆势破局的关键。&lt;/p&gt;
-&lt;p&gt;麦可思研究院分析发现，各高校应对措施虽各有侧重，但核心思路高度一致，可归纳为几个主要方向：学科交叉融合与专业转型，人才培养模式创新，强化区域国别学研究，改革课程与教学。&lt;/p&gt;
-&lt;p&gt;其中，在学科交叉融合与专业转型方面，通过“外语+AI/技术”“外语+特定领域/产业”模式，打破传统外语专业的壁垒，通过与其他学科融合来重塑专业价值和竞争力。这也是各高校外语学院最核心的应对策略。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;strong&gt;作者 |&lt;/strong&gt;&lt;/strong&gt; 第一财经 林靖&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;16 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2274970&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
