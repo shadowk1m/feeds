@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 31 May 2026 11:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 12:54:55 GMT</lastBuildDate>
     <item>
       <title>求救，这样的婚姻，还有必要坚持吗？从来没有对谁倾诉过，实在内耗得不行了。</title>
       <link>https://www.v2ex.com/t/1216728</link>
@@ -110,16 +110,6 @@
 </description>
     </item>
     <item>
-      <title>HyperAPI 的新老用户来领福利了</title>
-      <link>https://www.v2ex.com/t/1216743</link>
-      <guid>v2ex-1216743</guid>
-      <pubDate>Sun, 31 May 2026 01:28:04 GMT</pubDate>
-      <description>&lt;p&gt;新用户注册 &lt;a href=&quot;https://hyperapi.cc&quot; rel=&quot;nofollow&quot;&gt;https://hyperapi.cc&lt;/a&gt; 即有 5 刀体验额度。&lt;/p&gt;
-&lt;p&gt;评论留 ID ，新用户加 10 刀，老用户加 5 刀。添加的额度，没有过期时间。&lt;/p&gt;
-&lt;p&gt;加 QQ 群：1095326876, 群主不定期发送兑换码。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间</title>
       <link>https://www.v2ex.com/t/1216703</link>
       <guid>v2ex-1216703</guid>
@@ -131,6 +121,16 @@
 &lt;p&gt;讲数据库用的 Mysql ，做那沟槽的小实验，交纸质版的试验报告； Elasticsearch 啊 Vector DB 什么的前沿技术栈都是一概没讲的，这两个我也不熟，要去找 Gemini 请教了&lt;/p&gt;
 &lt;p&gt;如果你是在校大学生的话赶紧去试试 Gemini （不过能上 V2EX 的话应该也不会上大学的当吧）&lt;/p&gt;
 &lt;p&gt;现在工作了要深夜还债了  我已急哭😭&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>HyperAPI 的新老用户来领福利了</title>
+      <link>https://www.v2ex.com/t/1216743</link>
+      <guid>v2ex-1216743</guid>
+      <pubDate>Sun, 31 May 2026 01:28:04 GMT</pubDate>
+      <description>&lt;p&gt;新用户注册 &lt;a href=&quot;https://hyperapi.cc&quot; rel=&quot;nofollow&quot;&gt;https://hyperapi.cc&lt;/a&gt; 即有 5 刀体验额度。&lt;/p&gt;
+&lt;p&gt;评论留 ID ，新用户加 10 刀，老用户加 5 刀。添加的额度，没有过期时间。&lt;/p&gt;
+&lt;p&gt;加 QQ 群：1095326876, 群主不定期发送兑换码。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -201,39 +201,6 @@ X76J3L46F46L8YTNKE&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     <item>
-      <title>AI 编程时代， MVP 思维已经失效了？</title>
-      <link>https://www.v2ex.com/t/1216691</link>
-      <guid>v2ex-1216691</guid>
-      <pubDate>Sat, 30 May 2026 11:25:49 GMT</pubDate>
-      <description>&lt;p&gt;最近在用 Rust 写一个 AI Agent 操作系统内核，叫 Agent OS 。37 个 crate ，1232 个测试，用 craft agent 都写了十几天。&lt;/p&gt;
-&lt;p&gt;不止一个朋友问过我：你为什么不先用 Python 快速搭个原型？先验证需求，等跑通了再用 Rust 重写。&lt;/p&gt;
-&lt;p&gt;以前我会觉得这是个好建议。但这次我拒绝了。&lt;/p&gt;
-&lt;p&gt;原因很简单：我在用 AI 编程的过程中，逐渐意识到一件事——在 AI 时代，MVP 那套&quot;先简后优&quot;的逻辑，前提已经不存在了。&lt;/p&gt;
-&lt;p&gt;传统 MVP 的核心假设是：简易实现和高质量实现之间有显著的成本差，先用低成本验证，验证通过再投入。这个在人写代码的时代是成立的——用 Python 写个原型 2 天，用 Rust 写生产级实现 2 周，差 10 倍，所以先做简易版合理。而且代码是你自己写的，你理解每一行，以后重构只是时间问题。&lt;/p&gt;
-&lt;p&gt;但现在你对 Cursor 说&quot;用 localStorage 存数据&quot;和说&quot;用 PostgreSQL 加连接池和事务管理&quot;，生成时间差不了几分钟。既然成本一样，为什么要做简易版？&lt;/p&gt;
-&lt;p&gt;更要命的是第二点：AI 生成的代码是黑箱，你大概率没法有效重构。&lt;/p&gt;
-&lt;p&gt;去年帮一个朋友用 Cursor 做了个小工具的 MVP ，需求很简单，AI 几分钟就生成了能跑的代码。两周后他想加个功能，打开代码，完全看不懂。不是因为代码乱，而是他不知道 AI 为什么这样写。最后他选择让 Cursor 重写一遍，而不是在原有代码上改。&lt;/p&gt;
-&lt;p&gt;这就是问题所在。你以为&quot;以后再优化&quot;，但你连哪里需要优化都不知道，因为你从未理解过这段代码。&lt;/p&gt;
-&lt;p&gt;所以我做 Agent OS 的时候，做了一个在很多人看来反直觉的决定：每一个架构决策都自己做，AI 只负责执行。&lt;/p&gt;
-&lt;p&gt;选语言的时候，用 Python 或 TypeScript 写个 Agent 框架，AI 几小时就能生成一个看起来很完整的 MVP 。但我选了 Rust ，理由很具体：Agent 系统需要长期运行、需要内存安全、需要跨平台——这些需求第一天就是确定的，不会因为用户量上来了才变成需求。&lt;/p&gt;
-&lt;p&gt;设计原则也是。我定了&quot;事件溯源&quot;——每一次操作都记录，可以回溯和重放。这在 MVP 阶段看起来是多余的，但当你的 Agent 在凌晨 2 点做了个错误决策，你需要知道它为什么做了这个决策。这不是&quot;以后再加&quot;的事，因为你以后根本不知道要加在哪里。&lt;/p&gt;
-&lt;p&gt;测试也一样。1232 个测试，每个模块合并前必须通过。AI 帮我写了很多测试，但测什么、怎么测、边界条件是什么——这些是我决定的。AI 很擅长为自己的代码生成&quot;能通过&quot;的测试，这就像自己出题自己答，当然满分。&lt;/p&gt;
-&lt;p&gt;Andrej Karpathy 自己也承认过：&quot;代码超出了我的理解范围。当 AI 修不了一个 bug 时，我就让它随机改，直到错误消失。&quot;这是 OpenAI 联合创始人说的，不是什么新手的窘境。&lt;/p&gt;
-&lt;p&gt;我的选择是不让代码超出我的理解范围。哪怕前期慢一点。&lt;/p&gt;
-&lt;p&gt;有人会说这样不是更慢了吗？前期确实更慢。但到现在，每个模块都可以独立修改而不影响其他模块。我知道这个系统的每一块是怎么工作的。&lt;/p&gt;
-&lt;p&gt;而那些用 AI 快速搭 MVP 的项目呢？ 63% 的开发者说调试 AI 生成代码花的时间比自己写还多。470 个 GitHub PR 的分析显示，AI 生成代码出现重大逻辑错误的概率是人写的 1.7 倍，安全漏洞概率是 2.74 倍。&lt;/p&gt;
-&lt;p&gt;AI 编程还带来了一种新的技术债，和传统的不一样。传统技术债你知道它在哪——那个 hack 、那个 TODO 、那个硬编码。AI 编程的技术债是隐形的。&lt;/p&gt;
-&lt;p&gt;一种叫理解债：代码能跑，测试全过，但没人能解释它为什么这样工作。调试一段你不理解的代码比调试自己写的慢 3 到 5 倍，而 AI 大幅增加了你代码库里&quot;不是你写的&quot;代码的比例。&lt;/p&gt;
-&lt;p&gt;一种叫同质债：不同公司、不同产品、不同需求的团队，用 AI 解决同一个问题会得到几乎一样的代码。AI 给你的是互联网上最受欢迎的解法，不是最适合你系统的解法。农业里叫单一栽培——高产但脆弱，一场病全军覆没。&lt;/p&gt;
-&lt;p&gt;还有一种叫归属债：开发者从代码的作者变成了策展人。出问题时第一反应不是理解原因，而是让 AI 重新生成。一位资深工程师说得很直接：&quot;AI 为当下而建，不为将来而建。它对自己生成的东西没有维护的利害关系。&quot;&lt;/p&gt;
-&lt;p&gt;这几种债有个共同特点：你的仪表盘全是绿色的。Sprint 速度在涨，PR 合并更快，测试覆盖率 94%。一切看起来很好。直到有一天你需要改一个功能，发现没有任何人知道该从哪里改起。&lt;/p&gt;
-&lt;p&gt;所以我的想法是：在 AI 编程时代，别再用 MVP 思维了。直接一步到位。&lt;/p&gt;
-&lt;p&gt;不是说花三个月做完美产品再上线。AI 已经把构建高质量实现的时间成本压到和简易版差不多了。关键是你的思维方式要从&quot;先简后优&quot;变成&quot;一步到位&quot;——对 AI 描述你要的终态而不是最简态，架构决策由人来做而不是交给 AI ，关键路径必须是人类彻底理解的。&lt;/p&gt;
-&lt;p&gt;真正的快不是写得快，是改得快、修得快、迭代得快。如果你连自己的代码都不理解，你根本快不起来。&lt;/p&gt;
-&lt;p&gt;AI 编程的本质是黑箱。你可以让黑箱帮你写代码，但你不能让黑箱帮你做决策。你没法重构一个你不理解的东西。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>买了 100 多家机场的订阅,能用来干嘛</title>
       <link>https://www.v2ex.com/t/1216720</link>
       <guid>v2ex-1216720</guid>
@@ -241,25 +208,75 @@ X76J3L46F46L8YTNKE&lt;/code&gt;&lt;/pre&gt;
       <description>我的 codex 帮我买了 100 家机场的订阅,我能用来干嘛</description>
     </item>
     <item>
-      <title>MBP 适合盒盖用不关机用吗？</title>
-      <link>https://www.v2ex.com/t/1216698</link>
-      <guid>v2ex-1216698</guid>
-      <pubDate>Sat, 30 May 2026 12:51:12 GMT</pubDate>
-      <description>之前有一台 Mac Mini M4 一直都不关机，别的机器远程也很方便。&lt;br /&gt;现在买了 Codex Plus 感觉有一台 24h 不关机的机器还是挺方便的。&lt;br /&gt;所以想问问，MBP 适合&lt;br /&gt;&lt;br /&gt;1. 外接电源&lt;br /&gt;2. 合盖竖起来&lt;br /&gt;3. 外接显示器 - 但是我希望允许这个显示器在 MBP 工作的时候休眠&lt;br /&gt;4. 24 小时不关机甚至不休眠，随时可以用 Codex 等唤醒。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;这样是否对电池健康有影响？目前设置了电池只能充到 80%.</description>
+      <title>工作时，你们喜欢打开音乐吗</title>
+      <link>https://www.v2ex.com/t/1216797</link>
+      <guid>v2ex-1216797</guid>
+      <pubDate>Sun, 31 May 2026 09:46:11 GMT</pubDate>
+      <description>&lt;p&gt;大家可以投个票&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;喜欢听平时就爱听的音乐&lt;/li&gt;
+&lt;li&gt;喜欢听一些专门工作时听的音乐，可能是轻音乐什么的&lt;/li&gt;
+&lt;li&gt;绝对不听，老子需要安静&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     <item>
-      <title>成都个体工商户登记申请</title>
-      <link>https://www.v2ex.com/t/1216770</link>
-      <guid>v2ex-1216770</guid>
-      <pubDate>Sun, 31 May 2026 04:50:05 GMT</pubDate>
-      <description>&lt;p&gt;大佬们好！&lt;/p&gt;
-&lt;p&gt;我是独立开发者，应用主要发布在 Google Play ，通过 Google Play / AdMob 获得收入。&lt;/p&gt;
-&lt;p&gt;最近想注册一个个体户来承接这部分款项，主要是为了合规处理税务，降低个人直接收款的税负压力。&lt;/p&gt;
-&lt;p&gt;暂时不考虑公司，因为我已经注册了公司，但实际操作下来，外汇进出、结汇、付海外服务费这些流程都比较麻烦。&lt;/p&gt;
-&lt;p&gt;现在主要卡在&lt;strong&gt;个体户营业场所&lt;/strong&gt;这个问题上。问了中介，他们能提供注册地址，但说这种地址一般只能注册，没有实际办公环境，后续如果被税务或市场监管抽查，可能会有风险。&lt;/p&gt;
-&lt;p&gt;想请教下各位：&lt;/p&gt;
-&lt;p&gt;独立开发者这种完全线上经营、没有线下办公需求的情况，注册个体户时营业场所一般怎么解决？可以用住宅地址吗？或者有没有更稳妥的方案？&lt;/p&gt;
-&lt;p&gt;感谢指点！&lt;/p&gt;
+      <title>polymarket 是新赛道印钞机吗</title>
+      <link>https://www.v2ex.com/t/1216709</link>
+      <guid>v2ex-1216709</guid>
+      <pubDate>Sat, 30 May 2026 13:57:33 GMT</pubDate>
+      <description>&lt;p&gt;Polymarket 本质上是一个“预测市场（ Prediction Market ）”，你不是直接下注，而是在交易“某件事发生的概率”。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;核心原理&lt;/p&gt;
+&lt;p&gt;假设市场问题是：&lt;/p&gt;
+&lt;p&gt;BTC 会在 2026 年 6 月 30 日前突破 150000 美元吗？&lt;/p&gt;
+&lt;p&gt;市场会有两个结果：&lt;/p&gt;
+&lt;p&gt;YES
+NO&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;如何赚钱
+情况 1：事件发生&lt;/p&gt;
+&lt;p&gt;你买：&lt;/p&gt;
+&lt;p&gt;YES @ 0.35&lt;/p&gt;
+&lt;p&gt;买 100 份：&lt;/p&gt;
+&lt;p&gt;成本 = 35 美元&lt;/p&gt;
+&lt;p&gt;最后真的发生：&lt;/p&gt;
+&lt;p&gt;结算 = 100 × 1 美元
+= 100 美元&lt;/p&gt;
+&lt;p&gt;利润：&lt;/p&gt;
+&lt;p&gt;100 - 35
+= 65 美元&lt;/p&gt;
+&lt;p&gt;收益率：&lt;/p&gt;
+&lt;p&gt;185%&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;以下是某些未经验证的案例，仅供参考：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;案例一：
+Polymarket 机器人，在短短 60 天内狂卷了 822,440 美金。
+超过 40,000 次预测。
+高达 59% 的胜率。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;案例二：
+深圳大二普通在校生，靠 Claude 自研交易机器人，在 Polymarket 拿下 14.9 万美金收益，属实把信息差玩明白了。&lt;/p&gt;
+&lt;p&gt;机器人一小时执行 59.93 笔交易，折算下来一分钟约 1.82 笔，只聚焦 5 分钟 BTC 涨跌预测市场，专门抓取定价错位的订单，单笔平均能拿到 2.7%的套利优势。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;案例三：
+据传一名旅居日本的中国留学生，在 Polymarket 上靠交易把区区 0.90 美金滚成了 408,292 美金。&lt;/p&gt;
+&lt;p&gt;而几乎没人注意到这件事。&lt;/p&gt;
+&lt;p&gt;这个账户名叫 “Gravia”。&lt;/p&gt;
+&lt;p&gt;它甚至才刚刚活跃了 2 天。&lt;/p&gt;
+&lt;p&gt;但最离谱的部分在于：&lt;/p&gt;
+&lt;p&gt;他声称自己用 Claude 调教了一个机器人，全天候死盯着比特币 5 分钟涨跌的极速盘口。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;x 上还能看到无数个类似的帖子，不知真假&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr/&gt;
+</description>
+    </item>
+    <item>
+      <title>ChatGPT Pro 5X 双倍结束，建议升级 Pro 20X</title>
+      <link>https://www.v2ex.com/t/1216742</link>
+      <guid>v2ex-1216742</guid>
+      <pubDate>Sun, 31 May 2026 01:17:37 GMT</pubDate>
+      <description>&lt;p&gt;升级 Pro 20x 时之前付款的 Pro 5x 会抵扣，比如我 5 月 21 号订阅的 pro 5x 100 刀，我 5 月 31 日升级到 pro 20x 只需要再付 73 刀左右就可以，我感觉 gpt 的这种订阅升级降级收费很灵活，需求量高的时候升级按天计算差价和抵扣，不过降的话需要本次订阅到期后才可以&lt;/p&gt;
+&lt;p&gt;另外说下今天早上重置后应该结束 pro 5x 的双倍了，处理一个开发需求消耗了 8%的额度，赶紧升级到 pro 20x 了，不知道是不是又暗改了额度，我今天先试下 20x 耐不耐用（升级后 5 小时额度重置）&lt;/p&gt;
 </description>
     </item>
   </channel>
