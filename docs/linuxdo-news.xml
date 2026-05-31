@@ -4,7 +4,78 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sat, 30 May 2026 23:51:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 02:28:05 GMT</lastBuildDate>
+    <item>
+      <title>【自制】全球新闻0531</title>
+      <link>https://linux.do/t/topic/2277340</link>
+      <guid>linux.do-topic-2277340</guid>
+      <pubDate>Sun, 31 May 2026 02:17:50 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/ccxFeyonzWwdEHMVkQddBTM6aAB.pdf&quot;&gt;全球新闻2026-05-31早报.pdf&lt;/a&gt; (280.3 KB)&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2277340&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>FROST : 基于 OPFS 的固态硬盘定时进行远程指纹识别</title>
+      <link>https://linux.do/t/topic/2277306</link>
+      <guid>linux.do-topic-2277306</guid>
+      <pubDate>Sun, 31 May 2026 02:05:04 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://futurism.com/future-society/websites-spying-solid-state-drive&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/6/2/a62534b227c75f5e3247d1a555bcdee20fd6186d.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;000000&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://futurism.com/future-society/websites-spying-solid-state-drive&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;12:45PM - 30 May 2026&quot;&gt;Futurism – 30 May 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/c/d/dcd91317d95e214dfdaae9689e0abd6ccfec5175_2_690x459.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;8F6894&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://futurism.com/future-society/websites-spying-solid-state-drive&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Websites Are Spying on Your Solid State Drive&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;An alarming piece of research by a team of cybersecurity experts in Austria found a glaring vulnerability in most common web browsers.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 3 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;br&gt;
+它被称为 FROST，意思是 “使用基于 OPFS 的固态硬盘定时进行远程指纹识别”。虽然很拗口，但它基本上可以让恶意网站监视你的电脑活动，而无需安装任何软件或诱骗你点击可疑的电子邮件链接。&lt;/p&gt;
+&lt;p&gt;根据研究人员的说法，它的工作原理是利用计算机的固态硬盘（SSD），这种内部存储设备在很大程度上取代了消费市场上的磁性硬盘。每当你访问一个网站时，电脑的固态硬盘就会开始嗡嗡作响，允许网页存储临时文件供你浏览。&lt;/p&gt;
+&lt;p&gt;FROST攻击正是利用了这一点，通过创建一个巨大的文件（我们说的是几千兆字节），在功能上阻止你的计算机将它认为是临时的网络数据移出固态硬盘。不过，在处理这个巨大文件的同时，恶意网站还能探查其他网站的数据传入时间，生成数据，然后通过机器学习模型进行分析，预测你在网上还在做什么。&lt;/p&gt;
+&lt;p&gt;虽然 &quot;预测 &quot;意味着攻击者在猜测，但 &quot;FROST &quot;方法在识别受害者在电脑上做什么方面的能力却非常可怕。研究人员写道，通过使用这种技术，他们的机器学习模型能够以 88.95% 的准确率预测用户将访问哪些网站，并在 95.83% 的情况下准确预测访问的应用程序。&lt;/p&gt;
+&lt;p&gt;更糟糕的是，无论你使用什么浏览器，它都能正常工作–因为它是通过固态硬盘工作的，攻击者理论上可以根据通过谷歌浏览器访问的网站来跟踪你在火狐浏览器上的网页浏览。研究人员只在 Mac 和 Linux 设备上试验了这种技术，但警告说 Windows 设备也不能幸免。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2277306&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>SpaceX 最早 6 月 4 日启动 IPO 路演，拟筹资 750 亿美元，估值达 1.8 万亿美元</title>
+      <link>https://linux.do/t/topic/2277229</link>
+      <guid>linux.do-topic-2277229</guid>
+      <pubDate>Sun, 31 May 2026 01:38:30 GMT</pubDate>
+      <description>
+            &lt;p&gt;据外媒报道，知情人士透露，SpaceX 公司正寻求在其首次公开募股（IPO）中获得至少 1.8 万亿美元（按现汇率约合 12.23 万亿元人民币）的估值。该公司承诺将在太空中建立数据中心，目前已临近上市阶段。&lt;/p&gt;
+&lt;p&gt;在 4 月的报道中，SpaceX 当时寻求的目标估值是超过 2 万亿美元。但知情人士表示，在与顾问和投资者进行磋商后，这家涵盖火箭、数据与 AI 业务的公司目前的估值目标有所下调。&lt;/p&gt;
+&lt;p&gt;据知情人士透露，IPO 的规模和估值等细节通常会在定价前根据利益相关方的反馈进行调整。此前有知情人士透露，SpaceX 正寻求筹集高达 750 亿美元的资金，若成功，这将是历史上规模最大的 IPO。&lt;/p&gt;
+&lt;p&gt;目前，相关讨论仍在进行中。根据上市路演过程中投资者的反馈情况，SpaceX 未来仍可能上调其目标估值。预计该公司最早将于 6 月 4 日开始 IPO 路演，并于 6 月 11 日定价，不过交易时间表仍有可能推迟几天。 1.8万亿分给佬友们多好。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2277229&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>一家美国公司一个月内在 Claude AI 上花费了 5 亿美元</title>
       <link>https://linux.do/t/topic/2276898</link>
@@ -37,7 +108,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;25 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;32 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2276898&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -48,7 +119,7 @@
       <pubDate>Sat, 30 May 2026 19:07:15 GMT</pubDate>
       <description>
             &lt;p&gt;第7分钟哈佛茨破门，随后僵持了一个小时然后k77造点，登贝莱点球命中扳平，最后僵持到点球大战，埃泽，门德斯，加布里埃尔失点，巴黎4：3成功卫冕欧冠冠军，姆总要哭了&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/laughing.png?v=15&quot; title=&quot;:laughing:&quot; class=&quot;emoji&quot; alt=&quot;:laughing:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2276881&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -74,7 +145,7 @@
       <description>
             &lt;p&gt;写的是只有opus支持，但是我用ds flash也能使用，不知道为什么&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/b/5/2b52f9ef690e29b9732e8548c6c3407da44f3312.png&quot; data-download-href=&quot;/uploads/short-url/6bgj2GYtbPkqP32Z3475KnOZwlA.png?dl=1&quot; title=&quot;截屏2026-05-31 上午1.01.23&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/b/5/2b52f9ef690e29b9732e8548c6c3407da44f3312_2_690x125.png&quot; alt=&quot;截屏2026-05-31 上午1.01.23&quot; data-base62-sha1=&quot;6bgj2GYtbPkqP32Z3475KnOZwlA&quot; width=&quot;690&quot; height=&quot;125&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/b/5/2b52f9ef690e29b9732e8548c6c3407da44f3312_2_690x125.png, https://cdn3.ldstatic.com/optimized/4X/2/b/5/2b52f9ef690e29b9732e8548c6c3407da44f3312_2_1035x187.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/b/5/2b52f9ef690e29b9732e8548c6c3407da44f3312_2_1380x250.png 2x&quot; data-dominant-color=&quot;191B20&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2276671&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -114,7 +185,7 @@
 &lt;audio controls=&quot;&quot;&gt;
   &lt;source src=&quot;https://pool-1305119010.cos.ap-nanjing.myqcloud.com/music/AI260530.m4a&quot; type=&quot;audio/mpeg&quot;&gt;
 &lt;/audio&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2275468&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -127,7 +198,7 @@
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/7/e/87eb0bfc096048848e93ba8fbd264e0a1c8c7237.png&quot; data-download-href=&quot;/uploads/short-url/joo2J5CPM4civzRxr77bswFLWIf.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/7/e/87eb0bfc096048848e93ba8fbd264e0a1c8c7237_2_690x322.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;joo2J5CPM4civzRxr77bswFLWIf&quot; width=&quot;690&quot; height=&quot;322&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/7/e/87eb0bfc096048848e93ba8fbd264e0a1c8c7237_2_690x322.png, https://cdn3.ldstatic.com/optimized/4X/8/7/e/87eb0bfc096048848e93ba8fbd264e0a1c8c7237_2_1035x483.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/7/e/87eb0bfc096048848e93ba8fbd264e0a1c8c7237_2_1380x644.png 2x&quot; data-dominant-color=&quot;DBDBDB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/2/9/22930910f3666f157bfd38eaf9e8d5f161835739.jpeg&quot; data-download-href=&quot;/uploads/short-url/4VRfRKCvg3y7jjwCINOfx1ORCv7.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/2/9/22930910f3666f157bfd38eaf9e8d5f161835739_2_690x444.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;4VRfRKCvg3y7jjwCINOfx1ORCv7&quot; width=&quot;690&quot; height=&quot;444&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/2/9/22930910f3666f157bfd38eaf9e8d5f161835739_2_690x444.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/2/9/22930910f3666f157bfd38eaf9e8d5f161835739_2_1035x666.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/2/9/22930910f3666f157bfd38eaf9e8d5f161835739_2_1380x888.jpeg 2x&quot; data-dominant-color=&quot;F6F6F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.ai/build/changelog&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://x.ai/build/changelog&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2275223&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -163,7 +234,7 @@
 &lt;p&gt;麦可思研究院分析发现，各高校应对措施虽各有侧重，但核心思路高度一致，可归纳为几个主要方向：学科交叉融合与专业转型，人才培养模式创新，强化区域国别学研究，改革课程与教学。&lt;/p&gt;
 &lt;p&gt;其中，在学科交叉融合与专业转型方面，通过“外语+AI/技术”“外语+特定领域/产业”模式，打破传统外语专业的壁垒，通过与其他学科融合来重塑专业价值和竞争力。这也是各高校外语学院最核心的应对策略。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;strong&gt;作者 |&lt;/strong&gt;&lt;/strong&gt; 第一财经 林靖&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;16 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2274970&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -349,7 +420,7 @@
             &lt;p&gt;填写资料：&lt;br&gt;
 &lt;a href=&quot;https://openai.com/ja-JP/form/codex-for-oss/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://openai.com/ja-JP/form/codex-for-oss/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/a/8/3a8f000d47b2a94a6418dada89042911dbe63018.png&quot; data-download-href=&quot;/uploads/short-url/8m24kl0GJuaMx7hDwgnOjUsrZqM.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/a/8/3a8f000d47b2a94a6418dada89042911dbe63018_2_690x385.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8m24kl0GJuaMx7hDwgnOjUsrZqM&quot; width=&quot;690&quot; height=&quot;385&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/a/8/3a8f000d47b2a94a6418dada89042911dbe63018_2_690x385.png, https://cdn3.ldstatic.com/optimized/4X/3/a/8/3a8f000d47b2a94a6418dada89042911dbe63018_2_1035x577.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/a/8/3a8f000d47b2a94a6418dada89042911dbe63018_2_1380x770.png 2x&quot; data-dominant-color=&quot;FBFBFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;15 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2272541&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -376,98 +447,6 @@
 &lt;p&gt;消息来源：证监会官网&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;9 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2272294&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Gemini Spark 美区的 Google AI Ultra 订阅已经上线</title>
-      <link>https://linux.do/t/topic/2272227</link>
-      <guid>linux.do-topic-2272227</guid>
-      <pubDate>Sat, 30 May 2026 01:50:59 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/c/e/0ce578870ddab9338f302f10aa0224c76c319723.png&quot; data-download-href=&quot;/uploads/short-url/1Q5mQRkaeog2DJ1DlvbTq66lxUn.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/c/e/0ce578870ddab9338f302f10aa0224c76c319723_2_689x418.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;1Q5mQRkaeog2DJ1DlvbTq66lxUn&quot; width=&quot;689&quot; height=&quot;418&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/c/e/0ce578870ddab9338f302f10aa0224c76c319723_2_689x418.png, https://cdn3.ldstatic.com/optimized/4X/0/c/e/0ce578870ddab9338f302f10aa0224c76c319723_2_1033x627.png 1.5x, https://cdn3.ldstatic.com/original/4X/0/c/e/0ce578870ddab9338f302f10aa0224c76c319723.png 2x&quot; data-dominant-color=&quot;EDEEEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;有订阅的佬友的可以测试下&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2272227&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>敖厂长这就回来了？还一堆人表示原谅</title>
-      <link>https://linux.do/t/topic/2272155</link>
-      <guid>linux.do-topic-2272155</guid>
-      <pubDate>Sat, 30 May 2026 01:32:58 GMT</pubDate>
-      <description>
-            &lt;p&gt;所以互联网确实是没有记忆的是么…这也能回来…&lt;br&gt;
-反正我表示 无法接受&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/b/5/bb5bc2256584061f5f078e535ec1d245ea6b6570.png&quot; data-download-href=&quot;/uploads/short-url/qJrSsA45OOvRdgIP6UpBtFognXG.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/b/5/bb5bc2256584061f5f078e535ec1d245ea6b6570_2_690x211.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;qJrSsA45OOvRdgIP6UpBtFognXG&quot; width=&quot;690&quot; height=&quot;211&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/b/5/bb5bc2256584061f5f078e535ec1d245ea6b6570_2_690x211.png, https://cdn3.ldstatic.com/original/4X/b/b/5/bb5bc2256584061f5f078e535ec1d245ea6b6570.png 1.5x, https://cdn3.ldstatic.com/original/4X/b/b/5/bb5bc2256584061f5f078e535ec1d245ea6b6570.png 2x&quot; data-dominant-color=&quot;262625&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;71 个帖子 - 62 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2272155&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>“MasterDIMM” 一种使用风扇主动降温的 DDR5 内存条</title>
-      <link>https://linux.do/t/topic/2272027</link>
-      <guid>linux.do-topic-2272027</guid>
-      <pubDate>Sat, 30 May 2026 01:01:09 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.tomshardware.com/pc-components/ddr5/cooler-master-is-bringing-active-cooling-to-ddr5-ram-promising-up-to-15-degree-temperature-drops-masterdimm-combines-g-skill-memory-with-a-built-in-fan-kits-run-up-to-128gb&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/6/5/165906915313e532a84d7c47f9a9ebe72d91b76e.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;E8C0C2&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
-
-      &lt;a href=&quot;https://www.tomshardware.com/pc-components/ddr5/cooler-master-is-bringing-active-cooling-to-ddr5-ram-promising-up-to-15-degree-temperature-drops-masterdimm-combines-g-skill-memory-with-a-built-in-fan-kits-run-up-to-128gb&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;03:34PM - 29 May 2026&quot;&gt;Tom&#39;s Hardware – 29 May 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/0/3/a0320c99d4935304f7a89795cca894f71a9dda18_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;7C7570&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.tomshardware.com/pc-components/ddr5/cooler-master-is-bringing-active-cooling-to-ddr5-ram-promising-up-to-15-degree-temperature-drops-masterdimm-combines-g-skill-memory-with-a-built-in-fan-kits-run-up-to-128gb&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Cooler Master is bringing active cooling to DDR5 RAM, promising up to...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Of course, there&#39;s some RGB involved, too.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;Cooler Master 和 G.Skill 将为你带来惊喜。这两家制造商正在合作生产 “MasterDIMM”–一种全新的 DDR5 内存套件，带有主动冷却功能，并承诺温度比传统内存低 15 度。这些内存条采用厚厚的散热片，内置风扇，可模拟某些 GPU 的鼓风机式散热器。目前还没有详细的定价或上市信息，但不难想象，这些专为 &quot;要求苛刻的下一代系统 &quot;而设计的套装将比普通的 DDR5 内存更加昂贵。&lt;/p&gt;
-&lt;p&gt;MasterDIMM 将在几天后的 Computex 2026 上正式亮相，届时我们将期待更多信息。目前，我们知道这些是高端 UDIMM（台式机），将在风格上推动 DDR5 内存的发展。这些内存条的设计非常优雅，采用了黑色和金色相间的美学设计，正面可以看到部分铜制散热片和另一端的风扇。当然，它们比普通 DIMM 稍大，因此主板兼容性还有待观察。&lt;/p&gt;
-&lt;p&gt;顶部有两条 RGB 色带，两侧还有金色装饰，整体看起来与花哨的 M.2 SSD 非常相似。内存本身由 G.Skill 制造，散热器则由 Cooler Master 设计。通过 AMD EXPO，MasterDIMM 在 CL26 延迟条件下的速度可达 6,000 MT/s，在英特尔平台上通过 XMP 3.0，速度可达 8.400 MT/s。通过 64GBx2 配置，最高容量可达 128GB。&lt;/p&gt;
-&lt;p&gt;这两家公司声称，内部的风扇噪音极低，只需 35 分贝就能提供最佳冷却效果。这与图书馆的噪音水平相当。散热片和风扇组合可使温度最高降低 15 摄氏度，如果测试证明属实，这将是一项了不起的改进。请记住，一般来说，DDR5 内存的额定工作温度已高达 95°C，但在大多数情况下，它的温度保持在 70-80°C 之间。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.techpowerup.com/349481/cooler-master-and-g-skill-partner-to-bring-active-cooling-technology-to-ddr5-memory&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/7/a/b7a6e4730a134a0a81cff5ab0c6c63a0919a42ef.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;CA5F5F&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.techpowerup.com/349481/cooler-master-and-g-skill-partner-to-bring-active-cooling-technology-to-ddr5-memory&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;TechPowerUp&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:557/500;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/3/4/e34713ea29da89832b320f4ba3147948d7359d7d_2_557x500.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;C0BDBB&quot; width=&quot;557&quot; height=&quot;500&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.techpowerup.com/349481/cooler-master-and-g-skill-partner-to-bring-active-cooling-technology-to-ddr5-memory&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Cooler Master and G.SKILL Partner to Bring Active Cooling Technology to DDR5...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Cooler Master, a global leader in innovative thermal solutions and PC hardware, today announced a partnership with G.SKILL to introduce new MasterDimm AC DDR5 memory featuring active cooling technology from Cooler Master. MasterDimm AC will be...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2272027&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
