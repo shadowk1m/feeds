@@ -4,7 +4,203 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Mon, 01 Jun 2026 14:28:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 19:27:21 GMT</lastBuildDate>
+    <item>
+      <title>千问3.7plus发布</title>
+      <link>https://linux.do/t/topic/2287996</link>
+      <guid>linux.do-topic-2287996</guid>
+      <pubDate>Mon, 01 Jun 2026 18:26:56 GMT</pubDate>
+      <description>
+            &lt;p&gt;Qwen3.7再进化：全能「多模态」智能体基座&lt;/p&gt;
+&lt;p&gt;今天，Qwen3.7-Plus 正式发布！&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/rocket.png?v=15&quot; title=&quot;:rocket:&quot; class=&quot;emoji&quot; alt=&quot;:rocket:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
+Qwen3.7-Plus 全面升级视觉理解、视觉编码、GUI 操作与真实世界推理能力，同时保持 Coding、工具调用和生产力工作流方面的完整智能体能力，是新一代视觉与语言一体化的智能体基座。Qwen3.7再进化：全能「多模态」智能体基座&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/a/0/3a0113655f257e70bd5ce2eff7610201be450204.jpeg&quot; data-download-href=&quot;/uploads/short-url/8h7ZSHV8Ks77xaHS1O3rqF45BPu.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/a/0/3a0113655f257e70bd5ce2eff7610201be450204.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8h7ZSHV8Ks77xaHS1O3rqF45BPu&quot; width=&quot;690&quot; height=&quot;404&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/7/a/77a900ef79662ed930bebb4511132327536dffba.jpeg&quot; data-download-href=&quot;/uploads/short-url/h4yUgYAOwV8scRHPSEkd0EhxS5A.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/7/a/77a900ef79662ed930bebb4511132327536dffba_2_223x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;h4yUgYAOwV8scRHPSEkd0EhxS5A&quot; width=&quot;223&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/7/a/77a900ef79662ed930bebb4511132327536dffba_2_223x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/7/a/77a900ef79662ed930bebb4511132327536dffba_2_334x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/7/a/77a900ef79662ed930bebb4511132327536dffba_2_446x1000.jpeg 2x&quot; data-dominant-color=&quot;F9F9FA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/7/4/274c862655900d34293570e1f363126407870780.jpeg&quot; data-download-href=&quot;/uploads/short-url/5BEzxNGUko0JLY1LNdSxjOj6j4Y.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/4/274c862655900d34293570e1f363126407870780_2_212x499.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5BEzxNGUko0JLY1LNdSxjOj6j4Y&quot; width=&quot;212&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/4/274c862655900d34293570e1f363126407870780_2_212x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/7/4/274c862655900d34293570e1f363126407870780_2_318x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/7/4/274c862655900d34293570e1f363126407870780_2_424x998.jpeg 2x&quot; data-dominant-color=&quot;F8F7FA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;百炼的api端已经有了&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/0/b/40b5b85e15520ccdb7c09e509399c82c4eaff88c.png&quot; data-download-href=&quot;/uploads/short-url/9erTi7tVwmLV8ZPRuUFMReyuSVS.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/b/40b5b85e15520ccdb7c09e509399c82c4eaff88c_2_525x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9erTi7tVwmLV8ZPRuUFMReyuSVS&quot; width=&quot;525&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/b/40b5b85e15520ccdb7c09e509399c82c4eaff88c_2_525x500.png, https://cdn3.ldstatic.com/optimized/4X/4/0/b/40b5b85e15520ccdb7c09e509399c82c4eaff88c_2_787x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/0/b/40b5b85e15520ccdb7c09e509399c82c4eaff88c_2_1050x1000.png 2x&quot; data-dominant-color=&quot;FBFBFC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287996&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Codex Team可以设置移动端了</title>
+      <link>https://linux.do/t/topic/2287985</link>
+      <guid>linux.do-topic-2287985</guid>
+      <pubDate>Mon, 01 Jun 2026 18:20:05 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/0/a/40a49c9dfb1702c92b90602f285b093da389b5ec.png&quot; data-download-href=&quot;/uploads/short-url/9dReHVe9Hs3cLouq8WM9vt87O9e.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/a/40a49c9dfb1702c92b90602f285b093da389b5ec_2_485x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9dReHVe9Hs3cLouq8WM9vt87O9e&quot; width=&quot;485&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/a/40a49c9dfb1702c92b90602f285b093da389b5ec_2_485x500.png, https://cdn3.ldstatic.com/optimized/4X/4/0/a/40a49c9dfb1702c92b90602f285b093da389b5ec_2_727x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/0/a/40a49c9dfb1702c92b90602f285b093da389b5ec_2_970x1000.png 2x&quot; data-dominant-color=&quot;EEEEEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/2/4/2242836dc6ec17b50e828aed0e6bfc69015421e4.png&quot; data-download-href=&quot;/uploads/short-url/4T4JLXOMdEEbQNuU1KvvOEIMf1G.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/2/4/2242836dc6ec17b50e828aed0e6bfc69015421e4.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;4T4JLXOMdEEbQNuU1KvvOEIMf1G&quot; width=&quot;442&quot; height=&quot;328&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;更新下就有了&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287985&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Claude 额度重置了</title>
+      <link>https://linux.do/t/topic/2287967</link>
+      <guid>linux.do-topic-2287967</guid>
+      <pubDate>Mon, 01 Jun 2026 18:02:18 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/1/b/c1b3a97ee21bff2ab0fcf62974e6e2df5b61bbb3.png&quot; data-download-href=&quot;/uploads/short-url/rDz4IlR2vzZBptXqskHI3Y8cZTd.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b3a97ee21bff2ab0fcf62974e6e2df5b61bbb3_2_690x350.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;rDz4IlR2vzZBptXqskHI3Y8cZTd&quot; width=&quot;690&quot; height=&quot;350&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b3a97ee21bff2ab0fcf62974e6e2df5b61bbb3_2_690x350.png, https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b3a97ee21bff2ab0fcf62974e6e2df5b61bbb3_2_1035x525.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/1/b/c1b3a97ee21bff2ab0fcf62974e6e2df5b61bbb3.png 2x&quot; data-dominant-color=&quot;F2F3F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287967&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>cc 又重置了？是我这边的 bug 还是什么情况？</title>
+      <link>https://linux.do/t/topic/2287952</link>
+      <guid>linux.do-topic-2287952</guid>
+      <pubDate>Mon, 01 Jun 2026 17:49:58 GMT</pubDate>
+      <description>
+            &lt;p&gt;？？？？？？？最近这个 cc 疯狂放水啊&lt;/p&gt;
+&lt;p&gt;不是我的错觉是真重置了&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/1/b/c1b030d66a8b4cc4daf9e3398a39dd5a0113c836.jpeg&quot; data-download-href=&quot;/uploads/short-url/rDrDBu9eJzaEMNBSJ4EPa4EwJqS.jpeg?dl=1&quot; title=&quot;ceee215d48d86c74a09f87aaa7d527e3&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b030d66a8b4cc4daf9e3398a39dd5a0113c836_2_690x206.jpeg&quot; alt=&quot;ceee215d48d86c74a09f87aaa7d527e3&quot; data-base62-sha1=&quot;rDrDBu9eJzaEMNBSJ4EPa4EwJqS&quot; width=&quot;690&quot; height=&quot;206&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b030d66a8b4cc4daf9e3398a39dd5a0113c836_2_690x206.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b030d66a8b4cc4daf9e3398a39dd5a0113c836_2_1035x309.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b030d66a8b4cc4daf9e3398a39dd5a0113c836_2_1380x412.jpeg 2x&quot; data-dominant-color=&quot;141414&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287952&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>MINIMAX捂嘴用户，在飞书群发表意见的用户被踢掉并开启入群认证</title>
+      <link>https://linux.do/t/topic/2287793</link>
+      <guid>linux.do-topic-2287793</guid>
+      <pubDate>Mon, 01 Jun 2026 16:28:54 GMT</pubDate>
+      <description>
+            &lt;p&gt;不多说了，如图，至于为什么维权请看文章： &lt;a href=&quot;https://linux.do/t/topic/2287438&quot;&gt;解读MINIMAX最新公告，各位，minimax飞书群已经把我踢了！闹剧重点不应该在周限额，而是应该在月度限额！！！ - 前沿快讯 - LINUX DO&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/8/a/f8a561558e779d1ecd9e31a86021061578be9ed2.jpeg&quot; data-download-href=&quot;/uploads/short-url/ztCJLpDIoD3OwGqkYa73btpC13k.jpeg?dl=1&quot; title=&quot;c35351f6290bc47bdd48d907a8b5e224&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/a/f8a561558e779d1ecd9e31a86021061578be9ed2_2_224x500.jpeg&quot; alt=&quot;c35351f6290bc47bdd48d907a8b5e224&quot; data-base62-sha1=&quot;ztCJLpDIoD3OwGqkYa73btpC13k&quot; width=&quot;224&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/a/f8a561558e779d1ecd9e31a86021061578be9ed2_2_224x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/8/a/f8a561558e779d1ecd9e31a86021061578be9ed2_2_336x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/8/a/f8a561558e779d1ecd9e31a86021061578be9ed2_2_448x1000.jpeg 2x&quot; data-dominant-color=&quot;919296&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287793&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>minimax补偿方案</title>
+      <link>https://linux.do/t/topic/2287721</link>
+      <guid>linux.do-topic-2287721</guid>
+      <pubDate>Mon, 01 Jun 2026 16:09:06 GMT</pubDate>
+      <description>
+            &lt;p&gt;总结：3月22前的用户无周限 3月22到今天上午10 周限加50% 外加补偿积分&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/4/0/a400f1f5307b71993f69d4adff5827fc1470f36f.png&quot; data-download-href=&quot;/uploads/short-url/noQksZx8yxif4p8U8CtgUr6Zj4j.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/4/0/a400f1f5307b71993f69d4adff5827fc1470f36f.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;noQksZx8yxif4p8U8CtgUr6Zj4j&quot; width=&quot;433&quot; height=&quot;500&quot; data-dominant-color=&quot;454547&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+看到大家说的月限补一下&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/8/8/f887befbe7b4085d67811c9b7fdde64f69c11094.jpeg&quot; data-download-href=&quot;/uploads/short-url/zsBfkfaosKll7lESxKhLdqIYhc8.jpeg?dl=1&quot; title=&quot;9c7a4f138ea1b0a1cfab1731a8695fa4&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/8/f887befbe7b4085d67811c9b7fdde64f69c11094_2_689x449.jpeg&quot; alt=&quot;9c7a4f138ea1b0a1cfab1731a8695fa4&quot; data-base62-sha1=&quot;zsBfkfaosKll7lESxKhLdqIYhc8&quot; width=&quot;689&quot; height=&quot;449&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/8/f887befbe7b4085d67811c9b7fdde64f69c11094_2_689x449.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/8/8/f887befbe7b4085d67811c9b7fdde64f69c11094_2_1033x673.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/f/8/8/f887befbe7b4085d67811c9b7fdde64f69c11094.jpeg 2x&quot; data-dominant-color=&quot;232323&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;16 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287721&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>黄仁勋宣布：与宇树联手 人形机器人由Sharpa、英伟达与宇树共同推出</title>
+      <link>https://linux.do/t/topic/2287710</link>
+      <guid>linux.do-topic-2287710</guid>
+      <pubDate>Mon, 01 Jun 2026 16:07:42 GMT</pubDate>
+      <description>
+            &lt;p&gt;在GTC台北大会上，英伟达CEO黄仁勋宣布，搭载Sharpa Wave的英伟达Isaac GR00T参考人形机器人将正式面向开发者亮相。据了解，此参考人形机器人由Sharpa、英伟达与宇树共同推出，以Isaac GR00T开发平台为底座，将Sharpa的触觉灵巧操作能力、宇树的H2人形机器人本体、英伟达端侧算力与Isaac GR00T开发流程，整合到同一套已验证配置中。&lt;br&gt;
+长三角日报&lt;/p&gt;
+&lt;p&gt;宇树也是抱上大腿了，这下训练速度拉满了吧 无尽算力了&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287710&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>AI 导致裁员的现实与前景！</title>
+      <link>https://linux.do/t/topic/2287508</link>
+      <guid>linux.do-topic-2287508</guid>
+      <pubDate>Mon, 01 Jun 2026 15:30:52 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/e/8/1e88a82dc0a172615ed8ad4ee6c31464a625e01a.jpeg&quot; data-download-href=&quot;/uploads/short-url/4m76PTvld4dyJxpH1JkkCWIwF1U.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/e/8/1e88a82dc0a172615ed8ad4ee6c31464a625e01a_2_374x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;4m76PTvld4dyJxpH1JkkCWIwF1U&quot; width=&quot;374&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/e/8/1e88a82dc0a172615ed8ad4ee6c31464a625e01a_2_374x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/e/8/1e88a82dc0a172615ed8ad4ee6c31464a625e01a_2_561x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/e/8/1e88a82dc0a172615ed8ad4ee6c31464a625e01a_2_748x1000.jpeg 2x&quot; data-dominant-color=&quot;ECEBEB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/9/9/099316f3c0e582062570b9eeb9976ee07ad3e858.jpeg&quot; data-download-href=&quot;/uploads/short-url/1mHqZyYYum2fSkm3213iVqSPv4s.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/9/9/099316f3c0e582062570b9eeb9976ee07ad3e858_2_374x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;1mHqZyYYum2fSkm3213iVqSPv4s&quot; width=&quot;374&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/9/9/099316f3c0e582062570b9eeb9976ee07ad3e858_2_374x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/9/9/099316f3c0e582062570b9eeb9976ee07ad3e858_2_561x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/9/9/099316f3c0e582062570b9eeb9976ee07ad3e858_2_748x1000.jpeg 2x&quot; data-dominant-color=&quot;ECECEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/f/f/2ff946950bb82774f47b283f394f972116d123cc.jpeg&quot; data-download-href=&quot;/uploads/short-url/6QovJAFPT3ldnZasKvCKaNG3dMg.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/f/2ff946950bb82774f47b283f394f972116d123cc_2_374x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6QovJAFPT3ldnZasKvCKaNG3dMg&quot; width=&quot;374&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/f/2ff946950bb82774f47b283f394f972116d123cc_2_374x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/f/f/2ff946950bb82774f47b283f394f972116d123cc_2_561x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/f/f/2ff946950bb82774f47b283f394f972116d123cc_2_748x1000.jpeg 2x&quot; data-dominant-color=&quot;EEECEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/e/7/fe7049d5020978f55ba03d3a0357b3a3eb7ec8c8.jpeg&quot; data-download-href=&quot;/uploads/short-url/AiRQXUwvWrXq2PGNjooVyx0VyBO.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/e/7/fe7049d5020978f55ba03d3a0357b3a3eb7ec8c8_2_374x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;AiRQXUwvWrXq2PGNjooVyx0VyBO&quot; width=&quot;374&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/e/7/fe7049d5020978f55ba03d3a0357b3a3eb7ec8c8_2_374x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/e/7/fe7049d5020978f55ba03d3a0357b3a3eb7ec8c8_2_561x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/e/7/fe7049d5020978f55ba03d3a0357b3a3eb7ec8c8_2_748x1000.jpeg 2x&quot; data-dominant-color=&quot;EAE9E9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/3/8/b38d0b36c5112684a875705b84a8ff72265769d8.jpeg&quot; data-download-href=&quot;/uploads/short-url/pCnEqVQuICL9NJCWX8qdMFQ4x3q.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/3/8/b38d0b36c5112684a875705b84a8ff72265769d8_2_374x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;pCnEqVQuICL9NJCWX8qdMFQ4x3q&quot; width=&quot;374&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/3/8/b38d0b36c5112684a875705b84a8ff72265769d8_2_374x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/3/8/b38d0b36c5112684a875705b84a8ff72265769d8_2_561x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/3/8/b38d0b36c5112684a875705b84a8ff72265769d8_2_748x1000.jpeg 2x&quot; data-dominant-color=&quot;E6E6E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/9/7/29795c1c479c50cc0de521605d79d5a03a4caf8a.jpeg&quot; data-download-href=&quot;/uploads/short-url/5UTAu5ZY1O84lvWsWWEKPgqAYXg.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/9/7/29795c1c479c50cc0de521605d79d5a03a4caf8a_2_374x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5UTAu5ZY1O84lvWsWWEKPgqAYXg&quot; width=&quot;374&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/9/7/29795c1c479c50cc0de521605d79d5a03a4caf8a_2_374x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/9/7/29795c1c479c50cc0de521605d79d5a03a4caf8a_2_561x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/9/7/29795c1c479c50cc0de521605d79d5a03a4caf8a_2_748x1000.jpeg 2x&quot; data-dominant-color=&quot;DFE0DB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/1/c/01c6a1ce2c26ea75e5f28869def1b9499fd0b9c7.jpeg&quot; data-download-href=&quot;/uploads/short-url/fI2LKoqsqy8GrWi2H7rliIcHtR.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/1/c/01c6a1ce2c26ea75e5f28869def1b9499fd0b9c7_2_374x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fI2LKoqsqy8GrWi2H7rliIcHtR&quot; width=&quot;374&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/1/c/01c6a1ce2c26ea75e5f28869def1b9499fd0b9c7_2_374x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/1/c/01c6a1ce2c26ea75e5f28869def1b9499fd0b9c7_2_561x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/1/c/01c6a1ce2c26ea75e5f28869def1b9499fd0b9c7_2_748x1000.jpeg 2x&quot; data-dominant-color=&quot;E9E9E9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/d/b/adb3ecaf3b8db42995ec59c96807a46d12495cb9.jpeg&quot; data-download-href=&quot;/uploads/short-url/oME5vWDHeEa45asxpgdoY0gx9rj.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/d/b/adb3ecaf3b8db42995ec59c96807a46d12495cb9_2_374x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;oME5vWDHeEa45asxpgdoY0gx9rj&quot; width=&quot;374&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/d/b/adb3ecaf3b8db42995ec59c96807a46d12495cb9_2_374x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/d/b/adb3ecaf3b8db42995ec59c96807a46d12495cb9_2_561x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/d/b/adb3ecaf3b8db42995ec59c96807a46d12495cb9_2_748x1000.jpeg 2x&quot; data-dominant-color=&quot;EAE9E9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/6/c/36c661638f6700e6bab731e8f93fe192d965d8c0.png&quot; data-download-href=&quot;/uploads/short-url/7OyOjqtTx4CRcXE1kjZSJ1BlS8M.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/6/c/36c661638f6700e6bab731e8f93fe192d965d8c0_2_333x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;7OyOjqtTx4CRcXE1kjZSJ1BlS8M&quot; width=&quot;333&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/6/c/36c661638f6700e6bab731e8f93fe192d965d8c0_2_333x500.png, https://cdn3.ldstatic.com/optimized/4X/3/6/c/36c661638f6700e6bab731e8f93fe192d965d8c0_2_499x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/6/c/36c661638f6700e6bab731e8f93fe192d965d8c0_2_666x1000.png 2x&quot; data-dominant-color=&quot;E3E3E3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/5/f/35f2e999549aa9c2effb0101fb96c13b12a79aac.png&quot; data-download-href=&quot;/uploads/short-url/7HfK6ednMe70Htfu1FsJo9gYwry.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/f/35f2e999549aa9c2effb0101fb96c13b12a79aac_2_287x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;7HfK6ednMe70Htfu1FsJo9gYwry&quot; width=&quot;287&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/f/35f2e999549aa9c2effb0101fb96c13b12a79aac_2_287x500.png, https://cdn3.ldstatic.com/optimized/4X/3/5/f/35f2e999549aa9c2effb0101fb96c13b12a79aac_2_430x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/5/f/35f2e999549aa9c2effb0101fb96c13b12a79aac_2_574x1000.png 2x&quot; data-dominant-color=&quot;E5E5E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287508&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>以后QQ英文邮箱交易可能要废</title>
+      <link>https://linux.do/t/topic/2287441</link>
+      <guid>linux.do-topic-2287441</guid>
+      <pubDate>Mon, 01 Jun 2026 15:19:30 GMT</pubDate>
+      <description>
+            &lt;p&gt;（话题已被作者删除）&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287441&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>解读MINIMAX最新公告，各位，minimax飞书群已经把我踢了！闹剧重点不应该在周限额，而是应该在月度限额！！！</title>
+      <link>https://linux.do/t/topic/2287438</link>
+      <guid>linux.do-topic-2287438</guid>
+      <pubDate>Mon, 01 Jun 2026 15:18:26 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/3/8/438a41cf6e659484c43ec0106eace185074947a1.png&quot; data-download-href=&quot;/uploads/short-url/9DucHKqawh87isiAxI2LaasRE0F.png?dl=1&quot; title=&quot;188fda382116da974170fed643ababee&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/3/8/438a41cf6e659484c43ec0106eace185074947a1.png&quot; alt=&quot;188fda382116da974170fed643ababee&quot; data-base62-sha1=&quot;9DucHKqawh87isiAxI2LaasRE0F&quot; width=&quot;690&quot; height=&quot;457&quot; data-dominant-color=&quot;EBEBEB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;你们闹得太大了，我们被迫来道个歉&lt;/li&gt;
+&lt;li&gt;M3更大计算成本更高更好用，你们先体验一下&lt;/li&gt;
+&lt;li&gt;后续token plan的调整就这么定了，你们既然只关注5小时限额和周限额，那套餐总额度我就不管了&lt;/li&gt;
+&lt;li&gt;6.1日到6.7日的5小时额度和周限额双倍，并且今晚重置总额度，重置完之后你们就赶紧用，用完就别说退款了&lt;/li&gt;
+&lt;li&gt;啥时候再有调整啥时候再说，现在就先这么滴了&lt;br&gt;
+但是实际上minimax的tokenplan最大的变化是以前的算请求次数变成了现在的总token 额度，同时5小时限额和周限额也是限制了token的使用数量，由于计费逻辑变化造成的用户损失，只字未提&lt;/li&gt;
+&lt;/ol&gt;
+            &lt;p&gt;&lt;small&gt;57 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287438&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>英伟达的AIPC不是今天发布会吗？怎么刷了2 3小时短视频都没人“科普”？</title>
+      <link>https://linux.do/t/topic/2287390</link>
+      <guid>linux.do-topic-2287390</guid>
+      <pubDate>Mon, 01 Jun 2026 15:11:07 GMT</pubDate>
+      <description>
+            &lt;p&gt;一般发布个新模型、新手机，&lt;br&gt;
+自媒体一般都提早做好准备，发布会一过就“万字拆解”和“体验评测”了，&lt;br&gt;
+怎么这次影响所有人的AI PC的英伟达，自研CPU+GPU的机器，没人讲解啊。&lt;br&gt;
+刷几小时视频都没刷到讲个大概的。&lt;br&gt;
+是真的很强，还是跟那台3万块的英伟达砖头机一样？&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/9/2/592cd5222e35331393b4c01929275f39b10cbdcc.jpeg&quot; data-download-href=&quot;/uploads/short-url/cISxZaA69EFnHGRkUMjQc6BUafO.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/9/2/592cd5222e35331393b4c01929275f39b10cbdcc_2_690x388.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cISxZaA69EFnHGRkUMjQc6BUafO&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/9/2/592cd5222e35331393b4c01929275f39b10cbdcc_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/9/2/592cd5222e35331393b4c01929275f39b10cbdcc_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/9/2/592cd5222e35331393b4c01929275f39b10cbdcc_2_1380x776.jpeg 2x&quot; data-dominant-color=&quot;252F1F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;21 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287390&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>理想汽车一季度亏损23亿元 毛利率跌至上市以来最低水平</title>
+      <link>https://linux.do/t/topic/2287284</link>
+      <guid>linux.do-topic-2287284</guid>
+      <pubDate>Mon, 01 Jun 2026 14:53:13 GMT</pubDate>
+      <description>
+            &lt;p&gt;026年一季度，理想汽车销量同比上涨2.5%，增至9.5万辆。由于销量主力产品的售价较低，理想汽车同期营收下滑11.4%，跌至230亿元。5月28日，理想汽车（NASDAQ：LI）发布一季度财报，披露上述数据。&lt;/p&gt;
+&lt;p&gt;理想汽车是国内头部造车新势力，率先于2023年实现全年盈利。但2025年，该公司出现营业亏损，依靠利息等其他收入才维持了全年盈利。2026年一季度，理想汽车全面由盈转亏，净亏损额度达23亿元，毛利率也跌至7.9%，是其上市以来最低水平。&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.caixin.com/2026-05-29/102449030.html&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://www.caixin.com/2026-05-29/102449030.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;caixin.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:560/373;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/8/5/1/851072f121e76db0cd0f13b9ec70fcfda886edb5.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;877F76&quot; width=&quot;560&quot; height=&quot;373&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.caixin.com/2026-05-29/102449030.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;理想汽车一季度亏损23亿元 毛利率跌至上市以来最低水平&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;主要造车新势力在一季度出现集体亏损，其中理想汽车净亏损额度最高&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287284&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>「慢讯」MiniMax 专坑国人</title>
       <link>https://linux.do/t/topic/2286885</link>
@@ -33,12 +229,12 @@
 &lt;strong&gt;不过好像也道歉不了喔，国内 ultra 是8.5RMB / 亿 tokens，国外 ultra是 8.27RMB/亿 tokens，而且 api 价格也是国外更便宜，还是专坑国人&lt;/strong&gt;&lt;br&gt;
 早点全开了你们运营吧&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/4/e/64e597f63492dd024a054b869cc8132c2566b6d3.jpeg&quot; data-download-href=&quot;/uploads/short-url/eozEf0t7U7LcczV2yA5D7KIndth.jpeg?dl=1&quot; title=&quot;PixPin2026-06-0121-53-31&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/4/e/64e597f63492dd024a054b869cc8132c2566b6d3_2_345x104.jpeg&quot; alt=&quot;PixPin2026-06-0121-53-31&quot; data-base62-sha1=&quot;eozEf0t7U7LcczV2yA5D7KIndth&quot; width=&quot;345&quot; height=&quot;104&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/4/e/64e597f63492dd024a054b869cc8132c2566b6d3_2_345x104.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/4/e/64e597f63492dd024a054b869cc8132c2566b6d3_2_517x156.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/4/e/64e597f63492dd024a054b869cc8132c2566b6d3_2_690x208.jpeg 2x&quot; data-dominant-color=&quot;D2CAC9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;19 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;38 个帖子 - 32 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2286885&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
-      <title>115网盘风控加强，严重违规将封号！</title>
+      <title>115网盘风控加强，严重违规将封号</title>
       <link>https://linux.do/t/topic/2286822</link>
       <guid>linux.do-topic-2286822</guid>
       <pubDate>Mon, 01 Jun 2026 13:37:00 GMT</pubDate>
@@ -62,8 +258,32 @@
 &lt;p&gt;佬友太惨了，我还是第一次见115被封，这样的话要是永会被封岂不是亏死 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/melting_face.png?v=15&quot; title=&quot;:melting_face:&quot; class=&quot;emoji&quot; alt=&quot;:melting_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/aside&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/6/5/b65bbc58b4dd2e3559a4469b97f577afaac2f0b8.jpeg&quot; data-download-href=&quot;/uploads/short-url/q1drr1peuHWDqNf2bWAQQV9kpDi.jpeg?dl=1&quot; title=&quot;Screenshot2026-06-01-21-25-01-18&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/6/5/b65bbc58b4dd2e3559a4469b97f577afaac2f0b8_2_56x499.jpeg&quot; alt=&quot;Screenshot2026-06-01-21-25-01-18&quot; data-base62-sha1=&quot;q1drr1peuHWDqNf2bWAQQV9kpDi&quot; width=&quot;56&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/6/5/b65bbc58b4dd2e3559a4469b97f577afaac2f0b8_2_56x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/6/5/b65bbc58b4dd2e3559a4469b97f577afaac2f0b8_2_84x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/6/5/b65bbc58b4dd2e3559a4469b97f577afaac2f0b8_2_112x998.jpeg 2x&quot; data-dominant-color=&quot;E4E4E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;21 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;原文：&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://community.115.com/wap/topic?gid=115&amp;tid=967854&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://community.115.com/wap/topic?gid=115&amp;tid=967854&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;community.115.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://community.115.com/wap/topic?gid=115&amp;tid=967854&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;关于严厉打击违规及非法利用115生活服务行为的公告&lt;/a&gt;&lt;/h3&gt;
+
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;截图：&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/6/5/b65bbc58b4dd2e3559a4469b97f577afaac2f0b8.jpeg&quot; data-download-href=&quot;/uploads/short-url/q1drr1peuHWDqNf2bWAQQV9kpDi.jpeg?dl=1&quot; title=&quot;Screenshot2026-06-01-21-25-01-18&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/6/5/b65bbc58b4dd2e3559a4469b97f577afaac2f0b8_2_56x499.jpeg&quot; alt=&quot;Screenshot2026-06-01-21-25-01-18&quot; data-base62-sha1=&quot;q1drr1peuHWDqNf2bWAQQV9kpDi&quot; width=&quot;56&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/6/5/b65bbc58b4dd2e3559a4469b97f577afaac2f0b8_2_56x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/6/5/b65bbc58b4dd2e3559a4469b97f577afaac2f0b8_2_84x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/6/5/b65bbc58b4dd2e3559a4469b97f577afaac2f0b8_2_112x998.jpeg 2x&quot; data-dominant-color=&quot;E4E4E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;26 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2286822&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -82,7 +302,7 @@
 &lt;/ul&gt;
 &lt;p&gt;欢迎各位佬友来为你中意的模型留下印记&lt;br&gt;
 也可以在下方回帖讨论一下，帮我顶顶帖子qwq&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2286329&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -94,7 +314,7 @@
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/b/5/6b50e1e6e8c94ea631430e1f1a0a17fae6fe642b.png&quot; data-download-href=&quot;/uploads/short-url/fjmnvqIuBxop3lOiNIok4UBdtML.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/b/5/6b50e1e6e8c94ea631430e1f1a0a17fae6fe642b_2_329x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fjmnvqIuBxop3lOiNIok4UBdtML&quot; width=&quot;329&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/b/5/6b50e1e6e8c94ea631430e1f1a0a17fae6fe642b_2_329x500.png, https://cdn3.ldstatic.com/optimized/4X/6/b/5/6b50e1e6e8c94ea631430e1f1a0a17fae6fe642b_2_493x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/b/5/6b50e1e6e8c94ea631430e1f1a0a17fae6fe642b_2_658x1000.png 2x&quot; data-dominant-color=&quot;EAECEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 这个模型应该是英伟达自己弄得最大的模型了，看分数其实智能水平还不错，而且300tps以上的输出速度，就是不知道用来coding怎么样，上一个super之前opencode有免费试用，可惜才128B，只能说勉强做点简单任务，这个如果速度快的话可以试试，说不定能代替minimax2.7的生态位。&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2286285&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -105,7 +325,7 @@
       <pubDate>Mon, 01 Jun 2026 12:06:58 GMT</pubDate>
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/3/4/d3421194f45bc4359d2045c5a7765756cc2c088e.jpeg&quot; data-download-href=&quot;/uploads/short-url/u8SiszOoNGNsPpkwOj1I2XNUd7U.jpeg?dl=1&quot; title=&quot;cd7686f4eb3ef09d331693aae2ed546d&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/3/4/d3421194f45bc4359d2045c5a7765756cc2c088e_2_230x500.jpeg&quot; alt=&quot;cd7686f4eb3ef09d331693aae2ed546d&quot; data-base62-sha1=&quot;u8SiszOoNGNsPpkwOj1I2XNUd7U&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/3/4/d3421194f45bc4359d2045c5a7765756cc2c088e_2_230x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/3/4/d3421194f45bc4359d2045c5a7765756cc2c088e_2_345x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/3/4/d3421194f45bc4359d2045c5a7765756cc2c088e_2_460x1000.jpeg 2x&quot; data-dominant-color=&quot;2E2E2E&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;41 个帖子 - 36 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;44 个帖子 - 39 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2286282&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -236,7 +456,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285699&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -275,7 +495,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;15 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;16 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285635&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -311,281 +531,6 @@
 &lt;p&gt;Meta 官方随后表示目前已紧急修复该漏洞。发言人强调，公司的后端系统并未遭到入侵，目前用户的 Instagram 账号是安全的。知名链上侦探 ZachXBT 严厉批评 Meta 的 AI 客服系统设计极其粗糙，不仅权限配置不当，还让黑客轻易绕过了基本的安全验证程序。&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285511&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>天塌了, codex 免费账号, 周重置额度 改成按月了 ???</title>
-      <link>https://linux.do/t/topic/2285496</link>
-      <guid>linux.do-topic-2285496</guid>
-      <pubDate>Mon, 01 Jun 2026 09:28:34 GMT</pubDate>
-      <description>
-            &lt;p&gt;免费账号之前是每周重置额度, 也没发现官博或X之类的发布这个规则啊&lt;br&gt;
-佬友们也是这样吗 ?&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/1/d/e1d668950bd5a5e5c024f2f19096bcda8678f0e8.png&quot; data-download-href=&quot;/uploads/short-url/wdQNxl2Ny4ZCUlHjtnMZPOkJDa8.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/1/d/e1d668950bd5a5e5c024f2f19096bcda8678f0e8_2_501x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wdQNxl2Ny4ZCUlHjtnMZPOkJDa8&quot; width=&quot;501&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/1/d/e1d668950bd5a5e5c024f2f19096bcda8678f0e8_2_501x500.png, https://cdn3.ldstatic.com/original/4X/e/1/d/e1d668950bd5a5e5c024f2f19096bcda8678f0e8.png 1.5x, https://cdn3.ldstatic.com/original/4X/e/1/d/e1d668950bd5a5e5c024f2f19096bcda8678f0e8.png 2x&quot; data-dominant-color=&quot;323232&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285496&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>MiniMax Token Plan 变更公告：老用户M2.7 次数不缩水 M3 共享额度池 无周限老用户继续无周限畅享M2.7</title>
-      <link>https://linux.do/t/topic/2285439</link>
-      <guid>linux.do-topic-2285439</guid>
-      <pubDate>Mon, 01 Jun 2026 09:20:20 GMT</pubDate>
-      <description>
-            &lt;p&gt;官方公告：&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://platform.minimaxi.com/docs/token-plan/migration&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/1/d/b1dfac954d1e1f27dfb9eaa5ab2748b87fe84f22.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;F35C78&quot; width=&quot;192&quot; height=&quot;192&quot;&gt;
-
-      &lt;a href=&quot;https://platform.minimaxi.com/docs/token-plan/migration&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;MiniMax 开放平台文档中心&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/5/2/d52a3ec504d0f6bfada021a820aefd0b075096ff.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;F2536F&quot; width=&quot;300&quot; height=&quot;300&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://platform.minimaxi.com/docs/token-plan/migration&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Token Plan 升级公告：M3 上线 · 老用户权益完整保留 - MiniMax 开放平台文档中心&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;MiniMax 成立于 2021 年 12 月，是领先的通用人工智能科技公司，致力于与用户共创智能。MiniMax 自主研发多模态、万亿参数的 MoE 大模型，并基于大模型推出海螺AI、星野等原生应用。MiniMax API 开放平台提供安全、灵活、可靠的 API 服务，助力企业和开发者快速搭建 AI 应用。&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;h1&gt;&lt;a name=&quot;p-18514281-token-plan-m3-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18514281-token-plan-m3-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;Token Plan 升级公告：M3 上线 · 老用户权益完整保留&lt;/h1&gt;
-&lt;p&gt;各位 Token Plan 老用户：&lt;/p&gt;
-&lt;p&gt;随着 M3 上线，我们对 Token Plan 做了一次升级。&lt;strong&gt;核心承诺：你原有的 M2.7 使用权益不会缩水，并且现在可以无缝使用 M3。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18514281-plus-max-2&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18514281-plus-max-2&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;一、Plus / Max 档用户&lt;/h2&gt;
-&lt;p&gt;价格不变，签约价继续生效。新方案下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;M2.7 的 5 小时使用次数 +10%&lt;/strong&gt;（不会变少）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;新增 M3 的使用权限&lt;/strong&gt;，与 M2.7 共享同一份额度池&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;新增多模态权益&lt;/strong&gt;：图像、语音、音乐都可在同一份额度内调用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;当前自动切换，无需任何操作。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18514281-starter-29-plus-98-3&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18514281-starter-29-plus-98-3&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;二、Starter ¥29 / Plus-极速 ¥98（保留档）&lt;/h2&gt;
-&lt;p&gt;这两档继续保留，&lt;strong&gt;价格和签约关系不变&lt;/strong&gt;，但&lt;strong&gt;仅对老用户开放&lt;/strong&gt;——新方案上线后不再对新用户售卖。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;M2.7 的使用次数&lt;strong&gt;约增加 10%&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;新增 M3 使用权限和多模态额度，与 M2.7 共享同一份额度池&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;温馨提示&lt;/strong&gt;：这两档为老用户专属保留档，建议保持订阅状态以延续当前权益；若中途断订，后续将无法再次订阅同档套餐。&lt;/p&gt;
-&lt;p&gt;当前自动切换，无需任何操作。&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18514281-max-199-ultra-899-4&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18514281-max-199-ultra-899-4&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;三、停售档位用户（Max-极速 ¥199 / Ultra-极速 ¥899）&lt;/h2&gt;
-&lt;p&gt;这两档将停售。我们提供了&lt;strong&gt;月费下降但权益不缩水&lt;/strong&gt;的迁移方案：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Max-极速 ¥199 → 新 Max ¥119&lt;/strong&gt;:月费下调 ¥80，每月额外补发&lt;strong&gt;价值约 ¥160 的积分&lt;/strong&gt;用于覆盖差价，叠加多模态权益&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ultra-极速 ¥899 → 新 Ultra ¥469&lt;/strong&gt;:月费下调 ¥430，每月额外补发&lt;strong&gt;价值约 ¥860 的积分&lt;/strong&gt;用于覆盖差价，含每日 5 条视频额度&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;下个续费日自动转入新档，你也可以主动选择其他档位或退订。&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18514281-h-5&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18514281-h-5&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;四、年包用户&lt;/h2&gt;
-&lt;p&gt;已付费月份的权益保护原则：&lt;strong&gt;M2.7 次数不缩水 + 多模态权益全部保留&lt;/strong&gt;，年付折扣率延续。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;停售档年包（Max-极速年包 / Ultra-极速年包）&lt;/strong&gt;:差价补偿不会一次性发放，而是&lt;strong&gt;按订阅时间每月独立补发等值积分&lt;/strong&gt;（每月独立有效期 1 个月，不滚存），确保整年权益不缩水。&lt;/p&gt;
-&lt;p&gt;举例说明：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Ultra-极速 ¥899/月 年包（剩余 8 个月）&lt;/strong&gt;:每月按订阅日切到新 Ultra ¥469 权益，并&lt;strong&gt;每月补发价值约 ¥860 的积分&lt;/strong&gt;（¥430 差价 ×2），连续补 8 个月，至年包到期日。年包到期后按新 Ultra ¥469 年付价自动续约，可继续享年付折扣。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Max-极速 ¥199/月 年包（剩余 6 个月）&lt;/strong&gt;:每月按订阅日切到新 Max ¥119 权益，并&lt;strong&gt;每月补发价值约 ¥160 的积分&lt;/strong&gt;（¥80 差价 ×2），连续补 6 个月。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18514281-ultra-469-6&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18514281-ultra-469-6&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;五、新增 Ultra ¥469 重度档&lt;/h2&gt;
-&lt;p&gt;填补 ¥199 与 ¥899 之间的空缺，适合重度 agentic 用户。月度容量约 55 亿 token，含每日 5 条视频生成额度。&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18514281-h-7&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18514281-h-7&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;六、关于「周发放」机制&lt;/h2&gt;
-&lt;p&gt;新方案统一为「按周发放 / 周清零」（月订阅总量不变，每周一刷新一次）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;对原本没有周限额的老用户（月度池机制）&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;M2.7 继续保持无周限额&lt;/strong&gt;：即便看板上显示周额度已达 100%，您仍可继续正常使用 M2.7，体验与原月度池一致。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;M3 受新方案的周限额约束&lt;/strong&gt;：M3 的使用会按周清零，每周一刷新。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;考虑到这部分用户在 M3 上首次接触周限额机制有适应期，我们对所有原月度池档位用户&lt;strong&gt;一次性额外补发 2 个月月费等值的积分&lt;/strong&gt;作为切换适应额度。&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18514281-h-8&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18514281-h-8&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;七、关于积分使用说明&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;1,000 积分 = ¥7&lt;/strong&gt;（与 API 按量付费 1:1 等价，无加价）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;MiniMax 开放平台所有模型均可使用&lt;/strong&gt;，按各模型 API 按量付费刊例价实时扣减&lt;/li&gt;
-&lt;li&gt;跨模态共享：文本、图像、语音、音乐、视频（部分档位）均从同一份积分池消耗&lt;/li&gt;
-&lt;/ul&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285439&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>xAI招募中文AI导师训练Grok，时薪最高超300元，可远程工作</title>
-      <link>https://linux.do/t/topic/2285423</link>
-      <guid>linux.do-topic-2285423</guid>
-      <pubDate>Mon, 01 Jun 2026 09:18:24 GMT</pubDate>
-      <description>
-            &lt;p&gt;应征门槛方面，申请人必须具备母语级别的中文能力，并熟悉不同的口音、方言或地区用语差异；同时需具备B2级别或以上的英语水平，能够提供自然清晰的录音。&lt;/p&gt;
-&lt;p&gt;6月1日，马斯克旗下xAI在其官方招聘网站上发布招聘信息，聘请中文AI导师(AI Tutor - Chinese)。该职位主打全球远程工作模式，主要协助训练及优化AI模型Grok的语音互动及多语言处理能力。据招聘资料显示，美国地区入职者时薪介乎35至45美元(约237至304元人民币)，视乎经验及学历等因素而定，而国际应征者的薪酬待遇则会于招聘过程中落实。&lt;/p&gt;
-&lt;p&gt;应征门槛方面，申请人必须具备母语级别的中文能力，并熟悉不同的口音、方言或地区用语差异；同时需具备B2级别或以上的英语水平，能够提供自然清晰的录音。职位对听觉敏锐度及理解能力要求极高，员工需能在复杂或带有噪音的音频中作出独立且准确的判断，并具备高水平的转录能力。若应征者具备语言学、语音科学等背景，或拥有语音数据库及AI训练数据的处理经验，将获优先考虑。曾从事配音、广播或播客等专业语音工作者亦具备优势。&lt;br&gt;
-（来源：财闻）&lt;/p&gt;
-&lt;p&gt;老马路走宽了啊 联想起之前奥特曼招新加坡员工要求会中文 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/joy.png?v=15&quot; title=&quot;:joy:&quot; class=&quot;emoji&quot; alt=&quot;:joy:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285423&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>minimax老套餐改为m3模型有周限制 2.7模型无周限制</title>
-      <link>https://linux.do/t/topic/2285405</link>
-      <guid>linux.do-topic-2285405</guid>
-      <pubDate>Mon, 01 Jun 2026 09:15:50 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/9/8/4984fc9a2441a59e37b19494f2db10e86ec0423c.jpeg&quot; data-download-href=&quot;/uploads/short-url/aunMeYXn9ktOuFDgh9GrEvvhlEM.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-01-17-10-41-74_40deb401b9ffe8e1df2f1cc5ba480b12&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/9/8/4984fc9a2441a59e37b19494f2db10e86ec0423c_2_379x500.jpeg&quot; alt=&quot;Screenshot_2026-06-01-17-10-41-74_40deb401b9ffe8e1df2f1cc5ba480b12&quot; data-base62-sha1=&quot;aunMeYXn9ktOuFDgh9GrEvvhlEM&quot; width=&quot;379&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/9/8/4984fc9a2441a59e37b19494f2db10e86ec0423c_2_379x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/9/8/4984fc9a2441a59e37b19494f2db10e86ec0423c_2_568x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/9/8/4984fc9a2441a59e37b19494f2db10e86ec0423c_2_758x1000.jpeg 2x&quot; data-dominant-color=&quot;EBEBEB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;说实话没看懂什么意思，m3消耗周限制额度我可以理解，2.7是不是也会消耗周限制额度？最好的办法是不是等m3把周限制额度用完了再去使用2.7的额度？&lt;/p&gt;
-&lt;p&gt;写这个的人又是没经过审核的，建议表述改为：老套餐2.7和m3模型会消耗五小时额度，但2.7模型的额度消耗将不计入周限制额度消耗里面，这样才合理吧，当然不排除就是另外的意思，2.7模型照样消耗周限制额度。。。&lt;/p&gt;
-&lt;p&gt;看这个趋势老套餐用户这辈子只能守住自己的2.7 2.5模型了，新模型是不可能给你无限用的 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/rofl.png?v=15&quot; title=&quot;:rofl:&quot; class=&quot;emoji&quot; alt=&quot;:rofl:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-&lt;p&gt;智谱都给你们打样了，还有样学样，社区风评烂完了吧，模型本来水平就是一般还这样&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285405&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>英伟达RTX Spark 处理器的笔记本能跑120b的大模型?</title>
-      <link>https://linux.do/t/topic/2285279</link>
-      <guid>linux.do-topic-2285279</guid>
-      <pubDate>Mon, 01 Jun 2026 08:56:21 GMT</pubDate>
-      <description>
-            &lt;p&gt;现在这么恐怖了吗？120b的大模型，我们这里内部部署的华为的八卡910b 部署Ds r1 70b当时花了上百万啊，不太懂硬件的感觉现在英伟达也太逆天了吧&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;25 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285279&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>codex似乎又重置额度了</title>
-      <link>https://linux.do/t/topic/2285181</link>
-      <guid>linux.do-topic-2285181</guid>
-      <pubDate>Mon, 01 Jun 2026 08:43:24 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/9/c/79c170e658b6bf1f30d8c4901a4dd70594fb4ddf.png&quot; data-download-href=&quot;/uploads/short-url/hn6dBk6qf4ZLj0CMcfs0IoiMZhJ.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/9/c/79c170e658b6bf1f30d8c4901a4dd70594fb4ddf_2_690x324.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;hn6dBk6qf4ZLj0CMcfs0IoiMZhJ&quot; width=&quot;690&quot; height=&quot;324&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/9/c/79c170e658b6bf1f30d8c4901a4dd70594fb4ddf_2_690x324.png, https://cdn3.ldstatic.com/optimized/4X/7/9/c/79c170e658b6bf1f30d8c4901a4dd70594fb4ddf_2_1035x486.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/9/c/79c170e658b6bf1f30d8c4901a4dd70594fb4ddf_2_1380x648.png 2x&quot; data-dominant-color=&quot;F5FBF7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/7/3/373c063b9acac70cb21ed2fec53d4930bb76db87.png&quot; data-download-href=&quot;/uploads/short-url/7SCRteNy73PHZ5oVJqBCteKjOF9.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/7/3/373c063b9acac70cb21ed2fec53d4930bb76db87.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;7SCRteNy73PHZ5oVJqBCteKjOF9&quot; width=&quot;283&quot; height=&quot;119&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-我上午还蹬了一会 看到周限是98 现在应该是又重置啦&lt;br&gt;
-奥特曼 蒸蚌！&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;怎么五小时限制的到期时间点又变了&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/9/0/f9074fcbcc816d5cad08674140925ab2342c8aad.png&quot; data-download-href=&quot;/uploads/short-url/zx0yqW0btEVnxoJEyDjoci2TIAt.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/9/0/f9074fcbcc816d5cad08674140925ab2342c8aad.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zx0yqW0btEVnxoJEyDjoci2TIAt&quot; width=&quot;274&quot; height=&quot;124&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;21 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285181&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>minimax 的官方ai客服会给退款链接</title>
-      <link>https://linux.do/t/topic/2285121</link>
-      <guid>linux.do-topic-2285121</guid>
-      <pubDate>Mon, 01 Jun 2026 08:33:53 GMT</pubDate>
-      <description>
-            &lt;p&gt;在控制台里面可以看到有一个在线咨询，发送“退款”会给对应的飞书退款链接&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/8/c/e8cb454bf3ccb99b05563e775caff3a8e0e6a51f.png&quot; data-download-href=&quot;/uploads/short-url/xdohgTElJokc3JnUpavhD9Uuc59.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/8/c/e8cb454bf3ccb99b05563e775caff3a8e0e6a51f_2_690x177.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xdohgTElJokc3JnUpavhD9Uuc59&quot; width=&quot;690&quot; height=&quot;177&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/8/c/e8cb454bf3ccb99b05563e775caff3a8e0e6a51f_2_690x177.png, https://cdn3.ldstatic.com/optimized/4X/e/8/c/e8cb454bf3ccb99b05563e775caff3a8e0e6a51f_2_1035x265.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/8/c/e8cb454bf3ccb99b05563e775caff3a8e0e6a51f_2_1380x354.png 2x&quot; data-dominant-color=&quot;FEFCFC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/3/a/53aa518a7380e06ac4d4428171e3cc36e62d61c8.png&quot; data-download-href=&quot;/uploads/short-url/bW8xdzZt5gasuEdPgQh0wKlI4Y0.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/a/53aa518a7380e06ac4d4428171e3cc36e62d61c8_2_633x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bW8xdzZt5gasuEdPgQh0wKlI4Y0&quot; width=&quot;633&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/a/53aa518a7380e06ac4d4428171e3cc36e62d61c8_2_633x500.png, https://cdn3.ldstatic.com/original/4X/5/3/a/53aa518a7380e06ac4d4428171e3cc36e62d61c8.png 1.5x, https://cdn3.ldstatic.com/original/4X/5/3/a/53aa518a7380e06ac4d4428171e3cc36e62d61c8.png 2x&quot; data-dominant-color=&quot;E6EBEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285121&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>ClawCloud VPS 及 VDS 相关服务下线</title>
-      <link>https://linux.do/t/topic/2285107</link>
-      <guid>linux.do-topic-2285107</guid>
-      <pubDate>Mon, 01 Jun 2026 08:32:21 GMT</pubDate>
-      <description>
-            &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;尊敬的 ClawCloud 用户，&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;感谢您一直以来对 ClawCloud 的支持与信任。经过审慎的业务评估与战略调整，我们非常遗憾地通知您，ClawCloud 将于 &lt;strong&gt;2026年6月30日&lt;/strong&gt; 起，正式关停 VPS、VDS 及相关托管业务。&lt;/p&gt;
-&lt;p&gt;为了将对您的业务影响降至最低，我们制定了详细的 30 天安置及退款计划。请您务必仔细阅读以下时间节点与操作指引：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一、 关键时间节点&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2026年6月1日：停止新购与服务变更&lt;/strong&gt; 我们将于本日起关闭相关产品的新用户注册、新购、续费以及升级服务入口。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2026年6月1日至6月30日：迁移与退款窗口期&lt;/strong&gt; 请在此期间内尽快完成您的数据备份与业务迁移。同时，符合条件的用户可通过工单系统提交退款申请。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2026年6月30日 24:00：服务正式关停&lt;/strong&gt; 届时，所有涉及下线的服务器实例将被强制关停，数据将被永久销毁，退款申请入口将同步关闭。&lt;strong&gt;请务必在此之前完成数据导出&lt;/strong&gt;，ClawCloud 对关停后未迁移导致的数据丢失不承担相关责任。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;二、 退款政策与处理指引&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;针对预付费且账户内有剩余可用时长的用户，我们将按照“剩余时间比例”处理退款。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;退款规则及限制：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;原路退回原则&lt;/strong&gt;：受限于支付网关规定，所有退款仅能退回至您进行该笔订单支付时的原始付款方式。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;转移实例退款限制&lt;/strong&gt;：若您的服务器实例是通过“账户转移”功能获取，且在转移后您的账户未对该实例进行过任何续费或实际支付操作，该实例将不支持在当前账户下申请退款。由于系统无法针对无支付记录的订单主动打款，不符合原路退回条件的申请将被拒绝。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;手续费说明&lt;/strong&gt;：本次退款不收取处理手续费。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;三、 下一步操作（退款工单提交规范）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;请尽快登录 ClawCloud 控制台，评估您的实例状态。如需申请退款，请在 &lt;strong&gt;6月30日&lt;/strong&gt; 前通过控制台提交工单。为保证您的退款能够被快速核实并处理，&lt;strong&gt;请务必遵守以下工单规范：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;明确工单标题&lt;/strong&gt;：请在工单标题中务必包含“&lt;strong&gt;退款&lt;/strong&gt;”字样。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;精准关联实例&lt;/strong&gt;：请在提交时，选择并正确关联您需要申请退款的服务器实例。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;一机一单原则&lt;/strong&gt;：如果您有多台服务器需要申请退款，&lt;strong&gt;请务必为每一台服务器单独发起一个工单&lt;/strong&gt;。请勿在一个工单中合并申请多台服务器的退款。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;如果您在数据迁移或退款申请过程中遇到任何其他阻碍，请随时联系我们的客户支持团队。&lt;/p&gt;
-&lt;p&gt;对此次服务调整给您带来的不便，我们深表歉意，并再次感谢您对 ClawCloud 的理解与配合。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ClawCloud 团队&lt;/strong&gt; &lt;strong&gt;2026年6月1日&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;相关链接：&lt;a href=&quot;https://claw.cloud/announcements/38?language=chinese-simplified&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;【重要通知】ClawCloud VPS、VDS 及相关服务下线及退款安置公告 - CLAWCLOUD&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285107&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>gpt free 周限变成月限！将何去何从</title>
-      <link>https://linux.do/t/topic/2285008</link>
-      <guid>linux.do-topic-2285008</guid>
-      <pubDate>Mon, 01 Jun 2026 08:18:34 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/d/2/ad294e122272ab10d7743e3b5c955f97b9b16d14.png&quot; data-download-href=&quot;/uploads/short-url/oHR64c3CNJdYanl2h0XMoucSD4M.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/d/2/ad294e122272ab10d7743e3b5c955f97b9b16d14.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;oHR64c3CNJdYanl2h0XMoucSD4M&quot; width=&quot;502&quot; height=&quot;220&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-free 周限变成月限！将何去何从&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;34 个帖子 - 24 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285008&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Codex free 账号疑似改成月刷新额度了，测试下来月额度与之前的周额度基本差不多！</title>
-      <link>https://linux.do/t/topic/2284962</link>
-      <guid>linux.do-topic-2284962</guid>
-      <pubDate>Mon, 01 Jun 2026 08:11:38 GMT</pubDate>
-      <description>
-            &lt;p&gt;Codex free 账号疑似改成月刷新额度了！刷新时间显示为 7.1 刷新&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/e/b/eeb0779047f98da5dfc2be39248633ef99694d59.png&quot; data-download-href=&quot;/uploads/short-url/y3xIrDETQDHms17aSN74UEIzCgV.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/e/b/eeb0779047f98da5dfc2be39248633ef99694d59_2_690x248.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;y3xIrDETQDHms17aSN74UEIzCgV&quot; width=&quot;690&quot; height=&quot;248&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/e/b/eeb0779047f98da5dfc2be39248633ef99694d59_2_690x248.png, https://cdn3.ldstatic.com/optimized/4X/e/e/b/eeb0779047f98da5dfc2be39248633ef99694d59_2_1035x372.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/e/b/eeb0779047f98da5dfc2be39248633ef99694d59_2_1380x496.png 2x&quot; data-dominant-color=&quot;F1F7F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-测试下来月额度与之前的周额度基本差不多&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/f/7/6f7f5881b73f9620878671ecad4f60450800f77e.png&quot; data-download-href=&quot;/uploads/short-url/fUlPQiFL7nmtlrfWFw6xZhWu7tc.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/f/7/6f7f5881b73f9620878671ecad4f60450800f77e_2_690x201.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fUlPQiFL7nmtlrfWFw6xZhWu7tc&quot; width=&quot;690&quot; height=&quot;201&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/f/7/6f7f5881b73f9620878671ecad4f60450800f77e_2_690x201.png, https://cdn3.ldstatic.com/optimized/4X/6/f/7/6f7f5881b73f9620878671ecad4f60450800f77e_2_1035x301.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/f/7/6f7f5881b73f9620878671ecad4f60450800f77e_2_1380x402.png 2x&quot; data-dominant-color=&quot;F7F5EF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;37 个帖子 - 32 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2284962&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>free彻底没法玩了，从周刷新变月刷新</title>
-      <link>https://linux.do/t/topic/2284932</link>
-      <guid>linux.do-topic-2284932</guid>
-      <pubDate>Mon, 01 Jun 2026 08:08:18 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/4/e/44eb4c29b92967ab414859a0056a8d2ca6b411e0.png&quot; data-download-href=&quot;/uploads/short-url/9PGACcLjXRmUN2fmxQAXzYRpxBu.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/4/e/44eb4c29b92967ab414859a0056a8d2ca6b411e0.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9PGACcLjXRmUN2fmxQAXzYRpxBu&quot; width=&quot;464&quot; height=&quot;325&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;41 个帖子 - 33 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2284932&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Github Copilot转为基于Token的定价后，上下文还是那么短小</title>
-      <link>https://linux.do/t/topic/2284595</link>
-      <guid>linux.do-topic-2284595</guid>
-      <pubDate>Mon, 01 Jun 2026 07:25:06 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/0/4/80415bdfccc5818b837f681eeeb640070fd2f5b4.png&quot; data-download-href=&quot;/uploads/short-url/iiB96ZqDloI1i7ZiOZdVAwTVmde.png?dl=1&quot; title=&quot;Screenshot 2026-06-01 151915&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/0/4/80415bdfccc5818b837f681eeeb640070fd2f5b4_2_690x324.png&quot; alt=&quot;Screenshot 2026-06-01 151915&quot; data-base62-sha1=&quot;iiB96ZqDloI1i7ZiOZdVAwTVmde&quot; width=&quot;690&quot; height=&quot;324&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/0/4/80415bdfccc5818b837f681eeeb640070fd2f5b4_2_690x324.png, https://cdn3.ldstatic.com/optimized/4X/8/0/4/80415bdfccc5818b837f681eeeb640070fd2f5b4_2_1035x486.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/0/4/80415bdfccc5818b837f681eeeb640070fd2f5b4_2_1380x648.png 2x&quot; data-dominant-color=&quot;F7F7F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;已经是最高API 5折的形状了，上下文大小还是那么的难绷，并且Opus系列目前仍然不能调整思考等级&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2284595&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
