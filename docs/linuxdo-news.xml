@@ -4,7 +4,218 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Tue, 02 Jun 2026 02:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 07:15:27 GMT</lastBuildDate>
+    <item>
+      <title>Telegram桌面客户端现已原生支持简体中文</title>
+      <link>https://linux.do/t/topic/2290932</link>
+      <guid>linux.do-topic-2290932</guid>
+      <pubDate>Tue, 02 Jun 2026 06:52:40 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/5/2/7525828b2dd122cc8db900eb5a8ac59d4a9df1c3.png&quot; data-download-href=&quot;/uploads/short-url/gIkeba2Zia5DnzQDv9YPe4eYX5x.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/5/2/7525828b2dd122cc8db900eb5a8ac59d4a9df1c3.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gIkeba2Zia5DnzQDv9YPe4eYX5x&quot; width=&quot;266&quot; height=&quot;500&quot; data-dominant-color=&quot;F8F9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Telegram一直以来都不提供简体中文官方语言包，但是本身也支持使用外来语言包供用户选择。之前Telegram已经在IOS和Android平台推送测试简体中文语言包，目前已经正式全量推送到最新版macOS和Windows桌面客户端，无需参加Beta计划即可使用。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290932&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>【没用，有佬友反馈已经试过了：无效】跳过 codex 手机号二次验证的方法，有人试过吗？</title>
+      <link>https://linux.do/t/topic/2290678</link>
+      <guid>linux.do-topic-2290678</guid>
+      <pubDate>Tue, 02 Jun 2026 06:18:46 GMT</pubDate>
+      <description>
+            &lt;p&gt;x上有用户反馈用这个方法可以跳过短信验证！&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/a/2/3a23b1bb185c28354e8322409f4308df4ba50753.png&quot; data-download-href=&quot;/uploads/short-url/8ikapmlJpYohoPKdDDijcIdtm8z.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/a/2/3a23b1bb185c28354e8322409f4308df4ba50753.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8ikapmlJpYohoPKdDDijcIdtm8z&quot; width=&quot;678&quot; height=&quot;465&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;完整流程是：&lt;br&gt;
+第一步，你如果没有设置过这个，你打开安全这一栏，高级安全设置，高级账号安全右边是注册按钮，点击注册。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/b/8/7b84b65705bf0a0454164a33ca2d91650ae3f59f.jpeg&quot; data-download-href=&quot;/uploads/short-url/hCH3WptfKYY3SjTd7Gb58VeYQXB.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b84b65705bf0a0454164a33ca2d91650ae3f59f_2_690x309.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;hCH3WptfKYY3SjTd7Gb58VeYQXB&quot; width=&quot;690&quot; height=&quot;309&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b84b65705bf0a0454164a33ca2d91650ae3f59f_2_690x309.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b84b65705bf0a0454164a33ca2d91650ae3f59f_2_1035x463.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b84b65705bf0a0454164a33ca2d91650ae3f59f_2_1380x618.jpeg 2x&quot; data-dominant-color=&quot;F0F0F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;第二步，内页再点击注册&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/2/2/422f0ba21deb83eca91e87c372489f6628339643.png&quot; data-download-href=&quot;/uploads/short-url/9ruj3OOdp0SyGFy8vNLVOBZ9QHx.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/2/2/422f0ba21deb83eca91e87c372489f6628339643.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9ruj3OOdp0SyGFy8vNLVOBZ9QHx&quot; width=&quot;660&quot; height=&quot;500&quot; data-dominant-color=&quot;F2F2F2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/8/f/08f64c2249ea902420da2c357bd2f7b4668f1dff.png&quot; data-download-href=&quot;/uploads/short-url/1hhvAxrrNAGERH7dkgbT00xzTI3.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/8/f/08f64c2249ea902420da2c357bd2f7b4668f1dff.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;1hhvAxrrNAGERH7dkgbT00xzTI3&quot; width=&quot;660&quot; height=&quot;500&quot; data-dominant-color=&quot;F1F1F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+然后点击加入&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/7/d/07d1ea351bb3a86631d79825d2ef8afaab6cd579.png&quot; data-download-href=&quot;/uploads/short-url/17b58pGc4brN0e0Rm0YWKh7OPXz.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/7/d/07d1ea351bb3a86631d79825d2ef8afaab6cd579_2_660x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;17b58pGc4brN0e0Rm0YWKh7OPXz&quot; width=&quot;660&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/7/d/07d1ea351bb3a86631d79825d2ef8afaab6cd579_2_660x500.png, https://cdn3.ldstatic.com/original/4X/0/7/d/07d1ea351bb3a86631d79825d2ef8afaab6cd579.png 1.5x, https://cdn3.ldstatic.com/original/4X/0/7/d/07d1ea351bb3a86631d79825d2ef8afaab6cd579.png 2x&quot; data-dominant-color=&quot;F2F2F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+这里要你登录你验证登录你的ChatGPT账号，你可以选择发送邮件验证码来登录，如果你之前设置了 Authenticator app，还需要二次验证，没设置就一次验证就可以了。&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/5/2/652f2503b29ce58512f5fda3eea8547f07f95a90.png&quot; data-download-href=&quot;/uploads/short-url/er7ele5bnu3pgB3e7GkpmmVDDuo.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/5/2/652f2503b29ce58512f5fda3eea8547f07f95a90.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;er7ele5bnu3pgB3e7GkpmmVDDuo&quot; width=&quot;660&quot; height=&quot;500&quot; data-dominant-color=&quot;F0F0F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+验证通过后，你就会来到这个页面，让你设置，点击继续&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/6/0/e600d8fb837773c50deaa35d29266b83dbf89153.png&quot; data-download-href=&quot;/uploads/short-url/wOHDjG7m7IB6zUdwiUbU3k6w9mX.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/6/0/e600d8fb837773c50deaa35d29266b83dbf89153.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wOHDjG7m7IB6zUdwiUbU3k6w9mX&quot; width=&quot;660&quot; height=&quot;500&quot; data-dominant-color=&quot;F4F4F4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+然后就是这个页面，这里很多人会出错，先点第一个方式，点击添加&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/4/9/a4906fcd9178f45e4a00977248faf0f711b055d8.png&quot; data-download-href=&quot;/uploads/short-url/ntNL5dpanlwvg7O2Fjt8GoMVOOY.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/4/9/a4906fcd9178f45e4a00977248faf0f711b055d8.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ntNL5dpanlwvg7O2Fjt8GoMVOOY&quot; width=&quot;660&quot; height=&quot;500&quot; data-dominant-color=&quot;F4F4F4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+然后选择第一个，通行密钥&lt;br&gt;
+注意！注意！&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/a/c/aac6ca03a1ece3f3bd4ff8fe30c8be56f00b3923.png&quot; data-download-href=&quot;/uploads/short-url/omL4zi7mHIT4dYe0Olxj1UrrmpB.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/a/c/aac6ca03a1ece3f3bd4ff8fe30c8be56f00b3923_2_660x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;omL4zi7mHIT4dYe0Olxj1UrrmpB&quot; width=&quot;660&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/a/c/aac6ca03a1ece3f3bd4ff8fe30c8be56f00b3923_2_660x500.png, https://cdn3.ldstatic.com/original/4X/a/a/c/aac6ca03a1ece3f3bd4ff8fe30c8be56f00b3923.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/a/c/aac6ca03a1ece3f3bd4ff8fe30c8be56f00b3923.png 2x&quot; data-dominant-color=&quot;D2D2D2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+如果你看到这个页面，但是不知道这是什么？你可以点击取消，点击取消后，&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/7/2/a722b6ad14f93e45578ac680ee5756034a48454c.png&quot; data-download-href=&quot;/uploads/short-url/nQy6SVEt8Og46jJdz50ofW4iGqE.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/7/2/a722b6ad14f93e45578ac680ee5756034a48454c.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nQy6SVEt8Og46jJdz50ofW4iGqE&quot; width=&quot;680&quot; height=&quot;500&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/7/2/a722b6ad14f93e45578ac680ee5756034a48454c.png&quot; data-download-href=&quot;/uploads/short-url/nQy6SVEt8Og46jJdz50ofW4iGqE.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/7/2/a722b6ad14f93e45578ac680ee5756034a48454c.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nQy6SVEt8Og46jJdz50ofW4iGqE&quot; width=&quot;680&quot; height=&quot;500&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/7/2/a722b6ad14f93e45578ac680ee5756034a48454c.png&quot; data-download-href=&quot;/uploads/short-url/nQy6SVEt8Og46jJdz50ofW4iGqE.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/7/2/a722b6ad14f93e45578ac680ee5756034a48454c.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nQy6SVEt8Og46jJdz50ofW4iGqE&quot; width=&quot;680&quot; height=&quot;500&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+你会看到这个，然后选择第一个，google 密码管理工具，点击&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/3/9/839163b7f32edceba7d3cbeece79ce362bc5896d.png&quot; data-download-href=&quot;/uploads/short-url/iLU2K6d6NX8NAdzObxBFiWZ0j2l.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/8/3/9/839163b7f32edceba7d3cbeece79ce362bc5896d.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;iLU2K6d6NX8NAdzObxBFiWZ0j2l&quot; width=&quot;680&quot; height=&quot;500&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+点击创建就可以了。&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/d/d/9dde1143710203d88c3b3cba7b1373e3d9581b11.png&quot; data-download-href=&quot;/uploads/short-url/mwyJT7CeGeYdRoOjJfE0byYxZkd.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/d/d/9dde1143710203d88c3b3cba7b1373e3d9581b11_2_660x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;mwyJT7CeGeYdRoOjJfE0byYxZkd&quot; width=&quot;660&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/d/d/9dde1143710203d88c3b3cba7b1373e3d9581b11_2_660x500.png, https://cdn3.ldstatic.com/original/4X/9/d/d/9dde1143710203d88c3b3cba7b1373e3d9581b11.png 1.5x, https://cdn3.ldstatic.com/original/4X/9/d/d/9dde1143710203d88c3b3cba7b1373e3d9581b11.png 2x&quot; data-dominant-color=&quot;F5F5F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+然后添加第二种方法，依然选择通行密钥，然后选择您的chrome 个人资料&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/e/1/de1cf22011ae4821729a1f4dcd36fb20319fe915.png&quot; data-download-href=&quot;/uploads/short-url/vGU0TRSPXuJSKoTA2XDuA1Cg3dz.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/e/1/de1cf22011ae4821729a1f4dcd36fb20319fe915.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;vGU0TRSPXuJSKoTA2XDuA1Cg3dz&quot; width=&quot;680&quot; height=&quot;500&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+输入密码创建就可以了&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/c/5/2c5b71ed37a759c11f0528fa1b52a3e8bf7a0df7.png&quot; data-download-href=&quot;/uploads/short-url/6koVAavwKqw85QQP5YpbcsgE4d1.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/c/5/2c5b71ed37a759c11f0528fa1b52a3e8bf7a0df7.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6koVAavwKqw85QQP5YpbcsgE4d1&quot; width=&quot;680&quot; height=&quot;500&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+两种方法创建后就可以点击继续了&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/1/5/515fba37d7b9c12e26bf60685a3a1e6819af8d57.png&quot; data-download-href=&quot;/uploads/short-url/bBRLKrpIY8oApwoT7BRkV56E8uP.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/1/5/515fba37d7b9c12e26bf60685a3a1e6819af8d57_2_607x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bBRLKrpIY8oApwoT7BRkV56E8uP&quot; width=&quot;607&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/1/5/515fba37d7b9c12e26bf60685a3a1e6819af8d57_2_607x500.png, https://cdn3.ldstatic.com/original/4X/5/1/5/515fba37d7b9c12e26bf60685a3a1e6819af8d57.png 1.5x, https://cdn3.ldstatic.com/original/4X/5/1/5/515fba37d7b9c12e26bf60685a3a1e6819af8d57.png 2x&quot; data-dominant-color=&quot;E8E8E8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+然后下载你的密钥，选择下面的我已保存我的恢复密钥，点击继续，继续&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/b/6/cb66bc5f4006f059c88c459e7855af10308de849.png&quot; data-download-href=&quot;/uploads/short-url/t1n2idKkkHp3t6jTMUwrgJ9ZJFv.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/b/6/cb66bc5f4006f059c88c459e7855af10308de849_2_607x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;t1n2idKkkHp3t6jTMUwrgJ9ZJFv&quot; width=&quot;607&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/b/6/cb66bc5f4006f059c88c459e7855af10308de849_2_607x500.png, https://cdn3.ldstatic.com/original/4X/c/b/6/cb66bc5f4006f059c88c459e7855af10308de849.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/b/6/cb66bc5f4006f059c88c459e7855af10308de849.png 2x&quot; data-dominant-color=&quot;F3F3F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+然后你的高级账号安全就创建完成了，各位你看到上面的文字了吗？你的电子邮件验证码，短信验证码都会被禁用，各位，到此，你再也不用短信验证码了！！&lt;br&gt;
+你的账号可以随意退出和登录了！&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290678&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>神人奥特曼发狂了?(CODEX月额度）</title>
+      <link>https://linux.do/t/topic/2290479</link>
+      <guid>linux.do-topic-2290479</guid>
+      <pubDate>Tue, 02 Jun 2026 05:39:23 GMT</pubDate>
+      <description>
+            &lt;p&gt;最新消息，30min内我的team账号从周限额变成了月限，现在又从月限变成了周限&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/3/1/1314ca7c102d1f58f7fccfbda0987517d2477e3d.png&quot; data-download-href=&quot;/uploads/short-url/2INCdgK2vdMJxRPdNLIWOiMtxql.png?dl=1&quot; title=&quot;9b8960d4565b575c2a5ed26f0e5c9e80&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/3/1/1314ca7c102d1f58f7fccfbda0987517d2477e3d.png&quot; alt=&quot;9b8960d4565b575c2a5ed26f0e5c9e80&quot; data-base62-sha1=&quot;2INCdgK2vdMJxRPdNLIWOiMtxql&quot; width=&quot;420&quot; height=&quot;486&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/0/0/b00d2ee551a4537457002295cb1bce41eaca78b3.png&quot; data-download-href=&quot;/uploads/short-url/p7qhkXv3F3TMrcSFYh42cQrpLTZ.png?dl=1&quot; title=&quot;18838ee34f6f5a4e50a870b6536fa596&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/0/0/b00d2ee551a4537457002295cb1bce41eaca78b3.png&quot; alt=&quot;18838ee34f6f5a4e50a870b6536fa596&quot; data-base62-sha1=&quot;p7qhkXv3F3TMrcSFYh42cQrpLTZ&quot; width=&quot;408&quot; height=&quot;465&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290479&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>噩耗 team号的额度变成月刷新(灰度中),目前未知额度变化</title>
+      <link>https://linux.do/t/topic/2290408</link>
+      <guid>linux.do-topic-2290408</guid>
+      <pubDate>Tue, 02 Jun 2026 05:19:52 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/2/c/02c5082713a7afa82cdb332275badbcea924be68.png&quot; data-download-href=&quot;/uploads/short-url/ov5OhcIocwxdsvsf8w8Z6rn4og.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/2/c/02c5082713a7afa82cdb332275badbcea924be68_2_690x313.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ov5OhcIocwxdsvsf8w8Z6rn4og&quot; width=&quot;690&quot; height=&quot;313&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/2/c/02c5082713a7afa82cdb332275badbcea924be68_2_690x313.png, https://cdn3.ldstatic.com/optimized/4X/0/2/c/02c5082713a7afa82cdb332275badbcea924be68_2_1035x469.png 1.5x, https://cdn3.ldstatic.com/original/4X/0/2/c/02c5082713a7afa82cdb332275badbcea924be68.png 2x&quot; data-dominant-color=&quot;FAFBFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+rt,这是本人自己的team的codex额度&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290408&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>UCLA副教授顾全全官宣离开字节跳动Seed，曾领衔AI制药与大模型预训练优化！</title>
+      <link>https://linux.do/t/topic/2290339</link>
+      <guid>linux.do-topic-2290339</guid>
+      <pubDate>Tue, 02 Jun 2026 05:01:58 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/e/c/dec7f543c87ab24bf012bf7fced637d4a0fba4d6.png&quot; data-download-href=&quot;/uploads/short-url/vMOpd2LwvLiLOAISdE8eRmNVgAm.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/e/c/dec7f543c87ab24bf012bf7fced637d4a0fba4d6_2_372x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;vMOpd2LwvLiLOAISdE8eRmNVgAm&quot; width=&quot;372&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/e/c/dec7f543c87ab24bf012bf7fced637d4a0fba4d6_2_372x500.png, https://cdn3.ldstatic.com/optimized/4X/d/e/c/dec7f543c87ab24bf012bf7fced637d4a0fba4d6_2_558x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/e/c/dec7f543c87ab24bf012bf7fced637d4a0fba4d6_2_744x1000.png 2x&quot; data-dominant-color=&quot;E7E8E8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290339&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI 明天直播，Codex 新东西要来了！ChatGPT 5.6?</title>
+      <link>https://linux.do/t/topic/2290255</link>
+      <guid>linux.do-topic-2290255</guid>
+      <pubDate>Tue, 02 Jun 2026 04:40:48 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/3/6/f36f0cd863143fe1ae7624365ae54691be1d4f84.jpeg&quot; data-download-href=&quot;/uploads/short-url/yJvWQP2PQErmnWIMbUFh17ixWUk.jpeg?dl=1&quot; title=&quot;Screenshot20260602123752comtwitterandroidTweetDetailActivityedit986288814194174&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/3/6/f36f0cd863143fe1ae7624365ae54691be1d4f84_2_293x500.jpeg&quot; alt=&quot;Screenshot20260602123752comtwitterandroidTweetDetailActivityedit986288814194174&quot; data-base62-sha1=&quot;yJvWQP2PQErmnWIMbUFh17ixWUk&quot; width=&quot;293&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/3/6/f36f0cd863143fe1ae7624365ae54691be1d4f84_2_293x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/3/6/f36f0cd863143fe1ae7624365ae54691be1d4f84_2_439x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/3/6/f36f0cd863143fe1ae7624365ae54691be1d4f84_2_586x1000.jpeg 2x&quot; data-dominant-color=&quot;272548&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI 明天直播，Codex 新东西要来了！ChatGPT 5.6?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openai.com/business/intelligence-at-work/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://openai.com/business/intelligence-at-work/&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290255&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Wx也要内置 AI Agent了</title>
+      <link>https://linux.do/t/topic/2290238</link>
+      <guid>linux.do-topic-2290238</guid>
+      <pubDate>Tue, 02 Jun 2026 04:37:31 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/f/d/2fdca8f197b257b6ec5b4683ffb35030efeecd67.jpeg&quot; data-download-href=&quot;/uploads/short-url/6PpczJwDyBNHTlqdFiZggCEL1NZ.jpeg?dl=1&quot; title=&quot;微信图片2026060212342017485&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/d/2fdca8f197b257b6ec5b4683ffb35030efeecd67_2_231x500.jpeg&quot; alt=&quot;微信图片2026060212342017485&quot; data-base62-sha1=&quot;6PpczJwDyBNHTlqdFiZggCEL1NZ&quot; width=&quot;231&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/d/2fdca8f197b257b6ec5b4683ffb35030efeecd67_2_231x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/f/d/2fdca8f197b257b6ec5b4683ffb35030efeecd67_2_346x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/f/d/2fdca8f197b257b6ec5b4683ffb35030efeecd67_2_462x1000.jpeg 2x&quot; data-dominant-color=&quot;EFEFF1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290238&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>【快讯】《金融时报》报道，腾讯即将在超级应用微信中推出一款AI助手</title>
+      <link>https://linux.do/t/topic/2289921</link>
+      <guid>linux.do-topic-2289921</guid>
+      <pubDate>Tue, 02 Jun 2026 03:39:05 GMT</pubDate>
+      <description>
+            &lt;blockquote&gt;
+&lt;p&gt;腾讯控股有限公司即将在微信内直接推出一款AI助手，据《金融时报》报道，这一消息推动该公司股价在港股交易中上涨逾3%，投资者押注此举可为中国最大的社交平台解锁新的收入来源。&lt;br&gt;
+&lt;a href=&quot;https://www.edgen.tech/zh/news/post/tencent-nears-wechat-ai-assistant-launch-stock-jumps-3&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.edgen.tech/zh/news/post/tencent-nears-wechat-ai-assistant-launch-stock-jumps-3&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;三月份似乎也看过类似的新闻&lt;/p&gt;
+&lt;p&gt;补充一下豆包提供的细节截图：&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/7/9/079f96101203f0ff781edbb427de300e4d13e4b1.png&quot; data-download-href=&quot;/uploads/short-url/15rfKOb3JAWc8zCmW3UMWp7mo4V.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/7/9/079f96101203f0ff781edbb427de300e4d13e4b1.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;15rfKOb3JAWc8zCmW3UMWp7mo4V&quot; width=&quot;690&quot; height=&quot;227&quot; data-dominant-color=&quot;313131&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289921&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>爪云clawcloud vps服务下线</title>
+      <link>https://linux.do/t/topic/2289783</link>
+      <guid>linux.do-topic-2289783</guid>
+      <pubDate>Tue, 02 Jun 2026 03:23:29 GMT</pubDate>
+      <description>
+            &lt;p&gt;爪云4月Run服务通知下线后，昨天官网公告VPS服务也即将下线,退款截止6月30&lt;br&gt;
+各位佬友赶紧备份迁移吧 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/sweat_smile.png?v=15&quot; title=&quot;:sweat_smile:&quot; class=&quot;emoji&quot; alt=&quot;:sweat_smile:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/5/3/653b0acce37edec4dc4cc1d0520ccb00c0d00912.png&quot; data-download-href=&quot;/uploads/short-url/erwIKGi510PHFWuytVbeKAwq9nI.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/5/3/653b0acce37edec4dc4cc1d0520ccb00c0d00912_2_342x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;erwIKGi510PHFWuytVbeKAwq9nI&quot; width=&quot;342&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/5/3/653b0acce37edec4dc4cc1d0520ccb00c0d00912_2_342x500.png, https://cdn3.ldstatic.com/optimized/4X/6/5/3/653b0acce37edec4dc4cc1d0520ccb00c0d00912_2_513x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/5/3/653b0acce37edec4dc4cc1d0520ccb00c0d00912_2_684x1000.png 2x&quot; data-dominant-color=&quot;F3F3F4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289783&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>大善人马斯克给 Grok build 上了 Composer 2.5</title>
+      <link>https://linux.do/t/topic/2289594</link>
+      <guid>linux.do-topic-2289594</guid>
+      <pubDate>Tue, 02 Jun 2026 03:04:25 GMT</pubDate>
+      <description>
+            &lt;p&gt;大善人马斯克给 Grok build 上了 Composer 2.5&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/6/3/9630d99a38ac63abc9f3638029caa2cce900ecf5.jpeg&quot; data-download-href=&quot;/uploads/short-url/lqEhr2YI6w8HaWzJepWCVxjb8wt.jpeg?dl=1&quot; title=&quot;clipboard-1780369452077-0&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/6/3/9630d99a38ac63abc9f3638029caa2cce900ecf5_2_690x186.jpeg&quot; alt=&quot;clipboard-1780369452077-0&quot; data-base62-sha1=&quot;lqEhr2YI6w8HaWzJepWCVxjb8wt&quot; width=&quot;690&quot; height=&quot;186&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/6/3/9630d99a38ac63abc9f3638029caa2cce900ecf5_2_690x186.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/6/3/9630d99a38ac63abc9f3638029caa2cce900ecf5_2_1035x279.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/6/3/9630d99a38ac63abc9f3638029caa2cce900ecf5_2_1380x372.jpeg 2x&quot; data-dominant-color=&quot;373737&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;23 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289594&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Open Code 上匿名模型 Little Frank，是 MiniMax M3 吗？</title>
+      <link>https://linux.do/t/topic/2289575</link>
+      <guid>linux.do-topic-2289575</guid>
+      <pubDate>Tue, 02 Jun 2026 03:02:21 GMT</pubDate>
+      <description>
+            &lt;p&gt;Open Code 上匿名模型 Little Frank，是 MiniMax M3 吗？&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/a/c/bac7e47b8353222654a2077587d0ac8ef0cf6187.jpeg&quot; data-download-href=&quot;/uploads/short-url/qEl4MS97OVmbKuQKSOxvx3c4ph5.jpeg?dl=1&quot; title=&quot;clipboard-1780369363465-0&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/a/c/bac7e47b8353222654a2077587d0ac8ef0cf6187_2_534x500.jpeg&quot; alt=&quot;clipboard-1780369363465-0&quot; data-base62-sha1=&quot;qEl4MS97OVmbKuQKSOxvx3c4ph5&quot; width=&quot;534&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/a/c/bac7e47b8353222654a2077587d0ac8ef0cf6187_2_534x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/a/c/bac7e47b8353222654a2077587d0ac8ef0cf6187_2_801x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/a/c/bac7e47b8353222654a2077587d0ac8ef0cf6187_2_1068x1000.jpeg 2x&quot; data-dominant-color=&quot;1B1C1D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289575&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Google AI Pro 1.99美元一个月？</title>
+      <link>https://linux.do/t/topic/2289527</link>
+      <guid>linux.do-topic-2289527</guid>
+      <pubDate>Tue, 02 Jun 2026 02:57:37 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/f/9/ef9cff508c5362231f9b953c5d23e7304e913efe.png&quot; data-download-href=&quot;/uploads/short-url/ybItNCog3cQaVcUfcLE7oQa1dG6.png?dl=1&quot; title=&quot;截屏2026-06-02 10.55.01&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/9/ef9cff508c5362231f9b953c5d23e7304e913efe_2_272x500.png&quot; alt=&quot;截屏2026-06-02 10.55.01&quot; data-base62-sha1=&quot;ybItNCog3cQaVcUfcLE7oQa1dG6&quot; width=&quot;272&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/9/ef9cff508c5362231f9b953c5d23e7304e913efe_2_272x500.png, https://cdn3.ldstatic.com/optimized/4X/e/f/9/ef9cff508c5362231f9b953c5d23e7304e913efe_2_408x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/f/9/ef9cff508c5362231f9b953c5d23e7304e913efe_2_544x1000.png 2x&quot; data-dominant-color=&quot;EEF1F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/9/5/a95196c11d2ef9eaf59b1a719de5dcd347698e1d.png&quot; data-download-href=&quot;/uploads/short-url/o9RuKb3Gvo0zOQ7tYmvHeGLDNg1.png?dl=1&quot; title=&quot;截屏2026-06-02 11.04.18&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/9/5/a95196c11d2ef9eaf59b1a719de5dcd347698e1d_2_690x327.png&quot; alt=&quot;截屏2026-06-02 11.04.18&quot; data-base62-sha1=&quot;o9RuKb3Gvo0zOQ7tYmvHeGLDNg1&quot; width=&quot;690&quot; height=&quot;327&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/9/5/a95196c11d2ef9eaf59b1a719de5dcd347698e1d_2_690x327.png, https://cdn3.ldstatic.com/optimized/4X/a/9/5/a95196c11d2ef9eaf59b1a719de5dcd347698e1d_2_1035x490.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/9/5/a95196c11d2ef9eaf59b1a719de5dcd347698e1d.png 2x&quot; data-dominant-color=&quot;E9EAEA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;一年没几个钱啊，赶紧订阅了，还带3个月免费试用，一共15个月。&lt;br&gt;
+收到的email，提醒我之前的学生订阅明天到期。然后给了这个方案。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;23 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289527&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>全球新闻0602</title>
+      <link>https://linux.do/t/topic/2289453</link>
+      <guid>linux.do-topic-2289453</guid>
+      <pubDate>Tue, 02 Jun 2026 02:49:27 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/peFKg4q5otvK7q6EvwWxQpKsJya.pdf&quot;&gt;全球新闻2026-06-02早报.pdf&lt;/a&gt; (276.7 KB)&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289453&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>codex更新后可以看到token用量了，大家快来比拼team的体质</title>
+      <link>https://linux.do/t/topic/2289398</link>
+      <guid>linux.do-topic-2289398</guid>
+      <pubDate>Tue, 02 Jun 2026 02:44:30 GMT</pubDate>
+      <description>
+            &lt;p&gt;如题，今天更新后，订阅账号可以看到token用量&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/2/d/f2db863dfe9152d9e5a240469f545f689a094c36.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;yEpSlVgJekQi0ktGWQVqiBxYi7I&quot; width=&quot;632&quot; height=&quot;86&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/8/f/48f8a5fcb8964effa9151c4e96c136604cf668cc.png&quot; data-download-href=&quot;/uploads/short-url/apx6u1FxbnRQM8B6yFEdNWziLc8.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/8/f/48f8a5fcb8964effa9151c4e96c136604cf668cc.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;apx6u1FxbnRQM8B6yFEdNWziLc8&quot; width=&quot;392&quot; height=&quot;174&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;16 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289398&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>币安、gate.io等虚拟货币交易所纷纷上线真·美股交易。</title>
       <link>https://linux.do/t/topic/2289024</link>
@@ -18,7 +229,7 @@
 设置-语言-改成繁体中文&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;不止币安，Gate.io和Bitget也动作频频。加密与传统资本市场的边界，几乎被彻底抹掉。
 &lt;/code&gt;&lt;/pre&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;24 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289024&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -81,7 +292,7 @@
 &lt;/aside&gt;
 
 &lt;p&gt;6月1日，AWS宣布OpenAI的 GPT-5.5、GPT-5.4 在 Amazon Bedrock可用，价格与OpenAI官方一致。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288733&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -140,7 +351,7 @@
       <description>
             &lt;p&gt;来源 学习强国&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/4/5/945f223a6a40478d908c19ad08084428288ef702.jpeg&quot; data-download-href=&quot;/uploads/short-url/layuimf5WsfY3AIoOKS4AGNz0ye.jpeg?dl=1&quot; title=&quot;IMG1067&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/4/5/945f223a6a40478d908c19ad08084428288ef702_2_690x473.jpeg&quot; alt=&quot;IMG1067&quot; data-base62-sha1=&quot;layuimf5WsfY3AIoOKS4AGNz0ye&quot; width=&quot;690&quot; height=&quot;473&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/4/5/945f223a6a40478d908c19ad08084428288ef702_2_690x473.jpeg, https://cdn3.ldstatic.com/original/4X/9/4/5/945f223a6a40478d908c19ad08084428288ef702.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/9/4/5/945f223a6a40478d908c19ad08084428288ef702.jpeg 2x&quot; data-dominant-color=&quot;ECEDEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;46 个帖子 - 43 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;63 个帖子 - 60 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288681&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -152,7 +363,7 @@
       <description>
             &lt;p&gt;Cluade重置了额度，可惜4.8opus没有fast&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/7/8/5787dff3e38e996c0e7ac65cc0dc771cd417011c.png&quot; data-download-href=&quot;/uploads/short-url/cukEk3iw8SNtSh0ik99MlA2Oarq.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/7/8/5787dff3e38e996c0e7ac65cc0dc771cd417011c.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cukEk3iw8SNtSh0ik99MlA2Oarq&quot; width=&quot;627&quot; height=&quot;414&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288655&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -164,7 +375,7 @@
       <description>
             &lt;p&gt;智谱要成A股大模型第一股了, 结合之前国家八大部委的行动, 这次就是要和老美争夺流动性, 估计是等不及deepseek上了, 只能让智谱先上了, 以智谱的稀缺性, 我个人觉得5000亿市值都可能只是开始, 上万亿市值也不是不可能&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/5/2/f52641d4b87451bba81cec2746dba4190fc863c2.png&quot; data-download-href=&quot;/uploads/short-url/yYGWDLRBn6UZbnlSsl7c11ItZMS.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/5/2/f52641d4b87451bba81cec2746dba4190fc863c2_2_418x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;yYGWDLRBn6UZbnlSsl7c11ItZMS&quot; width=&quot;418&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/5/2/f52641d4b87451bba81cec2746dba4190fc863c2_2_418x500.png, https://cdn3.ldstatic.com/optimized/4X/f/5/2/f52641d4b87451bba81cec2746dba4190fc863c2_2_627x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/5/2/f52641d4b87451bba81cec2746dba4190fc863c2_2_836x1000.png 2x&quot; data-dominant-color=&quot;F0F0F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288605&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -302,500 +513,6 @@
 &lt;/ol&gt;
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288510&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>豆包预计6月下旬上线付费服务（付费功能将主要专注在复杂任务和生产力场景，免费版本则继续面向用户的日常使用）</title>
-      <link>https://linux.do/t/topic/2288470</link>
-      <guid>linux.do-topic-2288470</guid>
-      <pubDate>Tue, 02 Jun 2026 01:17:04 GMT</pubDate>
-      <description>
-            &lt;p&gt;6月1日，据36氪报道，知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大会上更新相关功能。之所以选择这一时间节点，是因为PC端与移动端仍需约一个月时间，完成基础功能与收费体系的适配改造。&lt;/p&gt;
-&lt;p&gt;若进展顺利，豆包将于三季度进一步结合电商功能更新完善付费场景，并通过补贴为抖音商城进行引流，四季度进入运行期。这些动作，皆是为了面向2027年及更长期的商业化回报做准备。因此，2026年豆包将不会把付费用户的渗透率作为考察指标。&lt;/p&gt;
-&lt;p&gt;据21世纪经济报道此前报道，5月初，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。&lt;/p&gt;
-&lt;p&gt;据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则继续面向用户的日常使用。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://baijiahao.baidu.com/s?id=1866799553276773974&amp;wfr=spider&amp;for=pc&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/c/f/4/cf4f91099a022e59338c215d7b44bd4db0fd2922.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;ACAFF3&quot; width=&quot;64&quot; height=&quot;64&quot;&gt;
-
-      &lt;a href=&quot;https://baijiahao.baidu.com/s?id=1866799553276773974&amp;wfr=spider&amp;for=pc&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;baijiahao.baidu.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://baijiahao.baidu.com/s?id=1866799553276773974&amp;wfr=spider&amp;for=pc&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;豆包预计6月下旬正式收费&lt;/a&gt;&lt;/h3&gt;
-
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;39 个帖子 - 32 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288470&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>据称某人在海里发现了一块 Pixel Watch 5</title>
-      <link>https://linux.do/t/topic/2288451</link>
-      <guid>linux.do-topic-2288451</guid>
-      <pubDate>Tue, 02 Jun 2026 01:13:29 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://9to5google.com/2026/05/31/someone-allegedly-found-a-pixel-watch-5-in-the-ocean/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/a/6/da69e3fbb165571b0e32b4c3fabd9b2028b922d3.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;B4CAAF&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://9to5google.com/2026/05/31/someone-allegedly-found-a-pixel-watch-5-in-the-ocean/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;08:35PM - 31 May 2026&quot;&gt;9to5Google – 31 May 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/344;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/4/2/d4240ade7eead2bd457f5930a4956c78bdff08d5_2_690x361.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;55ADC7&quot; width=&quot;690&quot; height=&quot;361&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://9to5google.com/2026/05/31/someone-allegedly-found-a-pixel-watch-5-in-the-ocean/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Someone allegedly found a Pixel Watch 5 in the ocean&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Prototype devices find their way to leaking in a variety of different ways, such as the infamous iPhone in a...&lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 2 minutes&lt;/span&gt;
-  &lt;/p&gt;
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;《&lt;span lang=&quot;zh&quot;&gt;边境之地》（Borderlands）背后的工作室 Gearbox 创始人兰迪-皮奇福德（Randy Pitchford）在 Twitter/X 上发布了两张据称是 Pixel Watch 5（45 毫米）的上手图片。他解释说，这款智能手表是一个朋友在 &quot;圣马丁岛附近潜水时 &quot;在水下发现的。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;至于变化，Watch 5 的设计看起来完全相同，由于该设备的电池显然已经没电，所以我们看不到软件上有任何变化。由于是在海里被发现的，所以它还能正常工作，这太不可思议了。皮奇福德说，它在低电量状态下仍能显示正确的时间。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.phonearena.com/news/pixel-watch-5-allegedly-found-in-the-ocean_id180783&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      
-
-      &lt;a href=&quot;https://www.phonearena.com/news/pixel-watch-5-allegedly-found-in-the-ocean_id180783&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;PhoneArena&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/8/9/189c9278387b8a5a19fb24dbc3eacd966875438c_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;A68C77&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.phonearena.com/news/pixel-watch-5-allegedly-found-in-the-ocean_id180783&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;The wildest tech leak of 2026 isn&#39;t the iPhone Fold, it&#39;s a Pixel Watch 5...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Even before the announcement of the Google Pixel Watch 5, its prototype has been found in the ocean.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.techradar.com/health-fitness/smartwatches/the-google-pixel-watch-5-has-reportedly-leaked-in-a-bizarre-scuba-diving-discovery-but-the-incident-is-more-than-a-bit-fishy&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/b/7/fb779f22429bf7e9ffed0754fe74dad10397e5bc.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;E40784&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.techradar.com/health-fitness/smartwatches/the-google-pixel-watch-5-has-reportedly-leaked-in-a-bizarre-scuba-diving-discovery-but-the-incident-is-more-than-a-bit-fishy&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;05:00PM - 01 June 2026&quot;&gt;TechRadar – 1 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/c/1/ac185e0e87a3296954aa1ec0e6eb63b8a0432eb7_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;7D848B&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.techradar.com/health-fitness/smartwatches/the-google-pixel-watch-5-has-reportedly-leaked-in-a-bizarre-scuba-diving-discovery-but-the-incident-is-more-than-a-bit-fishy&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&#39;That was an underwater time portal’: Pixel Watch 5 reportedly discovered at...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;A Google Pixel Watch 5 has been found at the bottom of the sea, and it&#39;s the most unhinged tech leak since the iPhone 4 in 2010.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/3/0/030112ff129900fddd09e8a645f32134fe29e858.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;5200FF&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;08:59PM - 01 June 2026&quot;&gt;The Verge – 1 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/360;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/4/7/947574cfa653cb24ec962b3374612186b1eab0a4_2_690x359.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;9E8D85&quot; width=&quot;690&quot; height=&quot;359&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Anyone lose a Pixel Watch 5?&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/1/b/41bbab2b77acc1274a24c0e6cdd88889d1f3a7fe.jpeg&quot; data-download-href=&quot;/uploads/short-url/9nv73kjBr9qyRMoVkqc2pEf9OlU.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/1/b/41bbab2b77acc1274a24c0e6cdd88889d1f3a7fe_2_475x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9nv73kjBr9qyRMoVkqc2pEf9OlU&quot; width=&quot;475&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/1/b/41bbab2b77acc1274a24c0e6cdd88889d1f3a7fe_2_475x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/1/b/41bbab2b77acc1274a24c0e6cdd88889d1f3a7fe_2_712x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/1/b/41bbab2b77acc1274a24c0e6cdd88889d1f3a7fe_2_950x1000.jpeg 2x&quot; data-dominant-color=&quot;B3ABA6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288451&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>英伟达 发布 RTX Spark , 使用 联发科 设计的 Arm CPU</title>
-      <link>https://linux.do/t/topic/2288432</link>
-      <guid>linux.do-topic-2288432</guid>
-      <pubDate>Tue, 02 Jun 2026 01:11:53 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/c/6/ac6eb14864131938b948682966a3c3d935725e14.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;56CE82&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;09:35PM - 01 June 2026&quot;&gt;TechCrunch – 1 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/475;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/5/7/d5770cef11393d56e4b0b5d5f783d2a46c2b5326_2_690x476.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;635761&quot; width=&quot;690&quot; height=&quot;476&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.&lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 3 minutes&lt;/span&gt;
-  &lt;/p&gt;
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;据 Nvidia 称，这款 1-petaflop 的超高速芯片旨在安全运行 OpenClaw 或 Hermes Agent 等人工智能代理。今年秋季，华硕、戴尔、惠普、联想、微软 Surface 和微星将推出此类 RTX Spark Windows PC，宏碁和技嘉也将推出相关机型。&lt;/p&gt;
-&lt;p&gt;除了配备安全沙箱（与微软联合开发）以安全运行代理外，PC 还将配备足够的 CPU、GPU、RAM 和底层 Nvidia CUDA 软件，以运行本地版本的大型语言模型。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/nvidia-unveils-ai-laptops-rtx-spark-47445bcd&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.wsj.com/tech/ai/nvidia-unveils-ai-laptops-rtx-spark-47445bcd&lt;/a&gt;&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/8/f/8f85bf8b307c12e9cf9718f22835a8f89870b2c2.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;1D85D5&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;04:31AM - 01 June 2026&quot;&gt;Microsoft Devices Blog – 1 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/328;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/2/f/22fcbc8db709ce1de775af3504e81a1afad856d8_2_690x328.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;494C56&quot; width=&quot;690&quot; height=&quot;328&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Introducing Surface Laptop Ultra: Made for world makers&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The world is full of makers. Only a few make the world.
-
-Surface Laptop Ultra is for them.
-
-For those building the systems, the breakthroughs and the infrastructure the world runs on and gets changed by. The ones who see limits as flaws and have the&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;Surface Laptop Ultra 是我们第一款将强大的英伟达 Blackwell RTX GPU 与高达 128GB 的统一内存和全面的 CUDA 支持相结合的笔记本电脑。统一内存允许将内存池动态分配到 CPU 和 GPU 上工作负载最需要的地方，因此可以同时运行 AI 创建、3D 渲染和多模型工作流，具有 1 petaflop 的 AI 计算能力，能够在本地运行多达 120B 的参数模型[i]。没有围墙。没有妥协。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/8/6/d863c979fa987d8273b8eb2ace6102cac5f97f50.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;1F376C&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
-
-      &lt;a href=&quot;https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;04:36AM - 01 June 2026&quot;&gt;CNBC – 1 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/388;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/3/9/239b943faadded9d5a234a3a73d9c4d1503154fa_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;242122&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Nvidia jumps into PCs with new Arm-based chip debuting in laptops from...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Nvidia CEO Jensen Huang unveiled a long-awaited Arm-based PC chip, breaking into PCs for the first time on new laptops by Dell, Microsoft, HP, ASUS and others.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288432&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>gpt plus账号在codex中无法使用gpt5.3-codex了</title>
-      <link>https://linux.do/t/topic/2288409</link>
-      <guid>linux.do-topic-2288409</guid>
-      <pubDate>Tue, 02 Jun 2026 01:07:45 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/d/d/7ddb4314167c1a02bcc1aa64edcd145139d2acf5.png&quot; data-download-href=&quot;/uploads/short-url/hXnrVPBMYYlreite9Lo2oB5Mu5n.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/d/d/7ddb4314167c1a02bcc1aa64edcd145139d2acf5_2_690x177.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;hXnrVPBMYYlreite9Lo2oB5Mu5n&quot; width=&quot;690&quot; height=&quot;177&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/d/d/7ddb4314167c1a02bcc1aa64edcd145139d2acf5_2_690x177.png, https://cdn3.ldstatic.com/optimized/4X/7/d/d/7ddb4314167c1a02bcc1aa64edcd145139d2acf5_2_1035x265.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/d/d/7ddb4314167c1a02bcc1aa64edcd145139d2acf5_2_1380x354.png 2x&quot; data-dominant-color=&quot;F8F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-模型直接消失了，任务也用不了&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288409&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>猫：尝不到甜味……</title>
-      <link>https://linux.do/t/topic/2288391</link>
-      <guid>linux.do-topic-2288391</guid>
-      <pubDate>Tue, 02 Jun 2026 01:04:22 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://spacedaily.com/d-cats-cant-taste-sweetness-evolution-turned-off-the-relevant-gene-in-their-distant-ancestors-when-they-became-obligate-carnivores-and-without-working-sweet-receptors-a-cat-is-as-indifferen/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/4/9/e49907bdb6ae3239cad0441b5e1ddc831068771f.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;C2CCCC&quot; width=&quot;150&quot; height=&quot;150&quot;&gt;
-
-      &lt;a href=&quot;https://spacedaily.com/d-cats-cant-taste-sweetness-evolution-turned-off-the-relevant-gene-in-their-distant-ancestors-when-they-became-obligate-carnivores-and-without-working-sweet-receptors-a-cat-is-as-indifferen/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;11:15PM - 01 June 2026&quot;&gt;Space Daily – 1 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:600/315;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/f/9/6f9f9231ab765232d77a07cc15c7d0c7cf8f1932_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;56534F&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://spacedaily.com/d-cats-cant-taste-sweetness-evolution-turned-off-the-relevant-gene-in-their-distant-ancestors-when-they-became-obligate-carnivores-and-without-working-sweet-receptors-a-cat-is-as-indifferen/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Cats can&#39;t taste sweetness — evolution turned off the relevant gene in their...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Cats are notoriously indifferent to sweet things. Pour syrup near a dog and the dog will investigate. Pour syrup near a cat and the cat will ignore it. Veterinarians and cat-food companies have long noted that cats show no preference for sugar in...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;猫对甜食漠不关心是出了名的。把糖浆倒在狗的附近，狗会进行调查。把糖浆倒在猫的附近，猫会视而不见。兽医和猫粮公司早就注意到，在喂食测试中，无论给猫吃多少糖，猫都不会偏爱糖。究其原因，并不是行为怪癖，也不是习得性厌恶。它是遗传的，可以追溯到几千万年前，现代猫的祖先成为只吃肉的义务肉食动物。在猫体内，舌头上产生甜味受体的基因 Tas1r2 已经断裂了很长时间，以至于不再起任何作用。猫看方糖的感觉与人看紫外线光源的感觉是一样的：信号存在，但能检测到信号的受体却不存在。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!summary]+ 基因&lt;/p&gt;
-&lt;p&gt;哺乳动物的甜味受体由 Tas1r2 和 Tas1r3 基因编码的两个蛋白质亚基组成，分别称为 T1R2 和 T1R3。这两个亚基必须同时存在并发挥作用，受体才能在味觉细胞膜上正确组装。莫奈尔研究小组对家猫、老虎和猎豹的这两个基因进行了测序，并将它们与狗、小鼠、大鼠和人类的相应序列进行了比较。猫体内的 Tas1r3 是完整的。而 Tas1r2 并非如此。猫的这一基因在其中一个关键外显子上有 247 个碱基对的缺失，此外还有其他的禁用突变，所有这些都阻碍了该基因被翻译成工作蛋白。研究人员还发现，猫的味觉组织中检测不到 Tas1r2 信使 RNA，猫的味蕾中没有 Tas1r2 蛋白，也没有证据表明该基因正在表达。在测试的每一种猫中，该基因都是在大致相同的位置断裂的。它变成了一个 “伪基因”：一个祖先工作基因的遗迹，因为不再面临保持完整的选择压力而不断积累突变。&lt;/p&gt;
-&lt;p&gt;猫的发现是第一个被确认的病例，现在人们已经了解到这是整个食肉动物的普遍现象。2012 年，莫奈尔领导的研究小组与苏黎世大学的同事合作，在《美国国家科学院院刊》（PNAS）上发表了一篇题为 &quot;食肉哺乳动物的主要味觉丧失 &quot;的后续论文。该研究小组对食肉目 12 个物种的 Tas1r2 进行了测序，寻找相同类型的假基因。在这些物种中，有 7 种都是肉食动物，它们也都独立地失去了功能性 Tas1r2。&lt;/p&gt;
-&lt;p&gt;受影响的动物包括加利福尼亚海狮、南方海狗、太平洋港海豹、亚洲小爪水獭、斑鬣狗、福萨（马达加斯加最大的食肉动物）和带状林桑。最重要的是，这些物种的致残突变都发生在 Tas1r2 基因的不同位置，这表明基因缺失是在每个品系中独立发生的，而不是从共同祖先那里遗传而来。在同样宽广的时间范围内，导致猫体内该基因失效的相同进化压力分别导致了至少七个其他食肉品系的该基因失效。对两个基因分型物种–亚洲小爪水獭（Tas1r2基因断裂）和眼镜熊（Tas1r2基因完好无损，尽管属于食草动物）–的行为测试证实了这一模式。水獭没有表现出对甜味化合物的偏好。黑熊则偏爱糖类，甚至是一些非热量甜味剂。&lt;/p&gt;
-&lt;p&gt;猫一般没有味觉障碍。它们保留着苦、酸、咸和鲜味的功能性受体，2015 年 PLOS One 的一项研究在家猫体内发现了至少七个功能性苦味受体基因，其反应特征与人类有很大的重叠。鲜味受体能检测出富含蛋白质的食物所特有的氨基酸，它与猫的行为特别相关：它能让猫区分肉类和非肉类，据推测，它在猫对食物的感官评估中起着重要作用。猫所缺乏的正是能让它们感知糖分的模式。&lt;/p&gt;
-&lt;p&gt;这对猫咪喂养的影响非常实际。从猫的角度来看，猫粮中的甜味成分，如有时添加到商业产品中的高果糖玉米糖浆或蔗糖，并不能增加猫的适口性。猫咪选择食物的标准是蛋白质含量、脂肪含量、氨基酸含量和口感，而不是甜度。主人发现猫咪舔冰淇淋或对一碗麦片感兴趣时，通常是对脂肪或蛋白质含量的反应，而不是对糖分的反应。对猫来说，糖是一种感官噪音。对于猫咪来说，它传递给人类舌头的信号根本不存在。&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288391&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Anthropic提交IPO招股书，估值达9650亿美元，年化营收超470亿美元</title>
-      <link>https://linux.do/t/topic/2288372</link>
-      <guid>linux.do-topic-2288372</guid>
-      <pubDate>Tue, 02 Jun 2026 01:00:58 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/3/5/6350ff1c3fe958cd846e54ea6b3877edcfe18ccd.png&quot; data-download-href=&quot;/uploads/short-url/eaANPUQj4JmJnUxqNsCn3Cgpq2N.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/5/6350ff1c3fe958cd846e54ea6b3877edcfe18ccd_2_428x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;eaANPUQj4JmJnUxqNsCn3Cgpq2N&quot; width=&quot;428&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/5/6350ff1c3fe958cd846e54ea6b3877edcfe18ccd_2_428x500.png, https://cdn3.ldstatic.com/optimized/4X/6/3/5/6350ff1c3fe958cd846e54ea6b3877edcfe18ccd_2_642x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/6/3/5/6350ff1c3fe958cd846e54ea6b3877edcfe18ccd.png 2x&quot; data-dominant-color=&quot;D7D7D7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.anthropic.com/news/confidential-draft-s1-sec&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/a/3/1a35c363ec192d11bd981efd0f4f4ede2b6ce133.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;CBCBC8&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.anthropic.com/news/confidential-draft-s1-sec&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;anthropic.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/d/4/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;EEEBE4&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.anthropic.com/news/confidential-draft-s1-sec&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Anthropic confidentially submits draft S-1 to the SEC&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288372&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>[Nvidia]为特定的GB202 GPU SKU启用GPU Profiling功能</title>
-      <link>https://linux.do/t/topic/2288277</link>
-      <guid>linux.do-topic-2288277</guid>
-      <pubDate>Tue, 02 Jun 2026 00:37:41 GMT</pubDate>
-      <description>
-            &lt;p&gt;针对GB202 GPU架构，受影响的特定型号包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;RTX 6000D BSE (GB202-891)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;RTX 5090DD (GB202-240)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;RTX 5090D (GB202-250)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;上述GB202 SKU的GPU性能分析（GPU profiling）支持情况将取决于具体的CUDA及相关开发者工具版本：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;CUDA版本要求&lt;/strong&gt;：这些GB202 SKU的GPU性能分析支持自CUDA 13.3版本开始提供。在此之前的CUDA版本（包括13.0、13.1、13.2）均不支持，若在旧版本下使用会导致显示“ERR_NVGPU”错误信息。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Nsight Compute&lt;/strong&gt;：2025*版本以及2026.1版本不支持；GPU性能分析自2026.2或更高版本开始获得支持。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;CUPTI&lt;/strong&gt;：CUDA 13.0、13.1、13.2版本不支持；GPU性能分析自CUDA 13.3及以上版本开始获得支持，且需要驱动程序版本在R580或更新版本。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Nsight Graphics&lt;/strong&gt;：2025*版本以及2026.1版本不支持；GPU性能分析自2026.2或更高版本开始获得支持。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Nsight Systems&lt;/strong&gt;：2025*版本、2026.1版本以及2026.2版本均不支持；GPU性能分析自2026.3或更高版本开始获得支持。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;PerfSDK&lt;/strong&gt;：2025*版本不支持；GPU性能分析自2026.3或更高版本开始获得支持。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18532385-h-629x500uploadz6kdup6qxf3jfrhrxu81z0kbbzmpng-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18532385-h-629x500uploadz6kdup6qxf3jfrhrxu81z0kbbzmpng-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/6/0/f60327ba9a8f07b51312fba0d0c8b5d9ddd7766c.png&quot; data-download-href=&quot;/uploads/short-url/z6kduP6qXF3jFrHRXu81Z0KbBzm.png?dl=1&quot; title=&quot;&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/6/0/f60327ba9a8f07b51312fba0d0c8b5d9ddd7766c_2_629x500.png&quot; alt=&quot;&quot; data-base62-sha1=&quot;z6kduP6qXF3jFrHRXu81Z0KbBzm&quot; width=&quot;629&quot; height=&quot;500&quot; role=&quot;presentation&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/6/0/f60327ba9a8f07b51312fba0d0c8b5d9ddd7766c_2_629x500.png, https://cdn3.ldstatic.com/optimized/4X/f/6/0/f60327ba9a8f07b51312fba0d0c8b5d9ddd7766c_2_943x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/f/6/0/f60327ba9a8f07b51312fba0d0c8b5d9ddd7766c.png 2x&quot; data-dominant-color=&quot;F7F7F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://developer.nvidia.com/err_nvgpu&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Source&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288277&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Claude AI 已重置所有订阅用户额度！并修复烧token BUG</title>
-      <link>https://linux.do/t/topic/2288080</link>
-      <guid>linux.do-topic-2288080</guid>
-      <pubDate>Mon, 01 Jun 2026 20:12:39 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/0/e/e0e23200d96adc5a776a976b3d6e4e83cb74ec2b.jpeg&quot; data-download-href=&quot;/uploads/short-url/w5pzCSuTTN7PUF2cUt0QAU0kw9t.jpeg?dl=1&quot; title=&quot;Screenshot20260602041035comtwitterandroidTweetDetailActivityedit974886242070712&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/0/e/e0e23200d96adc5a776a976b3d6e4e83cb74ec2b_2_513x500.jpeg&quot; alt=&quot;Screenshot20260602041035comtwitterandroidTweetDetailActivityedit974886242070712&quot; data-base62-sha1=&quot;w5pzCSuTTN7PUF2cUt0QAU0kw9t&quot; width=&quot;513&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/0/e/e0e23200d96adc5a776a976b3d6e4e83cb74ec2b_2_513x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/0/e/e0e23200d96adc5a776a976b3d6e4e83cb74ec2b_2_769x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/0/e/e0e23200d96adc5a776a976b3d6e4e83cb74ec2b_2_1026x1000.jpeg 2x&quot; data-dominant-color=&quot;111111&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288080&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>千问3.7plus发布</title>
-      <link>https://linux.do/t/topic/2287996</link>
-      <guid>linux.do-topic-2287996</guid>
-      <pubDate>Mon, 01 Jun 2026 18:26:56 GMT</pubDate>
-      <description>
-            &lt;p&gt;Qwen3.7再进化：全能「多模态」智能体基座&lt;/p&gt;
-&lt;p&gt;今天，Qwen3.7-Plus 正式发布！&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/rocket.png?v=15&quot; title=&quot;:rocket:&quot; class=&quot;emoji&quot; alt=&quot;:rocket:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-Qwen3.7-Plus 全面升级视觉理解、视觉编码、GUI 操作与真实世界推理能力，同时保持 Coding、工具调用和生产力工作流方面的完整智能体能力，是新一代视觉与语言一体化的智能体基座。Qwen3.7再进化：全能「多模态」智能体基座&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/a/0/3a0113655f257e70bd5ce2eff7610201be450204.jpeg&quot; data-download-href=&quot;/uploads/short-url/8h7ZSHV8Ks77xaHS1O3rqF45BPu.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/a/0/3a0113655f257e70bd5ce2eff7610201be450204.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8h7ZSHV8Ks77xaHS1O3rqF45BPu&quot; width=&quot;690&quot; height=&quot;404&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/7/a/77a900ef79662ed930bebb4511132327536dffba.jpeg&quot; data-download-href=&quot;/uploads/short-url/h4yUgYAOwV8scRHPSEkd0EhxS5A.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/7/a/77a900ef79662ed930bebb4511132327536dffba_2_223x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;h4yUgYAOwV8scRHPSEkd0EhxS5A&quot; width=&quot;223&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/7/a/77a900ef79662ed930bebb4511132327536dffba_2_223x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/7/a/77a900ef79662ed930bebb4511132327536dffba_2_334x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/7/a/77a900ef79662ed930bebb4511132327536dffba_2_446x1000.jpeg 2x&quot; data-dominant-color=&quot;F9F9FA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/7/4/274c862655900d34293570e1f363126407870780.jpeg&quot; data-download-href=&quot;/uploads/short-url/5BEzxNGUko0JLY1LNdSxjOj6j4Y.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/4/274c862655900d34293570e1f363126407870780_2_212x499.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5BEzxNGUko0JLY1LNdSxjOj6j4Y&quot; width=&quot;212&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/4/274c862655900d34293570e1f363126407870780_2_212x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/7/4/274c862655900d34293570e1f363126407870780_2_318x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/7/4/274c862655900d34293570e1f363126407870780_2_424x998.jpeg 2x&quot; data-dominant-color=&quot;F8F7FA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;百炼的api端已经有了&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/0/b/40b5b85e15520ccdb7c09e509399c82c4eaff88c.png&quot; data-download-href=&quot;/uploads/short-url/9erTi7tVwmLV8ZPRuUFMReyuSVS.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/b/40b5b85e15520ccdb7c09e509399c82c4eaff88c_2_525x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9erTi7tVwmLV8ZPRuUFMReyuSVS&quot; width=&quot;525&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/b/40b5b85e15520ccdb7c09e509399c82c4eaff88c_2_525x500.png, https://cdn3.ldstatic.com/optimized/4X/4/0/b/40b5b85e15520ccdb7c09e509399c82c4eaff88c_2_787x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/0/b/40b5b85e15520ccdb7c09e509399c82c4eaff88c_2_1050x1000.png 2x&quot; data-dominant-color=&quot;FBFBFC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;36 个帖子 - 34 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287996&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Codex Team可以设置移动端了</title>
-      <link>https://linux.do/t/topic/2287985</link>
-      <guid>linux.do-topic-2287985</guid>
-      <pubDate>Mon, 01 Jun 2026 18:20:05 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/0/a/40a49c9dfb1702c92b90602f285b093da389b5ec.png&quot; data-download-href=&quot;/uploads/short-url/9dReHVe9Hs3cLouq8WM9vt87O9e.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/a/40a49c9dfb1702c92b90602f285b093da389b5ec_2_485x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9dReHVe9Hs3cLouq8WM9vt87O9e&quot; width=&quot;485&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/a/40a49c9dfb1702c92b90602f285b093da389b5ec_2_485x500.png, https://cdn3.ldstatic.com/optimized/4X/4/0/a/40a49c9dfb1702c92b90602f285b093da389b5ec_2_727x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/0/a/40a49c9dfb1702c92b90602f285b093da389b5ec_2_970x1000.png 2x&quot; data-dominant-color=&quot;EEEEEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/2/4/2242836dc6ec17b50e828aed0e6bfc69015421e4.png&quot; data-download-href=&quot;/uploads/short-url/4T4JLXOMdEEbQNuU1KvvOEIMf1G.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/2/4/2242836dc6ec17b50e828aed0e6bfc69015421e4.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;4T4JLXOMdEEbQNuU1KvvOEIMf1G&quot; width=&quot;442&quot; height=&quot;328&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;更新下就有了&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287985&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Claude 额度重置了</title>
-      <link>https://linux.do/t/topic/2287967</link>
-      <guid>linux.do-topic-2287967</guid>
-      <pubDate>Mon, 01 Jun 2026 18:02:18 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/1/b/c1b3a97ee21bff2ab0fcf62974e6e2df5b61bbb3.png&quot; data-download-href=&quot;/uploads/short-url/rDz4IlR2vzZBptXqskHI3Y8cZTd.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b3a97ee21bff2ab0fcf62974e6e2df5b61bbb3_2_690x350.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;rDz4IlR2vzZBptXqskHI3Y8cZTd&quot; width=&quot;690&quot; height=&quot;350&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b3a97ee21bff2ab0fcf62974e6e2df5b61bbb3_2_690x350.png, https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b3a97ee21bff2ab0fcf62974e6e2df5b61bbb3_2_1035x525.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/1/b/c1b3a97ee21bff2ab0fcf62974e6e2df5b61bbb3.png 2x&quot; data-dominant-color=&quot;F2F3F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287967&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>cc 又重置了？是我这边的 bug 还是什么情况？</title>
-      <link>https://linux.do/t/topic/2287952</link>
-      <guid>linux.do-topic-2287952</guid>
-      <pubDate>Mon, 01 Jun 2026 17:49:58 GMT</pubDate>
-      <description>
-            &lt;p&gt;？？？？？？？最近这个 cc 疯狂放水啊&lt;/p&gt;
-&lt;p&gt;不是我的错觉是真重置了&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/1/b/c1b030d66a8b4cc4daf9e3398a39dd5a0113c836.jpeg&quot; data-download-href=&quot;/uploads/short-url/rDrDBu9eJzaEMNBSJ4EPa4EwJqS.jpeg?dl=1&quot; title=&quot;ceee215d48d86c74a09f87aaa7d527e3&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b030d66a8b4cc4daf9e3398a39dd5a0113c836_2_690x206.jpeg&quot; alt=&quot;ceee215d48d86c74a09f87aaa7d527e3&quot; data-base62-sha1=&quot;rDrDBu9eJzaEMNBSJ4EPa4EwJqS&quot; width=&quot;690&quot; height=&quot;206&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b030d66a8b4cc4daf9e3398a39dd5a0113c836_2_690x206.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b030d66a8b4cc4daf9e3398a39dd5a0113c836_2_1035x309.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/1/b/c1b030d66a8b4cc4daf9e3398a39dd5a0113c836_2_1380x412.jpeg 2x&quot; data-dominant-color=&quot;141414&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287952&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>MINIMAX捂嘴用户，在飞书群发表意见的用户被踢掉并开启入群认证</title>
-      <link>https://linux.do/t/topic/2287793</link>
-      <guid>linux.do-topic-2287793</guid>
-      <pubDate>Mon, 01 Jun 2026 16:28:54 GMT</pubDate>
-      <description>
-            &lt;p&gt;不多说了，如图，至于为什么维权请看文章： &lt;a href=&quot;https://linux.do/t/topic/2287438&quot;&gt;解读MINIMAX最新公告，各位，minimax飞书群已经把我踢了！闹剧重点不应该在周限额，而是应该在月度限额！！！ - 前沿快讯 - LINUX DO&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/8/a/f8a561558e779d1ecd9e31a86021061578be9ed2.jpeg&quot; data-download-href=&quot;/uploads/short-url/ztCJLpDIoD3OwGqkYa73btpC13k.jpeg?dl=1&quot; title=&quot;c35351f6290bc47bdd48d907a8b5e224&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/a/f8a561558e779d1ecd9e31a86021061578be9ed2_2_224x500.jpeg&quot; alt=&quot;c35351f6290bc47bdd48d907a8b5e224&quot; data-base62-sha1=&quot;ztCJLpDIoD3OwGqkYa73btpC13k&quot; width=&quot;224&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/a/f8a561558e779d1ecd9e31a86021061578be9ed2_2_224x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/8/a/f8a561558e779d1ecd9e31a86021061578be9ed2_2_336x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/8/a/f8a561558e779d1ecd9e31a86021061578be9ed2_2_448x1000.jpeg 2x&quot; data-dominant-color=&quot;919296&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287793&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>minimax补偿方案</title>
-      <link>https://linux.do/t/topic/2287721</link>
-      <guid>linux.do-topic-2287721</guid>
-      <pubDate>Mon, 01 Jun 2026 16:09:06 GMT</pubDate>
-      <description>
-            &lt;p&gt;总结：3月22前的用户无周限 3月22到今天上午10 周限加50% 外加补偿积分&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/4/0/a400f1f5307b71993f69d4adff5827fc1470f36f.png&quot; data-download-href=&quot;/uploads/short-url/noQksZx8yxif4p8U8CtgUr6Zj4j.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/4/0/a400f1f5307b71993f69d4adff5827fc1470f36f.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;noQksZx8yxif4p8U8CtgUr6Zj4j&quot; width=&quot;433&quot; height=&quot;500&quot; data-dominant-color=&quot;454547&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-看到大家说的月限补一下&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/8/8/f887befbe7b4085d67811c9b7fdde64f69c11094.jpeg&quot; data-download-href=&quot;/uploads/short-url/zsBfkfaosKll7lESxKhLdqIYhc8.jpeg?dl=1&quot; title=&quot;9c7a4f138ea1b0a1cfab1731a8695fa4&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/8/f887befbe7b4085d67811c9b7fdde64f69c11094_2_689x449.jpeg&quot; alt=&quot;9c7a4f138ea1b0a1cfab1731a8695fa4&quot; data-base62-sha1=&quot;zsBfkfaosKll7lESxKhLdqIYhc8&quot; width=&quot;689&quot; height=&quot;449&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/8/f887befbe7b4085d67811c9b7fdde64f69c11094_2_689x449.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/8/8/f887befbe7b4085d67811c9b7fdde64f69c11094_2_1033x673.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/f/8/8/f887befbe7b4085d67811c9b7fdde64f69c11094.jpeg 2x&quot; data-dominant-color=&quot;232323&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;16 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2287721&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>

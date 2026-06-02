@@ -4,16 +4,270 @@
     <title>LINUX DO - Welfare</title>
     <link>https://linux.do/c/welfare/36</link>
     <description>Welfare category from linux.do</description>
-    <lastBuildDate>Tue, 02 Jun 2026 02:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 07:15:27 GMT</lastBuildDate>
     <item>
-      <title>跳蚤市场要解锁需要什么前置条件吗？</title>
-      <link>https://linux.do/t/topic/2289075</link>
-      <guid>linux.do-topic-2289075</guid>
-      <pubDate>Tue, 02 Jun 2026 02:33:51 GMT</pubDate>
+      <title>通过 Google Workspace 实现 14 人民币每年购买 com net 等顶级域名（续费同价）</title>
+      <link>https://linux.do/t/topic/2291068</link>
+      <guid>linux.do-topic-2291068</guid>
+      <pubDate>Tue, 02 Jun 2026 07:10:42 GMT</pubDate>
       <description>
-            &lt;p&gt;加入社区之后也是终于升到2级了，但是为什么还是没有解锁跳蚤市场呢？跳蚤市场要怎么才能解锁呢各位佬友。&lt;/p&gt;
+            &lt;h2&gt;&lt;a name=&quot;p-18550962-google7511-google-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-google7511-google-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;今天群里边的大佬说Google扣了75里拉来续费域名，现在的汇率算下来只要11块人民币了。&lt;br&gt;
+所以把这个帖子转一下。想长期薅Google羊毛的可以试一下。&lt;/h2&gt;
+&lt;p&gt;一直以来，com 域名的价格都在 70 + 左右，有时候即使首年很便宜，但是续费却仍然需要 70 + 的价格，而现在有一个方案可以实现首年只需要 14 元人民币就可以购买到一个 com net 等顶级域名，&lt;s&gt;并且理论上续费也是同样的价格续费，不过因为目前并没有足够的时间测试续费价格是否和购买价格一致，所以请理性看待本篇文章&lt;/s&gt;经实践检验，续费也是75里拉，约人民币11块。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;核心：利用土耳其的低价进行购买&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;准备工作：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一张实体信用卡 （虚拟卡会触发风控，要求上传照片&lt;/li&gt;
+&lt;li&gt;一个 Google 账号&lt;/li&gt;
+&lt;li&gt;一个用于注册新 Google 账号的手机号 （用于接码&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;&lt;a name=&quot;p-18550962-workspace-2&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-workspace-2&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;注册 workspace&lt;/strong&gt;&lt;/h2&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://workspace.google.com/intl/zh-CN/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/f/b/dfb1be996c3a12b2bde5024398a7e3750ad0e86a.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;879472&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;
+
+      &lt;a href=&quot;https://workspace.google.com/intl/zh-CN/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Google Workspace&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/6/3/3635341a42494c2b8c58ffed1f487424285f5425_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;FAFBFC&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://workspace.google.com/intl/zh-CN/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Google Workspace | 办公应用 &amp; 协作工具&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Google Workspace（旧称 G Suite）的协作与效率应用可满足不同规模企业的需求，且确保安全无虞，欢迎试用。应用包括 Gmail、云端硬盘、Meet 等产品&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-3&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-3&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;点击开始试用&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/b/e/4bee11911482c900c59b3d81b59e733b6c82ecee.jpeg&quot; data-download-href=&quot;/uploads/short-url/aPHRW5mmQUh0gDBJRIUdm1ClVmu.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/b/e/4bee11911482c900c59b3d81b59e733b6c82ecee_2_690x318.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;aPHRW5mmQUh0gDBJRIUdm1ClVmu&quot; width=&quot;690&quot; height=&quot;318&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/b/e/4bee11911482c900c59b3d81b59e733b6c82ecee_2_690x318.jpeg, https://cdn3.ldstatic.com/original/4X/4/b/e/4bee11911482c900c59b3d81b59e733b6c82ecee.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/4/b/e/4bee11911482c900c59b3d81b59e733b6c82ecee.jpeg 2x&quot; data-dominant-color=&quot;F6F6F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-4&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-4&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;填写公司名称等信息&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;区域一定要选择&lt;code&gt;土耳其&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/8/8/f880855640e37f610a05aae6ff40bd7269dbf600.jpeg&quot; data-download-href=&quot;/uploads/short-url/zslLzz6W68tvZo1HSY74btnfuTu.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/8/f880855640e37f610a05aae6ff40bd7269dbf600_2_690x472.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zslLzz6W68tvZo1HSY74btnfuTu&quot; width=&quot;690&quot; height=&quot;472&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/8/f880855640e37f610a05aae6ff40bd7269dbf600_2_690x472.jpeg, https://cdn3.ldstatic.com/original/4X/f/8/8/f880855640e37f610a05aae6ff40bd7269dbf600.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/f/8/8/f880855640e37f610a05aae6ff40bd7269dbf600.jpeg 2x&quot; data-dominant-color=&quot;F7F8FA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-5&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-5&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;填写联系信息&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/c/0/ec080c5ff3c69acfea09fad3ca5781a15245e48e.png&quot; data-download-href=&quot;/uploads/short-url/xG1VrvZsJbeOYgBqom97tErI41M.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/0/ec080c5ff3c69acfea09fad3ca5781a15245e48e_2_690x425.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xG1VrvZsJbeOYgBqom97tErI41M&quot; width=&quot;690&quot; height=&quot;425&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/0/ec080c5ff3c69acfea09fad3ca5781a15245e48e_2_690x425.png, https://cdn3.ldstatic.com/original/4X/e/c/0/ec080c5ff3c69acfea09fad3ca5781a15245e48e.png 1.5x, https://cdn3.ldstatic.com/original/4X/e/c/0/ec080c5ff3c69acfea09fad3ca5781a15245e48e.png 2x&quot; data-dominant-color=&quot;FAFAFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-6&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-6&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;选择设置账号方式&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;必须选择 &lt;code&gt;获取新的自定义域名&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/0/0/c0044c0b128c6efb4b20174e5043b28bf0c3e715.jpeg&quot; data-download-href=&quot;/uploads/short-url/roESBpzpTysqJayBog9rTWK1osl.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/0/0/c0044c0b128c6efb4b20174e5043b28bf0c3e715_2_690x378.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;roESBpzpTysqJayBog9rTWK1osl&quot; width=&quot;690&quot; height=&quot;378&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/0/0/c0044c0b128c6efb4b20174e5043b28bf0c3e715_2_690x378.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/0/0/c0044c0b128c6efb4b20174e5043b28bf0c3e715_2_1035x567.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/c/0/0/c0044c0b128c6efb4b20174e5043b28bf0c3e715.jpeg 2x&quot; data-dominant-color=&quot;EFF1F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-7&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-7&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;选择你需要的域名&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;可以看到这里有很多的顶级域名都是 75 里拉的价格，选择你喜欢的后缀即可&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/5/c/35c935b7fc99208deef2fe2be02ca40ffc69b786.png&quot; data-download-href=&quot;/uploads/short-url/7FOoyjQ3hTakvgTqgkV9bVYygaa.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/c/35c935b7fc99208deef2fe2be02ca40ffc69b786_2_431x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;7FOoyjQ3hTakvgTqgkV9bVYygaa&quot; width=&quot;431&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/c/35c935b7fc99208deef2fe2be02ca40ffc69b786_2_431x500.png, https://cdn3.ldstatic.com/original/4X/3/5/c/35c935b7fc99208deef2fe2be02ca40ffc69b786.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/5/c/35c935b7fc99208deef2fe2be02ca40ffc69b786.png 2x&quot; data-dominant-color=&quot;FAFAFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-8&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-8&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;查看域名信息&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/2/e/f2efa5785c6007c5e07be670f2465d56b94a6d76.jpeg&quot; data-download-href=&quot;/uploads/short-url/yF6Zfc3zoD3b8BB9IsNDEguBG6y.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/2/e/f2efa5785c6007c5e07be670f2465d56b94a6d76_2_569x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;yF6Zfc3zoD3b8BB9IsNDEguBG6y&quot; width=&quot;569&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/2/e/f2efa5785c6007c5e07be670f2465d56b94a6d76_2_569x500.jpeg, https://cdn3.ldstatic.com/original/4X/f/2/e/f2efa5785c6007c5e07be670f2465d56b94a6d76.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/f/2/e/f2efa5785c6007c5e07be670f2465d56b94a6d76.jpeg 2x&quot; data-dominant-color=&quot;EFF0F2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-9&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-9&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;填写企业信息&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;建议使用&lt;code&gt;土耳其&lt;/code&gt;的地址，因为我们要通过里拉进行付款&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/5/4/6545deffeee3f46145311a4f3222bce1ddc6744b.png&quot; data-download-href=&quot;/uploads/short-url/erTVcDdjU7FfH1doXxk7uT6ooSn.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/5/4/6545deffeee3f46145311a4f3222bce1ddc6744b_2_398x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;erTVcDdjU7FfH1doXxk7uT6ooSn&quot; width=&quot;398&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/5/4/6545deffeee3f46145311a4f3222bce1ddc6744b_2_398x500.png, https://cdn3.ldstatic.com/original/4X/6/5/4/6545deffeee3f46145311a4f3222bce1ddc6744b.png 1.5x, https://cdn3.ldstatic.com/original/4X/6/5/4/6545deffeee3f46145311a4f3222bce1ddc6744b.png 2x&quot; data-dominant-color=&quot;F9FAFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-10&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-10&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;设置登录信息&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/e/e/2ee013d36be09470751166d14dacdad86e23d444.png&quot; data-download-href=&quot;/uploads/short-url/6GG2W1iPZtwiBQb2ZnqKlRdVSMA.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/e/e/2ee013d36be09470751166d14dacdad86e23d444_2_494x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6GG2W1iPZtwiBQb2ZnqKlRdVSMA&quot; width=&quot;494&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/e/e/2ee013d36be09470751166d14dacdad86e23d444_2_494x500.png, https://cdn3.ldstatic.com/original/4X/2/e/e/2ee013d36be09470751166d14dacdad86e23d444.png 1.5x, https://cdn3.ldstatic.com/original/4X/2/e/e/2ee013d36be09470751166d14dacdad86e23d444.png 2x&quot; data-dominant-color=&quot;F7F8F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-11&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-11&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;跳转登录页面&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/3/f/43fd1bb8f9abb76aa063374d882e81afd4292b68.png&quot; data-download-href=&quot;/uploads/short-url/9HsgTCgN53Cjj7dwjUG1mgQ4oJ2.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/3/f/43fd1bb8f9abb76aa063374d882e81afd4292b68_2_690x303.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9HsgTCgN53Cjj7dwjUG1mgQ4oJ2&quot; width=&quot;690&quot; height=&quot;303&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/3/f/43fd1bb8f9abb76aa063374d882e81afd4292b68_2_690x303.png, https://cdn3.ldstatic.com/optimized/4X/4/3/f/43fd1bb8f9abb76aa063374d882e81afd4292b68_2_1035x454.png 1.5x, https://cdn3.ldstatic.com/original/4X/4/3/f/43fd1bb8f9abb76aa063374d882e81afd4292b68.png 2x&quot; data-dominant-color=&quot;181919&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-12&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-12&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;输入密码登录&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/2/d/92d9b60b95011314342f397893f1826230a5d9d9.png&quot; data-download-href=&quot;/uploads/short-url/kX69AgGZL0n95iBp9YIDeSI3vLj.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/2/d/92d9b60b95011314342f397893f1826230a5d9d9_2_690x314.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;kX69AgGZL0n95iBp9YIDeSI3vLj&quot; width=&quot;690&quot; height=&quot;314&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/2/d/92d9b60b95011314342f397893f1826230a5d9d9_2_690x314.png, https://cdn3.ldstatic.com/optimized/4X/9/2/d/92d9b60b95011314342f397893f1826230a5d9d9_2_1035x471.png 1.5x, https://cdn3.ldstatic.com/original/4X/9/2/d/92d9b60b95011314342f397893f1826230a5d9d9.png 2x&quot; data-dominant-color=&quot;151616&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-13&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-13&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;验证手机号&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;输入准备接码的手机号 +86 可接&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/8/8/38888feb69a9e1ca150abbdc69c1498361589021.png&quot; data-download-href=&quot;/uploads/short-url/847jVLrqQyB4xykGe7YrJh8qGpr.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/8/8/38888feb69a9e1ca150abbdc69c1498361589021_2_282x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;847jVLrqQyB4xykGe7YrJh8qGpr&quot; width=&quot;282&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/8/8/38888feb69a9e1ca150abbdc69c1498361589021_2_282x500.png, https://cdn3.ldstatic.com/original/4X/3/8/8/38888feb69a9e1ca150abbdc69c1498361589021.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/8/8/38888feb69a9e1ca150abbdc69c1498361589021.png 2x&quot; data-dominant-color=&quot;E7E9E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;输入收到的短信验证码&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/f/4/4f451dce3d6104ab27aed96e15036ef675fce7a1.png&quot; data-download-href=&quot;/uploads/short-url/bjfNGHcPgH0iq6KoifWx6JRQSfn.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/f/4/4f451dce3d6104ab27aed96e15036ef675fce7a1_2_378x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bjfNGHcPgH0iq6KoifWx6JRQSfn&quot; width=&quot;378&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/f/4/4f451dce3d6104ab27aed96e15036ef675fce7a1_2_378x500.png, https://cdn3.ldstatic.com/original/4X/4/f/4/4f451dce3d6104ab27aed96e15036ef675fce7a1.png 1.5x, https://cdn3.ldstatic.com/original/4X/4/f/4/4f451dce3d6104ab27aed96e15036ef675fce7a1.png 2x&quot; data-dominant-color=&quot;E5EAF3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-14&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-14&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;注册成功&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/f/2/5f204a7dd414845b8e4dcc75dfb6b0d2ed9cb391.jpeg&quot; data-download-href=&quot;/uploads/short-url/dzwxExi0hQzLJteXLwnSyEUC3YJ.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/f/2/5f204a7dd414845b8e4dcc75dfb6b0d2ed9cb391.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;dzwxExi0hQzLJteXLwnSyEUC3YJ&quot; width=&quot;568&quot; height=&quot;500&quot; data-dominant-color=&quot;DEE2E8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-15&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-15&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;开始试用&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/b/5/3b5310a89d6bb490d8b0b86b2055b26f22e2d4bc.png&quot; data-download-href=&quot;/uploads/short-url/8sO8u4dufA8M5R14o8UIkBmkVE8.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/b/5/3b5310a89d6bb490d8b0b86b2055b26f22e2d4bc_2_243x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8sO8u4dufA8M5R14o8UIkBmkVE8&quot; width=&quot;243&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/b/5/3b5310a89d6bb490d8b0b86b2055b26f22e2d4bc_2_243x500.png, https://cdn3.ldstatic.com/original/4X/3/b/5/3b5310a89d6bb490d8b0b86b2055b26f22e2d4bc.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/b/5/3b5310a89d6bb490d8b0b86b2055b26f22e2d4bc.png 2x&quot; data-dominant-color=&quot;E9EEF4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-16&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-16&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;查看订阅信息&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;workspace 前 14 天是免费的，并且后面也会取消，所以不用关注，主要看下域名和价格是否正确&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/6/0/f6018eeb3af7707db1650de6215e61921f8de419.png&quot; data-download-href=&quot;/uploads/short-url/z6gNn46QkzEANCj4QKEyNnZAl73.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/6/0/f6018eeb3af7707db1650de6215e61921f8de419_2_457x499.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;z6gNn46QkzEANCj4QKEyNnZAl73&quot; width=&quot;457&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/6/0/f6018eeb3af7707db1650de6215e61921f8de419_2_457x499.png, https://cdn3.ldstatic.com/original/4X/f/6/0/f6018eeb3af7707db1650de6215e61921f8de419.png 1.5x, https://cdn3.ldstatic.com/original/4X/f/6/0/f6018eeb3af7707db1650de6215e61921f8de419.png 2x&quot; data-dominant-color=&quot;F9F9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-17&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-17&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;添加付款信息&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/e/2/8e22a904292020e007a62e7166b8bb1cb8f5b7b3.png&quot; data-download-href=&quot;/uploads/short-url/kho3IzpeHVMfRmJ9fGTASVlOMEz.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/2/8e22a904292020e007a62e7166b8bb1cb8f5b7b3_2_469x499.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;kho3IzpeHVMfRmJ9fGTASVlOMEz&quot; width=&quot;469&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/2/8e22a904292020e007a62e7166b8bb1cb8f5b7b3_2_469x499.png, https://cdn3.ldstatic.com/original/4X/8/e/2/8e22a904292020e007a62e7166b8bb1cb8f5b7b3.png 1.5x, https://cdn3.ldstatic.com/original/4X/8/e/2/8e22a904292020e007a62e7166b8bb1cb8f5b7b3.png 2x&quot; data-dominant-color=&quot;F5F6F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;如果付款信息没有任何问题，那么就会跳转到添加用户信息页面，如果付款出现风控，就会是以下页面&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/6/a/a6acf371b6352f7742609ea3d2cc2ebc4a4a3c83.jpeg&quot; data-download-href=&quot;/uploads/short-url/nMtNXvI8q0W76J6yv2od3QcvxPt.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/a/a6acf371b6352f7742609ea3d2cc2ebc4a4a3c83_2_493x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nMtNXvI8q0W76J6yv2od3QcvxPt&quot; width=&quot;493&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/a/a6acf371b6352f7742609ea3d2cc2ebc4a4a3c83_2_493x500.jpeg, https://cdn3.ldstatic.com/original/4X/a/6/a/a6acf371b6352f7742609ea3d2cc2ebc4a4a3c83.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/a/6/a/a6acf371b6352f7742609ea3d2cc2ebc4a4a3c83.jpeg 2x&quot; data-dominant-color=&quot;F8F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;如果出现风控，要么自己尝试上传证件，要么放弃这个号，另外前面选择的域名不会被释放，即使你换号也无法重复注册相同的域名，可能 14 天之后可以，目前不清楚&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-18&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-18&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;添加用户信息&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;不用添加用户，点击跳过&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/2/4/824d502f1e613dcc7d25f1a72e23d66b3192986a.png&quot; data-download-href=&quot;/uploads/short-url/iAHIgu6RLH1C5KI9CuODaOf2TAS.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/2/4/824d502f1e613dcc7d25f1a72e23d66b3192986a_2_486x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;iAHIgu6RLH1C5KI9CuODaOf2TAS&quot; width=&quot;486&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/2/4/824d502f1e613dcc7d25f1a72e23d66b3192986a_2_486x500.png, https://cdn3.ldstatic.com/original/4X/8/2/4/824d502f1e613dcc7d25f1a72e23d66b3192986a.png 1.5x, https://cdn3.ldstatic.com/original/4X/8/2/4/824d502f1e613dcc7d25f1a72e23d66b3192986a.png 2x&quot; data-dominant-color=&quot;F4F4F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-19&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-19&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;个性化设置&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;可以点击&lt;code&gt;我还不确定&lt;/code&gt;来跳过&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/8/c/b8c5cbb66092e8af015e6b8c327e9c3dbdab9e6a.jpeg&quot; data-download-href=&quot;/uploads/short-url/qmzD3K4u2istp8mB6Q2T2cy9u6C.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/8/c/b8c5cbb66092e8af015e6b8c327e9c3dbdab9e6a_2_558x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;qmzD3K4u2istp8mB6Q2T2cy9u6C&quot; width=&quot;558&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/8/c/b8c5cbb66092e8af015e6b8c327e9c3dbdab9e6a_2_558x500.jpeg, https://cdn3.ldstatic.com/original/4X/b/8/c/b8c5cbb66092e8af015e6b8c327e9c3dbdab9e6a.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/b/8/c/b8c5cbb66092e8af015e6b8c327e9c3dbdab9e6a.jpeg 2x&quot; data-dominant-color=&quot;F0F1F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-20&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-20&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;设置完成&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;设置完成之后即可来到这个页面&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/8/5/f855a6763b786a009bf2cfcecbead1a3155150b4.jpeg&quot; data-download-href=&quot;/uploads/short-url/zqRUSKe6uGQXYaIALel8FWxCSZS.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/5/f855a6763b786a009bf2cfcecbead1a3155150b4_2_627x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zqRUSKe6uGQXYaIALel8FWxCSZS&quot; width=&quot;627&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/5/f855a6763b786a009bf2cfcecbead1a3155150b4_2_627x500.jpeg, https://cdn3.ldstatic.com/original/4X/f/8/5/f855a6763b786a009bf2cfcecbead1a3155150b4.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/f/8/5/f855a6763b786a009bf2cfcecbead1a3155150b4.jpeg 2x&quot; data-dominant-color=&quot;F5F6F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-21&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-21&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;邮件&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;这个时候会收到 Google 的邮件，告诉你相关信息&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/4/6/5466796b63667736eb2a3f956f332ef4cae81ae9.jpeg&quot; data-download-href=&quot;/uploads/short-url/c2DEM80WUqq2Gb9u19FKzc9NREt.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/4/6/5466796b63667736eb2a3f956f332ef4cae81ae9_2_405x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;c2DEM80WUqq2Gb9u19FKzc9NREt&quot; width=&quot;405&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/4/6/5466796b63667736eb2a3f956f332ef4cae81ae9_2_405x500.jpeg, https://cdn3.ldstatic.com/original/4X/5/4/6/5466796b63667736eb2a3f956f332ef4cae81ae9.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/5/4/6/5466796b63667736eb2a3f956f332ef4cae81ae9.jpeg 2x&quot; data-dominant-color=&quot;EDEFF1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-squarespace-22&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-squarespace-22&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;squarespace 邮件&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;因为域名是在 squarespace 注册的，所以你会收到 squarespace 的确认邮件&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/a/e/2ae129d37f1c7033a31f4f4aecb2d94fade779b0.png&quot; data-download-href=&quot;/uploads/short-url/67ksLVYsLd7Cepuw5meYWhh4apG.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/a/e/2ae129d37f1c7033a31f4f4aecb2d94fade779b0_2_454x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;67ksLVYsLd7Cepuw5meYWhh4apG&quot; width=&quot;454&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/a/e/2ae129d37f1c7033a31f4f4aecb2d94fade779b0_2_454x500.png, https://cdn3.ldstatic.com/original/4X/2/a/e/2ae129d37f1c7033a31f4f4aecb2d94fade779b0.png 1.5x, https://cdn3.ldstatic.com/original/4X/2/a/e/2ae129d37f1c7033a31f4f4aecb2d94fade779b0.png 2x&quot; data-dominant-color=&quot;EFEFEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;点击确认&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/8/6/786d7ce514a18ca89e947ead1e8f183786f38e64.png&quot; data-download-href=&quot;/uploads/short-url/hblS8kpDq32kkfP2ZTq6FqrN1xW.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/8/6/786d7ce514a18ca89e947ead1e8f183786f38e64_2_690x356.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;hblS8kpDq32kkfP2ZTq6FqrN1xW&quot; width=&quot;690&quot; height=&quot;356&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/8/6/786d7ce514a18ca89e947ead1e8f183786f38e64_2_690x356.png, https://cdn3.ldstatic.com/original/4X/7/8/6/786d7ce514a18ca89e947ead1e8f183786f38e64.png 1.5x, https://cdn3.ldstatic.com/original/4X/7/8/6/786d7ce514a18ca89e947ead1e8f183786f38e64.png 2x&quot; data-dominant-color=&quot;DCDCDC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18550962-h-23&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-h-23&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;查看域名&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;这个时候就可以登录 &lt;a href=&quot;https://account.squarespace.com/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;squarespace&lt;/a&gt; 查看域名信息了&lt;/p&gt;
+&lt;p&gt;选择右边的 &lt;code&gt;Continue with Google&lt;/code&gt; 登录，不要使用邮箱，图中是错误示范&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/f/d/ffd4045a39734547bea8c8b98fa0372ded546f57.png&quot; data-download-href=&quot;/uploads/short-url/Av9ZXi9ucWnwexXGpSERRVHWmXR.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/f/d/ffd4045a39734547bea8c8b98fa0372ded546f57_2_690x311.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;Av9ZXi9ucWnwexXGpSERRVHWmXR&quot; width=&quot;690&quot; height=&quot;311&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/f/d/ffd4045a39734547bea8c8b98fa0372ded546f57_2_690x311.png, https://cdn3.ldstatic.com/original/4X/f/f/d/ffd4045a39734547bea8c8b98fa0372ded546f57.png 1.5x, https://cdn3.ldstatic.com/original/4X/f/f/d/ffd4045a39734547bea8c8b98fa0372ded546f57.png 2x&quot; data-dominant-color=&quot;EEEEEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;选择之前注册的新 Google 帐户&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/a/5/4a51753f0ebb28723c46112923a5335e9c15efac.png&quot; data-download-href=&quot;/uploads/short-url/aBrR3xos6gj9MABAlLQqQuuWf8M.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/a/5/4a51753f0ebb28723c46112923a5335e9c15efac_2_359x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;aBrR3xos6gj9MABAlLQqQuuWf8M&quot; width=&quot;359&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/a/5/4a51753f0ebb28723c46112923a5335e9c15efac_2_359x500.png, https://cdn3.ldstatic.com/original/4X/4/a/5/4a51753f0ebb28723c46112923a5335e9c15efac.png 1.5x, https://cdn3.ldstatic.com/original/4X/4/a/5/4a51753f0ebb28723c46112923a5335e9c15efac.png 2x&quot; data-dominant-color=&quot;1F1F1F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;然后就能看到注册的域名了&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/8/a/58a07beaa9f4670416b627eaa21016f40b7f7703.png&quot; data-download-href=&quot;/uploads/short-url/cE1QSvuwhS79e8jcpTCcDwbbStd.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/8/a/58a07beaa9f4670416b627eaa21016f40b7f7703_2_689x222.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cE1QSvuwhS79e8jcpTCcDwbbStd&quot; width=&quot;689&quot; height=&quot;222&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/8/a/58a07beaa9f4670416b627eaa21016f40b7f7703_2_689x222.png, https://cdn3.ldstatic.com/optimized/4X/5/8/a/58a07beaa9f4670416b627eaa21016f40b7f7703_2_1033x333.png 1.5x, https://cdn3.ldstatic.com/original/4X/5/8/a/58a07beaa9f4670416b627eaa21016f40b7f7703.png 2x&quot; data-dominant-color=&quot;F7F6F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;p-18550962-google-workspace-24&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-google-workspace-24&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;取消 Google workspace 的订阅&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;有需求的可以保留 workspace 的订阅，因为换算下来也挺便宜的&lt;/p&gt;
+&lt;p&gt;访问&lt;a href=&quot;https://admin.google.com/ac/billing/subscriptions&quot; rel=&quot;noopener nofollow ugc&quot;&gt;订阅管理&lt;/a&gt;，点击 workspace 的订阅&lt;br&gt;
+点击 更多 - 取消订阅&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/a/6/2a6fc1d627d14078fbc8972fbfef6a345305f9d3.png&quot; data-download-href=&quot;/uploads/short-url/63puwMG9609r8bCjrGb4VUQQGlR.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/a/6/2a6fc1d627d14078fbc8972fbfef6a345305f9d3_2_690x259.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;63puwMG9609r8bCjrGb4VUQQGlR&quot; width=&quot;690&quot; height=&quot;259&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/a/6/2a6fc1d627d14078fbc8972fbfef6a345305f9d3_2_690x259.png, https://cdn3.ldstatic.com/optimized/4X/2/a/6/2a6fc1d627d14078fbc8972fbfef6a345305f9d3_2_1035x388.png 1.5x, https://cdn3.ldstatic.com/original/4X/2/a/6/2a6fc1d627d14078fbc8972fbfef6a345305f9d3.png 2x&quot; data-dominant-color=&quot;FAFAFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;选择任意取消理由&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/a/1/5a1d4de67e59d060ef193561d4813ba1d74eafbf.png&quot; data-download-href=&quot;/uploads/short-url/cRbKU1vvL9NvZvf9peTxdQ11zgb.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/1/5a1d4de67e59d060ef193561d4813ba1d74eafbf_2_690x352.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cRbKU1vvL9NvZvf9peTxdQ11zgb&quot; width=&quot;690&quot; height=&quot;352&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/1/5a1d4de67e59d060ef193561d4813ba1d74eafbf_2_690x352.png, https://cdn3.ldstatic.com/optimized/4X/5/a/1/5a1d4de67e59d060ef193561d4813ba1d74eafbf_2_1035x528.png 1.5x, https://cdn3.ldstatic.com/original/4X/5/a/1/5a1d4de67e59d060ef193561d4813ba1d74eafbf.png 2x&quot; data-dominant-color=&quot;F9FAFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;点击 取消订阅&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/8/6/0863412f64bcd01050c9f22e2ffad03f08d88776.png&quot; data-download-href=&quot;/uploads/short-url/1cctfHr6ugdsVVr6ERVHr1lAJLg.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/8/6/0863412f64bcd01050c9f22e2ffad03f08d88776_2_690x200.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;1cctfHr6ugdsVVr6ERVHr1lAJLg&quot; width=&quot;690&quot; height=&quot;200&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/8/6/0863412f64bcd01050c9f22e2ffad03f08d88776_2_690x200.png, https://cdn3.ldstatic.com/optimized/4X/0/8/6/0863412f64bcd01050c9f22e2ffad03f08d88776_2_1035x300.png 1.5x, https://cdn3.ldstatic.com/original/4X/0/8/6/0863412f64bcd01050c9f22e2ffad03f08d88776.png 2x&quot; data-dominant-color=&quot;F7F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;输入管理员邮件地址 点击 取消我的订阅&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/6/5/a654a67bf024b9fa4e10976e9198cc7915047c93.png&quot; data-download-href=&quot;/uploads/short-url/nJqCBdY5uUjKkcm4ErobwWH2can.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/5/a654a67bf024b9fa4e10976e9198cc7915047c93_2_690x450.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nJqCBdY5uUjKkcm4ErobwWH2can&quot; width=&quot;690&quot; height=&quot;450&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/5/a654a67bf024b9fa4e10976e9198cc7915047c93_2_690x450.png, https://cdn3.ldstatic.com/original/4X/a/6/5/a654a67bf024b9fa4e10976e9198cc7915047c93.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/6/5/a654a67bf024b9fa4e10976e9198cc7915047c93.png 2x&quot; data-dominant-color=&quot;F9F8F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;取消成功&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/c/d/1cd8ce74506e69274905118e94fe0106fbb75fd9.png&quot; data-download-href=&quot;/uploads/short-url/47bSf1oP7tteM8sYQ6ZNqU8wyEx.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/c/d/1cd8ce74506e69274905118e94fe0106fbb75fd9_2_690x420.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;47bSf1oP7tteM8sYQ6ZNqU8wyEx&quot; width=&quot;690&quot; height=&quot;420&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/c/d/1cd8ce74506e69274905118e94fe0106fbb75fd9_2_690x420.png, https://cdn3.ldstatic.com/original/4X/1/c/d/1cd8ce74506e69274905118e94fe0106fbb75fd9.png 1.5x, https://cdn3.ldstatic.com/original/4X/1/c/d/1cd8ce74506e69274905118e94fe0106fbb75fd9.png 2x&quot; data-dominant-color=&quot;C0CAE0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;查看订阅，只有域名注册服务&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/7/9/c79f97e6f5402dd5b713d87118b5f18cd8bf8f24.png&quot; data-download-href=&quot;/uploads/short-url/stWWw5RdegMTA37JHGF7Mjy6Qdu.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/7/9/c79f97e6f5402dd5b713d87118b5f18cd8bf8f24_2_690x99.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;stWWw5RdegMTA37JHGF7Mjy6Qdu&quot; width=&quot;690&quot; height=&quot;99&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/7/9/c79f97e6f5402dd5b713d87118b5f18cd8bf8f24_2_690x99.png, https://cdn3.ldstatic.com/optimized/4X/c/7/9/c79f97e6f5402dd5b713d87118b5f18cd8bf8f24_2_1035x148.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/7/9/c79f97e6f5402dd5b713d87118b5f18cd8bf8f24.png 2x&quot; data-dominant-color=&quot;FAFAFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;取消订阅的邮件&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/a/8/ba85ca3319313737f590ed199130b8077d1b0fc1.jpeg&quot; data-download-href=&quot;/uploads/short-url/qC3s519dOMKijk7VXYxPl7jviyB.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/a/8/ba85ca3319313737f590ed199130b8077d1b0fc1_2_583x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;qC3s519dOMKijk7VXYxPl7jviyB&quot; width=&quot;583&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/a/8/ba85ca3319313737f590ed199130b8077d1b0fc1_2_583x500.jpeg, https://cdn3.ldstatic.com/original/4X/b/a/8/ba85ca3319313737f590ed199130b8077d1b0fc1.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/b/a/8/ba85ca3319313737f590ed199130b8077d1b0fc1.jpeg 2x&quot; data-dominant-color=&quot;F2F2F2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;p-18550962-ns-25&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18550962-ns-25&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;修改 NS 记录&lt;/strong&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;目前并不确定修改 NS 记录是否会影响续费，我已经询问 Google 了，暂时没有回复&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;访问 &lt;a href=&quot;https://account.squarespace.com/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;squarespace&lt;/a&gt;，进入域名管理页面即可修改&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/9/3/693260f69c585109237170c1b38cbf1f98ade94f.jpeg&quot; data-download-href=&quot;/uploads/short-url/f0C4mC3Tzfww28foVncv5eMXOXl.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/9/3/693260f69c585109237170c1b38cbf1f98ade94f_2_690x292.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;f0C4mC3Tzfww28foVncv5eMXOXl&quot; width=&quot;690&quot; height=&quot;292&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/9/3/693260f69c585109237170c1b38cbf1f98ade94f_2_690x292.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/9/3/693260f69c585109237170c1b38cbf1f98ade94f_2_1035x438.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/9/3/693260f69c585109237170c1b38cbf1f98ade94f_2_1380x584.jpeg 2x&quot; data-dominant-color=&quot;F9F9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;大功告成出处来自cipheror&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2291068&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>还有十几天的minimax的Token Plan速蹬</title>
+      <link>https://linux.do/t/topic/2290800</link>
+      <guid>linux.do-topic-2290800</guid>
+      <pubDate>Tue, 02 Jun 2026 06:36:07 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/8/7/687ee251fbf228abc00fa2f575d56b29e01e6f2b.png&quot; data-download-href=&quot;/uploads/short-url/eUpvimXsZLDgoOYM9NXTUwT6a15.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/8/7/687ee251fbf228abc00fa2f575d56b29e01e6f2b_2_690x176.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;eUpvimXsZLDgoOYM9NXTUwT6a15&quot; width=&quot;690&quot; height=&quot;176&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/8/7/687ee251fbf228abc00fa2f575d56b29e01e6f2b_2_690x176.png, https://cdn3.ldstatic.com/optimized/4X/6/8/7/687ee251fbf228abc00fa2f575d56b29e01e6f2b_2_1035x264.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/8/7/687ee251fbf228abc00fa2f575d56b29e01e6f2b_2_1380x352.png 2x&quot; data-dominant-color=&quot;FCFCFC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+sk-cp-zLVM9j61k0CD_hmRvjoZWX0ABpn7wAtlaMK67H4P02g-Q6SR5VA1ESDp9Ke9mp1PzUw05x9TwXCCczF0BHig4ssaOB0OTqyJssWtCPQyu9rQcGRpmdd9MCA&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290800&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>农行立减金5元</title>
+      <link>https://linux.do/t/topic/2290567</link>
+      <guid>linux.do-topic-2290567</guid>
+      <pubDate>Tue, 02 Jun 2026 06:00:42 GMT</pubDate>
+      <description>
+            &lt;p&gt;农行-热门活动-体验赢好礼-数字人民币转钱有礼&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289075&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290567&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>[已兑换] ---分享【冰のCodex】自助畅饮套餐和RPM兑换+15CDK</title>
+      <link>https://linux.do/t/topic/2290496</link>
+      <guid>linux.do-topic-2290496</guid>
+      <pubDate>Tue, 02 Jun 2026 05:42:12 GMT</pubDate>
+      <description>
+            &lt;p&gt;自助畅饮套餐CDK:MmMxYTVlNjhhMDY1ZmZiN2U2NzZiMDVhY2M3MmZiODg=&lt;br&gt;
+RPM兑换+15CDK:Y2NmMGFhOGU1MzYxY2M3NmNlYmM4MGRlMDExYWQzNzk=&lt;br&gt;
+注:base64编码 兑换麻烦留言我好改标题&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290496&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Qoder每天200次免费Qwen3.7-max调用</title>
+      <link>https://linux.do/t/topic/2290379</link>
+      <guid>linux.do-topic-2290379</guid>
+      <pubDate>Tue, 02 Jun 2026 05:13:21 GMT</pubDate>
+      <description>
+            &lt;p&gt;想测试3.7的有福了，每天 200 次免费 Qwen3.7-Max 调用 — 适用于所有用户，而不仅仅是新注册用户。每日重置。自动应用。每天 200 次免费 Qwen3.7-Max 调用 — 适用于所有用户，而不仅仅是新注册用户。每日重置。自动应用。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290379&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>正价付GPT会员的佬友可以试试取消订阅，会送一次免费订阅</title>
+      <link>https://linux.do/t/topic/2290336</link>
+      <guid>linux.do-topic-2290336</guid>
+      <pubDate>Tue, 02 Jun 2026 05:00:56 GMT</pubDate>
+      <description>
+            &lt;p&gt;如题，如果有佬友是正价订阅plus 的，可以试试取消订阅，sam 会挽留你的，然后你就允许让他送你一个月，下个月他就不扣你钱了&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/1/3/813a3225c6906460492b634080e6c710ce6bd5a2.png&quot; data-download-href=&quot;/uploads/short-url/irchdSGgYLgjZHmpbeSr8OupxnQ.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/1/3/813a3225c6906460492b634080e6c710ce6bd5a2_2_690x286.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;irchdSGgYLgjZHmpbeSr8OupxnQ&quot; width=&quot;690&quot; height=&quot;286&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/1/3/813a3225c6906460492b634080e6c710ce6bd5a2_2_690x286.png, https://cdn3.ldstatic.com/original/4X/8/1/3/813a3225c6906460492b634080e6c710ce6bd5a2.png 1.5x, https://cdn3.ldstatic.com/original/4X/8/1/3/813a3225c6906460492b634080e6c710ce6bd5a2.png 2x&quot; data-dominant-color=&quot;323332&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2290336&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>chatagpt,openai速登、以后会经常在此贴下放置</title>
+      <link>https://linux.do/t/topic/2289993</link>
+      <guid>linux.do-topic-2289993</guid>
+      <pubDate>Tue, 02 Jun 2026 03:49:23 GMT</pubDate>
+      <description>
+            &lt;p&gt;建议用5.4偏移能多用token&lt;br&gt;
+用于claude code、Codex等30额度&lt;br&gt;
+连接：&lt;a href=&quot;https://aiapi.setbug.cn&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://aiapi.setbug.cn&lt;/a&gt;&lt;br&gt;
+api：sk-e3681991342d590878311504612a87d6f0f12f0801712749d73564bc4b590857&lt;br&gt;
+用于claude code、Codex等30额度&lt;br&gt;
+连接：&lt;a href=&quot;https://aiapi.setbug.cn&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://aiapi.setbug.cn&lt;/a&gt;&lt;br&gt;
+api：sk-8be60021217f40a18dec0076978412c4a22f9bfe4561f8ad02290bea7a658c36&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289993&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>农行掌银-6分钱购10元深圳通乘车周卡</title>
+      <link>https://linux.do/t/topic/2289957</link>
+      <guid>linux.do-topic-2289957</guid>
+      <pubDate>Tue, 02 Jun 2026 03:43:59 GMT</pubDate>
+      <description>
+            &lt;p&gt;农业银行App-首页-城市专区-乘车周卡 页面点开优惠活动&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289957&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>宝可梦机场之六月免费兑换码猜猜我是谁</title>
+      <link>https://linux.do/t/topic/2289939</link>
+      <guid>linux.do-topic-2289939</guid>
+      <pubDate>Tue, 02 Jun 2026 03:41:52 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/c/6/4c6c1196134a793313de45e7e7ff1161df0adf48.jpeg&quot; data-download-href=&quot;/uploads/short-url/aU3P4WNxfEXUgjFLTBTYxtWmbDq.jpeg?dl=1&quot; title=&quot;QQ20260602-094957&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/c/6/4c6c1196134a793313de45e7e7ff1161df0adf48_2_690x491.jpeg&quot; alt=&quot;QQ20260602-094957&quot; data-base62-sha1=&quot;aU3P4WNxfEXUgjFLTBTYxtWmbDq&quot; width=&quot;690&quot; height=&quot;491&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/c/6/4c6c1196134a793313de45e7e7ff1161df0adf48_2_690x491.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/c/6/4c6c1196134a793313de45e7e7ff1161df0adf48_2_1035x736.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/4/c/6/4c6c1196134a793313de45e7e7ff1161df0adf48.jpeg 2x&quot; data-dominant-color=&quot;35567A&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+使用教程：猜出来名字，购买入门精灵球优惠码那里输入。&lt;br&gt;
+&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/double_exclamation_mark.png?v=15&quot; title=&quot;:double_exclamation_mark:&quot; class=&quot;emoji&quot; alt=&quot;:double_exclamation_mark:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;通知：如果你的网络全部超时，请使用宝可梦专属客户端&lt;br&gt;
+安卓:&lt;a href=&quot;http://wwatd.appddo.com/icpmM3qtt3sj&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Poke-安卓.apk - 蓝奏云&lt;/a&gt;&lt;br&gt;
+电脑:&lt;a href=&quot;http://wwatd.appddo.com/iTDzS3qtt4ob&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Poke-PC.exe - 蓝奏云&lt;/a&gt;&lt;br&gt;
+ios需要外区id:&lt;a href=&quot;https://apps.apple.com/us/app/nextin-%E6%98%9F%E6%8B%93/id6754002454?l=zh-Hans-CN&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;‎Nextin（星拓） App - App Store&lt;/a&gt;&lt;br&gt;
+mac电脑：&lt;a href=&quot;http://wwatd.appddo.com/ir5Yf3qttagj&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Poke-MAC.dmg - 蓝奏云&lt;/a&gt;&lt;br&gt;
+第三方客户端推荐：&lt;br&gt;
+安卓：clash verge&lt;br&gt;
+电脑：clash meta&lt;br&gt;
+IOS：Shadowrocket&lt;br&gt;
+官网：&lt;a href=&quot;https://love.p6m6.com&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://love.p6m6.com&lt;/a&gt;&lt;br&gt;
+备用: &lt;a href=&quot;https://web1.52pokemon66.cc&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://web1.52pokemon66.cc&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;107 个帖子 - 105 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289939&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>移动app灵犀送话费</title>
+      <link>https://linux.do/t/topic/2289437</link>
+      <guid>linux.do-topic-2289437</guid>
+      <pubDate>Tue, 02 Jun 2026 02:47:44 GMT</pubDate>
+      <description>
+            &lt;p&gt;移动app底部灵犀&lt;br&gt;
+发送口令：六月心飞扬&lt;br&gt;
+——&lt;br&gt;
+会有20赠7，30赠9话费卷&lt;br&gt;
+第一次使用会有比较高的券,第二次就是一两块的了&lt;br&gt;
+不过一个月有三四次的,加起来也相当于100-5差不太多&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/4/d/a4de16a08c412ca7d5fd16cb10b1406fbb2c144a.jpeg&quot; data-download-href=&quot;/uploads/short-url/nwu7Ts2waTu8Afh58rYOSjWVXmi.jpeg?dl=1&quot; title=&quot;bcda851df35624ccefe6d7702e2fa75e&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/4/d/a4de16a08c412ca7d5fd16cb10b1406fbb2c144a_2_460x500.jpeg&quot; alt=&quot;bcda851df35624ccefe6d7702e2fa75e&quot; data-base62-sha1=&quot;nwu7Ts2waTu8Afh58rYOSjWVXmi&quot; width=&quot;460&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/4/d/a4de16a08c412ca7d5fd16cb10b1406fbb2c144a_2_460x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/4/d/a4de16a08c412ca7d5fd16cb10b1406fbb2c144a_2_690x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/4/d/a4de16a08c412ca7d5fd16cb10b1406fbb2c144a_2_920x1000.jpeg 2x&quot; data-dominant-color=&quot;DED9D6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2289437&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
@@ -25,7 +279,7 @@
             &lt;p&gt;url：&lt;span class=&quot;spoiler&quot;&gt;&lt;a href=&quot;https://linux.do/t/topic/2288994/1&quot;&gt;剧透&lt;/a&gt;&lt;/span&gt;&lt;br&gt;
 key：&lt;span class=&quot;spoiler&quot;&gt;&lt;a href=&quot;https://linux.do/t/topic/2288994/1&quot;&gt;剧透&lt;/a&gt;&lt;/span&gt;&lt;br&gt;
 base64，100刀 3X 不支持Opus4.8&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288994&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -37,7 +291,7 @@ base64，100刀 3X 不支持Opus4.8&lt;/p&gt;
       <description>
             &lt;p&gt;再来50个今天刚刚注册的grok账号，新鲜的&lt;br&gt;
 &lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/kc8giiYQpCFqHg2l8btr6nT8Dam.zip&quot;&gt;grok_register.zip&lt;/a&gt; (22.8 KB)&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288682&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -48,7 +302,7 @@ base64，100刀 3X 不支持Opus4.8&lt;/p&gt;
       <pubDate>Tue, 02 Jun 2026 01:18:02 GMT</pubDate>
       <description>
             &lt;p&gt;打开中国移动APP - 下方中间点击“灵犀” - 发送口令“六月心飞扬”（今天10点开始）&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;14 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;22 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288479&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -64,7 +318,7 @@ base64，100刀 3X 不支持Opus4.8&lt;/p&gt;
 &lt;a href=&quot;https://yundun.console.aliyun.com/?spm=5176.10483814.console-base_search-panel.dvisited_sec.1b2be651xA9c7Y&amp;p=scnew#/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://yundun.console.aliyun.com/?spm=5176.10483814.console-base_search-panel.dvisited_sec.1b2be651xA9c7Y&amp;p=scnew#/&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;本月福利&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/0/2/302d322027d7ca65de3d0bdae400b69349c80dc9.jpeg&quot; data-download-href=&quot;/uploads/short-url/6SbKvy8tq6g5eh9HCh5LXkfMIEV.jpeg?dl=1&quot; title=&quot;CleanShot 2026-06-02 at 09.06.01&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/0/2/302d322027d7ca65de3d0bdae400b69349c80dc9_2_557x500.jpeg&quot; alt=&quot;CleanShot 2026-06-02 at 09.06.01&quot; data-base62-sha1=&quot;6SbKvy8tq6g5eh9HCh5LXkfMIEV&quot; width=&quot;557&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/0/2/302d322027d7ca65de3d0bdae400b69349c80dc9_2_557x500.jpeg, https://cdn3.ldstatic.com/original/4X/3/0/2/302d322027d7ca65de3d0bdae400b69349c80dc9.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/3/0/2/302d322027d7ca65de3d0bdae400b69349c80dc9.jpeg 2x&quot; data-dominant-color=&quot;E0E3EB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2288413&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -140,7 +394,7 @@ base64，100刀 3X 不支持Opus4.8&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;如果你是L站的未注册用户或无法回帖用户，可直接加入合租巴士官方群聊发送注册用户名进行领取&lt;/p&gt;
 &lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;186 个帖子 - 168 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;246 个帖子 - 222 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2286905&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -155,151 +409,6 @@ base64，100刀 3X 不支持Opus4.8&lt;/p&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/4/c/a4c1faef510b52bdc9ce1679b75ae6d0c90ce68d.jpeg&quot; data-download-href=&quot;/uploads/short-url/nvvUa4pSkQDf4VKACh8MzzeJtpP.jpeg?dl=1&quot; title=&quot;IMG2582&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/4/c/a4c1faef510b52bdc9ce1679b75ae6d0c90ce68d_2_467x500.jpeg&quot; alt=&quot;IMG2582&quot; data-base62-sha1=&quot;nvvUa4pSkQDf4VKACh8MzzeJtpP&quot; width=&quot;467&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/4/c/a4c1faef510b52bdc9ce1679b75ae6d0c90ce68d_2_467x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/4/c/a4c1faef510b52bdc9ce1679b75ae6d0c90ce68d_2_700x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/4/c/a4c1faef510b52bdc9ce1679b75ae6d0c90ce68d_2_934x1000.jpeg 2x&quot; data-dominant-color=&quot;E1E1E4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;8 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2286577&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>anything是不是又可以搞了</title>
-      <link>https://linux.do/t/topic/2286493</link>
-      <guid>linux.do-topic-2286493</guid>
-      <pubDate>Mon, 01 Jun 2026 12:42:47 GMT</pubDate>
-      <description>
-            &lt;p&gt;（话题已被作者删除）&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2286493&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>失误了，不用看了</title>
-      <link>https://linux.do/t/topic/2286378</link>
-      <guid>linux.do-topic-2286378</guid>
-      <pubDate>Mon, 01 Jun 2026 12:21:07 GMT</pubDate>
-      <description>
-            &lt;p&gt;庆祝五百万吗？今天刚搞了free号，然后就玩重制吗&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2286378&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>小米380亿token 快过期了 佬们自取</title>
-      <link>https://linux.do/t/topic/2286118</link>
-      <guid>linux.do-topic-2286118</guid>
-      <pubDate>Mon, 01 Jun 2026 11:36:12 GMT</pubDate>
-      <description>
-            &lt;p&gt;（话题已被作者删除）&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2286118&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>[4Router] 六一快乐佬友们 发一波限时折扣~</title>
-      <link>https://linux.do/t/topic/2285915</link>
-      <guid>linux.do-topic-2285915</guid>
-      <pubDate>Mon, 01 Jun 2026 10:37:16 GMT</pubDate>
-      <description>
-            &lt;p&gt;虽迟但到，4Router在这里祝大家6.1快乐，截至今晚24:00 站内全场充值折扣6%&lt;br&gt;
-官网：&lt;a href=&quot;http://4router.net&quot; rel=&quot;noopener nofollow ugc&quot;&gt;4router.net&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;折扣码：&lt;strong&gt;61HAPPY&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18517975-q-qq397x500-50uploadkoje9budclb9345ubiuisyj6tnfjpeg-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18517975-q-qq397x500-50uploadkoje9budclb9345ubiuisyj6tnfjpeg-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;再贴一下Q群：&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/e/e/8eeb2b37523a6855a6750240acde7a0d3937d6e9.jpeg&quot; data-download-href=&quot;/uploads/short-url/kojE9BUdcLb9345UBiuisYJ6TNf.jpeg?dl=1&quot; title=&quot;QQ群&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/e/8eeb2b37523a6855a6750240acde7a0d3937d6e9_2_198x250.jpeg&quot; alt=&quot;QQ群&quot; data-base62-sha1=&quot;kojE9BUdcLb9345UBiuisYJ6TNf&quot; width=&quot;198&quot; height=&quot;250&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/e/8eeb2b37523a6855a6750240acde7a0d3937d6e9_2_198x250.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/e/e/8eeb2b37523a6855a6750240acde7a0d3937d6e9_2_297x375.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/e/e/8eeb2b37523a6855a6750240acde7a0d3937d6e9_2_396x500.jpeg 2x&quot; data-dominant-color=&quot;3B4248&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/2/2/c22f04d2cab2c62b0be03a7a0673b1836e7710e5.png&quot; data-download-href=&quot;/uploads/short-url/rHPmJtNeONpHKPFdV839RaFC3Fb.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/2/2/c22f04d2cab2c62b0be03a7a0673b1836e7710e5_2_556x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;rHPmJtNeONpHKPFdV839RaFC3Fb&quot; width=&quot;556&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/2/2/c22f04d2cab2c62b0be03a7a0673b1836e7710e5_2_556x500.png, https://cdn3.ldstatic.com/optimized/4X/c/2/2/c22f04d2cab2c62b0be03a7a0673b1836e7710e5_2_834x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/2/2/c22f04d2cab2c62b0be03a7a0673b1836e7710e5_2_1112x1000.png 2x&quot; data-dominant-color=&quot;F4F8F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;最近可用率还是不错，刚刚维护了一小阵子 &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/c/7/c756c0f079d25093ed6c7c2feaaa423ead63411c.png?v=15&quot; title=&quot;:tieba_009:&quot; class=&quot;emoji emoji-custom&quot; alt=&quot;:tieba_009:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/c/7/c756c0f079d25093ed6c7c2feaaa423ead63411c.png?v=15&quot; title=&quot;:tieba_009:&quot; class=&quot;emoji emoji-custom&quot; alt=&quot;:tieba_009:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/c/7/c756c0f079d25093ed6c7c2feaaa423ead63411c.png?v=15&quot; title=&quot;:tieba_009:&quot; class=&quot;emoji emoji-custom&quot; alt=&quot;:tieba_009:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285915&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【抽奖】闲着无聊给佬抽个6.6r口令红包吧，祝佬们六一快乐！</title>
-      <link>https://linux.do/t/topic/2285485</link>
-      <guid>linux.do-topic-2285485</guid>
-      <pubDate>Mon, 01 Jun 2026 09:27:34 GMT</pubDate>
-      <description>
-            &lt;p&gt;抽奖主题： 佬们，六一快乐！&lt;/p&gt;
-&lt;p&gt;**&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/trophy.png?v=15&quot; title=&quot;:trophy:&quot; class=&quot;emoji&quot; alt=&quot;:trophy:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 奖品详情：**&lt;/p&gt;
-&lt;p&gt;[奖品]：[zfb口令红包6.6r]*1&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/three_o_clock.png?v=15&quot; title=&quot;:three_o_clock:&quot; class=&quot;emoji&quot; alt=&quot;:three_o_clock:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 活动时间：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;开始时间：[2026年6月1日下午17点30分]&lt;br&gt;
-截止时间：[2026年6月2日下午17点00分]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/memo.png?v=15&quot; title=&quot;:memo:&quot; class=&quot;emoji&quot; alt=&quot;:memo:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 参与方式：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在本帖下回复任意内容即可参与。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/magnifying_glass_tilted_left.png?v=15&quot; title=&quot;:magnifying_glass_tilted_left:&quot; class=&quot;emoji&quot; alt=&quot;:magnifying_glass_tilted_left:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 抽奖规则：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;每位用户仅允许参与一次。&lt;br&gt;
-使用官方抽奖工具 &lt;a href=&quot;https://lottery.linux.do/&quot;&gt;https://lottery.linux.do&lt;/a&gt; 抽奖工具随机抽取中奖者。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/warning.png?v=15&quot; title=&quot;:warning:&quot; class=&quot;emoji&quot; alt=&quot;:warning:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 注意事项：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本活动将在活动截止时间后关闭回帖，以确保公正性。&lt;br&gt;
-中奖者将在活动结束后24小时内在本帖公布，并通过私信通知领奖方式。&lt;br&gt;
-所有规则及抽奖结果由活动发起人和论坛&lt;a href=&quot;https://linux.do/about&quot;&gt;管理团队&lt;/a&gt;最终解释。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;期待您的积极参与，祝您好运！如有任何疑问，欢迎随时联系抽奖发起人&lt;/strong&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2285485&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>中国移动 6月话费流量汇总 领随机话费流量券</title>
-      <link>https://linux.do/t/topic/2284963</link>
-      <guid>linux.do-topic-2284963</guid>
-      <pubDate>Mon, 01 Jun 2026 08:12:04 GMT</pubDate>
-      <description>
-            &lt;p&gt;1、【&lt;strong&gt;一豆油好礼 赢88元话费券&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登录页面参与抽奖可赢1元/2元/10元/88元话费兑换券、100MB/200MB/1GB流量日包券等；&lt;a href=&quot;https://dev.coc.10086.cn/coc3/canvas/rightsmarket-h5-canvas/online/ydyhl?channelCode=P00000145029&amp;pageRecorded=true&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://dev.coc.10086.cn/coc3/canvas/rightsmarket-h5-canvas/online/ydyhl?channelCode=P00000145029&amp;pageRecorded=true&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2、【&lt;strong&gt;和包 话费狂欢季&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登陆可领2元话费优惠券、5元话费优惠券，均为满20元可用。&lt;a href=&quot;https://ump.cmpay.com/front-msa/maktcfgh5/externalChannels?by=xz&amp;jrnNo=ACT0690HFKH2025&amp;ruleId=TQJN8921&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://ump.cmpay.com/front-msa/maktcfgh5/externalChannels?by=xz&amp;jrnNo=ACT0690HFKH2025&amp;ruleId=TQJN8921&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;3、【&lt;strong&gt;游戏中心&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登录页面每日抽奖可赢1元话费加赠券、2元话费加赠券、6元话费券、1GB流量日包、周六最高抽666元话费券，周六18点可兑2GB流量日包券；&lt;a href=&quot;https://h.app.coc.10086.cn/activity/zx/transit/transferDownload.html?targetURL=https%3A%2F%2Fwx.10086.cn%2Fqwhdhub%2Fdiy-client%2F1126036587%3FA_C_CODE%3DKlkhX1ccML%26channelId%3DP00000112150&amp;pageId=99992604161454274&amp;channelId=P00000112150&amp;sellerId=1636941HD1301000016&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://h.app.coc.10086.cn/activity/zx/transit/transferDownload.html?targetURL=https%3A%2F%2Fwx.10086.cn%2Fqwhdhub%2Fdiy-client%2F1126036587%3FA_C_CODE%3DKlkhX1ccML%26channelId%3DP00000112150&amp;pageId=99992604161454274&amp;channelId=P00000112150&amp;sellerId=1636941HD1301000016&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;4、【&lt;strong&gt;全球通星动日&lt;/strong&gt;】即日起至2026年至6月25日，移动用户登录页面7天连续签到得视频会员月卡、音乐会员周卡、中石油加油券等； 每月权益可领腾讯/B站视频会员月卡、15元加油券等；&lt;a href=&quot;https://qqt.cmicrwx.cn/2016tyjf/xhmqqthy/res/wap/xdrNormal.html?sspId=74915&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://qqt.cmicrwx.cn/2016tyjf/xhmqqthy/res/wap/xdrNormal.html?sspId=74915&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;5、【&lt;strong&gt;爱购狂欢节&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登录页面参与抽奖可赢1元话费兑换券、66元话费兑换券、188元话费兑换券等；&lt;a href=&quot;https://dev.coc.10086.cn/coc3/canvas/rightsmarket-h5-canvas/online/2026sjdcjhy?channelCode=P00000145029&amp;pageRecorded=true&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://dev.coc.10086.cn/coc3/canvas/rightsmarket-h5-canvas/online/2026sjdcjhy?channelCode=P00000145029&amp;pageRecorded=true&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;6、【&lt;strong&gt;灵犀带你省 至高15元充值礼&lt;/strong&gt; 】即日起至2026年至6月30日，移动用户登录页面可领取100MB/200MB流量日包券、2元/3元/4元/5元/6元/8元/9元话费加赠券。&lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1026022812?A_C_CODE=lnBv31aqTK&amp;channelId=P00000002322&amp;#/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/leadin/1026022812?A_C_CODE=lnBv31aqTK&amp;channelId=P00000002322&amp;#/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;7、【&lt;strong&gt;移动补给站 流量大放送&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登录页面可领取2GB、10GB流量日包券、5元话费加赠券、100元话费兑换券。&lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1026032402?A_C_CODE=He62ibSDWi&amp;channelId=P00000125399#/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/leadin/1026032402?A_C_CODE=He62ibSDWi&amp;channelId=P00000125399#/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;8、【&lt;strong&gt;AI向新生 春暖万物&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登录页面点击“马上得流量”完成任意2款产品体验可领取1次1GB流量7天包券，每月最多可领取2次。&lt;a href=&quot;https://wx.10086.cn/website/bind/bindAccount/new?redirectSource=SSO_YQS&amp;redirectUrl=https%3A%2F%2Fwx.10086.cn%2Fqwhdsso%2Fredirect%3Fsid%3DQWHDSSOD20260601T113034552DU1125120388Hdw679R810879&amp;activityId=1021010101&amp;activityName=%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A810086#/page/lyZz6K0-6c_klMpCHG1D&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/website/bind/bindAccount/new?redirectSource=SSO_YQS&amp;redirectUrl=https%3A%2F%2Fwx.10086.cn%2Fqwhdsso%2Fredirect%3Fsid%3DQWHDSSOD20260601T113034552DU1125120388Hdw679R810879&amp;activityId=1021010101&amp;activityName=中国移动10086#/page/lyZz6K0-6c_klMpCHG1D&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;9、【&lt;strong&gt;福气礼 摇福签抽10GB流量&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登录页面点击“立即摇签”可赢最高10GB流量日包券、188元话费券、天猫2元满减券、奶茶优惠券等。&lt;a href=&quot;https://dev.coc.10086.cn/coc3/canvas/rightsmarket-h5-canvas/online/26cxhwjyq?channelCode=P00000120308&amp;pageRecorded=true&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://dev.coc.10086.cn/coc3/canvas/rightsmarket-h5-canvas/online/26cxhwjyq?channelCode=P00000120308&amp;pageRecorded=true&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;10、【&lt;strong&gt;暖心回馈礼&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登陆刮奖可领2GB流量日包券、10GB流量日包券、5元话费加赠券、100元话费兑换券等。&lt;a href=&quot;https://dev.coc.10086.cn/coc3/canvas/rightsmarket-h5-canvas/online/tjhlld?channelCode=P00000131192&amp;pageRecorded=true&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://dev.coc.10086.cn/coc3/canvas/rightsmarket-h5-canvas/online/tjhlld?channelCode=P00000131192&amp;pageRecorded=true&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;11、【&lt;strong&gt;咪咕视频 绿茵逐胜&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登陆可0元领50GB定向流量包，领100元话费券、3元话费加赠券、5元话费加赠券、10GB流量日包等随机福利，点球射门赢50元电影通兑券等。&lt;a href=&quot;https://m.miguvideo.com/m/provincevml/e0fa9f12a77b471c9cdbb7a439b86679?needLazyimg=0&amp;pwId=409025a21a8b4605adc7dfb9839e1634&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://m.miguvideo.com/m/provincevml/e0fa9f12a77b471c9cdbb7a439b86679?needLazyimg=0&amp;pwId=409025a21a8b4605adc7dfb9839e1634&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;12、【&lt;strong&gt;移动x爱奇艺&lt;/strong&gt;】即日起至2026年至6月30日，进入活动页可抽2GB流量日包或5元话费券。&lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1025012230?A_C_CODE=cPccqjGNsY&amp;channelId=P00000063757#/&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;中国移动&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;13、【&lt;strong&gt;移动x腾讯视频&lt;/strong&gt;】即日起至2026年至6月30日，用户登录页面可领取2GB流量日包券、10GB流量日包券、5元话费加赠券、100元话费兑换券等。 &lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1025092936?A_C_CODE=6iYWLquJeo&amp;channelId=P00000112869#/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/leadin/1025092936?A_C_CODE=6iYWLquJeo&amp;channelId=P00000112869#/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;14、【&lt;strong&gt;支付宝签到有礼&lt;/strong&gt;】支付宝搜“中国移动”进入活动页面，中国移动签到领好礼，实测0.5元话费券，签满三次抽百元话费。 &lt;a href=&quot;https://render.alipay.com/p/yuyan/180020040001212700/?cid=wap_dc&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://render.alipay.com/p/yuyan/180020040001212700/?cid=wap_dc&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; 15、【&lt;strong&gt;签到有礼&lt;/strong&gt;】分享至微信打开或者中国移动app-我的-签到，完成签到领随机话费/流量等。完成页面任务领取心愿金，去兑换页面可兑0.5元、1元、1.5元、2元话费券，每日8点增加奖奖品库存。&lt;a href=&quot;https://wx.10086.cn/qwhdhub/notice/channelNonsupport&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/notice/channelNonsupport&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;  16、【&lt;strong&gt;双v会员福利&lt;/strong&gt;】每月中国移动 X 支付宝双V会员用户可领取1GB通用流量。无法跳转可通过浏览或分享至微信跳转。&lt;a href=&quot;https://caiyun.feixin.10086.cn:7071/portal/clientDL/index.html?v=mCloud_89844221919&amp;linkUrl=https%3A%2F%2Fvv.mmarket.com%2Fvv-hcy%2Findex.html%3FtargetSourceId%3D001205%26token%3D%23ssoToken%23%26scode%3Dhecaiyun%26sourceId%3Dhcy-cmic_llrwytc&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://caiyun.feixin.10086.cn:7071/portal/clientDL/index.html?v=mCloud_89844221919&amp;linkUrl=https%3A%2F%2Fvv.mmarket.com%2Fvv-hcy%2Findex.html%3FtargetSourceId%3D001205%26token%3D%23ssoToken%23%26scode%3Dhecaiyun%26sourceId%3Dhcy-cmic_llrwytc&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;  17、【&lt;strong&gt;做任务看视频抽百元话费&lt;/strong&gt;】即日起至2026年至6月30日，中国移动APP-底栏“逛逛”频道-右上角“做任务抽百元话费”，简单浏览视频任务可得0.3元话费券、1元话费券、100元话费券、100MB流量券。 &lt;a href=&quot;https://www.10086.cn/index/bj/index_100_100.html&amp;#8232&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.10086.cn/index/bj/index_100_100.html&amp;#8232&lt;/a&gt;;&lt;/p&gt;
-&lt;p&gt;18、【&lt;strong&gt;周三充值专场&lt;/strong&gt;】即日起至2026年6月30日，每日拼图赢最高8折话费券，每周三8点开抢，有机会赢取88折话费券、12元/13元充值立减券、88元充值加享券等，优惠数量有限先到先得。 &lt;a href=&quot;https://wx.10086.cn/hlwyxhdhub/act-wedrecharge/index.html#/signup&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/hlwyxhdhub/act-wedrecharge/index.html#/signup&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;19、【网龄成长计划】即日起至2026年至6月30日， 领3GB流量月包券/B站影音会员N选1等。&lt;a href=&quot;https://dev.coc.10086.cn/coc/web6/ageFeedbackV2/?pageId=1879720710683729920&amp;channelId=P00000001067&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;网龄成长计划&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;20、【周日追剧盛宴】即日起至2026年至6月30日，每周日12/16点可领5元话费兑换券/2GB流量日包&amp;抽奖可赢1GB/2GB流量、1元/2元/5元话费兑换券、视频会员月卡等。&lt;a href=&quot;https://wx.10086.cn/hlwyxhdhub/act-sunvideo/index.html#/signup&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;周日追剧盛宴&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;21、【&lt;strong&gt;好运福袋&lt;/strong&gt; 】即日起至2026年至6月30日，用户登录页面可领取6.66元红包、满500减15-20元话费立减券、实付满满300减9-15元话费立减券、实付满200减6-10元话费立减券、实付满100减1-6元话费立减券等。&lt;a href=&quot;https://ump.cmpay.com/front-msa/maktcfgh5/springFestivalBlessShare1?jrnNo=ACT3765&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://ump.cmpay.com/front-msa/maktcfgh5/springFestivalBlessShare1?jrnNo=ACT3765&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;22、【&lt;strong&gt;和粉俱乐部会员 专属好礼&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登陆可领2GB流量日包、10GB流量日包券、5元话费加赠券等。&lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1026040962?A_C_CODE=PqkOFdmSlz&amp;channelId=P00000004912#/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/leadin/1026040962?A_C_CODE=PqkOFdmSlz&amp;channelId=P00000004912#/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;23、【&lt;strong&gt;移动x京东快递用户专享&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登陆可领2GB、10GB流量日包券/5元话费加赠券、100元话费兑换券等。&lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1026010704?A_C_CODE=1dDEYwxjQI&amp;channelId=P00000130559#/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/leadin/1026010704?A_C_CODE=1dDEYwxjQI&amp;channelId=P00000130559#/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;24、【&lt;strong&gt;移动x一梦江湖&lt;/strong&gt;】即日起至2026年至6月30日，移动用户登陆可领2GB、10GB流量日包券/5元、100元话费加赠券等。&lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1026033150?A_C_CODE=4rirBtGLpy&amp;channelId=P00000110812#/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/leadin/1026033150?A_C_CODE=4rirBtGLpy&amp;channelId=P00000110812#/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;25、【&lt;strong&gt;移动x咸鱼&lt;/strong&gt;】即日起至2026年至6月30日，每月登录页面可免费抽奖赢2GB流量日包券或最高100元话费兑换券等。&lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1026033134?A_C_CODE=Fi11gwHIcu&amp;channelId=P00000111791#/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/leadin/1026033134?A_C_CODE=Fi11gwHIcu&amp;channelId=P00000111791#/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;26、【&lt;strong&gt;移动x网易uu&lt;/strong&gt;】即日起至2026年至6月30日，中国移动用户进入页面登录，限可领取2GB流量。&lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1026033142?A_C_CODE=zKI6bhdcRw&amp;channelId=P00000111984#/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/leadin/1026033142?A_C_CODE=zKI6bhdcRw&amp;channelId=P00000111984#/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;27、【&lt;strong&gt;移动x mumu模拟器&lt;/strong&gt;】即日起至2026年至6月30日，登录页面可领2GB流量券等，每月可领取1张。 &lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1026033148?A_C_CODE=cdOYw8umTZ&amp;channelId=P00000111983#/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/leadin/1026033148?A_C_CODE=cdOYw8umTZ&amp;channelId=P00000111983#/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;28、【&lt;strong&gt;移动x天下&lt;/strong&gt;】即日起至2026年至6月30日，免费领取2GB流量券，每月可领取1张。&lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1026033138?A_C_CODE=2urMiDrLHS&amp;channelId=P00000115667#/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/leadin/1026033138?A_C_CODE=2urMiDrLHS&amp;channelId=P00000115667#/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;29、【移动x网易云游戏】即日起至2026年至6月30日，页面登录可领取2GB流量券，每月可领取1张。&lt;a href=&quot;https://wx.10086.cn/qwhdhub/leadin/1026033140?A_C_CODE=rKmyCc1BOL&amp;channelId=P00000115666#/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://wx.10086.cn/qwhdhub/leadin/1026033140?A_C_CODE=rKmyCc1BOL&amp;channelId=P00000115666#/&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;15 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2284963&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【已开通】求Cursor pro 首月半价邀请码</title>
-      <link>https://linux.do/t/topic/2284879</link>
-      <guid>linux.do-topic-2284879</guid>
-      <pubDate>Mon, 01 Jun 2026 08:02:57 GMT</pubDate>
-      <description>
-            &lt;p&gt;已经开通啦 感谢各位佬友&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/folded_hands.png?v=15&quot; title=&quot;:folded_hands:&quot; class=&quot;emoji&quot; alt=&quot;:folded_hands:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;准备开Cursor Pro会员了，之前看到过有佬友发过邀请码  不知道现在还有没有&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2284879&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>继续grok刚注册的账号</title>
-      <link>https://linux.do/t/topic/2284558</link>
-      <guid>linux.do-topic-2284558</guid>
-      <pubDate>Mon, 01 Jun 2026 07:18:35 GMT</pubDate>
-      <description>
-            &lt;p&gt;继续发62个grok账号，刚注册的热乎着&lt;br&gt;
-&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/zMVmPH9Ni2xPFMy3s9lsvlk316j.zip&quot;&gt;grok_register.zip&lt;/a&gt; (27.7 KB)&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2284558&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
