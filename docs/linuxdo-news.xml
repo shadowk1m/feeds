@@ -4,7 +4,74 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Wed, 03 Jun 2026 19:03:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 22:07:53 GMT</lastBuildDate>
+    <item>
+      <title>gemma4 推出12B dense model(可直接在aistudio中体验)</title>
+      <link>https://linux.do/t/topic/2301229</link>
+      <guid>linux.do-topic-2301229</guid>
+      <pubDate>Wed, 03 Jun 2026 21:55:28 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12B/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/4/7/147f4a2a7152ed9b5e02ff9134f05b697496ca8c.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;D4D2CB&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12B/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;12:00AM - 03 June 2026&quot;&gt;Google – 3 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/388;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/7/6/57611695741e9e171eee2ca179c9651fe8b71ad2_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;0A162E&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12B/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Introducing Gemma 4 12B: a unified, encoder-free multimodal model&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;以下为&lt;strong&gt;官方公布的benchmark&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/9/9/899dafafacd69e6ed92b901d2a8380e5a8298a04.png&quot; data-download-href=&quot;/uploads/short-url/jDpfNcLtYpvcWTJDbMRFzTShYR6.png?dl=1&quot; title=&quot;CleanShot 2026-06-04 at 07.49.40@2x&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/9/899dafafacd69e6ed92b901d2a8380e5a8298a04_2_133x500.png&quot; alt=&quot;CleanShot 2026-06-04 at 07.49.40@2x&quot; data-base62-sha1=&quot;jDpfNcLtYpvcWTJDbMRFzTShYR6&quot; width=&quot;133&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/9/899dafafacd69e6ed92b901d2a8380e5a8298a04_2_133x500.png, https://cdn3.ldstatic.com/optimized/4X/8/9/9/899dafafacd69e6ed92b901d2a8380e5a8298a04_2_199x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/9/9/899dafafacd69e6ed92b901d2a8380e5a8298a04_2_266x1000.png 2x&quot; data-dominant-color=&quot;F8F9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+同样为多模态模型,采用encoder-free 架构训练,&lt;strong&gt;支持文字,图片,音频&lt;br&gt;
+可参阅相关技术报告&lt;/strong&gt;&lt;p&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://developers.googleblog.com/gemma-4-12b-the-developer-guide/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/2/4/1244bc4f64448eac4e7834e0aacebbc3fae80a8a.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;DBDBD6&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://developers.googleblog.com/gemma-4-12b-the-developer-guide/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;developers.googleblog.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/345;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/0/b/e0b63602c6d9d891fe857e394fc3337f6a1f34f7_2_690x345.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;BCC5DA&quot; width=&quot;690&quot; height=&quot;345&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://developers.googleblog.com/gemma-4-12b-the-developer-guide/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Gemma 4 12B: The Developer Guide- Google Developers Blog&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Meet Gemma 4 12B: the first medium-sized, encoder-free multimodal model capable of natively ingesting audio and video. Ideal for local AI development with 16GB VRAM, Hugging Face integrations, and drop-in local API servers.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;采用sliding window attention技术 1024的滑动窗口大小,256k上下文长度.&lt;/p&gt;
+&lt;p&gt;谷歌blog介绍,其&lt;strong&gt;性能接近gemma4 26b model&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/7/4/774cd4e5a25e6eb2f360baf6297b993d3757e9e6.jpeg&quot; data-download-href=&quot;/uploads/short-url/h1nqEStQSz0TuDvgfSQY0A7IZCK.jpeg?dl=1&quot; title=&quot;CleanShot 2026-06-04 at 07.53.21@2x&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/7/4/774cd4e5a25e6eb2f360baf6297b993d3757e9e6_2_690x369.jpeg&quot; alt=&quot;CleanShot 2026-06-04 at 07.53.21@2x&quot; data-base62-sha1=&quot;h1nqEStQSz0TuDvgfSQY0A7IZCK&quot; width=&quot;690&quot; height=&quot;369&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/7/4/774cd4e5a25e6eb2f360baf6297b993d3757e9e6_2_690x369.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/7/4/774cd4e5a25e6eb2f360baf6297b993d3757e9e6_2_1035x553.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/7/4/774cd4e5a25e6eb2f360baf6297b993d3757e9e6_2_1380x738.jpeg 2x&quot; data-dominant-color=&quot;27303E&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2301229&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>长桥证券：将调整存量投资者的账户在中国大陆境内的服务</title>
       <link>https://linux.do/t/topic/2300898</link>
@@ -152,7 +219,7 @@
             &lt;p&gt;豆包计划推出专业版，面向软件开发、数据分析、专业设计、流程自动化、金融分析、科学研究等生产力需求。目前专业版仍在测试，正式上线信息将通过官方渠道发布。&lt;/p&gt;
 &lt;p&gt;搜索问答、写作生图、语音和视频对话等日常功能将保持免费，专业版也会有一定免费额度。豆包否认会通过降低基础功能体验来推动用户购买会员。&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/b/5/7b5d0270623cd105978f4d64dd35d7a01dfd08f8.jpeg&quot; data-download-href=&quot;/uploads/short-url/hBk03iBSfAuwhtbIjWXFP6d0ry0.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/b/5/7b5d0270623cd105978f4d64dd35d7a01dfd08f8_2_669x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;hBk03iBSfAuwhtbIjWXFP6d0ry0&quot; width=&quot;669&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/b/5/7b5d0270623cd105978f4d64dd35d7a01dfd08f8_2_669x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/b/5/7b5d0270623cd105978f4d64dd35d7a01dfd08f8_2_1003x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/b/5/7b5d0270623cd105978f4d64dd35d7a01dfd08f8_2_1338x1000.jpeg 2x&quot; data-dominant-color=&quot;F8F7F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;15 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2299796&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -555,7 +622,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2298671&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -735,41 +802,6 @@
             &lt;p&gt;老号Codex 昨天要验手机号，今天看又不需要了，奥特曼良心发现了！！！&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;24 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2296947&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【慢讯】Anthropic和OpenAI一块炸了（结果出来了！Anthropic胜利</title>
-      <link>https://linux.do/t/topic/2296875</link>
-      <guid>linux.do-topic-2296875</guid>
-      <pubDate>Wed, 03 Jun 2026 05:32:54 GMT</pubDate>
-      <description>
-            &lt;p&gt;真是罕见，俩一块炸了。&lt;br&gt;
-放个吉祥物在这里&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/4/b/04bcdb67b6f2a54f04c9a5044431ee6ad1b9780c.jpeg&quot; data-download-href=&quot;/uploads/short-url/FUx7EhJ6KLP4WvodxwOhqCHwew.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/4/b/04bcdb67b6f2a54f04c9a5044431ee6ad1b9780c_2_345x228.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;FUx7EhJ6KLP4WvodxwOhqCHwew&quot; width=&quot;345&quot; height=&quot;228&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/4/b/04bcdb67b6f2a54f04c9a5044431ee6ad1b9780c_2_345x228.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/4/b/04bcdb67b6f2a54f04c9a5044431ee6ad1b9780c_2_517x342.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/4/b/04bcdb67b6f2a54f04c9a5044431ee6ad1b9780c_2_690x456.jpeg 2x&quot; data-dominant-color=&quot;B1A8A0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/7/e/d7e71340418a446e40ab0b4a4ba2b8393caab7fb.png&quot; data-download-href=&quot;/uploads/short-url/uNXJpDVd7Sf6Fg5saHyknlKeuwP.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/e/d7e71340418a446e40ab0b4a4ba2b8393caab7fb_2_690x276.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;uNXJpDVd7Sf6Fg5saHyknlKeuwP&quot; width=&quot;690&quot; height=&quot;276&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/e/d7e71340418a446e40ab0b4a4ba2b8393caab7fb_2_690x276.png, https://cdn3.ldstatic.com/optimized/4X/d/7/e/d7e71340418a446e40ab0b4a4ba2b8393caab7fb_2_1035x414.png 1.5x, https://cdn3.ldstatic.com/original/4X/d/7/e/d7e71340418a446e40ab0b4a4ba2b8393caab7fb.png 2x&quot; data-dominant-color=&quot;EFD8CE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/6/b/f6b0e2f0f13389af695d416675535118bbd3f4a4.png&quot; data-download-href=&quot;/uploads/short-url/zckqZeFL6yM7O1xQ3FnSJCBHLik.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/6/b/f6b0e2f0f13389af695d416675535118bbd3f4a4_2_690x255.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zckqZeFL6yM7O1xQ3FnSJCBHLik&quot; width=&quot;690&quot; height=&quot;255&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/6/b/f6b0e2f0f13389af695d416675535118bbd3f4a4_2_690x255.png, https://cdn3.ldstatic.com/optimized/4X/f/6/b/f6b0e2f0f13389af695d416675535118bbd3f4a4_2_1035x382.png 1.5x, https://cdn3.ldstatic.com/original/4X/f/6/b/f6b0e2f0f13389af695d416675535118bbd3f4a4.png 2x&quot; data-dominant-color=&quot;F8F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18588685-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18588685-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;无奖竞猜：谁先恢复？&lt;/h2&gt;
-&lt;p&gt;宾果~~~是Anthropic先恢复的！&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Anthropic&lt;/li&gt;
-&lt;li&gt;OpenAI&lt;/li&gt;
-&lt;li&gt;一块恢复&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2296875/1&quot;&gt;点击以查看投票。&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;PS：编辑投票原来会丢票数啊&lt;/p&gt;
-&lt;p&gt;进度更新：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;OpenAI故障升级&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/1/1/51121f102cd14bd40a6d770887934e3053acb793.png&quot; data-download-href=&quot;/uploads/short-url/bzbuZC2wu5YY9D0bE1gjAbWJpsf.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/1/1/51121f102cd14bd40a6d770887934e3053acb793_2_690x297.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bzbuZC2wu5YY9D0bE1gjAbWJpsf&quot; width=&quot;690&quot; height=&quot;297&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/1/1/51121f102cd14bd40a6d770887934e3053acb793_2_690x297.png, https://cdn3.ldstatic.com/optimized/4X/5/1/1/51121f102cd14bd40a6d770887934e3053acb793_2_1035x445.png 1.5x, https://cdn3.ldstatic.com/original/4X/5/1/1/51121f102cd14bd40a6d770887934e3053acb793.png 2x&quot; data-dominant-color=&quot;F9F1F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;Anthropic故障扩大&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/5/d/45d374ce637a770aaca1174e66f6db381d845b8c.png&quot; data-download-href=&quot;/uploads/short-url/9XHZhyIJ9u0A1ya0LvAK3dKN1Fy.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/5/d/45d374ce637a770aaca1174e66f6db381d845b8c_2_690x418.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9XHZhyIJ9u0A1ya0LvAK3dKN1Fy&quot; width=&quot;690&quot; height=&quot;418&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/5/d/45d374ce637a770aaca1174e66f6db381d845b8c_2_690x418.png, https://cdn3.ldstatic.com/optimized/4X/4/5/d/45d374ce637a770aaca1174e66f6db381d845b8c_2_1035x627.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/5/d/45d374ce637a770aaca1174e66f6db381d845b8c_2_1380x836.png 2x&quot; data-dominant-color=&quot;F2DCC7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;OpenAI故障降级，但是又多了Responses错误&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/5/3/a532faf5836754e369d28ac2f72d845f5dff3917.png&quot; data-download-href=&quot;/uploads/short-url/nzq0szd4AtVrbY2S5FlpYjkTEAn.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/5/3/a532faf5836754e369d28ac2f72d845f5dff3917_2_690x261.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nzq0szd4AtVrbY2S5FlpYjkTEAn&quot; width=&quot;690&quot; height=&quot;261&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/5/3/a532faf5836754e369d28ac2f72d845f5dff3917_2_690x261.png, https://cdn3.ldstatic.com/optimized/4X/a/5/3/a532faf5836754e369d28ac2f72d845f5dff3917_2_1035x391.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/5/3/a532faf5836754e369d28ac2f72d845f5dff3917.png 2x&quot; data-dominant-color=&quot;F8F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;Anthropic故障状态关闭&lt;/li&gt;
-&lt;/ul&gt;
-            &lt;p&gt;&lt;small&gt;15 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2296875&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
