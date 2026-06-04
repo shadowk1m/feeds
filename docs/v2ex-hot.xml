@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 04 Jun 2026 15:53:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 18:07:32 GMT</lastBuildDate>
     <item>
       <title>断掉牛奶后感觉免疫力变强了</title>
       <link>https://www.v2ex.com/t/1217768</link>
@@ -40,45 +40,6 @@
 </description>
     </item>
     <item>
-      <title>[自荐] 做了个纯 SSH 的服务器管理 App —— Caret,iOS 已上线</title>
-      <link>https://www.v2ex.com/t/1217750</link>
-      <guid>v2ex-1217750</guid>
-      <pubDate>Wed, 03 Jun 2026 17:25:29 GMT</pubDate>
-      <description>&lt;p&gt;分享个自己做的小工具 Caret:用手机或 Mac,纯标准 SSH 管 Linux 服务器,服务器端零安装。&lt;/p&gt;
-&lt;p&gt;能干啥:&lt;/p&gt;
-&lt;p&gt;完整 SSH 终端(xterm,能跑 vim/htop/tail -f,多标签、断线重连、命令片段)&lt;/p&gt;
-&lt;p&gt;实时监控:CPU/内存/磁盘/网络/负载 曲线,多机聚合一屏&lt;/p&gt;
-&lt;p&gt;Docker 管理、Pod 部署模板、SFTP 文件传输&lt;/p&gt;
-&lt;p&gt;隐私(最想强调的): 纯客户端,没有我的服务器,流量直达你的机器、不上报遥测;凭据只进系统
-Keychain/Keystore;同步可选,走你自己的 iCloud / Google Drive(Drive 上端到端加密)。&lt;/p&gt;
-&lt;p&gt;iOS 已上线 App Store,免费下载; Android / macOS 即将跟上。&lt;/p&gt;
-&lt;p&gt;App Store: &lt;a href=&quot;https://apps.apple.com/app/id6775111587&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/id6775111587&lt;/a&gt; &lt;strong&gt;没有上架中国区&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;介绍页: &lt;a href=&quot;https://zobubo.com/products/caret&quot; rel=&quot;nofollow&quot;&gt;https://zobubo.com/products/caret&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;附上永久高级版兑换码，在 app store 中兑换，app 中没有兑换入口&lt;/p&gt;
-&lt;p&gt;XPKJR8WH6NLXTKA6EK&lt;/p&gt;
-&lt;p&gt;47TXLXFLFNW8P3F4K8&lt;/p&gt;
-&lt;p&gt;7YEMA6YAP4MX64EEE7&lt;/p&gt;
-&lt;p&gt;PXX3LW3M47K3KPJJK8&lt;/p&gt;
-&lt;p&gt;XJKXYHYE64AJJ7N4FH&lt;/p&gt;
-&lt;p&gt;MPNK8AYL3HYRH87AHA&lt;/p&gt;
-&lt;p&gt;WN6KERWEA4E87KHAEE&lt;/p&gt;
-&lt;p&gt;8TPPMXF47HM6N776RP&lt;/p&gt;
-&lt;p&gt;MNJHKJR4RHA6XYRXK6&lt;/p&gt;
-&lt;p&gt;R6LPNEEXWFY36KR4HF&lt;/p&gt;
-&lt;p&gt;6L8M3K8J68Y7PR443K&lt;/p&gt;
-&lt;p&gt;HTNP6JKNJPJ3P74JFY&lt;/p&gt;
-&lt;p&gt;PEHAA86YHFYMFHEAFT&lt;/p&gt;
-&lt;p&gt;6MPMEKW6N3PYHLXMWN&lt;/p&gt;
-&lt;p&gt;88TWAFTJWPE7E4AYTH&lt;/p&gt;
-&lt;p&gt;3AMHW3RFE8PMF86PKR&lt;/p&gt;
-&lt;p&gt;F6NMEMW33KFATJ7XL6&lt;/p&gt;
-&lt;p&gt;7EAMFELH4A8HY4W4T3&lt;/p&gt;
-&lt;p&gt;NKWPN6RJNHNW6M7X8F&lt;/p&gt;
-&lt;p&gt;RR678KRLXRYALKXEA6&lt;/p&gt;
-&lt;p&gt;接受好评，也接受反馈&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>罗技 MX Master 3 是最适合 mac 的鼠标了吗</title>
       <link>https://www.v2ex.com/t/1217753</link>
       <guid>v2ex-1217753</guid>
@@ -88,6 +49,14 @@ Keychain/Keystore;同步可选,走你自己的 iCloud / Google Drive(Drive 上�
 &lt;p&gt;想问问万能的 V2 们对这款鼠标的评价如何？&lt;/p&gt;
 &lt;p&gt;这是否是最佳选择？&lt;/p&gt;
 &lt;p&gt;之前用过妙控，并不是很喜欢&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>有重置了兄弟们</title>
+      <link>https://www.v2ex.com/t/1217762</link>
+      <guid>v2ex-1217762</guid>
+      <pubDate>Thu, 04 Jun 2026 00:33:32 GMT</pubDate>
+      <description>&lt;p&gt;codex 周额度又又又重置了&lt;/p&gt;
 </description>
     </item>
   </channel>

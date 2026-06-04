@@ -4,7 +4,75 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Thu, 04 Jun 2026 15:53:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 18:07:32 GMT</lastBuildDate>
+    <item>
+      <title>VoidZero 正在加入 Cloudflare</title>
+      <link>https://linux.do/t/topic/2307141</link>
+      <guid>linux.do-topic-2307141</guid>
+      <pubDate>Thu, 04 Jun 2026 15:57:27 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://voidzero.dev/posts/voidzero-cloudflare&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/3/e/b3eec450c745d88a64f201371851a0d06345967c.svg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;&quot; width=&quot;400&quot; height=&quot;400&quot;&gt;
+
+      &lt;a href=&quot;https://voidzero.dev/posts/voidzero-cloudflare&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;VoidZero&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/346;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/1/3/1130c3779c86f29c389992170dde8ed1b63446ed_2_690x346.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;F0E9F0&quot; width=&quot;690&quot; height=&quot;346&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://voidzero.dev/posts/voidzero-cloudflare&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;VoidZero is Joining Cloudflare&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;VoidZero is excited to announce that we are joining Cloudflare. Vite, Vitest, Rolldown, Oxc, and Vite+ will remain open-source and MIT-licensed. Evan and the rest of the VoidZero team will continue to lead these projects, with Cloudflare fully...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;从Vue到Vite再到VoidZero，我工作的共同主题始终如一：帮助开发者提高生产力。这与Cloudflare帮助建设更好互联网的使命自然契合。我们也看到价值观高度一致，承认开源和社区的重要性。VoidZero加入任何公司的最重要的条件是必须全力支持我们所有开源项目，尊重其社区。Cloudflare完全支持这一点。您可以在Cloudflare的官方公告中了解更多关于其承诺及下一步行动的信息。&lt;/p&gt;
+&lt;p&gt;时机也非常恰到好处。随着AI改变格局，我们看到越来越多的AI agent 使用我们的工具。我们的使命现在包括为 agent 打造更好的工具，正如Cloudflare正定位自己成为 agent 的云端。我们共同打造一个连贯、无阻碍的端到端体验，服务于开发者和 agent 双方。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://blog.cloudflare.com/voidzero-joins-cloudflare/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/8/2/0823c82710a3db032d11df89458d087d01c15416.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;F7880B&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://blog.cloudflare.com/voidzero-joins-cloudflare/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;01:59PM - 04 June 2026&quot;&gt;The Cloudflare Blog – 4 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/360;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/1/9/f198b8c9ffb8d2f56b53c192b14eeddebe33feb3_2_690x361.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;FAF7F4&quot; width=&quot;690&quot; height=&quot;361&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://blog.cloudflare.com/voidzero-joins-cloudflare/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;VoidZero is joining Cloudflare&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;VoidZero, the team behind Vite, Vitest, Rolldown, Oxc, and Vite+, is joining Cloudflare. Vite stays open source, vendor-agnostic, and built for everyone.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;VoidZero，Vite、Vitest、Rolldown、Oxc 和 Vite+ 背后的公司，将加入 Cloudflare。作为这一变化的一部分，VoidZero的所有团队成员也将加入Cloudflare。&lt;/p&gt;
+&lt;p&gt;在说其他任何话之前，我们想先澄清最重要的一点：Vite、Vitest、Rolldown、Oxc 和 Vite+ 将继续保持开源、不依赖厂商且由社区驱动。这一点没有改变。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2307141&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>ELSEVIER网站貌似出现问题了</title>
       <link>https://linux.do/t/topic/2307020</link>
@@ -24,7 +92,7 @@
       <description>
             &lt;p&gt;国内还都搜不到，或者404，&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/c/2/9c21191fb159fe534944339d9ed1aef881094bd8.png&quot; data-download-href=&quot;/uploads/short-url/mhboFfsC8i2NuqIeZk6MjCpYBaE.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/c/2/9c21191fb159fe534944339d9ed1aef881094bd8_2_331x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;mhboFfsC8i2NuqIeZk6MjCpYBaE&quot; width=&quot;331&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/c/2/9c21191fb159fe534944339d9ed1aef881094bd8_2_331x500.png, https://cdn3.ldstatic.com/optimized/4X/9/c/2/9c21191fb159fe534944339d9ed1aef881094bd8_2_496x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/c/2/9c21191fb159fe534944339d9ed1aef881094bd8_2_662x1000.png 2x&quot; data-dominant-color=&quot;E4E4E4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;16 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2306836&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -56,7 +124,7 @@
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/9/e/79e1154c9f4488657c9c8ada99fbd4ae32f7ef0a.jpeg&quot; data-download-href=&quot;/uploads/short-url/hoc0LST7tgPLwSBwg3HjfpW8ykG.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/9/e/79e1154c9f4488657c9c8ada99fbd4ae32f7ef0a_2_690x395.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;hoc0LST7tgPLwSBwg3HjfpW8ykG&quot; width=&quot;690&quot; height=&quot;395&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/9/e/79e1154c9f4488657c9c8ada99fbd4ae32f7ef0a_2_690x395.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/9/e/79e1154c9f4488657c9c8ada99fbd4ae32f7ef0a_2_1035x592.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/9/e/79e1154c9f4488657c9c8ada99fbd4ae32f7ef0a_2_1380x790.jpeg 2x&quot; data-dominant-color=&quot;E5E8E4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;目前已经上线openrouter（&lt;code&gt;nvidia/nemotron-3-ultra-550b-a55b:free&lt;/code&gt;）&lt;a href=&quot;http://xn--build-qn9h.nvidia.com&quot; rel=&quot;noopener nofollow ugc&quot;&gt;和build.nvidia.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;权重：&lt;a href=&quot;https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16 · Hugging Face&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2306497&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -135,7 +203,7 @@
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/9/7/f97c4bca0c9c1e67de149098976005f8406892bc.jpeg&quot; data-download-href=&quot;/uploads/short-url/zB3bYG3DIgxVvx5QuGjQQ49dD1W.jpeg?dl=1&quot; title=&quot;e819bc8d78ebd505d6dae9f122798d82&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/9/7/f97c4bca0c9c1e67de149098976005f8406892bc_2_422x500.jpeg&quot; alt=&quot;e819bc8d78ebd505d6dae9f122798d82&quot; data-base62-sha1=&quot;zB3bYG3DIgxVvx5QuGjQQ49dD1W&quot; width=&quot;422&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/9/7/f97c4bca0c9c1e67de149098976005f8406892bc_2_422x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/9/7/f97c4bca0c9c1e67de149098976005f8406892bc_2_633x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/9/7/f97c4bca0c9c1e67de149098976005f8406892bc_2_844x1000.jpeg 2x&quot; data-dominant-color=&quot;B2B1B1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;15 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2305480&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -172,7 +240,7 @@
 &lt;p&gt;有趣的是，Altman 发现外部竟然还有人比内部记录用得更多，这让他个人感到有些“尴尬”。他指出，大约六年半前，OpenAI 月消耗量最高的用户也仅使用 10 万个 token，这在当时已是全球领先水平，而如今它已退化为全球的人均平均水平。&lt;/p&gt;
 &lt;p&gt;尽管 OpenAI 内部流行着一种积极使用和消耗 token 的文化，但 AI 运行的账单正在急剧膨胀。Altman 坦言，在 2026 年初，成本问题还很少被客户提起，但现在它已骤然演变成一个“巨大问题”。为此，公司正致力于优化和改进模型，希望能找到用更低支出为用户提供更多价值的有效方法。&lt;/p&gt;
 &lt;p&gt;Source：&lt;a href=&quot;https://www.businessinsider.com/sam-altman-openai-top-token-spender-ai-costs-issue-2026-6&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Sam Altman Says OpenAI&#39;s Top Token Spender Burns 100 Billion a Month - Business Insider&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;18 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;25 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2305175&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -498,42 +566,6 @@
 
             &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2303062&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>谷歌开源gemma-4-12B-it</title>
-      <link>https://linux.do/t/topic/2302640</link>
-      <guid>linux.do-topic-2302640</guid>
-      <pubDate>Thu, 04 Jun 2026 03:15:57 GMT</pubDate>
-      <description>
-            &lt;p&gt;这次是gemma4家族的12b版本开源，现在有E2B、E4B、12B、26B A4B、31B，对个人用户非常友好，谷歌算是北美御三家唯一还在坚持搞开源的了。&lt;br&gt;
-不知道qwen3.7还会不会开源，感觉这次提升还挺大的。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/7/d/d7d3fc700dbf8c78a22c59d524e28f20992edc68.png&quot; data-download-href=&quot;/uploads/short-url/uNiPIOpJzGB016o2yDH8aZ6vN1u.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/d/d7d3fc700dbf8c78a22c59d524e28f20992edc68_2_353x499.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;uNiPIOpJzGB016o2yDH8aZ6vN1u&quot; width=&quot;353&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/d/d7d3fc700dbf8c78a22c59d524e28f20992edc68_2_353x499.png, https://cdn3.ldstatic.com/optimized/4X/d/7/d/d7d3fc700dbf8c78a22c59d524e28f20992edc68_2_529x748.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/7/d/d7d3fc700dbf8c78a22c59d524e28f20992edc68_2_706x998.png 2x&quot; data-dominant-color=&quot;D8DBDE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://huggingface.co/google/gemma-4-12B-it&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://huggingface.co/google/gemma-4-12B-it&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;huggingface.co&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/372;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/f/f/fff5e8ef113435f9dcf1b561e50cda23e654e219_2_690x372.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;5A70A4&quot; width=&quot;690&quot; height=&quot;372&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://huggingface.co/google/gemma-4-12B-it&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;google/gemma-4-12B-it · Hugging Face&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;We’re on a journey to advance and democratize artificial intelligence through open source and open science.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2302640&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
