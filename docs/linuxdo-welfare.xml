@@ -4,7 +4,165 @@
     <title>LINUX DO - Welfare</title>
     <link>https://linux.do/c/welfare/36</link>
     <description>Welfare category from linux.do</description>
-    <lastBuildDate>Thu, 04 Jun 2026 00:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 05:16:47 GMT</lastBuildDate>
+    <item>
+      <title>聊聊bybit使用指南</title>
+      <link>https://linux.do/t/topic/2303321</link>
+      <guid>linux.do-topic-2303321</guid>
+      <pubDate>Thu, 04 Jun 2026 04:51:00 GMT</pubDate>
+      <description>
+            &lt;p&gt;最近看到因为openai封号导致网络上对账号付款稳定性的需求增长,bybit这个卡被好多佬提及,我就在这里聊聊我的bybit使用中的一些细节吧.&lt;/p&gt;
+&lt;p&gt;首先是新账号注册会有10%返现,这个返现是只针对一些特定的付款场景,比如restaurant这种,像游戏内购,会员购买这种是不享受10%返现的,只能享受基础返现,什么是基础返现,这个一会再说.新用户的10%返现也是有时间和上限限制的,时间我记得好像是一个月,上限是110USD,bybit卡的所有返现都是给积分,积分可以在任意时间兑换成USD或者USDT.&lt;/p&gt;
+&lt;p&gt;然后讲一下入金以及消费.bybit是加密交易所,所以入金可以由其他钱包或者交易所提币,如果有境外银行卡,也可以直接在bybit内部使用法币购买稳定币.申请开通bybit卡之后,需要注意的是交易所内的USDT与bybit卡内的USD不是一个东西,在付款时会扣除卡内的USD,而USDT自动兑换成USD是有0.5%-2%的损耗的,这个损耗每次都不太一样.再就是境外交易手续费问题,我的是哈萨克斯坦的卡,目前只要是哈萨克斯坦境外的交易,全部会收2%的手续费,不论是否是美元结算.&lt;/p&gt;
+&lt;p&gt;再来聊一下基础返现部分,即便你是普通用户,每笔消费也可以享受2%的返现,是无条件返现,任意消费都可以享受,所以扣除掉汇损和手续费后每笔交易的损失大概就在0.5-2%左右.这个返现仍然是以积分形式给予.当月消费达标后,可以解锁更高级的返现以及特定商户100%返现.当月消费达到500USD时,可以解锁netflix,openai,claude的100%返现,并且返现等级达到Beta,每月最高返现总量为50USD,月消费3500USD会到Alpha解锁每笔4%返现以及150USD上限,最高的是25000USD的Infinite,每笔10%返现与600USD返现上限.注意,这里的100%返现与普通返现是共享返现上限的,比如我在beta等级买了三次gpt plus,我只能享受到50USD返现并且本月所有消费不会再有返现,除非升级.&lt;/p&gt;
+&lt;p&gt;前面多次提到返现实际上是以积分形式回赠的,在bybit卡的页面会有一个自动返现的开关,我的建议是关闭他,他默认会在每天将你的所有积分按500:1的比例兑换成USD(不是USDT),这个比例就是bybit官方积分和USD的兑换比例,但是实际上你可以以更优惠的价格在积分市场以10000积分对话25USD,我就是这样做的,这样就会使实际的返现上限变成1.25倍.&lt;/p&gt;
+&lt;p&gt;最后说一下怎么薅羊毛.先去注册一个  &lt;a href=&quot;http://Trip.com&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Trip.com&lt;/a&gt; ,这个不需要任何实名,可以直接绑定bybit卡进行支付,随便找一个酒店预订半个月之后的房间,由于bybit卡他是预授权,所以付款成功之后会先冻结资金,这个时候的余额是没有实际扣除的,所以积分不会立即到账,大概四五天之后这笔资金就会扣除并返现积分,这个时候就可以去把积分兑换成USD,尽量全部花掉,然后再去 &lt;a href=&quot;http://Trip.com&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Trip.com&lt;/a&gt; 上退款,退款之后bybit会扣除给你返现的积分,但是当你积分全部花掉了他就没法扣除积分了,这样就白嫖了他的返现.如果你想用此办法去升级返现等级,一定要在升级成功之后再退款,不然他也会把你消费的额度一并扣除.&lt;/p&gt;
+&lt;p&gt;以上是我本人的实际经历总结出来的,如果有错误或者不准确的地方,希望各位佬们能批评指正&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2303321&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>WPS随机天数会员</title>
+      <link>https://linux.do/t/topic/2302836</link>
+      <guid>linux.do-topic-2302836</guid>
+      <pubDate>Thu, 04 Jun 2026 03:36:37 GMT</pubDate>
+      <description>
+            &lt;p&gt;（话题已被作者删除）&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2302836&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>claude羊毛，可能只限企业用户</title>
+      <link>https://linux.do/t/topic/2302803</link>
+      <guid>linux.do-topic-2302803</guid>
+      <pubDate>Thu, 04 Jun 2026 03:34:10 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/b/2/1b2323d1119350f13087fb41cc55d6b762fc522f.png&quot; data-download-href=&quot;/uploads/short-url/3S4b4zGN5oL5QWu9ir9g7XLSxoX.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/b/2/1b2323d1119350f13087fb41cc55d6b762fc522f_2_690x389.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;3S4b4zGN5oL5QWu9ir9g7XLSxoX&quot; width=&quot;690&quot; height=&quot;389&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/b/2/1b2323d1119350f13087fb41cc55d6b762fc522f_2_690x389.png, https://cdn3.ldstatic.com/optimized/4X/1/b/2/1b2323d1119350f13087fb41cc55d6b762fc522f_2_1035x583.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/b/2/1b2323d1119350f13087fb41cc55d6b762fc522f_2_1380x778.png 2x&quot; data-dominant-color=&quot;EFEFED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;p-18626229-give-1000-in-usage-credits-to-every-new-claude-code-or-cowork-user-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18626229-give-1000-in-usage-credits-to-every-new-claude-code-or-cowork-user-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;Give $1,000 in usage credits to every new Claude Code or Cowork user&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Invite teammates in your org who are new to both Cowork and Claude Code.&lt;/p&gt;
+&lt;p&gt;看看你有没有资格吧&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/f/2/3f2b6a053692abc72db92616203945faabcc9eea.png&quot; data-download-href=&quot;/uploads/short-url/90P5TddHA8RFgsJRc3RUzi3IJsu.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/f/2/3f2b6a053692abc72db92616203945faabcc9eea_2_690x480.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;90P5TddHA8RFgsJRc3RUzi3IJsu&quot; width=&quot;690&quot; height=&quot;480&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/f/2/3f2b6a053692abc72db92616203945faabcc9eea_2_690x480.png, https://cdn3.ldstatic.com/optimized/4X/3/f/2/3f2b6a053692abc72db92616203945faabcc9eea_2_1035x720.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/f/2/3f2b6a053692abc72db92616203945faabcc9eea_2_1380x960.png 2x&quot; data-dominant-color=&quot;E2DFDD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2302803&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>（领完了）WPS大会员亲友卡</title>
+      <link>https://linux.do/t/topic/2302784</link>
+      <guid>linux.do-topic-2302784</guid>
+      <pubDate>Thu, 04 Jun 2026 03:32:13 GMT</pubDate>
+      <description>
+            &lt;p&gt;天数随机，总共合计30天&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://personal-act.wps.cn/rubik2/portal/HD2025080515573944/YM2025080515572451?cs_from=ios&amp;position=ios_friendcard_vipcenter&amp;token=8bcca049affcfaaba527f8538e905313&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://personal-act.wps.cn/rubik2/portal/HD2025080515573944/YM2025080515572451?cs_from=ios&amp;position=ios_friendcard_vipcenter&amp;token=8bcca049affcfaaba527f8538e905313&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;personal-act.wps.cn&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://personal-act.wps.cn/rubik2/portal/HD2025080515573944/YM2025080515572451?cs_from=ios&amp;position=ios_friendcard_vipcenter&amp;token=8bcca049affcfaaba527f8538e905313&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;正在加载&lt;/a&gt;&lt;/h3&gt;
+
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2302784&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>wps大会员亲友卡随机天数（已领完）</title>
+      <link>https://linux.do/t/topic/2302699</link>
+      <guid>linux.do-topic-2302699</guid>
+      <pubDate>Thu, 04 Jun 2026 03:23:34 GMT</pubDate>
+      <description>
+            &lt;p&gt;不知道能领几个，但是别浪费了&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/0/9/70950229a9ece98982e71b0179f49adbe32b98cc.jpeg&quot; data-download-href=&quot;/uploads/short-url/g3WJ02OQaY8PspkEeZeALPTzT0U.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/0/9/70950229a9ece98982e71b0179f49adbe32b98cc_2_345x234.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;g3WJ02OQaY8PspkEeZeALPTzT0U&quot; width=&quot;345&quot; height=&quot;234&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/0/9/70950229a9ece98982e71b0179f49adbe32b98cc_2_345x234.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/0/9/70950229a9ece98982e71b0179f49adbe32b98cc_2_517x351.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/0/9/70950229a9ece98982e71b0179f49adbe32b98cc_2_690x468.jpeg 2x&quot; data-dominant-color=&quot;E0DBE1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2302699&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>[已领完] WPS 超级会员 7天 * 5 分享</title>
+      <link>https://linux.do/t/topic/2302586</link>
+      <guid>linux.do-topic-2302586</guid>
+      <pubDate>Thu, 04 Jun 2026 03:09:23 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/d/e/5deaaf2fedeaf2ee82f1543fe07ea4a381058a21.jpeg&quot; data-download-href=&quot;/uploads/short-url/doPdf4HIcWtUFHSQ8b9tH2XCX2V.jpeg?dl=1&quot; title=&quot;wps超会分享卡片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/d/e/5deaaf2fedeaf2ee82f1543fe07ea4a381058a21_2_327x500.jpeg&quot; alt=&quot;wps超会分享卡片&quot; data-base62-sha1=&quot;doPdf4HIcWtUFHSQ8b9tH2XCX2V&quot; width=&quot;327&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/d/e/5deaaf2fedeaf2ee82f1543fe07ea4a381058a21_2_327x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/d/e/5deaaf2fedeaf2ee82f1543fe07ea4a381058a21_2_490x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/5/d/e/5deaaf2fedeaf2ee82f1543fe07ea4a381058a21.jpeg 2x&quot; data-dominant-color=&quot;F1C69B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2302586&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>京东plus会员 学生优惠99元买一年送一年</title>
+      <link>https://linux.do/t/topic/2302155</link>
+      <guid>linux.do-topic-2302155</guid>
+      <pubDate>Thu, 04 Jun 2026 02:21:27 GMT</pubDate>
+      <description>
+            &lt;p&gt;补充:现在开plus额外送12积分，6.21过期&lt;/p&gt;
+&lt;p&gt;学生认证后可开&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/7/a/47adb42f232cfa1a9e1ade0b3c208b8f46ce8e94.jpeg&quot; data-download-href=&quot;/uploads/short-url/ae63FsiRs9wIyrOKyui1EJZnRQM.jpeg?dl=1&quot; title=&quot;Screenshot2026-06-04-10-13-03-983com.jingdong.app.mall&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/7/a/47adb42f232cfa1a9e1ade0b3c208b8f46ce8e94_2_224x500.jpeg&quot; alt=&quot;Screenshot2026-06-04-10-13-03-983com.jingdong.app.mall&quot; data-base62-sha1=&quot;ae63FsiRs9wIyrOKyui1EJZnRQM&quot; width=&quot;224&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/7/a/47adb42f232cfa1a9e1ade0b3c208b8f46ce8e94_2_224x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/7/a/47adb42f232cfa1a9e1ade0b3c208b8f46ce8e94_2_336x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/7/a/47adb42f232cfa1a9e1ade0b3c208b8f46ce8e94_2_448x1000.jpeg 2x&quot; data-dominant-color=&quot;EFE1DE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/0/1/801f6be87b8876829fe3f4fc8250a60390c99fa5.jpeg&quot; data-download-href=&quot;/uploads/short-url/ihqr3VrOV9bPcQzbYhRp3oRbX6d.jpeg?dl=1&quot; title=&quot;Screenshot2026-06-04-10-18-10-027com.jingdong.app.mall&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/0/1/801f6be87b8876829fe3f4fc8250a60390c99fa5_2_224x500.jpeg&quot; alt=&quot;Screenshot2026-06-04-10-18-10-027com.jingdong.app.mall&quot; data-base62-sha1=&quot;ihqr3VrOV9bPcQzbYhRp3oRbX6d&quot; width=&quot;224&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/0/1/801f6be87b8876829fe3f4fc8250a60390c99fa5_2_224x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/0/1/801f6be87b8876829fe3f4fc8250a60390c99fa5_2_336x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/0/1/801f6be87b8876829fe3f4fc8250a60390c99fa5_2_448x1000.jpeg 2x&quot; data-dominant-color=&quot;F6F4F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;23 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2302155&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>大笑脸证券万1免5开户！【联名】[合租巴士]gpt-5.5低至0.07/刀，评论留id送额度！新老用户都送！</title>
+      <link>https://linux.do/t/topic/2301710</link>
+      <guid>linux.do-topic-2301710</guid>
+      <pubDate>Thu, 04 Jun 2026 01:25:29 GMT</pubDate>
+      <description>
+            &lt;h1&gt;&lt;a name=&quot;p-18618752-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18618752-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;[合租巴士]&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本站特别开通codex-补贴分组，倍率低至0.07&lt;/p&gt;
+&lt;p&gt;1:1充值，gpt-5.5模型0.35元1M&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;合租巴士一直稳定运行中&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;官网：&lt;a href=&quot;https://hezu.ink/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://hezu.ink/&lt;/a&gt;&lt;br&gt;
+qq群：995253029&lt;/p&gt;
+&lt;p&gt;评论留合租巴士注册用户名id送额度，新老用户都送！&lt;/p&gt;
+&lt;h1&gt;&lt;a name=&quot;p-18618752-h-15-2&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18618752-h-15-2&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;大笑脸万1免5开户&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;专业低佣券商开户，开户和推荐朋友都有红包！&lt;/p&gt;
+&lt;h1&gt;&lt;a name=&quot;p-18618752-h-3&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18618752-h-3&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;券商推荐&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;银河证券&lt;/strong&gt;：ETF 万 0.5 免 5 [ETF,LOF ，etf 费率低，适合 etf ，打新，纳指，宽基玩家。新手必备]&lt;br&gt;
+&lt;strong&gt;广发证券&lt;/strong&gt;：ETF 万 0.5 免 5【etf费率低，龙头券商】&lt;br&gt;
+&lt;strong&gt;东北证券&lt;/strong&gt;：万 0.741 免 5 [国企券商，股票 etf 费率都很低]&lt;br&gt;
+&lt;strong&gt;国泰海通&lt;/strong&gt;：万 0.8 免 5 [头部龙头券商，费率最优惠，大客户专享，综合费率最低]&lt;/p&gt;
+&lt;h1&gt;&lt;a name=&quot;p-18618752-h-4&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18618752-h-4&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;联系方式&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;我的网站&lt;a href=&quot;https://www.daxiaolian.com/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;www.daxiaolian.com&lt;/a&gt;随时更新低佣券商&lt;br&gt;
+开户企业微信&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/b/9/4b9135529693506631656fe61a34a4e76c482815.jpeg&quot; data-download-href=&quot;/uploads/short-url/aMuUTiWhPRV7mXdErtotptq2cG9.jpeg?dl=1&quot; title=&quot;d43ab4162414c67479d6ac9942d1b5fc&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/b/9/4b9135529693506631656fe61a34a4e76c482815_2_183x375.jpeg&quot; alt=&quot;d43ab4162414c67479d6ac9942d1b5fc&quot; data-base62-sha1=&quot;aMuUTiWhPRV7mXdErtotptq2cG9&quot; width=&quot;183&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/b/9/4b9135529693506631656fe61a34a4e76c482815_2_183x375.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/b/9/4b9135529693506631656fe61a34a4e76c482815_2_274x562.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/b/9/4b9135529693506631656fe61a34a4e76c482815_2_366x750.jpeg 2x&quot; data-dominant-color=&quot;96C0EB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;p-18618752-h-5&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18618752-h-5&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;有任何券商问题可以在评论区问我，我看到会回复&lt;/strong&gt;&lt;/h2&gt;
+            &lt;p&gt;&lt;small&gt;67 个帖子 - 58 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2301710&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>依旧每日50个grok账号</title>
+      <link>https://linux.do/t/topic/2301480</link>
+      <guid>linux.do-topic-2301480</guid>
+      <pubDate>Thu, 04 Jun 2026 00:44:41 GMT</pubDate>
+      <description>
+            &lt;p&gt;刚注册的50个grok free账号，速取&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/11HXX8Edg5t7QyLcjI0FNesFkt0.zip&quot;&gt;grok_register.zip&lt;/a&gt; (22.7 KB)&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2301480&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>原来还有人不知道超算互联网可以领服务器</title>
       <link>https://linux.do/t/topic/2301145</link>
@@ -14,19 +172,8 @@
             &lt;p&gt;今天我朋友问我有没有比较免费练习AI微调的服务器，我才发现好像我在几个月前确实领过，但是一直没有用，现在想起来，第一时间分享给佬友们&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/b/5/db5d02ca5aacf13afff8f19cd9b5b0a6bf60ca96.png&quot; data-download-href=&quot;/uploads/short-url/vizQ8F0QJiyAU2OvK7gJ1LThtum.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/b/5/db5d02ca5aacf13afff8f19cd9b5b0a6bf60ca96_2_690x331.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;vizQ8F0QJiyAU2OvK7gJ1LThtum&quot; width=&quot;690&quot; height=&quot;331&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/b/5/db5d02ca5aacf13afff8f19cd9b5b0a6bf60ca96_2_690x331.png, https://cdn3.ldstatic.com/optimized/4X/d/b/5/db5d02ca5aacf13afff8f19cd9b5b0a6bf60ca96_2_1035x496.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/b/5/db5d02ca5aacf13afff8f19cd9b5b0a6bf60ca96_2_1380x662.png 2x&quot; data-dominant-color=&quot;F7F7FC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;补个地址&lt;a href=&quot;https://www.scnet.cn/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.scnet.cn/&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;46 个帖子 - 24 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2301145&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>我们爱的语言不尽相同 再逢初恋</title>
-      <link>https://linux.do/t/topic/2301037</link>
-      <guid>linux.do-topic-2301037</guid>
-      <pubDate>Wed, 03 Jun 2026 17:19:54 GMT</pubDate>
-      <description>
-            &lt;p&gt;（话题已被作者删除）&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2301037&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
@@ -67,14 +214,13 @@
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/0/a/30ab17b42b5e0f3955d6d8471b12b399fc3de0a6.jpeg&quot; data-download-href=&quot;/uploads/short-url/6WxtVLUZaLBKWSGTYA5c4Cf3jWS.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/0/a/30ab17b42b5e0f3955d6d8471b12b399fc3de0a6_2_690x366.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6WxtVLUZaLBKWSGTYA5c4Cf3jWS&quot; width=&quot;690&quot; height=&quot;366&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/0/a/30ab17b42b5e0f3955d6d8471b12b399fc3de0a6_2_690x366.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/0/a/30ab17b42b5e0f3955d6d8471b12b399fc3de0a6_2_1035x549.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/0/a/30ab17b42b5e0f3955d6d8471b12b399fc3de0a6_2_1380x732.jpeg 2x&quot; data-dominant-color=&quot;F3F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a name=&quot;p-18612244-h-4&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-4&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;我的代理&lt;/h3&gt;
 &lt;p&gt;我的代理可以维护自己的代理池，在创建账号时可以选择自己创建的代理或公开的代理。如果没有代理可以用我的 &lt;code&gt;美国1001&lt;/code&gt; 但是这个ip账号非常多，可能比较危险。&lt;/p&gt;
-&lt;p&gt;sub2api只支持socks和http代理，为了各位老友都能轻松添加自己的代理，&lt;strong&gt;我把xray塞进了sub2api&lt;/strong&gt;，所以几乎&lt;strong&gt;支持100%的机场节点&lt;/strong&gt;，老友们可以轻松设置自己的代理。&lt;br&gt;
+&lt;p&gt;为了各位老友都能轻松添加自己的代理，&lt;strong&gt;我把xray塞进了sub2api&lt;/strong&gt;，所以几乎&lt;strong&gt;支持100%的机场节点&lt;/strong&gt;，老友们可以轻松设置自己的代理。&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/f/e/7fe76fd6328cbe68516a2fc93f0e5870a5653539.jpeg&quot; data-download-href=&quot;/uploads/short-url/ifuunjMDgWqgrtnJ5TEKEppvY3n.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/f/e/7fe76fd6328cbe68516a2fc93f0e5870a5653539_2_690x366.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ifuunjMDgWqgrtnJ5TEKEppvY3n&quot; width=&quot;690&quot; height=&quot;366&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/f/e/7fe76fd6328cbe68516a2fc93f0e5870a5653539_2_690x366.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/f/e/7fe76fd6328cbe68516a2fc93f0e5870a5653539_2_1035x549.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/f/e/7fe76fd6328cbe68516a2fc93f0e5870a5653539_2_1380x732.jpeg 2x&quot; data-dominant-color=&quot;F6F9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a name=&quot;p-18612244-h-5&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-5&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;分配订阅&lt;/h3&gt;
 &lt;p&gt;可以把自己创建的分组，按订阅的方式分配给朋友，功能也是和管理员对齐。只能管理自己分配的订阅。&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/6/1/26172bb7690ae84a7d83b8f892baf10103653408.jpeg&quot; data-download-href=&quot;/uploads/short-url/5qXMNieBso2rdND9iTOUvXHbCE8.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/6/1/26172bb7690ae84a7d83b8f892baf10103653408_2_690x365.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5qXMNieBso2rdND9iTOUvXHbCE8&quot; width=&quot;690&quot; height=&quot;365&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/6/1/26172bb7690ae84a7d83b8f892baf10103653408_2_690x365.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/6/1/26172bb7690ae84a7d83b8f892baf10103653408_2_1035x547.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/6/1/26172bb7690ae84a7d83b8f892baf10103653408_2_1380x730.jpeg 2x&quot; data-dominant-color=&quot;F5FAFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a name=&quot;p-18612244-h-6&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-6&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;我的兑换码&lt;/h3&gt;
 &lt;p&gt;可以生成自己分组的订阅兑换码用于分发，功能也是和管理员对齐。&lt;br&gt;
-（这个功能还有点bug，兑换码使用后使用者获得了订阅，但是分配订阅里无法管理这个订阅，下个版本修复这个问题，如果会造成不方便就先不要使用兑换码功能）&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/1/0/e1047da5801e3b713e2cdf0578b0788b7afa15a9.jpeg&quot; data-download-href=&quot;/uploads/short-url/w6B3fgNCN6R3ZzFXmuiLcVIfX8B.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/1/0/e1047da5801e3b713e2cdf0578b0788b7afa15a9_2_690x369.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;w6B3fgNCN6R3ZzFXmuiLcVIfX8B&quot; width=&quot;690&quot; height=&quot;369&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/1/0/e1047da5801e3b713e2cdf0578b0788b7afa15a9_2_690x369.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/1/0/e1047da5801e3b713e2cdf0578b0788b7afa15a9_2_1035x553.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/1/0/e1047da5801e3b713e2cdf0578b0788b7afa15a9_2_1380x738.jpeg 2x&quot; data-dominant-color=&quot;F6F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a name=&quot;p-18612244-h-7&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-7&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;我的订阅&lt;/h3&gt;
 &lt;p&gt;我的订阅里新增了对所在分组的号池状态显示，方便快速判断订阅是否可以正常使用。&lt;/p&gt;
@@ -85,13 +231,21 @@
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/f/f/eff430d1ef4e87f8493b229ebf56bf6dd95b9f01.jpeg&quot; data-download-href=&quot;/uploads/short-url/yeJi4VXZPMJnwgNtLJHa76SYRjj.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/f/eff430d1ef4e87f8493b229ebf56bf6dd95b9f01_2_690x366.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;yeJi4VXZPMJnwgNtLJHa76SYRjj&quot; width=&quot;690&quot; height=&quot;366&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/f/eff430d1ef4e87f8493b229ebf56bf6dd95b9f01_2_690x366.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/f/f/eff430d1ef4e87f8493b229ebf56bf6dd95b9f01_2_1035x549.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/f/f/eff430d1ef4e87f8493b229ebf56bf6dd95b9f01_2_1380x732.jpeg 2x&quot; data-dominant-color=&quot;F4F7F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;上游错误显示自己账号的错误，可以查看细明，也和管理员完全对齐。&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/5/7/35753d5adc3511b3faa7e67f3d5a789a3e746e9f.jpeg&quot; data-download-href=&quot;/uploads/short-url/7CUuquDKZ8gPZMXhOsuASjUFnRl.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/7/35753d5adc3511b3faa7e67f3d5a789a3e746e9f_2_690x366.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;7CUuquDKZ8gPZMXhOsuASjUFnRl&quot; width=&quot;690&quot; height=&quot;366&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/7/35753d5adc3511b3faa7e67f3d5a789a3e746e9f_2_690x366.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/5/7/35753d5adc3511b3faa7e67f3d5a789a3e746e9f_2_1035x549.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/5/7/35753d5adc3511b3faa7e67f3d5a789a3e746e9f_2_1380x732.jpeg 2x&quot; data-dominant-color=&quot;E6E7E7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18612244-h-9&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-9&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;总结&lt;/h2&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18612244-h-9&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-9&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;网络方面&lt;/h3&gt;
+&lt;p&gt;依然是优选ip，全球延迟不超过100ms。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/3/8/7388f1061e53f1adc35251cfdab19a6b526b108d.png&quot; data-download-href=&quot;/uploads/short-url/gu4iU4VJmQXIZPkFTKGUbO8XY61.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/3/8/7388f1061e53f1adc35251cfdab19a6b526b108d_2_690x406.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gu4iU4VJmQXIZPkFTKGUbO8XY61&quot; width=&quot;690&quot; height=&quot;406&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/3/8/7388f1061e53f1adc35251cfdab19a6b526b108d_2_690x406.png, https://cdn3.ldstatic.com/optimized/4X/7/3/8/7388f1061e53f1adc35251cfdab19a6b526b108d_2_1035x609.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/3/8/7388f1061e53f1adc35251cfdab19a6b526b108d_2_1380x812.png 2x&quot; data-dominant-color=&quot;DAECDA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;p-18612244-h-10&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-10&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;总结&lt;/h2&gt;
 &lt;p&gt;以上就是我的工艺站新增的全部功能了，等于是一个共享sub2api，让没有条件自己搭建的老友也能维护自己的号池。&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18612244-h-10&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-10&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;加入方式&lt;/h2&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18612244-plus-11&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-plus-11&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;如何搞plus号？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;L站的ldc商店很多&lt;/li&gt;
+&lt;li&gt;各平台通用搜索关键词plus，json，sub2api，cpa，team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;a name=&quot;p-18612244-h-12&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-12&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;加入方式&lt;/h2&gt;
 &lt;p&gt;因为怕人太多服务器炸掉，现在改成邀请码注册。邀请码可以用LDC购买。&lt;/p&gt;
 &lt;p&gt;为了防止已经加入的老友想分享给自己的朋友用，但是朋友没有邀请码注册不了，我会在站内公告里放一个站内专属邀请码购买链接，这样如果想分享给朋友就能给朋友购买了。&lt;/p&gt;
 &lt;p&gt;这个是不可能倒闭的了，服务器和域名我会续费的。&lt;/p&gt;
-&lt;h3&gt;&lt;a name=&quot;p-18612244-h-11&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-11&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;主站链接&lt;/h3&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18612244-h-13&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-13&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;主站链接&lt;/h3&gt;
 &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://api.picpi.top/&quot;&gt;
   &lt;header class=&quot;source&quot;&gt;
       &lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/2/f/22fbdb23460574a5a43ee0ecb23ca4cd2c7ee2a2_2_517x500.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;2F5B8E&quot; width=&quot;517&quot; height=&quot;500&quot;&gt;
@@ -116,7 +270,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-&lt;h3&gt;&lt;a name=&quot;p-18612244-h-12&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-12&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;购买链接&lt;/h3&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18612244-h-14&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18612244-h-14&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;购买链接&lt;/h3&gt;
 &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://ldc.picpi.top/buy/prod_1780500219079&quot;&gt;
   &lt;header class=&quot;source&quot;&gt;
       &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/7/c/57c0fbe72d82b89e48f1cdfa2bca1f9c4cc5211a.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;E8CEC4&quot; width=&quot;256&quot; height=&quot;256&quot;&gt;
@@ -141,10 +295,34 @@
 
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://ldcstore.com/product/7666&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/8/0/28092e729938d92df48bf90dfb5ced9378a34109.svg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;&quot; width=&quot;64&quot; height=&quot;64&quot;&gt;
+
+      &lt;a href=&quot;https://ldcstore.com/product/7666&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;LD士多&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/2/9/92910d3ad1a7e6ad42e1a91385465ffa8bd182d5_2_500x500.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;E8CEC4&quot; width=&quot;500&quot; height=&quot;500&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://ldcstore.com/product/7666&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;共享sub2api，管理自己的号池，自给自足 - LD士多&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;帖子：https://linux.do/t/topic/2300639 共享sub2api，可维护自己的号池，分配自己的订阅，管理自己的代理ip。 适合没有vps，想维护自己号池的佬。&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
 
 &lt;p&gt;&lt;strong&gt;不看帖子就直接买的，全部拒绝退款&lt;/strong&gt;&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/3/d/d3d432c196de2bc6afc7a87057ac2fbe071bb5da.png&quot; data-download-href=&quot;/uploads/short-url/udVnuHjriuDZjmtUmEC9snDD6ga.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/3/d/d3d432c196de2bc6afc7a87057ac2fbe071bb5da_2_690x265.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;udVnuHjriuDZjmtUmEC9snDD6ga&quot; width=&quot;690&quot; height=&quot;265&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/3/d/d3d432c196de2bc6afc7a87057ac2fbe071bb5da_2_690x265.png, https://cdn3.ldstatic.com/optimized/4X/d/3/d/d3d432c196de2bc6afc7a87057ac2fbe071bb5da_2_1035x397.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/3/d/d3d432c196de2bc6afc7a87057ac2fbe071bb5da_2_1380x530.png 2x&quot; data-dominant-color=&quot;F3F2F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;22 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;38 个帖子 - 26 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2300639&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -158,20 +336,6 @@
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/d/a/dda0ac8bee871e2a0ba4141c5fa7ef8294d051d7.png&quot; data-download-href=&quot;/uploads/short-url/vCBLkH8GJI3FNNsJqAy6PR5IH0r.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/d/a/dda0ac8bee871e2a0ba4141c5fa7ef8294d051d7_2_689x268.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;vCBLkH8GJI3FNNsJqAy6PR5IH0r&quot; width=&quot;689&quot; height=&quot;268&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/d/a/dda0ac8bee871e2a0ba4141c5fa7ef8294d051d7_2_689x268.png, https://cdn3.ldstatic.com/optimized/4X/d/d/a/dda0ac8bee871e2a0ba4141c5fa7ef8294d051d7_2_1033x402.png 1.5x, https://cdn3.ldstatic.com/original/4X/d/d/a/dda0ac8bee871e2a0ba4141c5fa7ef8294d051d7.png 2x&quot; data-dominant-color=&quot;FAFAFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2300172&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Cursor给在校大学生免费赠送一年Pro会员</title>
-      <link>https://linux.do/t/topic/2300092</link>
-      <guid>linux.do-topic-2300092</guid>
-      <pubDate>Wed, 03 Jun 2026 13:59:54 GMT</pubDate>
-      <description>
-            &lt;p&gt;只要你是在校大学生，使用后缀.edu的教育邮箱注册账号并通过验证，可以获得价值240$的12个月Cursor Pro会员。&lt;br&gt;
-支持GPT/Claude/Gemini 全模型。验证通过后不需要绑定卡，直接获得。&lt;br&gt;
-白嫖入口:cursor.com/cn/students&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/e/8/de85a912ea42b6bb49b1fca614c25291bb25e729.png&quot; data-download-href=&quot;/uploads/short-url/vKwmBBEX6pQnlw9bNCvcyK3RTgB.png?dl=1&quot; title=&quot;微信图片202606032153252121220&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/e/8/de85a912ea42b6bb49b1fca614c25291bb25e729_2_690x372.png&quot; alt=&quot;微信图片202606032153252121220&quot; data-base62-sha1=&quot;vKwmBBEX6pQnlw9bNCvcyK3RTgB&quot; width=&quot;690&quot; height=&quot;372&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/e/8/de85a912ea42b6bb49b1fca614c25291bb25e729_2_690x372.png, https://cdn3.ldstatic.com/optimized/4X/d/e/8/de85a912ea42b6bb49b1fca614c25291bb25e729_2_1035x558.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/e/8/de85a912ea42b6bb49b1fca614c25291bb25e729_2_1380x744.png 2x&quot; data-dominant-color=&quot;F9F9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2300092&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
@@ -242,7 +406,7 @@
 &lt;p&gt;&lt;strong&gt;收到了eSIM二维码的邮件，但是目前是无法激活的，我们需要等待到5个工作日才能激活邮箱拉到底部就看到含eSlM二维码的PDF，需要我们输入在申请时设置的PDF密码才能打开&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/d/4/1d4c5384a01fbc15c3125d32dd81b0d9661bdff9.jpeg&quot; data-download-href=&quot;/uploads/short-url/4bbneYq1Hjqk7FznkM8TmmeFr2V.jpeg?dl=1&quot; title=&quot;Image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/d/4/1d4c5384a01fbc15c3125d32dd81b0d9661bdff9_2_690x338.jpeg&quot; alt=&quot;Image&quot; data-base62-sha1=&quot;4bbneYq1Hjqk7FznkM8TmmeFr2V&quot; width=&quot;690&quot; height=&quot;338&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/d/4/1d4c5384a01fbc15c3125d32dd81b0d9661bdff9_2_690x338.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/d/4/1d4c5384a01fbc15c3125d32dd81b0d9661bdff9_2_1035x507.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/d/4/1d4c5384a01fbc15c3125d32dd81b0d9661bdff9_2_1380x676.jpeg 2x&quot; data-dominant-color=&quot;DCD2CA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;进入PDF文件里面有二维码，再去写入就可以了&lt;/strong&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2299916&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -255,7 +419,7 @@
             &lt;p&gt;api： ```&lt;br&gt;
 &lt;a href=&quot;http://www.renjw.site:8080&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;http://www.renjw.site:8080&lt;/a&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;key：base64 dGhpcyBpcyBhIGV4YW1wbGVzay1lOGU0ZGQ1MzkzNDJhODE5YWQ3MWYxZWE1MDJkYjIwMDY3NzVlYjk0NGI3NWQ1M2Q1YmNlYWVhMTI2MWE5ZmEx  太快了&lt;/code&gt;&lt;/pre&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2299755&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -292,7 +456,7 @@
       <description>
             &lt;p&gt;第1次用抽奖功能，抽两个kiro free 550积分账号，截止4号9点：&lt;br&gt;
 将使用&lt;a href=&quot;https://lottery.linux.do/&quot;&gt;官方抽奖工具&lt;/a&gt;随机抽取&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2297782&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -379,170 +543,6 @@ base_url: &lt;a href=&quot;https://sub2api.521911.xyz&quot; rel=&quot;noopener n
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/f/1/2f19d95e2f421366e18da7274a53fcb528edcb3c.jpeg&quot; data-download-href=&quot;/uploads/short-url/6IFOZPU37rTV4ZWXVXrGVijdIrW.jpeg?dl=1&quot; title=&quot;IMG20260602135809&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/1/2f19d95e2f421366e18da7274a53fcb528edcb3c_2_375x500.jpeg&quot; alt=&quot;IMG20260602135809&quot; data-base62-sha1=&quot;6IFOZPU37rTV4ZWXVXrGVijdIrW&quot; width=&quot;375&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/1/2f19d95e2f421366e18da7274a53fcb528edcb3c_2_375x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/f/1/2f19d95e2f421366e18da7274a53fcb528edcb3c_2_562x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/f/1/2f19d95e2f421366e18da7274a53fcb528edcb3c_2_750x1000.jpeg 2x&quot; data-dominant-color=&quot;989D9D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;16 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2296678&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【krill】拼团大厅上线！月卡上线！低至0.13的纯pro号池不用愁！ 货真价实地送，回帖继续送，image-2 dp-v4flash等依旧免费用</title>
-      <link>https://linux.do/t/topic/2296029</link>
-      <guid>linux.do-topic-2296029</guid>
-      <pubDate>Wed, 03 Jun 2026 03:17:30 GMT</pubDate>
-      <description>
-            &lt;p&gt;为了让各位佬友方便拼团，Krill已上线拼团大厅，拼团更快更便宜！ 可直接参与别人发起的团，不用自己费心费力找朋友“砍一刀”啦，官方拼团有保障～&lt;/p&gt;
-&lt;p&gt;网站：&lt;a href=&quot;https://www.krill-ai.com&quot; rel=&quot;noopener nofollow ugc&quot;&gt;www.krill-ai.com&lt;/a&gt;&lt;br&gt;
-tg： &lt;a href=&quot;https://t.me/krill_aichat&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Telegram: View @krill_aichat&lt;/a&gt;&lt;br&gt;
-q群：368643125 （凭付款订单号申请加入）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/smirking_face.png?v=15&quot; title=&quot;:smirking_face:&quot; class=&quot;emoji&quot; alt=&quot;:smirking_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;拼满10人团后，叠加88折优惠码：linuxDo，纯pro号池最低可至0.13元/美刀！ 还有省心的月卡套餐等你来！&lt;br&gt;
-&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/wink.png?v=15&quot; title=&quot;:wink:&quot; class=&quot;emoji&quot; alt=&quot;:wink:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;Krill是自有号池，尽可能地把利润让给佬友！计费透明，均为openai官方计费标准，无暗改，无文字游戏。在plus、team频繁翻车的今天，pro就是最佳省心之选！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/smiling_face_with_sunglasses.png?v=15&quot; title=&quot;:smiling_face_with_sunglasses:&quot; class=&quot;emoji&quot; alt=&quot;:smiling_face_with_sunglasses:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;购买套餐或充余额后，更有免费的image-2 1k在线画图、DeepSeekv4-flash、&lt;strong&gt;kimi-k2.6&lt;/strong&gt;免费无限*用！&lt;br&gt;
-&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/smiling_face_with_three_hearts.png?v=15&quot; title=&quot;:smiling_face_with_three_hearts:&quot; class=&quot;emoji&quot; alt=&quot;:smiling_face_with_three_hearts:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;还有4.5折的骨折价国产模型套餐，堪称全网最低！可选择阿里云百炼平台渠道直出，满血部署，极速体验！&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/9/a/b9a55d1945157a2514a7a9fba993d054d63b6e41.png&quot; data-download-href=&quot;/uploads/short-url/quiCzbcd6ZWcWqveeMy0im6qgQp.png?dl=1&quot; title=&quot;拼团大厅&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/9/a/b9a55d1945157a2514a7a9fba993d054d63b6e41_2_538x347.png&quot; alt=&quot;拼团大厅&quot; data-base62-sha1=&quot;quiCzbcd6ZWcWqveeMy0im6qgQp&quot; width=&quot;538&quot; height=&quot;347&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/9/a/b9a55d1945157a2514a7a9fba993d054d63b6e41_2_538x347.png, https://cdn3.ldstatic.com/optimized/4X/b/9/a/b9a55d1945157a2514a7a9fba993d054d63b6e41_2_807x520.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/9/a/b9a55d1945157a2514a7a9fba993d054d63b6e41_2_1076x694.png 2x&quot; data-dominant-color=&quot;F8F9F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/7/9/579e1f5d1f75925d8f69c0a1c259a276f3ee19fd.jpeg&quot; data-download-href=&quot;/uploads/short-url/cv6jA8Wqg2sj1fJnJsC0wFlaziR.jpeg?dl=1&quot; title=&quot;套餐详情&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/7/9/579e1f5d1f75925d8f69c0a1c259a276f3ee19fd_2_543x500.jpeg&quot; alt=&quot;套餐详情&quot; data-base62-sha1=&quot;cv6jA8Wqg2sj1fJnJsC0wFlaziR&quot; width=&quot;543&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/7/9/579e1f5d1f75925d8f69c0a1c259a276f3ee19fd_2_543x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/7/9/579e1f5d1f75925d8f69c0a1c259a276f3ee19fd_2_814x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/7/9/579e1f5d1f75925d8f69c0a1c259a276f3ee19fd_2_1086x1000.jpeg 2x&quot; data-dominant-color=&quot;F0F2F2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/wrapped_gift.png?v=15&quot; title=&quot;:wrapped_gift:&quot; class=&quot;emoji&quot; alt=&quot;:wrapped_gift:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;L站佬友专属福利 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/wrapped_gift.png?v=15&quot; title=&quot;:wrapped_gift:&quot; class=&quot;emoji&quot; alt=&quot;:wrapped_gift:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-1、 1～50楼送 10USD gpt codex额度。并抽取3位送出国产token plan。&lt;br&gt;
-2、51～500楼送 5USD gpt codex额度，每一百楼抽取4位送出国产token plan。&lt;br&gt;
-3、 每100楼抽取3位送20USD 余额。&lt;br&gt;
-4、 每200楼抽取1位送50USD 余额。&lt;br&gt;
-5、 充值折扣码 &lt;strong&gt;linuxDo&lt;/strong&gt; 可享88折充值优惠。&lt;/p&gt;
-&lt;p&gt;Krill支持企业定制，可开发票（税点+手续费自理），欢迎来询！&lt;/p&gt;
-&lt;p&gt;*个人合理使用，禁止分发&lt;br&gt;
-本次活动Krill拥有最终解释权&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;123 个帖子 - 82 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2296029&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>抽一个 苏菲家宽 日本星链那个 50元一个月的</title>
-      <link>https://linux.do/t/topic/2295494</link>
-      <guid>linux.do-topic-2295494</guid>
-      <pubDate>Wed, 03 Jun 2026 02:13:55 GMT</pubDate>
-      <description>
-            &lt;p&gt;还有25天，之前看佬的帖子有，不想抽买了一个月试试。&lt;br&gt;
-感觉和现在用的没什么区别。于是闲置了。&lt;br&gt;
-因为用的是 &lt;strong&gt;大号邮箱&lt;/strong&gt;，所以不出邮箱。&lt;br&gt;
-&lt;strong&gt;只能给订阅链接&lt;/strong&gt;&lt;br&gt;
-需要什么样的链接 再私聊我吧。&lt;br&gt;
-苏菲家宽的 不支持 v2ray 只能用clash verge，我喜欢用v2rayN&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;抽奖环节 &lt;a class=&quot;hashtag-cooked&quot; href=&quot;https://linux.do/tag/lottery/10&quot; data-type=&quot;tag&quot; data-slug=&quot;抽奖&quot; data-id=&quot;10&quot; data-style-type=&quot;icon&quot; data-icon=&quot;tag&quot; data-ref=&quot;抽奖::tag&quot;&gt;&lt;span class=&quot;hashtag-icon-placeholder&quot;&gt;&lt;svg class=&quot;fa d-icon d-icon-square-full svg-icon svg-node&quot;&gt;&lt;use href=&quot;#square-full&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span&gt;抽奖&lt;/span&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/trophy.png?v=15&quot; title=&quot;:trophy:&quot; class=&quot;emoji&quot; alt=&quot;:trophy:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 奖品详情：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;奖品：苏菲家宽-日本-订阅链接&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/three_o_clock.png?v=15&quot; title=&quot;:three_o_clock:&quot; class=&quot;emoji&quot; alt=&quot;:three_o_clock:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 活动时间：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;截止时间：2026年6月5日晚22:00关贴后&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/memo.png?v=15&quot; title=&quot;:memo:&quot; class=&quot;emoji&quot; alt=&quot;:memo:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 参与方式：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在本帖下回复&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/magnifying_glass_tilted_left.png?v=15&quot; title=&quot;:magnifying_glass_tilted_left:&quot; class=&quot;emoji&quot; alt=&quot;:magnifying_glass_tilted_left:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 抽奖规则：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;每位用户仅允许参与一次。&lt;br&gt;
-使用&lt;a href=&quot;https://lottery.linux.do/&quot;&gt;L站官方工具&lt;/a&gt;随机抽取中奖者。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/warning.png?v=15&quot; title=&quot;:warning:&quot; class=&quot;emoji&quot; alt=&quot;:warning:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 注意事项：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本活动将在活动截止时间后关闭回帖，以确保公正性。&lt;br&gt;
-中奖者将在活动结束后24小时内在本帖公布&lt;br&gt;
-所有规则及抽奖结果由活动发起人和论坛&lt;a href=&quot;https://linux.do/about&quot;&gt;管理团队&lt;/a&gt;最终解释。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2295494&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>当年玩炫舞的佬友们，来免费领取QQ紫钻</title>
-      <link>https://linux.do/t/topic/2295484</link>
-      <guid>linux.do-topic-2295484</guid>
-      <pubDate>Wed, 03 Jun 2026 02:12:49 GMT</pubDate>
-      <description>
-            &lt;p&gt;白嫖一年紫钻，需要之前注册过炫舞，不需要游戏在线，直接网页领取。&lt;/p&gt;
-&lt;p&gt;最高领取12个月，如果领不到12个月，就换个区，继续领。一个号，分2个区，可以领取俩次。&lt;/p&gt;
-&lt;p&gt;活动时间：2026 年 5 月 23 日起 长期有效&lt;br&gt;
-领取地址：&lt;a href=&quot;https://x5.qq.com/cp/a20260523hyhk/&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;时光赠礼-QQ炫舞官方网站-腾讯游戏&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;领取步骤：登录后-绑定分区-查询我的注册时间-待领取-确定领取。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;35 个帖子 - 34 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2295484&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>每日50个grok账号</title>
-      <link>https://linux.do/t/topic/2295386</link>
-      <guid>linux.do-topic-2295386</guid>
-      <pubDate>Wed, 03 Jun 2026 01:58:55 GMT</pubDate>
-      <description>
-            &lt;p&gt;依旧每天50个grok刚注册的free账号&lt;br&gt;
-&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/5rCLr591ADjyzXU9wCwOPWo4dZm.zip&quot;&gt;grok_register.zip&lt;/a&gt; (22.3 KB)&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2295386&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>hotmail邮箱含令牌，各位佬自取</title>
-      <link>https://linux.do/t/topic/2295382</link>
-      <guid>linux.do-topic-2295382</guid>
-      <pubDate>Wed, 03 Jun 2026 01:58:48 GMT</pubDate>
-      <description>
-            &lt;p&gt;之前搞得弄来做plus，现在pp渠道和gp太麻烦了，多余的分享给各位佬们&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://cdk.linux.do/receive/1f92d77d-b273-4f87-bd0d-921cfe37b08d&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/8/2/2/822bb089b22be3b974f09c1971d362abb3759085.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;CBBC9B&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
-
-      &lt;a href=&quot;https://cdk.linux.do/receive/1f92d77d-b273-4f87-bd0d-921cfe37b08d&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;cdk.linux.do&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://cdk.linux.do/receive/1f92d77d-b273-4f87-bd0d-921cfe37b08d&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;LINUX DO CDK&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Linux Do 社区 CDK 快速分享平台 - 让分享变得更简单&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2295382&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>移动周三充值满减券</title>
-      <link>https://linux.do/t/topic/2295209</link>
-      <guid>linux.do-topic-2295209</guid>
-      <pubDate>Wed, 03 Jun 2026 01:38:05 GMT</pubDate>
-      <description>
-            &lt;p&gt;移动app打开,点击抽奖(第一个帖子有汇总的,单拎出来了,感觉这个话费的力度比较大)&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/9/d/49de82dbccdd28390acc0086ba2226ad59c848e7.jpeg&quot; data-download-href=&quot;/uploads/short-url/axtAah2tOPJc0GHfzuCCO45oBrV.jpeg?dl=1&quot; title=&quot;c4bedbe382fd5ebdce26b5649def805f&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/9/d/49de82dbccdd28390acc0086ba2226ad59c848e7_2_237x500.jpeg&quot; alt=&quot;c4bedbe382fd5ebdce26b5649def805f&quot; data-base62-sha1=&quot;axtAah2tOPJc0GHfzuCCO45oBrV&quot; width=&quot;237&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/9/d/49de82dbccdd28390acc0086ba2226ad59c848e7_2_237x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/9/d/49de82dbccdd28390acc0086ba2226ad59c848e7_2_355x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/4/9/d/49de82dbccdd28390acc0086ba2226ad59c848e7.jpeg 2x&quot; data-dominant-color=&quot;E9E3E6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/0/6/506785b4dc0f981eaba574dbdf1e4beaa6650d4c.jpeg&quot; data-download-href=&quot;/uploads/short-url/bthZzyD5286bMS924HE5CbbX8E4.jpeg?dl=1&quot; title=&quot;2915492e807deb9a4830d105a99b986c&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/0/6/506785b4dc0f981eaba574dbdf1e4beaa6650d4c_2_225x500.jpeg&quot; alt=&quot;2915492e807deb9a4830d105a99b986c&quot; data-base62-sha1=&quot;bthZzyD5286bMS924HE5CbbX8E4&quot; width=&quot;225&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/0/6/506785b4dc0f981eaba574dbdf1e4beaa6650d4c_2_225x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/0/6/506785b4dc0f981eaba574dbdf1e4beaa6650d4c_2_337x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/0/6/506785b4dc0f981eaba574dbdf1e4beaa6650d4c_2_450x1000.jpeg 2x&quot; data-dominant-color=&quot;DECECA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2295209&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>云闪付62会员可以立减了</title>
-      <link>https://linux.do/t/topic/2295100</link>
-      <guid>linux.do-topic-2295100</guid>
-      <pubDate>Wed, 03 Jun 2026 01:19:35 GMT</pubDate>
-      <description>
-            &lt;p&gt;云闪付618活动，想买62会员的，可以抽奖，最高减62元，进入云闪付首页，在banner位就能看到活动入口&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/0/9/00975a7d2c9e41d472e8d29fd0f0194ed1f116e5.jpeg&quot; data-download-href=&quot;/uploads/short-url/5egWDE34wEM1fZJfqiFW3cE5Qp.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/0/9/00975a7d2c9e41d472e8d29fd0f0194ed1f116e5_2_690x426.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5egWDE34wEM1fZJfqiFW3cE5Qp&quot; width=&quot;690&quot; height=&quot;426&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/0/9/00975a7d2c9e41d472e8d29fd0f0194ed1f116e5_2_690x426.jpeg, https://cdn3.ldstatic.com/original/4X/0/0/9/00975a7d2c9e41d472e8d29fd0f0194ed1f116e5.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/0/0/9/00975a7d2c9e41d472e8d29fd0f0194ed1f116e5.jpeg 2x&quot; data-dominant-color=&quot;DC918F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/7/a/47ab8a878eb8c5ac0cb61aa10046299827833040.webp&quot; data-download-href=&quot;/uploads/short-url/ae1qnVBUki5JX17A4MlQxw0arVm.webp?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/7/a/47ab8a878eb8c5ac0cb61aa10046299827833040_2_308x500.webp&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ae1qnVBUki5JX17A4MlQxw0arVm&quot; width=&quot;308&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/7/a/47ab8a878eb8c5ac0cb61aa10046299827833040_2_308x500.webp, https://cdn3.ldstatic.com/optimized/4X/4/7/a/47ab8a878eb8c5ac0cb61aa10046299827833040_2_462x750.webp 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/7/a/47ab8a878eb8c5ac0cb61aa10046299827833040_2_616x1000.webp 2x&quot; data-dominant-color=&quot;DF9A87&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;40 个帖子 - 26 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2295100&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Gemini，配额告急，速来！</title>
-      <link>https://linux.do/t/topic/2294672</link>
-      <guid>linux.do-topic-2294672</guid>
-      <pubDate>Tue, 02 Jun 2026 19:28:51 GMT</pubDate>
-      <description>
-            &lt;p&gt;Gemini：剩余请求总数 55 次。配额极低。&lt;/p&gt;
-&lt;p&gt;base + key:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;poold_5fefcfddfc3f48bbb837ccbb93bf916a
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;https://pooled.dev/api/v1
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/c/0/ec0886e39bd393ef99106f719e0cee30a56a1222.png&quot; data-download-href=&quot;/uploads/short-url/xG2X0TV3ip2PGz9c3LPLjoJt4EW.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/c/0/ec0886e39bd393ef99106f719e0cee30a56a1222.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xG2X0TV3ip2PGz9c3LPLjoJt4EW&quot; width=&quot;328&quot; height=&quot;163&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2294672&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
