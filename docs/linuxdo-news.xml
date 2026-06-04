@@ -4,7 +4,27 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Thu, 04 Jun 2026 18:07:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:29:08 GMT</lastBuildDate>
+    <item>
+      <title>工行客服:万事网联借记卡明起全行发行(6月5日)</title>
+      <link>https://linux.do/t/topic/2307478</link>
+      <guid>linux.do-topic-2307478</guid>
+      <pubDate>Thu, 04 Jun 2026 19:20:56 GMT</pubDate>
+      <description>
+            &lt;p&gt;工商银行客服称：万事网联借记卡（祥鹿金卡、貔貅白金卡）6月5日起全行发行，需自行确认网点是否有预制卡卡板。祥鹿金卡、貔貅白金卡均为“10+1”多币种卡。&lt;/p&gt;
+&lt;p&gt;该卡收费标准如下：&lt;br&gt;
+工本费 祥鹿金卡20元/卡 貔貅白金卡50元/卡&lt;br&gt;
+年费 祥鹿金卡50元/年 貔貅白金卡100元/年&lt;br&gt;
+（2026年底前，办卡并启卡的客户免除当年年费）&lt;/p&gt;
+&lt;p&gt;祥鹿金卡可享开户见证方手续费5折、境外取现每月首笔免费、跨境汇款每月首笔免手续费；&lt;br&gt;
+貔貅白金卡可享开户见证方手续费全免、境外取现每月首2笔免费、跨境汇款每月首笔免手续费；&lt;br&gt;
+具体优惠细则详询工行客服。&lt;/p&gt;
+&lt;p&gt;感谢 Christopher 投稿&lt;/p&gt;
+&lt;p&gt;转自encmasuta&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2307478&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>VoidZero 正在加入 Cloudflare</title>
       <link>https://linux.do/t/topic/2307141</link>
@@ -240,7 +260,7 @@
 &lt;p&gt;有趣的是，Altman 发现外部竟然还有人比内部记录用得更多，这让他个人感到有些“尴尬”。他指出，大约六年半前，OpenAI 月消耗量最高的用户也仅使用 10 万个 token，这在当时已是全球领先水平，而如今它已退化为全球的人均平均水平。&lt;/p&gt;
 &lt;p&gt;尽管 OpenAI 内部流行着一种积极使用和消耗 token 的文化，但 AI 运行的账单正在急剧膨胀。Altman 坦言，在 2026 年初，成本问题还很少被客户提起，但现在它已骤然演变成一个“巨大问题”。为此，公司正致力于优化和改进模型，希望能找到用更低支出为用户提供更多价值的有效方法。&lt;/p&gt;
 &lt;p&gt;Source：&lt;a href=&quot;https://www.businessinsider.com/sam-altman-openai-top-token-spender-ai-costs-issue-2026-6&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Sam Altman Says OpenAI&#39;s Top Token Spender Burns 100 Billion a Month - Business Insider&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;25 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;28 个帖子 - 25 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2305175&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -531,41 +551,6 @@
 &lt;p&gt;总结：移动端麦克风（输入）/朗读（输出）/语音模式（输入&amp;输出）中文可用。网页/桌面端还不行，但支持中文朗读输出。&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;6 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2303250&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>谷歌开源发布 Gemma 4 12B 多模态模型</title>
-      <link>https://linux.do/t/topic/2303062</link>
-      <guid>linux.do-topic-2303062</guid>
-      <pubDate>Thu, 04 Jun 2026 04:03:32 GMT</pubDate>
-      <description>
-            &lt;p&gt;谷歌开源发布 Gemma 4 12B 多模态模型，该模型可在仅有 16GB 内存或显存的消费级笔记本 / 台式机上运行。  模型本身同时支持文本、图片、视频和音频输入，同时通过 Token 预测选型器降低延迟，让开发者在可以本地执行多步骤推理和智能体交互体验。  查看详情&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.landian.news/archives/113274.html&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/6/c/26c894992045c0189577b912e34b6748798d7b7d.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;16A5FF&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
-
-      &lt;a href=&quot;https://www.landian.news/archives/113274.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;蓝点网&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.landian.news/archives/113274.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;谷歌发布并开源Gemma 4 12B版多模态模型 可在16GB内存/显存上运行&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;#人工智能 谷歌开源发布 Gemma 4 12B 多模态模型，该模型可在仅有 16GB 内存或显存的消费级笔记本 / 台式机上运行。…&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2303062&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
