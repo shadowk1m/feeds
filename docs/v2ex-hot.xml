@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 04 Jun 2026 05:16:47 GMT</lastBuildDate>
-    <item>
-      <title>L 站真有这么神？</title>
-      <link>https://www.v2ex.com/t/1217784</link>
-      <guid>v2ex-1217784</guid>
-      <pubDate>Thu, 04 Jun 2026 01:30:05 GMT</pubDate>
-      <description>最近在申請 linuxdo 社區，因為有些 AI 問題得到解決方案。是公開的帖子，然後我覺得社區裡未公開帖子會更有含金量一些，就想著去申請，昨天拿了三個邀請碼，申請了三次，一次沒過。&lt;br /&gt;我就想知道，真有必要一直卡著嗎？不理解&lt;br /&gt;還有就是想問下 L 站的大神，裡面貼文還有必要讓我繼續申請下去嗎？已經有點崩潰了</description>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 09:06:55 GMT</lastBuildDate>
     <item>
       <title>年龄越来越大 找不到老婆怎么办</title>
       <link>https://www.v2ex.com/t/1217656</link>
@@ -35,45 +28,6 @@
       <description>&lt;p&gt;我最近靠着 AI 辅助写了一些小项目，想部署到自己的服务器上跑起来。&lt;/p&gt;
 &lt;p&gt;原本想着装个管理面板会省事很多，因为 ai 也这么推荐我操作来着，毕竟改 Nginx 配置、看日志、管理数据库、上传文件这些都有图形界面，对我这种新手运维可能比较友好。但后来翻了一些帖子，发现很多人对面板比较谨慎，原因大多是权限太高、暴露面变大，万一面板本身出问题，整台机器都可能受影响，而且我也害怕面板偷偷在背后把我服务器的东西传输出去。&lt;/p&gt;
 &lt;p&gt;所以现在有点纠结了，对于像我这种新手运维来说，管理服务器是用面板还是用什么其他方法啊！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>网上聊了个总裁助理的相亲对象，刚聊了几句，问了个问题，她就毛了</title>
-      <link>https://www.v2ex.com/t/1217714</link>
-      <guid>v2ex-1217714</guid>
-      <pubDate>Wed, 03 Jun 2026 13:41:16 GMT</pubDate>
-      <description>&lt;p&gt;内容前面无非就是寒暄，晚上好啥的。
-然后我看到她的资料写的总裁助理。&lt;/p&gt;
-&lt;p&gt;我就说：你做总裁助理的啊，好厉害&lt;/p&gt;
-&lt;p&gt;她回：有什么厉害的，也是搬砖&lt;/p&gt;
-&lt;p&gt;我说：那不是离权力中心很近吗&lt;/p&gt;
-&lt;p&gt;她回：没啥用&lt;/p&gt;
-&lt;p&gt;我说：哈哈哈为啥啊，我也不太懂这个&lt;/p&gt;
-&lt;p&gt;她回：没事，也没那么多为啥&lt;/p&gt;
-&lt;p&gt;————这时候我看她好像不想聊工作，我就看他学历是 985/211&lt;/p&gt;
-&lt;p&gt;我说：你学历好高啊，学霸来的&lt;/p&gt;
-&lt;p&gt;她回：你在考虑什么&lt;/p&gt;
-&lt;p&gt;我回：啊？就聊天啊，学历咋了吗&lt;/p&gt;
-&lt;p&gt;——————&lt;/p&gt;
-&lt;p&gt;然后就没有任何回复了。&lt;/p&gt;
-&lt;p&gt;奇怪的人真多啊。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[社会大调查]大家会购买一个支持存储密码和 passkey 的设备吗？</title>
-      <link>https://www.v2ex.com/t/1217584</link>
-      <guid>v2ex-1217584</guid>
-      <pubDate>Wed, 03 Jun 2026 05:52:22 GMT</pubDate>
-      <description>&lt;p&gt;自己的密码是存在自建的 bitwarden 里的，也是每个站点随机生成密码，多端同步倒是方便，但有时候需要在陌生环境输入密码就变成一个很难受的情况，要么手机打开然后输入一大串随机的密码，要么就要登录网页版复制粘贴。&lt;/p&gt;
-&lt;p&gt;有精神洁癖，现在供应链攻击这么成熟的前提下，生怕自己全部的密码被一下拿走然后被别人为所欲为，所以想做个硬件来保存密码，预期的功能如下：&lt;/p&gt;
-&lt;p&gt;1 、支持多端离线在线同步&lt;/p&gt;
-&lt;p&gt;2 、支持移动 APP 选择需要的密码，硬件模拟键盘自动输入&lt;/p&gt;
-&lt;p&gt;3 、支持 TOTP&lt;/p&gt;
-&lt;p&gt;4 、支持指纹验证&lt;/p&gt;
-&lt;p&gt;5 、支持 passkey 凭据登录&lt;/p&gt;
-&lt;p&gt;大小就类似 U 盘，可以挂在钥匙链上，现在看下来售价可能会在 200 块左右。&lt;/p&gt;
-&lt;p&gt;我自己也是做网络安全方向的，自然是会有一套完整的安全模型和安全白皮书，安全性倒是不必担心。可以说就算丢失硬件，被人拆去检测，也无法恢复其中内容。&lt;/p&gt;
-&lt;p&gt;不知道各位老哥有没有什么兴趣，市面上大多数产品都是 PASSKEY 那种模式，好像都没有密码保存的功能，所以就想来看看这事能不能成。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -116,26 +70,52 @@ Keychain/Keystore;同步可选,走你自己的 iCloud / Google Drive(Drive 上�
 </description>
     </item>
     <item>
+      <title>兄弟们， 5 月总计用了多少 token？我用了 34 亿，做了 3 个项目，主用 deepseek v4 pro</title>
+      <link>https://www.v2ex.com/t/1217791</link>
+      <guid>v2ex-1217791</guid>
+      <pubDate>Thu, 04 Jun 2026 01:56:05 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/EhbDnE2.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/EhbDnE2.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>网上聊了个总裁助理的相亲对象，刚聊了几句，问了个问题，她就毛了</title>
+      <link>https://www.v2ex.com/t/1217714</link>
+      <guid>v2ex-1217714</guid>
+      <pubDate>Wed, 03 Jun 2026 13:41:16 GMT</pubDate>
+      <description>&lt;p&gt;内容前面无非就是寒暄，晚上好啥的。
+然后我看到她的资料写的总裁助理。&lt;/p&gt;
+&lt;p&gt;我就说：你做总裁助理的啊，好厉害&lt;/p&gt;
+&lt;p&gt;她回：有什么厉害的，也是搬砖&lt;/p&gt;
+&lt;p&gt;我说：那不是离权力中心很近吗&lt;/p&gt;
+&lt;p&gt;她回：没啥用&lt;/p&gt;
+&lt;p&gt;我说：哈哈哈为啥啊，我也不太懂这个&lt;/p&gt;
+&lt;p&gt;她回：没事，也没那么多为啥&lt;/p&gt;
+&lt;p&gt;————这时候我看她好像不想聊工作，我就看他学历是 985/211&lt;/p&gt;
+&lt;p&gt;我说：你学历好高啊，学霸来的&lt;/p&gt;
+&lt;p&gt;她回：你在考虑什么&lt;/p&gt;
+&lt;p&gt;我回：啊？就聊天啊，学历咋了吗&lt;/p&gt;
+&lt;p&gt;——————&lt;/p&gt;
+&lt;p&gt;然后就没有任何回复了。&lt;/p&gt;
+&lt;p&gt;奇怪的人真多啊。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>罗技 MX Master 3 是最适合 mac 的鼠标了吗</title>
+      <link>https://www.v2ex.com/t/1217753</link>
+      <guid>v2ex-1217753</guid>
+      <pubDate>Wed, 03 Jun 2026 19:20:31 GMT</pubDate>
+      <description>&lt;p&gt;准备给自己的 MacBook 配一个鼠标？&lt;/p&gt;
+&lt;p&gt;看到推这款的比较多&lt;/p&gt;
+&lt;p&gt;想问问万能的 V2 们对这款鼠标的评价如何？&lt;/p&gt;
+&lt;p&gt;这是否是最佳选择？&lt;/p&gt;
+&lt;p&gt;之前用过妙控，并不是很喜欢&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>有重置了兄弟们</title>
       <link>https://www.v2ex.com/t/1217762</link>
       <guid>v2ex-1217762</guid>
       <pubDate>Thu, 04 Jun 2026 00:33:32 GMT</pubDate>
       <description>&lt;p&gt;codex 周额度又又又重置了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>v 友们 windows 电脑用 codex/claude code 一般用什么终端？感觉系统原生终端/powershell 有点难用</title>
-      <link>https://www.v2ex.com/t/1217746</link>
-      <guid>v2ex-1217746</guid>
-      <pubDate>Wed, 03 Jun 2026 16:32:39 GMT</pubDate>
-      <description>因为在 windows 上有 codex/claude code 需求，但又没有一个类似 tmux 的，打算用 wezterm 试试，死活解决不了这个问题 wezterm 用 codex 的时候用中文输入法就闪退（ QQ 输入法，随便输入什么都闪退，系统输入法没问题，但我其中一个不想用系统原生终端的原因就是渲染不出来第三方中文输入法的习惯，但我的习惯数据都已经在第三方输入法里面了）&lt;br /&gt;&lt;br /&gt;btw 想问下 v 友们 windows 开发一般用什么终端，我个人会有一些需求&lt;br /&gt;1. 重启会恢复原本我在开发的目录，最好的话是能恢复到那个进程（我原本开了多少个 tab 就恢复回来多少个 tab ）&lt;br /&gt;2. 对第三方中文输入法支持比较好&lt;br /&gt;3. 终端不要太重，不要太占内存（最好有一些比如闲置 tab 就 freeze 内存的管理之类的？）</description>
-    </item>
-    <item>
-      <title>老罗思想还是太超前了</title>
-      <link>https://www.v2ex.com/t/1217612</link>
-      <guid>v2ex-1217612</guid>
-      <pubDate>Wed, 03 Jun 2026 07:12:38 GMT</pubDate>
-      <description>&lt;p&gt;他的 TNT 产品真是生不逢时，一句“安静！吵到我用 TNT 了”成了一个经典的梗。最近 AI 用多了，天天写提示词，码字又累又慢，不如直接嘴说来的快，而且现在语音识别率是真的高，一句话解释不清，多说几句就好啦，TNT 产品搁到现在估计都成爆款了&lt;/p&gt;
 </description>
     </item>
   </channel>
