@@ -4,13 +4,20 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 05 Jun 2026 06:46:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:39:32 GMT</lastBuildDate>
     <item>
       <title>纯吐槽公司技术团队现状</title>
       <link>https://www.v2ex.com/t/1218058</link>
       <guid>v2ex-1218058</guid>
       <pubDate>Fri, 05 Jun 2026 00:28:56 GMT</pubDate>
       <description>个人入职公司 5 年, 一直担任爬虫工程师, 兼职网管.去年年底, 我开始向 ai 方面转型, 技术领导也看出来我的意思, 从年初开始让我负责公司新项目的 agent 开发, 到上个月底 agent 基本完成, 也做了很多评估测试.至少完成度有个 80%.从年初开始基本不写代码,全部结合 ai 做 vibe-coding.&lt;br /&gt;  上周领导让我参加了一个后端开发提效率的会, 会上前端同事建议后端从 php 转 nodejs.&lt;br /&gt;  其实我个人是没有任何意见,毕竟 php 确实不太适合我们新项目(web3+ai), 同时我也觉得结合 ai, 更换技术栈可能没有想象中那么复杂, 我个人以前主 python, 自己今年也做了几个私人项目, 包括 go, javascript, 结合 ai 基本上能做到无缝切换.&lt;br /&gt;  然而后端同事却觉得, php 有其优点并建议先保留, 后续合适的时候再进行切换.上周六看到一篇新闻, 胡彦斌自己使用 ai 开发了一个 app 并上架, 时间一个月.个人觉得, 连一个歌手都能做个 app 并且上架, 而他们还在纠结换不换, 我是不明白考虑的点.&lt;br /&gt;  后端 curd 写接口, 160+个接口, 后端 4 个人,一个月还没完成.然后项目中需要 ai 的地方,全部找我. 问题来了, 一个功能, 从数据上到 ai 调用到写入结果, 都让我负责.实际上整个流程,就是一条 prompt+请求 gemini/gpt+写入数据. 这种问题出现了起码 10 次, 我也将请求 gemini/gpt 的 demo 丢群里, 结果还是来找我.我觉得这是不是有点搞笑了, 整个项目评估有 50%都要调用 ai, 那我干脆我把项目干了? 现在的氛围就是, ai 的都甩给我, 感觉就是我调一个接口比他们都好.&lt;br /&gt;  原本领导让一个后端同事跟我学习做 agent, 我原本新项目中的 ai 模块想丢给他做, 起码是现学现做, 结果两个星期后领导看到进度太差, 让我接手.结果那 sb 走过来跟我说:&quot;xxx, 不是我甩锅, 是领导不信任我&quot;, 我心里真是千万个 xxx, 我真想说, 你特么的能好好干,领导还不信任你?</description>
+    </item>
+    <item>
+      <title>你相信有阿飘吗？</title>
+      <link>https://www.v2ex.com/t/1218086</link>
+      <guid>v2ex-1218086</guid>
+      <pubDate>Fri, 05 Jun 2026 01:50:38 GMT</pubDate>
+      <description>你相信有阿飘吗？</description>
     </item>
     <item>
       <title>因为坐月子的问题引起的争吵</title>
@@ -27,96 +34,11 @@
 </description>
     </item>
     <item>
-      <title>你相信有阿飘吗？</title>
-      <link>https://www.v2ex.com/t/1218086</link>
-      <guid>v2ex-1218086</guid>
-      <pubDate>Fri, 05 Jun 2026 01:50:38 GMT</pubDate>
-      <description>你相信有阿飘吗？</description>
-    </item>
-    <item>
-      <title>注册送免费额度 支持 gpt5.5 5.4 / Claude sonnet / opus 4.6 4.7 号池</title>
-      <link>https://www.v2ex.com/t/1217909</link>
-      <guid>v2ex-1217909</guid>
-      <pubDate>Thu, 04 Jun 2026 07:24:47 GMT</pubDate>
-      <description>&lt;p&gt;地址： &lt;a href=&quot;https://ai.kisekiremi.moe&quot; rel=&quot;nofollow&quot;&gt;https://ai.kisekiremi.moe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;注册送免费额度， 欢迎来体验，留下 用户 id 额外送额度&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>五年后的程序员会是什么样子呢？</title>
-      <link>https://www.v2ex.com/t/1217897</link>
-      <guid>v2ex-1217897</guid>
-      <pubDate>Thu, 04 Jun 2026 06:57:37 GMT</pubDate>
-      <description>闲来无事翻看 AI 相关帖子，翻到一个 6 年前的帖子 &lt;a target=&quot;_blank&quot; href=&quot;/t/694359&quot; rel=&quot;nofollow noopener&quot;&gt;/t/694359&lt;/a&gt; ，当时大家都觉得程序员短期内不会被 AI 替代，结果 2026 年的今天，Claude Code 、Codex 、Cursor 、OpenClaw 、各种 Agent 已经快把开发流程重做了一遍。&lt;br /&gt;&lt;br /&gt;如果再往后看 5 年：&lt;br /&gt;2031 年，身为程序员的你，会在做什么？</description>
-    </item>
-    <item>
-      <title>有人还玩 QQ 三国吗</title>
-      <link>https://www.v2ex.com/t/1218068</link>
-      <guid>v2ex-1218068</guid>
-      <pubDate>Fri, 05 Jun 2026 01:07:54 GMT</pubDate>
-      <description>&lt;p&gt;上周看了 b 站 up 主老芒果 OL 玩 QQ 三国的视频，看了之后特别想玩，上次还是上初中暑假玩的，那时候天天跟着同学去网吧，练级，做任务，刷棋赚三国币，每一级都是靠打小怪一点一点累计的。但是现在 QQ 三国不氪真玩不下去，上周六开始回归，一开始充了 14 ，买了新手礼包，当天就升到了三十多级，后来又氪了 27 买了 1 千万三国币，走到哪里都得花钱，好多任务也得花钱，而且好多任务必须得组队，逼你多开。幸运的是找到一个好师父，免费给了我一双 5 级鞋，终于可以弯腰跑了，目前已经升 59 级了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>es 过亿数据查询咨询</title>
-      <link>https://www.v2ex.com/t/1217941</link>
-      <guid>v2ex-1217941</guid>
-      <pubDate>Thu, 04 Jun 2026 09:06:49 GMT</pubDate>
-      <description>&lt;h4&gt;前提：&lt;/h4&gt;
-&lt;p&gt;1 亿左右的数据，数据来源是设备的轨迹数据(gps ，速度，温度等信息)，设备端按 5s 左右一次上报&lt;/p&gt;
-&lt;h4&gt;查询需求：&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;能支持查询 3 400 台设备的最新轨迹数据&lt;/li&gt;
-&lt;li&gt;查询单个设备的轨迹信息(这个简单)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我自己尝试搭建了 3 个节点的 es ，每个节点 4g 左右内存，发现执行需求 1 时，大概需要 2-5s 左右，查询语句：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;curl -X GET &quot;http://192.168.1.210:9200/test_index/_search?pretty&quot; \
--H &#39;Content-Type: application/json&#39; \
--d &#39;{
-  &quot;query&quot;: {
-    &quot;terms&quot;: {
-      &quot;serialNumber&quot;: [省略 sn]
-    }
-  },
-  &quot;collapse&quot;: {
-    &quot;field&quot;: &quot;serialNumber&quot;
-  },
-  &quot;size&quot;: 300
-}&#39;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;mapping 信息：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{
-  &quot;settings&quot;: {
-    &quot;number_of_shards&quot;: 3,
-    &quot;number_of_replicas&quot;: 1,
-    &quot;index&quot;: {
-      &quot;sort.field&quot;: &quot;createTime&quot;,
-      &quot;sort.order&quot;: &quot;desc&quot;
-    }
-  },
-  &quot;mappings&quot;: {
-    &quot;properties&quot;: {
-      &quot;serialNumber&quot;: {
-        &quot;type&quot;: &quot;keyword&quot;
-      },
-      &quot;createTime&quot;: {
-        &quot;type&quot;: &quot;date&quot;,
-        &quot;format&quot;: &quot;strict_date_optional_time||epoch_millis||yyyy-MM-dd HH:mm:ss.SSS||yyyy-MM-dd HH:mm:ss&quot;
-      },
-      &quot;longitude&quot;: {
-        &quot;type&quot;: &quot;double&quot;
-      },
-      &quot;latitude&quot;: {
-        &quot;type&quot;: &quot;double&quot;
-      }
-    }
-  }
-}
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;请问可以做到需求 1 查询 3-400 台设备，耗时到 1s 左右吗？&lt;/p&gt;
-</description>
+      <title>美国家宽， 苹果内购，正规使用， 从无反代， ChatGPT 账号被封， 谁能告诉我原因。</title>
+      <link>https://www.v2ex.com/t/1218155</link>
+      <guid>v2ex-1218155</guid>
+      <pubDate>Fri, 05 Jun 2026 04:42:00 GMT</pubDate>
+      <description>ChatGPT 被封了，很无语， 到底要怎么用。&lt;br /&gt;自己使用多年的邮箱，自己注册的 ChatGPT 账号， 使用了几个月网页免费版都没有问题，&lt;br /&gt;多年的 apple 账号， 正价美区内购，支付宝 PockytShop 美区礼品卡，&lt;br /&gt;全程使用的美国家庭宽带 ip (购买 plus 后才开始， 购买前没有使用家宽)&lt;br /&gt;没有使用任何第三方客户端或 api 反代调用行为，&lt;br /&gt;之前 codex 弹过验证， 使用我自己的英国手机卡进行的验证。&lt;br /&gt;这是 plus 第 20 天，使用量从来没有超过周限量一半。&lt;br /&gt;都说 gpt 不容易封号，为了安全，我自认为避过了风险， 为何还是被封了。&lt;br /&gt;&lt;br /&gt;难道是识别到可能是中国用户被封？ gpt 究竟要怎么使用？&lt;br /&gt;我看到别人各种 地区 ip 乱飞正常用， 我从没换过 ip ， 难道是 PockytShop 礼品卡有问题。&lt;br /&gt;还有一点是我有两台电脑，win 和 mac 都登录了 codex ， 在同一内网， 使用同一外网 IP 。</description>
     </item>
     <item>
       <title>一款带 3D 视觉、极简免配置的 Clash 客户端： Clash Mini（自动测速连切，适合小白与颜控）</title>
@@ -137,6 +59,48 @@
 &lt;p&gt;可以在 GitHub Release 页面直接下载 Windows 绿色免安装版，解压即用。
 欢迎大家体验并提出改进意见，如果对您有帮助，求一个鼓励的 Star ！⭐&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>被裁了</title>
+      <link>https://www.v2ex.com/t/1218162</link>
+      <guid>v2ex-1218162</guid>
+      <pubDate>Fri, 05 Jun 2026 05:14:10 GMT</pubDate>
+      <description>Leader 5 分钟语音，HR 20 分钟…&lt;br /&gt;&lt;br /&gt;程序员，没犯过什么大错。&lt;br /&gt;上午还在写代码，Leader 拉了 5 分钟语音：“公司业务调整，你的岗位没了，HR 找你聊。”&lt;br /&gt;HR 聊了 20 分钟，签字，交工牌。&lt;br /&gt;不是能力的原因&lt;br /&gt;工作七八年，按部就班。读书、结婚、生子&lt;br /&gt;现在发现，努力不是重点&lt;br /&gt;走出公司，不知道去哪。也没给家里人说</description>
+    </item>
+    <item>
+      <title>有人还玩 QQ 三国吗</title>
+      <link>https://www.v2ex.com/t/1218068</link>
+      <guid>v2ex-1218068</guid>
+      <pubDate>Fri, 05 Jun 2026 01:07:54 GMT</pubDate>
+      <description>&lt;p&gt;上周看了 b 站 up 主老芒果 OL 玩 QQ 三国的视频，看了之后特别想玩，上次还是上初中暑假玩的，那时候天天跟着同学去网吧，练级，做任务，刷棋赚三国币，每一级都是靠打小怪一点一点累计的。但是现在 QQ 三国不氪真玩不下去，上周六开始回归，一开始充了 14 ，买了新手礼包，当天就升到了三十多级，后来又氪了 27 买了 1 千万三国币，走到哪里都得花钱，好多任务也得花钱，而且好多任务必须得组队，逼你多开。幸运的是找到一个好师父，免费给了我一双 5 级鞋，终于可以弯腰跑了，目前已经升 59 级了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>我把英语学习变成了看小说，感谢 Vibe Coding</title>
+      <link>https://www.v2ex.com/t/1218088</link>
+      <guid>v2ex-1218088</guid>
+      <pubDate>Fri, 05 Jun 2026 01:53:02 GMT</pubDate>
+      <description>&lt;p&gt;有了 Vibe Coding 后，搞了小说的阅读翻译站点 &lt;a href=&quot;https://novel.febug.com/&quot; rel=&quot;nofollow&quot;&gt;https://novel.febug.com/&lt;/a&gt; ，数据源来自笔趣阁。目前 token 还够免费。&lt;/p&gt;
+&lt;p&gt;大家伙可以先白嫖，后面 token 不够了，再考虑加一个广告 or 限制免费使用阅读章数。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。</title>
+      <link>https://www.v2ex.com/t/1218201</link>
+      <guid>v2ex-1218201</guid>
+      <pubDate>Fri, 05 Jun 2026 07:20:22 GMT</pubDate>
+      <description>&lt;p&gt;经常会被 AI 气到忍不住吐槽，但是身边有观点说是我用的方法不对，说我没给 AI 提供足够的文档。&lt;/p&gt;
+&lt;p&gt;目前我使用 AI 的方式还是局限于写点业务无关的辅助类，还有就是代码 review 功能（感觉最有用的功能就这个了），使用的是 codex gpt5.5 high 。&lt;/p&gt;
+&lt;p&gt;最近尝试使用 mattpocock/skills 的 grill-with-docs ，就是一直针对你的需求提问问题，和 AI 对齐颗粒度，然后 AI 会针对该需求生成 prd 文档，issues 等。但是几天下来我发现这些文档好像没什么用，AI 还是会忘记需求，忘记文档，偶尔左右脑互搏。最典的是它需求实现错了，我指出错误的地方让它调整，它反手就说刚刚的代码是我写的，它是基于我的代码修改的，我直接红温了...&lt;/p&gt;
+&lt;p&gt;我看一些文章说，公司的业务代码完全用 AI 写的，我真有点不愿相信，感觉是利益方的小作文。当然那些非公司业务的个人工具，我还是相信能不手写代码的，毕竟业务能灵活调整。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>你失业多久家庭矛盾就开始了？</title>
+      <link>https://www.v2ex.com/t/1218061</link>
+      <guid>v2ex-1218061</guid>
+      <pubDate>Fri, 05 Jun 2026 00:48:50 GMT</pubDate>
+      <description>目前失业五个月，做点兼职，拿时间换钱，暂时还没啥矛盾</description>
     </item>
   </channel>
 </rss>
