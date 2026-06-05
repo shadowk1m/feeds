@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 05 Jun 2026 13:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 16:24:11 GMT</lastBuildDate>
     <item>
       <title>纯吐槽公司技术团队现状</title>
       <link>https://www.v2ex.com/t/1218058</link>
@@ -20,20 +20,6 @@
       <description>你相信有阿飘吗？</description>
     </item>
     <item>
-      <title>因为坐月子的问题引起的争吵</title>
-      <link>https://www.v2ex.com/t/1218006</link>
-      <guid>v2ex-1218006</guid>
-      <pubDate>Thu, 04 Jun 2026 14:09:02 GMT</pubDate>
-      <description>&lt;p&gt;老婆还有一个月生，关于伺候月子的问题今天闹的有点不愉快。&lt;/p&gt;
-&lt;p&gt;我计划是让父母都过来，但是老婆希望只我妈过来，理由是我爸抽烟，二手烟对孕妇婴儿不好，而且孕晚期住一起不方便。  她的顾虑也对，我也跟父母提了要求不抽烟，他们也理解和同意。&lt;/p&gt;
-&lt;p&gt;但是，老婆始终不同意，说我不尊重她的感受，还说干脆都不用来了，坐月子带孩子她自己想办法，沟通无果，闹的不愉快。&lt;/p&gt;
-&lt;p&gt;我有一点私心想父母一起来的原因是：我爸爱喝酒，我怕我妈不在没人管，把身体搞坏了或者一个人出啥事。 再来我们都是上班族，带孩子早晚都得辛苦父母，所以现在一点小问题能克服就克服一下。&lt;/p&gt;
-&lt;p&gt;父母年纪大了也辛苦，老婆怀孕也辛苦，真是两头都想维护好，却难两全，总是顾此失彼。 我反感的点是老婆的语气好像父母就是工具人一样，召之即来，用完就走的感觉。  让我对以后的育儿，养老，夫妻关系愈发没有担忧了。   &lt;/p&gt;
-&lt;p&gt;跟我们的性格成长环境也有关，我比较恋家，双方更依赖一些。老婆比较克制冷淡。&lt;/p&gt;
-&lt;p&gt;请大家帮忙分析一下，告诉我该如何应对。  结婚四五年了，还是搞不好家庭关系。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>美国家宽， 苹果内购，正规使用， 从无反代， ChatGPT 账号被封， 谁能告诉我原因。</title>
       <link>https://www.v2ex.com/t/1218155</link>
       <guid>v2ex-1218155</guid>
@@ -46,26 +32,6 @@
       <guid>v2ex-1218162</guid>
       <pubDate>Fri, 05 Jun 2026 05:14:10 GMT</pubDate>
       <description>Leader 5 分钟语音，HR 20 分钟…&lt;br /&gt;&lt;br /&gt;程序员，没犯过什么大错。&lt;br /&gt;上午还在写代码，Leader 拉了 5 分钟语音：“公司业务调整，你的岗位没了，HR 找你聊。”&lt;br /&gt;HR 聊了 20 分钟，签字，交工牌。&lt;br /&gt;不是能力的原因&lt;br /&gt;工作七八年，按部就班。读书、结婚、生子&lt;br /&gt;现在发现，努力不是重点&lt;br /&gt;走出公司，不知道去哪。也没给家里人说</description>
-    </item>
-    <item>
-      <title>一款带 3D 视觉、极简免配置的 Clash 客户端： Clash Mini（自动测速连切，适合小白与颜控）</title>
-      <link>https://www.v2ex.com/t/1218019</link>
-      <guid>v2ex-1218019</guid>
-      <pubDate>Thu, 04 Jun 2026 14:44:47 GMT</pubDate>
-      <description>&lt;p&gt;大家好，一直想找一个界面精美、占用系统资源极低，且不需要小白去配置各种复杂分流规则的客户端，折腾无果后，我自己基于原版内核开发了 Clash Mini 。
-利用 Google 的 antigravity 真正地实现了君子动口不动手，一行代码都没有手写。&lt;/p&gt;
-&lt;p&gt;✨ 为什么选择 Clash Mini ？&lt;/p&gt;
-&lt;p&gt;微缩监控模式（不占桌面） 窗口可调整为最小尺寸，此时程序会化身为一个精致的科学流量计，悬浮在桌面边缘，极具科技感。 （图片： &lt;a href=&quot;https://raw.githubusercontent.com/qiu-yuxiao/clash-mini/dev/docs/assets/screenshot_traffic_monitor.png&quot; rel=&quot;nofollow&quot;&gt;https://raw.githubusercontent.com/qiu-yuxiao/clash-mini/dev/docs/assets/screenshot_traffic_monitor.png&lt;/a&gt; ）&lt;/p&gt;
-&lt;p&gt;精美的亮暗主题与 3D 浮雕视觉 界面引入了 3D 浮雕设计（ Bevel ）与流畅的微交互，无论深色还是浅色模式，质感都极其出色。&lt;/p&gt;
-&lt;p&gt;深色专家模式： &lt;a href=&quot;https://raw.githubusercontent.com/qiu-yuxiao/clash-mini/dev/docs/assets/screenshot_maximized_dark.png&quot; rel=&quot;nofollow&quot;&gt;https://raw.githubusercontent.com/qiu-yuxiao/clash-mini/dev/docs/assets/screenshot_maximized_dark.png&lt;/a&gt;
-浅色小白模式： &lt;a href=&quot;https://raw.githubusercontent.com/qiu-yuxiao/clash-mini/dev/docs/assets/screenshot_maximized_light.png&quot; rel=&quot;nofollow&quot;&gt;https://raw.githubusercontent.com/qiu-yuxiao/clash-mini/dev/docs/assets/screenshot_maximized_light.png&lt;/a&gt;
-自动测速连切（省心体验） 导入订阅后，程序会自动测速并切换至延迟最低的可用节点；运行中若遇到拥堵或网络故障，也会智能避让，全程零人工干预。&lt;/p&gt;
-&lt;p&gt;节点选择界面： &lt;a href=&quot;https://raw.githubusercontent.com/qiu-yuxiao/clash-mini/dev/docs/assets/screenshot_narrow_nodelist.png&quot; rel=&quot;nofollow&quot;&gt;https://raw.githubusercontent.com/qiu-yuxiao/clash-mini/dev/docs/assets/screenshot_narrow_nodelist.png&lt;/a&gt;
-资源占用极低 基于 Tauri 架构构建，相比传统 Electron 客户端，运行内存和系统开销大幅降低，电脑运行更轻快。&lt;/p&gt;
-&lt;p&gt;📦 获取方式：&lt;/p&gt;
-&lt;p&gt;可以在 GitHub Release 页面直接下载 Windows 绿色免安装版，解压即用。
-欢迎大家体验并提出改进意见，如果对您有帮助，求一个鼓励的 Star ！⭐&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。</title>
@@ -101,6 +67,14 @@
       <guid>v2ex-1218061</guid>
       <pubDate>Fri, 05 Jun 2026 00:48:50 GMT</pubDate>
       <description>目前失业五个月，做点兼职，拿时间换钱，暂时还没啥矛盾</description>
+    </item>
+    <item>
+      <title>一天三款新车?</title>
+      <link>https://www.v2ex.com/t/1218080</link>
+      <guid>v2ex-1218080</guid>
+      <pubDate>Fri, 05 Jun 2026 01:29:27 GMT</pubDate>
+      <description>&lt;p&gt;据懂车帝数据显示，今年 1-5 月，国内上市新车数量高达 544 款，平均每月超 108 款，平均每天至少有 3 款新车上市。其中，1 月上市新车 113 款，2 月为 37 款，3 月为 133 款，4 月为 174 款，5 月为 87 款。然而，在新车扎堆上市的大背景下，车市销量却出现整体下滑。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
