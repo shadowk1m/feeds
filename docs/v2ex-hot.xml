@@ -4,24 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 04 Jun 2026 23:41:55 GMT</lastBuildDate>
-    <item>
-      <title>断掉牛奶后感觉免疫力变强了</title>
-      <link>https://www.v2ex.com/t/1217768</link>
-      <guid>v2ex-1217768</guid>
-      <pubDate>Thu, 04 Jun 2026 00:50:27 GMT</pubDate>
-      <description>个人非科学统计学吗？&lt;br /&gt;&lt;br /&gt;之前喝鲜奶，有时晚上喝，有时早上喝，200 ～ 300ml 不等&lt;br /&gt;&lt;br /&gt;但是基本上两三月一次口腔溃疡&lt;br /&gt;&lt;br /&gt;今年元旦后，就断掉了，改成吃茶叶蛋了，自己做的，每天早上两个&lt;br /&gt;&lt;br /&gt;然后直到现在，也没有口腔溃疡&lt;br /&gt;&lt;br /&gt;有科学依据吗？</description>
-    </item>
-    <item>
-      <title>大家现在个人服务器一般怎么管理比较合适？</title>
-      <link>https://www.v2ex.com/t/1217789</link>
-      <guid>v2ex-1217789</guid>
-      <pubDate>Thu, 04 Jun 2026 01:53:23 GMT</pubDate>
-      <description>&lt;p&gt;我最近靠着 AI 辅助写了一些小项目，想部署到自己的服务器上跑起来。&lt;/p&gt;
-&lt;p&gt;原本想着装个管理面板会省事很多，因为 ai 也这么推荐我操作来着，毕竟改 Nginx 配置、看日志、管理数据库、上传文件这些都有图形界面，对我这种新手运维可能比较友好。但后来翻了一些帖子，发现很多人对面板比较谨慎，原因大多是权限太高、暴露面变大，万一面板本身出问题，整台机器都可能受影响，而且我也害怕面板偷偷在背后把我服务器的东西传输出去。&lt;/p&gt;
-&lt;p&gt;所以现在有点纠结了，对于像我这种新手运维来说，管理服务器是用面板还是用什么其他方法啊！&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 05 Jun 2026 02:13:32 GMT</lastBuildDate>
     <item>
       <title>问问过来人，搞对象除了性行为，还有什么其他意义吗？</title>
       <link>https://www.v2ex.com/t/1217890</link>
@@ -40,12 +23,32 @@
 </description>
     </item>
     <item>
-      <title>有重置了兄弟们</title>
-      <link>https://www.v2ex.com/t/1217762</link>
-      <guid>v2ex-1217762</guid>
-      <pubDate>Thu, 04 Jun 2026 00:33:32 GMT</pubDate>
-      <description>&lt;p&gt;codex 周额度又又又重置了&lt;/p&gt;
+      <title>纯吐槽公司技术团队现状</title>
+      <link>https://www.v2ex.com/t/1218058</link>
+      <guid>v2ex-1218058</guid>
+      <pubDate>Fri, 05 Jun 2026 00:28:56 GMT</pubDate>
+      <description>个人入职公司 5 年, 一直担任爬虫工程师, 兼职网管.去年年底, 我开始向 ai 方面转型, 技术领导也看出来我的意思, 从年初开始让我负责公司新项目的 agent 开发, 到上个月底 agent 基本完成, 也做了很多评估测试.至少完成度有个 80%.从年初开始基本不写代码,全部结合 ai 做 vibe-coding.&lt;br /&gt;  上周领导让我参加了一个后端开发提效率的会, 会上前端同事建议后端从 php 转 nodejs.&lt;br /&gt;  其实我个人是没有任何意见,毕竟 php 确实不太适合我们新项目(web3+ai), 同时我也觉得结合 ai, 更换技术栈可能没有想象中那么复杂, 我个人以前主 python, 自己今年也做了几个私人项目, 包括 go, javascript, 结合 ai 基本上能做到无缝切换.&lt;br /&gt;  然而后端同事却觉得, php 有其优点并建议先保留, 后续合适的时候再进行切换.上周六看到一篇新闻, 胡彦斌自己使用 ai 开发了一个 app 并上架, 时间一个月.个人觉得, 连一个歌手都能做个 app 并且上架, 而他们还在纠结换不换, 我是不明白考虑的点.&lt;br /&gt;  后端 curd 写接口, 160+个接口, 后端 4 个人,一个月还没完成.然后项目中需要 ai 的地方,全部找我. 问题来了, 一个功能, 从数据上到 ai 调用到写入结果, 都让我负责.实际上整个流程,就是一条 prompt+请求 gemini/gpt+写入数据. 这种问题出现了起码 10 次, 我也将请求 gemini/gpt 的 demo 丢群里, 结果还是来找我.我觉得这是不是有点搞笑了, 整个项目评估有 50%都要调用 ai, 那我干脆我把项目干了? 现在的氛围就是, ai 的都甩给我, 感觉就是我调一个接口比他们都好.&lt;br /&gt;  原本领导让一个后端同事跟我学习做 agent, 我原本新项目中的 ai 模块想丢给他做, 起码是现学现做, 结果两个星期后领导看到进度太差, 让我接手.结果那 sb 走过来跟我说:&quot;xxx, 不是我甩锅, 是领导不信任我&quot;, 我心里真是千万个 xxx, 我真想说, 你特么的能好好干,领导还不信任你?</description>
+    </item>
+    <item>
+      <title>因为坐月子的问题引起的争吵</title>
+      <link>https://www.v2ex.com/t/1218006</link>
+      <guid>v2ex-1218006</guid>
+      <pubDate>Thu, 04 Jun 2026 14:09:02 GMT</pubDate>
+      <description>&lt;p&gt;老婆还有一个月生，关于伺候月子的问题今天闹的有点不愉快。&lt;/p&gt;
+&lt;p&gt;我计划是让父母都过来，但是老婆希望只我妈过来，理由是我爸抽烟，二手烟对孕妇婴儿不好，而且孕晚期住一起不方便。  她的顾虑也对，我也跟父母提了要求不抽烟，他们也理解和同意。&lt;/p&gt;
+&lt;p&gt;但是，老婆始终不同意，说我不尊重她的感受，还说干脆都不用来了，坐月子带孩子她自己想办法，沟通无果，闹的不愉快。&lt;/p&gt;
+&lt;p&gt;我有一点私心想父母一起来的原因是：我爸爱喝酒，我怕我妈不在没人管，把身体搞坏了或者一个人出啥事。 再来我们都是上班族，带孩子早晚都得辛苦父母，所以现在一点小问题能克服就克服一下。&lt;/p&gt;
+&lt;p&gt;父母年纪大了也辛苦，老婆怀孕也辛苦，真是两头都想维护好，却难两全，总是顾此失彼。 我反感的点是老婆的语气好像父母就是工具人一样，召之即来，用完就走的感觉。  让我对以后的育儿，养老，夫妻关系愈发没有担忧了。   &lt;/p&gt;
+&lt;p&gt;跟我们的性格成长环境也有关，我比较恋家，双方更依赖一些。老婆比较克制冷淡。&lt;/p&gt;
+&lt;p&gt;请大家帮忙分析一下，告诉我该如何应对。  结婚四五年了，还是搞不好家庭关系。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>五年后的程序员会是什么样子呢？</title>
+      <link>https://www.v2ex.com/t/1217897</link>
+      <guid>v2ex-1217897</guid>
+      <pubDate>Thu, 04 Jun 2026 06:57:37 GMT</pubDate>
+      <description>闲来无事翻看 AI 相关帖子，翻到一个 6 年前的帖子 &lt;a target=&quot;_blank&quot; href=&quot;/t/694359&quot; rel=&quot;nofollow noopener&quot;&gt;/t/694359&lt;/a&gt; ，当时大家都觉得程序员短期内不会被 AI 替代，结果 2026 年的今天，Claude Code 、Codex 、Cursor 、OpenClaw 、各种 Agent 已经快把开发流程重做了一遍。&lt;br /&gt;&lt;br /&gt;如果再往后看 5 年：&lt;br /&gt;2031 年，身为程序员的你，会在做什么？</description>
     </item>
     <item>
       <title>我老婆最近找了新工作, 老板总说她生图很慢, 想帮她搞个工具</title>
@@ -53,6 +56,24 @@
       <guid>v2ex-1217819</guid>
       <pubDate>Thu, 04 Jun 2026 02:49:39 GMT</pubDate>
       <description>deepseekv4 的生图咋样? 想帮她搞个工具啥的, 问下网友们的意见, 看了下 v4 的价格巨便宜, 不知道跟 gpt 最新的比起来谁更好一点</description>
+    </item>
+    <item>
+      <title>麦当劳的可乐是不是比普通罐装可乐好喝？</title>
+      <link>https://www.v2ex.com/t/1217806</link>
+      <guid>v2ex-1217806</guid>
+      <pubDate>Thu, 04 Jun 2026 02:21:58 GMT</pubDate>
+      <description>昨天吃了顿麦当劳，觉得他那个可乐好喝，喝起来也不涨肚子&lt;br /&gt;&lt;br /&gt;今天又想喝可乐了，买了罐可口可乐，发现就前两口好喝，而且喝了几口就很涨肚子，最后喝了不到一半就扔了&lt;br /&gt;&lt;br /&gt;外面便利店能不能买到麦当劳那种可乐？</description>
+    </item>
+    <item>
+      <title>奔三了，在想要不要找女朋友，但是又不想结婚</title>
+      <link>https://www.v2ex.com/t/1217876</link>
+      <guid>v2ex-1217876</guid>
+      <pubDate>Thu, 04 Jun 2026 06:13:23 GMT</pubDate>
+      <description>&lt;p&gt;现在这个年纪，谈肯定是冲着结婚去的，单纯恋爱个人觉得纯属浪费时间。&lt;/p&gt;
+&lt;p&gt;主要是一想到结婚就得打工一辈子，尤其如果失业找不到工作那就更加雪上加霜，就不想结婚。&lt;/p&gt;
+&lt;p&gt;目前一个人存款拿去理财基本可以实现财务自由（当然前提是不出什么大病），一个人活得挺滋润的，不过有时候还是有点无聊。最主要的，现在不想结婚不代表以后不想，可到那时年纪太大就更难找对象了，所以有点迷茫。&lt;/p&gt;
+&lt;p&gt;不知道各位怎么看，有没有以前不想结婚后来后悔的？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
