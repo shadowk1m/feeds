@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 05 Jun 2026 10:39:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 13:46:08 GMT</lastBuildDate>
     <item>
       <title>纯吐槽公司技术团队现状</title>
       <link>https://www.v2ex.com/t/1218058</link>
@@ -41,6 +41,13 @@
       <description>ChatGPT 被封了，很无语， 到底要怎么用。&lt;br /&gt;自己使用多年的邮箱，自己注册的 ChatGPT 账号， 使用了几个月网页免费版都没有问题，&lt;br /&gt;多年的 apple 账号， 正价美区内购，支付宝 PockytShop 美区礼品卡，&lt;br /&gt;全程使用的美国家庭宽带 ip (购买 plus 后才开始， 购买前没有使用家宽)&lt;br /&gt;没有使用任何第三方客户端或 api 反代调用行为，&lt;br /&gt;之前 codex 弹过验证， 使用我自己的英国手机卡进行的验证。&lt;br /&gt;这是 plus 第 20 天，使用量从来没有超过周限量一半。&lt;br /&gt;都说 gpt 不容易封号，为了安全，我自认为避过了风险， 为何还是被封了。&lt;br /&gt;&lt;br /&gt;难道是识别到可能是中国用户被封？ gpt 究竟要怎么使用？&lt;br /&gt;我看到别人各种 地区 ip 乱飞正常用， 我从没换过 ip ， 难道是 PockytShop 礼品卡有问题。&lt;br /&gt;还有一点是我有两台电脑，win 和 mac 都登录了 codex ， 在同一内网， 使用同一外网 IP 。</description>
     </item>
     <item>
+      <title>被裁了</title>
+      <link>https://www.v2ex.com/t/1218162</link>
+      <guid>v2ex-1218162</guid>
+      <pubDate>Fri, 05 Jun 2026 05:14:10 GMT</pubDate>
+      <description>Leader 5 分钟语音，HR 20 分钟…&lt;br /&gt;&lt;br /&gt;程序员，没犯过什么大错。&lt;br /&gt;上午还在写代码，Leader 拉了 5 分钟语音：“公司业务调整，你的岗位没了，HR 找你聊。”&lt;br /&gt;HR 聊了 20 分钟，签字，交工牌。&lt;br /&gt;不是能力的原因&lt;br /&gt;工作七八年，按部就班。读书、结婚、生子&lt;br /&gt;现在发现，努力不是重点&lt;br /&gt;走出公司，不知道去哪。也没给家里人说</description>
+    </item>
+    <item>
       <title>一款带 3D 视觉、极简免配置的 Clash 客户端： Clash Mini（自动测速连切，适合小白与颜控）</title>
       <link>https://www.v2ex.com/t/1218019</link>
       <guid>v2ex-1218019</guid>
@@ -61,11 +68,15 @@
 </description>
     </item>
     <item>
-      <title>被裁了</title>
-      <link>https://www.v2ex.com/t/1218162</link>
-      <guid>v2ex-1218162</guid>
-      <pubDate>Fri, 05 Jun 2026 05:14:10 GMT</pubDate>
-      <description>Leader 5 分钟语音，HR 20 分钟…&lt;br /&gt;&lt;br /&gt;程序员，没犯过什么大错。&lt;br /&gt;上午还在写代码，Leader 拉了 5 分钟语音：“公司业务调整，你的岗位没了，HR 找你聊。”&lt;br /&gt;HR 聊了 20 分钟，签字，交工牌。&lt;br /&gt;不是能力的原因&lt;br /&gt;工作七八年，按部就班。读书、结婚、生子&lt;br /&gt;现在发现，努力不是重点&lt;br /&gt;走出公司，不知道去哪。也没给家里人说</description>
+      <title>大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。</title>
+      <link>https://www.v2ex.com/t/1218201</link>
+      <guid>v2ex-1218201</guid>
+      <pubDate>Fri, 05 Jun 2026 07:20:22 GMT</pubDate>
+      <description>&lt;p&gt;经常会被 AI 气到忍不住吐槽，但是身边有观点说是我用的方法不对，说我没给 AI 提供足够的文档。&lt;/p&gt;
+&lt;p&gt;目前我使用 AI 的方式还是局限于写点业务无关的辅助类，还有就是代码 review 功能（感觉最有用的功能就这个了），使用的是 codex gpt5.5 high 。&lt;/p&gt;
+&lt;p&gt;最近尝试使用 mattpocock/skills 的 grill-with-docs ，就是一直针对你的需求提问问题，和 AI 对齐颗粒度，然后 AI 会针对该需求生成 prd 文档，issues 等。但是几天下来我发现这些文档好像没什么用，AI 还是会忘记需求，忘记文档，偶尔左右脑互搏。最典的是它需求实现错了，我指出错误的地方让它调整，它反手就说刚刚的代码是我写的，它是基于我的代码修改的，我直接红温了...&lt;/p&gt;
+&lt;p&gt;我看一些文章说，公司的业务代码完全用 AI 写的，我真有点不愿相信，感觉是利益方的小作文。当然那些非公司业务的个人工具，我还是相信能不手写代码的，毕竟业务能灵活调整。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>有人还玩 QQ 三国吗</title>
@@ -82,17 +93,6 @@
       <pubDate>Fri, 05 Jun 2026 01:53:02 GMT</pubDate>
       <description>&lt;p&gt;有了 Vibe Coding 后，搞了小说的阅读翻译站点 &lt;a href=&quot;https://novel.febug.com/&quot; rel=&quot;nofollow&quot;&gt;https://novel.febug.com/&lt;/a&gt; ，数据源来自笔趣阁。目前 token 还够免费。&lt;/p&gt;
 &lt;p&gt;大家伙可以先白嫖，后面 token 不够了，再考虑加一个广告 or 限制免费使用阅读章数。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。</title>
-      <link>https://www.v2ex.com/t/1218201</link>
-      <guid>v2ex-1218201</guid>
-      <pubDate>Fri, 05 Jun 2026 07:20:22 GMT</pubDate>
-      <description>&lt;p&gt;经常会被 AI 气到忍不住吐槽，但是身边有观点说是我用的方法不对，说我没给 AI 提供足够的文档。&lt;/p&gt;
-&lt;p&gt;目前我使用 AI 的方式还是局限于写点业务无关的辅助类，还有就是代码 review 功能（感觉最有用的功能就这个了），使用的是 codex gpt5.5 high 。&lt;/p&gt;
-&lt;p&gt;最近尝试使用 mattpocock/skills 的 grill-with-docs ，就是一直针对你的需求提问问题，和 AI 对齐颗粒度，然后 AI 会针对该需求生成 prd 文档，issues 等。但是几天下来我发现这些文档好像没什么用，AI 还是会忘记需求，忘记文档，偶尔左右脑互搏。最典的是它需求实现错了，我指出错误的地方让它调整，它反手就说刚刚的代码是我写的，它是基于我的代码修改的，我直接红温了...&lt;/p&gt;
-&lt;p&gt;我看一些文章说，公司的业务代码完全用 AI 写的，我真有点不愿相信，感觉是利益方的小作文。当然那些非公司业务的个人工具，我还是相信能不手写代码的，毕竟业务能灵活调整。&lt;/p&gt;
 </description>
     </item>
     <item>
