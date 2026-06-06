@@ -4,7 +4,73 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sat, 06 Jun 2026 04:32:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 07:39:38 GMT</lastBuildDate>
+    <item>
+      <title>国产算力里程碑：千卡昇腾910C跑通DeepSeek 1.6万亿模型全参数后训练</title>
+      <link>https://linux.do/t/topic/2314917</link>
+      <guid>linux.do-topic-2314917</guid>
+      <pubDate>Sat, 06 Jun 2026 06:07:44 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;strong&gt;由深圳河套学院、哈工大（深圳）、深圳市大数据研究院与华为相关团队组成，并协同深智城 AI 算力平台的联合攻关团队，宣布在国产 AI 算力平台上成功跑通 1.6 万亿参数大模型 DeepSeek-V4-Pro 的全参数后训练（Post-training）。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这是全球第三方机构首次在国产算力平台上完成 1.6 万亿参数规模模型的全参数后训练。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相较于从零开始的预训练（Pre-training），后训练阶段（主要包括监督微调 SFT 与强化学习 RL）侧重于通过高质量指令和人类偏好对齐，教导模型遵循指令并执行特定任务。然而，对于 1.6 万亿参数的 MoE 架构模型而言，全参数后训练依然对底层硬件的显存容量、多卡间通信带宽（如 MoE 路由所触发的全对全通信）以及大规模集群的稳定性有着非常苛刻的要求。联合攻关团队依托超千张芯片规模的华为昇腾 910C 算力集群，通过优化分布式承载与负载均衡策略，成功克服了通信瓶颈。在长达 1500 多步的训练过程中，系统未出现一次中断，模型算力利用率（MFU）超过 30%，关键算子效率提升了 14%，各项指标均达到工业级运行标准。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;业内分析指出，华为昇腾 910C 集群在万亿级模型训练上的成功跑通，印证了国产 AI 芯片在承载超大规模模型深度训练任务时的技术可行性。由于此前大模型研发的核心预训练多依赖英伟达 GPU 集群，国产算力此前主要承担推理（Inference）或小参数微调任务。本次联合攻关的成功，标志着国产算力生态正加速从「仅支持推理」向「承载超大参数模型全参数训练」的技术闭环过渡。&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/d/2/8d2ae1bea573eb7a3bcb7b654be5785f68720087.jpeg&quot; data-download-href=&quot;/uploads/short-url/k8Pce20jvqsd76XW5enri3FO6nZ.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/d/2/8d2ae1bea573eb7a3bcb7b654be5785f68720087_2_690x388.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;k8Pce20jvqsd76XW5enri3FO6nZ&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/d/2/8d2ae1bea573eb7a3bcb7b654be5785f68720087_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/d/2/8d2ae1bea573eb7a3bcb7b654be5785f68720087_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/8/d/2/8d2ae1bea573eb7a3bcb7b654be5785f68720087.jpeg 2x&quot; data-dominant-color=&quot;ECF0F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/a/b/8abd924d385f42110d69022091b2833afafd04e5.jpeg&quot; data-download-href=&quot;/uploads/short-url/jNm2QHpQJQhdpjFrbRa2sXM3T25.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/8/a/b/8abd924d385f42110d69022091b2833afafd04e5.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;jNm2QHpQJQhdpjFrbRa2sXM3T25&quot; width=&quot;637&quot; height=&quot;359&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/ZsXhzuJwIcqYFEujlKyQ0g&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://mp.weixin.qq.com/s/ZsXhzuJwIcqYFEujlKyQ0g&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314917&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>SpaceX与谷歌达成协议：11万块GPU，每月9.2亿美元</title>
+      <link>https://linux.do/t/topic/2314864</link>
+      <guid>linux.do-topic-2314864</guid>
+      <pubDate>Sat, 06 Jun 2026 05:51:51 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/6/6/566552455df9cba4c2695356b75d1f7bac5e2439.jpeg&quot; data-download-href=&quot;/uploads/short-url/cki8PKu3AD26fGP6k2rZHRy2vFv.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/6/6/566552455df9cba4c2695356b75d1f7bac5e2439_2_517x338.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cki8PKu3AD26fGP6k2rZHRy2vFv&quot; width=&quot;517&quot; height=&quot;338&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/6/6/566552455df9cba4c2695356b75d1f7bac5e2439_2_517x338.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/6/6/566552455df9cba4c2695356b75d1f7bac5e2439_2_775x507.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/6/6/566552455df9cba4c2695356b75d1f7bac5e2439_2_1034x676.jpeg 2x&quot; data-dominant-color=&quot;E4E4E4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;马斯克竟然有这么多算力资源，每个月9.2亿美元，这简直是印钞机&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;16 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314864&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Claude Cowork额度翻倍，但是只有五小时窗口！别用！</title>
+      <link>https://linux.do/t/topic/2314643</link>
+      <guid>linux.do-topic-2314643</guid>
+      <pubDate>Sat, 06 Jun 2026 04:59:14 GMT</pubDate>
+      <description>
+            &lt;p&gt;早上六点多，Anthropic 宣布 Cowork 额度翻倍，但是。实际仅仅翻倍Cowork的5小时限额，但是总额度和Claude Code、Claude网页版本共享，大坑&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314643&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Grok Build 0.1 now available via xAI API</title>
+      <link>https://linux.do/t/topic/2314594</link>
+      <guid>linux.do-topic-2314594</guid>
+      <pubDate>Sat, 06 Jun 2026 04:45:16 GMT</pubDate>
+      <description>
+            &lt;p&gt;Dear API customers,&lt;/p&gt;
+&lt;p&gt;Our new coding model, &lt;code&gt;grok-build-0.1&lt;/code&gt;, is now available via the xAI API. Customers, including &lt;a href=&quot;https://x.com/NotionHQ/status/2061872195379544272&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Notion&lt;/a&gt; and &lt;a href=&quot;https://x.com/kilocode/status/2057557531665567922&quot; rel=&quot;noopener nofollow ugc&quot;&gt;KiloCode&lt;/a&gt;, have loved its high speed, app building capabilities, and cost effectiveness.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://console.x.ai/team/default/chat-playground?model=grok-build-0.1&amp;campaign=grok-build-0-1-blog&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Try it now &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/up_right_arrow.png?v=15&quot; title=&quot;:up_right_arrow:&quot; class=&quot;emoji&quot; alt=&quot;:up_right_arrow:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;grok-build-0.1&lt;/code&gt; was specifically trained for agentic coding tasks, including web development, debugging, and MCP support. It’s the same model that powers the &lt;a href=&quot;https://docs.x.ai/build/overview#getting-started&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Grok Build CLI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The model is served at a blazing-fast 100+ tokens/second and is priced at $1/m tokens in and $2/m tokens out. Outside of coding, it’s also a speedy, economical option for general-purpose agentic and tool calling use cases.&lt;/p&gt;
+&lt;p&gt;To get started, create an API key &lt;a href=&quot;https://console.x.ai/team/default/api-keys&quot; rel=&quot;noopener nofollow ugc&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;grok-build-0.1&lt;/code&gt; is also available via &lt;a href=&quot;https://openrouter.ai/x-ai/grok-build-0.1&quot; rel=&quot;noopener nofollow ugc&quot;&gt;OpenRouter&lt;/a&gt; and &lt;a href=&quot;https://vercel.com/changelog/grok-build-0-1-now-available-on-vercel-ai-gateway&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Vercel AI Gateway&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;md-table&quot;&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Sincerely,&lt;br&gt;&lt;strong&gt;The xAI Team&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314594&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>2026 夏日游戏节信息汇总</title>
       <link>https://linux.do/t/topic/2314436</link>
@@ -103,7 +169,7 @@ Riverflow 2.5 系列（Flash/Pro）是Sourceful开发的统一的文本到图像
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/7/6/276167e6f8bf1ac2b295938778fc6633be93df21.jpeg&quot; data-download-href=&quot;/uploads/short-url/5Cnjn5m7d8YjRR8vzXnu8r3I3rr.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/6/276167e6f8bf1ac2b295938778fc6633be93df21_2_690x460.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5Cnjn5m7d8YjRR8vzXnu8r3I3rr&quot; width=&quot;690&quot; height=&quot;460&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/6/276167e6f8bf1ac2b295938778fc6633be93df21_2_690x460.jpeg, https://cdn3.ldstatic.com/original/4X/2/7/6/276167e6f8bf1ac2b295938778fc6633be93df21.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/2/7/6/276167e6f8bf1ac2b295938778fc6633be93df21.jpeg 2x&quot; data-dominant-color=&quot;C0BEB9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;生图能力平起平坐，但是缺点也很明显，其外部的LLM非常弱智，对于多文字，复杂prompt处理上不足。还有就是&lt;strong&gt;极其安全&lt;/strong&gt;，很多不被image 2输入审的东西都能触发&lt;br&gt;
 最后就是价格不太美丽，2.0的价格是0.15刀/图，折算比大香蕉都贵。不过趁现在or免费可以多用用（）&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314247&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -141,7 +207,7 @@ Riverflow 2.5 系列（Flash/Pro）是Sourceful开发的统一的文本到图像
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314243&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -162,7 +228,7 @@ Riverflow 2.5 系列（Flash/Pro）是Sourceful开发的统一的文本到图像
 &lt;/ol&gt;
 &lt;p&gt;美股没上车的机会，最近被保护到了，&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/7/1/071969d97c90e1f0921c66037a9b75d9ea986341.jpeg&quot; data-download-href=&quot;/uploads/short-url/10NN0lhcC9mvrVwsgFvLaeB4Tkt.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/7/1/071969d97c90e1f0921c66037a9b75d9ea986341_2_690x320.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;10NN0lhcC9mvrVwsgFvLaeB4Tkt&quot; width=&quot;690&quot; height=&quot;320&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/7/1/071969d97c90e1f0921c66037a9b75d9ea986341_2_690x320.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/7/1/071969d97c90e1f0921c66037a9b75d9ea986341_2_1035x480.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/7/1/071969d97c90e1f0921c66037a9b75d9ea986341_2_1380x640.jpeg 2x&quot; data-dominant-color=&quot;60292C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314144&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -222,7 +288,7 @@ Riverflow 2.5 系列（Flash/Pro）是Sourceful开发的统一的文本到图像
       <pubDate>Sat, 06 Jun 2026 01:51:13 GMT</pubDate>
       <description>
             &lt;p&gt;英伟达跌-6%，美光 -13%，英特尔 -11%，被黄仁勋金手指钦点的迈威尔暴跌 -16%，是不是因为SpaceX 快上市了&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;41 个帖子 - 37 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;43 个帖子 - 38 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2313798&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -235,7 +301,7 @@ Riverflow 2.5 系列（Flash/Pro）是Sourceful开发的统一的文本到图像
             &lt;p&gt;凌晨收到邮件，封一天送一个月，可以多来几次吗？ &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/rofl.png?v=15&quot; title=&quot;:rofl:&quot; class=&quot;emoji&quot; alt=&quot;:rofl:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/a/1/fa1a7fab2f938d408191ed0188ccbf2fbc447a93.jpeg&quot; data-download-href=&quot;/uploads/short-url/zGw8Jlbe3GHlP7ngVG8lJEs32Wn.jpeg?dl=1&quot; title=&quot;IMG_20260606_093109&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa1a7fab2f938d408191ed0188ccbf2fbc447a93_2_224x500.jpeg&quot; alt=&quot;IMG_20260606_093109&quot; data-base62-sha1=&quot;zGw8Jlbe3GHlP7ngVG8lJEs32Wn&quot; width=&quot;224&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa1a7fab2f938d408191ed0188ccbf2fbc447a93_2_224x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa1a7fab2f938d408191ed0188ccbf2fbc447a93_2_336x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa1a7fab2f938d408191ed0188ccbf2fbc447a93_2_448x1000.jpeg 2x&quot; data-dominant-color=&quot;E8E4E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2312097&quot;&gt;今天正价chatgpt被封确实是bug，已解开！（三编：ios订阅的没掉，卡付的掉free了）&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;56 个帖子 - 35 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;61 个帖子 - 36 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2313743&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -675,45 +741,6 @@ Riverflow 2.5 系列（Flash/Pro）是Sourceful开发的统一的文本到图像
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/1/1/611a787534212a1acd14b85c4176ee9f6559dbb6.jpeg&quot; data-download-href=&quot;/uploads/short-url/dR11HI8vHq96W5zLQX9j3MjNZ3w.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-05-23-11-52-773_org.mozilla.firefox-edit&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/1/1/611a787534212a1acd14b85c4176ee9f6559dbb6_2_237x500.jpeg&quot; alt=&quot;Screenshot_2026-06-05-23-11-52-773_org.mozilla.firefox-edit&quot; data-base62-sha1=&quot;dR11HI8vHq96W5zLQX9j3MjNZ3w&quot; width=&quot;237&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/1/1/611a787534212a1acd14b85c4176ee9f6559dbb6_2_237x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/1/1/611a787534212a1acd14b85c4176ee9f6559dbb6_2_355x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/1/1/611a787534212a1acd14b85c4176ee9f6559dbb6_2_474x1000.jpeg 2x&quot; data-dominant-color=&quot;EFEEEA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2312717&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>OpenAI官方开始大赦天下了，我本人已经解封了</title>
-      <link>https://linux.do/t/topic/2312317</link>
-      <guid>linux.do-topic-2312317</guid>
-      <pubDate>Fri, 05 Jun 2026 14:07:24 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/e/c/bec6342bcc5e79db5d4e5ad8b373af4542bdb03f.jpeg&quot; data-download-href=&quot;/uploads/short-url/rdFmSDUefErlvypw336tiddvBLh.jpeg?dl=1&quot; title=&quot;paste_1780667980223.png&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/e/c/bec6342bcc5e79db5d4e5ad8b373af4542bdb03f_2_314x499.jpeg&quot; alt=&quot;paste_1780667980223.png&quot; data-base62-sha1=&quot;rdFmSDUefErlvypw336tiddvBLh&quot; width=&quot;314&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/e/c/bec6342bcc5e79db5d4e5ad8b373af4542bdb03f_2_314x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/e/c/bec6342bcc5e79db5d4e5ad8b373af4542bdb03f_2_471x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/e/c/bec6342bcc5e79db5d4e5ad8b373af4542bdb03f_2_628x998.jpeg 2x&quot; data-dominant-color=&quot;2A2524&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/5/5/f55c035bcf18fe3ba6e614ea03a76feabda6b0f5.png&quot; data-download-href=&quot;/uploads/short-url/z0y7hvVw3ZRNS9dO3tPmh1KRGwR.png?dl=1&quot; title=&quot;paste_1780668103821.png&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/5/5/f55c035bcf18fe3ba6e614ea03a76feabda6b0f5_2_349x500.png&quot; alt=&quot;paste_1780668103821.png&quot; data-base62-sha1=&quot;z0y7hvVw3ZRNS9dO3tPmh1KRGwR&quot; width=&quot;349&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/5/5/f55c035bcf18fe3ba6e614ea03a76feabda6b0f5_2_349x500.png, https://cdn3.ldstatic.com/optimized/4X/f/5/5/f55c035bcf18fe3ba6e614ea03a76feabda6b0f5_2_523x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/5/5/f55c035bcf18fe3ba6e614ea03a76feabda6b0f5_2_698x1000.png 2x&quot; data-dominant-color=&quot;131313&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/2/7/52772b533cdb3858dc326b5a1797f74ff9947ff4.png&quot; data-download-href=&quot;/uploads/short-url/bLwteq7bFEOwFpImpb1p0t2BaAY.png?dl=1&quot; title=&quot;paste_1780668113888.png&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/2/7/52772b533cdb3858dc326b5a1797f74ff9947ff4_2_690x263.png&quot; alt=&quot;paste_1780668113888.png&quot; data-base62-sha1=&quot;bLwteq7bFEOwFpImpb1p0t2BaAY&quot; width=&quot;690&quot; height=&quot;263&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/2/7/52772b533cdb3858dc326b5a1797f74ff9947ff4_2_690x263.png, https://cdn3.ldstatic.com/optimized/4X/5/2/7/52772b533cdb3858dc326b5a1797f74ff9947ff4_2_1035x394.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/2/7/52772b533cdb3858dc326b5a1797f74ff9947ff4_2_1380x526.png 2x&quot; data-dominant-color=&quot;161617&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-已经陆续开始恢复，大家耐心等待邮件通知吧，不过这个博主说有的人可能会被恢复了免费计划，付费号变成free号了&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;34 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2312317&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>今天正价chatgpt被封确实是bug，已解开！（三编：ios订阅的没掉，卡付的掉free了）</title>
-      <link>https://linux.do/t/topic/2312097</link>
-      <guid>linux.do-topic-2312097</guid>
-      <pubDate>Fri, 05 Jun 2026 13:40:44 GMT</pubDate>
-      <description>
-            &lt;p&gt;pro5x 上午封的，当时申诉没通过，刚刚又发邮件解开了！&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/2/e/92e89540576cf2fbe5446a22586d15657221686a.jpeg&quot; data-download-href=&quot;/uploads/short-url/kXC15f1sJcBLnZU4LGI8tSd5unU.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/2/e/92e89540576cf2fbe5446a22586d15657221686a_2_426x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;kXC15f1sJcBLnZU4LGI8tSd5unU&quot; width=&quot;426&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/2/e/92e89540576cf2fbe5446a22586d15657221686a_2_426x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/2/e/92e89540576cf2fbe5446a22586d15657221686a_2_639x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/2/e/92e89540576cf2fbe5446a22586d15657221686a_2_852x1000.jpeg 2x&quot; data-dominant-color=&quot;F7F7F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;40 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2312097&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>中国投资者被禁止参与 SpaceX IPO 认购</title>
-      <link>https://linux.do/t/topic/2311869</link>
-      <guid>linux.do-topic-2311869</guid>
-      <pubDate>Fri, 05 Jun 2026 12:57:52 GMT</pubDate>
-      <description>
-            &lt;p&gt;再说一个不算冷的小知识&lt;/p&gt;
-&lt;p&gt;SpaceX 只招美国公民或绿卡持有者&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/c/c/acc07f950a9734ab49e782cf48551e7f7d080ee5.jpeg&quot; data-download-href=&quot;/uploads/short-url/oEey99xRv2tnPTHzwdheCPUTjff.jpeg?dl=1&quot; title=&quot;1000055805.png&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/c/c/acc07f950a9734ab49e782cf48551e7f7d080ee5_2_341x500.jpeg&quot; alt=&quot;1000055805.png&quot; data-base62-sha1=&quot;oEey99xRv2tnPTHzwdheCPUTjff&quot; width=&quot;341&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/c/c/acc07f950a9734ab49e782cf48551e7f7d080ee5_2_341x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/c/c/acc07f950a9734ab49e782cf48551e7f7d080ee5_2_511x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/c/c/acc07f950a9734ab49e782cf48551e7f7d080ee5_2_682x1000.jpeg 2x&quot; data-dominant-color=&quot;686869&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2311869&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>

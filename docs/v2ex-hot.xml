@@ -4,40 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 06 Jun 2026 04:32:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 07:39:38 GMT</lastBuildDate>
     <item>
-      <title>美国家宽， 苹果内购，正规使用， 从无反代， ChatGPT 账号被封， 谁能告诉我原因。</title>
-      <link>https://www.v2ex.com/t/1218155</link>
-      <guid>v2ex-1218155</guid>
-      <pubDate>Fri, 05 Jun 2026 04:42:00 GMT</pubDate>
-      <description>ChatGPT 被封了，很无语， 到底要怎么用。&lt;br /&gt;自己使用多年的邮箱，自己注册的 ChatGPT 账号， 使用了几个月网页免费版都没有问题，&lt;br /&gt;多年的 apple 账号， 正价美区内购，支付宝 PockytShop 美区礼品卡，&lt;br /&gt;全程使用的美国家庭宽带 ip (购买 plus 后才开始， 购买前没有使用家宽)&lt;br /&gt;没有使用任何第三方客户端或 api 反代调用行为，&lt;br /&gt;之前 codex 弹过验证， 使用我自己的英国手机卡进行的验证。&lt;br /&gt;这是 plus 第 20 天，使用量从来没有超过周限量一半。&lt;br /&gt;都说 gpt 不容易封号，为了安全，我自认为避过了风险， 为何还是被封了。&lt;br /&gt;&lt;br /&gt;难道是识别到可能是中国用户被封？ gpt 究竟要怎么使用？&lt;br /&gt;我看到别人各种 地区 ip 乱飞正常用， 我从没换过 ip ， 难道是 PockytShop 礼品卡有问题。&lt;br /&gt;还有一点是我有两台电脑，win 和 mac 都登录了 codex ， 在同一内网， 使用同一外网 IP 。</description>
-    </item>
-    <item>
-      <title>大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。</title>
-      <link>https://www.v2ex.com/t/1218201</link>
-      <guid>v2ex-1218201</guid>
-      <pubDate>Fri, 05 Jun 2026 07:20:22 GMT</pubDate>
-      <description>&lt;p&gt;经常会被 AI 气到忍不住吐槽，但是身边有观点说是我用的方法不对，说我没给 AI 提供足够的文档。&lt;/p&gt;
-&lt;p&gt;目前我使用 AI 的方式还是局限于写点业务无关的辅助类，还有就是代码 review 功能（感觉最有用的功能就这个了），使用的是 codex gpt5.5 high 。&lt;/p&gt;
-&lt;p&gt;最近尝试使用 mattpocock/skills 的 grill-with-docs ，就是一直针对你的需求提问问题，和 AI 对齐颗粒度，然后 AI 会针对该需求生成 prd 文档，issues 等。但是几天下来我发现这些文档好像没什么用，AI 还是会忘记需求，忘记文档，偶尔左右脑互搏。最典的是它需求实现错了，我指出错误的地方让它调整，它反手就说刚刚的代码是我写的，它是基于我的代码修改的，我直接红温了...&lt;/p&gt;
-&lt;p&gt;我看一些文章说，公司的业务代码完全用 AI 写的，我真有点不愿相信，感觉是利益方的小作文。当然那些非公司业务的个人工具，我还是相信能不手写代码的，毕竟业务能灵活调整。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>被裁了</title>
-      <link>https://www.v2ex.com/t/1218162</link>
-      <guid>v2ex-1218162</guid>
-      <pubDate>Fri, 05 Jun 2026 05:14:10 GMT</pubDate>
-      <description>Leader 5 分钟语音，HR 20 分钟…&lt;br /&gt;&lt;br /&gt;程序员，没犯过什么大错。&lt;br /&gt;上午还在写代码，Leader 拉了 5 分钟语音：“公司业务调整，你的岗位没了，HR 找你聊。”&lt;br /&gt;HR 聊了 20 分钟，签字，交工牌。&lt;br /&gt;不是能力的原因&lt;br /&gt;工作七八年，按部就班。读书、结婚、生子&lt;br /&gt;现在发现，努力不是重点&lt;br /&gt;走出公司，不知道去哪。也没给家里人说</description>
-    </item>
-    <item>
-      <title>找一个程序员搭子，互相鼓励</title>
-      <link>https://www.v2ex.com/t/1218189</link>
-      <guid>v2ex-1218189</guid>
-      <pubDate>Fri, 05 Jun 2026 06:49:03 GMT</pubDate>
-      <description>&lt;p&gt;坐标独立开发，离职一个月，一个人租了办公室干活。最近发现一个问题：没人监督之后，执行力直线下降，总是用舒服的工程任务逃避真正重要的事。&lt;/p&gt;
-&lt;p&gt;想找一个也在独立做项目的人，做最简单的互相监督：每天早上发三件今天要做的事，晚上发完成情况。不需要深度交流，也不需要点评对方的项目，就是&quot;有个人知道我今天该干什么&quot;这件事本身就够了。&lt;/p&gt;
-&lt;p&gt;我的方向：游戏工具站 + SEO ，技术栈 Next.js / Claude Code / AI 自动化建站。如果你也是一个人在扛，来聊。&lt;/p&gt;
+      <title>现在在国内还有办法注册 Google 账号吗？</title>
+      <link>https://www.v2ex.com/t/1218362</link>
+      <guid>v2ex-1218362</guid>
+      <pubDate>Sat, 06 Jun 2026 02:22:54 GMT</pubDate>
+      <description>&lt;p&gt;现在 Google 注册风控越来越严了，要求手机号验证（不是接验证码），但是在国内根本验证不了，大家有没比较好的法子绕过这个手机号验证，或者可以跳过这个验证？网上看了说和 IP 干净度有关，我也试过了，静态住宅 IP 也要求手机号验证&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -57,14 +30,6 @@
 </description>
     </item>
     <item>
-      <title>现在在国内还有办法注册 Google 账号吗？</title>
-      <link>https://www.v2ex.com/t/1218362</link>
-      <guid>v2ex-1218362</guid>
-      <pubDate>Sat, 06 Jun 2026 02:22:54 GMT</pubDate>
-      <description>&lt;p&gt;现在 Google 注册风控越来越严了，要求手机号验证（不是接验证码），但是在国内根本验证不了，大家有没比较好的法子绕过这个手机号验证，或者可以跳过这个验证？网上看了说和 IP 干净度有关，我也试过了，静态住宅 IP 也要求手机号验证&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>windows 终将成为最好的 Linux</title>
       <link>https://www.v2ex.com/t/1218268</link>
       <guid>v2ex-1218268</guid>
@@ -77,20 +42,70 @@
 </description>
     </item>
     <item>
-      <title>三十多了，自己以后养老怎么办</title>
-      <link>https://www.v2ex.com/t/1218169</link>
-      <guid>v2ex-1218169</guid>
-      <pubDate>Fri, 05 Jun 2026 05:47:04 GMT</pubDate>
-      <description>&lt;p&gt;这两天想着媳妇、孩子、房子，车子，顺着往下想，想到等自己六十岁了，如何养老？
-是不是从现在开始，就要每年攒点钱，作为养老钱？供六十到七十岁花费&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Google 秒收录，秀一秀欢迎提交您的 vibe coding 作品</title>
       <link>https://www.v2ex.com/t/1218305</link>
       <guid>v2ex-1218305</guid>
       <pubDate>Fri, 05 Jun 2026 13:51:09 GMT</pubDate>
       <description>秀一秀 &lt;a target=&quot;_blank&quot; href=&quot;https://show1show.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://show1show.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;在全民 Vibe Coding 的时代，敲出几行代码生成一个“能跑”的软件原型确实变得轻而易举。但这种低门槛带来的副作用也日益凸显：产品同质化严重，且冷启动获客极其困难。很多优秀的创意在生成后，往往因为缺乏曝光而迅速沉寂，导致开发者无法获取真实用户反馈，产品迭代陷入死循环。&lt;br /&gt;&lt;br /&gt;为了解决这一痛点，我通过 Vibe Coding 开发了 “秀一秀” —— 一个专注于 Vibe Coding 作品的展示与发现平台。&lt;br /&gt;&lt;br /&gt;秀一秀 旨在降低开发者分享作品的摩擦力，无需注册和登录即可直接提交你的网站、App 、游戏或 AI 工具。平台不仅展示最终成品，还鼓励记录开发过程，帮助开发者获取早期用户关注与反馈。&lt;br /&gt;&lt;br /&gt;如果您不想亲自提交，也可以在这里留下作品信息，由我来代劳。</description>
+    </item>
+    <item>
+      <title>人过 30 岁真的不是为自己而活了</title>
+      <link>https://www.v2ex.com/t/1218371</link>
+      <guid>v2ex-1218371</guid>
+      <pubDate>Sat, 06 Jun 2026 02:53:03 GMT</pubDate>
+      <description>&lt;p&gt;生活实在是太现实了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>求推荐工位风扇</title>
+      <link>https://www.v2ex.com/t/1218366</link>
+      <guid>v2ex-1218366</guid>
+      <pubDate>Sat, 06 Jun 2026 02:29:40 GMT</pubDate>
+      <description>&lt;p&gt;最好噪音小点，可以 USB 持续供电的&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>总结一下这次 OpenAI 封号的问题，同时谈谈大家忽略的一个问题（可能这才是封号的元凶）</title>
+      <link>https://www.v2ex.com/t/1218326</link>
+      <guid>v2ex-1218326</guid>
+      <pubDate>Fri, 05 Jun 2026 16:23:21 GMT</pubDate>
+      <description>&lt;p&gt;总结一下这次封号大家探讨的问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;礼品卡（可能性不大）：要封也是 Apple 先封；&lt;/li&gt;
+&lt;li&gt;IP （可能性中）：万人骑的 IP 也有不封号的；&lt;/li&gt;
+&lt;li&gt;机房/家寬（可能性小）：因为有很多大公司公司内部网络的外网访问都是要过自己的 VPS 的，我之前在一家跨国药企做销售，填报表的时候都必须连公司在美国总部的 VPN 才能接上系统（ 2002 年）；&lt;/li&gt;
+&lt;li&gt;土区（可能性小）：你有没有在 Apple 的网页上把账号地址调到土区？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr/&gt;
+&lt;p&gt;在我看来真正的原因是：&lt;strong&gt;DNS 泄漏&lt;/strong&gt;，你不要以为自己能翻墙了就没问题。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你们用的什么代理软件来翻墙的，有没有配置好防 DNS 泄漏？我用的软路 Clash.yaml 配置文件修改了很多次，也才能防到 95% 左右。&lt;/li&gt;
+&lt;li&gt;DoNotTrack 也没有开&lt;/li&gt;
+&lt;li&gt;系统时间&lt;/li&gt;
+&lt;li&gt;系统语言&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;p&gt;怎么办？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;自己先检查一下翻墙环境，下面几个网址测测，看能看到多少🇨🇳&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot;https://ipleak.net/&quot; rel=&quot;nofollow&quot;&gt;https://ipleak.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://whoer.net/zh#&quot; rel=&quot;nofollow&quot;&gt;https://whoer.net/zh#&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://browserleaks.com/dns&quot; rel=&quot;nofollow&quot;&gt;https://browserleaks.com/dns&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;如果五星红旗太多，自己想办法调整环境吧，&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;能翻墙并不代表你的 DNS 没有泄漏你的真实位置&lt;/strong&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;欢迎大家一起讨论解决办法，不要再这样提心吊胆了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>拒了 1 万/月的工作，在家吸 Claude/Codex，是不是废了</title>
+      <link>https://www.v2ex.com/t/1218230</link>
+      <guid>v2ex-1218230</guid>
+      <pubDate>Fri, 05 Jun 2026 08:28:51 GMT</pubDate>
+      <description>今天拒了一份工厂管理岗。&lt;br /&gt;底薪 8k ，加绩效，五险，包吃住。算下来一个月差不多 1 万。对普通人来说挺稳的。但我没去。Claude 、Codex 、各种工具，每天折腾代码、折腾小项目、改接口、做小玩意儿。坐一天起来也没赚到钱，但精神上像创业一样充实。问题是我也不知道自己到底是在抓机会，还是单纯逃避上班。看起来像在学习 AI ，其实本质和以前沉迷游戏、刷短视频差不多。只是表面上更正经一点。现在准备给自己几个月时间，看能不能做出点东西。如果没结果，大概就得老老实实去上班了。想问问各位，如果是你，会去工厂管理岗，还是赌 AI ？</description>
     </item>
   </channel>
 </rss>
