@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 06 Jun 2026 11:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 12:48:29 GMT</lastBuildDate>
     <item>
       <title>现在在国内还有办法注册 Google 账号吗？</title>
       <link>https://www.v2ex.com/t/1218362</link>
@@ -29,19 +29,19 @@
 </description>
     </item>
     <item>
+      <title>美股要回调了，还能相信光吗</title>
+      <link>https://www.v2ex.com/t/1218364</link>
+      <guid>v2ex-1218364</guid>
+      <pubDate>Sat, 06 Jun 2026 02:27:01 GMT</pubDate>
+      <description>美股要回调了，还能相信光吗</description>
+    </item>
+    <item>
       <title>求推荐工位风扇</title>
       <link>https://www.v2ex.com/t/1218366</link>
       <guid>v2ex-1218366</guid>
       <pubDate>Sat, 06 Jun 2026 02:29:40 GMT</pubDate>
       <description>&lt;p&gt;最好噪音小点，可以 USB 持续供电的&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>美股要回调了，还能相信光吗</title>
-      <link>https://www.v2ex.com/t/1218364</link>
-      <guid>v2ex-1218364</guid>
-      <pubDate>Sat, 06 Jun 2026 02:27:01 GMT</pubDate>
-      <description>美股要回调了，还能相信光吗</description>
     </item>
     <item>
       <title>想买一个移动机械硬盘做时间机器备份，有什么推荐的吗</title>
@@ -51,15 +51,6 @@
       <description>出现过几次删错文件找不回的问题，再加上 MacBookPro 的存储只有 120G 了，想买一个移动机械硬盘做备份，大佬们有什么推荐的机械硬盘吗，容量 2t 的</description>
     </item>
     <item>
-      <title>双非本科，工作 15 年，今年 36 了，要不要考在职 985 研究生</title>
-      <link>https://www.v2ex.com/t/1218290</link>
-      <guid>v2ex-1218290</guid>
-      <pubDate>Fri, 05 Jun 2026 12:17:01 GMT</pubDate>
-      <description>&lt;p&gt;双非本科毕业，在苏州台企加上实习锻炼了 4 年，被原老大拉去创业坑了 2 年。遂下定决心不投国内企业，先进了美企 2 年，口语练好又进了当地德企 4 年，后换到上海美企干到现在 4 年，落户买房，娃也转过来读书。现在收入不错，年底房和车贷还完，还有积蓄，比较平稳。一直都是做工业软件研发这块，感觉到瓶颈了，再换不一定有现在高，现有公司内升迁也困难。之前也拿了 PMP ，管理项目经验也不缺，就是感觉再向上冲刺学历是硬伤，毕竟看到最近招的应届都是 QS 前 10 ，藤校，还有 MIT 的，无形的压力。最近了解到有在职 MEM ，周末上课，感觉比较适合，外企都双休，加班少，刚好时间匹配。
-目标看的是主攻同济复旦，备选东华，华东理工。有没有考过在职 MEM 的前辈们给给建议？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>vue3 史诗级更新</title>
       <link>https://www.v2ex.com/t/1218375</link>
       <guid>v2ex-1218375</guid>
@@ -67,39 +58,37 @@
       <description>子组件可以用&lt;br /&gt;const { foo = &#39;hello&#39; } = defineProps&amp;lt;{ foo?: string }&amp;gt;()</description>
     </item>
     <item>
-      <title>总结一下这次 OpenAI 封号的问题，同时谈谈大家忽略的一个问题（可能这才是封号的元凶）</title>
-      <link>https://www.v2ex.com/t/1218326</link>
-      <guid>v2ex-1218326</guid>
-      <pubDate>Fri, 05 Jun 2026 16:23:21 GMT</pubDate>
-      <description>&lt;p&gt;总结一下这次封号大家探讨的问题：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;礼品卡（可能性不大）：要封也是 Apple 先封；&lt;/li&gt;
-&lt;li&gt;IP （可能性中）：万人骑的 IP 也有不封号的；&lt;/li&gt;
-&lt;li&gt;机房/家寬（可能性小）：因为有很多大公司公司内部网络的外网访问都是要过自己的 VPS 的，我之前在一家跨国药企做销售，填报表的时候都必须连公司在美国总部的 VPN 才能接上系统（ 2002 年）；&lt;/li&gt;
-&lt;li&gt;土区（可能性小）：你有没有在 Apple 的网页上把账号地址调到土区？&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;p&gt;在我看来真正的原因是：&lt;strong&gt;DNS 泄漏&lt;/strong&gt;，你不要以为自己能翻墙了就没问题。&lt;/p&gt;
+      <title>你是一名退伍人员，有手艺在身，长得也很帅，面对两个女人，如何选择？</title>
+      <link>https://www.v2ex.com/t/1218422</link>
+      <guid>v2ex-1218422</guid>
+      <pubDate>Sat, 06 Jun 2026 08:50:52 GMT</pubDate>
+      <description>&lt;p&gt;环境是农村。
+一个是村长的侄女，未婚，长得有点磕馋。没有女人味，不温柔。
+一个是寡妇，长得美丽且性格温柔，知书达理。只不过刚嫁了一天，就死了丈夫。有人说她克夫。&lt;/p&gt;
+&lt;p&gt;作为一名退伍人员，如何选择呢？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>天猫国际退货退款纠纷，商家称少收 35 件，顺丰又找回 10 件，我该起诉谁？</title>
+      <link>https://www.v2ex.com/t/1218403</link>
+      <guid>v2ex-1218403</guid>
+      <pubDate>Sat, 06 Jun 2026 06:28:54 GMT</pubDate>
+      <description>&lt;p&gt;遇到一个比较头疼的问题，想请教下大家。&lt;/p&gt;
+&lt;p&gt;我在天猫国际买了 75 个订单的科颜氏面霜，总金额 15 万多。当天签收核对商品因为版本问题申请 7 退货退款。（货没有离开过菜鸟驿站）&lt;/p&gt;
+&lt;p&gt;退货后商家只退了 65 单（每单 10 盒），总计 750 盒，剩余 10 单（ 21000 元）一直不退。&lt;/p&gt;
+&lt;p&gt;商家理由是：&lt;/p&gt;
+&lt;p&gt;应收到 750 件商品，但仓库只收到 715 件，差 35 件。&lt;/p&gt;
+&lt;p&gt;我这边有顺丰运单和称重记录，总重量基本能对上退货数量。&lt;/p&gt;
+&lt;p&gt;期间：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;你们用的什么代理软件来翻墙的，有没有配置好防 DNS 泄漏？我用的软路 Clash.yaml 配置文件修改了很多次，也才能防到 95% 左右。&lt;/li&gt;
-&lt;li&gt;DoNotTrack 也没有开&lt;/li&gt;
-&lt;li&gt;系统时间&lt;/li&gt;
-&lt;li&gt;系统语言&lt;/li&gt;
+&lt;li&gt;天猫介入失败&lt;/li&gt;
+&lt;li&gt;12315 调解失败&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr/&gt;
-&lt;p&gt;怎么办？&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;自己先检查一下翻墙环境，下面几个网址测测，看能看到多少🇨🇳&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;a href=&quot;https://ipleak.net/&quot; rel=&quot;nofollow&quot;&gt;https://ipleak.net/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://whoer.net/zh#&quot; rel=&quot;nofollow&quot;&gt;https://whoer.net/zh#&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://browserleaks.com/dns&quot; rel=&quot;nofollow&quot;&gt;https://browserleaks.com/dns&lt;/a&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;如果五星红旗太多，自己想办法调整环境吧，&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;能翻墙并不代表你的 DNS 没有泄漏你的真实位置&lt;/strong&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;欢迎大家一起讨论解决办法，不要再这样提心吊胆了&lt;/p&gt;
+&lt;p&gt;已经申请起诉了。&lt;/p&gt;
+&lt;p&gt;结果这两天继续投诉顺丰后，顺丰站点又找到了此前遗漏的 10 件商品，目前正在让顺丰出书面说明。&lt;/p&gt;
+&lt;p&gt;现在有点懵：&lt;/p&gt;
+&lt;p&gt;有没有遇到过类似情况的大佬给点建议？&lt;/p&gt;
+&lt;p&gt;感谢。&lt;/p&gt;
 </description>
     </item>
   </channel>
