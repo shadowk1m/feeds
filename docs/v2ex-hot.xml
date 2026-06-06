@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 06 Jun 2026 16:57:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 18:03:22 GMT</lastBuildDate>
     <item>
       <title>现在在国内还有办法注册 Google 账号吗？</title>
       <link>https://www.v2ex.com/t/1218362</link>
@@ -88,6 +88,13 @@
 </description>
     </item>
     <item>
+      <title>vue3 史诗级更新</title>
+      <link>https://www.v2ex.com/t/1218375</link>
+      <guid>v2ex-1218375</guid>
+      <pubDate>Sat, 06 Jun 2026 03:31:08 GMT</pubDate>
+      <description>子组件可以用&lt;br /&gt;const { foo = &#39;hello&#39; } = defineProps&amp;lt;{ foo?: string }&amp;gt;()</description>
+    </item>
+    <item>
       <title>天猫国际退货退款纠纷，商家称少收 35 件，顺丰又找回 10 件，我该起诉谁？</title>
       <link>https://www.v2ex.com/t/1218403</link>
       <guid>v2ex-1218403</guid>
@@ -109,13 +116,6 @@
 &lt;p&gt;有没有遇到过类似情况的大佬给点建议？&lt;/p&gt;
 &lt;p&gt;感谢。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>vue3 史诗级更新</title>
-      <link>https://www.v2ex.com/t/1218375</link>
-      <guid>v2ex-1218375</guid>
-      <pubDate>Sat, 06 Jun 2026 03:31:08 GMT</pubDate>
-      <description>子组件可以用&lt;br /&gt;const { foo = &#39;hello&#39; } = defineProps&amp;lt;{ foo?: string }&amp;gt;()</description>
     </item>
   </channel>
 </rss>
