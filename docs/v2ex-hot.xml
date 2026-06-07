@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 07 Jun 2026 16:48:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 17:57:36 GMT</lastBuildDate>
     <item>
       <title>iPhone 17 异常发热、电量尿崩，折腾两个月终于破案了……</title>
       <link>https://www.v2ex.com/t/1218521</link>
@@ -50,6 +50,13 @@
 </description>
     </item>
     <item>
+      <title>最近想买个键盘，能欣赏（参考）下佬儿们的键盘吗？</title>
+      <link>https://www.v2ex.com/t/1218556</link>
+      <guid>v2ex-1218556</guid>
+      <pubDate>Sun, 07 Jun 2026 09:26:06 GMT</pubDate>
+      <description>无意间刷到这个键盘，太美了.....&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/n8LwgAJ.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/n8LwgAJ.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>咨询，一个老 ios 程序员只拿到新东方北京 22k 的工资</title>
       <link>https://www.v2ex.com/t/1218524</link>
       <guid>v2ex-1218524</guid>
@@ -61,11 +68,24 @@
 </description>
     </item>
     <item>
-      <title>最近想买个键盘，能欣赏（参考）下佬儿们的键盘吗？</title>
-      <link>https://www.v2ex.com/t/1218556</link>
-      <guid>v2ex-1218556</guid>
-      <pubDate>Sun, 07 Jun 2026 09:26:06 GMT</pubDate>
-      <description>无意间刷到这个键盘，太美了.....&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/n8LwgAJ.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/n8LwgAJ.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+      <title>半年写了 100+ 个小工具</title>
+      <link>https://www.v2ex.com/t/1218534</link>
+      <guid>v2ex-1218534</guid>
+      <pubDate>Sun, 07 Jun 2026 05:15:55 GMT</pubDate>
+      <description>&lt;p&gt;距离上次在 V2EX 介绍 &lt;a href=&quot;https://www.v2ex.com/t/1179641&quot; rel=&quot;nofollow&quot;&gt;TINKER&lt;/a&gt; 差不多过去半年了。这段时间里，我一直在根据自己的使用体验持续打磨，统计了一下，算上部分第三方封装插件，目前已经积累了 100+ 个插件，基本能满足我 80% 的日常使用场景。像待办事项、进程清理、磁盘清理、空间分析这些功能，几乎每天都在用。平时通过快捷键唤起搜索框，输入关键词回车就能快速打开插件，也可以用命令行直接启动，非常顺手。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/screenshot.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;所有内置插件遵循统一的视觉风格，支持暗黑与浅色模式，也做了中英双语适配，完整的插件列表可以&lt;a href=&quot;https://tinker.liriliri.io/zh/guide/&quot; rel=&quot;nofollow&quot;&gt;点此查看&lt;/a&gt;。下边是部分插件截图。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;图片标注&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/image_annotator.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;音频编辑&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/audio_editor.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;音视频压缩&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/media_compressor.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;网页运行&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/web_runner.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;照片拼接&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/photo_collage.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;磁盘空间分析&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/disk_usage.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;终端&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/terminal.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;TINKER 是一个开源免费的工具箱应用，目前仍在持续开发中，支持 Windows 、macOS 、Linux 三端，未来会不断新增和完善插件。如果你也经常需要使用各种小工具，不妨下载试试。&lt;/p&gt;
+&lt;p&gt;仓库： &lt;a href=&quot;https://github.com/liriliri/tinker&quot; rel=&quot;nofollow&quot;&gt;https://github.com/liriliri/tinker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;官网： &lt;a href=&quot;https://tinker.liriliri.io&quot; rel=&quot;nofollow&quot;&gt;https://tinker.liriliri.io&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>“传国玉玺”之复盘</title>
@@ -147,26 +167,6 @@
 &lt;p&gt;八、石敬瑭那块明文记载就是伪造的，辽天祚帝遗失在大同张家口一带了；&lt;/p&gt;
 &lt;p&gt;九、赵构那块明文记载是伪造的，应该就是伯颜磨掉的那块；&lt;/p&gt;
 &lt;p&gt;十、林丹汗那块被鉴定为假，被校长带走了；&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>半年写了 100+ 个小工具</title>
-      <link>https://www.v2ex.com/t/1218534</link>
-      <guid>v2ex-1218534</guid>
-      <pubDate>Sun, 07 Jun 2026 05:15:55 GMT</pubDate>
-      <description>&lt;p&gt;距离上次在 V2EX 介绍 &lt;a href=&quot;https://www.v2ex.com/t/1179641&quot; rel=&quot;nofollow&quot;&gt;TINKER&lt;/a&gt; 差不多过去半年了。这段时间里，我一直在根据自己的使用体验持续打磨，统计了一下，算上部分第三方封装插件，目前已经积累了 100+ 个插件，基本能满足我 80% 的日常使用场景。像待办事项、进程清理、磁盘清理、空间分析这些功能，几乎每天都在用。平时通过快捷键唤起搜索框，输入关键词回车就能快速打开插件，也可以用命令行直接启动，非常顺手。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/screenshot.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;所有内置插件遵循统一的视觉风格，支持暗黑与浅色模式，也做了中英双语适配，完整的插件列表可以&lt;a href=&quot;https://tinker.liriliri.io/zh/guide/&quot; rel=&quot;nofollow&quot;&gt;点此查看&lt;/a&gt;。下边是部分插件截图。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;图片标注&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/image_annotator.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;音频编辑&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/audio_editor.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;音视频压缩&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/media_compressor.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;网页运行&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/web_runner.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;照片拼接&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/photo_collage.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;磁盘空间分析&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/disk_usage.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;终端&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://tinker.liriliri.io/terminal.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;TINKER 是一个开源免费的工具箱应用，目前仍在持续开发中，支持 Windows 、macOS 、Linux 三端，未来会不断新增和完善插件。如果你也经常需要使用各种小工具，不妨下载试试。&lt;/p&gt;
-&lt;p&gt;仓库： &lt;a href=&quot;https://github.com/liriliri/tinker&quot; rel=&quot;nofollow&quot;&gt;https://github.com/liriliri/tinker&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;官网： &lt;a href=&quot;https://tinker.liriliri.io&quot; rel=&quot;nofollow&quot;&gt;https://tinker.liriliri.io&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
