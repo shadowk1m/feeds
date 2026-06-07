@@ -4,7 +4,54 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sun, 07 Jun 2026 11:44:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 13:19:04 GMT</lastBuildDate>
+    <item>
+      <title>连续扩散语言模型（Continuous DLM）来了吗？站内没有讨论，想和大家讨论讨论。</title>
+      <link>https://linux.do/t/topic/2323628</link>
+      <guid>linux.do-topic-2323628</guid>
+      <pubDate>Sun, 07 Jun 2026 13:15:44 GMT</pubDate>
+      <description>
+            &lt;h1&gt;&lt;a name=&quot;p-18756474-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18756474-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;首先放一些链接，我就不假模假样地生成一些东西了，这里已经有不少介绍。&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.51cto.com/article/843592.html&quot; rel=&quot;noopener nofollow ugc&quot;&gt;字节会师何恺明！开源连续扩散语言模型Cola DLM-51CTO.COM&lt;/a&gt;&lt;br&gt;
+何恺明推出ELF、字节开源Cola DLM，两者都放弃「预测下一个token」，能否开辟大模型新路径？ - huMAnG0d的回答 - 知乎&lt;br&gt;
+&lt;a href=&quot;https://www.zhihu.com/question/2038213982293579409/answer/2039012493549426216&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.zhihu.com/question/2038213982293579409/answer/2039012493549426216&lt;/a&gt;&lt;br&gt;
+何恺明团队新作，「嵌入式语言流」ELF来了 - 机器之心的文章 - 知乎&lt;br&gt;
+&lt;a href=&quot;https://zhuanlan.zhihu.com/p/2037839190705034058&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://zhuanlan.zhihu.com/p/2037839190705034058&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我为什么对这个感兴趣呢？因为前几天计划做这个诗歌生成实验的时候，曾经有计划做过用diffusion生成。&lt;br&gt;
+&lt;a href=&quot;https://linux.do/t/topic/2302507&quot;&gt;https://linux.do/t/topic/2302507?u=admmmmm&lt;/a&gt;&lt;br&gt;
+还有就是单纯感觉这个很有意思。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2323628&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Notion点名批评Anthropic</title>
+      <link>https://linux.do/t/topic/2322928</link>
+      <guid>linux.do-topic-2322928</guid>
+      <pubDate>Sun, 07 Jun 2026 12:01:58 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/0/1/3017275fe75cd71d9afcbfbfef7d8c78ed903f64.jpeg&quot; data-download-href=&quot;/uploads/short-url/6RqwzzQr63lHEvupkRKkN4kL0k4.jpeg?dl=1&quot; title=&quot;IMG_1356&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/0/1/3017275fe75cd71d9afcbfbfef7d8c78ed903f64_2_565x500.jpeg&quot; alt=&quot;IMG_1356&quot; data-base62-sha1=&quot;6RqwzzQr63lHEvupkRKkN4kL0k4&quot; width=&quot;565&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/0/1/3017275fe75cd71d9afcbfbfef7d8c78ed903f64_2_565x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/0/1/3017275fe75cd71d9afcbfbfef7d8c78ed903f64_2_847x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/0/1/3017275fe75cd71d9afcbfbfef7d8c78ed903f64_2_1130x1000.jpeg 2x&quot; data-dominant-color=&quot;101010&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+Anthropic 的 Opus 4.7 和 4.8 模型正在经历性能下降，这导致 Notion AI 中选择这些模型的用户失败率更高。&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;为了减轻影响，所有 Anthropic 模型已在模型选择器中被禁用，请求已被重定向到替代提供商。大多数用户现在应该能够以最小的中断继续使用 Notion AI，尽管 Anthropic 特定功能仍然不可用。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2322928&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>新的 Github 注册年限查询，带榜单，快来看看你排第几</title>
+      <link>https://linux.do/t/topic/2322854</link>
+      <guid>linux.do-topic-2322854</guid>
+      <pubDate>Sun, 07 Jun 2026 11:43:33 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;http://github-age.bloodkev.lol/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;http://github-age.bloodkev.lol/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/a/b/4ab0d410e5d953b83bd9e66b631c83bc1179c434.png&quot; data-download-href=&quot;/uploads/short-url/aEKbwvvoNM3fqa13ckbgqdJiCTG.png?dl=1&quot; title=&quot;Y2zz-github-age (1)&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/a/b/4ab0d410e5d953b83bd9e66b631c83bc1179c434_2_690x362.png&quot; alt=&quot;Y2zz-github-age (1)&quot; data-base62-sha1=&quot;aEKbwvvoNM3fqa13ckbgqdJiCTG&quot; width=&quot;690&quot; height=&quot;362&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/a/b/4ab0d410e5d953b83bd9e66b631c83bc1179c434_2_690x362.png, https://cdn3.ldstatic.com/optimized/4X/4/a/b/4ab0d410e5d953b83bd9e66b631c83bc1179c434_2_1035x543.png 1.5x, https://cdn3.ldstatic.com/original/4X/4/a/b/4ab0d410e5d953b83bd9e66b631c83bc1179c434.png 2x&quot; data-dominant-color=&quot;212B2C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;带有排行榜，看看你第几名&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/9/2/392fa71eccf107a0f1be4c3b3468b79c508f5fcf.png&quot; data-download-href=&quot;/uploads/short-url/89TjjoJkJY6mOqrY8H9PpTE5OID.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/9/2/392fa71eccf107a0f1be4c3b3468b79c508f5fcf_2_199x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;89TjjoJkJY6mOqrY8H9PpTE5OID&quot; width=&quot;199&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/9/2/392fa71eccf107a0f1be4c3b3468b79c508f5fcf_2_199x500.png, https://cdn3.ldstatic.com/optimized/4X/3/9/2/392fa71eccf107a0f1be4c3b3468b79c508f5fcf_2_298x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/9/2/392fa71eccf107a0f1be4c3b3468b79c508f5fcf_2_398x1000.png 2x&quot; data-dominant-color=&quot;202427&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2322854&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>你还没反应过来，AI已经开始替你动手了</title>
       <link>https://linux.do/t/topic/2322588</link>
@@ -35,7 +82,7 @@
       <pubDate>Sun, 07 Jun 2026 09:50:56 GMT</pubDate>
       <description>
             &lt;p&gt;周末帮朋友配置域名邮箱时，考虑到方便他上手和管理，选择先前自用的Zoho，有网页版和APP，但是注册时发现先前的免费注册入口消失了，剩下的都是付费计划，通过信息收集，在reddit上发现了老外分享的解决思路，可以通过特定链接直接访问到免费注册页面。实测可行，分享给有需要的佬友：&lt;a href=&quot;https://workplace.zoho.in/signup?type=org&amp;plan=free&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Signup for Zoho Workplace account&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2322455&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -69,7 +116,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2322304&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -82,7 +129,7 @@
             &lt;p&gt;Notion 表示 Anthropic 旗下 Claude Opus 4.7和4.8 模型性能下降/降智导致他们产品出现严重报错和不理想状态！&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/5/a/a5a81da88084113b54ce8835072ede0ba6d8662a.jpeg&quot; data-download-href=&quot;/uploads/short-url/nDsY5vW76JMBA6jaPBLirsauzfc.jpeg?dl=1&quot; title=&quot;Screenshot_20260607_165733_com_twitter_android_TweetDetailActivity_edit_141253809056895&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/5/a/a5a81da88084113b54ce8835072ede0ba6d8662a_2_243x500.jpeg&quot; alt=&quot;Screenshot_20260607_165733_com_twitter_android_TweetDetailActivity_edit_141253809056895&quot; data-base62-sha1=&quot;nDsY5vW76JMBA6jaPBLirsauzfc&quot; width=&quot;243&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/5/a/a5a81da88084113b54ce8835072ede0ba6d8662a_2_243x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/5/a/a5a81da88084113b54ce8835072ede0ba6d8662a_2_364x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/5/a/a5a81da88084113b54ce8835072ede0ba6d8662a_2_486x1000.jpeg 2x&quot; data-dominant-color=&quot;111212&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;难怪我说我刚才用Claude Opus 4.8 开到 Ultra 了还是一样烂！&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;16 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;19 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2322275&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -95,7 +142,7 @@
             &lt;p&gt;有部分人灰度到了，不知道真假&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/2/4/d24ddcef71a9156503fbd5354db6bcaf00f31f76.jpeg&quot; data-download-href=&quot;/uploads/short-url/u0r5yhyeAgdavQWfDCB6D8Se9zE.jpeg?dl=1&quot; title=&quot;13474b8c071339a8084313e38cc48995&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/2/4/d24ddcef71a9156503fbd5354db6bcaf00f31f76_2_375x375.jpeg&quot; alt=&quot;13474b8c071339a8084313e38cc48995&quot; data-base62-sha1=&quot;u0r5yhyeAgdavQWfDCB6D8Se9zE&quot; width=&quot;375&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/2/4/d24ddcef71a9156503fbd5354db6bcaf00f31f76_2_375x375.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/2/4/d24ddcef71a9156503fbd5354db6bcaf00f31f76_2_562x562.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/2/4/d24ddcef71a9156503fbd5354db6bcaf00f31f76_2_750x750.jpeg 2x&quot; data-dominant-color=&quot;2E2D33&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/2/3/0232ce166a3356b9bd5382929d485d4dc600dd25.jpeg&quot; data-download-href=&quot;/uploads/short-url/jrNRoRNPQycRvtODp6fPEPpa5v.jpeg?dl=1&quot; title=&quot;74c5f18b45bc3145811265c01737a5ea&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/2/3/0232ce166a3356b9bd5382929d485d4dc600dd25_2_281x500.jpeg&quot; alt=&quot;74c5f18b45bc3145811265c01737a5ea&quot; data-base62-sha1=&quot;jrNRoRNPQycRvtODp6fPEPpa5v&quot; width=&quot;281&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/2/3/0232ce166a3356b9bd5382929d485d4dc600dd25_2_281x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/2/3/0232ce166a3356b9bd5382929d485d4dc600dd25_2_421x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/2/3/0232ce166a3356b9bd5382929d485d4dc600dd25_2_562x1000.jpeg 2x&quot; data-dominant-color=&quot;1E1E1B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;14 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;19 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2322204&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -131,7 +178,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2321906&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -145,7 +192,7 @@
 继去年的gpt plus学生计划后现在又出了codex学生计划&lt;br&gt;
 但是gpt的学生认证一直很严格&lt;br&gt;
 感觉又会有新的佬开始尝试这方面了&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;16 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2321711&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -159,7 +206,7 @@
 &lt;p&gt;&lt;strong&gt;以企业每月消耗 10 亿输入与 10 亿输出 Token 测算，GPT-5.5 Pro 成本高达 10.5 万美元，Claude Opus 4.8 为 3 万美元，而 DeepSeek R1 仅需 2740 美元，GPT-5.5 Pro 的溢价近 40 倍。Chamath 警告，多数公司 CEO 并不知道技术团队在缺乏治理与审计的情况下，直接默认选用最昂贵的大模型 API，导致预算超支。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;随着他本人联合创立并担任首席执行官的 AI 原生软件开发生命周期编排平台 Software Factory 等模型路由控制面逐渐普及，企业将转向模型无关架构，将大规模推理默认分流至 DeepSeek，高端代理流导入 Claude Opus，仅在产生明确高额增量价值时按需调用 GPT-5.5 Pro。Chamath 预测，精细化路由将导致 OpenAI 和 Anthropic 等前沿实验室的 API 营收增速显著放缓，而开源及低成本推理生态的收入将迎来暴增。&lt;/strong&gt;&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/c/a/8ca1e29e310e46acee0540b17a7536fc499f8b30.jpeg&quot; data-download-href=&quot;/uploads/short-url/k45GmPYuOLz0Q0vcBvzygdMz2g0.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/c/a/8ca1e29e310e46acee0540b17a7536fc499f8b30_2_266x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;k45GmPYuOLz0Q0vcBvzygdMz2g0&quot; width=&quot;266&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/c/a/8ca1e29e310e46acee0540b17a7536fc499f8b30_2_266x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/c/a/8ca1e29e310e46acee0540b17a7536fc499f8b30_2_399x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/c/a/8ca1e29e310e46acee0540b17a7536fc499f8b30_2_532x1000.jpeg 2x&quot; data-dominant-color=&quot;ECEDED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;31 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2321511&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -297,7 +344,7 @@
 以上材料引发了你怎样的联想和思考？请写一篇文章。&lt;br&gt;
 要求：选准角度，确定立意，明确文体，自拟标题；不要套作，不得抄袭；不得泄露个人信息；不少于800字。&lt;/p&gt;
 &lt;p&gt;吓哭了&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/fearful.png?v=15&quot; title=&quot;:fearful:&quot; class=&quot;emoji&quot; alt=&quot;:fearful:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;82 个帖子 - 77 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;96 个帖子 - 90 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320965&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -529,7 +576,7 @@ API Error: 529 Overloaded. This is a server-side issue, usually temporary — tr
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320407&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -806,70 +853,6 @@ Waldinger 博士首先探讨了人们眼中的美好生活。世界上许多人�
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/8/4/484233e340ba8d71602d579532ef0539be54db35.jpeg&quot; data-download-href=&quot;/uploads/short-url/ajedq7JZCsQBSo0JJislZQB4VIV.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-07-09-43-17-985_com.twitter.android-edit&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/8/4/484233e340ba8d71602d579532ef0539be54db35_2_580x500.jpeg&quot; alt=&quot;Screenshot_2026-06-07-09-43-17-985_com.twitter.android-edit&quot; data-base62-sha1=&quot;ajedq7JZCsQBSo0JJislZQB4VIV&quot; width=&quot;580&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/8/4/484233e340ba8d71602d579532ef0539be54db35_2_580x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/8/4/484233e340ba8d71602d579532ef0539be54db35_2_870x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/8/4/484233e340ba8d71602d579532ef0539be54db35_2_1160x1000.jpeg 2x&quot; data-dominant-color=&quot;959696&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;17 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320222&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>技嘉联手海盗船刷新 DDR5 内存超频世界纪录至 13556 MT/s</title>
-      <link>https://linux.do/t/topic/2320159</link>
-      <guid>linux.do-topic-2320159</guid>
-      <pubDate>Sun, 07 Jun 2026 01:27:58 GMT</pubDate>
-      <description>
-            &lt;p&gt;在 2026 台北电脑展上，技嘉超频团队使用海盗船 DDR5 内存冲击至 13556 MT/s，刷新世界纪录。此次超频基于技嘉 Z890 AORUS TACHYON DUO X ICE 主板，并借助液氮等极端散热手段达成。 同一团队此前曾在该主板上达成 12917 MT/s 的风冷纪录，后借助液氮进一步推至 13407.8 MT/s。在本次芝奇超频大赛中，他们另用 AMD 平台拿下 10 项全球第一。这些极限成绩主要展示硬件工程极限，不代表普通用户的日常体验。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.ithome.com/0/960/986.htm&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/1/b/61b1ae9c911f2ac4d62087f75a7e3e91b747f953.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;DC5353&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.ithome.com/0/960/986.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;ithome.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.ithome.com/0/960/986.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;刷新世界纪录：技嘉联手海盗船将 DDR5 内存超至 13556 MT/s，并联合芝奇夺得 10 项全球第一 - IT之家&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;技嘉超频团队在台北电脑展上，使用专为极限设计的 Z890 主板和海盗船内存，将 DDR5 频率推至 13556 MT/s，刷新世界纪录。该成绩属于芝奇超频大赛的一部分，团队还凭借 X870 主板在 AMD 平台拿下 10 项全球第一。#DDR5 超频# #COMPUTEX2026#&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320159&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>2026年全国统一高考今天开考</title>
-      <link>https://linux.do/t/topic/2320135</link>
-      <guid>linux.do-topic-2320135</guid>
-      <pubDate>Sun, 07 Jun 2026 01:21:09 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a href=&quot;https://www.thepaper.cn/newsDetail_forward_33326061&quot; rel=&quot;noopener nofollow ugc&quot;&gt;2026年全国高考今日开考，这些新变化值得关注_教育家_澎湃新闻-The Paper&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2026年全国统一高考今天（6月7日）开考，今年高考报名总人数为1290万人，全国共设7981个考点，34.8万个考场。高考首日的考试科目是语文和数学。&lt;/p&gt;
-&lt;p&gt;希望各位考生能够正常发挥，考到理想专业 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/wink.png?v=15&quot; title=&quot;:wink:&quot; class=&quot;emoji&quot; alt=&quot;:wink:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-&lt;p&gt;另外也想问看到近年大学越来越少文科专业，理科专业越来越多，真的读文科不吃香吗?&lt;/p&gt;
-&lt;p&gt;我觉得ai发展得越好，文科生应该也拉近了跟理科生的差距吧 ?&lt;/p&gt;
-&lt;p&gt;关于高考，佬友们印象最深的是什么？&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;27 个帖子 - 23 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320135&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>SpaceX IPO已获得2倍认购资金</title>
-      <link>https://linux.do/t/topic/2320062</link>
-      <guid>linux.do-topic-2320062</guid>
-      <pubDate>Sun, 07 Jun 2026 00:56:10 GMT</pubDate>
-      <description>
-            &lt;p&gt;据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额度，实际获配数量将在定价环节敲定。&lt;/p&gt;
-&lt;p&gt;来源：第一财经 公众号&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320062&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
