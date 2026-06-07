@@ -4,7 +4,428 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sat, 06 Jun 2026 23:55:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 02:39:07 GMT</lastBuildDate>
+    <item>
+      <title>OpenCV 5.0 发布，重写 DNN 引擎，内置 LLM 和 VLM 支持</title>
+      <link>https://linux.do/t/topic/2320407</link>
+      <guid>linux.do-topic-2320407</guid>
+      <pubDate>Sun, 07 Jun 2026 02:22:23 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.phoronix.com/news/OpenCV-5.0-Released&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/1/9/519a34743163e56800f0134a3d3cad6ffe1c243a.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;518164&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://www.phoronix.com/news/OpenCV-5.0-Released&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;phoronix.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/211;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/2/0/82013d957cb99fee230cf665306256f1f1725cca_2_690x211.webp&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;EEEEEE&quot; width=&quot;690&quot; height=&quot;211&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.phoronix.com/news/OpenCV-5.0-Released&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;OpenCV 5.0 Released With Rewritten DNN Engine, Built-In LLM &amp; VLM Support&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;OpenCV 5.0 released today as a major update to this widely-used, open-source computer vision (CV) library.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;OpenCV 5.0 今天发布，是这个广泛使用的开源计算机视觉 (CV) 库的重大更新。&lt;/p&gt;
+&lt;p&gt;OpenCV 5.0 采用了重写的深度神经网络（DNN）引擎，ONNX 覆盖率超过 80%，内置大型语言模型（LLM）和视觉语言模型（VLM）支持，以及新的硬件抽象层和更好的 3D 视觉工具包。&lt;/p&gt;
+&lt;p&gt;OpenCV 5.0 目前已为英特尔 IPP（内核经过 SSE/AVX 优化）、Arm KleidiCV、高通 FastCV 和 RISC-V Vector RVV 调整了路径。 接下来，OpenCV 开发人员计划在其新的 DNN 引擎中开发原生 GPU 支持。&lt;/p&gt;
+&lt;p&gt;OpenCV 5.0 在与微软 ONNX Runtime 的较量中表现出色：&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/f/1/2f14a302518c41f99e05fd3bcb186e9b74eecd62.png&quot; data-download-href=&quot;/uploads/short-url/6IuECphyQGJyYpEZMCvy3CYGSgW.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/1/2f14a302518c41f99e05fd3bcb186e9b74eecd62_2_690x211.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6IuECphyQGJyYpEZMCvy3CYGSgW&quot; width=&quot;690&quot; height=&quot;211&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/1/2f14a302518c41f99e05fd3bcb186e9b74eecd62_2_690x211.png, https://cdn3.ldstatic.com/original/4X/2/f/1/2f14a302518c41f99e05fd3bcb186e9b74eecd62.png 1.5x, https://cdn3.ldstatic.com/original/4X/2/f/1/2f14a302518c41f99e05fd3bcb186e9b74eecd62.png 2x&quot; data-dominant-color=&quot;EEEEEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://opencv.org/opencv-5/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/e/5/ee59a006da61e93e71794b976c815cf49f6756a0.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;E9E7E9&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://opencv.org/opencv-5/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;06:01AM - 05 June 2026&quot;&gt;OpenCV – 5 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/342;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/1/6/f160d3c2b8c311eec55484f8b9c5a946ef262397_2_690x342.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;31363A&quot; width=&quot;690&quot; height=&quot;342&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://opencv.org/opencv-5/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;OpenCV 5 is here! A massive modernization brings a graph-based DNN engine, over 80% ONNX coverage, hardware acceleration, LLM/VLM support, and a faster Python-first core. Learn why this isn&#39;t just an incremental update.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 19 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320407&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>研究人员发现了专门处理失望情绪的脑细胞</title>
+      <link>https://linux.do/t/topic/2320388</link>
+      <guid>linux.do-topic-2320388</guid>
+      <pubDate>Sun, 07 Jun 2026 02:19:26 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.earth.com/news/researchers-identify-brain-cells-dedicated-to-disappointment/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/4/e/b4e574e1ca2448c2d66546769abe5bf68d94db66.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;7A7FA2&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.earth.com/news/researchers-identify-brain-cells-dedicated-to-disappointment/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Earth.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:651/500;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/6/b/56b0102ed14c645a5b0f389ecc4758390fd0100e_2_651x500.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;B1A7A0&quot; width=&quot;651&quot; height=&quot;500&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.earth.com/news/researchers-identify-brain-cells-dedicated-to-disappointment/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Researchers identify brain cells dedicated to disappointment&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Researchers have identified brain cells that are dedicated to measuring disappointment when rewards fall short.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;细胞簇位于外侧哈文脑内，这是一个隐藏在大脑深处的古老小结构。&lt;/p&gt;
+&lt;p&gt;长期以来，研究人员一直知道这个区域在遇到不受欢迎的意外时–突然的惩罚或根本就没有到来的奖励–会变得炙热。因此，它被称为大脑的 “反奖赏中心”。&lt;/p&gt;
+&lt;p&gt;不过，该区域拥有多种类型的神经元，但没有人能够确定每种神经元的功能。&lt;/p&gt;
+&lt;p&gt;Sylwestrak 偶然发现了这些细胞，每当小鼠希望得到食物时，它就会捕捉到邻居发出的杂散信号。结果一无所获。&lt;/p&gt;
+&lt;p&gt;研究小组加入了一些真正糟糕的经历–吹一口气、短暂的憋闷或轻微的惊吓–并观察相同神经元的反应。&lt;/p&gt;
+&lt;p&gt;在所有这些过程中，失望细胞大多保持沉默。在同一区域，更广泛的神经元组合在每一次威胁面前都会亮起，这与之前的研究发现的方式相同。&lt;/p&gt;
+&lt;p&gt;这种挑剔是有目的的。铃木指出，错过的奖励和真正的威胁需要不同的反应。&lt;/p&gt;
+&lt;p&gt;最近的历史也证明了这一点。一连串的失败让小白鼠对下一个失败的反应变得迟钝，最终放弃了探究。&lt;/p&gt;
+&lt;p&gt;中脑的多巴胺神经元则与此相反，它们会在意外收获时攀升，在失意时下降。数十年的研究证实了这种不对称性。&lt;/p&gt;
+&lt;p&gt;改变奖励的大小提供了最明显的证据。被训练成期待喝一口正常水的小鼠有时会得到一口吝啬的水，而细胞会根据不足的比例而勃发。&lt;/p&gt;
+&lt;p&gt;让他们重新养成喝一口就能大快朵颐的习惯，而同样的微薄回报现在却让他们大失所望。&lt;/p&gt;
+&lt;p&gt;在这项工作之前，科学家们知道外侧哈伯脑带着失望信号，但无法将负责的细胞与它们的邻居区分开来。&lt;/p&gt;
+&lt;p&gt;现在，有一种遗传标记可以将它们区分开来，这是该地区首次对这一精确计算进行清晰的处理。&lt;/p&gt;
+&lt;p&gt;研究小组希望通过增减这些细胞，了解它们是如何引导健康的奖赏追求的，以及它们的失效是如何导致成瘾和抑郁等病症的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC8116345/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/6/6/366309b72090843accd886395b8c67de88c17a0c.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;4D5F6F&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC8116345/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;PubMed Central (PMC)&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/360;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/c/2/1c2b2fab27273d4bb02dc0a9b2efa3389fa20ffe_2_690x360.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;385B82&quot; width=&quot;690&quot; height=&quot;360&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC8116345/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Dopamine, Updated: Reward Prediction Error and Beyond&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Dopamine neurons have been intensely studied for their roles in reinforcement learning. A dominant theory of how these neurons contribute to learning is through the encoding of a reward prediction error (RPE) signal. Recent advances in dopamine ...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cell.com/current-biology/fulltext/S0960-9822(26)00467-7&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.cell.com/current-biology/fulltext/S0960-9822(26)00467-7&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320388&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>根据大脑连接模式，自闭症可能有两种不同的亚型</title>
+      <link>https://linux.do/t/topic/2320356</link>
+      <guid>linux.do-topic-2320356</guid>
+      <pubDate>Sun, 07 Jun 2026 02:15:21 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://medicalxpress.com/news/2026-06-autism-distinct-subtypes-based-brain.html&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/2/e/42e07ea5610862b00b9211bb38014cc9b21ff911.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;6F8633&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://medicalxpress.com/news/2026-06-autism-distinct-subtypes-based-brain.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;09:40AM - 06 June 2026&quot;&gt;Medical Xpress – 6 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/367;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/c/5/5c52052c9a3cc6a056c78101c8d3631a3ecdc0b6_2_690x367.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;EEE8E8&quot; width=&quot;690&quot; height=&quot;367&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://medicalxpress.com/news/2026-06-autism-distinct-subtypes-based-brain.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Autism may have two distinct subtypes based on brain connectivity patterns&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Autism spectrum disorder (ASD), commonly referred to as autism, is a neurodevelopmental condition characterized by differences in social interactions, communication, behavior and the processing of sensory stimuli. Notably, the experiences, aptitudes...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;一些神经科学家一直在探索这样一种可能性，即这种有据可查的多样性在一定程度上反映了大脑组织和潜在神经生物学的差异。然而，迄今为止，只有少数研究能够将自闭症行为的差异与特定的神经生物学过程联系起来。&lt;/p&gt;
+&lt;p&gt;他们的研究结果发表在&lt;a href=&quot;https://www.nature.com/articles/s41593-026-02287-z&quot; rel=&quot;noopener nofollow ugc&quot;&gt;《自然-神经科学》（Nature Neuroscience）杂志&lt;/a&gt;上，从而确定了两种不同的自闭症亚型，其特征是不同的连接模式。&lt;/p&gt;
+&lt;p&gt;&quot;自闭症在临床上表现出极大的异质性，多年来，影像学研究也报告了异质性的、有时明显相互矛盾的研究结果：一些研究发现功能连通性降低，另一些研究发现连通性增加，还有一些研究发现了更复杂的模式。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/6/d/76d250cb87919f057895dd8632df01da81768b0c.jpeg&quot; data-download-href=&quot;/uploads/short-url/gX8WjK3lJnKKcjFEZUZ5eEHk4Ne.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/6/d/76d250cb87919f057895dd8632df01da81768b0c.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gX8WjK3lJnKKcjFEZUZ5eEHk4Ne&quot; width=&quot;690&quot; height=&quot;388&quot; data-dominant-color=&quot;E9E8E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Gozzi、Di Martino 和他们的同事通过分析，最终确定了在自闭症小鼠模型和人类身上观察到的两种不同的功能连接模式。&lt;/p&gt;
+&lt;p&gt;第一种模式的特点是脑区之间的交流减少（即低连接性），而另一种模式则是脑区之间的交流增加（即高连接性）。&lt;/p&gt;
+&lt;p&gt;“相比之下，超连接亚型与免疫相关通路和基因调控的改变有关，这表明神经免疫机制和转录程序失调可能会导致不同形式的电路功能障碍”。&lt;/p&gt;
+&lt;p&gt;&quot;戈齐说：&quot;两个人可能都会被诊断为自闭症，甚至可能表现出重叠的行为特征，但导致他们病情的大脑和分子机制却可能完全不同。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320356&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>GNU 的 GNUtrition 14 年来首次发布了新版本</title>
+      <link>https://linux.do/t/topic/2320326</link>
+      <guid>linux.do-topic-2320326</guid>
+      <pubDate>Sun, 07 Jun 2026 02:08:39 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.phoronix.com/news/GNUtrition-2026&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/9/f/b/9fbf3269dd72b3d08d61089b7ea7512319daf82b.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;518164&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://www.phoronix.com/news/GNUtrition-2026&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;phoronix.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:601/500;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/b/5/2b5bba0ce21893fc1652c96ef5cd6d5c746b9f76_2_601x500.webp&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;DACED5&quot; width=&quot;601&quot; height=&quot;500&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.phoronix.com/news/GNUtrition-2026&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;GNU Gets Back Into Nutrition Software After 14 Year Hiatus&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;For those looking for open-source food nutrition software, GNU&#39;s GNUtrition has seen its first new release in 14 years.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;GNUtrition 0.33 是这款基于美国农业部膳食研究食品和营养素数据库数据的营养分析软件自 2012 年以来的首次更新。由于标准参考营养素数据库在该 GNU 软件发布新版本的十多年间一直处于日落状态，因此现在的数据源已经不同。&lt;/p&gt;
+&lt;p&gt;由于与上一版本相隔时间较长，因此有很多技术上的改动。GNUtrition 现在已经用纯 C 代码重写，取代了之前用 Python 2 编写的版本。GNUtrition 现在还使用 GTK3 UI，取代了之前使用的 GTK2。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://savannah.gnu.org/news/?id=10903&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/b/1/3b1b669a9cc1f4ed846d206cc0fa2362f7f49caf.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;6C5242&quot; width=&quot;44&quot; height=&quot;41&quot;&gt;
+
+      &lt;a href=&quot;https://savannah.gnu.org/news/?id=10903&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;savannah.gnu.org&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://savannah.gnu.org/news/?id=10903&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;GNUtrition - News [Savannah]&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Savannah is a central point for development, distribution
+and maintenance of free software, both GNU and non-GNU.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320326&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>美好生活与罗伯特-沃丁格博士的讨论 | harvard</title>
+      <link>https://linux.do/t/topic/2320305</link>
+      <guid>linux.do-topic-2320305</guid>
+      <pubDate>Sun, 07 Jun 2026 02:04:04 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://spacedaily.com/m-harvard-good-life-study-strongest-finding/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/4/9/e49907bdb6ae3239cad0441b5e1ddc831068771f.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;C2CCCC&quot; width=&quot;150&quot; height=&quot;150&quot;&gt;
+
+      &lt;a href=&quot;https://spacedaily.com/m-harvard-good-life-study-strongest-finding/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;01:00PM - 03 June 2026&quot;&gt;Space Daily – 3 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:600/315;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/2/c/42c77e61e02f513296ea1d18ef6d2123e738bfb3_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;3E3F40&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://spacedaily.com/m-harvard-good-life-study-strongest-finding/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;In 1938, Harvard researchers began following a group of young men to learn...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;What follows is reflection on a long-running piece of research, not advice. We are writers and editors reading the literature, not clinicians, psychologists, or therapists. The study at the centre of this piece is observational, and patterns drawn...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://hsph.harvard.edu/health-happiness/news/the-good-life-a-discussion-with-dr-robert-waldinger/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/5/2/b52818a5a2af1bffc2f9c0809d5fca77e3e3ec57.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;AFA3A5&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://hsph.harvard.edu/health-happiness/news/the-good-life-a-discussion-with-dr-robert-waldinger/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;01:01PM - 27 February 2023&quot;&gt;Harvard T.H. Chan School of Public Health – 27 Feb 23&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://hsph.harvard.edu/health-happiness/news/the-good-life-a-discussion-with-dr-robert-waldinger/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;The Good Life: A Discussion with Dr. Robert Waldinger | Harvard T.H. Chan...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;What makes for a&amp;nbsp;good&amp;nbsp;life? According to the directors of the&amp;nbsp;Harvard&amp;nbsp;Study of Adult Development, the longest scientific study of happiness ever conducted, the answer to this question may be simpler than you think.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;br&gt;
+Waldinger 博士首先探讨了人们眼中的美好生活。世界上许多人，尤其是千禧一代，认为答案可以从名利中找到。在最近一项针对千禧一代的调查中，当被问及他们成年后想要什么时，超过80%的人说他们想要发财，50%的人说他们想要出名，还有50%的人说他们想要取得很高的事业成就。&lt;/p&gt;
+&lt;p&gt;然而，研究表明，随着包括美国在内的许多西方国家变得越来越富裕，总体幸福感却在下降。年均 75,000 美元的家庭收入似乎是幸福感达到顶峰的水平–在这个水平上，食物、住房、医疗保健、子女抚养等基本经济需求可以得到满足。当人们的年收入高于这个数字时，他们的幸福感并没有上升多少。7.5万美元和7500万美元之间的差距几乎没有什么意义。&lt;/p&gt;
+&lt;p&gt;那么，我们的美好生活到底需要什么呢？作为哈佛大学成人发展研究的主任，Waldinger 博士是寻找答案的理想人选。这项长达 85 年的研究始于 1938 年的两项研究。其中一项研究跟踪一组 19 岁的哈佛学生，另一项研究跟踪一组更年轻的少年犯。两组研究对象均为白人、男性和波士顿人。这两项研究合并后，组成了一个由 725 名男性组成的小组。随着时间的推移，他们的妻子也被纳入研究，然后是他们的孩子。研究对象甚至包括约翰-肯尼迪。研究人员对参与者的身体、精神和情绪健康进行了研究。他们被拍照、录音和录像。他们被抽血，大脑被扫描，DNA 被研究。&lt;/p&gt;
+&lt;p&gt;研究发现，与他人联系最紧密的人最健康、最长寿。这些温暖的联系对他们的健康和幸福有着直接的积极影响。良好的人际关系意味着参与者患心脏病、糖尿病或关节炎的可能性较低。更广泛的社交网络和更多的社交活动使认知能力衰退的发病时间更晚、速度更慢。研究甚至发现，已婚人士的寿命更长–女性平均长5-12年，男性平均长7-17年。&lt;/p&gt;
+&lt;p&gt;有趣的是，研究还发现，随着年龄的增长，参与者会变得更加快乐。从中年开始，参与者对正面信息的关注程度超过了负面信息，对过去的记忆更加积极，对时间的使用更加挑剔，越来越珍惜当下。沃尔丁格博士对这一趋势的解释是：&quot;当我们感觉到时间有限时，情绪健康就会成为优先考虑的问题。然而，这样做也有一个弊端–年龄越大的大脑对正面信息的反应越积极，而对负面信息往往置若罔闻，这使他们更容易上当受骗。&lt;/p&gt;
+&lt;p&gt;自 20 世纪 50 年代电视问世以来，美国普通民众发展和加强与他人关系的技能有所下降。在过去的 25 年里，人们加入俱乐部和民间组织的可能性减少了一半，而家庭聚餐和度假则减少了三分之一。1983 年，12% 的美国人没有知己，没有可以倾诉私事的人，而 2003 年，25% 的美国人没有知己。在一项针对 1500 万工人的全球调查中，只有三分之一的人说他们在工作中有一个最好的朋友，其中只有十二分之一的人说他们在工作中很投入。半数首席执行官表示感到孤独。Waldinger 博士和许多其他人认为，数字革命加速了这种孤独感的流行。“我们大部分时间都在玩手机、看屏幕，以至于忽略了彼此，也忽略了周围的世界”。&lt;/p&gt;
+&lt;p&gt;研究发现，孤独感与每天吸半包烟、高血压或肥胖一样，是预测健康状况不良的有力因素。孤独会导致认知能力和身体机能提前衰退、压力引起的高血压、睡眠受损、心血管反应性增强、免疫功能下降和慢性炎症。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320305&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>微软推出wslc容器功能</title>
+      <link>https://linux.do/t/topic/2320222</link>
+      <guid>linux.do-topic-2320222</guid>
+      <pubDate>Sun, 07 Jun 2026 01:44:34 GMT</pubDate>
+      <description>
+            &lt;p&gt;wslc相当于windows通过wsl实现了一个docker，你可以直接在powershell里面创建、启动容器，命令参数和docker相似。比docker desktop轻量。&lt;br&gt;
+同时提供了.net的sdk，可以直接通过C#代码控制容器的创建和销毁。&lt;br&gt;
+提供了新的快速的Windows 和wsl之间的文件映射增删操作。&lt;br&gt;
+支持容器操作gpu。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/8/4/484233e340ba8d71602d579532ef0539be54db35.jpeg&quot; data-download-href=&quot;/uploads/short-url/ajedq7JZCsQBSo0JJislZQB4VIV.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-07-09-43-17-985_com.twitter.android-edit&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/8/4/484233e340ba8d71602d579532ef0539be54db35_2_580x500.jpeg&quot; alt=&quot;Screenshot_2026-06-07-09-43-17-985_com.twitter.android-edit&quot; data-base62-sha1=&quot;ajedq7JZCsQBSo0JJislZQB4VIV&quot; width=&quot;580&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/8/4/484233e340ba8d71602d579532ef0539be54db35_2_580x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/8/4/484233e340ba8d71602d579532ef0539be54db35_2_870x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/8/4/484233e340ba8d71602d579532ef0539be54db35_2_1160x1000.jpeg 2x&quot; data-dominant-color=&quot;959696&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320222&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>技嘉联手海盗船刷新 DDR5 内存超频世界纪录至 13556 MT/s</title>
+      <link>https://linux.do/t/topic/2320159</link>
+      <guid>linux.do-topic-2320159</guid>
+      <pubDate>Sun, 07 Jun 2026 01:27:58 GMT</pubDate>
+      <description>
+            &lt;p&gt;在 2026 台北电脑展上，技嘉超频团队使用海盗船 DDR5 内存冲击至 13556 MT/s，刷新世界纪录。此次超频基于技嘉 Z890 AORUS TACHYON DUO X ICE 主板，并借助液氮等极端散热手段达成。 同一团队此前曾在该主板上达成 12917 MT/s 的风冷纪录，后借助液氮进一步推至 13407.8 MT/s。在本次芝奇超频大赛中，他们另用 AMD 平台拿下 10 项全球第一。这些极限成绩主要展示硬件工程极限，不代表普通用户的日常体验。&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.ithome.com/0/960/986.htm&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/1/b/61b1ae9c911f2ac4d62087f75a7e3e91b747f953.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;DC5353&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.ithome.com/0/960/986.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;ithome.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://www.ithome.com/0/960/986.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;刷新世界纪录：技嘉联手海盗船将 DDR5 内存超至 13556 MT/s，并联合芝奇夺得 10 项全球第一 - IT之家&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;技嘉超频团队在台北电脑展上，使用专为极限设计的 Z890 主板和海盗船内存，将 DDR5 频率推至 13556 MT/s，刷新世界纪录。该成绩属于芝奇超频大赛的一部分，团队还凭借 X870 主板在 AMD 平台拿下 10 项全球第一。#DDR5 超频# #COMPUTEX2026#&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320159&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>2026年全国统一高考今天开考</title>
+      <link>https://linux.do/t/topic/2320135</link>
+      <guid>linux.do-topic-2320135</guid>
+      <pubDate>Sun, 07 Jun 2026 01:21:09 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://www.thepaper.cn/newsDetail_forward_33326061&quot; rel=&quot;noopener nofollow ugc&quot;&gt;2026年全国高考今日开考，这些新变化值得关注_教育家_澎湃新闻-The Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2026年全国统一高考今天（6月7日）开考，今年高考报名总人数为1290万人，全国共设7981个考点，34.8万个考场。高考首日的考试科目是语文和数学。&lt;/p&gt;
+&lt;p&gt;希望各位考生能够正常发挥，考到理想专业 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/wink.png?v=15&quot; title=&quot;:wink:&quot; class=&quot;emoji&quot; alt=&quot;:wink:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+&lt;p&gt;另外也想问看到近年大学越来越少文科专业，理科专业越来越多，真的读文科不吃香吗?&lt;/p&gt;
+&lt;p&gt;我觉得ai发展得越好，文科生应该也拉近了跟理科生的差距吧 ?&lt;/p&gt;
+&lt;p&gt;关于高考，佬友们印象最深的是什么？&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320135&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>SpaceX IPO已获得2倍认购资金</title>
+      <link>https://linux.do/t/topic/2320062</link>
+      <guid>linux.do-topic-2320062</guid>
+      <pubDate>Sun, 07 Jun 2026 00:56:10 GMT</pubDate>
+      <description>
+            &lt;p&gt;据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额度，实际获配数量将在定价环节敲定。&lt;/p&gt;
+&lt;p&gt;来源：第一财经 公众号&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320062&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>关于“赛豆”，字节跳动辟谣</title>
+      <link>https://linux.do/t/topic/2320053</link>
+      <guid>linux.do-topic-2320053</guid>
+      <pubDate>Sun, 07 Jun 2026 00:53:16 GMT</pubDate>
+      <description>
+            &lt;p&gt;字节跳动在其官方公众号发布声明称，近期有部分报道将“赛豆”解读为“豆包汽车品牌”或“字节跳动造车”：1.相关说法不准确，字节跳动没有造车或推出汽车品牌的计划。2.赛豆不是字节跳动或豆包推出的汽车品牌，字节和赛豆没有股权合作。3.豆包、火山引擎与汽车行业伙伴的合作，主要是给行业伙伴提供豆包大模型，智能座舱等技术服务，帮助合作伙伴提升车载智能交互体验。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2320053&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>之前被封的MClaw，解封了，可以复活了！</title>
       <link>https://linux.do/t/topic/2319759</link>
@@ -19,7 +440,7 @@
 &lt;p&gt;坏消息：“重启失败了”&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/c/0/1c04d54a2e87e17604e403a193b9cde32736230a.jpeg&quot; data-download-href=&quot;/uploads/short-url/3ZRITJDrxessHXUXa9OVP6axzL4.jpeg?dl=1&quot; title=&quot;c4f1369517a869baa705440752f47b6f&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/c/0/1c04d54a2e87e17604e403a193b9cde32736230a_2_230x500.jpeg&quot; alt=&quot;c4f1369517a869baa705440752f47b6f&quot; data-base62-sha1=&quot;3ZRITJDrxessHXUXa9OVP6axzL4&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/c/0/1c04d54a2e87e17604e403a193b9cde32736230a_2_230x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/c/0/1c04d54a2e87e17604e403a193b9cde32736230a_2_345x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/c/0/1c04d54a2e87e17604e403a193b9cde32736230a_2_460x1000.jpeg 2x&quot; data-dominant-color=&quot;D9D6D5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;这看着要复活的感觉，凌晨2点用云盘那会，点了点重置和重启都还不行。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;18 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2319759&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -75,7 +496,7 @@
             &lt;p&gt;今日claude订阅到期寻思着在小黄鱼上买个14900礼品卡，已是每月例行公事&lt;br&gt;
 结果怎么也找不到14900额度的尼日利亚礼品卡，要么剩下的是小额度的，还有超大额度的，一问才知道苹果风控，只有少量账户幸存还能继续购入礼品卡，现有的礼品卡基本都是库存了&lt;br&gt;
 低价区恐怕会成为一个历史，尼区礼品卡且用且珍惜&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;35 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;44 个帖子 - 24 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2315791&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -154,7 +575,7 @@
 &lt;p&gt;&lt;strong&gt;业内分析指出，华为昇腾 910C 集群在万亿级模型训练上的成功跑通，印证了国产 AI 芯片在承载超大规模模型深度训练任务时的技术可行性。由于此前大模型研发的核心预训练多依赖英伟达 GPU 集群，国产算力此前主要承担推理（Inference）或小参数微调任务。本次联合攻关的成功，标志着国产算力生态正加速从「仅支持推理」向「承载超大参数模型全参数训练」的技术闭环过渡。&lt;/strong&gt;&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/a/b/8abd924d385f42110d69022091b2833afafd04e5.jpeg&quot; data-download-href=&quot;/uploads/short-url/jNm2QHpQJQhdpjFrbRa2sXM3T25.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/8/a/b/8abd924d385f42110d69022091b2833afafd04e5.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;jNm2QHpQJQhdpjFrbRa2sXM3T25&quot; width=&quot;637&quot; height=&quot;359&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/ZsXhzuJwIcqYFEujlKyQ0g&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://mp.weixin.qq.com/s/ZsXhzuJwIcqYFEujlKyQ0g&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;26 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;29 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314917&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -305,7 +726,7 @@ Riverflow 2.5 系列（Flash/Pro）是Sourceful开发的统一的文本到图像
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/7/6/276167e6f8bf1ac2b295938778fc6633be93df21.jpeg&quot; data-download-href=&quot;/uploads/short-url/5Cnjn5m7d8YjRR8vzXnu8r3I3rr.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/6/276167e6f8bf1ac2b295938778fc6633be93df21_2_690x460.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5Cnjn5m7d8YjRR8vzXnu8r3I3rr&quot; width=&quot;690&quot; height=&quot;460&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/6/276167e6f8bf1ac2b295938778fc6633be93df21_2_690x460.jpeg, https://cdn3.ldstatic.com/original/4X/2/7/6/276167e6f8bf1ac2b295938778fc6633be93df21.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/2/7/6/276167e6f8bf1ac2b295938778fc6633be93df21.jpeg 2x&quot; data-dominant-color=&quot;C0BEB9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;生图能力平起平坐，但是缺点也很明显，其外部的LLM非常弱智，对于多文字，复杂prompt处理上不足。还有就是&lt;strong&gt;极其安全&lt;/strong&gt;，很多不被image 2输入审的东西都能触发&lt;br&gt;
 最后就是价格不太美丽，2.0的价格是0.15刀/图，折算比大香蕉都贵。不过趁现在or免费可以多用用（）&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;17 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;18 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314247&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -343,371 +764,8 @@ Riverflow 2.5 系列（Flash/Pro）是Sourceful开发的统一的文本到图像
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314243&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【金融快讯】美股6月5日（周五）大跌 &amp;盘后总结，佬友们跌了多少</title>
-      <link>https://linux.do/t/topic/2314144</link>
-      <guid>linux.do-topic-2314144</guid>
-      <pubDate>Sat, 06 Jun 2026 03:15:52 GMT</pubDate>
-      <description>
-            &lt;p&gt;美股大盘指数九天新高之后,今天一根大阴线全数交还。标普重挫 2.6%、纳指暴跌 4.2%、创下 2025 年 4 月以来最惨的一天，VIX 一天飙升近 40%。&lt;/p&gt;
-&lt;p&gt;我觉得有以下几个主要原因：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;非农就业报告，就业强劲，引发市场对美联储降息的担忧&lt;/li&gt;
-&lt;li&gt;博通财报指引令人失望，率先刺破&quot;所有AI受益公司皆坚不可摧&quot;的市场信仰。&lt;/li&gt;
-&lt;li&gt;Alphabet大规模增发股票，筹集资本开支资金。 Meta也考虑跟进类似融资计划，更令投资者对科技巨头股权稀释的顾虑骤然升温。&lt;/li&gt;
-&lt;li&gt;此外，SpaceX IPO预期进一步分流市场资金。&lt;/li&gt;
-&lt;li&gt;美股指数已经连续涨这么久，是需要回调&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;美股没上车的机会，最近被保护到了，&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/7/1/071969d97c90e1f0921c66037a9b75d9ea986341.jpeg&quot; data-download-href=&quot;/uploads/short-url/10NN0lhcC9mvrVwsgFvLaeB4Tkt.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/7/1/071969d97c90e1f0921c66037a9b75d9ea986341_2_690x320.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;10NN0lhcC9mvrVwsgFvLaeB4Tkt&quot; width=&quot;690&quot; height=&quot;320&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/7/1/071969d97c90e1f0921c66037a9b75d9ea986341_2_690x320.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/7/1/071969d97c90e1f0921c66037a9b75d9ea986341_2_1035x480.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/7/1/071969d97c90e1f0921c66037a9b75d9ea986341_2_1380x640.jpeg 2x&quot; data-dominant-color=&quot;60292C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314144&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>红茶移动：仅接受海外信用卡购买大陆和中港澳漫游流量</title>
-      <link>https://linux.do/t/topic/2314117</link>
-      <guid>linux.do-topic-2314117</guid>
-      <pubDate>Sat, 06 Jun 2026 03:11:08 GMT</pubDate>
-      <description>
-            &lt;p&gt;目前最新消息，自之前的使用ip判断是否展示大陆漫游流量套餐后。现在大陆漫游和中港澳漫游都仅允许海外信用卡支付，不接受中港澳发行的信用卡，同时之前充值的余额也无法购买大陆和中港澳漫游流量。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314117&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Steam 年底前停售实体礼品卡，充值码仅限游戏消费</title>
-      <link>https://linux.do/t/topic/2314030</link>
-      <guid>linux.do-topic-2314030</guid>
-      <pubDate>Sat, 06 Jun 2026 02:53:24 GMT</pubDate>
-      <description>
-            &lt;p&gt;Valve 宣布将停售 Steam 实体礼品卡，现有库存售罄后不再补货，预计 2026 年底各零售渠道清空。同时官方强调，Steam 钱包充值码只能用于 Steam 平台购买游戏、软件、硬件及游戏内物品，不能用于现实世界的支付。&lt;/p&gt;
-&lt;p&gt;这一调整是打击利用礼品卡诈骗的持续措施之一。诈骗者常冒充机构要求受害者购买并提供充值码，导致资金难以追回。此前 Steam 已限制跨区兑换，未来数字礼品卡仍可购买但限制将不断加强。官方提醒用户勿向他人透露卡密。&lt;/p&gt;
-&lt;p&gt;IT之家&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.ithome.com/0/960/748.htm&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/5/e/15e4df14c1fe44ee791a2fcea415b65d6cd9d10f.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;DC5353&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.ithome.com/0/960/748.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;ithome.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.ithome.com/0/960/748.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Steam 加强打击诈骗：充值码仅限购买游戏类软硬件，实体礼品卡年底前停售 - IT之家&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;为应对日益增多的礼品卡诈骗，Steam 宣布实体礼品卡年底前停售，并强调充值码仅限购买游戏，不能用于支付税款等现实交易。官方提醒用户警惕任何要求用 Steam 礼品卡付款的行为。#Steam 反诈骗# #电信诈骗#&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2314030&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>一觉醒来，纳斯达克暴跌-4%，惨不忍睹</title>
-      <link>https://linux.do/t/topic/2313798</link>
-      <guid>linux.do-topic-2313798</guid>
-      <pubDate>Sat, 06 Jun 2026 01:51:13 GMT</pubDate>
-      <description>
-            &lt;p&gt;英伟达跌-6%，美光 -13%，英特尔 -11%，被黄仁勋金手指钦点的迈威尔暴跌 -16%，是不是因为SpaceX 快上市了&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;46 个帖子 - 41 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2313798&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>6.5日GPT Pro误封补偿:赠送一个月订阅</title>
-      <link>https://linux.do/t/topic/2313743</link>
-      <guid>linux.do-topic-2313743</guid>
-      <pubDate>Sat, 06 Jun 2026 01:35:48 GMT</pubDate>
-      <description>
-            &lt;p&gt;凌晨收到邮件，封一天送一个月，可以多来几次吗？ &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/rofl.png?v=15&quot; title=&quot;:rofl:&quot; class=&quot;emoji&quot; alt=&quot;:rofl:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/a/1/fa1a7fab2f938d408191ed0188ccbf2fbc447a93.jpeg&quot; data-download-href=&quot;/uploads/short-url/zGw8Jlbe3GHlP7ngVG8lJEs32Wn.jpeg?dl=1&quot; title=&quot;IMG_20260606_093109&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa1a7fab2f938d408191ed0188ccbf2fbc447a93_2_224x500.jpeg&quot; alt=&quot;IMG_20260606_093109&quot; data-base62-sha1=&quot;zGw8Jlbe3GHlP7ngVG8lJEs32Wn&quot; width=&quot;224&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa1a7fab2f938d408191ed0188ccbf2fbc447a93_2_224x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa1a7fab2f938d408191ed0188ccbf2fbc447a93_2_336x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/a/1/fa1a7fab2f938d408191ed0188ccbf2fbc447a93_2_448x1000.jpeg 2x&quot; data-dominant-color=&quot;E8E4E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2312097&quot;&gt;今天正价chatgpt被封确实是bug，已解开！（三编：ios订阅的没掉，卡付的掉free了）&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;68 个帖子 - 38 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2313743&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>NASA 确认 MAVEN 任务已经结束，卫星失连，无法恢复</title>
-      <link>https://linux.do/t/topic/2313735</link>
-      <guid>linux.do-topic-2313735</guid>
-      <pubDate>Sat, 06 Jun 2026 01:33:26 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/a/c/faca10d7115ec43e87c36b655a9bd6b8905eb86b.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;415796&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;NASA&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:600/365;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/1/1/b11fb6d88bf424dba97c8441aa48727de1dc4940_2_690x419.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;5E4B36&quot; width=&quot;690&quot; height=&quot;419&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today - NASA&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;br&gt;
-首个专门观测火星大气及其演化的任务——NASA的MAVEN（火星大气与挥发性演化）在火星轨道运行超过11年后结束，且比其主要任务一年后还晚了十年。航天器最后一次被听到是在12月6日，当时它在经过红色行星后方时出现了意外的信号丢失。&lt;/p&gt;
-&lt;p&gt;该机构于2月召开异常审查委员会，评估回收工作并评估航天器可能的当前状态。审查委员会认定MAVEN航天器不可回收，已无法执行科学和数据中继任务，这与任务团队的结论一致。&lt;/p&gt;
-&lt;p&gt;MAVEN在12月飞船穿越火星后方前的遥测数据显示所有子系统正常工作。航天器出现后，NASA深空网络（DSN）未观测到信号。DSN开环接收机记录的无线电信号分析中获得的简短遥测数据片段显示，航天器处于安全模式，且旋转速度异常高，显示MAVEN轨道轨迹受扰。审查委员会得出结论，由于旋转，航天器电池耗尽，导致通信系统断电，MAVEN处于无法恢复的状态。&lt;/p&gt;
-&lt;p&gt;这些初步发现未能解决异常的潜在根本原因，异常仍在调查中。审查委员会预计将在今年晚些时候提交最终报告。NASA已开始正式退役MAVEN任务的程序，按照标准程序为科学和探索界存档完整任务数据集。&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2313735&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>NASA发布空间站泄漏最新进展，宇航员现在可以继续工作 | June 5, 2026 6:01PM</title>
-      <link>https://linux.do/t/topic/2313717</link>
-      <guid>linux.do-topic-2313717</guid>
-      <pubDate>Sat, 06 Jun 2026 01:31:23 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.nasa.gov/blogs/spacestation/2026/06/05/nasa-provides-update-on-space-station-leak/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/a/c/faca10d7115ec43e87c36b655a9bd6b8905eb86b.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;415796&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.nasa.gov/blogs/spacestation/2026/06/05/nasa-provides-update-on-space-station-leak/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;NASA&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:600/400;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/d/8/5d85f38674e317817436536796b32dc5fecfbc2c_2_690x460.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;241D1A&quot; width=&quot;690&quot; height=&quot;460&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.nasa.gov/blogs/spacestation/2026/06/05/nasa-provides-update-on-space-station-leak/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;NASA Provides Update on Space Station Leak - NASA&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The Zvezda service module’s transfer tunnel, known as the&amp;nbsp;PrK,&amp;nbsp;on the&amp;nbsp;International Space Station&amp;nbsp;has experienced cracks&amp;nbsp;since 2019&amp;nbsp;that&amp;nbsp;have&amp;nbsp;resulted in&amp;nbsp;small atmosphere&amp;nbsp;leaks and&amp;nbsp;prompted&amp;nbsp;ongoing monitoring and repair efforts by Roscosmos.&amp;nbsp;NASA&amp;nbsp;and...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;国际空间站上的&quot;曙光&quot;服务舱转移隧道（PrK）自2019年以来出现裂缝，导致大气小规模泄漏，促使俄罗斯航天局持续监测和修复工作。NASA和俄罗斯联邦航天局（Roscosmos）合作找出根本原因，同时俄罗斯航天局也在实施包括临时和永久密封剂在内的泄漏缓解措施。&lt;/p&gt;
-&lt;p&gt;6月1日当周，在进步95号航天器货运作业期间，俄罗斯航天局注意到泄漏率从之前增加到每天两磅，并识别出PrK内新的疑似泄漏区域。在这一观察后，俄罗斯航天局决定于周五上午开始开展更全面的检查和结构修复工作。这一修正方法涉及切割支架以便更好地进入被识别为可能泄漏源的区域进行进一步检查，采用一种可能导致该区域建筑物风险增加的方法。作为回应，NASA指示四名SpaceX Crew-12成员和搭乘联盟MS-28飞船前往驻地的宇航员克里斯·威廉姆斯在操作过程中，在SpaceX龙飞船内采取更高的安全姿势，称为安全避风港。&lt;/p&gt;
-&lt;p&gt;周五上午晚些时候，俄罗斯航天局暂停了结构修复工作，转而进行额外的测量和数据评估，包括对疑似关注区域的检查以及对之前封闭剂施用区域的审查。NASA强烈支持该决定，因此，第12组和威廉姆斯结束了安全区活动，恢复了轨道实验室的正常运作。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.cbsnews.com/chicago/video/international-space-station-crew-shelters-inside-spacecraft-during-leak-repairs/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://www.cbsnews.com/chicago/video/international-space-station-crew-shelters-inside-spacecraft-during-leak-repairs/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;cbsnews.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/c/a/4ca3894b971bf65d0eab5b291003afa5ca993c57_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;656767&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.cbsnews.com/chicago/video/international-space-station-crew-shelters-inside-spacecraft-during-leak-repairs/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;International Space Station crew shelters inside spacecraft during leak repairs&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Out of an abundance of caution, NASA on Friday briefly directed five of the seven crew members aboard the International Space Station to wait inside the docked SpaceX Crew Dragon &quot;Freedom&quot; spacecraft — known as a &quot;safe haven&quot; — as two cosmonauts...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.bbc.com/news/live/c4g44ew3g1kt&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/5/8/1581ef918477b7716866b2361211a1b77d513f4a.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;3D0000&quot; width=&quot;36&quot; height=&quot;36&quot;&gt;
-
-      &lt;a href=&quot;https://www.bbc.com/news/live/c4g44ew3g1kt&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;BBC News&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/388;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/f/4/9f4277341fbaf570982aefab298efa34714b1987_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;5A5252&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.bbc.com/news/live/c4g44ew3g1kt&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Astronauts told to return to International Space Station after sheltering...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon &quot;Freedom&quot; spacecraft while two Russian cosmonauts attempted an urgent repair.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://edition.cnn.com/2026/06/05/world/video/ebof-astronaut-chris-cassidy-international-space-station-leak&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/3/2/7329b0ca1cf03f1e30df474864e5d45daee65301.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;D83333&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://edition.cnn.com/2026/06/05/world/video/ebof-astronaut-chris-cassidy-international-space-station-leak&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;11:49PM - 05 June 2026&quot;&gt;CNN – 5 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/388;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/0/a/d0a5ee27c1be2cf40144f3c1c5a30af0d0323b30_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;7B544F&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://edition.cnn.com/2026/06/05/world/video/ebof-astronaut-chris-cassidy-international-space-station-leak&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Astronaut who has dealt with Space Station leaks speaks to CNN | CNN&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Cracks and leaks on the International Space Station force astronauts to seek shelter on the dragon spacecraft. Erin Burnett talks to retired NASA astronaut Chris Cassidy, who went to the Space Station three times, about the safety risk.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/science/international-space-station-astronauts-evacuation-mode-russia-attempts-fix-2026-06-05/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.reuters.com/science/international-space-station-astronauts-evacuation-mode-russia-attempts-fix-2026-06-05/&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2313717&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>ChatGPT 现在会 做梦</title>
-      <link>https://linux.do/t/topic/2313705</link>
-      <guid>linux.do-topic-2313705</guid>
-      <pubDate>Sat, 06 Jun 2026 01:27:29 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a href=&quot;https://openai.com/index/chatgpt-memory-dreaming/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://openai.com/index/chatgpt-memory-dreaming/&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;如今，我们开始推出一套更强大、更具可扩展性的内存合成系统，旨在应对ChatGPT中数亿用户和多年时间视野中内存应用时所遇到的陈旧性、正确性和可扩展性挑战。&lt;/p&gt;
-&lt;p&gt;记忆帮助 ChatGPT 学习你的偏好、项目和限制，使未来的对话能够从共享的上下文开始，而非从零开始。&lt;/p&gt;
-&lt;p&gt;与保存的记忆不同，梦境利用了背景过程，使ChatGPT能够从多次对话中学习并综合ChatGPT的记忆状态，从而始终为你的对话提供最新鲜、最相关的上下文。做梦还让记忆更容易包含对话中自然出现的上下文，而不必依赖明确的请求去记忆某事。&lt;/p&gt;
-&lt;p&gt;在过去一年里，梦境补充了保存的记忆，使ChatGPT在个性化回应和消除记忆陈旧方面的能力有了阶梯函数式的提升。然而，历史上它从未作为独立的内存系统足够。&lt;/p&gt;
-&lt;p&gt;今天，我们推出了一种基于梦想构建的更强大且计算效率更高的内存架构。&lt;/p&gt;
-&lt;p&gt;通过梦境合成的记忆可以通过在记忆摘要页面中展示的摘要进行回顾。通过内存摘要，你可以快速了解ChatGPT对你的了解，添加或更新关于你的信息，并提供ChatGPT应提及哪些话题以及何时提出的指示。如果你想深入某个领域了解更多，只需与模特聊天即可。&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2313705&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>神经科学：你会认知疲劳</title>
-      <link>https://linux.do/t/topic/2313690</link>
-      <guid>linux.do-topic-2313690</guid>
-      <pubDate>Sat, 06 Jun 2026 01:20:54 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a href=&quot;https://www.inc.com/jeff-haden/neuroscience-says-feeling-exhausted-is-mostly-in-your-head/91354189&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.inc.com/jeff-haden/neuroscience-says-feeling-exhausted-is-mostly-in-your-head/91354189&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;我有时做12小时班时也发生过同样的情况。当我们上8小时班时，下午2点到4点的时间似乎很漫长，但当我们一直上班到晚上8点时，情况就不一样了。同样的两小时时间，但心理体验截然不同。&lt;/p&gt;
-&lt;p&gt;疲劳是相对的，因为疲劳既是身体上的，也是心理上的。根据发表在《神经科学杂志》上的一项研究，当你感到精神疲劳时，大脑有两个区域会被激活。（身体疲劳实际上就是精神上的疲劳。你的肌肉在疲惫时不会放弃。你的思维早已放弃;否则你不会停下来，直到身体崩溃。）&lt;/p&gt;
-&lt;p&gt;其中一个罪魁祸首是右岛叶，这是大脑深处与疲劳感相关的区域。另一个是背侧前额叶皮层，大脑两侧控制工作记忆的区域。所有这些方面协同作用，决定何时避免更多的认知努力：决定何时完成。&lt;/p&gt;
-&lt;h1&gt;&quot;我们的研究旨在诱发认知疲劳，观察人们在感到疲劳时努力选择的变化，同时识别大脑中做出这些决策的位置。&lt;/h1&gt;
-&lt;h1&gt;然而，认知疲劳的感知与人脑实际能力之间可能存在差异。&quot;&lt;/h1&gt;
-&lt;p&gt;接受激励措施。当参与者感到疲劳时，他们更可能选择放弃更高水平的奖励，以换取更多的努力。他们越疲惫，回报也越大。但只要有合适的回报，他们会，而且显然可以继续前进。&lt;/p&gt;
-&lt;p&gt;这很直观。决定放弃总是利益/奖励的决定。如果你在制作提案资料，除非你觉得值得：比如更多工作能带来明显更好的结果，或者演示的潜在结果足够好，否则你不会投入更多努力。你的大脑会权衡努力和结果。&lt;/p&gt;
-&lt;p&gt;即使你觉得累了，再跑五秒钟（相对来说）也算不了什么。&lt;/p&gt;
-&lt;p&gt;&quot;不停直到你倒下&quot;的测试则是另一回事。被困在自行车上，像仓鼠一样奔跑，心跳加速，双腿尖叫，不知道疼痛会持续多久？无止境的努力在身心上都极其消耗，这种组合让你更难突破自己认为的极限。&lt;/p&gt;
-&lt;p&gt;克服心理或身体疲劳的能力绝对是可以培养的特质。但从短期来看，如果你想继续前行，关键是找到理由，有意义的理由，坚持下去。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.jneurosci.org/content/45/24/e1612242025&quot; rel=&quot;noopener nofollow ugc&quot;&gt;认知疲劳的神经生物学及其对基于努力选择的影响 |神经科学杂志&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!Abstract]+&lt;/p&gt;
-&lt;p&gt;认知疲劳感是通过反复的精神消耗产生的，并且在我们的日常生活中无处不在。然而，目前对认知疲劳影响施加决策的神经生物学机制了解有限。我们使用功能性磁共振成像，参与者（18名女性，10名男性）选择在进行疲劳的认知活动前后进行努力以获得奖励。我们发现，当参与者感到认知疲劳时，他们更可能选择放弃更高水平的奖励，以换取更多的努力。我们描述了一种机制，这些与背外侧前额叶皮层认知活动相关的信号影响由岛叶执行的努力值计算，从而影响个体在疲劳时的活动决策。我们的结果表明，认知疲劳在是否付出努力的决策中起着关键作用，并通过机制联系认知状态的信息塑造基于努力的选择。&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2313690&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>奥特曼在恢复被ban的账户了</title>
-      <link>https://linux.do/t/topic/2313634</link>
-      <guid>linux.do-topic-2313634</guid>
-      <pubDate>Sat, 06 Jun 2026 01:02:08 GMT</pubDate>
-      <description>
-            &lt;p&gt;不知道有佬友被封的pro被解封？&lt;/p&gt;
-&lt;p&gt;原帖子：&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://status.openai.com/incidents/ejj40mae&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/f/d/ffd387cd43943429762d3ba35e5d3b289add71fd.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;C7C7C7&quot; width=&quot;96&quot; height=&quot;96&quot;&gt;
-
-      &lt;a href=&quot;https://status.openai.com/incidents/ejj40mae&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;OpenAI Status&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://status.openai.com/incidents/ejj40mae&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Some users may experience issues accessing OpenAI accounts - OpenAI Status&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The team is uncovering some additional impacted users and is still working through related subscription and credit impacts for affected users. Impacted users will be receiving an email shortly.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://status.openai.com/incidents/ejj40mae&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/f/d/ffd387cd43943429762d3ba35e5d3b289add71fd.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;C7C7C7&quot; width=&quot;96&quot; height=&quot;96&quot;&gt;
-
-      &lt;a href=&quot;https://status.openai.com/incidents/ejj40mae&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;OpenAI Status&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://status.openai.com/incidents/ejj40mae&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Some users may experience issues accessing OpenAI accounts - OpenAI Status&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The team is uncovering some additional impacted users and is still working through related subscription and credit impacts for affected users. Impacted users will be receiving an email shortly.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;原文：An issue caused some user accounts to be incorrectly suspended.&lt;/p&gt;
-&lt;p&gt;We’re restoring access and working through related subscription and credit issues.&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2313634&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
