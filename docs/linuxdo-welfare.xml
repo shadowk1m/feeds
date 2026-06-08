@@ -4,17 +4,273 @@
     <title>LINUX DO - Welfare</title>
     <link>https://linux.do/c/welfare/36</link>
     <description>Welfare category from linux.do</description>
-    <lastBuildDate>Mon, 08 Jun 2026 14:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 17:31:52 GMT</lastBuildDate>
     <item>
-      <title>新人报道，速薅bug羊毛，无限额度</title>
-      <link>https://linux.do/t/topic/2340146</link>
-      <guid>linux.do-topic-2340146</guid>
-      <pubDate>Mon, 08 Jun 2026 14:04:33 GMT</pubDate>
+      <title>白嫖一台三网优化VPS（剩余约20天，不知名厂商）</title>
+      <link>https://linux.do/t/topic/2342576</link>
+      <guid>linux.do-topic-2342576</guid>
+      <pubDate>Mon, 08 Jun 2026 16:47:01 GMT</pubDate>
       <description>
-            &lt;p&gt;&lt;a href=&quot;https://tk.magicovo.dpdns.org/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://tk.magicovo.dpdns.org/&lt;/a&gt;&lt;br&gt;
-sk-4d75c3e758fef2209394dbc3025082937dffc0589e1c5c6038d4f4e542e7db56&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2340146&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;**&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/trophy.png?v=15&quot; title=&quot;:trophy:&quot; class=&quot;emoji&quot; alt=&quot;:trophy:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 奖品详情：**&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;三网回程优化 KVM VPS × 1台，到期约2026年6月底，配置如下：&lt;/p&gt;
+&lt;p&gt;| 项目 | 规格 |&lt;/p&gt;
+&lt;p&gt;|------|------|&lt;/p&gt;
+&lt;p&gt;| CPU | Intel Xeon E5-2696 v4 × 4核 |&lt;/p&gt;
+&lt;p&gt;| 内存 | 7.8 GiB + 2G Swap |&lt;/p&gt;
+&lt;p&gt;| 硬盘 | 110 GB（/root 30G + /www 80G） |&lt;/p&gt;
+&lt;p&gt;| 系统 | Debian 12, BBR + fq 已开 |&lt;/p&gt;
+&lt;p&gt;| NAT | 全锥形 |&lt;/p&gt;
+&lt;p&gt;| 回程 | 电信 CN2 GIA / 联通 9929 / 移动 CMIN2 |&lt;/p&gt;
+&lt;p&gt;| 去程 | 电信方向走 CN2 |&lt;/p&gt;
+&lt;p&gt;| 带宽 | 实测约 75-82 Mbps |不限量&lt;/p&gt;
+&lt;p&gt;| 延迟 | 上海 ~130ms / 北京 ~155-178ms |&lt;/p&gt;
+&lt;p&gt;| 流媒体 | Netflix [HK] &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/white_check_mark.png?v=15&quot; title=&quot;:white_check_mark:&quot; class=&quot;emoji&quot; alt=&quot;:white_check_mark:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; Disney+ [HK] &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/white_check_mark.png?v=15&quot; title=&quot;:white_check_mark:&quot; class=&quot;emoji&quot; alt=&quot;:white_check_mark:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; YouTube [US] &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/white_check_mark.png?v=15&quot; title=&quot;:white_check_mark:&quot; class=&quot;emoji&quot; alt=&quot;:white_check_mark:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; Amazon PV [HK] &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/white_check_mark.png?v=15&quot; title=&quot;:white_check_mark:&quot; class=&quot;emoji&quot; alt=&quot;:white_check_mark:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; ChatGPT [US] &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/white_check_mark.png?v=15&quot; title=&quot;:white_check_mark:&quot; class=&quot;emoji&quot; alt=&quot;:white_check_mark:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; Gemini [US] &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/white_check_mark.png?v=15&quot; title=&quot;:white_check_mark:&quot; class=&quot;emoji&quot; alt=&quot;:white_check_mark:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; TikTok &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/warning.png?v=15&quot; title=&quot;:warning:&quot; class=&quot;emoji&quot; alt=&quot;:warning:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; |&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/4/7/a473b35ad12c137be58e2197c73c8956cb3cf97d.png&quot; data-download-href=&quot;/uploads/short-url/nsObWbnEw9GvmjQ32WhSC2Ncvp3.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/4/7/a473b35ad12c137be58e2197c73c8956cb3cf97d.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nsObWbnEw9GvmjQ32WhSC2Ncvp3&quot; width=&quot;690&quot; height=&quot;372&quot; data-dominant-color=&quot;F9F9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/0/8/208678a37458773d901a60897f41f30b37ed8d62.png&quot; data-download-href=&quot;/uploads/short-url/4DJnHOz2QsROBn0aBpIbp7Rdw4y.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/0/8/208678a37458773d901a60897f41f30b37ed8d62.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;4DJnHOz2QsROBn0aBpIbp7Rdw4y&quot; width=&quot;629&quot; height=&quot;500&quot; data-dominant-color=&quot;F8F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/f/2/4f29406d53e4bd4fcd69f13416fe9516dc0fd554.png&quot; data-download-href=&quot;/uploads/short-url/bii6i02KeMWOoSYhZG79b414hmc.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/f/2/4f29406d53e4bd4fcd69f13416fe9516dc0fd554.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bii6i02KeMWOoSYhZG79b414hmc&quot; width=&quot;689&quot; height=&quot;261&quot; data-dominant-color=&quot;EAEAEA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/c/6/ac64c0c848f9936e9b9e575d6ae194c268060864.png&quot; data-download-href=&quot;/uploads/short-url/oB3ZdlOBM97bY5sDWqJuT74q7ZO.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/c/6/ac64c0c848f9936e9b9e575d6ae194c268060864.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;oB3ZdlOBM97bY5sDWqJuT74q7ZO&quot; width=&quot;690&quot; height=&quot;439&quot; data-dominant-color=&quot;FBFBFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/f/8/8f8161dff658e35dea1ba32b8f35f074eaaa44bd.png&quot; data-download-href=&quot;/uploads/short-url/ktvtFPxNd5FRk89u2znLpEEza5T.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/8/f/8/8f8161dff658e35dea1ba32b8f35f074eaaa44bd.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ktvtFPxNd5FRk89u2znLpEEza5T&quot; width=&quot;689&quot; height=&quot;325&quot; data-dominant-color=&quot;F3F3F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;**&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/three_o_clock.png?v=15&quot; title=&quot;:three_o_clock:&quot; class=&quot;emoji&quot; alt=&quot;:three_o_clock:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 活动时间：**&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;开始时间：2026年6月9日 00:46&lt;/p&gt;
+&lt;p&gt;截止时间：2026年6月10日 00:46&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;**&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/memo.png?v=15&quot; title=&quot;:memo:&quot; class=&quot;emoji&quot; alt=&quot;:memo:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 参与方式：**&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在本帖下回复任意内容&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;**&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/magnifying_glass_tilted_left.png?v=15&quot; title=&quot;:magnifying_glass_tilted_left:&quot; class=&quot;emoji&quot; alt=&quot;:magnifying_glass_tilted_left:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 抽奖规则：**&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;每位用户仅允许参与一次。&lt;/p&gt;
+&lt;p&gt;使用[官方抽奖工具](&lt;a href=&quot;https://lottery.linux.do/&quot;&gt;https://lottery.linux.do/&lt;/a&gt;)随机抽取中奖者。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;**&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/warning.png?v=15&quot; title=&quot;:warning:&quot; class=&quot;emoji&quot; alt=&quot;:warning:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 注意事项：**&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;机器剩余时长约20天，适合短期用途、测试或体验三网优化线路玩玩，到期不续，以ip+密钥交付，禁止进行非法活动。&lt;/p&gt;
+&lt;p&gt;本活动将在截止时间后关闭回帖，以确保公正性。&lt;/p&gt;
+&lt;p&gt;中奖者将在活动结束后12小时内在本帖公布，并通过站内信通知领奖方式。&lt;/p&gt;
+&lt;p&gt;所有规则及抽奖结果由活动发起人和论坛[管理团队](/about)最终解释。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;**期待您的积极参与，祝您好运！如有任何疑问，欢迎随时联系抽奖发起人。**&lt;/strong&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2342576&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>gpt福利，一个账号（无）</title>
+      <link>https://linux.do/t/topic/2342512</link>
+      <guid>linux.do-topic-2342512</guid>
+      <pubDate>Mon, 08 Jun 2026 16:39:07 GMT</pubDate>
+      <description>
+            &lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;55 31 52 42 53 53 31 4d 52 46 4e 5a 4c 56 68 43 51 56 41 74 57 6b 78 51 4e 79 42 38 49 48 55 74 4e 32 55 79 4e 6a 6b 7a 4d 7a 46 6d 4d 7a 5a 68 59 6a 41 32 4e 30 42 7a 59 6d 46 30 62 53 35 7a 64 48 4a 68 64 47 46 70 64 47 64 73 62 32 4a 68 62 43 35 6a 62 32 30 67 66 43 44 6e 6d 62 76 6c 76 5a 58 6c 68 61 58 6c 6a 36 50 76 76 4a 70 6f 64 48 52 77 63 7a 6f 76 4c 32 4e 6f 59 58 52 6e 63 48 51 75 59 32 39 74 4c 32 46 31 64 47 67 76 62 47 39 6e 61 57 34 2f 63 33 4e 76 50 58 52 79 64 57 55 6d 59 32 39 75 62 6d 56 6a 64 47 6c 76 62 6a 31 6a 62 32 35 75 58 7a 41 78 53 31 52 4b 54 6b 5a 59 4f 54 49 33 52 54 59 78 56 44 6b 34 56 6c 68 4c 53 44 63 35 4f 55 52 4e 37 37 79 62 35 6f 6d 54 35 62 79 41 35 5a 43 4f 36 4c 36 54 35 59 57 6c 35 71 32 6b 49 45 4e 45 53 30 56 5a 49 4f 65 37 70 2b 65 37 72 65 65 5a 75 2b 57 39 6c 53 42 44 61 47 46 30 52 31 42 55 49 45 4a 31 63 32 6c 75 5a 58 4e 7a 37 37 79 62 35 70 79 4a 35 70 57 49 35 70 79 66 4d 7a 44 6c 70 4b 6e 76 76 49 7a 6f 68 36 72 70 70 70 62 6d 72 4b 48 6e 6d 62 76 6c 76 5a 58 6f 74 62 66 6e 72 70 66 76 76 4a 76 70 6f 70 33 6c 75 71 62 6b 75 36 55 67 51 32 68 68 64 45 64 51 56 43 42 43 64 58 4e 70 62 6d 56 7a 63 79 44 6c 72 70 6a 6d 6c 72 6e 70 6f 62 58 70 6e 61 4c 6c 72 70 37 6d 6c 37 62 6d 6d 4c 37 6e 70 4c 72 6b 75 4c 72 6c 68 34 62 76 76 4a 76 6f 72 37 66 6c 69 37 2f 6f 76 61 7a 6c 6a 35 48 6a 67 49 49 3d
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;已经被佬友领走&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2342512&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>（已过期）那个男人的cdk</title>
+      <link>https://linux.do/t/topic/2342263</link>
+      <guid>linux.do-topic-2342263</guid>
+      <pubDate>Mon, 08 Jun 2026 16:11:24 GMT</pubDate>
+      <description>
+            &lt;p&gt;之前领了没用，佬友看看还能不能兑换。&lt;/p&gt;
+&lt;p&gt;5906c37550170462efcd88511875f751&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2342263&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>【PT邀请】github难民，发馒头5个-没有了。</title>
+      <link>https://linux.do/t/topic/2342161</link>
+      <guid>linux.do-topic-2342161</guid>
+      <pubDate>Mon, 08 Jun 2026 16:00:26 GMT</pubDate>
+      <description>
+            &lt;p&gt;需要的留邮箱。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;仅下列邮件可使用&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Gmail(推荐)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;qq&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;foxmail&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a name=&quot;p-18831779-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18831779-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;新手考核&lt;/h3&gt;
+&lt;p&gt;为避免账号空置造成的服务器资源浪费，目前站点设置有新人考核。&lt;br&gt;
+新人考核的对象为所有新注册本站的会员（通过捐赠进站的VIP会员除外）。&lt;br&gt;
+现行考核标准如下（以下任意一项不达标即被视作考核不通过。新人考核不通过的，账号将被禁止。）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;注册未满30 天者，下载量超过10 GB 且分享率低于0.3 会立即被禁用帐号(没有5天宽限期)&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;上传量&gt; &lt;strong&gt;30G&lt;/strong&gt; (Upload &gt; &lt;strong&gt;30G&lt;/strong&gt; )&lt;/li&gt;
+&lt;li&gt;下载量&gt; &lt;strong&gt;15G&lt;/strong&gt; (Download &gt; &lt;strong&gt;15G&lt;/strong&gt; )&lt;/li&gt;
+&lt;li&gt;做种获得魔力值超过&lt;strong&gt;6000&lt;/strong&gt; (Bonus Point &gt; &lt;strong&gt;6000&lt;/strong&gt; )&lt;/li&gt;
+&lt;/ul&gt;
+            &lt;p&gt;&lt;small&gt;29 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2342161&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>500个bug team 佬友速蹬，sub2api格式</title>
+      <link>https://linux.do/t/topic/2342158</link>
+      <guid>linux.do-topic-2342158</guid>
+      <pubDate>Mon, 08 Jun 2026 15:59:58 GMT</pubDate>
+      <description>
+            &lt;p&gt;如题&lt;br&gt;
+速度蹬起&lt;br&gt;
+佬友们 晚安！&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/9tXqLClzu0XcJNlFvQIP04xK7cu.zip&quot;&gt;01.zip&lt;/a&gt; (181.0 KB)&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/rBw1mfNktYXAj9whOvjM3ORLS0K.zip&quot;&gt;02.zip&lt;/a&gt; (183.7 KB)&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/uue8QJGkaFst03mQFtXTDBiqXy2.zip&quot;&gt;03.zip&lt;/a&gt; (181.4 KB)&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/zcWXfKFBiuSnOBOatBimBy7aXo7.zip&quot;&gt;04.zip&lt;/a&gt; (181.5 KB)&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/z8scGkuPuR4Mmn0OSne7Vu4xNB2.zip&quot;&gt;05.zip&lt;/a&gt; (180.3 KB)&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/7RpSWVUyyuoCsmIbw9ihfPjuTqJ.zip&quot;&gt;06.zip&lt;/a&gt; (184.0 KB)&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/upemh6AAIFkkMQdhUkjPsMT96eH.zip&quot;&gt;07.zip&lt;/a&gt; (180.4 KB)&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/etqqMOLdqJ1M53D35WOVfRzL7dr.zip&quot;&gt;08.zip&lt;/a&gt; (181.9 KB)&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/mZ72lcoHC03TXgn0h5mhUlP6vkG.zip&quot;&gt;09.zip&lt;/a&gt; (181.4 KB)&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/t9gJG0Ig9Y2t6Ab973yyztetB50.zip&quot;&gt;10.zip&lt;/a&gt; (180.9 KB)&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2342158&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>无限team cpa格式</title>
+      <link>https://linux.do/t/topic/2341910</link>
+      <guid>linux.do-topic-2341910</guid>
+      <pubDate>Mon, 08 Jun 2026 15:42:11 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/xRFyGtcPercqY4arqXzlz9woJnc.zip&quot;&gt;20260608-230233-339502.zip&lt;/a&gt; (298.5 KB)&lt;/p&gt;
+&lt;p&gt;100个team，注册机跑的，先发100个，别手动注册了，直接导入吧&lt;/p&gt;
+&lt;p&gt;最新的的202个&lt;/p&gt;
+&lt;p&gt;9号1点09分&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/9NxgDBTXVllFukIGkN1nYaqUnGP.zip&quot;&gt;20260609-002846-821592.zip&lt;/a&gt; (621.8 KB)&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;31 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2341910&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>佬友福利 自用 GPT5.5 速蹬，公益开放 50个team plus</title>
+      <link>https://linux.do/t/topic/2341381</link>
+      <guid>linux.do-topic-2341381</guid>
+      <pubDate>Mon, 08 Jun 2026 15:02:56 GMT</pubDate>
+      <description>
+            &lt;p&gt;sk-1fb88aeb4c034290a42d93da2944a762e89129363e108fac7f091af600b9da7a&lt;br&gt;
+&lt;a href=&quot;https://sub2api.xn--tooken-r05j975h.top&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://sub2api.too去掉ken.top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;不要注册，因为没余额&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;20 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2341381&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>40个bug Team，分享给佬友们</title>
+      <link>https://linux.do/t/topic/2341359</link>
+      <guid>linux.do-topic-2341359</guid>
+      <pubDate>Mon, 08 Jun 2026 15:01:10 GMT</pubDate>
+      <description>
+            &lt;p&gt;用的分享的注册机跑的,两种格式都有,速蹬吧&lt;/p&gt;
+&lt;p&gt;sub2api&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/iKGtUv97eRCXnLTzkxdUGrJQ1UV.zip&quot;&gt;sub2api.zip&lt;/a&gt; (308.2 KB)&lt;/p&gt;
+&lt;p&gt;cpa&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/8z9WrilZ8BQScrqfB7iPqJ9AIkZ.zip&quot;&gt;cpa.zip&lt;/a&gt; (148.9 KB)&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2341359&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>助力OpenAi上市</title>
+      <link>https://linux.do/t/topic/2340652</link>
+      <guid>linux.do-topic-2340652</guid>
+      <pubDate>Mon, 08 Jun 2026 14:20:25 GMT</pubDate>
+      <description>
+            &lt;blockquote&gt;
+&lt;p&gt;url：&lt;a href=&quot;https://api.0301.fun/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://api.0301.fun/&lt;/a&gt;&lt;br&gt;
+sk-51b8182b842bf1bcbc635f7335671c93f4bfac5631f917e78c335ce0702cee25&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2340652&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>【抽奖】两个Google账号（越南区 + 一个半月Google AI Pro子号权限）</title>
+      <link>https://linux.do/t/topic/2340573</link>
+      <guid>linux.do-topic-2340573</guid>
+      <pubDate>Mon, 08 Jun 2026 14:18:17 GMT</pubDate>
+      <description>
+            &lt;p&gt;抽奖主题：两个Google账号（越南区 + 一个半月Google Pro子号权限）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/trophy.png?v=15&quot; title=&quot;:trophy:&quot; class=&quot;emoji&quot; alt=&quot;:trophy:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 奖品详情：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Google越南区账号 * 2&lt;br&gt;
+为Google Pro家庭组子号，可以使用Gemini Web APP&lt;br&gt;
+抽&lt;strong&gt;两个人&lt;/strong&gt;&lt;br&gt;
+每人各一号&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!warning]&lt;br&gt;
+为本人自购Google越南区小号&lt;br&gt;
+用途请自行摸索&lt;br&gt;
+举例: &lt;strong&gt;Gemini Web APP聊天，Flow网页生图，注册各种其他的SaaS平台&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;无任何质保&lt;/strong&gt;，google风控为谜，&lt;strong&gt;不建议&lt;/strong&gt;绑定真实支付方式，&lt;strong&gt;不建议&lt;/strong&gt;作为长期使用的主号&lt;br&gt;
+请作为&lt;strong&gt;小号&lt;/strong&gt;使用，风控或封号请&lt;strong&gt;不要&lt;/strong&gt;来找我，&lt;strong&gt;不保证&lt;/strong&gt;Antigravity和Gemini cli的使用&lt;br&gt;
+Google AI Pro的权限至下个月28日，你可以随时退出家庭组，但是会失去pro权限&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/three_o_clock.png?v=15&quot; title=&quot;:three_o_clock:&quot; class=&quot;emoji&quot; alt=&quot;:three_o_clock:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 活动时间：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;开始时间：&lt;span class=&quot;discourse-local-date&quot; data-date=&quot;2026-06-08&quot; data-email-preview=&quot;Mon, Jun 8, 2026 10:07 PM CST&quot; data-time=&quot;22:07:39&quot; data-timezone=&quot;Asia/Shanghai&quot;&gt;Mon, Jun 8, 2026 10:07 PM CST&lt;/span&gt;&lt;br&gt;
+截止时间：&lt;span class=&quot;discourse-local-date&quot; data-date=&quot;2026-06-09&quot; data-email-preview=&quot;Tue, Jun 9, 2026 10:30 PM CST&quot; data-time=&quot;22:30:46&quot; data-timezone=&quot;Asia/Shanghai&quot;&gt;Tue, Jun 9, 2026 10:30 PM CST&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/memo.png?v=15&quot; title=&quot;:memo:&quot; class=&quot;emoji&quot; alt=&quot;:memo:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 参与方式：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在本贴下回复任意内容即可参与。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!note]&lt;br&gt;
+但是发表回复之前,请阅读此帖↓&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;quote quote-modified&quot; data-post=&quot;1&quot; data-topic=&quot;1993635&quot;&gt;
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;div class=&quot;quote-controls&quot;&gt;&lt;/div&gt;
+    &lt;img alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot; src=&quot;https://cdn.ldstatic.com/user_avatar/linux.do/neo/48/12_2.png&quot; class=&quot;avatar&quot;&gt;
+    &lt;div class=&quot;quote-title__text-content&quot;&gt;
+      &lt;a href=&quot;https://linux.do/t/topic/1993635&quot;&gt;进一步优化对抽奖帖回复被举报的处理方式&lt;/a&gt; &lt;a class=&quot;badge-category__wrapper &quot; href=&quot;https://linux.do/c/feedback/2&quot;&gt;&lt;span data-category-id=&quot;2&quot; style=&quot;--category-badge-color: #808281; --category-badge-text-color: #000000;&quot; data-drop-close=&quot;true&quot; class=&quot;badge-category --style-icon &quot; title=&quot;有关此网站、其组织、运作方式以及如何改进的讨论。&quot;&gt;&lt;svg class=&quot;fa d-icon svg-icon svg-node&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg id=&quot;comments&quot; viewBox=&quot;0 0 640 512&quot;&gt;
+  &lt;path d=&quot;M208 352c114.9 0 208-78.8 208-176S322.9 0 208 0S0 78.8 0 176c0 38.6 14.7 74.3 39.6 103.4c-3.5 9.4-8.7 17.7-14.2 24.7c-4.8 6.2-9.7 11-13.3 14.3c-1.8 1.6-3.3 2.9-4.3 3.7c-.5 .4-.9 .7-1.1 .8l-.2 .2s0 0 0 0s0 0 0 0C1 327.2-1.4 334.4 .8 340.9S9.1 352 16 352c21.8 0 43.8-5.6 62.1-12.5c9.2-3.5 17.8-7.4 25.2-11.4C134.1 343.3 169.8 352 208 352zM448 176c0 112.3-99.1 196.9-216.5 207C255.8 457.4 336.4 512 432 512c38.2 0 73.9-8.7 104.7-23.9c7.5 4 16 7.9 25.2 11.4c18.3 6.9 40.3 12.5 62.1 12.5c6.9 0 13.1-4.5 15.2-11.1c2.1-6.6-.2-13.8-5.8-17.9c0 0 0 0 0 0s0 0 0 0l-.2-.2c-.2-.2-.6-.4-1.1-.8c-1-.8-2.5-2-4.3-3.7c-3.6-3.3-8.5-8.1-13.3-14.3c-5.5-7-10.7-15.4-14.2-24.7c24.9-29 39.6-64.7 39.6-103.4c0-92.8-84.9-168.9-192.6-175.5c.4 5.1 .6 10.3 .6 15.5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;&lt;/svg&gt;
+&lt;span class=&quot;badge-category__name&quot;&gt;运营反馈&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;blockquote&gt;
+    从&lt;a href=&quot;https://linux.do/t/topic/1992043&quot;&gt;我发现我几乎所有的发言都被举报了，最近论坛内的言论有点风声鹤唳啊&lt;/a&gt;继续讨论： 
+
+ &lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/e/8/5e80f9d9f205dc8a838777543814712b25771b5f.png&quot; data-download-href=&quot;/uploads/short-url/du1d8SSKI3n643WiF7SDFOeLAVp.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;[image]&lt;/a&gt; 
+虽然置顶公告和&lt;a href=&quot;https://linux.do/guidelines&quot;&gt;社区准则&lt;/a&gt;早就对举报异议做出了指引，但总有那不管不顾的非要跳出来直接发个帖子，大量占用公共资源。 
+&lt;a name=&quot;p-16881727-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-16881727-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;我们可以把情况分为两种：
+
+如果发帖人对举报异议不知情的，那么说明根本没看社区准则，可处理。
+如果发帖人对举报异议知情的，那么说明他根本不在乎社区准则，可处理。
+
+我这个人嘛，虽然在置顶…
+  &lt;/blockquote&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/magnifying_glass_tilted_left.png?v=15&quot; title=&quot;:magnifying_glass_tilted_left:&quot; class=&quot;emoji&quot; alt=&quot;:magnifying_glass_tilted_left:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 抽奖规则：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;每位用户仅允许参与一次。&lt;br&gt;
+将使用 &lt;a href=&quot;https://lottery.linux.do&quot;&gt;LINUX DO 抽奖工具&lt;/a&gt;在所有回复中随机抽取中奖者。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/warning.png?v=15&quot; title=&quot;:warning:&quot; class=&quot;emoji&quot; alt=&quot;:warning:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 注意事项：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本活动将在活动截止时间后关闭回帖，以确保公正性。&lt;br&gt;
+中奖者将在活动结束后在本帖公布，并通过论坛站内信由发起人通知领奖方式。&lt;br&gt;
+所有规则及抽奖结果由 &lt;a class=&quot;mention&quot; href=&quot;https://linux.do/u/wolke_wolke&quot;&gt;@Wolke_Wolke&lt;/a&gt; 及论坛&lt;a href=&quot;https://linux.do/about&quot;&gt;管理团队&lt;/a&gt;最终解释。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/shield.png?v=15&quot; title=&quot;:shield:&quot; class=&quot;emoji&quot; alt=&quot;:shield:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 发起人承诺：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;作为本次抽奖的发起人 &lt;a class=&quot;mention&quot; href=&quot;https://linux.do/u/wolke_wolke&quot;&gt;@Wolke_Wolke&lt;/a&gt;，我承诺本话题的抽奖活动严格遵守 &lt;a href=&quot;https://linux.do/t/topic/211016&quot;&gt;LINUX DO 社区抽奖规则&lt;/a&gt;。因违反上述规定引发的公平性争议或其他问题，均由我独立承担相应的道德与法律责任。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;期待您的积极参与，祝您好运！如有任何疑问，欢迎随时联系 &lt;a class=&quot;mention&quot; href=&quot;https://linux.do/u/wolke_wolke&quot;&gt;@Wolke_Wolke&lt;/a&gt; 或论坛&lt;a href=&quot;https://linux.do/about&quot;&gt;管理团队&lt;/a&gt;。&lt;/strong&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2340573&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>继续测试容器分发平台，送点免费的NAT容器(incus,podman)，有效期到7月8日</title>
+      <link>https://linux.do/t/topic/2340190</link>
+      <guid>linux.do-topic-2340190</guid>
+      <pubDate>Mon, 08 Jun 2026 14:05:55 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/7/5/1754778da1c6c28ef8ca8ac377460721c8437fd0.png&quot; data-download-href=&quot;/uploads/short-url/3knWZJuTTtnFkoQFuXjsyIs6xIk.png?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/7/5/1754778da1c6c28ef8ca8ac377460721c8437fd0.png&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;3knWZJuTTtnFkoQFuXjsyIs6xIk&quot; width=&quot;690&quot; height=&quot;246&quot; data-dominant-color=&quot;EAF8F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;平台地址：&lt;a href=&quot;https://beta.spiritlhl.net/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://beta.spiritlhl.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;源码开源地址：&lt;a href=&quot;https://github.com/oneclickvirt/oneclickvirt&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;GitHub - oneclickvirt/oneclickvirt: Universal Virtualization Management Platform 可扩展的通用虚拟化管理平台，支持 Proxmox VE / LXD (GPU) / Incus (GPU) / Docker / Podman / Containerd / Qemu / Kubevirt · GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎仓库点一个star免费支持&lt;/p&gt;
+&lt;p&gt;不要直接点首页的注册，直接点登录进入使用第三方登录注册使用Linuxdo的认证，默认公开注册已关闭&lt;/p&gt;
+&lt;p&gt;本次测试podman和incus类型的节点的分发和使用&lt;/p&gt;
+&lt;p&gt;后续会加个containerd的节点测试&lt;/p&gt;
+&lt;p&gt;开设的每个实例10个NAT的IPV4端口，无IPV6网络&lt;/p&gt;
+&lt;p&gt;没开放虚拟机，因为资源占用太重了，没大鸡鸡切虚拟机玩，仅限开容器&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;18 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2340190&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
@@ -25,7 +281,7 @@ sk-4d75c3e758fef2209394dbc3025082937dffc0589e1c5c6038d4f4e542e7db56&lt;/p&gt;
       <description>
             &lt;p&gt;bug team  *36 速蹬。格式： 邮箱----密码----rt----refresh_token&lt;/p&gt;
 &lt;p&gt;&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/ewVrIqIuG5OHu5igDXQEdRa4oWO.txt&quot;&gt;registered_only.txt&lt;/a&gt; (13.7 KB)&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2339891&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -50,7 +306,7 @@ sk-4d75c3e758fef2209394dbc3025082937dffc0589e1c5c6038d4f4e542e7db56&lt;/p&gt;
 做了映射 claude-opus-4-7 → gpt-5.5&lt;br&gt;
 base_url = “&lt;a href=&quot;https://www.coco888.dpdns.org/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.coco888.dpdns.org&lt;/a&gt;”&lt;/p&gt;
 &lt;p&gt;“OPENAI_API_KEY”: “sk-fbd203c3e29a621f3ae5bebf8533e7b18e9df264a03249f8158e9b0c65718e0b”&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2339042&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -115,263 +371,6 @@ base_url = “&lt;a href=&quot;https://www.coco888.dpdns.org/&quot; rel=&quot;no
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/2/a/e2a48c7e287109c3ec6595fbce475f8f974b09c0.jpeg&quot; data-download-href=&quot;/uploads/short-url/wkYs3pkfp5t2NjFTOP7nFnnGGgU.jpeg?dl=1&quot; title=&quot;614&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/2/a/e2a48c7e287109c3ec6595fbce475f8f974b09c0_2_225x500.jpeg&quot; alt=&quot;614&quot; data-base62-sha1=&quot;wkYs3pkfp5t2NjFTOP7nFnnGGgU&quot; width=&quot;225&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/2/a/e2a48c7e287109c3ec6595fbce475f8f974b09c0_2_225x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/2/a/e2a48c7e287109c3ec6595fbce475f8f974b09c0_2_337x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/2/a/e2a48c7e287109c3ec6595fbce475f8f974b09c0_2_450x1000.jpeg 2x&quot; data-dominant-color=&quot;EFF4F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;34 个帖子 - 30 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2333922&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>新人报道 10个team的sub 虽然没什么大福利，各位佬别介意 第一次发帖</title>
-      <link>https://linux.do/t/topic/2333441</link>
-      <guid>linux.do-topic-2333441</guid>
-      <pubDate>Mon, 08 Jun 2026 08:05:01 GMT</pubDate>
-      <description>
-            &lt;p&gt;废话不多说 直接上干货&lt;br&gt;
-&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/3YZBkRjlFOux8zubVN4zX0EIRf2.txt&quot;&gt;10_team.txt&lt;/a&gt; (53.1 KB)&lt;br&gt;
-各位佬自己转一下格式吧 我好像没法上传json 后缀改一下就行&lt;/p&gt;
-&lt;p&gt;可能有好多人不会用 &lt;a href=&quot;https://noh.oohasdd.top&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://noh.oohasdd.top&lt;/a&gt;&lt;br&gt;
-sk-a9e76d50491450a01c302b7182e3aea4e24477ef8b0f608aced9fa5a6bc3a663 大概有一些额度 用cc的话应该可以 里面有一些号已经不行了 大家抓紧哟 没加什么别的限制&lt;br&gt;
-不用登录就能用哈 直接在cc里面设置一下就可以&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2333441&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>一个商用项目上拆解下来的智能体创作系统框架，分享给大家</title>
-      <link>https://linux.do/t/topic/2331946</link>
-      <guid>linux.do-topic-2331946</guid>
-      <pubDate>Mon, 08 Jun 2026 07:06:55 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/fAgsDrKdY2cffF5w6VHkwhtx1O.zip&quot;&gt;AIGC多智能体创作系统_架构拆解_2026-06-04.md.zip&lt;/a&gt; (5.6 KB)&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2331946&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>[西瓜狗公益] 已结束兑换</title>
-      <link>https://linux.do/t/topic/2331323</link>
-      <guid>linux.do-topic-2331323</guid>
-      <pubDate>Mon, 08 Jun 2026 06:44:39 GMT</pubDate>
-      <description>
-            &lt;h4&gt;&lt;a name=&quot;p-18791243-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18791243-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;本帖使用社区公益推广，符合推广要求。我申明并遵循社区要求的以下内容：&lt;/strong&gt;&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;我的项目是免费使用的，无收费（变相收费、赞助）部分：&lt;/strong&gt; 是&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我的帖子已经打上 &lt;code&gt;#公益推广&lt;/code&gt; 标签：&lt;/strong&gt; 是&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我的项目属于个人项目，与公司或商业机构无关：&lt;/strong&gt; 是&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我的项目不存在 QQ、TG 等群组引流：&lt;/strong&gt; 是&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我的项目不存在非运营必要的网站引流：&lt;/strong&gt; 是&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我的项目不存在为他人推广、AFF：&lt;/strong&gt; 是&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我的项目无关联的商业项目：&lt;/strong&gt; 是&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我的站点存在登录，并已接入 LINUX DO Connect：&lt;/strong&gt; 是&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我帖子内的项目介绍，AI 生成、润色内容部分已截图发出：&lt;/strong&gt; 是&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;以上选择我承诺是永久有效的，接受社区和佬友监督：&lt;/strong&gt; 是&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/6/3/763d0e8a5918887d2878c3fb4352c4f27082da52.png&quot; data-download-href=&quot;/uploads/short-url/gRZ9CcNnAKsjsedJBeHIZwZj9YK.png?dl=1&quot; title=&quot;QQ20260608-150224&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/6/3/763d0e8a5918887d2878c3fb4352c4f27082da52_2_690x321.png&quot; alt=&quot;QQ20260608-150224&quot; data-base62-sha1=&quot;gRZ9CcNnAKsjsedJBeHIZwZj9YK&quot; width=&quot;690&quot; height=&quot;321&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/6/3/763d0e8a5918887d2878c3fb4352c4f27082da52_2_690x321.png, https://cdn3.ldstatic.com/optimized/4X/7/6/3/763d0e8a5918887d2878c3fb4352c4f27082da52_2_1035x481.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/6/3/763d0e8a5918887d2878c3fb4352c4f27082da52_2_1380x642.png 2x&quot; data-dominant-color=&quot;EAF4F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18791243-h-2&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18791243-h-2&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;彻底疯狂&lt;/h2&gt;
-&lt;p&gt;有人说我这个公益 等这波风头过去 会中断&lt;br&gt;
-我在此回应一下&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18791243-h-3&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18791243-h-3&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;不会 永远不会&lt;/h2&gt;
-&lt;p&gt;会上点其他的模型 后续大家可以自测&lt;/p&gt;
-&lt;p&gt;这个模型ID后续我会隐藏 不会透露 但是并不比国内外的模型差&lt;br&gt;
-晚点点上线 大家可以尝试一下 我会单开一个分组&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;126 个帖子 - 102 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2331323&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>新人刚来，没什么拿得出手的，抽个闲置的GLM Lite订阅</title>
-      <link>https://linux.do/t/topic/2330226</link>
-      <guid>linux.do-topic-2330226</guid>
-      <pubDate>Mon, 08 Jun 2026 06:14:12 GMT</pubDate>
-      <description>
-            &lt;p&gt;抽奖主题： [闲置的GLM Lite订阅，还有两月到期]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/trophy.png?v=15&quot; title=&quot;:trophy:&quot; class=&quot;emoji&quot; alt=&quot;:trophy:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 奖品详情：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;[GLM Lite订阅]：[提供API KEY,有效期到2026.7.24]&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/7/2/272589450904710e58be5a9efcc43115ee1e8474.jpeg&quot; data-download-href=&quot;/uploads/short-url/5Aj2CCEnUZYaPxS1IXUQZRXWEug.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/2/272589450904710e58be5a9efcc43115ee1e8474_2_690x482.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5Aj2CCEnUZYaPxS1IXUQZRXWEug&quot; width=&quot;690&quot; height=&quot;482&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/2/272589450904710e58be5a9efcc43115ee1e8474_2_690x482.jpeg, https://cdn3.ldstatic.com/original/4X/2/7/2/272589450904710e58be5a9efcc43115ee1e8474.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/2/7/2/272589450904710e58be5a9efcc43115ee1e8474.jpeg 2x&quot; data-dominant-color=&quot;F8F8F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/three_o_clock.png?v=15&quot; title=&quot;:three_o_clock:&quot; class=&quot;emoji&quot; alt=&quot;:three_o_clock:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 活动时间：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;开始时间：[2026-06-08 14:00]&lt;br&gt;
-截止时间：[2026-06-08 15:00]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/memo.png?v=15&quot; title=&quot;:memo:&quot; class=&quot;emoji&quot; alt=&quot;:memo:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 参与方式：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在本帖下回复任意内容。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/magnifying_glass_tilted_left.png?v=15&quot; title=&quot;:magnifying_glass_tilted_left:&quot; class=&quot;emoji&quot; alt=&quot;:magnifying_glass_tilted_left:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 抽奖规则：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;每位用户仅允许参与一次。&lt;br&gt;
-使用&lt;a href=&quot;https://lottery.linux.do/&quot;&gt;官方抽奖工具&lt;/a&gt;随机抽取中奖者。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/warning.png?v=15&quot; title=&quot;:warning:&quot; class=&quot;emoji&quot; alt=&quot;:warning:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 注意事项：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本活动将在活动截止时间后关闭回帖，以确保公正性。&lt;br&gt;
-中奖者将在活动结束后12小时内在本帖公布，并通过私信通知领奖方式。&lt;br&gt;
-所有规则及抽奖结果由活动发起人和论坛&lt;a href=&quot;https://linux.do/about&quot;&gt;管理团队&lt;/a&gt;最终解释。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;期待您的积极参与，祝您好运！如有任何疑问，欢迎随时联系抽奖发起人。&lt;/strong&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2330226&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>最后送几个voxi优惠码，别浪费（用完了，用完不回下次不送了）</title>
-      <link>https://linux.do/t/topic/2329478</link>
-      <guid>linux.do-topic-2329478</guid>
-      <pubDate>Mon, 08 Jun 2026 05:50:13 GMT</pubDate>
-      <description>
-            &lt;p&gt;用了吱个声&lt;/p&gt;
-&lt;p&gt;SB268YR&amp;6F&amp;P&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.voxi.co.uk/acquisition/plans?planId=122547&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898163_5885ab037795ed2278a98d91e53d4ed2&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/f/f/1ffb1f5d6b5bd3df7dc28c1ed6df3052d81421c8.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;3C3A37&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.voxi.co.uk/acquisition/plans?planId=122547&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898163_5885ab037795ed2278a98d91e53d4ed2&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;voxi.co.uk&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/1/6/7160ec9311b3997ceb05a2d8927a99855ef6e17a_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;2F2B26&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.voxi.co.uk/acquisition/plans?planId=122547&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898163_5885ab037795ed2278a98d91e53d4ed2&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Checkout | VOXI Mobile&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Unlimited Social Media without eating your data. No contracts. And stay in touch wherever you are with our 30-day rolling SIM only deals.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;SB260&amp;JZ6DJI&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.voxi.co.uk/acquisition/plans?planId=121301&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898166_e68672896d02d88dbd261e1aa47c0cec&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/f/f/1ffb1f5d6b5bd3df7dc28c1ed6df3052d81421c8.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;3C3A37&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.voxi.co.uk/acquisition/plans?planId=121301&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898166_e68672896d02d88dbd261e1aa47c0cec&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;voxi.co.uk&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/1/6/7160ec9311b3997ceb05a2d8927a99855ef6e17a_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;2F2B26&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.voxi.co.uk/acquisition/plans?planId=121301&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898166_e68672896d02d88dbd261e1aa47c0cec&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Checkout | VOXI Mobile&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Unlimited Social Media without eating your data. No contracts. And stay in touch wherever you are with our 30-day rolling SIM only deals.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;SB26W6Z1JXOW&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.voxi.co.uk/acquisition/plans?planId=121299&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898168_0b0308dfc164e946bc2fc4651100517f&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/f/f/1ffb1f5d6b5bd3df7dc28c1ed6df3052d81421c8.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;3C3A37&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.voxi.co.uk/acquisition/plans?planId=121299&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898168_0b0308dfc164e946bc2fc4651100517f&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;voxi.co.uk&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/1/6/7160ec9311b3997ceb05a2d8927a99855ef6e17a_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;2F2B26&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.voxi.co.uk/acquisition/plans?planId=121299&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898168_0b0308dfc164e946bc2fc4651100517f&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Checkout | VOXI Mobile&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Unlimited Social Media without eating your data. No contracts. And stay in touch wherever you are with our 30-day rolling SIM only deals.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;SB268&amp;89F5PN&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.voxi.co.uk/acquisition/plans?planId=121298&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898171_413eca9bae1b63fe8287b45574ae64ff&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/f/f/1ffb1f5d6b5bd3df7dc28c1ed6df3052d81421c8.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;3C3A37&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.voxi.co.uk/acquisition/plans?planId=121298&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898171_413eca9bae1b63fe8287b45574ae64ff&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;voxi.co.uk&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/1/6/7160ec9311b3997ceb05a2d8927a99855ef6e17a_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;2F2B26&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.voxi.co.uk/acquisition/plans?planId=121298&amp;cid=aff-UK_20_7_P_X_A_J_D_VOXI_BAU_Drive_Pion+%28Student+Beans%29_Native_PAYG-FSIM_NA_NA_BAU_NA_NA_NA__10951_61664&amp;affid=61664&amp;vfadid=10951_61664&amp;sv1=affiliate&amp;sv_campaign_id=61664&amp;awc=10951_1780898171_413eca9bae1b63fe8287b45574ae64ff&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Checkout | VOXI Mobile&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Unlimited Social Media without eating your data. No contracts. And stay in touch wherever you are with our 30-day rolling SIM only deals.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;17 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2329478&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>移动一分钱撸爱奇艺月卡</title>
-      <link>https://linux.do/t/topic/2329063</link>
-      <guid>linux.do-topic-2329063</guid>
-      <pubDate>Mon, 08 Jun 2026 05:34:08 GMT</pubDate>
-      <description>
-            &lt;p&gt;移动一分钱撸爱奇艺月卡，&lt;br&gt;
-开通，首月一分钱，&lt;br&gt;
-会员到账然后去移动app已订业务里取消这个业务，&lt;br&gt;
-下月不扣费，&lt;br&gt;
-少部分省份地区开不了，进去规则说明里有&lt;/p&gt;
-&lt;p&gt;速度&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://dev.coc.10086.cn/coc/web2/shunt/?pageId=2034174950267707392&amp;channelId=P00000141593&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://dev.coc.10086.cn/coc/web … nnelId=P00000141593&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;直达链接订购失败的，&lt;br&gt;
-直接去爱奇艺订购，&lt;/p&gt;
-&lt;p&gt;在爱奇艺自己找的话是&lt;/p&gt;
-&lt;p&gt;我的→会员那里→往下翻→中国移动一分钱&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2329063&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>opencode go订阅</title>
-      <link>https://linux.do/t/topic/2328279</link>
-      <guid>linux.do-topic-2328279</guid>
-      <pubDate>Mon, 08 Jun 2026 04:56:31 GMT</pubDate>
-      <description>
-            &lt;p&gt;还有5h到期&lt;br&gt;
-api地址:&lt;a href=&quot;https://opencode.ai/zen/go/v1/chat/completions&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://opencode.ai/zen/go/v1/chat/completions&lt;/a&gt;&lt;br&gt;
-apikey:sk-ILQsT49RjuxXAVpfIU0VDcCL5hQz0lgBcV3BgYD6uM6MJEwr315tM8ZKCiHJMWrq&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2328279&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【已蹬完】opencode go套餐还有24h到期</title>
-      <link>https://linux.do/t/topic/2328153</link>
-      <guid>linux.do-topic-2328153</guid>
-      <pubDate>Mon, 08 Jun 2026 04:49:22 GMT</pubDate>
-      <description>
-            &lt;p&gt;有需要的可以直接用BASEURL:&lt;a href=&quot;https://opencode.ai/zen/go/v1/chat/completions&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://opencode.ai/zen/go/v1/chat/completions&lt;/a&gt; APIKEY:sk-UtoeJXSM0Y1A9lG3LwxiTDNbPiqeA5CqXgtu1rO2WcjeN5DzUB0VmqRJqdDHdYKk&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2328153&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>（已无）5张glm 7天体验卡</title>
-      <link>https://linux.do/t/topic/2326684</link>
-      <guid>linux.do-topic-2326684</guid>
-      <pubDate>Mon, 08 Jun 2026 02:52:01 GMT</pubDate>
-      <description>
-            &lt;p&gt;我在使用GLM Coding Plan，数小时内完成过去需要数周的开发工作，赠送你1张7天AI Coding体验卡，一起来用吧：&lt;a href=&quot;https://www.bigmodel.cn/activity/trial-card/JUSYMPGXOB&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;智谱AI开放平台&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2326684&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
