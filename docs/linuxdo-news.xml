@@ -4,7 +4,281 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Tue, 09 Jun 2026 05:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:58:10 GMT</lastBuildDate>
+    <item>
+      <title>研究个人基因组序列到功能预测的可扩展方法</title>
+      <link>https://linux.do/t/topic/2352359</link>
+      <guid>linux.do-topic-2352359</guid>
+      <pubDate>Tue, 09 Jun 2026 08:39:42 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41592-026-03124-8&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/s41592-026-03124-8&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract]+&lt;/p&gt;
+&lt;p&gt;序列到功能（S2F）模型可以评估任意DNA序列，但它们难以全面捕捉个体间基因表达的差异。我们提出了SAGE-net，一个可扩展的框架，用于利用个人基因组训练和评估S2F模型。虽然个人基因组训练提高了对未纳入研究的个体的基因表达预测准确性，但性能提升主要来源于识别预测性变异，而非学习跨位点泛化的顺式调控语法。可扩展的软件对于推进S2F模型在个人基因组学领域的应用至关重要。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox githubrepo&quot; data-onebox-src=&quot;https://github.com/mostafavilabuw/SAGEnet&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://github.com/mostafavilabuw/SAGEnet&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;github.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;github-row&quot; data-github-private-repo=&quot;false&quot;&gt;
+  &lt;img width=&quot;690&quot; height=&quot;344&quot; src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/2/f/e2fa4ab4f150dc0d3afb04e9217d2ca4311cb727_2_690x344.png&quot; class=&quot;thumbnail&quot; data-dominant-color=&quot;F5F1EF&quot;&gt;
+
+  &lt;h3&gt;&lt;a href=&quot;https://github.com/mostafavilabuw/SAGEnet&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;GitHub - mostafavilabuw/SAGEnet&lt;/a&gt;&lt;/h3&gt;
+
+    &lt;p&gt;&lt;span class=&quot;github-repo-description&quot;&gt;通过在 GitHub 上创建帐户来为 mostafavilabuw/SAGEnet 开发做出贡献。&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2352359&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>研究人员首次公布果蝇大脑和 &quot;脊髓 &quot;的完整连接组</title>
+      <link>https://linux.do/t/topic/2352345</link>
+      <guid>linux.do-topic-2352345</guid>
+      <pubDate>Tue, 09 Jun 2026 08:38:50 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://hms.harvard.edu/news/researchers-publish-first-complete-connectome-fruit-fly-brain-spinal-cord&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://hms.harvard.edu/news/researchers-publish-first-complete-connectome-fruit-fly-brain-spinal-cord&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;由哈佛大学医学院和普林斯顿大学多个实验室领导的一个大型国际团队首次公布了成年果蝇中枢神经系统神经元之间所有连接的完整线路图。&lt;/p&gt;
+&lt;p&gt;这项工作发表在6月8日的《自然》杂志上，使研究人员能够开始研究大脑和身体是如何相互作用来完成行走和飞行等复杂行为的。它还有助于深入研究神经系统工作的基本原理。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-026-10735-w&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/s41586-026-10735-w&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;正如基因组彻底改变了分子遗传学一样，连接组（神经元和突触的图谱）正在变革神经科学。迄今为止，拥有完整连接组的生物只有线虫&lt;sup&gt;1-3&lt;/sup&gt;、海鞘&lt;sup&gt;4&lt;/sup&gt;和栉水母&lt;sup&gt;5&lt;/sup&gt;（10&lt;sup&gt;3&lt;/sup&gt;-10&lt;sup&gt;4&lt;/sup&gt;个突触）。相比之下，果蝇的连接组更为复杂（10&lt;sup&gt;8&lt;/sup&gt;个突触连接），其大脑支持学习和空间记忆&lt;sup&gt;6,7&lt;/sup&gt;，并拥有类似于脊椎动物脊髓的复杂腹神经索&lt;sup&gt;8-12&lt;/sup&gt;。本文报道了首个高密度重建的成虫果蝇连接组，该连接组连接了大脑和腹神经索，并利用这一资源研究了神经控制的原理。我们发现，效应神经元（运动神经元、内分泌细胞和靶向内脏的传出神经元）主要受同一身体部位的感觉神经元的影响，从而形成局部反馈回路。这些局部环路通过长程回路连接，这些回路包含上行和下行神经元，并组织成以行为为中心的模块。单个上行和下行神经元通常位于能够影响多个身体部位自主运动的位置，并与支持这些运动的内分泌细胞或内脏器官协同作用。参与学习和导航的大脑区域负责监督这些回路。这些结果揭示了一种分布式、并行化和具身化的架构，类似于工程系统中的分布式控制架构&lt;sup&gt;13,14&lt;/sup&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2352345&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>瑞幸官方出了cli-mcp-skill-让ai学会点咖啡</title>
+      <link>https://linux.do/t/topic/2352083</link>
+      <guid>linux.do-topic-2352083</guid>
+      <pubDate>Tue, 09 Jun 2026 08:22:40 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/9/c/89c846cb265958c9bdcb383a2aa621eca8a68ca7.jpeg&quot; data-download-href=&quot;/uploads/short-url/jESvfcirq2cVvS04pndoRokKzgH.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/c/89c846cb265958c9bdcb383a2aa621eca8a68ca7_2_690x434.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;jESvfcirq2cVvS04pndoRokKzgH&quot; width=&quot;690&quot; height=&quot;434&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/c/89c846cb265958c9bdcb383a2aa621eca8a68ca7_2_690x434.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/9/c/89c846cb265958c9bdcb383a2aa621eca8a68ca7_2_1035x651.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/9/c/89c846cb265958c9bdcb383a2aa621eca8a68ca7_2_1380x868.jpeg 2x&quot; data-dominant-color=&quot;242631&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/c/f/ccf3faea789617a26725e42626eaf70f00e9f891.png&quot; data-download-href=&quot;/uploads/short-url/tf67ZV0hEWdD9tJSajJXFSCoFGx.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/c/f/ccf3faea789617a26725e42626eaf70f00e9f891_2_690x193.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tf67ZV0hEWdD9tJSajJXFSCoFGx&quot; width=&quot;690&quot; height=&quot;193&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/c/f/ccf3faea789617a26725e42626eaf70f00e9f891_2_690x193.png, https://cdn3.ldstatic.com/optimized/4X/c/c/f/ccf3faea789617a26725e42626eaf70f00e9f891_2_1035x289.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/c/f/ccf3faea789617a26725e42626eaf70f00e9f891_2_1380x386.png 2x&quot; data-dominant-color=&quot;F9F9FA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://open.lkcoffee.com/cli&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://open.lkcoffee.com/cli&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;open.lkcoffee.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://open.lkcoffee.com/cli&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;瑞幸咖啡AI开放平台&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;瑞幸咖啡AI开放平台，服务面向 AI Agent、智能应用与业务协作场景，提供标准化 MCP Server、CLI 与 Skill 能力，帮助用户便捷接入瑞幸开放服务，构建更智能的咖啡消费与业务协作体验。&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;19 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2352083&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>【周回顾】基于AI的过去两周新闻分析（0531-0606）</title>
+      <link>https://linux.do/t/topic/2352047</link>
+      <guid>linux.do-topic-2352047</guid>
+      <pubDate>Tue, 09 Jun 2026 08:20:11 GMT</pubDate>
+      <description>
+            &lt;p&gt;新闻源：BBC NEWS 中文、FT中文网、法广RFI、36氪、虎嗅、爱范儿、少数派、人民日报、求是网、21世纪经济报道、央视新闻等&lt;br&gt;
+由AI对一天的新闻进行汇总分析，一周后再由AI分析一周的新闻并给出报告&lt;br&gt;
+时间范围：2026-05-31 ~ 2026-06-06&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/6/2/0624f6c6ef91a5bb704500ba45a4245aa0bdc79a.png&quot; data-download-href=&quot;/uploads/short-url/Sm3HKMmPAknOmVzlijumQdyqyS.png?dl=1&quot; title=&quot;屏幕截图 2026-06-09 161633&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/6/2/0624f6c6ef91a5bb704500ba45a4245aa0bdc79a_2_690x385.png&quot; alt=&quot;屏幕截图 2026-06-09 161633&quot; data-base62-sha1=&quot;Sm3HKMmPAknOmVzlijumQdyqyS&quot; width=&quot;690&quot; height=&quot;385&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/6/2/0624f6c6ef91a5bb704500ba45a4245aa0bdc79a_2_690x385.png, https://cdn3.ldstatic.com/optimized/4X/0/6/2/0624f6c6ef91a5bb704500ba45a4245aa0bdc79a_2_1035x577.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/6/2/0624f6c6ef91a5bb704500ba45a4245aa0bdc79a_2_1380x770.png 2x&quot; data-dominant-color=&quot;EBEBEB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/3/a/a3a2868796a23aceac22a73f05f00b552c4b290b.jpeg&quot; data-download-href=&quot;/uploads/short-url/nlA2i87yPu1pYB1BGLOrEJZoG1R.jpeg?dl=1&quot; title=&quot;屏幕截图 2026-06-09 161646&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/3/a/a3a2868796a23aceac22a73f05f00b552c4b290b_2_524x500.jpeg&quot; alt=&quot;屏幕截图 2026-06-09 161646&quot; data-base62-sha1=&quot;nlA2i87yPu1pYB1BGLOrEJZoG1R&quot; width=&quot;524&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/3/a/a3a2868796a23aceac22a73f05f00b552c4b290b_2_524x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/3/a/a3a2868796a23aceac22a73f05f00b552c4b290b_2_786x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/3/a/a3a2868796a23aceac22a73f05f00b552c4b290b_2_1048x1000.jpeg 2x&quot; data-dominant-color=&quot;E6E6E6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/e/5/8e56ea2adeb66c0a7663b811b79d6d6c58264a56.png&quot; data-download-href=&quot;/uploads/short-url/kjc0UBsWQyRYBjINmAmrMnPolsG.png?dl=1&quot; title=&quot;屏幕截图 2026-06-09 161654&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/5/8e56ea2adeb66c0a7663b811b79d6d6c58264a56_2_690x456.png&quot; alt=&quot;屏幕截图 2026-06-09 161654&quot; data-base62-sha1=&quot;kjc0UBsWQyRYBjINmAmrMnPolsG&quot; width=&quot;690&quot; height=&quot;456&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/5/8e56ea2adeb66c0a7663b811b79d6d6c58264a56_2_690x456.png, https://cdn3.ldstatic.com/optimized/4X/8/e/5/8e56ea2adeb66c0a7663b811b79d6d6c58264a56_2_1035x684.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/e/5/8e56ea2adeb66c0a7663b811b79d6d6c58264a56_2_1380x912.png 2x&quot; data-dominant-color=&quot;E2E2E2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/7/7/6771a11f23b721f254ded2dd59a0434fa7f75f40.png&quot; data-download-href=&quot;/uploads/short-url/eL6D0XMUrlPKtVbdvSloRpCGTtK.png?dl=1&quot; title=&quot;屏幕截图 2026-06-09 161705&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/7/7/6771a11f23b721f254ded2dd59a0434fa7f75f40_2_678x500.png&quot; alt=&quot;屏幕截图 2026-06-09 161705&quot; data-base62-sha1=&quot;eL6D0XMUrlPKtVbdvSloRpCGTtK&quot; width=&quot;678&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/7/7/6771a11f23b721f254ded2dd59a0434fa7f75f40_2_678x500.png, https://cdn3.ldstatic.com/optimized/4X/6/7/7/6771a11f23b721f254ded2dd59a0434fa7f75f40_2_1017x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/7/7/6771a11f23b721f254ded2dd59a0434fa7f75f40_2_1356x1000.png 2x&quot; data-dominant-color=&quot;E8E8E7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/0/4/a04e0941e96a787679531ab8a41277aac1c3058b.png&quot; data-download-href=&quot;/uploads/short-url/mS7AolftQkFGkkVRBTvCsSFMU5B.png?dl=1&quot; title=&quot;屏幕截图 2026-06-09 161718&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/0/4/a04e0941e96a787679531ab8a41277aac1c3058b_2_396x500.png&quot; alt=&quot;屏幕截图 2026-06-09 161718&quot; data-base62-sha1=&quot;mS7AolftQkFGkkVRBTvCsSFMU5B&quot; width=&quot;396&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/0/4/a04e0941e96a787679531ab8a41277aac1c3058b_2_396x500.png, https://cdn3.ldstatic.com/optimized/4X/a/0/4/a04e0941e96a787679531ab8a41277aac1c3058b_2_594x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/0/4/a04e0941e96a787679531ab8a41277aac1c3058b_2_792x1000.png 2x&quot; data-dominant-color=&quot;F1F0F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/c/e/fcea4767630f1293bbefa0a78f536bcdf461a0ba.webp&quot; data-download-href=&quot;/uploads/short-url/A5ogij4bkm6JallIu4knppTPlc6.webp?dl=1&quot; title=&quot;mermaid-1780840942587&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/c/e/fcea4767630f1293bbefa0a78f536bcdf461a0ba_2_690x177.webp&quot; alt=&quot;mermaid-1780840942587&quot; data-base62-sha1=&quot;A5ogij4bkm6JallIu4knppTPlc6&quot; width=&quot;690&quot; height=&quot;177&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/c/e/fcea4767630f1293bbefa0a78f536bcdf461a0ba_2_690x177.webp, https://cdn3.ldstatic.com/optimized/4X/f/c/e/fcea4767630f1293bbefa0a78f536bcdf461a0ba_2_1035x265.webp 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/c/e/fcea4767630f1293bbefa0a78f536bcdf461a0ba_2_1380x354.webp 2x&quot; data-dominant-color=&quot;C8CDAA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;新闻在这：&lt;br&gt;
+&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/usPCXrNcQwmvGmmKtHWrwsM6CAu.zip&quot;&gt;0531-0606.zip&lt;/a&gt; (587.8 KB)&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2352047&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>刺激大脑可抵消睡眠不足造成的记忆丧失</title>
+      <link>https://linux.do/t/topic/2352011</link>
+      <guid>linux.do-topic-2352011</guid>
+      <pubDate>Tue, 09 Jun 2026 08:18:06 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://neurosciencenews.com/localized-sleep-deprivation-memory-30839/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/d/e/deec764f26479399ccf917221594348bf0adfee8.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;8B8BAE&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://neurosciencenews.com/localized-sleep-deprivation-memory-30839/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;05:35PM - 08 June 2026&quot;&gt;Neuroscience News – 8 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/f/4/8f46329c8b3b8d004b37989ca81338e53316bc55_2_690x459.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;A0938B&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://neurosciencenews.com/localized-sleep-deprivation-memory-30839/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Brain Stimulation Offsets Sleep Deprivation Memory Loss - Neuroscience News&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;A new study uses optogenetics to induce localized sleep in awake mice, reversing memory loss from sleep deprivation.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 6 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!summary]+&lt;/p&gt;
+&lt;p&gt;一项新研究成功复制了睡眠对清醒小鼠大脑局部目标区域的恢复作用。研究人员利用光遗传刺激诱导有节奏、交替 &quot;开-关 &quot;的神经发射模式，这种模式是非快速眼动睡眠（NREM）的基本标志，每次持续30分钟。&lt;/p&gt;
+&lt;p&gt;这种干预措施有效地抵消了睡眠剥夺引起的记忆缺陷，并降低了这些特定区域随后对睡眠的生理需求，证明了睡眠的恢复性益处是由特定的节律模式驱动的，而不是简单地减少神经元的整体发射。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41593-026-02318-9&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/s41593-026-02318-9&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract]+&lt;/p&gt;
+&lt;p&gt;在哺乳动物中，慢波睡眠的特点是神经元同步活动在开启期和关闭期之间交替进行。慢波活动（SWA）和同步性反映了睡眠需求，与大脑皮层回路中的突触强度相关，并促进突触下行选择和记忆巩固。在这里，我们评估了睡眠的这些核心益处是否可以在清醒时获得。我们利用光遗传学技术在小鼠清醒时局部诱导交替的开/关期。这导致小鼠在随后的睡眠过程中局部同侧的SWA和同步性降低，突触强度的标志物也降低了。此外，在剥夺睡眠期间双侧诱导感觉运动皮层的关闭期，可恢复记忆巩固。因此，在清醒时诱导开/关活动足以减少局部睡眠需求并实现睡眠的核心功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2352011&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>衡量 LLM 对N天漏洞利用的影响</title>
+      <link>https://linux.do/t/topic/2351866</link>
+      <guid>linux.do-topic-2351866</guid>
+      <pubDate>Tue, 09 Jun 2026 08:08:00 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://red.anthropic.com/2026/n-days/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/8/9/08944128e9506b3cdcb222eb71faa2f1a59d4f23.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;CBCBC8&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://red.anthropic.com/2026/n-days/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;red.anthropic.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://red.anthropic.com/2026/n-days/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;N-days \ red.anthropic.com&lt;/a&gt;&lt;/h3&gt;
+
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;过去几个月，我们一直在撰写有关大型语言模型网络安全能力的文章。在大多数情况下，我们关注的是零日–软件维护者不知道的漏洞。但是，现实世界中很大一部分危害来自 N-days：已经公开披露的漏洞，但只在某些设备上打了补丁。攻击者在所谓的 &quot;补丁缺口 &quot;期间，利用许多尚未应用补丁的系统。&lt;/p&gt;
+&lt;p&gt;从某种程度上说，N-days 是这两种情况中更危险的一种，因为补丁本身就提供了通向漏洞的路线图。一旦软件供应商发布了安全更新，攻击者就可以进行 “补丁差异”：将预先打好补丁的源代码或二进制文件与新的源代码或二进制文件进行比较，以确定到底是什么地方发生了变化，然后逆向挖掘补丁要修复的漏洞。这意味着利用漏洞往往只是时间问题。&lt;/p&gt;
+&lt;p&gt;有了前沿模型，这一瓶颈已基本消除。在最近的 18 个火狐安全补丁中，我们能力最强的模型 Claude Mythos Preview 能自主构建 8 个有效的代码执行漏洞。在源代码不可用的 21 个 Windows 内核补丁中，它生成了 8 个完整的漏洞利用链，可将低权限用户的权限升级到完全的 SYSTEM 控制权。我们发现，我们的公共模型在关闭保护措施的情况下也能构建漏洞利用程序（尽管它们构建的漏洞利用程序不如 Mythos Preview 那么多）。这表明，现在处于补丁缺口中的任何人都面临着比以前大得多的威胁，而且随着模型能力的提高，风险只会越来越大。防御者应努力加快部署补丁的速度，以应对这种情况。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2351866&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>6月8日钉钉前副总裁AI产品负责人发表长文《置身钉外》</title>
+      <link>https://linux.do/t/topic/2351829</link>
+      <guid>linux.do-topic-2351829</guid>
+      <pubDate>Tue, 09 Jun 2026 08:06:08 GMT</pubDate>
+      <description>
+            &lt;p&gt;图片内容为ai总结，要看具体内容大家去看原文会比较好&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/7/5/475a4fa349fe6a8b3e62da3f4e7cdbfcc4b94da4.png&quot; data-download-href=&quot;/uploads/short-url/abdof2B5iPCyzXeDD7kFFMJ76G8.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/7/5/475a4fa349fe6a8b3e62da3f4e7cdbfcc4b94da4_2_252x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;abdof2B5iPCyzXeDD7kFFMJ76G8&quot; width=&quot;252&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/7/5/475a4fa349fe6a8b3e62da3f4e7cdbfcc4b94da4_2_252x500.png, https://cdn3.ldstatic.com/optimized/4X/4/7/5/475a4fa349fe6a8b3e62da3f4e7cdbfcc4b94da4_2_378x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/7/5/475a4fa349fe6a8b3e62da3f4e7cdbfcc4b94da4_2_504x1000.png 2x&quot; data-dominant-color=&quot;F0F1F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/N4mFVB_pp-BKIzjod5lQ8w&quot; rel=&quot;noopener nofollow ugc&quot;&gt;微信原文&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2351829&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Bugteam，卒（包括已有的账户，ChatGPT类别的）</title>
+      <link>https://linux.do/t/topic/2349999</link>
+      <guid>linux.do-topic-2349999</guid>
+      <pubDate>Tue, 09 Jun 2026 06:16:45 GMT</pubDate>
+      <description>
+            &lt;p&gt;Codex Bugteam号（被使用的）&lt;br&gt;
+会出现：Your workspace is out of credits. Ask your workspace owner to refill in order to continue.&lt;/p&gt;
+&lt;aside class=&quot;quote no-group&quot; data-username=&quot;Lonely&quot; data-post=&quot;3&quot; data-topic=&quot;2349999&quot; data-full=&quot;true&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;
+&lt;div class=&quot;quote-controls&quot;&gt;&lt;/div&gt;
+&lt;img alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot; src=&quot;https://cdn.ldstatic.com/user_avatar/linux.do/lonely/48/1806778_2.png&quot; class=&quot;avatar&quot;&gt; Lonely:&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;未使用的仍是Team Plan，但是被用了之后就会变成Codex Plan&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/aside&gt;
+&lt;p&gt;Bugteam，卒。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2349999&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>腾讯也推出了AgentMail</title>
+      <link>https://linux.do/t/topic/2349946</link>
+      <guid>linux.do-topic-2349946</guid>
+      <pubDate>Tue, 09 Jun 2026 06:13:15 GMT</pubDate>
+      <description>
+            &lt;p&gt;腾讯也推出了&lt;a href=&quot;https://agent.qq.com&quot; rel=&quot;noopener nofollow ugc&quot;&gt;AgentMail&lt;/a&gt;，但是目前不支持自定义邮箱前缀，且只支持创建两个邮箱，感觉有点鸡肋&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/d/0/ed00197728b78681b966e9aeebd14f96f5ae7158.jpeg&quot; data-download-href=&quot;/uploads/short-url/xOBnabZhbZs7eNMnvsspdCPIqJW.jpeg?dl=1&quot; title=&quot;Screenshot 2026-06-09 at 11.18.42&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/d/0/ed00197728b78681b966e9aeebd14f96f5ae7158_2_690x388.jpeg&quot; alt=&quot;Screenshot 2026-06-09 at 11.18.42&quot; data-base62-sha1=&quot;xOBnabZhbZs7eNMnvsspdCPIqJW&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/d/0/ed00197728b78681b966e9aeebd14f96f5ae7158_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/d/0/ed00197728b78681b966e9aeebd14f96f5ae7158_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/d/0/ed00197728b78681b966e9aeebd14f96f5ae7158_2_1380x776.jpeg 2x&quot; data-dominant-color=&quot;F2F2EF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2349946&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>总结：香港、澳门数字银行对内地客户开放历史</title>
+      <link>https://linux.do/t/topic/2349515</link>
+      <guid>linux.do-topic-2349515</guid>
+      <pubDate>Tue, 09 Jun 2026 05:46:11 GMT</pubDate>
+      <description>
+            &lt;p&gt;香港：&lt;br&gt;
+众安银行：未可考证具体日期，约在2021年12月开放。&lt;/p&gt;
+&lt;p&gt;livi Bank（理慧银行）：2022年4月1日开放，但因初期不校验出入境记录被偷渡，后续清退非合规客户短暂关门，于2023年3月8日有DP重新开放，具体重新开放时间未知，后于2024年12月10日左右重新关门。&lt;/p&gt;
+&lt;p&gt;Welab Bank（汇立银行）：2024年3月26日左右系统上线页面，随后几日正式开放，于2026年6月3日左右关门，仅限特殊渠道邀请开户。&lt;/p&gt;
+&lt;p&gt;富融银行：2024年2月3日左右开放，2025年12月13日左右关门，仅限指定邀请码或邮箱开户。&lt;/p&gt;
+&lt;p&gt;象象银行（原天星银行）：2023年9月左右开放&lt;/p&gt;
+&lt;p&gt;平安数字银行（原平安一账通银行）：2024年7月23日左右开放&lt;/p&gt;
+&lt;p&gt;蚂蚁银行（香港）：2023年7月14日开放&lt;/p&gt;
+&lt;p&gt;Mox Bank：2026年6月7日左右对 &lt;a href=&quot;http://Trip.com&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Trip.com&lt;/a&gt; 员工优先开放&lt;/p&gt;
+&lt;p&gt;澳门：&lt;br&gt;
+蚂蚁银行（澳门）：于2024年年底左右陆续有消息称阿里员工或保险客户可通过邀请渠道优先开户，后于2025年11月4日面向所有访澳旅客放开。&lt;/p&gt;
+&lt;p&gt;转自encmasuta&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2349515&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>SILX AI 正式发布 Quasar-Preview：18B MoE 架构的早期预览版 拥有5M上下文长度</title>
       <link>https://linux.do/t/topic/2349298</link>
@@ -46,7 +320,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2349298&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -59,7 +333,7 @@
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/1/6/916d87ab6a07dd0d02f7061879a1e44918e95869.jpeg&quot; data-download-href=&quot;/uploads/short-url/kKvTNS2WbD2SkpgR5PB51sygCsF.jpeg?dl=1&quot; title=&quot;HKVId-mXUAE4TtA&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/1/6/916d87ab6a07dd0d02f7061879a1e44918e95869_2_690x490.jpeg&quot; alt=&quot;HKVId-mXUAE4TtA&quot; data-base62-sha1=&quot;kKvTNS2WbD2SkpgR5PB51sygCsF&quot; width=&quot;690&quot; height=&quot;490&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/1/6/916d87ab6a07dd0d02f7061879a1e44918e95869_2_690x490.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/1/6/916d87ab6a07dd0d02f7061879a1e44918e95869_2_1035x735.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/9/1/6/916d87ab6a07dd0d02f7061879a1e44918e95869.jpeg 2x&quot; data-dominant-color=&quot;22254C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/e/0/8e0c2ad2c557d575de2f747113a175e2871f8418.jpeg&quot; data-download-href=&quot;/uploads/short-url/kgBRSJBV0I7MnPGzgkiFqcqvHWU.jpeg?dl=1&quot; title=&quot;HKVPjl9XsAASNxd&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/0/8e0c2ad2c557d575de2f747113a175e2871f8418_2_690x339.jpeg&quot; alt=&quot;HKVPjl9XsAASNxd&quot; data-base62-sha1=&quot;kgBRSJBV0I7MnPGzgkiFqcqvHWU&quot; width=&quot;690&quot; height=&quot;339&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/0/8e0c2ad2c557d575de2f747113a175e2871f8418_2_690x339.jpeg, https://cdn3.ldstatic.com/original/4X/8/e/0/8e0c2ad2c557d575de2f747113a175e2871f8418.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/8/e/0/8e0c2ad2c557d575de2f747113a175e2871f8418.jpeg 2x&quot; data-dominant-color=&quot;303036&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;现已下架&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2348291&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -72,7 +346,7 @@
             &lt;p&gt;现在通过sso登录会直接分配codex席位，但是之前的chatgpt席位保持不变&lt;br&gt;
 我自己的bug team截图&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/e/4/ae4619b7d7c60591609736fb0ce60e7b9a16787b.png&quot; data-download-href=&quot;/uploads/short-url/oRHgHAyukD4WKuxtevgEKGkLnp9.png?dl=1&quot; title=&quot;b36fd660e533cf05b5cbdb0d75f7224f&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/e/4/ae4619b7d7c60591609736fb0ce60e7b9a16787b_2_690x246.png&quot; alt=&quot;b36fd660e533cf05b5cbdb0d75f7224f&quot; data-base62-sha1=&quot;oRHgHAyukD4WKuxtevgEKGkLnp9&quot; width=&quot;690&quot; height=&quot;246&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/e/4/ae4619b7d7c60591609736fb0ce60e7b9a16787b_2_690x246.png, https://cdn3.ldstatic.com/optimized/4X/a/e/4/ae4619b7d7c60591609736fb0ce60e7b9a16787b_2_1035x369.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/e/4/ae4619b7d7c60591609736fb0ce60e7b9a16787b_2_1380x492.png 2x&quot; data-dominant-color=&quot;F9FAFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2347882&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -107,7 +381,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/b/b/fbb42339e1011dc50425061b78ddeeb4fa7c7bc6.jpeg&quot; data-download-href=&quot;/uploads/short-url/zUFMRvPXS2zl5mNpRvImDSE9t4y.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/b/b/fbb42339e1011dc50425061b78ddeeb4fa7c7bc6_2_296x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zUFMRvPXS2zl5mNpRvImDSE9t4y&quot; width=&quot;296&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/b/b/fbb42339e1011dc50425061b78ddeeb4fa7c7bc6_2_296x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/b/b/fbb42339e1011dc50425061b78ddeeb4fa7c7bc6_2_444x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/b/b/fbb42339e1011dc50425061b78ddeeb4fa7c7bc6_2_592x1000.jpeg 2x&quot; data-dominant-color=&quot;F8F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2347117&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -159,7 +433,7 @@ iOS27原生支持了中国大陆的节假日与调休闹钟。&lt;/p&gt;
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;45 个帖子 - 43 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;54 个帖子 - 52 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2345911&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -363,7 +637,7 @@ Google在内部评估中，将新版 NotebookLM 与旧版本进行了对比测�
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/9/b/19be29ec18ff8b3aa5f9fc58c9b1eae3090ea842.png&quot; data-download-href=&quot;/uploads/short-url/3FJmmFmsCworLodPuVu8UxsB8I2.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/9/b/19be29ec18ff8b3aa5f9fc58c9b1eae3090ea842_2_690x134.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;3FJmmFmsCworLodPuVu8UxsB8I2&quot; width=&quot;690&quot; height=&quot;134&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/9/b/19be29ec18ff8b3aa5f9fc58c9b1eae3090ea842_2_690x134.png, https://cdn3.ldstatic.com/original/4X/1/9/b/19be29ec18ff8b3aa5f9fc58c9b1eae3090ea842.png 1.5x, https://cdn3.ldstatic.com/original/4X/1/9/b/19be29ec18ff8b3aa5f9fc58c9b1eae3090ea842.png 2x&quot; data-dominant-color=&quot;D9E5F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 智谱开始大封禁时代，但是貌似还可以用，只是显示封禁中。&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;37 个帖子 - 26 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;39 个帖子 - 26 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2344465&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -378,7 +652,7 @@ Google在内部评估中，将新版 NotebookLM 与旧版本进行了对比测�
 &lt;p&gt;&lt;strong&gt;在运营层面， OpenAI 强调必须防止智能技术导致权力过度集中。为防止权力集中，路线图重申应建立类似国际核能机构的全球协调组织，通过共享安全标准降低灾难性风险，并在必要时协同减缓前沿技术的研发速度。随着全球经济围绕 AI 重塑，新阶段重点是提高系统易用性与安全性，将前沿能力转化为普惠工具。&lt;/strong&gt;&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/4/b/74b603a9d0e484fc3ce1ccdff43338e784106bbe.png&quot; data-download-href=&quot;/uploads/short-url/gEtlJ3Um2gFfsRUZI3HCSYE2BvU.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/4/b/74b603a9d0e484fc3ce1ccdff43338e784106bbe_2_631x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gEtlJ3Um2gFfsRUZI3HCSYE2BvU&quot; width=&quot;631&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/4/b/74b603a9d0e484fc3ce1ccdff43338e784106bbe_2_631x500.png, https://cdn3.ldstatic.com/optimized/4X/7/4/b/74b603a9d0e484fc3ce1ccdff43338e784106bbe_2_946x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/4/b/74b603a9d0e484fc3ce1ccdff43338e784106bbe_2_1262x1000.png 2x&quot; data-dominant-color=&quot;F3F3F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://openai.com/index/built-to-benefit-everyone-our-plan/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://openai.com/index/built-to-benefit-everyone-our-plan/&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2344400&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -392,157 +666,6 @@ Google在内部评估中，将新版 NotebookLM 与旧版本进行了对比测�
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/8/3/483d43e373c2503c20c2fc25116ea09f97273108.png&quot; data-download-href=&quot;/uploads/short-url/aj3DydPx2ZmkpHi2LK819aXCgfC.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/8/3/483d43e373c2503c20c2fc25116ea09f97273108_2_442x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;aj3DydPx2ZmkpHi2LK819aXCgfC&quot; width=&quot;442&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/8/3/483d43e373c2503c20c2fc25116ea09f97273108_2_442x500.png, https://cdn3.ldstatic.com/optimized/4X/4/8/3/483d43e373c2503c20c2fc25116ea09f97273108_2_663x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/8/3/483d43e373c2503c20c2fc25116ea09f97273108_2_884x1000.png 2x&quot; data-dominant-color=&quot;1B1B1B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2344332&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Macos27 镜像支持拖拽了，iPhone 镜像功能现在可以调整窗口大小了</title>
-      <link>https://linux.do/t/topic/2344018</link>
-      <guid>linux.do-topic-2344018</guid>
-      <pubDate>Tue, 09 Jun 2026 00:33:12 GMT</pubDate>
-      <description>
-            &lt;p&gt;（话题已被作者删除）&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2344018&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>一句话总结苹果 WWDC2026</title>
-      <link>https://linux.do/t/topic/2343357</link>
-      <guid>linux.do-topic-2343357</guid>
-      <pubDate>Mon, 08 Jun 2026 21:42:54 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/3/c/e3c2d5ecc81afac6ec324d5e9fb5d9a9119097dd.jpeg&quot; data-download-href=&quot;/uploads/short-url/wuRON8x8IXpBfh77sD9csnEyjoN.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/3/c/e3c2d5ecc81afac6ec324d5e9fb5d9a9119097dd_2_374x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wuRON8x8IXpBfh77sD9csnEyjoN&quot; width=&quot;374&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/3/c/e3c2d5ecc81afac6ec324d5e9fb5d9a9119097dd_2_374x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/3/c/e3c2d5ecc81afac6ec324d5e9fb5d9a9119097dd_2_561x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/3/c/e3c2d5ecc81afac6ec324d5e9fb5d9a9119097dd_2_748x1000.jpeg 2x&quot; data-dominant-color=&quot;77796C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;46 个帖子 - 39 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2343357&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>汇丰香港要求部分存量用户签署声明书</title>
-      <link>https://linux.do/t/topic/2342713</link>
-      <guid>linux.do-topic-2342713</guid>
-      <pubDate>Mon, 08 Jun 2026 17:06:21 GMT</pubDate>
-      <description>
-            &lt;p&gt;近两日，汇丰香港向部分5月22日前开立投资账户的客户（部分存量客户）发送提醒，要求签署声明书。&lt;/p&gt;
-&lt;p&gt;目前尚不明确触发条件及原因。&lt;/p&gt;
-&lt;p&gt;受影响的存量客户将收到一条短信，并在打开汇丰流动理财APP时收到浮窗通知。提交申请书前，除平仓操作外的交易会报错 URS0224。&lt;/p&gt;
-&lt;p&gt;转自encmasuta&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2342713&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>交行部分万事达信用卡将切换至人民币结算</title>
-      <link>https://linux.do/t/topic/2342556</link>
-      <guid>linux.do-topic-2342556</guid>
-      <pubDate>Mon, 08 Jun 2026 16:44:24 GMT</pubDate>
-      <description>
-            &lt;p&gt;自2026年08月15日（含）起，交通银行发行的BIN为527842、537960、557873、529726的万事达双应用芯片信用卡将切换为人民币结算，由万事达卡组织完成货币转换；境外消费不再经过美元转接。&lt;/p&gt;
-&lt;p&gt;详见交通银行信用卡中心公告&lt;br&gt;
-&lt;a href=&quot;https://creditcard.bankcomm.com/content/noticeDetail.html?device=wap&amp;noticeId=1169&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://creditcard.bankcomm.com/content/noticeDetail.html?device=wap&amp;noticeId=1169&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;转自encmasuta&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2342556&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>讯飞白送免费无限token，真免费无限，持续到6月30号</title>
-      <link>https://linux.do/t/topic/2341984</link>
-      <guid>linux.do-topic-2341984</guid>
-      <pubDate>Mon, 08 Jun 2026 15:48:33 GMT</pubDate>
-      <description>
-            &lt;p&gt;地址：&lt;a href=&quot;https://maas.xfyun.cn/modelSquare?ch=maas-cg-kol-102&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;讯飞星辰MaaS平台-官网&lt;/a&gt; 直接上链接&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/c/c/dcc2970f6232d61cf7e28a1e9a1eac4f358a3672.jpeg&quot; data-download-href=&quot;/uploads/short-url/vuVWWWPOWqcOZkGTQlAA9gyMucO.jpeg?dl=1&quot; title=&quot;bd9e510f64c897599f63d3edb1a83ef0&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/c/c/dcc2970f6232d61cf7e28a1e9a1eac4f358a3672_2_690x396.jpeg&quot; alt=&quot;bd9e510f64c897599f63d3edb1a83ef0&quot; data-base62-sha1=&quot;vuVWWWPOWqcOZkGTQlAA9gyMucO&quot; width=&quot;690&quot; height=&quot;396&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/c/c/dcc2970f6232d61cf7e28a1e9a1eac4f358a3672_2_690x396.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/c/c/dcc2970f6232d61cf7e28a1e9a1eac4f358a3672_2_1035x594.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/c/c/dcc2970f6232d61cf7e28a1e9a1eac4f358a3672_2_1380x792.jpeg 2x&quot; data-dominant-color=&quot;EEF1F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/1/f/21fa2981ced32b8ad88121cbd1936c5f5b5da08a.png&quot; data-download-href=&quot;/uploads/short-url/4QzJ2oWkv6X9AwgJoABPBOmTd90.png?dl=1&quot; title=&quot;71bc92830fe97d23e839f5e0fef7f5ab&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/1/f/21fa2981ced32b8ad88121cbd1936c5f5b5da08a_2_690x466.png&quot; alt=&quot;71bc92830fe97d23e839f5e0fef7f5ab&quot; data-base62-sha1=&quot;4QzJ2oWkv6X9AwgJoABPBOmTd90&quot; width=&quot;690&quot; height=&quot;466&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/1/f/21fa2981ced32b8ad88121cbd1936c5f5b5da08a_2_690x466.png, https://cdn3.ldstatic.com/optimized/4X/2/1/f/21fa2981ced32b8ad88121cbd1936c5f5b5da08a_2_1035x699.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/1/f/21fa2981ced32b8ad88121cbd1936c5f5b5da08a_2_1380x932.png 2x&quot; data-dominant-color=&quot;F5F7FB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;20 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2341984&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Kimi code最新更新，可直接拖拽视频！</title>
-      <link>https://linux.do/t/topic/2341689</link>
-      <guid>linux.do-topic-2341689</guid>
-      <pubDate>Mon, 08 Jun 2026 15:23:45 GMT</pubDate>
-      <description>
-            &lt;p&gt;Kimi Code 升级了，感觉它和 Codex / Claude Code 这类工具的方向有点不一样。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/d/2/9d2b286b235883dd3fc12dab72f98a5f36a27ba9.jpeg&quot; data-download-href=&quot;/uploads/short-url/mqnqy0A534B1YBhlRwgwaFk8vfH.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/d/2/9d2b286b235883dd3fc12dab72f98a5f36a27ba9_2_428x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;mqnqy0A534B1YBhlRwgwaFk8vfH&quot; width=&quot;428&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/d/2/9d2b286b235883dd3fc12dab72f98a5f36a27ba9_2_428x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/d/2/9d2b286b235883dd3fc12dab72f98a5f36a27ba9_2_642x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/d/2/9d2b286b235883dd3fc12dab72f98a5f36a27ba9_2_856x1000.jpeg 2x&quot; data-dominant-color=&quot;92989E&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Codex、Claude Code 更像是“专注写代码的 AI 工程师”：&lt;br&gt;
-读 repo、改代码、跑命令、修 bug，这些很强。&lt;/p&gt;
-&lt;p&gt;Kimi Code 这次比较有意思的点是：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;视频也能当上下文&lt;/strong&gt;&lt;br&gt;
-比如屏幕录制转代码、长视频处理、参考视频生成 LUT，这个是传统 coding agent 不太常见的能力。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/d/f/6dfcce6f99c7f8000ed2ee52c2fe075b73d4effd.jpeg&quot; data-download-href=&quot;/uploads/short-url/fGZG7ThZ5O4zlVjZhxIjvPL2vfv.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/d/f/6dfcce6f99c7f8000ed2ee52c2fe075b73d4effd_2_646x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fGZG7ThZ5O4zlVjZhxIjvPL2vfv&quot; width=&quot;646&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/d/f/6dfcce6f99c7f8000ed2ee52c2fe075b73d4effd_2_646x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/d/f/6dfcce6f99c7f8000ed2ee52c2fe075b73d4effd_2_969x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/6/d/f/6dfcce6f99c7f8000ed2ee52c2fe075b73d4effd.jpeg 2x&quot; data-dominant-color=&quot;686869&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;不只围绕代码仓库&lt;/strong&gt;&lt;br&gt;
-它还加了股票、财报、论文这类插件，感觉更像是在做一个“能接各种资料和工具的工作流 agent”。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;可扩展性更强&lt;/strong&gt;&lt;br&gt;
-支持 ACP、JetBrains、Zed，还有 hooks，可以接自己的工具和流程。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Codex / Claude Code 更偏传统软件工程场景；&lt;br&gt;
-Kimi Code 这次更像是在往 &lt;strong&gt;多模态 + 插件 + 自定义工作流&lt;/strong&gt; 方向走。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;16 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2341689&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>claude 被封的账号，申诉没通过的 可以删除重新创建了</title>
-      <link>https://linux.do/t/topic/2340943</link>
-      <guid>linux.do-topic-2340943</guid>
-      <pubDate>Mon, 08 Jun 2026 14:34:27 GMT</pubDate>
-      <description>
-            &lt;p&gt;claude 被封的账号，申诉没通过的 可以删除重新创建了，还不要手机号验证。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/b/7/eb7200d92aaedf675d804b55823641275e0d5a60.png&quot; data-download-href=&quot;/uploads/short-url/xAQsiTyRnUhZ0qly4UwqMYgpbag.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/b/7/eb7200d92aaedf675d804b55823641275e0d5a60_2_690x247.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xAQsiTyRnUhZ0qly4UwqMYgpbag&quot; width=&quot;690&quot; height=&quot;247&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/b/7/eb7200d92aaedf675d804b55823641275e0d5a60_2_690x247.png, https://cdn3.ldstatic.com/optimized/4X/e/b/7/eb7200d92aaedf675d804b55823641275e0d5a60_2_1035x370.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/b/7/eb7200d92aaedf675d804b55823641275e0d5a60_2_1380x494.png 2x&quot; data-dominant-color=&quot;20201F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;19 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2340943&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>中国2026高考消费升温 去年整体规模逾320亿元人民币</title>
-      <link>https://linux.do/t/topic/2340918</link>
-      <guid>linux.do-topic-2340918</guid>
-      <pubDate>Mon, 08 Jun 2026 14:32:27 GMT</pubDate>
-      <description>
-            &lt;p&gt;（北京/香港综合讯）中国2026年高考星期天（6月7日）开考，围绕考试形成的住宿、鲜花、餐饮等消费迎来一波热潮。&lt;/p&gt;
-&lt;p&gt;综合中新网与星岛环球网报道，中国今年参加高考的考生共1290万人，从考点周边的住宿、餐饮，到寓意“旗开得胜“的旗袍、“状元”同款文具、各种“补脑“保健品等，全国考生及其亲友带动的高考消费正在升温。&lt;/p&gt;
-&lt;p&gt;各地鲜花店近几日迎来高考祝福花束订单的高峰，寓意“金榜题名”“一举夺魁”“势如破竹”等高考主题的花束备受青睐，部分花店的备货量较平日增加了三至四倍。&lt;/p&gt;
-&lt;p&gt;在服饰方面，中国红继续成为热门色，印有“逢考必胜”“旗开得胜”等字样的T恤颇受欢迎；由于许多考生的母亲身穿旗袍陪考，部分销售旗袍的店铺近一个月的销量较此前增长约三倍。&lt;/p&gt;
-&lt;p&gt;中国金融信息服务平台“BT财经”分析，围绕高考的相关消费主要分为三大块，包括考前的备考冲刺、考中的食宿保障、考后的志愿填报。&lt;/p&gt;
-&lt;p&gt;其中，备考冲刺在高考消费中规模最大。据K12教培行业白皮书数据，在2025年，中国高考全日制冲刺市场规模已突破320亿元（人民币，下同，61亿新元），预计年增长率约18.7%。&lt;/p&gt;
-&lt;p&gt;考后的志愿填报近年快速增长，艾媒咨询发布报告显示，2025年中国高考志愿填报的付费市场规模约10.9亿元，预计在2027年增至12.2亿元。&lt;/p&gt;
-&lt;p&gt;高考结束后，预计手机等数码产品、驾校报名、旅游、谢师宴等市场也将迎来消费增长。&lt;/p&gt;
-&lt;p&gt;中国今年全国高考报名人数达1290万，较去年减少45万人，是连续第二年收缩。去年的报考人数为1335万人，比前年减少了7万人，为近10年来高考人数的首次下降。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.zaobao.com.sg/news/china/story20260608-9173691?ref=home-sidebar-china-realtime&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/f/9/6f939c48b71e742e3e5d4599db54f3b9d523fd29.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;D5567C&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://www.zaobao.com.sg/news/china/story20260608-9173691?ref=home-sidebar-china-realtime&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;zaobao.com.sg&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/f/6/1f665373f41929294e825e130db775d258befd62_2_690x459.webp&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;7F786E&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.zaobao.com.sg/news/china/story20260608-9173691?ref=home-sidebar-china-realtime&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;中国2026高考消费升温 去年整体规模逾320亿元人民币&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;（北京/香港综合讯）中国2026年高考星期天（6月7日）开考，围绕考试形成的住宿、鲜花、餐饮等消费迎来一波热潮。&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2340918&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
