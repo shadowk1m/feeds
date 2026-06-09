@@ -4,7 +4,63 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Tue, 09 Jun 2026 19:32:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 21:29:03 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic将从Pro和Max订阅中移除Fable 5，恢复时间不定</title>
+      <link>https://linux.do/t/topic/2357829</link>
+      <guid>linux.do-topic-2357829</guid>
+      <pubDate>Tue, 09 Jun 2026 20:48:38 GMT</pubDate>
+      <description>
+            &lt;p&gt;（话题已被作者删除）&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2357829&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Claude 现已推出 Fable 5</title>
+      <link>https://linux.do/t/topic/2357747</link>
+      <guid>linux.do-topic-2357747</guid>
+      <pubDate>Tue, 09 Jun 2026 19:37:16 GMT</pubDate>
+      <description>
+            &lt;p&gt;万众瞩目的 Mythos 5 已推出面向大众的版本 Fable 5 ！&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/f/e/2fe84dfe670470b030fcdeb9e7a93d2550d253a7.jpeg&quot; data-download-href=&quot;/uploads/short-url/6PO9oA8JqoLMe9k6tPb5G08mg2r.jpeg?dl=1&quot; title=&quot;cc9a877630d77a8ea8046918bad5ad4e&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/e/2fe84dfe670470b030fcdeb9e7a93d2550d253a7_2_613x500.jpeg&quot; alt=&quot;cc9a877630d77a8ea8046918bad5ad4e&quot; data-base62-sha1=&quot;6PO9oA8JqoLMe9k6tPb5G08mg2r&quot; width=&quot;613&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/e/2fe84dfe670470b030fcdeb9e7a93d2550d253a7_2_613x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/f/e/2fe84dfe670470b030fcdeb9e7a93d2550d253a7_2_919x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/f/e/2fe84dfe670470b030fcdeb9e7a93d2550d253a7_2_1226x1000.jpeg 2x&quot; data-dominant-color=&quot;DDD4C8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.anthropic.com/news/claude-fable-5-mythos-5&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/e/6/fe6c0681656041ba248c30e2c65ffb649a395bf0.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;CBCBC8&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.anthropic.com/news/claude-fable-5-mythos-5&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;anthropic.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://www.anthropic.com/news/claude-fable-5-mythos-5&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Claude Fable 5 and Claude Mythos 5&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;求求你们别卷了我 Opus 4.8 和 GPT 5.5 还没捂热呢……果然友商越强 Anthropic 发布新模型的速度就越快，感觉已经成了AI的军备竞赛了都！&lt;/p&gt;
+&lt;p&gt;Fable 5 和 Mythos 5 底层是同一个模型，区别只在护栏。A 社宣布该模型的其能力&quot;超越我们此前公开发布的所有模型&quot;，部分基准比 Opus 4.8 高出 10% 以上。&lt;br&gt;
+模型定价1M输入$10，输出$50，不到 Mythos Preview 的一半。网页提示 Fable 的用量消耗是 Opus 的 2 倍，但我实测下来差不多。&lt;br&gt;
+Pro / Max / Team / Enterprise 即日起可用，但限免只到 6 月 22 日。意思是只有这2星期订阅用户限免可用，之后只能走账单计价。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/a/a/5aa1fd8f6099748810c1de9ba8b2d6706b60d44f.jpeg&quot; data-download-href=&quot;/uploads/short-url/cVM2bLESZnkjgshx6GTV1OtDVq7.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-10-03-13-43-185_com.android.br(1)&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/a/5aa1fd8f6099748810c1de9ba8b2d6706b60d44f_2_281x500.jpeg&quot; alt=&quot;Screenshot_2026-06-10-03-13-43-185_com.android.br(1)&quot; data-base62-sha1=&quot;cVM2bLESZnkjgshx6GTV1OtDVq7&quot; width=&quot;281&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/a/5aa1fd8f6099748810c1de9ba8b2d6706b60d44f_2_281x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/a/a/5aa1fd8f6099748810c1de9ba8b2d6706b60d44f_2_421x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/a/a/5aa1fd8f6099748810c1de9ba8b2d6706b60d44f_2_562x1000.jpeg 2x&quot; data-dominant-color=&quot;31322D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;并且，官方的通告特别指出，涉及网络安全、生物、化学和模型蒸馏的请求会自动被路由到 Opus 4.8 处理。&lt;/p&gt;
+&lt;p&gt;有趣的是，Fable 5还会爬塔和玩宝可梦。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/5/0/2501fdfc5ace5eaebee40f412241b810b39c1fd7.jpeg&quot; data-download-href=&quot;/uploads/short-url/5hnVWkxz0S9KYBZfPjpPOLmFgi3.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-10-03-11-01-241_com.android.br(1)&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/5/0/2501fdfc5ace5eaebee40f412241b810b39c1fd7_2_280x500.jpeg&quot; alt=&quot;Screenshot_2026-06-10-03-11-01-241_com.android.br(1)&quot; data-base62-sha1=&quot;5hnVWkxz0S9KYBZfPjpPOLmFgi3&quot; width=&quot;280&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/5/0/2501fdfc5ace5eaebee40f412241b810b39c1fd7_2_280x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/5/0/2501fdfc5ace5eaebee40f412241b810b39c1fd7_2_420x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/5/0/2501fdfc5ace5eaebee40f412241b810b39c1fd7_2_560x1000.jpeg 2x&quot; data-dominant-color=&quot;3B3C3B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2357747&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>Notion可用Claude Fable 5！！！但是！！！</title>
       <link>https://linux.do/t/topic/2357633</link>
@@ -38,7 +94,7 @@
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/2/4/624725e10647125cbc293bd0b163ce3b21625daf.jpeg&quot; data-download-href=&quot;/uploads/short-url/e1pe0q245QOdicxuzli3xpGaN8b.jpeg?dl=1&quot; title=&quot;Screenshot_20260610_014819&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/2/4/624725e10647125cbc293bd0b163ce3b21625daf_2_225x500.jpeg&quot; alt=&quot;Screenshot_20260610_014819&quot; data-base62-sha1=&quot;e1pe0q245QOdicxuzli3xpGaN8b&quot; width=&quot;225&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/2/4/624725e10647125cbc293bd0b163ce3b21625daf_2_225x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/2/4/624725e10647125cbc293bd0b163ce3b21625daf_2_337x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/2/4/624725e10647125cbc293bd0b163ce3b21625daf_2_450x1000.jpeg 2x&quot; data-dominant-color=&quot;1F1F1F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;刚刚看到佬友们在讨论这个，然后刚好去notion上写笔记的时候看到了这个&lt;/p&gt;
 &lt;div class=&quot;spoiler&quot;&gt;&lt;a href=&quot;https://linux.do/t/topic/2357565/1&quot;&gt;剧透&lt;/a&gt;&lt;/div&gt;
-            &lt;p&gt;&lt;small&gt;38 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;44 个帖子 - 26 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2357565&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -260,7 +316,7 @@
 &lt;p&gt;Anthropic 推出面向普通用户的 Claude Fable 5，这是迄今能力最强的 Mythos 级模型。它在软件工程、知识工作、视觉和科研等基准上均达顶尖，价格比前代 Mythos Preview 低一半以上。为防滥用，内建分类器在涉及网络安全、生物化学等话题时改用 Opus 4.8 回复，约 95% 的会话不受影响。&lt;/p&gt;
 &lt;p&gt;同步发布的 Claude Mythos 5 对网络防御伙伴解除部分限制，号称拥有全球最强的网络安全能力。生物医学研究者也可通过信任计划在解除防护后使用。两款模型定价均为每百万输入 token 10 美元、输出 token 50 美元，不到 Mythos Preview 的一半。&lt;/p&gt;
 &lt;p&gt;via zaihuapd&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;35 个帖子 - 33 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;37 个帖子 - 35 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2357355&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -647,33 +703,6 @@
 &lt;p&gt;因此，在未来几年里，很难避免消费电子产品的价格大幅上涨。我们现在已经处于这样一种局面：发展中国家的消费者因为价格过高而无法购买这些产品；而发达国家の消费者也很快会面临同样的问题。过去几十年里，技术的进步使得计算设备变得更普及了；但那个时代已经结束了。消费电子产品每年都变得更快速、更便宜、更强大的趋势已经逆转。首先受到冲击的，将是全球的穷人；不过，用不了多久，我们所有人也会感受到这种影响。&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2355670&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>谷歌推出 Chrome v149.0.7827.103 紧急安全更新</title>
-      <link>https://linux.do/t/topic/2355628</link>
-      <guid>linux.do-topic-2355628</guid>
-      <pubDate>Tue, 09 Jun 2026 13:44:31 GMT</pubDate>
-      <description>
-            &lt;p&gt;谷歌推出 Chrome v149.0.7827.103 紧急安全更新，修复 1 个已经被黑客利用的安全漏洞，发现该漏洞的安全研究员获得 5.5 万美元的奖励。&lt;/p&gt;
-&lt;p&gt;目前只知道该漏洞属于 V8 引擎中的越界内存访问，但具体细节暂时还没有公布，只不过能获得 5.5 万美元奖金说明漏洞应该比较严重的。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.landian.news/archives/113379.html&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.landian.news/archives/113379.html&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2355628&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>黑客通过 claude 的分享功能，创建恶意的命令片段，然后再通过谷歌进行竞价推广</title>
-      <link>https://linux.do/t/topic/2355563</link>
-      <guid>linux.do-topic-2355563</guid>
-      <pubDate>Tue, 09 Jun 2026 13:36:34 GMT</pubDate>
-      <description>
-            &lt;p&gt;例如：&lt;a href=&quot;https://claude.ai/share/bdcc118c-d886-4a95-ba0a-643b63dc8394?utm_source=google&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Claude&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;其中这部分是 恶意的命令，运行以后会导致设备上的信息被窃取，但是 由于这个内容 本身出现在 claude.ai 也就是 claude 的官方网站上，所以迷惑程度很高。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/3/c/63cbfd8a3f9d02eda582df5359349678e5db8f53.png&quot; data-download-href=&quot;/uploads/short-url/eeQjEr46bKYEVEoehaq4jBXvOQr.png?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/c/63cbfd8a3f9d02eda582df5359349678e5db8f53_2_543x499.png&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;eeQjEr46bKYEVEoehaq4jBXvOQr&quot; width=&quot;543&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/c/63cbfd8a3f9d02eda582df5359349678e5db8f53_2_543x499.png, https://cdn3.ldstatic.com/optimized/4X/6/3/c/63cbfd8a3f9d02eda582df5359349678e5db8f53_2_814x748.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/3/c/63cbfd8a3f9d02eda582df5359349678e5db8f53_2_1086x998.png 2x&quot; data-dominant-color=&quot;282825&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;并且黑客通过 谷歌关键词竞价 进行推广，由于域名是claude官方的，所以一些专业人士，如果只确认域名也会导致中马，目前得知的最早的信息是 6号以后 开始流行。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2355563&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
