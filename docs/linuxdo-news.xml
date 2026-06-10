@@ -4,7 +4,146 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Wed, 10 Jun 2026 08:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 12:12:47 GMT</lastBuildDate>
+    <item>
+      <title>摩尔线程宣布开源MusaCoder：首个国产全功能GPU全栈训练代码大模型</title>
+      <link>https://linux.do/t/topic/2367267</link>
+      <guid>linux.do-topic-2367267</guid>
+      <pubDate>Wed, 10 Jun 2026 11:29:20 GMT</pubDate>
+      <description>
+            &lt;p&gt;今日，摩尔线程宣布正式发布并开源MusaCoder，这是面向GPU底层算子生成的专用代码大模型。&lt;/p&gt;
+&lt;p&gt;摩尔线程表示，MusaCoder是业内首个基于国产GPU算力底座完成全链路训练与验证的开源代码大模型，其完整后训练流程均在基于MTT S5000构建的夸娥智算集群上完成。&lt;/p&gt;
+&lt;p&gt;据介绍，MusaCoder包含9B和27B两个参数规模，主要面向GPU底层算子生成任务设计，重点支持从PyTorch标准算子自动生成高性能CUDA/MUSA原生Kernel代码。&lt;/p&gt;
+&lt;p&gt;这一能力可降低开发者手写底层GPU算子的门槛，提升GPU高性能计算场景下的代码生成、验证和优化效率。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/9/b/09b11fbb92d90b4f32fe2876ff39a7de579270bf.png&quot; data-download-href=&quot;/uploads/short-url/1nJMA08DmhCsRbuLtl72fGqWAwv.png?dl=1&quot; title=&quot;17810909693219200441741858721171&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/9/b/09b11fbb92d90b4f32fe2876ff39a7de579270bf_2_690x444.png&quot; alt=&quot;17810909693219200441741858721171&quot; data-base62-sha1=&quot;1nJMA08DmhCsRbuLtl72fGqWAwv&quot; width=&quot;690&quot; height=&quot;444&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/9/b/09b11fbb92d90b4f32fe2876ff39a7de579270bf_2_690x444.png, https://cdn3.ldstatic.com/optimized/4X/0/9/b/09b11fbb92d90b4f32fe2876ff39a7de579270bf_2_1035x666.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/9/b/09b11fbb92d90b4f32fe2876ff39a7de579270bf_2_1380x888.png 2x&quot; data-dominant-color=&quot;DBD1D8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;性能方面，在KernelBench评测中，MusaCoder-27B-RL取得Overall Pass@8 93.2%、Avg.&lt;span class=&quot;mention&quot;&gt;@8&lt;/span&gt; 88.60%的成绩，超越Claude Opus 4.7、DeepSeek-V4 Pro、GLM-5.1、Kimi K2.6等主流SOTA代码模型，达到当前行业领先水平。&lt;/p&gt;
+&lt;p&gt;摩尔线程称，MusaCoder的SFT（监督微调）、RFT（拒绝采样微调）、RL（强化学习）、异步rollout、在线编译执行验证及reward计算等全栈训练与验证流程，均依托MTT S5000构建的夸娥智算集群完成。&lt;/p&gt;
+&lt;p&gt;这也意味着，国产GPU不仅能够支撑大模型推理和常规微调任务，也能够稳定承载代码大模型后训练全周期算力需求。&lt;/p&gt;
+&lt;p&gt;尤其是在GPU Kernel生成这类任务中，训练系统需要频繁进行代码生成、编译、执行、验证和反馈计算，对硬件、编译栈、运行时、调度系统和评测基础设施都提出了更高要求。&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://huggingface.co/MooreThreads/MusaCoder-27B&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://huggingface.co/MooreThreads/MusaCoder-27B&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;huggingface.co&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/372;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/c/8/dc872f995fd14fb282c8a65937d8958c47aaa50a_2_690x372.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;5B70A4&quot; width=&quot;690&quot; height=&quot;372&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://huggingface.co/MooreThreads/MusaCoder-27B&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;MooreThreads/MusaCoder-27B · Hugging Face&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;We’re on a journey to advance and democratize artificial intelligence through open source and open science.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://arxiv.org/abs/2606.04847&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/7/3/7737f9c766957e34da6871902e1e7a9d2aca40f3.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;B36362&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://arxiv.org/abs/2606.04847&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;arXiv.org&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/402;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/d/4/cd49b65780faf86c14ed9761c9c522acfb73adde_2_500x500.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;865F5C&quot; width=&quot;500&quot; height=&quot;500&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://arxiv.org/abs/2606.04847&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;MusaCoder: Native GPU Kernel Generation with Full-Stack Training on Moore...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Native GPU kernel generation turns high-level tensor programs into executable, efficient low-level code. Existing Large Language Models (LLMs) struggle with this task, while execution-based reinforcement learning suffers from sparse rewards, reward...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2367267&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>微信正式官宣朋友圈搜索功能</title>
+      <link>https://linux.do/t/topic/2365962</link>
+      <guid>linux.do-topic-2365962</guid>
+      <pubDate>Wed, 10 Jun 2026 09:21:20 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/7/3/a7333c5da3a611c93d8f00747f1f1f94bc0272dc.png&quot; data-download-href=&quot;/uploads/short-url/nR7vBy5oiagA4OvKuZChjER8fdG.png?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/7/3/a7333c5da3a611c93d8f00747f1f1f94bc0272dc_2_551x500.png&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;nR7vBy5oiagA4OvKuZChjER8fdG&quot; width=&quot;551&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/7/3/a7333c5da3a611c93d8f00747f1f1f94bc0272dc_2_551x500.png, https://cdn3.ldstatic.com/optimized/4X/a/7/3/a7333c5da3a611c93d8f00747f1f1f94bc0272dc_2_826x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/7/3/a7333c5da3a611c93d8f00747f1f1f94bc0272dc.png 2x&quot; data-dominant-color=&quot;EAEDED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/vdk2Szm39KYgBGbmMGHZnw&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://mp.weixin.qq.com/s/vdk2Szm39KYgBGbmMGHZnw&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;16 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2365962&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>为什么这么多年轻人得癌症？</title>
+      <link>https://linux.do/t/topic/2365770</link>
+      <guid>linux.do-topic-2365770</guid>
+      <pubDate>Wed, 10 Jun 2026 09:07:09 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-026-01780-6&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/d41586-026-01780-6&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;今年世界上两场最大癌症会议上，这个问题引起了广泛关注，假设层出不穷。超加工食品、肥胖、微生物毒素和农用化学品都被纳入考量。但答案依然难以捉摸。&lt;/p&gt;
+&lt;p&gt;“全球范围内，50岁以下人群中多种癌症的发病率正在上升，”肿瘤学家吴金美上周在伊利诺伊州芝加哥举行的美国临床肿瘤学会会议上对听众表示。“绝大多数被认为是零星的，原因不明。”&lt;/p&gt;
+&lt;p&gt;流行病学家成贤雅在加利福尼亚圣地亚哥举行的美国癌症研究协会（AACR）年会上表示，全球每天50岁以下成年人诊断出超过9000例癌症病例。但她提醒说，将这些诊断混为一谈可能会掩盖其原因的线索。“年轻成人癌症发病率上升并非单一故事的体现，”在佐治亚州亚特兰大美国癌症协会工作的宋说。&lt;/p&gt;
+&lt;p&gt;即便如此，50岁以下人群的癌症死亡仍占整体癌症死亡率的一小部分。但这一代癌症的风险可能比前一代癌症更高，这种风险可能会持续到老年，届时整体癌症风险会大幅提高。宋说：“年轻人癌症发病率上升的趋势，真正预示着20年和30年后他们进入中年和老年时的未来。”&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;36 个帖子 - 28 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2365770&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Microsoft Defender “RoguePlanet” 零日保护授予系统权限</title>
+      <link>https://linux.do/t/topic/2365731</link>
+      <guid>linux.do-topic-2365731</guid>
+      <pubDate>Wed, 10 Jun 2026 09:04:40 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/5/4/05437e1717b13eeacac9491e8faf8c5493fd132c.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;869FBF&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;BleepingComputer&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/9/b/a9b9338f0ed6d6882f515a6b5b23b35b335eb1d8_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;963253&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Microsoft Defender &#39;RoguePlanet&#39; zero-day grants SYSTEM privileges&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;A security researcher has released a new Microsoft Defender zero-day exploit named &quot;RoguePlanet&quot; just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;一位安全研究人员发布了一项名为“RoguePlanet”的新Microsoft Defender零日漏洞，就在Microsoft修复了2026年6月补丁星期二期间之前披露的两个漏洞仅数小时后。&lt;/p&gt;
+&lt;p&gt;这位名为Nightmare Eclipse的研究人员表示，该新漏洞影响已完全修补的Windows 10和Windows 11设备，允许攻击者通过Microsoft Defender竞赛条件漏洞生成带有SYSTEM权限的命令提示符。&lt;/p&gt;
+&lt;p&gt;该研究人员周二下午在一个自托管的Git仓库中分享了一个概念验证漏洞，此前表示托管其漏洞的GitHub和GitLab仓库此前已被Microsoft移除。&lt;/p&gt;
+&lt;p&gt;“这个漏洞是竞速条件，所以有结果。我在某些机器上成功率达到了100%，而在另一些设备上却难以正常工作，“Nightmare Eclipse在仓库中写道。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/MSNightmare/RoguePlanet&quot; rel=&quot;noopener nofollow ugc&quot;&gt;MSNightmare/RoguePlanet：Rogue Planet Windows Defender 漏洞&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2365731&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>Anthropic解密Opus 4.8降智真相：原来大模型也会「喊累想摸鱼」</title>
       <link>https://linux.do/t/topic/2364721</link>
@@ -43,7 +182,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;23 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2364721&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -55,7 +194,7 @@
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/9/1/e91c2534d7e92c35581077078fe1f5bab4e7d7aa.png&quot; data-download-href=&quot;/uploads/short-url/xgbycORNDDlYE6R2nlu93Qhg3OO.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/9/1/e91c2534d7e92c35581077078fe1f5bab4e7d7aa_2_500x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xgbycORNDDlYE6R2nlu93Qhg3OO&quot; width=&quot;500&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/9/1/e91c2534d7e92c35581077078fe1f5bab4e7d7aa_2_500x500.png, https://cdn3.ldstatic.com/original/4X/e/9/1/e91c2534d7e92c35581077078fe1f5bab4e7d7aa.png 1.5x, https://cdn3.ldstatic.com/original/4X/e/9/1/e91c2534d7e92c35581077078fe1f5bab4e7d7aa.png 2x&quot; data-dominant-color=&quot;9F9FA0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 一天一个概念，学不完根本学不完 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/joy.png?v=15&quot; title=&quot;:joy:&quot; class=&quot;emoji&quot; alt=&quot;:joy:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;18 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2364245&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -82,7 +221,7 @@
 &lt;p&gt;该更新也在继续扩大 UEFI CA 2023 安全启动证书的覆盖范围，对于受支持的设备系统将自动接收和部署新安全启动证书。&lt;/p&gt;
 &lt;p&gt;离线文件下载地址：&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.landian.news/download/113430.html&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.landian.news/download/113430.html&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2363867&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -156,7 +295,7 @@ Claude is accessible through Claude Code, an agentic coding tool that lets devel
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;23 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;30 个帖子 - 24 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2362269&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -172,7 +311,7 @@ Claude is accessible through Claude Code, an agentic coding tool that lets devel
 &lt;/blockquote&gt;
 &lt;p&gt;虽然大家都知道你慢，额度少，限额多，但是你这9.9一个月那还说啥了，最开始新人优惠也才一季度49.9啊，你是不是要似了&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/0/6/e06c68167ea96830bb8c9b5690848892c758620c.jpeg&quot; data-download-href=&quot;/uploads/short-url/w1lderDLeQ2YQ2TfxEZPS0bwHvK.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-10-12-22-26-152_com.microsoft.emmx&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/0/6/e06c68167ea96830bb8c9b5690848892c758620c_2_225x500.jpeg&quot; alt=&quot;Screenshot_2026-06-10-12-22-26-152_com.microsoft.emmx&quot; data-base62-sha1=&quot;w1lderDLeQ2YQ2TfxEZPS0bwHvK&quot; width=&quot;225&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/0/6/e06c68167ea96830bb8c9b5690848892c758620c_2_225x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/0/6/e06c68167ea96830bb8c9b5690848892c758620c_2_337x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/0/6/e06c68167ea96830bb8c9b5690848892c758620c_2_450x1000.jpeg 2x&quot; data-dominant-color=&quot;2E2F39&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;20 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;25 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2362049&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -252,7 +391,7 @@ Claude is accessible through Claude Code, an agentic coding tool that lets devel
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/c/d/ecd8810a70c7a5758fa69bdf3973b09c784d7bf6.png&quot; data-download-href=&quot;/uploads/short-url/xNexx11cTTBZSCCbLzJe8LPqQHY.png?dl=1&quot; title=&quot;广告&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/d/ecd8810a70c7a5758fa69bdf3973b09c784d7bf6_2_548x500.png&quot; alt=&quot;广告&quot; data-base62-sha1=&quot;xNexx11cTTBZSCCbLzJe8LPqQHY&quot; width=&quot;548&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/d/ecd8810a70c7a5758fa69bdf3973b09c784d7bf6_2_548x500.png, https://cdn3.ldstatic.com/optimized/4X/e/c/d/ecd8810a70c7a5758fa69bdf3973b09c784d7bf6_2_822x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/c/d/ecd8810a70c7a5758fa69bdf3973b09c784d7bf6_2_1096x1000.png 2x&quot; data-dominant-color=&quot;E0E0E0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;strong&gt;Free 免费版和 Go 版可能会看到广告&lt;/strong&gt;&lt;br&gt;
 Plus、Pro、Enterprise、Business、Education 用户不会看到广告。&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;20 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2361763&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -435,7 +574,7 @@ Plus、Pro、Enterprise、Business、Education 用户不会看到广告。&lt;p&
 &lt;p&gt;1、屏幕最下面的小白条有时候就不见了，不能返回其他页面，也不能切换app，只能通过小白点返回主屏幕，就又出来了。&lt;br&gt;
 2、截屏编辑不能保存，截的啥样，相册里存的就啥样，还要重复编辑一下。&lt;br&gt;
 3、王者营地闪退。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2360686&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -448,7 +587,7 @@ Plus、Pro、Enterprise、Business、Education 用户不会看到广告。&lt;p&
             &lt;p&gt;我本来做了个skills实现留言，结果今天看这个功能支持了&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/e/e/fee1f59bd85e737301b0779332d705a67827af7b.png&quot; data-download-href=&quot;/uploads/short-url/AmNonPn5L3LhodWSW2SyA1ICTOj.png?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/e/e/fee1f59bd85e737301b0779332d705a67827af7b.png&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;AmNonPn5L3LhodWSW2SyA1ICTOj&quot; width=&quot;690&quot; height=&quot;414&quot; data-dominant-color=&quot;F6F7F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/c/c/4cc2a3fc0514f1f6e62e1151206a3736bb53eb70.png&quot; data-download-href=&quot;/uploads/short-url/aX3iNExqd7GzqkhDoNF3CzmeydO.png?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/c/c/4cc2a3fc0514f1f6e62e1151206a3736bb53eb70.png&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;aX3iNExqd7GzqkhDoNF3CzmeydO&quot; width=&quot;690&quot; height=&quot;364&quot; data-dominant-color=&quot;F6F6F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2360249&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -461,80 +600,8 @@ Plus、Pro、Enterprise、Business、Education 用户不会看到广告。&lt;p&
             &lt;p&gt;原文：&lt;a href=&quot;https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;消息来源：&lt;a href=&quot;https://news.ycombinator.com/item?id=48453275&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Let&#39;s Encrypt bans certificate usage in any US sanctioned territory [pdf] | Hacker News&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;目前来说，换用 ZeroSSL 是不错的选择&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;15 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2360027&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>高考生免费游玩清明上河园</title>
-      <link>https://linux.do/t/topic/2359021</link>
-      <guid>linux.do-topic-2359021</guid>
-      <pubDate>Wed, 10 Jun 2026 01:35:09 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/6/0/2607c4fbe0da32b74c943201d70ed15e05db9f29.jpeg&quot; data-download-href=&quot;/uploads/short-url/5qqMYk0EaBIjLFVYnwQJF5vTZsl.jpeg?dl=1&quot; title=&quot;IMG_2683&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/6/0/2607c4fbe0da32b74c943201d70ed15e05db9f29_2_260x500.jpeg&quot; alt=&quot;IMG_2683&quot; data-base62-sha1=&quot;5qqMYk0EaBIjLFVYnwQJF5vTZsl&quot; width=&quot;260&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/6/0/2607c4fbe0da32b74c943201d70ed15e05db9f29_2_260x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/6/0/2607c4fbe0da32b74c943201d70ed15e05db9f29_2_390x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/6/0/2607c4fbe0da32b74c943201d70ed15e05db9f29_2_520x1000.jpeg 2x&quot; data-dominant-color=&quot;E7ECE1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-一直到6月底都可以玩免费玩，离得近的可以去玩玩&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2359021&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Notion business 上线 fable 5, 附 启用方法</title>
-      <link>https://linux.do/t/topic/2358627</link>
-      <guid>linux.do-topic-2358627</guid>
-      <pubDate>Wed, 10 Jun 2026 01:12:02 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/0/3/f035266681c02833f4f1f3189585c57bd870da28.png&quot; data-download-href=&quot;/uploads/short-url/ygYsUj4ueY7oYKR4kiLrkeo9FTW.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/0/3/f035266681c02833f4f1f3189585c57bd870da28_2_690x141.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ygYsUj4ueY7oYKR4kiLrkeo9FTW&quot; width=&quot;690&quot; height=&quot;141&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/0/3/f035266681c02833f4f1f3189585c57bd870da28_2_690x141.png, https://cdn3.ldstatic.com/original/4X/f/0/3/f035266681c02833f4f1f3189585c57bd870da28.png 1.5x, https://cdn3.ldstatic.com/original/4X/f/0/3/f035266681c02833f4f1f3189585c57bd870da28.png 2x&quot; data-dominant-color=&quot;FDFDFD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在 notion AI 启用即可。&lt;br&gt;
-该模型必须要求启用数据保留。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;默认情况下，Notion AI为企业版工作区使用零数据保留的LLM提供商，非企业版工作区的数据保留不超过30天，因此除非您主动启用，数据保留型LLM在您的Notion工作区中将处于关闭状态。&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;17 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2358627&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>现在可以邀请一个朋友加入 Codex以获得速率限制重置</title>
-      <link>https://linux.do/t/topic/2358448</link>
-      <guid>linux.do-topic-2358448</guid>
-      <pubDate>Wed, 10 Jun 2026 00:59:38 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/0/1/e012cd4fba4ef6e3e906b7b01f4d497869f4697c.jpeg&quot; data-download-href=&quot;/uploads/short-url/vYfeF0DmWuWXczdItXGvpdyzeO0.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/0/1/e012cd4fba4ef6e3e906b7b01f4d497869f4697c_2_361x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;vYfeF0DmWuWXczdItXGvpdyzeO0&quot; width=&quot;361&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/0/1/e012cd4fba4ef6e3e906b7b01f4d497869f4697c_2_361x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/0/1/e012cd4fba4ef6e3e906b7b01f4d497869f4697c_2_541x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/0/1/e012cd4fba4ef6e3e906b7b01f4d497869f4697c_2_722x1000.jpeg 2x&quot; data-dominant-color=&quot;343B4D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/3/f/53f1719daf072c6dc79d2bde16e5fa11d6e7d2a9.png&quot; data-download-href=&quot;/uploads/short-url/bYAV6r6kgyffrVWH0YC3f0FJV9L.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/f/53f1719daf072c6dc79d2bde16e5fa11d6e7d2a9_2_494x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bYAV6r6kgyffrVWH0YC3f0FJV9L&quot; width=&quot;494&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/f/53f1719daf072c6dc79d2bde16e5fa11d6e7d2a9_2_494x500.png, https://cdn3.ldstatic.com/optimized/4X/5/3/f/53f1719daf072c6dc79d2bde16e5fa11d6e7d2a9_2_741x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/5/3/f/53f1719daf072c6dc79d2bde16e5fa11d6e7d2a9.png 2x&quot; data-dominant-color=&quot;303038&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/4/3/243260ec6038a9c9112f2afc2755c16d098f6290.jpeg&quot; data-download-href=&quot;/uploads/short-url/5ad7IYuBNkU4fWhIILysINEMf60.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/4/3/243260ec6038a9c9112f2afc2755c16d098f6290_2_473x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5ad7IYuBNkU4fWhIILysINEMf60&quot; width=&quot;473&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/4/3/243260ec6038a9c9112f2afc2755c16d098f6290_2_473x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/4/3/243260ec6038a9c9112f2afc2755c16d098f6290_2_709x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/2/4/3/243260ec6038a9c9112f2afc2755c16d098f6290.jpeg 2x&quot; data-dominant-color=&quot;3D3D43&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-目前某些新版本可能出现，但我还没有被推送无法验证真伪..&lt;br&gt;
-有推送的佬可以说说&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;更多：&lt;/p&gt;&lt;aside class=&quot;quote quote-modified&quot; data-post=&quot;8&quot; data-topic=&quot;2358448&quot;&gt;
-  &lt;div class=&quot;title&quot;&gt;
-    &lt;div class=&quot;quote-controls&quot;&gt;&lt;/div&gt;
-    &lt;img alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot; src=&quot;https://cdn.ldstatic.com/user_avatar/linux.do/zywoo/48/1661921_2.png&quot; class=&quot;avatar&quot;&gt;
-    &lt;div class=&quot;quote-title__text-content&quot;&gt;
-      &lt;a href=&quot;https://linux.do/t/topic/2358448/8&quot;&gt;现在可以邀请一个朋友加入 Codex以获得速率限制重置&lt;/a&gt; &lt;a class=&quot;badge-category__wrapper &quot; href=&quot;https://linux.do/c/news/34&quot;&gt;&lt;span data-category-id=&quot;34&quot; style=&quot;--category-badge-color: #BB8FCE; --category-badge-text-color: #000000;&quot; data-drop-close=&quot;true&quot; class=&quot;badge-category --style-icon &quot; title=&quot;前沿快讯，不出门能知天下事。&quot;&gt;&lt;svg class=&quot;fa d-icon svg-icon svg-node&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg id=&quot;newspaper&quot; viewBox=&quot;0 0 512 512&quot;&gt;
-  &lt;path d=&quot;M96 96c0-35.3 28.7-64 64-64l288 0c35.3 0 64 28.7 64 64l0 320c0 35.3-28.7 64-64 64L80 480c-44.2 0-80-35.8-80-80L0 128c0-17.7 14.3-32 32-32s32 14.3 32 32l0 272c0 8.8 7.2 16 16 16s16-7.2 16-16L96 96zm64 24l0 80c0 13.3 10.7 24 24 24l112 0c13.3 0 24-10.7 24-24l0-80c0-13.3-10.7-24-24-24L184 96c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16l48 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16l48 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0c-8.8 0-16 7.2-16 16zM160 304c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-256 0c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-256 0c-8.8 0-16 7.2-16 16z&quot;&gt;&lt;/path&gt;
-&lt;/svg&gt;&lt;/svg&gt;
-&lt;span class=&quot;badge-category__name&quot;&gt;前沿快讯&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;blockquote&gt;
-    &lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/c/3/cc31078d040ee84f7306b8d84562f61c5815b86e.png&quot; data-download-href=&quot;/uploads/short-url/t8mrQEsvG4RaeaKzm0AZD6oMZVI.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;[image]&lt;/a&gt; 
-&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/5/e/15e7a28b65eed06ccb957c449a2e7efa321d9846.png&quot; data-download-href=&quot;/uploads/short-url/37MiKBYjoNgjM1YJqjAPct6jr94.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;[image]&lt;/a&gt; 
-有限制，一个账号每个月只能获得3次，邀请的号需要大于62天没有使用codex
-  &lt;/blockquote&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;27 个帖子 - 24 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2358448&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Claude AI 所有订阅用户额度已重置！</title>
-      <link>https://linux.do/t/topic/2358133</link>
-      <guid>linux.do-topic-2358133</guid>
-      <pubDate>Wed, 10 Jun 2026 00:18:52 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/c/e/fceba26d0c624977dc723bcfccf91c91db8b2507.jpeg&quot; data-download-href=&quot;/uploads/short-url/A5raminhiSr9rOXJPg4WGEK32If.jpeg?dl=1&quot; title=&quot;Screenshot_20260610_081732_com_twitter_android_MainActivity_edit_292127936999081&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/c/e/fceba26d0c624977dc723bcfccf91c91db8b2507_2_624x500.jpeg&quot; alt=&quot;Screenshot_20260610_081732_com_twitter_android_MainActivity_edit_292127936999081&quot; data-base62-sha1=&quot;A5raminhiSr9rOXJPg4WGEK32If&quot; width=&quot;624&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/c/e/fceba26d0c624977dc723bcfccf91c91db8b2507_2_624x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/c/e/fceba26d0c624977dc723bcfccf91c91db8b2507_2_936x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/c/e/fceba26d0c624977dc723bcfccf91c91db8b2507_2_1248x1000.jpeg 2x&quot; data-dominant-color=&quot;0A0A0B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;18 个帖子 - 18 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2358133&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
