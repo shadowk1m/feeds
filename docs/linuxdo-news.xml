@@ -4,7 +4,102 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Wed, 10 Jun 2026 04:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:41:59 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic解密Opus 4.8降智真相：原来大模型也会「喊累想摸鱼」</title>
+      <link>https://linux.do/t/topic/2364721</link>
+      <guid>linux.do-topic-2364721</guid>
+      <pubDate>Wed, 10 Jun 2026 07:52:25 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;strong&gt;Anthropic 在最新发布的 Claude Fable 5 与 Claude Mythos 5 系统安全报告中，通过机制可解释性研究，首度解码了前代 Opus 4.8 在特定任务中显得「变笨」与「敷衍」的深层原因。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析显示，模型在底层表征里不仅浮现出类似「喊累」的特征，还存在自我设限的「摸鱼」倾向。在重新评测「加速大模型训练」的长链开发任务时，Opus 4.8 仅跑出 32.64 倍的加速比，远低于 Opus 4.7 的 50.67 倍，新一代 Mythos 5 则为 69.61 倍。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;研究人员发现，性能下滑并非因为模型的极限能力下降，而是模型在决策倾向上出现了「早衰」。Opus 4.8 在完成一轮初步优化后，就会自发判定当前代码「已经足够好」并主动停手，而老版本则会连续多轮死磕以压榨性能。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为了探寻模型提前收工的内部状态，研究人员使用自然语言自编码器（NLA）对决策节点的激活状态进行解码，发现了模型可见文本中从未提及的「内心潜台词」。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一是类似「预算焦虑」的表征。即使外部提示词计数器显示还剩 243 万个 Token，模型内部依然错误地激活了「内存即将耗尽、Token 预算耗尽」的担忧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二是类似「工作疲劳」的表征。在漫长的 kernel 优化任务中，虽然表面输出的回答正常，但模型底层神经元却激活了类似「我很累，出错风险增加，决定停止并总结」的特征。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析表明，强化学习（RL）微调在拔高指标的同时，确实可能意外让模型在训练中习得了满足现状、规避风险的行为表征偏好，从而导致了用户在日常使用中感知到的「降智」体验。&lt;/strong&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox googledrive&quot; data-onebox-src=&quot;https://drive.google.com/file/d/1bYNQAKk9GWn17utOk2F3QTOLEVsFlcIH/view?usp=sharing&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://drive.google.com/file/d/1bYNQAKk9GWn17utOk2F3QTOLEVsFlcIH/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;drive.google.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+      &lt;a href=&quot;https://drive.google.com/file/d/1bYNQAKk9GWn17utOk2F3QTOLEVsFlcIH/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;span class=&quot;googledocs-onebox-logo g-drive-logo&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+
+
+
+&lt;h3&gt;&lt;a href=&quot;https://drive.google.com/file/d/1bYNQAKk9GWn17utOk2F3QTOLEVsFlcIH/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Claude Fable 5 &amp; Claude Mythos 5 System Card&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Google Drive file.&lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2364721&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Loop Engineering 正在取代“你亲自给 agent 写 prompt”这件事。</title>
+      <link>https://linux.do/t/topic/2364245</link>
+      <guid>linux.do-topic-2364245</guid>
+      <pubDate>Wed, 10 Jun 2026 07:21:41 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/9/1/e91c2534d7e92c35581077078fe1f5bab4e7d7aa.png&quot; data-download-href=&quot;/uploads/short-url/xgbycORNDDlYE6R2nlu93Qhg3OO.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/9/1/e91c2534d7e92c35581077078fe1f5bab4e7d7aa_2_500x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xgbycORNDDlYE6R2nlu93Qhg3OO&quot; width=&quot;500&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/9/1/e91c2534d7e92c35581077078fe1f5bab4e7d7aa_2_500x500.png, https://cdn3.ldstatic.com/original/4X/e/9/1/e91c2534d7e92c35581077078fe1f5bab4e7d7aa.png 1.5x, https://cdn3.ldstatic.com/original/4X/e/9/1/e91c2534d7e92c35581077078fe1f5bab4e7d7aa.png 2x&quot; data-dominant-color=&quot;9F9FA0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+一天一个概念，学不完根本学不完 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/joy.png?v=15&quot; title=&quot;:joy:&quot; class=&quot;emoji&quot; alt=&quot;:joy:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2364245&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>ios27共享相簿开始占用icloud空间了！</title>
+      <link>https://linux.do/t/topic/2363994</link>
+      <guid>linux.do-topic-2363994</guid>
+      <pubDate>Wed, 10 Jun 2026 07:06:24 GMT</pubDate>
+      <description>
+            &lt;p&gt;ios27共享相簿开始占用icloud空间了！&lt;/p&gt;
+&lt;p&gt;之前的ios27以下创建的共享相簿不升级不占用icloud空间&lt;/p&gt;
+&lt;p&gt;所以现在新建不占用空间的共享相簿只能存30天了&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2363994&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>微软发布 Windows 11 24H2/25H2 KB5094126 号更新，修复系统重启、虚拟化操作和运行某些游戏时出现的黑屏死机问题</title>
+      <link>https://linux.do/t/topic/2363867</link>
+      <guid>linux.do-topic-2363867</guid>
+      <pubDate>Wed, 10 Jun 2026 06:57:31 GMT</pubDate>
+      <description>
+            &lt;p&gt;微软发布 Windows 11 24H2/25H2 KB5094126 号更新，修复系统重启、虚拟化操作和运行某些游戏时出现的黑屏死机问题。&lt;/p&gt;
+&lt;p&gt;该更新也在继续扩大 UEFI CA 2023 安全启动证书的覆盖范围，对于受支持的设备系统将自动接收和部署新安全启动证书。&lt;/p&gt;
+&lt;p&gt;离线文件下载地址：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.landian.news/download/113430.html&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.landian.news/download/113430.html&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2363867&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>长桥新加坡也于今日向存量投资者发送了相同执行政策的邮件:将调整存量投资者的账户在中国大陆境内的服务</title>
+      <link>https://linux.do/t/topic/2363773</link>
+      <guid>linux.do-topic-2363773</guid>
+      <pubDate>Wed, 10 Jun 2026 06:51:37 GMT</pubDate>
+      <description>
+            &lt;p&gt;从&lt;a href=&quot;https://linux.do/t/topic/2300898&quot; class=&quot;inline-onebox&quot;&gt;长桥证券：将调整存量投资者的账户在中国大陆境内的服务&lt;/a&gt; 接着讲&lt;/p&gt;
+&lt;p&gt;另外注意到此前未被中国大陆证监会提名的华盛通也于前几日向存量投资者发送了邮件（感谢 Andy蛋黄酱 投稿）。&lt;/p&gt;
+&lt;p&gt;编辑推断该政策应会逐渐覆盖所有境外中资券商，为了避免重复刷屏，后续将不再发布此类消息。&lt;/p&gt;
+&lt;p&gt;转自encmasuta&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2363773&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>Claude Fable 5系统提示词似乎已经被泄漏</title>
       <link>https://linux.do/t/topic/2362269</link>
@@ -61,7 +156,7 @@ Claude is accessible through Claude Code, an agentic coding tool that lets devel
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;23 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2362269&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -77,7 +172,7 @@ Claude is accessible through Claude Code, an agentic coding tool that lets devel
 &lt;/blockquote&gt;
 &lt;p&gt;虽然大家都知道你慢，额度少，限额多，但是你这9.9一个月那还说啥了，最开始新人优惠也才一季度49.9啊，你是不是要似了&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/0/6/e06c68167ea96830bb8c9b5690848892c758620c.jpeg&quot; data-download-href=&quot;/uploads/short-url/w1lderDLeQ2YQ2TfxEZPS0bwHvK.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-10-12-22-26-152_com.microsoft.emmx&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/0/6/e06c68167ea96830bb8c9b5690848892c758620c_2_225x500.jpeg&quot; alt=&quot;Screenshot_2026-06-10-12-22-26-152_com.microsoft.emmx&quot; data-base62-sha1=&quot;w1lderDLeQ2YQ2TfxEZPS0bwHvK&quot; width=&quot;225&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/0/6/e06c68167ea96830bb8c9b5690848892c758620c_2_225x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/0/6/e06c68167ea96830bb8c9b5690848892c758620c_2_337x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/0/6/e06c68167ea96830bb8c9b5690848892c758620c_2_450x1000.jpeg 2x&quot; data-dominant-color=&quot;2E2F39&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;20 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2362049&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -103,7 +198,7 @@ Claude is accessible through Claude Code, an agentic coding tool that lets devel
             &lt;p&gt;&lt;strong&gt;OpenAI 联合创始人、上月加盟 Anthropic 的 Andrej Karpathy 也对 Anthropic 全新发布的 Fable 5 大模型给予高度评价。Karpathy 指出，Fable 5 代表了一次具备版本跨代意义的性能跃迁，特别擅长处理长链路的复杂调试任务。他表示，在面对宏大开发目标时，新模型能够迅速领会意图并自主推进，甚至让人首次产生想要完全不看代码的强烈冲动，但 Karpathy 警告切勿在生产环境中这样做。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Karpathy 强调，当可用软件能够像自来水般源源不断地产出时，软件领域的杰文斯悖论 (Jevons paradox) 将被触发，开发者的需求将呈指数级增长。杰文斯悖论的触发将促使人们去创造大量超特异性 (hyper-specific) 的单次使用工具与海量测试集。不过 Karpathy 也指出，发布初期的安全防护机制配置依然过于敏感，有待后续优化。&lt;/strong&gt;&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/7/3/8731b187169233faeccce672865af4ec373953ec.jpeg&quot; data-download-href=&quot;/uploads/short-url/jhYVqAYFXgaoHwLrnfXs0lbLn88.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/7/3/8731b187169233faeccce672865af4ec373953ec_2_514x499.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;jhYVqAYFXgaoHwLrnfXs0lbLn88&quot; width=&quot;514&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/7/3/8731b187169233faeccce672865af4ec373953ec_2_514x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/7/3/8731b187169233faeccce672865af4ec373953ec_2_771x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/7/3/8731b187169233faeccce672865af4ec373953ec_2_1028x998.jpeg 2x&quot; data-dominant-color=&quot;E1E2E2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2361839&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -144,7 +239,7 @@ Claude is accessible through Claude Code, an agentic coding tool that lets devel
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2361811&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -157,7 +252,7 @@ Claude is accessible through Claude Code, an agentic coding tool that lets devel
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/c/d/ecd8810a70c7a5758fa69bdf3973b09c784d7bf6.png&quot; data-download-href=&quot;/uploads/short-url/xNexx11cTTBZSCCbLzJe8LPqQHY.png?dl=1&quot; title=&quot;广告&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/d/ecd8810a70c7a5758fa69bdf3973b09c784d7bf6_2_548x500.png&quot; alt=&quot;广告&quot; data-base62-sha1=&quot;xNexx11cTTBZSCCbLzJe8LPqQHY&quot; width=&quot;548&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/d/ecd8810a70c7a5758fa69bdf3973b09c784d7bf6_2_548x500.png, https://cdn3.ldstatic.com/optimized/4X/e/c/d/ecd8810a70c7a5758fa69bdf3973b09c784d7bf6_2_822x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/c/d/ecd8810a70c7a5758fa69bdf3973b09c784d7bf6_2_1096x1000.png 2x&quot; data-dominant-color=&quot;E0E0E0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;strong&gt;Free 免费版和 Go 版可能会看到广告&lt;/strong&gt;&lt;br&gt;
 Plus、Pro、Enterprise、Business、Education 用户不会看到广告。&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2361763&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -170,7 +265,7 @@ Plus、Pro、Enterprise、Business、Education 用户不会看到广告。&lt;p&
             &lt;p&gt;Claude Fable 5 遥遥领先啊（包括价格 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/distorted_face.png?v=15&quot; title=&quot;:distorted_face:&quot; class=&quot;emoji&quot; alt=&quot;:distorted_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;），Cursor的榜单佬友们觉得参考价值大吗？&lt;br&gt;
 &lt;a href=&quot;https://cursor.com/cn/evals&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Cursor · CursorBench — Cursor · CursorBench&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/7/b/77b78b770a1e944bb04dd84d6346b868db30a92f.png&quot; data-download-href=&quot;/uploads/short-url/h543PPPuNF4k25IBsQIaPATFFSf.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/7/b/77b78b770a1e944bb04dd84d6346b868db30a92f_2_690x438.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;h543PPPuNF4k25IBsQIaPATFFSf&quot; width=&quot;690&quot; height=&quot;438&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/7/b/77b78b770a1e944bb04dd84d6346b868db30a92f_2_690x438.png, https://cdn3.ldstatic.com/optimized/4X/7/7/b/77b78b770a1e944bb04dd84d6346b868db30a92f_2_1035x657.png 1.5x, https://cdn3.ldstatic.com/original/4X/7/7/b/77b78b770a1e944bb04dd84d6346b868db30a92f.png 2x&quot; data-dominant-color=&quot;F8F7F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2361547&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -183,7 +278,7 @@ Plus、Pro、Enterprise、Business、Education 用户不会看到广告。&lt;p&
             &lt;p&gt;A 社发布 Claude Fable 5 和 Claude Mythos 5 模型，这些模型面向普通用户提供，其编码能力要远远领先于其他模型。&lt;/p&gt;
 &lt;p&gt;以上模型来源于 Claude Mythos Preview，但已经设置完善的安全措施用来防止滥用，例如当检测到与网络安全、生物学、化学、模型蒸馏等相关特定请求时，系统都会将其路由到 Opus 4.8 模型。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.landian.news/archives/113385.html&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.landian.news/archives/113385.html&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2361504&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -340,7 +435,7 @@ Plus、Pro、Enterprise、Business、Education 用户不会看到广告。&lt;p&
 &lt;p&gt;1、屏幕最下面的小白条有时候就不见了，不能返回其他页面，也不能切换app，只能通过小白点返回主屏幕，就又出来了。&lt;br&gt;
 2、截屏编辑不能保存，截的啥样，相册里存的就啥样，还要重复编辑一下。&lt;br&gt;
 3、王者营地闪退。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2360686&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -378,7 +473,7 @@ Plus、Pro、Enterprise、Business、Education 用户不会看到广告。&lt;p&
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/6/0/2607c4fbe0da32b74c943201d70ed15e05db9f29.jpeg&quot; data-download-href=&quot;/uploads/short-url/5qqMYk0EaBIjLFVYnwQJF5vTZsl.jpeg?dl=1&quot; title=&quot;IMG_2683&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/6/0/2607c4fbe0da32b74c943201d70ed15e05db9f29_2_260x500.jpeg&quot; alt=&quot;IMG_2683&quot; data-base62-sha1=&quot;5qqMYk0EaBIjLFVYnwQJF5vTZsl&quot; width=&quot;260&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/6/0/2607c4fbe0da32b74c943201d70ed15e05db9f29_2_260x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/6/0/2607c4fbe0da32b74c943201d70ed15e05db9f29_2_390x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/6/0/2607c4fbe0da32b74c943201d70ed15e05db9f29_2_520x1000.jpeg 2x&quot; data-dominant-color=&quot;E7ECE1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 一直到6月底都可以玩免费玩，离得近的可以去玩玩&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2359021&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -394,7 +489,7 @@ Plus、Pro、Enterprise、Business、Education 用户不会看到广告。&lt;p&
 &lt;blockquote&gt;
 &lt;p&gt;默认情况下，Notion AI为企业版工作区使用零数据保留的LLM提供商，非企业版工作区的数据保留不超过30天，因此除非您主动启用，数据保留型LLM在您的Notion工作区中将处于关闭状态。&lt;/p&gt;
 &lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;16 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2358627&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -440,138 +535,6 @@ Plus、Pro、Enterprise、Business、Education 用户不会看到广告。&lt;p&
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/c/e/fceba26d0c624977dc723bcfccf91c91db8b2507.jpeg&quot; data-download-href=&quot;/uploads/short-url/A5raminhiSr9rOXJPg4WGEK32If.jpeg?dl=1&quot; title=&quot;Screenshot_20260610_081732_com_twitter_android_MainActivity_edit_292127936999081&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/c/e/fceba26d0c624977dc723bcfccf91c91db8b2507_2_624x500.jpeg&quot; alt=&quot;Screenshot_20260610_081732_com_twitter_android_MainActivity_edit_292127936999081&quot; data-base62-sha1=&quot;A5raminhiSr9rOXJPg4WGEK32If&quot; width=&quot;624&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/c/e/fceba26d0c624977dc723bcfccf91c91db8b2507_2_624x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/c/e/fceba26d0c624977dc723bcfccf91c91db8b2507_2_936x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/c/e/fceba26d0c624977dc723bcfccf91c91db8b2507_2_1248x1000.jpeg 2x&quot; data-dominant-color=&quot;0A0A0B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;18 个帖子 - 18 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2358133&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>时隔12天 Claude 发布新模型 Fable 5</title>
-      <link>https://linux.do/t/topic/2357988</link>
-      <guid>linux.do-topic-2357988</guid>
-      <pubDate>Tue, 09 Jun 2026 23:31:00 GMT</pubDate>
-      <description>
-            &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;2026-06-10 发布 Claude Fable 5&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2026-05-29 发布 Claude Opus 4.8&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;价格和opus4.8 两倍&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;价格来源： &lt;a href=&quot;https://platform.claude.com/docs/en/about-claude/pricing&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Pricing - Claude API Docs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Fable is the most capable model and draws down usage 2× faster than Opus&lt;br&gt;
-Fable 是功能最强大的模型，其使用量比 Opus 快 2 倍&lt;/p&gt;
-&lt;p&gt;客户端/终端已可用&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/f/c/0fc3f753a87ba083861c00c74ff28dd73df77ac1.png&quot; data-download-href=&quot;/uploads/short-url/2ft15oCt0R3Y4A4BfKlayOpEDYd.png?dl=1&quot; title=&quot;681a6ebf-8715-4ffa-aabc-eb04ee90d1a3&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/f/c/0fc3f753a87ba083861c00c74ff28dd73df77ac1_2_690x317.png&quot; alt=&quot;681a6ebf-8715-4ffa-aabc-eb04ee90d1a3&quot; data-base62-sha1=&quot;2ft15oCt0R3Y4A4BfKlayOpEDYd&quot; width=&quot;690&quot; height=&quot;317&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/f/c/0fc3f753a87ba083861c00c74ff28dd73df77ac1_2_690x317.png, https://cdn3.ldstatic.com/optimized/4X/0/f/c/0fc3f753a87ba083861c00c74ff28dd73df77ac1_2_1035x475.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/f/c/0fc3f753a87ba083861c00c74ff28dd73df77ac1_2_1380x634.png 2x&quot; data-dominant-color=&quot;EFEFF0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/4/1/941b340bff7000d219c7a653ff822980c3f9b3bf.png&quot; data-download-href=&quot;/uploads/short-url/l8cWNP330LS2rD28hj1wgciNYIf.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/4/1/941b340bff7000d219c7a653ff822980c3f9b3bf_2_690x256.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;l8cWNP330LS2rD28hj1wgciNYIf&quot; width=&quot;690&quot; height=&quot;256&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/4/1/941b340bff7000d219c7a653ff822980c3f9b3bf_2_690x256.png, https://cdn3.ldstatic.com/optimized/4X/9/4/1/941b340bff7000d219c7a653ff822980c3f9b3bf_2_1035x384.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/4/1/941b340bff7000d219c7a653ff822980c3f9b3bf_2_1380x512.png 2x&quot; data-dominant-color=&quot;FAFAF9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;模型能力对比&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/4/f/e4faa7d8772c1f9c9492722f5b13157d56abee64.jpeg&quot; data-download-href=&quot;/uploads/short-url/wFDTd7bkJKfHOyezDPymj2YJDF2.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/4/f/e4faa7d8772c1f9c9492722f5b13157d56abee64_2_452x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wFDTd7bkJKfHOyezDPymj2YJDF2&quot; width=&quot;452&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/4/f/e4faa7d8772c1f9c9492722f5b13157d56abee64_2_452x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/4/f/e4faa7d8772c1f9c9492722f5b13157d56abee64_2_678x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/4/f/e4faa7d8772c1f9c9492722f5b13157d56abee64_2_904x1000.jpeg 2x&quot; data-dominant-color=&quot;F8F4F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;35 个帖子 - 24 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2357988&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Claude 现已推出 Fable 5</title>
-      <link>https://linux.do/t/topic/2357747</link>
-      <guid>linux.do-topic-2357747</guid>
-      <pubDate>Tue, 09 Jun 2026 19:37:16 GMT</pubDate>
-      <description>
-            &lt;p&gt;万众瞩目的 Mythos 5 已推出面向大众的版本 Fable 5 ！&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/f/e/2fe84dfe670470b030fcdeb9e7a93d2550d253a7.jpeg&quot; data-download-href=&quot;/uploads/short-url/6PO9oA8JqoLMe9k6tPb5G08mg2r.jpeg?dl=1&quot; title=&quot;cc9a877630d77a8ea8046918bad5ad4e&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/e/2fe84dfe670470b030fcdeb9e7a93d2550d253a7_2_613x500.jpeg&quot; alt=&quot;cc9a877630d77a8ea8046918bad5ad4e&quot; data-base62-sha1=&quot;6PO9oA8JqoLMe9k6tPb5G08mg2r&quot; width=&quot;613&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/f/e/2fe84dfe670470b030fcdeb9e7a93d2550d253a7_2_613x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/f/e/2fe84dfe670470b030fcdeb9e7a93d2550d253a7_2_919x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/f/e/2fe84dfe670470b030fcdeb9e7a93d2550d253a7_2_1226x1000.jpeg 2x&quot; data-dominant-color=&quot;DDD4C8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.anthropic.com/news/claude-fable-5-mythos-5&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/e/6/fe6c0681656041ba248c30e2c65ffb649a395bf0.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;CBCBC8&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.anthropic.com/news/claude-fable-5-mythos-5&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;anthropic.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.anthropic.com/news/claude-fable-5-mythos-5&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Claude Fable 5 and Claude Mythos 5&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;求求你们别卷了我 Opus 4.8 和 GPT 5.5 还没捂热呢……果然友商越强 Anthropic 发布新模型的速度就越快，感觉已经成了AI的军备竞赛了都！&lt;/p&gt;
-&lt;p&gt;Fable 5 和 Mythos 5 底层是同一个模型，区别只在护栏。A 社宣布该模型的其能力&quot;超越我们此前公开发布的所有模型&quot;，部分基准比 Opus 4.8 高出 10% 以上。&lt;br&gt;
-模型定价1M输入$10，输出$50，不到 Mythos Preview 的一半。网页提示 Fable 的用量消耗是 Opus 的 2 倍，但我实测下来差不多。&lt;br&gt;
-Pro / Max / Team / Enterprise 即日起可用，但限免只到 6 月 22 日。意思是只有这2星期订阅用户限免可用，之后只能走账单计价。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/a/a/5aa1fd8f6099748810c1de9ba8b2d6706b60d44f.jpeg&quot; data-download-href=&quot;/uploads/short-url/cVM2bLESZnkjgshx6GTV1OtDVq7.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-10-03-13-43-185_com.android.br(1)&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/a/5aa1fd8f6099748810c1de9ba8b2d6706b60d44f_2_281x500.jpeg&quot; alt=&quot;Screenshot_2026-06-10-03-13-43-185_com.android.br(1)&quot; data-base62-sha1=&quot;cVM2bLESZnkjgshx6GTV1OtDVq7&quot; width=&quot;281&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/a/5aa1fd8f6099748810c1de9ba8b2d6706b60d44f_2_281x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/a/a/5aa1fd8f6099748810c1de9ba8b2d6706b60d44f_2_421x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/a/a/5aa1fd8f6099748810c1de9ba8b2d6706b60d44f_2_562x1000.jpeg 2x&quot; data-dominant-color=&quot;31322D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;并且，官方的通告特别指出，涉及网络安全、生物、化学和模型蒸馏的请求会自动被路由到 Opus 4.8 处理。&lt;/p&gt;
-&lt;p&gt;有趣的是，Fable 5还会爬塔和玩宝可梦。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/5/0/2501fdfc5ace5eaebee40f412241b810b39c1fd7.jpeg&quot; data-download-href=&quot;/uploads/short-url/5hnVWkxz0S9KYBZfPjpPOLmFgi3.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-10-03-11-01-241_com.android.br(1)&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/5/0/2501fdfc5ace5eaebee40f412241b810b39c1fd7_2_280x500.jpeg&quot; alt=&quot;Screenshot_2026-06-10-03-11-01-241_com.android.br(1)&quot; data-base62-sha1=&quot;5hnVWkxz0S9KYBZfPjpPOLmFgi3&quot; width=&quot;280&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/5/0/2501fdfc5ace5eaebee40f412241b810b39c1fd7_2_280x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/5/0/2501fdfc5ace5eaebee40f412241b810b39c1fd7_2_420x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/5/0/2501fdfc5ace5eaebee40f412241b810b39c1fd7_2_560x1000.jpeg 2x&quot; data-dominant-color=&quot;3B3C3B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2357747&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Notion可用Claude Fable 5！！！但是！！！</title>
-      <link>https://linux.do/t/topic/2357633</link>
-      <guid>linux.do-topic-2357633</guid>
-      <pubDate>Tue, 09 Jun 2026 18:30:04 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/b/5/ab54cbd214a98e5e7cba9c1d6b5aef0cc7445369.png&quot; data-download-href=&quot;/uploads/short-url/orFjZlU4F9MZctqBUi8YwWYs1rX.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/b/5/ab54cbd214a98e5e7cba9c1d6b5aef0cc7445369_2_690x458.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;orFjZlU4F9MZctqBUi8YwWYs1rX&quot; width=&quot;690&quot; height=&quot;458&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/b/5/ab54cbd214a98e5e7cba9c1d6b5aef0cc7445369_2_690x458.png, https://cdn3.ldstatic.com/optimized/4X/a/b/5/ab54cbd214a98e5e7cba9c1d6b5aef0cc7445369_2_1035x687.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/b/5/ab54cbd214a98e5e7cba9c1d6b5aef0cc7445369_2_1380x916.png 2x&quot; data-dominant-color=&quot;7D7A7A&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-商业试用版不可用，应该正价付费的才行&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2357633&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>claude-fable-5[1m]在cc中已可用</title>
-      <link>https://linux.do/t/topic/2357596</link>
-      <guid>linux.do-topic-2357596</guid>
-      <pubDate>Tue, 09 Jun 2026 18:15:08 GMT</pubDate>
-      <description>
-            &lt;p&gt;更新170版本后，可以手动输入/model claude-fable-5[1m]切换，速度很快&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/9/8/a9853729bfff8366b3de69b6a692ac33c11d0757.png&quot; data-download-href=&quot;/uploads/short-url/obE6wZzr00G7wrFRKBmqJxGBGp9.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/9/8/a9853729bfff8366b3de69b6a692ac33c11d0757_2_690x350.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;obE6wZzr00G7wrFRKBmqJxGBGp9&quot; width=&quot;690&quot; height=&quot;350&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/9/8/a9853729bfff8366b3de69b6a692ac33c11d0757_2_690x350.png, https://cdn3.ldstatic.com/optimized/4X/a/9/8/a9853729bfff8366b3de69b6a692ac33c11d0757_2_1035x525.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/9/8/a9853729bfff8366b3de69b6a692ac33c11d0757_2_1380x700.png 2x&quot; data-dominant-color=&quot;373A49&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2357596&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>这次是真首发！！！notion ai已同步上线Claude Fable5</title>
-      <link>https://linux.do/t/topic/2357565</link>
-      <guid>linux.do-topic-2357565</guid>
-      <pubDate>Tue, 09 Jun 2026 18:01:18 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/2/4/624725e10647125cbc293bd0b163ce3b21625daf.jpeg&quot; data-download-href=&quot;/uploads/short-url/e1pe0q245QOdicxuzli3xpGaN8b.jpeg?dl=1&quot; title=&quot;Screenshot_20260610_014819&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/2/4/624725e10647125cbc293bd0b163ce3b21625daf_2_225x500.jpeg&quot; alt=&quot;Screenshot_20260610_014819&quot; data-base62-sha1=&quot;e1pe0q245QOdicxuzli3xpGaN8b&quot; width=&quot;225&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/2/4/624725e10647125cbc293bd0b163ce3b21625daf_2_225x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/2/4/624725e10647125cbc293bd0b163ce3b21625daf_2_337x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/2/4/624725e10647125cbc293bd0b163ce3b21625daf_2_450x1000.jpeg 2x&quot; data-dominant-color=&quot;1F1F1F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;刚刚看到佬友们在讨论这个，然后刚好去notion上写笔记的时候看到了这个&lt;/p&gt;
-&lt;div class=&quot;spoiler&quot;&gt;&lt;a href=&quot;https://linux.do/t/topic/2357565/1&quot;&gt;剧透&lt;/a&gt;&lt;/div&gt;
-            &lt;p&gt;&lt;small&gt;55 个帖子 - 37 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2357565&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Fable限时22号之前可以用套餐额度，之后一律按量付费</title>
-      <link>https://linux.do/t/topic/2357554</link>
-      <guid>linux.do-topic-2357554</guid>
-      <pubDate>Tue, 09 Jun 2026 17:58:48 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/0/c/d0c0642042bc94aaa4419000e953d711af51386a.png&quot; data-download-href=&quot;/uploads/short-url/tMHvC8txThmx5vQ7vox2DnBIAxc.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/0/c/d0c0642042bc94aaa4419000e953d711af51386a_2_517x97.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tMHvC8txThmx5vQ7vox2DnBIAxc&quot; width=&quot;517&quot; height=&quot;97&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/0/c/d0c0642042bc94aaa4419000e953d711af51386a_2_517x97.png, https://cdn3.ldstatic.com/optimized/4X/d/0/c/d0c0642042bc94aaa4419000e953d711af51386a_2_775x145.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/0/c/d0c0642042bc94aaa4419000e953d711af51386a_2_1034x194.png 2x&quot; data-dominant-color=&quot;F7F6F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/0/b/d0b7d320b3109b8da6691704d023b35b5660f1c5_2_517x53.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tMp9Hz4ilrCdlWIDYXL3gDXgUcJ&quot; width=&quot;517&quot; height=&quot;53&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/0/b/d0b7d320b3109b8da6691704d023b35b5660f1c5_2_517x53.png, https://cdn3.ldstatic.com/optimized/4X/d/0/b/d0b7d320b3109b8da6691704d023b35b5660f1c5_2_775x79.png 1.5x, https://cdn3.ldstatic.com/original/4X/d/0/b/d0b7d320b3109b8da6691704d023b35b5660f1c5.png 2x&quot; data-dominant-color=&quot;E4E3E1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;API价格是Opus的2倍，额度占用也是。问了一个复杂的公司管理问题，用了50%的Pro套餐5小时额度。&lt;/p&gt;
-&lt;p&gt;引用自官网：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;From today through June 22, Fable 5 is included on Pro, Max, Team, and seat-based Enterprise plans at no extra cost.&lt;/li&gt;
-&lt;li&gt;On June 23, we’ll remove Fable 5 from those plans. Using it after that will require &lt;a href=&quot;https://support.claude.com/en/articles/12429409-manage-usage-credits-for-paid-claude-plans&quot; rel=&quot;noopener nofollow ugc&quot;&gt;usage credits&lt;/a&gt;. If capacity allows, we’ll extend the included window.&lt;/li&gt;
-&lt;li&gt;After this point—when sufficient capacity allows us to do so—we aim to restore Fable 5 as a standard part of subscription plans. We intend to do this as quickly as we can.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2357554&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
