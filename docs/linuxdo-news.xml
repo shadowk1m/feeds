@@ -4,7 +4,59 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Fri, 12 Jun 2026 16:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 18:21:44 GMT</lastBuildDate>
+    <item>
+      <title>DigitalOcean学生包积分将在7月31号停用</title>
+      <link>https://linux.do/t/topic/2390286</link>
+      <guid>linux.do-topic-2390286</guid>
+      <pubDate>Fri, 12 Jun 2026 16:49:51 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/1/f/b1fc483409edb5d9786e63858f7145ffdcf2f6c0.png&quot; data-download-href=&quot;/uploads/short-url/pox1uteb7aPzAcE07dy93AmKDuM.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/1/f/b1fc483409edb5d9786e63858f7145ffdcf2f6c0_2_690x378.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;pox1uteb7aPzAcE07dy93AmKDuM&quot; width=&quot;690&quot; height=&quot;378&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/1/f/b1fc483409edb5d9786e63858f7145ffdcf2f6c0_2_690x378.png, https://cdn3.ldstatic.com/original/4X/b/1/f/b1fc483409edb5d9786e63858f7145ffdcf2f6c0.png 1.5x, https://cdn3.ldstatic.com/original/4X/b/1/f/b1fc483409edb5d9786e63858f7145ffdcf2f6c0.png 2x&quot; data-dominant-color=&quot;C7CACA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+rt 应该是合作不继续了&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;附上译文&lt;/p&gt;
+&lt;p&gt;您好，&lt;/p&gt;
+&lt;p&gt;我们写信通知您：DigitalOcean 正在逐步结束参与 GitHub Student Developer Pack（GitHub 学生开发者礼包）计划，因此，通过该礼包获得的所有 DigitalOcean 赠送额度（Credits）将于 &lt;strong&gt;2026 年 7 月 31 日&lt;/strong&gt; 到期。&lt;/p&gt;
+&lt;p&gt;除了 GitHub 发出的通知外，我们也希望直接向您说明这一变更，以便您有充足的时间做好规划。&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-19061051-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19061051-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;这对您意味着什么&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;您当前的赠送额度仍然有效，并且在 &lt;strong&gt;2026 年 7 月 31 日之前&lt;/strong&gt; 可以继续用于符合条件的 DigitalOcean 服务。有关 DigitalOcean 促销额度和折扣条款的更多信息，请参阅相关说明。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;7 月 31 日之后&lt;/strong&gt;，任何未使用的额度都将失效，且无法延期、转让或兑换。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;7 月 31 日之后&lt;/strong&gt;，您的账户将恢复为标准计费模式。如果您仍在运行需要付费的资源或项目，相关费用将按照账户绑定的付款方式正常扣费。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a name=&quot;p-19061051-h-7-31-2&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19061051-h-7-31-2&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;您可能需要在 7 月 31 日前完成的事项&lt;/h3&gt;
+&lt;h4&gt;&lt;a name=&quot;p-19061051-h-1-3&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19061051-h-1-3&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;1. 查看您的余额和使用情况&lt;/h4&gt;
+&lt;p&gt;登录您的 DigitalOcean 账户，查看剩余赠送额度以及当前正在运行的资源。&lt;/p&gt;
+&lt;h4&gt;&lt;a name=&quot;p-19061051-h-2-4&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19061051-h-2-4&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;2. 决定保留哪些项目&lt;/h4&gt;
+&lt;p&gt;如果您希望继续使用 DigitalOcean，除了确保账户中有有效的付款方式外，无需采取任何额外操作。&lt;/p&gt;
+&lt;p&gt;如果您不打算继续使用，请务必在 &lt;strong&gt;7 月 31 日之前&lt;/strong&gt; 关闭或删除不再需要的付费资源（项目），以避免之后产生费用。&lt;/p&gt;
+&lt;p&gt;为了方便您操作，我们提供了关闭项目的相关说明。请注意，在删除项目之前，请先备份所需数据，因为删除项目后，其数据将被永久移除。&lt;/p&gt;
+&lt;h4&gt;&lt;a name=&quot;p-19061051-h-3-5&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19061051-h-3-5&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;3. 如有疑问，请联系我们&lt;/h4&gt;
+&lt;p&gt;如果您不确定当前有哪些资源正在运行，或者想了解在标准付费方案下可能产生的费用，欢迎随时联系我们。我们很乐意帮助您进行评估和规划。&lt;/p&gt;
+&lt;p&gt;感谢您一直以来使用 DigitalOcean 构建和开发项目。能够参与您的学习与创新之旅，我们深感荣幸，也希望未来能继续陪伴您成长。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DigitalOcean 团队&lt;/strong&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;20 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2390286&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>通过GitHub学生开发者包获得的DigitalOcean学分将于2026年7月31日到期</title>
+      <link>https://linux.do/t/topic/2390285</link>
+      <guid>linux.do-topic-2390285</guid>
+      <pubDate>Fri, 12 Jun 2026 16:49:40 GMT</pubDate>
+      <description>
+            &lt;p&gt;我们写信通知您，DigitalOcean将逐步减少对GitHub学生开发包的参与，所有通过该包提供的学分将在以下日期到期。&lt;strong&gt;July 31, 2026&lt;/strong&gt;.&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/0/f/40f48f16a06dd4331218b9ed9f843157ea8cb0c6.png&quot; data-download-href=&quot;/uploads/short-url/9gCwrfKBfRKPpdgohZPTJpS7uzc.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/f/40f48f16a06dd4331218b9ed9f843157ea8cb0c6_2_423x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9gCwrfKBfRKPpdgohZPTJpS7uzc&quot; width=&quot;423&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/f/40f48f16a06dd4331218b9ed9f843157ea8cb0c6_2_423x500.png, https://cdn3.ldstatic.com/optimized/4X/4/0/f/40f48f16a06dd4331218b9ed9f843157ea8cb0c6_2_634x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/0/f/40f48f16a06dd4331218b9ed9f843157ea8cb0c6_2_846x1000.png 2x&quot; data-dominant-color=&quot;D9DBDB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+前几天才部署好的服务器啊。。。&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2390285&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>SpaceX在纳斯达克上市了</title>
       <link>https://linux.do/t/topic/2389830</link>
@@ -12,7 +64,7 @@
       <pubDate>Fri, 12 Jun 2026 15:29:41 GMT</pubDate>
       <description>
             &lt;p&gt;按照SpaceX174美元开盘价计算，马斯克的SpaceX持股价值升至约8870亿美元，总身家接近1.17万亿美元，成为人类历史首位万亿美元身价富豪。马斯克现在是宇宙中最牛的&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/horse.png?v=15&quot; title=&quot;:horse:&quot; class=&quot;emoji&quot; alt=&quot;:horse:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;了。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389830&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -25,10 +77,19 @@
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/0/9/c094d9f398118eaec07426638a9797489ff0f8a7.jpeg&quot; data-download-href=&quot;/uploads/short-url/rtEAo83UrFSSyYErwtJfSs10XSn.jpeg?dl=1&quot; title=&quot;Screenshot_20260612_224527&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/0/9/c094d9f398118eaec07426638a9797489ff0f8a7_2_417x500.jpeg&quot; alt=&quot;Screenshot_20260612_224527&quot; data-base62-sha1=&quot;rtEAo83UrFSSyYErwtJfSs10XSn&quot; width=&quot;417&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/0/9/c094d9f398118eaec07426638a9797489ff0f8a7_2_417x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/0/9/c094d9f398118eaec07426638a9797489ff0f8a7_2_625x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/0/9/c094d9f398118eaec07426638a9797489ff0f8a7_2_834x1000.jpeg 2x&quot; data-dominant-color=&quot;323233&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/8/9/a890af97b07b90706babf5ef75697502c6e9c705.jpeg&quot; data-download-href=&quot;/uploads/short-url/o3ccAXLMcsAP45siPw7V4M4j6br.jpeg?dl=1&quot; title=&quot;Screenshot_20260612_230233&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/8/9/a890af97b07b90706babf5ef75697502c6e9c705_2_355x499.jpeg&quot; alt=&quot;Screenshot_20260612_230233&quot; data-base62-sha1=&quot;o3ccAXLMcsAP45siPw7V4M4j6br&quot; width=&quot;355&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/8/9/a890af97b07b90706babf5ef75697502c6e9c705_2_355x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/8/9/a890af97b07b90706babf5ef75697502c6e9c705_2_532x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/8/9/a890af97b07b90706babf5ef75697502c6e9c705_2_710x998.jpeg 2x&quot; data-dominant-color=&quot;9EA6B0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;专家智商正常520 思考了还能有二百五 不思考，只有2.5&lt;br&gt;
-结果专家模式有额度限制 这还玩啥呀？ &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/7/0/70f270f51f6f3308a061c989785af1379e4b1284.png?v=15&quot; title=&quot;:bili_102:&quot; class=&quot;emoji emoji-custom&quot; alt=&quot;:bili_102:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+结果专家模式有额度限制 这还玩啥呀？ &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/7/0/70f270f51f6f3308a061c989785af1379e4b1284.png?v=15&quot; title=&quot;:bili_102:&quot; class=&quot;emoji emoji-custom&quot; alt=&quot;:bili_102:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
+佬友测试:&lt;/p&gt;
+&lt;aside class=&quot;quote no-group&quot; data-username=&quot;niubiPlus1&quot; data-post=&quot;7&quot; data-topic=&quot;2389621&quot; data-full=&quot;true&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;
+&lt;div class=&quot;quote-controls&quot;&gt;&lt;/div&gt;
+&lt;img alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot; src=&quot;https://cdn.ldstatic.com/user_avatar/linux.do/niubiplus1/48/128429_2.png&quot; class=&quot;avatar&quot;&gt; niubiPlus1:&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不知道思考模型还会不会上，专家模型测试了一下，一天30次，用完只能快速模型，之前还能思考模型兜底 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/thinking.png?v=15&quot; title=&quot;:thinking:&quot; class=&quot;emoji&quot; alt=&quot;:thinking:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/aside&gt;
 &lt;p&gt;新模型不知道怎么样 我去试试&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/1/6/f16da8437a056a5f427c1986ed4b6a886695ef40.jpeg&quot; data-download-href=&quot;/uploads/short-url/yrM0Cv9CRnug0dhyWaXIajqFwWY.jpeg?dl=1&quot; title=&quot;Screenshot_20260612_230107&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/1/6/f16da8437a056a5f427c1986ed4b6a886695ef40_2_251x500.jpeg&quot; alt=&quot;Screenshot_20260612_230107&quot; data-base62-sha1=&quot;yrM0Cv9CRnug0dhyWaXIajqFwWY&quot; width=&quot;251&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/1/6/f16da8437a056a5f427c1986ed4b6a886695ef40_2_251x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/1/6/f16da8437a056a5f427c1986ed4b6a886695ef40_2_376x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/1/6/f16da8437a056a5f427c1986ed4b6a886695ef40_2_502x1000.jpeg 2x&quot; data-dominant-color=&quot;343435&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389621&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -67,7 +128,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389608&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -135,7 +196,7 @@
 &lt;p&gt;补一下我的看法：&lt;/p&gt;
 &lt;p&gt;跟主流各种 T 级的模型肯定没法比，但是只有428 B能看到的效果还是非常可观的。&lt;/p&gt;
 &lt;p&gt;拿这种小模型去和巨量参数型的比是不理智的行为，面向适用场景也不一样。Minimax 做自动化还是非常不错的，开发确实不行。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;28 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;37 个帖子 - 30 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389587&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -246,7 +307,7 @@
             &lt;p&gt;我正折腾我那域名呢，cf面板开始报错，我怀疑我网5分钟才发现是cf炸了。如图&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/b/8/cb83b1a380ae6bbc0547662b007f9559a7b90d0f.png&quot; data-download-href=&quot;/uploads/short-url/t2n4V9bNZOmuZdO2bYxsc3WvW3B.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/b/8/cb83b1a380ae6bbc0547662b007f9559a7b90d0f_2_690x296.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;t2n4V9bNZOmuZdO2bYxsc3WvW3B&quot; width=&quot;690&quot; height=&quot;296&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/b/8/cb83b1a380ae6bbc0547662b007f9559a7b90d0f_2_690x296.png, https://cdn3.ldstatic.com/optimized/4X/c/b/8/cb83b1a380ae6bbc0547662b007f9559a7b90d0f_2_1035x444.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/b/8/cb83b1a380ae6bbc0547662b007f9559a7b90d0f.png 2x&quot; data-dominant-color=&quot;F5F5EF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/f/5/9f5b7c7b6b8768acef35f83590203a75ae32c847.png&quot; data-download-href=&quot;/uploads/short-url/mJJVqkKBfMjywxjoAxsBVWo71Px.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/f/5/9f5b7c7b6b8768acef35f83590203a75ae32c847_2_690x362.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;mJJVqkKBfMjywxjoAxsBVWo71Px&quot; width=&quot;690&quot; height=&quot;362&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/f/5/9f5b7c7b6b8768acef35f83590203a75ae32c847_2_690x362.png, https://cdn3.ldstatic.com/optimized/4X/9/f/5/9f5b7c7b6b8768acef35f83590203a75ae32c847_2_1035x543.png 1.5x, https://cdn3.ldstatic.com/original/4X/9/f/5/9f5b7c7b6b8768acef35f83590203a75ae32c847.png 2x&quot; data-dominant-color=&quot;F5F5F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389533&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -435,18 +496,6 @@ You agree you will not use, or allow others to use, the Software or any derivati
           </description>
     </item>
     <item>
-      <title>GPT5.5pro登录codex</title>
-      <link>https://linux.do/t/topic/2388923</link>
-      <guid>linux.do-topic-2388923</guid>
-      <pubDate>Fri, 12 Jun 2026 12:51:55 GMT</pubDate>
-      <description>
-            &lt;p&gt;codex app的用量中可以查询到GPT5.5pro，这下额度要被奥特曼榨光了，怪不得推出邀请好友重置额度 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/joy.png?v=15&quot; title=&quot;:joy:&quot; class=&quot;emoji&quot; alt=&quot;:joy:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/a/8/aa8b905717bae25f33360e7946edddbba4263a0b.png&quot; data-download-href=&quot;/uploads/short-url/okIbpGn01IZT2XWKWLPCD1RvxLJ.png?dl=1&quot; title=&quot;codex&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/a/8/aa8b905717bae25f33360e7946edddbba4263a0b_2_517x330.png&quot; alt=&quot;codex&quot; data-base62-sha1=&quot;okIbpGn01IZT2XWKWLPCD1RvxLJ&quot; width=&quot;517&quot; height=&quot;330&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/a/8/aa8b905717bae25f33360e7946edddbba4263a0b_2_517x330.png, https://cdn3.ldstatic.com/optimized/4X/a/a/8/aa8b905717bae25f33360e7946edddbba4263a0b_2_775x495.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/a/8/aa8b905717bae25f33360e7946edddbba4263a0b_2_1034x660.png 2x&quot; data-dominant-color=&quot;FBFBFC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;27 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2388923&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
       <title>市场监管总局发布《广告引证内容执法指南》，明确绝对化用语豁免限制</title>
       <link>https://linux.do/t/topic/2388811</link>
       <guid>linux.do-topic-2388811</guid>
@@ -592,7 +641,7 @@ You agree you will not use, or allow others to use, the Software or any derivati
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Hugging Face:&lt;/strong&gt; &lt;a href=&quot;https://huggingface.co/moonshotai&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;moonshotai (Moonshot AI)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-            &lt;p&gt;&lt;small&gt;54 个帖子 - 51 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;59 个帖子 - 55 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2388222&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -744,41 +793,6 @@ kimi-k2.7-code、kimi-k2.6、kimi-k2.5 模型均提供&lt;strong&gt;256K&lt;/str
 怎么kimi发布新模型都没什么新闻&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2387852&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>甲骨文arm免费额度砍半</title>
-      <link>https://linux.do/t/topic/2387741</link>
-      <guid>linux.do-topic-2387741</guid>
-      <pubDate>Fri, 12 Jun 2026 09:53:20 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;docs.oracle.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Always Free Resources&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Learn what Always Free resources are available to all Oracle Cloud Infrastructure users.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;甲骨文云的免费账号继arm机器限速和韩国春川地区无法注册和开出arm机器后，现在直接将之前的永久4C24G的额度砍半，最多只能2C12G。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;160 个帖子 - 106 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2387741&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
