@@ -4,7 +4,645 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Fri, 12 Jun 2026 00:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:11:21 GMT</lastBuildDate>
+    <item>
+      <title>SK海力士回应厂区火灾：已初步控制 生产设备运行正常</title>
+      <link>https://linux.do/t/topic/2383604</link>
+      <guid>linux.do-topic-2383604</guid>
+      <pubDate>Fri, 12 Jun 2026 04:32:24 GMT</pubDate>
+      <description>
+            &lt;p&gt;6月12日，消息显示韩国SK海力士清州第四园区爆发火情。对于最新情况和影响，SK海力士方面向记者表示，已完成初步控制，正调查具体情况。目前生产设备运行正常。&lt;/p&gt;
+&lt;p&gt;什么年代了还在搞放火烧厂那一套&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/distorted_face.png?v=15&quot; title=&quot;:distorted_face:&quot; class=&quot;emoji only-emoji&quot; alt=&quot;:distorted_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2383604&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>微软最糟糕的 &quot;Nightmare &quot;引发 BitLocker 旁路 0-day</title>
+      <link>https://linux.do/t/topic/2383549</link>
+      <guid>linux.do-topic-2383549</guid>
+      <pubDate>Fri, 12 Jun 2026 04:25:21 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.theregister.com/security/2026/06/11/nightmare-eclipse-drops-claimed-bitlocker-bypass-for-microsoft-windows/5254371&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/0/1/0017cef329f1add50a3b6e2853f80e0862b780a0.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;FF4C4C&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.theregister.com/security/2026/06/11/nightmare-eclipse-drops-claimed-bitlocker-bypass-for-microsoft-windows/5254371&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;05:51PM - 11 June 2026&quot;&gt;theregister – 11 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/393;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/d/0/8d0700aaa5ffa32e82a6c8733bb9e39a6473bcb9_2_690x392.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;806E5B&quot; width=&quot;690&quot; height=&quot;392&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.theregister.com/security/2026/06/11/nightmare-eclipse-drops-claimed-bitlocker-bypass-for-microsoft-windows/5254371&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Microsoft&#39;s worst &#39;Nightmare&#39; unleashes BitLocker bypass 0-day&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Another day, another Windows exploit code&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;多产的零日漏洞猎手 Nightmare Eclipse 周三晚些时候发布了另一个漏洞，该研究人员声称该漏洞会产生一个命令提示符，提供对 BitLocker 卷的完全访问权限。&lt;/p&gt;
+&lt;p&gt;研究人员称，这个名为 GreatXML 的漏洞是 “意外发现的”，他们只花了四个小时就找到了这个漏洞。他们声称，这个漏洞（发布在 GitHub 和基于 Git 的代码托管平台上）可以在过去任何时候运行过 Microsoft Defender 离线扫描的任何系统上绕过 BitLocker。&lt;/p&gt;
+&lt;p&gt;就在GreatXML发布的前一天，Nightmare发布了RoguePlanet的漏洞利用代码，该代码允许本地权限升级，并可对受影响的机器进行SYSTEM级控制。这使得该研究人员的零日漏洞数量达到 8 个。在本周的 &quot;补丁星期二 &quot;活动中，先前的六个零日漏洞–RedSun、UnDefend、BlueHammer、YellowKey、GreenPlasma 和 MiniPlasma–都已打上了补丁。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2383549&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>兴业发行时光代理人联名借记卡</title>
+      <link>https://linux.do/t/topic/2383285</link>
+      <guid>linux.do-topic-2383285</guid>
+      <pubDate>Fri, 12 Jun 2026 03:52:45 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/f/d/afd81b46afff94c4386ad1b935d7d56e700cafb6.jpeg&quot; data-download-href=&quot;/uploads/short-url/p5AyVYTOMM4uMmrPl8wEI0w6wyG.jpeg?dl=1&quot; title=&quot;IMG_20260612_115204_524&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/f/d/afd81b46afff94c4386ad1b935d7d56e700cafb6.jpeg&quot; alt=&quot;IMG_20260612_115204_524&quot; data-base62-sha1=&quot;p5AyVYTOMM4uMmrPl8wEI0w6wyG&quot; width=&quot;456&quot; height=&quot;287&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/e/b/eeb1c1b140877bebedb90f43962fec22737921b4.jpeg&quot; data-download-href=&quot;/uploads/short-url/y3AtK9GYBZGySrPvkRkcQzUPI68.jpeg?dl=1&quot; title=&quot;IMG_20260612_115204_521&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/e/b/eeb1c1b140877bebedb90f43962fec22737921b4.jpeg&quot; alt=&quot;IMG_20260612_115204_521&quot; data-base62-sha1=&quot;y3AtK9GYBZGySrPvkRkcQzUPI68&quot; width=&quot;454&quot; height=&quot;286&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;兴业银行今起上架《时光代理人》联名借记卡，等级为银联普卡，可享受寰宇人生权益（点差优惠、汇款、境外取现等）。&lt;/p&gt;
+&lt;p&gt;申请链接&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://e.cib.com.cn/mobile/sendDebitCard?chnlNo=t1&amp;randomStr=4a9cd64de85a4e0&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/f/2/ef29cf9a5ec21358e4624721e017aece7e8c0fa1.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;00396C&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://e.cib.com.cn/mobile/sendDebitCard?chnlNo=t1&amp;randomStr=4a9cd64de85a4e0&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;e.cib.com.cn&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://e.cib.com.cn/mobile/sendDebitCard?chnlNo=t1&amp;randomStr=4a9cd64de85a4e0&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;兴业银行&lt;/a&gt;&lt;/h3&gt;
+
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;此卡另有办卡激活活动&lt;br&gt;
+全行活动见 兴业App 我的-兴成长 兴权益-热门活动-时光代理人&lt;/p&gt;
+&lt;p&gt;转自encmasuta&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2383285&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Openai ：每人一次codex免费重置，时间自选</title>
+      <link>https://linux.do/t/topic/2383195</link>
+      <guid>linux.do-topic-2383195</guid>
+      <pubDate>Fri, 12 Jun 2026 03:45:47 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/3/e/53e9361b32d56c40d4c8fc4a88459ff4cd4f3bfe.png&quot; data-download-href=&quot;/uploads/short-url/bYjhy6tmUEhnYTLVm7Dm2SVKvro.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/3/e/53e9361b32d56c40d4c8fc4a88459ff4cd4f3bfe.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bYjhy6tmUEhnYTLVm7Dm2SVKvro&quot; width=&quot;340&quot; height=&quot;314&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/0/5/4055d996e8449ba0c093f7a0029555fa3f73bd0b.jpeg&quot; data-download-href=&quot;/uploads/short-url/9b8uqCLBpVoBA2r4gAoZJaMycTp.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/5/4055d996e8449ba0c093f7a0029555fa3f73bd0b_2_607x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9b8uqCLBpVoBA2r4gAoZJaMycTp&quot; width=&quot;607&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/0/5/4055d996e8449ba0c093f7a0029555fa3f73bd0b_2_607x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/0/5/4055d996e8449ba0c093f7a0029555fa3f73bd0b_2_910x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/4/0/5/4055d996e8449ba0c093f7a0029555fa3f73bd0b.jpeg 2x&quot; data-dominant-color=&quot;949494&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/3/a/63ace4988969192c1e5380fcb2b69c765a35df94.jpeg&quot; data-download-href=&quot;/uploads/short-url/edLGQgFzIVa3Y1E4YYeNQG8yDdy.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/a/63ace4988969192c1e5380fcb2b69c765a35df94_2_690x497.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;edLGQgFzIVa3Y1E4YYeNQG8yDdy&quot; width=&quot;690&quot; height=&quot;497&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/a/63ace4988969192c1e5380fcb2b69c765a35df94_2_690x497.jpeg, https://cdn3.ldstatic.com/original/4X/6/3/a/63ace4988969192c1e5380fcb2b69c765a35df94.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/6/3/a/63ace4988969192c1e5380fcb2b69c765a35df94.jpeg 2x&quot; data-dominant-color=&quot;C4CAD0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;可以自己选择重置时间了！！&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;26 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2383195&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>美国也打算实名手机卡了</title>
+      <link>https://linux.do/t/topic/2382863</link>
+      <guid>linux.do-topic-2382863</guid>
+      <pubDate>Fri, 12 Jun 2026 03:18:38 GMT</pubDate>
+      <description>
+            &lt;p&gt;FCC拟要求运营商收集所有客户政府ID和住址，彻底终结匿名预付费手机，遭ACLU强烈反对。&lt;/p&gt;
+&lt;p&gt;(&lt;a href=&quot;https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;FCC Wants to Kill Burner Phones By Forcing Telecoms to Get All Customers’ IDs&lt;/a&gt;)&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2382863&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Codex App 新增 Browser use 开发者模式（CDP 访问）并提供浏览器性能改进</title>
+      <link>https://linux.do/t/topic/2382615</link>
+      <guid>linux.do-topic-2382615</guid>
+      <pubDate>Fri, 12 Jun 2026 03:01:29 GMT</pubDate>
+      <description>
+            &lt;p&gt;相关 changelog：&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://developers.openai.com/codex/changelog#codex-2026-06-11-app&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/e/6/4e6c215b527d954515a2695f3754a6bce3aa56f7.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;399CF9&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://developers.openai.com/codex/changelog#codex-2026-06-11-app&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;developers.openai.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/6/1/9619e7f08e85f64d73e60e53677b4e3373612385_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;BECBF9&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://developers.openai.com/codex/changelog#codex-2026-06-11-app&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;/init - Changelog – Codex | OpenAI Developers&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Sites is now available in preview in the Codex app. Use the Sites plugin to create, save, deploy, and inspect websites, dashboards, internal tools, web apps, and games hosted by OpenAI. | Latest updates to Codex, OpenAI’s coding agent&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/2/d/42de7a679a120efe9f2f5e611c36b72bde7a6967.png&quot; data-download-href=&quot;/uploads/short-url/9xyaywVhiR2AJG0JXSvsbzRkTmD.png?dl=1&quot; title=&quot;CleanShot 2026-06-12 at 10.58.54@2x&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/2/d/42de7a679a120efe9f2f5e611c36b72bde7a6967_2_690x121.png&quot; alt=&quot;CleanShot 2026-06-12 at 10.58.54@2x&quot; data-base62-sha1=&quot;9xyaywVhiR2AJG0JXSvsbzRkTmD&quot; width=&quot;690&quot; height=&quot;121&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/2/d/42de7a679a120efe9f2f5e611c36b72bde7a6967_2_690x121.png, https://cdn3.ldstatic.com/optimized/4X/4/2/d/42de7a679a120efe9f2f5e611c36b72bde7a6967_2_1035x181.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/2/d/42de7a679a120efe9f2f5e611c36b72bde7a6967_2_1380x242.png 2x&quot; data-dominant-color=&quot;565347&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;在 app 内已经可以看到开发者模式的选项&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/f/b/1fbdb75b67d2d689b68dc5fe09b645b3ed9b2f8d.png&quot; data-download-href=&quot;/uploads/short-url/4wNgxo3Ppq9eqKAAsdLqCmSYikJ.png?dl=1&quot; title=&quot;CleanShot 2026-06-12 at 10.58.23@2x&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/f/b/1fbdb75b67d2d689b68dc5fe09b645b3ed9b2f8d_2_690x184.png&quot; alt=&quot;CleanShot 2026-06-12 at 10.58.23@2x&quot; data-base62-sha1=&quot;4wNgxo3Ppq9eqKAAsdLqCmSYikJ&quot; width=&quot;690&quot; height=&quot;184&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/f/b/1fbdb75b67d2d689b68dc5fe09b645b3ed9b2f8d_2_690x184.png, https://cdn3.ldstatic.com/optimized/4X/1/f/b/1fbdb75b67d2d689b68dc5fe09b645b3ed9b2f8d_2_1035x276.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/f/b/1fbdb75b67d2d689b68dc5fe09b645b3ed9b2f8d_2_1380x368.png 2x&quot; data-dominant-color=&quot;F6F6F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;与此同时，changelog 宣称 browser use 的浏览器速度提升到了原来的两倍&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/5/a/35ac59e9c0ed79833b206029ab38613a1daedf4e.png&quot; data-download-href=&quot;/uploads/short-url/7EOz8uIfqDOfq3STM70mTbxC58a.png?dl=1&quot; title=&quot;CleanShot 2026-06-12 at 10.59.25@2x&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/a/35ac59e9c0ed79833b206029ab38613a1daedf4e_2_690x122.png&quot; alt=&quot;CleanShot 2026-06-12 at 10.59.25@2x&quot; data-base62-sha1=&quot;7EOz8uIfqDOfq3STM70mTbxC58a&quot; width=&quot;690&quot; height=&quot;122&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/a/35ac59e9c0ed79833b206029ab38613a1daedf4e_2_690x122.png, https://cdn3.ldstatic.com/optimized/4X/3/5/a/35ac59e9c0ed79833b206029ab38613a1daedf4e_2_1035x183.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/5/a/35ac59e9c0ed79833b206029ab38613a1daedf4e_2_1380x244.png 2x&quot; data-dominant-color=&quot;2B2924&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2382615&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>【黑冲相关】昨晚黑冲的20xpro全部掉订阅了</title>
+      <link>https://linux.do/t/topic/2382310</link>
+      <guid>linux.do-topic-2382310</guid>
+      <pubDate>Fri, 12 Jun 2026 02:39:48 GMT</pubDate>
+      <description>
+            &lt;p&gt;只能说是喜大普奔了，市面上一直很多 黑冲冒充实付，打着质保订阅的名义&lt;br&gt;
+他们以为奥特曼会直接封号，没想到真的不封号只掉订阅&lt;br&gt;
+现在是赔钱还是跑路呢？哈哈哈&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2382310&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Niantic 用 Pokémon GO 数据训练无人机导航系统</title>
+      <link>https://linux.do/t/topic/2382303</link>
+      <guid>linux.do-topic-2382303</guid>
+      <pubDate>Fri, 12 Jun 2026 02:39:02 GMT</pubDate>
+      <description>
+            &lt;p&gt;今天看到一则新闻6月9号的新闻：Niantic（宝可梦开发商）和Vantor（万拓）合作，将 Pokémon GO 玩家提供的位置信息来训练无人机的导航系统。也就是说，玩家在玩游戏时贡献的数据，可能被用在完全不同的技术领域，比如无人机避障和路径规划。&lt;/p&gt;
+&lt;p&gt;文中提到，玩家是自愿同意条款和条件的，虽然我没有去看具体的条款，但我觉得条款中会合理出现的是“我同意你用我的数据优化游戏”，而不是“我同意你用我的数据训练机器人”吧？&lt;/p&gt;
+&lt;p&gt;如果以后更多的XR的游戏数据被用在科研或商业项目，你会玩吗？ &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/smiling_face_with_tear.png?v=15&quot; title=&quot;:smiling_face_with_tear:&quot; class=&quot;emoji&quot; alt=&quot;:smiling_face_with_tear:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+&lt;p&gt;原文链接：&lt;a href=&quot;https://tvpworld.com/93715244/trouw-niantic-spatial-used-pokmon-go-data-to-train-navigation-system-for-drones&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Pokémon Go data ‘exploited to develop navigation’ for military drones&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2382303&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>韩国前总统尹锡悦一审被判处有期徒刑30年</title>
+      <link>https://linux.do/t/topic/2382232</link>
+      <guid>linux.do-topic-2382232</guid>
+      <pubDate>Fri, 12 Jun 2026 02:34:32 GMT</pubDate>
+      <description>
+            &lt;p&gt;据韩联社12日报道，韩国前总统尹锡悦因“制造平壤上空无人机入侵事件”一审被判处有期徒刑30年。&lt;/p&gt;
+&lt;p&gt;这果然是高危职位。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2382232&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>DigitalOcean（DO）学生包200刀的到期时间全部重置为8.1</title>
+      <link>https://linux.do/t/topic/2382116</link>
+      <guid>linux.do-topic-2382116</guid>
+      <pubDate>Fri, 12 Jun 2026 02:26:55 GMT</pubDate>
+      <description>
+            &lt;p&gt;从 &lt;a href=&quot;https://linux.do/t/topic/2381885&quot;&gt;https://linux.do/t/topic/2381885&lt;/a&gt; 继续讨论&lt;br&gt;
+似乎所有人的学生包到期时间都重置为8.1了，希望只是一个乌龙&lt;/p&gt;
+&lt;p&gt;前段时间收到一封邮件要整改学生包&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/3/7/43783e198444feb14abd9336c1ef3761123c76e6.png&quot; data-download-href=&quot;/uploads/short-url/9CRBLclRYkTQzzVpR1pn1BwEOy2.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/3/7/43783e198444feb14abd9336c1ef3761123c76e6_2_414x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9CRBLclRYkTQzzVpR1pn1BwEOy2&quot; width=&quot;414&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/3/7/43783e198444feb14abd9336c1ef3761123c76e6_2_414x500.png, https://cdn3.ldstatic.com/optimized/4X/4/3/7/43783e198444feb14abd9336c1ef3761123c76e6_2_621x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/3/7/43783e198444feb14abd9336c1ef3761123c76e6_2_828x1000.png 2x&quot; data-dominant-color=&quot;DBDDDD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+大概率不会取消这个活动，大概率是草台班子搞数据的时候搞错了&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/0/b/d0b088cc6034d43db35d765c048637dd43054243.png&quot; data-download-href=&quot;/uploads/short-url/tM9xicCfGATeT603fLXGMc54UYH.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/0/b/d0b088cc6034d43db35d765c048637dd43054243_2_690x178.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tM9xicCfGATeT603fLXGMc54UYH&quot; width=&quot;690&quot; height=&quot;178&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/0/b/d0b088cc6034d43db35d765c048637dd43054243_2_690x178.png, https://cdn3.ldstatic.com/optimized/4X/d/0/b/d0b088cc6034d43db35d765c048637dd43054243_2_1035x267.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/0/b/d0b088cc6034d43db35d765c048637dd43054243_2_1380x356.png 2x&quot; data-dominant-color=&quot;F9FAFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/f/c/1fc63294ad83d960c086fa16402ee8d1a32a9234.png&quot; data-download-href=&quot;/uploads/short-url/4x5r9s6EMKmmZoisZ8sXkMjRcoI.png?dl=1&quot; title=&quot;4f4f37fb46849486e5186bece951ad31&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/f/c/1fc63294ad83d960c086fa16402ee8d1a32a9234_2_690x158.png&quot; alt=&quot;4f4f37fb46849486e5186bece951ad31&quot; data-base62-sha1=&quot;4x5r9s6EMKmmZoisZ8sXkMjRcoI&quot; width=&quot;690&quot; height=&quot;158&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/f/c/1fc63294ad83d960c086fa16402ee8d1a32a9234_2_690x158.png, https://cdn3.ldstatic.com/optimized/4X/1/f/c/1fc63294ad83d960c086fa16402ee8d1a32a9234_2_1035x237.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/f/c/1fc63294ad83d960c086fa16402ee8d1a32a9234_2_1380x316.png 2x&quot; data-dominant-color=&quot;F9FAFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2382116&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>腾讯WorkBuddy移动端已上线！</title>
+      <link>https://linux.do/t/topic/2381739</link>
+      <guid>linux.do-topic-2381739</guid>
+      <pubDate>Fri, 12 Jun 2026 02:04:35 GMT</pubDate>
+      <description>
+            &lt;p&gt;目前还是只有国内版，望周知&lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/d/a/daa9bef924766d561f0598282e868ca30ab9560e.png?v=15&quot; title=&quot;:xhs_015:&quot; class=&quot;emoji emoji-custom&quot; alt=&quot;:xhs_015:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/6/7/3670e2455381657f2f97d82a5a182f2c9bc383bb.jpeg&quot; data-download-href=&quot;/uploads/short-url/7LBDqI5lccReOvJfd65qheq1uFZ.jpeg?dl=1&quot; title=&quot;1000115286.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/6/7/3670e2455381657f2f97d82a5a182f2c9bc383bb_2_322x500.jpeg&quot; alt=&quot;1000115286.jpg&quot; data-base62-sha1=&quot;7LBDqI5lccReOvJfd65qheq1uFZ&quot; width=&quot;322&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/6/7/3670e2455381657f2f97d82a5a182f2c9bc383bb_2_322x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/6/7/3670e2455381657f2f97d82a5a182f2c9bc383bb_2_483x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/6/7/3670e2455381657f2f97d82a5a182f2c9bc383bb_2_644x1000.jpeg 2x&quot; data-dominant-color=&quot;ECF1EF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2381739&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Codex邀请新人重置额度！</title>
+      <link>https://linux.do/t/topic/2381631</link>
+      <guid>linux.do-topic-2381631</guid>
+      <pubDate>Fri, 12 Jun 2026 01:57:30 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/0/9/1094e5c623c4006cb1ec16e9faa944671fbb342b.jpeg&quot; data-download-href=&quot;/uploads/short-url/2mGEmHqh3eHrSbEpYTgqj5Ej8NB.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/0/9/1094e5c623c4006cb1ec16e9faa944671fbb342b_2_690x456.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;2mGEmHqh3eHrSbEpYTgqj5Ej8NB&quot; width=&quot;690&quot; height=&quot;456&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/0/9/1094e5c623c4006cb1ec16e9faa944671fbb342b_2_690x456.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/0/9/1094e5c623c4006cb1ec16e9faa944671fbb342b_2_1035x684.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/0/9/1094e5c623c4006cb1ec16e9faa944671fbb342b_2_1380x912.jpeg 2x&quot; data-dominant-color=&quot;ECEFF5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;21 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2381631&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>全脑关联模式反映了社会经济状况</title>
+      <link>https://linux.do/t/topic/2381147</link>
+      <guid>linux.do-topic-2381147</guid>
+      <pubDate>Fri, 12 Jun 2026 01:22:58 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.aee6213&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.science.org/doi/10.1126/science.aee6213&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract]+&lt;/p&gt;
+&lt;p&gt;已知大脑的功能与结构会受到环境条件的影响。Marek 等人利用来自多种来源的影像数据，针对 649 种表型及暴露因素与大脑功能及结构之间的关系，绘制了全脑关联研究（BWAS）图谱（参见 Sisk 和 Satterthwaite 撰写的“展望”文章）。在青少年群体中，社区层面的社会经济状况显示出最强的全脑关联性；这一单一的“暴露组”模式解释了所有 BWAS 变异中的 34%。研究数据表明，一旦将社会经济地位这一因素纳入考量，经典的“大脑-智商（IQ）”关联便基本消失了。这些结果为理解环境对大脑发育的影响提供了宝贵的见解。——Mattia Maroso&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://neurosciencenews.com/socioeconomics-child-brain-development-iq-30870/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/d/e/deec764f26479399ccf917221594348bf0adfee8.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;8B8BAE&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://neurosciencenews.com/socioeconomics-child-brain-development-iq-30870/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;06:37PM - 11 June 2026&quot;&gt;Neuroscience News – 11 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/d/fadc9f1848659d8904c60531cc88cc579806c897_2_690x459.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;422F33&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://neurosciencenews.com/socioeconomics-child-brain-development-iq-30870/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Socioeconomic Status Leaves Deep Imprints on Developing Brains - Neuroscience...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;A new study, analyzing 12,000 children proves socioeconomic factors drive 16% of brain development, completely outpacing IQ.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 13 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!attention]+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在平等竞争的环境中同时评估的 649 个变量中，社会经济机会完全主导了数据。在与大脑网络功能相关的前 40 个变量中，家庭收入、房屋所有权、邻里贫困率和当地交通便利程度占了 37 个，在与大脑物理结构相关的前 40 个变量中占了 35 个。&lt;/li&gt;
+&lt;li&gt;受社会经济困难影响最严重的特定皮层网络不是高阶 &quot;思维 &quot;区域，而是初级运动和感觉区域。由于这些感觉-运动网络对日常体力消耗高度敏感，研究人员证实，低收入儿童的大脑并不具备较低的认知能力，相反，它在生理上模仿了长期疲劳和压力的大脑。&lt;/li&gt;
+&lt;li&gt;几十年来，科学界一直在寻找大脑轮廓中智商的物理特征。华盛顿大学的研究小组打破了这一概念，证明大脑解剖与考试成绩之间的传统联系实际上是社会特权造成的假象。一旦根据社会经济地位对数据进行统计调整，70%的大脑与智商之间的联系就会完全消失。&lt;/li&gt;
+&lt;li&gt;为了将智力与环境特权的直接影响隔离开来，研究人员专门对来自富裕、高社会经济背景的儿童进行了平行分析。在这一社会经济地位稳定的群体中，智商与大脑结构或功能网络强度的相关性完全为零，这证明智商并非神经生物学的硬连线。&lt;/li&gt;
+&lt;li&gt;多森巴赫博士强调，由于社会经济的烙印会通过睡眠质量差和压力大等日常负担传播，因此这些大脑差异是非常容易改变的。实施结构性社区干预措施，保护儿童的睡眠卫生并降低家庭压力，可以直接改变他们的神经发育轨迹。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.yahoo.com/news/science/articles/children-zip-codes-change-brains-180000989.html?guccounter=1&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/b/e/6be48963956564613bc774cc0143f1fd6b55e738.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;9656FF&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://www.yahoo.com/news/science/articles/children-zip-codes-change-brains-180000989.html?guccounter=1&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Yahoo News&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/482;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/7/4/c740d8338303ab6038c32644f33fca92fb7379e4_2_690x483.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;6D7D84&quot; width=&quot;690&quot; height=&quot;483&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.yahoo.com/news/science/articles/children-zip-codes-change-brains-180000989.html?guccounter=1&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Children’s zip codes change their brains, new study finds&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Where children live and what their household’s socioeconomic status is leaves a mark on their brains, a new study in Science finds.  The results suggest that the fewer opportunities a child’s zip code...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.npr.org/2026/06/11/nx-s1-5849937/child-brain-development-stress-sleep-neighborhood-economics&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.npr.org/2026/06/11/nx-s1-5849937/child-brain-development-stress-sleep-neighborhood-economics&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.statnews.com/2026/06/11/socioeconomic-status-impact-brain-development/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/4/8/7482a3e696889c994206822caad601e641cbc775.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;158CA1&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://www.statnews.com/2026/06/11/socioeconomic-status-impact-brain-development/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;06:17PM - 11 June 2026&quot;&gt;STAT – 11 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/4/e/84ebb24adbfc695879b3f2c39fb4d3f61584bdb1_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;3B3839&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.statnews.com/2026/06/11/socioeconomic-status-impact-brain-development/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Study highlights influence of socioeconomic status on children’s brain...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;A new study found that the leading environmental factor influencing brain structure and function is the socioeconomic status of a child&#39;s family.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 6 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2381147&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>研究发现，地下真菌网络长达 100 多万亿公里</title>
+      <link>https://linux.do/t/topic/2381093</link>
+      <guid>linux.do-topic-2381093</guid>
+      <pubDate>Fri, 12 Jun 2026 01:17:33 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://www.science.org/doi/10.1126/science.adu4373&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.science.org/doi/10.1126/science.adu4373&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/4/3/f4343324a4cb9ceaa33c23f38f3fbc1553f7bf7e.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;4F6890&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;06:00PM - 11 June 2026&quot;&gt;the Guardian – 11 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Subterranean fungi networks more than 100 quadrillion km in length, study finds&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;First ever global mapping of arbuscular mycorrhizal fungi shows scale of hyphal systems that sustain plant life&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;一项开创性的新研究发现，地球土壤中蕴含着维持植物生命并有助于调节气候的地下真菌，其总量之大，足以连接地球与太阳近7.5亿次。&lt;/p&gt;
+&lt;p&gt;丛枝菌根真菌是一种被称为菌丝的管状细胞网络，通过与 70% 以上的植物建立重要的伙伴关系来维持地球上的生命。这种网络已经形成了大约 4.75 亿年，它提供养分和水分，以换取植物产生的碳，并通过将碳吸入土壤来帮助调节气候。&lt;/p&gt;
+&lt;p&gt;现在，一项发表在《科学》（Science）杂志上、被一位研究人员称为 &quot;我职业生涯中最激动人心的研究之一 &quot;的新研究中，Spun 团队利用机器学习模型和来自世界各地 16,000 多个土壤核心的数据，绘制出了有史以来第一张全球丛枝菌根真菌网络图。&lt;/p&gt;
+&lt;p&gt;他们计算出，如果将真菌网络从头延伸到尾，其长度将达到 110 兆公里，几乎是地球到太阳距离的 750 万倍。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/f/7/bf7cb0f2e3200d5f560a8208fe68d138576057bb.jpeg&quot; data-download-href=&quot;/uploads/short-url/rjYlu4uvdPgGXtgEIgdct9M6ydt.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/f/7/bf7cb0f2e3200d5f560a8208fe68d138576057bb_2_490x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;rjYlu4uvdPgGXtgEIgdct9M6ydt&quot; width=&quot;490&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/f/7/bf7cb0f2e3200d5f560a8208fe68d138576057bb_2_490x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/f/7/bf7cb0f2e3200d5f560a8208fe68d138576057bb_2_735x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/f/7/bf7cb0f2e3200d5f560a8208fe68d138576057bb_2_980x1000.jpeg 2x&quot; data-dominant-color=&quot;E0F1F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;研究人员发现，耕地中的网络密度平均比野生生态系统低 47.3%。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://grist.org/science/this-unfathomably-huge-fungal-network-keeps-earth-cool-and-green/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/9/d/a9deff1cc8c5e4dd0d351547be707c5f60db2db2.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;63654A&quot; width=&quot;192&quot; height=&quot;192&quot;&gt;
+
+      &lt;a href=&quot;https://grist.org/science/this-unfathomably-huge-fungal-network-keeps-earth-cool-and-green/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;06:00PM - 11 June 2026&quot;&gt;Grist – 11 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/0/7/f07ac0b2e81e78f4b2f07cd9d0bc3eae26115916_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;679284&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://grist.org/science/this-unfathomably-huge-fungal-network-keeps-earth-cool-and-green/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;This unfathomably huge fungal network keeps Earth cool and green&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Spanning 110 quadrillion kilometers, arbuscular mycorrhizal fungi transport an enormous amount of planet-warming carbon.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 5 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.livescience.com/planet-earth/plants/earths-underground-fungal-network-is-so-massive-it-would-span-10-percent-of-the-milky-way-map-reveals&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/9/d/a/9dadeaddaa5dfece32277002a04703ab7390ff8a.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;DAD2BF&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.livescience.com/planet-earth/plants/earths-underground-fungal-network-is-so-massive-it-would-span-10-percent-of-the-milky-way-map-reveals&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;06:46PM - 11 June 2026&quot;&gt;Live Science – 11 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/d/1/fd12a386cff2d83b62698120a1b866420c921152_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;242731&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.livescience.com/planet-earth/plants/earths-underground-fungal-network-is-so-massive-it-would-span-10-percent-of-the-milky-way-map-reveals&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Earth&#39;s underground fungal network is so massive, it would span 10% of the...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;The first global map of subterranean fungi networks reveals how massive its reach is worldwide.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2381093&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>claude被封帐号可以导出数据和删除账号了</title>
+      <link>https://linux.do/t/topic/2381090</link>
+      <guid>linux.do-topic-2381090</guid>
+      <pubDate>Fri, 12 Jun 2026 01:17:20 GMT</pubDate>
+      <description>
+            &lt;p&gt;claude封号后对话数据就全没了，大家往往觉得可惜。&lt;/p&gt;
+&lt;p&gt;后来claude在封号后让你填一个review表，最近又增加了删除帐号和下载数据的选项。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/2/5/425903bb2d1c3226b3effdd6a2537a82ac8c0a11.png&quot; data-download-href=&quot;/uploads/short-url/9sWe0luUBZHhbbsIW4iIXXOCoXn.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/2/5/425903bb2d1c3226b3effdd6a2537a82ac8c0a11_2_690x274.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9sWe0luUBZHhbbsIW4iIXXOCoXn&quot; width=&quot;690&quot; height=&quot;274&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/2/5/425903bb2d1c3226b3effdd6a2537a82ac8c0a11_2_690x274.png, https://cdn3.ldstatic.com/optimized/4X/4/2/5/425903bb2d1c3226b3effdd6a2537a82ac8c0a11_2_1035x411.png 1.5x, https://cdn3.ldstatic.com/original/4X/4/2/5/425903bb2d1c3226b3effdd6a2537a82ac8c0a11.png 2x&quot; data-dominant-color=&quot;F9F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2381090&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>真支持自助重置了啊，codex-plus和pro有一次免费重置</title>
+      <link>https://linux.do/t/topic/2381048</link>
+      <guid>linux.do-topic-2381048</guid>
+      <pubDate>Fri, 12 Jun 2026 01:14:01 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/8/d/f8d08faf498fe9d3825066551f864fcb14cd92bc.jpeg&quot; data-download-href=&quot;/uploads/short-url/zv7fH1wFgljEmUGOd9JgTJR8m96.jpeg?dl=1&quot; title=&quot;CleanShot 2026-06-12 at 09.12.17@2x&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/d/f8d08faf498fe9d3825066551f864fcb14cd92bc_2_205x375.jpeg&quot; alt=&quot;CleanShot 2026-06-12 at 09.12.17@2x&quot; data-base62-sha1=&quot;zv7fH1wFgljEmUGOd9JgTJR8m96&quot; width=&quot;205&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/d/f8d08faf498fe9d3825066551f864fcb14cd92bc_2_205x375.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/8/d/f8d08faf498fe9d3825066551f864fcb14cd92bc_2_307x562.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/8/d/f8d08faf498fe9d3825066551f864fcb14cd92bc_2_410x750.jpeg 2x&quot; data-dominant-color=&quot;E7E6E4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/9/5/8957e398614bc76e1ccd6df6587e41379c16347d.png&quot; data-download-href=&quot;/uploads/short-url/jAZIjV3KLPKcd1vbFGnK1Ie4BCR.png?dl=1&quot; title=&quot;CleanShot 2026-06-12 at 09.16.51@2x&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/5/8957e398614bc76e1ccd6df6587e41379c16347d_2_375x375.png&quot; alt=&quot;CleanShot 2026-06-12 at 09.16.51@2x&quot; data-base62-sha1=&quot;jAZIjV3KLPKcd1vbFGnK1Ie4BCR&quot; width=&quot;375&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/5/8957e398614bc76e1ccd6df6587e41379c16347d_2_375x375.png, https://cdn3.ldstatic.com/optimized/4X/8/9/5/8957e398614bc76e1ccd6df6587e41379c16347d_2_562x562.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/9/5/8957e398614bc76e1ccd6df6587e41379c16347d_2_750x750.png 2x&quot; data-dominant-color=&quot;8B8B8B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;plus和pro有一次免费重置，pdd拉人还可以重置！吓哭了&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2381048&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>1970年后出生的美国人到了中年因几种主要原因导致的死亡率较高</title>
+      <link>https://linux.do/t/topic/2381039</link>
+      <guid>linux.do-topic-2381039</guid>
+      <pubDate>Fri, 12 Jun 2026 01:13:13 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.foxnews.com/health/americans-born-1970-face-higher-death-rates-several-major-causes-middle-age&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/9/1/291cfa1e727b77596fc98a30a993cb03a5cfc002.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;767B98&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.foxnews.com/health/americans-born-1970-face-higher-death-rates-several-major-causes-middle-age&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Fox News&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/388;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/4/4/04438ce1a9b6c1ea1d2ba050423146ff4d79cee1_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;735F56&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.foxnews.com/health/americans-born-1970-face-higher-death-rates-several-major-causes-middle-age&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Americans born after 1970 face higher death rates from several major causes...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Americans born after 1970 are dying faster than their parents, with higher rates of heart disease, cancer and overdoses between ages 30 and 49.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;数据显示，1970 年后出生的美国人比他们的父母死得更快。&lt;/p&gt;
+&lt;p&gt;塔夫茨大学（Tufts University）的最新分析显示，&quot;X一代 &quot;和 &quot;千禧一代 &quot;未能长寿，他们死于常见慢性病和外因的比例高于同龄人。&lt;/p&gt;
+&lt;p&gt;数据显示，在 20 世纪的大部分时间里，美国人的预期寿命一直在稳步提高，这意味着每一代人的寿命一般都比上一代人长。&lt;/p&gt;
+&lt;p&gt;然而，从 20 世纪 50 年代出生的人开始，情况发生了变化。20 世纪 40 年代出生的美国人在人生的各个阶段都经历了生存率稳步提高的过程，而 20 世纪 50 年代出生的人则看到了这一进展的放缓或逆转。&lt;/p&gt;
+&lt;p&gt;这一下降趋势在之后的每一代人中都在持续，1970 年以后出生的美国人变化最大。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://theunn.com/americans-born-after-1970-experience-rising-middleage-death-rates/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/f/5/af5fa10935a456511467818ef68a036b16c02b36.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;C4B6C4&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://theunn.com/americans-born-after-1970-experience-rising-middleage-death-rates/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;04:08PM - 11 June 2026&quot;&gt;TheUNN – 11 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/364;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/c/9/dc938f2a8939e9004a397ce45219ec09923d54c5_2_690x365.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;6B6C59&quot; width=&quot;690&quot; height=&quot;365&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://theunn.com/americans-born-after-1970-experience-rising-middleage-death-rates/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Americans Born After 1970 Experience Rising Middle-Age Death Rates&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Americans born after 1970 are experiencing higher death rates from major health issues compared to previous generations, according to a new analysis from&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2381039&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Git 2.55-rc0 发布，默认启用 Rust</title>
+      <link>https://linux.do/t/topic/2381024</link>
+      <guid>linux.do-topic-2381024</guid>
+      <pubDate>Fri, 12 Jun 2026 01:10:44 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.phoronix.com/news/Git-2.55-rc0-Released&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/c/e/0/ce0e18cd6794024d04b700171a1650cd102d19f4.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;518164&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://www.phoronix.com/news/Git-2.55-rc0-Released&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;phoronix.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:599/161;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/0/b/70ba24a40b69f59da0802a1cfe561b12dbcbb1fc.webp&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;EBEBF1&quot; width=&quot;599&quot; height=&quot;161&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.phoronix.com/news/Git-2.55-rc0-Released&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Git 2.55-rc0 Released With Rust Enabled By Default&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Git 2.55-rc0 is out today as the first tagged test version of the forthcoming Git 2.55 distributed version control system&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/d/d/eddf80c461c9597f2cc1afa7cc9b8ad494da6363.png&quot; data-download-href=&quot;/uploads/short-url/xWk0PJrgmQFjVT1AtV3yZlXFp87.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/d/d/eddf80c461c9597f2cc1afa7cc9b8ad494da6363.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xWk0PJrgmQFjVT1AtV3yZlXFp87&quot; width=&quot;336&quot; height=&quot;336&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang=&quot;zh&quot;&gt;作为即将发布的 Git 2.55 分布式版本控制系统的首个标记测试版本，Git 2.55-rc0 今天正式发布。Git 2.55 中最引人注目的是默认启用了对 Rust 的支持。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Git 2.55-rc0 默认启用了 Rust。在此之前，你必须通过 Meson 或标准 Makefile 的 WITH_RUST，选择默认启用 Rust。但从 Git 2.55 开始，Rust 默认支持了。&lt;/p&gt;
+&lt;p&gt;在 Git 2.55 中，用户可以根据自己的意愿选择退出对 Rust 的支持。Git 2.55 将 Makefile 中的 &quot;WITH_RUST &quot;选项改为 “NO_RUST”，如果想在 Git 2.55 中避免使用 Rust 代码，可以设置该选项。Meson 的 &quot;rust &quot;选项设置为 “enabled”，但在此版本中同样可以设置为禁用。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/e/8/4e8f4c38753c28c742d1ec2b9f1857edad3b8b88.png&quot; data-download-href=&quot;/uploads/short-url/bcYfUFUyfrlsx7zOZVGLuuXk0hq.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/e/8/4e8f4c38753c28c742d1ec2b9f1857edad3b8b88.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bcYfUFUyfrlsx7zOZVGLuuXk0hq&quot; width=&quot;599&quot; height=&quot;161&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;在 Git 3.0 中，Rust 将始终处于启用状态，无法禁用。&lt;/p&gt;
+&lt;p&gt;此外，Git 2.55 还围绕 Rust 编程语言，准备让 xdiff 代码与 Rust 兼容。&lt;/p&gt;
+&lt;p&gt;&lt;span lang=&quot;zh&quot;&gt;Git 2.55 还对不同的 Git 子命令进行了大量优化、错误修复和小幅增强。更多详情请查看今天发布的 Git 2.55-rc0 公告。&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2381024&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>快讯，antigravity支持额度显示了</title>
+      <link>https://linux.do/t/topic/2380940</link>
+      <guid>linux.do-topic-2380940</guid>
+      <pubDate>Fri, 12 Jun 2026 01:02:47 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/9/7/d976dd50f82cf9c5363fab52458a66883dcc8117.png&quot; data-download-href=&quot;/uploads/short-url/v1MhbkeIdOLfxYqYKtd10tWJk2P.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/9/7/d976dd50f82cf9c5363fab52458a66883dcc8117.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;v1MhbkeIdOLfxYqYKtd10tWJk2P&quot; width=&quot;594&quot; height=&quot;500&quot; data-dominant-color=&quot;EDEDED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;38 个帖子 - 25 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2380940&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>「快讯」招行万事达借记卡或将上线ApplePay？</title>
+      <link>https://linux.do/t/topic/2380731</link>
+      <guid>linux.do-topic-2380731</guid>
+      <pubDate>Fri, 12 Jun 2026 00:37:07 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/d/e/dded4763cf19df05cc2dfb5ac7c4296ac289cdcd.jpeg&quot; data-download-href=&quot;/uploads/short-url/vFfT5Ls4AimsWNQFkBVLey7Q1lz.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/d/e/dded4763cf19df05cc2dfb5ac7c4296ac289cdcd_2_416x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;vFfT5Ls4AimsWNQFkBVLey7Q1lz&quot; width=&quot;416&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/d/e/dded4763cf19df05cc2dfb5ac7c4296ac289cdcd_2_416x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/d/e/dded4763cf19df05cc2dfb5ac7c4296ac289cdcd_2_624x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/d/e/dded4763cf19df05cc2dfb5ac7c4296ac289cdcd_2_832x1000.jpeg 2x&quot; data-dominant-color=&quot;989898&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;其中招商银行包含借记卡 BIN&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;34 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2380731&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI将推出保存速率限制重置（储备重置）</title>
+      <link>https://linux.do/t/topic/2380701</link>
+      <guid>linux.do-topic-2380701</guid>
+      <pubDate>Fri, 12 Jun 2026 00:30:52 GMT</pubDate>
+      <description>
+            &lt;p&gt;OpenAI将推出保存速率限制重置（储备重置）以供以后使用的功能，包含 Go、Plus、Pro 和 Business 用户。&lt;/p&gt;
+&lt;p&gt;意味着后面的重置不会与自己的重置时间重叠，可以自己单独控制官方重置额度（看评论，可能只限于邀请用户的重置？）。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/c/a/eca749fe483047aeb42eb42b25ef0b192478dd18.png&quot; data-download-href=&quot;/uploads/short-url/xLx65dTv7QNJF10FNloXvSWHfcI.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/a/eca749fe483047aeb42eb42b25ef0b192478dd18_2_467x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xLx65dTv7QNJF10FNloXvSWHfcI&quot; width=&quot;467&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/a/eca749fe483047aeb42eb42b25ef0b192478dd18_2_467x500.png, https://cdn3.ldstatic.com/optimized/4X/e/c/a/eca749fe483047aeb42eb42b25ef0b192478dd18_2_700x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/e/c/a/eca749fe483047aeb42eb42b25ef0b192478dd18.png 2x&quot; data-dominant-color=&quot;7F7F7F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2380701&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>之前薅了linear.app的佬有福了。</title>
+      <link>https://linux.do/t/topic/2380692</link>
+      <guid>linux.do-topic-2380692</guid>
+      <pubDate>Fri, 12 Jun 2026 00:28:22 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/e/6/6e6ab80c8d96e96fa32a4faef961ce04b30d132e.png&quot; data-download-href=&quot;/uploads/short-url/fKNaicV5TP5uxM4iaxo4gzOpz2K.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/e/6/6e6ab80c8d96e96fa32a4faef961ce04b30d132e_2_690x467.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fKNaicV5TP5uxM4iaxo4gzOpz2K&quot; width=&quot;690&quot; height=&quot;467&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/e/6/6e6ab80c8d96e96fa32a4faef961ce04b30d132e_2_690x467.png, https://cdn3.ldstatic.com/original/4X/6/e/6/6e6ab80c8d96e96fa32a4faef961ce04b30d132e.png 1.5x, https://cdn3.ldstatic.com/original/4X/6/e/6/6e6ab80c8d96e96fa32a4faef961ce04b30d132e.png 2x&quot; data-dominant-color=&quot;F9F9FA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;早上收到邮件说是linear也上线了AI Coding，之前0元购了一年的enterprise套餐，这下爽了&lt;br&gt;
+20刀/seat , 711前claim&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/d/9/4d9e5dd05695bf35aeb42da20deb5662306fdf89.png&quot; data-download-href=&quot;/uploads/short-url/b4E3XfwdxERyr3vdcX68mtmwRD3.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/d/9/4d9e5dd05695bf35aeb42da20deb5662306fdf89.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;b4E3XfwdxERyr3vdcX68mtmwRD3&quot; width=&quot;554&quot; height=&quot;136&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2380692&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>github今日最快增长-2026-06-12</title>
       <link>https://linux.do/t/topic/2380511</link>
@@ -18,7 +656,7 @@
           </description>
     </item>
     <item>
-      <title>DeepSeek近日连续发布Agent Harness产品经理和研发工程师两个岗位</title>
+      <title>DeepSeek近日连续发布Agent Harness产品经理和研发工程师以及Agent Harness 研究员</title>
       <link>https://linux.do/t/topic/2380404</link>
       <guid>linux.do-topic-2380404</guid>
       <pubDate>Thu, 11 Jun 2026 20:25:47 GMT</pubDate>
@@ -27,7 +665,7 @@
 职位描述中提及，内部“正在把DeepSeek的前沿模型能力，转化为领先的Agent产品”，岗位员工需要加入Harness团队，参与DeepSeek桌面端Agent产品的全过程。&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;官网并未直接提及这一桌面端Agent产品的具体类型，但在产品经理的岗位描述中，要求求职者深度使用过Claude Code、Cowork、Codex、Cursor、OpenCode、GitHub Copilot、Manus、OpenClaw、Hermes 等类似产品。这其中几乎包揽了行业目前最热门的几款编程工具以及智能体应用。&lt;/p&gt;
 &lt;p&gt;另一个更直接的信息来自DeepSeek资深研究员陈德里，他在社交媒体发帖招人，标题直接表明“来DeepSeek从零做Code Harness”，正文提到“对标Claude Code，做DeepSeek Code Harness”。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;19 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2380404&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -40,771 +678,8 @@
             &lt;p&gt;我记得以前一直都是看不了的，只能等进周限后才知道进周限了&lt;br&gt;
 也是不容易 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/melting_face.png?v=15&quot; title=&quot;:melting_face:&quot; class=&quot;emoji&quot; alt=&quot;:melting_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/f/4/bf4d5bf053dd08bc038f3bdf34081134e66b211a.png&quot; data-download-href=&quot;/uploads/short-url/rikW9PbyioMSr9G5eOd5WSjzfzc.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/f/4/bf4d5bf053dd08bc038f3bdf34081134e66b211a.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;rikW9PbyioMSr9G5eOd5WSjzfzc&quot; width=&quot;627&quot; height=&quot;471&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2380400&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>中行万事网联借记卡试点疑似新增吉林分行</title>
-      <link>https://linux.do/t/topic/2379722</link>
-      <guid>linux.do-topic-2379722</guid>
-      <pubDate>Thu, 11 Jun 2026 16:05:32 GMT</pubDate>
-      <description>
-            &lt;p&gt;据 ICK 提供DP：吉林分行现已可申请万事网联借记卡，但可售产品编号有所差异，普卡为 500000237 ，金卡未知具体编号。&lt;/p&gt;
-&lt;p&gt;开卡可能收取工本费。开立金卡可能需资产达标。请以支行答复为准。&lt;/p&gt;
-&lt;p&gt;转自encmasuta&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2379722&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>港证监会:境外资金合法、准许内地客开户和在境外交易</title>
-      <link>https://linux.do/t/topic/2379718</link>
-      <guid>linux.do-topic-2379718</guid>
-      <pubDate>Thu, 11 Jun 2026 16:05:03 GMT</pubDate>
-      <description>
-            &lt;p&gt;特别提醒：本则消息无官方来源可靠信源。境内外相关新闻报道基本由观点网文章及香港经济日报文章衍生。据频道编辑查询，多家媒体指6月9日香港证监会与香港证券业界闭门研讨会，会上香港证监会释放友好态度，缓和券商紧张气氛；但尚不清楚会上的讨论是否确如下文所言。该消息的来源过于单一，频道编辑无法确定本则消息真实性，请自行考量。&lt;/p&gt;
-&lt;p&gt;据报道，9日香港证监会疑在闭门会议上与香港证券业界沟通有关内地客户参与投资的资讯。据传会上提供了如下监管原则：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;香港持牌法团可继续为内地投资者开户，但需满足5月22日通函所述的监管要求。&lt;/li&gt;
-&lt;li&gt;内地客户已在境外的资金，若无证据证明为非法所得，业界可以合理相信其为符合通函要求的境外资金。例：由本港银行向券商转账，原则上可接受。&lt;/li&gt;
-&lt;li&gt;未获内地许可的券商不得在内地开展业务，但内地客户通过电子渠道在「境外」交易是合规行为。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;频道编辑无法确定本则消息真实性，请自行考量&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.guandian.cn/m/show/566067&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://www.guandian.cn/m/show/566067&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;观点网&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.guandian.cn/m/show/566067&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;香港证监会澄清：合规内地投资者仍可开立新账户&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;持牌公司可继续为中国内地投资者开立新账户，前提是资金属境外合法来源，并严格遵守“认识你的客户（KYC）”及尽职审查规定。&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;转自encmasuta&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2379718&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>浦发工行兴业广发平安招商邮储或将上线万事达ApplePay</title>
-      <link>https://linux.do/t/topic/2379714</link>
-      <guid>linux.do-topic-2379714</guid>
-      <pubDate>Thu, 11 Jun 2026 16:04:09 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/2/e/b2e2d77230e828d7cfa6790b383107ee1bcb32c7.jpeg&quot; data-download-href=&quot;/uploads/short-url/pwuZJ4BIfFY9WIFNnr9G9B2tvuL.jpeg?dl=1&quot; title=&quot;IMG_20260612_000248_494&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/2/e/b2e2d77230e828d7cfa6790b383107ee1bcb32c7_2_663x499.jpeg&quot; alt=&quot;IMG_20260612_000248_494&quot; data-base62-sha1=&quot;pwuZJ4BIfFY9WIFNnr9G9B2tvuL&quot; width=&quot;663&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/2/e/b2e2d77230e828d7cfa6790b383107ee1bcb32c7_2_663x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/2/e/b2e2d77230e828d7cfa6790b383107ee1bcb32c7_2_994x748.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/b/2/e/b2e2d77230e828d7cfa6790b383107ee1bcb32c7.jpeg 2x&quot; data-dominant-color=&quot;E5E5E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;万事达官方 BIN List 显示，浦发银行、工商银行、兴业银行、广发银行、平安银行、招商银行、邮政储蓄银行已获得 2231 开头的 BIN，其中招商银行包含借记卡 BIN。&lt;/p&gt;
-&lt;p&gt;感谢 peng 投稿。&lt;/p&gt;
-&lt;p&gt;转自encmasuta&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2379714&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【kimi】“预测冠军队 抢万亿Token”</title>
-      <link>https://linux.do/t/topic/2379507</link>
-      <guid>linux.do-topic-2379507</guid>
-      <pubDate>Thu, 11 Jun 2026 15:37:53 GMT</pubDate>
-      <description>
-            &lt;p&gt;今晚打开kimi时看到的：&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/3/a/43ad166d039efaa00d163e4d00c1209723116b27.jpeg&quot; data-download-href=&quot;/uploads/short-url/9EGPoEFmVeYKQXMOxBCd6bvM44f.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/3/a/43ad166d039efaa00d163e4d00c1209723116b27_2_690x376.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9EGPoEFmVeYKQXMOxBCd6bvM44f&quot; width=&quot;690&quot; height=&quot;376&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/3/a/43ad166d039efaa00d163e4d00c1209723116b27_2_690x376.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/3/a/43ad166d039efaa00d163e4d00c1209723116b27_2_1035x564.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/3/a/43ad166d039efaa00d163e4d00c1209723116b27_2_1380x752.jpeg 2x&quot; data-dominant-color=&quot;ABC3A5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-大胆的预测一波，接下来还有更多的平台参与世界杯话题。&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2379507&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>GPT Business 变成月限额模式？</title>
-      <link>https://linux.do/t/topic/2379400</link>
-      <guid>linux.do-topic-2379400</guid>
-      <pubDate>Thu, 11 Jun 2026 15:25:42 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/6/f/f6f0a41ee691f816fdac38c8e0c996ed3f22d3aa.png&quot; data-download-href=&quot;/uploads/short-url/zex1N68PKBywCBAAPlHwweAshfA.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/6/f/f6f0a41ee691f816fdac38c8e0c996ed3f22d3aa.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zex1N68PKBywCBAAPlHwweAshfA&quot; width=&quot;690&quot; height=&quot;329&quot; data-dominant-color=&quot;212425&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/e/8/4e82d045879e12d31135268ab98a663a4f758554.png&quot; data-download-href=&quot;/uploads/short-url/bcxvAlOjpAugwCqnmu6EkoNSM4Y.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/e/8/4e82d045879e12d31135268ab98a663a4f758554_2_690x338.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bcxvAlOjpAugwCqnmu6EkoNSM4Y&quot; width=&quot;690&quot; height=&quot;338&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/e/8/4e82d045879e12d31135268ab98a663a4f758554_2_690x338.png, https://cdn3.ldstatic.com/optimized/4X/4/e/8/4e82d045879e12d31135268ab98a663a4f758554_2_1035x507.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/e/8/4e82d045879e12d31135268ab98a663a4f758554_2_1380x676.png 2x&quot; data-dominant-color=&quot;F7FAF8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这两天新开的 business 号，今天第一次用，发现没有了五小时限额和周限，直接变成了月限？？另一个老号倒没有变化&lt;/p&gt;
-&lt;p&gt;感觉不是很经用，一个长上下文修改就用掉了2%……天塌了！！&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2379400&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Claude账号不能解封，但是可以导出数据！</title>
-      <link>https://linux.do/t/topic/2379070</link>
-      <guid>linux.do-topic-2379070</guid>
-      <pubDate>Thu, 11 Jun 2026 14:46:32 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/5/2/1521693767e48694002954b36d4782f95255e313.png&quot; data-download-href=&quot;/uploads/short-url/30VBNnBDq3boOsjb8Pub50LhtqH.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/5/2/1521693767e48694002954b36d4782f95255e313.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;30VBNnBDq3boOsjb8Pub50LhtqH&quot; width=&quot;602&quot; height=&quot;455&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-如图！&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2379070&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>GPT Pro 用户网页端模型布局变了（模型没变），这是为5.6预热么</title>
-      <link>https://linux.do/t/topic/2379059</link>
-      <guid>linux.do-topic-2379059</guid>
-      <pubDate>Thu, 11 Jun 2026 14:45:06 GMT</pubDate>
-      <description>
-            &lt;p&gt;从 Instant、Thinking、Pro变成了 Instant、Medium、High、Extra High 和 Pro&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/a/2/aa298ff8cbb2a67bd0a8221a73780ab50646adaf.png&quot; data-download-href=&quot;/uploads/short-url/ohkds5VK5ruGBkKcbsHP4nohxHF.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/a/2/aa298ff8cbb2a67bd0a8221a73780ab50646adaf_2_352x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ohkds5VK5ruGBkKcbsHP4nohxHF&quot; width=&quot;352&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/a/2/aa298ff8cbb2a67bd0a8221a73780ab50646adaf_2_352x500.png, https://cdn3.ldstatic.com/original/4X/a/a/2/aa298ff8cbb2a67bd0a8221a73780ab50646adaf.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/a/2/aa298ff8cbb2a67bd0a8221a73780ab50646adaf.png 2x&quot; data-dominant-color=&quot;F9F9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;其中 Extra high 应该对应之前的 Thinking heavy，juice 有768。&lt;br&gt;
-&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/a/f/eaf05f90fae3d650ac22937ec891bf057065d982.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xwmIYTfo51wZgCMUwv5CsRP23ce&quot; width=&quot;246&quot; height=&quot;95&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2379059&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>土区涨价，最新菲律宾最低</title>
-      <link>https://linux.do/t/topic/2378861</link>
-      <guid>linux.do-topic-2378861</guid>
-      <pubDate>Thu, 11 Jun 2026 14:18:31 GMT</pubDate>
-      <description>
-            &lt;h1&gt;&lt;a name=&quot;p-18997443-chatgpt-plus-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18997443-chatgpt-plus-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;ChatGPT Plus 每月全球价格&lt;/strong&gt;&lt;/h1&gt;
-&lt;div class=&quot;md-table&quot;&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;排名&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;地区&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;原价&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;CNY 价格&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;状态&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;菲律宾&lt;/td&gt;
-&lt;td&gt;PHP 999&lt;/td&gt;
-&lt;td&gt;¥110.15&lt;/td&gt;
-&lt;td&gt;最低&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;巴基斯坦&lt;/td&gt;
-&lt;td&gt;PKR 4,900&lt;/td&gt;
-&lt;td&gt;¥119.49&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;加拿大&lt;/td&gt;
-&lt;td&gt;CAD 24.99&lt;/td&gt;
-&lt;td&gt;¥121.61&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;日本&lt;/td&gt;
-&lt;td&gt;JPY 3,000&lt;/td&gt;
-&lt;td&gt;¥127.00&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;韩国&lt;/td&gt;
-&lt;td&gt;KRW 29,000&lt;/td&gt;
-&lt;td&gt;¥129.14&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;越南&lt;/td&gt;
-&lt;td&gt;VND 499,000&lt;/td&gt;
-&lt;td&gt;¥129.15&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;巴西&lt;/td&gt;
-&lt;td&gt;BRL 99.9&lt;/td&gt;
-&lt;td&gt;¥131.02&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;埃及&lt;/td&gt;
-&lt;td&gt;EGP 999.99&lt;/td&gt;
-&lt;td&gt;¥131.22&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;印度尼西亚&lt;/td&gt;
-&lt;td&gt;IDR 349,000&lt;/td&gt;
-&lt;td&gt;¥131.58&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;阿根廷&lt;/td&gt;
-&lt;td&gt;USD 19.99&lt;/td&gt;
-&lt;td&gt;¥135.64&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;美国&lt;/td&gt;
-&lt;td&gt;USD 19.99&lt;/td&gt;
-&lt;td&gt;¥135.64&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12&lt;/td&gt;
-&lt;td&gt;哈萨克斯坦&lt;/td&gt;
-&lt;td&gt;KZT 9,990&lt;/td&gt;
-&lt;td&gt;¥138.99&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13&lt;/td&gt;
-&lt;td&gt;印度&lt;/td&gt;
-&lt;td&gt;INR 1,999&lt;/td&gt;
-&lt;td&gt;¥142.17&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14&lt;/td&gt;
-&lt;td&gt;澳大利亚&lt;/td&gt;
-&lt;td&gt;AUD 29.99&lt;/td&gt;
-&lt;td&gt;¥143.09&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;泰国&lt;/td&gt;
-&lt;td&gt;THB 699&lt;/td&gt;
-&lt;td&gt;¥144.25&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;16&lt;/td&gt;
-&lt;td&gt;智利&lt;/td&gt;
-&lt;td&gt;CLP 19,990&lt;/td&gt;
-&lt;td&gt;¥146.99&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;17&lt;/td&gt;
-&lt;td&gt;土耳其&lt;/td&gt;
-&lt;td&gt;TRY 999.99&lt;/td&gt;
-&lt;td&gt;¥147.10&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;18&lt;/td&gt;
-&lt;td&gt;阿联酋&lt;/td&gt;
-&lt;td&gt;AED 79.99&lt;/td&gt;
-&lt;td&gt;¥147.79&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;19&lt;/td&gt;
-&lt;td&gt;台湾&lt;/td&gt;
-&lt;td&gt;TWD 690&lt;/td&gt;
-&lt;td&gt;¥148.25&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-            &lt;p&gt;&lt;small&gt;18 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2378861&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>于东来公开反思，称将调整员工薪酬：员工其实不值这么多钱，高薪让员工产生“认知上的偏差”，一旦走出胖东来就完蛋</title>
-      <link>https://linux.do/t/topic/2378804</link>
-      <guid>linux.do-topic-2378804</guid>
-      <pubDate>Thu, 11 Jun 2026 14:11:57 GMT</pubDate>
-      <description>
-            &lt;p&gt;6月10日，胖东来创始人于东来在企业内部分享会上公开反思经营管理问题。&lt;/p&gt;
-&lt;p&gt;他表示：“我们公司30年以来，基本上都是使用超越员工期望的薪酬，这样好的一点是能激发大家的热情，不好的一点，产生溺爱。大家其实不值这么多钱，但是给你了这么多钱，让你产生了一个认知上的偏差，偏差就导致自己认为自己就值这么多钱。好的一面是我在公司里面，因为我值这么多钱，我感觉我很骄傲很幸福。不好的一面，就是一旦走出胖东来就完蛋。这可能就是政策上的过度溺爱。”&lt;/p&gt;
-&lt;p&gt;于东来对胖东来薪酬制度也表达了看法，他表示：“公司里面我期望的结果是，我们薪资层面，无论是人力资源、财务部门或者营运部门，结合起来，我们给公司制定我们相应的比较科学的薪酬制度。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/a/2/4a2e77d7b6b0610a6ba12865768ce6b9af7d789d.png&quot; data-download-href=&quot;/uploads/short-url/aAeTcrv0FknhEfijmmeJ52gpV49.png?dl=1&quot; title=&quot;来源：大河报&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/a/2/4a2e77d7b6b0610a6ba12865768ce6b9af7d789d.png&quot; alt=&quot;来源：大河报&quot; data-base62-sha1=&quot;aAeTcrv0FknhEfijmmeJ52gpV49&quot; width=&quot;623&quot; height=&quot;279&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://finance.sina.com.cn/wm/2026-06-11/doc-iniazpqt0832310.shtml&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://finance.sina.com.cn/wm/2026-06-11/doc-iniazpqt0832310.shtml&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;05:10PM - 11 June 2026&quot;&gt;finance.sina.com.cn – 11 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:623/279;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/a/2/4a2e77d7b6b0610a6ba12865768ce6b9af7d789d.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;EAE7E6&quot; width=&quot;623&quot; height=&quot;279&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://finance.sina.com.cn/wm/2026-06-11/doc-iniazpqt0832310.shtml&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;于东来公开反思，称将调整员工薪酬：员工其实不值这么多钱，高薪让员工产生“认知上的偏差”，一旦走出胖东来就完蛋&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;于东来公开反思，称将调整员工薪酬：员工其实不值这么多钱，高薪让员工产生“认知上的偏差”，一旦走出胖东来就完蛋&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;23 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2378804&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>游走高校圈多年 “鹅腿阿姨”进城后翻车了</title>
-      <link>https://linux.do/t/topic/2378763</link>
-      <guid>linux.do-topic-2378763</guid>
-      <pubDate>Thu, 11 Jun 2026 14:06:14 GMT</pubDate>
-      <description>
-            &lt;p&gt;叱咤北京高校圈的明星摊贩“鹅腿阿姨”，刚进军市中心的国贸商圈没几天，就被上班族们识破，她十几年来都在“挂鹅腿卖鸭腿”。&lt;/p&gt;
-&lt;p&gt;“鹅腿阿姨”本名陈秀凤，近年在北京大学、清华大学等中国顶尖高校附近摆摊卖烧烤鹅腿走红。她在2023年曾因从北大转到清华门口摆摊，而引发“清北人鹅腿阿姨之争”，不少学生顶着寒风在深夜排队抢购的场面，还一度登上微博热搜。&lt;/p&gt;
-&lt;p&gt;据媒体报道，陈秀凤2011年初开始摆摊卖鹅腿，2016年起开放微信预订后，业务逐渐扩展至北京海淀区的高校圈，微信配送群多达五六十个。&lt;/p&gt;
-&lt;p&gt;早在2023年，就有学生在知乎发帖质疑，陈秀凤以鸭腿充当鹅腿销售。不过，贴文引发“鹅腿阿姨”粉丝们的反驳与声讨，争议很快不了了之。&lt;/p&gt;
-&lt;p&gt;2024年，又有学生反映陈秀凤售卖的鹅腿泛绿光，内部有绿色疑似霉斑的物质；陈秀凤声称这是葱汁榨汁腌制浸泡造成的“纯绿色食品”。质疑声还是未能阻挡“鹅腿阿姨”被学子们越捧越红。&lt;/p&gt;
-&lt;p&gt;2024年有学生反映陈秀凤售卖的鹅腿泛绿光，内部有绿色疑似霉斑的物质。（互联网）&lt;/p&gt;
-&lt;p&gt;本月4日，陈秀凤在朋友圈宣布要“勇闯国贸CBD”，不料没过几天，就被国贸上班族举报货不对板。她本周在微信订购群里承认，原始食材鹅腿“已断货十五年有余”，目前的原材料是鸭腿，后续会“写清楚”。&lt;/p&gt;
-&lt;p&gt;陈秀凤还称，“鹅腿阿姨”叫了十几年，不存在欺诈等行为，“本来就是小本生意，也没有故意存在欺诈宣传”。&lt;/p&gt;
-&lt;p&gt;迟到了十几年的真相，让“鹅腿阿姨”的顾客们大为震惊。一名北大学生感叹：“一想到我这么喜欢的‘鹅腿’其实是鸭腿，我就手脚冰凉、遍体生寒…”&lt;/p&gt;
-&lt;p&gt;陈秀凤告诉媒体，她2011年开始卖烧烤时确实是用鹅腿，但大约一两个月后货源断了，找了很多地方找不到符合要求的鹅腿，就改用鸭腿。但网传微信群截图显示，她对外一直宣称卖的是“鹅腿”。&lt;/p&gt;
-&lt;h3&gt;&lt;a name=&quot;p-18996945-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18996945-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;登北大讲堂分享创业故事&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;卖了十多年鸭腿的“鹅腿阿姨”，不仅没有被学生识破，还在2024年的国际劳动妇女节受邀到北大百周年纪念讲堂演讲，分享她的创业之路。&lt;/p&gt;
-&lt;p&gt;2024年3月，陈秀凤（右）受邀出席论坛，向北大学子们分享她的创业故事。（北京大学官微）&lt;/p&gt;
-&lt;p&gt;据《北京青年报》报道，陈秀凤在分享中提到，她老家在江苏连云港，早年曾在北大西南门卖水果，后来发现卖烧烤收入更可观，便支了个烧烤摊开始卖鹅腿。为了方便学生预订鹅腿，她把自己的微信名字改为“鹅腿阿姨”。&lt;/p&gt;
-&lt;p&gt;提到制作“鹅腿”的过程，陈秀凤称，每天早上7点，供应商将新鲜的鹅腿送到她的手上，她先把鹅腿全部清洗，然后改刀。因为洗鹅腿用的是冷水，她的手经过长期浸泡，关节都变形了。改刀也常常花费三四个小时，才能切出大小基本一致的鹅腿。&lt;/p&gt;
-&lt;p&gt;然而，在微信群里和学生们沟通时，陈秀凤又称“鹅腿”是冷冻的。&lt;/p&gt;
-&lt;p&gt;另据观察者网，陈秀凤也在北大讲台上向学生们分享自己的“生意经”。她说，一是讲规则，和同学们建立信任关系。二是保证做良心活，就是要有高品质，不能让顾客遇到食品安全的问题，这也是特别重要的。&lt;/p&gt;
-&lt;p&gt;北大还曾在官方微信号推文《“鹅腿阿姨”来北大啦！》，记录陈秀凤的故事，不过目前相关文章已被删除。但她的分享内容在网络流传至今，这些看似朴实真诚的话语，现在读来更显讽刺。&lt;/p&gt;
-&lt;p&gt;据悉，陈秀凤的儿子还曾晒出微信聊天截图，指有中共中央党校的顾客希望订购“鹅腿”，他回应称“级别太高，暂时不送”。对此有网民调侃：“他们也知道谁不能骗。”&lt;/p&gt;
-&lt;h3&gt;&lt;a name=&quot;p-18996945-h-2&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18996945-h-2&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;月入数万元 注册多个商标&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;网民愤怒的另一个原因，则是“鹅腿”的售价。对于货真价实的熟食鹅腿来说，16元（人民币，下同，约3新元）一个是闻所未闻的低价；但对于冷冻鸭腿而言，这个价格远不算便宜。&lt;/p&gt;
-&lt;p&gt;界面新闻星期三（6月10日）走访北京新发地市场发现，鸭腿与鹅腿的批发价天差地别。一只鸭腿的批发价约为2.5元，电商平台冻鸭腿单价不到2元。相比之下，电商平台冷冻鹅腿的单价在14元至15元左右，相差超过五倍。&lt;/p&gt;
-&lt;p&gt;以此计算，陈秀凤一只售价16元的鸭腿，利润约13元；一天卖出300多只，利润就达到4000元。全年无休且不算房租、代理商分成的情况下，利润高达146万元。&lt;/p&gt;
-&lt;p&gt;不过，陈秀凤的儿子否认了“年收入数百万”的说法，称一家人一个月收入在5万元左右。陈秀凤丈夫则说，他们用的鸭腿进价四五元，“品质好”，加上一年20万元店面租金、酱料及水电等成本，“16元一个的定价并不高”。&lt;/p&gt;
-&lt;p&gt;媒体还发现，陈秀凤的“鹅腿”生意早已悄然做大。&lt;/p&gt;
-&lt;p&gt;界面新闻报道，陈秀凤的“鹅腿”业务已覆盖北京几十所高校，团购成员超10万人次，跟团人次达20万，配送范围从北京的海淀区延伸至38公里外的房山区，拥有注册商标、正式后厨、雇佣员工及第三方配送代理，规模已堪比一家公司。&lt;/p&gt;
-&lt;p&gt;另据天眼查及中国商标网信息显示，2024年至2026年，陈秀凤申请过“鹅腿阿姨”等多枚商标，部分商标已经注册成功，国际分类涉及方便食品、广告销售、食品、医疗园艺等。&lt;/p&gt;
-&lt;p&gt;网传“鹅腿阿姨”后厨照片显示，有多名男子在厨房烤“鹅腿”，并非像陈秀凤此前所说，均由她亲自烤制。（互联网）&lt;/p&gt;
-&lt;h3&gt;&lt;a name=&quot;p-18996945-h-3&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18996945-h-3&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;捧得越高 摔得越狠？&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;随着舆情持续发酵，中国消费者协会工作人员星期四（11日）回应中国新闻周刊称，中消协已关注到此事，将搜集相关线索，统一汇总成相关情况说明。目前，相关行政部门已介入调查。&lt;/p&gt;
-&lt;p&gt;同日，北京市海淀区市场监督管理局通报，已组织相关市场监管所，就“鹅腿阿姨”事件开展调查、问询当事人。目前当局正对其涉嫌误导消费者等行为进一步核查，下一步将依法依规处置。&lt;/p&gt;
-&lt;p&gt;北京安剑律师事务所周兆成律师撰文分析，陈秀凤明知原料是鸭腿，却十余年未主动公示，仅模糊规避标注，属于隐瞒关键商品信息、引人误解的虚假宣传，其行为已构成民事欺诈。对此，消费者可主张退一赔三，单笔赔偿不足500元按500元赔付。&lt;/p&gt;
-&lt;p&gt;周兆成补充，陈秀凤还面临多项行政处罚，包括市场监管处罚（可被处以20万至200万元罚款，以及责令停业、没收违法所得），以及无证经营风险等。&lt;/p&gt;
-&lt;p&gt;他同时研判，陈秀凤或处于刑事追责边界。若她长期累计销售金额超5万元，以鸭充鹅属于以假充真，涉嫌生产、销售伪劣产品罪，将被追究刑事责任。&lt;/p&gt;
-&lt;p&gt;还有网民翻出2019年的案例，指北京两名餐馆经营者以鸭肉冒充鹅肉制作成“烧鹅”销售，分别被判处有期徒刑二年六个月、缓刑三年，并罚款15万元，呼吁以此标准严惩陈秀凤。&lt;/p&gt;
-&lt;p&gt;一场以鸭充鹅的路边摊骗局，虽未导致严重食安事故，却引发舆情层层升温。央视网星期四就此评论：“这些套路并非惊天骗局，却处处透着‘险恶’。它的伤害性可能不大，但恶心人，也寒人心。套路千万条，真诚第一条。”&lt;/p&gt;
-&lt;p&gt;网民们从中总结的教训是：“别相信大学生推荐的美食，只要给的东西多，放料足，大学生啥都觉得好吃。”&lt;/p&gt;
-&lt;p&gt;对于购买“鹅腿”的学生们来说，除了满足口腹之欲，某种程度上也是为了共享校园生活的氛围，表达对靠双手讨生活的小商贩的支持与认同。因此，当他们发现善良勤恳的“鹅腿阿姨”，实则是弄虚作假的奸商，难免感到被欺骗。&lt;/p&gt;
-&lt;p&gt;在这个造神快、塌房也快的流量时代，人们支持的究竟是真实的劳动价值，还是精心包装的人设故事，或许是这场风波留给公众的最大疑问。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.zaobao.com.sg/news/china/story20260611-9190674?ref=home-sidebar-china-realtime&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/0/6/d0675f8f77d5387ed43a119a228b00fb12d862a6.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;D5567C&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://www.zaobao.com.sg/news/china/story20260611-9190674?ref=home-sidebar-china-realtime&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;zaobao.com.sg&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/f/f/5ffb0a1157cf6ed661ae92290569bb973eae0eae_2_690x459.webp&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;675553&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.zaobao.com.sg/news/china/story20260611-9190674?ref=home-sidebar-china-realtime&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;下午察：游走高校圈多年 “鹅腿阿姨”进城后翻车了&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;叱咤北京高校圈的明星摊贩“鹅腿阿姨”，刚进军市中心的国贸商圈没几天，就被上班族们识破，她十几年来都在“挂鹅腿卖鸭腿”。&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;25 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2378763&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>以防你不知道Neverless不活跃会关户</title>
-      <link>https://linux.do/t/topic/2378303</link>
-      <guid>linux.do-topic-2378303</guid>
-      <pubDate>Thu, 11 Jun 2026 13:05:13 GMT</pubDate>
-      <description>
-            &lt;p&gt;我目前并不会炒股，是因为近期的关门事件，才注册了neverless和bit，以及不知道审核有没有成的嘉信。&lt;br&gt;
-但因为我注册后目前还没急着去买加密货币然后入金，所以我在被neverless和bit的双重推销邮件攻击之后，&lt;br&gt;
-收到了neverless的休眠关户邮件&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/c/8/7c801929b53bfc67fb808a4b1ed91b7c2580822d.png&quot; data-download-href=&quot;/uploads/short-url/hLnEEmBvzgGjhFqMn6fJvNd8ilv.png?dl=1&quot; title=&quot;ca3e8e64630e2bc063a683c6409fce51&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/c/8/7c801929b53bfc67fb808a4b1ed91b7c2580822d_2_690x330.png&quot; alt=&quot;ca3e8e64630e2bc063a683c6409fce51&quot; data-base62-sha1=&quot;hLnEEmBvzgGjhFqMn6fJvNd8ilv&quot; width=&quot;690&quot; height=&quot;330&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/c/8/7c801929b53bfc67fb808a4b1ed91b7c2580822d_2_690x330.png, https://cdn3.ldstatic.com/optimized/4X/7/c/8/7c801929b53bfc67fb808a4b1ed91b7c2580822d_2_1035x495.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/c/8/7c801929b53bfc67fb808a4b1ed91b7c2580822d_2_1380x660.png 2x&quot; data-dominant-color=&quot;F5F5F4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;搞笑的是昨天的时候我在推特跟一个朋友聊交易所这个事，提到过股票和neverless与bit，结果今天就在我的推文回复个&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/b/e/0bedffa0297a1a60d0f92b02f73772f111416d9f.png&quot; data-download-href=&quot;/uploads/short-url/1Hxa1xhHJSwxzRbhaHfn3so8yJN.png?dl=1&quot; title=&quot;QQ_1781183036689&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/b/e/0bedffa0297a1a60d0f92b02f73772f111416d9f_2_465x500.png&quot; alt=&quot;QQ_1781183036689&quot; data-base62-sha1=&quot;1Hxa1xhHJSwxzRbhaHfn3so8yJN&quot; width=&quot;465&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/b/e/0bedffa0297a1a60d0f92b02f73772f111416d9f_2_465x500.png, https://cdn3.ldstatic.com/original/4X/0/b/e/0bedffa0297a1a60d0f92b02f73772f111416d9f.png 1.5x, https://cdn3.ldstatic.com/original/4X/0/b/e/0bedffa0297a1a60d0f92b02f73772f111416d9f.png 2x&quot; data-dominant-color=&quot;090909&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;有种被视奸的感觉 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/hushed_face.png?v=15&quot; title=&quot;:hushed_face:&quot; class=&quot;emoji&quot; alt=&quot;:hushed_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-&lt;p&gt;oyeah，5月20日注册的，四舍五入也快1个月时间了，有佬真的在用么，这软件没有网页也没有电脑端所以我基本没打开过，体验咋样&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/hushed_face.png?v=15&quot; title=&quot;:hushed_face:&quot; class=&quot;emoji&quot; alt=&quot;:hushed_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2378303&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>全球 AI 治理协议成国际法</title>
-      <link>https://linux.do/t/topic/2378220</link>
-      <guid>linux.do-topic-2378220</guid>
-      <pubDate>Thu, 11 Jun 2026 12:54:16 GMT</pubDate>
-      <description>
-            &lt;p&gt;才知道，看了下是6.1的旧闻了，但是站里也没看到，发一下&lt;/p&gt;
-&lt;h1&gt;&lt;a name=&quot;p-18993797-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18993797-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;全球首部人工智能治理法正式生效。其意义何在？&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;通用人工智能治理协议于 2026 年 6 月 1 日成为可强制执行的国际法——这将影响 OpenAI、谷歌以及所有部署前沿人工智能模型的公司。&lt;/p&gt;
-&lt;p&gt;2026年6月1日，技术监管史上发生了一件前所未有的事情：通用人工智能治理协议从自愿性准则转变为可强制执行的国际法。联合国与欧盟人工智能法案的执行团队以及来自包括美国、印度、日本、韩国和英国在内的47个参与国的监管机构协调合作，制定了首个全球人工智能透明度和安全性基准。历史上首次，部署前沿人工智能模型的科技公司无论其服务器位于何处或公司注册地在哪里，都面临着具有法律约束力的合规框架。人工智能监管套利的时代原则上已经结束。&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18993797-h-2&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18993797-h-2&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;协议的实际要求&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;核心要求适用于参与辖区内部署的任何参数超过一万亿的人工智能模型——基本上涵盖了OpenAI、Google DeepMind、Anthropic、Meta和Mistral等公司的所有前沿模型，同时豁免了大多数初创企业和企业开发者使用的中型模型。受监管的模型在部署到新的用途类别之前，必须接受强制性的第三方安全审计。它们必须向监管机构提供算法透明度文档——包括政府可查阅的训练数据来源说明、安全评估结果以及已知的性能限制。此外，它们还必须实施标准化的事件报告机制：当受监管的人工智能系统造成或促成损害时，开发者必须在72小时内向相关国家主管部门报告。&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18993797-h-3&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18993797-h-3&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;处罚：不合规的实际代价&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;违规行为可能导致罚款，罚款金额按全球年收入的一定比例计算（遵循GDPR的结构），最严重的违规行为最高罚款可达全球年收入的6%。运营处罚包括有权撤销参与司法管辖区的部署许可，从而有效地阻止某个模型同时在47个国家/地区使用。欧盟拥有最完善的执法机制，其耗时三年建立的欧盟人工智能办公室目前与新成立的联合国人工智能监督秘书处一起，成为两大主要监管机构之一。美国尚未通过与欧盟人工智能法案类似的联邦人工智能立法，但已通过行政协议同意遵守国际协议。&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18993797-ai-4&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18993797-ai-4&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;这对印度的AI生态系统意味着什么&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;印度是全球协议的签署国，这既为印度蓬勃发展的AI行业带来了义务，也带来了机遇。印度170多家AI初创公司中，绝大多数（占绝大多数）部署的模型参数低于一万亿的印度AI公司无需接受强制审计。这维持了印度AI生态系统相对宽松的监管环境，使其更具竞争力。对于规模较大的印度科技公司——例如Infosys、TCS、Wipro和Tech Mahindra等，它们都拥有重要的AI业务——协议要求它们确保为参与司法管辖区的客户部署的任何前沿AI模型都符合透明度和审计要求。这加速了对AI治理咨询服务的需求，而印度的IT服务巨头们在全球市场中拥有得天独厚的优势来提供此类服务。&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-18993797-h-5&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18993797-h-5&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;中国、俄罗斯与不参与的地缘政治&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;这些协议涵盖47个国家，但中国、俄罗斯和几个海湾国家明显缺席。中国对人工智能的监管方式以国内为导向，侧重于内容控制而非安全透明度；参与联合国协调的框架将需要披露与这种方式不符的信息。这造成了一种结构性矛盾：在非签署国市场部署模型的中国人工智能公司无需承担合规义务，而美国、欧洲和印度的公司则面临强制性审计和报告。这种不对称性是否会促使中国重新考虑不参与该协议，或者是否会给中国带来削弱协议的压力，是未来十年人工智能治理的核心地缘政治问题。现有已部署的模型有六个月的过渡期，截止日期为2026年12月1日，在此期间需要完成初步合规审计。人工智能行业已对此做出回应，对合规基础设施进行了大量投资：第三方人工智能审计公司报告称，自3月份协议最终确定以来，客户咨询量增加了300%至400%。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://techpopdaily.com/blog/global-ai-governance-law-june-2026-international#section-0-june-1-2026-the-day-ai-regulation-became-a-global-reality&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://techpopdaily.com/blog/global-ai-governance-law-june-2026-international#section-0-june-1-2026-the-day-ai-regulation-became-a-global-reality&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;01:30PM - 02 June 2026&quot;&gt;TechPopDaily – 2 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/5/1/7514c53362e10191ff886ab570fa3e56efb96785_2_690x460.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;4E493E&quot; width=&quot;690&quot; height=&quot;460&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://techpopdaily.com/blog/global-ai-governance-law-june-2026-international#section-0-june-1-2026-the-day-ai-regulation-became-a-global-reality&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Global AI Governance Law 2026: What It Means for Tech Companies Worldwide&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Universal AI governance protocols became enforceable international law June 1, 2026, with mandatory audits for models over 1T parameters—affecting all major A&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2378220&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>智谱GLM 5.2 开启内测，模型信息泄露</title>
-      <link>https://linux.do/t/topic/2378166</link>
-      <guid>linux.do-topic-2378166</guid>
-      <pubDate>Thu, 11 Jun 2026 12:47:32 GMT</pubDate>
-      <description>
-            &lt;blockquote&gt;
-&lt;p&gt;转自飞书群&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/b/9/3b9b2b71d3e467cb4878cabf5fc751fa0df74d3c.png&quot; data-download-href=&quot;/uploads/short-url/8viCsv2y6BTPkAiMxUq2icu15SY.png?dl=1&quot; title=&quot;img_v3_0212i_31780a11-37ff-4e64-a1ed-84ea84f1c0ag&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/b/9/3b9b2b71d3e467cb4878cabf5fc751fa0df74d3c_2_530x500.png&quot; alt=&quot;img_v3_0212i_31780a11-37ff-4e64-a1ed-84ea84f1c0ag&quot; data-base62-sha1=&quot;8viCsv2y6BTPkAiMxUq2icu15SY&quot; width=&quot;530&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/b/9/3b9b2b71d3e467cb4878cabf5fc751fa0df74d3c_2_530x500.png, https://cdn3.ldstatic.com/original/4X/3/b/9/3b9b2b71d3e467cb4878cabf5fc751fa0df74d3c.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/b/9/3b9b2b71d3e467cb4878cabf5fc751fa0df74d3c.png 2x&quot; data-dominant-color=&quot;F2F2F4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;注意，内测群貌似不是每个max用户都能进的。&lt;/p&gt;
-&lt;p&gt;感谢佬友透露内测情况：&lt;/p&gt;
-&lt;aside class=&quot;quote no-group&quot; data-username=&quot;teng_mmvp&quot; data-display-name=&quot;TengMMVP&quot; data-post=&quot;22&quot; data-topic=&quot;2378166&quot; data-full=&quot;true&quot;&gt;
-&lt;div class=&quot;title&quot;&gt;
-&lt;div class=&quot;quote-controls&quot;&gt;&lt;/div&gt;
-&lt;img alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot; src=&quot;https://cdn.ldstatic.com/user_avatar/linux.do/teng_mmvp/48/1271932_2.png&quot; class=&quot;avatar&quot;&gt; TengMMVP:&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1M上下文窗口，不支持多模态，支持2档思考强度。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/aside&gt;
-            &lt;p&gt;&lt;small&gt;44 个帖子 - 38 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2378166&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Vercel：DeepSeek的Token调用量超过OpenAI，成本仅占总支出1%</title>
-      <link>https://linux.do/t/topic/2377893</link>
-      <guid>linux.do-topic-2377893</guid>
-      <pubDate>Thu, 11 Jun 2026 12:11:23 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;strong&gt;Vercel 发布 2026 年 6 月 AI Gateway 生产指数。报告显示，得益于 5 月上线 Vercel 网关的 DeepSeek V4 系列（含 Flash 与 Pro 模型）推动，DeepSeek 的 Token 流量份额单月内从不足 1% 飙升至 17%，超越 OpenAI（13%）位居第三。然而由于定价极低，所有用户使用 DeepSeek 的总成本之和仅占网关整体资金支出的 1% 左右。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;价格是 DeepSeek 迅速爆发的主因。DeepSeek V4 Flash 百万 Token 输入与输出收费仅为 0.14 美元和 0.28 美元，较 Anthropic 同类前沿模型便宜 20 至 50 倍，较 Qwen 3.6 Plus 与 Kimi K2.6 也低 8 至 12 倍。评测表明 DeepSeek V4 性能达标，促使开发团队迅速在生产中部署。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;尽管低成本模型流量暴涨，但在资金消耗上，前沿模型仍占主导。5 月 Anthropic 支出份额从 61% 增至 65%，在应用生成、后台智能体及编程等高难度场景占 70% 到 80% 支出。例如在编程智能体场景，DeepSeek 贡献了 49% 的 Token 流量，但仅占 4% 的费用，而 Anthropic 以 28% 的流量耗费了 70% 的资金。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;开发团队正通过智能路由管理预算，将高频低风险任务分流至低成本模型，仅在关键环节使用前沿模型。对投资回报率（ROI）的考量也减缓了模型升级。例如谷歌 5 月推出的 Gemini 3.5 Flash 定价高于 3.0 版本，导致迁移缓慢，月底时 3.0 Flash 仍占 Flash 系列 90% 的流量，而 3.5 Flash 仅占 7%。同时，AI 智能体表现出极高 Token 消耗密度，以四分之一的请求量消耗了过半 Token。&lt;/strong&gt;&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/e/3/0e3914e200e08685c40e9ce1d54d103c38591040.png&quot; data-download-href=&quot;/uploads/short-url/21OYQ5JspxbxZnpzGusPLd1RyvK.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/e/3/0e3914e200e08685c40e9ce1d54d103c38591040_2_690x365.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;21OYQ5JspxbxZnpzGusPLd1RyvK&quot; width=&quot;690&quot; height=&quot;365&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/e/3/0e3914e200e08685c40e9ce1d54d103c38591040_2_690x365.png, https://cdn3.ldstatic.com/optimized/4X/0/e/3/0e3914e200e08685c40e9ce1d54d103c38591040_2_1035x547.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/e/3/0e3914e200e08685c40e9ce1d54d103c38591040_2_1380x730.png 2x&quot; data-dominant-color=&quot;E1E2EC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/5/a/c5a0a2a2ed883d47002dd839e325311a10d748ac.png&quot; data-download-href=&quot;/uploads/short-url/scidImxPaNBJJAlwQdsunOSHD6k.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/5/a/c5a0a2a2ed883d47002dd839e325311a10d748ac_2_690x360.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;scidImxPaNBJJAlwQdsunOSHD6k&quot; width=&quot;690&quot; height=&quot;360&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/5/a/c5a0a2a2ed883d47002dd839e325311a10d748ac_2_690x360.png, https://cdn3.ldstatic.com/optimized/4X/c/5/a/c5a0a2a2ed883d47002dd839e325311a10d748ac_2_1035x540.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/5/a/c5a0a2a2ed883d47002dd839e325311a10d748ac_2_1380x720.png 2x&quot; data-dominant-color=&quot;EADEE8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://vercel.com/blog/ai-gateway-production-index-june-2026&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/9/c/8/9c8c60d9c6190f8d7071002306210fdd9de8046c.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;2B2B2B&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://vercel.com/blog/ai-gateway-production-index-june-2026&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Vercel&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/6/b/d6bacc972c25caf5c61e5e4bd06a198cbc02f3bb_2_690x361.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;101010&quot; width=&quot;690&quot; height=&quot;361&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://vercel.com/blog/ai-gateway-production-index-june-2026&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;DeepSeek enters the fight for token volume, Anthropic continues to dominate...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The June 2026 AI Gateway production index: DeepSeek&#39;s token share jumped to 17% as low-cost models entered production, while Anthropic held 65% of all spend.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;16 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2377893&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>「快讯」:distorted_face:什么叫Web3交易所上了港股？</title>
-      <link>https://linux.do/t/topic/2377799</link>
-      <guid>linux.do-topic-2377799</guid>
-      <pubDate>Thu, 11 Jun 2026 11:56:06 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/b/9/3b962604d4ac76a9eb4a64d3d2b57e75604e5d09.png&quot; data-download-href=&quot;/uploads/short-url/8v7RthVeWxAQIXsNdWbelAFmhlf.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/b/9/3b962604d4ac76a9eb4a64d3d2b57e75604e5d09_2_342x250.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8v7RthVeWxAQIXsNdWbelAFmhlf&quot; width=&quot;342&quot; height=&quot;250&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/b/9/3b962604d4ac76a9eb4a64d3d2b57e75604e5d09_2_342x250.png, https://cdn3.ldstatic.com/optimized/4X/3/b/9/3b962604d4ac76a9eb4a64d3d2b57e75604e5d09_2_513x375.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/b/9/3b962604d4ac76a9eb4a64d3d2b57e75604e5d09_2_684x500.png 2x&quot; data-dominant-color=&quot;EFF1F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;24 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2377799&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>CRISPR 酶能精确检测并粉碎癌症突变中的 DNA</title>
-      <link>https://linux.do/t/topic/2377692</link>
-      <guid>linux.do-topic-2377692</guid>
-      <pubDate>Thu, 11 Jun 2026 11:41:18 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://medicalxpress.com/news/2026-06-crispr-enzyme-precisely-shreds-dna.html&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/b/2/1b2b90b998c52b7ed5fff45106d3af0fca836e52.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;6F8633&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://medicalxpress.com/news/2026-06-crispr-enzyme-precisely-shreds-dna.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;01:20PM - 10 June 2026&quot;&gt;Medical Xpress – 10 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/460;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/2/d/f2ddf6cbd3ed24722ed4de0af93b01e40a92c5ab_2_690x460.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;665E72&quot; width=&quot;690&quot; height=&quot;460&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://medicalxpress.com/news/2026-06-crispr-enzyme-precisely-shreds-dna.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;CRISPR enzyme precisely detects and shreds DNA in cancer mutations once...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;In 2020, Jennifer Doudna won the Nobel Prize in chemistry for her work on the CRISPR-Cas9 gene-editing technology that allows scientists to precisely modify DNA by cutting it at specific locations. Six years later, a new study in Nature by a team led...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;2020 年，珍妮弗-杜德娜（Jennifer Doudna）因研究 CRISPR-Cas9 基因编辑技术而获得诺贝尔化学奖，该技术允许科学家通过在特定位置切割 DNA 来精确修改 DNA。六年后，杜德娜领导的团队在《自然》杂志上发表的一项新研究发现了一种强大的新方法，可以利用一种名为 Cas12a2 的 CRISPR 酶选择性地杀死癌细胞。&lt;/p&gt;
-&lt;p&gt;一旦这种酶检测到癌症特异性基因特征，它就会开始切碎目标细胞内的染色质–一种由 DNA 和蛋白质组成染色体的混合物。&lt;/p&gt;
-&lt;p&gt;许多癌症都是由肿瘤抑制蛋白（如 TP53）的突变引起的。然而，这些突变一直难以治疗，因为它们缺乏传统药物可以抓住的结合口袋。因此，许多致癌突变长期以来一直被认为是无法治疗的。&lt;/p&gt;
-&lt;p&gt;有了这种新方法，现在就能精确锁定并消除这些无法治愈的致病突变，因为它并不依赖于附着在突变蛋白质上。相反，一旦检测到与癌症有关的特征，它就会开始疯狂破坏 DNA。&lt;/p&gt;
-&lt;p&gt;癌细胞具有正常细胞所缺乏的独特蛋白质特征，因此很容易被识别和靶向治疗。TP53，即转录因子 p53，是癌症中最常见的突变基因之一，出现在高达 90% 的卵巢和胰腺肿瘤中。这种突变通常出现在早期，并持续存在于肿瘤的整个生长期，因此是一个极具吸引力的治疗靶点。然而，这种蛋白质很难被药物靶向。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/4/7/f474d8e8ead0c5b76413cc8823a0b4cd3c86a9e6.jpeg&quot; data-download-href=&quot;/uploads/short-url/ySyQvNYx3ReS3STjZ4X3IkoyA3I.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/4/7/f474d8e8ead0c5b76413cc8823a0b4cd3c86a9e6.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ySyQvNYx3ReS3STjZ4X3IkoyA3I&quot; width=&quot;690&quot; height=&quot;457&quot; data-dominant-color=&quot;E5E5E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在这项新研究中，研究小组将细菌防御系统变成了精确杀癌工具。他们选择了 Cas12a2 酶，并用引导 RNA 对其进行编程，以识别癌症特异性特征，包括 p53 和表皮生长因子受体的常见突变，以及 MYC 等致癌基因的异常高水平。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://crisprmedicinenews.com/news/crispr-cas12a2-targets-mutant-cancer-transcripts-for-selective-cell-death/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/c/6/4/c64af68b771ed65edd98c9b04d9449710b8c4edf.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;F6F3F3&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://crisprmedicinenews.com/news/crispr-cas12a2-targets-mutant-cancer-transcripts-for-selective-cell-death/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;CRISPR Medicine&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/308;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/2/7/f2762d8ac83b56a646d3343a54aca005f8dc3514_2_690x308.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;4E5472&quot; width=&quot;690&quot; height=&quot;308&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://crisprmedicinenews.com/news/crispr-cas12a2-targets-mutant-cancer-transcripts-for-selective-cell-death/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;News: CRISPR-Cas12a2 Targets Mutant Cancer Transcripts for Selective Cell...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;A new CRISPR-based strategy turns cancer cells&#39; own mutant transcripts against them, opening a potential route to one of oncology&#39;s most stubborn unsolved problems: the targeting of mutant p53. Rather than attempting to fix or restore the defective...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2377692&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【慢讯】报！GPT-5.6 上靶场了</title>
-      <link>https://linux.do/t/topic/2377664</link>
-      <guid>linux.do-topic-2377664</guid>
-      <pubDate>Thu, 11 Jun 2026 11:38:17 GMT</pubDate>
-      <description>
-            &lt;h2&gt;&lt;a name=&quot;p-18990775-openaikeplerkindlekindle-alpha-pixpin_2026-06-11_19-35-50690x376-75upload5pjwvjndj6zq8wnjfed2tsbslszwebp-pixpin_2026-06-11_19-36-32471x499uploadup3zhysoiwobudeyzab6dhym9afwebp-pixpin_2026-06-11_19-36-58513x500uploadzrjtgqzuiauz1jqbkq8x8ikna2qwebp-pixpin_2026-06-11_19-37-17503x500uploadyboujzlq8snim2csxte7yvfdhgdwebp-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-18990775-openaikeplerkindlekindle-alpha-pixpin_2026-06-11_19-35-50690x376-75upload5pjwvjndj6zq8wnjfed2tsbslszwebp-pixpin_2026-06-11_19-36-32471x499uploadup3zhysoiwobudeyzab6dhym9afwebp-pixpin_2026-06-11_19-36-58513x500uploadzrjtgqzuiauz1jqbkq8x8ikna2qwebp-pixpin_2026-06-11_19-37-17503x500uploadyboujzlq8snim2csxte7yvfdhgdwebp-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;据传：OpenAI已测试内部代号为&lt;strong&gt;kepler&lt;/strong&gt;和&lt;strong&gt;kindle&lt;/strong&gt;的两个新检查点。&lt;strong&gt;kindle-alpha&lt;/strong&gt;被曝已选为发布候选。&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/8/e/28e42b7917e57c94db0bba43cf41d828610ea08b.webp&quot; data-download-href=&quot;/uploads/short-url/5PJWVjNdJ6Zq8wnJfEd2TSbSlSz.webp?dl=1&quot; title=&quot;PixPin_2026-06-11_19-35-50&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/8/e/28e42b7917e57c94db0bba43cf41d828610ea08b_2_517x282.webp&quot; alt=&quot;PixPin_2026-06-11_19-35-50&quot; data-base62-sha1=&quot;5PJWVjNdJ6Zq8wnJfEd2TSbSlSz&quot; width=&quot;517&quot; height=&quot;282&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/8/e/28e42b7917e57c94db0bba43cf41d828610ea08b_2_517x282.webp, https://cdn3.ldstatic.com/optimized/4X/2/8/e/28e42b7917e57c94db0bba43cf41d828610ea08b_2_775x423.webp 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/8/e/28e42b7917e57c94db0bba43cf41d828610ea08b_2_1034x564.webp 2x&quot; data-dominant-color=&quot;929CA5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/8/0/d806bda92015061ef5d2a069bd252b7f8d87c69b.webp&quot; data-download-href=&quot;/uploads/short-url/uP3zHysOIWobudEYzAB6DhYm9Af.webp?dl=1&quot; title=&quot;PixPin_2026-06-11_19-36-32&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/8/0/d806bda92015061ef5d2a069bd252b7f8d87c69b_2_471x499.webp&quot; alt=&quot;PixPin_2026-06-11_19-36-32&quot; data-base62-sha1=&quot;uP3zHysOIWobudEYzAB6DhYm9Af&quot; width=&quot;471&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/8/0/d806bda92015061ef5d2a069bd252b7f8d87c69b_2_471x499.webp, https://cdn3.ldstatic.com/optimized/4X/d/8/0/d806bda92015061ef5d2a069bd252b7f8d87c69b_2_706x748.webp 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/8/0/d806bda92015061ef5d2a069bd252b7f8d87c69b_2_942x998.webp 2x&quot; data-dominant-color=&quot;B1C6C3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/8/6/f86282e032ffd161832e7606099ddbc4c6ce628e.webp&quot; data-download-href=&quot;/uploads/short-url/zrjtgqzuIaUZ1JqbKq8X8iKnA2q.webp?dl=1&quot; title=&quot;PixPin_2026-06-11_19-36-58&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/6/f86282e032ffd161832e7606099ddbc4c6ce628e_2_513x500.webp&quot; alt=&quot;PixPin_2026-06-11_19-36-58&quot; data-base62-sha1=&quot;zrjtgqzuIaUZ1JqbKq8X8iKnA2q&quot; width=&quot;513&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/6/f86282e032ffd161832e7606099ddbc4c6ce628e_2_513x500.webp, https://cdn3.ldstatic.com/optimized/4X/f/8/6/f86282e032ffd161832e7606099ddbc4c6ce628e_2_769x750.webp 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/8/6/f86282e032ffd161832e7606099ddbc4c6ce628e_2_1026x1000.webp 2x&quot; data-dominant-color=&quot;929393&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/f/9/ef93ab5f93a2bf1d309eff70ddeee91dffd081e7.webp&quot; data-download-href=&quot;/uploads/short-url/ybouJzlq8SNIM2CsXtE7YVfdHGD.webp?dl=1&quot; title=&quot;PixPin_2026-06-11_19-37-17&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/9/ef93ab5f93a2bf1d309eff70ddeee91dffd081e7_2_503x500.webp&quot; alt=&quot;PixPin_2026-06-11_19-37-17&quot; data-base62-sha1=&quot;ybouJzlq8SNIM2CsXtE7YVfdHGD&quot; width=&quot;503&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/9/ef93ab5f93a2bf1d309eff70ddeee91dffd081e7_2_503x500.webp, https://cdn3.ldstatic.com/optimized/4X/e/f/9/ef93ab5f93a2bf1d309eff70ddeee91dffd081e7_2_754x750.webp 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/f/9/ef93ab5f93a2bf1d309eff70ddeee91dffd081e7_2_1006x1000.webp 2x&quot; data-dominant-color=&quot;E8E9E9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/h2&gt;
-&lt;p&gt;来源公众号&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;37 个帖子 - 35 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2377664&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>个体运动偏差驱动行人人群逆时针运动</title>
-      <link>https://linux.do/t/topic/2377631</link>
-      <guid>linux.do-topic-2377631</guid>
-      <pubDate>Thu, 11 Jun 2026 11:33:36 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-026-73713-w&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/s41467-026-73713-w&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!abstract]+&lt;/p&gt;
-&lt;p&gt;行人的步行行为是个人固有的，但也受到障碍物和拥挤程度等外部因素的影响。正是在拥挤的情况下，行人的互动才会导致集体运动，如形成车道或波浪。最近，有报道称在密集和稀疏的人群中都会自发形成集体逆时针运动。在此，我们介绍了在西班牙和日本不同条件下进行的五项有关这一现象的实验研究，结果表明，漫游行人的逆时针偏向是一个稳健且可重复的特征，它源于个人倾向而非集体互动。这些发现挑战了社会动态决定行人运动的传统观点，突出了内在运动偏向的存在。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.theguardian.com/science/2026/jun/10/humans-prefer-to-walk-anticlockwise-scientists-find-reason-unclear&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/9/a/19af8680f41b4a64ed0c921d5a8f2a5caed87c43.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;4F6890&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://www.theguardian.com/science/2026/jun/10/humans-prefer-to-walk-anticlockwise-scientists-find-reason-unclear&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;09:40AM - 10 June 2026&quot;&gt;the Guardian – 10 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.theguardian.com/science/2026/jun/10/humans-prefer-to-walk-anticlockwise-scientists-find-reason-unclear&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Humans prefer to walk anticlockwise, scientists find – but reason is unclear&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;From Spain to Japan, experiments have repeatedly shown a left-turn bias, but exact mechanic ‘is still an open question’&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2026/06/10/science/humans-walking-veer-left-counterclockwise.html&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nytimes.com/2026/06/10/science/humans-walking-veer-left-counterclockwise.html&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2377631&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>独自在家：欧洲人随时准备自卫</title>
-      <link>https://linux.do/t/topic/2377578</link>
-      <guid>linux.do-topic-2377578</guid>
-      <pubDate>Thu, 11 Jun 2026 11:27:07 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/b/2/6b220b4bf6377a6afee2b157681961484c858d19.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;000000&quot; width=&quot;60&quot; height=&quot;60&quot;&gt;
-
-      &lt;a href=&quot;https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;12:01AM - 10 June 2026&quot;&gt;ECFR – 10 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/4/2/84263bdf3c4e7966b42732e581c1dd015a3f0432_2_690x460.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;6F6F6D&quot; width=&quot;690&quot; height=&quot;460&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Home alone: Europeans are ready to defend themselves – European Council on...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;A major ECFR poll finds the European public, in a time of rupture, thinking differently and questioning old assumptions. It reveals new political space availabl&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;&lt;span lang=&quot;zh&quot;&gt;就像经典喜剧电影中的小凯文一样，欧洲公民已经醒悟到一个令人不舒服的事实：他们被 “独自留在家中”。不是他们的父母和兄弟姐妹，而是许多人以为可以依赖的美国。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;凯文不得不自力更生，挑战一些陈旧的假设。他在房子里设置了诱杀装置，保护了自己和房子，并在这个过程中学会了自力更生。欧洲人也发现，&quot;独自在家 &quot;的经历打破了一些旧的禁忌和思维方式。尽管他们乐观地认为美国最终会 “回家”，加入跨大西洋联盟，但他们还是愿意比以前走得更远来保卫自己。他们把国内安全放在首位，对在欧盟周边地区直接作战持谨慎态度。与凯文一样，他们也在追求自给自足；即使能源价格上涨，他们也抵制俄罗斯新的化石燃料进口的诱惑。&lt;/p&gt;
-&lt;p&gt;换句话说，就像麦考利-卡尔金（Macaulay Culkin）在影片中扮演的角色一样，他们变得更加 &quot;成熟 &quot;了。他们的领导人必须迅速面对这一新的现实–这既开辟了政治空间，也要求他们根据当下严峻的现实采取行动。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;首先，欧洲对美国的信任降至新低。欧洲人并不指望唐纳德-特朗普领导下的美国会保护他们，他们认识到需要更多的自主安全（甚至由共同债务提供资金）。但他们确实认为特朗普上台后两国关系可能会改善，并希望为这种可能性敞开大门。&lt;/li&gt;
-&lt;li&gt;其次，尽管欧洲人继续支持乌克兰，但他们并不认为在当前形势下欧盟东扩是个好主意。他们也不愿意派遣自己的军队去维持战后乌克兰的和平。&lt;/li&gt;
-&lt;li&gt;第三，欧洲人已经吸取了依赖俄罗斯石油和天然气的教训。即使在新一轮能源紧缺对生活水平造成影响的情况下，他们仍坚决反对从俄罗斯购买化石燃料–整个欧洲大陆的大多数人都支持优先发展欧洲的可再生能源。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2377578&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Meta 已与 Manus 运营彻底分离，Manus 还要还 10 亿美元</title>
-      <link>https://linux.do/t/topic/2377546</link>
-      <guid>linux.do-topic-2377546</guid>
-      <pubDate>Thu, 11 Jun 2026 11:23:14 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/4/0/7404e11f5455e638c32a3cf91c31e1549c1b9f10.png&quot; data-download-href=&quot;/uploads/short-url/gylQ7hE31QhZKaSgv7kL9AJfXDq.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/4/0/7404e11f5455e638c32a3cf91c31e1549c1b9f10_2_304x375.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gylQ7hE31QhZKaSgv7kL9AJfXDq&quot; width=&quot;304&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/4/0/7404e11f5455e638c32a3cf91c31e1549c1b9f10_2_304x375.png, https://cdn3.ldstatic.com/optimized/4X/7/4/0/7404e11f5455e638c32a3cf91c31e1549c1b9f10_2_456x562.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/4/0/7404e11f5455e638c32a3cf91c31e1549c1b9f10_2_608x750.png 2x&quot; data-dominant-color=&quot;E2E2E2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;当初20亿美元的估值，现在难道还值这么多吗？&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2377546&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>报！kimi k3 应该不远了</title>
-      <link>https://linux.do/t/topic/2377508</link>
-      <guid>linux.do-topic-2377508</guid>
-      <pubDate>Thu, 11 Jun 2026 11:18:27 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/c/5/5c5ab3f6ed4d171a5fed1c5ec9333ebb86f18784.png&quot; data-download-href=&quot;/uploads/short-url/db0fXXvuxufBZYAo8uMflhxYr9q.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/c/5/5c5ab3f6ed4d171a5fed1c5ec9333ebb86f18784_2_689x272.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;db0fXXvuxufBZYAo8uMflhxYr9q&quot; width=&quot;689&quot; height=&quot;272&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/c/5/5c5ab3f6ed4d171a5fed1c5ec9333ebb86f18784_2_689x272.png, https://cdn3.ldstatic.com/optimized/4X/5/c/5/5c5ab3f6ed4d171a5fed1c5ec9333ebb86f18784_2_1033x408.png 1.5x, https://cdn3.ldstatic.com/original/4X/5/c/5/5c5ab3f6ed4d171a5fed1c5ec9333ebb86f18784.png 2x&quot; data-dominant-color=&quot;EEEEEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-该人是Kimi员工，上次kimi封号事件就是他出来道歉的。&lt;br&gt;
-除此之外，上周Kimi免费用户网页版本来可以正常用了，但是这两天无限服务繁忙，甚至非思考模式也一直繁忙，肯定是在测试K3&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;24 个帖子 - 23 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2377508&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Grok 官网绝赞打折中~</title>
-      <link>https://linux.do/t/topic/2377479</link>
-      <guid>linux.do-topic-2377479</guid>
-      <pubDate>Thu, 11 Jun 2026 11:13:27 GMT</pubDate>
-      <description>
-            &lt;p&gt;如题，今天登录官网发现正在打折，不知道是不是刚刚开的。Super Grok 掉了的佬友们可以考虑冲一波了。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/e/a/dead056ad191dad04c7c806c109c6436f7d2cc24.jpeg&quot; data-download-href=&quot;/uploads/short-url/vLSH3UYekOtl8b6RKwtG5X0wz76.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/e/a/dead056ad191dad04c7c806c109c6436f7d2cc24_2_690x478.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;vLSH3UYekOtl8b6RKwtG5X0wz76&quot; width=&quot;690&quot; height=&quot;478&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/e/a/dead056ad191dad04c7c806c109c6436f7d2cc24_2_690x478.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/e/a/dead056ad191dad04c7c806c109c6436f7d2cc24_2_1035x717.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/d/e/a/dead056ad191dad04c7c806c109c6436f7d2cc24.jpeg 2x&quot; data-dominant-color=&quot;171717&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;BTW，实测 App Store 也有该活动，印区可以做到 700 卢比（约 50 元左右）拿下三个月。&lt;/p&gt;
-&lt;p&gt;二编，楼下佬友反映白嫖过 super grok 的账号没有 super grok 的优惠&lt;/p&gt;
-&lt;aside class=&quot;quote quote-modified&quot; data-post=&quot;4&quot; data-topic=&quot;2377479&quot;&gt;
-  &lt;div class=&quot;title&quot;&gt;
-    &lt;div class=&quot;quote-controls&quot;&gt;&lt;/div&gt;
-    &lt;img alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot; src=&quot;https://cdn.ldstatic.com/letter_avatar/emiyalinux/48/5_82eae4ed8866f2911d81590c3c2c7791.png&quot; class=&quot;avatar&quot;&gt;
-    &lt;div class=&quot;quote-title__text-content&quot;&gt;
-      &lt;a href=&quot;https://linux.do/t/topic/2377479/4&quot;&gt;Grok 官网绝赞打折中~&lt;/a&gt; &lt;a class=&quot;badge-category__wrapper &quot; href=&quot;https://linux.do/c/news/34&quot;&gt;&lt;span data-category-id=&quot;34&quot; style=&quot;--category-badge-color: #BB8FCE; --category-badge-text-color: #000000;&quot; data-drop-close=&quot;true&quot; class=&quot;badge-category --style-icon &quot; title=&quot;前沿快讯，不出门能知天下事。&quot;&gt;&lt;svg class=&quot;fa d-icon svg-icon svg-node&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg id=&quot;newspaper&quot; viewBox=&quot;0 0 512 512&quot;&gt;
-  &lt;path d=&quot;M96 96c0-35.3 28.7-64 64-64l288 0c35.3 0 64 28.7 64 64l0 320c0 35.3-28.7 64-64 64L80 480c-44.2 0-80-35.8-80-80L0 128c0-17.7 14.3-32 32-32s32 14.3 32 32l0 272c0 8.8 7.2 16 16 16s16-7.2 16-16L96 96zm64 24l0 80c0 13.3 10.7 24 24 24l112 0c13.3 0 24-10.7 24-24l0-80c0-13.3-10.7-24-24-24L184 96c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16l48 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16l48 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0c-8.8 0-16 7.2-16 16zM160 304c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-256 0c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-256 0c-8.8 0-16 7.2-16 16z&quot;&gt;&lt;/path&gt;
-&lt;/svg&gt;&lt;/svg&gt;
-&lt;span class=&quot;badge-category__name&quot;&gt;前沿快讯&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;blockquote&gt;
-    &lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/3/5/7359e9cf3570d5b117ca1b289fd83762f77f0ff8.jpeg&quot; data-download-href=&quot;/uploads/short-url/gsrxWzS28pj1EhcQcjOdQqcW0ME.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;[image]&lt;/a&gt; 
-我勒个去，为什么我这只有heavy才打折
-  &lt;/blockquote&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;31 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2377479&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
