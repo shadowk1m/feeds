@@ -4,7 +4,20 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Fri, 12 Jun 2026 20:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 22:18:03 GMT</lastBuildDate>
+    <item>
+      <title>kimi k2.7 code模型已上线opencode go订阅</title>
+      <link>https://linux.do/t/topic/2390680</link>
+      <guid>linux.do-topic-2390680</guid>
+      <pubDate>Fri, 12 Jun 2026 20:53:56 GMT</pubDate>
+      <description>
+            &lt;p&gt;如题&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/c/d/acd1dccdf442729811feb8e825ae1adbdab7853e.png&quot; data-download-href=&quot;/uploads/short-url/oEPKHDw0u9dZFfbHR1dEDPaPfDE.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/c/d/acd1dccdf442729811feb8e825ae1adbdab7853e.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;oEPKHDw0u9dZFfbHR1dEDPaPfDE&quot; width=&quot;611&quot; height=&quot;246&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/c/c/ecc46899c1bc3cddb4a97bf44044a975142aa054.png&quot; data-download-href=&quot;/uploads/short-url/xMxua7acG1iAc43hg9fmk3y0gdK.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/c/c/ecc46899c1bc3cddb4a97bf44044a975142aa054.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xMxua7acG1iAc43hg9fmk3y0gdK&quot; width=&quot;690&quot; height=&quot;359&quot; data-dominant-color=&quot;FCFBFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2390680&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>DigitalOcean学生包积分将在7月31号停用</title>
       <link>https://linux.do/t/topic/2390286</link>
@@ -196,7 +209,7 @@ rt 应该是合作不继续了&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;补一下我的看法：&lt;/p&gt;
 &lt;p&gt;跟主流各种 T 级的模型肯定没法比，但是只有428 B能看到的效果还是非常可观的。&lt;/p&gt;
 &lt;p&gt;拿这种小模型去和巨量参数型的比是不理智的行为，面向适用场景也不一样。Minimax 做自动化还是非常不错的，开发确实不行。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;37 个帖子 - 30 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;40 个帖子 - 33 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389587&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -757,42 +770,6 @@ kimi-k2.7-code、kimi-k2.6、kimi-k2.5 模型均提供&lt;strong&gt;256K&lt;/str
 
             &lt;p&gt;&lt;small&gt;9 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2387876&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>kimi-k2.7-code现可以通过api调用</title>
-      <link>https://linux.do/t/topic/2387852</link>
-      <guid>linux.do-topic-2387852</guid>
-      <pubDate>Fri, 12 Jun 2026 10:06:31 GMT</pubDate>
-      <description>
-            &lt;p&gt;详情看官方介绍&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://platform.kimi.com/docs/guide/kimi-k2-7-code-quickstart&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/8/7/1/871ce29ecc06fc75927671ec339791ebd1739ab8.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;303133&quot; width=&quot;192&quot; height=&quot;192&quot;&gt;
-
-      &lt;a href=&quot;https://platform.kimi.com/docs/guide/kimi-k2-7-code-quickstart&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Kimi API 开放平台&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/8/9/8890ae9d1be3455578be787e7bddabb160533ce4_2_690x280.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;1F2126&quot; width=&quot;690&quot; height=&quot;280&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://platform.kimi.com/docs/guide/kimi-k2-7-code-quickstart&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Kimi K2.7 Code - Kimi API 开放平台&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Kimi K2.5 开放平台，提供万亿参数 K2.5 大模型 API，支持 256K 超长上下文、多模态理解和 Tool Calling。专业代码生成、智能对话、视觉推理，助力开发者构建下一代 AI 应用。&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-&lt;p&gt;
-怎么kimi发布新模型都没什么新闻&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2387852&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
