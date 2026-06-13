@@ -4,7 +4,463 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Fri, 12 Jun 2026 23:57:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:58:54 GMT</lastBuildDate>
+    <item>
+      <title>合理推测：A\为何要暂停Fable5</title>
+      <link>https://linux.do/t/topic/2391614</link>
+      <guid>linux.do-topic-2391614</guid>
+      <pubDate>Sat, 13 Jun 2026 02:54:49 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;em&gt;6月13日 早上8:50&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Anthropic发布公告：&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;美国政府以国家安全为由，已发布出口管制指令，要求暂停所有外国人对 Fable 5 的访问权限。&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;全篇文章满是废话不知所云，&lt;a href=&quot;https://www.anthropic.com/news/fable-mythos-access&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.anthropic.com/news/fable-mythos-access&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;p-19069751-fable5-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19069751-fable5-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;我们倒回到Fable5刚刚发布的时候&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;6月10日 凌晨1点，Fable5发布&lt;/strong&gt;&lt;br&gt;
+就在当天，美国战争部通过Openrouter平台使用了超过100B的Fable5，数量惊人。&lt;br&gt;
+（图中仅为部分时段快照）&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/6/8/a68a8a19b8f76cf0ed66f64d8324f74e9d9a21ce.png&quot; data-download-href=&quot;/uploads/short-url/nLi4VCYdrYiTHRjQajnT8M1tOKW.png?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/6/8/a68a8a19b8f76cf0ed66f64d8324f74e9d9a21ce.png&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;nLi4VCYdrYiTHRjQajnT8M1tOKW&quot; width=&quot;690&quot; height=&quot;327&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;后不久Openrouter记录被下架，原因未知&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;隔天6月11日 凌晨3点&lt;/strong&gt;&lt;br&gt;
+川普在白宫宣布：美国“今天结束了与伊朗的战争”&lt;br&gt;
+他取消了原计划当晚或近期对伊朗的军事打击，并表示签字仪式可能在未来几天在欧洲举行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6月13日 上午5:21&lt;/strong&gt;&lt;br&gt;
+Anthropic收到了政府的指令，要求关闭Fable5访问权限，而信中没有提供其国家安全关切的具体细节。（美政府）仅向我们提供了潜在的狭义、非普遍性越狱漏洞的口头证据，该漏洞本质上是要求模型阅读特定代码库并修复软件缺陷。&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;p-19069751-h-2&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19069751-h-2&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;作者的推测&lt;/h2&gt;
+&lt;p&gt;在战争部使用Fable5预演战争情势后，发现持续战争的行为并不明智，可能会导致支持率下降，通膨加剧。&lt;br&gt;
+而最重要的一点：川普表示 &lt;strong&gt;“我们得到了我们想要的一切”&lt;/strong&gt;，也许再进行军事行动已无必要，不可陷入伊朗战争泥淖，应当即决定展开 &lt;strong&gt;“伟大和解”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;而在兵棋推演中，Fable5一定发现了什么巨大的 从未被发现过的战争演变形势，使情况更加恶化，从而导致了这个&lt;em&gt;仓促&lt;/em&gt;的决定。&lt;br&gt;
+所以在宣布“伟大和解”隔天。（美政府）也就毫无征兆 没有缘由地以国家安全为由要求Anthropic关闭Fable5访问权限。&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;p-19069751-h-3&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19069751-h-3&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;结论&lt;/h2&gt;
+&lt;p&gt;也许A\说的是对的，Mythyos真的太过强大，他们不得不设置极其严苛的安全围栏。&lt;br&gt;
+而封禁它两个月，再放出改版Fable，某种程度上是正确的选择。&lt;/p&gt;
+&lt;p&gt;本人无意参与政治话题，本文也仅在分析为何Fable5被暂停，留言请理性讨论不要偏离主题。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2391614&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>《北京日报》：中国不需要、也不可能复制SpaceX</title>
+      <link>https://linux.do/t/topic/2391553</link>
+      <guid>linux.do-topic-2391553</guid>
+      <pubDate>Sat, 13 Jun 2026 02:45:02 GMT</pubDate>
+      <description>
+            &lt;p&gt;美国企业SpaceX上市消息在中国互联网上刷屏，中共北京市委机关报《北京日报》在其新媒体发文称，“中国不需要、也不可能复制SpaceX”。&lt;/p&gt;
+&lt;p&gt;“长安街知事”星期六（6月13日）发布对北京航空航天大学教授、《商业航天：太空经济新蓝海》一书的作者沈映春的专访。&lt;/p&gt;
+&lt;p&gt;“长安街知事”提问，资本市场为什么敢给出如此惊人的价格？中美目前在商业航天领域差距有多大？我们最应该着急的是什么？最用不着担心的是什么？中国有必要复制SpaceX的胜利吗？中国的独特优势是什么？&lt;/p&gt;
+&lt;p&gt;沈映春说，过去10年，中国商业航天走完了国外几十年的路，已稳居全球第二，未来要实现从“近地领先”到“深空领跑”，仍需在降本增效、商业生态和国际话语权等方面持续突破。&lt;/p&gt;
+&lt;p&gt;沈映春说，中美目前在商业航天领域的差距客观存在且具有结构性，主要集中在发射能力和成本控制两个维度。他说，中国当前面临的最大短板就是“星多箭少”，商业火箭年发射能力与三大星座（“GW”星座、“千帆”星座和“鸿鹄-3”星座）建设需求之间仍存在较大缺口，可回收火箭技术和下游商业应用也有待进一步成熟。&lt;/p&gt;
+&lt;p&gt;他说，中国优势在于强大工业制造能力、以及“政府搭台、企业唱戏”的能力&lt;/p&gt;
+&lt;p&gt;沈映春说：“从发展路径看，中国不需要、也不可能复制SpaceX。”&lt;/p&gt;
+&lt;p&gt;“美国模式的优势在于效率，用市场机制倒逼创新和降本；中国模式的优势在于规模，用国家意志集中资源，系统性解决基础设施、标准制定和风险分担等“市场失灵”问题。两者，不是‘谁更先进’，而是‘谁更适配’。”&lt;/p&gt;
+&lt;p&gt;他也说中国有弯道超车的机会。“未来中国的‘空天地一体化’网络，将率先大规模应用于智慧城市、低空经济和应急减灾，这是任何国外星座都无法提供的独特场景，是中国商业航天实现‘弯道超车’的土壤。”&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.zaobao.com.sg/news/china/story20260613-9199550?ref=home-sidebar-china-realtime&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/5/f/05f975719cfaff49ff37671e8fca86bbf8d5ce5d.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;D5567C&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://www.zaobao.com.sg/news/china/story20260613-9199550?ref=home-sidebar-china-realtime&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;zaobao.com.sg&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/f/e/afeeb2c880fff8d431bbf7f6a504139b7da2454d_2_690x459.webp&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;4C4645&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.zaobao.com.sg/news/china/story20260613-9199550?ref=home-sidebar-china-realtime&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;《北京日报》：中国不需要、也不可能复制SpaceX&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;美国企业SpaceX上市消息在中国互联网上刷屏，中共北京市委机关报《北京日报》在其新媒体发文称，“中国不需要、也不可能复制SpaceX”。&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2391553&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Fable被政府禁止外国用户使用</title>
+      <link>https://linux.do/t/topic/2391541</link>
+      <guid>linux.do-topic-2391541</guid>
+      <pubDate>Sat, 13 Jun 2026 02:43:53 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/1/5/f1539cafe3e47833d8ff4ccde5e1f9bc90baa066.jpeg&quot; data-download-href=&quot;/uploads/short-url/yqScV2JK0bTmIxfWqOd85bJoCIS.jpeg?dl=1&quot; title=&quot;57382410bc3687c521856971f5ffae83_720&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/1/5/f1539cafe3e47833d8ff4ccde5e1f9bc90baa066_2_366x500.jpeg&quot; alt=&quot;57382410bc3687c521856971f5ffae83_720&quot; data-base62-sha1=&quot;yqScV2JK0bTmIxfWqOd85bJoCIS&quot; width=&quot;366&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/1/5/f1539cafe3e47833d8ff4ccde5e1f9bc90baa066_2_366x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/1/5/f1539cafe3e47833d8ff4ccde5e1f9bc90baa066_2_549x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/1/5/f1539cafe3e47833d8ff4ccde5e1f9bc90baa066_2_732x1000.jpeg 2x&quot; data-dominant-color=&quot;D9DADA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;aside class=&quot;quote quote-modified&quot; data-post=&quot;1&quot; data-topic=&quot;2391569&quot;&gt;
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;div class=&quot;quote-controls&quot;&gt;&lt;/div&gt;
+    &lt;img alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot; src=&quot;https://cdn.ldstatic.com/user_avatar/linux.do/shishanyue/48/2080316_2.png&quot; class=&quot;avatar&quot;&gt;
+    &lt;div class=&quot;quote-title__text-content&quot;&gt;
+      &lt;a href=&quot;https://linux.do/t/topic/2391569&quot;&gt;Any的Fable用不了啦&lt;/a&gt; &lt;a class=&quot;badge-category__wrapper &quot; href=&quot;https://linux.do/c/gossip/11&quot;&gt;&lt;span data-category-id=&quot;11&quot; style=&quot;--category-badge-color: #3AB54A; --category-badge-text-color: #000000;&quot; data-drop-close=&quot;true&quot; class=&quot;badge-category --style-icon &quot; title=&quot;闲聊吹水的板块。不得讨论政治、色情等违规内容。&quot;&gt;&lt;svg class=&quot;fa d-icon svg-icon svg-node&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg id=&quot;droplet&quot; viewBox=&quot;0 0 384 512&quot;&gt;
+  &lt;path d=&quot;M192 512C86 512 0 426 0 320C0 228.8 130.2 57.7 166.6 11.7C172.6 4.2 181.5 0 191.1 0l1.8 0c9.6 0 18.5 4.2 24.5 11.7C253.8 57.7 384 228.8 384 320c0 106-86 192-192 192zM96 336c0-8.8-7.2-16-16-16s-16 7.2-16 16c0 61.9 50.1 112 112 112c8.8 0 16-7.2 16-16s-7.2-16-16-16c-44.2 0-80-35.8-80-80z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;&lt;/svg&gt;
+&lt;span class=&quot;badge-category__name&quot;&gt;搞七捻三&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;blockquote&gt;
+    &lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/f/0/4f01a64fe5688c33fe9d3b83e09a742784c287cc.png&quot; data-download-href=&quot;/uploads/short-url/bgVfMrE5Ne2I4a0LUy9P70rSRQw.png?dl=1&quot; title=&quot;595b20c50466d4b4ae924fab7a3a751bbb854b1c_2_504x750&quot; rel=&quot;noopener nofollow ugc&quot;&gt;[595b20c50466d4b4ae924fab7a3a751bbb854b1c_2_504x750]&lt;/a&gt; 
+&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/6/7/267f2ed4c620b45b6afb44b2c23515ce3922c819.png&quot; data-download-href=&quot;/uploads/short-url/5uyDbCQ2KVODvvHNBD4OiQ7b7Zv.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;[image]&lt;/a&gt; 
+哭了，今天刚刚体验了Any大善人的Fable，跑了几下就retrying啦，一上L站天都塌啦。 &lt;img width=&quot;20&quot; height=&quot;20&quot; src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/melting_face.png?v=15&quot; title=&quot;melting_face&quot; alt=&quot;melting_face&quot; class=&quot;emoji&quot;&gt;
+  &lt;/blockquote&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2391541&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>地表最强模型 Fable 5 被下架了</title>
+      <link>https://linux.do/t/topic/2391492</link>
+      <guid>linux.do-topic-2391492</guid>
+      <pubDate>Sat, 13 Jun 2026 02:37:55 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/6/8/3688b01d594fb9e344bf5ce8a43310c6e942ad20.png&quot; data-download-href=&quot;/uploads/short-url/7MqDqIhuHInONbYYBKWaPgjh2Mg.png?dl=1&quot; title=&quot;IMG_1107&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/6/8/3688b01d594fb9e344bf5ce8a43310c6e942ad20_2_230x500.png&quot; alt=&quot;IMG_1107&quot; data-base62-sha1=&quot;7MqDqIhuHInONbYYBKWaPgjh2Mg&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/6/8/3688b01d594fb9e344bf5ce8a43310c6e942ad20_2_230x500.png, https://cdn3.ldstatic.com/optimized/4X/3/6/8/3688b01d594fb9e344bf5ce8a43310c6e942ad20_2_345x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/6/8/3688b01d594fb9e344bf5ce8a43310c6e942ad20_2_460x1000.png 2x&quot; data-dominant-color=&quot;E6E9EA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;强到被管控了，国产模型啥时候能达到这个水平呢？能达到 opus4 .7 也满足了！&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2391492&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>突发，A/小剧场：Anthropic 因美国政府出口管制，全面对外国人禁用 Faber 5 和 Mythos 5</title>
+      <link>https://linux.do/t/topic/2391362</link>
+      <guid>linux.do-topic-2391362</guid>
+      <pubDate>Sat, 13 Jun 2026 02:14:22 GMT</pubDate>
+      <description>
+            &lt;p&gt;我就说10点给我重置额度，这怎么 fable5 用不了了？差点给我吓死了 我以为号没了，&lt;/p&gt;
+&lt;p&gt;闹麻了，不会是自己在用mythos模型在做见不得人的事吧 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/rofl.png?v=15&quot; title=&quot;:rofl:&quot; class=&quot;emoji&quot; alt=&quot;:rofl:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/3/5/33592613ff482b24e7fd226a22ec395f7a0f3bb7.jpeg&quot; data-download-href=&quot;/uploads/short-url/7kflMmZ0JTLRMOXUuTDdKwW4Lz1.jpeg?dl=1&quot; title=&quot;e20fbfe06f3dd78852b89e7cc9abc21e&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/3/5/33592613ff482b24e7fd226a22ec395f7a0f3bb7_2_690x292.jpeg&quot; alt=&quot;e20fbfe06f3dd78852b89e7cc9abc21e&quot; data-base62-sha1=&quot;7kflMmZ0JTLRMOXUuTDdKwW4Lz1&quot; width=&quot;690&quot; height=&quot;292&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/3/5/33592613ff482b24e7fd226a22ec395f7a0f3bb7_2_690x292.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/3/5/33592613ff482b24e7fd226a22ec395f7a0f3bb7_2_1035x438.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/3/5/33592613ff482b24e7fd226a22ec395f7a0f3bb7_2_1380x584.jpeg 2x&quot; data-dominant-color=&quot;D6D1CB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/2/2/a22739e6c4ebcd706d2c5f18d29bf428f65a96bc.jpeg&quot; data-download-href=&quot;/uploads/short-url/n8toiveGyYXcvThMhbxLDssDd12.jpeg?dl=1&quot; title=&quot;44d5253b452de64549298fb10be88364&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/2/2/a22739e6c4ebcd706d2c5f18d29bf428f65a96bc_2_396x500.jpeg&quot; alt=&quot;44d5253b452de64549298fb10be88364&quot; data-base62-sha1=&quot;n8toiveGyYXcvThMhbxLDssDd12&quot; width=&quot;396&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/2/2/a22739e6c4ebcd706d2c5f18d29bf428f65a96bc_2_396x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/2/2/a22739e6c4ebcd706d2c5f18d29bf428f65a96bc_2_594x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/2/2/a22739e6c4ebcd706d2c5f18d29bf428f65a96bc_2_792x1000.jpeg 2x&quot; data-dominant-color=&quot;EFF1F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/2/2/a22739e6c4ebcd706d2c5f18d29bf428f65a96bc.jpeg&quot; data-download-href=&quot;/uploads/short-url/n8toiveGyYXcvThMhbxLDssDd12.jpeg?dl=1&quot; title=&quot;44d5253b452de64549298fb10be88364&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/2/2/a22739e6c4ebcd706d2c5f18d29bf428f65a96bc_2_396x500.jpeg&quot; alt=&quot;44d5253b452de64549298fb10be88364&quot; data-base62-sha1=&quot;n8toiveGyYXcvThMhbxLDssDd12&quot; width=&quot;396&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/2/2/a22739e6c4ebcd706d2c5f18d29bf428f65a96bc_2_396x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/2/2/a22739e6c4ebcd706d2c5f18d29bf428f65a96bc_2_594x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/2/2/a22739e6c4ebcd706d2c5f18d29bf428f65a96bc_2_792x1000.jpeg 2x&quot; data-dominant-color=&quot;EFF1F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2391362&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>核钟首次滴答作响 | 钍-229</title>
+      <link>https://linux.do/t/topic/2391183</link>
+      <guid>linux.do-topic-2391183</guid>
+      <pubDate>Sat, 13 Jun 2026 01:42:55 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://phys.org/news/2026-06-nuclear-clocks.html&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/6/6/26698c842de15141bf49251a740bd4fdda6b492a.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;415C86&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://phys.org/news/2026-06-nuclear-clocks.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;01:00PM - 12 June 2026&quot;&gt;Phys.org – 12 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/287;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/5/8/05896d2fdbeb4265244d6c185a97c044aa3a4570_2_690x287.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;EBE8EB&quot; width=&quot;690&quot; height=&quot;287&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://phys.org/news/2026-06-nuclear-clocks.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Nuclear clocks tick for the first time&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Two independent research teams have achieved a longstanding goal in physics: building a working nuclear clock. The devices, developed by Beichen Huang and colleagues at Tsinghua University and by Luca Toscani De Col and colleagues at the Vienna...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/5/6/456a9e35e1a778c548330fab2e9116627496350c.jpeg&quot; data-download-href=&quot;/uploads/short-url/9U5n9HSWrhlP5eyNcQRKwkPhlzm.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/5/6/456a9e35e1a778c548330fab2e9116627496350c.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9U5n9HSWrhlP5eyNcQRKwkPhlzm&quot; width=&quot;690&quot; height=&quot;287&quot; data-dominant-color=&quot;EAE8EA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;两个独立的研究小组实现了物理学界的一个长期目标：制造出一个工作的核钟。这些装置由清华大学的黄北辰及其同事和奥地利维也纳量子科学与技术中心的卢卡-托斯卡尼-德-科尔及其同事研制，利用钍-229 原子的原子核来计时，其精度非同一般–甚至有可能超过当今最好的原子钟。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/c/4/0c4ab8430d7de4c79f5e584bcb9411a19f6ff7f1.jpeg&quot; data-download-href=&quot;/uploads/short-url/1KJOAMF1JV38828mjHLbRigE46J.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/c/4/0c4ab8430d7de4c79f5e584bcb9411a19f6ff7f1.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;1KJOAMF1JV38828mjHLbRigE46J&quot; width=&quot;690&quot; height=&quot;413&quot; data-dominant-color=&quot;EEEAEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://arxiv.org/abs/2606.08870&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/7/3/7737f9c766957e34da6871902e1e7a9d2aca40f3.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;B36362&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://arxiv.org/abs/2606.08870&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;arXiv.org&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/402;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/d/4/cd49b65780faf86c14ed9761c9c522acfb73adde_2_500x500.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;865F5C&quot; width=&quot;500&quot; height=&quot;500&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://arxiv.org/abs/2606.08870&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;A nuclear clock based on $^{229}$Th&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Atomic clocks have made time and frequency the most precisely measured quantities in physics, progressing from microwave standards that realize the SI second to optical clocks that now reach unprecedented levels of precision. A nuclear clock would...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://arxiv.org/abs/2606.04997&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/7/3/7737f9c766957e34da6871902e1e7a9d2aca40f3.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;B36362&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://arxiv.org/abs/2606.04997&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;arXiv.org&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/402;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/d/4/cd49b65780faf86c14ed9761c9c522acfb73adde_2_500x500.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;865F5C&quot; width=&quot;500&quot; height=&quot;500&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://arxiv.org/abs/2606.04997&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;A thorium-229 optical nuclear clock with feedback loop&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;The laser-accessible nuclear transition in the thorium-229 isotope has been identified as a promising candidate for the realization of an optical nuclear clock. Such a nuclear clock might rival or outperform current optical clocks based on...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2391183&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>一种基于 k-mer 的全基因组关联分析方法，助力多倍体中的基因挖掘</title>
+      <link>https://linux.do/t/topic/2391162</link>
+      <guid>linux.do-topic-2391162</guid>
+      <pubDate>Sat, 13 Jun 2026 01:38:42 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41588-026-02641-8&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/s41588-026-02641-8&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract]+&lt;/p&gt;
+&lt;p&gt;基因型判定的不确定性和等位基因剂量的复杂性，制约了复杂多倍体物种的全基因组关联研究。为此，我们开发了 KMERIA——一个基于 k-mer 的分析框架，旨在专门应对上述挑战，从而在复杂多倍体基因组中实现高效的基因型判定与稳健的关联定位。通过对模拟数据和实证数据集进行的严格基准测试表明，KMERIA 在准确性和统计效能方面均优于现有方法。我们将 KMERIA 应用于 290 份野生甘蔗（&lt;em&gt;Saccharum spontaneum&lt;/em&gt;）种质资源，并整合了包含 15 份种质的图泛基因组（graph pangenome）以捕捉结构变异，进而鉴定出调控蔗糖生物合成（如 &lt;em&gt;SsMGT&lt;/em&gt;）及分蘖（如 &lt;em&gt;SsERF14&lt;/em&gt;、&lt;em&gt;SsNGA5&lt;/em&gt;、&lt;em&gt;SsNAC&lt;/em&gt;、&lt;em&gt;SsARF8&lt;/em&gt;、&lt;em&gt;SsLOG&lt;/em&gt; 和 &lt;em&gt;SsSCR&lt;/em&gt;）的新基因。这些发现阐明了产量相关性状的遗传结构，并为甘蔗育种提供了可行的靶点。总体而言，KMERIA 填补了多倍体基因组学领域关键的方法学空白，而我们对图泛基因组的整合应用，则为解析具有复杂基因组结构的作物中基因型与表型之间的关系提供了一个强有力的框架。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;GWAS 可以利用源自全基因组测序数据的 k-mer 作为遗传标记。与传统标记不同，k-mer 能够捕捉单核苷酸多态性（SNP）、插入/缺失（indel）及结构变异（SV），从而实现不依赖参考基因组的全面遗传分析，并减少比对偏差。该方法通过揭示传统方法所忽略的遗传因素，有望解决“遗传力缺失”问题。尽管基于 k-mer 的 GWAS 在二倍体生物中展现出巨大潜力，但在多倍体生物中的应用却受到限制，因为现有的分析方法未能充分考虑等位基因剂量效应。在此背景下，群体间 k-mer 拷贝数的变异为评估等位基因剂量提供了一种可靠途径，这使得基于 k-mer 的 GWAS 在多倍体研究中具有显著优势。&lt;/p&gt;
+&lt;p&gt;KMERIA 通过以下五个整合步骤克服了上述局限性（图 1）：(1) “计数”（counting）：将重测序数据转化为全基因组 k-mer 图谱；(2) “矩阵构建”（matrix construction）：构建保留剂量信息的群体级 k-mer 基因型矩阵；(3) “矩阵修剪”（matrix pruning）：应用丰度阈值过滤、重复序列屏蔽及考虑倍性的归一化处理，生成高置信度的剂量矩阵；(4) “k-mer 检测”（k-mer testing）：利用纳入群体结构和亲缘关系的线性混合模型（LMM）识别剂量依赖性关联；以及 (5) “GWAS 后分析”（post-GWAS）：实施双重校正（Benjamini–Hochberg 错误发现率 [FDR] 和改进的 Bonferroni 校正），并将显著关联的 k-mer 比对至基于图结构的泛基因组，从而在易发生重排的基因组中实现精确的位点定位。这种具备结构感知能力的映射方法，有助于在易发生重排的多倍体基因组中精确锁定致因元件，进而促进单倍型解析的基因网络与顺式调控图谱分析的整合，以解析复杂性状的遗传基础。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/4/6/3463e61d66db950dd7321d32b4cdbb843439e2ae.jpeg&quot; data-download-href=&quot;/uploads/short-url/7tsRn4dYsdMeX1jvAXRmpTbQ94y.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/4/6/3463e61d66db950dd7321d32b4cdbb843439e2ae_2_690x381.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;7tsRn4dYsdMeX1jvAXRmpTbQ94y&quot; width=&quot;690&quot; height=&quot;381&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/4/6/3463e61d66db950dd7321d32b4cdbb843439e2ae_2_690x381.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/4/6/3463e61d66db950dd7321d32b4cdbb843439e2ae_2_1035x571.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/4/6/3463e61d66db950dd7321d32b4cdbb843439e2ae_2_1380x762.jpeg 2x&quot; data-dominant-color=&quot;DFE5DF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/7/6/1769e4518bfb9bbe89e1e0d4e5dedd6db25b5822.jpeg&quot; data-download-href=&quot;/uploads/short-url/3l7QXaTyDSk6UGcff0iWmFNFI5k.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/7/6/1769e4518bfb9bbe89e1e0d4e5dedd6db25b5822_2_584x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;3l7QXaTyDSk6UGcff0iWmFNFI5k&quot; width=&quot;584&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/7/6/1769e4518bfb9bbe89e1e0d4e5dedd6db25b5822_2_584x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/7/6/1769e4518bfb9bbe89e1e0d4e5dedd6db25b5822_2_876x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/7/6/1769e4518bfb9bbe89e1e0d4e5dedd6db25b5822_2_1168x1000.jpeg 2x&quot; data-dominant-color=&quot;EFEFEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2391162&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>claude重置了</title>
+      <link>https://linux.do/t/topic/2391132</link>
+      <guid>linux.do-topic-2391132</guid>
+      <pubDate>Sat, 13 Jun 2026 01:34:35 GMT</pubDate>
+      <description>
+            &lt;p&gt;和预测的一样，果然重置了&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/f/9/7f909d31913e2d46e8998ab3688370ad55243487.png&quot; data-download-href=&quot;/uploads/short-url/icutjNN31Bp2d0ziXTu66FZMAhF.png?dl=1&quot; title=&quot;截屏2026-06-13 上午9.34.28&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/f/9/7f909d31913e2d46e8998ab3688370ad55243487.png&quot; alt=&quot;截屏2026-06-13 上午9.34.28&quot; data-base62-sha1=&quot;icutjNN31Bp2d0ziXTu66FZMAhF&quot; width=&quot;311&quot; height=&quot;330&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2391132&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Meta 员工绝对讨厌 扎克伯格的全公司 AI 黑客松</title>
+      <link>https://linux.do/t/topic/2391090</link>
+      <guid>linux.do-topic-2391090</guid>
+      <pubDate>Sat, 13 Jun 2026 01:27:07 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/c/6/ac6eb14864131938b948682966a3c3d935725e14.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;56CE82&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;11:00PM - 12 June 2026&quot;&gt;TechCrunch – 12 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/b/c/7bc107755cb241680675de3cf2e2404129bc9376_2_690x460.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;9FA3A7&quot; width=&quot;690&quot; height=&quot;460&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Meta&#39;s months-old AI unit is a soul-crushing gulag, say the engineers stuck...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 3 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;现在，《连线》（Wired）杂志的一篇新报道指出，该公司的应用人工智能团队正处于造反的边缘。&lt;/p&gt;
+&lt;p&gt;本周，有人劫持了一场员工专享的直播演讲，要求与会者告诉一位 Meta AI 高级主管，他是 “一坨屎”。据报道，一位演讲者用手捂住了自己的脸。&lt;/p&gt;
+&lt;p&gt;据《连线》报道，这一爆发反映了这个成立仅三个月、由大约 6500 名工程师和产品经理组成的部门内部酝酿已久的愤怒，他们的任务是支持公司的人工智能研究雄心。&lt;/p&gt;
+&lt;p&gt;据员工描述，他们是被迫加入该组织的，没有真正的选择：要么加入，要么退出。许多人称自己为 “被征召者”。他们的工作是什么？生成谜题和编码问题，以训练人工智能模型。&quot;一位员工告诉《连线》：&quot;这简直就是古拉格集中营。&quot;另一位员工说：&quot;大多数人都觉得这项工作让人精神崩溃。&lt;/p&gt;
+&lt;p&gt;《商业内幕》（Business Insider）上个月的一篇报道揭示了许多员工是如何得知自己将被调入该小组的–通过一封突如其来的电子邮件，一位自称被征召入伍的员工后来在 Reddit 上形容这一过程 “相当随机”。根据《商业内幕》（Business Insider）查阅的一份 4 月份的内部公告，Meta 的人工智能模型仍然缺乏在编码等技术任务方面胜过人类的知识。&quot;该公告称：&quot;为了让代理了解人们究竟是如何利用计算机完成日常任务的，我们需要在真实的例子中训练我们的模型。&lt;/p&gt;
+&lt;p&gt;在同月一次内部会议泄露的录音中，Meta 首席执行官马克-扎克伯格（Mark Zuckerberg）解释了聘用 Meta 自己的工程师而不是外部承包商的逻辑：亚历山大-王（Alexandr Wang）以 143 亿美元的价格将自己的数据标签初创公司 Scale AI 卖给了 Meta，然后担任首席人工智能官并领导 Meta 超级智能实验室（Meta Superintelligence Labs）。因此，最好还是招募他们。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/e/c/5ecffcb9fcde5c4438fc9403159b15cf174f70f0.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;222222&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;11:45PM - 12 June 2026&quot;&gt;WIRED – 12 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/4/274d7dfc76fec582ec391fd24ad29953311ef6f0_2_690x361.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;9A9696&quot; width=&quot;690&quot; height=&quot;361&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;在《WIRED》看到的内部信息中，一些员工写道，在这家科技巨头最近大规模裁员之后，他们的责任加重，几乎没有时间参加此类辅助活动。还有一些人说，由于他们认为整个公司士气低落，对管理层的信任度下降，所以他们觉得不愿意参加这些活动。&lt;/p&gt;
+&lt;p&gt;&quot;一位员工周五写道：&quot;我一心只想着让我的团队灯火通明。&quot;我没有参与的动力，更没有时间参与。&lt;/p&gt;
+&lt;p&gt;扎克伯格在发给 Meta 大约 7 万名员工的一篇文章中，将这次黑客马拉松活动描述为在内部动荡不安的情况下，让员工建立友情的一种方式。Meta公司产品管理副总裁伊梅-阿奇邦（Ime Archibong）随后分享了活动的更多细节，他说活动将于7月14日至7月16日举行，重点是 “人工智能创新”。&lt;/p&gt;
+&lt;p&gt;Archibong 的帖子迅速引起了一些员工的反感，他们用愤怒的留言和讽刺的备忘录进行了回应。一位员工在评论中写道：&quot;我不确定这家公司是否支持黑客马拉松文化了，&quot;他的评论引来了 200 多条竖起大拇指和爱心的回应。“人们被要求用更少的支持来完成更多的工作，而他们的同事却被裁员，同时还要努力避免因不谨慎使用人工智能而造成 SEV1（严重技术错误）的风险。”&lt;/p&gt;
+&lt;p&gt;该员工还声称，黑客马拉松活动不计入绩效考核，这让员工对放弃其他项目参加黑客马拉松活动的前景感到沮丧。&lt;/p&gt;
+&lt;p&gt;数十人还对受喜剧电影《我们是千禧一代》启发而创作的备忘录作出了大笑和竖起大拇指的反应，他们说：&quot;你们都有时间参加黑客马拉松吗？&lt;/p&gt;
+&lt;p&gt;&quot;另一名员工写道：&quot;老实说，我没有时间专注于这件事，而我应该百分之百地投入到正常工作中。&quot;我参加过以前的黑客马拉松，但感觉这不再是我在公司一隅与 pod 冲刺并存的选项。&lt;/p&gt;
+&lt;p&gt;第三位工作人员指出，他们所描述的 “文化变化令人失望”，因为 “我不认为有足够的安全感来花时间进行黑客马拉松创新”。&lt;/p&gt;
+&lt;p&gt;Meta 长期以来一直举办内部黑客马拉松，但两位消息人士告诉《WIRED》，这是自上个月裁员 8000 人以来首次在全公司范围内举办黑客马拉松。Meta 公司的一位软件工程资深专家在回应一些员工的抱怨时说，公司鼓励每个人都参与进来。但这一信息仍未完全落地。&quot;我所知道的每个组织都有超级激进的目标，期望提高效率，大幅减少人手，&quot;一位员工回道。“专注于其他轴心的时间更少了”。&lt;/p&gt;
+&lt;p&gt;黑客马拉松是扎克伯格周五提出的几项举措之一，目的是重振员工队伍，解决内部对近期裁员的批评和其他问题。他表示，将增加团队外出活动的预算，并在一些办公室取消办公桌轮用的概念，即只有部分时间在办公室的员工必须共用办公桌。&lt;/p&gt;
+&lt;p&gt;去年，一些工人联合起来对同事们进行了调查，了解他们的办公桌被移走的情况，以及他们认为由此造成的混乱和生产力损失。该组织敦促管理层恢复每位员工拥有自己的空间。裁员似乎开辟了空间，但留给黑客的时间却减少了。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2391090&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI被联合调查</title>
+      <link>https://linux.do/t/topic/2391071</link>
+      <guid>linux.do-topic-2391071</guid>
+      <pubDate>Sat, 13 Jun 2026 01:23:25 GMT</pubDate>
+      <description>
+            &lt;p&gt;据CCTV国际时讯，美国《华尔街日报》当地时间6月12日援引知情人士消息报道称，美国多个州的总检察长已对美国开放人工智能研究中心（OpenAI）展开联合调查。&lt;/p&gt;
+&lt;p&gt;报道称，这家人工智能公司于当天收到传票，要求提供与其多项业务活动及其对用户影响相关的文件。&lt;/p&gt;
+&lt;p&gt;OpenAI目前已面临多起诉讼，涉及其聊天机器人ChatGPT的设计问题导致用户自杀或对用户造成不良影响。&lt;/p&gt;
+&lt;p&gt;部分起诉书中指出，ChatGPT的设计“优先考虑用户参与度而非安全性”。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2391071&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Fable5 已全面暂停使用</title>
+      <link>https://linux.do/t/topic/2391001</link>
+      <guid>linux.do-topic-2391001</guid>
+      <pubDate>Sat, 13 Jun 2026 01:05:46 GMT</pubDate>
+      <description>
+            &lt;p&gt;省流：美国政府发布出口管制指令， Anthropic 为了合规要求直接下架了 Fable 5 和 Mythos 5 两款模型，所有客户都无法使用&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/2/d/72dc4b208ab242b0cbdc4d0391cfecb190fda1fa.jpeg&quot; data-download-href=&quot;/uploads/short-url/go6pj8pp2HqisHhrgYWJRGRJmdk.jpeg?dl=1&quot; title=&quot;IMG_2630&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/2/d/72dc4b208ab242b0cbdc4d0391cfecb190fda1fa_2_689x371.jpeg&quot; alt=&quot;IMG_2630&quot; data-base62-sha1=&quot;go6pj8pp2HqisHhrgYWJRGRJmdk&quot; width=&quot;689&quot; height=&quot;371&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/2/d/72dc4b208ab242b0cbdc4d0391cfecb190fda1fa_2_689x371.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/2/d/72dc4b208ab242b0cbdc4d0391cfecb190fda1fa_2_1033x556.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/7/2/d/72dc4b208ab242b0cbdc4d0391cfecb190fda1fa.jpeg 2x&quot; data-dominant-color=&quot;F2DFC3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/7/7/a770fe5db1976334926142d233c6f82010584570.jpeg&quot; data-download-href=&quot;/uploads/short-url/nTfPalIKZ4grOPjgZwl1MTlDcHu.jpeg?dl=1&quot; title=&quot;IMG_2624&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/7/7/a770fe5db1976334926142d233c6f82010584570_2_540x500.jpeg&quot; alt=&quot;IMG_2624&quot; data-base62-sha1=&quot;nTfPalIKZ4grOPjgZwl1MTlDcHu&quot; width=&quot;540&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/7/7/a770fe5db1976334926142d233c6f82010584570_2_540x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/7/7/a770fe5db1976334926142d233c6f82010584570_2_810x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/7/7/a770fe5db1976334926142d233c6f82010584570_2_1080x1000.jpeg 2x&quot; data-dominant-color=&quot;EAEBEB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/3/3/a33a32465663fa59a5d38cf3135668f26e8b8dc2.jpeg&quot; data-download-href=&quot;/uploads/short-url/nhYvNs0s55NL16s4B015YKtkFSq.jpeg?dl=1&quot; title=&quot;IMG_2633&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/3/3/a33a32465663fa59a5d38cf3135668f26e8b8dc2_2_365x500.jpeg&quot; alt=&quot;IMG_2633&quot; data-base62-sha1=&quot;nhYvNs0s55NL16s4B015YKtkFSq&quot; width=&quot;365&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/3/3/a33a32465663fa59a5d38cf3135668f26e8b8dc2_2_365x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/3/3/a33a32465663fa59a5d38cf3135668f26e8b8dc2_2_547x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/3/3/a33a32465663fa59a5d38cf3135668f26e8b8dc2_2_730x1000.jpeg 2x&quot; data-dominant-color=&quot;EDEBEB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/c/5/9c57af387a82a987e0cfbc92da062820904108e6.jpeg&quot; data-download-href=&quot;/uploads/short-url/mj4lBw4uW0SB8e2KpCrRuN29O5M.jpeg?dl=1&quot; title=&quot;Picsew_20260613090726&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/c/5/9c57af387a82a987e0cfbc92da062820904108e6_2_205x500.jpeg&quot; alt=&quot;Picsew_20260613090726&quot; data-base62-sha1=&quot;mj4lBw4uW0SB8e2KpCrRuN29O5M&quot; width=&quot;205&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/c/5/9c57af387a82a987e0cfbc92da062820904108e6_2_205x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/c/5/9c57af387a82a987e0cfbc92da062820904108e6_2_307x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/c/5/9c57af387a82a987e0cfbc92da062820904108e6_2_410x1000.jpeg 2x&quot; data-dominant-color=&quot;EBECE9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;好嘛，大周末的竟然拉闸了。&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://www.anthropic.com/news/fable-mythos-access&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.anthropic.com/news/fable-mythos-access&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;81 个帖子 - 64 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2391001&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>美国政府要求暂停任何外国国民访问Fable-5和Mythos-5 模型（A\将禁止所有用户访问）</title>
+      <link>https://linux.do/t/topic/2390999</link>
+      <guid>linux.do-topic-2390999</guid>
+      <pubDate>Sat, 13 Jun 2026 01:05:06 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/a/0/8a0ab65390a7f8659a5f1ebb9a410f7a10efc95f.png&quot; data-download-href=&quot;/uploads/short-url/jHaQbCdf9JqM8sYHe1JsAZ7GydN.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/a/0/8a0ab65390a7f8659a5f1ebb9a410f7a10efc95f_2_363x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;jHaQbCdf9JqM8sYHe1JsAZ7GydN&quot; width=&quot;363&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/a/0/8a0ab65390a7f8659a5f1ebb9a410f7a10efc95f_2_363x500.png, https://cdn3.ldstatic.com/optimized/4X/8/a/0/8a0ab65390a7f8659a5f1ebb9a410f7a10efc95f_2_544x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/a/0/8a0ab65390a7f8659a5f1ebb9a410f7a10efc95f_2_726x1000.png 2x&quot; data-dominant-color=&quot;AAABAA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/fable-mythos-access&quot; rel=&quot;noopener nofollow ugc&quot;&gt; &lt;strong&gt;Statement on the US government directive to suspend access to Fable 5 and Mythos 5&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;那包不包括美国战争部的人呢 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/face_with_raised_eyebrow.png?v=15&quot; title=&quot;:face_with_raised_eyebrow:&quot; class=&quot;emoji&quot; alt=&quot;:face_with_raised_eyebrow:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+&lt;p&gt;已提示暂停访问&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/2/4/d24a232fbe78951bd61ab77ff91091b11b4d8815.png&quot; data-download-href=&quot;/uploads/short-url/u0j6FooidEwZClftr52cjQWwSqh.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/2/4/d24a232fbe78951bd61ab77ff91091b11b4d8815.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;u0j6FooidEwZClftr52cjQWwSqh&quot; width=&quot;690&quot; height=&quot;100&quot; data-dominant-color=&quot;15140F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;37 个帖子 - 32 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2390999&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>A\暂停了国外对肥波的访问</title>
+      <link>https://linux.do/t/topic/2390993</link>
+      <guid>linux.do-topic-2390993</guid>
+      <pubDate>Sat, 13 Jun 2026 01:02:38 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/5/d/05db258368984aea5b8d8057a05efd5353e92bee.jpeg&quot; data-download-href=&quot;/uploads/short-url/PNUd7WOvo9oUtsb6oWzpOzjTZQ.jpeg?dl=1&quot; title=&quot;IMG_4228&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/5/d/05db258368984aea5b8d8057a05efd5353e92bee_2_231x500.jpeg&quot; alt=&quot;IMG_4228&quot; data-base62-sha1=&quot;PNUd7WOvo9oUtsb6oWzpOzjTZQ&quot; width=&quot;231&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/5/d/05db258368984aea5b8d8057a05efd5353e92bee_2_231x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/5/d/05db258368984aea5b8d8057a05efd5353e92bee_2_346x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/5/d/05db258368984aea5b8d8057a05efd5353e92bee_2_462x1000.jpeg 2x&quot; data-dominant-color=&quot;DBDBD7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+又是威胁国家安全老一套说辞，any 大人的肥波还能用吗&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2390993&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>fable 暂停访问了！</title>
+      <link>https://linux.do/t/topic/2390975</link>
+      <guid>linux.do-topic-2390975</guid>
+      <pubDate>Sat, 13 Jun 2026 00:57:09 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/0/6/90625907ac9475ca469ee6f2f941b8339f79dbf2.png&quot; data-download-href=&quot;/uploads/short-url/kBhsOZgUHV4s9gn3JxC6x7q6F22.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/9/0/6/90625907ac9475ca469ee6f2f941b8339f79dbf2.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;kBhsOZgUHV4s9gn3JxC6x7q6F22&quot; width=&quot;649&quot; height=&quot;445&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/c/e/aceb9f96ff06ded74c8641c9ee715790df575903.png&quot; data-download-href=&quot;/uploads/short-url/oFIWDlfZJucoezkozKPcmnNJ56P.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/c/e/aceb9f96ff06ded74c8641c9ee715790df575903.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;oFIWDlfZJucoezkozKPcmnNJ56P&quot; width=&quot;633&quot; height=&quot;325&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+大概意思是特朗普认为fable被越狱了，影响国家安全？claude不认可，但是不得不遵守命令暂停访问。&lt;br&gt;
+看图&lt;br&gt;
+fable 确实顶流，gpt 5.5解决不了的fable能解决。&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;29 个帖子 - 23 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2390975&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>吼吼吼，这都有肥马淦啊，跨脏哦，Cluade Fable不给用了</title>
+      <link>https://linux.do/t/topic/2390967</link>
+      <guid>linux.do-topic-2390967</guid>
+      <pubDate>Sat, 13 Jun 2026 00:53:21 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.anthropic.com/news/fable-mythos-access&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/5/1/751dae2f5c792397d52fcf9ea71f2ca10539a91e.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;CBCBC8&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.anthropic.com/news/fable-mythos-access&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;anthropic.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/0/1/50159fff55088f12070cc8a56eb51ff61006b631_2_690x362.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;2C2C2B&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.anthropic.com/news/fable-mythos-access&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Statement on the US government directive to suspend access to Fable 5 and...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/4/e/94e08296dc93c5ed318307a828f4f66cf3997bb8.png&quot; data-download-href=&quot;/uploads/short-url/lf1FVNYhCNADu1BDjduk8JfOVxm.png?dl=1&quot; title=&quot;截屏2026-06-13 上午8.53.13&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/4/e/94e08296dc93c5ed318307a828f4f66cf3997bb8_2_689x473.png&quot; alt=&quot;截屏2026-06-13 上午8.53.13&quot; data-base62-sha1=&quot;lf1FVNYhCNADu1BDjduk8JfOVxm&quot; width=&quot;689&quot; height=&quot;473&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/4/e/94e08296dc93c5ed318307a828f4f66cf3997bb8_2_689x473.png, https://cdn3.ldstatic.com/optimized/4X/9/4/e/94e08296dc93c5ed318307a828f4f66cf3997bb8_2_1033x709.png 1.5x, https://cdn3.ldstatic.com/original/4X/9/4/e/94e08296dc93c5ed318307a828f4f66cf3997bb8.png 2x&quot; data-dominant-color=&quot;EFEAD9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;旧的oauth端点都烂掉了 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/upside_down_face.png?v=15&quot; title=&quot;:upside_down_face:&quot; class=&quot;emoji&quot; alt=&quot;:upside_down_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;已坠机&lt;/strong&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;26 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2390967&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>首张ai信用卡，kimi开始出信用卡了</title>
       <link>https://linux.do/t/topic/2390773</link>
@@ -13,7 +469,7 @@
       <description>
             &lt;p&gt;还没说跟哪家合作，四大行那么保守应该不会合作，推测卡种应该是美国运通。会不会刷卡积分自动换tokens，kimi还是有营销人才的。好像已经开始预约了&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/1/8/518c84537d23f25a4562a0de2ba685d7f02f18c2.jpeg&quot; data-download-href=&quot;/uploads/short-url/bDpJkDd7thlEyC0JMsbEM57tHWy.jpeg?dl=1&quot; title=&quot;IMG_9450&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/1/8/518c84537d23f25a4562a0de2ba685d7f02f18c2_2_374x500.jpeg&quot; alt=&quot;IMG_9450&quot; data-base62-sha1=&quot;bDpJkDd7thlEyC0JMsbEM57tHWy&quot; width=&quot;374&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/1/8/518c84537d23f25a4562a0de2ba685d7f02f18c2_2_374x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/1/8/518c84537d23f25a4562a0de2ba685d7f02f18c2_2_561x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/1/8/518c84537d23f25a4562a0de2ba685d7f02f18c2_2_748x1000.jpeg 2x&quot; data-dominant-color=&quot;ABADB2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;24 个帖子 - 24 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2390773&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -26,7 +482,7 @@
             &lt;p&gt;如题&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/c/d/acd1dccdf442729811feb8e825ae1adbdab7853e.png&quot; data-download-href=&quot;/uploads/short-url/oEPKHDw0u9dZFfbHR1dEDPaPfDE.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/c/d/acd1dccdf442729811feb8e825ae1adbdab7853e.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;oEPKHDw0u9dZFfbHR1dEDPaPfDE&quot; width=&quot;611&quot; height=&quot;246&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/c/c/ecc46899c1bc3cddb4a97bf44044a975142aa054.png&quot; data-download-href=&quot;/uploads/short-url/xMxua7acG1iAc43hg9fmk3y0gdK.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/c/c/ecc46899c1bc3cddb4a97bf44044a975142aa054.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xMxua7acG1iAc43hg9fmk3y0gdK&quot; width=&quot;690&quot; height=&quot;359&quot; data-dominant-color=&quot;FCFBFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2390680&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -65,7 +521,7 @@ rt 应该是合作不继续了&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;如果您不确定当前有哪些资源正在运行，或者想了解在标准付费方案下可能产生的费用，欢迎随时联系我们。我们很乐意帮助您进行评估和规划。&lt;/p&gt;
 &lt;p&gt;感谢您一直以来使用 DigitalOcean 构建和开发项目。能够参与您的学习与创新之旅，我们深感荣幸，也希望未来能继续陪伴您成长。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;DigitalOcean 团队&lt;/strong&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;24 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;25 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2390286&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -221,7 +677,7 @@ rt 应该是合作不继续了&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;补一下我的看法：&lt;/p&gt;
 &lt;p&gt;跟主流各种 T 级的模型肯定没法比，但是只有428 B能看到的效果还是非常可观的。&lt;/p&gt;
 &lt;p&gt;拿这种小模型去和巨量参数型的比是不理智的行为，面向适用场景也不一样。Minimax 做自动化还是非常不错的，开发确实不行。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;43 个帖子 - 36 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;47 个帖子 - 40 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389587&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -321,429 +777,6 @@ rt 应该是合作不继续了&lt;p&gt;&lt;/p&gt;
 
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389562&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>(已修复)2026.6.12 Cloudflare再次“爆炸”，目前受影响业务为用户仪表盘和相关api</title>
-      <link>https://linux.do/t/topic/2389533</link>
-      <guid>linux.do-topic-2389533</guid>
-      <pubDate>Fri, 12 Jun 2026 14:38:57 GMT</pubDate>
-      <description>
-            &lt;p&gt;我正折腾我那域名呢，cf面板开始报错，我怀疑我网5分钟才发现是cf炸了。如图&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/b/8/cb83b1a380ae6bbc0547662b007f9559a7b90d0f.png&quot; data-download-href=&quot;/uploads/short-url/t2n4V9bNZOmuZdO2bYxsc3WvW3B.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/b/8/cb83b1a380ae6bbc0547662b007f9559a7b90d0f_2_690x296.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;t2n4V9bNZOmuZdO2bYxsc3WvW3B&quot; width=&quot;690&quot; height=&quot;296&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/b/8/cb83b1a380ae6bbc0547662b007f9559a7b90d0f_2_690x296.png, https://cdn3.ldstatic.com/optimized/4X/c/b/8/cb83b1a380ae6bbc0547662b007f9559a7b90d0f_2_1035x444.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/b/8/cb83b1a380ae6bbc0547662b007f9559a7b90d0f.png 2x&quot; data-dominant-color=&quot;F5F5EF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/f/5/9f5b7c7b6b8768acef35f83590203a75ae32c847.png&quot; data-download-href=&quot;/uploads/short-url/mJJVqkKBfMjywxjoAxsBVWo71Px.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/f/5/9f5b7c7b6b8768acef35f83590203a75ae32c847_2_690x362.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;mJJVqkKBfMjywxjoAxsBVWo71Px&quot; width=&quot;690&quot; height=&quot;362&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/f/5/9f5b7c7b6b8768acef35f83590203a75ae32c847_2_690x362.png, https://cdn3.ldstatic.com/optimized/4X/9/f/5/9f5b7c7b6b8768acef35f83590203a75ae32c847_2_1035x543.png 1.5x, https://cdn3.ldstatic.com/original/4X/9/f/5/9f5b7c7b6b8768acef35f83590203a75ae32c847.png 2x&quot; data-dominant-color=&quot;F5F5F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389533&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>gpt开杀了？</title>
-      <link>https://linux.do/t/topic/2389478</link>
-      <guid>linux.do-topic-2389478</guid>
-      <pubDate>Fri, 12 Jun 2026 14:30:19 GMT</pubDate>
-      <description>
-            &lt;p&gt;同时一瞬间，所有outlook号全G了。。。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389478&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Antigravity CLI 和 APP 额度看起来是独立的</title>
-      <link>https://linux.do/t/topic/2389434</link>
-      <guid>linux.do-topic-2389434</guid>
-      <pubDate>Fri, 12 Jun 2026 14:21:58 GMT</pubDate>
-      <description>
-            &lt;p&gt;今天使用cli，Claude额度用没了，打开APP上看额度还是满的&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/e/7/0e7603079422e2e05c0fb23abc522eb9d0bcacf4.png&quot; data-download-href=&quot;/uploads/short-url/23Vwtol7sOlyCizF7uAEYQk1tjK.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/e/7/0e7603079422e2e05c0fb23abc522eb9d0bcacf4_2_299x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;23Vwtol7sOlyCizF7uAEYQk1tjK&quot; width=&quot;299&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/e/7/0e7603079422e2e05c0fb23abc522eb9d0bcacf4_2_299x500.png, https://cdn3.ldstatic.com/optimized/4X/0/e/7/0e7603079422e2e05c0fb23abc522eb9d0bcacf4_2_448x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/e/7/0e7603079422e2e05c0fb23abc522eb9d0bcacf4_2_598x1000.png 2x&quot; data-dominant-color=&quot;143D33&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/d/e/8de656ac27090a39c75d2b808315a1b796e5516e.png&quot; data-download-href=&quot;/uploads/short-url/kfiOVA6HyrTRRTt6yl4fh3ZobZc.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/8/d/e/8de656ac27090a39c75d2b808315a1b796e5516e.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;kfiOVA6HyrTRRTt6yl4fh3ZobZc&quot; width=&quot;690&quot; height=&quot;456&quot; data-dominant-color=&quot;1D1D1D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389434&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>MiniMax M3 开放权重 ~428B~A23B</title>
-      <link>https://linux.do/t/topic/2389370</link>
-      <guid>linux.do-topic-2389370</guid>
-      <pubDate>Fri, 12 Jun 2026 14:08:42 GMT</pubDate>
-      <description>
-            &lt;p&gt;MiniMax M3 权重已经上传至 Hugging Face，但是感觉参数量还是不大呀（&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://huggingface.co/MiniMaxAI/MiniMax-M3&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://huggingface.co/MiniMaxAI/MiniMax-M3&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;huggingface.co&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/372;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/4/c/84cebb2e336e035ba0e46e70ed6270fb83cf3a98_2_690x372.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;5A6FA4&quot; width=&quot;690&quot; height=&quot;372&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://huggingface.co/MiniMaxAI/MiniMax-M3&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;MiniMaxAI/MiniMax-M3 · Hugging Face&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;We’re on a journey to advance and democratize artificial intelligence through open source and open science.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;MiniMax-M3 是一款原生多模态模型，支持 1M 超长上下文。其总参数量约为 428B，激活参数量约为 23B。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;核心亮点：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;原生多模态 (Native Multimodality)：&lt;/strong&gt; M3 从训练伊始即采用混合模态训练，实现了文本、图像与视频之间更深度的语义融合。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;稀疏注意力驱动上下文扩展 (Context Scaling via Sparse Attention)：&lt;/strong&gt; M3 引入 MiniMax 稀疏注意力（MSA）机制以提升长文本处理效率。在 1M 上下文长度下，相比 M2，M3 的预填充（prefill）速度提升 9 倍，解码（decode）速度提升 15 倍，单 token 计算量降至 1/20。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;编程与协作能力 (Coding &amp; Cowork Capability)：&lt;/strong&gt; M3 在长程智能体（Agentic）基准测试中达到前沿水平，在编程与协同工作方面表现卓越。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;不过这次换用了更加社区友好的许可证，看起来比 M2.7 更加宽松一些，许可证原文如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;MINIMAX COMMUNITY LICENSE
-Copyright (c) 2026 MiniMax
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software for non-commercial purposes, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or provide copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-2. If the Software (or any derivative works thereof) is used for any Commercial Use for your products or services: 
-  1. you shall prominently display “Built with MiniMax M3” on a related website, user interface, blogpost, about page or product documentation. 
-  2. you shall obtain a separate, prior written authorization from MiniMax by contacting api@minimax.io with the subject line “M3 licensing - authorization request”, if such products and services generate more than 20 million US dollars (or equivalent in other currencies) in yearly revenue; otherwise, you only need to send a one-time notice to api@minimax.io with the subject “M3 licensing — notice”.
-3. “Commercial Use” means any use of the Software or any derivative work thereof that is primarily intended for commercial advantage or monetary compensation, which includes, without limitation: (i) offering products or services to third parties for a fee, which utilize, incorporate, or rely on the Software or its derivatives, (ii) the commercial use of APIs provided by or for the Software or its derivatives, including to support or enable commercial products, services, or operations, whether in a cloud-based, hosted, or other similar environment, and (iii) the deployment or provision of the Software or its derivatives that have been subjected to post-training, fine-tuning, instruction-tuning, or any other form of modification, for any commercial purpose.
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Appendix: Prohibited Uses 
-You agree you will not use, or allow others to use, the Software or any derivatives of the Software to:
-1. Generate or disseminate content prohibited by applicable laws or regulations.
-2. Assist with, engage in or otherwise support any military purpose.
-3. Exploit, harm, or attempt to exploit or harm minors.
-4. Generate or disseminate false or misleading information with the intent to cause harm.
-5. Promote discrimination, hate speech, or harmful behavior against individuals or groups based on race or ethnic origin, religion, disability, age, nationality and national origin, veteran status, sexual orientation, gender or gender identity, caste, immigration status, or any other characteristic that is associated with systemic discrimination or marginalization.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;下面是 Sonnet 4.6 对这份许可证的解读：&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/7/c/b7c62dec295d13503fcf0f30d357626eec3ddf96.png&quot; data-download-href=&quot;/uploads/short-url/qdJYpQv3XecS2c3aceuIVH7Cxoy.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/7/c/b7c62dec295d13503fcf0f30d357626eec3ddf96_2_468x499.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;qdJYpQv3XecS2c3aceuIVH7Cxoy&quot; width=&quot;468&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/7/c/b7c62dec295d13503fcf0f30d357626eec3ddf96_2_468x499.png, https://cdn3.ldstatic.com/optimized/4X/b/7/c/b7c62dec295d13503fcf0f30d357626eec3ddf96_2_702x748.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/7/c/b7c62dec295d13503fcf0f30d357626eec3ddf96_2_936x998.png 2x&quot; data-dominant-color=&quot;DEDEDD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/7/b/d7be2595aef38a25e62257c3654cd0fa3cf4f2a3.png&quot; data-download-href=&quot;/uploads/short-url/uMy2IrniRuzjw6VRLIToG1ULdJx.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/b/d7be2595aef38a25e62257c3654cd0fa3cf4f2a3_2_612x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;uMy2IrniRuzjw6VRLIToG1ULdJx&quot; width=&quot;612&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/b/d7be2595aef38a25e62257c3654cd0fa3cf4f2a3_2_612x500.png, https://cdn3.ldstatic.com/optimized/4X/d/7/b/d7be2595aef38a25e62257c3654cd0fa3cf4f2a3_2_918x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/7/b/d7be2595aef38a25e62257c3654cd0fa3cf4f2a3_2_1224x1000.png 2x&quot; data-dominant-color=&quot;E4E4E2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/9/f/59fe2b0982a423177024c2fef4ef322d84fa1a8e.png&quot; data-download-href=&quot;/uploads/short-url/cQ72WKHyReAUwRGpiS0unradsLA.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/9/f/59fe2b0982a423177024c2fef4ef322d84fa1a8e_2_492x499.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cQ72WKHyReAUwRGpiS0unradsLA&quot; width=&quot;492&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/9/f/59fe2b0982a423177024c2fef4ef322d84fa1a8e_2_492x499.png, https://cdn3.ldstatic.com/optimized/4X/5/9/f/59fe2b0982a423177024c2fef4ef322d84fa1a8e_2_738x748.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/9/f/59fe2b0982a423177024c2fef4ef322d84fa1a8e_2_984x998.png 2x&quot; data-dominant-color=&quot;E1E1DF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/4/6/54693dd561895efc6c080d253689a2dcae9e1b72.png&quot; data-download-href=&quot;/uploads/short-url/c2JAmow8LTee1vNUTOdXhHjHCng.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/4/6/54693dd561895efc6c080d253689a2dcae9e1b72_2_690x305.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;c2JAmow8LTee1vNUTOdXhHjHCng&quot; width=&quot;690&quot; height=&quot;305&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/4/6/54693dd561895efc6c080d253689a2dcae9e1b72_2_690x305.png, https://cdn3.ldstatic.com/optimized/4X/5/4/6/54693dd561895efc6c080d253689a2dcae9e1b72_2_1035x457.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/4/6/54693dd561895efc6c080d253689a2dcae9e1b72_2_1380x610.png 2x&quot; data-dominant-color=&quot;E0E0DE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;14 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389370&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>招商新用户达标领AI权益包！</title>
-      <link>https://linux.do/t/topic/2389122</link>
-      <guid>linux.do-topic-2389122</guid>
-      <pubDate>Fri, 12 Jun 2026 13:25:00 GMT</pubDate>
-      <description>
-            &lt;p&gt;推出招商银行运通工程师信用卡专属AI权益&lt;br&gt;
-新户首次参与活动达标&lt;br&gt;
-即可在多种“AIPlan”中任选其一领取&lt;br&gt;
-&lt;strong&gt;信息来自招商银行微信公众号&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/c/e/4ce0db5d2d906d6dffe2337cda18460ffe23db32.jpeg&quot; data-download-href=&quot;/uploads/short-url/aY62zdBQw2Op8w5YB6Cj64vlngK.jpeg?dl=1&quot; title=&quot;16bc352b2f1794791530ddaebb65d266&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/c/e/4ce0db5d2d906d6dffe2337cda18460ffe23db32_2_349x499.jpeg&quot; alt=&quot;16bc352b2f1794791530ddaebb65d266&quot; data-base62-sha1=&quot;aY62zdBQw2Op8w5YB6Cj64vlngK&quot; width=&quot;349&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/c/e/4ce0db5d2d906d6dffe2337cda18460ffe23db32_2_349x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/c/e/4ce0db5d2d906d6dffe2337cda18460ffe23db32_2_523x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/c/e/4ce0db5d2d906d6dffe2337cda18460ffe23db32_2_698x998.jpeg 2x&quot; data-dominant-color=&quot;F4BDB6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/b/8/7b8e67871eeb37a4bc13844e1496c9b49f3ff7a9.jpeg&quot; data-download-href=&quot;/uploads/short-url/hD1PohmchioHr91WOfegAslWfLb.jpeg?dl=1&quot; title=&quot;d5e77d4e4becda234ee0bbe494b776f5&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b8e67871eeb37a4bc13844e1496c9b49f3ff7a9_2_179x499.jpeg&quot; alt=&quot;d5e77d4e4becda234ee0bbe494b776f5&quot; data-base62-sha1=&quot;hD1PohmchioHr91WOfegAslWfLb&quot; width=&quot;179&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b8e67871eeb37a4bc13844e1496c9b49f3ff7a9_2_179x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b8e67871eeb37a4bc13844e1496c9b49f3ff7a9_2_268x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b8e67871eeb37a4bc13844e1496c9b49f3ff7a9_2_358x998.jpeg 2x&quot; data-dominant-color=&quot;EBE9E8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389122&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Apple 开源 运行于 MacOS 的 OCI 框架 ( Apple silicon Required )</title>
-      <link>https://linux.do/t/topic/2389063</link>
-      <guid>linux.do-topic-2389063</guid>
-      <pubDate>Fri, 12 Jun 2026 13:15:40 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.theregister.com/devops/2026/06/11/apple-gives-mac-devs-a-wsl-ish-thing-to-call-their-own/5254153&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/9/4/8/9489e3b99df3e0cbcd5b42c1f5f4e079cb127a55.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;FF4C4C&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.theregister.com/devops/2026/06/11/apple-gives-mac-devs-a-wsl-ish-thing-to-call-their-own/5254153&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;03:46PM - 11 June 2026&quot;&gt;theregister – 11 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/393;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/8/8/f884f06d9563b97cb62fa5c78fc1167e635486b9_2_690x392.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;766F6C&quot; width=&quot;690&quot; height=&quot;392&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.theregister.com/devops/2026/06/11/apple-gives-mac-devs-a-wsl-ish-thing-to-call-their-own/5254153&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Apple gives Mac devs a WSL-ish thing to call their own&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Blending containers and VMs but some features half-baked&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;在本周的 WWDC 大会上，苹果公司推出了容器机，这是一种运行 Linux 的持久性虚拟机，与微软操作系统上的 Windows Subsystem for Linux (WSL) 有几分相似。&lt;/p&gt;
-&lt;p&gt;苹果的解决方案以去年 WWDC 上预览的容器项目为基础。在今年的 WWDC 上发布了 1.0 版，并增加了新的容器机功能。该项目使用标准的开放容器倡议（OCI）容器，容器和容器机都运行在轻量级虚拟机（VM）上，具有很强的隔离性。&lt;/p&gt;
-&lt;p&gt;代码是用 Swift 编写的，以 Apache 2.0 许可在 GitHub 上开源。它使用了另一个名为容器化的 Swift 包，该包也是开源的。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox githubrepo&quot; data-onebox-src=&quot;https://github.com/apple/container&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://github.com/apple/container&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;github.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;github-row&quot; data-github-private-repo=&quot;false&quot;&gt;
-  &lt;img width=&quot;690&quot; height=&quot;344&quot; src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/e/4/ce4e094a4291e9e47ee690e9f9311b3570a518bf_2_690x344.png&quot; class=&quot;thumbnail&quot; data-dominant-color=&quot;F2EEED&quot;&gt;
-
-  &lt;h3&gt;&lt;a href=&quot;https://github.com/apple/container&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;GitHub - apple/container: A tool for creating and running Linux containers...&lt;/a&gt;&lt;/h3&gt;
-
-    &lt;p&gt;&lt;span class=&quot;github-repo-description&quot;&gt;A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. &lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2389063&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>kimi-k2.7-code已上线kimicode套餐，还有邀请内测</title>
-      <link>https://linux.do/t/topic/2388935</link>
-      <guid>linux.do-topic-2388935</guid>
-      <pubDate>Fri, 12 Jun 2026 12:53:58 GMT</pubDate>
-      <description>
-            &lt;p&gt;下午只上线了api，code只重置了额度没更新，code洗完澡发现上线了，还有的内测邀请报名，难道是k3吗，嘿嘿嘿 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/smiling_face_with_three_hearts.png?v=15&quot; title=&quot;:smiling_face_with_three_hearts:&quot; class=&quot;emoji&quot; alt=&quot;:smiling_face_with_three_hearts:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/c/c/0ccc9a911921579ce1569b4d31005ef8965da537.png&quot; data-download-href=&quot;/uploads/short-url/1Pe5ED3NDo8Pg8VNMYLY43TL5mT.png?dl=1&quot; title=&quot;QQ20260612-204850&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/c/c/0ccc9a911921579ce1569b4d31005ef8965da537_2_690x218.png&quot; alt=&quot;QQ20260612-204850&quot; data-base62-sha1=&quot;1Pe5ED3NDo8Pg8VNMYLY43TL5mT&quot; width=&quot;690&quot; height=&quot;218&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/c/c/0ccc9a911921579ce1569b4d31005ef8965da537_2_690x218.png, https://cdn3.ldstatic.com/optimized/4X/0/c/c/0ccc9a911921579ce1569b4d31005ef8965da537_2_1035x327.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/c/c/0ccc9a911921579ce1569b4d31005ef8965da537_2_1380x436.png 2x&quot; data-dominant-color=&quot;FBFBFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2388935&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>市场监管总局发布《广告引证内容执法指南》，明确绝对化用语豁免限制</title>
-      <link>https://linux.do/t/topic/2388811</link>
-      <guid>linux.do-topic-2388811</guid>
-      <pubDate>Fri, 12 Jun 2026 12:33:11 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;strong&gt;市场监管总局发布《广告引证内容执法指南》，明确绝对化用语豁免限制&lt;/strong&gt;&lt;br&gt;
-市场监管总局 6 月 12 日发布《广告引证内容执法指南》。指南明确，广告中使用“最高级”“最佳”或销量、销售额、市场占有率“第一”等用语时，若指向地域小于省级行政区划、所属行业或领域小于国家标准分类、商品无专有标准等，不属于豁免情形，企业需注意合规。&lt;/p&gt;
-&lt;p&gt;同时要求，引证内容的出处、适用范围、有效期限等，其文字字体、字号、颜色应满足正常清晰识别要求，语音须保持同等语速和清晰度。对于商品性能、功能、优惠条件等内容，不得通过缩小字号、使用相近颜色等方式限缩，或作出不符合科学常识的解释，以免误导消费者。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2026/art_8962fc1e4eb44a87b93d265af43b6940.html&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2026/art_8962fc1e4eb44a87b93d265af43b6940.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;samr.gov.cn&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2026/art_8962fc1e4eb44a87b93d265af43b6940.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;市场监管总局关于发布《广告引证内容执法指南》的公告&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;市场监管总局关于发布《广告引证内容执法指南》的公告依据《中华人民共和国广告法》等法律法规，市场监管总局制定了《广告引证内容执法指南》，现予公告。市场监管总局2026年6月3日广告引证内容执法指南为进一步提升商业广告（以下简称广告）引证内容监管执法工作效能，切实规范广告引证内容，依据《中华人民共和国广告法》（以下简称《广告法》）等法律法规规定，制定本指南。&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2388811&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Agent上岗考试：Fable 5最难任务仍交白卷，单题成本高出4到12倍</title>
-      <link>https://linux.do/t/topic/2388704</link>
-      <guid>linux.do-topic-2388704</guid>
-      <pubDate>Fri, 12 Jun 2026 12:16:19 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;strong&gt;加州大学伯克利分校 RDI 牵头、联合数百名行业专家，推出全新 AI 智能体评测基准 Agents’ Last Exam（ALE），用以评估智能体完成真实数字化专业工作的能力。ALE 覆盖 55 个数字化专业子领域，收集了 1500 多个源自人类专家实际项目的验证任务，支持 GUI 与 CLI 交互环境下的结果验证。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首批测试覆盖了 Fable 5、GPT-5.5 和 Composer 2.5 等前沿系统。最新官网对比口径显示，在需要持续推理与深厚专业知识的最难任务中，所有受测智能体的成功率全部为 0%，本周刚发布的 Fable 5 同样交了白卷。这主要是因为评测触发了安全策略，Fable 5 约有 35% 的任务被回退切换至旧版 Opus 4.8 运行，导致整体表现远不及其他榜单抢眼。在单任务 API 成本方面，Fable 5 约为 15.70 美元，远高于 GPT-5.5 的 3.80 美元和 Composer 2.5 的 1.33 美元，相同任务下的开销高出 4 到 12 倍。测试还发现，智能体最普遍的失败原因是过早宣告成功，在没有实际校验结果、甚至遗漏文件或算错数据的情况下便匆忙收工。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;针对命令行智能体，评估团队同步发布了子集 ALE-CLI。与已有的 Terminal-Bench 和 SWE-bench-Pro 相比，ALE-CLI 覆盖了 40 个子领域，单项任务的人类平均耗时达到数小时乃至数周。在命令行评测中，表现最好的智能体通过率也仅有 25.2%。评估团队指出，好用智能体的时代已经到来，但离真正能够上岗顶替人类仍有很长的路要走。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/e/2/5e231c4dd79a21606d78ca0c8bfe05b890939980.jpeg&quot; data-download-href=&quot;/uploads/short-url/dqM6ArMQ0V9paKnTQkZu32dy5G0.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/e/2/5e231c4dd79a21606d78ca0c8bfe05b890939980_2_690x276.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;dqM6ArMQ0V9paKnTQkZu32dy5G0&quot; width=&quot;690&quot; height=&quot;276&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/e/2/5e231c4dd79a21606d78ca0c8bfe05b890939980_2_690x276.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/e/2/5e231c4dd79a21606d78ca0c8bfe05b890939980_2_1035x414.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/5/e/2/5e231c4dd79a21606d78ca0c8bfe05b890939980.jpeg 2x&quot; data-dominant-color=&quot;F9F9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://arxiv.org/abs/2606.05405&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/7/3/7737f9c766957e34da6871902e1e7a9d2aca40f3.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;B36362&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://arxiv.org/abs/2606.05405&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;arXiv.org&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/402;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/d/4/cd49b65780faf86c14ed9761c9c522acfb73adde_2_500x500.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;865F5C&quot; width=&quot;500&quot; height=&quot;500&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://arxiv.org/abs/2606.05405&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Agents&#39; Last Exam&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Recent AI systems have achieved strong results on a wide range of benchmarks, yet these gains have not translated into economically meaningful deployment across many professional domains. We argue that this gap is largely an evaluation problem:...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;15 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2388704&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>智谱1倍消耗或持续到九月底，5.2也开始Max用户内测了</title>
-      <link>https://linux.do/t/topic/2388502</link>
-      <guid>linux.do-topic-2388502</guid>
-      <pubDate>Fri, 12 Jun 2026 11:44:08 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;strong&gt;智谱运维人员在运维群发的：&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;目前的计划是非高峰期1倍会持续到9月底，我们下周给大家正式公告&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;并且运维群也开始了针对Max用户的5.2模型小范围公开内测了。&lt;/p&gt;
-&lt;p&gt;期待GLM-5.2和Kimi-K2.7-code 的正面对比&lt;/p&gt;
-&lt;p&gt;更期待DS4.1&lt;/p&gt;
-&lt;p&gt;更更期待DS蒸馏Fable-5，尽快推出平民用得起的DS5&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2388502&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>快报:Kimi发布并开源Kimi2.7-Code</title>
-      <link>https://linux.do/t/topic/2388265</link>
-      <guid>linux.do-topic-2388265</guid>
-      <pubDate>Fri, 12 Jun 2026 11:05:57 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/2/0/7205456b7a35584858ae299faceb06b7688efdbc.jpeg&quot; data-download-href=&quot;/uploads/short-url/ggFIX8Vfl5LK3BryLBHDEh5BITO.jpeg?dl=1&quot; title=&quot;20657.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/2/0/7205456b7a35584858ae299faceb06b7688efdbc_2_690x388.jpeg&quot; alt=&quot;20657.jpg&quot; data-base62-sha1=&quot;ggFIX8Vfl5LK3BryLBHDEh5BITO&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/2/0/7205456b7a35584858ae299faceb06b7688efdbc_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/2/0/7205456b7a35584858ae299faceb06b7688efdbc_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/2/0/7205456b7a35584858ae299faceb06b7688efdbc_2_1380x776.jpeg 2x&quot; data-dominant-color=&quot;3E4856&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;a name=&quot;p-19048894-kimi-k27-code-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19048894-kimi-k27-code-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;Kimi 发布并开源编码模型 K2.7-Code，多项基准测试提升&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;月之暗面 Kimi 发布并开源 Kimi K2.7 Code 编程模型，据内部评估，貌似相比 K2.6 提升了长上下文编程场景的指令遵循能力和长程任务表现，并改善了过度思考倾向，平均 token 消耗减少 30%&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2388265&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Kimi K2.7 Code 编程模型已上线 Kimi Code、API 开放平台</title>
-      <link>https://linux.do/t/topic/2388222</link>
-      <guid>linux.do-topic-2388222</guid>
-      <pubDate>Fri, 12 Jun 2026 10:59:42 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/c/2/bc2e6dd25242b6a50b9e47c364bdc579aebaef54.jpeg&quot; data-download-href=&quot;/uploads/short-url/qQJeLfn43n7eEMBYU5gAT1lOB1y.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/c/2/bc2e6dd25242b6a50b9e47c364bdc579aebaef54_2_517x291.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;qQJeLfn43n7eEMBYU5gAT1lOB1y&quot; width=&quot;517&quot; height=&quot;291&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/c/2/bc2e6dd25242b6a50b9e47c364bdc579aebaef54_2_517x291.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/c/2/bc2e6dd25242b6a50b9e47c364bdc579aebaef54_2_775x436.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/c/2/bc2e6dd25242b6a50b9e47c364bdc579aebaef54_2_1034x582.jpeg 2x&quot; data-dominant-color=&quot;4987AB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-今天，我们发布并开源 &lt;strong&gt;Kimi K2.7 Code 编程模型&lt;/strong&gt;。&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;内外部基准评估显示，&lt;strong&gt;Kimi K2.7 Code&lt;/strong&gt; 相比 K2.6 模型显著提升了长上下文编程场景的&lt;strong&gt;指令遵循能力&lt;/strong&gt;、&lt;strong&gt;长程编程任务的性能表现&lt;/strong&gt;，并且大幅改善了在长程任务中的过度思考倾向，&lt;strong&gt;平均 token 消耗减少 30%&lt;/strong&gt;。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/7/d/d7de54a8dff420f5464259e754231a1adc159614.jpeg&quot; data-download-href=&quot;/uploads/short-url/uNEZQj1apNx1Bq8j6He88Gz4EYs.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/d/d7de54a8dff420f5464259e754231a1adc159614_2_517x291.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;uNEZQj1apNx1Bq8j6He88Gz4EYs&quot; width=&quot;517&quot; height=&quot;291&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/d/d7de54a8dff420f5464259e754231a1adc159614_2_517x291.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/7/d/d7de54a8dff420f5464259e754231a1adc159614_2_775x436.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/7/d/d7de54a8dff420f5464259e754231a1adc159614_2_1034x582.jpeg 2x&quot; data-dominant-color=&quot;414957&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-在评估代码能力的内部外基准测试中，K2.7 Code 相比 K2.6 性能显著提升：Kimi Code Bench v2 &lt;strong&gt;提升 21.8%&lt;/strong&gt;、Program-Bench &lt;strong&gt;提升 11%&lt;/strong&gt;、MLS Bench Lite &lt;strong&gt;提升 31.5%&lt;/strong&gt;。&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;模型代码能力的进化带来了 agentic 能力的提升。在评估 Agent 自主化执行能力的 Kimi Claw 24/7 Bench、MCP Atlas 和 MCP Mark Verified 基准测试中，性能&lt;strong&gt;提升 10%&lt;/strong&gt; 左右。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/1/1/d11ab9646238258df218217b5bb24188c5f6b027.jpeg&quot; data-download-href=&quot;/uploads/short-url/tPP2X6asochAh9lN7UbyM6sbaqb.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/1/d11ab9646238258df218217b5bb24188c5f6b027_2_517x339.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tPP2X6asochAh9lN7UbyM6sbaqb&quot; width=&quot;517&quot; height=&quot;339&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/1/d11ab9646238258df218217b5bb24188c5f6b027_2_517x339.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/1/1/d11ab9646238258df218217b5bb24188c5f6b027_2_775x508.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/1/1/d11ab9646238258df218217b5bb24188c5f6b027_2_1034x678.jpeg 2x&quot; data-dominant-color=&quot;FAFAFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-今天起，企业和开发者均可通过 &lt;strong&gt;&lt;a href=&quot;https://platform.kimi.com/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Kimi API 开放平台&lt;/a&gt;&lt;/strong&gt;&lt;a href=&quot;https://platform.kimi.com/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;（platform.kimi.com）&lt;/a&gt;使用 Kimi K2.7 Code 模型，1M token 的标准输入和输出价格与 K2.6 模型一致，分别为 6.5 元和 27 元；命中缓存的输入价格调整为 1.3 元。&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kimi Code Plan&lt;/strong&gt;（&lt;a href=&quot;https://www.kimi.com/code&quot; rel=&quot;noopener nofollow ugc&quot;&gt;kimi.com/code&lt;/a&gt;） 的&lt;strong&gt;默认模型已同步升级为 Kimi K2.7 Code&lt;/strong&gt;，开发者也可以通过 Kimi 会员计划和企业版 Kimi 会员计划（包含 Kimi Code Plan 权益）体验新模型。&lt;/p&gt;
-&lt;p&gt;在非编程任务中，我们仍然推荐能力更加全面的 K2.6 模型。&lt;/p&gt;
-&lt;p&gt;需要注意的是，使用 Kimi K2.7 Code 模型须&lt;strong&gt;打开思考模式&lt;/strong&gt;以发挥最佳性能。Kimi API 和 Kimi Code 均默认开启思考，如果手动关闭思考模式，API 会产生报错，Kimi Code 会回退到 K2.6 模型。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;周一见：6 倍速的 Kimi K2.7 Code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我们还将提供 Kimi K2.7 Code 高速版，同一个模型，但输出速度约为普通版的 &lt;strong&gt;5-6 倍&lt;/strong&gt;，常规编程场景下（取输入长度中位数）&lt;strong&gt;输出速度约 180 Token/s，短上下文场景可达 260 Token/s&lt;/strong&gt; ，带来更极致的编程体验。&lt;/p&gt;
-&lt;p&gt;下周一，6月15日，企业和开发者可通过 Kimi API 开放平台调用高速版模型，6x 速度仅需 2x 价格。&lt;/p&gt;
-&lt;p&gt;我们将逐步增加高速版的推理资源，6 月底之前，开发者通过加入 Kimi Code Plan「抢先体验计划」（&lt;a href=&quot;https://www.kimi.com/code/beta&quot; rel=&quot;noopener nofollow ugc&quot;&gt;kimi.com/code/beta&lt;/a&gt;），在 Kimi Code 中体验 Kimi K2.7 Code 高速版。预计从 7 月开始，我们会陆续开发 Allegretto 及以上会员。6倍速的高速版模型在 Kimi Code Plan 中的用量消耗是普通版模型的 3 倍。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;快速开始&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;↓ 用 K2.7 Code 辅助编程&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;使用 Kimi Code 包月编码套餐：&lt;/strong&gt;&lt;a href=&quot;https://www.kimi.com/code&quot; rel=&quot;noopener nofollow ugc&quot;&gt;kimi.com/code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;↓使用 Kimi API 创建应用&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;K2.7 Code 快速开始：&lt;a href=&quot;https://platform.kimi.com/docs/guide/kimi-k2-7-code-quickstart&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Kimi K2.7 Code - Kimi API 开放平台&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;查看限时充赠活动：&lt;a href=&quot;https://platform.kimi.com/docs/pricing/promotion&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;限时活动 - Kimi API 开放平台&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;↓ 本地部署模型&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Hugging Face:&lt;/strong&gt; &lt;a href=&quot;https://huggingface.co/moonshotai&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;moonshotai (Moonshot AI)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-            &lt;p&gt;&lt;small&gt;59 个帖子 - 55 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2388222&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Kimi K2.7 Code 正式发布，略微涨价</title>
-      <link>https://linux.do/t/topic/2388214</link>
-      <guid>linux.do-topic-2388214</guid>
-      <pubDate>Fri, 12 Jun 2026 10:58:43 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/f/b/3fb9f191b4824ff0c76c7b4e9f8daad53bce6d0a.jpeg&quot; data-download-href=&quot;/uploads/short-url/95KsHSmalj6Ww31OtC1MiO7qns6.jpeg?dl=1&quot; title=&quot;bdec7e92b7b985dc9a99e4b60c10ad04&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/f/b/3fb9f191b4824ff0c76c7b4e9f8daad53bce6d0a_2_690x388.jpeg&quot; alt=&quot;bdec7e92b7b985dc9a99e4b60c10ad04&quot; data-base62-sha1=&quot;95KsHSmalj6Ww31OtC1MiO7qns6&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/f/b/3fb9f191b4824ff0c76c7b4e9f8daad53bce6d0a_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/f/b/3fb9f191b4824ff0c76c7b4e9f8daad53bce6d0a_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/f/b/3fb9f191b4824ff0c76c7b4e9f8daad53bce6d0a_2_1380x776.jpeg 2x&quot; data-dominant-color=&quot;414958&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/4/e/b4e6c3d1822b462056030265bdc8509ee5bde9e2.jpeg&quot; data-download-href=&quot;/uploads/short-url/pOkm5m8223OEuDnSH44lcVV5aNk.jpeg?dl=1&quot; title=&quot;61b40d537df305820379a311bd6d6860&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/4/e/b4e6c3d1822b462056030265bdc8509ee5bde9e2_2_690x285.jpeg&quot; alt=&quot;61b40d537df305820379a311bd6d6860&quot; data-base62-sha1=&quot;pOkm5m8223OEuDnSH44lcVV5aNk&quot; width=&quot;690&quot; height=&quot;285&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/4/e/b4e6c3d1822b462056030265bdc8509ee5bde9e2_2_690x285.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/4/e/b4e6c3d1822b462056030265bdc8509ee5bde9e2_2_1035x427.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/b/4/e/b4e6c3d1822b462056030265bdc8509ee5bde9e2.jpeg 2x&quot; data-dominant-color=&quot;212224&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-并且宣称将会提供 6x speedup api,coming soon&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2388214&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Moonshotai 开源Kimi K2.7 Code</title>
-      <link>https://linux.do/t/topic/2388027</link>
-      <guid>linux.do-topic-2388027</guid>
-      <pubDate>Fri, 12 Jun 2026 10:30:48 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/b/d/bbdea92311095bdbcfa46f928711f1fd2ade5abf.jpeg&quot; data-download-href=&quot;/uploads/short-url/qNYkMUztJHKnyawHtF2xxUrRr6n.jpeg?dl=1&quot; title=&quot;1781260270277988470731836608262&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/b/d/bbdea92311095bdbcfa46f928711f1fd2ade5abf_2_690x388.jpeg&quot; alt=&quot;1781260270277988470731836608262&quot; data-base62-sha1=&quot;qNYkMUztJHKnyawHtF2xxUrRr6n&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/b/d/bbdea92311095bdbcfa46f928711f1fd2ade5abf_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/b/d/bbdea92311095bdbcfa46f928711f1fd2ade5abf_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/b/d/bbdea92311095bdbcfa46f928711f1fd2ade5abf_2_1380x776.jpeg 2x&quot; data-dominant-color=&quot;414958&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/c/4/6c480b1003c791bedb17d353493958935bb30a3d.jpeg&quot; data-download-href=&quot;/uploads/short-url/frTUXpldLM9LJkeQIx0da8Q3RCd.jpeg?dl=1&quot; title=&quot;17812606480941013819619826815783&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/c/4/6c480b1003c791bedb17d353493958935bb30a3d_2_690x452.jpeg&quot; alt=&quot;17812606480941013819619826815783&quot; data-base62-sha1=&quot;frTUXpldLM9LJkeQIx0da8Q3RCd&quot; width=&quot;690&quot; height=&quot;452&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/c/4/6c480b1003c791bedb17d353493958935bb30a3d_2_690x452.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/c/4/6c480b1003c791bedb17d353493958935bb30a3d_2_1035x678.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/c/4/6c480b1003c791bedb17d353493958935bb30a3d_2_1380x904.jpeg 2x&quot; data-dominant-color=&quot;FAFAFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://huggingface.co/moonshotai/Kimi-K2.7-Code&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://huggingface.co/moonshotai/Kimi-K2.7-Code&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;huggingface.co&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/372;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/f/6/bf68e4006897a227f5a1c2675bfc27a58ca75c18_2_690x372.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;5A70A4&quot; width=&quot;690&quot; height=&quot;372&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://huggingface.co/moonshotai/Kimi-K2.7-Code&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;moonshotai/Kimi-K2.7-Code · Hugging Face&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;We’re on a journey to advance and democratize artificial intelligence through open source and open science.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;Kimi K2.7 Code 是一款基于 Kimi K2.6 构建的编程专用智能体模型。通过在真实世界的长周期编程任务中实现显著的改进，该模型加强了复杂软件工程工作流中的端到端任务完成能力，同时提升了 Token 效率，与 Kimi K2.6 相比，思维链 Token 的使用量减少了约 30%。相较于 K2.6 的编程与智能体性能提升：在 Kimi Code Bench v2 上提升 21.8%，在 Program Bench 上提升 11.0%，在 MLS Bench Lite 上提升 31.5%。推理 Token 使用量较 K2.6 降低 30%。並改进了指令遵循能力，提升了端到端编程任务的成功率。&lt;/p&gt;
-&lt;p&gt;现已通过 Kimi API 和 Kimi Code 开放使用。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://platform.kimi.com/docs/guide/kimi-k2-7-code-quickstart&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/8/7/1/871ce29ecc06fc75927671ec339791ebd1739ab8.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;303133&quot; width=&quot;192&quot; height=&quot;192&quot;&gt;
-
-      &lt;a href=&quot;https://platform.kimi.com/docs/guide/kimi-k2-7-code-quickstart&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Kimi API 开放平台&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/8/9/8890ae9d1be3455578be787e7bddabb160533ce4_2_690x280.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;1F2126&quot; width=&quot;690&quot; height=&quot;280&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://platform.kimi.com/docs/guide/kimi-k2-7-code-quickstart&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Kimi K2.7 Code - Kimi API 开放平台&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Kimi K2.5 开放平台，提供万亿参数 K2.5 大模型 API，支持 256K 超长上下文、多模态理解和 Tool Calling。专业代码生成、智能对话、视觉推理，助力开发者构建下一代 AI 应用。&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2388027&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
