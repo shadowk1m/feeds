@@ -4,7 +4,86 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sat, 13 Jun 2026 13:23:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 15:15:17 GMT</lastBuildDate>
+    <item>
+      <title>智谱1.5倍coding plan额度，ZCode3.0</title>
+      <link>https://linux.do/t/topic/2396903</link>
+      <guid>linux.do-topic-2396903</guid>
+      <pubDate>Sat, 13 Jun 2026 15:14:42 GMT</pubDate>
+      <description>
+            &lt;blockquote&gt;
+&lt;p&gt;本次版本围绕 GLM-5.2 完成深度优化，全面移除第三方框架，聚焦自研 Agent 能力。经过多轮联调打磨，工具与模型深度结合，整体稳定性和运行效率大幅提升。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/wrapped_gift.png?v=15&quot; title=&quot;:wrapped_gift:&quot; class=&quot;emoji&quot; alt=&quot;:wrapped_gift:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; ZCode 内部 Coding Plan 专属权益&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;订阅用户专享 1.5 倍配额&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;已开通 GLM Coding Plan 的用户，登录即可享受 150% 使用额度，套餐更耐用。平台支持用量可视化。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;&lt;strong&gt;新用户 5 天免费体验&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首次使用 ZCode 可享 5 天免费权益，每日合计 500 万免费 Token（GLM-5.2 300 万 + GLM-5-turbo 200 万），产品开箱即用，无需额外配置。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Zcode好用吗？和CC比起来咋样？有佬用过吗？&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2396903&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>gpt终究还是要回归正价独享吗？</title>
+      <link>https://linux.do/t/topic/2396895</link>
+      <guid>linux.do-topic-2396895</guid>
+      <pubDate>Sat, 13 Jun 2026 15:13:32 GMT</pubDate>
+      <description>
+            &lt;p&gt;刚刷到的，正好我自己正价拼车的pro20一周刚封，难道以后都要回归正价了吗？ &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/innocent.png?v=15&quot; title=&quot;:innocent:&quot; class=&quot;emoji&quot; alt=&quot;:innocent:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/innocent.png?v=15&quot; title=&quot;:innocent:&quot; class=&quot;emoji&quot; alt=&quot;:innocent:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/innocent.png?v=15&quot; title=&quot;:innocent:&quot; class=&quot;emoji&quot; alt=&quot;:innocent:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+&lt;p&gt;美国时间6月13日，OpenAI发布2026年6月安全威胁报告，并上线新一版账户风险控制系统，重点打击批量注册、账户共享与滥用行为。&lt;br&gt;
+本次系统升级新增识别维度:&lt;br&gt;
+注册信息与使用环境的匹配度(如语言、地区、时区)&lt;br&gt;
+设备指纹与IP的稳定性及关联分析&lt;br&gt;
+多账户之间的行为相似度及模式聚类&lt;br&gt;
+支付行为、订阅来源及历史记录的可信度评估&lt;br&gt;
+异常使用特征(如短时间高频切换、批量操作等)&lt;br&gt;
+检测范围进一步扩大，覆盖:&lt;br&gt;
+批量注册的免费账户&lt;br&gt;
+共享使用的Team账户&lt;br&gt;
+长期多人使用的付费账户(如合租账号)&lt;br&gt;
+·通过脚本、自动化工具等非正常手段创建或使用的账户&lt;br&gt;
+根据OpenAI内部数据统计(截至6月初):异常账户识别准确率提升至90%以上&lt;br&gt;
+违规账户处置效率提升60%+&lt;br&gt;
+-涉及共享/转售行为的账户存活率下降至30%以下&lt;br&gt;
+温馨提示:&lt;br&gt;
+请勿尝试任何违反用户协议的行为，包括但不限于批量注册、账号共享、转售等。一经系统识别，将可能导致账户受限或封禁，且不可申诉。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2396895&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>chatgpt pro出现韩国大规模信用卡被盗刷现象</title>
+      <link>https://linux.do/t/topic/2396645</link>
+      <guid>linux.do-topic-2396645</guid>
+      <pubDate>Sat, 13 Jun 2026 14:34:50 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/e/1/6e12fa913e2191ddcc0e2804e6fc73727b545996.jpeg&quot; data-download-href=&quot;/uploads/short-url/fHLbnJTGxpCMQinNhALdBnu8uYm.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/e/1/6e12fa913e2191ddcc0e2804e6fc73727b545996_2_690x374.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fHLbnJTGxpCMQinNhALdBnu8uYm&quot; width=&quot;690&quot; height=&quot;374&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/e/1/6e12fa913e2191ddcc0e2804e6fc73727b545996_2_690x374.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/e/1/6e12fa913e2191ddcc0e2804e6fc73727b545996_2_1035x561.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/e/1/6e12fa913e2191ddcc0e2804e6fc73727b545996_2_1380x748.jpeg 2x&quot; data-dominant-color=&quot;B0B0B2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+上了国际新闻了，中国香港新闻有了不少报道了&lt;br&gt;
+韩国的信用卡资料被大规模使用盗刷&lt;br&gt;
+星岛头条报道&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/f/5/cf5602eb576b655d5e331d740587d09f8cf5b04f.png&quot; data-download-href=&quot;/uploads/short-url/tAb77Vpjls05tfWa2NLTUxqOUFh.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/f/5/cf5602eb576b655d5e331d740587d09f8cf5b04f_2_690x334.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tAb77Vpjls05tfWa2NLTUxqOUFh&quot; width=&quot;690&quot; height=&quot;334&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/f/5/cf5602eb576b655d5e331d740587d09f8cf5b04f_2_690x334.png, https://cdn3.ldstatic.com/optimized/4X/c/f/5/cf5602eb576b655d5e331d740587d09f8cf5b04f_2_1035x501.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/f/5/cf5602eb576b655d5e331d740587d09f8cf5b04f.png 2x&quot; data-dominant-color=&quot;EEEDEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;报道说，为了防范盗刷灾情扩大，openai暂停了绑定新卡的功能呢，并考虑在未来的支付流程中，加入手机本人实名验证等验证方式。&lt;br&gt;
+也不知道是只针对韩国区还是都一样，还是只是考虑不一定会执行。&lt;br&gt;
+如果实名验证的话要求，支付要求可能会比较高。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2396645&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>ollama cloud 上线 kimi k2.7</title>
       <link>https://linux.do/t/topic/2395640</link>
@@ -13,7 +92,7 @@
       <description>
             &lt;p&gt;如题&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/8/2/782b56c016d6baf360d69893f8fc28c4e057abd4.jpeg&quot; data-download-href=&quot;/uploads/short-url/h949gSjtWFSfihnxQLwmqj1jUdS.jpeg?dl=1&quot; title=&quot;1000014826.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/8/2/782b56c016d6baf360d69893f8fc28c4e057abd4_2_224x500.jpeg&quot; alt=&quot;1000014826.jpg&quot; data-base62-sha1=&quot;h949gSjtWFSfihnxQLwmqj1jUdS&quot; width=&quot;224&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/8/2/782b56c016d6baf360d69893f8fc28c4e057abd4_2_224x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/8/2/782b56c016d6baf360d69893f8fc28c4e057abd4_2_336x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/8/2/782b56c016d6baf360d69893f8fc28c4e057abd4_2_448x1000.jpeg 2x&quot; data-dominant-color=&quot;E2E2E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2395640&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -233,7 +312,7 @@
 
 &lt;p&gt;智谱真是上市后猛猛发力啊，不像Minimax已经靠M3成为路边一条了，开源了都无人问津&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/0/9/c09f2b27d9ba490e1040287a5be58324c2631c70.png&quot; data-download-href=&quot;/uploads/short-url/ru0GRQXGlutqvsnTmowlsqit0go.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/0/9/c09f2b27d9ba490e1040287a5be58324c2631c70_2_331x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ru0GRQXGlutqvsnTmowlsqit0go&quot; width=&quot;331&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/0/9/c09f2b27d9ba490e1040287a5be58324c2631c70_2_331x500.png, https://cdn3.ldstatic.com/optimized/4X/c/0/9/c09f2b27d9ba490e1040287a5be58324c2631c70_2_496x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/0/9/c09f2b27d9ba490e1040287a5be58324c2631c70.png 2x&quot; data-dominant-color=&quot;FAF9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;66 个帖子 - 52 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;89 个帖子 - 69 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2393676&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -427,7 +506,7 @@ Fable5 对所有用户，包括美国本土的用户也将不可用。&lt;/p&gt;
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2392629&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -470,69 +549,6 @@ Fable5 对所有用户，包括美国本土的用户也将不可用。&lt;/p&gt;
 &lt;p&gt;我觉得，我希望，能尽快看到 5.5 pro 的成绩&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;13 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2392546&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>《云顶之弈》将于 8 月 12 日迁移至虚幻引擎，后续推出独立客户端</title>
-      <link>https://linux.do/t/topic/2392427</link>
-      <guid>linux.do-topic-2392427</guid>
-      <pubDate>Sat, 13 Jun 2026 04:43:01 GMT</pubDate>
-      <description>
-            &lt;p&gt;云顶之弈将随第 18 赛季更新，从 Hextech 引擎切换至虚幻引擎。游戏核心体验不变，但首次更新包更大，个人设置会被重置；账户、外观和货币均保留。移动端会自动替换为新版本。这次迁移是为长期创新做准备，短期内游戏 bug 可能增多，因此第 18 赛季的测试服将从 7 月 14 日开启，持续四周。&lt;/p&gt;
-&lt;p&gt;10 月 9 日还将推出云顶之弈专用 PC 客户端。未来新推出的小小英雄将不再支持在海克斯大乱斗中作为同伴使用。PC 和移动端的最低配置要求也有调整。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/faq-tft-unreal-migration/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/d/3/dd3cb71804eae400eb69fa6560254878beb1417f_2_480x500.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;FFFFFF&quot; width=&quot;480&quot; height=&quot;500&quot;&gt;
-
-      &lt;a href=&quot;https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/faq-tft-unreal-migration/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;teamfighttactics.leagueoflegends.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/388;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/0/a/d0a1bc2698c51b46a44f30704a6ee2d0c52e6b84_2_690x388.webp&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;C2954F&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/faq-tft-unreal-migration/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;FAQ TFT Unreal Migration&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;TFT is moving to Unreal! Here’s what you need to know, and what you might ask.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2392427&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Anthropic 官方已禁止所有用户使用 Claude Fable 5和 Claude Mythos 5</title>
-      <link>https://linux.do/t/topic/2392325</link>
-      <guid>linux.do-topic-2392325</guid>
-      <pubDate>Sat, 13 Jun 2026 04:23:15 GMT</pubDate>
-      <description>
-            &lt;p&gt;由于美国政府出口管制指令，Anthropic 官方已禁止所有用户使用 Claude Fable 5和 Claude Mythos 5。&lt;/p&gt;
-&lt;p&gt;现在这些模型在所有渠道均不可用。&lt;/p&gt;
-&lt;p&gt;您可以通过/model切换到其他模型使用。&lt;/p&gt;
-&lt;p&gt;可恶啊，我昨天才升级了20x，今天中午起来发现模型fable用不了&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2392325&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Claude 额度重置了，大家快蹬</title>
-      <link>https://linux.do/t/topic/2392316</link>
-      <guid>linux.do-topic-2392316</guid>
-      <pubDate>Sat, 13 Jun 2026 04:21:47 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/d/e/bde5092f37f9d546214683ea0cf9eb69fa7c8403.png&quot; data-download-href=&quot;/uploads/short-url/r5SWQ1ufUgRzP4l9lvYYfiOjnDJ.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/d/e/bde5092f37f9d546214683ea0cf9eb69fa7c8403_2_690x305.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;r5SWQ1ufUgRzP4l9lvYYfiOjnDJ&quot; width=&quot;690&quot; height=&quot;305&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/d/e/bde5092f37f9d546214683ea0cf9eb69fa7c8403_2_690x305.png, https://cdn3.ldstatic.com/optimized/4X/b/d/e/bde5092f37f9d546214683ea0cf9eb69fa7c8403_2_1035x457.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/d/e/bde5092f37f9d546214683ea0cf9eb69fa7c8403_2_1380x610.png 2x&quot; data-dominant-color=&quot;FBFCFC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-claude fable5 现在不可用状态， 但是额度重置了，大家速蹬&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2392316&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
