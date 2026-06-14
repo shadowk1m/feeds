@@ -4,15 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 14 Jun 2026 03:32:01 GMT</lastBuildDate>
-    <item>
-      <title>为何从学校出来的大概率是牛马</title>
-      <link>https://www.v2ex.com/t/1220136</link>
-      <guid>v2ex-1220136</guid>
-      <pubDate>Sat, 13 Jun 2026 05:00:14 GMT</pubDate>
-      <description>&lt;p&gt;到底是什么知识让我们觉得自己只能是牛马&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 14 Jun 2026 08:07:12 GMT</lastBuildDate>
     <item>
       <title>Fable 真强到那种地步了吗？</title>
       <link>https://www.v2ex.com/t/1220168</link>
@@ -30,42 +22,11 @@
 </description>
     </item>
     <item>
-      <title>独立开发的 macOS 应用让破解站收录了，心里五味杂陈</title>
-      <link>https://www.v2ex.com/t/1220128</link>
-      <guid>v2ex-1220128</guid>
-      <pubDate>Sat, 13 Jun 2026 04:05:07 GMT</pubDate>
-      <description>&lt;p&gt;今天早上一看，折腾了很久的 macOS 应用 Aion 让破解站（ MacKed ）给收录了。&lt;/p&gt;
-&lt;p&gt;当时第一反应有点微妙：一方面有点自豪，毕竟有人愿意花时间去破，说明折腾出来的东西确实有用；另一方面摸摸口袋，最近本来收入就下滑，看着直链下载确实心凉。&lt;/p&gt;
-&lt;p&gt;简单说说这个 App ，叫 Aion （官网： &lt;a href=&quot;https://aion.7caifei.com/&quot; rel=&quot;nofollow&quot;&gt;https://aion.7caifei.com/&lt;/a&gt; ）。&lt;/p&gt;
-&lt;p&gt;做它的初衷是嫌市面上的自动退出软件太死板，经常把我挂着的下载或者视频会议给强退了。Aion 做的是“上下文感知退出”：不会傻傻地倒计时，而是会检测你的网络流量、音视频播放，甚至摄像头和麦克风使用状态。如果确定你在开会或下大文件，就先保护起来不退；退出也是走标准 Apple 事件，会提示保存，不至于丢数据。软件完全在本地运行。&lt;/p&gt;
-&lt;p&gt;顺便也想请教下各位前辈：大家做 macOS 独立开发，刚起步遇到破解一般怎么调节心态？技术上有没有什么成本低、见效快的防逆向/防破解手段（比如检测运行时签名）？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>做了一个京东自动保价的插件，留言送一年会员</title>
-      <link>https://www.v2ex.com/t/1220134</link>
-      <guid>v2ex-1220134</guid>
-      <pubDate>Sat, 13 Jun 2026 04:54:35 GMT</pubDate>
-      <description>&lt;p&gt;地址 &lt;a href=&quot;https://gitee.com/nnlsm/baojiajingling&quot; rel=&quot;nofollow&quot;&gt;https://gitee.com/nnlsm/baojiajingling&lt;/a&gt;
-叫保价精灵
-以前京东保价需要自己盯着，很麻烦，需要每天打开京东才行。有了这个 chrome 插件，可以每天自动保价，解放了自己
-免费版每月 1-15 号自动保价，付费版天天保价
-如果需要的话，下载安装插件，留言插件界面最下面显示的 pin ，给你生成激活码，谢谢，只要留言就免费一年，不限制留言时间&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>赶在被封前，用 Claude Fable 做了个免费的 AI 入门课程</title>
-      <link>https://www.v2ex.com/t/1220127</link>
-      <guid>v2ex-1220127</guid>
-      <pubDate>Sat, 13 Jun 2026 03:49:52 GMT</pubDate>
-      <description>&lt;p&gt;这门课程几乎零数学、靠可视化和动手交互来讲透 AI 原理。&lt;/p&gt;
-&lt;p&gt;6 个阶段 30 课，从&quot;单个神经元&quot;到&quot;亲手搭一个 RAG
-应用&quot;，每课都能边看边调参数。&lt;/p&gt;
-&lt;p&gt;专为中文学习者设计&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://aipath.buynao.com&quot; rel=&quot;nofollow&quot;&gt;https://aipath.buynao.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;觉得有点用的，可以留个 star&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/buynao/aipath&quot; rel=&quot;nofollow&quot;&gt;https://github.com/buynao/aipath&lt;/a&gt;&lt;/p&gt;
-</description>
+      <title>Java 确实是内存高效的</title>
+      <link>https://www.v2ex.com/t/1220193</link>
+      <guid>v2ex-1220193</guid>
+      <pubDate>Sat, 13 Jun 2026 11:51:37 GMT</pubDate>
+      <description>&lt;div class=&quot;embedded_video_wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/M_HCG1JPMQE&quot; class=&quot;embedded_video&quot; allowfullscreen=&quot;&quot; type=&quot;text/html&quot; id=&quot;ytplayer&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;TLDR:&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/pg6ufa9Ll.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 pg6ufa9Ll.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/pg6ufa9Ll.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
       <title>[送永久会员] 手机壁纸工坊 APP，轻松制作有质感、极简壁纸</title>
@@ -130,11 +91,42 @@ S50QP9ZAX4C2H1PD1JJ7EW0
 </description>
     </item>
     <item>
-      <title>Java 确实是内存高效的</title>
-      <link>https://www.v2ex.com/t/1220193</link>
-      <guid>v2ex-1220193</guid>
-      <pubDate>Sat, 13 Jun 2026 11:51:37 GMT</pubDate>
-      <description>&lt;div class=&quot;embedded_video_wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/M_HCG1JPMQE&quot; class=&quot;embedded_video&quot; allowfullscreen=&quot;&quot; type=&quot;text/html&quot; id=&quot;ytplayer&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;TLDR:&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/pg6ufa9Ll.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 pg6ufa9Ll.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/pg6ufa9Ll.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
+      <title>有升级 macos27 的 V 友吗，感觉发热严重啊，我的是 M2pro 芯片</title>
+      <link>https://www.v2ex.com/t/1220248</link>
+      <guid>v2ex-1220248</guid>
+      <pubDate>Sun, 14 Jun 2026 00:06:25 GMT</pubDate>
+      <description>有升级 macos27 的 V 友吗，感觉发热严重啊，我的是 M2pro 芯片</description>
+    </item>
+    <item>
+      <title>3500 买了一个 macbook pro m1 16➕256，请问怎么验货比较好？</title>
+      <link>https://www.v2ex.com/t/1220180</link>
+      <guid>v2ex-1220180</guid>
+      <pubDate>Sat, 13 Jun 2026 10:00:53 GMT</pubDate>
+      <description>&lt;p&gt;感觉这个价格还是比较划算的，整台机只有底部有一道划痕，其他地方都正常，然后电池健康 100%，走的闲鱼严选&lt;/p&gt;
+&lt;p&gt;新手第一次买苹果，请问大家怎么验货好呢？还有平时大概开 50-80 个网页，加上 idea 写 java ，不知道这台设备的性能够不够，以及 3500 的性价比如何，谢谢大家！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>是不是大部分程序员都会被大模型替代</title>
+      <link>https://www.v2ex.com/t/1220221</link>
+      <guid>v2ex-1220221</guid>
+      <pubDate>Sat, 13 Jun 2026 14:16:06 GMT</pubDate>
+      <description>今天突然想到，如果把程序员看作是人类语言/思维和机器语言之间的翻译官的话，人与人之间的不同语言的交流可以基于模型实现，那么是不是早晚有一天低端的翻译会被机器替代，留下的都是头部的领头人。</description>
+    </item>
+    <item>
+      <title>澳洲留学电子设备怎么选？</title>
+      <link>https://www.v2ex.com/t/1220243</link>
+      <guid>v2ex-1220243</guid>
+      <pubDate>Sat, 13 Jun 2026 17:41:08 GMT</pubDate>
+      <description>如题，9 月份去澳洲 UNSW 读网安方向 it 硕士，出发前准备更换一批现在主力用的破烂电子设备。&lt;br /&gt;个人需求纯日用，上课、做作业+轻度写代码、学渗透测试以及各种网安技能，有一台 windows 游戏本跑高性能需求应用，从来没有用过任何苹果设备。&lt;br /&gt;&lt;br /&gt;笔记本：&lt;br /&gt;目前在用 1235u 的 windows 轻薄本，散热稀烂看个视频都降频(刚刚清灰换硅脂结束的状态)。&lt;br /&gt;考虑更换 258v 、338H 的 windows 轻薄本、macbook air 13 寸 16+512(某鱼上这一款格外便宜，只要 6000)。&lt;br /&gt;现在有点担心之前打 CTF 积累下来的一堆杂七杂八安全相关软件没法放到 macos 上使用；也不太清楚这几款轻薄本长期跑 kali 虚拟机会不会续航暴跌。&lt;br /&gt;&lt;br /&gt;手机：&lt;br /&gt;目前在用 mi11(痛苦的 5 年)。&lt;br /&gt;考虑更换小米 17max 、红米 k90promax 、iphone17 256 。&lt;br /&gt;本来是小米红米二选一，想着可能买 macbook air 就也加了个 iphone 。&lt;br /&gt;后面发现 apple pay 也许可以让日常消费方便很多，ios 还有一些在国外潜在的好处(比如说日本很多 app 对 ios 支持好，但我要去澳洲所以不清楚具体情况)，但似乎 g pay+当地信用卡也可以实现类似的效果。&lt;br /&gt;&lt;br /&gt;此外如果有任何在澳洲或者搞网安的前辈愿意给我任何生活学习方面的建议，希望不吝赐教！</description>
+    </item>
+    <item>
+      <title>有人的 27 系统索引完成吗？</title>
+      <link>https://www.v2ex.com/t/1220253</link>
+      <guid>v2ex-1220253</guid>
+      <pubDate>Sun, 14 Jun 2026 01:47:51 GMT</pubDate>
+      <description>&lt;p&gt;我已经升级已经差不多五天时间了，不论是 iPhone 还是 iPad 都还在索引，macOS 没有提示但我猜测也还在索引😂&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
