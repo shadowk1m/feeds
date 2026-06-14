@@ -4,7 +4,72 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sat, 13 Jun 2026 23:57:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 03:32:02 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic最强AI连夜「猝死」内幕：大股东亚马逊背刺、白宫下90分钟死亡通牒</title>
+      <link>https://linux.do/t/topic/2398376</link>
+      <guid>linux.do-topic-2398376</guid>
+      <pubDate>Sun, 14 Jun 2026 02:53:05 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;strong&gt;Claude Fable 5 刚发布三天便被白宫紧急下线，源于大股东亚马逊的一次致命告密。美东时间周四，亚马逊 CEO 安迪·贾西直接致电财政部长贝森特，声称其研究团队成功使用提示词绕过 Fable 5 的外层防护，直达底层 Mythos 5 模型，并诱导其生成能挖掘软件漏洞的输出与自动测试脚本，最终通过多步过程转化为漏洞利用验证（PoC）代码。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;美东时间周五上午，该漏洞事件直接惊动白宫最高层。白宫幕僚长苏西·威尔斯紧急召集闭门会议商讨应对方案，而正在前往休斯顿途中的财长贝森特则在行程中远程接入。会议期间，白宫将越狱测试数据送交国家安全局（NSA）进行评估，NSA 随后向白宫确认证据确凿，漏洞具备实质性的网络武器级杀伤力。会后，白宫十万火急寻找 Anthropic 创始人兼 CEO 达里奥·阿莫代，却发现其「处于失联状态」。有白宫官员声称阿莫代当时正在参加一个「静修疗养营」，但 Anthropic 方面随后愤怒驳斥这一说法「纯属捏造」，并解释称阿莫代在中午接到联络请求后，已于一小时内火速连线，且失联期间公司已主动提供其他高管作为替代。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;危机在美东时间周五下午 1:00 彻底爆发。白宫方面倾巢而出，包括商务部长卢特尼克在内的半数核心内阁成员对阿莫代发起了多达三轮的密集电话施压。在多方连线中，国安顾问凯恩克罗斯强硬要求阿莫代自愿下架模型。阿莫代极力自辩，坚称这仅是特定场景的绕过，而非灾难性的「通用越狱」，指责政府反应过度。这番自辩令白宫官员感到极为讽刺。阿莫代此前曾多次在政策游说中将 AI 风险比作「原子弹」，如今面对真实漏洞却试图大事化小。交锋中，贝森特直接警告阿莫代，称其正做出一个「极其愚蠢的决定」，并强行甩下 90 分钟的物理下架死限。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;双方的说辞在事后陷入罗生门：白宫官员声称出口管制是在「恳求数小时无果后」的无奈之举；而接近 Anthropic 的知情人士则怒斥白宫蛮横，「直接丢来一个不给任何技术细节的 90 分钟物理死亡期限，根本没有留出任何协商余地」。谈判破裂后，特朗普政府于周五下午 5:30 正式签发紧急出口管制令，被迫低头的 Anthropic 最终于当晚 10:00 彻底物理断网。随后，公司发布官方声明，怒斥政府此举「不公平、不透明且不尊重技术事实」。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;作为 Anthropic 最大外部投资方的亚马逊，亲手做空自己重金持股的 AI 盟友，背后是资本利益的彻底倒戈。亚马逊此前虽给 Anthropic 投资了 130 亿美元，但今年其又向 Anthropic 的竞争对手 OpenAI 投入了高达 500 亿美元的巨资，并获准在 AWS 上转售其最新模型。这笔巨额交易，直接让对 Anthropic 的致命举报，变成了亚马逊为新欢清扫障碍、为其 500 亿美元豪赌强行保驾护航的投名状。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对特朗普政府而言，这次告密则正中下怀。白宫对这家充满自由派色彩的 AI 创企积怨已久：Anthropic 深度雇佣了拜登时期的官员，其创始人也曾公然批评过特朗普。更深层的冲突在今年 3 月就已爆发，当时 Anthropic 强硬拒绝让其模型用于大规模国内监视和致命自主武器开发，因而被五角大楼定性为供应链风险，双方至今官司不断。因此，在网安官员游说下，特朗普总统最终签字批准了禁令。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这道出口令随后产生了一个极其荒诞的副作用：由于限制任何「外国国民」访问，连 Anthropic 内部大批来自英国、加拿大等盟国的核心研发骨干也被阻断了系统权限，导致其技术团队当场停摆。对于正全力筹备秋季上市（IPO）的 Anthropic 来说，白宫的这记重拳几乎提前判了其商业计划的死刑，而空出的市场真空，正被身后的 OpenAI 迅速蚕食。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/2/4/224f05df826268e5fb72ff38cc778ad637d33304.jpeg&quot; data-download-href=&quot;/uploads/short-url/4TvxtfrCEfXf6GXx5Xs8yNcooWU.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/2/4/224f05df826268e5fb72ff38cc778ad637d33304_2_423x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;4TvxtfrCEfXf6GXx5Xs8yNcooWU&quot; width=&quot;423&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/2/4/224f05df826268e5fb72ff38cc778ad637d33304_2_423x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/2/4/224f05df826268e5fb72ff38cc778ad637d33304_2_634x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/2/4/224f05df826268e5fb72ff38cc778ad637d33304_2_846x1000.jpeg 2x&quot; data-dominant-color=&quot;8C93A8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;27 个帖子 - 27 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2398376&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Oracle免费的4c24g要砍半了？</title>
+      <link>https://linux.do/t/topic/2398260</link>
+      <guid>linux.do-topic-2398260</guid>
+      <pubDate>Sun, 14 Jun 2026 02:29:14 GMT</pubDate>
+      <description>
+            &lt;p&gt;官方公告:&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm?hl=zh-CN&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm?hl=zh-CN&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;docs.oracle.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm?hl=zh-CN&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Always Free Resources&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Learn what Always Free resources are available to all Oracle Cloud Infrastructure users.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;佬们怎么看？上边都跑着什么呀，对个人业务有影响没？&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2398260&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>kiro更新版本了，模型支持调整</title>
+      <link>https://linux.do/t/topic/2397925</link>
+      <guid>linux.do-topic-2397925</guid>
+      <pubDate>Sun, 14 Jun 2026 00:57:26 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/3/4/b340ac14fed572b0bb9fdb3f11afc7decb065f47.png&quot; data-download-href=&quot;/uploads/short-url/pzK1EPfOilDwaD1IIbJn0MbngPR.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/3/4/b340ac14fed572b0bb9fdb3f11afc7decb065f47.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;pzK1EPfOilDwaD1IIbJn0MbngPR&quot; width=&quot;396&quot; height=&quot;120&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2397925&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>openrouter 推出 fusion api，可聚合多个模型工作</title>
       <link>https://linux.do/t/topic/2397772</link>
@@ -13,7 +78,7 @@
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/d/2/ad27f92a760d1ffa32be6fee6189269366ad4e68.jpeg&quot; data-download-href=&quot;/uploads/short-url/oHOfaZWFojTQwJq6MEC9DJDXwI8.jpeg?dl=1&quot; title=&quot;IMG_20260614_073258&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/d/2/ad27f92a760d1ffa32be6fee6189269366ad4e68_2_301x500.jpeg&quot; alt=&quot;IMG_20260614_073258&quot; data-base62-sha1=&quot;oHOfaZWFojTQwJq6MEC9DJDXwI8&quot; width=&quot;301&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/d/2/ad27f92a760d1ffa32be6fee6189269366ad4e68_2_301x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/d/2/ad27f92a760d1ffa32be6fee6189269366ad4e68_2_451x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/d/2/ad27f92a760d1ffa32be6fee6189269366ad4e68_2_602x1000.jpeg 2x&quot; data-dominant-color=&quot;E8E5E9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 宣称以一半的价格达到了fable级别的智能，给出的测试任务是深度研究而不是 coding（难怪 ds v4 pro solo 的分数会比较高）&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2397772&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -25,7 +90,7 @@
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/f/3/ef3456d4048cbcc2d58dd838002a9a40e8d95fe1.jpeg&quot; data-download-href=&quot;/uploads/short-url/y86fB8JAwXK1uIZi0aEIlEH0Y8h.jpeg?dl=1&quot; title=&quot;telegram-cloud-photo-size-5-6154586392147727316-w&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/3/ef3456d4048cbcc2d58dd838002a9a40e8d95fe1_2_597x500.jpeg&quot; alt=&quot;telegram-cloud-photo-size-5-6154586392147727316-w&quot; data-base62-sha1=&quot;y86fB8JAwXK1uIZi0aEIlEH0Y8h&quot; width=&quot;597&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/3/ef3456d4048cbcc2d58dd838002a9a40e8d95fe1_2_597x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/f/3/ef3456d4048cbcc2d58dd838002a9a40e8d95fe1_2_895x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/f/3/ef3456d4048cbcc2d58dd838002a9a40e8d95fe1_2_1194x1000.jpeg 2x&quot; data-dominant-color=&quot;CEBFB4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;暂时未证明真伪&lt;/strong&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2397672&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -45,22 +110,8 @@
 已开通 GLM Coding Plan 的用户，登录即可享受 150% 使用额度，套餐更耐用。平台支持用量可视化，也可一键升级套餐。&lt;br&gt;
 新用户 5 天免费体验&lt;br&gt;
 首次使用 ZCode 可享 5 天免费权益，每日合计 500 万免费 Token（GLM-5.2 300 万 + GLM-5-turbo 200 万），产品开箱即用，无需额外配置。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;38 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;65 个帖子 - 44 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2397628&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>兄弟姐妹萌，zcode可以免费尝鲜glm5.2，感觉有点灵性啊</title>
-      <link>https://linux.do/t/topic/2397598</link>
-      <guid>linux.do-topic-2397598</guid>
-      <pubDate>Sat, 13 Jun 2026 18:53:06 GMT</pubDate>
-      <description>
-            &lt;p&gt;激动的心颤抖的手，新的国模孩子爱吃&lt;br&gt;
-就是zcode完全就是codex的dark版本，特别是这个已工作xx分xx秒… &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/laughing.png?v=15&quot; title=&quot;:laughing:&quot; class=&quot;emoji&quot; alt=&quot;:laughing:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/8/b/b8b51ea194ffb7948854aeb068a817ae6ed201e5.png&quot; data-download-href=&quot;/uploads/short-url/qlZTTRAfYZHtu6TY2s1fmWOWzlP.png?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/8/b/b8b51ea194ffb7948854aeb068a817ae6ed201e5.png&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;qlZTTRAfYZHtu6TY2s1fmWOWzlP&quot; width=&quot;242&quot; height=&quot;161&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/1/1/a1146cf5a41a01863334ef3885cabfdd9a8af108.png&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;mYYDkMnbehEuLbJzN6X28TTq6Ss&quot; width=&quot;245&quot; height=&quot;61&quot;&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2397598&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
@@ -123,7 +174,7 @@
             &lt;p&gt;6 月 13 日，深度求索研究员陈德礼在社交平台 X 上发帖，强烈投诉北京字节跳动位于蓝景丽家的施工项目。他称，周末凌晨 2 点，挖掘机仍在工地轰鸣作业，距其住所仅 200 至 300 米，严重干扰居民休息。&lt;/p&gt;
 &lt;p&gt;他表示，此前已通过 12345 热线反映问题，官方回复称该项目为“市级重点基础设施工程”，法定施工时间为早 6 点至晚 10 点，含节假日。但如今工地凌晨违规施工，令他无法接受。他拍摄视频上传至国内社交平台小红书，随后账号被禁言，视频对他人不可见。他怀疑是北京方面看到后选择“封口”而非解决问题。目前其 12345 投诉仍未得到答复。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.com/victor207755822/status/2065791066918502763&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://x.com/victor207755822/status/2065791066918502763&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;27 个帖子 - 26 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;40 个帖子 - 34 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2397099&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -158,7 +209,7 @@
 &lt;p&gt;Zcode好用吗？和CC比起来咋样？有佬用过吗？&lt;/p&gt;
 &lt;p&gt;Codex的既视感&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/d/c/adc2f47041a06a8b216829269e907d31693bc600.jpeg&quot; data-download-href=&quot;/uploads/short-url/oNai3nttAMH7Sn5JKTfGUIiYcFy.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/d/c/adc2f47041a06a8b216829269e907d31693bc600_2_690x430.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;oNai3nttAMH7Sn5JKTfGUIiYcFy&quot; width=&quot;690&quot; height=&quot;430&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/d/c/adc2f47041a06a8b216829269e907d31693bc600_2_690x430.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/d/c/adc2f47041a06a8b216829269e907d31693bc600_2_1035x645.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/d/c/adc2f47041a06a8b216829269e907d31693bc600_2_1380x860.jpeg 2x&quot; data-dominant-color=&quot;232325&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;34 个帖子 - 29 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;37 个帖子 - 32 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2396903&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -199,7 +250,7 @@
 &lt;ul&gt;
 &lt;li&gt;退款仅适用于在 2026 年 6 月 9 日上午 10:00 PDT 至 2026 年 6 月 14 日凌晨 12:00 PDT (UTC-7) 期间购买套餐或升级套餐的符合条件的用户&lt;/li&gt;
 &lt;/ul&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;15 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2395023&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -470,68 +521,6 @@
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/d/b/6dbb4c8a742d11a1ec7ae4c5d6bc74ccbd062fc5.png&quot; data-download-href=&quot;/uploads/short-url/fEJkutBHiDShIKqlGWT1WT9Bf8h.png?dl=1&quot; title=&quot;Screenshot 2026-06-13 at 14.32.41&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/d/b/6dbb4c8a742d11a1ec7ae4c5d6bc74ccbd062fc5.png&quot; alt=&quot;Screenshot 2026-06-13 at 14.32.41&quot; data-base62-sha1=&quot;fEJkutBHiDShIKqlGWT1WT9Bf8h&quot; width=&quot;604&quot; height=&quot;306&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;12 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2393089&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>报! 智谱将于今天下午开放GLM5.2</title>
-      <link>https://linux.do/t/topic/2393030</link>
-      <guid>linux.do-topic-2393030</guid>
-      <pubDate>Sat, 13 Jun 2026 06:27:21 GMT</pubDate>
-      <description>
-            &lt;p&gt;今晚 5:21，&lt;strong&gt;GLM-5.2 将面向 GLM Coding Plan 全量用户开放，覆盖 Lite / Pro / Max / 团队版。&lt;/strong&gt;&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/d/d/7dd717f559ccff755ed344dccbea043c39431d6f.png&quot; data-download-href=&quot;/uploads/short-url/hXewdH9Lsw7blNH5EWJBOu0sAXR.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/d/d/7dd717f559ccff755ed344dccbea043c39431d6f_2_470x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;hXewdH9Lsw7blNH5EWJBOu0sAXR&quot; width=&quot;470&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/d/d/7dd717f559ccff755ed344dccbea043c39431d6f_2_470x500.png, https://cdn3.ldstatic.com/optimized/4X/7/d/d/7dd717f559ccff755ed344dccbea043c39431d6f_2_705x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/d/d/7dd717f559ccff755ed344dccbea043c39431d6f_2_940x1000.png 2x&quot; data-dominant-color=&quot;F5F6F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;GLM-5.2 API 将于下周上线，模型下周正式&lt;strong&gt;开源，遵循 MIT 协议&lt;/strong&gt;。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;28 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2393030&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>[慢讯] Anthropic根据美国政府要求禁止所有用户使用Fable5模型</title>
-      <link>https://linux.do/t/topic/2392777</link>
-      <guid>linux.do-topic-2392777</guid>
-      <pubDate>Sat, 13 Jun 2026 05:47:18 GMT</pubDate>
-      <description>
-            &lt;p&gt;今天 8:50 分 Anthropic 在X上发文禁止了所有 ToB 和 ToC 用户使用 Fable5 模型，现有的 Fable5 模型会被路由到 Opus4.8，并重置了所有用户订阅额度来补偿。&lt;/p&gt;
-&lt;p&gt;具他们所说 Anthropic 公司内部的外籍员工也无法使用 Fable5 模型。&lt;br&gt;
-Fable5 对所有用户，包括美国本土的用户也将不可用。&lt;/p&gt;
-&lt;p&gt;Anthropic 账号 X 发帖 原文翻译:&lt;br&gt;
-美国政府以维护国家安全为由，发布了一项出口管制指令，暂停所有外国人士 —— 无论身处美国境内还是境外 —— 对 Fable 5 和 Mythos 5 的访问权限，其中包括 Anthropic 的外籍员工。&lt;/p&gt;
-&lt;p&gt;该命令的直接后果是，我们必须立即停止向所有客户提供 Fable 5 和 Mythos 5 的服务，以确保合规。&lt;/p&gt;
-&lt;p&gt;其他 Claude 系列模型的访问不受影响。&lt;/p&gt;
-&lt;p&gt;对于由此给客户带来的不便，我们深表歉意。我们认为这是一场误会，并正全力争取尽快恢复相关服务。&lt;/p&gt;
-&lt;p&gt;查看我们的完整声明：&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.anthropic.com/news/fable-mythos-access&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/6/b/06bd79f3ab6ef3a27d19d63c8ce8c2475d036ac3.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;CBCBC8&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.anthropic.com/news/fable-mythos-access&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;anthropic.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/0/1/50159fff55088f12070cc8a56eb51ff61006b631_2_690x362.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;2C2C2B&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.anthropic.com/news/fable-mythos-access&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Statement on the US government directive to suspend access to Fable 5 and...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;ClaudeDevs X 转贴原文翻译:&lt;br&gt;
-根据美国政府的指令，我们已暂停所有用户对 Claude Fable 5 的访问。您仍可继续使用其他所有 Claude 模型。&lt;/p&gt;
-&lt;p&gt;这对您意味着：&lt;/p&gt;
-&lt;p&gt;在 Claude 各款产品中，新会话将默认使用您选择的模型或 Opus 4.8；现有 Fable 5 会话将在运行时出现错误并自动结束。&lt;/p&gt;
-&lt;p&gt;在 Claude 平台上，针对 Fable 5 的请求也将返回错误。请将您的集成切换至其他 Claude 模型。&lt;/p&gt;
-&lt;p&gt;我们深知这会给您的工作流程带来一定影响，感谢您的理解与支持。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2392777&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>

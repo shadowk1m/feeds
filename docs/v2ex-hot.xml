@@ -4,49 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 13 Jun 2026 23:57:14 GMT</lastBuildDate>
-    <item>
-      <title>Anthropic 因美国政府要求，关闭了所有外国公民的 Fable 5/ Mythos 5 的访问权限</title>
-      <link>https://www.v2ex.com/t/1220089</link>
-      <guid>v2ex-1220089</guid>
-      <pubDate>Sat, 13 Jun 2026 01:36:32 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/4vLp3643.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.anthropic.com/news/fable-mythos-access&quot; rel=&quot;nofollow&quot;&gt;https://www.anthropic.com/news/fable-mythos-access&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在美国境内的外国人也不行，不知道他们要怎么识别。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>iPhone 17 / iPhone Air 怎么选？</title>
-      <link>https://www.v2ex.com/t/1220083</link>
-      <guid>v2ex-1220083</guid>
-      <pubDate>Sat, 13 Jun 2026 00:30:30 GMT</pubDate>
-      <description>&lt;p&gt;主力机是小米 17Pro ，最近有点想研究一下 IOS 的 App 开发，顺便买个果子手机自己用一下。&lt;/p&gt;
-&lt;p&gt;看了一下京东价格分别是 4999 和 5070 。&lt;/p&gt;
-&lt;p&gt;大佬们推荐哪个呢？&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 14 Jun 2026 03:32:01 GMT</lastBuildDate>
     <item>
       <title>为何从学校出来的大概率是牛马</title>
       <link>https://www.v2ex.com/t/1220136</link>
       <guid>v2ex-1220136</guid>
       <pubDate>Sat, 13 Jun 2026 05:00:14 GMT</pubDate>
       <description>&lt;p&gt;到底是什么知识让我们觉得自己只能是牛马&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>大家用 codex 的时候没有觉得界面很卡吗</title>
-      <link>https://www.v2ex.com/t/1220086</link>
-      <guid>v2ex-1220086</guid>
-      <pubDate>Sat, 13 Jun 2026 00:59:26 GMT</pubDate>
-      <description>&lt;p&gt;不知道是我个人感觉还是啥，感觉整个 codex 界面非常卡顿，思考的时间也很长，经常出现 time out 的情况，这是正常情况吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>有人需要换汇吗？</title>
-      <link>https://www.v2ex.com/t/1220095</link>
-      <guid>v2ex-1220095</guid>
-      <pubDate>Sat, 13 Jun 2026 01:58:32 GMT</pubDate>
-      <description>&lt;p&gt;美股不能投资了。把几万块钱现在转出到香港银行卡上了，但是转到国内比较麻烦，而且手续费也比较高，我看了下 wise 上面，基本要损失 1% 左右，想问下有老哥需要换汇吗？大概就是：你在境内（最好杭州，面对面），想转钱到香港卡，那我可以用香港卡转你，你国内再给我钱。有需要可以联系：amFtZXNqaWFuZ3g=&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -57,311 +21,120 @@
       <description>在个人的项目上，我使用 Fable 用了几个小时的 High 模式，然后又把它降到了 Low 模式，反正感觉没有太大的差异啊。&lt;br /&gt;&lt;br /&gt;还是说在编程领域纯 coding 领域模型已经到头了，它可能强在架构设计？还是在其他的领域强？</description>
     </item>
     <item>
-      <title>PVE 主机两三天就会在早上 六点左右重启一次，尝试过各种排查方法，还是找不到原因。</title>
-      <link>https://www.v2ex.com/t/1220122</link>
-      <guid>v2ex-1220122</guid>
-      <pubDate>Sat, 13 Jun 2026 03:29:57 GMT</pubDate>
-      <description>&lt;p&gt;借助 GPT ，将具体的现象、配置、排查方案写出来了，会有一点长，希望 V2 上的富有经验的大佬能给点头绪：&lt;/p&gt;
-&lt;h1&gt;PVE/FnOS 固定早上 6 点附近硬重启排查记录&lt;/h1&gt;
-&lt;p&gt;这是一台家用 Proxmox VE 主机，主要跑一个 FnOS/飞牛 NAS 虚拟机。最近多次出现早上 6 点附近自动重启，表现更像硬断电/硬复位，而不是系统内正常 reboot/shutdown 。下面是目前的硬件信息、排查过程和阶段性结论，想请大家帮忙判断更像主板/BIOS/ME/ACPI 、电源、SATA 控制器/硬盘链路，还是 PVE/FnOS/驱动层的问题。&lt;/p&gt;
-&lt;h2&gt;1. 主要现象&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;PVE 主机多次在早上 6 点附近突然重启。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;journalctl --list-boots&lt;/code&gt; 显示上一个 boot 在 5:59 左右戛然而止，随后 6:00/6:01 进入新 boot 。&lt;/li&gt;
-&lt;li&gt;重启前没有看到正常关机链路，也没有看到明确的 kernel panic 、MCE 、OOM 、pstore 崩溃记录。&lt;/li&gt;
-&lt;li&gt;NVMe SMART 的 &lt;code&gt;Unsafe Shutdowns&lt;/code&gt; 会随这类重启增加，因此更像硬断电/硬复位。&lt;/li&gt;
-&lt;li&gt;重启前自建监控记录显示 CPU 温度、NVMe 温度、负载都不高。&lt;/li&gt;
-&lt;li&gt;问题常集中在早上 6 点附近，但不是每天必现。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;2. 当前硬件和系统信息&lt;/h2&gt;
-&lt;p&gt;PVE:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Proxmox VE: &lt;code&gt;pve-manager 9.1.1&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Kernel: &lt;code&gt;6.17.2-1-pve&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Hostname: &lt;code&gt;pve&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-Kernel cmdline:&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;i915.enable_guc=3&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;i915.max_vfs=7&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;module_blacklist=xe&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;主板 / BIOS / CPU:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;主板: &lt;code&gt;MAXSUN MS-eSport Z890M&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;BIOS: &lt;code&gt;B3.4D&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;BIOS Release Date: &lt;code&gt;06/16/2025&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;CPU: &lt;code&gt;Intel Core Ultra 5 245K&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;CPU 线程: &lt;code&gt;14 CPUs&lt;/code&gt;，&lt;code&gt;14 cores&lt;/code&gt;，&lt;code&gt;1 thread per core&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;虚拟化: &lt;code&gt;VT-x&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;内存:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;当前总内存约 &lt;code&gt;32GB&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-当前插了两条 DDR5 4800:&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Maxsun 16GB&lt;/code&gt;, Part Number &lt;code&gt;MSD516G60AX5-D40M0&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;JUHOR 16GB&lt;/code&gt;, Part Number &lt;code&gt;JHE4800U4016JG&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;注意: 之前多次重启发生时只有一条 16GB 内存，2026-06-13 早上重启后才加了第二条内存。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;系统盘:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;NVMe: &lt;code&gt;ZHITAI TiPro5000&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;NVMe SMART 中 &lt;code&gt;Media and Data Integrity Errors = 0&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;但异常重启时 &lt;code&gt;Unsafe Shutdowns&lt;/code&gt; 会增加。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;PCI / 控制器:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-板载 SATA:&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;80:17.0 Intel SATA controller [8086:7f62]&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;当前驱动: &lt;code&gt;ahci&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-SATA 扩展卡:&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;83:00.0 ASMedia ASM1166 Serial ATA Controller [1b21:1166]&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;当前驱动: &lt;code&gt;ahci&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-网卡:&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Realtek RTL8125 2.5GbE&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;之前测试中拔掉过 UPS USB ，只留过 USB 网卡；后续也拔掉过 USB 网卡做排除。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3. 当前硬盘和 FnOS 虚拟机配置&lt;/h2&gt;
-&lt;p&gt;当前 PVE 能看到 9 块 SATA 硬盘。&lt;/p&gt;
-&lt;p&gt;板载 Intel SATA 上的 4 块盘:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;sda  WDC WUH721816ALE6L4    4MGYAVMH    14.6T
-sdb  WDC WD200EDGZ-11CNKA0  SSG538VD    18.2T
-sdc  WDC WUH721816ALE6L4    2BJE0JTN    14.6T
-sdd  WDC WUH721816ALE6L4    2JJGZEJB    14.6T
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;ASMedia ASM1166 上的 5 块盘:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;sde  TOSHIBA MG08ACA14TE      5160A01BFRVH  12.7T
-sdf  TOSHIBA DT01ACA300       38SJTMEAS      2.7T
-sdg  WDC WD140EDGZ-11B1PA0    7LGHSPUK      12.7T
-sdh  ST2000DM006-2DM164       Z4Z80PNS       1.8T
-sdi  WDC WD100EMAZ-00WJTA0    JEKV1V2Z       9.1T
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;FnOS VM:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;VMID: &lt;code&gt;105&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Name: &lt;code&gt;FnOS&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Machine: &lt;code&gt;q35&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;CPU: &lt;code&gt;host&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Cores: &lt;code&gt;8&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Memory: &lt;code&gt;10144 MB&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;系统盘: &lt;code&gt;sata0 local-lvm:vm-105-disk-0,size=200G&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;当前采用硬盘路径直通，不是整控制器直通。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当前 FnOS 直通盘:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;sata1: /dev/disk/by-id/ata-TOSHIBA_MG08ACA14TE_5160A01BFRVH
-sata2: /dev/disk/by-id/ata-TOSHIBA_DT01ACA300_38SJTMEAS
-sata3: /dev/disk/by-id/ata-WDC_WD140EDGZ-11B1PA0_7LGHSPUK
-sata4: /dev/disk/by-id/ata-ST2000DM006-2DM164_Z4Z80PNS
-sata5: /dev/disk/by-id/ata-WDC_WD100EMAZ-00WJTA0_JEKV1V2Z
-scsi1: /dev/disk/by-id/ata-WDC_WUH721816ALE6L4_4MGYAVMH
-scsi2: /dev/disk/by-id/ata-WDC_WD200EDGZ-11CNKA0_SSG538VD
-scsi3: /dev/disk/by-id/ata-WDC_WUH721816ALE6L4_2BJE0JTN
-scsi4: /dev/disk/by-id/ata-WDC_WUH721816ALE6L4_2JJGZEJB
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;说明:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;之前曾经用过 SATA 控制器直通。&lt;/li&gt;
-&lt;li&gt;后来为了排查，改成了单盘 by-id 直通。&lt;/li&gt;
-&lt;li&gt;也测试过 &lt;code&gt;vfio-pci&lt;/code&gt; 绑定 SATA 控制器，但后来按“硬盘直通”思路取消了 PCI 隔离，目前两个 SATA 控制器都由 PVE 的 &lt;code&gt;ahci&lt;/code&gt; 接管。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;4. 已记录到的异常重启证据&lt;/h2&gt;
-&lt;p&gt;部分 boot history:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;Sat 2026-05-30 06:01:21 进入新 boot
-Tue 2026-06-09 05:59:57 上一个 boot 截止
-Tue 2026-06-09 06:00:39 进入新 boot
-Sat 2026-06-13 05:59:44 上一个 boot 截止
-Sat 2026-06-13 06:01:14 进入新 boot
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;2026-06-13 早上这次比较关键:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;上一个 boot: &lt;code&gt;2026-06-11 22:58:33&lt;/code&gt; 到 &lt;code&gt;2026-06-13 05:59:44&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;新 boot: &lt;code&gt;2026-06-13 06:01:14&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-重启前最后 heartbeat:&lt;ul&gt;
-&lt;li&gt;时间: &lt;code&gt;2026-06-13T05:59:44+08:00&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;FnOS 状态: &lt;code&gt;running&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;负载: &lt;code&gt;0.10 0.11 0.09&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;内存: 总计约 &lt;code&gt;15465M&lt;/code&gt;，可用约 &lt;code&gt;3452M&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;CPU/NVMe 温度约 &lt;code&gt;43-44C&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;NVMe &lt;code&gt;Unsafe Shutdowns&lt;/code&gt; 在这次异常后从 &lt;code&gt;96&lt;/code&gt; 增到 &lt;code&gt;97&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这次重启发生时，原来那 4 块板载 SATA 硬盘已经被拔掉/不参与，只保留了 ASM1166 扩展卡上的 5 块盘。因此“板载 SATA 那 4 块盘或板载 SATA 控制器是必要触发条件”这个假设基本被削弱；至少已经做过“仅扩展卡 5 块盘”的测试，且仍然复现 6 点附近异常重启。&lt;/p&gt;
-&lt;p&gt;2026-06-13 10:35 到 10:54 还有一次关机/开机:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;这是人为加内存、插回 4 块硬盘导致的维护关机。&lt;/li&gt;
-&lt;li&gt;这次没有增加 NVMe &lt;code&gt;Unsafe Shutdowns&lt;/code&gt;，和 6 点异常重启性质不同。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;5. 已做过的排查和变更&lt;/h2&gt;
-&lt;p&gt;电源/外部供电:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;怀疑过智能插座/插线板。&lt;/li&gt;
-&lt;li&gt;同一个插线板上接了一个断电就会熄灭的台灯，异常期间台灯未灭。&lt;/li&gt;
-&lt;li&gt;这能降低“外部市电/插线板整体断电”的可能性，但不能排除主机电源、SATA 供电线、瞬态负载、主板复位。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;BIOS:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;进 BIOS 看过，没有发现 RTC 定时开机配置。&lt;/li&gt;
-&lt;li&gt;没有开启断电后自动开机。&lt;/li&gt;
-&lt;li&gt;没找到明确的 watchdog 设置。&lt;/li&gt;
-&lt;li&gt;BIOS 中能看到一些电源管理选项，但没有发现能解释固定 6 点自动启动/重启的配置。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;PVE 服务:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;停掉过一些不必要的 PVE 集群/HA 相关服务。&lt;/li&gt;
-&lt;li&gt;启动日志里仍有 &lt;code&gt;corosync/quorum_initialize failed&lt;/code&gt; 之类信息，但这类信息出现在开机阶段，更像单节点/集群服务状态问题，不像重启前触发原因。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;监控:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-配了自定义 heartbeat 和 boot report:&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;/var/log/pve-watch/heartbeat.log&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;/var/log/pve-watch/boot-report.log&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;这些日志能记录每分钟左右的温度、负载、内存、FnOS 状态、NVMe SMART 、上一次 heartbeat 等。&lt;/li&gt;
-&lt;li&gt;目前证据显示异常发生前温度、负载并不高。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;USB:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;UPS 的 USB 线曾经拔掉。&lt;/li&gt;
-&lt;li&gt;USB 网卡也拔掉做过排查。&lt;/li&gt;
-&lt;li&gt;目前没有看到 USB 设备直接导致重启的证据。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;FnOS / 硬盘直通:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;之前 FnOS 使用过 SATA 控制器直通。&lt;/li&gt;
-&lt;li&gt;后来改成硬盘 by-id 直通，以便做交叉测试。&lt;/li&gt;
-&lt;li&gt;测试过只接 5 块盘，仍然在 2026-06-13 早上 6 点附近重启。&lt;/li&gt;
-&lt;li&gt;这 5 块盘是在 ASM1166 SATA 扩展卡上；当时板载 SATA 的 4 块盘已经拔掉/不参与，所以“禁用/不使用板载 SATA 硬盘链路”这个方向已经测试过。&lt;/li&gt;
-&lt;li&gt;后续又插回原来 4 块盘，并将 9 块盘都直通给 FnOS 。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;硬盘 SMART / SATA 错误:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;插回原来 4 块盘后，&lt;code&gt;smartd&lt;/code&gt; 报过两块盘 ATA error count 增加:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;/dev/sda WDC WUH721816ALE6L4 4MGYAVMH:
-ATA error count increased from 0 to 578
-
-/dev/sdc WDC WUH721816ALE6L4 2BJE0JTN:
-ATA error count increased from 476 to 2113
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;这说明原来那组板载 SATA 上至少有两块盘/链路存在历史或累计 ATA 错误。&lt;/li&gt;
-&lt;li&gt;但 2026-06-13 早上 6 点那次重启发生时这 4 块盘不在机器上，所以这些错误不能单独解释那次 6 点重启。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;6. 目前倾向排除或证据较弱的方向&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;普通系统内 &lt;code&gt;reboot&lt;/code&gt;/&lt;code&gt;shutdown&lt;/code&gt;: 没有正常关机链路。&lt;/li&gt;
-&lt;li&gt;温度过高: 重启前监控温度正常。&lt;/li&gt;
-&lt;li&gt;明确 OOM: 没看到 OOM 证据。&lt;/li&gt;
-&lt;li&gt;明确 kernel panic/MCE: 当前没有抓到 panic 、MCE 、pstore 证据。&lt;/li&gt;
-&lt;li&gt;仅由原来 4 块板载 SATA 硬盘或板载 SATA 控制器导致: 可能性明显下降，因为只保留 ASM1166 扩展卡上 5 块盘、板载 SATA 4 块盘不参与时也重启过。&lt;/li&gt;
-&lt;li&gt;仅由新加的第二条内存导致: 不成立，因为第二条内存是 2026-06-13 早上重启后才加的。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;7. 仍保留的重点怀疑方向&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;主板 / BIOS / ME / ACPI / 电源管理 / 平台复位问题&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;启动时有较多 ACPI BIOS Error ，例如 &lt;code&gt;Could not resolve symbol [\_SB.UBTC.RUCC]&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;不确定这些 ACPI 错误是否只是常见无害日志，还是和 USB/电源管理/平台复位有关。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;电源或供电瞬态问题&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;台灯未灭只能说明外部供电没有整体断。&lt;/li&gt;
-&lt;li&gt;不能排除 PSU 、SATA 电源线、硬盘同时唤醒/负载变化导致的瞬时掉压或主板复位。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SATA 扩展卡 ASM1166 / SATA 链路 / 硬盘组合问题&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;只接 ASM1166 扩展卡上的 5 块盘时也出现 6 点重启。&lt;/li&gt;
-&lt;li&gt;原来板载 SATA 4 块盘中又有两块出现 ATA error count 。&lt;/li&gt;
-&lt;li&gt;可能不是单一硬盘，而是硬盘、供电线、SATA 线、扩展卡、主板 PCIe/SATA 子系统共同触发。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;FnOS 6 点附近任务触发的负载&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;异常重启前 FnOS 是 running 。&lt;/li&gt;
-&lt;li&gt;如果 FnOS 在 6 点有备份、校验、索引、清理、SMART 、快照、Time Machine 相关任务，可能触发大量磁盘 IO 或硬盘唤醒。&lt;/li&gt;
-&lt;li&gt;但这更像“触发器”，不一定是根因，因为宿主机是硬复位级别。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;PVE 9.1 / kernel 6.17 / 新平台驱动兼容性&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Z890 + Core Ultra 平台较新。&lt;/li&gt;
-&lt;li&gt;也可能和 kernel 6.17 、AHCI 、IOMMU 、虚拟化、iGPU SR-IOV 参数有关。&lt;/li&gt;
-&lt;li&gt;可以考虑用旧一点的 PVE kernel 6.8 做对照测试。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;8. 想请大家帮忙判断的问题&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;这种每次 &lt;code&gt;journalctl&lt;/code&gt; 截止在 5:59 ，随后 6:00/6:01 新 boot ，且 NVMe &lt;code&gt;Unsafe Shutdowns&lt;/code&gt; 增加的情况，是否基本可以判断为硬复位/断电类，而不是 Linux 正常崩溃？&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;MAXSUN Z890M / Arrow Lake / Core Ultra 245K 在 Linux/PVE 下，启动日志里的这些 ACPI BIOS Error 是否可能和定时硬复位有关？&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ASM1166 SATA 扩展卡 + 多块机械硬盘，在每天固定任务时间附近触发整机 reset ，是否有人遇到过？&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;如果要进一步区分主板、电源、SATA 扩展卡、硬盘、PVE kernel/FnOS 任务，下一步最有效的交叉测试应该怎么设计？&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;是否建议优先:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;换 PSU / 单独给硬盘供电；&lt;/li&gt;
-&lt;li&gt;换 SATA 扩展卡；&lt;/li&gt;
-&lt;li&gt;BIOS 升级/降级或更新 ME ；&lt;/li&gt;
-&lt;li&gt;PVE 切回 kernel 6.8 ；&lt;/li&gt;
-&lt;li&gt;FnOS 停机跨过 6 点；&lt;/li&gt;
-&lt;li&gt;跑 MemTest86 ；&lt;/li&gt;
-&lt;li&gt;暂停 FnOS 所有 6 点附近任务；&lt;/li&gt;
-&lt;li&gt;给 PVE 配串口/netconsole/远端 syslog 抓崩溃前最后输出？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;9. 我目前自己的阶段性判断&lt;/h2&gt;
-&lt;p&gt;现在最不像的是普通软件层面的正常重启；更像硬断电/硬复位。由于只保留 5 块 ASM1166 硬盘时仍然重启，不能再简单归因于原来那 4 块硬盘。但原来 4 块盘中两块有明显 ATA error count ，也说明存储链路确实存在问题。&lt;/p&gt;
-&lt;p&gt;目前我个人更倾向优先怀疑:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;主板/BIOS/ME/ACPI/平台电源管理或复位问题；&lt;/li&gt;
-&lt;li&gt;PSU 或 SATA 供电瞬态问题；&lt;/li&gt;
-&lt;li&gt;ASM1166/SATA/硬盘组合在 FnOS 6 点任务触发下造成硬件级异常；&lt;/li&gt;
-&lt;li&gt;PVE kernel 6.17 在这套较新平台上的兼容性问题。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;下一步我倾向做的排除测试:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;FnOS 关机跨过 6 点，验证 PVE 空载是否还重启。&lt;/li&gt;
-&lt;li&gt;若 PVE 空载稳定，再启动 FnOS 但关闭 6 点附近所有任务。&lt;/li&gt;
-&lt;li&gt;用 PVE kernel 6.8 做对照。&lt;/li&gt;
-&lt;li&gt;跑 MemTest86 ，尤其现在是两条不同品牌 DDR5 。&lt;/li&gt;
-&lt;li&gt;对 &lt;code&gt;/dev/sda&lt;/code&gt; 和 &lt;code&gt;/dev/sdc&lt;/code&gt; 做完整 SMART 检查和长测。&lt;/li&gt;
-&lt;li&gt;有条件的话换 PSU 或给机械硬盘单独供电测试。&lt;/li&gt;
-&lt;li&gt;有条件的话换掉 ASM1166 扩展卡，或反过来只用板载 SATA 跨 6 点做对照；“仅扩展卡 5 盘”已经测过且复现。&lt;/li&gt;
-&lt;/ul&gt;
+      <title>会不会有人为了跟随 AI 的 5 小时重置节奏去尝试多阶段睡眠🤔</title>
+      <link>https://www.v2ex.com/t/1220217</link>
+      <guid>v2ex-1220217</guid>
+      <pubDate>Sat, 13 Jun 2026 13:53:40 GMT</pubDate>
+      <description>&lt;p&gt;也叫做达芬奇睡眠&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zh.wikipedia.org/zh-cn/%E5%A4%9A%E9%98%B6%E6%AE%B5%E7%9D%A1%E7%9C%A0&quot; rel=&quot;nofollow&quot;&gt;https://zh.wikipedia.org/zh-cn/多阶段睡眠&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>独立开发的 macOS 应用让破解站收录了，心里五味杂陈</title>
+      <link>https://www.v2ex.com/t/1220128</link>
+      <guid>v2ex-1220128</guid>
+      <pubDate>Sat, 13 Jun 2026 04:05:07 GMT</pubDate>
+      <description>&lt;p&gt;今天早上一看，折腾了很久的 macOS 应用 Aion 让破解站（ MacKed ）给收录了。&lt;/p&gt;
+&lt;p&gt;当时第一反应有点微妙：一方面有点自豪，毕竟有人愿意花时间去破，说明折腾出来的东西确实有用；另一方面摸摸口袋，最近本来收入就下滑，看着直链下载确实心凉。&lt;/p&gt;
+&lt;p&gt;简单说说这个 App ，叫 Aion （官网： &lt;a href=&quot;https://aion.7caifei.com/&quot; rel=&quot;nofollow&quot;&gt;https://aion.7caifei.com/&lt;/a&gt; ）。&lt;/p&gt;
+&lt;p&gt;做它的初衷是嫌市面上的自动退出软件太死板，经常把我挂着的下载或者视频会议给强退了。Aion 做的是“上下文感知退出”：不会傻傻地倒计时，而是会检测你的网络流量、音视频播放，甚至摄像头和麦克风使用状态。如果确定你在开会或下大文件，就先保护起来不退；退出也是走标准 Apple 事件，会提示保存，不至于丢数据。软件完全在本地运行。&lt;/p&gt;
+&lt;p&gt;顺便也想请教下各位前辈：大家做 macOS 独立开发，刚起步遇到破解一般怎么调节心态？技术上有没有什么成本低、见效快的防逆向/防破解手段（比如检测运行时签名）？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>做了一个京东自动保价的插件，留言送一年会员</title>
+      <link>https://www.v2ex.com/t/1220134</link>
+      <guid>v2ex-1220134</guid>
+      <pubDate>Sat, 13 Jun 2026 04:54:35 GMT</pubDate>
+      <description>&lt;p&gt;地址 &lt;a href=&quot;https://gitee.com/nnlsm/baojiajingling&quot; rel=&quot;nofollow&quot;&gt;https://gitee.com/nnlsm/baojiajingling&lt;/a&gt;
+叫保价精灵
+以前京东保价需要自己盯着，很麻烦，需要每天打开京东才行。有了这个 chrome 插件，可以每天自动保价，解放了自己
+免费版每月 1-15 号自动保价，付费版天天保价
+如果需要的话，下载安装插件，留言插件界面最下面显示的 pin ，给你生成激活码，谢谢，只要留言就免费一年，不限制留言时间&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>赶在被封前，用 Claude Fable 做了个免费的 AI 入门课程</title>
+      <link>https://www.v2ex.com/t/1220127</link>
+      <guid>v2ex-1220127</guid>
+      <pubDate>Sat, 13 Jun 2026 03:49:52 GMT</pubDate>
+      <description>&lt;p&gt;这门课程几乎零数学、靠可视化和动手交互来讲透 AI 原理。&lt;/p&gt;
+&lt;p&gt;6 个阶段 30 课，从&quot;单个神经元&quot;到&quot;亲手搭一个 RAG
+应用&quot;，每课都能边看边调参数。&lt;/p&gt;
+&lt;p&gt;专为中文学习者设计&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://aipath.buynao.com&quot; rel=&quot;nofollow&quot;&gt;https://aipath.buynao.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;觉得有点用的，可以留个 star&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/buynao/aipath&quot; rel=&quot;nofollow&quot;&gt;https://github.com/buynao/aipath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[送永久会员] 手机壁纸工坊 APP，轻松制作有质感、极简壁纸</title>
+      <link>https://www.v2ex.com/t/1220166</link>
+      <guid>v2ex-1220166</guid>
+      <pubDate>Sat, 13 Jun 2026 08:19:39 GMT</pubDate>
+      <description>&lt;p&gt;又打磨了几个月，现在 APP 支持的背景效果更多了&lt;/p&gt;
+&lt;h2&gt;关于&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://makepaper.app&quot; rel=&quot;nofollow&quot;&gt;MakePaper&lt;/a&gt; 旨在让你轻松制作有质感的极简壁纸，经过最近一段时间的迭代，APP 的重心已经不再仅仅是制作文字壁纸，提供了更多的色彩组合，提供更多可能性。&lt;/p&gt;
+&lt;h2&gt;一部分成品图&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&quot;img1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://www.v2ex.com/i/HUW3tynJ.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;送码&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;iOS
+
+PNRTPMRJEKAH7W7TLH
+7LJWXAA7KKR4WT7TYF
+NMJ4P7HATPRXY6E8XR
+MRHE6LEYMJKKEFK3FJ
+N4A8PMR8N7AMNTN6WH
+4ATXA4A4ELL6N7WEL8
+R3MRE7FKRPK3F8J7WM
+YWTWN66FX8FNNLJFPJ
+LHTHNH6MT4TFEH86NJ
+YTFL8LYW8Y7LXKXY6R
+8N8PRNHPY47JMN3873
+KXKMYWRLLLYMRPY4PL
+6T4JT6TAEF7J6WT86P
+NJYLJNK7N7MRE3JRT6
+JXLYLL3N47WEKYKAK6
+XNXHN3AMTR8KRMJ4NH
+P7AEYAKRH8EKP3JX4R
+T6YNPAA8PFXPLXTXA3
+JTEAXHXENTJ4ELMA68
+XT4Y3YAJL833RT36EL
+
+Android
+
+Q2KBKE0TNYEKH6NDH32S2RJ
+U8S9WPT7624MKHP1ZSC842N
+7A9Y37WRPU7CMKS5FSLYQN5
+CS0BWMDV0E2PWBJYH77PWFP
+GKQA1D7943GQ60D3H6WQBK3
+K2FLG2KVCWPCNT019C51CD0
+1LBYQHE5MZH4W55ZKQPMUE0
+Q8KFAPMY82K7T4M19DQW7NL
+DS0FRWJRTWE9JTM7NXKKMJQ
+YHVDGE6D8XVS6SN1W6FPN25
+JW9U7KFFFHB93UFQ5RMTJG6
+SXWC0GY5ZUE6RWYCSPZF1DA
+GFS5N7RQ7B5UUPY46530RXB
+YBGBX1BCX4K9UJ7Z61G809G
+P0M4HU5EJNRURV05PZADWM3
+7YWJFFH8UVLMSLY18VV3DZ7
+2Z6L0U7DDQL2RE0M5XQLTWF
+6SPRX118JC3J6M9YA03LNJV
+PC6UV4LU574KFMPBBVHKMS5
+S50QP9ZAX4C2H1PD1JJ7EW0
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这里送出 iOS 和 Android 各 20 个 lifetime 兑换码，希望大家喜欢！&lt;/p&gt;
+&lt;p&gt;兑换过码的朋友希望留个言，说下用了哪个，谢谢！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Java 确实是内存高效的</title>
+      <link>https://www.v2ex.com/t/1220193</link>
+      <guid>v2ex-1220193</guid>
+      <pubDate>Sat, 13 Jun 2026 11:51:37 GMT</pubDate>
+      <description>&lt;div class=&quot;embedded_video_wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/M_HCG1JPMQE&quot; class=&quot;embedded_video&quot; allowfullscreen=&quot;&quot; type=&quot;text/html&quot; id=&quot;ytplayer&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br /&gt;TLDR:&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/pg6ufa9Ll.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 pg6ufa9Ll.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/pg6ufa9Ll.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
