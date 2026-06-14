@@ -4,7 +4,18 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sun, 14 Jun 2026 21:47:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:58:31 GMT</lastBuildDate>
+    <item>
+      <title>土区还有500余额，还有什么值得消费的？</title>
+      <link>https://linux.do/t/topic/2403073</link>
+      <guid>linux.do-topic-2403073</guid>
+      <pubDate>Sun, 14 Jun 2026 22:48:39 GMT</pubDate>
+      <description>
+            &lt;p&gt;GPT已经涨价了，这余额还有什么值得买的吗？&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2403073&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>A社顶级人工智能科学家因为不是美国人无法使用fable模型</title>
       <link>https://linux.do/t/topic/2402761</link>
@@ -920,55 +931,6 @@ This setup lets us make changes to the integration layer easily within our repo.
 &lt;p&gt;&lt;strong&gt;暂时未证明真伪&lt;/strong&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;11 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2397672&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>里约热内卢市政信息公司发布 Rio 3.5 Open 397B 模型</title>
-      <link>https://linux.do/t/topic/2397548</link>
-      <guid>linux.do-topic-2397548</guid>
-      <pubDate>Sat, 13 Jun 2026 18:12:06 GMT</pubDate>
-      <description>
-            &lt;p&gt;基于 Qwen 3.5 397B，跑分超越 Qwen 3.7 Plus&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/8/0/1802be66c7345c4b52b86184bb92a307a1591e35.png&quot; data-download-href=&quot;/uploads/short-url/3qpkWlLcNnCHnzJlBCYp5lrsy33.png?dl=1&quot; title=&quot;rio-3.5-open-benchmarks&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/8/0/1802be66c7345c4b52b86184bb92a307a1591e35_2_690x427.png&quot; alt=&quot;rio-3.5-open-benchmarks&quot; data-base62-sha1=&quot;3qpkWlLcNnCHnzJlBCYp5lrsy33&quot; width=&quot;690&quot; height=&quot;427&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/8/0/1802be66c7345c4b52b86184bb92a307a1591e35_2_690x427.png, https://cdn3.ldstatic.com/optimized/4X/1/8/0/1802be66c7345c4b52b86184bb92a307a1591e35_2_1035x640.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/8/0/1802be66c7345c4b52b86184bb92a307a1591e35_2_1380x854.png 2x&quot; data-dominant-color=&quot;E1E7F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-拥抱脸：&lt;p&gt;&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;huggingface.co&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/372;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/d/b/5db5ca4e7333be60c8bf2b0997e0e1d44abbd74e_2_690x372.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;5B70A4&quot; width=&quot;690&quot; height=&quot;372&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;prefeitura-rio/Rio-3.5-Open-397B · Hugging Face&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;We’re on a journey to advance and democratize artificial intelligence through open source and open science.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Rio 3.5 Open 397B是由里约热内卢市政府的市政信息技术公司&lt;a href=&quot;https://iplanrio.rio.rj.gov.br/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;IplanRIO&lt;/a&gt;开发的前沿通用人工智能模型。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;s&gt;&lt;em&gt;这都啥啊&lt;/em&gt;&lt;/s&gt;&lt;/p&gt;
-&lt;aside class=&quot;quote no-group&quot; data-username=&quot;Meteonis&quot; data-post=&quot;7&quot; data-topic=&quot;2397548&quot; data-full=&quot;true&quot;&gt;
-&lt;div class=&quot;title&quot;&gt;
-&lt;div class=&quot;quote-controls&quot;&gt;&lt;/div&gt;
-&lt;img alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot; src=&quot;https://cdn.ldstatic.com/letter_avatar/meteonis/48/5_82eae4ed8866f2911d81590c3c2c7791.png&quot; class=&quot;avatar&quot;&gt; Meteonis:&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Nex 团体出来开锤了，是直接搬运的 Nex-N2-Pro 权重： &lt;a href=&quot;https://github.com/nex-agi/Nex-N2/issues/4&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Rio-3.5-Open-397B ≈ 0.6 x Nex-N2_pro + 0.4 x Qwen · Issue #4 · nex-agi/Nex-N2 · GitHub&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/aside&gt;
-&lt;p&gt;那就不奇怪了&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2397548&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
