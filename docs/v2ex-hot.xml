@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 14 Jun 2026 22:58:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:06:46 GMT</lastBuildDate>
     <item>
       <title>这 GLM 的 token plan 根本买不到啊</title>
       <link>https://www.v2ex.com/t/1220264</link>
@@ -83,11 +83,48 @@
 </description>
     </item>
     <item>
-      <title>介于国行 iPhone 和外版差距越来越大，想换国内安卓了，求推荐品牌系列</title>
-      <link>https://www.v2ex.com/t/1220372</link>
-      <guid>v2ex-1220372</guid>
-      <pubDate>Sun, 14 Jun 2026 12:48:52 GMT</pubDate>
-      <description>介于国行 iPhone 和外版差距越来越大，想换国内安卓了，求推荐品牌系列</description>
+      <title>正式发布 Pastel - 迄今空前强大的一款 IPA 下载工具 (macOS)</title>
+      <link>https://www.v2ex.com/t/1220322</link>
+      <guid>v2ex-1220322</guid>
+      <pubDate>Sun, 14 Jun 2026 07:46:27 GMT</pubDate>
+      <description>&lt;p&gt;做了一个 macOS App：Pastel ，一个用于下载 IPA 历史版本的小工具。&lt;/p&gt;
+&lt;p&gt;GitHub： &lt;a href=&quot;https://github.com/EEliberto/IPA-Download&quot; rel=&quot;nofollow&quot;&gt;https://github.com/EEliberto/IPA-Download&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;它主要能做什么&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;在不同地区的 App Store 里搜索和查看 App&lt;/li&gt;
+&lt;li&gt;根据 Apple 账户地区自动选择对应商店&lt;/li&gt;
+&lt;li&gt;获取 App 的历史版本 ID ，并下载对应版本 IPA&lt;/li&gt;
+&lt;li&gt;下载完成后可以在 App 内预览 IPA 的图标&lt;/li&gt;
+&lt;li&gt;可以直接通过 AirDrop 发送到 iPhone / iPad&lt;/li&gt;
+&lt;li&gt;支持简体中文、繁体中文、日语、韩语、泰语&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;主界面&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/690166e2-78ad-42f8-9db2-40b79e435b71&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/f3685fee-445f-41bc-8fea-2d1e602dec92&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;下载页面&lt;/h2&gt;
+&lt;p&gt;下载完成后，可以直接看到已下载的 IPA 文件，并预览 App Icon 。对于一些节假日特殊图标、广告图标之类的版本会比较方便。点击分享按钮后，也可以直接 AirDrop 到 iPhone / iPad 。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/1de14592-ebc6-4ee7-9b0c-17e7e0073171&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;Apple 账户与地区&lt;/h2&gt;
+&lt;p&gt;初次使用需要在“设置”&amp;gt;“Apple 账户”里添加账号。账号数据保存在 iCloud Keychain 。登录后会识别 Apple 账户所属地区，并在切换地区时自动选择对应商店。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/c9efab09-2c9e-4593-908a-f01845b88465&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;多语言&lt;/h2&gt;
+&lt;p&gt;目前支持简体中文、繁体中文、日语、韩语和泰语。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/e6ef07a0-8834-457d-87f7-0bea14b45633&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;历史版本来源&lt;/h2&gt;
+&lt;p&gt;目前整合了 Timbrd 、Agsy 、Bilin 等来源的版本 ID 信息，也可以从 Apple 账户侧获取。如果你自己知道版本 ID ，也可以手动输入下载。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/4de67361-8727-4705-8718-f9be81bc7b01&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;系统要求&lt;/h2&gt;
+&lt;p&gt;目前只支持：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS 26+&lt;/li&gt;
+&lt;li&gt;Apple Silicon Mac&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;暂时没有 Windows 版本计划，因为我手边没有 Windows 设备。&lt;/p&gt;
+&lt;h2&gt;说明&lt;/h2&gt;
+&lt;p&gt;这个工具主要是给需要回退旧版本、测试旧版本、或者保存自己账号可获取应用版本的人用。&lt;/p&gt;
+&lt;p&gt;项目已经开源，欢迎试用、提 Issue 或者提 PR 。&lt;/p&gt;
+&lt;p&gt;GitHub： &lt;a href=&quot;https://github.com/EEliberto/IPA-Download&quot; rel=&quot;nofollow&quot;&gt;https://github.com/EEliberto/IPA-Download&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
