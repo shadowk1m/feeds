@@ -4,50 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 17 Jun 2026 22:28:39 GMT</lastBuildDate>
-    <item>
-      <title>极客玩具， 618 先送为敬！</title>
-      <link>https://www.v2ex.com/t/1220946</link>
-      <guid>v2ex-1220946</guid>
-      <pubDate>Tue, 16 Jun 2026 23:04:32 GMT</pubDate>
-      <description>&lt;p&gt;这次的主角，依然是我们的 [变色龙 Ultra ] , 一款开源的 NFC 渗透工具。&lt;/p&gt;
-&lt;p&gt;半年前随手发过一帖，意外收获了 1200+ 跟帖，但当时只送了一个，可惜很多兄弟没有玩到。&lt;/p&gt;
-&lt;p&gt;这次我们准备了 10 台，趁 618 送福利！&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;在开抢之前，给还不熟悉的朋友简单介绍下这是个啥玩意。 &lt;/p&gt;
-&lt;p&gt;变色龙 Ultra 是一款开源的 NFC 读写渗透测试工具&lt;br/&gt;
-项目地址： &lt;a href=&quot;https://github.com/RfidResearchGroup/ChameleonUltra/&quot; rel=&quot;nofollow&quot;&gt;https://github.com/RfidResearchGroup/ChameleonUltra/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Scene&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://chameleonultra.cn/others/ChameleonUltra-Scene.webp&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;它能干什么？&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;对 NFC 卡片进行破解、读取、模拟、写卡；&lt;/li&gt;
-&lt;li&gt;使用 CLI 客户端研究 NFC 通信过程和破解算法；&lt;/li&gt;
-&lt;li&gt;日常实用工具：复制门禁卡、把多张卡存进设备方便携带、给安卓手机内置 NFC 写入加密卡，或者在同事面前装 X 。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;我们的目标&lt;/h3&gt;
-&lt;p&gt;除了销售设备，我们主要是在客户端上实现破解算法；设备本身只能收发 NFC 指令，收集通讯信息。&lt;/p&gt;
-&lt;p&gt;目前小程序已针对 M1 卡（常见的门禁卡）实现了 Darkside 、Nested 、Brute 、嗅探等破解算法，覆盖 95% 以上的 M1 卡，且耗时运算全部交给云函数，使用简单流畅。同时，小程序还集成了卡包、设备卡槽管理、卡片分享等便捷功能，非常适合日常使用。&lt;/p&gt;
-&lt;p&gt;至于 CPU 卡（例如校园卡、部分工牌等），可以复制卡号，通常能过门禁权限；任天堂的 Amiibo 卡也能用变色龙模拟（需 APP 操作），随时解锁新道具。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;mini-program&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://chameleonultra.cn/others/miniProgram.gif&quot;/&gt;
-&lt;img alt=&quot;QR-Code&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://chameleonultra.cn/others/QR-Code.png&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;废话不多说，下面是大家最喜欢的抽奖环节&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;前 3 楼，&lt;strong&gt;送！&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;点赞最高的前 3 楼，&lt;strong&gt;送！&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;截止时总楼数随机抽 3 个，&lt;strong&gt;送！&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;截止时间的最后一条评论，&lt;strong&gt;送！&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;抽奖截止时间：北京时间 6.17 23:00&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;没抽到怎么办？ 购买后晒图评价，找客服返 &lt;strong&gt;20 元现金！&lt;/strong&gt;(6.20 日前下单有效）&lt;/p&gt;
-&lt;p&gt;如果喜欢这款小设备，可以直接在下面链接购买，中奖幸运儿下单任意规格确认收货后联系客服全额返现。&lt;/p&gt;
-&lt;p&gt;下单链接或者淘宝扫下方二维码（送保护套，专属钥匙扣）
-&lt;a href=&quot;https://detail.tmall.com/item.htm?id=1054044255100&quot; rel=&quot;nofollow&quot;&gt;https://detail.tmall.com/item.htm?id=1054044255100&lt;/a&gt;
-&lt;img alt=&quot;buy-QR&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://chameleonultra.cn/others/buy-QR.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;for v2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://chameleonultra.cn/others/ForV2.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 23:55:44 GMT</lastBuildDate>
     <item>
       <title>讨薪 2 年，仲裁+执行+股东追责全走一遍，开庭两个月后法院让补交 3w 诉讼费</title>
       <link>https://www.v2ex.com/t/1220975</link>
@@ -151,6 +108,26 @@
 &lt;p&gt;&lt;strong&gt;最近有哪些券商优惠？&lt;/strong&gt; 点这里查看： &lt;a href=&quot;https://laojuelv.com/kh/?utm_source=v2ex&amp;amp;utm_campaign=202606a&quot; rel=&quot;nofollow&quot;&gt;laojuelv.com&lt;/a&gt;  （开户送神秘🎁，推荐朋友有🧧）&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/186OJDmbl.jpeg&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;(不因奖品而参与股市，得不偿失！)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>看了半天都选不出个能用的显示器了，镜面+抗反两条直接毙掉一大片</title>
+      <link>https://www.v2ex.com/t/1220969</link>
+      <guid>v2ex-1220969</guid>
+      <pubDate>Wed, 17 Jun 2026 01:34:03 GMT</pubDate>
+      <description>&lt;p&gt;选一个 Mac 的显示器（电视也行），之前用惯了 LG G4 55 寸当显示器，现在想再整一个&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;镜面屏、&lt;/li&gt;
+&lt;li&gt;抗反有 LGG4 这种程度的、&lt;/li&gt;
+&lt;li&gt;27 寸以下、&lt;/li&gt;
+&lt;li&gt;只要 4k 分辨率不要 5k （因为 windows 也要用，studio display 还是 pass ，而且确实太贵了）&lt;/li&gt;
+&lt;li&gt;支持 HDR 杜比视界的显示器，&lt;/li&gt;
+&lt;li&gt;均匀性也得也不错，&lt;/li&gt;
+&lt;li&gt;90w+的 type-c 一线通有很好没有也可以，&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;然后看了一堆评测，不论 miniled 还是 oled ，好像完全没有满足条件的……&lt;/p&gt;
+&lt;p&gt;实在不行那就增加体积吧？结果发现 LG G6 48 寸还没有抗反，我也是服了。&lt;/p&gt;
+&lt;p&gt;那只能买个小米 A27U 27 寸先用着了，既然达不到要求那就选个基础款先凑合用着，过几年显示器进步了再说……&lt;/p&gt;
 </description>
     </item>
   </channel>
