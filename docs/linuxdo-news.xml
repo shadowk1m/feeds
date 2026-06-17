@@ -4,7 +4,227 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Wed, 17 Jun 2026 11:59:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:36:48 GMT</lastBuildDate>
+    <item>
+      <title>这个3B的模型，只提升可定量打分的能力，应该说是超级做题家吗？难道本地coding agent的时代来了？</title>
+      <link>https://linux.do/t/topic/2424846</link>
+      <guid>linux.do-topic-2424846</guid>
+      <pubDate>Wed, 17 Jun 2026 15:13:08 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/1/d/01d024a4c6ba0269636d8b9cf97cfbcb756f0025.png&quot; data-download-href=&quot;/uploads/short-url/g2qavNaiRqznZpLyJfKKz0FGYt.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/1/d/01d024a4c6ba0269636d8b9cf97cfbcb756f0025_2_690x137.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;g2qavNaiRqznZpLyJfKKz0FGYt&quot; width=&quot;690&quot; height=&quot;137&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/1/d/01d024a4c6ba0269636d8b9cf97cfbcb756f0025_2_690x137.png, https://cdn3.ldstatic.com/optimized/4X/0/1/d/01d024a4c6ba0269636d8b9cf97cfbcb756f0025_2_1035x205.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/1/d/01d024a4c6ba0269636d8b9cf97cfbcb756f0025_2_1380x274.png 2x&quot; data-dominant-color=&quot;242424&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/9/9/e998c4ec04e3e81aa6af7298839cd0d6e57a2c85.jpeg&quot; data-download-href=&quot;/uploads/short-url/xkuyxLPusgPdtYt9Y8BjwDqa8a9.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/9/9/e998c4ec04e3e81aa6af7298839cd0d6e57a2c85_2_645x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xkuyxLPusgPdtYt9Y8BjwDqa8a9&quot; width=&quot;645&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/9/9/e998c4ec04e3e81aa6af7298839cd0d6e57a2c85_2_645x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/9/9/e998c4ec04e3e81aa6af7298839cd0d6e57a2c85_2_967x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/e/9/9/e998c4ec04e3e81aa6af7298839cd0d6e57a2c85.jpeg 2x&quot; data-dominant-color=&quot;131313&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+是模型真的强，还是bench失效了？好像是两方面都有？&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/9KVW_zZynu5xXyUOCmsqYQ&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://mp.weixin.qq.com/s/9KVW_zZynu5xXyUOCmsqYQ&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2424846&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>QQ官bot(开放平台)近期下放的新功能，终于可以开始对标野生了？</title>
+      <link>https://linux.do/t/topic/2424596</link>
+      <guid>linux.do-topic-2424596</guid>
+      <pubDate>Wed, 17 Jun 2026 14:21:11 GMT</pubDate>
+      <description>
+            &lt;h3&gt;&lt;a name=&quot;p-19272358-bot-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19272358-bot-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;来讲讲官bot的机器人最近都开放了哪些功能吧，关于新功能开放：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;机器人现在可获取群内所有消息了，不仅限于@消息&lt;/strong&gt;&lt;br&gt;
+在以前QQ机器人（以下所述均为官方协议的bot，非野生协议）只能收到@机器人的消息，即用户必须发一句&quot;@机器人 菜单&quot;，机器人才能收到&quot;菜单&quot;指令，现在 &lt;strong&gt;群主（不包括群管，注意）&lt;/strong&gt; 可以手动调整机器人接收到的消息范围，目前支持: 接收全部群消息、获取@最近10条消息和仅@消息（默认）&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/8/d/08d956988b8fbf175b9b1fd1bafeacb14b8adef6.png&quot; data-download-href=&quot;/uploads/short-url/1ghsOSzhFTWva2dVdiZIymRDijY.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/8/d/08d956988b8fbf175b9b1fd1bafeacb14b8adef6_2_172x375.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;1ghsOSzhFTWva2dVdiZIymRDijY&quot; width=&quot;172&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/8/d/08d956988b8fbf175b9b1fd1bafeacb14b8adef6_2_172x375.png, https://cdn3.ldstatic.com/optimized/4X/0/8/d/08d956988b8fbf175b9b1fd1bafeacb14b8adef6_2_258x562.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/8/d/08d956988b8fbf175b9b1fd1bafeacb14b8adef6_2_344x750.png 2x&quot; data-dominant-color=&quot;21242B&quot;&gt;&lt;/a&gt;&lt;/div&gt; &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/8/e/d8e056c1a4ae3c0bde9defbcc49be8c18ca288e6.png&quot; data-download-href=&quot;/uploads/short-url/uWzMcCwObvPsAEYj8I9bD9BA1iS.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/8/e/d8e056c1a4ae3c0bde9defbcc49be8c18ca288e6_2_172x375.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;uWzMcCwObvPsAEYj8I9bD9BA1iS&quot; width=&quot;172&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/8/e/d8e056c1a4ae3c0bde9defbcc49be8c18ca288e6_2_172x375.png, https://cdn3.ldstatic.com/optimized/4X/d/8/e/d8e056c1a4ae3c0bde9defbcc49be8c18ca288e6_2_258x562.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/8/e/d8e056c1a4ae3c0bde9defbcc49be8c18ca288e6_2_344x750.png 2x&quot; data-dominant-color=&quot;1E1C1C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;设置入口目前仅限iOS、Android、鸿蒙5以下（不包括5）的QQ设备升级到最新版本后，概率可见。电脑目前不支持噢&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;&lt;strong&gt;全面放开Markdown消息和按钮消息发送（不含频道）&lt;/strong&gt;&lt;br&gt;
+以前，只有日活达到2000的开发者才能拥有机器人发送markdown和按钮消息的能力，现在所有机器人都可以发送markdown消息了&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/9/5/8954cd5c1c2d292ec6a033472355f8567a29ec44.png&quot; data-download-href=&quot;/uploads/short-url/jAT6hojcsAGTcrQephWGQR0V4na.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/5/8954cd5c1c2d292ec6a033472355f8567a29ec44_2_345x206.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;jAT6hojcsAGTcrQephWGQR0V4na&quot; width=&quot;345&quot; height=&quot;206&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/5/8954cd5c1c2d292ec6a033472355f8567a29ec44_2_345x206.png, https://cdn3.ldstatic.com/optimized/4X/8/9/5/8954cd5c1c2d292ec6a033472355f8567a29ec44_2_517x309.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/9/5/8954cd5c1c2d292ec6a033472355f8567a29ec44_2_690x412.png 2x&quot; data-dominant-color=&quot;C7E2F3&quot;&gt;&lt;/a&gt;&lt;/div&gt; &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/3/b/53b34bd6560ce30f51364c42ef3929aaf306c062.png&quot; data-download-href=&quot;/uploads/short-url/bWrLLG9IWJGAEbnaKeJfhkt5hlw.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/b/53b34bd6560ce30f51364c42ef3929aaf306c062_2_345x180.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bWrLLG9IWJGAEbnaKeJfhkt5hlw&quot; width=&quot;345&quot; height=&quot;180&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/b/53b34bd6560ce30f51364c42ef3929aaf306c062_2_345x180.png, https://cdn3.ldstatic.com/optimized/4X/5/3/b/53b34bd6560ce30f51364c42ef3929aaf306c062_2_517x270.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/3/b/53b34bd6560ce30f51364c42ef3929aaf306c062_2_690x360.png 2x&quot; data-dominant-color=&quot;CEDFED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;机器人发送的消息以前是不能包含URL链接的，若要发送URL需要给官方发送邮件申请加白。现在也全部放开了，所有URL均可发送~&lt;/p&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;机器人群聊场景主动推送能力重新下放（残缺版）&lt;/strong&gt;&lt;br&gt;
+曾在2025年4月21日，QQ平台移除了机器人主动消息推送能力。主动消息可用于比如更新日志推送和礼包推送等，每次推送大部分情况下都可以做到召回部分流失的用户来稳定机器人的日活。&lt;br&gt;
+近期平台重新下放了&quot;残缺版&quot;的主动推送，我为什么说他是残缺版的呢？那是因为新版主动推送能力在各个群内是默认关闭的（旧版主动默认开启），并且需要群主手动在机器人设置页打开开关，机器人才能往群内推送事件（详见上面的图，默认是关的）。&lt;br&gt;
+如果你的机器人是上线面向所有人使用的，你得想办法让群主把QQ升级到新版，想办法让群主一步一步点进机器人设置页，然后打开推送开关。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;机器人私信场景下放互动召回能力&lt;/strong&gt;&lt;br&gt;
+同样也是残缺版主动，仅限私信场景可用。在用户私信给机器人发送了一条消息后，此后的每个周期内可下发一条主动消息用于召回流失用户。分别是：当天、1 - 3 天、3 - 7 天、7 - 30 天，合计：4个周期也就是4个周期累计可发4条主动消息；&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;用户把你机器人设置为免打扰不就没用了嘛&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;&lt;a name=&quot;p-19272358-h-2&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19272358-h-2&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;以下是一些关于开发体验这块的改进&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;可获取被引用消息内容，方便回复对应消息，图片和文件都可获取；&lt;/li&gt;
+&lt;li&gt;在&lt;strong&gt;群聊&lt;/strong&gt;环境下，接收到的消息字段包含用户昵称，包含用户在群内的身份（群主/管理员/成员）；&lt;/li&gt;
+&lt;li&gt;在&lt;strong&gt;仅限给自己用&lt;/strong&gt;的情况下，机器人可接入AI服务，包括agent，比如openclaw、Hermes等；&lt;/li&gt;
+&lt;li&gt;如果机器人不再使用，可以在机器人设置页中快捷注销（以前创建的机器人不支持注销）；&lt;/li&gt;
+&lt;li&gt;在沙箱群内，主动能力默认开放、不限制一个msg_id的回复数、不受其他频控策略的影响；&lt;/li&gt;
+&lt;li&gt;发送语音时，不限制silk格式了，现在mp3、wav、flac格式的语音也能发送；&lt;/li&gt;
+&lt;li&gt;群内成员新入群/退群时，机器人将收到一个事件，需要自己主动去订阅才能收到；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;&lt;a name=&quot;p-19272358-h-3&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19272358-h-3&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;吐槽点&lt;/h3&gt;
+&lt;p&gt;上述开放内容绝大部分都没有在官方文档里面更新，也就是说很多新开放的功能，你想接，就需要自己去摸索或者询问社区内的开发者，如果你单单看官方的开发文档，那么你会看的一头雾水&lt;br&gt;
+有什么补充和疑问都可以回复我噢&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2424596&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>内测的plasma one免费一年的core会员，还有八天，速去领取</title>
+      <link>https://linux.do/t/topic/2424591</link>
+      <guid>linux.do-topic-2424591</guid>
+      <pubDate>Wed, 17 Jun 2026 14:18:34 GMT</pubDate>
+      <description>
+            &lt;p&gt;core会员新给的卡，开chatgpt go直接输卡号就能订阅了，不用转长链。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/e/4/1e43ca1674d884aeda564919625aefe13bd118e2.jpeg&quot; data-download-href=&quot;/uploads/short-url/4jJyRgx5hJZ7MA7VTv1wvq7yOC6.jpeg?dl=1&quot; title=&quot;809cc5546749cf8a6a2d7730e0fa4c59&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/e/4/1e43ca1674d884aeda564919625aefe13bd118e2_2_281x499.jpeg&quot; alt=&quot;809cc5546749cf8a6a2d7730e0fa4c59&quot; data-base62-sha1=&quot;4jJyRgx5hJZ7MA7VTv1wvq7yOC6&quot; width=&quot;281&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/e/4/1e43ca1674d884aeda564919625aefe13bd118e2_2_281x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/e/4/1e43ca1674d884aeda564919625aefe13bd118e2_2_421x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/e/4/1e43ca1674d884aeda564919625aefe13bd118e2_2_562x998.jpeg 2x&quot; data-dominant-color=&quot;E3E6E7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2424591&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>科学家发现 Ozempic 与暴力行为之间存在耐人寻味的联系</title>
+      <link>https://linux.do/t/topic/2424526</link>
+      <guid>linux.do-topic-2424526</guid>
+      <pubDate>Wed, 17 Jun 2026 14:06:20 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://gizmodo.com/scientists-find-intriguing-link-between-ozempic-and-violent-behavior-2000772629&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/c/6/2/c6255aac070581b7686481bacfe94115a5bc2320.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;004FFF&quot; width=&quot;96&quot; height=&quot;96&quot;&gt;
+
+      &lt;a href=&quot;https://gizmodo.com/scientists-find-intriguing-link-between-ozempic-and-violent-behavior-2000772629&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;07:01AM - 17 June 2026&quot;&gt;Gizmodo – 17 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/a/3/9a30bd1ef94b245d2acbb31fbc0aa2accdd0f1fa_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;534B48&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://gizmodo.com/scientists-find-intriguing-link-between-ozempic-and-violent-behavior-2000772629&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Scientists Find Intriguing Link Between Ozempic and Violent Behavior&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;The same mechanisms that dampen people&#39;s cravings for food might also affect our tendency for violent behavior, new research suggests.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 4 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+ 新的研究表明，抑制人们对食物的渴望的机制可能也会影响我们的暴力行为倾向。&lt;/p&gt;
+&lt;p&gt;现在人们经常开玩笑说，像司美格鲁肽（Ozempic 和 Wegovy 的活性成分）这样的 GLP-1 类药物几乎无所不能，而不仅仅是减肥。今天发布的一项研究表明，GLP-1 类药物甚至可能具有抑制暴力倾向的潜力。&lt;/p&gt;
+&lt;p&gt;罗格斯大学的科学家们分析了具有全国代表性的调查数据，比较了既往和当前的GLP-1受体激动剂使用者。他们发现，在目前正在服用GLP-1受体激动剂的人群中，冲动与暴力倾向之间的关联明显减弱。尽管该团队的发现远不足以确凿证明GLP-1受体激动剂可以减少暴力行为，但作者表示，这些发现确实值得进一步研究。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.europesays.com/us/873160/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/9/2/1/921299bf30d5eb297d6a09b4fcbc0de8874bf6ba.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;8B6A8D&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://www.europesays.com/us/873160/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;08:56AM - 17 June 2026&quot;&gt;United States – 17 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:600/338;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/a/3/9a30bd1ef94b245d2acbb31fbc0aa2accdd0f1fa_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;534B48&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.europesays.com/us/873160/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Scientists Find Intriguing Link Between Ozempic and Violent Behavior - United...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;The same mechanisms that dampen people&#39;s cravings for food might also affect our tendency for violent behavior, new research suggests.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2424526&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>韩国小散真的猛， 把SpaceX干起飞了</title>
+      <link>https://linux.do/t/topic/2424461</link>
+      <guid>linux.do-topic-2424461</guid>
+      <pubDate>Wed, 17 Jun 2026 13:54:01 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/d/a/2da4da92be0b77e9a1cb956ccaa220b2f799277f.jpeg&quot; data-download-href=&quot;/uploads/short-url/6vMGozmtdc5zR09hUdHor9h8y6j.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/d/a/2da4da92be0b77e9a1cb956ccaa220b2f799277f.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6vMGozmtdc5zR09hUdHor9h8y6j&quot; width=&quot;690&quot; height=&quot;308&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://finance.eastmoney.com/a/202606173774515452.html&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/3/4/d3484ee79ee6b0f3ddfd70dd44afe6675f8831c0.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;EA5404&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://finance.eastmoney.com/a/202606173774515452.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;finance.eastmoney.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://finance.eastmoney.com/a/202606173774515452.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;韩国散户涌入SpaceX：上市首日净买入7.96亿美元 创海外股票单日买入之最 _ 东方财富网&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;【韩国散户涌入SpaceX：上市首日净买入7.96亿美元 创海外股票单日买入之最】据韩国证券存管院周三公布的数据，在SpaceX6月12日上市当天，韩国投资者净买入价值7.9593亿美元（约合1.215万亿韩元）SpaceX股票。这次“扫货”是韩国散户投资者有史以来单日海外股票买入额最大的一次。&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2424461&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Gemini新图片模型instant-ramen登录竞技场</title>
+      <link>https://linux.do/t/topic/2424333</link>
+      <guid>linux.do-topic-2424333</guid>
+      <pubDate>Wed, 17 Jun 2026 13:27:23 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/e/0/7e0fa94a8753d38e91bae159438aaf1dc83f8900.jpeg&quot; data-download-href=&quot;/uploads/short-url/hZbIma7nm9q6huCzMt6UA09XGDK.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/e/0/7e0fa94a8753d38e91bae159438aaf1dc83f8900_2_690x376.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;hZbIma7nm9q6huCzMt6UA09XGDK&quot; width=&quot;690&quot; height=&quot;376&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/e/0/7e0fa94a8753d38e91bae159438aaf1dc83f8900_2_690x376.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/e/0/7e0fa94a8753d38e91bae159438aaf1dc83f8900_2_1035x564.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/7/e/0/7e0fa94a8753d38e91bae159438aaf1dc83f8900.jpeg 2x&quot; data-dominant-color=&quot;9B9E98&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/8/7/c872feba93926a35b82db0b2662197d62dc95c5a.jpeg&quot; data-download-href=&quot;/uploads/short-url/sBfRVzdPkIqsuJgWT7W4ra5X2dQ.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/8/7/c872feba93926a35b82db0b2662197d62dc95c5a_2_690x381.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;sBfRVzdPkIqsuJgWT7W4ra5X2dQ&quot; width=&quot;690&quot; height=&quot;381&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/8/7/c872feba93926a35b82db0b2662197d62dc95c5a_2_690x381.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/8/7/c872feba93926a35b82db0b2662197d62dc95c5a_2_1035x571.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/c/8/7/c872feba93926a35b82db0b2662197d62dc95c5a.jpeg 2x&quot; data-dominant-color=&quot;51504E&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+根据透露，这可能是Gemini-3.1-flash-lite-image，其表现为效果一般，但是够快够小&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/8/b/e8bec4e901557c5023b3b3c282da480d5ac3c369.jpeg&quot; data-download-href=&quot;/uploads/short-url/xcXuDOp17z6NA5oVouPLupqGqZb.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/8/b/e8bec4e901557c5023b3b3c282da480d5ac3c369_2_372x499.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xcXuDOp17z6NA5oVouPLupqGqZb&quot; width=&quot;372&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/8/b/e8bec4e901557c5023b3b3c282da480d5ac3c369_2_372x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/8/b/e8bec4e901557c5023b3b3c282da480d5ac3c369_2_558x748.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/e/8/b/e8bec4e901557c5023b3b3c282da480d5ac3c369.jpeg 2x&quot; data-dominant-color=&quot;948079&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;这是世界第一互联网巨头六月大战的模型，你敢与它直视吗 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/rofl.png?v=15&quot; title=&quot;:rofl:&quot; class=&quot;emoji&quot; alt=&quot;:rofl:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/s&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2424333&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Codex 支持其他模型接入了！！</title>
+      <link>https://linux.do/t/topic/2424231</link>
+      <guid>linux.do-topic-2424231</guid>
+      <pubDate>Wed, 17 Jun 2026 13:02:17 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/9/1/8912fd3b84c7022779aa329915b86d7dc528c56d.jpeg&quot; data-download-href=&quot;/uploads/short-url/jyC63blAvMFf7ZZNW7Xwd0DU9T7.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/1/8912fd3b84c7022779aa329915b86d7dc528c56d_2_576x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;jyC63blAvMFf7ZZNW7Xwd0DU9T7&quot; width=&quot;576&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/1/8912fd3b84c7022779aa329915b86d7dc528c56d_2_576x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/9/1/8912fd3b84c7022779aa329915b86d7dc528c56d_2_864x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/8/9/1/8912fd3b84c7022779aa329915b86d7dc528c56d.jpeg 2x&quot; data-dominant-color=&quot;8C93D3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;27 个帖子 - 25 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2424231&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>YPT又出新卡了，但是……</title>
+      <link>https://linux.do/t/topic/2424135</link>
+      <guid>linux.do-topic-2424135</guid>
+      <pubDate>Wed, 17 Jun 2026 12:41:34 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/5/7/e57d43340826630da5ded14a22ae2dbb06976f83.jpeg&quot; data-download-href=&quot;/uploads/short-url/wK9IigkjUnOZLFVQ4ckHY03ep3B.jpeg?dl=1&quot; title=&quot;IMG_4251&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/5/7/e57d43340826630da5ded14a22ae2dbb06976f83_2_252x500.jpeg&quot; alt=&quot;IMG_4251&quot; data-base62-sha1=&quot;wK9IigkjUnOZLFVQ4ckHY03ep3B&quot; width=&quot;252&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/5/7/e57d43340826630da5ded14a22ae2dbb06976f83_2_252x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/5/7/e57d43340826630da5ded14a22ae2dbb06976f83_2_378x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/5/7/e57d43340826630da5ded14a22ae2dbb06976f83_2_504x1000.jpeg 2x&quot; data-dominant-color=&quot;B1E6CA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+这卡皮子是金子做的，还是卡芯子是金子做的，开卡费叫这么高？&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2424135&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>Wine Wayland 支持分数扩展</title>
       <link>https://linux.do/t/topic/2423898</link>
@@ -55,7 +275,7 @@
       <description>
             &lt;p&gt;xAI 将 Grok Imagine Video 1.5 从预览转为全面可用，在 Imagine API 上提供 &lt;code&gt;grok-imagine-video-1.5&lt;/code&gt;，并在 &lt;a href=&quot;http://grok.com/imagine&quot; rel=&quot;noopener nofollow ugc&quot;&gt;grok.com/imagine&lt;/a&gt; 及 iOS/Android 应用上推出 Video 1.5 Fast 版。相比前代，模型在音频与语音（更清晰、嘴型同步更好）、运动与物理（更连贯、重量感更真实）、生成速度（6 秒 720p 视频约 25 秒，此前超 40 秒）上全面提升。同时逐步推出 Projects、Multiple agents（并行运行多个生成任务）、Search 等新功能，以优化创作流程。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.ai/news/grok-imagine-video-1-5&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://x.ai/news/grok-imagine-video-1-5&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2423893&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -111,7 +331,7 @@ Kimi 限时福利活动截止至 2026-06-30&lt;/p&gt;
             &lt;p&gt;GLM 5.2 在opencode go套餐可以使用了，具体还没试，佬们可以去尝试尝试 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/face_savoring_food.png?v=15&quot; title=&quot;:face_savoring_food:&quot; class=&quot;emoji&quot; alt=&quot;:face_savoring_food:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
 &lt;a href=&quot;https://opencode.ai/docs/zh-cn/go&quot; rel=&quot;noopener nofollow ugc&quot;&gt;opencode.ai&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/8/f/88fc2302adf047c6c7a710402877dd3bd782c79c.png&quot; data-download-href=&quot;/uploads/short-url/jxP8sH6EQhoTcROgHCrb2Usfexu.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/8/8/f/88fc2302adf047c6c7a710402877dd3bd782c79c.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;jxP8sH6EQhoTcROgHCrb2Usfexu&quot; width=&quot;594&quot; height=&quot;500&quot; data-dominant-color=&quot;F9F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2423770&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -168,7 +388,7 @@ usion Router（openrouter/fusion）是 OpenRouter 的一种路由别名，用于
 &lt;p&gt;根据贴文，Fusion 引入协作后的分数明显对比其它单个模型分数更高。&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/8/c/88c5d9f4b54d6a832c09b03645095a6d2a734f4b.jpeg&quot; data-download-href=&quot;/uploads/short-url/jvWPuWhZQ0ucbwT5feqYpLiuNkv.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/8/c/88c5d9f4b54d6a832c09b03645095a6d2a734f4b_2_647x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;jvWPuWhZQ0ucbwT5feqYpLiuNkv&quot; width=&quot;647&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/8/c/88c5d9f4b54d6a832c09b03645095a6d2a734f4b_2_647x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/8/c/88c5d9f4b54d6a832c09b03645095a6d2a734f4b_2_970x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/8/8/c/88c5d9f4b54d6a832c09b03645095a6d2a734f4b.jpeg 2x&quot; data-dominant-color=&quot;DAD4DB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.com/i/status/2065856853989270011&quot; rel=&quot;noopener nofollow ugc&quot;&gt;OpenRouter&lt;/a&gt; | &lt;a href=&quot;https://openrouter.ai/docs/guides/routing/routers/fusion-router&quot; rel=&quot;noopener nofollow ugc&quot;&gt;文档&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2423300&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -180,7 +400,7 @@ usion Router（openrouter/fusion）是 OpenRouter 的一种路由别名，用于
       <description>
             &lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/wtu4jJzzGtZtmxXRn1tLPA&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://mp.weixin.qq.com/s/wtu4jJzzGtZtmxXRn1tLPA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/b/1/4b1620dd13b7d00c22a8fa4b3f192d941ab7b910.png&quot; data-download-href=&quot;/uploads/short-url/aIfdE5aXa3FTB0EflH8y54aVh96.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/b/1/4b1620dd13b7d00c22a8fa4b3f192d941ab7b910.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;aIfdE5aXa3FTB0EflH8y54aVh96&quot; width=&quot;690&quot; height=&quot;316&quot; data-dominant-color=&quot;EFEFEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;16 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;23 个帖子 - 23 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2423295&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -194,7 +414,7 @@ usion Router（openrouter/fusion）是 OpenRouter 的一种路由别名，用于
 &lt;p&gt;该模式最早于 2007 年以彩蛋形式出现在谷歌地球客户端中。此次网页版上线后，相关演示视频在社交平台获得数百万人次观看，许多网友吐槽操控难度较高，但也有人乐在其中。&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/1/d/d1d7aa195df8aa52c018eba8152d8b4db45ba023.jpeg&quot; data-download-href=&quot;/uploads/short-url/tWlQIsAP1Zxi2QAkXV6vBUirsvF.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/d/d1d7aa195df8aa52c018eba8152d8b4db45ba023_2_690x490.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tWlQIsAP1Zxi2QAkXV6vBUirsvF&quot; width=&quot;690&quot; height=&quot;490&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/d/d1d7aa195df8aa52c018eba8152d8b4db45ba023_2_690x490.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/1/d/d1d7aa195df8aa52c018eba8152d8b4db45ba023_2_1035x735.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/d/1/d/d1d7aa195df8aa52c018eba8152d8b4db45ba023.jpeg 2x&quot; data-dominant-color=&quot;ACAEB3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 转自电报&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;18 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;21 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2423270&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -209,7 +429,7 @@ usion Router（openrouter/fusion）是 OpenRouter 的一种路由别名，用于
 &lt;p&gt;这是消费者对 AI 订阅成本与透明度不足的早期法律反击。起诉方要求 Anthropic 为去年 4 月以来购买相关计划的用户退款，并引用了该公司 2025 年 7 月的邮件作为证据。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/ai/anthropic-sued-over-limits-on-its-200-a-month-ai-plans-e2a109e4&quot; rel=&quot;noopener nofollow ugc&quot;&gt;The Wall Street Journal&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/9/a/09aca35d4ffa9733ad2599c8ceea8bd177ac21b0.jpeg&quot; data-download-href=&quot;/uploads/short-url/1nAaI2QywnGbOuvVEYC8RIgCKe4.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/9/a/09aca35d4ffa9733ad2599c8ceea8bd177ac21b0_2_690x407.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;1nAaI2QywnGbOuvVEYC8RIgCKe4&quot; width=&quot;690&quot; height=&quot;407&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/9/a/09aca35d4ffa9733ad2599c8ceea8bd177ac21b0_2_690x407.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/9/a/09aca35d4ffa9733ad2599c8ceea8bd177ac21b0_2_1035x610.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/9/a/09aca35d4ffa9733ad2599c8ceea8bd177ac21b0_2_1380x814.jpeg 2x&quot; data-dominant-color=&quot;34302E&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2423242&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -236,7 +456,7 @@ usion Router（openrouter/fusion）是 OpenRouter 的一种路由别名，用于
       <description>
             &lt;p&gt;百炼平台token plan已经支持glm 5.2&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/3/a/b3ae683b48efcc29040fa6ce125dfc1fb35b4a71.png&quot; data-download-href=&quot;/uploads/short-url/pDx8exJ9i3WUqGamSE3GUuE7AXf.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/3/a/b3ae683b48efcc29040fa6ce125dfc1fb35b4a71_2_690x294.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;pDx8exJ9i3WUqGamSE3GUuE7AXf&quot; width=&quot;690&quot; height=&quot;294&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/3/a/b3ae683b48efcc29040fa6ce125dfc1fb35b4a71_2_690x294.png, https://cdn3.ldstatic.com/optimized/4X/b/3/a/b3ae683b48efcc29040fa6ce125dfc1fb35b4a71_2_1035x441.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/3/a/b3ae683b48efcc29040fa6ce125dfc1fb35b4a71_2_1380x588.png 2x&quot; data-dominant-color=&quot;FAFBFC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2423101&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -249,7 +469,7 @@ usion Router（openrouter/fusion）是 OpenRouter 的一种路由别名，用于
             &lt;p&gt;17:00 收到短信：【火山引擎】开发者你好，方舟 Coding Plan 的 GLM 系列模型已经从 GLM-5.1 升级为 GLM-5.2 模型，支持 Hermes Agent、Claude Code、OpenCode、OpenClaw 等主流编程工具与 Agent 直接调用。&lt;/p&gt;
 &lt;p&gt;上后台，果然有了。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/a/e/7aeefaa8427125177560e4a84a496a0844885353_2_689x34.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;hxwgeqS3uZWKOVIVswdHgPjqqTp&quot; width=&quot;689&quot; height=&quot;34&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/a/e/7aeefaa8427125177560e4a84a496a0844885353_2_689x34.png, https://cdn3.ldstatic.com/optimized/4X/7/a/e/7aeefaa8427125177560e4a84a496a0844885353_2_1033x51.png 1.5x, https://cdn3.ldstatic.com/original/4X/7/a/e/7aeefaa8427125177560e4a84a496a0844885353.png 2x&quot; data-dominant-color=&quot;F4F4F5&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2422995&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -292,228 +512,6 @@ usion Router（openrouter/fusion）是 OpenRouter 的一种路由别名，用于
 &lt;p&gt;转自encmasuta&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2422334&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>加利福尼亚的构造系统处于 1000 年来的最高压力水平，也许在大地震边缘了</title>
-      <link>https://linux.do/t/topic/2422158</link>
-      <guid>linux.do-topic-2422158</guid>
-      <pubDate>Wed, 17 Jun 2026 07:48:56 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.theguardian.com/us-news/2026/jun/16/california-earthquake-tectonic-systems-risk&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/e/2/fe2eaf61b13234a5eed0a1e8eb53f75890e0faea.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;4F6890&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://www.theguardian.com/us-news/2026/jun/16/california-earthquake-tectonic-systems-risk&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;08:25PM - 16 June 2026&quot;&gt;the Guardian – 16 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/2026/jun/16/california-earthquake-tectonic-systems-risk&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;California’s tectonic systems at highest levels of stress in 1,000 years – study&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;San Andreas and San Jacinto fault systems in ‘critically loaded state’, increasing chance of ‘big one’ quake in future&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;根据本月早些时候发表的一项研究，南加州的圣安德烈亚斯和圣哈辛托断层系统的构造应力达到了 1000 年来的最高水平，科学家称之为 “极度负荷状态”。&lt;/p&gt;
-&lt;p&gt;&quot;我们的研究结果表明，多个断层段的应力水平已经达到或超过了过去一千年中的最高值，该地区可能会发生涉及两个断层系统的大型贯通性断裂，&quot;发表在《地球物理研究杂志》上的这项研究的主要作者 Liliane Burkhard 说：固体地球》的主要作者 Liliane Burkhard 在一份声明中说。&lt;/p&gt;
-&lt;p&gt;研究显示，位于断层交界处的卡洪山口可能扮演着关键角色，它可以充当 “地震之门”，阻止大断裂在断层之间传播，或者在一次地震中将两个系统都卷入其中。距离上一次大地震已经过去了一个多世纪，应力 “不断累积，现在达到了前所未有的水平”，这增加了未来发生大地震的可能性。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.foxweather.com/earth-space/california-dangerous-fault-line-highest-stress-level-1000-years&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/2/0/22016f0c8a563680186d2a3ce5f7bc3944e47845.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;B09EB8&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
-
-      &lt;a href=&quot;https://www.foxweather.com/earth-space/california-dangerous-fault-line-highest-stress-level-1000-years&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;FOX Weather&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/345;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/2/c/32c8053415cf45165cc03ac22fc42417a979fd03_2_690x345.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;8B7C69&quot; width=&quot;690&quot; height=&quot;345&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.foxweather.com/earth-space/california-dangerous-fault-line-highest-stress-level-1000-years&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;One of America&#39;s most dangerous fault lines reaches highest stress levels in...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Just 50 miles from downtown Los Angeles, a critical junction where two of California&#39;s most powerful fault systems meet has been quietly accumulating stress levels matching 1,000-year highs, new research suggests.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/climate-environment/2026/06/16/why-california-scientists-are-worried-about-major-fault-rupture/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.washingtonpost.com/climate-environment/2026/06/16/why-california-scientists-are-worried-about-major-fault-rupture/&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2422158&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Android 17 的新功能</title>
-      <link>https://linux.do/t/topic/2422100</link>
-      <guid>linux.do-topic-2422100</guid>
-      <pubDate>Wed, 17 Jun 2026 07:44:17 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://blog.google/products-and-platforms/platforms/android/android-17-features/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/b/c/fbc7dd74420aaf1d5c4f1e2d0cdb115a580f1a88.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;D4D2CB&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://blog.google/products-and-platforms/platforms/android/android-17-features/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;12:00AM - 16 June 2026&quot;&gt;Google – 16 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/389;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/1/d/11dca98521e7b634453c52d6d01672737dfb843e_2_690x389.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;DFE2E7&quot; width=&quot;690&quot; height=&quot;389&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/platforms/android/android-17-features/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Check out what&#39;s new in Android 17&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Explore the latest features in Android 17, including enhanced productivity, gaming and security.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;Android 17 来了，它带来了一整套功能，旨在提高您的工作效率、娱乐性、安全性和保障性。今天，它将首先在 Pixel 上推出，随后在 2026 年陆续在其他符合条件的安卓设备上推出。今年夏天晚些时候，部分高级设备将获得双子座智能功能，帮助您领先一步，积极主动地完成一天的工作。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/2/5/c2523556dae4f19bb2354cedb356193ee1742f40.webp&quot; data-download-href=&quot;/uploads/short-url/rJ2L6TBQ3od8XzAsK12mtmjcyGY.webp?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/2/5/c2523556dae4f19bb2354cedb356193ee1742f40_2_500x500.webp&quot; alt=&quot;image&quot; data-base62-sha1=&quot;rJ2L6TBQ3od8XzAsK12mtmjcyGY&quot; width=&quot;500&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/2/5/c2523556dae4f19bb2354cedb356193ee1742f40_2_500x500.webp, https://cdn3.ldstatic.com/optimized/4X/c/2/5/c2523556dae4f19bb2354cedb356193ee1742f40_2_750x750.webp 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/2/5/c2523556dae4f19bb2354cedb356193ee1742f40_2_1000x1000.webp 2x&quot; data-dominant-color=&quot;969596&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/a/c/5ac4aacd4a62e1f25e47ee2d9b0438a2d3ef40e9.webp&quot; data-download-href=&quot;/uploads/short-url/cWYkrZrwCRbStxl42VjRmkN0pRv.webp?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/c/5ac4aacd4a62e1f25e47ee2d9b0438a2d3ef40e9_2_690x417.webp&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cWYkrZrwCRbStxl42VjRmkN0pRv&quot; width=&quot;690&quot; height=&quot;417&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/c/5ac4aacd4a62e1f25e47ee2d9b0438a2d3ef40e9_2_690x417.webp, https://cdn3.ldstatic.com/original/4X/5/a/c/5ac4aacd4a62e1f25e47ee2d9b0438a2d3ef40e9.webp 1.5x, https://cdn3.ldstatic.com/original/4X/5/a/c/5ac4aacd4a62e1f25e47ee2d9b0438a2d3ef40e9.webp 2x&quot; data-dominant-color=&quot;636575&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/6/7/a678f621ca14626d57a9f6d89fb40ac23b646a46.jpeg&quot; data-download-href=&quot;/uploads/short-url/nKGpXUKXxXAtplwdpvQMq5dCeHA.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/7/a678f621ca14626d57a9f6d89fb40ac23b646a46_2_690x478.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nKGpXUKXxXAtplwdpvQMq5dCeHA&quot; width=&quot;690&quot; height=&quot;478&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/7/a678f621ca14626d57a9f6d89fb40ac23b646a46_2_690x478.jpeg, https://cdn3.ldstatic.com/original/4X/a/6/7/a678f621ca14626d57a9f6d89fb40ac23b646a46.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/a/6/7/a678f621ca14626d57a9f6d89fb40ac23b646a46.jpeg 2x&quot; data-dominant-color=&quot;C7CDE0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Android 17 中还有很多值得探索的功能，包括在主屏幕上隐藏应用程序名称的设置、将家长控制功能扩展到所有 Android 设备、为助手提供专用音量控制以及对扩展的暗色主题进行更多控制，此外，Pixel 设备今天也获得了额外的更新。&lt;/p&gt;
-&lt;p&gt;在引擎盖下，Android 17 引入了应用程序内存限制，以确保应用程序不会占用过多内存，从而帮助提高设备的整体性能和电池续航时间。&lt;/p&gt;
-&lt;/blockquote&gt;
-          &lt;div class=&quot;onebox video-onebox&quot;&gt;
-            &lt;video width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;&quot;&gt;
-              &lt;source src=&quot;https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/A17-_Screen_React_yG5dF9v.mp4&quot;&gt;
-              &lt;a href=&quot;https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/A17-_Screen_React_yG5dF9v.mp4&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/A17-_Screen_React_yG5dF9v.mp4&lt;/a&gt;
-            &lt;/video&gt;
-          &lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Utmu5Sk3G54&quot;&gt;Android 17 Deep Dive: Bubbles, Gaming Upgrades, &amp; Privacy Features&lt;/a&gt;&lt;/p&gt;
-
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2422100&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>对末端回肠活检组织进行单细胞RNA测序，可识别克罗恩病发病机制的特征。</title>
-      <link>https://linux.do/t/topic/2421940</link>
-      <guid>linux.do-topic-2421940</guid>
-      <pubDate>Wed, 17 Jun 2026 07:23:48 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41588-026-02634-7&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/s41588-026-02634-7&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!abstract]+&lt;/p&gt;
-&lt;p&gt;克罗恩病 (CD) 是一种慢性炎症性肠病，其临床表现和治疗反应具有显著的异质性。为了探索其分子机制，我们构建了 IBDverse 数据库，这是一个包含大量末端回肠活检样本的单细胞 RNA 测序 (scRNA-seq) 数据集，分析了来自 111 例 CD 患者和 232 例健康对照者的超过 110 万个细胞。该数据库整合了发现队列和验证队列，用于可靠地鉴定 CD 相关细胞类型、基因和通路。我们发现，在宏观炎症消退后，主要组织相容性复合体 I 类分子在干扰素驱动下上调，并持续存在于祖细胞中，这标志着上皮细胞发生了改变。ITGA4+ 巨噬细胞被鉴定为关键的炎症驱动因子，表现出 JAK-STAT 信号通路和细胞因子（白细胞介素-6 (IL-6)、IL-12 和 IL-23）表达的增强。遗传力分析将炎症性单核细胞和巨噬细胞与克罗恩病易感性联系起来，表明驻留和募集的免疫细胞参与了该病的发病机制。这些发现为克罗恩病构建了一个全面的细胞和分子框架，为深入了解疾病机制和治疗策略提供了新的视角。&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2421940&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>微软正在考虑让 Copilot 使用 DeepSeek 以降低成本</title>
-      <link>https://linux.do/t/topic/2421192</link>
-      <guid>linux.do-topic-2421192</guid>
-      <pubDate>Wed, 17 Jun 2026 06:01:13 GMT</pubDate>
-      <description>
-            &lt;p&gt;微软现在已经不再与 OpenAI 绑定，正在寻找更便宜的模型以降低大量词元使用给 Copilot 带来的成本。据报道微软正在考虑使用 DeepSeek 的开源模型来降低成本，大概率就是自己部署的魔改的 DeepSeek V4。 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/grin.png?v=15&quot; title=&quot;:grin:&quot; class=&quot;emoji&quot; alt=&quot;:grin:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-Microsoft 365 里的 Copilot Cowork 目前用的是 Anthropic 和 OpenAI 的模型，两家公司的模型不断涨价，Copilot 也从无限量使用变成了按量定价。用了 DeepSeek 后更低的成本可以让客户高兴，但是可能不会让特朗普太高兴 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/laughing.png?v=15&quot; title=&quot;:laughing:&quot; class=&quot;emoji&quot; alt=&quot;:laughing:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/d/e/1de6783f018cc4e54865a14b80275a1b26f77f4c.jpeg&quot; data-download-href=&quot;/uploads/short-url/4gvCNhau0q6wcmeVqpYU9UkfG6E.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/d/e/1de6783f018cc4e54865a14b80275a1b26f77f4c_2_170x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;4gvCNhau0q6wcmeVqpYU9UkfG6E&quot; width=&quot;170&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/d/e/1de6783f018cc4e54865a14b80275a1b26f77f4c_2_170x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/d/e/1de6783f018cc4e54865a14b80275a1b26f77f4c_2_255x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/d/e/1de6783f018cc4e54865a14b80275a1b26f77f4c_2_340x1000.jpeg 2x&quot; data-dominant-color=&quot;E7E8EA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;20 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2421192&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>ChatGPT市场份额首次跌破50%：Gemini与Claude分食，DoD合作引发卸载</title>
-      <link>https://linux.do/t/topic/2421019</link>
-      <guid>linux.do-topic-2421019</guid>
-      <pubDate>Wed, 17 Jun 2026 05:31:24 GMT</pubDate>
-      <description>
-            &lt;p&gt;分析公司 Sensor Tower 发布的《2026 年 AI 现状报告》显示，截至 2026 年 5 月底，ChatGPT 的全球市场份额已降至 46.4%，为发布以来首次跌破 50% 关口。谷歌 Gemini 与 Anthropic 的 Claude 正在分流 ChatGPT 的用户，两者份额分别攀升至 27.7% 和 10.3%。&lt;/p&gt;
-&lt;p&gt;报告指出，品牌价值观与信任度对用户流失有直接影响。OpenAI 于 2026 年 2 月与美国国防部（DoD）达成合作，曾直接导致 ChatGPT 卸载量激增 295%。与此同时，各平台正加速变现。OpenAI 于 2026 年 2 月在 ChatGPT 中测试广告，至 5 月已有 17% 的日活跃用户会接触广告，软件与购物是最大的广告主类别。&lt;/p&gt;
-&lt;p&gt;在细分变现与渠道上，Claude 凭借高粘性的生产力场景，以 13% 的付费转化率居行业首位。此外，随着 ChatGPT 逐步深化购物导流，沃尔玛、好市多等转诊流量显著增长，而封禁了 ChatGPT 网页爬虫的亚马逊导流流量则持续停滞。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/9/e/29e10eb67cef727179bfa0084ded00ad268bb126.jpeg&quot; data-download-href=&quot;/uploads/short-url/5YtL6hpLFS3F4dO6tQBlzNMvyqG.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/9/e/29e10eb67cef727179bfa0084ded00ad268bb126_2_690x268.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5YtL6hpLFS3F4dO6tQBlzNMvyqG&quot; width=&quot;690&quot; height=&quot;268&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/9/e/29e10eb67cef727179bfa0084ded00ad268bb126_2_690x268.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/9/e/29e10eb67cef727179bfa0084ded00ad268bb126_2_1035x402.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/9/e/29e10eb67cef727179bfa0084ded00ad268bb126_2_1380x536.jpeg 2x&quot; data-dominant-color=&quot;498372&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/c/6/ac6eb14864131938b948682966a3c3d935725e14.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;56CE82&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;10:30AM - 16 June 2026&quot;&gt;TechCrunch – 16 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/4/d/64de7233169caf5bb747dc9c487f680ef2ef57a1_2_690x459.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;565C81&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;ChatGPT&#39;s market share slips below 50% for first time | TechCrunch&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.&lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 5 minutes&lt;/span&gt;
-  &lt;/p&gt;
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2421019&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>智谱GLM-5.2，已开源，仅次于肥波5</title>
-      <link>https://linux.do/t/topic/2420775</link>
-      <guid>linux.do-topic-2420775</guid>
-      <pubDate>Wed, 17 Jun 2026 04:37:49 GMT</pubDate>
-      <description>
-            &lt;p&gt;微信公账号刚发的，上线并开源了 GLM-5.2&lt;/p&gt;
-&lt;p&gt;怪不得字节的 coding plan 也上线了 5.2，可能内部早就对接好了，就等开源后上线了&lt;/p&gt;
-&lt;p&gt;看官方介绍，“已经超过了”Opus4.7和4.8&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/0/e/20e9c5f8cee45c250ce8aaf076ba22c71cdf5254.jpeg&quot; data-download-href=&quot;/uploads/short-url/4Ha8raf4BWBFnkpovyVvaC3tVkg.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/0/e/20e9c5f8cee45c250ce8aaf076ba22c71cdf5254_2_500x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;4Ha8raf4BWBFnkpovyVvaC3tVkg&quot; width=&quot;500&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/0/e/20e9c5f8cee45c250ce8aaf076ba22c71cdf5254_2_500x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/0/e/20e9c5f8cee45c250ce8aaf076ba22c71cdf5254_2_750x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/0/e/20e9c5f8cee45c250ce8aaf076ba22c71cdf5254_2_1000x1000.jpeg 2x&quot; data-dominant-color=&quot;E2E1E4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/7/1/d7186425ee385405c8bc5072bb67f7ebe837ba45.jpeg&quot; data-download-href=&quot;/uploads/short-url/uGOUFE05R8Yy0eMU4uLBat46pTv.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/1/d7186425ee385405c8bc5072bb67f7ebe837ba45_2_690x455.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;uGOUFE05R8Yy0eMU4uLBat46pTv&quot; width=&quot;690&quot; height=&quot;455&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/1/d7186425ee385405c8bc5072bb67f7ebe837ba45_2_690x455.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/7/1/d7186425ee385405c8bc5072bb67f7ebe837ba45_2_1035x682.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/7/1/d7186425ee385405c8bc5072bb67f7ebe837ba45_2_1380x910.jpeg 2x&quot; data-dominant-color=&quot;DDE9EE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://z.ai/blog/glm-5.2&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://z.ai/blog/glm-5.2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/hrZcV05ZSIKvd1dzSqDNDQ&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://mp.weixin.qq.com/s/hrZcV05ZSIKvd1dzSqDNDQ&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;46 个帖子 - 34 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2420775&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>招笑的nebius,第一时间上线glm-5.2，但是几乎没法用</title>
-      <link>https://linux.do/t/topic/2420764</link>
-      <guid>linux.do-topic-2420764</guid>
-      <pubDate>Wed, 17 Jun 2026 04:35:54 GMT</pubDate>
-      <description>
-            &lt;p&gt;现在都没人提这个平台了，量化狂魔，以前被kimi说他的部署的kimi模型最差，后来没更新信息就会清空余额，估计没什么人用了，而且他家价格是没有缓存的，全部全价。&lt;br&gt;
-他的glm-5.2第一时间上线了，速度还不错，FP8的，但是但是他妹妹的，上下文是 131k！！！！！！！！！&lt;br&gt;
-131k啊，我看了下以为它填错了，然后实测，塞了个 150k的上下文进去直接歇了，不是填错，就是 131k上下文。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/9/e/b9eb2e3cc1af5d430ac4c208e3cb03b8f34cdcb6.png&quot; data-download-href=&quot;/uploads/short-url/qwIcEQQBX16xcxEbsHlmC44NH1k.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/9/e/b9eb2e3cc1af5d430ac4c208e3cb03b8f34cdcb6_2_379x499.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;qwIcEQQBX16xcxEbsHlmC44NH1k&quot; width=&quot;379&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/9/e/b9eb2e3cc1af5d430ac4c208e3cb03b8f34cdcb6_2_379x499.png, https://cdn3.ldstatic.com/optimized/4X/b/9/e/b9eb2e3cc1af5d430ac4c208e3cb03b8f34cdcb6_2_568x748.png 1.5x, https://cdn3.ldstatic.com/original/4X/b/9/e/b9eb2e3cc1af5d430ac4c208e3cb03b8f34cdcb6.png 2x&quot; data-dominant-color=&quot;F7F7F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2420764&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
