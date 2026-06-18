@@ -4,51 +4,121 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Thu, 18 Jun 2026 07:25:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:33:13 GMT</lastBuildDate>
     <item>
-      <title>请问佬们,claude用不了了吗</title>
-      <link>https://linux.do/t/topic/2428846</link>
-      <guid>linux.do-topic-2428846</guid>
-      <pubDate>Thu, 18 Jun 2026 07:25:37 GMT</pubDate>
+      <title>马斯克预测中国AI或于2027第一季度达到Fable级别</title>
+      <link>https://linux.do/t/topic/2430657</link>
+      <guid>linux.do-topic-2430657</guid>
+      <pubDate>Thu, 18 Jun 2026 11:30:28 GMT</pubDate>
       <description>
-            &lt;p&gt;如题,本人给claude.ai对话,消息完全发不出去.换了一个IP还是发不出去.是我被封了吗?没有收到邮件&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2428846&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;根据社交媒体平台 X上的最新动态，埃隆·马斯克（Elon Musk）就中国人工智能AI的发展进度发表了最新预测。&lt;/p&gt;
+&lt;p&gt;网友 Lunexa 在推文中指出，随着 &lt;strong&gt;GLM-5.2&lt;/strong&gt; 模型的发布，中国在人工智能领域的实力差距已经被显著缩小。随后该网友向马斯克提问，按照目前的进展，预计中国还需要多久才能达到Fable级别。马斯克在9小时后对该问题给出了简短而直接的回复：&lt;strong&gt;可能是2027第一季度（Probably Q1）&lt;/strong&gt;。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/b/f/6bfbe3d8e0b3ccb41e3a06a02cc4bd6890fa3cbf.png&quot; data-download-href=&quot;/uploads/short-url/fpgLcbq8tDUMVkcjP3KuBSx915Z.png?dl=1&quot; title=&quot;Screenshot_20260618-192427&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/b/f/6bfbe3d8e0b3ccb41e3a06a02cc4bd6890fa3cbf_2_690x458.png&quot; alt=&quot;Screenshot_20260618-192427&quot; data-base62-sha1=&quot;fpgLcbq8tDUMVkcjP3KuBSx915Z&quot; width=&quot;690&quot; height=&quot;458&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/b/f/6bfbe3d8e0b3ccb41e3a06a02cc4bd6890fa3cbf_2_690x458.png, https://cdn3.ldstatic.com/original/4X/6/b/f/6bfbe3d8e0b3ccb41e3a06a02cc4bd6890fa3cbf.png 1.5x, https://cdn3.ldstatic.com/original/4X/6/b/f/6bfbe3d8e0b3ccb41e3a06a02cc4bd6890fa3cbf.png 2x&quot; data-dominant-color=&quot;F7F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/Zai_org/status/2067556661691064709&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://x.com/Zai_org/status/2067556661691064709&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2430657&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
-      <title>华为昇腾 0 Day 支持智谱 GLM-5.2 模型，提供全面推理优化</title>
-      <link>https://linux.do/t/topic/2428728</link>
-      <guid>linux.do-topic-2428728</guid>
-      <pubDate>Thu, 18 Jun 2026 07:09:57 GMT</pubDate>
+      <title>Microsoft Teams 通过 Wi-Fi 连接引入办公考勤跟踪功能</title>
+      <link>https://linux.do/t/topic/2430639</link>
+      <guid>linux.do-topic-2430639</guid>
+      <pubDate>Thu, 18 Jun 2026 11:25:34 GMT</pubDate>
       <description>
-            &lt;p&gt;[IT之家]6 月 18 日消息，“昇腾 AI 开发者”公众号 6 月 17 日宣布，昇腾 0 Day 支持 GLM-5.2，为编程与长程任务提供全面推理优化。&lt;/p&gt;
-&lt;p&gt;据官方介绍，目前&lt;strong&gt;昇腾 A3 系列&lt;/strong&gt;产品已经支持 GLM5.2 的单双机以及大 EP 推理部署。针对 GLM5.2 模型的结构特点，昇腾围绕以下几个关键技术开展了高效推理优化：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;**MOE 大融合算子：**将专家路由、加权计算与结果归约融合为统一算子，消除中间张量冗余读写，显著提升计算效率。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;**通信与计算融合：**通过将 AllReduce 优化为 ReduceScatter 与 AllGather 通信原语，并与矩阵计算形成紧耦合流水线，实现通信延迟的有效隐藏。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;**注意力前处理与多 Token 预测优化：**采用注意力前处理融合算子，结合多 Token 预测（MTP）机制的加速，提升单步生成效率。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;**高并发调度与预填充延迟机制：**在高并发混合负载场景下引入预填充延迟调度，平滑计算峰值，降低 Prefill 阶段对 Decode 阶段的资源抢占。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;**智能缓存与索引优化：**结合 IndexCache 技术缓存高频专家路径与静态路由表，并采用 Chunked Prefill、稀疏索引检索等方法，优化长上下文推理性能。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;**PD 分离与 Prefix Cache：**通过 Prefill 与 Decode 阶段分离及前缀缓存技术，压缩解码时延抖动，提升在线服务吞吐稳定性。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;极致 Infra 优化，Day 0 运行在国产算力平台：在 1M 上下文长度下，将单位 token 的 FLOPs 降低至 2.9 倍；已在 Day 0 完成与华为昇腾、平头哥、摩尔线程、寒武纪、昆仑芯、沐曦、海光、壁仞等国产算力平台的推理适配；预计下半年昇腾 950 超节点上市后，也将成为 GLM-5.2 强劲的算力底座&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2428728&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://cybersecuritynews.com/microsoft-teams-office-attendance/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/6/e/66ec7dd9e8b2aa3e226d5f7cdb68d1ed87a6c2c3.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;354F92&quot; width=&quot;40&quot; height=&quot;40&quot;&gt;
+
+      &lt;a href=&quot;https://cybersecuritynews.com/microsoft-teams-office-attendance/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;11:17AM - 16 June 2026&quot;&gt;Cyber Security News – 16 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/0/b/c0b854219f1bf19aac906f3ed526a2ab7f5653dc_2_690x388.webp&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;2A416F&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://cybersecuritynews.com/microsoft-teams-office-attendance/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Microsoft Teams Introduces Office Attendance Tracking via Wi-Fi Connection&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Microsoft is rolling out a new workplace presence feature in Microsoft Teams that automatically updates a user&#39;s work location when they connect to their organization&#39;s Wi-Fi network.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 2 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;微软正在 Microsoft Teams 中推出一项新的工作场所存在功能，当用户连接到组织的 Wi-Fi 网络时，该功能会自动更新用户的工作位置。&lt;/p&gt;
+&lt;p&gt;该功能的正式名称为 “通过 Wi-Fi 在工作场所签到”，于 2026 年 6 月开始全面推出，列在路线图 ID 488800 下。&lt;/p&gt;
+&lt;p&gt;这项新功能是 Teams 现有签到功能的延伸，以前员工可以手动签到到大楼或预订的办公桌。&lt;/p&gt;
+&lt;p&gt;有了基于 Wi-Fi 的签到功能，团队现在可以在用户连接到识别的企业 Wi-Fi 网络时进行检测，并自动在工作位置状态中反映相应的楼宇或办公室位置，无需手动输入。&lt;/p&gt;
+&lt;p&gt;&lt;span lang=&quot;zh&quot;&gt;该功能目前可用于台式机和 Mac 平台，并在全球标准多租户云实例中部署。&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2430639&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>【慢讯】Deepseek开放识图模式</title>
+      <link>https://linux.do/t/topic/2430060</link>
+      <guid>linux.do-topic-2430060</guid>
+      <pubDate>Thu, 18 Jun 2026 09:56:51 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/e/1/9e1f6ceef9a547e9be0e9096ba18cdd9aca498d5.png&quot; data-download-href=&quot;/uploads/short-url/myOLGNWp5ObOqM5cVOnWUuueO9L.png?dl=1&quot; title=&quot;69339dc321ceed59d4392c3e1ffdefee&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/e/1/9e1f6ceef9a547e9be0e9096ba18cdd9aca498d5_2_690x315.png&quot; alt=&quot;69339dc321ceed59d4392c3e1ffdefee&quot; data-base62-sha1=&quot;myOLGNWp5ObOqM5cVOnWUuueO9L&quot; width=&quot;690&quot; height=&quot;315&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/e/1/9e1f6ceef9a547e9be0e9096ba18cdd9aca498d5_2_690x315.png, https://cdn3.ldstatic.com/optimized/4X/9/e/1/9e1f6ceef9a547e9be0e9096ba18cdd9aca498d5_2_1035x472.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/e/1/9e1f6ceef9a547e9be0e9096ba18cdd9aca498d5_2_1380x630.png 2x&quot; data-dominant-color=&quot;FBFCFD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/4/2/142175a93dbf4c33cab7e3f3c3970fab4daee337.png&quot; data-download-href=&quot;/uploads/short-url/2S5eEl3HOcgNbWwERGP56AmwVTx.png?dl=1&quot; title=&quot;b9ee27963443b34e0f76e43f4ecfd4ac&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/4/2/142175a93dbf4c33cab7e3f3c3970fab4daee337_2_690x380.png&quot; alt=&quot;b9ee27963443b34e0f76e43f4ecfd4ac&quot; data-base62-sha1=&quot;2S5eEl3HOcgNbWwERGP56AmwVTx&quot; width=&quot;690&quot; height=&quot;380&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/4/2/142175a93dbf4c33cab7e3f3c3970fab4daee337_2_690x380.png, https://cdn3.ldstatic.com/optimized/4X/1/4/2/142175a93dbf4c33cab7e3f3c3970fab4daee337_2_1035x570.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/4/2/142175a93dbf4c33cab7e3f3c3970fab4daee337_2_1380x760.png 2x&quot; data-dominant-color=&quot;F6F6F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+/model接口返回：&lt;br&gt;
+{&lt;br&gt;
+“object”: “list”,&lt;br&gt;
+“data”: [&lt;br&gt;
+{&lt;br&gt;
+“id”: “deepseek-v4-flash”,&lt;br&gt;
+“object”: “model”,&lt;br&gt;
+“owned_by”: “deepseek”&lt;br&gt;
+},&lt;br&gt;
+{&lt;br&gt;
+“id”: “deepseek-v4-pro”,&lt;br&gt;
+“object”: “model”,&lt;br&gt;
+“owned_by”: “deepseek”&lt;br&gt;
+}&lt;br&gt;
+]&lt;br&gt;
+}&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;API暂未给出&lt;br&gt;
+DS喜欢节假日给人送惊喜啊&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2430060&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>招商永隆客服:金葵花月费暂免至12月31日</title>
+      <link>https://linux.do/t/topic/2429497</link>
+      <guid>linux.do-topic-2429497</guid>
+      <pubDate>Thu, 18 Jun 2026 08:51:13 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;strong&gt;经与招商永隆银行客服确认，2026年12月31日前，金葵花服务月费仍免收。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;感谢 一只烧鼬 投稿&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;轉自 encmasuta&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2429497&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>吃鸡PUBG更新了ai队友</title>
+      <link>https://linux.do/t/topic/2429261</link>
+      <guid>linux.do-topic-2429261</guid>
+      <pubDate>Thu, 18 Jun 2026 08:16:49 GMT</pubDate>
+      <description>
+            &lt;p&gt;在街机模式里可以玩，可以语音聊天，以后游戏陪玩也要逐渐没市场了（）&lt;br&gt;
+不过是N卡限定&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/f/c/efcd99c253963d85271742c493dbedee658408ed.jpeg&quot; data-download-href=&quot;/uploads/short-url/ydoBZmqLolPIiK1L5wLLGsUVDxr.jpeg?dl=1&quot; title=&quot;tmp77BA&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/c/efcd99c253963d85271742c493dbedee658408ed_2_269x500.jpeg&quot; alt=&quot;tmp77BA&quot; data-base62-sha1=&quot;ydoBZmqLolPIiK1L5wLLGsUVDxr&quot; width=&quot;269&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/c/efcd99c253963d85271742c493dbedee658408ed_2_269x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/f/c/efcd99c253963d85271742c493dbedee658408ed_2_403x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/f/c/efcd99c253963d85271742c493dbedee658408ed_2_538x1000.jpeg 2x&quot; data-dominant-color=&quot;F0F0F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2429261&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
@@ -60,7 +130,7 @@
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/5/a/35a7dd8d2445fd843d05030760d917260b0aac14.png&quot; data-download-href=&quot;/uploads/short-url/7EEXgKgStu1WEls6U0U2UQN3lWY.png?dl=1&quot; title=&quot;Screenshot_20260618-142957&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/a/35a7dd8d2445fd843d05030760d917260b0aac14_2_599x500.png&quot; alt=&quot;Screenshot_20260618-142957&quot; data-base62-sha1=&quot;7EEXgKgStu1WEls6U0U2UQN3lWY&quot; width=&quot;599&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/a/35a7dd8d2445fd843d05030760d917260b0aac14_2_599x500.png, https://cdn3.ldstatic.com/original/4X/3/5/a/35a7dd8d2445fd843d05030760d917260b0aac14.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/5/a/35a7dd8d2445fd843d05030760d917260b0aac14.png 2x&quot; data-dominant-color=&quot;F9FAFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;并且疑似测试新模型&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/2/6/8266001af67ebb47b994d5015aae8f582465140e.png&quot; data-download-href=&quot;/uploads/short-url/iByBzAo4tzVavEgiJHoeoZCBxca.png?dl=1&quot; title=&quot;Screenshot_20260618-143253&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/2/6/8266001af67ebb47b994d5015aae8f582465140e_2_690x163.png&quot; alt=&quot;Screenshot_20260618-143253&quot; data-base62-sha1=&quot;iByBzAo4tzVavEgiJHoeoZCBxca&quot; width=&quot;690&quot; height=&quot;163&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/2/6/8266001af67ebb47b994d5015aae8f582465140e_2_690x163.png, https://cdn3.ldstatic.com/optimized/4X/8/2/6/8266001af67ebb47b994d5015aae8f582465140e_2_1035x244.png 1.5x, https://cdn3.ldstatic.com/original/4X/8/2/6/8266001af67ebb47b994d5015aae8f582465140e.png 2x&quot; data-dominant-color=&quot;282932&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;22 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2428337&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -85,7 +155,7 @@
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/9/a/e9a5e7c03356413c293531ab3d879645b346e358.png&quot; data-download-href=&quot;/uploads/short-url/xkWHsL7RjlnaascQ3TEhFpxPacM.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/9/a/e9a5e7c03356413c293531ab3d879645b346e358_2_690x346.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xkWHsL7RjlnaascQ3TEhFpxPacM&quot; width=&quot;690&quot; height=&quot;346&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/9/a/e9a5e7c03356413c293531ab3d879645b346e358_2_690x346.png, https://cdn3.ldstatic.com/optimized/4X/e/9/a/e9a5e7c03356413c293531ab3d879645b346e358_2_1035x519.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/9/a/e9a5e7c03356413c293531ab3d879645b346e358_2_1380x692.png 2x&quot; data-dominant-color=&quot;FBFBFD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 佬友们看看能不能看到？感觉 v4.1 快要来了哇&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;15 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;26 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2428125&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -96,7 +166,7 @@
       <pubDate>Thu, 18 Jun 2026 05:36:25 GMT</pubDate>
       <description>
             &lt;p&gt;今天Codex的额度又重置了。我在L站闲逛时看到几个佬在说Plus和Pro 20x的实际可用额度似乎被下调了，不知道这个消息是否属实？&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;35 个帖子 - 24 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427913&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -177,7 +247,7 @@
 &lt;/aside&gt;
 &lt;p&gt;
 Google建议开发者立即排查现有密钥、删除不再使用的密钥、将密钥的API访问范围收窄至最小必要集合，并使用Secret Manager等服务进行安全存储。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427827&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -197,7 +267,7 @@ Google建议开发者立即排查现有密钥、删除不再使用的密钥、�
 &lt;hr&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/2/7/627adb49ecc0706a6b7944a4263c5a0f3fb78ea4.png&quot; data-download-href=&quot;/uploads/short-url/e3c0GR1qcm0YWEoQnOyK8yrItpi.png?dl=1&quot; title=&quot;Screenshot_20260618-125520_豆包&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/2/7/627adb49ecc0706a6b7944a4263c5a0f3fb78ea4_2_230x500.png&quot; alt=&quot;Screenshot_20260618-125520_豆包&quot; data-base62-sha1=&quot;e3c0GR1qcm0YWEoQnOyK8yrItpi&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/2/7/627adb49ecc0706a6b7944a4263c5a0f3fb78ea4_2_230x500.png, https://cdn3.ldstatic.com/optimized/4X/6/2/7/627adb49ecc0706a6b7944a4263c5a0f3fb78ea4_2_345x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/2/7/627adb49ecc0706a6b7944a4263c5a0f3fb78ea4_2_460x1000.png 2x&quot; data-dominant-color=&quot;E7EDF0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 刑！&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;71 个帖子 - 49 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;94 个帖子 - 69 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427590&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -214,7 +284,7 @@ Google建议开发者立即排查现有密钥、删除不再使用的密钥、�
 可一键领取 15 天免费时长，15天内额度使用完额外再加赠 1 次 15 天，自动叠加至现有订阅套餐，有效期顺延！&lt;/p&gt;
 &lt;p&gt;活动周期&lt;br&gt;
 即日起 - 2026年7月18日23:59（北京时间)&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427492&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -237,7 +307,7 @@ Google建议开发者立即排查现有密钥、删除不再使用的密钥、�
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/a/4/fa4a6cf1278d75b9cdcfb9f335a328ed13beb921.jpeg&quot; data-download-href=&quot;/uploads/short-url/zIaP41zZEwXW3cdAA7ACla8jAjf.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/4/fa4a6cf1278d75b9cdcfb9f335a328ed13beb921_2_554x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zIaP41zZEwXW3cdAA7ACla8jAjf&quot; width=&quot;554&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/4/fa4a6cf1278d75b9cdcfb9f335a328ed13beb921_2_554x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/a/4/fa4a6cf1278d75b9cdcfb9f335a328ed13beb921_2_831x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/a/4/fa4a6cf1278d75b9cdcfb9f335a328ed13beb921_2_1108x1000.jpeg 2x&quot; data-dominant-color=&quot;69696B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427408&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -249,7 +319,7 @@ Google建议开发者立即排查现有密钥、删除不再使用的密钥、�
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/e/8/ce8fde13c256d7c7debd0d64b9060038efb89673.jpeg&quot; data-download-href=&quot;/uploads/short-url/ttkANKc27MpwLxtc1WEgZMlrxhp.jpeg?dl=1&quot; title=&quot;1000051751.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/e/8/ce8fde13c256d7c7debd0d64b9060038efb89673_2_232x500.jpeg&quot; alt=&quot;1000051751.jpg&quot; data-base62-sha1=&quot;ttkANKc27MpwLxtc1WEgZMlrxhp&quot; width=&quot;232&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/e/8/ce8fde13c256d7c7debd0d64b9060038efb89673_2_232x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/e/8/ce8fde13c256d7c7debd0d64b9060038efb89673_2_348x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/e/8/ce8fde13c256d7c7debd0d64b9060038efb89673_2_464x1000.jpeg 2x&quot; data-dominant-color=&quot;FCFCFD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 DeepSeek 全量上线识图模式，佬友们可以看看自己的 DeepSeek 上是否已有识图模式&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;71 个帖子 - 62 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;72 个帖子 - 62 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427310&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -276,7 +346,7 @@ DeepSeek 全量上线识图模式，佬友们可以看看自己的 DeepSeek 上�
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/2/a/f2ac485d64a5262e9df7eee94ba01a26f9a1fb9d.png&quot; data-download-href=&quot;/uploads/short-url/yCMF1S98xGpXpErMauq0sjf3UGp.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/2/a/f2ac485d64a5262e9df7eee94ba01a26f9a1fb9d_2_690x292.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;yCMF1S98xGpXpErMauq0sjf3UGp&quot; width=&quot;690&quot; height=&quot;292&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/2/a/f2ac485d64a5262e9df7eee94ba01a26f9a1fb9d_2_690x292.png, https://cdn3.ldstatic.com/original/4X/f/2/a/f2ac485d64a5262e9df7eee94ba01a26f9a1fb9d.png 1.5x, https://cdn3.ldstatic.com/original/4X/f/2/a/f2ac485d64a5262e9df7eee94ba01a26f9a1fb9d.png 2x&quot; data-dominant-color=&quot;F9F9FB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 可能是逐步的，没有的大概需要等一段时间刷新或者更新app试试&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427270&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -289,7 +359,7 @@ DeepSeek 全量上线识图模式，佬友们可以看看自己的 DeepSeek 上�
             &lt;p&gt;Google Gemini联合负责人、工程副总裁&lt;strong&gt;Noam Shazeer&lt;/strong&gt;在X平台宣布，他将离开Google加入OpenAI。他在帖文中称这是一个「艰难的决定」，但未透露其在OpenAI的具体职位。&lt;/p&gt;
 &lt;p&gt;Shazeer是Transformer架构奠基论文Attention is All You Need的联合作者之一，2000年起在Google担任软件工程师长达二十余年。2021年末他离开Google创办了Character.ai并担任CEO，直到2024年8月通过一项与Google的授权协议重新回归，出任工程副总裁并共同领导Gemini项目。&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/8/4/a840fe1ec4c96b6e02011b823cfc238d895b4932.png&quot; data-download-href=&quot;/uploads/short-url/o0rsAHxHDwPD4Kt5PMXNVYU40PU.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/8/4/a840fe1ec4c96b6e02011b823cfc238d895b4932_2_526x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;o0rsAHxHDwPD4Kt5PMXNVYU40PU&quot; width=&quot;526&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/8/4/a840fe1ec4c96b6e02011b823cfc238d895b4932_2_526x500.png, https://cdn3.ldstatic.com/original/4X/a/8/4/a840fe1ec4c96b6e02011b823cfc238d895b4932.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/8/4/a840fe1ec4c96b6e02011b823cfc238d895b4932.png 2x&quot; data-dominant-color=&quot;0D0D0D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427233&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -302,6 +372,9 @@ DeepSeek 全量上线识图模式，佬友们可以看看自己的 DeepSeek 上�
             &lt;p&gt;现在可以直接在代码库中直接输入&lt;code&gt;/design-sync&lt;/code&gt;同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码)&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/b/a/6ba52e3c6ee6e2fcf74e9854270dff82d746280d.jpeg&quot; data-download-href=&quot;/uploads/short-url/fmgZcElXvw3WJimK1qI1YskJlZr.jpeg?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/b/a/6ba52e3c6ee6e2fcf74e9854270dff82d746280d_2_659x500.jpeg&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;fmgZcElXvw3WJimK1qI1YskJlZr&quot; width=&quot;659&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/b/a/6ba52e3c6ee6e2fcf74e9854270dff82d746280d_2_659x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/b/a/6ba52e3c6ee6e2fcf74e9854270dff82d746280d_2_988x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/6/b/a/6ba52e3c6ee6e2fcf74e9854270dff82d746280d.jpeg 2x&quot; data-dominant-color=&quot;837B74&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/a/3/ca3c95bf771809ed6a433076b13e9ca6bd0bcb34.jpeg&quot; data-download-href=&quot;/uploads/short-url/sR4fBvA6DuRiB1jRkfbCO5ppfhO.jpeg?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/a/3/ca3c95bf771809ed6a433076b13e9ca6bd0bcb34_2_690x388.jpeg&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;sR4fBvA6DuRiB1jRkfbCO5ppfhO&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/a/3/ca3c95bf771809ed6a433076b13e9ca6bd0bcb34_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/a/3/ca3c95bf771809ed6a433076b13e9ca6bd0bcb34_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/a/3/ca3c95bf771809ed6a433076b13e9ca6bd0bcb34_2_1380x776.jpeg 2x&quot; data-dominant-color=&quot;C8BDB4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件&lt;/p&gt;
+&lt;/blockquote&gt;
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427228&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
@@ -316,7 +389,7 @@ DeepSeek 全量上线识图模式，佬友们可以看看自己的 DeepSeek 上�
 &lt;p&gt;该套邮票首次在油墨中融入硅基材料，并采用光彩光变、冷烫、击凸等工艺。邮票将在全国指定邮政网点和线上渠道出售，限期 6 个月。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/2/f/e2f82636ebceda7550224a05a091d86042789184.jpeg&quot; data-download-href=&quot;/uploads/short-url/wnRz4wjXq2YKphfW3obQkJGSNXC.jpeg?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/2/f/e2f82636ebceda7550224a05a091d86042789184_2_690x381.jpeg&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;wnRz4wjXq2YKphfW3obQkJGSNXC&quot; width=&quot;690&quot; height=&quot;381&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/2/f/e2f82636ebceda7550224a05a091d86042789184_2_690x381.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/2/f/e2f82636ebceda7550224a05a091d86042789184_2_1035x571.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/e/2/f/e2f82636ebceda7550224a05a091d86042789184.jpeg 2x&quot; data-dominant-color=&quot;DDDCDD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://mall.11185.cn/h5/#/jfGoodsDetails?spuId=69628542&amp;businessId=JY&amp;udcSrc=JY_jyIndex_window_weChat&amp;udcSrcId=1&amp;udcSrcPos=1&quot; rel=&quot;noopener nofollow ugc&quot;&gt;中国邮政&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427046&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -543,90 +616,6 @@ Noam Shazeer 是：&lt;p&gt;&lt;/p&gt;
 现在上班的第一时间先检测下codex 是否可以正常，这一打开天塌了，有更新安全下车的吗&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;26 个帖子 - 18 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425950&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>codex又重置额度了，但是重置完好像5小时限制和周限制额度又降低了</title>
-      <link>https://linux.do/t/topic/2425932</link>
-      <guid>linux.do-topic-2425932</guid>
-      <pubDate>Thu, 18 Jun 2026 01:11:50 GMT</pubDate>
-      <description>
-            &lt;p&gt;codex又重置额度了，但是重置完好像5小时限制和周限制额度又降低了？有没有佬是同样的问题&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;60 个帖子 - 40 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425932&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>codex 重置次数居然会和周重置累积</title>
-      <link>https://linux.do/t/topic/2425791</link>
-      <guid>linux.do-topic-2425791</guid>
-      <pubDate>Thu, 18 Jun 2026 00:46:29 GMT</pubDate>
-      <description>
-            &lt;p&gt;今天早上周额度重置后，重置次数也会被重置，如果未使用还会被累积变成两次重置机会&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/3/4/534896e4d1e2421d06b31cac4e8738b5f35203ff.png&quot; data-download-href=&quot;/uploads/short-url/bSL9qZ9xqTdTniRasXZMRb9dsDl.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/4/534896e4d1e2421d06b31cac4e8738b5f35203ff_2_459x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bSL9qZ9xqTdTniRasXZMRb9dsDl&quot; width=&quot;459&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/4/534896e4d1e2421d06b31cac4e8738b5f35203ff_2_459x500.png, https://cdn3.ldstatic.com/original/4X/5/3/4/534896e4d1e2421d06b31cac4e8738b5f35203ff.png 1.5x, https://cdn3.ldstatic.com/original/4X/5/3/4/534896e4d1e2421d06b31cac4e8738b5f35203ff.png 2x&quot; data-dominant-color=&quot;F7F6F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;15 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425791&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。</title>
-      <link>https://linux.do/t/topic/2425787</link>
-      <guid>linux.do-topic-2425787</guid>
-      <pubDate>Thu, 18 Jun 2026 00:45:56 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://medicalxpress.com/news/2026-06-neuronal-ai-grammar-context-spoken.html&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/9/d/59d66a931e326acea69061d6c3eb2f3fa978595f.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;6F8633&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://medicalxpress.com/news/2026-06-neuronal-ai-grammar-context-spoken.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;01:20PM - 17 June 2026&quot;&gt;Medical Xpress – 17 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;img width=&quot;500&quot; height=&quot;500&quot; src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/3/273051e89bf4464894a0402620c7bc6a4c5c358e_2_500x500.jpeg&quot; class=&quot;thumbnail onebox-avatar&quot; alt=&quot;&quot; data-dominant-color=&quot;5E5867&quot;&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://medicalxpress.com/news/2026-06-neuronal-ai-grammar-context-spoken.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;With neuronal data, AI models predict grammar, meaning and context of spoken...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;By applying machine-learning models to single-cell brain recordings taken from humans in conversation, a research team identified both individual and collective neuronal activity that reflected key features of language. The work, published in Nature,...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;通过将机器学习模型应用于人类对话过程中采集的单细胞脑电活动记录，一个研究团队识别出了反映语言关键特征的个体和群体神经元活动。这项发表在《自然》杂志上的研究，以前所未有的方式揭示了神经元如何编码语言信息，并表明未来或许可以利用脑电活动来推断与言语相关的思维，这可能对某些患者带来变革性的影响。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-026-01922-w&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/d41586-026-01922-w&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;在人开口说话前的瞬间，大脑会迅速构建复杂的语法、精准的词汇以及语言的潜在含义。如今，研究人员实时追踪了人们在即兴对话中单个脑细胞的电活动，从而捕捉到了在开口说话之前句子是如何构建的。&lt;/p&gt;
-&lt;p&gt;通过观察人脑额颞叶皮层区域的这些神经元，科学家们发现，单个脑细胞就像是专门构建语言的模块。“我们过去认为语言是一种弥散的、涉及整个网络的现象，”波士顿麻省总医院（MGH）的神经外科医生、该研究的合著者齐夫·威廉姆斯（Ziv Williams）说道，“但事实证明，有些特定的神经元只关心一个词是否是名词，或者一个短语是否已经结束。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-026-10691-5&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/s41586-026-10691-5&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!abstract]+&lt;/p&gt;
-&lt;p&gt;人类能够通过语言传递新颖且极其丰富的信息。这种将词语组合成复杂短语和句子的能力使我们能够表达无穷无尽的含义，并且是人类认知的基础&lt;sup&gt;1,2,3,4,5&lt;/sup&gt;。然而，理解人类语言背后的微观细胞构成单元和皮层图谱仍然是一个挑战。在此，我们结合大规模单神经元记录和自然语言处理模型，识别了人类额颞叶皮层在语言产生过程中精细的语言表征。我们发现，某些神经元表征了词语之间或词性之间的详细语法关系，而另一些神经元则追踪句子的高级句法结构、短语过渡和顺序。这些神经元不仅能够可靠地捕捉词语的句法和语义属性，还能动态地整合其特定的句子语境，从而能够以组合的方式编码信息，并达到高度精细的细节水平。我们展示了这些细胞群的局部组织方式，以及它们的微观表征与更广泛的场电位模式之间的差异。我们还发现这些神经元广泛分布于额颞叶皮层，但它们编码语言信息的能力具有左侧优势，且在不同皮层区域之间存在差异。这些发现共同揭示了人类编码语言信息的一些最基本的细胞组成单元，并开始从微观（细胞）、中观（局部群体）和宏观（区域）三个尺度上构建语言的皮层图谱。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/0/1/901bf74da9f393a2ef9c17e4099c5e92862a96fd.jpeg&quot; data-download-href=&quot;/uploads/short-url/kyQFHNGhYVaP3H86AoTRolH3XDD.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/0/1/901bf74da9f393a2ef9c17e4099c5e92862a96fd_2_362x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;kyQFHNGhYVaP3H86AoTRolH3XDD&quot; width=&quot;362&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/0/1/901bf74da9f393a2ef9c17e4099c5e92862a96fd_2_362x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/0/1/901bf74da9f393a2ef9c17e4099c5e92862a96fd_2_543x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/0/1/901bf74da9f393a2ef9c17e4099c5e92862a96fd_2_724x1000.jpeg 2x&quot; data-dominant-color=&quot;F1EBE9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;a，在 n = 579 个神经元中，对特定语言特征表现出选择性的神经元比例（左图；Mann-Whitney U 检验，α = 0.05，P 值已进行 FDR 校正以控制多重特征比较）。右图为重合矩阵，展示了对特定语言特征表现出选择性的神经元分布。插图：对低阶声学特征（例如音高）表现出重叠选择性的神经元百分比。b，代表性句子的依存结构，包括语法关系（依存关系）、依存深度和序数位置。此处标签分别为：nsubj（名词性主语）、advmod（状语修饰语）、prep（介词修饰语）、pobj（介词宾语）和 det（限定词）。 c，对依存关系和依存深度表现出选择性的神经元比例（n = 579）（左图；定义于 Mann-Whitney U 检验，α = 0.05，P 值已进行 FDR 校正以进行多重特征比较）。右上图，对特定语言特征表现出选择性的细胞分布的重合矩阵。右下图，基于编码属性（例如成分深度、依存深度和序数位置）的神经元数量及其重叠情况。d，每个语言特征下单个词的群体解码性能。平均性能（三角形）相对于随机水平（虚线）以及训练集-测试集划分迭代（直方图，单侧置换检验；参见“方法”部分中的“从神经活动中解码语言特征”）显示。扩展数据图 2.e 进一步展示了其他观察平均解码性能，这些性能证明了在不同的自举样本数、训练数据集和参与者之间解码性能的一致性。图 2.e 展示了群体神经元语言特征的降维表示（均匀流形逼近和投影 (UMAP)；参见“方法”部分的“单神经元分析”）。每个选定的神经元都根据其表现出显著选择性的特征进行颜色编码。对于响应多个特征的神经元，所有特征都会被绘制并叠加显示。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/a/d/8ad63cf7a1cc482a48f44fcb001606d84ded2171.jpeg&quot; data-download-href=&quot;/uploads/short-url/jOcTqIVDCj6Lq7XMEdMr5GYVDXj.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/a/d/8ad63cf7a1cc482a48f44fcb001606d84ded2171_2_690x311.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;jOcTqIVDCj6Lq7XMEdMr5GYVDXj&quot; width=&quot;690&quot; height=&quot;311&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/a/d/8ad63cf7a1cc482a48f44fcb001606d84ded2171_2_690x311.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/a/d/8ad63cf7a1cc482a48f44fcb001606d84ded2171_2_1035x466.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/a/d/8ad63cf7a1cc482a48f44fcb001606d84ded2171_2_1380x622.jpeg 2x&quot; data-dominant-color=&quot;E4E0E3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;a，神经元预测能力通过句法（独热向量）、语义（word2vec）、句法和语义相结合以及高阶上下文嵌入（LLaMA Vicuna）进行定义，定义为记录（观察）活动与模型（预测）活动之间的相关性（参见“方法”部分的“语言模型预测能力”）。b，群体预测能力的分布、四分位数、1.5倍四分位距（须线）、平均值（细线）和中位数（粗线）。每个点对应一个会话（n = 14；灰色圆圈：-0.3处的异常值）。随机预测能力以灰色显示。统计分析采用单侧置换检验（n = 105）。上下文特征与句法特征（P = 0.008，95% 置信区间 (CI) = 0.0076–0.058）、语义特征（P = 0.042，CI = -0.0015–0.069）以及语义-句法组合特征（P = 0.008，CI = 0.0069–0.054）相比；参见“方法”部分的“语言模型预测性”章节。c，上下文长度与总体预测性之间的关系，预测性能在 5 个词后趋于稳定（达到 1/e）。数据为平均值±标准误差。d，句子交换控制（顶部）。n = 14。数据为平均值±标准误差。预测性 = -0.01；单侧置换检验，P &lt; 10⁻⁵，n = 105，CI = 0.051–0.063。底部，伪句输入控制。n = 14。数据为均值 ± 标准误差。预测性 = -0.03；单侧置换检验，P &lt; 10⁻⁵，n = 105，CI = 0.069–0.082）。e，神经元群体的归一化上下文模型预测性，时间与单词发音对齐（左）。右，单个神经元在时间和网络层上的归一化预测性，计算时间范围为 -2,000 至 2,000 毫秒（以 100 毫秒为增量），以评估上下文整合⁵⁶,⁵⁷,⁶⁷,⁶⁸,⁶⁹。f，选择性神经元的平均峰值预测性用实心圆的大小表示；透明圆圈表示预测值的 2 个标准差（注意成分和依赖性的数据点有重叠）。*P &lt; 0.05，**P &lt; 0.01。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/f/a/1faafc0f251cf20f75d1d4feb9b41bbe6a1b9c6d.jpeg&quot; data-download-href=&quot;/uploads/short-url/4w98kGnb4sXTu5FjUT8Sg3AkJit.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/f/a/1faafc0f251cf20f75d1d4feb9b41bbe6a1b9c6d_2_455x499.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;4w98kGnb4sXTu5FjUT8Sg3AkJit&quot; width=&quot;455&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/f/a/1faafc0f251cf20f75d1d4feb9b41bbe6a1b9c6d_2_455x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/f/a/1faafc0f251cf20f75d1d4feb9b41bbe6a1b9c6d_2_682x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/f/a/1faafc0f251cf20f75d1d4feb9b41bbe6a1b9c6d_2_910x998.jpeg 2x&quot; data-dominant-color=&quot;EEEDED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;a，神经元在参与者、半球和脑区的分布。上图外环展示了选择性神经元的比例；各个扇形区域按参与者划分。这些扇形区域的亮度代表半球：较浅的色调代表左半球，较深的色调代表右半球。内环内，灰度标示了解剖区域：前颞叶皮层（深灰色）、后颞叶皮层（中灰色）和后额叶皮层（浅灰色）。下图展示了对一个或多个特征表现出选择性的神经元比例，按皮层区域和半球分组（扩展数据图 7a）。b，神经元在半球和皮层区域的调控。对一个或多个句法特征有显著反应的神经元的 z 分数按半球（上图）或脑区（下图）分组。单侧置换检验（n = 105）得出以下结果：左侧与右侧（P = 0.036，95% CI = -0.0051–0.11），颞叶前部与颞叶后部（P = 0.012，CI = 0.014–0.13），颞叶前部与额叶（P &lt; 10⁻⁵，CI = 0.16–0.34），以及颞叶后部与额叶（P = 0.0013，CI = 0.085–0.28）。左侧子图显示了对所有语言特征均有显著反应的神经元在所有语言特征上的平均z分数；黄绿色条形图表示z分数的平均值，黄橙色条形图表示z分数的中位数。右侧子图展示了对每个特定特征有选择性的神经元在不同半球（上图）和不同皮层区域（下图）上的平均z分数。 ***P&lt;0.001。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/8/2/782e07cf6495b9f064c7332356a5cb2d5e700c42.jpeg&quot; data-download-href=&quot;/uploads/short-url/h99UOuZmBcVhAdfqMWvmUPlhneq.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/8/2/782e07cf6495b9f064c7332356a5cb2d5e700c42_2_690x185.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;h99UOuZmBcVhAdfqMWvmUPlhneq&quot; width=&quot;690&quot; height=&quot;185&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/8/2/782e07cf6495b9f064c7332356a5cb2d5e700c42_2_690x185.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/8/2/782e07cf6495b9f064c7332356a5cb2d5e700c42_2_1035x277.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/8/2/782e07cf6495b9f064c7332356a5cb2d5e700c42_2_1380x370.jpeg 2x&quot; data-dominant-color=&quot;F1F2F2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;左图：单神经元动作电位 (AP) 与局部场电位 (LFP) 活动的比较。由于可以从相同的微电极位置（每个电极触点的基部直径约为 100 µm，尖端直径约为 5 µm）获取单神经元 AP 和群体 LFP，因此可以在微米尺度上对这两个核心活动指标进行位点特异性比较。所有神经元及其 LFP 活动的 z 分数均在相同的微电极位置记录。然后，我们对单神经元 z 分数进行排序和可视化，并将相同的排序顺序应用于 LFP z 分数。中图：单神经元活动的 z 分数显著高于 LFP 的 z 分数（双侧置换检验，P &lt; 10⁻⁴，n = 105，95% CI = 0.19–0.36）。右图：LFP 对语言特征的响应。我们通过统计单个通道同时对两种不同语言特征表现出显著响应的次数，来识别重叠响应的局部场电位（LFP）通道。重合矩阵显示了对一个或多个语言特征有显著响应的通道所占的百分比。&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425787&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
