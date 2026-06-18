@@ -4,7 +4,322 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:43:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 07:25:38 GMT</lastBuildDate>
+    <item>
+      <title>请问佬们,claude用不了了吗</title>
+      <link>https://linux.do/t/topic/2428846</link>
+      <guid>linux.do-topic-2428846</guid>
+      <pubDate>Thu, 18 Jun 2026 07:25:37 GMT</pubDate>
+      <description>
+            &lt;p&gt;如题,本人给claude.ai对话,消息完全发不出去.换了一个IP还是发不出去.是我被封了吗?没有收到邮件&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2428846&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>华为昇腾 0 Day 支持智谱 GLM-5.2 模型，提供全面推理优化</title>
+      <link>https://linux.do/t/topic/2428728</link>
+      <guid>linux.do-topic-2428728</guid>
+      <pubDate>Thu, 18 Jun 2026 07:09:57 GMT</pubDate>
+      <description>
+            &lt;p&gt;[IT之家]6 月 18 日消息，“昇腾 AI 开发者”公众号 6 月 17 日宣布，昇腾 0 Day 支持 GLM-5.2，为编程与长程任务提供全面推理优化。&lt;/p&gt;
+&lt;p&gt;据官方介绍，目前&lt;strong&gt;昇腾 A3 系列&lt;/strong&gt;产品已经支持 GLM5.2 的单双机以及大 EP 推理部署。针对 GLM5.2 模型的结构特点，昇腾围绕以下几个关键技术开展了高效推理优化：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;**MOE 大融合算子：**将专家路由、加权计算与结果归约融合为统一算子，消除中间张量冗余读写，显著提升计算效率。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;**通信与计算融合：**通过将 AllReduce 优化为 ReduceScatter 与 AllGather 通信原语，并与矩阵计算形成紧耦合流水线，实现通信延迟的有效隐藏。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;**注意力前处理与多 Token 预测优化：**采用注意力前处理融合算子，结合多 Token 预测（MTP）机制的加速，提升单步生成效率。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;**高并发调度与预填充延迟机制：**在高并发混合负载场景下引入预填充延迟调度，平滑计算峰值，降低 Prefill 阶段对 Decode 阶段的资源抢占。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;**智能缓存与索引优化：**结合 IndexCache 技术缓存高频专家路径与静态路由表，并采用 Chunked Prefill、稀疏索引检索等方法，优化长上下文推理性能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;**PD 分离与 Prefix Cache：**通过 Prefill 与 Decode 阶段分离及前缀缓存技术，压缩解码时延抖动，提升在线服务吞吐稳定性。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;极致 Infra 优化，Day 0 运行在国产算力平台：在 1M 上下文长度下，将单位 token 的 FLOPs 降低至 2.9 倍；已在 Day 0 完成与华为昇腾、平头哥、摩尔线程、寒武纪、昆仑芯、沐曦、海光、壁仞等国产算力平台的推理适配；预计下半年昇腾 950 超节点上市后，也将成为 GLM-5.2 强劲的算力底座&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2428728&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>DeepSeek 员工陈小康表示识图模式已经上线在网站和App</title>
+      <link>https://linux.do/t/topic/2428337</link>
+      <guid>linux.do-topic-2428337</guid>
+      <pubDate>Thu, 18 Jun 2026 06:30:21 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/5/a/35a7dd8d2445fd843d05030760d917260b0aac14.png&quot; data-download-href=&quot;/uploads/short-url/7EEXgKgStu1WEls6U0U2UQN3lWY.png?dl=1&quot; title=&quot;Screenshot_20260618-142957&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/a/35a7dd8d2445fd843d05030760d917260b0aac14_2_599x500.png&quot; alt=&quot;Screenshot_20260618-142957&quot; data-base62-sha1=&quot;7EEXgKgStu1WEls6U0U2UQN3lWY&quot; width=&quot;599&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/a/35a7dd8d2445fd843d05030760d917260b0aac14_2_599x500.png, https://cdn3.ldstatic.com/original/4X/3/5/a/35a7dd8d2445fd843d05030760d917260b0aac14.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/5/a/35a7dd8d2445fd843d05030760d917260b0aac14.png 2x&quot; data-dominant-color=&quot;F9FAFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;并且疑似测试新模型&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/2/6/8266001af67ebb47b994d5015aae8f582465140e.png&quot; data-download-href=&quot;/uploads/short-url/iByBzAo4tzVavEgiJHoeoZCBxca.png?dl=1&quot; title=&quot;Screenshot_20260618-143253&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/2/6/8266001af67ebb47b994d5015aae8f582465140e_2_690x163.png&quot; alt=&quot;Screenshot_20260618-143253&quot; data-base62-sha1=&quot;iByBzAo4tzVavEgiJHoeoZCBxca&quot; width=&quot;690&quot; height=&quot;163&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/2/6/8266001af67ebb47b994d5015aae8f582465140e_2_690x163.png, https://cdn3.ldstatic.com/optimized/4X/8/2/6/8266001af67ebb47b994d5015aae8f582465140e_2_1035x244.png 1.5x, https://cdn3.ldstatic.com/original/4X/8/2/6/8266001af67ebb47b994d5015aae8f582465140e.png 2x&quot; data-dominant-color=&quot;282932&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2428337&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>腾讯 TokenPlan 企业版本上线 glm 5.2</title>
+      <link>https://linux.do/t/topic/2428176</link>
+      <guid>linux.do-topic-2428176</guid>
+      <pubDate>Thu, 18 Jun 2026 06:13:09 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/1/9/d196b25486f8eecdaf92b2cc87c7f5d1ccae90b5.png&quot; data-download-href=&quot;/uploads/short-url/tU6EKGewcTBfUHHcKf0HMIJ2SFL.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/9/d196b25486f8eecdaf92b2cc87c7f5d1ccae90b5_2_690x455.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tU6EKGewcTBfUHHcKf0HMIJ2SFL&quot; width=&quot;690&quot; height=&quot;455&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/9/d196b25486f8eecdaf92b2cc87c7f5d1ccae90b5_2_690x455.png, https://cdn3.ldstatic.com/optimized/4X/d/1/9/d196b25486f8eecdaf92b2cc87c7f5d1ccae90b5_2_1035x682.png 1.5x, https://cdn3.ldstatic.com/original/4X/d/1/9/d196b25486f8eecdaf92b2cc87c7f5d1ccae90b5.png 2x&quot; data-dominant-color=&quot;FBFBFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;文档没有及时更新 &lt;a href=&quot;https://cloud.tencent.com/document/product/1823/130660&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;大模型服务平台 TokenHub Token Plan 企业版快&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2428176&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>DeepSeek 的识图模式疑似全部开放了</title>
+      <link>https://linux.do/t/topic/2428125</link>
+      <guid>linux.do-topic-2428125</guid>
+      <pubDate>Thu, 18 Jun 2026 06:07:01 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/9/a/e9a5e7c03356413c293531ab3d879645b346e358.png&quot; data-download-href=&quot;/uploads/short-url/xkWHsL7RjlnaascQ3TEhFpxPacM.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/9/a/e9a5e7c03356413c293531ab3d879645b346e358_2_690x346.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xkWHsL7RjlnaascQ3TEhFpxPacM&quot; width=&quot;690&quot; height=&quot;346&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/9/a/e9a5e7c03356413c293531ab3d879645b346e358_2_690x346.png, https://cdn3.ldstatic.com/optimized/4X/e/9/a/e9a5e7c03356413c293531ab3d879645b346e358_2_1035x519.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/9/a/e9a5e7c03356413c293531ab3d879645b346e358_2_1380x692.png 2x&quot; data-dominant-color=&quot;FBFBFD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+佬友们看看能不能看到？感觉 v4.1 快要来了哇&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;15 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2428125&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>codex今天重置额度了，套餐额度也降了？</title>
+      <link>https://linux.do/t/topic/2427913</link>
+      <guid>linux.do-topic-2427913</guid>
+      <pubDate>Thu, 18 Jun 2026 05:36:25 GMT</pubDate>
+      <description>
+            &lt;p&gt;今天Codex的额度又重置了。我在L站闲逛时看到几个佬在说Plus和Pro 20x的实际可用额度似乎被下调了，不知道这个消息是否属实？&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427913&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>谷歌将于6月19日起强制限制Gemini API密钥，9月全面淘汰标准密钥</title>
+      <link>https://linux.do/t/topic/2427827</link>
+      <guid>linux.do-topic-2427827</guid>
+      <pubDate>Thu, 18 Jun 2026 05:20:58 GMT</pubDate>
+      <description>
+            &lt;p&gt;Google5月22日发布安全指南，确认&lt;strong&gt;Gemini API正在从标准API密钥（Standard Key）向授权密钥（Auth Key）过渡&lt;/strong&gt;。根据官方文档给出的时间表：&lt;strong&gt;2026年6月19日起，未设置任何限制的标准密钥将被Gemini API拒绝；2026年9月起，所有标准密钥将被全面拒绝&lt;/strong&gt;，届时开发者必须完成向授权密钥的迁移，否则服务将中断。自5月7日起，长期未使用的未限制密钥已被提前封锁。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/1/0/b10f8ceccd0803c8b4d6bdae9445ce99bff58991.png&quot; data-download-href=&quot;/uploads/short-url/pglPoOJfTRdoQejzQ5V7gIv4nyF.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/1/0/b10f8ceccd0803c8b4d6bdae9445ce99bff58991_2_690x143.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;pglPoOJfTRdoQejzQ5V7gIv4nyF&quot; width=&quot;690&quot; height=&quot;143&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/1/0/b10f8ceccd0803c8b4d6bdae9445ce99bff58991_2_690x143.png, https://cdn3.ldstatic.com/optimized/4X/b/1/0/b10f8ceccd0803c8b4d6bdae9445ce99bff58991_2_1035x214.png 1.5x, https://cdn3.ldstatic.com/original/4X/b/1/0/b10f8ceccd0803c8b4d6bdae9445ce99bff58991.png 2x&quot; data-dominant-color=&quot;412D2F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;授权密钥与标准密钥的核心区别在于，前者直接绑定Google Cloud服务账户，请求以该账户身份执行，支持更细粒度的权限控制，并具备泄露密钥快速失效机制。目前在Google AI Studio中新建的API密钥已默认生成为授权密钥。&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://cloud.google.com/blog/topics/developers-practitioners/api-keys-are-open-secrets&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/1/1/a11c3192bcc248bc3d61eeb3332fc6cb6704a4ac.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;618F87&quot; width=&quot;64&quot; height=&quot;64&quot;&gt;
+
+      &lt;a href=&quot;https://cloud.google.com/blog/topics/developers-practitioners/api-keys-are-open-secrets&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Google Cloud Blog&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/385;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/9/5/495295de594c6ead27a99bb28ab8270c853e1b52_2_690x385.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;E4EBF2&quot; width=&quot;690&quot; height=&quot;385&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://cloud.google.com/blog/topics/developers-practitioners/api-keys-are-open-secrets&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Securing Your Gemini and Google API Keys | Google Cloud Blog&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Protect your Gemini API keys with this guide on API restrictions, secure storage in Secret Manager, and key hygiene to prevent hijacking and unauthorized use.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+&lt;p&gt;
+这一政策调整的背景值得关注。在Google AI开发者论坛上，近期集中出现了多起因未限制的API密钥遭盗用而产生巨额账单的案例，涉及金额从&lt;strong&gt;数千美元到5.4万欧元&lt;/strong&gt;不等。其中一例来自巴西的小型轮胎店，因AI Studio默认启用了Gemini API且密钥未设限制，被盗用后产生了1.4万美元的账单。Google在博文中指出，API密钥不与任何用户身份绑定，&lt;strong&gt;任何人获取密钥后都可以直接使用&lt;/strong&gt;，因此密钥限制与安全存储同等重要。&lt;/p&gt;&lt;aside class=&quot;onebox discoursetopic&quot; data-onebox-src=&quot;https://discuss.ai.google.dev/t/email-about-secure-your-gemini-api-access-by-jun-19-2026-seems-wrong/171046&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/d/f/ddf6ff71e5ff9ec51191610a737fb173f26e58b2.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;97A7B1&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://discuss.ai.google.dev/t/email-about-secure-your-gemini-api-access-by-jun-19-2026-seems-wrong/171046&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;06:00PM - 12 June 2026&quot;&gt;Google AI Developers Forum – 12 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/1/f/71f4db208a7684ec15a4262b4b4f0256d2effa2c.png&quot; class=&quot;thumbnail onebox-avatar&quot; data-dominant-color=&quot;CFCEC8&quot; width=&quot;192&quot; height=&quot;192&quot;&gt;
+
+&lt;div class=&quot;title-wrapper&quot;&gt;
+  &lt;h3&gt;&lt;a href=&quot;https://discuss.ai.google.dev/t/email-about-secure-your-gemini-api-access-by-jun-19-2026-seems-wrong/171046&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Email about &quot;Secure your Gemini API access by Jun 19, 2026&quot; seems wrong&lt;/a&gt;&lt;/h3&gt;
+  &lt;div class=&quot;topic-category&quot;&gt;
+      &lt;span class=&quot;badge-wrapper bullet&quot;&gt;
+        &lt;span class=&quot;badge-category-bg&quot; style=&quot;background-color: #406AFB;&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;badge-category clear-badge&quot;&gt;
+          &lt;span class=&quot;category-name&quot;&gt;Gemini API&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/span&gt;
+    &lt;div class=&quot;topic-header-extra&quot;&gt;
+      &lt;div class=&quot;list-tags&quot;&gt;
+        &lt;div class=&quot;discourse-tags&quot;&gt;
+          &lt;svg class=&quot;fa d-icon d-icon-tag svg-icon svg-string&quot;&gt;&lt;use href=&quot;#tag&quot;&gt;&lt;/use&gt;&lt;/svg&gt;
+            &lt;span class=&quot;discourse-tag simple&quot;&gt;ai-studio&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;I received an email with that title claiming that we have somewhere an unrestricted key that enables the generative AI API and it’ll stop working after June 19th.   We are reaching out to remind you because your project currently has the Gemini...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+&lt;p&gt;
+Google建议开发者立即排查现有密钥、删除不再使用的密钥、将密钥的API访问范围收窄至最小必要集合，并使用Secret Manager等服务进行安全存储。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427827&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>草台字节疑似未给豆包agent沙盒设置访问隔离，可以直接读写s3文件系统根目录</title>
+      <link>https://linux.do/t/topic/2427590</link>
+      <guid>linux.do-topic-2427590</guid>
+      <pubDate>Thu, 18 Jun 2026 04:32:33 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/d/e/0deecd900e2211206e948565892ba4b03bb03dd4.png&quot; data-download-href=&quot;/uploads/short-url/1ZfQ5uLkE1g8vNCo6LgHOyhI7hG.png?dl=1&quot; title=&quot;Screenshot_20260618-122536_豆包&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/d/e/0deecd900e2211206e948565892ba4b03bb03dd4_2_230x500.png&quot; alt=&quot;Screenshot_20260618-122536_豆包&quot; data-base62-sha1=&quot;1ZfQ5uLkE1g8vNCo6LgHOyhI7hG&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/d/e/0deecd900e2211206e948565892ba4b03bb03dd4_2_230x500.png, https://cdn3.ldstatic.com/optimized/4X/0/d/e/0deecd900e2211206e948565892ba4b03bb03dd4_2_345x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/d/e/0deecd900e2211206e948565892ba4b03bb03dd4_2_460x1000.png 2x&quot; data-dominant-color=&quot;EEEEEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/9/5/b9574d8c92c19525b6cce42684d38be24827dd46.png&quot; data-download-href=&quot;/uploads/short-url/qrBnpQ4szDOnAv57JCMoMI8rknY.png?dl=1&quot; title=&quot;Screenshot_20260618-122653_豆包&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/9/5/b9574d8c92c19525b6cce42684d38be24827dd46_2_230x500.png&quot; alt=&quot;Screenshot_20260618-122653_豆包&quot; data-base62-sha1=&quot;qrBnpQ4szDOnAv57JCMoMI8rknY&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/9/5/b9574d8c92c19525b6cce42684d38be24827dd46_2_230x500.png, https://cdn3.ldstatic.com/optimized/4X/b/9/5/b9574d8c92c19525b6cce42684d38be24827dd46_2_345x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/9/5/b9574d8c92c19525b6cce42684d38be24827dd46_2_460x1000.png 2x&quot; data-dominant-color=&quot;F0F0F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;已确认并非幻觉，这些应该是真实的别的用户的文件&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/e/4/4e43fe4c669040d1049309aae71c66234fbb3955.png&quot; data-download-href=&quot;/uploads/short-url/bamUTXhQD5IvM3p7Qm9zERWjEEt.png?dl=1&quot; title=&quot;Screenshot_20260618-123121_豆包&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/e/4/4e43fe4c669040d1049309aae71c66234fbb3955_2_230x500.png&quot; alt=&quot;Screenshot_20260618-123121_豆包&quot; data-base62-sha1=&quot;bamUTXhQD5IvM3p7Qm9zERWjEEt&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/e/4/4e43fe4c669040d1049309aae71c66234fbb3955_2_230x500.png, https://cdn3.ldstatic.com/optimized/4X/4/e/4/4e43fe4c669040d1049309aae71c66234fbb3955_2_345x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/e/4/4e43fe4c669040d1049309aae71c66234fbb3955_2_460x1000.png 2x&quot; data-dominant-color=&quot;EEF0F4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/6/b/d6bea2dcf50cc6b8d614463dbd36c8ed0f84c967.jpeg&quot; data-download-href=&quot;/uploads/short-url/uDIC7m2mnFPKA5pvKlnDe7Txkvd.jpeg?dl=1&quot; title=&quot;Screenshot_20260618-123125_豆包&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/6/b/d6bea2dcf50cc6b8d614463dbd36c8ed0f84c967_2_230x500.jpeg&quot; alt=&quot;Screenshot_20260618-123125_豆包&quot; data-base62-sha1=&quot;uDIC7m2mnFPKA5pvKlnDe7Txkvd&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/6/b/d6bea2dcf50cc6b8d614463dbd36c8ed0f84c967_2_230x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/6/b/d6bea2dcf50cc6b8d614463dbd36c8ed0f84c967_2_345x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/6/b/d6bea2dcf50cc6b8d614463dbd36c8ed0f84c967_2_460x1000.jpeg 2x&quot; data-dominant-color=&quot;E0C7CF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/6/f/66f9211fced27ec80ee8c673268099332c120213.jpeg&quot; data-download-href=&quot;/uploads/short-url/eGWstl5WM45J1Ia72CgNqYdd94f.jpeg?dl=1&quot; title=&quot;Screenshot_20260618-123138_豆包&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/6/f/66f9211fced27ec80ee8c673268099332c120213_2_230x500.jpeg&quot; alt=&quot;Screenshot_20260618-123138_豆包&quot; data-base62-sha1=&quot;eGWstl5WM45J1Ia72CgNqYdd94f&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/6/f/66f9211fced27ec80ee8c673268099332c120213_2_230x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/6/f/66f9211fced27ec80ee8c673268099332c120213_2_345x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/6/f/66f9211fced27ec80ee8c673268099332c120213_2_460x1000.jpeg 2x&quot; data-dominant-color=&quot;BFC5CA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;选择办公任务模式要求豆包检查/目录即可看到&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/2/7/627adb49ecc0706a6b7944a4263c5a0f3fb78ea4.png&quot; data-download-href=&quot;/uploads/short-url/e3c0GR1qcm0YWEoQnOyK8yrItpi.png?dl=1&quot; title=&quot;Screenshot_20260618-125520_豆包&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/2/7/627adb49ecc0706a6b7944a4263c5a0f3fb78ea4_2_230x500.png&quot; alt=&quot;Screenshot_20260618-125520_豆包&quot; data-base62-sha1=&quot;e3c0GR1qcm0YWEoQnOyK8yrItpi&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/2/7/627adb49ecc0706a6b7944a4263c5a0f3fb78ea4_2_230x500.png, https://cdn3.ldstatic.com/optimized/4X/6/2/7/627adb49ecc0706a6b7944a4263c5a0f3fb78ea4_2_345x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/2/7/627adb49ecc0706a6b7944a4263c5a0f3fb78ea4_2_460x1000.png 2x&quot; data-dominant-color=&quot;E7EDF0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+刑！&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;71 个帖子 - 49 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427590&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Step Plan 限时免费体验开放，最高可获120 天免费体验</title>
+      <link>https://linux.do/t/topic/2427492</link>
+      <guid>linux.do-topic-2427492</guid>
+      <pubDate>Thu, 18 Jun 2026 04:11:27 GMT</pubDate>
+      <description>
+            &lt;p&gt;刚刚发现看公众号推送了，阶跃的step plan提供15天免费体验，额度用完再赠1天。佬们快去薅！&lt;/p&gt;
+&lt;p&gt;新用户专享&lt;br&gt;
+注册立享 15 天免费体验，15 天内额度使用完，额外再加赠 1 次 15 天！&lt;br&gt;
+老用户直送&lt;br&gt;
+可一键领取 15 天免费时长，15天内额度使用完额外再加赠 1 次 15 天，自动叠加至现有订阅套餐，有效期顺延！&lt;/p&gt;
+&lt;p&gt;活动周期&lt;br&gt;
+即日起 - 2026年7月18日23:59（北京时间)&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427492&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>火山coding plan开启限购，0点刷新库存</title>
+      <link>https://linux.do/t/topic/2427408</link>
+      <guid>linux.do-topic-2427408</guid>
+      <pubDate>Thu, 18 Jun 2026 03:57:02 GMT</pubDate>
+      <description>
+            &lt;h1&gt;&lt;a name=&quot;p-19291385-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19291385-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;飞书群刚发的通知：&lt;/h1&gt;
+&lt;p&gt;是饥饿营销还是算力真不够了？？&lt;br&gt;
+网上不是说字节跳动的算力是最高的吗？&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/placard.png?v=15&quot; title=&quot;:placard:&quot; class=&quot;emoji&quot; alt=&quot;:placard:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 关于&lt;strong&gt;方舟 Coding Plan / Agent Plan 每日限售说明&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;各位开发者，GLM-5.2 上线后，大家的热情高涨，为了保证已订阅用户的平稳使用，&lt;strong&gt;Coding Plan / Agent Plan 开启每日0点起售，数量有限&lt;/strong&gt;。同时我们也在努力调配资源，争取扩大供应，&lt;strong&gt;不定时释放新库存&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/magnifying_glass_tilted_left.png?v=15&quot; title=&quot;:magnifying_glass_tilted_left:&quot; class=&quot;emoji&quot; alt=&quot;:magnifying_glass_tilted_left:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 影响范围说明&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新朋友：每日库存售罄后，暂时无法下单，由此带来的不便，我们深表歉意，还请持续关注库存释放。&lt;/li&gt;
+&lt;li&gt;老朋友：套餐期间内不受影响，可正常续期、升级套餐等，欢迎体验新模型们（GLM-5.2，Kimi-K2.7-Code，Minimax-M3）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/a/4/fa4a6cf1278d75b9cdcfb9f335a328ed13beb921.jpeg&quot; data-download-href=&quot;/uploads/short-url/zIaP41zZEwXW3cdAA7ACla8jAjf.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/4/fa4a6cf1278d75b9cdcfb9f335a328ed13beb921_2_554x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zIaP41zZEwXW3cdAA7ACla8jAjf&quot; width=&quot;554&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/a/4/fa4a6cf1278d75b9cdcfb9f335a328ed13beb921_2_554x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/a/4/fa4a6cf1278d75b9cdcfb9f335a328ed13beb921_2_831x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/a/4/fa4a6cf1278d75b9cdcfb9f335a328ed13beb921_2_1108x1000.jpeg 2x&quot; data-dominant-color=&quot;69696B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427408&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>DeepSeek v4.1 要来了吗？</title>
+      <link>https://linux.do/t/topic/2427310</link>
+      <guid>linux.do-topic-2427310</guid>
+      <pubDate>Thu, 18 Jun 2026 03:45:04 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/e/8/ce8fde13c256d7c7debd0d64b9060038efb89673.jpeg&quot; data-download-href=&quot;/uploads/short-url/ttkANKc27MpwLxtc1WEgZMlrxhp.jpeg?dl=1&quot; title=&quot;1000051751.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/e/8/ce8fde13c256d7c7debd0d64b9060038efb89673_2_232x500.jpeg&quot; alt=&quot;1000051751.jpg&quot; data-base62-sha1=&quot;ttkANKc27MpwLxtc1WEgZMlrxhp&quot; width=&quot;232&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/e/8/ce8fde13c256d7c7debd0d64b9060038efb89673_2_232x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/e/8/ce8fde13c256d7c7debd0d64b9060038efb89673_2_348x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/e/8/ce8fde13c256d7c7debd0d64b9060038efb89673_2_464x1000.jpeg 2x&quot; data-dominant-color=&quot;FCFCFD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+DeepSeek 全量上线识图模式，佬友们可以看看自己的 DeepSeek 上是否已有识图模式&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;71 个帖子 - 62 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427310&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>阶跃星辰 Step Plan 也改成 token 制了</title>
+      <link>https://linux.do/t/topic/2427279</link>
+      <guid>linux.do-topic-2427279</guid>
+      <pubDate>Thu, 18 Jun 2026 03:41:56 GMT</pubDate>
+      <description>
+            &lt;p&gt;才发现也改了 现有套餐存续期间不变 后面估计统一到新版了&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/e/a/3ea710efb35fb0f65633ccf8e26f21402cd506e5.png&quot; data-download-href=&quot;/uploads/short-url/8WfxwG9jORIlCQBHUx0vgBXZLHn.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/e/a/3ea710efb35fb0f65633ccf8e26f21402cd506e5_2_690x488.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8WfxwG9jORIlCQBHUx0vgBXZLHn&quot; width=&quot;690&quot; height=&quot;488&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/e/a/3ea710efb35fb0f65633ccf8e26f21402cd506e5_2_690x488.png, https://cdn3.ldstatic.com/original/4X/3/e/a/3ea710efb35fb0f65633ccf8e26f21402cd506e5.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/e/a/3ea710efb35fb0f65633ccf8e26f21402cd506e5.png 2x&quot; data-dominant-color=&quot;F7F8F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/9/f/c9f67dbd09652f556399301a6d589db18add2c4f.png&quot; data-download-href=&quot;/uploads/short-url/sOE4JRvRpyC4VVCgeWLZfIvPq7t.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/9/f/c9f67dbd09652f556399301a6d589db18add2c4f_2_690x341.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;sOE4JRvRpyC4VVCgeWLZfIvPq7t&quot; width=&quot;690&quot; height=&quot;341&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/9/f/c9f67dbd09652f556399301a6d589db18add2c4f_2_690x341.png, https://cdn3.ldstatic.com/original/4X/c/9/f/c9f67dbd09652f556399301a6d589db18add2c4f.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/9/f/c9f67dbd09652f556399301a6d589db18add2c4f.png 2x&quot; data-dominant-color=&quot;F9F9FA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;按次数的绝版了 大势所趋了&lt;/p&gt;
+&lt;p&gt;他家模型干点小活还行 主要是速度快 不用等好久&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427279&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>DeepSeek官网识图模式扩大推送面积，或将全量推送</title>
+      <link>https://linux.do/t/topic/2427270</link>
+      <guid>linux.do-topic-2427270</guid>
+      <pubDate>Thu, 18 Jun 2026 03:40:44 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/2/a/f2ac485d64a5262e9df7eee94ba01a26f9a1fb9d.png&quot; data-download-href=&quot;/uploads/short-url/yCMF1S98xGpXpErMauq0sjf3UGp.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/2/a/f2ac485d64a5262e9df7eee94ba01a26f9a1fb9d_2_690x292.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;yCMF1S98xGpXpErMauq0sjf3UGp&quot; width=&quot;690&quot; height=&quot;292&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/2/a/f2ac485d64a5262e9df7eee94ba01a26f9a1fb9d_2_690x292.png, https://cdn3.ldstatic.com/original/4X/f/2/a/f2ac485d64a5262e9df7eee94ba01a26f9a1fb9d.png 1.5x, https://cdn3.ldstatic.com/original/4X/f/2/a/f2ac485d64a5262e9df7eee94ba01a26f9a1fb9d.png 2x&quot; data-dominant-color=&quot;F9F9FB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+可能是逐步的，没有的大概需要等一段时间刷新或者更新app试试&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427270&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI</title>
+      <link>https://linux.do/t/topic/2427233</link>
+      <guid>linux.do-topic-2427233</guid>
+      <pubDate>Thu, 18 Jun 2026 03:36:24 GMT</pubDate>
+      <description>
+            &lt;p&gt;Google Gemini联合负责人、工程副总裁&lt;strong&gt;Noam Shazeer&lt;/strong&gt;在X平台宣布，他将离开Google加入OpenAI。他在帖文中称这是一个「艰难的决定」，但未透露其在OpenAI的具体职位。&lt;/p&gt;
+&lt;p&gt;Shazeer是Transformer架构奠基论文Attention is All You Need的联合作者之一，2000年起在Google担任软件工程师长达二十余年。2021年末他离开Google创办了Character.ai并担任CEO，直到2024年8月通过一项与Google的授权协议重新回归，出任工程副总裁并共同领导Gemini项目。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/8/4/a840fe1ec4c96b6e02011b823cfc238d895b4932.png&quot; data-download-href=&quot;/uploads/short-url/o0rsAHxHDwPD4Kt5PMXNVYU40PU.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/8/4/a840fe1ec4c96b6e02011b823cfc238d895b4932_2_526x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;o0rsAHxHDwPD4Kt5PMXNVYU40PU&quot; width=&quot;526&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/8/4/a840fe1ec4c96b6e02011b823cfc238d895b4932_2_526x500.png, https://cdn3.ldstatic.com/original/4X/a/8/4/a840fe1ec4c96b6e02011b823cfc238d895b4932.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/8/4/a840fe1ec4c96b6e02011b823cfc238d895b4932.png 2x&quot; data-dominant-color=&quot;0D0D0D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427233&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>claude design现在支持双向同步</title>
+      <link>https://linux.do/t/topic/2427228</link>
+      <guid>linux.do-topic-2427228</guid>
+      <pubDate>Thu, 18 Jun 2026 03:35:39 GMT</pubDate>
+      <description>
+            &lt;p&gt;现在可以直接在代码库中直接输入&lt;code&gt;/design-sync&lt;/code&gt;同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码)&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/b/a/6ba52e3c6ee6e2fcf74e9854270dff82d746280d.jpeg&quot; data-download-href=&quot;/uploads/short-url/fmgZcElXvw3WJimK1qI1YskJlZr.jpeg?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/b/a/6ba52e3c6ee6e2fcf74e9854270dff82d746280d_2_659x500.jpeg&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;fmgZcElXvw3WJimK1qI1YskJlZr&quot; width=&quot;659&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/b/a/6ba52e3c6ee6e2fcf74e9854270dff82d746280d_2_659x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/b/a/6ba52e3c6ee6e2fcf74e9854270dff82d746280d_2_988x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/6/b/a/6ba52e3c6ee6e2fcf74e9854270dff82d746280d.jpeg 2x&quot; data-dominant-color=&quot;837B74&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/a/3/ca3c95bf771809ed6a433076b13e9ca6bd0bcb34.jpeg&quot; data-download-href=&quot;/uploads/short-url/sR4fBvA6DuRiB1jRkfbCO5ppfhO.jpeg?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/a/3/ca3c95bf771809ed6a433076b13e9ca6bd0bcb34_2_690x388.jpeg&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;sR4fBvA6DuRiB1jRkfbCO5ppfhO&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/a/3/ca3c95bf771809ed6a433076b13e9ca6bd0bcb34_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/a/3/ca3c95bf771809ed6a433076b13e9ca6bd0bcb34_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/a/3/ca3c95bf771809ed6a433076b13e9ca6bd0bcb34_2_1380x776.jpeg 2x&quot; data-dominant-color=&quot;C8BDB4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427228&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景</title>
+      <link>https://linux.do/t/topic/2427046</link>
+      <guid>linux.do-topic-2427046</guid>
+      <pubDate>Thu, 18 Jun 2026 03:17:00 GMT</pubDate>
+      <description>
+            &lt;p&gt;中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。&lt;/p&gt;
+&lt;p&gt;该套邮票首次在油墨中融入硅基材料，并采用光彩光变、冷烫、击凸等工艺。邮票将在全国指定邮政网点和线上渠道出售，限期 6 个月。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/2/f/e2f82636ebceda7550224a05a091d86042789184.jpeg&quot; data-download-href=&quot;/uploads/short-url/wnRz4wjXq2YKphfW3obQkJGSNXC.jpeg?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/2/f/e2f82636ebceda7550224a05a091d86042789184_2_690x381.jpeg&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;wnRz4wjXq2YKphfW3obQkJGSNXC&quot; width=&quot;690&quot; height=&quot;381&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/2/f/e2f82636ebceda7550224a05a091d86042789184_2_690x381.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/2/f/e2f82636ebceda7550224a05a091d86042789184_2_1035x571.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/e/2/f/e2f82636ebceda7550224a05a091d86042789184.jpeg 2x&quot; data-dominant-color=&quot;DDDCDD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mall.11185.cn/h5/#/jfGoodsDetails?spuId=69628542&amp;businessId=JY&amp;udcSrc=JY_jyIndex_window_weChat&amp;udcSrcId=1&amp;udcSrcPos=1&quot; rel=&quot;noopener nofollow ugc&quot;&gt;中国邮政&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2427046&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>Midjourney 进军医学领域，推出 60s 超声水疗扫描功能</title>
       <link>https://linux.do/t/topic/2426652</link>
@@ -16,8 +331,14 @@
 &lt;blockquote&gt;
 &lt;p&gt;我们正在打造一种颠覆性的全新机器，以重新定义医疗健康的基石以及我们与自身身体的关系，我们曾梦想过一种既像核磁共振（MRI）一样强大，又像去水疗中心一样轻松惬意的体验。今天，我们正在开启通往这一愿景的道路。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们认为，这种医学成像不仅可以变得普普通通，甚至能成为一种随意的、日常的、真正意义上“想用就用”的体验。它只需要声波、一池水和 60 秒的时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第一家水疗中心将于 2027 年在旧金山市中心开业。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;看着还挺有科幻感的&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2426652&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -107,7 +428,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2426651&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -124,10 +445,12 @@ Noam Shazeer 是：&lt;p&gt;&lt;/p&gt;
 &lt;li&gt;MoE 路线开创者之一&lt;/li&gt;
 &lt;li&gt;Gemini 联合负责人&lt;/li&gt;
 &lt;li&gt;Google DeepMind VP&lt;br&gt;
-被认为是当前 AI 领域最有影响力的研究员之一。&lt;/li&gt;
+&lt;em&gt;&lt;strong&gt;被认为是当前 AI 领域最有影响力的研究员之一&lt;/strong&gt;&lt;/em&gt;。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Google 2024 年通过一笔约 27 亿美元的 Character.AI 交易，将 Noam Shazeer 及其团队重新纳入 DeepMind，随后担任 Gemini 联合负责人。如今仅两年后，他又宣布加入 OpenAI。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;奥特曼发推表示从OpenAI创立之初就非常渴望与Noam合作&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/e/0/0e03d90628c5476c70788694b9dc4d28026673db.png&quot; data-download-href=&quot;/uploads/short-url/1ZYVyAxVXAhgoy2b5jc7iPuuVyH.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/e/0/0e03d90628c5476c70788694b9dc4d28026673db_2_632x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;1ZYVyAxVXAhgoy2b5jc7iPuuVyH&quot; width=&quot;632&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/e/0/0e03d90628c5476c70788694b9dc4d28026673db_2_632x500.png, https://cdn3.ldstatic.com/optimized/4X/0/e/0/0e03d90628c5476c70788694b9dc4d28026673db_2_948x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/0/e/0/0e03d90628c5476c70788694b9dc4d28026673db.png 2x&quot; data-dominant-color=&quot;F0F1F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;33 个帖子 - 26 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2426456&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -170,7 +493,7 @@ Noam Shazeer 是：&lt;p&gt;&lt;/p&gt;
 一个用户可以创建多个邮箱地址，疑似也可以一个邮箱地址授权多个Agent。&lt;/p&gt;
 &lt;p&gt;限额：&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/b/f/bbff98b11bcdbdb00edc7ca7e2736a07cc1ad324.png&quot; data-download-href=&quot;/uploads/short-url/qP6TN0VBBHsnyi1Y9irob4pH82g.png?dl=1&quot; title=&quot;image&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/b/f/bbff98b11bcdbdb00edc7ca7e2736a07cc1ad324.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;qP6TN0VBBHsnyi1Y9irob4pH82g&quot; width=&quot;426&quot; height=&quot;156&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2426264&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -218,7 +541,7 @@ Noam Shazeer 是：&lt;p&gt;&lt;/p&gt;
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/0/6/20644eee2b30c4c30b7397aeb8ce70a1de2effb5.png&quot; data-download-href=&quot;/uploads/short-url/4CybH8LigSoxqPBSlBkunNmIp6Z.png?dl=1&quot; title=&quot;2260367f5f30331d0c7752f11bacc558&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/0/6/20644eee2b30c4c30b7397aeb8ce70a1de2effb5_2_690x470.png&quot; alt=&quot;2260367f5f30331d0c7752f11bacc558&quot; data-base62-sha1=&quot;4CybH8LigSoxqPBSlBkunNmIp6Z&quot; width=&quot;690&quot; height=&quot;470&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/0/6/20644eee2b30c4c30b7397aeb8ce70a1de2effb5_2_690x470.png, https://cdn3.ldstatic.com/optimized/4X/2/0/6/20644eee2b30c4c30b7397aeb8ce70a1de2effb5_2_1035x705.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/0/6/20644eee2b30c4c30b7397aeb8ce70a1de2effb5_2_1380x940.png 2x&quot; data-dominant-color=&quot;FDFDFD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 现在上班的第一时间先检测下codex 是否可以正常，这一打开天塌了，有更新安全下车的吗&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;25 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;26 个帖子 - 18 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425950&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -229,7 +552,7 @@ Noam Shazeer 是：&lt;p&gt;&lt;/p&gt;
       <pubDate>Thu, 18 Jun 2026 01:11:50 GMT</pubDate>
       <description>
             &lt;p&gt;codex又重置额度了，但是重置完好像5小时限制和周限制额度又降低了？有没有佬是同样的问题&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;33 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;60 个帖子 - 40 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425932&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -241,7 +564,7 @@ Noam Shazeer 是：&lt;p&gt;&lt;/p&gt;
       <description>
             &lt;p&gt;今天早上周额度重置后，重置次数也会被重置，如果未使用还会被累积变成两次重置机会&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/3/4/534896e4d1e2421d06b31cac4e8738b5f35203ff.png&quot; data-download-href=&quot;/uploads/short-url/bSL9qZ9xqTdTniRasXZMRb9dsDl.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/4/534896e4d1e2421d06b31cac4e8738b5f35203ff_2_459x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bSL9qZ9xqTdTniRasXZMRb9dsDl&quot; width=&quot;459&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/4/534896e4d1e2421d06b31cac4e8738b5f35203ff_2_459x500.png, https://cdn3.ldstatic.com/original/4X/5/3/4/534896e4d1e2421d06b31cac4e8738b5f35203ff.png 1.5x, https://cdn3.ldstatic.com/original/4X/5/3/4/534896e4d1e2421d06b31cac4e8738b5f35203ff.png 2x&quot; data-dominant-color=&quot;F7F6F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;15 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425791&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -304,389 +627,6 @@ Noam Shazeer 是：&lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425787&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Codex 又重置了！这次还是双重重置！</title>
-      <link>https://linux.do/t/topic/2425767</link>
-      <guid>linux.do-topic-2425767</guid>
-      <pubDate>Thu, 18 Jun 2026 00:42:33 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/d/b/6dbb787b6cc9cd31977561d9dddcc285001cb7a5.png&quot; data-download-href=&quot;/uploads/short-url/fEJHi6wYFQJmq2IbIaiib1JwYlL.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/d/b/6dbb787b6cc9cd31977561d9dddcc285001cb7a5_2_690x219.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fEJHi6wYFQJmq2IbIaiib1JwYlL&quot; width=&quot;690&quot; height=&quot;219&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/d/b/6dbb787b6cc9cd31977561d9dddcc285001cb7a5_2_690x219.png, https://cdn3.ldstatic.com/optimized/4X/6/d/b/6dbb787b6cc9cd31977561d9dddcc285001cb7a5_2_1035x328.png 1.5x, https://cdn3.ldstatic.com/original/4X/6/d/b/6dbb787b6cc9cd31977561d9dddcc285001cb7a5.png 2x&quot; data-dominant-color=&quot;181818&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;速蹬！ &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/laughing.png?v=15&quot; title=&quot;:laughing:&quot; class=&quot;emoji&quot; alt=&quot;:laughing:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/strong&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425767&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备</title>
-      <link>https://linux.do/t/topic/2425735</link>
-      <guid>linux.do-topic-2425735</guid>
-      <pubDate>Thu, 18 Jun 2026 00:39:07 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/c/6/ac6eb14864131938b948682966a3c3d935725e14.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;56CE82&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;04:54PM - 17 June 2026&quot;&gt;TechCrunch – 17 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/430;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/6/6/06631da0b2012a054a56c8c24b122c39ab979cca_2_690x431.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;CBBDAD&quot; width=&quot;690&quot; height=&quot;431&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Two Stanford grads raise $11M to build a noninvasive wearable for hormone...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations, and how to navigate those changes.&lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 4 minutes&lt;/span&gt;
-  &lt;/p&gt;
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;斯坦福大学毕业生 Jenny Duan 和 Abhinav Agarwal 想要解决两个难题：创造一款外观精美的可穿戴设备，并测量激素水平，以帮助女性更好地了解自己的健康状况。&lt;/p&gt;
-&lt;p&gt;两人正在创建一家名为 Clair Health 的初创公司，旨在追踪炎症和腹胀指标、能量水平和月经周期阶段分类，从而深入了解月经周期不规律和围绝经期，以及激素波动，并指导人们如何应对这些变化。&lt;/p&gt;
-&lt;p&gt;Clair Health公司表示，其可穿戴设备能够通过评估传感器采集的生物标志物，确定导致激素变化的原因以及身体对这些变化的反应。该设备还能持续监测月经周期四个阶段的变化，而不仅仅依赖于月经来潮当天的数据。通过这些生物标志物，该应用程序可以显示有关衰老速度、炎症和腹胀以及主观疲劳程度的信息。&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425735&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Codex 将再送一次Banked reset(可以存起来的重置次数)</title>
-      <link>https://linux.do/t/topic/2425620</link>
-      <guid>linux.do-topic-2425620</guid>
-      <pubDate>Wed, 17 Jun 2026 23:56:44 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/8/3/783083c002753a1f46c1f588712d562553125a78.png&quot; data-download-href=&quot;/uploads/short-url/h9feNdefTpaODWA3XWCJBA4zwU0.png?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/8/3/783083c002753a1f46c1f588712d562553125a78_2_535x500.png&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;h9feNdefTpaODWA3XWCJBA4zwU0&quot; width=&quot;535&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/8/3/783083c002753a1f46c1f588712d562553125a78_2_535x500.png, https://cdn3.ldstatic.com/original/4X/7/8/3/783083c002753a1f46c1f588712d562553125a78.png 1.5x, https://cdn3.ldstatic.com/original/4X/7/8/3/783083c002753a1f46c1f588712d562553125a78.png 2x&quot; data-dominant-color=&quot;888888&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/c/b/2cbdc638273087e31b86abb4d0db3158bec299e3.jpeg&quot; data-download-href=&quot;/uploads/short-url/6nNB5FLKwRBJxQfMMi6kJfSMFcn.jpeg?dl=1&quot; title=&quot;图片&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/c/b/2cbdc638273087e31b86abb4d0db3158bec299e3_2_690x400.jpeg&quot; alt=&quot;图片&quot; data-base62-sha1=&quot;6nNB5FLKwRBJxQfMMi6kJfSMFcn&quot; width=&quot;690&quot; height=&quot;400&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/c/b/2cbdc638273087e31b86abb4d0db3158bec299e3_2_690x400.jpeg, https://cdn3.ldstatic.com/original/4X/2/c/b/2cbdc638273087e31b86abb4d0db3158bec299e3.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/2/c/b/2cbdc638273087e31b86abb4d0db3158bec299e3.jpeg 2x&quot; data-dominant-color=&quot;EFD9D0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo&lt;/strong&gt;(Reset领域大神 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/face_blowing_a_kiss.png?v=15&quot; title=&quot;:face_blowing_a_kiss:&quot; class=&quot;emoji&quot; alt=&quot;:face_blowing_a_kiss:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;）&lt;br&gt;
-Oy. We are aware that some Codex users are experiencing high error rates with “model at capacity” and are working to bring things back to being stable.  &lt;code&gt;https://status.openai.com/&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;哎呀。我们注意到一些 Codex 用户在使用时遇到 “model at capacity”的高错误率，我们正在努力让服务恢复稳定。 &lt;code&gt;https://status.openai.com/&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tibo&lt;/strong&gt;&lt;br&gt;
-This was fixed. You know what’s coming &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/eyes.png?v=15&quot; title=&quot;:eyes:&quot; class=&quot;emoji&quot; alt=&quot;:eyes:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-Give us 24 hours to reset the Codex rate limits across all plans.&lt;br&gt;
-这个问题已经修复了。你知道接下来会发生什么 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/eyes.png?v=15&quot; title=&quot;:eyes:&quot; class=&quot;emoji&quot; alt=&quot;:eyes:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-给我们 24 小时来重置所有计划的 Codex 使用限制。&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;mention&quot;&gt;@traceoftheother&lt;/span&gt;&lt;br&gt;
-why was it not given as a banked reset? you guys promised. this is so bs&lt;br&gt;
-为什么不是以 &lt;strong&gt;banked reset&lt;/strong&gt;的方式给？你们之前承诺过的。这太扯了。&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;mention&quot;&gt;@abraibrai&lt;/span&gt;（Codex 团队成员）&lt;br&gt;
-Banked reset is coming! We also did a global one today to update a service. You’ll get both!&lt;br&gt;
-&lt;strong&gt;Banked reset马上就要来了！&lt;/strong&gt; 我们今天还做了一次 &lt;strong&gt;全局重置&lt;/strong&gt;来更新服务。你们会同时得到两者！&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;他真的…我哭死 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/sob.png?v=15&quot; title=&quot;:sob:&quot; class=&quot;emoji&quot; alt=&quot;:sob:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425620&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>库克：涨价不可避免，苹果计划上调产品价格。</title>
-      <link>https://linux.do/t/topic/2425614</link>
-      <guid>linux.do-topic-2425614</guid>
-      <pubDate>Wed, 17 Jun 2026 23:52:18 GMT</pubDate>
-      <description>
-            &lt;p&gt;苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。&lt;/p&gt;
-&lt;p&gt;库克称，公司此前一直努力缓解上游涨价压力并保护消费者，但当前形势已难以持续，涨价已“不可避免”。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;难道我的老设备要升值了？ &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/laughing.png?v=15&quot; title=&quot;:laughing:&quot; class=&quot;emoji&quot; alt=&quot;:laughing:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;18 个帖子 - 18 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425614&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>奥特曼又又又重置了，蹬起来（free也重置了）（我靠，还给了一次重置机会）</title>
-      <link>https://linux.do/t/topic/2425613</link>
-      <guid>linux.do-topic-2425613</guid>
-      <pubDate>Wed, 17 Jun 2026 23:52:16 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/7/c/27c2d9801032f18835c685a0e28199befda34518.png&quot; data-download-href=&quot;/uploads/short-url/5FK5fDk6CvOmrTDe92QCVOa5Nk4.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/c/27c2d9801032f18835c685a0e28199befda34518_2_690x454.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5FK5fDk6CvOmrTDe92QCVOa5Nk4&quot; width=&quot;690&quot; height=&quot;454&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/7/c/27c2d9801032f18835c685a0e28199befda34518_2_690x454.png, https://cdn3.ldstatic.com/original/4X/2/7/c/27c2d9801032f18835c685a0e28199befda34518.png 1.5x, https://cdn3.ldstatic.com/original/4X/2/7/c/27c2d9801032f18835c685a0e28199befda34518.png 2x&quot; data-dominant-color=&quot;E5EFE1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-|&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/0/a/70a44f74b7e4a76113096562cc0de59e367275bb.png&quot; data-download-href=&quot;/uploads/short-url/g4tvCBUhPx1sbnPctiCLib8Rn3J.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/0/a/70a44f74b7e4a76113096562cc0de59e367275bb_2_690x435.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;g4tvCBUhPx1sbnPctiCLib8Rn3J&quot; width=&quot;690&quot; height=&quot;435&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/0/a/70a44f74b7e4a76113096562cc0de59e367275bb_2_690x435.png, https://cdn3.ldstatic.com/original/4X/7/0/a/70a44f74b7e4a76113096562cc0de59e367275bb.png 1.5x, https://cdn3.ldstatic.com/original/4X/7/0/a/70a44f74b7e4a76113096562cc0de59e367275bb.png 2x&quot; data-dominant-color=&quot;E2EEDF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;16 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425613&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>github今日最快增长-2026-06-18</title>
-      <link>https://linux.do/t/topic/2425578</link>
-      <guid>linux.do-topic-2425578</guid>
-      <pubDate>Wed, 17 Jun 2026 23:21:50 GMT</pubDate>
-      <description>
-            &lt;p&gt;不知不觉已经发了一个多月了，618应该是近年电子类产品最后狂欢了，有刚需建议尽快入手，不然价格还会涨，除非我们技术突破。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/7/b/e7bfcfd39ccc5d6fef45f67f7b98b7f609fdc7ed.jpeg&quot; data-download-href=&quot;/uploads/short-url/x49fxl2kxzhczbaXA5mVQGb1qYl.jpeg?dl=1&quot; title=&quot;github-dating&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/7/b/e7bfcfd39ccc5d6fef45f67f7b98b7f609fdc7ed_2_690x460.jpeg&quot; alt=&quot;github-dating&quot; data-base62-sha1=&quot;x49fxl2kxzhczbaXA5mVQGb1qYl&quot; width=&quot;690&quot; height=&quot;460&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/7/b/e7bfcfd39ccc5d6fef45f67f7b98b7f609fdc7ed_2_690x460.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/7/b/e7bfcfd39ccc5d6fef45f67f7b98b7f609fdc7ed_2_1035x690.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/7/b/e7bfcfd39ccc5d6fef45f67f7b98b7f609fdc7ed_2_1380x920.jpeg 2x&quot; data-dominant-color=&quot;EAEDF2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&quot;attachment&quot; href=&quot;https://linux.do/uploads/short-url/sP5FtfZD8N4xXu3fyIWaz4WreUl.docx&quot;&gt;github-trening.docx&lt;/a&gt; (20.4 KB)&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425578&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Oracle官网arm免费额度已改</title>
-      <link>https://linux.do/t/topic/2425560</link>
-      <guid>linux.do-topic-2425560</guid>
-      <pubDate>Wed, 17 Jun 2026 23:08:24 GMT</pubDate>
-      <description>
-            &lt;p&gt;之前只有文档内容有改，但今天官网上的介绍中的always free的资源也发生了变化，调整额度似乎势在必行&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/d/9/5d9a29eeaa68de04f00c1ba7c52f79a82c6750a4.jpeg&quot; data-download-href=&quot;/uploads/short-url/dm2HlAKUj8cK2I2pLShlKY14vA0.jpeg?dl=1&quot; title=&quot;1000011738.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/d/9/5d9a29eeaa68de04f00c1ba7c52f79a82c6750a4_2_224x500.jpeg&quot; alt=&quot;1000011738.jpg&quot; data-base62-sha1=&quot;dm2HlAKUj8cK2I2pLShlKY14vA0&quot; width=&quot;224&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/d/9/5d9a29eeaa68de04f00c1ba7c52f79a82c6750a4_2_224x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/d/9/5d9a29eeaa68de04f00c1ba7c52f79a82c6750a4_2_336x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/d/9/5d9a29eeaa68de04f00c1ba7c52f79a82c6750a4_2_448x1000.jpeg 2x&quot; data-dominant-color=&quot;EFEAEA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425560&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Dario Amodei呼吁建立美国领导的AI联盟以排除中国</title>
-      <link>https://linux.do/t/topic/2425464</link>
-      <guid>linux.do-topic-2425464</guid>
-      <pubDate>Wed, 17 Jun 2026 20:01:51 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/2/f/12f9ce442eca69d1d9c943ac9c6f006fcb15c205.jpeg&quot; data-download-href=&quot;/uploads/short-url/2HRNEakdnhBECmQkd5HRDrgYBqB.jpeg?dl=1&quot; title=&quot;25069.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/2/f/12f9ce442eca69d1d9c943ac9c6f006fcb15c205_2_227x500.jpeg&quot; alt=&quot;25069.jpg&quot; data-base62-sha1=&quot;2HRNEakdnhBECmQkd5HRDrgYBqB&quot; width=&quot;227&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/2/f/12f9ce442eca69d1d9c943ac9c6f006fcb15c205_2_227x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/2/f/12f9ce442eca69d1d9c943ac9c6f006fcb15c205_2_340x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/2/f/12f9ce442eca69d1d9c943ac9c6f006fcb15c205_2_454x1000.jpeg 2x&quot; data-dominant-color=&quot;3D3D3D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/d/0/7d09ad0d5c6577dae68e42053091cabc5f23ef40.jpeg&quot; data-download-href=&quot;/uploads/short-url/hQ8pHn11getRTGGdgZqzvfvApI4.jpeg?dl=1&quot; title=&quot;25067.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/d/0/7d09ad0d5c6577dae68e42053091cabc5f23ef40_2_227x500.jpeg&quot; alt=&quot;25067.jpg&quot; data-base62-sha1=&quot;hQ8pHn11getRTGGdgZqzvfvApI4&quot; width=&quot;227&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/d/0/7d09ad0d5c6577dae68e42053091cabc5f23ef40_2_227x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/d/0/7d09ad0d5c6577dae68e42053091cabc5f23ef40_2_340x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/d/0/7d09ad0d5c6577dae68e42053091cabc5f23ef40_2_454x1000.jpeg 2x&quot; data-dominant-color=&quot;383838&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这个人怎么这么烦啊，什么时候国模能赶超Claude，好想看到那一天&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;49 个帖子 - 40 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425464&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>（慢讯）Plasma One 正式发布了</title>
-      <link>https://linux.do/t/topic/2425455</link>
-      <guid>linux.do-topic-2425455</guid>
-      <pubDate>Wed, 17 Jun 2026 19:46:02 GMT</pubDate>
-      <description>
-            &lt;p&gt;新账户充 $100 就能领一年的 Core，吃 3% 返现；支持护照，需要地址证明&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/b/0/5b077d7435fccf6cdbf238ace20cbb151daf9be4.png&quot; data-download-href=&quot;/uploads/short-url/cZhuP9zWRbj1NCyUOxYx7FqTu9S.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/b/0/5b077d7435fccf6cdbf238ace20cbb151daf9be4_2_358x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cZhuP9zWRbj1NCyUOxYx7FqTu9S&quot; width=&quot;358&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/b/0/5b077d7435fccf6cdbf238ace20cbb151daf9be4_2_358x500.png, https://cdn3.ldstatic.com/optimized/4X/5/b/0/5b077d7435fccf6cdbf238ace20cbb151daf9be4_2_537x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/b/0/5b077d7435fccf6cdbf238ace20cbb151daf9be4_2_716x1000.png 2x&quot; data-dominant-color=&quot;F6F6F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/f/8/0f8bca0b2cc16b6ca09a43d06af4091638f23a92.png&quot; data-download-href=&quot;/uploads/short-url/2dwERBHuQ0qJWLY5IPHXeK1k7Ae.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/f/8/0f8bca0b2cc16b6ca09a43d06af4091638f23a92.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;2dwERBHuQ0qJWLY5IPHXeK1k7Ae&quot; width=&quot;690&quot; height=&quot;432&quot; data-dominant-color=&quot;F5F5F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/8/a/e8a460f353ebabfba8deee4b8c236f93f21cbdc0.png&quot; data-download-href=&quot;/uploads/short-url/xc2X4ZGqcf5AE5UEDF2wU3eJZUA.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/8/a/e8a460f353ebabfba8deee4b8c236f93f21cbdc0_2_324x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xc2X4ZGqcf5AE5UEDF2wU3eJZUA&quot; width=&quot;324&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/8/a/e8a460f353ebabfba8deee4b8c236f93f21cbdc0_2_324x500.png, https://cdn3.ldstatic.com/optimized/4X/e/8/a/e8a460f353ebabfba8deee4b8c236f93f21cbdc0_2_486x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/8/a/e8a460f353ebabfba8deee4b8c236f93f21cbdc0_2_648x1000.png 2x&quot; data-dominant-color=&quot;F8F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;(Platinum 返 5% 但是需要锁 200,000XPL 一年，目前链上价值约 $24,000，建议慎重）&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425455&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>openai也要刷脸认证了。。。</title>
-      <link>https://linux.do/t/topic/2425294</link>
-      <guid>linux.do-topic-2425294</guid>
-      <pubDate>Wed, 17 Jun 2026 17:27:39 GMT</pubDate>
-      <description>
-            &lt;p&gt;已经有新闻稿了。&lt;/p&gt;
-&lt;p&gt;有用户弹出了刷脸认证弹窗， openai 帮助中心   文档更新: why am I being asked to verify my identity(为什么我被要求验证身份)&lt;/p&gt;
-&lt;p&gt;大部分天才程序员都要降级了&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;17 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425294&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>澳大利亚中央昆士兰大学的报告指出睡前“自我愉悦”有助于提高睡眠质量🛫</title>
-      <link>https://linux.do/t/topic/2425245</link>
-      <guid>linux.do-topic-2425245</guid>
-      <pubDate>Wed, 17 Jun 2026 17:07:10 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/d/2/cd284efc887183c9ffdb7b27377a0dd971ca44c8.jpeg&quot; data-download-href=&quot;/uploads/short-url/tgUf0BqzDwXnBFfxIdZOT2aDXcc.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-18-01-02-03-464_com.microsoft.emmx.beta-edit&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/d/2/cd284efc887183c9ffdb7b27377a0dd971ca44c8_2_517x500.jpeg&quot; alt=&quot;Screenshot_2026-06-18-01-02-03-464_com.microsoft.emmx.beta-edit&quot; data-base62-sha1=&quot;tgUf0BqzDwXnBFfxIdZOT2aDXcc&quot; width=&quot;517&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/d/2/cd284efc887183c9ffdb7b27377a0dd971ca44c8_2_517x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/d/2/cd284efc887183c9ffdb7b27377a0dd971ca44c8_2_775x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/d/2/cd284efc887183c9ffdb7b27377a0dd971ca44c8_2_1034x1000.jpeg 2x&quot; data-dominant-color=&quot;2A2320&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://nazology.kusuguru.co.jp/archives/196483&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/2/a/72a2f28f1c117aeadabcc665093eb4d6ada662f9.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;A78153&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://nazology.kusuguru.co.jp/archives/196483&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;10:00PM - 16 June 2026&quot;&gt;ナゾロジー – 16 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/d/5ada54047873990f6e48e82e2d317d3166e9cb4a_2_690x460.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;7F6332&quot; width=&quot;690&quot; height=&quot;460&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://nazology.kusuguru.co.jp/archives/196483&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;就寝前の「自慰行為」は寝つきを早め、睡眠の質が高まりやすくなる - ナゾロジー&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;就寝前に、性的なリラックス感を得ると、睡眠の質が高まるかもしれません。
-豪セントラル・クイーンズランド大学（CQU）はこのほど、就寝前の「セルフプレジャー（※のちに説明します。マスターベーションより広い概念）」と睡眠、感情、夢の内容との関係を調査。
-その結果、就寝前にセルフプレジャーを行った夜は、行わなかった夜に比べて、主観的な睡眠の質が高く、寝つきも早いと報告されました。
-さらに、こうした習慣を持つ人ほど、性的・エロティックな夢を見やすくなる傾向も見られたのです。
-研究成果は2026年4月1日...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;澳大利亚中央昆士兰大学（CQU）最近研究了睡前的“自我愉悦”（概念比手*更广）与睡眠、情绪和梦境内容之间的关系。&lt;/p&gt;
-&lt;p&gt;因此，在睡前进行自我愉悦的夜晚报告了更高的主观睡眠质量和入睡时间，而非睡前的夜晚则更早。&lt;/p&gt;
-&lt;p&gt;此外，有这种习惯的人往往会做更多性和情色的梦。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.psypost.org/self-pleasure-before-bed-is-linked-to-falling-asleep-faster/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/3/f/23f8acb66180bc7e53799b11cbcced7981d6f466.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;171F67&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://www.psypost.org/self-pleasure-before-bed-is-linked-to-falling-asleep-faster/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;10:00PM - 15 June 2026&quot;&gt;PsyPost - Psychology News – 15 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/344;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/0/9/809aaeda64c9eb9a899e9229398041dea5bf6177_2_690x345.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;B8A6A2&quot; width=&quot;690&quot; height=&quot;345&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.psypost.org/self-pleasure-before-bed-is-linked-to-falling-asleep-faster/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Self-pleasure before bed is linked to falling asleep faster and sleeping better&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Engaging in self-pleasure before going to sleep is linked to falling asleep faster, experiencing better physical rest, and waking up with elevated positive emotions, according to a recent survey exploring the hidden boundaries between waking behavior...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://link.springer.com/article/10.1007/s12119-026-10578-7&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      
-
-      &lt;a href=&quot;https://link.springer.com/article/10.1007/s12119-026-10578-7&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;SpringerLink&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:685/410;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/f/f/3ff462dd535f105ecedcf7d84de662505d68a3e7.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;EEEEEE&quot; width=&quot;685&quot; height=&quot;410&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://link.springer.com/article/10.1007/s12119-026-10578-7&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Dreaming of Pleasure: Exploring the Relationship Between Self-Pleasure and...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Self-pleasure has been associated with various psychological and physiological benefits, yet its role in shaping sleep experiences is not well understood. This study aimed to examine the effects of self-pleasure on subjective sleep, emotional states,...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;15 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425245&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>「凌晨速报」 招行万事达借记卡Apple Pay或即将上线</title>
-      <link>https://linux.do/t/topic/2425221</link>
-      <guid>linux.do-topic-2425221</guid>
-      <pubDate>Wed, 17 Jun 2026 16:55:08 GMT</pubDate>
-      <description>
-            &lt;p&gt;从&lt;a href=&quot;https://linux.do/t/topic/2379714&quot; class=&quot;inline-onebox&quot;&gt;浦发工行兴业广发平安招商邮储或将上线万事达ApplePay&lt;/a&gt; 接着讲&lt;/p&gt;
-&lt;p&gt;应信源要求，本频道尚无法注明此消息具体来源，请自行判断消息真实性与可靠性。&lt;/p&gt;
-&lt;p&gt;招商银行万事达借记卡或即将上线 Apple Pay。&lt;br&gt;
-与此前上线该功能的四家银行类似，Apple Pay 虚拟卡使用 2231 开头 BIN，且尚仅支持境外使用。&lt;/p&gt;
-&lt;p&gt;该 Apple Pay 卡有日限额。按目前信息，APP 内仅支持调低日限额，调高限额需要使用网银专业版或亲临柜台。&lt;/p&gt;
-&lt;p&gt;上述消息请以实际发行为准&lt;/p&gt;
-&lt;p&gt;感谢 匿名读者&lt;/p&gt;
-&lt;p&gt;转自encmasuta&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;30 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425221&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【慢讯？】huggingface chat已经上了glm-5.2</title>
-      <link>https://linux.do/t/topic/2425109</link>
-      <guid>linux.do-topic-2425109</guid>
-      <pubDate>Wed, 17 Jun 2026 16:21:58 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/distorted_face.png?v=15&quot; title=&quot;:distorted_face:&quot; class=&quot;emoji&quot; alt=&quot;:distorted_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 我搜了一遍好像没人提到这个东西。。就想着发一发&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/a/4/6a4943ef58a120a72eac1424239cc39170b91a32.png&quot; data-download-href=&quot;/uploads/short-url/fafA5YKjfQm9a5Lo2TpSvZjWupI.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/a/4/6a4943ef58a120a72eac1424239cc39170b91a32.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fafA5YKjfQm9a5Lo2TpSvZjWupI&quot; width=&quot;625&quot; height=&quot;500&quot; data-dominant-color=&quot;F8F9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;huggingface官方（就是那个各家都会把开源模型传到的huggingface）的 就是个大型开源模型路由器 但是可以自己选&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://huggingface.co/chat/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/7/3/67369cb24c9948a36dad6a0afc98f2309a99b74d.svg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://huggingface.co/chat/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;HuggingChat&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/372;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/9/3/f/93f16aabd6213a5f9589774c6deeff30aae3afad.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;080808&quot; width=&quot;690&quot; height=&quot;372&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://huggingface.co/chat/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;HuggingChat - Chat with AI models&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Making the community&#39;s best AI chat models available to everyone&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/1/f/11f6b5e4b19713344c67029ba367c9857c9cae80.png&quot; data-download-href=&quot;/uploads/short-url/2yUGTtprNYj37HhfOuN43DkWoV2.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/1/f/11f6b5e4b19713344c67029ba367c9857c9cae80.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;2yUGTtprNYj37HhfOuN43DkWoV2&quot; width=&quot;362&quot; height=&quot;383&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-新一点的开源模型也都有&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/6/b/e6b814b4dae96439077ccaab39364ff7424c3c1b.png&quot; data-download-href=&quot;/uploads/short-url/wV2d00xwHYyPQEvfCPwIdgcNVQD.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/6/b/e6b814b4dae96439077ccaab39364ff7424c3c1b.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wV2d00xwHYyPQEvfCPwIdgcNVQD&quot; width=&quot;334&quot; height=&quot;500&quot; data-dominant-color=&quot;FAF9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-啊嘞 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/distorted_face.png?v=15&quot; title=&quot;:distorted_face:&quot; class=&quot;emoji&quot; alt=&quot;:distorted_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/1/e/41eaa747a193e3338f4879f7fc4dae5b1550c3de.png&quot; data-download-href=&quot;/uploads/short-url/9p7MfAtVutkKtbYM9rCfG6EWgrA.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/1/e/41eaa747a193e3338f4879f7fc4dae5b1550c3de_2_421x499.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9p7MfAtVutkKtbYM9rCfG6EWgrA&quot; width=&quot;421&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/1/e/41eaa747a193e3338f4879f7fc4dae5b1550c3de_2_421x499.png, https://cdn3.ldstatic.com/original/4X/4/1/e/41eaa747a193e3338f4879f7fc4dae5b1550c3de.png 1.5x, https://cdn3.ldstatic.com/original/4X/4/1/e/41eaa747a193e3338f4879f7fc4dae5b1550c3de.png 2x&quot; data-dominant-color=&quot;FAFAFA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;（限制比较多 可以做html和聊天 就可以玩玩 干不了重活就是了&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425109&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>招商、中行万事达 Apple Pay 今短暂故障</title>
-      <link>https://linux.do/t/topic/2425056</link>
-      <guid>linux.do-topic-2425056</guid>
-      <pubDate>Wed, 17 Jun 2026 15:59:20 GMT</pubDate>
-      <description>
-            &lt;p&gt;招商银行、中国银行的万事达 Apple Pay 业务今日短暂故障，故障期间消费均显示交易被发卡行拒绝或其他错误。&lt;/p&gt;
-&lt;p&gt;具体故障原因不明。&lt;/p&gt;
-&lt;p&gt;转自encmasuta&lt;/p&gt;
-&lt;p&gt;笔者注：难道说？&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425056&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>民生银行 Visa 信用卡上线 Apple Pay</title>
-      <link>https://linux.do/t/topic/2425050</link>
-      <guid>linux.do-topic-2425050</guid>
-      <pubDate>Wed, 17 Jun 2026 15:58:45 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/7/8/a7885c240dd4e34634cbd1e8c81489e457092991.jpeg&quot; data-download-href=&quot;/uploads/short-url/nU3T104w9RlkIb50HEtz9fUdphn.jpeg?dl=1&quot; title=&quot;e4ea8f3082aa20d5a4763dc8d76f0f9b&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/7/8/a7885c240dd4e34634cbd1e8c81489e457092991.jpeg&quot; alt=&quot;e4ea8f3082aa20d5a4763dc8d76f0f9b&quot; data-base62-sha1=&quot;nU3T104w9RlkIb50HEtz9fUdphn&quot; width=&quot;506&quot; height=&quot;499&quot; data-dominant-color=&quot;1D1214&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;民生银行今起支持将 Visa 信用卡添加至 Apple Pay，需通过「全民生活」信用卡 APP 完成加卡。&lt;/p&gt;
-&lt;p&gt;感谢 怡俊, momoPT 投稿&lt;/p&gt;
-&lt;p&gt;转自encmasuta&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425050&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>汇丰香港现支持APP重置提款卡/扣账卡密码</title>
-      <link>https://linux.do/t/topic/2425048</link>
-      <guid>linux.do-topic-2425048</guid>
-      <pubDate>Wed, 17 Jun 2026 15:57:59 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/0/8/808eb5d3743031f9fabe383a41673cce1a6c785a.jpeg&quot; data-download-href=&quot;/uploads/short-url/ilgS2b6JklFjMxxbXdka82d3Byi.jpeg?dl=1&quot; title=&quot;284826c5578da7fdc8dc935cd1949ea3&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/0/8/808eb5d3743031f9fabe383a41673cce1a6c785a_2_333x500.jpeg&quot; alt=&quot;284826c5578da7fdc8dc935cd1949ea3&quot; data-base62-sha1=&quot;ilgS2b6JklFjMxxbXdka82d3Byi&quot; width=&quot;333&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/0/8/808eb5d3743031f9fabe383a41673cce1a6c785a_2_333x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/0/8/808eb5d3743031f9fabe383a41673cce1a6c785a_2_499x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/8/0/8/808eb5d3743031f9fabe383a41673cce1a6c785a.jpeg 2x&quot; data-dominant-color=&quot;E3D6D6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;香港上海汇丰银行（汇丰香港）今推出 3.71.0 版本流动理财 APP。更新至此版本后，可以通过 APP 重置/设定提款卡和扣账卡的密码。&lt;/p&gt;
-&lt;p&gt;路径：银行卡 Tab - 选择卡片 - 设置/重置私人密码，无须旧密码。该选项可能在「更多」菜单内。&lt;/p&gt;
-&lt;p&gt;此前，如需重置/修改提款卡或扣账卡密码，需&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;携证件亲赴汇丰香港柜台，直接重置并设置密码，或&lt;/li&gt;
-&lt;li&gt;收到密码函后，在汇丰或恒生位于香港的ATM修改，或&lt;/li&gt;
-&lt;li&gt;[仅扣账卡]致电汇丰香港修改&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;感谢 希斯特莉亚 、xhs@流星雨. 、123 投稿&lt;/p&gt;
-&lt;p&gt;另：更新到此版本后，汇丰流动理财可连接的其他银行扩容，现已支持 中银香港、招商永隆、花旗香港、星展香港、恒生香港、Mox、渣打香港、东亚香港、众安银行共9家银行。&lt;/p&gt;
-&lt;p&gt;转自encmasuta&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2425048&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
