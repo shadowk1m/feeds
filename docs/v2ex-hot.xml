@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 19 Jun 2026 13:52:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:26:52 GMT</lastBuildDate>
     <item>
       <title>端午节快乐！求推荐高质量 VPS 线路</title>
       <link>https://www.v2ex.com/t/1221493</link>
@@ -45,21 +45,12 @@
 </description>
     </item>
     <item>
-      <title>2000 年 30 几岁的人现在已经 60 岁了</title>
-      <link>https://www.v2ex.com/t/1221450</link>
-      <guid>v2ex-1221450</guid>
-      <pubDate>Thu, 18 Jun 2026 15:18:51 GMT</pubDate>
-      <description>&lt;p&gt;刷到到一个推文如是说&lt;/p&gt;
-&lt;p&gt;突然感觉好害怕啊&lt;/p&gt;
-&lt;p&gt;你们有什么办法缓解时间恐惧吗&lt;/p&gt;
+      <title>目前海外 esim 手机号在国内，哪个最好？</title>
+      <link>https://www.v2ex.com/t/1221525</link>
+      <guid>v2ex-1221525</guid>
+      <pubDate>Fri, 19 Jun 2026 06:26:29 GMT</pubDate>
+      <description>&lt;p&gt;发现港版 iPhone 支持 esim 卡，海外手机号，月费低的，哪个最好？&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>一个自用的 golang 的 web 应用要部署到公网，国内哪个云服务最便宜</title>
-      <link>https://www.v2ex.com/t/1221447</link>
-      <guid>v2ex-1221447</guid>
-      <pubDate>Thu, 18 Jun 2026 14:58:58 GMT</pubDate>
-      <description>自己用的工具，不需要备案，ip 访问就可以。&lt;br /&gt;&lt;br /&gt;需要持久化，有个 SQLlite 库。&lt;br /&gt;&lt;br /&gt;其他什么要求都没有，哪怕天天炸都没事，只要便宜。&lt;br /&gt;&lt;br /&gt;之前白嫖的 Render ，但是持久化库只免费一个月</description>
     </item>
     <item>
       <title>vim 真的好用吗？</title>
@@ -70,11 +61,50 @@
 </description>
     </item>
     <item>
-      <title>目前海外 esim 手机号在国内，哪个最好？</title>
-      <link>https://www.v2ex.com/t/1221525</link>
-      <guid>v2ex-1221525</guid>
-      <pubDate>Fri, 19 Jun 2026 06:26:29 GMT</pubDate>
-      <description>&lt;p&gt;发现港版 iPhone 支持 esim 卡，海外手机号，月费低的，哪个最好？&lt;/p&gt;
+      <title>前端界面比想象中复杂好多</title>
+      <link>https://www.v2ex.com/t/1221555</link>
+      <guid>v2ex-1221555</guid>
+      <pubDate>Fri, 19 Jun 2026 11:18:30 GMT</pubDate>
+      <description>&lt;p&gt;刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。&lt;/p&gt;
+&lt;p&gt;前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。&lt;/p&gt;
+&lt;p&gt;痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。&lt;/p&gt;
+&lt;p&gt;这个过程真的很漫长，因为端到端测试都要自己来，而且还不放心，还要再开一个窗口让 Codex review 代码。&lt;/p&gt;
+&lt;p&gt;其实我之前尝试过 Claude Design 和 Claude Code 协作写前端，但细节有很多问题，Claude Code 也处理不好。我想请教一下大家，是前端本来就如此复杂，还是我的流程有问题导致如此繁琐？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>就差一天又错过了移动的稀有专线套餐</title>
+      <link>https://www.v2ex.com/t/1221465</link>
+      <guid>v2ex-1221465</guid>
+      <pubDate>Thu, 18 Jun 2026 17:46:45 GMT</pubDate>
+      <description>&lt;p&gt;前两天刚发完贴 /t/1220744 讨论宽带。&lt;/p&gt;
+&lt;p&gt;昨天听朋友说广东移动有更好的套餐：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;原方案&lt;/strong&gt;：上行 200M / 下行 2000M ，固定 IP ，月租 359.4 元。
+当天就确定办理，结果跟我说这个涨价/下架了，遗憾晚了一天。。。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;然后推出了新的可选套餐（均为双线路组合）：&lt;/p&gt;
+&lt;h3&gt;方案 1&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;线路一&lt;/strong&gt;：上行 60M / 下行 300M （固定 IP ）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;线路二&lt;/strong&gt;：上行 50M / 下行 1000M&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资费&lt;/strong&gt;：2 条线路月租 359.4 元，返还 179 元话费（相当于 359.4 - 179 = &lt;strong&gt;180.4 元/月&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;方案 2&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;线路一&lt;/strong&gt;：上行 100M / 下行 500M （固定 IP ）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;线路二&lt;/strong&gt;：上行 50M / 下行 1000M&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资费&lt;/strong&gt;：2 条线路月租 479.4 元，返还 239 元话费（相当于 479.4 - 239 = &lt;strong&gt;240.4 元/月&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;方案 3&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;线路一&lt;/strong&gt;：上行 200M / 下行 1000M （固定 IP ）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;线路二&lt;/strong&gt;：上行 50M / 下行 1000M&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资费&lt;/strong&gt;：2 条线路月租 599.4 元，返还 299 元话费（相当于 599.4 - 299 = &lt;strong&gt;300.4 元/月&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;现在的纠结盲点：&lt;/strong&gt;
+我本身不用移动号码，每月也用不了这么多话费。虽说可以把朋友的号码加进来共享高消，但总归是觉得非常麻烦。我再等等，有想法的可以留言。&lt;/p&gt;
 </description>
     </item>
   </channel>
