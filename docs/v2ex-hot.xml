@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 19 Jun 2026 10:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 13:52:24 GMT</lastBuildDate>
     <item>
       <title>端午节快乐！求推荐高质量 VPS 线路</title>
       <link>https://www.v2ex.com/t/1221493</link>
@@ -23,19 +23,26 @@
       <description>最近闲着没事，自己动手训练了一个网页版的单挑德州扑克机器人（叫它 博弈姬 吧）。&lt;br /&gt;&lt;br /&gt;本来想写着自己练牌用的，结果现在调教得有点过头，我自己打了几手，目前已经送掉 120+ BB 了……😅&lt;br /&gt;&lt;br /&gt;今天摸鱼的时候突然想看看社区里隐藏的德扑大佬多不多，发出来给大家解解闷。免注册即玩，每手自动补满 100BB ，但累计盈亏会一直记着。&lt;br /&gt;&lt;br /&gt;有无聊或者手痒的兄弟去帮我“军训”一下它，看看它到底有没有漏洞？&lt;br /&gt;试玩地址： &lt;a target=&quot;_blank&quot; href=&quot;https://heads-up-poker-gto.onrender.com/&quot; rel=&quot;nofollow noopener&quot;&gt;https://heads-up-poker-gto.onrender.com/&lt;/a&gt;</description>
     </item>
     <item>
+      <title>年近 40，继续私企国企怎么选</title>
+      <link>https://www.v2ex.com/t/1221502</link>
+      <guid>v2ex-1221502</guid>
+      <pubDate>Fri, 19 Jun 2026 03:20:17 GMT</pubDate>
+      <description>80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。现在有个收入砍半的国企岗位，工作内容差不多算技术负责人，对接内部需求和外部服务商，朝九晚五，工作强度不大，业务相对稳定。各位怎么看？不想躺平，但是缺失了目标的感觉，近半年代码都是 ai 写，跑通了除需求之外的 方案设计、自动化单元测试、简单集成场景测试、自动化 cr 全流程。娃马上初中了，感觉整个小学阶段就没管过娃，有点愧疚</description>
+    </item>
+    <item>
+      <title>停电之后瞬间又来电我的 NAS 坏了 3 块硬盘，还能抢救吗</title>
+      <link>https://www.v2ex.com/t/1221483</link>
+      <guid>v2ex-1221483</guid>
+      <pubDate>Fri, 19 Jun 2026 01:33:35 GMT</pubDate>
+      <description>硬盘已经过保了，数据倒是不重要，因为插上那 3 块硬盘的任意一块都不能开机，所以我怀疑是硬盘短路了，这种情况还能抢救一下吗？&lt;br /&gt;&lt;br /&gt;现在硬盘价格涨的太多了，换硬盘小几千就没了。</description>
+    </item>
+    <item>
       <title>为啥 V2EX 有时候需要刷新好几次才能正常打开？</title>
       <link>https://www.v2ex.com/t/1221485</link>
       <guid>v2ex-1221485</guid>
       <pubDate>Fri, 19 Jun 2026 01:48:38 GMT</pubDate>
       <description>&lt;p&gt;刷新好几次都是 connect close ，再多刷新几次就进来了😂&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>年近 40，继续私企国企怎么选</title>
-      <link>https://www.v2ex.com/t/1221502</link>
-      <guid>v2ex-1221502</guid>
-      <pubDate>Fri, 19 Jun 2026 03:20:17 GMT</pubDate>
-      <description>80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。现在有个收入砍半的国企岗位，工作内容差不多算技术负责人，对接内部需求和外部服务商，朝九晚五，工作强度不大，业务相对稳定。各位怎么看？不想躺平，但是缺失了目标的感觉，近半年代码都是 ai 写，跑通了除需求之外的 方案设计、自动化单元测试、简单集成场景测试、自动化 cr 全流程。娃马上初中了，感觉整个小学阶段就没管过娃，有点愧疚</description>
     </item>
     <item>
       <title>2000 年 30 几岁的人现在已经 60 岁了</title>
@@ -55,13 +62,6 @@
       <description>自己用的工具，不需要备案，ip 访问就可以。&lt;br /&gt;&lt;br /&gt;需要持久化，有个 SQLlite 库。&lt;br /&gt;&lt;br /&gt;其他什么要求都没有，哪怕天天炸都没事，只要便宜。&lt;br /&gt;&lt;br /&gt;之前白嫖的 Render ，但是持久化库只免费一个月</description>
     </item>
     <item>
-      <title>停电之后瞬间又来电我的 NAS 坏了 3 块硬盘，还能抢救吗</title>
-      <link>https://www.v2ex.com/t/1221483</link>
-      <guid>v2ex-1221483</guid>
-      <pubDate>Fri, 19 Jun 2026 01:33:35 GMT</pubDate>
-      <description>硬盘已经过保了，数据倒是不重要，因为插上那 3 块硬盘的任意一块都不能开机，所以我怀疑是硬盘短路了，这种情况还能抢救一下吗？&lt;br /&gt;&lt;br /&gt;现在硬盘价格涨的太多了，换硬盘小几千就没了。</description>
-    </item>
-    <item>
       <title>vim 真的好用吗？</title>
       <link>https://www.v2ex.com/t/1221499</link>
       <guid>v2ex-1221499</guid>
@@ -70,11 +70,12 @@
 </description>
     </item>
     <item>
-      <title>有多少 V 友和我一样，公司已经拖欠工资好几个月了？</title>
-      <link>https://www.v2ex.com/t/1221429</link>
-      <guid>v2ex-1221429</guid>
-      <pubDate>Thu, 18 Jun 2026 12:42:22 GMT</pubDate>
-      <description>连续几个月工资只发当地最低工资，公司人越来越少，剩下的人事情越来越多，打开各种招聘软件都没回音，以前还有各种外包来联系，现在连外包都没，有没有同样处境的朋友，一起来聊聊。</description>
+      <title>目前海外 esim 手机号在国内，哪个最好？</title>
+      <link>https://www.v2ex.com/t/1221525</link>
+      <guid>v2ex-1221525</guid>
+      <pubDate>Fri, 19 Jun 2026 06:26:29 GMT</pubDate>
+      <description>&lt;p&gt;发现港版 iPhone 支持 esim 卡，海外手机号，月费低的，哪个最好？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
