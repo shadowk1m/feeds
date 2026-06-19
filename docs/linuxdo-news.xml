@@ -4,7 +4,428 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Fri, 19 Jun 2026 05:30:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:10:44 GMT</lastBuildDate>
+    <item>
+      <title>未确认小道消息 微软据报通过Azure在华销售OpenAlt模型</title>
+      <link>https://linux.do/t/topic/2434523</link>
+      <guid>linux.do-topic-2434523</guid>
+      <pubDate>Fri, 19 Jun 2026 10:05:21 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/d/8/2d89b57d7732bb5b1001100eac731f6ca9a9b088.jpeg&quot; data-download-href=&quot;/uploads/short-url/6uQwCOjgn9PuQyd0Rg145qNTZlC.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/d/8/2d89b57d7732bb5b1001100eac731f6ca9a9b088_2_690x322.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6uQwCOjgn9PuQyd0Rg145qNTZlC&quot; width=&quot;690&quot; height=&quot;322&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/d/8/2d89b57d7732bb5b1001100eac731f6ca9a9b088_2_690x322.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/d/8/2d89b57d7732bb5b1001100eac731f6ca9a9b088_2_1035x483.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/d/8/2d89b57d7732bb5b1001100eac731f6ca9a9b088_2_1380x644.jpeg 2x&quot; data-dominant-color=&quot;363C50&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+面向企业的 不知道个人有没有机会用上&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2434523&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>阶越星辰 Flash Mini plan免费领取（无aff，非推广）</title>
+      <link>https://linux.do/t/topic/2434521</link>
+      <guid>linux.do-topic-2434521</guid>
+      <pubDate>Fri, 19 Jun 2026 10:04:17 GMT</pubDate>
+      <description>
+            &lt;p&gt;地址：&lt;a href=&quot;https://platform.stepfun.com/step-plan#plan-list&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;阶跃星辰开放平台&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;规则：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;新用户：注册即可领取 15 天 Flash Mini 免费体验套餐，15 天内额度用尽，加赠 1 次 15 天。
+已订阅老用户：可领取 15 天免费时长，自动叠加至现有已订阅套餐，原订阅套餐有效期自动顺延。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;可用模型：&lt;br&gt;
+&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/e/1/ee13a7449ea3530c1992c9a8d9d3f691f3fdb452.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xY7Kcp55LhmFyhorBvT1vZBRVOa&quot; width=&quot;690&quot; height=&quot;16&quot; data-dominant-color=&quot;E7F0FE&quot;&gt;&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/c/b/0cb7cc22523cd9729d231a9c89826b440fc2ad71.png&quot; data-download-href=&quot;/uploads/short-url/1OvvQSr9IsxGHsB01JbmiCAQgZb.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/c/b/0cb7cc22523cd9729d231a9c89826b440fc2ad71.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;1OvvQSr9IsxGHsB01JbmiCAQgZb&quot; width=&quot;690&quot; height=&quot;266&quot; data-dominant-color=&quot;191A1D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;接入：&lt;br&gt;
+baseurl：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://api.stepfun.com/step_plan/v1/chat/completions&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://api.stepfun.com/step_plan/v1/chat/completions&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://api.stepfun.com/step_plan/v1/messages&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://api.stepfun.com/step_plan/v1/messages&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;key：领取plan后在&lt;a href=&quot;https://platform.stepfun.com/interface-key&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;阶跃星辰开放平台&lt;/a&gt; 中生成&lt;/p&gt;
+&lt;p&gt;相关文档：&lt;a href=&quot;https://platform.stepfun.com/docs/zh/welcome&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Stepfun 开放平台文档中心 - StepFun 开放平台文档中心&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;有咩有佬用过这些模型的？看起来不是编程向的，偏向生图啥的，听说还能生成音乐？&lt;/em&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2434521&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>前白宫前Al政策顾问Dean W.Ball将于7月6日 加入OpenAl,向首席战略官汇报。</title>
+      <link>https://linux.do/t/topic/2434399</link>
+      <guid>linux.do-topic-2434399</guid>
+      <pubDate>Fri, 19 Jun 2026 09:28:47 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/c/6/ec66a1f723f431849261cb971789ea1df4e536f2.jpeg&quot; data-download-href=&quot;/uploads/short-url/xJizuMgfgwCHlt1kGba9SjXivnA.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/6/ec66a1f723f431849261cb971789ea1df4e536f2_2_690x296.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xJizuMgfgwCHlt1kGba9SjXivnA&quot; width=&quot;690&quot; height=&quot;296&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/6/ec66a1f723f431849261cb971789ea1df4e536f2_2_690x296.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/c/6/ec66a1f723f431849261cb971789ea1df4e536f2_2_1035x444.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/c/6/ec66a1f723f431849261cb971789ea1df4e536f2_2_1380x592.jpeg 2x&quot; data-dominant-color=&quot;F0ECEA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+还是奥特曼会来事 老美旋转门这一块 奥特曼现在是真怕被禁止出口啊&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2434399&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>12GB 内存组件涨幅 271.79%：苹果 256GB 版 iPhone 18 Pro 售价恐涨 18.2%</title>
+      <link>https://linux.do/t/topic/2434325</link>
+      <guid>linux.do-topic-2434325</guid>
+      <pubDate>Fri, 19 Jun 2026 09:04:09 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/1/7/01743e0424433278685686287b2f416efe1e5e30.jpeg&quot; data-download-href=&quot;/uploads/short-url/cRwzqb0ZPdGQDTciU67He38bU4.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/1/7/01743e0424433278685686287b2f416efe1e5e30_2_690x272.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cRwzqb0ZPdGQDTciU67He38bU4&quot; width=&quot;690&quot; height=&quot;272&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/1/7/01743e0424433278685686287b2f416efe1e5e30_2_690x272.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/1/7/01743e0424433278685686287b2f416efe1e5e30_2_1035x408.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/1/7/01743e0424433278685686287b2f416efe1e5e30_2_1380x544.jpeg 2x&quot; data-dominant-color=&quot;EDEDED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/f/a/7fabef0393a1a108567a36bbdea8eb15bd2d4344.jpeg&quot; data-download-href=&quot;/uploads/short-url/idr0iNlzL0LxcpKjKFWeFH2lrTK.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/f/a/7fabef0393a1a108567a36bbdea8eb15bd2d4344_2_690x183.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;idr0iNlzL0LxcpKjKFWeFH2lrTK&quot; width=&quot;690&quot; height=&quot;183&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/f/a/7fabef0393a1a108567a36bbdea8eb15bd2d4344_2_690x183.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/f/a/7fabef0393a1a108567a36bbdea8eb15bd2d4344_2_1035x274.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/f/a/7fabef0393a1a108567a36bbdea8eb15bd2d4344_2_1380x366.jpeg 2x&quot; data-dominant-color=&quot;EFEFEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.ithome.com/0/966/296.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;12GB 内存组件涨幅 271.79%：苹果 256GB 版 iPhone 18 Pro 售价恐涨 18.2% - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2434325&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Google 公布 Android 侧载验证时间表：9 月 30 日起四国启动，2027 年全球铺开</title>
+      <link>https://linux.do/t/topic/2434265</link>
+      <guid>linux.do-topic-2434265</guid>
+      <pubDate>Fri, 19 Jun 2026 08:48:44 GMT</pubDate>
+      <description>
+            &lt;blockquote&gt;
+&lt;p&gt;Google 公布 Android 侧载新流程，安装未验证应用前须等待 24 小时  Google 公布了 Android 安装未验证开发者应用的“高级流程”。用户需先开启开发者模式、确认并非在他人诱导下关闭安全保护、重启手机并重新验证身份，经过一次性的 24 小时冷静期后，再用指纹、面容识别或设备 PIN 确认，才能继续安装；完成后可将这项权限设为 7 天或长期有效。Google 称，这一高摩擦流程是为降低诈骗分子诱导用户安装不安全应用的风险。  Google 去年 8 月宣布开发者验证要求，开发者…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Google 近日透露了 Android 侧载应用安全验证的新时间表。从 2026 年 9 月 30 日起，巴西、印尼、新加坡和泰国的用户若安装未经验证开发者发布的应用，将必须通过新的高级侧载流程或 ADB 命令行方式，安装过程会增加多个确认步骤。本月起，Google 已通过系统更新向 Android 设备推送新的验证服务，但暂时不会影响现有应用安装。&lt;/p&gt;
+&lt;p&gt;这一验证机制要求开发者完成身份注册。自今年 3 月启动以来，已有数百万款应用完成注册，覆盖了 Google Play 和大量外部渠道。Google 强调，用户仍可自由侧载应用，但未注册应用在安装时需额外操作。8 月起，爱好者与学生可通过有限分发账号向最多 20 台设备共享应用，无需付费或提交身份证件。按计划，该验证要求将在 2027 年扩展至全球所有认证 Android 设备。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.androidauthority.com/android-sideloading-changes-timeline-3679204/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Android Authority&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;·  ·&lt;/p&gt;
+&lt;p&gt;来源: &lt;code&gt;zaihuapd&lt;/code&gt;&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/8/8/88833c83b244880d5108fdc781ec471fbc4545a6.jpeg&quot; data-download-href=&quot;/uploads/short-url/jtE6JBw2uWRu2sMAC5aPPLyWUS2.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/8/8/88833c83b244880d5108fdc781ec471fbc4545a6_2_475x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;jtE6JBw2uWRu2sMAC5aPPLyWUS2&quot; width=&quot;475&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/8/8/88833c83b244880d5108fdc781ec471fbc4545a6_2_475x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/8/8/88833c83b244880d5108fdc781ec471fbc4545a6_2_712x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/8/8/8/88833c83b244880d5108fdc781ec471fbc4545a6.jpeg 2x&quot; data-dominant-color=&quot;EBEBEB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+还是第一次听说传音 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/face_with_raised_eyebrow.png?v=15&quot; title=&quot;:face_with_raised_eyebrow:&quot; class=&quot;emoji&quot; alt=&quot;:face_with_raised_eyebrow:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2434265&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>父亲在肥胖症代际传递中的作用</title>
+      <link>https://linux.do/t/topic/2434260</link>
+      <guid>linux.do-topic-2434260</guid>
+      <pubDate>Fri, 19 Jun 2026 08:47:55 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.springermedicine.com/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/e/7/ae7cbebeeb810e7a1bdeeb4252b59485779d43c8.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;323D4A&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://www.springermedicine.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;springermedicine.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;img width=&quot;192&quot; height=&quot;192&quot; src=&quot;https://cdn3.ldstatic.com/original/4X/a/0/3/a03941d7cb19382115b86acb257e33a70017aa5e.png&quot; class=&quot;thumbnail onebox-avatar&quot; alt=&quot;&quot; data-dominant-color=&quot;DADCDE&quot;&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.springermedicine.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Home&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Springer Medicine provides trustworthy, tailored, cutting-edge content for medical professionals. Follow us to stay on top of the latest advances in your field.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.axios.com/2026/06/19/dad-bod-science&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.axios.com/2026/06/19/dad-bod-science&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;十多年来，“爸爸身材”一直被人们津津乐道、嘲讽和戏仿，被视为已婚有子女男性不可避免的体型。但这个词的意义远不止于此。它为何重要：越来越多的科学研究表明，为人父会改变男性的身体和大脑——尽管这些变化很少被公开讨论。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一项针对人类父母的研究发现，新晋爸爸在第一个孩子出生后体重平均增加约4.5磅（约2公斤）。另一项研究则发现，即将成为父亲的猴子在雌性分娩时体重最多可增加到初始体重的8%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;言外之意：临床心理学家达比·萨克斯比在她新书《爸爸的大脑》中写道，“爸爸身材”是一种“具有真正生产价值的真实现象”。&lt;/p&gt;
+&lt;p&gt;从宏观角度来看，“爸爸身材”的出现可能与育儿方式的更大转变有关。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;萨克斯比在《纽约时报》上写道：“过去几代人中，男性照顾孩子的时间增加了三倍。千禧一代的父亲现在花在孩子身上的时间，几乎和婴儿潮一代的母亲们曾经花在孩子身上的时间一样多。”&lt;/li&gt;
+&lt;li&gt;这意味着男性可能也要面对为人父母的一些负面影响——包括对心理和生理健康的打击。&lt;/li&gt;
+&lt;li&gt;父亲体重增加也可能与男性在过渡到为人父阶段时睾酮水平下降有关。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;好消息是：萨克斯比写道，随着“啤酒肚”的出现，也伴随着“爸爸脑”的提升。研究表明，为人父母可以提升男性的认知能力，并对大脑产生抗衰老作用。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span lang=&quot;zh&quot;&gt;此外，萨克斯比告诉Axios新闻网，值得一提的是，“女性似乎喜欢有点啤酒肚的男士”。一些小型研究和调查也发现了这一点。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.universityofcalifornia.edu/news/dad-bod-dilemma&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/f/0/7f018173a0e308620e9165461b3c187ba700ecbf.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;6EC9EC&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://www.universityofcalifornia.edu/news/dad-bod-dilemma&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;03:25PM - 18 June 2026&quot;&gt;University of California – 18 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/378;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/e/1/9e1aeafba19296d5f3b8fa5895aee0a04ee1f184_2_690x379.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;63656C&quot; width=&quot;690&quot; height=&quot;379&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.universityofcalifornia.edu/news/dad-bod-dilemma&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;The ‘dad bod’ dilemma&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;A new UC Irvine study highlights how fathers may influence childhood obesity risks.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;《当代肥胖报告》上发表的一项综述发现，父亲在为人父母之前和为人父母期间的健康状况（包括肥胖、饮食、压力水平、心理健康和生活习惯）可能会影响孩子患肥胖症和相关慢性疾病的风险，甚至在受孕之前就可能产生影响。&lt;/p&gt;
+&lt;p&gt;&lt;span lang=&quot;zh&quot;&gt;兰德里说：“肥胖并非仅仅是个人选择的结果。这项研究表明，肥胖风险有40%到70%的遗传性，并且可以通过复杂的生物和环境因素代代相传。”  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;研究人员发现有证据表明，某些与肥胖相关的精子变化可能是可逆的。减肥干预措施，包括更健康的生活方式和减肥手术，与精子健康的改善以及与肥胖相关的表观遗传模式的有利变化有关。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2434260&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Adobe Firefly 引入了全新的智能代理功能</title>
+      <link>https://linux.do/t/topic/2434163</link>
+      <guid>linux.do-topic-2434163</guid>
+      <pubDate>Fri, 19 Jun 2026 08:24:43 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://blog.adobe.com/en/publish/2026/06/18/adobe-firefly-introduces-new-agentic-capabilities-and-an-upgraded-creative-ai-studio-built-for-the-way-you-work&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img class=&quot;site-icon&quot; alt=&quot;&quot;&gt;
+
+      &lt;a href=&quot;https://blog.adobe.com/en/publish/2026/06/18/adobe-firefly-introduces-new-agentic-capabilities-and-an-upgraded-creative-ai-studio-built-for-the-way-you-work&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;blog.adobe.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/388;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/e/a/aea56d7e536c9deadb380c3c921698f52e0397eb_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;C28F82&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://blog.adobe.com/en/publish/2026/06/18/adobe-firefly-introduces-new-agentic-capabilities-and-an-upgraded-creative-ai-studio-built-for-the-way-you-work&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Adobe Firefly introduces new agentic capabilities and an upgraded creative AI...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;.Adobe Firefly narrows the distance between imagination and finished work with new agentic capabilities and a reimagined AI studio&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;这就是我们打造 Firefly 的初衷，它将 Firefly 定位为一个一体化的创意 AI 工作室。今天，我们推出了一系列全新功能，进一步简化了从构思到最终作品的流程。Firefly AI Assistant（测试版）由 Adob​​e 的创意代理提供支持，现在新增了创意技能、工具和个性化功能，能够更好地理解您的意图，并以您的方式开展工作。此外，我们还将预览升级后的 Firefly 创意 AI 工作室体验，它将创意工作的各个阶段——从构思、创作到制作——整合在一起。&lt;/p&gt;
+&lt;p&gt;今天，我们将推出专为社交创作者和个体经营者打造的全新创意技能和工具，以及其他增强功能，以帮助 Firefly AI Assistant 随着时间的推移变得更加个性化和更具情境感知能力。&lt;/p&gt;
+&lt;p&gt;新的创意技能和工具包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;品牌工具包创建：描述您的风格、品牌名称和配色方案，Firefly AI 助手将生成完整的徽标、品牌标识和配色方案，可应用于您制作的所有内容。&lt;/li&gt;
+&lt;li&gt;短产品视频制作：利用优质的灯光、动态效果、音频和品牌风格，将产品照片转化为精美的短视频内容。&lt;/li&gt;
+&lt;li&gt;创建故事板并从故事板生成视频：在制作开始之前，将想法可视化、排序和开发，然后直接从您的故事板生成视频。&lt;/li&gt;
+&lt;li&gt;快速剪辑：自动将素材组装成一个精良的初剪版本，帮助您从原始片段过渡到可以进一步完善和塑造的结构化剪辑。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/4/5/3455ea989833d2e67875c3cdec101d24751627be.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;5200FF&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;01:00PM - 18 June 2026&quot;&gt;The Verge – 18 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/360;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/4/f/d4f3d2affcd02249fcfaa4044ba29abbf86f4924_2_690x358.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;212547&quot; width=&quot;690&quot; height=&quot;358&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Photoshop and Premiere now have AI assistants&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;The latest expansion in prompt-based editing.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/c/6/ac6eb14864131938b948682966a3c3d935725e14.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;56CE82&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;01:00PM - 18 June 2026&quot;&gt;TechCrunch – 18 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/301;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/1/6/1168b65a8e369c62bc8d4a712e7a92f2facc64b6_2_690x302.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;C0A17D&quot; width=&quot;690&quot; height=&quot;302&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Adobe adds its AI assistant to Premiere, Illustrator, and InDesign | TechCrunch&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Adobe is updating its Firefly AI assistant with new chops, and adding it to Premiere, Illustrator, InDesign, and Frame.io.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 2 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.provideocoalition.com/premiere-ai-assistant/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/c/4/ac4d3a9240665307bf984017bb740889ae3e9e27.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;3D5D67&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://www.provideocoalition.com/premiere-ai-assistant/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;06:10AM - 18 June 2026&quot;&gt;ProVideo Coalition – 18 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:514/500;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/8/4/d849d5da98e0dc601395e94c4acd59eda2baf410_2_514x500.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;232123&quot; width=&quot;514&quot; height=&quot;500&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.provideocoalition.com/premiere-ai-assistant/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Premiere is getting an AI Assistant by Scott Simmons - ProVideo Coalition&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;As our video editing tools have continued to evolve during the age of AI, new features seem to come along at breakneck speed. Adobe Premiere is no exception and Adobe is introducing Premiere AI Assistant&amp;nbsp;as a new panel within Premiere (it’ll be in...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2434163&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>医生用豆包给病人看病</title>
+      <link>https://linux.do/t/topic/2434034</link>
+      <guid>linux.do-topic-2434034</guid>
+      <pubDate>Fri, 19 Jun 2026 07:45:27 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/5/c/75c64d9a33bca51e8cb167afcfa30eac0d5af913.jpeg&quot; data-download-href=&quot;/uploads/short-url/gNSJ2QKHNGSrAVspgGhKf9xsNuX.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/5/c/75c64d9a33bca51e8cb167afcfa30eac0d5af913_2_336x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gNSJ2QKHNGSrAVspgGhKf9xsNuX&quot; width=&quot;336&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/5/c/75c64d9a33bca51e8cb167afcfa30eac0d5af913_2_336x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/5/c/75c64d9a33bca51e8cb167afcfa30eac0d5af913_2_504x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/5/c/75c64d9a33bca51e8cb167afcfa30eac0d5af913_2_672x1000.jpeg 2x&quot; data-dominant-color=&quot;BEA78B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;陕西西安。男子称带家人前往西安灞桥区某医院骨科就诊时，发现接诊医生频繁低头查看手机，细看医生在将患者的病情描述输入“豆包”AI软件，并参照其回复进行问诊。&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.bilibili.com/video/av116764524480412/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/9/9/9/9990bbdfb2545c678f238fdfbabd5bdd30b659f0.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;00A1D6&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://www.bilibili.com/video/av116764524480412/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;bilibili.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/460;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/5/d/e5d77879a2e64cda2fd0669a5f59e06d9bbe8b65.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;C2A08B&quot; width=&quot;100&quot; height=&quot;100&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.bilibili.com/video/av116764524480412/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;曝医生出诊时当场拿手机问豆包 病人家属：不敢再去这家医院_哔哩哔哩_bilibili&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;6月16日，陕西 西安。男子称带家人前往西安灞桥区某医院骨科就诊时，发现接诊医生频繁低头查看手机，细看医生在将患者的病情描述输入“豆包”AI软件，并参照其回复进行问诊。该男子称，医生起初还开着外放，察觉后便关闭声音放在桌子底下偷偷查看。这种“对着AI看病”的行为让其感到极度不被信任，直言“不敢再去这个医院了”。, 视频播放量 659057、弹幕量 44、点赞数 15574、投硬币枚数 93、收藏人数 984、转发人数 3200, 视频作者 网易新闻, 作者简介...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;27 个帖子 - 23 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2434034&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>医院“飞刀费”改革：必须公对公转账</title>
+      <link>https://linux.do/t/topic/2434023</link>
+      <guid>linux.do-topic-2434023</guid>
+      <pubDate>Fri, 19 Jun 2026 07:43:02 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/f/6/6f634937869ee427323af96e58eea98f39ed5509.png&quot; data-download-href=&quot;/uploads/short-url/fTnIxUYKK0sogt0GRbNIrrWTjyV.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/f/6/6f634937869ee427323af96e58eea98f39ed5509_2_690x405.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fTnIxUYKK0sogt0GRbNIrrWTjyV&quot; width=&quot;690&quot; height=&quot;405&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/f/6/6f634937869ee427323af96e58eea98f39ed5509_2_690x405.png, https://cdn3.ldstatic.com/optimized/4X/6/f/6/6f634937869ee427323af96e58eea98f39ed5509_2_1035x607.png 1.5x, https://cdn3.ldstatic.com/original/4X/6/f/6/6f634937869ee427323af96e58eea98f39ed5509.png 2x&quot; data-dominant-color=&quot;D8E0E7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nhc.gov.cn/fzs/c100048/202606/d710d772a5bd47128d80ece2216bc403.shtml&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nhc.gov.cn/fzs/c100048/202606/d710d772a5bd47128d80ece2216bc403.shtml&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2434023&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>马斯克预测智谱大模型明年一季度达到Fable5的水平！</title>
+      <link>https://linux.do/t/topic/2433924</link>
+      <guid>linux.do-topic-2433924</guid>
+      <pubDate>Fri, 19 Jun 2026 07:20:35 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;strong&gt;但智谱老板说不用那么长时间！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/1/1/b111425999370c3ab9cd7a2cd2c3991975dcdc47.jpeg&quot; data-download-href=&quot;/uploads/short-url/pgpun8PytBcORDNZM2WEHD9U9H9.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/1/1/b111425999370c3ab9cd7a2cd2c3991975dcdc47_2_422x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;pgpun8PytBcORDNZM2WEHD9U9H9&quot; width=&quot;422&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/1/1/b111425999370c3ab9cd7a2cd2c3991975dcdc47_2_422x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/1/1/b111425999370c3ab9cd7a2cd2c3991975dcdc47_2_633x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/b/1/1/b111425999370c3ab9cd7a2cd2c3991975dcdc47.jpeg 2x&quot; data-dominant-color=&quot;EFEFEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2433924&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>智谱创始人称旗下模型或可在明年一季度前达到“Mythos 级别”</title>
+      <link>https://linux.do/t/topic/2433746</link>
+      <guid>linux.do-topic-2433746</guid>
+      <pubDate>Fri, 19 Jun 2026 06:32:28 GMT</pubDate>
+      <description>
+            &lt;p&gt;有用户评估智谱 GLM-5.2 大约相当于 Claude Opus 4.7-4.8 水平，并据此推断中美 AI 模型整体差距约 7 个月。该用户还以 Anthropic 的 Mythos（Fable）为参照，预计中国厂商达到相关级别的模型可能在 2026 年 11 至 12 月。&lt;/p&gt;
+&lt;p&gt;马斯克在该讨论下回复“Probably Q1”，可以解读为他认为相关时间点在 2027 年第一季度；智谱创始人唐杰则直接回应“won’t take that long”，表示进度会更快。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/f/f/5ffc1b5d443f2b545b513aef59f045da4fdef451.jpeg&quot; data-download-href=&quot;/uploads/short-url/dH7uLsvDEEG3jcIyootEDV2AutP.jpeg?dl=1&quot; title=&quot;CleanShot 2026-06-19 at 14.31.50@2x&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/f/f/5ffc1b5d443f2b545b513aef59f045da4fdef451_2_690x307.jpeg&quot; alt=&quot;CleanShot 2026-06-19 at 14.31.50@2x&quot; data-base62-sha1=&quot;dH7uLsvDEEG3jcIyootEDV2AutP&quot; width=&quot;690&quot; height=&quot;307&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/f/f/5ffc1b5d443f2b545b513aef59f045da4fdef451_2_690x307.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/f/f/5ffc1b5d443f2b545b513aef59f045da4fdef451_2_1035x460.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/f/f/5ffc1b5d443f2b545b513aef59f045da4fdef451_2_1380x614.jpeg 2x&quot; data-dominant-color=&quot;060607&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;29 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2433746&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Anthropic Mythos早期用户仍拥有访问权限</title>
+      <link>https://linux.do/t/topic/2433744</link>
+      <guid>linux.do-topic-2433744</guid>
+      <pubDate>Fri, 19 Jun 2026 06:31:13 GMT</pubDate>
+      <description>
+            &lt;p&gt;Anthropic PBC 在更广泛发布之前早先选中的一些公司来测试 Mythos AI 模型，这些公司保留了对该系统预览版的访问权限，尽管美国政府的一项命令导致其他版本被完全关闭。知情人士说，包括银行和科技公司在内的企业正在通过Glasswing项目访问Mythos Preview，这是一个由大约 200 个组织组成的集体，这些组织已获得 Anthropic 批准可使用该系统来搜寻网络漏洞。Dragos首席技术官 Jon Lavender 表示，他的公司拥有访问权限。思科系统公司确认其也保留了访问权限。在测试中， Mythos Preview 被证明非常强大，识别出数千个漏洞，包括在所有主要OS和网络浏览器中，以至于在四月将其发布限制为仅限Glasswing项目成员。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-06-19/early-users-of-anthropic-mythos-still-have-access-after-us-order&quot; rel=&quot;noopener nofollow ugc&quot;&gt;彭博社&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2433744&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>出现了！checkm8以来首个SecureROM重大bug</title>
+      <link>https://linux.do/t/topic/2433719</link>
+      <guid>linux.do-topic-2433719</guid>
+      <pubDate>Fri, 19 Jun 2026 06:23:50 GMT</pubDate>
+      <description>
+            &lt;p&gt;由网络安全研究机构Paradigm Shift发布，宣布其名为#usbliter8的SecureROM新漏洞。&lt;/p&gt;
+&lt;p&gt;usbliter8源于Synopsys DWC2 USB控制器硬件缺陷，利用DMA缓冲区下溢实现内存写原语，影响A12、A13及S4/S5芯片，可在DFU模式下获得代码执行。&lt;/p&gt;
+&lt;p&gt;此漏洞被视为checkm8以来首个SecureROM重大bug，对iOS旧设备越狱潜力显著，团队已开源PoC并向苹果负责任披露&lt;/p&gt;
+&lt;p&gt;需要说明的是，此类漏洞属于是无法通过软件修复的硬件级漏洞&lt;/p&gt;
+&lt;p&gt;博客&lt;a href=&quot;https://ps.tc/pages/blog-usbliter8.html&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://ps.tc/pages/blog-usbliter8.html&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2433719&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Gemini CLI将在2026年6月18日 23:59 PT (北京时间6月19日14:59)停止服务</title>
+      <link>https://linux.do/t/topic/2433594</link>
+      <guid>linux.do-topic-2433594</guid>
+      <pubDate>Fri, 19 Jun 2026 05:41:49 GMT</pubDate>
+      <description>
+            &lt;p&gt;Google官方宣布，Gemini CLI将在2026年6月18日 23:59 PT (北京时间6月19日14:59)停止服务，届时旧版CLI将不再响应请求。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;22 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2433594&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>奖金差距逼近 100 倍：三星内部矛盾激化，部分员工身着黑衣集体抗议</title>
+      <link>https://linux.do/t/topic/2433555</link>
+      <guid>linux.do-topic-2433555</guid>
+      <pubDate>Fri, 19 Jun 2026 05:32:59 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/e/4/4e4b8c843ba82e648f607b4f60ea24a3f874c952.png&quot; data-download-href=&quot;/uploads/short-url/baD6xlXSmjcoBYloiO2ZcuUvFe2.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/e/4/4e4b8c843ba82e648f607b4f60ea24a3f874c952_2_690x80.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;baD6xlXSmjcoBYloiO2ZcuUvFe2&quot; width=&quot;690&quot; height=&quot;80&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/e/4/4e4b8c843ba82e648f607b4f60ea24a3f874c952_2_690x80.png, https://cdn3.ldstatic.com/optimized/4X/4/e/4/4e4b8c843ba82e648f607b4f60ea24a3f874c952_2_1035x120.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/e/4/4e4b8c843ba82e648f607b4f60ea24a3f874c952_2_1380x160.png 2x&quot; data-dominant-color=&quot;ECECEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/7/d/a7d4c0dbf3ba205c86266dbcd25fcda17d86732a.jpeg&quot; data-download-href=&quot;/uploads/short-url/nWHyGPi1SXKjuS2zxGNg6o7N1Im.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/7/d/a7d4c0dbf3ba205c86266dbcd25fcda17d86732a_2_420x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nWHyGPi1SXKjuS2zxGNg6o7N1Im&quot; width=&quot;420&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/7/d/a7d4c0dbf3ba205c86266dbcd25fcda17d86732a_2_420x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/7/d/a7d4c0dbf3ba205c86266dbcd25fcda17d86732a_2_630x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/7/d/a7d4c0dbf3ba205c86266dbcd25fcda17d86732a_2_840x1000.jpeg 2x&quot; data-dominant-color=&quot;B8B6B6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/3/3/533e37381eff6fa6c6609a1c69b10eed2abea51d.jpeg&quot; data-download-href=&quot;/uploads/short-url/bSoVrJz0AnLvX0pRncFS4MUmUa1.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/3/533e37381eff6fa6c6609a1c69b10eed2abea51d_2_453x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;bSoVrJz0AnLvX0pRncFS4MUmUa1&quot; width=&quot;453&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/3/3/533e37381eff6fa6c6609a1c69b10eed2abea51d_2_453x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/3/3/533e37381eff6fa6c6609a1c69b10eed2abea51d_2_679x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/3/3/533e37381eff6fa6c6609a1c69b10eed2abea51d_2_906x1000.jpeg 2x&quot; data-dominant-color=&quot;BEBFC0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/d/c/3dcbd4c659758a7e47c487e2f5c32c2b30c5f942.jpeg&quot; data-download-href=&quot;/uploads/short-url/8OFPzV9JbBqEOR9Wj0PvInK9G5I.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/d/c/3dcbd4c659758a7e47c487e2f5c32c2b30c5f942_2_690x238.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8OFPzV9JbBqEOR9Wj0PvInK9G5I&quot; width=&quot;690&quot; height=&quot;238&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/d/c/3dcbd4c659758a7e47c487e2f5c32c2b30c5f942_2_690x238.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/d/c/3dcbd4c659758a7e47c487e2f5c32c2b30c5f942_2_1035x357.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/d/c/3dcbd4c659758a7e47c487e2f5c32c2b30c5f942_2_1380x476.jpeg 2x&quot; data-dominant-color=&quot;EEEEEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.ithome.com/0/966/322.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;奖金差距逼近 100 倍：三星内部矛盾激化，部分员工身着黑衣集体抗议 - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2433555&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>Claude Code 额度显示异常导致部分用户无法发送消息，官方已完成修复并重置额度</title>
       <link>https://linux.do/t/topic/2433425</link>
@@ -13,7 +434,7 @@
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/0/b/c0bc92cf4f9ec88ef33fffd7a7123025f7addd52.jpeg&quot; data-download-href=&quot;/uploads/short-url/rv1GQIMI8O7y1W2BF49GZbhXxfk.jpeg?dl=1&quot; title=&quot;Screenshot_20260619_125425_com_twitter_android_MainActivity_edit_753498580102040&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/0/b/c0bc92cf4f9ec88ef33fffd7a7123025f7addd52_2_633x500.jpeg&quot; alt=&quot;Screenshot_20260619_125425_com_twitter_android_MainActivity_edit_753498580102040&quot; data-base62-sha1=&quot;rv1GQIMI8O7y1W2BF49GZbhXxfk&quot; width=&quot;633&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/0/b/c0bc92cf4f9ec88ef33fffd7a7123025f7addd52_2_633x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/0/b/c0bc92cf4f9ec88ef33fffd7a7123025f7addd52_2_949x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/c/0/b/c0bc92cf4f9ec88ef33fffd7a7123025f7addd52.jpeg 2x&quot; data-dominant-color=&quot;161616&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://x.com/i/status/2067802163498352929&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://x.com/i/status/2067802163498352929&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2433425&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -49,7 +470,7 @@
       <pubDate>Fri, 19 Jun 2026 03:43:48 GMT</pubDate>
       <description>
             &lt;p&gt;Claude Code对话直接生成可交互网页，最新版本接入了Artifacts。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2433192&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -146,7 +567,7 @@
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/7/0/07011854002aea2ff7bc04fdd397a90b5247e077.png&quot; data-download-href=&quot;/uploads/short-url/ZXGGa650NNuLYum1ljJOtYVDqT.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/7/0/07011854002aea2ff7bc04fdd397a90b5247e077_2_649x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;ZXGGa650NNuLYum1ljJOtYVDqT&quot; width=&quot;649&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/7/0/07011854002aea2ff7bc04fdd397a90b5247e077_2_649x500.png, https://cdn3.ldstatic.com/optimized/4X/0/7/0/07011854002aea2ff7bc04fdd397a90b5247e077_2_973x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/7/0/07011854002aea2ff7bc04fdd397a90b5247e077_2_1298x1000.png 2x&quot; data-dominant-color=&quot;EEEEF1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2432891&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -176,407 +597,6 @@
 &lt;p&gt;&lt;a href=&quot;https://www.cac.gov.cn/2026-06/18/c_1783525605384124.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;国家互联网信息办公室&lt;/a&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2432746&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>devin（windsurf）有限免费用glm5.2和kimi k2.7</title>
-      <link>https://linux.do/t/topic/2432730</link>
-      <guid>linux.do-topic-2432730</guid>
-      <pubDate>Fri, 19 Jun 2026 02:05:47 GMT</pubDate>
-      <description>
-            &lt;p&gt;如题，今天心血来潮看了下，发现这两个模型都是free（补充说明下似乎pro订阅才能免费用）&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/d/5/7d50de8b34fc5e802863ebc1360ef13ba5956419.png&quot; data-download-href=&quot;/uploads/short-url/hSAWCwQr10qGG0t865sVWVI1kBX.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/d/5/7d50de8b34fc5e802863ebc1360ef13ba5956419.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;hSAWCwQr10qGG0t865sVWVI1kBX&quot; width=&quot;681&quot; height=&quot;111&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/9/1/e91d9803a1b44833ebc97aeaa7b3b688503b2af6.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xgeEC0PvAGaeSX5liHiqnvhRp1c&quot; width=&quot;663&quot; height=&quot;96&quot;&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2432730&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>郭书真：2万亿美元的太空梦，错过可惜吗？</title>
-      <link>https://linux.do/t/topic/2432728</link>
-      <guid>linux.do-topic-2432728</guid>
-      <pubDate>Fri, 19 Jun 2026 02:05:32 GMT</pubDate>
-      <description>
-            &lt;p&gt;太空探索技术公司SpaceX在一片议论声中上市。虽然负面舆论不少，但丝毫没有影响市场热情。投资者认购规模较750亿美元的集资目标高出一倍，首次公开售股（IPO）定价135美元，挂牌第一天收报160.95美元，第二个交易日继续升至192.50美元。&lt;/p&gt;
-&lt;p&gt;不少分析认为， 从财务报表来看，SpaceX并不值这个价钱，它去年营收约187亿美元，但市值突破2万亿美元，市销率（P/S）高达112倍，远远超过“美股七巨头”中的多数企业。相比之下，英伟达约23倍、微软约10倍，而标普500指数成分股平均仅约2倍至5倍。&lt;/p&gt;
-&lt;p&gt;SpaceX的估值与业绩严重脱钩。从财务数据和历史经验来看，这是高股价面临的一个现实挑战。这样的场景很难不让人想起2000年的互联网泡沫。投资者追捧SpaceX，究竟是基于对创始人马斯克的崇拜，还是对人工智能（AI）与太空经济的憧憬？大家陪着马斯克一起筑梦，只是到最后，这个梦会实现，还是化为泡影？&lt;/p&gt;
-&lt;p&gt;当然，SpaceX并非只靠讲故事支撑估值的公司。它拥有真实业务、真实收入，以及持续扩张的市场地位。然而，估值中显然有相当大一部分，建立在尚未成熟、仍处于投入阶段的未来业务之上。&lt;/p&gt;
-&lt;p&gt;投资者买入的不是今天的SpaceX，而是未来的SpaceX。他们买的是火箭发射、星链（Starlink）卫星网络、政府及国防订单、快速扩张的太空基础设施平台，甚至是火星开发计划——一个由太空产业深度参与的全新全球经济体系。当然也别忘了已整合到SpaceX的xAI算力版图。&lt;/p&gt;
-&lt;p&gt;可以说，投资者看到火星、太空制造和未来太空经济的广阔前景，而不只是SpaceX今天赚了多少钱。但是，在这些太空AI愿景真正落实之前，SpaceX仍须持续投入巨额资金，并承受技术研发、商业化落地，以及盈利模式验证所带来的不确定性。根据公开资料，截至3月底，SpaceX累计亏损约413亿美元，仅今年第一季度，净亏损达到约43亿美元。&lt;/p&gt;
-&lt;p&gt;与此同时，它投入的研发资本极其庞大，星舰（Starship）与超重型助推器（Super Heavy）两大项目累计资本开支已超过150亿美元，仅2025年，与星舰相关的研发支出高达约30亿美元。SpaceX不仅仍是一家持续亏损的企业，还须像农历七月烧冥纸般烧钱。&lt;/p&gt;
-&lt;p&gt;火星或许代表未来，但投资者必须记住，在抵达火星之前，SpaceX首先要跨越的是现金流、盈利能力与技术验证这三道现实门槛。&lt;/p&gt;
-&lt;p&gt;SpaceX的股价短期内可能会得到相当程度的支撑。该股票预计会在上市的三周后，通过“快速通道”纳入纳斯达克指数，若未来进一步纳入MSCI指数或富时罗素（FTSE Russell）指数，追踪相关指数的挂牌基金（ETF）与指数基金便须要按照指数权重买入股票。然而，指数基金被动买盘，只是提供一个暂时的人造“资金地板”，一旦完成配置，边际力量便会减弱。&lt;/p&gt;
-&lt;p&gt;那些错过IPO阶段的散户，可能转向转手市场追入，但买入价格比发行价高出好几成。在这样的价位继续参与，究竟是分享下一段上涨，还是为上一段涨幅埋单？真正的考验要等到180天禁售期结束之后。当早期投资者开始套现离场时，市场便会检视这家公司的估值究竟有多少含金量。&lt;/p&gt;
-&lt;p&gt;基于错失恐惧（FOMO）进场的投资者，自然须要密切关注形势，没参与追捧的被动投资者，同样未必能够置身事外。正如前面提到的，一旦SpaceX被纳入主要基准指数，追踪相关指数的基金，便必须按照规则配置股票。换言之，即使一些投资者认为估值过高而选择不直接买入，他们仍可能因持有指数基金，在远高于IPO发行价的水平间接持有SpaceX股票。&lt;/p&gt;
-&lt;h3&gt;&lt;a name=&quot;p-19326566-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19326566-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;可能催生“洗白”概念股迅速吹大泡沫&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;更值得关注的是，AI领域的领军企业OpenAI和Anthropic也相继启动上市进程，估值均逼近万亿美元。这波超级IPO真正可怕的地方，不在于这些龙头企业本身，而在于它们可能催生无数借题发挥的“洗白”概念股，迅速吹大泡沫。&lt;/p&gt;
-&lt;p&gt;不论是SpaceX或日后上市的OpenAI和Anthropic，它们究竟值不值这个价钱，答案或许取决于投资者相信的是今天的业绩，还是明天的故事。市场总会愿意为改变世界的梦想支付溢价，但随着时间推移，支撑估值的始终是收入、利润和现金流。&lt;/p&gt;
-&lt;p&gt;梦想决定估值的上限，数字决定估值的底线。梦想能够创造价值，但当梦想成为估值的唯一依据时，市场距离泡沫往往只剩一步之遥。&lt;/p&gt;
-&lt;p&gt;与其担心错过这波浪潮，不如接受错过。先观察形势再决定是否进场。毕竟，晚一点登船或许只是少赚一些，但如果从太空船上摔下来，代价会大得多。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;作者是《联合早报》高级评论员&lt;/strong&gt;&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.zaobao.com.sg/forum/views/story20260618-9227444&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/e/4/de41409722983557dcebe3a313a3027ebc143694.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;D5567C&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://www.zaobao.com.sg/forum/views/story20260618-9227444&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;zaobao.com.sg&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/1/4/e14c203de88f54d9c03adcb99aae8d32334c91e7_2_690x459.webp&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;635D5C&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.zaobao.com.sg/forum/views/story20260618-9227444&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;郭书真：2万亿美元的太空梦，错过可惜吗？&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;太空探索技术公司SpaceX在一片议论声中上市。虽然负面舆论不少，但丝毫没有影响市场热情。投资者认购规模较750亿美元的集资目标高出一倍，首次公开售股（IPO）定价135美元，挂牌第一天收报160.95美元，第二个交易日继续升至192.50美元。&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2432728&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【快讯】stepfun官网可领免费stepplan</title>
-      <link>https://linux.do/t/topic/2432529</link>
-      <guid>linux.do-topic-2432529</guid>
-      <pubDate>Fri, 19 Jun 2026 01:12:09 GMT</pubDate>
-      <description>
-            &lt;p&gt;免费领他一个月的plus订阅&lt;br&gt;
-&lt;a href=&quot;https://platform.stepfun.com&quot; rel=&quot;noopener nofollow ugc&quot;&gt;领取地址&lt;/a&gt;&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/b/d/9bda458142acb77807088eab7a6b9ee453d90c1b.png&quot; data-download-href=&quot;/uploads/short-url/meJEs3khs6m4qEWrDXVWXZinqK7.png?dl=1&quot; title=&quot;Screenshot_2026-06-19-09-09-22-759_com.microsoft.emmx&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/b/d/9bda458142acb77807088eab7a6b9ee453d90c1b_2_409x500.png&quot; alt=&quot;Screenshot_2026-06-19-09-09-22-759_com.microsoft.emmx&quot; data-base62-sha1=&quot;meJEs3khs6m4qEWrDXVWXZinqK7&quot; width=&quot;409&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/b/d/9bda458142acb77807088eab7a6b9ee453d90c1b_2_409x500.png, https://cdn3.ldstatic.com/optimized/4X/9/b/d/9bda458142acb77807088eab7a6b9ee453d90c1b_2_613x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/b/d/9bda458142acb77807088eab7a6b9ee453d90c1b_2_818x1000.png 2x&quot; data-dominant-color=&quot;232323&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2432529&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>fable好像快要活了（假）</title>
-      <link>https://linux.do/t/topic/2432376</link>
-      <guid>linux.do-topic-2432376</guid>
-      <pubDate>Fri, 19 Jun 2026 00:02:18 GMT</pubDate>
-      <description>
-            &lt;p&gt;看了更多消息，是假的&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/smiling_face_with_tear.png?v=15&quot; title=&quot;:smiling_face_with_tear:&quot; class=&quot;emoji&quot; alt=&quot;:smiling_face_with_tear:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-也不知道说的真的假的，肥波似乎快要活了&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/c/b/1cbff6dca1a0f7fc08ecea21a170505a7302eae5.jpeg&quot; data-download-href=&quot;/uploads/short-url/46kElFcv1txqre2loVKEhNYoZEx.jpeg?dl=1&quot; title=&quot;1000043545.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/c/b/1cbff6dca1a0f7fc08ecea21a170505a7302eae5_2_154x500.jpeg&quot; alt=&quot;1000043545.jpg&quot; data-base62-sha1=&quot;46kElFcv1txqre2loVKEhNYoZEx&quot; width=&quot;154&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/c/b/1cbff6dca1a0f7fc08ecea21a170505a7302eae5_2_154x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/c/b/1cbff6dca1a0f7fc08ecea21a170505a7302eae5_2_231x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/c/b/1cbff6dca1a0f7fc08ecea21a170505a7302eae5_2_308x1000.jpeg 2x&quot; data-dominant-color=&quot;D9D6D5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2432376&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>codex app 现在可以记录你的操作并生成 skill</title>
-      <link>https://linux.do/t/topic/2432356</link>
-      <guid>linux.do-topic-2432356</guid>
-      <pubDate>Thu, 18 Jun 2026 23:47:06 GMT</pubDate>
-      <description>
-            &lt;p&gt;仅限 mac app&lt;/p&gt;
-&lt;p&gt;最新版本新增了“record &amp; replay”插件，可以记录你的手动操作工作流，然后生成一个 skill&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/8/d/58d5be4e8318f47936309e68b7ee76d4d259a310.jpeg&quot; data-download-href=&quot;/uploads/short-url/cFRXy7SPGIKb92nQM5C2vL0eqGc.jpeg?dl=1&quot; title=&quot;CleanShot 2026-06-19 at 07.44.03@2x&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/8/d/58d5be4e8318f47936309e68b7ee76d4d259a310_2_565x499.jpeg&quot; alt=&quot;CleanShot 2026-06-19 at 07.44.03@2x&quot; data-base62-sha1=&quot;cFRXy7SPGIKb92nQM5C2vL0eqGc&quot; width=&quot;565&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/8/d/58d5be4e8318f47936309e68b7ee76d4d259a310_2_565x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/8/d/58d5be4e8318f47936309e68b7ee76d4d259a310_2_847x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/8/d/58d5be4e8318f47936309e68b7ee76d4d259a310_2_1130x998.jpeg 2x&quot; data-dominant-color=&quot;EAEBF3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;信息来源：&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://developers.openai.com/codex/changelog#codex-2026-06-18-app&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/e/6/4e6c215b527d954515a2695f3754a6bce3aa56f7.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;399CF9&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
-
-      &lt;a href=&quot;https://developers.openai.com/codex/changelog#codex-2026-06-18-app&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;developers.openai.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/6/1/9619e7f08e85f64d73e60e53677b4e3373612385_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;BECBF9&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://developers.openai.com/codex/changelog#codex-2026-06-18-app&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Codex app 26.616 - Changelog – Codex | OpenAI Developers&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Full Changelog: rust-v0.140.0...rust-v0.141.0 | Latest updates to Codex, OpenAI’s coding agent&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://developers.openai.com/codex/record-and-replay&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/e/6/4e6c215b527d954515a2695f3754a6bce3aa56f7.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;399CF9&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
-
-      &lt;a href=&quot;https://developers.openai.com/codex/record-and-replay&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;developers.openai.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/3/d/43dc9bafce8ce1089ae100e70bfa802861d6e4d2_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;3D48BC&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://developers.openai.com/codex/record-and-replay&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Record &amp; Replay – Codex | OpenAI Developers&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Show Codex a workflow once and turn it into a reusable skill&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2432356&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>ollama cloud glm5.2容量增加一倍</title>
-      <link>https://linux.do/t/topic/2432317</link>
-      <guid>linux.do-topic-2432317</guid>
-      <pubDate>Thu, 18 Jun 2026 23:11:28 GMT</pubDate>
-      <description>
-            &lt;p&gt;（话题已被作者删除）&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2432317&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>huggingface API 限时免费使用GLM-5.2</title>
-      <link>https://linux.do/t/topic/2432080</link>
-      <guid>linux.do-topic-2432080</guid>
-      <pubDate>Thu, 18 Jun 2026 17:44:05 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a href=&quot;https://huggingface.co/settings/tokens&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Hugging Face – The AI community building the future.&lt;/a&gt; 获取 HF_TOKEN&lt;/p&gt;
-&lt;p&gt;在 opencode 中使用，只需在 `opencode.json` 的 `provider` 中添加：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;
-&quot;huggingface&quot;: {
-
-  &quot;npm&quot;: &quot;@ai-sdk/openai-compatible&quot;,
-
-  &quot;name&quot;: &quot;HuggingFace&quot;,
-
-  &quot;options&quot;: {
-
-    &quot;baseURL&quot;: &quot;https://router.huggingface.co/v1&quot;,
-
-    &quot;apiKey&quot;: &quot;HF_TOKEN&quot;
-
-  },
-
-  &quot;models&quot;: {
-
-    &quot;zai-org/GLM-5.2&quot;: {
-
-      &quot;name&quot;: &quot;GLM-5.2&quot;
-
-    },
-
-    &quot;zai-org/GLM-5.2-FP8&quot;: {
-
-      &quot;name&quot;: &quot;GLM-5.2-FP8&quot;
-
-    }
-
-  }
-
-}
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;然后&quot;model&quot;: “huggingface/zai-org/GLM-5.2” 即可。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;24 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2432080&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>为什么 X 上大家都在发 GPT 5.6 Pro？又是 Pro Extended 灰度？</title>
-      <link>https://linux.do/t/topic/2431963</link>
-      <guid>linux.do-topic-2431963</guid>
-      <pubDate>Thu, 18 Jun 2026 17:04:29 GMT</pubDate>
-      <description>
-            &lt;p&gt;比如说&lt;br&gt;
-以及 &lt;a class=&quot;mention&quot; href=&quot;https://linux.do/u/chetaslua&quot;&gt;@chetaslua&lt;/a&gt; 等&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/b/7/fb78e2048116df3dbef9072d4706bcc07b8b2a2f.jpeg&quot; data-download-href=&quot;/uploads/short-url/zSCPNvOOMH5zIcMI0WmROhz6QLt.jpeg?dl=1&quot; title=&quot;clipboard-1781801879744-0&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/b/7/fb78e2048116df3dbef9072d4706bcc07b8b2a2f_2_476x500.jpeg&quot; alt=&quot;clipboard-1781801879744-0&quot; data-base62-sha1=&quot;zSCPNvOOMH5zIcMI0WmROhz6QLt&quot; width=&quot;476&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/b/7/fb78e2048116df3dbef9072d4706bcc07b8b2a2f_2_476x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/b/7/fb78e2048116df3dbef9072d4706bcc07b8b2a2f_2_714x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/b/7/fb78e2048116df3dbef9072d4706bcc07b8b2a2f_2_952x1000.jpeg 2x&quot; data-dominant-color=&quot;53665E&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-x: mirochill/status/2062920018870858060&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;prompt:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;Design and create an archery simulation game. The game must feature 3D graphics in the style of your choice.  The simulation must include a shooting system where the player uses a bow to shoot arrows at targets placed at varying distances. The physics of the arrows must be affected by gravity, requiring the player to adjust their aim accordingly. Additionally, a wind system must be implemented, influencing the arrows’ trajectory and adding an extra level of difficulty.  The player must be able to control the power and angle of each shot, with visual feedback to aid in aiming (for example: a trajectory preview or a subtle guide). Targets must vary in position and difficulty, and the player must earn a score based on the precision and accuracy of their shots.  The game must include a progression system: hitting all targets unlocks a more difficult round, featuring factors such as increased distance, moving targets, or stronger wind. If the player does not hit enough targets, the game must end and return to a start screen.  You can use any library for this implementation, but everything must be contained within a single script and playable directly in a Chrome browser.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我没成功&lt;br&gt;
-我的：&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/1/7/5177067625490cb4a7381eb535e6a701898c86ca.jpeg&quot; data-download-href=&quot;/uploads/short-url/bCFGv5DEnvOzpjJrVRG4zEoc1ke.jpeg?dl=1&quot; title=&quot;clipboard-1781803259139-0&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/1/7/5177067625490cb4a7381eb535e6a701898c86ca_2_690x444.jpeg&quot; alt=&quot;clipboard-1781803259139-0&quot; data-base62-sha1=&quot;bCFGv5DEnvOzpjJrVRG4zEoc1ke&quot; width=&quot;690&quot; height=&quot;444&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/1/7/5177067625490cb4a7381eb535e6a701898c86ca_2_690x444.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/1/7/5177067625490cb4a7381eb535e6a701898c86ca_2_1035x666.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/1/7/5177067625490cb4a7381eb535e6a701898c86ca_2_1380x888.jpeg 2x&quot; data-dominant-color=&quot;7D9F8B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;71 个帖子 - 41 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2431963&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Typescript v7 进入 RC 阶段，与 v6 相比快十倍左右(tsc)，预计下个月发布正式版</title>
-      <link>https://linux.do/t/topic/2431954</link>
-      <guid>linux.do-topic-2431954</guid>
-      <pubDate>Thu, 18 Jun 2026 17:00:48 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/9/c/69c6719447ca4e8393f47a30b6fda7773fb0c6c5.jpeg&quot; data-download-href=&quot;/uploads/short-url/f5JituYCwnpSPQatwnP4Vk30G4R.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/9/c/69c6719447ca4e8393f47a30b6fda7773fb0c6c5_2_536x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;f5JituYCwnpSPQatwnP4Vk30G4R&quot; width=&quot;536&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/9/c/69c6719447ca4e8393f47a30b6fda7773fb0c6c5_2_536x500.jpeg, https://cdn3.ldstatic.com/original/4X/6/9/c/69c6719447ca4e8393f47a30b6fda7773fb0c6c5.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/6/9/c/69c6719447ca4e8393f47a30b6fda7773fb0c6c5.jpeg 2x&quot; data-dominant-color=&quot;264266&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/b/6/6b6bb9f382e5ebd9240d33066fcd1a3432e007f4.png&quot; data-download-href=&quot;/uploads/short-url/fkhTiWE8Cnfirb5CLJGGrQnetGk.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/b/6/6b6bb9f382e5ebd9240d33066fcd1a3432e007f4.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fkhTiWE8Cnfirb5CLJGGrQnetGk&quot; width=&quot;690&quot; height=&quot;356&quot; data-dominant-color=&quot;2D2C2C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/7/d/47db17d68741a06f8a9df1a32ccd8ce5349ba7ac.png&quot; data-download-href=&quot;/uploads/short-url/afFiVlnBZIbB7VRAZIJzYZQTEni.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/7/d/47db17d68741a06f8a9df1a32ccd8ce5349ba7ac.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;afFiVlnBZIbB7VRAZIJzYZQTEni&quot; width=&quot;690&quot; height=&quot;251&quot; data-dominant-color=&quot;2A2A2C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/e/e/0eea12e56faa5001349c00c598b28075e7a0467d.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;A7A559&quot; width=&quot;18&quot; height=&quot;18&quot;&gt;
-
-      &lt;a href=&quot;https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;02:31PM - 18 June 2026&quot;&gt;TypeScript – 18 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:562/350;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/8/c/28cd19c7f7c03dbbb2b40443fd0e48e5df1df58b.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;3665A4&quot; width=&quot;562&quot; height=&quot;350&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Announcing TypeScript 7.0 RC - TypeScript&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The Release Candidate for TypeScript 7.0 is now available!&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2431954&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>微信输入法也支持智能文字处理了，不只是语音转文字，要平替typeless？</title>
-      <link>https://linux.do/t/topic/2431861</link>
-      <guid>linux.do-topic-2431861</guid>
-      <pubDate>Thu, 18 Jun 2026 16:33:32 GMT</pubDate>
-      <description>
-            &lt;p&gt;现在基本每天离不开typeless，如果微信输入法能平替的话，那就太好了&lt;/p&gt;
-&lt;p&gt;1&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/3/e/93e5fc8793ce94303dcfb9f6f2f0f39d05366f52.jpeg&quot; data-download-href=&quot;/uploads/short-url/l6mVLZnx4Q6JMnWVzHGD0Y3LvSa.jpeg?dl=1&quot; title=&quot;321179ec9893a64edab8398cafbfe300&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/3/e/93e5fc8793ce94303dcfb9f6f2f0f39d05366f52_2_690x423.jpeg&quot; alt=&quot;321179ec9893a64edab8398cafbfe300&quot; data-base62-sha1=&quot;l6mVLZnx4Q6JMnWVzHGD0Y3LvSa&quot; width=&quot;690&quot; height=&quot;423&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/3/e/93e5fc8793ce94303dcfb9f6f2f0f39d05366f52_2_690x423.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/3/e/93e5fc8793ce94303dcfb9f6f2f0f39d05366f52_2_1035x634.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/9/3/e/93e5fc8793ce94303dcfb9f6f2f0f39d05366f52.jpeg 2x&quot; data-dominant-color=&quot;EFF1F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;14 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2431861&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Anthropic高管称Fable 5、Mythos 5有望数日内恢复访问</title>
-      <link>https://linux.do/t/topic/2431799</link>
-      <guid>linux.do-topic-2431799</guid>
-      <pubDate>Thu, 18 Jun 2026 16:18:24 GMT</pubDate>
-      <description>
-            &lt;p&gt;据韩国媒体ChosunBiz报道，人工智能公司Anthropic国际业务负责人Chris Ciauri当地时间6月17日在首尔汝矣岛 Conrad Hotel举行的记者会上表示，公司预计针对其最新AI模型Fable 5和Mythos 5的相关出口管制措施有望在数日内解除，相关模型可能在未来几天内恢复使用。&lt;/p&gt;
-&lt;p&gt;此次发布会旨在庆祝Antropic首尔办事处的成立。针对美国政府近期实施的出口管制措施，导致外国无法获取Antropic的人工智能模型“Mythos 5”和“Fable 5”，Chauri驳斥了市场对此的担忧。&lt;/p&gt;
-&lt;p&gt;他表示：“过去六个月发布的大多数人工智能模型都证实存在这种‘越狱’问题（这也是出口管制的背景），”并补充道：“我们预计Mythos 5和Fable 5模型将在几天内恢复可用。”&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/1/2/d120e59ced2dcb80044ba30e92ac2e54aed3c565.jpeg&quot; data-download-href=&quot;/uploads/short-url/tQ2gU72L08iIskrkNt4vGgIs0zb.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/2/d120e59ced2dcb80044ba30e92ac2e54aed3c565_2_690x389.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tQ2gU72L08iIskrkNt4vGgIs0zb&quot; width=&quot;690&quot; height=&quot;389&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/2/d120e59ced2dcb80044ba30e92ac2e54aed3c565_2_690x389.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/1/2/d120e59ced2dcb80044ba30e92ac2e54aed3c565_2_1035x583.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/d/1/2/d120e59ced2dcb80044ba30e92ac2e54aed3c565.jpeg 2x&quot; data-dominant-color=&quot;A7A8A8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;6月17日，在首尔西部康莱德酒店举行的新闻发布会上，Anthropic Korea代表董事崔基永（左）和Anthropic International总经理克里斯·西亚里（Chris Ciauri）回答记者提问。图片来源：Anthropic Korea&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;此前，Anthropic曾发布声明称，美国政府以国家安全授权为由，要求暂停任何外国国民访问Fable 5和Mythos 5，包括美国境内的外国国民以及Anthropic内部非美国籍员工。Anthropic称，为确保合规，公司不得不对所有客户临时禁用这两款模型，但其他Anthropic模型的访问不受影响。&lt;/p&gt;
-&lt;p&gt;此次事件的争议焦点集中在Fable 5和Mythos 5的安全风险评估上。Anthropic方面此前表示，美国政府关注的是Fable 5可能存在的“越狱”绕过方式，但公司认为相关问题属于误解，并称正在努力尽快恢复访问。&lt;/p&gt;
-&lt;p&gt;与此同时，Anthropic在韩国市场的布局也在加速。公司6月17日宣布正式开设首尔办公室，并披露了与韩国企业、初创公司、研究机构以及公共部门在AI安全、网络安全和企业级AI应用等方面的合作计划。Anthropic表示，韩国是Claude使用增长较快的市场之一，公司将进一步拓展在韩国的企业客户和开发者生态。&lt;/p&gt;
-&lt;p&gt;不过，截至发稿，Anthropic官网尚未发布Fable 5和Mythos 5已恢复访问的正式公告。Claude状态页仍显示“已暂停Claude Mythos 5和Claude Fable 5访问”的相关事件处于监控状态。因此，关于两款模型恢复使用的时间表，仍应以Anthropic后续官方公告和服务状态更新为准。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;最早原始媒体稿源&lt;/strong&gt;：hosunBiz 韩文稿《앤트로픽 “미토스 수출통제 수일 내 풀릴 것”… 서울 사무소 열고 韓 공략》，作者 &lt;strong&gt;李在恩 / Lee Jae-eun&lt;/strong&gt;，发布时间为 &lt;strong&gt;2026-06-17 23:59 KST&lt;/strong&gt;，更新时间 &lt;strong&gt;2026-06-18 00:36 KST&lt;/strong&gt;&lt;br&gt;
-&lt;a href=&quot;https://biz.chosun.com/it-science/ict/2026/06/17/VUQHVXTJIFCFNFFX5GAVACMWYM/?outputType=amp&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;앤트로픽 “미토스 수출통제 수일 내 풀릴 것”… 서울 사무소 열고 韓 공략 - 조선비즈&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;15 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2431799&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景</title>
-      <link>https://linux.do/t/topic/2431375</link>
-      <guid>linux.do-topic-2431375</guid>
-      <pubDate>Thu, 18 Jun 2026 14:35:28 GMT</pubDate>
-      <description>
-            &lt;p&gt;国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/b/a/4bab378b93070027375e42aa9456cf0f454ad0b4.jpeg&quot; data-download-href=&quot;/uploads/short-url/aNoDJQ8mcxBQlVaL0rc2SKEwoFC.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/b/a/4bab378b93070027375e42aa9456cf0f454ad0b4_2_668x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;aNoDJQ8mcxBQlVaL0rc2SKEwoFC&quot; width=&quot;668&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/b/a/4bab378b93070027375e42aa9456cf0f454ad0b4_2_668x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/b/a/4bab378b93070027375e42aa9456cf0f454ad0b4_2_1002x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/4/b/a/4bab378b93070027375e42aa9456cf0f454ad0b4.jpeg 2x&quot; data-dominant-color=&quot;CDCFD8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。&lt;/p&gt;
-&lt;p&gt;该套邮票首次在油墨中融入硅基材料，并采用光彩光变、冷烫、击凸等工艺。邮票将在全国指定邮政网点和线上渠道出售，限期 6 个月。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;中国邮政定于 2026 年 6 月 18 日发行 《人工智能》 特种邮票1 套 4 枚。详情如下：&lt;/p&gt;
-&lt;p&gt;志号：2026-7&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt; 图序         图名           面值
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;（4-1）T   智启纪元     1.20元&lt;/p&gt;
-&lt;p&gt;（4-2）T   数智融合     1.20元&lt;/p&gt;
-&lt;p&gt;（4-3）T   具身智能     1.20元&lt;/p&gt;
-&lt;p&gt;（4-4）T   和谐共生     1.20元&lt;/p&gt;
-&lt;p&gt;邮票规格：39×39 毫米&lt;/p&gt;
-&lt;p&gt;齿孔度数：13 度&lt;/p&gt;
-&lt;p&gt;整张枚数：版式一 11 枚&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;              版式二 8 枚（2 套）
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;整张规格：版式一 196×162 毫米&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;              版式二 203×138 毫米
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;版 别：胶印（采用局部烫印工艺；一图采用局部丝网工艺；四图采用局部压凸工艺）&lt;/p&gt;
-&lt;p&gt;防伪方式：防伪纸张 防伪油墨 异形齿孔 荧光喷码&lt;/p&gt;
-&lt;p&gt;设 计 者：王虎鸣&lt;/p&gt;
-&lt;p&gt;责任编辑：刘健&lt;/p&gt;
-&lt;p&gt;印 制 厂：河南省邮电科技有限公司&lt;/p&gt;
-&lt;p&gt;计划发行数量：套票 378 万套&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;                     版式二 56 万版
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;出售办法： 自发行之日起， 在全国指定邮政网点、 集邮网厅（&lt;a href=&quot;https://jiyou.11185.cn&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://jiyou.11185.cn&lt;/a&gt;） 、中国邮政手机客户端、中国邮政微邮局集邮微信商城和中国邮政商城微信小程序出售， 出售期限&lt;/p&gt;
-&lt;p&gt;6 个月。&lt;/p&gt;
-&lt;p&gt;寄递方式的说明如下：&lt;/p&gt;
-&lt;p&gt;1、2026年6月4日9:00——6月9日18:00，本套邮票将以挂号信函形式安排寄递，每人限购1套八连票，寄递费用全国统一为7.2元，于6月18日寄出。资费由《人工智能》《科技创新》等题材邮票组成。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2431375&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>虚幻引擎 5.8发布，通过 Claude Code 在虚幻5.8里创造各种场景，虚幻引擎6预计 2027年发布，引入生成式AI，适配PS6等次世代游戏标准</title>
-      <link>https://linux.do/t/topic/2431327</link>
-      <guid>linux.do-topic-2431327</guid>
-      <pubDate>Thu, 18 Jun 2026 14:24:12 GMT</pubDate>
-      <description>
-            &lt;p&gt;Epic Games 今天（6 月 18 日）宣布推出虚幻引擎 5.8（Unreal Engine 5.8），&lt;strong&gt;在世界构建、角色动画、虚拟制片、数字人类和实时渲染等领域带来重大更新。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;作为虚幻引擎 5.x 分支计划的最后 1 个版本，本次 5.8 更新聚焦为开发者提供更高效、更强大的创作工具，覆盖构建大型开放世界到创作高保真数字人类的多个核心领域。&lt;/p&gt;
-&lt;p&gt;Epic正在推动“跨游戏内容互通”能力，这是一项革命性的举措。未来，虚幻引擎6将引入开放标准，使各种游戏的内容资源、代码逻辑以及核心游戏性模块（如经济系统）能够在不同游戏、生态以及引擎之间实现迁移和互操作。这种能力将大幅提升开发协作规模，减少重复劳动，让开发者能够专注于创新和创意。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;深度整合UnrealEditorForFortnite：快速加入《堡垒之夜》&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;对于《堡垒之夜》的开发者来说，虚幻引擎6将带来更多的便利。引擎将深度整合UnrealEditorForFortnite，帮助开发者快速将自己的项目加入到游戏中。这一举措将进一步提升《堡垒之夜》的生态系统，使其成为一个更加开放和多元化的平台。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;生成式AI与大语言模型：降低开发负载，提升创造力&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;虚幻引擎6还将引入大语言模型（LLM）与生成式AI，帮助开发者降低开发负载。当前，Epic正构建新的AI开发流水线工具，这些工具能够整合Claude、Gemini等AI模型，让开发团队把更多精力集中在创意和技术工作上。生成式AI的引入将极大地提高开发效率，让开发者能够更快地实现他们的想法。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;时间表与展望&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;根据Epic的计划，虚幻引擎6预计将在2027年底进入EarlyAccess阶段，而正式完整版则计划在此后12至18个月内推出。与此同时，虚幻引擎5.8将成为UE5系列最后一个重大版本更新。随着UE5.8的发布完成，Epic后续的开发重点也将逐步全面转向虚幻引擎6。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;未来，虚幻引擎6或即将引入生成式AI&lt;/strong&gt;，适配PS6，新Xbox次世代游戏&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.sohu.com/a/1038156731_121956424&quot; rel=&quot;noopener nofollow ugc&quot;&gt;虚幻引擎6即将引入生成式AI，Epic预热未来游戏开发新纪元_Verse_语言_内容&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;https://www.ithome.com/0/965/932.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;虚幻引擎 5.8 发布：Lumen Lite 性能翻倍，Switch 2 上实现 60 fps 全局光照 - IT之家&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2431327&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>🤖 OpenAI Codex 支持自定义第三方模型提供者</title>
-      <link>https://linux.do/t/topic/2431294</link>
-      <guid>linux.do-topic-2431294</guid>
-      <pubDate>Thu, 18 Jun 2026 14:17:47 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/robot.png?v=15&quot; title=&quot;:robot:&quot; class=&quot;emoji&quot; alt=&quot;:robot:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; &lt;strong&gt;OpenAI Codex 支持自定义第三方模型提供者&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI Codex 现在允许用户通过自定义模型提供者接入第三方模型。只需在配置文件中定义提供者名称、接口地址和 API 密钥，即可使用 OpenAI 代理、本地 Ollama、Mistral 等外部模型。&lt;/p&gt;
-&lt;p&gt;官方文档详细列出了 Amazon Bedrock、Azure 等提供者的配置方式，并支持命令行直接覆盖部分设置，方便在终端开发环境中快速切换模型。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.openai.com/codex/config-advanced&quot; rel=&quot;noopener nofollow ugc&quot;&gt;OpenAIDevs&lt;/a&gt;&lt;br&gt;
-转自电报&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2431294&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>智谱自信今年能迎来 mythos 级别的大模型？</title>
-      <link>https://linux.do/t/topic/2431217</link>
-      <guid>linux.do-topic-2431217</guid>
-      <pubDate>Thu, 18 Jun 2026 14:00:09 GMT</pubDate>
-      <description>
-            &lt;p&gt;X 上一帖子评估 GLM5.2 模型当前能力相当于 Claude Opus4.7～4.8 水平，中美 AI 差距约七个月，预测中国版 mythos 将在 2026 年 11 至 12 月实现&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/b/d/3bd87f00342d78f5e8764a5925398a62dbf41818.jpeg&quot; data-download-href=&quot;/uploads/short-url/8xq0IdUSE48PNaBszPYnRkVUOpO.jpeg?dl=1&quot; title=&quot;1000051760.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/b/d/3bd87f00342d78f5e8764a5925398a62dbf41818_2_235x500.jpeg&quot; alt=&quot;1000051760.jpg&quot; data-base62-sha1=&quot;8xq0IdUSE48PNaBszPYnRkVUOpO&quot; width=&quot;235&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/b/d/3bd87f00342d78f5e8764a5925398a62dbf41818_2_235x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/b/d/3bd87f00342d78f5e8764a5925398a62dbf41818_2_352x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/b/d/3bd87f00342d78f5e8764a5925398a62dbf41818_2_470x1000.jpeg 2x&quot; data-dominant-color=&quot;E6DCD7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;马斯克回复可能会在 2027 年一季度发布&lt;/p&gt;
-&lt;p&gt;智谱创始人兼首席科学家 唐杰 紧接着直接用“won’t take that long”（不会用那么久）回复，展现出对自己公司的强烈信心。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/8/3/58337d53718960aecffc706ea620e3e0ceda133e.jpeg&quot; data-download-href=&quot;/uploads/short-url/cAgkF3uh7eAj1NMsXSmtFJAEWdg.jpeg?dl=1&quot; title=&quot;1000051759.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/8/3/58337d53718960aecffc706ea620e3e0ceda133e_2_274x499.jpeg&quot; alt=&quot;1000051759.jpg&quot; data-base62-sha1=&quot;cAgkF3uh7eAj1NMsXSmtFJAEWdg&quot; width=&quot;274&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/8/3/58337d53718960aecffc706ea620e3e0ceda133e_2_274x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/8/3/58337d53718960aecffc706ea620e3e0ceda133e_2_411x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/8/3/58337d53718960aecffc706ea620e3e0ceda133e_2_548x998.jpeg 2x&quot; data-dominant-color=&quot;EAE3DF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;33 个帖子 - 28 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2431217&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
