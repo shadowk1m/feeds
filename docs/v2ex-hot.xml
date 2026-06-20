@@ -4,13 +4,30 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 20 Jun 2026 07:41:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:24:52 GMT</lastBuildDate>
     <item>
       <title>来说说🪜的客户端</title>
       <link>https://www.v2ex.com/t/1221607</link>
       <guid>v2ex-1221607</guid>
       <pubDate>Sat, 20 Jun 2026 02:16:26 GMT</pubDate>
       <description>最近发现 clash verge rev bug 好多啊， 例如偶尔代理的列表会突然显示空&lt;br /&gt;&lt;br /&gt;有没有推荐下新成长起来的客户端啊&lt;br /&gt;flclash 适合桌面端吗&lt;br /&gt;还有其他推荐吗？&lt;br /&gt;&lt;br /&gt;或者大家按照每个端来给一个极客和小白都比较认可的&lt;br /&gt;&lt;br /&gt;iOS：&lt;br /&gt;android：&lt;br /&gt;win：&lt;br /&gt;macOS：</description>
+    </item>
+    <item>
+      <title>问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？</title>
+      <link>https://www.v2ex.com/t/1221614</link>
+      <guid>v2ex-1221614</guid>
+      <pubDate>Sat, 20 Jun 2026 03:23:38 GMT</pubDate>
+      <description>&lt;p&gt;这是一个我问自己的问题，也是我逛帖子发现的一个问题。&lt;/p&gt;
+&lt;p&gt;大家都在用 AI 写代码，写公司的项目。&lt;/p&gt;
+&lt;p&gt;更多的人是用 AI 写重复的轮子，比如对话、画图、写作等。&lt;/p&gt;
+&lt;p&gt;所以这就产生一个核心的问题，个人到底能用 AI 做什么？如何开发有意义的产品，如何为少数人的需求开发产品？&lt;/p&gt;
+&lt;p&gt;以前总是抱怨，一个人没有产品文档，没有 UI 设计，不会写后端代码，不会写前端代码，而现在 AI 可以帮我们做到了，我们又抱怨大家都可以做，技术平权了，我们能做的，大公司能做，你做的这些又有什么意义呢？&lt;/p&gt;
+&lt;p&gt;所以，又陷入了悲观！同时也是磨灭了自己创造的动力～&lt;/p&gt;
+&lt;p&gt;我的意思是陷入这种思维的原因有如下两点：&lt;/p&gt;
+&lt;p&gt;1 、缺少想法
+2 、缺少行动&lt;/p&gt;
+&lt;p&gt;谁赞成，谁反对？&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒</title>
@@ -57,23 +74,6 @@
 </description>
     </item>
     <item>
-      <title>问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？</title>
-      <link>https://www.v2ex.com/t/1221614</link>
-      <guid>v2ex-1221614</guid>
-      <pubDate>Sat, 20 Jun 2026 03:23:38 GMT</pubDate>
-      <description>&lt;p&gt;这是一个我问自己的问题，也是我逛帖子发现的一个问题。&lt;/p&gt;
-&lt;p&gt;大家都在用 AI 写代码，写公司的项目。&lt;/p&gt;
-&lt;p&gt;更多的人是用 AI 写重复的轮子，比如对话、画图、写作等。&lt;/p&gt;
-&lt;p&gt;所以这就产生一个核心的问题，个人到底能用 AI 做什么？如何开发有意义的产品，如何为少数人的需求开发产品？&lt;/p&gt;
-&lt;p&gt;以前总是抱怨，一个人没有产品文档，没有 UI 设计，不会写后端代码，不会写前端代码，而现在 AI 可以帮我们做到了，我们又抱怨大家都可以做，技术平权了，我们能做的，大公司能做，你做的这些又有什么意义呢？&lt;/p&gt;
-&lt;p&gt;所以，又陷入了悲观！同时也是磨灭了自己创造的动力～&lt;/p&gt;
-&lt;p&gt;我的意思是陷入这种思维的原因有如下两点：&lt;/p&gt;
-&lt;p&gt;1 、缺少想法
-2 、缺少行动&lt;/p&gt;
-&lt;p&gt;谁赞成，谁反对？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>前端界面比想象中复杂好多</title>
       <link>https://www.v2ex.com/t/1221555</link>
       <guid>v2ex-1221555</guid>
@@ -83,6 +83,29 @@
 &lt;p&gt;痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。&lt;/p&gt;
 &lt;p&gt;这个过程真的很漫长，因为端到端测试都要自己来，而且还不放心，还要再开一个窗口让 Codex review 代码。&lt;/p&gt;
 &lt;p&gt;其实我之前尝试过 Claude Design 和 Claude Code 协作写前端，但细节有很多问题，Claude Code 也处理不好。我想请教一下大家，是前端本来就如此复杂，还是我的流程有问题导致如此繁琐？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>iPhone17 凌晨异常使用蜂窝数据欠费 500 多</title>
+      <link>https://www.v2ex.com/t/1221604</link>
+      <guid>v2ex-1221604</guid>
+      <pubDate>Sat, 20 Jun 2026 02:02:19 GMT</pubDate>
+      <description>早晨五点被密集几十条短信吵醒，一看吓一跳，短信显示流量超出 540 元。（ 8 元保号套餐，600 元流量超出强制断网）&lt;br /&gt;查了一下记录，从一点开始到 5 点结束一直在疯狂跑流量，手机一直在充电没在使用&lt;br /&gt;看了设置里的记录显示 shadowrocket 使用了 25G&lt;br /&gt;很多异常点:&lt;br /&gt;1.家里全屋 wifi7 覆盖，为啥会突然走流量&lt;br /&gt;2.手机没有后台上传下载的任务，我经常重置网络设置，大部分 app 都是默认没有网络权限的，手机里没有网盘之类的 app ，即使有，再设置里流量统计也会有体现&lt;br /&gt;3.小火箭一直是规则模式链接，不知道为啥会在凌晨异常暴力传输数据，3 小时 25G 流量 ，小火箭默认不打开日志记录，所以没办法查到什么&lt;br /&gt;4.白天也有异常情况，在外面逛街的时候联通卡突然提示流量耗光，这才切的移动卡，因为移动卡里还有 7G 赠送的流量&lt;br /&gt;5.手机系统是 iOS27 beta1&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;后续打了 10086 客服，拉扯一会退了 70% 的费用，送了 20G 流量。</description>
+    </item>
+    <item>
+      <title>我明明选的是 GLM-4.7，他告诉我他是 Claude。</title>
+      <link>https://www.v2ex.com/t/1221642</link>
+      <guid>v2ex-1221642</guid>
+      <pubDate>Sat, 20 Jun 2026 08:25:25 GMT</pubDate>
+      <description>&lt;ol&gt;
+&lt;li&gt;who are you.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I am Claude, an AI assistant developed by Anthropic. I&#39;m designed to be helpful, harmless, and honest. I can help you with a wide range of tasks, such as answering questions, writing, coding, and creative projects.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;你是什么大模型？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我是 Claude ，是由 Anthropic 开发的大型语言模型。&lt;/p&gt;
+&lt;p&gt;我已经分不清谁是谁了。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -106,28 +129,15 @@ cursor 20/月 那个抗造不? codex 20 美金反正是够我用.&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。</title>
-      <link>https://www.v2ex.com/t/1221598</link>
-      <guid>v2ex-1221598</guid>
-      <pubDate>Sat, 20 Jun 2026 00:55:02 GMT</pubDate>
-      <description>早知道昨天就把额度给用光了，我还有 60% 没用。 我滴个天啊，后悔啊。Claude ，现在到底是什么情况啊？是不是每个礼拜都要格外重置一次啊？</description>
-    </item>
-    <item>
-      <title>codex 和 cc 那个更好用些？</title>
-      <link>https://www.v2ex.com/t/1221550</link>
-      <guid>v2ex-1221550</guid>
-      <pubDate>Fri, 19 Jun 2026 10:24:41 GMT</pubDate>
-      <description>&lt;p&gt;在 x 上刷到关于 codex 的使用姿势和讨论。&lt;/p&gt;
-&lt;p&gt;chatgpt 5.5 pro 的规划能力更强，用 5.5 pro 规划，之后 codex 实现？&lt;/p&gt;
-&lt;p&gt;codex + gpt5.5 更好用些？&lt;/p&gt;
+      <title>刚转行做猎头，你们最想在招聘信息里面看到什么？</title>
+      <link>https://www.v2ex.com/t/1221582</link>
+      <guid>v2ex-1221582</guid>
+      <pubDate>Fri, 19 Jun 2026 15:33:02 GMT</pubDate>
+      <description>&lt;p&gt;大家好，我是刚转行做猎头的新人。&lt;/p&gt;
+&lt;p&gt;以前我也在 V2EX 潜水，知道大家最烦那种连 JD 都说不清的招聘信息。所以今天发帖不为别的，就是想跟各位交个底——我现在手头有一些技术岗的机会，但我不想硬推，我想先听听你们的声音。&lt;/p&gt;
+&lt;p&gt;你们看招聘信息时，最想第一时间看到什么？是薪资范围的真实区间，还是技术栈的具体版本，或者团队氛围、加班情况？面试流程有几轮？有没有笔试？ hc 多不多？这些问题你们尽管扔过来，我用人话回答，绝不复制粘贴官话。&lt;/p&gt;
+&lt;p&gt;我就想做个不一样的猎头，把信息聊透，帮大家节省时间。有任何想问的，直接在帖子里回，每条我都看。谢谢各位。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>iPhone17 凌晨异常使用蜂窝数据欠费 500 多</title>
-      <link>https://www.v2ex.com/t/1221604</link>
-      <guid>v2ex-1221604</guid>
-      <pubDate>Sat, 20 Jun 2026 02:02:19 GMT</pubDate>
-      <description>早晨五点被密集几十条短信吵醒，一看吓一跳，短信显示流量超出 540 元。（ 8 元保号套餐，600 元流量超出强制断网）&lt;br /&gt;查了一下记录，从一点开始到 5 点结束一直在疯狂跑流量，手机一直在充电没在使用&lt;br /&gt;看了设置里的记录显示 shadowrocket 使用了 25G&lt;br /&gt;很多异常点:&lt;br /&gt;1.家里全屋 wifi7 覆盖，为啥会突然走流量&lt;br /&gt;2.手机没有后台上传下载的任务，我经常重置网络设置，大部分 app 都是默认没有网络权限的，手机里没有网盘之类的 app ，即使有，再设置里流量统计也会有体现&lt;br /&gt;3.小火箭一直是规则模式链接，不知道为啥会在凌晨异常暴力传输数据，3 小时 25G 流量 ，小火箭默认不打开日志记录，所以没办法查到什么&lt;br /&gt;4.白天也有异常情况，在外面逛街的时候联通卡突然提示流量耗光，这才切的移动卡，因为移动卡里还有 7G 赠送的流量&lt;br /&gt;5.手机系统是 iOS27 beta1&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;后续打了 10086 客服，拉扯一会退了 70% 的费用，送了 20G 流量。</description>
     </item>
   </channel>
 </rss>
