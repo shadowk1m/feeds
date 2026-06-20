@@ -4,7 +4,241 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sat, 20 Jun 2026 12:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 14:37:15 GMT</lastBuildDate>
+    <item>
+      <title>usbliter8 无法软件修复：苹果 A12/A13 芯片曝新漏洞</title>
+      <link>https://linux.do/t/topic/2439359</link>
+      <guid>linux.do-topic-2439359</guid>
+      <pubDate>Sat, 20 Jun 2026 13:27:12 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.ithome.com/0/966/288.htm&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/0/3/703f2dd0aee60efebceb1e2622bed68708453a24.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;DF6262&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://www.ithome.com/0/966/288.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;ithome.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://www.ithome.com/0/966/288.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;无法软件修复：苹果 A12/A13 芯片曝新漏洞，影响 iPhone 11 系列等 - IT之家&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;安全公司 Paradigm Shift 昨日（6 月 18 日）发布博文，宣布在苹果 A12 和 A13 芯片上发现 BootROM 漏洞，将其命名为 usbliter8。&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/7/6/d764d0ecf85cc3dfa53c8c8185456b0014865b6f.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;625AF4&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;The Hacker News&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/359;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/1/b/11b51e086c8e2c04df87a940c58049fa2075133d_2_690x360.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;222220&quot; width=&quot;690&quot; height=&quot;360&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Unpatchable &#39;usbliter8&#39; Exploit Breaks Apple A12 and A13 SecureROM Boot Chain&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Paradigm Shift’s usbliter8 exploit targets Apple A12 and A13 SecureROM via USB DFU mode, creating an unpatchable hardware risk.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;该代码在制造过程中已烧录到芯片中，任何软件更新都无法修复。受影响的设备在继续使用期间将一直存在此缺陷。&lt;/p&gt;
+&lt;p&gt;这不是远程攻击。它需要实际接触目标设备，该设备必须处于 DFU 模式，并通过 USB 连接到专用的基于 RP2350 的微控制器板。在这种设置下，漏洞利用会在两秒内完成，赶在苹果签名启动链加载之前。&lt;/p&gt;
+&lt;p&gt;公开的PoC支持A12、A13、S4和S5 SoC。A12X和A12Z的支持理论上可行，但尚未实现。&lt;/p&gt;
+&lt;p&gt;该系列设备包括 iPhone XS、XS Max 和 XR；iPhone 11、11 Pro 和 11 Pro Max；iPhone SE（第二代）；iPad Air（第三代）、iPad mini（第五代）和 iPad（第八代）；Apple Watch Series 4 和 5；第一代 Apple Watch SE；HomePod mini；以及其他搭载这些芯片的苹果产品。A11 芯片不受影响。A14 及更新的芯片似乎不受此漏洞利用途径的影响。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;bug&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span lang=&quot;zh&quot;&gt;根本问题是 Synopsys DWC2 USB 控制器的硬件缺陷。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;控制器通过DMA存储接收到的USB设置数据包，最多缓存三个，然后在接收到第四个数据包时，将写入指针减去固定的24字节来重置。它还会接收小于标准大小的数据包，此时指针只会递增实际写入的字节数。这种大小不匹配会导致缓冲区下溢，每次将写入指针向后移动12字节。&lt;/p&gt;
+&lt;p&gt;A12 和 A13 芯片之所以能利用此漏洞，是因为苹果公司对 SecureROM 内部的 USB DART（设备地址解析表，即芯片的 IOMMU）进行了特殊的配置。在受影响的设备上，USB DART 以旁路模式运行，因此溢出的 DMA 指针可以访问并覆盖任意 SRAM。&lt;/p&gt;
+&lt;p&gt;A11 不受影响，因为它的 USB 驱动程序会在每个数据包之后手动重置 DMA 地址，所以地址不匹配的情况不会累积。A14 及更高版本似乎正确配置了 DART，Paradigm Shift 表示这使得该漏洞在新硬件上无法被利用。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://ps.tc/pages/blog-usbliter8.html&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/5/7/4576ab2f70f803f96136ff0d645460ac94b9389b.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;0AB692&quot; width=&quot;96&quot; height=&quot;96&quot;&gt;
+
+      &lt;a href=&quot;https://ps.tc/pages/blog-usbliter8.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;ps.tc&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://ps.tc/pages/blog-usbliter8.html&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Paradigm Shift - Introducing usbliter8&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;This write-up details a novel iPhone BootROM vulnerability discovered and exploited by our team. It covers the underlying bug, the associated exploitation techniques, and the post-exploitation steps required...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;aside class=&quot;onebox githubrepo&quot; data-onebox-src=&quot;https://github.com/prdgmshift/usbliter8&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://github.com/prdgmshift/usbliter8&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;github.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;github-row&quot; data-github-private-repo=&quot;false&quot;&gt;
+  &lt;img width=&quot;690&quot; height=&quot;344&quot; src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/5/6/a569f28262c30491dd508f02cd306cc87f3bf524_2_690x344.png&quot; class=&quot;thumbnail&quot; data-dominant-color=&quot;E8E9E9&quot;&gt;
+
+  &lt;h3&gt;&lt;a href=&quot;https://github.com/prdgmshift/usbliter8&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;GitHub - prdgmshift/usbliter8: An A12/A13 SecureROM exploit&lt;/a&gt;&lt;/h3&gt;
+
+    &lt;p&gt;&lt;span class=&quot;github-repo-description&quot;&gt;An A12/A13 SecureROM exploit&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://mashable.com/tech/older-iphones-vulnerable-to-a-flaw-apple-cant-fix&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/9/d/69dc73071f106d16d887373c39d46e2ca60628df.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;898AE2&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://mashable.com/tech/older-iphones-vulnerable-to-a-flaw-apple-cant-fix&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;02:08PM - 19 June 2026&quot;&gt;Mashable – 19 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/d/1/4d1bfc12ab98fab668161c603db635b33dc9f53b_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;867765&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://mashable.com/tech/older-iphones-vulnerable-to-a-flaw-apple-cant-fix&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Older iPhones vulnerable to a flaw Apple can’t fix&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;You might want to buy a new phone.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.gsmarena.com/researchers_uncover_an_unpatchable_security_flaw_affecting_several_iphone_generations-news-73357.php&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/0/1/a011cc707b1843c091f39438240fa834d9535900.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;A4989A&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.gsmarena.com/researchers_uncover_an_unpatchable_security_flaw_affecting_several_iphone_generations-news-73357.php&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;GSMArena.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/360;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/4/9/e49c4291158f045e3a0798b3aa83e5e12f1db8cc_2_690x360.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;7E7268&quot; width=&quot;690&quot; height=&quot;360&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.gsmarena.com/researchers_uncover_an_unpatchable_security_flaw_affecting_several_iphone_generations-news-73357.php&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Researchers uncover an unpatchable security flaw affecting several iPhone...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;All devices running A12, A13, S4 and S5 chips are at risk. Researchers at Paradigm Shift published an extensive report that details the inherent security...&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2439359&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>卡塔尔赠送的新空军一号飞机抵达安德鲁斯联合基地，开始试飞</title>
+      <link>https://linux.do/t/topic/2439341</link>
+      <guid>linux.do-topic-2439341</guid>
+      <pubDate>Sat, 20 Jun 2026 13:22:31 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://www.af.mil/News/Article-Display/Article/4522274/vc-25b-bridge-aircraft-arrives-at-joint-base-andrews-begins-commissioning-fligh/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.af.mil/News/Article-Display/Article/4522274/vc-25b-bridge-aircraft-arrives-at-joint-base-andrews-begins-commissioning-fligh/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;“保障三军统帅的安全是我们的首要任务，”空军部长特洛伊·梅因克说。“从一开始，我们就一丝不苟地评估了每一项要求，以加快交付速度，同时保持总统任务应有的高标准。这项工作证明，美国空军能够在不牺牲质量、安全性和可靠性的前提下快速行动。”&lt;/p&gt;
+&lt;p&gt;“桥梁计划”展现了当公共和私营部门的利益相关者齐心协力，朝着同一个根本使命目标努力时所能取得的成就。任何被赋予“空军一号”呼号的飞机都必须满足严格的安全要求，以确保总统的安全、防护和通讯畅通。VC-25B“桥梁”飞机经过严谨的工程改造，将这些核心能力置于首位。&lt;/p&gt;
+&lt;p&gt;这架飞机安全可靠，配备了满足总统任务所需的最先进技术。这些要求经过精心设计，优先考虑任务需求而非美观，因此尽可能保留了前任国家元首专机的内部布局。在安全、保障和任务通信方面没有冒任何风险，但团队对波音公司必须交付的、未来40年内能够满足需求的某些不常用任务功能进行了权衡取舍。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.theguardian.com/us-news/video/2026/jun/20/the-worlds-most-luxurious-plane-trump-unveils-new-air-force-one-video&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/0/c/b0c44ac7ed6c3b6eb03511d8dd6922b122c2dff4.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;4F6890&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://www.theguardian.com/us-news/video/2026/jun/20/the-worlds-most-luxurious-plane-trump-unveils-new-air-force-one-video&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;11:18AM - 20 June 2026&quot;&gt;the Guardian – 20 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/video/2026/jun/20/the-worlds-most-luxurious-plane-trump-unveils-new-air-force-one-video&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&#39;The world&#39;s most luxurious plane&#39;: Trump unveils new Air Force One – video&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Donald Trump presents temporary presidential aircraft at Joint Base Andrews in Maryland&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周五，唐纳德·特朗普在马里兰州安德鲁斯联合基地的一个机库里展示了全新的临时专机“空军一号”。此前一天，白宫官员刚刚告别了两架波音747飞机中的一架，这两架飞机已用于总统出行超过30年。这架新飞机由海湾酋长国卡塔尔赠送给特朗普，引发了政治抗议，因为这架价值4亿美元（3亿英镑）的飞机超过了同一来源在单个日历年内接受价值50美元的非邀约礼物的限额。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.cbsnews.com/news/air-force-one-new-plane-trump-qatar/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.cbsnews.com/news/air-force-one-new-plane-trump-qatar/&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2439341&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>霍尔木兹海峡已关闭-2026.6.20</title>
+      <link>https://linux.do/t/topic/2439317</link>
+      <guid>linux.do-topic-2439317</guid>
+      <pubDate>Sat, 20 Jun 2026 13:15:03 GMT</pubDate>
+      <description>
+            &lt;p&gt;伊朗称霍尔木兹海峡已关闭。&lt;br&gt;
+来源：塔斯尼姆通讯社&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这海峡开开关关比我家电灯都勤… 周一打算把科技卖点掉，估计周一晚美股不保&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;28 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2439317&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>Qoder CN 接入 DeepSeek 已经支持自适应上下文</title>
       <link>https://linux.do/t/topic/2439045</link>
@@ -65,7 +299,7 @@ vibe的屎山发力了 现在的SSD可不便宜啊&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;工信部已完成《智能网联汽车自动驾驶系统安全要求》强制性国家标准报批稿，6 月 17 日起公示，建议 2027 年 7 月 1 日实施。这是我国首部针对 L3 和 L4 级自动驾驶的强制性标准，引入了 Safety Case 安全档案机制，要求企业用“声明—论据—证据”系统性论证安全性，并对 L3 的人机交接和 L4 的系统自主风险处置分别提出要求。&lt;/p&gt;
 &lt;p&gt;业内人士表示，新标准标志着监管从“概念松绑”转向“安全硬约束”，车企过去靠模糊宣传抢市场的阶段将结束，未来竞争会聚焦安全能力。标准短期内可能推高冗余系统、高算力芯片等成本，但长期会被技术迭代和规模效应逐步摊薄。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.sohu.com/a/1038536454_115362&quot; rel=&quot;noopener nofollow ugc&quot;&gt;搜狐网&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2438015&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -121,7 +355,7 @@ vibe的屎山发力了 现在的SSD可不便宜啊&lt;p&gt;&lt;/p&gt;
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;67 个帖子 - 57 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;69 个帖子 - 59 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2437607&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -252,7 +486,7 @@ vibe的屎山发力了 现在的SSD可不便宜啊&lt;p&gt;&lt;/p&gt;
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2436841&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -389,7 +623,7 @@ vibe的屎山发力了 现在的SSD可不便宜啊&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;artificial analysis 上的结果相似&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/4/4/344ebe68292822c605af5a8cd876eaa06e0bf372.png&quot; data-download-href=&quot;/uploads/short-url/7sJxffXwMnrMc6RqLNIBWwDjCx4.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/4/4/344ebe68292822c605af5a8cd876eaa06e0bf372_2_627x499.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;7sJxffXwMnrMc6RqLNIBWwDjCx4&quot; width=&quot;627&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/4/4/344ebe68292822c605af5a8cd876eaa06e0bf372_2_627x499.png, https://cdn3.ldstatic.com/optimized/4X/3/4/4/344ebe68292822c605af5a8cd876eaa06e0bf372_2_940x748.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/4/4/344ebe68292822c605af5a8cd876eaa06e0bf372.png 2x&quot; data-dominant-color=&quot;DDDCDF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/4/1/241a737f7201ab1cd4d17fe3f880e51e1f61bbf1.png&quot; data-download-href=&quot;/uploads/short-url/59nRkXLHzaWwcp1EHkS7QCf2KeR.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/4/1/241a737f7201ab1cd4d17fe3f880e51e1f61bbf1_2_599x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;59nRkXLHzaWwcp1EHkS7QCf2KeR&quot; width=&quot;599&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/4/1/241a737f7201ab1cd4d17fe3f880e51e1f61bbf1_2_599x500.png, https://cdn3.ldstatic.com/optimized/4X/2/4/1/241a737f7201ab1cd4d17fe3f880e51e1f61bbf1_2_898x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/2/4/1/241a737f7201ab1cd4d17fe3f880e51e1f61bbf1.png 2x&quot; data-dominant-color=&quot;E5E3E7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;21 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;28 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2436422&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -403,7 +637,7 @@ vibe的屎山发力了 现在的SSD可不便宜啊&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dario Amodei (Anthropic CEO)：&lt;/strong&gt; 其实并没有。我在那里工作了一年。我想我学到更多的可能是关于语音、语音识别以及诸如此类的技术…&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=x2VHFgyawPE&amp;t=3711s&quot;&gt;Inside the Mind of Anthropic CEO Dario Amodei | The Circuit | Extended Interview&lt;/a&gt;&lt;/p&gt;
 
-            &lt;p&gt;&lt;small&gt;32 个帖子 - 27 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;33 个帖子 - 28 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2436251&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -558,43 +792,6 @@ John Jumper之前是Google DeepMind主管，曾因AlphaFold与Demis Hassabis共�
 
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2435847&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Gemini 3.5 pro coming soon？logan表示团队正在全力搞定 3.5 pro！</title>
-      <link>https://linux.do/t/topic/2435722</link>
-      <guid>linux.do-topic-2435722</guid>
-      <pubDate>Fri, 19 Jun 2026 15:02:46 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/3/5/c353db4219e79bb11a54cfaf233e0b967d6b372a.png&quot; data-download-href=&quot;/uploads/short-url/rRWLDM2boziarBCiGLaqpsqKNei.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/3/5/c353db4219e79bb11a54cfaf233e0b967d6b372a_2_570x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;rRWLDM2boziarBCiGLaqpsqKNei&quot; width=&quot;570&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/3/5/c353db4219e79bb11a54cfaf233e0b967d6b372a_2_570x500.png, https://cdn3.ldstatic.com/original/4X/c/3/5/c353db4219e79bb11a54cfaf233e0b967d6b372a.png 1.5x, https://cdn3.ldstatic.com/original/4X/c/3/5/c353db4219e79bb11a54cfaf233e0b967d6b372a.png 2x&quot; data-dominant-color=&quot;F4F5F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;38 个帖子 - 26 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2435722&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>OpenAI推出新功能，开启时GPT观察你的工作流程，并自动生成skill</title>
-      <link>https://linux.do/t/topic/2435282</link>
-      <guid>linux.do-topic-2435282</guid>
-      <pubDate>Fri, 19 Jun 2026 13:07:55 GMT</pubDate>
-      <description>
-            &lt;p&gt;看佬友一直没人发只好我发了，我对这个功能有点畏惧了说实话&lt;br&gt;
-&lt;a href=&quot;https://x.com/OpenAIDevs/status/2067681320281723113&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://x.com/OpenAIDevs/status/2067681320281723113&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/c/0/ec0ea9c0479d8b4e919b911f69913b06ad373bdd.jpeg&quot; data-download-href=&quot;/uploads/short-url/xGg66PFl8n1oauxM8mjiZdPtHlP.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/0/ec0ea9c0479d8b4e919b911f69913b06ad373bdd_2_365x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xGg66PFl8n1oauxM8mjiZdPtHlP&quot; width=&quot;365&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/0/ec0ea9c0479d8b4e919b911f69913b06ad373bdd_2_365x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/c/0/ec0ea9c0479d8b4e919b911f69913b06ad373bdd_2_547x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/c/0/ec0ea9c0479d8b4e919b911f69913b06ad373bdd_2_730x1000.jpeg 2x&quot; data-dominant-color=&quot;CACAC8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;23 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2435282&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>iFAST Global Bank 正式上线 SEPA 欧元免手续费收款</title>
-      <link>https://linux.do/t/topic/2435199</link>
-      <guid>linux.do-topic-2435199</guid>
-      <pubDate>Fri, 19 Jun 2026 12:47:53 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/0/c/b0c1bb6d2001c1388f5e85dd90736d601d44c991.jpeg&quot; data-download-href=&quot;/uploads/short-url/pdF6rHIv28N9XXBRF8Qn9257ScV.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/0/c/b0c1bb6d2001c1388f5e85dd90736d601d44c991_2_287x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;pdF6rHIv28N9XXBRF8Qn9257ScV&quot; width=&quot;287&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/0/c/b0c1bb6d2001c1388f5e85dd90736d601d44c991_2_287x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/0/c/b0c1bb6d2001c1388f5e85dd90736d601d44c991_2_430x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/0/c/b0c1bb6d2001c1388f5e85dd90736d601d44c991_2_574x1000.jpeg 2x&quot; data-dominant-color=&quot;EFF2F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;iFAST Global Bank 正式上线 SEPA 欧元免手续费收款&lt;/p&gt;
-&lt;p&gt;预告7月推出 SEPA 汇出功能&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2435199&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
