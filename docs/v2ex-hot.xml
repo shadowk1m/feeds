@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 20 Jun 2026 21:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 23:07:35 GMT</lastBuildDate>
     <item>
       <title>问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？</title>
       <link>https://www.v2ex.com/t/1221614</link>
@@ -28,22 +28,6 @@
       <guid>v2ex-1221607</guid>
       <pubDate>Sat, 20 Jun 2026 02:16:26 GMT</pubDate>
       <description>最近发现 clash verge rev bug 好多啊， 例如偶尔代理的列表会突然显示空&lt;br /&gt;&lt;br /&gt;有没有推荐下新成长起来的客户端啊&lt;br /&gt;flclash 适合桌面端吗&lt;br /&gt;还有其他推荐吗？&lt;br /&gt;&lt;br /&gt;或者大家按照每个端来给一个极客和小白都比较认可的&lt;br /&gt;&lt;br /&gt;iOS：&lt;br /&gt;android：&lt;br /&gt;win：&lt;br /&gt;macOS：</description>
-    </item>
-    <item>
-      <title>我明明选的是 GLM-4.7，他告诉我他是 Claude。</title>
-      <link>https://www.v2ex.com/t/1221642</link>
-      <guid>v2ex-1221642</guid>
-      <pubDate>Sat, 20 Jun 2026 08:25:25 GMT</pubDate>
-      <description>&lt;ol&gt;
-&lt;li&gt;who are you.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I am Claude, an AI assistant developed by Anthropic. I&#39;m designed to be helpful, harmless, and honest. I can help you with a wide range of tasks, such as answering questions, writing, coding, and creative projects.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;你是什么大模型？&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我是 Claude ，是由 Anthropic 开发的大型语言模型。&lt;/p&gt;
-&lt;p&gt;我已经分不清谁是谁了。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>Vibe Coding 了两年，分享一下我对于 Vibe 的感想。</title>
@@ -88,11 +72,20 @@
 </description>
     </item>
     <item>
-      <title>iPhone17 凌晨异常使用蜂窝数据欠费 500 多</title>
-      <link>https://www.v2ex.com/t/1221604</link>
-      <guid>v2ex-1221604</guid>
-      <pubDate>Sat, 20 Jun 2026 02:02:19 GMT</pubDate>
-      <description>早晨五点被密集几十条短信吵醒，一看吓一跳，短信显示流量超出 540 元。（ 8 元保号套餐，600 元流量超出强制断网）&lt;br /&gt;查了一下记录，从一点开始到 5 点结束一直在疯狂跑流量，手机一直在充电没在使用&lt;br /&gt;看了设置里的记录显示 shadowrocket 使用了 25G&lt;br /&gt;很多异常点:&lt;br /&gt;1.家里全屋 wifi7 覆盖，为啥会突然走流量&lt;br /&gt;2.手机没有后台上传下载的任务，我经常重置网络设置，大部分 app 都是默认没有网络权限的，手机里没有网盘之类的 app ，即使有，再设置里流量统计也会有体现&lt;br /&gt;3.小火箭一直是规则模式链接，不知道为啥会在凌晨异常暴力传输数据，3 小时 25G 流量 ，小火箭默认不打开日志记录，所以没办法查到什么&lt;br /&gt;4.白天也有异常情况，在外面逛街的时候联通卡突然提示流量耗光，这才切的移动卡，因为移动卡里还有 7G 赠送的流量&lt;br /&gt;5.手机系统是 iOS27 beta1&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;后续打了 10086 客服，拉扯一会退了 70% 的费用，送了 20G 流量。</description>
+      <title>我明明选的是 GLM-4.7，他告诉我他是 Claude。</title>
+      <link>https://www.v2ex.com/t/1221642</link>
+      <guid>v2ex-1221642</guid>
+      <pubDate>Sat, 20 Jun 2026 08:25:25 GMT</pubDate>
+      <description>&lt;ol&gt;
+&lt;li&gt;who are you.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I am Claude, an AI assistant developed by Anthropic. I&#39;m designed to be helpful, harmless, and honest. I can help you with a wide range of tasks, such as answering questions, writing, coding, and creative projects.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;你是什么大模型？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我是 Claude ，是由 Anthropic 开发的大型语言模型。&lt;/p&gt;
+&lt;p&gt;我已经分不清谁是谁了。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>航班因乘客违规使用充电宝迫降，此人是不是这辈子就差不多了？</title>
@@ -100,6 +93,13 @@
       <guid>v2ex-1221647</guid>
       <pubDate>Sat, 20 Jun 2026 08:44:46 GMT</pubDate>
       <description>英国航班 BA271 飞行中一名乘客用充电宝给手机充电。突然充电宝爆炸起火，机上乘客以为遇到恐袭。最终充电宝火灾烧毁了一个座椅后被乘务组扑灭，飞机就近紧急降落。&lt;br /&gt;&lt;br /&gt;这个飞行中使用充电宝充电的乘客要承担多少责任？会不会要陪天文数字的钱（飞机修复，航班费用，其他旅客延误赔偿等）？有没有可能设计刑事责任？</description>
+    </item>
+    <item>
+      <title>iPhone17 凌晨异常使用蜂窝数据欠费 500 多</title>
+      <link>https://www.v2ex.com/t/1221604</link>
+      <guid>v2ex-1221604</guid>
+      <pubDate>Sat, 20 Jun 2026 02:02:19 GMT</pubDate>
+      <description>早晨五点被密集几十条短信吵醒，一看吓一跳，短信显示流量超出 540 元。（ 8 元保号套餐，600 元流量超出强制断网）&lt;br /&gt;查了一下记录，从一点开始到 5 点结束一直在疯狂跑流量，手机一直在充电没在使用&lt;br /&gt;看了设置里的记录显示 shadowrocket 使用了 25G&lt;br /&gt;很多异常点:&lt;br /&gt;1.家里全屋 wifi7 覆盖，为啥会突然走流量&lt;br /&gt;2.手机没有后台上传下载的任务，我经常重置网络设置，大部分 app 都是默认没有网络权限的，手机里没有网盘之类的 app ，即使有，再设置里流量统计也会有体现&lt;br /&gt;3.小火箭一直是规则模式链接，不知道为啥会在凌晨异常暴力传输数据，3 小时 25G 流量 ，小火箭默认不打开日志记录，所以没办法查到什么&lt;br /&gt;4.白天也有异常情况，在外面逛街的时候联通卡突然提示流量耗光，这才切的移动卡，因为移动卡里还有 7G 赠送的流量&lt;br /&gt;5.手机系统是 iOS27 beta1&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;后续打了 10086 客服，拉扯一会退了 70% 的费用，送了 20G 流量。</description>
     </item>
     <item>
       <title>[陈恳求助] 现在能买的 VPS 线路有哪些</title>
