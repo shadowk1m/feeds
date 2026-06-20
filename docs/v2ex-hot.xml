@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 20 Jun 2026 10:24:52 GMT</lastBuildDate>
-    <item>
-      <title>来说说🪜的客户端</title>
-      <link>https://www.v2ex.com/t/1221607</link>
-      <guid>v2ex-1221607</guid>
-      <pubDate>Sat, 20 Jun 2026 02:16:26 GMT</pubDate>
-      <description>最近发现 clash verge rev bug 好多啊， 例如偶尔代理的列表会突然显示空&lt;br /&gt;&lt;br /&gt;有没有推荐下新成长起来的客户端啊&lt;br /&gt;flclash 适合桌面端吗&lt;br /&gt;还有其他推荐吗？&lt;br /&gt;&lt;br /&gt;或者大家按照每个端来给一个极客和小白都比较认可的&lt;br /&gt;&lt;br /&gt;iOS：&lt;br /&gt;android：&lt;br /&gt;win：&lt;br /&gt;macOS：</description>
-    </item>
+    <lastBuildDate>Sat, 20 Jun 2026 12:13:02 GMT</lastBuildDate>
     <item>
       <title>问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？</title>
       <link>https://www.v2ex.com/t/1221614</link>
@@ -28,6 +21,13 @@
 2 、缺少行动&lt;/p&gt;
 &lt;p&gt;谁赞成，谁反对？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>来说说🪜的客户端</title>
+      <link>https://www.v2ex.com/t/1221607</link>
+      <guid>v2ex-1221607</guid>
+      <pubDate>Sat, 20 Jun 2026 02:16:26 GMT</pubDate>
+      <description>最近发现 clash verge rev bug 好多啊， 例如偶尔代理的列表会突然显示空&lt;br /&gt;&lt;br /&gt;有没有推荐下新成长起来的客户端啊&lt;br /&gt;flclash 适合桌面端吗&lt;br /&gt;还有其他推荐吗？&lt;br /&gt;&lt;br /&gt;或者大家按照每个端来给一个极客和小白都比较认可的&lt;br /&gt;&lt;br /&gt;iOS：&lt;br /&gt;android：&lt;br /&gt;win：&lt;br /&gt;macOS：</description>
     </item>
     <item>
       <title>一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒</title>
@@ -74,18 +74,6 @@
 </description>
     </item>
     <item>
-      <title>前端界面比想象中复杂好多</title>
-      <link>https://www.v2ex.com/t/1221555</link>
-      <guid>v2ex-1221555</guid>
-      <pubDate>Fri, 19 Jun 2026 11:18:30 GMT</pubDate>
-      <description>&lt;p&gt;刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。&lt;/p&gt;
-&lt;p&gt;前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。&lt;/p&gt;
-&lt;p&gt;痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。&lt;/p&gt;
-&lt;p&gt;这个过程真的很漫长，因为端到端测试都要自己来，而且还不放心，还要再开一个窗口让 Codex review 代码。&lt;/p&gt;
-&lt;p&gt;其实我之前尝试过 Claude Design 和 Claude Code 协作写前端，但细节有很多问题，Claude Code 也处理不好。我想请教一下大家，是前端本来就如此复杂，还是我的流程有问题导致如此繁琐？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>iPhone17 凌晨异常使用蜂窝数据欠费 500 多</title>
       <link>https://www.v2ex.com/t/1221604</link>
       <guid>v2ex-1221604</guid>
@@ -109,6 +97,17 @@
 </description>
     </item>
     <item>
+      <title>刚转行做猎头，你们最想在招聘信息里面看到什么？</title>
+      <link>https://www.v2ex.com/t/1221582</link>
+      <guid>v2ex-1221582</guid>
+      <pubDate>Fri, 19 Jun 2026 15:33:02 GMT</pubDate>
+      <description>&lt;p&gt;大家好，我是刚转行做猎头的新人。&lt;/p&gt;
+&lt;p&gt;以前我也在 V2EX 潜水，知道大家最烦那种连 JD 都说不清的招聘信息。所以今天发帖不为别的，就是想跟各位交个底——我现在手头有一些技术岗的机会，但我不想硬推，我想先听听你们的声音。&lt;/p&gt;
+&lt;p&gt;你们看招聘信息时，最想第一时间看到什么？是薪资范围的真实区间，还是技术栈的具体版本，或者团队氛围、加班情况？面试流程有几轮？有没有笔试？ hc 多不多？这些问题你们尽管扔过来，我用人话回答，绝不复制粘贴官话。&lt;/p&gt;
+&lt;p&gt;我就想做个不一样的猎头，把信息聊透，帮大家节省时间。有任何想问的，直接在帖子里回，每条我都看。谢谢各位。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>好难受, 现在是不是 GLM 最适合我了</title>
       <link>https://www.v2ex.com/t/1221559</link>
       <guid>v2ex-1221559</guid>
@@ -129,15 +128,11 @@ cursor 20/月 那个抗造不? codex 20 美金反正是够我用.&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>刚转行做猎头，你们最想在招聘信息里面看到什么？</title>
-      <link>https://www.v2ex.com/t/1221582</link>
-      <guid>v2ex-1221582</guid>
-      <pubDate>Fri, 19 Jun 2026 15:33:02 GMT</pubDate>
-      <description>&lt;p&gt;大家好，我是刚转行做猎头的新人。&lt;/p&gt;
-&lt;p&gt;以前我也在 V2EX 潜水，知道大家最烦那种连 JD 都说不清的招聘信息。所以今天发帖不为别的，就是想跟各位交个底——我现在手头有一些技术岗的机会，但我不想硬推，我想先听听你们的声音。&lt;/p&gt;
-&lt;p&gt;你们看招聘信息时，最想第一时间看到什么？是薪资范围的真实区间，还是技术栈的具体版本，或者团队氛围、加班情况？面试流程有几轮？有没有笔试？ hc 多不多？这些问题你们尽管扔过来，我用人话回答，绝不复制粘贴官话。&lt;/p&gt;
-&lt;p&gt;我就想做个不一样的猎头，把信息聊透，帮大家节省时间。有任何想问的，直接在帖子里回，每条我都看。谢谢各位。&lt;/p&gt;
-</description>
+      <title>没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。</title>
+      <link>https://www.v2ex.com/t/1221598</link>
+      <guid>v2ex-1221598</guid>
+      <pubDate>Sat, 20 Jun 2026 00:55:02 GMT</pubDate>
+      <description>早知道昨天就把额度给用光了，我还有 60% 没用。 我滴个天啊，后悔啊。Claude ，现在到底是什么情况啊？是不是每个礼拜都要格外重置一次啊？</description>
     </item>
   </channel>
 </rss>
