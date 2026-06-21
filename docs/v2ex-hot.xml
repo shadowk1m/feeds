@@ -4,71 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 21 Jun 2026 06:41:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 10:24:03 GMT</lastBuildDate>
     <item>
-      <title>Vibe Coding 了两年，分享一下我对于 Vibe 的感想。</title>
-      <link>https://www.v2ex.com/t/1221657</link>
-      <guid>v2ex-1221657</guid>
-      <pubDate>Sat, 20 Jun 2026 09:41:43 GMT</pubDate>
-      <description>&lt;h2&gt;以下为个人观点，基本上全是暴论，不喜勿喷，给孩子留点面子吧😭&lt;/h2&gt;
-&lt;p&gt;我是从 2024 年读高二的时候了解到 Vibe Coding 的（当时大家还没有叫它 Vibe Coding ），当时 DeepSeek 刚出 R1 ，除了 OpenAI 的 GPT-o1 之外，大家还没来得及用上思维链，也没有那么强的性能，参数量最大的模型的话好像是 R1 的 671B 。&lt;/p&gt;
-&lt;p&gt;当时 Token 还没有现在那么便宜，而我又是穷鬼高中生，听说这玩意儿可以辅助编程，便心心念念日思夜想，看着 GPT-o1 馋到流口水，根本买不起订阅。&lt;/p&gt;
-&lt;p&gt;所幸，我一位玩得好的远房表哥在 AWS 悉尼工作，平时喜欢折腾新奇技术，跟他聊天的时候了解到他 GPT Pro 总是用不完，每次都差那么一点，于是我就来补这个缺口了😋&lt;/p&gt;
-&lt;p&gt;刚开始用的时候完全抓瞎，总是给 GPT 一大堆表述不清的需求，GPT：😅。它也没给我什么好脸色，总是给我甩一大堆垃圾，我和 GPT 就这样你一口我一口地互相喂💩，我们吃得不亦乐乎。&lt;/p&gt;
-&lt;p&gt;但是过了几个月，到了 2025 年伊始，大家口中开始出现了 Vibe Coding 这种说法，然后我又通过 Vibe Coding 社群了解到一个之前对我来说从未听说但是圈内早就在用的名词，也就是 Prompt Engineering 。我觉得这种东西好神奇，居然可以通过改变我给 AI 喂的💩的口味让 AI 产出更精致的💩，遂学之。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;自从开始 Vibe Coding ，我感觉这个圈子完美诠释了一句话“大圈子神人多，小圈子神人神”。而 Vibe Coding 这个圈子人不多不少刚刚好，所以神人又多又神。&lt;/p&gt;
-&lt;p&gt;有人嗅到了商机，开始卖课；有人被卖课的人忽悠，觉得这玩意儿能让他改变世界，于是买了课开始不断产💩；然后有人产了💩还不罢休，喂给开源工作者吃，用他们的代码强健 GitHub 上的 Repo ，于是 Repo 被塞满没处理的 PR 开始哦齁齁齁；开源工作者受不了了，只好用 AI 牛他们的仓库让 AI 自动审批 PR……&lt;/p&gt;
-&lt;p&gt;用《亮剑》里的话来说——“整个晋西北乱成了一锅粥”。&lt;/p&gt;
-&lt;p&gt;自然，我也是其中一员，买课、信 AI 万能、强健别人的 Repo 和用 AI 牛自己的仓库这类抽象事情一样没少干。没办法，打了两年 OI ，最后一年通过 OI 升学的资格收紧了很多，搞得我在机房待了两年拿银牌跟个小丑一样。所以搞完 OI 之后还要面对高考压力，就这样我绝佳的精神状态开始让我四处乱倒垃圾。&lt;/p&gt;
-&lt;p&gt;最后提一嘴题外话，我今年高考，想上的学校今年大多数还把 OI 强基入围破格给 Ban 掉，显得我更加小丑了。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;言归正传，就我观察而言，Vibe 圈一般分为以下几类人：&lt;/p&gt;
-&lt;p&gt;首先要提到的是最普遍的一类人——真的在拿 AI 工作的人。&lt;/p&gt;
-&lt;p&gt;先别觉得我在胡说八道。之所以我这么说，是因为我充分发挥了我的注意力（ Attention is all you need ），用瞪眼法和身边统计学显然地注意到了我所认识的那些很会 Vibe 来提升效率的工作者很少有时间在网上分享自己的 Vibe 心得，不是在被公司压榨就是在被压榨的路上。&lt;/p&gt;
-&lt;p&gt;不过他们还是会发发帖子什么的，毕竟他们也是人，喜欢分享也正常。那群哥们并不是不想分享，只是被公司恶势力阻止了他们分享😠。&lt;/p&gt;
-&lt;p&gt;其次就是那些拿 AI 学习的苦逼学生。没办法，国内大学的计科教育太难绷了。&lt;/p&gt;
-&lt;p&gt;举个例子，我认识的一位在某顶级双非、在读网安大一的、有扎实基础的哥们，他们的人工智能课作业是“用 AI 解决开发中的实际问题”。这哥们充分发挥了自己的聪明才智，写了一个很强悍的、高度可用的 MCP Server （具体解决什么问题我忘了），结果他兴冲冲地上交作业，老师全程问他最有技术含量的问题居然是——&lt;/p&gt;
-&lt;p&gt;“这是一个模型吗？”&lt;/p&gt;
-&lt;p&gt;这哥们当场蚌埠住，恨不得扎聋自己的耳朵。&lt;/p&gt;
-&lt;p&gt;在这样的情况下，你不自学技能直接上完大学进社会迟早有一天会被所谓“高等教育”害死。&lt;/p&gt;
-&lt;p&gt;而有些神人就不一样了，在圈子里展示着他们那强劲的音道，嗓门又大音高又高，把正常交流的声音全盖住，炫耀自己又烧了多少 Token ，又完成了什么项目帮助他们提高工作效率。我就这么说吧，真正需要这玩意儿提高工作效率的人 Vibe 完都去忙着干活了，谁有闲工夫在朋友圈和论坛上蹿下跳的。&lt;/p&gt;
-&lt;p&gt;他们只不过是觉得 Vibe 编程高大上，可以体现他们的阶级优越性或者智力优越性罢了。其中的代表就是那些半懂不懂的企业老板、还有那些乱烧 Token 显得自己很牛逼结果什么实际问题都没解决的中学小鬼。&lt;/p&gt;
-&lt;p&gt;很不幸，我以前属于后者。&lt;/p&gt;
-&lt;p&gt;原本正常使用的人占绝对多数，但奈何大家永远只记得神人，因为太让人印象深刻了，这就是“好事不出门，坏事传千里”的含金量。久而久之，大家会开始认为 Vibe 圈是个小资精神病嘉豪群体。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;终于吐槽完了神人，我们认真聊一下 Vibe Coding 吧。&lt;/p&gt;
-&lt;p&gt;Vibe 还是有很多程度上的区分的：&lt;/p&gt;
-&lt;p&gt;首先是原教旨 Vibe 。这类人坚定不移地走 Andrej Karpathy 的路线，坚持全程使用 AI 编程不动摇。这种人已经相当于机械飞升了，写出来的代码可以类比成 40K 世界里的人类之于现实人类——简单来说就已经不是人了。通常来说，这类人的能力上限极高，下限也极低。&lt;/p&gt;
-&lt;p&gt;上限极高的前提是成为掌管提示词工程的神、同时用 Harness Prompt 把 AI 调成星怒；下限就是那种说不清自己需求的人，典型案例就是告诉对方“我要五彩斑斓的黑”的甲方，产出来的全是类似于克苏鲁一样的不可名状的生物。&lt;/p&gt;
-&lt;p&gt;其次是把 AI 当成赛博义体来用的重度使用者，这群人中的强者不会完全用 AI 来写，而是自己先写好设计文档和架构文档。更有甚者还会实现好关键部分，其它全部用空壳函数占个位，然后再在旁边写好注释，AI 只用负责填空。这使得他们的活可以只用低参数 LLM 解决，这是其它几种都做不到的。而弱一点的虽然写得比 AI 还差，但至少 AI 会帮他们兜个底，他们的基本逻辑还是能跑通的。&lt;/p&gt;
-&lt;p&gt;最后是 AI 的轻度使用者，这种人偶尔用 AI 写个 MVP 最小化验证一下自己的思路，或者用 AI 改一下他们改不来的错。他们的大多数代码都是自己写的，所以有没有 AI 对他们影响不大。&lt;/p&gt;
-&lt;p&gt;这甚至都不能称为 Vibe Coding 。就犹如广东双马尾和初音未来都有双马尾，但你不能把 Ta 们都概括为虚拟歌姬。所以不深入讨论。&lt;/p&gt;
-&lt;p&gt;行了，就写到这里了吧。先去吃个饭，后面再补充。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>我明明选的是 GLM-4.7，他告诉我他是 Claude。</title>
-      <link>https://www.v2ex.com/t/1221642</link>
-      <guid>v2ex-1221642</guid>
-      <pubDate>Sat, 20 Jun 2026 08:25:25 GMT</pubDate>
-      <description>&lt;ol&gt;
-&lt;li&gt;who are you.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I am Claude, an AI assistant developed by Anthropic. I&#39;m designed to be helpful, harmless, and honest. I can help you with a wide range of tasks, such as answering questions, writing, coding, and creative projects.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;你是什么大模型？&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我是 Claude ，是由 Anthropic 开发的大型语言模型。&lt;/p&gt;
-&lt;p&gt;我已经分不清谁是谁了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>航班因乘客违规使用充电宝迫降，此人是不是这辈子就差不多了？</title>
-      <link>https://www.v2ex.com/t/1221647</link>
-      <guid>v2ex-1221647</guid>
-      <pubDate>Sat, 20 Jun 2026 08:44:46 GMT</pubDate>
-      <description>英国航班 BA271 飞行中一名乘客用充电宝给手机充电。突然充电宝爆炸起火，机上乘客以为遇到恐袭。最终充电宝火灾烧毁了一个座椅后被乘务组扑灭，飞机就近紧急降落。&lt;br /&gt;&lt;br /&gt;这个飞行中使用充电宝充电的乘客要承担多少责任？会不会要陪天文数字的钱（飞机修复，航班费用，其他旅客延误赔偿等）？有没有可能设计刑事责任？</description>
+      <title>突然发现拼多多居然没有做网贷</title>
+      <link>https://www.v2ex.com/t/1221710</link>
+      <guid>v2ex-1221710</guid>
+      <pubDate>Sun, 21 Jun 2026 01:05:33 GMT</pubDate>
+      <description>突然发现拼多多居然没有做网贷。。。</description>
     </item>
     <item>
       <title>[陈恳求助] 现在能买的 VPS 线路有哪些</title>
@@ -83,13 +25,6 @@
 </description>
     </item>
     <item>
-      <title>突然发现拼多多居然没有做网贷</title>
-      <link>https://www.v2ex.com/t/1221710</link>
-      <guid>v2ex-1221710</guid>
-      <pubDate>Sun, 21 Jun 2026 01:05:33 GMT</pubDate>
-      <description>突然发现拼多多居然没有做网贷。。。</description>
-    </item>
-    <item>
       <title>周末好无聊啊！有点为退休后无事可做发愁了</title>
       <link>https://www.v2ex.com/t/1221719</link>
       <guid>v2ex-1221719</guid>
@@ -98,11 +33,19 @@
 </description>
     </item>
     <item>
-      <title>问一下大家，为什么 Outlook 邮箱那么不受待见？</title>
-      <link>https://www.v2ex.com/t/1221638</link>
-      <guid>v2ex-1221638</guid>
-      <pubDate>Sat, 20 Jun 2026 08:10:04 GMT</pubDate>
-      <description>刚刚看到，自己的站被一帮 Outlook 邮箱在自动注册，看起来都是机器人。</description>
+      <title>大家电动车续航达成率怎么样</title>
+      <link>https://www.v2ex.com/t/1221725</link>
+      <guid>v2ex-1221725</guid>
+      <pubDate>Sun, 21 Jun 2026 04:27:15 GMT</pubDate>
+      <description>&lt;p&gt;买了个 A0 级小车，车重 1600KG ，然后这几天跑下来，CLTC 500KM 的话 我大概只能跑 330KM ，达成率大概 66%，坐标浙江这边，这几天热，上车就是空调最低，风量最大，最高的时候我看车机显示 33 度/100KM 。。。。 昨天晚上开回来，低的时候 13 度/100KM ，人员话。就 2 个人坐&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>问一个私密但又迫切的问题，进入 ai 时代后，大家用 ai 做的项目都实实在在挣到钱了吗</title>
+      <link>https://www.v2ex.com/t/1221724</link>
+      <guid>v2ex-1221724</guid>
+      <pubDate>Sun, 21 Jun 2026 04:13:36 GMT</pubDate>
+      <description>问一个私密但又迫切的问题，进入 ai 时代后，大家用 ai 做的项目都实实在在挣到钱了吗？如果可以的话，把自己做了什么项目，挣了多少拿出来晒一晒吧。</description>
     </item>
     <item>
       <title>FaceTime 不同人使用反馈</title>
@@ -119,208 +62,19 @@
       <description>35GW-PG15/N1A1&lt;br /&gt;35GW-PG15/A1A1&lt;br /&gt;....我看到了好多这种字样，有懂哥出来支支招吗？&lt;br /&gt;我心理预期价位大概在 1500 （国补完）左右，旧品回收以后预期可以提到 1800 左右&lt;br /&gt;家里还有旧机，看了下几个平台的回收价格，基本上都在 300+&lt;br /&gt;&lt;br /&gt;需求：&lt;br /&gt;卧室使用，面积大概 20 左右，哪个型号和价格会比较合适呢。&lt;br /&gt;现在家里这个老空调实在是消费不起了，5 级能效，我开都不敢开啊！！！！&lt;br /&gt;&lt;br /&gt;先感谢各位了！</description>
     </item>
     <item>
-      <title>针对同一问题， Claude 和 Gemini 的实践对比。</title>
-      <link>https://www.v2ex.com/t/1221666</link>
-      <guid>v2ex-1221666</guid>
-      <pubDate>Sat, 20 Jun 2026 11:07:40 GMT</pubDate>
-      <description>&lt;p&gt;模型：
-Claude Opus 4.6 （ Tinking ）
-Gemini 3.1 Pro （ High ）	&lt;/p&gt;
-&lt;p&gt;工具：
-Google Antigravity&lt;/p&gt;
-&lt;p&gt;提的问题大概就是：&lt;/p&gt;
-&lt;p&gt;让他们给我查询 OpenJDK 在 alpine:3.24.0 debian:13.5.0 rocky:10.2.0 上的最新版本号。&lt;/p&gt;
-&lt;p&gt;Gemini 3.1 Pro 花了 6 分钟，还在抓耳挠腮，像极了考试中不会做题，疯狂打草稿的我。&lt;/p&gt;
-&lt;p&gt;Claude 花了 1 分钟，输出一个漂亮的表格。先别管对不对，总之就是快。&lt;/p&gt;
-&lt;h2&gt;Claude&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;明白了！我现在严格按照您的要求：**从 Dockerfile 的 `FROM` 基础镜像出发，确认每个变体可用的 OpenJDK 最新版本号**。
-
-先查看当前三个 Dockerfile 的基础镜像：
-
-Viewed Dockerfile:1-70
-Viewed Dockerfile:1-77
-Viewed Dockerfile:1-76
-
-好的，三个 Dockerfile 的 FROM 基础镜像分别是：
-
-| 变体 | 基础镜像 | 对应上游 |
-|---|---|---|
-| Alpine | `snowdreamtech/alpine:3.24.0` | Alpine 3.24 |
-| Debian | `snowdreamtech/debian:13.5.0` | Debian 13 (trixie) |
-| Rocky | `snowdreamtech/rocky:10.2.0` | Rocky Linux 10 |
-
-现在我针对这三个**实际基础镜像版本**去查询 OpenJDK 21 的可用版本：
-
-Ran command: `python3 -c &quot;
-import urllib.request, re
-
-# Alpine 3.24 - already confirmed: 21.0.11_p10-r0
-url = &#39;https://pkgs.alpinelinux.org/packages?name=openjdk21&amp;amp;branch=v3.24&#39;
-req = urllib.request.Request(url, headers={&#39;User-Agent&#39;: &#39;Mozilla&#39;})
-html = urllib.request.urlopen(req).read().decode(&#39;utf-8&#39;)
-m = re.search(r&#39;&amp;lt;td class=\&quot;version\&quot;&amp;gt;.*?&amp;lt;strong&amp;gt;([^&amp;lt;]+)&amp;lt;/strong&amp;gt;&#39;, html, re.DOTALL)
-if m:
-    print(&#39;Alpine 3.24 openjdk21:&#39;, m.group(1))
-else:
-    m2 = re.search(r&#39;&amp;lt;td class=\&quot;version\&quot;&amp;gt;.*?([0-9]+\.[0-9]+[0-9a-zA-Z._-]+)&#39;, html, re.DOTALL)
-    print(&#39;Alpine 3.24 openjdk21:&#39;, m2.group(1) if m2 else &#39;not found&#39;)
-&quot;
-`
-Ran command: `python3 -c &quot;
-import urllib.request, re
-
-# Debian 13 (trixie) - check openjdk-21-jdk
-url = &#39;https://packages.debian.org/trixie/openjdk-21-jdk&#39;
-req = urllib.request.Request(url, headers={&#39;User-Agent&#39;: &#39;Mozilla&#39;})
-html = urllib.request.urlopen(req).read().decode(&#39;utf-8&#39;)
-m = re.search(r&#39;&amp;lt;h1&amp;gt;Package: openjdk-21-jdk \(([^)]+)\)&#39;, html)
-if m:
-    print(&#39;Debian 13 (trixie) openjdk-21-jdk:&#39;, m.group(1))
-else:
-    # try alternative pattern
-    m2 = re.search(r&#39;openjdk-21-jdk.*?([0-9]+\.[0-9]+\.[0-9]+[^\s&amp;lt;\&quot;]*)&#39;, html, re.DOTALL)
-    print(&#39;Debian 13 (trixie) openjdk-21-jdk:&#39;, m2.group(1) if m2 else &#39;checking alternative...&#39;)
-&quot;
-`
-Ran command: `curl -s &quot;https://dl.rockylinux.org/pub/rocky/10/AppStream/x86_64/os/Packages/j/&quot; | grep -o &#39;java-21-openjdk-devel-[^&quot;]*\.rpm&#39; | sort -V | tail -n 1`
-
-✅ 三个基础镜像的 OpenJDK 21 最新版本已全部确认完毕：
-
-| 变体 | FROM 基础镜像 | 包名 | 最新可用版本 | Dockerfile 当前版本 | 状态 |
-|---|---|---|---|---|---|
-| **Alpine** | `snowdreamtech/alpine:3.24.0` | `openjdk21` | `21.0.11_p10-r0` | `21.0.11_p10-r0` | ✅ 已是最新 |
-| **Debian** | `snowdreamtech/debian:13.5.0` | `openjdk-21-jdk` | `21.0.11+10-1~deb13u2` | `21.0.11+10-1~deb13u2` | ✅ 已是最新 |
-| **Rocky** | `snowdreamtech/rocky:10.2.0` | `java-21-openjdk-devel` | `21.0.11.0.10-2.el10_1` | `21.0.11.0.10-2.el10_1` | ✅ 已是最新 |
-
-**结论：三个变体的 Dockerfile 中 OpenJDK 版本号已经全部是基于对应基础镜像仓库的最新版本（ 21.0.11 系列），无需进一步修改。**
-
-另外需要确认 `fix_exact.py` 中的版本也要同步更新（目前它还是旧的 `21.0.9` / `21.0.6`）。需要我更新 `fix_exact.py` 吗？
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;Gemini&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;Edited Dockerfile
-Edited Dockerfile
-Edited Dockerfile
-Edited Dockerfile
-Viewed Dockerfile:25-59
-Ran command: `curl -s &quot;https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&amp;amp;branch=v3.21&quot; | grep -A 2 -B 2 &quot;openjdk21-jdk&quot;`
-Ran command: `curl -s &quot;https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&amp;amp;branch=v3.24&quot; | grep -A 2 -B 2 &quot;openjdk21-jdk&quot;`
-Ran command: `curl -s &quot;https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&amp;amp;branch=v3.24&quot; | grep -A 1 &#39;class=&quot;version&quot;&#39;`
-Ran command: `curl -s &quot;https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&amp;amp;branch=v3.24&quot; | grep -A 1 &#39;class=&quot;version&quot;&#39;`
-Ran command: `python3 -c &quot;
-import urllib.request, re
-url = &#39;https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&amp;amp;branch=v3.24&#39;
-req = urllib.request.Request(url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;})
-try:
-    resp = urllib.request.urlopen(req)
-    html = resp.read().decode(&#39;utf-8&#39;)
-    match = re.search(r&#39;&amp;lt;td class=\&quot;version\&quot;&amp;gt;.*?([^&amp;lt;&amp;gt;\n\s]+).*?&amp;lt;/td&amp;gt;&#39;, html, re.DOTALL)
-    if match: print(&#39;Alpine 3.24 version:&#39;, match.group(1))
-except Exception as e: print(e)
-&quot;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-528.log`
-Ran command: `python3 -c &quot;
-import urllib.request, re
-url = &#39;https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&amp;amp;branch=v3.24&#39;
-req = urllib.request.Request(url, headers={&#39;User-Agent&#39;: &#39;Mozilla/5.0&#39;})
-try:
-    resp = urllib.request.urlopen(req)
-    html = resp.read().decode(&#39;utf-8&#39;)
-    match = re.search(r&#39;&amp;lt;td class=\&quot;version\&quot;&amp;gt;.*?&amp;lt;strong&amp;gt;([^&amp;lt;]+)&amp;lt;/strong&amp;gt;&#39;, html, re.DOTALL)
-    if match: print(&#39;Alpine 3.24 version:&#39;, match.group(1))
-except Exception as e: print(e)
-&quot;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-536.log`
-Ran command: `python3 -c &quot;
-import urllib.request, re
-
-def get_alpine():
-    url = &#39;https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&amp;amp;branch=v3.24&#39;
-    req = urllib.request.Request(url, headers={&#39;User-Agent&#39;: &#39;Mozilla&#39;})
-    html = urllib.request.urlopen(req).read().decode(&#39;utf-8&#39;)
-    m = re.search(r&#39;&amp;lt;td class=\&quot;version\&quot;&amp;gt;.*?([0-9]+\.[0-9]+[0-9a-zA-Z._-]+)&#39;, html, re.DOTALL)
-    return m.group(1) if m else &#39;not found&#39;
-
-def get_debian():
-    url = &#39;https://packages.debian.org/bookworm/openjdk-21-jdk&#39;
-    req = urllib.request.Request(url, headers={&#39;User-Agent&#39;: &#39;Mozilla&#39;})
-    try:
-        html = urllib.request.urlopen(req).read().decode(&#39;utf-8&#39;)
-        m = re.search(r&#39;openjdk-21-jdk \(([0-9]+\.[0-9]+[^)]+)\)&#39;, html)
-        return m.group(1) if m else &#39;not found&#39;
-    except Exception as e:
-        return str(e)
-
-print(&#39;Alpine:&#39;, get_alpine())
-print(&#39;Debian:&#39;, get_debian())
-&quot;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-543.log`
-Ran command: `python3 -c &quot;
-import urllib.request, re
-url = &#39;https://packages.debian.org/bookworm/openjdk-21-jdk&#39;
-req = urllib.request.Request(url, headers={&#39;User-Agent&#39;: &#39;Mozilla&#39;})
-html = urllib.request.urlopen(req).read().decode(&#39;utf-8&#39;)
-m = re.search(r&#39;&amp;lt;h1&amp;gt;Package: openjdk-21-jdk \((.*?)\)&#39;, html)
-print(&#39;Debian:&#39;, m.group(1) if m else &#39;not found&#39;)
-&quot;`
-Ran command: `python3 -c &quot;
-import urllib.request, re
-url = &#39;https://packages.debian.org/bookworm-backports/openjdk-21-jdk&#39;
-req = urllib.request.Request(url, headers={&#39;User-Agent&#39;: &#39;Mozilla&#39;})
-try:
-    html = urllib.request.urlopen(req).read().decode(&#39;utf-8&#39;)
-    m = re.search(r&#39;&amp;lt;h1&amp;gt;Package: openjdk-21-jdk \((.*?)\)&#39;, html)
-    print(&#39;Debian-backports:&#39;, m.group(1) if m else &#39;not found&#39;)
-except Exception as e:
-    print(e)
-&quot;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-553.log`
-Ran command: `curl -s &quot;https://packages.debian.org/search?keywords=openjdk-21-jdk&amp;amp;searchon=names&amp;amp;suite=bookworm&quot; | grep &quot;deb12&quot;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-561.log`
-Ran command: `curl -s &quot;https://tracker.debian.org/pkg/openjdk-21&quot; | grep -A 2 &quot;bookworm&quot;`
-Ran command: `curl -s &#39;https://sources.debian.org/api/src/openjdk-21/&#39; | grep -A 10 &#39;&quot;version&quot;&#39;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-571.log`
-Ran command: `curl -s &#39;https://sources.debian.org/api/src/openjdk-21/&#39;`
-Ran command: `curl -s &quot;https://dl.rockylinux.org/pub/rocky/9/AppStream/x86_64/os/Packages/j/&quot; | grep &quot;java-21-openjdk-devel&quot; | tail -n 1`
-Ran command: `curl -s &quot;https://packages.debian.org/bookworm/openjdk-21-jdk&quot; | grep &quot;Package not available&quot;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-586.log`
-Ran command: `curl -s &quot;https://packages.debian.org/search?keywords=openjdk-21-jdk&amp;amp;searchon=names&amp;amp;suite=all&amp;amp;section=all&quot; | grep -A 2 -B 2 &quot;deb12&quot;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-594.log`
-Ran command: `curl -s &quot;https://packages.debian.org/search?keywords=openjdk-21-jdk&amp;amp;searchon=names&amp;amp;suite=all&amp;amp;section=all&quot; | grep &quot;bpo12&quot;`
-Ran command: `curl -s &quot;https://security.debian.org/debian-security/pool/updates/main/o/openjdk-21/&quot; | grep -o &#39;openjdk-21-jdk_[^&quot;]*&#39; | head -n 1`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-605.log`
-Viewed fix_exact.py:1-400
-Ran command: `curl -s &quot;https://security.debian.org/debian-security/pool/updates/main/o/openjdk-21/&quot; | grep &quot;deb12&quot;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-618.log`
-Ran command: `curl -s &#39;https://sources.debian.org/api/src/openjdk-21/&#39;`
-Ran command: `curl -s &quot;https://security.debian.org/debian-security/pool/updates/main/o/openjdk-21/&quot; | grep -o &#39;openjdk-21-jdk_[^&quot;]*&#39; | grep &#39;deb12&#39;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-628.log`
-Ran command: `curl -s &quot;http://ftp.debian.org/debian/pool/main/o/openjdk-21/&quot; | grep -o &#39;openjdk-21-jdk_[^&quot;]*&#39; | grep &#39;bpo12&#39; | head -n 1`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-635.log`
-Ran command: `curl -s &quot;http://security.debian.org/debian-security/pool/updates/main/o/openjdk-21/&quot; | grep -o &#39;openjdk-21-jdk_[^&quot;]*&#39; | grep &#39;deb12u&#39;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-643.log`
-Ran command: `python3 -c &quot;
-import urllib.request, gzip
-url = &#39;http://ftp.debian.org/debian/dists/bookworm-backports/main/binary-amd64/Packages.gz&#39;
-req = urllib.request.Request(url, headers={&#39;User-Agent&#39;: &#39;Mozilla&#39;})
-try:
-    data = urllib.request.urlopen(req).read()
-    text = gzip.decompress(data).decode(&#39;utf-8&#39;)
-    for block in text.split(&#39;\n\n&#39;):
-        if block.startswith(&#39;Package: openjdk-21-jdk\n&#39;):
-            for line in block.split(&#39;\n&#39;):
-                if line.startswith(&#39;Version: &#39;):
-                    print(&#39;Found:&#39;, line.split(&#39;: &#39;)[1])
-except Exception as e:
-    print(e)
-&quot;`
-Ran command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-650.log`
-Listed directory c7085f8c-392e-4c2d-b0a1-c059e7698dcc
-Ran command: `docker run --rm debian:12.9-slim bash -c &quot;apt-get update -qq &amp;amp;&amp;amp; apt-cache madison openjdk-21-jdk&quot;`
-Ran command: `curl -s &quot;https://snapshot.debian.org/mr/package/openjdk-21/&quot; | grep -o &#39;version&quot;:&quot;[^&quot;]*&quot;&#39; | sort -u`
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;结论：&lt;/p&gt;
-&lt;p&gt;Google 在干嘛？
-手指头掰了半个小时，也没算出来 1+1 等于几&lt;/p&gt;
+      <title>现在 iPhone17 哪里买最便宜啊？（20260621）</title>
+      <link>https://www.v2ex.com/t/1221706</link>
+      <guid>v2ex-1221706</guid>
+      <pubDate>Sun, 21 Jun 2026 00:50:02 GMT</pubDate>
+      <description>&lt;p&gt;大家有推荐吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>从没想过扁桃体发炎是这么痛苦</title>
+      <link>https://www.v2ex.com/t/1221709</link>
+      <guid>v2ex-1221709</guid>
+      <pubDate>Sun, 21 Jun 2026 01:03:30 GMT</pubDate>
+      <description>&lt;p&gt;放假前一天起床扁桃体就有轻微不适，没在意，起床后就没感觉了。到了放假第一天晚上，突然就变得特别严重，疼的睡不着，赶紧买了点抗生素和消炎药，到现在发病快 36 小时了，扁桃体肿的连进食都困难，痛苦，第一次经历扁桃体发炎，回想起来应该是近期睡眠、饮食不规律导致的，熬夜的代价太大了。&lt;/p&gt;
 </description>
     </item>
   </channel>
