@@ -4,7 +4,251 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sun, 21 Jun 2026 19:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 21:03:20 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek Harness组负责人表示 目标远大、工作繁重 持续招人中</title>
+      <link>https://linux.do/t/topic/2444935</link>
+      <guid>linux.do-topic-2444935</guid>
+      <pubDate>Sun, 21 Jun 2026 20:26:46 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/f/5/ff590e36f26ff18cbbed33f92d0574cd73ebe082.jpeg&quot; data-download-href=&quot;/uploads/short-url/AqUyrwQk2HOgkcMfvHEWRJNePD4.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/f/5/ff590e36f26ff18cbbed33f92d0574cd73ebe082_2_690x330.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;AqUyrwQk2HOgkcMfvHEWRJNePD4&quot; width=&quot;690&quot; height=&quot;330&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/f/5/ff590e36f26ff18cbbed33f92d0574cd73ebe082_2_690x330.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/f/5/ff590e36f26ff18cbbed33f92d0574cd73ebe082_2_1035x495.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/f/5/ff590e36f26ff18cbbed33f92d0574cd73ebe082_2_1380x660.jpeg 2x&quot; data-dominant-color=&quot;E8EAEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+可能并不打算使用OPENCODE二次开发? 希望能拿出突破性的成果&lt;br&gt;
+看起来deeseek code短期内是不会出来了&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2444935&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Charm Hyper 推出新套餐 $20可用价值$375Token 支持GLM5.2</title>
+      <link>https://linux.do/t/topic/2444931</link>
+      <guid>linux.do-topic-2444931</guid>
+      <pubDate>Sun, 21 Jun 2026 20:23:50 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/d/e/7de5fbdb8ef61d3489f16e383962656360a2eea3.jpeg&quot; data-download-href=&quot;/uploads/short-url/hXKq9EpUVoReUXmVIrfkRqmXc3N.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/d/e/7de5fbdb8ef61d3489f16e383962656360a2eea3_2_690x416.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;hXKq9EpUVoReUXmVIrfkRqmXc3N&quot; width=&quot;690&quot; height=&quot;416&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/d/e/7de5fbdb8ef61d3489f16e383962656360a2eea3_2_690x416.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/d/e/7de5fbdb8ef61d3489f16e383962656360a2eea3_2_1035x624.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/d/e/7de5fbdb8ef61d3489f16e383962656360a2eea3_2_1380x832.jpeg 2x&quot; data-dominant-color=&quot;7B5AE4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;a href=&quot;https://hyper.charm.land/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://hyper.charm.land/&lt;/a&gt;&lt;br&gt;
+支持模型和价格对照表 基本和官方api价格一致&lt;p&gt;&lt;/p&gt;
+&lt;div class=&quot;md-table&quot;&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;Lab&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Model&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Context&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;$/1M In&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;$/1M Out&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;$/1M Cache Read&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;$/1M Cache Write&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;DeepSeek&lt;/td&gt;
+&lt;td&gt;DeepSeek V4 Flash&lt;/td&gt;
+&lt;td&gt;1000K&lt;/td&gt;
+&lt;td&gt;$0.1400&lt;/td&gt;
+&lt;td&gt;$0.2800&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.0028&lt;/td&gt;
+&lt;td&gt;Reasoning, Attachments&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DeepSeek&lt;/td&gt;
+&lt;td&gt;DeepSeek V4 Pro&lt;/td&gt;
+&lt;td&gt;1000K&lt;/td&gt;
+&lt;td&gt;$0.4350&lt;/td&gt;
+&lt;td&gt;$0.8700&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.0036&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Google&lt;/td&gt;
+&lt;td&gt;Gemma 4 26B A4B&lt;/td&gt;
+&lt;td&gt;256K&lt;/td&gt;
+&lt;td&gt;$0.1020&lt;/td&gt;
+&lt;td&gt;$0.3940&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.0510&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z.AI&lt;/td&gt;
+&lt;td&gt;GLM-5&lt;/td&gt;
+&lt;td&gt;202K&lt;/td&gt;
+&lt;td&gt;$0.9500&lt;/td&gt;
+&lt;td&gt;$3.0400&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.4750&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z.AI&lt;/td&gt;
+&lt;td&gt;GLM 5.1&lt;/td&gt;
+&lt;td&gt;202K&lt;/td&gt;
+&lt;td&gt;$1.4000&lt;/td&gt;
+&lt;td&gt;$4.4000&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.2600&lt;/td&gt;
+&lt;td&gt;Reasoning, Attachments&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z.ai&lt;/td&gt;
+&lt;td&gt;GLM-5.2&lt;/td&gt;
+&lt;td&gt;1000K&lt;/td&gt;
+&lt;td&gt;$1.5000&lt;/td&gt;
+&lt;td&gt;$4.5000&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.3000&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OpenAI&lt;/td&gt;
+&lt;td&gt;gpt-oss-120b&lt;/td&gt;
+&lt;td&gt;131K&lt;/td&gt;
+&lt;td&gt;$0.1780&lt;/td&gt;
+&lt;td&gt;$0.6800&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.0890&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Moonshot AI&lt;/td&gt;
+&lt;td&gt;Kimi K2.5&lt;/td&gt;
+&lt;td&gt;262K&lt;/td&gt;
+&lt;td&gt;$0.5370&lt;/td&gt;
+&lt;td&gt;$2.7150&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.2685&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Moonshot AI&lt;/td&gt;
+&lt;td&gt;Kimi K2.6&lt;/td&gt;
+&lt;td&gt;262K&lt;/td&gt;
+&lt;td&gt;$0.9500&lt;/td&gt;
+&lt;td&gt;$4.0000&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.1600&lt;/td&gt;
+&lt;td&gt;Reasoning, Attachments&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Moonshot AI&lt;/td&gt;
+&lt;td&gt;Kimi K2.7 Code&lt;/td&gt;
+&lt;td&gt;256K&lt;/td&gt;
+&lt;td&gt;$0.9500&lt;/td&gt;
+&lt;td&gt;$4.0000&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.1900&lt;/td&gt;
+&lt;td&gt;Reasoning, Attachments&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Meta&lt;/td&gt;
+&lt;td&gt;Llama 3.3 70B Instruct&lt;/td&gt;
+&lt;td&gt;128K&lt;/td&gt;
+&lt;td&gt;$0.6066&lt;/td&gt;
+&lt;td&gt;$1.0386&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.3033&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Meta&lt;/td&gt;
+&lt;td&gt;Llama 4 Maverick 17B 128E Instruct FP8&lt;/td&gt;
+&lt;td&gt;430K&lt;/td&gt;
+&lt;td&gt;$0.2800&lt;/td&gt;
+&lt;td&gt;$0.9000&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.1400&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MiniMax&lt;/td&gt;
+&lt;td&gt;MiniMax M2.7&lt;/td&gt;
+&lt;td&gt;204K&lt;/td&gt;
+&lt;td&gt;$0.3000&lt;/td&gt;
+&lt;td&gt;$1.2000&lt;/td&gt;
+&lt;td&gt;$0.3750&lt;/td&gt;
+&lt;td&gt;$0.0600&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alibaba&lt;/td&gt;
+&lt;td&gt;Qwen3.6-Flash&lt;/td&gt;
+&lt;td&gt;1000K&lt;/td&gt;
+&lt;td&gt;$1.0000&lt;/td&gt;
+&lt;td&gt;$4.0000&lt;/td&gt;
+&lt;td&gt;$0.1000&lt;/td&gt;
+&lt;td&gt;$1.2500&lt;/td&gt;
+&lt;td&gt;Reasoning, Attachments&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alibaba&lt;/td&gt;
+&lt;td&gt;Qwen3.6-Max&lt;/td&gt;
+&lt;td&gt;256K&lt;/td&gt;
+&lt;td&gt;$2.0000&lt;/td&gt;
+&lt;td&gt;$12.0000&lt;/td&gt;
+&lt;td&gt;$0.2000&lt;/td&gt;
+&lt;td&gt;$2.5000&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alibaba&lt;/td&gt;
+&lt;td&gt;Qwen3.6-Plus&lt;/td&gt;
+&lt;td&gt;1000K&lt;/td&gt;
+&lt;td&gt;$2.0000&lt;/td&gt;
+&lt;td&gt;$6.0000&lt;/td&gt;
+&lt;td&gt;$0.2000&lt;/td&gt;
+&lt;td&gt;$2.5000&lt;/td&gt;
+&lt;td&gt;Reasoning, Attachments&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alibaba&lt;/td&gt;
+&lt;td&gt;Qwen3.7-Max&lt;/td&gt;
+&lt;td&gt;1000K&lt;/td&gt;
+&lt;td&gt;$2.5000&lt;/td&gt;
+&lt;td&gt;$7.5000&lt;/td&gt;
+&lt;td&gt;$0.2500&lt;/td&gt;
+&lt;td&gt;$3.1250&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alibaba&lt;/td&gt;
+&lt;td&gt;Qwen3.7-Plus&lt;/td&gt;
+&lt;td&gt;1000K&lt;/td&gt;
+&lt;td&gt;$1.2000&lt;/td&gt;
+&lt;td&gt;$4.8000&lt;/td&gt;
+&lt;td&gt;$0.1200&lt;/td&gt;
+&lt;td&gt;$1.5000&lt;/td&gt;
+&lt;td&gt;Reasoning, Attachments&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alibaba&lt;/td&gt;
+&lt;td&gt;Qwen3 Coder 480B A35B Instruct INT4 Mixed AR&lt;/td&gt;
+&lt;td&gt;106K&lt;/td&gt;
+&lt;td&gt;$0.4450&lt;/td&gt;
+&lt;td&gt;$2.1450&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.2225&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alibaba&lt;/td&gt;
+&lt;td&gt;Qwen3 Next 80B A3B Instruct&lt;/td&gt;
+&lt;td&gt;262K&lt;/td&gt;
+&lt;td&gt;$0.1295&lt;/td&gt;
+&lt;td&gt;$1.2160&lt;/td&gt;
+&lt;td&gt;$0.0000&lt;/td&gt;
+&lt;td&gt;$0.0648&lt;/td&gt;
+&lt;td&gt;Reasoning&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2444931&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>又有人向openai举报team、优惠码、K12</title>
       <link>https://linux.do/t/topic/2444620</link>
@@ -522,7 +766,7 @@
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/9/3/d932f1d955e6f9eec73548a7636a35f491e869d6.jpeg&quot; data-download-href=&quot;/uploads/short-url/uZqL66mfJpjQwSWcQlWx3rJNHZY.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/9/3/d932f1d955e6f9eec73548a7636a35f491e869d6_2_690x220.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;uZqL66mfJpjQwSWcQlWx3rJNHZY&quot; width=&quot;690&quot; height=&quot;220&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/9/3/d932f1d955e6f9eec73548a7636a35f491e869d6_2_690x220.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/9/3/d932f1d955e6f9eec73548a7636a35f491e869d6_2_1035x330.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/9/3/d932f1d955e6f9eec73548a7636a35f491e869d6_2_1380x440.jpeg 2x&quot; data-dominant-color=&quot;F0F0F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/d/f/4dfffcd17123dd1787e7d9cb2057089ef92b0ced.jpeg&quot; data-download-href=&quot;/uploads/short-url/b81doyuH0UgfZSc5IGn6vBWrWcR.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/d/f/4dfffcd17123dd1787e7d9cb2057089ef92b0ced_2_690x230.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;b81doyuH0UgfZSc5IGn6vBWrWcR&quot; width=&quot;690&quot; height=&quot;230&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/d/f/4dfffcd17123dd1787e7d9cb2057089ef92b0ced_2_690x230.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/d/f/4dfffcd17123dd1787e7d9cb2057089ef92b0ced_2_1035x345.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/d/f/4dfffcd17123dd1787e7d9cb2057089ef92b0ced_2_1380x460.jpeg 2x&quot; data-dominant-color=&quot;F1F1F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;a href=&quot;https://www.ithome.com/0/966/464.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;提升流畅度：谷歌安卓 17 给 App 内存占用套上“紧箍咒” - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2442392&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -689,106 +933,6 @@
 &lt;p&gt;&lt;a href=&quot;https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2679497&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2679497&lt;/a&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2441390&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>甲骨文降配，是不是对以前没有开到机器的用户是好消息呢</title>
-      <link>https://linux.do/t/topic/2441110</link>
-      <guid>linux.do-topic-2441110</guid>
-      <pubDate>Sun, 21 Jun 2026 03:02:41 GMT</pubDate>
-      <description>
-            &lt;p&gt;甲骨文降配，是不是对于以前没有开到机器的佬是好消息呢？&lt;br&gt;
-降配后资源空间释放了，&lt;br&gt;
-没开到机器的佬就可以开下试试了，&lt;br&gt;
-有开到的佬反馈下 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/grinning_face_with_smiling_eyes.png?v=15&quot; title=&quot;:grinning_face_with_smiling_eyes:&quot; class=&quot;emoji&quot; alt=&quot;:grinning_face_with_smiling_eyes:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-本人日本地区，从下账号，一直开不出ARM机器。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2441110&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>美国卫生部提议更新睾酮疗法标签，放宽限制</title>
-      <link>https://linux.do/t/topic/2440782</link>
-      <guid>linux.do-topic-2440782</guid>
-      <pubDate>Sun, 21 Jun 2026 01:40:11 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a href=&quot;https://www.reuters.com/business/healthcare-pharmaceuticals/us-health-department-proposes-testosterone-therapy-label-updates-2026-06-18/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.reuters.com/business/healthcare-pharmaceuticals/us-health-department-proposes-testosterone-therapy-label-updates-2026-06-18/&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;6月18日（路透社）——美国卫生部周四表示，在审查了新的临床数据和其他证据后，正在寻求更新睾酮替代疗法的标签。&lt;/p&gt;
-&lt;p&gt;美国卫生与公众服务部表示，拟议的变更将取消对患有与年龄相关的低睾酮男性使用该药物的限制，修改有关前列腺增生的警告，并更新与前列腺癌风险相关的信息。&lt;/p&gt;
-&lt;p&gt;此举可能使医生更容易为更多男性开具这种疗法，也标志着特朗普政府领导下的卫生部为放宽激素治疗限制所做的最新努力。&lt;/p&gt;
-&lt;p&gt;目前睾酮替代疗法的标签警告称，使用该疗法可能会增加患前列腺癌的风险。然而，根据FDA的新修订，该疗法的使用仅限于已患有转移性前列腺癌的男性。&lt;/p&gt;
-&lt;p&gt;目前获得 FDA 批准的睾酮制剂包括口服、外用凝胶、透皮贴剂和注射剂。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://edition.cnn.com/2026/06/20/health/testosterone-therapy-warning-label-changes-wellness&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/1/8/018a5c8ab48b18dee7e8d8d82dd2576bed4fd993.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;D83333&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://edition.cnn.com/2026/06/20/health/testosterone-therapy-warning-label-changes-wellness&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;04:00PM - 20 June 2026&quot;&gt;CNN – 20 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/388;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/c/a/0ca84a6c6e09de91a924a8760c61162629dc1551_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;453E39&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://edition.cnn.com/2026/06/20/health/testosterone-therapy-warning-label-changes-wellness&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;What men should know about the US government’s latest move on testosterone...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The US Department of Health and Human Services is requesting revisions to the labels on testosterone replacement therapies for men after reviewing new data and evidence on their safety and benefits. These updates could pave the way for easier access...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.hhs.gov/press-room/fda-requests-updates-testosterone-therapy-labeling.html&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.hhs.gov/press-room/fda-requests-updates-testosterone-therapy-labeling.html&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;&lt;span lang=&quot;zh&quot;&gt;美国卫生与公众服务部通过美国食品药品监督管理局（FDA）今天宣布，在对新的临床数据和现有科学证据进行全面审查后，将要求更新睾酮替代疗法产品的处方信息。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;拟议的变更将包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;删除关于睾酮替代疗法对患有年龄相关性性腺功能减退症的男性的安全性和有效性尚未确定的限制。&lt;/li&gt;
-&lt;li&gt;更新与前列腺癌风险相关的信息。&lt;/li&gt;
-&lt;li&gt;修改有关良性前列腺增生（也称前列腺肥大）的警告。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;“在男性健康月期间，我们将科学重新置于男性医疗保健的核心地位，”美国卫生与公众服务部部长小罗伯特·F·肯尼迪表示，“通过更新睾酮疗法的标签以反映当前的证据，我们正在为患者和医生提供更清晰的信息，支持他们做出明智的医疗决策，并改善数百万美国男性的医疗保健。”&lt;/p&gt;
-&lt;p&gt;“随着我们对睾酮疗法的理解不断发展，处方信息应该反映出最新的科学成果，”卫生部助理部长布莱恩·J·克里斯汀医学博士表示。“此举有助于确保患者和医疗保健提供者在考虑治疗方案时能够获得准确、最新的信息。&lt;/p&gt;
-&lt;p&gt;2015年，FDA要求睾酮替代疗法产品的标签上必须包含一项使用限制，声明该疗法对患有特发性性腺功能减退症（一种无明确病因的低睾酮水平疾病）相关体征和症状的男性患者，其安全性和有效性尚未得到证实。添加此项限制的原因是，该疗法的益处证据有限，且人们对可能存在的心血管风险表示担忧。&lt;/p&gt;
-&lt;p&gt;此后，又有更多证据出现，其中包括一项名为TRAVERSE的大型临床研究，该研究纳入了超过5200名男性。研究发现，接受睾酮替代疗法的男性发生重大不良心血管事件（包括心脏病发作和中风）的风险并未显著增加。基于对这些研究结果和其他现有证据的审查，FDA得出结论，不再有必要限制睾酮替代疗法的使用。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://nypost.com/2026/06/19/health/trump-admin-seeks-to-roll-back-testosterone-restrictions-what-to-know/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/a/4/6a41171314959566c46595919fff7c999eb4a0af.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;AF6364&quot; width=&quot;192&quot; height=&quot;192&quot;&gt;
-
-      &lt;a href=&quot;https://nypost.com/2026/06/19/health/trump-admin-seeks-to-roll-back-testosterone-restrictions-what-to-know/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;04:23PM - 19 June 2026&quot;&gt;New York Post – 19 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/6/f/f6f77ac9aac6fff1398e8e32b56f1500f39f3f76_2_690x459.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;715647&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://nypost.com/2026/06/19/health/trump-admin-seeks-to-roll-back-testosterone-restrictions-what-to-know/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Trump admin seeks to roll back testosterone restrictions — why docs are...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;The 2015 warnings were added because concerns about heart risks were raised, plus evidence of benefits were “limited” at the time, the HHS said. The department said research has come ou…&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.hhs.gov/press-room/fda-requests-updates-testosterone-therapy-labeling.html&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.hhs.gov/press-room/fda-requests-updates-testosterone-therapy-labeling.html&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2440782&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
