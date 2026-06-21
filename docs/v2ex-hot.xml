@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 21 Jun 2026 17:59:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 19:46:08 GMT</lastBuildDate>
     <item>
       <title>突然发现拼多多居然没有做网贷</title>
       <link>https://www.v2ex.com/t/1221710</link>
@@ -87,19 +87,27 @@ NL6KPNF8NT43RHXFFX &lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>我要给 GLM5.2 道歉</title>
+      <link>https://www.v2ex.com/t/1221760</link>
+      <guid>v2ex-1221760</guid>
+      <pubDate>Sun, 21 Jun 2026 08:27:32 GMT</pubDate>
+      <description>&lt;p&gt;前几天我发了一个帖子，说 GLM5.2 被过誉，实际不太行。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://v2ex.com/t/1221519&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1221519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;后来我注意到评级的是 GLM5.2 max ，我之前在 claude cli 用的是 GLM5.2 high&lt;/p&gt;
+&lt;p&gt;而官方也有描述如下：&lt;/p&gt;
+&lt;p&gt;For coding tasks, we recommend using max effort to enable deeper reasoning and more stable performance on complex tasks.&lt;/p&gt;
+&lt;p&gt;我这两天又深度体验了一下常开 max effort/ultra code 模式，我觉得体感很好，感觉智能和准确不少，基本没有出现什么问题，体感上和我之前用 opus4.8 是没什么差异的。&lt;/p&gt;
+&lt;p&gt;不好的点：下午高峰期开 max ，一下子我的 pro 套餐就 5 小时限制了,国内抢不到，高价买的 &lt;a href=&quot;http://z.ai&quot; rel=&quot;nofollow&quot;&gt;z.ai&lt;/a&gt; 心疼&lt;/p&gt;
+&lt;p&gt;BTW：个人感觉，可能很主观，总的来说，很高兴看到国内有模型能做到这个程度，加油，支持！
+另外：纯粹个人，不是营销，谢谢！&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>现在 iPhone17 哪里买最便宜啊？（20260621）</title>
       <link>https://www.v2ex.com/t/1221706</link>
       <guid>v2ex-1221706</guid>
       <pubDate>Sun, 21 Jun 2026 00:50:02 GMT</pubDate>
       <description>&lt;p&gt;大家有推荐吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>从没想过扁桃体发炎是这么痛苦</title>
-      <link>https://www.v2ex.com/t/1221709</link>
-      <guid>v2ex-1221709</guid>
-      <pubDate>Sun, 21 Jun 2026 01:03:30 GMT</pubDate>
-      <description>&lt;p&gt;放假前一天起床扁桃体就有轻微不适，没在意，起床后就没感觉了。到了放假第一天晚上，突然就变得特别严重，疼的睡不着，赶紧买了点抗生素和消炎药，到现在发病快 36 小时了，扁桃体肿的连进食都困难，痛苦，第一次经历扁桃体发炎，回想起来应该是近期睡眠、饮食不规律导致的，熬夜的代价太大了。&lt;/p&gt;
 </description>
     </item>
   </channel>
