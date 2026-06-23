@@ -4,7 +4,151 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Tue, 23 Jun 2026 14:25:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:46:05 GMT</lastBuildDate>
+    <item>
+      <title>ffmpeg 曝发现严重漏洞，播放或存储恶意视频或导致被攻击</title>
+      <link>https://linux.do/t/topic/2461469</link>
+      <guid>linux.do-topic-2461469</guid>
+      <pubDate>Tue, 23 Jun 2026 15:22:19 GMT</pubDate>
+      <description>
+            &lt;blockquote&gt;
+&lt;p&gt;FFmpeg 被曝高危漏洞 CVE-2026-8461（PixelSmash）。攻击者通过构造恶意视频文件，即可触发远程代码执行并完全控制系统。用户在 VLC、Jellyfin、Kodi 等播放器中打开文件，甚至仅因系统生成缩略图或媒体库自动扫描，都可能中招，且攻击过程几乎无痕迹。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;CVE详情（&lt;strong&gt;CVSS评分：8.8 high&lt;/strong&gt;）：&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://nvd.nist.gov/vuln/detail/CVE-2026-8461&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/6/2/e62c05682141dbbbe6e7c656d764353ebadb13ab.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;2D2D2D&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://nvd.nist.gov/vuln/detail/CVE-2026-8461&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;nvd.nist.gov&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://nvd.nist.gov/vuln/detail/CVE-2026-8461&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;NVD - CVE-2026-8461&lt;/a&gt;&lt;/h3&gt;
+
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;漏洞情况说明：&lt;br&gt;
+&lt;a href=&quot;https://cybernews.com/security/critical-ffmpeg-vulnerability-enables-complete-compromise/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://cybernews.com/security/critical-ffmpeg-vulnerability-enables-complete-compromise/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据分析该漏洞位于MagicYUV解码器，除了vlc等常见播放器，Nextcloud、OBS 等多款应用也受波及。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;目前ffmpeg官方已经发布了8.1.2版本紧急修复漏洞，用到的佬友们可以更新下&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.ffmpeg.org/download.html#releases&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/6/a/56a88e6a60daa0135bf535487128c999e8d82e18.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;4CAE4C&quot; width=&quot;64&quot; height=&quot;64&quot;&gt;
+
+      &lt;a href=&quot;https://www.ffmpeg.org/download.html#releases&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;ffmpeg.org&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://www.ffmpeg.org/download.html#releases&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Releases - Download FFmpeg&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;FFmpeg only provides source code. Below are some links that provide it already compiled and ready to go.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/2/5/e25f8536dfc29d5a1484c8026f3b46a36e4a1ba2.png&quot; data-download-href=&quot;/uploads/short-url/wiAyHKdw3CPCOHGGFjzKqnOxMOe.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/2/5/e25f8536dfc29d5a1484c8026f3b46a36e4a1ba2.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wiAyHKdw3CPCOHGGFjzKqnOxMOe&quot; width=&quot;690&quot; height=&quot;212&quot; data-dominant-color=&quot;6F6F6F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;话说VLC、Jellyfin、Kodi 这些用到ffmpeg的播放器目前只能等待官方更新吗？&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;31 个帖子 - 17 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461469&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>报！阿里今晚十点的新消息并不是新模型，而是</title>
+      <link>https://linux.do/t/topic/2461454</link>
+      <guid>linux.do-topic-2461454</guid>
+      <pubDate>Tue, 23 Jun 2026 15:17:52 GMT</pubDate>
+      <description>
+            &lt;p&gt;如图，是qoder全系产品夜间折扣，qwen3.7max 二折，qwen3.7plus 四折，今晚就生效，但是需要你有订阅（pro及以上）&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/f/7/3f7a9354c0ea1ea5b3285ed9be006ccfc4dc0bb0.jpeg&quot; data-download-href=&quot;/uploads/short-url/93yHf2C9KopotGnw2zsBpHLmAHm.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/f/7/3f7a9354c0ea1ea5b3285ed9be006ccfc4dc0bb0_2_610x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;93yHf2C9KopotGnw2zsBpHLmAHm&quot; width=&quot;610&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/f/7/3f7a9354c0ea1ea5b3285ed9be006ccfc4dc0bb0_2_610x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/f/7/3f7a9354c0ea1ea5b3285ed9be006ccfc4dc0bb0_2_915x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/f/7/3f7a9354c0ea1ea5b3285ed9be006ccfc4dc0bb0_2_1220x1000.jpeg 2x&quot; data-dominant-color=&quot;AAAEA9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+官方原话：“Qoder 全系产品夜间折扣上线，夜里 Qoder 替你猛蹬” &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/rofl.png?v=15&quot; title=&quot;:rofl:&quot; class=&quot;emoji&quot; alt=&quot;:rofl:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
+地址 &lt;a href=&quot;https://mp.weixin.qq.com/s/eSi-XbY1dFRoQ-vnvwR8nA&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://mp.weixin.qq.com/s/eSi-XbY1dFRoQ-vnvwR8nA&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;19 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461454&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>豆包新版变化真蛮多的，继续更新:现在豆包喜欢在画图完成后介绍每一张图的特点|分享图片到豆包更难了</title>
+      <link>https://linux.do/t/topic/2461423</link>
+      <guid>linux.do-topic-2461423</guid>
+      <pubDate>Tue, 23 Jun 2026 15:10:54 GMT</pubDate>
+      <description>
+            &lt;p&gt;在大会之前其实就已经有了这种迹象，应该是提前上线了&lt;br&gt;
+过去他确实每一张图的提示词的设计都会略有区别，这一次的话区别倒是挺大的，不过视觉效果都差不多&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/3/4/634cc509390cc3ec4f7c027e619b58844403dd17.jpeg&quot; data-download-href=&quot;/uploads/short-url/earKmGL8DYojBK7eTTPNwx9UsD5.jpeg?dl=1&quot; title=&quot;Screenshot_20260623_230532&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/4/634cc509390cc3ec4f7c027e619b58844403dd17_2_311x500.jpeg&quot; alt=&quot;Screenshot_20260623_230532&quot; data-base62-sha1=&quot;earKmGL8DYojBK7eTTPNwx9UsD5&quot; width=&quot;311&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/4/634cc509390cc3ec4f7c027e619b58844403dd17_2_311x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/3/4/634cc509390cc3ec4f7c027e619b58844403dd17_2_466x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/3/4/634cc509390cc3ec4f7c027e619b58844403dd17_2_622x1000.jpeg 2x&quot; data-dominant-color=&quot;393D33&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;以前点击分享按钮 直接就进入发布界面了现在会进入更多元的分享页面，需要再多一步才能发布到豆包让别人看到&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/f/f/dff577e418831f8414ffcfcb5c1b6ceed4a523e0.jpeg&quot; data-download-href=&quot;/uploads/short-url/vXeo8JBlrnopDq8aWVMCtXAW8XC.jpeg?dl=1&quot; title=&quot;Screenshot_20260623_230546&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/f/f/dff577e418831f8414ffcfcb5c1b6ceed4a523e0_2_225x500.jpeg&quot; alt=&quot;Screenshot_20260623_230546&quot; data-base62-sha1=&quot;vXeo8JBlrnopDq8aWVMCtXAW8XC&quot; width=&quot;225&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/f/f/dff577e418831f8414ffcfcb5c1b6ceed4a523e0_2_225x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/f/f/dff577e418831f8414ffcfcb5c1b6ceed4a523e0_2_337x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/f/f/dff577e418831f8414ffcfcb5c1b6ceed4a523e0_2_450x1000.jpeg 2x&quot; data-dominant-color=&quot;2C312A&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461423&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>随着联邦政府取消对屋顶太阳能的补贴，有公司推出三年起的租赁方案</title>
+      <link>https://linux.do/t/topic/2461264</link>
+      <guid>linux.do-topic-2461264</guid>
+      <pubDate>Tue, 23 Jun 2026 14:36:09 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/climate-environment/2026/06/23/leasing-rooftop-solar-panels-your-home-can-be-better-than-buying-them/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.washingtonpost.com/climate-environment/2026/06/23/leasing-rooftop-solar-panels-your-home-can-be-better-than-buying-them/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;br&gt;
+过去十年里，购买屋顶太阳能电池板（而非租赁）通常更划算。但随着针对房主的太阳能税收抵免政策即将结束，这一局面可能会发生逆转。&lt;/p&gt;
+&lt;p&gt;新的订阅服务正让太阳能的使用变得像订阅手机套餐或流媒体服务一样简单：按月付费即可享受服务，不再需要时随时取消。如果你对服务不满意，公司会免费拆除电池板。&lt;/p&gt;
+&lt;p&gt;长期以来，太阳能行业一直用“订阅”一词来描述一种截然不同的模式：即长期的（通常为25年）租赁合同或购电协议（PPA），这类合同往往只有在支付费用或违约金的情况下才能取消。&lt;/p&gt;
+&lt;p&gt;然而，一家名为 Terra Energy 的新兴公司推出了一种新模式，正在佛罗里达州、得克萨斯州乃至即将涉足的加利福尼亚州引发变革。客户订阅三年后，即可选择取消服务并免费拆除屋顶上的电池板；若选择保留，则能锁定一个相对于当地公用事业公司电价而言更低且可预测的费率——这一点与其他租赁模式类似。&lt;/p&gt;
+&lt;p&gt;初闻这一方案时，我既感兴趣又心存疑虑。&lt;/p&gt;
+&lt;p&gt;太阳能行业中不乏破产倒闭的企业。据太阳能与家庭电气化市场平台 EnergySage 的 Sam Thompson 介绍，美国约有 50% 的住宅太阳能系统属于“孤儿系统”，即由已倒闭公司安装的系统。尽管大多数太阳能系统都能兑现对房主的承诺，但不良销售行为和企业破产问题一直困扰着该市场。&lt;/p&gt;
+&lt;p&gt;不过，当我咨询行业分析师及 Terra Energy 的部分客户时，他们告诉我，这种订阅模式或许正是未来的发展方向。&lt;/p&gt;
+&lt;p&gt;以下内容将解释为何联邦税收抵免政策的取消使得租赁模式在新建住宅太阳能销售中占据主导地位，以及为何“订阅太阳能”如今可能比直接拥有屋顶电池板更具优势。&lt;/p&gt;
+&lt;p&gt;65 岁的鲍勃·希勒（Bob Scheeler）多年来一直有意安装太阳能设备。作为佛罗里达州开普科勒尔（Cape Coral）的一名退休房地产经纪人，他曾目睹许多房主因租赁太阳能电池板而在购买保险、申请融资或转售房产时遇到麻烦。&lt;/p&gt;
+&lt;p&gt;后来，他偶然发现了 Terra Energy 公司的订阅服务并决定签约。今年早些时候，该公司在他的屋顶上安装了约两打太阳能电池板，并提供了后续增装的选项。此后，他原本平均 250 美元的公用事业账单下降了约 40%：他现在每月向 Terra 支付 120 美元，向公用事业公司支付 30 美元。&lt;/p&gt;
+&lt;p&gt;希勒表示，这种订阅模式提供了最具吸引力的方案。“结果证明，这是成本最低、也是最明智的选择，”他说，“我觉得这太棒了。”尽管三年期满后 Terra 会提供免费拆除服务，但他目前并不打算拆除这些电池板。&lt;/p&gt;
+&lt;p&gt;太阳能服务方案通常有三种形式：租赁、购电协议（PPA）或直接拥有。&lt;/p&gt;
+&lt;p&gt;租赁模式下，用户每月支付固定费用（通常为期25年）即可在屋顶安装太阳能电池板，但太阳能系统的所有权归租赁公司所有（部分方案允许用户在特定期限后买下系统）。&lt;/p&gt;
+&lt;p&gt;购电协议（PPA）与租赁类似，但房主只需为屋顶电池板所发的电量付费，且电价通常低于公用事业公司的收费标准。&lt;/p&gt;
+&lt;p&gt;最后，房主也可以通过贷款或全款方式购买属于自己的太阳能系统。从长远来看，自费购买通常能带来最佳的投资回报：据 EnergySage 估算，一套家用太阳能系统的平均全款购买价格为 30,500 美元（未计入任何补贴），而在 25 年的使用期内平均可节省 61,093 美元，投资回收期约为 10 年。&lt;/p&gt;
+&lt;p&gt;然而，去年通过的一项法案取消了针对房主的 30% 税收抵免政策，这实际上使一套普通家用太阳能系统的成本增加了 8,000 美元。&lt;/p&gt;
+&lt;p&gt;尽管房主失去了这项优惠，但企业仍可享受太阳能投资税收抵免政策（有效期至 2027 年），这使得租赁和购电协议（PPA）更具吸引力。这种变化打破了过去二十年来“拥有而非租赁”的主流建议，因为只有像 Terra 这样的企业才能将税收抵免的红利传导给房主。&lt;/p&gt;
+&lt;p&gt;能源研究机构 Wood Mackenzie 的数据显示，第三方拥有模式目前已占据新增住宅太阳能销售的大部分份额，而去年这一比例还处于少数地位。&lt;/p&gt;
+&lt;p&gt;EnergySage 的 Thompson 表示：“我们过去一直认为，直接拥有系统是最佳选择。但并非每个人都能一次性拿出 30,000 美元或获得贷款。新型租赁模式为人们提供了实现这一目标的途径。”&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461264&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>2026.6.23两大ai巨头炸</title>
+      <link>https://linux.do/t/topic/2461256</link>
+      <guid>linux.do-topic-2461256</guid>
+      <pubDate>Tue, 23 Jun 2026 14:35:13 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/d/8/3d8ae6315bdb3a524dbf37643d5fa56895655181.jpeg&quot; data-download-href=&quot;/uploads/short-url/8MqInGVFZQVue2vZ6Y5tsCuFvMd.jpeg?dl=1&quot; title=&quot;Image_1782225046323_157&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/d/8/3d8ae6315bdb3a524dbf37643d5fa56895655181_2_690x391.jpeg&quot; alt=&quot;Image_1782225046323_157&quot; data-base62-sha1=&quot;8MqInGVFZQVue2vZ6Y5tsCuFvMd&quot; width=&quot;690&quot; height=&quot;391&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/d/8/3d8ae6315bdb3a524dbf37643d5fa56895655181_2_690x391.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/d/8/3d8ae6315bdb3a524dbf37643d5fa56895655181_2_1035x586.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/3/d/8/3d8ae6315bdb3a524dbf37643d5fa56895655181.jpeg 2x&quot; data-dominant-color=&quot;F0E4DE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/1/b/f1b92147c4e7404087d03a40774111110c9abf16.png&quot; data-download-href=&quot;/uploads/short-url/yunHZC22BkbFEYyfgOTt590LBum.png?dl=1&quot; title=&quot;Image_1782225045191_418&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/1/b/f1b92147c4e7404087d03a40774111110c9abf16_2_690x351.png&quot; alt=&quot;Image_1782225045191_418&quot; data-base62-sha1=&quot;yunHZC22BkbFEYyfgOTt590LBum&quot; width=&quot;690&quot; height=&quot;351&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/1/b/f1b92147c4e7404087d03a40774111110c9abf16_2_690x351.png, https://cdn3.ldstatic.com/optimized/4X/f/1/b/f1b92147c4e7404087d03a40774111110c9abf16_2_1035x526.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/1/b/f1b92147c4e7404087d03a40774111110c9abf16_2_1380x702.png 2x&quot; data-dominant-color=&quot;F9FAF9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+oai和claude好嗑啊&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8.png&quot; data-download-href=&quot;/uploads/short-url/cLrMbt4qyZhMwopCVkcKeow2KPS.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_690x31.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cLrMbt4qyZhMwopCVkcKeow2KPS&quot; width=&quot;690&quot; height=&quot;31&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_690x31.png, https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_1035x46.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_1380x62.png 2x&quot; data-dominant-color=&quot;123331&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/9/c/89cf3d89f9052273733b472a9a6b82e3c602689b.jpeg&quot; data-download-href=&quot;/uploads/short-url/jF7qhAQP4uscODXEAEXEcCiGYzx.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-23-22-37-33-123_com.lemurbrowser.exts&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/c/89cf3d89f9052273733b472a9a6b82e3c602689b_2_225x500.jpeg&quot; alt=&quot;Screenshot_2026-06-23-22-37-33-123_com.lemurbrowser.exts&quot; data-base62-sha1=&quot;jF7qhAQP4uscODXEAEXEcCiGYzx&quot; width=&quot;225&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/9/c/89cf3d89f9052273733b472a9a6b82e3c602689b_2_225x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/9/c/89cf3d89f9052273733b472a9a6b82e3c602689b_2_337x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/9/c/89cf3d89f9052273733b472a9a6b82e3c602689b_2_450x1000.jpeg 2x&quot; data-dominant-color=&quot;E6E5E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+openrouter紧随其后&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;40 个帖子 - 39 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461256&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>6.23 Claude崩了</title>
       <link>https://linux.do/t/topic/2461177</link>
@@ -14,7 +158,7 @@
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/0/e/00eddfac2546b215b40f36bfc8aa70f6521f71ca.png&quot; data-download-href=&quot;/uploads/short-url/8dDOdnGCCNTTmpcNCq6QvC3ZXA.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/0/e/00eddfac2546b215b40f36bfc8aa70f6521f71ca_2_690x362.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8dDOdnGCCNTTmpcNCq6QvC3ZXA&quot; width=&quot;690&quot; height=&quot;362&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/0/e/00eddfac2546b215b40f36bfc8aa70f6521f71ca_2_690x362.png, https://cdn3.ldstatic.com/optimized/4X/0/0/e/00eddfac2546b215b40f36bfc8aa70f6521f71ca_2_1035x543.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/0/e/00eddfac2546b215b40f36bfc8aa70f6521f71ca_2_1380x724.png 2x&quot; data-dominant-color=&quot;F3E9E3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 如图，claude出现500错误&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8.png&quot; data-download-href=&quot;/uploads/short-url/cLrMbt4qyZhMwopCVkcKeow2KPS.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_690x31.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cLrMbt4qyZhMwopCVkcKeow2KPS&quot; width=&quot;690&quot; height=&quot;31&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_690x31.png, https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_1035x46.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_1380x62.png 2x&quot; data-dominant-color=&quot;123331&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;27 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461177&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -26,7 +170,7 @@
       <description>
             &lt;p&gt;目前排行榜已看不到该模型，&lt;strong&gt;原因未知&lt;/strong&gt;。此前该模型因为有刷分嫌疑需要手动勾选“Show High Unseen Question Bias Models”才能看到，而当前完全不可见&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/a/7/5a7442c4ca67f1d713fd2d66e65c893f8cede8b7.png&quot; data-download-href=&quot;/uploads/short-url/cUc3IAUz5FuthMmZnY8zhghneib.png?dl=1&quot; title=&quot;QQ_1782224034033&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/7/5a7442c4ca67f1d713fd2d66e65c893f8cede8b7_2_690x389.png&quot; alt=&quot;QQ_1782224034033&quot; data-base62-sha1=&quot;cUc3IAUz5FuthMmZnY8zhghneib&quot; width=&quot;690&quot; height=&quot;389&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/7/5a7442c4ca67f1d713fd2d66e65c893f8cede8b7_2_690x389.png, https://cdn3.ldstatic.com/optimized/4X/5/a/7/5a7442c4ca67f1d713fd2d66e65c893f8cede8b7_2_1035x583.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/a/7/5a7442c4ca67f1d713fd2d66e65c893f8cede8b7_2_1380x778.png 2x&quot; data-dominant-color=&quot;F4F5F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;46 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461151&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -39,7 +183,7 @@
             &lt;p&gt;唯一改考将降低难度的学校，是否能超越北大软微成为11408最高的山？&lt;br&gt;
 佬友们有打算抄底吗 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/heart_eyes.png?v=15&quot; title=&quot;:heart_eyes:&quot; class=&quot;emoji&quot; alt=&quot;:heart_eyes:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/d/8/4d8b917590780984d5e3f9663a21691c866c74c0.jpeg&quot; data-download-href=&quot;/uploads/short-url/b3ZMTOHpRqEqMm67mZcnfx3fjzy.jpeg?dl=1&quot; title=&quot;692b146a034b185936dfbd1dfb6ddb81&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/d/8/4d8b917590780984d5e3f9663a21691c866c74c0_2_690x347.jpeg&quot; alt=&quot;692b146a034b185936dfbd1dfb6ddb81&quot; data-base62-sha1=&quot;b3ZMTOHpRqEqMm67mZcnfx3fjzy&quot; width=&quot;690&quot; height=&quot;347&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/d/8/4d8b917590780984d5e3f9663a21691c866c74c0_2_690x347.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/d/8/4d8b917590780984d5e3f9663a21691c866c74c0_2_1035x520.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/d/8/4d8b917590780984d5e3f9663a21691c866c74c0_2_1380x694.jpeg 2x&quot; data-dominant-color=&quot;F3F3F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;17 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;29 个帖子 - 18 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461054&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -67,7 +211,7 @@
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/b/3/9b345baf19d86fc830c23828eb91f90c07ef8efb.jpeg&quot; data-download-href=&quot;/uploads/short-url/m90bs3zIDiDPFdt3L4GP87APT7B.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/b/3/9b345baf19d86fc830c23828eb91f90c07ef8efb_2_690x394.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;m90bs3zIDiDPFdt3L4GP87APT7B&quot; width=&quot;690&quot; height=&quot;394&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/b/3/9b345baf19d86fc830c23828eb91f90c07ef8efb_2_690x394.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/b/3/9b345baf19d86fc830c23828eb91f90c07ef8efb_2_1035x591.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/b/3/9b345baf19d86fc830c23828eb91f90c07ef8efb_2_1380x788.jpeg 2x&quot; data-dominant-color=&quot;EDEDED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/f/e/6fe856d3f4ad85a6ac1f30972b47d7bc2c60f19e.jpeg&quot; data-download-href=&quot;/uploads/short-url/fXYMA9GtkfrbhgrYTNl0CcPbuOO.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/f/e/6fe856d3f4ad85a6ac1f30972b47d7bc2c60f19e_2_690x166.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fXYMA9GtkfrbhgrYTNl0CcPbuOO&quot; width=&quot;690&quot; height=&quot;166&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/f/e/6fe856d3f4ad85a6ac1f30972b47d7bc2c60f19e_2_690x166.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/f/e/6fe856d3f4ad85a6ac1f30972b47d7bc2c60f19e_2_1035x249.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/f/e/6fe856d3f4ad85a6ac1f30972b47d7bc2c60f19e_2_1380x332.jpeg 2x&quot; data-dominant-color=&quot;F5F5F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;a href=&quot;https://www.ithome.com/0/967/524.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;腾讯 QQ 邮箱 Agently Mail 开启内测，让 AI 用自己的身份收发邮件 - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461022&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -118,19 +262,6 @@
 &lt;/blockquote&gt;
             &lt;p&gt;&lt;small&gt;6 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2460622&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>软件开屏广告摇一摇没了</title>
-      <link>https://linux.do/t/topic/2460550</link>
-      <guid>linux.do-topic-2460550</guid>
-      <pubDate>Tue, 23 Jun 2026 12:29:51 GMT</pubDate>
-      <description>
-            &lt;p&gt;国产的软件目前&lt;strong&gt;大部分&lt;/strong&gt;已经去掉了摇一摇的开屏广告&lt;br&gt;
-已经测试过了确实没有了,但是一些小部分的还没跟进&lt;br&gt;
-看来前一阵子的工信部的整治确实奏效了,佬友们可以去试一试了,没成功的更新一下软件试试&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;37 个帖子 - 33 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2460550&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
@@ -596,164 +727,6 @@ I am intentionally not pasting raw `feedback_log_body` contents because they may
 &lt;p&gt;据说 CLI 用户已更新修复，桌面端还没发布升级包。&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;11 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2456467&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>癌症病例激增，50岁以下人群衰老速度“比前几代人更快”</title>
-      <link>https://linux.do/t/topic/2456461</link>
-      <guid>linux.do-topic-2456461</guid>
-      <pubDate>Tue, 23 Jun 2026 05:38:23 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;a href=&quot;https://www.thetimes.com/uk/healthcare/article/under-50s-age-faster-previous-generations-cancer-surge-c67z9rm9k&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.thetimes.com/uk/healthcare/article/under-50s-age-faster-previous-generations-cancer-surge-c67z9rm9k&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41591-026-04448-w&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/s41591-026-04448-w&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;近年来，全球范围内早发性癌症的发病率呈上升趋势，这凸显了阐明新兴世代风险因素影响的必要性。系统性和器官特异性衰老反映了多种因素累积的影响，并可能为理解早发性癌症风险提供一种综合且互补的方法。本研究利用英国生物银行的154,169名年轻人的数据，发现通过PhenoAge测量的系统性衰老程度随出生队列的增加而增加，1965-1974年出生人群的系统性衰老程度较1950-1954年出生人群增加了23%（标准差），并且与早发性实体瘤风险相关（每增加一个标准差，风险比（HR）为1.08；95%置信区间（CI）为1.03-1.13），主要表现为肺癌、胃肠道癌和子宫癌的风险增加，且该关联独立于衰老和癌症的遗传风险。使用其他系统性衰老指标，包括Klemera-Doubal方法定义的年龄差距和基于代谢组学的年龄差距，均得出一致的结果。这些发现已在美国“我们所有人”研究计划的10262名参与者中得到部分验证。基于蛋白质组学的器官特异性衰老分析表明，免疫衰老与早发性肺癌相关（每增加一个标准差，风险比为1.89；95%置信区间为1.20-2.97），脂肪组织衰老与早发性结直肠癌相关（风险比为1.60；95%置信区间为1.11-2.32）。更大的年龄差距反映了相对于实际年龄更早的生物学衰老，这可能是导致早发性实体瘤风险的驱动因素，凸显了揭示潜在机制以指导有效预防策略的重要性。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://neurosciencenews.com/accelerated-aging-early-onset-cancer-30936/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/d/e/deec764f26479399ccf917221594348bf0adfee8.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;8B8BAE&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://neurosciencenews.com/accelerated-aging-early-onset-cancer-30936/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;10:26PM - 22 June 2026&quot;&gt;Neuroscience News – 22 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/8/1/981b78cca73e44472251d62be58a00ccadc07121_2_690x459.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;955F31&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://neurosciencenews.com/accelerated-aging-early-onset-cancer-30936/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Accelerated Biological Aging Drives Early-Onset Cancer Risk - Neuroscience News&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;A new study connects accelerated biological aging in younger generations to rising early-onset cancer risks.&lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 11 minutes&lt;/span&gt;
-  &lt;/p&gt;
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.msn.com/en-us/health/other/interactions-between-longevity-pathways-and-cancer/ss-AA266n2C&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://www.msn.com/en-us/health/other/interactions-between-longevity-pathways-and-cancer/ss-AA266n2C&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;msn.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.msn.com/en-us/health/other/interactions-between-longevity-pathways-and-cancer/ss-AA266n2C&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;MSN&lt;/a&gt;&lt;/h3&gt;
-
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2456461&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>[前沿慢讯]Doubao-Seed-2.1官方跑分，对标gpt-5.5，如原子弹爆炸</title>
-      <link>https://linux.do/t/topic/2456448</link>
-      <guid>linux.do-topic-2456448</guid>
-      <pubDate>Tue, 23 Jun 2026 05:36:29 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/8/c/a8cebf6db9421025f38708fc6f259b014e527560.jpeg&quot; data-download-href=&quot;/uploads/short-url/o5laxO8pTjKEofoAF4E53PdWrcI.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/8/c/a8cebf6db9421025f38708fc6f259b014e527560_2_690x388.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;o5laxO8pTjKEofoAF4E53PdWrcI&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/8/c/a8cebf6db9421025f38708fc6f259b014e527560_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/8/c/a8cebf6db9421025f38708fc6f259b014e527560_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/8/c/a8cebf6db9421025f38708fc6f259b014e527560_2_1380x776.jpeg 2x&quot; data-dominant-color=&quot;EEF4FA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/f/1/8f1f5c7561d3ffc48e2cf8ec779b116b0be4c898.jpeg&quot; data-download-href=&quot;/uploads/short-url/kq7t5QrEIFIfhsAT5gtDBufJek0.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/f/1/8f1f5c7561d3ffc48e2cf8ec779b116b0be4c898_2_690x388.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;kq7t5QrEIFIfhsAT5gtDBufJek0&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/f/1/8f1f5c7561d3ffc48e2cf8ec779b116b0be4c898_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/f/1/8f1f5c7561d3ffc48e2cf8ec779b116b0be4c898_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/f/1/8f1f5c7561d3ffc48e2cf8ec779b116b0be4c898_2_1380x776.jpeg 2x&quot; data-dominant-color=&quot;EEF4FB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;官方文档：&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://signin.volcengine.com/auth/login?redirectURI=https%3A%2F%2Fconsole.volcengine.com%2Fark%2Fregion%3Aark%2Bcn-beijing%2Fmodel%2Fdetail%3FId%3Ddoubao-seed-2-1-pro&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/e/e/feed2758d7b2301f46c4e96bbbb56c1eeafbd329.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;22A0F4&quot; width=&quot;192&quot; height=&quot;192&quot;&gt;
-
-      &lt;a href=&quot;https://signin.volcengine.com/auth/login?redirectURI=https%3A%2F%2Fconsole.volcengine.com%2Fark%2Fregion%3Aark%2Bcn-beijing%2Fmodel%2Fdetail%3FId%3Ddoubao-seed-2-1-pro&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;signin.volcengine.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://signin.volcengine.com/auth/login?redirectURI=https%3A%2F%2Fconsole.volcengine.com%2Fark%2Fregion%3Aark%2Bcn-beijing%2Fmodel%2Fdetail%3FId%3Ddoubao-seed-2-1-pro&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;账号登录-火山引擎&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;欢迎登录火山引擎，火山引擎是字节跳动旗下的云服务平台。&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;27 个帖子 - 27 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2456448&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>在内部泄露事件发生后，Meta暂停了一项追踪员工击键的AI训练程序</title>
-      <link>https://linux.do/t/topic/2456427</link>
-      <guid>linux.do-topic-2456427</guid>
-      <pubDate>Tue, 23 Jun 2026 05:32:43 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/9/c/59c8b16514890ef5cc81423e5f90d8313e38b43c.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;3E5DFF&quot; width=&quot;192&quot; height=&quot;192&quot;&gt;
-
-      &lt;a href=&quot;https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Business Insider&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/344;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/0/2/b0222d957b25d40d18b6a2a6b16928d7a6fd0a43_2_690x345.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;7B6B65&quot; width=&quot;690&quot; height=&quot;345&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Meta pauses an AI training program that tracks employees&#39; keystrokes after an...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Meta pauses an AI training program after sensitive employee data leaks, sparking internal backlash and highlighting security concerns.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;据 Business Insider 获取的截图显示，由于敏感数据在整个公司范围内遭到泄露，Meta 已暂停其内部人工智能训练计划。&lt;/p&gt;
-&lt;p&gt;截图显示，此次泄露事件曝光了员工的私人对话、绩效数据和文字记录。该事件被评为严重程度2级（SEV 2），严重程度等级为0至5级，0级为最严重。&lt;/p&gt;
-&lt;p&gt;Meta公司的一位发言人证实了这起事件，并表示公司正在进行调查。&lt;/p&gt;
-&lt;p&gt;发言人表示：“我们精心设计了这个程序，加入了隐私保护措施。虽然目前没有任何迹象表明 Meta 员工不当访问了任何数据，但我们正在调查期间暂停该程序。”&lt;/p&gt;
-&lt;p&gt;今年四月，Meta公司宣布推出名为“模型能力计划”（Model Capability Initiative ，简称MCI）的人工智能训练项目，旨在利用员工的键盘输入和鼠标移动数据作为训练数据，从而改进公司的人工智能模型。据《商业内幕》此前报道，该项目对大多数员工强制执行，但却引发了部分员工的强烈反对，他们对自己的数据被记录感到不适。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/legal/litigation/meta-pause-internal-mouse-tracking-tech-while-examining-data-security-issues-2026-06-22/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.reuters.com/legal/litigation/meta-pause-internal-mouse-tracking-tech-while-examining-data-security-issues-2026-06-22/&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2456427&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>豆包大模型日均 tokens 调用量达 180 万亿，字节跳动 CEO 梁汝波称聚焦提升大模型能力</title>
-      <link>https://linux.do/t/topic/2456309</link>
-      <guid>linux.do-topic-2456309</guid>
-      <pubDate>Tue, 23 Jun 2026 05:07:37 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/2/6/726178ed24ade76aab8ded5f4773066016bd0b7f.jpeg&quot; data-download-href=&quot;/uploads/short-url/gjRgruMAadMBomaAXeiWxisJjfV.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/2/6/726178ed24ade76aab8ded5f4773066016bd0b7f_2_690x388.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gjRgruMAadMBomaAXeiWxisJjfV&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/2/6/726178ed24ade76aab8ded5f4773066016bd0b7f_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/2/6/726178ed24ade76aab8ded5f4773066016bd0b7f_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/2/6/726178ed24ade76aab8ded5f4773066016bd0b7f_2_1380x776.jpeg 2x&quot; data-dominant-color=&quot;ECECEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;a href=&quot;https://www.ithome.com/0/967/330.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;豆包大模型日均 tokens 调用量达 180 万亿，字节跳动 CEO 梁汝波称聚焦提升大模型能力 - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2456309&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>

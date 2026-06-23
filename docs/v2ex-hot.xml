@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 23 Jun 2026 14:25:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:46:04 GMT</lastBuildDate>
     <item>
       <title>长期来看，中国未来的经济是什么样的？</title>
       <link>https://www.v2ex.com/t/1222149</link>
@@ -147,18 +147,6 @@ cp ai-berkshire/skills/*.md ~/.claude/commands/
 </description>
     </item>
     <item>
-      <title>财富自由后在哪里定居比较好</title>
-      <link>https://www.v2ex.com/t/1222107</link>
-      <guid>v2ex-1222107</guid>
-      <pubDate>Mon, 22 Jun 2026 15:23:45 GMT</pubDate>
-      <description>&lt;p&gt;有和我朋友一样没有小孩，资产在千万左右的么，你们选择在哪里定居？&lt;/p&gt;
-&lt;p&gt;这个级别的财产还够不上北上广深，甚至杭州都够不上，但大部分城市应该都够用了。&lt;/p&gt;
-&lt;p&gt;财富自由 = 不需要考虑工作；没有小孩 = 不需要考虑教育；&lt;/p&gt;
-&lt;p&gt;有情况类似的么，你们选择了定居哪里？还是继续在一线拼搏&lt;/p&gt;
-&lt;p&gt;PS：年龄 35 岁&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>你有多久没有进电影院看电影了？</title>
       <link>https://www.v2ex.com/t/1222196</link>
       <guid>v2ex-1222196</guid>
@@ -188,6 +176,13 @@ cp ai-berkshire/skills/*.md ~/.claude/commands/
       <pubDate>Tue, 23 Jun 2026 00:47:28 GMT</pubDate>
       <description>&lt;p&gt;5%难吗？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>谷歌支持修改邮箱前缀</title>
+      <link>https://www.v2ex.com/t/1222135</link>
+      <guid>v2ex-1222135</guid>
+      <pubDate>Tue, 23 Jun 2026 00:47:08 GMT</pubDate>
+      <description>以前是支持美区，现在也支持其他区了&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://myaccount.google.com/google-account-email&quot; rel=&quot;nofollow noopener&quot;&gt;http://myaccount.google.com/google-account-email&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
