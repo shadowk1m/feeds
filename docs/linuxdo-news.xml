@@ -4,7 +4,135 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Tue, 23 Jun 2026 11:54:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:25:08 GMT</lastBuildDate>
+    <item>
+      <title>6.23 Claude崩了</title>
+      <link>https://linux.do/t/topic/2461177</link>
+      <guid>linux.do-topic-2461177</guid>
+      <pubDate>Tue, 23 Jun 2026 14:22:47 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/0/e/00eddfac2546b215b40f36bfc8aa70f6521f71ca.png&quot; data-download-href=&quot;/uploads/short-url/8dDOdnGCCNTTmpcNCq6QvC3ZXA.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/0/e/00eddfac2546b215b40f36bfc8aa70f6521f71ca_2_690x362.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8dDOdnGCCNTTmpcNCq6QvC3ZXA&quot; width=&quot;690&quot; height=&quot;362&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/0/e/00eddfac2546b215b40f36bfc8aa70f6521f71ca_2_690x362.png, https://cdn3.ldstatic.com/optimized/4X/0/0/e/00eddfac2546b215b40f36bfc8aa70f6521f71ca_2_1035x543.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/0/e/00eddfac2546b215b40f36bfc8aa70f6521f71ca_2_1380x724.png 2x&quot; data-dominant-color=&quot;F3E9E3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+如图，claude出现500错误&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8.png&quot; data-download-href=&quot;/uploads/short-url/cLrMbt4qyZhMwopCVkcKeow2KPS.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_690x31.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cLrMbt4qyZhMwopCVkcKeow2KPS&quot; width=&quot;690&quot; height=&quot;31&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_690x31.png, https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_1035x46.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/9/7/597726f3660146411c9d869f6a3d7523a8f578b8_2_1380x62.png 2x&quot; data-dominant-color=&quot;123331&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461177&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Gemini 3.1 Pro Preview疑似被Livebench排行榜除名</title>
+      <link>https://linux.do/t/topic/2461151</link>
+      <guid>linux.do-topic-2461151</guid>
+      <pubDate>Tue, 23 Jun 2026 14:15:55 GMT</pubDate>
+      <description>
+            &lt;p&gt;目前排行榜已看不到该模型，&lt;strong&gt;原因未知&lt;/strong&gt;。此前该模型因为有刷分嫌疑需要手动勾选“Show High Unseen Question Bias Models”才能看到，而当前完全不可见&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/a/7/5a7442c4ca67f1d713fd2d66e65c893f8cede8b7.png&quot; data-download-href=&quot;/uploads/short-url/cUc3IAUz5FuthMmZnY8zhghneib.png?dl=1&quot; title=&quot;QQ_1782224034033&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/7/5a7442c4ca67f1d713fd2d66e65c893f8cede8b7_2_690x389.png&quot; alt=&quot;QQ_1782224034033&quot; data-base62-sha1=&quot;cUc3IAUz5FuthMmZnY8zhghneib&quot; width=&quot;690&quot; height=&quot;389&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/a/7/5a7442c4ca67f1d713fd2d66e65c893f8cede8b7_2_690x389.png, https://cdn3.ldstatic.com/optimized/4X/5/a/7/5a7442c4ca67f1d713fd2d66e65c893f8cede8b7_2_1035x583.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/a/7/5a7442c4ca67f1d713fd2d66e65c893f8cede8b7_2_1380x778.png 2x&quot; data-dominant-color=&quot;F4F5F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461151&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>给考研人的震撼消息，清华计算机系改考408！</title>
+      <link>https://linux.do/t/topic/2461054</link>
+      <guid>linux.do-topic-2461054</guid>
+      <pubDate>Tue, 23 Jun 2026 13:55:17 GMT</pubDate>
+      <description>
+            &lt;p&gt;唯一改考将降低难度的学校，是否能超越北大软微成为11408最高的山？&lt;br&gt;
+佬友们有打算抄底吗 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/heart_eyes.png?v=15&quot; title=&quot;:heart_eyes:&quot; class=&quot;emoji&quot; alt=&quot;:heart_eyes:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/d/8/4d8b917590780984d5e3f9663a21691c866c74c0.jpeg&quot; data-download-href=&quot;/uploads/short-url/b3ZMTOHpRqEqMm67mZcnfx3fjzy.jpeg?dl=1&quot; title=&quot;692b146a034b185936dfbd1dfb6ddb81&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/d/8/4d8b917590780984d5e3f9663a21691c866c74c0_2_690x347.jpeg&quot; alt=&quot;692b146a034b185936dfbd1dfb6ddb81&quot; data-base62-sha1=&quot;b3ZMTOHpRqEqMm67mZcnfx3fjzy&quot; width=&quot;690&quot; height=&quot;347&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/d/8/4d8b917590780984d5e3f9663a21691c866c74c0_2_690x347.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/d/8/4d8b917590780984d5e3f9663a21691c866c74c0_2_1035x520.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/d/8/4d8b917590780984d5e3f9663a21691c866c74c0_2_1380x694.jpeg 2x&quot; data-dominant-color=&quot;F3F3F3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461054&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>即梦app上线音乐生成模块 最长6分钟 全新1.0音乐生成模型</title>
+      <link>https://linux.do/t/topic/2461039</link>
+      <guid>linux.do-topic-2461039</guid>
+      <pubDate>Tue, 23 Jun 2026 13:52:08 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/c/2/1c28238aba8179251e71f6a8449a5180543dd534.jpeg&quot; data-download-href=&quot;/uploads/short-url/415mHN95Me97CmcETyfmXCAkdqk.jpeg?dl=1&quot; title=&quot;Screenshot_20260623_215007&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/c/2/1c28238aba8179251e71f6a8449a5180543dd534_2_574x500.jpeg&quot; alt=&quot;Screenshot_20260623_215007&quot; data-base62-sha1=&quot;415mHN95Me97CmcETyfmXCAkdqk&quot; width=&quot;574&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/c/2/1c28238aba8179251e71f6a8449a5180543dd534_2_574x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/c/2/1c28238aba8179251e71f6a8449a5180543dd534_2_861x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/c/2/1c28238aba8179251e71f6a8449a5180543dd534_2_1148x1000.jpeg 2x&quot; data-dominant-color=&quot;21252D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;不知道豆包什么时候接入&lt;/p&gt;
+&lt;p&gt;豆包其实也默默的在升级，以前都没有版本标注的&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/7/a/67ad5570ad398d5827ca3fef713a74fac16adff7.jpeg&quot; data-download-href=&quot;/uploads/short-url/eNaxO9eG16fKEuAAHeBuqVsjWmP.jpeg?dl=1&quot; title=&quot;Screenshot_20260623_215311&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/7/a/67ad5570ad398d5827ca3fef713a74fac16adff7_2_648x500.jpeg&quot; alt=&quot;Screenshot_20260623_215311&quot; data-base62-sha1=&quot;eNaxO9eG16fKEuAAHeBuqVsjWmP&quot; width=&quot;648&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/7/a/67ad5570ad398d5827ca3fef713a74fac16adff7_2_648x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/7/a/67ad5570ad398d5827ca3fef713a74fac16adff7_2_972x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/6/7/a/67ad5570ad398d5827ca3fef713a74fac16adff7.jpeg 2x&quot; data-dominant-color=&quot;3C3B3E&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461039&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>腾讯 QQ 邮箱 Agently Mail 开启内测，让 AI 用自己的身份收发邮件</title>
+      <link>https://linux.do/t/topic/2461022</link>
+      <guid>linux.do-topic-2461022</guid>
+      <pubDate>Tue, 23 Jun 2026 13:49:12 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/e/6/de61ff5a89cb1b1624a772eccffeda63ee0f4f81.jpeg&quot; data-download-href=&quot;/uploads/short-url/vJhXkWHcMvYnQatM60JuoC18Vzj.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/e/6/de61ff5a89cb1b1624a772eccffeda63ee0f4f81_2_690x282.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;vJhXkWHcMvYnQatM60JuoC18Vzj&quot; width=&quot;690&quot; height=&quot;282&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/e/6/de61ff5a89cb1b1624a772eccffeda63ee0f4f81_2_690x282.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/e/6/de61ff5a89cb1b1624a772eccffeda63ee0f4f81_2_1035x423.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/e/6/de61ff5a89cb1b1624a772eccffeda63ee0f4f81_2_1380x564.jpeg 2x&quot; data-dominant-color=&quot;F0F1F2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/b/3/9b345baf19d86fc830c23828eb91f90c07ef8efb.jpeg&quot; data-download-href=&quot;/uploads/short-url/m90bs3zIDiDPFdt3L4GP87APT7B.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/b/3/9b345baf19d86fc830c23828eb91f90c07ef8efb_2_690x394.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;m90bs3zIDiDPFdt3L4GP87APT7B&quot; width=&quot;690&quot; height=&quot;394&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/b/3/9b345baf19d86fc830c23828eb91f90c07ef8efb_2_690x394.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/b/3/9b345baf19d86fc830c23828eb91f90c07ef8efb_2_1035x591.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/b/3/9b345baf19d86fc830c23828eb91f90c07ef8efb_2_1380x788.jpeg 2x&quot; data-dominant-color=&quot;EDEDED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/f/e/6fe856d3f4ad85a6ac1f30972b47d7bc2c60f19e.jpeg&quot; data-download-href=&quot;/uploads/short-url/fXYMA9GtkfrbhgrYTNl0CcPbuOO.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/f/e/6fe856d3f4ad85a6ac1f30972b47d7bc2c60f19e_2_690x166.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fXYMA9GtkfrbhgrYTNl0CcPbuOO&quot; width=&quot;690&quot; height=&quot;166&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/f/e/6fe856d3f4ad85a6ac1f30972b47d7bc2c60f19e_2_690x166.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/f/e/6fe856d3f4ad85a6ac1f30972b47d7bc2c60f19e_2_1035x249.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/f/e/6fe856d3f4ad85a6ac1f30972b47d7bc2c60f19e_2_1380x332.jpeg 2x&quot; data-dominant-color=&quot;F5F5F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.ithome.com/0/967/524.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;腾讯 QQ 邮箱 Agently Mail 开启内测，让 AI 用自己的身份收发邮件 - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2461022&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>微软首席执行官怒斥其他CEO，指责他们不愿承认人工智能对社会造成的实际影响</title>
+      <link>https://linux.do/t/topic/2460622</link>
+      <guid>linux.do-topic-2460622</guid>
+      <pubDate>Tue, 23 Jun 2026 12:40:48 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://futurism.com/future-society/microsoft-ceo-satya-nadella-ai-society&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/6/2/a62534b227c75f5e3247d1a555bcdee20fd6186d.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;000000&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://futurism.com/future-society/microsoft-ceo-satya-nadella-ai-society&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;04:47PM - 22 June 2026&quot;&gt;Futurism – 22 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/0/9/509eb29f50bc67efa8e45299c3b0f78e9b01c58a_2_690x459.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;AE556B&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://futurism.com/future-society/microsoft-ceo-satya-nadella-ai-society&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Head of Microsoft Rages at His Fellow CEOs for Admitting What They&#39;re...&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Microsoft CEO Satya Nadella is criticising his fellow tech executives for their heavy-handed sell of artificial intelligence.&lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 3 minutes&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+ “现在我们必须努力赢得社会的认可。”&lt;/p&gt;
+&lt;p&gt;在巩固了自己作为世界顶级人工智能公司之一的领导者地位之后，微软首席执行官萨蒂亚·纳德拉对他的竞争对手科技高管提出了一些尖锐的批评。&lt;/p&gt;
+&lt;p&gt;纳德拉在接受《华尔街日报》采访时愤怒地表示，科技公司在宣传万亿美元的人工智能竞赛时过于坦诚——这个行业由少数几家大型科技公司主导，这些公司已经将世界拖入了人工智能金融泡沫。&lt;/p&gt;
+&lt;p&gt;纳德拉解释说：“你不能说，嘿，所有白领工作都消失了，这甚至可以成为一种武器，我们将利用所有力量来建设数据中心。”他指的是一些科技高管吹嘘人工智能能够自动化办公工作（值得注意的是，微软人工智能首席执行官穆斯塔法·苏莱曼最近声称，人工智能即将执行大多数“专业任务”）。&lt;/p&gt;
+&lt;p&gt;微软首席执行官纳德拉现在力推一种将普通员工纳入考量的方法，并批评那些热衷于宣布人工智能驱动的裁员的人。“不，我们为什么不考虑重新调整工作岗位呢？”纳德拉告诉《华尔街日报》。&lt;/p&gt;
+&lt;p&gt;&lt;span lang=&quot;zh&quot;&gt;批评声浪出现之际，微软的公关策略正日益偏向人道主义。去年，微软采取了不同寻常的举措，终止了与以色列国防部的部分合同，理由是担心以色列利用微软的技术发动对加沙的毁灭性战争（尽管纳德拉本人在2021年曾主导了双方的军事合作）。同年5月，微软以色列分公司负责人因与军方官员的某些商业往来而受到内部审查，被迫辞职。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;虽然微软的这种退缩很大程度上是由普通员工推动的——他们给高管施加了巨大的压力，要求取消公司的军事合同——但公司领导层的道德转变是在人工智能公司 Anthropic（Claude 的开发者）的阴影下发生的。&lt;/p&gt;
+&lt;p&gt;今年早些时候，Anthropic公司与特朗普政府的高调争执似乎让该公司赢得了一些“伪善者”的青睐，因为这似乎将该公司塑造成了人工智能用户的“道德之选”。但实际上，这不过是装装样子，因为后来人们发现，美国军方一直在利用Claude人工智能系统在对伊朗的战争中选择轰炸目标。&lt;/p&gt;
+&lt;p&gt;&lt;span lang=&quot;zh&quot;&gt;微软的做法也遵循同样的套路。如果纳德拉真的关心人工智能对劳动者的影响，他完全有能力控制公司的相关举措。然而，他只是采取了一种更为务实的公关策略。正如纳德拉自己所说：“我们现在必须努力赢得社会的认可。”&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2460622&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>软件开屏广告摇一摇没了</title>
+      <link>https://linux.do/t/topic/2460550</link>
+      <guid>linux.do-topic-2460550</guid>
+      <pubDate>Tue, 23 Jun 2026 12:29:51 GMT</pubDate>
+      <description>
+            &lt;p&gt;国产的软件目前&lt;strong&gt;大部分&lt;/strong&gt;已经去掉了摇一摇的开屏广告&lt;br&gt;
+已经测试过了确实没有了,但是一些小部分的还没跟进&lt;br&gt;
+看来前一阵子的工信部的整治确实奏效了,佬友们可以去试一试了,没成功的更新一下软件试试&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;37 个帖子 - 33 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2460550&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>腾讯开发新的钱包应用「TenPayGo」，支持邮箱注册</title>
       <link>https://linux.do/t/topic/2460250</link>
@@ -38,7 +166,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2460250&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -122,7 +250,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2458973&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -189,7 +317,7 @@
       <pubDate>Tue, 23 Jun 2026 07:20:25 GMT</pubDate>
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/2/8/e28329599dd79ee13e060e0651792a70d07a5596.png&quot; data-download-href=&quot;/uploads/short-url/wjOV4KmPx5tyLHAbLCu4fGfr9IO.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/2/8/e28329599dd79ee13e060e0651792a70d07a5596_2_690x375.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wjOV4KmPx5tyLHAbLCu4fGfr9IO&quot; width=&quot;690&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/2/8/e28329599dd79ee13e060e0651792a70d07a5596_2_690x375.png, https://cdn3.ldstatic.com/optimized/4X/e/2/8/e28329599dd79ee13e060e0651792a70d07a5596_2_1035x562.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/2/8/e28329599dd79ee13e060e0651792a70d07a5596_2_1380x750.png 2x&quot; data-dominant-color=&quot;EEDECE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;20 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;22 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2457482&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -626,168 +754,6 @@ I am intentionally not pasting raw `feedback_log_body` contents because they may
 &lt;a href=&quot;https://www.ithome.com/0/967/330.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;豆包大模型日均 tokens 调用量达 180 万亿，字节跳动 CEO 梁汝波称聚焦提升大模型能力 - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2456309&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Kimi Code 支持原生视频理解了</title>
-      <link>https://linux.do/t/topic/2456138</link>
-      <guid>linux.do-topic-2456138</guid>
-      <pubDate>Tue, 23 Jun 2026 04:36:59 GMT</pubDate>
-      <description>
-            &lt;p&gt;刷抖音看到 Kimi Code 更新了视频解析, 让cc翻了下仓库.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/5/6/056ddae2f35d97a6b6cd9bd878c1a701acb4f683.jpeg&quot; data-download-href=&quot;/uploads/short-url/M1Kxx1NONZOdi02CQBUwolaBov.jpeg?dl=1&quot; title=&quot;dfbd4ebdaa8c389c290ff7704b21a8bc&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/5/6/056ddae2f35d97a6b6cd9bd878c1a701acb4f683_2_690x311.jpeg&quot; alt=&quot;dfbd4ebdaa8c389c290ff7704b21a8bc&quot; data-base62-sha1=&quot;M1Kxx1NONZOdi02CQBUwolaBov&quot; width=&quot;690&quot; height=&quot;311&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/5/6/056ddae2f35d97a6b6cd9bd878c1a701acb4f683_2_690x311.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/5/6/056ddae2f35d97a6b6cd9bd878c1a701acb4f683_2_1035x466.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/5/6/056ddae2f35d97a6b6cd9bd878c1a701acb4f683_2_1380x622.jpeg 2x&quot; data-dominant-color=&quot;323025&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;如果这个能力跑通了, 感觉对动态场景的提升很明显啊.&lt;/p&gt;
-&lt;p&gt;比如软件测试, 录一段操作视频直接丢给模型, 它能理解完整的交互流程而不是猜几张截图之间发生了什么.&lt;/p&gt;
-&lt;p&gt;再比如视频蒸馏复刻和理解.&lt;/p&gt;
-&lt;p&gt;有没有在用 Kimi Code + Kimi套餐的大佬实测过视频理解的效果? 非常好奇实际体验怎么样.&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;16 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2456138&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>字节跳动 AI 视频生成大模型 Seedance 2.5 将于 7 月初发布：支持 30 秒视频直出及 50 个全模态素材输入</title>
-      <link>https://linux.do/t/topic/2456094</link>
-      <guid>linux.do-topic-2456094</guid>
-      <pubDate>Tue, 23 Jun 2026 04:28:53 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/c/7/bc7ee26fc3853f53a78fcfdb3cbc8375208ab105.png&quot; data-download-href=&quot;/uploads/short-url/qTvC1psUrnADm73m0PXsZtJPvrD.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/c/7/bc7ee26fc3853f53a78fcfdb3cbc8375208ab105_2_690x93.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;qTvC1psUrnADm73m0PXsZtJPvrD&quot; width=&quot;690&quot; height=&quot;93&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/c/7/bc7ee26fc3853f53a78fcfdb3cbc8375208ab105_2_690x93.png, https://cdn3.ldstatic.com/optimized/4X/b/c/7/bc7ee26fc3853f53a78fcfdb3cbc8375208ab105_2_1035x139.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/c/7/bc7ee26fc3853f53a78fcfdb3cbc8375208ab105_2_1380x186.png 2x&quot; data-dominant-color=&quot;F0F0F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/4/6/54614c55fb22ee343c6ee2e66466d2fb71672b03.jpeg&quot; data-download-href=&quot;/uploads/short-url/c2szd5GBJYOVvRTDoZDc0PcEtLd.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/4/6/54614c55fb22ee343c6ee2e66466d2fb71672b03_2_690x217.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;c2szd5GBJYOVvRTDoZDc0PcEtLd&quot; width=&quot;690&quot; height=&quot;217&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/4/6/54614c55fb22ee343c6ee2e66466d2fb71672b03_2_690x217.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/4/6/54614c55fb22ee343c6ee2e66466d2fb71672b03_2_1035x325.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/4/6/54614c55fb22ee343c6ee2e66466d2fb71672b03_2_1380x434.jpeg 2x&quot; data-dominant-color=&quot;EBEBEB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;a href=&quot;https://www.ithome.com/0/967/374.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;字节跳动 AI 视频生成大模型 Seedance 2.5 将于 7 月初发布：支持 30 秒视频直出及 50 个全模态素材输入 - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;32 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2456094&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Astro 7.0 发布！| 性能提升版本 | 使用 rust 重写compiler</title>
-      <link>https://linux.do/t/topic/2456076</link>
-      <guid>linux.do-topic-2456076</guid>
-      <pubDate>Tue, 23 Jun 2026 04:26:19 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://astro.build/blog/astro-7/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/0/6/1068de4eba8ab188a4555ba09fde4f8243dc1202.svg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;&quot; width=&quot;128&quot; height=&quot;128&quot;&gt;
-
-      &lt;a href=&quot;https://astro.build/blog/astro-7/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Astro&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/a/0/4a0eb4465c2e9dc3b0bcce17069cb3b53568226d_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;3C2155&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://astro.build/blog/astro-7/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Astro 7.0 | Astro&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Astro 7.0 brings faster builds with Vite 8, a new Rust compiler, Advanced Routing, background dev server support, and structured logging.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;除了.astro 编译到 html 的 compiler 使用 rust 重写。还有把 vite 升级到 vite 8&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2456076&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>微信新功能【一句话生成小程序】已体验</title>
-      <link>https://linux.do/t/topic/2456013</link>
-      <guid>linux.do-topic-2456013</guid>
-      <pubDate>Tue, 23 Jun 2026 04:15:43 GMT</pubDate>
-      <description>
-            &lt;p&gt;首先从体感上讲，是真的挺友好的，我就说了一句话(注意我说的是，用嘴说的哦)：帮我生成一个夸夸文案小程序。&lt;/p&gt;
-&lt;p&gt;生成时间，大概3分钟，速度上还是挺快的&lt;/p&gt;
-&lt;p&gt;UI上来讲，属于简洁大方型的，瞅起来顺眼&lt;/p&gt;
-&lt;p&gt;功能上讲，操作很简单，让人一看就知道怎么使用了&lt;/p&gt;
-&lt;p&gt;总体来说，这个功能挺讨喜的，适合制作属于个人的小工具。佬友们体验了嘛，来谈谈使用感受吧&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/2/f/82f21c4c89f2a5e6fb4d71af2c857d752fc6ecbb.png&quot; data-download-href=&quot;/uploads/short-url/iGoN157sKASd29ySTDnv3QJpBP5.png?dl=1&quot; title=&quot;IMG_0966&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/2/f/82f21c4c89f2a5e6fb4d71af2c857d752fc6ecbb_2_229x500.png&quot; alt=&quot;IMG_0966&quot; data-base62-sha1=&quot;iGoN157sKASd29ySTDnv3QJpBP5&quot; width=&quot;229&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/2/f/82f21c4c89f2a5e6fb4d71af2c857d752fc6ecbb_2_229x500.png, https://cdn3.ldstatic.com/optimized/4X/8/2/f/82f21c4c89f2a5e6fb4d71af2c857d752fc6ecbb_2_343x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/2/f/82f21c4c89f2a5e6fb4d71af2c857d752fc6ecbb_2_458x1000.png 2x&quot; data-dominant-color=&quot;EFECED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/e/e/3ee24800f89d79ab95ddf6ecc5543a7361b5b6b5.jpeg&quot; data-download-href=&quot;/uploads/short-url/8YipkqX9AI5FNMrNQNbxEbKP4Kp.jpeg?dl=1&quot; title=&quot;IMG_0965&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/e/e/3ee24800f89d79ab95ddf6ecc5543a7361b5b6b5_2_229x500.jpeg&quot; alt=&quot;IMG_0965&quot; data-base62-sha1=&quot;8YipkqX9AI5FNMrNQNbxEbKP4Kp&quot; width=&quot;229&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/e/e/3ee24800f89d79ab95ddf6ecc5543a7361b5b6b5_2_229x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/e/e/3ee24800f89d79ab95ddf6ecc5543a7361b5b6b5_2_343x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/e/e/3ee24800f89d79ab95ddf6ecc5543a7361b5b6b5_2_458x1000.jpeg 2x&quot; data-dominant-color=&quot;EAEFF2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/3/5/235119c034393078c1cd9325e97fc9ae066de64f.jpeg&quot; data-download-href=&quot;/uploads/short-url/52qt3AHVdh6DAwS0a9QjZDmFRz9.jpeg?dl=1&quot; title=&quot;IMG_0964&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/3/5/235119c034393078c1cd9325e97fc9ae066de64f_2_229x500.jpeg&quot; alt=&quot;IMG_0964&quot; data-base62-sha1=&quot;52qt3AHVdh6DAwS0a9QjZDmFRz9&quot; width=&quot;229&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/3/5/235119c034393078c1cd9325e97fc9ae066de64f_2_229x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/3/5/235119c034393078c1cd9325e97fc9ae066de64f_2_343x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/3/5/235119c034393078c1cd9325e97fc9ae066de64f_2_458x1000.jpeg 2x&quot; data-dominant-color=&quot;ECF1F4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/5/3/d5329523f6710cf9762157c31aa98534a7f43f94.png&quot; data-download-href=&quot;/uploads/short-url/uq24A0v9lCTACPthQfrI8bivr5G.png?dl=1&quot; title=&quot;IMG_0969&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/5/3/d5329523f6710cf9762157c31aa98534a7f43f94_2_229x500.png&quot; alt=&quot;IMG_0969&quot; data-base62-sha1=&quot;uq24A0v9lCTACPthQfrI8bivr5G&quot; width=&quot;229&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/5/3/d5329523f6710cf9762157c31aa98534a7f43f94_2_229x500.png, https://cdn3.ldstatic.com/optimized/4X/d/5/3/d5329523f6710cf9762157c31aa98534a7f43f94_2_343x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/5/3/d5329523f6710cf9762157c31aa98534a7f43f94_2_458x1000.png 2x&quot; data-dominant-color=&quot;1B1B1B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/b/5/6b58ef7e40fd6e20f60d5d5f1e6622f4739c2a59.png&quot; data-download-href=&quot;/uploads/short-url/fjDDewFnz0vdysgtDR6zb8UyEBj.png?dl=1&quot; title=&quot;IMG_0968&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/b/5/6b58ef7e40fd6e20f60d5d5f1e6622f4739c2a59_2_229x500.png&quot; alt=&quot;IMG_0968&quot; data-base62-sha1=&quot;fjDDewFnz0vdysgtDR6zb8UyEBj&quot; width=&quot;229&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/b/5/6b58ef7e40fd6e20f60d5d5f1e6622f4739c2a59_2_229x500.png, https://cdn3.ldstatic.com/optimized/4X/6/b/5/6b58ef7e40fd6e20f60d5d5f1e6622f4739c2a59_2_343x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/b/5/6b58ef7e40fd6e20f60d5d5f1e6622f4739c2a59_2_458x1000.png 2x&quot; data-dominant-color=&quot;1D1D1F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/5/1/b51ad00759a3287534bede98f6d9776c3cfc2ceb.png&quot; data-download-href=&quot;/uploads/short-url/pQ7ROeKu3sSbScCEnvn7sYyVeXh.png?dl=1&quot; title=&quot;IMG_0967&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/5/1/b51ad00759a3287534bede98f6d9776c3cfc2ceb_2_229x500.png&quot; alt=&quot;IMG_0967&quot; data-base62-sha1=&quot;pQ7ROeKu3sSbScCEnvn7sYyVeXh&quot; width=&quot;229&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/5/1/b51ad00759a3287534bede98f6d9776c3cfc2ceb_2_229x500.png, https://cdn3.ldstatic.com/optimized/4X/b/5/1/b51ad00759a3287534bede98f6d9776c3cfc2ceb_2_343x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/5/1/b51ad00759a3287534bede98f6d9776c3cfc2ceb_2_458x1000.png 2x&quot; data-dominant-color=&quot;1D1D1D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/7/7/d772b8f6b4beaf8fb06d14857bf0b0e30c58e57e.jpeg&quot; data-download-href=&quot;/uploads/short-url/uJWrM6YERzmXAk2NMmNjGwPxSeq.jpeg?dl=1&quot; title=&quot;IMG_0970&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/7/d772b8f6b4beaf8fb06d14857bf0b0e30c58e57e_2_689x350.jpeg&quot; alt=&quot;IMG_0970&quot; data-base62-sha1=&quot;uJWrM6YERzmXAk2NMmNjGwPxSeq&quot; width=&quot;689&quot; height=&quot;350&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/7/d772b8f6b4beaf8fb06d14857bf0b0e30c58e57e_2_689x350.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/7/7/d772b8f6b4beaf8fb06d14857bf0b0e30c58e57e_2_1033x525.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/d/7/7/d772b8f6b4beaf8fb06d14857bf0b0e30c58e57e.jpeg 2x&quot; data-dominant-color=&quot;191A19&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/b/8/7b860eaa917571125d34fec2b9149635a81486f3.png&quot; data-download-href=&quot;/uploads/short-url/hCJWBFPyEzcL6jznLBAvTOk0zFV.png?dl=1&quot; title=&quot;IMG_0971&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b860eaa917571125d34fec2b9149635a81486f3_2_229x500.png&quot; alt=&quot;IMG_0971&quot; data-base62-sha1=&quot;hCJWBFPyEzcL6jznLBAvTOk0zFV&quot; width=&quot;229&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b860eaa917571125d34fec2b9149635a81486f3_2_229x500.png, https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b860eaa917571125d34fec2b9149635a81486f3_2_343x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/b/8/7b860eaa917571125d34fec2b9149635a81486f3_2_458x1000.png 2x&quot; data-dominant-color=&quot;2B2A32&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/5/1/b51ad00759a3287534bede98f6d9776c3cfc2ceb.png&quot; data-download-href=&quot;/uploads/short-url/pQ7ROeKu3sSbScCEnvn7sYyVeXh.png?dl=1&quot; title=&quot;IMG_0967&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/5/1/b51ad00759a3287534bede98f6d9776c3cfc2ceb_2_229x500.png&quot; alt=&quot;IMG_0967&quot; data-base62-sha1=&quot;pQ7ROeKu3sSbScCEnvn7sYyVeXh&quot; width=&quot;229&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/5/1/b51ad00759a3287534bede98f6d9776c3cfc2ceb_2_229x500.png, https://cdn3.ldstatic.com/optimized/4X/b/5/1/b51ad00759a3287534bede98f6d9776c3cfc2ceb_2_343x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/5/1/b51ad00759a3287534bede98f6d9776c3cfc2ceb_2_458x1000.png 2x&quot; data-dominant-color=&quot;1D1D1D&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;31 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2456013&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>谷歌 DeepMind 杰出工程师费恩伯格：想进入顶尖 AI 实验室，得“像条狗一样拼命干”</title>
-      <link>https://linux.do/t/topic/2455788</link>
-      <guid>linux.do-topic-2455788</guid>
-      <pubDate>Tue, 23 Jun 2026 03:45:29 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/4/4/a441d490d9e9add674f0c9984f83c50abe5ae4e3.jpeg&quot; data-download-href=&quot;/uploads/short-url/nr5ls0DQNDEuOz4keaiSREDPO4b.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/4/4/a441d490d9e9add674f0c9984f83c50abe5ae4e3_2_690x141.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nr5ls0DQNDEuOz4keaiSREDPO4b&quot; width=&quot;690&quot; height=&quot;141&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/4/4/a441d490d9e9add674f0c9984f83c50abe5ae4e3_2_690x141.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/4/4/a441d490d9e9add674f0c9984f83c50abe5ae4e3_2_1035x211.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/4/4/a441d490d9e9add674f0c9984f83c50abe5ae4e3_2_1380x282.jpeg 2x&quot; data-dominant-color=&quot;EDEDED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/5/d/35d864546878a2457208eea7ff69688d796cebe7.jpeg&quot; data-download-href=&quot;/uploads/short-url/7GkVfOyoECzXGeNMTd976nBtHfh.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/d/35d864546878a2457208eea7ff69688d796cebe7_2_690x385.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;7GkVfOyoECzXGeNMTd976nBtHfh&quot; width=&quot;690&quot; height=&quot;385&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/d/35d864546878a2457208eea7ff69688d796cebe7_2_690x385.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/5/d/35d864546878a2457208eea7ff69688d796cebe7_2_1035x577.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/5/d/35d864546878a2457208eea7ff69688d796cebe7_2_1380x770.jpeg 2x&quot; data-dominant-color=&quot;E7E7E7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;a href=&quot;https://www.ithome.com/0/967/237.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;谷歌 DeepMind 杰出工程师费恩伯格：想进入顶尖 AI 实验室，得“像条狗一样拼命干” - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2455788&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>此前在埃及失联、后涉电诈被捕的21岁中国女孩等5人，被埃及法院判处15年监禁</title>
-      <link>https://linux.do/t/topic/2455690</link>
-      <guid>linux.do-topic-2455690</guid>
-      <pubDate>Tue, 23 Jun 2026 03:35:34 GMT</pubDate>
-      <description>
-            &lt;p&gt;当地时间6月15日，埃及开罗刑事法院判处5名被告人15年监禁，其中3人为中国公民。被告人中包括此前因在埃及失联而引发关注的新闻当事人池某滢。据悉，5名被告曾在新开罗绑架一名中国公民，并向其家人索要7万美元赎金。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/d/f/ddfb5f34017d61a3fae7cb56e7fba0b8c826ebca.webp&quot; data-download-href=&quot;/uploads/short-url/vFK586Ac824T5ES7cSnSieDF0ka.webp?dl=1&quot; title=&quot;微信图片_20260622155200_121_34.png&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/d/f/ddfb5f34017d61a3fae7cb56e7fba0b8c826ebca.webp&quot; alt=&quot;微信图片_20260622155200_121_34.png&quot; data-base62-sha1=&quot;vFK586Ac824T5ES7cSnSieDF0ka&quot; width=&quot;455&quot; height=&quot;499&quot; data-dominant-color=&quot;9E7F66&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;▲此前因在埃及失联引发热议的21岁女子池某滢等5人因涉嫌绑架，被埃及法院判处15年有期徒刑&lt;/p&gt;
-&lt;p&gt;据悉，法院判定邱东升（音）、张龙（音）、池某滢以及两名埃及籍被告艾哈迈德·MGA和艾哈迈德·MAA有罪，另以证据不足为由，宣判优素福A.A.A、穆斯塔法H.A.A和艾曼A.A.A3名被告无罪。法院还下令没收调查期间缴获的枪支、刀具和手机，并要求被定罪的被告支付诉讼费用。&lt;/p&gt;
-&lt;p&gt;根据法庭文件，被告以提供信息技术行业的工作机会为由，将受害者——中国公民任炳林（音）诱骗到埃及。检察官称，受害者抵达开罗国际机场后被带到新开罗某高档封闭式小区的一间公寓，在那里他被蒙住双眼、束缚住手脚，并被囚禁在一个房间里，同时受到枪支和刀具的威胁。绑匪曾威胁受害人家属，必须支付7万美元的赎金，否则将“撕票”。&lt;/p&gt;
-&lt;p&gt;调查人员发现，绑匪在拍摄受害者视频并通过微信发送给其家人之前，拿走了受害者的手机和钱财。&lt;/p&gt;
-&lt;p&gt;当地安全部队随后找到了受害者。警方突袭了他被关押的公寓对其进行解救，并逮捕了嫌疑人，缴获了据称用于作案的武器。&lt;/p&gt;
-&lt;p&gt;据红星新闻此前报道，2025年9月，中国籍女子池某滢的母亲告诉红星新闻记者，21岁的池某滢为考察发展赴埃旅居。9月21日其与亲友失联，家属焦急万分开始四处寻人。&lt;/p&gt;
-&lt;p&gt;2025年9月30日，埃及内政部官方社交账号发文对此进行了通报，文中称：关于部分社交媒体账号所传播的有关一名中国女游客在埃及境内失踪的消息，经调查核实，她与其他几人已被依法控制，因其隶属于一个专门从事电子诈骗的犯罪团伙（该团伙共8名成员）。该团伙的犯罪活动主要是以在埃及从事电子商务工作为名，诱骗受害者（大部分是其本国同胞），待其抵达后便实施绑架，并强迫他们与家人联系，以支付通过电子平台发送的赎金。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/b/1/0b1a4fb8f22fd834206d35db4713da1735045c7c.webp&quot; data-download-href=&quot;/uploads/short-url/1AdCH83LsdqG9CbOq1ujKrxci7O.webp?dl=1&quot; title=&quot;微信图片_20260622155658_122_34.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/b/1/0b1a4fb8f22fd834206d35db4713da1735045c7c_2_231x500.webp&quot; alt=&quot;微信图片_20260622155658_122_34.jpg&quot; data-base62-sha1=&quot;1AdCH83LsdqG9CbOq1ujKrxci7O&quot; width=&quot;231&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/b/1/0b1a4fb8f22fd834206d35db4713da1735045c7c_2_231x500.webp, https://cdn3.ldstatic.com/optimized/4X/0/b/1/0b1a4fb8f22fd834206d35db4713da1735045c7c_2_346x750.webp 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/b/1/0b1a4fb8f22fd834206d35db4713da1735045c7c_2_462x1000.webp 2x&quot; data-dominant-color=&quot;C2C6CB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;▲埃及内政部此前的官方通报（资料图片）&lt;/p&gt;
-&lt;p&gt;据报道，警方已在其位于第一定居点警察分局辖区的一所住宅公寓内将他们锁定并逮捕，并查获了枪支、白刃武器、电击枪以及若干包含其犯罪活动证据的手机。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://news.ifeng.com/c/8uAOQUIVM3i&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/9/d/39d4593c440e9022b416e81b879957af9d9dd6c7.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;F54343&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://news.ifeng.com/c/8uAOQUIVM3i&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;news.ifeng.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:530/298;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/1/3/513c3511dbcd1607a05f633caaaadc08ac3f1f16.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;9D795B&quot; width=&quot;530&quot; height=&quot;298&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://news.ifeng.com/c/8uAOQUIVM3i&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;此前在埃及失联、后涉电诈被捕的21岁中国女孩等5人，被埃及法院判处15年监禁，细节披露&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;此前在埃及失联、后涉电诈被捕的21岁中国女孩等5人，被埃及法院判处15年监禁，细节披露&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2455690&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>字节发布 seedance2.5 短剧大变天啦</title>
-      <link>https://linux.do/t/topic/2455593</link>
-      <guid>linux.do-topic-2455593</guid>
-      <pubDate>Tue, 23 Jun 2026 03:25:22 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/4/8/348ee82d0e2dc98262ea394c6779266dc4f9f84c.jpeg&quot; data-download-href=&quot;/uploads/short-url/7uX0jQVB4zMJCHIl6jVkgJvvMpC.jpeg?dl=1&quot; title=&quot;IMG_1088&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/4/8/348ee82d0e2dc98262ea394c6779266dc4f9f84c_2_229x500.jpeg&quot; alt=&quot;IMG_1088&quot; data-base62-sha1=&quot;7uX0jQVB4zMJCHIl6jVkgJvvMpC&quot; width=&quot;229&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/4/8/348ee82d0e2dc98262ea394c6779266dc4f9f84c_2_229x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/4/8/348ee82d0e2dc98262ea394c6779266dc4f9f84c_2_343x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/4/8/348ee82d0e2dc98262ea394c6779266dc4f9f84c_2_458x1000.jpeg 2x&quot; data-dominant-color=&quot;1A252E&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-2.0 发布了 4k 贵的一批&lt;br&gt;
-2.5 发布估计更加没人能追上了&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;52 个帖子 - 41 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2455593&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
