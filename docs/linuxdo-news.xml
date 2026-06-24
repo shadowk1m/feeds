@@ -4,7 +4,249 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Wed, 24 Jun 2026 12:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 15:15:03 GMT</lastBuildDate>
+    <item>
+      <title>kiro超额无了，未来需要预付费再使用</title>
+      <link>https://linux.do/t/topic/2468305</link>
+      <guid>linux.do-topic-2468305</guid>
+      <pubDate>Wed, 24 Jun 2026 14:57:02 GMT</pubDate>
+      <description>
+            &lt;p&gt;今天发现邮件&lt;br&gt;
+7月1号之后需要预付费超额==先付费再使用&lt;/p&gt;
+&lt;p&gt;我的卡现在还因为超额不敢解锁，上次超了120刀。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/6/8/768a4bb19bf8a91038f6e923a805e41d27548b53.png&quot; data-download-href=&quot;/uploads/short-url/gUEDAVpTM8yqHEMXS7t3MpeHtRx.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/6/8/768a4bb19bf8a91038f6e923a805e41d27548b53_2_690x377.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gUEDAVpTM8yqHEMXS7t3MpeHtRx&quot; width=&quot;690&quot; height=&quot;377&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/6/8/768a4bb19bf8a91038f6e923a805e41d27548b53_2_690x377.png, https://cdn3.ldstatic.com/optimized/4X/7/6/8/768a4bb19bf8a91038f6e923a805e41d27548b53_2_1035x565.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/6/8/768a4bb19bf8a91038f6e923a805e41d27548b53_2_1380x754.png 2x&quot; data-dominant-color=&quot;E1E1E2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468305&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>快讯：多家私募收到通知，暂停TRS新增</title>
+      <link>https://linux.do/t/topic/2468302</link>
+      <guid>linux.do-topic-2468302</guid>
+      <pubDate>Wed, 24 Jun 2026 14:55:40 GMT</pubDate>
+      <description>
+            &lt;p&gt;悲报，朋友那边收到的消息，目前多家私募收到通知，暂停TRS新增，以后私募不能买美股韩股了，后面估计彻底关门拉闸了 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/sweat_smile.png?v=15&quot; title=&quot;:sweat_smile:&quot; class=&quot;emoji&quot; alt=&quot;:sweat_smile:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468302&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI 发布首款自研 AI 芯片 Jalapeño，用于 ChatGPT、Codex 和 API 推理</title>
+      <link>https://linux.do/t/topic/2468210</link>
+      <guid>linux.do-topic-2468210</guid>
+      <pubDate>Wed, 24 Jun 2026 14:34:06 GMT</pubDate>
+      <description>
+            &lt;p&gt;OpenAI 官方宣布推出首款自研 AI 芯片 Jalapeño，由 OpenAI 从零设计，并与 Broadcom 合作推进到生产阶段。&lt;/p&gt;
+&lt;p&gt;这颗芯片主要面向 LLM 推理任务，也就是支撑 ChatGPT、Codex、API 以及未来 agent 产品的核心计算场景。OpenAI 表示，Jalapeño 不是把通用 AI 加速器改一改，而是专门围绕现代 LLM 的推理需求设计，包括模型 kernel、内存移动、网络和服务系统。&lt;/p&gt;
+&lt;p&gt;几个关键信息：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Jalapeño 是 OpenAI 的第一颗 Intelligence Processor。&lt;/li&gt;
+&lt;li&gt;芯片从设计到 tape-out 用了 9 个月，OpenAI 称部分流程由自家模型加速。&lt;/li&gt;
+&lt;li&gt;工程样片已经在实验室运行 ML 工作负载，包括 GPT-5.3-Codex-Spark。&lt;/li&gt;
+&lt;li&gt;OpenAI 还在测最终性能，但早期测试显示性能功耗比会明显优于当前最先进方案。&lt;/li&gt;
+&lt;li&gt;Jalapeño 会和 Broadcom 的硅实现、网络技术，以及 Celestica 的板卡和机架系统能力结合。&lt;/li&gt;
+&lt;li&gt;OpenAI 计划从 2026 年底开始部署，并做成多代计算平台。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;简单说，OpenAI 不只是做模型和产品了，它正在把底层算力也纳入自己的 full-stack AI 平台。&lt;/p&gt;
+&lt;p&gt;这对 AI 行业很重要，因为推理成本会直接影响 ChatGPT 响应速度、Codex 执行任务的等待时间、API 成本，以及高峰期的可用性。OpenAI 自研芯片的目标，就是让更多 AI 使用场景变得更快、更稳定、更便宜。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/1/e/11ea682405fbd7d83af0bc586ebab59bc6f921d3.jpeg&quot; data-download-href=&quot;/uploads/short-url/2yukxk5y3y3pqlk39RpXrsGhB1F.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/1/e/11ea682405fbd7d83af0bc586ebab59bc6f921d3_2_690x460.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;2yukxk5y3y3pqlk39RpXrsGhB1F&quot; width=&quot;690&quot; height=&quot;460&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/1/e/11ea682405fbd7d83af0bc586ebab59bc6f921d3_2_690x460.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/1/e/11ea682405fbd7d83af0bc586ebab59bc6f921d3_2_1035x690.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/1/e/11ea682405fbd7d83af0bc586ebab59bc6f921d3_2_1380x920.jpeg 2x&quot; data-dominant-color=&quot;817067&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468210&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI 发布首款自研 LLM 推理芯片 Jalapeño？？</title>
+      <link>https://linux.do/t/topic/2468202</link>
+      <guid>linux.do-topic-2468202</guid>
+      <pubDate>Wed, 24 Jun 2026 14:32:41 GMT</pubDate>
+      <description>
+            &lt;p&gt;OpenAI 宣布与 Broadcom、Celestica 合作，从头设计并量产首款专为大语言模型推理优化的 AI 芯片 Jalapeño，旨在实现每瓦性能超越现有 SOTA 加速器，计划于 2026 年底以吉瓦级规模部署，标志着其向“全栈 AI 公司”迈出关键一步 。这个是真 “全干” 哈哈哈&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/0/b/70bf89d434818b052a557ff966038141c8a76c0b.jpeg&quot; data-download-href=&quot;/uploads/short-url/g5pQrhzHw5K96Dp9SUx9YlkdX5N.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/0/b/70bf89d434818b052a557ff966038141c8a76c0b_2_437x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;g5pQrhzHw5K96Dp9SUx9YlkdX5N&quot; width=&quot;437&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/0/b/70bf89d434818b052a557ff966038141c8a76c0b_2_437x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/0/b/70bf89d434818b052a557ff966038141c8a76c0b_2_655x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/0/b/70bf89d434818b052a557ff966038141c8a76c0b_2_874x1000.jpeg 2x&quot; data-dominant-color=&quot;524944&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468202&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Oracle 已有的 4c 24G arm 实例似乎会保持免费</title>
+      <link>https://linux.do/t/topic/2468094</link>
+      <guid>linux.do-topic-2468094</guid>
+      <pubDate>Wed, 24 Jun 2026 14:14:06 GMT</pubDate>
+      <description>
+            &lt;p&gt;在 reddit 上看到有人问了 oracle 支持，大概意思是现在已有的 4c 24G 实例不会受到新政策的影响，也不会收费。但是如果把现有实例终止了，再开就要受到新的政策限制，只能免费开 2c 12G 了&lt;/p&gt;
+&lt;p&gt;PS 不过感觉对已升级的用户，客户支持的说法还是很模糊，只说了 Always Free 用户不会有任何新的费用，PAYG 用户他说的是&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Additionally, PAYG, Enterprise, and other paid tenancy types are not impacted by this change, and there is no change to billing behavior or resource limits for paid customer.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;感觉没很明确说会收费还是不收，但是原帖主说现有已开通的 arm 实例和 PAYG 用户还是能免费 4c 24G，只有新开的 Free tier 用户的额度被砍半了。&lt;/p&gt;
+&lt;p&gt;原帖地址&lt;br&gt;
+&lt;a&gt;https://www.reddit.com/r/oraclecloud/comments/1ubk2qy/new_always_free_tier_limits_21june2026_update&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/a/e/4aea32df3062a8299cb8f8ad01cb4900a5e33c32.jpeg&quot; data-download-href=&quot;/uploads/short-url/aGJ6hdkEVxQVNQ0t0L1Zn5W5oMq.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/a/e/4aea32df3062a8299cb8f8ad01cb4900a5e33c32_2_690x472.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;aGJ6hdkEVxQVNQ0t0L1Zn5W5oMq&quot; width=&quot;690&quot; height=&quot;472&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/a/e/4aea32df3062a8299cb8f8ad01cb4900a5e33c32_2_690x472.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/a/e/4aea32df3062a8299cb8f8ad01cb4900a5e33c32_2_1035x708.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/4/a/e/4aea32df3062a8299cb8f8ad01cb4900a5e33c32.jpeg 2x&quot; data-dominant-color=&quot;EFEEEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468094&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>报！又新开源了一个新的文生图模型Krea2</title>
+      <link>https://linux.do/t/topic/2467975</link>
+      <guid>linux.do-topic-2467975</guid>
+      <pubDate>Wed, 24 Jun 2026 13:55:11 GMT</pubDate>
+      <description>
+            &lt;p&gt;国外的模型，从零开始训练的，12B参数，turbo版8步出图，原生支持4K，出图速度比Z-image-turbo略慢。&lt;br&gt;
+优点：提示词响应程度好，对亚洲人脸支持好，感觉能和ZIT打一打。&lt;br&gt;
+缺点：对中文字符显示效果差，且自带审核，原生不支持NSFW，但可以通过节点绕过。&lt;/p&gt;
+&lt;p&gt;模型抱脸网地址：&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://huggingface.co/krea/Krea-2-Turbo&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://huggingface.co/krea/Krea-2-Turbo&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;huggingface.co&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/372;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/0/c/10cf176ef95b057b11429d67c91f7db8a9935b48_2_690x372.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;5A6FA4&quot; width=&quot;690&quot; height=&quot;372&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://huggingface.co/krea/Krea-2-Turbo&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;krea/Krea-2-Turbo · Hugging Face&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;We’re on a journey to advance and democratize artificial intelligence through open source and open science.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;绕过审核节点：&lt;/p&gt;&lt;aside class=&quot;onebox githubrepo&quot; data-onebox-src=&quot;https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;github.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;github-row&quot; data-github-private-repo=&quot;false&quot;&gt;
+  &lt;img width=&quot;690&quot; height=&quot;344&quot; src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/b/8/6b8a714b500dec3ab58d59075c8c4f7ab8db25d0_2_690x344.png&quot; class=&quot;thumbnail&quot; data-dominant-color=&quot;ECEDEE&quot;&gt;
+
+  &lt;h3&gt;&lt;a href=&quot;https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;GitHub - nova452/ComfyUI-ConditioningKrea2Rebalance: A conditioning optimizer with per layer weighting...&lt;/a&gt;&lt;/h3&gt;
+
+    &lt;p&gt;&lt;span class=&quot;github-repo-description&quot;&gt;A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467975&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Claude是咋了，又崩了</title>
+      <link>https://linux.do/t/topic/2467831</link>
+      <guid>linux.do-topic-2467831</guid>
+      <pubDate>Wed, 24 Jun 2026 13:24:22 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/3/9/639d6dacdbffb21e16fed341c3c9670fac44df91.png&quot; data-download-href=&quot;/uploads/short-url/edeyCvRDPR6y2aN3ijPsJ1eWSDn.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/9/639d6dacdbffb21e16fed341c3c9670fac44df91_2_690x126.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;edeyCvRDPR6y2aN3ijPsJ1eWSDn&quot; width=&quot;690&quot; height=&quot;126&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/9/639d6dacdbffb21e16fed341c3c9670fac44df91_2_690x126.png, https://cdn3.ldstatic.com/optimized/4X/6/3/9/639d6dacdbffb21e16fed341c3c9670fac44df91_2_1035x189.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/3/9/639d6dacdbffb21e16fed341c3c9670fac44df91_2_1380x252.png 2x&quot; data-dominant-color=&quot;F7DCB3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/e/1/be1e32a2a6d715e70495a37210fcb26f8deaba72_2_690x45.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;r7RpUg3YmGmMFXSNrUthHizczp8&quot; width=&quot;690&quot; height=&quot;45&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/e/1/be1e32a2a6d715e70495a37210fcb26f8deaba72_2_690x45.png, https://cdn3.ldstatic.com/optimized/4X/b/e/1/be1e32a2a6d715e70495a37210fcb26f8deaba72_2_1035x67.png 1.5x, https://cdn3.ldstatic.com/original/4X/b/e/1/be1e32a2a6d715e70495a37210fcb26f8deaba72.png 2x&quot; data-dominant-color=&quot;102D36&quot;&gt;&lt;br&gt;
+继昨天claude崩了之后，今天差不多同样时间claude又崩了&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467831&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>iFAST 全中文网络研讨会《告别“只存不用”：iGB消费支付即将上线》（没错，全中文的）</title>
+      <link>https://linux.do/t/topic/2467822</link>
+      <guid>linux.do-topic-2467822</guid>
+      <pubDate>Wed, 24 Jun 2026 13:21:38 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/6/7/a673cf3e7585916304065ef683b10637d4a89895.png&quot; data-download-href=&quot;/uploads/short-url/nKvnCc92sgK66oSlNqYAX8UQoaF.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/7/a673cf3e7585916304065ef683b10637d4a89895_2_255x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nKvnCc92sgK66oSlNqYAX8UQoaF&quot; width=&quot;255&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/7/a673cf3e7585916304065ef683b10637d4a89895_2_255x500.png, https://cdn3.ldstatic.com/optimized/4X/a/6/7/a673cf3e7585916304065ef683b10637d4a89895_2_382x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/6/7/a673cf3e7585916304065ef683b10637d4a89895_2_510x1000.png 2x&quot; data-dominant-color=&quot;F7F7F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;网络研讨会 《告别“只存不用”：iGB消费支付即将上线》&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;日期：2026年6月30日&lt;/p&gt;
+&lt;p&gt;时间：北京时间晚上8点&lt;/p&gt;
+&lt;p&gt;报名链接:  &lt;a href=&quot;https://ifastgb.zoom.us/webinar/register/WN_0msNPh2iS5SyL9s45MwqDA&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;网络研讨会注册 - Zoom&lt;/a&gt;  （不知道有没有佬去参加下？）&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467822&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>疑似ChatGPT前端正在测试新功能，5.6要来了吗？</title>
+      <link>https://linux.do/t/topic/2467818</link>
+      <guid>linux.do-topic-2467818</guid>
+      <pubDate>Wed, 24 Jun 2026 13:21:08 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/6/5/e65eaccb98e4fcdd5ebf1c77d7d4792b8bdd5147.png&quot; data-download-href=&quot;/uploads/short-url/wRWEOWXDHeID3PIx01jaPwbvSkv.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/6/5/e65eaccb98e4fcdd5ebf1c77d7d4792b8bdd5147.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wRWEOWXDHeID3PIx01jaPwbvSkv&quot; width=&quot;658&quot; height=&quot;496&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;现在的网页端会进行多轮工具调用，并显示调用详情，有点像是codex，难道说是之前说的合并codex和app要来了吗&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467818&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Claude Opus 4.8 又挂咯！24-6-2026</title>
+      <link>https://linux.do/t/topic/2467816</link>
+      <guid>linux.do-topic-2467816</guid>
+      <pubDate>Wed, 24 Jun 2026 13:21:01 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/3/9/93910c1cec1b6afb1dec84d382553e3368871b07.png&quot; data-download-href=&quot;/uploads/short-url/l3qWW67v84CEFgu3Ln2UvUh2HDF.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/3/9/93910c1cec1b6afb1dec84d382553e3368871b07_2_660x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;l3qWW67v84CEFgu3Ln2UvUh2HDF&quot; width=&quot;660&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/3/9/93910c1cec1b6afb1dec84d382553e3368871b07_2_660x500.png, https://cdn3.ldstatic.com/optimized/4X/9/3/9/93910c1cec1b6afb1dec84d382553e3368871b07_2_990x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/3/9/93910c1cec1b6afb1dec84d382553e3368871b07_2_1320x1000.png 2x&quot; data-dominant-color=&quot;EEE0D4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467816&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>现货黄金跌破4000美元大关</title>
+      <link>https://linux.do/t/topic/2467745</link>
+      <guid>linux.do-topic-2467745</guid>
+      <pubDate>Wed, 24 Jun 2026 13:04:55 GMT</pubDate>
+      <description>
+            &lt;p&gt;现货黄金跌破4000美元/盎司关口，为去年11月以来首次，较今年所创下的5596美元/盎司的历史高位已跌去约1600美元。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;29 个帖子 - 23 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467745&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>中国银行被审计署通报：将私募包装成公募逃税 23.67 亿元</title>
+      <link>https://linux.do/t/topic/2467584</link>
+      <guid>linux.do-topic-2467584</guid>
+      <pubDate>Wed, 24 Jun 2026 12:34:50 GMT</pubDate>
+      <description>
+            &lt;p&gt;审计署通报，中国银行在 2023 年 4 月至 2025 年 8 月期间，通过下属机构组织员工每人出资 1 至 100 元凑人数，将 11 只私募基金包装成公募基金，利用税收优惠政策逃避税款 23.67 亿元。&lt;/p&gt;
+&lt;p&gt;这一操作被指是系统的“监管套利”，而非业务疏忽。事件暴露出部分国有大行在转型压力下合规底线松动，内部风控和审批环节未能有效制衡，近两年半的违规操作直到审计才被揭开。&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.sohu.com/a/1041055982_121934756&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/f/f/eff714e5df717a8746a39907ece0eb2876dadd09.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;AB750A&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.sohu.com/a/1041055982_121934756&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;sohu.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/354;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/3/1/831c0f3ec491ec70ad62123b8b8877324f86222c_2_690x354.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;C2BDB7&quot; width=&quot;690&quot; height=&quot;354&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.sohu.com/a/1041055982_121934756&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;突发！中国银行逃税23.67亿被审计署通报&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;这几天，金融圈被一则重磅消息炸开了锅：作为国有大行的中国银行，竟然被审计署通报，利用下属机构通道，通过“凑人头”的奇葩操作，违规将11只私募基金包装成公募基金，借此逃避了高达23.67亿元的税款！结果到了中行…&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;转自 @ TestFlightCN&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467584&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>宇树R1人形机器人降价至2.99万元起</title>
       <link>https://linux.do/t/topic/2467380</link>
@@ -12,7 +254,7 @@
       <pubDate>Wed, 24 Jun 2026 11:52:15 GMT</pubDate>
       <description>
             &lt;p&gt;宇树科技宣布旗下双足人形机器人Unitree R1官方售价由3.99万元下调至2.99万元起，并即日起开放现货销售。该机器人重25千克，配备26个高精度关节，支持语音与图像多模态大模型交互，具备开发与定制能力。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467380&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -25,7 +267,7 @@
             &lt;p&gt;这是学百炼来了，一模一样，开了个坏头..&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/8/5/d857ff1ab1d85ccfde94d292a3490f605a2731c2.png&quot; data-download-href=&quot;/uploads/short-url/uRRFfdXa937pJrJOEPF15GkoPku.png?dl=1&quot; title=&quot;微信图片_20260624193424&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/8/5/d857ff1ab1d85ccfde94d292a3490f605a2731c2_2_690x469.png&quot; alt=&quot;微信图片_20260624193424&quot; data-base62-sha1=&quot;uRRFfdXa937pJrJOEPF15GkoPku&quot; width=&quot;690&quot; height=&quot;469&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/8/5/d857ff1ab1d85ccfde94d292a3490f605a2731c2_2_690x469.png, https://cdn3.ldstatic.com/original/4X/d/8/5/d857ff1ab1d85ccfde94d292a3490f605a2731c2.png 1.5x, https://cdn3.ldstatic.com/original/4X/d/8/5/d857ff1ab1d85ccfde94d292a3490f605a2731c2.png 2x&quot; data-dominant-color=&quot;F8F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/6/2/a62e3c53cd516592702256a9c2323e74297dfa9c.png&quot; data-download-href=&quot;/uploads/short-url/nI6jOfWdeWs92o7e6ytnxALKquM.png?dl=1&quot; title=&quot;微信图片_20260624193442&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/2/a62e3c53cd516592702256a9c2323e74297dfa9c_2_690x489.png&quot; alt=&quot;微信图片_20260624193442&quot; data-base62-sha1=&quot;nI6jOfWdeWs92o7e6ytnxALKquM&quot; width=&quot;690&quot; height=&quot;489&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/2/a62e3c53cd516592702256a9c2323e74297dfa9c_2_690x489.png, https://cdn3.ldstatic.com/original/4X/a/6/2/a62e3c53cd516592702256a9c2323e74297dfa9c.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/6/2/a62e3c53cd516592702256a9c2323e74297dfa9c.png 2x&quot; data-dominant-color=&quot;F9F9F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467299&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -37,7 +279,7 @@
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/3/7/0372e5aaa3eab8906deafcc963ad374a3290859f.jpeg&quot; data-download-href=&quot;/uploads/short-url/uvB6czl6f62b8CPxRwujlw4LRd.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/3/7/0372e5aaa3eab8906deafcc963ad374a3290859f_2_690x310.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;uvB6czl6f62b8CPxRwujlw4LRd&quot; width=&quot;690&quot; height=&quot;310&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/3/7/0372e5aaa3eab8906deafcc963ad374a3290859f_2_690x310.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/3/7/0372e5aaa3eab8906deafcc963ad374a3290859f_2_1035x465.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/3/7/0372e5aaa3eab8906deafcc963ad374a3290859f_2_1380x620.jpeg 2x&quot; data-dominant-color=&quot;EDEDEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;刚刚收到一封邮件，ifast 要支持中国内地支付了&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467293&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -74,7 +316,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;26 个帖子 - 24 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467283&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -129,7 +371,7 @@
             &lt;p&gt;刚才更换了gmail的地址，然后测试了一下旧地址发送邮件的效果，发给了自己的163邮箱，可以看到新、旧两个地址。&lt;/p&gt;
 &lt;p&gt;过两天再试一下，问了gemini，回复说可能过一段时间就不显示了。存疑。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/c/d/5cd93e596eab2cea5f942db1a118ef0ba96a5a70.png&quot; data-download-href=&quot;/uploads/short-url/dfnmU97HvsgvNF2xQaGaeLD3J3a.png?dl=1&quot; title=&quot;2026-06-24_19-09-51&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/c/d/5cd93e596eab2cea5f942db1a118ef0ba96a5a70_2_690x259.png&quot; alt=&quot;2026-06-24_19-09-51&quot; data-base62-sha1=&quot;dfnmU97HvsgvNF2xQaGaeLD3J3a&quot; width=&quot;690&quot; height=&quot;259&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/c/d/5cd93e596eab2cea5f942db1a118ef0ba96a5a70_2_690x259.png, https://cdn3.ldstatic.com/optimized/4X/5/c/d/5cd93e596eab2cea5f942db1a118ef0ba96a5a70_2_1035x388.png 1.5x, https://cdn3.ldstatic.com/original/4X/5/c/d/5cd93e596eab2cea5f942db1a118ef0ba96a5a70.png 2x&quot; data-dominant-color=&quot;F0E9EA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467213&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -271,346 +513,8 @@ deepseek和GLM：来了没啊 来没来啊 &lt;img src=&quot;https://cdn.ldstati
       <pubDate>Wed, 24 Jun 2026 07:14:26 GMT</pubDate>
       <description>
             &lt;p&gt;如题，&lt;a href=&quot;https://chat.z.ai/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://chat.z.ai/&lt;/a&gt; 里面的agent里面有一个微信的绑定，试了一下竟然是香港节点的docker，试了下可以tmate 出来，其他玩法大家各显神通，&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;6 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2465414&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>以开源模型挑战美国霸主地位，英国政府斥资 6000 万英镑建 AI 实验室</title>
-      <link>https://linux.do/t/topic/2465411</link>
-      <guid>linux.do-topic-2465411</guid>
-      <pubDate>Wed, 24 Jun 2026 07:14:01 GMT</pubDate>
-      <description>
-            &lt;p&gt;英国政府今天宣布拨款 6000 万英镑（现汇率约合 5.39 亿元人民币），为牛津大学、伦敦大学学院（UCL）建立两座 AI 实验室。旨在开发低硬件需求的开源 AI 模型，减少依赖美国大型科技公司产品。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/b/a/0ba962ce312a0b08ceeba574e4e45a5633f58d71.jpeg&quot; data-download-href=&quot;/uploads/short-url/1Fa9UITA4mAyWkbtJcOf4H9gWyt.jpeg?dl=1&quot; title=&quot;17822851878486567842261572314718&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/b/a/0ba962ce312a0b08ceeba574e4e45a5633f58d71_2_453x499.jpeg&quot; alt=&quot;17822851878486567842261572314718&quot; data-base62-sha1=&quot;1Fa9UITA4mAyWkbtJcOf4H9gWyt&quot; width=&quot;453&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/b/a/0ba962ce312a0b08ceeba574e4e45a5633f58d71_2_453x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/b/a/0ba962ce312a0b08ceeba574e4e45a5633f58d71_2_679x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/b/a/0ba962ce312a0b08ceeba574e4e45a5633f58d71_2_906x998.jpeg 2x&quot; data-dominant-color=&quot;D9DEE2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;据悉，牛津大学、UCL 将共同参与该项目，共同设计 AI 基础数学理论、改进 AI 模型架构、开发低算力需求的 AI 系统，与美国等国家普遍采用的闭源、高算力方案形成鲜明对比。&lt;/p&gt;
-&lt;p&gt;英国 AI 事务部长 Kanishka Narayan 指出，新实验室将让 AI 变得更便宜、更容易部署、更实用，让更多企业和公共服务都能接入 AI，确保英国处于领先地位。&lt;/p&gt;
-&lt;p&gt;此外，两所大学还将拨款 200 万英镑(即约合 1795.8 万元人民币)培养博士生，并至少招聘 10 名研究人员，扩大 AI 人才库储备。&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.ithome.com/0/967/628.htm&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/f/b/4fbb2870cf699a2389c9964ba5400d080ce7a0bd.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;DC5353&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.ithome.com/0/967/628.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;ithome.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.ithome.com/0/967/628.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;以开源模型挑战美国霸主地位，英国政府斥资 6000 万英镑建 AI 实验室 - IT之家&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;英国政府宣布拨款 6000 万英镑，在牛津大学和伦敦大学学院建立两座 AI 实验室。核心目标是开发对硬件要求低的开源 AI 模型，旨在减少对美国科技巨头的依赖，让 AI 变得更便宜、更易部署。项目还将投入 200 万英镑培养博士生，并招聘至少 10 名研究人员。#英国 AI 实验室# #开源 AI 挑战#&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.gov.uk/government/news/uk-backs-new-ai-labs-to-make-technology-cheaper-more-reliable-and-easier-to-use&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/d/3/3d3ab4be5a57c5c67701218be6e0768ff3dfc1c6.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;5392C9&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
-
-      &lt;a href=&quot;https://www.gov.uk/government/news/uk-backs-new-ai-labs-to-make-technology-cheaper-more-reliable-and-easier-to-use&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;GOV.UK&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/2/8/1288e935aa2f13c43f6906ced9d75cb9585f9007.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;2575BB&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.gov.uk/government/news/uk-backs-new-ai-labs-to-make-technology-cheaper-more-reliable-and-easier-to-use&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;UK backs new AI labs to make technology cheaper, more reliable and easier to use&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Oxford and UCL to host new government-backed labs developing the next generation of AI that more businesses and services can readily use&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;38 个帖子 - 32 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2465411&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>前 Google 员工称因做了 Google Workspace CLI 被解雇</title>
-      <link>https://linux.do/t/topic/2465404</link>
-      <guid>linux.do-topic-2465404</guid>
-      <pubDate>Wed, 24 Jun 2026 07:12:42 GMT</pubDate>
-      <description>
-            &lt;p&gt;一位前 Google 员工 Justin Poehnelt 发文说，他两个月前因为创建了一个叫 GoogleWorkspaceCLI 的开源项目而被 Google 解雇。这个项目当时在 Hacker News 上冲到第一，几天内拿到数千 GitHub stars，也有不少真实用户。&lt;/p&gt;
-&lt;p&gt;他在原文里提到，事情最讽刺的地方是，在他被解雇前两天，Google Cloud Next 刚宣布官方 Workspace CLI 即将推出。&lt;/p&gt;
-&lt;p&gt;这件事表面上是品牌、代码仓库、内部合规的问题，但从他的描述看，更深一层可能是 Workspace 这类传统办公产品面对 agents 和 CLI 工作流时的组织性焦虑。&lt;/p&gt;
-&lt;p&gt;不一定要急着判断谁对谁错，但这个案例很值得 AI builder 看：&lt;/p&gt;
-&lt;p&gt;当一个员工用 agent/CLI 的方式重新组织产品入口，而且增长速度比内部项目还快时，大公司到底会把它看成创新，还是威胁？&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/a/1/da15ae949de88a8b765303fd9e878f2ceba81608.jpeg&quot; data-download-href=&quot;/uploads/short-url/v7gxBbJBTY2uCpUAljaFZxH7K52.jpeg?dl=1&quot; title=&quot;d64c1f3fbbc9cdf0452c74062425cb9e&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/a/1/da15ae949de88a8b765303fd9e878f2ceba81608_2_333x499.jpeg&quot; alt=&quot;d64c1f3fbbc9cdf0452c74062425cb9e&quot; data-base62-sha1=&quot;v7gxBbJBTY2uCpUAljaFZxH7K52&quot; width=&quot;333&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/a/1/da15ae949de88a8b765303fd9e878f2ceba81608_2_333x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/a/1/da15ae949de88a8b765303fd9e878f2ceba81608_2_499x748.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/a/1/da15ae949de88a8b765303fd9e878f2ceba81608_2_666x998.jpeg 2x&quot; data-dominant-color=&quot;ADAEAE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2465404&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>日本旅游签证7月1日正式涨价！</title>
-      <link>https://linux.do/t/topic/2465400</link>
-      <guid>linux.do-topic-2465400</guid>
-      <pubDate>Wed, 24 Jun 2026 07:12:24 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/c/9/6c983e7ef2e78c29466e3a7728d0662393c5f8d7.png&quot; data-download-href=&quot;/uploads/short-url/fuFKoCDnwQya2FU2YOTWpOXTtyL.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/c/9/6c983e7ef2e78c29466e3a7728d0662393c5f8d7_2_690x286.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fuFKoCDnwQya2FU2YOTWpOXTtyL&quot; width=&quot;690&quot; height=&quot;286&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/c/9/6c983e7ef2e78c29466e3a7728d0662393c5f8d7_2_690x286.png, https://cdn3.ldstatic.com/optimized/4X/6/c/9/6c983e7ef2e78c29466e3a7728d0662393c5f8d7_2_1035x429.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/c/9/6c983e7ef2e78c29466e3a7728d0662393c5f8d7_2_1380x572.png 2x&quot; data-dominant-color=&quot;EFEFF4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.shanghai.cn.emb-japan.go.jp/itpr_ja/11_000001_00633.html&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.shanghai.cn.emb-japan.go.jp/itpr_ja/11_000001_00633.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;PS：这里的签证费用指的是使馆给旅行社的价格，由于日本签证没法个人递签，所以国内旅行社肯定也会涨价，涨多少就看旅行社了&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;35 个帖子 - 32 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2465400&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>刷新世界算力新高度 “灵晟”问鼎全球超算TOP500，时隔九年，我国超算再次排名全球第一。</title>
-      <link>https://linux.do/t/topic/2465162</link>
-      <guid>linux.do-topic-2465162</guid>
-      <pubDate>Wed, 24 Jun 2026 06:40:29 GMT</pubDate>
-      <description>
-            &lt;p&gt;2026年6月23日，德国汉堡ISC2026大会（国际超算大会）发布全球超算Top500榜单：全国产自主研制的“灵晟”超级计算机搭载47,000颗华为鲲鹏CPU以2.19EFlops（每秒10&lt;sup&gt;18&lt;/sup&gt;次浮点运算）持续双精度浮点性能登顶全球超算TOP500，时隔九年，我国超算再次排名全球第一。&lt;/p&gt;
-&lt;p&gt;在全球超算顶级盛会ISC2026上，国家超级计算深圳中心发布新一代“灵晟”超算系统实测持续性能达到2.19EFlops，是世界首台持续性能超二百亿亿次（2EFlops）的超算系统，创新超智融合架构，领先美欧E级超算，中国超算重回世界首位。&lt;/p&gt;
-&lt;p&gt;“灵晟”定位为面向科学工程智能计算的国产全栈融合基础设施：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;在芯片层，自研LX2 CPU创新性引入多精度与矩阵加速等能力，实现片上超算算力与智能算力深度融合，并集成了首颗国产HBM（高宽带内存），内存带宽相比传统CPU提升10倍；&lt;/li&gt;
-&lt;li&gt;在网络层，自主设计的灵启高速互连网络可支持200万个端口、10万节点的超大规模组网；在存储层，采用分层架构，兼顾高性能作业区与容量型数据区，可扩展至E级；&lt;/li&gt;
-&lt;li&gt;在系统层，构建大规模超智融合框架，自研全栈软件，将底层硬件能力以可用、可编程、可优化的方式释放给应用，提高各领域应用性能；&lt;/li&gt;
-&lt;li&gt;在节能方面，首创100%全液冷散热计算机柜，以51GFlops/W能效比，在世界第一的持续性能之上，树立绿色计算新标杆。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;新闻来源：&lt;a href=&quot;https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13438311109487373102&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;更多资讯请下载央视新闻客户端&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2465162&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>小米电视紧急致歉：地震预警系研发人员误发</title>
-      <link>https://linux.do/t/topic/2465029</link>
-      <guid>linux.do-topic-2465029</guid>
-      <pubDate>Wed, 24 Jun 2026 06:24:36 GMT</pubDate>
-      <description>
-            &lt;p&gt;@小米电视 6月23日发布紧急澄清致歉：&lt;/p&gt;
-&lt;p&gt;2026年6月23日20:15，北京及周边区域部分小米电视用户收到的地震预警消息，系我方研发人员开展功能内部测试时操作失误，误将内部模拟测试数据推送至线上正式环境。该内容仅为测试虚构数据，并非官方真实地震预警，当前区域不存在地震险情。我们第一时间拦截错误信息，针对信息发布流程、测试环境机制全面整改，对造成的用户恐慌正式致歉。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.thepaper.cn/newsDetail_forward_33439602&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/0/5/5/055ae48f9be85a9fdba2219d864ed1e121d494e2.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;231815&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://www.thepaper.cn/newsDetail_forward_33439602&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;thepaper.cn&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.thepaper.cn/newsDetail_forward_33439602&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;小米电视紧急致歉：地震预警系研发人员误发_10%公司_澎湃新闻-The Paper&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;@小米电视 6月23日发布紧急澄清致歉： 2026年6月23日20:15，北京及周边区域部分小米电视用户收到的地震预警消息，系我方研发人员开展功能内部测试时操作&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;21 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2465029&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>用生成式 AI 写作业或降低中国学生考试成绩</title>
-      <link>https://linux.do/t/topic/2464876</link>
-      <guid>linux.do-topic-2464876</guid>
-      <pubDate>Wed, 24 Jun 2026 06:04:19 GMT</pubDate>
-      <description>
-            &lt;p&gt;一项对 26,811 名中国 7–12 年级学生、持续 30 个月的追踪研究发现，生成式 AI 虽能让作业成绩平均提高 18%、完成时间减少 30%，却伴随明显的考试分数下滑。学生在不能使用 AI 的闭卷月考中，6 个月内成绩平均下降约 20%；中考、高考等高风险考试成绩降低 18%–24%，且全部影响在约两年后充分显现。&lt;/p&gt;
-&lt;p&gt;其中，社科科目损失最大，其次是理工科和语言；低年级、高成就学生和男生受影响更明显。研究指出，约 80% 的 AI 用户表现出“作业外包”特征——作业时间极短但分数高，这类学生承担了主要损失；而保持与非 AI 用户相近作业时长的使用者，损失则较小。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://cepr.org/publications/dp21577&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/9/8/a989cc82261a3f2b34ac628504ec517bc1376bba.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;191998&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://cepr.org/publications/dp21577&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;CEPR&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://cepr.org/publications/dp21577&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;DP21577 The Generative AI Learning Penalty: Evidence from Chinese Secondary...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Using 30 months of panel data on 26,811 Chinese students in grades 7--12, we study how generative AI affects homework productivity and learning. The data combine monthly closed-book exams, high-school and college entrance exams, and homework scores...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;这不是废话吗..写作业不就是反复训练吗，你都让AI给你写了，你怎么训练啊，考试又不让你用AI，你平时都用计算器考试成绩也会下降啊&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;19 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2464876&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>豆包付费正式上线了</title>
-      <link>https://linux.do/t/topic/2464833</link>
-      <guid>linux.do-topic-2464833</guid>
-      <pubDate>Wed, 24 Jun 2026 05:59:24 GMT</pubDate>
-      <description>
-            &lt;p&gt;刚看到，正式上线了&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/5/3/3536ea69708d91757b61e48cfe8912a4bfb090b5.jpeg&quot; data-download-href=&quot;/uploads/short-url/7AKXELhjMwy2abKOSyfYPvitz8x.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-24-13-56-30-257_com.larus.nova-edit&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/3/3536ea69708d91757b61e48cfe8912a4bfb090b5_2_234x500.jpeg&quot; alt=&quot;Screenshot_2026-06-24-13-56-30-257_com.larus.nova-edit&quot; data-base62-sha1=&quot;7AKXELhjMwy2abKOSyfYPvitz8x&quot; width=&quot;234&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/5/3/3536ea69708d91757b61e48cfe8912a4bfb090b5_2_234x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/5/3/3536ea69708d91757b61e48cfe8912a4bfb090b5_2_351x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/5/3/3536ea69708d91757b61e48cfe8912a4bfb090b5_2_468x1000.jpeg 2x&quot; data-dominant-color=&quot;E6ECF5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/a/f/0af38195a7d68f23a14ba2871df6c0dbe6bb79fe.jpeg&quot; data-download-href=&quot;/uploads/short-url/1ySu1GEhjGVUctFJosNejc9SGSy.jpeg?dl=1&quot; title=&quot;Screenshot_2026-06-24-13-59-58-402_com.larus.nova-edit&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/a/f/0af38195a7d68f23a14ba2871df6c0dbe6bb79fe_2_234x500.jpeg&quot; alt=&quot;Screenshot_2026-06-24-13-59-58-402_com.larus.nova-edit&quot; data-base62-sha1=&quot;1ySu1GEhjGVUctFJosNejc9SGSy&quot; width=&quot;234&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/a/f/0af38195a7d68f23a14ba2871df6c0dbe6bb79fe_2_234x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/0/a/f/0af38195a7d68f23a14ba2871df6c0dbe6bb79fe_2_351x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/0/a/f/0af38195a7d68f23a14ba2871df6c0dbe6bb79fe_2_468x1000.jpeg 2x&quot; data-dominant-color=&quot;F3F5F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-标准版68一个月，加强200，高级500。&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;能用2.1pro，更大上下文，其他功能额度更多，感觉没啥吸引力&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;40 个帖子 - 38 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2464833&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>现实社交互动中，心率趋于一致</title>
-      <link>https://linux.do/t/topic/2464499</link>
-      <guid>linux.do-topic-2464499</guid>
-      <pubDate>Wed, 24 Jun 2026 04:57:07 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://neurosciencenews.com/heart-rate-synchrony-social-engagement-30947/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/d/e/deec764f26479399ccf917221594348bf0adfee8.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;8B8BAE&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
-
-      &lt;a href=&quot;https://neurosciencenews.com/heart-rate-synchrony-social-engagement-30947/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;08:17PM - 23 June 2026&quot;&gt;Neuroscience News – 23 Jun 26&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/459;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/2/7/827a896096aebf8ae197bd01cd199700f078159f_2_690x459.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;AE6A26&quot; width=&quot;690&quot; height=&quot;459&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://neurosciencenews.com/heart-rate-synchrony-social-engagement-30947/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Heart Rates Align in Real-World Social Interactions - Neuroscience News&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Researchers track 72 students to prove heart rates synchronize during close proximity and shared attention, serving as a real-world marker for social engagement.&lt;/p&gt;
-
-  &lt;p&gt;
-    &lt;span class=&quot;label1&quot;&gt;Est. reading time: 6 minutes&lt;/span&gt;
-  &lt;/p&gt;
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;当人们共享同一物理空间并建立起相互联系时，他们的身体会开始同步运作。一项新的自然研究表明，当人们在身体和情感上都十分亲近时，他们的心率会自然而然地趋于一致，同步升降。&lt;/p&gt;
-&lt;p&gt;这项研究追踪了72名前往纽约市参加音频工程比赛的学生。参与者佩戴了可穿戴传感器，包括用于追踪环境噪音的助听器、用于监测心率的Garmin腕带和移动GPS追踪设备，并在真实环境中进行活动。&lt;/p&gt;
-&lt;p&gt;研究人员发现，当人们彼此距离在20米以内时，尤其是在注意力高度集中或彼此非常熟悉的情况下，心脏同步性会显著增强。而嘈杂混乱的聆听环境会破坏这种生物联系。这些发现有力地证明，人际间的生理同步性并非只存在于实验室环境中，它可以作为衡量日常生活中人际关系的一种指标。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://academic.oup.com/pnasnexus/article/5/6/pgag181/8713053&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://academic.oup.com/pnasnexus/article/5/6/pgag181/8713053&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2464499&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>kiro下个月就不能开超额了</title>
-      <link>https://linux.do/t/topic/2464474</link>
-      <guid>linux.do-topic-2464474</guid>
-      <pubDate>Wed, 24 Jun 2026 04:54:52 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/6/4/7643605b7e0a7dda09fea7cbd694aa40288249c5.png&quot; data-download-href=&quot;/uploads/short-url/gScH4IwGZLgPGtd3jl1ypgTijT7.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/6/4/7643605b7e0a7dda09fea7cbd694aa40288249c5_2_690x362.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gScH4IwGZLgPGtd3jl1ypgTijT7&quot; width=&quot;690&quot; height=&quot;362&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/6/4/7643605b7e0a7dda09fea7cbd694aa40288249c5_2_690x362.png, https://cdn3.ldstatic.com/optimized/4X/7/6/4/7643605b7e0a7dda09fea7cbd694aa40288249c5_2_1035x543.png 1.5x, https://cdn3.ldstatic.com/original/4X/7/6/4/7643605b7e0a7dda09fea7cbd694aa40288249c5.png 2x&quot; data-dominant-color=&quot;E2E1E2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2464474&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>LastPass 证实 Klue 供应链攻击导致数据泄露</title>
-      <link>https://linux.do/t/topic/2464270</link>
-      <guid>linux.do-topic-2464270</guid>
-      <pubDate>Wed, 24 Jun 2026 04:19:23 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/b/c/ebc4119b98c1fc842309ebf09852e0c5c96ba856.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;869FBF&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;BleepingComputer&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/2/d/72d125218fb99d36d1c03b958a894d2558fedc84_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;200F14&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;LastPass confirms data breach in Klue supply chain attack&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company&#39;s OAuth tokens in the Klue supply chain attack earlier this month.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;LastPass 宣布，在本月初的 Klue 供应链攻击中，黑客窃取了该公司的 OAuth 令牌，并从其 Salesforce 环境中访问了客户数据。&lt;/p&gt;
-&lt;p&gt;LastPass 表示：“6 月 12 日，LastPass 获悉 Klue  发生了一起事件。Klue 是我们市场推广团队使用的第三方市场情报平台，它与我们的 Salesforce 和 Gong 系统集成。”&lt;/p&gt;
-&lt;p&gt;“我们立即展开调查，发现在此事件中，未经授权的攻击者获取了 Klue 为包括 LastPass 在内的许多客户持有的 OAuth 令牌。”&lt;/p&gt;
-&lt;p&gt;“攻击者随后利用这些凭证访问了我们 Salesforce 环境中的 LastPass 客户数据。”&lt;/p&gt;
-&lt;p&gt;对该事件的调查并未发现任何证据表明攻击者访问了 Gong 的相关数据，这些数据通常包括客户通话和电子邮件。&lt;/p&gt;
-&lt;p&gt;据 LastPass 称，以下数据可能已泄露：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;客户名称&lt;/li&gt;
-&lt;li&gt;电话号码&lt;/li&gt;
-&lt;li&gt;电子邮件地址&lt;/li&gt;
-&lt;li&gt;物理地址&lt;/li&gt;
-&lt;li&gt;支持案例信息&lt;/li&gt;
-&lt;li&gt;销售/CRM相关数据&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Klue 供应链攻击事件由 Icarus 勒索组织认领，该组织入侵了人工智能驱动的市场情报平台的基础设施，并窃取了连接客户 Salesforce 环境的 OAuth 令牌。&lt;/p&gt;
-&lt;p&gt;Icarus黑客利用被盗用的集成服务旧版凭证入侵了Klue的基础设施。这使他们能够访问连接Klue与各种第三方服务的OAuth令牌。&lt;/p&gt;
-&lt;p&gt;此次事件影响了多家机构，包括 Recorded Future、Tanium、Jamf、Sprout Social、Gong 和 Insurity。&lt;/p&gt;
-&lt;p&gt;LastPass 已禁用员工对 Klue 的访问权限，轮换了暴露的 API/OAuth 令牌，并在调查进行期间通知了执法部门。&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2464270&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>豆包推出专业版，标准套餐连续包月68元，加强套餐连续包月200元，高级套餐连续包月500元</title>
-      <link>https://linux.do/t/topic/2464260</link>
-      <guid>linux.do-topic-2464260</guid>
-      <pubDate>Wed, 24 Jun 2026 04:17:23 GMT</pubDate>
-      <description>
-            &lt;p&gt;（话题已被作者删除）&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2464260&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>（慢慢讯）Claude聊天机器人 Claude Tag</title>
-      <link>https://linux.do/t/topic/2464106</link>
-      <guid>linux.do-topic-2464106</guid>
-      <pubDate>Wed, 24 Jun 2026 03:52:37 GMT</pubDate>
-      <description>
-            &lt;p&gt;Claude Tag 的入口变成了 Slack 频道：管理员先选定频道，再给 Claude 接上对应工具、数据和代码库。频道里任何成员都可以 &lt;a class=&quot;mention&quot; href=&quot;https://linux.do/u/claude&quot;&gt;@Claude&lt;/a&gt;，让它接活。&lt;/p&gt;
-&lt;p&gt;在一个特定的 Slack 频道里，只有一个统一的 Claude 身份。任何人在频道内直接 &lt;a class=&quot;mention&quot; href=&quot;https://linux.do/u/claude&quot;&gt;@Claude&lt;/a&gt; 派发任务时，它的任务进展、对话上下文和最终结果，都能直接被频道里的其他人看到。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/0/7/0/07058712b94376f69e3838dac1c3225f981ac73a.jpeg&quot; data-download-href=&quot;/uploads/short-url/107btQGcWtM9TohVIjAGyjhlPZw.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/7/0/07058712b94376f69e3838dac1c3225f981ac73a_2_690x357.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;107btQGcWtM9TohVIjAGyjhlPZw&quot; width=&quot;690&quot; height=&quot;357&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/0/7/0/07058712b94376f69e3838dac1c3225f981ac73a_2_690x357.jpeg, https://cdn3.ldstatic.com/original/4X/0/7/0/07058712b94376f69e3838dac1c3225f981ac73a.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/0/7/0/07058712b94376f69e3838dac1c3225f981ac73a.jpeg 2x&quot; data-dominant-color=&quot;BAB7CF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2464106&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
