@@ -4,7 +4,360 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 06:39:20 GMT</lastBuildDate>
+    <item>
+      <title>今天codex里的gpt是不是出问题了？一直报service unavailable</title>
+      <link>https://linux.do/t/topic/2472684</link>
+      <guid>linux.do-topic-2472684</guid>
+      <pubDate>Thu, 25 Jun 2026 06:33:20 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/6/c/a6c51bb25ed0b5f42584328ee41ef2dfb035fa0c.png&quot; data-download-href=&quot;/uploads/short-url/nNjyS2nYTJOEHhyDxqgUkcUgYaM.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/c/a6c51bb25ed0b5f42584328ee41ef2dfb035fa0c_2_440x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nNjyS2nYTJOEHhyDxqgUkcUgYaM&quot; width=&quot;440&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/c/a6c51bb25ed0b5f42584328ee41ef2dfb035fa0c_2_440x500.png, https://cdn3.ldstatic.com/optimized/4X/a/6/c/a6c51bb25ed0b5f42584328ee41ef2dfb035fa0c_2_660x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/6/c/a6c51bb25ed0b5f42584328ee41ef2dfb035fa0c_2_880x1000.png 2x&quot; data-dominant-color=&quot;F4F6F1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2472684&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>DeepSeek 在灰度新模型了？专家模式下询问它回答支持原生多模态（图像+音频+视频），是幻觉吗？</title>
+      <link>https://linux.do/t/topic/2472610</link>
+      <guid>linux.do-topic-2472610</guid>
+      <pubDate>Thu, 25 Jun 2026 06:25:26 GMT</pubDate>
+      <description>
+            &lt;p&gt;试了好多次都是稳定回答“具备原生多模态能力，理解图像、音频、视频等”，像是系统提示词，虽然专家模式因为被人薅爆了的原因上传文件早给关了没法测试。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://chat.deepseek.com/share/5kx6ws60icz7arjrm4&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://chat.deepseek.com/share/5kx6ws60icz7arjrm4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Edit：我去分享怎么失效了？又试了一个新对话还是说支持&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://chat.deepseek.com/share/2gd1ckx0kdymvfu08f&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://chat.deepseek.com/share/2gd1ckx0kdymvfu08f&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2472610&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Claude桌面客户端升级后不能用1M上下文了吗</title>
+      <link>https://linux.do/t/topic/2472456</link>
+      <guid>linux.do-topic-2472456</guid>
+      <pubDate>Thu, 25 Jun 2026 06:12:08 GMT</pubDate>
+      <description>
+            &lt;p&gt;目前使用最新的Claude for Mac Version 1.15200.0 (250bae)，是用的订阅账号经sub2api转的api接入。&lt;/p&gt;
+&lt;p&gt;现在只要输入/model [claude-opus-4-8[1m]]切换到1M上下文就会无法连接，以前也是这样设置这样使用都没有任何问题，就是最近升级后发现的问题。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/7/3/f735f0dc346b86a6ebfe2a7fbb964a6d5c04e8cd.png&quot; data-download-href=&quot;/uploads/short-url/zgVvbnAMJYMUsSR6qHyu792NgT3.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/7/3/f735f0dc346b86a6ebfe2a7fbb964a6d5c04e8cd.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zgVvbnAMJYMUsSR6qHyu792NgT3&quot; width=&quot;672&quot; height=&quot;253&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/d/a/adaa7a886735017cb64d4ae55e44a5719decee01.png&quot; data-download-href=&quot;/uploads/short-url/oMjQM0e14jjFAnyeMf88xZNYxrz.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/d/a/adaa7a886735017cb64d4ae55e44a5719decee01.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;oMjQM0e14jjFAnyeMf88xZNYxrz&quot; width=&quot;530&quot; height=&quot;242&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/4/3/a43983db4e85c8717248d5ddb9e3097d808e1cdb.png&quot; data-download-href=&quot;/uploads/short-url/nqNwTFLXR2mC01HWxXS3cedp34f.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/4/3/a43983db4e85c8717248d5ddb9e3097d808e1cdb.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nqNwTFLXR2mC01HWxXS3cedp34f&quot; width=&quot;244&quot; height=&quot;269&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2472456&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>网易推出面向技术工作者 100%开源桌面级Agent: LobsterAI</title>
+      <link>https://linux.do/t/topic/2472210</link>
+      <guid>linux.do-topic-2472210</guid>
+      <pubDate>Thu, 25 Jun 2026 05:37:31 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://lobsterai.youdao.com/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/9/a/19a2498b61397edb0cce448c7a3fa003b16aa8c2.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;FC011A&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://lobsterai.youdao.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;LobsterAI 有道龙虾&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/7/6/c764c9370789d9e5efbc617a9a6e473ca3dbb09b_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;F5643B&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://lobsterai.youdao.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;LobsterAI 有道龙虾 - 全场景办公助手 Agent&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;LobsterAI（有道龙虾）一键安装，打开即用，7×24 小时帮你干活的全场景办公助手 Agent。&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/f/2/bf2ad2f04b5b3636ced01bdd22678ffc8b5a50a0.jpeg&quot; data-download-href=&quot;/uploads/short-url/rh8WHwORVor6YfEHUuOpApgSt20.jpeg?dl=1&quot; title=&quot;ime_paste_1782365828240.jpeg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/f/2/bf2ad2f04b5b3636ced01bdd22678ffc8b5a50a0_2_151x500.jpeg&quot; alt=&quot;ime_paste_1782365828240.jpeg&quot; data-base62-sha1=&quot;rh8WHwORVor6YfEHUuOpApgSt20&quot; width=&quot;151&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/f/2/bf2ad2f04b5b3636ced01bdd22678ffc8b5a50a0_2_151x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/f/2/bf2ad2f04b5b3636ced01bdd22678ffc8b5a50a0_2_226x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/f/2/bf2ad2f04b5b3636ced01bdd22678ffc8b5a50a0_2_302x1000.jpeg 2x&quot; data-dominant-color=&quot;F2E5DC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2472210&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>彭博社电：受 Anthropic 人工智能指控影响，阿里巴巴股价跌至16个月低点（就是A畜指控）</title>
+      <link>https://linux.do/t/topic/2471973</link>
+      <guid>linux.do-topic-2471973</guid>
+      <pubDate>Thu, 25 Jun 2026 04:55:40 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/4/e/74e4ebe6cae076a565592d0c73cf56062984369c.jpeg&quot; data-download-href=&quot;/uploads/short-url/gG5QC1U8jOg8jptxuKG9ei89vty.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/4/e/74e4ebe6cae076a565592d0c73cf56062984369c_2_690x388.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gG5QC1U8jOg8jptxuKG9ei89vty&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/4/e/74e4ebe6cae076a565592d0c73cf56062984369c_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/4/e/74e4ebe6cae076a565592d0c73cf56062984369c_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/7/4/e/74e4ebe6cae076a565592d0c73cf56062984369c.jpeg 2x&quot; data-dominant-color=&quot;0C0C0C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+Anthropic PBC 指控这家中国科技巨头非法访问其人工智能模型，受此消息影响，Alibaba Group Holding Ltd. 港股股价创下 16 个月新低。&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;该股盘中最大跌幅达 4.9%，年内累计跌幅扩大至 33%。其他研发大语言模型的中国企业股价同步下跌，Xiaomi Corp. 与 Baidu Inc. 跌幅均超 3%。&lt;/p&gt;
+&lt;p&gt;尽管目前中国科技企业已经可以推出定价合理、性能达标相关产品，但 Anthropic 的指控依旧加重了投资者的顾虑。美国本月勒令 Anthropic 禁止外籍用户访问其最顶尖 AI 平台，此前美方发现该公司最新的 Fable 5 模型存在可被破解越狱的漏洞。&lt;/p&gt;
+&lt;p&gt;彭博行业研究（Bloomberg Intelligence）驻香港分析师 Robert Lea 表示：“中国 AI 模型遭遇美国禁令的风险显著升高。白宫限制境外主体使用 Anthropic 旗舰模型 Fable 5 和 Mythos 5，此举意味着美国针对 AI 的监管态度正转向更强硬。”&lt;/p&gt;
+&lt;p&gt;市场对 Alibaba AI 业务进展的质疑持续压制股价，叠加国内消费低迷的大环境，让公司经营承压。进一步加剧市场恐慌的是，资金正从中概互联网企业流出，转而投向韩国、中国台湾地区的硬件及半导体企业。&lt;/p&gt;
+&lt;p&gt;野村国际香港（Nomura International Hong Kong）分析师施家龙等人于周三发布客户研报称，刚结束的 618 购物节中，Alibaba 核心电商收入预估同比下滑 8%，而市场此前一致预期收入持平。分析师将 Alibaba 2027 财年 EBITDA（息税折旧摊销前利润）预期下调 15%。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2471973&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>谷歌DeepMind对齐研究员Arthur Conmy宣布加入Anthropic</title>
+      <link>https://linux.do/t/topic/2471949</link>
+      <guid>linux.do-topic-2471949</guid>
+      <pubDate>Thu, 25 Jun 2026 04:50:58 GMT</pubDate>
+      <description>
+            &lt;p&gt;GDM研究员Arthur Conmy于6月25日在社交平台X上宣布，他即将加入Anthropic，从事模型对齐相关工作，并将为此从伦敦搬迁至旧金山。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/f/4/9f42c860abab77ead4db2806cf03cb11d68cc449.png&quot; data-download-href=&quot;/uploads/short-url/mISZWEEs4E02y830TKEYAkcKPQl.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/f/4/9f42c860abab77ead4db2806cf03cb11d68cc449_2_690x248.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;mISZWEEs4E02y830TKEYAkcKPQl&quot; width=&quot;690&quot; height=&quot;248&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/f/4/9f42c860abab77ead4db2806cf03cb11d68cc449_2_690x248.png, https://cdn3.ldstatic.com/original/4X/9/f/4/9f42c860abab77ead4db2806cf03cb11d68cc449.png 1.5x, https://cdn3.ldstatic.com/original/4X/9/f/4/9f42c860abab77ead4db2806cf03cb11d68cc449.png 2x&quot; data-dominant-color=&quot;0E0E0F&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Conmy在帖文中表示，Claude的能力已经非常强大，但&quot;与迄今为止所有模型一样，Claude的对齐程度还不足以安全地将AGI开发工作委托给它&quot;。他认为Anthropic是当下从事这项工作的最佳去处。&lt;/p&gt;
+&lt;p&gt;他在后续回复中进一步解释了自己的工作方向：在训练过程中识别模型未对齐的迹象，并寻求根本性的修复方案，而非仅仅针对具体行为做表面补丁。他同时援引了Anthropic于2026年发布的一篇关于对齐方法的文章。&lt;/p&gt;
+&lt;p&gt;其前同事、DeepMind研究员Neel Nanda在评论中对他的离开表示惋惜，同时肯定了他在GDM期间的贡献。评论区中也有多位用户对近期DeepMind人员流向Anthropic的趋势表达了关注。&lt;/p&gt;
+&lt;aside class=&quot;quote quote-modified&quot; data-post=&quot;1&quot; data-topic=&quot;2436194&quot;&gt;
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;div class=&quot;quote-controls&quot;&gt;&lt;/div&gt;
+    &lt;img alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot; src=&quot;https://cdn.ldstatic.com/user_avatar/linux.do/hcptanghy/48/576693_2.png&quot; class=&quot;avatar&quot;&gt;
+    &lt;div class=&quot;quote-title__text-content&quot;&gt;
+      &lt;a href=&quot;https://linux.do/t/topic/2436194&quot;&gt;AlphaFold之父John Jumper宣布离开Google DeepMind，加入Anthropic&lt;/a&gt; &lt;a class=&quot;badge-category__wrapper &quot; href=&quot;https://linux.do/c/news/34&quot;&gt;&lt;span data-category-id=&quot;34&quot; style=&quot;--category-badge-color: #BB8FCE; --category-badge-text-color: #000000;&quot; data-drop-close=&quot;true&quot; class=&quot;badge-category --style-icon &quot; title=&quot;前沿快讯，不出门能知天下事。&quot;&gt;&lt;svg class=&quot;fa d-icon svg-icon svg-node&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg id=&quot;newspaper&quot; viewBox=&quot;0 0 512 512&quot;&gt;
+  &lt;path d=&quot;M96 96c0-35.3 28.7-64 64-64l288 0c35.3 0 64 28.7 64 64l0 320c0 35.3-28.7 64-64 64L80 480c-44.2 0-80-35.8-80-80L0 128c0-17.7 14.3-32 32-32s32 14.3 32 32l0 272c0 8.8 7.2 16 16 16s16-7.2 16-16L96 96zm64 24l0 80c0 13.3 10.7 24 24 24l112 0c13.3 0 24-10.7 24-24l0-80c0-13.3-10.7-24-24-24L184 96c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16l48 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16l48 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0c-8.8 0-16 7.2-16 16zM160 304c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-256 0c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-256 0c-8.8 0-16 7.2-16 16z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;&lt;/svg&gt;
+&lt;span class=&quot;badge-category__name&quot;&gt;前沿快讯&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;blockquote&gt;
+    诺贝尔奖得主、AlphaFold项目负责人John Jumper于6月20日在X平台发文宣布，在Google DeepMind工作近九年后，他决定离职并加入Anthropic，中间将先休整一段时间。 
+Jumper在博士毕业仅六个月后即被DeepMind CEO 哈撒比斯委以重任，领导AlphaFold蛋白质结构预测项目。该项目被广泛认为是AI在科学领域最具里程碑意义的成果之一，Jumper本人也…
+  &lt;/blockquote&gt;
+&lt;/aside&gt;
+&lt;aside class=&quot;quote quote-modified&quot; data-post=&quot;1&quot; data-topic=&quot;2427233&quot;&gt;
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;div class=&quot;quote-controls&quot;&gt;&lt;/div&gt;
+    &lt;img alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot; src=&quot;https://cdn.ldstatic.com/user_avatar/linux.do/hcptanghy/48/576693_2.png&quot; class=&quot;avatar&quot;&gt;
+    &lt;div class=&quot;quote-title__text-content&quot;&gt;
+      &lt;a href=&quot;https://linux.do/t/topic/2427233&quot;&gt;Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI&lt;/a&gt; &lt;a class=&quot;badge-category__wrapper &quot; href=&quot;https://linux.do/c/news/34&quot;&gt;&lt;span data-category-id=&quot;34&quot; style=&quot;--category-badge-color: #BB8FCE; --category-badge-text-color: #000000;&quot; data-drop-close=&quot;true&quot; class=&quot;badge-category --style-icon &quot; title=&quot;前沿快讯，不出门能知天下事。&quot;&gt;&lt;svg class=&quot;fa d-icon svg-icon svg-node&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg id=&quot;newspaper&quot; viewBox=&quot;0 0 512 512&quot;&gt;
+  &lt;path d=&quot;M96 96c0-35.3 28.7-64 64-64l288 0c35.3 0 64 28.7 64 64l0 320c0 35.3-28.7 64-64 64L80 480c-44.2 0-80-35.8-80-80L0 128c0-17.7 14.3-32 32-32s32 14.3 32 32l0 272c0 8.8 7.2 16 16 16s16-7.2 16-16L96 96zm64 24l0 80c0 13.3 10.7 24 24 24l112 0c13.3 0 24-10.7 24-24l0-80c0-13.3-10.7-24-24-24L184 96c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16l48 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16l48 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0c-8.8 0-16 7.2-16 16zM160 304c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-256 0c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-256 0c-8.8 0-16 7.2-16 16z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;&lt;/svg&gt;
+&lt;span class=&quot;badge-category__name&quot;&gt;前沿快讯&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;blockquote&gt;
+    Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。他在帖文中称这是一个「艰难的决定」，但未透露其在OpenAI的具体职位。 
+Shazeer是Transformer架构奠基论文Attention is All You Need的联合作者之一，2000年起在Google担任软件工程师长达二十余年。2021年末他离开Google…
+  &lt;/blockquote&gt;
+&lt;/aside&gt;
+&lt;aside class=&quot;quote quote-modified&quot; data-post=&quot;1&quot; data-topic=&quot;2469242&quot;&gt;
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;div class=&quot;quote-controls&quot;&gt;&lt;/div&gt;
+    &lt;img alt=&quot;&quot; width=&quot;24&quot; height=&quot;24&quot; src=&quot;https://cdn.ldstatic.com/user_avatar/linux.do/hcptanghy/48/576693_2.png&quot; class=&quot;avatar&quot;&gt;
+    &lt;div class=&quot;quote-title__text-content&quot;&gt;
+      &lt;a href=&quot;https://linux.do/t/topic/2469242&quot;&gt;Gemini团队再失两员大将，谷歌AI核心人才持续外流&lt;/a&gt; &lt;a class=&quot;badge-category__wrapper &quot; href=&quot;https://linux.do/c/news/34&quot;&gt;&lt;span data-category-id=&quot;34&quot; style=&quot;--category-badge-color: #BB8FCE; --category-badge-text-color: #000000;&quot; data-drop-close=&quot;true&quot; class=&quot;badge-category --style-icon &quot; title=&quot;前沿快讯，不出门能知天下事。&quot;&gt;&lt;svg class=&quot;fa d-icon svg-icon svg-node&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg id=&quot;newspaper&quot; viewBox=&quot;0 0 512 512&quot;&gt;
+  &lt;path d=&quot;M96 96c0-35.3 28.7-64 64-64l288 0c35.3 0 64 28.7 64 64l0 320c0 35.3-28.7 64-64 64L80 480c-44.2 0-80-35.8-80-80L0 128c0-17.7 14.3-32 32-32s32 14.3 32 32l0 272c0 8.8 7.2 16 16 16s16-7.2 16-16L96 96zm64 24l0 80c0 13.3 10.7 24 24 24l112 0c13.3 0 24-10.7 24-24l0-80c0-13.3-10.7-24-24-24L184 96c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16l48 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16l48 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-48 0c-8.8 0-16 7.2-16 16zM160 304c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-256 0c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-256 0c-8.8 0-16 7.2-16 16z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;&lt;/svg&gt;
+&lt;span class=&quot;badge-category__name&quot;&gt;前沿快讯&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;blockquote&gt;
+    彭博社报道 谷歌Gemini模型的两名核心研究员Jonas Adler与Alexander Pritzel已确认将加入Anthropic。这是谷歌在不到两周内第三起重量级AI人才出走事件。 
+&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffe…&lt;/a&gt;
+  &lt;/blockquote&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;截至目前，Gemini的整个训练流程都在减员&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技术基础Transformer → Noam Shazeer 去了 OpenAI&lt;/li&gt;
+&lt;li&gt;预训练 → Alexander Pritzel 去了 Anthropic；Sissie Hsiao 去了 OpenAI&lt;/li&gt;
+&lt;li&gt;对齐/可解释性 → Arthur Conmy 去了 Anthropic（NEW）&lt;/li&gt;
+&lt;li&gt;后训练 → Jonas Adler 去了 Anthropic&lt;/li&gt;
+&lt;li&gt;AI4SCI → John Jumper + Jonas Adler + Alexander Pritzel 去了 Anthropic&lt;/li&gt;
+&lt;/ul&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2471949&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>路透社电：美光与高通业绩预测推动AI芯片板块市值飙升4000亿美元！</title>
+      <link>https://linux.do/t/topic/2471948</link>
+      <guid>linux.do-topic-2471948</guid>
+      <pubDate>Thu, 25 Jun 2026 04:50:51 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/7/8/d788827ceb186ee09e378d0f6a39f486092d8a74.jpeg&quot; data-download-href=&quot;/uploads/short-url/uKH7RGCFPlZzomw7avjDtMZ6qfa.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/8/d788827ceb186ee09e378d0f6a39f486092d8a74_2_517x341.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;uKH7RGCFPlZzomw7avjDtMZ6qfa&quot; width=&quot;517&quot; height=&quot;341&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/8/d788827ceb186ee09e378d0f6a39f486092d8a74_2_517x341.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/7/8/d788827ceb186ee09e378d0f6a39f486092d8a74_2_775x511.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/d/7/8/d788827ceb186ee09e378d0f6a39f486092d8a74.jpeg 2x&quot; data-dominant-color=&quot;0F3458&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+路透社 6 月 24 日电 —— 美光科技、高通交出超亮眼业绩预期，扭转了华尔街近期持续走弱的 AI 芯片上涨行情。周三盘后，各大芯片企业股价集体暴涨，板块总市值一举增加超 4000 亿美元。&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;美光科技（股票代码：MU.O）盘后交易大涨 12%。公司预测本季度盈利将超出全体分析师预期，释放出明确信号：全球对 AI 基础设施的大额投入，会强力拉动市场对其存储芯片的需求。&lt;/p&gt;
+&lt;p&gt;订阅路透商业新闻每日简报，重大商业快讯将直接推送至你的邮箱，点击此处即可订阅。&lt;/p&gt;
+&lt;p&gt;同样在收盘后发布消息的高通（股票代码：QCOM.O）表示，公司将跳出智能手机芯片这一核心主业，重心全面转向人工智能业务，预计到 2029 年，旗下数据中心业务营收将达到 150 亿美元。&lt;/p&gt;
+&lt;p&gt;和美光存在同业竞争的西部数据（WDC.O）、闪迪（SNDK.O）、希捷科技（STX.O），股价涨幅均超过 8%；&lt;/p&gt;
+&lt;p&gt;安谋控股上涨约 6%，美满电子（MRVL.O）涨幅接近 4%，博通（AVGO.O）上涨 2%。&lt;/p&gt;
+&lt;p&gt;为半导体厂商供应专业生产设备的应用材料（AMAT.O）、阿斯麦，两只个股涨幅均超 4%。&lt;/p&gt;
+&lt;p&gt;此前华尔街市场一直抱有担忧：经过多年持续上涨，人工智能相关企业估值已经严重透支。费城半导体指数周二大跌 8%；投资者同时顾虑，搭建 AI 数据中心需要巨额资金投入，很难在短期内转化为营收、利润实现回本盈利。&lt;/p&gt;
+&lt;p&gt;即便本周板块出现回调，费城半导体指数 2026 年年内累计涨幅依旧高达 90%。单看美光科技，即便不算上周三尾盘这波暴涨，其今年以来股价涨幅也已经突破 260%。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2471948&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>谷歌两名AI研发重要人员拟跳槽至Anthropic</title>
+      <link>https://linux.do/t/topic/2471940</link>
+      <guid>linux.do-topic-2471940</guid>
+      <pubDate>Thu, 25 Jun 2026 04:49:11 GMT</pubDate>
+      <description>
+            &lt;p&gt;据知情人士透露，谷歌的两名AI研究重要人员计划转投Anthropic。这一系列备受瞩目的离职事件可能会削弱这家搜索巨头在人工智能领域的地位。知情人士称，被视为谷歌Gemini大模型关键贡献者的Jonas Adler和Alexander Pritzel即将加入Anthropic公司。Adler曾参与谷歌的AI编程项目，而Pritzel则参与AI系统训练工作。谷歌作为人工智能领域的早期开拓者，在当前的AI热潮中，大部分时间都在追赶OpenAI和Anthropic等公司，直到去年底才凭借更强大的模型和芯片步入正轨。 Alphabet 的股价周三交易日一度下跌 1.2%，最终收盘小幅走低。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Alphabet起个大早赶个晚集。 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/sleeping_face.png?v=15&quot; title=&quot;:sleeping_face:&quot; class=&quot;emoji&quot; alt=&quot;:sleeping_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2471940&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>谷歌开始降低Play商店的费用</title>
+      <link>https://linux.do/t/topic/2471780</link>
+      <guid>linux.do-topic-2471780</guid>
+      <pubDate>Thu, 25 Jun 2026 04:25:14 GMT</pubDate>
+      <description>
+            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/e/e/8/ee8c06420f791149e821f7950625adf6813a2b40.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;F26B43&quot; width=&quot;60&quot; height=&quot;60&quot;&gt;
+
+      &lt;a href=&quot;https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;05:00PM - 24 June 2026&quot;&gt;Ars Technica – 24 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/387;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/0/f/e/0fe2df681a26e78245c61c17a330eb32bbbb2a3c_2_690x388.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;EFF1EC&quot; width=&quot;690&quot; height=&quot;388&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Google starts lowering Play Store fees, making good on Epic Games settlement&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;A few additional markets will get the lower fees this year ahead of a global rollout in 2027.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;过去几年，谷歌与Epic Games一直陷入法律纠纷，Epic Games声称谷歌对Play商店的管理存在反竞争行为。如今，两家公司关系密切，谷歌也开始按照与Epic达成的和解协议，对应用商店进行改革。谷歌承诺的降低开发者费用和新的支付方式，本月将在部分市场率先推出，之后将逐步推广。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/f/2/af20d14142927acfc0d5ccb180bf00e081f15e84.png&quot; data-download-href=&quot;/uploads/short-url/oZfRPHnVT4dX6Fmt7geLn8dn7Bq.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/f/2/af20d14142927acfc0d5ccb180bf00e081f15e84_2_690x388.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;oZfRPHnVT4dX6Fmt7geLn8dn7Bq&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/f/2/af20d14142927acfc0d5ccb180bf00e081f15e84_2_690x388.png, https://cdn3.ldstatic.com/optimized/4X/a/f/2/af20d14142927acfc0d5ccb180bf00e081f15e84_2_1035x582.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/f/2/af20d14142927acfc0d5ccb180bf00e081f15e84.png 2x&quot; data-dominant-color=&quot;E1E1E1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang=&quot;zh&quot;&gt;自6月30日起，欧洲、英国和美国的开发者将可以使用新的收费结构。该系统将佣金分为两部分：计费费和服务费。小型开发者最大的利好在于，每年前100万美元的收入只需支付10%的固定服务费。超过100万美元的部分，现有应用的安装费率最高可达25%。6月30日之后安装的应用，其服务费最高为20%。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;开发者最终将被允许引导用户跳转到 Play 商店以外的页面完成交易。谷歌表示，开发者可以“根据我们的用户体验指南”设计选择界面，引导用户访问这些外部选项。开发者需要为这些购买支付标准服务费，但可以免除结算费。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2471780&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>从土壤中发现一个细菌产生的抗生素混合物可以杀死超级细菌</title>
+      <link>https://linux.do/t/topic/2471756</link>
+      <guid>linux.do-topic-2471756</guid>
+      <pubDate>Thu, 25 Jun 2026 04:23:08 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-026-01990-y&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/d41586-026-01990-y&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!quote]+&lt;/p&gt;
+&lt;p&gt;科学家在一种常见的土壤细菌中发现了一组基因，这些基因能够产生多种抗生素，可以对抗多重耐药菌。研究人员表示，这一发现有望促成更难被病原体产生耐药性的抗生素的研发。&lt;/p&gt;
+&lt;p&gt;今天发表在《自然》杂志上的一项研究&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://linux.do#footnote-19576264-1&quot; id=&quot;footnote-ref-19576264-1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;表明，研究人员在链霉菌中发现了一个“巨型基因簇”，该基因簇靶向细菌的关键代谢过程。链霉菌是研究最多的细菌属之一，能够产生多种抗生素化合物，包括用于生产链霉素的化合物。链霉素是首个有效的抗结核抗生素。&lt;/p&gt;
+&lt;p&gt;“他们在一个已被广泛研究的系统中发现了新的东西——它就隐藏在我们眼前，”澳大利亚布里斯班昆士兰大学从事抗生素研发的马克·布拉斯科维奇说道。这个基因簇产生五种化合物——四种抗生素和一种蛋白质——它们分别靶向生物素（维生素B7）合成的不同阶段，而生物素是细菌细胞生长所必需的。“由于进化已经优化了这种组合，我们或许可以利用它来开发新型抗生素组合，”布拉斯科维奇说。&lt;/p&gt;
+&lt;p&gt;伦敦卫生与热带医学院的微生物学家布伦丹·雷恩解释说，细菌很难对攻击重要代谢途径多个环节的抗生素产生耐药性。这项最新研究还有望发现参与其他代谢过程的抗生素化合物的基因簇。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr class=&quot;footnotes-sep&quot;&gt;
+
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;footnote-19576264-1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-026-01990-y#ref-CR1&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/d41586-026-01990-y#ref-CR1&lt;/a&gt; &lt;a href=&quot;https://linux.do#footnote-ref-19576264-1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+            &lt;p&gt;&lt;small&gt;2 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2471756&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAI 再次升级 GPT-5.5 Instant AI：更具洞察力，购物推荐更实用</title>
+      <link>https://linux.do/t/topic/2471750</link>
+      <guid>linux.do-topic-2471750</guid>
+      <pubDate>Thu, 25 Jun 2026 04:21:28 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/9/2/d922add92ab4cbafaec3a15c23cf8a5740431450.jpeg&quot; data-download-href=&quot;/uploads/short-url/uYRUsKFDluCg3wXQHC0xvuqIlC8.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/9/2/d922add92ab4cbafaec3a15c23cf8a5740431450_2_690x232.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;uYRUsKFDluCg3wXQHC0xvuqIlC8&quot; width=&quot;690&quot; height=&quot;232&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/9/2/d922add92ab4cbafaec3a15c23cf8a5740431450_2_690x232.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/9/2/d922add92ab4cbafaec3a15c23cf8a5740431450_2_1035x348.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/9/2/d922add92ab4cbafaec3a15c23cf8a5740431450_2_1380x464.jpeg 2x&quot; data-dominant-color=&quot;F0F0F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/f/7/bf760a439ab560acad2c5975befd359189093f29.jpeg&quot; data-download-href=&quot;/uploads/short-url/rjK5Zik47bBB08CNaxYUMlx0gD7.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/f/7/bf760a439ab560acad2c5975befd359189093f29_2_690x146.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;rjK5Zik47bBB08CNaxYUMlx0gD7&quot; width=&quot;690&quot; height=&quot;146&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/f/7/bf760a439ab560acad2c5975befd359189093f29_2_690x146.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/f/7/bf760a439ab560acad2c5975befd359189093f29_2_1035x219.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/f/7/bf760a439ab560acad2c5975befd359189093f29_2_1380x292.jpeg 2x&quot; data-dominant-color=&quot;EEEEEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;a href=&quot;https://www.ithome.com/0/968/241.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;OpenAI 再次升级 GPT-5.5 Instant AI：更具洞察力，购物推荐更实用 - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2471750&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>在活体上印刷生物相容性电路</title>
+      <link>https://linux.do/t/topic/2471674</link>
+      <guid>linux.do-topic-2471674</guid>
+      <pubDate>Thu, 25 Jun 2026 04:12:21 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;a href=&quot;https://www.economist.com/science-and-technology/2026/06/24/electronics-can-now-be-printed-onto-living-tissues&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.economist.com/science-and-technology/2026/06/24/electronics-can-now-be-printed-onto-living-tissues&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41528-025-00421-8&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.nature.com/articles/s41528-025-00421-8&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract]+&lt;/p&gt;
+&lt;p&gt;医疗保健系统正从传统的以医院为中心的模式转向以“可穿戴实验室”为核心的、更加个性化、以患者为中心的模式。这一概念的核心在于借助柔软、可贴合且具有生物相容性的传感器，将生物信号转化为可操作的愈合信息。这种柔软的柔性电子平台的发展更倾向于采用非传统的电子制造工艺，例如印刷电子技术，而非基于洁净室的微电子制造。印刷电子技术能够充分利用可拉伸薄膜、生物衍生功能材料和有机电子器件的潜力，从而开发出与皮肤贴合的可生物降解和可生物吸收的伤口监测系统。本文探讨了可持续且具有生物相容性的印刷电子技术在将伤口生物标志物转化为可操作的愈合信息方面的潜力，从而实现及时干预。此外，本文还为基于印刷电子技术的伤口监测和按需治疗方案提供了路线图，展现了该技术未来的发展前景。&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2471674&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>Anthropic与美政府谈判中 达里奥被踢出局</title>
+      <link>https://linux.do/t/topic/2471336</link>
+      <guid>linux.do-topic-2471336</guid>
+      <pubDate>Thu, 25 Jun 2026 03:36:02 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/0/6/106bb004c192d94e7d72976584a66e101138dbb3.png&quot; data-download-href=&quot;/uploads/short-url/2lgmgkzpPVvvK1Bu8TVg71kdYpZ.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/0/6/106bb004c192d94e7d72976584a66e101138dbb3.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;2lgmgkzpPVvvK1Bu8TVg71kdYpZ&quot; width=&quot;615&quot; height=&quot;271&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://ishare.ifeng.com/c/s/v0065ndaGDu4VUsMXzJcQ520yVSdFbFcOZ4ttJTksZdW--ZPI6-_BIYkeYkFRiDDAhUAfg&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/9/d/39d4593c440e9022b416e81b879957af9d9dd6c7.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;F54343&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://ishare.ifeng.com/c/s/v0065ndaGDu4VUsMXzJcQ520yVSdFbFcOZ4ttJTksZdW--ZPI6-_BIYkeYkFRiDDAhUAfg&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;ishare.ifeng.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    
+
+&lt;h3&gt;&lt;a href=&quot;https://ishare.ifeng.com/c/s/v0065ndaGDu4VUsMXzJcQ520yVSdFbFcOZ4ttJTksZdW--ZPI6-_BIYkeYkFRiDDAhUAfg&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;美媒：Anthropic CEO成美国模型管制谈判障碍 被指“怪人”遭替换&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Anthropic何时能够重新部署Fable 5模型仍不确定。&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/0/a/20ab5e99c7b6b951d325319846aaa8dac3a08792.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;222222&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
+
+      &lt;a href=&quot;https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;03:15PM - 24 June 2026&quot;&gt;WIRED – 24 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/5/2/b5299c53dc6b49c81cf3c119a5ec6a2983a9387e_2_690x361.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;444444&quot; width=&quot;690&quot; height=&quot;361&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;The Trump White House Is Over Anthropic CEO Dario Amodei&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;At high-stakes meetings with the White House, Anthropic&#39;s cofounder—a &quot;weirdo,&quot; per one official—has been replaced by cofounder Tom Brown.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;17 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2471336&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>委内瑞拉接连发生 7.5级 地震</title>
       <link>https://linux.do/t/topic/2470666</link>
@@ -41,7 +394,7 @@
 &lt;p&gt;•全力营救受害者：委内瑞拉代理总统德尔西·罗德里格斯已确认人员伤亡并宣布进入紧急状态。数百名救援人员正在全力搜寻和营救受害者。惊恐的居民带着亲人撤离建筑物。一位从受损建筑物中逃生的加拉加斯居民说：“现场就像恐怖电影一样。”&lt;/p&gt;
 &lt;p&gt;•无海啸威胁：美国海啸预警中心表示，没有海啸威胁，取消了此前针对波多黎各和维尔京群岛等地区可能出现危险海浪的警告。&lt;/p&gt;
 &lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2470666&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -55,7 +408,7 @@
 官方例子：GOAT birthday：&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/8/c/28c94a1ad62a67e145004bc93970f68e99b12a97.png&quot; data-download-href=&quot;/uploads/short-url/5OOmi0l2ptWfT17JY9VCHqv3Jzh.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/8/c/28c94a1ad62a67e145004bc93970f68e99b12a97_2_690x312.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;5OOmi0l2ptWfT17JY9VCHqv3Jzh&quot; width=&quot;690&quot; height=&quot;312&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/8/c/28c94a1ad62a67e145004bc93970f68e99b12a97_2_690x312.png, https://cdn3.ldstatic.com/optimized/4X/2/8/c/28c94a1ad62a67e145004bc93970f68e99b12a97_2_1035x468.png 1.5x, https://cdn3.ldstatic.com/original/4X/2/8/c/28c94a1ad62a67e145004bc93970f68e99b12a97.png 2x&quot; data-dominant-color=&quot;F8F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;ps：我的5.6呢？？？？奥特曼你在干什么！ &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/8/9/89870339101e10993ef1e55dd9e96f275a6a99f9.png?v=15&quot; title=&quot;:tieba_031:&quot; class=&quot;emoji emoji-custom&quot; alt=&quot;:tieba_031:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;11 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2470629&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -66,7 +419,7 @@
       <pubDate>Thu, 25 Jun 2026 02:32:14 GMT</pubDate>
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/a/c/eacc28161693e7f782d102a270c212c9208acc75.jpeg&quot; data-download-href=&quot;/uploads/short-url/xv789HmF2wjoz0zCs8gv5p6kqvH.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/a/c/eacc28161693e7f782d102a270c212c9208acc75_2_498x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xv789HmF2wjoz0zCs8gv5p6kqvH&quot; width=&quot;498&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/a/c/eacc28161693e7f782d102a270c212c9208acc75_2_498x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/a/c/eacc28161693e7f782d102a270c212c9208acc75_2_747x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/a/c/eacc28161693e7f782d102a270c212c9208acc75_2_996x1000.jpeg 2x&quot; data-dominant-color=&quot;343434&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;18 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;36 个帖子 - 28 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2470613&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -92,7 +445,7 @@
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/1/1/711ff163678c3ded8b521918d30434321fd8666e.png&quot; data-download-href=&quot;/uploads/short-url/g8Koh9aAH0FBG3OTVlUc6gsamBM.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/1/1/711ff163678c3ded8b521918d30434321fd8666e.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;g8Koh9aAH0FBG3OTVlUc6gsamBM&quot; width=&quot;610&quot; height=&quot;375&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;chage seat 成为历史：&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/e/c/1ece2e1f3b1bb23511048823803427b0ab3c84a3.jpeg&quot; data-download-href=&quot;/uploads/short-url/4ow3UtaIdpozlUb6V3XwEuCbdtx.jpeg?dl=1&quot; title=&quot;telegram-cloud-photo-size-5-6187953731077344859-m&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/e/c/1ece2e1f3b1bb23511048823803427b0ab3c84a3.jpeg&quot; alt=&quot;telegram-cloud-photo-size-5-6187953731077344859-m&quot; data-base62-sha1=&quot;4ow3UtaIdpozlUb6V3XwEuCbdtx&quot; width=&quot;231&quot; height=&quot;216&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;32 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;35 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2470361&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -130,7 +483,7 @@
 &lt;/aside&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;62 个帖子 - 59 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;69 个帖子 - 65 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2470153&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -151,7 +504,7 @@
 &lt;p&gt;周鸿祎预测，未来几年，中国很多关键基础设施和重要产业将进入网络攻击高发期。因此，中国网络安全行业必须拥有自己的Mythos，自己的漏洞自己先看见、先修补，而不是等别人发现后再被动应对。“做到手里有牌，才能心里有数”。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;图龙锋(屠龙), 仪天阵(倚天), 吹牛不上税, 还玩谐音梗, 和追觅, 真是一对卧龙凤雏&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;90 个帖子 - 87 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;123 个帖子 - 118 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2469792&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -162,7 +515,7 @@
       <pubDate>Thu, 25 Jun 2026 01:24:40 GMT</pubDate>
       <description>
             &lt;p&gt;ps5 和 Xbox 准备入手一个， ps5去香港买 还是 日本买 还是在国内买？有区别吗？&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;22 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;30 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2469762&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -197,7 +550,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;33 个帖子 - 30 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;62 个帖子 - 43 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2469575&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -266,249 +619,8 @@
 &lt;p&gt;Anthropic PBC指控阿里巴巴集团控股有限公司利用数千个欺诈性账户，发动了一场大规模行动，以“非法”访问其Claude人工智能模型，此举破坏了这家美国AI开发商将其产品排除在中国市场之外的决定。根据这家AI初创公司发送给数位美国参议员和白宫官员的一封信函，Anthropic声称，与阿里巴巴Qwen AI实验室有关联的操作者发起的一场行动，目标是Claude最珍贵的能力，包括软件工程和智能体推理。该公司表示，这是迄今为止中国公司试图搭便车利用美国顶级实验室成果的最大规模尝试。在今年4月至6月期间，上述行动通过近 25,000 个欺诈性账户，与Claude进行了2,880万次交互。&lt;/p&gt;
 &lt;p&gt;—— &lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models&quot; rel=&quot;noopener nofollow ugc&quot;&gt;彭博社&lt;/a&gt;&lt;br&gt;
 &lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;12 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;13 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2469256&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Gemini团队再失两员大将，谷歌AI核心人才持续外流</title>
-      <link>https://linux.do/t/topic/2469242</link>
-      <guid>linux.do-topic-2469242</guid>
-      <pubDate>Thu, 25 Jun 2026 00:32:49 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;strong&gt;彭博社报道&lt;/strong&gt; 谷歌Gemini模型的两名核心研究员Jonas Adler与Alexander Pritzel已确认将加入Anthropic。这是谷歌在不到两周内第三起重量级AI人才出走事件。&lt;br&gt;
-&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Jonas Adler是GDM核心研究员，其主要负责&lt;strong&gt;AI coding 方向&lt;/strong&gt;，同时参与过 &lt;strong&gt;AlphaFold&lt;/strong&gt; 研究（跟 John Jumper 一起）；Alexander Pritzel，GDM核心研究员，负责Gemini模型的预训练管线，同样参与过 AlphaFold 研究。&lt;/p&gt;
-&lt;p&gt;加上这俩位，最近从 GDM 跑路的名单已经很夸张了：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Noam Shazeer&lt;/strong&gt; → OpenAI（Transformer 论文共同作者 + Gemini co-lead）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;John Jumper&lt;/strong&gt; → Anthropic（AlphaFold + 2024 诺贝尔化学奖）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sissie Hsiao&lt;/strong&gt; → OpenAI（Gemini 产品 VP）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Jonas Adler&lt;/strong&gt; → Anthropic（AI coding）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Alexander Pritzel&lt;/strong&gt; → Anthropic（pretraining）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;行业数据显示，DeepMind工程师流向Anthropic的概率是反向流动的近11倍。分析人士指出，此轮人才迁移的核心驱动力在于Anthropic与OpenAI即将启动的IPO进程。Anthropic最新估值已达9650亿美元，超越OpenAI成为全球估值最高的AI初创公司，其上市前的股权激励对大厂资深研究者构成强烈吸引。&lt;/p&gt;
-&lt;p&gt;受此消息影响，谷歌股价盘中由涨转跌，收跌1.16%至342.07美元。尽管谷歌管理层强调其研究团队规模仍处于行业领先，但核心架构师的连续流失，已引发市场对其AI研发迭代节奏及长期竞争力的担忧。&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.tradingkey.com/analysis/stocks/us-stocks/261988700-google-gemini-deepmind-ai-lose-anthropic-ipo-openai-tradingkey&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/f/8/5f809f69ffdbe19fb0c89c85f23063503244afe7.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;57585D&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.tradingkey.com/analysis/stocks/us-stocks/261988700-google-gemini-deepmind-ai-lose-anthropic-ipo-openai-tradingkey&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;tradingkey.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/3/1/a311270c027d7c306c114d97c543557c7c49ddfe.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;817D7A&quot; width=&quot;500&quot; height=&quot;334&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.tradingkey.com/analysis/stocks/us-stocks/261988700-google-gemini-deepmind-ai-lose-anthropic-ipo-openai-tradingkey&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Google Is Said to Lose Two More Core AI Staff to Anthropic. Shares Reverse...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;TradingKey - Following the recent departure of Google DeepMind Vice President John Jumper to Anthropic, Google&#39;s AI team has suffered another major blow to its core talent. According to media reports, two core Gemini researchers, Jonas Adler and...&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2469242&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>谷歌 Gemini 3.5 Pro 发布时间推迟至 7 月，旨在优化模型性能</title>
-      <link>https://linux.do/t/topic/2469198</link>
-      <guid>linux.do-topic-2469198</guid>
-      <pubDate>Thu, 25 Jun 2026 00:20:27 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/2/7/f27c89ce0b68c415422bdf73f90aa2476b7eb5ed.jpeg&quot; data-download-href=&quot;/uploads/short-url/yB8mVZOhlTq5gybESS4kuG41Bsp.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/2/7/f27c89ce0b68c415422bdf73f90aa2476b7eb5ed_2_690x351.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;yB8mVZOhlTq5gybESS4kuG41Bsp&quot; width=&quot;690&quot; height=&quot;351&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/2/7/f27c89ce0b68c415422bdf73f90aa2476b7eb5ed_2_690x351.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/2/7/f27c89ce0b68c415422bdf73f90aa2476b7eb5ed_2_1035x526.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/2/7/f27c89ce0b68c415422bdf73f90aa2476b7eb5ed_2_1380x702.jpeg 2x&quot; data-dominant-color=&quot;EEEEEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;a href=&quot;https://www.ithome.com/0/968/222.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;消息称谷歌 Gemini 3.5 Pro 发布时间推迟至 7 月，旨在优化模型性能 - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2469198&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>谷歌再失 AI 人才，两名 Gemini 核心骨干转投 Anthropic</title>
-      <link>https://linux.do/t/topic/2469114</link>
-      <guid>linux.do-topic-2469114</guid>
-      <pubDate>Wed, 24 Jun 2026 23:49:14 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/2/e/a2e6eb495d50cccfc66d9e33a6f604d6ac05cf4c.jpeg&quot; data-download-href=&quot;/uploads/short-url/nf65HWE2TGSGIIf0TATKUlP3H8U.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/2/e/a2e6eb495d50cccfc66d9e33a6f604d6ac05cf4c_2_690x477.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nf65HWE2TGSGIIf0TATKUlP3H8U&quot; width=&quot;690&quot; height=&quot;477&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/2/e/a2e6eb495d50cccfc66d9e33a6f604d6ac05cf4c_2_690x477.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/2/e/a2e6eb495d50cccfc66d9e33a6f604d6ac05cf4c_2_1035x715.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/2/e/a2e6eb495d50cccfc66d9e33a6f604d6ac05cf4c_2_1380x954.jpeg 2x&quot; data-dominant-color=&quot;B0AEA0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/a/c/dacb567c223e75aea5c6626a16e7bb4a658a32f9.jpeg&quot; data-download-href=&quot;/uploads/short-url/vdxJKj1oQY3ZJFjBVB2plc3yKwx.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/a/c/dacb567c223e75aea5c6626a16e7bb4a658a32f9_2_690x144.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;vdxJKj1oQY3ZJFjBVB2plc3yKwx&quot; width=&quot;690&quot; height=&quot;144&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/a/c/dacb567c223e75aea5c6626a16e7bb4a658a32f9_2_690x144.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/a/c/dacb567c223e75aea5c6626a16e7bb4a658a32f9_2_1035x216.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/a/c/dacb567c223e75aea5c6626a16e7bb4a658a32f9_2_1380x288.jpeg 2x&quot; data-dominant-color=&quot;EFEFEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;a href=&quot;https://www.ithome.com/0/968/224.htm&quot; rel=&quot;noopener nofollow ugc&quot;&gt;谷歌再失 AI 人才，两名 Gemini 核心骨干转投 Anthropic - IT之家&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2469114&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>中国银行逃税23.67亿元被查</title>
-      <link>https://linux.do/t/topic/2469090</link>
-      <guid>linux.do-topic-2469090</guid>
-      <pubDate>Wed, 24 Jun 2026 23:17:16 GMT</pubDate>
-      <description>
-            &lt;p&gt;本来有个东方财富的新闻链接的，但是被404了。就很离谱&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/4/5/b4516d8f9ee0ed5ca07415b9a05a42c8a308c9bf.jpeg&quot; data-download-href=&quot;/uploads/short-url/pJap0jxAOzquWYg70i0ECzSJZMj.jpeg?dl=1&quot; title=&quot;696d762631cb69535304c82921502123&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/4/5/b4516d8f9ee0ed5ca07415b9a05a42c8a308c9bf_2_304x500.jpeg&quot; alt=&quot;696d762631cb69535304c82921502123&quot; data-base62-sha1=&quot;pJap0jxAOzquWYg70i0ECzSJZMj&quot; width=&quot;304&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/b/4/5/b4516d8f9ee0ed5ca07415b9a05a42c8a308c9bf_2_304x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/b/4/5/b4516d8f9ee0ed5ca07415b9a05a42c8a308c9bf_2_456x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/b/4/5/b4516d8f9ee0ed5ca07415b9a05a42c8a308c9bf_2_608x1000.jpeg 2x&quot; data-dominant-color=&quot;EDEDED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;40 个帖子 - 36 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2469090&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>谷歌Gemini 3.5 Pro发布日期可能将推迟至7月</title>
-      <link>https://linux.do/t/topic/2469076</link>
-      <guid>linux.do-topic-2469076</guid>
-      <pubDate>Wed, 24 Jun 2026 22:42:10 GMT</pubDate>
-      <description>
-            &lt;p&gt;据Business Insider获悉，谷歌下一代前沿AI模型的发布日期已推迟至7月。&lt;/p&gt;
-&lt;p&gt;谷歌此前计划于6月推出新款Gemini 3.5 Pro模型，但据知情人士透露，由于公司需要更多时间收集早期测试用户的反馈并对模型进行调整优化，发布时间现已调整至7月。&lt;/p&gt;
-&lt;p&gt;谷歌曾在5月举办的I/O开发者大会上预告了这款新模型，但表示尚未完全就绪。彼时，首席执行官桑达尔·皮查伊表示该模型将于&lt;strong&gt;下个月&lt;/strong&gt;正式发布。对此，谷歌发言人拒绝置评。&lt;/p&gt;
-&lt;p&gt;在各大AI实验室竞争白热化之际，这款即将发布的模型令谷歌承压明显。尽管Gemini 3去年的表现超出预期，但Anthropic与OpenAI在代码生成领域仍持续领先于谷歌——而编程能力已成为现代AI首个重要的企业级应用场景。&lt;/p&gt;
-&lt;p&gt;知情人士表示，谷歌推迟发布日期，是为了争取更多时间从早期测试用户处收集真实使用案例。&lt;strong&gt;目前，该新模型已向谷歌Antigravity平台及AI基准测试网站LMArena的部分用户开放试用。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;新款Gemini 3.5 Pro模型预计将在&lt;strong&gt;长周期任务处理&lt;/strong&gt;及&lt;strong&gt;智能体驱动&lt;/strong&gt;方面表现更为出色。&lt;/p&gt;
-&lt;p&gt;此外，知情人士还透露，谷歌已将近期Flash 3.5模型的用户反馈整合至3.5 Pro的开发中&lt;/p&gt;
-&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.businessinsider.com/google-3-5-pro-july-release-tokens-ai-agents-model-2026-6?hl=en-IN&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/9/c/59c8b16514890ef5cc81423e5f90d8313e38b43c.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;3E5DFF&quot; width=&quot;192&quot; height=&quot;192&quot;&gt;
-
-      &lt;a href=&quot;https://www.businessinsider.com/google-3-5-pro-july-release-tokens-ai-agents-model-2026-6?hl=en-IN&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Business Insider&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/344;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/d/5/3d5fafd09e985b3d27ce306766f63f08ce189dcd_2_690x345.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;232323&quot; width=&quot;690&quot; height=&quot;345&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.businessinsider.com/google-3-5-pro-july-release-tokens-ai-agents-model-2026-6?hl=en-IN&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Google delays Gemini 3.5 Pro launch to July as it tweaks its new frontier AI...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Google&#39;s next big AI model is coming later than promised, but the company is trying to use the extra time to make it better.&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;16 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2469076&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>ChatGPT Business的codex席位没有了？</title>
-      <link>https://linux.do/t/topic/2468949</link>
-      <guid>linux.do-topic-2468949</guid>
-      <pubDate>Wed, 24 Jun 2026 18:21:50 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/c/f/2cffccaa3b962bbe0650d7bb994f5d05902ad7a3.png&quot; data-download-href=&quot;/uploads/short-url/6q53vlzkOpUgxMlbPeRIjV9Cda3.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/c/f/2cffccaa3b962bbe0650d7bb994f5d05902ad7a3_2_649x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6q53vlzkOpUgxMlbPeRIjV9Cda3&quot; width=&quot;649&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/c/f/2cffccaa3b962bbe0650d7bb994f5d05902ad7a3_2_649x500.png, https://cdn3.ldstatic.com/optimized/4X/2/c/f/2cffccaa3b962bbe0650d7bb994f5d05902ad7a3_2_973x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/2/c/f/2cffccaa3b962bbe0650d7bb994f5d05902ad7a3_2_1298x1000.png 2x&quot; data-dominant-color=&quot;D7D7D9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-如图，openai刚刚更新了他们的文档，Business方案将不再提供Codex席位，目前不知道有什么具体影响。&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;49 个帖子 - 28 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468949&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>#突发 Claude Fable 已经在 AWS 重新上线，可能很快所有渠道都会恢复上线。</title>
-      <link>https://linux.do/t/topic/2468789</link>
-      <guid>linux.do-topic-2468789</guid>
-      <pubDate>Wed, 24 Jun 2026 17:08:03 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/6/e/f6eaa89b7089b2bdc9bd5b39a9e9ac319a83bf12.jpeg&quot; data-download-href=&quot;/uploads/short-url/zekd72wEIxUTPBssEdJwrnS0TZM.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/6/e/f6eaa89b7089b2bdc9bd5b39a9e9ac319a83bf12_2_690x440.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zekd72wEIxUTPBssEdJwrnS0TZM&quot; width=&quot;690&quot; height=&quot;440&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/6/e/f6eaa89b7089b2bdc9bd5b39a9e9ac319a83bf12_2_690x440.jpeg, https://cdn3.ldstatic.com/original/4X/f/6/e/f6eaa89b7089b2bdc9bd5b39a9e9ac319a83bf12.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/f/6/e/f6eaa89b7089b2bdc9bd5b39a9e9ac319a83bf12.jpeg 2x&quot; data-dominant-color=&quot;F1EFEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;转自蓝点网&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;34 个帖子 - 33 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468789&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>中国审计署披露部分地方政府虚报隐性债务化解情况</title>
-      <link>https://linux.do/t/topic/2468646</link>
-      <guid>linux.do-topic-2468646</guid>
-      <pubDate>Wed, 24 Jun 2026 16:08:17 GMT</pubDate>
-      <description>
-            &lt;p&gt;中国国家审计署近日发布的年度报告显示，尽管官方数据显示截至2024年底地方政府隐性债务余额已降至10.5万亿元，但部分地方政府在防范化解金融风险过程中存在违规行为。部分省份通过直接删除债务管理系统记录、融资平台虚报化解进展等手段，人为隐瞒和虚报隐性债务规模。&lt;br&gt;
-此外，审计还发现部分地区存在专项债券管理不善的问题。部分县市通过虚报项目预期收益违规获取专项债资金，甚至存在将专项债资金挪用于建设政府楼堂馆所或偿还企业贷款等违规支出行为。&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://www.caixinglobal.com/2026-06-24/china-auditor-exposes-local-governments-faking-debt-cleanups-102457036.html&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Caixin Global&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;转发自 @ DNSPODT&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468646&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>coze低代码开发平台无了，节点式工作流不复存在</title>
-      <link>https://linux.do/t/topic/2468495</link>
-      <guid>linux.do-topic-2468495</guid>
-      <pubDate>Wed, 24 Jun 2026 15:45:44 GMT</pubDate>
-      <description>
-            &lt;p&gt;这是今天刚注册的coze号，我发现彻底没有旧版节点式工作流和智能体开发的入口了&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/4/1/741334d2df0c02ffe997c0dd67dce45f07076fe3.jpeg&quot; data-download-href=&quot;/uploads/short-url/gyQxegZL5YfEFZxoU46QU24H0pJ.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/4/1/741334d2df0c02ffe997c0dd67dce45f07076fe3_2_690x325.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gyQxegZL5YfEFZxoU46QU24H0pJ&quot; width=&quot;690&quot; height=&quot;325&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/4/1/741334d2df0c02ffe997c0dd67dce45f07076fe3_2_690x325.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/4/1/741334d2df0c02ffe997c0dd67dce45f07076fe3_2_1035x487.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/4/1/741334d2df0c02ffe997c0dd67dce45f07076fe3_2_1380x650.jpeg 2x&quot; data-dominant-color=&quot;EEEDED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;这是6月份之前注册的号的界面，目前仍可以看到资源库这些搭建节点式工作流，以及回到旧版的东西&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/e/2/6e28c67af1b8e499b45c129af1d3b1ba00b88481.jpeg&quot; data-download-href=&quot;/uploads/short-url/fIvSI9SNv8E4FudeUl34J1gvh8B.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/e/2/6e28c67af1b8e499b45c129af1d3b1ba00b88481_2_690x303.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;fIvSI9SNv8E4FudeUl34J1gvh8B&quot; width=&quot;690&quot; height=&quot;303&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/e/2/6e28c67af1b8e499b45c129af1d3b1ba00b88481_2_690x303.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/e/2/6e28c67af1b8e499b45c129af1d3b1ba00b88481_2_1035x454.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/e/2/6e28c67af1b8e499b45c129af1d3b1ba00b88481_2_1380x606.jpeg 2x&quot; data-dominant-color=&quot;F1F0F0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;所以猜测自从coze 3.0正式上线，coze的迭代完成，开始将开发平台进一步降低门槛，删去工作流节点开发界面，全面转为 一句话生成智能体工作流网页小程序app的agent平台&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468495&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>kiro超额无了，未来需要预付费再使用</title>
-      <link>https://linux.do/t/topic/2468305</link>
-      <guid>linux.do-topic-2468305</guid>
-      <pubDate>Wed, 24 Jun 2026 14:57:02 GMT</pubDate>
-      <description>
-            &lt;p&gt;今天发现邮件&lt;br&gt;
-7月1号之后需要预付费超额==先付费再使用&lt;/p&gt;
-&lt;p&gt;我的卡现在还因为超额不敢解锁，上次超了120刀。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/6/8/768a4bb19bf8a91038f6e923a805e41d27548b53.png&quot; data-download-href=&quot;/uploads/short-url/gUEDAVpTM8yqHEMXS7t3MpeHtRx.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/6/8/768a4bb19bf8a91038f6e923a805e41d27548b53_2_690x377.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gUEDAVpTM8yqHEMXS7t3MpeHtRx&quot; width=&quot;690&quot; height=&quot;377&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/6/8/768a4bb19bf8a91038f6e923a805e41d27548b53_2_690x377.png, https://cdn3.ldstatic.com/optimized/4X/7/6/8/768a4bb19bf8a91038f6e923a805e41d27548b53_2_1035x565.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/6/8/768a4bb19bf8a91038f6e923a805e41d27548b53_2_1380x754.png 2x&quot; data-dominant-color=&quot;E1E1E2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468305&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>快讯：多家私募收到通知，暂停TRS新增</title>
-      <link>https://linux.do/t/topic/2468302</link>
-      <guid>linux.do-topic-2468302</guid>
-      <pubDate>Wed, 24 Jun 2026 14:55:40 GMT</pubDate>
-      <description>
-            &lt;p&gt;悲报，朋友那边收到的消息，目前多家私募收到通知，暂停TRS新增，以后私募不能买美股韩股了，后面估计彻底关门拉闸了 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/sweat_smile.png?v=15&quot; title=&quot;:sweat_smile:&quot; class=&quot;emoji&quot; alt=&quot;:sweat_smile:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468302&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>OpenAI 发布首款自研 AI 芯片 Jalapeño，用于 ChatGPT、Codex 和 API 推理</title>
-      <link>https://linux.do/t/topic/2468210</link>
-      <guid>linux.do-topic-2468210</guid>
-      <pubDate>Wed, 24 Jun 2026 14:34:06 GMT</pubDate>
-      <description>
-            &lt;p&gt;OpenAI 官方宣布推出首款自研 AI 芯片 Jalapeño，由 OpenAI 从零设计，并与 Broadcom 合作推进到生产阶段。&lt;/p&gt;
-&lt;p&gt;这颗芯片主要面向 LLM 推理任务，也就是支撑 ChatGPT、Codex、API 以及未来 agent 产品的核心计算场景。OpenAI 表示，Jalapeño 不是把通用 AI 加速器改一改，而是专门围绕现代 LLM 的推理需求设计，包括模型 kernel、内存移动、网络和服务系统。&lt;/p&gt;
-&lt;p&gt;几个关键信息：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Jalapeño 是 OpenAI 的第一颗 Intelligence Processor。&lt;/li&gt;
-&lt;li&gt;芯片从设计到 tape-out 用了 9 个月，OpenAI 称部分流程由自家模型加速。&lt;/li&gt;
-&lt;li&gt;工程样片已经在实验室运行 ML 工作负载，包括 GPT-5.3-Codex-Spark。&lt;/li&gt;
-&lt;li&gt;OpenAI 还在测最终性能，但早期测试显示性能功耗比会明显优于当前最先进方案。&lt;/li&gt;
-&lt;li&gt;Jalapeño 会和 Broadcom 的硅实现、网络技术，以及 Celestica 的板卡和机架系统能力结合。&lt;/li&gt;
-&lt;li&gt;OpenAI 计划从 2026 年底开始部署，并做成多代计算平台。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;简单说，OpenAI 不只是做模型和产品了，它正在把底层算力也纳入自己的 full-stack AI 平台。&lt;/p&gt;
-&lt;p&gt;这对 AI 行业很重要，因为推理成本会直接影响 ChatGPT 响应速度、Codex 执行任务的等待时间、API 成本，以及高峰期的可用性。OpenAI 自研芯片的目标，就是让更多 AI 使用场景变得更快、更稳定、更便宜。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/1/e/11ea682405fbd7d83af0bc586ebab59bc6f921d3.jpeg&quot; data-download-href=&quot;/uploads/short-url/2yukxk5y3y3pqlk39RpXrsGhB1F.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/1/e/11ea682405fbd7d83af0bc586ebab59bc6f921d3_2_690x460.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;2yukxk5y3y3pqlk39RpXrsGhB1F&quot; width=&quot;690&quot; height=&quot;460&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/1/e/11ea682405fbd7d83af0bc586ebab59bc6f921d3_2_690x460.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/1/e/11ea682405fbd7d83af0bc586ebab59bc6f921d3_2_1035x690.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/1/e/11ea682405fbd7d83af0bc586ebab59bc6f921d3_2_1380x920.jpeg 2x&quot; data-dominant-color=&quot;817067&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468210&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>OpenAI 发布首款自研 LLM 推理芯片 Jalapeño？？</title>
-      <link>https://linux.do/t/topic/2468202</link>
-      <guid>linux.do-topic-2468202</guid>
-      <pubDate>Wed, 24 Jun 2026 14:32:41 GMT</pubDate>
-      <description>
-            &lt;p&gt;OpenAI 宣布与 Broadcom、Celestica 合作，从头设计并量产首款专为大语言模型推理优化的 AI 芯片 Jalapeño，旨在实现每瓦性能超越现有 SOTA 加速器，计划于 2026 年底以吉瓦级规模部署，标志着其向“全栈 AI 公司”迈出关键一步 。这个是真 “全干” 哈哈哈&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/0/b/70bf89d434818b052a557ff966038141c8a76c0b.jpeg&quot; data-download-href=&quot;/uploads/short-url/g5pQrhzHw5K96Dp9SUx9YlkdX5N.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/0/b/70bf89d434818b052a557ff966038141c8a76c0b_2_437x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;g5pQrhzHw5K96Dp9SUx9YlkdX5N&quot; width=&quot;437&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/0/b/70bf89d434818b052a557ff966038141c8a76c0b_2_437x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/0/b/70bf89d434818b052a557ff966038141c8a76c0b_2_655x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/0/b/70bf89d434818b052a557ff966038141c8a76c0b_2_874x1000.jpeg 2x&quot; data-dominant-color=&quot;524944&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468202&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
