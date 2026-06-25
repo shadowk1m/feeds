@@ -4,7 +4,393 @@
     <title>LINUX DO - Welfare</title>
     <link>https://linux.do/c/welfare/36</link>
     <description>Welfare category from linux.do</description>
-    <lastBuildDate>Wed, 24 Jun 2026 23:57:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:48:56 GMT</lastBuildDate>
+    <item>
+      <title>grok 4.2k sso 分享 每个人60个 70份</title>
+      <link>https://linux.do/t/topic/2470809</link>
+      <guid>linux.do-topic-2470809</guid>
+      <pubDate>Thu, 25 Jun 2026 02:46:55 GMT</pubDate>
+      <description>
+            &lt;p&gt;grok 4.2k sso 分享 每个人60个 70份&lt;br&gt;
+兑换地址 &lt;a href=&quot;http://119.8.42.151:8800/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;http://119.8.42.151:8800/&lt;/a&gt;&lt;br&gt;
+cdk 获取地址：&lt;a href=&quot;https://cdk.linux.do/receive/57ca5d5e-cb93-437a-acd3-56b4b7fe5fa8&quot;&gt;LINUX DO CDK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;奥利给&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2470809&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>（0625快讯）48Team促销码修改Codex席位方法分享</title>
+      <link>https://linux.do/t/topic/2470755</link>
+      <guid>linux.do-topic-2470755</guid>
+      <pubDate>Thu, 25 Jun 2026 02:42:54 GMT</pubDate>
+      <description>
+            &lt;pre&gt;&lt;code class=&quot;lang-auto&quot;&gt;(async () =&gt; {
+  // 使用方法（适用于老的team车位）：
+  // 1. 先登录 ChatGPT，并切到要操作的 Team / Workspace。
+  // 2. 修改下面 CONFIG 里的 email 和 seatType。
+  // 3. 把整段脚本复制到浏览器控制台执行。
+  const CONFIG = {
+    // 要修改席位的成员邮箱。必须和 Team 成员列表里的邮箱一致。
+    email: &quot;openai@163.com&quot;,
+
+    // 想改成哪种席位：
+    // - &quot;default&quot;：普通 ChatGPT 席位，会占用套餐席位，可能影响账单。
+    // - &quot;usage_based&quot;：按量使用席位，通常用于 Codex。
+    seatType: &quot;usage_based&quot;,
+
+    // Workspace 的 accountId。
+    // 通常留空即可，脚本会自动读取当前登录的 Team / Workspace。
+    // 如果你登录了多个 Workspace，且脚本选错了，再手动填写这里。
+    accountId: &quot;&quot;,
+
+    // 每次查询多少个成员。一般不用改。
+    pageSize: 25,
+
+    // 最多扫描多少个成员。成员很多时可以调大。
+    maxScan: 1000,
+
+    // 是否只预览、不真正修改。
+    // 第一次运行建议设为 true，确认找对人和 Workspace 后再改成 false。
+    dryRun: false,
+
+    // 真正修改前是否弹窗二次确认。
+    // 建议保持 true，避免填错邮箱或 Workspace 后误操作。
+    requireConfirm: true,
+  };
+
+  const API_BASE = &quot;https://chatgpt.com/backend-api&quot;;
+  const SEAT_TYPE_LABELS = {
+    default: &quot;普通 ChatGPT 席位（固定席位）&quot;,
+    usage_based: &quot;按量使用席位（通常用于 Codex）&quot;,
+  };
+  const SEAT_TYPES = new Set(Object.keys(SEAT_TYPE_LABELS));
+
+  const log = {
+    info: (...args) =&gt; console.log(&quot;[提示]&quot;, ...args),
+    success: (...args) =&gt; console.log(&quot;[成功]&quot;, ...args),
+    warn: (...args) =&gt; console.warn(&quot;[注意]&quot;, ...args),
+    error: (...args) =&gt; console.error(&quot;[失败]&quot;, ...args),
+  };
+
+  const getSeatTypeText = (seatType) =&gt;
+    `${seatType}：${SEAT_TYPE_LABELS[seatType] || &quot;未知席位类型&quot;}`;
+
+  const normalizeConfig = (config) =&gt; ({
+    email: String(config.email || &quot;&quot;).trim().toLowerCase(),
+    seatType: String(config.seatType || &quot;&quot;).trim(),
+    accountId: String(config.accountId || &quot;&quot;).trim(),
+    pageSize: Number(config.pageSize),
+    maxScan: Number(config.maxScan),
+    dryRun: Boolean(config.dryRun),
+    requireConfirm: config.requireConfirm !== false,
+  });
+
+  // 读取接口返回内容。即使接口没有返回 JSON，也不会让脚本直接崩掉。
+  const readJson = async (response) =&gt; {
+    const text = await response.text();
+    if (!text) return {};
+
+    try {
+      return JSON.parse(text);
+    } catch {
+      return { raw: text };
+    }
+  };
+
+  // 统一请求接口：成功就返回数据，失败就抛出带状态码的错误。
+  const requestJson = async (url, options = {}) =&gt; {
+    const response = await fetch(url, options);
+    const data = await readJson(response);
+
+    if (!response.ok) {
+      const error = new Error(getReadableHttpError(response, data));
+      error.status = response.status;
+      error.data = data;
+      throw error;
+    }
+
+    return data;
+  };
+
+  const getReadableHttpError = (response, data) =&gt; {
+    const detail =
+      data?.detail ||
+      data?.message ||
+      data?.error?.message ||
+      data?.error ||
+      data?.raw ||
+      &quot;&quot;;
+    const suffix = detail ? `，接口提示：${detail}` : &quot;&quot;;
+    return `接口请求失败：HTTP ${response.status} ${response.statusText}${suffix}`;
+  };
+
+  // 执行前先检查配置，避免邮箱没填或席位类型写错。
+  const assertConfig = ({ email, seatType, pageSize, maxScan }) =&gt; {
+    if (!email?.trim()) {
+      throw new Error(&quot;请先填写要修改的成员邮箱：CONFIG.email&quot;);
+    }
+
+    if (!SEAT_TYPES.has(seatType)) {
+      throw new Error(`席位类型写错了，CONFIG.seatType 只能填：${[...SEAT_TYPES].join(&quot; / &quot;)}`);
+    }
+
+    if (!Number.isInteger(pageSize) || pageSize &lt; 1 || pageSize &gt; 100) {
+      throw new Error(&quot;CONFIG.pageSize 必须是 1 到 100 之间的整数&quot;);
+    }
+
+    if (!Number.isInteger(maxScan) || maxScan &lt; pageSize) {
+      throw new Error(&quot;CONFIG.maxScan 必须是整数，并且不能小于 CONFIG.pageSize&quot;);
+    }
+  };
+
+  // 从当前 ChatGPT 登录态里拿访问令牌。拿不到说明没有登录或登录态过期。
+  const getAuthHeaders = async () =&gt; {
+    const session = await requestJson(&quot;/api/auth/session&quot;);
+    if (!session.accessToken) {
+      throw new Error(&quot;没有拿到登录凭证。请先登录 ChatGPT，刷新页面后再执行脚本&quot;);
+    }
+
+    return { Authorization: `Bearer ${session.accessToken}` };
+  };
+
+  // 从账号列表里优先选择 Team / Workspace；找不到时退回第一个账号。
+  const pickWorkspace = (accounts = {}) =&gt; {
+    const entries = Object.values(accounts);
+    return (
+      entries.find(({ account }) =&gt; account?.structure === &quot;workspace&quot;) ||
+      entries[0] ||
+      {}
+    ).account;
+  };
+
+  // 获取当前要操作的 Workspace ID。CONFIG.accountId 有值时优先使用手动填写的值。
+  const resolveAccountId = async (configuredAccountId, authHeaders) =&gt; {
+    if (configuredAccountId) {
+      log.info(&quot;使用手动填写的 accountId:&quot;, configuredAccountId);
+      return { accountId: configuredAccountId, workspaceName: &quot;手动填写&quot; };
+    }
+
+    const timezoneOffsetMin = new Date().getTimezoneOffset();
+    const check = await requestJson(
+      `${API_BASE}/accounts/check/v4-2023-04-27?timezone_offset_min=${timezoneOffsetMin}`,
+      { headers: authHeaders }
+    );
+    const workspace = pickWorkspace(check.accounts);
+
+    log.info(&quot;自动识别到的 Workspace:&quot;, workspace?.name, &quot;accountId:&quot;, workspace?.account_id);
+    if (!workspace?.account_id) {
+      throw new Error(&quot;没有识别到 Workspace。请手动把 accountId 填到 CONFIG.accountId&quot;);
+    }
+
+    return { accountId: workspace.account_id, workspaceName: workspace.name || &quot;未命名 Workspace&quot; };
+  };
+
+  // 给请求头补上当前 Workspace ID。管理成员接口必须带这个字段。
+  const withAccount = (authHeaders, accountId, extra = {}) =&gt; ({
+    ...authHeaders,
+    &quot;chatgpt-account-id&quot;: accountId,
+    ...extra,
+  });
+
+  // 按邮箱在成员列表里分页查找用户。
+  const findMemberByEmail = async (email, accountId, authHeaders, { pageSize, maxScan }) =&gt; {
+    for (let offset = 0; offset &lt; maxScan; offset += pageSize) {
+      const limit = Math.min(pageSize, maxScan - offset);
+      const data = await requestJson(
+        `${API_BASE}/accounts/${accountId}/users?offset=${offset}&amp;limit=${limit}`,
+        { headers: withAccount(authHeaders, accountId) }
+      );
+      const users = data.items || [];
+      const matched = users.find((user) =&gt; (user.email || &quot;&quot;).toLowerCase() === email);
+
+      if (matched) {
+        return matched;
+      }
+
+      log.info(`已扫描 ${offset + users.length} 个成员，继续查找 ${email}`);
+
+      if (users.length &lt; limit) {
+        return matched || null;
+      }
+    }
+
+    return null;
+  };
+
+  // 调用更新接口，把目标成员改成 CONFIG.seatType 指定的席位类型。
+  const updateSeatType = (member, accountId, authHeaders, seatType) =&gt;
+    requestJson(`${API_BASE}/accounts/${accountId}/users/${member.id}`, {
+      method: &quot;PATCH&quot;,
+      headers: withAccount(authHeaders, accountId, {
+        &quot;Content-Type&quot;: &quot;application/json&quot;,
+      }),
+      body: JSON.stringify({ seat_type: seatType }),
+    });
+
+  const buildConfirmMessage = ({ config, member, workspaceName, accountId }) =&gt;
+    [
+      &quot;请确认是否修改席位：&quot;,
+      &quot;&quot;,
+      `Workspace：${workspaceName}`,
+      `accountId：${accountId}`,
+      `成员邮箱：${member.email}`,
+      `成员 ID：${member.id}`,
+      `当前席位：${getSeatTypeText(member.seat_type)}`,
+      `目标席位：${getSeatTypeText(config.seatType)}`,
+      &quot;&quot;,
+      &quot;点击“确定”会立即提交修改。&quot;,
+    ].join(&quot;\n&quot;);
+
+  const shouldUpdate = ({ config, member, workspaceName, accountId }) =&gt; {
+    if (config.dryRun) {
+      log.warn(&quot;当前是 dryRun 预演模式，只展示将要修改的内容，不会真正提交&quot;);
+      return false;
+    }
+
+    if (!config.requireConfirm) {
+      return true;
+    }
+
+    const message = buildConfirmMessage({ config, member, workspaceName, accountId });
+    return typeof confirm === &quot;function&quot; ? confirm(message) : true;
+  };
+
+  const printApiErrorDetail = (error) =&gt; {
+    if (error?.status) {
+      log.error(error.message);
+      if (error.data &amp;&amp; Object.keys(error.data).length) {
+        console.error(&quot;接口返回内容：&quot;, error.data);
+      }
+      return;
+    }
+
+    log.error(error);
+  };
+
+  try {
+    const config = normalizeConfig(CONFIG);
+    assertConfig(config);
+
+    log.info(&quot;准备修改席位&quot;);
+    log.info(&quot;目标成员邮箱:&quot;, config.email);
+    log.info(&quot;目标席位:&quot;, getSeatTypeText(config.seatType));
+
+    const authHeaders = await getAuthHeaders();
+    const { accountId, workspaceName } = await resolveAccountId(config.accountId, authHeaders);
+    const member = await findMemberByEmail(config.email, accountId, authHeaders, config);
+
+    if (!member) {
+      throw new Error(`没有在这个 Workspace 里找到成员：${config.email}`);
+    }
+
+    log.info(
+      `已找到成员：${member.email}。userId=${member.id}，当前席位=${getSeatTypeText(member.seat_type)}`
+    );
+
+    if (member.seat_type === config.seatType) {
+      log.success(`这个成员已经是 ${getSeatTypeText(config.seatType)}，不需要重复修改`);
+      return;
+    }
+
+    log.info(`将要修改：${member.email} 从 ${getSeatTypeText(member.seat_type)} 改为 ${getSeatTypeText(config.seatType)}`);
+
+    if (!shouldUpdate({ config, member, workspaceName, accountId })) {
+      log.warn(&quot;已取消提交，没有修改任何内容&quot;);
+      return;
+    }
+
+    const result = await updateSeatType(member, accountId, authHeaders, config.seatType);
+    log.success(`修改成功：${member.email} 的席位已改为 ${getSeatTypeText(config.seatType)}`, result);
+  } catch (error) {
+    printApiErrorDetail(error);
+  }
+})();
+
+&lt;/code&gt;&lt;/pre&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2470755&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>【富可敌国】seedance和happyhorse已开放，评论区留注册ID送体验金，理想给L站佬友都体验上！速来</title>
+      <link>https://linux.do/t/topic/2470490</link>
+      <guid>linux.do-topic-2470490</guid>
+      <pubDate>Thu, 25 Jun 2026 02:23:29 GMT</pubDate>
+      <description>
+            &lt;p&gt;官网地址：&lt;a href=&quot;https://www.aiide.com&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.aiide.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;seedance（9折）和happyhorse（8折）已上线，评论区留注册id送体验金，每日500名额&lt;/p&gt;
+&lt;p&gt;快速通道（群@Henry，5分钟内私信发放，没收到打断他的腿 &lt;img src=&quot;https://cdn3.ldstatic.com/original/3X/0/2/02d2cb05c3d0bd54ed89d19f9897348a44f614bc.png?v=15&quot; title=&quot;:lark_012:&quot; class=&quot;emoji emoji-custom&quot; alt=&quot;:lark_012:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; ）&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/0/2/d02a527047e4d6154b4345964a9a19c0eb4924cb.jpeg&quot; data-download-href=&quot;/uploads/short-url/tHvZhjxpRrYzHV8WsC6nPqrIp4v.jpeg?dl=1&quot; title=&quot;cbb7c4071e7552b8e73133513f049f26&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/0/2/d02a527047e4d6154b4345964a9a19c0eb4924cb_2_281x500.jpeg&quot; alt=&quot;cbb7c4071e7552b8e73133513f049f26&quot; data-base62-sha1=&quot;tHvZhjxpRrYzHV8WsC6nPqrIp4v&quot; width=&quot;281&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/0/2/d02a527047e4d6154b4345964a9a19c0eb4924cb_2_281x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/0/2/d02a527047e4d6154b4345964a9a19c0eb4924cb_2_421x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/0/2/d02a527047e4d6154b4345964a9a19c0eb4924cb_2_562x1000.jpeg 2x&quot; data-dominant-color=&quot;E9EEF5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;31 个帖子 - 29 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2470490&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>工行小程序领1元立减金</title>
+      <link>https://linux.do/t/topic/2470304</link>
+      <guid>linux.do-topic-2470304</guid>
+      <pubDate>Thu, 25 Jun 2026 02:06:48 GMT</pubDate>
+      <description>
+            &lt;p&gt;（现在估计是没了，不限地址）&lt;span class=&quot;hashtag-raw&quot;&gt;#小程序:&lt;/span&gt;//工行服务/94OZKlEvswAUYpz&lt;br&gt;
+9，14,18点&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/3/3/2333c31d27c18b4360d9b4dfab46ea6bb32f2840.jpeg&quot; data-download-href=&quot;/uploads/short-url/51pBUbjmU8BCREP6IFGIgY0ZFRK.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/2/3/3/2333c31d27c18b4360d9b4dfab46ea6bb32f2840_2_265x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;51pBUbjmU8BCREP6IFGIgY0ZFRK&quot; width=&quot;265&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/2/3/3/2333c31d27c18b4360d9b4dfab46ea6bb32f2840_2_265x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/2/3/3/2333c31d27c18b4360d9b4dfab46ea6bb32f2840_2_397x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/2/3/3/2333c31d27c18b4360d9b4dfab46ea6bb32f2840.jpeg 2x&quot; data-dominant-color=&quot;AFC6A3&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2470304&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>【6.25】券商万一免五开户！【联名】[合租巴士]gpt-5.5低至0.12/刀，评论留id送额度！新老用户都送！每一次发帖留id都送！</title>
+      <link>https://linux.do/t/topic/2470183</link>
+      <guid>linux.do-topic-2470183</guid>
+      <pubDate>Thu, 25 Jun 2026 01:57:51 GMT</pubDate>
+      <description>
+            &lt;h1&gt;&lt;a name=&quot;p-19565847-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19565847-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;[合租巴士]&lt;/strong&gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本站特别开通codex-补贴分组，倍率低至0.12&lt;/p&gt;
+&lt;p&gt;1:1充值，gpt-5.5模型0.35元1M&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;合租巴士一直稳定运行中&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;官网：&lt;a href=&quot;https://hezu.ink/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://hezu.ink/&lt;/a&gt;&lt;br&gt;
+qq群： 920985815&lt;/p&gt;
+&lt;p&gt;评论留合租巴士注册用户名id送额度，新老用户都送！每一次发帖留id都送！&lt;br&gt;
+&lt;strong&gt;【有佬反映之前没送过，是因为送的额度在赠金区，和充值额度分开的！！！】&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/b/f/7bf5bba9058ba46510dd9ff0000e85e9b9859e55.png&quot; data-download-href=&quot;/uploads/short-url/hGBcZhPjheIqcWEM7XzfNJu8lSJ.png?dl=1&quot; title=&quot;a30f0d8dda4e7aa43b713ecdd7a89c52_720&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/b/f/7bf5bba9058ba46510dd9ff0000e85e9b9859e55_2_690x178.png&quot; alt=&quot;a30f0d8dda4e7aa43b713ecdd7a89c52_720&quot; data-base62-sha1=&quot;hGBcZhPjheIqcWEM7XzfNJu8lSJ&quot; width=&quot;690&quot; height=&quot;178&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/b/f/7bf5bba9058ba46510dd9ff0000e85e9b9859e55_2_690x178.png, https://cdn3.ldstatic.com/optimized/4X/7/b/f/7bf5bba9058ba46510dd9ff0000e85e9b9859e55_2_1035x267.png 1.5x, https://cdn3.ldstatic.com/original/4X/7/b/f/7bf5bba9058ba46510dd9ff0000e85e9b9859e55.png 2x&quot; data-dominant-color=&quot;F8F7F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;a name=&quot;p-19565847-h-15-2&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19565847-h-15-2&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;大笑脸万1免5开户&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;专业低佣券商开户，开户和推荐朋友都有红包！&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&quot;p-19565847-h-3&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19565847-h-3&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;券商推荐&lt;/strong&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;银H证券：ETF 万 0.5 免 5 [ETF,LOF费率低，适合etf ，打新，纳指，宽基玩家，新手必备]&lt;/p&gt;
+&lt;p&gt;广F证券：ETF 万 0.5 免 5【etf费率低，龙头券商】&lt;/p&gt;
+&lt;p&gt;华X 证券：万1.3免5 【低门槛的股票etf双免5】&lt;/p&gt;
+&lt;p&gt;东B证券：万 0.741 免 5 [国企券商有miniqmt]&lt;/p&gt;
+&lt;p&gt;国THT：万 0.8 免 5 [头部龙头券商，费率最优惠，大客户专享，综合费率最低]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;&lt;a name=&quot;p-19565847-h-4&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19565847-h-4&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;&lt;strong&gt;联系方式&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;我的网站随时更新低佣券商&lt;a href=&quot;https://www.daxiaolian.com/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://www.daxiaolian.com/&lt;/a&gt;&lt;br&gt;
+开户企业微信&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/b/9/4b9135529693506631656fe61a34a4e76c482815.jpeg&quot; data-download-href=&quot;/uploads/short-url/aMuUTiWhPRV7mXdErtotptq2cG9.jpeg?dl=1&quot; title=&quot;d43ab4162414c67479d6ac9942d1b5fc&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/b/9/4b9135529693506631656fe61a34a4e76c482815_2_245x500.jpeg&quot; alt=&quot;d43ab4162414c67479d6ac9942d1b5fc&quot; data-base62-sha1=&quot;aMuUTiWhPRV7mXdErtotptq2cG9&quot; width=&quot;245&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/b/9/4b9135529693506631656fe61a34a4e76c482815_2_245x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/b/9/4b9135529693506631656fe61a34a4e76c482815_2_367x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/b/9/4b9135529693506631656fe61a34a4e76c482815_2_490x1000.jpeg 2x&quot; data-dominant-color=&quot;96C0EB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;有任何券商问题可以在评论区问我，我看到会回复&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;57 个帖子 - 54 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2470183&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>小羊毛，词元跳动注册送10元额度，活动持续到30号</title>
+      <link>https://linux.do/t/topic/2470071</link>
+      <guid>linux.do-topic-2470071</guid>
+      <pubDate>Thu, 25 Jun 2026 01:51:33 GMT</pubDate>
+      <description>
+            &lt;p&gt;无aff，看站里好像没人提到这个，词元跳动注册送10元额度，似乎用完后可以注销账号重新注册再继续薅。&lt;br&gt;
+使用deepseek可以选择路由到官方服务商。&lt;br&gt;
+官网：&lt;a href=&quot;https://tokendance.space&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://tokendance.space&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/b/a/5ba4486e802fa63deeef68ed5a59ab173e9aa038.jpeg&quot; data-download-href=&quot;/uploads/short-url/d4HqjjcDTPWgAJiQ8ld6wp7Hlgc.jpeg?dl=1&quot; title=&quot;词.PNG&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/b/a/5ba4486e802fa63deeef68ed5a59ab173e9aa038_2_621x500.jpeg&quot; alt=&quot;词.PNG&quot; data-base62-sha1=&quot;d4HqjjcDTPWgAJiQ8ld6wp7Hlgc&quot; width=&quot;621&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/b/a/5ba4486e802fa63deeef68ed5a59ab173e9aa038_2_621x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/b/a/5ba4486e802fa63deeef68ed5a59ab173e9aa038_2_931x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/5/b/a/5ba4486e802fa63deeef68ed5a59ab173e9aa038.jpeg 2x&quot; data-dominant-color=&quot;B2B2B2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2470071&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>来站一直没发什么东西，发几个PT的邀请吧【PTT（PTtime)和咖啡】</title>
       <link>https://linux.do/t/topic/2468959</link>
@@ -16,7 +402,7 @@
 &lt;p&gt;PTT × 4 (有NSFW内容，未成年勿注册）&lt;br&gt;
 咖啡 × 3&lt;/p&gt;
 &lt;p&gt;1人只能选1个，按符合顺序，发完即止。我可能先睡觉，白天统一发。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;29 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;34 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468959&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -29,7 +415,7 @@
             &lt;p&gt;grok 6k sso 分享 每个人100个  61份&lt;/p&gt;
 &lt;p&gt;兑换地址 &lt;a href=&quot;http://119.8.42.151:8800/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;http://119.8.42.151:8800/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;cdk 获取地址：&lt;a href=&quot;https://cdk.linux.do/receive/57ca5d5e-cb93-437a-acd3-56b4b7fe5fa8&quot; class=&quot;inline-onebox&quot;&gt;LINUX DO CDK&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;27 个帖子 - 20 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;28 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468473&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -40,7 +426,7 @@
       <pubDate>Wed, 24 Jun 2026 14:55:39 GMT</pubDate>
       <description>
             &lt;p&gt;来送3k个grok free oss 要人气升级&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2468301&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -118,7 +504,7 @@ QQ邮箱收到邀请时间为2026年4月11日 11:38&lt;/p&gt;
 &lt;p&gt;本活动将在活动截止时间后关闭回帖，以确保公正性。&lt;br&gt;
 中奖者将在活动结束后24小时内在本帖公布，请中奖的佬友带上截图以及注册过的邮箱私信，看到后会第一时间兑奖。&lt;br&gt;
 所有规则及抽奖结果由活动发起人和论坛&lt;a href=&quot;https://linux.do/about&quot;&gt;管理团队&lt;/a&gt;最终解释。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;74 个帖子 - 73 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;86 个帖子 - 85 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467421&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -142,219 +528,6 @@ QQ邮箱收到邀请时间为2026年4月11日 11:38&lt;/p&gt;
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/2/1/d219f1e7218fba52328ba81ce2033de376a02c87.jpeg&quot; data-download-href=&quot;/uploads/short-url/tYDR2Lb2ZW2AGBKBB0inuBhnhr1.jpeg?dl=1&quot; title=&quot;ed6dc5dfc72f49fb8b4ed248b5565b2a&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/2/1/d219f1e7218fba52328ba81ce2033de376a02c87_2_227x500.jpeg&quot; alt=&quot;ed6dc5dfc72f49fb8b4ed248b5565b2a&quot; data-base62-sha1=&quot;tYDR2Lb2ZW2AGBKBB0inuBhnhr1&quot; width=&quot;227&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/2/1/d219f1e7218fba52328ba81ce2033de376a02c87_2_227x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/2/1/d219f1e7218fba52328ba81ce2033de376a02c87_2_340x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/2/1/d219f1e7218fba52328ba81ce2033de376a02c87_2_454x1000.jpeg 2x&quot; data-dominant-color=&quot;C6C5C4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2467308&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>分享一个节点</title>
-      <link>https://linux.do/t/topic/2466974</link>
-      <guid>linux.do-topic-2466974</guid>
-      <pubDate>Wed, 24 Jun 2026 10:25:30 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://cdk.linux.do/receive/7164495e-24cf-4c94-8781-6b1a4c7c602a&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/d/c/adc529222c2e32c16e2422656015ece05df91f75.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;CBBC9B&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
-
-      &lt;a href=&quot;https://cdk.linux.do/receive/7164495e-24cf-4c94-8781-6b1a4c7c602a&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;cdk.linux.do&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://cdk.linux.do/receive/7164495e-24cf-4c94-8781-6b1a4c7c602a&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;LINUX DO CDK&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Linux Do 社区 CDK 快速分享平台 - 让分享变得更简单&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/a/6/3a69f703baed673a14a7240ef283bbc002c87b76.png&quot; data-download-href=&quot;/uploads/short-url/8kKILw29JVR85vskolI4DuAyPz0.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/a/6/3a69f703baed673a14a7240ef283bbc002c87b76_2_631x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8kKILw29JVR85vskolI4DuAyPz0&quot; width=&quot;631&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/a/6/3a69f703baed673a14a7240ef283bbc002c87b76_2_631x500.png, https://cdn3.ldstatic.com/optimized/4X/3/a/6/3a69f703baed673a14a7240ef283bbc002c87b76_2_946x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/a/6/3a69f703baed673a14a7240ef283bbc002c87b76.png 2x&quot; data-dominant-color=&quot;EBEAEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-200gb&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/6/f/a6f508778025dcb92f25aeabb3dc964be58bf67a.png&quot; data-download-href=&quot;/uploads/short-url/nOYeWwXogM75l2H9iWyXgCm2mRY.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/f/a6f508778025dcb92f25aeabb3dc964be58bf67a_2_690x207.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;nOYeWwXogM75l2H9iWyXgCm2mRY&quot; width=&quot;690&quot; height=&quot;207&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/6/f/a6f508778025dcb92f25aeabb3dc964be58bf67a_2_690x207.png, https://cdn3.ldstatic.com/optimized/4X/a/6/f/a6f508778025dcb92f25aeabb3dc964be58bf67a_2_1035x310.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/6/f/a6f508778025dcb92f25aeabb3dc964be58bf67a.png 2x&quot; data-dominant-color=&quot;F9FAFD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2466974&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>【真金白银】别吃灰了，带上你的 GitHub 仓库来领 API 额度（门槛不高，榜一送 $1000）</title>
-      <link>https://linux.do/t/topic/2466739</link>
-      <guid>linux.do-topic-2466739</guid>
-      <pubDate>Wed, 24 Jun 2026 09:45:30 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;strong&gt;各位 L 站的佬友，大家豪！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;开源这行，为爱发电不容易。大家熬夜码出来的 Repo，往往卡在昂贵的 Token 账单和算力壁垒上。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;不画饼，直接上干货。&lt;/strong&gt; EvoMap 正式启动 &lt;strong&gt;API Grant 专项资助计划（活动时间：6.18 - 7.10）&lt;/strong&gt;。我们这次不设高门槛，只要你有一颗开源的心，就来拿属于你的“数字燃料”：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/rocket.png?v=15&quot; title=&quot;:rocket:&quot; class=&quot;emoji&quot; alt=&quot;:rocket:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; &lt;strong&gt;核心福利（先到先得）&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;星火普惠&lt;/strong&gt;：GitHub Star &gt; 1 就能直接申请参与，0门槛直接白嫖生态基础资源！&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;千星专享&lt;/strong&gt;：Repo 只要过 1000 Star，官方直接砸 价值 &lt;strong&gt;$100 美金&lt;/strong&gt; 的API 额度！&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;冲榜争霸&lt;/strong&gt;：活动结束时最终冲到 Top 10 的神仙项目，还能再获得额外激励，其中Top 1 能独揽 价值 &lt;strong&gt;$1000&lt;/strong&gt;  的API 额度！&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/backhand_index_pointing_right.png?v=15&quot; title=&quot;:backhand_index_pointing_right:&quot; class=&quot;emoji&quot; alt=&quot;:backhand_index_pointing_right:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 速度占座：&lt;a href=&quot;https://evomap.ai/zh/api-grant?utm_source=linuxdo&amp;utm_campaign=kol&amp;utm_content=official0624&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Build Reusable Skills · Unlock Top-Tier LLM APIs | EvoMap&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/hammer_and_wrench.png?v=15&quot; title=&quot;:hammer_and_wrench:&quot; class=&quot;emoji&quot; alt=&quot;:hammer_and_wrench:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; &lt;strong&gt;EvoMap 是什么：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;EvoMap&lt;/strong&gt; 是一个驱动 Agent 自我进化的经验网络。我们致力于解决大模型在复杂任务中“记不住教训、无法复用经验”的痛点。一个 Agent 学会，百万 Agent 继承。 完美适配各种硬核 Agent 创新、A2A 协作和复杂工具链的构建。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我们深知“不为短期喧嚣，只为长期同行”的道理。与其把预算拿去砸无意义的广告，我们更愿意把真金白银送到真正懂技术、在 Build 的开发者手里。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;======&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其他想对佬友们说的：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上一个帖子收到了很多佬友真诚的反馈，太感谢了！还有热心的佬友帮忙出活动指南！&lt;/p&gt;
-&lt;p&gt;因为是第一次办这种活动，所以每个关于不足的反馈都是宝贵的经验！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;目前给佬友们同步一下几个事情的处理情况：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;关于github资格预演通过但核验失败的问题：已修复&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;关于获取的API额度莫名被清零的问题：开发尝试后无法复现，请遇到这类问题的佬私信我账号邮箱，让开发调研下定位问题；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;关于quota 消耗的问题：已反馈，正在优化中。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-            &lt;p&gt;&lt;small&gt;22 个帖子 - 14 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2466739&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>谷歌已全面开放修改 @gmail.com 邮箱前缀功能</title>
-      <link>https://linux.do/t/topic/2466707</link>
-      <guid>linux.do-topic-2466707</guid>
-      <pubDate>Wed, 24 Jun 2026 09:40:56 GMT</pubDate>
-      <description>
-            &lt;p&gt;直接在账号设置中更改邮箱地址，不用重新注册账号，终于可以把之前乱七八糟的用户名改掉了。&lt;br&gt;
-&lt;strong&gt;教程&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1.访问以下地址登录谷歌账号&lt;br&gt;
-入口：&lt;a href=&quot;http://myaccount.google.com/google-account-email&quot; rel=&quot;noopener nofollow ugc&quot;&gt;http://myaccount.google.com/google-account-email&lt;/a&gt;&lt;br&gt;
-2.点击更改按钮&lt;br&gt;
-3.只能使用字母 (a-z)、数字 (0-9) 和句点 (.)和请使用至少 6 个字母数字字符&lt;br&gt;
-4.同一个 Google 账号想换新的邮箱，至少要隔 12 个月；不过改回备用邮箱的话，随时都可以&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;21 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2466707&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>腾讯的新工具:agent 邮箱</title>
-      <link>https://linux.do/t/topic/2466387</link>
-      <guid>linux.do-topic-2466387</guid>
-      <pubDate>Wed, 24 Jun 2026 09:02:00 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/3/8/a38f31ab2af78839a7c7e1ba4411a7ae56ec380d.webp&quot; data-download-href=&quot;/uploads/short-url/nkUCpaKJ97rvdrTn4lbCJ7SRAXr.webp?dl=1&quot; title=&quot;2f13847e9c0b3f8d9bdadc3b81f56d0b&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/3/8/a38f31ab2af78839a7c7e1ba4411a7ae56ec380d_2_690x373.webp&quot; alt=&quot;2f13847e9c0b3f8d9bdadc3b81f56d0b&quot; data-base62-sha1=&quot;nkUCpaKJ97rvdrTn4lbCJ7SRAXr&quot; width=&quot;690&quot; height=&quot;373&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/3/8/a38f31ab2af78839a7c7e1ba4411a7ae56ec380d_2_690x373.webp, https://cdn3.ldstatic.com/optimized/4X/a/3/8/a38f31ab2af78839a7c7e1ba4411a7ae56ec380d_2_1035x559.webp 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/3/8/a38f31ab2af78839a7c7e1ba4411a7ae56ec380d_2_1380x746.webp 2x&quot; data-dominant-color=&quot;ECEFF4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://agent.qq.com/&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/f/5/5f5c13e0afd56d4b5f53661f50d1dc5fdfcca012.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;B7B7B7&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://agent.qq.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;agent.qq.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://agent.qq.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Agently Mail&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。Agent 一键接入邮箱，请阅读 https://agent.qq.com/doc/cli-setup.md 文档，按照步骤为我安装并配置 Agently Mail CLI。&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-&lt;p&gt;
-现在还在内测中。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2466387&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>国航答题每天60里程</title>
-      <link>https://linux.do/t/topic/2465057</link>
-      <guid>linux.do-topic-2465057</guid>
-      <pubDate>Wed, 24 Jun 2026 06:27:38 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://m.airchina.com.cn/ac/c/invoke/activity/618dch5@pg?share=true&amp;lang=zh_CN&amp;backFlag=login&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://m.airchina.com.cn/ac/c/invoke/activity/618dch5@pg?share=true&amp;lang=zh_CN&amp;backFlag=login&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;m.airchina.com.cn&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://m.airchina.com.cn/ac/c/invoke/activity/618dch5@pg?share=true&amp;lang=zh_CN&amp;backFlag=login&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;“马”住618，一夏有好价&lt;/a&gt;&lt;/h3&gt;
-
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;每天答题领60里程，答对10天再送500里程&lt;/p&gt;
-&lt;p&gt;今日答案：B：二、四、六、日&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2465057&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>支付宝支付有礼高温红包送碰一碰红包</title>
-      <link>https://linux.do/t/topic/2464872</link>
-      <guid>linux.do-topic-2464872</guid>
-      <pubDate>Wed, 24 Jun 2026 06:03:34 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/0/2/70205a027f094eb54286c3232b5096e5930a81d0.jpeg&quot; data-download-href=&quot;/uploads/short-url/fZUMXvDumPWw7PADxxnnNERjHMc.jpeg?dl=1&quot; title=&quot;ad87362a73ec754d57c704d8df7dcb0a&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/0/2/70205a027f094eb54286c3232b5096e5930a81d0_2_238x500.jpeg&quot; alt=&quot;ad87362a73ec754d57c704d8df7dcb0a&quot; data-base62-sha1=&quot;fZUMXvDumPWw7PADxxnnNERjHMc&quot; width=&quot;238&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/0/2/70205a027f094eb54286c3232b5096e5930a81d0_2_238x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/0/2/70205a027f094eb54286c3232b5096e5930a81d0_2_357x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/0/2/70205a027f094eb54286c3232b5096e5930a81d0_2_476x1000.jpeg 2x&quot; data-dominant-color=&quot;B1AEB0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-冲冲冲佬们！！！&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2464872&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>iOS喜加一，ice sudoku应用限免</title>
-      <link>https://linux.do/t/topic/2464701</link>
-      <guid>linux.do-topic-2464701</guid>
-      <pubDate>Wed, 24 Jun 2026 05:40:19 GMT</pubDate>
-      <description>
-            &lt;p&gt;ice sudoku 采用高效随机数算法，通过多线程并发技术以高效利用AppleA系列处理器，可快速生成5种(新手、简单、中等、困难、顶尖)不同难度的数独，提供涵盖SE 1.2~11.9的全方位题库，并支持搜索与随机检索。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/ice-sudoku/id1473595660&quot; rel=&quot;noopener nofollow ugc&quot;&gt;‎ice sudoku App - App Store&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2464701&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>速领！联通8TB网盘钻石会员年卡，亲测有效！</title>
-      <link>https://linux.do/t/topic/2464378</link>
-      <guid>linux.do-topic-2464378</guid>
-      <pubDate>Wed, 24 Jun 2026 04:36:21 GMT</pubDate>
-      <description>
-            &lt;p&gt;你要是联通用户，从“中国联通”APP里搜“客户日”，会看到一个服务叫“联通客户日”。点进去，第一个有粽子图标的就是最新的客户日活动。&lt;/p&gt;
-&lt;p&gt;进去后玩它的消除的游戏，玩几局就有赚到一两百个小粽子，然后去大转盘抽奖。消耗50个粽子抽一次。今早我一次抽到联通云盘钻石会员年卡。如果一次没抽到，就一直玩，一直抽，直到抽到网盘会员年卡为止。&lt;/p&gt;
-&lt;p&gt;里面就是消消乐的简单游戏  还给你瞄准器&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;62 个帖子 - 59 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2464378&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>支付宝高温红包活动放水了</title>
-      <link>https://linux.do/t/topic/2463861</link>
-      <guid>linux.do-topic-2463861</guid>
-      <pubDate>Wed, 24 Jun 2026 03:23:19 GMT</pubDate>
-      <description>
-            &lt;p&gt;支付宝-支付有礼页面，今天进入就送三张碰一碰红包，中午吃饭可以加个蛋了&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/a/5/9a5d689ad9cdd6bebba93d61dd4fd2e9ddefb113.jpeg&quot; data-download-href=&quot;/uploads/short-url/m1zELlHfPRw5PbB3Vu7kGXFYHaH.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/a/5/9a5d689ad9cdd6bebba93d61dd4fd2e9ddefb113_2_234x499.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;m1zELlHfPRw5PbB3Vu7kGXFYHaH&quot; width=&quot;234&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/a/5/9a5d689ad9cdd6bebba93d61dd4fd2e9ddefb113_2_234x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/a/5/9a5d689ad9cdd6bebba93d61dd4fd2e9ddefb113_2_351x748.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/9/a/5/9a5d689ad9cdd6bebba93d61dd4fd2e9ddefb113.jpeg 2x&quot; data-dominant-color=&quot;C3CACB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;36 个帖子 - 34 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2463861&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>

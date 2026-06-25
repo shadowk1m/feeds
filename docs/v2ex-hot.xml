@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 24 Jun 2026 23:57:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:48:56 GMT</lastBuildDate>
     <item>
       <title>庆祝 Steam Machine 发布，再送一台价值 5499 元懒猫微服！</title>
       <link>https://www.v2ex.com/t/1222480</link>
@@ -72,19 +72,30 @@
 </description>
     </item>
     <item>
-      <title>买了房有点后悔，怎么调整心态？</title>
-      <link>https://www.v2ex.com/t/1222423</link>
-      <guid>v2ex-1222423</guid>
-      <pubDate>Wed, 24 Jun 2026 01:46:10 GMT</pubDate>
-      <description>&lt;p&gt;去年年底我爸过来我城市，拉我一起看房，当时还有女朋友，谈了快两年，想着可能也快结婚了，就买了套毛坯二手房，今年 1 月（ 26 年）过户。结果就这短短不到一个月时间，女朋友分手了。房子价格倒也还行，118 平，101.5 万。首付交了 41.5 （自己攒了 26 和爸妈借了 11 ，剩下和哥哥姐姐们借的），剩下公积金贷月供 2500 多，商贷 1400 多，对我来说压力不大。这半年有在学习投资，买了纳指的定投，看着收益率突然觉得，把首付拿去投资岂不是赚翻了？当然我也清楚我没啥金融方面的知识，这次能赚到不是我能力强，算是刚好赶上了。但还是会想要是没买房会怎么样，更何况女朋友也分了，更觉得买房没有意义。希望大佬们能指点一二。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>昨天又跟我老婆吵了一架</title>
-      <link>https://www.v2ex.com/t/1222418</link>
-      <guid>v2ex-1222418</guid>
-      <pubDate>Wed, 24 Jun 2026 01:28:42 GMT</pubDate>
-      <description>&lt;p&gt;躺床上刷着手机，突然跟我来了一句，让我跟我妹说暑假不要来了。我说你怎么不直接跟她说，她说不想做这个坏人，怕被记恨。然后我开玩笑说了一句那我也不想被记恨。后面我就没理她了，然后就开始找东西开始往我身上甩，弄得我烦了我就吼了一句滚出去吧，结局就是分房睡了一晚一直在烙饼。&lt;/p&gt;
+      <title>[内测回馈] Brivionix（Codex Pro 池）— GPT-5.5 / 5.4 / 5.3，回帖留 ID 送 $10</title>
+      <link>https://www.v2ex.com/t/1222664</link>
+      <guid>v2ex-1222664</guid>
+      <pubDate>Thu, 25 Jun 2026 00:33:48 GMT</pubDate>
+      <description>&lt;p&gt;各位 V 友好！我们于 6 月 21 号进一步提升了命令缓存读取问题。&lt;/p&gt;
+&lt;p&gt;网站继续内测稳定性，欢迎你们体验使用，在此祝各位事事顺利，身体健康，开开心心！&lt;/p&gt;
+&lt;h2&gt;当前支持模型（均为 Codex Pro 号池）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;gpt-5.5&lt;/code&gt; — 1.1M 超长上下文，支持推理、工具调用、文件、视觉&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gpt-5.4&lt;/code&gt; / &lt;code&gt;gpt-5.4-mini&lt;/code&gt; — 400K 上下文，日常编码主力&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gpt-5.3-codex&lt;/code&gt; — Codex 原生模型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;全系模型均来自 Codex Pro 池，完美兼容 &lt;strong&gt;Codex App / Claude Code&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2&gt;收费方式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;0.85 RMB = 1 $，按量计费，无需订阅&lt;/li&gt;
+&lt;li&gt;支持 &lt;strong&gt;支付宝 / Stripe&lt;/strong&gt; 充值，国内国外都方便&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🎁 内测回馈福利&lt;/h2&gt;
+&lt;p&gt;回帖留下注册用户 ID ，每人送 &lt;strong&gt;$10 额度&lt;/strong&gt;，数量有限，先到先得。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PS: 个人账号金额一直未使用者，不能参与本次福利。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://brivionix.com/&quot; rel=&quot;nofollow&quot;&gt;brivionix.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;这是我们于 6 月 21 号提高命中缓存读取的部分日志截图 &lt;a href=&quot;https://i.ibb.co/My3KKd57/Screenshot-2026-06-22-at-12-30-18.png&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt;。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -180,60 +191,32 @@ LNMJ6A47THJJMXXLH8
 </description>
     </item>
     <item>
-      <title>18cm 们，你们的车内有异响吗？</title>
-      <link>https://www.v2ex.com/t/1222438</link>
-      <guid>v2ex-1222438</guid>
-      <pubDate>Wed, 24 Jun 2026 02:12:05 GMT</pubDate>
-      <description>&lt;p&gt;年初提的 7X ，四个门板都有出现过异响，跑了极氪家好几次都弄好了（每次弄 1-2 个门），极氪家售后态度还是很不错的，不是在他家提的车也给免费搞。&lt;/p&gt;
-&lt;p&gt;但最近天气热了，副驾门板早上出门时又有哒哒哒的异响声了，但傍晚下班回去又没有异响（个人怀疑是因为车停在外面晒了半天车内卡扣热胀了，旷量更小所以不响）。&lt;/p&gt;
-&lt;p&gt;之前开油车的时候感觉异响都无所谓，内饰吱呀吱呀的还挺“悦耳”的；电车开起来太安静了，导致一点点车内异响就非常明显，实在是忍不了。&lt;/p&gt;
-&lt;p&gt;18cm 们，你们车子有异响会去处理吗？&lt;/p&gt;
-</description>
+      <title>纯好奇：为什么国人这么爱随地吐痰</title>
+      <link>https://www.v2ex.com/t/1222662</link>
+      <guid>v2ex-1222662</guid>
+      <pubDate>Thu, 25 Jun 2026 00:06:01 GMT</pubDate>
+      <description>很久以来观察到的一个现象，感觉身边随地吐痰的人越来越多，每天走在路上，至少遇到好几个。路上到处都是痰渍，但似乎国外并没有这个现象，或者说吐痰的人明显比国内要少很多。不知道为什么会出现这种差异，是素质问题吗。</description>
     </item>
     <item>
-      <title>天塌了，在工位眼巴巴的看着家里电脑离线</title>
-      <link>https://www.v2ex.com/t/1222405</link>
-      <guid>v2ex-1222405</guid>
-      <pubDate>Wed, 24 Jun 2026 00:49:00 GMT</pubDate>
-      <description>&lt;p&gt;天塌了兄弟们，我平常在公司是使用 uu 远程家里电脑进行个人项目开发的，但是今天早上刚出门忘了看 uu 远程是否正常连接了，导致现在在工位只能眼巴巴的看着电脑离线。。。&lt;/p&gt;
-&lt;p&gt;家里目前无法使用有线连接，主机是用的 usb 无线网卡，这种无线网卡经常容易掉线。
-有啥比较好的无线网卡推荐吗？
-大家平时是远程家里电脑工作吗？&lt;/p&gt;
-</description>
+      <title>广州科目三挂了四次了，求助</title>
+      <link>https://www.v2ex.com/t/1222591</link>
+      <guid>v2ex-1222591</guid>
+      <pubDate>Wed, 24 Jun 2026 10:01:09 GMT</pubDate>
+      <description>三次挂在靠边停车，两次大于 50CM ，一次压线，我真的要疯了，有好的法子么大佬们求助</description>
     </item>
     <item>
-      <title>看了这些讨论婚姻帖子的感受</title>
-      <link>https://www.v2ex.com/t/1222398</link>
-      <guid>v2ex-1222398</guid>
-      <pubDate>Wed, 24 Jun 2026 00:06:33 GMT</pubDate>
-      <description>&lt;p&gt;最近看到的两个帖子 &lt;/p&gt;
-&lt;p&gt;一个是老婆让他洗碗 他不洗 就吵架 &lt;/p&gt;
-&lt;p&gt;现在是吃西瓜 谁要吃第一口&lt;/p&gt;
-&lt;p&gt;发生一个事情，肯定是有前因后果的，但是往往楼主只会描述了一个对自己有利的结果&lt;/p&gt;
-&lt;p&gt;帖子其实没什么感觉，最可怕的是评论里输出内容 感觉大家都不怎么思考&lt;/p&gt;
-&lt;p&gt;两个人能在一起，大家的条件是差不多的，你觉得对方不行，其实在变相的说自己不行&lt;/p&gt;
-&lt;p&gt;所以要找到优秀的对象，提升自己才是关键&lt;/p&gt;
-</description>
+      <title>公司搞 token 调用排名了，使用率低的影响绩效考核。</title>
+      <link>https://www.v2ex.com/t/1222513</link>
+      <guid>v2ex-1222513</guid>
+      <pubDate>Wed, 24 Jun 2026 06:08:36 GMT</pubDate>
+      <description>今天收到邮件，公司自建模型调用排名。调用量低的开发，直接被通报了。警告使用率低的影响绩效考核。&lt;br /&gt;问题这个模型的规模只有 32b ，大家都不想用。想过用龙虾来挥霍 token ，但是公司会审计提问数据，不能灌水。&lt;br /&gt;天塌了，感觉 ai 时代，程序员一样要沦为资本家的牛马。</description>
     </item>
     <item>
-      <title>开始注射替尔泊肽</title>
-      <link>https://www.v2ex.com/t/1222419</link>
-      <guid>v2ex-1222419</guid>
-      <pubDate>Wed, 24 Jun 2026 01:29:32 GMT</pubDate>
-      <description>&lt;p&gt;不知不觉从 185cm/260 斤，看起来还算是个人，变成 310 斤不像人了，加上现在的驻场工作，每天久坐，&lt;/p&gt;
-&lt;p&gt;每天睡前简直太难以忍受那种饥饿的感觉，炒面/米饭/饼/炸鸡/版面啥的，简直就是“良子”，&lt;/p&gt;
-&lt;p&gt;加上最近有点痛风，从之前觉得胖点无所谓，现在好像真的出问题了，有点难以接受了，&lt;/p&gt;
-&lt;p&gt;医院检查了甲状腺，可以打，其他没有高的，都正常，记录下第一次注射 5mg 作为启动剂量，一月之后在发一贴，&lt;/p&gt;
-&lt;p&gt;今天是 155kg 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/J4k8j57.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>如果让你推荐 macOS 最喜欢的一款软件，你推荐什么？</title>
-      <link>https://www.v2ex.com/t/1222429</link>
-      <guid>v2ex-1222429</guid>
-      <pubDate>Wed, 24 Jun 2026 01:58:45 GMT</pubDate>
-      <description>恰巧看到有位老哥说 macOS 图标难看，然后贴图后，大家发现软件都很小众，几乎没怎么听过，&lt;br /&gt;所以就想看看大家平时特别喜欢用的 macOS 软件有哪些&lt;br /&gt;&lt;br /&gt;想找大家安利一波，最好是带上系统版本，推荐理由，蟹蟹大家</description>
+      <title>啥时候能买小米的股票</title>
+      <link>https://www.v2ex.com/t/1222590</link>
+      <guid>v2ex-1222590</guid>
+      <pubDate>Wed, 24 Jun 2026 10:00:11 GMT</pubDate>
+      <description>之前 30 开始买，买到 52 ，赚了 50 来万，卖了去装修了。家里电器也买的小米。后面 48 开始抄底，36 全部割了，亏了 30 多个回去，我还是卖了 35 的 intc 去买的小米。。。&lt;br /&gt;&lt;br /&gt;现在 22 了，感觉很多人开始割肉，打算在 20 的位置开始建仓了，大家怎么看，仔细讨论别骂人。。</description>
     </item>
   </channel>
 </rss>
