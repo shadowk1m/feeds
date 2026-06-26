@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 26 Jun 2026 17:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 19:13:16 GMT</lastBuildDate>
     <item>
       <title>准备订婚了，因为她妈妈以后要不要长期同住这件事，我第一次有点想退了</title>
       <link>https://www.v2ex.com/t/1223069</link>
@@ -147,19 +147,19 @@
 </description>
     </item>
     <item>
-      <title>科学上网的疑问</title>
-      <link>https://www.v2ex.com/t/1223114</link>
-      <guid>v2ex-1223114</guid>
-      <pubDate>Fri, 26 Jun 2026 07:49:06 GMT</pubDate>
-      <description>&lt;p&gt;现在的环境是爱快主路由，挂旁路由 immt+nikki 。手动指定网关和 DNS 到旁路由。nikki 是直接用的机场的配置文件，大部分情况都用的好好的，但是偶尔会抽风，比如淘宝打不开，也不是全部打不开，部分页面打不开，直接连接被重置。也发生在其他网站上。有时候挺闹心的，这貌似是 DNS 的问题。是否有更完美的方式呢，不用自己维护的。收费也 ok 。之前是用 apple tv  装 surge ，就是内存溢出死机比较难绷。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>大家在 AI 编程的时候，比如 AI 会思考很长时间才给答案，这个时间大家一般都在干啥</title>
       <link>https://www.v2ex.com/t/1223002</link>
       <guid>v2ex-1223002</guid>
       <pubDate>Fri, 26 Jun 2026 02:45:17 GMT</pubDate>
       <description>&lt;p&gt;因为有的时候 AI 编程特别费时间，可能要等好久，这个时间有点无聊，大家一般是用来干啥的？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>科学上网的疑问</title>
+      <link>https://www.v2ex.com/t/1223114</link>
+      <guid>v2ex-1223114</guid>
+      <pubDate>Fri, 26 Jun 2026 07:49:06 GMT</pubDate>
+      <description>&lt;p&gt;现在的环境是爱快主路由，挂旁路由 immt+nikki 。手动指定网关和 DNS 到旁路由。nikki 是直接用的机场的配置文件，大部分情况都用的好好的，但是偶尔会抽风，比如淘宝打不开，也不是全部打不开，部分页面打不开，直接连接被重置。也发生在其他网站上。有时候挺闹心的，这貌似是 DNS 的问题。是否有更完美的方式呢，不用自己维护的。收费也 ok 。之前是用 apple tv  装 surge ，就是内存溢出死机比较难绷。&lt;/p&gt;
 </description>
     </item>
   </channel>
