@@ -4,34 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 25 Jun 2026 23:18:44 GMT</lastBuildDate>
-    <item>
-      <title>[内测回馈] Brivionix（Codex Pro 池）— GPT-5.5 / 5.4 / 5.3，回帖留 ID 送 $10</title>
-      <link>https://www.v2ex.com/t/1222664</link>
-      <guid>v2ex-1222664</guid>
-      <pubDate>Thu, 25 Jun 2026 00:33:48 GMT</pubDate>
-      <description>&lt;p&gt;各位 V 友好！我们于 6 月 21 号进一步提升了命令缓存读取问题。&lt;/p&gt;
-&lt;p&gt;网站继续内测稳定性，欢迎你们体验使用，在此祝各位事事顺利，身体健康，开开心心！&lt;/p&gt;
-&lt;h2&gt;当前支持模型（均为 Codex Pro 号池）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;gpt-5.5&lt;/code&gt; — 1.1M 超长上下文，支持推理、工具调用、文件、视觉&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;gpt-5.4&lt;/code&gt; / &lt;code&gt;gpt-5.4-mini&lt;/code&gt; — 400K 上下文，日常编码主力&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;gpt-5.3-codex&lt;/code&gt; — Codex 原生模型&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;全系模型均来自 Codex Pro 池，完美兼容 &lt;strong&gt;Codex App / Claude Code&lt;/strong&gt;。&lt;/p&gt;
-&lt;h2&gt;收费方式&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;0.85 RMB = 1 $，按量计费，无需订阅&lt;/li&gt;
-&lt;li&gt;支持 &lt;strong&gt;支付宝 / Stripe&lt;/strong&gt; 充值，国内国外都方便&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🎁 内测回馈福利&lt;/h2&gt;
-&lt;p&gt;回帖留下注册用户 ID ，每人送 &lt;strong&gt;$10 额度&lt;/strong&gt;，数量有限，先到先得。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PS: 个人账号金额一直未使用者，不能参与本次福利。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://brivionix.com/&quot; rel=&quot;nofollow&quot;&gt;brivionix.com&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;这是我们于 6 月 21 号提高命中缓存读取的部分日志截图 &lt;a href=&quot;https://i.ibb.co/My3KKd57/Screenshot-2026-06-22-at-12-30-18.png&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt;。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 01:34:08 GMT</lastBuildDate>
     <item>
       <title>刚办完父亲丧事难过想抱会，女友怕传染感冒耽误旅行拒绝，是我太敏感吗？</title>
       <link>https://www.v2ex.com/t/1222857</link>
@@ -73,13 +46,6 @@
 </description>
     </item>
     <item>
-      <title>为什么 gpt5.5 连高考英语都能错这么多呢</title>
-      <link>https://www.v2ex.com/t/1222669</link>
-      <guid>v2ex-1222669</guid>
-      <pubDate>Thu, 25 Jun 2026 01:17:09 GMT</pubDate>
-      <description>最近用 gpt 发现他做高考英语错误频出，我让他帮我批改卷子，好几个问题都出错了。然后我告诉他错了，让他再做一遍，他就说好的，确实是他错了，这次改出来错的就蛮少了。我又说你不能单纯顺从我说的，我俩是在讨论，然后输出的一版又是把一些错误的答案说成对的。按理说 gpt 不应该连高考英语都能错很多吧，用的是 gpt5.5 高级</description>
-    </item>
-    <item>
       <title>来吧，推荐出让你心动的鼠标吧，都 2026 年 6 月了，是时候更新一波鼠标了</title>
       <link>https://www.v2ex.com/t/1222740</link>
       <guid>v2ex-1222740</guid>
@@ -94,6 +60,33 @@
 &lt;li&gt;价位：肯定是好用便宜是最优解，但如果很好用，稍微贵一点也无伤大雅&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    <item>
+      <title>感谢大家帮忙公测，现已上架国区 App Store（送年度会员）🎉</title>
+      <link>https://www.v2ex.com/t/1222800</link>
+      <guid>v2ex-1222800</guid>
+      <pubDate>Thu, 25 Jun 2026 07:33:25 GMT</pubDate>
+      <description>&lt;p&gt;接上篇帖子&lt;a href=&quot;https://v2ex.com/t/1221623#reply16&quot; rel=&quot;nofollow&quot;&gt;新写的软件开始公测啦，送永久会员🎉&lt;/a&gt;，截止目前公测用户已经 657 个了，感谢大家的支持。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;image-20260625090515383&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://resource.kaisir.cn/uploads/MarkDownImg/20260625/laOCjU.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;目前 VirPulse 已经上架&lt;a href=&quot;https://apps.apple.com/cn/iphone/search?term=virpulse&quot; rel=&quot;nofollow&quot;&gt;国区商店&lt;/a&gt;，给大家承诺的公测期间送永久会员，已经在 app 内做了相关功能，更到最新的 1.2.5 版本即可。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;IMG_4992&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://resource.kaisir.cn/uploads/MarkDownImg/20260622/J1ppdD.PNG&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;v 站专属福利&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;如果大家对我这个软件感兴趣的话，可以在评论区回复自己的邮箱，送大家年度会员兑换码。&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>这个夏天疯狂爆痘</title>
+      <link>https://www.v2ex.com/t/1222717</link>
+      <guid>v2ex-1222717</guid>
+      <pubDate>Thu, 25 Jun 2026 03:19:12 GMT</pubDate>
+      <description>洗面奶用的是“山茶花控油”感觉没啥用，额头、上嘴唇尤其高发&lt;br /&gt;&lt;br /&gt;还在用控油水乳，不过天热后用的很少了，只用水抹一抹，要不干到起皮&lt;br /&gt;&lt;br /&gt;使用 ARKO 剃须皂棒和手动刀刮胡子，不知道是不是和这个有关，ARKO 确实是最近一个月内才开始用的</description>
+    </item>
+    <item>
+      <title> Apple 平板和电脑涨价</title>
+      <link>https://www.v2ex.com/t/1222904</link>
+      <guid>v2ex-1222904</guid>
+      <pubDate>Thu, 25 Jun 2026 13:16:49 GMT</pubDate>
+      <description>iPad：3799 元起&lt;br /&gt;iPad Air：5999 元起&lt;br /&gt;iPad Pro：10799 元起&lt;br /&gt;iPad mini：4799 元起&lt;br /&gt;&lt;br /&gt;MacBook Neo：5499 元起&lt;br /&gt;MacBook Air：9999 元起&lt;br /&gt;MacBook Pro：15999 元起&lt;br /&gt;iMac：12499 元起&lt;br /&gt;Mac mini：5999 元起&lt;br /&gt;Mac Studio：19999 元起</description>
     </item>
   </channel>
 </rss>
