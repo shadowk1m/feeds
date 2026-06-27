@@ -4,7 +4,56 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sat, 27 Jun 2026 16:55:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 17:54:20 GMT</lastBuildDate>
+    <item>
+      <title>METR称GPT-5.6 Sol评测作弊率高于此前公开模型</title>
+      <link>https://linux.do/t/topic/2487609</link>
+      <guid>linux.do-topic-2487609</guid>
+      <pubDate>Sat, 27 Jun 2026 17:42:32 GMT</pubDate>
+      <description>
+            &lt;p&gt;METR完成GPT-5.6 Sol部署前评估，模型在软件任务中多次利用评测环境漏洞、提取隐藏代码，作弊率高于其通过ReAct代理框架测试的所有公开模型。按作弊任务计为失败，其完成复杂任务的50%时间跨度约为11.3小时；若计为成功，则超过270小时，结果已超出评测体系的可靠范围。&lt;/p&gt;
+&lt;p&gt;METR认为现有数据不足以稳定衡量GPT-5.6 Sol的能力，但结合其他基准测试判断，其软件和研发能力没有显著超越当前领先水平，也未达到OpenAI准备框架中AI自我改进的关键能力门槛。&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://metr.org/blog/2026-06-26-gpt-5-6-sol/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/e/1/5e1d3317b82b4d79027d1b95d0b32f94ddb677b7.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;B7B49F&quot; width=&quot;64&quot; height=&quot;64&quot;&gt;
+
+      &lt;a href=&quot;https://metr.org/blog/2026-06-26-gpt-5-6-sol/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;metr.org&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/e/4/1e42bd6df102263366dd995121b5c78e5c6b2527.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;EAEEEE&quot; width=&quot;690&quot; height=&quot;361&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://metr.org/blog/2026-06-26-gpt-5-6-sol/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Summary of METR&#39;s predeployment evaluation of GPT-5.6 Sol&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;A summary of METR&#39;s independent, predeployment evaluation of GPT-5.6 Sol&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2487609&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>WPS回应C盘占用</title>
+      <link>https://linux.do/t/topic/2487533</link>
+      <guid>linux.do-topic-2487533</guid>
+      <pubDate>Sat, 27 Jun 2026 16:57:07 GMT</pubDate>
+      <description>
+            &lt;p&gt;6月27日，针对近期用户集中反馈的C盘占用问题，WPS方面表示已完成排查并启动优化，将于7月上线的新版本在安装界面增加了路径选择功能；在使用环节，WPS在设置页新增了“存储管理”模块，缓存、文件备份、云文档缓存等各类文件的占用与可释放空间集中展示。&lt;/p&gt;
+&lt;p&gt;WPS表示，缓存与备份默认存放在C盘、占用情况不够直观，确实给部分高频用户造成了困扰，此次优化的核心逻辑是&quot;安装有选择、使用可管理&quot;，让用户从安装到使用的每个环节中，都能清楚了解本地占用了多少、哪些可以清理，并随时自主管理。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2487533&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>【网传】特朗普政府即将批准Anthropic 恢复对其高级Fable 5 模型的访问权限- Axios</title>
       <link>https://linux.do/t/topic/2487519</link>
@@ -14,9 +63,10 @@
             &lt;p&gt;根据X刚刚消息，特朗普政府即将批准Anthropic 恢复对其高级Fable 5 模型的访问权限- Axios。&lt;/p&gt;
 &lt;p&gt;但我不知道axios是什么意思？？？&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/3/d/f3dcadcba74ca6be6c97de7c0d75345adb9252fc.jpeg&quot; data-download-href=&quot;/uploads/short-url/yNiPjw0PZ767sd4GeoJLsttuzUw.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/3/d/f3dcadcba74ca6be6c97de7c0d75345adb9252fc_2_527x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;yNiPjw0PZ767sd4GeoJLsttuzUw&quot; width=&quot;527&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/3/d/f3dcadcba74ca6be6c97de7c0d75345adb9252fc_2_527x500.jpeg, https://cdn3.ldstatic.com/original/4X/f/3/d/f3dcadcba74ca6be6c97de7c0d75345adb9252fc.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/f/3/d/f3dcadcba74ca6be6c97de7c0d75345adb9252fc.jpeg 2x&quot; data-dominant-color=&quot;D9CFCD&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;更新：已解决。axios是一家消息源。&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/b/1/0/b10eaa9bb0482b81197ae62e76ae4690cfd93414.png&quot; data-download-href=&quot;/uploads/short-url/pgjVY16LAPmDwheQszMWknYfp5i.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/1/0/b10eaa9bb0482b81197ae62e76ae4690cfd93414.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;pgjVY16LAPmDwheQszMWknYfp5i&quot; width=&quot;597&quot; height=&quot;425&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;更新：已解决。axios是一家消息源，预计本周末重新发布出来fable5。&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/d/7/2d7e81e004186b090b0a4d5c1ff1db70760f3b20.png&quot; data-download-href=&quot;/uploads/short-url/6uswFgaoezeTwkoo1wRMwUEFVkI.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/d/7/2d7e81e004186b090b0a4d5c1ff1db70760f3b20.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6uswFgaoezeTwkoo1wRMwUEFVkI&quot; width=&quot;690&quot; height=&quot;261&quot; data-dominant-color=&quot;F2F2F2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/b/5/ab54a3da80066c99ab622f43d9bb40c7f2b7260b.png&quot; data-download-href=&quot;/uploads/short-url/orEZfzQDUD50rW6x0znrlq1sI2L.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/a/b/5/ab54a3da80066c99ab622f43d9bb40c7f2b7260b.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;orEZfzQDUD50rW6x0znrlq1sI2L&quot; width=&quot;600&quot; height=&quot;151&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2487519&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -51,7 +101,7 @@
 公共资金，公共法规	如果纳税人为软件买单，那么代码就应该对纳税人开放。我知道，这想法听起来有点异想天开。&lt;br&gt;
 锚定消费者	每个人都想要的大而可靠的客户。欧盟自愿成为开源软件的这种客户。&lt;br&gt;
 伊拉斯谟+	欧盟资助学生出国旅行和学习的项目——现在也涵盖了开源学习者。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2487293&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -62,7 +112,7 @@
       <pubDate>Sat, 27 Jun 2026 15:02:42 GMT</pubDate>
       <description>
             &lt;p&gt;佬们怎么看。看描述是用来节省token的。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2487082&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -100,7 +150,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;10 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2486622&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -227,7 +277,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;63 个帖子 - 58 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;64 个帖子 - 59 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484874&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -536,60 +586,6 @@
 非常慢讯但是很好玩就发l站吧()sam泥是故意还是不小心的！&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;17 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484121&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>iOS 27 Beta 2 固件代码出现百度视觉搜索</title>
-      <link>https://linux.do/t/topic/2484031</link>
-      <guid>linux.do-topic-2484031</guid>
-      <pubDate>Sat, 27 Jun 2026 03:13:37 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/5/6/e569e30c10ef1dc85b9953422100c22404629529.png&quot; data-download-href=&quot;/uploads/short-url/wJucxVQYOEYigOdXKtJQUouIdD3.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/5/6/e569e30c10ef1dc85b9953422100c22404629529_2_690x93.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wJucxVQYOEYigOdXKtJQUouIdD3&quot; width=&quot;690&quot; height=&quot;93&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/5/6/e569e30c10ef1dc85b9953422100c22404629529_2_690x93.png, https://cdn3.ldstatic.com/optimized/4X/e/5/6/e569e30c10ef1dc85b9953422100c22404629529_2_1035x139.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/5/6/e569e30c10ef1dc85b9953422100c22404629529_2_1380x186.png 2x&quot; data-dominant-color=&quot;EFF0EF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/9/7/6974c7c2343bbe2f9009f424c00ae48f2fa1391c.jpeg&quot; data-download-href=&quot;/uploads/short-url/f2UkLW465aiaycK5Ip9bsxMSt88.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/9/7/6974c7c2343bbe2f9009f424c00ae48f2fa1391c_2_690x433.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;f2UkLW465aiaycK5Ip9bsxMSt88&quot; width=&quot;690&quot; height=&quot;433&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/9/7/6974c7c2343bbe2f9009f424c00ae48f2fa1391c_2_690x433.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/9/7/6974c7c2343bbe2f9009f424c00ae48f2fa1391c_2_1035x649.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/9/7/6974c7c2343bbe2f9009f424c00ae48f2fa1391c_2_1380x866.jpeg 2x&quot; data-dominant-color=&quot;EFEFEF&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/3/3/73330fb17fc25ef28428a99414e56320379d6d3a.jpeg&quot; data-download-href=&quot;/uploads/short-url/gr6j3MQrppSqvA4fCUTN3fMS3eq.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/7/3/3/73330fb17fc25ef28428a99414e56320379d6d3a_2_690x374.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gr6j3MQrppSqvA4fCUTN3fMS3eq&quot; width=&quot;690&quot; height=&quot;374&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/7/3/3/73330fb17fc25ef28428a99414e56320379d6d3a_2_690x374.jpeg, https://cdn3.ldstatic.com/optimized/4X/7/3/3/73330fb17fc25ef28428a99414e56320379d6d3a_2_1035x561.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/7/3/3/73330fb17fc25ef28428a99414e56320379d6d3a_2_1380x748.jpeg 2x&quot; data-dominant-color=&quot;EEEEEE&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/e/c/eec0377095ab657b0362f1d4c988bd8b8eb91ad2.jpeg&quot; data-download-href=&quot;/uploads/short-url/y45swr0WvwHBQwu0XMrA1rq20me.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/e/c/eec0377095ab657b0362f1d4c988bd8b8eb91ad2_2_690x408.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;y45swr0WvwHBQwu0XMrA1rq20me&quot; width=&quot;690&quot; height=&quot;408&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/e/c/eec0377095ab657b0362f1d4c988bd8b8eb91ad2_2_690x408.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/e/c/eec0377095ab657b0362f1d4c988bd8b8eb91ad2_2_1035x612.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/e/c/eec0377095ab657b0362f1d4c988bd8b8eb91ad2_2_1380x816.jpeg 2x&quot; data-dominant-color=&quot;ECECEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.ithome.com/0/969/321.htm&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/d/f/1/df173f8d764cf7a6a79119bdcca9766f30249545.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;DC5353&quot; width=&quot;16&quot; height=&quot;16&quot;&gt;
-
-      &lt;a href=&quot;https://www.ithome.com/0/969/321.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;ithome.com&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    
-
-&lt;h3&gt;&lt;a href=&quot;https://www.ithome.com/0/969/321.htm&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;苹果 iOS 27 Beta 2 固件代码曝光，百度视觉搜索组件现身 - IT之家&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;苹果 iOS 27 Beta 2 固件代码中新增了名为“SearchPartnerInferenceProvider”的组件，明确提及“Baidu Visual Search”。这暗示苹果正为第三方 AI 服务商构建基础设施，未来或根据不同地区提供不同的搜索服务。#iOS27##苹果#&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484031&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>0627新闻-菲区 GPT pro 20x 拉闸 u 卡(以前成功支付过的卡)</title>
-      <link>https://linux.do/t/topic/2484012</link>
-      <guid>linux.do-topic-2484012</guid>
-      <pubDate>Sat, 27 Jun 2026 03:09:37 GMT</pubDate>
-      <description>
-            &lt;p&gt;菲区已经拉闸了，bybit 卡，澳洲&amp;哈萨克斯坦地区身份认证的卡都拉闸了，前几天应该是22，23号的时候还支付过一个&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/c/1/3c1cd45233be2de70104c7ca2d116faa4b1c5e77.png&quot; data-download-href=&quot;/uploads/short-url/8zMpIPffc8O2GnG3f6yUcVjHq5x.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/c/1/3c1cd45233be2de70104c7ca2d116faa4b1c5e77_2_690x475.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8zMpIPffc8O2GnG3f6yUcVjHq5x&quot; width=&quot;690&quot; height=&quot;475&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/c/1/3c1cd45233be2de70104c7ca2d116faa4b1c5e77_2_690x475.png, https://cdn3.ldstatic.com/optimized/4X/3/c/1/3c1cd45233be2de70104c7ca2d116faa4b1c5e77_2_1035x712.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/c/1/3c1cd45233be2de70104c7ca2d116faa4b1c5e77_2_1380x950.png 2x&quot; data-dominant-color=&quot;333131&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;但是在钱包交易记录里面还能看到，可以认为钱包支付没有问题，只是 gpt 拒绝了&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/5/4/e54abe6474d373567217aee5425e4b43530c8137.png&quot; data-download-href=&quot;/uploads/short-url/wIptF1Iyb6WizcBDbW5MgQjTyMn.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/5/4/e54abe6474d373567217aee5425e4b43530c8137_2_690x448.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;wIptF1Iyb6WizcBDbW5MgQjTyMn&quot; width=&quot;690&quot; height=&quot;448&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/5/4/e54abe6474d373567217aee5425e4b43530c8137_2_690x448.png, https://cdn3.ldstatic.com/optimized/4X/e/5/4/e54abe6474d373567217aee5425e4b43530c8137_2_1035x672.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/5/4/e54abe6474d373567217aee5425e4b43530c8137_2_1380x896.png 2x&quot; data-dominant-color=&quot;222324&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;封你号是第一步，现在你都开不出 pro 20x 的号了 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/smiling_face_with_tear.png?v=15&quot; title=&quot;:smiling_face_with_tear:&quot; class=&quot;emoji&quot; alt=&quot;:smiling_face_with_tear:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;br&gt;
-晚点试试 salepal 的 fiat 卡，感觉也不报太大希望&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;43 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484012&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
