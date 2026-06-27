@@ -4,27 +4,152 @@
     <title>LINUX DO - Welfare</title>
     <link>https://linux.do/c/welfare/36</link>
     <description>Welfare category from linux.do</description>
-    <lastBuildDate>Sat, 27 Jun 2026 14:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 15:45:14 GMT</lastBuildDate>
     <item>
-      <title>小米token plan 刚刚发现还有2小时到期 。基本上没有怎么用过，邀请大家一起来蹬 。</title>
-      <link>https://linux.do/t/topic/2486793</link>
-      <guid>linux.do-topic-2486793</guid>
-      <pubDate>Sat, 27 Jun 2026 14:15:52 GMT</pubDate>
+      <title>全家饭团模型：一个以话费为核心的跨平台套利系统</title>
+      <link>https://linux.do/t/topic/2486940</link>
+      <guid>linux.do-topic-2486940</guid>
+      <pubDate>Sat, 27 Jun 2026 14:38:10 GMT</pubDate>
       <description>
-            &lt;p&gt;dHAtY2w5MjltdHR3ang5ajluc2Q4cHloM3RicjFqZGk3OXVjbGEzc2NjMWZndjh5YzR1  今天 23:59 到期， 大家赶紧帮忙蹬下。 雷总给的东西， 不用完就是简直是不给面子。&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2486793&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+            &lt;h2&gt;&lt;a name=&quot;p-19678827-h-1&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19678827-h-1&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;
+&lt;p&gt;全家饭团模型是一个以中国移动8元保号套餐为核心，通过闲鱼获取低取云闪付62VIP和全家尊享会员，将不同平台低价充值的话费作为消费本金，叠加全家尊享会员权益的跨平台套利系统。&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;p-19678827-h-2&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19678827-h-2&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;跨平台套利流程图&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;代码版&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre data-code-wrap=&quot;mermaid&quot;&gt;&lt;code class=&quot;lang-mermaid&quot;&gt;flowchart TD
+    %% 样式定义
+    classDef input fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#0d47a1,rx:12px;
+    classDef transform fill:#fff8e1,stroke:#f9a825,stroke-width:2px,color:#e65100,rx:12px;
+    classDef output fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#1b5e20,rx:12px;
+    classDef profit fill:#fce4ec,stroke:#c62828,stroke-width:2px,color:#b71c1c,rx:12px;
+    classDef center fill:#f3e5f5,stroke:#6a1b9a,stroke-width:3px,color:#4a148c,rx:16px;
+    classDef final fill:#fff9c4,stroke:#f57f17,stroke-width:3px,color:#e65100,rx:20px;
+
+    subgraph 入口层[&lt;b&gt;第一层：低价入场&lt;/b&gt;]
+        A[闲鱼：银联62VIP&lt;br&gt;45元 vs 官方62元]:::input
+        B[闲鱼：全家尊享年卡&lt;br&gt;55元 vs 官方99元&lt;br&gt;含开卡礼+10倍积分]:::input
+        C[中国移动8/9折券&lt;br&gt;银联每月减6元]:::input
+    end
+
+    subgraph 转化层[&lt;b&gt;第二层：套利转化&lt;/b&gt;]
+        D[兑换62VIP权益&lt;br&gt;月领6元话费券]:::transform
+        E[兑换全家年卡&lt;br&gt;开卡礼+10倍积分]:::transform
+        F[折扣价充话费&lt;br&gt;成本压至8-9折]:::transform
+    end
+
+    subgraph 核心[&lt;b&gt;⚡话费池&lt;/b&gt;]
+        H[话费余额&lt;br&gt;≈打折现金]:::center
+    end
+
+    subgraph 消费层[&lt;b&gt;第三层：全家消费&lt;/b&gt;]
+        G[话费买集享卡]:::output
+        I[到店买饭团/便当]:::output
+    end
+
+    subgraph Buff层[&lt;b&gt;第四层：权益反哺&lt;/b&gt;]
+        J[硬折扣&lt;br&gt;第二件1元/75折]:::profit
+        K[10倍积分&lt;br&gt;≈未来现金]:::profit
+        L[全球通银卡&lt;br&gt;生日特权/专属福利]:::profit
+    end
+
+    R[🎯 吃饭&lt;br&gt;实物的饭+套利的饭]:::final
+
+    A --&gt; D
+    B --&gt; E
+    C --&gt; F
+    D --&gt; H
+    F --&gt; H
+    H --&gt; G
+    H --&gt; I
+    G --&gt; I
+    E --&gt; I
+    I --&gt; J
+    I --&gt; K
+    H --&gt; L
+    J --&gt; R
+    K --&gt; R
+    L --&gt; R
+    I --&gt; R
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;图片版&lt;br&gt;
+&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/e/5/9e55777abf0efc0ce13eae8d57a125b9b80976ac.jpeg&quot; data-download-href=&quot;/uploads/short-url/mAGydBENXoZXMvJEMUIvXLOKNEE.jpeg?dl=1&quot; title=&quot;&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/e/5/9e55777abf0efc0ce13eae8d57a125b9b80976ac_2_346x500.jpeg&quot; alt=&quot;&quot; data-base62-sha1=&quot;mAGydBENXoZXMvJEMUIvXLOKNEE&quot; role=&quot;presentation&quot; width=&quot;346&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/e/5/9e55777abf0efc0ce13eae8d57a125b9b80976ac_2_346x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/e/5/9e55777abf0efc0ce13eae8d57a125b9b80976ac_2_519x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/e/5/9e55777abf0efc0ce13eae8d57a125b9b80976ac_2_692x1000.jpeg 2x&quot; data-dominant-color=&quot;F6F4E5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;a name=&quot;p-19678827-apamlaharvardgbt-7714-3&quot; class=&quot;anchor&quot; href=&quot;https://linux.do#p-19678827-apamlaharvardgbt-7714-3&quot; aria-label=&quot;标题链接&quot;&gt;&lt;/a&gt;建议引用格式（APA/MLA/Harvard/GB/T 7714）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;APA&lt;br&gt;
+&lt;code&gt;F-Droid. (2026, June 27). The FamilyMart Rice Ball Model: A cross-platform arbitrage system centered on mobile phone bill utilization [Forum post]. LLINUX DO. Retrieved from https://linux.do/t/topic/2486940&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MLA&lt;br&gt;
+&lt;code&gt;F-Droid. “The FamilyMart Rice Ball Model: A Cross-Platform Arbitrage System Centered on Mobile Phone Bill Utilization.” LINUX DO, 27 June 2026, linux.do/t/topic/2486940.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Harvard&lt;br&gt;
+&lt;code&gt;F-Droid. (2026). The FamilyMart Rice Ball Model: A cross-platform arbitrage system centered on mobile phone bill utilization. LINUX DO. Available at: https://linux.do/t/topic/2486940 (Accessed: xxx).&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;GB/T 7714&lt;br&gt;
+&lt;code&gt;F-Droid. 全家饭团模型：一个以话费为核心的跨平台套利系统[EB/OL]. LINUX DO论坛. (2026-06-27). https://linux.do/t/topic/2486940. [xxxx-xx-xx].&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2486940&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
-      <title>各位友友们，有推荐的兼职居家工作么</title>
-      <link>https://linux.do/t/topic/2486778</link>
-      <guid>linux.do-topic-2486778</guid>
-      <pubDate>Sat, 27 Jun 2026 14:14:19 GMT</pubDate>
+      <title>用Coze自动签到，获得一个免费&amp;长期可用的Claw</title>
+      <link>https://linux.do/t/topic/2486897</link>
+      <guid>linux.do-topic-2486897</guid>
+      <pubDate>Sat, 27 Jun 2026 14:32:50 GMT</pubDate>
       <description>
-            &lt;p&gt;稍微有点生理缺陷，外出求职总碰壁被歧视，大家有什么居家可以做的在线兼职推荐么&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2486778&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+            &lt;blockquote&gt;
+&lt;h4&gt;本帖使用社区开源推广，符合推广要求。我申明并遵循社区要求的以下内容：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;我的帖子已经打上 &lt;a class=&quot;hashtag-cooked&quot; href=&quot;https://linux.do/tag/2234-tag/2234&quot; data-type=&quot;tag&quot; data-slug=&quot;开源推广&quot; data-id=&quot;2234&quot; data-style-type=&quot;icon&quot; data-icon=&quot;tag&quot;&gt;&lt;span class=&quot;hashtag-icon-placeholder&quot;&gt;&lt;svg class=&quot;fa d-icon d-icon-square-full svg-icon svg-node&quot;&gt;&lt;use href=&quot;#square-full&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span&gt;开源推广&lt;/span&gt;&lt;/a&gt; 标签：&lt;/strong&gt; 是&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我的开源项目完整开源，无未开源部分：&lt;/strong&gt; 是&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我的开源项目已链接认可 LINUX DO 社区：&lt;/strong&gt; 是&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我帖子内的项目介绍，AI生成、润色内容部分已截图发出：&lt;/strong&gt; 是&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;以上选择我承诺是永久有效的，接受社区和佬友监督：&lt;/strong&gt; 是&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;以下为项目介绍正文内容，AI生成、润色内容已使用截图方式发出&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;低调使用，打枪滴不要 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/raised_back_of_hand.png?v=15&quot; title=&quot;:raised_back_of_hand:&quot; class=&quot;emoji&quot; alt=&quot;:raised_back_of_hand:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;起因是想拥有一个能替我记事、快速发邮件、自动化规划和管理日程的Claw…&lt;br&gt;
+属于是确实有这个刚性需求，但满足需求所需要的资源又很少，完全不值得为此搭上一台小鸡/一个Token Plan之类的&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因此，打算利用好Coze平台自带的CozeClaw：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;限免个人存储空间（其实已经免费好几个月了）&lt;/li&gt;
+&lt;li&gt;每天签到领1500积分，对于个人日程管理、智能备忘录、收发邮件这类轻度需求也算够用了&lt;/li&gt;
+&lt;li&gt;支持接入飞书、微信、扣子App&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;唯一的问题：每日积分需要手动打开Coze网页版签到领取，这就很麻烦，尤其是当我们需要晨间推送时。我不可能早上起来先打开遍Coze对吧，这太不优雅了。&lt;/p&gt;
+&lt;p&gt;遂开发了一个&lt;strong&gt;基于Github Action的云端自动签到小脚本&lt;/strong&gt;，亲测已稳定运行约2个月无需人工介入。&lt;/p&gt;
+&lt;p&gt;支持PushPlus &amp; Bark 失败推送，Cookie登录，详细请见&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/down_arrow.png?v=15&quot; title=&quot;:down_arrow:&quot; class=&quot;emoji&quot; alt=&quot;:down_arrow:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox githubrepo&quot; data-onebox-src=&quot;https://github.com/jzcangshu/coze-daily-credit-action&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+
+      &lt;a href=&quot;https://github.com/jzcangshu/coze-daily-credit-action&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;github.com&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;github-row&quot; data-github-private-repo=&quot;false&quot;&gt;
+  &lt;span class=&quot;broken-image&quot; title=&quot;此图片已损坏&quot;&gt;&lt;svg class=&quot;fa d-icon d-icon-link-slash svg-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;use href=&quot;#link-slash&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/span&gt;
+
+  &lt;h3&gt;&lt;a href=&quot;https://github.com/jzcangshu/coze-daily-credit-action&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;GitHub - jzcangshu/coze-daily-credit-action: GitHub Actions 版 Coze 每日积分自动领取脚本，支持 Cookie...&lt;/a&gt;&lt;/h3&gt;
+
+    &lt;p&gt;&lt;span class=&quot;github-repo-description&quot;&gt;GitHub Actions 版 Coze 每日积分自动领取脚本，支持 Cookie 登录、自动刷新和 pushplus/Bark 失败通知。&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;PS：通知提醒不推荐使用微信渠道，一段时间不交互的话智能体就没法通过微信给你主动发消息了&lt;/p&gt;
+&lt;/blockquote&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2486897&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
@@ -164,6 +289,8 @@
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/2/f/4/2f4499d30e8121f6bfd0958b465b87b2867bcb01.png&quot; data-download-href=&quot;/uploads/short-url/6K9pU4cYPCUsaK30B8AInHV4c49.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/2/f/4/2f4499d30e8121f6bfd0958b465b87b2867bcb01.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;6K9pU4cYPCUsaK30B8AInHV4c49&quot; width=&quot;557&quot; height=&quot;500&quot; data-dominant-color=&quot;1E1E1E&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 也实际测试了一下速度，感觉还算够用，但是感觉根本没有缓存在&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/7/5/475c4afeff0d970d5a5e0f1334420c0c002af347.png&quot; data-download-href=&quot;/uploads/short-url/abhDvaW5MQENwxapCsl6aTBqV9l.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/4/7/5/475c4afeff0d970d5a5e0f1334420c0c002af347.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;abhDvaW5MQENwxapCsl6aTBqV9l&quot; width=&quot;585&quot; height=&quot;363&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;27号晚上11点更新，貌似还能用？&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/3/8/c38ccc01c51817301981b33e98eb51257883a789.jpeg&quot; data-download-href=&quot;/uploads/short-url/rTULhQSR5eKiO6jD1Ywk0pOSdoR.jpeg?dl=1&quot; title=&quot;1000119443.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/3/8/c38ccc01c51817301981b33e98eb51257883a789_2_438x500.jpeg&quot; alt=&quot;1000119443.jpg&quot; data-base62-sha1=&quot;rTULhQSR5eKiO6jD1Ywk0pOSdoR&quot; width=&quot;438&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/3/8/c38ccc01c51817301981b33e98eb51257883a789_2_438x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/3/8/c38ccc01c51817301981b33e98eb51257883a789_2_657x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/3/8/c38ccc01c51817301981b33e98eb51257883a789_2_876x1000.jpeg 2x&quot; data-dominant-color=&quot;EDEEF0&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;29 个帖子 - 19 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2485000&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>

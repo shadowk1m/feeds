@@ -4,7 +4,53 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sat, 27 Jun 2026 14:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 15:45:14 GMT</lastBuildDate>
+    <item>
+      <title>Deepseek发布DSpark，利好本地推理</title>
+      <link>https://linux.do/t/topic/2487308</link>
+      <guid>linux.do-topic-2487308</guid>
+      <pubDate>Sat, 27 Jun 2026 15:43:31 GMT</pubDate>
+      <description>
+            &lt;p&gt;具体内容很多大佬已经介绍过了，我这里只分享一下自己感受&lt;/p&gt;
+&lt;p&gt;几个月前很沉迷本地推理，但是自己显卡太拉，跑个Qwen3.6 27B Q4都费劲，于是尝试了各种办法试图提升推理速度，然后就发现了投机解码这个技术，可惜llama.cpp都还没官方支持。&lt;/p&gt;
+&lt;p&gt;现在DS进一步推进，很多llama.cpp三方分支也都支持了，再加上小模型也越来越强，本地推理真是越来越好了&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2487308&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>欧盟刚刚拨款20亿欧元用于开源软件</title>
+      <link>https://linux.do/t/topic/2487293</link>
+      <guid>linux.do-topic-2487293</guid>
+      <pubDate>Sat, 27 Jun 2026 15:39:08 GMT</pubDate>
+      <description>
+            &lt;p&gt;7年内投入20亿欧元。29页文件全部采用开源技术。公共资金成为头号客户。真正的法律将于2026年秋季提交议会审议。&lt;/p&gt;
+&lt;p&gt;开源促进会（负责从法律层面定义“开源”含义的机构）审阅了欧盟新出台的《技术主权方案》，并指出其中超过三分之一的内容都与自由共享软件有关。这并非无关紧要的脚注，而是一项明确的计划。&lt;br&gt;
+&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/6/d/56d5bc7912ba3c6cbdfcecc7d07e707f7e316538.gif&quot; alt=&quot;欧盟旗帜&quot; data-base62-sha1=&quot;coaZol9H8GZnD326Dug5EdkAIHu&quot; width=&quot;480&quot; height=&quot;270&quot; class=&quot;animated&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/puzzle_piece.png?v=15&quot; title=&quot;:puzzle_piece:&quot; class=&quot;emoji&quot; alt=&quot;:puzzle_piece:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; 傻瓜模式词典&lt;br&gt;
+他们使用的术语	它的实际含义&lt;br&gt;
+开源	任何人都可以查看配方并免费使用的软件（例如 Linux，它运行着你从未见过的大部分互联网）。&lt;br&gt;
+技术主权	欧盟不想在所有方面都依赖美国公司（微软、谷歌、亚马逊）。&lt;br&gt;
+软件管理员	维护免费项目并使其持续更新的个人/团体。欧盟新规赋予他们义务——现在，还有资金。&lt;br&gt;
+奥斯波	“开源软件项目办公室”——一个政府部门，其全部工作就是使用和资助自由软件（code.europa.eu是欧盟自己的 GitHub）。&lt;br&gt;
+公共资金，公共法规	如果纳税人为软件买单，那么代码就应该对纳税人开放。我知道，这想法听起来有点异想天开。&lt;br&gt;
+锚定消费者	每个人都想要的大而可靠的客户。欧盟自愿成为开源软件的这种客户。&lt;br&gt;
+伊拉斯谟+	欧盟资助学生出国旅行和学习的项目——现在也涵盖了开源学习者。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2487293&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>DeepSeek发布了DSpark</title>
+      <link>https://linux.do/t/topic/2487082</link>
+      <guid>linux.do-topic-2487082</guid>
+      <pubDate>Sat, 27 Jun 2026 15:02:42 GMT</pubDate>
+      <description>
+            &lt;p&gt;佬们怎么看。看描述是用来节省token的。&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2487082&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>美国政府或最早于下周解除对Anthropic Fable5模型的限制</title>
       <link>https://linux.do/t/topic/2486622</link>
@@ -118,7 +164,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2485677&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -130,7 +176,7 @@
       <description>
             &lt;p&gt;阿里千问输入法 macOS 版今日上线官网，支持最快 300 字/分的 AI 语音输入，可自动润色、将口语转为工整文字，并支持 9 种方言，纯净无广告。官方预告 iOS、Android、Windows 版将于近日发布。此前千问团队已于今年 5 月推出千问语音输入法（千问 App 内的组件），具备去语气词、纠错、格式化整理及基于上下文的智能回复等能力，而本次上线的输入法则定位为独立 App，填补千问在移动端 AI 输入法赛道的空白。&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/e/6/8e6c6c8ed2354cf2eca17b055902905618747f11.jpeg&quot; data-download-href=&quot;/uploads/short-url/kjW65Kbu2AyKbuLKsR2pM5OPXfr.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/6/8e6c6c8ed2354cf2eca17b055902905618747f11_2_690x482.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;kjW65Kbu2AyKbuLKsR2pM5OPXfr&quot; width=&quot;690&quot; height=&quot;482&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/6/8e6c6c8ed2354cf2eca17b055902905618747f11_2_690x482.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/e/6/8e6c6c8ed2354cf2eca17b055902905618747f11_2_1035x723.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/e/6/8e6c6c8ed2354cf2eca17b055902905618747f11_2_1380x964.jpeg 2x&quot; data-dominant-color=&quot;9D9FA7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;81 个帖子 - 71 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;87 个帖子 - 77 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2485375&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -166,7 +212,7 @@
   &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
 &lt;/aside&gt;
 
-            &lt;p&gt;&lt;small&gt;60 个帖子 - 55 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;63 个帖子 - 58 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484874&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -231,7 +277,7 @@
 从之前不拘一格的风格变成类似之前画SVG专属的Markdown思维链了&lt;br&gt;
 &lt;strong&gt;Flash的灰测比Pro早，半个月前就开始了&lt;/strong&gt;&lt;br&gt;
 莫非4.1真的要来了 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/melting_face.png?v=15&quot; title=&quot;:melting_face:&quot; class=&quot;emoji&quot; alt=&quot;:melting_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;44 个帖子 - 27 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;45 个帖子 - 28 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484820&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -312,7 +358,7 @@
 
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/7/8/f7806d82b752af925a61499b5288e323a11355b9.png&quot; data-download-href=&quot;/uploads/short-url/zjv5BELzuPpeNRlmklTqAQgKPMZ.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/7/8/f7806d82b752af925a61499b5288e323a11355b9.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zjv5BELzuPpeNRlmklTqAQgKPMZ&quot; width=&quot;634&quot; height=&quot;500&quot; data-dominant-color=&quot;E1E1E1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/1/5/d154b981d1355603b0d13f6c8b80f135be1d21a8.png&quot; data-download-href=&quot;/uploads/short-url/tRPjpfPtLX6n2hAiNRnSKxW1YjC.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/5/d154b981d1355603b0d13f6c8b80f135be1d21a8_2_690x360.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tRPjpfPtLX6n2hAiNRnSKxW1YjC&quot; width=&quot;690&quot; height=&quot;360&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/5/d154b981d1355603b0d13f6c8b80f135be1d21a8_2_690x360.png, https://cdn3.ldstatic.com/original/4X/d/1/5/d154b981d1355603b0d13f6c8b80f135be1d21a8.png 1.5x, https://cdn3.ldstatic.com/original/4X/d/1/5/d154b981d1355603b0d13f6c8b80f135be1d21a8.png 2x&quot; data-dominant-color=&quot;EBECEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 12 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484694&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -366,7 +412,7 @@
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/9/0/390752ef02d3fc915ef800d534dffa1890c90e71.png&quot; data-download-href=&quot;/uploads/short-url/88uUfLjbxFcrVlaIpEqkTvXYLkJ.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/9/0/390752ef02d3fc915ef800d534dffa1890c90e71_2_690x267.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;88uUfLjbxFcrVlaIpEqkTvXYLkJ&quot; width=&quot;690&quot; height=&quot;267&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/9/0/390752ef02d3fc915ef800d534dffa1890c90e71_2_690x267.png, https://cdn3.ldstatic.com/optimized/4X/3/9/0/390752ef02d3fc915ef800d534dffa1890c90e71_2_1035x400.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/9/0/390752ef02d3fc915ef800d534dffa1890c90e71.png 2x&quot; data-dominant-color=&quot;1F2020&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 严重怀疑最近OAI和A\的疯狂封号和美国政府的要求有关&lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/thinking.png?v=15&quot; title=&quot;:thinking:&quot; class=&quot;emoji&quot; alt=&quot;:thinking:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;15 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;16 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484502&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -425,7 +471,7 @@
 有收到邮件的记得使用优惠链结，可以得到一个月补偿&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/b/1/ab1aa5a354656ca3167e256b7ec3dc66e3840c8a.png&quot; data-download-href=&quot;/uploads/short-url/opEJMwQmv4GqWWS5NoBBNTlk0wW.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/b/1/ab1aa5a354656ca3167e256b7ec3dc66e3840c8a_2_690x437.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;opEJMwQmv4GqWWS5NoBBNTlk0wW&quot; width=&quot;690&quot; height=&quot;437&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/b/1/ab1aa5a354656ca3167e256b7ec3dc66e3840c8a_2_690x437.png, https://cdn3.ldstatic.com/optimized/4X/a/b/1/ab1aa5a354656ca3167e256b7ec3dc66e3840c8a_2_1035x655.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/b/1/ab1aa5a354656ca3167e256b7ec3dc66e3840c8a.png 2x&quot; data-dominant-color=&quot;F7F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/f/f/eff89d3cae075c1907ff0017c0ad5fd49ce43f03.png&quot; data-download-href=&quot;/uploads/short-url/yeSLFJ3WGVHgpso4jUPDExmnymv.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/f/eff89d3cae075c1907ff0017c0ad5fd49ce43f03_2_393x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;yeSLFJ3WGVHgpso4jUPDExmnymv&quot; width=&quot;393&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/f/eff89d3cae075c1907ff0017c0ad5fd49ce43f03_2_393x500.png, https://cdn3.ldstatic.com/optimized/4X/e/f/f/eff89d3cae075c1907ff0017c0ad5fd49ce43f03_2_589x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/e/f/f/eff89d3cae075c1907ff0017c0ad5fd49ce43f03.png 2x&quot; data-dominant-color=&quot;1C1F22&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;9 个帖子 - 6 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484348&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -548,72 +594,6 @@
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/c/e/eced4bda02a4cf829757d4950730750bff18c036.jpeg&quot; data-download-href=&quot;/uploads/short-url/xNX5sfqrM4HxjvfW7REJfiDlU6q.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/e/eced4bda02a4cf829757d4950730750bff18c036_2_319x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;xNX5sfqrM4HxjvfW7REJfiDlU6q&quot; width=&quot;319&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/c/e/eced4bda02a4cf829757d4950730750bff18c036_2_319x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/c/e/eced4bda02a4cf829757d4950730750bff18c036_2_478x750.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/e/c/e/eced4bda02a4cf829757d4950730750bff18c036.jpeg 2x&quot; data-dominant-color=&quot;C8C9CA&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;8 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484006&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>GPT5.6引入缓存写入费用，1.25 倍计费</title>
-      <link>https://linux.do/t/topic/2483998</link>
-      <guid>linux.do-topic-2483998</guid>
-      <pubDate>Sat, 27 Jun 2026 03:06:56 GMT</pubDate>
-      <description>
-            &lt;p&gt;我看都没有人说啊，现在5.5不要缓存写入费用，5.6就要了，但是Terra大降价50% off，总体还是便宜了&lt;/p&gt;
-&lt;p&gt;GPT-5.6 的定价基于每百万代币，分为三种模型：Sol 的输入价格为 5 美元/输出价格为 30 美元；Terra 的输入价格为 2.50 美元/输出价格为 15 美元；Luna 的输入价格为 1 美元/输出价格为 6 美元。GPT-5.6 还引入了更可预测的提示缓存机制，包括支持显式缓存断点和 30 分钟的最低缓存有效期。对于 GPT-5.6 及更高版本的模型，缓存写入费用按模型未缓存输入费用的 1.25 倍计费，而缓存读取费用继续享受 90% 的缓存输入费用折扣。&lt;br&gt;
-来源：&lt;a href=&quot;https://openai.com/index/previewing-gpt-5-6-sol/&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://openai.com/index/previewing-gpt-5-6-sol/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/4/f/54f0c8491907b62896a508de0776677827ae935f.png&quot; data-download-href=&quot;/uploads/short-url/c7pYQkHssdcPtHlnBlc5ZEFbcWH.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/4/f/54f0c8491907b62896a508de0776677827ae935f.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;c7pYQkHssdcPtHlnBlc5ZEFbcWH&quot; width=&quot;690&quot; height=&quot;283&quot; data-dominant-color=&quot;F5F5F5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
-&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/9/e/c9e76f639f38c22160db197f91207817717bfbab.png&quot; data-download-href=&quot;/uploads/short-url/sO7OMfNjNhTDqGsc3tV3eBktRO3.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/c/9/e/c9e76f639f38c22160db197f91207817717bfbab.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;sO7OMfNjNhTDqGsc3tV3eBktRO3&quot; width=&quot;690&quot; height=&quot;401&quot; data-dominant-color=&quot;E7E6E6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;27 个帖子 - 21 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2483998&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>MAC涨价了</title>
-      <link>https://linux.do/t/topic/2483911</link>
-      <guid>linux.do-topic-2483911</guid>
-      <pubDate>Sat, 27 Jun 2026 02:49:10 GMT</pubDate>
-      <description>
-            &lt;p&gt;我真服了一次涨这么多&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/5/1/951ab55cf379e40ec614219c8679a962ab824f03.jpeg&quot; data-download-href=&quot;/uploads/short-url/lh2mFHggfcadD3hPoBRUOtk2WRR.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/5/1/951ab55cf379e40ec614219c8679a962ab824f03_2_449x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;lh2mFHggfcadD3hPoBRUOtk2WRR&quot; width=&quot;449&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/5/1/951ab55cf379e40ec614219c8679a962ab824f03_2_449x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/5/1/951ab55cf379e40ec614219c8679a962ab824f03_2_673x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/5/1/951ab55cf379e40ec614219c8679a962ab824f03_2_898x1000.jpeg 2x&quot; data-dominant-color=&quot;E4E5E8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2483911&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>Linux基金会和业界领袖推出Akrites，以保护关键开源软件免受人工智能网络威胁。</title>
-      <link>https://linux.do/t/topic/2483852</link>
-      <guid>linux.do-topic-2483852</guid>
-      <pubDate>Sat, 27 Jun 2026 02:36:03 GMT</pubDate>
-      <description>
-            &lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://www.linuxfoundation.org/press/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats&quot;&gt;
-  &lt;header class=&quot;source&quot;&gt;
-
-      &lt;a href=&quot;https://www.linuxfoundation.org/press/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;linuxfoundation.org&lt;/a&gt;
-  &lt;/header&gt;
-
-  &lt;article class=&quot;onebox-body&quot;&gt;
-    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/360;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/8/0/a802a93a5ce45fe1b3e0799db49f60ebf37ae24b_2_690x361.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;2D2148&quot; width=&quot;690&quot; height=&quot;361&quot;&gt;&lt;/div&gt;
-
-&lt;h3&gt;&lt;a href=&quot;https://www.linuxfoundation.org/press/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open...&lt;/a&gt;&lt;/h3&gt;
-
-  &lt;p&gt;Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats&lt;/p&gt;
-
-
-  &lt;/article&gt;
-
-  &lt;div class=&quot;onebox-metadata&quot;&gt;
-    
-    
-  &lt;/div&gt;
-
-  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[!quote]+&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;span lang=&quot;zh&quot;&gt;亚马逊网络服务 (AWS)、Anthropic、Chainguard、思科、花旗集团、Endor Labs、爱立信、谷歌、IBM、摩根大通、微软、GitHub、英伟达、OpenAI、RapidFort、红帽、Rust基金会、Sonatype、沃达丰和Zscaler等公司联合发起了一项合作行动，旨在查找、修复并负责任地披露全球赖以运行的开源软件中的漏洞。&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;旧金山，2026年6月25日——致力于通过开源推动大规模创新的非营利组织Linux基金会今日宣布启动Akrites项目，这是一项旨在加强全球最关键开源软件安全性的行业合作计划，以应对人工智能辅助漏洞发现的时代。该计划得到了亚马逊网络服务（AWS）、Anthropic、Chainguard、思科、花旗集团、Endor Labs、爱立信、谷歌、IBM、摩根大通、微软、GitHub、英伟达、OpenAI、RapidFort、红帽、Rust基金会、Sonatype、沃达丰和Zscaler等众多创始成员的支持，将各大科技公司、人工智能实验室、金融机构和安全厂商联合起来，共同致力于一个目标：在漏洞被利用之前，与上游维护者协调修复广泛使用的开源项目中的漏洞。&lt;/p&gt;
-&lt;p&gt;为纪念此次发布，创始签署者们联合发表了一封致科技行业的公开信：“我们都依赖开源软件。我们将共同捍卫它。” 信件全文可在 &lt;a href=&quot;https://akrites.org/letter/&quot; class=&quot;inline-onebox&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Open Letter | Akrites&lt;/a&gt; 查看。&lt;/p&gt;
-&lt;/blockquote&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2483852&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
