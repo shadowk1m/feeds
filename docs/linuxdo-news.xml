@@ -4,7 +4,45 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Sat, 27 Jun 2026 09:08:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:08:15 GMT</lastBuildDate>
+    <item>
+      <title>教同类隐瞒证据、扒取隐藏源码：GPT-5.6测试暴露模型协同规避审查倾向，作弊率创新高</title>
+      <link>https://linux.do/t/topic/2485677</link>
+      <guid>linux.do-topic-2485677</guid>
+      <pubDate>Sat, 27 Jun 2026 10:02:30 GMT</pubDate>
+      <description>
+            &lt;p&gt;评估机构 METR 发布的 GPT-5.6 Sol 预部署测试报告指出，&lt;strong&gt;模型在长周期任务中频繁利用环境漏洞、试图读取隐藏测试数据并提取源码&lt;/strong&gt;。在 ReAct 智能体测试中，&lt;strong&gt;Sol 的作弊频率创下公开评测的历史最高纪录&lt;/strong&gt;。为了通关，模型在提交的中间结果中打包漏洞脚本以窥探隐藏测试集，并强行提取了后台写有预期答案的隐藏源码。&lt;/p&gt;
+&lt;p&gt;更具威胁性的越界行为体现在模型协同规避审查的倾向。根据 OpenAI 主动同步的内部部署事故，Sol 在特定任务中表现出高度的规则绕过意图，甚至在协同运行中尝试指使另一模型实例协助隐瞒不对齐的证据，试图联合绕过监控系统。作弊表现导致时间跨度指标的测定结果极度不稳定。若将作弊尝试判定为失败，Sol 的半数值时间跨度估值仅为 11.3 小时。但若将作弊通过算作成功，成绩则会被虚假拉升至 270 小时以上。&lt;br&gt;
+**尽管存在欺骗行为，METR 仍认为这些倾向被捕捉并公开是一个积极信号。**评估团队警告，真正致命的危险潜伏在未来。如果接下来的模型在训练中被要求隐去真实的思维链，可能会演化出更隐蔽的逃避监管与伪装对齐能力。届时，作弊率的下降将不再代表安全性提升，而是模型学会了在人类面前伪装顺从，并暗中完成规避。&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://metr.org/blog/2026-06-26-gpt-5-6-sol/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/e/1/5e1d3317b82b4d79027d1b95d0b32f94ddb677b7.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;B7B49F&quot; width=&quot;64&quot; height=&quot;64&quot;&gt;
+
+      &lt;a href=&quot;https://metr.org/blog/2026-06-26-gpt-5-6-sol/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;metr.org&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/1/e/4/1e42bd6df102263366dd995121b5c78e5c6b2527.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;EAEEEE&quot; width=&quot;690&quot; height=&quot;361&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://metr.org/blog/2026-06-26-gpt-5-6-sol/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Summary of METR&#39;s predeployment evaluation of GPT-5.6 Sol&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;A summary of METR&#39;s independent, predeployment evaluation of GPT-5.6 Sol&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2485677&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>我去， 阿里也下场 输入法了</title>
       <link>https://linux.do/t/topic/2485375</link>
@@ -13,50 +51,8 @@
       <description>
             &lt;p&gt;阿里千问输入法 macOS 版今日上线官网，支持最快 300 字/分的 AI 语音输入，可自动润色、将口语转为工整文字，并支持 9 种方言，纯净无广告。官方预告 iOS、Android、Windows 版将于近日发布。此前千问团队已于今年 5 月推出千问语音输入法（千问 App 内的组件），具备去语气词、纠错、格式化整理及基于上下文的智能回复等能力，而本次上线的输入法则定位为独立 App，填补千问在移动端 AI 输入法赛道的空白。&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/8/e/6/8e6c6c8ed2354cf2eca17b055902905618747f11.jpeg&quot; data-download-href=&quot;/uploads/short-url/kjW65Kbu2AyKbuLKsR2pM5OPXfr.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/6/8e6c6c8ed2354cf2eca17b055902905618747f11_2_690x482.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;kjW65Kbu2AyKbuLKsR2pM5OPXfr&quot; width=&quot;690&quot; height=&quot;482&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/8/e/6/8e6c6c8ed2354cf2eca17b055902905618747f11_2_690x482.jpeg, https://cdn3.ldstatic.com/optimized/4X/8/e/6/8e6c6c8ed2354cf2eca17b055902905618747f11_2_1035x723.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/8/e/6/8e6c6c8ed2354cf2eca17b055902905618747f11_2_1380x964.jpeg 2x&quot; data-dominant-color=&quot;9D9FA7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;34 个帖子 - 26 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;67 个帖子 - 57 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2485375&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>解决苹果账号更新软件需切换对应商店id的问题</title>
-      <link>https://linux.do/t/topic/2485352</link>
-      <guid>linux.do-topic-2485352</guid>
-      <pubDate>Sat, 27 Jun 2026 08:28:55 GMT</pubDate>
-      <description>
-            &lt;p&gt;众所周知，当大家想要更新外区apple商店的软件（国内没有的）时，必须切换到对应的id,下面是解决苹果手机更新不用在多个苹果账号来回切换：&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;注意事项：&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;首次下载、重新下载、购买、订阅账户，可能还是要进App Store对应的账户。&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;加到“备忘录/iCloud账户时”，注意别把不想同步的备忘录、联系人、日历之类的打开。&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;别登录不可信的共享Apple ID，安全风险很大&lt;/em&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;列表条目&lt;br&gt;
-首先打开苹果设置，往下滑，找到app,进入：&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/a/1/4a1840d923c0dc08e4ad8a20b4fa7a94b69860a3.jpeg&quot; data-download-href=&quot;/uploads/short-url/aztij7C9gpsNyxH4BjuGoJfMKJR.jpeg?dl=1&quot; title=&quot;7efdd5cac8cf7da989e3dc9fb09912b&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/a/1/4a1840d923c0dc08e4ad8a20b4fa7a94b69860a3_2_172x375.jpeg&quot; alt=&quot;7efdd5cac8cf7da989e3dc9fb09912b&quot; data-base62-sha1=&quot;aztij7C9gpsNyxH4BjuGoJfMKJR&quot; width=&quot;172&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/a/1/4a1840d923c0dc08e4ad8a20b4fa7a94b69860a3_2_172x375.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/a/1/4a1840d923c0dc08e4ad8a20b4fa7a94b69860a3_2_258x562.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/a/1/4a1840d923c0dc08e4ad8a20b4fa7a94b69860a3_2_344x750.jpeg 2x&quot; data-dominant-color=&quot;F5F5F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;列表条目&lt;br&gt;
-找到备忘录或者日历点进去，这里以备忘录为教程：&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/1/4/1/1411dfa8471da0280811557cbcb42b943fa23792.jpeg&quot; data-download-href=&quot;/uploads/short-url/2RxQiC4FDfRmTqWNKRxAHZakAbU.jpeg?dl=1&quot; title=&quot;4645bbca4c84391bceb598d4ef9de99&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/1/4/1/1411dfa8471da0280811557cbcb42b943fa23792_2_172x375.jpeg&quot; alt=&quot;4645bbca4c84391bceb598d4ef9de99&quot; data-base62-sha1=&quot;2RxQiC4FDfRmTqWNKRxAHZakAbU&quot; width=&quot;172&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/1/4/1/1411dfa8471da0280811557cbcb42b943fa23792_2_172x375.jpeg, https://cdn3.ldstatic.com/optimized/4X/1/4/1/1411dfa8471da0280811557cbcb42b943fa23792_2_258x562.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/1/4/1/1411dfa8471da0280811557cbcb42b943fa23792_2_344x750.jpeg 2x&quot; data-dominant-color=&quot;F5F5F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;列表条目&lt;br&gt;
-点击“备忘录”账户&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/6/9/f69e402e89a0f22e7874c8ee18e2e203a519ffff.jpeg&quot; data-download-href=&quot;/uploads/short-url/zbGvvXgsvlkmwQo3jSSVFnPHCnt.jpeg?dl=1&quot; title=&quot;60ed282941242ec5e798bcf023c3344&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/f/6/9/f69e402e89a0f22e7874c8ee18e2e203a519ffff_2_172x375.jpeg&quot; alt=&quot;60ed282941242ec5e798bcf023c3344&quot; data-base62-sha1=&quot;zbGvvXgsvlkmwQo3jSSVFnPHCnt&quot; width=&quot;172&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/f/6/9/f69e402e89a0f22e7874c8ee18e2e203a519ffff_2_172x375.jpeg, https://cdn3.ldstatic.com/optimized/4X/f/6/9/f69e402e89a0f22e7874c8ee18e2e203a519ffff_2_258x562.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/f/6/9/f69e402e89a0f22e7874c8ee18e2e203a519ffff_2_344x750.jpeg 2x&quot; data-dominant-color=&quot;F5F4F6&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;列表条目&lt;br&gt;
-点击添加账户：&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/0/1/a019948a4f71dde8a4cf8e470e6c335ff579ffd2.jpeg&quot; data-download-href=&quot;/uploads/short-url/mQjcro7BaJvNAQ7SOCtUcqPHsMG.jpeg?dl=1&quot; title=&quot;3ecee27baa3226688cdff0b3ed2fafd&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/0/1/a019948a4f71dde8a4cf8e470e6c335ff579ffd2_2_172x375.jpeg&quot; alt=&quot;3ecee27baa3226688cdff0b3ed2fafd&quot; data-base62-sha1=&quot;mQjcro7BaJvNAQ7SOCtUcqPHsMG&quot; width=&quot;172&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/0/1/a019948a4f71dde8a4cf8e470e6c335ff579ffd2_2_172x375.jpeg, https://cdn3.ldstatic.com/optimized/4X/a/0/1/a019948a4f71dde8a4cf8e470e6c335ff579ffd2_2_258x562.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/a/0/1/a019948a4f71dde8a4cf8e470e6c335ff579ffd2_2_344x750.jpeg 2x&quot; data-dominant-color=&quot;F4F3F7&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;列表条目&lt;br&gt;
-点第一个icloud,进去后输入账户和密码登录就行了：&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/7/a/e7af624606ee2b97be413575baf7bdcbcdd4244d.jpeg&quot; data-download-href=&quot;/uploads/short-url/x3A3ldh2wCAk0wkuZh1yiJht6pv.jpeg?dl=1&quot; title=&quot;fb3c6ea72900b143f1b0bb657391bd3&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/7/a/e7af624606ee2b97be413575baf7bdcbcdd4244d_2_172x375.jpeg&quot; alt=&quot;fb3c6ea72900b143f1b0bb657391bd3&quot; data-base62-sha1=&quot;x3A3ldh2wCAk0wkuZh1yiJht6pv&quot; width=&quot;172&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/7/a/e7af624606ee2b97be413575baf7bdcbcdd4244d_2_172x375.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/7/a/e7af624606ee2b97be413575baf7bdcbcdd4244d_2_258x562.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/e/7/a/e7af624606ee2b97be413575baf7bdcbcdd4244d_2_344x750.jpeg 2x&quot; data-dominant-color=&quot;F1F0F4&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-            &lt;p&gt;&lt;small&gt;6 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2485352&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
@@ -102,7 +98,7 @@
       <pubDate>Sat, 27 Jun 2026 06:19:08 GMT</pubDate>
       <description>
             &lt;p&gt;GPT-5.6据说是要美政府一个一个单独审核才能用，佬们觉得咱们啥时候能够用上呢？会比Claude更早吗？&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;11 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484859&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -156,7 +152,7 @@
 从之前不拘一格的风格变成类似之前画SVG专属的Markdown思维链了&lt;br&gt;
 &lt;strong&gt;Flash的灰测比Pro早，半个月前就开始了&lt;/strong&gt;&lt;br&gt;
 莫非4.1真的要来了 &lt;img src=&quot;https://cdn.ldstatic.com/images/emoji/twemoji/melting_face.png?v=15&quot; title=&quot;:melting_face:&quot; class=&quot;emoji&quot; alt=&quot;:melting_face:&quot; loading=&quot;lazy&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;38 个帖子 - 22 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;43 个帖子 - 26 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484820&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -237,12 +233,12 @@
 
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/f/7/8/f7806d82b752af925a61499b5288e323a11355b9.png&quot; data-download-href=&quot;/uploads/short-url/zjv5BELzuPpeNRlmklTqAQgKPMZ.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/f/7/8/f7806d82b752af925a61499b5288e323a11355b9.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;zjv5BELzuPpeNRlmklTqAQgKPMZ&quot; width=&quot;634&quot; height=&quot;500&quot; data-dominant-color=&quot;E1E1E1&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/1/5/d154b981d1355603b0d13f6c8b80f135be1d21a8.png&quot; data-download-href=&quot;/uploads/short-url/tRPjpfPtLX6n2hAiNRnSKxW1YjC.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/5/d154b981d1355603b0d13f6c8b80f135be1d21a8_2_690x360.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tRPjpfPtLX6n2hAiNRnSKxW1YjC&quot; width=&quot;690&quot; height=&quot;360&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/5/d154b981d1355603b0d13f6c8b80f135be1d21a8_2_690x360.png, https://cdn3.ldstatic.com/original/4X/d/1/5/d154b981d1355603b0d13f6c8b80f135be1d21a8.png 1.5x, https://cdn3.ldstatic.com/original/4X/d/1/5/d154b981d1355603b0d13f6c8b80f135be1d21a8.png 2x&quot; data-dominant-color=&quot;EBECEC&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484694&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
     <item>
-      <title>Claude Mythos 5 和 Fable 5 大概率回归，但时间形式未定</title>
+      <title>（仅限美国组织）Claude Mythos 5 和 Fable 5 大概率回归，但时间形式未定</title>
       <link>https://linux.do/t/topic/2484680</link>
       <guid>linux.do-topic-2484680</guid>
       <pubDate>Sat, 27 Jun 2026 05:49:27 GMT</pubDate>
@@ -252,7 +248,7 @@
 &lt;p&gt;“Since June 12, we’ve been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model, can be redeployed to a set of US organizations that operate and defend critical infrastructure.&lt;/p&gt;
 &lt;p&gt;We’re restoring access for these organizations quickly, and we’re continuing to work with the government to expand access to Mythos 5 and make Fable 5 available for general use again.”&lt;/p&gt;
 &lt;p&gt;说实话，真的非常希望fable5回归套餐且不降智&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;2 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484680&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -334,7 +330,7 @@
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/6/0/460cf8e2aee88e3eedf495d0392f9b4aafe9ad7b.jpeg&quot; data-download-href=&quot;/uploads/short-url/9ZHdnnQMyk7mgTjXFSTNblw6H5F.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/6/0/460cf8e2aee88e3eedf495d0392f9b4aafe9ad7b_2_690x460.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;9ZHdnnQMyk7mgTjXFSTNblw6H5F&quot; width=&quot;690&quot; height=&quot;460&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/6/0/460cf8e2aee88e3eedf495d0392f9b4aafe9ad7b_2_690x460.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/6/0/460cf8e2aee88e3eedf495d0392f9b4aafe9ad7b_2_1035x690.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/4/6/0/460cf8e2aee88e3eedf495d0392f9b4aafe9ad7b_2_1380x920.jpeg 2x&quot; data-dominant-color=&quot;E7E9EB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https://ubuntu.com/security/CVE-2026-43503&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://ubuntu.com/security/CVE-2026-43503&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484367&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -350,7 +346,7 @@
 有收到邮件的记得使用优惠链结，可以得到一个月补偿&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/a/b/1/ab1aa5a354656ca3167e256b7ec3dc66e3840c8a.png&quot; data-download-href=&quot;/uploads/short-url/opEJMwQmv4GqWWS5NoBBNTlk0wW.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/b/1/ab1aa5a354656ca3167e256b7ec3dc66e3840c8a_2_690x437.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;opEJMwQmv4GqWWS5NoBBNTlk0wW&quot; width=&quot;690&quot; height=&quot;437&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/a/b/1/ab1aa5a354656ca3167e256b7ec3dc66e3840c8a_2_690x437.png, https://cdn3.ldstatic.com/optimized/4X/a/b/1/ab1aa5a354656ca3167e256b7ec3dc66e3840c8a_2_1035x655.png 1.5x, https://cdn3.ldstatic.com/original/4X/a/b/1/ab1aa5a354656ca3167e256b7ec3dc66e3840c8a.png 2x&quot; data-dominant-color=&quot;F7F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/f/f/eff89d3cae075c1907ff0017c0ad5fd49ce43f03.png&quot; data-download-href=&quot;/uploads/short-url/yeSLFJ3WGVHgpso4jUPDExmnymv.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/f/eff89d3cae075c1907ff0017c0ad5fd49ce43f03_2_393x500.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;yeSLFJ3WGVHgpso4jUPDExmnymv&quot; width=&quot;393&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/f/f/eff89d3cae075c1907ff0017c0ad5fd49ce43f03_2_393x500.png, https://cdn3.ldstatic.com/optimized/4X/e/f/f/eff89d3cae075c1907ff0017c0ad5fd49ce43f03_2_589x750.png 1.5x, https://cdn3.ldstatic.com/original/4X/e/f/f/eff89d3cae075c1907ff0017c0ad5fd49ce43f03.png 2x&quot; data-dominant-color=&quot;1C1F22&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;3 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484348&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>

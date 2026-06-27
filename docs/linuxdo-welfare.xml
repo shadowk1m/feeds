@@ -4,7 +4,89 @@
     <title>LINUX DO - Welfare</title>
     <link>https://linux.do/c/welfare/36</link>
     <description>Welfare category from linux.do</description>
-    <lastBuildDate>Sat, 27 Jun 2026 09:08:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:08:15 GMT</lastBuildDate>
+    <item>
+      <title>网易云音乐互助脚本 v3.2.0 更新说明</title>
+      <link>https://linux.do/t/topic/2485553</link>
+      <guid>linux.do-topic-2485553</guid>
+      <pubDate>Sat, 27 Jun 2026 09:28:07 GMT</pubDate>
+      <description>
+            &lt;blockquote&gt;
+&lt;p&gt;主贴&lt;br&gt;
+&lt;a href=&quot;https://linux.do/t/topic/2484359&quot;&gt;https://linux.do/t/topic/2484359&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;v3.2.0 已发布，本次属于一次比较重要的规则更新，建议所有仍在使用 v3.0.0 / v3.1.0 的用户尽快升级。&lt;/code&gt;&lt;/strong&gt;&lt;br&gt;
+本次更新主要内容如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;互助结算规则调整&lt;br&gt;
+不再采用固定 &lt;code&gt;1 次播放 = 1 credit&lt;/code&gt; 的老方式。&lt;br&gt;
+现在改为按歌曲时长结算：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;有效播放门槛 = 歌曲时长的 75%&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;credit 消耗 = 向上取整(有效播放门槛 / 30 秒)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;也就是说，歌越长，消耗的 &lt;code&gt;credit&lt;/code&gt; 越多；歌越短，结算会更细，不再一刀切。&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;月度上限机制上线&lt;br&gt;
+系统现已加入月度上限控制。&lt;br&gt;
+每个账号单月最多被互助 &lt;code&gt;800 首歌&lt;/code&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;注意：&lt;br&gt;
+这里统计的是“歌曲播放量”，不是 &lt;code&gt;credit&lt;/code&gt;。&lt;br&gt;
+也就是无论一首歌消耗多少 &lt;code&gt;credit&lt;/code&gt;，月度统计都只按“成功互助 1 首歌”计算。&lt;/p&gt;
+&lt;p&gt;达到 &lt;code&gt;800&lt;/code&gt; 后，该账号在当月将不会再进入被互助池。&lt;/p&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;专辑互助逻辑优化&lt;br&gt;
+专辑模式已调整。&lt;br&gt;
+现在不会按整张专辑连续播放，而是会从专辑中随机抽取一首歌，按单曲逻辑完成一次互助结算。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这样处理后：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;更符合“每次互助只结算一首歌”的模型&lt;/li&gt;
+&lt;li&gt;保留了专辑模式的随机性&lt;/li&gt;
+&lt;li&gt;避免整张专辑连续播放带来的混乱结算问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;无效播放识别增强&lt;br&gt;
+本次加强了对无效播放的处理逻辑。&lt;br&gt;
+脚本会更关注“实际有效播放时长”，而不是简单看播放器当前位置。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;同时也增加了对以下行为的限制：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;异常拖进度&lt;/li&gt;
+&lt;li&gt;倍速播放&lt;/li&gt;
+&lt;li&gt;不符合有效播放条件的结算&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这次仍然是“防君子不防小人”的思路，但会比之前稳不少。&lt;/p&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;面板信息增强&lt;br&gt;
+脚本面板新增/优化了更多状态展示，包含：
+&lt;ul&gt;
+&lt;li&gt;当前有效播放进度&lt;/li&gt;
+&lt;li&gt;本次预计消耗额度&lt;/li&gt;
+&lt;li&gt;本月已收到互助进度&lt;/li&gt;
+&lt;li&gt;当前剩余可被互助额度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;现在更容易看懂自己当前到底处于什么状态。&lt;/p&gt;
+&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;
+&lt;p&gt;后端派发逻辑继续完善&lt;br&gt;
+当前版本继续沿用离线可互助的逻辑。&lt;br&gt;
+也就是说，即使部分用户暂时不在线，只要其仍有剩余额度，系统仍可继续派发其互助目标，不再要求所有人必须同时在线。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;升级提醒&lt;br&gt;
+&lt;code&gt;v3.0.0 / v3.1.0&lt;/code&gt; 用户建议尽快升级到 &lt;code&gt;v3.2.0&lt;/code&gt;。&lt;br&gt;
+由于本次更新涉及结算规则、专辑处理方式、月度限制等核心逻辑调整，旧版本继续使用可能会出现规则不同步或体验不一致的问题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;补一句简短提醒版&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;本次更新涉及互助结算规则变更，建议直接覆盖安装最新版脚本。&lt;/code&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;4 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2485553&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>抽一个滴滴80元券包</title>
       <link>https://linux.do/t/topic/2485153</link>
@@ -60,7 +142,7 @@
       <pubDate>Sat, 27 Jun 2026 05:47:39 GMT</pubDate>
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/d/5/3d55fa0224793ddfdb66edd6e5696fe1a930adc1.jpeg&quot; data-download-href=&quot;/uploads/short-url/8KBkrnt3ikKUBnr4o3duZnNLBKh.jpeg?dl=1&quot; title=&quot;JRAWVCOJ6@8_3T1ODGXIZ12&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/d/5/3d55fa0224793ddfdb66edd6e5696fe1a930adc1_2_690x377.jpeg&quot; alt=&quot;JRAWVCOJ6@8_3T1ODGXIZ12&quot; data-base62-sha1=&quot;8KBkrnt3ikKUBnr4o3duZnNLBKh&quot; width=&quot;690&quot; height=&quot;377&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/d/5/3d55fa0224793ddfdb66edd6e5696fe1a930adc1_2_690x377.jpeg, https://cdn3.ldstatic.com/optimized/4X/3/d/5/3d55fa0224793ddfdb66edd6e5696fe1a930adc1_2_1035x565.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/3/d/5/3d55fa0224793ddfdb66edd6e5696fe1a930adc1.jpeg 2x&quot; data-dominant-color=&quot;F2F2F2&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484674&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -90,7 +172,7 @@ l站主贴地址:&lt;br&gt;
 这个项目可以讲大部分项目课程的文档导出,配合我写的教学提示词(包含在项目中).可以将一个项目一周内学完,写到简历上.&lt;br&gt;
 有钱请支持正版!!!&lt;br&gt;
 效果展示放评论区了,展示的内容我已购买正版支持&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;7 个帖子 - 3 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484549&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -173,7 +255,7 @@ l站主贴地址:&lt;br&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/5/7/357c0829e26b869d1fcb25284c267c5b23273c49.png&quot; data-download-href=&quot;/uploads/short-url/7D92FppeY4raJ7o7LEIIdPqfYq5.png?dl=1&quot; title=&quot;hp.onl&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/3/5/7/357c0829e26b869d1fcb25284c267c5b23273c49.png&quot; alt=&quot;hp.onl&quot; data-base62-sha1=&quot;7D92FppeY4raJ7o7LEIIdPqfYq5&quot; width=&quot;634&quot; height=&quot;374&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/9/2/49287d42f304320d45a9b8b0f050c95e71192067.jpeg&quot; data-download-href=&quot;/uploads/short-url/arbBoZ56a7baxer2N5E6LaFE9qD.jpeg?dl=1&quot; title=&quot;出几个还不错的米&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/9/2/49287d42f304320d45a9b8b0f050c95e71192067_2_680x499.jpeg&quot; alt=&quot;出几个还不错的米&quot; data-base62-sha1=&quot;arbBoZ56a7baxer2N5E6LaFE9qD&quot; width=&quot;680&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/9/2/49287d42f304320d45a9b8b0f050c95e71192067_2_680x499.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/9/2/49287d42f304320d45a9b8b0f050c95e71192067_2_1020x748.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/4/9/2/49287d42f304320d45a9b8b0f050c95e71192067.jpeg 2x&quot; data-dominant-color=&quot;DCDBD5&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/1/a/d1a5086967c93513f51034103b41203857f3fe29.png&quot; data-download-href=&quot;/uploads/short-url/tUBn6f9ljFWi6TfGsFcPU8zuokN.png?dl=1&quot; title=&quot;pinglun&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/a/d1a5086967c93513f51034103b41203857f3fe29_2_503x499.png&quot; alt=&quot;pinglun&quot; data-base62-sha1=&quot;tUBn6f9ljFWi6TfGsFcPU8zuokN&quot; width=&quot;503&quot; height=&quot;499&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/1/a/d1a5086967c93513f51034103b41203857f3fe29_2_503x499.png, https://cdn3.ldstatic.com/original/4X/d/1/a/d1a5086967c93513f51034103b41203857f3fe29.png 1.5x, https://cdn3.ldstatic.com/original/4X/d/1/a/d1a5086967c93513f51034103b41203857f3fe29.png 2x&quot; data-dominant-color=&quot;FAFBFB&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;9 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;10 个帖子 - 10 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2484021&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -193,7 +275,7 @@ l站主贴地址:&lt;br&gt;
 &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/5/4/554b86687af47ef88e7aadb62df0681c28030fdc.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;cayoACe0IgfcOEFoeQeFOOlbID2&quot; width=&quot;677&quot; height=&quot;61&quot;&gt;&lt;br&gt;
 &lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/7/e/d7e0d5a16697c357123972c4f9a17625872d34b1.jpeg&quot; data-download-href=&quot;/uploads/short-url/uNKmqRQ3wdRpsOdGfa3DTKAvMWt.jpeg?dl=1&quot; title=&quot;1782526502489&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/e/d7e0d5a16697c357123972c4f9a17625872d34b1_2_690x341.jpeg&quot; alt=&quot;1782526502489&quot; data-base62-sha1=&quot;uNKmqRQ3wdRpsOdGfa3DTKAvMWt&quot; width=&quot;690&quot; height=&quot;341&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/e/d7e0d5a16697c357123972c4f9a17625872d34b1_2_690x341.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/7/e/d7e0d5a16697c357123972c4f9a17625872d34b1_2_1035x511.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/7/e/d7e0d5a16697c357123972c4f9a17625872d34b1_2_1380x682.jpeg 2x&quot; data-dominant-color=&quot;151515&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/4/6/946f523dd0fc1f5e6e4f0d1bbea25091cf8659be.jpeg&quot; data-download-href=&quot;/uploads/short-url/lb7ayHhZ4972xmeRK51Y5QNu6w6.jpeg?dl=1&quot; title=&quot;1782526509968&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/4/6/946f523dd0fc1f5e6e4f0d1bbea25091cf8659be_2_690x339.jpeg&quot; alt=&quot;1782526509968&quot; data-base62-sha1=&quot;lb7ayHhZ4972xmeRK51Y5QNu6w6&quot; width=&quot;690&quot; height=&quot;339&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/4/6/946f523dd0fc1f5e6e4f0d1bbea25091cf8659be_2_690x339.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/4/6/946f523dd0fc1f5e6e4f0d1bbea25091cf8659be_2_1035x508.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/9/4/6/946f523dd0fc1f5e6e4f0d1bbea25091cf8659be_2_1380x678.jpeg 2x&quot; data-dominant-color=&quot;161615&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;137 个帖子 - 100 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;143 个帖子 - 104 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2483691&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
