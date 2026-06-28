@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 28 Jun 2026 13:13:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 14:59:37 GMT</lastBuildDate>
     <item>
       <title>6 年前的洗面奶用完了，现在男的都用啥</title>
       <link>https://www.v2ex.com/t/1223399</link>
@@ -22,75 +22,11 @@
       <description>大家在家的笔记本会外接显示器吗？</description>
     </item>
     <item>
-      <title>终端工作区：从 WindTerm 到 NyaTerm</title>
-      <link>https://www.v2ex.com/t/1223359</link>
-      <guid>v2ex-1223359</guid>
-      <pubDate>Sat, 27 Jun 2026 14:13:03 GMT</pubDate>
-      <description>&lt;h1&gt;NyaTerm：一个受 WindTerm 启发的开源远程终端工作区&lt;/h1&gt;
-&lt;p&gt;项目地址： &lt;a href=&quot;https://github.com/nyakang/nyaterm&quot; rel=&quot;nofollow&quot;&gt;https://github.com/nyakang/nyaterm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;官网： &lt;a href=&quot;https://nyaterm.app&quot; rel=&quot;nofollow&quot;&gt;https://nyaterm.app&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;工作区&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://nyaterm.app/img/home/cover-dark.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;一个月前，我在 WindTerm 的 Issue 区发了一条开源自荐：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;受 WindTerm 启发，我做了一个开源终端管理工具：NyaTerm 。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;当时其实挺忐忑的。&lt;/p&gt;
-&lt;p&gt;因为 WindTerm 对我来说不是一个普通工具。从大学到工作，它陪伴了我很久。在关键词高亮、SSH 会话管理、SFTP 、快捷操作、编辑输入、终端工作流这些方面，确实极大提升过我的效率。&lt;/p&gt;
-&lt;p&gt;所以做 NyaTerm ，并不是因为我“不喜欢 WindTerm”。&lt;/p&gt;
-&lt;p&gt;恰恰相反，是因为我很喜欢它，也很尊重它。&lt;/p&gt;
-&lt;p&gt;只是这几年 WindTerm 更新变少了，Issues 越积越多，一些崩溃、闪退、兼容性问题长期没有很好解决。作为一个每天都用终端工具的人，我就忍不住想：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;如果重新做一个终端管理工具，它应该是什么样子？&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;于是就有了 &lt;strong&gt;NyaTerm&lt;/strong&gt;。&lt;/p&gt;
-&lt;h2&gt;NyaTerm 的方向&lt;/h2&gt;
-&lt;p&gt;我给它定的方向很明确：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;完全免费开源&lt;/strong&gt;，并支持：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;SSH&lt;/li&gt;
-&lt;li&gt;本地 Shell&lt;/li&gt;
-&lt;li&gt;Telnet&lt;/li&gt;
-&lt;li&gt;串口&lt;/li&gt;
-&lt;li&gt;SFTP&lt;/li&gt;
-&lt;li&gt;隧道&lt;/li&gt;
-&lt;li&gt;OTP&lt;/li&gt;
-&lt;li&gt;AI 辅助&lt;/li&gt;
-&lt;li&gt;加密云同步&lt;/li&gt;
-&lt;li&gt;X11&lt;/li&gt;
-&lt;li&gt;命令窗口&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;同时，我也希望 WindTerm 以及其他客户端用户可以比较自然地迁移过来，做了好几种迁移方式。
-&lt;img alt=&quot;迁移方式&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://nyaterm.app/img/home/import-dark.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;一个多月后的进展&lt;/h2&gt;
-&lt;p&gt;没想到一个多月后，项目已经有了 &lt;strong&gt;500+ Stars&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;这个数字对大项目来说可能不算什么，但对我来说意义很大。&lt;/p&gt;
-&lt;p&gt;它说明有人看见了，有人真的下载了，有人认真用了，也有人愿意提 Issue 、反馈问题，甚至开始贡献 PR 。&lt;/p&gt;
-&lt;p&gt;这一个多月，NyaTerm 从 &lt;strong&gt;v1.0.0&lt;/strong&gt; 更新到了 &lt;strong&gt;v1.1.10&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;中间补了很多真实场景里的能力：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;拖拽上传&lt;/li&gt;
-&lt;li&gt;多行粘贴确认&lt;/li&gt;
-&lt;li&gt;会话录制与日志&lt;/li&gt;
-&lt;li&gt;断线重连&lt;/li&gt;
-&lt;li&gt;终端内容恢复&lt;/li&gt;
-&lt;li&gt;SFTP 传输优化&lt;/li&gt;
-&lt;li&gt;内置文件编辑器&lt;/li&gt;
-&lt;li&gt;X11 转发&lt;/li&gt;
-&lt;li&gt;标签页拖拽分屏&lt;/li&gt;
-&lt;li&gt;OTP 多轮认证&lt;/li&gt;
-&lt;li&gt;老旧设备协议算法兼容&lt;/li&gt;
-&lt;li&gt;便携版&lt;/li&gt;
-&lt;li&gt;Homebrew Tap, AUR 分发渠道&lt;/li&gt;
-&lt;li&gt;WebDAV / S3 / GitHub Gist / Gitee Snippet 同步&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;很多功能并不是一开始就规划好的，而是用户真实反馈推出来的。&lt;/p&gt;
-&lt;h2&gt;最大的感受&lt;/h2&gt;
-&lt;p&gt;做这个项目的开源工作这一个多月，我最大的感受是：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;一个工具真正变好，不是因为一开始设计得多完美，而是因为它被真实使用、真实反馈、真实修正。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;NyaTerm 现在还不完美，但它已经从最初的“远程终端客户端”，慢慢长成了一个更完整的 &lt;strong&gt;远程终端工作区&lt;/strong&gt;。更多功能，等待探索！&lt;/p&gt;
-</description>
+      <title>某 mao 百亿补贴购买的 macbook air 未拆封在官网查询已经被激活，正常吗？</title>
+      <link>https://www.v2ex.com/t/1223415</link>
+      <guid>v2ex-1223415</guid>
+      <pubDate>Sun, 28 Jun 2026 04:00:31 GMT</pubDate>
+      <description>6.17 购买，黄纸皮包装箱上还有两个商家自己加的封条，21 到手查询在 18 日就已经激活了，有没有问题？是全新机器吗？看到网上说只有官网发货有预激活，第三方也可以吗？正在和商家交涉中，目前商家说只能退货，不给换</description>
     </item>
     <item>
       <title>在家远程办公太容易分神了</title>
@@ -104,13 +40,6 @@
 </description>
     </item>
     <item>
-      <title>某 mao 百亿补贴购买的 macbook air 未拆封在官网查询已经被激活，正常吗？</title>
-      <link>https://www.v2ex.com/t/1223415</link>
-      <guid>v2ex-1223415</guid>
-      <pubDate>Sun, 28 Jun 2026 04:00:31 GMT</pubDate>
-      <description>6.17 购买，黄纸皮包装箱上还有两个商家自己加的封条，21 到手查询在 18 日就已经激活了，有没有问题？是全新机器吗？看到网上说只有官网发货有预激活，第三方也可以吗？正在和商家交涉中，目前商家说只能退货，不给换</description>
-    </item>
-    <item>
       <title>局座讲大量三哥涌入深圳抢 IT 工作，真有这个状况吗？</title>
       <link>https://www.v2ex.com/t/1223445</link>
       <guid>v2ex-1223445</guid>
@@ -118,6 +47,15 @@
       <description>&lt;p&gt;一方面因为美英澳等提高签证门槛，另一方面 CN 大量开发 K 签，于是大量三哥 IT 人才涌入国内，主要是到深圳地区抢工作机会，据说已有 50 万左右。&lt;/p&gt;
 &lt;p&gt;咱国内的 IT 工作都不好找了，内卷的不行，再加上三哥也进来抢码农工作，不是更卷了&lt;/p&gt;
 &lt;p&gt;三哥别的不说，英语和编程这两手还是可以的，要价还不高，竞争力挺行的&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Claude Pro 也被封号了</title>
+      <link>https://www.v2ex.com/t/1223397</link>
+      <guid>v2ex-1223397</guid>
+      <pubDate>Sun, 28 Jun 2026 01:57:50 GMT</pubDate>
+      <description>&lt;p&gt;不知道是昨天搞得自动切换代理模块问题还是新机场 ip 问题
+我错了 Pro 也被拿下了 能退钱吗？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -148,20 +86,21 @@ superpowers&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Claude Pro 也被封号了</title>
-      <link>https://www.v2ex.com/t/1223397</link>
-      <guid>v2ex-1223397</guid>
-      <pubDate>Sun, 28 Jun 2026 01:57:50 GMT</pubDate>
-      <description>&lt;p&gt;不知道是昨天搞得自动切换代理模块问题还是新机场 ip 问题
-我错了 Pro 也被拿下了 能退钱吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>拒绝“赛博溜猴”：国内大厂 AI Coding Plan 抢购恶心到极点</title>
       <link>https://www.v2ex.com/t/1223434</link>
       <guid>v2ex-1223434</guid>
       <pubDate>Sun, 28 Jun 2026 06:36:20 GMT</pubDate>
       <description>最近，国内各大 AI 厂商推出的 Coding Plan 套餐真的是“一票难求”啊，打着买来试试的想法，打开了多家平台，结果大失所望。智谱（ GLM ）、阿里、火山方舟等大厂的套餐清一色售罄，并齐刷刷开启了每天定点的“抢购模式”。我记得这个抢购，老早之前就有了，这不禁让人灵魂发问：国内真的有这么多人在写代码吗？需求量真的大到每天都有海量新增用户去抢购吗？&lt;br /&gt;&lt;br /&gt;Coding Plan 套餐是按月计费的订阅制。正常逻辑下，一个人购买后，在当月根本不需要重复购买。即便国内程序员基数庞大，也不至于每天都呈指数级激增，更不可能每天都有这么多人排队等着按月续费。&lt;br /&gt;&lt;br /&gt;但现实是，每天到点抢购的页面永远是“卡死”和“刷新重试”，连支付的入口都点不进去。这种体验说明什么？说明各大厂商每天放出来的账号名额极有可能连十个都不到，甚至干脆就是“0 库存”的空挂页面。系统压根没打算让你买进去，它只是需要你每天在那个时间点去点一下，去碰个壁。&lt;br /&gt;&lt;br /&gt;点开抢购页面，不是直接卡死，就是无休止地叫你“刷新重试”，连个支付入口都进不去。每天放出来的号大概率连 10 个都没有，甚至干脆就是 0 库存挂在那演戏。没货你直说“算力紧张，暂停新用户订阅”不就行了？非要搞个每天定点的虚假繁荣，浪费大家时间，这种吃相极其丑陋、下作。&lt;br /&gt;&lt;br /&gt;有就是有，没有就是没有。搞这种赛博溜猴的把戏，恶心到极点。&lt;br /&gt;&lt;br /&gt;兄弟们，别陪他们演了！这帮恶心的玩意儿。我想说的是，没有，你直接就发公告，算例紧张，仅能支持当前订阅用户使用了，暂时不卖就行了，他妈整这种准点抢购又不让点页面的行为简直让人愤怒（似乎有人脚本能抢到，我没见过有人点 ui 界面进去能买到的）。</description>
+    </item>
+    <item>
+      <title>看到《曾经倾力帮我的学长...》想到的</title>
+      <link>https://www.v2ex.com/t/1223372</link>
+      <guid>v2ex-1223372</guid>
+      <pubDate>Sat, 27 Jun 2026 16:01:56 GMT</pubDate>
+      <description>&lt;p&gt;我也曾花了一两年来适应客观的“疏离”，慢慢地劝说自己需要接受这种变化，不要对过去的情感有过多的牵绊。
+但看到那位兄弟的困惑之后，我只感叹：人类本来是由于互助协作而强大起来的，但现在所见到的更多是基于“有没有经济利益”而决定是否要进行连接，但这种建立在利益变化随机性或不可预料性之下的连接还是非常脆弱，明明现在社会中可以建立连接的方式异常丰富，但环顾四周真正想连接的逐渐空无一人。我已经逐渐能感受到自己的机器化。
+一个逐渐失去了热心与情感的劳动机器与另一个没有热心与情感的赚钱机器产生连接，用规律的节奏代替不规律的以成本计价的情感维护，想到这一点，不由得为下一代的人担心了起来。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
