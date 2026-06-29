@@ -4,22 +4,29 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 29 Jun 2026 03:56:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:52:58 GMT</lastBuildDate>
     <item>
-      <title>新闻报道欧洲没空调是不是优越叙事的一部分？</title>
-      <link>https://www.v2ex.com/t/1223513</link>
-      <guid>v2ex-1223513</guid>
-      <pubDate>Sun, 28 Jun 2026 19:28:00 GMT</pubDate>
-      <description>每年 6-7 月份媒体就会密集报道欧洲高温多少度，热死多少人。&lt;br /&gt;然后评论里感叹一下欧洲装空调要多少钱，对比一下国内冷气自由，情绪价值拉满。&lt;br /&gt;&lt;br /&gt;有的负责任的报道会在文中解释一下欧洲夏天真正热的天气没有几天，标题党类的报道根本提都不会提。&lt;br /&gt;&lt;br /&gt;我查了一下柏林的历史气温明细，最近十几年每天的最高最低平均温度都有&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.wetterkontor.de/de/wetter/deutschland/rueckblick.asp?id=21&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.wetterkontor.de/de/wetter/deutschland/rueckblick.asp?id=21&lt;/a&gt;&lt;br /&gt;能看道柏林今天最高温飙到了 40 度，但是最低温还在 20 度，属于晚上 11 点门窗大开就能乘凉的程度。&lt;br /&gt;而且两周前最高气温才 17 度，出门怕是得穿外套。&lt;br /&gt;&lt;br /&gt;最夸张的是，这个链接居然在一些论坛上直接判定为违规链接，评论不予显示。&lt;br /&gt;&lt;br /&gt;至于真正需要空调续命的地方，比如希腊在欧洲也算是穷国了，我们去玩的时候能看到家家都有空调。&lt;br /&gt;这种对比几乎就没见到任何一个媒体/自媒体提到。</description>
-    </item>
-    <item>
-      <title>局座讲大量三哥涌入深圳抢 IT 工作，真有这个状况吗？</title>
-      <link>https://www.v2ex.com/t/1223445</link>
-      <guid>v2ex-1223445</guid>
-      <pubDate>Sun, 28 Jun 2026 07:52:37 GMT</pubDate>
-      <description>&lt;p&gt;一方面因为美英澳等提高签证门槛，另一方面 CN 大量开发 K 签，于是大量三哥 IT 人才涌入国内，主要是到深圳地区抢工作机会，据说已有 50 万左右。&lt;/p&gt;
-&lt;p&gt;咱国内的 IT 工作都不好找了，内卷的不行，再加上三哥也进来抢码农工作，不是更卷了&lt;/p&gt;
-&lt;p&gt;三哥别的不说，英语和编程这两手还是可以的，要价还不高，竞争力挺行的&lt;/p&gt;
+      <title>[0629 内测] Brivionix（Codex Pro 池）— GPT-5.5 / 5.4 / 5.3，回帖留 ID 送 $10</title>
+      <link>https://www.v2ex.com/t/1223548</link>
+      <guid>v2ex-1223548</guid>
+      <pubDate>Mon, 29 Jun 2026 01:28:32 GMT</pubDate>
+      <description>&lt;p&gt;各位 V 友好！&lt;/p&gt;
+&lt;p&gt;网站继续内测稳定性，欢迎你们体验使用，在此祝各位在新的一周事事顺利，身体健康，开开心心！&lt;/p&gt;
+&lt;h2&gt;当前支持模型（均为 Codex Pro 号池）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;gpt-5.5&lt;/code&gt; — 1.1M 超长上下文，支持推理、工具调用、文件、视觉&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gpt-5.4&lt;/code&gt; / &lt;code&gt;gpt-5.4-mini&lt;/code&gt; — 400K 上下文，日常编码主力&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gpt-5.3-codex&lt;/code&gt; — Codex 原生模型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;全系模型均来自 Codex Pro 池，完美兼容 &lt;strong&gt;Codex App / Claude Code&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2&gt;收费方式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;0.85 RMB = 1 $，按量计费，无需订阅&lt;/li&gt;
+&lt;li&gt;支持 &lt;strong&gt;支付宝 / Stripe&lt;/strong&gt; 充值，国内国外都方便&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🎁 0629 内测福利&lt;/h2&gt;
+&lt;p&gt;回帖留下注册用户 ID ，每人送 &lt;strong&gt;$10 额度&lt;/strong&gt;，数量有限，先到先得。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://brivionix.com/&quot; rel=&quot;nofollow&quot;&gt;brivionix.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -47,30 +54,6 @@
 </description>
     </item>
     <item>
-      <title>[0629 内测] Brivionix（Codex Pro 池）— GPT-5.5 / 5.4 / 5.3，回帖留 ID 送 $10</title>
-      <link>https://www.v2ex.com/t/1223548</link>
-      <guid>v2ex-1223548</guid>
-      <pubDate>Mon, 29 Jun 2026 01:28:32 GMT</pubDate>
-      <description>&lt;p&gt;各位 V 友好！&lt;/p&gt;
-&lt;p&gt;网站继续内测稳定性，欢迎你们体验使用，在此祝各位在新的一周事事顺利，身体健康，开开心心！&lt;/p&gt;
-&lt;h2&gt;当前支持模型（均为 Codex Pro 号池）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;gpt-5.5&lt;/code&gt; — 1.1M 超长上下文，支持推理、工具调用、文件、视觉&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;gpt-5.4&lt;/code&gt; / &lt;code&gt;gpt-5.4-mini&lt;/code&gt; — 400K 上下文，日常编码主力&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;gpt-5.3-codex&lt;/code&gt; — Codex 原生模型&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;全系模型均来自 Codex Pro 池，完美兼容 &lt;strong&gt;Codex App / Claude Code&lt;/strong&gt;。&lt;/p&gt;
-&lt;h2&gt;收费方式&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;0.85 RMB = 1 $，按量计费，无需订阅&lt;/li&gt;
-&lt;li&gt;支持 &lt;strong&gt;支付宝 / Stripe&lt;/strong&gt; 充值，国内国外都方便&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🎁 0629 内测福利&lt;/h2&gt;
-&lt;p&gt;回帖留下注册用户 ID ，每人送 &lt;strong&gt;$10 额度&lt;/strong&gt;，数量有限，先到先得。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://brivionix.com/&quot; rel=&quot;nofollow&quot;&gt;brivionix.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>DeepSeek 好贵啊</title>
       <link>https://www.v2ex.com/t/1223578</link>
       <guid>v2ex-1223578</guid>
@@ -78,18 +61,42 @@
       <description>昨天拿 Deepseek 开最大思考模式。修改了几个前端页面的 BUG ，花了我 145.&lt;br /&gt;&lt;br /&gt;今天用来写了个计划花了我 7.5 ，像是做梦一样。</description>
     </item>
     <item>
-      <title>GPT 今天早上又重置了，可惜昨天没蹬完</title>
-      <link>https://www.v2ex.com/t/1223521</link>
-      <guid>v2ex-1223521</guid>
-      <pubDate>Mon, 29 Jun 2026 00:15:03 GMT</pubDate>
-      <description>GPT 今天早上又重置了，可惜昨天没蹬完</description>
-    </item>
-    <item>
       <title>骑自行车后续.....下不去了</title>
       <link>https://www.v2ex.com/t/1223524</link>
       <guid>v2ex-1223524</guid>
       <pubDate>Mon, 29 Jun 2026 00:36:07 GMT</pubDate>
       <description>基本下不去了，将不到想要的体重，越锻炼，去脂体重越高，感官上确实细了；最近天气又很差，广州一直下雨。没办法出去锻炼，然后开始反弹了。&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/UjsLXx8.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/UjsLXx8.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>冲动提了离职，冷静下来后又舍不得</title>
+      <link>https://www.v2ex.com/t/1223572</link>
+      <guid>v2ex-1223572</guid>
+      <pubDate>Mon, 29 Jun 2026 02:01:58 GMT</pubDate>
+      <description>&lt;p&gt;OP 算是团队里的老人了，团队创建时第一批进来的，之后慢慢成长为团队里的骨干，负责团队中一块儿独立的业务，也带了个六七个人的小团队。&lt;/p&gt;
+&lt;p&gt;当时进团队时，是领导承诺说要做量产，后来发现量产的影子都没有，未来一到两年可能也没法量产。再加上没有研发体系，团队成员基本都是全干工程师；领导不懂技术又爱瞎指挥，我虽然拒了很多需求但还是不可避免地接了一些不属于我们团队的业务。导致我们团队每个成员都同时在多个项目内兼职，且没有 A/B 角的 backup 。私下跟团队内外的人都聊了聊，团队成员普遍反馈管理混乱且时间进度安排不合理。  &lt;/p&gt;
+&lt;p&gt;我本人是属于比较认真负责的类型，而且重结果，在很多任务&amp;amp;需求的推动过程中往往会冲在最前面。最近在任务推动的过程中突然发现好像就自己在认真推动，其他对接的同事都比较敷衍，又各种推诿，顿时有一种无力感。情绪上头后就跟领导提了离职，发起了离职流程，这过程中连交接文档都写好了，跟交接同事也初步进行了沟通。  &lt;/p&gt;
+&lt;p&gt;领导一开始并没有过多挽留我，离职流程也同意了，但是这两天又劝我再考虑考虑，当前我的可选项包括：&lt;/p&gt;
+&lt;p&gt;1.继续担当核心骨干&amp;amp;小组长，与以往不变&lt;br/&gt;
+2.不再担当核心骨干&amp;amp;小组长，回归大头兵&lt;br/&gt;
+3.换团队，转岗集团其他子公司，研发体系更完善，大概率是大头兵&lt;br/&gt;
+4.坚持离职，换公司，有可能竞业且需要换城市      &lt;/p&gt;
+&lt;p&gt;坦白而言，公司给我的薪资待遇还是可以的。如果离职后要重新在本地找，很难找到薪资待遇差不多的。本人虽不排斥去其他城市，但还是想留在当地（已婚未育，已买房买车）。  &lt;/p&gt;
+&lt;p&gt;以上，各位大佬有什么好的建议么&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>租房生活后，学做饭，每天都吃上了自己亲手做的饭，谈谈经验</title>
+      <link>https://www.v2ex.com/t/1223540</link>
+      <guid>v2ex-1223540</guid>
+      <pubDate>Mon, 29 Jun 2026 01:10:38 GMT</pubDate>
+      <description>本人是四川人，众所周知，四川美食丰富，从小家里人做的饭菜很美味，所以比较挑食，所以工作后，特地租了一个带天然气灶的房子，我总结了以下做饭的经验和好处：&lt;br /&gt;&lt;br /&gt;1. 一开始不要什么厨具和调料都买，想两三样自己最想学的菜，做这些菜需要用什么就买什么&lt;br /&gt;2. 跟着网上的教程学，比如 B 站的“美食强”，他的菜品丰富，视频几分钟，全是干货，能学到很多经验，我的青椒肉丝、毛豆肉末、醋溜土豆丝儿都是跟着他学的&lt;br /&gt;3. 看一百遍，不如亲自动手一遍，做菜跟做实验差不多，主要就是控制变量法，先有一个大致路线，实践，总结经验，改进，不要怕失败，只要看过教学视频，每次做出来都能及格，以前一直吐槽“适量”二字，等做多了，就觉得这两个字恰到好处，哈哈&lt;br /&gt;4. 最重要的还是时间，得有空才行，一开始比较慢，熟练了就会快很多，唯手熟尔&lt;br /&gt;5. 每天成本十几元钱，确实能省不少，主要是健康、美味、乐趣</description>
+    </item>
+    <item>
+      <title>Claude 闲置号被封</title>
+      <link>https://www.v2ex.com/t/1223523</link>
+      <guid>v2ex-1223523</guid>
+      <pubDate>Mon, 29 Jun 2026 00:27:26 GMT</pubDate>
+      <description>有一个 Claude 老号，大概是去年上半年开的，10 多年的谷歌老号 + AppStore 礼品卡充值，一直开的 plus ，稳定用了小一年，两个月前转投 Codex 之后就没再续费，也没有再登录使用过账号。&lt;br /&gt;&lt;br /&gt;结果今天突然收到被封的邮件。&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/QQ9KJO0.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/QQ9KJO0.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;说不定从一开始用的时候，Claude 就已经有一万种方法确认你到底是哪个区域的用户，至于封不封号，可能纯看 A/的心情吧</description>
     </item>
   </channel>
 </rss>
