@@ -4,7 +4,141 @@
     <title>LINUX DO - News</title>
     <link>https://linux.do/c/news/34</link>
     <description>News category from linux.do</description>
-    <lastBuildDate>Mon, 29 Jun 2026 16:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 18:57:44 GMT</lastBuildDate>
+    <item>
+      <title>Cursor 发布了手机版（仅限iOS 26+）</title>
+      <link>https://linux.do/t/topic/2498017</link>
+      <guid>linux.do-topic-2498017</guid>
+      <pubDate>Mon, 29 Jun 2026 18:27:39 GMT</pubDate>
+      <description>
+            &lt;p&gt;在6月29日，Anysphere官方对Cursor软件发布了iOS Beta版，安卓版暂未发布，iOS要求26.0系统及以上&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/d/7/5/d75d016c94ec9fe93c09914e7aba0f829a0b44d6.jpeg&quot; data-download-href=&quot;/uploads/short-url/uJbV17uQ8O884jmz7uDXAHGxLTg.jpeg?dl=1&quot; title=&quot;d6ee09d930e70c69800c3296d20a0962_720&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/5/d75d016c94ec9fe93c09914e7aba0f829a0b44d6_2_230x500.jpeg&quot; alt=&quot;d6ee09d930e70c69800c3296d20a0962_720&quot; data-base62-sha1=&quot;uJbV17uQ8O884jmz7uDXAHGxLTg&quot; width=&quot;230&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/d/7/5/d75d016c94ec9fe93c09914e7aba0f829a0b44d6_2_230x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/d/7/5/d75d016c94ec9fe93c09914e7aba0f829a0b44d6_2_345x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/d/7/5/d75d016c94ec9fe93c09914e7aba0f829a0b44d6_2_460x1000.jpeg 2x&quot; data-dominant-color=&quot;353535&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;官网链接:&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://cursor.com/cn/changelog/ios-mobile-app&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/5/2/3/523ad7869761d773ada036494135c8d8ef7f5062.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;575651&quot; width=&quot;256&quot; height=&quot;256&quot;&gt;
+
+      &lt;a href=&quot;https://cursor.com/cn/changelog/ios-mobile-app&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Cursor&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/362;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/9/e/59e0ec95e0080c2049c36ea56a3fbddb47eba836_2_690x362.png&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;F4F4F1&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://cursor.com/cn/changelog/ios-mobile-app&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Cursor iOS 移动应用 · Cursor&lt;/a&gt;&lt;/h3&gt;
+
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2498017&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>wslc 预览版已发布</title>
+      <link>https://linux.do/t/topic/2497940</link>
+      <guid>linux.do-topic-2497940</guid>
+      <pubDate>Mon, 29 Jun 2026 17:09:00 GMT</pubDate>
+      <description>
+            &lt;p&gt;使用 wsl --update --pre-release 即可获得 wslc.exe&lt;br&gt;
+支持 gpu 调用&lt;br&gt;
+&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/e/6/1/e61f334a780146034dbd69552656149d1baff0e8.jpeg&quot; data-download-href=&quot;/uploads/short-url/wPKFcW3OGDVy4ww1U0eqLatdebu.jpeg?dl=1&quot; title=&quot;paste_1782752900990.jpg&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/e/6/1/e61f334a780146034dbd69552656149d1baff0e8_2_690x425.jpeg&quot; alt=&quot;paste_1782752900990.jpg&quot; data-base62-sha1=&quot;wPKFcW3OGDVy4ww1U0eqLatdebu&quot; width=&quot;690&quot; height=&quot;425&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/e/6/1/e61f334a780146034dbd69552656149d1baff0e8_2_690x425.jpeg, https://cdn3.ldstatic.com/optimized/4X/e/6/1/e61f334a780146034dbd69552656149d1baff0e8_2_1035x637.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/e/6/1/e61f334a780146034dbd69552656149d1baff0e8.jpeg 2x&quot; data-dominant-color=&quot;565C5C&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;详情见官方博客&lt;/p&gt;&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://devblogs.microsoft.com/commandline/wsl-container-is-now-available-for-public-preview/&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/b/7/1/b7119012f3b7a298272114e55f0d5cf5cfd210db.jpeg&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;BBB980&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;
+
+      &lt;a href=&quot;https://devblogs.microsoft.com/commandline/wsl-container-is-now-available-for-public-preview/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot; title=&quot;03:29PM - 29 June 2026&quot;&gt;Windows Command Line – 29 Jun 26&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/424;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/a/1/d/a1d7bee914cba3897ee4acb64f7d2a01426c329d_2_690x425.webp&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;292C2E&quot; width=&quot;690&quot; height=&quot;425&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://devblogs.microsoft.com/commandline/wsl-container-is-now-available-for-public-preview/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;WSL container is now available for public preview&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;At Microsoft Build 2026, we introduced WSL containers, bringing Linux container development directly into Windows through the Windows Subsystem for Linux&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+            &lt;p&gt;&lt;small&gt;7 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2497940&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>深圳地铁今起可刷外卡银行卡过闸</title>
+      <link>https://linux.do/t/topic/2497929</link>
+      <guid>linux.do-topic-2497929</guid>
+      <pubDate>Mon, 29 Jun 2026 17:00:46 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/4/b/f/4bf17dda450578b2b73d73bb2e8840b4acec0032.jpeg&quot; data-download-href=&quot;/uploads/short-url/aPPcCVCWGcefqet9TcQwzGdDbc6.jpeg?dl=1&quot; title=&quot;IMG_20260630_010201_395&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/4/b/f/4bf17dda450578b2b73d73bb2e8840b4acec0032_2_690x388.jpeg&quot; alt=&quot;IMG_20260630_010201_395&quot; data-base62-sha1=&quot;aPPcCVCWGcefqet9TcQwzGdDbc6&quot; width=&quot;690&quot; height=&quot;388&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/4/b/f/4bf17dda450578b2b73d73bb2e8840b4acec0032_2_690x388.jpeg, https://cdn3.ldstatic.com/optimized/4X/4/b/f/4bf17dda450578b2b73d73bb2e8840b4acec0032_2_1035x582.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/4/b/f/4bf17dda450578b2b73d73bb2e8840b4acec0032.jpeg 2x&quot; data-dominant-color=&quot;734845&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;自今日起，深圳地铁可使用银联、Visa、万事达、运通及JCB银行卡过闸。&lt;/p&gt;
+&lt;p&gt;刷银联卡时，收单方为招商银行，预授权15元人民币。&lt;br&gt;
+刷其他卡组织卡时，收单方为银联商务 UMS，预授权36元人民币。进闸时预授权，出闸时全额解除预授权并另行扣除票款（类似上海地铁模式）。&lt;/p&gt;
+&lt;p&gt;闸机不支持境内发行的「旧」万事达卡及境内发行的 Visa 卡进闸。&lt;/p&gt;
+&lt;p&gt;目前系统对非银联卡片支持存在一定问题：部分卡片无法进闸，部分卡片可进闸但无法出闸。闸机支持万事网联卡进闸，但部分万事网联卡片无法出闸。&lt;/p&gt;
+&lt;p&gt;注：有读者反馈闸机屏蔽了手机 Pay 卡片，但编辑实测可使用手机 Pay 卡片入出闸。&lt;/p&gt;
+&lt;p&gt;彩蛋：闸机屏幕上会显示卡组织名称及其英文翻译，如 Master 外卡 - Master wild card。&lt;/p&gt;
+&lt;p&gt;感谢 匿名读者, CH-KGB, Nana Angelus 投稿&lt;/p&gt;
+&lt;p&gt;转自encmasuta&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 7 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2497929&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
+    <item>
+      <title>cursor的 大日子“来了”</title>
+      <link>https://linux.do/t/topic/2497920</link>
+      <guid>linux.do-topic-2497920</guid>
+      <pubDate>Mon, 29 Jun 2026 16:51:33 GMT</pubDate>
+      <description>
+            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/7/1/d/71def2edb9a71cb174617897f951fcf52472c8c4.png&quot; data-download-href=&quot;/uploads/short-url/gflCrw18ej2pka5Edv2t5y1Qvqc.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/7/1/d/71def2edb9a71cb174617897f951fcf52472c8c4.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;gflCrw18ej2pka5Edv2t5y1Qvqc&quot; width=&quot;680&quot; height=&quot;322&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/6/7/c676c5161b23fd6a4fecf4a14afc9a3aef6db741.jpeg&quot; data-download-href=&quot;/uploads/short-url/sjH09is0i7XGOCnp1AKbuQEjmiB.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/6/7/c676c5161b23fd6a4fecf4a14afc9a3aef6db741_2_690x490.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;sjH09is0i7XGOCnp1AKbuQEjmiB&quot; width=&quot;690&quot; height=&quot;490&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/6/7/c676c5161b23fd6a4fecf4a14afc9a3aef6db741_2_690x490.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/6/7/c676c5161b23fd6a4fecf4a14afc9a3aef6db741_2_1035x735.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/c/6/7/c676c5161b23fd6a4fecf4a14afc9a3aef6db741.jpeg 2x&quot; data-dominant-color=&quot;45403B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;aside class=&quot;onebox allowlistedgeneric&quot; data-onebox-src=&quot;https://apps.apple.com/us/app/cursor/id6767085653&quot;&gt;
+  &lt;header class=&quot;source&quot;&gt;
+      &lt;img src=&quot;https://cdn3.ldstatic.com/original/4X/6/8/e/68ef8b21a71173efb0cb61662ee3c2931b7d2b3a.png&quot; class=&quot;site-icon&quot; alt=&quot;&quot; data-dominant-color=&quot;3DA0F8&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
+
+      &lt;a href=&quot;https://apps.apple.com/us/app/cursor/id6767085653&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;App Store&lt;/a&gt;
+  &lt;/header&gt;
+
+  &lt;article class=&quot;onebox-body&quot;&gt;
+    &lt;div class=&quot;aspect-image&quot; style=&quot;--aspect-ratio:690/361;&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/b/4/5/b45a791d0ff390266f10a617c1e4ceac6a04d563_2_690x362.jpeg&quot; class=&quot;thumbnail&quot; alt=&quot;&quot; data-dominant-color=&quot;E6E6E6&quot; width=&quot;690&quot; height=&quot;362&quot;&gt;&lt;/div&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://apps.apple.com/us/app/cursor/id6767085653&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;Cursor App - App Store&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;p&gt;Download Cursor by Anysphere on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Cursor.&lt;/p&gt;
+
+
+  &lt;/article&gt;
+
+  &lt;div class=&quot;onebox-metadata&quot;&gt;
+    
+    
+  &lt;/div&gt;
+
+  &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;等级2以上的佬友可以看这个“大”的&lt;br&gt;
+&lt;a href=&quot;https://linux.do/t/topic/2497369&quot;&gt;https://linux.do/t/topic/2497369&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;应该还有大的。等我再探再报&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;12 个帖子 - 9 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2497920&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
+          </description>
+    </item>
     <item>
       <title>美团 LongCat-2.0-Preview 正式上线 新用户9.9元5000万tokens</title>
       <link>https://linux.do/t/topic/2497885</link>
@@ -15,14 +149,17 @@
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/9/c/3/9c359917e2b53af964b6034bd64c81413a6a900f.jpeg&quot; data-download-href=&quot;/uploads/short-url/mhTjKM1Ee2fOoyQBBY05CUmz9M3.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/9/c/3/9c359917e2b53af964b6034bd64c81413a6a900f_2_374x375.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;mhTjKM1Ee2fOoyQBBY05CUmz9M3&quot; width=&quot;374&quot; height=&quot;375&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/9/c/3/9c359917e2b53af964b6034bd64c81413a6a900f_2_374x375.jpeg, https://cdn3.ldstatic.com/optimized/4X/9/c/3/9c359917e2b53af964b6034bd64c81413a6a900f_2_561x562.jpeg 1.5x, https://cdn3.ldstatic.com/original/4X/9/c/3/9c359917e2b53af964b6034bd64c81413a6a900f.jpeg 2x&quot; data-dominant-color=&quot;859088&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/b/2/5b286cfd349acbe808c27855bd19a085b84d0c21.jpeg&quot; data-download-href=&quot;/uploads/short-url/d0q3OCBP5U559FRkqjUZNzelFol.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/b/2/5b286cfd349acbe808c27855bd19a085b84d0c21_2_345x181.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;d0q3OCBP5U559FRkqjUZNzelFol&quot; width=&quot;345&quot; height=&quot;181&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/b/2/5b286cfd349acbe808c27855bd19a085b84d0c21_2_345x181.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/b/2/5b286cfd349acbe808c27855bd19a085b84d0c21_2_517x271.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/b/2/5b286cfd349acbe808c27855bd19a085b84d0c21_2_690x362.jpeg 2x&quot; data-dominant-color=&quot;2F5A46&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/3/4/634d01243b123077a0fb2b572a0427fb9f3da93c.jpeg&quot; data-download-href=&quot;/uploads/short-url/easfykFwyu4k27BGLGgi650PXxa.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/4/634d01243b123077a0fb2b572a0427fb9f3da93c_2_345x177.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;easfykFwyu4k27BGLGgi650PXxa&quot; width=&quot;345&quot; height=&quot;177&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/3/4/634d01243b123077a0fb2b572a0427fb9f3da93c_2_345x177.jpeg, https://cdn3.ldstatic.com/optimized/4X/6/3/4/634d01243b123077a0fb2b572a0427fb9f3da93c_2_517x265.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/3/4/634d01243b123077a0fb2b572a0427fb9f3da93c_2_690x354.jpeg 2x&quot; data-dominant-color=&quot;305B46&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;新用户认证送1000万token&lt;/p&gt;
-&lt;p&gt;token plan&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Token plan&lt;/strong&gt;&lt;br&gt;
 9.9元 5000万 token/月&lt;br&gt;
 399元 10亿 token/月&lt;br&gt;
 Cache命中免费，不计入Token资源包的消耗统计。&lt;/p&gt;
-&lt;p&gt;按量付费API&lt;br&gt;
-&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/d/0/3d00eb34e87f93faa434cba649ee9c7c16dcec25.png&quot; data-download-href=&quot;/uploads/short-url/8HF5PYoWwnDJeRZ3HOGBIJx4oRv.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/d/0/3d00eb34e87f93faa434cba649ee9c7c16dcec25_2_517x244.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8HF5PYoWwnDJeRZ3HOGBIJx4oRv&quot; width=&quot;517&quot; height=&quot;244&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/d/0/3d00eb34e87f93faa434cba649ee9c7c16dcec25_2_517x244.png, https://cdn3.ldstatic.com/optimized/4X/3/d/0/3d00eb34e87f93faa434cba649ee9c7c16dcec25_2_775x366.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/d/0/3d00eb34e87f93faa434cba649ee9c7c16dcec25.png 2x&quot; data-dominant-color=&quot;F7F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;按量付费API&lt;/strong&gt;&lt;br&gt;
+每百万tokens&lt;br&gt;
+输入（命中缓存）：¥0.04 | 输入（未命中缓存）：¥2.00 | 输出：¥8 （限时优惠）&lt;br&gt;
+输入（命中缓存）：¥0.10 | 输入（未命中缓存）：¥5.00 | 输出：¥20&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/d/0/3d00eb34e87f93faa434cba649ee9c7c16dcec25.png&quot; data-download-href=&quot;/uploads/short-url/8HF5PYoWwnDJeRZ3HOGBIJx4oRv.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/d/0/3d00eb34e87f93faa434cba649ee9c7c16dcec25_2_517x244.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;8HF5PYoWwnDJeRZ3HOGBIJx4oRv&quot; width=&quot;517&quot; height=&quot;244&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/d/0/3d00eb34e87f93faa434cba649ee9c7c16dcec25_2_517x244.png, https://cdn3.ldstatic.com/optimized/4X/3/d/0/3d00eb34e87f93faa434cba649ee9c7c16dcec25_2_775x366.png 1.5x, https://cdn3.ldstatic.com/original/4X/3/d/0/3d00eb34e87f93faa434cba649ee9c7c16dcec25.png 2x&quot; data-dominant-color=&quot;F7F8F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;大家觉得怎样！&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;1 个帖子 - 1 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;14 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2497885&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -45,7 +182,7 @@ Cache命中免费，不计入Token资源包的消耗统计。&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;中信建投近期研报中称，零部件环节是本轮行情弹性最大的方向。全球半导体设备零部件正经历一轮历史罕见的全链条涨价潮。半导体产业链的定价权正从芯片终端向设备与零部件环节结构性上移。&lt;/p&gt;
 &lt;p&gt;来源：第一财经公众号&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 4 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2497779&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -57,7 +194,7 @@ Cache命中免费，不计入Token资源包的消耗统计。&lt;/p&gt;
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/c/f/2/cf2deec38d093dd23b8650614be3b0cd984ab842.jpeg&quot; data-download-href=&quot;/uploads/short-url/tyNfie9DTIQ9UfsvzibDPw8alXQ.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/c/f/2/cf2deec38d093dd23b8650614be3b0cd984ab842_2_473x500.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;tyNfie9DTIQ9UfsvzibDPw8alXQ&quot; width=&quot;473&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/c/f/2/cf2deec38d093dd23b8650614be3b0cd984ab842_2_473x500.jpeg, https://cdn3.ldstatic.com/optimized/4X/c/f/2/cf2deec38d093dd23b8650614be3b0cd984ab842_2_709x750.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/c/f/2/cf2deec38d093dd23b8650614be3b0cd984ab842_2_946x1000.jpeg 2x&quot; data-dominant-color=&quot;9B9A9B&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;看起来和OpenCode Go类似，不知道实际额度和性能如何&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;17 个帖子 - 11 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;26 个帖子 - 16 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2497691&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -321,7 +458,7 @@ Cache命中免费，不计入Token资源包的消耗统计。&lt;/p&gt;
       <description>
             &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/5/c/7/5c70c66188a76d6b2afe3a5e0a0936245cf008ba.jpeg&quot; data-download-href=&quot;/uploads/short-url/dbLxSxeIjULkRNZZ4hVEC9bfML0.jpeg?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/5/c/7/5c70c66188a76d6b2afe3a5e0a0936245cf008ba_2_690x459.jpeg&quot; alt=&quot;image&quot; data-base62-sha1=&quot;dbLxSxeIjULkRNZZ4hVEC9bfML0&quot; width=&quot;690&quot; height=&quot;459&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/5/c/7/5c70c66188a76d6b2afe3a5e0a0936245cf008ba_2_690x459.jpeg, https://cdn3.ldstatic.com/optimized/4X/5/c/7/5c70c66188a76d6b2afe3a5e0a0936245cf008ba_2_1035x688.jpeg 1.5x, https://cdn3.ldstatic.com/optimized/4X/5/c/7/5c70c66188a76d6b2afe3a5e0a0936245cf008ba_2_1380x918.jpeg 2x&quot; data-dominant-color=&quot;ECECED&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;
 &lt;a href=&quot;https://cybernews.com/ai-news/americans-war-on-ai-agents-customer-service/&quot; class=&quot;onebox&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;https://cybernews.com/ai-news/americans-war-on-ai-agents-customer-service/&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;13 个帖子 - 13 位参与者&lt;/small&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;small&gt;15 个帖子 - 15 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2496550&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
@@ -546,136 +683,6 @@ Cache命中免费，不计入Token资源包的消耗统计。&lt;/p&gt;
 &lt;p&gt;面向千家万户，中国移动把 AI 引入体育、文化、金融等服务场景，&lt;strong&gt;探索 AI 手机、AI 眼镜和人形机器人等移动智能新形态&lt;/strong&gt;。&lt;/p&gt;
             &lt;p&gt;&lt;small&gt;30 个帖子 - 26 位参与者&lt;/small&gt;&lt;/p&gt;
             &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2496232&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>DeepSeek V4正式版发布计划及计费调整说明（转发自邮件）</title>
-      <link>https://linux.do/t/topic/2496180</link>
-      <guid>linux.do-topic-2496180</guid>
-      <pubDate>Mon, 29 Jun 2026 10:20:10 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/6/7/d/67d6389f77ecc446992d10858a31a897c21553a1.png&quot; data-download-href=&quot;/uploads/short-url/eOA945rL1NsoFOdKcRWGiHlBywh.png?dl=1&quot; title=&quot;d87459a6f86acf33eb95905378451c01&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/6/7/d/67d6389f77ecc446992d10858a31a897c21553a1_2_531x500.png&quot; alt=&quot;d87459a6f86acf33eb95905378451c01&quot; data-base62-sha1=&quot;eOA945rL1NsoFOdKcRWGiHlBywh&quot; width=&quot;531&quot; height=&quot;500&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/6/7/d/67d6389f77ecc446992d10858a31a897c21553a1_2_531x500.png, https://cdn3.ldstatic.com/optimized/4X/6/7/d/67d6389f77ecc446992d10858a31a897c21553a1_2_796x750.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/6/7/d/67d6389f77ecc446992d10858a31a897c21553a1_2_1062x1000.png 2x&quot; data-dominant-color=&quot;F6F7F9&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;5 个帖子 - 5 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2496180&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>DeepSeek V4正式版发布计划及计费调整说明</title>
-      <link>https://linux.do/t/topic/2496134</link>
-      <guid>linux.do-topic-2496134</guid>
-      <pubDate>Mon, 29 Jun 2026 10:09:23 GMT</pubDate>
-      <description>
-            &lt;p&gt;尊敬的 DeepSeek API 用户：&lt;br&gt;
-您好！&lt;br&gt;
-DeepSeek V4 正式版计划于 7 月中旬正式上线。本次版本更新将带来更多功能优化和性能提升，敬请期待！&lt;/p&gt;
-&lt;div class=&quot;md-table&quot;&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;同时，为了更合理地配置资源、提升服务稳定性，正式版发布后将同步调整API定价策略，引入峰谷定价机制。具体调整如下：&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;&lt;p&gt;&lt;strong&gt;deepseek-v4-pro&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;md-table&quot;&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&quot;text-align:left&quot;&gt;&lt;strong&gt;计费项&lt;/strong&gt;&lt;/th&gt;
-&lt;th style=&quot;text-align:left&quot;&gt;&lt;strong&gt;平时价格&lt;/strong&gt;&lt;/th&gt;
-&lt;th style=&quot;text-align:left&quot;&gt;&lt;strong&gt;高峰时段价格&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;百万tokens输入（缓存命中）&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;0.025 元&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;0.05 元&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;百万tokens输入（缓存未命中）&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;3 元&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;6 元&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;百万tokens输出&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;6 元&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;12 元&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;&lt;p&gt;&lt;strong&gt;deepseek-v4-flash&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;md-table&quot;&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&quot;text-align:left&quot;&gt;&lt;strong&gt;计费项&lt;/strong&gt;&lt;/th&gt;
-&lt;th style=&quot;text-align:left&quot;&gt;&lt;strong&gt;平时价格&lt;/strong&gt;&lt;/th&gt;
-&lt;th style=&quot;text-align:left&quot;&gt;&lt;strong&gt;高峰时段价格&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;百万tokens输入（缓存命中）&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;0.02 元&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;0.04 元&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;百万tokens输入（缓存未命中）&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;1 元&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;2 元&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;百万tokens输出&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;2 元&lt;/td&gt;
-&lt;td style=&quot;text-align:left&quot;&gt;4 元&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;&lt;p&gt;** 高峰时段定义：每日 9:00～12:00 和 14:00～18:00（北京时间）&lt;/p&gt;
-&lt;div class=&quot;md-table&quot;&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;我们将在实际定价发生调整前 24 小时通过邮件向您提前告知。如您在计费调整后继续选择使用我们的服务，则代表您已同意调整后的计费方式；如不同意接受则可选择退出使用并申请退费。如有任何疑问或需进一步了解相关信息，请随时联系我们。&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;感谢您对我们的支持与理解！期待 V4 正式版能尽快与您见面，并为您带来更出色的使用体验。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;&lt;div class=&quot;md-table&quot;&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;DeepSeek 团队&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-            &lt;p&gt;&lt;small&gt;8 个帖子 - 8 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2496134&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
-          </description>
-    </item>
-    <item>
-      <title>DeepSeek V4 正式版计划于7月中旬上线</title>
-      <link>https://linux.do/t/topic/2495982</link>
-      <guid>linux.do-topic-2495982</guid>
-      <pubDate>Mon, 29 Jun 2026 09:45:37 GMT</pubDate>
-      <description>
-            &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;lightbox-wrapper&quot;&gt;&lt;a class=&quot;lightbox&quot; href=&quot;https://cdn3.ldstatic.com/original/4X/3/4/b/34ba053ad75011a5e8b858a17d6673f9087730db.png&quot; data-download-href=&quot;/uploads/short-url/7wrnh12OhaKdVVsO0q080if0RXd.png?dl=1&quot; title=&quot;image&quot; rel=&quot;noopener nofollow ugc&quot;&gt;&lt;img src=&quot;https://cdn3.ldstatic.com/optimized/4X/3/4/b/34ba053ad75011a5e8b858a17d6673f9087730db_2_690x482.png&quot; alt=&quot;image&quot; data-base62-sha1=&quot;7wrnh12OhaKdVVsO0q080if0RXd&quot; width=&quot;690&quot; height=&quot;482&quot; srcset=&quot;https://cdn3.ldstatic.com/optimized/4X/3/4/b/34ba053ad75011a5e8b858a17d6673f9087730db_2_690x482.png, https://cdn3.ldstatic.com/optimized/4X/3/4/b/34ba053ad75011a5e8b858a17d6673f9087730db_2_1035x723.png 1.5x, https://cdn3.ldstatic.com/optimized/4X/3/4/b/34ba053ad75011a5e8b858a17d6673f9087730db_2_1380x964.png 2x&quot; data-dominant-color=&quot;F7F7F8&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;收到 DeepSeek 开放平台的邮件了，通知 V4 正式版计划于 7 月中旬正式上线，并将实行峰谷价格制。&lt;/p&gt;
-&lt;p&gt;简单来说就是白天的价格x2了，看来算力资源确实比较紧张。&lt;/p&gt;
-&lt;p&gt;不知道正式版的后训练做得怎么样！期待！&lt;/p&gt;
-            &lt;p&gt;&lt;small&gt;4 个帖子 - 2 位参与者&lt;/small&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;a href=&quot;https://linux.do/t/topic/2495982&quot;&gt;阅读完整话题&lt;/a&gt;&lt;/p&gt;
           </description>
     </item>
   </channel>
