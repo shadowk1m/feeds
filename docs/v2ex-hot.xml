@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 01 Jul 2026 13:30:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:05:57 GMT</lastBuildDate>
     <item>
       <title>农村人太苦辣 🥵</title>
       <link>https://www.v2ex.com/t/1224086</link>
@@ -32,23 +32,6 @@
       <guid>v2ex-1224175</guid>
       <pubDate>Wed, 01 Jul 2026 03:56:24 GMT</pubDate>
       <description>公司社保和公积金要拉满，所有多出的钱都让员工出，不签字就走人。额日了</description>
-    </item>
-    <item>
-      <title>A/ 真是全力以赴啊……</title>
-      <link>https://www.v2ex.com/t/1224156</link>
-      <guid>v2ex-1224156</guid>
-      <pubDate>Wed, 01 Jul 2026 03:15:31 GMT</pubDate>
-      <description>&lt;p&gt;看到篇文章，也是服了
-&lt;a href=&quot;https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>梯子怎么都挂了？</title>
-      <link>https://www.v2ex.com/t/1224104</link>
-      <guid>v2ex-1224104</guid>
-      <pubDate>Wed, 01 Jul 2026 01:39:18 GMT</pubDate>
-      <description>&lt;p&gt;一大早来公司，发现三个平台的梯子都噶了，又出什么事了？&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>[抽 3 个永久授权] Termark：一个按自己习惯做出来的 SSH 客户端</title>
@@ -89,42 +72,67 @@
 </description>
     </item>
     <item>
-      <title>聊聊个人微信小游戏的“窒息感”：手搓了一款消消乐，发布后喜提 0 流量</title>
-      <link>https://www.v2ex.com/t/1224059</link>
-      <guid>v2ex-1224059</guid>
-      <pubDate>Tue, 30 Jun 2026 15:46:37 GMT</pubDate>
-      <description>&lt;p&gt;最近业余时间用 AI 写了一款微信消消乐小游戏，名字叫 &lt;strong&gt;《消灭麻将吧》&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;代码敲完、测试通过、顺利上线，本以为万里长征走完了最难的一步，结果现实狠狠给了我一巴掌：发布这么多天了，后台的流量图平得像心电图停跳一样，基本全是自己和朋友贡献的。&lt;/p&gt;
-&lt;p&gt;这两天研究了一下微信小游戏的生存现状，算了一笔账，感受到了深深的流量窒息感。想来社区和大家聊聊独立开发者的流量困境，顺便求个生路。&lt;/p&gt;
-&lt;h3&gt;💰 为什么说独立开发者去“买量”极不科学？&lt;/h3&gt;
-&lt;p&gt;刚没流量的时候，我也想过要不要咬牙买点量（投点腾讯广告）把初始权重做起来。但仔细盘算了一下，发现这条路对个人开发者来说完全是个死胡同：&lt;/p&gt;
+      <title>[送激活码] 🎉 Wins 3.4 发布！把 Mac 刘海变成悬浮分屏岛，抽奖送激活码～</title>
+      <link>https://www.v2ex.com/t/1224253</link>
+      <guid>v2ex-1224253</guid>
+      <pubDate>Wed, 01 Jul 2026 08:14:07 GMT</pubDate>
+      <description>&lt;p&gt;👋 嗨，V 站的朋友们，大家好～&lt;/p&gt;
+&lt;p&gt;🙋 我是 &lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 的开发者，距离 &lt;a href=&quot;https://v2ex.com/t/1161145&quot; rel=&quot;nofollow&quot;&gt;Wins 3.0&lt;/a&gt; 发布竟然 9 个月过去了，又来和大家同步最近的一次更新了。&lt;/p&gt;
+&lt;p&gt;这次主要打磨了一个我自己很喜欢的新交互：&lt;/p&gt;
+&lt;h1&gt;🏝️ &lt;a href=&quot;https://wins.cool/zh/changelog.html?utm_source=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins 3.4&lt;/a&gt; 发布：「悬浮分屏岛」来了&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&quot;悬浮分屏岛&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://wins.cool/images/heroSectionVideoCN-poster_2.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;这不是一个普通的悬浮面板。&lt;/p&gt;
+&lt;p&gt;我想做的是：当你拖动窗口到屏幕顶部时，它像 iOS 灵动岛一样，从 MacBook 的刘海区域自然出现；你继续拖动，就可以快速选择布局并完成分屏。&lt;/p&gt;
+&lt;p&gt;也就是说，MacBook 的刘海不再只是一个“缺口”，它也可以变成窗口管理的入口。&lt;/p&gt;
+&lt;p&gt;在没有刘海的 Mac 或外接显示器上，它也会以顶部悬浮岛的形式出现，尽量保持同样自然的拖拽体验。&lt;/p&gt;
+&lt;p&gt;我一直希望 &lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 的窗口管理不是“第三方的感觉”，而是更像 macOS 自己原生的能力。&lt;/p&gt;
+&lt;h1&gt;🤔 这次 3.4 主要更新了什么？&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;ROI （投入产出比）完全算不过来：&lt;/strong&gt; 现在微信小游戏买量成本高得吓人，一个大盘激活成本可能要几块甚至十几块。而我这种靠广告变现（ IAA ）的休闲麻将消消乐，单用户可能只有几毛钱甚至几分钱。买量等于纯亏，纯粹是给平台打工。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;资金链和容错率极低：&lt;/strong&gt; 大厂买量是有专业投放团队去测素材、调模型、算回本周期的。个人开发者那点小预算放进去，可能连算法的“学习期”都没过就烧光了，连个水花都激不起来。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;陷入悖论：&lt;/strong&gt; 不买量就没流量，买量就是纯亏本。难道个人开发者手搓出来的游戏，注定只能在应用商店的角落里吃灰吗？&lt;/li&gt;
+&lt;li&gt;🏝️ 新增「悬浮分屏岛」：拖动窗口到屏幕顶部，即可快速选择布局并完成分屏&lt;/li&gt;
+&lt;li&gt;🔢 Cmd-Tab Plus 支持数字快捷键：多个窗口之间可以更快切换&lt;/li&gt;
+&lt;li&gt;🔄 Hide All Windows 现在可以再次触发恢复窗口&lt;/li&gt;
+&lt;li&gt;🧩 优化多窗口场景下的窗口切换和预览体验&lt;/li&gt;
+&lt;li&gt;🛠 修复了一些 Dock Preview 、窗口隐藏、动画和稳定性相关的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🛠 关于《消灭麻将吧》&lt;/h3&gt;
-&lt;p&gt;虽然流量让人焦虑，但游戏本身我还是倾注了不少心血的。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;核心玩法：&lt;/strong&gt; 基于国粹麻将元素的连连看游戏。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;技术实现：&lt;/strong&gt; 纯 AI 辅助开发，花了两个礼拜拷打 AI ，两个礼拜调 UI 。不过 AI 生成的 UI 图还有点小问题，有些细节还没处理好。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;没有预算，买不起量，只能来 V2EX 碰碰运气，希望能在这里找到我的第一批核心种子用户，也算是不甘心它就这么悄无声息地死掉。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;🕹 即点即玩&lt;/h3&gt;
-&lt;p&gt;微信扫码就能直接进去玩，不需要下载，求一波老哥们的真实体验反馈。&lt;/p&gt;
+&lt;p&gt;窗口管理本身是一个很高频的动作，如果每次都需要用户去找按钮、记复杂配置、或者打开一个很重的面板，其实就已经打断了工作流。&lt;/p&gt;
+&lt;p&gt;所以「悬浮分屏岛」的目标很简单：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;💡 &lt;strong&gt;提示：&lt;/strong&gt; 微信直接搜索 &lt;strong&gt;「消灭麻将吧」&lt;/strong&gt; 即可。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;拖动窗口时自然出现，选中布局后立即完成，然后把注意力还给用户。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&quot;消灭麻将吧-小程序码&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.postimg.cc/DZ0819JT/er-wei-ma.jpg&quot;/&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;💬 想和大家探讨&lt;/h3&gt;
+&lt;h1&gt;👀 Don&#39;t ship junk&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&quot;Wins 系统设置&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://wins.cool/images/preferencePanelzh.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;做 &lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 这几年，我一直有一个比较朴素的产品原则：不要为了“功能多”而把产品做复杂。&lt;/p&gt;
+&lt;p&gt;很多效率工具发展到后面，会出现几十个开关、很多非常细碎的选项，但其中相当一部分功能其实大多数用户都用不到。产品看起来很强大，但也会变得越来越难理解。&lt;/p&gt;
+&lt;p&gt;我不希望 &lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 变成这样。&lt;/p&gt;
+&lt;p&gt;即使 4 年过去了，&lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 从最早的窗口分屏，逐渐增加了 Dock Preview 、Cmd-Tab Plus 、Mission Control Pro 、Flick Dock 、Snap Island 等功能，我依然希望它保持一个简单的状态：&lt;/p&gt;
+&lt;p&gt;找到功能，开启它，然后像使用 macOS 系统能力一样自然使用。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 面向的不仅仅是极客玩家，而是大多数每天在 Mac 上工作的用户，包括很多不懂技术、但对效率、细节和工作流很敏感的 power user 。&lt;/p&gt;
+&lt;p&gt;所以我会一直保持：可以增加功能，但不能变成负担。每个新功能都应该足够清晰、稳定、常用，并且真的让 Mac 变得更顺手。&lt;/p&gt;
+&lt;p&gt;这也是我理解的 don&#39;t ship junk 。&lt;/p&gt;
+&lt;h1&gt;🎁 免费抽奖&lt;/h1&gt;
+&lt;p&gt;为了庆祝 &lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins 3.4&lt;/a&gt; 发布，这次继续给 V 友们准备一些激活码。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;福利：Wins 个人永久会员 * 3&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;规则：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;破局点在哪里？&lt;/strong&gt; 在完全不买量的情况下，大家独立开发的小程序/小游戏，第一批自然流是怎么盘活的？靠小红书、抖音发视频，还是去各种社区发帖？&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;游戏本身诊断：&lt;/strong&gt; 大家进去玩的话，能不能帮一帮我看看有什么硬伤？比如加载太慢、UI 太简陋、还是关卡难度设计有问题？&lt;/li&gt;
+&lt;li&gt;在本帖回复任意内容即可参与&lt;/li&gt;
+&lt;li&gt;如果愿意的话，也欢迎去 &lt;a href=&quot;https://www.producthunt.com/products/wins-2?utm_source=other&amp;amp;utm_medium=social&quot; rel=&quot;nofollow&quot;&gt;Product Hunt&lt;/a&gt; 支持一下 Wins ❤️&lt;/li&gt;
+&lt;li&gt;发送 V 站 ID 与投票截图 到 &lt;a href=&quot;mailto:event@wins.cool&quot;&gt;event@wins.cool&lt;/a&gt; 参与活动&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;哪怕是进来吐槽句 &lt;em&gt;“这名字太土了”&lt;/em&gt;，也是对我这个单机排查 Bug 的独立开发者的一种鼓励。感谢各位！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;说明：随机抽奖，每个人都有机会，不论先后。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;时效：7 月 7 日 24:00 前有效。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;🙏 最后&lt;/h1&gt;
+&lt;p&gt;❤️ 感谢 ver 友们一直以来的支持，我们下个里程碑再见！&lt;/p&gt;
+&lt;p&gt;👉🏻 了解 &lt;a href=&quot;https://wins.cool/zh/changelog.html?utm_source=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins 3.4&lt;/a&gt; 更多内容&lt;/p&gt;
 </description>
     </item>
   </channel>
