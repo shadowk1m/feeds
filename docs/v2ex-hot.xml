@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 01 Jul 2026 10:51:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 13:30:09 GMT</lastBuildDate>
     <item>
       <title>农村人太苦辣 🥵</title>
       <link>https://www.v2ex.com/t/1224086</link>
@@ -43,18 +43,49 @@
 </description>
     </item>
     <item>
-      <title>还没有被 A\ 封号的小伙伴是啥配置啊</title>
-      <link>https://www.v2ex.com/t/1224022</link>
-      <guid>v2ex-1224022</guid>
-      <pubDate>Tue, 30 Jun 2026 12:06:04 GMT</pubDate>
-      <description>小红书和 v 站封号帖子越刷越多，刷屏了都&lt;br /&gt;目前在国内还没有被封号的都是什么配置呀？&lt;br /&gt;感觉真的不想失去啊&lt;br /&gt;&lt;br /&gt;我自己目前两个账号都还侥幸，但感觉没啥把握能逃过这一劫，刚刚刷到两个不太靠谱的原因：&lt;br /&gt;&lt;br /&gt;1.时区&lt;br /&gt;2.邮件跟踪 ip&lt;br /&gt;&lt;br /&gt;这两点我已经注意到了并且做了调整。&lt;br /&gt;&lt;br /&gt;另外，我只在电脑上使用客户端，套了一层美国住宅 ip ，使用 surge 分流。&lt;br /&gt;我两个账号都使用这个 ip ，估计可能一起封号。&lt;br /&gt;一个 gmail 土区开了 pro ，一个 icloud mail 未付费账号</description>
-    </item>
-    <item>
       <title>梯子怎么都挂了？</title>
       <link>https://www.v2ex.com/t/1224104</link>
       <guid>v2ex-1224104</guid>
       <pubDate>Wed, 01 Jul 2026 01:39:18 GMT</pubDate>
       <description>&lt;p&gt;一大早来公司，发现三个平台的梯子都噶了，又出什么事了？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[抽 3 个永久授权] Termark：一个按自己习惯做出来的 SSH 客户端</title>
+      <link>https://www.v2ex.com/t/1224199</link>
+      <guid>v2ex-1224199</guid>
+      <pubDate>Wed, 01 Jul 2026 05:31:40 GMT</pubDate>
+      <description>&lt;p&gt;Termark 不是因为市面上没有 SSH 客户端才做的。&lt;/p&gt;
+&lt;p&gt;恰好相反，这类工具已经非常多了，能连服务器、传文件、开隧道的基本都有。只是我用了不少之后，总觉得都是差点意思，能用但不好用。&lt;/p&gt;
+&lt;p&gt;所以我没有打算做什么替代品，也不抄友商，就是想把自己认为应该更顺手的地方，按自己的习惯重新做一遍。后来越做越多，就变成了现在的 Termark 。&lt;/p&gt;
+&lt;p&gt;它本质上是一个桌面 SSH / SFTP 客户端，除了连接和文件传输，也塞进了批量执行、分屏、端口转发、终端录制、加密同步、AI 、Docker 、tmux ，以及 Codex / Claude / OpenCode 集成这些功能。&lt;/p&gt;
+&lt;p&gt;官网和下载：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.termark.app/zh-cn/&quot; rel=&quot;nofollow&quot;&gt;https://www.termark.app/zh-cn/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前基础功能免费使用。&lt;/p&gt;
+&lt;p&gt;一年授权现在只要 &lt;strong&gt;1 元&lt;/strong&gt;，但不可叠加；永久授权是 &lt;strong&gt;149 元&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;抽奖&lt;/h2&gt;
+&lt;p&gt;送出 &lt;strong&gt;Termark 永久授权 × 3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;参与方式很简单，评论区留一句真实反馈就行，例如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你现在在用什么 SSH 客户端；&lt;/li&gt;
+&lt;li&gt;你最不满意它的哪个地方；&lt;/li&gt;
+&lt;li&gt;你觉得 Termark 该加什么，或者该砍什么；&lt;/li&gt;
+&lt;li&gt;你看完官网后，最想试哪个功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不需要关注、转发，也不用刻意夸。直接说不好用、说需求、说吐槽都行，我更想看真实反馈。&lt;/p&gt;
+&lt;h3&gt;规则&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;截止时间：&lt;strong&gt;2026 年 7 月 2 日 14:00&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;从有效评论中随机抽取 3 位&lt;/li&gt;
+&lt;li&gt;每个 UID 仅算一次&lt;/li&gt;
+&lt;li&gt;开奖后在本帖公布名单&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;已经买过永久授权的朋友也可以参加；抽中了可以转赠给朋友。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;有 Bug 、需求、想法，或者单纯想来聊聊，也可以进微信群：&lt;/p&gt;
+&lt;p&gt;感谢大家，欢迎直接开喷。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;wx.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/33134Bow.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -94,44 +125,6 @@
 &lt;li&gt;&lt;strong&gt;游戏本身诊断：&lt;/strong&gt; 大家进去玩的话，能不能帮一帮我看看有什么硬伤？比如加载太慢、UI 太简陋、还是关卡难度设计有问题？&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;哪怕是进来吐槽句 &lt;em&gt;“这名字太土了”&lt;/em&gt;，也是对我这个单机排查 Bug 的独立开发者的一种鼓励。感谢各位！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[抽 3 个永久授权] Termark：一个按自己习惯做出来的 SSH 客户端</title>
-      <link>https://www.v2ex.com/t/1224199</link>
-      <guid>v2ex-1224199</guid>
-      <pubDate>Wed, 01 Jul 2026 05:31:40 GMT</pubDate>
-      <description>&lt;p&gt;Termark 不是因为市面上没有 SSH 客户端才做的。&lt;/p&gt;
-&lt;p&gt;恰好相反，这类工具已经非常多了，能连服务器、传文件、开隧道的基本都有。只是我用了不少之后，总觉得都是差点意思，能用但不好用。&lt;/p&gt;
-&lt;p&gt;所以我没有打算做什么替代品，也不抄友商，就是想把自己认为应该更顺手的地方，按自己的习惯重新做一遍。后来越做越多，就变成了现在的 Termark 。&lt;/p&gt;
-&lt;p&gt;它本质上是一个桌面 SSH / SFTP 客户端，除了连接和文件传输，也塞进了批量执行、分屏、端口转发、终端录制、加密同步、AI 、Docker 、tmux ，以及 Codex / Claude / OpenCode 集成这些功能。&lt;/p&gt;
-&lt;p&gt;官网和下载：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.termark.app/zh-cn/&quot; rel=&quot;nofollow&quot;&gt;https://www.termark.app/zh-cn/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前基础功能免费使用。&lt;/p&gt;
-&lt;p&gt;一年授权现在只要 &lt;strong&gt;1 元&lt;/strong&gt;，但不可叠加；永久授权是 &lt;strong&gt;149 元&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;抽奖&lt;/h2&gt;
-&lt;p&gt;送出 &lt;strong&gt;Termark 永久授权 × 3&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;参与方式很简单，评论区留一句真实反馈就行，例如：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;你现在在用什么 SSH 客户端；&lt;/li&gt;
-&lt;li&gt;你最不满意它的哪个地方；&lt;/li&gt;
-&lt;li&gt;你觉得 Termark 该加什么，或者该砍什么；&lt;/li&gt;
-&lt;li&gt;你看完官网后，最想试哪个功能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;不需要关注、转发，也不用刻意夸。直接说不好用、说需求、说吐槽都行，我更想看真实反馈。&lt;/p&gt;
-&lt;h3&gt;规则&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;截止时间：&lt;strong&gt;2026 年 7 月 2 日 14:00&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;从有效评论中随机抽取 3 位&lt;/li&gt;
-&lt;li&gt;每个 UID 仅算一次&lt;/li&gt;
-&lt;li&gt;开奖后在本帖公布名单&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;已经买过永久授权的朋友也可以参加；抽中了可以转赠给朋友。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;有 Bug 、需求、想法，或者单纯想来聊聊，也可以进微信群：&lt;/p&gt;
-&lt;p&gt;感谢大家，欢迎直接开喷。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;wx.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/33134Bow.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
