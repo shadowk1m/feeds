@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 02 Jul 2026 13:13:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 15:37:18 GMT</lastBuildDate>
     <item>
       <title>感觉女友很爱去看演唱会，不想让她去怎么办</title>
       <link>https://www.v2ex.com/t/1224428</link>
@@ -36,6 +36,23 @@
       <description>1.reality 用的 &lt;a target=&quot;_blank&quot; href=&quot;http://www.apple.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.apple.com&lt;/a&gt;&lt;br /&gt;2.就我一个人用，主要用 telegram+奈飞+x+ig+youtube&lt;br /&gt;3.机器是美国的，到手我就 dd 了，已经用了 1 年多了一直没被墙，没有监控工具的&lt;br /&gt;4.被墙了我就没有续费这台机器，我又买了一台一样的，一个 ip 段的，发现没被墙，我又尝试了 vless+raw+reality ，目前正常。&lt;br /&gt;5.一开始的症状是能 ping 通，但是开代理好像就被阻断了，这几天彻底被墙了&lt;br /&gt;&lt;br /&gt;想问问各位大佬，这是咋被发现的？我一个人用，也没啥大流量的，一个月就 200 多 G</description>
     </item>
     <item>
+      <title>公司 vibe coding 的项目，团队已经无法掌控了</title>
+      <link>https://www.v2ex.com/t/1224558</link>
+      <guid>v2ex-1224558</guid>
+      <pubDate>Thu, 02 Jul 2026 09:13:29 GMT</pubDate>
+      <description>&lt;p&gt;今年年初，Agent 的爆发让公司管理层看到了“智能体替代部分客服岗位”的可能性，于是很快给我们下达了客服 Agent 的建设目标，覆盖 App 在线客服和电话线路客服两大场景。&lt;/p&gt;
+&lt;p&gt;问题在于，我们团队并没有专门的 AI Agent 工程师，成员基本都是 Java 和前端开发。面对全新的技术栈，大家只能一边学习，一边借助 Codex 等 AI 编程工具完成系统设计、架构搭建和业务开发。&lt;/p&gt;
+&lt;p&gt;经过几个月的赶工，第一版终于上线了。&lt;/p&gt;
+&lt;p&gt;然而，真正的问题也从这一刻开始暴露。&lt;/p&gt;
+&lt;p&gt;上线后的实际效果远低于预期。系统频繁出现各种异常，但团队却很难定位真正的原因。大量核心代码都是 AI 自动生成的，代码结构复杂、抽象层级混乱，很多逻辑连开发人员自己都难以理解，更不用说进行维护和排查。&lt;/p&gt;
+&lt;p&gt;于是形成了一个恶性循环：代码看不懂，只能继续让 AI 帮忙修改； AI 修复了一个 Bug ，却往往又引入新的问题。今天修好了 A ，明天 B 又坏了，整个系统逐渐进入一种“越修越乱”的状态。&lt;/p&gt;
+&lt;p&gt;随着业务量增加，问题开始集中爆发。&lt;/p&gt;
+&lt;p&gt;电话线路一旦并发稍高，系统就会出现性能瓶颈甚至直接崩溃；在线客服和语音客服在对话过程中经常出现长时间沉默、响应超时、上下文丢失等问题，导致用户无法获得正常服务。&lt;/p&gt;
+&lt;p&gt;最终的结果并不是提升客服效率，而是让原本稳定运行的人工客服体系也受到影响。客服人员不得不频繁接管异常会话、处理系统故障、安抚用户投诉，整体工作效率反而比上线 Agent 之前更低 &lt;/p&gt;
+&lt;p&gt;问问各位大神 这种情况怎么破局 ？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>请警惕账号 w1573007 发布的开源项目 Termo</title>
       <link>https://www.v2ex.com/t/1224475</link>
       <guid>v2ex-1224475</guid>
@@ -54,23 +71,6 @@ Hi w1573007,&lt;/p&gt;
 &lt;p&gt;如果这次操作不是由你发起的，那么你的账号可能存在安全问题。请使用你的注册邮箱发信到 &lt;a href=&quot;mailto:support@v2ex.com&quot;&gt;support@v2ex.com&lt;/a&gt; 寻求协助。&lt;/p&gt;
 &lt;p&gt;V2EX&lt;/p&gt;
 &lt;p&gt;p.s. 作为安全备注，这次 2FA 开启操作是由 IP 地址 48.45.204.21 使用浏览器 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 在 2026-07-02 11:55:06 +08:00 完成的&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>公司 vibe coding 的项目，团队已经无法掌控了</title>
-      <link>https://www.v2ex.com/t/1224558</link>
-      <guid>v2ex-1224558</guid>
-      <pubDate>Thu, 02 Jul 2026 09:13:29 GMT</pubDate>
-      <description>&lt;p&gt;今年年初，Agent 的爆发让公司管理层看到了“智能体替代部分客服岗位”的可能性，于是很快给我们下达了客服 Agent 的建设目标，覆盖 App 在线客服和电话线路客服两大场景。&lt;/p&gt;
-&lt;p&gt;问题在于，我们团队并没有专门的 AI Agent 工程师，成员基本都是 Java 和前端开发。面对全新的技术栈，大家只能一边学习，一边借助 Codex 等 AI 编程工具完成系统设计、架构搭建和业务开发。&lt;/p&gt;
-&lt;p&gt;经过几个月的赶工，第一版终于上线了。&lt;/p&gt;
-&lt;p&gt;然而，真正的问题也从这一刻开始暴露。&lt;/p&gt;
-&lt;p&gt;上线后的实际效果远低于预期。系统频繁出现各种异常，但团队却很难定位真正的原因。大量核心代码都是 AI 自动生成的，代码结构复杂、抽象层级混乱，很多逻辑连开发人员自己都难以理解，更不用说进行维护和排查。&lt;/p&gt;
-&lt;p&gt;于是形成了一个恶性循环：代码看不懂，只能继续让 AI 帮忙修改； AI 修复了一个 Bug ，却往往又引入新的问题。今天修好了 A ，明天 B 又坏了，整个系统逐渐进入一种“越修越乱”的状态。&lt;/p&gt;
-&lt;p&gt;随着业务量增加，问题开始集中爆发。&lt;/p&gt;
-&lt;p&gt;电话线路一旦并发稍高，系统就会出现性能瓶颈甚至直接崩溃；在线客服和语音客服在对话过程中经常出现长时间沉默、响应超时、上下文丢失等问题，导致用户无法获得正常服务。&lt;/p&gt;
-&lt;p&gt;最终的结果并不是提升客服效率，而是让原本稳定运行的人工客服体系也受到影响。客服人员不得不频繁接管异常会话、处理系统故障、安抚用户投诉，整体工作效率反而比上线 Agent 之前更低 &lt;/p&gt;
-&lt;p&gt;问问各位大神 这种情况怎么破局 ？&lt;/p&gt;
 </description>
     </item>
     <item>
