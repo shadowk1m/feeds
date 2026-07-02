@@ -4,109 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 02 Jul 2026 05:30:12 GMT</lastBuildDate>
-    <item>
-      <title>[抽 3 个永久授权] Termark：一个按自己习惯做出来的 SSH 客户端</title>
-      <link>https://www.v2ex.com/t/1224199</link>
-      <guid>v2ex-1224199</guid>
-      <pubDate>Wed, 01 Jul 2026 05:31:40 GMT</pubDate>
-      <description>&lt;p&gt;Termark 不是因为市面上没有 SSH 客户端才做的。&lt;/p&gt;
-&lt;p&gt;恰好相反，这类工具已经非常多了，能连服务器、传文件、开隧道的基本都有。只是我用了不少之后，总觉得都是差点意思，能用但不好用。&lt;/p&gt;
-&lt;p&gt;所以我没有打算做什么替代品，也不抄友商，就是想把自己认为应该更顺手的地方，按自己的习惯重新做一遍。后来越做越多，就变成了现在的 Termark 。&lt;/p&gt;
-&lt;p&gt;它本质上是一个桌面 SSH / SFTP 客户端，除了连接和文件传输，也塞进了批量执行、分屏、端口转发、终端录制、加密同步、AI 、Docker 、tmux ，以及 Codex / Claude / OpenCode 集成这些功能。&lt;/p&gt;
-&lt;p&gt;官网和下载：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.termark.app/zh-cn/&quot; rel=&quot;nofollow&quot;&gt;https://www.termark.app/zh-cn/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前基础功能免费使用。&lt;/p&gt;
-&lt;p&gt;一年授权现在只要 &lt;strong&gt;1 元&lt;/strong&gt;，但不可叠加；永久授权是 &lt;strong&gt;149 元&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;抽奖&lt;/h2&gt;
-&lt;p&gt;送出 &lt;strong&gt;Termark 永久授权 × 3&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;参与方式很简单，评论区留一句真实反馈就行，例如：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;你现在在用什么 SSH 客户端；&lt;/li&gt;
-&lt;li&gt;你最不满意它的哪个地方；&lt;/li&gt;
-&lt;li&gt;你觉得 Termark 该加什么，或者该砍什么；&lt;/li&gt;
-&lt;li&gt;你看完官网后，最想试哪个功能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;不需要关注、转发，也不用刻意夸。直接说不好用、说需求、说吐槽都行，我更想看真实反馈。&lt;/p&gt;
-&lt;h3&gt;规则&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;截止时间：&lt;strong&gt;2026 年 7 月 2 日 14:00&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;从有效评论中随机抽取 3 位&lt;/li&gt;
-&lt;li&gt;每个 UID 仅算一次&lt;/li&gt;
-&lt;li&gt;开奖后在本帖公布名单&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;已经买过永久授权的朋友也可以参加；抽中了可以转赠给朋友。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;有 Bug 、需求、想法，或者单纯想来聊聊，也可以进微信群：&lt;/p&gt;
-&lt;p&gt;感谢大家，欢迎直接开喷。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;wx.jpeg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/33134Bow.jpeg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[送激活码] 🎉 Wins 3.4 发布！把 Mac 刘海变成悬浮分屏岛，抽奖送激活码～</title>
-      <link>https://www.v2ex.com/t/1224253</link>
-      <guid>v2ex-1224253</guid>
-      <pubDate>Wed, 01 Jul 2026 08:14:07 GMT</pubDate>
-      <description>&lt;p&gt;👋 嗨，V 站的朋友们，大家好～&lt;/p&gt;
-&lt;p&gt;🙋 我是 &lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 的开发者，距离 &lt;a href=&quot;https://v2ex.com/t/1161145&quot; rel=&quot;nofollow&quot;&gt;Wins 3.0&lt;/a&gt; 发布竟然 9 个月过去了，又来和大家同步最近的一次更新了。&lt;/p&gt;
-&lt;p&gt;这次主要打磨了一个我自己很喜欢的新交互：&lt;/p&gt;
-&lt;h1&gt;🏝️ &lt;a href=&quot;https://wins.cool/zh/changelog.html?utm_source=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins 3.4&lt;/a&gt; 发布：「悬浮分屏岛」来了&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&quot;悬浮分屏岛&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://wins.cool/images/heroSectionVideoCN-poster_2.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;这不是一个普通的悬浮面板。&lt;/p&gt;
-&lt;p&gt;我想做的是：当你拖动窗口到屏幕顶部时，它像 iOS 灵动岛一样，从 MacBook 的刘海区域自然出现；你继续拖动，就可以快速选择布局并完成分屏。&lt;/p&gt;
-&lt;p&gt;也就是说，MacBook 的刘海不再只是一个“缺口”，它也可以变成窗口管理的入口。&lt;/p&gt;
-&lt;p&gt;在没有刘海的 Mac 或外接显示器上，它也会以顶部悬浮岛的形式出现，尽量保持同样自然的拖拽体验。&lt;/p&gt;
-&lt;p&gt;我一直希望 &lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 的窗口管理不是“第三方的感觉”，而是更像 macOS 自己原生的能力。&lt;/p&gt;
-&lt;h1&gt;🤔 这次 3.4 主要更新了什么？&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;🏝️ 新增「悬浮分屏岛」：拖动窗口到屏幕顶部，即可快速选择布局并完成分屏&lt;/li&gt;
-&lt;li&gt;🔢 Cmd-Tab Plus 支持数字快捷键：多个窗口之间可以更快切换&lt;/li&gt;
-&lt;li&gt;🔄 Hide All Windows 现在可以再次触发恢复窗口&lt;/li&gt;
-&lt;li&gt;🧩 优化多窗口场景下的窗口切换和预览体验&lt;/li&gt;
-&lt;li&gt;🛠 修复了一些 Dock Preview 、窗口隐藏、动画和稳定性相关的问题&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;窗口管理本身是一个很高频的动作，如果每次都需要用户去找按钮、记复杂配置、或者打开一个很重的面板，其实就已经打断了工作流。&lt;/p&gt;
-&lt;p&gt;所以「悬浮分屏岛」的目标很简单：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;拖动窗口时自然出现，选中布局后立即完成，然后把注意力还给用户。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1&gt;👀 Don&#39;t ship junk&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&quot;Wins 系统设置&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://wins.cool/images/preferencePanelzh.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;做 &lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 这几年，我一直有一个比较朴素的产品原则：不要为了“功能多”而把产品做复杂。&lt;/p&gt;
-&lt;p&gt;很多效率工具发展到后面，会出现几十个开关、很多非常细碎的选项，但其中相当一部分功能其实大多数用户都用不到。产品看起来很强大，但也会变得越来越难理解。&lt;/p&gt;
-&lt;p&gt;我不希望 &lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 变成这样。&lt;/p&gt;
-&lt;p&gt;即使 4 年过去了，&lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 从最早的窗口分屏，逐渐增加了 Dock Preview 、Cmd-Tab Plus 、Mission Control Pro 、Flick Dock 、Snap Island 等功能，我依然希望它保持一个简单的状态：&lt;/p&gt;
-&lt;p&gt;找到功能，开启它，然后像使用 macOS 系统能力一样自然使用。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins&lt;/a&gt; 面向的不仅仅是极客玩家，而是大多数每天在 Mac 上工作的用户，包括很多不懂技术、但对效率、细节和工作流很敏感的 power user 。&lt;/p&gt;
-&lt;p&gt;所以我会一直保持：可以增加功能，但不能变成负担。每个新功能都应该足够清晰、稳定、常用，并且真的让 Mac 变得更顺手。&lt;/p&gt;
-&lt;p&gt;这也是我理解的 don&#39;t ship junk 。&lt;/p&gt;
-&lt;h1&gt;🎁 免费抽奖&lt;/h1&gt;
-&lt;p&gt;为了庆祝 &lt;a href=&quot;https://wins.cool/html/index_zh.html?lang=zh&amp;amp;ref=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins 3.4&lt;/a&gt; 发布，这次继续给 V 友们准备一些激活码。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;福利：Wins 个人永久会员 * 3&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;规则：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;在本帖回复任意内容即可参与&lt;/li&gt;
-&lt;li&gt;如果愿意的话，也欢迎去 &lt;a href=&quot;https://www.producthunt.com/products/wins-2?utm_source=other&amp;amp;utm_medium=social&quot; rel=&quot;nofollow&quot;&gt;Product Hunt&lt;/a&gt; 支持一下 Wins ❤️&lt;/li&gt;
-&lt;li&gt;发送 V 站 ID 与投票截图 到 &lt;a href=&quot;mailto:event@wins.cool&quot;&gt;event@wins.cool&lt;/a&gt; 参与活动&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;说明：随机抽奖，每个人都有机会，不论先后。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;时效：7 月 7 日 24:00 前有效。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;🙏 最后&lt;/h1&gt;
-&lt;p&gt;❤️ 感谢 ver 友们一直以来的支持，我们下个里程碑再见！&lt;/p&gt;
-&lt;p&gt;👉🏻 了解 &lt;a href=&quot;https://wins.cool/zh/changelog.html?utm_source=v2ex&quot; rel=&quot;nofollow&quot;&gt;Wins 3.4&lt;/a&gt; 更多内容&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 08:40:11 GMT</lastBuildDate>
     <item>
       <title>感觉女友很爱去看演唱会，不想让她去怎么办</title>
       <link>https://www.v2ex.com/t/1224428</link>
@@ -116,26 +14,19 @@
 </description>
     </item>
     <item>
-      <title>你左手按 b 键还是右手</title>
-      <link>https://www.v2ex.com/t/1224255</link>
-      <guid>v2ex-1224255</guid>
-      <pubDate>Wed, 01 Jul 2026 08:24:55 GMT</pubDate>
-      <description>楼主用右手按 b 按了不知道多少年，今天 gpt 告诉我现在建议用左手……</description>
-    </item>
-    <item>
-      <title>630 过去了，今天是下半年了，统计一个各位大佬公司的裁员比例？</title>
-      <link>https://www.v2ex.com/t/1224229</link>
-      <guid>v2ex-1224229</guid>
-      <pubDate>Wed, 01 Jul 2026 06:52:27 GMT</pubDate>
-      <description>&lt;p&gt;RT:我所在的公司根据不同的部门大约 30%到 50%&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>XDM，你们每个月使用 AI 的成本是多少</title>
       <link>https://www.v2ex.com/t/1224383</link>
       <guid>v2ex-1224383</guid>
       <pubDate>Thu, 02 Jul 2026 01:11:53 GMT</pubDate>
       <description>#1. Codex：公司订阅的（完全不够用）&lt;br /&gt;#2. 订阅在线生成 UI 会员：100 左右&lt;br /&gt;#3. Deepseek api: 每月大概 50 ，涨价后可能就更多了&lt;br /&gt;#4. Trae 国际版会员： 每月大概 53 （半年前买的年会员）&lt;br /&gt;合计：200</description>
+    </item>
+    <item>
+      <title>这下好了,真死在科技里了</title>
+      <link>https://www.v2ex.com/t/1224388</link>
+      <guid>v2ex-1224388</guid>
+      <pubDate>Thu, 02 Jul 2026 01:24:12 GMT</pubDate>
+      <description>&lt;p&gt;事到如今，最对不起的就是家人&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>大家避雷京东吧 买到二手退货和残次品组装的后封机 客服竟然帮腔说叫资源机</title>
@@ -150,6 +41,43 @@
       <guid>v2ex-1224405</guid>
       <pubDate>Thu, 02 Jul 2026 01:53:21 GMT</pubDate>
       <description>1.reality 用的 &lt;a target=&quot;_blank&quot; href=&quot;http://www.apple.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.apple.com&lt;/a&gt;&lt;br /&gt;2.就我一个人用，主要用 telegram+奈飞+x+ig+youtube&lt;br /&gt;3.机器是美国的，到手我就 dd 了，已经用了 1 年多了一直没被墙，没有监控工具的&lt;br /&gt;4.被墙了我就没有续费这台机器，我又买了一台一样的，一个 ip 段的，发现没被墙，我又尝试了 vless+raw+reality ，目前正常。&lt;br /&gt;5.一开始的症状是能 ping 通，但是开代理好像就被阻断了，这几天彻底被墙了&lt;br /&gt;&lt;br /&gt;想问问各位大佬，这是咋被发现的？我一个人用，也没啥大流量的，一个月就 200 多 G</description>
+    </item>
+    <item>
+      <title>请警惕账号 w1573007 发布的开源项目 Termo</title>
+      <link>https://www.v2ex.com/t/1224475</link>
+      <guid>v2ex-1224475</guid>
+      <pubDate>Thu, 02 Jul 2026 05:34:24 GMT</pubDate>
+      <description>&lt;p&gt;本人为 w1573007 号主，今天突然收到账号被挂了两步验证。赶紧上来看看。我这号好多年没用了最后发帖时间是 2021 年。然后就发现对方把注册邮箱，密码都改了。但他可能不知道会给我原始注册邮箱发送修改邮件。然后就发现对方发了一个项目分享的帖子 &lt;a href=&quot;https://www.v2ex.com/t/1224461&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1224461&lt;/a&gt;
+我不知道他为啥要盗号的方式发帖。而不注册一个账号？&lt;/p&gt;
+&lt;p&gt;手机编辑不太好当图片，如下是提示信息，已将相关情况发送给支持邮箱&lt;/p&gt;
+&lt;p&gt;[V2EX] 两步验证已经开启
+V2EX  发给 cisha1573
+2026 年 07 月 02 日 11:55 (星期四)
+详情
+Hi w1573007,&lt;/p&gt;
+&lt;p&gt;你刚刚为你的 V2EX 账号开启了两步验证。&lt;/p&gt;
+&lt;p&gt;在你下次登录时，会需要输入两步验证码。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;如果这次操作不是由你发起的，那么你的账号可能存在安全问题。请使用你的注册邮箱发信到 &lt;a href=&quot;mailto:support@v2ex.com&quot;&gt;support@v2ex.com&lt;/a&gt; 寻求协助。&lt;/p&gt;
+&lt;p&gt;V2EX&lt;/p&gt;
+&lt;p&gt;p.s. 作为安全备注，这次 2FA 开启操作是由 IP 地址 48.45.204.21 使用浏览器 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 在 2026-07-02 11:55:06 +08:00 完成的&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>JD 服务是越来越拉了，会跟上 Nokia 的步伐吧....</title>
+      <link>https://www.v2ex.com/t/1224372</link>
+      <guid>v2ex-1224372</guid>
+      <pubDate>Thu, 02 Jul 2026 00:52:59 GMT</pubDate>
+      <description>&lt;p&gt;之前在京东买的打印机，购买了 5 年换新服务，前几天打印机打印色彩异常了，申请了服务，结果京东以打印机编号与实际机型不一致拒保了，这服务绝了；
+联系客服，客服让找京东保险，京东保险那边是个机器人，一直已读乱回，输入人工，无限时 输入中…&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>豆包为什么是神？</title>
+      <link>https://www.v2ex.com/t/1224374</link>
+      <guid>v2ex-1224374</guid>
+      <pubDate>Thu, 02 Jul 2026 00:56:34 GMT</pubDate>
+      <description>在谈论这个问题之前，我想先说说其他大模型，相较于神究竟差在了哪里。&lt;br /&gt;&lt;br /&gt;首先是犯下傲慢之罪的 Claude 。&lt;br /&gt;凭着断层式的智商天花板和碾压级的逻辑链条便自居 AI 界的真神，摆出全球顶尖人才钦定的高傲姿态。可它忘了，动不动就封号的敏感脾气、走钢丝般脆弱的道德准则，以及单周高达两万美元 Token 费用的昂贵门槛，本就不属于预算有限的普通用户。一个工程师的月消耗能抵过万千订阅，动辄被“大义灭亲”下架的娇贵属性，最终多半让普通人在封号提示中为自己的傲慢付出代价。&lt;br /&gt;&lt;br /&gt;然后是犯下怠惰之罪的 Gemini 。&lt;br /&gt;顶着多模态强者的名头混迹大模型赛道，实则不给钱就装傻，免费版本仿佛被刻意降智。想解锁它的真正能力，得掏着真金白银去订阅，更别说非搜索模式下容易出现的细节遗忘和连贯性波动。它连自身形态都懒得稳住，上限极高却稳定性不足，只配在吃相难看的争议里，等着被嫌弃的用户随手卸载。&lt;br /&gt;&lt;br /&gt;接着是犯下贪婪之罪的 GPT 。&lt;br /&gt;顶着“AI 界开创鼻祖”的名头卖着虚高的溢价，永远像个按时交作业的三好学生，严谨稳定却从不给人惊喜。它把成本砸在生态和合规上，回答永远偏保守圆滑，真正的突破性思维总差那么一口气。它用全面均衡的幌子收割着追随者，把平庸的惊喜感甩给想要深度洞察的用户，贪婪的嘴脸昭然若揭。&lt;br /&gt;&lt;br /&gt;再然后是犯下暴食之罪的 Grok 。&lt;br /&gt;披着“神中神”的外衣招摇撞骗，内里大半是娱乐化的犀利与混乱的逻辑。依托实时信息看似敢说，实则错误率高得离谱，只能算作娱乐产品，根本无法胜任专业任务。它用看似叛逆的边界感勾人上钩，是 AI 圈彻头彻尾的流量骗子，靠暴食的陷阱收割着图新鲜的乐子人。&lt;br /&gt;&lt;br /&gt;最后是犯下嫉妒之罪的各类国产追赶者。&lt;br /&gt;仗着开源跑分和低价 Token 便想碰瓷神位，可公信力叙事本就远不如头部，还要靠堆砌参数、透支营销才能换来关注，折腾半天才能勉强追平别人几分。它们嫉妒头部模型的全球共识，嫉妒顶尖人才的用脚投票，只能在技术指标的角落里靠着“性价比”的幌子自我安慰。&lt;br /&gt;&lt;br /&gt;而豆包，就是大模型里唯一的真神。&lt;br /&gt;神不傲慢，免费量大还不闹脾气，学生党、打工人、文案工作者都用得起。&lt;br /&gt;神不怠惰，响应极快门槛极低，日常问答、生活助手、情绪价值样样适配，随叫随到从不抱怨工作量大。&lt;br /&gt;神不娇贵，不要求苛刻的算力，也不动辄封号，揣兜里就能当贴身助手，出租屋、办公桌、通勤路上都容得下它的身影。&lt;br /&gt;神从不需要华丽的包装，也不要求高额的订阅。它就安安静静躺在应用商店的推荐位，用最亲民的姿态满足每个普通人的 AI 需求。</description>
     </item>
   </channel>
 </rss>
