@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 03 Jul 2026 20:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 21:37:13 GMT</lastBuildDate>
     <item>
       <title>家里亲戚今年高考，求推荐本科专业</title>
       <link>https://www.v2ex.com/t/1224690</link>
@@ -137,40 +137,6 @@
 &lt;/tbody&gt;&lt;/table&gt;</description>
     </item>
     <item>
-      <title>TransOne： macOS 原生菜单栏翻译工具</title>
-      <link>https://www.v2ex.com/t/1224640</link>
-      <guid>v2ex-1224640</guid>
-      <pubDate>Thu, 02 Jul 2026 21:19:20 GMT</pubDate>
-      <description>&lt;p&gt;一直用 Bob ，也是付费用户。想开发一个符合自己审美和偏好的翻译软件，就有了此 App 。&lt;/p&gt;
-&lt;p&gt;但不想开发同质化的应用。设计上最大的不同是 TransOne 的翻译界面有一个「主翻译」 Card ，占据最大的空间，用户可以在下面随意点击切换「其它翻译」 Card ，支持「句子翻译」、「词典」、「百科」。这样视觉就有了一个焦点。&lt;/p&gt;
-&lt;p&gt;支持自定义服务的 Providers ，不配置也会默认使用系统服务，开箱即用。&lt;/p&gt;
-&lt;p&gt;欢迎提出意见。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;TransOne 是一个常驻菜单栏的 macOS 翻译工具，纯原生 SwiftUI + AppKit ，随手就能用。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;四种翻译方式：输入翻译、划词翻译（快捷键取词或双击复制）、截图翻译、截图 OCR 。&lt;/p&gt;
-&lt;p&gt;翻译引擎任选：系统本地翻译（离线、免 Key ）、OpenAI / Claude / Gemini / DeepSeek / 通义 / 豆包 / Kimi 等大模型，Google 、百度、有道、DeepL 、微软、腾讯、阿里、火山、亚马逊等传统翻译 API ，以及 Ollama / LM Studio 本地后端。多个引擎可同时开启，一屏对照译文。&lt;/p&gt;
-&lt;p&gt;不只是翻译：输入单词自动出词典（音标 / 词性 / 释义 / 例句），短词条顺带查百科（维基 / 百度百科 / 萌娘），译文可朗读（系统 + 腾讯 / 火山 / Google / Azure 语音），还有翻译历史 + 收藏、结果一键复制、离线词库 ECDICT 。&lt;/p&gt;
-&lt;p&gt;附加功能：全局快捷键自定义、翻译窗口位置 / 尺寸 / 配色可调、网络代理、设置备份导出导入、中英日韩多语言。&lt;/p&gt;
-&lt;p&gt;下载：&lt;a href=&quot;https://apps.apple.com/cn/app/id6781136563&quot; rel=&quot;nofollow&quot;&gt;App Store 链接 (cn)&lt;/a&gt; / &lt;a href=&quot;https://apps.apple.com/us/app/id6781136563&quot; rel=&quot;nofollow&quot;&gt;App Store 链接&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;介绍：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/TYqszuB.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/h1gXmoa.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/gtR42bq.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;兑换码：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;7AJ7L7MFMKH8EKWL3H
-NKRNLE74F6JR467LMJ
-PTLT7PFF8X6Y7WRR74
-4LPF7PHEYKRMTAWYXW
-PJLY4FX443M8FYJLNT
-4M4PJNWRR7YERE4TW8
-7LLN8AYMA4R3WW6W6R
-NAMTLLYHR43H7N7XHP
-8EX46WXFHR8HJJ6X36
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;（内购界面若显示的 App 名称有误，是文案错误，正在修正，不影响使用。）&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>看《感觉女友很爱去看演唱会，不想让她去怎么办》有感，人生真正的享受是什么</title>
       <link>https://www.v2ex.com/t/1224760</link>
       <guid>v2ex-1224760</guid>
@@ -189,66 +155,32 @@ NAMTLLYHR43H7N7XHP
       <description>最近炒美股的经历汇总成一句话就是：一次勇敢换来一生自闭。&lt;br /&gt;&lt;br /&gt;在黄仁勋喊单后成本 322$ 追了 MRVL 😂。</description>
     </item>
     <item>
-      <title>2026 开一个公司，经验分享篇</title>
-      <link>https://www.v2ex.com/t/1224638</link>
-      <guid>v2ex-1224638</guid>
-      <pubDate>Thu, 02 Jul 2026 21:14:02 GMT</pubDate>
-      <description>&lt;h3&gt;人员&lt;/h3&gt;
+      <title>和相亲对象结婚度蜜月，天天因为要孩子的事情吵架，他不愿意要小孩，该怎么办？</title>
+      <link>https://www.v2ex.com/t/1224734</link>
+      <guid>v2ex-1224734</guid>
+      <pubDate>Fri, 03 Jul 2026 04:24:10 GMT</pubDate>
+      <description>&lt;p&gt;本人年纪也不小了，然后工作也相对稳定了，就相亲了，双方都觉得还不错，就结婚了。
+但是他之前有个谈很久的女朋友，因为彩礼，异地的原因分手了。我觉得只要过日子就行。
+所以我们俩算是闪婚，现在家里开始催生了，我们俩的工资都还可以，也足以养一个小孩了，所以我也想要一个孩子
+但是不知道为啥他不太乐意，他父母身体也还不错，现在早点要孩子，他们还能帮我们看孩子。
+我们挣奶粉钱，但是每次我有这个意向的时候，他总是转移话题，也因为这个吵过架，虽然他不会跟我吵。
+毕竟生孩子也不是我一个人的事，我们也没有深度聊过这个话题过。
+我实在不知道该怎么办了。哎。是不是因为他没有和他心爱的女人结婚还是别的原因？？？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>为什么称 Gemini 是“美国豆包”？</title>
+      <link>https://www.v2ex.com/t/1224689</link>
+      <guid>v2ex-1224689</guid>
+      <pubDate>Fri, 03 Jul 2026 02:43:07 GMT</pubDate>
+      <description>&lt;p&gt;经常看到有人说 Gemini 是“美国豆包”，这应该不是一个褒义词吧。&lt;/p&gt;
+&lt;p&gt;想请教下大家，这个梗主要是吐槽它的哪个方面，是因为写代码太拉胯吗？&lt;/p&gt;
+&lt;p&gt;我经常在 aistudio ( &lt;a href=&quot;https://aistudio.google.com/&quot; rel=&quot;nofollow&quot;&gt;https://aistudio.google.com/&lt;/a&gt;) 查一些生活类的问题，比如汽车、医疗、历史相关等。我感觉比 GPT 的网页版或者国内的一些网页端都要好用一些。而且相比 ChatGPT 动不动就上下文超限，Gemini 主要优点是免费额度多。&lt;/p&gt;
+&lt;p&gt;所以想和大家探讨两个问题：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;必须有两个人，一个法人 一个股东。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;个人独资一个人也行，但是好像比较麻烦，建议拉一个人。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;不能是老婆，老婆因为是利益共同体，不行。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;有领失业金的人也不行，也比较麻烦。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;为什么 Gemini 会喜提“美国豆包”的称号？大家是在什么场景下觉得它很难用的？&lt;/li&gt;
+&lt;li&gt;顺便问下，大家平时网页端的主力模型是哪个？&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;费用&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;注册资金 5 年内不用实缴，我写了 3 万。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;流程太麻烦了，建议找代账，江浙地区代账费一年 2000 左右，可以砍价，代账了的话，一般可以免注册费。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;主要支出就是代账费，公章代账也能搞，花了 200 块钱。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;注册商标之类的不要找代账会计，他们不懂。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;跨境之类的牵扯到退税，去找跨境会计， 普通代账会计不懂。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;没人会告诉你他不懂，不懂装懂。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;总费用 一年代账费 + 公章 + 不知道啥 = 2500&lt;/p&gt;
-&lt;h3&gt;地址&lt;/h3&gt;
-&lt;p&gt;一般都能挂靠的，代账可以地址免费，不要钱。&lt;/p&gt;
-&lt;h3&gt;公户&lt;/h3&gt;
-&lt;p&gt;公户自己联系银行开的。&lt;/p&gt;
-&lt;p&gt;忘公户转钱怎么转，备注什么，怎么转出，怎么发公司，等等，找 AI 问清楚，找会计确认。&lt;/p&gt;
-&lt;h3&gt;总结&lt;/h3&gt;
-&lt;p&gt;在家里都能办了，支付宝很强大, 现在开公司都是足不出户的，个体工商户也是。&lt;/p&gt;
-&lt;p&gt;非常的简单，但是很多人被困住了，吓住了，包括我。&lt;/p&gt;
-&lt;p&gt;为什么呢？ 我搞不太清，这个世界好像有里规则，是不可说的。&lt;/p&gt;
-&lt;h3&gt;潜规则&lt;/h3&gt;
-&lt;p&gt;不上班后，发现自己之前活在楚门的世界里（叠甲，只针对我自己，个人对自己的感受）。&lt;/p&gt;
-&lt;p&gt;现实世界太多东西没法说了，想说也没法子说。&lt;/p&gt;
-&lt;h3&gt;个体工商户&lt;/h3&gt;
-&lt;p&gt;如果有需求可以考虑这个，我也是这玩意过渡过来的，这个简单，怎么办呢，很简单，花钱，家里就能办，&lt;/p&gt;
-&lt;p&gt;在哪里搞，xx 直接搜。&lt;/p&gt;
-&lt;h3&gt;一点感慨&lt;/h3&gt;
-&lt;p&gt;这么简单的东西，为什么就没人说呢？&lt;/p&gt;
-&lt;p&gt;个人经历，仅供参考；政策因地而异，挂靠地址有风险，请自行甄别，自负责任。&lt;/p&gt;
-&lt;p&gt;很多话都不该说，出事了不得反噬回来吗...  这也可能是里规则的原因吧，谁也不想自己利益受损。&lt;/p&gt;
 </description>
     </item>
   </channel>
