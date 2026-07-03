@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 02 Jul 2026 23:55:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 02:06:28 GMT</lastBuildDate>
     <item>
       <title>感觉女友很爱去看演唱会，不想让她去怎么办</title>
       <link>https://www.v2ex.com/t/1224428</link>
@@ -12,21 +12,6 @@
       <pubDate>Thu, 02 Jul 2026 02:52:07 GMT</pubDate>
       <description>&lt;p&gt;甚至请假也要去，票也很贵，全勤都扣完了，休息也没时间两个人在一起，我真不懂有什么好看的，身边朋友都跟我说尊重她，好吧，但是有其他办法转移她的注意力吗？我就不想让她的注意力在别的男人身上，朋友说我是病娇，娇个大头鬼，有人能懂吗？不懂也别骂我，个人小癖好&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>这下好了,真死在科技里了</title>
-      <link>https://www.v2ex.com/t/1224388</link>
-      <guid>v2ex-1224388</guid>
-      <pubDate>Thu, 02 Jul 2026 01:24:12 GMT</pubDate>
-      <description>&lt;p&gt;事到如今，最对不起的就是家人&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>最近使用 vless+xhttp+reality，网址用的苹果的， 1 年多被墙了。这是咋被发现的？技术探讨下</title>
-      <link>https://www.v2ex.com/t/1224405</link>
-      <guid>v2ex-1224405</guid>
-      <pubDate>Thu, 02 Jul 2026 01:53:21 GMT</pubDate>
-      <description>1.reality 用的 &lt;a target=&quot;_blank&quot; href=&quot;http://www.apple.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.apple.com&lt;/a&gt;&lt;br /&gt;2.就我一个人用，主要用 telegram+奈飞+x+ig+youtube&lt;br /&gt;3.机器是美国的，到手我就 dd 了，已经用了 1 年多了一直没被墙，没有监控工具的&lt;br /&gt;4.被墙了我就没有续费这台机器，我又买了一台一样的，一个 ip 段的，发现没被墙，我又尝试了 vless+raw+reality ，目前正常。&lt;br /&gt;5.一开始的症状是能 ping 通，但是开代理好像就被阻断了，这几天彻底被墙了&lt;br /&gt;&lt;br /&gt;想问问各位大佬，这是咋被发现的？我一个人用，也没啥大流量的，一个月就 200 多 G</description>
     </item>
     <item>
       <title>公司 vibe coding 的项目，团队已经无法掌控了</title>
@@ -43,6 +28,18 @@
 &lt;p&gt;电话线路一旦并发稍高，系统就会出现性能瓶颈甚至直接崩溃；在线客服和语音客服在对话过程中经常出现长时间沉默、响应超时、上下文丢失等问题，导致用户无法获得正常服务。&lt;/p&gt;
 &lt;p&gt;最终的结果并不是提升客服效率，而是让原本稳定运行的人工客服体系也受到影响。客服人员不得不频繁接管异常会话、处理系统故障、安抚用户投诉，整体工作效率反而比上线 Agent 之前更低 &lt;/p&gt;
 &lt;p&gt;问问各位大神 这种情况怎么破局 ？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>讨论： AI 写的代码要不要看，不看代码的程序员会被淘汰吗？</title>
+      <link>https://www.v2ex.com/t/1224476</link>
+      <guid>v2ex-1224476</guid>
+      <pubDate>Thu, 02 Jul 2026 05:39:03 GMT</pubDate>
+      <description>&lt;p&gt;我发现现在的程序员正在往两个方向发展，一种是坚持检查 AI 写的代码，另一种是不看代码。&lt;/p&gt;
+&lt;p&gt;我目前用 Cursor 写代码，主要是我有阅读 diff 的习惯，AI 写的代码我是一定要看的（除非这个项目不重要，不需要长期维护），一定要让 AI 根据我的设计规则去写。&lt;/p&gt;
+&lt;p&gt;先说我的观点，站在“写代码”这个角度，如果不看 AI 写的代码，那么迟早要被 AI 完全取代，会失去竞争力。&lt;/p&gt;
+&lt;p&gt;但是如果站在“做产品”的角度，不看代码也许能快速做出产品 Demo 验证市场，可能在产品力上会更有竞争力。&lt;/p&gt;
+&lt;p&gt;你觉得不看代码的程序员会被淘汰吗？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -67,31 +64,86 @@ Hi w1573007,&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>JD 服务是越来越拉了，会跟上 Nokia 的步伐吧....</title>
-      <link>https://www.v2ex.com/t/1224372</link>
-      <guid>v2ex-1224372</guid>
-      <pubDate>Thu, 02 Jul 2026 00:52:59 GMT</pubDate>
-      <description>&lt;p&gt;之前在京东买的打印机，购买了 5 年换新服务，前几天打印机打印色彩异常了，申请了服务，结果京东以打印机编号与实际机型不一致拒保了，这服务绝了；
-联系客服，客服让找京东保险，京东保险那边是个机器人，一直已读乱回，输入人工，无限时 输入中…&lt;/p&gt;
+      <title>一个中登的树洞</title>
+      <link>https://www.v2ex.com/t/1224438</link>
+      <guid>v2ex-1224438</guid>
+      <pubDate>Thu, 02 Jul 2026 03:06:08 GMT</pubDate>
+      <description>&lt;h2&gt;困境&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;职业：被裁到现在 3 个月没有找到工作&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;26 年 4 月中旬正式被裁，截止今天（ 26-07-02 ）马上要到 3 个月，一个 offer 也没有搞定，经济压力和自我价值的未兑现让我对自己充满了怀疑，怀疑我自己是否有能力继续做程序员，还是说潮水退去后裸泳被看到了而已。同时也失去了对未来的信心，甚至怀疑我是否有资格生存，产生了包括主动逃避一切（轻生）在内的极端想法。我讨厌这个把真诚善良当作缺点和弱点的职场，同时又深知我无法改变这个既定事实，从而压力自己、让自己努力适应，但往往回弹产生巨大的反作用力。&lt;/p&gt;
+&lt;p&gt;目前我已经初步有了不再做程序员的想法，BOSS 上相关岗位已经刷了个遍，最近刷出来的岗位往往都是刷到过好几遍了的（岗位挂这么久真的是在诚心招人吗？）。往 AI 方向靠，做 Agent 、RAG 等我觉得是一个趋势，但我感觉也是没完没了，学不动了，已经没有了心气和精力。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;性格缺陷：习惯性逃避、缺乏维护亲密关系和正常社交的能力&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我很胆小，甚至是懦弱，会下意识忽略现实而认为有更好的解决办法只不过是我因为妥协而没有选择罢了。仔细想想，我自我认定为懦弱，就是在逃避，在为我无法解决的问题找借口，借口是性格缺陷，但生活没有借口的。&lt;/p&gt;
+&lt;p&gt;我过于严肃，一就是一，二就是二，几乎感受不到、也无法向别人传递热情洋溢的一，或者委屈低落的二。我会认为情绪是个人的事情，每个人基于事实和理解自己去创造情绪就好了，跟别人有什么关系呢？和伴侣的争吵也基本源于我无法在语言上输出理解和安全感。正常社交中我时常产生“怎么会有这种傻叉？”的想法，从而主动选择闭嘴，因此基本没有非工作需要的语言输出。无法主动开展正常社交让我缺乏自我舒缓的途径，蛮困惑和难受的。&lt;/p&gt;
+&lt;h2&gt;I need help&lt;/h2&gt;
+&lt;p&gt;其实也没有什么能帮助到我，这些问题都需要我自己去解决，这是我的生活。很多道理都懂，但巨大的鸿沟存在于“知”和“行”之间。&lt;/p&gt;
+&lt;p&gt;有个地方能让我说出来，有人能看到，就是对我的帮助了。谢谢你。&lt;/p&gt;
+&lt;p&gt;其实，我还是蛮幸运的，有关心我、包容我、甚至是自我牺牲为我付出的长辈，有愿意相信我的伴侣，还有一个灵性健康的小孩。加油，Z ，愿重头再来的勇气照耀你。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>豆包为什么是神？</title>
-      <link>https://www.v2ex.com/t/1224374</link>
-      <guid>v2ex-1224374</guid>
-      <pubDate>Thu, 02 Jul 2026 00:56:34 GMT</pubDate>
-      <description>在谈论这个问题之前，我想先说说其他大模型，相较于神究竟差在了哪里。&lt;br /&gt;&lt;br /&gt;首先是犯下傲慢之罪的 Claude 。&lt;br /&gt;凭着断层式的智商天花板和碾压级的逻辑链条便自居 AI 界的真神，摆出全球顶尖人才钦定的高傲姿态。可它忘了，动不动就封号的敏感脾气、走钢丝般脆弱的道德准则，以及单周高达两万美元 Token 费用的昂贵门槛，本就不属于预算有限的普通用户。一个工程师的月消耗能抵过万千订阅，动辄被“大义灭亲”下架的娇贵属性，最终多半让普通人在封号提示中为自己的傲慢付出代价。&lt;br /&gt;&lt;br /&gt;然后是犯下怠惰之罪的 Gemini 。&lt;br /&gt;顶着多模态强者的名头混迹大模型赛道，实则不给钱就装傻，免费版本仿佛被刻意降智。想解锁它的真正能力，得掏着真金白银去订阅，更别说非搜索模式下容易出现的细节遗忘和连贯性波动。它连自身形态都懒得稳住，上限极高却稳定性不足，只配在吃相难看的争议里，等着被嫌弃的用户随手卸载。&lt;br /&gt;&lt;br /&gt;接着是犯下贪婪之罪的 GPT 。&lt;br /&gt;顶着“AI 界开创鼻祖”的名头卖着虚高的溢价，永远像个按时交作业的三好学生，严谨稳定却从不给人惊喜。它把成本砸在生态和合规上，回答永远偏保守圆滑，真正的突破性思维总差那么一口气。它用全面均衡的幌子收割着追随者，把平庸的惊喜感甩给想要深度洞察的用户，贪婪的嘴脸昭然若揭。&lt;br /&gt;&lt;br /&gt;再然后是犯下暴食之罪的 Grok 。&lt;br /&gt;披着“神中神”的外衣招摇撞骗，内里大半是娱乐化的犀利与混乱的逻辑。依托实时信息看似敢说，实则错误率高得离谱，只能算作娱乐产品，根本无法胜任专业任务。它用看似叛逆的边界感勾人上钩，是 AI 圈彻头彻尾的流量骗子，靠暴食的陷阱收割着图新鲜的乐子人。&lt;br /&gt;&lt;br /&gt;最后是犯下嫉妒之罪的各类国产追赶者。&lt;br /&gt;仗着开源跑分和低价 Token 便想碰瓷神位，可公信力叙事本就远不如头部，还要靠堆砌参数、透支营销才能换来关注，折腾半天才能勉强追平别人几分。它们嫉妒头部模型的全球共识，嫉妒顶尖人才的用脚投票，只能在技术指标的角落里靠着“性价比”的幌子自我安慰。&lt;br /&gt;&lt;br /&gt;而豆包，就是大模型里唯一的真神。&lt;br /&gt;神不傲慢，免费量大还不闹脾气，学生党、打工人、文案工作者都用得起。&lt;br /&gt;神不怠惰，响应极快门槛极低，日常问答、生活助手、情绪价值样样适配，随叫随到从不抱怨工作量大。&lt;br /&gt;神不娇贵，不要求苛刻的算力，也不动辄封号，揣兜里就能当贴身助手，出租屋、办公桌、通勤路上都容得下它的身影。&lt;br /&gt;神从不需要华丽的包装，也不要求高额的订阅。它就安安静静躺在应用商店的推荐位，用最亲民的姿态满足每个普通人的 AI 需求。</description>
+      <title>给小孩买一台 Macbook Neo</title>
+      <link>https://www.v2ex.com/t/1224412</link>
+      <guid>v2ex-1224412</guid>
+      <pubDate>Thu, 02 Jul 2026 02:08:20 GMT</pubDate>
+      <description>&lt;p&gt;暑假准备给小孩（小学 5 年级）买一台 Macbook Neo. 并且教一些基础的电脑知识。&lt;/p&gt;
+&lt;p&gt;求大家推荐一下，有没有适合小孩的 App 推荐一下。&lt;/p&gt;
+&lt;p&gt;另外还有一个疑问：要不要教科学上网，引导使用国外的软件（ Google, Youtube, Codex 这些）？&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>讨论： AI 写的代码要不要看，不看代码的程序员会被淘汰吗？</title>
-      <link>https://www.v2ex.com/t/1224476</link>
-      <guid>v2ex-1224476</guid>
-      <pubDate>Thu, 02 Jul 2026 05:39:03 GMT</pubDate>
-      <description>&lt;p&gt;我发现现在的程序员正在往两个方向发展，一种是坚持检查 AI 写的代码，另一种是不看代码。&lt;/p&gt;
-&lt;p&gt;我目前用 Cursor 写代码，主要是我有阅读 diff 的习惯，AI 写的代码我是一定要看的（除非这个项目不重要，不需要长期维护），一定要让 AI 根据我的设计规则去写。&lt;/p&gt;
-&lt;p&gt;先说我的观点，站在“写代码”这个角度，如果不看 AI 写的代码，那么迟早要被 AI 完全取代，会失去竞争力。&lt;/p&gt;
-&lt;p&gt;但是如果站在“做产品”的角度，不看代码也许能快速做出产品 Demo 验证市场，可能在产品力上会更有竞争力。&lt;/p&gt;
-&lt;p&gt;你觉得不看代码的程序员会被淘汰吗？&lt;/p&gt;
+      <title>真的没人觉得 codex 比 claude 笨很多吗？</title>
+      <link>https://www.v2ex.com/t/1224592</link>
+      <guid>v2ex-1224592</guid>
+      <pubDate>Thu, 02 Jul 2026 11:00:07 GMT</pubDate>
+      <description>&lt;p&gt;甚至一些低级问题，比如一行注释不写，不知道自己生成单元测试，额外多写几个不必要的类出来，也不向我逐个确认要点&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>TransOne： macOS 原生菜单栏翻译工具</title>
+      <link>https://www.v2ex.com/t/1224640</link>
+      <guid>v2ex-1224640</guid>
+      <pubDate>Thu, 02 Jul 2026 21:19:20 GMT</pubDate>
+      <description>&lt;p&gt;一直用 Bob ，也是付费用户。想开发一个符合自己审美和偏好的翻译软件，就有了此 App 。&lt;/p&gt;
+&lt;p&gt;但不想开发同质化的应用。设计上最大的不同是 TransOne 的翻译界面有一个「主翻译」 Card ，占据最大的空间，用户可以在下面随意点击切换「其它翻译」 Card ，支持「句子翻译」、「词典」、「百科」。这样视觉就有了一个焦点。&lt;/p&gt;
+&lt;p&gt;支持自定义服务的 Providers ，不配置也会默认使用系统服务，开箱即用。&lt;/p&gt;
+&lt;p&gt;欢迎提出意见。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;TransOne 是一个常驻菜单栏的 macOS 翻译工具，纯原生 SwiftUI + AppKit ，随手就能用。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;四种翻译方式：输入翻译、划词翻译（快捷键取词或双击复制）、截图翻译、截图 OCR 。&lt;/p&gt;
+&lt;p&gt;翻译引擎任选：系统本地翻译（离线、免 Key ）、OpenAI / Claude / Gemini / DeepSeek / 通义 / 豆包 / Kimi 等大模型，Google 、百度、有道、DeepL 、微软、腾讯、阿里、火山、亚马逊等传统翻译 API ，以及 Ollama / LM Studio 本地后端。多个引擎可同时开启，一屏对照译文。&lt;/p&gt;
+&lt;p&gt;不只是翻译：输入单词自动出词典（音标 / 词性 / 释义 / 例句），短词条顺带查百科（维基 / 百度百科 / 萌娘），译文可朗读（系统 + 腾讯 / 火山 / Google / Azure 语音），还有翻译历史 + 收藏、结果一键复制、离线词库 ECDICT 。&lt;/p&gt;
+&lt;p&gt;附加功能：全局快捷键自定义、翻译窗口位置 / 尺寸 / 配色可调、网络代理、设置备份导出导入、中英日韩多语言。&lt;/p&gt;
+&lt;p&gt;下载：&lt;a href=&quot;https://apps.apple.com/cn/app/id6781136563&quot; rel=&quot;nofollow&quot;&gt;App Store 链接 (cn)&lt;/a&gt; / &lt;a href=&quot;https://apps.apple.com/us/app/id6781136563&quot; rel=&quot;nofollow&quot;&gt;App Store 链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;介绍：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/TYqszuB.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/h1gXmoa.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/gtR42bq.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;兑换码：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;7AJ7L7MFMKH8EKWL3H
+NKRNLE74F6JR467LMJ
+PTLT7PFF8X6Y7WRR74
+4LPF7PHEYKRMTAWYXW
+PJLY4FX443M8FYJLNT
+4M4PJNWRR7YERE4TW8
+7LLN8AYMA4R3WW6W6R
+NAMTLLYHR43H7N7XHP
+8EX46WXFHR8HJJ6X36
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;（内购界面若显示的 App 名称有误，是文案错误，正在修正，不影响使用。）&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>测试已死，北京测试岗位如此凄惨，。。</title>
+      <link>https://www.v2ex.com/t/1224467</link>
+      <guid>v2ex-1224467</guid>
+      <pubDate>Thu, 02 Jul 2026 04:46:01 GMT</pubDate>
+      <description>&lt;p&gt;没想到今年的行情比想象中的还要差，楼主测试岗位 7 年经验，目前下岗 2 个月了，每天都在疯狂投简历。没想到北京的测试岗位也很少，面试都没几个，2 个公司是面试通过了，到了定薪环节又由于薪资问题不了了之，成备胎了。&lt;/p&gt;
+&lt;p&gt;心态崩了，现在刚 30 岁，还不想进外包，每天都在煎熬中度过。&lt;/p&gt;
 </description>
     </item>
   </channel>
