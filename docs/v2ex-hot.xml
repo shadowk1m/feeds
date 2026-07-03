@@ -4,22 +4,31 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 03 Jul 2026 06:06:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:38:44 GMT</lastBuildDate>
     <item>
-      <title>公司 vibe coding 的项目，团队已经无法掌控了</title>
-      <link>https://www.v2ex.com/t/1224558</link>
-      <guid>v2ex-1224558</guid>
-      <pubDate>Thu, 02 Jul 2026 09:13:29 GMT</pubDate>
-      <description>&lt;p&gt;今年年初，Agent 的爆发让公司管理层看到了“智能体替代部分客服岗位”的可能性，于是很快给我们下达了客服 Agent 的建设目标，覆盖 App 在线客服和电话线路客服两大场景。&lt;/p&gt;
-&lt;p&gt;问题在于，我们团队并没有专门的 AI Agent 工程师，成员基本都是 Java 和前端开发。面对全新的技术栈，大家只能一边学习，一边借助 Codex 等 AI 编程工具完成系统设计、架构搭建和业务开发。&lt;/p&gt;
-&lt;p&gt;经过几个月的赶工，第一版终于上线了。&lt;/p&gt;
-&lt;p&gt;然而，真正的问题也从这一刻开始暴露。&lt;/p&gt;
-&lt;p&gt;上线后的实际效果远低于预期。系统频繁出现各种异常，但团队却很难定位真正的原因。大量核心代码都是 AI 自动生成的，代码结构复杂、抽象层级混乱，很多逻辑连开发人员自己都难以理解，更不用说进行维护和排查。&lt;/p&gt;
-&lt;p&gt;于是形成了一个恶性循环：代码看不懂，只能继续让 AI 帮忙修改； AI 修复了一个 Bug ，却往往又引入新的问题。今天修好了 A ，明天 B 又坏了，整个系统逐渐进入一种“越修越乱”的状态。&lt;/p&gt;
-&lt;p&gt;随着业务量增加，问题开始集中爆发。&lt;/p&gt;
-&lt;p&gt;电话线路一旦并发稍高，系统就会出现性能瓶颈甚至直接崩溃；在线客服和语音客服在对话过程中经常出现长时间沉默、响应超时、上下文丢失等问题，导致用户无法获得正常服务。&lt;/p&gt;
-&lt;p&gt;最终的结果并不是提升客服效率，而是让原本稳定运行的人工客服体系也受到影响。客服人员不得不频繁接管异常会话、处理系统故障、安抚用户投诉，整体工作效率反而比上线 Agent 之前更低 &lt;/p&gt;
-&lt;p&gt;问问各位大神 这种情况怎么破局 ？&lt;/p&gt;
+      <title>家里亲戚今年高考，求推荐本科专业</title>
+      <link>https://www.v2ex.com/t/1224690</link>
+      <guid>v2ex-1224690</guid>
+      <pubDate>Fri, 03 Jul 2026 02:43:13 GMT</pubDate>
+      <description>如题，求推荐本科好就业的专业。&lt;br /&gt;&lt;br /&gt;分数这些我就不贴这里了，现在 AI 帮填志愿已经挺成熟，但就是专业这块拿不准，当前填志愿的方向是：城市选择不重要，专业选择放在第一，毕业了能找到工作才是硬道理。这个志愿填报方向也欢迎交流、指导。</description>
+    </item>
+    <item>
+      <title>滨江仲裁调解员有大病，怎么投诉</title>
+      <link>https://www.v2ex.com/t/1224653</link>
+      <guid>v2ex-1224653</guid>
+      <pubDate>Fri, 03 Jul 2026 01:17:08 GMT</pubDate>
+      <description>&lt;p&gt;上周五去申请仲裁，周一下午的时候调解员打了个电话过来直接单方面通知让周二去现场调解，我说我没时间能不能改一下，她说公司那边已经约好了改不了，后面说先发我调解书等材料，签好字明天让同事带过去盖章就好了（同事和我一起仲裁），但是他给的材料有点问题，需要重新签字，我说可以我下周抽个时间去签了，然后昨天打了两个电话给我让我早点去签，我说这几天有工作要忙，下周一去吧，然后她就一直叭叭，说什么久了要写原因，说我不上心一大堆，我就说你调解不和我提前确认时间，我现在没时间去签，然后她说那你还怪我了，然后威胁我说那这个调解后面要关闭了还是什么的，我说那你关好了，回执给我我自己去起诉，然后挂了电话。  &lt;/p&gt;
+&lt;p&gt;真的神人了，调解不是双方约时间而是直接单方面通知你，还是说调解都是这样？现在过去一天多了，调解员那边也没消息，有什么材料需要找她要的吗，起诉好像需要调解失败什么的材料。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>“有个东西，也是我今天才学到的，叫 CDN”</title>
+      <link>https://www.v2ex.com/t/1224709</link>
+      <guid>v2ex-1224709</guid>
+      <pubDate>Fri, 03 Jul 2026 03:18:56 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/SMB70MK.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者已编辑&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -57,30 +66,6 @@ NAMTLLYHR43H7N7XHP
 </description>
     </item>
     <item>
-      <title>滨江仲裁调解员有大病，怎么投诉</title>
-      <link>https://www.v2ex.com/t/1224653</link>
-      <guid>v2ex-1224653</guid>
-      <pubDate>Fri, 03 Jul 2026 01:17:08 GMT</pubDate>
-      <description>&lt;p&gt;上周五去申请仲裁，周一下午的时候调解员打了个电话过来直接单方面通知让周二去现场调解，我说我没时间能不能改一下，她说公司那边已经约好了改不了，后面说先发我调解书等材料，签好字明天让同事带过去盖章就好了（同事和我一起仲裁），但是他给的材料有点问题，需要重新签字，我说可以我下周抽个时间去签了，然后昨天打了两个电话给我让我早点去签，我说这几天有工作要忙，下周一去吧，然后她就一直叭叭，说什么久了要写原因，说我不上心一大堆，我就说你调解不和我提前确认时间，我现在没时间去签，然后她说那你还怪我了，然后威胁我说那这个调解后面要关闭了还是什么的，我说那你关好了，回执给我我自己去起诉，然后挂了电话。  &lt;/p&gt;
-&lt;p&gt;真的神人了，调解不是双方约时间而是直接单方面通知你，还是说调解都是这样？现在过去一天多了，调解员那边也没消息，有什么材料需要找她要的吗，起诉好像需要调解失败什么的材料。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>真的没人觉得 codex 比 claude 笨很多吗？</title>
-      <link>https://www.v2ex.com/t/1224592</link>
-      <guid>v2ex-1224592</guid>
-      <pubDate>Thu, 02 Jul 2026 11:00:07 GMT</pubDate>
-      <description>&lt;p&gt;甚至一些低级问题，比如一行注释不写，不知道自己生成单元测试，额外多写几个不必要的类出来，也不向我逐个确认要点&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>一次勇敢换来一生自闭</title>
-      <link>https://www.v2ex.com/t/1224644</link>
-      <guid>v2ex-1224644</guid>
-      <pubDate>Fri, 03 Jul 2026 00:17:34 GMT</pubDate>
-      <description>最近炒美股的经历汇总成一句话就是：一次勇敢换来一生自闭。&lt;br /&gt;&lt;br /&gt;在黄仁勋喊单后成本 322$ 追了 MRVL 😂。</description>
-    </item>
-    <item>
       <title>你最满意的 PC 软件是什么？</title>
       <link>https://www.v2ex.com/t/1224652</link>
       <guid>v2ex-1224652</guid>
@@ -89,18 +74,11 @@ NAMTLLYHR43H7N7XHP
 </description>
     </item>
     <item>
-      <title>家里亲戚今年高考，求推荐本科专业</title>
-      <link>https://www.v2ex.com/t/1224690</link>
-      <guid>v2ex-1224690</guid>
-      <pubDate>Fri, 03 Jul 2026 02:43:13 GMT</pubDate>
-      <description>如题，求推荐本科好就业的专业。&lt;br /&gt;&lt;br /&gt;分数这些我就不贴这里了，现在 AI 帮填志愿已经挺成熟，但就是专业这块拿不准，当前填志愿的方向是：城市选择不重要，专业选择放在第一，毕业了能找到工作才是硬道理。这个志愿填报方向也欢迎交流、指导。</description>
-    </item>
-    <item>
-      <title>真的没人觉得中文里面掺杂英文很 low 么？</title>
-      <link>https://www.v2ex.com/t/1224539</link>
-      <guid>v2ex-1224539</guid>
-      <pubDate>Thu, 02 Jul 2026 08:27:26 GMT</pubDate>
-      <description>把币都给我</description>
+      <title>一次勇敢换来一生自闭</title>
+      <link>https://www.v2ex.com/t/1224644</link>
+      <guid>v2ex-1224644</guid>
+      <pubDate>Fri, 03 Jul 2026 00:17:34 GMT</pubDate>
+      <description>最近炒美股的经历汇总成一句话就是：一次勇敢换来一生自闭。&lt;br /&gt;&lt;br /&gt;在黄仁勋喊单后成本 322$ 追了 MRVL 😂。</description>
     </item>
     <item>
       <title>2026 开一个公司，经验分享篇</title>
@@ -163,6 +141,122 @@ NAMTLLYHR43H7N7XHP
 &lt;p&gt;这么简单的东西，为什么就没人说呢？&lt;/p&gt;
 &lt;p&gt;个人经历，仅供参考；政策因地而异，挂靠地址有风险，请自行甄别，自负责任。&lt;/p&gt;
 &lt;p&gt;很多话都不该说，出事了不得反噬回来吗...  这也可能是里规则的原因吧，谁也不想自己利益受损。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>真的没人觉得 codex 比 claude 笨很多吗？</title>
+      <link>https://www.v2ex.com/t/1224592</link>
+      <guid>v2ex-1224592</guid>
+      <pubDate>Thu, 02 Jul 2026 11:00:07 GMT</pubDate>
+      <description>&lt;p&gt;甚至一些低级问题，比如一行注释不写，不知道自己生成单元测试，额外多写几个不必要的类出来，也不向我逐个确认要点&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[OneDayAI] 先送后卖，新老用户留言即送一周套餐，每 20 楼抽 20 刀充值额度</title>
+      <link>https://www.v2ex.com/t/1224726</link>
+      <guid>v2ex-1224726</guid>
+      <pubDate>Fri, 03 Jul 2026 04:00:58 GMT</pubDate>
+      <description>&lt;p&gt;距离上次推广已过去三个月，我们还在且一如既往保持 &lt;strong&gt;兼容+稳定+性价比+低试错&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;正值系统大升级完成节点，再来 V 站推广一波，带来了一些福利。&lt;/p&gt;
+&lt;p&gt;🎉🎉🎉 还是老规矩了，本帖发布&lt;strong&gt;24 小时&lt;/strong&gt;内留言就送。&lt;/p&gt;
+&lt;h2&gt;网址&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://api.autocode.space&quot; rel=&quot;nofollow&quot;&gt;https://api.autocode.space&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;福利&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;新老用户在本帖留言即送一周套餐（ 24 小时 5 刀，7 天 10 刀）&lt;/strong&gt;，可前往&lt;a href=&quot;https://api.autocode.space/console/subscription-self&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;订阅管理&lt;/strong&gt;&lt;/a&gt; 查询&lt;/li&gt;
+&lt;li&gt;每 20 楼抽 20 刀充值额度&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;变化&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;之前被疯狂薅羊毛的签到重新开放&lt;/li&gt;
+&lt;li&gt;系统支持更丰富的套餐设定，动态让利更简单&lt;/li&gt;
+&lt;li&gt;任意分组均支持 Anthropic Claude 、OpenAI 、OpenAI-Responses 三协议互转&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;只要是标准格式的客户端均支持调用：Codex 调用 Claude 、Claude Code 调用 Codex 、OpenCode 调用 Claude 、Codex ，想怎么用就怎么样&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;支持在线申请开票&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;价格表&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;线路&lt;/th&gt;
+&lt;th&gt;价格&lt;/th&gt;
+&lt;th&gt;备注&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Codex&lt;/td&gt;
+&lt;td&gt;0.15 元/刀&lt;/td&gt;
+&lt;td&gt;支持三协议调用&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Codex Pro&lt;/td&gt;
+&lt;td&gt;0.4 元/刀&lt;/td&gt;
+&lt;td&gt;支持三协议调用&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CCMAX 不限制客户端&lt;/td&gt;
+&lt;td&gt;1.5 元/刀&lt;/td&gt;
+&lt;td&gt;支持三协议调用&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CCMAX 限制客户端&lt;/td&gt;
+&lt;td&gt;1 元/刀&lt;/td&gt;
+&lt;td&gt;支持三协议调用&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;kiro （ vip ）&lt;/td&gt;
+&lt;td&gt;0.4 元/刀&lt;/td&gt;
+&lt;td&gt;支持三协议调用&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;一如既往保持 &lt;strong&gt;兼容性+稳定性+性价比+低试错&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;兼容性&lt;/strong&gt;：自研的泛化调用网关，支持三协议任意调用后准确转化成源站支持格式&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;稳定性&lt;/strong&gt;：自研的网关支持多线路故障转移负载均衡&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;性价比&lt;/strong&gt;：没有挤牙膏式的降价，C 端价格薄利多销&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;低试错&lt;/strong&gt;：1 元起充，好用再充。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;企业用户&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;独立的 B 端站点，服务器资源冗余，平滑支撑数千 RPM&lt;/li&gt;
+&lt;li&gt;支持对公转账、企业开票&lt;/li&gt;
+&lt;li&gt;法大大电子签合同签订&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;标准姿势&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Github 注册 -&amp;gt; &lt;a href=&quot;https://api.autocode.space/console/personal&quot; rel=&quot;nofollow&quot;&gt;获取用户 ID&lt;/a&gt; -&amp;gt; V 站留言 -&amp;gt; 进群 push 群主加套餐&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;交流群&lt;/h3&gt;
+&lt;p&gt;AI 技术交流群可进微信群，业务沟通进 TG 群，感谢理解。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;AI 技术交流二群&lt;/th&gt;
+&lt;th&gt;AI 技术交流三群&lt;/th&gt;
+&lt;th&gt;业务沟通 TG 群&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;二群&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/4n9em0Nv.jpeg&quot;/&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt=&quot;三群&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/x88l9cnJ.jpeg&quot;/&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://t.me/+3U1DiC_up3w3NzFh&quot; rel=&quot;nofollow&quot;&gt;https://t.me/+3U1DiC_up3w3NzFh&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>看《感觉女友很爱去看演唱会，不想让她去怎么办》有感，人生真正的享受是什么</title>
+      <link>https://www.v2ex.com/t/1224760</link>
+      <guid>v2ex-1224760</guid>
+      <pubDate>Fri, 03 Jul 2026 06:52:37 GMT</pubDate>
+      <description>&lt;p&gt;贴一下原文：&lt;a href=&quot;https://www.v2ex.com/t/1224428#reply273&quot; rel=&quot;nofollow&quot;&gt;感觉女友很爱去看演唱会，不想让她去怎么办&lt;/a&gt;&lt;br/&gt;
+作为我个人肯定觉得去看演唱会，费钱又费精力。不如自己呆在空调房里，打打游戏、睡睡觉、vibecoding 一下、看看电影。&lt;br/&gt;
+但从他女朋友的角度，可能人家就是喜欢追星呢，就喜欢花大几千去看演唱会呢&lt;br/&gt;
+各位觉得人生真正的享受是什么样的&lt;/p&gt;
 </description>
     </item>
   </channel>
