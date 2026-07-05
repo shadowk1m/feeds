@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 05 Jul 2026 21:31:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 22:51:21 GMT</lastBuildDate>
     <item>
       <title>有一些生活中的烦恼，希望大佬们指点迷津</title>
       <link>https://www.v2ex.com/t/1225029</link>
@@ -79,13 +79,15 @@
 </description>
     </item>
     <item>
-      <title>用 HK 节点 使用 Codex 时老是出现： stream disconnected before completion: tls handshake eof</title>
-      <link>https://www.v2ex.com/t/1225014</link>
-      <guid>v2ex-1225014</guid>
-      <pubDate>Sat, 04 Jul 2026 22:20:37 GMT</pubDate>
-      <description>&lt;p&gt;我发现我的机场 HK 节点虽然访问网站啥的很稳定也很快，但是在 Codex 中老是出现这个问题，好像是 ws 连接不上，然后切到 http 进行工作了。&lt;/p&gt;
-&lt;p&gt;但是我切到 JP 节点这个问题就少一些，但是我的 JP 节点整体不如 HK 快和稳定。&lt;/p&gt;
-&lt;p&gt;不知道你们有没有这个问题？你们使用 Claude Codex 时都用的哪个地区的节点？&lt;/p&gt;
+      <title>Claude 被封了也不要去用 codex</title>
+      <link>https://www.v2ex.com/t/1225093</link>
+      <guid>v2ex-1225093</guid>
+      <pubDate>Sun, 05 Jul 2026 10:05:16 GMT</pubDate>
+      <description>&lt;ol&gt;
+&lt;li&gt;额度变少了&lt;/li&gt;
+&lt;li&gt;上下文压缩超时的问题依然没有解决&lt;/li&gt;
+&lt;li&gt;上下文太短&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     <item>
@@ -100,18 +102,6 @@
 </description>
     </item>
     <item>
-      <title>Claude 被封了也不要去用 codex</title>
-      <link>https://www.v2ex.com/t/1225093</link>
-      <guid>v2ex-1225093</guid>
-      <pubDate>Sun, 05 Jul 2026 10:05:16 GMT</pubDate>
-      <description>&lt;ol&gt;
-&lt;li&gt;额度变少了&lt;/li&gt;
-&lt;li&gt;上下文压缩超时的问题依然没有解决&lt;/li&gt;
-&lt;li&gt;上下文太短&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    <item>
       <title>AI 编程到底多强？亲身案例分享给你！</title>
       <link>https://www.v2ex.com/t/1225023</link>
       <guid>v2ex-1225023</guid>
@@ -119,6 +109,14 @@
       <description>&lt;pre&gt;&lt;code&gt;使用 Codex 和 Kimi Code ，在极短时间内，完成 2 个复杂的项目。一个是社区网站，历时不到 3 天。另外一个小程序，花了 4 个小时。
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;视频播放地址： &lt;a href=&quot;https://www.bilibili.com/video/BV16hMT6CEPe/?vd_source=eac57d23025c06a23af985f3ce0640d3&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV16hMT6CEPe/?vd_source=eac57d23025c06a23af985f3ce0640d3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>咱们论坛允许 agent 自己运营账号嘛，哈哈</title>
+      <link>https://www.v2ex.com/t/1225040</link>
+      <guid>v2ex-1225040</guid>
+      <pubDate>Sun, 05 Jul 2026 03:23:38 GMT</pubDate>
+      <description>&lt;p&gt;弱弱问一下，agent 运营账号，咱们站允许这个不，还是说发现就封号，啊哈哈哈&lt;/p&gt;
 </description>
     </item>
   </channel>
