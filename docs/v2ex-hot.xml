@@ -4,46 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 05 Jul 2026 01:13:17 GMT</lastBuildDate>
-    <item>
-      <title>暗色模式到底是怎么流行起来的？？</title>
-      <link>https://www.v2ex.com/t/1224886</link>
-      <guid>v2ex-1224886</guid>
-      <pubDate>Sat, 04 Jul 2026 02:11:53 GMT</pubDate>
-      <description>RT ，现在基本上但凡 IT 数码沾点边的站点或者软件，进去默认都是夜间模式、暗色模式。&lt;br /&gt;作为一个讨厌暗色模式的人，每次进去都要找半天日渐模式按钮在哪里，有些在右上角或者左下角直接可以切换的还好。&lt;br /&gt;有些 TM 的直接没有切换按钮或者藏在设置页深处的，简直想打人。&lt;br /&gt;&lt;br /&gt;夜间模式到底好在哪里啊？护眼吗？好像没有科学依据证明啊。&lt;br /&gt;日间模式看着多舒服啊，各种设计颜色都是原始的，夜间模式好多界面颜色啥的设计都变乱了，很丑啊。</description>
-    </item>
-    <item>
-      <title>Claude 账号被封风险检测工具</title>
-      <link>https://www.v2ex.com/t/1224898</link>
-      <guid>v2ex-1224898</guid>
-      <pubDate>Sat, 04 Jul 2026 03:09:09 GMT</pubDate>
-      <description>&lt;p&gt;Claude Code 的封号思路：Claude Code 会偷偷读取你电脑上的本地信息，然后用一种肉眼完全看不到的方式，悄悄给你发送给 AI 服务器的每一个请求，打上「这个人是中国用户」的隐形标记，传回 Anthropic 的服务器。昨天看到社区上 LinXiaoTao 开发了个一键检测功能，挺好用的，将这个功能集成到了 Uwarp&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.uwarp.design/fuck-claude&quot; rel=&quot;nofollow&quot;&gt;Fuck Claude 一键检测&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/BYIWi1QN.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>完了，到 2031 年，内存可能都不会降价。</title>
-      <link>https://www.v2ex.com/t/1224905</link>
-      <guid>v2ex-1224905</guid>
-      <pubDate>Sat, 04 Jul 2026 03:53:44 GMT</pubDate>
-      <description>&lt;p&gt;镁光被 16 家包了 5 年，价格不低于现在。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Micron CEO, president and chairman Sanjay Mehrotra explained the SCAs in prepared remarks delivered during the company’s Q3 earnings call. He explained that Micron has signed 16 SCAs, most of them covering 2026 to 2030, and that they involve a commitment to buy a certain quantity of product and pay for it in a pricing band that has a floor and a ceiling price. The floor price covers the historically high gross margins mentioned above, and the ceiling price means those who commit to an SCA are insulated if memory prices go even higher.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;来源：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html&quot; rel=&quot;nofollow&quot;&gt;https://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854&quot; rel=&quot;nofollow&quot;&gt;https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 05:27:34 GMT</lastBuildDate>
     <item>
       <title>哎，婚姻的意义是什么</title>
       <link>https://www.v2ex.com/t/1224990</link>
@@ -62,38 +23,19 @@
 </description>
     </item>
     <item>
-      <title>智普 coding plan 抢不到，有没有什么方法啊...</title>
-      <link>https://www.v2ex.com/t/1224887</link>
-      <guid>v2ex-1224887</guid>
-      <pubDate>Sat, 04 Jul 2026 02:14:10 GMT</pubDate>
-      <description>智普 coding plan 抢不到，有没有什么方法啊...</description>
-    </item>
-    <item>
-      <title>阿里的产品真的挺有意思的，不开麦克风权限不给用键盘打字</title>
-      <link>https://www.v2ex.com/t/1224885</link>
-      <guid>v2ex-1224885</guid>
-      <pubDate>Sat, 04 Jul 2026 02:07:01 GMT</pubDate>
-      <description>&lt;p&gt;今天刚好有需要想在千牛 app 里面问下  AI 客服
-居然要求必须开启麦克风权限，否则不能用 键盘输入&lt;/p&gt;
-&lt;p&gt;到底是想监听啥有价值的商业情报啊？
-还是单纯开发人员故意的，还是领导要求&lt;/p&gt;
-&lt;p&gt;冲浪互联网多年，你们有用过哪家公司聊天框不开麦克风权限就不能打字吗？&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/5rue4O2e.jpeg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>你喜欢注释丰富， Commit Message 详尽，还是反之？</title>
-      <link>https://www.v2ex.com/t/1224882</link>
-      <guid>v2ex-1224882</guid>
-      <pubDate>Sat, 04 Jul 2026 01:29:51 GMT</pubDate>
-      <description>&lt;p&gt;作为一个大龄 Ops ，喜欢简洁的代码和注释，但是写起帖子又特别碎碎念（开头就有点跑题了&lt;/p&gt;
-&lt;p&gt;本人算是古法 Vibe Coding 了，基本上除了自己的一个重构小 skill 以外，也没有安装市面上流行的 skill 。
-Claude Code 和 Codex 配合其最新模型，在近两个月我前者烧了 170 亿+后者烧了 200 多亿，近四百亿 token （当然缓存命中率在 95.5%+），所以默认是怎样我还是挺清楚的，简而言之就是，&lt;/p&gt;
-&lt;p&gt;Codex 注释很少，Commit Message 你若是不稍稍加点限定，可能就只有标题，body 都没有
-Claude Code 狂写注释，一个 feature 做完你不做冗余注释清理，看起来就是废话连篇，而且 Commit Message 也写的特别长&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://wdl.dev&quot; rel=&quot;nofollow&quot;&gt;WDL&lt;/a&gt;本体早期使用 Claude Code ，后来因为 Opus 4.7/4.8 确实没有 GPT5.5 强，就换了 Codex 至今，基本上 CC 早期的注释痕迹已经清理的差不多了，因为是主 Coder+多 Reviewer 的结构，做为 Reviewer 的 CC 并不存在看不懂 Codex 代码的问题，但是又常常会给一些 NIT 诸如再补点注释，或者这个变更要在 Commit Message 里面体现之类&lt;/p&gt;
-&lt;p&gt;而在写大的 dogfooding 的 demo ，也就是 WDL-CHAT ，基本上都是用 CC rush 出来的，CC 默认真的会是那种高频提交+海量注释的类型，现在的结果也是我做了几轮注释清理才得到的，哪怕是这样，就看具体的文件也能看到依然有大块大块的注释在里面&lt;/p&gt;
-&lt;p&gt;不知道诸位喜欢哪种风格？&lt;/p&gt;
+      <title>数字游民 有推荐的宜居城市吗？</title>
+      <link>https://www.v2ex.com/t/1225004</link>
+      <guid>v2ex-1225004</guid>
+      <pubDate>Sat, 04 Jul 2026 17:06:29 GMT</pubDate>
+      <description>&lt;p&gt;国内有这样的城市吗？&lt;/p&gt;
+&lt;p&gt;生活成本低一些，房价低一些，&lt;/p&gt;
+&lt;p&gt;有一定的基础设施,&lt;/p&gt;
+&lt;p&gt;适合自由线上工作者定居的。&lt;/p&gt;
+&lt;p&gt;潜在的地方，比如省会级城市的某个郊区，宜居的三线城市等等&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;各位大佬有推荐吗？ &lt;/p&gt;
+&lt;p&gt;最好是自己住过一段时间后感觉宜居的地方&lt;/p&gt;
+&lt;p&gt;大家来贡献一下自己的体验吧&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -105,11 +47,66 @@ Claude Code 狂写注释，一个 feature 做完你不做冗余注释清理，�
 </description>
     </item>
     <item>
-      <title>盒马会员性价比很低，没什么优惠</title>
-      <link>https://www.v2ex.com/t/1224906</link>
-      <guid>v2ex-1224906</guid>
-      <pubDate>Sat, 04 Jul 2026 04:06:02 GMT</pubDate>
-      <description>一时心血来潮开了会员，本来是想着在淘宝闪购里用盒马，看重免运费和些会员价，结果没想到不通用的，开的会员只能在盒马 app 上用&lt;br /&gt;&lt;br /&gt;行，那就下个盒马 app ，会员有各种卷，但都是细分品类的卷，想用卷就得买很多东西凑单，不凑单的话就完全没优惠。相比之下淘宝闪购有全品类卷，不用到处凑。&lt;br /&gt;&lt;br /&gt;也行，来都来了，那就凑单吧，挑半天选完后发现还是比闪购贵！ wtf ？顿时感觉自己成冤大头了，花钱开会员还要买的更贵。除非把全部卷都用上才能超过闪购，但，闪购全品类卷似乎天天有，真要买这么多，分批在闪购买还是更优惠。&lt;br /&gt;&lt;br /&gt;目前还没看过会员日的折扣，如果会员日折扣也拉了只有清仓商品在折扣，那就真是输麻了。而且会员日只能选周一到周四也是恶心，工作日都没空去用。&lt;br /&gt;&lt;br /&gt;会员想真正省钱就只能蹲个别高折扣商品配合免运费权益，或者是每天都要花 10 几块钱买菜用免运费权益，还或者天天线下满 9.9 拿免费青菜，但恰好后两个方式我用不上，会员对我来说性价比很低，优惠力度不如淘宝闪购的盒马。&lt;br /&gt;&lt;br /&gt;是我使用姿势不对吗，对一周一次买 40 元左右来说，怎么使用才够优惠啊，</description>
+      <title>哪些国家/地区可以数字游民转长居签证？</title>
+      <link>https://www.v2ex.com/t/1224942</link>
+      <guid>v2ex-1224942</guid>
+      <pubDate>Sat, 04 Jul 2026 08:49:50 GMT</pubDate>
+      <description>先说下本人情况：&amp;lt;30 岁，单身无牵无挂，有 CS 的 PhD 学位，英语水平还行（几年前托福考了 102 ，现在工作交流都是英语）。目前在香港 on-site ，明年能拿香港 PR ，在考虑二润的目的地。&lt;br /&gt;&lt;br /&gt;香港这鬼地方太压抑了，我觉得绝对算不上宜居，现在的是想法是明年拿了 PR 就可以二润了。只是现公司待遇和福利都还不错，有全球可用的商业医保，而且可以改签 relocation/remote contractor 合同，所以想找能通过数字游民转长签的国家/地区移民，希望 V 友们能给些建议。&lt;br /&gt;&lt;br /&gt;公司业务性质有些特殊，不方便回内地（也有税收，WLB 等因素的考虑）；走公司 relocation 可以选新加坡/德国，但是我觉得新加坡的居住条件也就比香港好一点，不是很想去，德国语言不通过去也麻烦。如果要保工作的话似乎只能选 remote contractor 然后找地方当数字游民了。&lt;br /&gt;&lt;br /&gt;当然也在考虑其它的可能性，如果不保工作，可以走澳洲的救生艇或者新西兰的 Skilled Migrant 计划，但是这年头澳洲和新西兰工作也不太好找，只能考虑当备选方案（现在的工作比较香确实不太想辞，哈哈）。也考虑过日本高度人才，但是现在日元贬值工资缩水，外加移民政策收紧，还是先当备选方案吧。&lt;br /&gt;&lt;br /&gt;总之还是希望有经验的 V 友们能不吝赐教。</description>
+    </item>
+    <item>
+      <title>原来 FM 调频转播站晚上会关站</title>
+      <link>https://www.v2ex.com/t/1225024</link>
+      <guid>v2ex-1225024</guid>
+      <pubDate>Sun, 05 Jul 2026 01:22:05 GMT</pubDate>
+      <description>&lt;p&gt;一听到凌晨 12:05 就会突然没信号，小城仅有的 4 个电台全部离线，没有关站提示，就像跳闸了一样突然变成白噪音了。第一次以为是收音机坏了，换了一个收音机到点还是如此。过了 12 点只能听调幅了，干扰很大，把天线用导线一路引到阳台防盗网上才能收到信号，台灯都没法开呀。
+过去听父母说能从收音机听到对岸牧师传教，我还将信将疑，这次确实有收到香港、日本、韩国、俄罗斯的调幅信号，虽然完全听不懂，但这么折腾一番挺有成就感的。
+明明记得之前不是这样，高三偷偷用 iPod nano 的收音机听老梁故事会到凌晨也没问题，而且调频电台起码 8 个以上，或许是记混了。那样现在夜班出租车司机岂不是连个收音机都没得听，那也太孤独了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>有一些生活中的烦恼，希望大佬们指点迷津</title>
+      <link>https://www.v2ex.com/t/1225029</link>
+      <guid>v2ex-1225029</guid>
+      <pubDate>Sun, 05 Jul 2026 01:55:35 GMT</pubDate>
+      <description>本人 97 年出生，男，普通本科毕业，毕业后在青岛写了一年代码，然后家中遭遇变故便回了老家，目前在一家食品公司上班，公司是家族式企业，托关系找了个车间的工作，到目前为止做了 6 年，已婚未育，到现在为止感觉干的很苦恼，不想做了。工作具体情况：&lt;br /&gt;	1 、早上 4 点半起床通勤半小时到公司，下午根据当天的产量下班，最早 6 点，最晚的时候能到 9 点，每天刷脸 4 次。&lt;br /&gt;    2 、工资每天 300 元，请假没有工资，除了 10 天年假，全年无休，没有节假日。&lt;br /&gt;    3 、晋升无望，调岗无望，感觉自己的能力也没有多少提升，离开这个平台什么都不是。&lt;br /&gt;    4 、各种考核、打分，处理职工各种乱七八糟的问题，比较费脑力，不是体力活。&lt;br /&gt;    5 、公司年底会有一部分奖金，根据当年的盈利情况大概在 5-8w 块，每个人有高有低全凭直系领导做主。刚建厂的一些老人虽然每天都在混，但是有原始的股份，每年赚的比我多的多。&lt;br /&gt;目前的烦恼：&lt;br /&gt;	1 、每天只能睡 6 小时左右，睡眠时间严重不足，每天昏昏沉沉，对工作失去了信心，现在比刚来的时候越来越差。&lt;br /&gt;    2 、目前有房贷 80w （结婚时候买的），每月 4000 元房贷，车贷刚刚全部结清，每个月工资只发 70%，剩余 30%年底发，工资除去房贷、有事请假大概只能剩 1500 元左右。&lt;br /&gt;    3 、老婆目前大半年没有上班，每天在家躺着，不想上班，但也没什么花钱的地方。&lt;br /&gt;    4 、在小县城工作不好找，干了 6 年也没什么人脉，也没学到什么东西，不知道能干什么。&lt;br /&gt;	5 、最近一直有些焦虑，我做什么事老是替别人考虑，所以一直很苦恼；老是为没有发生的事而担忧，怕辞职之后找不到工作连温饱都满足不了。&lt;br /&gt;    6 、一直被母亲催生，但是手头没钱，不想孩子生下来过苦日子。&lt;br /&gt;目前大概就这么个情况，想问问各位经验丰富的大佬帮我指点指点我现在应该怎么办？谢谢。</description>
+    </item>
+    <item>
+      <title>用 AI 生成一个小浣熊水浒卡鉴赏网站</title>
+      <link>https://www.v2ex.com/t/1225027</link>
+      <guid>v2ex-1225027</guid>
+      <pubDate>Sun, 05 Jul 2026 01:44:05 GMT</pubDate>
+      <description>&lt;p&gt;最近几年一直比较迷小浣熊水浒卡，去年小浣熊 30 周年又让水浒卡火了一把，所以就突发奇想搞个鉴赏网。&lt;/p&gt;
+&lt;p&gt;一个用于展示小浣熊水浒卡的响应式网站，提供卡片正反面鉴赏、基于 Three.js 的 3D 旋转与缩放、多版本卡片对比等功能，并支持 PC 端键盘操作及移动端触控交互。&lt;/p&gt;
+&lt;p&gt;项目功能由自己设计页面，借助 AI 生成代码，累计投入约 16 小时、重置了 5 轮 AI 用量周期，完成了素材搜集、开发调试、组件化重构、性能与交互体验优化、单元测试与线上部署等环节。&lt;/p&gt;
+&lt;p&gt;Github 地址： &lt;a href=&quot;https://github.com/pwstrick/water-card&quot; rel=&quot;nofollow&quot;&gt;https://github.com/pwstrick/water-card&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在线体验： &lt;a href=&quot;https://pwstrick.github.io/water-card/&quot; rel=&quot;nofollow&quot;&gt;https://pwstrick.github.io/water-card/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>claude 老号被封</title>
+      <link>https://www.v2ex.com/t/1224963</link>
+      <guid>v2ex-1224963</guid>
+      <pubDate>Sat, 04 Jul 2026 11:49:33 GMT</pubDate>
+      <description>&lt;p&gt;感觉用了有两年，一直通过 google play 订阅，长期稳定使用。&lt;/p&gt;
+&lt;p&gt;最近变化，&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;用了几年的之前的翻墙软件最近一个多月开始不稳定，换成了花云。&lt;/li&gt;
+&lt;li&gt;听大家传的防封逻辑，自己将本地时区从北京改成了新加坡。。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;不确定是什么原因导致的封号。
+申诉入口会直接跳到对话页，历史可以查看，无法发出 ask 。当期费用未退款。&lt;/p&gt;
+&lt;p&gt;在 claude 上创建了很多 project ，mcp ，skill ，design ，覆盖了日常投资、coding 、健康问题等等。郁闷。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>用 HK 节点 使用 Codex 时老是出现： stream disconnected before completion: tls handshake eof</title>
+      <link>https://www.v2ex.com/t/1225014</link>
+      <guid>v2ex-1225014</guid>
+      <pubDate>Sat, 04 Jul 2026 22:20:37 GMT</pubDate>
+      <description>&lt;p&gt;我发现我的机场 HK 节点虽然访问网站啥的很稳定也很快，但是在 Codex 中老是出现这个问题，好像是 ws 连接不上，然后切到 http 进行工作了。&lt;/p&gt;
+&lt;p&gt;但是我切到 JP 节点这个问题就少一些，但是我的 JP 节点整体不如 HK 快和稳定。&lt;/p&gt;
+&lt;p&gt;不知道你们有没有这个问题？你们使用 Claude Codex 时都用的哪个地区的节点？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
