@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 05 Jul 2026 15:42:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 16:53:32 GMT</lastBuildDate>
     <item>
       <title>有一些生活中的烦恼，希望大佬们指点迷津</title>
       <link>https://www.v2ex.com/t/1225029</link>
@@ -77,16 +77,6 @@
 </description>
     </item>
     <item>
-      <title>原来 FM 调频转播站晚上会关站</title>
-      <link>https://www.v2ex.com/t/1225024</link>
-      <guid>v2ex-1225024</guid>
-      <pubDate>Sun, 05 Jul 2026 01:22:05 GMT</pubDate>
-      <description>&lt;p&gt;一听到凌晨 12:05 就会突然没信号，小城仅有的 4 个电台全部离线，没有关站提示，就像跳闸了一样突然变成白噪音了。第一次以为是收音机坏了，换了一个收音机到点还是如此。过了 12 点只能听调幅了，干扰很大，把天线用导线一路引到阳台防盗网上才能收到信号，台灯都没法开呀。
-过去听父母说能从收音机听到对岸牧师传教，我还将信将疑，这次确实有收到香港、日本、韩国、俄罗斯的调幅信号，虽然完全听不懂，但这么折腾一番挺有成就感的。
-明明记得之前不是这样，高三偷偷用 iPod nano 的收音机听老梁故事会到凌晨也没问题，而且调频电台起码 8 个以上，或许是记混了。那样现在夜班出租车司机岂不是连个收音机都没得听，那也太孤独了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>土区续费 GPT plus 还是 500 里拉</title>
       <link>https://www.v2ex.com/t/1225016</link>
       <guid>v2ex-1225016</guid>
@@ -95,13 +85,13 @@
 </description>
     </item>
     <item>
-      <title>用 HK 节点 使用 Codex 时老是出现： stream disconnected before completion: tls handshake eof</title>
-      <link>https://www.v2ex.com/t/1225014</link>
-      <guid>v2ex-1225014</guid>
-      <pubDate>Sat, 04 Jul 2026 22:20:37 GMT</pubDate>
-      <description>&lt;p&gt;我发现我的机场 HK 节点虽然访问网站啥的很稳定也很快，但是在 Codex 中老是出现这个问题，好像是 ws 连接不上，然后切到 http 进行工作了。&lt;/p&gt;
-&lt;p&gt;但是我切到 JP 节点这个问题就少一些，但是我的 JP 节点整体不如 HK 快和稳定。&lt;/p&gt;
-&lt;p&gt;不知道你们有没有这个问题？你们使用 Claude Codex 时都用的哪个地区的节点？&lt;/p&gt;
+      <title>原来 FM 调频转播站晚上会关站</title>
+      <link>https://www.v2ex.com/t/1225024</link>
+      <guid>v2ex-1225024</guid>
+      <pubDate>Sun, 05 Jul 2026 01:22:05 GMT</pubDate>
+      <description>&lt;p&gt;一听到凌晨 12:05 就会突然没信号，小城仅有的 4 个电台全部离线，没有关站提示，就像跳闸了一样突然变成白噪音了。第一次以为是收音机坏了，换了一个收音机到点还是如此。过了 12 点只能听调幅了，干扰很大，把天线用导线一路引到阳台防盗网上才能收到信号，台灯都没法开呀。
+过去听父母说能从收音机听到对岸牧师传教，我还将信将疑，这次确实有收到香港、日本、韩国、俄罗斯的调幅信号，虽然完全听不懂，但这么折腾一番挺有成就感的。
+明明记得之前不是这样，高三偷偷用 iPod nano 的收音机听老梁故事会到凌晨也没问题，而且调频电台起码 8 个以上，或许是记混了。那样现在夜班出租车司机岂不是连个收音机都没得听，那也太孤独了。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -113,6 +103,16 @@
 这些曾经花了百年树立的高级品牌，在时代的进步中，褪去了光环，最终被年轻人摒弃
 段永平/林园 这些人也属于老登，他们认为值钱的东西（白酒）在年轻人看来，毫无意义，现在有多少年轻人喜欢喝酒的？&lt;/p&gt;
 &lt;p&gt;我也曾经追逐过这些东西，而现在看来，纯属浪费钱&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>用 HK 节点 使用 Codex 时老是出现： stream disconnected before completion: tls handshake eof</title>
+      <link>https://www.v2ex.com/t/1225014</link>
+      <guid>v2ex-1225014</guid>
+      <pubDate>Sat, 04 Jul 2026 22:20:37 GMT</pubDate>
+      <description>&lt;p&gt;我发现我的机场 HK 节点虽然访问网站啥的很稳定也很快，但是在 Codex 中老是出现这个问题，好像是 ws 连接不上，然后切到 http 进行工作了。&lt;/p&gt;
+&lt;p&gt;但是我切到 JP 节点这个问题就少一些，但是我的 JP 节点整体不如 HK 快和稳定。&lt;/p&gt;
+&lt;p&gt;不知道你们有没有这个问题？你们使用 Claude Codex 时都用的哪个地区的节点？&lt;/p&gt;
 </description>
     </item>
     <item>
