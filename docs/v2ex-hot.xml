@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 05 Jul 2026 10:33:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 12:08:02 GMT</lastBuildDate>
     <item>
       <title>哎，婚姻的意义是什么</title>
       <link>https://www.v2ex.com/t/1224990</link>
@@ -68,24 +68,6 @@
 </description>
     </item>
     <item>
-      <title>土区续费 GPT plus 还是 500 里拉</title>
-      <link>https://www.v2ex.com/t/1225016</link>
-      <guid>v2ex-1225016</guid>
-      <pubDate>Sat, 04 Jul 2026 23:20:19 GMT</pubDate>
-      <description>&lt;p&gt;之前记得看到有帖子说涨价的，价格又改回来了？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>用 HK 节点 使用 Codex 时老是出现： stream disconnected before completion: tls handshake eof</title>
-      <link>https://www.v2ex.com/t/1225014</link>
-      <guid>v2ex-1225014</guid>
-      <pubDate>Sat, 04 Jul 2026 22:20:37 GMT</pubDate>
-      <description>&lt;p&gt;我发现我的机场 HK 节点虽然访问网站啥的很稳定也很快，但是在 Codex 中老是出现这个问题，好像是 ws 连接不上，然后切到 http 进行工作了。&lt;/p&gt;
-&lt;p&gt;但是我切到 JP 节点这个问题就少一些，但是我的 JP 节点整体不如 HK 快和稳定。&lt;/p&gt;
-&lt;p&gt;不知道你们有没有这个问题？你们使用 Claude Codex 时都用的哪个地区的节点？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>车祸中窥探中国医院的专科细分。</title>
       <link>https://www.v2ex.com/t/1225056</link>
       <guid>v2ex-1225056</guid>
@@ -119,6 +101,24 @@
 &lt;p&gt;至少严格按照 ai 给的指示，并尽可能去幻查证后，当前路径完全合理，给我的预备案也足够详细。不管保守还是手术，完全明确了方式方法。&lt;/p&gt;
 &lt;p&gt;感慨，我妈当年要有 ai 在，我也不用拉着老人东跑西跑了。&lt;/p&gt;
 &lt;p&gt;中国的医生，专科细分太严重，一个科室下过多专科专病，导致有些医生完全没有应对本科下跨细分领域的能力。做不到病情分析以及路径优选的作用。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>土区续费 GPT plus 还是 500 里拉</title>
+      <link>https://www.v2ex.com/t/1225016</link>
+      <guid>v2ex-1225016</guid>
+      <pubDate>Sat, 04 Jul 2026 23:20:19 GMT</pubDate>
+      <description>&lt;p&gt;之前记得看到有帖子说涨价的，价格又改回来了？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>用 HK 节点 使用 Codex 时老是出现： stream disconnected before completion: tls handshake eof</title>
+      <link>https://www.v2ex.com/t/1225014</link>
+      <guid>v2ex-1225014</guid>
+      <pubDate>Sat, 04 Jul 2026 22:20:37 GMT</pubDate>
+      <description>&lt;p&gt;我发现我的机场 HK 节点虽然访问网站啥的很稳定也很快，但是在 Codex 中老是出现这个问题，好像是 ws 连接不上，然后切到 http 进行工作了。&lt;/p&gt;
+&lt;p&gt;但是我切到 JP 节点这个问题就少一些，但是我的 JP 节点整体不如 HK 快和稳定。&lt;/p&gt;
+&lt;p&gt;不知道你们有没有这个问题？你们使用 Claude Codex 时都用的哪个地区的节点？&lt;/p&gt;
 </description>
     </item>
   </channel>
