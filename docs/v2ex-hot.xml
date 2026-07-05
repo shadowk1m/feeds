@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 05 Jul 2026 17:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:59:55 GMT</lastBuildDate>
     <item>
       <title>有一些生活中的烦恼，希望大佬们指点迷津</title>
       <link>https://www.v2ex.com/t/1225029</link>
@@ -79,6 +79,16 @@
 </description>
     </item>
     <item>
+      <title>用 HK 节点 使用 Codex 时老是出现： stream disconnected before completion: tls handshake eof</title>
+      <link>https://www.v2ex.com/t/1225014</link>
+      <guid>v2ex-1225014</guid>
+      <pubDate>Sat, 04 Jul 2026 22:20:37 GMT</pubDate>
+      <description>&lt;p&gt;我发现我的机场 HK 节点虽然访问网站啥的很稳定也很快，但是在 Codex 中老是出现这个问题，好像是 ws 连接不上，然后切到 http 进行工作了。&lt;/p&gt;
+&lt;p&gt;但是我切到 JP 节点这个问题就少一些，但是我的 JP 节点整体不如 HK 快和稳定。&lt;/p&gt;
+&lt;p&gt;不知道你们有没有这个问题？你们使用 Claude Codex 时都用的哪个地区的节点？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>以前值钱的东西，现在都不值钱了，老登资产被时代抛弃</title>
       <link>https://www.v2ex.com/t/1225022</link>
       <guid>v2ex-1225022</guid>
@@ -87,16 +97,6 @@
 这些曾经花了百年树立的高级品牌，在时代的进步中，褪去了光环，最终被年轻人摒弃
 段永平/林园 这些人也属于老登，他们认为值钱的东西（白酒）在年轻人看来，毫无意义，现在有多少年轻人喜欢喝酒的？&lt;/p&gt;
 &lt;p&gt;我也曾经追逐过这些东西，而现在看来，纯属浪费钱&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>用 HK 节点 使用 Codex 时老是出现： stream disconnected before completion: tls handshake eof</title>
-      <link>https://www.v2ex.com/t/1225014</link>
-      <guid>v2ex-1225014</guid>
-      <pubDate>Sat, 04 Jul 2026 22:20:37 GMT</pubDate>
-      <description>&lt;p&gt;我发现我的机场 HK 节点虽然访问网站啥的很稳定也很快，但是在 Codex 中老是出现这个问题，好像是 ws 连接不上，然后切到 http 进行工作了。&lt;/p&gt;
-&lt;p&gt;但是我切到 JP 节点这个问题就少一些，但是我的 JP 节点整体不如 HK 快和稳定。&lt;/p&gt;
-&lt;p&gt;不知道你们有没有这个问题？你们使用 Claude Codex 时都用的哪个地区的节点？&lt;/p&gt;
 </description>
     </item>
     <item>
