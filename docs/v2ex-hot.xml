@@ -4,24 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 05 Jul 2026 14:13:46 GMT</lastBuildDate>
-    <item>
-      <title>哎，婚姻的意义是什么</title>
-      <link>https://www.v2ex.com/t/1224990</link>
-      <guid>v2ex-1224990</guid>
-      <pubDate>Sat, 04 Jul 2026 15:13:32 GMT</pubDate>
-      <description>&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;我和我老婆有个上幼儿园的小孩，出了月子后基本都是岳母在带，一开始我们没怎么固定给岳母补贴，从孩子两三岁开始每个月给岳母打 3000.我妈妈在孩子出生后带了个把月，后面我妈膝盖疼做了手术，之后去工作了（目的是攒一些养老钱）。我妈大约在孩子 3 岁的时候开始，每个月给我转账 2500 ，算是不带孩子的补偿，在这之前虽然每个月没有固定打钱，但是逢年过节会给点钱，而且经常会给孩子买三文鱼、牛肉这些东西。&lt;/p&gt;
-&lt;h2&gt;冲突&lt;/h2&gt;
-&lt;p&gt;我妈最近快失业了，于是我跟我老婆商量后面暂时先把每个月 2500 补贴给停了，等她找到工作了再说，我老婆当时也答应了，然后正巧我妈最近膝盖又疼了，我打算给她约个号去做个检查，为这事，我爸还提前给我打了 1000 ，但是我拒收了。&lt;/p&gt;
-&lt;p&gt;但是隔了两天，我老婆开始吐槽我妈太小气，说不让她给补贴还真不给，这不还没失业嘛，然后还说我妈妈看病我不许出钱，这是共同财产。我当时就火了，直接和她吵了起来。&lt;/p&gt;
-&lt;p&gt;我老婆的点：一直都是她妈妈在为我们付出，帮我们带孩子，而我妈妈给我们的帮助太少，失业了也不会主动提出来给我们带小孩，哪怕带一段时间，让外婆休息休息。另外，她觉得父母现在还没都失业，去做检查这点钱完全应该他们自己出&lt;/p&gt;
-&lt;p&gt;我的点：岳母给我们带了这么多年孩子，的确很辛苦很伟大，我也愿意额外多补充给岳母，哪怕再给十万也所谓（我老婆觉得我认为她妈妈带孩子的辛苦只值 10w ）。另外，我不是只有丈夫和爸爸一个角色，我还是一个儿子，我父母生病了我带他们去看病天经地义，不管是道德还是法律都站得住，未来如果她父母有这种情况让我们出钱我觉得不会说个不字，更何况，两边的老人其实都不会要子女的钱，但是直接命令式地不允许我给我妈妈看病出钱，也是在践踏我的尊严，凭什么！（收入情况，我大概是我老婆三倍样子）&lt;/p&gt;
-&lt;h2&gt;思考&lt;/h2&gt;
-&lt;p&gt;因为最近这个冲突让我开始怀疑婚姻的意义，我和我老婆是自由恋爱，虽然中间也有很多争吵，但也走到了现在，只是她最近的这个态度让我感觉很窒息。&lt;/p&gt;
-&lt;p&gt;各位 V 站的朋友，能不能从第三者角度理性地给个分析或者建议&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 15:42:37 GMT</lastBuildDate>
     <item>
       <title>有一些生活中的烦恼，希望大佬们指点迷津</title>
       <link>https://www.v2ex.com/t/1225029</link>
@@ -43,18 +26,6 @@
 &lt;p&gt;各位大佬有推荐吗？ &lt;/p&gt;
 &lt;p&gt;最好是自己住过一段时间后感觉宜居的地方&lt;/p&gt;
 &lt;p&gt;大家来贡献一下自己的体验吧&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>用 AI 生成一个小浣熊水浒卡鉴赏网站</title>
-      <link>https://www.v2ex.com/t/1225027</link>
-      <guid>v2ex-1225027</guid>
-      <pubDate>Sun, 05 Jul 2026 01:44:05 GMT</pubDate>
-      <description>&lt;p&gt;最近几年一直比较迷小浣熊水浒卡，去年小浣熊 30 周年又让水浒卡火了一把，所以就突发奇想搞个鉴赏网。&lt;/p&gt;
-&lt;p&gt;一个用于展示小浣熊水浒卡的响应式网站，提供卡片正反面鉴赏、基于 Three.js 的 3D 旋转与缩放、多版本卡片对比等功能，并支持 PC 端键盘操作及移动端触控交互。&lt;/p&gt;
-&lt;p&gt;项目功能由自己设计页面，借助 AI 生成代码，累计投入约 16 小时、重置了 5 轮 AI 用量周期，完成了素材搜集、开发调试、组件化重构、性能与交互体验优化、单元测试与线上部署等环节。&lt;/p&gt;
-&lt;p&gt;Github 地址： &lt;a href=&quot;https://github.com/pwstrick/water-card&quot; rel=&quot;nofollow&quot;&gt;https://github.com/pwstrick/water-card&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在线体验： &lt;a href=&quot;https://pwstrick.github.io/water-card/&quot; rel=&quot;nofollow&quot;&gt;https://pwstrick.github.io/water-card/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -94,6 +65,18 @@
 </description>
     </item>
     <item>
+      <title>用 AI 生成一个小浣熊水浒卡鉴赏网站</title>
+      <link>https://www.v2ex.com/t/1225027</link>
+      <guid>v2ex-1225027</guid>
+      <pubDate>Sun, 05 Jul 2026 01:44:05 GMT</pubDate>
+      <description>&lt;p&gt;最近几年一直比较迷小浣熊水浒卡，去年小浣熊 30 周年又让水浒卡火了一把，所以就突发奇想搞个鉴赏网。&lt;/p&gt;
+&lt;p&gt;一个用于展示小浣熊水浒卡的响应式网站，提供卡片正反面鉴赏、基于 Three.js 的 3D 旋转与缩放、多版本卡片对比等功能，并支持 PC 端键盘操作及移动端触控交互。&lt;/p&gt;
+&lt;p&gt;项目功能由自己设计页面，借助 AI 生成代码，累计投入约 16 小时、重置了 5 轮 AI 用量周期，完成了素材搜集、开发调试、组件化重构、性能与交互体验优化、单元测试与线上部署等环节。&lt;/p&gt;
+&lt;p&gt;Github 地址： &lt;a href=&quot;https://github.com/pwstrick/water-card&quot; rel=&quot;nofollow&quot;&gt;https://github.com/pwstrick/water-card&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在线体验： &lt;a href=&quot;https://pwstrick.github.io/water-card/&quot; rel=&quot;nofollow&quot;&gt;https://pwstrick.github.io/water-card/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>原来 FM 调频转播站晚上会关站</title>
       <link>https://www.v2ex.com/t/1225024</link>
       <guid>v2ex-1225024</guid>
@@ -119,6 +102,29 @@
       <description>&lt;p&gt;我发现我的机场 HK 节点虽然访问网站啥的很稳定也很快，但是在 Codex 中老是出现这个问题，好像是 ws 连接不上，然后切到 http 进行工作了。&lt;/p&gt;
 &lt;p&gt;但是我切到 JP 节点这个问题就少一些，但是我的 JP 节点整体不如 HK 快和稳定。&lt;/p&gt;
 &lt;p&gt;不知道你们有没有这个问题？你们使用 Claude Codex 时都用的哪个地区的节点？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>以前值钱的东西，现在都不值钱了，老登资产被时代抛弃</title>
+      <link>https://www.v2ex.com/t/1225022</link>
+      <guid>v2ex-1225022</guid>
+      <pubDate>Sun, 05 Jul 2026 00:30:36 GMT</pubDate>
+      <description>&lt;p&gt;比如 奔驰/路虎/茅台
+这些曾经花了百年树立的高级品牌，在时代的进步中，褪去了光环，最终被年轻人摒弃
+段永平/林园 这些人也属于老登，他们认为值钱的东西（白酒）在年轻人看来，毫无意义，现在有多少年轻人喜欢喝酒的？&lt;/p&gt;
+&lt;p&gt;我也曾经追逐过这些东西，而现在看来，纯属浪费钱&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Claude 被封了也不要去用 codex</title>
+      <link>https://www.v2ex.com/t/1225093</link>
+      <guid>v2ex-1225093</guid>
+      <pubDate>Sun, 05 Jul 2026 10:05:16 GMT</pubDate>
+      <description>&lt;ol&gt;
+&lt;li&gt;额度变少了&lt;/li&gt;
+&lt;li&gt;上下文压缩超时的问题依然没有解决&lt;/li&gt;
+&lt;li&gt;上下文太短&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
   </channel>
