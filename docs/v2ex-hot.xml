@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 07 Jul 2026 15:39:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:50:13 GMT</lastBuildDate>
     <item>
       <title>同事送了个洗碗机之后回不去了</title>
       <link>https://www.v2ex.com/t/1225553</link>
@@ -43,33 +43,11 @@
 </description>
     </item>
     <item>
-      <title>新加坡公司上班第二天被炒鱿鱼</title>
-      <link>https://www.v2ex.com/t/1225425</link>
-      <guid>v2ex-1225425</guid>
-      <pubDate>Mon, 06 Jul 2026 17:07:36 GMT</pubDate>
-      <description>&lt;p&gt;月初开始在新家坡老板开的一家儿童智能手表兼职做客服，因为跑 Python 脚本下载历史工单喂 AI 被威胁开除。说我下班以后没有关电脑，没有获得批准就下载脚本软件，没有知会因为并发连接数过高（ 24 线程）造成 5 分钟工单系统 403 错误下线，说我和国足一样没有集体意识。说我蓄意窃取公司数据，并在第二天把我电脑没收，造成无法打卡。&lt;/p&gt;
-&lt;p&gt;请大家评评理。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>使用 claude code 进行开发，一天用 600 人民币算多吗？</title>
       <link>https://www.v2ex.com/t/1225437</link>
       <guid>v2ex-1225437</guid>
       <pubDate>Tue, 07 Jul 2026 00:06:46 GMT</pubDate>
       <description>使用 claude code 进行公司项目开发，一天用 600 多人民币算多吗？&lt;br /&gt;各位佬都用多少呢？</description>
-    </item>
-    <item>
-      <title>小红书的骚操作会不会毁掉整个行业的 VIE？</title>
-      <link>https://www.v2ex.com/t/1225460</link>
-      <guid>v2ex-1225460</guid>
-      <pubDate>Tue, 07 Jul 2026 01:33:14 GMT</pubDate>
-      <description>&lt;p&gt;已核实，主要事实属实。&lt;/p&gt;
-&lt;p&gt;前小红书华南商业化负责人陈浩于 6 月 28/29 日实名向港交所及香港证监会提交投诉，附一二审判决书、期权诉讼卷宗等材料。&lt;/p&gt;
-&lt;p&gt;他在 2022 年入职获境外期权，2023 年底行权前 5 个月被解约。法院认定违法解除，判赔违法解除金+期权损失（合计约 85 万），并明确 VIE 架构下期权属劳动报酬。这是国内首例相关司法认定。&lt;/p&gt;
-&lt;p&gt;公司曾在诉讼中主张“境内运营实体与境外期权主体无关联”，但 VIE 红筹上市需证明控制关系并合并报表，举报直指此披露矛盾及系统性劳工合规问题（称近 50 名前员工类似遭遇）。&lt;/p&gt;
-&lt;p&gt;正值小红书筹备港股 IPO （ 6 月中传闻月底秘密递表，估值传闻 200-310 亿）敏感期，可能引发监管问询、审核延期或补充材料，但&lt;strong&gt;目前无官方确认上市计划已失败、撤回或估值暴跌&lt;/strong&gt;，小红书暂无回应。&lt;/p&gt;
-&lt;p&gt;VIE 灰色地带被司法证据穿透，对行业确有警示意义，但“毁掉整个 VIE”仍属推测。打工人用法院判决维权，合规风险值得持续关注。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>华为天才少年吐槽 DeepSeek 面试不规范，程序员的你怎么看？</title>
@@ -98,6 +76,19 @@
 &lt;blockquote&gt;
 &lt;p&gt;DeepSeek6 月 25 日发布公告广招人才，称当今人类正处于通用人工智能（ AGI ）的前夜，加入 DeepSeek ，可亲历 AGI 的发展进程，坐在时代前排，见证一个新纪元的诞生，“随着技术演进，我们正努力将所有部门的规模扩大至少一倍。”&lt;/p&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    <item>
+      <title>小红书的骚操作会不会毁掉整个行业的 VIE？</title>
+      <link>https://www.v2ex.com/t/1225460</link>
+      <guid>v2ex-1225460</guid>
+      <pubDate>Tue, 07 Jul 2026 01:33:14 GMT</pubDate>
+      <description>&lt;p&gt;已核实，主要事实属实。&lt;/p&gt;
+&lt;p&gt;前小红书华南商业化负责人陈浩于 6 月 28/29 日实名向港交所及香港证监会提交投诉，附一二审判决书、期权诉讼卷宗等材料。&lt;/p&gt;
+&lt;p&gt;他在 2022 年入职获境外期权，2023 年底行权前 5 个月被解约。法院认定违法解除，判赔违法解除金+期权损失（合计约 85 万），并明确 VIE 架构下期权属劳动报酬。这是国内首例相关司法认定。&lt;/p&gt;
+&lt;p&gt;公司曾在诉讼中主张“境内运营实体与境外期权主体无关联”，但 VIE 红筹上市需证明控制关系并合并报表，举报直指此披露矛盾及系统性劳工合规问题（称近 50 名前员工类似遭遇）。&lt;/p&gt;
+&lt;p&gt;正值小红书筹备港股 IPO （ 6 月中传闻月底秘密递表，估值传闻 200-310 亿）敏感期，可能引发监管问询、审核延期或补充材料，但&lt;strong&gt;目前无官方确认上市计划已失败、撤回或估值暴跌&lt;/strong&gt;，小红书暂无回应。&lt;/p&gt;
+&lt;p&gt;VIE 灰色地带被司法证据穿透，对行业确有警示意义，但“毁掉整个 VIE”仍属推测。打工人用法院判决维权，合规风险值得持续关注。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -169,6 +160,13 @@
 &lt;/ol&gt;
 &lt;p&gt;是不是这种工作只会靠血脉传承？难道这就是普通人找工作不可能三角？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>银行科技欲离职求打醒</title>
+      <link>https://www.v2ex.com/t/1225545</link>
+      <guid>v2ex-1225545</guid>
+      <pubDate>Tue, 07 Jul 2026 05:03:34 GMT</pubDate>
+      <description>社招进银行，这两年科技换天（一把手换人），项目黄了，小领导出走，打杂，混日子中，近期换了个中层小领导、不待见这个人，主观认为人品不行，溜须拍马，使绊子。 欲离职大龄码农 boss 脉脉 基本没个响声儿。怎么破</description>
     </item>
   </channel>
 </rss>
