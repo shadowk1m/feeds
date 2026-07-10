@@ -4,99 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 10 Jul 2026 01:51:20 GMT</lastBuildDate>
-    <item>
-      <title>分享一个东西。。别骂我</title>
-      <link>https://www.v2ex.com/t/1226024</link>
-      <guid>v2ex-1226024</guid>
-      <pubDate>Thu, 09 Jul 2026 02:29:37 GMT</pubDate>
-      <description>http://118.31.71.208/&lt;br /&gt;&lt;br /&gt;不管问什么他都会骂你&lt;br /&gt;&lt;br /&gt;不喜勿喷 纯节目效果</description>
-    </item>
-    <item>
-      <title>有些亲戚真是不当人</title>
-      <link>https://www.v2ex.com/t/1226033</link>
-      <guid>v2ex-1226033</guid>
-      <pubDate>Thu, 09 Jul 2026 02:52:15 GMT</pubDate>
-      <description>&lt;p&gt;周五下午正在库库写代码，突然接到老婆电话，哭着说她妈妈被人骂了 受欺负了。我脑子嗡了一下，稳定了下老婆的情绪，问是什么情况。原来是她妈妈被她小姨夫骂，就因为她小姨给她妈妈了二千多块钱。（她小姨开了个小鞋厂，老婆的妈妈一直在这个鞋厂帮她小姨干活，前段时间老婆的父亲也没啥事来帮忙了快一个月，所以才有了这个钱）。之前一直听老婆说，她小姨其实对她妈妈也一般。（她小姨小姨夫两人平常也不对付，小姨夫好吃懒做不管事） &lt;/p&gt;
-&lt;p&gt;听到这 当时火气就上来了，他妈的以为孩子没在家就欺负老人？ 当即我请假也让老婆请了假，开车开七百公里回她老家。 开到地方已经晚上 11 点了，路上打她小姨夫电话没人接，倒是她小姨的电话打通了，先是一顿输出，自知理亏对面也没反驳什么。&lt;/p&gt;
-&lt;p&gt;第二天准备开车找她小姨夫，被老婆妈妈拦着不让去，最后没办法了，我让我老婆在家陪着妈妈，我自己打着出去买东西的幌子开车去了，因为他们的厂在隔壁县城，开了一会到了，到厂里找人没找到，问她小姨竟然说不知道。好好好，搞了半天是欺软怕硬啊。给老婆打了个电话问问想怎么处理，老婆考虑这边的亲戚关系，不想闹得太僵 再加上找不到小姨夫算了。 我还是气不过，对她小姨一顿输出后就走了。 这要是我妈这边亲戚敢这样，我干死他。&lt;/p&gt;
-&lt;p&gt;最后给老婆妈妈接到我家这边来住了，可惜就是闲着没事干 闲不住，最后找到家里人给在学校找了份包吃住的工作去做了。 老婆的妈妈虽然没什么文化，但人真是勤劳，天天别人都下班了，自己还没事晚上干会，就这还能被一些垃圾亲戚说三道四。&lt;/p&gt;
-&lt;p&gt;有些亲戚，真是挣两个小钱以为自己牛的不行了，人也垃圾，自己的亲姐姐被骂 连句安慰的话都没说，让人家自己回去了。最不要脸的是，过了两天还给老婆妈妈打电话让回去，真是恶心。&lt;/p&gt;
-&lt;p&gt;后来我才知道，这件事还不是老婆的妈妈说的，是老婆的舅舅知道了告诉的我们。 可惜舅舅年纪也大了，说他们不管用，无果才告诉我们的事情，想到这 真是心疼妈妈。 不知道以前是不是都发生过这种事情了，反正以后也跟老婆说了，让咱妈想干嘛都行，就是不能去亲戚家那边，需要钱我们出就行。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>我开始在代码中使用中文变量名了</title>
-      <link>https://www.v2ex.com/t/1226060</link>
-      <guid>v2ex-1226060</guid>
-      <pubDate>Thu, 09 Jul 2026 04:10:48 GMT</pubDate>
-      <description>&lt;p&gt;有句名言说，计算机科学中只有两件难事：缓存失效和命名。&lt;/p&gt;
-&lt;p&gt;最近在开发一个文字游戏，有关汉字的描述特别多。如何在代码中为相关的变量起一个贴切、适合的名字简直要了老命。直接用汉语描述翻译成英文，不但很长，而且我也没有精力时间去判断生成的英文到底对不对，特别是是一些成语和俗语等根本没法翻译。&lt;/p&gt;
-&lt;p&gt;如果用拼音，问题更多了。用全称名字也很长，而且同音字这么多，一眼看到还得想到底是啥意思。用拼音简称那就加灾难了（ nbnhhsh 能不能好好说话）。&lt;/p&gt;
-&lt;p&gt;最后，我终于决定使用中文变量名。一用才知道，真香！描述概念很贴切，真正做到了见名知意，写起代码来行云流水，连注释都不需要。&lt;/p&gt;
-&lt;p&gt;2025 年了，HTML5 以及很多编程语言对 Unicode 的支持已经相当完善，中文的变量名称一点儿都不会有问题。借助 AI 与编辑器，补全与跳转更是不在话下。&lt;/p&gt;
-&lt;p&gt;说到这里，诸位计算机大神要来喷我了，我试着反驳一下，如果你坚持，那就是你对。&lt;/p&gt;
-&lt;p&gt;问：用中文频繁切换输入法会让写代码更慢？&lt;/p&gt;
-&lt;p&gt;答：不会。首先我用系统自带输入法，用 shift 一键就能切换，按照代码规范，英文命名还要驼峰大小写。最关键是我不需想变量描述的英文表达，中文简单明了，实际上会更快。再说了，又不是打字员，快有啥用啊？&lt;/p&gt;
-&lt;p&gt;问：用中文导致编码问题？&lt;/p&gt;
-&lt;p&gt;答：代码经过打包工具转译后会成为 abcd 等字符，不会对运行造成影响。&lt;/p&gt;
-&lt;p&gt;问：协作问题？&lt;/p&gt;
-&lt;p&gt;答：这是个私人项目，不存在与他人协作，更不会和外国人协作。&lt;/p&gt;
-&lt;p&gt;问：用中文太低端了，英文名称更加上档次？&lt;/p&gt;
-&lt;p&gt;答：去看看脑子，用蹩脚和充满语法错误的英文才能让你获得自信，病得不轻。&lt;/p&gt;
-&lt;p&gt;就这些了，希望对大家有所启发。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;case&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/PIgbGe9.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>最近太热啦，电费扛不住啦</title>
-      <link>https://www.v2ex.com/t/1226099</link>
-      <guid>v2ex-1226099</guid>
-      <pubDate>Thu, 09 Jul 2026 06:44:56 GMT</pubDate>
-      <description>最近几天气温一直上升，也不下雨，晚上不开空调根本没法子睡，这个空调制冷效果是好，就是钱包遭不住。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/7K3i6Gx.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/7K3i6Gx.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/n6DCTjO.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/n6DCTjO.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>还会推荐学生报考计算机吗</title>
-      <link>https://www.v2ex.com/t/1226034</link>
-      <guid>v2ex-1226034</guid>
-      <pubDate>Thu, 09 Jul 2026 02:53:13 GMT</pubDate>
-      <description>&lt;p&gt;在当前互联网大厂裁员的趋势和大模型的发展下，对于一个本科生四年毕业后，是否还会有很好的就业市场。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>本人女，坐标二线城市，请问该如何陪嫁？</title>
-      <link>https://www.v2ex.com/t/1226098</link>
-      <guid>v2ex-1226098</guid>
-      <pubDate>Thu, 09 Jul 2026 06:37:39 GMT</pubDate>
-      <description>&lt;p&gt;到了谈婚论嫁的地步，本来彩礼已经商量好了，但是因为前段时间吵架，男方说了很难听的话，我提了分手，双方的父母也知道事情的经过，男方的父母登门致歉好几次，在原来商量好的彩礼上多加了很多变成了（彩礼 28.8+金子 200g+除婚房外市区一套房，房子是万科的位置还不错），我觉得很有诚意就原谅了，那么问题来了，我们家如何陪嫁？我该怎么选择？父母商量的是陪嫁同等的 28.8+给我换一辆新的车/一套房子（但是房子一般位置不太好）+50g 黄金，求大佬们支招&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>最近散帅这个词经常看到</title>
-      <link>https://www.v2ex.com/t/1226012</link>
-      <guid>v2ex-1226012</guid>
-      <pubDate>Thu, 09 Jul 2026 02:01:14 GMT</pubDate>
-      <description>&lt;p&gt;以模仿某书女性的方式，有没有屌大的搞一个《大蓝赢》的 app&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[求助] 预算有限，求推荐高性价比的 2.5G 软路由裸机方案</title>
-      <link>https://www.v2ex.com/t/1226042</link>
-      <guid>v2ex-1226042</guid>
-      <pubDate>Thu, 09 Jul 2026 03:07:35 GMT</pubDate>
-      <description>&lt;p&gt;最近搬家，移机的时候被联通小哥忽悠升级了套餐加 8 块从千兆升到 2000M ，结果被上了一课，光猫花了 200 换了个阉割定制版的中兴 ax3000 ，等他走后查了下几十块。。。&lt;/p&gt;
-&lt;p&gt;而且现在用的 j1900 软路由，千兆都悬，就想着事到如此只能升级了，看了下 n4100 和 j4125 ，裸机都要 400+，有点超预算了，想请教下大佬们，现在还有没有更便宜、性价比高的 2.5G 软路由方案哇？或者二手市场有什么捡漏的推荐？&lt;/p&gt;
-&lt;p&gt;事后回想真是一步加，步步加。要是不升级宽带啥也不用管，现在好了，一心就想把设备全换了，又要大出血了哈哈！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>媳妇这两年经常长白头发，平时压力也不是很大，常规检查也做过，还有哪些可以排查呢</title>
-      <link>https://www.v2ex.com/t/1226029</link>
-      <guid>v2ex-1226029</guid>
-      <pubDate>Thu, 09 Jul 2026 02:45:05 GMT</pubDate>
-      <description>&lt;p&gt;媳妇 00 年的，也不怎么加班，但是睡眠质量不好，这两年发现白头发越来越多，白变黑是不指望了，有什么办法能找到是为什么长白头发的呢？ 还有哪些项目值得检查呢？&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 05:53:16 GMT</lastBuildDate>
     <item>
       <title>[0710 内测] Brivionix（Codex Pro 池）— GPT-5.6 / 5.5 / 5.4/5.3，回帖留 ID 送 $5</title>
       <link>https://www.v2ex.com/t/1226243</link>
@@ -123,6 +31,61 @@
 &lt;p&gt;回帖留下注册用户 ID ，每人送 &lt;strong&gt;$5 额度&lt;/strong&gt;，限前&lt;strong&gt;60 位&lt;/strong&gt;，先到先得。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://brivionix.com/&quot; rel=&quot;nofollow&quot;&gt;brivionix.com&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>最近太热啦，电费扛不住啦</title>
+      <link>https://www.v2ex.com/t/1226099</link>
+      <guid>v2ex-1226099</guid>
+      <pubDate>Thu, 09 Jul 2026 06:44:56 GMT</pubDate>
+      <description>最近几天气温一直上升，也不下雨，晚上不开空调根本没法子睡，这个空调制冷效果是好，就是钱包遭不住。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/7K3i6Gx.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/7K3i6Gx.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/n6DCTjO.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/n6DCTjO.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>限韩令和韩国当前的影视行业发展有没有关系？</title>
+      <link>https://www.v2ex.com/t/1226130</link>
+      <guid>v2ex-1226130</guid>
+      <pubDate>Thu, 09 Jul 2026 08:39:10 GMT</pubDate>
+      <description>&lt;p&gt;除了韩国还有其它国家被类似限韩令限制么？如果韩国是唯一被限制的，那韩国当前影视行业的爆发式发展，跟限韩令是不是也有关系？为什么偏偏被限制的那个，成了新的东方好莱坞，让人不自觉会产生联想。&lt;/p&gt;
+&lt;p&gt;失去了大陆的市场，没有自我审查，反而可以放开手来大干一场？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>现在推荐入手 Switch2 么？</title>
+      <link>https://www.v2ex.com/t/1226266</link>
+      <guid>v2ex-1226266</guid>
+      <pubDate>Fri, 10 Jul 2026 01:35:41 GMT</pubDate>
+      <description>&lt;p&gt;之前发过一个帖子，发现 V 友休息日做的事情还挺多🤣　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+那要是时间不够，只能在家，该玩点啥呢　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+Switch 设备 之前我就在看了，现在适合入手吗？　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+而且我刷到过一些帖子，看他们是可以接入到电视机上面玩的，那是 Switch2 还是 PS5 ？　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+第一次了解这种设备，有无 V 友科普下🙄
+&lt;img alt=&quot;我的头像&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.cdn1.vip/i/6a504b4de991b_1783647053.webp&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>要降薪了.该怎么应对呢</title>
+      <link>https://www.v2ex.com/t/1226228</link>
+      <guid>v2ex-1226228</guid>
+      <pubDate>Fri, 10 Jul 2026 00:14:54 GMT</pubDate>
+      <description>&lt;p&gt;听说是降幅 15%—20%&lt;br/&gt;
+难顶啊&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>这个月开始补社保了</title>
+      <link>https://www.v2ex.com/t/1226299</link>
+      <guid>v2ex-1226299</guid>
+      <pubDate>Fri, 10 Jul 2026 02:27:41 GMT</pubDate>
+      <description>&lt;p&gt;坐标南京，这个月纳税明细已经申报了，或者说上个月。&lt;/p&gt;
+&lt;p&gt;1-5 月社保扣除 500 ，6 月申报扣除 2100 ，公积金还是 420 没变&lt;/p&gt;
+&lt;p&gt;到手工资又要少了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>在不换号的情况下怎么让移动或者联通用更多流量</title>
+      <link>https://www.v2ex.com/t/1226091</link>
+      <guid>v2ex-1226091</guid>
+      <pubDate>Thu, 09 Jul 2026 06:21:56 GMT</pubDate>
+      <description>多年老用户了，两张卡都绑定了很多东西，不好换号了，现在流量不够用，又不想办理太贵的套餐，有什么好的办法吗</description>
     </item>
   </channel>
 </rss>
