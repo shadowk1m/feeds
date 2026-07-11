@@ -4,50 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 11 Jul 2026 10:38:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:42:39 GMT</lastBuildDate>
     <item>
       <title>为了省下每年几万的的费用，用 ai 做了完整的 erp</title>
       <link>https://www.v2ex.com/t/1226505</link>
       <guid>v2ex-1226505</guid>
       <pubDate>Fri, 10 Jul 2026 15:55:22 GMT</pubDate>
       <description>我们有自己的电商平台，当然也在各家电商上售卖产品。&lt;br /&gt;然后对接云仓时，感觉那些 erp 卖的贵，系统还老旧，去对接到自己的业务定制化的电商流程也不见得好对接，&lt;br /&gt;索性就自己开发了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;其实最花时间的地方是需求整理，&lt;br /&gt;云仓的人沟通起来比想象中要难，体系复杂笨重且陈旧。&lt;br /&gt;做完之后现在觉得需求也就这些了。&lt;br /&gt;但是第一次接触电商，第一次接触云仓，对需求没有全局视角，没有经验指导，探索起来还是很痛苦的，很多数据模型也因为缺乏经验指导，后期才发现有问题又各种改。&lt;br /&gt;&lt;br /&gt;好在有 Claude code 加持，并行开发，对抗审查，浏览器模拟调用测试，&lt;br /&gt;就这么吭哧吭哧的，还做了得有一周的时间。&lt;br /&gt;&lt;br /&gt;自己的脑力真的是有些跟不上了，为了提高开发效率就要并行思考很多事，尤其是 ai 开始工作时，你就一刻不歇的去思考其他事情了，然后各种事情贴了一堆待办，但是前面 AI 的产出又可能产生很多预期外的变化与分支，导致又影响了你原本计划记下来要做的事。&lt;br /&gt;&lt;br /&gt;过去开发体验还是很舒服的，但这次因为赶工期，又是从 0 构建，没有很多时间去好好 review 和消化产出。&lt;br /&gt;&lt;br /&gt;于是更深刻的感受到，ai 辅助编程对脑力的消耗真的很大，你要被 ai 推着去思考，再加上因为开发节奏快，很多写出来的东西自己本身就不熟，ai 再说很多黑话或者说简略的话，根本不知道他在说啥，扔一堆让我决策的我都听不懂，还得去先研究明白他在说啥。</description>
-    </item>
-    <item>
-      <title>V2EX 支持举报了, V 友们可以通过这个插件脚本来实现举报站内帖子, 联通 V2EX 的通知系统, 快速通知到对应的管理员.</title>
-      <link>https://www.v2ex.com/t/1226524</link>
-      <guid>v2ex-1226524</guid>
-      <pubDate>Sat, 11 Jul 2026 00:42:00 GMT</pubDate>
-      <description>&lt;p&gt;一键安装地址: &lt;a href=&quot;https://github.com/HelloWorldImJoe/TampermonkeyScripts/raw/master/v2ex-scene-script.user.js&quot; rel=&quot;nofollow&quot;&gt;v2ex-scene-script.user.js&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;脚本仓库地址: &lt;a href=&quot;https://github.com/HelloWorldImJoe/TampermonkeyScripts/blob/master/v2ex-scene-script.user.js&quot; rel=&quot;nofollow&quot;&gt;v2ex-scene-script.user.js&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;没错, 还是原来的那个插件, 已经安装的 V 友应该会收到推送通知, 哈哈哈.&lt;/p&gt;
-&lt;hr/&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这个地方添加了一个举报按钮
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BaSTXVg.png&quot;/&gt; &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;点击之后会弹一个窗口, 支持选择对应的管理员, 当前默认是我, 后面的改变选择会持久化到本地&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;下方输入举报原因&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/hK8W37H.png&quot;/&gt; &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;点击确定之后会唤起钱包进行支付, 支付完成之后, 会在左下角提示状态.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;管理员这边收到消息大概是这样的:&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BlBNCHx.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>书接上文，确认了是个博彩和区块链的公司，想请教大佬们一些问题</title>
-      <link>https://www.v2ex.com/t/1226526</link>
-      <guid>v2ex-1226526</guid>
-      <pubDate>Sat, 11 Jul 2026 01:04:07 GMT</pubDate>
-      <description>书接上文。&lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1225533?p=1#reply65&quot;&gt;https://www.v2ex.com/t/1225533?p=1#reply65&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;说是国内试用期 3 个月远程发 u ，&lt;br /&gt;试用期转正后要去东京。说是办工签，有住宿，或者自己租房住&lt;br /&gt;交当地流水最低社保，其余的发 u ，3 个月有一周假期可以回国。机票也是自己买，直飞东京。&lt;br /&gt;&lt;br /&gt;hr 说是运营在菲律宾，东京只是研发团队，有菲律宾的运营执照&lt;br /&gt;&lt;br /&gt;地址好像是： &lt;a target=&quot;_blank&quot; href=&quot;https://www.playtime.ph/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.playtime.ph/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;以及这公司靠不靠谱，在日本那边怎样（虽然对方说拿到合规经营）</description>
     </item>
     <item>
       <title>小米手机强制更新系统</title>
@@ -70,6 +33,13 @@
       <guid>v2ex-1226541</guid>
       <pubDate>Sat, 11 Jul 2026 03:05:34 GMT</pubDate>
       <description>7.11 号土区续费的 GPT plus 还是 499 里拉，下个周期也是</description>
+    </item>
+    <item>
+      <title>书接上文，确认了是个博彩和区块链的公司，想请教大佬们一些问题</title>
+      <link>https://www.v2ex.com/t/1226526</link>
+      <guid>v2ex-1226526</guid>
+      <pubDate>Sat, 11 Jul 2026 01:04:07 GMT</pubDate>
+      <description>书接上文。&lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1225533?p=1#reply65&quot;&gt;https://www.v2ex.com/t/1225533?p=1#reply65&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;说是国内试用期 3 个月远程发 u ，&lt;br /&gt;试用期转正后要去东京。说是办工签，有住宿，或者自己租房住&lt;br /&gt;交当地流水最低社保，其余的发 u ，3 个月有一周假期可以回国。机票也是自己买，直飞东京。&lt;br /&gt;&lt;br /&gt;hr 说是运营在菲律宾，东京只是研发团队，有菲律宾的运营执照&lt;br /&gt;&lt;br /&gt;地址好像是： &lt;a target=&quot;_blank&quot; href=&quot;https://www.playtime.ph/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.playtime.ph/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;以及这公司靠不靠谱，在日本那边怎样（虽然对方说拿到合规经营）</description>
     </item>
     <item>
       <title>实际上发现大多人 A 股赚不到钱都是割肉造成的</title>
