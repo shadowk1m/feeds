@@ -4,15 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 11 Jul 2026 04:52:41 GMT</lastBuildDate>
-    <item>
-      <title>用 AI 重新写个手机操作系统是不是可行的？</title>
-      <link>https://www.v2ex.com/t/1226358</link>
-      <guid>v2ex-1226358</guid>
-      <pubDate>Fri, 10 Jul 2026 05:27:17 GMT</pubDate>
-      <description>&lt;p&gt;有没有人有兴趣，一起玩？&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 07:04:38 GMT</lastBuildDate>
     <item>
       <title>如何炒股，才能稳赚</title>
       <link>https://www.v2ex.com/t/1226429</link>
@@ -30,25 +22,11 @@
       <description>我们有自己的电商平台，当然也在各家电商上售卖产品。&lt;br /&gt;然后对接云仓时，感觉那些 erp 卖的贵，系统还老旧，去对接到自己的业务定制化的电商流程也不见得好对接，&lt;br /&gt;索性就自己开发了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;其实最花时间的地方是需求整理，&lt;br /&gt;云仓的人沟通起来比想象中要难，体系复杂笨重且陈旧。&lt;br /&gt;做完之后现在觉得需求也就这些了。&lt;br /&gt;但是第一次接触电商，第一次接触云仓，对需求没有全局视角，没有经验指导，探索起来还是很痛苦的，很多数据模型也因为缺乏经验指导，后期才发现有问题又各种改。&lt;br /&gt;&lt;br /&gt;好在有 Claude code 加持，并行开发，对抗审查，浏览器模拟调用测试，&lt;br /&gt;就这么吭哧吭哧的，还做了得有一周的时间。&lt;br /&gt;&lt;br /&gt;自己的脑力真的是有些跟不上了，为了提高开发效率就要并行思考很多事，尤其是 ai 开始工作时，你就一刻不歇的去思考其他事情了，然后各种事情贴了一堆待办，但是前面 AI 的产出又可能产生很多预期外的变化与分支，导致又影响了你原本计划记下来要做的事。&lt;br /&gt;&lt;br /&gt;过去开发体验还是很舒服的，但这次因为赶工期，又是从 0 构建，没有很多时间去好好 review 和消化产出。&lt;br /&gt;&lt;br /&gt;于是更深刻的感受到，ai 辅助编程对脑力的消耗真的很大，你要被 ai 推着去思考，再加上因为开发节奏快，很多写出来的东西自己本身就不熟，ai 再说很多黑话或者说简略的话，根本不知道他在说啥，扔一堆让我决策的我都听不懂，还得去先研究明白他在说啥。</description>
     </item>
     <item>
-      <title>后续: 老板要求用 AI 几周完成一年的工作量</title>
-      <link>https://www.v2ex.com/t/1226380</link>
-      <guid>v2ex-1226380</guid>
-      <pubDate>Fri, 10 Jul 2026 06:28:41 GMT</pubDate>
-      <description>&lt;p&gt;前情提要: &lt;a href=&quot;https://www.v2ex.com/t/1211896#reply101&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1211896#reply101&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;其实已经过了一段时间了. 但是一直太忙所以现在才写出来。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;省流太长不看版本: 没做完&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;虽然老板给了一个月时间，但并没有暂停其他产品需求, 估计没想到。产品经理也不知道这件事，所以产品需求还是照常排期、照常交付。导致重构前几周基本没有实质进展，大家还是在做原本的业务需求。&lt;/p&gt;
-&lt;p&gt;到了 ddl 前一周的周五周会，老板发飙，要求必须在期限内完成，做不完就走人。而且他的要求变了, 不是小范围整理代码或抽离部分模块，而是要把一个大单体服务拆成多个微服务。至于服务之间的历史依赖、数据依赖、业务边界、灰度方案、回滚方案、测试覆盖这些问题，因为当时气氛的原因没有讨论, 后面也没空讨论了。&lt;/p&gt;
-&lt;p&gt;其中一个组把任务交给了一个刚入职不久的&lt;strong&gt;新人&lt;/strong&gt;。DDL 前几天，组长不知道为啥在老板也在的大群里 at 新人的导师，问当前进度如何。导师回复说进度不理想，时间紧、任务重，需要更多支持。被老板看到了, 出来发话说：&lt;strong&gt;你这就是不会用 Agent 。你可以让 Agent 去做嘛, 读代码、生成测试用例，然后你人看下方案有无问题，把边界和方向定好，一个晚上就能写完了&lt;/strong&gt;。 &lt;/p&gt;
-&lt;p&gt;到了 DDL 当天上午，项目经理在 TL 群(无老板的)里要求大家汇报进度。一个 TL 向项目经理质疑，说这本身就是一个不合理的需求，目前大家做的东西根本不能称为重构，甚至方向都是偏的。项目经理很礼貌地请他把这个观点发到老板在的大群里。这个 TL 回复说可以。&lt;strong&gt;之后这个群没有下文，老板在的大群也没有新的信息&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;到了下午，项目经理在老板在的大群里 at 全员要求汇报进度。大家纷纷表示自己模块已经完成了重构，对应的微服务也已经实现完成。我不知道是不是真的, 反正我没做完, 但我随大流。&lt;/p&gt;
-&lt;p&gt;实在好奇就去看了一下:&lt;/p&gt;
-&lt;p&gt;新人负责的服务，建了一个仓库，里面有个 HTTP client 接收。没了。&lt;/p&gt;
-&lt;p&gt;上午说“这不是重构”的 TL ，我没找到对应模块的仓库。&lt;/p&gt;
-&lt;p&gt;但这并不妨碍大家说自己已经做完了, 反正也没人细究。而老板表示很满意，随后约了第二天的会议，要求大家分享这次使用 AI 重构的经验。&lt;/p&gt;
-&lt;p&gt;在第二天会议上，几个人分享了一些 Agent 使用经验, 就是一些让 Agent 自己记录错误、形成 loop 、不断修正之类的常规方法。&lt;/p&gt;
-&lt;p&gt;最后老板做总结，说这次实践是公司通往 AI 原生的一大步。大家鼓掌撒花....&lt;/p&gt;
-</description>
+      <title>如何看最近很火的抗衰老补剂, 又一智商税还是真有料?</title>
+      <link>https://www.v2ex.com/t/1226521</link>
+      <guid>v2ex-1226521</guid>
+      <pubDate>Sat, 11 Jul 2026 00:36:56 GMT</pubDate>
+      <description>锐拓龄好像各大平台都卖断现货了, ai 科普也是说这次似乎比以前的智商税产品科学很多, 至少小鼠抗衰老实验效果比较乐观.&lt;br /&gt;要考虑买来给家里老人用吗? 如果真的管用能延长 20 年寿命, 未来养老金这块儿就有意思了, 有钱人靠抗衰老技术活得久领的多, 穷人早死领不到.</description>
     </item>
     <item>
       <title>今天正式回撤完所有利润，开始亏本金</title>
@@ -59,11 +37,82 @@
 </description>
     </item>
     <item>
-      <title>如何看最近很火的抗衰老补剂, 又一智商税还是真有料?</title>
-      <link>https://www.v2ex.com/t/1226521</link>
-      <guid>v2ex-1226521</guid>
-      <pubDate>Sat, 11 Jul 2026 00:36:56 GMT</pubDate>
-      <description>锐拓龄好像各大平台都卖断现货了, ai 科普也是说这次似乎比以前的智商税产品科学很多, 至少小鼠抗衰老实验效果比较乐观.&lt;br /&gt;要考虑买来给家里老人用吗? 如果真的管用能延长 20 年寿命, 未来养老金这块儿就有意思了, 有钱人靠抗衰老技术活得久领的多, 穷人早死领不到.</description>
+      <title>实际上发现大多人 A 股赚不到钱都是割肉造成的</title>
+      <link>https://www.v2ex.com/t/1226494</link>
+      <guid>v2ex-1226494</guid>
+      <pubDate>Fri, 10 Jul 2026 14:23:05 GMT</pubDate>
+      <description>&lt;p&gt;大部分人盲目的跟趋势，关注抖音 X 上的荐股哪些，实际上这几天又怎么样了？
+趋势很重要，但是也没那么重要，如果一个票位置 ok ，网格交易基本不会亏
+不用乱七八糟的技术分析，最近的 ai 应用，又开始筑底了，不用大仓位进去，控制仓位管理，10%底仓进去蹲着，
+盈利就吃，吃到压力位就跑，如亏-15 个点，就补仓加仓，反弹到压力位就卖，不用考虑那么多，说什么小仓位能不挣钱，大仓位好玩，亏赚都一样，稳步前行，大部分人亏在了仓位管理上，&lt;/p&gt;
+&lt;p&gt;ai 了一下，看下边舒适度更高点&lt;/p&gt;
+&lt;p&gt;📊 聊聊 A 股：为什么大多数人赚不到钱？（兼谈我的仓位管理策略）
+最近大部分人都在盲目地跟趋势，天天盯着抖音、X （推特）上的各种荐股。实际上，这几天行情一变，那些所谓的“神股”又怎么样了呢？&lt;/p&gt;
+&lt;p&gt;趋势固然重要，但也没想象中那么重要。 如果一个标的位置足够低、足够安全，配合好网格交易，基本上是很难亏钱的。&lt;/p&gt;
+&lt;p&gt;💡 我的操作思路：抛弃复杂技术分析，专注仓位管理
+不用去整那些乱七八糟的技术分析，最近 AI 应用板块又开始筑底了。我的策略很简单：&lt;/p&gt;
+&lt;p&gt;控制总仓位： 绝不大仓位一把梭，大部分人其实就亏在仓位管理上。&lt;/p&gt;
+&lt;p&gt;建仓（ 10% 底仓）： 先用小资金（ 10% 底仓）进去蹲着，保持心态平和。&lt;/p&gt;
+&lt;p&gt;止盈策略： 只要盈利了就吃，一旦股价吃到压力位，果断落袋为安。&lt;/p&gt;
+&lt;p&gt;补仓与反弹（拉低成本）：&lt;/p&gt;
+&lt;p&gt;如果买入后遭遇回调，亏损达到 -15%，就执行补仓加仓；&lt;/p&gt;
+&lt;p&gt;等到股价反弹到压力位，再把补仓的部分卖掉，滚动操作。&lt;/p&gt;
+&lt;p&gt;🎯 总结
+不用考虑那么多复杂的宏观叙事。别总说什么“小仓位挣不到钱、大仓位才好玩”，在市场里，亏和赚的本质是一样的。&lt;/p&gt;
+&lt;p&gt;小步慢跑，控制好仓位，稳步前行才是硬道理。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>书接上文，确认了是个博彩和区块链的公司，想请教大佬们一些问题</title>
+      <link>https://www.v2ex.com/t/1226526</link>
+      <guid>v2ex-1226526</guid>
+      <pubDate>Sat, 11 Jul 2026 01:04:07 GMT</pubDate>
+      <description>书接上文。&lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1225533?p=1#reply65&quot;&gt;https://www.v2ex.com/t/1225533?p=1#reply65&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;说是国内试用期 3 个月远程发 u ，&lt;br /&gt;试用期转正后要去东京。说是办工签，有住宿，或者自己租房住&lt;br /&gt;交当地流水最低社保，其余的发 u ，3 个月有一周假期可以回国。机票也是自己买，直飞东京。&lt;br /&gt;&lt;br /&gt;hr 说是运营在菲律宾，东京只是研发团队，有菲律宾的运营执照&lt;br /&gt;&lt;br /&gt;地址好像是： &lt;a target=&quot;_blank&quot; href=&quot;https://www.playtime.ph/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.playtime.ph/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;以及这公司靠不靠谱，在日本那边怎样（虽然对方说拿到合规经营）</description>
+    </item>
+    <item>
+      <title>时隔一天， codex 凌晨又重置了……</title>
+      <link>https://www.v2ex.com/t/1226510</link>
+      <guid>v2ex-1226510</guid>
+      <pubDate>Fri, 10 Jul 2026 17:37:47 GMT</pubDate>
+      <description>&lt;p&gt;今天好不容易周用量蹬掉一半，想着我还有一天过期的重置券能用上了，结果一点半官方重置了[捂脸哭]好好好&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>V2EX 支持举报了, V 友们可以通过这个插件脚本来实现举报站内帖子, 联通 V2EX 的通知系统, 快速通知到对应的管理员.</title>
+      <link>https://www.v2ex.com/t/1226524</link>
+      <guid>v2ex-1226524</guid>
+      <pubDate>Sat, 11 Jul 2026 00:42:00 GMT</pubDate>
+      <description>&lt;p&gt;一键安装地址: &lt;a href=&quot;https://github.com/HelloWorldImJoe/TampermonkeyScripts/raw/master/v2ex-scene-script.user.js&quot; rel=&quot;nofollow&quot;&gt;v2ex-scene-script.user.js&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;脚本仓库地址: &lt;a href=&quot;https://github.com/HelloWorldImJoe/TampermonkeyScripts/blob/master/v2ex-scene-script.user.js&quot; rel=&quot;nofollow&quot;&gt;v2ex-scene-script.user.js&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;没错, 还是原来的那个插件, 已经安装的 V 友应该会收到推送通知, 哈哈哈.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这个地方添加了一个举报按钮
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BaSTXVg.png&quot;/&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;点击之后会弹一个窗口, 支持选择对应的管理员, 当前默认是我, 后面的改变选择会持久化到本地&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;下方输入举报原因&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/hK8W37H.png&quot;/&gt; &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;点击确定之后会唤起钱包进行支付, 支付完成之后, 会在左下角提示状态.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;管理员这边收到消息大概是这样的:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BlBNCHx.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>7.11 号土区续费的 GPT plus 还是 499 里拉，下个周期也是</title>
+      <link>https://www.v2ex.com/t/1226541</link>
+      <guid>v2ex-1226541</guid>
+      <pubDate>Sat, 11 Jul 2026 03:05:34 GMT</pubDate>
+      <description>7.11 号土区续费的 GPT plus 还是 499 里拉，下个周期也是</description>
     </item>
   </channel>
 </rss>
