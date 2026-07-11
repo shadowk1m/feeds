@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 11 Jul 2026 21:38:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 22:36:21 GMT</lastBuildDate>
     <item>
       <title>小米手机强制更新系统</title>
       <link>https://www.v2ex.com/t/1226527</link>
@@ -68,11 +68,34 @@
 </description>
     </item>
     <item>
-      <title>如果从未使用过重置次数的话， 7/12 是第一次重置过期的时间。</title>
-      <link>https://www.v2ex.com/t/1226522</link>
-      <guid>v2ex-1226522</guid>
-      <pubDate>Sat, 11 Jul 2026 00:40:22 GMT</pubDate>
-      <description>&lt;p&gt;由于 OpenAI 不定期赠送重置次数，还会手动统一重置。如果你一次都没用过，现在应该攒了 4 次机会，其中最早送的那次明天（ 7 月 12 日）就要过期了。今天大家使劲蹬吧，别浪费了！&lt;/p&gt;
+      <title>我发现 Codex 经常会写入幽灵规则</title>
+      <link>https://www.v2ex.com/t/1226552</link>
+      <guid>v2ex-1226552</guid>
+      <pubDate>Sat, 11 Jul 2026 05:18:41 GMT</pubDate>
+      <description>&lt;p&gt;当我纠正、取消或排除一个当前不会使用的行为时，我的想法是默认让该行为从文档中消失&lt;/p&gt;
+&lt;p&gt;但是 Codex 经常额外写入“明确不做”“暂不支持”“未来需要时再处理”等反向说明。&lt;/p&gt;
+&lt;p&gt;现在的处理：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-md&quot;&gt;不要做 X
+→ 文档里写：X 被明确排除，未来需要时再……
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;实际的我想要的处理：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-md&quot;&gt;不要做 X
+→ 删除 X ，不留下任何痕迹
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;就比如我在&lt;strong&gt;优化笔记顾流程&lt;/strong&gt;时，它根据之前的规则加入了年度回顾的流程。&lt;/p&gt;
+&lt;p&gt;然后我纠正说：年度回顾用到的太少了，不需要这个流程，等年底我再单独设计这个流程。&lt;/p&gt;
+&lt;p&gt;结果它的实际行为是：&lt;/p&gt;
+&lt;p&gt;确实删了年度流程，但是却留下了一句：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-md&quot;&gt;年度回顾明确为“年底需要时再定义并确认独立流程”。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;问题原因&lt;/h2&gt;
+&lt;p&gt;我估计很多时候就是因为我多说了一句：&lt;strong&gt;等年底我再单独设计这个流程&lt;/strong&gt;。结果他就真把这个话写到文档了。&lt;/p&gt;
+&lt;p&gt;感觉 AI 好像分不太清: 哪些是我单独给他解释的原因，哪些是需要沉淀到文档的规则。&lt;/p&gt;
+&lt;p&gt;而从我的对话习惯来说，我确实是把 AI 当成聊天对象了，所以有时候会解释下为什么我不做这个。但实际上它还是个只会干活的机器，所以没必要说太多给他，不然就会污染他的理解。&lt;/p&gt;
+&lt;h2&gt;我的解决办法&lt;/h2&gt;
+&lt;p&gt;虽然这不影响整个流程，但感觉还是有点奇怪，而且他在做 Skill 设计、项目文档的时候也会存在这个问题，我遇到很多次了&lt;/p&gt;
+&lt;p&gt;我想着如果我不改变我和 AI 的沟通方式的话，好像只能将它这种「幽灵判断」的行为加入了全局 &lt;a href=&quot;http://AGENTS.md&quot; rel=&quot;nofollow&quot;&gt;AGENTS.md&lt;/a&gt; 来限制了。&lt;/p&gt;
+&lt;h2&gt;不知道大伙有没有遇到这种情况，其他模型会不会有这个问题&lt;/h2&gt;
 </description>
     </item>
   </channel>
