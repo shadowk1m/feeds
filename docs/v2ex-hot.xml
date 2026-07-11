@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 11 Jul 2026 15:27:39 GMT</lastBuildDate>
-    <item>
-      <title>为了省下每年几万的的费用，用 ai 做了完整的 erp</title>
-      <link>https://www.v2ex.com/t/1226505</link>
-      <guid>v2ex-1226505</guid>
-      <pubDate>Fri, 10 Jul 2026 15:55:22 GMT</pubDate>
-      <description>我们有自己的电商平台，当然也在各家电商上售卖产品。&lt;br /&gt;然后对接云仓时，感觉那些 erp 卖的贵，系统还老旧，去对接到自己的业务定制化的电商流程也不见得好对接，&lt;br /&gt;索性就自己开发了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;其实最花时间的地方是需求整理，&lt;br /&gt;云仓的人沟通起来比想象中要难，体系复杂笨重且陈旧。&lt;br /&gt;做完之后现在觉得需求也就这些了。&lt;br /&gt;但是第一次接触电商，第一次接触云仓，对需求没有全局视角，没有经验指导，探索起来还是很痛苦的，很多数据模型也因为缺乏经验指导，后期才发现有问题又各种改。&lt;br /&gt;&lt;br /&gt;好在有 Claude code 加持，并行开发，对抗审查，浏览器模拟调用测试，&lt;br /&gt;就这么吭哧吭哧的，还做了得有一周的时间。&lt;br /&gt;&lt;br /&gt;自己的脑力真的是有些跟不上了，为了提高开发效率就要并行思考很多事，尤其是 ai 开始工作时，你就一刻不歇的去思考其他事情了，然后各种事情贴了一堆待办，但是前面 AI 的产出又可能产生很多预期外的变化与分支，导致又影响了你原本计划记下来要做的事。&lt;br /&gt;&lt;br /&gt;过去开发体验还是很舒服的，但这次因为赶工期，又是从 0 构建，没有很多时间去好好 review 和消化产出。&lt;br /&gt;&lt;br /&gt;于是更深刻的感受到，ai 辅助编程对脑力的消耗真的很大，你要被 ai 推着去思考，再加上因为开发节奏快，很多写出来的东西自己本身就不熟，ai 再说很多黑话或者说简略的话，根本不知道他在说啥，扔一堆让我决策的我都听不懂，还得去先研究明白他在说啥。</description>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 16:23:21 GMT</lastBuildDate>
     <item>
       <title>小米手机强制更新系统</title>
       <link>https://www.v2ex.com/t/1226527</link>
@@ -42,6 +35,13 @@
       <description>7.11 号土区续费的 GPT plus 还是 499 里拉，下个周期也是</description>
     </item>
     <item>
+      <title>国模 Minimax 的能力到底如何？ glm 抢不到 打算买一下 minimax</title>
+      <link>https://www.v2ex.com/t/1226577</link>
+      <guid>v2ex-1226577</guid>
+      <pubDate>Sat, 11 Jul 2026 08:25:25 GMT</pubDate>
+      <description>国模 Minimax 的能力到底如何？ glm 抢不到 打算买一下 minimax</description>
+    </item>
+    <item>
       <title>GPT5.6 SOL 也就那么回事</title>
       <link>https://www.v2ex.com/t/1226536</link>
       <guid>v2ex-1226536</guid>
@@ -58,20 +58,21 @@
 </description>
     </item>
     <item>
-      <title>国模 Minimax 的能力到底如何？ glm 抢不到 打算买一下 minimax</title>
-      <link>https://www.v2ex.com/t/1226577</link>
-      <guid>v2ex-1226577</guid>
-      <pubDate>Sat, 11 Jul 2026 08:25:25 GMT</pubDate>
-      <description>国模 Minimax 的能力到底如何？ glm 抢不到 打算买一下 minimax</description>
+      <title>用了 ai 之后工作很碎片化，完全无法进入心流</title>
+      <link>https://www.v2ex.com/t/1226513</link>
+      <guid>v2ex-1226513</guid>
+      <pubDate>Fri, 10 Jul 2026 19:57:08 GMT</pubDate>
+      <description>&lt;p&gt;有没有发现用了 ai 之后，工作时间高度碎片化。在等待 ai 写代码的时候我去做别的事情，或者别的项目，这让我感觉很糟糕，完全无法进入心流状态。
+整个人过的浑浑噩噩，慌慌张张，经常忘记 agent 事情做完了，顾了这个顾不了那个。导致事情做的更慢&lt;/p&gt;
+&lt;p&gt;有什么好的办法吗？你们在等 ai 工作的时候会干啥？还是因为怕自己没了状态就什么都不干盯着 ai 看？&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>Codex 今天是不是放开了五小时限额？</title>
-      <link>https://www.v2ex.com/t/1226550</link>
-      <guid>v2ex-1226550</guid>
-      <pubDate>Sat, 11 Jul 2026 05:09:30 GMT</pubDate>
-      <description>&lt;p&gt;Pro 20x 感觉现在五小时限额用满可以占用 40%-50%左右的周限额
-之前是 12%-15%左右
-是我的幻觉吗？&lt;/p&gt;
+      <title>功夫女足口碑</title>
+      <link>https://www.v2ex.com/t/1226549</link>
+      <guid>v2ex-1226549</guid>
+      <pubDate>Sat, 11 Jul 2026 04:21:20 GMT</pubDate>
+      <description>&lt;p&gt;有喜欢周星驰的吗？看过的人来说说真实的感受，我很纠结去不去看&lt;/p&gt;
 </description>
     </item>
   </channel>
