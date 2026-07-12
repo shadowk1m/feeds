@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 12 Jul 2026 20:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:10:32 GMT</lastBuildDate>
     <item>
       <title>钥匙忘拔，电动车被别人骑走， 有点成心魔了，另外问一下有摩托车推荐吗</title>
       <link>https://www.v2ex.com/t/1226675</link>
@@ -17,45 +17,6 @@
 &lt;p&gt;看了一下 全新的 125/150cc 的踏板好像都差不多需要  13500 CNY ？  是搞一个新车呢， 还是弄一个二手的好点？&lt;/p&gt;
 &lt;p&gt;CFMOTO 春风， 天鹰 TX150F ，SYM 三阳   这些算杂牌吗 ？    &lt;/p&gt;
 &lt;p&gt;我估计搞新车的话， 我的预算就在 13500CNY 左右了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>专科大二，喜欢底层开发(?)，但有点迷茫想听听建议...</title>
-      <link>https://www.v2ex.com/t/1226643</link>
-      <guid>v2ex-1226643</guid>
-      <pubDate>Sat, 11 Jul 2026 21:07:03 GMT</pubDate>
-      <description>&lt;p&gt;我是专科 大二的学生，因为比赛拿奖有个专业课免试资格，所以升本能去本省计算机专业里最好的本科&lt;/p&gt;
-&lt;p&gt;本来是留校实习的，但因为种种问题（没有处理这种事的经验），现在被流放到市场了。&lt;/p&gt;
-&lt;p&gt;我现在感觉到 AI Agent 对 CRUD 写胶水真没什么意思了，我个人很喜欢计算机，10 年前就注册了 Github ，最早是用 Java 写一些 Android 小应用发到当时的酷安市场，几 w 的下载量，谈不上厉害，但那时候的我也挺开心的。&lt;/p&gt;
-&lt;p&gt;之后接触 Webdev ，最开始 Vue-&amp;gt;Go ，到现在 AI agent 最喜欢的 Nextjs+tailwindcss&lt;/p&gt;
-&lt;p&gt;我感觉应用层变来变去，你很难在其中找到一个属于自己的位置，我最早接触 Webdev 的时候 jQuery+PHP 特别火，现在已经查无此人了&lt;/p&gt;
-&lt;p&gt;去年 25 年 7 月，我开始接触嵌入式，我做了一个智能车&lt;/p&gt;
-&lt;p&gt;项目的详细可以看我写的一篇博客文章：&lt;a href=&quot;https://lycois.org/cn/blog/2025/rasp-robot-car/cn&quot; rel=&quot;nofollow&quot;&gt;https://lycois.org/cn/blog/2025/rasp-robot-car/cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://lycois.org/_astro/raspcar.C2biH41I_1yU3Ay.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;当时我没有用 AI Agent 写代码，真的就是闷头学，但其实只学了点皮毛懂点嵌入式基础的通信协议，GPIO, I2C, SPI ，串口通信什么的，学了点 gdb 调试，懂了什么是 CPU 中断，CPU 时钟，&lt;/p&gt;
-&lt;p&gt;再学学调 PID ，看了看增量式 PID ，位置式 PID 。&lt;/p&gt;
-&lt;p&gt;然后让 AI agnet 用 Nextjs 搓了个可视化的控制面板，控制面板与树莓派用 WebSocket 连了一下，用 mjpg 图传。&lt;/p&gt;
-&lt;p&gt;然后在电脑搭了个简单的中间曾，用 YoloV8 去做目标检测，整个流程就变得稍稍有点复杂：STM32-&amp;gt;树莓派 -&amp;gt; YoloV8  flask -&amp;gt; Nextjs&lt;/p&gt;
-&lt;p&gt;整个项目耗资 800¥，我的感受是在资源极度限制的情况下，其实也很有意思。&lt;/p&gt;
-&lt;p&gt;但我没有往模电数电继续深入。因为我通过这两三个月的体验，感受到了嵌入式软件是一个很封闭的行业，我理解的是很多事情都是在不同的芯片厂商的基础上去做有限度的开发。但 FPGA/DSP 的那些就感觉不一样，我也不太懂。硬件学了一下焊接，会焊引脚，感觉做硬件不适合我。有想复刻的硬件项目发现要贴片，我也谈不上喜欢就不想搞了。&lt;/p&gt;
-&lt;p&gt;现在老师帮我申报了几千块，我买了 Astra pro 深度相机，更 NB 的车架，买了个镭神 N10p 雷达，准备玩玩 ROS SLAM 什么的，做做自动规划的东西。&lt;/p&gt;
-&lt;p&gt;现在我在学 C 和 Rust ，正在用 C+SDL 手搓一个带 GUI 的 markdown editor ，用 Rust 做一个 SSG ，两个都要自己实现 markdown parser ，或许在实现同样的功能时，我能更好的感受到 Rust 的 Ownership 和内存安全的意义。&lt;/p&gt;
-&lt;p&gt;而且我找到了一个很好的学习方式（ AI 虽然让 Webdev 完蛋了，但对 Self-study 特别友好）。&lt;/p&gt;
-&lt;p&gt;我会跟 Codex 说：我是 C 语言新手，请你指导我完成 xxx 项目，实现各个功能时尽量不引入第三方库，当我遇到问题时不要直接告诉我答案，而是应该引导我去自己发现答案，请你根据此约束生成一个 &lt;a href=&quot;http://AGENTS.md&quot; rel=&quot;nofollow&quot;&gt;AGENTS.md&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;到现在，我已经做出了一个还没有 Markdown 渲染但可以正常用的 text editor ！的确挺有意思的。可能我还是喜欢深入一点？但我也知道我现在学的还是很浅层的，继续往下深入可能学得会比较痛苦，我会心存敬畏的。&lt;/p&gt;
-&lt;p&gt;我最终的目标是在 AI 的帮助下，写一个 compiler + RISC-V OS kernel 。&lt;/p&gt;
-&lt;p&gt;计算机是我的爱好。&lt;/p&gt;
-&lt;p&gt;但将爱好作为不得不做的工作，并试图从爱好中谋取经济价值，是一件相当痛苦的事。&lt;/p&gt;
-&lt;p&gt;现在大三这一年实习也不知道去哪里，因为我只想要一点工资用作日常 tokens 的开销，并且想将自己的大部分时间分配给我的学习上。&lt;/p&gt;
-&lt;p&gt;跟我要好的老师建议我升本后去考研，我也不知道我要不要卷 408...&lt;/p&gt;
-&lt;p&gt;现在其实也不知道未来该干什么了。虽然现在打代码也挺开心的，但是抬起头却又感觉有点迷茫。&lt;/p&gt;
-&lt;p&gt;对了，我的英语很好，高考虽然考得很烂，但是英语 120+。很多功劳都来自于读技术文档。&lt;/p&gt;
-&lt;p&gt;最近在看 tsoding 的 twich 直播，现在我也刻意地录英语视频，去讲一些我新学到的知识。视频也不发出去，只当是一种自言自语吧。&lt;/p&gt;
-&lt;p&gt;其实整篇文章零零散散，我就想听听各位的建议：&lt;/p&gt;
-&lt;p&gt;以我的情况，升本以后是否应该准备 408 考研？&lt;/p&gt;
-&lt;p&gt;大三这一年要找实习吗，还是尽量保留时间打基础&lt;/p&gt;
-&lt;p&gt;我未来的就业方向应该是怎么样的？&lt;/p&gt;
-&lt;p&gt;问题有点幼稚，我知道这里的人都很厉害，所以想听听各位的意见，谢谢你看到这里。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -158,6 +119,13 @@ matrix 追求联邦、去中心化，如果我建设中继，那我就是中心�
       <guid>v2ex-1226716</guid>
       <pubDate>Sun, 12 Jul 2026 07:52:36 GMT</pubDate>
       <description>以前拿 chatgpt 练口语，都是 chatgpt 一句，我语音读一句。现在用这个 live 模式，终于有点像实时真人对话了，比菲律宾人的英语课效果还要好，至少不要钱。&lt;br /&gt;&lt;br /&gt;现在唯一的难点，就是得坚持了。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://openai.com/zh-Hans-CN/index/introducing-gpt-live/&quot; rel=&quot;nofollow noopener&quot;&gt;https://openai.com/zh-Hans-CN/index/introducing-gpt-live/&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>grok-4.5 真的比 gpt-5.6 sol 好用吧</title>
+      <link>https://www.v2ex.com/t/1226656</link>
+      <guid>v2ex-1226656</guid>
+      <pubDate>Sun, 12 Jul 2026 01:37:01 GMT</pubDate>
+      <description>gpt-5.6 首先慢, 其次贵, 体感上智能程度并没有明显强过 grok-4.5, 而且超级喜欢自己主动做更多的事情,而且审美还是一般没有多少进步.</description>
     </item>
   </channel>
 </rss>
