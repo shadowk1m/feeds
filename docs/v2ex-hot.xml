@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 12 Jul 2026 09:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 11:03:22 GMT</lastBuildDate>
     <item>
       <title>钥匙忘拔，电动车被别人骑走， 有点成心魔了，另外问一下有摩托车推荐吗</title>
       <link>https://www.v2ex.com/t/1226675</link>
@@ -120,13 +120,15 @@
       <description>完全在浏览器运行的魔兽争霸 3 ，魔改 github v86 实现了 opengl 转 webgl ，感兴趣的老哥可以试试：&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://retrogaming.dpdns.org/&quot; rel=&quot;nofollow noopener&quot;&gt;https://retrogaming.dpdns.org/&lt;/a&gt;</description>
     </item>
     <item>
-      <title>求推荐电视上给儿童看动画的 app</title>
-      <link>https://www.v2ex.com/t/1226588</link>
-      <guid>v2ex-1226588</guid>
-      <pubDate>Sat, 11 Jul 2026 10:42:13 GMT</pubDate>
-      <description>&lt;p&gt;现在用的是 b 站的电视端 app ，但最近开屏广告增加到两个（先播放十几秒的全屏广告，之后出现一个弹框式的广告）。平常是父母帮忙带孩子，广告太多他们不会操作且体感太差。
-联系客服反馈大会员没有屏蔽广告的相关权益，所以无法从后台关闭，并希望不要因为这个事情影响我的心情。。&lt;/p&gt;
-&lt;p&gt;不想在这件事情上和 b 站纠缠，求推荐一个看动画、电视剧且没有广告的 app 。&lt;/p&gt;
+      <title>中国人的 homeLab，从 matrix 聊天服务器开始</title>
+      <link>https://www.v2ex.com/t/1226693</link>
+      <guid>v2ex-1226693</guid>
+      <pubDate>Sun, 12 Jul 2026 05:15:25 GMT</pubDate>
+      <description>&lt;p&gt;今天的互联网，已经高度发达、停滞不前。要想继续发展，只剩下“家庭”这个没被开发的领域。&lt;/p&gt;
+&lt;p&gt;HomeLab 在欧美流行，在中国冷淡。为什么？因为缺乏刚需、杀手级应用，国人顶多用一下 NAS 。但我认为每个家庭需要的不只是 NAS 网盘，更需要真正的服务器。因为这涉及到个人隐私、数据主权。最典型的就是聊天软件：你以为你在私聊，但它在运营商眼里享有和微博、知乎同样的风控。&lt;/p&gt;
+&lt;p&gt;为了推动“家庭服务器”的发展，我打算开发一种 matrix 聊天服务器、聊天盒子。它看起来像机顶盒、安卓盒子，功率只有 5~10w ，但确有完整的 debian 系统、1~2G 内存、64G 储存空间。用户需填写自己在 cloudflare 购买的域名，然后就能自动创建 tunnel ，从而实现公网暴露。&lt;/p&gt;
+&lt;p&gt;请大家说说：是应该用 cloudflare tunnel 做中继，还是像 NAS 厂商那样建设中继给客户用？
+matrix 追求联邦、去中心化，如果我建设中继，那我就是中心，和 matrix 理念背道而驰。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -135,6 +137,13 @@
       <guid>v2ex-1226646</guid>
       <pubDate>Sat, 11 Jul 2026 23:20:36 GMT</pubDate>
       <description>接一点帮忙带东西的活可以吗？</description>
+    </item>
+    <item>
+      <title>为什么 chatgpt 这么固执</title>
+      <link>https://www.v2ex.com/t/1226659</link>
+      <guid>v2ex-1226659</guid>
+      <pubDate>Sun, 12 Jul 2026 01:57:17 GMT</pubDate>
+      <description>我让 gpt 帮我把图片背景换成透明色，它总是用白色方格伪装成透明色&lt;br /&gt;&lt;br /&gt;我明确告诉他要真透明，不要用白色方格伪装成透明色&lt;br /&gt;&lt;br /&gt;它还是要用，气死我了&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/8lQ5dH56.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 8lQ5dH56.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/8lQ5dH56.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
       <title>把微信转成 wechat 对现有业务有什么影响？</title>
