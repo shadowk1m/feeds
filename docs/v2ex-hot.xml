@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 12 Jul 2026 13:59:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 14:58:20 GMT</lastBuildDate>
     <item>
       <title>钥匙忘拔，电动车被别人骑走， 有点成心魔了，另外问一下有摩托车推荐吗</title>
       <link>https://www.v2ex.com/t/1226675</link>
@@ -74,6 +74,13 @@
 </description>
     </item>
     <item>
+      <title>16 号从大陆去台湾旅行 大概 3 天 请问大家有什么方式能回回血？ 机票有点贵</title>
+      <link>https://www.v2ex.com/t/1226646</link>
+      <guid>v2ex-1226646</guid>
+      <pubDate>Sat, 11 Jul 2026 23:20:36 GMT</pubDate>
+      <description>接一点帮忙带东西的活可以吗？</description>
+    </item>
+    <item>
       <title>干程序年头多了是不是多少都得沾点易经</title>
       <link>https://www.v2ex.com/t/1226650</link>
       <guid>v2ex-1226650</guid>
@@ -113,11 +120,12 @@
 </description>
     </item>
     <item>
-      <title>16 号从大陆去台湾旅行 大概 3 天 请问大家有什么方式能回回血？ 机票有点贵</title>
-      <link>https://www.v2ex.com/t/1226646</link>
-      <guid>v2ex-1226646</guid>
-      <pubDate>Sat, 11 Jul 2026 23:20:36 GMT</pubDate>
-      <description>接一点帮忙带东西的活可以吗？</description>
+      <title>把微信转成 wechat 对现有业务有什么影响？</title>
+      <link>https://www.v2ex.com/t/1226684</link>
+      <guid>v2ex-1226684</guid>
+      <pubDate>Sun, 12 Jul 2026 04:31:52 GMT</pubDate>
+      <description>&lt;p&gt;近期注册了个香港的手机号想把微信捆绑的手机号换过去用 wechat ，但考虑到现有的微信上有大量的业务怕换过去有影响，想问下换过去 wechat 有哪些变化，对现有功能有哪些影响？&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>中国人的 homeLab，从 matrix 聊天服务器开始</title>
@@ -130,21 +138,6 @@
 &lt;p&gt;请大家说说：是应该用 cloudflare tunnel 做中继，还是像 NAS 厂商那样建设中继给客户用？
 matrix 追求联邦、去中心化，如果我建设中继，那我就是中心，和 matrix 理念背道而驰。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>把微信转成 wechat 对现有业务有什么影响？</title>
-      <link>https://www.v2ex.com/t/1226684</link>
-      <guid>v2ex-1226684</guid>
-      <pubDate>Sun, 12 Jul 2026 04:31:52 GMT</pubDate>
-      <description>&lt;p&gt;近期注册了个香港的手机号想把微信捆绑的手机号换过去用 wechat ，但考虑到现有的微信上有大量的业务怕换过去有影响，想问下换过去 wechat 有哪些变化，对现有功能有哪些影响？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>为什么 chatgpt 这么固执</title>
-      <link>https://www.v2ex.com/t/1226659</link>
-      <guid>v2ex-1226659</guid>
-      <pubDate>Sun, 12 Jul 2026 01:57:17 GMT</pubDate>
-      <description>我让 gpt 帮我把图片背景换成透明色，它总是用白色方格伪装成透明色&lt;br /&gt;&lt;br /&gt;我明确告诉他要真透明，不要用白色方格伪装成透明色&lt;br /&gt;&lt;br /&gt;它还是要用，气死我了&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/8lQ5dH56.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 8lQ5dH56.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/8lQ5dH56.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
       <title>奔三 感觉自己漂泊不定 怎么规划人生</title>
@@ -160,11 +153,18 @@ matrix 追求联邦、去中心化，如果我建设中继，那我就是中心�
 </description>
     </item>
     <item>
-      <title>grok-4.5 真的比 gpt-5.6 sol 好用吧</title>
-      <link>https://www.v2ex.com/t/1226656</link>
-      <guid>v2ex-1226656</guid>
-      <pubDate>Sun, 12 Jul 2026 01:37:01 GMT</pubDate>
-      <description>gpt-5.6 首先慢, 其次贵, 体感上智能程度并没有明显强过 grok-4.5, 而且超级喜欢自己主动做更多的事情,而且审美还是一般没有多少进步.</description>
+      <title>突然发现 chatgpt 语音多了 live 功能，感觉练口语挺好的</title>
+      <link>https://www.v2ex.com/t/1226716</link>
+      <guid>v2ex-1226716</guid>
+      <pubDate>Sun, 12 Jul 2026 07:52:36 GMT</pubDate>
+      <description>以前拿 chatgpt 练口语，都是 chatgpt 一句，我语音读一句。现在用这个 live 模式，终于有点像实时真人对话了，比菲律宾人的英语课效果还要好，至少不要钱。&lt;br /&gt;&lt;br /&gt;现在唯一的难点，就是得坚持了。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://openai.com/zh-Hans-CN/index/introducing-gpt-live/&quot; rel=&quot;nofollow noopener&quot;&gt;https://openai.com/zh-Hans-CN/index/introducing-gpt-live/&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>为什么 chatgpt 这么固执</title>
+      <link>https://www.v2ex.com/t/1226659</link>
+      <guid>v2ex-1226659</guid>
+      <pubDate>Sun, 12 Jul 2026 01:57:17 GMT</pubDate>
+      <description>我让 gpt 帮我把图片背景换成透明色，它总是用白色方格伪装成透明色&lt;br /&gt;&lt;br /&gt;我明确告诉他要真透明，不要用白色方格伪装成透明色&lt;br /&gt;&lt;br /&gt;它还是要用，气死我了&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/8lQ5dH56.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 8lQ5dH56.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/8lQ5dH56.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
