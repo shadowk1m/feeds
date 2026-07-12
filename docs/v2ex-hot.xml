@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 12 Jul 2026 17:50:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 18:49:01 GMT</lastBuildDate>
     <item>
       <title>钥匙忘拔，电动车被别人骑走， 有点成心魔了，另外问一下有摩托车推荐吗</title>
       <link>https://www.v2ex.com/t/1226675</link>
@@ -133,14 +133,6 @@
       <description>接一点帮忙带东西的活可以吗？</description>
     </item>
     <item>
-      <title>把微信转成 wechat 对现有业务有什么影响？</title>
-      <link>https://www.v2ex.com/t/1226684</link>
-      <guid>v2ex-1226684</guid>
-      <pubDate>Sun, 12 Jul 2026 04:31:52 GMT</pubDate>
-      <description>&lt;p&gt;近期注册了个香港的手机号想把微信捆绑的手机号换过去用 wechat ，但考虑到现有的微信上有大量的业务怕换过去有影响，想问下换过去 wechat 有哪些变化，对现有功能有哪些影响？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>中国人的 homeLab，从 matrix 聊天服务器开始</title>
       <link>https://www.v2ex.com/t/1226693</link>
       <guid>v2ex-1226693</guid>
@@ -150,6 +142,14 @@
 &lt;p&gt;为了推动“家庭服务器”的发展，我打算开发一种 matrix 聊天服务器、聊天盒子。它看起来像机顶盒、安卓盒子，功率只有 5~10w ，但确有完整的 debian 系统、1~2G 内存、64G 储存空间。用户需填写自己在 cloudflare 购买的域名，然后就能自动创建 tunnel ，从而实现公网暴露。&lt;/p&gt;
 &lt;p&gt;请大家说说：是应该用 cloudflare tunnel 做中继，还是像 NAS 厂商那样建设中继给客户用？
 matrix 追求联邦、去中心化，如果我建设中继，那我就是中心，和 matrix 理念背道而驰。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>把微信转成 wechat 对现有业务有什么影响？</title>
+      <link>https://www.v2ex.com/t/1226684</link>
+      <guid>v2ex-1226684</guid>
+      <pubDate>Sun, 12 Jul 2026 04:31:52 GMT</pubDate>
+      <description>&lt;p&gt;近期注册了个香港的手机号想把微信捆绑的手机号换过去用 wechat ，但考虑到现有的微信上有大量的业务怕换过去有影响，想问下换过去 wechat 有哪些变化，对现有功能有哪些影响？&lt;/p&gt;
 </description>
     </item>
     <item>
