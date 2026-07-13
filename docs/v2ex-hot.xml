@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 13 Jul 2026 07:45:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:48:23 GMT</lastBuildDate>
     <item>
       <title>[重发下] 亏 105 万，今天我卖掉了惠州的房子。</title>
       <link>https://www.v2ex.com/t/1226835</link>
@@ -48,21 +48,6 @@
 &lt;p&gt;写出来不是想抱怨什么，只是记录一下这段经历。&lt;br/&gt;
 如果你也在纠结要不要割肉，我的建议是：&lt;strong&gt;算清楚持有成本和生活规划，别让情绪替你做决定。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    <item>
-      <title>用 GPT Pro 20x 和 Claude Max 20x 的全部周限额跑 GPT5.6 Sol + Claude Fable 循环迭代，给富有科技做了个官网</title>
-      <link>https://www.v2ex.com/t/1226809</link>
-      <guid>v2ex-1226809</guid>
-      <pubDate>Mon, 13 Jul 2026 00:03:33 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://www.richify.net/zh-hans/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.richify.net/zh-hans/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;上周休假刚好用不上 AI ，想到让 AI 自己循环迭代一个屎山会变成什么样。先用 GPT-5.6 循环打了个全是 AI 味的框架，然后上 Fable 继续迭代。最后用 Opus 4.8 收尾了下达到 Fable 限额做一半的功能。特效堆太多了，7 秒一帧（ 0.1fps ），Chrome 直接弹未响应了，让 Opus 4.8 砍了很多特效，给他的目标是 2fps ，最后好像能有 PPT 帧率（ 30fps ）了。</description>
-    </item>
-    <item>
-      <title>求好用的截图软件推荐</title>
-      <link>https://www.v2ex.com/t/1226830</link>
-      <guid>v2ex-1226830</guid>
-      <pubDate>Mon, 13 Jul 2026 01:28:05 GMT</pubDate>
-      <description>&lt;p&gt;求一个好用的截图软件，不要 pixpin ，这个软件不好用，而且作者不接受任何建议&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -192,6 +177,21 @@
 &lt;p&gt;我更想听真实经历和不同角度。&lt;/p&gt;
 &lt;p&gt;谢谢。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>求好用的截图软件推荐</title>
+      <link>https://www.v2ex.com/t/1226830</link>
+      <guid>v2ex-1226830</guid>
+      <pubDate>Mon, 13 Jul 2026 01:28:05 GMT</pubDate>
+      <description>&lt;p&gt;求一个好用的截图软件，不要 pixpin ，这个软件不好用，而且作者不接受任何建议&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>用 GPT Pro 20x 和 Claude Max 20x 的全部周限额跑 GPT5.6 Sol + Claude Fable 循环迭代，给富有科技做了个官网</title>
+      <link>https://www.v2ex.com/t/1226809</link>
+      <guid>v2ex-1226809</guid>
+      <pubDate>Mon, 13 Jul 2026 00:03:33 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://www.richify.net/zh-hans/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.richify.net/zh-hans/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;上周休假刚好用不上 AI ，想到让 AI 自己循环迭代一个屎山会变成什么样。先用 GPT-5.6 循环打了个全是 AI 味的框架，然后上 Fable 继续迭代。最后用 Opus 4.8 收尾了下达到 Fable 限额做一半的功能。特效堆太多了，7 秒一帧（ 0.1fps ），Chrome 直接弹未响应了，让 Opus 4.8 砍了很多特效，给他的目标是 2fps ，最后好像能有 PPT 帧率（ 30fps ）了。</description>
     </item>
     <item>
       <title>V 友们，八月中旬旅游有值得推荐的城市吗？（国内）</title>
