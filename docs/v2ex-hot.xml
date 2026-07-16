@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 16 Jul 2026 03:54:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 05:43:55 GMT</lastBuildDate>
     <item>
       <title>谈一谈中医能不能治病</title>
       <link>https://www.v2ex.com/t/1227461</link>
@@ -39,11 +39,19 @@
 </description>
     </item>
     <item>
-      <title>有老哥买过亚朵星球深睡枕吗</title>
-      <link>https://www.v2ex.com/t/1227424</link>
-      <guid>v2ex-1227424</guid>
-      <pubDate>Wed, 15 Jul 2026 04:35:43 GMT</pubDate>
-      <description>400 多价格是智商税还是真香，有没有真实体验过的老哥</description>
+      <title>闲鱼卖 iPhone 遇到骗子</title>
+      <link>https://www.v2ex.com/t/1227563</link>
+      <guid>v2ex-1227563</guid>
+      <pubDate>Wed, 15 Jul 2026 12:32:39 GMT</pubDate>
+      <description>&lt;p&gt;闲鱼出个美版 iPhone Air ，面交前付款，见面后确认 ok ，就直接重置了系统，他自己设了新密码和 apple id （当时没发现），等确认收款时找理由无法确认收货，要求走微信（这时已识别出是骗子），我直接拒绝并拿走了手机，回去一看才发现密码被他设成了新的。&lt;/p&gt;
+&lt;p&gt;报警后警察认为没有造成资产损失（也是人生第一次报警），让先联系平台，目前平台客服处理中，买家闲鱼账号已读不回。&lt;/p&gt;
+&lt;p&gt;教训：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;不要走任何除了闲鱼外的平台，不要加微信，不要加微信，不要加微信（ lz 对这个很敏感，没有中招）&lt;/li&gt;
+&lt;li&gt;确认收货前，不要重置系统，不要重置系统，不要重置系统。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;目前手机还在 lz 这里，但密码不知道。。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>专升本前端毕业 1 年，从初创到大厂，我的开源项目上了 github trending，顺利聊聊做开源的收获</title>
@@ -99,29 +107,18 @@
 </description>
     </item>
     <item>
-      <title>闲鱼卖 iPhone 遇到骗子</title>
-      <link>https://www.v2ex.com/t/1227563</link>
-      <guid>v2ex-1227563</guid>
-      <pubDate>Wed, 15 Jul 2026 12:32:39 GMT</pubDate>
-      <description>&lt;p&gt;闲鱼出个美版 iPhone Air ，面交前付款，见面后确认 ok ，就直接重置了系统，他自己设了新密码和 apple id （当时没发现），等确认收款时找理由无法确认收货，要求走微信（这时已识别出是骗子），我直接拒绝并拿走了手机，回去一看才发现密码被他设成了新的。&lt;/p&gt;
-&lt;p&gt;报警后警察认为没有造成资产损失（也是人生第一次报警），让先联系平台，目前平台客服处理中，买家闲鱼账号已读不回。&lt;/p&gt;
-&lt;p&gt;教训：&lt;/p&gt;
+      <title>golang 的语言排名很低，并且 go 的生态也不丰富，为什么现在很多公司做一些核心业务系统的都使用 go 来实现？</title>
+      <link>https://www.v2ex.com/t/1227508</link>
+      <guid>v2ex-1227508</guid>
+      <pubDate>Wed, 15 Jul 2026 08:46:28 GMT</pubDate>
+      <description>&lt;p&gt;现在入职的这家公司做的一些核心的业务系统，比如 SCRM 系统，以及各个事业部的一些业务系统都是使用 go 语言来实现。但是我个人认为 go 语言有自身的可取之处，但是对于一个核心业务系统，使用 go 语言反而提升了系统的复杂度。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;不要走任何除了闲鱼外的平台，不要加微信，不要加微信，不要加微信（ lz 对这个很敏感，没有中招）&lt;/li&gt;
-&lt;li&gt;确认收货前，不要重置系统，不要重置系统，不要重置系统。&lt;/li&gt;
+&lt;li&gt;是 go 自身的语言特性使然，还有就是 go 的生态对系统的各种要求也有一些没法满足的地方。&lt;/li&gt;
+&lt;li&gt;目前公司其实 go 语言的技术储备其实也不是很好，很多组件都需要自己开发和实现&lt;/li&gt;
+&lt;li&gt;很多外部接入的第三方对 go 的支持也不是很好&lt;/li&gt;
+&lt;li&gt;公司的技术经理和最高的技术负责人其实对 GO 的掌握也不是很好，只能说处于能做项目的阶段，但是对底层一些原理和更深层次的东西也是不是很理解&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;目前手机还在 lz 这里，但密码不知道。。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[HyperAPI]gpt pro 0.1x 倍率，留 ID 送额度</title>
-      <link>https://www.v2ex.com/t/1227422</link>
-      <guid>v2ex-1227422</guid>
-      <pubDate>Wed, 15 Jul 2026 04:29:46 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://hyperapi.cc&quot; rel=&quot;nofollow&quot;&gt;https://hyperapi.cc&lt;/a&gt;, 三网优化的服务器，首字可达 1 秒内&lt;/p&gt;
-&lt;p&gt;默认分组用户送 5$，svip 分组用户送 1$&lt;/p&gt;
-&lt;p&gt;上一篇帖子：
-&lt;a href=&quot;https://www.v2ex.com/t/1226863&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1226863&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;你们身边有这种情况吗？都说说你的体验吧&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -136,6 +133,15 @@
 &lt;p&gt;对比我个人用过的其他的:
 1 node:typescript,拉中拉，一个 any 改三四次都还报错；
 2 java,太啰嗦，浪费 token&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>世界杯支持哪个球队哪个队就输</title>
+      <link>https://www.v2ex.com/t/1227609</link>
+      <guid>v2ex-1227609</guid>
+      <pubDate>Thu, 16 Jul 2026 00:54:55 GMT</pubDate>
+      <description>&lt;p&gt;今天早上英格兰输给了阿根廷，昨天早上法国输给了西班牙😭&lt;/p&gt;
+&lt;p&gt;还好没有赌球&lt;/p&gt;
 </description>
     </item>
   </channel>
