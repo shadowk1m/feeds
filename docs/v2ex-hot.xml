@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 16 Jul 2026 08:37:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:48:10 GMT</lastBuildDate>
     <item>
       <title>关于我和一个教师恋爱一年的经历</title>
       <link>https://www.v2ex.com/t/1227680</link>
@@ -55,26 +55,61 @@
 </description>
     </item>
     <item>
-      <title>问题大了，昨天拼命瞪，今天怎么没有重置了？</title>
-      <link>https://www.v2ex.com/t/1227602</link>
-      <guid>v2ex-1227602</guid>
-      <pubDate>Thu, 16 Jul 2026 00:19:58 GMT</pubDate>
-      <description>&lt;p&gt;剩下 10%了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>golang 的语言排名很低，并且 go 的生态也不丰富，为什么现在很多公司做一些核心业务系统的都使用 go 来实现？</title>
-      <link>https://www.v2ex.com/t/1227508</link>
-      <guid>v2ex-1227508</guid>
-      <pubDate>Wed, 15 Jul 2026 08:46:28 GMT</pubDate>
-      <description>&lt;p&gt;现在入职的这家公司做的一些核心的业务系统，比如 SCRM 系统，以及各个事业部的一些业务系统都是使用 go 语言来实现。但是我个人认为 go 语言有自身的可取之处，但是对于一个核心业务系统，使用 go 语言反而提升了系统的复杂度。&lt;/p&gt;
+      <title>[抽奖] 懒猫影视发布！再送一台价值 5499 元懒猫微服！</title>
+      <link>https://www.v2ex.com/t/1227711</link>
+      <guid>v2ex-1227711</guid>
+      <pubDate>Thu, 16 Jul 2026 05:56:12 GMT</pubDate>
+      <description>&lt;h1&gt;懒猫影视：你的 AI 私人影院，观影从此零折腾。&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/1ht88Y37.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;不用折腾、不用手动整理！懒猫影视全新来袭，解锁全自动私人影院自由✨&lt;/p&gt;
+&lt;p&gt;还在为搭建影音库繁琐操作头疼？下载、导入、刮削、分类全程手动操作、反复调试，费时又费力？&lt;/p&gt;
+&lt;p&gt;懒猫微服重磅组合｜懒猫影视 + 小龙猫 AI 智能联动，彻底告别传统影音库搭建痛点！&lt;/p&gt;
+&lt;p&gt;✅ AI 全自动下载：小龙猫 AI 智能接管任务，一键下达需求，全天候自动帮你抓取心仪影视资源，无需值守、无需手动操作&lt;/p&gt;
+&lt;p&gt;✅ 一键自动导入：资源下载完成后无缝同步，自动导入影音库，全程零干预&lt;/p&gt;
+&lt;p&gt;✅ 智能精准刮削：自动匹配海报、剧情简介、演员阵容、分集信息，补齐全套影视元数据，影片质感拉满&lt;/p&gt;
+&lt;p&gt;✅ 精细化自动分类：按电影/剧集/题材/年份智能归档，规整有序，随点随看&lt;/p&gt;
+&lt;h1&gt;无需代码、无需调试、零基础上手！&lt;/h1&gt;
+&lt;p&gt;所有资源本地存储、私有独享，无广告骚扰、无限速卡顿，彻底告别第三方影视 APP 的套路。&lt;/p&gt;
+&lt;p&gt;一台懒猫微服，搭配小龙猫 AI 超强赋能，轻松搭建专属全家人的 4K 私人影音库，把院线影院搬进家里🎬&lt;/p&gt;
+&lt;h1&gt;参与方式&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;在评论区留言任意内容&lt;/li&gt;
+&lt;li&gt;添加微信：lanmaoweifu      备注：V2EX&lt;/li&gt;
+&lt;li&gt;邀请您加入“懒猫微服用户交流群”，有任意懒猫微服群即可，无需重复进群&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;活动为多平台同步进行，最终汇总统计名单&lt;/p&gt;
+&lt;p&gt;7 月 24 日（周五）晚上八点我们用统计名单在“懒猫微服直播间”里直播开奖&lt;/p&gt;
+&lt;p&gt;除此之外，我们还会通过直播抽取额外奖品 [懒猫 AI 摄像头] ，观看直播即可参与&lt;/p&gt;
+&lt;p&gt;欢迎关注 [懒猫微服视频号] 和 [懒猫微服小红书账号] &lt;/p&gt;
+&lt;h1&gt;特别提醒&lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;是 go 自身的语言特性使然，还有就是 go 的生态对系统的各种要求也有一些没法满足的地方。&lt;/li&gt;
-&lt;li&gt;目前公司其实 go 语言的技术储备其实也不是很好，很多组件都需要自己开发和实现&lt;/li&gt;
-&lt;li&gt;很多外部接入的第三方对 go 的支持也不是很好&lt;/li&gt;
-&lt;li&gt;公司的技术经理和最高的技术负责人其实对 GO 的掌握也不是很好，只能说处于能做项目的阶段，但是对底层一些原理和更深层次的东西也是不是很理解&lt;/li&gt;
+&lt;li&gt;必须进入活动群才能获得中奖资格&lt;/li&gt;
+&lt;li&gt;中奖用户需提供参与活动截图 + 中奖私信作为验证凭证&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;你们身边有这种情况吗？都说说你的体验吧&lt;/p&gt;
+&lt;h1&gt;购买渠道和优惠&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;添加微信 lanmaoweifu 即可 获取懒猫微服内部资料和专属优惠&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;京东搜索「懒猫微服」下单&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;全球包邮，UPS 红牌到家&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;懒猫零元购：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;每移植一款应用到懒猫商店可得百元红包&lt;/li&gt;
+&lt;li&gt;原创应用奖励翻倍&lt;/li&gt;
+&lt;li&gt;撰写一篇攻略可得 50 红包&lt;/li&gt;
+&lt;li&gt;多移多得，无上限&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;关注 “懒猫微服”抖音，小红书，视频号账号，来直播间学技术，还送好礼&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     <item>
@@ -85,12 +120,19 @@
       <description>做独立开发好难，能赚到钱更难，快一年半了一个付款用户都没有</description>
     </item>
     <item>
-      <title>世界杯支持哪个球队哪个队就输</title>
-      <link>https://www.v2ex.com/t/1227609</link>
-      <guid>v2ex-1227609</guid>
-      <pubDate>Thu, 16 Jul 2026 00:54:55 GMT</pubDate>
-      <description>&lt;p&gt;今天早上英格兰输给了阿根廷，昨天早上法国输给了西班牙😭&lt;/p&gt;
-&lt;p&gt;还好没有赌球&lt;/p&gt;
+      <title>问题大了，昨天拼命瞪，今天怎么没有重置了？</title>
+      <link>https://www.v2ex.com/t/1227602</link>
+      <guid>v2ex-1227602</guid>
+      <pubDate>Thu, 16 Jul 2026 00:19:58 GMT</pubDate>
+      <description>&lt;p&gt;剩下 10%了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>夏天除了穿洞洞鞋，还能穿什么？</title>
+      <link>https://www.v2ex.com/t/1227628</link>
+      <guid>v2ex-1227628</guid>
+      <pubDate>Thu, 16 Jul 2026 01:42:55 GMT</pubDate>
+      <description>&lt;p&gt;夏天穿洞洞鞋舒服又方便，但是有的时候参加一些场合感觉不太得体，比如好朋友的婚礼，开会总结汇报，赴约等场合，还有哪些牌子的鞋子舒服透气好搭配的？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -106,11 +148,20 @@
 </description>
     </item>
     <item>
-      <title>夏天除了穿洞洞鞋，还能穿什么？</title>
-      <link>https://www.v2ex.com/t/1227628</link>
-      <guid>v2ex-1227628</guid>
-      <pubDate>Thu, 16 Jul 2026 01:42:55 GMT</pubDate>
-      <description>&lt;p&gt;夏天穿洞洞鞋舒服又方便，但是有的时候参加一些场合感觉不太得体，比如好朋友的婚礼，开会总结汇报，赴约等场合，还有哪些牌子的鞋子舒服透气好搭配的？&lt;/p&gt;
+      <title>世界杯支持哪个球队哪个队就输</title>
+      <link>https://www.v2ex.com/t/1227609</link>
+      <guid>v2ex-1227609</guid>
+      <pubDate>Thu, 16 Jul 2026 00:54:55 GMT</pubDate>
+      <description>&lt;p&gt;今天早上英格兰输给了阿根廷，昨天早上法国输给了西班牙😭&lt;/p&gt;
+&lt;p&gt;还好没有赌球&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>vscode 迎来 1.129 新版本， UI 现代化重做</title>
+      <link>https://www.v2ex.com/t/1227629</link>
+      <guid>v2ex-1227629</guid>
+      <pubDate>Thu, 16 Jul 2026 01:43:54 GMT</pubDate>
+      <description>&lt;p&gt;新 UI 确实好看了很多&lt;/p&gt;
 </description>
     </item>
   </channel>
