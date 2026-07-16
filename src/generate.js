@@ -25,14 +25,6 @@ function isBlacklisted(item) {
 }
 
 const FEEDS = [
-  // {
-  //   id: 'zhihu-hot',
-  //   filename: 'zhihu-hot.xml',
-  //   title: 'Zhihu Hot List',
-  //   link: 'https://www.zhihu.com/hot',
-  //   description: 'Top hot list items from Zhihu',
-  //   fetcher: fetchZhihu
-  // },
   {
     id: 'v2ex-hot',
     filename: 'v2ex-hot.xml',
@@ -47,7 +39,12 @@ const FEEDS = [
     title: 'LINUX DO - News',
     link: 'https://linux.do/c/news/34',
     description: 'News category from linux.do',
-    fetcher: () => fetchRss('https://linux.do/c/news/34.rss', 'linuxdo-news')
+    fetcher: () => fetchDiscourseCategory({
+      rssUrl: 'https://linux.do/c/news/34.rss',
+      jsonUrl: 'https://linux.do/c/news/34.json',
+      baseUrl: 'https://linux.do',
+      idPrefix: 'linuxdo-news'
+    })
   },
   {
     id: 'linuxdo-welfare',
@@ -55,7 +52,12 @@ const FEEDS = [
     title: 'LINUX DO - Welfare',
     link: 'https://linux.do/c/welfare/36',
     description: 'Welfare category from linux.do',
-    fetcher: () => fetchRss('https://linux.do/c/welfare/36.rss', 'linuxdo-welfare')
+    fetcher: () => fetchDiscourseCategory({
+      rssUrl: 'https://linux.do/c/welfare/36.rss',
+      jsonUrl: 'https://linux.do/c/welfare/36.json',
+      baseUrl: 'https://linux.do',
+      idPrefix: 'linuxdo-welfare'
+    })
   }
 ];
 
@@ -90,11 +92,15 @@ function buildRss({ title, link, description, items }) {
   return `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n  <channel>\n    <title>${escapeXml(title)}</title>\n    <link>${escapeXml(link)}</link>\n    <description>${escapeXml(description)}</description>\n    <lastBuildDate>${lastBuildDate}</lastBuildDate>\n${itemXml}\n  </channel>\n</rss>\n`;
 }
 
+// Chrome-like UA — linux.do (Cloudflare) 403s obvious bot UAs from CI IP ranges.
+const BROWSER_UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
+
 async function fetchJson(url, options = {}) {
   const res = await fetch(url, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (FeedGenerator)',
-      'Accept': 'application/json',
+      'User-Agent': BROWSER_UA,
+      'Accept': 'application/json, text/plain, */*',
+      'Accept-Language': 'en-US,en;q=0.9',
     },
     ...options
   });
@@ -105,8 +111,9 @@ async function fetchJson(url, options = {}) {
 async function fetchText(url, options = {}) {
   const res = await fetch(url, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (FeedGenerator)',
-      'Accept': 'application/rss+xml, application/xml, text/xml; q=0.9, */*; q=0.8',
+      'User-Agent': BROWSER_UA,
+      'Accept': 'application/rss+xml, application/xml;q=0.9, */*;q=0.8',
+      'Accept-Language': 'en-US,en;q=0.9',
     },
     ...options
   });
@@ -159,29 +166,28 @@ async function fetchRss(url, idPrefix) {
   return items;
 }
 
-async function fetchZhihu() {
-  const url = 'https://api.zhihu.com/topstory';
-  const data = await fetchJson(url);
-  const list = Array.isArray(data?.data) ? data.data : [];
-  return list.map(item => {
-    // Attempt to normalize differing shapes
-    const t = item.target || item.question || item;
-    const title = t?.title || t?.question?.title || t?.excerpt || 'Untitled';
-    let link = t?.url || t?.link;
-    if (link && link.startsWith('http')) {
-      // ok
-    } else if (t?.id) {
-      link = `https://www.zhihu.com/question/${t.id}`;
-    } else {
-      link = 'https://www.zhihu.com/hot';
-    }
-    const created = (t?.created || t?.created_time || Date.now()/1000) * 1000;
+// Discourse category endpoint — falls back to the JSON API when the .rss URL
+// is blocked (linux.do's Cloudflare rules 403 the RSS from CI ranges more
+// aggressively than the JSON endpoint).
+async function fetchDiscourseCategory({ rssUrl, jsonUrl, baseUrl, idPrefix }) {
+  try {
+    const items = await fetchRss(rssUrl, idPrefix);
+    if (items.length > 0) return items;
+    console.log(`  ${idPrefix}: rss returned 0 items, trying json`);
+  } catch (e) {
+    console.log(`  ${idPrefix}: rss failed (${e.message}), trying json`);
+  }
+  const data = await fetchJson(jsonUrl);
+  const topics = data?.topic_list?.topics || [];
+  return topics.map(t => {
+    const slug = t.slug || 'topic';
+    const link = `${baseUrl}/t/${slug}/${t.id}`;
     return {
-      title,
+      title: t.title || 'Untitled',
       link,
-      guid: item.id ? `zhihu-${item.id}` : link,
-      date: new Date(created),
-      description: t?.content || t?.excerpt || t?.description || ''
+      guid: `${idPrefix}-${t.id}`,
+      date: new Date(t.created_at || t.bumped_at || Date.now()),
+      description: t.excerpt || t.title || ''
     };
   });
 }
