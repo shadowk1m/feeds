@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 19 Jul 2026 15:28:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:26:04 GMT</lastBuildDate>
     <item>
       <title>兄弟们，关于 Macbook 血的教训！ MacOS 比 Win 更逆天！</title>
       <link>https://www.v2ex.com/t/1228302</link>
@@ -146,49 +146,11 @@ ZeroTier 或 WireGuard 好用吗？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Kimi K3 这波真的爆了，你们用着感觉怎么样？</title>
-      <link>https://www.v2ex.com/t/1228376</link>
-      <guid>v2ex-1228376</guid>
-      <pubDate>Sun, 19 Jul 2026 10:11:37 GMT</pubDate>
-      <description>&lt;p&gt;这几天被 Kimi K3 刷屏了，X 上在吹，HN 上在吹，都说是国产之光，deepseek 时刻 2.0 来了。&lt;/p&gt;
-&lt;p&gt;我也试了一下，浅浅分享自己的体验吧。&lt;/p&gt;
-&lt;p&gt;先说好的地方：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;前端能力很强。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Kimi K3 前端能力这块，算是跻身全球第一梯队，真要个人排名的话，目前我给它排第二，还超越不了 Fable 5--LMArena 人类盲投榜上它前端甚至排第一，但我实测体感，Fable 5 还是更稳。&lt;/p&gt;
-&lt;p&gt;不过比 GPT-5.6 强得多，这是 GPT 系列家族的通病，前端能力一直很弱。&lt;/p&gt;
-&lt;p&gt;特别是那个刷屏的 3D 建模，我不知道设计圈怎么看，我觉得挺牛的。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;长时复杂任务处理能力也很不错。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;比如要做一个复杂的系统，定好一份计划，扔给它，/goal 模式让它自动处理，出错的概率，以及最后交付的结果非常不错。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;原生多模态能力。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;K3 可以直接理解视频，比如语气，音效，转场之类的，比普通的只能理解文字和图片的 CC/Codex 好多了。喂给 K3 一个视频，让它帮你生成同样风格的 seedance 的提示词，它可以生成得很精准。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;开源。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Kimi 是开源的，权重 7 月 27 日就放出来，这意味着以后任何一家 AI 公司都可以直接拿去用，拿去蒸馏，而 Fable 5 和 GPT-5.6 都是自家闭源的旗舰大模型。&lt;/p&gt;
-&lt;p&gt;然后再讲讲不好的地方吧。（轻喷）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;国产最贵。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前 K3 价格是国产最贵，如果你和国产对比，你一定会不习惯，甚至说它想钱想疯了，但是和国外对比不算贵，成本和 GPT-5.6 差不多，约是 Opus 4.8 的一半。不过考虑到能力嘛，一分钱一分货，我觉得有道理。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;速度稍慢。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;感觉它比 CC + Fable 5 慢得多，比 Codex + GPT-5.6 也一样慢不少。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;幻觉率偏高。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这个你瞎编一个问题去问它，你就知道了。幻觉率高的模型会给你一个答案，并且瞎编一个理由。&lt;/p&gt;
-&lt;p&gt;但是幻觉低的模型，它遇到它不知道的知识，会诚实地告诉你它不知道，甚至可以反问你。&lt;/p&gt;
-&lt;p&gt;最后，综合评价一下，我觉得它确实能跻身世界前三，但跟 CC + Fable 5 和 Codex + GPT-5.6 还有点差距。&lt;/p&gt;
-&lt;p&gt;但这毕竟是国产模型第一次敢跟 Anthropic 和 OpenAI 掰手腕，所以我觉得，还是未来可期啊。&lt;/p&gt;
-&lt;p&gt;你们试了没？&lt;/p&gt;
-</description>
+      <title>我开发了一个开源版 Surge，把 Mac 变成可导入规则、可按设备分流的全屋透明代理网关。</title>
+      <link>https://www.v2ex.com/t/1228353</link>
+      <guid>v2ex-1228353</guid>
+      <pubDate>Sun, 19 Jul 2026 07:47:57 GMT</pubDate>
+      <description>OpenSurge for Mac 是一个开源应用，提供类似 Surge 的体验，可以把你的 Mac 变成全屋的代理网关：同一局域网里的手机、电视、PS5 、游戏机、VR 设备和虚拟机，无需逐台设置代理；设备一接入网络，便自动通过 Mac 的全屋代理网关，并按各自策略选择直连或代理出口。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/WS4dl0V.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/WS4dl0V.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;你可以为每台设备设置不同的出口策略：手机和 Mac 一起走代理、游戏机连美服、电视走流媒体节点。DHCP/DNS 、分流策略和流量状态，都由 OpenSurge 集中管理。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/0hwnbG7.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/0hwnbG7.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;- 可导入已有的 mihomo 配置或订阅，保留原有节点、代理组和规则&lt;br /&gt;- Web GUI 实时展示每台设备的连接、上下行流量和实际出口链；菜单栏随时查看网关状态与恢复提醒。&lt;br /&gt;- 底层由 dnsmasq 提供 DHCP/DNS ，mihomo 负责代理与策略，macOS pf 和 IPv4 forwarding 提供 NAT 与转发。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ubAeY1G.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ubAeY1G.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;仓库链接在下面：&lt;br /&gt;🔗 &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/YTwsy/OpenSurge-for-Mac&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/YTwsy/OpenSurge-for-Mac&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
