@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 19 Jul 2026 07:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:23:39 GMT</lastBuildDate>
     <item>
       <title>兄弟们，关于 Macbook 血的教训！ MacOS 比 Win 更逆天！</title>
       <link>https://www.v2ex.com/t/1228302</link>
@@ -25,15 +25,6 @@
 </description>
     </item>
     <item>
-      <title>灵魂拷问：未来的 vibe coding 平民化了，那我现在还迭代个锤子啊</title>
-      <link>https://www.v2ex.com/t/1228303</link>
-      <guid>v2ex-1228303</guid>
-      <pubDate>Sun, 19 Jul 2026 01:35:12 GMT</pubDate>
-      <description>&lt;p&gt;重构了一版扔在产品库的老掉牙的屎山产品。过程中，来灵魂拷问一下大家，按照 AI 发展趋势+端侧能力，&lt;/p&gt;
-&lt;p&gt;未来用户需求=产品了，都个性自定义化了，那么我们现在还迭戈锤子啊。。。。动力感不强劲了&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>完全没有编程经验能否依靠 AI 开发一些小软件</title>
       <link>https://www.v2ex.com/t/1228254</link>
       <guid>v2ex-1228254</guid>
@@ -47,18 +38,20 @@ AI 时代已经走过好几年了，现在 AI 的能力更上一层楼，看了�
 </description>
     </item>
     <item>
+      <title>灵魂拷问：未来的 vibe coding 平民化了，那我现在还迭代个锤子啊</title>
+      <link>https://www.v2ex.com/t/1228303</link>
+      <guid>v2ex-1228303</guid>
+      <pubDate>Sun, 19 Jul 2026 01:35:12 GMT</pubDate>
+      <description>&lt;p&gt;重构了一版扔在产品库的老掉牙的屎山产品。过程中，来灵魂拷问一下大家，按照 AI 发展趋势+端侧能力，&lt;/p&gt;
+&lt;p&gt;未来用户需求=产品了，都个性自定义化了，那么我们现在还迭戈锤子啊。。。。动力感不强劲了&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>如何培养孩子当领导的能力</title>
       <link>https://www.v2ex.com/t/1228256</link>
       <guid>v2ex-1228256</guid>
       <pubDate>Sat, 18 Jul 2026 13:15:13 GMT</pubDate>
       <description>如何培养孩子当领导的能力</description>
-    </item>
-    <item>
-      <title>AI 写代码的时候总是使用大量的辅助函数，应该如何处理？</title>
-      <link>https://www.v2ex.com/t/1228216</link>
-      <guid>v2ex-1228216</guid>
-      <pubDate>Sat, 18 Jul 2026 08:13:21 GMT</pubDate>
-      <description>提示词中应该如何表达？似乎 AI 总是忽略我的提示词。&lt;br /&gt;&lt;br /&gt;```&lt;br /&gt;避免过度抽象: 不要创建一次性 helper 、utils 、wrapper 或局部小框架，除非能明确提升复用、测试、复杂度隔离或语义稳定性。不要做辅助函数小王子。&lt;br /&gt;```&lt;br /&gt;&lt;br /&gt;不喜欢过度抽象，尤其是重复的大量小辅助函数。</description>
     </item>
     <item>
       <title>有结婚后上交工资卡，让妻子管理家庭财政的吗？</title>
@@ -68,6 +61,31 @@ AI 时代已经走过好几年了，现在 AI 的能力更上一层楼，看了�
       <description>&lt;p&gt;1 ，前奥运冠军、世界拳王邹市明退役 7 年跨界创业、投资，累计亏损超 2 亿，卖掉房产偿债、陷入资金链危机;
 2 ，我朋友的前妻，离婚时指责他没有上交工资卡，结果离婚几年后，朋友经常收到关于他前妻追债的短信；&lt;/p&gt;
 &lt;p&gt;我就打死都不上交，各管各的，只允许她审计资金流水&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>把 app 的每一个页面 copy 给 AI， ai 能复刻出这个 app 吗？它能自动发掘其后的逻辑，复刻出来吗？</title>
+      <link>https://www.v2ex.com/t/1228298</link>
+      <guid>v2ex-1228298</guid>
+      <pubDate>Sun, 19 Jul 2026 00:58:23 GMT</pubDate>
+      <description>&lt;p&gt;复刻程序是否越来越容易了？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>如何将中美两国的家庭网络组成局域网?</title>
+      <link>https://www.v2ex.com/t/1228327</link>
+      <guid>v2ex-1228327</guid>
+      <pubDate>Sun, 19 Jul 2026 03:49:18 GMT</pubDate>
+      <description>&lt;p&gt;中国、美国各有一个家庭网络，均有公网 ipv4 ，且可以互相直连，延迟 150ms 左右，比较稳定。
+两个局域网内各有几十台家用设备。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;希望&lt;/strong&gt;: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;实现局域网互通。可以在两端各加一个旁臂路由，或者其他设备也可。(个人不喜欢用软路由当主路由)&lt;/li&gt;
+&lt;li&gt;互相作为网络出口。在中国通过美国网络访问 Google 、ChatGPT 等，在美国使用中国网络访问淘宝等网站。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;大佬们有成熟方案吗？或者给个关键词？
+ZeroTier 或 WireGuard 好用吗？&lt;/p&gt;
+&lt;p&gt;提前感谢各位大佬！&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -82,14 +100,6 @@ AI 时代已经走过好几年了，现在 AI 的能力更上一层楼，看了�
 接受自己的无聊，降低多巴胺的背景水平，让大脑回到一个健康的去亢奋状态。&lt;/p&gt;
 &lt;p&gt;我身上一个简单但作用明显的实践：&lt;strong&gt;不要把手机带进卧室。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;大家有什么好的实践吗&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>ai 用得越多，越发现产品人才 &gt; 技术人才 了</title>
-      <link>https://www.v2ex.com/t/1228233</link>
-      <guid>v2ex-1228233</guid>
-      <pubDate>Sat, 18 Jul 2026 10:32:04 GMT</pubDate>
-      <description>&lt;p&gt;没有 ai 之前，技术人才是第一，现在，没办法。&lt;/p&gt;
 </description>
     </item>
   </channel>
