@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 18 Jul 2026 23:41:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 01:30:01 GMT</lastBuildDate>
     <item>
       <title>纯功利的角度, 如何为孩子选兴趣班？</title>
       <link>https://www.v2ex.com/t/1228170</link>
@@ -62,14 +62,6 @@
       <description>应该只有互联网开发会出现所谓的 35 斩杀线吧，并且经验完全没有用，瞬间被 ai 替代。 像机械 电子 这种，开源好像没有计算机的多。经验多的老师傅 完全不担心失业。 但是就算你是全栈 资深  高级，  算法  在 ai 出来后，人人自危。   &lt;br /&gt;&lt;br /&gt;还有今年冒出来的 agent 开发工程师。 公司真的需要这玩意吗，造需求，就更 3 月份的龙虾一样。等 agent 开发完了。还需要那么多 agent 开发吗？最后还是自己把自己干死了。</description>
     </item>
     <item>
-      <title>18 号到期的重置，本来想着今天用的，结果。。。</title>
-      <link>https://www.v2ex.com/t/1228155</link>
-      <guid>v2ex-1228155</guid>
-      <pubDate>Sat, 18 Jul 2026 01:12:30 GMT</pubDate>
-      <description>&lt;p&gt;今天 18 号一大早就发现重置已经没有了。。。。。。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>2026，我将博客部署到了 Cloudflare（CF）</title>
       <link>https://www.v2ex.com/t/1228199</link>
       <guid>v2ex-1228199</guid>
@@ -87,89 +79,24 @@
 </description>
     </item>
     <item>
+      <title>完全没有编程经验能否依靠 AI 开发一些小软件</title>
+      <link>https://www.v2ex.com/t/1228254</link>
+      <guid>v2ex-1228254</guid>
+      <pubDate>Sat, 18 Jul 2026 13:07:50 GMT</pubDate>
+      <description>&lt;p&gt;玩电脑倒是有 20 年的经验，不过也就是比普通用户多知道一些电脑知识。对编程一窍不通。
+AI 时代已经走过好几年了，现在 AI 的能力更上一层楼，看了很多用 AI 辅助开发软件的案例。心中有一丝疑惑？
+1 ，普通人能否依靠 AI 开发一些个人使用的单机软件呢？比如某些辅助工具软件。方便自己的工作或者生活吗？
+2 ，如果可行的话，自己还需要学习哪些知识内容？
+3 ，哪个 AI 的编程能力比较强？
+4 ，开发完全让 AI 编写，还是自己也要参与部分编写呢？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Codex 又又又重置了</title>
       <link>https://www.v2ex.com/t/1228183</link>
       <guid>v2ex-1228183</guid>
       <pubDate>Sat, 18 Jul 2026 03:32:59 GMT</pubDate>
       <description>&lt;p&gt;还好忍住没用重置卡，竟然在 18%的时候又重置了。感觉有点赚翻了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>PowerShell 和 Codex 在打架？可以试试这份提示词</title>
-      <link>https://www.v2ex.com/t/1228204</link>
-      <guid>v2ex-1228204</guid>
-      <pubDate>Sat, 18 Jul 2026 05:45:39 GMT</pubDate>
-      <description>&lt;p&gt;今天花时间写了篇 codex 下使用 PowerShell 的文章 在 V2EX 上也发一份&lt;/p&gt;
-&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;最近半年一直 Windows 下使用 &lt;strong&gt;Codex&lt;/strong&gt; 开发项目，逐渐把开发环境打造得更接近 Linux 下的开发体验。最近看到很多人反馈 PowerShell 和 Codex 打架的情况，因为这问题我之前就解决了，所以想分享下我的方案。  &lt;/p&gt;
-&lt;p&gt;现在这套环境谈不上多复杂，主要有两个重点：&lt;br/&gt;
-&lt;strong&gt;先把终端环境统一，再用提示词把大模型的命令习惯掰过来。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;先安装 pwsh 7 和 Windows Terminal&lt;/h2&gt;
-&lt;p&gt;如果你还在使用系统自带的 Windows PowerShell 5.1 ，我建议先换成现代 shell：PowerShell 7 （ pwsh ）。
-至于 PowerShell 5.1 和 PowerShell 7 的区别，可以找 AI 给你解释一下，但是结论不变:&lt;br/&gt;
-&lt;strong&gt;现代 Windows 开发环境最好统一到 pwsh 7 。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;可以直接用 &lt;code&gt;winget&lt;/code&gt;安装：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-powershell&quot;&gt;winget install --id Microsoft.PowerShell --source winget
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;也可以从 &lt;a href=&quot;https://learn.microsoft.com/zh-cn/powershell/scripting/install/install-powershell-on-windows&quot; rel=&quot;nofollow&quot;&gt;PowerShell 官方安装页面&lt;/a&gt; 下载 MSI 安装包手动安装。&lt;/p&gt;
-&lt;p&gt;安装后验证，在命令行中输出版本号:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-powershell&quot;&gt;PS C:\Users\AAA&amp;gt; pwsh -v
-PowerShell 7.x
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;原生的 PowerShell 界面很丑，所以必安装另一个 Windows 神器 &lt;code&gt;Windows Terminal&lt;/code&gt;&lt;br/&gt;
-它的价值不只是好看，而是把 &lt;code&gt;pwsh&lt;/code&gt;、Git Bash 、远程 SSH 等环境放在同一个窗口里管理，支持标签页、分屏、统一的字体和编码设置。平时一边让 Codex 在一个窗口里执行命令，一边查看日志或运行服务，效率会高很多。&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-powershell&quot;&gt;winget install --id Microsoft.WindowsTerminal --source winget
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;也可以通过 &lt;a href=&quot;https://learn.microsoft.com/zh-cn/windows/terminal/install&quot; rel=&quot;nofollow&quot;&gt;Windows Terminal 官方安装页面&lt;/a&gt; 进入 GitHub Releases ，下载对应安装包手动安装。&lt;/p&gt;
-&lt;p&gt;安装完成后，把 Windows Terminal 的默认配置文件设为 &lt;strong&gt;PowerShell 7&lt;/strong&gt;。这样打开后默认就是 pwsh7 的环境。所有提示词、命令和排错过程，都应该建立在同一个 shell 上。&lt;/p&gt;
-&lt;h2&gt;安装 &lt;code&gt;rg&lt;/code&gt;&lt;/h2&gt;
-&lt;p&gt;rg 就是 &lt;strong&gt;ripgrep&lt;/strong&gt;，一个非常适合在代码仓库里搜索文本的命令行工具，速度快，默认会遵守 &lt;code&gt;.gitignore&lt;/code&gt;，输出也比 PowerShell 原生搜索更适合直接交给 AI 阅读。&lt;/p&gt;
-&lt;p&gt;但要注意，&lt;code&gt;rg&lt;/code&gt; 并不是 Windows 原生命令。需要提前安装一下。  &lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-powershell&quot;&gt;# 使用 winget 安装
-winget install BurntSushi.ripgrep.MSVC
-
-# 或者使用 Scoop 进行安装
-scoop install ripgrep
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;当然也可以从 &lt;a href=&quot;https://ripgrep.dev/download/&quot; rel=&quot;nofollow&quot;&gt;ripgrep 官方下载页面&lt;/a&gt; 手动下载 Windows 安装包。&lt;/p&gt;
-&lt;p&gt;安装后记得重新打开 Windows Terminal ，否则当前终端可能还没有刷新 PATH 。&lt;br/&gt;
-安装完成后，可以用下面的命令确认是否生效：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-powershell&quot;&gt;rg --version
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;加提示词约束&lt;/h2&gt;
-&lt;p&gt;把终端环境换好只是第一步。真正影响体验的，是要明确告诉 Codex：&lt;strong&gt;当前项目使用的是 PowerShell ，不是 Bash 。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大模型在训练时接触过的编程语料、命令示例和工具调用记录里，Linux 、Bash 的比例非常高。所以当你只说“执行一个命令”时，它很容易下意识写出 &lt;code&gt;grep&lt;/code&gt;、&lt;code&gt;sed&lt;/code&gt;、&lt;code&gt;cat&lt;/code&gt; 或 &lt;code&gt;&amp;amp;&amp;amp;&lt;/code&gt; 这一套 Bash 习惯。命令本身可能没错，但放到 &lt;code&gt;pwsh&lt;/code&gt; 里就会报错，或者产生和预期不同的结果。&lt;/p&gt;
-&lt;p&gt;这套提示词约束已经让我在 Windows 环境下顺畅工作了几个月，现在直接分享在下面：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;## Windows 约束
-当前环境是 Windows 10 / pwsh7
-- 默认禁止使用 Bash 语法，除非确定此 shell 处在 Linux 环境
-- 不要使用 Bash 引号/转义习惯，在 PowerShell 命令里，复杂正则优先用单引号包裹。
-- 如果正则本身同时包含单引号和双引号，优先拆成多个简单 rg 命令。
-- 执行多行 Python 禁止使用 Bash heredoc ；改用 PowerShell here-string | python -
-- pwsh 中，语句块表达式（如 `foreach`、`if`）不能直接作为管道输入。 需要先使用 `$()` / `@()` 包裹，或先赋值给变量。 普通命令输出可直接进入管道，无需额外包裹。
-- PowerShell 使用 `rg` 时，通配目录必须先用 `Get-ChildItem -Filter` 展开为真实路径，禁止直接把含 `*` 的搜索路径传给 `rg`。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;可以直接把这段提示词复制到 &lt;code&gt;C:/Users/&amp;lt;userName&amp;gt;/.codex/&lt;a href=&quot;http://AGENTS.md&quot; rel=&quot;nofollow&quot;&gt;AGENTS.md&lt;/a&gt;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;我这边用的是 &lt;code&gt;Windows 10 LTSC&lt;/code&gt;, 你可以换成你的系统&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这套提示词不是为了限制 Codex ，而是为了减少它在 shell 之间切换时的冲突。特别是引号、管道、正则和多行脚本，这几类问题经常会打架，一旦出错，让 AI 自动修正会浪费很多时间&lt;/p&gt;
-&lt;h2&gt;为什么这几条约束值得保留&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;明确 shell&lt;/strong&gt;：让 Codex 从一开始就知道命令要交给 &lt;code&gt;pwsh&lt;/code&gt;，避免默认生成 Bash 命令。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;约束引号和转义&lt;/strong&gt;：PowerShell 的字符串、正则和变量展开规则不同，先规定写法，能少踩一轮转义的坑。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;替代 heredoc&lt;/strong&gt;：Windows 下没有 Bash heredoc ，PowerShell here-string 才是稳定的多行文本方案。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;处理语句块管道&lt;/strong&gt;：&lt;code&gt;foreach&lt;/code&gt;、&lt;code&gt;if&lt;/code&gt; 这类语句块不能直接当作普通管道输入，提前写进规则后，Codex 不会反复生成同一种错误写法。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;处理 &lt;code&gt;rg&lt;/code&gt; 通配路径&lt;/strong&gt;：先展开真实目录再搜索，比把 &lt;code&gt;*&lt;/code&gt; 直接交给命令更符合 PowerShell 和 Windows 的路径行为。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我的经验是，提示词不需要写得特别长，但要把&lt;strong&gt;最容易出错、而且会反复出错的地方&lt;/strong&gt;说清楚。规则稳定下来之后，Codex 执行命令的成功率会明显提高，来回打架解释“这不是 Bash ，请改成 PowerShell”的次数也少很多。&lt;/p&gt;
-&lt;h2&gt;总结&lt;/h2&gt;
-&lt;p&gt;Codex 下 PowerShell 执行时打架的原因，就是因为它在猜你的 shell 。&lt;br/&gt;
-把环境写清楚，把容易错的语法提前约束好，Windows 下的开发体验会立刻稳定提升一截。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;blockquote&gt;
-&lt;p&gt;原创声明: 本文首发于个人博客 &lt;a href=&quot;https://blog.knowckx.de&quot; rel=&quot;nofollow&quot;&gt;原文地址&lt;/a&gt; 欢迎各位大佬交流&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
   </channel>
