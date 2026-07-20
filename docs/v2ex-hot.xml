@@ -4,40 +4,14 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 19 Jul 2026 22:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 02:20:28 GMT</lastBuildDate>
     <item>
-      <title>兄弟们，关于 Macbook 血的教训！ MacOS 比 Win 更逆天！</title>
-      <link>https://www.v2ex.com/t/1228302</link>
-      <guid>v2ex-1228302</guid>
-      <pubDate>Sun, 19 Jul 2026 01:34:29 GMT</pubDate>
-      <description>&lt;h2&gt;原文:本电脑本人自营购买，有发票，有盒子配件齐全的未激活电脑。到手后，没登录 iCloud ，只设置了本地账户（不设本地账户进不去系统），随后用了大概半年，此前密码一直是 0000 ，前天改了也是 6 位纯数字密码。（和手机一起改的同样的密码）然后就正常用，后面电脑又突发恶疾，莫名其妙的断网，故我就重启了，开机时这里又卡住在系统桌面大概 20 多秒才自己关机。（ apple 真垃圾！）关机后重启系统，到输入密码界面发现输入密码错误，试了新的旧的，都错误，但是我能 100%确定密码是正确的，因为我和手机同时改的同样的密码。（纯数字密码，故排除了输入法问题）并且清晰地记得当时改完密码第一时间验证过新密码能进锁屏。随后赶紧网上找教程，发现可以进恢复系统重设密码，进入后输入 resetpassword 准备重置，然后发现有保底的，就准备再切到系统去试试密码实在不行再过来改，然后重启后，人懵了，直接在激活界面，必须要账号密码才能进刚刚那个保底界面。（后面才知道这个功能只有一次机会，苹果说就这么设计的，真的逆天！请问你是注重安全吗？那为什么能直接重设密码？那如果可以重设密码的话？为什么只给一次机会？啊三的脑回路我实在不理解。）然后去了天才吧，打了官方高级顾问电话，最后都是无解。1.mac 没有类似 win 的 pe 系统，所以数据没办法搞出来了 2.这个最要命的点就是，resetpassword 直接一次机会非常不合理，即使没有成功进行，也没机会了……纯莎杯，而且没有任何提示和警告只有一次机会……这么高危的东西，设计的实在 nt……&lt;/h2&gt;
-&lt;h3&gt;疑问与质问：&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;这是什么脑回路的安全？&lt;/strong&gt;
-如果你真的注重安全，为什么第一次可以让我直接免密进 &lt;code&gt;resetpassword&lt;/code&gt; 重置？&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;既然允许重置，凭什么只给一次机会？&lt;/strong&gt;
-既然第一次开放了权限，中途退出直接算作废，请问这个逻辑的合理性在哪里？&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;为什么没有任何高危提示？&lt;/strong&gt;
-这么高危、一旦错过就变砖的机制，界面上特么哪怕连一行 &lt;code&gt;“此操作仅能执行一次，退出后将锁死”&lt;/code&gt; 的警告都没有！阿三这个脑回路我实在是不理解。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/95k1o36gWED66GzHEmXqujp6MPcwtiw9.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>性生活是不是人的刚需</title>
-      <link>https://www.v2ex.com/t/1228347</link>
-      <guid>v2ex-1228347</guid>
-      <pubDate>Sun, 19 Jul 2026 06:42:48 GMT</pubDate>
-      <description>刚刚刷到知乎的一个评论，也是被震撼到了，只能说荷兰是一个真的很人性的国家，瞬间有想移民到荷兰的冲动&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/1oOj8577.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 1oOj8577.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/1oOj8577.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>灵魂拷问：未来的 vibe coding 平民化了，那我现在还迭代个锤子啊</title>
-      <link>https://www.v2ex.com/t/1228303</link>
-      <guid>v2ex-1228303</guid>
-      <pubDate>Sun, 19 Jul 2026 01:35:12 GMT</pubDate>
-      <description>&lt;p&gt;重构了一版扔在产品库的老掉牙的屎山产品。过程中，来灵魂拷问一下大家，按照 AI 发展趋势+端侧能力，&lt;/p&gt;
-&lt;p&gt;未来用户需求=产品了，都个性自定义化了，那么我们现在还迭戈锤子啊。。。。动力感不强劲了&lt;/p&gt;
+      <title>恶心你，还得说是为你好，深圳地铁</title>
+      <link>https://www.v2ex.com/t/1228444</link>
+      <guid>v2ex-1228444</guid>
+      <pubDate>Mon, 20 Jul 2026 00:47:20 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/m3d9677.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;学了那么多香港的玩法，地铁里面不修厕所都学香港，这个咋不学学香港？每个站都卡在那破安检机前面，为了个 APEC ，提前这么久来驯化。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -48,6 +22,65 @@
       <description>&lt;p&gt;1 ，前奥运冠军、世界拳王邹市明退役 7 年跨界创业、投资，累计亏损超 2 亿，卖掉房产偿债、陷入资金链危机;
 2 ，我朋友的前妻，离婚时指责他没有上交工资卡，结果离婚几年后，朋友经常收到关于他前妻追债的短信；&lt;/p&gt;
 &lt;p&gt;我就打死都不上交，各管各的，只允许她审计资金流水&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>性生活是不是人的刚需</title>
+      <link>https://www.v2ex.com/t/1228347</link>
+      <guid>v2ex-1228347</guid>
+      <pubDate>Sun, 19 Jul 2026 06:42:48 GMT</pubDate>
+      <description>刚刚刷到知乎的一个评论，也是被震撼到了，只能说荷兰是一个真的很人性的国家，瞬间有想移民到荷兰的冲动&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/1oOj8577.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 1oOj8577.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/1oOj8577.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>“万 1 免 5”股票 etf 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [7.20 日~7.27 日]</title>
+      <link>https://www.v2ex.com/t/1228439</link>
+      <guid>v2ex-1228439</guid>
+      <pubDate>Mon, 20 Jul 2026 00:25:52 GMT</pubDate>
+      <description>这周还是抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+&lt;br /&gt;大笑脸开户，最近新增了很多新的低门槛免 5 券商，股票，etf 全网超低费率，欢迎来开！开户和推荐朋友都有红包！&lt;br /&gt;⚠️回帖即可参与抽奖！&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/p96eAHV9l.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 p96eAHV9l.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/p96eAHV9l.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;⚠️大笑脸低佣开户推荐：&lt;br /&gt;YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利 ，逆回购 1 折，新手必备]&lt;br /&gt;GF 证券：ETF 万 0.5 免 5 [ETF,LOF ，etf 费率低]&lt;br /&gt;SJ 证券：万 0.941 免 5  [低门槛股票 etf 双免 5 ]&lt;br /&gt;XD 证券：万 0.851 免 5  [ 股票 etf 都是超低费率]&lt;br /&gt;DB 证券：万 0.741 免 5 [国企券商，股票 etf 费率都很低]&lt;br /&gt;GT**证券：万 0.8 免 5 [头部龙头券商，费率最优惠，大客户专享，综合费率最低]&lt;br /&gt;GX 证券：万 0.851 免 5 [头部龙头券商，综合费率也很低]&lt;br /&gt;&lt;br /&gt;⚠️大笑脸联系方式和最新具体券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;http://www.daxiaolian.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.daxiaolian.com&lt;/a&gt;&lt;br /&gt;备用链接 &lt;a target=&quot;_blank&quot; href=&quot;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&quot; rel=&quot;nofollow noopener&quot;&gt;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&lt;/a&gt;&lt;br /&gt;备用联系方式 Z2FveWEyNTAw&lt;br /&gt;ZHhnODg0NA==</description>
+    </item>
+    <item>
+      <title>Kimi K3 这波真的爆了，你们用着感觉怎么样？</title>
+      <link>https://www.v2ex.com/t/1228376</link>
+      <guid>v2ex-1228376</guid>
+      <pubDate>Sun, 19 Jul 2026 10:11:37 GMT</pubDate>
+      <description>&lt;p&gt;这几天被 Kimi K3 刷屏了，X 上在吹，HN 上在吹，都说是国产之光，deepseek 时刻 2.0 来了。&lt;/p&gt;
+&lt;p&gt;我也试了一下，浅浅分享自己的体验吧。&lt;/p&gt;
+&lt;p&gt;先说好的地方：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;前端能力很强。 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kimi K3 前端能力这块，算是跻身全球第一梯队，真要个人排名的话，目前我给它排第二，还超越不了 Fable 5--LMArena 人类盲投榜上它前端甚至排第一，但我实测体感，Fable 5 还是更稳。&lt;/p&gt;
+&lt;p&gt;不过比 GPT-5.6 强得多，这是 GPT 系列家族的通病，前端能力一直很弱。&lt;/p&gt;
+&lt;p&gt;特别是那个刷屏的 3D 建模，我不知道设计圈怎么看，我觉得挺牛的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;长时复杂任务处理能力也很不错。 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;比如要做一个复杂的系统，定好一份计划，扔给它，/goal 模式让它自动处理，出错的概率，以及最后交付的结果非常不错。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;原生多模态能力。 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;K3 可以直接理解视频，比如语气，音效，转场之类的，比普通的只能理解文字和图片的 CC/Codex 好多了。喂给 K3 一个视频，让它帮你生成同样风格的 seedance 的提示词，它可以生成得很精准。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kimi 是开源的，权重 7 月 27 日就放出来，这意味着以后任何一家 AI 公司都可以直接拿去用，拿去蒸馏，而 Fable 5 和 GPT-5.6 都是自家闭源的旗舰大模型。&lt;/p&gt;
+&lt;p&gt;然后再讲讲不好的地方吧。（轻喷）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;国产最贵。 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目前 K3 价格是国产最贵，如果你和国产对比，你一定会不习惯，甚至说它想钱想疯了，但是和国外对比不算贵，成本和 GPT-5.6 差不多，约是 Opus 4.8 的一半。不过考虑到能力嘛，一分钱一分货，我觉得有道理。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;速度稍慢。 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;感觉它比 CC + Fable 5 慢得多，比 Codex + GPT-5.6 也一样慢不少。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;幻觉率偏高。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这个你瞎编一个问题去问它，你就知道了。幻觉率高的模型会给你一个答案，并且瞎编一个理由。&lt;/p&gt;
+&lt;p&gt;但是幻觉低的模型，它遇到它不知道的知识，会诚实地告诉你它不知道，甚至可以反问你。&lt;/p&gt;
+&lt;p&gt;最后，综合评价一下，我觉得它确实能跻身世界前三，但跟 CC + Fable 5 和 Codex + GPT-5.6 还有点差距。&lt;/p&gt;
+&lt;p&gt;但这毕竟是国产模型第一次敢跟 Anthropic 和 OpenAI 掰手腕，所以我觉得，还是未来可期啊。&lt;/p&gt;
+&lt;p&gt;你们试了没？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -66,6 +99,13 @@
 ZeroTier 或 WireGuard 好用吗？&lt;/p&gt;
 &lt;p&gt;提前感谢各位大佬！&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>大家那里的城市，有没有看到广东揭阳狗狗旺旺的广告牌</title>
+      <link>https://www.v2ex.com/t/1228397</link>
+      <guid>v2ex-1228397</guid>
+      <pubDate>Sun, 19 Jul 2026 13:22:17 GMT</pubDate>
+      <description>我这里有了&lt;br /&gt;&lt;br /&gt;第一次看到大家为公益事件这么团结😢</description>
     </item>
     <item>
       <title>Vibe Coding 副业四个月：成本超出收益，要放弃吗？</title>
@@ -143,59 +183,6 @@ ZeroTier 或 WireGuard 好用吗？&lt;/p&gt;
       <guid>v2ex-1228353</guid>
       <pubDate>Sun, 19 Jul 2026 07:47:57 GMT</pubDate>
       <description>OpenSurge for Mac 是一个开源应用，提供类似 Surge 的体验，可以把你的 Mac 变成全屋的代理网关：同一局域网里的手机、电视、PS5 、游戏机、VR 设备和虚拟机，无需逐台设置代理；设备一接入网络，便自动通过 Mac 的全屋代理网关，并按各自策略选择直连或代理出口。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/WS4dl0V.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/WS4dl0V.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;你可以为每台设备设置不同的出口策略：手机和 Mac 一起走代理、游戏机连美服、电视走流媒体节点。DHCP/DNS 、分流策略和流量状态，都由 OpenSurge 集中管理。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/0hwnbG7.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/0hwnbG7.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;- 可导入已有的 mihomo 配置或订阅，保留原有节点、代理组和规则&lt;br /&gt;- Web GUI 实时展示每台设备的连接、上下行流量和实际出口链；菜单栏随时查看网关状态与恢复提醒。&lt;br /&gt;- 底层由 dnsmasq 提供 DHCP/DNS ，mihomo 负责代理与策略，macOS pf 和 IPv4 forwarding 提供 NAT 与转发。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ubAeY1G.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ubAeY1G.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;仓库链接在下面：&lt;br /&gt;🔗 &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/YTwsy/OpenSurge-for-Mac&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/YTwsy/OpenSurge-for-Mac&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>把 app 的每一个页面 copy 给 AI， ai 能复刻出这个 app 吗？它能自动发掘其后的逻辑，复刻出来吗？</title>
-      <link>https://www.v2ex.com/t/1228298</link>
-      <guid>v2ex-1228298</guid>
-      <pubDate>Sun, 19 Jul 2026 00:58:23 GMT</pubDate>
-      <description>&lt;p&gt;复刻程序是否越来越容易了？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Kimi K3 这波真的爆了，你们用着感觉怎么样？</title>
-      <link>https://www.v2ex.com/t/1228376</link>
-      <guid>v2ex-1228376</guid>
-      <pubDate>Sun, 19 Jul 2026 10:11:37 GMT</pubDate>
-      <description>&lt;p&gt;这几天被 Kimi K3 刷屏了，X 上在吹，HN 上在吹，都说是国产之光，deepseek 时刻 2.0 来了。&lt;/p&gt;
-&lt;p&gt;我也试了一下，浅浅分享自己的体验吧。&lt;/p&gt;
-&lt;p&gt;先说好的地方：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;前端能力很强。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Kimi K3 前端能力这块，算是跻身全球第一梯队，真要个人排名的话，目前我给它排第二，还超越不了 Fable 5--LMArena 人类盲投榜上它前端甚至排第一，但我实测体感，Fable 5 还是更稳。&lt;/p&gt;
-&lt;p&gt;不过比 GPT-5.6 强得多，这是 GPT 系列家族的通病，前端能力一直很弱。&lt;/p&gt;
-&lt;p&gt;特别是那个刷屏的 3D 建模，我不知道设计圈怎么看，我觉得挺牛的。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;长时复杂任务处理能力也很不错。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;比如要做一个复杂的系统，定好一份计划，扔给它，/goal 模式让它自动处理，出错的概率，以及最后交付的结果非常不错。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;原生多模态能力。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;K3 可以直接理解视频，比如语气，音效，转场之类的，比普通的只能理解文字和图片的 CC/Codex 好多了。喂给 K3 一个视频，让它帮你生成同样风格的 seedance 的提示词，它可以生成得很精准。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;开源。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Kimi 是开源的，权重 7 月 27 日就放出来，这意味着以后任何一家 AI 公司都可以直接拿去用，拿去蒸馏，而 Fable 5 和 GPT-5.6 都是自家闭源的旗舰大模型。&lt;/p&gt;
-&lt;p&gt;然后再讲讲不好的地方吧。（轻喷）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;国产最贵。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前 K3 价格是国产最贵，如果你和国产对比，你一定会不习惯，甚至说它想钱想疯了，但是和国外对比不算贵，成本和 GPT-5.6 差不多，约是 Opus 4.8 的一半。不过考虑到能力嘛，一分钱一分货，我觉得有道理。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;速度稍慢。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;感觉它比 CC + Fable 5 慢得多，比 Codex + GPT-5.6 也一样慢不少。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;幻觉率偏高。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这个你瞎编一个问题去问它，你就知道了。幻觉率高的模型会给你一个答案，并且瞎编一个理由。&lt;/p&gt;
-&lt;p&gt;但是幻觉低的模型，它遇到它不知道的知识，会诚实地告诉你它不知道，甚至可以反问你。&lt;/p&gt;
-&lt;p&gt;最后，综合评价一下，我觉得它确实能跻身世界前三，但跟 CC + Fable 5 和 Codex + GPT-5.6 还有点差距。&lt;/p&gt;
-&lt;p&gt;但这毕竟是国产模型第一次敢跟 Anthropic 和 OpenAI 掰手腕，所以我觉得，还是未来可期啊。&lt;/p&gt;
-&lt;p&gt;你们试了没？&lt;/p&gt;
-</description>
     </item>
   </channel>
 </rss>
