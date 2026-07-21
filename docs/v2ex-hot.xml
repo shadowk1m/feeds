@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 21 Jul 2026 11:45:20 GMT</lastBuildDate>
-    <item>
-      <title>看了揭阳的虐狗事件，失眠了</title>
-      <link>https://www.v2ex.com/t/1228722</link>
-      <guid>v2ex-1228722</guid>
-      <pubDate>Tue, 21 Jul 2026 02:03:27 GMT</pubDate>
-      <description>不忍心看原视频，看了 x 上各种外国网友们发的照片片段，感觉浑身发冷，特别难受，这些人是出于什么心理呢，对小动物下这么狠的手，奇怪的是这件事竟然在国内看不到一点儿消息，只要发帖子就会被删，虽然立法保护动物是比较难的，但这些小孩内心如此阴暗，还把整个事件拍了视频发到网上，造成了如此大的影响，这种人留着也是祸害，应该受到惩罚。</description>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 13:14:23 GMT</lastBuildDate>
     <item>
       <title>欲女和她的舔狗(重排版)</title>
       <link>https://www.v2ex.com/t/1228745</link>
@@ -51,14 +44,6 @@
       <guid>v2ex-1228804</guid>
       <pubDate>Tue, 21 Jul 2026 05:48:40 GMT</pubDate>
       <description>是一个旁路由小盒子，我们买了美国和英国的，发现及其稳定&lt;br /&gt;不管什么时候我们买的 100m 永远能跑满，ping 都不波动的&lt;br /&gt;永远可以跑满速度&lt;br /&gt;这种是不是就是那种机场专线啊？</description>
-    </item>
-    <item>
-      <title>问界 M9 顶配，值不值</title>
-      <link>https://www.v2ex.com/t/1228655</link>
-      <guid>v2ex-1228655</guid>
-      <pubDate>Mon, 20 Jul 2026 11:57:42 GMT</pubDate>
-      <description>&lt;p&gt;周末试驾了，感觉不错，高大上的感觉。到底值不值这个价&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>“万一免五”低佣低两融老倔驴开户巨靠谱！继续抽 2 台酷态科小风扇，给大家降降温～</title>
@@ -138,6 +123,24 @@ GitHub： &lt;a href=&quot;https://github.com/QuintinShaw/openasr&quot; rel=&quo
 &lt;li&gt;有没有人试过把旧 session 蒸馏成能复用的东西（ skill 、文档、prompt 模板）？坚持下来了，还是太麻烦放弃了？&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;我自己在折腾这个方向（在做个本地小工具），更想先确认一件事：是不是只有我觉得，几个月的 agent 使用记录，其实是被我们白白扔掉的资产。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>最近在 github 上看到很多所谓开源量化交易系统</title>
+      <link>https://www.v2ex.com/t/1228796</link>
+      <guid>v2ex-1228796</guid>
+      <pubDate>Tue, 21 Jul 2026 05:29:00 GMT</pubDate>
+      <description>&lt;p&gt;RT
+但是感觉一言难尽，值得吐槽的点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;用 vibe coding 的思路去写传统机械指标，然后拼在一起&lt;/li&gt;
+&lt;li&gt;粗暴的搞截图发数据给 LLM ，妄图用提示词工程来分析图表，根本没有多周期综合分析能力&lt;/li&gt;
+&lt;li&gt;搞红蓝队辩论模式，实际上毫无意义&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;整体看，一直没法回避的问题是 LLM 幻觉和分析一致性、可审计性。B 站知乎上面一群连 github 都不会用的韭菜只会用那些黑心 up 主发布的百度网盘链接下载的所谓智能体&lt;/p&gt;
+&lt;p&gt;因为我自己是主观交易员，本科时候学过计算机，略懂软件开发，做交易后偏好用波浪理论，我之前自己搞了一个类似的 agent ，大概思路就是写好 python 工具，然后 LLM 按提示词去调用来分析波浪，但是发现存在 LLM 幻觉之后，而且难以审计，所以就暂停了开发。最近整理了思路后，换了个混合的方式重新开发。&lt;/p&gt;
+&lt;p&gt;个人认为散户搞量化交易开发难点是需要避开 HTF ，因为在 HTF 根本拼不过那些机构，应该主要考虑日内 15 分钟级别以上和波段、趋势交易才有把握。&lt;/p&gt;
+&lt;p&gt;不知道各位有什么好的思路？&lt;/p&gt;
 </description>
     </item>
   </channel>
