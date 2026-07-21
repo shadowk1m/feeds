@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 21 Jul 2026 09:58:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:45:20 GMT</lastBuildDate>
     <item>
       <title>看了揭阳的虐狗事件，失眠了</title>
       <link>https://www.v2ex.com/t/1228722</link>
@@ -125,11 +125,19 @@ GitHub： &lt;a href=&quot;https://github.com/QuintinShaw/openasr&quot; rel=&quo
 </description>
     </item>
     <item>
-      <title>有没有大龄单身优质男？</title>
-      <link>https://www.v2ex.com/t/1228698</link>
-      <guid>v2ex-1228698</guid>
-      <pubDate>Tue, 21 Jul 2026 01:00:22 GMT</pubDate>
-      <description>&lt;p&gt;这两天去相亲了，一个舞蹈老师、一个幼儿园老师。怎么说呢，不合适，互联网做久了，一直是漂着的感觉，感觉很难落地了，除非是自己做点生意什么的，但感觉都比较难。想一想自己可能会一直单身下去了，v 站有没有大龄单身优质男？你们的生活都是怎么过的？能否现身说法你现在的生活与感悟？&lt;/p&gt;
+      <title>大家用 Claude Code / Codex 攒了几个月的&quot;经验&quot;，最后都去哪了？</title>
+      <link>https://www.v2ex.com/t/1228685</link>
+      <guid>v2ex-1228685</guid>
+      <pubDate>Mon, 20 Jul 2026 16:59:58 GMT</pubDate>
+      <description>&lt;p&gt;重度用 Claude Code + Codex 大半年，~/.claude/projects 和 ~/.codex 里躺了几百个 session ，全是当时一起踩坑、定方案、改 bug 的过程。问题是这些几乎再也不会被翻出来——换台机器、换个工具、开个类似的新项目，之前和 agent 一起搞明白的东西就锁死在旧的 JSONL 里了。&lt;/p&gt;
+&lt;p&gt;现在主流的&quot;记忆&quot;方案（ &lt;a href=&quot;http://CLAUDE.md&quot; rel=&quot;nofollow&quot;&gt;CLAUDE.md&lt;/a&gt; 、各种 memory MCP ）解决的是&quot;下次别忘&quot;，但我想说的是另一个问题：&lt;strong&gt;积累下来的那部分&lt;/strong&gt;，怎么变成能带走、能复用的资产。&lt;/p&gt;
+&lt;p&gt;想问问大家真实的做法（不是假设，是你实际干过的）：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;你有没有真的翻回旧 session 去捞过东西？在找什么，花了多久？&lt;/li&gt;
+&lt;li&gt;换新机器 / 换到第二个工具（ Codex 、Cursor ）时，你实际带过去了什么？就一个 &lt;a href=&quot;http://CLAUDE.md&quot; rel=&quot;nofollow&quot;&gt;CLAUDE.md&lt;/a&gt; ？还是啥都没带？&lt;/li&gt;
+&lt;li&gt;有没有人试过把旧 session 蒸馏成能复用的东西（ skill 、文档、prompt 模板）？坚持下来了，还是太麻烦放弃了？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我自己在折腾这个方向（在做个本地小工具），更想先确认一件事：是不是只有我觉得，几个月的 agent 使用记录，其实是被我们白白扔掉的资产。&lt;/p&gt;
 </description>
     </item>
   </channel>
