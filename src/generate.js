@@ -13,6 +13,16 @@ import path from 'node:path';
 
 const DOCS_DIR = path.resolve('docs');
 
+const PROXY_URL = process.env.CF_PROXY_URL;
+
+function getProxiedUrl(targetUrl) {
+  if (PROXY_URL && targetUrl.startsWith('https://linux.do')) {
+    const base = PROXY_URL.endsWith('/') ? PROXY_URL.slice(0, -1) : PROXY_URL;
+    return `${base}/?url=${encodeURIComponent(targetUrl)}`;
+  }
+  return targetUrl;
+}
+
 const BLACKLIST_KEYWORDS = (process.env.FEED_BLACKLIST || '')
   .split(',')
   .map(k => k.trim().toLowerCase())
@@ -96,7 +106,8 @@ function buildRss({ title, link, description, items }) {
 const BROWSER_UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
 
 async function fetchJson(url, options = {}) {
-  const res = await fetch(url, {
+  const proxiedUrl = getProxiedUrl(url);
+  const res = await fetch(proxiedUrl, {
     headers: {
       'User-Agent': BROWSER_UA,
       'Accept': 'application/json, text/plain, */*',
@@ -109,7 +120,8 @@ async function fetchJson(url, options = {}) {
 }
 
 async function fetchText(url, options = {}) {
-  const res = await fetch(url, {
+  const proxiedUrl = getProxiedUrl(url);
+  const res = await fetch(proxiedUrl, {
     headers: {
       'User-Agent': BROWSER_UA,
       'Accept': 'application/rss+xml, application/xml;q=0.9, */*;q=0.8',

@@ -25,6 +25,7 @@ jobs:
         run: npm run generate
         env:
           FEED_BLACKLIST: ${{ vars.FEED_BLACKLIST }}
+          CF_PROXY_URL: ${{ secrets.CF_PROXY_URL || vars.CF_PROXY_URL }}
       - name: Commit changes
         run: |
           if [[ -n $(git status --porcelain docs) ]]; then

@@ -64,6 +64,59 @@ FEED_BLACKLIST="广告,推广,sponsored" npm run generate
 
 Leave the variable unset (or empty) to disable filtering. To use this in GitHub Actions, add `FEED_BLACKLIST` as a repository variable (Settings → Secrets and variables → Actions → Variables) — the workflow already wires it through to the generator step.
 
+## Cloudflare Proxy (for linux.do)
+
+Since `linux.do` uses Cloudflare's WAF and blocks GitHub Actions IP ranges with a `403` error, requests to `linux.do` can be routed through a Cloudflare Worker proxy.
+
+To set this up:
+
+1. Create a free Cloudflare Worker with the following code:
+   ```javascript
+   export default {
+     async fetch(request, env, ctx) {
+       const url = new URL(request.url);
+       const targetUrl = url.searchParams.get('url');
+
+       if (!targetUrl) {
+         return new Response('Missing "url" query parameter.', { status: 400 });
+       }
+
+       // Restrict proxying only to linux.do to prevent open-proxy abuse
+       if (!targetUrl.startsWith('https://linux.do/')) {
+         return new Response('Forbidden target URL.', { status: 403 });
+       }
+
+       const modifiedHeaders = new Headers(request.headers);
+       modifiedHeaders.set(
+         'User-Agent',
+         'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+       );
+
+       try {
+         const response = await fetch(targetUrl, {
+           method: request.method,
+           headers: modifiedHeaders,
+           redirect: 'follow',
+         });
+
+         return new Response(response.body, {
+           status: response.status,
+           statusText: response.statusText,
+           headers: response.headers,
+         });
+       } catch (err) {
+         return new Response(`Proxy error: ${err.message}`, { status: 500 });
+       }
+     }
+   };
+   ```
+
+2. Add your Worker's URL (e.g., `https://your-proxy.workers.dev`) to your GitHub repository:
+   - Go to **Settings** → **Secrets and variables** → **Actions**.
+   - You can add it as a **Secret** named `CF_PROXY_URL` or as a **Variable** named `CF_PROXY_URL`. The workflow will automatically pick it up from either.
+
+Once configured, the generator will automatically route all requests targeting `linux.do` through your Cloudflare Worker proxy to safely bypass the Cloudflare blocks.
+
 ## Extending
 
 Add another feed: push a new object into the `FEEDS` array in `src/generate.js` with an `id`, metadata, and a `fetcher` function returning normalized items: `{ title, link, guid, date, description }`.
