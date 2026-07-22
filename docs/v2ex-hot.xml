@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 22 Jul 2026 14:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:12:57 GMT</lastBuildDate>
     <item>
       <title>首次发帖，说下今天上班被人推倒的事情吧</title>
       <link>https://www.v2ex.com/t/1229057</link>
@@ -109,11 +109,25 @@
 </description>
     </item>
     <item>
-      <title>十年前端已经被裁了 有点迷茫 不知道要干什么</title>
-      <link>https://www.v2ex.com/t/1229004</link>
-      <guid>v2ex-1229004</guid>
-      <pubDate>Wed, 22 Jul 2026 02:47:24 GMT</pubDate>
-      <description>北京工作十年纯前端（ uniapp 微信小程序 pc RN react  vue 这些都做过），五月下旬离职了。找了两个月，目前找的要么已读不回，要么工资给的很低。大专学历确实不太好找。现在招的我看全栈比较多。目前有点迷茫了，不知道是该转行还是学后端转全栈。转行的话哪方面现在比较好点？各位有没有什么推荐，实在是人麻了。</description>
+      <title>花了半年做了一个可转债 + 套利研究工具集网站</title>
+      <link>https://www.v2ex.com/t/1229105</link>
+      <guid>v2ex-1229105</guid>
+      <pubDate>Wed, 22 Jul 2026 09:13:03 GMT</pubDate>
+      <description>&lt;p&gt;一直自己做可转债和 LOF/ETF 套利，平时要来回切集思录、雪球、东财好几个网站，数据散、效率低，就想着干脆自己撸一套工具。&lt;/p&gt;
+&lt;p&gt;陆陆续续写了半年，目前是这个样子：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;可转债数据中心&lt;/strong&gt;：全市场行情，8 个 Tab ，行情概览、全景透视、排行榜、强赎/下修跟踪、转股明细、十大持有人都有&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;雪球网增强扩展&lt;/strong&gt;：给雪球页面注入阶段涨跌、波动率指标、转债条款进度&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;套利工具箱扩展&lt;/strong&gt;：集思录/东财/雪球/天天基金页面增强，雷达扫描套利机会 + 前十持仓加权分析&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;理论价值计算器&lt;/strong&gt;：Black-Scholes + XNPV 现金流贴现，扫全市场低估转债&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;网页版 + 两个浏览器扩展 + 公众号助手，一套把盘中决策和盘后复盘串起来。&lt;/p&gt;
+&lt;p&gt;目前数据是分钟级同步，全量转债覆盖。&lt;/p&gt;
+&lt;p&gt;网站地址： &lt;a href=&quot;https://www.anchor-data.cn/&quot; rel=&quot;nofollow&quot;&gt;https://www.anchor-data.cn/&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;留 ID 或者邮箱地址送一个月会员&lt;/strong&gt;，当作给大家的见面礼，也欢迎提需求和拍砖 🙏&lt;/p&gt;
+&lt;hr/&gt;
+</description>
     </item>
   </channel>
 </rss>
