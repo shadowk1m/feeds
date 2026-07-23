@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 23 Jul 2026 07:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:10:00 GMT</lastBuildDate>
     <item>
       <title>深圳地铁被人推倒在地的后续</title>
       <link>https://www.v2ex.com/t/1229202</link>
@@ -84,79 +84,6 @@
 </description>
     </item>
     <item>
-      <title>承诺报销面试者公共交通费用，结果他跨城打车来的，合理吗？</title>
-      <link>https://www.v2ex.com/t/1229151</link>
-      <guid>v2ex-1229151</guid>
-      <pubDate>Wed, 22 Jul 2026 12:15:39 GMT</pubDate>
-      <description>&lt;p&gt;目前招聘工作异地到深圳面试的，都报销往返高铁票。&lt;/p&gt;
-&lt;p&gt;这个面试者是在广州，结果今天面试完了，丢了两张打车的截图，600 块。&lt;/p&gt;
-&lt;p&gt;我有点懵，打车是公共交通吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>花了半年做了一个可转债 + 套利研究工具集网站</title>
-      <link>https://www.v2ex.com/t/1229105</link>
-      <guid>v2ex-1229105</guid>
-      <pubDate>Wed, 22 Jul 2026 09:13:03 GMT</pubDate>
-      <description>&lt;p&gt;一直自己做可转债和 LOF/ETF 套利，平时要来回切集思录、雪球、东财好几个网站，数据散、效率低，就想着干脆自己撸一套工具。&lt;/p&gt;
-&lt;p&gt;陆陆续续写了半年，目前是这个样子：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;可转债数据中心&lt;/strong&gt;：全市场行情，8 个 Tab ，行情概览、全景透视、排行榜、强赎/下修跟踪、转股明细、十大持有人都有&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;雪球网增强扩展&lt;/strong&gt;：给雪球页面注入阶段涨跌、波动率指标、转债条款进度&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;套利工具箱扩展&lt;/strong&gt;：集思录/东财/雪球/天天基金页面增强，雷达扫描套利机会 + 前十持仓加权分析&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;理论价值计算器&lt;/strong&gt;：Black-Scholes + XNPV 现金流贴现，扫全市场低估转债&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;网页版 + 两个浏览器扩展 + 公众号助手，一套把盘中决策和盘后复盘串起来。&lt;/p&gt;
-&lt;p&gt;目前数据是分钟级同步，全量转债覆盖。&lt;/p&gt;
-&lt;p&gt;网站地址： &lt;a href=&quot;https://www.anchor-data.cn/&quot; rel=&quot;nofollow&quot;&gt;https://www.anchor-data.cn/&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;留 ID 或者邮箱地址送一个月会员&lt;/strong&gt;，当作给大家的见面礼，也欢迎提需求和拍砖 🙏&lt;/p&gt;
-&lt;hr/&gt;
-</description>
-    </item>
-    <item>
-      <title>如果不考虑金钱因素，你希望做什么职业</title>
-      <link>https://www.v2ex.com/t/1229184</link>
-      <guid>v2ex-1229184</guid>
-      <pubDate>Thu, 23 Jul 2026 00:53:57 GMT</pubDate>
-      <description>&lt;p&gt;如果不考虑金钱因素，我想做个旅拍摄影师，而且只拍女生。&lt;/p&gt;
-&lt;p&gt;不是那种流水线式的网红打卡照，而是陪着一个女孩去她真正想去的地方。她想在海边等一场日落，我就架好相机陪她坐到天黑；她想在老城区的巷子里转悠，我就跟在她身后捕捉裙摆扬起的瞬间。没有固定的机位和姿势，我只记录她最真实的样子——笑起来眼角的细纹，被风吹乱的碎发，甚至是不小心踩到水坑时的惊呼。&lt;/p&gt;
-&lt;p&gt;每趟旅程结束，我会把照片装进一本小册子送给她。里面不只有精修的大片，还有那些没来得及整理的底片，以及我在旁边写下的只言片语：“那天你说，海风咸得像眼泪。”&lt;/p&gt;
-&lt;p&gt;我希望每个来找我的女孩，都能通过这些照片重新爱上自己。她们不必完美，只需要做自己。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>现在的治安太糟糕</title>
-      <link>https://www.v2ex.com/t/1229204</link>
-      <guid>v2ex-1229204</guid>
-      <pubDate>Thu, 23 Jul 2026 01:43:29 GMT</pubDate>
-      <description>安检爱好者似乎总会假设有一个犯罪分子，平时不炸商场、景点、医院、公交，却等着地铁取消安检那天去炸地铁&lt;br /&gt;&lt;br /&gt;安检是为了提供就业岗位吗？为什么不换成维护站内秩序的呢，这点人力能捞多少钱？通过式安检门，X 光安检机，液体分析仪、手持探测仪这些硬件的招标采购、更新淘汰和维护才更方便利益输送&lt;br /&gt;&lt;br /&gt;爱好者们似乎都不记得北极鲶鱼祖父是什么岗位，捞了多少钱</description>
-    </item>
-    <item>
-      <title>智能马桶你们认为最有用和最没用的功能是什么？</title>
-      <link>https://www.v2ex.com/t/1229209</link>
-      <guid>v2ex-1229209</guid>
-      <pubDate>Thu, 23 Jul 2026 01:56:20 GMT</pubDate>
-      <description>&lt;p&gt;我觉得最有用的：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;泡沫盾：开拉前先释放泡泡，避免了溅水并能有效减小臭味扩散，比较好用&lt;/li&gt;
-&lt;li&gt;洗屁股：洗的真干净，内裤上再也不糊屎了&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;最没用的：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;感应翻盖：男生使用麻烦，有时候还乱翻盖&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    <item>
-      <title>安检就像是毒品，一旦沾上了，没有一个官员敢取消</title>
-      <link>https://www.v2ex.com/t/1229219</link>
-      <guid>v2ex-1229219</guid>
-      <pubDate>Thu, 23 Jul 2026 02:38:41 GMT</pubDate>
-      <description>&lt;p&gt;因为取消后如果发生事故，就是他的责任&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>详细记录下我新鲜出炉的维权经历</title>
       <link>https://www.v2ex.com/t/1229263</link>
       <guid>v2ex-1229263</guid>
@@ -190,11 +117,48 @@
 </description>
     </item>
     <item>
+      <title>如果不考虑金钱因素，你希望做什么职业</title>
+      <link>https://www.v2ex.com/t/1229184</link>
+      <guid>v2ex-1229184</guid>
+      <pubDate>Thu, 23 Jul 2026 00:53:57 GMT</pubDate>
+      <description>&lt;p&gt;如果不考虑金钱因素，我想做个旅拍摄影师，而且只拍女生。&lt;/p&gt;
+&lt;p&gt;不是那种流水线式的网红打卡照，而是陪着一个女孩去她真正想去的地方。她想在海边等一场日落，我就架好相机陪她坐到天黑；她想在老城区的巷子里转悠，我就跟在她身后捕捉裙摆扬起的瞬间。没有固定的机位和姿势，我只记录她最真实的样子——笑起来眼角的细纹，被风吹乱的碎发，甚至是不小心踩到水坑时的惊呼。&lt;/p&gt;
+&lt;p&gt;每趟旅程结束，我会把照片装进一本小册子送给她。里面不只有精修的大片，还有那些没来得及整理的底片，以及我在旁边写下的只言片语：“那天你说，海风咸得像眼泪。”&lt;/p&gt;
+&lt;p&gt;我希望每个来找我的女孩，都能通过这些照片重新爱上自己。她们不必完美，只需要做自己。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>承诺报销面试者公共交通费用，结果他跨城打车来的，合理吗？</title>
+      <link>https://www.v2ex.com/t/1229151</link>
+      <guid>v2ex-1229151</guid>
+      <pubDate>Wed, 22 Jul 2026 12:15:39 GMT</pubDate>
+      <description>&lt;p&gt;目前招聘工作异地到深圳面试的，都报销往返高铁票。&lt;/p&gt;
+&lt;p&gt;这个面试者是在广州，结果今天面试完了，丢了两张打车的截图，600 块。&lt;/p&gt;
+&lt;p&gt;我有点懵，打车是公共交通吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>人在香港酒店躺着，不用科学的感觉真好啊</title>
       <link>https://www.v2ex.com/t/1229178</link>
       <guid>v2ex-1229178</guid>
       <pubDate>Wed, 22 Jul 2026 23:20:00 GMT</pubDate>
       <description>感觉上 v 站都丝滑了很多，真羡慕他们🥺&lt;br /&gt;&lt;br /&gt;马上回内地了，最大的留恋居然是这里的网络，其他的也就那样吧</description>
+    </item>
+    <item>
+      <title>智能马桶你们认为最有用和最没用的功能是什么？</title>
+      <link>https://www.v2ex.com/t/1229209</link>
+      <guid>v2ex-1229209</guid>
+      <pubDate>Thu, 23 Jul 2026 01:56:20 GMT</pubDate>
+      <description>&lt;p&gt;我觉得最有用的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;泡沫盾：开拉前先释放泡泡，避免了溅水并能有效减小臭味扩散，比较好用&lt;/li&gt;
+&lt;li&gt;洗屁股：洗的真干净，内裤上再也不糊屎了&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;最没用的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;感应翻盖：男生使用麻烦，有时候还乱翻盖&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
   </channel>
 </rss>
