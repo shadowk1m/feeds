@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 25 Jul 2026 21:13:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 22:22:15 GMT</lastBuildDate>
     <item>
       <title>ChatGPT/Codex 都挂了</title>
       <link>https://www.v2ex.com/t/1229754</link>
@@ -62,6 +62,18 @@
 </description>
     </item>
     <item>
+      <title>GPT 5.6 Pro 自动降智？</title>
+      <link>https://www.v2ex.com/t/1229703</link>
+      <guid>v2ex-1229703</guid>
+      <pubDate>Sat, 25 Jul 2026 02:58:00 GMT</pubDate>
+      <description>&lt;p&gt;平常用 Codex 和 ChatGPT 比较多，Codex 因为有用量限制，所以基本只会用到 xhigh 和 high ，偶尔开一下 max 。&lt;/p&gt;
+&lt;p&gt;ChatGPT 一般无脑开 GPT 5.6 Pro ，直到昨天发现秒答，觉得不对劲，于是问了一下 juice 值，发现 Pro 只有 18 ，明显是被降智并路由到了最差的那一档
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/mGXmlqe.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;又切成 xhigh 问了一下，发现思考时间变长，juice 值也是正常的 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/EU5cDpS.png&quot;/&gt;
+不得不说这个用户体验是真的不好，如果 Pro 不可用，就直接提示不可用就好了，偷偷路由到最差的模型观感很差&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>推荐下磷酸铁锂的五号和七号电池</title>
       <link>https://www.v2ex.com/t/1229778</link>
       <guid>v2ex-1229778</guid>
@@ -74,18 +86,6 @@
 &lt;p&gt;推荐的是磷酸铁锂 5 号/7 号电池，它的电压是 3.2v ，配合一节占位筒，平均到 1.6v ，非常可以接受。且充电时不会特别烫。一般标 1000mah/500mah ，即 3200mwh/1600mwh ，单节电量和碱性电池的电量差不多。因为要配合占位筒，实际使用时只有一节的电量，对体验的影响是，以前四个月换一次，现在两个月换一次。&lt;/p&gt;
 &lt;p&gt;然后是经济账，碱性电池一般 1 元一节，磷酸铁锂充电电池大概 8 元一节，但有个核心重点，占位筒不要钱是送的，因此磷酸铁锂电池在电压上一节可以顶两节来用，只是装设备上时整体电量上只有碱性电池一半。我自己最关注的是电压，设备都在手边，几秒就能更换，四个月还是两个月换于我没有差别，因此我会主观上将磷酸铁锂电池价格除 2 ，即 4 元一节，充四次后性价比即超过碱性电池。&lt;/p&gt;
 &lt;p&gt;记得磷酸铁锂 3.2v 必须搭配占位筒来用，如果设备只有一个电池位，这种应该用 1.5v 普通锂电池。弄明白了再用，别整坏自己的设备了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>GPT 5.6 Pro 自动降智？</title>
-      <link>https://www.v2ex.com/t/1229703</link>
-      <guid>v2ex-1229703</guid>
-      <pubDate>Sat, 25 Jul 2026 02:58:00 GMT</pubDate>
-      <description>&lt;p&gt;平常用 Codex 和 ChatGPT 比较多，Codex 因为有用量限制，所以基本只会用到 xhigh 和 high ，偶尔开一下 max 。&lt;/p&gt;
-&lt;p&gt;ChatGPT 一般无脑开 GPT 5.6 Pro ，直到昨天发现秒答，觉得不对劲，于是问了一下 juice 值，发现 Pro 只有 18 ，明显是被降智并路由到了最差的那一档
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/mGXmlqe.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;又切成 xhigh 问了一下，发现思考时间变长，juice 值也是正常的 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/EU5cDpS.png&quot;/&gt;
-不得不说这个用户体验是真的不好，如果 Pro 不可用，就直接提示不可用就好了，偷偷路由到最差的模型观感很差&lt;/p&gt;
 </description>
     </item>
     <item>
