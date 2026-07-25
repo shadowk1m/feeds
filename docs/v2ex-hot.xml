@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 24 Jul 2026 23:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 01:43:31 GMT</lastBuildDate>
     <item>
       <title>房子卖了，感觉自己很蠢</title>
       <link>https://www.v2ex.com/t/1229503</link>
@@ -22,48 +22,44 @@
 </description>
     </item>
     <item>
-      <title>好车：持有成本低，使用成本低，耐用</title>
-      <link>https://www.v2ex.com/t/1229444</link>
-      <guid>v2ex-1229444</guid>
-      <pubDate>Fri, 24 Jul 2026 00:44:38 GMT</pubDate>
-      <description>&lt;p&gt;想起很多年前，也是在本论坛，有人讨论 买车怎么选择，很多人建议选 bba
-不过那时候 之所以选 bba 一方面是排面，一方面是认为它做工好内饰好，车的安全性和用料好，还有就是外观设计也比较出众&lt;/p&gt;
-&lt;p&gt;我作为 80 后末尾的人，深受上一代思维影响，之前买过 bba ，家里原本 2 辆车，我为了买 bba&lt;/p&gt;
-&lt;p&gt;卖掉了使用成本最低动力不好的车，选择了 bba ，
-家里还是两个车，但是买了后发现 bba 一方面一直在跌价，另一方面我了解到 bba 的 48v 混动系统，是最容易出问题的系统，一个一度电的电池，如果损坏或者衰减到一定程度，4s 报价 3-4 万
-另外就是维修保养超级贵，48v 混动系统坏掉，维修也要不少钱，
-燃油价格也贵，差不多开一公里要 1 块钱，使用成本太高&lt;/p&gt;
-&lt;p&gt;也看到国产车 发展迅猛，越想越觉得 bba 是个雷，果断卖掉 bba ，血亏也要卖掉，后面越来越不值钱
-再次回归选择使用成本低耐用的车型。&lt;/p&gt;
-&lt;p&gt;回头去想之前人对 bba 的追求和建议，我觉得他们都不懂，这些车的品牌溢价太高，使用成本太高，那点机械素质，在持有成本和使用成本面前一文不值。&lt;/p&gt;
-&lt;p&gt;同样的问题，之前人追求的东西，比如大别墅/高端的衣服/酒类 乱七八糟的东西，同样的道理，&lt;/p&gt;
-&lt;p&gt;凡是成本高，以前用来装逼的东西，本质上来说就是对以前人的收割，年轻人千万不要碰，也不要追求，完全是浪费钱财&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>求大佬指导 nas 待机功耗</title>
-      <link>https://www.v2ex.com/t/1229461</link>
-      <guid>v2ex-1229461</guid>
-      <pubDate>Fri, 24 Jul 2026 01:38:50 GMT</pubDate>
-      <description>&lt;p&gt;家里自己 diy 的 nas ，感觉功耗还是没降下来。&lt;/p&gt;
-&lt;p&gt;os: unraid&lt;/p&gt;
-&lt;p&gt;电源： 海韵 PRIME PX750&lt;/p&gt;
-&lt;p&gt;主板: B760M 技嘉小雕&lt;/p&gt;
-&lt;p&gt;cpu: i5-13600t&lt;/p&gt;
-&lt;p&gt;硬盘：2 块机械，2 块固态&lt;/p&gt;
-&lt;p&gt;显卡：无&lt;/p&gt;
-&lt;p&gt;vm: ubuntu server *2  24 小时待机&lt;/p&gt;
-&lt;p&gt;主要做 nas 和家用开发环境服务器，待机常年在 38w 左右，硬盘工作情况下，常年保种，硬盘自动启停就不用了。&lt;/p&gt;
-&lt;p&gt;跟着 ai 走之前优化过一次，unraid 安装插件 TipsAndTweaks 核心参数是 Normal CPU Scaling Governor 配置为 Power Save 基本降低 15w 。 原来 50w 待机，电源也辣鸡。后来换的海韵。ai 说的基本都做了。总感觉还有 ai 不知道的🤷‍♂️&lt;/p&gt;
-&lt;p&gt;但是觉得还是很高。不知道哪里还有可以处理的点，求大佬指点&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>AI 辅助面试如何识别</title>
       <link>https://www.v2ex.com/t/1229501</link>
       <guid>v2ex-1229501</guid>
       <pubDate>Fri, 24 Jul 2026 03:08:41 GMT</pubDate>
       <description>&lt;p&gt;最近招聘遇到一些感觉像是 AI 辅助面试的，有没有大佬教一下怎么识别这类&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>AI 短视频火，到底是视频平台的故意导流导致的？还是大家真喜欢看？</title>
+      <link>https://www.v2ex.com/t/1229523</link>
+      <guid>v2ex-1229523</guid>
+      <pubDate>Fri, 24 Jul 2026 04:13:46 GMT</pubDate>
+      <description>我感觉 AI 短视频质量比抖音短视频还低，完全就是靠夸张剧情来吸引人，只会让人更变得越来越傻。&lt;br /&gt;我看到 AI 视频，心里就就会产生莫名的厌恶，然后就会主动跳过。&lt;br /&gt;但是现在 AI 短视频那么火，到底都是啥样的人在看呢？&lt;br /&gt;&lt;br /&gt;视频平台是有很强动力推广 AI 短视频的，尤其是有自己视频生成模型的那些短视频公司，比如某毒瘤跳动公司。&lt;br /&gt;本质上就是用更低的生产成本，制造更大规模的内容竞争，公司从中坐收渔利。全民负责卷，平台负责割。</description>
+    </item>
+    <item>
+      <title>想问问在互联网公司工作的同学，都是怎么找到自己合适的副业的？</title>
+      <link>https://www.v2ex.com/t/1229462</link>
+      <guid>v2ex-1229462</guid>
+      <pubDate>Fri, 24 Jul 2026 01:52:56 GMT</pubDate>
+      <description>&lt;p&gt;日常作息：工作日大概 10:30 上班， 晚上 10 点下班。&lt;/p&gt;
+&lt;p&gt;能用时间：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;平时算下来，抛开通勤，休息等时间，大概就 1-2 个小时能去琢磨这些事情。目前早起保证一个小时投入，但是到晚上真的很想歇会儿，而且会迟钝&lt;/li&gt;
+&lt;li&gt;周末双休，片状时间多一些，会去打球，保持一下健康&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;顾虑：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;现在 AI 相比去年强太多了，很多的想法，编码都不是瓶颈，研发本身的优势弱了很多,遇到不熟悉的领域，都是拼手速。这就导致：追热点感觉点状时间很难抢过别人；搞长期，宣发运营等方向需要大量精力&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;想问问有没有这条（互联网研发+副业）路径下拿到了结果的同学？是否有什么好点儿方法或者方向&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>为啥同事消息这么灵通</title>
+      <link>https://www.v2ex.com/t/1229516</link>
+      <guid>v2ex-1229516</guid>
+      <pubDate>Fri, 24 Jul 2026 03:48:18 GMT</pubDate>
+      <description>&lt;p&gt;感觉很奇怪，跟同事同时入职，差不多时间离职，跟同事聊了后发现同事了解的东西比我多得多，知道其他同事的近况，其他同事想走了，感觉公司什么地方不太行有什么消息他都能知道，以前从哪招的人怎么样，最近招的人怎么样都能知道，我发现我呆这么久啥都不知道，反应慢半拍，感觉在职场里很吃亏啊&lt;/p&gt;
 </description>
     </item>
   </channel>
