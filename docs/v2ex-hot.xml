@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 25 Jul 2026 04:55:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 07:09:06 GMT</lastBuildDate>
     <item>
       <title>大家社保基数调整了吗？我被恶心到了</title>
       <link>https://www.v2ex.com/t/1229592</link>
@@ -24,13 +24,6 @@
 </description>
     </item>
     <item>
-      <title>关于事故定责，请大家评判一下</title>
-      <link>https://www.v2ex.com/t/1229615</link>
-      <guid>v2ex-1229615</guid>
-      <pubDate>Fri, 24 Jul 2026 09:20:56 GMT</pubDate>
-      <description>我的朋友小金最近公司发生了起事故，造成了资损&lt;br /&gt;&lt;br /&gt;项目背景：A 组 主导的一个项目，小金是在 B 组，分到了与算钱有关的一个需求。项目在去年完结，一直运行的很好&lt;br /&gt;今年年初，公司总部发了个技术侧调整，所有业务需要查看是否适配，以拉群的形式通知，群里连着几天发了表格，表格是增量的形式；&lt;br /&gt;小金并没有关注到自己那部分，表格中查找需要搜自己名字（而且这字段调整还是个隐形的问题，主流的数据库都没这种问题）&lt;br /&gt;&lt;br /&gt;日前，该小组终于发现了资损，金额不小&lt;br /&gt;&lt;br /&gt;我听了以后很不解，这公司也是头部公司了，如此重大的通知居然是拉群简单丢个文件来通知；资损金额如此之大，居然好几个月之后才发现。然后定责居然是小金的主责&lt;br /&gt;&lt;br /&gt;这合理吗？</description>
-    </item>
-    <item>
       <title>中年失业，该来的还是来了</title>
       <link>https://www.v2ex.com/t/1229683</link>
       <guid>v2ex-1229683</guid>
@@ -39,27 +32,67 @@
 </description>
     </item>
     <item>
-      <title>一个每年都要向我借一两千块钱做过度的远房堂弟，说要买车</title>
-      <link>https://www.v2ex.com/t/1229549</link>
-      <guid>v2ex-1229549</guid>
-      <pubDate>Fri, 24 Jul 2026 06:10:09 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://picui.ogmua.cn/s1/2026/07/24/6a6301b0a243a.webp&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;微信图片_20260724140920_130_34.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://picui.ogmua.cn/s1/2026/07/24/6a6301b0a243a.webp&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+      <title>关于事故定责，请大家评判一下</title>
+      <link>https://www.v2ex.com/t/1229615</link>
+      <guid>v2ex-1229615</guid>
+      <pubDate>Fri, 24 Jul 2026 09:20:56 GMT</pubDate>
+      <description>我的朋友小金最近公司发生了起事故，造成了资损&lt;br /&gt;&lt;br /&gt;项目背景：A 组 主导的一个项目，小金是在 B 组，分到了与算钱有关的一个需求。项目在去年完结，一直运行的很好&lt;br /&gt;今年年初，公司总部发了个技术侧调整，所有业务需要查看是否适配，以拉群的形式通知，群里连着几天发了表格，表格是增量的形式；&lt;br /&gt;小金并没有关注到自己那部分，表格中查找需要搜自己名字（而且这字段调整还是个隐形的问题，主流的数据库都没这种问题）&lt;br /&gt;&lt;br /&gt;日前，该小组终于发现了资损，金额不小&lt;br /&gt;&lt;br /&gt;我听了以后很不解，这公司也是头部公司了，如此重大的通知居然是拉群简单丢个文件来通知；资损金额如此之大，居然好几个月之后才发现。然后定责居然是小金的主责&lt;br /&gt;&lt;br /&gt;这合理吗？</description>
+    </item>
+    <item>
+      <title>大家还记得小时候玩过哪些好玩的小霸王（FC）游戏？</title>
+      <link>https://www.v2ex.com/t/1229690</link>
+      <guid>v2ex-1229690</guid>
+      <pubDate>Sat, 25 Jul 2026 01:26:47 GMT</pubDate>
+      <description>&lt;p&gt;最近在开发一款在线云游戏室，然后项目变得越来越复杂。自从有了 AI ，每每开发项目都会变得越来越复杂，可能是下意识觉得用 AI 开发，就应该开发那种大型项目，开发周期也越来越长，以至于身心俱疲。&lt;/p&gt;
+&lt;p&gt;然后，我在想我到底想要开发什么？最后我决定暂缓开发复杂的项目，改用最简单的实现，最终开发了这一款纯前端的“像素游戏室”。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;大家还记得小时候玩过哪些好玩的小霸王游戏？魂斗罗、超级玛丽、冒险岛好多耳熟能详的游戏名字不经意的在脑海中出现。我还记得小时候偷跑到表哥家玩吞食天地，然后被老妈揪耳朵回家的一幕幕...&lt;/p&gt;
+&lt;p&gt;比起如今五花八门的各类网游，我还是比较怀念小时候的那些小霸王的游戏，简单、纯粹。像素游戏室就是这么一款封装了 Emulatorjs 的纯前端游戏机。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;WX20260724-211630&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.u14.app/upload/WX20260724-211630@2x.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;马上开玩：&lt;a href=&quot;https://pixel-game-room.u14.app&quot; rel=&quot;nofollow&quot;&gt;像素游戏室&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;项目自带了 Flappy Bird 这款游戏，您可以点击“游戏卡带”，打开游戏管理页面，加载游戏即可开玩。你可以加载自己珍藏的 FC 游戏卡带，马上开启怀旧之旅～&lt;/p&gt;
+&lt;p&gt;出于版权问题，我无法提供 FC 游戏资源，但大家可以在 Google 上搜索 &lt;code&gt;FC 游戏&lt;/code&gt; 找到大量的可下载资源。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>生活随笔日记 22，探索人性的深处，黑暗</title>
-      <link>https://www.v2ex.com/t/1229553</link>
-      <guid>v2ex-1229553</guid>
-      <pubDate>Fri, 24 Jul 2026 06:27:12 GMT</pubDate>
-      <description>性&lt;br /&gt;不同地区不同人对性的态度应该是截然不同的，在老中大部份人应该都会有性羞耻感，性一直都是一个忌讳如深的话题，在我记忆里我只上过生理课，没有上过性教育课，我单方面想大部份人都缺乏性教育。&lt;br /&gt;&lt;br /&gt;我记得我前女友有一次问我，介意她不是处女吗，我支支吾吾没有正面回复，其实我一点也不介意这些，只是当时的我还比较羞涩不好意思去回复这些东西，那一年我 22 岁。&lt;br /&gt;&lt;br /&gt;随着我这段时间不断约会提升二性了解，我不在羞涩性，我认为这是可以大大方方讨论的事物，不会觉得有任何猥琐，我也经常跟女生在私密空间聊这些，有些女生会嬉皮笑脸，我就会开玩笑说她你就是那种上生理课在课堂嬉皮笑脸不认真听的那种，顺势我还会去动手打她等操作&lt;br /&gt;&lt;br /&gt;道德感，正常人&lt;br /&gt;&lt;br /&gt;在我 22 岁分手后，我五年多的时间没有谈恋爱，说出来其实都没有几个人会相信，在这几个月的时间我疯狂约会，跟很多人暧昧，我开始觉得自己有点不正常，我去寻求答案&lt;br /&gt;&lt;br /&gt;你是正常人，你要激发自己的兽性，把道德感降低&lt;br /&gt;&lt;br /&gt;是的，道德感有什么用，马化腾有道德感吗，那些社交媒体都不能打出名字的人有道德感吗，帝王一怒，伏尸百万，血流千里，你一个朝九晚 6 的牛马，读书的时候 yy 同学，上班的时候 yy 同事，性压抑都解决不了的人要什么道德感。&lt;br /&gt;&lt;br /&gt;深处，黑暗&lt;br /&gt;&lt;br /&gt;我在跟女生发生完关系后，我会进行一个更加深入的聊天，揭开她那些不能描述跟其他人说的事情，从性，到力工，龟男，她有没有舔狗，有男生给她爆金币没有，看她舔狗聊天记录，她不给我看，我会跟她开玩笑，我也要当舔狗，人家要学习嘛，磨着她给我看聊天记录。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;之前一起把妹的哥们，已经找到长期女友上岸了，挺好&lt;br /&gt;遇良人，得知己，相伴一生，是好事。&lt;br /&gt;遇到很多人，谈很多段恋爱，也是好事&lt;br /&gt;&lt;br /&gt;就这样吧，等我玩腻了以后，我就找个老实女人娶了（玩笑话）</description>
+      <title>没有人发玻利维亚区 ChatGPT 和 Claude 的情况吗？ 800 多一个月 Pro 20X.</title>
+      <link>https://www.v2ex.com/t/1229664</link>
+      <guid>v2ex-1229664</guid>
+      <pubDate>Fri, 24 Jul 2026 16:42:49 GMT</pubDate>
+      <description>&lt;p&gt;整体转自网络，另外根据本人订购 20X 的情况做了更改。
+————————
+ChatGPT Plus/Pro 低价正版渠道&lt;/p&gt;
+&lt;p&gt;实测 Plus 只要 12.58 美元（ 2026 年 7 月 25 日，途径：VISA 招行白金卡）
+Pro 20X 原价 200 美刀 优惠后美金 124 元。
+Claude 订购了一个普通的 Pro, 也是 12.58 美元。&lt;/p&gt;
+&lt;p&gt;准备工作（我用自己的情况了）：
+网络环境：美区 LAX 节点&lt;/p&gt;
+&lt;p&gt;设备要求：一台能正常访问 Google Play 和 ChatGPT app 的 Android 手机&lt;/p&gt;
+&lt;p&gt;支付工具：国内银行发行的 Visa / MasterCard 实体信用卡（没有的话虚拟卡也行）&lt;/p&gt;
+&lt;p&gt;核心操作：核心在“支付资料”&lt;/p&gt;
+&lt;p&gt;登录 Google 付款中心：&lt;a href=&quot;http://payments.google.com&quot; rel=&quot;nofollow&quot;&gt;payments.google.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在 [设置] 中检查或新增一个支付资料（ Pay Profile ），地区务必选择 “玻利维亚”（如果已有其他地区账号导致无法扣费，建议直接新建或清理多余账号）&lt;/p&gt;
+&lt;p&gt;绑定信用卡
+在该玻利维亚支付资料下，绑定你的 Visa/MasterCard 信用卡&lt;/p&gt;
+&lt;p&gt;登录 ChatGPT App 订阅&lt;/p&gt;
+&lt;p&gt;打开 Android 手机上的 ChatGPT App ，点击升级订阅。&lt;/p&gt;
+&lt;p&gt;弹出 Google Play 扣费弹窗，确认扣费币种显示为 BOB （玻利维亚诺） 即可完成支付！&lt;/p&gt;
+&lt;p&gt;注意事项：（都省这么多钱了还有什么注意事项呢）&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>2026 年有什么可以长期低成本持有的海外手机号？核心是收验证码用</title>
-      <link>https://www.v2ex.com/t/1229560</link>
-      <guid>v2ex-1229560</guid>
-      <pubDate>Fri, 24 Jul 2026 06:48:01 GMT</pubDate>
-      <description>&lt;p&gt;现在可以长期低成本持有的海外手机号？不要太复杂的操作流程，安全性高，长期持有成本低，人在国内，目前不出国，方便注册申请，核心是收验证码用，例如注册 TG ，CODEX 等，&lt;/p&gt;
-</description>
+      <title>在中国，哪个城市四季如春物价便宜适合常年居住啊，有没有人常年体验过的，推荐一下</title>
+      <link>https://www.v2ex.com/t/1229652</link>
+      <guid>v2ex-1229652</guid>
+      <pubDate>Fri, 24 Jul 2026 14:56:51 GMT</pubDate>
+      <description>在中国，哪个城市四季如春物价便宜适合常年居住啊，有没有人常年体验过的，推荐一下</description>
+    </item>
+    <item>
+      <title>深圳短距离通勤交通方案推荐</title>
+      <link>https://www.v2ex.com/t/1229575</link>
+      <guid>v2ex-1229575</guid>
+      <pubDate>Fri, 24 Jul 2026 07:36:35 GMT</pubDate>
+      <description>目前楼主在兴东上班每天挤地铁来回每天 3.6 元，算了一下通勤距离 3 公里，想直接买个小电驴上下班会不会更省？&lt;br /&gt;&lt;br /&gt;还有目前深圳好像 9 号、小牛等电自都有加价、买小电机的划不来，有载人与上坡的需求&lt;br /&gt;&lt;br /&gt;想直接买电摩在宝安应该没有什么问题吧。</description>
     </item>
   </channel>
 </rss>
