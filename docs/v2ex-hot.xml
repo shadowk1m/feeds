@@ -4,7 +4,15 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 25 Jul 2026 09:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 10:49:50 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT/Codex 都挂了</title>
+      <link>https://www.v2ex.com/t/1229754</link>
+      <guid>v2ex-1229754</guid>
+      <pubDate>Sat, 25 Jul 2026 09:11:08 GMT</pubDate>
+      <description>&lt;p&gt;持续返回 503 Service Unavailable ，任务进行到一半突然没响应了...&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>中年失业，该来的还是来了</title>
       <link>https://www.v2ex.com/t/1229683</link>
@@ -28,13 +36,6 @@
 &lt;p&gt;项目自带了 Flappy Bird 这款游戏，您可以点击“游戏卡带”，打开游戏管理页面，加载游戏即可开玩。你可以加载自己珍藏的 FC 游戏卡带，马上开启怀旧之旅～&lt;/p&gt;
 &lt;p&gt;出于版权问题，我无法提供 FC 游戏资源，但大家可以在 Google 上搜索 &lt;code&gt;FC 游戏&lt;/code&gt; 找到大量的可下载资源。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>关于事故定责，请大家评判一下</title>
-      <link>https://www.v2ex.com/t/1229615</link>
-      <guid>v2ex-1229615</guid>
-      <pubDate>Fri, 24 Jul 2026 09:20:56 GMT</pubDate>
-      <description>我的朋友小金最近公司发生了起事故，造成了资损&lt;br /&gt;&lt;br /&gt;项目背景：A 组 主导的一个项目，小金是在 B 组，分到了与算钱有关的一个需求。项目在去年完结，一直运行的很好&lt;br /&gt;今年年初，公司总部发了个技术侧调整，所有业务需要查看是否适配，以拉群的形式通知，群里连着几天发了表格，表格是增量的形式；&lt;br /&gt;小金并没有关注到自己那部分，表格中查找需要搜自己名字（而且这字段调整还是个隐形的问题，主流的数据库都没这种问题）&lt;br /&gt;&lt;br /&gt;日前，该小组终于发现了资损，金额不小&lt;br /&gt;&lt;br /&gt;我听了以后很不解，这公司也是头部公司了，如此重大的通知居然是拉群简单丢个文件来通知；资损金额如此之大，居然好几个月之后才发现。然后定责居然是小金的主责&lt;br /&gt;&lt;br /&gt;这合理吗？</description>
     </item>
     <item>
       <title>没有人发玻利维亚区 ChatGPT 和 Claude 的情况吗？ 800 多一个月 Pro 20X.</title>
@@ -99,6 +100,18 @@ Claude 订购了一个普通的 Pro, 也是 12.58 美元。&lt;/p&gt;
 &lt;li&gt;手动输入汉字后，按一下 Shift 没有反应&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;有遇到同样问题的兄弟吗！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>技术已死？</title>
+      <link>https://www.v2ex.com/t/1229704</link>
+      <guid>v2ex-1229704</guid>
+      <pubDate>Sat, 25 Jul 2026 02:58:39 GMT</pubDate>
+      <description>&lt;p&gt;发现以往技术讨论热度高的社区，V2 ，掘金，Hacker News 全都被 AI 刷榜了。
+没有人再关心有什么新产品，新技术。
+大家的关注点全在又发布了什么新模型，AI 又做了什么。&lt;/p&gt;
+&lt;p&gt;很多人也越来越多地把 coding 交给 AI 来做，不在乎技术细节。
+不禁感慨，AI 是否已经跨过了奇点，杀死了技术？&lt;/p&gt;
 </description>
     </item>
   </channel>
