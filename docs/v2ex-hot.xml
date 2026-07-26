@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 26 Jul 2026 09:33:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 11:12:29 GMT</lastBuildDate>
     <item>
       <title>推荐下磷酸铁锂的五号和七号电池</title>
       <link>https://www.v2ex.com/t/1229778</link>
@@ -52,21 +52,6 @@
 &lt;p&gt;但是心脏问题始终是我难以跨越的鸿沟，我总是不自觉的就联想到一些不好的事情，尤其最近老是刷到张雪峰相关的新闻。我知道这毫无关联，但又不自觉联想起来。导致自己高度紧张，即使在家里也有不适（但大多都是胃部那一块，医生说我可能是从精致碳水直接过渡到粗粮，且减量导致的，先给开了点胃药）&lt;/p&gt;
 &lt;p&gt;等做完胃镜再看吧，现在抓紧解决工作的问题，没有收入，也是产生焦虑的一种能量。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>程序员能不能解决“放暑假娃很吵”这个问题？</title>
-      <link>https://www.v2ex.com/t/1229854</link>
-      <guid>v2ex-1229854</guid>
-      <pubDate>Sun, 26 Jul 2026 03:34:18 GMT</pubDate>
-      <description>&lt;p&gt;程序员能不能解决“放暑假娃很吵”这个问题？ 程序员应该什么都能做吧！！！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Codex 又又又又又又又又又又又又又又又又又又又又又又又又又又又又重置了</title>
-      <link>https://www.v2ex.com/t/1229825</link>
-      <guid>v2ex-1229825</guid>
-      <pubDate>Sat, 25 Jul 2026 21:05:57 GMT</pubDate>
-      <description>RT&lt;br /&gt;&lt;br /&gt;前几天续费升级到 20x 没重置，终于补足了  HHHHHH</description>
     </item>
     <item>
       <title>反思一下为什么我的开源项目没有做好</title>
@@ -132,6 +117,28 @@
 </description>
     </item>
     <item>
+      <title>程序员能不能解决“放暑假娃很吵”这个问题？</title>
+      <link>https://www.v2ex.com/t/1229854</link>
+      <guid>v2ex-1229854</guid>
+      <pubDate>Sun, 26 Jul 2026 03:34:18 GMT</pubDate>
+      <description>&lt;p&gt;程序员能不能解决“放暑假娃很吵”这个问题？ 程序员应该什么都能做吧！！！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Codex 又又又又又又又又又又又又又又又又又又又又又又又又又又又又重置了</title>
+      <link>https://www.v2ex.com/t/1229825</link>
+      <guid>v2ex-1229825</guid>
+      <pubDate>Sat, 25 Jul 2026 21:05:57 GMT</pubDate>
+      <description>RT&lt;br /&gt;&lt;br /&gt;前几天续费升级到 20x 没重置，终于补足了  HHHHHH</description>
+    </item>
+    <item>
+      <title>大家觉得的躺平就是完全不工作吗？</title>
+      <link>https://www.v2ex.com/t/1229894</link>
+      <guid>v2ex-1229894</guid>
+      <pubDate>Sun, 26 Jul 2026 06:51:42 GMT</pubDate>
+      <description>我一直觉得躺平是找个轻松的班上，或者开个小店（自己不坐班那种），每个月有个两三千利润就可以了。</description>
+    </item>
+    <item>
       <title>独立开发者（opc）收款的问题</title>
       <link>https://www.v2ex.com/t/1229785</link>
       <guid>v2ex-1229785</guid>
@@ -141,13 +148,6 @@
 &lt;p&gt;国内的收款，一直找不到解决方案。看了自媒体上介绍的什么易支付之类，总感觉不靠谱。&lt;/p&gt;
 &lt;p&gt;困扰了好久，各位大神是怎么解决这个问题。最好正规点的，费率高点也无所谓。感谢🙏&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>v2ex 应该也提供 mcp 服务：将论坛作为可由 AI 安全检索和按权限操作的 MCP 知识库。</title>
-      <link>https://www.v2ex.com/t/1229765</link>
-      <guid>v2ex-1229765</guid>
-      <pubDate>Sat, 25 Jul 2026 11:09:14 GMT</pubDate>
-      <description>MCP Server 插件&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://bbs1.org/topic/154&quot; rel=&quot;nofollow noopener&quot;&gt;https://bbs1.org/topic/154&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;将论坛作为可由 AI 安全检索和按权限操作的 MCP 知识库。&lt;br /&gt;有兴趣的部署看看</description>
     </item>
     <item>
       <title>快 35 了， offer 二选一</title>
@@ -166,14 +166,11 @@
 </description>
     </item>
     <item>
-      <title>自研 markdown 编辑器内核支持了实时协同能力，做一个基于 webrtc p2p 协同 demo 有没有被喝茶风险</title>
-      <link>https://www.v2ex.com/t/1229892</link>
-      <guid>v2ex-1229892</guid>
-      <pubDate>Sun, 26 Jul 2026 06:47:18 GMT</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;项目地址： &lt;a href=&quot;https://github.com/do-md/domd&quot; rel=&quot;nofollow&quot;&gt;https://github.com/do-md/domd&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;协同 playground： &lt;a href=&quot;https://www.domd.app/playground/live&quot; rel=&quot;nofollow&quot;&gt;https://www.domd.app/playground/live&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;domd 内核 0.4.0 发布，支持了实时协同能力，代码已经 push 。editor 页面也支持了邀请协同编辑，无需登入。不过担心被喝茶，代码还没推送&lt;/p&gt;
-</description>
+      <title>看看大家的意见，这 3 个 offer 如何选择</title>
+      <link>https://www.v2ex.com/t/1229834</link>
+      <guid>v2ex-1229834</guid>
+      <pubDate>Sun, 26 Jul 2026 01:20:50 GMT</pubDate>
+      <description>本人目前在一家市场化国企，工作一年左右，想听听大家对下一步选择的建议。&lt;br /&gt;&lt;br /&gt;目前的工作&lt;br /&gt;&lt;br /&gt;工作时间：965&lt;br /&gt;税前工资：9k&lt;br /&gt;工作地点距离老家长沙约 1300 公里&lt;br /&gt;工作强度整体不算高&lt;br /&gt;周末需要去单位待半天，基本属于“作秀”，没有实际工作&lt;br /&gt;需要承担业绩指标，而且业绩要求会逐年增加，但工资基本不涨&lt;br /&gt;需要随时回复用户消息、处理用户技术问题，包括周末和节假日&lt;br /&gt;技术成长空间比较有限。我才来一年，技术水平在部门里已经算比较靠前，继续留下感觉很难再有明显提升&lt;br /&gt;简单来说，这份工作不算累，稳定性也还可以，但人在外地、收入一般，工作和生活的边界比较模糊，而且长期来看既没有技术成长，业绩压力还会越来越大。&lt;br /&gt;&lt;br /&gt;目前手上的三个机会&lt;br /&gt;&lt;br /&gt;1. 长沙本地 Office 岗&lt;br /&gt;&lt;br /&gt;工资：12k—15k&lt;br /&gt;工作时间：995&lt;br /&gt;工作内容：纯技术岗&lt;br /&gt;优点：离家近、收入有所提升、能继续积累技术&lt;br /&gt;顾虑：平台和未来发展暂时不太确定&lt;br /&gt;2. 成都 Office 岗&lt;br /&gt;&lt;br /&gt;工资：20k—25k&lt;br /&gt;工作时间：996&lt;br /&gt;工作内容和发展机会目前看起来最好&lt;br /&gt;优点：工资涨幅最大，职业发展可能也更好&lt;br /&gt;顾虑：公司风评不太好，担心实际工作强度、绩效制度，以及最后拿不到承诺的薪资&lt;br /&gt;3. 上海车企大厂&lt;br /&gt;&lt;br /&gt;工资：20k&lt;br /&gt;工作时间：985&lt;br /&gt;优点：大厂平台、履历认可度高，工作时间相对可接受&lt;br /&gt;顾虑：上海生活成本较高，距离家也比较远，不确定 20k 实际能剩下多少&lt;br /&gt;目前自己的想法&lt;br /&gt;&lt;br /&gt;我比较倾向于离开现在的单位。&lt;br /&gt;&lt;br /&gt;虽然目前工作不算累，但需要随时响应用户，周末和节假日也很难完全放松；同时技术上几乎没有提升空间，业绩要求却会逐年增加，工资又没有明显增长。&lt;br /&gt;&lt;br /&gt;现在比较纠结的是：&lt;br /&gt;&lt;br /&gt;选长沙，离家近、做纯技术，生活更稳定；&lt;br /&gt;选成都，工资和发展最好，但担心公司不靠谱、钱拿不全；&lt;br /&gt;选上海，大厂平台不错、工作时间也可以，但生活成本和离家距离是问题。&lt;br /&gt;想请教大家，如果是你们，会怎么选？</description>
     </item>
   </channel>
 </rss>
