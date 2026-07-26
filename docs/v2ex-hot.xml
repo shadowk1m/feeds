@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 26 Jul 2026 01:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 04:50:28 GMT</lastBuildDate>
     <item>
       <title>ChatGPT/Codex 都挂了</title>
       <link>https://www.v2ex.com/t/1229754</link>
@@ -14,52 +14,11 @@
 </description>
     </item>
     <item>
-      <title>中年失业，该来的还是来了</title>
-      <link>https://www.v2ex.com/t/1229683</link>
-      <guid>v2ex-1229683</guid>
-      <pubDate>Sat, 25 Jul 2026 01:11:19 GMT</pubDate>
-      <description>&lt;p&gt;本人 40 岁，在一个央企下的子公司做苦逼的外包。这周周五下午，甲方领导私下通知我：当前业务线不再开发，本人下个月月底离场。虽然本人无房贷车贷，听到这个消息还是挺失落的。回去翻了翻招聘 app,感觉 40 岁找下一份开发岗太难了。可能是“力工思维”的浸染，还是不能接受这个时候休息的。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>大家还记得小时候玩过哪些好玩的小霸王（FC）游戏？</title>
-      <link>https://www.v2ex.com/t/1229690</link>
-      <guid>v2ex-1229690</guid>
-      <pubDate>Sat, 25 Jul 2026 01:26:47 GMT</pubDate>
-      <description>&lt;p&gt;最近在开发一款在线云游戏室，然后项目变得越来越复杂。自从有了 AI ，每每开发项目都会变得越来越复杂，可能是下意识觉得用 AI 开发，就应该开发那种大型项目，开发周期也越来越长，以至于身心俱疲。&lt;/p&gt;
-&lt;p&gt;然后，我在想我到底想要开发什么？最后我决定暂缓开发复杂的项目，改用最简单的实现，最终开发了这一款纯前端的“像素游戏室”。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;大家还记得小时候玩过哪些好玩的小霸王游戏？魂斗罗、超级玛丽、冒险岛好多耳熟能详的游戏名字不经意的在脑海中出现。我还记得小时候偷跑到表哥家玩吞食天地，然后被老妈揪耳朵回家的一幕幕...&lt;/p&gt;
-&lt;p&gt;比起如今五花八门的各类网游，我还是比较怀念小时候的那些小霸王的游戏，简单、纯粹。像素游戏室就是这么一款封装了 Emulatorjs 的纯前端游戏机。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;WX20260724-211630&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.u14.app/upload/WX20260724-211630@2x.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;马上开玩：&lt;a href=&quot;https://pixel-game-room.u14.app&quot; rel=&quot;nofollow&quot;&gt;像素游戏室&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;项目自带了 Flappy Bird 这款游戏，您可以点击“游戏卡带”，打开游戏管理页面，加载游戏即可开玩。你可以加载自己珍藏的 FC 游戏卡带，马上开启怀旧之旅～&lt;/p&gt;
-&lt;p&gt;出于版权问题，我无法提供 FC 游戏资源，但大家可以在 Google 上搜索 &lt;code&gt;FC 游戏&lt;/code&gt; 找到大量的可下载资源。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>算了一下我要是有 100W 的话， 35 岁就差不多可以躺平了。</title>
       <link>https://www.v2ex.com/t/1229751</link>
       <guid>v2ex-1229751</guid>
       <pubDate>Sat, 25 Jul 2026 08:59:03 GMT</pubDate>
       <description>前几天突发奇想，要是 35 岁不想工作了，我就按照每个月最基本 3000 块钱的生活费活着，那么到 60 岁，需要 90W 。&lt;br /&gt;&lt;br /&gt;这样 100W 减去 90W ，还剩下 10W ，正好给自己每个月交一个 800 块钱的灵活就业养老金。交 10 年正好差不多 10W 。加上我之钱上班交了差不多 10 年的社保，那么养老金也就一共交了 20 年了。按目前的政策，退休后每个月能领个 2000 多块钱，一个人也够了。当然，计划赶不上变化，只是目前这样想挺好。另外生病不考虑，小病不用治，大病更不用治。&lt;br /&gt;&lt;br /&gt;不过，目前最残酷的问题是，我没有 100W 。。。。还是得上班当牛马。。</description>
-    </item>
-    <item>
-      <title>codex 写前端纯残废</title>
-      <link>https://www.v2ex.com/t/1229695</link>
-      <guid>v2ex-1229695</guid>
-      <pubDate>Sat, 25 Jul 2026 02:18:39 GMT</pubDate>
-      <description>&lt;p&gt;又菜又慢，有没有懂的，还不如 composer 2.5 。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>吃瓜 openai gpt 全网 503</title>
-      <link>https://www.v2ex.com/t/1229759</link>
-      <guid>v2ex-1229759</guid>
-      <pubDate>Sat, 25 Jul 2026 09:24:24 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://status.openai.com/&quot; rel=&quot;nofollow&quot;&gt;https://status.openai.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;兄弟们等你们的 codex 还活着吗？&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>推荐下磷酸铁锂的五号和七号电池</title>
@@ -77,15 +36,12 @@
 </description>
     </item>
     <item>
-      <title>GPT 5.6 Pro 自动降智？</title>
-      <link>https://www.v2ex.com/t/1229703</link>
-      <guid>v2ex-1229703</guid>
-      <pubDate>Sat, 25 Jul 2026 02:58:00 GMT</pubDate>
-      <description>&lt;p&gt;平常用 Codex 和 ChatGPT 比较多，Codex 因为有用量限制，所以基本只会用到 xhigh 和 high ，偶尔开一下 max 。&lt;/p&gt;
-&lt;p&gt;ChatGPT 一般无脑开 GPT 5.6 Pro ，直到昨天发现秒答，觉得不对劲，于是问了一下 juice 值，发现 Pro 只有 18 ，明显是被降智并路由到了最差的那一档
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/mGXmlqe.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;又切成 xhigh 问了一下，发现思考时间变长，juice 值也是正常的 &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/EU5cDpS.png&quot;/&gt;
-不得不说这个用户体验是真的不好，如果 Pro 不可用，就直接提示不可用就好了，偷偷路由到最差的模型观感很差&lt;/p&gt;
+      <title>吃瓜 openai gpt 全网 503</title>
+      <link>https://www.v2ex.com/t/1229759</link>
+      <guid>v2ex-1229759</guid>
+      <pubDate>Sat, 25 Jul 2026 09:24:24 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://status.openai.com/&quot; rel=&quot;nofollow&quot;&gt;https://status.openai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;兄弟们等你们的 codex 还活着吗？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -94,6 +50,94 @@
       <guid>v2ex-1229726</guid>
       <pubDate>Sat, 25 Jul 2026 06:00:51 GMT</pubDate>
       <description>大家一年旅行的费用占支出的百分比是多少啊</description>
+    </item>
+    <item>
+      <title>Codex 又又又又又又又又又又又又又又又又又又又又又又又又又又又又重置了</title>
+      <link>https://www.v2ex.com/t/1229825</link>
+      <guid>v2ex-1229825</guid>
+      <pubDate>Sat, 25 Jul 2026 21:05:57 GMT</pubDate>
+      <description>RT&lt;br /&gt;&lt;br /&gt;前几天续费升级到 20x 没重置，终于补足了  HHHHHH</description>
+    </item>
+    <item>
+      <title>独立开发者（opc）收款的问题</title>
+      <link>https://www.v2ex.com/t/1229785</link>
+      <guid>v2ex-1229785</guid>
+      <pubDate>Sat, 25 Jul 2026 13:43:51 GMT</pubDate>
+      <description>&lt;p&gt;一个独立开发者，无法注册企业和个体工商户，做了好几个作品，一直卡在收款支付上。&lt;/p&gt;
+&lt;p&gt;海外的收款我使用 Creem ，虽然费率高，但是算是解决。&lt;/p&gt;
+&lt;p&gt;国内的收款，一直找不到解决方案。看了自媒体上介绍的什么易支付之类，总感觉不靠谱。&lt;/p&gt;
+&lt;p&gt;困扰了好久，各位大神是怎么解决这个问题。最好正规点的，费率高点也无所谓。感谢🙏&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>v2ex 应该也提供 mcp 服务：将论坛作为可由 AI 安全检索和按权限操作的 MCP 知识库。</title>
+      <link>https://www.v2ex.com/t/1229765</link>
+      <guid>v2ex-1229765</guid>
+      <pubDate>Sat, 25 Jul 2026 11:09:14 GMT</pubDate>
+      <description>MCP Server 插件&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://bbs1.org/topic/154&quot; rel=&quot;nofollow noopener&quot;&gt;https://bbs1.org/topic/154&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;将论坛作为可由 AI 安全检索和按权限操作的 MCP 知识库。&lt;br /&gt;有兴趣的部署看看</description>
+    </item>
+    <item>
+      <title>反思一下为什么我的开源项目没有做好</title>
+      <link>https://www.v2ex.com/t/1229772</link>
+      <guid>v2ex-1229772</guid>
+      <pubDate>Sat, 25 Jul 2026 12:21:12 GMT</pubDate>
+      <description>其实这个事情最开始是 26 年开始有很多号称可以节省 80%-90%token 的项目出来了，比如 RTK, caveman, ponytail.他们都声称可以节约大量的 token ，而且短期获得了几万的 github 收藏。 我之前的创业项目是做面向 e-commerce 的 chatbog ，其实是和 Universal Commerce Protocol (UCP) 一摸一样的一个产品，也是因为 UCP 的发布我没有再继续做这个赛道。今年早些时候，我就想把我们之前搭建 e-commerce chatbot agent 的架构做成 sdk 。简单说这个架构的核心是通过状态机和执行序列把同样任务中 llm 的 provider call 的往返次数减少 80%来降低同样规模的 token 消耗。&lt;br /&gt;&lt;br /&gt;现在的问题是这样的，我很清楚为什么 RTK 这类工具在真正的长任务中是完全无效的。&lt;br /&gt;我 18 号发布的报告，和 jetbrain 20 号发布的报告基本是同样的观察结果，RTK caveman 这类节省 toekn 的插件在真实长任务中毫无作用：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/&quot; rel=&quot;nofollow noopener&quot;&gt;https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea&quot; rel=&quot;nofollow noopener&quot;&gt;https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我很清楚如何真正做到长任务中 80%+ 的 token 消耗减少。但问题是我在推广我的开源项目中遇到了非常大的困难。我把主要问题总结为 3 点：&lt;br /&gt;&lt;br /&gt;大多数 coding agent 用户，不论是有系统编程技能培训或是没有的所有 vibe coder 其实对真正的 token 消耗的原理理解差异很大。一个系统的讲解具体流程，并且挑战认知的长文章会在这个充满 ai 写作和 vibe coding 写出来的无数可以号称减少 95%token 使用的插件的论坛中显得愚蠢和天然没有传播性。&lt;br /&gt;&lt;br /&gt;简单的才易传播，人不是理性动物，只会相信自己更容易理解的事务。这就是为什么所有社交媒体上错误归因的伪科学永远比讲数学原理的频道有更高的关注度。&lt;br /&gt;&lt;br /&gt;作者的傲慢。这其实是两个问题的结合，在一个相信科学测试方法和 eval 科学的作者眼中。没有 eval 和 benchmark 的软件工程是无意义的。但事实是可能是作者自己的傲慢和对 rtk 这类工具的鄙视甚至是嫉妒造成了他更不愿意用更有效的方式传播他的作品。&lt;br /&gt;&lt;br /&gt;如果大家有时间看到这，可以给我提一些意见，告诉我如何才能在尊重 eval 和 benchmark 严谨性的同时更好的推广我的产品。 我知道用 codex 或者 claude 写一个 coding agent 很简单，但我也相信，总会有人理解 benchmark 和 eval harness 的价值。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/Tura-AI/tura&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/Tura-AI/tura&lt;/a&gt;&lt;br /&gt;目前项目 16 号发布现在 400 多个星，只能算个小透明</description>
+    </item>
+    <item>
+      <title>[开源]或许是 WindTerm 精神的续作： SSH 客户端 OxideTerm 焕新为原生软件， Windows 空载内存仅 25 MB</title>
+      <link>https://www.v2ex.com/t/1229777</link>
+      <guid>v2ex-1229777</guid>
+      <pubDate>Sat, 25 Jul 2026 12:38:58 GMT</pubDate>
+      <description>&lt;p&gt;大家好，我是 OxideTerm 的作者。&lt;/p&gt;
+&lt;p&gt;WindTerm 是很多人的心头好，极低的内存占用、原生级的流畅度，很少有替代品能完全复现。但它已经停更一年多了，积压的 Issue 长期也似乎无人修复，当然我也很希望作者能够再度更新。现在不少朋友一直在找下一个归宿，但市面上大多是 Electron/Tauri 的 WebView 应用，空载几百兆起步，很难找回那种轻快感。&lt;/p&gt;
+&lt;p&gt;我自己一直很尊重 WindTerm 坚持原生、不妥协的产品理念，也在做一款开源 SSH 工具 &lt;strong&gt;OxideTerm&lt;/strong&gt;。我的 1.x 是用 Tauri 写的，很快就撞到了 WebView 的天花板：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;空载吃内存&lt;/strong&gt;：即使没打开任何会话，浏览器引擎、DOM 和 JS 运行时的固定开销就占着几百兆。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;前后端跨语言通信效率受限&lt;/strong&gt;：终端内容要跨越 Rust 和前端 JS 之间的数据链路，大日志刷屏时压力可能不小。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我发现局部优化解决不了架构问题。所以我做了一个决定：&lt;strong&gt;抛弃 WebView ，用纯 Rust 和 GPUI （ Zed 编辑器用的原生 GPU 渲染框架）完全重写了它。&lt;/strong&gt;通过移除 WebView 、DOM 和 JavaScript 运行时，更换数据链路 ，我们省去了跨语言的序列化和 IPC 。&lt;strong&gt;macOS 空载从 320MB 降到了 80MB 出头，Windows 则从约 180MB 降到了 25MB 。&lt;/strong&gt; （自己的机器实测）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;内存对比&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/AnalyseDeCircuit/oxideterm/main/docs/screenshots/oxideterm-memory-comparison.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;最近刚好过了 1000 Star 门槛，历经大量 issue 反馈，算是有了一定完成度，所以发出来再和大家分享。&lt;/p&gt;
+&lt;h2&gt;OxideTerm 和 WindTerm 有什么共同点？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;原生高性能（无 WebView / 零 DOM 开销）&lt;/strong&gt;：我们都彻底避开了 WebView/Electron ，界面由 GPU 硬件直接渲染，不经过任何浏览器引擎层。这带来了实打实的性能与内存优势：目前 OxideTerm 在 Windows 下的空载内存仅约 &lt;strong&gt;25 MB&lt;/strong&gt;（ macOS 约 80MB ）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;免费 &amp;amp; 开源&lt;/strong&gt;：项目完全开源 (GPL-3.0)，目前没有任何订阅或专业版限制。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;OxideTerm 有什么不同？&lt;/h2&gt;
+&lt;p&gt;如果说 WindTerm 是上一代经典的代表，OxideTerm 则试图在原生性能的基础上，加入现代化的能力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;另外我们的 UI 并没有完全复刻 WindTerm——这是有意为之，目的是提供更现代的信息架构和交互体验，而不是做一个外观上的克隆。&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;平滑迁移&lt;/strong&gt;：支持从其他 SSH 客户端导入已有连接配置，不用从头手动录入。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;原生 RDP / VNC 支持&lt;/strong&gt;：除了基础的 SSH/SFTP ，内置了基于 Rust &lt;code&gt;IronRDP&lt;/code&gt; 的原生桌面连接的部分能力。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Host Tools 工作区&lt;/strong&gt;：我们在右侧面板集成了 Docker 、进程、tmux 、systemd 服务等图形化管理工具，通过复用当前的 SSH 连接通道实时抓取。目标是消除传统 SSH “开一堆终端敲命令”的割裂感，打造一个集成驾驶舱。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;现代化的 AI 助手 OxideSens&lt;/strong&gt;：内置 AI ，支持带终端上下文的对话。可以帮你分析报错、生成修复命令，你可以选择自己的大模型提供商（ BYOK ）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;终端核心换代&lt;/strong&gt;：底层换成了 &lt;code&gt;alacritty_terminal&lt;/code&gt;，并添加支持 Sixel/Kitty 图像协议，可以在终端里直接预览图片。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;Host Tools&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/AnalyseDeCircuit/oxideterm/main/docs/screenshots/terminal-host-tools.png&quot;/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;云同步&lt;/strong&gt;：支持 WebDAV 、S3 兼容存储、OneDrive 、GitHub Gist 等后端同步配置。所有数据上传前在本地加密，没有任何中央服务器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;云同步&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/AnalyseDeCircuit/oxideterm/main/docs/screenshots/cloud-sync.png&quot;/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;同款 Free Type Mode 自由输入模式&lt;/strong&gt;：可以直接用鼠标点击命令行的任何位置移动光标，选中文本直接退格删除（不用在远程机器装任何脚本，纯端侧实现）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;高速 SFTP 传输&lt;/strong&gt;：我们对 &lt;code&gt;russh-sftp&lt;/code&gt; 做了自维护的改造优化，上传下载速度相比社区版有了显著提升。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;独立 CLI 工具&lt;/strong&gt;：不启动桌面应用也能完成环境诊断、连接管理、云同步和便携包导入导出，方便接入脚本与 CI 。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;会话管理&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/AnalyseDeCircuit/oxideterm/main/docs/screenshots/session-manager.png&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;代码与审计&lt;/h2&gt;
+&lt;p&gt;我知道对于 SSH 客户端，大家最关心的是&lt;strong&gt;安全&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;连接配置和敏感凭据在本地加密存储，加密密钥由操作系统密钥链管理&lt;/li&gt;
+&lt;li&gt;内存中的敏感数据使用后即时擦除（ zeroize ），避免密钥残留&lt;/li&gt;
+&lt;li&gt;无遥测上报、无后台数据收集：应用不会主动向外发送任何使用数据，你不告诉我们，我们就什么都不知道&lt;/li&gt;
+&lt;li&gt;项目目前分为了 80 多个独立 crate ，代码完全开源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;写在最后&lt;/h2&gt;
+&lt;p&gt;项目完全用爱发电。当时写这个项目的初衷很简单，受够了市面上的订阅制工具，就想给自己搓个顺手的。不知不觉坚持了 8 个月，又因为尝试剥离 WebView 完全重写了底层，从 Tauri 换成了 GPUI ，熬到了 2.0 。接下来不出意外的话还会继续维护下去。&lt;/p&gt;
+&lt;p&gt;如果你也是一个原生体验的追求者，不太喜欢 Electron 和 Tauri 架构下 Webview 的内存占用，欢迎来试试看。觉得好用的话点个 Star ，如果有任何建议或遇到了使用问题，欢迎在帖子里回复，或者直接去 GitHub 提 issue ，我看到都会尽量回复——项目比起 WindTerm 这样历经大家打磨的璞玉，毕竟还算年轻。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/AnalyseDeCircuit/oxideterm&quot; rel=&quot;nofollow&quot;&gt;https://github.com/AnalyseDeCircuit/oxideterm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;官网：&lt;/strong&gt;&lt;a href=&quot;https://oxideterm.app/&quot; rel=&quot;nofollow&quot;&gt;https://oxideterm.app&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
