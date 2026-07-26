@@ -4,22 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 26 Jul 2026 07:29:47 GMT</lastBuildDate>
-    <item>
-      <title>算了一下我要是有 100W 的话， 35 岁就差不多可以躺平了。</title>
-      <link>https://www.v2ex.com/t/1229751</link>
-      <guid>v2ex-1229751</guid>
-      <pubDate>Sat, 25 Jul 2026 08:59:03 GMT</pubDate>
-      <description>前几天突发奇想，要是 35 岁不想工作了，我就按照每个月最基本 3000 块钱的生活费活着，那么到 60 岁，需要 90W 。&lt;br /&gt;&lt;br /&gt;这样 100W 减去 90W ，还剩下 10W ，正好给自己每个月交一个 800 块钱的灵活就业养老金。交 10 年正好差不多 10W 。加上我之钱上班交了差不多 10 年的社保，那么养老金也就一共交了 20 年了。按目前的政策，退休后每个月能领个 2000 多块钱，一个人也够了。当然，计划赶不上变化，只是目前这样想挺好。另外生病不考虑，小病不用治，大病更不用治。&lt;br /&gt;&lt;br /&gt;不过，目前最残酷的问题是，我没有 100W 。。。。还是得上班当牛马。。</description>
-    </item>
-    <item>
-      <title>ChatGPT/Codex 都挂了</title>
-      <link>https://www.v2ex.com/t/1229754</link>
-      <guid>v2ex-1229754</guid>
-      <pubDate>Sat, 25 Jul 2026 09:11:08 GMT</pubDate>
-      <description>&lt;p&gt;持续返回 503 Service Unavailable ，任务进行到一半突然没响应了...&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 09:33:07 GMT</lastBuildDate>
     <item>
       <title>推荐下磷酸铁锂的五号和七号电池</title>
       <link>https://www.v2ex.com/t/1229778</link>
@@ -33,15 +18,6 @@
 &lt;p&gt;推荐的是磷酸铁锂 5 号/7 号电池，它的电压是 3.2v ，配合一节占位筒，平均到 1.6v ，非常可以接受。且充电时不会特别烫。一般标 1000mah/500mah ，即 3200mwh/1600mwh ，单节电量和碱性电池的电量差不多。因为要配合占位筒，实际使用时只有一节的电量，对体验的影响是，以前四个月换一次，现在两个月换一次。&lt;/p&gt;
 &lt;p&gt;然后是经济账，碱性电池一般 1 元一节，磷酸铁锂充电电池大概 8 元一节，但有个核心重点，占位筒不要钱是送的，因此磷酸铁锂电池在电压上一节可以顶两节来用，只是装设备上时整体电量上只有碱性电池一半。我自己最关注的是电压，设备都在手边，几秒就能更换，四个月还是两个月换于我没有差别，因此我会主观上将磷酸铁锂电池价格除 2 ，即 4 元一节，充四次后性价比即超过碱性电池。&lt;/p&gt;
 &lt;p&gt;记得磷酸铁锂 3.2v 必须搭配占位筒来用，如果设备只有一个电池位，这种应该用 1.5v 普通锂电池。弄明白了再用，别整坏自己的设备了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>吃瓜 openai gpt 全网 503</title>
-      <link>https://www.v2ex.com/t/1229759</link>
-      <guid>v2ex-1229759</guid>
-      <pubDate>Sat, 25 Jul 2026 09:24:24 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://status.openai.com/&quot; rel=&quot;nofollow&quot;&gt;https://status.openai.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;兄弟们等你们的 codex 还活着吗？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -78,13 +54,6 @@
 </description>
     </item>
     <item>
-      <title>Codex 又又又又又又又又又又又又又又又又又又又又又又又又又又又又重置了</title>
-      <link>https://www.v2ex.com/t/1229825</link>
-      <guid>v2ex-1229825</guid>
-      <pubDate>Sat, 25 Jul 2026 21:05:57 GMT</pubDate>
-      <description>RT&lt;br /&gt;&lt;br /&gt;前几天续费升级到 20x 没重置，终于补足了  HHHHHH</description>
-    </item>
-    <item>
       <title>程序员能不能解决“放暑假娃很吵”这个问题？</title>
       <link>https://www.v2ex.com/t/1229854</link>
       <guid>v2ex-1229854</guid>
@@ -93,22 +62,18 @@
 </description>
     </item>
     <item>
+      <title>Codex 又又又又又又又又又又又又又又又又又又又又又又又又又又又又重置了</title>
+      <link>https://www.v2ex.com/t/1229825</link>
+      <guid>v2ex-1229825</guid>
+      <pubDate>Sat, 25 Jul 2026 21:05:57 GMT</pubDate>
+      <description>RT&lt;br /&gt;&lt;br /&gt;前几天续费升级到 20x 没重置，终于补足了  HHHHHH</description>
+    </item>
+    <item>
       <title>反思一下为什么我的开源项目没有做好</title>
       <link>https://www.v2ex.com/t/1229772</link>
       <guid>v2ex-1229772</guid>
       <pubDate>Sat, 25 Jul 2026 12:21:12 GMT</pubDate>
       <description>其实这个事情最开始是 26 年开始有很多号称可以节省 80%-90%token 的项目出来了，比如 RTK, caveman, ponytail.他们都声称可以节约大量的 token ，而且短期获得了几万的 github 收藏。 我之前的创业项目是做面向 e-commerce 的 chatbog ，其实是和 Universal Commerce Protocol (UCP) 一摸一样的一个产品，也是因为 UCP 的发布我没有再继续做这个赛道。今年早些时候，我就想把我们之前搭建 e-commerce chatbot agent 的架构做成 sdk 。简单说这个架构的核心是通过状态机和执行序列把同样任务中 llm 的 provider call 的往返次数减少 80%来降低同样规模的 token 消耗。&lt;br /&gt;&lt;br /&gt;现在的问题是这样的，我很清楚为什么 RTK 这类工具在真正的长任务中是完全无效的。&lt;br /&gt;我 18 号发布的报告，和 jetbrain 20 号发布的报告基本是同样的观察结果，RTK caveman 这类节省 toekn 的插件在真实长任务中毫无作用：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/&quot; rel=&quot;nofollow noopener&quot;&gt;https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea&quot; rel=&quot;nofollow noopener&quot;&gt;https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我很清楚如何真正做到长任务中 80%+ 的 token 消耗减少。但问题是我在推广我的开源项目中遇到了非常大的困难。我把主要问题总结为 3 点：&lt;br /&gt;&lt;br /&gt;大多数 coding agent 用户，不论是有系统编程技能培训或是没有的所有 vibe coder 其实对真正的 token 消耗的原理理解差异很大。一个系统的讲解具体流程，并且挑战认知的长文章会在这个充满 ai 写作和 vibe coding 写出来的无数可以号称减少 95%token 使用的插件的论坛中显得愚蠢和天然没有传播性。&lt;br /&gt;&lt;br /&gt;简单的才易传播，人不是理性动物，只会相信自己更容易理解的事务。这就是为什么所有社交媒体上错误归因的伪科学永远比讲数学原理的频道有更高的关注度。&lt;br /&gt;&lt;br /&gt;作者的傲慢。这其实是两个问题的结合，在一个相信科学测试方法和 eval 科学的作者眼中。没有 eval 和 benchmark 的软件工程是无意义的。但事实是可能是作者自己的傲慢和对 rtk 这类工具的鄙视甚至是嫉妒造成了他更不愿意用更有效的方式传播他的作品。&lt;br /&gt;&lt;br /&gt;如果大家有时间看到这，可以给我提一些意见，告诉我如何才能在尊重 eval 和 benchmark 严谨性的同时更好的推广我的产品。 我知道用 codex 或者 claude 写一个 coding agent 很简单，但我也相信，总会有人理解 benchmark 和 eval harness 的价值。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/Tura-AI/tura&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/Tura-AI/tura&lt;/a&gt;&lt;br /&gt;目前项目 16 号发布现在 400 多个星，只能算个小透明</description>
-    </item>
-    <item>
-      <title>独立开发者（opc）收款的问题</title>
-      <link>https://www.v2ex.com/t/1229785</link>
-      <guid>v2ex-1229785</guid>
-      <pubDate>Sat, 25 Jul 2026 13:43:51 GMT</pubDate>
-      <description>&lt;p&gt;一个独立开发者，无法注册企业和个体工商户，做了好几个作品，一直卡在收款支付上。&lt;/p&gt;
-&lt;p&gt;海外的收款我使用 Creem ，虽然费率高，但是算是解决。&lt;/p&gt;
-&lt;p&gt;国内的收款，一直找不到解决方案。看了自媒体上介绍的什么易支付之类，总感觉不靠谱。&lt;/p&gt;
-&lt;p&gt;困扰了好久，各位大神是怎么解决这个问题。最好正规点的，费率高点也无所谓。感谢🙏&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>[开源]或许是 WindTerm 精神的续作： SSH 客户端 OxideTerm 焕新为原生软件， Windows 空载内存仅 25 MB</title>
@@ -164,6 +129,50 @@
 &lt;p&gt;如果你也是一个原生体验的追求者，不太喜欢 Electron 和 Tauri 架构下 Webview 的内存占用，欢迎来试试看。觉得好用的话点个 Star ，如果有任何建议或遇到了使用问题，欢迎在帖子里回复，或者直接去 GitHub 提 issue ，我看到都会尽量回复——项目比起 WindTerm 这样历经大家打磨的璞玉，毕竟还算年轻。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/AnalyseDeCircuit/oxideterm&quot; rel=&quot;nofollow&quot;&gt;https://github.com/AnalyseDeCircuit/oxideterm&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;官网：&lt;/strong&gt;&lt;a href=&quot;https://oxideterm.app/&quot; rel=&quot;nofollow&quot;&gt;https://oxideterm.app&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>独立开发者（opc）收款的问题</title>
+      <link>https://www.v2ex.com/t/1229785</link>
+      <guid>v2ex-1229785</guid>
+      <pubDate>Sat, 25 Jul 2026 13:43:51 GMT</pubDate>
+      <description>&lt;p&gt;一个独立开发者，无法注册企业和个体工商户，做了好几个作品，一直卡在收款支付上。&lt;/p&gt;
+&lt;p&gt;海外的收款我使用 Creem ，虽然费率高，但是算是解决。&lt;/p&gt;
+&lt;p&gt;国内的收款，一直找不到解决方案。看了自媒体上介绍的什么易支付之类，总感觉不靠谱。&lt;/p&gt;
+&lt;p&gt;困扰了好久，各位大神是怎么解决这个问题。最好正规点的，费率高点也无所谓。感谢🙏&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>v2ex 应该也提供 mcp 服务：将论坛作为可由 AI 安全检索和按权限操作的 MCP 知识库。</title>
+      <link>https://www.v2ex.com/t/1229765</link>
+      <guid>v2ex-1229765</guid>
+      <pubDate>Sat, 25 Jul 2026 11:09:14 GMT</pubDate>
+      <description>MCP Server 插件&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://bbs1.org/topic/154&quot; rel=&quot;nofollow noopener&quot;&gt;https://bbs1.org/topic/154&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;将论坛作为可由 AI 安全检索和按权限操作的 MCP 知识库。&lt;br /&gt;有兴趣的部署看看</description>
+    </item>
+    <item>
+      <title>快 35 了， offer 二选一</title>
+      <link>https://www.v2ex.com/t/1229798</link>
+      <guid>v2ex-1229798</guid>
+      <pubDate>Sat, 25 Jul 2026 15:02:37 GMT</pubDate>
+      <description>&lt;p&gt;老哥们，帮忙出出主意，不知道选哪个&lt;/p&gt;
+&lt;p&gt;offer1 制造业，公司 2000 来个人，中日合资。
+薪资: n*16 ；
+优点:基本不加班，工作相对稳定，传统行业裁员相对少点；
+缺点:单程通勤 1 小时，技术和业务相对传统，感觉工作中更多是沟通汇报类，假如被优化跳槽相对劣势。&lt;/p&gt;
+&lt;p&gt;offer2 游戏公司，公司也是 2000 来个人，大厂控股 50%。
+薪资: (n+7)*16 ；
+优点:技术和业务比较跟得上市场，假如被优化跳槽有优势，单程通勤 20 分钟；
+缺点:加班多，游戏行业裁员比较多？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>自研 markdown 编辑器内核支持了实时协同能力，做一个基于 webrtc p2p 协同 demo 有没有被喝茶风险</title>
+      <link>https://www.v2ex.com/t/1229892</link>
+      <guid>v2ex-1229892</guid>
+      <pubDate>Sun, 26 Jul 2026 06:47:18 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;项目地址： &lt;a href=&quot;https://github.com/do-md/domd&quot; rel=&quot;nofollow&quot;&gt;https://github.com/do-md/domd&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;协同 playground： &lt;a href=&quot;https://www.domd.app/playground/live&quot; rel=&quot;nofollow&quot;&gt;https://www.domd.app/playground/live&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;domd 内核 0.4.0 发布，支持了实时协同能力，代码已经 push 。editor 页面也支持了邀请协同编辑，无需登入。不过担心被喝茶，代码还没推送&lt;/p&gt;
 </description>
     </item>
   </channel>
