@@ -4,22 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 26 Jul 2026 12:34:41 GMT</lastBuildDate>
-    <item>
-      <title>推荐下磷酸铁锂的五号和七号电池</title>
-      <link>https://www.v2ex.com/t/1229778</link>
-      <guid>v2ex-1229778</guid>
-      <pubDate>Sat, 25 Jul 2026 12:48:36 GMT</pubDate>
-      <description>&lt;p&gt;家里用电池的东西越来越多，门锁，电子秤，小孩玩具，手柄，键盘鼠标等，保险柜，燃气表等，不得不得备好些电池。&lt;/p&gt;
-&lt;p&gt;调研了下稍新点电池发展，简单介绍下我的研究成果，不涉及具体品牌，可能稍有纰漏，大家自己选择时要研究清楚，用错电池可能会损坏设备。&lt;/p&gt;
-&lt;p&gt;通常我们口语的电量应是功率乘时间，即瓦时，电池普遍标的毫安时 mah ，乘以电压后即 mwh 毫瓦时，这个才是电量，当我们讨论起不太常见的锂电池时，这点至关重要。为什么？比如一个 1.2v 五号碱性电池足足 3000mah ，而一个 14500 同样尺寸锂电池，只有 1000mah ，是否意味着，碱性电池电量更多？实际上一个是 1.2v×3000mah=3600mwh ，一个是 3.7v×1000mah=3700mwh ，锂电池的储能密度更高。因此，下边我会以 mwh 表达电量，尽管读者未必能在电池上看到规格，知道如何算出来的就好。&lt;/p&gt;
-&lt;p&gt;最常见的一次性碱性电池，常见 7 号约 1500mwh ，5 号约 3600mwh ，电压有 1.2v/1.5v 的选择。由于电压不稳定，我们可以理解为使用干电池的设备对电压没那么敏感，基于此，我们可以选择同尺寸的电池作为替代品，电压差不那么离谱，就都可以尝试。&lt;/p&gt;
-&lt;p&gt;我首先考虑的充电电池，试过镍氢的，非常不推荐，说是可以充几百次，实际基本十次以内，就有的还好着，有的嗝屁了，十分不稳定。更推荐的是锂电池，锂电池分两种，三元锂和磷酸铁锂，三元锂 3.7v ，我充满后实际测最高可以达到 4.2v ，和 1.5v 标称差的太远，使用一节占位筒分摊电压后仍然偏高，我试过手柄上用，基本都能用。占位筒可以理解为一个看着像电池，实际里边就一根铜导线的东西。三元锂 14500 规格电池充电时会很烫，让我有些担心，再加上电压太高，因此我不太推荐。&lt;/p&gt;
-&lt;p&gt;推荐的是磷酸铁锂 5 号/7 号电池，它的电压是 3.2v ，配合一节占位筒，平均到 1.6v ，非常可以接受。且充电时不会特别烫。一般标 1000mah/500mah ，即 3200mwh/1600mwh ，单节电量和碱性电池的电量差不多。因为要配合占位筒，实际使用时只有一节的电量，对体验的影响是，以前四个月换一次，现在两个月换一次。&lt;/p&gt;
-&lt;p&gt;然后是经济账，碱性电池一般 1 元一节，磷酸铁锂充电电池大概 8 元一节，但有个核心重点，占位筒不要钱是送的，因此磷酸铁锂电池在电压上一节可以顶两节来用，只是装设备上时整体电量上只有碱性电池一半。我自己最关注的是电压，设备都在手边，几秒就能更换，四个月还是两个月换于我没有差别，因此我会主观上将磷酸铁锂电池价格除 2 ，即 4 元一节，充四次后性价比即超过碱性电池。&lt;/p&gt;
-&lt;p&gt;记得磷酸铁锂 3.2v 必须搭配占位筒来用，如果设备只有一个电池位，这种应该用 1.5v 普通锂电池。弄明白了再用，别整坏自己的设备了。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 14:23:02 GMT</lastBuildDate>
     <item>
       <title>讲述下经历遭遇后，我的心理变化，目前正在调整期</title>
       <link>https://www.v2ex.com/t/1229836</link>
@@ -54,75 +39,12 @@
 </description>
     </item>
     <item>
-      <title>[开源]或许是 WindTerm 精神的续作： SSH 客户端 OxideTerm 焕新为原生软件， Windows 空载内存仅 25 MB</title>
-      <link>https://www.v2ex.com/t/1229777</link>
-      <guid>v2ex-1229777</guid>
-      <pubDate>Sat, 25 Jul 2026 12:38:58 GMT</pubDate>
-      <description>&lt;p&gt;大家好，我是 OxideTerm 的作者。&lt;/p&gt;
-&lt;p&gt;WindTerm 是很多人的心头好，极低的内存占用、原生级的流畅度，很少有替代品能完全复现。但它已经停更一年多了，积压的 Issue 长期也似乎无人修复，当然我也很希望作者能够再度更新。现在不少朋友一直在找下一个归宿，但市面上大多是 Electron/Tauri 的 WebView 应用，空载几百兆起步，很难找回那种轻快感。&lt;/p&gt;
-&lt;p&gt;我自己一直很尊重 WindTerm 坚持原生、不妥协的产品理念，也在做一款开源 SSH 工具 &lt;strong&gt;OxideTerm&lt;/strong&gt;。我的 1.x 是用 Tauri 写的，很快就撞到了 WebView 的天花板：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;空载吃内存&lt;/strong&gt;：即使没打开任何会话，浏览器引擎、DOM 和 JS 运行时的固定开销就占着几百兆。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;前后端跨语言通信效率受限&lt;/strong&gt;：终端内容要跨越 Rust 和前端 JS 之间的数据链路，大日志刷屏时压力可能不小。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我发现局部优化解决不了架构问题。所以我做了一个决定：&lt;strong&gt;抛弃 WebView ，用纯 Rust 和 GPUI （ Zed 编辑器用的原生 GPU 渲染框架）完全重写了它。&lt;/strong&gt;通过移除 WebView 、DOM 和 JavaScript 运行时，更换数据链路 ，我们省去了跨语言的序列化和 IPC 。&lt;strong&gt;macOS 空载从 320MB 降到了 80MB 出头，Windows 则从约 180MB 降到了 25MB 。&lt;/strong&gt; （自己的机器实测）&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;内存对比&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/AnalyseDeCircuit/oxideterm/main/docs/screenshots/oxideterm-memory-comparison.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;最近刚好过了 1000 Star 门槛，历经大量 issue 反馈，算是有了一定完成度，所以发出来再和大家分享。&lt;/p&gt;
-&lt;h2&gt;OxideTerm 和 WindTerm 有什么共同点？&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;原生高性能（无 WebView / 零 DOM 开销）&lt;/strong&gt;：我们都彻底避开了 WebView/Electron ，界面由 GPU 硬件直接渲染，不经过任何浏览器引擎层。这带来了实打实的性能与内存优势：目前 OxideTerm 在 Windows 下的空载内存仅约 &lt;strong&gt;25 MB&lt;/strong&gt;（ macOS 约 80MB ）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;免费 &amp;amp; 开源&lt;/strong&gt;：项目完全开源 (GPL-3.0)，目前没有任何订阅或专业版限制。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;OxideTerm 有什么不同？&lt;/h2&gt;
-&lt;p&gt;如果说 WindTerm 是上一代经典的代表，OxideTerm 则试图在原生性能的基础上，加入现代化的能力。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;另外我们的 UI 并没有完全复刻 WindTerm——这是有意为之，目的是提供更现代的信息架构和交互体验，而不是做一个外观上的克隆。&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;平滑迁移&lt;/strong&gt;：支持从其他 SSH 客户端导入已有连接配置，不用从头手动录入。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;原生 RDP / VNC 支持&lt;/strong&gt;：除了基础的 SSH/SFTP ，内置了基于 Rust &lt;code&gt;IronRDP&lt;/code&gt; 的原生桌面连接的部分能力。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Host Tools 工作区&lt;/strong&gt;：我们在右侧面板集成了 Docker 、进程、tmux 、systemd 服务等图形化管理工具，通过复用当前的 SSH 连接通道实时抓取。目标是消除传统 SSH “开一堆终端敲命令”的割裂感，打造一个集成驾驶舱。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;现代化的 AI 助手 OxideSens&lt;/strong&gt;：内置 AI ，支持带终端上下文的对话。可以帮你分析报错、生成修复命令，你可以选择自己的大模型提供商（ BYOK ）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;终端核心换代&lt;/strong&gt;：底层换成了 &lt;code&gt;alacritty_terminal&lt;/code&gt;，并添加支持 Sixel/Kitty 图像协议，可以在终端里直接预览图片。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;Host Tools&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/AnalyseDeCircuit/oxideterm/main/docs/screenshots/terminal-host-tools.png&quot;/&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;云同步&lt;/strong&gt;：支持 WebDAV 、S3 兼容存储、OneDrive 、GitHub Gist 等后端同步配置。所有数据上传前在本地加密，没有任何中央服务器。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;云同步&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/AnalyseDeCircuit/oxideterm/main/docs/screenshots/cloud-sync.png&quot;/&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;同款 Free Type Mode 自由输入模式&lt;/strong&gt;：可以直接用鼠标点击命令行的任何位置移动光标，选中文本直接退格删除（不用在远程机器装任何脚本，纯端侧实现）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;高速 SFTP 传输&lt;/strong&gt;：我们对 &lt;code&gt;russh-sftp&lt;/code&gt; 做了自维护的改造优化，上传下载速度相比社区版有了显著提升。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;独立 CLI 工具&lt;/strong&gt;：不启动桌面应用也能完成环境诊断、连接管理、云同步和便携包导入导出，方便接入脚本与 CI 。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;会话管理&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/AnalyseDeCircuit/oxideterm/main/docs/screenshots/session-manager.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;代码与审计&lt;/h2&gt;
-&lt;p&gt;我知道对于 SSH 客户端，大家最关心的是&lt;strong&gt;安全&lt;/strong&gt;。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;连接配置和敏感凭据在本地加密存储，加密密钥由操作系统密钥链管理&lt;/li&gt;
-&lt;li&gt;内存中的敏感数据使用后即时擦除（ zeroize ），避免密钥残留&lt;/li&gt;
-&lt;li&gt;无遥测上报、无后台数据收集：应用不会主动向外发送任何使用数据，你不告诉我们，我们就什么都不知道&lt;/li&gt;
-&lt;li&gt;项目目前分为了 80 多个独立 crate ，代码完全开源。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;写在最后&lt;/h2&gt;
-&lt;p&gt;项目完全用爱发电。当时写这个项目的初衷很简单，受够了市面上的订阅制工具，就想给自己搓个顺手的。不知不觉坚持了 8 个月，又因为尝试剥离 WebView 完全重写了底层，从 Tauri 换成了 GPUI ，熬到了 2.0 。接下来不出意外的话还会继续维护下去。&lt;/p&gt;
-&lt;p&gt;如果你也是一个原生体验的追求者，不太喜欢 Electron 和 Tauri 架构下 Webview 的内存占用，欢迎来试试看。觉得好用的话点个 Star ，如果有任何建议或遇到了使用问题，欢迎在帖子里回复，或者直接去 GitHub 提 issue ，我看到都会尽量回复——项目比起 WindTerm 这样历经大家打磨的璞玉，毕竟还算年轻。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&quot;https://github.com/AnalyseDeCircuit/oxideterm&quot; rel=&quot;nofollow&quot;&gt;https://github.com/AnalyseDeCircuit/oxideterm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;官网：&lt;/strong&gt;&lt;a href=&quot;https://oxideterm.app/&quot; rel=&quot;nofollow&quot;&gt;https://oxideterm.app&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>程序员能不能解决“放暑假娃很吵”这个问题？</title>
       <link>https://www.v2ex.com/t/1229854</link>
       <guid>v2ex-1229854</guid>
       <pubDate>Sun, 26 Jul 2026 03:34:18 GMT</pubDate>
       <description>&lt;p&gt;程序员能不能解决“放暑假娃很吵”这个问题？ 程序员应该什么都能做吧！！！&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>Codex 又又又又又又又又又又又又又又又又又又又又又又又又又又又又重置了</title>
-      <link>https://www.v2ex.com/t/1229825</link>
-      <guid>v2ex-1229825</guid>
-      <pubDate>Sat, 25 Jul 2026 21:05:57 GMT</pubDate>
-      <description>RT&lt;br /&gt;&lt;br /&gt;前几天续费升级到 20x 没重置，终于补足了  HHHHHH</description>
     </item>
     <item>
       <title>大家觉得的躺平就是完全不工作吗？</title>
@@ -132,14 +54,18 @@
       <description>我一直觉得躺平是找个轻松的班上，或者开个小店（自己不坐班那种），每个月有个两三千利润就可以了。</description>
     </item>
     <item>
-      <title>独立开发者（opc）收款的问题</title>
-      <link>https://www.v2ex.com/t/1229785</link>
-      <guid>v2ex-1229785</guid>
-      <pubDate>Sat, 25 Jul 2026 13:43:51 GMT</pubDate>
-      <description>&lt;p&gt;一个独立开发者，无法注册企业和个体工商户，做了好几个作品，一直卡在收款支付上。&lt;/p&gt;
-&lt;p&gt;海外的收款我使用 Creem ，虽然费率高，但是算是解决。&lt;/p&gt;
-&lt;p&gt;国内的收款，一直找不到解决方案。看了自媒体上介绍的什么易支付之类，总感觉不靠谱。&lt;/p&gt;
-&lt;p&gt;困扰了好久，各位大神是怎么解决这个问题。最好正规点的，费率高点也无所谓。感谢🙏&lt;/p&gt;
+      <title>Codex 又又又又又又又又又又又又又又又又又又又又又又又又又又又又重置了</title>
+      <link>https://www.v2ex.com/t/1229825</link>
+      <guid>v2ex-1229825</guid>
+      <pubDate>Sat, 25 Jul 2026 21:05:57 GMT</pubDate>
+      <description>RT&lt;br /&gt;&lt;br /&gt;前几天续费升级到 20x 没重置，终于补足了  HHHHHH</description>
+    </item>
+    <item>
+      <title>为什么现在 CLI agent 应用那么火， GUI 不好用吗？</title>
+      <link>https://www.v2ex.com/t/1229915</link>
+      <guid>v2ex-1229915</guid>
+      <pubDate>Sun, 26 Jul 2026 08:14:18 GMT</pubDate>
+      <description>&lt;p&gt;如题，大家不喜欢好看的 GUI 应用吗？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -172,6 +98,26 @@
       <guid>v2ex-1229834</guid>
       <pubDate>Sun, 26 Jul 2026 01:20:50 GMT</pubDate>
       <description>本人目前在一家市场化国企，工作一年左右，想听听大家对下一步选择的建议。&lt;br /&gt;&lt;br /&gt;目前的工作&lt;br /&gt;&lt;br /&gt;工作时间：965&lt;br /&gt;税前工资：9k&lt;br /&gt;工作地点距离老家长沙约 1300 公里&lt;br /&gt;工作强度整体不算高&lt;br /&gt;周末需要去单位待半天，基本属于“作秀”，没有实际工作&lt;br /&gt;需要承担业绩指标，而且业绩要求会逐年增加，但工资基本不涨&lt;br /&gt;需要随时回复用户消息、处理用户技术问题，包括周末和节假日&lt;br /&gt;技术成长空间比较有限。我才来一年，技术水平在部门里已经算比较靠前，继续留下感觉很难再有明显提升&lt;br /&gt;简单来说，这份工作不算累，稳定性也还可以，但人在外地、收入一般，工作和生活的边界比较模糊，而且长期来看既没有技术成长，业绩压力还会越来越大。&lt;br /&gt;&lt;br /&gt;目前手上的三个机会&lt;br /&gt;&lt;br /&gt;1. 长沙本地 Office 岗&lt;br /&gt;&lt;br /&gt;工资：12k—15k&lt;br /&gt;工作时间：995&lt;br /&gt;工作内容：纯技术岗&lt;br /&gt;优点：离家近、收入有所提升、能继续积累技术&lt;br /&gt;顾虑：平台和未来发展暂时不太确定&lt;br /&gt;2. 成都 Office 岗&lt;br /&gt;&lt;br /&gt;工资：20k—25k&lt;br /&gt;工作时间：996&lt;br /&gt;工作内容和发展机会目前看起来最好&lt;br /&gt;优点：工资涨幅最大，职业发展可能也更好&lt;br /&gt;顾虑：公司风评不太好，担心实际工作强度、绩效制度，以及最后拿不到承诺的薪资&lt;br /&gt;3. 上海车企大厂&lt;br /&gt;&lt;br /&gt;工资：20k&lt;br /&gt;工作时间：985&lt;br /&gt;优点：大厂平台、履历认可度高，工作时间相对可接受&lt;br /&gt;顾虑：上海生活成本较高，距离家也比较远，不确定 20k 实际能剩下多少&lt;br /&gt;目前自己的想法&lt;br /&gt;&lt;br /&gt;我比较倾向于离开现在的单位。&lt;br /&gt;&lt;br /&gt;虽然目前工作不算累，但需要随时响应用户，周末和节假日也很难完全放松；同时技术上几乎没有提升空间，业绩要求却会逐年增加，工资又没有明显增长。&lt;br /&gt;&lt;br /&gt;现在比较纠结的是：&lt;br /&gt;&lt;br /&gt;选长沙，离家近、做纯技术，生活更稳定；&lt;br /&gt;选成都，工资和发展最好，但担心公司不靠谱、钱拿不全；&lt;br /&gt;选上海，大厂平台不错、工作时间也可以，但生活成本和离家距离是问题。&lt;br /&gt;想请教大家，如果是你们，会怎么选？</description>
+    </item>
+    <item>
+      <title>自研 markdown 编辑器内核支持了实时协同能力，做一个基于 webrtc p2p 协同 demo 有没有被喝茶风险</title>
+      <link>https://www.v2ex.com/t/1229892</link>
+      <guid>v2ex-1229892</guid>
+      <pubDate>Sun, 26 Jul 2026 06:47:18 GMT</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;项目地址： &lt;a href=&quot;https://github.com/do-md/domd&quot; rel=&quot;nofollow&quot;&gt;https://github.com/do-md/domd&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;协同 playground： &lt;a href=&quot;https://www.domd.app/playground/live&quot; rel=&quot;nofollow&quot;&gt;https://www.domd.app/playground/live&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;domd 内核 0.4.0 发布，支持了实时协同能力，代码已经 push 。editor 页面也支持了邀请协同编辑，无需登入。不过担心被喝茶，代码还没推送&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>token 用完了怎么办</title>
+      <link>https://www.v2ex.com/t/1229870</link>
+      <guid>v2ex-1229870</guid>
+      <pubDate>Sun, 26 Jul 2026 04:49:17 GMT</pubDate>
+      <description>&lt;p&gt;订阅了 Cursor pro 和 chatgpt plus （主要用 codex ），月底超额了，还好 codex 昨天重置了，还能用两天。&lt;/p&gt;
+&lt;p&gt;Cursor 有没有国产替代，选个同价位 token 更多的，或者便宜的不够了再充值一次。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/2Dj7PQr.png&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
