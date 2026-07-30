@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 30 Jul 2026 18:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:58:40 GMT</lastBuildDate>
     <item>
       <title>公办二本计算机专业，有必要听老师讲课吗？</title>
       <link>https://www.v2ex.com/t/1230880</link>
@@ -26,13 +26,6 @@
       <description>&lt;p&gt;我目前在 tg 买，一圈看下来应该是比较低价的了，我不太在乎是否是精工产品，只要口感对，质量说得过去就行，当然正品低价肯定更好了。&lt;/p&gt;
 &lt;p&gt;不过我也想了解更多的渠道，可以留下某个产品价格，我可以做下对比。小红书上很多被骗的帖子🤣，绝大部分都是要求先款的，感觉很无解。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>我和我女儿一起写的游戏上了 Steam 了</title>
-      <link>https://www.v2ex.com/t/1230860</link>
-      <guid>v2ex-1230860</guid>
-      <pubDate>Wed, 29 Jul 2026 19:28:07 GMT</pubDate>
-      <description>Steam Store: &lt;a target=&quot;_blank&quot; href=&quot;https://store.steampowered.com/app/4569680/Cedrics_Quest__The_Waning_Ward&quot; rel=&quot;nofollow noopener&quot;&gt;https://store.steampowered.com/app/4569680/Cedrics_Quest__The_Waning_Ward&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;欢迎尝试</description>
     </item>
     <item>
       <title>为什么小蓝灯要被禁掉呢</title>
@@ -71,6 +64,21 @@
       <guid>v2ex-1230879</guid>
       <pubDate>Thu, 30 Jul 2026 01:01:56 GMT</pubDate>
       <description>最近想折腾一个 Mac 远程使用方案，想请教一下大家有没有类似经验。&lt;br /&gt;&lt;br /&gt;目前需求：&lt;br /&gt;&lt;br /&gt;完整远程控制 Mac&lt;br /&gt;&lt;br /&gt;iPad 或 Windows 作为客户端，远程连接 Mac ，类似 TeamViewer / RustDesk / Parsec 这种。&lt;br /&gt;&lt;br /&gt;Mac 作为应用服务器&lt;br /&gt;&lt;br /&gt;更理想的方式是：&lt;br /&gt;&lt;br /&gt;Mac 负责运行软件&lt;br /&gt;文件也一直保存在 Mac 上&lt;br /&gt;iPad / Windows 端只负责操作和显示&lt;br /&gt;类似 Windows RemoteApp ，打开的是 Mac 上某个具体软件，而不是整个桌面&lt;br /&gt;&lt;br /&gt;比如：&lt;br /&gt;&lt;br /&gt;在 iPad 上直接使用 Mac 上的 IDE&lt;br /&gt;使用 Mac 上安装的软件&lt;br /&gt;编辑 Mac 上的文件&lt;br /&gt;不需要把整个 Mac 桌面投出来&lt;br /&gt;&lt;br /&gt;目前想到的方向：&lt;br /&gt;&lt;br /&gt;VNC / 屏幕共享&lt;br /&gt;Parsec / Moonlight&lt;br /&gt;NoMachine&lt;br /&gt;其他远程应用方案&lt;br /&gt;&lt;br /&gt;但是第二种“单独远程使用 Mac 软件”的方案不太清楚有没有成熟实现。&lt;br /&gt;&lt;br /&gt;想问问各位：&lt;br /&gt;&lt;br /&gt;有没有比较推荐的远程控制 Mac 方案？&lt;br /&gt;有没有类似 RemoteApp ，可以把 Mac 软件单独发布出来使用的方案？&lt;br /&gt;如果长期使用，大家更推荐哪种架构？&lt;br /&gt;&lt;br /&gt;感谢各位分享经验。</description>
+    </item>
+    <item>
+      <title>这个低成本的美国手机号码，价值还在上升</title>
+      <link>https://www.v2ex.com/t/1230904</link>
+      <guid>v2ex-1230904</guid>
+      <pubDate>Thu, 30 Jul 2026 02:04:25 GMT</pubDate>
+      <description>&lt;p&gt;之前发了一个 Saily 美国手机号的帖子，引来部分使用 GG 英国手机卡的 V 友嘲讽。
+目前来看 Saily 的含金量又一次上升了。
+这个卡的优势就是：
+1 、本身就是旅行卡，允许在国外使用，暂时看不到封号风险。
+2 、原生美国实体手机号，支持银行及 openai/PayPal 注册（有的号码可能不行）&lt;/p&gt;
+&lt;p&gt;需要的 V 友，教程自取吧&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mutou.men/?p=756&quot; rel=&quot;nofollow&quot;&gt;mutou.men&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;邀请码这个低价套餐不能用了，所以就纯分享。注册应该会自动送两美金。所以前 5 个月月租 0.6 美元。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
