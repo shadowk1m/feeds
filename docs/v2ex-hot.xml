@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 30 Jul 2026 09:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 11:26:10 GMT</lastBuildDate>
     <item>
       <title>公办二本计算机专业，有必要听老师讲课吗？</title>
       <link>https://www.v2ex.com/t/1230880</link>
@@ -52,15 +52,12 @@
 </description>
     </item>
     <item>
-      <title>老哥们，你们都是怎么开的 codex 的会员呢</title>
-      <link>https://www.v2ex.com/t/1230794</link>
-      <guid>v2ex-1230794</guid>
-      <pubDate>Wed, 29 Jul 2026 09:45:53 GMT</pubDate>
-      <description>&lt;p&gt;切美区 苹果 id&lt;/p&gt;
-&lt;p&gt;买礼品卡&lt;/p&gt;
-&lt;p&gt;充值的这种吗？&lt;/p&gt;
-&lt;p&gt;或者说代充值？&lt;/p&gt;
-&lt;p&gt;或者说有更好的方案呢&lt;/p&gt;
+      <title>你们都是在哪买电子烟的</title>
+      <link>https://www.v2ex.com/t/1230903</link>
+      <guid>v2ex-1230903</guid>
+      <pubDate>Thu, 30 Jul 2026 02:03:58 GMT</pubDate>
+      <description>&lt;p&gt;我目前在 tg 买，一圈看下来应该是比较低价的了，我不太在乎是否是精工产品，只要口感对，质量说得过去就行，当然正品低价肯定更好了。&lt;/p&gt;
+&lt;p&gt;不过我也想了解更多的渠道，可以留下某个产品价格，我可以做下对比。小红书上很多被骗的帖子🤣，绝大部分都是要求先款的，感觉很无解。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -79,15 +76,6 @@
 </description>
     </item>
     <item>
-      <title>你们都是在哪买电子烟的</title>
-      <link>https://www.v2ex.com/t/1230903</link>
-      <guid>v2ex-1230903</guid>
-      <pubDate>Thu, 30 Jul 2026 02:03:58 GMT</pubDate>
-      <description>&lt;p&gt;我目前在 tg 买，一圈看下来应该是比较低价的了，我不太在乎是否是精工产品，只要口感对，质量说得过去就行，当然正品低价肯定更好了。&lt;/p&gt;
-&lt;p&gt;不过我也想了解更多的渠道，可以留下某个产品价格，我可以做下对比。小红书上很多被骗的帖子🤣，绝大部分都是要求先款的，感觉很无解。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>进入智驾时代，就不会有插车，逆行等现象，有道理不？</title>
       <link>https://www.v2ex.com/t/1230892</link>
       <guid>v2ex-1230892</guid>
@@ -102,6 +90,20 @@
       <guid>v2ex-1230879</guid>
       <pubDate>Thu, 30 Jul 2026 01:01:56 GMT</pubDate>
       <description>最近想折腾一个 Mac 远程使用方案，想请教一下大家有没有类似经验。&lt;br /&gt;&lt;br /&gt;目前需求：&lt;br /&gt;&lt;br /&gt;完整远程控制 Mac&lt;br /&gt;&lt;br /&gt;iPad 或 Windows 作为客户端，远程连接 Mac ，类似 TeamViewer / RustDesk / Parsec 这种。&lt;br /&gt;&lt;br /&gt;Mac 作为应用服务器&lt;br /&gt;&lt;br /&gt;更理想的方式是：&lt;br /&gt;&lt;br /&gt;Mac 负责运行软件&lt;br /&gt;文件也一直保存在 Mac 上&lt;br /&gt;iPad / Windows 端只负责操作和显示&lt;br /&gt;类似 Windows RemoteApp ，打开的是 Mac 上某个具体软件，而不是整个桌面&lt;br /&gt;&lt;br /&gt;比如：&lt;br /&gt;&lt;br /&gt;在 iPad 上直接使用 Mac 上的 IDE&lt;br /&gt;使用 Mac 上安装的软件&lt;br /&gt;编辑 Mac 上的文件&lt;br /&gt;不需要把整个 Mac 桌面投出来&lt;br /&gt;&lt;br /&gt;目前想到的方向：&lt;br /&gt;&lt;br /&gt;VNC / 屏幕共享&lt;br /&gt;Parsec / Moonlight&lt;br /&gt;NoMachine&lt;br /&gt;其他远程应用方案&lt;br /&gt;&lt;br /&gt;但是第二种“单独远程使用 Mac 软件”的方案不太清楚有没有成熟实现。&lt;br /&gt;&lt;br /&gt;想问问各位：&lt;br /&gt;&lt;br /&gt;有没有比较推荐的远程控制 Mac 方案？&lt;br /&gt;有没有类似 RemoteApp ，可以把 Mac 软件单独发布出来使用的方案？&lt;br /&gt;如果长期使用，大家更推荐哪种架构？&lt;br /&gt;&lt;br /&gt;感谢各位分享经验。</description>
+    </item>
+    <item>
+      <title>低代码真的有前景吗</title>
+      <link>https://www.v2ex.com/t/1231024</link>
+      <guid>v2ex-1231024</guid>
+      <pubDate>Thu, 30 Jul 2026 08:33:18 GMT</pubDate>
+      <description>&lt;p&gt;我们主管一人借助 Vibe Coding 开发了一套低代码平台，目前主要功能如下：&lt;/p&gt;
+&lt;p&gt;逻辑引擎：支持设置入参、出参，通过拖拽循环、JS 、SQL 节点以及分支节点来编写业务逻辑。
+页面快速生成：选择数据表后可快速进行联表生成页面，再结合逻辑引擎和自定义表单，配置各类编辑、弹窗等交互事件。
+自定义页面：直接用 HTML/CSS/JS 三件套编写页面，通过逻辑引擎获取数据并完成页面渲染。&lt;/p&gt;
+&lt;p&gt;在内部人事管理系统上，这套平台确实显著提升了效率，也让产品能够深度参与开发。但当我们把同样的模式应用到考试系统以及业务逻辑更复杂的场景时，问题开始显现。
+我在参与过程中明显感觉到，这种开发方式与自己以往的编码习惯差异很大。逻辑引擎实现的业务逻辑处于黑盒与白盒之间，既不够透明，也难以像传统代码那样灵活调试和维护。
+因此我想请教：这种低代码模式真的有长期前景吗？有必要继续大力推进下去吗？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
