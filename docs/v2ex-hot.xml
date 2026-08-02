@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 02 Aug 2026 09:29:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 10:58:06 GMT</lastBuildDate>
     <item>
       <title>兄弟们，这局怎么破？</title>
       <link>https://www.v2ex.com/t/1231464</link>
@@ -104,6 +104,22 @@
 </description>
     </item>
     <item>
+      <title>知乎里一眼望去都是 gpt 生成的文章，为什么每个文章下面都是一片祥和</title>
+      <link>https://www.v2ex.com/t/1231526</link>
+      <guid>v2ex-1231526</guid>
+      <pubDate>Sun, 02 Aug 2026 05:23:56 GMT</pubDate>
+      <description>&lt;p&gt;如题，&lt;/p&gt;
+&lt;p&gt;打开知乎，一眼望去都是 gpt 风味文章，gpt 的文章风味太熟悉了。&lt;/p&gt;
+&lt;p&gt;但是评论区甚至能看到“我的收藏夹就是为了这类文章而生的‘&lt;/p&gt;
+&lt;p&gt;看到这个评论，我久久不能自已，沉默了很久，让我的脑子出现了逻辑错误&lt;/p&gt;
+&lt;p&gt;比如： &lt;a href=&quot;https://www.zhihu.com/question/422144033/answer/2053839572241478671&quot; rel=&quot;nofollow&quot;&gt;https://www.zhihu.com/question/422144033/answer/2053839572241478671&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我承认，这些知识很迷人，或许，不是 ai 写的就是错的，&lt;/p&gt;
+&lt;p&gt;如果是 ai ，输出有用的知识，还是能引起人的赞同&lt;/p&gt;
+&lt;p&gt;其实我也不知道我在想什么，自从上次写了一篇文章被人攻击是 ai slop ，我一直没能想明白这个问题。&lt;/p&gt;
+&lt;p&gt;评论区有句话让我一直想到现在，重点不是”是不是 ai“，而是”你写的是不是别人想看的“&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>随着知识库的增长， LLM 理论上体积是不是只会越来越大？</title>
       <link>https://www.v2ex.com/t/1231474</link>
       <guid>v2ex-1231474</guid>
@@ -130,30 +146,6 @@
       <guid>v2ex-1231499</guid>
       <pubDate>Sun, 02 Aug 2026 01:09:50 GMT</pubDate>
       <description>codex 现在怎么这么慢了，用的 sol 中、高都很慢</description>
-    </item>
-    <item>
-      <title>知乎里一眼望去都是 gpt 生成的文章，为什么每个文章下面都是一片祥和</title>
-      <link>https://www.v2ex.com/t/1231526</link>
-      <guid>v2ex-1231526</guid>
-      <pubDate>Sun, 02 Aug 2026 05:23:56 GMT</pubDate>
-      <description>&lt;p&gt;如题，&lt;/p&gt;
-&lt;p&gt;打开知乎，一眼望去都是 gpt 风味文章，gpt 的文章风味太熟悉了。&lt;/p&gt;
-&lt;p&gt;但是评论区甚至能看到“我的收藏夹就是为了这类文章而生的‘&lt;/p&gt;
-&lt;p&gt;看到这个评论，我久久不能自已，沉默了很久，让我的脑子出现了逻辑错误&lt;/p&gt;
-&lt;p&gt;比如： &lt;a href=&quot;https://www.zhihu.com/question/422144033/answer/2053839572241478671&quot; rel=&quot;nofollow&quot;&gt;https://www.zhihu.com/question/422144033/answer/2053839572241478671&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我承认，这些知识很迷人，或许，不是 ai 写的就是错的，&lt;/p&gt;
-&lt;p&gt;如果是 ai ，输出有用的知识，还是能引起人的赞同&lt;/p&gt;
-&lt;p&gt;其实我也不知道我在想什么，自从上次写了一篇文章被人攻击是 ai slop ，我一直没能想明白这个问题。&lt;/p&gt;
-&lt;p&gt;评论区有句话让我一直想到现在，重点不是”是不是 ai“，而是”你写的是不是别人想看的“&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>梁老板的 deepseek api 对用户数据有隐私保护吗？</title>
-      <link>https://www.v2ex.com/t/1231522</link>
-      <guid>v2ex-1231522</guid>
-      <pubDate>Sun, 02 Aug 2026 04:41:47 GMT</pubDate>
-      <description>&lt;p&gt;假设我用 ds api 问了一个策略思路，结果效果还不错，这个思路会不会被 ds 收集成训练数据呢？或者直接被 ds 拿去做策略了。。。&lt;/p&gt;
-</description>
     </item>
   </channel>
 </rss>
