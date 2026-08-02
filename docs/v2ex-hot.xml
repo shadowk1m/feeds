@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 02 Aug 2026 14:44:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 15:52:04 GMT</lastBuildDate>
     <item>
       <title>请教：除了 api 直连，有没有更便宜也保质量的办法可以用 deepseek-v4-flash？</title>
       <link>https://www.v2ex.com/t/1231509</link>
@@ -86,14 +86,6 @@
 </description>
     </item>
     <item>
-      <title>[脑洞] 既然编程生产力如此高了，为什么不众程序员协作重建 BAT/TMD 让中心化的平台暴利回归用户实现普惠互联？</title>
-      <link>https://www.v2ex.com/t/1231482</link>
-      <guid>v2ex-1231482</guid>
-      <pubDate>Sat, 01 Aug 2026 15:14:26 GMT</pubDate>
-      <description>&lt;p&gt;如题，20 美元的 Claude 都蹬不完，技痒总觉得某个伟大的项目等待着众程序员一起去蹬&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>知乎里一眼望去都是 gpt 生成的文章，为什么每个文章下面都是一片祥和</title>
       <link>https://www.v2ex.com/t/1231526</link>
       <guid>v2ex-1231526</guid>
@@ -122,6 +114,16 @@
       <guid>v2ex-1231497</guid>
       <pubDate>Sat, 01 Aug 2026 23:50:01 GMT</pubDate>
       <description>&lt;p&gt;微软这转向太溜了,不赚钱,立马丢了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>YouTube 难以下载</title>
+      <link>https://www.v2ex.com/t/1231539</link>
+      <guid>v2ex-1231539</guid>
+      <pubDate>Sun, 02 Aug 2026 07:37:02 GMT</pubDate>
+      <description>&lt;p&gt;试了 downie4 ，下载个 30%就断掉，必须重新下载，以此往复。&lt;/p&gt;
+&lt;p&gt;试了 yt-dlp 也提示要登录证明自己不是机器人&lt;/p&gt;
+&lt;p&gt;有什么解决办法吗？&lt;/p&gt;
 </description>
     </item>
   </channel>
