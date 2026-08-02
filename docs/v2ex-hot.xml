@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 02 Aug 2026 04:46:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 07:25:58 GMT</lastBuildDate>
     <item>
       <title>兄弟们，这局怎么破？</title>
       <link>https://www.v2ex.com/t/1231464</link>
@@ -69,14 +69,6 @@
 </description>
     </item>
     <item>
-      <title>你们买了车之后有没有后悔过？</title>
-      <link>https://www.v2ex.com/t/1231419</link>
-      <guid>v2ex-1231419</guid>
-      <pubDate>Sat, 01 Aug 2026 05:47:01 GMT</pubDate>
-      <description>&lt;p&gt;特别是那些入手二手车的朋友，除非手头比较宽裕，不然养车的开销还真不小呢。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>有没有从始至终在 AI 上花费 0 元的朋友？</title>
       <link>https://www.v2ex.com/t/1231438</link>
       <guid>v2ex-1231438</guid>
@@ -94,11 +86,19 @@
 </description>
     </item>
     <item>
-      <title>哪里还能办到大流量卡</title>
-      <link>https://www.v2ex.com/t/1231429</link>
-      <guid>v2ex-1231429</guid>
-      <pubDate>Sat, 01 Aug 2026 07:07:00 GMT</pubDate>
-      <description>&lt;p&gt;听说运营商竞合了，哪里还能办到大流量卡&lt;/p&gt;
+      <title>请教：除了 api 直连，有没有更便宜也保质量的办法可以用 deepseek-v4-flash？</title>
+      <link>https://www.v2ex.com/t/1231509</link>
+      <guid>v2ex-1231509</guid>
+      <pubDate>Sun, 02 Aug 2026 03:09:51 GMT</pubDate>
+      <description>&lt;p&gt;v4 flash 确实给力，有什么办法可以更便宜的用？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>似乎开源项目作者不知道/不想利用 AI 来加速自己的开发？</title>
+      <link>https://www.v2ex.com/t/1231528</link>
+      <guid>v2ex-1231528</guid>
+      <pubDate>Sun, 02 Aug 2026 05:43:08 GMT</pubDate>
+      <description>&lt;p&gt;我关注的几个开源项目，gopeed,FluxDown, retainpdf 等似乎进展很慢。  为啥不利用 fable5 来加速呢？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -111,41 +111,33 @@
 </description>
     </item>
     <item>
-      <title>现在国内是买电车好还是买油车好啊</title>
-      <link>https://www.v2ex.com/t/1231435</link>
-      <guid>v2ex-1231435</guid>
-      <pubDate>Sat, 01 Aug 2026 08:02:16 GMT</pubDate>
-      <description>电车越出越多，油车越来越少，是不是买电车是主流了，但是买电车总感觉只是买了使用权，车企可以远程锁车，还有电池安全问题</description>
-    </item>
-    <item>
-      <title>国企三方劳务派遣一周半，接手了一个巨坑项目</title>
-      <link>https://www.v2ex.com/t/1231475</link>
-      <guid>v2ex-1231475</guid>
-      <pubDate>Sat, 01 Aug 2026 13:49:00 GMT</pubDate>
-      <description>&lt;p&gt;前文提要： &lt;a href=&quot;https://www.v2ex.com/t/1230521?p=1#reply18&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1230521?p=1#reply18&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;月底开部门会议，技责让我去支援 2 个同事接手的一个项目。&lt;/p&gt;
-&lt;p&gt;让 ai 读取了下项目的技术架构和数据状态转移。&lt;/p&gt;
-&lt;p&gt;是 2010 年的技术风格，本来是运行在 pc 上的 cs 架构程序，jsp-&amp;gt;iframe 加载前端页面，然后部分页面再套一层 iframe 叠加主要的内容。&lt;/p&gt;
-&lt;p&gt;现在要把这套程序部署到服务器，来支持大量公网用户在线访问。让我想办法来做页面部分的移动端适配。排期 4 周，本月月底就要上线。&lt;/p&gt;
-&lt;p&gt;这要是 ai 时代之前让我支援，我都可以直接跑路了。&lt;/p&gt;
-&lt;p&gt;接手之后想了两套方案，一个是直接复制原有页面和 css 和 js ，另起一套，放到新文件夹下。这种就是比较糊弄，而且如果要持续迭代，那就不太合适。适合临时应付下。&lt;/p&gt;
-&lt;p&gt;另外一套方案是用 vue 或者 react 新建一套项目来开发，但是后续我本地把他们 java 项目启动后，发现页面的主要数据不是那种 get 请求的方式，而是用 iframe 来再次加载的。这就是双层 iframe 。不过我可以 v-html ，但是确实没这么搞过。&lt;/p&gt;
-&lt;p&gt;目前是开着 5.6sol 极高，来按第一套方案先做了，看看效果怎么样，主要还有一些音频播放，录音等功能要 h5 也要支持。后边测试工作也不少。&lt;/p&gt;
-&lt;p&gt;这俩同事都不会写前端，周一打算跟他们对齐一下，看他们在我来之前打算怎么搞。然后尽快把第一套方案搞的完成度再高一点，然后找技责再拍板一下。&lt;/p&gt;
-&lt;p&gt;要不是行情太差，真的想跑路了。&lt;/p&gt;
+      <title>资本喜欢利用女性收割男性，部分低质女性蠢不自知</title>
+      <link>https://www.v2ex.com/t/1231502</link>
+      <guid>v2ex-1231502</guid>
+      <pubDate>Sun, 02 Aug 2026 01:33:36 GMT</pubDate>
+      <description>&lt;p&gt;核心关键词：帝 8 台球俱乐部
+男子消费一万多，女助教经常发一些暧昧关系的话做顾客留存，男子信以为真，以为关系可以进一步
+拍了一下屁股，喜提行拘 5 天&lt;/p&gt;
+&lt;p&gt;这些利用女性勾勾搭搭，收割男性的场所，有些下作无耻。而这些女性也蠢不自知，和资本一起狼狈，利用自己收割男性，美其名曰，笑贫不笑娼。摆明了就是做婊子还要立牌坊，这里的婊子是 ： 资本+利用女色吸引男性消费的群体。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>卸载 vscode IDE 了</title>
-      <link>https://www.v2ex.com/t/1231485</link>
-      <guid>v2ex-1231485</guid>
-      <pubDate>Sat, 01 Aug 2026 15:50:12 GMT</pubDate>
-      <description>&lt;p&gt;AI coding 只需要一个 终端、一个查看文件差异的软件就行了。&lt;/p&gt;
-&lt;p&gt;于是就让 codex  帮整一个。立马把 vscode 、cursor 这类的 IDE 卸载了。&lt;/p&gt;
-&lt;p&gt;反正日常写代码、查看文件够用了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pasted-image.png · 64&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.cdn1.vip/i/6a6e1452da9c2_1785599058.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;pasted-image.png · 905&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.cdn1.vip/i/6a6e14f996817_1785599225.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/WtecHtec/berth&quot; rel=&quot;nofollow&quot;&gt;berth GITHUB&lt;/a&gt;&lt;/p&gt;
+      <title>codex 现在怎么这么慢了，用的 sol 中、高都很慢</title>
+      <link>https://www.v2ex.com/t/1231499</link>
+      <guid>v2ex-1231499</guid>
+      <pubDate>Sun, 02 Aug 2026 01:09:50 GMT</pubDate>
+      <description>codex 现在怎么这么慢了，用的 sol 中、高都很慢</description>
+    </item>
+    <item>
+      <title>AI 生成文案最恶心的四个字</title>
+      <link>https://www.v2ex.com/t/1231506</link>
+      <guid>v2ex-1231506</guid>
+      <pubDate>Sun, 02 Aug 2026 02:17:36 GMT</pubDate>
+      <description>&lt;p&gt;想象一下，当你看一段视频介绍某个工具或者某种技术，然后正在念文案的 AI 突然读出四个字：&lt;/p&gt;
+&lt;p&gt;&quot;想象一下。&quot;&lt;/p&gt;
+&lt;p&gt;你的脑海中是不是立刻涌现出一种不好的预感？天哪，糟了，我操你妈的，接下来将要出现一段跟当前的专业内容话题毫不相干的、极其牵强附会的、而且还是长篇大论的比喻场景了。&lt;/p&gt;
+&lt;p&gt;如果你觉得 AI 这么写文案无所谓，甚至觉得是介绍专业知识的正常写法，那么请你想象一下，你正坐在电脑前，认真想搞懂一个新工具的用法，或者弄明白某种技术的核心原理。结果文案突然甩出“想象一下”这四个字，然后给你整出一段长达一两分钟的、跟正题八竿子打不着的生活场景：什么你是一位厨师在厨房里切洋葱、什么你是快递员在雨天送快递、什么你是宇航员在火星上种土豆……最后硬生生把这些乱七八糟的画面，强行套回那个工具或者技术上。你的注意力被彻底打断了。原本清晰的技术逻辑被稀释成一锅浆糊，大脑被迫在“专业知识点”和“无厘头比喻”之间来回横跳。你不得不先消化那个莫名其妙的场景，再费力把比喻翻译回真正的概念，最后还得自己判断这比喻到底靠不靠谱。本来三句话能讲清楚的事，现在被拖成十分钟的精神折磨。&lt;/p&gt;
+&lt;p&gt;别她妈的滥用比喻了。&lt;/p&gt;
 </description>
     </item>
   </channel>
