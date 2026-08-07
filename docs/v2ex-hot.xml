@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 07 Aug 2026 00:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 03:22:56 GMT</lastBuildDate>
     <item>
       <title>为了让女朋友学 AI，给她买了 MacBook Pro，开了每月 200 刀的 GPT，她却说我一直在压迫她</title>
       <link>https://www.v2ex.com/t/1232427</link>
@@ -21,13 +21,6 @@
 </description>
     </item>
     <item>
-      <title>兄弟们，分手了，好心累啊……发泄吐槽一下。</title>
-      <link>https://www.v2ex.com/t/1232370</link>
-      <guid>v2ex-1232370</guid>
-      <pubDate>Thu, 06 Aug 2026 01:55:00 GMT</pubDate>
-      <description>他 23 岁，我 28 岁。&lt;br /&gt;我们在一起快三年了。期间他出轨过一次，我选择了原谅。&lt;br /&gt;上个月，我们冷战了一个月。起因是那次出轨后，我让他把工资交给我保管，期间给他开了亲情卡，并要求互相分享实时位置。但他总是找各种理由，把存在我这里的钱一点点拿回去。最后只剩三千块时，他说有亲戚借钱，我转了 1000 ，顺便把剩下的两千也全还给了他，让他以后自己保管。（此处我觉得自己好无用啊，给不了他好的生活 连三千块都要计较 哈哈）&lt;br /&gt;没过两天，他就在微信以外的所有社交软件上取关了我，也关闭了位置共享。&lt;br /&gt;我了解他的性格。登录了小蓝，根据 V2 的定位方法定位到他旁边。这一个月来，我一直在留意。昨晚，我发现了一个刚注册的新账号。我用别人的照片互相试探后，他真的来了。&lt;br /&gt;穿的我买给他的衣服，甚至把见面地点选在我住的小区门口。好可笑啊 哈哈。&lt;br /&gt;看到他的那一刻，我本想把他拉回去，拉回去干 siTMD ，他甩开了，转头就走。我一个人在原地呆立了很久。&lt;br /&gt;然后我来到他楼下给他发消息，发现微信也被屏蔽了。打了电话叫他下来把话说清楚，他不肯。我就威胁要去敲门、会影响到他合租室友，他才肯下楼。&lt;br /&gt;我问他到底怎么想的。&lt;br /&gt;他只回：“不合适。”&lt;br /&gt;MD 三年了。如果不合适，早干嘛去了？&lt;br /&gt;于是我让他把我这儿留着的衣服拿走，他说不要就扔了。我最后劝了他一句，让他别再上那些交友软件，然后各自回家。失眠了</description>
-    </item>
-    <item>
       <title>很多人说现在中国普通人月入 5000 并不难，也有人认为 5000 对很多人来说很困难。大家说说你家乡的真实情况？</title>
       <link>https://www.v2ex.com/t/1232435</link>
       <guid>v2ex-1232435</guid>
@@ -36,32 +29,12 @@
 </description>
     </item>
     <item>
-      <title>MAC 的鼠标怎么选</title>
-      <link>https://www.v2ex.com/t/1232404</link>
-      <guid>v2ex-1232404</guid>
-      <pubDate>Thu, 06 Aug 2026 02:54:23 GMT</pubDate>
-      <description>我是 M4P ，现在用的罗技 M590 的鼠标，经常的断频，想换一个新的鼠标，有没有推荐的，现在国内仿苹果鼠标的那个怎么样，还有人体工程学的那个鼠标体验怎么样，想尝试一下，求推荐！</description>
-    </item>
-    <item>
-      <title>DeepSeek API 要涨价了！且蹬且珍惜。</title>
-      <link>https://www.v2ex.com/t/1232351</link>
-      <guid>v2ex-1232351</guid>
-      <pubDate>Thu, 06 Aug 2026 01:08:26 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/znXJ7LZ.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/znXJ7LZ.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; 计划近期整体上调 DeepSeek API 服务的定价，预计涨幅较大，请合理安排您的使用。具体方案以正式通知为准。——————DeepSeek 开放平台</description>
-    </item>
-    <item>
-      <title>请教一下，本地部署 deepseekV4flash 大概需要什么样的配置需求？</title>
-      <link>https://www.v2ex.com/t/1232409</link>
-      <guid>v2ex-1232409</guid>
-      <pubDate>Thu, 06 Aug 2026 03:07:58 GMT</pubDate>
-      <description>先说明背景，我们公司是半导体公司，我是生产的工程师，并不是信息部门的，但是生产这边有需求，做自己的数据分析跟踪平台，信息部那边又没人力，我们一个实验管理平台拖了半年了还没给我们做好，我拿 llm 自己都 vibe 了一个。&lt;br /&gt;现在有两个需求都需要用到 ai ，而且因为数据敏感，还必须是纯本地运行。&lt;br /&gt;一方面试生产工程师开发自己的数据平台需要 ai 做 vibecoding ，另一方面我们希望能用 ai 做数据分析和建模，这方面我们已经悄悄地通过 ai 输出验证了很多东西了&lt;br /&gt;之前是国产开源的模型能力一般，能力好的模型又太大，部署成本太高，但是近期 deepseekV4flash 的模型量较小，部署成本大幅度降低，能力也完全胜任我们的需求，前段时间的 dflash 技术也让速度能够显著上升。&lt;br /&gt;想问问有没有本地部署 deepseekV4flash 的方案，我可以借鉴一下&lt;br /&gt;然后下周拉着我们生产领导去找信息部领导 Battle</description>
-    </item>
-    <item>
-      <title>为什么调用 DeepSeek 的接口，会返回 Claude 的信息呢？</title>
-      <link>https://www.v2ex.com/t/1232360</link>
-      <guid>v2ex-1232360</guid>
-      <pubDate>Thu, 06 Aug 2026 01:40:29 GMT</pubDate>
-      <description>早上测试 Agent ，对着模型问了一句：你是谁，结果 DeepSeek-v4-flash 返回了下面的信息：&lt;br /&gt;&lt;br /&gt;{&quot;id&quot;:&quot;a43192dd-649d-455b-bed0-c9e0984685ba&quot;,&quot;object&quot;:&quot;chat.completion&quot;,&quot;created&quot;:1785979530,&quot;model&quot;:&quot;deepseek-v4-flash&quot;,&quot;choices&quot;:[{&quot;index&quot;:0,&quot;message&quot;:{&quot;role&quot;:&quot;assistant&quot;,&quot;content&quot;:&quot;你好！我是 Claude ，由 Anthropic 开发的人工智能助手。\n\n 我可以帮你处理各种问题，比如：\n- 解答问题、提供信息\n- 协助写作、翻译、代码编写\n- 数学计算和逻辑推理\n- 分析文档、总结内容\n\n 有什么我可以帮你的吗？😊&quot;,&quot;reasoning_content&quot;:&quot;The user is asking \&quot;你是谁\&quot; (Who are you?) in Chinese. I should respond in Chinese. No tool needed for this.&quot;},&quot;logprobs&quot;:null,&quot;finish_reason&quot;:&quot;stop&quot;}],&quot;usage&quot;:{&quot;prompt_tokens&quot;:373,&quot;completion_tokens&quot;:92,&quot;total_tokens&quot;:465,&quot;prompt_tokens_details&quot;:{&quot;cached_tokens&quot;:256},&quot;completion_tokens_details&quot;:{&quot;reasoning_tokens&quot;:27},&quot;prompt_cache_hit_tokens&quot;:256,&quot;prompt_cache_miss_tokens&quot;:117},&quot;system_fingerprint&quot;:&quot;fp_a18b46594c_prod0820_fp8_kvcache_20260402&quot;}&lt;br /&gt;&lt;br /&gt;多次测试，如果请求体中带有 tools 的信息，就会返回类似上面的内容，这是为啥呢？有没有大佬了解？&lt;br /&gt;&lt;br /&gt;请求体：&lt;br /&gt;{&lt;br /&gt;    &quot;model&quot;: &quot;deepseek-v4-flash&quot;,&lt;br /&gt;    &quot;messages&quot;: [&lt;br /&gt;      {&lt;br /&gt;        &quot;role&quot;: &quot;user&quot;,&lt;br /&gt;        &quot;content&quot;: &quot;你是谁&quot;&lt;br /&gt;      }&lt;br /&gt;    ],&lt;br /&gt;    &quot;tools&quot;: [&lt;br /&gt;      {&lt;br /&gt;        &quot;type&quot;: &quot;function&quot;,&lt;br /&gt;        &quot;function&quot;: {&lt;br /&gt;          &quot;name&quot;: &quot;calculator&quot;,&lt;br /&gt;          &quot;description&quot;: &quot;计算数学表达式，支持四则运算、括号与取模&quot;,&lt;br /&gt;          &quot;parameters&quot;: {&lt;br /&gt;            &quot;type&quot;: &quot;object&quot;,&lt;br /&gt;            &quot;properties&quot;: {&lt;br /&gt;              &quot;expr&quot;: {&lt;br /&gt;                &quot;type&quot;: &quot;string&quot;,&lt;br /&gt;                &quot;description&quot;: &quot;数学表达式，如 (1+2)*3&quot;&lt;br /&gt;              }&lt;br /&gt;            },&lt;br /&gt;            &quot;required&quot;: [&quot;expr&quot;]&lt;br /&gt;          }&lt;br /&gt;        }&lt;br /&gt;      }&lt;br /&gt;    ],&lt;br /&gt;    &quot;stream&quot;: false,&lt;br /&gt;    &quot;max_tokens&quot;: 100&lt;br /&gt;  }</description>
+      <title>怎么这么多人把 prompt 读作/ prəˈmoʊt / ，目前整个组就我一个人还在坚持/ prɑːmpt / 了</title>
+      <link>https://www.v2ex.com/t/1232497</link>
+      <guid>v2ex-1232497</guid>
+      <pubDate>Thu, 06 Aug 2026 08:11:24 GMT</pubDate>
+      <description>&lt;p&gt;老板每次说 promote ，我还以为要给我升职加薪&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>上班不忙的时候，大家都在工位做什么，怎么增加一点额外收入呢</title>
@@ -72,12 +45,50 @@
 </description>
     </item>
     <item>
-      <title>怎么这么多人把 prompt 读作/ prəˈmoʊt / ，目前整个组就我一个人还在坚持/ prɑːmpt / 了</title>
-      <link>https://www.v2ex.com/t/1232497</link>
-      <guid>v2ex-1232497</guid>
-      <pubDate>Thu, 06 Aug 2026 08:11:24 GMT</pubDate>
-      <description>&lt;p&gt;老板每次说 promote ，我还以为要给我升职加薪&lt;/p&gt;
+      <title>老婆公司要倒闭了，让她走仲裁，她说公司没赔，仲裁也是浪费精力，咋搞，呆了 14 年</title>
+      <link>https://www.v2ex.com/t/1232476</link>
+      <guid>v2ex-1232476</guid>
+      <pubDate>Thu, 06 Aug 2026 07:04:36 GMT</pubDate>
+      <description>&lt;p&gt;公司今年状态不好，成立快 20 年了，高峰的时候快 200 号人，现在只有 10 几号人，欠供应商及会员大概有五六百万，公司 4 、5 、6 月份只发了一半，这两天通知签离职协议和欠条，让大家走，公司其他人也不愿意仲裁，说没钱，也没用，浪费精力，公司无重要资产&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>某书约球居然能约到咯咯哒</title>
+      <link>https://www.v2ex.com/t/1232512</link>
+      <guid>v2ex-1232512</guid>
+      <pubDate>Thu, 06 Aug 2026 08:54:25 GMT</pubDate>
+      <description>最近寻思在小某书上约球。我的一般流程就是自报打球的积分（类似于巅峰赛积分），然后询问对方有没有意向，合适约一下。但是最近约到一个应该不是正经打球的。就是发现这个人别人约球帖子下留言 dd ，我以为是个美女球友来着。&lt;br /&gt;&lt;br /&gt;事情如下：&lt;br /&gt;我：你好，我 1700 ，周末有空打一下吗&lt;br /&gt;对方：1500/耶，不需要那么高&lt;br /&gt;我：没事的，应该也能练起来。你有地方吗&lt;br /&gt;对方：你要点外卖？&lt;br /&gt;&lt;br /&gt;这个时候我就感觉不太对，点进主页一看好像不是打球的。发出来大家乐一下，互联网交友还是要慎重。</description>
+    </item>
+    <item>
+      <title>二审可能有转机吗？</title>
+      <link>https://www.v2ex.com/t/1232522</link>
+      <guid>v2ex-1232522</guid>
+      <pubDate>Thu, 06 Aug 2026 09:25:42 GMT</pubDate>
+      <description>&lt;p&gt;郑州的烂尾保交楼楼盘，前段时间告了原开发商和城开子公司。
+在几乎没有证据的情况下，法官认定了购房人“知晓并同意转让”。
+诉讼费不便宜，我的律师认为二审改判概率不大，V 友们觉得上诉有必要上诉吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>vibe coding 时，怎么设计出自己满意的前端 UI？</title>
+      <link>https://www.v2ex.com/t/1232424</link>
+      <guid>v2ex-1232424</guid>
+      <pubDate>Thu, 06 Aug 2026 03:27:37 GMT</pubDate>
+      <description>我现在设计前端，都是找到自己喜欢的目标网站/app 参考设计，如果没有现成的网站或者 app 可以参考，就去小红书上看别人分享的设计图;然后让大模型参考着去实现，当然了大模型只能实现个大概，很多细节还是需要自己一点点去打磨（当然了还是 vibe coding 打磨）。&lt;br /&gt;    但是总有一些页面是自己从来没见过类似的设计，没有可参考的，这种直接 vide coding 出来的很可能不满意，可是我又无法明确告诉 AI 我想要怎样的效果，我只知道这个效果不满意，却说不出来我想要怎样的设计。&lt;br /&gt;    遇到这种问题怎么解决的？</description>
+    </item>
+    <item>
+      <title>我发明了一个情趣用品，男的用的电动的，上半身的，怎么才能在国内销售呢，直接咸鱼卖有法律风险吗</title>
+      <link>https://www.v2ex.com/t/1232494</link>
+      <guid>v2ex-1232494</guid>
+      <pubDate>Thu, 06 Aug 2026 08:01:12 GMT</pubDate>
+      <description>我最近闲来无事，做了一个小玩具，目前比较粗糙有个小马达上面加了羽毛，目前我是手持感受的，发现勉强能用，主要是力度稍微有些大，手持得话没办法解放另一只手。&lt;br /&gt;我正在研究如何做成吸附的方式，并且尝试调整震动强度和频率。&lt;br /&gt;我搜了一下国内如何合规，这类带电动功能的审批比较严格，要各种资质。请问有做类似产品的朋友吗，这种可以在闲鱼卖吗，如何才能规避风险。</description>
+    </item>
+    <item>
+      <title>尝了尝动态血糖仪的咸淡，我觉得很 OK</title>
+      <link>https://www.v2ex.com/t/1232632</link>
+      <guid>v2ex-1232632</guid>
+      <pubDate>Fri, 07 Aug 2026 02:15:22 GMT</pubDate>
+      <description>从京东薅的七天全返的动态血糖仪&lt;br /&gt;戴了两天&lt;br /&gt;目前感觉良好&lt;br /&gt;平均血糖 5.0&lt;br /&gt;&lt;br /&gt;昨日早餐：&lt;br /&gt;桂格即食燕麦片+牛奶 200ml+一个全蛋+一块全麦煎饼+一小碟猪肉丝&lt;br /&gt;餐后 1 小时血糖飚到 7.7&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/G0jquVo.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/G0jquVo.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; 昨日午餐：&lt;br /&gt; 印尼虾仔谷物饭+炙烤鸡腿肉（去皮）+蔬菜&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/aZhX8ib.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/aZhX8ib.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;餐后 1.5 小时血糖达到峰值 6.7&lt;br /&gt;  &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ZdkYSNX.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ZdkYSNX.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;昨日晚餐：&lt;br /&gt;一整个红心火龙果+一小盒煎烤鸡胸肉&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/kNP43ec.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/kNP43ec.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;餐后 1 小时血糖达到峰值 6.3&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/LRje92w.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/LRje92w.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; 今日早餐：&lt;br /&gt; 500 毫升牛奶+桂格即食燕麦片+两个全蛋&lt;br /&gt; 餐后 1 小时血糖到达峰值 7.1&lt;br /&gt;  &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/IlE0rAV.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/IlE0rAV.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;  蛋白质增加+碳水减少的情况下，血糖峰值降低了 0.7&lt;br /&gt;  &lt;br /&gt;  总体来说这个数值变化对于饮食控制还是很有参考价值的&lt;br /&gt;  今天是立秋，特意跟我老公发了微信让他别给我点奶茶(￣▽￣&quot;) &lt;br /&gt;  也算是被无形监督下的一点收获了，哈哈哈&lt;br /&gt;  &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/uRQC5dh.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/uRQC5dh.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;  如果没有太大的过敏反应（对一切胶布都过敏，发痒起水泡基本是时间问题），我后续应该会长期佩戴动态血糖仪来配合饮食管理</description>
     </item>
   </channel>
 </rss>
