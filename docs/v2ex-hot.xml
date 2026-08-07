@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 07 Aug 2026 12:04:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:45:02 GMT</lastBuildDate>
     <item>
       <title>尝了尝动态血糖仪的咸淡，我觉得很 OK</title>
       <link>https://www.v2ex.com/t/1232632</link>
@@ -67,6 +67,13 @@
       <description>目前在用 iPhone17 AppleWatch 两台 Mac 两台 HomePod 一个 AirPodsPro3 ，想问问大家有没有用小米手机或者安卓手机来替代 iPhone 的</description>
     </item>
     <item>
+      <title>[分享创造] 16 年业余时间写 PDF 核心，近两年做了一款 Mac PDF 编辑器：全功能编辑 + AI 智能体， 1.0 已上 Mac App Store，送 20 个终生会员求反馈</title>
+      <link>https://www.v2ex.com/t/1232634</link>
+      <guid>v2ex-1232634</guid>
+      <pubDate>Fri, 07 Aug 2026 02:18:28 GMT</pubDate>
+      <description>## 这是什么&lt;br /&gt;&lt;br /&gt;AetherPDF ，Mac 上的 PDF 编辑器：&lt;br /&gt;&lt;br /&gt;1. **自研 PDF 引擎**——不依赖 PDFium 或任何第三方库，从零写了 16 年，约 15 万行 C++。能做内容流级文本编辑（直接改 PDF 内容流里的文字对象，不是注释层覆盖），编辑后的文件在任何 PDF 阅读器里显示一致。&lt;br /&gt;2. **AI Agent 直接调用引擎每一项原子能力**——不是套壳 ChatGPT 跟你聊文档，是 AI 直接动手改 PDF 。比如「把这份合同里所有『甲方』替换成公司名」「把所有章节标题改成 18pt 深蓝色 Helvetica 」「给每页加页码」，AI 直接执行，所有操作走 Undo/Redo 栈，不满意 Cmd+Z 撤回。&lt;br /&gt;&lt;br /&gt;3. **全功能编辑器** 文字编辑、图像编辑、图形编辑、链接、书签、页面管理（新建页，删除也，导出页，导入页，页面交欢位置，复制页）、水印、页眉页脚、注释（ 19 种注释工具）、页面剪裁。目前表单功能正在开发中&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;## 我是谁&lt;br /&gt;&lt;br /&gt;一个人，16 年业余时间写 PDF 核心，近 2 年做成 Mac 编辑器全栈。1.0 已于 2026-07-15 上 Mac App Store&lt;br /&gt;&lt;br /&gt;## 免费版能做什么&lt;br /&gt;&lt;br /&gt;免费版全功能可用，保存带水印。日常使用够了——编辑文字、合并分割、注释、AI Agent 全部能用。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;免费下载： &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/cn/app/aetherpdf/id6785851686&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/cn/app/aetherpdf/id6785851686&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;## 我想要什么&lt;br /&gt;&lt;br /&gt;送 **20 个终生会员（买断，价值 ¥798/个）**，换 20 位认真测试者的真实反馈。&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;&lt;br /&gt;1. Mac 用户&lt;br /&gt;2. 装上之后至少用一次——编辑文字、加水印、让 AI 改个东西，都行&lt;br /&gt;3. 在本帖回复你的真实使用反馈——好用 / 不好用 / 卡在哪 / 期望什么功能&lt;br /&gt;4. 反馈别太水（「看起来不错」不算），具体说一两句体验&lt;br /&gt;&lt;br /&gt;## 怎么领&lt;br /&gt;&lt;br /&gt;- 在本帖回复 `申请测试 + 你打算试什么场景`&lt;br /&gt;- 我从回复里挑 20 个看起来会真用的，私信发兑换码&lt;br /&gt;- **7 天内有效**（ Apple 兑换码本身 28 天过期，但 7 天内发完避免夜长梦多）&lt;br /&gt;- 领到之后装上用一次，**回本帖再补一条真实反馈**&lt;br /&gt;&lt;br /&gt;## 我会回什么&lt;br /&gt;&lt;br /&gt;每条反馈我都会回。具体问题（ bug 、卡顿、功能不顺）我会记下来，排进路线图，1.1 / 1.3 版本里改。承诺不删差评。&lt;br /&gt;&lt;br /&gt;## ---&lt;br /&gt;&lt;br /&gt;利益相关：AetherPDF 独立开发者，本帖是送福利求反馈，不是商业推广。没拿到的朋友用免费版也能完整体验，所有功能都开放，只是保存带水印。</description>
+    </item>
+    <item>
       <title>如果女朋友转发这个，你们会给吗</title>
       <link>https://www.v2ex.com/t/1232701</link>
       <guid>v2ex-1232701</guid>
@@ -76,28 +83,26 @@
 </description>
     </item>
     <item>
-      <title>[分享创造] 16 年业余时间写 PDF 核心，近两年做了一款 Mac PDF 编辑器：全功能编辑 + AI 智能体， 1.0 已上 Mac App Store，送 20 个终生会员求反馈</title>
-      <link>https://www.v2ex.com/t/1232634</link>
-      <guid>v2ex-1232634</guid>
-      <pubDate>Fri, 07 Aug 2026 02:18:28 GMT</pubDate>
-      <description>## 这是什么&lt;br /&gt;&lt;br /&gt;AetherPDF ，Mac 上的 PDF 编辑器：&lt;br /&gt;&lt;br /&gt;1. **自研 PDF 引擎**——不依赖 PDFium 或任何第三方库，从零写了 16 年，约 15 万行 C++。能做内容流级文本编辑（直接改 PDF 内容流里的文字对象，不是注释层覆盖），编辑后的文件在任何 PDF 阅读器里显示一致。&lt;br /&gt;2. **AI Agent 直接调用引擎每一项原子能力**——不是套壳 ChatGPT 跟你聊文档，是 AI 直接动手改 PDF 。比如「把这份合同里所有『甲方』替换成公司名」「把所有章节标题改成 18pt 深蓝色 Helvetica 」「给每页加页码」，AI 直接执行，所有操作走 Undo/Redo 栈，不满意 Cmd+Z 撤回。&lt;br /&gt;&lt;br /&gt;3. **全功能编辑器** 文字编辑、图像编辑、图形编辑、链接、书签、页面管理（新建页，删除也，导出页，导入页，页面交欢位置，复制页）、水印、页眉页脚、注释（ 19 种注释工具）、页面剪裁。目前表单功能正在开发中&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;## 我是谁&lt;br /&gt;&lt;br /&gt;一个人，16 年业余时间写 PDF 核心，近 2 年做成 Mac 编辑器全栈。1.0 已于 2026-07-15 上 Mac App Store&lt;br /&gt;&lt;br /&gt;## 免费版能做什么&lt;br /&gt;&lt;br /&gt;免费版全功能可用，保存带水印。日常使用够了——编辑文字、合并分割、注释、AI Agent 全部能用。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;免费下载： &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/cn/app/aetherpdf/id6785851686&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/cn/app/aetherpdf/id6785851686&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;## 我想要什么&lt;br /&gt;&lt;br /&gt;送 **20 个终生会员（买断，价值 ¥798/个）**，换 20 位认真测试者的真实反馈。&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;&lt;br /&gt;1. Mac 用户&lt;br /&gt;2. 装上之后至少用一次——编辑文字、加水印、让 AI 改个东西，都行&lt;br /&gt;3. 在本帖回复你的真实使用反馈——好用 / 不好用 / 卡在哪 / 期望什么功能&lt;br /&gt;4. 反馈别太水（「看起来不错」不算），具体说一两句体验&lt;br /&gt;&lt;br /&gt;## 怎么领&lt;br /&gt;&lt;br /&gt;- 在本帖回复 `申请测试 + 你打算试什么场景`&lt;br /&gt;- 我从回复里挑 20 个看起来会真用的，私信发兑换码&lt;br /&gt;- **7 天内有效**（ Apple 兑换码本身 28 天过期，但 7 天内发完避免夜长梦多）&lt;br /&gt;- 领到之后装上用一次，**回本帖再补一条真实反馈**&lt;br /&gt;&lt;br /&gt;## 我会回什么&lt;br /&gt;&lt;br /&gt;每条反馈我都会回。具体问题（ bug 、卡顿、功能不顺）我会记下来，排进路线图，1.1 / 1.3 版本里改。承诺不删差评。&lt;br /&gt;&lt;br /&gt;## ---&lt;br /&gt;&lt;br /&gt;利益相关：AetherPDF 独立开发者，本帖是送福利求反馈，不是商业推广。没拿到的朋友用免费版也能完整体验，所有功能都开放，只是保存带水印。</description>
-    </item>
-    <item>
-      <title>妙控板还是妙控鼠标？</title>
-      <link>https://www.v2ex.com/t/1232627</link>
-      <guid>v2ex-1232627</guid>
-      <pubDate>Fri, 07 Aug 2026 02:12:00 GMT</pubDate>
-      <description>&lt;p&gt;最近想买一个妙控板替代鼠标，笔记本触摸板用习惯了感觉手势比较爽。&lt;br/&gt;
-刚好看到 &lt;a href=&quot;https://www.v2ex.com/t/1232404&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1232404&lt;/a&gt;  这个帖子有人在推荐 Magic Mouse ；&lt;br/&gt;
-我没有精细操作的需求，就写写代码，处理下文档，摸摸鱼用。
-鼠标比妙控板便宜三百块。
-有几个问题想问问大家： &lt;/p&gt;
+      <title>沉浸式翻译开源轻量替代 Duo Translator v2.1.0 发布</title>
+      <link>https://www.v2ex.com/t/1232738</link>
+      <guid>v2ex-1232738</guid>
+      <pubDate>Fri, 07 Aug 2026 07:29:24 GMT</pubDate>
+      <description>&lt;p&gt;特点：完全免费、开箱即用、没有登录注册、没有营销弹窗。&lt;/p&gt;
+&lt;p&gt;截图
+&lt;img alt=&quot;settings&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.zeroflx.com/duo-settings.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;本次更新主要功能&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;想问一下选哪个比较适合啊，鼠标的手势和触摸板大致相通吗？ &lt;/li&gt;
-&lt;li&gt;是在官网买还是淘宝买？淘宝能便宜个一百多，有区别吗，会买到华强北吗。  &lt;/li&gt;
-&lt;li&gt;妙控板的黑色为什么比白色贵了 150 元，手感有不同吗？  &lt;/li&gt;
-&lt;li&gt;苹果的这个鼠标不需要鼠标垫吗？&lt;/li&gt;
+&lt;li&gt;微软翻译接口失效修复&lt;/li&gt;
+&lt;li&gt;YouTube 双语字幕
+&lt;img alt=&quot;youtube&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.zeroflx.com/youtube-subtitles.png&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;引入更加可定制化的网站翻译规则系统 (控制翻译和不翻译区域, 提升阅读体验)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;常用翻译场景均已覆盖，&lt;a href=&quot;https://chromewebstore.google.com/detail/duo-translator-ai-transla/pjniaipnjcdiiglednmhgmjmpmllelke&quot; rel=&quot;nofollow&quot;&gt;chrome 插件地址直达&lt;/a&gt;，更多功能介绍请访问&lt;a href=&quot;https://github.com/linuxscreen/duo-translator&quot; rel=&quot;nofollow&quot;&gt;github&lt;/a&gt;和&lt;a href=&quot;https://duotranslator.com/zh&quot; rel=&quot;nofollow&quot;&gt;官网&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;三大浏览器商店均已上架，欢迎大家尝试和提意见。&lt;/p&gt;
+&lt;p&gt;碎碎念:&lt;/p&gt;
+&lt;p&gt;1 、最近（ 8 月 4 日）微软翻译接口调整，导致大部分插件微软翻译都失效了，感觉应该当天就先发布一个最小修复版本（那天卸载量 40 ，当天发布应该数据就打正了😢）。主要由于新增的功能还有很多问题需要解决，就拖到昨天才提交商店审核，今天通过。&lt;/p&gt;
+&lt;p&gt;2 、目前 chrome 商店已突破 400 用户。edge 还是 300 多一直没怎么变，也没有评论和反馈。推广和增长是真的难啊。&lt;/p&gt;
+&lt;p&gt;3 、本次更新商店审核速度：Firefox 立即通过(应该都是直接通过, 后续可能审核)、Edge 当天通过（这次很快）、Chrome 第二天通过。&lt;/p&gt;
 </description>
     </item>
   </channel>
