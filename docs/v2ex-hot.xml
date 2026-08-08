@@ -4,36 +4,23 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 08 Aug 2026 07:26:08 GMT</lastBuildDate>
-    <item>
-      <title>沉浸式翻译开源轻量替代 Duo Translator v2.1.0 发布</title>
-      <link>https://www.v2ex.com/t/1232738</link>
-      <guid>v2ex-1232738</guid>
-      <pubDate>Fri, 07 Aug 2026 07:29:24 GMT</pubDate>
-      <description>&lt;p&gt;特点：完全免费、开箱即用、没有登录注册、没有营销弹窗。&lt;/p&gt;
-&lt;p&gt;截图
-&lt;img alt=&quot;settings&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.zeroflx.com/duo-settings.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;本次更新主要功能&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;微软翻译接口失效修复&lt;/li&gt;
-&lt;li&gt;YouTube 双语字幕
-&lt;img alt=&quot;youtube&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.zeroflx.com/youtube-subtitles.png&quot;/&gt;&lt;/li&gt;
-&lt;li&gt;引入更加可定制化的网站翻译规则系统 (控制翻译和不翻译区域, 提升阅读体验)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;常用翻译场景均已覆盖，&lt;a href=&quot;https://chromewebstore.google.com/detail/duo-translator-ai-transla/pjniaipnjcdiiglednmhgmjmpmllelke&quot; rel=&quot;nofollow&quot;&gt;chrome 插件地址直达&lt;/a&gt;，更多功能介绍请访问&lt;a href=&quot;https://github.com/linuxscreen/duo-translator&quot; rel=&quot;nofollow&quot;&gt;github&lt;/a&gt;和&lt;a href=&quot;https://duotranslator.com/zh&quot; rel=&quot;nofollow&quot;&gt;官网&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;三大浏览器商店均已上架，欢迎大家尝试和提意见。&lt;/p&gt;
-&lt;p&gt;碎碎念:&lt;/p&gt;
-&lt;p&gt;1 、最近（ 8 月 4 日）微软翻译接口调整，导致大部分插件微软翻译都失效了，感觉应该当天就先发布一个最小修复版本（那天卸载量 40 ，当天发布应该数据就打正了😢）。主要由于新增的功能还有很多问题需要解决，就拖到昨天才提交商店审核，今天通过。&lt;/p&gt;
-&lt;p&gt;2 、目前 chrome 商店已突破 400 用户。edge 还是 300 多一直没怎么变，也没有评论和反馈。推广和增长是真的难啊。&lt;/p&gt;
-&lt;p&gt;3 、本次更新商店审核速度：Firefox 立即通过(应该都是直接通过, 后续可能审核)、Edge 当天通过（这次很快）、Chrome 第二天通过。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 08:04:35 GMT</lastBuildDate>
     <item>
       <title>终于看到 V2 有人发 mac 不好用了....我一直以为只有我觉得难用</title>
       <link>https://www.v2ex.com/t/1232881</link>
       <guid>v2ex-1232881</guid>
       <pubDate>Sat, 08 Aug 2026 04:23:12 GMT</pubDate>
       <description>看了一下整个评论区，给我的感觉好像就是要用 Mac ，你得去看官网的教程，你得去了解各种插件，各种快捷方式，然后你还得熟悉使用触摸板。但是想想最早小时候接触 win ，好像没有那么多东西要学习的...像是自来熟一样，根本就不需要学习，拿起鼠标键盘就能用了，不知道各位有没有类似的感触？&lt;br /&gt;&lt;br /&gt;然后就是，国区账号非常不友好，想下一个东西，就是搜不到，之前为了连远程桌面下 Windows APP 就得切外区账户，除此之外别无其他安装方式，好多东西没有提供 dmg 安装包....像微软这边，就只需要把区域切成美国就好了</description>
+    </item>
+    <item>
+      <title>codex 似乎要重置啦</title>
+      <link>https://www.v2ex.com/t/1232843</link>
+      <guid>v2ex-1232843</guid>
+      <pubDate>Sat, 08 Aug 2026 00:11:15 GMT</pubDate>
+      <description>&lt;p&gt;快点重置吧 不然下周上班天才程序员要陨落啦&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;https://i.imgur.com/IgUsJ0u.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/IgUsJ0u.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;https://i.imgur.com/3W3V2Lo.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/3W3V2Lo.png&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>月薪 2W+，工作轻松但几乎没有成长，毕业四五年该继续待着吗？</title>
@@ -53,16 +40,6 @@
 &lt;li&gt;有没有经历过类似阶段的朋友？后来是继续留下，还是选择了离开？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;不是凡尔赛，也不是觉得轻松有什么不好，只是想了解一下，长期来看该如何更理性地评估这种状态。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>codex 似乎要重置啦</title>
-      <link>https://www.v2ex.com/t/1232843</link>
-      <guid>v2ex-1232843</guid>
-      <pubDate>Sat, 08 Aug 2026 00:11:15 GMT</pubDate>
-      <description>&lt;p&gt;快点重置吧 不然下周上班天才程序员要陨落啦&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;https://i.imgur.com/IgUsJ0u.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/IgUsJ0u.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;https://i.imgur.com/3W3V2Lo.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/3W3V2Lo.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -158,6 +135,20 @@
       <description>男，中招了，才知道年轻人现在好多得这个的&lt;br /&gt;&lt;br /&gt;特别是女生，建议大家着重检查下&lt;br /&gt;&lt;br /&gt;唉</description>
     </item>
     <item>
+      <title>说说为什么明明只用一把键盘,家里还有七把</title>
+      <link>https://www.v2ex.com/t/1232899</link>
+      <guid>v2ex-1232899</guid>
+      <pubDate>Sat, 08 Aug 2026 06:41:20 GMT</pubDate>
+      <description>&lt;p&gt;说个机械键盘的事,前几天又剁手了。&lt;/p&gt;
+&lt;p&gt;本来说好这个月不买了的,结果晚上刷购物车,看到某轴体出了个新配色,手指头比脑子反应快,点了立即购买,付完款那三秒钟脑子才反应过来,又输了。&lt;/p&gt;
+&lt;p&gt;家里现在攒了七把,常用的就一把,剩下六把摆柜子里,跟供着似的。我媳妇——啊不对不能提家里人,反正身边人问我这堆键盘干嘛用,我也说不上来,只能说&quot;手感不一样&quot;。什么叫不一样,其实我自己也说不清,可能就跟老烟枪分不清这包和那包烟有啥区别,但就是觉得不一样。&lt;/p&gt;
+&lt;p&gt;最离谱的是有一阵子迷上了润轴,买了润滑剂、开轴器,一整套家伙事儿,拆了装装了拆,一把键盘捣鼓两周,代码倒是没写几行。产品经理天天在群里 at 我要进度,我心想再等等,这个轴还没调完呢。&lt;/p&gt;
+&lt;p&gt;后来算了笔账,这几把键盘加起来的钱,够换个不错的显示器了,当场就跟自己说不买了。这话说完没俩月,某宝给我推了个联名限定轴体,标题写着&quot;仅剩最后 300 套&quot;,我这人一看&quot;仅剩&quot;两个字就走不动道,又下单了。&lt;/p&gt;
+&lt;p&gt;现在想通了,机械键盘对我们这行人来说,可能压根就不是打字工具,就是个能名正言顺花钱花时间、还不算不务正业的爱好——毕竟挂着&quot;生产力工具&quot;的名头,说出去体面。&lt;/p&gt;
+&lt;p&gt;写到这儿突然想起购物车里还躺着一把没结账的,得,先去把它买了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Opencode Go 套餐的 DeepSeek V4 Flash 涨价了，注意用量</title>
       <link>https://www.v2ex.com/t/1232772</link>
       <guid>v2ex-1232772</guid>
@@ -166,11 +157,22 @@
 </description>
     </item>
     <item>
-      <title>一几年的黄焖鸡彻底消失了吗?有没有教程想自己做,太想念那一口汤拌饭了!</title>
-      <link>https://www.v2ex.com/t/1232805</link>
-      <guid>v2ex-1232805</guid>
-      <pubDate>Fri, 07 Aug 2026 11:16:28 GMT</pubDate>
-      <description>现在的黄焖鸡一言难尽....&lt;br /&gt;哪里还能吃到当年的味道</description>
+      <title>Grok 4.5 做的江湖武侠游戏</title>
+      <link>https://www.v2ex.com/t/1232867</link>
+      <guid>v2ex-1232867</guid>
+      <pubDate>Sat, 08 Aug 2026 02:58:39 GMT</pubDate>
+      <description>&lt;p&gt;前段时间发现 Grok 印度区年费只要 400 多，果断开通了。
+开通后想着拿来玩玩做游戏，结果效果出乎意料的好！
+Grok 生成游戏素材的效率真的太高了，Grok Build 也超级好用。整个游戏绝大部分内容都是用 Grok Build + Grok 4.5 生成的，只有部分素材用了 Image2~&lt;/p&gt;
+&lt;p&gt;体验地址: &lt;a href=&quot;https://wx.shiyu.dev&quot; rel=&quot;nofollow&quot;&gt;https://wx.shiyu.dev&lt;/a&gt;
+欢迎来玩&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;b1sviAIGYsJcbgFKzAe7KrLWCbS4KZJS.webp&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/b1sviAIGYsJcbgFKzAe7KrLWCbS4KZJS.webp&quot;/&gt;
+&lt;img alt=&quot;ePXDChmB8xePxEsMUvP447ZCP6kmlPb8.webp&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/ePXDChmB8xePxEsMUvP447ZCP6kmlPb8.webp&quot;/&gt;
+&lt;img alt=&quot;nlxZi4ouE4CIvO9WxhRXVQS70YA4YDfq.webp&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/nlxZi4ouE4CIvO9WxhRXVQS70YA4YDfq.webp&quot;/&gt;
+&lt;img alt=&quot;pGXkYUmyYbMdJ3slZRElmEp5Fx5zEOKq.webp&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/pGXkYUmyYbMdJ3slZRElmEp5Fx5zEOKq.webp&quot;/&gt;
+&lt;img alt=&quot;baNEWedzTToUiaBFqw7KtcQQJw9vMwNv.webp&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/baNEWedzTToUiaBFqw7KtcQQJw9vMwNv.webp&quot;/&gt;
+&lt;img alt=&quot;yWiX3PTo83wfO0aRZq0Zt53c9D2a7GTd.webp&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/yWiX3PTo83wfO0aRZq0Zt53c9D2a7GTd.webp&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
