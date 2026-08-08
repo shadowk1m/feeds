@@ -4,39 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 08 Aug 2026 05:13:00 GMT</lastBuildDate>
-    <item>
-      <title>从 windows 切换到 MacOS，感觉 MacOS 不好用。</title>
-      <link>https://www.v2ex.com/t/1232697</link>
-      <guid>v2ex-1232697</guid>
-      <pubDate>Fri, 07 Aug 2026 05:46:50 GMT</pubDate>
-      <description>&lt;p&gt;码农，一直用 Windows(基本所有操作都是快捷键，比较少用鼠标，完全不影响工作)，本月切换到 Mac OS （ Macmini M4 Pro ）之后，感觉非常不好用，甚至反人类。&lt;/p&gt;
-&lt;p&gt;我知道很多的程序员、大牛都是用 Mac OS ，现在甚至怀疑是我自己的问题。 想听听大家的看法。&lt;/p&gt;
-&lt;p&gt;文件夹中有 14 张图片（参见图片），编号从 1 到 14 。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;鼠标双击打开一张之后，方向键(或者 PageUp\PageDown 键无法切换上一张下一张)；&lt;/li&gt;
-&lt;li&gt;鼠标点中，按回车键，不是打开，是更名。电脑存在这么多年，回车不一直是确认吗；&lt;/li&gt;
-&lt;li&gt;鼠标选中，空格打开，按方向键可以切换展示，但只能切换到这一行的最后一张，如果想看第二行的第一张，需要用左方向键切换到第一行的第一张，然后按下方向键切换到第二行第一张。我觉得这点是最反人类的设计。我的一个文件夹中有一堆图片，难道它们不是一个整体吗？为什么用方向键右键切到第一行最后一张时，再次按方向键右键无法切换到第二行第一张，我觉得做出这种设计来的人，简直是一个笑话；&lt;/li&gt;
-&lt;li&gt;鼠标选中，空格打开，tab 切换。可以看玩目录中的所有图片。然后，最大的笑话来了。1 看完之后是 10 、11 、12 、13 、14 、2 、3 、4 、....、8 、9 、1 居然是这样的顺序。  我记得上古时代的 windows 也存在这个问题。导致很多情况下，大家都编号为 001 、002 、003 这样，能得到预期的顺序。但 windows 10 已经用了不知道多少年。已经完全没有这个问题了。同目录下的数字序号的文件，注定是 1 到 9 ，之后是 10 到 19 。 现在用了 macOS ，居然还是 1 、10 、11 、12 、13 、14 、2 、3 这样排序。无奈、困扰之极。&lt;/li&gt;
-&lt;li&gt;屏幕下方 dock,第二个图标 APP ，点开之后，光标停在搜索输入几个字母，找到程序，执行。dock 消失。没问题。再次打开 dock 的时候，依然是第一次的结果，有我输入的内容，有上次筛选出来的程序，需要我删除掉上次的输入再次搜索。这个也很反人类，还念 windows 的点一下 win 键，之后直接输入，找到运行。下次点 win 键，完全重新的继续找。&lt;/li&gt;
-&lt;li&gt;拖拽‘访达’窗口，居然能在下边出现滚动条，把本来显示在窗口中的文件，硬生生的‘隐藏’起来；&lt;/li&gt;
-&lt;li&gt;硬生生的找不到‘剪切’在那里（也是想试试自己不上网搜能不能找到在 MacOS 中‘剪切’的功能）；&lt;/li&gt;
-&lt;li&gt;‘复制’和‘拷贝’。。。。&lt;/li&gt;
-&lt;li&gt;zip 文件没有类似于‘解压缩’的选项，只有打开。打开之后，两个图标居然是（允许）重叠的。可正常情况下那一个图标拖到另一个文件夹，不应该是移动到这个文件夹吗?&lt;/li&gt;
-&lt;li&gt;‘制作替身’，还没用过，看名字也没理解是什么意思；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;ScreenShot_2026-08-07_131548_665.png · 129&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.cdn1.vip/i/6a756a89034e4_1786079881.webp&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>如果女朋友转发这个，你们会给吗</title>
-      <link>https://www.v2ex.com/t/1232701</link>
-      <guid>v2ex-1232701</guid>
-      <pubDate>Fri, 07 Aug 2026 05:58:28 GMT</pubDate>
-      <description>&lt;p&gt;抖音评论区挺多晒收钱的，还有这个秋天第一杯奶茶也是，也不知道什么时候营销出来的&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/G3o7gZT&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/G3o7gZT&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 06:02:55 GMT</lastBuildDate>
     <item>
       <title>沉浸式翻译开源轻量替代 Duo Translator v2.1.0 发布</title>
       <link>https://www.v2ex.com/t/1232738</link>
@@ -83,6 +51,13 @@
       <description>如果你最初提涨新，公司因为种种原因不给涨。&lt;br /&gt;你寒心了，开始投简历约面试，公司看你真的要走，开始找你谈话。&lt;br /&gt;说一定涨，而且是你先前要求涨幅的双倍。&lt;br /&gt;哪怕最后实在没办法，给其他同事降薪也要给你涨。&lt;br /&gt;你还想留在这公司吗？</description>
     </item>
     <item>
+      <title>终于看到 V2 有人发 mac 不好用了....我一直以为只有我觉得难用</title>
+      <link>https://www.v2ex.com/t/1232881</link>
+      <guid>v2ex-1232881</guid>
+      <pubDate>Sat, 08 Aug 2026 04:23:12 GMT</pubDate>
+      <description>看了一下整个评论区，给我的感觉好像就是要用 Mac ，你得去看官网的教程，你得去了解各种插件，各种快捷方式，然后你还得熟悉使用触摸板。但是想想最早小时候接触 win ，好像没有那么多东西要学习的...像是自来熟一样，根本就不需要学习，拿起鼠标键盘就能用了，不知道各位有没有类似的感触？&lt;br /&gt;&lt;br /&gt;然后就是，国区账号非常不友好，想下一个东西，就是搜不到，之前为了连远程桌面下 Windows APP 就得切外区账户，除此之外别无其他安装方式，好多东西没有提供 dmg 安装包....像微软这边，就只需要把区域切成美国就好了</description>
+    </item>
+    <item>
       <title>AI Coding 还看源代码吗？要是不看，会害怕血崩吗？</title>
       <link>https://www.v2ex.com/t/1232732</link>
       <guid>v2ex-1232732</guid>
@@ -112,61 +87,6 @@
 </description>
     </item>
     <item>
-      <title>抽奖：量产 AI 硬件的通讯协议和小程序源码全开源了，配合 AI 编程可以直接改成自己的产品</title>
-      <link>https://www.v2ex.com/t/1232693</link>
-      <guid>v2ex-1232693</guid>
-      <pubDate>Fri, 07 Aug 2026 05:18:02 GMT</pubDate>
-      <description>&lt;hr/&gt;
-&lt;p&gt;先亮明身份：我是做硬件的（四博智联 DOIT ），这帖是广告&lt;/p&gt;
-&lt;p&gt;购买地址淘宝： &lt;a href=&quot;https://item.taobao.com/item.htm?id=1068722425053&quot; rel=&quot;nofollow&quot;&gt;https://item.taobao.com/item.htm?id=1068722425053&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;但下面链的东西是真开源，MIT 协议，不用注册不用留资，clone 下来就能编译。&lt;/p&gt;
-&lt;p&gt;GitHub: &lt;a href=&quot;https://github.com/doit-open-org&quot; rel=&quot;nofollow&quot;&gt;https://github.com/doit-open-org&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;一、开源了什么&lt;/h2&gt;
-&lt;p&gt;不是开源某个玩具项目，是把已经量产、淘宝上能直接买到的几款设备，它们的通讯协议文档和微信小程序源码完整放了出来。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;esp32s3_chat_badge&lt;/strong&gt; —— 电子吧唧 Wi-Fi 款（ MZ46-S3-DZ V1.0 ）&lt;/p&gt;
-&lt;p&gt;完整的 ESP-IDF 固件源码，基于 xiaozhi-esp32 定制。ESP32-S3 主控，16MB Flash 配 Octal PSRAM ，360×360 圆形 QSPI 屏（ JD9855 ）加 CST816D 电容触摸，VB6824 负责音频和硬件唤醒词。仓库里带原理图 PDF 、完整引脚表、协议文档，还挂了 CI 编译。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ble_chat_badge&lt;/strong&gt; —— 电子吧唧蓝牙款&lt;/p&gt;
-&lt;p&gt;BLE 协议文档（中英双语）加微信小程序源码。小程序放了 BLE 扫描连接、资源上传、文件选择三个页面，够你看懂怎么跟设备说话。设备侧支持 AI 对话、图片和 GIF 、视频、MP3 、蓝牙音箱、AI 闹钟、应援灯。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;doit_pixel&lt;/strong&gt; —— LED 点阵屏&lt;/p&gt;
-&lt;p&gt;BLE 协议加微信小程序源码，这个是完整的，250 多个文件。调色、特效、音乐律动、DIY 画板、动态 DIY 、文字滚动、倒计时，页面全在里面。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;doit_record&lt;/strong&gt; —— AI 录音笔&lt;/p&gt;
-&lt;p&gt;BLE 协议加小程序源码。实时转写、音频波形、录音文件下载和管理都有。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ai-companion-camera&lt;/strong&gt; —— AI 陪伴相机&lt;/p&gt;
-&lt;p&gt;ESP32-S3 加 GC2145 摄像头加 Cat.1 4G 模组，Wi-Fi 、4G 、BLE 三网。放的是 App 端和 Server 端两份开发文档。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CozyLife-cli&lt;/strong&gt; —— 设备控制命令行工具&lt;/p&gt;
-&lt;p&gt;Go 写的跨平台单文件二进制，自带 MCP server 。&lt;/p&gt;
-&lt;h2&gt;二、为什么要这么干&lt;/h2&gt;
-&lt;p&gt;做 AI 硬件 demo ，卡点从来不在代码，在硬件本身。打样、选模组、调屏幕驱动、跑通音频链路，一个月就过去了，做出来的东西还未必能用。&lt;/p&gt;
-&lt;p&gt;所以我们的想法很直接：硬件我们已经量产了，你买一个现成的，剩下的交给 AI 写。&lt;/p&gt;
-&lt;p&gt;具体就三步。第一步，把仓库里的协议文档丢给 Claude Code 或者 Cursor 、Codex 。第二步，让它照着协议生成你想要的端，微信小程序、iOS App 、Python 脚本、Home Assistant 集成、公司内部的控制面板，随便什么。第三步，拿仓库里的小程序源码当参考实现对照，模型有正确样例可看，不容易瞎编 API 。&lt;/p&gt;
-&lt;p&gt;之所以敢这么讲，是因为这批文档是给机器读的格式，不是营销 PPT 。&lt;/p&gt;
-&lt;p&gt;举两处实际内容。BLE 广播包那部分不是文字描述，是直接给的 C 结构体定义，广播数据段、Service UUID 、协议版本、设备类型、PID 、MAC 逐字段列出来，还附了真实的十六进制广播内容示例，连字节序都标了。DP 点表也是一条条列的，每条给出 DPID 、标识名、数据类型、读写方向、取值含义。比如吧唧的 110 号点是设备返回码，1 到 4 分别对应下载失败、设备忙、未联网、需要通过蓝牙共享网络，一个都没省。&lt;/p&gt;
-&lt;p&gt;这种结构化的东西喂给大模型，出码质量和让它猜是两回事。&lt;/p&gt;
-&lt;h2&gt;三、顺手安利一下那个 CLI&lt;/h2&gt;
-&lt;p&gt;CozyLife-cli 是 Go 编译的单文件二进制，Linux 、macOS 、Windows 的 amd64 、arm64 、arm 、386 全都编好了，下载即用，不用配环境。&lt;/p&gt;
-&lt;p&gt;除了常规的设备列表、读取状态、下发控制、拉历史日志这些命令，它自带一个 MCP server ，一条命令就能起服务，挂到 Claude Desktop 或者 Cursor 上，然后用自然语言控制你账号下的设备，也能把设备的历史数据拉出来让模型分析。还有一个局域网模式，完全不走云。&lt;/p&gt;
-&lt;p&gt;这个玩法在 V2EX 应该还比较少见，感兴趣的可以试试，README 里有中文版说明。&lt;/p&gt;
-&lt;h2&gt;四、广告部分，推广节点我就直说了&lt;/h2&gt;
-&lt;p&gt;新上架一款「配音宝」，说白了就是个文字转语音的外放小音箱。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/h15N5X8k.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/K9krMl28.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/tv7y65tu.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;白色小方块，正面整块喇叭网，顶部四颗实体按键：音量减、音量加、模式、电源。Type-C 充电，比笔记本触控板还小一圈，能揣兜里。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/h3W2dGk7.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/EoU9ZA1H.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/Njl66F61.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;正经用途是导游讲解、收款到账播报、地摊叫卖、展会循环播放。在手机上打字或者选模板，设备直接读出来，支持音色克隆。文字转语音 超长续航 AI 复制红人音质 导游 收款 地摊叫卖神器。&lt;/p&gt;
-&lt;p&gt;价格  [ 50 ] ，电池  [ 2000mah ] ，续航  [ 10 小时] 。&lt;/p&gt;
-&lt;p&gt;淘宝： &lt;a href=&quot;https://item.taobao.com/item.htm?id=1068722425053&quot; rel=&quot;nofollow&quot;&gt;https://item.taobao.com/item.htm?id=1068722425053&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/Oh8zu9a1.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;对 V2EX 的各位来说，重点是另一件事：这台的通讯协议同样对外开放。也就是说你可以完全不用我们的 App ，自己写控制端。能想到的玩法比如排队叫号和取餐播报、监控告警语音播报（ Prometheus 报警直接让它喊）、CI 挂了在工位喊一嗓子、给家里老人做的定时吃药提醒盒子。&lt;/p&gt;
-&lt;p&gt;协议文档我放在  [补仓库地址] ，或者直接在帖子下面留言，我发你。&lt;/p&gt;
-&lt;h2&gt;五、中奖规则：&lt;/h2&gt;
-&lt;p&gt;中奖楼层 =（ 2026/08/17 上证指数收盘价的 6 位整数 × 1005 % 有效楼层数）+ 1&lt;/p&gt;
-&lt;p&gt;淘宝购买地址： &lt;a href=&quot;https://item.taobao.com/item.htm?id=1068722425053&quot; rel=&quot;nofollow&quot;&gt;https://item.taobao.com/item.htm?id=1068722425053&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>准备做一个反假货网站，有得搞吗？</title>
       <link>https://www.v2ex.com/t/1232714</link>
       <guid>v2ex-1232714</guid>
@@ -174,11 +94,109 @@
       <description>最近在闲鱼买到了假药，而且上面同类型的假药有很多，但想到其他人应该不知道或者不会辨别假药。&lt;br /&gt;所以想做一个反假货的网站，曝光卖假货的商家，包括如果辨别这是假货。防止再有人受骗。&lt;br /&gt;&lt;br /&gt;请各位大佬，用你最严厉的语言反驳这个需求，看下这个是不是伪需求。</description>
     </item>
     <item>
-      <title>ChatGPT 这次真要解禁成人内容了？</title>
-      <link>https://www.v2ex.com/t/1232700</link>
-      <guid>v2ex-1232700</guid>
-      <pubDate>Fri, 07 Aug 2026 05:57:08 GMT</pubDate>
-      <description>Hi xxx,&lt;br /&gt;We use age-related information to determine when teen safety protections should apply to ChatGPT accounts, to provide the right experience.&lt;br /&gt;On August 11, 2026, these protections are scheduled to be removed from your account, and you’ll gain access to features and settings for adults.&lt;br /&gt;If this timing doesn’t seem right, please verify your age.&lt;br /&gt;To learn more, visit our Help Center.&lt;br /&gt;— The OpenAI Team</description>
+      <title>月薪 2W+，工作轻松但几乎没有成长，毕业四五年该继续待着吗？</title>
+      <link>https://www.v2ex.com/t/1232770</link>
+      <guid>v2ex-1232770</guid>
+      <pubDate>Fri, 07 Aug 2026 08:32:47 GMT</pubDate>
+      <description>&lt;p&gt;今天看到一个帖子，大意是：“月薪 18000 ，但工作几乎毫无意义，干不干？”&lt;/p&gt;
+&lt;p&gt;感觉和我的现状挺像。毕业四五年了，目前月薪 2W+，工作强度不大，大部分时间比较清闲，偶尔甚至会浑浑噩噩地摸鱼。从收入、稳定性和舒适度来看，这份工作其实没什么可抱怨的。&lt;/p&gt;
+&lt;p&gt;但待久了又会有一种说不上来的不舒服：每天做的事情没什么成就感，也感觉不到能力在增长。跟朋友聊起这些，他们觉得我是在“无病呻吟”——工资还可以、工作又轻松，还有什么不满足的？说实话，我也理解这种看法，毕竟现在的大环境下，一份舒服稳定的工作并不容易遇到。&lt;/p&gt;
+&lt;p&gt;纠结的地方在于，毕业四五年似乎正是积累经验、提升能力的阶段。如果长期待在舒适区，担心以后想换工作时，才发现这些年除了工作年限，真正能拿得出手的东西并不多。但另一方面，我也不确定所谓“年轻就应该卷”是不是另一种焦虑。为了成长主动放弃现在的状态，也未必一定能换来更好的结果。&lt;/p&gt;
+&lt;p&gt;目前没有房贷等特别大的经济压力，也暂时没有明确想跳槽的方向，所以更像是在“舒服”和“长期成长”之间摇摆。&lt;/p&gt;
+&lt;p&gt;想听听大家的看法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你们会如何判断一份“轻松但成长有限”的工作值不值得继续？&lt;/li&gt;
+&lt;li&gt;工作的意义和成长，是否一定要从主业里获得？&lt;/li&gt;
+&lt;li&gt;如果是毕业四五年的阶段，你会选择珍惜舒适期，还是主动寻找更有挑战的机会？&lt;/li&gt;
+&lt;li&gt;有没有经历过类似阶段的朋友？后来是继续留下，还是选择了离开？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不是凡尔赛，也不是觉得轻松有什么不好，只是想了解一下，长期来看该如何更理性地评估这种状态。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>WitNote 2.0.1：一次 macOS 原生重构，也把本地 AI 放回了自己的 Mac</title>
+      <link>https://www.v2ex.com/t/1232801</link>
+      <guid>v2ex-1232801</guid>
+      <pubDate>Fri, 07 Aug 2026 10:16:15 GMT</pubDate>
+      <description>&lt;p&gt;大家好，我是 WitNote 的独立开发者。&lt;/p&gt;
+&lt;p&gt;这是 WitNote 2.0.1 。对我来说，它不是一次普通更新，而是一次把自己第一个 Vibe Coding 项目推翻重做的记录。&lt;/p&gt;
+&lt;p&gt;去年开始做 WitNote 时，我会写 Markdown ，也会大量使用 AI ，于是想做一个真正围绕写作的工具：不把文章复制进网页，而是在自己的文件夹里写作，让 Markdown 、本地文件和 AI 放在同一个工作流里。为了快速验证想法，第一版用了 Electron 。&lt;/p&gt;
+&lt;p&gt;Electron 让我很快做出了能运行的产品，也让我第一次经历了开源、上架、审核、推广和有人付费。但真实用户出现以后，启动速度、内存、界面响应和 macOS 融合感的问题也一起出现了。“能用”和“真正好用”之间，还有很长一段距离。&lt;/p&gt;
+&lt;p&gt;当 WitNote 越来越强调本地 AI ，我开始重新想：既然它主要给 Mac 用户使用，为什么不真正用 Swift 和 Apple Silicon 的 MLX 路线重做？于是大约两个月前，我决定从 Electron 转向 Swift 原生 macOS 。文件系统、Markdown 编辑器、窗口状态、模型运行、权限、沙盒、StoreKit ，几乎都要重新处理。&lt;/p&gt;
+&lt;p&gt;这次重构里 Codex 也成了重要的开发搭档。我会先让它理解旧版功能，再一起讨论原生 macOS 应该怎么设计；它帮我写代码、查 Bug 、做重构，我负责判断哪些功能该留下，哪些应该删掉。Vibe Coding 并没有让产品自动变简单，却让我能一边做，一边更快理解架构、性能、权限和用户体验。&lt;/p&gt;
+&lt;h3&gt;2.0.1 留下了什么&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Swift 原生 macOS 写作工作区：本地 Markdown 文件夹、编辑/预览分栏、Focus Mode 、Finder 打开文稿。&lt;/li&gt;
+&lt;li&gt;随 App 内置 Qwen3 0.6B 4-bit 模型，通过随包的 Swift MLX runner 和 Metal library 在 Apple Silicon 上运行，不依赖 Python 或额外开发工具。&lt;/li&gt;
+&lt;li&gt;AI 是可预览、可拒绝的辅助动作：标题、语法、润色、摘要、选区解释/改写、结构检查、阅读摘录、双语翻译和写回前 Diff 。&lt;/li&gt;
+&lt;li&gt;PDF 、Word 、表格、图片、EPUB 预览与 Markdown 旁注、多格式导出。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我最在意的是：用户选择的文件夹就是工作区，文章仍是普通 &lt;code&gt;.md&lt;/code&gt; 文件，不被锁进私有格式。内置模型默认在本机推理，不把草稿默认交给第三方托管 AI ；但小模型有速度、内存和上下文边界，它不是万能 Agent ，也不宣称替代云端大模型。&lt;/p&gt;
+&lt;p&gt;2.0.1 已通过 App Store 审核：&lt;a href=&quot;https://apps.apple.com/app/id6756833873&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/id6756833873&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;如果你是 Mac 用户、程序员或独立开发者，欢迎试试，也想听听内置 Qwen3 0.6B 的真实速度、Markdown 工作区和本地 AI 动作是否符合你的工作流。这个版本不是终点，而是 WitNote 真正开始长期维护的起点。&lt;/p&gt;
+&lt;h2&gt;送 50 个 WitNote Pro 一次性内购兑换码&lt;/h2&gt;
+&lt;p&gt;这是 App Store 的 &lt;strong&gt;IAP Offer Code&lt;/strong&gt;，不是 App 下载码。兑换后用于解锁 WitNote Pro Lifetime ，一次性使用，有效期至 &lt;strong&gt;2026-09-30&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;兑换方式：在 App Store 或 App 的兑换入口选择“兑换礼品卡或代码”，输入下面任意一个代码。用过后请回复代码编号，避免后来的人重复尝试；如果兑换失败，也请说明代码编号和系统环境。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;01  74R46J6E3RXRYMMJA3
+02  8FFYLXEAH7A63E8XM3
+03  JJRXENE4L4H4MN33MM
+04  FW868TKKMNJYF4AR48
+05  KLJPEXKKP3FNT4JXLL
+06  WLMY66LAWKF7AM8RLJ
+07  86FKFARNTPEELYY6J6
+08  AYTHN3LNXL7PF7KR8H
+09  T6PPWTXKTX4EEEXWXA
+10  M474X7YAXWE3WXL8TA
+11  7NEHPMF6MW668J3PXM
+12  RFPERJE6KNFHFPEK7A
+13  N34W6L34JTX8W7JT4W
+14  KW4KJLNHERFY76P3TP
+15  7WN6NWKM46K7867YXN
+16  F67MJNXP6RE4NTF83M
+17  RTKA48MRMFWHK8EM7R
+18  PALE3F4LXANE74RPX6
+19  JHKF76WXW888Y7M7WE
+20  WJ87A637PTNK3JKPY3
+21  XREWPF4F8LXP8P3LH8
+22  W6MMRAPAN6PHR46JE7
+23  FRXWKYYAJL8YEAAPJT
+24  E867A4FEK8E4RRHPEP
+25  FYELMAHKKLWAFJ74LE
+26  8PT483AET77JLNANX6
+27  AETMXXPL3JNJKY3744
+28  NYNA8EWTEH4HYKX6HW
+29  47E6R6WK8YXFMP7HMR
+30  KP4LRYYYJ3J6EXNNJM
+31  XP7AM7JXYNPN3XPYJY
+32  RA3EJLHMKWLYMKJN6Y
+33  JLJ4PTLRT63WWHK464
+34  W66YHARHEXLL7M886W
+35  HENXLRFYWRRYWRTAM7
+36  K3KLXEHNRL367P6NM7
+37  87LW4PE6M8LHNFXKWF
+38  HFTWYH6H473Y37XTN4
+39  RKH36MHNF8KAN7PW8Y
+40  P8Y8XANJWMHT4YK4PY
+41  F6T48KK4WWRJA7JW83
+42  4EXELRT3AJPRL4MT7K
+43  KRNXKKLRATTRWEKTTW
+44  E7PHTA4LKPJ8NE4XMJ
+45  JJKXXXX33MMPLREMLF
+46  A4WF3HFAJKPNP446FP
+47  6TYWPMKRH43JPJH8H6
+48  NHPL83PLNFEEHXYKNY
+49  863FN6XYAE8FW74YPA
+50  4PEFP3F46HXMKPNM88
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;谢谢大家。如果你愿意试，欢迎把真实体验和不顺手的地方直接写在回复里。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>中了甲状腺癌之后，才知道原来得这个癌的人这么多？</title>
+      <link>https://www.v2ex.com/t/1232777</link>
+      <guid>v2ex-1232777</guid>
+      <pubDate>Fri, 07 Aug 2026 08:49:13 GMT</pubDate>
+      <description>男，中招了，才知道年轻人现在好多得这个的&lt;br /&gt;&lt;br /&gt;特别是女生，建议大家着重检查下&lt;br /&gt;&lt;br /&gt;唉</description>
     </item>
   </channel>
 </rss>
