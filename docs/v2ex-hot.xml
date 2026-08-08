@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 08 Aug 2026 04:03:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 05:13:00 GMT</lastBuildDate>
     <item>
       <title>从 windows 切换到 MacOS，感觉 MacOS 不好用。</title>
       <link>https://www.v2ex.com/t/1232697</link>
@@ -81,13 +81,6 @@
       <guid>v2ex-1232711</guid>
       <pubDate>Fri, 07 Aug 2026 06:23:28 GMT</pubDate>
       <description>如果你最初提涨新，公司因为种种原因不给涨。&lt;br /&gt;你寒心了，开始投简历约面试，公司看你真的要走，开始找你谈话。&lt;br /&gt;说一定涨，而且是你先前要求涨幅的双倍。&lt;br /&gt;哪怕最后实在没办法，给其他同事降薪也要给你涨。&lt;br /&gt;你还想留在这公司吗？</description>
-    </item>
-    <item>
-      <title>两台 dgx-spark 部署满血 deepseek v4 flash 完全指南,稳定 60~70tok/s 单流</title>
-      <link>https://www.v2ex.com/t/1232688</link>
-      <guid>v2ex-1232688</guid>
-      <pubDate>Fri, 07 Aug 2026 04:44:27 GMT</pubDate>
-      <description>前天看 x 上有人做成这事, 觉得很不错, 下单买了两台, 6 万 8,  nvidia 原厂 dgx spark  带并连线&lt;br /&gt;实测两台刚好能拿捏 deepseek v4 flash 0731 ，vibe coding 单流 60–70 tok/s 的体验足以覆盖日常 ；不是“能跑起来”的演示水平，而是可以当主力开发机稳定干活。&lt;br /&gt;主要是为了本地化隐私部署, 经常会跟 ai 聊很多机密信息, 不放心, 靠硬件出 token 得好几年才能回本.&lt;br /&gt;欢迎交流&lt;br /&gt;github: &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731&lt;/a&gt;</description>
     </item>
     <item>
       <title>AI Coding 还看源代码吗？要是不看，会害怕血崩吗？</title>
@@ -179,6 +172,13 @@
       <guid>v2ex-1232714</guid>
       <pubDate>Fri, 07 Aug 2026 06:36:06 GMT</pubDate>
       <description>最近在闲鱼买到了假药，而且上面同类型的假药有很多，但想到其他人应该不知道或者不会辨别假药。&lt;br /&gt;所以想做一个反假货的网站，曝光卖假货的商家，包括如果辨别这是假货。防止再有人受骗。&lt;br /&gt;&lt;br /&gt;请各位大佬，用你最严厉的语言反驳这个需求，看下这个是不是伪需求。</description>
+    </item>
+    <item>
+      <title>ChatGPT 这次真要解禁成人内容了？</title>
+      <link>https://www.v2ex.com/t/1232700</link>
+      <guid>v2ex-1232700</guid>
+      <pubDate>Fri, 07 Aug 2026 05:57:08 GMT</pubDate>
+      <description>Hi xxx,&lt;br /&gt;We use age-related information to determine when teen safety protections should apply to ChatGPT accounts, to provide the right experience.&lt;br /&gt;On August 11, 2026, these protections are scheduled to be removed from your account, and you’ll gain access to features and settings for adults.&lt;br /&gt;If this timing doesn’t seem right, please verify your age.&lt;br /&gt;To learn more, visit our Help Center.&lt;br /&gt;— The OpenAI Team</description>
     </item>
   </channel>
 </rss>
