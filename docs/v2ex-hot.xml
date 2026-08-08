@@ -4,23 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 08 Aug 2026 10:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 10:56:22 GMT</lastBuildDate>
     <item>
       <title>终于看到 V2 有人发 mac 不好用了....我一直以为只有我觉得难用</title>
       <link>https://www.v2ex.com/t/1232881</link>
       <guid>v2ex-1232881</guid>
       <pubDate>Sat, 08 Aug 2026 04:23:12 GMT</pubDate>
       <description>看了一下整个评论区，给我的感觉好像就是要用 Mac ，你得去看官网的教程，你得去了解各种插件，各种快捷方式，然后你还得熟悉使用触摸板。但是想想最早小时候接触 win ，好像没有那么多东西要学习的...像是自来熟一样，根本就不需要学习，拿起鼠标键盘就能用了，不知道各位有没有类似的感触？&lt;br /&gt;&lt;br /&gt;然后就是，国区账号非常不友好，想下一个东西，就是搜不到，之前为了连远程桌面下 Windows APP 就得切外区账户，除此之外别无其他安装方式，好多东西没有提供 dmg 安装包....像微软这边，就只需要把区域切成美国就好了</description>
-    </item>
-    <item>
-      <title>codex 似乎要重置啦</title>
-      <link>https://www.v2ex.com/t/1232843</link>
-      <guid>v2ex-1232843</guid>
-      <pubDate>Sat, 08 Aug 2026 00:11:15 GMT</pubDate>
-      <description>&lt;p&gt;快点重置吧 不然下周上班天才程序员要陨落啦&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;https://i.imgur.com/IgUsJ0u.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/IgUsJ0u.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;https://i.imgur.com/3W3V2Lo.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/3W3V2Lo.png&quot;/&gt;&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>说说为什么明明只用一把键盘,家里还有七把</title>
@@ -37,81 +27,13 @@
 </description>
     </item>
     <item>
-      <title>WitNote 2.0.1：一次 macOS 原生重构，也把本地 AI 放回了自己的 Mac</title>
-      <link>https://www.v2ex.com/t/1232801</link>
-      <guid>v2ex-1232801</guid>
-      <pubDate>Fri, 07 Aug 2026 10:16:15 GMT</pubDate>
-      <description>&lt;p&gt;大家好，我是 WitNote 的独立开发者。&lt;/p&gt;
-&lt;p&gt;这是 WitNote 2.0.1 。对我来说，它不是一次普通更新，而是一次把自己第一个 Vibe Coding 项目推翻重做的记录。&lt;/p&gt;
-&lt;p&gt;去年开始做 WitNote 时，我会写 Markdown ，也会大量使用 AI ，于是想做一个真正围绕写作的工具：不把文章复制进网页，而是在自己的文件夹里写作，让 Markdown 、本地文件和 AI 放在同一个工作流里。为了快速验证想法，第一版用了 Electron 。&lt;/p&gt;
-&lt;p&gt;Electron 让我很快做出了能运行的产品，也让我第一次经历了开源、上架、审核、推广和有人付费。但真实用户出现以后，启动速度、内存、界面响应和 macOS 融合感的问题也一起出现了。“能用”和“真正好用”之间，还有很长一段距离。&lt;/p&gt;
-&lt;p&gt;当 WitNote 越来越强调本地 AI ，我开始重新想：既然它主要给 Mac 用户使用，为什么不真正用 Swift 和 Apple Silicon 的 MLX 路线重做？于是大约两个月前，我决定从 Electron 转向 Swift 原生 macOS 。文件系统、Markdown 编辑器、窗口状态、模型运行、权限、沙盒、StoreKit ，几乎都要重新处理。&lt;/p&gt;
-&lt;p&gt;这次重构里 Codex 也成了重要的开发搭档。我会先让它理解旧版功能，再一起讨论原生 macOS 应该怎么设计；它帮我写代码、查 Bug 、做重构，我负责判断哪些功能该留下，哪些应该删掉。Vibe Coding 并没有让产品自动变简单，却让我能一边做，一边更快理解架构、性能、权限和用户体验。&lt;/p&gt;
-&lt;h3&gt;2.0.1 留下了什么&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Swift 原生 macOS 写作工作区：本地 Markdown 文件夹、编辑/预览分栏、Focus Mode 、Finder 打开文稿。&lt;/li&gt;
-&lt;li&gt;随 App 内置 Qwen3 0.6B 4-bit 模型，通过随包的 Swift MLX runner 和 Metal library 在 Apple Silicon 上运行，不依赖 Python 或额外开发工具。&lt;/li&gt;
-&lt;li&gt;AI 是可预览、可拒绝的辅助动作：标题、语法、润色、摘要、选区解释/改写、结构检查、阅读摘录、双语翻译和写回前 Diff 。&lt;/li&gt;
-&lt;li&gt;PDF 、Word 、表格、图片、EPUB 预览与 Markdown 旁注、多格式导出。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我最在意的是：用户选择的文件夹就是工作区，文章仍是普通 &lt;code&gt;.md&lt;/code&gt; 文件，不被锁进私有格式。内置模型默认在本机推理，不把草稿默认交给第三方托管 AI ；但小模型有速度、内存和上下文边界，它不是万能 Agent ，也不宣称替代云端大模型。&lt;/p&gt;
-&lt;p&gt;2.0.1 已通过 App Store 审核：&lt;a href=&quot;https://apps.apple.com/app/id6756833873&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/id6756833873&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;如果你是 Mac 用户、程序员或独立开发者，欢迎试试，也想听听内置 Qwen3 0.6B 的真实速度、Markdown 工作区和本地 AI 动作是否符合你的工作流。这个版本不是终点，而是 WitNote 真正开始长期维护的起点。&lt;/p&gt;
-&lt;h2&gt;送 50 个 WitNote Pro 一次性内购兑换码&lt;/h2&gt;
-&lt;p&gt;这是 App Store 的 &lt;strong&gt;IAP Offer Code&lt;/strong&gt;，不是 App 下载码。兑换后用于解锁 WitNote Pro Lifetime ，一次性使用，有效期至 &lt;strong&gt;2026-09-30&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;兑换方式：在 App Store 或 App 的兑换入口选择“兑换礼品卡或代码”，输入下面任意一个代码。用过后请回复代码编号，避免后来的人重复尝试；如果兑换失败，也请说明代码编号和系统环境。&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;01  74R46J6E3RXRYMMJA3
-02  8FFYLXEAH7A63E8XM3
-03  JJRXENE4L4H4MN33MM
-04  FW868TKKMNJYF4AR48
-05  KLJPEXKKP3FNT4JXLL
-06  WLMY66LAWKF7AM8RLJ
-07  86FKFARNTPEELYY6J6
-08  AYTHN3LNXL7PF7KR8H
-09  T6PPWTXKTX4EEEXWXA
-10  M474X7YAXWE3WXL8TA
-11  7NEHPMF6MW668J3PXM
-12  RFPERJE6KNFHFPEK7A
-13  N34W6L34JTX8W7JT4W
-14  KW4KJLNHERFY76P3TP
-15  7WN6NWKM46K7867YXN
-16  F67MJNXP6RE4NTF83M
-17  RTKA48MRMFWHK8EM7R
-18  PALE3F4LXANE74RPX6
-19  JHKF76WXW888Y7M7WE
-20  WJ87A637PTNK3JKPY3
-21  XREWPF4F8LXP8P3LH8
-22  W6MMRAPAN6PHR46JE7
-23  FRXWKYYAJL8YEAAPJT
-24  E867A4FEK8E4RRHPEP
-25  FYELMAHKKLWAFJ74LE
-26  8PT483AET77JLNANX6
-27  AETMXXPL3JNJKY3744
-28  NYNA8EWTEH4HYKX6HW
-29  47E6R6WK8YXFMP7HMR
-30  KP4LRYYYJ3J6EXNNJM
-31  XP7AM7JXYNPN3XPYJY
-32  RA3EJLHMKWLYMKJN6Y
-33  JLJ4PTLRT63WWHK464
-34  W66YHARHEXLL7M886W
-35  HENXLRFYWRRYWRTAM7
-36  K3KLXEHNRL367P6NM7
-37  87LW4PE6M8LHNFXKWF
-38  HFTWYH6H473Y37XTN4
-39  RKH36MHNF8KAN7PW8Y
-40  P8Y8XANJWMHT4YK4PY
-41  F6T48KK4WWRJA7JW83
-42  4EXELRT3AJPRL4MT7K
-43  KRNXKKLRATTRWEKTTW
-44  E7PHTA4LKPJ8NE4XMJ
-45  JJKXXXX33MMPLREMLF
-46  A4WF3HFAJKPNP446FP
-47  6TYWPMKRH43JPJH8H6
-48  NHPL83PLNFEEHXYKNY
-49  863FN6XYAE8FW74YPA
-50  4PEFP3F46HXMKPNM88
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;谢谢大家。如果你愿意试，欢迎把真实体验和不顺手的地方直接写在回复里。&lt;/p&gt;
+      <title>codex 似乎要重置啦</title>
+      <link>https://www.v2ex.com/t/1232843</link>
+      <guid>v2ex-1232843</guid>
+      <pubDate>Sat, 08 Aug 2026 00:11:15 GMT</pubDate>
+      <description>&lt;p&gt;快点重置吧 不然下周上班天才程序员要陨落啦&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;https://i.imgur.com/IgUsJ0u.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/IgUsJ0u.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;https://i.imgur.com/3W3V2Lo.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/3W3V2Lo.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -147,6 +69,13 @@ Grok 生成游戏素材的效率真的太高了，Grok Build 也超级好用。�
       <description>现在的黄焖鸡一言难尽....&lt;br /&gt;哪里还能吃到当年的味道</description>
     </item>
     <item>
+      <title>厄运专找苦命人，看中山大学 23 岁博士确诊胃癌晚期有感</title>
+      <link>https://www.v2ex.com/t/1232900</link>
+      <guid>v2ex-1232900</guid>
+      <pubDate>Sat, 08 Aug 2026 06:53:25 GMT</pubDate>
+      <description>农村出身，家里父母都是打工人，好不容易考上名牌大学还直博。就在全家人以为苦尽甘来的时候，命运却给一个相信天道酬勤的人开了一个大大的玩笑。这剧本搁谁身上都免不了要心理奔溃。&lt;br /&gt;&lt;br /&gt;有些人出生就在罗马，有些人虽然出生贫穷但上天给了他逆势翻盘一路打怪升级的剧本，真正苦命的是明明很努力明明已经快要成功了，却被命运突然打断。&lt;br /&gt;&lt;br /&gt;想起以前大学时期也曾经有一位保研的学长被诊断出癌症，家里也是贫苦出身，后面学院里号召大家捐款，可惜最后还是走了。 &lt;br /&gt;&lt;br /&gt;天地不仁，以万物为刍狗。</description>
+    </item>
+    <item>
       <title>codex 接 deepseek 的 api 能用么？</title>
       <link>https://www.v2ex.com/t/1232858</link>
       <guid>v2ex-1232858</guid>
@@ -154,11 +83,13 @@ Grok 生成游戏素材的效率真的太高了，Grok Build 也超级好用。�
       <description>openai 成本感觉有点高</description>
     </item>
     <item>
-      <title>现在封号还严重吗 我用苹果账户又订阅上了 claude 不知道会不会被封</title>
-      <link>https://www.v2ex.com/t/1232798</link>
-      <guid>v2ex-1232798</guid>
-      <pubDate>Fri, 07 Aug 2026 10:09:07 GMT</pubDate>
-      <description>搞了个海外主机转发&lt;br /&gt;会不会被封呢</description>
+      <title>分享一个 ublock origin 规则，屏蔽 x 上的黄色评论</title>
+      <link>https://www.v2ex.com/t/1232883</link>
+      <guid>v2ex-1232883</guid>
+      <pubDate>Sat, 08 Aug 2026 04:35:27 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;http://x.com&quot; rel=&quot;nofollow&quot;&gt;x.com&lt;/a&gt;##[data-testid=&quot;tweetText&quot;]:has-text(/比我骚|没我好看|我的福|我福不黑/):upward(8)&lt;/p&gt;
+&lt;p&gt;感兴趣的朋友可以加一下这个规则，文字内容可以自行修改，改善下体验。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
