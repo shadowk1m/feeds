@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 09 Aug 2026 12:26:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 13:29:20 GMT</lastBuildDate>
     <item>
       <title>[薅羊毛] mirasim（注册账号赠送额度：等于 Codex Pro 5× + Claude Code Max 5×）</title>
       <link>https://www.v2ex.com/t/1232965</link>
@@ -30,14 +30,6 @@
 </description>
     </item>
     <item>
-      <title>Linux .sb 突然爆火，你怎么看？</title>
-      <link>https://www.v2ex.com/t/1232993</link>
-      <guid>v2ex-1232993</guid>
-      <pubDate>Sun, 09 Aug 2026 01:35:14 GMT</pubDate>
-      <description>&lt;p&gt;RT.&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Codex 把我电脑文件都删了</title>
       <link>https://www.v2ex.com/t/1233011</link>
       <guid>v2ex-1233011</guid>
@@ -57,6 +49,14 @@
 &lt;p&gt;关键证据在 file:4249 —— Win32_Process 记录的操作系统层面真实命令行里，$d 两侧的双引号已经没了（ PowerShell 把参数传给原生 exe 时没有转义内层的 &quot;）。&lt;/p&gt;
 &lt;p&gt;我极少在 Windows 上原生执行 claude/codex ，更从来没给过 full access ，没想到第一次给它 full access 就翻船了……&lt;/p&gt;
 &lt;p&gt;太倒霉了。有一万个如果可以让这件事不要发生。如果不是我有云备份，我大概已经去自首了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Linux .sb 突然爆火，你怎么看？</title>
+      <link>https://www.v2ex.com/t/1232993</link>
+      <guid>v2ex-1232993</guid>
+      <pubDate>Sun, 09 Aug 2026 01:35:14 GMT</pubDate>
+      <description>&lt;p&gt;RT.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -86,18 +86,30 @@
 </description>
     </item>
     <item>
+      <title>做了一款终端优先的 AI 编程环境 Termio.sh, 比 Ghostty/ iTem2 / cmux 好用</title>
+      <link>https://www.v2ex.com/t/1232978</link>
+      <guid>v2ex-1232978</guid>
+      <pubDate>Sat, 08 Aug 2026 23:25:05 GMT</pubDate>
+      <description>&lt;p&gt;2026 年，软件编程的范式已经彻底变化了。 我们大部分时间已经不是敲键盘写代码，而是一个项目开着十几个 Agent 会话, Claude Code 、Codex 、OpenCode, Pi... 给 Agent 描述编程意图， 编排他们执行这些意图。传统为手写代码进行优化的 IDE ，其布局功能已经不再适合 AI 编程了，这也是最近很多人在做 ADE （ Agent Development Environment ）的原因。&lt;/p&gt;
+&lt;p&gt;我最近也开发了一个 ADE ，Termio ，一个原生 Mac 终端 ADE ，内核用 libghostty （和 Ghostty 同款），agent 的 TUI 渲染性能很强， 使用极为流畅。更重要的产品设计围绕 AI 编程进行设计，项目管理和 Session 管理的状态一目了然，文件树和 diff 直接在终端旁边显示，给 Agent 提供 context 十分方便。&lt;/p&gt;
+&lt;p&gt;另外也开发了 iOS ，随时随地通过手机进行 AI 编程。比如陪家人下楼散步时把想法告诉 Agent ，让它立即开始执行。等散步回来，Agent 可能已经完成了任务。然后你再坐回电脑前，检查和验收它的工作。&lt;/p&gt;
+&lt;p&gt;Termio 应该是当前市面上当前最漂亮的 ADE 终端了，无论客户端还是 iOS 设计都极为漂亮。如果你想要一款漂亮，稳定的 ADE 终端，可以下载试一试 &lt;a href=&quot;http://termio.sh&quot; rel=&quot;nofollow&quot;&gt;termio.sh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;dark&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/3vhyQ8Zg.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;light&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/lVxv7s5g.png&quot;/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub： &lt;a href=&quot;https://github.com/termio-sh/termio&quot; rel=&quot;nofollow&quot;&gt;https://github.com/termio-sh/termio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;官网： &lt;a href=&quot;https://termio.sh&quot; rel=&quot;nofollow&quot;&gt;https://termio.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;iPhone 公测： &lt;a href=&quot;https://testflight.apple.com/join/1Arf1UKR&quot; rel=&quot;nofollow&quot;&gt;https://testflight.apple.com/join/1Arf1UKR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;经过一个月的内测打磨，很多朋友反馈十分好用，如果大家感兴趣可以试用一下哈？遇到什么问题可以留言反馈哈。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Claude Code 一天花了 68 块，正常吗？</title>
       <link>https://www.v2ex.com/t/1233003</link>
       <guid>v2ex-1233003</guid>
       <pubDate>Sun, 09 Aug 2026 02:04:26 GMT</pubDate>
       <description>最近几天 Claudecode 用得比较多，昨天看了一下账单，一天扣了 68 ，感觉有点离大谱，其实也没做什么特别夸张的事情，就是让它读项目、改几个文件，中间来回跑了几次测试。白天断断续续用了三四个小时，没想到加起来这么多。&lt;br /&gt;之前偶尔调用 API ，一天也就几块钱，所以突然到 68 块有点没概念。按这个速度算，一个月可能要两千多，感觉还是有点顶不住。&lt;br /&gt;想问下大家，你们平时用 Claudecode 一天大概会花多少？&lt;br /&gt;我是几块钱的时候没感觉，超过 30 块之后就开始注意了。想问问有什么方法可以用到好用有不降智的 claude 模型方案？&lt;br /&gt;也想知道，如果只是日常写代码，一个月预算 300 到 500 块够不够用。</description>
-    </item>
-    <item>
-      <title>codex 20260808 重置了</title>
-      <link>https://www.v2ex.com/t/1232951</link>
-      <guid>v2ex-1232951</guid>
-      <pubDate>Sat, 08 Aug 2026 13:46:09 GMT</pubDate>
-      <description>codex 20260808 重置了</description>
     </item>
   </channel>
 </rss>
