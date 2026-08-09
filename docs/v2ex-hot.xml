@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 09 Aug 2026 04:11:49 GMT</lastBuildDate>
-    <item>
-      <title>终于看到 V2 有人发 mac 不好用了....我一直以为只有我觉得难用</title>
-      <link>https://www.v2ex.com/t/1232881</link>
-      <guid>v2ex-1232881</guid>
-      <pubDate>Sat, 08 Aug 2026 04:23:12 GMT</pubDate>
-      <description>看了一下整个评论区，给我的感觉好像就是要用 Mac ，你得去看官网的教程，你得去了解各种插件，各种快捷方式，然后你还得熟悉使用触摸板。但是想想最早小时候接触 win ，好像没有那么多东西要学习的...像是自来熟一样，根本就不需要学习，拿起鼠标键盘就能用了，不知道各位有没有类似的感触？&lt;br /&gt;&lt;br /&gt;然后就是，国区账号非常不友好，想下一个东西，就是搜不到，之前为了连远程桌面下 Windows APP 就得切外区账户，除此之外别无其他安装方式，好多东西没有提供 dmg 安装包....像微软这边，就只需要把区域切成美国就好了</description>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 05:27:13 GMT</lastBuildDate>
     <item>
       <title>说说为什么明明只用一把键盘,家里还有七把</title>
       <link>https://www.v2ex.com/t/1232899</link>
@@ -70,13 +63,19 @@
 </description>
     </item>
     <item>
-      <title>分享一个 ublock origin 规则，屏蔽 x 上的黄色评论</title>
-      <link>https://www.v2ex.com/t/1232883</link>
-      <guid>v2ex-1232883</guid>
-      <pubDate>Sat, 08 Aug 2026 04:35:27 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;http://x.com&quot; rel=&quot;nofollow&quot;&gt;x.com&lt;/a&gt;##[data-testid=&quot;tweetText&quot;]:has-text(/比我骚|没我好看|我的福|我福不黑/):upward(8)&lt;/p&gt;
-&lt;p&gt;感兴趣的朋友可以加一下这个规则，文字内容可以自行修改，改善下体验。&lt;/p&gt;
+      <title>Linux .sb 突然爆火，你怎么看？</title>
+      <link>https://www.v2ex.com/t/1232993</link>
+      <guid>v2ex-1232993</guid>
+      <pubDate>Sun, 09 Aug 2026 01:35:14 GMT</pubDate>
+      <description>&lt;p&gt;RT.&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>淘宝这种验证码已经不能用恶心来形容了，这是人干的事吗</title>
+      <link>https://www.v2ex.com/t/1232969</link>
+      <guid>v2ex-1232969</guid>
+      <pubDate>Sat, 08 Aug 2026 19:10:25 GMT</pubDate>
+      <description>买个家具，因为手机屏幕小看不清细节，用电脑上翻页出来这种验证码。&lt;br /&gt;硬生生浪费我 40 分钟还没通过验证码&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/5fWd6V2.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/5fWd6V2.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
       <title>如何看待 DeepSeek 在 X 上要求大家把自己的项目放上去以换取内测资格？以及后续的签约需要身份征等其他个人信息？</title>
