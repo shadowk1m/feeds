@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 09 Aug 2026 10:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 11:27:35 GMT</lastBuildDate>
     <item>
       <title>[薅羊毛] mirasim（注册账号赠送额度：等于 Codex Pro 5× + Claude Code Max 5×）</title>
       <link>https://www.v2ex.com/t/1232965</link>
@@ -74,13 +74,6 @@
       <description>想买个 Macmini 和 Windows 共用一套键鼠和显示器，不然桌子上摆不下</description>
     </item>
     <item>
-      <title>codex 20260808 重置了</title>
-      <link>https://www.v2ex.com/t/1232951</link>
-      <guid>v2ex-1232951</guid>
-      <pubDate>Sat, 08 Aug 2026 13:46:09 GMT</pubDate>
-      <description>codex 20260808 重置了</description>
-    </item>
-    <item>
       <title>claude 被封了 3 次，用了 3 个苹果账号订阅</title>
       <link>https://www.v2ex.com/t/1232990</link>
       <guid>v2ex-1232990</guid>
@@ -93,13 +86,18 @@
 </description>
     </item>
     <item>
-      <title>mirasim 注册可以领一年会员 对应 codex、cc 200$</title>
-      <link>https://www.v2ex.com/t/1232967</link>
-      <guid>v2ex-1232967</guid>
-      <pubDate>Sat, 08 Aug 2026 18:40:40 GMT</pubDate>
-      <description>&lt;p&gt;注册地址 &lt;a href=&quot;https://mirasim.ai/&quot; rel=&quot;nofollow&quot;&gt;https://mirasim.ai/&lt;/a&gt;
-邀请码：MIRA-Z2ZK-EQBH-SDSM 空位多&lt;/p&gt;
-</description>
+      <title>codex 20260808 重置了</title>
+      <link>https://www.v2ex.com/t/1232951</link>
+      <guid>v2ex-1232951</guid>
+      <pubDate>Sat, 08 Aug 2026 13:46:09 GMT</pubDate>
+      <description>codex 20260808 重置了</description>
+    </item>
+    <item>
+      <title>Claude Code 一天花了 68 块，正常吗？</title>
+      <link>https://www.v2ex.com/t/1233003</link>
+      <guid>v2ex-1233003</guid>
+      <pubDate>Sun, 09 Aug 2026 02:04:26 GMT</pubDate>
+      <description>最近几天 Claudecode 用得比较多，昨天看了一下账单，一天扣了 68 ，感觉有点离大谱，其实也没做什么特别夸张的事情，就是让它读项目、改几个文件，中间来回跑了几次测试。白天断断续续用了三四个小时，没想到加起来这么多。&lt;br /&gt;之前偶尔调用 API ，一天也就几块钱，所以突然到 68 块有点没概念。按这个速度算，一个月可能要两千多，感觉还是有点顶不住。&lt;br /&gt;想问下大家，你们平时用 Claudecode 一天大概会花多少？&lt;br /&gt;我是几块钱的时候没感觉，超过 30 块之后就开始注意了。想问问有什么方法可以用到好用有不降智的 claude 模型方案？&lt;br /&gt;也想知道，如果只是日常写代码，一个月预算 300 到 500 块够不够用。</description>
     </item>
   </channel>
 </rss>
