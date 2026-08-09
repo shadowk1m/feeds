@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 09 Aug 2026 22:58:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 23:28:51 GMT</lastBuildDate>
     <item>
       <title>从手冲党叛变到胶囊党,说说为什么</title>
       <link>https://www.v2ex.com/t/1233017</link>
@@ -77,25 +77,6 @@
 </description>
     </item>
     <item>
-      <title>做了一款终端优先的 AI 编程环境 Termio.sh, 比 Ghostty/ iTem2 / cmux 好用</title>
-      <link>https://www.v2ex.com/t/1232978</link>
-      <guid>v2ex-1232978</guid>
-      <pubDate>Sat, 08 Aug 2026 23:25:05 GMT</pubDate>
-      <description>&lt;p&gt;2026 年，软件编程的范式已经彻底变化了。 我们大部分时间已经不是敲键盘写代码，而是一个项目开着十几个 Agent 会话, Claude Code 、Codex 、OpenCode, Pi... 给 Agent 描述编程意图， 编排他们执行这些意图。传统为手写代码进行优化的 IDE ，其布局功能已经不再适合 AI 编程了，这也是最近很多人在做 ADE （ Agent Development Environment ）的原因。&lt;/p&gt;
-&lt;p&gt;我最近也开发了一个 ADE ，Termio ，一个原生 Mac 终端 ADE ，内核用 libghostty （和 Ghostty 同款），agent 的 TUI 渲染性能很强， 使用极为流畅。更重要的产品设计围绕 AI 编程进行设计，项目管理和 Session 管理的状态一目了然，文件树和 diff 直接在终端旁边显示，给 Agent 提供 context 十分方便。&lt;/p&gt;
-&lt;p&gt;另外也开发了 iOS ，随时随地通过手机进行 AI 编程。比如陪家人下楼散步时把想法告诉 Agent ，让它立即开始执行。等散步回来，Agent 可能已经完成了任务。然后你再坐回电脑前，检查和验收它的工作。&lt;/p&gt;
-&lt;p&gt;Termio 应该是当前市面上当前最漂亮的 ADE 终端了，无论客户端还是 iOS 设计都极为漂亮。如果你想要一款漂亮，稳定的 ADE 终端，可以下载试一试 &lt;a href=&quot;http://termio.sh&quot; rel=&quot;nofollow&quot;&gt;termio.sh&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;dark&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/3vhyQ8Zg.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;light&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/lVxv7s5g.png&quot;/&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GitHub： &lt;a href=&quot;https://github.com/termio-sh/termio&quot; rel=&quot;nofollow&quot;&gt;https://github.com/termio-sh/termio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;官网： &lt;a href=&quot;https://termio.sh&quot; rel=&quot;nofollow&quot;&gt;https://termio.sh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;iPhone 公测： &lt;a href=&quot;https://testflight.apple.com/join/1Arf1UKR&quot; rel=&quot;nofollow&quot;&gt;https://testflight.apple.com/join/1Arf1UKR&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;经过一个月的内测打磨，很多朋友反馈十分好用，如果大家感兴趣可以试用一下哈？遇到什么问题可以留言反馈哈。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Claude Code 一天花了 68 块，正常吗？</title>
       <link>https://www.v2ex.com/t/1233003</link>
       <guid>v2ex-1233003</guid>
@@ -131,6 +112,13 @@
 &lt;p&gt;gpt5.6 出来后很多人说跟 superpower 有冲突，我因为很早就卸载 superpower 了，所以没感觉。但是经过这个项目，我感觉不仅仅 superpower 的问题，$Grill Me 那一套可能也有问题。这个项目之初我是装了$Grill Me 全家桶，现在删了只剩$Grill Me 了，因为目前来看效果并不好，并且会导致每一次对话都非常慢，严重降低了反馈效率。即使$Grill Me 我也用的有点力竭，昨天重构时他拷问了我 2 个小时才开始执行，整整 2 个小时！我就在那一直确认，人也不敢离开，结果执行重构也就花了半个小时。现在感觉还是 codex 的 plan 模式舒服，只问重点，并且更容易知道我要什么。&lt;/p&gt;
 &lt;p&gt;先写这么多，我要继续擦屎去了，毕竟留给我的时间不多了。。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>大家还有在坚持使用 qq 嘛？为什么？</title>
+      <link>https://www.v2ex.com/t/1233042</link>
+      <guid>v2ex-1233042</guid>
+      <pubDate>Sun, 09 Aug 2026 07:43:07 GMT</pubDate>
+      <description>发现身边还是有不少人使用 qq 的，特别是学生年轻人，以及个别上班族群聊用&lt;br /&gt;&lt;br /&gt;大家的情况呢？</description>
     </item>
   </channel>
 </rss>
