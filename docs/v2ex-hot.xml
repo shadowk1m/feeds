@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 09 Aug 2026 13:29:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 14:06:06 GMT</lastBuildDate>
     <item>
       <title>[薅羊毛] mirasim（注册账号赠送额度：等于 Codex Pro 5× + Claude Code Max 5×）</title>
       <link>https://www.v2ex.com/t/1232965</link>
@@ -30,6 +30,14 @@
 </description>
     </item>
     <item>
+      <title>Linux .sb 突然爆火，你怎么看？</title>
+      <link>https://www.v2ex.com/t/1232993</link>
+      <guid>v2ex-1232993</guid>
+      <pubDate>Sun, 09 Aug 2026 01:35:14 GMT</pubDate>
+      <description>&lt;p&gt;RT.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Codex 把我电脑文件都删了</title>
       <link>https://www.v2ex.com/t/1233011</link>
       <guid>v2ex-1233011</guid>
@@ -49,14 +57,6 @@
 &lt;p&gt;关键证据在 file:4249 —— Win32_Process 记录的操作系统层面真实命令行里，$d 两侧的双引号已经没了（ PowerShell 把参数传给原生 exe 时没有转义内层的 &quot;）。&lt;/p&gt;
 &lt;p&gt;我极少在 Windows 上原生执行 claude/codex ，更从来没给过 full access ，没想到第一次给它 full access 就翻船了……&lt;/p&gt;
 &lt;p&gt;太倒霉了。有一万个如果可以让这件事不要发生。如果不是我有云备份，我大概已经去自首了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Linux .sb 突然爆火，你怎么看？</title>
-      <link>https://www.v2ex.com/t/1232993</link>
-      <guid>v2ex-1232993</guid>
-      <pubDate>Sun, 09 Aug 2026 01:35:14 GMT</pubDate>
-      <description>&lt;p&gt;RT.&lt;/p&gt;
 </description>
     </item>
     <item>
