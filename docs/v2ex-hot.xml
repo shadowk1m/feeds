@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 09 Aug 2026 21:29:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 21:58:12 GMT</lastBuildDate>
     <item>
       <title>从手冲党叛变到胶囊党,说说为什么</title>
       <link>https://www.v2ex.com/t/1233017</link>
@@ -103,6 +103,13 @@
       <description>最近几天 Claudecode 用得比较多，昨天看了一下账单，一天扣了 68 ，感觉有点离大谱，其实也没做什么特别夸张的事情，就是让它读项目、改几个文件，中间来回跑了几次测试。白天断断续续用了三四个小时，没想到加起来这么多。&lt;br /&gt;之前偶尔调用 API ，一天也就几块钱，所以突然到 68 块有点没概念。按这个速度算，一个月可能要两千多，感觉还是有点顶不住。&lt;br /&gt;想问下大家，你们平时用 Claudecode 一天大概会花多少？&lt;br /&gt;我是几块钱的时候没感觉，超过 30 块之后就开始注意了。想问问有什么方法可以用到好用有不降智的 claude 模型方案？&lt;br /&gt;也想知道，如果只是日常写代码，一个月预算 300 到 500 块够不够用。</description>
     </item>
     <item>
+      <title>大家用自建的梯子多还是买的多，我想自建一个不知道和买的相比哪个更好希望给点建议</title>
+      <link>https://www.v2ex.com/t/1233041</link>
+      <guid>v2ex-1233041</guid>
+      <pubDate>Sun, 09 Aug 2026 07:23:58 GMT</pubDate>
+      <description>大家用自建的梯子多还是买的多，我想自建一个不知道和买的相比哪个更好希望给点建议</description>
+    </item>
+    <item>
       <title>你们都如何 review AI 生成的大量代码，保障功能质量</title>
       <link>https://www.v2ex.com/t/1233025</link>
       <guid>v2ex-1233025</guid>
@@ -124,13 +131,6 @@
 &lt;p&gt;gpt5.6 出来后很多人说跟 superpower 有冲突，我因为很早就卸载 superpower 了，所以没感觉。但是经过这个项目，我感觉不仅仅 superpower 的问题，$Grill Me 那一套可能也有问题。这个项目之初我是装了$Grill Me 全家桶，现在删了只剩$Grill Me 了，因为目前来看效果并不好，并且会导致每一次对话都非常慢，严重降低了反馈效率。即使$Grill Me 我也用的有点力竭，昨天重构时他拷问了我 2 个小时才开始执行，整整 2 个小时！我就在那一直确认，人也不敢离开，结果执行重构也就花了半个小时。现在感觉还是 codex 的 plan 模式舒服，只问重点，并且更容易知道我要什么。&lt;/p&gt;
 &lt;p&gt;先写这么多，我要继续擦屎去了，毕竟留给我的时间不多了。。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>大家用自建的梯子多还是买的多，我想自建一个不知道和买的相比哪个更好希望给点建议</title>
-      <link>https://www.v2ex.com/t/1233041</link>
-      <guid>v2ex-1233041</guid>
-      <pubDate>Sun, 09 Aug 2026 07:23:58 GMT</pubDate>
-      <description>大家用自建的梯子多还是买的多，我想自建一个不知道和买的相比哪个更好希望给点建议</description>
     </item>
   </channel>
 </rss>
