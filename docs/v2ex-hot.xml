@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 09 Aug 2026 16:25:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 17:01:50 GMT</lastBuildDate>
     <item>
       <title>从手冲党叛变到胶囊党,说说为什么</title>
       <link>https://www.v2ex.com/t/1233017</link>
@@ -74,6 +74,17 @@
       <description>想买个 Macmini 和 Windows 共用一套键鼠和显示器，不然桌子上摆不下</description>
     </item>
     <item>
+      <title>昨天一天用 Codex 5.6 Sol 搞定的，基于 ESP32-C5 WiFi CSI 睡眠监测，经过一夜的睡眠监测，确实很准</title>
+      <link>https://www.v2ex.com/t/1233022</link>
+      <guid>v2ex-1233022</guid>
+      <pubDate>Sun, 09 Aug 2026 04:12:51 GMT</pubDate>
+      <description>&lt;p&gt;昨天一天用 Codex 5.6 Sol 搞定的，基于 ESP32-C5 WiFi CSI 睡眠监测，经过一夜的睡眠监测，确实很准啊。&lt;/p&gt;
+&lt;p&gt;AI 算法能力已经超过博士了，我看了下代码和思路，和我当年读博的思路基本一致，在算法和实现上比我当时的强。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/090cUeHs.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/HfZu99Ga.jpeg&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>claude 被封了 3 次，用了 3 个苹果账号订阅</title>
       <link>https://www.v2ex.com/t/1232990</link>
       <guid>v2ex-1232990</guid>
@@ -83,17 +94,6 @@
 &lt;p&gt;apple 账号越来越多，退款也越来越多，都太分散了，不知道能干啥？
 大家有更好的充值方式吗？&lt;/p&gt;
 &lt;p&gt;另外，请问 apple 账号与 claude 账号绑定期是多长时间啊？ 180 天吗？但我看有人说是终身绑定。网页也查过，是绑定 1 个月，即 apple 订阅里看不到 claude 已取消的信息就能订阅新账号，有没有人有过经历啊？能否分享下，谢谢&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>昨天一天用 Codex 5.6 Sol 搞定的，基于 ESP32-C5 WiFi CSI 睡眠监测，经过一夜的睡眠监测，确实很准</title>
-      <link>https://www.v2ex.com/t/1233022</link>
-      <guid>v2ex-1233022</guid>
-      <pubDate>Sun, 09 Aug 2026 04:12:51 GMT</pubDate>
-      <description>&lt;p&gt;昨天一天用 Codex 5.6 Sol 搞定的，基于 ESP32-C5 WiFi CSI 睡眠监测，经过一夜的睡眠监测，确实很准啊。&lt;/p&gt;
-&lt;p&gt;AI 算法能力已经超过博士了，我看了下代码和思路，和我当年读博的思路基本一致，在算法和实现上比我当时的强。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/090cUeHs.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/HfZu99Ga.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
