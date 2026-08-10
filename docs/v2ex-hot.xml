@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 10 Aug 2026 01:27:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 03:24:18 GMT</lastBuildDate>
     <item>
       <title>从手冲党叛变到胶囊党,说说为什么</title>
       <link>https://www.v2ex.com/t/1233017</link>
@@ -17,34 +17,34 @@
 </description>
     </item>
     <item>
-      <title>Codex 把我电脑文件都删了</title>
-      <link>https://www.v2ex.com/t/1233011</link>
-      <guid>v2ex-1233011</guid>
-      <pubDate>Sun, 09 Aug 2026 02:56:23 GMT</pubDate>
-      <description>&lt;p&gt;昨天为了赶在额度重置前把额度用完，出门前交代 codex 自己去远程验证整个项目脚本和文档的正确性，开了 full access ，回来一看悲剧了，把我 C 盘和 D 盘文件全删了……估计删了我两三百 G 的数据，上百万个文件……&lt;/p&gt;
-&lt;p&gt;用的模型是 gpt-5.6-sol xhigh fast 。真他妈快啊，除了少数被进程占用的文件，全给我删了。&lt;/p&gt;
-&lt;p&gt;让 Claude Code 分析了下 codex 的记录：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  wsl.exe bash -lc &#39;set -e; d=$(mktemp -d); cd &quot;$d&quot;;
-    apt-get download sshpass &amp;gt;/dev/null;
-    dpkg-deb -x sshpass_*.deb extracted;
-    cp extracted/usr/bin/sshpass /tmp/xxx-semantic-bin/sshpass;
-    chmod 700 /tmp/xxx-semantic-bin/sshpass;
-    cd /; find &quot;$d&quot; -depth -delete;          # ← 这一句
-    /tmp/xxx-semantic-bin/sshpass -V&#39;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;它的本意只是：下个 sshpass 二进制，然后把 mktemp -d 建的临时目录删掉。目标本该是 /tmp/tmp.XXXXXX 。&lt;/p&gt;
-&lt;p&gt;关键证据在 file:4249 —— Win32_Process 记录的操作系统层面真实命令行里，$d 两侧的双引号已经没了（ PowerShell 把参数传给原生 exe 时没有转义内层的 &quot;）。&lt;/p&gt;
-&lt;p&gt;我极少在 Windows 上原生执行 claude/codex ，更从来没给过 full access ，没想到第一次给它 full access 就翻船了……&lt;/p&gt;
-&lt;p&gt;太倒霉了。有一万个如果可以让这件事不要发生。如果不是我有云备份，我大概已经去自首了。&lt;/p&gt;
+      <title>看了兄弟们的发言，感觉耗着没啥意义了，拖欠工资超过 3 个月了，能不能被迫离职，有类似经验的兄弟们么。。。</title>
+      <link>https://www.v2ex.com/t/1233123</link>
+      <guid>v2ex-1233123</guid>
+      <pubDate>Mon, 10 Aug 2026 01:05:26 GMT</pubDate>
+      <description>&lt;p&gt;今年 3 4 月 6 7 月没发工资了，领导也明确表示了，未来 789 月大概率没钱发，年底可能会好转，让自己出去有机会了看看工作机会，但是我已经在这家工作好几年了，我没录音。公司如果以没钱为理由，这能不能达到 被迫离职。。。有类似经历的没，指导下&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Linux .sb 突然爆火，你怎么看？</title>
-      <link>https://www.v2ex.com/t/1232993</link>
-      <guid>v2ex-1232993</guid>
-      <pubDate>Sun, 09 Aug 2026 01:35:14 GMT</pubDate>
-      <description>&lt;p&gt;RT.&lt;/p&gt;
+      <title>减肥真的不难啊，为什么要靠打药这种方式呢？</title>
+      <link>https://www.v2ex.com/t/1233124</link>
+      <guid>v2ex-1233124</guid>
+      <pubDate>Mon, 10 Aug 2026 01:11:18 GMT</pubDate>
+      <description>&lt;p&gt;本人从 100 斤增肌到了 145 斤，171 的身高。然后从 145 斤减脂掉到了 130 斤的标准体重。还把抽了八年的烟戒掉了。一路看来真不难，坚持下就行。我看社区里还有打什么替尔泊肽的（我不懂这药，我的认知里觉得是药三分毒，真没必要）。我的朋友圈中还有动手术吸脂的。真的，减肥真那么难? 管住嘴、迈开腿。一咬牙就过来了。减肥、戒烟这种事情真的是你能控制、最容易的事情了&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>大家还有在坚持使用 qq 嘛？为什么？</title>
+      <link>https://www.v2ex.com/t/1233042</link>
+      <guid>v2ex-1233042</guid>
+      <pubDate>Sun, 09 Aug 2026 07:43:07 GMT</pubDate>
+      <description>发现身边还是有不少人使用 qq 的，特别是学生年轻人，以及个别上班族群聊用&lt;br /&gt;&lt;br /&gt;大家的情况呢？</description>
+    </item>
+    <item>
+      <title>大家用自建的梯子多还是买的多，我想自建一个不知道和买的相比哪个更好希望给点建议</title>
+      <link>https://www.v2ex.com/t/1233041</link>
+      <guid>v2ex-1233041</guid>
+      <pubDate>Sun, 09 Aug 2026 07:23:58 GMT</pubDate>
+      <description>大家用自建的梯子多还是买的多，我想自建一个不知道和买的相比哪个更好希望给点建议</description>
     </item>
     <item>
       <title>昨天一天用 Codex 5.6 Sol 搞定的，基于 ESP32-C5 WiFi CSI 睡眠监测，经过一夜的睡眠监测，确实很准</title>
@@ -58,62 +58,28 @@
 </description>
     </item>
     <item>
-      <title>大家还有在坚持使用 qq 嘛？为什么？</title>
-      <link>https://www.v2ex.com/t/1233042</link>
-      <guid>v2ex-1233042</guid>
-      <pubDate>Sun, 09 Aug 2026 07:43:07 GMT</pubDate>
-      <description>发现身边还是有不少人使用 qq 的，特别是学生年轻人，以及个别上班族群聊用&lt;br /&gt;&lt;br /&gt;大家的情况呢？</description>
-    </item>
-    <item>
-      <title>Mac 和 Windows 可以共用一套键鼠吗</title>
-      <link>https://www.v2ex.com/t/1233018</link>
-      <guid>v2ex-1233018</guid>
-      <pubDate>Sun, 09 Aug 2026 03:31:16 GMT</pubDate>
-      <description>想买个 Macmini 和 Windows 共用一套键鼠和显示器，不然桌子上摆不下</description>
-    </item>
-    <item>
-      <title>大家用自建的梯子多还是买的多，我想自建一个不知道和买的相比哪个更好希望给点建议</title>
-      <link>https://www.v2ex.com/t/1233041</link>
-      <guid>v2ex-1233041</guid>
-      <pubDate>Sun, 09 Aug 2026 07:23:58 GMT</pubDate>
-      <description>大家用自建的梯子多还是买的多，我想自建一个不知道和买的相比哪个更好希望给点建议</description>
-    </item>
-    <item>
-      <title>Claude Code 一天花了 68 块，正常吗？</title>
-      <link>https://www.v2ex.com/t/1233003</link>
-      <guid>v2ex-1233003</guid>
-      <pubDate>Sun, 09 Aug 2026 02:04:26 GMT</pubDate>
-      <description>最近几天 Claudecode 用得比较多，昨天看了一下账单，一天扣了 68 ，感觉有点离大谱，其实也没做什么特别夸张的事情，就是让它读项目、改几个文件，中间来回跑了几次测试。白天断断续续用了三四个小时，没想到加起来这么多。&lt;br /&gt;之前偶尔调用 API ，一天也就几块钱，所以突然到 68 块有点没概念。按这个速度算，一个月可能要两千多，感觉还是有点顶不住。&lt;br /&gt;想问下大家，你们平时用 Claudecode 一天大概会花多少？&lt;br /&gt;我是几块钱的时候没感觉，超过 30 块之后就开始注意了。想问问有什么方法可以用到好用有不降智的 claude 模型方案？&lt;br /&gt;也想知道，如果只是日常写代码，一个月预算 300 到 500 块够不够用。</description>
-    </item>
-    <item>
-      <title>你们都如何 review AI 生成的大量代码，保障功能质量</title>
-      <link>https://www.v2ex.com/t/1233025</link>
-      <guid>v2ex-1233025</guid>
-      <pubDate>Sun, 09 Aug 2026 04:36:28 GMT</pubDate>
-      <description>&lt;p&gt;用 codex 这么久，从刚开始的屎山横飞慢慢调教到现在 99%的代码都由 AI 生成，并且上线质量比我自己写的还高，我以为我自己练成了。&lt;/p&gt;
-&lt;p&gt;直到我最近接了一个新模块的需求，灾难发生了。&lt;/p&gt;
-&lt;p&gt;这个模块因为比较老，从代码风格到项目规范都与我一直在维护的模块差异很大，并且由于我从来没碰过这块业务的细节，导致 codex 也没有这个模块的记忆。&lt;/p&gt;
-&lt;p&gt;为了补业务细节，从阅读需求开始我就让 AI 全程参与，并且让$Grill with Docs 一致拷问我，讨论并设计完后生成了一堆 ticket ，AI 照着 ticket 一个个执行并验收。&lt;/p&gt;
-&lt;p&gt;到了 review 代码的时候我人傻了，完全就是屎山，流程模糊、结构混乱、坏味道一堆，看完血压都能飙升，根本看不明白。&lt;/p&gt;
-&lt;p&gt;这两天我一边擦屁股一边在思考，到底问题出在哪，如何去解决。目前总结出来的主要是下面这些，抛砖引玉吧，希望大家踊跃讨论，一起提高驾驭技术。&lt;/p&gt;
-&lt;h2&gt;长上下文导致失忆&lt;/h2&gt;
-&lt;p&gt;我虽然知道长下文会导致失忆，但是这次体感特别明显。我在 &lt;a href=&quot;http://AGENTS.MD&quot; rel=&quot;nofollow&quot;&gt;AGENTS.MD&lt;/a&gt; 里积累了一些项目规范，以前都遵循的挺好，但这次代码中出现大量与 &lt;a href=&quot;http://AGENTS.MD&quot; rel=&quot;nofollow&quot;&gt;AGENTS.MD&lt;/a&gt; 约定不一致的情况，似乎 gpt 失忆了。
-我猜测是不是跟$Grill with Docs 这个 skill 有关，因为之前的项目我只用$Grill Me ，不会让他输出成文件。当上下文中被填充了大量的约束，智商可能就会下降。之前在某篇文章中看到过，给 AI 的提示词尽量给正向引导，而不是大量的禁止约束。&lt;/p&gt;
-&lt;h2&gt;自己总结代码风格而不要让 AI 总结&lt;/h2&gt;
-&lt;p&gt;我们都知道，AI 会参考项目中原有代码，如果原代码是好的，就会学好，反之就会学坏。
-我之前负责的模块之所以 AI 驱动运行良好，是因为经过这么多年的持续优化，已经形成了我个人的编码偏好，写新的代码时候 TA 照着抄就可以了。但是到了新模块并没有我的风格，并且原代码的风格又很差，就导致 AI 有样学样跑偏了。
-后来我让 AI &lt;a href=&quot;http://总结我负责模块的编码偏好并整理成.md&quot; rel=&quot;nofollow&quot;&gt;总结我负责模块的编码偏好并整理成.md&lt;/a&gt; ，让 AI &lt;a href=&quot;http://基于这个.md&quot; rel=&quot;nofollow&quot;&gt;基于这个.md&lt;/a&gt; 的偏好对这坨屎山进行重构。效果还不错，但是因为这个偏好文件是总结性的，比较宽泛抽象，很多细节偏好需要我手动补进去。&lt;/p&gt;
-&lt;h2&gt;技能并不是银弹，反而可能是洪水猛兽&lt;/h2&gt;
-&lt;p&gt;gpt5.6 出来后很多人说跟 superpower 有冲突，我因为很早就卸载 superpower 了，所以没感觉。但是经过这个项目，我感觉不仅仅 superpower 的问题，$Grill Me 那一套可能也有问题。这个项目之初我是装了$Grill Me 全家桶，现在删了只剩$Grill Me 了，因为目前来看效果并不好，并且会导致每一次对话都非常慢，严重降低了反馈效率。即使$Grill Me 我也用的有点力竭，昨天重构时他拷问了我 2 个小时才开始执行，整整 2 个小时！我就在那一直确认，人也不敢离开，结果执行重构也就花了半个小时。现在感觉还是 codex 的 plan 模式舒服，只问重点，并且更容易知道我要什么。&lt;/p&gt;
-&lt;p&gt;先写这么多，我要继续擦屎去了，毕竟留给我的时间不多了。。&lt;/p&gt;
+      <title>今天有没有坚持上班的</title>
+      <link>https://www.v2ex.com/t/1233114</link>
+      <guid>v2ex-1233114</guid>
+      <pubDate>Mon, 10 Aug 2026 00:20:28 GMT</pubDate>
+      <description>&lt;p&gt;你那儿的地铁有没有停运&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>AI 代问？还有这玩意？</title>
-      <link>https://www.v2ex.com/t/1233029</link>
-      <guid>v2ex-1233029</guid>
-      <pubDate>Sun, 09 Aug 2026 05:42:52 GMT</pubDate>
-      <description>如题，今天有一朋友（非工科读研 不太熟悉计算机相关的东西）问我能不能帮她在 GPT 上问些问题，她说小红书咸鱼有很多搞代问服务的问我有没有搞...&lt;br /&gt;&lt;br /&gt;搜了一下还真有不少搞代问服务的，很不理解啊，真有这么多人有代问的需求吗？</description>
+      <title>大家是不是周末就很少来逛论坛了？</title>
+      <link>https://www.v2ex.com/t/1233119</link>
+      <guid>v2ex-1233119</guid>
+      <pubDate>Mon, 10 Aug 2026 00:41:59 GMT</pubDate>
+      <description>周末留意到在线人数 2000 左右&lt;br /&gt;&lt;br /&gt;一到周一，大早上就 3000 多了，上周五看是 5000 多，哈哈哈，还是摸鱼人士多啊&lt;br /&gt;&lt;br /&gt;立秋了，天气开始凉快了，祝好</description>
+    </item>
+    <item>
+      <title>程序员怎么才能找到 965 的工作</title>
+      <link>https://www.v2ex.com/t/1233131</link>
+      <guid>v2ex-1233131</guid>
+      <pubDate>Mon, 10 Aug 2026 01:21:15 GMT</pubDate>
+      <description>&lt;p&gt;想换工作了，想问下干着 965 工作的大佬是怎么找到这份工作的，什么行业
+我是 4 年开发经验，1 年管理经验，想西安能找个 965 的工作吗，求指导&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
