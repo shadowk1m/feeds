@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 10 Aug 2026 23:56:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 01:11:04 GMT</lastBuildDate>
     <item>
       <title>给女儿做了一个 3D 史前动物博物馆，收录 18 种史前动物，免费开源，也分享给 V 友～</title>
       <link>https://www.v2ex.com/t/1233153</link>
@@ -113,6 +113,16 @@
 </description>
     </item>
     <item>
+      <title>不知道大家对“词元”这个翻译，为什么反应这么大</title>
+      <link>https://www.v2ex.com/t/1233318</link>
+      <guid>v2ex-1233318</guid>
+      <pubDate>Mon, 10 Aug 2026 09:40:38 GMT</pubDate>
+      <description>&lt;p&gt;虽然“词元”出现在学术怎章里时间不太长，至少也比 gpt3 时间长吧。
+type-token 的概念在语言学里都上百年了。
+不知道大家吵的“词元”翻译有什么意思？ 如果不是搞 NLP 的，单拿出来 token ，谁会知道这是个“形符”？&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>程序员怎么才能找到 965 的工作</title>
       <link>https://www.v2ex.com/t/1233131</link>
       <guid>v2ex-1233131</guid>
@@ -138,21 +148,54 @@
 </description>
     </item>
     <item>
-      <title>看了兄弟们的发言，感觉耗着没啥意义了，拖欠工资超过 3 个月了，能不能被迫离职，有类似经验的兄弟们么。。。</title>
-      <link>https://www.v2ex.com/t/1233123</link>
-      <guid>v2ex-1233123</guid>
-      <pubDate>Mon, 10 Aug 2026 01:05:26 GMT</pubDate>
-      <description>&lt;p&gt;今年 3 4 月 6 7 月没发工资了，领导也明确表示了，未来 789 月大概率没钱发，年底可能会好转，让自己出去有机会了看看工作机会，但是我已经在这家工作好几年了，我没录音。公司如果以没钱为理由，这能不能达到 被迫离职。。。有类似经历的没，指导下&lt;/p&gt;
-</description>
+      <title>你们的车还能卖多少钱？</title>
+      <link>https://www.v2ex.com/t/1233286</link>
+      <guid>v2ex-1233286</guid>
+      <pubDate>Mon, 10 Aug 2026 08:10:17 GMT</pubDate>
+      <description>感觉最近几年，车的价格下降的很厉害，你们的油车、新能源都还值多少钱。会准备开到报废吗？&lt;br /&gt;&lt;br /&gt;我 17 年的速腾，落地快 15W ，24 年 4.1W 卖给个人（车商 3.5W 收）。&lt;br /&gt;24 年的领克 08 ，落地 20W ，现在估计 12W 左右</description>
     </item>
     <item>
-      <title>不知道大家对“词元”这个翻译，为什么反应这么大</title>
-      <link>https://www.v2ex.com/t/1233318</link>
-      <guid>v2ex-1233318</guid>
-      <pubDate>Mon, 10 Aug 2026 09:40:38 GMT</pubDate>
-      <description>&lt;p&gt;虽然“词元”出现在学术怎章里时间不太长，至少也比 gpt3 时间长吧。
-type-token 的概念在语言学里都上百年了。
-不知道大家吵的“词元”翻译有什么意思？ 如果不是搞 NLP 的，单拿出来 token ，谁会知道这是个“形符”？&lt;/p&gt;
+      <title>重新掌握信息选择权， AI 原生 RSS 阅读器分享，送永久会员</title>
+      <link>https://www.v2ex.com/t/1233346</link>
+      <guid>v2ex-1233346</guid>
+      <pubDate>Mon, 10 Aug 2026 11:22:26 GMT</pubDate>
+      <description>&lt;p&gt;大家好，最近把自己一直在用的 AI 原生 RSS 阅读器 &lt;strong&gt;Tidings&lt;/strong&gt; 正式上线了(官网:&lt;a href=&quot;https://tidings.info&quot; rel=&quot;nofollow&quot;&gt;https://tidings.info&lt;/a&gt;)。&lt;/p&gt;
+&lt;p&gt;做它的原因很简单：我不太想把阅读完全交给推荐算法，形成信息茧房。RSS 能让我自己决定关注谁，但传统阅读器面对大量未读、长文章和论坛讨论时，整理信息的效率还是不够高。所以我做了一个本地优先、AI 原生的桌面阅读器，希望既保留 RSS 的控制权，又减少筛选和消化信息的成本。&lt;/p&gt;
+&lt;h2&gt;主要亮点功能&lt;/h2&gt;
+&lt;p&gt;AI 是 Tidings 阅读流程里最重要的一部分：先从整个未读队列里找出值得关注的主题，再进入单篇文章做摘要、翻译和连续追问。主要功能包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI 雷达&lt;/strong&gt;：全局分析 RSS 未读内容，把相互关联的进展聚合成主题简报。每条判断都保留来源引用，快速筛选高价值值得读内容，并可一键查看原文。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI 摘要、双语翻译和文章追问&lt;/strong&gt;：摘要直接生成在原文上方；翻译按段落与原文对照展示；追问始终围绕当前文章的上下文，不需要把正文复制到另一个聊天工具里。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自选 AI Provider&lt;/strong&gt;：可以配置自己的 AI Provider 、模型和 API Key 。请求从 Mac 直接发送给所选 Provider ，不经过 Tidings 的服务器。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;适配不同内容类型&lt;/strong&gt;：文章、论坛、图片和视频都有独立视图，同时支持 RSS / Atom / JSON Feed 以及 OPML 导入导出。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;AI Radar 将未读内容聚合成主题简报&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/PxlOHiu.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;在原文上方直接生成结构化 AI 摘要&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/w5s7bat.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;翻译不会把原文顶掉，译文按段落紧挨着原文显示：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;原文与 AI 译文按段落对照阅读&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/1j3tMRq.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;遇到没讲透的地方，可以直接围绕当前文章继续追问：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;围绕当前文章进行 AI 追问&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/RRUL7LM.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;视频订阅也没有硬塞进文章列表，而是单独做成了网格视图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;用独立网格视图浏览视频订阅&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/TIRzREJ.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;专门适配了 V2EX 这类论坛内容&lt;/h2&gt;
+&lt;p&gt;市面已有的 RSS 阅读器只把论坛 Feed 当成普通文章列表，点进去仍然只能看到主帖。Tidings 会把 V2EX 识别为论坛源，放进独立的社区视图；除了获取帖子正文，也会&lt;strong&gt;继续深度解析并抓取获取回复&lt;/strong&gt;，并按楼层和对话顺序展示。这样可以在应用里从主题列表一路读完整个讨论，不需要在阅读器与浏览器之间反复切换。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Tidings 的 V2EX 论坛与回帖阅读界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GmaVeJE.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;Tidings 首次启动不会塞入任何默认订阅源，也没有算法信息流。订阅源由你自己添加或通过 OPML 导入，阅读数据优先保存在本机。&lt;/p&gt;
+&lt;p&gt;版本也尽量做得简单：&lt;strong&gt;RSS 基础功能永久免费&lt;/strong&gt;，免费版最多可以添加 150 个订阅源。需要 AI Radar 、摘要、翻译、文章追问、不限订阅源、Markdown 、Obsidian 等第三方集成或 iCloud Sync 时，可以一次性买断 Pro 终身版，没有按月或按年订阅。&lt;/p&gt;
+&lt;p&gt;目前支持 &lt;strong&gt;macOS 12 及以上&lt;/strong&gt;，官网可以直接下载：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://tidings.info&quot; rel=&quot;nofollow&quot;&gt;https://tidings.info&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;另外分享 627 个我自己整理的 RSS 源&lt;/h2&gt;
+&lt;p&gt;我把平时自用的 RSS 目录整理成了一个开源项目，共 627 个源，覆盖 AI 、新闻、科研、独立博客、工程技术、视频、播客和中文内容。其中有不少来自模型公司、研究机构、工程团队和独立作者的一手更新，也收录了 V2EX 等社区源。&lt;/p&gt;
+&lt;p&gt;即使以前没用过 RSS 也没关系：下载安装 Tidings ，在项目页面下载 &lt;code&gt;tidings-all.opml&lt;/code&gt;，然后从软件里导入，整个过程一分钟左右。导入后就能按现有分类阅读，也可以直接在社区视图里刷 V2EX 帖子和回帖。各个主题包都是标准 OPML ，也可以导入其他兼容的 RSS 阅读器。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;627 个 RSS 源及分类下载&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/82C2nAR.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;项目地址：&lt;a href=&quot;https://github.com/fuxiaoai/tidings-rss&quot; rel=&quot;nofollow&quot;&gt;fuxiaoai/tidings-rss&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;中文介绍与下载：&lt;a href=&quot;https://github.com/fuxiaoai/tidings-rss/blob/main/README.zh-CN.md&quot; rel=&quot;nofollow&quot;&gt;README.zh-CN.md&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;给 V2EX 用户的小福利&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;前 30 位在本帖评论并加入微信群的用户，可以免费领取 Tidings &lt;strong&gt;永久 Pro 会员&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;群二维码在 &lt;strong&gt;8 月 17 日前有效&lt;/strong&gt;。本周末二维码过期后，我会在微信群里再抽取 20 位用户，额外送出 &lt;strong&gt;永久 Pro 会员&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;Tidings 用户微信群二维码，8 月 17 日前有效&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/6jigqX5.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
