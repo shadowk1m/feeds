@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 11 Aug 2026 11:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:03:46 GMT</lastBuildDate>
     <item>
       <title>在“减肥”这个话题下刷“能量守恒”的人，可能要刷新一下认知了</title>
       <link>https://www.v2ex.com/t/1233438</link>
@@ -22,50 +22,6 @@
 &lt;p&gt;与其这样，宁可不要这种随机派糖，换周额度增加多一点点。&lt;/p&gt;
 &lt;p&gt;Tibo 应该很享受这种在推特上被人当圣人天天舔的感觉。人性就是这样，有了一点点权力，就要反复咀嚼，古今中外谁也逃不过。&lt;/p&gt;
 &lt;p&gt;历史无数次证明过了，大善人，不如好规则。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>重新掌握信息选择权， AI 原生 RSS 阅读器分享，送永久会员</title>
-      <link>https://www.v2ex.com/t/1233346</link>
-      <guid>v2ex-1233346</guid>
-      <pubDate>Mon, 10 Aug 2026 11:22:26 GMT</pubDate>
-      <description>&lt;p&gt;大家好，最近把自己一直在用的 AI 原生 RSS 阅读器 &lt;strong&gt;Tidings&lt;/strong&gt; 正式上线了(官网:&lt;a href=&quot;https://tidings.info&quot; rel=&quot;nofollow&quot;&gt;https://tidings.info&lt;/a&gt;)。&lt;/p&gt;
-&lt;p&gt;做它的原因很简单：我不太想把阅读完全交给推荐算法，形成信息茧房。RSS 能让我自己决定关注谁，但传统阅读器面对大量未读、长文章和论坛讨论时，整理信息的效率还是不够高。所以我做了一个本地优先、AI 原生的桌面阅读器，希望既保留 RSS 的控制权，又减少筛选和消化信息的成本。&lt;/p&gt;
-&lt;h2&gt;主要亮点功能&lt;/h2&gt;
-&lt;p&gt;AI 是 Tidings 阅读流程里最重要的一部分：先从整个未读队列里找出值得关注的主题，再进入单篇文章做摘要、翻译和连续追问。主要功能包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;AI 雷达&lt;/strong&gt;：全局分析 RSS 未读内容，把相互关联的进展聚合成主题简报。每条判断都保留来源引用，快速筛选高价值值得读内容，并可一键查看原文。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI 摘要、双语翻译和文章追问&lt;/strong&gt;：摘要直接生成在原文上方；翻译按段落与原文对照展示；追问始终围绕当前文章的上下文，不需要把正文复制到另一个聊天工具里。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;自选 AI Provider&lt;/strong&gt;：可以配置自己的 AI Provider 、模型和 API Key 。请求从 Mac 直接发送给所选 Provider ，不经过 Tidings 的服务器。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;适配不同内容类型&lt;/strong&gt;：文章、论坛、图片和视频都有独立视图，同时支持 RSS / Atom / JSON Feed 以及 OPML 导入导出。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;AI Radar 将未读内容聚合成主题简报&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/PxlOHiu.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;在原文上方直接生成结构化 AI 摘要&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/w5s7bat.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;翻译不会把原文顶掉，译文按段落紧挨着原文显示：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;原文与 AI 译文按段落对照阅读&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/1j3tMRq.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;遇到没讲透的地方，可以直接围绕当前文章继续追问：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;围绕当前文章进行 AI 追问&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/RRUL7LM.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;视频订阅也没有硬塞进文章列表，而是单独做成了网格视图：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;用独立网格视图浏览视频订阅&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/TIRzREJ.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;专门适配了 V2EX 这类论坛内容&lt;/h2&gt;
-&lt;p&gt;市面已有的 RSS 阅读器只把论坛 Feed 当成普通文章列表，点进去仍然只能看到主帖。Tidings 会把 V2EX 识别为论坛源，放进独立的社区视图；除了获取帖子正文，也会&lt;strong&gt;继续深度解析并抓取获取回复&lt;/strong&gt;，并按楼层和对话顺序展示。这样可以在应用里从主题列表一路读完整个讨论，不需要在阅读器与浏览器之间反复切换。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Tidings 的 V2EX 论坛与回帖阅读界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/GmaVeJE.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;Tidings 首次启动不会塞入任何默认订阅源，也没有算法信息流。订阅源由你自己添加或通过 OPML 导入，阅读数据优先保存在本机。&lt;/p&gt;
-&lt;p&gt;版本也尽量做得简单：&lt;strong&gt;RSS 基础功能永久免费&lt;/strong&gt;，免费版最多可以添加 150 个订阅源。需要 AI Radar 、摘要、翻译、文章追问、不限订阅源、Markdown 、Obsidian 等第三方集成或 iCloud Sync 时，可以一次性买断 Pro 终身版，没有按月或按年订阅。&lt;/p&gt;
-&lt;p&gt;目前支持 &lt;strong&gt;macOS 12 及以上&lt;/strong&gt;，官网可以直接下载：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://tidings.info&quot; rel=&quot;nofollow&quot;&gt;https://tidings.info&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;另外分享 627 个我自己整理的 RSS 源&lt;/h2&gt;
-&lt;p&gt;我把平时自用的 RSS 目录整理成了一个开源项目，共 627 个源，覆盖 AI 、新闻、科研、独立博客、工程技术、视频、播客和中文内容。其中有不少来自模型公司、研究机构、工程团队和独立作者的一手更新，也收录了 V2EX 等社区源。&lt;/p&gt;
-&lt;p&gt;即使以前没用过 RSS 也没关系：下载安装 Tidings ，在项目页面下载 &lt;code&gt;tidings-all.opml&lt;/code&gt;，然后从软件里导入，整个过程一分钟左右。导入后就能按现有分类阅读，也可以直接在社区视图里刷 V2EX 帖子和回帖。各个主题包都是标准 OPML ，也可以导入其他兼容的 RSS 阅读器。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;627 个 RSS 源及分类下载&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/82C2nAR.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;项目地址：&lt;a href=&quot;https://github.com/fuxiaoai/tidings-rss&quot; rel=&quot;nofollow&quot;&gt;fuxiaoai/tidings-rss&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;中文介绍与下载：&lt;a href=&quot;https://github.com/fuxiaoai/tidings-rss/blob/main/README.zh-CN.md&quot; rel=&quot;nofollow&quot;&gt;README.zh-CN.md&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;给 V2EX 用户的小福利&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;前 30 位在本帖评论并加入微信群的用户，可以免费领取 Tidings &lt;strong&gt;永久 Pro 会员&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;群二维码在 &lt;strong&gt;8 月 17 日前有效&lt;/strong&gt;。本周末二维码过期后，我会在微信群里再抽取 20 位用户，额外送出 &lt;strong&gt;永久 Pro 会员&lt;/strong&gt;。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;Tidings 用户微信群二维码，8 月 17 日前有效&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/6jigqX5.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -479,49 +435,29 @@
 </description>
     </item>
     <item>
-      <title>[抽奖！送 1500 元 DeepSeek 官方额度！]</title>
-      <link>https://www.v2ex.com/t/1233345</link>
-      <guid>v2ex-1233345</guid>
-      <pubDate>Mon, 10 Aug 2026 11:19:07 GMT</pubDate>
-      <description>&lt;h1&gt;懒猫 AI 算力舱 X5 可以本地运行 DeepSeek-V4-Flash 了！&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/6MIM3rVZ.png&quot;/&gt;&lt;/p&gt;
-&lt;h1&gt;懒猫 AI 算力舱，1 天只要 0.5 元电费，128G 内存，2070T 算力&lt;/h1&gt;
-&lt;h1&gt;无限 token ，AI 本地部署真正进入能干活的时代！&lt;/h1&gt;
-&lt;p&gt;为了庆祝懒猫算力舱 X5 新品上市，本次活动懒猫微服送出 1500 元的 DeepSeek 官方额度。可无缝衔接懒猫微服小龙猫，畅玩 AI Agent ，解放双手。API 服务涨价也不怕，懒猫算力舱，让 DeepSeek-V4-Flash 在本地“安家”&lt;/p&gt;
-&lt;p&gt;了解更多： &lt;a href=&quot;https://lazycat.cloud/ai-pod&quot; rel=&quot;nofollow&quot;&gt;https://lazycat.cloud/ai-pod&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;不管您是想要本地部署 DeepSeek,还是想要 DeepSeek 官方额度&lt;/p&gt;
-&lt;p&gt;都快来参与本次活动吧&lt;/p&gt;
-&lt;h1&gt;活动奖品（ DeepSeek 开放平台）&lt;/h1&gt;
-&lt;p&gt;一等奖（ 1 名）：500 元 DeepSeek API 额度+399 元懒猫微服优惠券&lt;/p&gt;
-&lt;p&gt;二等奖（ 2 名）：200 元 DeepSeek API 额度+399 元懒猫微服优惠券&lt;/p&gt;
-&lt;p&gt;三等奖（ 6 名）：100 元 DeepSeek API 额度+399 元懒猫微服优惠券&lt;/p&gt;
-&lt;h1&gt;活动规则&lt;/h1&gt;
-&lt;p&gt;- 在评论区留言任意内容或者聊聊：你平时用 DeepSeek 最常做什么？或者你最想用 V4-Flash 做什么？&lt;/p&gt;
-&lt;p&gt;- 添加微信：lanmaoweifu      备注：V2EX&lt;/p&gt;
-&lt;p&gt;- 邀请您加入“懒猫微服用户交流群”，有任意懒猫微服群即可，无需重复进群&lt;/p&gt;
-&lt;h1&gt;活动时间&lt;/h1&gt;
-&lt;p&gt;即日起至 2026 年 8 月 14 日（周五晚 18:00 截止统计名单）&lt;/p&gt;
-&lt;h1&gt;开奖方式&lt;/h1&gt;
-&lt;p&gt;活动为多平台同步进行，最终汇总统计名单&lt;/p&gt;
-&lt;p&gt;8 月 14 日晚上 20：00  [懒猫微服直播间] 用统计名单直播抽奖&lt;/p&gt;
-&lt;p&gt;欢迎关注懒猫微服视频号，抖音和小红书，观看直播&lt;/p&gt;
-&lt;h1&gt;远程试用预告：没买也能玩！&lt;/h1&gt;
-&lt;p&gt;后续我们还会开放远程试用体验，想要体验懒猫算力舱的大佬可以进群等待我们的体验活动。
-第一时间上手，零成本感受本地部署 DeepSeek-V4-Flash 的丝滑！&lt;/p&gt;
-&lt;p&gt;具体时间请进群后留意后续通知。&lt;/p&gt;
-&lt;h1&gt;特别提醒&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;进入活动群获得中奖资格&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;中奖用户需提供参与活动截图 + 中奖私信作为验证凭证&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;奖品不可折现，懒猫微服优惠券不可用于懒猫微服基础款&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
+      <title>聊聊我从赚 5 万到亏 6 万的的经历</title>
+      <link>https://www.v2ex.com/t/1233435</link>
+      <guid>v2ex-1233435</guid>
+      <pubDate>Tue, 11 Aug 2026 01:53:39 GMT</pubDate>
+      <description>&lt;p&gt;我的经历大致如下：&lt;/p&gt;
+&lt;p&gt;六月份的存储有一波大行情， 相信很多人买了存储的人的收益率在那时估计都是上半年最高的，我当时买了南方两倍做多海力士，入场时间算比较晚，成本均价 98 ， 当时想着赚个 20%-30% 就走，买入后几天就行情跌跌涨涨的，但是很快就突破了前高到了 126 ， 此时收益率已经有 30%+ 了，其实已经达到了一开始的目标了，但看着一天涨个 20%+，于是想着多等个一两天，多赚一点再走。&lt;/p&gt;
+&lt;p&gt;后面一个月里，虽然有下跌，但是整体是行情是上行的， 记得 6 月 25 号，两倍海力士来到了最高价，到了 193.65 ， 我当时收益来到了 96% 多，此时，有点想卖了，及时落袋为安，但是，想着再涨几个点，收益率就破 100% 了，今年还没有哪个股票收益翻倍了呢，于是想着到 200 再卖。&lt;/p&gt;
+&lt;p&gt;后面的故事大家都知道了，存储股进入了长期的下跌震荡区，南方两倍做多海力士从高点陆续跌破 120 、100 、80 、70 。&lt;/p&gt;
+&lt;p&gt;这里就是我犯的的第二个错误：交易开始，没有设置止损点，在持续下跌时，乐观地以为只是回调阶段，回调结束肯定还会上涨的。刚开始只是利润回吐，慢慢地变成小亏， 再到 变成 亏损 10%、20%、40%，最终抗不住了，我决定割肉，61 卖出了。虽然卖出的后几天，价格涨回了 69 ， 但从现在最新价 30 左右看来，如果当时不割肉或者选择加仓，现在将亏损更多。&lt;/p&gt;
+&lt;p&gt;第三个错误： 在经历亏损后，在某天下跌了 25% 后，想着降低持仓成本，博个第二天反弹，融资加仓过两次，好在数量不多。&lt;/p&gt;
+&lt;p&gt;买卖点截图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://ucarecdn.com/26787f30-7a0b-439a-ac0c-abaccfa9fede/-/preview/676x1000/&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;赚钱的时候，如果不卖出，赚再多那也只是账面数字，而亏损卖出时，确是实实在在的亏损。上涨和下跌天然存在不对称性，翻了几倍的股票只要来一次腰斩，就能让 60-70% 的人收益归 0 甚至出现亏损。&lt;/p&gt;
+&lt;p&gt;这次经历, 精准踩中了几个雷点： 不设置止盈、止损点， 下跌趋势未反转前加仓试图降低成本， 融资加杠杆。&lt;/p&gt;
+&lt;p&gt;投资中还有哪些容易犯的错误，以及大家今年收益如何，欢迎留言聊聊～&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>求助 PC 鼠标丢帧问题，困扰了几个月了</title>
+      <link>https://www.v2ex.com/t/1233447</link>
+      <guid>v2ex-1233447</guid>
+      <pubDate>Tue, 11 Aug 2026 02:07:22 GMT</pubDate>
+      <description>鼠标丢帧的具体表现就是正常移动的情况下会突然卡在一个地方不动 0.2 秒，就跟信号中断了一样的感觉，然后断断续续的移动 非常卡手。&lt;br /&gt;&lt;br /&gt;电脑开机后在输入密码的界面有时候也会卡手。&lt;br /&gt;&lt;br /&gt;电脑系统是 win10 的时候已经有这个问题了。然后又升级到了 win11 ，还是有这个问题。&lt;br /&gt;&lt;br /&gt;前几天突发奇想用 codex 尝试解决也没有解决。&lt;br /&gt;&lt;br /&gt;已经更换过鼠标，排除了是鼠标的问题&lt;br /&gt;&lt;br /&gt;有没有大佬知道这是啥情况，不想换电脑</description>
     </item>
   </channel>
 </rss>
