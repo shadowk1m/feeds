@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 14 Aug 2026 23:43:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 00:36:28 GMT</lastBuildDate>
     <item>
       <title>想起一件招笑的小事</title>
       <link>https://www.v2ex.com/t/1234269</link>
@@ -23,18 +23,6 @@
 </description>
     </item>
     <item>
-      <title>脑供血不足晕倒</title>
-      <link>https://www.v2ex.com/t/1234248</link>
-      <guid>v2ex-1234248</guid>
-      <pubDate>Fri, 14 Aug 2026 00:19:05 GMT</pubDate>
-      <description>&lt;p&gt;昨晚上本来在躺着，然后想上厕所，就起身去厕所，站着上厕所的时候感觉眼前一黑，再睁眼的时候就是躺在浴室地上，脑子完全空白，我是谁 我在哪 我在干什么&lt;/p&gt;
-&lt;p&gt;然后整个人都是傻的，只听到手机响也找不到手机，刚才在干什么也完全不记得了。然后手机就出现在了我最不想见到的地方——马桶里。&lt;/p&gt;
-&lt;p&gt;人是傻的也没想那么多，直接把手机捞出来放在水龙头下面猛猛冲。然后身上全湿了，和个傻子一样就回去又坐着了。感觉下巴有点疼，应该是倒下的时候磕到了水龙头，后脑勺有点疼，可能是磕到墙壁了。坐着观察了一下发现头也没有继续痛，慢慢缓解了，就休息了。&lt;/p&gt;
-&lt;p&gt;我朋友不放心，让我预约个脑部 CT 看看，一会请假去医院。&lt;/p&gt;
-&lt;p&gt;果然人老了干什么都很心酸。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>第一次在本站拉黑人</title>
       <link>https://www.v2ex.com/t/1234332</link>
       <guid>v2ex-1234332</guid>
@@ -49,6 +37,14 @@
       <guid>v2ex-1234281</guid>
       <pubDate>Fri, 14 Aug 2026 02:28:46 GMT</pubDate>
       <description>手上一直戴的是一枚银戒指，情侣对戒，毕业第一份工资买的&lt;br /&gt;婚礼交换的也是这枚戒指，俩人戴了十八年了&lt;br /&gt;人到 40 突然想戴金戒指了&lt;br /&gt;&lt;br /&gt;最近这些年攒了一些黄金&lt;br /&gt;七夕我先生问我要啥礼物&lt;br /&gt;我想来想去，最后决定让他出个工费打个金戒指&lt;br /&gt;&lt;br /&gt;但我经常撸铁，银戒指是光面的看不出磨损&lt;br /&gt;两三百块钱的东西刮花了也不是很心疼&lt;br /&gt;金戒指一方面材质比较软，另一方面也不耐刮&lt;br /&gt;所以很想知道平时佩戴金戒指并且经常撸铁的佬们怎么解决这个问题的&lt;br /&gt;&lt;br /&gt;去小红书搜了一圈，全是戒指被哑铃拉丝刮得面目全非的情况&lt;br /&gt;根本没找到一个好的解决方案&lt;br /&gt;练的时候取下来对我这个健忘症来说又几乎等于丢弃&lt;br /&gt;是不是无解了？</description>
+    </item>
+    <item>
+      <title>公司本地部署开源模型</title>
+      <link>https://www.v2ex.com/t/1234254</link>
+      <guid>v2ex-1234254</guid>
+      <pubDate>Fri, 14 Aug 2026 01:05:14 GMT</pubDate>
+      <description>&lt;p&gt;想知道公司里部署一个可以供 20-40 人用的开源模型，需要大概怎样的硬件配置，一般会做文档处理，以及一些简单的编程&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>讲一个我的朋友的人生故事吧——青年、骗子、爱情与生活</title>
@@ -117,11 +113,15 @@
 </description>
     </item>
     <item>
-      <title>公司本地部署开源模型</title>
-      <link>https://www.v2ex.com/t/1234254</link>
-      <guid>v2ex-1234254</guid>
-      <pubDate>Fri, 14 Aug 2026 01:05:14 GMT</pubDate>
-      <description>&lt;p&gt;想知道公司里部署一个可以供 20-40 人用的开源模型，需要大概怎样的硬件配置，一般会做文档处理，以及一些简单的编程&lt;/p&gt;
+      <title>deepseek-harness 初体验，讨论下呢</title>
+      <link>https://www.v2ex.com/t/1234264</link>
+      <guid>v2ex-1234264</guid>
+      <pubDate>Fri, 14 Aug 2026 01:40:22 GMT</pubDate>
+      <description>&lt;p&gt;PS：
+1 、我现在主力是 M4max 128G+4T macpro ，跑 codex 经常会卡，需要经常重启；
+2 、我是 codex CHATGPT 200 刀用户；每天都是 5.6sol 极高 极速；&lt;/p&gt;
+&lt;p&gt;昨天晚上下班刷哔哩哔哩，很多 deepseek-harness 直播，下载跑了下，目前是网页版本启动的（ PS：codex 内存泄露太厉害了，估计是 ds 现在选择网页版本的原因）；&lt;/p&gt;
+&lt;p&gt;搞了个管理系统，肉眼可见的比之前的强多了，又开发了三维的 three.js ，比 codex 快的非常多，输出效果对比了 codex 差不多；后端的还没试过，今天白天试试写 spring boot 和 Node 试试看&lt;/p&gt;
 </description>
     </item>
   </channel>
