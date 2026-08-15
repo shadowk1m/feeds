@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 15 Aug 2026 04:31:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:15:28 GMT</lastBuildDate>
     <item>
       <title>没想到我也走到了仲裁的道路上</title>
       <link>https://www.v2ex.com/t/1234453</link>
@@ -119,18 +119,31 @@
 </description>
     </item>
     <item>
+      <title>在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731</title>
+      <link>https://www.v2ex.com/t/1234521</link>
+      <guid>v2ex-1234521</guid>
+      <pubDate>Fri, 14 Aug 2026 22:52:25 GMT</pubDate>
+      <description>&lt;p&gt;这样填即可：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Base URL: &lt;code&gt;&lt;a href=&quot;https://edge.v2ex.com/chat/v1&quot; rel=&quot;nofollow&quot;&gt;https://edge.v2ex.com/chat/v1&lt;/a&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Model: &lt;code&gt;coder-ds4-0731&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/UZGb8NtT.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;API token 可以从这里获得：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://edge.v2ex.com/settings/tokens&quot; rel=&quot;nofollow&quot;&gt;https://edge.v2ex.com/settings/tokens&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;关于 V2EX 提供的 LLM API 服务的用量规则：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://edge.v2ex.com/help/quota&quot; rel=&quot;nofollow&quot;&gt;https://edge.v2ex.com/help/quota&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;然后就可以愉快地使用了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/0y5Q287F.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>大冤种！刚全额续费 Gemini Pro，给我账号封了！</title>
       <link>https://www.v2ex.com/t/1234459</link>
       <guid>v2ex-1234459</guid>
       <pubDate>Fri, 14 Aug 2026 10:36:57 GMT</pubDate>
       <description>对 Gemini 感情很深，留下了非常多的交互。&lt;br /&gt;&lt;br /&gt;上个月底刚刚在官网续费了一年，今天发现突然就提示“Gemini 目前不支持你所在的地区。敬请期待！”，账号有种凉凉了的感觉。试了很多遍，发现不是代理的问题，只要一登录就有这个提示了，不登录还能免费用用，真是大冤种啊！&lt;br /&gt;&lt;br /&gt;都知道 Gemini 目前这个阶段是 tough period ，所以特意续费支持。&lt;br /&gt;&lt;br /&gt;真是有种“我本将心向明月，奈何明月照沟渠”的苍凉感。&lt;br /&gt;&lt;br /&gt;现在首要的目标：&lt;br /&gt;1. 希望尽可能恢复 Gemini 的使用；&lt;br /&gt;2. 如果确实不行，希望至少能退款吧...&lt;br /&gt;&lt;br /&gt;大家有谁也遇到类似的情况了么？能否分享一点相关经验？谢谢！</description>
-    </item>
-    <item>
-      <title>有丰田荣放车主吗？值得购买吗？</title>
-      <link>https://www.v2ex.com/t/1234419</link>
-      <guid>v2ex-1234419</guid>
-      <pubDate>Fri, 14 Aug 2026 08:39:03 GMT</pubDate>
-      <description>最近比较上头，计划年底购车，目前看丰田荣放还不错，</description>
     </item>
   </channel>
 </rss>
