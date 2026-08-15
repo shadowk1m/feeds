@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 15 Aug 2026 03:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 03:59:33 GMT</lastBuildDate>
     <item>
       <title>第一次在本站拉黑人</title>
       <link>https://www.v2ex.com/t/1234332</link>
@@ -95,15 +95,6 @@
 </description>
     </item>
     <item>
-      <title>大家有什么好的资产汇总管理方式吗？</title>
-      <link>https://www.v2ex.com/t/1234316</link>
-      <guid>v2ex-1234316</guid>
-      <pubDate>Fri, 14 Aug 2026 03:30:27 GMT</pubDate>
-      <description>&lt;p&gt;国内银行卡多张就不说了，重点是港卡、港股、国外券商这类。
-如何定期方便地回顾自己所有资产的情况？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>支付宝 iOS 碰一下的支付流程改变了</title>
       <link>https://www.v2ex.com/t/1234346</link>
       <guid>v2ex-1234346</guid>
@@ -111,19 +102,29 @@
       <description>不知道是支付宝改了，还是从某个 iOS 版本开始，&lt;a target=&quot;_blank&quot; href=&quot;http://进入支付宝.app&quot; rel=&quot;nofollow noopener&quot;&gt;进入支付宝.app&lt;/a&gt; 然后碰一下也再需要点一下了&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://之前的版本进入支付宝.app&quot; rel=&quot;nofollow noopener&quot;&gt;之前的版本进入支付宝.app&lt;/a&gt; 之后，碰一下可以直接完成支付</description>
     </item>
     <item>
+      <title>突然灵光一个点子，想做一款浏览器插件，本来可以立即 Coding，但止住了，各位一起讨论讨论引发的一些想法</title>
+      <link>https://www.v2ex.com/t/1234535</link>
+      <guid>v2ex-1234535</guid>
+      <pubDate>Sat, 15 Aug 2026 01:29:05 GMT</pubDate>
+      <description>&lt;p&gt;先说点子：平时经常用 Claude Code CLI ，Codex CLI ，Pi Agent ，Gemini CLI ，在安装或者更新的时候，基本到官网那里去，复制一下命令，然后回到电脑，打开终端，粘贴命令，回车运行。&lt;br/&gt;
+现在有没有一款浏览器插件，能识别网页一些需要电脑终端跑起来的命令(就不是只有上面的举例了)，很多网页的做法都是给复制命令，有没有一款插件能够连通电脑终端，然后识别到网页有可以跑的命令后，有个 run 按钮，一键就能调用电脑终端跑起来。  &lt;/p&gt;
+&lt;p&gt;讨论讨论：&lt;br/&gt;
+1 、AI 时代，有想法之后，可能马上借助 AI 进行 Coding ，先把想法实现了再说。&lt;br/&gt;
+(作为一名老牌程序员，我自己是有一个执念的，就是没有经过推敲的产品，是经不起市场考验的，所以我不太喜欢那些发&quot;自己 Coding 了一个&lt;strong&gt;产品，一个钟做出了&lt;/strong&gt;产品&quot;的，不喜勿喷，理性讨论)&lt;/p&gt;
+&lt;p&gt;2 、AI 时代，也没法阻止别人有上面的行为，哪要怎么甄别好的产品，不好的产品&lt;br/&gt;
+(其实这个也没法怎么讨论，用过就知道了，类似除了上面的 CLI ，我还试用了一堆 Agent 工具)   &lt;/p&gt;
+&lt;p&gt;3 、上面的点子&lt;br/&gt;
+(刚查了一下，有一个类似的插件，不过需要结合 VS Code)   &lt;/p&gt;
+&lt;p&gt;4 、很多人(包括不懂 Coding 的)执着于马上出个产品&lt;br/&gt;
+(其实就是想给自己“镀金”)&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>你们周末都是怎么快速放松的？</title>
       <link>https://www.v2ex.com/t/1234355</link>
       <guid>v2ex-1234355</guid>
       <pubDate>Fri, 14 Aug 2026 05:41:07 GMT</pubDate>
       <description>&lt;p&gt;正经方式哈，自从有了孩子之后，周末的时间也越来越少了，工作压力也大，大家有什么好的快速调节的方式吗&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>接力一下 local.ai</title>
-      <link>https://www.v2ex.com/t/1234324</link>
-      <guid>v2ex-1234324</guid>
-      <pubDate>Fri, 14 Aug 2026 03:53:45 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://local.ai/alliot/invite&quot; rel=&quot;nofollow&quot;&gt;https://local.ai/alliot/invite&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
