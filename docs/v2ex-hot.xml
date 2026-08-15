@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 15 Aug 2026 22:43:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 23:10:13 GMT</lastBuildDate>
     <item>
       <title>仅以此文，记录 6 年来单纯又愚蠢的自己和成瘾的她</title>
       <link>https://www.v2ex.com/t/1234566</link>
@@ -28,26 +28,6 @@
 (刚查了一下，有一个类似的插件，不过需要结合 VS Code)   &lt;/p&gt;
 &lt;p&gt;4 、很多人(包括不懂 Coding 的)执着于马上出个产品&lt;br/&gt;
 (其实就是想给自己“镀金”)&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731</title>
-      <link>https://www.v2ex.com/t/1234521</link>
-      <guid>v2ex-1234521</guid>
-      <pubDate>Fri, 14 Aug 2026 22:52:25 GMT</pubDate>
-      <description>&lt;p&gt;这样填即可：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Base URL: &lt;code&gt;&lt;a href=&quot;https://edge.v2ex.com/chat/v1&quot; rel=&quot;nofollow&quot;&gt;https://edge.v2ex.com/chat/v1&lt;/a&gt;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Model: &lt;code&gt;coder-ds4-0731&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/UZGb8NtT.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;API token 可以从这里获得：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://edge.v2ex.com/settings/tokens&quot; rel=&quot;nofollow&quot;&gt;https://edge.v2ex.com/settings/tokens&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;关于 V2EX 提供的 LLM API 服务的用量规则：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://edge.v2ex.com/help/quota&quot; rel=&quot;nofollow&quot;&gt;https://edge.v2ex.com/help/quota&lt;/a&gt;&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;然后就可以愉快地使用了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/0y5Q287F.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -132,6 +112,22 @@
 &lt;blockquote&gt;
 &lt;p&gt;很多人注册后直接关闭页面，导致邀请关系没有绑定。完成邮箱验证并登录后，记得重新进入邀请链接完成授权，这是最关键的一步。&lt;/p&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    <item>
+      <title>罗技的静音鼠标怎么越做越差了？有国产平替吗？</title>
+      <link>https://www.v2ex.com/t/1234569</link>
+      <guid>v2ex-1234569</guid>
+      <pubDate>Sat, 15 Aug 2026 04:37:25 GMT</pubDate>
+      <description>&lt;p&gt;静音鼠标爱好者，办公室里不喜欢鼠标点击咔哒咔哒的声音。&lt;/p&gt;
+&lt;p&gt;原来一直用的款是罗技 M590 （已停产），gpt 查了一下说后续改款是 M650 ，结果买回来感觉完全不是一个东西。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;握持手感类似，好评&lt;/li&gt;
+&lt;li&gt;按键削减很厉害，原先 M590 是有侧面 2 按键+鼠标中键靠左/靠右拨动，这四个扩展按键的，现在只剩侧键了，中键改成联动逻辑，我很不喜欢。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;问下万能的 v 友，不知道还有没有其他平替款，要求是分应用能设置四个扩展按键绑定任意键盘快捷键。&lt;/p&gt;
+&lt;p&gt;我现在不能鼠标直接点按 ctrl+W / ctrl+T 之类的快捷键的话，感觉浏览器使用效率都滴了一大截&lt;/p&gt;
+&lt;p&gt;（另外我感觉罗技品控也变拉了，长按左键会有中断的情况）&lt;/p&gt;
 </description>
     </item>
   </channel>
