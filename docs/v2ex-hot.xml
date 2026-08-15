@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 15 Aug 2026 08:51:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 09:15:22 GMT</lastBuildDate>
     <item>
       <title>没想到我也走到了仲裁的道路上</title>
       <link>https://www.v2ex.com/t/1234453</link>
@@ -79,14 +79,6 @@
       <description>对 Gemini 感情很深，留下了非常多的交互。&lt;br /&gt;&lt;br /&gt;上个月底刚刚在官网续费了一年，今天发现突然就提示“Gemini 目前不支持你所在的地区。敬请期待！”，账号有种凉凉了的感觉。试了很多遍，发现不是代理的问题，只要一登录就有这个提示了，不登录还能免费用用，真是大冤种啊！&lt;br /&gt;&lt;br /&gt;都知道 Gemini 目前这个阶段是 tough period ，所以特意续费支持。&lt;br /&gt;&lt;br /&gt;真是有种“我本将心向明月，奈何明月照沟渠”的苍凉感。&lt;br /&gt;&lt;br /&gt;现在首要的目标：&lt;br /&gt;1. 希望尽可能恢复 Gemini 的使用；&lt;br /&gt;2. 如果确实不行，希望至少能退款吧...&lt;br /&gt;&lt;br /&gt;大家有谁也遇到类似的情况了么？能否分享一点相关经验？谢谢！</description>
     </item>
     <item>
-      <title>做一个思想实验，如果 dsh 没有打着 deepseek 的旗号</title>
-      <link>https://www.v2ex.com/t/1234524</link>
-      <guid>v2ex-1234524</guid>
-      <pubDate>Fri, 14 Aug 2026 23:55:26 GMT</pubDate>
-      <description>&lt;p&gt;而是一个名不见经传的个人开发者推出的，你怎么评价它&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>仲裁胜利-记一次不太艰辛的仲裁之路</title>
       <link>https://www.v2ex.com/t/1234526</link>
       <guid>v2ex-1234526</guid>
@@ -106,19 +98,11 @@
 </description>
     </item>
     <item>
-      <title>使用 macbook 的话尽量使用知名品牌的无线鼠标吧</title>
-      <link>https://www.v2ex.com/t/1234456</link>
-      <guid>v2ex-1234456</guid>
-      <pubDate>Fri, 14 Aug 2026 10:24:40 GMT</pubDate>
-      <description>&lt;p&gt;原本使用的 漫步者（ EDIFIER ） HECATE G3M PRO 这个鼠标，在 windows pc 下无论是蓝牙还是 usb 2.4g 使用都很流畅正常。&lt;/p&gt;
-&lt;p&gt;最近换了 macbook pro 之后，一开始使用蓝牙模式来连这个鼠标，然后偶尔会解锁后鼠标的回报率骤降只有一半，去网页测试的时候，只有 20-30hz 那种，这时候需要重置蓝牙或者重新开关鼠标才有机会恢复，恢复到 60-70hz 。&lt;/p&gt;
-&lt;p&gt;因为这种骤降的情况太经常出现了，就买了一个 type c 转 usb 的，然后使用 usb 2.4g 的方式连接。然后就发现 3 个 type c 口就只有一个口可用，而且有时候解锁后就不生效了，需要去拔插这个 type c 的转接头才行。&lt;/p&gt;
-&lt;p&gt;然后以为是买的转接头太差了（ 3 元的，转 usb 2.0 的），就换了个绿联 10 元的（转 usb 3.0 ）。结果依旧如此，有时候不行。&lt;/p&gt;
-&lt;p&gt;太折磨了。&lt;/p&gt;
-&lt;p&gt;然后今天又出现不行的时候，拔插也不生效，然后想起柜子里有个几年的罗技 m590 ，外壳有点损坏但是鼠标似乎是可以的。&lt;/p&gt;
-&lt;p&gt;结果一连 m590 的 usb 发射器，鼠标就直接可以使用，然后又换 HECATE G3M PRO 的发射器，就不行。&lt;/p&gt;
-&lt;p&gt;然后试了下 m590 的蓝牙模式，结果发现很顺畅，测试回报率，直接拉到 120hz （显示器分辨率的设置）。而且锁屏解锁了几次，连回来都一切正常。&lt;/p&gt;
-&lt;p&gt;换了 macbook 两个月，被这个鼠标问题折磨了两个月，居然换个老鼠标就好了。看来 macbook 还是不要搭配这些国产小众、没有 mac 版驱动的鼠标了&lt;/p&gt;
+      <title>做一个思想实验，如果 dsh 没有打着 deepseek 的旗号</title>
+      <link>https://www.v2ex.com/t/1234524</link>
+      <guid>v2ex-1234524</guid>
+      <pubDate>Fri, 14 Aug 2026 23:55:26 GMT</pubDate>
+      <description>&lt;p&gt;而是一个名不见经传的个人开发者推出的，你怎么评价它&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -133,6 +117,22 @@
 &lt;p&gt;结果两极分化:
 看得出来的人一眼就能看出来，还以为我在侮辱他的智商
 看不出来的人要找半天，最后都找不出来什么意思&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>使用 macbook 的话尽量使用知名品牌的无线鼠标吧</title>
+      <link>https://www.v2ex.com/t/1234456</link>
+      <guid>v2ex-1234456</guid>
+      <pubDate>Fri, 14 Aug 2026 10:24:40 GMT</pubDate>
+      <description>&lt;p&gt;原本使用的 漫步者（ EDIFIER ） HECATE G3M PRO 这个鼠标，在 windows pc 下无论是蓝牙还是 usb 2.4g 使用都很流畅正常。&lt;/p&gt;
+&lt;p&gt;最近换了 macbook pro 之后，一开始使用蓝牙模式来连这个鼠标，然后偶尔会解锁后鼠标的回报率骤降只有一半，去网页测试的时候，只有 20-30hz 那种，这时候需要重置蓝牙或者重新开关鼠标才有机会恢复，恢复到 60-70hz 。&lt;/p&gt;
+&lt;p&gt;因为这种骤降的情况太经常出现了，就买了一个 type c 转 usb 的，然后使用 usb 2.4g 的方式连接。然后就发现 3 个 type c 口就只有一个口可用，而且有时候解锁后就不生效了，需要去拔插这个 type c 的转接头才行。&lt;/p&gt;
+&lt;p&gt;然后以为是买的转接头太差了（ 3 元的，转 usb 2.0 的），就换了个绿联 10 元的（转 usb 3.0 ）。结果依旧如此，有时候不行。&lt;/p&gt;
+&lt;p&gt;太折磨了。&lt;/p&gt;
+&lt;p&gt;然后今天又出现不行的时候，拔插也不生效，然后想起柜子里有个几年的罗技 m590 ，外壳有点损坏但是鼠标似乎是可以的。&lt;/p&gt;
+&lt;p&gt;结果一连 m590 的 usb 发射器，鼠标就直接可以使用，然后又换 HECATE G3M PRO 的发射器，就不行。&lt;/p&gt;
+&lt;p&gt;然后试了下 m590 的蓝牙模式，结果发现很顺畅，测试回报率，直接拉到 120hz （显示器分辨率的设置）。而且锁屏解锁了几次，连回来都一切正常。&lt;/p&gt;
+&lt;p&gt;换了 macbook 两个月，被这个鼠标问题折磨了两个月，居然换个老鼠标就好了。看来 macbook 还是不要搭配这些国产小众、没有 mac 版驱动的鼠标了&lt;/p&gt;
 </description>
     </item>
   </channel>
