@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 16 Aug 2026 02:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 03:24:00 GMT</lastBuildDate>
     <item>
       <title>仅以此文，记录 6 年来单纯又愚蠢的自己和成瘾的她</title>
       <link>https://www.v2ex.com/t/1234566</link>
@@ -106,20 +106,34 @@
 </description>
     </item>
     <item>
-      <title>发现一个独立开发者的悖论</title>
-      <link>https://www.v2ex.com/t/1234543</link>
-      <guid>v2ex-1234543</guid>
-      <pubDate>Sat, 15 Aug 2026 02:26:01 GMT</pubDate>
-      <description>&lt;p&gt;产品不宣传就没用户，宣传了可能就会被模仿然后干掉。那些背后真正赚钱的项目好像都没公开宣传，他们的用户哪里来的？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Open AI 的付费重置功能是立即重置，不是重置卡 T_T</title>
       <link>https://www.v2ex.com/t/1234598</link>
       <guid>v2ex-1234598</guid>
       <pubDate>Sat, 15 Aug 2026 06:38:28 GMT</pubDate>
       <description>&lt;p&gt;这个重置购买完了会立即重置，而不是买一个重置卡。&lt;/p&gt;
 &lt;p&gt;别问我是怎么知道的.......&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>现在宽带测速用什么工具或者网站？</title>
+      <link>https://www.v2ex.com/t/1234587</link>
+      <guid>v2ex-1234587</guid>
+      <pubDate>Sat, 15 Aug 2026 06:05:23 GMT</pubDate>
+      <description>&lt;p&gt;坐标浙江，装了条千兆宽带用着感觉还行，下载东西的时候网速确实能突破 500 兆，但具体能跑到多少想测试一下，然后发现我竟然找不到一款能用的测速工具，。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://speedtest.cn&quot; rel=&quot;nofollow&quot;&gt;speedtest.cn&lt;/a&gt; 测速只有个位数，&lt;a href=&quot;http://speedtest.net&quot; rel=&quot;nofollow&quot;&gt;speedtest.net&lt;/a&gt; 只能找到一个苏州的 JSQY 测速点，只能跑到 100 多兆。然后我的 TP Link 路由器商云 APP 也自带一个测网速功能，同样只能找到这个苏州的 JSQY 测速点，不知道是不是现在运营商都把这些测速工具给封了？&lt;/p&gt;
+&lt;p&gt;然后记得某些大学也给提供测网速的网站，就找到了浙江大学校园网测速网站 &lt;a href=&quot;https://speedtest.zju.edu.cn/&quot; rel=&quot;nofollow&quot;&gt;https://speedtest.zju.edu.cn/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这个网站说是测的校园内网，不过我好歹也能跑到 650 兆左右，但是没法更高了，感觉瓶颈在浙江大学那边。毕竟人家写着这是测校园网的工具。&lt;/p&gt;
+&lt;p&gt;至于浙江省外的其他大学提供的测速网站，普遍连 500 兆都跑不到，这跨省限速也太严重了吧？感觉千兆宽带办了个寂寞&lt;/p&gt;
+&lt;p&gt;原来手机上还有个花瓣测速能用，但老版本完全用不了了，速度只有 0 ，然后最新版仅限华为手机才能用，别的品牌装上不给用。联系装宽带的师傅问他用什么工具测速，他让我电脑装个 360 安全卫士，我艹！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>每天上午 9-10 点左右都开始困，有什么好的方法吗？</title>
+      <link>https://www.v2ex.com/t/1234714</link>
+      <guid>v2ex-1234714</guid>
+      <pubDate>Sun, 16 Aug 2026 02:02:38 GMT</pubDate>
+      <description>&lt;p&gt;有条件时眯一会，没条件时有什么好的方法硬撑吗？
+喝茶，喝咖啡，呼吸新鲜空气都试过，偶尔还行，长时间不太管用。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -177,19 +191,6 @@ HPTJK86N7KE8HERFFE
 3HFFEMX7FTKE8FKAAA
 AEHF8NN3MMRJE6M88X
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    <item>
-      <title>现在宽带测速用什么工具或者网站？</title>
-      <link>https://www.v2ex.com/t/1234587</link>
-      <guid>v2ex-1234587</guid>
-      <pubDate>Sat, 15 Aug 2026 06:05:23 GMT</pubDate>
-      <description>&lt;p&gt;坐标浙江，装了条千兆宽带用着感觉还行，下载东西的时候网速确实能突破 500 兆，但具体能跑到多少想测试一下，然后发现我竟然找不到一款能用的测速工具，。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://speedtest.cn&quot; rel=&quot;nofollow&quot;&gt;speedtest.cn&lt;/a&gt; 测速只有个位数，&lt;a href=&quot;http://speedtest.net&quot; rel=&quot;nofollow&quot;&gt;speedtest.net&lt;/a&gt; 只能找到一个苏州的 JSQY 测速点，只能跑到 100 多兆。然后我的 TP Link 路由器商云 APP 也自带一个测网速功能，同样只能找到这个苏州的 JSQY 测速点，不知道是不是现在运营商都把这些测速工具给封了？&lt;/p&gt;
-&lt;p&gt;然后记得某些大学也给提供测网速的网站，就找到了浙江大学校园网测速网站 &lt;a href=&quot;https://speedtest.zju.edu.cn/&quot; rel=&quot;nofollow&quot;&gt;https://speedtest.zju.edu.cn/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这个网站说是测的校园内网，不过我好歹也能跑到 650 兆左右，但是没法更高了，感觉瓶颈在浙江大学那边。毕竟人家写着这是测校园网的工具。&lt;/p&gt;
-&lt;p&gt;至于浙江省外的其他大学提供的测速网站，普遍连 500 兆都跑不到，这跨省限速也太严重了吧？感觉千兆宽带办了个寂寞&lt;/p&gt;
-&lt;p&gt;原来手机上还有个花瓣测速能用，但老版本完全用不了了，速度只有 0 ，然后最新版仅限华为手机才能用，别的品牌装上不给用。联系装宽带的师傅问他用什么工具测速，他让我电脑装个 360 安全卫士，我艹！&lt;/p&gt;
 </description>
     </item>
   </channel>
