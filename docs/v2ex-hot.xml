@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 16 Aug 2026 05:50:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:21:07 GMT</lastBuildDate>
     <item>
       <title>[OpenAI Pro 号池] GPT-5.6 Sol 输入约 ¥0.425/MTok｜实际人民币成本约 0.125 折｜注册送$2</title>
       <link>https://www.v2ex.com/t/1234651</link>
@@ -166,19 +166,6 @@
 </description>
     </item>
     <item>
-      <title>现在宽带测速用什么工具或者网站？</title>
-      <link>https://www.v2ex.com/t/1234587</link>
-      <guid>v2ex-1234587</guid>
-      <pubDate>Sat, 15 Aug 2026 06:05:23 GMT</pubDate>
-      <description>&lt;p&gt;坐标浙江，装了条千兆宽带用着感觉还行，下载东西的时候网速确实能突破 500 兆，但具体能跑到多少想测试一下，然后发现我竟然找不到一款能用的测速工具，。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://speedtest.cn&quot; rel=&quot;nofollow&quot;&gt;speedtest.cn&lt;/a&gt; 测速只有个位数，&lt;a href=&quot;http://speedtest.net&quot; rel=&quot;nofollow&quot;&gt;speedtest.net&lt;/a&gt; 只能找到一个苏州的 JSQY 测速点，只能跑到 100 多兆。然后我的 TP Link 路由器商云 APP 也自带一个测网速功能，同样只能找到这个苏州的 JSQY 测速点，不知道是不是现在运营商都把这些测速工具给封了？&lt;/p&gt;
-&lt;p&gt;然后记得某些大学也给提供测网速的网站，就找到了浙江大学校园网测速网站 &lt;a href=&quot;https://speedtest.zju.edu.cn/&quot; rel=&quot;nofollow&quot;&gt;https://speedtest.zju.edu.cn/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这个网站说是测的校园内网，不过我好歹也能跑到 650 兆左右，但是没法更高了，感觉瓶颈在浙江大学那边。毕竟人家写着这是测校园网的工具。&lt;/p&gt;
-&lt;p&gt;至于浙江省外的其他大学提供的测速网站，普遍连 500 兆都跑不到，这跨省限速也太严重了吧？感觉千兆宽带办了个寂寞&lt;/p&gt;
-&lt;p&gt;原来手机上还有个花瓣测速能用，但老版本完全用不了了，速度只有 0 ，然后最新版仅限华为手机才能用，别的品牌装上不给用。联系装宽带的师傅问他用什么工具测速，他让我电脑装个 360 安全卫士，我艹！&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Open AI 的付费重置功能是立即重置，不是重置卡 T_T</title>
       <link>https://www.v2ex.com/t/1234598</link>
       <guid>v2ex-1234598</guid>
@@ -188,19 +175,19 @@
 </description>
     </item>
     <item>
-      <title>各位 Pi 选手转 dsh 了吗</title>
-      <link>https://www.v2ex.com/t/1234716</link>
-      <guid>v2ex-1234716</guid>
-      <pubDate>Sun, 16 Aug 2026 02:05:39 GMT</pubDate>
-      <description>&lt;p&gt;各位用 Pi 的大佬都转 DSH 了吗？最近节奏有点快，我又在忙别的事情，有点跟不上。据说 DSH 是比 Pi 更定制化的框架，但说实话，我现在用 Pi 也挺顺手，不太想转来转去。大家用 Pi 的都转了吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>你们回娘家会洗碗吗</title>
       <link>https://www.v2ex.com/t/1234654</link>
       <guid>v2ex-1234654</guid>
       <pubDate>Sat, 15 Aug 2026 11:48:34 GMT</pubDate>
       <description>&lt;p&gt;吃饭完了收拾桌子之类的&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>各位 Pi 选手转 dsh 了吗</title>
+      <link>https://www.v2ex.com/t/1234716</link>
+      <guid>v2ex-1234716</guid>
+      <pubDate>Sun, 16 Aug 2026 02:05:39 GMT</pubDate>
+      <description>&lt;p&gt;各位用 Pi 的大佬都转 DSH 了吗？最近节奏有点快，我又在忙别的事情，有点跟不上。据说 DSH 是比 Pi 更定制化的框架，但说实话，我现在用 Pi 也挺顺手，不太想转来转去。大家用 Pi 的都转了吗？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -214,6 +201,15 @@
 &lt;p&gt;表和「能不能买成」写在这里：
 &lt;a href=&quot;https://www.aisubdeal.com/zh/pricing/chatgpt/?utm_source=v2ex&amp;amp;utm_medium=social&amp;amp;utm_campaign=chatgpt_cheap_zh&quot; rel=&quot;nofollow&quot;&gt;https://www.aisubdeal.com/zh/pricing/chatgpt/?utm_source=v2ex&amp;amp;utm_medium=social&amp;amp;utm_campaign=chatgpt_cheap_zh&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;只做信息对照，换区有账号和条款风险。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>如何在公司放台设备跑模型?</title>
+      <link>https://www.v2ex.com/t/1234629</link>
+      <guid>v2ex-1234629</guid>
+      <pubDate>Sat, 15 Aug 2026 09:04:04 GMT</pubDate>
+      <description>&lt;p&gt;最近在学习 AI 相关的内容，虽然是公司有部署模型的机器，但是毕竟是个人学习的，所以想把自己的台式机拉到公司部署用来部署开源模型用来学习。但是奈何我们的工位并非个人独立空间，感觉这样拉个台式放脚底下有点明显。也想过远程家里，但是家里一直不断电其实也挺不放心的。&lt;/p&gt;
+&lt;p&gt;想问各位有什么靠谱的方案？&lt;/p&gt;
 </description>
     </item>
   </channel>
