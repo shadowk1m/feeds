@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 16 Aug 2026 10:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:44:46 GMT</lastBuildDate>
     <item>
       <title>一个 Vibe Coding 网站是怎么在上线几十分钟内被打爆的</title>
       <link>https://www.v2ex.com/t/1234711</link>
@@ -190,15 +190,11 @@
 </description>
     </item>
     <item>
-      <title>爆肝一下午，整了个桌面版 DeepSeek Harness，你不用再装 Node.js 了</title>
-      <link>https://www.v2ex.com/t/1234671</link>
-      <guid>v2ex-1234671</guid>
-      <pubDate>Sat, 15 Aug 2026 13:26:44 GMT</pubDate>
-      <description>&lt;p&gt;爆肝了一下午把 DeepSeek Harness 做了个轻量桌面壳子，开源在  &lt;/p&gt;
-&lt;p&gt;GitHub： &lt;a href=&quot;https://github.com/qufei1993/dsh-desktop&quot; rel=&quot;nofollow&quot;&gt;https://github.com/qufei1993/dsh-desktop&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;原则 “不改 DeepSeek Harness 本体内容”，只做桌面端包装；默认启动直接打开官方的 DeepSeek Harness 页面。也就是说，你进来看到的还是原生态界面。&lt;/p&gt;
-&lt;p&gt;另外做了两个实用点：一是内置 Node.js 运行时，解决“没装/版本不一致”导致的麻烦；二是做了版本管理和切换（可选更新到新版本、也可保留旧版本），让桌面端用起来更可控。&lt;/p&gt;
-&lt;p&gt;目前支持 macOS + Windows ，目标就是把“网页打开+命令行启动”这层体验改得像普通 App 一样丝滑顺手。&lt;/p&gt;
+      <title>有什么办法把复印件和扫描件的内容提取出来吗？</title>
+      <link>https://www.v2ex.com/t/1234753</link>
+      <guid>v2ex-1234753</guid>
+      <pubDate>Sun, 16 Aug 2026 07:28:40 GMT</pubDate>
+      <description>&lt;p&gt;有哪家 ai 的 ocr 强大的吗？或者是哪个插件和库强大的？我想把扫描文件和复印文件，使用 ocr 把文件的内容提取出来，主流的 ai 我都试了下，我发现老是不理想。有更好的办法吗？提高精准度提取的方案。&lt;/p&gt;
 </description>
     </item>
     <item>
