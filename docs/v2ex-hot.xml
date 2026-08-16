@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 16 Aug 2026 07:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 08:15:18 GMT</lastBuildDate>
     <item>
       <title>一个 Vibe Coding 网站是怎么在上线几十分钟内被打爆的</title>
       <link>https://www.v2ex.com/t/1234711</link>
@@ -203,12 +203,15 @@
 </description>
     </item>
     <item>
-      <title>如何在公司放台设备跑模型?</title>
-      <link>https://www.v2ex.com/t/1234629</link>
-      <guid>v2ex-1234629</guid>
-      <pubDate>Sat, 15 Aug 2026 09:04:04 GMT</pubDate>
-      <description>&lt;p&gt;最近在学习 AI 相关的内容，虽然是公司有部署模型的机器，但是毕竟是个人学习的，所以想把自己的台式机拉到公司部署用来部署开源模型用来学习。但是奈何我们的工位并非个人独立空间，感觉这样拉个台式放脚底下有点明显。也想过远程家里，但是家里一直不断电其实也挺不放心的。&lt;/p&gt;
-&lt;p&gt;想问各位有什么靠谱的方案？&lt;/p&gt;
+      <title>爆肝一下午，整了个桌面版 DeepSeek Harness，你不用再装 Node.js 了</title>
+      <link>https://www.v2ex.com/t/1234671</link>
+      <guid>v2ex-1234671</guid>
+      <pubDate>Sat, 15 Aug 2026 13:26:44 GMT</pubDate>
+      <description>&lt;p&gt;爆肝了一下午把 DeepSeek Harness 做了个轻量桌面壳子，开源在  &lt;/p&gt;
+&lt;p&gt;GitHub： &lt;a href=&quot;https://github.com/qufei1993/dsh-desktop&quot; rel=&quot;nofollow&quot;&gt;https://github.com/qufei1993/dsh-desktop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;原则 “不改 DeepSeek Harness 本体内容”，只做桌面端包装；默认启动直接打开官方的 DeepSeek Harness 页面。也就是说，你进来看到的还是原生态界面。&lt;/p&gt;
+&lt;p&gt;另外做了两个实用点：一是内置 Node.js 运行时，解决“没装/版本不一致”导致的麻烦；二是做了版本管理和切换（可选更新到新版本、也可保留旧版本），让桌面端用起来更可控。&lt;/p&gt;
+&lt;p&gt;目前支持 macOS + Windows ，目标就是把“网页打开+命令行启动”这层体验改得像普通 App 一样丝滑顺手。&lt;/p&gt;
 </description>
     </item>
   </channel>
