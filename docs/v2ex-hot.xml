@@ -4,7 +4,17 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 16 Aug 2026 11:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 11:40:51 GMT</lastBuildDate>
+    <item>
+      <title>小学同学和他对象直播卖衣服一个月赚十几万</title>
+      <link>https://www.v2ex.com/t/1234730</link>
+      <guid>v2ex-1234730</guid>
+      <pubDate>Sun, 16 Aug 2026 03:24:28 GMT</pubDate>
+      <description>&lt;p&gt;他之前是干列车员的，他对象是瑜伽老师，然后直播卖衣服，在郑州买了房，他俩付了 160w ，他爸付了 60w &lt;/p&gt;
+&lt;p&gt;视频通话听我妈说的&lt;/p&gt;
+&lt;p&gt;这直播卖衣服真赚钱啊&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>一个 Vibe Coding 网站是怎么在上线几十分钟内被打爆的</title>
       <link>https://www.v2ex.com/t/1234711</link>
@@ -77,86 +87,6 @@
 </description>
     </item>
     <item>
-      <title>小学同学和他对象直播卖衣服一个月赚十几万</title>
-      <link>https://www.v2ex.com/t/1234730</link>
-      <guid>v2ex-1234730</guid>
-      <pubDate>Sun, 16 Aug 2026 03:24:28 GMT</pubDate>
-      <description>&lt;p&gt;他之前是干列车员的，他对象是瑜伽老师，然后直播卖衣服，在郑州买了房，他俩付了 160w ，他爸付了 60w &lt;/p&gt;
-&lt;p&gt;视频通话听我妈说的&lt;/p&gt;
-&lt;p&gt;这直播卖衣服真赚钱啊&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[OpenAI Pro 号池] GPT-5.6 Sol 输入约 ¥0.425/MTok｜实际人民币成本约 0.125 折｜注册送$2</title>
-      <link>https://www.v2ex.com/t/1234651</link>
-      <guid>v2ex-1234651</guid>
-      <pubDate>Sat, 15 Aug 2026 11:28:17 GMT</pubDate>
-      <description>&lt;p&gt;大家好&lt;/p&gt;
-&lt;p&gt;最近整理上线了一条 OpenAI Pro 号池线路，主要面向 Codex 、Responses API 以及其他 OpenAI 兼容客户端用户，邀请 V 友来实际体验一下。&lt;/p&gt;
-&lt;p&gt;站点： &lt;a href=&quot;https://quick-pivot.com/&quot; rel=&quot;nofollow&quot;&gt;https://quick-pivot.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前支持 OpenAI Chat Completions 和 Responses API ，当前线路配置包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GPT-5.6 Sol / Terra / Luna&lt;/li&gt;
-&lt;li&gt;GPT-5.6 Fast 系列&lt;/li&gt;
-&lt;li&gt;GPT-5.5 / GPT-5.5 Fast&lt;/li&gt;
-&lt;li&gt;GPT-5.4 / GPT-5.4 Mini&lt;/li&gt;
-&lt;li&gt;GPT Image 2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;具体可用模型以控制台及 API Key 实际返回结果为准。&lt;/p&gt;
-&lt;h2&gt;价格与充值口径&lt;/h2&gt;
-&lt;p&gt;本站采用：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;¥1 = $1 平台额度&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前支持微信支付。下文中的 &lt;code&gt;$&lt;/code&gt; 均指站内计费额度，并非可以提现的真实美元。&lt;/p&gt;
-&lt;p&gt;当前部分模型价格如下，计费单位均为每 100 万 Token：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GPT-5.6 Sol：输入 $0.425 ，缓存读取 $0.0425 ，输出 $2.55&lt;/li&gt;
-&lt;li&gt;GPT-5.6 Terra：输入 $0.18 ，缓存读取 $0.018 ，输出 $1.08&lt;/li&gt;
-&lt;li&gt;GPT-5.6 Luna：输入 $0.0274 ，缓存读取 $0.0027 ，输出 $0.164&lt;/li&gt;
-&lt;li&gt;GPT-5.5：输入 $0.42 ，缓存读取 $0.042 ，输出 $2.52&lt;/li&gt;
-&lt;li&gt;GPT-5.4：输入 $0.21 ，缓存读取 $0.021 ，输出 $1.26&lt;/li&gt;
-&lt;li&gt;GPT-5.4 Mini：输入 $0.0623 ，缓存读取 $0.0062 ，输出 $0.373&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;因为充值是 ¥1 = $1 平台额度，所以 GPT-5.6 Sol 输入 100 万 Token ，实际消耗约为 ¥0.425 。&lt;/p&gt;
-&lt;p&gt;以页面官方参考价 $5 、美元兑人民币约 6.8 粗略估算：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;页面参考成本：$5 × 6.8 ≈ ¥34&lt;/li&gt;
-&lt;li&gt;Quick Pivot 实际成本：约 ¥0.425&lt;/li&gt;
-&lt;li&gt;实际人民币成本约为页面参考价的 1.25%&lt;/li&gt;
-&lt;li&gt;换算约为 0.125 折，节省约 98.75%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;汇率会有浮动，具体价格和扣费请以请求发生时的实际配置为准。&lt;/p&gt;
-&lt;p&gt;完整价格页面：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://quick-pivot.com/model-pricing&quot; rel=&quot;nofollow&quot;&gt;https://quick-pivot.com/model-pricing&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;V 友体验活动&lt;/h2&gt;
-&lt;p&gt;本次准备了两档体验额度：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;所有新用户注册自动获得 $2 平台体验额度；&lt;/li&gt;
-&lt;li&gt;本帖发布后，按照后台注册时间，前 20 位新用户并在此贴留言的，额外赠送 $10 平台额度。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;每个用户限一份，留下 base64 邮箱，我们会直接发放到站内余额。&lt;/p&gt;
-&lt;p&gt;也就是说，前 20 位新用户合计可以获得：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;$2 注册额度 + $10 活动额度 = $12 平台体验额度&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;20 份活动额度全部送完后，我会更新主楼状态。&lt;/p&gt;
-&lt;p&gt;此外，新注册账号默认并发数为 5 ，可以直接用于测试 Codex 长任务、流式输出和工具调用。&lt;/p&gt;
-&lt;p&gt;注册入口：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://quick-pivot.com/register&quot; rel=&quot;nofollow&quot;&gt;https://quick-pivot.com/register&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;快速接入&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;注册并登录 Quick Pivot ；&lt;/li&gt;
-&lt;li&gt;在控制台创建自己的 API Key ；&lt;/li&gt;
-&lt;li&gt;根据文档替换 Base URL 和 API Key ；&lt;/li&gt;
-&lt;li&gt;接入 Codex 或其他 OpenAI 兼容客户端。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;接入文档：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://quick-pivot.com/docs&quot; rel=&quot;nofollow&quot;&gt;https://quick-pivot.com/docs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;渠道状态：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://quick-pivot.com/monitor&quot; rel=&quot;nofollow&quot;&gt;https://quick-pivot.com/monitor&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;遇到接入问题、模型需求或实际使用问题，可以联系站内客服。&lt;/p&gt;
-&lt;p&gt;号池线路可能受到上游容量和策略变化影响，建议先使用赠送额度测试自己的实际场景，再根据需要充值。&lt;/p&gt;
-&lt;p&gt;欢迎大家反馈实际体验，包括速度、长任务稳定性、工具调用以及希望增加的模型。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>每天上午 9-10 点左右都开始困，有什么好的方法吗？</title>
       <link>https://www.v2ex.com/t/1234714</link>
       <guid>v2ex-1234714</guid>
@@ -196,6 +126,13 @@
       <pubDate>Sat, 15 Aug 2026 11:48:34 GMT</pubDate>
       <description>&lt;p&gt;吃饭完了收拾桌子之类的&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>一年的 Manus Pro 还没有到期了，就给我取消了，毫无商业道德啊！</title>
+      <link>https://www.v2ex.com/t/1234707</link>
+      <guid>v2ex-1234707</guid>
+      <pubDate>Sun, 16 Aug 2026 00:05:37 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/y40piOd.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/y40piOd.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
