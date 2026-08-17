@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 17 Aug 2026 17:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 17:51:05 GMT</lastBuildDate>
     <item>
       <title>“万 1 免 5”股票 etf 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.17 日~8.24 日]</title>
       <link>https://www.v2ex.com/t/1234841</link>
@@ -111,15 +111,6 @@
 </description>
     </item>
     <item>
-      <title>爱快被黑，速自查</title>
-      <link>https://www.v2ex.com/t/1234880</link>
-      <guid>v2ex-1234880</guid>
-      <pubDate>Mon, 17 Aug 2026 01:54:33 GMT</pubDate>
-      <description>&lt;p&gt;看看你的 dns 服务，有没有被篡改，看看系统日志，有没有 dns 服务重启记录。&lt;/p&gt;
-&lt;p&gt;如果有就是被入侵了，该升级升级，该换系统换系统&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>codex 自动发外链： submify v2 版本升级+内置 3k 外链，发到吐。。。</title>
       <link>https://www.v2ex.com/t/1234881</link>
       <guid>v2ex-1234881</guid>
@@ -141,6 +132,15 @@
 &lt;p&gt;优先用这几个库，导入了大博主推荐的列表，效果还行，能有 30% 免费提交率&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;72875ab3ab1ef9cbfd70472b862cf753.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s.web.cafe/image/2114825c1fbc4785a6d133d3e4358bec.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;有问题可以邮件/v 交流都可以： &lt;a href=&quot;mailto:support@submify.app&quot;&gt;support@submify.app&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>爱快被黑，速自查</title>
+      <link>https://www.v2ex.com/t/1234880</link>
+      <guid>v2ex-1234880</guid>
+      <pubDate>Mon, 17 Aug 2026 01:54:33 GMT</pubDate>
+      <description>&lt;p&gt;看看你的 dns 服务，有没有被篡改，看看系统日志，有没有 dns 服务重启记录。&lt;/p&gt;
+&lt;p&gt;如果有就是被入侵了，该升级升级，该换系统换系统&lt;/p&gt;
 </description>
     </item>
   </channel>
