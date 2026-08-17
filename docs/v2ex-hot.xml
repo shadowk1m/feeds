@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 17 Aug 2026 00:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 02:12:30 GMT</lastBuildDate>
     <item>
       <title>小学同学和他对象直播卖衣服一个月赚十几万</title>
       <link>https://www.v2ex.com/t/1234730</link>
@@ -16,83 +16,19 @@
 </description>
     </item>
     <item>
-      <title>一个 Vibe Coding 网站是怎么在上线几十分钟内被打爆的</title>
-      <link>https://www.v2ex.com/t/1234711</link>
-      <guid>v2ex-1234711</guid>
-      <pubDate>Sun, 16 Aug 2026 01:24:43 GMT</pubDate>
-      <description>&lt;p&gt;昨天发帖分享了一个刚做的小网站，叫 &lt;a href=&quot;https://rping.com&quot; rel=&quot;nofollow&quot;&gt;锐评&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;网站可以给不同社区打分，档位是：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;夯 / 顶级 / 人上人 / NPC / 拉完了&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我怕兄弟们连快捷登录都懒得点，跟别提注册登录了，就把游客权限也打开了：不登录可以评分，也可以评论。让大家先进来玩玩，真有人乱搞的话，我再去后台关掉游客权限。&lt;/p&gt;
-&lt;p&gt;当时觉得这个方案挺宽松灵活的，现在看，确实宽松，主要是方便攻击脚本发挥。&lt;/p&gt;
-&lt;h2&gt;我的帖子没爆，服务器先爆了&lt;/h2&gt;
-&lt;p&gt;当天晚上我先后在几个社区发了帖子：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;20:50：2Libra&lt;/li&gt;
-&lt;li&gt;21:01：V2EX&lt;/li&gt;
-&lt;li&gt;后来又发到了 Linux Bi&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;本来以为能来几十个人，帮忙测测功能、提点意见。没想到互联网上有坏人，没过多久，网站就打不开了。我打开 Vercel 后台一看，请求量已经飞起来了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Vercel DDoS Mitigation 数据&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pulengba.com/_astro/vercel_log.BUT425PT_Z2dqExf.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;两个相邻 IP 正在疯狂请求网站里的条目：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;103.197.30.225
-103.197.30.226
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;主要目标是 &lt;code&gt;/t/rping-cc&lt;/code&gt;。一共制造了大约 20 万次 Firewall Actions ，还顺手给“锐评”刷了接近 3,000 次“拉完了”。&lt;/p&gt;
-&lt;p&gt;我做这个网站，本来是想让大家锐评互联网社区。上线第一天，网站自己先登上了「拉榜」榜首。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;锐评条目列表&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pulengba.com/_astro/rping2.DVg8tWtJ_1eD2XQ.webp&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;拔电源吧&lt;/h2&gt;
-&lt;p&gt;我一开始没当回事儿，毕竟早就想过：有人乱搞的话，去管理后台关掉游客权限就行。&lt;/p&gt;
-&lt;p&gt;没想到的是，攻击来的时候，我自己也进不去后台了。页面打不开，无奈只能直接改数据库，把游客评分和评论权限先关掉。权限改完，异常评分是不再增加了，但那两个 IP 还在继续请求，给服务器上强度。&lt;/p&gt;
-&lt;p&gt;刚开始我其实没怎么生气，觉得网站刚上线就被打，也算是给自己上了一课，当个乐子看就好。我屏蔽了 IP 、加了防护规则，也在帖子里明确说了这件事。&lt;/p&gt;
-&lt;p&gt;结果那个人并不打算到此为止。IP 被 ban 以后，它又换了 IP 继续捣乱，还注册了一个用户名叫 &lt;code&gt;xjp&lt;/code&gt; 的账号，开始刷乱码评论。评分刷不动了，就改刷评论区。一共发了 128 条锐评，评论区被它刷得像乱码瀑布一样。&lt;/p&gt;
-&lt;p&gt;这就不是乐子了，这人确实是坏种，这么干对你有什么好处呢？&lt;/p&gt;
-&lt;p&gt;只能先拔电源，把服务关了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Vercel 流量概览&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pulengba.com/_astro/rping3.DRXmVwm7_NHFnu.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;乱码评论和异常刷票结果&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pulengba.com/_astro/rping1.C-tJOHkw_2q0uLk.webp&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;日志里的时间线&lt;/h2&gt;
-&lt;p&gt;后来我导出了攻击前后近两个小时的完整日志。这个客户端第一次出现是在：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;21:12:53  GET  /t/v2ex       200
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;紧接着：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;21:13:09  GET  /t/rping-cc   200
-21:13:16  POST /t/rping-cc   200
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;它进入网站 23 秒后，就开始尝试刷票。刚开始还挺克制，隔几秒请求一次，像是在试接口。十分钟后，大概确认接口确实没什么防护，于是正式开工：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;21:24  开始高频请求
-21:25  单分钟接近 2,000 次
-21:35  第一轮高峰
-22:02  第二轮高峰
-22:05  基本结束
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Vercel 的 DDoS Challenge 大约拦下了 16.4 万次请求，但仍有 5 万多次攻击被放行。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;图片 4&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pulengba.com/_astro/rping4.Ba7K4Mp-_2wVOKV.webp&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;所以是 V 站用户干的吗？&lt;/h2&gt;
-&lt;p&gt;刚开始我怀疑是 linux bi 用户干的，毕竟我天天逛 v 站，默认把战里兄弟都当成高素质人群了，但是从日志上看，我开始怀疑是 v 站用户攻击的。&lt;/p&gt;
-&lt;p&gt;V2EX 帖子发于 21:01 ，帖子里放的是专属链接 &lt;code&gt;/t/v2ex&lt;/code&gt;；可疑客户端在 21:12:53 第一次出现，第一条请求刚好也是 &lt;code&gt;/t/v2ex&lt;/code&gt;，23 秒后就开始测试刷票。时间和路径确实挺吻合。&lt;/p&gt;
-&lt;p&gt;当然，我可定无法证明是某位 V2EX 用户，链接可能被转发，也可能通过别的方式传播，更没有证据指向某个具体账号，大家看个乐子得了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;图片 5&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://pulengba.com/_astro/rping5.BLXBlO3n_ZoyT98.webp&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;连夜补窟窿&lt;/h2&gt;
-&lt;p&gt;关站以后，我紧急补了几条安全规则。&lt;/p&gt;
-&lt;p&gt;屏蔽攻击 IP ，开启 Attack Mode ，增加全站请求限流，给统计接口和详情页写操作单独限流，关闭游客评分和评论，清理异常数据，再检查一遍服务端校验和数据库约束。&lt;/p&gt;
-&lt;p&gt;以前担心登录会劝退用户。现在觉得，劝退几个嫌麻烦的用户，总比把我劝退强。&lt;/p&gt;
-&lt;p&gt;我之前为了让注册登录方便一点，还把 &lt;code&gt;confirm email&lt;/code&gt; 关掉了。现在看来，这个开关还是得打开。要求用户确认邮箱，至少能给批量注册增加一点成本，不能再让脚本注册完账号就直接开刷。&lt;/p&gt;
-&lt;h2&gt;总结：Vibe Coding 路边一条&lt;/h2&gt;
-&lt;p&gt;这个网站 MVP 版本全靠 Vibe Coding 快速做出来的。&lt;/p&gt;
-&lt;p&gt;上线几十分钟就被打爆了，我也低估了互联网上有些人的恶意，难怪很多论坛、社区都设置各种注册条件、发言条件。这都是被你们这帮坏种逼的。&lt;/p&gt;
-&lt;p&gt;这次算是被互联网坏人上了一课，也提醒自己，敬畏技术，生产级的产品不是 AI 几下就能做出来的。&lt;/p&gt;
-&lt;p&gt;目前已经重新上线。下次争取活久一点。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>2026 剃须刀求推荐</title>
       <link>https://www.v2ex.com/t/1234735</link>
       <guid>v2ex-1234735</guid>
       <pubDate>Sun, 16 Aug 2026 04:13:53 GMT</pubDate>
       <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/w9g9k4X.png&quot;/&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>“万 1 免 5”股票 etf 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.17 日~8.24 日]</title>
+      <link>https://www.v2ex.com/t/1234841</link>
+      <guid>v2ex-1234841</guid>
+      <pubDate>Mon, 17 Aug 2026 00:29:33 GMT</pubDate>
+      <description>这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+&lt;br /&gt;大笑脸开户，低门槛免 5 券商，股票，etf 全网超低费率，两融免五量化免五，欢迎来开！&lt;br /&gt;⚠️开户和推荐朋友都有红包！&lt;br /&gt;⚠️回帖即可参与抽奖！&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/p96eAHV9l.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 p96eAHV9l.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/p96eAHV9l.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;⚠️大笑脸低佣开户推荐：&lt;br /&gt;YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利，逆回购 1 折，新手必备]&lt;br /&gt;GF 证券：ETF 万 0.5 免 5 [ETF 费率低]&lt;br /&gt;CC 证券：万 1 免 5 [低门槛股票 etf 双免 5]&lt;br /&gt;DB 证券：万 0.741 免 5 [国企券商，股票 etf 费率都很低]&lt;br /&gt;GT*证券：万 0.8 免 5 [头部龙头券商，费率最优惠，大客户专享，综合费率最低]&lt;br /&gt;GX 证券：万 0.851 免 5 [头部龙头券商，综合费率也很低]&lt;br /&gt;&lt;br /&gt;⚠️大笑脸联系方式和最新具体券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;http://www.daxiaolian.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.daxiaolian.com&lt;/a&gt;&lt;br /&gt;备用链接 &lt;a target=&quot;_blank&quot; href=&quot;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&quot; rel=&quot;nofollow noopener&quot;&gt;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&lt;/a&gt;&lt;br /&gt;备用联系方式 Z2FveWEyNTAw&lt;br /&gt;ZHhnODg0NA==</description>
     </item>
     <item>
       <title>有什么办法把复印件和扫描件的内容提取出来吗？</title>
@@ -103,20 +39,16 @@
 </description>
     </item>
     <item>
-      <title>每天上午 9-10 点左右都开始困，有什么好的方法吗？</title>
-      <link>https://www.v2ex.com/t/1234714</link>
-      <guid>v2ex-1234714</guid>
-      <pubDate>Sun, 16 Aug 2026 02:02:38 GMT</pubDate>
-      <description>&lt;p&gt;有条件时眯一会，没条件时有什么好的方法硬撑吗？
-喝茶，喝咖啡，呼吸新鲜空气都试过，偶尔还行，长时间不太管用。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>各位 Pi 选手转 dsh 了吗</title>
-      <link>https://www.v2ex.com/t/1234716</link>
-      <guid>v2ex-1234716</guid>
-      <pubDate>Sun, 16 Aug 2026 02:05:39 GMT</pubDate>
-      <description>&lt;p&gt;各位用 Pi 的大佬都转 DSH 了吗？最近节奏有点快，我又在忙别的事情，有点跟不上。据说 DSH 是比 Pi 更定制化的框架，但说实话，我现在用 Pi 也挺顺手，不太想转来转去。大家用 Pi 的都转了吗？&lt;/p&gt;
+      <title>人生很迷茫，去 KTV 应聘男公关了，被要求减重到 125 斤，体脂率不超过 15%</title>
+      <link>https://www.v2ex.com/t/1234866</link>
+      <guid>v2ex-1234866</guid>
+      <pubDate>Mon, 17 Aug 2026 01:31:56 GMT</pubDate>
+      <description>&lt;p&gt;自从 24 年被裁员之后就再也没有找过工作，对未来很悲观，躺平 2 年突然醒悟，开始给未来寻找出路，我从去年 11 月开始健身，到目前已经减重 25 斤左右。发现当下男色经济开始抬头，很多女的开始给男人花钱，上周去 ktv 面试试了一下，一是年龄有点大，30 岁了，不过通过化妆依然可以弥补这点缺陷，二是体脂率不达标，被要求腹肌清晰可见，就是网上流行的薄肌身材。干这行连底薪都没有，纯靠提成和小费！ op 本人话少 不会说话，不知道能否给客人带来足够的情绪价值！！&lt;/p&gt;
+&lt;p&gt;后续打算瘦到 125 斤再去试一试，这两年也陆续干过其它事情：
+跑滴滴 一天流水不超过 300  太累 放弃
+卖印度伟哥  被打假团伙盯上 起诉之后赔了 2W
+全职炒币 从盈利 40w 到负债 20w &lt;/p&gt;
+&lt;p&gt;如果男公关这条路走不通，不知道自己的方向在哪里，依旧迷茫中.....&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -127,20 +59,50 @@
       <description>这两天继续在写 d3d9 - webgpu proxy ，现在跑跑卡丁车也能在网页上跑了&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://retrogaming.dpdns.org/game.html?id=kartrider&amp;amp;v8ft=1&quot; rel=&quot;nofollow noopener&quot;&gt;https://retrogaming.dpdns.org/game.html?id=kartrider&amp;amp;v8ft=1&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;视频展示：&lt;br /&gt;&lt;br /&gt;&lt;div class=&quot;embedded_video_wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/WlgYfFDMtT8&quot; class=&quot;embedded_video&quot; allowfullscreen=&quot;&quot; type=&quot;text/html&quot; id=&quot;ytplayer&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;</description>
     </item>
     <item>
-      <title>如何无缝丝滑切换使用 Codex 和 DeepSeek</title>
-      <link>https://www.v2ex.com/t/1234734</link>
-      <guid>v2ex-1234734</guid>
-      <pubDate>Sun, 16 Aug 2026 04:13:52 GMT</pubDate>
-      <description>&lt;p&gt;Codex 不太够用了， 想用 deepseek 作为补充&lt;/p&gt;
-&lt;p&gt;最佳实践是怎么样的？ 求助🙏&lt;/p&gt;
-</description>
+      <title>claude 崩了，看网站只有 api 和对政府部门的可以使用</title>
+      <link>https://www.v2ex.com/t/1234837</link>
+      <guid>v2ex-1234837</guid>
+      <pubDate>Sun, 16 Aug 2026 22:14:27 GMT</pubDate>
+      <description>刚起来打算用 claude 转了半天显示失败，吓我一跳还以为被封了。 提示 can&#39;t reach claude 这有 cluade 的最新状态,现在显示还在故障:&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://status.claude.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://status.claude.com&lt;/a&gt; &lt;br /&gt;目前只有提示只有 api 是部分可用，让我感到惊奇的是 claude for government 居然是全绿也就是根本不受影响</description>
     </item>
     <item>
-      <title>iPhone 18 Pro 想买首发 想买非国行版本 有什么渠道吗？</title>
-      <link>https://www.v2ex.com/t/1234749</link>
-      <guid>v2ex-1234749</guid>
-      <pubDate>Sun, 16 Aug 2026 06:59:34 GMT</pubDate>
-      <description>&lt;p&gt;就算是香港 肉身跑一趟的车票价格都还挺贵的 暂时没有去旅游的打算 所以不考虑顺路&lt;/p&gt;
+      <title>搓了一个 typeless 平替，可能是最强平替</title>
+      <link>https://www.v2ex.com/t/1234772</link>
+      <guid>v2ex-1234772</guid>
+      <pubDate>Sun, 16 Aug 2026 09:55:22 GMT</pubDate>
+      <description>&lt;h2&gt;Why 为什么做 vokie&lt;/h2&gt;
+&lt;p&gt;👉 &lt;strong&gt;&lt;a href=&quot;https://vokie.com&quot; rel=&quot;nofollow&quot;&gt;https://vokie.com&lt;/a&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;这是我和两个小伙伴搓的语音助手，已经开放公测了，如果恰巧你愿意试试我们万分荣幸。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;banner&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/UJnEOIl.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;最早接触到 AI 语音产品是 2025 年的 Wispr Flow 。这类产品让我思考 —— 在 Agent 时代&lt;strong&gt;我们和机器的交互方式&lt;/strong&gt;是否有新的可能性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;说话是最自然的人类表达&lt;/strong&gt;，还不识字的婴儿就会说话。不可否认，键盘是一个伟大的发明，它把我们的思维和机器连接在一起。即使 LLM 极大推动了 ASR 等技术的发展，我也不认为打字和语音输入是替代的关系。&lt;/p&gt;
+&lt;p&gt;一个有意思的变化是，从 ClaudeCode CLI 开始，我们和 Agent 的沟通量级指数级上升。对 Agent 来说，略显啰嗦的&lt;strong&gt;人类口喷，恰恰是最重要的 context&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;vokie 就是要把最自由的表达，还给所有人。&lt;strong&gt;想说就说，不用打腹稿、理思路，直接喷给 Agent ！&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Different 有什么不同&lt;/h2&gt;
+&lt;p&gt;语音输入最核心的，是&lt;strong&gt;理解并尊重用户的语义&lt;/strong&gt;，在此基础上做文本的整理和润色才有意义。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;接住口语表达习惯&lt;/strong&gt;，比如各类口语词、重复、口癖，甚至是对之前表达的口头修改。&lt;/p&gt;
+&lt;p&gt;越用越懂你，&lt;strong&gt;自动识别热词并学习&lt;/strong&gt;，改一次下次就能识别准确，并且支持配置常用语。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;热词&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/KIkKsvH.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;每个人的习惯不同，在不同场景的诉求也不同。因此我们做了&lt;strong&gt;表达场&lt;/strong&gt;，将自由度还给用户。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;表达场&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/G87K0Bv.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;除了语音输入，vokie 拓展了记录、实时翻译等场景，帮助大家&lt;strong&gt;记录、理解&lt;/strong&gt;重要的语音内容。&lt;/p&gt;
+&lt;p&gt;（ 比如，一个全局的录音记录工具，不像飞书妙记那么重，又不依赖腾讯会议等客户端）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;语音摘要&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/OBr4n9p.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;语音不只是说完即抛的内容，也是&lt;strong&gt;重要的上下文&lt;/strong&gt;。当我们需要的时候，应该可以&lt;strong&gt;随时方便的调用&lt;/strong&gt;。
+&lt;img alt=&quot;表达场&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/N5g6tVk.png&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;Challenge 碰到的挑战&lt;/h2&gt;
+&lt;p&gt;首先，是&lt;strong&gt;很多用户还在旧有的习惯里&lt;/strong&gt;，不愿意尝试语音，或者浅尝辄止。诚然，在办公场域里，开口天然指向社交尴尬。&lt;strong&gt;如果有专用的口喷硬件，是否能够缓解大家的社交尴尬？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;（ 硬件探索方面：如果你有 AppleTV 遥控器， 你想用它口喷。vokie 内置了对它的支持，连上 mac 就能用 ）
+&lt;img alt=&quot;Siri Remote&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/PEsBc6Y.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;其次，是&lt;strong&gt;巨量的低质量的竞品&lt;/strong&gt;，其中包括“大厂出品”的“毛坯”和个人开发者几天时间 vibe 出来的“ 玩具”。我们乐见百花齐放，但是当大量的低品质的产品喂国人吃 *，和增加用户的选择成本，其实并不是一个好的生态。我想其他产品可能也有类似的困境，何解？&lt;/p&gt;
+&lt;p&gt;最后，是&lt;strong&gt;如何增长&lt;/strong&gt;？目前通过 X 、口碑传播等，已经有了一定的用户基础。我们希望 vokie 能够将更多用户带入语音工作流时代，自由奔放的创造。这是 vokie 的初心，其次才是商业价值。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;以上是目前让我们头疼的几个点，欢迎大家吐槽或者帮忙出出主意。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;👉 &lt;strong&gt;&lt;a href=&quot;https://vokie.com&quot; rel=&quot;nofollow&quot;&gt;https://vokie.com&lt;/a&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;欢迎感兴趣的小伙伴下载试用，也欢迎加群唠唠&lt;/p&gt;
+&lt;p&gt;（我们准备了一些质感很棒的 vokie 周边，可以找我来要）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;公测用户群&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/P8zuEjA.png&quot;/&gt;
+&lt;img alt=&quot;贴纸设计&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/G6jvstq.jpeg&quot;/&gt;
+&lt;img alt=&quot;贴纸实物&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/CXQEFC5.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
