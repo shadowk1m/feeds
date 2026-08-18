@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 18 Aug 2026 02:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 03:13:15 GMT</lastBuildDate>
     <item>
       <title>回看 41 岁程序员人生的三次“押注”</title>
       <link>https://www.v2ex.com/t/1234938</link>
@@ -65,11 +65,74 @@
 </description>
     </item>
     <item>
+      <title>女朋友说在我家呆着不舒服，再也不想来我家了</title>
+      <link>https://www.v2ex.com/t/1235142</link>
+      <guid>v2ex-1235142</guid>
+      <pubDate>Mon, 17 Aug 2026 15:46:25 GMT</pubDate>
+      <description>如题，想咨询一下各位结婚或者有类似经历的哥哥姐姐。&lt;br /&gt;&lt;br /&gt;我女朋友一共来过我家三次。&lt;br /&gt;&lt;br /&gt;第一次因为疫情导致我俩在家一个接一个躺了好几天；第二次过年放假来我家玩几天，这是第一次跟我说再也不想来我家，原因是吃饭时看到我妈总是跟我表弟表妹聊天说话，跟她就话很少。&lt;br /&gt;&lt;br /&gt;这次是第三次来我家，还是类似的原因，跟我说感觉家里没有人围着她转，不以她为话题中心。我爸妈把她当我的女朋友看，但是没有把她当一家人看（原话）。&lt;br /&gt;&lt;br /&gt;我自己的感觉是，我妈确实与我女朋友交流不多。我们一家人交流都不算很多，我又是没有聊天强需求的人，所以也就习惯了。我女朋友有聊天强需求，又不是主动的一方，所以就不习惯了。&lt;br /&gt;&lt;br /&gt;中间我们争吵过一次，开始的原因在于她直接生气说决定明天就走，改变我们两人的行程安排，并且拒绝与我沟通。最终她给出的妥协方案是，各回各家，或者来我家她就住宾馆。&lt;br /&gt;&lt;br /&gt;但是我觉得这只是临时的妥协，而且还进一步降低了我的结婚意愿。如果结婚后我们两个还要因为这个事继续住宾馆，那可真就太搞笑了。&lt;br /&gt;&lt;br /&gt;对于以后的情况我肯定是要找机会再沟通看看。她其实人还挺不错，但是对聊天和情感强需求，又不主动。不过当局者迷，旁观者清，小弟想请教一下各位，能不能指点一下。谢谢。</description>
+    </item>
+    <item>
       <title>下次人口普查会在 10 亿人右吗</title>
       <link>https://www.v2ex.com/t/1234960</link>
       <guid>v2ex-1234960</guid>
       <pubDate>Mon, 17 Aug 2026 04:33:20 GMT</pubDate>
       <description>&lt;p&gt;人口普查 10 年一次，大家的印象现在都还是 14 亿人口吧，那是 2020 年的数据了，等到下次人口普查就在 2030 年了，离得很近了，生育率下跌再加上疫情原因，人口数量会在多少呢&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>送永久码~~ 双屏工作多年，我最终还是自己写了一个「调暗屏幕」的工具</title>
+      <link>https://www.v2ex.com/t/1235163</link>
+      <guid>v2ex-1235163</guid>
+      <pubDate>Tue, 18 Aug 2026 00:54:34 GMT</pubDate>
+      <description>&lt;p&gt;先说一个你可能也有的瞬间：&lt;/p&gt;
+&lt;p&gt;晚上十点，你打开编辑器准备把白天没写完的东西收个尾。主屏上是代码，副屏上是文档、微信、一个没关的视频页面。你明明只想看中间那一个窗口，但余光里全是别的东西在闪。&lt;/p&gt;
+&lt;p&gt;系统的「专注模式」管的是通知，管不了你&lt;strong&gt;看到&lt;/strong&gt;什么。我想要的很简单：==除了我正在用的窗口，其他全部变暗==。&lt;/p&gt;
+&lt;p&gt;市面上不是没有类似的工具，但要么只支持单平台，要么多年不更新，要么多显示器支持形同虚设。作为一个写了多年代码的人，最后的答案只有一个：自己做一个。&lt;/p&gt;
+&lt;p&gt;它叫&lt;strong&gt;幕窗（ VeilWin ）&lt;/strong&gt;，今天正式首发。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.tougaoya.com/ce/20260817-76b49fa7-253a66e814af.png&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;幕窗做什么&lt;/h2&gt;
+&lt;p&gt;一句话：&lt;strong&gt;调暗一切，只留下你正在工作的窗口。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;开启之后，除了你当前聚焦的窗口，屏幕上的其他所有内容——桌面、其他应用、副屏——都会被一层半透明遮罩盖住。你的注意力会被「物理上」收拢到一个窗口里。&lt;/p&gt;
+&lt;p&gt;它不是壁纸，不是护眼模式，也不是通知拦截。它是视觉层面的聚光灯。&lt;/p&gt;
+&lt;h2&gt;几个我认为做对了的决定&lt;/h2&gt;
+&lt;h3&gt;窗口级，而不是屏幕级&lt;/h3&gt;
+&lt;p&gt;很多工具只能「整屏变暗」。幕窗工作在窗口级别：聚焦窗口保持明亮，其余内容变暗。你可以设置「只留当前一个窗口」，也可以留「整个应用的所有窗口」（比如 IDE + 终端一起亮），甚至可以保留最近用过的 1–8 个窗口——对照着上一个文档写东西的时候，这个很救命。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.tougaoya.com/ce/20260817-0aed9757-7b4820146bae.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;多显示器是一等公民&lt;/h3&gt;
+&lt;p&gt;这是我做它的初心，也是做得最久的部分。幕窗默认&lt;strong&gt;每台显示器各自聚焦自己的当前窗口&lt;/strong&gt;：主屏写代码，副屏的文档自动暗下去；焦点挪到副屏，主屏暗下去。也可以反过来——只调暗没有焦点的屏。每台显示器还能单独覆盖强度、单独绑定配置。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.tougaoya.com/ce/20260817-e7d70da5-9d60bef30d7e.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;下一篇文章我会专门写多显示器的玩法，这里先不展开。&lt;/p&gt;
+&lt;h3&gt;强度、色调、动画全可调&lt;/h3&gt;
+&lt;p&gt;调暗强度 0–100% 随便拉；色调默认纯黑，但可以换成暖色——夜间写东西时，暖色遮罩比纯黑舒服得多；切换时有 180ms 的平滑过渡，不闪眼。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.tougaoya.com/ce/20260817-2a282e5e-518fc7f05c95.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;有些应用永远不该被调暗&lt;/h3&gt;
+&lt;p&gt;看视频的时候，播放器被调暗是很蠢的。幕窗有应用规则：&lt;strong&gt;「永不调暗」&lt;/strong&gt;名单里的应用（比如播放器）始终明亮，&lt;strong&gt;「前台暂停」&lt;/strong&gt;名单里的应用切到前台时整体暂停调暗。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;a1-rules.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.tougaoya.com/ce/a1-rules-e24fe0099bb2.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;全局快捷键，手不离键盘&lt;/h3&gt;
+&lt;p&gt;调暗开关、强度加减、切换配置文件，全都有全局快捷键，默认开关是 ⌃⌥⌘H 。还有一个我很依赖的小设计：&lt;strong&gt;按住 Fn 不放，调暗临时消失&lt;/strong&gt;，松开立刻恢复——从桌面拖个文件进当前窗口，不用先关调暗。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;幕窗全局快捷键：开关调暗 / 强度微调 / 按住临时显示桌面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.tougaoya.com/ce/a1-hotkeys-92e584ce176e.png&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;隐私：窗口信息不出你的电脑&lt;/h2&gt;
+&lt;p&gt;幕窗需要 macOS 的辅助功能权限来知道「哪个窗口在焦点上」。这件事必须说清楚：==所有窗口处理都在本地完成，不上传任何窗口信息，没有账号体系==。应用内有匿名使用统计（可以在设置里一键关闭），除此之外没有任何数据离开你的设备。&lt;/p&gt;
+&lt;h2&gt;现在可以做什么&lt;/h2&gt;
+&lt;p&gt;幕窗支持 macOS 和 Windows ，双平台功能一致，界面有 9 种语言。今天是 1.0.x 的首发版本，后续的功能路线图我会在公众号里持续更新。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;官网下载：浏览器访问 &lt;strong&gt;&lt;a href=&quot;http://veilwin.com&quot; rel=&quot;nofollow&quot;&gt;veilwin.com&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;用出问题或者有想法，欢迎评论区留言，我都会看&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;赠码 10 枚&lt;/h2&gt;
+&lt;p&gt;永久单设备&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;VWZB46HQKKTD
+VWUFPHUOFMT5
+VWT6FRVPMK5B
+VWH49UGPADDR
+VWE58YBH8DU2
+VWCP4S9U3R80
+VW79KYS3NA54
+VW3XBH83JXPL
+VW36WKI288TZ
+VW05TCI9BZ83
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;其余的关注一下公众号进行文章分享也可获取永久码一枚,一直到 8.23&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -80,11 +143,11 @@
       <description>考虑这几个因素：&lt;br /&gt;1. 回本周期看起来还行，特别是考虑到现在涨价后的 token 价格。用完的硬件还可以二次出售。&lt;br /&gt;2. 硬件产能似乎不足，逼得 DeepSeek 官方也涨价了。硬件价格短期应该缓解不了吧。&lt;br /&gt;3. 模型越来越聪明了。本地化也很够用了。&lt;br /&gt;&lt;br /&gt;或者有其他更好的方案吗？从没想过靠硬件来保值。硬件小白，诸位轻喷。</description>
     </item>
     <item>
-      <title>女朋友说在我家呆着不舒服，再也不想来我家了</title>
-      <link>https://www.v2ex.com/t/1235142</link>
-      <guid>v2ex-1235142</guid>
-      <pubDate>Mon, 17 Aug 2026 15:46:25 GMT</pubDate>
-      <description>如题，想咨询一下各位结婚或者有类似经历的哥哥姐姐。&lt;br /&gt;&lt;br /&gt;我女朋友一共来过我家三次。&lt;br /&gt;&lt;br /&gt;第一次因为疫情导致我俩在家一个接一个躺了好几天；第二次过年放假来我家玩几天，这是第一次跟我说再也不想来我家，原因是吃饭时看到我妈总是跟我表弟表妹聊天说话，跟她就话很少。&lt;br /&gt;&lt;br /&gt;这次是第三次来我家，还是类似的原因，跟我说感觉家里没有人围着她转，不以她为话题中心。我爸妈把她当我的女朋友看，但是没有把她当一家人看（原话）。&lt;br /&gt;&lt;br /&gt;我自己的感觉是，我妈确实与我女朋友交流不多。我们一家人交流都不算很多，我又是没有聊天强需求的人，所以也就习惯了。我女朋友有聊天强需求，又不是主动的一方，所以就不习惯了。&lt;br /&gt;&lt;br /&gt;中间我们争吵过一次，开始的原因在于她直接生气说决定明天就走，改变我们两人的行程安排，并且拒绝与我沟通。最终她给出的妥协方案是，各回各家，或者来我家她就住宾馆。&lt;br /&gt;&lt;br /&gt;但是我觉得这只是临时的妥协，而且还进一步降低了我的结婚意愿。如果结婚后我们两个还要因为这个事继续住宾馆，那可真就太搞笑了。&lt;br /&gt;&lt;br /&gt;对于以后的情况我肯定是要找机会再沟通看看。她其实人还挺不错，但是对聊天和情感强需求，又不主动。不过当局者迷，旁观者清，小弟想请教一下各位，能不能指点一下。谢谢。</description>
+      <title>有没有人需要 Codex 获得 1,000 额度的邀请,有 3 个名额，需要的留下邮箱</title>
+      <link>https://www.v2ex.com/t/1235140</link>
+      <guid>v2ex-1235140</guid>
+      <pubDate>Mon, 17 Aug 2026 15:28:56 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;/i/12TyQc8G.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 12TyQc8G.png&quot;&gt;&lt;img src=&quot;//i.v2ex.co/12TyQc8G.png&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;有 3 个名额，需要的留下邮箱</description>
     </item>
     <item>
       <title>ChatGPT 的重置让我有点烦了</title>
@@ -101,31 +164,20 @@
 </description>
     </item>
     <item>
-      <title>这个天气还要开热风的同事要我要怎么办</title>
-      <link>https://www.v2ex.com/t/1234891</link>
-      <guid>v2ex-1234891</guid>
-      <pubDate>Mon, 17 Aug 2026 02:15:54 GMT</pubDate>
-      <description>&lt;p&gt;说开冷风会让寒气入体，得风湿，&lt;/p&gt;
-&lt;p&gt;所以要用热风来驱散。&lt;/p&gt;
-&lt;p&gt;公司是奇葩的中央空调，一个制热所有出风口都是制热，&lt;/p&gt;
-&lt;p&gt;呵呵，&lt;/p&gt;
-&lt;p&gt;我 xxxxxx 。&lt;/p&gt;
+      <title>碰到这种熊孩子咋办?</title>
+      <link>https://www.v2ex.com/t/1235180</link>
+      <guid>v2ex-1235180</guid>
+      <pubDate>Tue, 18 Aug 2026 01:29:09 GMT</pubDate>
+      <description>&lt;p&gt;我们家楼下住了一个小男孩，不知道几岁，反正很小，特别喜欢乱蹦乱跳，乱哭乱嚎，有的时候早上特别早的时候他就开始蹦，然后我就能感受到，我去找了好几次，小男孩的奶奶说他们已经说了但是孩子不听他们也管不了。&lt;/p&gt;
+&lt;p&gt;昨晚小男孩在我快睡着的事后又开始折腾直接把我吵醒，我失眠到三点多，早上七点左右小男孩就开始乱嚎。我实在气的没辙，就写了张纸条贴在了电梯里“管好自己的孩子，不要乱蹦乱跳，乱哭乱嚎，影响别人休息。”这张纸条也没指名道姓，不知道会有啥效果？对待这种熊孩子 v 友们有别的招吗？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>强行加塞进车道后又减速行车的司机是什么心理</title>
-      <link>https://www.v2ex.com/t/1234916</link>
-      <guid>v2ex-1234916</guid>
-      <pubDate>Mon, 17 Aug 2026 02:59:03 GMT</pubDate>
-      <description>&lt;p&gt;还有一种，转弯不减速不让直行车辆，进入车道后却减速行车。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>opencode go 的 deepseek 涨价并缩减了用量</title>
-      <link>https://www.v2ex.com/t/1234926</link>
-      <guid>v2ex-1234926</guid>
-      <pubDate>Mon, 17 Aug 2026 03:17:01 GMT</pubDate>
-      <description>昨晚用量直接跑完了&lt;br /&gt;今早又注册了一个号，没跑几轮用了 3 刀，总用量 15%&lt;br /&gt;差点没给我气笑了&lt;br /&gt;我用的是 deepseek flash 啊，flash 什么时候那么高贵了？&lt;br /&gt;60 刀额度变 15 刀&lt;br /&gt;算了下波谷大概只有之前的 10%，波峰大概只有 5%&lt;br /&gt;要是额度不变我也不说什么了，涨价 3-6 倍还是能接受的，大不了开两个 go 接 CPA&lt;br /&gt;现在能做的居然只能祈祷了吗...笑&lt;br /&gt;这样真还不如开 gpt plus+luna...&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/pOcSCTu.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/pOcSCTu.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+      <title>现在女的都怎么了，年纪大的都是这样吗</title>
+      <link>https://www.v2ex.com/t/1235200</link>
+      <guid>v2ex-1235200</guid>
+      <pubDate>Tue, 18 Aug 2026 02:08:48 GMT</pubDate>
+      <description>这几天在某相亲平台匹配到一个 30 几的女的，她说刚注册的号，听说朋友在上面找到对象了，她也来试试。&lt;br /&gt;&lt;br /&gt;和她聊了几天挺正常的，然而今天从吃早餐聊到工作，&lt;br /&gt;&lt;br /&gt;我开始问她今天忙不忙，她说：头一天会安排好，每天从早忙到晚，我说：事情挺多，你们公司做的业务不少。&lt;br /&gt;&lt;br /&gt;然后她问我，你在这里出差在哪里办公，我说在客户现场，我补了句也可以远程办公。&lt;br /&gt;&lt;br /&gt;接着她开始发问了：“类似什么样的？”，我说了两句概括我这里工作方式。&lt;br /&gt;&lt;br /&gt;她不懂，接着发问“你们客户是做什么的？ 不懂你们这个行业”，我说做电脑主板的，我们做制造业系统（这里我意识到自己在答非所问），我应该说客户是工厂，后面我补回复她了，她回复我“嗯嗯 懂了没全懂”，我说没事，我也不太懂你们这行，以后有时间聊。&lt;br /&gt;然后她了个“偷笑表情，嗯嗯”&lt;br /&gt;&lt;br /&gt;然后我问她，你们公司办公用企业微信吗，她说“是的，你们做这个？”，我说以前有做过二次开发，&lt;br /&gt;她说“这是你们公司的业务吗”，我说现在不做这个了，这是我以前工作过的公司做的。其实我问她用不用企业微信是想找话题闲聊下，她理解好像我在跟她谈合作一样。&lt;br /&gt;&lt;br /&gt;从这里她不耐烦了，问我，“嗯嗯 你多少岁”，我没说具体年纪，就说三十好几，我说咋聊到年纪来了？&lt;br /&gt;她说我像二十几岁的人！&lt;br /&gt;&lt;br /&gt;她还来补一句“好几是好几？”&lt;br /&gt;那我也不耐烦回她“嗯嗯 你多少岁”&lt;br /&gt;&lt;br /&gt;......&lt;br /&gt;到这里终结了，她也不说了。&lt;br /&gt;&lt;br /&gt;总结，我和她沟通确实有问题，但我也有在解释，可能她觉得啰嗦了，她问我年纪，那我随便回复她，让我很无语的是她这句“好几是好几？”。。。</description>
     </item>
   </channel>
 </rss>
