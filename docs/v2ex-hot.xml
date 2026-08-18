@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 18 Aug 2026 05:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:23:29 GMT</lastBuildDate>
     <item>
       <title>女朋友说在我家呆着不舒服，再也不想来我家了</title>
       <link>https://www.v2ex.com/t/1235142</link>
@@ -83,22 +83,6 @@ VW05TCI9BZ83
 </description>
     </item>
     <item>
-      <title>碰到这种熊孩子咋办?</title>
-      <link>https://www.v2ex.com/t/1235180</link>
-      <guid>v2ex-1235180</guid>
-      <pubDate>Tue, 18 Aug 2026 01:29:09 GMT</pubDate>
-      <description>&lt;p&gt;我们家楼下住了一个小男孩，不知道几岁，反正很小，特别喜欢乱蹦乱跳，乱哭乱嚎，有的时候早上特别早的时候他就开始蹦，然后我就能感受到，我去找了好几次，小男孩的奶奶说他们已经说了但是孩子不听他们也管不了。&lt;/p&gt;
-&lt;p&gt;昨晚小男孩在我快睡着的事后又开始折腾直接把我吵醒，我失眠到三点多，早上七点左右小男孩就开始乱嚎。我实在气的没辙，就写了张纸条贴在了电梯里“管好自己的孩子，不要乱蹦乱跳，乱哭乱嚎，影响别人休息。”这张纸条也没指名道姓，不知道会有啥效果？对待这种熊孩子 v 友们有别的招吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>个人是否应该投资购买 DGX Spark 之类的硬件来跑开源模型？既是自用，也是某种防止硬件涨价的投资？</title>
-      <link>https://www.v2ex.com/t/1234981</link>
-      <guid>v2ex-1234981</guid>
-      <pubDate>Mon, 17 Aug 2026 05:56:35 GMT</pubDate>
-      <description>考虑这几个因素：&lt;br /&gt;1. 回本周期看起来还行，特别是考虑到现在涨价后的 token 价格。用完的硬件还可以二次出售。&lt;br /&gt;2. 硬件产能似乎不足，逼得 DeepSeek 官方也涨价了。硬件价格短期应该缓解不了吧。&lt;br /&gt;3. 模型越来越聪明了。本地化也很够用了。&lt;br /&gt;&lt;br /&gt;或者有其他更好的方案吗？从没想过靠硬件来保值。硬件小白，诸位轻喷。</description>
-    </item>
-    <item>
       <title>公司要查看私人手机，是否合法</title>
       <link>https://www.v2ex.com/t/1235198</link>
       <guid>v2ex-1235198</guid>
@@ -109,6 +93,15 @@ VW05TCI9BZ83
 &lt;p&gt;手机是个人的，不是公司的。手机上装了一些翻墙软件和国外软件，手机从未连接公司网络。&lt;/p&gt;
 &lt;p&gt;问题一：这是否合法？如何应对？&lt;/p&gt;
 &lt;p&gt;问题二: 要不要离开这家公司？现在大形势不好，离开不好找工作。考虑过去创业，但条件不太允许，有房贷有孩子。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>碰到这种熊孩子咋办?</title>
+      <link>https://www.v2ex.com/t/1235180</link>
+      <guid>v2ex-1235180</guid>
+      <pubDate>Tue, 18 Aug 2026 01:29:09 GMT</pubDate>
+      <description>&lt;p&gt;我们家楼下住了一个小男孩，不知道几岁，反正很小，特别喜欢乱蹦乱跳，乱哭乱嚎，有的时候早上特别早的时候他就开始蹦，然后我就能感受到，我去找了好几次，小男孩的奶奶说他们已经说了但是孩子不听他们也管不了。&lt;/p&gt;
+&lt;p&gt;昨晚小男孩在我快睡着的事后又开始折腾直接把我吵醒，我失眠到三点多，早上七点左右小男孩就开始乱嚎。我实在气的没辙，就写了张纸条贴在了电梯里“管好自己的孩子，不要乱蹦乱跳，乱哭乱嚎，影响别人休息。”这张纸条也没指名道姓，不知道会有啥效果？对待这种熊孩子 v 友们有别的招吗？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -127,53 +120,39 @@ VW05TCI9BZ83
 </description>
     </item>
     <item>
-      <title>完全隐蔽，终端里打德州扑克</title>
-      <link>https://www.v2ex.com/t/1235023</link>
-      <guid>v2ex-1235023</guid>
-      <pubDate>Mon, 17 Aug 2026 07:43:00 GMT</pubDate>
-      <description>&lt;p&gt;使用命令行界面打无限注德州，摸鱼首选。连上就进当前没满的桌，空桌则等真人，大于等于两人即开桌。&lt;/p&gt;
-&lt;p&gt;本机如果没用过 SSH ，先执行一次（一路回车）：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;ssh-keygen -t ed25519
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;然后把「昵称」换成你想显示的名字：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;ssh -p 2222 昵称 @riverjam.club
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;账号认本机 SSH 。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;&lt;strong&gt;说明（规则 + 界面）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这是一个跑在 SSH 里的文字桌。界面像日志，没有牌桌图，也没有 fold / 黑桃 这类词。规则还是无限注德州。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;进入&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;ssh -p 2222 昵称 @riverjam.club&lt;/code&gt;（字母数字、下划线、短横，最多 16 个字符）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;你会看到&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;journal 0.3
-attached
-id 你的昵称 bal=20000
-seated t=1 n=1/9
-stk=2000 bal=18000
-wait n=1/9 0m
-&lt;/code&gt;&lt;/pre&gt;
+      <title>大佬们 gpt plus 用完了如何解决，非强度开发</title>
+      <link>https://www.v2ex.com/t/1235166</link>
+      <guid>v2ex-1235166</guid>
+      <pubDate>Tue, 18 Aug 2026 00:58:19 GMT</pubDate>
+      <description>&lt;p&gt;plus 有时不够用
+5X 用不完。。&lt;/p&gt;
+&lt;p&gt;买日抛号靠谱不&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>韩国生育率这事 我看国内宣传的主要是外取，似乎不仅仅是这样</title>
+      <link>https://www.v2ex.com/t/1235193</link>
+      <guid>v2ex-1235193</guid>
+      <pubDate>Tue, 18 Aug 2026 01:50:20 GMT</pubDate>
+      <description>&lt;h4&gt;现象&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;bal&lt;/code&gt; 账户余额，&lt;code&gt;stk&lt;/code&gt; 这桌带进来的筹码&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;wait n=1/9 3m&lt;/code&gt;：人数，以及已等了几分钟&lt;/li&gt;
-&lt;li&gt;少于 2 人不开始；第一手开始打前再等 20 秒&lt;/li&gt;
-&lt;li&gt;当前进行中进来会看到 &lt;code&gt;watch&lt;/code&gt; / &lt;code&gt;wait next&lt;/code&gt;：能看公共牌和别人怎么动，看不到任何人的底牌；下一手自动入局&lt;/li&gt;
-&lt;li&gt;第 10 人进新桌&lt;/li&gt;
+&lt;li&gt;最近或多或少在视频平台上看到了说韩国生育率的事情，似乎主题一直都是通过外娶，放开了异国婚姻&lt;/li&gt;
+&lt;li&gt;看多了之后，难免觉得不太对劲，这种应该是只满足了最基础的需求，但是生娃要的不仅仅是婚姻这么简单&lt;/li&gt;
+&lt;li&gt;我自己就想着看看是怎么个事，查了一些信息&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;轮到你：&lt;code&gt;act you … need=… minr=… stk=… t=60&lt;/code&gt;&lt;br/&gt;
-等别人：&lt;code&gt;act 对方昵称 … t=60&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;need&lt;/code&gt; 是还差多少才能跟平。&lt;code&gt;minr&lt;/code&gt; 是这条街最少加到多少。&lt;code&gt;r 60&lt;/code&gt; 是当前这条街（翻/转/河各自单独算）加到 60 ，不含前面已经进池的。&lt;code&gt;t&lt;/code&gt; 是剩余秒数。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;行动&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;f&lt;/code&gt; 弃　&lt;code&gt;c&lt;/code&gt; 跟　&lt;code&gt;k&lt;/code&gt; 过　&lt;code&gt;r 60&lt;/code&gt; 加到 60 　&lt;code&gt;a&lt;/code&gt; 全下&lt;br/&gt;
-&lt;code&gt;b&lt;/code&gt; 余额　&lt;code&gt;l&lt;/code&gt; 排行　&lt;code&gt;j&lt;/code&gt; 再入队　&lt;code&gt;q&lt;/code&gt; 离开（桌上筹码回到自己账户）&lt;br/&gt;
-&lt;code&gt;m&lt;/code&gt; 看花色对照（旁边有人时别敲）&lt;/p&gt;
-&lt;p&gt;60 秒不行动：能过就自动 &lt;code&gt;k&lt;/code&gt;，否则自动 &lt;code&gt;f&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;牌&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;点数：&lt;code&gt;A K Q J T 9-2&lt;/code&gt;&lt;br/&gt;
-花色映射为数字，跟随在点后面：&lt;code&gt;1&lt;/code&gt; 黑桃　&lt;code&gt;2&lt;/code&gt; 红桃　&lt;code&gt;3&lt;/code&gt; 方片　&lt;code&gt;4&lt;/code&gt; 梅花&lt;br/&gt;
-例：&lt;code&gt;A.1&lt;/code&gt; 黑桃 A ，&lt;code&gt;K.2&lt;/code&gt; 红桃 K ，&lt;code&gt;T.4&lt;/code&gt; 梅花 10&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;筹码&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;新号 20000 ，买入默认 2000 （ 1000–4000 ）。余额低于 2000 时，跨自然日补到 2000 。上限 500000 。破产离座。&lt;/p&gt;
-&lt;p&gt;欢迎摸鱼的时候来玩。&lt;/p&gt;
+&lt;h4&gt;信息&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;1 、生育补贴：这个应该是一直就有的，0-1 岁看 24 年的韩国新闻就已经到 2000 万（ RMB 大概 10W ）&lt;/li&gt;
+&lt;li&gt;2 、育儿假：天数和钱这些就不说了，又出了个 6+6 共同休假，从政策+资金层面保护女性生育职业生涯的风险和孕育初期的精神状态，老公+老婆一起休假，能拿多一半的补贴，妻子自己休只能拿普通补贴&lt;/li&gt;
+&lt;li&gt;3 、住房贷款优惠：新婚就有低息贷款，生完娃还能叠加利率优惠&lt;/li&gt;
+&lt;li&gt;4 、托育结构也是在政策+市场上发力，解决带娃的问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;总结&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;呜呜呜 羡慕哭了，果真事情不那么简单，宣传口就只说一面&lt;/li&gt;
+&lt;li&gt;从结婚 -&amp;gt; 生娃 -&amp;gt; 养育 方方面面都有政策补贴&lt;/li&gt;
+&lt;li&gt;我这自己也是养娃了，要是真有这些补贴，真的会很不一样啊&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
   </channel>
