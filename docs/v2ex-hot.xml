@@ -4,38 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:12:15 GMT</lastBuildDate>
-    <item>
-      <title>27 岁还没做到税后 2W，是不是发展得有点慢了？</title>
-      <link>https://www.v2ex.com/t/1235314</link>
-      <guid>v2ex-1235314</guid>
-      <pubDate>Tue, 18 Aug 2026 07:28:58 GMT</pubDate>
-      <description>&lt;p&gt;最近突然有点焦虑，想来 V2EX 问问大家。&lt;/p&gt;
-&lt;p&gt;本人 26 岁，程序员，目前工作几年了，最近比较关心一个问题：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;27 岁左右，做到税后月薪 2W 的人多吗？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这里说的是实际每个月到手 2W 左右，不算年终奖、股票这些，单纯看月收入。&lt;/p&gt;
-&lt;p&gt;我自己目前离这个目标还有一些差距，所以也想看看大家都是怎么走过来的。&lt;/p&gt;
-&lt;p&gt;比较想了解下面这些情况：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;年龄 / 工作年限&lt;/li&gt;
-&lt;li&gt;城市&lt;/li&gt;
-&lt;li&gt;Java / 前端 / 后端 / 客户端 / 测试 / 运维等方向&lt;/li&gt;
-&lt;li&gt;目前税前、税后大概多少&lt;/li&gt;
-&lt;li&gt;13 薪 / 14 薪还是普通 12 薪&lt;/li&gt;
-&lt;li&gt;五险一金是否全额&lt;/li&gt;
-&lt;li&gt;平时工作强度，996 / 965 / 双休之类&lt;/li&gt;
-&lt;li&gt;学历情况（如果方便的话）&lt;/li&gt;
-&lt;li&gt;最重要的是：&lt;strong&gt;你觉得自己是靠什么涨到现在这个收入的？&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;比如是跳槽涨薪、技术深度、业务能力、进大厂，还是纯粹赶上了行业红利？&lt;/p&gt;
-&lt;p&gt;我主要是想找一些真实的参考，不是单纯比较工资。&lt;/p&gt;
-&lt;p&gt;毕竟平时刷招聘网站、脉脉或者 V2EX ，很容易产生一种“别人 27 岁都 30K+，只有自己还在原地”的错觉 😂&lt;/p&gt;
-&lt;p&gt;所以想看看大家真实情况到底是什么样。&lt;/p&gt;
-&lt;p&gt;如果方便的话，也欢迎大家顺便说说：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如果重新回到 27 岁前，你会建议现在的自己重点学什么、往哪个方向发展？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;想认真学习一下各位大佬的经验。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 07:59:14 GMT</lastBuildDate>
     <item>
       <title>初恋结婚了，新郎不是我</title>
       <link>https://www.v2ex.com/t/1235460</link>
@@ -61,16 +30,6 @@
       <description>今天又被迫喝酒了，  酒桌上那些劝酒的场景不描述了， 就是大家想象的最典型的那种。&lt;br /&gt;我自己酒量算平均线以上吧， 这次没有吐， 但是一直撑到回家以后洗了个澡以后还是很难受， 吐又不是不吐又不是， 头还隐隐发痛， 睡不着， 怕睡到一半还是得起来吐，越想越气， 我真的恨死这种酒桌文化了， 大家说这种又不好喝又伤身体没有半点好处的事情， 为什么要拼着自己不好受也要灌倒对方， 来表达自己的所谓&quot;够意思&quot;呢？&lt;br /&gt;&lt;br /&gt;即便我能用纳什均衡来解释囚徒困境， 我依然不能赞同这种愚劣的酒桌文化。&lt;br /&gt;今晚话有点多了， 我真的醉了， 字面上的意思。&lt;br /&gt;同意的请把公屏打在 111 上</description>
     </item>
     <item>
-      <title>AI Coding 时代作为面试官已经不会面试开发了</title>
-      <link>https://www.v2ex.com/t/1235472</link>
-      <guid>v2ex-1235472</guid>
-      <pubDate>Wed, 19 Aug 2026 01:28:32 GMT</pubDate>
-      <description>&lt;p&gt;这几年 AI Coding 盛行之后，给公司面试候选人成了一个比较难的点，刚毕业的学生基本失去了手写代码的能力，并且对一些基础原理也不知道。项目基本都是让 AI 写的，自己就是动动嘴皮子，调试能力也没有，出了问题就是让 AI 解决，而且最近几年收到的简历项目大多是 XXAgent,看着高大上，实际完全没什么用。纯胡编乱造。牛头不对马嘴&lt;/p&gt;
-&lt;p&gt;我知道 v 站上有不少 AI Coding 疯狂的拥趸者，认为现在这个时代手写代码就是傻 X ，AI 能力无敌强。本人并不反对使用 AI 进行开发，本人开发也使用 AI,但是作为一个十几年开发经验的中老程序员，能给 AI 兜兜底，哪些地方是必须要踩刹车还是知道的。&lt;/p&gt;
-&lt;p&gt;回到正题，如果所有的候选人都是使用 AI Coding 完成项目，就目前从技术侧的角度上看，我觉得都没什么优势和壁垒。所以已经不会招人了，不知道啥样的开发是所谓可能有潜力的。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>为什么没有诞生第二个“胖东来”？</title>
       <link>https://www.v2ex.com/t/1235483</link>
       <guid>v2ex-1235483</guid>
@@ -87,6 +46,16 @@
 </description>
     </item>
     <item>
+      <title>AI Coding 时代作为面试官已经不会面试开发了</title>
+      <link>https://www.v2ex.com/t/1235472</link>
+      <guid>v2ex-1235472</guid>
+      <pubDate>Wed, 19 Aug 2026 01:28:32 GMT</pubDate>
+      <description>&lt;p&gt;这几年 AI Coding 盛行之后，给公司面试候选人成了一个比较难的点，刚毕业的学生基本失去了手写代码的能力，并且对一些基础原理也不知道。项目基本都是让 AI 写的，自己就是动动嘴皮子，调试能力也没有，出了问题就是让 AI 解决，而且最近几年收到的简历项目大多是 XXAgent,看着高大上，实际完全没什么用。纯胡编乱造。牛头不对马嘴&lt;/p&gt;
+&lt;p&gt;我知道 v 站上有不少 AI Coding 疯狂的拥趸者，认为现在这个时代手写代码就是傻 X ，AI 能力无敌强。本人并不反对使用 AI 进行开发，本人开发也使用 AI,但是作为一个十几年开发经验的中老程序员，能给 AI 兜兜底，哪些地方是必须要踩刹车还是知道的。&lt;/p&gt;
+&lt;p&gt;回到正题，如果所有的候选人都是使用 AI Coding 完成项目，就目前从技术侧的角度上看，我觉得都没什么优势和壁垒。所以已经不会招人了，不知道啥样的开发是所谓可能有潜力的。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>跟摩的佬骂起来了。</title>
       <link>https://www.v2ex.com/t/1235479</link>
       <guid>v2ex-1235479</guid>
@@ -94,6 +63,23 @@
       <description>&lt;p&gt;今天早上出深圳城中村门口，左边有摩的进来，后面一辆摩的疯狂滴，我就停住了，我说你赶着投胎吗？
 是个 50 多岁老登，非法载客还加装雨棚，最烦这种人了。也不管行人死活，之前就经常被这种雨棚挂到头，就跟他骂了起来，
 骂累之后就各自走了。随后我就拨打了 12328 ，也不知道有没有用。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>现在小区房的隔音问题真的无解了</title>
+      <link>https://www.v2ex.com/t/1235485</link>
+      <guid>v2ex-1235485</guid>
+      <pubDate>Wed, 19 Aug 2026 01:47:09 GMT</pubDate>
+      <description>&lt;p&gt;  最近被楼上小孩搞的有点噪敏了  &lt;/p&gt;
+&lt;p&gt;  暑假的时候，六点半准时咚的一声起床（虽然我们工作日七点起床，但是提前半个小时醒真的很不爽了），周末各种拖凳子，还有一次在电梯被我看到穿轮滑鞋，等我到家，不一会儿，楼上就传来同样的轮滑的声音，但是这是白天，也不影响休息就算了。&lt;/p&gt;
+&lt;p&gt;  现在放暑假了，不知道晚上十一二点在搞什么，隔一段时间就有关门的声音，真的很影响睡眠我服了。  &lt;/p&gt;
+&lt;p&gt;  我已经上门找了两次了，第一次我还提了点水果，拿了隔音贴，让他们帮忙贴一下凳子腿。第二次好像是刚放暑假第一天，晚上丢什么珠子还是啥的东西。刚睡着被吵醒火大上去按门铃，但是两次家长的态度又很好。现在有点不知道怎么办了。&lt;/p&gt;
+&lt;p&gt;  突然有点后悔搬家了。之前租的小区楼下的楼下，有个噪敏患者，所以晚上 11 点之后，楼上楼下都不敢有一点动静，晚上睡觉房间静的掉根针都能听见。但是唯一的坏处就是，不知道她什么时候会不定时发作。毕竟半夜敲墙被吵醒还是很烦的，搞得我现在也想这么不管不顾的发疯了，可能只有发疯问题才能得到解决。屠龙者终成恶龙的感觉让我有点无奈。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.v2ex.com/t/1158687#reply116&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1158687#reply116&lt;/a&gt;&lt;br/&gt;
+贴一下前情，那时候我还天真的以为，只要搬家就能解决问题，现在看好像除非住顶楼，或者邻居确实是有素质的人，不然很大概率搬哪里都一样&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/KkPSyhH&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/KkPSyhH&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://imgur.com/a/95AO6wd&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/a/95AO6wd&lt;/a&gt;&lt;br/&gt;
+这里附一下跟前房东的聊天记录（不想因为之前的帖子又被喷一次），语音识别的广普会有点乱，反正大概意思就是 17 和 18 楼有矛盾，18 楼是个噪敏，他们经常“开战”，波及到了我住的 20 楼&lt;/p&gt;
 </description>
     </item>
   </channel>
