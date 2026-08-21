@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 21 Aug 2026 05:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:25:45 GMT</lastBuildDate>
     <item>
       <title>谈了 3 年，准备 10.13 领证，最后因为钱和结婚规划分手，求已婚男性帮忙复盘</title>
       <link>https://www.v2ex.com/t/1235878</link>
@@ -139,12 +139,11 @@
       <description>如题，各位大佬，昨天凌晨左侧腰痛得不得了，挂了急诊后发现输尿管被结石堵了，医生开了止痛针后喊我自己回去尝试排出来。。如果排不出来就动手术抓出来但是要住院。。。7mm*3mm</description>
     </item>
     <item>
-      <title>还有比 wps 更恶心的软件吗</title>
-      <link>https://www.v2ex.com/t/1235930</link>
-      <guid>v2ex-1235930</guid>
-      <pubDate>Thu, 20 Aug 2026 08:47:32 GMT</pubDate>
-      <description>&lt;p&gt;老婆因为工作关系 wps,office 都要用，每次打开她笔记本都要改关联，限制了两次 wps 依旧偷偷劫持，ai 也劫持，然后偷偷在注册表启用智能备份。&lt;/p&gt;
-</description>
+      <title>统计一下大家现在 vibe coding 的方案</title>
+      <link>https://www.v2ex.com/t/1236041</link>
+      <guid>v2ex-1236041</guid>
+      <pubDate>Fri, 21 Aug 2026 01:25:32 GMT</pubDate>
+      <description>之前用 codex ，但是最近 codex 重置频率的越来越少，额度告急&lt;br /&gt;请教一下大家现在都用什么方案来 vibe coding 呀</description>
     </item>
     <item>
       <title>毕业跟大学老师干了 3 年，欠薪 4 个月还在温水煮青蛙，纠结要不要跑路</title>
@@ -169,6 +168,14 @@
 &lt;li&gt;程序员现在有没有什么靠谱好用的简历模板或网站推荐？ 3 年全栈第一次社招该怎么准备？&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;求老哥们骂醒，多给点建议，感谢！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>还有比 wps 更恶心的软件吗</title>
+      <link>https://www.v2ex.com/t/1235930</link>
+      <guid>v2ex-1235930</guid>
+      <pubDate>Thu, 20 Aug 2026 08:47:32 GMT</pubDate>
+      <description>&lt;p&gt;老婆因为工作关系 wps,office 都要用，每次打开她笔记本都要改关联，限制了两次 wps 依旧偷偷劫持，ai 也劫持，然后偷偷在注册表启用智能备份。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -207,13 +214,6 @@
 </description>
     </item>
     <item>
-      <title>统计一下大家现在 vibe coding 的方案</title>
-      <link>https://www.v2ex.com/t/1236041</link>
-      <guid>v2ex-1236041</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:32 GMT</pubDate>
-      <description>之前用 codex ，但是最近 codex 重置频率的越来越少，额度告急&lt;br /&gt;请教一下大家现在都用什么方案来 vibe coding 呀</description>
-    </item>
-    <item>
       <title>你的余额宝会放很多钱吗？</title>
       <link>https://www.v2ex.com/t/1236027</link>
       <guid>v2ex-1236027</guid>
@@ -222,18 +222,18 @@
 </description>
     </item>
     <item>
-      <title>我们开始倒班考勤了</title>
-      <link>https://www.v2ex.com/t/1236064</link>
-      <guid>v2ex-1236064</guid>
-      <pubDate>Fri, 21 Aug 2026 02:08:08 GMT</pubDate>
-      <description>没想到程序员也开始轮班了。&lt;br /&gt;&lt;br /&gt;AI 时代，倒班真的来了。&lt;br /&gt;&lt;br /&gt;由于智谱、DeepSeek 都实行高峰期 Token 翻倍策略，公司为了节约 Token 成本，本周起开始实行新考勤制度：&lt;br /&gt;&lt;br /&gt;非周末休息一天，周末再休息一天，可自由组合，但需要提前排班。&lt;br /&gt;&lt;br /&gt;与此同时，工作日作息也调整为 14:00 以后再午休。&lt;br /&gt;&lt;br /&gt;AI 不一定先抢走我的工作，&lt;br /&gt;但它已经开始决定我什么时候上班、什么时候休息了。&lt;br /&gt;AI 时代的一粒尘埃，落到了我的身上。</description>
-    </item>
-    <item>
       <title>你们会骂 AI 吗</title>
       <link>https://www.v2ex.com/t/1236083</link>
       <guid>v2ex-1236083</guid>
       <pubDate>Fri, 21 Aug 2026 02:32:07 GMT</pubDate>
       <description>遇到需求理解错误跑偏，牛头不对马嘴的时候，我都是重开一个回话，重新整理提示词。和 AI 对骂又解决不了问题。</description>
+    </item>
+    <item>
+      <title>我们开始倒班考勤了</title>
+      <link>https://www.v2ex.com/t/1236064</link>
+      <guid>v2ex-1236064</guid>
+      <pubDate>Fri, 21 Aug 2026 02:08:08 GMT</pubDate>
+      <description>没想到程序员也开始轮班了。&lt;br /&gt;&lt;br /&gt;AI 时代，倒班真的来了。&lt;br /&gt;&lt;br /&gt;由于智谱、DeepSeek 都实行高峰期 Token 翻倍策略，公司为了节约 Token 成本，本周起开始实行新考勤制度：&lt;br /&gt;&lt;br /&gt;非周末休息一天，周末再休息一天，可自由组合，但需要提前排班。&lt;br /&gt;&lt;br /&gt;与此同时，工作日作息也调整为 14:00 以后再午休。&lt;br /&gt;&lt;br /&gt;AI 不一定先抢走我的工作，&lt;br /&gt;但它已经开始决定我什么时候上班、什么时候休息了。&lt;br /&gt;AI 时代的一粒尘埃，落到了我的身上。</description>
     </item>
   </channel>
 </rss>
