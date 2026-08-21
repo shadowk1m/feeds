@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 21 Aug 2026 08:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:04:42 GMT</lastBuildDate>
     <item>
       <title>如何把尿道结石排出来?</title>
       <link>https://www.v2ex.com/t/1236025</link>
@@ -45,19 +45,22 @@
 </description>
     </item>
     <item>
-      <title>还有比 wps 更恶心的软件吗</title>
-      <link>https://www.v2ex.com/t/1235930</link>
-      <guid>v2ex-1235930</guid>
-      <pubDate>Thu, 20 Aug 2026 08:47:32 GMT</pubDate>
-      <description>&lt;p&gt;老婆因为工作关系 wps,office 都要用，每次打开她笔记本都要改关联，限制了两次 wps 依旧偷偷劫持，ai 也劫持，然后偷偷在注册表启用智能备份。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>你们会骂 AI 吗</title>
       <link>https://www.v2ex.com/t/1236083</link>
       <guid>v2ex-1236083</guid>
       <pubDate>Fri, 21 Aug 2026 02:32:07 GMT</pubDate>
       <description>遇到需求理解错误跑偏，牛头不对马嘴的时候，我都是重开一个回话，重新整理提示词。和 AI 对骂又解决不了问题。</description>
+    </item>
+    <item>
+      <title>刚刚看到 Tibo 说 Codex 额度用的太快是 sub2api 的问题</title>
+      <link>https://www.v2ex.com/t/1236151</link>
+      <guid>v2ex-1236151</guid>
+      <pubDate>Fri, 21 Aug 2026 05:45:48 GMT</pubDate>
+      <description>&lt;p&gt;不知道大家在用 sub2api 的是不是最近会有问题
+我是两个 pro 20 反代了半年多
+昨天重置前是出现了额度消耗很快
+我还以为是我开了 fast 和最近没有 rest 的原因&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>你的余额宝会放很多钱吗？</title>
@@ -75,22 +78,20 @@
       <description>没想到程序员也开始轮班了。&lt;br /&gt;&lt;br /&gt;AI 时代，倒班真的来了。&lt;br /&gt;&lt;br /&gt;由于智谱、DeepSeek 都实行高峰期 Token 翻倍策略，公司为了节约 Token 成本，本周起开始实行新考勤制度：&lt;br /&gt;&lt;br /&gt;非周末休息一天，周末再休息一天，可自由组合，但需要提前排班。&lt;br /&gt;&lt;br /&gt;与此同时，工作日作息也调整为 14:00 以后再午休。&lt;br /&gt;&lt;br /&gt;AI 不一定先抢走我的工作，&lt;br /&gt;但它已经开始决定我什么时候上班、什么时候休息了。&lt;br /&gt;AI 时代的一粒尘埃，落到了我的身上。</description>
     </item>
     <item>
-      <title>刚刚看到 Tibo 说 Codex 额度用的太快是 sub2api 的问题</title>
-      <link>https://www.v2ex.com/t/1236151</link>
-      <guid>v2ex-1236151</guid>
-      <pubDate>Fri, 21 Aug 2026 05:45:48 GMT</pubDate>
-      <description>&lt;p&gt;不知道大家在用 sub2api 的是不是最近会有问题
-我是两个 pro 20 反代了半年多
-昨天重置前是出现了额度消耗很快
-我还以为是我开了 fast 和最近没有 rest 的原因&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>半夜腰疼</title>
       <link>https://www.v2ex.com/t/1236047</link>
       <guid>v2ex-1236047</guid>
       <pubDate>Fri, 21 Aug 2026 01:30:38 GMT</pubDate>
       <description>&lt;p&gt;前两天每天睡醒之后腰很僵，动一下就疼，起来活动下就好了，今天直接半夜疼醒了，晚上起来站了 10 分钟才回去睡，白天上班倒是不怎么疼，有没有相似情况的老哥？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>请教下各位用的都是什么梯子订阅</title>
+      <link>https://www.v2ex.com/t/1236097</link>
+      <guid>v2ex-1236097</guid>
+      <pubDate>Fri, 21 Aug 2026 03:04:04 GMT</pubDate>
+      <description>&lt;p&gt;现在 AI 火爆，随之而来就是对梯子稳定/延迟的考验，目前已经试过闪电/大机场/冲浪猫/Bocchi/追云，其中闪电和大机场年订阅 260 ，延迟略高但平稳，稳定一般（一天内会偶现 Timeout ）;冲浪猫/Bocchi 可以按流量/年订阅选择，价格一百左右够用，延迟略低但波动，稳定略强（两三天会偶现 Timeout ）;追云是便宜延迟低但稳定较差（一天内可能几次 Timeout ）。&lt;/p&gt;
+&lt;p&gt;想了解下各位的梯子用的哪些，可以分享带邀请码的，简单说明下价格/延迟/波动等情况，以及设备限制/速率等。&lt;/p&gt;
 </description>
     </item>
   </channel>
