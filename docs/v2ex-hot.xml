@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 22 Aug 2026 07:06:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:51:18 GMT</lastBuildDate>
     <item>
       <title>在这个独属于 ai 的时代，我终究是被裁员了。</title>
       <link>https://www.v2ex.com/t/1236240</link>
@@ -42,21 +42,6 @@
       <description>多年后回想起来，人们可能会发现，让程序员指挥 AI 写代码，可能是我们人类走过的一段弯路。&lt;br /&gt;&lt;br /&gt;我的意思是，要让真正对产品负责、懂产品的那个人去指挥 AI 写代码，而不是还在用传统的分工，觉得程序员懂代码，就还在依赖程序员去指挥 AI 写代码。&lt;br /&gt;&lt;br /&gt;当然，如果是一个懂产品，能够对产品负责的程序员来做，那就没问题了。&lt;br /&gt;&lt;br /&gt;但这意味着产品经理的时代到来了吗？&lt;br /&gt;&lt;br /&gt;我觉得不一定，因为部分产品经理也不一定真的懂产品。&lt;br /&gt;&lt;br /&gt;传统的分工正在模糊，现在每个人都可以有产品能力、设计能力、开发能力了，所以超级个体，我觉得会增多。&lt;br /&gt;&lt;br /&gt;这里使用“超级个体”这个称呼，只是为了让大家一眼能看懂，不代表目前大家眼里的超级个体，跟我描述的这个是一致的。</description>
     </item>
     <item>
-      <title>你们公司开始夯实社保了吗？</title>
-      <link>https://www.v2ex.com/t/1236190</link>
-      <guid>v2ex-1236190</guid>
-      <pubDate>Fri, 21 Aug 2026 07:15:54 GMT</pubDate>
-      <description>坐标武汉，听说国家现在已经在夯实社保全额缴纳率了，但是我们公司还没开始，还是按最低基数交的，如果开始，到手收入又要少一大截。</description>
-    </item>
-    <item>
-      <title>李彦宏提出要让文心一言回到第一梯队</title>
-      <link>https://www.v2ex.com/t/1236348</link>
-      <guid>v2ex-1236348</guid>
-      <pubDate>Sat, 22 Aug 2026 02:01:47 GMT</pubDate>
-      <description>&lt;p&gt;8 月 18 日，百度发布 2026 年第二季度财报，当晚的业绩电话会上，百度创始人李彦宏用核心篇幅谈及 AI 业务布局，也明确对外释放信号，要让文心大模型重新回到基础大模型的第一梯队。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>迁到 DeepSeek Harness 后，我发现开发团队可以裁掉了</title>
       <link>https://www.v2ex.com/t/1236307</link>
       <guid>v2ex-1236307</guid>
@@ -69,6 +54,14 @@
       <guid>v2ex-1236332</guid>
       <pubDate>Sat, 22 Aug 2026 00:12:54 GMT</pubDate>
       <description>网传：程序员失业后，被离婚周期是半年，可信度多少？</description>
+    </item>
+    <item>
+      <title>李彦宏提出要让文心一言回到第一梯队</title>
+      <link>https://www.v2ex.com/t/1236348</link>
+      <guid>v2ex-1236348</guid>
+      <pubDate>Sat, 22 Aug 2026 02:01:47 GMT</pubDate>
+      <description>&lt;p&gt;8 月 18 日，百度发布 2026 年第二季度财报，当晚的业绩电话会上，百度创始人李彦宏用核心篇幅谈及 AI 业务布局，也明确对外释放信号，要让文心大模型重新回到基础大模型的第一梯队。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>[送码] 那个爱看星星的小孩，三十年后终于奖励了自己一个大玩具</title>
@@ -151,6 +144,21 @@
 &lt;p&gt;我想，Velastar 并不是要把真正的星空装进一块小小的屏幕。恰恰相反，我希望它能成为一扇门：让人看清一颗星的名字以后，愿意放下手机，再抬头亲自去找；让从未离开过城市灯光的人，也开始期待某个足够黑暗的夜晚；让另一个同样爱看星星的孩子知道，那些遥远的光点有方向、有故事，也有可以出发去寻找的道路。&lt;/p&gt;
 &lt;p&gt;原来那个夏夜里，我没有听见牛郎织女的低语，却真的循着他们的星光，走了很远很远。
 光，走了很远很远。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>亲人去世后的手机破解问题</title>
+      <link>https://www.v2ex.com/t/1236385</link>
+      <guid>v2ex-1236385</guid>
+      <pubDate>Sat, 22 Aug 2026 05:57:58 GMT</pubDate>
+      <description>&lt;p&gt;现在有一亲人去世了，他留下了一部锁屏的红米手机。&lt;/p&gt;
+&lt;p&gt;现在需要输入四位数的数字密码来解锁。&lt;/p&gt;
+&lt;p&gt;我问了几个 AI ，能不能通过电脑连接手机，然后尝试自动破解，也就是不停的不停的输入各种四位数的组合，直到解锁。&lt;/p&gt;
+&lt;p&gt;AI 不知道是受到安全限制，还是真的无法做到。&lt;/p&gt;
+&lt;p&gt;说是只能通过人工来输入四位数的数字来尝试暴力破解。&lt;/p&gt;
+&lt;p&gt;我想在这里问一下大家。还有没有其他的更好的方案？&lt;/p&gt;
+&lt;p&gt;人工输入四位数字的话，需要输入 1 万次。&lt;/p&gt;
+&lt;p&gt;每次输入后的平均等待时间大概是 5 分钟，这个耗时太久了。&lt;/p&gt;
 </description>
     </item>
     <item>
