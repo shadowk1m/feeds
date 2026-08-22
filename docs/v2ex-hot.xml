@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 22 Aug 2026 00:35:55 GMT</lastBuildDate>
-    <item>
-      <title>统计一下大家现在 vibe coding 的方案</title>
-      <link>https://www.v2ex.com/t/1236041</link>
-      <guid>v2ex-1236041</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:32 GMT</pubDate>
-      <description>之前用 codex ，但是最近 codex 重置频率的越来越少，额度告急&lt;br /&gt;请教一下大家现在都用什么方案来 vibe coding 呀</description>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 02:07:54 GMT</lastBuildDate>
     <item>
       <title>请教下各位用的都是什么梯子订阅</title>
       <link>https://www.v2ex.com/t/1236097</link>
@@ -27,31 +20,6 @@
       <guid>v2ex-1236083</guid>
       <pubDate>Fri, 21 Aug 2026 02:32:07 GMT</pubDate>
       <description>遇到需求理解错误跑偏，牛头不对马嘴的时候，我都是重开一个回话，重新整理提示词。和 AI 对骂又解决不了问题。</description>
-    </item>
-    <item>
-      <title>毕业跟大学老师干了 3 年，欠薪 4 个月还在温水煮青蛙，纠结要不要跑路</title>
-      <link>https://www.v2ex.com/t/1236035</link>
-      <guid>v2ex-1236035</guid>
-      <pubDate>Fri, 21 Aug 2026 01:12:17 GMT</pubDate>
-      <description>&lt;h1&gt;毕业跟大学老师干了 3 年，欠薪 4 个月还在温水煮青蛙，纠结要不要跑路&lt;/h1&gt;
-&lt;p&gt;23 年本科毕业就跟着大学老师干了，进了他开的小外包公司，我是第一个员工。一晃干了 3 年多，现在公司 5 个正式员工，剩下都是在校实习生。&lt;/p&gt;
-&lt;p&gt;刚来那阵子待遇挺好的，年终奖 2 个月，还有每月孝顺金、4 天半工作制。后来大环境不行福利慢慢砍了，也就年终奖还在，我也没说啥，觉得能按时发工资就行。&lt;/p&gt;
-&lt;p&gt;但现在情况越来越不对劲，项目回款卡死，已经停发了 4 个月工资，去年年终奖也只给了一半。老板口头说下周能发点，但我估计最多先发一两个月的，剩下的等后面回款再说。其实看他也挺不容易的，我现在在上海驻场，房租是他个人垫付的，垫了好几万，他人确实还不错。&lt;/p&gt;
-&lt;p&gt;照理说欠薪 4 个月早该跑了，但我现在心态特纠结：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;温水煮青蛙太舒服了&lt;/strong&gt;：在上海包住包一顿午饭，周末双休。我名义上是全栈组长，平时也只是把需求拆一拆分给其它开发和实习生做，自己平时很少写代码了。白天大部分时间在摸鱼、盯盘看行情，日子过得太安逸，没有生存压力，根本不想跳出舒适圈，这个项目估计还能支撑一年。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;人情抹不开&lt;/strong&gt;：老板毕竟是大学老师，带我打拼了 3 年多，看他自己垫钱维持也挺不容易的，这时候提离职总觉得有点背叛他的负罪感。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;完全不会搞社招&lt;/strong&gt;：毕业后就没在外面面试过，而且简历我都不太会写。平时捣鼓 AI 和全栈比较多，但好久没深挖底层代码了，比较慌外面的八股和算法。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;一边知道这种安逸是假的（哪天撑不住断租断粮，我就得仓皇滚蛋），一边又被惰性和人情拖着。&lt;/p&gt;
-&lt;p&gt;想问问老哥们：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;这种被包吃住麻痹掉的虚假舒适圈，该怎么逼自己下狠心走出来？&lt;/li&gt;
-&lt;li&gt;离职怎么跟这种有师生情谊的老板开口比较体面？&lt;/li&gt;
-&lt;li&gt;程序员现在有没有什么靠谱好用的简历模板或网站推荐？ 3 年全栈第一次社招该怎么准备？&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;求老哥们骂醒，多给点建议，感谢！&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>刚刚看到 Tibo 说 Codex 额度用的太快是 sub2api 的问题</title>
@@ -72,11 +40,15 @@
       <description>没想到程序员也开始轮班了。&lt;br /&gt;&lt;br /&gt;AI 时代，倒班真的来了。&lt;br /&gt;&lt;br /&gt;由于智谱、DeepSeek 都实行高峰期 Token 翻倍策略，公司为了节约 Token 成本，本周起开始实行新考勤制度：&lt;br /&gt;&lt;br /&gt;非周末休息一天，周末再休息一天，可自由组合，但需要提前排班。&lt;br /&gt;&lt;br /&gt;与此同时，工作日作息也调整为 14:00 以后再午休。&lt;br /&gt;&lt;br /&gt;AI 不一定先抢走我的工作，&lt;br /&gt;但它已经开始决定我什么时候上班、什么时候休息了。&lt;br /&gt;AI 时代的一粒尘埃，落到了我的身上。</description>
     </item>
     <item>
-      <title>半夜腰疼</title>
-      <link>https://www.v2ex.com/t/1236047</link>
-      <guid>v2ex-1236047</guid>
-      <pubDate>Fri, 21 Aug 2026 01:30:38 GMT</pubDate>
-      <description>&lt;p&gt;前两天每天睡醒之后腰很僵，动一下就疼，起来活动下就好了，今天直接半夜疼醒了，晚上起来站了 10 分钟才回去睡，白天上班倒是不怎么疼，有没有相似情况的老哥？&lt;/p&gt;
+      <title>大家对最近的 12306 两人三张票三座 怎么看,个人反对!</title>
+      <link>https://www.v2ex.com/t/1236273</link>
+      <guid>v2ex-1236273</guid>
+      <pubDate>Fri, 21 Aug 2026 10:58:55 GMT</pubDate>
+      <description>&lt;p&gt;补充:
+按照国家有关规定，实行车票实名制的，列车验票时，同时核对旅客、所持车票及购票时所使用的有效身份证件原件。票、证、人不一致，按无票处理。&lt;/p&gt;
+&lt;p&gt;无坐票,无固定座位票&lt;/p&gt;
+&lt;p&gt;经济厢车票,应该是有国家对票价的补贴吧.&lt;/p&gt;
+&lt;p&gt;核心:购票者没有上车,没在车上现场的情况, 票有没有效 座有没有所属.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -90,16 +62,25 @@
 </description>
     </item>
     <item>
-      <title>大家对最近的 12306 两人三张票三座 怎么看,个人反对!</title>
-      <link>https://www.v2ex.com/t/1236273</link>
-      <guid>v2ex-1236273</guid>
-      <pubDate>Fri, 21 Aug 2026 10:58:55 GMT</pubDate>
-      <description>&lt;p&gt;补充:
-按照国家有关规定，实行车票实名制的，列车验票时，同时核对旅客、所持车票及购票时所使用的有效身份证件原件。票、证、人不一致，按无票处理。&lt;/p&gt;
-&lt;p&gt;无坐票,无固定座位票&lt;/p&gt;
-&lt;p&gt;经济厢车票,应该是有国家对票价的补贴吧.&lt;/p&gt;
-&lt;p&gt;核心:购票者没有上车,没在车上现场的情况, 票有没有效 座有没有所属.&lt;/p&gt;
-</description>
+      <title>ChatGPT 5X 一个月 800 多舍不得</title>
+      <link>https://www.v2ex.com/t/1236222</link>
+      <guid>v2ex-1236222</guid>
+      <pubDate>Fri, 21 Aug 2026 08:26:21 GMT</pubDate>
+      <description>PLUS 不够用，5X 又太贵&lt;br /&gt;&lt;br /&gt;业务又没挣钱，&lt;br /&gt;&lt;br /&gt;纠结，劝劝我</description>
+    </item>
+    <item>
+      <title>由于爱快拉跨，准备全面更换为 ros，并把家庭网络架构重构一下</title>
+      <link>https://www.v2ex.com/t/1236141</link>
+      <guid>v2ex-1236141</guid>
+      <pubDate>Fri, 21 Aug 2026 04:55:13 GMT</pubDate>
+      <description>网络拓扑图：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/uRkvHh0.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/uRkvHh0.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;监控面板：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/pwnuj3u.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/pwnuj3u.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;准备今晚等老婆睡了之后开工</description>
+    </item>
+    <item>
+      <title>似乎找到了自己在 V 站的定位</title>
+      <link>https://www.v2ex.com/t/1236157</link>
+      <guid>v2ex-1236157</guid>
+      <pubDate>Fri, 21 Aug 2026 06:01:48 GMT</pubDate>
+      <description>首席吃瓜点评员&lt;br /&gt;（俗称八婆）&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/N2bocnl.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/N2bocnl.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; 对于这些艾特我的态度是：&lt;br /&gt;  &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/81jHi2V.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/81jHi2V.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
