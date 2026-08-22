@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 22 Aug 2026 04:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 04:56:31 GMT</lastBuildDate>
     <item>
       <title>大家对最近的 12306 两人三张票三座 怎么看,个人反对!</title>
       <link>https://www.v2ex.com/t/1236273</link>
@@ -70,51 +70,6 @@
       <guid>v2ex-1236157</guid>
       <pubDate>Fri, 21 Aug 2026 06:01:48 GMT</pubDate>
       <description>首席吃瓜点评员&lt;br /&gt;（俗称八婆）&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/N2bocnl.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/N2bocnl.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; 对于这些艾特我的态度是：&lt;br /&gt;  &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/81jHi2V.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/81jHi2V.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>一条 12.8 万播放的 B 站视频，给我的 App 带来了 18 个下载</title>
-      <link>https://www.v2ex.com/t/1236135</link>
-      <guid>v2ex-1236135</guid>
-      <pubDate>Fri, 21 Aug 2026 04:33:15 GMT</pubDate>
-      <description>&lt;p&gt;前天晚上快十点，我把一条讲魔方的视频传到了 B 站。&lt;/p&gt;
-&lt;p&gt;到今天为止，它有 12.8 万播放、2198 个赞、226 个收藏。
-同一时间段，我的 App 新增了 18 个用户。&lt;/p&gt;
-&lt;p&gt;转化率 0.014%，差不多每 7000 次播放换一个下载。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;B 站数据&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.tinuv.me/spincube/bilibili-stats.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;事情的经过&lt;/h2&gt;
-&lt;p&gt;我做了个 iOS 上的魔方 App 。里面有个功能是：手里的魔方怎么拧都还原不了的时候，扫一下，它告诉你是哪个角被人拧过、往哪个方向拧回去。&lt;/p&gt;
-&lt;p&gt;魔方圈里「拧角」是个高频翻车现场——有人手贱把一个角原地转了 120 度，这台魔方在数学上就再也还原不了了，常规解法是拆开重装。&lt;/p&gt;
-&lt;p&gt;我把这个功能拍成了一条一分钟的视频，叫《魔方被拧角了 教你一招解决》。简介里放了 App Store 链接，还加了一句：&lt;strong&gt;点赞过万，本 App 终身会员限时免费 3 天。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;第二天播放量冲到十万+。我以为这波稳了。&lt;/p&gt;
-&lt;h2&gt;然后我打开了后台&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;RevenueCat&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.tinuv.me/spincube/revenuecat-newcustomers.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;19 号那根尖峰就是视频起量当天，18 个新用户。整周加起来 26 个，其余那 8 个是平时的自然量。&lt;/p&gt;
-&lt;p&gt;点赞停在 2198 ，没过万，所以那个「终身会员免费 3 天」的承诺也没机会兑现——这可能是整件事里唯一让我松口气的地方。&lt;/p&gt;
-&lt;h2&gt;几个我盯着看了很久的数字&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;226 个收藏，18 个下载。&lt;/strong&gt; 收藏的人是下载的人的 12 倍。「我以后可能用得上」的人，远多于「我现在就要」的人。魔方拧角大概一年遇上一次，刷到的当下觉得有用，但没有任何当场行动的理由。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;12.8 万播放，3 条弹幕。&lt;/strong&gt; 这个比转化率更让我在意。绝大多数人是刷到、看完、划走，纯路过流量，连吐槽的欲望都没产生。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2198 个赞，13 个投币。&lt;/strong&gt; 点赞是免费的，投币要花币。免费的认可给得很大方，需要付出成本的时候数字掉了两个数量级——这个衰减曲线和「看视频 → 下载 App 」是同一条。&lt;/p&gt;
-&lt;h2&gt;我目前的几个猜想&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;简介里的链接基本没人点。&lt;/strong&gt; B 站简介默认折叠，手机上点外链跳 App Store 还要过一次系统弹窗，每一层都在漏人。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;视频本身把问题解决了。&lt;/strong&gt; 标题承诺的是「教你一招」，点进来的人要的就是那一招，不是一个 App 。我把手法教完了，他们学会了，然后就走了。从内容角度这条视频是成功的，从投放角度它一点用没有。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;iOS 独占，而且最低要 iOS 26.0 。&lt;/strong&gt; 这个门槛砍掉了多少人我没有准确数字，但肯定不少。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;链接&lt;/h2&gt;
-&lt;p&gt;视频： [魔方被拧角了 教你一招解决-哔哩哔哩]  &lt;a href=&quot;https://b23.tv/v8y4zCc&quot; rel=&quot;nofollow&quot;&gt;https://b23.tv/v8y4zCc&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;App： &lt;a href=&quot;https://apps.apple.com/app/id6801983902?ct=v2ex&amp;amp;mt=8&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/id6801983902?ct=v2ex&amp;amp;mt=8&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;最后&lt;/h2&gt;
-&lt;p&gt;想请教做过内容投放的各位：视频平台的播放量到底能不能变成下载？&lt;/p&gt;
-&lt;p&gt;如果能，你们的转化率是多少量级？如果不能，那大家做视频究竟是在做什么——是在做品牌，还是在做一件自我感动的事？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>为什么上班之后就很容易胖？</title>
-      <link>https://www.v2ex.com/t/1236131</link>
-      <guid>v2ex-1236131</guid>
-      <pubDate>Fri, 21 Aug 2026 04:21:30 GMT</pubDate>
-      <description>&lt;p&gt;没上班之前吃得少体重就会下降，上班之后感觉也没有吃很多东西，但是明显感觉到发胖了&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>多年后回想起来，人们可能会发现，让程序员指挥 AI 写代码，可能是我们人类走过的一段弯路。</title>
@@ -230,6 +185,21 @@
 &lt;p&gt;系统：ubuntu 26.04&lt;/p&gt;
 &lt;p&gt;软件: llama.cpp + vulkan&lt;/p&gt;
 &lt;h3&gt;更喜欢哪一个结果?&lt;/h3&gt;
+</description>
+    </item>
+    <item>
+      <title>你们公司开始夯实社保了吗？</title>
+      <link>https://www.v2ex.com/t/1236190</link>
+      <guid>v2ex-1236190</guid>
+      <pubDate>Fri, 21 Aug 2026 07:15:54 GMT</pubDate>
+      <description>坐标武汉，听说国家现在已经在夯实社保全额缴纳率了，但是我们公司还没开始，还是按最低基数交的，如果开始，到手收入又要少一大截。</description>
+    </item>
+    <item>
+      <title>李彦宏提出要让文心一言回到第一梯队</title>
+      <link>https://www.v2ex.com/t/1236348</link>
+      <guid>v2ex-1236348</guid>
+      <pubDate>Sat, 22 Aug 2026 02:01:47 GMT</pubDate>
+      <description>&lt;p&gt;8 月 18 日，百度发布 2026 年第二季度财报，当晚的业绩电话会上，百度创始人李彦宏用核心篇幅谈及 AI 业务布局，也明确对外释放信号，要让文心大模型重新回到基础大模型的第一梯队。&lt;/p&gt;
 </description>
     </item>
   </channel>
