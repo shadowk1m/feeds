@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 10:46:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 11:10:59 GMT</lastBuildDate>
     <item>
       <title>感觉 Vibe Coding 时代， Windows 系统要凉了</title>
       <link>https://www.v2ex.com/t/1236462</link>
@@ -50,6 +50,13 @@
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://bun.com/blog/bun-v1.4&quot; rel=&quot;nofollow noopener&quot;&gt;https://bun.com/blog/bun-v1.4&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust&lt;br /&gt;&quot;它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%&quot;</description>
     </item>
     <item>
+      <title>很多过去认为在 apple 上不可能的实现的事现在都实现了</title>
+      <link>https://www.v2ex.com/t/1236556</link>
+      <guid>v2ex-1236556</guid>
+      <pubDate>Sun, 23 Aug 2026 06:18:24 GMT</pubDate>
+      <description>以前大家都认为&lt;br /&gt;&lt;br /&gt;* iOS 绝对不可能开放通话录音，因为这在很多国家是违法的。结果现在可以了。&lt;br /&gt;* carplay 绝对不可能看视频，因为这是危及行车安全的。结果 WWDC26 上也说可以了。&lt;br /&gt;&lt;br /&gt;下一个不可能到可能的功能会是什么？</description>
+    </item>
+    <item>
       <title>你有 token 用量和上下文焦虑吗？</title>
       <link>https://www.v2ex.com/t/1236509</link>
       <guid>v2ex-1236509</guid>
@@ -63,11 +70,19 @@
 </description>
     </item>
     <item>
-      <title>很多过去认为在 apple 上不可能的实现的事现在都实现了</title>
-      <link>https://www.v2ex.com/t/1236556</link>
-      <guid>v2ex-1236556</guid>
-      <pubDate>Sun, 23 Aug 2026 06:18:24 GMT</pubDate>
-      <description>以前大家都认为&lt;br /&gt;&lt;br /&gt;* iOS 绝对不可能开放通话录音，因为这在很多国家是违法的。结果现在可以了。&lt;br /&gt;* carplay 绝对不可能看视频，因为这是危及行车安全的。结果 WWDC26 上也说可以了。&lt;br /&gt;&lt;br /&gt;下一个不可能到可能的功能会是什么？</description>
+      <title>关于楼上渗水到楼下的问题，请友友们提供一些建议。</title>
+      <link>https://www.v2ex.com/t/1236528</link>
+      <guid>v2ex-1236528</guid>
+      <pubDate>Sun, 23 Aug 2026 03:39:36 GMT</pubDate>
+      <description>&lt;p&gt;首先，我是楼上的住户。&lt;/p&gt;
+&lt;p&gt;楼下住户最近装修，拆了吊顶后发现楼上卫生间淋浴间地漏附近有水渗下去，周围有明显被水浸泡的痕迹。&lt;/p&gt;
+&lt;p&gt;昨天咸鱼找师傅过来看了一下，给我一个方案。似乎是用一种液体胶水混合水之后覆盖在瓷砖上，然后让液体顺着有缝隙的地方流进去，等到干固之后就能够把缝隙填充，解决渗水的问题。&lt;/p&gt;
+&lt;p&gt;不知道这个方案是不现在比较主流的一种方法，关于费用，他报价在 2000 元左右。&lt;/p&gt;
+&lt;p&gt;友友们有没有过类似的经历呀？&lt;/p&gt;
+&lt;p&gt;关于这个价格和方案靠谱吗？&lt;/p&gt;
+&lt;p&gt;拍的一张图片&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;0cb696fb86fd4a8265d26e8a82a63d83.jpg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/08/23/QxzuUlZP.jpg&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>Codex 又要重置了</title>
@@ -79,20 +94,6 @@
 &lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;See you then.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Antigravity 支持远程控制了</title>
-      <link>https://www.v2ex.com/t/1236519</link>
-      <guid>v2ex-1236519</guid>
-      <pubDate>Sun, 23 Aug 2026 02:38:55 GMT</pubDate>
-      <description>&lt;p&gt;Antigravity 桌面版支持远程控制了，在设置 - App 里开启 Remote Control ，然后浏览器访问 &lt;a href=&quot;https://antigravity.google.com/&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google.com/&lt;/a&gt; 即可登录同一账号。&lt;strong&gt;登录后的界面和本地 Antigravity 完全一样，可以自由操控。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;还可以在别的机器上安装 Remote Control headless daemon ，在自己电脑上远程控制。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;版本：2.9.1&lt;/li&gt;
-&lt;li&gt;文档： &lt;a href=&quot;https://antigravity.google/docs/remote-control&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/docs/remote-control&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;博客： &lt;a href=&quot;https://antigravity.google/blog/remote-control-for-antigravity&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/blog/remote-control-for-antigravity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
   </channel>
