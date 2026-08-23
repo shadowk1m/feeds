@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 13:07:46 GMT</lastBuildDate>
-    <item>
-      <title>感觉 Vibe Coding 时代， Windows 系统要凉了</title>
-      <link>https://www.v2ex.com/t/1236462</link>
-      <guid>v2ex-1236462</guid>
-      <pubDate>Sat, 22 Aug 2026 13:31:41 GMT</pubDate>
-      <description>起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；&lt;br /&gt;&lt;br /&gt;1.各位是否有同感呢？&lt;br /&gt;&lt;br /&gt;2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?&lt;br /&gt;但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬&lt;br /&gt;&lt;br /&gt;最近接了几个大项目，都赶在一起了，看他死磕，感觉难受</description>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 13:50:30 GMT</lastBuildDate>
     <item>
       <title>2026 年键盘求推荐</title>
       <link>https://www.v2ex.com/t/1236534</link>
@@ -33,21 +26,6 @@
 &lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/7f8068e9064d0736490af3da77382199.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/4ff0a39115165f61d83b47ebd1a8cc6d.png&quot;/&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?</title>
-      <link>https://www.v2ex.com/t/1236538</link>
-      <guid>v2ex-1236538</guid>
-      <pubDate>Sun, 23 Aug 2026 04:53:20 GMT</pubDate>
-      <description>&lt;p&gt;你们氛围编程是喜欢用 tui 还是 gui ，或者哪种模式更有优势一些呢？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>很多过去认为在 apple 上不可能的实现的事现在都实现了</title>
-      <link>https://www.v2ex.com/t/1236556</link>
-      <guid>v2ex-1236556</guid>
-      <pubDate>Sun, 23 Aug 2026 06:18:24 GMT</pubDate>
-      <description>以前大家都认为&lt;br /&gt;&lt;br /&gt;* iOS 绝对不可能开放通话录音，因为这在很多国家是违法的。结果现在可以了。&lt;br /&gt;* carplay 绝对不可能看视频，因为这是危及行车安全的。结果 WWDC26 上也说可以了。&lt;br /&gt;&lt;br /&gt;下一个不可能到可能的功能会是什么？</description>
     </item>
     <item>
       <title>关于楼上渗水到楼下的问题，请友友们提供一些建议。</title>
@@ -77,6 +55,28 @@
 </description>
     </item>
     <item>
+      <title>你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?</title>
+      <link>https://www.v2ex.com/t/1236538</link>
+      <guid>v2ex-1236538</guid>
+      <pubDate>Sun, 23 Aug 2026 04:53:20 GMT</pubDate>
+      <description>&lt;p&gt;你们氛围编程是喜欢用 tui 还是 gui ，或者哪种模式更有优势一些呢？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>很多过去认为在 apple 上不可能的实现的事现在都实现了</title>
+      <link>https://www.v2ex.com/t/1236556</link>
+      <guid>v2ex-1236556</guid>
+      <pubDate>Sun, 23 Aug 2026 06:18:24 GMT</pubDate>
+      <description>以前大家都认为&lt;br /&gt;&lt;br /&gt;* iOS 绝对不可能开放通话录音，因为这在很多国家是违法的。结果现在可以了。&lt;br /&gt;* carplay 绝对不可能看视频，因为这是危及行车安全的。结果 WWDC26 上也说可以了。&lt;br /&gt;&lt;br /&gt;下一个不可能到可能的功能会是什么？</description>
+    </item>
+    <item>
+      <title>Bun 1.4 发布了，有人关心吗？</title>
+      <link>https://www.v2ex.com/t/1236482</link>
+      <guid>v2ex-1236482</guid>
+      <pubDate>Sat, 22 Aug 2026 16:00:37 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://bun.com/blog/bun-v1.4&quot; rel=&quot;nofollow noopener&quot;&gt;https://bun.com/blog/bun-v1.4&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust&lt;br /&gt;&quot;它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%&quot;</description>
+    </item>
+    <item>
       <title>Codex 又要重置了</title>
       <link>https://www.v2ex.com/t/1236559</link>
       <guid>v2ex-1236559</guid>
@@ -89,11 +89,17 @@
 </description>
     </item>
     <item>
-      <title>Bun 1.4 发布了，有人关心吗？</title>
-      <link>https://www.v2ex.com/t/1236482</link>
-      <guid>v2ex-1236482</guid>
-      <pubDate>Sat, 22 Aug 2026 16:00:37 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://bun.com/blog/bun-v1.4&quot; rel=&quot;nofollow noopener&quot;&gt;https://bun.com/blog/bun-v1.4&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust&lt;br /&gt;&quot;它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%&quot;</description>
+      <title>你有 token 用量和上下文焦虑吗？</title>
+      <link>https://www.v2ex.com/t/1236509</link>
+      <guid>v2ex-1236509</guid>
+      <pubDate>Sun, 23 Aug 2026 01:48:45 GMT</pubDate>
+      <description>&lt;p&gt;公司给的 200 美金 token 用量都不够用，不到半月就蹬完了。自己买了个第三方 subapi 混着用。gpt-5.6sol 很快就满了，我会经常登陆后台看下用量🤣。
+开发时都会看下上下文窗口占用情况，参照写了一个 dsh 用量显示插件，也算缓解自己的用量焦虑了，效果大概下面的样子。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;演示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/iamyours/dsh-plugin-model-usage-meter/refs/heads/main/docs/demo.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;有需要的自己可以用 dsh 命令添加&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;dsh plugin --profile web add dsh-plugin-model-usage-meter
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
   </channel>
 </rss>
