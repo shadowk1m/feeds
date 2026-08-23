@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 09:49:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:12:11 GMT</lastBuildDate>
     <item>
       <title>感觉 Vibe Coding 时代， Windows 系统要凉了</title>
       <link>https://www.v2ex.com/t/1236462</link>
@@ -77,6 +77,13 @@
 </description>
     </item>
     <item>
+      <title>很多过去认为在 apple 上不可能的实现的事现在都实现了</title>
+      <link>https://www.v2ex.com/t/1236556</link>
+      <guid>v2ex-1236556</guid>
+      <pubDate>Sun, 23 Aug 2026 06:18:24 GMT</pubDate>
+      <description>以前大家都认为&lt;br /&gt;&lt;br /&gt;* iOS 绝对不可能开放通话录音，因为这在很多国家是违法的。结果现在可以了。&lt;br /&gt;* carplay 绝对不可能看视频，因为这是危及行车安全的。结果 WWDC26 上也说可以了。&lt;br /&gt;&lt;br /&gt;下一个不可能到可能的功能会是什么？</description>
+    </item>
+    <item>
       <title>Codex 又要重置了</title>
       <link>https://www.v2ex.com/t/1236559</link>
       <guid>v2ex-1236559</guid>
@@ -86,29 +93,6 @@
 &lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;See you then.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>自己捣鼓了一套 [爬宠智能温湿度控温箱] ，成本到了 500+，有商业价值或迭代必要吗？</title>
-      <link>https://www.v2ex.com/t/1236441</link>
-      <guid>v2ex-1236441</guid>
-      <pubDate>Sat, 22 Aug 2026 11:55:10 GMT</pubDate>
-      <description>&lt;p&gt;各位大佬好！&lt;/p&gt;
-&lt;p&gt;最近因为自己养爬宠，觉得日常维持温湿度、保温太繁琐，就利用业余时间捣鼓出了一套相对智能的硬件与控制系统。目前原型机已经测试跑通，但走到进一步迭代阶段有点迷茫，想请教一下大家的看法。&lt;/p&gt;
-&lt;p&gt;一、 目前进度与成果
-硬件集成： 基于开发板做了一套测试样机，集成了温湿度传感器、OLED 显示屏、排风扇、加热垫、喷雾模块。&lt;/p&gt;
-&lt;p&gt;软件/控制： 小程序已开发完毕。&lt;/p&gt;
-&lt;p&gt;支持：&lt;/p&gt;
-&lt;p&gt;1.自动化： 根据温湿度自动开启排风扇、自动喷雾降温；达到温度阈值自动升/降温。&lt;/p&gt;
-&lt;p&gt;2.双模控制： 支持微信小程序自主控制，同时支持在线与离线控制模式。&lt;/p&gt;
-&lt;p&gt;3.成本情况： 目前单套物料/测试样机成本在 500 元左右。&lt;/p&gt;
-&lt;p&gt;二、 市场调研情况
-之前在拼多多等电商平台做过初步调研，市面上的温控器/智能养宠箱多为简单的单温”，或者一体化成品箱。我这套在双模联动、多设备自动化整合以及小程序轻量化控制上，和市面现有的方案有一些差异化。&lt;/p&gt;
-&lt;p&gt;三、 目前的困惑与核心提问
-商业价值评估： 目前样机成本在 500 元，如果量产/成品化，售价可能要更高。大家觉得这个价格和功能，在异宠/爬宠圈子里有真实的市场接受度吗？&lt;/p&gt;
-&lt;p&gt;产品迭代价值： 现在的智能化程度（温湿度自动化+小程序双模控制）是否打中了养爬人的核心痛点？还是说大家更倾向于用廉价的简单温控器拼凑？&lt;/p&gt;
-&lt;p&gt;后续走向建议： 这种项目是建议继续迭代出成品箱子/标准化控温套件，还是更适合做成开源项目/小规模 DIY 定制（软硬件方案出售）？&lt;/p&gt;
-&lt;p&gt;希望有懂硬件产品化、电商运营，或者资深爬友大佬帮忙指点迷津，非常感谢！&lt;/p&gt;
 </description>
     </item>
     <item>
