@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 22:43:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:10:28 GMT</lastBuildDate>
     <item>
       <title>大家现在日常/办公中，语音输入占比大概有多少？</title>
       <link>https://www.v2ex.com/t/1236583</link>
@@ -73,6 +73,18 @@
 </description>
     </item>
     <item>
+      <title>Codex 又要重置了</title>
+      <link>https://www.v2ex.com/t/1236559</link>
+      <guid>v2ex-1236559</guid>
+      <pubDate>Sun, 23 Aug 2026 06:32:30 GMT</pubDate>
+      <description>&lt;p&gt;Tibo • @&lt;a href=&quot;/member/thsottiaux&quot;&gt;thsottiaux&lt;/a&gt;•19 分钟&lt;/p&gt;
+&lt;p&gt;Update on rate limits in Codex.&lt;/p&gt;
+&lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;See you then.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>很多过去认为在 apple 上不可能的实现的事现在都实现了</title>
       <link>https://www.v2ex.com/t/1236556</link>
       <guid>v2ex-1236556</guid>
@@ -85,18 +97,6 @@
       <guid>v2ex-1236533</guid>
       <pubDate>Sun, 23 Aug 2026 03:59:39 GMT</pubDate>
       <description>你好，根据本岗位的实际需要，需要求职者具备以下必要条件，为了节省双方时间，请仔细核对后决定是否进行下一步沟通：&lt;br /&gt;1.计科、软工、网工、大数据、人工智能、信管等计算机相关专业毕业；&lt;br /&gt;2.具有从毕业后 3 年以上（含 3 年）的工作经验；&lt;br /&gt;3.熟练掌握 Python 或 golang 开发语言，并能够进行 AI 应用的开发，仅能 vibe coding 进行工作的此项不合格；&lt;br /&gt;4.具备真实的 AI 商业项目落地经验。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;以上条件都满足，请选择一个参与的项目进行简短介绍。</description>
-    </item>
-    <item>
-      <title>Codex 又要重置了</title>
-      <link>https://www.v2ex.com/t/1236559</link>
-      <guid>v2ex-1236559</guid>
-      <pubDate>Sun, 23 Aug 2026 06:32:30 GMT</pubDate>
-      <description>&lt;p&gt;Tibo • @&lt;a href=&quot;/member/thsottiaux&quot;&gt;thsottiaux&lt;/a&gt;•19 分钟&lt;/p&gt;
-&lt;p&gt;Update on rate limits in Codex.&lt;/p&gt;
-&lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;See you then.&lt;/p&gt;
-</description>
     </item>
   </channel>
 </rss>
