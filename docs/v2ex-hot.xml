@@ -4,20 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 10:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:46:14 GMT</lastBuildDate>
     <item>
       <title>感觉 Vibe Coding 时代， Windows 系统要凉了</title>
       <link>https://www.v2ex.com/t/1236462</link>
       <guid>v2ex-1236462</guid>
       <pubDate>Sat, 22 Aug 2026 13:31:41 GMT</pubDate>
       <description>起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；&lt;br /&gt;&lt;br /&gt;1.各位是否有同感呢？&lt;br /&gt;&lt;br /&gt;2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?&lt;br /&gt;但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬&lt;br /&gt;&lt;br /&gt;最近接了几个大项目，都赶在一起了，看他死磕，感觉难受</description>
-    </item>
-    <item>
-      <title>2026 年键盘求推荐</title>
-      <link>https://www.v2ex.com/t/1236534</link>
-      <guid>v2ex-1236534</guid>
-      <pubDate>Sun, 23 Aug 2026 04:29:17 GMT</pubDate>
-      <description>用了十年的 HHKB ，最近时不时有各种小问题，大家有推荐的键盘么？</description>
     </item>
     <item>
       <title>我把全网在赚钱的站点变成了一张榜单</title>
@@ -33,6 +26,13 @@
 &lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/7f8068e9064d0736490af3da77382199.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/4ff0a39115165f61d83b47ebd1a8cc6d.png&quot;/&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>2026 年键盘求推荐</title>
+      <link>https://www.v2ex.com/t/1236534</link>
+      <guid>v2ex-1236534</guid>
+      <pubDate>Sun, 23 Aug 2026 04:29:17 GMT</pubDate>
+      <description>用了十年的 HHKB ，最近时不时有各种小问题，大家有推荐的键盘么？</description>
     </item>
     <item>
       <title>你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?</title>
@@ -63,20 +63,6 @@
 </description>
     </item>
     <item>
-      <title>Antigravity 支持远程控制了</title>
-      <link>https://www.v2ex.com/t/1236519</link>
-      <guid>v2ex-1236519</guid>
-      <pubDate>Sun, 23 Aug 2026 02:38:55 GMT</pubDate>
-      <description>&lt;p&gt;Antigravity 桌面版支持远程控制了，在设置 - App 里开启 Remote Control ，然后浏览器访问 &lt;a href=&quot;https://antigravity.google.com/&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google.com/&lt;/a&gt; 即可登录同一账号。&lt;strong&gt;登录后的界面和本地 Antigravity 完全一样，可以自由操控。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;还可以在别的机器上安装 Remote Control headless daemon ，在自己电脑上远程控制。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;版本：2.9.1&lt;/li&gt;
-&lt;li&gt;文档： &lt;a href=&quot;https://antigravity.google/docs/remote-control&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/docs/remote-control&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;博客： &lt;a href=&quot;https://antigravity.google/blog/remote-control-for-antigravity&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/blog/remote-control-for-antigravity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
       <title>很多过去认为在 apple 上不可能的实现的事现在都实现了</title>
       <link>https://www.v2ex.com/t/1236556</link>
       <guid>v2ex-1236556</guid>
@@ -96,18 +82,17 @@
 </description>
     </item>
     <item>
-      <title>关于楼上渗水到楼下的问题，请友友们提供一些建议。</title>
-      <link>https://www.v2ex.com/t/1236528</link>
-      <guid>v2ex-1236528</guid>
-      <pubDate>Sun, 23 Aug 2026 03:39:36 GMT</pubDate>
-      <description>&lt;p&gt;首先，我是楼上的住户。&lt;/p&gt;
-&lt;p&gt;楼下住户最近装修，拆了吊顶后发现楼上卫生间淋浴间地漏附近有水渗下去，周围有明显被水浸泡的痕迹。&lt;/p&gt;
-&lt;p&gt;昨天咸鱼找师傅过来看了一下，给我一个方案。似乎是用一种液体胶水混合水之后覆盖在瓷砖上，然后让液体顺着有缝隙的地方流进去，等到干固之后就能够把缝隙填充，解决渗水的问题。&lt;/p&gt;
-&lt;p&gt;不知道这个方案是不现在比较主流的一种方法，关于费用，他报价在 2000 元左右。&lt;/p&gt;
-&lt;p&gt;友友们有没有过类似的经历呀？&lt;/p&gt;
-&lt;p&gt;关于这个价格和方案靠谱吗？&lt;/p&gt;
-&lt;p&gt;拍的一张图片&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;0cb696fb86fd4a8265d26e8a82a63d83.jpg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/08/23/QxzuUlZP.jpg&quot;/&gt;&lt;/p&gt;
+      <title>Antigravity 支持远程控制了</title>
+      <link>https://www.v2ex.com/t/1236519</link>
+      <guid>v2ex-1236519</guid>
+      <pubDate>Sun, 23 Aug 2026 02:38:55 GMT</pubDate>
+      <description>&lt;p&gt;Antigravity 桌面版支持远程控制了，在设置 - App 里开启 Remote Control ，然后浏览器访问 &lt;a href=&quot;https://antigravity.google.com/&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google.com/&lt;/a&gt; 即可登录同一账号。&lt;strong&gt;登录后的界面和本地 Antigravity 完全一样，可以自由操控。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;还可以在别的机器上安装 Remote Control headless daemon ，在自己电脑上远程控制。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;版本：2.9.1&lt;/li&gt;
+&lt;li&gt;文档： &lt;a href=&quot;https://antigravity.google/docs/remote-control&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/docs/remote-control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;博客： &lt;a href=&quot;https://antigravity.google/blog/remote-control-for-antigravity&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/blog/remote-control-for-antigravity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
   </channel>
