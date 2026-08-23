@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 14:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:11:17 GMT</lastBuildDate>
     <item>
       <title>大家现在日常/办公中，语音输入占比大概有多少？</title>
       <link>https://www.v2ex.com/t/1236583</link>
@@ -16,13 +16,6 @@
 &lt;p&gt;办公场景可能会稍低一些，有时候不方便说的还是靠打字，大部分情况下都还好。&lt;/p&gt;
 &lt;p&gt;想看看大家的占比是怎么样的。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>2026 年键盘求推荐</title>
-      <link>https://www.v2ex.com/t/1236534</link>
-      <guid>v2ex-1236534</guid>
-      <pubDate>Sun, 23 Aug 2026 04:29:17 GMT</pubDate>
-      <description>用了十年的 HHKB ，最近时不时有各种小问题，大家有推荐的键盘么？</description>
     </item>
     <item>
       <title>我把全网在赚钱的站点变成了一张榜单</title>
@@ -38,6 +31,13 @@
 &lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/7f8068e9064d0736490af3da77382199.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/4ff0a39115165f61d83b47ebd1a8cc6d.png&quot;/&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>2026 年键盘求推荐</title>
+      <link>https://www.v2ex.com/t/1236534</link>
+      <guid>v2ex-1236534</guid>
+      <pubDate>Sun, 23 Aug 2026 04:29:17 GMT</pubDate>
+      <description>用了十年的 HHKB ，最近时不时有各种小问题，大家有推荐的键盘么？</description>
     </item>
     <item>
       <title>关于楼上渗水到楼下的问题，请友友们提供一些建议。</title>
@@ -70,18 +70,18 @@
       <description>以前大家都认为&lt;br /&gt;&lt;br /&gt;* iOS 绝对不可能开放通话录音，因为这在很多国家是违法的。结果现在可以了。&lt;br /&gt;* carplay 绝对不可能看视频，因为这是危及行车安全的。结果 WWDC26 上也说可以了。&lt;br /&gt;&lt;br /&gt;下一个不可能到可能的功能会是什么？</description>
     </item>
     <item>
-      <title>[招人]杭州，产品研发，后端开发 3 年以上经验来看</title>
-      <link>https://www.v2ex.com/t/1236533</link>
-      <guid>v2ex-1236533</guid>
-      <pubDate>Sun, 23 Aug 2026 03:59:39 GMT</pubDate>
-      <description>你好，根据本岗位的实际需要，需要求职者具备以下必要条件，为了节省双方时间，请仔细核对后决定是否进行下一步沟通：&lt;br /&gt;1.计科、软工、网工、大数据、人工智能、信管等计算机相关专业毕业；&lt;br /&gt;2.具有从毕业后 3 年以上（含 3 年）的工作经验；&lt;br /&gt;3.熟练掌握 Python 或 golang 开发语言，并能够进行 AI 应用的开发，仅能 vibe coding 进行工作的此项不合格；&lt;br /&gt;4.具备真实的 AI 商业项目落地经验。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;以上条件都满足，请选择一个参与的项目进行简短介绍。</description>
-    </item>
-    <item>
       <title>Bun 1.4 发布了，有人关心吗？</title>
       <link>https://www.v2ex.com/t/1236482</link>
       <guid>v2ex-1236482</guid>
       <pubDate>Sat, 22 Aug 2026 16:00:37 GMT</pubDate>
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://bun.com/blog/bun-v1.4&quot; rel=&quot;nofollow noopener&quot;&gt;https://bun.com/blog/bun-v1.4&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust&lt;br /&gt;&quot;它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%&quot;</description>
+    </item>
+    <item>
+      <title>[招人]杭州，产品研发，后端开发 3 年以上经验来看</title>
+      <link>https://www.v2ex.com/t/1236533</link>
+      <guid>v2ex-1236533</guid>
+      <pubDate>Sun, 23 Aug 2026 03:59:39 GMT</pubDate>
+      <description>你好，根据本岗位的实际需要，需要求职者具备以下必要条件，为了节省双方时间，请仔细核对后决定是否进行下一步沟通：&lt;br /&gt;1.计科、软工、网工、大数据、人工智能、信管等计算机相关专业毕业；&lt;br /&gt;2.具有从毕业后 3 年以上（含 3 年）的工作经验；&lt;br /&gt;3.熟练掌握 Python 或 golang 开发语言，并能够进行 AI 应用的开发，仅能 vibe coding 进行工作的此项不合格；&lt;br /&gt;4.具备真实的 AI 商业项目落地经验。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;以上条件都满足，请选择一个参与的项目进行简短介绍。</description>
     </item>
     <item>
       <title>Codex 又要重置了</title>
