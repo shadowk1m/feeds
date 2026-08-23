@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 07:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:17:00 GMT</lastBuildDate>
     <item>
       <title>感觉 Vibe Coding 时代， Windows 系统要凉了</title>
       <link>https://www.v2ex.com/t/1236462</link>
@@ -62,18 +62,25 @@
 </description>
     </item>
     <item>
+      <title>Antigravity 支持远程控制了</title>
+      <link>https://www.v2ex.com/t/1236519</link>
+      <guid>v2ex-1236519</guid>
+      <pubDate>Sun, 23 Aug 2026 02:38:55 GMT</pubDate>
+      <description>&lt;p&gt;Antigravity 桌面版支持远程控制了，在设置 - App 里开启 Remote Control ，然后浏览器访问 &lt;a href=&quot;https://antigravity.google.com/&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google.com/&lt;/a&gt; 即可登录同一账号。&lt;strong&gt;登录后的界面和本地 Antigravity 完全一样，可以自由操控。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;还可以在别的机器上安装 Remote Control headless daemon ，在自己电脑上远程控制。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;版本：2.9.1&lt;/li&gt;
+&lt;li&gt;文档： &lt;a href=&quot;https://antigravity.google/docs/remote-control&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/docs/remote-control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;博客： &lt;a href=&quot;https://antigravity.google/blog/remote-control-for-antigravity&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/blog/remote-control-for-antigravity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>2026 年键盘求推荐</title>
       <link>https://www.v2ex.com/t/1236534</link>
       <guid>v2ex-1236534</guid>
       <pubDate>Sun, 23 Aug 2026 04:29:17 GMT</pubDate>
       <description>用了十年的 HHKB ，最近时不时有各种小问题，大家有推荐的键盘么？</description>
-    </item>
-    <item>
-      <title>新人第一贴，先放一个自己 vibe 一下午的割草小游戏吧</title>
-      <link>https://www.v2ex.com/t/1236407</link>
-      <guid>v2ex-1236407</guid>
-      <pubDate>Sat, 22 Aug 2026 08:14:39 GMT</pubDate>
-      <description>霓虹类割草生存，开飞船升级打怪吃经验，攒大招杀敌。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://neon.vipmrgj.top/&quot; rel=&quot;nofollow noopener&quot;&gt;https://neon.vipmrgj.top/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;欢迎 V 友指点</description>
     </item>
     <item>
       <title>你有 token 用量和上下文焦虑吗？</title>
@@ -89,17 +96,30 @@
 </description>
     </item>
     <item>
-      <title>Antigravity 支持远程控制了</title>
-      <link>https://www.v2ex.com/t/1236519</link>
-      <guid>v2ex-1236519</guid>
-      <pubDate>Sun, 23 Aug 2026 02:38:55 GMT</pubDate>
-      <description>&lt;p&gt;Antigravity 桌面版支持远程控制了，在设置 - App 里开启 Remote Control ，然后浏览器访问 &lt;a href=&quot;https://antigravity.google.com/&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google.com/&lt;/a&gt; 即可登录同一账号。&lt;strong&gt;登录后的界面和本地 Antigravity 完全一样，可以自由操控。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;还可以在别的机器上安装 Remote Control headless daemon ，在自己电脑上远程控制。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;版本：2.9.1&lt;/li&gt;
-&lt;li&gt;文档： &lt;a href=&quot;https://antigravity.google/docs/remote-control&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/docs/remote-control&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;博客： &lt;a href=&quot;https://antigravity.google/blog/remote-control-for-antigravity&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/blog/remote-control-for-antigravity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <title>我把全网在赚钱的站点变成了一张榜单</title>
+      <link>https://www.v2ex.com/t/1236529</link>
+      <guid>v2ex-1236529</guid>
+      <pubDate>Sun, 23 Aug 2026 03:40:30 GMT</pubDate>
+      <description>&lt;p&gt;以前找产品方向，我会在 Product Hunt 、X 、Reddit 收藏一大堆链接。&lt;/p&gt;
+&lt;p&gt;但最后还是回答不了一个问题：&lt;/p&gt;
+&lt;p&gt;这些产品只是有人讨论，还是真的在赚钱？&lt;/p&gt;
+&lt;p&gt;所以我做了 Build or Skip （ buildorskip.dev)。&lt;/p&gt;
+&lt;p&gt;现在站内收录了 14 万+ 在赚钱的产品，可以查看估算订单、增长状态、趋势、DR 、产品分类、定价、收入模式、广告平台和目标用户。&lt;/p&gt;
+&lt;p&gt;现在我只需要看那个产品我能打得过，然后“先抄再超”就行了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/7f8068e9064d0736490af3da77382199.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/4ff0a39115165f61d83b47ebd1a8cc6d.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Codex 又要重置了</title>
+      <link>https://www.v2ex.com/t/1236559</link>
+      <guid>v2ex-1236559</guid>
+      <pubDate>Sun, 23 Aug 2026 06:32:30 GMT</pubDate>
+      <description>&lt;p&gt;Tibo • @&lt;a href=&quot;/member/thsottiaux&quot;&gt;thsottiaux&lt;/a&gt;•19 分钟&lt;/p&gt;
+&lt;p&gt;Update on rate limits in Codex.&lt;/p&gt;
+&lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;See you then.&lt;/p&gt;
 </description>
     </item>
   </channel>
