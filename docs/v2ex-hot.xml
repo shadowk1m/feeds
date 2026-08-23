@@ -4,20 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 08:54:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:16:39 GMT</lastBuildDate>
     <item>
       <title>感觉 Vibe Coding 时代， Windows 系统要凉了</title>
       <link>https://www.v2ex.com/t/1236462</link>
       <guid>v2ex-1236462</guid>
       <pubDate>Sat, 22 Aug 2026 13:31:41 GMT</pubDate>
       <description>起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；&lt;br /&gt;&lt;br /&gt;1.各位是否有同感呢？&lt;br /&gt;&lt;br /&gt;2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?&lt;br /&gt;但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬&lt;br /&gt;&lt;br /&gt;最近接了几个大项目，都赶在一起了，看他死磕，感觉难受</description>
-    </item>
-    <item>
-      <title>Bun 1.4 发布了，有人关心吗？</title>
-      <link>https://www.v2ex.com/t/1236482</link>
-      <guid>v2ex-1236482</guid>
-      <pubDate>Sat, 22 Aug 2026 16:00:37 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://bun.com/blog/bun-v1.4&quot; rel=&quot;nofollow noopener&quot;&gt;https://bun.com/blog/bun-v1.4&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust&lt;br /&gt;&quot;它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%&quot;</description>
     </item>
     <item>
       <title>2026 年键盘求推荐</title>
@@ -27,12 +20,11 @@
       <description>用了十年的 HHKB ，最近时不时有各种小问题，大家有推荐的键盘么？</description>
     </item>
     <item>
-      <title>你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?</title>
-      <link>https://www.v2ex.com/t/1236538</link>
-      <guid>v2ex-1236538</guid>
-      <pubDate>Sun, 23 Aug 2026 04:53:20 GMT</pubDate>
-      <description>&lt;p&gt;你们氛围编程是喜欢用 tui 还是 gui ，或者哪种模式更有优势一些呢？&lt;/p&gt;
-</description>
+      <title>Bun 1.4 发布了，有人关心吗？</title>
+      <link>https://www.v2ex.com/t/1236482</link>
+      <guid>v2ex-1236482</guid>
+      <pubDate>Sat, 22 Aug 2026 16:00:37 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://bun.com/blog/bun-v1.4&quot; rel=&quot;nofollow noopener&quot;&gt;https://bun.com/blog/bun-v1.4&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust&lt;br /&gt;&quot;它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%&quot;</description>
     </item>
     <item>
       <title>我把全网在赚钱的站点变成了一张榜单</title>
@@ -47,6 +39,14 @@
 &lt;p&gt;现在我只需要看那个产品我能打得过，然后“先抄再超”就行了。&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/7f8068e9064d0736490af3da77382199.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/4ff0a39115165f61d83b47ebd1a8cc6d.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?</title>
+      <link>https://www.v2ex.com/t/1236538</link>
+      <guid>v2ex-1236538</guid>
+      <pubDate>Sun, 23 Aug 2026 04:53:20 GMT</pubDate>
+      <description>&lt;p&gt;你们氛围编程是喜欢用 tui 还是 gui ，或者哪种模式更有优势一些呢？&lt;/p&gt;
 </description>
     </item>
     <item>
