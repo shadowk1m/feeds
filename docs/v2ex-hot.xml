@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 15:43:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:12:10 GMT</lastBuildDate>
     <item>
       <title>大家现在日常/办公中，语音输入占比大概有多少？</title>
       <link>https://www.v2ex.com/t/1236583</link>
@@ -87,11 +87,16 @@
 </description>
     </item>
     <item>
-      <title>Bun 1.4 发布了，有人关心吗？</title>
-      <link>https://www.v2ex.com/t/1236482</link>
-      <guid>v2ex-1236482</guid>
-      <pubDate>Sat, 22 Aug 2026 16:00:37 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://bun.com/blog/bun-v1.4&quot; rel=&quot;nofollow noopener&quot;&gt;https://bun.com/blog/bun-v1.4&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust&lt;br /&gt;&quot;它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%&quot;</description>
+      <title>Codex 又要重置了</title>
+      <link>https://www.v2ex.com/t/1236559</link>
+      <guid>v2ex-1236559</guid>
+      <pubDate>Sun, 23 Aug 2026 06:32:30 GMT</pubDate>
+      <description>&lt;p&gt;Tibo • @&lt;a href=&quot;/member/thsottiaux&quot;&gt;thsottiaux&lt;/a&gt;•19 分钟&lt;/p&gt;
+&lt;p&gt;Update on rate limits in Codex.&lt;/p&gt;
+&lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;See you then.&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
