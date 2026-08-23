@@ -4,39 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 08:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:54:04 GMT</lastBuildDate>
     <item>
       <title>感觉 Vibe Coding 时代， Windows 系统要凉了</title>
       <link>https://www.v2ex.com/t/1236462</link>
       <guid>v2ex-1236462</guid>
       <pubDate>Sat, 22 Aug 2026 13:31:41 GMT</pubDate>
       <description>起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；&lt;br /&gt;&lt;br /&gt;1.各位是否有同感呢？&lt;br /&gt;&lt;br /&gt;2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?&lt;br /&gt;但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬&lt;br /&gt;&lt;br /&gt;最近接了几个大项目，都赶在一起了，看他死磕，感觉难受</description>
-    </item>
-    <item>
-      <title>[Android 封闭测试] 找几位朋友帮忙体验《像素数织》，送完整内容兑换码</title>
-      <link>https://www.v2ex.com/t/1236410</link>
-      <guid>v2ex-1236410</guid>
-      <pubDate>Sat, 22 Aug 2026 08:31:31 GMT</pubDate>
-      <description>&lt;p&gt;大家好，我开发的《像素数织》 Google Play 版本推进到封闭测试阶段了，想找几位平时喜欢益智游戏的朋友，帮我实际体验一下。&lt;/p&gt;
-&lt;p&gt;《像素数织》是一款通过行列数字线索，还原像素图案的逻辑益智游戏。玩法比较简单：根据数字判断哪些格子应该填满，哪些格子应该留空，一步步推理，最后把隐藏的图案拼出来。&lt;/p&gt;
-&lt;p&gt;它不太考验反应速度，主要是慢慢分析和排除。顺利解出一道比较大的题时，还是挺有成就感的。&lt;/p&gt;
-&lt;p&gt;宣传截图如下：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/ZLVsR7m.png&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Hin9Pui.png&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/CHOQOJ5.png&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/frDVchm.png&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/CwwpUe7.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;参与方式：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;需要有 Android 手机，并且可以正常使用 Google Play&lt;/li&gt;
-&lt;li&gt;留下邮箱我会邀请加入测试，并发放邀请码，数量有限(50 个)&lt;/li&gt;
-&lt;li&gt;实际体验几关，或者试试自由模式、创造模式&lt;/li&gt;
-&lt;li&gt;遇到 Bug 或有建议，可以在帖子里回复，也可以私信告诉我&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;感谢大家，也欢迎喜欢 Nonogram 、数织、逻辑拼图类游戏的朋友来试试。&lt;/p&gt;
-&lt;p&gt;很少在 V 站发帖，如果发布的节点有问题还请见谅并告知，我会移动到合适位置。&lt;/p&gt;
-&lt;p&gt;谢谢大家～&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>Bun 1.4 发布了，有人关心吗？</title>
@@ -46,36 +20,6 @@
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://bun.com/blog/bun-v1.4&quot; rel=&quot;nofollow noopener&quot;&gt;https://bun.com/blog/bun-v1.4&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust&lt;br /&gt;&quot;它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%&quot;</description>
     </item>
     <item>
-      <title>你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?</title>
-      <link>https://www.v2ex.com/t/1236538</link>
-      <guid>v2ex-1236538</guid>
-      <pubDate>Sun, 23 Aug 2026 04:53:20 GMT</pubDate>
-      <description>&lt;p&gt;你们氛围编程是喜欢用 tui 还是 gui ，或者哪种模式更有优势一些呢？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>claude 用 google pay 订阅 pro，招行 visa 全币种、葵花 master、工商 master，全部拒付</title>
-      <link>https://www.v2ex.com/t/1236430</link>
-      <guid>v2ex-1236430</guid>
-      <pubDate>Sat, 22 Aug 2026 09:40:50 GMT</pubDate>
-      <description>&lt;p&gt;大家的也都是这样吗，不想走苹果买礼品卡了感觉好麻烦，求大佬支支招&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Antigravity 支持远程控制了</title>
-      <link>https://www.v2ex.com/t/1236519</link>
-      <guid>v2ex-1236519</guid>
-      <pubDate>Sun, 23 Aug 2026 02:38:55 GMT</pubDate>
-      <description>&lt;p&gt;Antigravity 桌面版支持远程控制了，在设置 - App 里开启 Remote Control ，然后浏览器访问 &lt;a href=&quot;https://antigravity.google.com/&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google.com/&lt;/a&gt; 即可登录同一账号。&lt;strong&gt;登录后的界面和本地 Antigravity 完全一样，可以自由操控。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;还可以在别的机器上安装 Remote Control headless daemon ，在自己电脑上远程控制。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;版本：2.9.1&lt;/li&gt;
-&lt;li&gt;文档： &lt;a href=&quot;https://antigravity.google/docs/remote-control&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/docs/remote-control&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;博客： &lt;a href=&quot;https://antigravity.google/blog/remote-control-for-antigravity&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/blog/remote-control-for-antigravity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
       <title>2026 年键盘求推荐</title>
       <link>https://www.v2ex.com/t/1236534</link>
       <guid>v2ex-1236534</guid>
@@ -83,16 +27,11 @@
       <description>用了十年的 HHKB ，最近时不时有各种小问题，大家有推荐的键盘么？</description>
     </item>
     <item>
-      <title>你有 token 用量和上下文焦虑吗？</title>
-      <link>https://www.v2ex.com/t/1236509</link>
-      <guid>v2ex-1236509</guid>
-      <pubDate>Sun, 23 Aug 2026 01:48:45 GMT</pubDate>
-      <description>&lt;p&gt;公司给的 200 美金 token 用量都不够用，不到半月就蹬完了。自己买了个第三方 subapi 混着用。gpt-5.6sol 很快就满了，我会经常登陆后台看下用量🤣。
-开发时都会看下上下文窗口占用情况，参照写了一个 dsh 用量显示插件，也算缓解自己的用量焦虑了，效果大概下面的样子。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;演示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/iamyours/dsh-plugin-model-usage-meter/refs/heads/main/docs/demo.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;有需要的自己可以用 dsh 命令添加&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;dsh plugin --profile web add dsh-plugin-model-usage-meter
-&lt;/code&gt;&lt;/pre&gt;
+      <title>你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?</title>
+      <link>https://www.v2ex.com/t/1236538</link>
+      <guid>v2ex-1236538</guid>
+      <pubDate>Sun, 23 Aug 2026 04:53:20 GMT</pubDate>
+      <description>&lt;p&gt;你们氛围编程是喜欢用 tui 还是 gui ，或者哪种模式更有优势一些呢？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -111,6 +50,41 @@
 </description>
     </item>
     <item>
+      <title>claude 用 google pay 订阅 pro，招行 visa 全币种、葵花 master、工商 master，全部拒付</title>
+      <link>https://www.v2ex.com/t/1236430</link>
+      <guid>v2ex-1236430</guid>
+      <pubDate>Sat, 22 Aug 2026 09:40:50 GMT</pubDate>
+      <description>&lt;p&gt;大家的也都是这样吗，不想走苹果买礼品卡了感觉好麻烦，求大佬支支招&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>你有 token 用量和上下文焦虑吗？</title>
+      <link>https://www.v2ex.com/t/1236509</link>
+      <guid>v2ex-1236509</guid>
+      <pubDate>Sun, 23 Aug 2026 01:48:45 GMT</pubDate>
+      <description>&lt;p&gt;公司给的 200 美金 token 用量都不够用，不到半月就蹬完了。自己买了个第三方 subapi 混着用。gpt-5.6sol 很快就满了，我会经常登陆后台看下用量🤣。
+开发时都会看下上下文窗口占用情况，参照写了一个 dsh 用量显示插件，也算缓解自己的用量焦虑了，效果大概下面的样子。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;演示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/iamyours/dsh-plugin-model-usage-meter/refs/heads/main/docs/demo.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;有需要的自己可以用 dsh 命令添加&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;dsh plugin --profile web add dsh-plugin-model-usage-meter
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    <item>
+      <title>Antigravity 支持远程控制了</title>
+      <link>https://www.v2ex.com/t/1236519</link>
+      <guid>v2ex-1236519</guid>
+      <pubDate>Sun, 23 Aug 2026 02:38:55 GMT</pubDate>
+      <description>&lt;p&gt;Antigravity 桌面版支持远程控制了，在设置 - App 里开启 Remote Control ，然后浏览器访问 &lt;a href=&quot;https://antigravity.google.com/&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google.com/&lt;/a&gt; 即可登录同一账号。&lt;strong&gt;登录后的界面和本地 Antigravity 完全一样，可以自由操控。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;还可以在别的机器上安装 Remote Control headless daemon ，在自己电脑上远程控制。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;版本：2.9.1&lt;/li&gt;
+&lt;li&gt;文档： &lt;a href=&quot;https://antigravity.google/docs/remote-control&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/docs/remote-control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;博客： &lt;a href=&quot;https://antigravity.google/blog/remote-control-for-antigravity&quot; rel=&quot;nofollow&quot;&gt;https://antigravity.google/blog/remote-control-for-antigravity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Codex 又要重置了</title>
       <link>https://www.v2ex.com/t/1236559</link>
       <guid>v2ex-1236559</guid>
@@ -120,6 +94,29 @@
 &lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;See you then.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>自己捣鼓了一套 [爬宠智能温湿度控温箱] ，成本到了 500+，有商业价值或迭代必要吗？</title>
+      <link>https://www.v2ex.com/t/1236441</link>
+      <guid>v2ex-1236441</guid>
+      <pubDate>Sat, 22 Aug 2026 11:55:10 GMT</pubDate>
+      <description>&lt;p&gt;各位大佬好！&lt;/p&gt;
+&lt;p&gt;最近因为自己养爬宠，觉得日常维持温湿度、保温太繁琐，就利用业余时间捣鼓出了一套相对智能的硬件与控制系统。目前原型机已经测试跑通，但走到进一步迭代阶段有点迷茫，想请教一下大家的看法。&lt;/p&gt;
+&lt;p&gt;一、 目前进度与成果
+硬件集成： 基于开发板做了一套测试样机，集成了温湿度传感器、OLED 显示屏、排风扇、加热垫、喷雾模块。&lt;/p&gt;
+&lt;p&gt;软件/控制： 小程序已开发完毕。&lt;/p&gt;
+&lt;p&gt;支持：&lt;/p&gt;
+&lt;p&gt;1.自动化： 根据温湿度自动开启排风扇、自动喷雾降温；达到温度阈值自动升/降温。&lt;/p&gt;
+&lt;p&gt;2.双模控制： 支持微信小程序自主控制，同时支持在线与离线控制模式。&lt;/p&gt;
+&lt;p&gt;3.成本情况： 目前单套物料/测试样机成本在 500 元左右。&lt;/p&gt;
+&lt;p&gt;二、 市场调研情况
+之前在拼多多等电商平台做过初步调研，市面上的温控器/智能养宠箱多为简单的单温”，或者一体化成品箱。我这套在双模联动、多设备自动化整合以及小程序轻量化控制上，和市面现有的方案有一些差异化。&lt;/p&gt;
+&lt;p&gt;三、 目前的困惑与核心提问
+商业价值评估： 目前样机成本在 500 元，如果量产/成品化，售价可能要更高。大家觉得这个价格和功能，在异宠/爬宠圈子里有真实的市场接受度吗？&lt;/p&gt;
+&lt;p&gt;产品迭代价值： 现在的智能化程度（温湿度自动化+小程序双模控制）是否打中了养爬人的核心痛点？还是说大家更倾向于用廉价的简单温控器拼凑？&lt;/p&gt;
+&lt;p&gt;后续走向建议： 这种项目是建议继续迭代出成品箱子/标准化控温套件，还是更适合做成开源项目/小规模 DIY 定制（软硬件方案出售）？&lt;/p&gt;
+&lt;p&gt;希望有懂硬件产品化、电商运营，或者资深爬友大佬帮忙指点迷津，非常感谢！&lt;/p&gt;
 </description>
     </item>
   </channel>
