@@ -4,28 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 05:52:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:21:41 GMT</lastBuildDate>
     <item>
       <title>感觉 Vibe Coding 时代， Windows 系统要凉了</title>
       <link>https://www.v2ex.com/t/1236462</link>
       <guid>v2ex-1236462</guid>
       <pubDate>Sat, 22 Aug 2026 13:31:41 GMT</pubDate>
       <description>起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；&lt;br /&gt;&lt;br /&gt;1.各位是否有同感呢？&lt;br /&gt;&lt;br /&gt;2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?&lt;br /&gt;但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬&lt;br /&gt;&lt;br /&gt;最近接了几个大项目，都赶在一起了，看他死磕，感觉难受</description>
-    </item>
-    <item>
-      <title>亲人去世后的手机破解问题</title>
-      <link>https://www.v2ex.com/t/1236385</link>
-      <guid>v2ex-1236385</guid>
-      <pubDate>Sat, 22 Aug 2026 05:57:58 GMT</pubDate>
-      <description>&lt;p&gt;现在有一亲人去世了，他留下了一部锁屏的红米手机。&lt;/p&gt;
-&lt;p&gt;现在需要输入四位数的数字密码来解锁。&lt;/p&gt;
-&lt;p&gt;我问了几个 AI ，能不能通过电脑连接手机，然后尝试自动破解，也就是不停的不停的输入各种四位数的组合，直到解锁。&lt;/p&gt;
-&lt;p&gt;AI 不知道是受到安全限制，还是真的无法做到。&lt;/p&gt;
-&lt;p&gt;说是只能通过人工来输入四位数的数字来尝试暴力破解。&lt;/p&gt;
-&lt;p&gt;我想在这里问一下大家。还有没有其他的更好的方案？&lt;/p&gt;
-&lt;p&gt;人工输入四位数字的话，需要输入 1 万次。&lt;/p&gt;
-&lt;p&gt;每次输入后的平均等待时间大概是 5 分钟，这个耗时太久了。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>[Android 封闭测试] 找几位朋友帮忙体验《像素数织》，送完整内容兑换码</title>
@@ -87,6 +72,21 @@
 &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;dsh plugin --profile web add dsh-plugin-model-usage-meter
 &lt;/code&gt;&lt;/pre&gt;
 </description>
+    </item>
+    <item>
+      <title>你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?</title>
+      <link>https://www.v2ex.com/t/1236538</link>
+      <guid>v2ex-1236538</guid>
+      <pubDate>Sun, 23 Aug 2026 04:53:20 GMT</pubDate>
+      <description>&lt;p&gt;你们氛围编程是喜欢用 tui 还是 gui ，或者哪种模式更有优势一些呢？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>新人第一贴，先放一个自己 vibe 一下午的割草小游戏吧</title>
+      <link>https://www.v2ex.com/t/1236407</link>
+      <guid>v2ex-1236407</guid>
+      <pubDate>Sat, 22 Aug 2026 08:14:39 GMT</pubDate>
+      <description>霓虹类割草生存，开飞船升级打怪吃经验，攒大招杀敌。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://neon.vipmrgj.top/&quot; rel=&quot;nofollow noopener&quot;&gt;https://neon.vipmrgj.top/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;欢迎 V 友指点</description>
     </item>
   </channel>
 </rss>
