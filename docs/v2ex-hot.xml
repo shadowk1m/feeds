@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 06:21:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:08:10 GMT</lastBuildDate>
     <item>
       <title>感觉 Vibe Coding 时代， Windows 系统要凉了</title>
       <link>https://www.v2ex.com/t/1236462</link>
@@ -46,14 +46,6 @@
       <description>希望大家赐教。</description>
     </item>
     <item>
-      <title>claude 用 google pay 订阅 pro，招行 visa 全币种、葵花 master、工商 master，全部拒付</title>
-      <link>https://www.v2ex.com/t/1236430</link>
-      <guid>v2ex-1236430</guid>
-      <pubDate>Sat, 22 Aug 2026 09:40:50 GMT</pubDate>
-      <description>&lt;p&gt;大家的也都是这样吗，不想走苹果买礼品卡了感觉好麻烦，求大佬支支招&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Bun 1.4 发布了，有人关心吗？</title>
       <link>https://www.v2ex.com/t/1236482</link>
       <guid>v2ex-1236482</guid>
@@ -61,16 +53,11 @@
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://bun.com/blog/bun-v1.4&quot; rel=&quot;nofollow noopener&quot;&gt;https://bun.com/blog/bun-v1.4&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;被 Claude 收购后的首个版本，利用 AI 从 Zig 重构到 Rust&lt;br /&gt;&quot;它将空闲 CPU 使用率降低 5 倍，内存使用率降低最多 35%，在 Linux 上启动速度提升 50%&quot;</description>
     </item>
     <item>
-      <title>你有 token 用量和上下文焦虑吗？</title>
-      <link>https://www.v2ex.com/t/1236509</link>
-      <guid>v2ex-1236509</guid>
-      <pubDate>Sun, 23 Aug 2026 01:48:45 GMT</pubDate>
-      <description>&lt;p&gt;公司给的 200 美金 token 用量都不够用，不到半月就蹬完了。自己买了个第三方 subapi 混着用。gpt-5.6sol 很快就满了，我会经常登陆后台看下用量🤣。
-开发时都会看下上下文窗口占用情况，参照写了一个 dsh 用量显示插件，也算缓解自己的用量焦虑了，效果大概下面的样子。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;演示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/iamyours/dsh-plugin-model-usage-meter/refs/heads/main/docs/demo.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;有需要的自己可以用 dsh 命令添加&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;dsh plugin --profile web add dsh-plugin-model-usage-meter
-&lt;/code&gt;&lt;/pre&gt;
+      <title>claude 用 google pay 订阅 pro，招行 visa 全币种、葵花 master、工商 master，全部拒付</title>
+      <link>https://www.v2ex.com/t/1236430</link>
+      <guid>v2ex-1236430</guid>
+      <pubDate>Sat, 22 Aug 2026 09:40:50 GMT</pubDate>
+      <description>&lt;p&gt;大家的也都是这样吗，不想走苹果买礼品卡了感觉好麻烦，求大佬支支招&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -87,6 +74,34 @@
       <guid>v2ex-1236407</guid>
       <pubDate>Sat, 22 Aug 2026 08:14:39 GMT</pubDate>
       <description>霓虹类割草生存，开飞船升级打怪吃经验，攒大招杀敌。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://neon.vipmrgj.top/&quot; rel=&quot;nofollow noopener&quot;&gt;https://neon.vipmrgj.top/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;欢迎 V 友指点</description>
+    </item>
+    <item>
+      <title>你有 token 用量和上下文焦虑吗？</title>
+      <link>https://www.v2ex.com/t/1236509</link>
+      <guid>v2ex-1236509</guid>
+      <pubDate>Sun, 23 Aug 2026 01:48:45 GMT</pubDate>
+      <description>&lt;p&gt;公司给的 200 美金 token 用量都不够用，不到半月就蹬完了。自己买了个第三方 subapi 混着用。gpt-5.6sol 很快就满了，我会经常登陆后台看下用量🤣。
+开发时都会看下上下文窗口占用情况，参照写了一个 dsh 用量显示插件，也算缓解自己的用量焦虑了，效果大概下面的样子。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;演示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/iamyours/dsh-plugin-model-usage-meter/refs/heads/main/docs/demo.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;有需要的自己可以用 dsh 命令添加&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;dsh plugin --profile web add dsh-plugin-model-usage-meter
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    <item>
+      <title>我把全网在赚钱的站点变成了一张榜单</title>
+      <link>https://www.v2ex.com/t/1236529</link>
+      <guid>v2ex-1236529</guid>
+      <pubDate>Sun, 23 Aug 2026 03:40:30 GMT</pubDate>
+      <description>&lt;p&gt;以前找产品方向，我会在 Product Hunt 、X 、Reddit 收藏一大堆链接。&lt;/p&gt;
+&lt;p&gt;但最后还是回答不了一个问题：&lt;/p&gt;
+&lt;p&gt;这些产品只是有人讨论，还是真的在赚钱？&lt;/p&gt;
+&lt;p&gt;所以我做了 Build or Skip （ buildorskip.dev)。&lt;/p&gt;
+&lt;p&gt;现在站内收录了 14 万+ 在赚钱的产品，可以查看估算订单、增长状态、趋势、DR 、产品分类、定价、收入模式、广告平台和目标用户。&lt;/p&gt;
+&lt;p&gt;现在我只需要看那个产品我能打得过，然后“先抄再超”就行了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/7f8068e9064d0736490af3da77382199.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/4ff0a39115165f61d83b47ebd1a8cc6d.png&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
