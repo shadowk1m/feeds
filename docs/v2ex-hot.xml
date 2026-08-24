@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 23 Aug 2026 23:41:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:37:54 GMT</lastBuildDate>
     <item>
       <title>大家现在日常/办公中，语音输入占比大概有多少？</title>
       <link>https://www.v2ex.com/t/1236583</link>
@@ -30,6 +30,18 @@
 &lt;p&gt;现在我只需要看那个产品我能打得过，然后“先抄再超”就行了。&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/7f8068e9064d0736490af3da77382199.png&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;buildorskip.dev&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgs.ovh/2026/08/23/4ff0a39115165f61d83b47ebd1a8cc6d.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Codex 又要重置了</title>
+      <link>https://www.v2ex.com/t/1236559</link>
+      <guid>v2ex-1236559</guid>
+      <pubDate>Sun, 23 Aug 2026 06:32:30 GMT</pubDate>
+      <description>&lt;p&gt;Tibo • @&lt;a href=&quot;/member/thsottiaux&quot;&gt;thsottiaux&lt;/a&gt;•19 分钟&lt;/p&gt;
+&lt;p&gt;Update on rate limits in Codex.&lt;/p&gt;
+&lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;See you then.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -70,18 +82,6 @@
       <description>&lt;p&gt;我用了半小时，装了 im 插件，使用 web profile 就成了网页版 OpenClaw 。&lt;/p&gt;
 &lt;p&gt;装了桌面版，装个新的 UI ，就成了 Claude Code/Codex 。&lt;/p&gt;
 &lt;p&gt;这个东西定制起来太有可玩性了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Codex 又要重置了</title>
-      <link>https://www.v2ex.com/t/1236559</link>
-      <guid>v2ex-1236559</guid>
-      <pubDate>Sun, 23 Aug 2026 06:32:30 GMT</pubDate>
-      <description>&lt;p&gt;Tibo • @&lt;a href=&quot;/member/thsottiaux&quot;&gt;thsottiaux&lt;/a&gt;•19 分钟&lt;/p&gt;
-&lt;p&gt;Update on rate limits in Codex.&lt;/p&gt;
-&lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;See you then.&lt;/p&gt;
 </description>
     </item>
     <item>
