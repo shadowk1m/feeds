@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 24 Aug 2026 05:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:59:32 GMT</lastBuildDate>
     <item>
       <title>大家现在日常/办公中，语音输入占比大概有多少？</title>
       <link>https://www.v2ex.com/t/1236583</link>
@@ -71,18 +71,6 @@
 </description>
     </item>
     <item>
-      <title>Codex 又要重置了</title>
-      <link>https://www.v2ex.com/t/1236559</link>
-      <guid>v2ex-1236559</guid>
-      <pubDate>Sun, 23 Aug 2026 06:32:30 GMT</pubDate>
-      <description>&lt;p&gt;Tibo • @&lt;a href=&quot;/member/thsottiaux&quot;&gt;thsottiaux&lt;/a&gt;•19 分钟&lt;/p&gt;
-&lt;p&gt;Update on rate limits in Codex.&lt;/p&gt;
-&lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;See you then.&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>miniQMT 即将清退｜“万一免五”证券开户找老倔驴巨靠谱！ #回帖抽 mx anywhere 3s [40 期]</title>
       <link>https://www.v2ex.com/t/1236659</link>
       <guid>v2ex-1236659</guid>
@@ -112,13 +100,15 @@
 </description>
     </item>
     <item>
-      <title>每个用过 DeepSeek Harness 的人都会觉得 DSH 很先进吧？</title>
-      <link>https://www.v2ex.com/t/1236570</link>
-      <guid>v2ex-1236570</guid>
-      <pubDate>Sun, 23 Aug 2026 08:04:40 GMT</pubDate>
-      <description>&lt;p&gt;我用了半小时，装了 im 插件，使用 web profile 就成了网页版 OpenClaw 。&lt;/p&gt;
-&lt;p&gt;装了桌面版，装个新的 UI ，就成了 Claude Code/Codex 。&lt;/p&gt;
-&lt;p&gt;这个东西定制起来太有可玩性了。&lt;/p&gt;
+      <title>Codex 又要重置了</title>
+      <link>https://www.v2ex.com/t/1236559</link>
+      <guid>v2ex-1236559</guid>
+      <pubDate>Sun, 23 Aug 2026 06:32:30 GMT</pubDate>
+      <description>&lt;p&gt;Tibo • @&lt;a href=&quot;/member/thsottiaux&quot;&gt;thsottiaux&lt;/a&gt;•19 分钟&lt;/p&gt;
+&lt;p&gt;Update on rate limits in Codex.&lt;/p&gt;
+&lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;See you then.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -135,6 +125,16 @@
 &lt;p&gt;一年很快就过了，回头看看这个东西还是有很多的问题，真正到能用还有一段路程，但我想把这个项目正式公开出来，让所有人知道即使是到了现在 modern web 如此复杂的阶段，也是有可能重新写出一个 Rendering 引擎的.&lt;/p&gt;
 &lt;p&gt;第一个编译的版本是基于 ARM macos 的，主要是因为我自己的开发平台是 Mac. 当然这个浏览器引擎是无关 OS 的，今后我会公布 Windows , Linux 的版本.&lt;/p&gt;
 &lt;p&gt;你可以从这里下载和尝试 &lt;a href=&quot;https://code.intellios.ai/cwbrowser/&quot; rel=&quot;nofollow&quot;&gt;https://code.intellios.ai/cwbrowser/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>每个用过 DeepSeek Harness 的人都会觉得 DSH 很先进吧？</title>
+      <link>https://www.v2ex.com/t/1236570</link>
+      <guid>v2ex-1236570</guid>
+      <pubDate>Sun, 23 Aug 2026 08:04:40 GMT</pubDate>
+      <description>&lt;p&gt;我用了半小时，装了 im 插件，使用 web profile 就成了网页版 OpenClaw 。&lt;/p&gt;
+&lt;p&gt;装了桌面版，装个新的 UI ，就成了 Claude Code/Codex 。&lt;/p&gt;
+&lt;p&gt;这个东西定制起来太有可玩性了。&lt;/p&gt;
 </description>
     </item>
   </channel>
