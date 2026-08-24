@@ -4,19 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 24 Aug 2026 08:42:57 GMT</lastBuildDate>
-    <item>
-      <title>大家现在日常/办公中，语音输入占比大概有多少？</title>
-      <link>https://www.v2ex.com/t/1236583</link>
-      <guid>v2ex-1236583</guid>
-      <pubDate>Sun, 23 Aug 2026 09:12:22 GMT</pubDate>
-      <description>&lt;p&gt;大概 7 个月前，我做了一个预言，说 1 年之后语音输入将会成为主流，现在半年都过去了，我说一下我现在情况&lt;/p&gt;
-&lt;p&gt;不得不说，现在语音转文字准确率越来越高，所以现在在手机上几乎不怎么打字了（除非敲一些命令），各种聊天 发帖子 或者是 跟 agent 协同等，基本上都是靠语音转文字来输入了&lt;/p&gt;
-&lt;p&gt;电脑上也是如此，基本上 80 ～ 90% 的场景吧，都是语音转文字来进行输入&lt;/p&gt;
-&lt;p&gt;办公场景可能会稍低一些，有时候不方便说的还是靠打字，大部分情况下都还好。&lt;/p&gt;
-&lt;p&gt;想看看大家的占比是怎么样的。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 09:34:56 GMT</lastBuildDate>
     <item>
       <title>周末回了躺老家，两件小事打破了县城低价养老的幻想</title>
       <link>https://www.v2ex.com/t/1236691</link>
@@ -200,6 +188,13 @@
 &lt;p&gt;第一个编译的版本是基于 ARM macos 的，主要是因为我自己的开发平台是 Mac. 当然这个浏览器引擎是无关 OS 的，今后我会公布 Windows , Linux 的版本.&lt;/p&gt;
 &lt;p&gt;你可以从这里下载和尝试 &lt;a href=&quot;https://code.intellios.ai/cwbrowser/&quot; rel=&quot;nofollow&quot;&gt;https://code.intellios.ai/cwbrowser/&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>摸鱼浏览器无敌广告模式[留邮发码]</title>
+      <link>https://www.v2ex.com/t/1236719</link>
+      <guid>v2ex-1236719</guid>
+      <pubDate>Mon, 24 Aug 2026 02:41:38 GMT</pubDate>
+      <description>之前做了一款摸鱼浏览器&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://floating-browser.xyptkd.cn/&quot; rel=&quot;nofollow noopener&quot;&gt;https://floating-browser.xyptkd.cn/&lt;/a&gt;&lt;br /&gt;反响普遍太卡重构了一版原生的了&lt;br /&gt;加了个广告模式 自动缩到右下角 大小啥的可以自己调 这个模式下也支持鼠标移开自动隐藏 反正我是觉得挺无敌的哈哈哈 &lt;br /&gt;之前帖子太长 发码在帖子里效果不好&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1232076?p=1#reply28&quot;&gt;https://www.v2ex.com/t/1232076?p=1#reply28&lt;/a&gt;&lt;br /&gt;这边再开一楼 需要永久的 留下自己邮箱我挨个发 v 站来的我都送&lt;br /&gt;&lt;br /&gt;最后&lt;br /&gt;有什么好的建议可以发我 eHlwdGtkMTk5MV9mYnJvd3NlckAyOTI1LmNvbQ==</description>
     </item>
     <item>
       <title>mysql 26.7.0 发布了</title>
