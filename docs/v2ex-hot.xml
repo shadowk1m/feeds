@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 24 Aug 2026 03:28:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 04:12:43 GMT</lastBuildDate>
     <item>
       <title>大家现在日常/办公中，语音输入占比大概有多少？</title>
       <link>https://www.v2ex.com/t/1236583</link>
@@ -36,18 +36,6 @@
       <description>刚过完 33 岁生日，从去年就开始减肥健身，健身房里有很多附近的大学生，感觉 ta 们活力满满，而且脸上一点班味都没有，自信又阳光，而且他们应该都是 05 后，叠加最近公司入职的校招全是 00 后，瞬间感慨，90 后已经逐渐退场，大家逐渐迈入中年，被职场折磨了 10 年后，变得班味十足，完全没有一丁点意气风发的感觉，也变的没有梦想、世故了起来，如果房贷没还完，还要担心被裁员和阶级滑落。&lt;br /&gt;&lt;br /&gt;年轻时关注的 up 主也都变老了，有很多直接停更了，所以这两天心里有种五味杂陈的感觉，就觉得人生苦长，最好的几年大学时光要担心找工作和未来，找到工作又被工作反复捶打，最终又变成毫无心气的中年，一边担心被裁员，一边担心房贷还不上+阶级滑落。&lt;br /&gt;&lt;br /&gt;等熬到快退休，养老金又有可能大打折扣甚至发不出来，手上有点存款了又会被国家设置的通胀给稀释掉购买力，就这样越想越觉得窒息。&lt;br /&gt;&lt;br /&gt;因为自己房贷还清，再加上单身，手头上也有存款，几乎没有任何压力，所以之前一直处于幸福感很高的水平（吃吃喝喝、锻炼身体、旅旅游），测过皮质醇也非常低，但就最近这一周不知道怎么了，可能是太孤独，突然想太多，又没办法接纳自己变老这件事情，也没找到新的兴趣点支撑自己度过接下来走下坡路的人生，最近这一周茶饭不思+失眠，真的担心自己一直这样下去发展成抑郁症之类的。。</description>
     </item>
     <item>
-      <title>Codex 又要重置了</title>
-      <link>https://www.v2ex.com/t/1236559</link>
-      <guid>v2ex-1236559</guid>
-      <pubDate>Sun, 23 Aug 2026 06:32:30 GMT</pubDate>
-      <description>&lt;p&gt;Tibo • @&lt;a href=&quot;/member/thsottiaux&quot;&gt;thsottiaux&lt;/a&gt;•19 分钟&lt;/p&gt;
-&lt;p&gt;Update on rate limits in Codex.&lt;/p&gt;
-&lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;See you then.&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>周末回了躺老家，两件小事打破了县城低价养老的幻想</title>
       <link>https://www.v2ex.com/t/1236691</link>
       <guid>v2ex-1236691</guid>
@@ -67,36 +55,39 @@
 </description>
     </item>
     <item>
+      <title>我说现在骗人式的推广真的太恶心了</title>
+      <link>https://www.v2ex.com/t/1236704</link>
+      <guid>v2ex-1236704</guid>
+      <pubDate>Mon, 24 Aug 2026 02:17:22 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;大家好&lt;/li&gt;
+&lt;li&gt;最近打算养只小猫咪，但是又不想花钱买猫，所以就在网上搜了一下猫咪领养，在小红书和抖音分别看了几个博主的小猫领养，说是大猫生的太多了养不过来或者转行啥的，求领养。我私聊后加上微信，小猫都很乖，然后周日约了两家去看&lt;/li&gt;
+&lt;li&gt;第一家，说是猫社转行，处理小猫，不过有要求要带一包猫粮作为过度粮，这点其实我是接受认可的。我去了以后就问我一开始看好的那只猫咪，结果是生病感冒的，本来都接受了，结果跟我说这只猫要有偿，而且猫粮要带两袋，那 B 猫粮蛋白质含量才 30%卖我 98 一袋，网上都搜不到跟我说进口的，坑啊。无偿的只有一只小丑猫，这猫社搞半天只有一只无偿领养，其他都要钱，还不便宜，真的无语，后面找个借口走了&lt;/li&gt;
+&lt;li&gt;第二家，说是大猫生太多了养不活，求领养，给我发的地址是个商场旁边的定位，我还以为是旁边小区呢，到了以后说是旁边办公楼，当时就感觉要被坑了，结果一上去，好大一个猫社，一看就懂了，猫是真免费，但是每个月要在他这充值 400 块买猫粮和用品一年，这猫猫一到手就要欠这 B 猫社 5k ，分期贷款是吧好好好，又被骗了，败兴而归。&lt;/li&gt;
+&lt;li&gt;套路太多了，就是把你骗过去，你不买他们也没代价。要卖猫你就好好卖，搞这些浪费人时间，我是不想花钱买猫，但是不代表把我骗过去就是对的&lt;/li&gt;
+&lt;li&gt;值得说的一点，第二家猫社接待我的那个女的是前面我同事介绍我的，出车祸都没来看我的那女的，搞半天现在在坑蒙拐骗卖猫了，现在美工是真不好干啊&lt;/li&gt;
+&lt;li&gt;看来后面可能只能买了，不知道领养的到不 QAQ&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Codex 又要重置了</title>
+      <link>https://www.v2ex.com/t/1236559</link>
+      <guid>v2ex-1236559</guid>
+      <pubDate>Sun, 23 Aug 2026 06:32:30 GMT</pubDate>
+      <description>&lt;p&gt;Tibo • @&lt;a href=&quot;/member/thsottiaux&quot;&gt;thsottiaux&lt;/a&gt;•19 分钟&lt;/p&gt;
+&lt;p&gt;Update on rate limits in Codex.&lt;/p&gt;
+&lt;p&gt;We&#39;ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;See you then.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>2026 年键盘求推荐</title>
       <link>https://www.v2ex.com/t/1236534</link>
       <guid>v2ex-1236534</guid>
       <pubDate>Sun, 23 Aug 2026 04:29:17 GMT</pubDate>
       <description>用了十年的 HHKB ，最近时不时有各种小问题，大家有推荐的键盘么？</description>
-    </item>
-    <item>
-      <title>每个用过 DeepSeek Harness 的人都会觉得 DSH 很先进吧？</title>
-      <link>https://www.v2ex.com/t/1236570</link>
-      <guid>v2ex-1236570</guid>
-      <pubDate>Sun, 23 Aug 2026 08:04:40 GMT</pubDate>
-      <description>&lt;p&gt;我用了半小时，装了 im 插件，使用 web profile 就成了网页版 OpenClaw 。&lt;/p&gt;
-&lt;p&gt;装了桌面版，装个新的 UI ，就成了 Claude Code/Codex 。&lt;/p&gt;
-&lt;p&gt;这个东西定制起来太有可玩性了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>关于楼上渗水到楼下的问题，请友友们提供一些建议。</title>
-      <link>https://www.v2ex.com/t/1236528</link>
-      <guid>v2ex-1236528</guid>
-      <pubDate>Sun, 23 Aug 2026 03:39:36 GMT</pubDate>
-      <description>&lt;p&gt;首先，我是楼上的住户。&lt;/p&gt;
-&lt;p&gt;楼下住户最近装修，拆了吊顶后发现楼上卫生间淋浴间地漏附近有水渗下去，周围有明显被水浸泡的痕迹。&lt;/p&gt;
-&lt;p&gt;昨天咸鱼找师傅过来看了一下，给我一个方案。似乎是用一种液体胶水混合水之后覆盖在瓷砖上，然后让液体顺着有缝隙的地方流进去，等到干固之后就能够把缝隙填充，解决渗水的问题。&lt;/p&gt;
-&lt;p&gt;不知道这个方案是不现在比较主流的一种方法，关于费用，他报价在 2000 元左右。&lt;/p&gt;
-&lt;p&gt;友友们有没有过类似的经历呀？&lt;/p&gt;
-&lt;p&gt;关于这个价格和方案靠谱吗？&lt;/p&gt;
-&lt;p&gt;拍的一张图片&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;0cb696fb86fd4a8265d26e8a82a63d83.jpg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/08/23/QxzuUlZP.jpg&quot;/&gt;&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>miniQMT 即将清退｜“万一免五”证券开户找老倔驴巨靠谱！ #回帖抽 mx anywhere 3s [40 期]</title>
@@ -128,19 +119,29 @@
 </description>
     </item>
     <item>
-      <title>我说现在骗人式的推广真的太恶心了</title>
-      <link>https://www.v2ex.com/t/1236704</link>
-      <guid>v2ex-1236704</guid>
-      <pubDate>Mon, 24 Aug 2026 02:17:22 GMT</pubDate>
-      <description>&lt;ul&gt;
-&lt;li&gt;大家好&lt;/li&gt;
-&lt;li&gt;最近打算养只小猫咪，但是又不想花钱买猫，所以就在网上搜了一下猫咪领养，在小红书和抖音分别看了几个博主的小猫领养，说是大猫生的太多了养不过来或者转行啥的，求领养。我私聊后加上微信，小猫都很乖，然后周日约了两家去看&lt;/li&gt;
-&lt;li&gt;第一家，说是猫社转行，处理小猫，不过有要求要带一包猫粮作为过度粮，这点其实我是接受认可的。我去了以后就问我一开始看好的那只猫咪，结果是生病感冒的，本来都接受了，结果跟我说这只猫要有偿，而且猫粮要带两袋，那 B 猫粮蛋白质含量才 30%卖我 98 一袋，网上都搜不到跟我说进口的，坑啊。无偿的只有一只小丑猫，这猫社搞半天只有一只无偿领养，其他都要钱，还不便宜，真的无语，后面找个借口走了&lt;/li&gt;
-&lt;li&gt;第二家，说是大猫生太多了养不活，求领养，给我发的地址是个商场旁边的定位，我还以为是旁边小区呢，到了以后说是旁边办公楼，当时就感觉要被坑了，结果一上去，好大一个猫社，一看就懂了，猫是真免费，但是每个月要在他这充值 400 块买猫粮和用品一年，这猫猫一到手就要欠这 B 猫社 5k ，分期贷款是吧好好好，又被骗了，败兴而归。&lt;/li&gt;
-&lt;li&gt;套路太多了，就是把你骗过去，你不买他们也没代价。要卖猫你就好好卖，搞这些浪费人时间，我是不想花钱买猫，但是不代表把我骗过去就是对的&lt;/li&gt;
-&lt;li&gt;值得说的一点，第二家猫社接待我的那个女的是前面我同事介绍我的，出车祸都没来看我的那女的，搞半天现在在坑蒙拐骗卖猫了，现在美工是真不好干啊&lt;/li&gt;
-&lt;li&gt;看来后面可能只能买了，不知道领养的到不 QAQ&lt;/li&gt;
-&lt;/ul&gt;
+      <title>每个用过 DeepSeek Harness 的人都会觉得 DSH 很先进吧？</title>
+      <link>https://www.v2ex.com/t/1236570</link>
+      <guid>v2ex-1236570</guid>
+      <pubDate>Sun, 23 Aug 2026 08:04:40 GMT</pubDate>
+      <description>&lt;p&gt;我用了半小时，装了 im 插件，使用 web profile 就成了网页版 OpenClaw 。&lt;/p&gt;
+&lt;p&gt;装了桌面版，装个新的 UI ，就成了 Claude Code/Codex 。&lt;/p&gt;
+&lt;p&gt;这个东西定制起来太有可玩性了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>很久没有碰浏览器了，我决定从头开始写一个浏览器硬刚 Google Chrome</title>
+      <link>https://www.v2ex.com/t/1236674</link>
+      <guid>v2ex-1236674</guid>
+      <pubDate>Mon, 24 Aug 2026 01:21:27 GMT</pubDate>
+      <description>&lt;p&gt;二十年前我写了一个浏览器 K-MeleonCCF ，基于的是 Mozilla 的 Gecko 浏览器，这还是在 Mozilla 正式发布 Firefox 之前。当时他们的正式浏览器还只是 Mozilla Suites&lt;/p&gt;
+&lt;p&gt;我还记得当时在浏览器上工作的动力是打破微软 IE 的浏览器垄断。&lt;/p&gt;
+&lt;p&gt;一晃二十年过去了，IE 的浏览器垄断早就没有了，但结果回来一看，浏览器还是存在着垄断，只是现在的垄断者从微软变成了谷歌。Firefox 逐年式微，市场份额一点点被馋食。&lt;/p&gt;
+&lt;p&gt;我当然也很久没有碰过浏览器了。&lt;/p&gt;
+&lt;p&gt;大概一年多前，我接触了 zig 编程语言，这个语言对于性能的追求让我很有感慨，心想如果用 zig 来编写一个浏览器引擎会否有可能。&lt;/p&gt;
+&lt;p&gt;当时只是一个想法，我决定花一点点时间来写一点 Proof of concept. 然后根据这个 PoC 来结合我的 cwcode 来作快捷开发，看看是否有可能把这个东西写出来一个能用的东西。&lt;/p&gt;
+&lt;p&gt;一年很快就过了，回头看看这个东西还是有很多的问题，真正到能用还有一段路程，但我想把这个项目正式公开出来，让所有人知道即使是到了现在 modern web 如此复杂的阶段，也是有可能重新写出一个 Rendering 引擎的.&lt;/p&gt;
+&lt;p&gt;第一个编译的版本是基于 ARM macos 的，主要是因为我自己的开发平台是 Mac. 当然这个浏览器引擎是无关 OS 的，今后我会公布 Windows , Linux 的版本.&lt;/p&gt;
+&lt;p&gt;你可以从这里下载和尝试 &lt;a href=&quot;https://code.intellios.ai/cwbrowser/&quot; rel=&quot;nofollow&quot;&gt;https://code.intellios.ai/cwbrowser/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
