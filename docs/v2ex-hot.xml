@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 24 Aug 2026 17:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:53:54 GMT</lastBuildDate>
     <item>
       <title>用小米这款显示器的注意，周六晚上烧了.</title>
       <link>https://www.v2ex.com/t/1236662</link>
@@ -138,6 +138,22 @@
 </description>
     </item>
     <item>
+      <title>很久没有碰浏览器了，我决定从头开始写一个浏览器硬刚 Google Chrome</title>
+      <link>https://www.v2ex.com/t/1236674</link>
+      <guid>v2ex-1236674</guid>
+      <pubDate>Mon, 24 Aug 2026 01:21:27 GMT</pubDate>
+      <description>&lt;p&gt;二十年前我写了一个浏览器 K-MeleonCCF ，基于的是 Mozilla 的 Gecko 浏览器，这还是在 Mozilla 正式发布 Firefox 之前。当时他们的正式浏览器还只是 Mozilla Suites&lt;/p&gt;
+&lt;p&gt;我还记得当时在浏览器上工作的动力是打破微软 IE 的浏览器垄断。&lt;/p&gt;
+&lt;p&gt;一晃二十年过去了，IE 的浏览器垄断早就没有了，但结果回来一看，浏览器还是存在着垄断，只是现在的垄断者从微软变成了谷歌。Firefox 逐年式微，市场份额一点点被馋食。&lt;/p&gt;
+&lt;p&gt;我当然也很久没有碰过浏览器了。&lt;/p&gt;
+&lt;p&gt;大概一年多前，我接触了 zig 编程语言，这个语言对于性能的追求让我很有感慨，心想如果用 zig 来编写一个浏览器引擎会否有可能。&lt;/p&gt;
+&lt;p&gt;当时只是一个想法，我决定花一点点时间来写一点 Proof of concept. 然后根据这个 PoC 来结合我的 cwcode 来作快捷开发，看看是否有可能把这个东西写出来一个能用的东西。&lt;/p&gt;
+&lt;p&gt;一年很快就过了，回头看看这个东西还是有很多的问题，真正到能用还有一段路程，但我想把这个项目正式公开出来，让所有人知道即使是到了现在 modern web 如此复杂的阶段，也是有可能重新写出一个 Rendering 引擎的.&lt;/p&gt;
+&lt;p&gt;第一个编译的版本是基于 ARM macos 的，主要是因为我自己的开发平台是 Mac. 当然这个浏览器引擎是无关 OS 的，今后我会公布 Windows , Linux 的版本.&lt;/p&gt;
+&lt;p&gt;你可以从这里下载和尝试 &lt;a href=&quot;https://code.intellios.ai/cwbrowser/&quot; rel=&quot;nofollow&quot;&gt;https://code.intellios.ai/cwbrowser/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>miniQMT 即将清退｜“万一免五”证券开户找老倔驴巨靠谱！ #回帖抽 mx anywhere 3s [40 期]</title>
       <link>https://www.v2ex.com/t/1236659</link>
       <guid>v2ex-1236659</guid>
@@ -164,22 +180,6 @@
 &lt;p&gt;PS: 不开户也欢迎，回复就是支持！不因奖品而参与股市!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/Z6b1Ye10.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>很久没有碰浏览器了，我决定从头开始写一个浏览器硬刚 Google Chrome</title>
-      <link>https://www.v2ex.com/t/1236674</link>
-      <guid>v2ex-1236674</guid>
-      <pubDate>Mon, 24 Aug 2026 01:21:27 GMT</pubDate>
-      <description>&lt;p&gt;二十年前我写了一个浏览器 K-MeleonCCF ，基于的是 Mozilla 的 Gecko 浏览器，这还是在 Mozilla 正式发布 Firefox 之前。当时他们的正式浏览器还只是 Mozilla Suites&lt;/p&gt;
-&lt;p&gt;我还记得当时在浏览器上工作的动力是打破微软 IE 的浏览器垄断。&lt;/p&gt;
-&lt;p&gt;一晃二十年过去了，IE 的浏览器垄断早就没有了，但结果回来一看，浏览器还是存在着垄断，只是现在的垄断者从微软变成了谷歌。Firefox 逐年式微，市场份额一点点被馋食。&lt;/p&gt;
-&lt;p&gt;我当然也很久没有碰过浏览器了。&lt;/p&gt;
-&lt;p&gt;大概一年多前，我接触了 zig 编程语言，这个语言对于性能的追求让我很有感慨，心想如果用 zig 来编写一个浏览器引擎会否有可能。&lt;/p&gt;
-&lt;p&gt;当时只是一个想法，我决定花一点点时间来写一点 Proof of concept. 然后根据这个 PoC 来结合我的 cwcode 来作快捷开发，看看是否有可能把这个东西写出来一个能用的东西。&lt;/p&gt;
-&lt;p&gt;一年很快就过了，回头看看这个东西还是有很多的问题，真正到能用还有一段路程，但我想把这个项目正式公开出来，让所有人知道即使是到了现在 modern web 如此复杂的阶段，也是有可能重新写出一个 Rendering 引擎的.&lt;/p&gt;
-&lt;p&gt;第一个编译的版本是基于 ARM macos 的，主要是因为我自己的开发平台是 Mac. 当然这个浏览器引擎是无关 OS 的，今后我会公布 Windows , Linux 的版本.&lt;/p&gt;
-&lt;p&gt;你可以从这里下载和尝试 &lt;a href=&quot;https://code.intellios.ai/cwbrowser/&quot; rel=&quot;nofollow&quot;&gt;https://code.intellios.ai/cwbrowser/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
