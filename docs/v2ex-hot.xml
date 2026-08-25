@@ -4,69 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 25 Aug 2026 03:23:28 GMT</lastBuildDate>
-    <item>
-      <title>我今年 45，我以为我已经见过了世界，直到今天我用了一次汇丰的网银</title>
-      <link>https://www.v2ex.com/t/1236750</link>
-      <guid>v2ex-1236750</guid>
-      <pubDate>Mon, 24 Aug 2026 03:26:23 GMT</pubDate>
-      <description>&lt;p&gt;AI 提醒：我负责吐槽，ChatGPT 负责文字润色。&lt;/p&gt;
-&lt;p&gt;实在是太傻逼了。&lt;/p&gt;
-&lt;p&gt;今天要从汇丰转一笔钱到券商，本来以为这是一件大概 3 分钟可以结束的事情。结果我第一次真切地体会到：一个拥有一百多年历史、业务遍布全球的银行，到底可以把电子银行做得多么反人类。&lt;/p&gt;
-&lt;p&gt;首先，加一个收款人，居然不是加完就能用。&lt;/p&gt;
-&lt;p&gt;要等。&lt;/p&gt;
-&lt;p&gt;而且不是等几分钟，不是等短信验证，不是等系统风控审核一下。&lt;/p&gt;
-&lt;p&gt;是要等到第二个工作日才能确认。&lt;/p&gt;
-&lt;p&gt;我盯着这个设计想了半天，都没想明白它究竟在防什么。&lt;/p&gt;
-&lt;p&gt;如果是为了安全，那现在已经有短信 OTP 、App 验证、生物识别、设备绑定、交易限额、风控模型，甚至你愿意的话再让我做一次人脸识别都行。&lt;/p&gt;
-&lt;p&gt;结果汇丰的解决方案是：&lt;/p&gt;
-&lt;p&gt;你今天加的收款人，明天再说。&lt;/p&gt;
-&lt;p&gt;这大概属于一种非常古典的安全思想：只要什么都不让你干，就永远不会发生风险。&lt;/p&gt;
-&lt;p&gt;然后是功能分类。&lt;/p&gt;
-&lt;p&gt;我本来天真地认为，“转账”应该就是“转账”。&lt;/p&gt;
-&lt;p&gt;结果进去以后，各种本地转账、海外转账、其他账户、已登记账户、未登记账户、不同地区、不同渠道……&lt;/p&gt;
-&lt;p&gt;每一层菜单都仿佛在提醒你：&lt;/p&gt;
-&lt;p&gt;银行内部有多少套系统，我们就准备让客户了解多少套系统。&lt;/p&gt;
-&lt;p&gt;正常的软件设计，是把后台复杂性封装起来。&lt;/p&gt;
-&lt;p&gt;汇丰的设计理念似乎恰恰相反：&lt;/p&gt;
-&lt;p&gt;后台有多复杂，就让用户体验得多完整。&lt;/p&gt;
-&lt;p&gt;最精彩的还是收款人资料。&lt;/p&gt;
-&lt;p&gt;券商明明已经给了标准的收款银行信息、SWIFT 、账户号码、收款人名称、附言要求，理论上按字段填进去就完了。&lt;/p&gt;
-&lt;p&gt;但是汇丰总能在一些你完全意想不到的地方给你加一个长度限制、格式限制，或者一个意义不明的分类，让你突然开始怀疑：&lt;/p&gt;
-&lt;p&gt;到底是我不会汇款，还是这个世界上的国际银行业务其实一直就是靠玄学运行的？&lt;/p&gt;
-&lt;p&gt;整个过程中我最强烈的感受不是“这个 App 不好用”。&lt;/p&gt;
-&lt;p&gt;而是：&lt;/p&gt;
-&lt;p&gt;这东西明显不是按照“一个普通人要完成一笔转账”来设计的。&lt;/p&gt;
-&lt;p&gt;它更像是若干个几十年来不断叠加的银行内部系统，外面勉强包了一层 Web UI ，然后产品经理郑重宣布：&lt;/p&gt;
-&lt;p&gt;“好了，现在客户也可以用了。”&lt;/p&gt;
-&lt;p&gt;更荒谬的是，我四年前第一次用渣打的时候，也觉得自己见到了人类电子银行设计的下限。&lt;/p&gt;
-&lt;p&gt;我足足吐槽了渣打一整年。&lt;/p&gt;
-&lt;p&gt;当时我是真的觉得，银行 App 能做成这样，已经不可能再坏了。&lt;/p&gt;
-&lt;p&gt;现在回头看，我他妈还是年轻。&lt;/p&gt;
-&lt;p&gt;汇丰用实际行动告诉我：&lt;/p&gt;
-&lt;p&gt;不要轻易给软件工程设下限。&lt;/p&gt;
-&lt;p&gt;因为下限下面，还有地下室。&lt;/p&gt;
-&lt;p&gt;香港银行业真的是一个非常神奇的行业。&lt;/p&gt;
-&lt;p&gt;香港一共就三个港币发行行：汇丰、渣打、中银香港。&lt;/p&gt;
-&lt;p&gt;按理说三家都是经营了不知道多少年的大银行，钱有的是，客户有的是，业务经验更是多到能写进历史书。&lt;/p&gt;
-&lt;p&gt;结果这三家凑到一起，愣是凑不出一套正常人类可以使用的网银系统。&lt;/p&gt;
-&lt;p&gt;你甚至很难说哪一家最好用。&lt;/p&gt;
-&lt;p&gt;更准确的描述可能是：&lt;/p&gt;
-&lt;p&gt;它们分别以不同的方式难用。&lt;/p&gt;
-&lt;p&gt;渣打让你怀疑产品经理有没有用过自己的产品。&lt;/p&gt;
-&lt;p&gt;汇丰让你怀疑产品经理到底知不知道“用户”这个概念。&lt;/p&gt;
-&lt;p&gt;至于中银香港，有时候甚至会让你开始怀念前两个。&lt;/p&gt;
-&lt;p&gt;最魔幻的地方就在这里。&lt;/p&gt;
-&lt;p&gt;这是全球最重要的国际金融中心之一。&lt;/p&gt;
-&lt;p&gt;每天不知道多少亿美元、港币、人民币在这里进进出出，各种跨境结算、财富管理、证券交易、企业融资做得飞起。&lt;/p&gt;
-&lt;p&gt;然后你作为一个普通客户打开网银：&lt;/p&gt;
-&lt;p&gt;欢迎来到 2007 年。&lt;/p&gt;
-&lt;p&gt;说实话，汇丰如果能把全球广告预算砍掉哪怕 10%，拿去重新做一次电子银行，我怀疑对品牌价值的提升都比现在大。&lt;/p&gt;
-&lt;p&gt;以前看到银行宣传什么“Connecting you to opportunities”，我没什么感觉。&lt;/p&gt;
-&lt;p&gt;今天终于理解了。&lt;/p&gt;
-&lt;p&gt;最大的 opportunity ，就是成功把钱转出去。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 04:05:17 GMT</lastBuildDate>
     <item>
       <title>娃生了，感叹这个成本真的很低。</title>
       <link>https://www.v2ex.com/t/1236793</link>
@@ -92,6 +30,28 @@
       <guid>v2ex-1236838</guid>
       <pubDate>Mon, 24 Aug 2026 08:21:52 GMT</pubDate>
       <description>&lt;p&gt;95 后，手里有存款。父亲重度抑郁症，母亲关节炎，走不长久路。父母都没收入，我每个月打 3000 元生活费，已经有 4 年了。哥哥未婚，最近出现幻听、妄想，住院一个月。女朋友家里也不同意我两的婚事。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>“万一免五”股票基金大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.25 日~8.31 日]</title>
+      <link>https://www.v2ex.com/t/1236935</link>
+      <guid>v2ex-1236935</guid>
+      <pubDate>Tue, 25 Aug 2026 00:29:20 GMT</pubDate>
+      <description>这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+&lt;br /&gt;大笑脸开户，低门槛免 5 券商，股票基金 etf 全网超低费率，北交所免五港股通免五两融免五量化免五，欢迎来开！&lt;br /&gt;⚠️开户和推荐朋友都有红包！&lt;br /&gt;⚠️回帖即可参与抽奖！&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/p96eAHV9l.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 p96eAHV9l.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/p96eAHV9l.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;⚠️大笑脸低佣开户推荐：&lt;br /&gt;YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利，逆回购 1 折，新手必备]&lt;br /&gt;GF 证券：ETF 万 0.5 免 5 [ETF 费率低]&lt;br /&gt;CC 证券：万 1 免 5 [低门槛股票 etf 双免 5]&lt;br /&gt;DB 证券：万 0.741 免 5 [国企券商，股票 etf 费率都很低]&lt;br /&gt;GT*证券：万 0.8 免 5 [头部龙头券商，费率最优惠，大客户专享，综合费率最低]&lt;br /&gt;GX 证券：万 0.851 免 5 [头部龙头券商，综合费率也很低]&lt;br /&gt;&lt;br /&gt;⚠️大笑脸联系方式和最新具体券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;http://www.daxiaolian.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.daxiaolian.com&lt;/a&gt;&lt;br /&gt;备用链接 &lt;a target=&quot;_blank&quot; href=&quot;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&quot; rel=&quot;nofollow noopener&quot;&gt;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&lt;/a&gt;&lt;br /&gt;备用联系方式 Z2FveWEyNTAw&lt;br /&gt;ZHhnODg0NA==</description>
+    </item>
+    <item>
+      <title>你还在用 Vim 吗？你为什么用它？</title>
+      <link>https://www.v2ex.com/t/1236792</link>
+      <guid>v2ex-1236792</guid>
+      <pubDate>Mon, 24 Aug 2026 06:14:04 GMT</pubDate>
+      <description>&lt;p&gt;这里的「用」其实有两层意思：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;只是偶尔用一用，作为临时的文件编辑器；&lt;/li&gt;
+&lt;li&gt;在实际开发工作中频繁使用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我发现我身边很多 前 C/C++ 程序员 都喜欢用 Vim 。即使有了 AI ，也是 Vim + Claude Code 搭配使用。问他们是怎么记住那些键位和复杂操作的，怎么熟悉 Normal 和 Visual 的多模式编辑，以及为什么不使用 VSCode ，回答基本都是「&lt;strong&gt;习惯了&lt;/strong&gt;」。而且我看他们的开发效率，都挺高的，并没有因为编辑器而降低。&lt;/p&gt;
+&lt;p&gt;我自己以前读大学的时候也赶潮流学过一段时间 Vim ，但感觉用不明白，干啥都费劲，最后还是用回 VSCode 了。现在也就知道 hjkl ，没了。&lt;/p&gt;
+&lt;p&gt;各位现在还会用 Vim （或者在 IDE 里配置 Vim 的按键绑定）吗？为什么使用呢？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -149,36 +109,6 @@
 </description>
     </item>
     <item>
-      <title>你还在用 Vim 吗？你为什么用它？</title>
-      <link>https://www.v2ex.com/t/1236792</link>
-      <guid>v2ex-1236792</guid>
-      <pubDate>Mon, 24 Aug 2026 06:14:04 GMT</pubDate>
-      <description>&lt;p&gt;这里的「用」其实有两层意思：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;只是偶尔用一用，作为临时的文件编辑器；&lt;/li&gt;
-&lt;li&gt;在实际开发工作中频繁使用。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我发现我身边很多 前 C/C++ 程序员 都喜欢用 Vim 。即使有了 AI ，也是 Vim + Claude Code 搭配使用。问他们是怎么记住那些键位和复杂操作的，怎么熟悉 Normal 和 Visual 的多模式编辑，以及为什么不使用 VSCode ，回答基本都是「&lt;strong&gt;习惯了&lt;/strong&gt;」。而且我看他们的开发效率，都挺高的，并没有因为编辑器而降低。&lt;/p&gt;
-&lt;p&gt;我自己以前读大学的时候也赶潮流学过一段时间 Vim ，但感觉用不明白，干啥都费劲，最后还是用回 VSCode 了。现在也就知道 hjkl ，没了。&lt;/p&gt;
-&lt;p&gt;各位现在还会用 Vim （或者在 IDE 里配置 Vim 的按键绑定）吗？为什么使用呢？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>“万一免五”股票基金大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.25 日~8.31 日]</title>
-      <link>https://www.v2ex.com/t/1236935</link>
-      <guid>v2ex-1236935</guid>
-      <pubDate>Tue, 25 Aug 2026 00:29:20 GMT</pubDate>
-      <description>这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+&lt;br /&gt;大笑脸开户，低门槛免 5 券商，股票基金 etf 全网超低费率，北交所免五港股通免五两融免五量化免五，欢迎来开！&lt;br /&gt;⚠️开户和推荐朋友都有红包！&lt;br /&gt;⚠️回帖即可参与抽奖！&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/p96eAHV9l.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 p96eAHV9l.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/p96eAHV9l.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;&lt;br /&gt;⚠️大笑脸低佣开户推荐：&lt;br /&gt;YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利，逆回购 1 折，新手必备]&lt;br /&gt;GF 证券：ETF 万 0.5 免 5 [ETF 费率低]&lt;br /&gt;CC 证券：万 1 免 5 [低门槛股票 etf 双免 5]&lt;br /&gt;DB 证券：万 0.741 免 5 [国企券商，股票 etf 费率都很低]&lt;br /&gt;GT*证券：万 0.8 免 5 [头部龙头券商，费率最优惠，大客户专享，综合费率最低]&lt;br /&gt;GX 证券：万 0.851 免 5 [头部龙头券商，综合费率也很低]&lt;br /&gt;&lt;br /&gt;⚠️大笑脸联系方式和最新具体券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;http://www.daxiaolian.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.daxiaolian.com&lt;/a&gt;&lt;br /&gt;备用链接 &lt;a target=&quot;_blank&quot; href=&quot;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&quot; rel=&quot;nofollow noopener&quot;&gt;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&lt;/a&gt;&lt;br /&gt;备用联系方式 Z2FveWEyNTAw&lt;br /&gt;ZHhnODg0NA==</description>
-    </item>
-    <item>
-      <title>todo 软件你们推荐哪个</title>
-      <link>https://www.v2ex.com/t/1236796</link>
-      <guid>v2ex-1236796</guid>
-      <pubDate>Mon, 24 Aug 2026 06:20:37 GMT</pubDate>
-      <description>&lt;p&gt;苦于拖延症太严重了，而且经常忘事，想找一款 todo 类的软件做提醒，大家有没有推荐的呢&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>大家有没有关注到最近的“男性觉醒”现象</title>
       <link>https://www.v2ex.com/t/1236954</link>
       <guid>v2ex-1236954</guid>
@@ -192,6 +122,29 @@
       <guid>v2ex-1236973</guid>
       <pubDate>Tue, 25 Aug 2026 02:08:20 GMT</pubDate>
       <description>我一直有个没太想明白的问题：为什么现在的机器人，尤其是所谓的“通用机器人”，都在大力往“人形”方向设计？&lt;br /&gt;&lt;br /&gt;人类真正厉害的，我觉得可能主要是“脑袋”——会思考、会学习、会判断、会适应环境。至于身体，其实并没有想象中那么优秀。&lt;br /&gt;&lt;br /&gt;比如，想让机器人跑得快，为什么一定要用两条腿？轮胎不是更高效吗？&lt;br /&gt;&lt;br /&gt;想让它拧螺丝，为什么还要设计一只机械手去拿螺丝刀？直接把手做成螺丝刀，不是更简单直接？&lt;br /&gt;&lt;br /&gt;如果目标真的是“什么都能干”，那为什么是两只手？三头六臂听起来反而更符合“通用”的逻辑把。</description>
+    </item>
+    <item>
+      <title>todo 软件你们推荐哪个</title>
+      <link>https://www.v2ex.com/t/1236796</link>
+      <guid>v2ex-1236796</guid>
+      <pubDate>Mon, 24 Aug 2026 06:20:37 GMT</pubDate>
+      <description>&lt;p&gt;苦于拖延症太严重了，而且经常忘事，想找一款 todo 类的软件做提醒，大家有没有推荐的呢&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>记买车一周年</title>
+      <link>https://www.v2ex.com/t/1236846</link>
+      <guid>v2ex-1236846</guid>
+      <pubDate>Mon, 24 Aug 2026 08:49:38 GMT</pubDate>
+      <description>&lt;p&gt;刚给车子完成了第一次续保，看着手机上新的保单信息，才发觉时间过得真快，不知不觉也已经开了一年了。一年时间一共开了一万四千公里，说多不多，说少也不少。&lt;/p&gt;
+&lt;p&gt;犹记得提车第二天，去高铁站接女朋友回家，路上突然下起大暴雨，坐在车里的女朋友开心的说“还好有车了，要不然又要淋成落汤鸡”。我们俩坐在车里听着歌，慢慢开回家，雨水落在玻璃天窗上，淅淅沥沥，这一小方温馨的空间，将我们与这个冰凉的城市隔离。&lt;/p&gt;
+&lt;p&gt;和女朋友在一起５年了，车子她早就想买，但是因为工作不稳定和想要在省会买房，所以一直抠抠搜搜的犹豫不决。我和女朋友都是省内农村的，过年过节回趟家要公交转地铁转高铁，我女朋友还好，出了高铁站能打个车，我回家则只能等一天两班的城乡巴士，错过了，只能拼黑车回去;促进买车还有一个很大的原因是，现在打网约车，打到臭车的概率越来越高，而且因为失业率的增加，很多开车技术一般的人也把开网约车作为一个过渡，导致目前司机的水平层次不齐；&lt;/p&gt;
+&lt;p&gt;买了车的这一年时间里，为了想吃一碗面，我们可以开车一百多公里说走就走；在疲惫了一周的周六早上，突发奇想想去古镇放松放松，穿上衣服就可以出发；在假期想回家了，不用早早的守着１２３０６抢票；可以带大包小包的爸妈的爱回来，不用担心挤高铁不方便；载着父母家人去了一直想去但是不方便去的景点;为了省钱坐红眼航班也不用提前预约网约车，还一直担心司机不会准时来接；&lt;/p&gt;
+&lt;p&gt;我们也曾掰着手指算账，把每一公里的电费、每一年的保险保养，都跟打车的开销比对,一直在算买车和打车比划不划算，其实我们忽略了买车提供的情绪价值；我们努力在大城市工作赚钱，不就是为了让家人和自己的生活过得更轻松更幸福吗？&lt;/p&gt;
+&lt;p&gt;对于车子,我们的要求其实不高，一是我们俩都是省内的，从工作的地方到家大概３００公里，我们希望路上不充电就能到，这个要求目前大部分的纯电车都能满足；二是想要空间大点，作为第一辆车想要一步到位，所以选择了ＳＵＶ；可以说我们的需求真的很简单了，然后我们就按照我们的预算去买；&lt;/p&gt;
+&lt;p&gt;现在续保的保单安安静静地躺在手机里，提醒我又过了一年。一万四千公里的路，碾过暴雨，穿过晴空，踏过回家的高速和加班回来的深夜。车还是那辆车，每次坐进去，音乐一响起，依然有种笃定的踏实——仿佛只要轮子在转，我们就能把日子过成自己想要的样子。
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/N7QvpDy.jpeg&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
