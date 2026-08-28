@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 28 Aug 2026 13:30:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 23:16:22 GMT</lastBuildDate>
     <item>
       <title>V 站程序员平均职业寿命大概有多少年？</title>
       <link>https://www.v2ex.com/t/1237773</link>
@@ -60,19 +60,19 @@
 </description>
     </item>
     <item>
+      <title>码农匹配不上白月光吗</title>
+      <link>https://www.v2ex.com/t/1237845</link>
+      <guid>v2ex-1237845</guid>
+      <pubDate>Fri, 28 Aug 2026 05:06:20 GMT</pubDate>
+      <description>码农里面有不少大佬搞钱是非常厉害的，似乎总缺少一种匹配白月光的气质&lt;br /&gt;&lt;br /&gt;很多体育、娱乐明星论财富数量应该赶不上一些码农，但是有一些码农缺少的吸引白月光的气质&lt;br /&gt;&lt;br /&gt;最后都弄得两败俱伤&lt;br /&gt;&lt;br /&gt;别的圈子里面闹掰大部分能体面，像李某某、孙某某这搞的不体面啊&lt;br /&gt;&lt;br /&gt;没有大佬那么多金，小码农深深的忧伤了</description>
+    </item>
+    <item>
       <title>你们怎么念的？ code~x 还是 co~dex</title>
       <link>https://www.v2ex.com/t/1237866</link>
       <guid>v2ex-1237866</guid>
       <pubDate>Fri, 28 Aug 2026 06:31:04 GMT</pubDate>
       <description>&lt;p&gt;刚刚听到别人念 co~dex ，差点没反应过来🫪 正确读音是啥&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>码农匹配不上白月光吗</title>
-      <link>https://www.v2ex.com/t/1237845</link>
-      <guid>v2ex-1237845</guid>
-      <pubDate>Fri, 28 Aug 2026 05:06:20 GMT</pubDate>
-      <description>码农里面有不少大佬搞钱是非常厉害的，似乎总缺少一种匹配白月光的气质&lt;br /&gt;&lt;br /&gt;很多体育、娱乐明星论财富数量应该赶不上一些码农，但是有一些码农缺少的吸引白月光的气质&lt;br /&gt;&lt;br /&gt;最后都弄得两败俱伤&lt;br /&gt;&lt;br /&gt;别的圈子里面闹掰大部分能体面，像李某某、孙某某这搞的不体面啊&lt;br /&gt;&lt;br /&gt;没有大佬那么多金，小码农深深的忧伤了</description>
     </item>
     <item>
       <title>V 站每天都有龟男贴，那问题来了孙割算龟男吗？</title>
@@ -82,18 +82,29 @@
       <description>V 站每天都有龟男贴，那问题来了孙割算龟男吗？</description>
     </item>
     <item>
-      <title>有個問題，為什麼移動固網用戶很多？</title>
-      <link>https://www.v2ex.com/t/1237719</link>
-      <guid>v2ex-1237719</guid>
-      <pubDate>Thu, 27 Aug 2026 13:45:11 GMT</pubDate>
-      <description>國內質素移動最差，畢竟移動不單單是跟電信互訪都有問題，甚至跟聯通互訪都是非常有問題的，國際這個的話移動肯定不一定，移動可以排到第二，至於墊底的那個我就不說了吧，但大部分人都是註重於國內體驗的，為什麼移動固網用戶還能做到很多，甚至還能趕超電信和聯通（原網通），做到三億用戶的規模？</description>
-    </item>
-    <item>
       <title>上海地区安装联通宽带还是移动宽带，有两种都试过的吗，对比下来哪个更好？</title>
       <link>https://www.v2ex.com/t/1237786</link>
       <guid>v2ex-1237786</guid>
       <pubDate>Fri, 28 Aug 2026 02:04:50 GMT</pubDate>
       <description>上海地区安装联通宽带还是移动宽带，有两种都试过的吗，对比下来哪个更好？</description>
+    </item>
+    <item>
+      <title>买个 B200 或 B300，部署 Deepseek-V4 等开源模型，然后卖服务给大厂，有得赚吗。</title>
+      <link>https://www.v2ex.com/t/1237864</link>
+      <guid>v2ex-1237864</guid>
+      <pubDate>Fri, 28 Aug 2026 06:17:59 GMT</pubDate>
+      <description>&lt;p&gt;当然个人基本没戏，我说的是企业去做。&lt;/p&gt;
+&lt;p&gt;基于以下事实：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;当前环境下，英伟达高端显卡不允许进入国内市场，受政策影响，腾讯、华为、深度求索这些大厂，即使有渠道购买大概率也不能明目张胆使用。&lt;/li&gt;
+&lt;li&gt;算力需求，字节、腾讯、华为、阿里、深度求索等都有自己的模型市场，算力需求极大，但国产 GPU 性能、稳定性和运维性价比上，明显不占优势。&lt;/li&gt;
+&lt;li&gt;小公司受政策影响较小，使用英伟达高端显卡基本不会有啥问题。&lt;/li&gt;
+&lt;li&gt;模型搭建技术要求低，除了硬件投入，软件和运维成本不高。而且对外只需提供一个调用接口即可，只需要保证接口稳定性和成功率即可。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;基于上面的情况，中小企业能否花几百万自己找渠道买 B200 或 B300 ，然后自己搭建 Deepseek 模型，通过接口租赁给大厂，为了网络稳定可以找机房托管。
+然后对接大厂，签合同卖服务使用权或卖 token 。&lt;/p&gt;
+&lt;p&gt;有没有大佬分析下，这种方案，多久能回本，这个玩法是否可行？&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
