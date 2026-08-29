@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:40:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:59:24 GMT</lastBuildDate>
     <item>
       <title>没交物业费，物业起诉我之后还没开庭，法院直接冻结我的定期存款了，合法吗？</title>
       <link>https://www.v2ex.com/t/1238000</link>
@@ -20,111 +20,6 @@
       <description>孙割是顶级掠食者，他说的每句话做的每件事前，都是计算好了成本和收益的。&lt;br /&gt;孙割说的每一千个字，最多只有 2 个字是真的.&lt;br /&gt;这次小作文，唯一能证实的就是：&lt;br /&gt;孙割花钱 P 了景田几次。&lt;br /&gt;什么白月光/老照片这些话你真的能信孙割？&lt;br /&gt;现在的孙割，要的是话题是流量，几千万对他来说就是炒作成本。&lt;br /&gt;孙割要的是：&lt;br /&gt;巨大的话题流量继续红+再拉一波盘割一次+感受到川普家族对他的威胁需要热度保命+给自己立一个痴情种人设+等着傻子们帮他冲+最好几千万还能要回来白嫖&lt;br /&gt;你看，再割一波+热度保命 才是最重要的，白嫖都是排最后的。顶级掠食者是我全都要。&lt;br /&gt;能将人性随意玩弄操控的，上一个集大成者还是 PDD 黄峥吧。&lt;br /&gt;一个是随意全球收割韭菜，一个是靠拿捏人性扭转中国电商生态格局。</description>
     </item>
     <item>
-      <title>公司不让装 Navicat 了，就自己写了一个数据库客户端</title>
-      <link>https://www.v2ex.com/t/1237986</link>
-      <guid>v2ex-1237986</guid>
-      <pubDate>Fri, 28 Aug 2026 15:55:19 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;DataZen 主界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/01-main-window.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;写代码十几年了。之前也给孩子们做过几个 Android 小应用，背单词、练口算那种，他们用得还行。&lt;/p&gt;
-&lt;p&gt;但那些说到底还是「给别人用」。&lt;strong&gt;DataZen 是我第一次想只为自己做一个软件。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;起因很现实：公司合规不让装 Navicat 了。DBeaver 能用，但日常用起来总觉得差点意思。正好赶上 vibe coding 这股风，心想不如自己试一把，看能不能做出一个&lt;strong&gt;真正工业级、能天天拿来干活&lt;/strong&gt;的数据库客户端。&lt;/p&gt;
-&lt;p&gt;不是玩票，也不是 demo 。就是给自己用。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;两个具体痛点&lt;/h2&gt;
-&lt;h3&gt;1. 查线上问题，经常要串好几张表，还跨库&lt;/h3&gt;
-&lt;p&gt;处理投诉、排查线上问题，流程大概是这样：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;先查表 A ，拿到某个 ID 或状态&lt;/li&gt;
-&lt;li&gt;用这个值去查表 B&lt;/li&gt;
-&lt;li&gt;再查 C 、D……&lt;/li&gt;
-&lt;li&gt;更麻烦的是，这些表往往不在同一个库，没法直接 JOIN&lt;/li&gt;
-&lt;li&gt;只能等上一条 SQL 跑完，把结果里的字段复制出来，填到下一条 SQL 的 WHERE 里&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;一条链路下来，复制粘贴十几次是常态。烦，还容易填错。&lt;/p&gt;
-&lt;p&gt;所以做了 &lt;strong&gt;Workflow&lt;/strong&gt;：用 YAML 把多步查询串起来，上一步的结果可以直接传给下一步，不同步骤还可以连不同的库。查一次，整条链路跑完。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Workflow 编辑器&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/04-workflow.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;跨数据库 Workflow&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/12-workflow-crossdb.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;2. 老板要数据，要报表&lt;/h3&gt;
-&lt;p&gt;做开发的都懂。临时要个数字、要张图，经常就是「帮查一下上周 xxx 」「对比一下这个月和上个月」。每次打开客户端、写 SQL 、导出、贴到 PPT 或飞书里，重复劳动很多。&lt;/p&gt;
-&lt;p&gt;所以做了 &lt;strong&gt;运营看板（ Dashboard ）&lt;/strong&gt;：把常用 SQL 和图表保存下来，定时刷新，多个指标放在一页。老板要看的时候，打开就行，不用每次重新查。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;运营看板&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/21-dashboard.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;这两个功能，都是我自己日常真的会用到的东西。不是看竞品有什么就抄什么。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;做下来的一些体会&lt;/h2&gt;
-&lt;p&gt;一路做下来，也踩了不少坑。&lt;/p&gt;
-&lt;p&gt;很多功能远看很简单，真正做深才发现不容易。SQL 编辑器、Schema 浏览、大结果集性能、不同数据库方言差异……每个点都能耗掉不少时间。AI 相关的能力也做了（自然语言生成 SQL 、错误诊断、EXPLAIN 分析），但对我来说，&lt;strong&gt;Workflow 和 Dashboard 才是最先想解决的&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;以前总觉得自己还算懂产品，至少比纯写后端的同事更关心体验。做着做着才发现，离「优秀的产品经理」还差得远。中间有好几次，差点去做一些「技术上很酷、但日常用不上」的东西。后来慢慢学会问一句：&lt;strong&gt;这个功能，是不是在解决我自己的真实问题？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;产品还是要回到用户的痛点上。对我自己来说，就是上面那两件事。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h2&gt;DataZen 是什么&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;DataZen&lt;/strong&gt; 是一个开源的数据库客户端，Tauri + Rust + React ，macOS / Windows / Linux 都能用。&lt;/p&gt;
-&lt;p&gt;除了 Workflow 和 Dashboard ，还有这些：&lt;/p&gt;
-&lt;h3&gt;日常查库&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;SQL 编辑器、Schema 树、结果集查看&lt;/li&gt;
-&lt;li&gt;支持 PostgreSQL 、MySQL 、SQLite 、Redis 等，更多数据库通过 Driver 扩展&lt;/li&gt;
-&lt;li&gt;SSH 隧道，连接信息本地加密存储&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;查询结果与图表&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/02-query-chart.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;AI 辅助（有，但不是全部）&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;自然语言生成 SQL ，会带当前库的 Schema&lt;/li&gt;
-&lt;li&gt;SQL 报错诊断、EXPLAIN 分析&lt;/li&gt;
-&lt;li&gt;支持 OpenAI 、Anthropic 、DeepSeek 和自定义接口&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;AI 自然语言生成 SQL&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/03-ai-nl2sql.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;AI SQL 错误诊断&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/05-ai-diagnosis.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;AI EXPLAIN 分析&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/06-ai-explain.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;查询结果转图表&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;查完直接看图，折线、柱状、饼图等，可导出 PNG/SVG&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;多种图表类型&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/10-chart-types.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;MCP&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;可以作为 MCP Server ，把数据库能力暴露给 Cursor 等外部工具&lt;/li&gt;
-&lt;li&gt;也可以接外部 MCP Server 到 AI Chat&lt;/li&gt;
-&lt;li&gt;支持无头 stdio 模式&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Driver 插件&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;数据库能力通过 Driver API 扩展，社区可以贡献新数据库支持&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;还有 ER 图、Schema Diff 、数据同步、导出等，文档里都有。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;ER 图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/16-er.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Schema Diff&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/27-schema-diff-en.png&quot;/&gt;&lt;/p&gt;
-&lt;h3&gt;本地优先，开源免费&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;不用注册账号&lt;/li&gt;
-&lt;li&gt;连接和凭据留在本机&lt;/li&gt;
-&lt;li&gt;GPLv3 开源&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;还不完美&lt;/h2&gt;
-&lt;p&gt;说实话，DataZen 离「极致好用」还有距离。&lt;/p&gt;
-&lt;p&gt;很多功能能用，但还不够顺手。交互细节、边界情况、各数据库的打磨，都需要时间，也需要更多人的使用反馈。&lt;/p&gt;
-&lt;p&gt;我一个人做，速度有限。所以开源了——不是因为它已经很好，而是希望有人一起把它做好。&lt;/p&gt;
-&lt;p&gt;如果你也天天和数据库打交道，欢迎：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GitHub 点个 Star： &lt;a href=&quot;https://github.com/flyxl/datazen&quot; rel=&quot;nofollow&quot;&gt;https://github.com/flyxl/datazen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;提 Issue 说 bug 或体验问题&lt;/li&gt;
-&lt;li&gt;讨论功能方向&lt;/li&gt;
-&lt;li&gt;贡献代码、Driver 、文档&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr/&gt;
-&lt;h2&gt;最后&lt;/h2&gt;
-&lt;p&gt;做一个「只为自己」的软件，听起来挺理想，过程其实挺磨人的。会怀疑值不值得做，会在细节上卡住，也会在产品方向上走弯路。&lt;/p&gt;
-&lt;p&gt;但如果有一个你自己每天都会遇到的问题，值得花时间做一个能用的版本出来。先能用，再慢慢改。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;链接&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;项目地址： &lt;a href=&quot;https://github.com/flyxl/datazen&quot; rel=&quot;nofollow&quot;&gt;https://github.com/flyxl/datazen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;下载： &lt;a href=&quot;https://github.com/flyxl/datazen/releases&quot; rel=&quot;nofollow&quot;&gt;https://github.com/flyxl/datazen/releases&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;中文文档： &lt;a href=&quot;https://flyxl.github.io/datazen/zh/manual.html&quot; rel=&quot;nofollow&quot;&gt;https://flyxl.github.io/datazen/zh/manual.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;也想听听大家：&lt;strong&gt;你平时用数据库客户端，最烦的一件事是什么？&lt;/strong&gt; 这个对我比任何功能清单都有用。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>闲鱼手续费分好几笔扣</title>
       <link>https://www.v2ex.com/t/1237999</link>
       <guid>v2ex-1237999</guid>
@@ -132,27 +27,29 @@
       <description>之前交易都没关注过，感觉比例还是挺高的&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/wJtMVoP3.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 wJtMVoP3.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/wJtMVoP3.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
     </item>
     <item>
-      <title>把股票行情放进了 MacBook 刘海里，开发了一个叫 Stock Island 的 mac app</title>
-      <link>https://www.v2ex.com/t/1237988</link>
-      <guid>v2ex-1237988</guid>
-      <pubDate>Fri, 28 Aug 2026 17:08:57 GMT</pubDate>
-      <description>&lt;p&gt;网站是&lt;a href=&quot;https://stock-island.com/&quot; rel=&quot;nofollow&quot;&gt;https://stock-island.com/&lt;/a&gt;
-做这个 App 的原因其实挺简单的。
-我平时工作的时候，偶尔会想快速看一眼自己关注的股票。以前一般是掏出手机看，或者打开同花顺、券商客户端之类的 App 。
-但为了确认一个价格，专门拿出手机有点打断工作。电脑上的券商客户端功能又比较重，打开后整个界面都是行情和交易内容，旁边的同事一眼就能看出来你正在关注股票。
-所以我当时想，能不能做一个存在感低一点的行情工具：平时不用打开完整窗口，需要的时候只看一眼，看完继续工作。
-一开始也考虑过放在菜单栏里，不过我的菜单栏本身已经有很多图标了。东西一多，不仅显得拥挤，每次还要找到图标再点开，感觉并没有方便多少。
-看到了 vibeisland.app 这个项目后，给了我灵感。哈哈哈哈～～
-目前上架了海外地区，国内需要备案，太麻烦了，暂时没准备上架。
-感兴趣的朋友可以给我留言，可以给 App 促销代码&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>所有程序员都用 AI 的话，那以后怎么判断能力的高低？</title>
       <link>https://www.v2ex.com/t/1238034</link>
       <guid>v2ex-1238034</guid>
       <pubDate>Sat, 29 Aug 2026 07:13:28 GMT</pubDate>
       <description>面试的时候还会问八股文吗？是不是更看重学历背景了？性格好，擅于言辞的人是不是更容易面试成功？</description>
+    </item>
+    <item>
+      <title>免费，开源， V2EX Android 客户端首个正式版本， Kotlin + Jetpack Compose 构建。</title>
+      <link>https://www.v2ex.com/t/1238073</link>
+      <guid>v2ex-1238073</guid>
+      <pubDate>Sat, 29 Aug 2026 12:54:37 GMT</pubDate>
+      <description>&lt;p&gt;在被苹果审核教育一番之后以及 V 友的邀请之下做了安卓版本&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Kotlin + Jetpack Compose 全原生构建&lt;/li&gt;
+&lt;li&gt;凭据加密存储（ Android Keystore + EncryptedSharedPreferences ）&lt;/li&gt;
+&lt;li&gt;支持折叠屏，内外屏无缝切换&lt;/li&gt;
+&lt;li&gt;站内完成全部互动 —— 回复、发帖、收藏，@ 补全、通知直达&lt;/li&gt;
+&lt;li&gt;分享为卡片 —— 一键生成带二维码的话题图片卡&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;GitHub：&lt;a href=&quot;https://github.com/xinghelee/v2ex-android&quot; rel=&quot;nofollow&quot;&gt;https://github.com/xinghelee/v2ex-android&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/Ouuht1Um.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;GitHub：&lt;a href=&quot;https://github.com/xinghelee/v2ex-android&quot; rel=&quot;nofollow&quot;&gt;https://github.com/xinghelee/v2ex-android&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>做一个 iOS 27 风格的 V2EX 客户端 - 关于这个应用的上架说明以及三轮审核情况</title>
@@ -180,6 +77,18 @@
 &lt;p&gt;之前一直用 claude code ，但是集团排查禁止使用了，只能寻找国内平替，目前看了 qoder cli 和 codebuddy cli ，感觉两者都没有太明显的优劣势。有用过的同学说说体验么？&lt;/p&gt;
 &lt;p&gt;ps：公司不给 codeplan ，但是给了些 ds 的额度，所以只能选择接 ds 进行使用。主要考虑 Java 软件开发方向。
 平时用的 IDEA 比较多，目前不太想直接从 IDEA 转到他们的 IDE 版，所以还是优先考虑 CLI 版本&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>阿里云代理这么便宜？</title>
+      <link>https://www.v2ex.com/t/1238012</link>
+      <guid>v2ex-1238012</guid>
+      <pubDate>Sat, 29 Aug 2026 03:07:38 GMT</pubDate>
+      <description>&lt;p&gt;今天公司想新采购一些数据库和服务器。于是去找了各个代理或者阿里云售前。&lt;/p&gt;
+&lt;p&gt;其中一个报价大概在 7-8 折， 但是另外一个报价惊呆我了&lt;/p&gt;
+&lt;p&gt;只有 2 折多一点&lt;/p&gt;
+&lt;p&gt;不过说的是必须先关联他们的企业，后期交易自行在后台操作，不再经过他们&lt;/p&gt;
+&lt;p&gt;想问下这种异常低的价格，然后又说在阿里云官方后台操作的 ，有什么坑么？ （当然大概率不会选择这个，因为便宜的不太正常）&lt;/p&gt;
 </description>
     </item>
   </channel>
