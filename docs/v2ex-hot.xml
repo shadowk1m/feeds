@@ -4,22 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 29 Aug 2026 04:12:47 GMT</lastBuildDate>
-    <item>
-      <title>码农匹配不上白月光吗</title>
-      <link>https://www.v2ex.com/t/1237845</link>
-      <guid>v2ex-1237845</guid>
-      <pubDate>Fri, 28 Aug 2026 05:06:20 GMT</pubDate>
-      <description>码农里面有不少大佬搞钱是非常厉害的，似乎总缺少一种匹配白月光的气质&lt;br /&gt;&lt;br /&gt;很多体育、娱乐明星论财富数量应该赶不上一些码农，但是有一些码农缺少的吸引白月光的气质&lt;br /&gt;&lt;br /&gt;最后都弄得两败俱伤&lt;br /&gt;&lt;br /&gt;别的圈子里面闹掰大部分能体面，像李某某、孙某某这搞的不体面啊&lt;br /&gt;&lt;br /&gt;没有大佬那么多金，小码农深深的忧伤了</description>
-    </item>
-    <item>
-      <title>你们怎么念的？ code~x 还是 co~dex</title>
-      <link>https://www.v2ex.com/t/1237866</link>
-      <guid>v2ex-1237866</guid>
-      <pubDate>Fri, 28 Aug 2026 06:31:04 GMT</pubDate>
-      <description>&lt;p&gt;刚刚听到别人念 co~dex ，差点没反应过来🫪 正确读音是啥&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 11:13:40 GMT</lastBuildDate>
     <item>
       <title>[吉吉 ] 纯血 Pro 倍率 0.16 缓存近 90%，首字 1S 起，自用实时监测无降智，回复送测试鸡蛋。</title>
       <link>https://www.v2ex.com/t/1237979</link>
@@ -36,71 +21,154 @@
 </description>
     </item>
     <item>
-      <title>买个 B200 或 B300，部署 Deepseek-V4 等开源模型，然后卖服务给大厂，有得赚吗。</title>
-      <link>https://www.v2ex.com/t/1237864</link>
-      <guid>v2ex-1237864</guid>
-      <pubDate>Fri, 28 Aug 2026 06:17:59 GMT</pubDate>
-      <description>&lt;p&gt;当然个人基本没戏，我说的是企业去做。&lt;/p&gt;
-&lt;p&gt;基于以下事实：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;当前环境下，英伟达高端显卡不允许进入国内市场，受政策影响，腾讯、华为、深度求索这些大厂，即使有渠道购买大概率也不能明目张胆使用。&lt;/li&gt;
-&lt;li&gt;算力需求，字节、腾讯、华为、阿里、深度求索等都有自己的模型市场，算力需求极大，但国产 GPU 性能、稳定性和运维性价比上，明显不占优势。&lt;/li&gt;
-&lt;li&gt;小公司受政策影响较小，使用英伟达高端显卡基本不会有啥问题。&lt;/li&gt;
-&lt;li&gt;模型搭建技术要求低，除了硬件投入，软件和运维成本不高。而且对外只需提供一个调用接口即可，只需要保证接口稳定性和成功率即可。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;基于上面的情况，中小企业能否花几百万自己找渠道买 B200 或 B300 ，然后自己搭建 Deepseek 模型，通过接口租赁给大厂，为了网络稳定可以找机房托管。
-然后对接大厂，签合同卖服务使用权或卖 token 。&lt;/p&gt;
-&lt;p&gt;有没有大佬分析下，这种方案，多久能回本，这个玩法是否可行？&lt;/p&gt;
-</description>
+      <title>没交物业费，物业起诉我之后还没开庭，法院直接冻结我的定期存款了，合法吗？</title>
+      <link>https://www.v2ex.com/t/1238000</link>
+      <guid>v2ex-1238000</guid>
+      <pubDate>Sat, 29 Aug 2026 01:38:21 GMT</pubDate>
+      <description>v 友们，我在湖北的一个小县城买了一套房子，一直没住，所以我也没交物业费，然后物业起诉我了，九月十号开庭，但是还没开庭，我有一笔定期存在银行里，然后法院直接给我冻结了，这合法吗？没有任何通知我，直接冻结我的钱，关键是还没开庭呢。</description>
     </item>
     <item>
-      <title>一个人周末有哪些消遣娱乐活动</title>
-      <link>https://www.v2ex.com/t/1237914</link>
-      <guid>v2ex-1237914</guid>
-      <pubDate>Fri, 28 Aug 2026 08:34:52 GMT</pubDate>
-      <description>除了做饭吃饭不想一个人呆在家。&lt;br /&gt;胡子刮破了没办法去游泳，之前在外面打王者现在也已经卸载。</description>
-    </item>
-    <item>
-      <title>实在顶不住了,准备去香港买个 rtx 4090/24G 显卡</title>
-      <link>https://www.v2ex.com/t/1237843</link>
-      <guid>v2ex-1237843</guid>
-      <pubDate>Fri, 28 Aug 2026 04:54:21 GMT</pubDate>
-      <description>各位有什么建议吗? 香港哪里比较好点?</description>
-    </item>
-    <item>
-      <title>想看看各位使用 Pi 的姿势</title>
-      <link>https://www.v2ex.com/t/1237896</link>
-      <guid>v2ex-1237896</guid>
-      <pubDate>Fri, 28 Aug 2026 07:32:04 GMT</pubDate>
-      <description>刚从 codex 转到 Pi ，感觉非常好&lt;br /&gt;迅速、精准、简洁、可控&lt;br /&gt;&lt;br /&gt;目前只加了 Ponytail 、web-access 和 multi-skills 几个插件&lt;br /&gt;&lt;br /&gt;不过之前一直用 ChatGPT 的客户端，用惯了 GUI&lt;br /&gt;这一下切到 TUI ，还是有些许不习惯&lt;br /&gt;特别是输入，现在基本上一言不合就 Ctrl+G 开 VS Code 来编辑&lt;br /&gt;&lt;br /&gt;试用了一下 @&lt;a target=&quot;_blank&quot; href=&quot;/member/agegr&quot; rel=&quot;nofollow noopener&quot;&gt;agegr&lt;/a&gt;/pi-web ，完成度还偏低&lt;br /&gt;&lt;br /&gt;向看看各位使用 Pi 的姿势&lt;br /&gt;不管是 TUI 改善还是好用的 GUI&lt;br /&gt;或者各类插件推荐&lt;br /&gt;&lt;br /&gt;请狠狠砸向我，谢谢</description>
-    </item>
-    <item>
-      <title>VibeCoding 金山打字通的《生死时速》这款打字小游戏</title>
-      <link>https://www.v2ex.com/t/1237842</link>
-      <guid>v2ex-1237842</guid>
-      <pubDate>Fri, 28 Aug 2026 04:52:14 GMT</pubDate>
-      <description>&lt;p&gt;突然想玩下小学的时候电脑课玩过的金山打字通的一款叫《生死时速》的警察抓小偷的一款小游戏，打字越快，跑得越快的游戏，找了一圈发现好像只有 win 系统才有，也没有在线版本，直接用 Codex 来 Vibecoding 一个版本出来，目前只有一个单机版本，有人玩的话可以考虑做成联机版本，在线 PK 版本😁&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;角色、载具和文章选择&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/CH0918/typing-game/main/docs/screenshots/setup.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;游戏画面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/CH0918/typing-game/main/docs/screenshots/gameplay.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;结算与段位&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/CH0918/typing-game/main/docs/screenshots/result.png&quot;/&gt;&lt;/p&gt;
+      <title>公司不让装 Navicat 了，就自己写了一个数据库客户端</title>
+      <link>https://www.v2ex.com/t/1237986</link>
+      <guid>v2ex-1237986</guid>
+      <pubDate>Fri, 28 Aug 2026 15:55:19 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;DataZen 主界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/01-main-window.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;写代码十几年了。之前也给孩子们做过几个 Android 小应用，背单词、练口算那种，他们用得还行。&lt;/p&gt;
+&lt;p&gt;但那些说到底还是「给别人用」。&lt;strong&gt;DataZen 是我第一次想只为自己做一个软件。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;起因很现实：公司合规不让装 Navicat 了。DBeaver 能用，但日常用起来总觉得差点意思。正好赶上 vibe coding 这股风，心想不如自己试一把，看能不能做出一个&lt;strong&gt;真正工业级、能天天拿来干活&lt;/strong&gt;的数据库客户端。&lt;/p&gt;
+&lt;p&gt;不是玩票，也不是 demo 。就是给自己用。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;两个具体痛点&lt;/h2&gt;
+&lt;h3&gt;1. 查线上问题，经常要串好几张表，还跨库&lt;/h3&gt;
+&lt;p&gt;处理投诉、排查线上问题，流程大概是这样：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;在线试玩：&lt;a href=&quot;https://typingchase.com&quot; rel=&quot;nofollow&quot;&gt;https://typingchase.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub 仓库：&lt;a href=&quot;https://github.com/CH0918/typing-game&quot; rel=&quot;nofollow&quot;&gt;https://github.com/CH0918/typing-game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;先查表 A ，拿到某个 ID 或状态&lt;/li&gt;
+&lt;li&gt;用这个值去查表 B&lt;/li&gt;
+&lt;li&gt;再查 C 、D……&lt;/li&gt;
+&lt;li&gt;更麻烦的是，这些表往往不在同一个库，没法直接 JOIN&lt;/li&gt;
+&lt;li&gt;只能等上一条 SQL 跑完，把结果里的字段复制出来，填到下一条 SQL 的 WHERE 里&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;一条链路下来，复制粘贴十几次是常态。烦，还容易填错。&lt;/p&gt;
+&lt;p&gt;所以做了 &lt;strong&gt;Workflow&lt;/strong&gt;：用 YAML 把多步查询串起来，上一步的结果可以直接传给下一步，不同步骤还可以连不同的库。查一次，整条链路跑完。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Workflow 编辑器&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/04-workflow.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;跨数据库 Workflow&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/12-workflow-crossdb.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;2. 老板要数据，要报表&lt;/h3&gt;
+&lt;p&gt;做开发的都懂。临时要个数字、要张图，经常就是「帮查一下上周 xxx 」「对比一下这个月和上个月」。每次打开客户端、写 SQL 、导出、贴到 PPT 或飞书里，重复劳动很多。&lt;/p&gt;
+&lt;p&gt;所以做了 &lt;strong&gt;运营看板（ Dashboard ）&lt;/strong&gt;：把常用 SQL 和图表保存下来，定时刷新，多个指标放在一页。老板要看的时候，打开就行，不用每次重新查。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;运营看板&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/21-dashboard.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;这两个功能，都是我自己日常真的会用到的东西。不是看竞品有什么就抄什么。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;做下来的一些体会&lt;/h2&gt;
+&lt;p&gt;一路做下来，也踩了不少坑。&lt;/p&gt;
+&lt;p&gt;很多功能远看很简单，真正做深才发现不容易。SQL 编辑器、Schema 浏览、大结果集性能、不同数据库方言差异……每个点都能耗掉不少时间。AI 相关的能力也做了（自然语言生成 SQL 、错误诊断、EXPLAIN 分析），但对我来说，&lt;strong&gt;Workflow 和 Dashboard 才是最先想解决的&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;以前总觉得自己还算懂产品，至少比纯写后端的同事更关心体验。做着做着才发现，离「优秀的产品经理」还差得远。中间有好几次，差点去做一些「技术上很酷、但日常用不上」的东西。后来慢慢学会问一句：&lt;strong&gt;这个功能，是不是在解决我自己的真实问题？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;产品还是要回到用户的痛点上。对我自己来说，就是上面那两件事。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2&gt;DataZen 是什么&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;DataZen&lt;/strong&gt; 是一个开源的数据库客户端，Tauri + Rust + React ，macOS / Windows / Linux 都能用。&lt;/p&gt;
+&lt;p&gt;除了 Workflow 和 Dashboard ，还有这些：&lt;/p&gt;
+&lt;h3&gt;日常查库&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL 编辑器、Schema 树、结果集查看&lt;/li&gt;
+&lt;li&gt;支持 PostgreSQL 、MySQL 、SQLite 、Redis 等，更多数据库通过 Driver 扩展&lt;/li&gt;
+&lt;li&gt;SSH 隧道，连接信息本地加密存储&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;查询结果与图表&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/02-query-chart.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;AI 辅助（有，但不是全部）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;自然语言生成 SQL ，会带当前库的 Schema&lt;/li&gt;
+&lt;li&gt;SQL 报错诊断、EXPLAIN 分析&lt;/li&gt;
+&lt;li&gt;支持 OpenAI 、Anthropic 、DeepSeek 和自定义接口&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;AI 自然语言生成 SQL&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/03-ai-nl2sql.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;AI SQL 错误诊断&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/05-ai-diagnosis.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;AI EXPLAIN 分析&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/06-ai-explain.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;查询结果转图表&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;查完直接看图，折线、柱状、饼图等，可导出 PNG/SVG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;多种图表类型&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/10-chart-types.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;MCP&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;可以作为 MCP Server ，把数据库能力暴露给 Cursor 等外部工具&lt;/li&gt;
+&lt;li&gt;也可以接外部 MCP Server 到 AI Chat&lt;/li&gt;
+&lt;li&gt;支持无头 stdio 模式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Driver 插件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;数据库能力通过 Driver API 扩展，社区可以贡献新数据库支持&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;还有 ER 图、Schema Diff 、数据同步、导出等，文档里都有。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;ER 图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/16-er.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Schema Diff&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://flyxl.github.io/datazen/assets/screenshots/27-schema-diff-en.png&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;本地优先，开源免费&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;不用注册账号&lt;/li&gt;
+&lt;li&gt;连接和凭据留在本机&lt;/li&gt;
+&lt;li&gt;GPLv3 开源&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;还不完美&lt;/h2&gt;
+&lt;p&gt;说实话，DataZen 离「极致好用」还有距离。&lt;/p&gt;
+&lt;p&gt;很多功能能用，但还不够顺手。交互细节、边界情况、各数据库的打磨，都需要时间，也需要更多人的使用反馈。&lt;/p&gt;
+&lt;p&gt;我一个人做，速度有限。所以开源了——不是因为它已经很好，而是希望有人一起把它做好。&lt;/p&gt;
+&lt;p&gt;如果你也天天和数据库打交道，欢迎：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub 点个 Star： &lt;a href=&quot;https://github.com/flyxl/datazen&quot; rel=&quot;nofollow&quot;&gt;https://github.com/flyxl/datazen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;提 Issue 说 bug 或体验问题&lt;/li&gt;
+&lt;li&gt;讨论功能方向&lt;/li&gt;
+&lt;li&gt;贡献代码、Driver 、文档&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;最后&lt;/h2&gt;
+&lt;p&gt;做一个「只为自己」的软件，听起来挺理想，过程其实挺磨人的。会怀疑值不值得做，会在细节上卡住，也会在产品方向上走弯路。&lt;/p&gt;
+&lt;p&gt;但如果有一个你自己每天都会遇到的问题，值得花时间做一个能用的版本出来。先能用，再慢慢改。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;链接&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;项目地址： &lt;a href=&quot;https://github.com/flyxl/datazen&quot; rel=&quot;nofollow&quot;&gt;https://github.com/flyxl/datazen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;下载： &lt;a href=&quot;https://github.com/flyxl/datazen/releases&quot; rel=&quot;nofollow&quot;&gt;https://github.com/flyxl/datazen/releases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;中文文档： &lt;a href=&quot;https://flyxl.github.io/datazen/zh/manual.html&quot; rel=&quot;nofollow&quot;&gt;https://flyxl.github.io/datazen/zh/manual.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;也想听听大家：&lt;strong&gt;你平时用数据库客户端，最烦的一件事是什么？&lt;/strong&gt; 这个对我比任何功能清单都有用。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>微信购物退款难：净重 9 斤芒果到货连包装仅 7.5 斤，商家和平台客服均不处理</title>
-      <link>https://www.v2ex.com/t/1237904</link>
-      <guid>v2ex-1237904</guid>
-      <pubDate>Fri, 28 Aug 2026 07:51:37 GMT</pubDate>
-      <description>&lt;p&gt;结论：大家尽量避免在微信小店买东西。&lt;/p&gt;
-&lt;p&gt;商家和平台都不处理。平台多次主动关闭退款单（提供了实际到货重量照片）。&lt;/p&gt;
-&lt;p&gt;微信视频号，刷到直播卖芒果，看着不错下了一单。
-商品：净重 9 斤 [主播推荐] 。
-到货后打开包装，一共 3 个芒果，感觉不对，带着包装一起放称，共计：7.5 斤（带包装）。&lt;/p&gt;
-&lt;p&gt;发现问题后，我申请了退货退款，并提供了包裹称重等相关证据。但是退款申请被商家和平台多次关闭。&lt;/p&gt;
-&lt;p&gt;金额不大 15.9 元，但是太气人。&lt;/p&gt;
+      <title>闲鱼手续费分好几笔扣</title>
+      <link>https://www.v2ex.com/t/1237999</link>
+      <guid>v2ex-1237999</guid>
+      <pubDate>Sat, 29 Aug 2026 01:37:28 GMT</pubDate>
+      <description>之前交易都没关注过，感觉比例还是挺高的&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;/i/wJtMVoP3.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;在新窗口打开图片 wJtMVoP3.jpeg&quot;&gt;&lt;img src=&quot;//i.v2ex.co/wJtMVoP3.jpeg&quot; class=&quot;embedded_image&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>还真有人信孙割说的话？</title>
+      <link>https://www.v2ex.com/t/1238019</link>
+      <guid>v2ex-1238019</guid>
+      <pubDate>Sat, 29 Aug 2026 04:14:08 GMT</pubDate>
+      <description>孙割是顶级掠食者，他说的每句话做的每件事前，都是计算好了成本和收益的。&lt;br /&gt;孙割说的每一千个字，最多只有 2 个字是真的.&lt;br /&gt;这次小作文，唯一能证实的就是：&lt;br /&gt;孙割花钱 P 了景田几次。&lt;br /&gt;什么白月光/老照片这些话你真的能信孙割？&lt;br /&gt;现在的孙割，要的是话题是流量，几千万对他来说就是炒作成本。&lt;br /&gt;孙割要的是：&lt;br /&gt;巨大的话题流量继续红+再拉一波盘割一次+感受到川普家族对他的威胁需要热度保命+给自己立一个痴情种人设+等着傻子们帮他冲+最好几千万还能要回来白嫖&lt;br /&gt;你看，再割一波+热度保命 才是最重要的，白嫖都是排最后的。顶级掠食者是我全都要。&lt;br /&gt;能将人性随意玩弄操控的，上一个集大成者还是 PDD 黄峥吧。&lt;br /&gt;一个是随意全球收割韭菜，一个是靠拿捏人性扭转中国电商生态格局。</description>
+    </item>
+    <item>
+      <title>职场新人处理同事关系请教</title>
+      <link>https://www.v2ex.com/t/1237966</link>
+      <guid>v2ex-1237966</guid>
+      <pubDate>Fri, 28 Aug 2026 13:15:48 GMT</pubDate>
+      <description>&lt;p&gt;校招入职一段时间，最近发现一个同事 A 经常不回消息，甚至不读。他也是今年的校招生，但来公司的时间比我早半年，因为工作需要有时候要跟他核对一些问题，但每次发送过去消息他都长时间不读，有时候甚至好几天消息还是显示未读的状态，应该是跟微信一样不用点开聊天框就能看到部分消息，然后他就不点开读，也不回复。不是一次两次这样了，纯纯恶心人，但有时候还要跟他一起干活，不得不打交道，但确实又很恶心人。另外，我们组第三个校招生都入职三四个月了，A 甚至不知道他叫啥，但我观察他跟我们组长还挺熟，甚至是有些谄媚，有一次跟组长聊天组长还夸他情商高，所以他也并不是一个内向的人。但因为工作需要，又不得不跟他沟通，真不知道该怎么跟这种人相处，之前从来没遇到过类似的人。我之前对他无感，既没有想要深入交往的想法，也没有想要很敌对，只想能对接好工作。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>搞不懂迅雷的逻辑，为啥超级会员本地取回还不给跑满带宽？</title>
+      <link>https://www.v2ex.com/t/1237951</link>
+      <guid>v2ex-1237951</guid>
+      <pubDate>Fri, 28 Aug 2026 12:11:00 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/P7K51Ww.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/P7K51Ww.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; 带宽 300mbps ，只跑了 1/3 ，我记得以前云盘取回可以满速的</description>
+    </item>
+    <item>
+      <title>今天 Win11 更新 KB5120998 会引起鼠标指针变大和壁纸变黑</title>
+      <link>https://www.v2ex.com/t/1237975</link>
+      <guid>v2ex-1237975</guid>
+      <pubDate>Fri, 28 Aug 2026 14:00:42 GMT</pubDate>
+      <description>&lt;p&gt;不知道有没有碰到的。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Arcadeq/windows-cursor-scheme-fix&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Arcadeq/windows-cursor-scheme-fix&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;暂时可以用这个脚本修复或者直接卸载 KB5120998 更新&lt;/p&gt;
 </description>
     </item>
   </channel>
