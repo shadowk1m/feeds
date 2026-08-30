@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 30 Aug 2026 17:49:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:14:57 GMT</lastBuildDate>
     <item>
       <title>丈母娘医院手术出院半月后从体内取出一块纱布该如何维权</title>
       <link>https://www.v2ex.com/t/1238162</link>
@@ -51,14 +51,6 @@
 </description>
     </item>
     <item>
-      <title>我的网站被入侵了，损失了几千块</title>
-      <link>https://www.v2ex.com/t/1238129</link>
-      <guid>v2ex-1238129</guid>
-      <pubDate>Sun, 30 Aug 2026 03:29:35 GMT</pubDate>
-      <description>&lt;p&gt;经过排查，攻击者通过管理员的 apikey 通过接口更改了余额然后进行提现。比起损失，我更想知道 apikey 怎么被泄露的，但是我永远也不会知道了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>iPhone 上用 Gmail 还是邮件 App</title>
       <link>https://www.v2ex.com/t/1238151</link>
       <guid>v2ex-1238151</guid>
@@ -67,11 +59,12 @@
 </description>
     </item>
     <item>
-      <title>北京如果想中午吃饭健康又好吃</title>
-      <link>https://www.v2ex.com/t/1238108</link>
-      <guid>v2ex-1238108</guid>
-      <pubDate>Sat, 29 Aug 2026 18:39:23 GMT</pubDate>
-      <description>普通家常菜，排除自己动手&lt;br /&gt;各位有什么推荐&lt;br /&gt;其实很难，绝大部分是油 咸 辣 ，健康这一条就否决。 再要好吃，也很难。&lt;br /&gt;天天吃餐馆肯定不行，外卖也不行，学校食堂绝大部分也很差。&lt;br /&gt;想听听大家的推荐</description>
+      <title>我的网站被入侵了，损失了几千块</title>
+      <link>https://www.v2ex.com/t/1238129</link>
+      <guid>v2ex-1238129</guid>
+      <pubDate>Sun, 30 Aug 2026 03:29:35 GMT</pubDate>
+      <description>&lt;p&gt;经过排查，攻击者通过管理员的 apikey 通过接口更改了余额然后进行提现。比起损失，我更想知道 apikey 怎么被泄露的，但是我永远也不会知道了。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>求 100 USD AI 订阅推荐， grok 还是 gemini？</title>
@@ -97,6 +90,19 @@
       <guid>v2ex-1238113</guid>
       <pubDate>Sun, 30 Aug 2026 00:56:27 GMT</pubDate>
       <description>自己离职创业折腾快一年了，目前以做外包软件开发为生&lt;br /&gt;&lt;br /&gt;目前打算深耕聚焦垂直领域 - 工业软件，比如工业智能体、智能排产、工艺优化等&lt;br /&gt;&lt;br /&gt;也清楚熟悉业务很重要，不同工业行业 - 离散型、流程型 都有区别&lt;br /&gt;&lt;br /&gt;现在国家不断放出支持 工业 AI 、工业软件+ 等概念的发展&lt;br /&gt;&lt;br /&gt;所以建个群，行业内的技术、产品、市场、创业者都可以相互探讨一下&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg&quot; rel=&quot;nofollow noopener&quot;&gt;https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>SceneMint Pro - 做了个 AI 出图网站，便宜大碗！</title>
+      <link>https://www.v2ex.com/t/1238126</link>
+      <guid>v2ex-1238126</guid>
+      <pubDate>Sun, 30 Aug 2026 03:11:51 GMT</pubDate>
+      <description>&lt;p&gt;支持文生图和参考图修改，使用的模型是 gpt-image-2 效果还是不错的&lt;/p&gt;
+&lt;p&gt;现在注册送 10 次生成额度，原图会保留 7 天，然后会压缩归档&lt;br/&gt;
+还在持续优化，后面会加入提示词库，多参考图等，欢迎体验 &lt;/p&gt;
+&lt;p&gt;地址：&lt;a href=&quot;https://images.sunls.de/&quot; rel=&quot;nofollow&quot;&gt;images.sunls.de&lt;/a&gt;&lt;br/&gt;
+备用 (CF)：&lt;a href=&quot;https://image.sunls.de/&quot; rel=&quot;nofollow&quot;&gt;image.sunls.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;评论区回复注册邮箱会再送 50 次生成额度，看到会处理&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
