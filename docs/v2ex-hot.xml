@@ -4,15 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 30 Aug 2026 13:51:58 GMT</lastBuildDate>
-    <item>
-      <title>AI 时代，软件已经不值钱了</title>
-      <link>https://www.v2ex.com/t/1238096</link>
-      <guid>v2ex-1238096</guid>
-      <pubDate>Sat, 29 Aug 2026 15:53:44 GMT</pubDate>
-      <description>&lt;p&gt;纯软件很难建立起优势了，包括个人和企业&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 17:49:45 GMT</lastBuildDate>
     <item>
       <title>丈母娘医院手术出院半月后从体内取出一块纱布该如何维权</title>
       <link>https://www.v2ex.com/t/1238162</link>
@@ -29,6 +21,36 @@
 </description>
     </item>
     <item>
+      <title>记一次 GLM 开发严重事故，花了 8 亿 token，买了个教训</title>
+      <link>https://www.v2ex.com/t/1238217</link>
+      <guid>v2ex-1238217</guid>
+      <pubDate>Sun, 30 Aug 2026 13:04:36 GMT</pubDate>
+      <description>&lt;p&gt;本周末使用 Codex + Trellis + Zcode 新开了一个项目，Codex 负责 brainstorm + prd ，Trellis 负责 Agent 之间的开发衔接，Zcode 负责实际的实现，加上本周末智谱送的 3 亿 token 以及 token plan pro 的额度，感觉本来没啥问题，昨天跑了一天十分的顺，glm5.3 flash 也是比较快，代码也都用 git 管理，只是没有上传到 github 。&lt;/p&gt;
+&lt;p&gt;结果刚才突然爆出严重事故，它把我的整个上上级文件夹给直接删了，天天号称安全的模型能犯这么低级的错误，丢失的东西也没有用 time machine 备份，恢复不了了，&lt;strong&gt;损失惨重&lt;/strong&gt;，8 个亿的 token 买了个教训。&lt;/p&gt;
+&lt;p&gt;希望大家引以为戒吧，&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;谨慎使用完全访问，可以使用个有 codex “帮我批准”这种功能的 harness;&lt;/li&gt;
+&lt;li&gt;开发目录最好干净一点，不要和别的放在一起，删了也不心疼，不过它要是删/，也没啥屌办法；&lt;/li&gt;
+&lt;li&gt;还是每次都 push 吧；&lt;/li&gt;
+&lt;li&gt;国产模型的跑分谨慎看待吧，感觉这一波蒸馏+后训练把跑分都搞起来了，实际还是坑很多。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;紧急事故报告：工作区被误删，Phase 14 工作暂停
+发生了什么
+在实施 Phase 14.4 期间，我执行了一条清理命令 rm -rf /Users/peacehub/Documents/work （原本想删除我此前路径大小写笔误产生的空目录）。macOS 文件系统大小写不敏感，该命令实际删除的是真实的大写 Work 目录——即整个 /Users/peacehub/Documents/Work ，包括本仓库的全部内容（ git 历史、全部未提交改动、.trellis 任务记录、supabase 迁移、文档）。
+
+这是我的严重失误，我为此道歉。我已立即停止了进一步操作并完成了一轮只读排查。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a href=&quot;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKMxqlCNzSjoY0ybF0Xaw07bpsURFpwACICgAAljgoVQbDMxroF32Sz0E.png&quot; rel=&quot;nofollow&quot;&gt;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKMxqlCNzSjoY0ybF0Xaw07bpsURFpwACICgAAljgoVQbDMxroF32Sz0E.png&lt;/a&gt;
+&lt;a href=&quot;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKNFqlCQutBWPzZjiGwINqFcUdRal5AACJSgAAljgoVSResGIQj9aPj0E.png&quot; rel=&quot;nofollow&quot;&gt;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKNFqlCQutBWPzZjiGwINqFcUdRal5AACJSgAAljgoVSResGIQj9aPj0E.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;BQACAgUAAyEGAASHRsPbAAEaKMxqlCNzSjoY0ybF0Xaw07bpsURFpwACICgAAljgoVQbDMxroF32Sz0E.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKMxqlCNzSjoY0ybF0Xaw07bpsURFpwACICgAAljgoVQbDMxroF32Sz0E.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;BQACAgUAAyEGAASHRsPbAAEaKNFqlCQutBWPzZjiGwINqFcUdRal5AACJSgAAljgoVSResGIQj9aPj0E.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKNFqlCQutBWPzZjiGwINqFcUdRal5AACJSgAAljgoVSResGIQj9aPj0E.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;PixPin_2026-08-30_20-27-23.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://picui.ogmua.cn/s1/2026/08/30/6a942862c8707.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;PixPin_2026-08-30_20-26-58.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://picui.ogmua.cn/s1/2026/08/30/6a942862dda92.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;b8f2ff6fa1b820f3edf2c2a4d7083eca.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.mji.rip/2026/08/30/b8f2ff6fa1b820f3edf2c2a4d7083eca.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;b53965f288d0415f7f4d94bc56f65934.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.mji.rip/2026/08/30/b53965f288d0415f7f4d94bc56f65934.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>我的网站被入侵了，损失了几千块</title>
       <link>https://www.v2ex.com/t/1238129</link>
       <guid>v2ex-1238129</guid>
@@ -37,51 +59,19 @@
 </description>
     </item>
     <item>
+      <title>iPhone 上用 Gmail 还是邮件 App</title>
+      <link>https://www.v2ex.com/t/1238151</link>
+      <guid>v2ex-1238151</guid>
+      <pubDate>Sun, 30 Aug 2026 05:42:23 GMT</pubDate>
+      <description>&lt;p&gt;大家 iPHone 上用的是苹果自己的“邮件”还是谷歌的 Gmail App 呢？还是直接用浏览器登陆呢&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>北京如果想中午吃饭健康又好吃</title>
       <link>https://www.v2ex.com/t/1238108</link>
       <guid>v2ex-1238108</guid>
       <pubDate>Sat, 29 Aug 2026 18:39:23 GMT</pubDate>
       <description>普通家常菜，排除自己动手&lt;br /&gt;各位有什么推荐&lt;br /&gt;其实很难，绝大部分是油 咸 辣 ，健康这一条就否决。 再要好吃，也很难。&lt;br /&gt;天天吃餐馆肯定不行，外卖也不行，学校食堂绝大部分也很差。&lt;br /&gt;想听听大家的推荐</description>
-    </item>
-    <item>
-      <title>独立做了一个 Mac 语音输入工具，终于有了第一个付费用户，却高兴不起来了</title>
-      <link>https://www.v2ex.com/t/1238099</link>
-      <guid>v2ex-1238099</guid>
-      <pubDate>Sat, 29 Aug 2026 16:38:24 GMT</pubDate>
-      <description>&lt;p&gt;先自报家门，我做了一个 Mac AI 语音输入工具，叫 Openbroca ，官网是 &lt;a href=&quot;http://openbroca.com&quot; rel=&quot;nofollow&quot;&gt;openbroca.com&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;今天终于收到了第一个真实付费用户。&lt;/p&gt;
-&lt;p&gt;我原本以为自己会很开心，可能会截图纪念，或者找朋友喝一杯。真正看到订单的时候，我只是盯着后台确认了几遍，然后长出了一口气。&lt;/p&gt;
-&lt;p&gt;第一笔收入当然值得记录，可我心里更多的感觉是累。&lt;/p&gt;
-&lt;p&gt;Openbroca 最早来源于我自己的需求。我在 Mac 上写邮件、文档和长消息时，经常觉得思考速度比打字快很多。普通语音输入又会保留大量停顿、重复和口头语，最后还要重新修改一遍。&lt;/p&gt;
-&lt;p&gt;所以我做了 Openbroca 。&lt;/p&gt;
-&lt;p&gt;按下快捷键直接说话，它会把自然口述整理成清晰文字，再写入当前光标所在的位置。它还有屏幕上下文、个人词典和边说边翻译。一路做下来，原生 Swift 客户端、云端语音识别、文字整理、用户系统、支付、配额、官网、SEO 、数据分析，几乎每一块都比预想中更耗时间。&lt;/p&gt;
-&lt;p&gt;写代码反而是其中比较确定的一部分。最折磨人的，是产品做出来以后没有人知道，也很难判断大家到底愿不愿意付费。&lt;/p&gt;
-&lt;p&gt;在国内推广独立效率工具真的很难。&lt;/p&gt;
-&lt;p&gt;前有微信输入法，后有豆包输入法。Typeless 把 AI 语音输入这个方向验证出来以后，越来越多大厂开始快速跟进。类似产品会越来越多，渠道、品牌、模型资源和免费策略都很难正面竞争。&lt;/p&gt;
-&lt;p&gt;Openbroca 来源于我自己的真实需求，与追逐风口无关。可当大厂进入同一个方向以后，一个独立产品想获得流量、建立信任、说服用户付费，每一步都很重。&lt;/p&gt;
-&lt;p&gt;第一个付费用户至少证明了一件事，这个需求真实存在，也确实有人愿意为它付钱。&lt;/p&gt;
-&lt;p&gt;可我一点也高兴不起来。&lt;/p&gt;
-&lt;p&gt;因为这一笔订单同时让我看清了，这条路比我预想中难太多。第一位用户来了，接下来怎样找到十个、一百个用户，怎样保证服务稳定，怎样持续承担模型成本，每一个问题都还在前面。&lt;/p&gt;
-&lt;p&gt;我目前能看到的一条路，可能是出海。&lt;/p&gt;
-&lt;p&gt;海外用户对 Mac 生产力工具和订阅软件的接受度相对更高，Openbroca 本身也适合跨语言写作。接下来我准备把更多精力放在海外内容、搜索流量和真实使用场景上。&lt;/p&gt;
-&lt;p&gt;也想借这次经历提醒准备做独立产品的朋友。&lt;/p&gt;
-&lt;p&gt;如果主要面向国内，尽量寻找足够垂直、足够小众、又确实有人愿意付费的需求。&lt;/p&gt;
-&lt;p&gt;这个市场最好小到暂时进不了大厂的优先级，同时痛点又足够具体。你能直接找到用户，也能比大厂更深入地理解场景。&lt;/p&gt;
-&lt;p&gt;这样的方向，做起来才有机会事半功倍。&lt;/p&gt;
-&lt;p&gt;热门赛道看起来空间很大，竞争成本也会迅速变得很高。独立开发者的时间和资金都有限，选错方向以后，产品做得再认真，也可能长期卡在获客这一步。&lt;/p&gt;
-&lt;p&gt;如果你愿意体验，链接放在这里：&lt;a href=&quot;http://openbroca.com&quot; rel=&quot;nofollow&quot;&gt;openbroca.com&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;如果你做过出海产品，也很想听听你是怎样找到前十个、前一百个用户的。&lt;/p&gt;
-&lt;p&gt;第一笔付费已经有了。&lt;/p&gt;
-&lt;p&gt;我现在只觉得，太难了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>德芙巧克力 求平替</title>
-      <link>https://www.v2ex.com/t/1238124</link>
-      <guid>v2ex-1238124</guid>
-      <pubDate>Sun, 30 Aug 2026 02:51:46 GMT</pubDate>
-      <description>&lt;p&gt;如题，德芙营销广告也开始两个爹了，话说回来 OPPO 还说自己是机圈德芙，这回双向奔赴了&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>求 100 USD AI 订阅推荐， grok 还是 gemini？</title>
@@ -94,11 +84,11 @@
 </description>
     </item>
     <item>
-      <title>iPhone 上用 Gmail 还是邮件 App</title>
-      <link>https://www.v2ex.com/t/1238151</link>
-      <guid>v2ex-1238151</guid>
-      <pubDate>Sun, 30 Aug 2026 05:42:23 GMT</pubDate>
-      <description>&lt;p&gt;大家 iPHone 上用的是苹果自己的“邮件”还是谷歌的 Gmail App 呢？还是直接用浏览器登陆呢&lt;/p&gt;
+      <title>德芙巧克力 求平替</title>
+      <link>https://www.v2ex.com/t/1238124</link>
+      <guid>v2ex-1238124</guid>
+      <pubDate>Sun, 30 Aug 2026 02:51:46 GMT</pubDate>
+      <description>&lt;p&gt;如题，德芙营销广告也开始两个爹了，话说回来 OPPO 还说自己是机圈德芙，这回双向奔赴了&lt;/p&gt;
 </description>
     </item>
     <item>
