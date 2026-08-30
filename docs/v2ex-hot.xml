@@ -4,27 +4,53 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 30 Aug 2026 02:17:35 GMT</lastBuildDate>
-    <item>
-      <title>还真有人信孙割说的话？</title>
-      <link>https://www.v2ex.com/t/1238019</link>
-      <guid>v2ex-1238019</guid>
-      <pubDate>Sat, 29 Aug 2026 04:14:08 GMT</pubDate>
-      <description>孙割是顶级掠食者，他说的每句话做的每件事前，都是计算好了成本和收益的。&lt;br /&gt;孙割说的每一千个字，最多只有 2 个字是真的.&lt;br /&gt;这次小作文，唯一能证实的就是：&lt;br /&gt;孙割花钱 P 了景田几次。&lt;br /&gt;什么白月光/老照片这些话你真的能信孙割？&lt;br /&gt;现在的孙割，要的是话题是流量，几千万对他来说就是炒作成本。&lt;br /&gt;孙割要的是：&lt;br /&gt;巨大的话题流量继续红+再拉一波盘割一次+感受到川普家族对他的威胁需要热度保命+给自己立一个痴情种人设+等着傻子们帮他冲+最好几千万还能要回来白嫖&lt;br /&gt;你看，再割一波+热度保命 才是最重要的，白嫖都是排最后的。顶级掠食者是我全都要。&lt;br /&gt;能将人性随意玩弄操控的，上一个集大成者还是 PDD 黄峥吧。&lt;br /&gt;一个是随意全球收割韭菜，一个是靠拿捏人性扭转中国电商生态格局。</description>
-    </item>
-    <item>
-      <title>所有程序员都用 AI 的话，那以后怎么判断能力的高低？</title>
-      <link>https://www.v2ex.com/t/1238034</link>
-      <guid>v2ex-1238034</guid>
-      <pubDate>Sat, 29 Aug 2026 07:13:28 GMT</pubDate>
-      <description>面试的时候还会问八股文吗？是不是更看重学历背景了？性格好，擅于言辞的人是不是更容易面试成功？</description>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 08:25:11 GMT</lastBuildDate>
     <item>
       <title>AI 时代，软件已经不值钱了</title>
       <link>https://www.v2ex.com/t/1238096</link>
       <guid>v2ex-1238096</guid>
       <pubDate>Sat, 29 Aug 2026 15:53:44 GMT</pubDate>
       <description>&lt;p&gt;纯软件很难建立起优势了，包括个人和企业&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>我的网站被入侵了，损失了几千块</title>
+      <link>https://www.v2ex.com/t/1238129</link>
+      <guid>v2ex-1238129</guid>
+      <pubDate>Sun, 30 Aug 2026 03:29:35 GMT</pubDate>
+      <description>&lt;p&gt;经过排查，攻击者通过管理员的 apikey 通过接口更改了余额然后进行提现。比起损失，我更想知道 apikey 怎么被泄露的，但是我永远也不会知道了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>独立做了一个 Mac 语音输入工具，终于有了第一个付费用户，却高兴不起来了</title>
+      <link>https://www.v2ex.com/t/1238099</link>
+      <guid>v2ex-1238099</guid>
+      <pubDate>Sat, 29 Aug 2026 16:38:24 GMT</pubDate>
+      <description>&lt;p&gt;先自报家门，我做了一个 Mac AI 语音输入工具，叫 Openbroca ，官网是 &lt;a href=&quot;http://openbroca.com&quot; rel=&quot;nofollow&quot;&gt;openbroca.com&lt;/a&gt; 。&lt;/p&gt;
+&lt;p&gt;今天终于收到了第一个真实付费用户。&lt;/p&gt;
+&lt;p&gt;我原本以为自己会很开心，可能会截图纪念，或者找朋友喝一杯。真正看到订单的时候，我只是盯着后台确认了几遍，然后长出了一口气。&lt;/p&gt;
+&lt;p&gt;第一笔收入当然值得记录，可我心里更多的感觉是累。&lt;/p&gt;
+&lt;p&gt;Openbroca 最早来源于我自己的需求。我在 Mac 上写邮件、文档和长消息时，经常觉得思考速度比打字快很多。普通语音输入又会保留大量停顿、重复和口头语，最后还要重新修改一遍。&lt;/p&gt;
+&lt;p&gt;所以我做了 Openbroca 。&lt;/p&gt;
+&lt;p&gt;按下快捷键直接说话，它会把自然口述整理成清晰文字，再写入当前光标所在的位置。它还有屏幕上下文、个人词典和边说边翻译。一路做下来，原生 Swift 客户端、云端语音识别、文字整理、用户系统、支付、配额、官网、SEO 、数据分析，几乎每一块都比预想中更耗时间。&lt;/p&gt;
+&lt;p&gt;写代码反而是其中比较确定的一部分。最折磨人的，是产品做出来以后没有人知道，也很难判断大家到底愿不愿意付费。&lt;/p&gt;
+&lt;p&gt;在国内推广独立效率工具真的很难。&lt;/p&gt;
+&lt;p&gt;前有微信输入法，后有豆包输入法。Typeless 把 AI 语音输入这个方向验证出来以后，越来越多大厂开始快速跟进。类似产品会越来越多，渠道、品牌、模型资源和免费策略都很难正面竞争。&lt;/p&gt;
+&lt;p&gt;Openbroca 来源于我自己的真实需求，与追逐风口无关。可当大厂进入同一个方向以后，一个独立产品想获得流量、建立信任、说服用户付费，每一步都很重。&lt;/p&gt;
+&lt;p&gt;第一个付费用户至少证明了一件事，这个需求真实存在，也确实有人愿意为它付钱。&lt;/p&gt;
+&lt;p&gt;可我一点也高兴不起来。&lt;/p&gt;
+&lt;p&gt;因为这一笔订单同时让我看清了，这条路比我预想中难太多。第一位用户来了，接下来怎样找到十个、一百个用户，怎样保证服务稳定，怎样持续承担模型成本，每一个问题都还在前面。&lt;/p&gt;
+&lt;p&gt;我目前能看到的一条路，可能是出海。&lt;/p&gt;
+&lt;p&gt;海外用户对 Mac 生产力工具和订阅软件的接受度相对更高，Openbroca 本身也适合跨语言写作。接下来我准备把更多精力放在海外内容、搜索流量和真实使用场景上。&lt;/p&gt;
+&lt;p&gt;也想借这次经历提醒准备做独立产品的朋友。&lt;/p&gt;
+&lt;p&gt;如果主要面向国内，尽量寻找足够垂直、足够小众、又确实有人愿意付费的需求。&lt;/p&gt;
+&lt;p&gt;这个市场最好小到暂时进不了大厂的优先级，同时痛点又足够具体。你能直接找到用户，也能比大厂更深入地理解场景。&lt;/p&gt;
+&lt;p&gt;这样的方向，做起来才有机会事半功倍。&lt;/p&gt;
+&lt;p&gt;热门赛道看起来空间很大，竞争成本也会迅速变得很高。独立开发者的时间和资金都有限，选错方向以后，产品做得再认真，也可能长期卡在获客这一步。&lt;/p&gt;
+&lt;p&gt;如果你愿意体验，链接放在这里：&lt;a href=&quot;http://openbroca.com&quot; rel=&quot;nofollow&quot;&gt;openbroca.com&lt;/a&gt; 。&lt;/p&gt;
+&lt;p&gt;如果你做过出海产品，也很想听听你是怎样找到前十个、前一百个用户的。&lt;/p&gt;
+&lt;p&gt;第一笔付费已经有了。&lt;/p&gt;
+&lt;p&gt;我现在只觉得，太难了。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -46,41 +72,50 @@
 </description>
     </item>
     <item>
-      <title>国内的 qoder cli 和 codebuddy cli 怎么选？都是接 ds 的情况下</title>
-      <link>https://www.v2ex.com/t/1238009</link>
-      <guid>v2ex-1238009</guid>
-      <pubDate>Sat, 29 Aug 2026 02:53:53 GMT</pubDate>
-      <description>&lt;p&gt;如题&lt;/p&gt;
-&lt;p&gt;之前一直用 claude code ，但是集团排查禁止使用了，只能寻找国内平替，目前看了 qoder cli 和 codebuddy cli ，感觉两者都没有太明显的优劣势。有用过的同学说说体验么？&lt;/p&gt;
-&lt;p&gt;ps：公司不给 codeplan ，但是给了些 ds 的额度，所以只能选择接 ds 进行使用。主要考虑 Java 软件开发方向。
-平时用的 IDEA 比较多，目前不太想直接从 IDEA 转到他们的 IDE 版，所以还是优先考虑 CLI 版本&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>阿里云代理这么便宜？</title>
-      <link>https://www.v2ex.com/t/1238012</link>
-      <guid>v2ex-1238012</guid>
-      <pubDate>Sat, 29 Aug 2026 03:07:38 GMT</pubDate>
-      <description>&lt;p&gt;今天公司想新采购一些数据库和服务器。于是去找了各个代理或者阿里云售前。&lt;/p&gt;
-&lt;p&gt;其中一个报价大概在 7-8 折， 但是另外一个报价惊呆我了&lt;/p&gt;
-&lt;p&gt;只有 2 折多一点&lt;/p&gt;
-&lt;p&gt;不过说的是必须先关联他们的企业，后期交易自行在后台操作，不再经过他们&lt;/p&gt;
-&lt;p&gt;想问下这种异常低的价格，然后又说在阿里云官方后台操作的 ，有什么坑么？ （当然大概率不会选择这个，因为便宜的不太正常）&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>刚哥开发新的编程语言 TypePHP，周三放到 Github ， 3 天 star 就快 900 个了,https://github.com/swoole/typephp，大家用 AI 体验下编程</title>
-      <link>https://www.v2ex.com/t/1238044</link>
-      <guid>v2ex-1238044</guid>
-      <pubDate>Sat, 29 Aug 2026 08:04:59 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/swoole/typephp&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/swoole/typephp&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>北京如果想中午吃饭健康又好吃</title>
       <link>https://www.v2ex.com/t/1238108</link>
       <guid>v2ex-1238108</guid>
       <pubDate>Sat, 29 Aug 2026 18:39:23 GMT</pubDate>
       <description>普通家常菜，排除自己动手&lt;br /&gt;各位有什么推荐&lt;br /&gt;其实很难，绝大部分是油 咸 辣 ，健康这一条就否决。 再要好吃，也很难。&lt;br /&gt;天天吃餐馆肯定不行，外卖也不行，学校食堂绝大部分也很差。&lt;br /&gt;想听听大家的推荐</description>
+    </item>
+    <item>
+      <title>德芙巧克力 求平替</title>
+      <link>https://www.v2ex.com/t/1238124</link>
+      <guid>v2ex-1238124</guid>
+      <pubDate>Sun, 30 Aug 2026 02:51:46 GMT</pubDate>
+      <description>&lt;p&gt;如题，德芙营销广告也开始两个爹了，话说回来 OPPO 还说自己是机圈德芙，这回双向奔赴了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>工业软件行业对创业公司机会怎么样</title>
+      <link>https://www.v2ex.com/t/1238113</link>
+      <guid>v2ex-1238113</guid>
+      <pubDate>Sun, 30 Aug 2026 00:56:27 GMT</pubDate>
+      <description>自己离职创业折腾快一年了，目前以做外包软件开发为生&lt;br /&gt;&lt;br /&gt;目前打算深耕聚焦垂直领域 - 工业软件，比如工业智能体、智能排产、工艺优化等&lt;br /&gt;&lt;br /&gt;也清楚熟悉业务很重要，不同工业行业 - 离散型、流程型 都有区别&lt;br /&gt;&lt;br /&gt;现在国家不断放出支持 工业 AI 、工业软件+ 等概念的发展&lt;br /&gt;&lt;br /&gt;所以建个群，行业内的技术、产品、市场、创业者都可以相互探讨一下&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg&quot; rel=&quot;nofollow noopener&quot;&gt;https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>codex 今天凌晨又重置了么</title>
+      <link>https://www.v2ex.com/t/1238122</link>
+      <guid>v2ex-1238122</guid>
+      <pubDate>Sun, 30 Aug 2026 02:29:48 GMT</pubDate>
+      <description>&lt;p&gt;昨晚 /goal 跑了一个长任务，早上看额度又 100% 了。
+之前用插件看账号额度似乎降了，还遇到模型限流提示，现在这么频繁重置是怕用户流失么？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>支持命令行操作开和关的电源市面上有吗？</title>
+      <link>https://www.v2ex.com/t/1238058</link>
+      <guid>v2ex-1238058</guid>
+      <pubDate>Sat, 29 Aug 2026 09:55:41 GMT</pubDate>
+      <description>&lt;p&gt;配合 AI 使用，AI debug 经常要重启硬件。所以需要搞一个支持命令行操作开和关的电源，市面上有吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>NAT4444 新证据？</title>
+      <link>https://www.v2ex.com/t/1238115</link>
+      <guid>v2ex-1238115</guid>
+      <pubDate>Sun, 30 Aug 2026 01:07:37 GMT</pubDate>
+      <description>上个月本地电信进行了 vbras 改造，获取到的新 IP （ 122.238.X.X ）赫然就是曾经没有公网时分配的 CGNAT 段，但是最简单的验证又跟一般的公网 IP 无异。&lt;a target=&quot;_blank&quot; href=&quot;http://ipip.net&quot; rel=&quot;nofollow noopener&quot;&gt;ipip.net&lt;/a&gt; 的 IP 定位与近期开启 GPS 定位的设备关联，可以实现精准定位，这些 IP 的定位分散在一个县里不同的乡镇，和一般的公网 IP 存在明显不同。</description>
     </item>
   </channel>
 </rss>
