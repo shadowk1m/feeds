@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 30 Aug 2026 08:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:51:58 GMT</lastBuildDate>
     <item>
       <title>AI 时代，软件已经不值钱了</title>
       <link>https://www.v2ex.com/t/1238096</link>
@@ -14,12 +14,34 @@
 </description>
     </item>
     <item>
+      <title>丈母娘医院手术出院半月后从体内取出一块纱布该如何维权</title>
+      <link>https://www.v2ex.com/t/1238162</link>
+      <guid>v2ex-1238162</guid>
+      <pubDate>Sun, 30 Aug 2026 07:11:00 GMT</pubDate>
+      <description>&lt;p&gt;丈母娘因为漏尿的问题,在浙江省妇保余杭院区做了经阴道无张力尿道悬吊术的手术。出院半个月后,自己在家发现体内还留着一块纱布（厕所取出来了）。但整个住院期间到出院,医院都没有提过要取出这块纱布,也没有任何告知。&lt;/p&gt;
+&lt;p&gt;周六发现之后,第一时间打了 12345 投诉。然后去医院想办病历封存,结果被告知因为不是本人办理,需要授权委托书,而且必须是本人签名+手印的原件,拍照和电子版都不认。丈母娘现在人在老家,只能先签好委托书邮寄过来,医院这边说要等材料到了(最早也要周一)才能办。&lt;/p&gt;
+&lt;p&gt;想请教大家:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;这种情况算不算医疗事故/医疗过错?&lt;/li&gt;
+&lt;li&gt;后续是等 12345 回复、找医院医患办、还是直接请律师?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;有没有人遇到过类似的(纱布或其他术后遗留),流程和结果是怎样的,求指引&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>我的网站被入侵了，损失了几千块</title>
       <link>https://www.v2ex.com/t/1238129</link>
       <guid>v2ex-1238129</guid>
       <pubDate>Sun, 30 Aug 2026 03:29:35 GMT</pubDate>
       <description>&lt;p&gt;经过排查，攻击者通过管理员的 apikey 通过接口更改了余额然后进行提现。比起损失，我更想知道 apikey 怎么被泄露的，但是我永远也不会知道了。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>北京如果想中午吃饭健康又好吃</title>
+      <link>https://www.v2ex.com/t/1238108</link>
+      <guid>v2ex-1238108</guid>
+      <pubDate>Sat, 29 Aug 2026 18:39:23 GMT</pubDate>
+      <description>普通家常菜，排除自己动手&lt;br /&gt;各位有什么推荐&lt;br /&gt;其实很难，绝大部分是油 咸 辣 ，健康这一条就否决。 再要好吃，也很难。&lt;br /&gt;天天吃餐馆肯定不行，外卖也不行，学校食堂绝大部分也很差。&lt;br /&gt;想听听大家的推荐</description>
     </item>
     <item>
       <title>独立做了一个 Mac 语音输入工具，终于有了第一个付费用户，却高兴不起来了</title>
@@ -54,31 +76,6 @@
 </description>
     </item>
     <item>
-      <title>免费，开源， V2EX Android 客户端首个正式版本， Kotlin + Jetpack Compose 构建。</title>
-      <link>https://www.v2ex.com/t/1238073</link>
-      <guid>v2ex-1238073</guid>
-      <pubDate>Sat, 29 Aug 2026 12:54:37 GMT</pubDate>
-      <description>&lt;p&gt;在被苹果审核教育一番之后以及 V 友的邀请之下做了安卓版本&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Kotlin + Jetpack Compose 全原生构建&lt;/li&gt;
-&lt;li&gt;凭据加密存储（ Android Keystore + EncryptedSharedPreferences ）&lt;/li&gt;
-&lt;li&gt;支持折叠屏，内外屏无缝切换&lt;/li&gt;
-&lt;li&gt;站内完成全部互动 —— 回复、发帖、收藏，@ 补全、通知直达&lt;/li&gt;
-&lt;li&gt;分享为卡片 —— 一键生成带二维码的话题图片卡&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;GitHub：&lt;a href=&quot;https://github.com/xinghelee/v2ex-android&quot; rel=&quot;nofollow&quot;&gt;https://github.com/xinghelee/v2ex-android&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/Ouuht1Um.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;GitHub：&lt;a href=&quot;https://github.com/xinghelee/v2ex-android&quot; rel=&quot;nofollow&quot;&gt;https://github.com/xinghelee/v2ex-android&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>北京如果想中午吃饭健康又好吃</title>
-      <link>https://www.v2ex.com/t/1238108</link>
-      <guid>v2ex-1238108</guid>
-      <pubDate>Sat, 29 Aug 2026 18:39:23 GMT</pubDate>
-      <description>普通家常菜，排除自己动手&lt;br /&gt;各位有什么推荐&lt;br /&gt;其实很难，绝大部分是油 咸 辣 ，健康这一条就否决。 再要好吃，也很难。&lt;br /&gt;天天吃餐馆肯定不行，外卖也不行，学校食堂绝大部分也很差。&lt;br /&gt;想听听大家的推荐</description>
-    </item>
-    <item>
       <title>德芙巧克力 求平替</title>
       <link>https://www.v2ex.com/t/1238124</link>
       <guid>v2ex-1238124</guid>
@@ -87,35 +84,29 @@
 </description>
     </item>
     <item>
+      <title>求 100 USD AI 订阅推荐， grok 还是 gemini？</title>
+      <link>https://www.v2ex.com/t/1238150</link>
+      <guid>v2ex-1238150</guid>
+      <pubDate>Sun, 30 Aug 2026 05:37:55 GMT</pubDate>
+      <description>&lt;p&gt;公司提供的每月报销额度还剩下 100 USD ，想在 grok supergrok plus 和 gemini ultra 里面选一个，哪个比较好？&lt;/p&gt;
+&lt;p&gt;背景：
+已经订阅了 ChatGPT Max 20 和 Claude Max 5 ，日常开发完全够用了，想再订阅个有多模态能力并且写作能力强的 AI 来写文档。看了下这俩都符合需求，比较纠结。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>iPhone 上用 Gmail 还是邮件 App</title>
+      <link>https://www.v2ex.com/t/1238151</link>
+      <guid>v2ex-1238151</guid>
+      <pubDate>Sun, 30 Aug 2026 05:42:23 GMT</pubDate>
+      <description>&lt;p&gt;大家 iPHone 上用的是苹果自己的“邮件”还是谷歌的 Gmail App 呢？还是直接用浏览器登陆呢&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>工业软件行业对创业公司机会怎么样</title>
       <link>https://www.v2ex.com/t/1238113</link>
       <guid>v2ex-1238113</guid>
       <pubDate>Sun, 30 Aug 2026 00:56:27 GMT</pubDate>
       <description>自己离职创业折腾快一年了，目前以做外包软件开发为生&lt;br /&gt;&lt;br /&gt;目前打算深耕聚焦垂直领域 - 工业软件，比如工业智能体、智能排产、工艺优化等&lt;br /&gt;&lt;br /&gt;也清楚熟悉业务很重要，不同工业行业 - 离散型、流程型 都有区别&lt;br /&gt;&lt;br /&gt;现在国家不断放出支持 工业 AI 、工业软件+ 等概念的发展&lt;br /&gt;&lt;br /&gt;所以建个群，行业内的技术、产品、市场、创业者都可以相互探讨一下&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg&quot; rel=&quot;nofollow noopener&quot;&gt;https://tmpfiles.org/wbwzBakgpWiP/_20260830084139_81_308.jpg&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>codex 今天凌晨又重置了么</title>
-      <link>https://www.v2ex.com/t/1238122</link>
-      <guid>v2ex-1238122</guid>
-      <pubDate>Sun, 30 Aug 2026 02:29:48 GMT</pubDate>
-      <description>&lt;p&gt;昨晚 /goal 跑了一个长任务，早上看额度又 100% 了。
-之前用插件看账号额度似乎降了，还遇到模型限流提示，现在这么频繁重置是怕用户流失么？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>支持命令行操作开和关的电源市面上有吗？</title>
-      <link>https://www.v2ex.com/t/1238058</link>
-      <guid>v2ex-1238058</guid>
-      <pubDate>Sat, 29 Aug 2026 09:55:41 GMT</pubDate>
-      <description>&lt;p&gt;配合 AI 使用，AI debug 经常要重启硬件。所以需要搞一个支持命令行操作开和关的电源，市面上有吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>NAT4444 新证据？</title>
-      <link>https://www.v2ex.com/t/1238115</link>
-      <guid>v2ex-1238115</guid>
-      <pubDate>Sun, 30 Aug 2026 01:07:37 GMT</pubDate>
-      <description>上个月本地电信进行了 vbras 改造，获取到的新 IP （ 122.238.X.X ）赫然就是曾经没有公网时分配的 CGNAT 段，但是最简单的验证又跟一般的公网 IP 无异。&lt;a target=&quot;_blank&quot; href=&quot;http://ipip.net&quot; rel=&quot;nofollow noopener&quot;&gt;ipip.net&lt;/a&gt; 的 IP 定位与近期开启 GPS 定位的设备关联，可以实现精准定位，这些 IP 的定位分散在一个县里不同的乡镇，和一般的公网 IP 存在明显不同。</description>
     </item>
   </channel>
 </rss>
