@@ -4,43 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 31 Aug 2026 06:40:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:34:00 GMT</lastBuildDate>
     <item>
       <title>大家对孩子跟着媳妇姓怎么看</title>
       <link>https://www.v2ex.com/t/1238336</link>
       <guid>v2ex-1238336</guid>
       <pubDate>Mon, 31 Aug 2026 03:10:10 GMT</pubDate>
       <description>如题，跟媳妇结婚一年，不是倒插门，也是给的彩礼三金娶回家的，前两天沟通生孩子的问题，因为之前我一直觉得最多生一个，但是媳妇现在的想法是，想生 2 个，第二个孩子跟她姓，为此爆发了激烈的争吵，我觉得两个孩子不同姓，从小就感觉不像一家人的感觉，不知道大家对这件事怎么看</description>
-    </item>
-    <item>
-      <title>记一次 GLM 开发严重事故，花了 8 亿 token，买了个教训</title>
-      <link>https://www.v2ex.com/t/1238217</link>
-      <guid>v2ex-1238217</guid>
-      <pubDate>Sun, 30 Aug 2026 13:04:36 GMT</pubDate>
-      <description>&lt;p&gt;本周末使用 Codex + Trellis + Zcode 新开了一个项目，Codex 负责 brainstorm + prd ，Trellis 负责 Agent 之间的开发衔接，Zcode 负责实际的实现，加上本周末智谱送的 3 亿 token 以及 token plan pro 的额度，感觉本来没啥问题，昨天跑了一天十分的顺，glm5.3 flash 也是比较快，代码也都用 git 管理，只是没有上传到 github 。&lt;/p&gt;
-&lt;p&gt;结果刚才突然爆出严重事故，它把我的整个上上级文件夹给直接删了，天天号称安全的模型能犯这么低级的错误，丢失的东西也没有用 time machine 备份，恢复不了了，&lt;strong&gt;损失惨重&lt;/strong&gt;，8 个亿的 token 买了个教训。&lt;/p&gt;
-&lt;p&gt;希望大家引以为戒吧，&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;谨慎使用完全访问，可以使用个有 codex “帮我批准”这种功能的 harness;&lt;/li&gt;
-&lt;li&gt;开发目录最好干净一点，不要和别的放在一起，删了也不心疼，不过它要是删/，也没啥屌办法；&lt;/li&gt;
-&lt;li&gt;还是每次都 push 吧；&lt;/li&gt;
-&lt;li&gt;国产模型的跑分谨慎看待吧，感觉这一波蒸馏+后训练把跑分都搞起来了，实际还是坑很多。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;紧急事故报告：工作区被误删，Phase 14 工作暂停
-发生了什么
-在实施 Phase 14.4 期间，我执行了一条清理命令 rm -rf /Users/peacehub/Documents/work （原本想删除我此前路径大小写笔误产生的空目录）。macOS 文件系统大小写不敏感，该命令实际删除的是真实的大写 Work 目录——即整个 /Users/peacehub/Documents/Work ，包括本仓库的全部内容（ git 历史、全部未提交改动、.trellis 任务记录、supabase 迁移、文档）。
-
-这是我的严重失误，我为此道歉。我已立即停止了进一步操作并完成了一轮只读排查。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;a href=&quot;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKMxqlCNzSjoY0ybF0Xaw07bpsURFpwACICgAAljgoVQbDMxroF32Sz0E.png&quot; rel=&quot;nofollow&quot;&gt;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKMxqlCNzSjoY0ybF0Xaw07bpsURFpwACICgAAljgoVQbDMxroF32Sz0E.png&lt;/a&gt;
-&lt;a href=&quot;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKNFqlCQutBWPzZjiGwINqFcUdRal5AACJSgAAljgoVSResGIQj9aPj0E.png&quot; rel=&quot;nofollow&quot;&gt;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKNFqlCQutBWPzZjiGwINqFcUdRal5AACJSgAAljgoVSResGIQj9aPj0E.png&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;BQACAgUAAyEGAASHRsPbAAEaKMxqlCNzSjoY0ybF0Xaw07bpsURFpwACICgAAljgoVQbDMxroF32Sz0E.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKMxqlCNzSjoY0ybF0Xaw07bpsURFpwACICgAAljgoVQbDMxroF32Sz0E.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;BQACAgUAAyEGAASHRsPbAAEaKNFqlCQutBWPzZjiGwINqFcUdRal5AACJSgAAljgoVSResGIQj9aPj0E.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEaKNFqlCQutBWPzZjiGwINqFcUdRal5AACJSgAAljgoVSResGIQj9aPj0E.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;PixPin_2026-08-30_20-27-23.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://picui.ogmua.cn/s1/2026/08/30/6a942862c8707.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;PixPin_2026-08-30_20-26-58.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://picui.ogmua.cn/s1/2026/08/30/6a942862dda92.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;b8f2ff6fa1b820f3edf2c2a4d7083eca.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.mji.rip/2026/08/30/b8f2ff6fa1b820f3edf2c2a4d7083eca.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;b53965f288d0415f7f4d94bc56f65934.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.mji.rip/2026/08/30/b53965f288d0415f7f4d94bc56f65934.png&quot;/&gt;&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>“万 1 免 5”股票 etf 低佣大笑脸开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.31 日~9.7 日]</title>
@@ -74,19 +44,20 @@
 </description>
     </item>
     <item>
-      <title>丈母娘医院手术出院半月后从体内取出一块纱布该如何维权</title>
-      <link>https://www.v2ex.com/t/1238162</link>
-      <guid>v2ex-1238162</guid>
-      <pubDate>Sun, 30 Aug 2026 07:11:00 GMT</pubDate>
-      <description>&lt;p&gt;丈母娘因为漏尿的问题,在浙江省妇保余杭院区做了经阴道无张力尿道悬吊术的手术。出院半个月后,自己在家发现体内还留着一块纱布（厕所取出来了）。但整个住院期间到出院,医院都没有提过要取出这块纱布,也没有任何告知。&lt;/p&gt;
-&lt;p&gt;周六发现之后,第一时间打了 12345 投诉。然后去医院想办病历封存,结果被告知因为不是本人办理,需要授权委托书,而且必须是本人签名+手印的原件,拍照和电子版都不认。丈母娘现在人在老家,只能先签好委托书邮寄过来,医院这边说要等材料到了(最早也要周一)才能办。&lt;/p&gt;
-&lt;p&gt;想请教大家:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;这种情况算不算医疗事故/医疗过错?&lt;/li&gt;
-&lt;li&gt;后续是等 12345 回复、找医院医患办、还是直接请律师?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;有没有人遇到过类似的(纱布或其他术后遗留),流程和结果是怎样的,求指引&lt;/p&gt;
+      <title>plus 已经没法用了</title>
+      <link>https://www.v2ex.com/t/1238341</link>
+      <guid>v2ex-1238341</guid>
+      <pubDate>Mon, 31 Aug 2026 03:15:55 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;图片.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/08/31/RDvqCDZz.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;打个包五小时额度用完了没打好，太 noob 了&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>26 年之前只干后端，现在前后端一起干，后面产品也取消了，我们直接去收集需求，有一样的吗</title>
+      <link>https://www.v2ex.com/t/1238264</link>
+      <guid>v2ex-1238264</guid>
+      <pubDate>Mon, 31 Aug 2026 00:45:37 GMT</pubDate>
+      <description>26 年之前只干后端，现在前后端一起干，后面产品也取消了，我们直接去收集需求，有一样的吗</description>
     </item>
     <item>
       <title>一直以为教培行业真的凉了，没想到还有很多人在偷偷做，赚的也不少</title>
@@ -97,13 +68,19 @@
 </description>
     </item>
     <item>
-      <title>plus 已经没法用了</title>
-      <link>https://www.v2ex.com/t/1238341</link>
-      <guid>v2ex-1238341</guid>
-      <pubDate>Mon, 31 Aug 2026 03:15:55 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;图片.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/08/31/RDvqCDZz.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;打个包五小时额度用完了没打好，太 noob 了&lt;/p&gt;
+      <title>聊一聊周末便利店摸屁股事件</title>
+      <link>https://www.v2ex.com/t/1238270</link>
+      <guid>v2ex-1238270</guid>
+      <pubDate>Mon, 31 Aug 2026 01:14:34 GMT</pubDate>
+      <description>&lt;p&gt;如果各位在一个没有监控的空间内被对方诬陷摸屁股了，应该如何应对呢&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>2 万多下载，大多数人却只用了一次</title>
+      <link>https://www.v2ex.com/t/1238358</link>
+      <guid>v2ex-1238358</guid>
+      <pubDate>Mon, 31 Aug 2026 04:16:29 GMT</pubDate>
+      <description>2 万多下载，&lt;br /&gt;大多数人却只用了一次&lt;br /&gt;被裁后做 App 的第一个增长教训&lt;br /&gt;上午还在写代码，下午岗位没了&lt;br /&gt;Leader 发来一段 5 分钟语音。&lt;br /&gt;随后和 HR 聊了 20 分钟。&lt;br /&gt;签字、交工牌，工作结束了。&lt;br /&gt;那天之后，我开始认真做自己的产品。&lt;br /&gt;我把时间押在了一个翻译 App 上，秒译&lt;br /&gt;我想做一个能持续显示字幕、&lt;br /&gt;提前下载语言包后断网也能使用的工具。&lt;br /&gt;我当时以为：功能做好，用户自然会留下。&lt;br /&gt;一条视频，约 47.2 万播放&lt;br /&gt;发布前一天：27 次首次下载&lt;br /&gt;发布当天：615 次首次下载&lt;br /&gt;那天我以为，增长终于来了。&lt;br /&gt;第二天，只剩 149 次&lt;br /&gt;热度过去以后，&lt;br /&gt;每天下载又逐渐回到了二十几次。&lt;br /&gt;爆款带来了下载，却没有带来稳定增长。&lt;br /&gt;更难的问题：用户没有留下来&lt;br /&gt;安装后第 1 天回来的人：约 14.7%&lt;br /&gt;安装后第 7 天回来的人：约 1.91%&lt;br /&gt;也就是说，很多人只是觉得新奇，打开一次就走了。</description>
     </item>
   </channel>
 </rss>
