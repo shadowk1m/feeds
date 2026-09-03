@@ -4,31 +4,40 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 03 Sep 2026 05:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:57:56 GMT</lastBuildDate>
     <item>
-      <title>顶不住了，来回通勤 60 公里， 12 万内电车求推荐</title>
-      <link>https://www.v2ex.com/t/1238971</link>
-      <guid>v2ex-1238971</guid>
-      <pubDate>Wed, 02 Sep 2026 08:26:06 GMT</pubDate>
-      <description>&lt;p&gt;地铁不通，坐公交要接近三小时。 目前是坐的同事的顺风车，但是这个司机太恶心了，一开始说送我到家，后来送到公交站，再后来乱放了。。现在每天把顺风车打开了，顺我的情况还要接单，最后送我，导致我每天通勤 4-5 小时。他接不到单的时候，半路会停车去吃饭，让我在路边等。。实在是忍不了。。  &lt;/p&gt;
-&lt;p&gt;mg07 、启源 Q05 、深蓝 s05 怎么选择呢，还有更好的吗。  &lt;/p&gt;
-&lt;p&gt;坐标南方，没有家充。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>三十多岁，即将从大厂离职，打算暂时不找工作，用一年尝试 App 出海和自媒体，大家帮忙看下这个规划是否合理</title>
-      <link>https://www.v2ex.com/t/1238945</link>
-      <guid>v2ex-1238945</guid>
-      <pubDate>Wed, 02 Sep 2026 07:20:57 GMT</pubDate>
-      <description>&lt;p&gt;在宇宙厂做研发第六年，目前即将离职。&lt;/p&gt;
-&lt;p&gt;三十多岁，已经算大龄程序员，而且这两年明显感觉自己卷不动了，身体和精神都极度劳累。&lt;/p&gt;
-&lt;p&gt;之前一直对 App 出海和自媒体感兴趣，工作期间太忙，没法投入时间尝试。接下来想给自己一年时间，暂时不找工作，在 App 出海和自媒体两个方式做做尝试，把找需求、做产品和内容创作这些事情认真跑一遍。&lt;/p&gt;
-&lt;p&gt;自媒体方面，目前打算主要尝试短视频形式，前期积累粉丝，后期靠伙伴计划和广告获取收入。
-App 出海，依靠 AI 来做开发，定位为满足长尾需求，在 X 平台或 Tiktok 来获客。&lt;/p&gt;
-&lt;p&gt;另外交代一下目前的经济情况。扣掉房贷等负债后，手里的现金和股票加起来有一百多万，在省会城市有两套房，日常生活还算过得去。&lt;/p&gt;
-&lt;p&gt;我总体上比较佛系，加上有点资金储备，因此我心态挺好的，且对于后续尝试比较乐观，不过我老婆有点焦虑。&lt;/p&gt;
-&lt;p&gt;计划和基本状况如上，大家帮忙判断这个选择是否现实，潜在风险和收益是否合理？&lt;/p&gt;
-&lt;p&gt;另外有类似经历，或者对出海或自媒体感兴趣的人，也欢迎加微信交流或围观朋友圈。这一年里，我会把自己查过的资料和做过的尝试记录下来，做成的会写，没做成的也不会略过。我的微信号是 imbulusi ，备注一下 V2EX 就行。&lt;/p&gt;
+      <title>两个月 12000 台装机、收入 1000 出头： 2MB 的 Markdown 阅读器 mdview 准备涨价，求建议</title>
+      <link>https://www.v2ex.com/t/1239151</link>
+      <guid>v2ex-1239151</guid>
+      <pubDate>Thu, 03 Sep 2026 03:22:51 GMT</pubDate>
+      <description>&lt;p&gt;两个月前在这里发过 mdview ，今天来交个底，顺便有件拿不准的事想听听大家的意见。&lt;/p&gt;
+&lt;p&gt;补一段背景：mdview 是个 Markdown 阅读器（也有人叫查看器），内置两种编辑功能，就地编辑和分屏编辑。Windows / macOS / Android 都有，安装包 2MB 。双击 .md 文件直接看，像浏览网页一样，Esc 关掉走人。做它是因为每次想看一眼 README 或者 AI 导出来的文档，不想开一个笨重的软件来查看，看完之后随手关掉，需要修改也没问题。社区版阅读功能不阉割、免费用； Pro 是编辑、Mermaid 图表、数学公式、导出增强，¥5 永久，前 100 次免费试用。&lt;/p&gt;
+&lt;p&gt;两个月的账：&lt;/p&gt;
+&lt;p&gt;装机 12000 多台，匀速涨上来的，中间没有爆过量
+版本发了 140 多个（原生 PDF 导出、单文件 HTML 导出、F2 就地编辑都是这两个月里做的）
+收入 1000 出头，付费用户两百多个，折下来转化率 1.6%
+成本那边没什么可哭的：服务器加域名一年几百块，早被收入覆盖了。真正的成本是时间——这两个月我基本全职在做，平均一两天发一个版。拿收入除以投入的工时，不如去便利店打工。&lt;/p&gt;
+&lt;p&gt;所谓难以为继，不是活不下去，是投入产出撑不住「全职做」这个决定：要么想办法让收入上一个量级，要么重新找个工作、把它降级成业余项目。我选前者，第一个动作是涨价。&lt;/p&gt;
+&lt;p&gt;为什么觉得有涨的空间：¥5 是两个月前上付费时随手定的，图个「交个朋友」。现在回头看用户反馈，夸的是快、干净、阅读体验好，没有一条夸便宜。个人开发者，舍不得钱，渠道上没投过一分钱广告，主要靠搜索和口碑，大部分是被搜索引擎推荐过来的。&lt;/p&gt;
+&lt;p&gt;手上的方案：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;¥5 → ¥19.9：还在冲动消费区间，对转化率伤害应该最小&lt;/li&gt;
+&lt;li&gt;¥5 → ¥29.9：仍然在一份工作餐的范围内&lt;/li&gt;
+&lt;li&gt;改账号制：一个微信账号，可以绑定多台设备，价格定多少，没想好&lt;/li&gt;
+&lt;li&gt;改订阅：基本没戏，“永久买断”是目前用户愿意付费的主要理由&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;想听的建议：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;涨到哪个数？有没有自己涨过价的，转化率掉了多少、多久回血？&lt;/li&gt;
+&lt;li&gt;老用户怎么办？我倾向现有用户自动锁老价&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;反向问题也问问：
+是不是根本不该先动价格，1.6% 的转化率是不是先修漏斗更对？&lt;/p&gt;
+&lt;p&gt;发帖前犹豫了一下，怕被读成「涨价前造势」。但闷头改价不如先打招呼，上面的账全摊开了。&lt;/p&gt;
+&lt;p&gt;GitHub （提 bug 提需求，issue 基本当天回）：
+&lt;a href=&quot;https://github.com/mdview2026/mdview&quot; rel=&quot;nofollow&quot;&gt;https://github.com/mdview2026/mdview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;官网：
+&lt;a href=&quot;https://www.mdview.cn&quot; rel=&quot;nofollow&quot;&gt;https://www.mdview.cn&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -37,17 +46,6 @@ App 出海，依靠 AI 来做开发，定位为满足长尾需求，在 X 平台
       <guid>v2ex-1239075</guid>
       <pubDate>Thu, 03 Sep 2026 00:44:10 GMT</pubDate>
       <description>第一种：短线交易&lt;br /&gt;&lt;br /&gt;从新闻、板块热度上、各种信息圈、甚至微博和 X 上，找龙头&lt;br /&gt;&lt;br /&gt;打个比方，今天新闻里提到了军事行动，直接二话不说先塞 5%的仓位进军工板块的最大热门股。&lt;br /&gt;&lt;br /&gt;注意是立刻行动，并且只塞 5%的仓位。如果是 100000 元本金，就是 5000 元。&lt;br /&gt;&lt;br /&gt;设置 5%的止损和 10%的止盈(A 股不行，T+1)，如果这一笔损了，亏 250 元走人。如果赚了，赚 500 块走人。&lt;br /&gt;&lt;br /&gt;第二天直接走人，不管赚多少亏多少。&lt;br /&gt;&lt;br /&gt;大概就这个意思，追热点，追新闻热点，追资金热点，追各种热点，哪怕是川大智胜这种热点。&lt;br /&gt;&lt;br /&gt;币圈打狗玩的就是这套，其实 A 股也是这套，你要清晰的明白自己在做什么，不要格局。&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;第二种：价值投资&lt;br /&gt;&lt;br /&gt;寻找有成长力的股票，提前买入，做价值投资，或者买有护城河的股票，总之各种各样吧。&lt;br /&gt;&lt;br /&gt;很多人以为自己属于这一类的，包括本站几个 ID ，经常发自己的总结什么。&lt;br /&gt;&lt;br /&gt;其实我想说：&lt;br /&gt;&lt;br /&gt;兄弟，真要做价值投资，不说看懂完整财报，不说亲自进厂调研，起码手底下得有个不低于 5 人的分析团队，每周提供报告给你。&lt;br /&gt;&lt;br /&gt;个人玩不了价值投资，不要骗自己，以前没有无人机的时候，人家是调卫星去数停车场的新车库存的。&lt;br /&gt;&lt;br /&gt;普通人不要有任何幻想。&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;第三种：大资金保值需求&lt;br /&gt;&lt;br /&gt;各国的社保资金，或者各种养老资金，国家资金，并不追求高额收益，只追求一点：跑赢通胀，或者说不贬值。&lt;br /&gt;&lt;br /&gt;这些资金会配置多品种，多行业，但绝大多数资金是挂钩了美元。&lt;br /&gt;&lt;br /&gt;因为美元作为世界货币，你挂上美元，不说升值，起码是安全的。&lt;br /&gt;&lt;br /&gt;打个比方，如果是乱世，那么所有国家都会配置黄金，无论是怎么赚到了钱，先换成黄金。&lt;br /&gt;&lt;br /&gt;标普和纳斯达克成为所有国家的必选投资项。&lt;br /&gt;&lt;br /&gt;这才是美股永恒牛市的底层逻辑，源源不断的资金来源，所有人都绑到车上。&lt;br /&gt;&lt;br /&gt;也是很多兄弟说无脑定投美股，根本不需要技术的原因。&lt;br /&gt;&lt;br /&gt;大资金无处可去。&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;如果你买的是 A 股科技，你以为你买的是第二种：价值投资，其实你买的是第一种：短线交易&lt;br /&gt;&lt;br /&gt;如果你买的是 A 股老登，你以为你买的是第二种：价值投资，其实你买的是第三种：大资金保值需求（中国版）&lt;br /&gt;&lt;br /&gt;如果你买的是美股科技，你以为你买的是第二种：价值投资，其实你买的也是第三种：大资金保值需求（世界版）&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;以上均为个人看法。&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;我目前在交易美元信用逐渐下降（是逐渐，逐渐，不代表已经，不代表一定，不代表绝对）&lt;br /&gt;&lt;br /&gt;各国会分仓一部分进人民币（少数，少量，很少，不代表必须，一定）&lt;br /&gt;&lt;br /&gt;所以买的 A 股基建蓝筹类（招商银行，中国电信）</description>
-    </item>
-    <item>
-      <title>看到大家分享的炒股经历，有亏有赚。但是这个节点叫投资，炒股不属于投资</title>
-      <link>https://www.v2ex.com/t/1238912</link>
-      <guid>v2ex-1238912</guid>
-      <pubDate>Wed, 02 Sep 2026 06:02:47 GMT</pubDate>
-      <description>&lt;p&gt;炒股=投机≈赌博，
-如果理解不了可以想一下买房和炒房
-赌博能赚到钱吗？当然可以。但也会让你血本无归
-所以炒股赚到钱了，对大家来说没有任何参考性。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>裁员问题求助！</title>
@@ -65,20 +63,28 @@ App 出海，依靠 AI 来做开发，定位为满足长尾需求，在 X 平台
 </description>
     </item>
     <item>
-      <title>5X 的 Codex 一天半烧完了，晒晒我的智障多 agent 工作流</title>
-      <link>https://www.v2ex.com/t/1238942</link>
-      <guid>v2ex-1238942</guid>
-      <pubDate>Wed, 02 Sep 2026 07:16:15 GMT</pubDate>
-      <description>&lt;p&gt;充了 100 刀 codex 想做点正经东西，结果一天半就没了，项目还卡在半路，越想越亏，来吐槽一下。&lt;/p&gt;
-&lt;p&gt;我干了个挺蠢的事：一个项目塞了好几个 agent ，产品、测试、运营、后端、桌面端。本来想的是流程正规一点，学大厂那套需求评审测试验收，能少返工。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;10 个智能体列表&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/le7zUn4.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;结果实际流程变成了这样——需求来了先丢给运营 agent 去&quot;调研&quot;，调研完产品 agent 出方案，方案出来测试 agent 要先写测试用例，都齐了后端和桌面端才开始写代码。写完你以为完事了？天真，还要挨个过审：测试审一遍，产品审一遍，UI 审一遍，UX 单独再审一遍。我当时不知道哪根筋搭错，UI 和 UX 还拆成了俩 agent 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;agent 工作流&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/z66CPLQ.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;它们审起来一个比一个能说。产品动不动就&quot;不符合用户心智&quot;，UX 说交互路径太长要重做，测试说边界情况没覆盖要补用例，UI 说视觉规范不统一。最离谱的是，它们提的问题最后基本都得我自己动手改，返工不但没少，我还多了个活儿：给几个 agent 的意见当裁判。&lt;/p&gt;
-&lt;p&gt;钱主要烧在上下文上。每个 agent 都得喂历史记录，喂一次几百条 message ，光&quot;对齐需求&quot;就对齐了好几轮，我自己都不知道在干嘛了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;codex 额度消耗&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/VD0ZaVD.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;现在纠结要不要再充 100 刀。充吧，怕两天又烧没了；不充吧，东西不上不下的很难受。&lt;/p&gt;
-&lt;p&gt;就想问问，到底是我这流程本身有病——AI 干活根本不需要模拟人类团队那套官僚流程，还是我用法不对，应该让它们并行干而不是串行开会，还是单纯额度买少了，其实再充 100 刀就能成了？&lt;/p&gt;
+      <title>做了一个“不发通知”的提醒 App，想听听 V 友意见，附送 50 个永久 Pro 兑换码</title>
+      <link>https://www.v2ex.com/t/1239152</link>
+      <guid>v2ex-1239152</guid>
+      <pubDate>Thu, 03 Sep 2026 03:23:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/qEcefJfz.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;Hello V 友们，我是工作 10 年 Burnout 从大厂裸辞一年多的 Cooper 。&lt;/p&gt;
+&lt;p&gt;这一年多对我来说，是一段很艰难也很珍贵的时期。&lt;/p&gt;
+&lt;p&gt;我的记忆力变得特别差（不确定是焦虑还是药物作用），看似没工作，也没什么很急必须要记住的事，但却很难想记起来我本来想要干什么。&lt;/p&gt;
+&lt;p&gt;比如改天想去的旧书店、下次见朋友时想说的一句话，或者某个不值得专门设闹钟的小念头。&lt;/p&gt;
+&lt;p&gt;以为我当时的专注力，很排斥提醒的声音和复杂的 todolist 界面。&lt;/p&gt;
+&lt;p&gt;所以我做了 Current Card：一个“不发通知”的视觉提醒 App 。&lt;/p&gt;
+&lt;p&gt;它一次只留一张卡，不会慢慢长成另一份待办清单。卡片可以安静地出现在主屏幕、
+锁屏、StandBy ，以及你主动选择的其他受支持 Apple 屏幕上。你照常使用设备，它只是
+多一次被你看见的机会。&lt;/p&gt;
+&lt;p&gt;不再需要留着时，也不是打勾“完成”，而是把它放下。&lt;/p&gt;
+&lt;p&gt;Current Card 现在已经在 App Store 上架，为了认识第一批真的喜欢这种产品边界的人，也为了感谢 V 友，我准备了首批 50 个一次性 Current Card Pro 兑换码，这一轮限时免费发放。每个码只能成功兑换 1 次，领完即止。&lt;/p&gt;
+&lt;p&gt;可以评论区也可以私信我领取。&lt;/p&gt;
+&lt;p&gt;之后我也会继续写 Current Card 和 Day in Five （我的另一款还没发布的大作！）独立开发手记，灵感都来自我前一段时间看似黑暗，又很有收获的经历。&lt;/p&gt;
+&lt;p&gt;欢迎一起聊产品聊设计也聊开发，甚至是颜色和声音，或者那些看起来很小、但会改变使用感受的细节。&lt;/p&gt;
+&lt;p&gt;App Store： &lt;a href=&quot;https://apps.apple.com/app/id6794661378&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/id6794661378&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Current Card 官网： &lt;a href=&quot;https://cc.cooperhu.dev&quot; rel=&quot;nofollow&quot;&gt;https://cc.cooperhu.dev&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;个人主页： &lt;a href=&quot;https://cooperhu.dev&quot; rel=&quot;nofollow&quot;&gt;https://cooperhu.dev&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -87,6 +93,63 @@ App 出海，依靠 AI 来做开发，定位为满足长尾需求，在 X 平台
       <guid>v2ex-1239092</guid>
       <pubDate>Thu, 03 Sep 2026 01:35:37 GMT</pubDate>
       <description>35 岁即将失业，英语差，想去报班，去面试要求全英面试的企业，是不是一条出路</description>
+    </item>
+    <item>
+      <title>公司要在每个人工位上安装监控摄像头，感觉都没心思工作了</title>
+      <link>https://www.v2ex.com/t/1239194</link>
+      <guid>v2ex-1239194</guid>
+      <pubDate>Thu, 03 Sep 2026 05:47:44 GMT</pubDate>
+      <description>最近公司的高管已经下达命令，要在每个人工位上安装监控摄像头，监控研发所有人的工作情况，离开座位的情况。&lt;br /&gt;&lt;br /&gt;听到这个消息，真的是太窒息了。&lt;br /&gt;&lt;br /&gt;也问了问 AI ，看看有什么方法可以反制。&lt;br /&gt;&lt;br /&gt;和同事聊了聊，他说之前他上家公司也这样，公司都这样。&lt;br /&gt;&lt;br /&gt;我也是挺无语的。国内真的是垃圾公司太多了。</description>
+    </item>
+    <item>
+      <title>失业马上半年了，还没找到工作~~</title>
+      <link>https://www.v2ex.com/t/1239103</link>
+      <guid>v2ex-1239103</guid>
+      <pubDate>Thu, 03 Sep 2026 01:53:40 GMT</pubDate>
+      <description>&lt;p&gt;工作经验接近 5 年吧，后端开发，过完今个月也差不多半年没找到工作了。虽然期间短暂干过 1 个半月时间。短暂工作： &lt;a href=&quot;https://www.v2ex.com/t/1227566&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1227566&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;从 7 月底到现在没有一个 offer, 虽然期间有约过几个面试，后续也被我推了。推掉原因：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;不再想继续干之前业务（海聊，有点灰且行业不景气，上一份被干掉原因也是其一吧）。之前有一个面试准备去的，无聊点了一下他们产品。海外发行，但是有国内业务，把我吓得立刻推掉了，我也不太想被大巴车请去喝茶。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;面试没有准备充足。最近沉迷 vibecoding ，折腾一些小工具之类，面试资料都是临时看的，静下心来又感觉忘记掉了，临阵退缩便推掉面试了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;（广深）现在几乎都是外包市场，小公司几乎都不招人，即使招人要求也特别高。&lt;/p&gt;
+&lt;p&gt;最近也遇到的奇葩事也让我寒心了，如：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;x 软外包：某 Hr 电话说，你们之前大厂外包裁员也赔偿的呀（一种惊讶，不屑又疑惑的语气说到）？妈蛋，大家明知到东西，HR 居然摆上桌面，我当时心里 mmp 。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;某不知名 A 公司：10k 岗位（我肯定是不投的，但是他邀请，随缘投了一下，便有后续），5 年经验，还需要背调你的流水等等信息。我反问道，月薪 10k ，5 年工作经验，也需要背调这么多信息？然后没后续。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;某不知名 B 公司：3-5 年经验，签劳务合同，10k ，不缴社保，你自己灵活就业。（机器人推给我的）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;xx 外包等：大概是 6 月份求职期间，遇到过几次体验极差的面试。对方经常在傍晚快 6 点临近下班的时间点，在没有任何前置预约或沟通的情况下直接来电要求立刻面试。印象最深的一次是我刚从超市买菜回来，手里拎着大包小包走在路上，突然就接到电话问“现在能不能聊”。体验非常差，随后我直接拉这些公司都拉黑了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;最近一直在想要不转行，我能转啥？除写代码我也不知道能干啥。回顾这 5 个月的求职期，因深知外部环境严峻，稍微休整后便开启了简历投递。如今回想，在这糟糕周期里，反倒不如当初直接给自己安排旅游玩玩。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>吐个槽：都 2026 年了 电脑竟然中病毒了</title>
+      <link>https://www.v2ex.com/t/1239107</link>
+      <guid>v2ex-1239107</guid>
+      <pubDate>Thu, 03 Sep 2026 02:04:30 GMT</pubDate>
+      <description>&lt;p&gt;经过：本想录个 Omarchy 视频分享，想随便找个开源屏幕录制程序让国产 AI 推荐一个👉 &lt;a href=&quot;https://captura-zh.com.cn/&quot; rel=&quot;nofollow&quot;&gt;https://captura-zh.com.cn/&lt;/a&gt; （警告：钓鱼网站无护甲不要打开！不要打开！）官网看着挺正常，也从来没想过谁嚣张到能把病毒木马直接裸挂网站上，下载双击一下安装程序发现桌面没有程序图标——顿时一惊已经意识到中招了  &lt;/p&gt;
+&lt;p&gt;结果所料，任务管理器查看多出几个 aB8pIM.exe/gubT4QNB.exe 一眼就是病毒的进程，查杀自动重启，尝试安装火绒发现驱动安装报错，强制安装完整个火绒目录竟然被删除了——火绒没装完就直接阵亡了； Windows Defender 无法打开；尝试下载 360 发现 &lt;a href=&quot;https://www.360.cn&quot; rel=&quot;nofollow&quot;&gt;https://www.360.cn&lt;/a&gt; 无法连接，去修改 hosts 发现没有权限……&lt;/p&gt;
+&lt;p&gt;处理：让 Opencode 分析查杀一遍后安装 360 应急，打开提示“你的组织使用适用于企业的应用控制阻止程序运行”，360 也阵亡了——让 AI 继续分析解除 WDAC （ Windows Defender Application Control ）的&quot;验证和信誉&quot;策略（强制模式）阻断，重启终于装了火绒，全盘扫描终于暂告一段落  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;有想练手的可以去看看，也不知道怎么举报投诉钓鱼网站&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;病毒家族特征：&lt;br/&gt;
+伪装：计划任务伪装成&quot;Microsoft Edge 更新任务&quot;，注册表项伪装成&quot;Tencent/Alibaba SecurityHealth&quot;
+多进程互拉：3GHwSl 作为看门狗进程，通过计划任务自动重启，并重建被删除的注册表项和 hosts 劫持&lt;br/&gt;
+文件保护：病毒文件设置 Hidden+System 属性，并对 Users 组添加 DENY 删除权限的 ACL&lt;br/&gt;
+阻断安全软件：修改 hosts 阻断 360 等安全网站，关闭 Windows Defender 服务，篡改 Windows 代码完整性策略文件 C:\Windows\System32\CodeIntegrity\SiPolicy.p7b ，通过 WDAC （ Windows Defender Application Control ）的&quot;验证和信誉&quot;策略（强制模式）阻止火绒、360 等安全软件运行。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
