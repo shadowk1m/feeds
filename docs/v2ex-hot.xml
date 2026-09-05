@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 05 Sep 2026 10:49:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:35:56 GMT</lastBuildDate>
     <item>
       <title>现在做什么技术的最容易找工作</title>
       <link>https://www.v2ex.com/t/1239623</link>
@@ -34,6 +34,13 @@
       <description>又是上大学，今天有个同事找我推荐，吓，全新的拯救者这么贵，又比去年贵了 3000 。。。京东随便哪个新的都是 1 万以上。&lt;br /&gt;&lt;br /&gt;电脑市场很乱，之前自己竟然花 4500 从 PPD 买了一台 thinkpad E15 。再看看那些翻新机带显卡才 3000 左右的价格。买过 2 次 PDD 的 ThinkPad 官翻机旗舰店 ，机器倒是像 99 新，E16 4199/T16 3791,但价格波动很大。&lt;br /&gt;&lt;br /&gt;大家有买过成色好，使用稳定的网店嘛。真不应该掺合人家这种买电脑的事情，有问题麻烦多多。无奈钱包票票少。</description>
     </item>
     <item>
+      <title>我又又又重构了我的站点</title>
+      <link>https://www.v2ex.com/t/1239655</link>
+      <guid>v2ex-1239655</guid>
+      <pubDate>Sat, 05 Sep 2026 03:42:43 GMT</pubDate>
+      <description>接上次帖子，站点重构 &lt;a target=&quot;_blank&quot; href=&quot;/t/1227951&quot; rel=&quot;nofollow noopener&quot;&gt;/t/1227951&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;地址： &lt;a target=&quot;_blank&quot; href=&quot;https://www.oolaf.top&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.oolaf.top&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;1. 我又重构了我的页面 UI ，增加了黑夜白天模式，增加了 agent （虽然很弱）&lt;br /&gt;2. 一点点扣细节，自我感觉相对比之前提升了很多，下面会贴图&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;之前的：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://s2.oolaf.top/oolaf/oolaf/2026/08/13/15/15/e8c93979e42970c8b59eadf5ccc5319e.webp&quot; rel=&quot;nofollow noopener&quot;&gt;https://s2.oolaf.top/oolaf/oolaf/2026/08/13/15/15/e8c93979e42970c8b59eadf5ccc5319e.webp&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;现在的:&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://pub-d2a6dcd506134792b1c8284b7b32c7ec.r2.dev/gallery/1/ec427db9-f2b6-4325-a24f-1ff7efcb9e81.webp&quot; rel=&quot;nofollow noopener&quot;&gt;https://pub-d2a6dcd506134792b1c8284b7b32c7ec.r2.dev/gallery/1/ec427db9-f2b6-4325-a24f-1ff7efcb9e81.webp&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;大家看看，还有哪些改进的空间 🙏</description>
+    </item>
+    <item>
       <title>GPT-6 Astra - 新的 O1 时刻</title>
       <link>https://www.v2ex.com/t/1239617</link>
       <guid>v2ex-1239617</guid>
@@ -60,17 +67,6 @@ Reasoning tokens included in output: 19,230&lt;/p&gt;
 我个人的猜测是：他们可能用上了一直在 pro 上使用和测试的技术，并行推理和推理剪枝（以及从 OAI 还可以测试“告诉模型存在 CoT monitor 后，它会不会主动缩短 CoT”能看出这应该不是潜空间）。&lt;/p&gt;
 &lt;p&gt;但是不管 OAI 是如何实现如此之高推理效率，他只能说明一件事情：大模型的推理范式又发生了重大改变，这项我们迟早会在其他开源模型上看到的技术（比如 deepseek r1 模仿 O1 ），极大的利好小型开源模型，因为他可以更加充分利用本就小的内存或者显存。&lt;/p&gt;
 &lt;p&gt;怎么说呢，虽然我一直在骂 5.6 和 OAI / Codex ，但是他们能够引领两个时代的大模型范式改变依然说明作为前沿厂商的引领技术潮流的能力&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Scout 是不是一个常用语</title>
-      <link>https://www.v2ex.com/t/1239571</link>
-      <guid>v2ex-1239571</guid>
-      <pubDate>Fri, 04 Sep 2026 11:03:50 GMT</pubDate>
-      <description>&lt;p&gt;一直用 gpt ，被迫灌输了 scout 的意义：原意侦察，指扫描仓库找出相关代码。&lt;/p&gt;
-&lt;p&gt;今天 gpt 卡得要死就换成了 deepseek flash 0731 ， 就说了一句“实现 xxx 会有哪些修改点，scout 一下”，结果它在那转了十分钟……&lt;/p&gt;
-&lt;p&gt;展开 thinking 一看，一直在找 scout 是什么意思，翻了仓库没有，翻了文档没有，翻了 git log 没有……😂😂&lt;/p&gt;
-&lt;p&gt;😂大模型也有语言障碍吗，还是说 scout 是 gpt 独特用语&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -105,11 +101,33 @@ Reasoning tokens included in output: 19,230&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>我又又又重构了我的站点</title>
-      <link>https://www.v2ex.com/t/1239655</link>
-      <guid>v2ex-1239655</guid>
-      <pubDate>Sat, 05 Sep 2026 03:42:43 GMT</pubDate>
-      <description>接上次帖子，站点重构 &lt;a target=&quot;_blank&quot; href=&quot;/t/1227951&quot; rel=&quot;nofollow noopener&quot;&gt;/t/1227951&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;地址： &lt;a target=&quot;_blank&quot; href=&quot;https://www.oolaf.top&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.oolaf.top&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;1. 我又重构了我的页面 UI ，增加了黑夜白天模式，增加了 agent （虽然很弱）&lt;br /&gt;2. 一点点扣细节，自我感觉相对比之前提升了很多，下面会贴图&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;之前的：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://s2.oolaf.top/oolaf/oolaf/2026/08/13/15/15/e8c93979e42970c8b59eadf5ccc5319e.webp&quot; rel=&quot;nofollow noopener&quot;&gt;https://s2.oolaf.top/oolaf/oolaf/2026/08/13/15/15/e8c93979e42970c8b59eadf5ccc5319e.webp&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;现在的:&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://pub-d2a6dcd506134792b1c8284b7b32c7ec.r2.dev/gallery/1/ec427db9-f2b6-4325-a24f-1ff7efcb9e81.webp&quot; rel=&quot;nofollow noopener&quot;&gt;https://pub-d2a6dcd506134792b1c8284b7b32c7ec.r2.dev/gallery/1/ec427db9-f2b6-4325-a24f-1ff7efcb9e81.webp&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;大家看看，还有哪些改进的空间 🙏</description>
+      <title>汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了</title>
+      <link>https://www.v2ex.com/t/1239707</link>
+      <guid>v2ex-1239707</guid>
+      <pubDate>Sat, 05 Sep 2026 09:21:51 GMT</pubDate>
+      <description>&lt;h2&gt;官网&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://conflux.kami.asia&quot; rel=&quot;nofollow&quot;&gt;https://conflux.kami.asia&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Apple Store 地址&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/hk/app/id6787873453&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/hk/app/id6787873453&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;特性&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;apple 全家桶，多端 icloud  自动同步数据和配置&lt;/li&gt;
+&lt;li&gt;支持看弹幕，并且还能发送弹幕（抖音调研中）&lt;/li&gt;
+&lt;li&gt;云端开播通知，主播开播后，1 分钟内收到推送&lt;/li&gt;
+&lt;li&gt;自定义弹幕样式、热词显示、屏蔽关键词正则等自定义能力&lt;/li&gt;
+&lt;li&gt;iOS 画中画并支持画中画弹幕&lt;/li&gt;
+&lt;li&gt;iOS 支持 3 套好看的主题&lt;/li&gt;
+&lt;li&gt;macOS 支持新窗口打开，并置顶，摸鱼神器&lt;/li&gt;
+&lt;li&gt;免费版可以体验核心能力，完整版解锁全部能力&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;想直接购买懒得等开奖的朋友，也可以直接私信我索要 5 折券，折扣后仅需 2.49 美元&lt;/h2&gt;
+&lt;h2&gt;macOS 端&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://conflux.kami.asia/danmaku-compose.webp&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;iOS 端&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://conflux.kami.asia/preview-iphone.webp&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;tvOS 端&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://conflux.kami.asia/appletv-home.webp?v=20260822&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
