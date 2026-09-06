@@ -4,14 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 06 Sep 2026 15:58:23 GMT</lastBuildDate>
-    <item>
-      <title>难绷，太相信 ai 了😭</title>
-      <link>https://www.v2ex.com/t/1239751</link>
-      <guid>v2ex-1239751</guid>
-      <pubDate>Sat, 05 Sep 2026 16:59:48 GMT</pubDate>
-      <description>workbuddy 的混元 3 模型，之前免费期用的还不错，感觉不比其他模型弱，一度让我重拾对混元模型的信任，结果今天调了一上午的 UI ，结果午睡前跑了个命令，一觉起来发现 UI 给我改的面目全非(ﾉ｀⊿´)ﾉ。&lt;br /&gt;让回退，说某个文件删了，他没办法还原，让我自己从备份还原，这就是不看 ai 思考的后果吗🥲</description>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 18:00:48 GMT</lastBuildDate>
     <item>
       <title>AndroMeld：最好的 Android 与 Mac 连续互通方案，新增远程连接 [送码]</title>
       <link>https://www.v2ex.com/t/1239786</link>
@@ -153,6 +146,13 @@ KWF7TKRJJFYNFKHKKP
       <pubDate>Sun, 06 Sep 2026 04:14:00 GMT</pubDate>
       <description>&lt;p&gt;法拍 iPhone 要是只有开机密码、没有 ID 密码，这 ID 到底能不能解啊？我本来想拍台当备用机，但一直不敢下手。可那些参拍的人咋就那么敢冲？有没有真拍过的大佬，来聊聊到底有没有成功把原 ID 给搞掉的？&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>昨天，用了六年多的 VMESS+WS+TLS+CDN 的配置终于被墙了</title>
+      <link>https://www.v2ex.com/t/1239792</link>
+      <guid>v2ex-1239792</guid>
+      <pubDate>Sun, 06 Sep 2026 04:42:47 GMT</pubDate>
+      <description>CDN 用的 cloudflare ，没用优选 IP ，一直觉得两个域名实在太麻烦了。而且俺网络学得不好，很多概念没搞清楚。&lt;br /&gt;&lt;br /&gt;IP 和协议应该同时被墙。首先 IPv4 的地址 ping 不通了，IPv6 还能 ping 通。遂让本地 v2ray 客户端改成 IPv6 ，但仍然连不上。&lt;br /&gt;&lt;br /&gt;现在暂时用着其它协议，这几年出了很多新协议，VMESS 好像确实有点过时了。另外不知道 V 友有什么 CDN 推荐没有，没有信用卡，付费或者限时免费的就算了。</description>
     </item>
   </channel>
 </rss>
