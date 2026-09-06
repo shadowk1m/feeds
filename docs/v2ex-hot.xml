@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 06 Sep 2026 04:52:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 09:01:39 GMT</lastBuildDate>
     <item>
       <title>汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了</title>
       <link>https://www.v2ex.com/t/1239707</link>
@@ -42,25 +42,124 @@
       <description>workbuddy 的混元 3 模型，之前免费期用的还不错，感觉不比其他模型弱，一度让我重拾对混元模型的信任，结果今天调了一上午的 UI ，结果午睡前跑了个命令，一觉起来发现 UI 给我改的面目全非(ﾉ｀⊿´)ﾉ。&lt;br /&gt;让回退，说某个文件删了，他没办法还原，让我自己从备份还原，这就是不看 ai 思考的后果吗🥲</description>
     </item>
     <item>
-      <title>给我整乐呵了，商汤上了 deepseek v4 flash 和 pro</title>
-      <link>https://www.v2ex.com/t/1239687</link>
-      <guid>v2ex-1239687</guid>
-      <pubDate>Sat, 05 Sep 2026 07:42:27 GMT</pubDate>
-      <description>大概率是自己部署的，不清楚量化程度，有 1M 上下文&lt;br /&gt;我测试了 deepseek v4 flash ，输出比较忙，只有 40t/s 的水平（牛来水平）&lt;br /&gt;目前公测，仅用免费挡位，5 小时窗口 60000 积分，周额度 600000 积分（ 10 倍 5 小时）&lt;br /&gt;但是有意思的是，在我测试 deepseekv4flash 的时候，1M 的 token ，80%的缓存，大约用了 2000 积分&lt;br /&gt;也就是说它 5 小时窗口有 30M 的 deepseek v4 flash ，一周有 3 亿&lt;br /&gt;这个是免费的啊？&lt;br /&gt;笑，甚至还有个生图模型</description>
-    </item>
-    <item>
-      <title>外接显示器时，你会把 Mac 打开作为副屏用吗？</title>
-      <link>https://www.v2ex.com/t/1239671</link>
-      <guid>v2ex-1239671</guid>
-      <pubDate>Sat, 05 Sep 2026 06:01:15 GMT</pubDate>
-      <description>本来外接两台显示器，但副显示器和桌面音响有点冲突，桌面实在不好摆。&lt;br /&gt;&lt;br /&gt;现在改成只接一台显示器，Mac 盒盖使用后，桌面一下整洁了不少。&lt;br /&gt;&lt;br /&gt;但不知道为什么，总感觉 Mac 一直盒盖着，有点浪费……</description>
-    </item>
-    <item>
       <title>拼多多购物体验真的是很恶心</title>
       <link>https://www.v2ex.com/t/1239770</link>
       <guid>v2ex-1239770</guid>
       <pubDate>Sun, 06 Sep 2026 01:32:23 GMT</pubDate>
       <description>以前: 拼团是到时间自动成团的, 现在自己开 3 人团, 不成团都给我退款了.&lt;br /&gt;拉人退款: 网上找了个一起拼团的, 我再拉了个朋友拼然后他退款, 成团了但是平台又给我退款了.&lt;br /&gt;商品视频评论找人拼图: 这个是要去商品视频评论区有人一起拼, 然后入团, 或者自己发个多多视频, 然后去评论区拉人...&lt;br /&gt;&lt;br /&gt;好久没在拼多多买东西, 没想到现在买个东西这么麻烦了...&lt;br /&gt;平常也没在拼多多买什么东西, 想起以前有补贴的时候买手机, 都给我退了, 真有优惠时平台反而都不想卖给你, 耍用户像耍猴, 真狗.</description>
+    </item>
+    <item>
+      <title>AndroMeld：最好的 Android 与 Mac 连续互通方案，新增远程连接 [送码]</title>
+      <link>https://www.v2ex.com/t/1239786</link>
+      <guid>v2ex-1239786</guid>
+      <pubDate>Sun, 06 Sep 2026 03:32:24 GMT</pubDate>
+      <description>&lt;p&gt;（本文全人工撰写，AI 含量 0% 请放心阅读）&lt;/p&gt;
+&lt;p&gt;AndroMeld 是一款的 Android 和 Mac 连续互通工具。&lt;/p&gt;
+&lt;p&gt;仅需 ADB 无线调试，无需 Root 。我们以简驭繁，将及其复杂的技术细节融入了极简的 UI 中。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://andromeld.catchingnow.com&quot; rel=&quot;nofollow&quot;&gt;官方网址&lt;/a&gt; | Mac App Store：&lt;a href=&quot;https://apps.apple.com/cn/app/andromeld-manager-for-android/id6762439757&quot; rel=&quot;nofollow&quot;&gt;国区&lt;/a&gt;｜&lt;a href=&quot;https://apps.apple.com/us/app/andromeld-manager-for-android/id6762439757&quot; rel=&quot;nofollow&quot;&gt;美区&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;招牌功能：融合模式（ Meld Mode ）&lt;/h2&gt;
+&lt;p&gt;把手机手机上的 App 变成 Mac 端「原生应用」，每个 App 独立成窗，随意缩放。&lt;/p&gt;
+&lt;p&gt;它并非类似 scrcpy 的简单投屏：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;每个 App 拥有独立的 Dock 图标、独立的 Mac 菜单集成。&lt;/li&gt;
+&lt;li&gt;与 Mac 红绿灯区域无缝融合的沉浸外观，深浅色跟随 Mac 系统设置而非 Android 系统设置&lt;/li&gt;
+&lt;li&gt;支持和 Mac 互相拖拽文件&lt;/li&gt;
+&lt;li&gt;中文输入法、摄像头、麦克风、触摸板也会调用 &lt;strong&gt;Mac 硬件而非 Android 硬件&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;AndroMeld 介绍截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/7xvE2b3U.webp&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;AndroMeld 可以做什么&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;传文件？打开 Finder 就可以看到你的 Android 手机存储。&lt;/li&gt;
+&lt;li&gt;搜照片？在电脑上直接打开你的手机相册 App ，拖动照片到 Mac 。&lt;/li&gt;
+&lt;li&gt;收短信，发微信？直接在 Mac 打开手机短信、手机微信。在 Android 里打字时直接用 Mac 输入法。&lt;/li&gt;
+&lt;li&gt;复制验证码？通知会自动转发到 Mac 通知中心。&lt;/li&gt;
+&lt;li&gt;连手机热点？低功耗蓝牙通讯帮助你一点即开。&lt;/li&gt;
+&lt;li&gt;同步剪贴板？文本、图片都支持，特别适配微信等传输困难户。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;使用场景&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;上班摸鱼，显示器直接刷手机短视频&lt;/li&gt;
+&lt;li&gt;下班游戏，电脑上多开手机游戏，一个窗口玩，一个窗口查攻略&lt;/li&gt;
+&lt;li&gt;文件传输，电脑上管理手机相册&lt;/li&gt;
+&lt;li&gt;有些特别 App 不想在电脑上装，直接用手机里的顶上&lt;/li&gt;
+&lt;li&gt;远程访问，手机放公司，在家也可以用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;连接方式&lt;/h2&gt;
+&lt;p&gt;同时支持 USB 有线和无线连接。&lt;/p&gt;
+&lt;p&gt;有线连接适用于高速传输，摄影发烧友实测超 300G 的照片视频目录，传输遍历不卡顿。&lt;/p&gt;
+&lt;p&gt;（超过 100G 的大量传输推荐使用 USB 3.0 数据线，额外适配算法更高效）&lt;/p&gt;
+&lt;p&gt;无线连接更加便捷，让你的手机随叫随到。&lt;/p&gt;
+&lt;p&gt;技术细节：我们同时打通了 mDNS 局域网自动发现、手机 WiFi 桥接、低功耗蓝牙、远程 WebRTC……不论是普通家庭网络还是防火墙严苛的公司，总有一个能跑通。&lt;/p&gt;
+&lt;h2&gt;新功能：远程连接&lt;/h2&gt;
+&lt;p&gt;最近新支持远程连接。配对后，利用 FCM 消息远程唤醒手机，WebRTC 技术点对点通讯，手机不在身边也能使用。&lt;/p&gt;
+&lt;p&gt;国内很多运营商屏蔽了点对点通讯，为此我们开发了开源部署脚本，可以&lt;a href=&quot;https://github.com/heruoxin/webrtc_turn&quot; rel=&quot;nofollow&quot;&gt;一键部署到 Cloudflare&lt;/a&gt;，免费流量 1000G 每月。&lt;/p&gt;
+&lt;h2&gt;更新了什么？&lt;/h2&gt;
+&lt;p&gt;除了远程连接，还添加了非常多新功能：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;摄像头互通&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;既可以在 Mac App 中使用 Android 手机摄像头，也可以在 Android 镜像中使用 Mac 笔记本摄像头。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;文件拖拽增强&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以前文件拖拽需要 Android 16+，现在我们夜以继日终于攻克下放到了所有 Android 12+ 手机。现在你可以直接拖电脑文件到手机微信发送，也可以直接从手机相册拖照片到 Mac 。&lt;/p&gt;
+&lt;p&gt;（注：文件拖出需要 App 适配，已测试 Google 相册、华为相册等均支持）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;游戏模式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;为游戏传输优化，完全重写的 ACK 算法，画面传输更即时，支持切换 HDR 显示输出。支持放置虚拟摇杆，使用 WASD 键盘操作，全屏幕触摸自定义键盘快捷键。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;更深度的 Mac 系统集成&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;除了已有的 Handoff 、Mac 触控板手势，最近还新接入了 Spotlight 、Alfred 、Raycast 插件，你可以像启动 Mac 应用一样启动 Android 应用，或者直接把图标摆到 Mac 桌面上。&lt;/p&gt;
+&lt;p&gt;此外，我们还面向未来，已完成 macOS 触摸屏支持适配。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;AndroMeld 介绍截图 2&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/3N78C6eZ.webp&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;系统要求&lt;/h2&gt;
+&lt;p&gt;macOS 15+&lt;/p&gt;
+&lt;p&gt;最低可运行版本 Android 12+&lt;/p&gt;
+&lt;p&gt;推荐 Android 14+，完整实现所有功能需要 Android 16+。&lt;/p&gt;
+&lt;h2&gt;售价&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;同时支持订阅和买断：&lt;/strong&gt;目前国区买断价格为 88 元（印尼等区价格更低，美区/欧盟等更高）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;宽松的免费额度：&lt;/strong&gt;不付费也可以体验 App 中的所有功能，容量限制非常宽松（每周可启动镜像 30 次，文件写入 5G ，读取不限。额度每周重置）。&lt;/p&gt;
+&lt;h2&gt;送码&lt;/h2&gt;
+&lt;p&gt;贴出 10 个激活码，用了后请回复，避免其他人重复尝试。如果可以的话请帮我在 App Store 写个好评：
+（如果您是美区 ID 的话希望可以用英文，收到美国用户的疑惑为什么美区评论全是中文…）&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;T7R46EANJ8Y4EL6HWF
+TPHWTXFEJL3L4PJ4KA
+XNXKTTJ7N3KRHJMW73
+YRWW6YNWN7A366W6L7
+TMWWA7RERM473666MR
+XNW6W3ANXHW8P7P7PR
+A7PJR87FMNYKPEJPRK
+FMNWNK6EE6HEJAL7LN
+KY8A3FKXMNX8EF3FLE
+KWF7TKRJJFYNFKHKKP
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;之后会在评论里抽多批次，送码给回帖的朋友。到时我会 at 中奖的 ID 。优质内容的评论优先。&lt;/p&gt;
+&lt;p&gt;AndroMeld 官网： &lt;a href=&quot;https://andromeld.catchingnow.com&quot; rel=&quot;nofollow&quot;&gt;https://andromeld.catchingnow.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;或 Mac App Store：&lt;a href=&quot;https://apps.apple.com/cn/app/andromeld-manager-for-android/id6762439757&quot; rel=&quot;nofollow&quot;&gt;国区&lt;/a&gt;｜&lt;a href=&quot;https://apps.apple.com/us/app/andromeld-manager-for-android/id6762439757&quot; rel=&quot;nofollow&quot;&gt;美区&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;关于我&lt;/h2&gt;
+&lt;p&gt;我算是古墓派的独立开发者了。从剪纸堆、Inputting+、冰箱 IceBox 、通知滤盒，到 AndroMeld ，在 V2EX 分享创造区发帖已经十多年了。冰箱也曾经是从这里开始，从 0 走向一万、十万、百万下载。谢谢这里的大家。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>GPT 6 Astra 重构的我的博客首页，有点喜欢</title>
+      <link>https://www.v2ex.com/t/1239777</link>
+      <guid>v2ex-1239777</guid>
+      <pubDate>Sun, 06 Sep 2026 02:38:15 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://justin3go.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://justin3go.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;提示词就不赘述了，代码都是开源的，直接叫 AI 参考一下就 O 了</description>
+    </item>
+    <item>
+      <title>22 小时用掉了 GPT 3 个 reset，做了个科普网站，看看 Astra 能力上限</title>
+      <link>https://www.v2ex.com/t/1239774</link>
+      <guid>v2ex-1239774</guid>
+      <pubDate>Sun, 06 Sep 2026 01:56:12 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/mEi4FTb9.gif&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;200 刀的 GPT ，加上一开始的额度，也就是整整用掉了一个月的额度……&lt;/p&gt;
+&lt;p&gt;科普动画，希望把生活中有意思的东西都可视化，从齿轮到大模型，面向青少年，大人看也有意思的。&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&quot;https://vistep.ai/&quot; rel=&quot;nofollow&quot;&gt;主页&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&quot;https://github.com/int64ago/vistep&quot; rel=&quot;nofollow&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>卧槽 GPT-6 Astra 就是 AGI。</title>
@@ -69,13 +168,6 @@
       <pubDate>Sat, 05 Sep 2026 13:16:01 GMT</pubDate>
       <description>&lt;p&gt;刚刚开着语音跟 AI 聊着天,就把两个 App 的构建、部署、提审都推进完了,真的有种未来突然到了的感觉。但兴奋过后也有点不安:这么强的能力,如果只有有钱人用得起,会不会让本来就有资源的人越来越强?当资本和政府掌握更强的 AI,普通人得到的会是更多自由还是更少选择?我希望 AI 带来的不只是少数人的效率暴涨,而是普通人也能更有能力改变自己的生活。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>几个网友分享的 GPT-6-Astra 编写的游戏和 Web 页面</title>
-      <link>https://www.v2ex.com/t/1239697</link>
-      <guid>v2ex-1239697</guid>
-      <pubDate>Sat, 05 Sep 2026 08:41:31 GMT</pubDate>
-      <description>今天看到的，有点惊艳到我了&lt;br /&gt;&lt;br /&gt;无限庭院：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://infinite-garden.yelin8130.chatgpt.site/&quot; rel=&quot;nofollow noopener&quot;&gt;https://infinite-garden.yelin8130.chatgpt.site/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;超级马里奥：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/&quot; rel=&quot;nofollow noopener&quot;&gt;https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;NBA2k:&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://huhuhu.page.gd/COURTSIDE26.html&quot; rel=&quot;nofollow noopener&quot;&gt;https://huhuhu.page.gd/COURTSIDE26.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Web 三国游戏：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://sanguo-wind-cloud.amery2010.workers.dev/&quot; rel=&quot;nofollow noopener&quot;&gt;https://sanguo-wind-cloud.amery2010.workers.dev/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;植物大战僵尸：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://seth-xh.github.io/pvz/&quot; rel=&quot;nofollow noopener&quot;&gt;https://seth-xh.github.io/pvz/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;瓜体实验室：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://melon-game.jack-514.chatgpt.site/&quot; rel=&quot;nofollow noopener&quot;&gt;https://melon-game.jack-514.chatgpt.site/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;小丑牌：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://balatro-v1-1.longyh2333521818.chatgpt.site/&quot; rel=&quot;nofollow noopener&quot;&gt;https://balatro-v1-1.longyh2333521818.chatgpt.site/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;mosswing-quiet-flight：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://mosswing-quiet-flight.jack-514.chatgpt.site/&quot; rel=&quot;nofollow noopener&quot;&gt;https://mosswing-quiet-flight.jack-514.chatgpt.site/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;候鸟：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://houniao-model-battle-20260721.netlify.app/&quot; rel=&quot;nofollow noopener&quot;&gt;https://houniao-model-battle-20260721.netlify.app/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;CS 沙漠 2 地图：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://dust-ii-map.yelin8130.chatgpt.site/&quot; rel=&quot;nofollow noopener&quot;&gt;https://dust-ii-map.yelin8130.chatgpt.site/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;RB19 交互仿真：&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://rb19-engineering-lab.moraxc.chatgpt.site/&quot; rel=&quot;nofollow noopener&quot;&gt;https://rb19-engineering-lab.moraxc.chatgpt.site/&lt;/a&gt;</description>
     </item>
     <item>
       <title>一个 MonoRepo 复杂系统的部署问题</title>
