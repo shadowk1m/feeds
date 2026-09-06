@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 05 Sep 2026 22:27:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:05:36 GMT</lastBuildDate>
     <item>
       <title>现在做什么技术的最容易找工作</title>
       <link>https://www.v2ex.com/t/1239623</link>
@@ -101,6 +101,13 @@
 </description>
     </item>
     <item>
+      <title>给我整乐呵了，商汤上了 deepseek v4 flash 和 pro</title>
+      <link>https://www.v2ex.com/t/1239687</link>
+      <guid>v2ex-1239687</guid>
+      <pubDate>Sat, 05 Sep 2026 07:42:27 GMT</pubDate>
+      <description>大概率是自己部署的，不清楚量化程度，有 1M 上下文&lt;br /&gt;我测试了 deepseek v4 flash ，输出比较忙，只有 40t/s 的水平（牛来水平）&lt;br /&gt;目前公测，仅用免费挡位，5 小时窗口 60000 积分，周额度 600000 积分（ 10 倍 5 小时）&lt;br /&gt;但是有意思的是，在我测试 deepseekv4flash 的时候，1M 的 token ，80%的缓存，大约用了 2000 积分&lt;br /&gt;也就是说它 5 小时窗口有 30M 的 deepseek v4 flash ，一周有 3 亿&lt;br /&gt;这个是免费的啊？&lt;br /&gt;笑，甚至还有个生图模型</description>
+    </item>
+    <item>
       <title>GPT-6 Astra - 新的 O1 时刻</title>
       <link>https://www.v2ex.com/t/1239617</link>
       <guid>v2ex-1239617</guid>
@@ -128,13 +135,6 @@ Reasoning tokens included in output: 19,230&lt;/p&gt;
 &lt;p&gt;但是不管 OAI 是如何实现如此之高推理效率，他只能说明一件事情：大模型的推理范式又发生了重大改变，这项我们迟早会在其他开源模型上看到的技术（比如 deepseek r1 模仿 O1 ），极大的利好小型开源模型，因为他可以更加充分利用本就小的内存或者显存。&lt;/p&gt;
 &lt;p&gt;怎么说呢，虽然我一直在骂 5.6 和 OAI / Codex ，但是他们能够引领两个时代的大模型范式改变依然说明作为前沿厂商的引领技术潮流的能力&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>外接显示器时，你会把 Mac 打开作为副屏用吗？</title>
-      <link>https://www.v2ex.com/t/1239671</link>
-      <guid>v2ex-1239671</guid>
-      <pubDate>Sat, 05 Sep 2026 06:01:15 GMT</pubDate>
-      <description>本来外接两台显示器，但副显示器和桌面音响有点冲突，桌面实在不好摆。&lt;br /&gt;&lt;br /&gt;现在改成只接一台显示器，Mac 盒盖使用后，桌面一下整洁了不少。&lt;br /&gt;&lt;br /&gt;但不知道为什么，总感觉 Mac 一直盒盖着，有点浪费……</description>
     </item>
   </channel>
 </rss>
