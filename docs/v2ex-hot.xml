@@ -4,65 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 10 Sep 2026 06:09:41 GMT</lastBuildDate>
-    <item>
-      <title>V2Echo iOS 客户端 TestFlight 内测招募｜前 50 名赠送 Pro 永久权益</title>
-      <link>https://www.v2ex.com/t/1240689</link>
-      <guid>v2ex-1240689</guid>
-      <pubDate>Wed, 09 Sep 2026 06:41:42 GMT</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;V2Echo ，愿你的每一次诉说都有回声。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;大家好，我是 V2Echo 的开发者。&lt;/p&gt;
-&lt;p&gt;V2Echo 是一款 V2EX 第三方客户端，目前已实现浏览、搜索、登录、发帖、回复和通知等功能，V2Echo 使用 SwiftUI 原生构建，支持 iOS 18 及以上版本，并适配了 iOS 26 的 Liquid Glass 。这次准备先通过 TestFlight 邀请 &lt;strong&gt;50 位用户&lt;/strong&gt; 参与内测（参与方式见下方），测试不同设备和网络环境下的使用情况。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;注：V2Echo 为非官方客户端，与 V2EX 官方没有隶属或合作关系。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;App 截图一览&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.imgdd.com/b01bccd1-1b03-452a-86cf-511309f4b1f2.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;主要功能&lt;/h2&gt;
-&lt;h3&gt;主题阅读&lt;/h3&gt;
-&lt;p&gt;帖子详情页使用 SwiftUI 原生组件渲染正文和回复，不加载内嵌网页。针对长帖滚动和图片加载做了性能优化。&lt;/p&gt;
-&lt;p&gt;支持首页分类切换、节点和成员浏览、主题收藏。正文支持 Markdown 、代码、表格和图片；回复支持切换排序、只看楼主。图片可放大、翻页和保存。&lt;/p&gt;
-&lt;h3&gt;首页多 Tab 定制（ Pro ）&lt;/h3&gt;
-&lt;p&gt;Pro 用户可以调整顶部 Tab 顺序、添加或移除节点，并从前两个 Tab 中选择启动默认页。最近访问和常去节点免费提供，记录保存在本机。&lt;/p&gt;
-&lt;h3&gt;回复定位（ Pro ）&lt;/h3&gt;
-&lt;p&gt;从通知或个人主页的最近回复进入主题时，Pro 用户可以跨页查找并高亮对应评论。&lt;/p&gt;
-&lt;h3&gt;发帖与草稿&lt;/h3&gt;
-&lt;p&gt;支持 Markdown 编辑、预览和图片插入。Pro 用户可以将未完成的帖子主动保存到草稿箱，之后继续编辑。草稿保存在当前设备，暂不支持跨设备同步。&lt;/p&gt;
-&lt;h2&gt;免费功能与 Pro 权益&lt;/h2&gt;
-&lt;p&gt;浏览、搜索、登录、发帖、回复、收藏、查看通知、最近访问和阅读字号等常用功能免费，其中搜索功能由 &lt;a href=&quot;https://www.sov2ex.com/&quot; rel=&quot;nofollow&quot;&gt;SOV2EX&lt;/a&gt; 提供。&lt;/p&gt;
-&lt;p&gt;V2Echo Pro 采用一次性买断，包含以下功能：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;代理管理&lt;/strong&gt;：添加、编辑自备代理，测试连接并切换使用。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;夜间模式&lt;/strong&gt;：手动切换浅色、深色外观，或跟随系统设置。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;首页定制&lt;/strong&gt;：调整顶部 Tab 顺序，添加或移除节点，并从前两个 Tab 中选择启动默认页。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;通知回复直达&lt;/strong&gt;：从通知进入主题，跨页查找并高亮对应回复，减少手动翻页。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;历史回复定位&lt;/strong&gt;：从个人主页的最近回复进入原帖，查找对应评论，查看上下文。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;发帖草稿箱&lt;/strong&gt;：在本机保存标题、正文和所选节点，之后可继续编辑或删除草稿。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;V2Echo Pro 是本客户端的功能权益，与 V2EX 官方 PRO 身份、站内余额无关。代理服务器和账号需自行提供。&lt;/p&gt;
-&lt;h2&gt;内测名额与会员回馈&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;本轮为前 50 位有效报名用户预留 iOS 版 V2Echo Pro 永久权益，按本帖提供有效邮箱的报名回复顺序统计，每人一份，资格会在邀请邮件中确认。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;App 正式上线后，我会将兑换码及兑换说明统一发送到报名时提供的邮箱。兑换成功后无需续费，请在邮件注明的有效期内完成兑换。&lt;/p&gt;
-&lt;p&gt;前 50 名内测名额满后会通过附言说明；&lt;strong&gt;后续通过公开链接加入内测不附赠 Pro 权益。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TestFlight 中的内购为免费测试，不会实际扣款；测试购买不会自动转为 App Store 正式版权益，正式版需使用后续收到的兑换码。&lt;/p&gt;
-&lt;h2&gt;参与方式&lt;/h2&gt;
-&lt;p&gt;设备要求：iOS 18 或以上，本轮以 iPhone 为主。请先安装 TestFlight 。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在本帖回复你的邮箱，直接填写或使用 Base64 编码均可。我会按报名顺序发送邮件邀请，请留意收件箱及垃圾邮件文件夹。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;兑换码会发送到本次报名邮箱，请保留该邮箱的使用权限。通过公开链接加入的用户，其邮箱不会在 TestFlight 后台显示。&lt;/p&gt;
-&lt;h2&gt;测试反馈&lt;/h2&gt;
-&lt;p&gt;问题和建议可以回复本帖，也可以通过 TestFlight 提交。希望重点测试：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;登录、两步验证、发帖和回复；&lt;/li&gt;
-&lt;li&gt;长帖翻页、回复定位和返回列表后的滚动位置；&lt;/li&gt;
-&lt;li&gt;中英文混排、代码、图片及小屏幕布局；&lt;/li&gt;
-&lt;li&gt;卡顿、闪退和异常发热；&lt;/li&gt;
-&lt;li&gt;其他你觉得有问题、有待改进的功能等等。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;反馈时请附上机型、系统版本和复现步骤，截图或日志中请遮盖私人信息。发帖、回复和感谢等操作会提交到真实 V2EX 账号。&lt;/p&gt;
-&lt;p&gt;测试期间的更新或其他事项会在本帖附言或评论中补充。感谢参与～&lt;/p&gt;
-&lt;p&gt;Telegram 讨论组：&lt;a href=&quot;https://t.me/+GUFq6Dob8tQzNGE1&quot; rel=&quot;nofollow&quot;&gt;加入 V2Echo 内测讨论组&lt;/a&gt;
-&lt;img alt=&quot;Telegram 入群二维码&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.imgdd.com/320f4e17-99e3-4145-b5b3-f31b43497eee.jpg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 11:33:38 GMT</lastBuildDate>
     <item>
       <title>iPhone Duo 并没有多惊艳</title>
       <link>https://www.v2ex.com/t/1240866</link>
@@ -70,53 +12,6 @@
       <pubDate>Thu, 10 Sep 2026 00:21:28 GMT</pubDate>
       <description>&lt;p&gt;手机拿出来的时候也就 UI 有点意思，其他地方并没有什么惊艳的地方，不支持实体卡，软件适配还是个问题，V2er 会冲吗&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>汤家凤与胡锡进英语主科争议事件总结（网友戏称 “胡辣汤大战”）</title>
-      <link>https://www.v2ex.com/t/1240711</link>
-      <guid>v2ex-1240711</guid>
-      <pubDate>Wed, 09 Sep 2026 07:38:51 GMT</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;汤家凤（考研数学名师） VS 胡锡进（媒体人）&lt;/strong&gt;，导火索是辽宁中考改革方案：历史、地理、生物改为考查科目，不计入中考总分。&lt;/p&gt;
-&lt;h2&gt;一、事件起因&lt;/h2&gt;
-&lt;p&gt;9 月 3 日，汤家凤看到辽宁中考调整消息，发文表示&lt;strong&gt;不应该削减历史权重&lt;/strong&gt;，如果要减负，应该把英语移出主科、降低应试权重，由此引发全网热议，胡锡进发文反驳，双方隔空论战。&lt;/p&gt;
-&lt;h2&gt;二、汤家凤核心观点&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;英语只是工具，&lt;strong&gt;不应该全民高强度应试&lt;/strong&gt;。绝大多数普通人毕业后工作用不上英语，学生从小投入大量时间刷题学英语，挤压语文、历史等母语与文史学科学习时间。&lt;/li&gt;
-&lt;li&gt;原话：母语还没学好就死磕英语，放眼全世界都是笑话；“中国人崇洋媚外的历史该结束了”。&lt;/li&gt;
-&lt;li&gt;他&lt;strong&gt;不是废除英语这门课&lt;/strong&gt;，而是主张：英语不再是核心主科、降低中高考分值权重；需要用到英语的人（科研、外贸等）可以后续按需学习，加上 AI 翻译发展，不必所有人都卷英语应试。&lt;/li&gt;
-&lt;li&gt;后续回应：不认同被扣上极端民族主义的标签，公开邀请胡锡进进行视频公开辩论。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;三、胡锡进核心反驳观点&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;英语是获取全球前沿知识、科研文献的重要工具，大量顶尖学术资料是英文，砍掉英语主科地位会锁死普通人接触世界知识的通道。&lt;/li&gt;
-&lt;li&gt;英语是寒门学子的上升通道。如果校内弱化英语，富裕家庭会靠课外补习维持英语能力，&lt;strong&gt;反而加剧教育不公平&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;批评汤家凤把学英语这件事和 “崇洋媚外” 绑定，属于偏激、意识形态化，发言里使用了情绪化措辞。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;四、舆论与后续&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-话题迅速登顶热搜，网友分成两派：&lt;ul&gt;
-&lt;li&gt;支持汤家凤：很多家长反感英语应试内卷、补课负担重；&lt;/li&gt;
-&lt;li&gt;支持胡锡进：认为英语是科研、国际交流必备能力，降权重会限制个人发展上限。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;多地教育局也收到网友相关提问，官方回复是&lt;strong&gt;优化英语教学，减少机械刷题，不会取消英语主科&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;重要提醒：两人都只是发表&lt;strong&gt;个人观点&lt;/strong&gt;，并不代表教育政策将要调整。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;五、双方分歧本质&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;汤家凤：反感&lt;strong&gt;全民应试英语内卷&lt;/strong&gt;，优先保障历史、母语教育，英语回归工具属性，按需学习。&lt;/li&gt;
-&lt;li&gt;胡锡进：看重英语作为&lt;strong&gt;获取外部知识的基础能力&lt;/strong&gt;，担心降低主科权重带来教育分层、封闭知识视野。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;你们觉得谁对谁错呢&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>咸鱼的小法庭机制真是妙啊</title>
-      <link>https://www.v2ex.com/t/1240703</link>
-      <guid>v2ex-1240703</guid>
-      <pubDate>Wed, 09 Sep 2026 07:12:07 GMT</pubDate>
-      <description>当买卖双方发生交易纠纷需要平台介入时&lt;br /&gt;如果平台直接介入，耗费人力物力不说，买卖双方的矛盾很容易升级成和平台之间的矛盾&lt;br /&gt;&lt;br /&gt;这时骚操作就来了--咸鱼小法庭，结果有三种：&lt;br /&gt;小法庭维护了公平正义--&amp;gt;平台不需要人力介入，无成本解决问题&lt;br /&gt;小法庭投票结果使买卖一方不满时--&amp;gt;平台出来打圆场，往往能以比直接介入更低的成本解决问题&lt;br /&gt;小法庭真搞出了乱子--&amp;gt;平台真正介入，之前责任可以甩的一干二净&lt;br /&gt;&lt;br /&gt;咸鱼小法庭由用户受邀组成，他们没有工资，没有报酬，无偿为平台维护着‘公平正义’，是‘活雷锋’&lt;br /&gt;这里的多数人思想极端，认知业余，投票随意。当然可能真有一些热心肠，但属极少数&lt;br /&gt;他们的画像是现实中身处社会底层无话语权转而在网上找存在感的 losers ，每次投票都仿佛掌握了命运的审判权&lt;br /&gt;&lt;br /&gt;一招以暴制暴，放狗咬狗，坐收渔利。想出这套机制的人，真 TMD 是个天才&lt;br /&gt;对人性的利用比滴滴匹配乘客司机策略更胜一筹哇，真妙</description>
     </item>
     <item>
       <title>高一男孩从班里前四滑到不敢进学校，请假在家也焦虑，有过来人吗？</title>
@@ -134,6 +29,25 @@
 &lt;p&gt;一、有没有自己经历过、或者家里孩子经历过类似阶段，后来走出来的？当时是怎么走出来的？转折点是什么？&lt;/p&gt;
 &lt;p&gt;二、他父母目前的理解还停留在&quot;孩子不想上学&quot;，怎么跟他们说，才能让他们意识到这可能不只是不想上学的问题？&lt;/p&gt;
 &lt;p&gt;三、回学校这件事的节奏怎么把控？是应该硬送回去，还是先缓一缓？缓的话，怎么缓才不会越缓越回不去？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>如何充值 chatgpt？ 救救孩子吧</title>
+      <link>https://www.v2ex.com/t/1240984</link>
+      <guid>v2ex-1240984</guid>
+      <pubDate>Thu, 10 Sep 2026 04:09:00 GMT</pubDate>
+      <description>&lt;p&gt;首先，Apple 礼品卡这条路已经走不通了。 之前有一个美区 apple id 然后也这样充值过，但是后来由于使用的不够小心， 被 chatgpt 封了号，当然啦， 这个 apple id 也就废了。&lt;/p&gt;
+&lt;p&gt;上个月，注册了一个新的 apple id ，这个 apple id 可能触发了风控。现在必须要求绑定美区账号对应的地址的信用卡。 当然我是不可能有这张信用卡的（中国人，没出过国）。 现在这个美国 apple id 都无法在 apple store 中下载免费软件。&lt;/p&gt;
+&lt;p&gt;目前 Google Pay 还没试过，因为没有安卓设备。 &lt;/p&gt;
+&lt;p&gt;这里求助各位大帅哥大美女们，还有什么其他可行的方案吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>为啥现在华为风评变化这么大</title>
+      <link>https://www.v2ex.com/t/1241048</link>
+      <guid>v2ex-1241048</guid>
+      <pubDate>Thu, 10 Sep 2026 07:34:12 GMT</pubDate>
+      <description>&lt;p&gt;记得当时孟女士访华……那网上是红旗招展，人山人海啊……但是现在再去 B 站去看当年的视频，弹幕基本上全变了&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -190,14 +104,12 @@
 </description>
     </item>
     <item>
-      <title>苹果首款折叠屏手机名字敲定就叫 iPhone Duo
-
-Duo 怎么读呢 多?嘟噢?</title>
-      <link>https://www.v2ex.com/t/1240720</link>
-      <guid>v2ex-1240720</guid>
-      <pubDate>Wed, 09 Sep 2026 08:01:22 GMT</pubDate>
-      <description>&lt;p&gt;有点期待明天的发布会&lt;/p&gt;
-&lt;p&gt;不知道明天会不会有折叠屏评测&lt;/p&gt;
+      <title>现在教师节收礼已经这么明目张胆了吗</title>
+      <link>https://www.v2ex.com/t/1240939</link>
+      <guid>v2ex-1240939</guid>
+      <pubDate>Thu, 10 Sep 2026 02:55:28 GMT</pubDate>
+      <description>&lt;p&gt;小孩在幼儿园，昨天老师就直接和小孩子们说明天教师节了你们准备送老师什么礼物。&lt;/p&gt;
+&lt;p&gt;今天听其他家长说送各种京东卡盒马卡蟹卡化妆品之类五花八门的。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -208,6 +120,20 @@ Duo 怎么读呢 多?嘟噢?</title>
       <description>温和不刺激皮肤，目前在用 freeplus ，想看看有没有别的推荐</description>
     </item>
     <item>
+      <title>openai，我 qnmd！</title>
+      <link>https://www.v2ex.com/t/1241024</link>
+      <guid>v2ex-1241024</guid>
+      <pubDate>Thu, 10 Sep 2026 06:24:37 GMT</pubDate>
+      <description>用着 astra 的钱给我 5.5mini 的模型&lt;br /&gt;环境搞坏了紧急修复直接不给用了&lt;br /&gt;一个月花 1500 刀就给这样的体验？？？&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/xS8zqsl.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/xS8zqsl.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/IdwNeoU.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/IdwNeoU.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/vQoxSjG.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/vQoxSjG.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>感觉手里的 12pm 快坚持不住了，换的话推荐换哪款</title>
+      <link>https://www.v2ex.com/t/1240889</link>
+      <guid>v2ex-1240889</guid>
+      <pubDate>Thu, 10 Sep 2026 01:27:32 GMT</pubDate>
+      <description>感觉手里的 12pm 快坚持不住了，换的话推荐换哪款</description>
+    </item>
+    <item>
       <title>头大，到底要怎么宣传自己的产品啊</title>
       <link>https://www.v2ex.com/t/1240867</link>
       <guid>v2ex-1240867</guid>
@@ -216,14 +142,6 @@ Duo 怎么读呢 多?嘟噢?</title>
 &lt;p&gt;每天只有一两个新用户，该怎么推广。&lt;/p&gt;
 &lt;p&gt;自媒体也在发，不过只有 100 个粉丝...&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.xiaohongshu.com/user/profile/57f3621fbd0da508a9c5e7f8&quot; rel=&quot;nofollow&quot;&gt;我的小红书&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>人在美国，可以帮助到国内兄弟做什么呢？</title>
-      <link>https://www.v2ex.com/t/1240781</link>
-      <guid>v2ex-1240781</guid>
-      <pubDate>Wed, 09 Sep 2026 10:34:45 GMT</pubDate>
-      <description>&lt;p&gt;今天有人让帮买美区 Apple 礼品卡&lt;/p&gt;
 </description>
     </item>
   </channel>
