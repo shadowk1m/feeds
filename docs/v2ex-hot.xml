@@ -4,96 +4,98 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 11 Sep 2026 01:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:12:37 GMT</lastBuildDate>
     <item>
-      <title>如何充值 chatgpt？ 救救孩子吧</title>
-      <link>https://www.v2ex.com/t/1240984</link>
-      <guid>v2ex-1240984</guid>
-      <pubDate>Thu, 10 Sep 2026 04:09:00 GMT</pubDate>
-      <description>&lt;p&gt;首先，Apple 礼品卡这条路已经走不通了。 之前有一个美区 apple id 然后也这样充值过，但是后来由于使用的不够小心， 被 chatgpt 封了号，当然啦， 这个 apple id 也就废了。&lt;/p&gt;
-&lt;p&gt;上个月，注册了一个新的 apple id ，这个 apple id 可能触发了风控。现在必须要求绑定美区账号对应的地址的信用卡。 当然我是不可能有这张信用卡的（中国人，没出过国）。 现在这个美国 apple id 都无法在 apple store 中下载免费软件。&lt;/p&gt;
-&lt;p&gt;目前 Google Pay 还没试过，因为没有安卓设备。 &lt;/p&gt;
-&lt;p&gt;这里求助各位大帅哥大美女们，还有什么其他可行的方案吗？&lt;/p&gt;
+      <title>Anthropic 点名多家中国公司蒸馏 Claude，包括 Qwen, kimi, deepseek, glm, xiaomi, Minimax</title>
+      <link>https://www.v2ex.com/t/1241298</link>
+      <guid>v2ex-1241298</guid>
+      <pubDate>Fri, 11 Sep 2026 04:25:53 GMT</pubDate>
+      <description>还公布了很多细节：“这些公司通过代理服务、大量账号、转发用户请求、提取 Claude 的 reasoning / CoT 等方式获取训练数据，再用于 SFT 、RL 或训练自己的模型”&lt;br /&gt;&lt;br /&gt;坦白讲，我并不意外，但这些数据全部被公开，感觉有点难看。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.anthropic.com/threat-intelligence-report-september-2026&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.anthropic.com/threat-intelligence-report-september-2026&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>大家会跟同事或者领导说自己用 Ai 完成需求吗？</title>
+      <link>https://www.v2ex.com/t/1241204</link>
+      <guid>v2ex-1241204</guid>
+      <pubDate>Fri, 11 Sep 2026 00:58:53 GMT</pubDate>
+      <description>&lt;p&gt;当一个非常规的开发需求，比如爬取数据、整理表格数据，类似这种常规做法需要耗时但 Ai 又很轻松能做完的工作，会跟同事或者领导说自己用 Ai 高效的完成工作吗？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>现在教师节收礼已经这么明目张胆了吗</title>
-      <link>https://www.v2ex.com/t/1240939</link>
-      <guid>v2ex-1240939</guid>
-      <pubDate>Thu, 10 Sep 2026 02:55:28 GMT</pubDate>
-      <description>&lt;p&gt;小孩在幼儿园，昨天老师就直接和小孩子们说明天教师节了你们准备送老师什么礼物。&lt;/p&gt;
-&lt;p&gt;今天听其他家长说送各种京东卡盒马卡蟹卡化妆品之类五花八门的。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>AirPods 5 应该算是等等党胜利的一集吧，音质/降噪/续航提升，价格下降（主动降噪）</title>
-      <link>https://www.v2ex.com/t/1240959</link>
-      <guid>v2ex-1240959</guid>
-      <pubDate>Thu, 10 Sep 2026 03:18:32 GMT</pubDate>
-      <description>&lt;p&gt;默认版本就含主动降噪了，999 元&lt;/p&gt;
-&lt;p&gt;加 150 元获得：&lt;/p&gt;
+      <title>把老站重做了一遍： Windows 10/11 精简版、全量版、LTSC，装完基本不用再配</title>
+      <link>https://www.v2ex.com/t/1241226</link>
+      <guid>v2ex-1241226</guid>
+      <pubDate>Fri, 11 Sep 2026 01:51:04 GMT</pubDate>
+      <description>&lt;p&gt;断断续续折腾 Windows 部署和优化挺久了，最近把之前的站点重新迁移整理了一遍，
+放到 &lt;a href=&quot;http://wlite.cn&quot; rel=&quot;nofollow&quot;&gt;wlite.cn&lt;/a&gt; 上。&lt;/p&gt;
+&lt;p&gt;站上主要放这几类东西：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;更长续航（ 4 小时 -&amp;gt; 5 小时）&lt;/li&gt;
-&lt;li&gt;耳机柄调节音量&lt;/li&gt;
-&lt;li&gt;无线充电盒&lt;/li&gt;
+&lt;li&gt;Windows 10 / 11 的各种版本：精简版、全量版、原版、LTSC ，另外还有 WinPE&lt;/li&gt;
+&lt;li&gt;每个镜像都是自己装过、跑过一轮才发出来的，不是从别处转的&lt;/li&gt;
+&lt;li&gt;装完系统通常要装的软件都集成好了：压缩、备份还原、磁盘分析、截图、
+运行库、输入法这些，装完基本不用再自己配一遍&lt;/li&gt;
+&lt;li&gt;系统本身干净，没有夹带推广，主页和默认搜索也不会被动&lt;/li&gt;
+&lt;li&gt;做了一些比较省心的调整，日常用起来不用再折腾&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;下单了 1149 的版本，18 号去店里取，希望戴着舒服&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>感觉手里的 12pm 快坚持不住了，换的话推荐换哪款</title>
-      <link>https://www.v2ex.com/t/1240889</link>
-      <guid>v2ex-1240889</guid>
-      <pubDate>Thu, 10 Sep 2026 01:27:32 GMT</pubDate>
-      <description>感觉手里的 12pm 快坚持不住了，换的话推荐换哪款</description>
-    </item>
-    <item>
-      <title>如何培养一个爱好</title>
-      <link>https://www.v2ex.com/t/1240883</link>
-      <guid>v2ex-1240883</guid>
-      <pubDate>Thu, 10 Sep 2026 01:15:33 GMT</pubDate>
-      <description>&lt;p&gt;以前还会玩玩游戏，后来开始看小说，现在小说都懒得看开始刷漫剧了，感觉要废了。工作方面以前 AI 没出来前还会去看看一些东西，现在有 AI 了都懒得看了。运动方面也懒得动，主要是没搭子。其他烧饭做菜之类的喜欢做菜但是一个人，吃不完还懒得洗碗。对于养宠物，总觉得要铲屎也好麻烦，太懒了，现在每天就是公司家里两点一线，感觉好无聊都不知道干啥了～，&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>程序员未来会怎么样? 我们的护城河感觉已经干涸了</title>
-      <link>https://www.v2ex.com/t/1240910</link>
-      <guid>v2ex-1240910</guid>
-      <pubDate>Thu, 10 Sep 2026 02:04:47 GMT</pubDate>
-      <description>&lt;p&gt;在想一个问题：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;用 AI 写代码快一年多了，很多日常开发基本都是丢给 AI 解决了, 基本都是等待它解决问题。
-我感觉，未来 1 ～ 2 年程序员这个职业不会消失，但人数会明显减少。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;尤其是这几类：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;CRUD 、接口、后台管理这类重复开发&lt;/li&gt;
-&lt;li&gt;初级程序员&lt;/li&gt;
-&lt;li&gt;外包、驻场、纯需求执行型开发&lt;/li&gt;
-&lt;li&gt;只熟悉框架和语法，但业务能力比较弱的人&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;以后可能会变成：&lt;/p&gt;
+&lt;p&gt;起因挺简单的：帮朋友装机，装完原版还得再花一两个小时装软件、调设置，
+后来干脆一次都弄好。&lt;/p&gt;
+&lt;p&gt;技术上是 NodeBB 改的，前端自己调，顺手把 SEO 那些也做了一遍。&lt;/p&gt;
+&lt;p&gt;想听听实际的反馈：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;一个比较强的开发，配合 AI ，干一个团队的活&lt;/li&gt;
+&lt;li&gt;这种&quot;装完就能用&quot;的思路，真用起来会不会觉得哪里多余，或者还缺什么&lt;/li&gt;
+&lt;li&gt;站点的分类结构和下载体验上，有什么可以改的&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;我现在比较疑惑的是：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;如果代码越来越不值钱，那程序员最后真正值钱的到底是什么？
-是业务理解、架构设计、需求拆解、排查问题，还是别的？
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;也想听听大家真实的判断：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;你觉得未来 2 年程序员的境况会如何? &lt;/li&gt;
-&lt;li&gt;最先被淘汰的是哪一批 (感觉现在前端已经消失了)？&lt;/li&gt;
-&lt;li&gt;如果不会淘汰我们，你觉得 AI 最终替代不了程序员的核心原因是什么？&lt;/li&gt;
-&lt;li&gt;最好别聊太远，就聊未来几年，结合自己公司现在实际看到的情况。&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;站里有个会员功能（主要是下载加速和资源），我准备了 10 个兑换码，
+回帖的朋友里随机抽 10 位发，有需要的回帖说一声就行。&lt;/p&gt;
+&lt;p&gt;地址： &lt;a href=&quot;https://wlite.cn&quot; rel=&quot;nofollow&quot;&gt;https://wlite.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎来试，也欢迎直接拍砖。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/sS4vcMo.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/71HY2WN.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/dGHUc48&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>ai 编程目前依然是普通人最好的杠杆</title>
-      <link>https://www.v2ex.com/t/1240993</link>
-      <guid>v2ex-1240993</guid>
-      <pubDate>Thu, 10 Sep 2026 04:41:51 GMT</pubDate>
-      <description>和投资、实体生意、打工相对比&lt;br /&gt;投资你可能需要盯盘，需要经常关注一些行业资讯&lt;br /&gt;实体生意成本太重，风险很大&lt;br /&gt;打工，以时间换钱，加班越多，去医院的概率越大。&lt;br /&gt;&lt;br /&gt;目前，ai 编程目前依然是普通人最好的杠杆&lt;br /&gt;&lt;br /&gt;我用 ai 编程做了十几个网站，虽然只有 3 个有稳定营收，但都是被动收入，成本可控，还都是线上生意。&lt;br /&gt;还不需要购买服务器，使用 cf 全家桶就可以很快搭建一个网站。&lt;br /&gt;&lt;br /&gt;而且现在 ai 模型这么强大，想要复刻一个同行网站，简直闭着眼就能做。&lt;br /&gt;&lt;br /&gt;就比如，gpt image 2.5 已经上线了，找找 api ，完全可以做一个套壳站赚点小钱。&lt;br /&gt;&lt;br /&gt;还能收点美刀，何乐不为？&lt;br /&gt;&lt;br /&gt;这个帖子发到程序员节点，&lt;br /&gt;是因为我知道大部分程序员技术很牛，但做的东西都是闭门造车，没有从市场角度出发&lt;br /&gt;&lt;br /&gt;你们相信吗？&lt;br /&gt;&lt;br /&gt;评论区见。</description>
+      <title>一直有个疑问，感觉用 cursor 的人很少</title>
+      <link>https://www.v2ex.com/t/1241125</link>
+      <guid>v2ex-1241125</guid>
+      <pubDate>Thu, 10 Sep 2026 10:44:52 GMT</pubDate>
+      <description>身边人大多都是 codex ，少量 ClaudeCode ，cursor 除了我自己以外我就只知道 1 个人在用，论 v2 上讨论热度，cursor 也是几乎查无此人，好像只有我一个人用的非常爽。&lt;br /&gt;&lt;br /&gt;我自己是 60 美刀订阅，公司报销正好覆盖（公司内部主要是 codebuddy ，不爱用的人有 500 块钱报销额度），我给我老婆也搞了个 cursor20 美刀的订阅日常办公用（非程序员）。&lt;br /&gt;&lt;br /&gt;我现在用量大概是这样的，opus5 做 plan ，grok4.6 extrahigh 做执行，工作量大概是一天忙到没空摸鱼的程度，先不论 cursor 的 other model 的消耗，就 cursor model 的消耗我 1 天才 1%，几乎等于用不完，就 cursor grok4.6 extra high 的能力来说，我觉得是非常好用的，配合 skill 和 &lt;a target=&quot;_blank&quot; href=&quot;http://agent.md&quot; rel=&quot;nofollow noopener&quot;&gt;agent.md&lt;/a&gt; ，工作上的东西基本都是一次过。&lt;br /&gt;&lt;br /&gt;然后我在想，这是不是幸存者偏差，因为充值能支付宝，用起来也没有说不够用的情况，智商也还可以，并且也没有重置这么个套路，所以就没人来讨论，导致显得没人用呢？</description>
+    </item>
+    <item>
+      <title>躺平是不是版本答案？</title>
+      <link>https://www.v2ex.com/t/1241205</link>
+      <guid>v2ex-1241205</guid>
+      <pubDate>Fri, 11 Sep 2026 01:05:40 GMT</pubDate>
+      <description>1.不工作：现在工作难找，就算有工作也很累。如果没结婚没娃没房贷，到小地方租房躺平真的很划算。而且上班交那么多社保，到退休领的估计只够喝稀饭。&lt;br /&gt;2.不结婚：没有彩礼没有乱七八糟的家庭关系。&lt;br /&gt;3.不买房：不用花高价住鸽子楼，也不用给 zf 和银行打工。&lt;br /&gt;4.不生娃：生娃除了能给自己情感反馈，其他基本是负收益。你看 4 岁娃事件，这只是生活中的小事，其他麻烦事更多。&lt;br /&gt;ps:我结婚有娃没房没车在上班，但是好想躺平呀</description>
+    </item>
+    <item>
+      <title>Duo 真的很不苹果</title>
+      <link>https://www.v2ex.com/t/1241080</link>
+      <guid>v2ex-1241080</guid>
+      <pubDate>Thu, 10 Sep 2026 08:13:33 GMT</pubDate>
+      <description>&lt;p&gt;仔细数一数，Duo 一台手机上，一个内屏，一个外屏，一个折叠形态下的前置摄像头（非屏下），一个折叠形态下的后置摄像头模组，一个展开形态下的前置摄像头（屏下），侧边还有电源键+action button ，这些“多余”的设计真的非常不苹果，当年苹果可是宁愿砍掉 home 键，愿景是造出一整块玻璃当作屏幕的，但是在 Duo 上却充满了妥协，我知道这是目前的物理学能做到的极限了，但是这样一个极度机械式、拼接式的产品真的非常非常不苹果，充满了平庸，没有以往苹果产品给人的“浑然一体”的感觉，整体看下来松松垮垮的，这些真成了 not only apple can do 了。&lt;/p&gt;
+&lt;p&gt;唯一让人眼前一亮的就是屏下摄像头这个设计，这本来应该是最符合苹果气质的，但是它的位置也设计得很别扭，既不在边角也不在主屏幕的空白边距内，居然会和 app 图标重叠，不确定是硬件限制不能放到边上还是为了配合灵动岛，不明白为什么不和折叠状态下的前置一样放在右上角。&lt;/p&gt;
+&lt;p&gt;整个 Duo 最苹果的地方就是折叠展开的过渡动画，但是这个也是实现起来最简单的，在硬件上几乎没有惊喜，真的很难想象这会是苹果的产品。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>更新下广州前端工程师这两个礼拜找工作的情况</title>
+      <link>https://www.v2ex.com/t/1241146</link>
+      <guid>v2ex-1241146</guid>
+      <pubDate>Thu, 10 Sep 2026 12:44:06 GMT</pubDate>
+      <description>&lt;p&gt;没有沟通，都不是没有面试机会，没有沟通机会，有点太夸张了，真是 gap 的太久了，看来前端真的完犊子了，之前以为 35 岁才会来的事情，30 岁就来了，那种 3 五年经验的前端岗位是不是就不可能找 8 年经验了。咱程序员真是可惜了，我高考 3500 名的理科，最后落得这样还是有点须臾&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>最近几月大家用 ai 开发之后，还会加班吗？</title>
+      <link>https://www.v2ex.com/t/1241211</link>
+      <guid>v2ex-1241211</guid>
+      <pubDate>Fri, 11 Sep 2026 01:20:58 GMT</pubDate>
+      <description>&lt;p&gt;前几月 gpt5.5 和 claude4.6 出来之前的不算，当时 ai 算力还不够，还会用 ai 经常调试几遍，&lt;/p&gt;
+&lt;p&gt;可最近明显感觉身边开发的同事和朋友&lt;strong&gt;下班越来越早&lt;/strong&gt;，ai 写的代码会自己控制电脑检查，最后给你一个完整的版本，&lt;strong&gt;基本上都是一遍过。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;再也回不到当年一个 bug 运行报错，吭哧吭哧加班到深夜才解决后的那种&lt;strong&gt;快感和成就满足感&lt;/strong&gt;，&lt;/p&gt;
+&lt;p&gt;以前别人都说&lt;strong&gt;程序员加班严重&lt;/strong&gt;，现在这个帽子可以摘掉了嘛？&lt;/p&gt;
+&lt;p&gt;问心自问，&lt;strong&gt;工作的开发需求量还真需要你加班才能完成吗？还是表演式加班？&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
