@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 12 Sep 2026 21:05:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 23:06:31 GMT</lastBuildDate>
     <item>
       <title>讨论一下在手机上编程是不是伪需求</title>
       <link>https://www.v2ex.com/t/1241482</link>
@@ -30,16 +30,6 @@
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/UwA7ML3.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/UwA7ML3.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如图弟兄们</description>
     </item>
     <item>
-      <title>vibe coding 的代码你怎么放心上线？</title>
-      <link>https://www.v2ex.com/t/1241529</link>
-      <guid>v2ex-1241529</guid>
-      <pubDate>Sat, 12 Sep 2026 06:00:24 GMT</pubDate>
-      <description>&lt;p&gt;用 AI 写代码节奏很快，不管是新功能的上线，还是一些 bug 的修复。&lt;/p&gt;
-&lt;p&gt;但如果上线给用户用，出问题了总会是很麻烦的事情。&lt;/p&gt;
-&lt;p&gt;大家现在有什么样的技巧或者方式去做测试呢？ DDD ？自动化测试？还是有什么测试 Harness ？&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历</title>
       <link>https://www.v2ex.com/t/1241515</link>
       <guid>v2ex-1241515</guid>
@@ -55,6 +45,16 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;文章全文：&lt;a href=&quot;https://zemo.bio/zh/posts/how-i-recovered-a-top-domain-from-serverhold/&quot; rel=&quot;nofollow&quot;&gt;如果你的 .top 域名被注册局 ServerHold 了，怎么办？&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;如果你手上有 .top 域名，建议收藏，希望你用不上，但是万一和我一样不幸。。。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>vibe coding 的代码你怎么放心上线？</title>
+      <link>https://www.v2ex.com/t/1241529</link>
+      <guid>v2ex-1241529</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:24 GMT</pubDate>
+      <description>&lt;p&gt;用 AI 写代码节奏很快，不管是新功能的上线，还是一些 bug 的修复。&lt;/p&gt;
+&lt;p&gt;但如果上线给用户用，出问题了总会是很麻烦的事情。&lt;/p&gt;
+&lt;p&gt;大家现在有什么样的技巧或者方式去做测试呢？ DDD ？自动化测试？还是有什么测试 Harness ？&lt;/p&gt;
 </description>
     </item>
     <item>
