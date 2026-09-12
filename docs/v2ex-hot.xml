@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 12 Sep 2026 13:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:36:20 GMT</lastBuildDate>
     <item>
       <title>讨论一下在手机上编程是不是伪需求</title>
       <link>https://www.v2ex.com/t/1241482</link>
@@ -48,19 +48,6 @@
 </description>
     </item>
     <item>
-      <title>兄弟们和我一起当捞女去崩老头。</title>
-      <link>https://www.v2ex.com/t/1241452</link>
-      <guid>v2ex-1241452</guid>
-      <pubDate>Fri, 11 Sep 2026 15:28:17 GMT</pubDate>
-      <description>&lt;p&gt;不好意思，标题党了。^^&lt;/p&gt;
-&lt;p&gt;这两周用白嫖额度 + OpenCode Go 剩下的月额度，一共大概烧了 20 亿 token ，用 AI 撸了个“精神小妹崩老头”主题的小游戏。游戏没接 LLM （穷），图片、官网、游戏全靠 AI 生成（自己搞不定，又挫又懒）。&lt;/p&gt;
-&lt;p&gt;域名是以前买的廉价货，无视就好。&lt;/p&gt;
-&lt;p&gt;兄弟们有空随便玩玩，但记住一条：这世道“捞女”太多，男孩子在外面一定要保护好自己 ^^。&lt;/p&gt;
-&lt;p&gt;官网： &lt;a href=&quot;https://flask.fun&quot; rel=&quot;nofollow&quot;&gt;https://flask.fun&lt;/a&gt;
-游戏： &lt;a href=&quot;https://benglaotou.flask.fun&quot; rel=&quot;nofollow&quot;&gt;https://benglaotou.flask.fun&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊</title>
       <link>https://www.v2ex.com/t/1241528</link>
       <guid>v2ex-1241528</guid>
@@ -68,23 +55,13 @@
       <description>一直用的三星 Galaxy Ultra ，好几代了，这手机各方面都挺好，但是，但是，总觉得它长了一点，瘦了一点。竖屏的时候，高度有那么一点多余了，眼睛基本只看中间那一块，横屏的时候又矮了一点，你猜怎么着，华为阔直板精准踩中需求点。今天去现场使用，单手轻度使用也是可以的。&lt;br /&gt;&lt;br /&gt;阔直板最大的好处就是看书更有感觉了，Ultra 看书要么太瘦了，要么太矮了。&lt;br /&gt;&lt;br /&gt;第一次有了换华为的冲动</description>
     </item>
     <item>
-      <title>趁 AI 的黑箱观察窗口还没关闭前，尽可能学习一些硬核的东西吧</title>
-      <link>https://www.v2ex.com/t/1241559</link>
-      <guid>v2ex-1241559</guid>
-      <pubDate>Sat, 12 Sep 2026 09:23:18 GMT</pubDate>
-      <description>最近 AI 圈的瓜不少，吃腻了。&lt;br /&gt;&lt;br /&gt;我开始更关心另一件事：&lt;br /&gt;&lt;br /&gt;**趁黑箱还没有焊死，到底有哪些东西值得现在学。**&lt;br /&gt;&lt;br /&gt;某种意义上，我们现在正站在个人电脑的早期。&lt;br /&gt;&lt;br /&gt;机箱还没封，电路图还能找到，工程师还在论坛里互相吵架，论文、模型权重、Agent 架构、Eval 、训练方法、失败案例，到处都在往外漏。&lt;br /&gt;&lt;br /&gt;因为行业还在抢用户、抢开发者、抢市场。&lt;br /&gt;&lt;br /&gt;这个阶段，大家为了证明自己更强，会主动公开很多东西；为了互相攻击，又会被迫暴露一些本来不想公开的东西。&lt;br /&gt;&lt;br /&gt;但这种状态不会一直持续。&lt;br /&gt;&lt;br /&gt;等江湖地位稳定、商业模式成熟、产品包装完善，未来我们看到的可能只剩：&lt;br /&gt;&lt;br /&gt;**Upgrade to Pro**&lt;br /&gt;&lt;br /&gt;然后产品告诉你：&lt;br /&gt;&lt;br /&gt;“无需理解任何技术，我们替你处理一切。”&lt;br /&gt;&lt;br /&gt;这对普通消费者可能是福音。&lt;br /&gt;&lt;br /&gt;但对想靠 AI 吃饭的人，意味着：&lt;br /&gt;&lt;br /&gt;**观察窗口关闭了。**&lt;br /&gt;&lt;br /&gt;商业软件天然会把“可理解的机器”，包装成“不可理解的魔法”，最后把唯一留给用户的接口做成付款按钮。&lt;br /&gt;&lt;br /&gt;因为很多所谓“神奇 AI 产品”，拆开可能不过是：&lt;br /&gt;&lt;br /&gt;OCR&lt;br /&gt;&lt;br /&gt;* 分类器&lt;br /&gt;* LLM&lt;br /&gt;* RAG&lt;br /&gt;* 几条规则&lt;br /&gt;* 一个工作流&lt;br /&gt;&lt;br /&gt;一堆原本可理解、可拆解、可替换的普通技术，被产品层焊成黑箱之后，你看到的只剩一句：&lt;br /&gt;&lt;br /&gt;“¥299/月，立即升级。”&lt;br /&gt;&lt;br /&gt;而一旦你真的看懂里面只是 A+B+C+D ，你就会开始问：&lt;br /&gt;&lt;br /&gt;**等等，这东西为什么值 ¥299 ？**&lt;br /&gt;&lt;br /&gt;所以现在真正值得抢的，不是几个 Prompt 技巧，也不是天天追谁又发了新模型。&lt;br /&gt;&lt;br /&gt;而是趁机器还没封起来，把里面的电路尽量看懂：&lt;br /&gt;&lt;br /&gt;模型怎么训练出能力，&lt;br /&gt;Agent 怎么形成轨迹，&lt;br /&gt;Judge 怎么判断结果，&lt;br /&gt;Verifier 怎么验真，&lt;br /&gt;Synthetic Data 怎么生产，&lt;br /&gt;RL Environment 怎么训练，&lt;br /&gt;Harness 怎么把模型变成能工作的系统。&lt;br /&gt;&lt;br /&gt;等有一天这些全被包装成一个漂亮按钮，再想拆，可能就晚了。</description>
-    </item>
-    <item>
-      <title>不想上班了，回老家县城躺平是否可行？</title>
-      <link>https://www.v2ex.com/t/1241455</link>
-      <guid>v2ex-1241455</guid>
-      <pubDate>Fri, 11 Sep 2026 15:40:28 GMT</pubDate>
-      <description>&lt;p&gt;在外面打工多年，感觉钱攒得差不多了，个人平时开销不大，买东西都是够用就行。买了些基金预期收益应该能覆盖日常支出。&lt;/p&gt;
-&lt;p&gt;老家是南方省份，目前县城无房，不过房价不高 4000 多吧估计，农村有近几年新建的自建房，离县城十来公里，开车 20 分钟内吧，去镇上一公里骑电瓶车几分钟。村里房子附近邻居不多没几户，不过不是偏僻的地方，就在县道边上。&lt;/p&gt;
-&lt;p&gt;已婚有一娃，个人在养娃方面也比较佛系，不会期望太高，孩子平安健康不学坏就好了。关于孩子上学，因为还小考虑没那么多，后面如果去城里读的话城里买个房也问题不大。&lt;/p&gt;
-&lt;p&gt;媳妇是一个地方的，从小农村长大，觉得农村生活反而比城里舒服。夫妻俩都算比较宅的，不爱出去玩，觉得麻烦累。&lt;/p&gt;
-&lt;p&gt;目前回家躺平也是跟媳妇商量好的完全支持我的决定，至于具体的生活方式，是完全躺平天天睡觉，还是每周或多久去城里逛逛，或者闲得无聊找点事干，还不确定只能说到时候再看了。&lt;/p&gt;
-&lt;p&gt;综上所述，回家躺平的想法感觉越来越强烈了哈哈哈。&lt;/p&gt;
+      <title>vibe coding 的代码你怎么放心上线？</title>
+      <link>https://www.v2ex.com/t/1241529</link>
+      <guid>v2ex-1241529</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:24 GMT</pubDate>
+      <description>&lt;p&gt;用 AI 写代码节奏很快，不管是新功能的上线，还是一些 bug 的修复。&lt;/p&gt;
+&lt;p&gt;但如果上线给用户用，出问题了总会是很麻烦的事情。&lt;/p&gt;
+&lt;p&gt;大家现在有什么样的技巧或者方式去做测试呢？ DDD ？自动化测试？还是有什么测试 Harness ？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -93,6 +70,17 @@
       <guid>v2ex-1241486</guid>
       <pubDate>Sat, 12 Sep 2026 01:54:42 GMT</pubDate>
       <description>rt ，佬友们有什么 100r 以下的解决办法嘛，目前在短居，上不了工学椅</description>
+    </item>
+    <item>
+      <title>你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?</title>
+      <link>https://www.v2ex.com/t/1241496</link>
+      <guid>v2ex-1241496</guid>
+      <pubDate>Sat, 12 Sep 2026 02:55:07 GMT</pubDate>
+      <description>&lt;p&gt;现在的&lt;code&gt;DeepSeek V4.1 Flash&lt;/code&gt; 很像 GPT5.4 的时候，根本不知道在说些什么, 总会造一些不存在的词, 经常使用不常用且特殊的语法，输出内容繁杂。&lt;/p&gt;
+&lt;p&gt;感觉只适合用来做调用工具完成一次性工作, 不适合项目规划、分析代码和解读文档这类工作。&lt;/p&gt;
+&lt;p&gt;例如逆向一个嵌入式固件、安装 ASR 模型来本地语音识别都完成得很好。&lt;/p&gt;
+&lt;p&gt;只要任务的最终产出不是文字就好用, 一旦产出的内容是文字需要人去看时就很痛苦。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
