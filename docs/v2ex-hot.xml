@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 12 Sep 2026 16:36:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:50:51 GMT</lastBuildDate>
     <item>
       <title>讨论一下在手机上编程是不是伪需求</title>
       <link>https://www.v2ex.com/t/1241482</link>
@@ -28,6 +28,16 @@
       <guid>v2ex-1241506</guid>
       <pubDate>Sat, 12 Sep 2026 03:35:41 GMT</pubDate>
       <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/UwA7ML3.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/UwA7ML3.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如图弟兄们</description>
+    </item>
+    <item>
+      <title>vibe coding 的代码你怎么放心上线？</title>
+      <link>https://www.v2ex.com/t/1241529</link>
+      <guid>v2ex-1241529</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:24 GMT</pubDate>
+      <description>&lt;p&gt;用 AI 写代码节奏很快，不管是新功能的上线，还是一些 bug 的修复。&lt;/p&gt;
+&lt;p&gt;但如果上线给用户用，出问题了总会是很麻烦的事情。&lt;/p&gt;
+&lt;p&gt;大家现在有什么样的技巧或者方式去做测试呢？ DDD ？自动化测试？还是有什么测试 Harness ？&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历</title>
@@ -55,21 +65,15 @@
       <description>一直用的三星 Galaxy Ultra ，好几代了，这手机各方面都挺好，但是，但是，总觉得它长了一点，瘦了一点。竖屏的时候，高度有那么一点多余了，眼睛基本只看中间那一块，横屏的时候又矮了一点，你猜怎么着，华为阔直板精准踩中需求点。今天去现场使用，单手轻度使用也是可以的。&lt;br /&gt;&lt;br /&gt;阔直板最大的好处就是看书更有感觉了，Ultra 看书要么太瘦了，要么太矮了。&lt;br /&gt;&lt;br /&gt;第一次有了换华为的冲动</description>
     </item>
     <item>
-      <title>vibe coding 的代码你怎么放心上线？</title>
-      <link>https://www.v2ex.com/t/1241529</link>
-      <guid>v2ex-1241529</guid>
-      <pubDate>Sat, 12 Sep 2026 06:00:24 GMT</pubDate>
-      <description>&lt;p&gt;用 AI 写代码节奏很快，不管是新功能的上线，还是一些 bug 的修复。&lt;/p&gt;
-&lt;p&gt;但如果上线给用户用，出问题了总会是很麻烦的事情。&lt;/p&gt;
-&lt;p&gt;大家现在有什么样的技巧或者方式去做测试呢？ DDD ？自动化测试？还是有什么测试 Harness ？&lt;/p&gt;
+      <title>有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距</title>
+      <link>https://www.v2ex.com/t/1241596</link>
+      <guid>v2ex-1241596</guid>
+      <pubDate>Sat, 12 Sep 2026 14:02:48 GMT</pubDate>
+      <description>&lt;p&gt;今天用了下 DeepSeek V4.1 Flash ，快是真 TM 的快，一直稳定接近 300tok/s ，但在做复杂任务的时候，是真的蠢啊，尤其是和 Astra 比&lt;/p&gt;
+&lt;p&gt;我今天主要是拿它们来进行一些老手游的反编译和修改（都是已下线的游戏），这个任务其实很麻烦，会遇到各种各样的难题需要模型去解决，DeepSeek 全程疯狂输出 Token ，然后遇到难题就想方案 -&amp;gt; 改代码 -&amp;gt; 问题还在 -&amp;gt; 换方案，一直在重复这样的循环，就 TM 跟鬼打墙一样，关键是这个逼速度还飞快，所以你就看到它疯狂的吐 Token ，疯狂的换方案，最后狂奔 40 多分钟问题没解决，完事还把之前的一个已经破解的模块改坏了&lt;/p&gt;
+&lt;p&gt;实在受不了于是换了 Astra High ，Codex 不会展示完整的思维链，tok/s 相比于 DeepSeek 也慢不少，所以对比之下 Astra 就像一个慢吞吞的老头，不紧不慢的，但它是真的稳啊，任何问题遇到后基本两轮之内必能找到正确的方案，然后修复，同样的时间内 DeepSeek 可能已经尝试了 10 个方案了。连续几次都是这样，DeepSeek 疯狂穷举方案反复横跳最后无果，换 Astra 1-2 轮解决&lt;/p&gt;
+&lt;p&gt;感觉高难任务上国模差距还是非常明显，虽然 Token 速度拉上来了但体验是真的差&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>木椅子坐久了，经常屁股有汗，会黏住裤衩，好不透气，怎么办</title>
-      <link>https://www.v2ex.com/t/1241486</link>
-      <guid>v2ex-1241486</guid>
-      <pubDate>Sat, 12 Sep 2026 01:54:42 GMT</pubDate>
-      <description>rt ，佬友们有什么 100r 以下的解决办法嘛，目前在短居，上不了工学椅</description>
     </item>
     <item>
       <title>你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?</title>
