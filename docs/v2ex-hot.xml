@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 12 Sep 2026 01:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 05:59:34 GMT</lastBuildDate>
     <item>
       <title>筷子不能竖着插在饭里是全国性的常识吗？</title>
       <link>https://www.v2ex.com/t/1241327</link>
@@ -19,74 +19,42 @@
 </description>
     </item>
     <item>
-      <title>把老站重做了一遍： Windows 10/11 精简版、全量版、LTSC，装完基本不用再配</title>
-      <link>https://www.v2ex.com/t/1241226</link>
-      <guid>v2ex-1241226</guid>
-      <pubDate>Fri, 11 Sep 2026 01:51:04 GMT</pubDate>
-      <description>&lt;p&gt;断断续续折腾 Windows 部署和优化挺久了，最近把之前的站点重新迁移整理了一遍，
-放到 &lt;a href=&quot;http://wlite.cn&quot; rel=&quot;nofollow&quot;&gt;wlite.cn&lt;/a&gt; 上。&lt;/p&gt;
-&lt;p&gt;站上主要放这几类东西：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Windows 10 / 11 的各种版本：精简版、全量版、原版、LTSC ，另外还有 WinPE&lt;/li&gt;
-&lt;li&gt;每个镜像都是自己装过、跑过一轮才发出来的，不是从别处转的&lt;/li&gt;
-&lt;li&gt;装完系统通常要装的软件都集成好了：压缩、备份还原、磁盘分析、截图、
-运行库、输入法这些，装完基本不用再自己配一遍&lt;/li&gt;
-&lt;li&gt;系统本身干净，没有夹带推广，主页和默认搜索也不会被动&lt;/li&gt;
-&lt;li&gt;做了一些比较省心的调整，日常用起来不用再折腾&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;起因挺简单的：帮朋友装机，装完原版还得再花一两个小时装软件、调设置，
-后来干脆一次都弄好。&lt;/p&gt;
-&lt;p&gt;技术上是 NodeBB 改的，前端自己调，顺手把 SEO 那些也做了一遍。&lt;/p&gt;
-&lt;p&gt;想听听实际的反馈：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;这种&quot;装完就能用&quot;的思路，真用起来会不会觉得哪里多余，或者还缺什么&lt;/li&gt;
-&lt;li&gt;站点的分类结构和下载体验上，有什么可以改的&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;站里有个会员功能（主要是下载加速和资源），我准备了 10 个兑换码，
-回帖的朋友里随机抽 10 位发，有需要的回帖说一声就行。&lt;/p&gt;
-&lt;p&gt;地址： &lt;a href=&quot;https://wlite.cn&quot; rel=&quot;nofollow&quot;&gt;https://wlite.cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎来试，也欢迎直接拍砖。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/sS4vcMo.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/71HY2WN.png&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/dGHUc48&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>-52% 还能回本吗</title>
-      <link>https://www.v2ex.com/t/1241315</link>
-      <guid>v2ex-1241315</guid>
-      <pubDate>Fri, 11 Sep 2026 05:57:13 GMT</pubDate>
-      <description>&lt;p&gt;有没有过来人给个经验，不加仓的情况下 -52% 死拿有希望回本吗，拿了一年多了&lt;/p&gt;
-&lt;p&gt;不甘心啊&lt;/p&gt;
-&lt;p&gt;害怕倒在黎明前&lt;/p&gt;
-&lt;p&gt;有没有经历过相同情况的大佬，回本了，给我点希望。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>真难啊，做个网站 3 个月 600 曝光， 40 次点击。</title>
-      <link>https://www.v2ex.com/t/1241297</link>
-      <guid>v2ex-1241297</guid>
-      <pubDate>Fri, 11 Sep 2026 04:17:49 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/uWVIdzh.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/uWVIdzh.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>最近几月大家用 ai 开发之后，还会加班吗？</title>
-      <link>https://www.v2ex.com/t/1241211</link>
-      <guid>v2ex-1241211</guid>
-      <pubDate>Fri, 11 Sep 2026 01:20:58 GMT</pubDate>
-      <description>&lt;p&gt;前几月 gpt5.5 和 claude4.6 出来之前的不算，当时 ai 算力还不够，还会用 ai 经常调试几遍，&lt;/p&gt;
-&lt;p&gt;可最近明显感觉身边开发的同事和朋友&lt;strong&gt;下班越来越早&lt;/strong&gt;，ai 写的代码会自己控制电脑检查，最后给你一个完整的版本，&lt;strong&gt;基本上都是一遍过。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;再也回不到当年一个 bug 运行报错，吭哧吭哧加班到深夜才解决后的那种&lt;strong&gt;快感和成就满足感&lt;/strong&gt;，&lt;/p&gt;
-&lt;p&gt;以前别人都说&lt;strong&gt;程序员加班严重&lt;/strong&gt;，现在这个帽子可以摘掉了嘛？&lt;/p&gt;
-&lt;p&gt;问心自问，&lt;strong&gt;工作的开发需求量还真需要你加班才能完成吗？还是表演式加班？&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>为一个弱智的问题 大家怎么插入的图片</title>
       <link>https://www.v2ex.com/t/1241328</link>
       <guid>v2ex-1241328</guid>
       <pubDate>Fri, 11 Sep 2026 06:32:02 GMT</pubDate>
       <description>&lt;p&gt;想问问这个初级小白的问题，怎么插入的图片啊？？？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>有些人不允许别人把筷子竖着插进饭里</title>
+      <link>https://www.v2ex.com/t/1241413</link>
+      <guid>v2ex-1241413</guid>
+      <pubDate>Fri, 11 Sep 2026 10:47:40 GMT</pubDate>
+      <description>看到了这个帖子 &lt;a target=&quot;_blank&quot; href=&quot;/t/1241327&quot; rel=&quot;nofollow noopener&quot;&gt;/t/1241327&lt;/a&gt; “筷子不能竖着插在饭里是全国性的常识吗？”&lt;br /&gt;&lt;br /&gt;于是查了下有没有别的关于碗筷的“禁忌”。有些人不允许别人：&lt;br /&gt;&lt;br /&gt;把筷子横着放在碗上；&lt;br /&gt;把筷子竖着插进饭里；&lt;br /&gt;把筷子一长一短地摆放；&lt;br /&gt;把两双筷子交叉摆放；&lt;br /&gt;用筷子敲碗、敲盘子；&lt;br /&gt;在碗里剩很多饭；&lt;br /&gt;把饭碗倒扣；&lt;br /&gt;把碗放在地上；&lt;br /&gt;用筷子叉食物；&lt;br /&gt;用筷子互相传递食物；&lt;br /&gt;吃饭前把筷子在桌上反复磕齐；&lt;br /&gt;用筷子拨碗碟、转盘；&lt;br /&gt;盛饭盛得特别高、特别尖；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;其实这些禁忌的性质相同，都是对别人行为的限制。有人觉得是礼貌，有人觉得是规矩，有人觉得是不合时宜的糟粕。但不可否认的是，来源于旧时代习俗在现代社会中正变得越来越淡薄，用不了太久就会变成小众的记忆。&lt;br /&gt;&lt;br /&gt;在我看来，别人照顾这些忌讳是情分不是本分，可以请求但不该命令、不该强迫。</description>
+    </item>
+    <item>
+      <title>讨论一下在手机上编程是不是伪需求</title>
+      <link>https://www.v2ex.com/t/1241482</link>
+      <guid>v2ex-1241482</guid>
+      <pubDate>Sat, 12 Sep 2026 01:20:44 GMT</pubDate>
+      <description>&lt;p&gt;如题，手机编程，不是手机远程电脑编程哈&lt;/p&gt;
+&lt;p&gt;个人观点是伪需求，谢谢，下一个&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>幼儿园的名单公示，打码规则是否不太合理？</title>
+      <link>https://www.v2ex.com/t/1241383</link>
+      <guid>v2ex-1241383</guid>
+      <pubDate>Fri, 11 Sep 2026 09:11:13 GMT</pubDate>
+      <description>现在幼儿园录取名单公示是这样打码的：&lt;br /&gt;姓名：真实姓名   身份证号：440***********4120&lt;br /&gt;&lt;br /&gt;后四位公示出来了，前几位地区码大概率能根据当地地方猜对，然后当年小班入学的年龄是确定的， 只有月份、日期是未知的。&lt;br /&gt;有校验位的情况下，反推出月份、日期的合规身份证号数量应不多。&lt;br /&gt;&lt;br /&gt;感觉这个打码规则不是很合理</description>
+    </item>
+    <item>
+      <title>v2ex 注册成功</title>
+      <link>https://www.v2ex.com/t/1241517</link>
+      <guid>v2ex-1241517</guid>
+      <pubDate>Sat, 12 Sep 2026 04:26:10 GMT</pubDate>
+      <description>&lt;p&gt;最终还是花钱买了个 V2EX 验证码。朋友死活不肯给我&lt;/p&gt;
 </description>
     </item>
   </channel>
