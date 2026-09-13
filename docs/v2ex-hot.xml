@@ -4,59 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 13 Sep 2026 01:13:24 GMT</lastBuildDate>
-    <item>
-      <title>讨论一下在手机上编程是不是伪需求</title>
-      <link>https://www.v2ex.com/t/1241482</link>
-      <guid>v2ex-1241482</guid>
-      <pubDate>Sat, 12 Sep 2026 01:20:44 GMT</pubDate>
-      <description>&lt;p&gt;如题，手机编程，不是手机远程电脑编程哈&lt;/p&gt;
-&lt;p&gt;个人观点是伪需求，谢谢，下一个&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>v2ex 注册成功</title>
-      <link>https://www.v2ex.com/t/1241517</link>
-      <guid>v2ex-1241517</guid>
-      <pubDate>Sat, 12 Sep 2026 04:26:10 GMT</pubDate>
-      <description>&lt;p&gt;最终还是花钱买了个 V2EX 验证码。朋友死活不肯给我&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神</title>
-      <link>https://www.v2ex.com/t/1241506</link>
-      <guid>v2ex-1241506</guid>
-      <pubDate>Sat, 12 Sep 2026 03:35:41 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/UwA7ML3.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/UwA7ML3.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如图弟兄们</description>
-    </item>
-    <item>
-      <title>vibe coding 的代码你怎么放心上线？</title>
-      <link>https://www.v2ex.com/t/1241529</link>
-      <guid>v2ex-1241529</guid>
-      <pubDate>Sat, 12 Sep 2026 06:00:24 GMT</pubDate>
-      <description>&lt;p&gt;用 AI 写代码节奏很快，不管是新功能的上线，还是一些 bug 的修复。&lt;/p&gt;
-&lt;p&gt;但如果上线给用户用，出问题了总会是很麻烦的事情。&lt;/p&gt;
-&lt;p&gt;大家现在有什么样的技巧或者方式去做测试呢？ DDD ？自动化测试？还是有什么测试 Harness ？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历</title>
-      <link>https://www.v2ex.com/t/1241515</link>
-      <guid>v2ex-1241515</guid>
-      <pubDate>Sat, 12 Sep 2026 04:21:19 GMT</pubDate>
-      <description>&lt;p&gt;上周做了个好玩的东西: &lt;strong&gt;&lt;a href=&quot;https://javranking.top/&quot; rel=&quot;nofollow&quot;&gt;什么值得冲&lt;/a&gt;&lt;/strong&gt; （友情提示：不要在旁边有人的时候打开） &lt;/p&gt;
-&lt;p&gt;本来只想给兄弟们冲天事业略尽绵薄之力，结果第 4 天就不能访问了，一查才知道域名直接被注册局（江苏邦宁科技） serverHold 了，这个域名直接在全球停止解析，没有提醒，没有通知，直接挂，直到我发邮件过去问才知道是怎么回事。&lt;/p&gt;
-&lt;p&gt;这几天我都在和这个江苏邦宁科技扯皮，好在经过我的坚持不懈，今天域名解除了 serverHold ，&lt;strong&gt;我把解析权要回来了。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我是第一次遇到这种情况，不过我估计遇到这个情况的应该不止我一个，所以我写了一篇文章，分享了详细的扯皮过程和思路，如果你的 .top 域名也被莫名其妙停止解析了，可以让你的 AI Agent 读读这篇文章，帮你扯皮，要回解析权。&lt;/p&gt;
-&lt;p&gt;两个核心经验点分享：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;如果你的站点不打算备案，最好不要用任何注册局在中国大陆境内运营的域名，不仅仅是 .top 。因为随时都可能被莫名其妙 serverHold ，哪怕你的域名服务商，DNS 服务商，服务器和用户在海外。&lt;/li&gt;
-&lt;li&gt;如果你像我不幸使用了 .top 域名，还投入了资源，不想更换域名，那就不要怕麻烦，让 AI 帮你扯皮，按闹分配，DDDD&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;文章全文：&lt;a href=&quot;https://zemo.bio/zh/posts/how-i-recovered-a-top-domain-from-serverhold/&quot; rel=&quot;nofollow&quot;&gt;如果你的 .top 域名被注册局 ServerHold 了，怎么办？&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果你手上有 .top 域名，建议收藏，希望你用不上，但是万一和我一样不幸。。。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 13 Sep 2026 06:23:52 GMT</lastBuildDate>
     <item>
       <title>有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距</title>
       <link>https://www.v2ex.com/t/1241596</link>
@@ -69,21 +17,93 @@
 </description>
     </item>
     <item>
-      <title>华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊</title>
-      <link>https://www.v2ex.com/t/1241528</link>
-      <guid>v2ex-1241528</guid>
-      <pubDate>Sat, 12 Sep 2026 05:53:32 GMT</pubDate>
-      <description>一直用的三星 Galaxy Ultra ，好几代了，这手机各方面都挺好，但是，但是，总觉得它长了一点，瘦了一点。竖屏的时候，高度有那么一点多余了，眼睛基本只看中间那一块，横屏的时候又矮了一点，你猜怎么着，华为阔直板精准踩中需求点。今天去现场使用，单手轻度使用也是可以的。&lt;br /&gt;&lt;br /&gt;阔直板最大的好处就是看书更有感觉了，Ultra 看书要么太瘦了，要么太矮了。&lt;br /&gt;&lt;br /&gt;第一次有了换华为的冲动</description>
+      <title>你们一天喝多少咖啡的？</title>
+      <link>https://www.v2ex.com/t/1241624</link>
+      <guid>v2ex-1241624</guid>
+      <pubDate>Sun, 13 Sep 2026 00:56:05 GMT</pubDate>
+      <description>&lt;p&gt;我大概一天得喝 4 杯浓缩液美式，如果出差就 2 杯瑞幸美式，上午下午都得喝。 &lt;/p&gt;
+&lt;p&gt;你们一天喝多少咖啡的，身体怎么样。&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?</title>
-      <link>https://www.v2ex.com/t/1241496</link>
-      <guid>v2ex-1241496</guid>
-      <pubDate>Sat, 12 Sep 2026 02:55:07 GMT</pubDate>
-      <description>&lt;p&gt;现在的&lt;code&gt;DeepSeek V4.1 Flash&lt;/code&gt; 很像 GPT5.4 的时候，根本不知道在说些什么, 总会造一些不存在的词, 经常使用不常用且特殊的语法，输出内容繁杂。&lt;/p&gt;
-&lt;p&gt;感觉只适合用来做调用工具完成一次性工作, 不适合项目规划、分析代码和解读文档这类工作。&lt;/p&gt;
-&lt;p&gt;例如逆向一个嵌入式固件、安装 ASR 模型来本地语音识别都完成得很好。&lt;/p&gt;
-&lt;p&gt;只要任务的最终产出不是文字就好用, 一旦产出的内容是文字需要人去看时就很痛苦。&lt;/p&gt;
+      <title>养育孩子的牙齿，父母应该知道的事</title>
+      <link>https://www.v2ex.com/t/1241532</link>
+      <guid>v2ex-1241532</guid>
+      <pubDate>Sat, 12 Sep 2026 06:38:56 GMT</pubDate>
+      <description>&lt;p&gt;养育了两个孩子，也看到周围的人在牙齿的花费，以下两件事情父母越早知道越好&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;未满 6 岁以前，孩子的牙齿尽可能大人帮忙刷，因为靠孩子真的不行。&lt;/li&gt;
+&lt;li&gt;不要把水果削成块，一定要让孩子从小啃东西，因为十多岁牙齿矫正至少 1 万起。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>SRE 岗 offer 选择</title>
+      <link>https://www.v2ex.com/t/1241623</link>
+      <guid>v2ex-1241623</guid>
+      <pubDate>Sun, 13 Sep 2026 00:51:11 GMT</pubDate>
+      <description>&lt;p&gt;北京小米玄戒 sre vs 上海网易互娱游戏 sre&lt;/p&gt;
+&lt;h3&gt;薪资&lt;/h3&gt;
+&lt;p&gt;小米：月 base 高 15 薪&lt;/p&gt;
+&lt;p&gt;网易：月 base 低 16~18+薪，总包差不多，绩效好的话网易略高一点，17 薪时基本持平。&lt;/p&gt;
+&lt;p&gt;当前所在公司只拿过中等绩效，没拿到过好或差的绩效。网易 hr 反馈部门最近绩效好，70-80%都能拿超过 16 薪的，而且 18 薪居多（如果按这个比例对标我现在公司的绩效占位，那我保 17 争 18 ，但算不准进去之后部门绩效怎么样）&lt;/p&gt;
+&lt;h3&gt;大致工作内容&lt;/h3&gt;
+&lt;p&gt;小米：芯片研发需要跑仿真模拟，sre 负责运维用到的软硬件资源。&lt;/p&gt;
+&lt;p&gt;网易互娱：中台部门，入职后与某个游戏项目组对接，配合线上的各种运维。&lt;/p&gt;
+&lt;h3&gt;工作强度&lt;/h3&gt;
+&lt;p&gt;小米：9:30-20:00 ，主要给内部研发提供支撑，无轮值。&lt;/p&gt;
+&lt;p&gt;网易：hr 反馈 9:30-10:00 到 19:00 走足够工时，不同游戏组可能强度不同，大的每人值班一天，小的每人值班一周，休息日值班可记录换调休。&lt;/p&gt;
+&lt;p&gt;工作强度上倾向小米，当前工作 8-9 人，一人一天的轮值，虽然勉强能接受但互联网线上业务运维，但确实比较烦人，主要体现在
+1.夜间被电话叫醒影响睡眠
+2. 临时有事需要和同事调班，以及接受同事的换班请求（因为单身事少，所以组内一有人想换班就来找我，又不好意思说不）&lt;/p&gt;
+&lt;h3&gt;假期&lt;/h3&gt;
+&lt;p&gt;小米：5 天年假+12 天带薪病假，连续请 3 天及以上的病假需要开证明。&lt;/p&gt;
+&lt;p&gt;网易：7 天年假+10 天健康陪护假，也有类似请假超过多少天需要审批的流程，不过没有开证明这一说。&lt;/p&gt;
+&lt;h3&gt;个人情况 与 主观倾向&lt;/h3&gt;
+&lt;p&gt;2020 年非 92 一本毕业，暂无三贷压力，老家浙江，目前人在北京。&lt;/p&gt;
+&lt;p&gt;薪资差不多倾向月 base 高的小米，工作地可以先留北京，但更倾向上海。以我的能力，俩城市都买不起房，均不考虑长久定居。&lt;/p&gt;
+&lt;p&gt;工作内容上原本觉得网易游戏 sre 的技术栈可能更通用，如果后面还要换工作，经验上可能能匹配上更多的公司岗位，而小米芯片研发相关的 sre 岗位会不会把路走窄了。不过现在 AI 太强了，也许要不了几年，就没多少岗位了，不如挑有点有兴趣的干干，所以从这个角度，就更倾向小米。&lt;/p&gt;
+&lt;h3&gt;预分析&lt;/h3&gt;
+&lt;p&gt;先和 chatgpt 聊过几轮，我提供了自己的简历、过往工作内容、岗位 jd 和面试沟通的大致情况，大致结论是从岗位匹配度上看网易合适、ai 查了两个公司最近的财报，网易游戏业务更稳。&lt;/p&gt;
+&lt;p&gt;找了一些人问了下，推荐小米居多（大概的理由是小米还在各种赛道探索，各种冲，网易业务相对固定），我把这个信息也给了 ai ，归纳出“小米平台和赛道势能更强”。&lt;/p&gt;
+&lt;p&gt;“还是得看进去之后的老板”这也是很重要的点，不过以我在面试中聊的，我只能感觉都 ok ，至于他们想不想带着我一起发展，这个我看不出来，均以“没有”来考虑。&lt;/p&gt;
+&lt;h3&gt;求建议&lt;/h3&gt;
+&lt;p&gt;上述的每一种倾向对我个人来说都有不同的重要程度占比，总体算下来说两者比较接近，想得到一些我认知之外的建议。
+当然也可以是简单的就“选 xx”。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>再折腾了下旁路由，用 debian+mihomo 做透明网关</title>
+      <link>https://www.v2ex.com/t/1241566</link>
+      <guid>v2ex-1241566</guid>
+      <pubDate>Sat, 12 Sep 2026 10:20:00 GMT</pubDate>
+      <description>之前是 armbian 宿主机运行 docker ，docker 启动 openwrt 容器。&lt;br /&gt;&lt;br /&gt;但是 openwrt 不太好用，openclash 启动/加载慢，页面太卡了，设置复杂花哨多。&lt;br /&gt;加上想要自己编译把插件集成进去 openwrt 镜像，但是老是编译失败。&lt;br /&gt;&lt;br /&gt;然后看到 v2 有人用 alpine+mihomo 裸跑，写了个 docker compose 文件，&lt;br /&gt;容器基于 debian+mihomo+macvlan, 配置文件基于 mihomo 官方示例，然后自己手搓代理分组，用运营商 dns ，用起来体验比 openwrt 那一套舒服多了。&lt;br /&gt;&lt;br /&gt;配置更新、重启内核、重载配置都能在 web 页面执行，不用再去 openclash 界面操作了。openclash 界面慢得不行。。&lt;br /&gt;&lt;br /&gt;然后最好的一点是，节点切换能立刻生效(马上关掉之前的连接，重新连新的节点)，之前 openclash 的好像得连接断开再重连。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;国内直连测速，不经过旁路由 950M/s,经过旁路由 750M/s ，性能损失还算可以接受。旁路由是 RK3528 芯片的一个盒子。国外测速 200+M/s ，主要跟机场节点速度有关，还没到 RK3528 的性能上限，2 元/月的机场还要什么自行车。</description>
+    </item>
+    <item>
+      <title>18PM 抢到了， 10099 元</title>
+      <link>https://www.v2ex.com/t/1241578</link>
+      <guid>v2ex-1241578</guid>
+      <pubDate>Sat, 12 Sep 2026 12:04:58 GMT</pubDate>
+      <description>发不发货就不知道了&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/lSviIft.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/lSviIft.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>你们 ChatGPT 重置了吗？</title>
+      <link>https://www.v2ex.com/t/1241535</link>
+      <guid>v2ex-1241535</guid>
+      <pubDate>Sat, 12 Sep 2026 07:04:41 GMT</pubDate>
+      <description>&lt;p&gt;网上说今日重置预测是北京时间 15:00 ，但是目前来看，还没有重置&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>郁闷， mac 坏了，又要破费了！</title>
+      <link>https://www.v2ex.com/t/1241595</link>
+      <guid>v2ex-1241595</guid>
+      <pubDate>Sat, 12 Sep 2026 13:58:53 GMT</pubDate>
+      <description>&lt;p&gt;2 年前买的 m3 max ，3 万多，前两天坏了，我就是插拔了一下插排，结果就无法充电了，电池供电情况下还能正常使用，但是当时没意识到坏了，结果就是电池没电了，数据也没来得及备份&lt;br/&gt;
+到了官方售后，说是主板坏了需要换主板，费用 7000 ，有点儿不舍得&lt;br/&gt;
+所以今天就找了一个第三方维修店，结果更糟糕，修不了，检测不到坏的地方，猜测是主板板子里面坏了&lt;br/&gt;
+最后师傅给我搭了个电池让我备份数据，可惜只备份了一部分就没电了，跟人家说好话让再给换个电池，可惜没合适的（电池排线短了点儿 插不上），这里要感谢人家师傅，忙活半天 一分钱没要&lt;br/&gt;
+回来后预约了明天的官方售后，去换主板&lt;/p&gt;
 </description>
     </item>
   </channel>
