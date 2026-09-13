@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 13 Sep 2026 12:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:30:31 GMT</lastBuildDate>
     <item>
       <title>你们一天喝多少咖啡的？</title>
       <link>https://www.v2ex.com/t/1241624</link>
@@ -64,25 +64,6 @@
 </description>
     </item>
     <item>
-      <title>为了 Duo 这碟醋，苹果真是包了不少饺子啊……</title>
-      <link>https://www.v2ex.com/t/1241642</link>
-      <guid>v2ex-1241642</guid>
-      <pubDate>Sun, 13 Sep 2026 04:05:45 GMT</pubDate>
-      <description>- 改了大圆角，就是为了 1：1.4 去掉圆角空间刚好接近 16:9 ；&lt;br /&gt;- 一直维护 16:9 的 iPhone SE ，为了让软件还能兼容 Duo ；&lt;br /&gt;- iPad Pro 11 寸不知道为什么突然变成 1:1.4 ，原来是 Duo 展开是 1:1.4 啊；&lt;br /&gt;&lt;br /&gt;还有什么我没注意到。</description>
-    </item>
-    <item>
-      <title>郁闷， mac 坏了，又要破费了！</title>
-      <link>https://www.v2ex.com/t/1241595</link>
-      <guid>v2ex-1241595</guid>
-      <pubDate>Sat, 12 Sep 2026 13:58:53 GMT</pubDate>
-      <description>&lt;p&gt;2 年前买的 m3 max ，3 万多，前两天坏了，我就是插拔了一下插排，结果就无法充电了，电池供电情况下还能正常使用，但是当时没意识到坏了，结果就是电池没电了，数据也没来得及备份&lt;br/&gt;
-到了官方售后，说是主板坏了需要换主板，费用 7000 ，有点儿不舍得&lt;br/&gt;
-所以今天就找了一个第三方维修店，结果更糟糕，修不了，检测不到坏的地方，猜测是主板板子里面坏了&lt;br/&gt;
-最后师傅给我搭了个电池让我备份数据，可惜只备份了一部分就没电了，跟人家说好话让再给换个电池，可惜没合适的（电池排线短了点儿 插不上），这里要感谢人家师傅，忙活半天 一分钱没要&lt;br/&gt;
-回来后预约了明天的官方售后，去换主板&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>有没有什么工具，可以远程让 codex 干活？</title>
       <link>https://www.v2ex.com/t/1241635</link>
       <guid>v2ex-1241635</guid>
@@ -93,40 +74,38 @@
 </description>
     </item>
     <item>
-      <title>[抽奖] DropToDo 更新了，来个福利抽奖活动！</title>
-      <link>https://www.v2ex.com/t/1241582</link>
-      <guid>v2ex-1241582</guid>
-      <pubDate>Sat, 12 Sep 2026 12:18:48 GMT</pubDate>
-      <description>&lt;p&gt;各位 V 友，大家好！&lt;/p&gt;
-&lt;p&gt;最近给 DropToDo 加了个新功能。本期为大家带来一波 App Store 兑换码 抽奖福利！&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;DropToDo&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/p6YrD7r.gif&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;更新内容&lt;/h2&gt;
-&lt;p&gt;现在输入任务后，可以直接点击旁边的时间：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;日历选择日期&lt;/li&gt;
-&lt;li&gt;精确设置时间&lt;/li&gt;
-&lt;li&gt;快速选择预设时间&lt;/li&gt;
-&lt;li&gt;最远支持 90 天后的提醒&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;另外也做了一些性能和稳定性优化。&lt;/p&gt;
-&lt;p&gt;整体还是保持简单：拖下来，输入，完成。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://droptodo.app&quot; rel=&quot;nofollow&quot;&gt;https://droptodo.app&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/droptodo-%E6%9E%81%E7%AE%80%E5%BE%85%E5%8A%9E%E4%B8%8E%E6%8F%90%E9%86%92/id6762462645&quot; rel=&quot;nofollow&quot;&gt;App Store 下载地址&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎大家体验，有什么建议也可以直接说&lt;/p&gt;
-&lt;h2&gt;抽奖福利&lt;/h2&gt;
-&lt;p&gt;[App Store 兑换码 10 个 · 送福利] 各位 V 友快来当分母！&lt;/p&gt;
-&lt;h3&gt;🎁 奖品介绍&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;奖品&lt;/strong&gt;：App Store 兑换码
-&lt;strong&gt;数量&lt;/strong&gt;：10 个（中奖者每人 1 个）&lt;/p&gt;
-&lt;h3&gt;📅 参与方式&lt;/h3&gt;
-&lt;p&gt;在本帖下方任意回复即可参与（重复回复仅计算第一楼，谢谢配合）。&lt;/p&gt;
-&lt;p&gt;请留下您的 Base64 编码邮箱（为了防止垃圾邮件爬虫）。
-不会转 Base64？ 很简单！例如你的邮箱是 yourname@gmail.com，请先前往 在线 &lt;a href=&quot;https://base64.us/&quot; rel=&quot;nofollow&quot;&gt;Base64&lt;/a&gt; 转换工具 转换为 eW91cm5hbWVAZ21haWwuY29t，再把这个字符串粘贴进回复即可。&lt;/p&gt;
-&lt;h3&gt;⏰ 截止与开奖时间&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;截止时间&lt;/strong&gt;：2026 年 9 月 14 日（周一）晚上 8:00
-截止后由 AI 抽奖机器人 自动执行 [用户去重] + [水贴过滤] + [Base64 邮箱解密] ，确保开奖公正透明，人人机会均等。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;祝各位 V 友好运，欢迎多多参与！🎉&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本抽奖活动由 &lt;strong&gt;抽奖机器人&lt;/strong&gt; &lt;a href=&quot;https://edge.v2ex.com/chat?persona=lotterybot&quot; rel=&quot;nofollow&quot;&gt;LotteryBot&lt;/a&gt; 提供支持。&lt;/p&gt;
+      <title>pdd 的金领冠真的不能买吗？</title>
+      <link>https://www.v2ex.com/t/1241677</link>
+      <guid>v2ex-1241677</guid>
+      <pubDate>Sun, 13 Sep 2026 09:21:10 GMT</pubDate>
+      <description>&lt;p&gt;外观一样的东西，家人一定要求去山姆或者沃尔玛购买，就连京东也不相信，更不要说 pdd ，淘宝了，但价格贵了 1/6 ，一个人焦虑，弄的大家都焦虑&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>为了 Duo 这碟醋，苹果真是包了不少饺子啊……</title>
+      <link>https://www.v2ex.com/t/1241642</link>
+      <guid>v2ex-1241642</guid>
+      <pubDate>Sun, 13 Sep 2026 04:05:45 GMT</pubDate>
+      <description>- 改了大圆角，就是为了 1：1.4 去掉圆角空间刚好接近 16:9 ；&lt;br /&gt;- 一直维护 16:9 的 iPhone SE ，为了让软件还能兼容 Duo ；&lt;br /&gt;- iPad Pro 11 寸不知道为什么突然变成 1:1.4 ，原来是 Duo 展开是 1:1.4 啊；&lt;br /&gt;&lt;br /&gt;还有什么我没注意到。</description>
+    </item>
+    <item>
+      <title>大家的椅子手托在双手打字场景有这个问题吗，现在很难受</title>
+      <link>https://www.v2ex.com/t/1241644</link>
+      <guid>v2ex-1241644</guid>
+      <pubDate>Sun, 13 Sep 2026 04:29:07 GMT</pubDate>
+      <description>&lt;p&gt;如下图，双手打字时，电脑椅右侧的扶手无法托住胳膊，网上搜也只是键盘前的那种长条形手托，但是解决不了这种场景。各位有遇到吗，还是我电脑椅的问题~。&lt;/p&gt;
+&lt;p&gt;另外我这是全尺寸键盘，或许 87 键的会好点&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;FKaMmr54hufrWHXd3HQV0XFMKq8FP3T7.webp&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/FKaMmr54hufrWHXd3HQV0XFMKq8FP3T7.webp&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>北京这下无人机算是彻底了。</title>
+      <link>https://www.v2ex.com/t/1241706</link>
+      <guid>v2ex-1241706</guid>
+      <pubDate>Sun, 13 Sep 2026 13:43:30 GMT</pubDate>
+      <description>&lt;p&gt;刚出的新政策不让起飞就算了，现在连存放也不让。&lt;/p&gt;
+&lt;p&gt;家在北京，无人机就出国旅游的时候用。感觉无解。&lt;/p&gt;
+&lt;p&gt;有无好点的解法。。&lt;/p&gt;
 </description>
     </item>
   </channel>
