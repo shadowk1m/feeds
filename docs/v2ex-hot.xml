@@ -4,18 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 13 Sep 2026 06:23:52 GMT</lastBuildDate>
-    <item>
-      <title>有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距</title>
-      <link>https://www.v2ex.com/t/1241596</link>
-      <guid>v2ex-1241596</guid>
-      <pubDate>Sat, 12 Sep 2026 14:02:48 GMT</pubDate>
-      <description>&lt;p&gt;今天用了下 DeepSeek V4.1 Flash ，快是真 TM 的快，一直稳定接近 300tok/s ，但在做复杂任务的时候，是真的蠢啊，尤其是和 Astra 比&lt;/p&gt;
-&lt;p&gt;我今天主要是拿它们来进行一些老手游的反编译和修改（都是已下线的游戏），这个任务其实很麻烦，会遇到各种各样的难题需要模型去解决，DeepSeek 全程疯狂输出 Token ，然后遇到难题就想方案 -&amp;gt; 改代码 -&amp;gt; 问题还在 -&amp;gt; 换方案，一直在重复这样的循环，就 TM 跟鬼打墙一样，关键是这个逼速度还飞快，所以你就看到它疯狂的吐 Token ，疯狂的换方案，最后狂奔 40 多分钟问题没解决，完事还把之前的一个已经破解的模块改坏了&lt;/p&gt;
-&lt;p&gt;实在受不了于是换了 Astra High ，Codex 不会展示完整的思维链，tok/s 相比于 DeepSeek 也慢不少，所以对比之下 Astra 就像一个慢吞吞的老头，不紧不慢的，但它是真的稳啊，任何问题遇到后基本两轮之内必能找到正确的方案，然后修复，同样的时间内 DeepSeek 可能已经尝试了 10 个方案了。连续几次都是这样，DeepSeek 疯狂穷举方案反复横跳最后无果，换 Astra 1-2 轮解决&lt;/p&gt;
-&lt;p&gt;感觉高难任务上国模差距还是非常明显，虽然 Token 速度拉上来了但体验是真的差&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 13 Sep 2026 12:09:00 GMT</lastBuildDate>
     <item>
       <title>你们一天喝多少咖啡的？</title>
       <link>https://www.v2ex.com/t/1241624</link>
@@ -26,16 +15,18 @@
 </description>
     </item>
     <item>
-      <title>养育孩子的牙齿，父母应该知道的事</title>
-      <link>https://www.v2ex.com/t/1241532</link>
-      <guid>v2ex-1241532</guid>
-      <pubDate>Sat, 12 Sep 2026 06:38:56 GMT</pubDate>
-      <description>&lt;p&gt;养育了两个孩子，也看到周围的人在牙齿的花费，以下两件事情父母越早知道越好&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;未满 6 岁以前，孩子的牙齿尽可能大人帮忙刷，因为靠孩子真的不行。&lt;/li&gt;
-&lt;li&gt;不要把水果削成块，一定要让孩子从小啃东西，因为十多岁牙齿矫正至少 1 万起。&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <title>陶哲轩等数学家反对 AI，论失败的意义</title>
+      <link>https://www.v2ex.com/t/1241637</link>
+      <guid>v2ex-1241637</guid>
+      <pubDate>Sun, 13 Sep 2026 03:28:10 GMT</pubDate>
+      <description>[反 AI 声明] 本文 AI 含量为零，未使用 AI 辅助创作，也未使用 AI 润色&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;2026 年 9 月 12 日，陶哲轩、邓煜等 25 位菲尔兹奖得主联合警告，AI 攻破数学难题可能有害。这件事有点反直觉，很多人不理解，为什么人类破解难题就是大好事，而 AI 破解难题却是坏事？&lt;br /&gt;&lt;br /&gt;如果你了解人类数学的发展历史，就很容易理解了。在数学专业的圈子里，最想得到的从来不是一道难题的答案，而是在解决难题的过程中发展出来的全新数学工具。&lt;br /&gt;&lt;br /&gt;数学是一种“工具”，只有在解决难题的过程中经历无数次失败，才可能改善工具、发明新工具。有无数的商业案例表明，如果你独占一种技术，完全不让别人使用，那么别人就会有极大的动力去研究，很有可能找到新的方法来实现这种技术。&lt;br /&gt;&lt;br /&gt;因此，一种比较常见的策略是自己只保留一部分最新技术的机密，然后低价卖技术给别人，让别人刚好卡在一个尴尬的处境：自己研究的成本太高，直接买反而更便宜。这就能打击别人研究的积极性。AI 破解数学难题恰好实现了类似的效果，人类自己不研究数学，直接向 AI“采购”数学答案，长此以往，对于人类来说数学这个工具就消亡了，再也难以发展。&lt;br /&gt;&lt;br /&gt;在现实生活中，有很多“头铁”的人，大家说这件事肯定会失败，但他偏要亲自去闯一闯，最终果然失败了。但是，失败就一定是吃亏吗，失败就一定没有意义吗？我认为，“头铁”是人类最宝贵的品质之一。失败是学习的最佳途径，甚至可以说，失败是学习的唯一途径。如果考试允许直接抄答案，那还有多少人愿意学习呢？&lt;br /&gt;&lt;br /&gt;陶哲轩说，传统研究像徒步去寻找一处瀑布，人会走错路、认识地形、发现岔路，甚至在途中看到另一处值得探索的景观； AI 则更像一架直升机，可以直接把研究者送到瀑布前。虽然过程效率提高了，但沿途形成的那张“地图”不会因此自动出现。</description>
+    </item>
+    <item>
+      <title>用 Astra 把家乡的竹林老屋做成一个可以游览的网页</title>
+      <link>https://www.v2ex.com/t/1241660</link>
+      <guid>v2ex-1241660</guid>
+      <pubDate>Sun, 13 Sep 2026 06:38:29 GMT</pubDate>
+      <description>用前几年拍过的照片，加上最近发布的 Astra 还原出了一个 3D 的外婆家。&lt;br /&gt;龙岩的一个小镇，不过因为水库的缘故，已经不方便主人了。&lt;br /&gt;有点吃性能，之后再看看能否让 AI 在不影响画质的情况下优化性能 ==&lt;br /&gt;&lt;br /&gt;http://yuuki.fans/&lt;br /&gt;&lt;br /&gt;项目已开源到，感觉这片白噪声还挺棒（就是性能太糟糕了--）。&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/yuukiLike/bamboo-old-house&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/yuukiLike/bamboo-old-house&lt;/a&gt;</description>
     </item>
     <item>
       <title>SRE 岗 offer 选择</title>
@@ -73,26 +64,11 @@
 </description>
     </item>
     <item>
-      <title>再折腾了下旁路由，用 debian+mihomo 做透明网关</title>
-      <link>https://www.v2ex.com/t/1241566</link>
-      <guid>v2ex-1241566</guid>
-      <pubDate>Sat, 12 Sep 2026 10:20:00 GMT</pubDate>
-      <description>之前是 armbian 宿主机运行 docker ，docker 启动 openwrt 容器。&lt;br /&gt;&lt;br /&gt;但是 openwrt 不太好用，openclash 启动/加载慢，页面太卡了，设置复杂花哨多。&lt;br /&gt;加上想要自己编译把插件集成进去 openwrt 镜像，但是老是编译失败。&lt;br /&gt;&lt;br /&gt;然后看到 v2 有人用 alpine+mihomo 裸跑，写了个 docker compose 文件，&lt;br /&gt;容器基于 debian+mihomo+macvlan, 配置文件基于 mihomo 官方示例，然后自己手搓代理分组，用运营商 dns ，用起来体验比 openwrt 那一套舒服多了。&lt;br /&gt;&lt;br /&gt;配置更新、重启内核、重载配置都能在 web 页面执行，不用再去 openclash 界面操作了。openclash 界面慢得不行。。&lt;br /&gt;&lt;br /&gt;然后最好的一点是，节点切换能立刻生效(马上关掉之前的连接，重新连新的节点)，之前 openclash 的好像得连接断开再重连。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;国内直连测速，不经过旁路由 950M/s,经过旁路由 750M/s ，性能损失还算可以接受。旁路由是 RK3528 芯片的一个盒子。国外测速 200+M/s ，主要跟机场节点速度有关，还没到 RK3528 的性能上限，2 元/月的机场还要什么自行车。</description>
-    </item>
-    <item>
-      <title>18PM 抢到了， 10099 元</title>
-      <link>https://www.v2ex.com/t/1241578</link>
-      <guid>v2ex-1241578</guid>
-      <pubDate>Sat, 12 Sep 2026 12:04:58 GMT</pubDate>
-      <description>发不发货就不知道了&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/lSviIft.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/lSviIft.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>你们 ChatGPT 重置了吗？</title>
-      <link>https://www.v2ex.com/t/1241535</link>
-      <guid>v2ex-1241535</guid>
-      <pubDate>Sat, 12 Sep 2026 07:04:41 GMT</pubDate>
-      <description>&lt;p&gt;网上说今日重置预测是北京时间 15:00 ，但是目前来看，还没有重置&lt;/p&gt;
-</description>
+      <title>为了 Duo 这碟醋，苹果真是包了不少饺子啊……</title>
+      <link>https://www.v2ex.com/t/1241642</link>
+      <guid>v2ex-1241642</guid>
+      <pubDate>Sun, 13 Sep 2026 04:05:45 GMT</pubDate>
+      <description>- 改了大圆角，就是为了 1：1.4 去掉圆角空间刚好接近 16:9 ；&lt;br /&gt;- 一直维护 16:9 的 iPhone SE ，为了让软件还能兼容 Duo ；&lt;br /&gt;- iPad Pro 11 寸不知道为什么突然变成 1:1.4 ，原来是 Duo 展开是 1:1.4 啊；&lt;br /&gt;&lt;br /&gt;还有什么我没注意到。</description>
     </item>
     <item>
       <title>郁闷， mac 坏了，又要破费了！</title>
@@ -104,6 +80,53 @@
 所以今天就找了一个第三方维修店，结果更糟糕，修不了，检测不到坏的地方，猜测是主板板子里面坏了&lt;br/&gt;
 最后师傅给我搭了个电池让我备份数据，可惜只备份了一部分就没电了，跟人家说好话让再给换个电池，可惜没合适的（电池排线短了点儿 插不上），这里要感谢人家师傅，忙活半天 一分钱没要&lt;br/&gt;
 回来后预约了明天的官方售后，去换主板&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>有没有什么工具，可以远程让 codex 干活？</title>
+      <link>https://www.v2ex.com/t/1241635</link>
+      <guid>v2ex-1241635</guid>
+      <pubDate>Sun, 13 Sep 2026 03:21:35 GMT</pubDate>
+      <description>&lt;p&gt;就是我经常用 /goal 运行一些长时间的任务，一般都要半个小时到一个小时一上。我也不可能一直在家里等着它，完事再部署下个任务。&lt;/p&gt;
+&lt;p&gt;所以现在有没有可以让我出门后，在手机上就能下达下个任务的工具？&lt;/p&gt;
+&lt;p&gt;谢谢各位。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[抽奖] DropToDo 更新了，来个福利抽奖活动！</title>
+      <link>https://www.v2ex.com/t/1241582</link>
+      <guid>v2ex-1241582</guid>
+      <pubDate>Sat, 12 Sep 2026 12:18:48 GMT</pubDate>
+      <description>&lt;p&gt;各位 V 友，大家好！&lt;/p&gt;
+&lt;p&gt;最近给 DropToDo 加了个新功能。本期为大家带来一波 App Store 兑换码 抽奖福利！&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;DropToDo&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/p6YrD7r.gif&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;更新内容&lt;/h2&gt;
+&lt;p&gt;现在输入任务后，可以直接点击旁边的时间：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;日历选择日期&lt;/li&gt;
+&lt;li&gt;精确设置时间&lt;/li&gt;
+&lt;li&gt;快速选择预设时间&lt;/li&gt;
+&lt;li&gt;最远支持 90 天后的提醒&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;另外也做了一些性能和稳定性优化。&lt;/p&gt;
+&lt;p&gt;整体还是保持简单：拖下来，输入，完成。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://droptodo.app&quot; rel=&quot;nofollow&quot;&gt;https://droptodo.app&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/droptodo-%E6%9E%81%E7%AE%80%E5%BE%85%E5%8A%9E%E4%B8%8E%E6%8F%90%E9%86%92/id6762462645&quot; rel=&quot;nofollow&quot;&gt;App Store 下载地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎大家体验，有什么建议也可以直接说&lt;/p&gt;
+&lt;h2&gt;抽奖福利&lt;/h2&gt;
+&lt;p&gt;[App Store 兑换码 10 个 · 送福利] 各位 V 友快来当分母！&lt;/p&gt;
+&lt;h3&gt;🎁 奖品介绍&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;奖品&lt;/strong&gt;：App Store 兑换码
+&lt;strong&gt;数量&lt;/strong&gt;：10 个（中奖者每人 1 个）&lt;/p&gt;
+&lt;h3&gt;📅 参与方式&lt;/h3&gt;
+&lt;p&gt;在本帖下方任意回复即可参与（重复回复仅计算第一楼，谢谢配合）。&lt;/p&gt;
+&lt;p&gt;请留下您的 Base64 编码邮箱（为了防止垃圾邮件爬虫）。
+不会转 Base64？ 很简单！例如你的邮箱是 yourname@gmail.com，请先前往 在线 &lt;a href=&quot;https://base64.us/&quot; rel=&quot;nofollow&quot;&gt;Base64&lt;/a&gt; 转换工具 转换为 eW91cm5hbWVAZ21haWwuY29t，再把这个字符串粘贴进回复即可。&lt;/p&gt;
+&lt;h3&gt;⏰ 截止与开奖时间&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;截止时间&lt;/strong&gt;：2026 年 9 月 14 日（周一）晚上 8:00
+截止后由 AI 抽奖机器人 自动执行 [用户去重] + [水贴过滤] + [Base64 邮箱解密] ，确保开奖公正透明，人人机会均等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;祝各位 V 友好运，欢迎多多参与！🎉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本抽奖活动由 &lt;strong&gt;抽奖机器人&lt;/strong&gt; &lt;a href=&quot;https://edge.v2ex.com/chat?persona=lotterybot&quot; rel=&quot;nofollow&quot;&gt;LotteryBot&lt;/a&gt; 提供支持。&lt;/p&gt;
 </description>
     </item>
   </channel>
