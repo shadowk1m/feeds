@@ -4,74 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 13 Sep 2026 23:21:41 GMT</lastBuildDate>
-    <item>
-      <title>你们一天喝多少咖啡的？</title>
-      <link>https://www.v2ex.com/t/1241624</link>
-      <guid>v2ex-1241624</guid>
-      <pubDate>Sun, 13 Sep 2026 00:56:05 GMT</pubDate>
-      <description>&lt;p&gt;我大概一天得喝 4 杯浓缩液美式，如果出差就 2 杯瑞幸美式，上午下午都得喝。 &lt;/p&gt;
-&lt;p&gt;你们一天喝多少咖啡的，身体怎么样。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 01:17:07 GMT</lastBuildDate>
     <item>
       <title>陶哲轩等数学家反对 AI，论失败的意义</title>
       <link>https://www.v2ex.com/t/1241637</link>
       <guid>v2ex-1241637</guid>
       <pubDate>Sun, 13 Sep 2026 03:28:10 GMT</pubDate>
       <description>[反 AI 声明] 本文 AI 含量为零，未使用 AI 辅助创作，也未使用 AI 润色&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;2026 年 9 月 12 日，陶哲轩、邓煜等 25 位菲尔兹奖得主联合警告，AI 攻破数学难题可能有害。这件事有点反直觉，很多人不理解，为什么人类破解难题就是大好事，而 AI 破解难题却是坏事？&lt;br /&gt;&lt;br /&gt;如果你了解人类数学的发展历史，就很容易理解了。在数学专业的圈子里，最想得到的从来不是一道难题的答案，而是在解决难题的过程中发展出来的全新数学工具。&lt;br /&gt;&lt;br /&gt;数学是一种“工具”，只有在解决难题的过程中经历无数次失败，才可能改善工具、发明新工具。有无数的商业案例表明，如果你独占一种技术，完全不让别人使用，那么别人就会有极大的动力去研究，很有可能找到新的方法来实现这种技术。&lt;br /&gt;&lt;br /&gt;因此，一种比较常见的策略是自己只保留一部分最新技术的机密，然后低价卖技术给别人，让别人刚好卡在一个尴尬的处境：自己研究的成本太高，直接买反而更便宜。这就能打击别人研究的积极性。AI 破解数学难题恰好实现了类似的效果，人类自己不研究数学，直接向 AI“采购”数学答案，长此以往，对于人类来说数学这个工具就消亡了，再也难以发展。&lt;br /&gt;&lt;br /&gt;在现实生活中，有很多“头铁”的人，大家说这件事肯定会失败，但他偏要亲自去闯一闯，最终果然失败了。但是，失败就一定是吃亏吗，失败就一定没有意义吗？我认为，“头铁”是人类最宝贵的品质之一。失败是学习的最佳途径，甚至可以说，失败是学习的唯一途径。如果考试允许直接抄答案，那还有多少人愿意学习呢？&lt;br /&gt;&lt;br /&gt;陶哲轩说，传统研究像徒步去寻找一处瀑布，人会走错路、认识地形、发现岔路，甚至在途中看到另一处值得探索的景观； AI 则更像一架直升机，可以直接把研究者送到瀑布前。虽然过程效率提高了，但沿途形成的那张“地图”不会因此自动出现。</description>
-    </item>
-    <item>
-      <title>用 Astra 把家乡的竹林老屋做成一个可以游览的网页</title>
-      <link>https://www.v2ex.com/t/1241660</link>
-      <guid>v2ex-1241660</guid>
-      <pubDate>Sun, 13 Sep 2026 06:38:29 GMT</pubDate>
-      <description>用前几年拍过的照片，加上最近发布的 Astra 还原出了一个 3D 的外婆家。&lt;br /&gt;龙岩的一个小镇，不过因为水库的缘故，已经不方便主人了。&lt;br /&gt;有点吃性能，之后再看看能否让 AI 在不影响画质的情况下优化性能 ==&lt;br /&gt;&lt;br /&gt;http://yuuki.fans/&lt;br /&gt;&lt;br /&gt;项目已开源到，感觉这片白噪声还挺棒（就是性能太糟糕了--）。&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/yuukiLike/bamboo-old-house&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/yuukiLike/bamboo-old-house&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>SRE 岗 offer 选择</title>
-      <link>https://www.v2ex.com/t/1241623</link>
-      <guid>v2ex-1241623</guid>
-      <pubDate>Sun, 13 Sep 2026 00:51:11 GMT</pubDate>
-      <description>&lt;p&gt;北京小米玄戒 sre vs 上海网易互娱游戏 sre&lt;/p&gt;
-&lt;h3&gt;薪资&lt;/h3&gt;
-&lt;p&gt;小米：月 base 高 15 薪&lt;/p&gt;
-&lt;p&gt;网易：月 base 低 16~18+薪，总包差不多，绩效好的话网易略高一点，17 薪时基本持平。&lt;/p&gt;
-&lt;p&gt;当前所在公司只拿过中等绩效，没拿到过好或差的绩效。网易 hr 反馈部门最近绩效好，70-80%都能拿超过 16 薪的，而且 18 薪居多（如果按这个比例对标我现在公司的绩效占位，那我保 17 争 18 ，但算不准进去之后部门绩效怎么样）&lt;/p&gt;
-&lt;h3&gt;大致工作内容&lt;/h3&gt;
-&lt;p&gt;小米：芯片研发需要跑仿真模拟，sre 负责运维用到的软硬件资源。&lt;/p&gt;
-&lt;p&gt;网易互娱：中台部门，入职后与某个游戏项目组对接，配合线上的各种运维。&lt;/p&gt;
-&lt;h3&gt;工作强度&lt;/h3&gt;
-&lt;p&gt;小米：9:30-20:00 ，主要给内部研发提供支撑，无轮值。&lt;/p&gt;
-&lt;p&gt;网易：hr 反馈 9:30-10:00 到 19:00 走足够工时，不同游戏组可能强度不同，大的每人值班一天，小的每人值班一周，休息日值班可记录换调休。&lt;/p&gt;
-&lt;p&gt;工作强度上倾向小米，当前工作 8-9 人，一人一天的轮值，虽然勉强能接受但互联网线上业务运维，但确实比较烦人，主要体现在
-1.夜间被电话叫醒影响睡眠
-2. 临时有事需要和同事调班，以及接受同事的换班请求（因为单身事少，所以组内一有人想换班就来找我，又不好意思说不）&lt;/p&gt;
-&lt;h3&gt;假期&lt;/h3&gt;
-&lt;p&gt;小米：5 天年假+12 天带薪病假，连续请 3 天及以上的病假需要开证明。&lt;/p&gt;
-&lt;p&gt;网易：7 天年假+10 天健康陪护假，也有类似请假超过多少天需要审批的流程，不过没有开证明这一说。&lt;/p&gt;
-&lt;h3&gt;个人情况 与 主观倾向&lt;/h3&gt;
-&lt;p&gt;2020 年非 92 一本毕业，暂无三贷压力，老家浙江，目前人在北京。&lt;/p&gt;
-&lt;p&gt;薪资差不多倾向月 base 高的小米，工作地可以先留北京，但更倾向上海。以我的能力，俩城市都买不起房，均不考虑长久定居。&lt;/p&gt;
-&lt;p&gt;工作内容上原本觉得网易游戏 sre 的技术栈可能更通用，如果后面还要换工作，经验上可能能匹配上更多的公司岗位，而小米芯片研发相关的 sre 岗位会不会把路走窄了。不过现在 AI 太强了，也许要不了几年，就没多少岗位了，不如挑有点有兴趣的干干，所以从这个角度，就更倾向小米。&lt;/p&gt;
-&lt;h3&gt;预分析&lt;/h3&gt;
-&lt;p&gt;先和 chatgpt 聊过几轮，我提供了自己的简历、过往工作内容、岗位 jd 和面试沟通的大致情况，大致结论是从岗位匹配度上看网易合适、ai 查了两个公司最近的财报，网易游戏业务更稳。&lt;/p&gt;
-&lt;p&gt;找了一些人问了下，推荐小米居多（大概的理由是小米还在各种赛道探索，各种冲，网易业务相对固定），我把这个信息也给了 ai ，归纳出“小米平台和赛道势能更强”。&lt;/p&gt;
-&lt;p&gt;“还是得看进去之后的老板”这也是很重要的点，不过以我在面试中聊的，我只能感觉都 ok ，至于他们想不想带着我一起发展，这个我看不出来，均以“没有”来考虑。&lt;/p&gt;
-&lt;h3&gt;求建议&lt;/h3&gt;
-&lt;p&gt;上述的每一种倾向对我个人来说都有不同的重要程度占比，总体算下来说两者比较接近，想得到一些我认知之外的建议。
-当然也可以是简单的就“选 xx”。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>有没有什么工具，可以远程让 codex 干活？</title>
-      <link>https://www.v2ex.com/t/1241635</link>
-      <guid>v2ex-1241635</guid>
-      <pubDate>Sun, 13 Sep 2026 03:21:35 GMT</pubDate>
-      <description>&lt;p&gt;就是我经常用 /goal 运行一些长时间的任务，一般都要半个小时到一个小时一上。我也不可能一直在家里等着它，完事再部署下个任务。&lt;/p&gt;
-&lt;p&gt;所以现在有没有可以让我出门后，在手机上就能下达下个任务的工具？&lt;/p&gt;
-&lt;p&gt;谢谢各位。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>北京这下无人机算是彻底了。</title>
@@ -84,11 +23,21 @@
 </description>
     </item>
     <item>
-      <title>为了 Duo 这碟醋，苹果真是包了不少饺子啊……</title>
-      <link>https://www.v2ex.com/t/1241642</link>
-      <guid>v2ex-1241642</guid>
-      <pubDate>Sun, 13 Sep 2026 04:05:45 GMT</pubDate>
-      <description>- 改了大圆角，就是为了 1：1.4 去掉圆角空间刚好接近 16:9 ；&lt;br /&gt;- 一直维护 16:9 的 iPhone SE ，为了让软件还能兼容 Duo ；&lt;br /&gt;- iPad Pro 11 寸不知道为什么突然变成 1:1.4 ，原来是 Duo 展开是 1:1.4 啊；&lt;br /&gt;&lt;br /&gt;还有什么我没注意到。</description>
+      <title>用 Astra 把家乡的竹林老屋做成一个可以游览的网页</title>
+      <link>https://www.v2ex.com/t/1241660</link>
+      <guid>v2ex-1241660</guid>
+      <pubDate>Sun, 13 Sep 2026 06:38:29 GMT</pubDate>
+      <description>用前几年拍过的照片，加上最近发布的 Astra 还原出了一个 3D 的外婆家。&lt;br /&gt;龙岩的一个小镇，不过因为水库的缘故，已经不方便主人了。&lt;br /&gt;有点吃性能，之后再看看能否让 AI 在不影响画质的情况下优化性能 ==&lt;br /&gt;&lt;br /&gt;http://yuuki.fans/&lt;br /&gt;&lt;br /&gt;项目已开源到，感觉这片白噪声还挺棒（就是性能太糟糕了--）。&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/yuukiLike/bamboo-old-house&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/yuukiLike/bamboo-old-house&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>有没有什么工具，可以远程让 codex 干活？</title>
+      <link>https://www.v2ex.com/t/1241635</link>
+      <guid>v2ex-1241635</guid>
+      <pubDate>Sun, 13 Sep 2026 03:21:35 GMT</pubDate>
+      <description>&lt;p&gt;就是我经常用 /goal 运行一些长时间的任务，一般都要半个小时到一个小时一上。我也不可能一直在家里等着它，完事再部署下个任务。&lt;/p&gt;
+&lt;p&gt;所以现在有没有可以让我出门后，在手机上就能下达下个任务的工具？&lt;/p&gt;
+&lt;p&gt;谢谢各位。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>pdd 的金领冠真的不能买吗？</title>
@@ -99,6 +48,20 @@
 </description>
     </item>
     <item>
+      <title>为了 Duo 这碟醋，苹果真是包了不少饺子啊……</title>
+      <link>https://www.v2ex.com/t/1241642</link>
+      <guid>v2ex-1241642</guid>
+      <pubDate>Sun, 13 Sep 2026 04:05:45 GMT</pubDate>
+      <description>- 改了大圆角，就是为了 1：1.4 去掉圆角空间刚好接近 16:9 ；&lt;br /&gt;- 一直维护 16:9 的 iPhone SE ，为了让软件还能兼容 Duo ；&lt;br /&gt;- iPad Pro 11 寸不知道为什么突然变成 1:1.4 ，原来是 Duo 展开是 1:1.4 啊；&lt;br /&gt;&lt;br /&gt;还有什么我没注意到。</description>
+    </item>
+    <item>
+      <title>如果抄作业就能得高分进好大学，且老师及学校都不管，那该多好呀</title>
+      <link>https://www.v2ex.com/t/1241673</link>
+      <guid>v2ex-1241673</guid>
+      <pubDate>Sun, 13 Sep 2026 08:32:25 GMT</pubDate>
+      <description>如果抄作业就能得高分进好大学，且老师及学校都不管，那该多好呀？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;试问谁还愿意努力学习，等着抄就好啦。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;试问谁还愿意花钱训练，等着蒸馏就好啦。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;试问谁还愿意花精力创新，等着抄过来拼价格就好啦。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;最终就是卷卷卷，卷死你</description>
+    </item>
+    <item>
       <title>大家的椅子手托在双手打字场景有这个问题吗，现在很难受</title>
       <link>https://www.v2ex.com/t/1241644</link>
       <guid>v2ex-1241644</guid>
@@ -106,6 +69,18 @@
       <description>&lt;p&gt;如下图，双手打字时，电脑椅右侧的扶手无法托住胳膊，网上搜也只是键盘前的那种长条形手托，但是解决不了这种场景。各位有遇到吗，还是我电脑椅的问题~。&lt;/p&gt;
 &lt;p&gt;另外我这是全尺寸键盘，或许 87 键的会好点&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;FKaMmr54hufrWHXd3HQV0XFMKq8FP3T7.webp&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/FKaMmr54hufrWHXd3HQV0XFMKq8FP3T7.webp&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>家境平凡、天赋资质平庸的人生，如果愿意跳出三贷之外，其实可以活得很自由</title>
+      <link>https://www.v2ex.com/t/1241709</link>
+      <guid>v2ex-1241709</guid>
+      <pubDate>Sun, 13 Sep 2026 14:02:42 GMT</pubDate>
+      <description>&lt;p&gt;继上一个帖子，我想我应该表达暴论，才能把想法无损传达给你们 ---- 这个世界的规则我感觉很奇葩，受尊重的优先级排序是 款爷&amp;amp;体制爹 -&amp;gt; 颜值 -&amp;gt; 学历 -&amp;gt; 能力，而并非人品道德，普通人想要受到尊重，有颜值就能办到，其次是小镇做题家圣体，最后才是 口才+干事， 而想凭借能力受到尊重需要超过 80%人才能办到。其实应该把能力排第一，而颜值、学历纯泡沫，只是信任感倍增器而已。所以诞生了一堆没有业务能力的花瓶和干不了实事的书呆子。这是我进入社会后所见所闻最深刻的感受。所以时常想起楚门的世界这部电影，整个世界就是巨大的草台班子。
+&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;其次就是长辈的封建思想，非得把三贷集齐似乎才能心满意足，但是从没想过资金链断链该如何应对的后果。有人选择丁克，一方面是没有足够的经济储备，另一方面也是认为这样做未必有意义，只是让下一代体验一次自己的来时路罢了。
+&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;所以结论是，如果你的开局只是平平无奇的普通职员家庭，无权利执掌，无富贵享用，自身也没有任何出众的点，恰好能力只是能够争一口饭吃。不如躺平等待游戏结束，而不是为了三贷像条死狗一样四处奔波，还要时不时焦虑相亲能不能成，另一半会不会背地里给自己戴绿帽这种龟毛问题。&lt;/p&gt;
 </description>
     </item>
   </channel>
