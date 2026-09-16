@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 16 Sep 2026 18:57:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:51:37 GMT</lastBuildDate>
     <item>
       <title>为啥让各种 ai 生成一个 1-30 的随机数 都是说 17</title>
       <link>https://www.v2ex.com/t/1242347</link>
@@ -114,35 +114,11 @@
 </description>
     </item>
     <item>
-      <title>有没有喜欢徒步的 v 友？</title>
-      <link>https://www.v2ex.com/t/1242303</link>
-      <guid>v2ex-1242303</guid>
-      <pubDate>Wed, 16 Sep 2026 01:16:06 GMT</pubDate>
-      <description>&lt;h1&gt;我做了一款徒步 App 「步停」&lt;/h1&gt;
-&lt;p&gt;平时喜欢徒步，走得多了以后发现，户外真正需要的功能其实很简单：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我在哪？路线怎么走？有没有走偏？今天走了多远、爬了多高？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;于是我做了这款 iOS 徒步 App —— &lt;strong&gt;「步停」&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;它没有复杂的社区和花哨的功能，希望做的就是一件事：&lt;strong&gt;把每一次徒步好好记录下来。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;目前主要支持：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;🗺️ &lt;strong&gt;KML 路线导入&lt;/strong&gt;：导入规划好的徒步路线&lt;/li&gt;
-&lt;li&gt;🧭 &lt;strong&gt;偏航提醒&lt;/strong&gt;：偏离路线时语音提醒&lt;/li&gt;
-&lt;li&gt;📡 &lt;strong&gt;离线地图&lt;/strong&gt;：山区没信号也能查看地图&lt;/li&gt;
-&lt;li&gt;🥾 &lt;strong&gt;实时轨迹&lt;/strong&gt;：记录距离、速度、海拔、累计爬升/下降&lt;/li&gt;
-&lt;li&gt;📈 &lt;strong&gt;海拔曲线&lt;/strong&gt;：直观看到整段路线的起伏&lt;/li&gt;
-&lt;li&gt;📍 &lt;strong&gt;途中标注&lt;/strong&gt;：记录水源、营地、观景点&lt;/li&gt;
-&lt;li&gt;🔊 &lt;strong&gt;整公里播报&lt;/strong&gt;：不用频繁掏手机看里程&lt;/li&gt;
-&lt;li&gt;📤 &lt;strong&gt;KML 导出&lt;/strong&gt;：保存和分享自己的徒步轨迹&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;也支持&lt;strong&gt;自由徒步&lt;/strong&gt;，没有提前准备路线，打开 App 就可以直接开始记录。&lt;/p&gt;
-&lt;p&gt;之所以叫「步停」，既是&lt;strong&gt;脚步不停&lt;/strong&gt;，也是提醒自己：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;徒步不是为了赶路，该停下来的时候，就看看风景。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;目前「步停」已经上架 App Store 。&lt;/p&gt;
-&lt;p&gt;👉 &lt;a href=&quot;https://apps.apple.com/cn/app/%E6%AD%A5%E5%81%9C/id6761363654&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;App Store 下载「步停」&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;如果你也喜欢徒步、登山或者户外，欢迎体验，也欢迎给我提建议。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;记录每一步，不错过任何风景。&lt;/strong&gt;&lt;/p&gt;
+      <title>发现 6 astra 无限能源了</title>
+      <link>https://www.v2ex.com/t/1242432</link>
+      <guid>v2ex-1242432</guid>
+      <pubDate>Wed, 16 Sep 2026 06:40:20 GMT</pubDate>
+      <description>&lt;p&gt;最近要写东西，想起来 openai 之前搞的那个 latex 编辑器 &lt;a href=&quot;http://prism.openai.com&quot; rel=&quot;nofollow&quot;&gt;prism.openai.com&lt;/a&gt; ，惊觉里面可以用稳定不降智的 6 astra xhigh ，实测不占 codex 额度，估计是官方都忘了这个平台了。。&lt;/p&gt;
 </description>
     </item>
   </channel>
