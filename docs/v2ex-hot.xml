@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 19 Sep 2026 21:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 23:45:47 GMT</lastBuildDate>
     <item>
       <title>结婚一年半，准备离婚了</title>
       <link>https://www.v2ex.com/t/1243140</link>
@@ -54,6 +54,31 @@ DeepSeek 本来一直都还挺好，我都拿来把别的模型的输出翻译�
 </description>
     </item>
     <item>
+      <title>来了， M1Max 升级 macOS27</title>
+      <link>https://www.v2ex.com/t/1243139</link>
+      <guid>v2ex-1243139</guid>
+      <pubDate>Sat, 19 Sep 2026 05:50:53 GMT</pubDate>
+      <description>&lt;p&gt;之前用的是 macOS14, 要不是 homebrew 和达芬奇不支持了，我也不想升，但是又总忍不住想尝试一下，折腾了一晚上，现在给大家一点参考。&lt;/p&gt;
+&lt;p&gt;如果你之前用的是 macOS26, 想也别想，直接升吧，27 是对 26 的全面优化，26 这种既不符合设计美学，性能又差的玩意，真不想多说&lt;/p&gt;
+&lt;p&gt;我之前一个 MacBook 升级到 26 后体验了一个星期受不了，能明显感觉到系统性能降低了，包括鼠标右键、菜单显示等，能明显感觉到‘慢’了， 就降回 14 了，可以看下我之前的帖子。&lt;/p&gt;
+&lt;p&gt;后来换了 M1Max ，一直用的 14, 这次升级到 27 以后，没有任何‘慢’的感觉，所以单从性能讲，可以升。&lt;/p&gt;
+&lt;p&gt;但是，&lt;/p&gt;
+&lt;p&gt;27 的审美我是真 get 不到，那死蓝色的文件夹图标，圆不溜秋浮起来的图标，我是看的真难受，不过好在窗口圆角的问题修复了，忍忍算了。&lt;/p&gt;
+&lt;p&gt;最后是软件兼容情况：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ICE 挂了，现在改用 Thaw 了，可以收纳菜单栏图标，bartender7 还是有兼容问题&lt;/li&gt;
+&lt;li&gt;PD 可以运行，所以虚拟机没问题 ，我用的好像是 27&lt;/li&gt;
+&lt;li&gt;开发类的软件需要同步更新 xcode ， 否则连 git 都没了&lt;/li&gt;
+&lt;li&gt;macFUSE 好像挂了，5 秒钟弹一个框，吓坏我了，不过重新下载了最新版，用安装包里的卸载程序先卸载，再安装就 ok 了&lt;/li&gt;
+&lt;li&gt;easyConnect 需要重新安装，这玩意每次升级系统都需要重新安装，safari 浏览器里输入你的 vpn 地址，就会有下载页面&lt;/li&gt;
+&lt;li&gt;一些基于 intel 的软件貌似还能用，比如我司的上网助手、监控之类的。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其他没什么了&lt;/p&gt;
+&lt;p&gt;iterm 的窗口图标搞成这样了，看着真难受
+&lt;img alt=&quot;screenshot-20260919-134558.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://files.seeusercontent.com/2026/09/19/v8xG/screenshot-20260919-134558.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>鉴于发现冰箱里有一个放了三个月的黄瓜，所以 vibe 了一个家用 WMS</title>
       <link>https://www.v2ex.com/t/1243155</link>
       <guid>v2ex-1243155</guid>
@@ -88,44 +113,22 @@ DeepSeek 本来一直都还挺好，我都拿来把别的模型的输出翻译�
 </description>
     </item>
     <item>
+      <title>刚刚发了封措辞严厉的邮件给 ZCode/智谱，要求退款</title>
+      <link>https://www.v2ex.com/t/1243198</link>
+      <guid>v2ex-1243198</guid>
+      <pubDate>Sat, 19 Sep 2026 12:24:07 GMT</pubDate>
+      <description>&lt;p&gt;我是在 &lt;a href=&quot;http://z.ai&quot; rel=&quot;nofollow&quot;&gt;z.ai&lt;/a&gt; 开的 coding plan ，最近把个人的、公司的项目都放到 zcode 的客户端里跑，昨天的事情出来之后，我第一时间检查，全都被上传了！&lt;/p&gt;
+&lt;p&gt;于是写了邮件给它们，要求退款&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;邮件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/RdWSFBY.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;太欺负人了！这妥妥的花钱找人偷数据，如果他们不退，我就直接 paypal 仲裁了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>有没有什么养成类游戏，可以刷 ，然后变现的，比如卖号，或者卖装备的这些操作；</title>
       <link>https://www.v2ex.com/t/1243111</link>
       <guid>v2ex-1243111</guid>
       <pubDate>Sat, 19 Sep 2026 02:03:32 GMT</pubDate>
       <description>&lt;p&gt;有没有什么养成类游戏，可以无脑刷，然后变现的，比如卖号，或者卖装备的这些操作；投入精力非常有限；&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>来了， M1Max 升级 macOS27</title>
-      <link>https://www.v2ex.com/t/1243139</link>
-      <guid>v2ex-1243139</guid>
-      <pubDate>Sat, 19 Sep 2026 05:50:53 GMT</pubDate>
-      <description>&lt;p&gt;之前用的是 macOS14, 要不是 homebrew 和达芬奇不支持了，我也不想升，但是又总忍不住想尝试一下，折腾了一晚上，现在给大家一点参考。&lt;/p&gt;
-&lt;p&gt;如果你之前用的是 macOS26, 想也别想，直接升吧，27 是对 26 的全面优化，26 这种既不符合设计美学，性能又差的玩意，真不想多说&lt;/p&gt;
-&lt;p&gt;我之前一个 MacBook 升级到 26 后体验了一个星期受不了，能明显感觉到系统性能降低了，包括鼠标右键、菜单显示等，能明显感觉到‘慢’了， 就降回 14 了，可以看下我之前的帖子。&lt;/p&gt;
-&lt;p&gt;后来换了 M1Max ，一直用的 14, 这次升级到 27 以后，没有任何‘慢’的感觉，所以单从性能讲，可以升。&lt;/p&gt;
-&lt;p&gt;但是，&lt;/p&gt;
-&lt;p&gt;27 的审美我是真 get 不到，那死蓝色的文件夹图标，圆不溜秋浮起来的图标，我是看的真难受，不过好在窗口圆角的问题修复了，忍忍算了。&lt;/p&gt;
-&lt;p&gt;最后是软件兼容情况：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;ICE 挂了，现在改用 Thaw 了，可以收纳菜单栏图标，bartender7 还是有兼容问题&lt;/li&gt;
-&lt;li&gt;PD 可以运行，所以虚拟机没问题 ，我用的好像是 27&lt;/li&gt;
-&lt;li&gt;开发类的软件需要同步更新 xcode ， 否则连 git 都没了&lt;/li&gt;
-&lt;li&gt;macFUSE 好像挂了，5 秒钟弹一个框，吓坏我了，不过重新下载了最新版，用安装包里的卸载程序先卸载，再安装就 ok 了&lt;/li&gt;
-&lt;li&gt;easyConnect 需要重新安装，这玩意每次升级系统都需要重新安装，safari 浏览器里输入你的 vpn 地址，就会有下载页面&lt;/li&gt;
-&lt;li&gt;一些基于 intel 的软件貌似还能用，比如我司的上网助手、监控之类的。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;其他没什么了&lt;/p&gt;
-&lt;p&gt;iterm 的窗口图标搞成这样了，看着真难受
-&lt;img alt=&quot;screenshot-20260919-134558.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://files.seeusercontent.com/2026/09/19/v8xG/screenshot-20260919-134558.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>watch 充电器是不是随便用就可以了</title>
-      <link>https://www.v2ex.com/t/1243108</link>
-      <guid>v2ex-1243108</guid>
-      <pubDate>Sat, 19 Sep 2026 01:39:12 GMT</pubDate>
-      <description>&lt;p&gt;外版的 watch 是不是 5W 的充电，充电器大于 5W 就可以冲了&lt;/p&gt;
 </description>
     </item>
   </channel>
