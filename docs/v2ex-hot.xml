@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 19 Sep 2026 14:33:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:35:00 GMT</lastBuildDate>
     <item>
       <title>结婚一年半，准备离婚了</title>
       <link>https://www.v2ex.com/t/1243140</link>
@@ -54,6 +54,40 @@ DeepSeek 本来一直都还挺好，我都拿来把别的模型的输出翻译�
 </description>
     </item>
     <item>
+      <title>鉴于发现冰箱里有一个放了三个月的黄瓜，所以 vibe 了一个家用 WMS</title>
+      <link>https://www.v2ex.com/t/1243155</link>
+      <guid>v2ex-1243155</guid>
+      <pubDate>Sat, 19 Sep 2026 07:24:21 GMT</pubDate>
+      <description>&lt;p&gt;项目地址： &lt;a href=&quot;https://github.com/RicterZ/AL1S-WMS&quot; rel=&quot;nofollow&quot;&gt;https://github.com/RicterZ/AL1S-WMS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/1aeb25ec-4633-4d3b-9655-8b1a7ce13350&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;能做什么&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;面向 AI Agent 设计，以下功能全部提供 MCP tools ，拍一个小票即可让 Agent 自动入库；&lt;/li&gt;
+&lt;li&gt;库存与批次管理：按照批次入库，支持条形码扫描，支持保质期、位置、分类等属性；&lt;/li&gt;
+&lt;li&gt;预警与盘点：临期、过期、临界、不足、缺货等预警信息；&lt;/li&gt;
+&lt;li&gt;采购：购物清单、购物日历、购买后入库、缺货物资自动生成购物清单等；&lt;/li&gt;
+&lt;li&gt;财务：当月预算规划、支出统计等信息，拥有简易的记账功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;不适用场景&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;企业、工作室、门店或需要多人审批、供应商合同、订单履约和复杂权限模型的专业商用场景；&lt;/li&gt;
+&lt;li&gt;需要银行账户同步、收入管理、发票/报销、税费拆分、运费分摊、优惠券拆分、复式记账或多币种换算的专业财务系统；&lt;/li&gt;
+&lt;li&gt;需要 ERP 、WMS 、POS 或供应链系统级别的批量作业、仓位策略、波次拣货与审计合规能力的场景。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;预览&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/00117ee5-ac0e-41e2-8045-b5356c5bbe11&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/a9b3002f-b90a-4393-a5e8-da09e5e201cf&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/9876cb1f-9f54-47e5-b3de-fcbe1aadfc79&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/835318bd-0119-4588-8040-da61be1e0f7d&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;其他&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;纯粹是面向 Agent 的自用的项目，虽然做了多家庭切换，但是目前还没有支持多用户（&lt;/li&gt;
+&lt;li&gt;以后黄瓜不会烂在冰箱里了，但是把已有物品导入还是个麻烦事（幸好我把 Agent 接入了 QQ ，在家里一边走一边发语音消息说一遍物品的位置和数量就行）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/1d966aa9-2f0e-4e80-8695-6bcb57c75046&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>有没有什么养成类游戏，可以刷 ，然后变现的，比如卖号，或者卖装备的这些操作；</title>
       <link>https://www.v2ex.com/t/1243111</link>
       <guid>v2ex-1243111</guid>
@@ -87,37 +121,11 @@ DeepSeek 本来一直都还挺好，我都拿来把别的模型的输出翻译�
 </description>
     </item>
     <item>
-      <title>鉴于发现冰箱里有一个放了三个月的黄瓜，所以 vibe 了一个家用 WMS</title>
-      <link>https://www.v2ex.com/t/1243155</link>
-      <guid>v2ex-1243155</guid>
-      <pubDate>Sat, 19 Sep 2026 07:24:21 GMT</pubDate>
-      <description>&lt;p&gt;项目地址： &lt;a href=&quot;https://github.com/RicterZ/AL1S-WMS&quot; rel=&quot;nofollow&quot;&gt;https://github.com/RicterZ/AL1S-WMS&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/1aeb25ec-4633-4d3b-9655-8b1a7ce13350&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;能做什么&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;面向 AI Agent 设计，以下功能全部提供 MCP tools ，拍一个小票即可让 Agent 自动入库；&lt;/li&gt;
-&lt;li&gt;库存与批次管理：按照批次入库，支持条形码扫描，支持保质期、位置、分类等属性；&lt;/li&gt;
-&lt;li&gt;预警与盘点：临期、过期、临界、不足、缺货等预警信息；&lt;/li&gt;
-&lt;li&gt;采购：购物清单、购物日历、购买后入库、缺货物资自动生成购物清单等；&lt;/li&gt;
-&lt;li&gt;财务：当月预算规划、支出统计等信息，拥有简易的记账功能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;不适用场景&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;企业、工作室、门店或需要多人审批、供应商合同、订单履约和复杂权限模型的专业商用场景；&lt;/li&gt;
-&lt;li&gt;需要银行账户同步、收入管理、发票/报销、税费拆分、运费分摊、优惠券拆分、复式记账或多币种换算的专业财务系统；&lt;/li&gt;
-&lt;li&gt;需要 ERP 、WMS 、POS 或供应链系统级别的批量作业、仓位策略、波次拣货与审计合规能力的场景。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;预览&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/00117ee5-ac0e-41e2-8045-b5356c5bbe11&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/a9b3002f-b90a-4393-a5e8-da09e5e201cf&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/9876cb1f-9f54-47e5-b3de-fcbe1aadfc79&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/835318bd-0119-4588-8040-da61be1e0f7d&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;其他&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;纯粹是面向 Agent 的自用的项目，虽然做了多家庭切换，但是目前还没有支持多用户（&lt;/li&gt;
-&lt;li&gt;以后黄瓜不会烂在冰箱里了，但是把已有物品导入还是个麻烦事（幸好我把 Agent 接入了 QQ ，在家里一边走一边发语音消息说一遍物品的位置和数量就行）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/1d966aa9-2f0e-4e80-8695-6bcb57c75046&quot;/&gt;&lt;/p&gt;
+      <title>watch 充电器是不是随便用就可以了</title>
+      <link>https://www.v2ex.com/t/1243108</link>
+      <guid>v2ex-1243108</guid>
+      <pubDate>Sat, 19 Sep 2026 01:39:12 GMT</pubDate>
+      <description>&lt;p&gt;外版的 watch 是不是 5W 的充电，充电器大于 5W 就可以冲了&lt;/p&gt;
 </description>
     </item>
   </channel>
