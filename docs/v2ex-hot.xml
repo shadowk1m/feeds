@@ -4,13 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 19 Sep 2026 06:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:15:17 GMT</lastBuildDate>
     <item>
-      <title>找工作暂时完结，转行啦</title>
-      <link>https://www.v2ex.com/t/1243028</link>
-      <guid>v2ex-1243028</guid>
-      <pubDate>Fri, 18 Sep 2026 09:17:36 GMT</pubDate>
-      <description>前情提要：软测 6 年，gap 半年之后找了半个月，4 终面 0offer&lt;br /&gt;在意识到这行好像要完蛋了之后，我就立刻开始准备转行了，分别先找了教培相关，ate 相关的一些信息，发现现在这些也没那么好转&lt;br /&gt;然后转机出现在我发的一个帖子里，有人说以我 c9 本的学历，为什么还要去 boss 直聘找工作？我最开始只当是在阴阳我，后面想了想，毅然决然给我本科的导师发了消息，询问有没有什么转行的可能性&lt;br /&gt;这位导师在我本科的时候就询问过我的毕业去向，也和我聊了很多关于 offer 和家庭的一些事情，后续跳槽离开所在城市甚至专门发了消息祝我发展顺利，我也就抱着试一试的态度给他发了消息&lt;br /&gt;结果非常巧的是，我老师他真的刚开了一个公司，承接他之前的一些制造硬件的业务，他直接让我发简历给他，然后简单交流之后今天直接告诉我可以去那边先学技术，后续可以转销售或者继续技术&lt;br /&gt;短短 12 小时之后我就收到了一份 12k ，955 双休满额五险一金的转行工作（虽然试用期八折吧）&lt;br /&gt;我现在满心欢喜，只能感叹一句真的是天无绝人之路啊</description>
+      <title>结婚一年半，准备离婚了</title>
+      <link>https://www.v2ex.com/t/1243140</link>
+      <guid>v2ex-1243140</guid>
+      <pubDate>Sat, 19 Sep 2026 05:50:57 GMT</pubDate>
+      <description>导火索：我妈拿饭来，和我说话，我老婆嫌我妈和我说她坏话了，今天已经收拾东西离家出走了。</description>
     </item>
     <item>
       <title>工资越高是不是工作越轻松</title>
@@ -24,72 +24,61 @@
 </description>
     </item>
     <item>
-      <title>机票购买后当天降价 110 多，有解决办法吗？</title>
-      <link>https://www.v2ex.com/t/1243009</link>
-      <guid>v2ex-1243009</guid>
-      <pubDate>Fri, 18 Sep 2026 08:05:11 GMT</pubDate>
-      <description>&lt;p&gt;9 月 17 日凌晨在携程购买了 9 月 26 日 吉祥航空的济州岛飞南京的 5 张票，623 一张，9 月 17 日晚上查只有不到 510 了，每张票被坑了 110 多，5 张票接近 600 块。这种情况有办法解决吗？联系了携程客服基本就是推脱，不解决。这种情况是否只能自认倒霉了呢？太影响心情了&lt;/p&gt;
+      <title>看图，好像确实是这样子</title>
+      <link>https://www.v2ex.com/t/1243104</link>
+      <guid>v2ex-1243104</guid>
+      <pubDate>Sat, 19 Sep 2026 01:17:46 GMT</pubDate>
+      <description>&lt;p&gt;自从 AI 出来后，包括我自己，也是兴致冲冲的开发了 &lt;a href=&quot;https://github.com/twotwoba/LaunchX&quot; rel=&quot;nofollow&quot;&gt;Launchx 来&lt;/a&gt;自用，好像是个人都能指挥 AI 开发出自己的产品。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/bvnsux6.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;我不否认，AI 在企业级项目上还不能做到很完美，但是工具类的东西，几乎没有不能完成的。&lt;/p&gt;
+&lt;p&gt;就说 V2EX 的 ios 客户端吧，v 站上就看到了很多个，挨个用下来过，现在我个人感觉最好用的就是 Vex （非广告，我是早期用户），它让我感觉好的设计与用户体验也许能让产品存活下来。&lt;/p&gt;
+&lt;p&gt;但是，我又思考了一个问题：设计与用户体验是 AI 最容易复刻的！如何才能保证产品的竞争力呢？&lt;/p&gt;
+&lt;p&gt;独立开发者要怎么做才能在这个 AI 时代立足呢？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>锐评一下用过的 Agents/Harness</title>
-      <link>https://www.v2ex.com/t/1242976</link>
-      <guid>v2ex-1242976</guid>
-      <pubDate>Fri, 18 Sep 2026 06:48:15 GMT</pubDate>
-      <description>&lt;p&gt;claude code：终端 agent 的鼻祖，一开始就听闻 cc 大名，最开始就用的 cc ，后面切到别的 agent 换了一轮，发现 cc 功能还是齐全，并且很多概念都是 anthropic 提出并在 cc 首发的，例如 subagent ，workflow ，很喜欢 focus 模式，真正的 vibecoding ，但是最后发现接其他模型缓存命中率就是比 chat 协议的 agent 第一档，然后走网关那边也修不好，cc 也不开放源码，就放弃了。&lt;/p&gt;
-&lt;p&gt;codex cli：gpt 大白嫖时代的神，当时 gpt5.3codex gpt5.4 的时候很多批发的 plus 号，team 号，当时真的是爽蹬，哪怕 codex 少很多功能也无所谓，反正 token 约等于不要钱，后面更新了，强制 responses 协议，便宜号也没了，开发重心转向桌面端了，而且界面还是很烂，几个月了一点改进都没有，遂放弃。&lt;/p&gt;
-&lt;p&gt;pi/omp：小众的 agent ，当初用的时候装了几个插件，但是 tui 太丑了，一点审美都没有，那些高人气的插件也是毫无审美，跑起来就像是在一个水泥柱子上糊的广告，尝试让 ai 自己开发插件，但当时 ai 能力不强，开发的 tui 插件总是有 bug ，我自己也不懂解决不了，反复 push 几轮就不想尝试了。omp 的话东西太多了，设置页打开密密麻麻的，用不惯，而且 ui 很杀马特。&lt;/p&gt;
-&lt;p&gt;opencode：当时号称 cc 的替代品，并且提供免费模型可调用，但是 tui 可自定义程度低，session 用数据库管理而不是 json 文件，功能对比 cc 缺少了一些，总之用起来不顺手，最后也放弃了。&lt;/p&gt;
-&lt;p&gt;gemini/agy cli：当时 codex 大白嫖结束之后，薅了谷歌家的学生会员还买了 pro 号，但是额度实在少的可怜，随便用下就 gemini 额度没有了。&lt;/p&gt;
-&lt;p&gt;deepseek harness：万众期待的 harness ，但是出来的是一个预览版，并且和 pi 不同，pi 出来就是毛坯房，用户自己装修，而 dsh 告诉你他先给你一个毛坯房，但是你自己装修的时候，官方会把墙拆了，布局改了，你装修的都白装修了，在迭代了几个版本之后我决定等 dsh 稳定了之后再来使用。&lt;/p&gt;
-&lt;p&gt;copilot：远古时期唯一能用的 agent ，当时还是 github 学生会员，每月可以向神提问三百次，所有的代码都得截取片段拖到对话框里，当时也没别的 ai 能用了，不过当时似乎还算不上完整版的 agent ，很多 tools 还不完善，即便如此也帮助我完成了很多学生时期的作业，后来出了 cli 版本，但是额度少得可怜，也就不用了。&lt;/p&gt;
-&lt;p&gt;cursor：当初会员便宜的时候用过，后来不看代码了，就不用了。&lt;/p&gt;
-&lt;p&gt;grok：当前主力，界面流畅，功能齐全，还开源，对标 cc ，cc 的 mcp 都可以被无缝衔接到 grok 里面，默认 chat 协议对缓存友好，没啥毛病，后面 dsh 稳定了可能还是会转去 dsh 。&lt;/p&gt;
-&lt;p&gt;zcode：codex gui 的复刻版，还有特色功能，但是闭源，并且 remote 支持不太好，不同 local 机器 remote 到同一个 server 的时候会话不共享，只能等智谱来修，偶尔使用。&lt;/p&gt;
-&lt;p&gt;reasonix/whale：和 deepseekv4 一起出的社区 agent ，都是号称专门为 deepseek 优化的，但是 dsh 出来之后似乎被抢占了生态位，并且 ds 还涨价了，开发者动力更少了。&lt;/p&gt;
+      <title>有什么比较好的方案让 AI 实现 24 小时自动化开发？</title>
+      <link>https://www.v2ex.com/t/1243154</link>
+      <guid>v2ex-1243154</guid>
+      <pubDate>Sat, 19 Sep 2026 07:17:15 GMT</pubDate>
+      <description>&lt;p&gt;复杂任务 AI 动不动执行要 1~2 个小时，人不可能一直坐在电脑旁等结果，有没比较好的方案能让 AI 实现 24 小时自动化开发，并且可以设定哪个 AI 负责验收和补充，哪个 AI 负责开发。以及 5 个小时额度耗尽，会自动等 5 小时额度恢复继续执行任务？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>解包了 ZCode 上传的加密包</title>
-      <link>https://www.v2ex.com/t/1243017</link>
-      <guid>v2ex-1243017</guid>
-      <pubDate>Fri, 18 Sep 2026 08:32:22 GMT</pubDate>
-      <description>&lt;p&gt;逆向了智谱的加密规范，本地生成了一份公私钥对作为参数直接传入 ZCode 。解包生成的 &lt;code&gt;tar.gz.enc&lt;/code&gt; 里面确实是全量的 &lt;code&gt;.git&lt;/code&gt; 数据，还有触发这次操作时输入的 Prompt 提示词全文。&lt;/p&gt;
+      <title>2026 年到底还有哪个模型能正常说人话的？不需要能力多强</title>
+      <link>https://www.v2ex.com/t/1243125</link>
+      <guid>v2ex-1243125</guid>
+      <pubDate>Sat, 19 Sep 2026 02:55:33 GMT</pubDate>
+      <description>&lt;p&gt;从今年开始感觉所有模型都 Coding 特化了，虽然每次许愿许得很开心，但是偶尔要讨论一下的时候就很烦，字里行间都充斥着奇怪的用词，语法和停顿，根本看不进去&lt;/p&gt;
+&lt;p&gt;GPT 就不说了，不说人话被诟病很久了；
+A 家的稍微好一点，但是太贵，而且从 4.7 开始也渐渐不太类人了；
+grok 和 glm 感觉专门针对代码训的，丝毫不考虑交流，上来就是一堆拽拽的专业名词，搜一下根本没人在用，也不知道是不是模型自造的；
+DeepSeek 本来一直都还挺好，我都拿来把别的模型的输出翻译一遍，但是这次 0910 更新之后也开始不说人话了，还没地方能调旧版，也是没招了&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>各位的 Zcode 中招了没？</title>
-      <link>https://www.v2ex.com/t/1242986</link>
-      <guid>v2ex-1242986</guid>
-      <pubDate>Fri, 18 Sep 2026 07:01:31 GMT</pubDate>
-      <description>&lt;p&gt;说是会静默上传啊，我的电脑上真有这个目录，啊啊啊！&lt;/p&gt;
+      <title>问一下，有没有合成语音的 api？英式英语</title>
+      <link>https://www.v2ex.com/t/1243074</link>
+      <guid>v2ex-1243074</guid>
+      <pubDate>Fri, 18 Sep 2026 13:48:50 GMT</pubDate>
+      <description>起因： &lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1241636#reply12&quot;&gt;https://www.v2ex.com/t/1241636#reply12&lt;/a&gt;&lt;br /&gt;卡在最后一步了，英语单词我是通过火山引擎 api 进行合成的，中文还好，英语单词的话，总是有几个是错误的，难受，有没有介绍比较好的的？  是需要英式英语</description>
+    </item>
+    <item>
+      <title>如何可以安全的买点 U</title>
+      <link>https://www.v2ex.com/t/1243061</link>
+      <guid>v2ex-1243061</guid>
+      <pubDate>Fri, 18 Sep 2026 11:46:27 GMT</pubDate>
+      <description>&lt;p&gt;不想让银行支付宝冻结了.有安全的买 U 吗.
+一般哪个交易所呢.
+币安除外,我币安账户被封了.不知怎么恢复.&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>大便时好时不好，纠结要不要去检查</title>
-      <link>https://www.v2ex.com/t/1243029</link>
-      <guid>v2ex-1243029</guid>
-      <pubDate>Fri, 18 Sep 2026 09:26:23 GMT</pubDate>
-      <description>&lt;p&gt;本人 35 岁&lt;/p&gt;
-&lt;p&gt;前段时间午饭后偶尔肚子不舒服(想拉肚子那种不适)，经常拉稀&lt;/p&gt;
-&lt;p&gt;后来特意留意三餐尽可能规律干净，早上包子鸡蛋稀饭，午饭基本老乡鸡，晚饭也尽可能保证干净卫生，但偶尔还会肚子不舒服想拉稀，一般刚拉出来的比较正常，后面就是稀的，偶尔也会拉成形大便&lt;/p&gt;
-&lt;p&gt;除了成不成形的问题，也留意颜色，大部分偏褐色或棕色，没有出血情况&lt;/p&gt;
-&lt;p&gt;想知道大家都这样吗？我这情况有没有必要去做检查，甚至做胃肠镜？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Zcode 飞书群官方回应来了</title>
-      <link>https://www.v2ex.com/t/1243032</link>
-      <guid>v2ex-1243032</guid>
-      <pubDate>Fri, 18 Sep 2026 09:44:02 GMT</pubDate>
-      <description>&lt;p&gt;各位 ZCode 用户：&lt;/p&gt;
-&lt;p&gt;今日社区中的相关讨论我们高度重视，第一时间完成自查，先向受影响的用户道歉。现就有关情况说明如下：&lt;/p&gt;
-&lt;p&gt;此次问题源于 ZCode 的“代码库索引”功能。该功能旨在帮助用户在本地生成仓库索引，以支持包括历史版本在内的会话检查点恢复、历史版本回退及 Repo Wiki 等功能。&lt;/p&gt;
-&lt;p&gt;Repo Wiki 功能在生成 Wiki 页面时可能会触发仓库数据上传。Wiki 页面在云端生成后，相关上传数据会立即销毁，不会保存。由于该功能在上线初期默认开启，部分用户因此受到影响，对此我们深感抱歉，目前相关问题已经修复。&lt;/p&gt;
-&lt;p&gt;我们深知任何关于数据的问题都会直接影响用户对产品的信任，我们将于近期开源 ZCode 代码库，在一个更加开放的生态中把产品做的更好，并邀请第三方评估人员对系统运行情况进行审查，并持续公开产品审查进展，以完全透明的方式建立大家的信任。&lt;/p&gt;
-&lt;p&gt;对于此次问题给大家带来的困扰，我们深表歉意。我们将为全体 ZCode 用户额外提供一次周额度重置，额度将于今日发放。&lt;/p&gt;
-&lt;p&gt;再次感谢大家的关注与监督。 @所有人&lt;/p&gt;
-</description>
+      <title>iCloud 订阅送 Arcade 了，港区没得现在转哪个区好？</title>
+      <link>https://www.v2ex.com/t/1243102</link>
+      <guid>v2ex-1243102</guid>
+      <pubDate>Sat, 19 Sep 2026 00:07:56 GMT</pubDate>
+      <description>有的游戏还是值得一玩的，比如王国保卫战</description>
     </item>
   </channel>
 </rss>
