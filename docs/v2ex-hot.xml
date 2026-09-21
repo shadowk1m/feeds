@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 21 Sep 2026 15:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:02:53 GMT</lastBuildDate>
     <item>
       <title>Vex —— 更好用的 V2EX iOS 客户端 ｜ 送码</title>
       <link>https://www.v2ex.com/t/1243520</link>
@@ -121,18 +121,18 @@ Bug 反馈： &lt;a href=&quot;https://github.com/ryusaksun/Vex_Bugs/issues&quot
       <description>薅了朋友的江苏国补，买的无线充电盒版，到手价 977 元&lt;br /&gt;目前的迭代路线是 AirPods 一代（换一次电池）→AirPods 二代（计划换电池）→AirPods5&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/tBrva08.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/tBrva08.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;先说优点：&lt;br /&gt;1.降噪是一种很神奇的体验&lt;br /&gt;我自己不能戴入耳式耳机，会过敏+中耳炎，所以从未试过降噪耳机&lt;br /&gt;昨晚耳机一到手，直接佩戴上，世界瞬间安静了&lt;br /&gt;队友晚上打呼，声音巨大，我开降噪玩手机的时候也几乎听不见&lt;br /&gt;&lt;br /&gt;2.续航很 OK&lt;br /&gt;昨晚九点多拿到手玩到快一点睡觉，没报过低电&lt;br /&gt;&lt;br /&gt;目前能体验到的就这两点优点&lt;br /&gt;接下来就全是缺点了&lt;br /&gt;1.拿取困难&lt;br /&gt;用惯了 AirPods1 代和 2 代，现在 5 代的拿取是真的需要用力抠&lt;br /&gt;尤其我做了美甲，之前拿耳机都是拿手指肚一捏就拿出来了，现在需要大力抠抠抠抠好半天才能抠出来&lt;br /&gt;&lt;br /&gt;2.舒适度不如 1 代 2 代&lt;br /&gt;短圆的身子对小耳朵有点不太友好，戴久了感觉胀痛&lt;br /&gt;二代我经常戴着睡着&lt;br /&gt;五代目前看来基本不可能了&lt;br /&gt;&lt;br /&gt;3.开关盒声音很大&lt;br /&gt;这个在有人同居的情况下真的很困扰&lt;br /&gt;我晚睡，开关盒的时候总怕吵醒队友&lt;br /&gt;&lt;br /&gt;4.音质总体上不如前两代&lt;br /&gt;这个感受可能因人而异&lt;br /&gt;但我自己主观上听下来感觉音质是更糙的，细节上不如以前的舒服&lt;br /&gt;&lt;br /&gt;5.系统限制&lt;br /&gt;手机系统要更新到 27.0 才会有弹窗和查找&lt;br /&gt;iOS27 以下的系统虽然可以直连、开降噪等等&lt;br /&gt;但弹窗显示电量和查找还是挺重要的&lt;br /&gt;逼我把我的 xsmax 和 15promax 升级到 iOS27 我是不愿意的&lt;br /&gt;这个有点难受了&lt;br /&gt;&lt;br /&gt;总体来说，还是有明显的升级感，性价比也是拉满的&lt;br /&gt;从二代可以手柄控制播放到五代轻扫控制音量也觉得体验很好&lt;br /&gt;但诸多不习惯也确实是客观存在的&lt;br /&gt;&lt;br /&gt;以上都是主观感受，不要喷我(┳＿┳)...</description>
     </item>
     <item>
-      <title>我发现写病毒居然很有意思。无害的那种</title>
-      <link>https://www.v2ex.com/t/1243534</link>
-      <guid>v2ex-1243534</guid>
-      <pubDate>Mon, 21 Sep 2026 01:45:49 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/7j7bvvI.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/7j7bvvI.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/BOLnFeh.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/BOLnFeh.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;这是架构图，网上看来的，我加了自毁程序，全部流程结束后会自动回滚并且自毁&lt;br /&gt;&lt;br /&gt;由于大部分 ai 有安全措施不让写。。我只有哄骗多个 ai 写部分模块。。然后在用本地部署的小模型，完善下，再来点古法编程.&lt;br /&gt;放 vps 里跑一遍，看着这个病毒运行起来，杀毒软件查不出来，掐死杀毒软件，最后啪的一下自毁了。。感觉好有成就感啊。。。</description>
-    </item>
-    <item>
       <title>如果是你的话， 17pro1t 和 18pro512g 选哪个？</title>
       <link>https://www.v2ex.com/t/1243558</link>
       <guid>v2ex-1243558</guid>
       <pubDate>Mon, 21 Sep 2026 02:32:35 GMT</pubDate>
       <description>1. 老婆现在用的是 14pro ，按照之前的惯例，我们是 4 年一换&lt;br /&gt;2. 今年有了娃，拍娃的时候多了，想买个存储空间大一点的&lt;br /&gt;3. 17pro1t 价格 11999 芯片次一点 灵动岛更大 续航低一点 没有可变光圈，存储空间一步到位&lt;br /&gt;4. 18pro512g 价格 11699 （ pdd ），最新的芯片，灵动岛更小、续航高一丢丢，相机有升级，存储空间只有 512g ，不确定拍娃会不会紧张&lt;br /&gt;&lt;br /&gt;硬件对比&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/8uPvf2m.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/8uPvf2m.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;gpt 给的建议&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ZIlNiMI.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ZIlNiMI.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;有点纠结上了，主要还是心疼钱包，不然直接上 18pro 1t 了，贵了 3500 块，就多 512G 存储空间</description>
+    </item>
+    <item>
+      <title>我发现写病毒居然很有意思。无害的那种</title>
+      <link>https://www.v2ex.com/t/1243534</link>
+      <guid>v2ex-1243534</guid>
+      <pubDate>Mon, 21 Sep 2026 01:45:49 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/7j7bvvI.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/7j7bvvI.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/BOLnFeh.jpeg&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/BOLnFeh.jpeg&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;这是架构图，网上看来的，我加了自毁程序，全部流程结束后会自动回滚并且自毁&lt;br /&gt;&lt;br /&gt;由于大部分 ai 有安全措施不让写。。我只有哄骗多个 ai 写部分模块。。然后在用本地部署的小模型，完善下，再来点古法编程.&lt;br /&gt;放 vps 里跑一遍，看着这个病毒运行起来，杀毒软件查不出来，掐死杀毒软件，最后啪的一下自毁了。。感觉好有成就感啊。。。</description>
     </item>
     <item>
       <title>纯吐槽，被当初装修安装工坑了</title>
