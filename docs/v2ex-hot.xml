@@ -4,92 +4,27 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 23 Sep 2026 06:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:26:20 GMT</lastBuildDate>
+    <item>
+      <title>我说的话那里不好听了？谁能给我解释一下</title>
+      <link>https://www.v2ex.com/t/1244204</link>
+      <guid>v2ex-1244204</guid>
+      <pubDate>Wed, 23 Sep 2026 03:48:49 GMT</pubDate>
+      <description>&lt;p&gt;我通俗易懂的为他解释为什么请求会那么多，他（ Kwan9 ）阴阳怪气说我说话难听&lt;br/&gt;
+我实在是没懂哪里难听了？ 谁能给我解释一下，是台湾与大陆语言上的歧义吗&lt;br/&gt;
+另外他提到的 ipv6 的问题，因为我只适配了简体中文的 Windows 系统，他的是繁体中文的，所以 ipv6 是坏的，我在他提 issue 的当天给他修好了&lt;br/&gt;
+&lt;a href=&quot;https://github.com/zanjie1999/tcp-over-websocket/issues/33&quot; rel=&quot;nofollow&quot;&gt;https://github.com/zanjie1999/tcp-over-websocket/issues/33&lt;/a&gt;
+&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/4157c914-7ec2-4459-8404-6caf11f2ad89&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;这是我之前写的一个可以免费使用的开源项目，支持自动断连恢复，使用 websocket 的 tcp/udp 端口转发程序，支持自动的 cdn ip 优选&lt;br/&gt;
+禁止用于黑灰产等违法用途&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>试用期没通过，很迷茫，求指点🙏</title>
       <link>https://www.v2ex.com/t/1244105</link>
       <guid>v2ex-1244105</guid>
       <pubDate>Wed, 23 Sep 2026 00:24:55 GMT</pubDate>
       <description>坐标美国，本科学历，大学专业是（历史+数字媒体）。7 月底在一家规模非常小（总计不超过 10 个人）的华人自媒体公司找了份摄影师的工作。入职前公司说试用期三个月，三个月后转正。&lt;br /&gt;&lt;br /&gt;今天公司通知我试用期没通过，理由是：&lt;br /&gt;1. 技术不过关，跟团队磨合的太慢，总是需要返工。&lt;br /&gt;实际情况：公司不提供入职培训，也没有入职指南，更没有老员工手把手的带。老板默认员工入职后立刻就能上手干，立刻就能满足团队的交付标准，并且默认摄影师可以同时拍摄“照片”和“视频”。&lt;br /&gt;2. 没法配合团队的工作时间，拖慢整体进度。&lt;br /&gt;实际情况：凌晨发消息问我工作相关的问题，我没有立即回复，第二天起床后回复的。以及对交付速度要求极高，大多数情况下要求拍摄完成后 24 小时内必须交付图片和视频，即第一天拍摄的素材第二天就必须上传。少数情况下要求当天下午拍完后要求当天夜里必须交付图片和视频（即拍摄完成后 12 小时内交付全部素材）。&lt;br /&gt;&lt;br /&gt;公司现在是希望我从全职转成兼职，从“按月薪结算”变成“按次结算”，收入几乎腰斩。而且明确表示不会帮我办身份，需要我自己想办法。&lt;br /&gt;&lt;br /&gt;我现在一方面为收入发愁，兼职的收入很难养活自己；另一方面也怀疑是不是真的是我个人的问题导致被裁。脑子真的很乱……</description>
-    </item>
-    <item>
-      <title>[送额度] 灵眸 AI 全员福利：注册 $2 + 回帖再送 $9</title>
-      <link>https://www.v2ex.com/t/1244021</link>
-      <guid>v2ex-1244021</guid>
-      <pubDate>Tue, 22 Sep 2026 09:23:27 GMT</pubDate>
-      <description>&lt;p&gt;灵眸 AI 给 V2EX 的朋友发点额度。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🎁 福利内容&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;注册即可领 &lt;strong&gt;$2&lt;/strong&gt; 账户余额，注册地址 &lt;a href=&quot;https://api.lmuai.ai/g/bF5zuCmw&quot; rel=&quot;nofollow&quot;&gt;https://api.lmuai.ai/g/bF5zuCmw&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;回帖的账号&lt;strong&gt;额外再送 $9&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;✨ 领取条件&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不分新老用户，有账号就能领&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;📦 领取方式&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;回帖贴你的 &lt;strong&gt;灵眸 AI 注册邮箱&lt;/strong&gt;，我会手动发放，到账即刻可用&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;关于灵眸 AI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一个 AI API 聚合网关，一个 Base URL 接 Claude 5 / GPT-6 / Gemini / Grok ，以及 GLM 、Qwen 、DeepSeek 、Kimi 这些国产模型。同时提供 Anthropic 原生协议（&lt;code&gt;/v1/messages&lt;/code&gt;）和 OpenAI 兼容协议，Claude Code 、Codex 、Cursor 、Trae 这类工具都能直接接。&lt;/p&gt;
-&lt;p&gt;海外模型在 &lt;code&gt;&lt;a href=&quot;http://api.lmuai.ai&quot; rel=&quot;nofollow&quot;&gt;api.lmuai.ai&lt;/a&gt;&lt;/code&gt;（境外站点，面向海外用户），国产模型在 &lt;code&gt;&lt;a href=&quot;http://api.lmuai.com&quot; rel=&quot;nofollow&quot;&gt;api.lmuai.com&lt;/a&gt;&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;不想先注册也能验一下端点是不是真的&lt;/strong&gt;，零凭证、不消耗额度：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;curl https://api.lmuai.ai/v1/messages \
-  -H &quot;x-api-key: sk-invalid-key-for-test&quot; \
-  -H &quot;anthropic-version: 2023-06-01&quot; \
-  -H &quot;content-type: application/json&quot; \
-  -d &#39;{&quot;model&quot;:&quot;claude-sonnet-5&quot;,&quot;max_tokens&quot;:20,&quot;messages&quot;:[{&quot;role&quot;:&quot;user&quot;,&quot;content&quot;:&quot;hi&quot;}]}&#39;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;返回结构化的 JSON 鉴权错误，说明协议是真实实现；返回站点首页 HTML 或通用 404 ，说明那个路径是兜底的。这方法可以拿去验任何一家，包括我们自己。&lt;/p&gt;
-&lt;p&gt;$11 不多，够跑不少请求了，先试试再决定要不要充。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>如果有一个实名制且类似豆瓣的平台，只让男性用户注册，你会用么？</title>
-      <link>https://www.v2ex.com/t/1244147</link>
-      <guid>v2ex-1244147</guid>
-      <pubDate>Wed, 23 Sep 2026 02:07:09 GMT</pubDate>
-      <description>&lt;p&gt;如题：如果一个线上平台：&lt;/p&gt;
-&lt;p&gt;1 、实名制
-2 、只让男性用户注册和使用
-3 、和豆瓣一样可以给电影、书籍、游戏、电视剧评分&lt;/p&gt;
-&lt;p&gt;你会用么？有市场么？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>纳斯达克又创历史新高了</title>
-      <link>https://www.v2ex.com/t/1244111</link>
-      <guid>v2ex-1244111</guid>
-      <pubDate>Wed, 23 Sep 2026 01:07:29 GMT</pubDate>
-      <description>ε=(´ο｀*)))唉，纳斯达克又创历史新高了，相信国运，定投纳指</description>
-    </item>
-    <item>
-      <title>[送码]庆祝我的 AppleTV 小红书客户端进入 AppStore 榜单，再次送码！</title>
-      <link>https://www.v2ex.com/t/1244093</link>
-      <guid>v2ex-1244093</guid>
-      <pubDate>Tue, 22 Sep 2026 17:15:07 GMT</pubDate>
-      <description>&lt;p&gt;发布一个多月，我的 APP 进入了美区 AppStore 的榜单，为了庆祝给大家带来了 10 个码（看情况再加），在评论区随机抽取随机楼层发送，3 天后开奖。
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Jj9KXYh.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;简单介绍一下我的 APP ，在 AppleTV 上浏览小红书的推荐流、视频流和直播，查看我的笔记、点赞、收藏，支持搜索笔记，使用 swift 原生编写可以保证 UI 流畅。&lt;/p&gt;
-&lt;p&gt;推荐流：
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/g7u3nLx.jpeg&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/xmb16LX.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;视频流：
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/uUXJOGm.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;搜索：
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/vvb3dvg.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;我的页面：
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/yCir88X.jpeg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>ds 4.1 现在能干活吗？</title>
-      <link>https://www.v2ex.com/t/1244052</link>
-      <guid>v2ex-1244052</guid>
-      <pubDate>Tue, 22 Sep 2026 12:11:18 GMT</pubDate>
-      <description>&lt;p&gt;我自己本身不是干开发的，只是用 ai 写了题库系统来整理题目这些&lt;/p&gt;
-&lt;p&gt;之前一直用的 Codex ，其实也是 gpt6 出来之后，系统演进的速度一下快了好多，给个需求，讨论完之后基本它就能把功能实施上线，然后用几轮再修改几轮就可以工作了。修小细节问题这些完全不会搞错&lt;/p&gt;
-&lt;p&gt;但是我开的是 5x ，这两天集中做几个功能两张重置卡全部干没了。我又开不起 20x ，太贵了。&lt;/p&gt;
-&lt;p&gt;因为目前系统的一部分能力就是调用 ai 进行分析，所以如果 Codex 的额度烧干净了，现在基本就处于完全停机状态。&lt;/p&gt;
-&lt;p&gt;所以，想问下，如果额度不够的时候，用 ds4.1 接着干活能不能行啊？现在它的能力到底怎么样&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>好像很少人知道曾经纳指跌过 75%？纳指现在明显就是“宝妈指数”。</title>
@@ -138,18 +73,42 @@
 </description>
     </item>
     <item>
-      <title>我说的话那里不好听了？谁能给我解释一下</title>
-      <link>https://www.v2ex.com/t/1244204</link>
-      <guid>v2ex-1244204</guid>
-      <pubDate>Wed, 23 Sep 2026 03:48:49 GMT</pubDate>
-      <description>&lt;p&gt;我通俗易懂的为他解释为什么请求会那么多，他（ Kwan9 ）阴阳怪气说我说话难听&lt;br/&gt;
-我实在是没懂哪里难听了？ 谁能给我解释一下，是台湾与大陆语言上的歧义吗&lt;br/&gt;
-另外他提到的 ipv6 的问题，因为我只适配了简体中文的 Windows 系统，他的是繁体中文的，所以 ipv6 是坏的，我在他提 issue 的当天给他修好了&lt;br/&gt;
-&lt;a href=&quot;https://github.com/zanjie1999/tcp-over-websocket/issues/33&quot; rel=&quot;nofollow&quot;&gt;https://github.com/zanjie1999/tcp-over-websocket/issues/33&lt;/a&gt;
-&lt;img alt=&quot;image&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/user-attachments/assets/4157c914-7ec2-4459-8404-6caf11f2ad89&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;这是我之前写的一个可以免费使用的开源项目，支持自动断连恢复，使用 websocket 的 tcp/udp 端口转发程序，支持自动的 cdn ip 优选&lt;br/&gt;
-禁止用于黑灰产等违法用途&lt;/p&gt;
+      <title>[送码]庆祝我的 AppleTV 小红书客户端进入 AppStore 榜单，再次送码！</title>
+      <link>https://www.v2ex.com/t/1244093</link>
+      <guid>v2ex-1244093</guid>
+      <pubDate>Tue, 22 Sep 2026 17:15:07 GMT</pubDate>
+      <description>&lt;p&gt;发布一个多月，我的 APP 进入了美区 AppStore 的榜单，为了庆祝给大家带来了 10 个码（看情况再加），在评论区随机抽取随机楼层发送，3 天后开奖。
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Jj9KXYh.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;简单介绍一下我的 APP ，在 AppleTV 上浏览小红书的推荐流、视频流和直播，查看我的笔记、点赞、收藏，支持搜索笔记，使用 swift 原生编写可以保证 UI 流畅。&lt;/p&gt;
+&lt;p&gt;推荐流：
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/g7u3nLx.jpeg&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/xmb16LX.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;视频流：
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/uUXJOGm.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;搜索：
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/vvb3dvg.jpeg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;我的页面：
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/yCir88X.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>如果有一个实名制且类似豆瓣的平台，只让男性用户注册，你会用么？</title>
+      <link>https://www.v2ex.com/t/1244147</link>
+      <guid>v2ex-1244147</guid>
+      <pubDate>Wed, 23 Sep 2026 02:07:09 GMT</pubDate>
+      <description>&lt;p&gt;如题：如果一个线上平台：&lt;/p&gt;
+&lt;p&gt;1 、实名制
+2 、只让男性用户注册和使用
+3 、和豆瓣一样可以给电影、书籍、游戏、电视剧评分&lt;/p&gt;
+&lt;p&gt;你会用么？有市场么？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>纳斯达克又创历史新高了</title>
+      <link>https://www.v2ex.com/t/1244111</link>
+      <guid>v2ex-1244111</guid>
+      <pubDate>Wed, 23 Sep 2026 01:07:29 GMT</pubDate>
+      <description>ε=(´ο｀*)))唉，纳斯达克又创历史新高了，相信国运，定投纳指</description>
     </item>
     <item>
       <title>现在如果 ai 突然全部消失了，还有多少人能古法编程？换句话说还有多少人能不靠 ai，从头到尾古法编程？</title>
@@ -157,6 +116,45 @@
       <guid>v2ex-1244137</guid>
       <pubDate>Wed, 23 Sep 2026 01:45:17 GMT</pubDate>
       <description>反正我是不行了。刚入行那几年，我是可以。。到现在不用 ai ，我连代码都快不会写了</description>
+    </item>
+    <item>
+      <title>300 万存款财务自由</title>
+      <link>https://www.v2ex.com/t/1244159</link>
+      <guid>v2ex-1244159</guid>
+      <pubDate>Wed, 23 Sep 2026 02:34:53 GMT</pubDate>
+      <description>&lt;p&gt;今天在知乎刷到一个很久以前的帖子,觉得很有意思,也给那些考虑多少钱财务自由的老哥一点参考&lt;/p&gt;
+&lt;p&gt;由于时间问题,利率有所变动,仅供参考.
+另外小县城每个月有个 4-5k 的支出用于个人生活,简直爽翻天, 家庭支出就有点紧巴了.&lt;/p&gt;
+&lt;p&gt;300 万大概是 6 个 50 万，50 万是 36 个 1.4X （计算器按一下）万
+找六家大银行，每个月每个银行存入 1.4X 万，每月合计存约 8.3 万
+每一笔都存三年定期，这样到了三年后，按照现在的利率 2.4 ，每个月银行会给你 8.3*0.7=0.58 万
+然后 9 万继续存 6 个 1.4X 万，利息自由支配&lt;/p&gt;
+&lt;p&gt;从第四年起，每个月你将有固定的&lt;strong&gt;利息 5833 元&lt;/strong&gt;，而且，符合 50 万包赔付的银行额度，随着利率上升，这笔钱会增加，利率降低，以后会减少。&lt;/p&gt;
+&lt;br/&gt;
+&lt;pre&gt;&lt;code&gt;第一月 8.3 万 6 个银行 3 年期,100 万随便哪个银行 2 年期，100 万随便哪个银行 1 年期，50 万随便哪个银行半年期。
+第二月 8.3 万 6 个银行 3 年期（第二笔）
+第三个月 8.3 万 6 个银行 3 年期（第三笔）
+第七个月 50 万到期，8.3 万 6 个银行 3 年期（第七笔）
+第十三个月 100 万到期，存一个 50 万半年，8.3 万 6 个银行 3 年期（第十三笔）以此类推
+存够 36 个 8.3 万三年定期，形成循环。
+支付宝积攒约十万元，作为应急每个月尝试存钱的时候，增加一些本金，例如把（ 8.3 ）变成 8.5 ，8.7 ，9.0.保持一个原则，本金只增不减。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;作者：像素模糊
+链接： &lt;a href=&quot;https://www.zhihu.com/question/648479845/answer/3484196915&quot; rel=&quot;nofollow&quot;&gt;https://www.zhihu.com/question/648479845/answer/3484196915&lt;/a&gt;
+来源：知乎&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>注册 meta 的 muse 智能体 使用 google gemini pro 的 spark [绕过 ip 问题与排队]</title>
+      <link>https://www.v2ex.com/t/1244201</link>
+      <guid>v2ex-1244201</guid>
+      <pubDate>Wed, 23 Sep 2026 03:45:51 GMT</pubDate>
+      <description>&lt;h2&gt;1.打开 gemini pro 的 spark--&amp;gt;输入:打开 &lt;a href=&quot;https://muse.ai/join--%3E%E6%8E%88%E4%BA%88%E6%9D%83%E9%99%90--%3E%E5%9C%A8&quot; rel=&quot;nofollow&quot;&gt;https://muse.ai/join--&amp;gt;授予权限--&amp;gt;在&lt;/a&gt; remote 浏览器中进行注册--&amp;gt;输入邮箱--&amp;gt;接受验证码--&amp;gt;要求验证年龄--&amp;gt;选择第一个验证方式(信用卡验证,可以使用国内 visa 信用卡.我用的是招行的 visa)--&amp;gt;注册成功.&lt;/h2&gt;
+&lt;h2&gt;进入正常的桌面端浏览器,使用刚刚的注册信息进入 &lt;a href=&quot;http://muse.ai&quot; rel=&quot;nofollow&quot;&gt;muse.ai&lt;/a&gt;,然后点击左下角设置--&amp;gt;在通用--&amp;gt;使用情况中进行邀请码填写,我的邀请码是: DBADDI&lt;/h2&gt;
+&lt;p&gt;使用邀请码我们各自可以获得 10 亿 token 额度,而且永不过期.&lt;/p&gt;
+&lt;p&gt;然后对话框的右上角有礼物按钮,点击后可以分享你们的邀请码,被使用同样可以获得 10 亿 token 额度&lt;/p&gt;
+&lt;p&gt;** 各位 v2exer,注册起来吧!&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
