@@ -4,16 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 25 Sep 2026 13:58:24 GMT</lastBuildDate>
-    <item>
-      <title>我以一己之力，用三年时间，带起来了国内独立开发做出海网站赚美元养老行业。
-让不少中老年程序员焕发了第二春，让不少新程序员找到了人生方向。</title>
-      <link>https://www.v2ex.com/t/1244750</link>
-      <guid>v2ex-1244750</guid>
-      <pubDate>Fri, 25 Sep 2026 07:25:12 GMT</pubDate>
-      <description>我以一己之力，用三年时间，带起来了国内独立开发做出海网站赚美元养老行业。
-让不少中老年程序员焕发了第二春，让不少新程序员找到了人生方向。</description>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 18:13:12 GMT</lastBuildDate>
     <item>
       <title>一个不需要 gemini pro 的完全免费的注册 Muse 的方法</title>
       <link>https://www.v2ex.com/t/1244728</link>
@@ -31,53 +22,6 @@
 </description>
     </item>
     <item>
-      <title>实体倒闭真是活该的</title>
-      <link>https://www.v2ex.com/t/1244668</link>
-      <guid>v2ex-1244668</guid>
-      <pubDate>Thu, 24 Sep 2026 15:00:13 GMT</pubDate>
-      <description>&lt;p&gt;我奶奶在超市买的天地一号苹果醋，39 块钱 10 罐，外观看起来跟平时 15 罐的包装一样的，但是用小字写着 赠送两包纸巾。没错，里面塞了两包天地一号的纸巾充数，换作我去买我估计也会上当，毕竟不会看太仔细。&lt;/p&gt;
-&lt;p&gt;作为参考，拼多多日常价格 37 块钱 15 罐。&lt;/p&gt;
-&lt;p&gt;真是人才，买苹果醋饮料，还塞两包纸巾。   &lt;/p&gt;
-&lt;p&gt;标题仅攻击实体经济中的无良商家。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>用半年时间打磨的 HTTPS 抓包和调试工具-ApiCatcher，对标 Proxyman</title>
-      <link>https://www.v2ex.com/t/1244674</link>
-      <guid>v2ex-1244674</guid>
-      <pubDate>Thu, 24 Sep 2026 15:58:19 GMT</pubDate>
-      <description>&lt;p&gt;25 年年底，我当时还在上班，有一天领导让我接手一个我不了解的项目，上来就要改接口，于是就有了用抓包工具从 app 端抓包看涉及的功能都调用了哪些接口，这才有了后续我们做抓包工具的灵感，后来我想用到一些功能但试了几款都没有，就更想自己做一款了。&lt;/p&gt;
-&lt;p&gt;25 年我在 app store 看到的抓包工具还不到十款吧（现在再去看就多了），基本长得都差不多，功能也差不多，体验也差不多。一看就知道都是基于开源的版本改的。&lt;/p&gt;
-&lt;p&gt;我感觉这是个机会吧，虽然是小众需求，但能选择的产品不多，而且现有产品也不好用，于是就想开发一款比现有产品都好用的抓包工具：UI 简洁、容易上手、操作简单。把 90%常用的功能做得足够简单，让用户使用不需要看说明书，并且操作步骤能一步完成就不要让用户操作两步。&lt;/p&gt;
-&lt;p&gt;第一个版本只做了几个核心功能，但用了一个月时间写完，因审核问题，又延迟一个月，到 26 年 1 月低才上架成功。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://apicatcher.net/apicatcher.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;当时我其实没有了解到有 Proxyman 这款产品，我发布后不久才发现的，因为我没去做什么调研，只在 AppStore 上搜索有哪些抓包工具，而 Proxyman 又没有上架中国。&lt;/p&gt;
-&lt;p&gt;所以后面当我了解到 Proxyman 后，也是看 Proxyman 提供哪些功能我们还没有的就加上了，ApiCatcher 的功能才慢慢增多。&lt;/p&gt;
-&lt;p&gt;我并不想在价格上做优势，面向全球用户，Proxyman 定价多少我们也定价多少，我们想卷的是用户体验！&lt;/p&gt;
-&lt;p&gt;这半年我大部分时间都投入到了 ApiCatcher ，从开发 iOS 版本，到开发桌面端，再到 Android 端，目前已经支持 iOS 、Android 、Windows 、macOS 四个平台。也做了 Burp Suite 插件，能够在移动设备上实时捕获 HTTP/HTTPS 流量并实时传到 Burp Suite 上分析。还开放了实时同步协议，让所有用户都能实现自己开发接收端，实现类似 Burp Suite 插件这样的需求，这其实也是用户向我们提的需求。&lt;/p&gt;
-&lt;p&gt;在完成几个端的开发后，我们开始优化产品的一些细节体验，细节是最难描述的，但如果用过 ApiCatcher ，应该能感受到一些细节上的用心，举几个例子：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;编辑请求头时会提供常见请求头 key 和 value 选项（能选就不输入，因为记不住，还得去搜索复制）。&lt;/li&gt;
-&lt;li&gt;写脚本提供 AI 生成，APP 将请求自动生成 API 文档加入系统提示词，用户只需要描述需求就能生成脚本，生成的脚本还可以从历史请求中选择一个请求测试，不仅能查看结果还能看脚本打印的日志。&lt;/li&gt;
-&lt;li&gt;写正则表达式不会写？ AI 一键生成，生成后可以选择一个请求测试，测试失败可以一键修复。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;..... 这样的细节非常多，在此不过多介绍，说再多不如上手体验。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://apicatcher.net/apicatcher-ai-assistant.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;Proxyman 做的一些 AI 功能我们并不想做，不想为了做而做。我们加入 AI 更想让 AI 做擅长的事情、做真正用户需要的事情：帮生成正则表达式、帮生成 cron 表达式、帮生成脚本等。&lt;/p&gt;
-&lt;p&gt;抓包工具那么多，但用户需求的功能就那几个，所以我们要做的并不是跟 Proxyman 等抓包工具比谁的功能更多、比谁的功能更强，而是在用户实际需求、常用的功能上，比谁的体验用户更喜欢。当然，我们不会做推广，知道 Proxyman 的用户并不知道 ApiCatcher 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://apicatcher.net/pc/ui2/apicatcher-mac-request-details-tab-view.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://apicatcher.net&quot; rel=&quot;nofollow&quot;&gt;ApiCatcher&lt;/a&gt;的抓包功能是免费的，欢迎大家下载体验！
-官网： &lt;a href=&quot;https://apicatcher.net&quot; rel=&quot;nofollow&quot;&gt;https://apicatcher.net&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这里也赠送几个终身会员免费优惠链接：(在 iOS 上点击链接跳转到 AppStore 领取)&lt;/p&gt;
-&lt;p&gt;4XNLWHMLM3TY4RAJTT,&lt;a href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=4XNLWHMLM3TY4RAJTT&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=4XNLWHMLM3TY4RAJTT&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;3AAEL7TL8EK67WNEM4,&lt;a href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=3AAEL7TL8EK67WNEM4&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=3AAEL7TL8EK67WNEM4&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MAR8LAE8XMNLW4JYPE,&lt;a href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=MAR8LAE8XMNLW4JYPE&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=MAR8LAE8XMNLW4JYPE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;3WA83RPW6M4633XNAW,&lt;a href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=3WA83RPW6M4633XNAW&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=3WA83RPW6M4633XNAW&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;FPHFLNK8TEWT6T7X43,&lt;a href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=FPHFLNK8TEWT6T7X43&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=FPHFLNK8TEWT6T7X43&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;NERKHXYLENPJ4MFK4N,&lt;a href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=NERKHXYLENPJ4MFK4N&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6757103562&amp;amp;code=NERKHXYLENPJ4MFK4N&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>黑神话悟空-在线版</title>
       <link>https://www.v2ex.com/t/1244710</link>
       <guid>v2ex-1244710</guid>
@@ -87,25 +31,6 @@
 &lt;p&gt;3D 角色、骨骼动画、Boss 战、法术特效、古筝战斗配乐，全部由代码生成，没有用任何现成素材，整个游戏就一个网页文件。&lt;/p&gt;
 &lt;p&gt;打开就能玩👇&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://wukong.cnmwx.com/&quot; rel=&quot;nofollow&quot;&gt;https://wukong.cnmwx.com/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>国内注册 Muse 的方法，亲测可用</title>
-      <link>https://www.v2ex.com/t/1244695</link>
-      <guid>v2ex-1244695</guid>
-      <pubDate>Fri, 25 Sep 2026 01:20:03 GMT</pubDate>
-      <description>&lt;p&gt;使用 &lt;a href=&quot;https://browser.lexmount.com/auth/register?callbackUrl=%2F&quot; rel=&quot;nofollow&quot;&gt;Lexmount 云浏览器&lt;/a&gt;，playground 页直接在右上角勾选启用代理，访问 &lt;a href=&quot;https://muse.ai/join&quot; rel=&quot;nofollow&quot;&gt;https://muse.ai/join&lt;/a&gt; 就可以顺利注册！&lt;/p&gt;
-&lt;p&gt;两分钟免费搞定，注册送 1 个月的会员 1G 的代理流量！&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;注册成功&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://gz-1259536604.cos.ap-chengdu.myqcloud.com/20260925-090723.jpg&quot;/&gt;
-&lt;img alt=&quot;lexmount playground 页&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://gz-1259536604.cos.ap-chengdu.myqcloud.com/20260925-090729.jpg&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>今天中秋节，还要加班的有吗？来报道下</title>
-      <link>https://www.v2ex.com/t/1244704</link>
-      <guid>v2ex-1244704</guid>
-      <pubDate>Fri, 25 Sep 2026 02:47:45 GMT</pubDate>
-      <description>&lt;p&gt;祝各位坛友中秋节快乐！&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -152,11 +77,117 @@ console.log([...winners].sort((a, b) =&amp;gt; a - b));
 </description>
     </item>
     <item>
+      <title>国内注册 Muse 的方法，亲测可用</title>
+      <link>https://www.v2ex.com/t/1244695</link>
+      <guid>v2ex-1244695</guid>
+      <pubDate>Fri, 25 Sep 2026 01:20:03 GMT</pubDate>
+      <description>&lt;p&gt;使用 &lt;a href=&quot;https://browser.lexmount.com/auth/register?callbackUrl=%2F&quot; rel=&quot;nofollow&quot;&gt;Lexmount 云浏览器&lt;/a&gt;，playground 页直接在右上角勾选启用代理，访问 &lt;a href=&quot;https://muse.ai/join&quot; rel=&quot;nofollow&quot;&gt;https://muse.ai/join&lt;/a&gt; 就可以顺利注册！&lt;/p&gt;
+&lt;p&gt;两分钟免费搞定，注册送 1 个月的会员 1G 的代理流量！&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;注册成功&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://gz-1259536604.cos.ap-chengdu.myqcloud.com/20260925-090723.jpg&quot;/&gt;
+&lt;img alt=&quot;lexmount playground 页&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://gz-1259536604.cos.ap-chengdu.myqcloud.com/20260925-090729.jpg&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>今天中秋节，还要加班的有吗？来报道下</title>
+      <link>https://www.v2ex.com/t/1244704</link>
+      <guid>v2ex-1244704</guid>
+      <pubDate>Fri, 25 Sep 2026 02:47:45 GMT</pubDate>
+      <description>&lt;p&gt;祝各位坛友中秋节快乐！&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>有个能稳赚不赔的洗脚店项目，但是没有资金，去哪里找资金？🤔找人投资？贷款？</title>
       <link>https://www.v2ex.com/t/1244730</link>
       <guid>v2ex-1244730</guid>
       <pubDate>Fri, 25 Sep 2026 05:22:42 GMT</pubDate>
       <description>&lt;p&gt;怎么个稳赚不赔，当地居民很有钱，消费能力和消费意愿极强，但是因为地处偏远且当地娱乐活动匮乏，&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>大陆用户注册 Meta Muse AI 完整教程（2026 最新）</title>
+      <link>https://www.v2ex.com/t/1244732</link>
+      <guid>v2ex-1244732</guid>
+      <pubDate>Fri, 25 Sep 2026 05:36:48 GMT</pubDate>
+      <description>&lt;h1&gt;大陆用户注册 Meta Muse AI 完整教程（ 2026 最新）&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Muse AI 是 Meta 于 2026 年 9 月推出的个人 AI 智能体，目前仅对美国、加拿大等地区开放。大陆用户可通过以下方法成功注册。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;一、注册前准备&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;一个干净的邮箱（推荐 Gmail ，未加入过 Muse 候补名单）&lt;/li&gt;
+&lt;li&gt;一张支持外币的 Visa / Mastercard （国内招行、工行、中行等均可，用于年龄验证）&lt;/li&gt;
+&lt;li&gt;稳定的美国 IP 环境（推荐使用云浏览器，普通 VPN 成功率较低）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;二、推荐注册方法（成功率最高）&lt;/h2&gt;
+&lt;h3&gt;方法一：云浏览器注册（推荐）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;打开云浏览器网站： &lt;a href=&quot;https://cloud.browser-use.com/&quot; rel=&quot;nofollow&quot;&gt;https://cloud.browser-use.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;使用 Google / GitHub / Microsoft 账号注册登录（新用户通常有免费额度）&lt;/li&gt;
+&lt;li&gt;启动一个 &lt;strong&gt;美国地区&lt;/strong&gt; 的浏览器实例&lt;/li&gt;
+&lt;li&gt;在云浏览器中访问： &lt;a href=&quot;https://muse.ai/join&quot; rel=&quot;nofollow&quot;&gt;https://muse.ai/join&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;输入邮箱完成注册，并填写邮箱验证码&lt;/li&gt;
+&lt;li&gt;
+填写个人信息时注意：&lt;ul&gt;
+&lt;li&gt;姓名建议使用真实拼音（如 ZHANG SAN ）&lt;/li&gt;
+&lt;li&gt;出生日期建议填写真实日期&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;方法二：Google Gemini Spark 远程浏览器（有 Gemini 会员可用）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;打开 &lt;a href=&quot;https://gemini.google.com/spark&quot; rel=&quot;nofollow&quot;&gt;https://gemini.google.com/spark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;输入提示词：&lt;code&gt;打开 &lt;a href=&quot;https://muse.ai/join&quot; rel=&quot;nofollow&quot;&gt;https://muse.ai/join&lt;/a&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;授权并选择远程浏览器，点击「自行控制 / Take over 」&lt;/li&gt;
+&lt;li&gt;在远程浏览器中完成注册流程&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;三、年龄验证（关键步骤）&lt;/h2&gt;
+&lt;p&gt;注册后会出现「 We need to confirm your age 」页面，有三个选项：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Confirm age&lt;/strong&gt;（推荐）&lt;/li&gt;
+&lt;li&gt;Link Instagram account&lt;/li&gt;
+&lt;li&gt;Link Facebook account&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;建议选择蓝色「 Confirm age 」使用信用卡验证：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Country / Region：选择 &lt;strong&gt;United States&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ZIP Code：可填写 &lt;code&gt;97701&lt;/code&gt; 或 &lt;code&gt;97403&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;填写真实卡号、有效期、CVV&lt;/li&gt;
+&lt;li&gt;系统会临时扣除 &lt;strong&gt;$1&lt;/strong&gt;（验证成功后一般会退回）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;验证成功后，浏览器地址栏会出现类似以下链接：&lt;br/&gt;
+&lt;code&gt;&lt;a href=&quot;https://muse.ai/checkout/ccv-return?status=success&amp;amp;&quot; rel=&quot;nofollow&quot;&gt;https://muse.ai/checkout/ccv-return?status=success&amp;amp;&lt;/a&gt;...&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;看到 &lt;code&gt;status=success&lt;/code&gt; 即表示验证通过。&lt;/p&gt;
+&lt;h2&gt;四、注册成功后操作&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;打开 &lt;a href=&quot;https://muse.ai/&quot; rel=&quot;nofollow&quot;&gt;https://muse.ai/&lt;/a&gt; 并登录账号&lt;/li&gt;
+&lt;li&gt;进入 &lt;strong&gt;Settings （设置） → General （通用）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;找到 &lt;strong&gt;Redeem invite code&lt;/strong&gt;（兑换邀请码）入口&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;务必在注册后 48 小时内&lt;/strong&gt; 填写邀请码，双方各获得 &lt;strong&gt;10 亿永久 Token&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;五、注意事项&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;请使用全新邮箱，不要用已经进入候补名单的账号&lt;/li&gt;
+&lt;li&gt;全程保持美国 IP 环境，直到注册和验证完成&lt;/li&gt;
+&lt;li&gt;绑定 Facebook / Instagram 有时能跳过绑卡，但容易被判定为中国用户而进入候补&lt;/li&gt;
+&lt;li&gt;注册成功后，本地使用时仍建议开启美国 VPN&lt;/li&gt;
+&lt;li&gt;方法会随 Meta 风控策略变化，若失效请及时更换节点或云浏览器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;六、官方入口&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;官网： &lt;a href=&quot;https://muse.ai/&quot; rel=&quot;nofollow&quot;&gt;https://muse.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;注册页： &lt;a href=&quot;https://muse.ai/join&quot; rel=&quot;nofollow&quot;&gt;https://muse.ai/join&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>那个什么哥飞是把 V 站给收购了吗?</title>
+      <link>https://www.v2ex.com/t/1244794</link>
+      <guid>v2ex-1244794</guid>
+      <pubDate>Fri, 25 Sep 2026 14:21:44 GMT</pubDate>
+      <description>&lt;p&gt;为什么这种摆明割韭菜的 id 能在 V 站生存这么久? &lt;/p&gt;
+&lt;p&gt;今天看到这个帖子实在是开眼了，
+&lt;a href=&quot;https://v2ex.com/t/1244750&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1244750&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大家都想要赚钱，这些年也有很多人过得不容易。我想说的是，越是这种时候，要是要冷静，守好自己的钱包，不要被坏人趁虚而入。&lt;/p&gt;
 </description>
     </item>
     <item>
