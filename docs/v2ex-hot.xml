@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 01 Oct 2026 19:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 23:16:18 GMT</lastBuildDate>
     <item>
       <title>ClipSeek 成功上架 Microsoft Store 啦 ｜ 送码</title>
       <link>https://www.v2ex.com/t/1246024</link>
@@ -63,6 +63,14 @@
 </description>
     </item>
     <item>
+      <title>主力邮箱还是得选国内邮箱</title>
+      <link>https://www.v2ex.com/t/1246060</link>
+      <guid>v2ex-1246060</guid>
+      <pubDate>Thu, 01 Oct 2026 14:42:28 GMT</pubDate>
+      <description>&lt;p&gt;近期 Google 又扫号了，如果一直申诉不成功，跟 Google 关联的账号都废了，主力邮箱还是得国内邮箱，至少在国内还有投诉的渠道，Google 说封你就封你，根本没得商量&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>号被封了……</title>
       <link>https://www.v2ex.com/t/1245975</link>
       <guid>v2ex-1245975</guid>
@@ -81,27 +89,6 @@ Regards
 
 Anthropic&#39;s Safeguards Team
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    <item>
-      <title>主力邮箱还是得选国内邮箱</title>
-      <link>https://www.v2ex.com/t/1246060</link>
-      <guid>v2ex-1246060</guid>
-      <pubDate>Thu, 01 Oct 2026 14:42:28 GMT</pubDate>
-      <description>&lt;p&gt;近期 Google 又扫号了，如果一直申诉不成功，跟 Google 关联的账号都废了，主力邮箱还是得国内邮箱，至少在国内还有投诉的渠道，Google 说封你就封你，根本没得商量&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Gemini 4 出来了，吊打其他的公司啊</title>
-      <link>https://www.v2ex.com/t/1245940</link>
-      <guid>v2ex-1245940</guid>
-      <pubDate>Wed, 30 Sep 2026 20:25:12 GMT</pubDate>
-      <description>&lt;p&gt;Gemini 4 出来了，吊打其他的公司啊
-周三，该公司发布了 Gemini4Argon ，这是迄今为止最先进的人工智能模型，在编码、网络安全和复杂的专业工作方面提供了重大改进。
-该公司表示，该模型在现实世界的软件工程方面创造了新的记录，在网络安
-全方面并列第一，并在衡量金融、法律和其他专业任务绩效的另一项基准中
-领先。
-谷歌表示，Argon 已在公司内部用于优化其数据中心的内存，无需购买额外硬件即可释放数百 TB 的内存。量子计算研究人员也已利用了该模型。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -136,6 +123,47 @@ Anthropic&#39;s Safeguards Team
 &lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&quot; rel=&quot;nofollow&quot;&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;首发 API 价格 $2/$10 每百万输入/输出 Token ，正式价格翻倍。&lt;/p&gt;
 &lt;p&gt;首发群体将包含付费 API 和 Ultra 用户，不包含 Pro 用户。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[分享送码] Forma Drive 在 Mac 上读写 NTFS 和 ext4 移动硬盘，顺带看线缆速度、清理磁盘</title>
+      <link>https://www.v2ex.com/t/1245993</link>
+      <guid>v2ex-1245993</guid>
+      <pubDate>Thu, 01 Oct 2026 05:11:33 GMT</pubDate>
+      <description>&lt;p&gt;Mac 插上 Windows 用的 NTFS 移动硬盘，文件能看，但拷不进去。Linux 用的 ext4 盘插上去，Mac 干脆不认。Forma Drive 就是解决这件事的。&lt;/p&gt;
+&lt;p&gt;装好以后，这些格式的硬盘在访达里都能直接读写。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows 常用的 NTFS&lt;/li&gt;
+&lt;li&gt;Linux 常用的 ext4 、Btrfs 、XFS&lt;/li&gt;
+&lt;li&gt;U 盘和相机卡常用的 exFAT 、FAT32&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不用重新格式化，拷文件、改名、删除都和用 Mac 自己的硬盘一样。大文件拷贝速度快，过程也稳定。
+&lt;img alt=&quot;Forma Drive 读写 NTFS 、ext4 等格式的硬盘&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://downloads.safafish.com/image/formadrive/zh/01-multiformat.50fb9223.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;还有几件插移动硬盘时常碰到的事，也一起做了。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;硬盘没安全弹出。&lt;/strong&gt; 在 Windows 上直接拔掉的 NTFS 盘，再插到 Mac 上会先以只读方式打开，并告诉你原因。点「修复」，修好就能正常写入。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt=&quot;检查并修复没安全弹出的硬盘&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://downloads.safafish.com/image/formadrive/zh/07-repair.c6401ff2.webp&quot;/&gt;
+2. &lt;strong&gt;传输变慢。&lt;/strong&gt; 硬盘能跑 10 Gb/s ，线只有 5 Gb/s 的话，速度就只剩一半，平时看不出来。Forma Drive 会告诉你慢在线缆、接口还是硬盘本身。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;线缆信息&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://downloads.safafish.com/image/formadrive/zh/03-cable.f0d7413e.webp&quot;/&gt;
+3. &lt;strong&gt;空间不够。&lt;/strong&gt; 按文件夹、应用和文件类型看空间用在哪，能找出大文件、重复文件，还有 Xcode 、npm 这类开发工具留下的缓存。删除是直接删、不进废纸篓，删之前每一项都要你确认。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;清理开发缓存和大文件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://downloads.safafish.com/image/formadrive/zh/06-cleanup.eb2f73f6.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;另外，S3 、WebDAV 、SFTP 、FTP 这类云存储和家里的 NAS 也能接到访达里用。本机、移动硬盘和云盘里重复的大文件，可以放在一起比对，只留一份。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;跨盘比对重复文件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://downloads.safafish.com/image/formadrive/zh/09-crossdrive.8dd083f2.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;需要 Apple 芯片的 Mac ，macOS 26 或更新版本&lt;/p&gt;
+&lt;p&gt;¥28 一次买断，没有内购，也没有订阅。&lt;/p&gt;
+&lt;p&gt;App Store 链接 [&lt;a href=&quot;https://apps.apple.com/app/apple-store/id6809373340?pt=127927245&amp;amp;ct=v2ex&amp;amp;mt=12&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/apple-store/id6809373340?pt=127927245&amp;amp;ct=v2ex&amp;amp;mt=12&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;有识别不了的盘，或者用着哪里不顺，直接在帖子里回复，我都会看。
+更多精彩 APP 可以访问我的网站: &lt;a href=&quot;https://safafish.com/&quot; rel=&quot;nofollow&quot;&gt;https://safafish.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;=============&lt;/p&gt;
+&lt;p&gt;为了庆祝上架我将在评论区随机抽取随机楼层发送额外 10 个注册码，3 天后开奖。
+先给大家赠送 5 个注册码, 请领到的人评论一下领取的编号.&lt;/p&gt;
+&lt;p&gt;| 1 | K4PKW3AJKPT7 |
+| 2 | P7RJXJTXLKEW |
+| 3 | WM6HWFMMMNKF |
+| 4 | Y7KF9L4MKFRJ |
+| 5 | 64WAXPMTNYNM | &lt;/p&gt;
+&lt;p&gt;============&lt;/p&gt;
 </description>
     </item>
   </channel>
