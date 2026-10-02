@@ -4,7 +4,15 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:42:43 GMT</lastBuildDate>
+    <item>
+      <title>主力邮箱还是得选国内邮箱</title>
+      <link>https://www.v2ex.com/t/1246060</link>
+      <guid>v2ex-1246060</guid>
+      <pubDate>Thu, 01 Oct 2026 14:42:28 GMT</pubDate>
+      <description>&lt;p&gt;近期 Google 又扫号了，如果一直申诉不成功，跟 Google 关联的账号都废了，主力邮箱还是得国内邮箱，至少在国内还有投诉的渠道，Google 说封你就封你，根本没得商量&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>ClipSeek 成功上架 Microsoft Store 啦 ｜ 送码</title>
       <link>https://www.v2ex.com/t/1246024</link>
@@ -19,57 +27,11 @@
 </description>
     </item>
     <item>
-      <title>主力邮箱还是得选国内邮箱</title>
-      <link>https://www.v2ex.com/t/1246060</link>
-      <guid>v2ex-1246060</guid>
-      <pubDate>Thu, 01 Oct 2026 14:42:28 GMT</pubDate>
-      <description>&lt;p&gt;近期 Google 又扫号了，如果一直申诉不成功，跟 Google 关联的账号都废了，主力邮箱还是得国内邮箱，至少在国内还有投诉的渠道，Google 说封你就封你，根本没得商量&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>号被封了……</title>
-      <link>https://www.v2ex.com/t/1245975</link>
-      <guid>v2ex-1245975</guid>
-      <pubDate>Thu, 01 Oct 2026 02:44:47 GMT</pubDate>
-      <description>&lt;p&gt;前情提要： &lt;a href=&quot;https://www.v2ex.com/t/1244849&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1244849&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;一大早收到了两封邮件，内容一模一样……正在填申诉内容&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Your account has been suspended
-
-Hello,
-
-An internal investigation of suspicious signals associated with your account indicates a violation of our Usage Policy. As a result, we have revoked your access to Claude.
-
-To appeal our decision, log in to claude.ai with this account and you&#39;ll be taken to the appeals page. You can learn more about the process here.
-
-Regards
-
-Anthropic&#39;s Safeguards Team
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    <item>
-      <title>[横琴｜澳资初创｜ AI Agent] 寻找技术联合创始人，前期零薪， 16%股权（4 年归属）</title>
-      <link>https://www.v2ex.com/t/1246029</link>
-      <guid>v2ex-1246029</guid>
-      <pubDate>Thu, 01 Oct 2026 09:21:54 GMT</pubDate>
-      <description>&lt;p&gt;​ [联合创始人 &amp;amp; CTO 招募] 云端中立 AI Agent 消费智能体
-​一、 我们是谁 &amp;amp; 要做什么？
-​Meta 发布的 Muse 已经证实了移动端 UI Agent 的巨大前景。然而，国内淘宝、微信、京东、拼多多等生态高度封闭与严格风控，导致大厂（受广告业务绑架）无法做出真正“站在消费者立场、跨平台中立比价与自动履约”的产品。
-​我们正在打造一款 Cloud-First （云端优先）的移动端 AI 消费助手 App 。用户仅需发送一张图片或一句指令，云端 Agent 集群即可在数秒内完成跨平台数据抓取、优惠算法折算与品质风控过滤，帮用户一键找到全网实付最低价并辅助下单。
-​二、 你的核心挑战（ CTO 职责）
-​我们需要一位能够亲自动手打仗、具备大厂级工程能力的技术合伙人：
-​云端架构搭建：基于 Serverless + Playwright / Browserless 构建高并发无头浏览器容器池。
-​反爬虫与风控对抗：设计动态住宅 IP 路由、浏览器指纹伪装及 VLM （视觉大模型）自动化打码系统。
-​人机协同（ HITL ）引擎：设计极低延迟的屏幕流交互，在短信验证码/人脸识别节点实现手机端无缝接管。
-​三、 我（ CEO ）将带来什么？
-​商业闭环与产品设计：清晰的商业变现路径（订阅制 + 导购佣金 + 节约分成）。
-​琴澳政策资助与杠杆：以澳门公司主体撬动澳门科技发展基金（ FDCT ）研发资助、横琴深合区科技补贴与创业大赛奖金。
-​投融资与资源整合：主导风险投资（ Pre-Seed / Seed 轮）路演，负责法务合规、用户增长与团队运营，让技术团队无后顾之忧。
-​四、 股权与薪酬方案
-​联合创始人股权：16% 核心股权（附带国际标准的 4 年 Vesting 兑现期与 1 年 Cliff 门槛期）。
-​薪酬计划：Pre-Seed 融资完成（或资助到账）前，双方共同投入 Sweat Equity 快速打造 MVP ；融资金额到位后，立即转为市场化高薪全职。
-​寻找这样的你：熟悉 Python/Node.js 高并发架构，有无头浏览器、自动化爬虫或 AI Agent 研发经验。大湾区/澳门高校计算机硕士/博士或大厂背景优先。
-​联系方式：[邮箱 Jeffersontang28@gmail.com]&lt;/p&gt;
+      <title>现在反驳型人格怎么改呀？</title>
+      <link>https://www.v2ex.com/t/1246103</link>
+      <guid>v2ex-1246103</guid>
+      <pubDate>Fri, 02 Oct 2026 03:23:27 GMT</pubDate>
+      <description>&lt;p&gt;之前自己都没有在意，现在才发现好像别人说什么自己都喜欢反驳。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -80,44 +42,16 @@ Anthropic&#39;s Safeguards Team
       <description>总感觉有人干了....</description>
     </item>
     <item>
-      <title>[分享送码] Forma Drive 在 Mac 上读写 NTFS 和 ext4 移动硬盘，顺带看线缆速度、清理磁盘</title>
-      <link>https://www.v2ex.com/t/1245993</link>
-      <guid>v2ex-1245993</guid>
-      <pubDate>Thu, 01 Oct 2026 05:11:33 GMT</pubDate>
-      <description>&lt;p&gt;Mac 插上 Windows 用的 NTFS 移动硬盘，文件能看，但拷不进去。Linux 用的 ext4 盘插上去，Mac 干脆不认。Forma Drive 就是解决这件事的。&lt;/p&gt;
-&lt;p&gt;装好以后，这些格式的硬盘在访达里都能直接读写。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Windows 常用的 NTFS&lt;/li&gt;
-&lt;li&gt;Linux 常用的 ext4 、Btrfs 、XFS&lt;/li&gt;
-&lt;li&gt;U 盘和相机卡常用的 exFAT 、FAT32&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;不用重新格式化，拷文件、改名、删除都和用 Mac 自己的硬盘一样。大文件拷贝速度快，过程也稳定。
-&lt;img alt=&quot;Forma Drive 读写 NTFS 、ext4 等格式的硬盘&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://downloads.safafish.com/image/formadrive/zh/01-multiformat.50fb9223.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;还有几件插移动硬盘时常碰到的事，也一起做了。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;硬盘没安全弹出。&lt;/strong&gt; 在 Windows 上直接拔掉的 NTFS 盘，再插到 Mac 上会先以只读方式打开，并告诉你原因。点「修复」，修好就能正常写入。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&quot;检查并修复没安全弹出的硬盘&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://downloads.safafish.com/image/formadrive/zh/07-repair.c6401ff2.webp&quot;/&gt;
-2. &lt;strong&gt;传输变慢。&lt;/strong&gt; 硬盘能跑 10 Gb/s ，线只有 5 Gb/s 的话，速度就只剩一半，平时看不出来。Forma Drive 会告诉你慢在线缆、接口还是硬盘本身。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;线缆信息&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://downloads.safafish.com/image/formadrive/zh/03-cable.f0d7413e.webp&quot;/&gt;
-3. &lt;strong&gt;空间不够。&lt;/strong&gt; 按文件夹、应用和文件类型看空间用在哪，能找出大文件、重复文件，还有 Xcode 、npm 这类开发工具留下的缓存。删除是直接删、不进废纸篓，删之前每一项都要你确认。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;清理开发缓存和大文件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://downloads.safafish.com/image/formadrive/zh/06-cleanup.eb2f73f6.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;另外，S3 、WebDAV 、SFTP 、FTP 这类云存储和家里的 NAS 也能接到访达里用。本机、移动硬盘和云盘里重复的大文件，可以放在一起比对，只留一份。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;跨盘比对重复文件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://downloads.safafish.com/image/formadrive/zh/09-crossdrive.8dd083f2.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;需要 Apple 芯片的 Mac ，macOS 26 或更新版本&lt;/p&gt;
-&lt;p&gt;¥28 一次买断，没有内购，也没有订阅。&lt;/p&gt;
-&lt;p&gt;App Store 链接 [&lt;a href=&quot;https://apps.apple.com/app/apple-store/id6809373340?pt=127927245&amp;amp;ct=v2ex&amp;amp;mt=12&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/apple-store/id6809373340?pt=127927245&amp;amp;ct=v2ex&amp;amp;mt=12&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;有识别不了的盘，或者用着哪里不顺，直接在帖子里回复，我都会看。
-更多精彩 APP 可以访问我的网站: &lt;a href=&quot;https://safafish.com/&quot; rel=&quot;nofollow&quot;&gt;https://safafish.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;=============&lt;/p&gt;
-&lt;p&gt;为了庆祝上架我将在评论区随机抽取随机楼层发送额外 10 个注册码，3 天后开奖。
-先给大家赠送 5 个注册码, 请领到的人评论一下领取的编号.&lt;/p&gt;
-&lt;p&gt;| 1 | K4PKW3AJKPT7 |
-| 2 | P7RJXJTXLKEW |
-| 3 | WM6HWFMMMNKF |
-| 4 | Y7KF9L4MKFRJ |
-| 5 | 64WAXPMTNYNM | &lt;/p&gt;
-&lt;p&gt;============&lt;/p&gt;
+      <title>电脑价格什么时候能回到冰点？日常轻度使用，现在入手还是再等等？</title>
+      <link>https://www.v2ex.com/t/1246090</link>
+      <guid>v2ex-1246090</guid>
+      <pubDate>Fri, 02 Oct 2026 02:05:10 GMT</pubDate>
+      <description>&lt;p&gt;最近想换台电脑，但看网上普遍说要到 2027 年底甚至 2028 年价格才会回落，问 AI 也说大概 2028 年才有冰点价。想听听各位的看法。&lt;/p&gt;
+&lt;p&gt;我基本不玩游戏，平时主要是看 B 站视频、看直播，偶尔刷刷 YouTube 。需求大概是这些：&lt;/p&gt;
+&lt;p&gt;系统流畅，开 20 多个标签页不卡
+看 4K 视频和直播不卡
+跑 Win11 虚拟机（ VMware ）不卡
+最好能留点升级空间&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -129,87 +63,32 @@ Anthropic&#39;s Safeguards Team
 </description>
     </item>
     <item>
-      <title>没公网 IP 还会关机？把 Muse 虚拟机变成自己的 VPS</title>
-      <link>https://www.v2ex.com/t/1245998</link>
-      <guid>v2ex-1245998</guid>
-      <pubDate>Thu, 01 Oct 2026 05:43:08 GMT</pubDate>
-      <description>&lt;p&gt;最近体验了下 Meta 的 Muse ，它会给每个用户分配一台独立的 Linux 虚拟机，让 Agent 在里面写代码、跑脚本和处理任务。&lt;/p&gt;
-&lt;p&gt;机器给的配置还行，系统是 Ubuntu 24.04 （ 2 核 CPU 、8G 内存、100G 磁盘），不过有两个限制：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;没有公网 IP&lt;/strong&gt;：外部无法直接访问；&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;闲置会自动关机&lt;/strong&gt;：任务结束或空闲一段时间后，虚拟机就会被回收。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;不过好在系统里的 &lt;code&gt;/home/hatch/workspace&lt;/code&gt; 目录是持久化的。稍微折腾一下，不仅能把它打造成一台可以随时从公网访问的 Linux VPS ，还能顺手借用其高质量出口代理上网。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;怎么把它变成可用的公网 VPS ？&lt;/h3&gt;
-&lt;p&gt;思路其实很简单：&lt;strong&gt;放持久化目录 + 内网穿透 + 定时保活&lt;/strong&gt;。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;环境持久化&lt;/strong&gt;：因为虚拟机重启后根目录会被重置，所以所有的工具、脚本和数据一定要放在 &lt;code&gt;/home/hatch/workspace&lt;/code&gt; 目录下，确保机器即便被回收重建，数据依然保留。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;内网穿透&lt;/strong&gt;：机器虽然没有公网 IP ，但可以主动访问外网。利用轻量级的 &lt;a href=&quot;https://github.com/rapiz1/rathole&quot; rel=&quot;nofollow&quot;&gt;rathole&lt;/a&gt; 隧道，把虚拟机内需要访问的端口（比如 Web 服务端口）映射到你自己的公网中继服务器上。这里有个特殊细节：由于 Muse 虚拟机的出站流量必须经过平台自带的网关代理，而 rathole 本身不支持配置上级 HTTP 代理，所以需要配合 &lt;code&gt;socat&lt;/code&gt; 在本地搭个代理桥连上中继机。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;内网穿透架构原理&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BmWp1kL.png&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;定时保活&lt;/strong&gt;：机器闲置被回收后，内存里的后台进程肯定不复存在。解决方案是利用 Muse 的定时任务能力，设定一个周期任务（这里选择每 5 分钟触发一次）。任务触发后会唤醒 Agent 执行任务，而 Agent 在执行任务时就会自动拉起底层的虚拟机，进而运行持久化目录下的检测与启动脚本，把穿透和控制台进程恢复并重连中继。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;打通网络之后，怎么日常使用也是个问题：机器里并没有现成的 SSH 服务。&lt;/p&gt;
-&lt;p&gt;所以我顺手写了一个单文件无依赖的 Web 控制台 &lt;a href=&quot;https://github.com/lxrite/muse-console&quot; rel=&quot;nofollow&quot;&gt;muse-console&lt;/a&gt;，直接把它变成一台在网页里开箱即用的 VPS：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;状态仪表盘（首页）&lt;/strong&gt;：实时查看 CPU 、内存、持久化磁盘用量，自带 72 小时心跳时间线，机器是否在线、有没有被回收重启一眼便知。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;status.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/2J1I06m.png&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Web 终端&lt;/strong&gt;：内置基于 xterm.js 的完整终端，不用折腾 SSH ，在浏览器里就能直接开 Shell 交互敲命令。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;terminal.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://imgur.com/66sXsoB.png&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;文件浏览（轻量网盘）&lt;/strong&gt;：支持文件管理与预览，可以直接在网页端上传、下载文件，把持久化目录直接当私有网盘使用。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;files.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/CpilLlA.png&quot;/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;至于部署也很简单：仓库里已经写好了给 Agent 看的部署文档，&lt;strong&gt;直接把 GitHub 仓库链接丢给 Muse&lt;/strong&gt;，它就会在聊天框里向你询问必要的中继机信息，然后自动在虚拟机里把下载、配置、隧道和定时保活整套搞定，不需要自己手动敲命令。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;拿来做 HTTP 代理上网&lt;/h3&gt;
-&lt;p&gt;打通公网访问后，能做的事情其实很多，比如拿来做 HTTP 代理上网。&lt;/p&gt;
-&lt;p&gt;前面提到的平台出站网关，系统默认直接配在环境变量里：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;$ echo $http_proxy
-http://hatch-runtime:2a8ce39f1c5d488dab8d1d3f5d1a61d6@hatch-egress-proxy:3128
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Meta 这么设计主要是出于沙盒安全考量：虚拟机被隔离在私有沙盒网络中，一方面彻底隔绝了对 Meta 自身内网服务的未授权访问（杜绝内网横向探测与 SSRF ），另一方面所有外网请求都必须收敛到这层 Egress Proxy ，方便平台在边界做域名白名单过滤、审计和风控拦截。&lt;/p&gt;
-&lt;p&gt;实测这个出口 IP 的信誉度和纯净度很高。很多平时对普通机房 IP 拦截很死、代理检测严格的美国服务，走这个出口基本都能顺利通过。&lt;/p&gt;
-&lt;h4&gt;如何在本地用上这个代理？&lt;/h4&gt;
-&lt;p&gt;&lt;code&gt;hatch-egress-proxy:3128&lt;/code&gt; 只在 Muse 的私有沙盒网络里可达，外部无法直连。如果想在本地电脑或者外部服务器上借用这个出口，只需要在 Muse 虚拟机里做一次中继，再通过隧道拉出来。&lt;/p&gt;
-&lt;p&gt;这里可以用我在古法编程时代手搓的轻量 TCP 中继工具：&lt;a href=&quot;https://github.com/lxrite/tcp-relay&quot; rel=&quot;nofollow&quot;&gt;tcp-relay&lt;/a&gt;（支持隧道加密模式）。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;代理访问路径&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/NmRruN1.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;操作步骤：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;服务端（ Muse 虚拟机）&lt;/strong&gt;：启动 &lt;code&gt;tcp-relay&lt;/code&gt; 的 server 模式，接收并解密外部隧道流量，转发到本地私网的 &lt;code&gt;hatch-egress-proxy:3128&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;打通隧道&lt;/strong&gt;：通过 rathole 将虚拟机内 &lt;code&gt;tcp-relay&lt;/code&gt; 监听的端口映射到公网中继机上。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;客户端（本地设备）&lt;/strong&gt;：本地启动 &lt;code&gt;tcp-relay&lt;/code&gt; 的 client 模式，连接中继机映射端口并开启加密传输，本地监听一个 HTTP 代理端口。&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;客户端配置&lt;/strong&gt;：将系统或浏览器代理指向本地监听端口，并带上官方自带的认证凭据：&lt;ul&gt;
-&lt;li&gt;用户名：&lt;code&gt;hatch-runtime&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;密码：&lt;code&gt;&amp;lt;password&amp;gt;&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;这样全程在公网上传输的都是加密流量，保护了认证凭据与数据安全；最终由 &lt;code&gt;hatch-egress-proxy&lt;/code&gt; 出口访问目标网站，轻松绕过绝大部分服务对常见机房 IP 和商业代理的检测。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;h3&gt;相关项目&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;muse-console （专为 Muse 设计的 Web 控制台：免 SSH 终端 + 文件网盘 + 状态监控）&lt;/strong&gt;： &lt;a href=&quot;https://github.com/lxrite/muse-console&quot; rel=&quot;nofollow&quot;&gt;https://github.com/lxrite/muse-console&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;tcp-relay （轻量 TCP 中继工具）&lt;/strong&gt;： &lt;a href=&quot;https://github.com/lxrite/tcp-relay&quot; rel=&quot;nofollow&quot;&gt;https://github.com/lxrite/tcp-relay&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;仅用于个人技术研究与合规访问。&lt;/p&gt;
-&lt;hr/&gt;
-&lt;p&gt;最后附上我的 Muse 邀请码，刚注册的新用户在设置里兑换可以额外获得 10 亿 Token 额度（需在注册 48 小时内兑换），有需要的自取：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;邀请码：&lt;code&gt;F54SXM&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <title>Tibo 耍猴了， 明天全局重置</title>
+      <link>https://www.v2ex.com/t/1246095</link>
+      <guid>v2ex-1246095</guid>
+      <pubDate>Fri, 02 Oct 2026 02:32:12 GMT</pubDate>
+      <description>&lt;p&gt;马上要全局重置，通知明天重置，其实马上也自然重置了。。。&lt;/p&gt;
+&lt;p&gt;⚠️
+全球重置将于明天上午 10am PST 对所有付费 ChatGPT 账户推出。对于 GPT-6.1 Sol 起步缓慢深表歉意，在经历了前两天的巨大负载峰值后，目前已恢复至预期运行速度。&lt;/p&gt;
+&lt;p&gt;详见
+&lt;a href=&quot;https://codex-reset.com/zh/#signals&quot; rel=&quot;nofollow&quot;&gt;https://codex-reset.com/zh/#signals&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>看重隐私买什么车好？</title>
+      <link>https://www.v2ex.com/t/1246094</link>
+      <guid>v2ex-1246094</guid>
+      <pubDate>Fri, 02 Oct 2026 02:29:40 GMT</pubDate>
+      <description>&lt;p&gt;不想买老年机，想买智能机。没必要太智能，稍微智能即可&lt;/p&gt;
+&lt;p&gt;但又不行被过多收集隐私信息，更不想被远程控制&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>如果 Google 账号被封了，关联的 Claude 是不是废了？</title>
+      <link>https://www.v2ex.com/t/1246051</link>
+      <guid>v2ex-1246051</guid>
+      <pubDate>Thu, 01 Oct 2026 13:06:22 GMT</pubDate>
+      <description>&lt;p&gt;目前 Google 账号被封了，连续申诉 3 次都失败了，感觉不一定能申诉回来，那关联的 Claude 是不是废了，我是不是得做好换号的准备，虽然说目前 Claude 还能正常使用，就怕保不准哪天就要重新登录。。&lt;/p&gt;
 </description>
     </item>
   </channel>
