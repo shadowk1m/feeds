@@ -4,21 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 02 Oct 2026 20:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 23:36:22 GMT</lastBuildDate>
     <item>
       <title>现在反驳型人格怎么改呀？</title>
       <link>https://www.v2ex.com/t/1246103</link>
       <guid>v2ex-1246103</guid>
       <pubDate>Fri, 02 Oct 2026 03:23:27 GMT</pubDate>
       <description>&lt;p&gt;之前自己都没有在意，现在才发现好像别人说什么自己都喜欢反驳。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>你更相信门诊医生还是 AI？</title>
-      <link>https://www.v2ex.com/t/1246146</link>
-      <guid>v2ex-1246146</guid>
-      <pubDate>Fri, 02 Oct 2026 10:03:47 GMT</pubDate>
-      <description>&lt;p&gt;当门诊医生的说法和 AI 的说法不一致时，你更相信谁？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -31,6 +23,14 @@
 全球重置将于明天上午 10am PST 对所有付费 ChatGPT 账户推出。对于 GPT-6.1 Sol 起步缓慢深表歉意，在经历了前两天的巨大负载峰值后，目前已恢复至预期运行速度。&lt;/p&gt;
 &lt;p&gt;详见
 &lt;a href=&quot;https://codex-reset.com/zh/#signals&quot; rel=&quot;nofollow&quot;&gt;https://codex-reset.com/zh/#signals&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>你更相信门诊医生还是 AI？</title>
+      <link>https://www.v2ex.com/t/1246146</link>
+      <guid>v2ex-1246146</guid>
+      <pubDate>Fri, 02 Oct 2026 10:03:47 GMT</pubDate>
+      <description>&lt;p&gt;当门诊医生的说法和 AI 的说法不一致时，你更相信谁？&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -82,16 +82,15 @@
 </description>
     </item>
     <item>
-      <title>我做了一个共享网盘</title>
-      <link>https://www.v2ex.com/t/1246099</link>
-      <guid>v2ex-1246099</guid>
-      <pubDate>Fri, 02 Oct 2026 02:56:14 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://voraxcloud.com/&quot; rel=&quot;nofollow&quot;&gt;https://voraxcloud.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;众所周知，各大网盘都是通过一份文件只存一次来降本增效。但是对于爱存网络资源和只存自己生活照片视频的用户来说，都是收一样的钱。通过剥削只存网络资源的用户来补贴另一类用户，达成整体盈利。&lt;/p&gt;
-&lt;p&gt;所以我做了这样一个价格透明的网盘，让爱存网络资源的用户一个月只需要花 1 美金就能存几 TB 甚至几十 TB 的资源。远比任何网盘或自建 NAS 便宜。&lt;/p&gt;
-&lt;p&gt;而对于需要存自己独有文件的用户来说，200GB 每个月只需要 3 美金（大约 20 人民币），这和 iCloud 等主流网盘 200GB 档位的价格类似。但由于价格透明，这类用户在有 1TB 级别的自有文件要存储的时候，价格略微不如 iCloud 这类主流网盘。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.producthunt.com/products/vorax-cloud?launch=vorax-cloud&quot; rel=&quot;nofollow&quot;&gt;https://www.producthunt.com/products/vorax-cloud?launch=vorax-cloud&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;北京时间下午三点在 producthunt 上 launch ，可以领取三个月的 geek 会员优惠券。&lt;/p&gt;
+      <title>做了个网盘，同一份文件可以由一万个人分摊存储费</title>
+      <link>https://www.v2ex.com/t/1246174</link>
+      <guid>v2ex-1246174</guid>
+      <pubDate>Fri, 02 Oct 2026 13:42:13 GMT</pubDate>
+      <description>&lt;p&gt;做了一个网盘 Vorax Cloud ，核心功能是：同一份文件被多人保存时，只存一份，存储费由大家平摊。&lt;/p&gt;
+&lt;p&gt;存一批 1TB 的文件，原本每月存储费是 $15 ，如果有一万个人保存，每个人分摊到的这批文件的存储费就是 $0.0015/月。
+另外也支持 WebDAV ，以及绑定自己的域名公开访问文件。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://voraxcloud.com&quot; rel=&quot;nofollow&quot;&gt;https://voraxcloud.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;底层存储用的 S3 ，手上有一些想和朋友一起共享资源的文件可以体验一下。到 &lt;a href=&quot;https://www.producthunt.com/products/vorax-cloud?launch=vorax-cloud&quot; rel=&quot;nofollow&quot;&gt;https://www.producthunt.com/products/vorax-cloud?launch=vorax-cloud&lt;/a&gt; 可以领免费三个月的 geek 会员。希望大家能免费体验一下&lt;/p&gt;
 </description>
     </item>
   </channel>
