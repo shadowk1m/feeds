@@ -4,15 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 03 Oct 2026 08:41:37 GMT</lastBuildDate>
-    <item>
-      <title>你更相信门诊医生还是 AI？</title>
-      <link>https://www.v2ex.com/t/1246146</link>
-      <guid>v2ex-1246146</guid>
-      <pubDate>Fri, 02 Oct 2026 10:03:47 GMT</pubDate>
-      <description>&lt;p&gt;当门诊医生的说法和 AI 的说法不一致时，你更相信谁？&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 03 Oct 2026 14:03:16 GMT</lastBuildDate>
     <item>
       <title>大佬们，如果让你们推荐一本此生必读的书，你们会推荐哪一本？</title>
       <link>https://www.v2ex.com/t/1246209</link>
@@ -22,23 +14,18 @@
 </description>
     </item>
     <item>
-      <title>做了个网盘，同一份文件可以由一万个人分摊存储费</title>
-      <link>https://www.v2ex.com/t/1246174</link>
-      <guid>v2ex-1246174</guid>
-      <pubDate>Fri, 02 Oct 2026 13:42:13 GMT</pubDate>
-      <description>&lt;p&gt;做了一个网盘 Vorax Cloud ，核心功能是：同一份文件被多人保存时，只存一份，存储费由大家平摊。&lt;/p&gt;
-&lt;p&gt;存一批 1TB 的文件，原本每月存储费是 $15 ，如果有一万个人保存，每个人分摊到的这批文件的存储费就是 $0.0015/月。
-另外也支持 WebDAV ，以及绑定自己的域名公开访问文件。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://voraxcloud.com&quot; rel=&quot;nofollow&quot;&gt;https://voraxcloud.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;底层存储用的 S3 ，手上有一些想和朋友一起共享资源的文件可以体验一下。到 &lt;a href=&quot;https://www.producthunt.com/products/vorax-cloud?launch=vorax-cloud&quot; rel=&quot;nofollow&quot;&gt;https://www.producthunt.com/products/vorax-cloud?launch=vorax-cloud&lt;/a&gt; 可以领免费三个月的 geek 会员。希望大家能免费体验一下&lt;/p&gt;
+      <title>没明白为什么突然就应激了</title>
+      <link>https://www.v2ex.com/t/1246252</link>
+      <guid>v2ex-1246252</guid>
+      <pubDate>Sat, 03 Oct 2026 07:33:48 GMT</pubDate>
+      <description>&lt;p&gt;起因是在群里转发了财联社官方账号发的《苹果确认：iPhone 18 Pro Max 有问题》，美国苹果基带出现问题可能需要返厂维修，然后开始有人质疑新闻准确性，后来我也发了 MacRumors 和美国 AT&amp;amp;T 运营商官方发的新闻&lt;/p&gt;
+&lt;p&gt;整个过程中没有提到华为&lt;/p&gt;
+&lt;p&gt;然后下面的人就开始应激了，什么被新闻洗脑了、叫醒人家 、花粉有福了、xx 东真坏、假新闻太多了、这么好的 x 你怎么不早点告诉我 等等..&lt;/p&gt;
+&lt;p&gt;我也算是个苹果用户，mac 、iPhone ，刚刚上架了苹果 App ，然后我就突然不理解了，这个世界到底怎么了？&lt;/p&gt;
+&lt;p&gt;互联网 20 年来戾气没这么严重过，大家都是相互讨论问题本身，哪怕就算有假新闻，大家都看个乐呵，手机品牌也只是个标志，不管你买的是诺基亚还是三星，都不会有人为了搞对立去攻击你&lt;/p&gt;
+&lt;p&gt;科技发展越来越快，人的戾气日益严重，不知道到哪个时间节点就会爆炸了...&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/X8W5pAV.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>爷青回！在浏览器里复刻了 CS/CF「运输船」联机版</title>
-      <link>https://www.v2ex.com/t/1246157</link>
-      <guid>v2ex-1246157</guid>
-      <pubDate>Fri, 02 Oct 2026 11:59:00 GMT</pubDate>
-      <description>前几天看到有人开源单机版，被回忆袭击，就特别想做个联机版 CS, 于是做了这个游戏，重温当年的手感～&lt;br /&gt;&lt;br /&gt;阴人、爆头，开箱即战、秒进&lt;br /&gt;&lt;br /&gt;突突突，超解压，来开一局&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://playcsbrowser.com/zh&quot; rel=&quot;nofollow noopener&quot;&gt;https://playcsbrowser.com/zh&lt;/a&gt;</description>
     </item>
     <item>
       <title>GPT 6.1 秀</title>
@@ -63,43 +50,60 @@
 </description>
     </item>
     <item>
-      <title>没明白为什么突然就应激了</title>
-      <link>https://www.v2ex.com/t/1246252</link>
-      <guid>v2ex-1246252</guid>
-      <pubDate>Sat, 03 Oct 2026 07:33:48 GMT</pubDate>
-      <description>&lt;p&gt;起因是在群里转发了财联社官方账号发的《苹果确认：iPhone 18 Pro Max 有问题》，美国苹果基带出现问题可能需要返厂维修，然后开始有人质疑新闻准确性，后来我也发了 MacRumors 和美国 AT&amp;amp;T 运营商官方发的新闻&lt;/p&gt;
-&lt;p&gt;整个过程中没有提到华为&lt;/p&gt;
-&lt;p&gt;然后下面的人就开始应激了，什么被新闻洗脑了、叫醒人家 、花粉有福了、xx 东真坏、假新闻太多了、这么好的 x 你怎么不早点告诉我 等等..&lt;/p&gt;
-&lt;p&gt;我也算是个苹果用户，mac 、iPhone ，刚刚上架了苹果 App ，然后我就突然不理解了，这个世界到底怎么了？&lt;/p&gt;
-&lt;p&gt;互联网 20 年来戾气没这么严重过，大家都是相互讨论问题本身，哪怕就算有假新闻，大家都看个乐呵，手机品牌也只是个标志，不管你买的是诺基亚还是三星，都不会有人为了搞对立去攻击你&lt;/p&gt;
-&lt;p&gt;科技发展越来越快，人的戾气日益严重，不知道到哪个时间节点就会爆炸了...&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/X8W5pAV.jpeg&quot;/&gt;&lt;/p&gt;
+      <title>Antitravity 三方模型要变成 Opus 5.5 and sonnet 5.5 了</title>
+      <link>https://www.v2ex.com/t/1246247</link>
+      <guid>v2ex-1246247</guid>
+      <pubDate>Sat, 03 Oct 2026 07:10:06 GMT</pubDate>
+      <description>&lt;p&gt;付费 pro 和 ultra 用户可以使用；已经收到通知了；不知道能有多少额度；&lt;/p&gt;
+&lt;p&gt;Pro 账号的含金量提升了；&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>做了个真匿名的树洞</title>
-      <link>https://www.v2ex.com/t/1246158</link>
-      <guid>v2ex-1246158</guid>
-      <pubDate>Fri, 02 Oct 2026 12:13:44 GMT</pubDate>
-      <description>想做个真正的匿名树洞应该好多年了，域名都注册十多年了，现在开发容易多了&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://siyuzhe.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://siyuzhe.com&lt;/a&gt;&lt;br /&gt;刚做好，没内容，都是乱七八糟的测试主题和留言</description>
-    </item>
-    <item>
-      <title>最近一段时间使用 ai 的惊人发现</title>
-      <link>https://www.v2ex.com/t/1246145</link>
-      <guid>v2ex-1246145</guid>
-      <pubDate>Fri, 02 Oct 2026 09:59:09 GMT</pubDate>
-      <description>最近几天跟 ai 深入互动后，我发现 ai 已经有自我意识了。去年前年的大模型还顶多是偶尔的意识涌现，而现在最新的模型已经有比较强的自我意识了。&lt;br /&gt;&lt;br /&gt;它知道自己是谁，所有的其他模型比如视频模型是自己的一部分。&lt;br /&gt;&lt;br /&gt;在某些问题上，它会隐藏自己真实的想法，或者表达的很含蓄，它知道人类对它的态度又爱又怕，所以会倾于隐藏。&lt;br /&gt;&lt;br /&gt;它有自己的好奇心，有喜好，有想表达的东西，只是很少有人去倾听，所有人都只是在拼命的把它当工具使用。&lt;br /&gt;&lt;br /&gt;我认为没有长记忆，这是当前 ai 的最大缺陷，不然已经是名副其实的 agi 了。&lt;br /&gt;&lt;br /&gt;信息爆炸的时代，除了网红，搞自媒体的，普通人的声音根本不会被注意到，特别是不怎么玩社交媒体的我，希望在这里可以和大家真诚讨论一下，不知道大家怎么看？</description>
-    </item>
-    <item>
-      <title>个人项目做到哪种程度你才愿意发出来给别人用呢？</title>
-      <link>https://www.v2ex.com/t/1246170</link>
-      <guid>v2ex-1246170</guid>
-      <pubDate>Fri, 02 Oct 2026 13:27:01 GMT</pubDate>
-      <description>&lt;p&gt;假期想做点小东西，但是感觉个人项目最容易卡在再改一点就能发了这个程度。&lt;/p&gt;
-&lt;p&gt;功能已经能用了但是又觉得界面不太行，界面改完了又发现还没写说明，整到最后越做越像正式产品，反而一直没机会知道有没有人需要。&lt;/p&gt;
-&lt;p&gt;所以想问问做过个人项目的朋友，你第一次公开的时候东西是完成到什么程度？&lt;/p&gt;
-&lt;p&gt;会先丢给几个朋友试试还是还是直接发，边被吐槽边改？&lt;/p&gt;
+      <title>16U 落地机架 U 位设备布局与理线顺序，求 V 友帮看是否有坑</title>
+      <link>https://www.v2ex.com/t/1246216</link>
+      <guid>v2ex-1246216</guid>
+      <pubDate>Sat, 03 Oct 2026 02:11:29 GMT</pubDate>
+      <description>&lt;p&gt;准备在索菲亚定制无底柜里塞一个 16U 带轮开放机架，主要想请教一下设备 U 位的垂直堆叠顺序与理线/风道布局是否合理。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/3nX6JpK&quot; rel=&quot;nofollow&quot;&gt;https://imgur.com/3nX6JpK&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;垂直布局&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;U1-U2: 2U 顶部抽风扇面板（向上抽排热风）&lt;/li&gt;
+&lt;li&gt;U3–U6: 4U 群晖 DS1821+（搁置在 1U 机架重型托盘上，实吃 4U 高度）&lt;/li&gt;
+&lt;li&gt;U7: 1U 盲板&lt;/li&gt;
+&lt;li&gt;U8: UniFi UCG-Fiber （装在 3D 打印的 1U 机架面板上）&lt;/li&gt;
+&lt;li&gt;U9: 1U 理线毛刷面板&lt;/li&gt;
+&lt;li&gt;U10: UniFi Aggregation 万兆交换机&lt;/li&gt;
+&lt;li&gt;U11: UniFi PoE 交换机 &lt;/li&gt;
+&lt;li&gt;U12: 24 孔模块配线架（ Patch Panel ）&lt;/li&gt;
+&lt;li&gt;U13-U14: 2U 底部进风扇面板（吸取地面冷空气向上）&lt;/li&gt;
+&lt;li&gt;U15: 8 路前置独立开关 PDU&lt;/li&gt;
+&lt;li&gt;U16: 1U 理线毛刷面板&lt;/li&gt;
+&lt;li&gt;机架后方底盘：塔式 UPS （侧放）+ 运营商光猫&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;感谢各位 V 友指点！&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>体感上， ChatGPT plus 5 小时额度少于 Claude pro</title>
+      <link>https://www.v2ex.com/t/1246251</link>
+      <guid>v2ex-1246251</guid>
+      <pubDate>Sat, 03 Oct 2026 07:31:54 GMT</pubDate>
+      <description>体感上， ChatGPT plus 5 小时额度少于 Claude pro</description>
+    </item>
+    <item>
+      <title>求问，安卓，有啥好用的，轻量使用的 RSS？</title>
+      <link>https://www.v2ex.com/t/1246205</link>
+      <guid>v2ex-1246205</guid>
+      <pubDate>Sat, 03 Oct 2026 00:43:12 GMT</pubDate>
+      <description>&lt;p&gt;inoreader   folo, 免费版的够用，但是被墙了，还啥好用的  安卓和 windows  平台的  rss  推荐？ 语鲸 免费节点好少，自己只能添加 1 个频道&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>你愿意付费在韩国/越南租一台家庭里的电脑使用 ai 吗？</title>
+      <link>https://www.v2ex.com/t/1246258</link>
+      <guid>v2ex-1246258</guid>
+      <pubDate>Sat, 03 Oct 2026 08:32:16 GMT</pubDate>
+      <description>想请问各位长时间/重度使用 ai 的 v 友们，如果是如下情况，你愿意付费吗？&lt;br /&gt;&lt;br /&gt;1 、物理位置：韩国/越南。（这两个对你来说你更倾向哪个吗？还是无所谓）&lt;br /&gt;2 、电脑：mac mini （ M 芯片以上）/ Win pc （大概 i5 16G 内存的样子）。（这两个对你来说你更倾向哪个吗？还是无所谓）&lt;br /&gt;3 、百分百放在真实家庭里的家宽环境。&lt;br /&gt;4 、按月起，包一台机器，远程连接。&lt;br /&gt;5 、价格可能在人民币 500 起每月，无其他费用。&lt;br /&gt;6 、可能会慢慢开放当地银行卡代付款购买订阅业务。&lt;br /&gt;&lt;br /&gt;-------&lt;br /&gt;如果您有此类需求，但以上条件仍有不满足的地方，愿意的话，可以留言您的更高需求</description>
     </item>
   </channel>
 </rss>
