@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 04 Oct 2026 23:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 02:09:44 GMT</lastBuildDate>
     <item>
       <title>IINA 1.5.0 发布了</title>
       <link>https://www.v2ex.com/t/1246346</link>
@@ -54,6 +54,13 @@
       <description>是的前提是不降智满血版的 6.1sol ，降智的话真的连 luna 都不如。&lt;br /&gt;&lt;br /&gt;测试地址： &lt;a target=&quot;_blank&quot; href=&quot;https://www.jiji.cc&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.jiji.cc&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;回复送测试额度。&lt;br /&gt;&lt;br /&gt;我们现已经实现全站 6.1sol 不降智，倍率 0.19 起。我这两天蹬，真的实现指哪打哪，基本不用返工。我用的是我们站上最高配的版本 svip 组倍率高但稳定缓存高，实测下来一个对话就一分多钱，真的随便造。低倍率的像 0.19 更不用说了基本相当于不要钱一样。&lt;br /&gt;&lt;br /&gt;真心建议 V 佬来试试，真的太省钱袋了。</description>
     </item>
     <item>
+      <title>想入个 macmini 做 iOS 开发 16g 够用吗</title>
+      <link>https://www.v2ex.com/t/1246403</link>
+      <guid>v2ex-1246403</guid>
+      <pubDate>Sun, 04 Oct 2026 10:45:34 GMT</pubDate>
+      <description>目前最后性价比哪款，看了香港教育优惠 m6 32+256 好像 8k 人仔左右但要算上交通费。&lt;br /&gt;海鲜市场的 16+256 的 m4 才 3600 。&lt;br /&gt;想着要不就最低配旧款用着，要不就上新款 32g 。</description>
+    </item>
+    <item>
       <title>下周 25 周岁，公司没了，想尝试跨考 28 考研的科软，求意见</title>
       <link>https://www.v2ex.com/t/1246360</link>
       <guid>v2ex-1246360</guid>
@@ -70,22 +77,6 @@
 </description>
     </item>
     <item>
-      <title>想入个 macmini 做 iOS 开发 16g 够用吗</title>
-      <link>https://www.v2ex.com/t/1246403</link>
-      <guid>v2ex-1246403</guid>
-      <pubDate>Sun, 04 Oct 2026 10:45:34 GMT</pubDate>
-      <description>目前最后性价比哪款，看了香港教育优惠 m6 32+256 好像 8k 人仔左右但要算上交通费。&lt;br /&gt;海鲜市场的 16+256 的 m4 才 3600 。&lt;br /&gt;想着要不就最低配旧款用着，要不就上新款 32g 。</description>
-    </item>
-    <item>
-      <title>公司让开发个某书刷阅读系统</title>
-      <link>https://www.v2ex.com/t/1246332</link>
-      <guid>v2ex-1246332</guid>
-      <pubDate>Sun, 04 Oct 2026 00:07:10 GMT</pubDate>
-      <description>&lt;p&gt;公司一直租的别人系统，国庆前说要让我模仿那个系统自行开发一个刷帖系统。
-说开发出来以后提成 3k ，基本从零开始开发，但是需要的功能和需求比较明确，设备和账号说是都准备好了。但是总感觉被坑了&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>claude 的 100 刀在苹果商店要加 24 刀税,如何避免?</title>
       <link>https://www.v2ex.com/t/1246350</link>
       <guid>v2ex-1246350</guid>
@@ -93,11 +84,12 @@
       <description>就想用苹果充值,想着有问题也能退,但是这个 24 刀也太冤种了,有啥能避开的办法吗?  目前冲的 pro,用着确实爽,就是额度不够</description>
     </item>
     <item>
-      <title>macOS 上 ChatGPT 客户端长期无法使用</title>
-      <link>https://www.v2ex.com/t/1246331</link>
-      <guid>v2ex-1246331</guid>
-      <pubDate>Sun, 04 Oct 2026 00:04:50 GMT</pubDate>
-      <description>自从 OpenAI 把 ChatGPT 和 Codex 二合一后，我就再没办法用 macOS 客户端了……&lt;br /&gt;&lt;br /&gt;我平时其实用 Chat 功能的频次远高于用 Agent ，但诸多原因导致客户端的 Chat 功能我无法使用：&lt;br /&gt;&lt;br /&gt;1.Classic 客户端有个无法用 thinking 的 bug ，而我常用 thinking ；&lt;br /&gt;2.新版二合一客户端最初无法更新 chat 的历史记录，更新到 8 月的时候，历史记录稳定了，但我长期无法正常上传附件，偶尔能上传成功，但绝大部分是失败，所以难以稳定使用。&lt;br /&gt;最近新版还更新了 UI ，即用一个很窄的侧边入口+正常 sidebar+正文窗口的模式，但不知为何我无法进入这个正常 UI ，还停留在老 UI ，且左上角的入口变成了 ChatGPT Work/Codex ，Chat 模式没了……这下好了，完全不可用了。我尝试注销用户后再登录会回到新 UI 并能找回 Chat 模式入口，但如果重启 app 很大概率仍然给我分配到旧版 UI 。此外，就算回到新 UI ，附件上传仍然大概率失败。&lt;br /&gt;关于附件问题，我觉得非常诡异，Classic 和网页版上传附件都是没问题的，只有新版始终无法稳定上传成功。我就算开全局代理模式也不行，所以不是分流问题；我也尝试完全删除新版客户端并删除全部配置文件重装，问题依旧。我也不清楚如何解决。&lt;br /&gt;当前留着新版的意义是使用其中的 Agent 功能，但 Chat 是用不了。&lt;br /&gt;&lt;br /&gt;所以现在出现很大的困境，从 7 月份开始：&lt;br /&gt;Classic Thinking 不了我无法用； OpenAI 承诺维护 Classic ，但自从新版推出后，Classic 一次更新也没有。&lt;br /&gt;新版客户端附件上传错误+Chat 模式丢失我无法用。&lt;br /&gt;&lt;br /&gt;现在我只能用网页版，然后每天更新下新版客户端，当做刮刮乐一样看是否修复了 bug ，已经 2 个月了，我只想说，OpenAI ，干的漂亮！如果能给客户端打分，我选择打负分。</description>
+      <title>大模型对 Vuejs 支持不如 react：</title>
+      <link>https://www.v2ex.com/t/1246345</link>
+      <guid>v2ex-1246345</guid>
+      <pubDate>Sun, 04 Oct 2026 02:23:34 GMT</pubDate>
+      <description>&lt;p&gt;估计，可能不是亲生的有关&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>[开源] 我做了一个没有删除和升级权限的链上论坛</title>
@@ -150,11 +142,40 @@
 </description>
     </item>
     <item>
-      <title>大模型对 Vuejs 支持不如 react：</title>
-      <link>https://www.v2ex.com/t/1246345</link>
-      <guid>v2ex-1246345</guid>
-      <pubDate>Sun, 04 Oct 2026 02:23:34 GMT</pubDate>
-      <description>&lt;p&gt;估计，可能不是亲生的有关&lt;/p&gt;
+      <title>[送码] macOS 的活动记录和回顾软件「日影」</title>
+      <link>https://www.v2ex.com/t/1246425</link>
+      <guid>v2ex-1246425</guid>
+      <pubDate>Sun, 04 Oct 2026 14:01:28 GMT</pubDate>
+      <description>&lt;h2&gt;功能介绍&lt;/h2&gt;
+&lt;p&gt;我是一个喜欢记录的人，通过记录，我可以减少生活里的虚无感，让自己多一点活过的实感。&lt;/p&gt;
+&lt;p&gt;出于自己的记录需求，我首先去网络上找了这方面的软件，但是 ActivityWatch、Qbserve 不怎么好看，Timing 太贵而且感觉比较复杂……于是起了自己做 macOS 上的时间记录 app「日影」的念头。&lt;/p&gt;
+&lt;p&gt;「日影」的基本功能是活动记录，我做了以日和月为单位的统计页面，可以看到自己用 Mac 的时间里都在做什么。
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/C2yf2lp.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/gpD1Fgl.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/EB7Fydu.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/DF34zml.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;还可以看到 app 之间的关系：
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/tCGH0YE.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;除了统计，还做了一些别的功能，比如和系统日历的集成，日影可以自动把项目活动写入系统日历，这样的话就可以在日历里回顾自己的一天了。我喜欢把日历作为一个回顾用的软件。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/WzGGeKQ.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;基于对活动的记录，日影还有基于活动的提醒功能，比如站立提醒（使用很久电脑后提醒站立）、专注提醒（持续专注后提醒休息）等等。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/02rqZJY.png&quot;/&gt; &lt;/p&gt;
+&lt;h2&gt;隐私&lt;/h2&gt;
+&lt;p&gt;记录是在本地进行的，不会上传任何记录数据（除非主动开启备份）。更详细的可以看官网的隐私政策说明。&lt;/p&gt;
+&lt;h2&gt;官网链接和软件下载&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://hikage.app/zh-CN/&quot; rel=&quot;nofollow&quot;&gt;https://hikage.app/zh-CN/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;送码&lt;/h2&gt;
+&lt;p&gt;留下你的邮箱，我会为前 10 位发送邮件，用邮件里的激活码可以永久解锁日影的付费功能。&lt;/p&gt;
+&lt;h2&gt;优惠&lt;/h2&gt;
+&lt;p&gt;原始定价 9 美元。如果喜欢软件，也可以通过优惠码 &lt;code&gt;V2EX&lt;/code&gt;，以 8 折购买软件。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>回老家所有梯子都失效了</title>
+      <link>https://www.v2ex.com/t/1246366</link>
+      <guid>v2ex-1246366</guid>
+      <pubDate>Sun, 04 Oct 2026 06:40:34 GMT</pubDate>
+      <description>&lt;p&gt;湖北联通，换电信的 5g 就好了，这 tmd 哔了狗了。&lt;/p&gt;
 </description>
     </item>
   </channel>
