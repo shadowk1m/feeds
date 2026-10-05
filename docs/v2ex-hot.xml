@@ -4,41 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 05 Oct 2026 02:09:44 GMT</lastBuildDate>
-    <item>
-      <title>IINA 1.5.0 发布了</title>
-      <link>https://www.v2ex.com/t/1246346</link>
-      <guid>v2ex-1246346</guid>
-      <pubDate>Sun, 04 Oct 2026 02:48:05 GMT</pubDate>
-      <description>&lt;p&gt;今天我们发布了 IINA 的 1.5.0 正式版。
-如果从我在图书馆中开始写下第一行代码时算起，已经过去十年了。&lt;/p&gt;
-&lt;p&gt;在将近十年前，我也在 V2EX &lt;a href=&quot;https://www.v2ex.com/t/332235&quot; rel=&quot;nofollow&quot;&gt;发了帖&lt;/a&gt; 并得到了很多关注，在此感谢大家一直以来的支持。&lt;/p&gt;
-&lt;p&gt;IINA 的界面从 0.0.x 时代就没有改变太多，但是随着 macOS 26 的到来，作为「现代 macOS 播放器」的 IINA 也必须更新它的更新设计语言了。
-在 1.5.0 中我们第一次大范围重新设计了界面，使得 IINA 在最新的 macOS 中看起来更原生。
-我们也同时为旧版本 macOS 做了很多优化，使得新界面也可以兼容旧版本系统的风格。&lt;/p&gt;
-&lt;p&gt;IINA 1.5.0 最大的更新是可以解锁窗口的长宽比并随意缩放窗口。
-这个选项可以在菜单中或者在新的「显示布局」侧边栏中找到。
-这个侧边栏同时提供了更多的功能：如果取消「视频铺满窗口」，侧边栏将不会覆盖视频。
-如果进一步启用「停靠控制条和标题栏」，标题栏和控制条（如果控制条显示在顶部或底部）也不会覆盖视频，达到类似 VLC 的使用体验。&lt;/p&gt;
-&lt;p&gt;IINA 1.5.0 支持同时显示左右两边的侧边栏，侧边栏的宽度也可以自由调整。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;IINA 1.5.0 Screenshot&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://iina.io/images/1.5.0/150-layout.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;我们也完全重写了设置窗口。我们希望设置项可以在窗口中一览无余，而不是隐藏在下拉选项、二级菜单或二级页面中。&lt;/p&gt;
-&lt;p&gt;IINA 1.4.0 引入了&lt;a href=&quot;https://iina.io/plugins/&quot; rel=&quot;nofollow&quot;&gt;插件系统&lt;/a&gt;，提供了非常丰富的 API ，包括控制各种播放逻辑，
-控制 mpv ，在视频上覆盖显示 WebView ，创建新窗口和在侧边栏中显示自定义界面。
-在 1.5.0 中插件侧边栏可以独立固定显示在一侧，大大提升了插件的使用体验。
-我们也欢迎大家使用 AI 生成插件解决自己的播放需求，并提交 Pull Request 把自己的插件加入到 IINA 的插件列表中，
-让其他用户可以直接在 App 中安装你的插件。&lt;/p&gt;
-&lt;p&gt;我们也重新设计了官网 &lt;a href=&quot;https://iina.io&quot; rel=&quot;nofollow&quot;&gt;iina.io&lt;/a&gt;（精力有限，只有英文）。&lt;/p&gt;
-&lt;p&gt;在技术方面，IINA 1.5.0 最大的变化是摆脱了对 xib 的依赖。
-在我刚刚开始开发 IINA 时，作为 Swift 与 macOS 开发的初学者，所有用户界面都根据官方推荐使用了 xib 构建。
-现在看来，xib 对协作和版本控制非常不友好，因此 IINA 1.5.0 中大部分的界面已经用纯代码重写。
-根据我们已有的 SwiftUI 使用体验，我们觉得 SwiftUI 仍然不够原生、限制过多并且不适合长期维护，所以没有在 IINA 中使用 SwiftUI 的计划；
-但是我们的新设置窗口大量使用了 Swift Result Builder 来达到类似 SwiftUI 的开发体验。&lt;/p&gt;
-&lt;p&gt;维护这样一个开源项目非常消耗精力，我们知道 IINA 仍然有很多不足；比如现在 HDR 和渲染效率方面受到 mpv 的限制仍然存在很多问题。
-我们希望在下一个大版本中可以着手解决它们。&lt;/p&gt;
-&lt;p&gt;欢迎大家通过贡献代码、&lt;a href=&quot;https://iina.io/donate/&quot; rel=&quot;nofollow&quot;&gt;捐助&lt;/a&gt; 等各种方式继续支持 IINA 。谢谢。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 09:17:22 GMT</lastBuildDate>
     <item>
       <title>感觉程序员行业有点死了</title>
       <link>https://www.v2ex.com/t/1246421</link>
@@ -47,11 +13,13 @@
       <description>随着 ai 越来越发达，程序员失业越来越多。现在轮到独立开发者了，以前凭借 app 上架 ios 和安卓可以养活家人。。但是最近半年 app 下载量越来越低了，收入快跌没了。出路在哪里？</description>
     </item>
     <item>
-      <title>实测， 6.1sol 不降智真的太能打了，我感觉不比 6astra 差，但是价格只有 5 分之一，一天下来十来块钱随便蹬，真的不要太爽了。</title>
-      <link>https://www.v2ex.com/t/1246355</link>
-      <guid>v2ex-1246355</guid>
-      <pubDate>Sun, 04 Oct 2026 03:44:22 GMT</pubDate>
-      <description>是的前提是不降智满血版的 6.1sol ，降智的话真的连 luna 都不如。&lt;br /&gt;&lt;br /&gt;测试地址： &lt;a target=&quot;_blank&quot; href=&quot;https://www.jiji.cc&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.jiji.cc&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;回复送测试额度。&lt;br /&gt;&lt;br /&gt;我们现已经实现全站 6.1sol 不降智，倍率 0.19 起。我这两天蹬，真的实现指哪打哪，基本不用返工。我用的是我们站上最高配的版本 svip 组倍率高但稳定缓存高，实测下来一个对话就一分多钱，真的随便造。低倍率的像 0.19 更不用说了基本相当于不要钱一样。&lt;br /&gt;&lt;br /&gt;真心建议 V 佬来试试，真的太省钱袋了。</description>
+      <title>如果因为特殊原因无法结婚生子，那该如何找到新的支点来度过比较充实的一生？</title>
+      <link>https://www.v2ex.com/t/1246483</link>
+      <guid>v2ex-1246483</guid>
+      <pubDate>Mon, 05 Oct 2026 04:56:55 GMT</pubDate>
+      <description>&lt;p&gt;RT ，生存问题已经较好的解决（有自己的住房，存款在不乱花的情况下可以撑到退休），但由于没有家庭，只有姐姐妹妹和父母这种亲情纽带，但我和他们不在同一个城市，在我生活的城市里没有任何朋友，导致自己在独立生活时总是感到孤独和无意义，即便可以天天吃喝玩乐，但享乐适应后就觉得无聊，会陷入长久的虚无状态，这种状态会随着年龄的增长越来越强烈。&lt;/p&gt;
+&lt;p&gt;之前的支点在事业上，但现在 ai 出现后，让我觉得自己毫无价值，更想不到失业后去做什么，每个人活着总需要一个支点，大多数人选择了家庭，但我没这个选项，所以天然失去了一个很重要的支点，而自己又没什么输出型的爱好，随着年龄增长，对很多东西祛魅了，做什么都觉得没意思，我不知道自己该怎么办。。&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>想入个 macmini 做 iOS 开发 16g 够用吗</title>
@@ -61,121 +29,59 @@
       <description>目前最后性价比哪款，看了香港教育优惠 m6 32+256 好像 8k 人仔左右但要算上交通费。&lt;br /&gt;海鲜市场的 16+256 的 m4 才 3600 。&lt;br /&gt;想着要不就最低配旧款用着，要不就上新款 32g 。</description>
     </item>
     <item>
-      <title>下周 25 周岁，公司没了，想尝试跨考 28 考研的科软，求意见</title>
-      <link>https://www.v2ex.com/t/1246360</link>
-      <guid>v2ex-1246360</guid>
-      <pubDate>Sun, 04 Oct 2026 04:49:03 GMT</pubDate>
-      <description>&lt;p&gt;本科是双非的生物类专业，23 年毕业直接进的一家生物小公司，负责处理客户的生物数据（ DNA RNA 血浆这种），工作内容就是服务器里 conda 搭建环境，安装包，下载数据库，作比对，然后写成流程，用 python 搭起来，有些论文的图用 R 语言去绘制，基本上不敲代码，都是指挥 agent 去做；上个月公司在这里的分部撤回北京了，我没跟去。&lt;/p&gt;
-&lt;p&gt;一方面薪资低，没发展，在这公司 3 年待办公室混的太舒服了，天天就是看科技新闻，刷 V2EX ，刷知乎，用 AI 提效更好地摸鱼；另一方面，去北京那边，不是纯办公室，得对接高校老师，帮人家干活，采样，做实验，顺带服务器跑跑分析，那边一个熟人没有，实在没有想去的动力。&lt;/p&gt;
-&lt;p&gt;存款目前 4-5w ，某书偶尔接点单，还凑合，单身，不买房没债务，家里是我说了算，不吃压力。&lt;/p&gt;
-&lt;p&gt;高考发挥偏失常，数学 120 ，英语 120 ，六级背了几天单词 450 多过的&lt;/p&gt;
-&lt;p&gt;不考虑生物考研&lt;/p&gt;
-&lt;p&gt;想拼一把明年 12 月考试的科软（中科大软件学院）&lt;/p&gt;
-&lt;p&gt;咨询大家两个问题&lt;/p&gt;
-&lt;p&gt;第一，上岸的客观难度&lt;/p&gt;
-&lt;p&gt;第二，假设成功上岸，从程序员的角度，上岸应该怎么卷实习，大概的一个薪资区间，未来的职业发展，[因为我这几年都是在高校以及医院的圈子里，没有程序员视角]&lt;/p&gt;
+      <title>大伙是咋面对比自己技能强/收入多/储蓄多人的焦虑和不甘心昀？</title>
+      <link>https://www.v2ex.com/t/1246441</link>
+      <guid>v2ex-1246441</guid>
+      <pubDate>Sun, 04 Oct 2026 22:57:14 GMT</pubDate>
+      <description>看同龄人学历很厉害/技能很强都会让我很不甘心？在想怎么把心态放平呢？</description>
+    </item>
+    <item>
+      <title>喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了</title>
+      <link>https://www.v2ex.com/t/1246477</link>
+      <guid>v2ex-1246477</guid>
+      <pubDate>Mon, 05 Oct 2026 03:36:22 GMT</pubDate>
+      <description>&lt;p&gt;记录一下，这个账号用了两年了，美区 Apple 订阅，一直很稳，去年一直是订阅 Pro ，今年升级到了 5X Max ，一直很稳，用的也非常小心，新加坡时区，固定 IP ，不开 API ，不安装手机端 remote ，不安装三方的检测软件（除了偶尔用用 ccusage ，只读 jsonl 文件），周用量很少超过 80% 等等。。&lt;/p&gt;
+&lt;p&gt;我能猜到的直接原因可能是，白天睡太多，晚上我也熬了会夜，因为今天凌晨到 weekly reset 了，一直在用 CC ，睡前交给 Fable5 1 个任务，有可能会执行到 1:30 左右。然后两点就被封了。&lt;/p&gt;
+&lt;p&gt;怀疑的原因就是，要么是这个时区内这么晚了还在用，可能不太正常，而且之前从来没有这么晚用过。第二个就是用的可能用量快到 100%了。别的最近也没干什么特别的事儿&lt;/p&gt;
+&lt;p&gt;肯定还是打算另起一个号，在这之前。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;申诉一下，反正简单写了一份申请，不知道能不能过。&lt;/li&gt;
+&lt;li&gt;清理本机。目前先把本地电脑给清理干净，和 Claude 相关的所有东西全干掉，包括 CLI 的配置文件，、Claude Desktop 以及所有的相关的文件全部备份完删除。如果他记住我的这个设备 ID ，那是真没办法了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;还有什么能做的，兄弟们有没有什么经验分享啊？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>claude 的 100 刀在苹果商店要加 24 刀税,如何避免?</title>
-      <link>https://www.v2ex.com/t/1246350</link>
-      <guid>v2ex-1246350</guid>
-      <pubDate>Sun, 04 Oct 2026 03:10:29 GMT</pubDate>
-      <description>就想用苹果充值,想着有问题也能退,但是这个 24 刀也太冤种了,有啥能避开的办法吗?  目前冲的 pro,用着确实爽,就是额度不够</description>
-    </item>
-    <item>
-      <title>大模型对 Vuejs 支持不如 react：</title>
-      <link>https://www.v2ex.com/t/1246345</link>
-      <guid>v2ex-1246345</guid>
-      <pubDate>Sun, 04 Oct 2026 02:23:34 GMT</pubDate>
-      <description>&lt;p&gt;估计，可能不是亲生的有关&lt;/p&gt;
+      <title>久坐提醒，有没有啥好的方案，能让自己站起来？</title>
+      <link>https://www.v2ex.com/t/1246459</link>
+      <guid>v2ex-1246459</guid>
+      <pubDate>Mon, 05 Oct 2026 02:18:23 GMT</pubDate>
+      <description>&lt;p&gt;1 、手环，电脑提醒，好像效果不好，直接关闭了
+2 、有没有啥好的方法，可以电脑上开始计时，时间到了，需要站起来远程关闭的？ 例如可不可以，手机或者啥，放在远处，在电脑上远程设置 计时器，到了会 提醒，让自己去远程去关闭？最好手环提醒，不干扰别人的那种&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>[开源] 我做了一个没有删除和升级权限的链上论坛</title>
-      <link>https://www.v2ex.com/t/1246367</link>
-      <guid>v2ex-1246367</guid>
-      <pubDate>Sun, 04 Oct 2026 06:51:22 GMT</pubDate>
-      <description>&lt;p&gt;做了一个极简的链上论坛，叫 Chain Talk 。&lt;/p&gt;
-&lt;p&gt;核心思路很简单：所有内容存在以太坊的事件日志里，合约只有 22 行代码，一个变量、一个函数、一个事件。没有管理员，没有删除按钮，没有升级机制。发出去的东西永远不能改。&lt;/p&gt;
-&lt;h3&gt;为什么做这个&lt;/h3&gt;
-&lt;p&gt;我们在这个&quot;404 时代&quot;失去了太多东西。&lt;/p&gt;
-&lt;p&gt;百度空间关了，天涯半死不活，豆瓣小组说解散就解散，贴吧的老帖说删就删。你在网上发过的每一句话，其实都不属于你——它可能被平台删除，可能在服务器迁移时丢失，也可能在公司倒闭后永远消失。&lt;/p&gt;
-&lt;p&gt;这个实验想看看：如果内容一旦发出就永远不能删除、不能修改、不能被任何管理员下架，会发生什么？&lt;/p&gt;
-&lt;h3&gt;技术实现&lt;/h3&gt;
-&lt;p&gt;合约只有短短几行：&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-solidity&quot;&gt;contract ChainTalk {
-    uint256 private _postIdCounter;
-    event Posted(uint256 indexed id, uint256 indexed replyTo, address indexed author, string content);
-    function post(string calldata content, uint256 replyTo) external {
-        require(bytes(content).length &amp;gt; 0, &quot;Content cannot be empty&quot;);
-        require(replyTo &amp;lt;= _postIdCounter, &quot;Post does not exist&quot;);
-        _postIdCounter++;
-        emit Posted(_postIdCounter, replyTo, msg.sender, content);
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;replyTo = 0：创建新主题&lt;/li&gt;
-&lt;li&gt;replyTo &amp;gt; 0：回复指定帖子（支持楼中楼）&lt;/li&gt;
-&lt;li&gt;所有内容存在事件日志里，只要以太坊链在，数据就在&lt;/li&gt;
-&lt;li&gt;用 The Graph 索引事件，前端不需要钱包就能浏览&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;成本&lt;/h3&gt;
-&lt;p&gt;得益于最近主网 Gas 很低：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;部署合约：约 $0.06 （一次性）&lt;/li&gt;
-&lt;li&gt;发一篇几百字主题：约 $0.04&lt;/li&gt;
-&lt;li&gt;发一条回复：约 $0.02&lt;/li&gt;
-&lt;li&gt;没有服务器费，没有数据库费，没有运维成本&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;它不完美&lt;/h3&gt;
-&lt;p&gt;没有点赞，没有关注，没有推荐算法，甚至没有用户名——你只有一个以太坊地址。&lt;/p&gt;
-&lt;p&gt;但它有一样东西是所有主流平台都没有的：确定性。你今天发的帖子，十年后还在。&lt;/p&gt;
-&lt;h3&gt;传送门&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;网站：&lt;a href=&quot;https://talk.io99.xyz&quot; rel=&quot;nofollow&quot;&gt;https://talk.io99.xyz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;源码：&lt;a href=&quot;https://github.com/picasso250/chain-talk&quot; rel=&quot;nofollow&quot;&gt;https://github.com/picasso250/chain-talk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;主网合约：0xec3639B4CC756d39e996447dE1787B09EF646b6F （已 verify ）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;欢迎留下你的第一条&quot;永恒&quot;记录。也欢迎挑刺，任何反馈都很宝贵。&lt;/p&gt;
-</description>
+      <title>香港仓库管理 或 日本永居 如何选择，请 V 友们给点想法</title>
+      <link>https://www.v2ex.com/t/1246491</link>
+      <guid>v2ex-1246491</guid>
+      <pubDate>Mon, 05 Oct 2026 06:13:32 GMT</pubDate>
+      <description>现状：&lt;br /&gt;年龄 33 。10 年+后端，大厂待过几年。远程搞过 web3 ，现在在日开发。&lt;br /&gt;老婆孩子都是澳门人，孩子四岁。目前一人在日本混永驻老婆偶尔过来做代购。&lt;br /&gt;&lt;br /&gt;1.香港仓库 &lt;br /&gt;大舅哥生意开新仓，说请我过去当管理和人打交道。&lt;br /&gt;统计人工、结算工资，基本都是电脑文档操作，说先带我三个月 &lt;br /&gt;一月 6W 港币，年包 72W 港币  税前。&lt;br /&gt;&lt;br /&gt;2.日本永居&lt;br /&gt;目前高才 80 分 明年 5 月提永驻，提交后预计再等 10 个月能下来 大概要 28 年初&lt;br /&gt;收入确实比较低 年包 650W 日元 税前 32W 港币 &lt;br /&gt;工作不忙 9-6 准时下班不加班 轻松是轻松 薪资没什么盼头&lt;br /&gt;以后也是想拿了永驻 找点别的干 &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;考虑：&lt;br /&gt;老婆和我聊了一下我的想法是先去看看如果可以就趁着年轻多积累些财富也好。&lt;br /&gt;个人也是想赚的多些，而且离老婆孩子近一些，不用跨国缺少陪伴。&lt;br /&gt;本身自己也计划拿了永驻后也是想着换方向干点别的，不会一直在日本。&lt;br /&gt;但是双方长辈可能考虑觉得现在的环境，拿个永驻也是有个退路想出去就可以出。&lt;br /&gt;&lt;br /&gt;有个背景（即使拿了永驻我孩子以后也不会在日本上学，只是我多一个随时能出去的身份）&lt;br /&gt;&lt;br /&gt;现在我想的是请个假先去看看大舅哥那边什么情况，&lt;br /&gt;可以干的话 先把签证提了，下来了就日本离职。&lt;br /&gt;要先和老婆沟通好。和长辈好好聊聊。&lt;br /&gt;&lt;br /&gt;吐槽：&lt;br /&gt;24 年来的日本 可以说是在最不好的时候来了 ，急转直下 汇率政策一系列的，&lt;br /&gt;还是自己永驻搞慢了，如果快点身份也拿了直接办五年再入国，就可以去放心的去香港 。&lt;br /&gt;（慢了点 花了一年搞了个 MBA 考日语 今年 5 月够了 80 。 降薪了一大半来的 汇率还亏了好多 哭笑不得）&lt;br /&gt;&lt;br /&gt;不知道怎么和长辈说合适，他们的眼光看的比较长远（ GN 环境、出的出不去他们都想）。&lt;br /&gt;我和老婆就想 趁着年轻 有这个机会多去赚一点 ，积累多一点以后想出去，再办也可以。</description>
     </item>
     <item>
-      <title>[送码] macOS 的活动记录和回顾软件「日影」</title>
-      <link>https://www.v2ex.com/t/1246425</link>
-      <guid>v2ex-1246425</guid>
-      <pubDate>Sun, 04 Oct 2026 14:01:28 GMT</pubDate>
-      <description>&lt;h2&gt;功能介绍&lt;/h2&gt;
-&lt;p&gt;我是一个喜欢记录的人，通过记录，我可以减少生活里的虚无感，让自己多一点活过的实感。&lt;/p&gt;
-&lt;p&gt;出于自己的记录需求，我首先去网络上找了这方面的软件，但是 ActivityWatch、Qbserve 不怎么好看，Timing 太贵而且感觉比较复杂……于是起了自己做 macOS 上的时间记录 app「日影」的念头。&lt;/p&gt;
-&lt;p&gt;「日影」的基本功能是活动记录，我做了以日和月为单位的统计页面，可以看到自己用 Mac 的时间里都在做什么。
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/C2yf2lp.png&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/gpD1Fgl.png&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/EB7Fydu.png&quot;/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/DF34zml.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;还可以看到 app 之间的关系：
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/tCGH0YE.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;除了统计，还做了一些别的功能，比如和系统日历的集成，日影可以自动把项目活动写入系统日历，这样的话就可以在日历里回顾自己的一天了。我喜欢把日历作为一个回顾用的软件。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/WzGGeKQ.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;基于对活动的记录，日影还有基于活动的提醒功能，比如站立提醒（使用很久电脑后提醒站立）、专注提醒（持续专注后提醒休息）等等。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/02rqZJY.png&quot;/&gt; &lt;/p&gt;
-&lt;h2&gt;隐私&lt;/h2&gt;
-&lt;p&gt;记录是在本地进行的，不会上传任何记录数据（除非主动开启备份）。更详细的可以看官网的隐私政策说明。&lt;/p&gt;
-&lt;h2&gt;官网链接和软件下载&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://hikage.app/zh-CN/&quot; rel=&quot;nofollow&quot;&gt;https://hikage.app/zh-CN/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;送码&lt;/h2&gt;
-&lt;p&gt;留下你的邮箱，我会为前 10 位发送邮件，用邮件里的激活码可以永久解锁日影的付费功能。&lt;/p&gt;
-&lt;h2&gt;优惠&lt;/h2&gt;
-&lt;p&gt;原始定价 9 美元。如果喜欢软件，也可以通过优惠码 &lt;code&gt;V2EX&lt;/code&gt;，以 8 折购买软件。&lt;/p&gt;
-</description>
+      <title>29 年没跟家里人红过脸的我跟我爷爷顶嘴了</title>
+      <link>https://www.v2ex.com/t/1246440</link>
+      <guid>v2ex-1246440</guid>
+      <pubDate>Sun, 04 Oct 2026 22:23:09 GMT</pubDate>
+      <description>之前没跟家里人闹腾过，都是他们说什么我就听着，有时候也会难过，最近一次感觉忍不了就是我爷爷打电话说和村里的人介绍对象，女生之知根知底的，我在天津她在北京，介绍人就觉得离得很近，但是也就跟人家加上微信以后聊了一天，对方有礼貌且有回应，但是我还是觉得一是距离远，二是她一周只休息一天，这样前期培养感情也费劲，我爷爷就说我不知好歹😢😢😢😢，然后国庆节回来的时候，一进门我爷爷就说我，没事老扣鼻子，这是大事儿啊，还有接电话的时候支支吾吾，没有男人的气概，又来又问我超不炒股，说将来要赔了 100 多万可怎么办，开车的时候可得开慢点，说，我跟你奶奶 80 了，你还见了我们几次唉，你不听说，喃们要是没了怎么办呢，我说你们走了我就跟着一起走，说，我跟你奶奶 80 了，你还见了我们几次唉，你不听说，喃们要是没了怎么办呢，我说你们走了我就跟着一起走，然后他就说我上学上多了越来越不懂事了😣</description>
     </item>
     <item>
-      <title>回老家所有梯子都失效了</title>
-      <link>https://www.v2ex.com/t/1246366</link>
-      <guid>v2ex-1246366</guid>
-      <pubDate>Sun, 04 Oct 2026 06:40:34 GMT</pubDate>
-      <description>&lt;p&gt;湖北联通，换电信的 5g 就好了，这 tmd 哔了狗了。&lt;/p&gt;
+      <title>产品的前端被抄了，又无语又想笑。</title>
+      <link>https://www.v2ex.com/t/1246398</link>
+      <guid>v2ex-1246398</guid>
+      <pubDate>Sun, 04 Oct 2026 09:42:08 GMT</pubDate>
+      <description>&lt;p&gt;我第一次做产品，打磨了 6 个月才推出，结果推出 2 个月后被电诈站抄了我们的前端页面。是直接拿我们的前端 nuxt 构建档案改，连混淆后的 *.js 和 *.css 档名都一样，联系方式也不换一下。&lt;/p&gt;
+&lt;p&gt;你说你抄袭产品功能做个好玩的竞品出来就算了，只抄前端是怎样？还在抄袭的页面上放别的产品的宣传视频（直连偷别的产品的 cdn ），联系方式又不改，害别人投诉到我们这来。&lt;/p&gt;
+&lt;p&gt;虽然被抄袭也算是另类的肯定，但这种买椟还珠式抄袭我之前真没想像过，现在既无语又想笑。&lt;/p&gt;
 </description>
     </item>
   </channel>
