@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 23:08:35 GMT</lastBuildDate>
     <item>
       <title>手太痒了，终于开发了个操作系统，免安装那种</title>
       <link>https://www.v2ex.com/t/1246642</link>
@@ -63,13 +63,6 @@
       <description>AIKey365 是一个面向开发者的 AI API 聚合服务，这次给 V2EX 单独放一批体验额度。&lt;br /&gt;&lt;br /&gt;兼容 OpenAI API 格式。平时在用 OpenAI SDK 、Cursor 、Claude Code 或其他兼容客户端的话，一般修改 Base URL 和 API Key 就可以接入。&lt;br /&gt;&lt;br /&gt;地址： &lt;a target=&quot;_blank&quot; href=&quot;https://aikey365.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://aikey365.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这次给 V2EX 放 20 个名额：&lt;br /&gt;&lt;br /&gt;前 20 个符合条件的回复，每人送 20 元站内余额。&lt;br /&gt;&lt;br /&gt;站内余额按 ¥1 = 1 余额单位计，不是美元。&lt;br /&gt;&lt;br /&gt;注册 AIKey365 后，在评论区留下站内用户名，我会按回复顺序手动加余额。&lt;br /&gt;&lt;br /&gt;每个 V2EX 账号、每个 AIKey365 账号限领一次。&lt;br /&gt;&lt;br /&gt;不用关注、不用转发，也不用专门写测评，正常使用就可以。&lt;br /&gt;&lt;br /&gt;如果遇到断流、报错或者明显速度异常，可以告诉我模型名和大概时间，我会查一下。&lt;br /&gt;&lt;br /&gt;请不要在评论区发送 API Key 。</description>
     </item>
     <item>
-      <title>没想到在 GitHub 下载软件还能中木马病毒…真的吃一堑长一智了</title>
-      <link>https://www.v2ex.com/t/1246570</link>
-      <guid>v2ex-1246570</guid>
-      <pubDate>Mon, 05 Oct 2026 21:39:38 GMT</pubDate>
-      <description>说真的感觉已经好久没有去考虑过电脑病毒这件事了&lt;br /&gt;结果就在大前天 我当时想给路由器安装一个插件 需要用到 Xshell 我就顺手打了 Xshell 然后当时就特别着急 没有仔细看 然后就不小心选了一个关键词 &lt;br /&gt;最可怕的是 这个搜索结果还在谷歌的第三项 之后就跳到了 GitHub 的一个 Xshell 破解版的项目（叫 xshell-setup-free ） 最夸张的是 我还点进去着急下载 当我解压的时候 发现有密码 但我没想那么多 就直接 虽然当时 Windows 提示我是危险软件 但我还是硬着头皮安装了 安装的一瞬间 我发现我的 Windows 自带杀毒软件跳了一下 然后又马上恢复 我也没想那么多 &lt;br /&gt;结果就在第二天 我的 Instagram 我的各种账号邮箱全部被盗 同时还利用我的 Instagram 给我的所有朋友发了钓鱼网站的链接 就在刚刚 我的天呐 我的邮箱又收到了一堆乱七八糟的邮件 一瞬间 100 多个&lt;br /&gt;真的只能为这种坏人 pray 希望他遭到报应吧……以后也真的不能完全的忽略电脑病毒这件事 希望大家以我的例子为警戒～&lt;br /&gt;- （已经和 GitHub 官方举报过好几次了 还没有得到任何回信😢</description>
-    </item>
-    <item>
       <title>怎么反制楼上租户制造噪音，沟通了效果不大</title>
       <link>https://www.v2ex.com/t/1246629</link>
       <guid>v2ex-1246629</guid>
@@ -95,6 +88,13 @@
       <description>&lt;p&gt;5x ，基本一次对话就消耗 20 ％周额度，也就改了几百行代码而已；
 当然我开的是 6 astra ultra&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>ai 最可怕的，不是取代你，而是让你无效成功</title>
+      <link>https://www.v2ex.com/t/1246601</link>
+      <guid>v2ex-1246601</guid>
+      <pubDate>Tue, 06 Oct 2026 02:40:41 GMT</pubDate>
+      <description>ai 最可怕的，不是取代你，而是让你无效成功</description>
     </item>
   </channel>
 </rss>
