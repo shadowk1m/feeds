@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 06 Oct 2026 23:08:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:31:23 GMT</lastBuildDate>
     <item>
       <title>手太痒了，终于开发了个操作系统，免安装那种</title>
       <link>https://www.v2ex.com/t/1246642</link>
@@ -22,45 +22,6 @@
 &lt;p&gt;&lt;a href=&quot;https://win98.si/#web=http://www.v2ex.com/&amp;amp;date=2006&quot; rel=&quot;nofollow&quot;&gt;https://win98.si/#web=http://www.v2ex.com/&amp;amp;date=2006&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;看看有啥大 bug 没&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>个人使用 Claude 防止封号的经验分享</title>
-      <link>https://www.v2ex.com/t/1246574</link>
-      <guid>v2ex-1246574</guid>
-      <pubDate>Tue, 06 Oct 2026 00:42:00 GMT</pubDate>
-      <description>&lt;p&gt;我是之前 IP 在 US 和 JP 乱窜，开了几个月的 Claude ，被封号了。&lt;/p&gt;
-&lt;p&gt;现在改成一下的配置，目前稳定使用了 3 个月&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;梯子是自建的 aws lightsail 东京，5 刀每月，一个 t 的流量，协议是 vless 加上 reality ，原理是伪装成大站的 https 服务器，IP 被封几率小&lt;/li&gt;
-&lt;li&gt;联通宽带，翻墙稳定&lt;/li&gt;
-&lt;li&gt;所有的 ai 服务通过 IpRoyal 出站，通过 clash 的 dialer-proxy 指向 aws 节点，所有的 AI 强制指定这个 clash proxy name, 没法手动切换，防止手贱乱切。&lt;/li&gt;
-&lt;li&gt;clash 的 AI 规则我是让 AI 直接参考这个仓库写的 ： &lt;a href=&quot;https://github.com/szkane/ClashRuleSet&quot; rel=&quot;nofollow&quot;&gt;https://github.com/szkane/ClashRuleSet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;除了 Claude code 对话，其他的 LLM 输出都是英语&lt;/li&gt;
-&lt;li&gt;安卓 play 商店加上招商银行卡订阅，订阅之前，现在免费的网页用上一两天，看 setting - account 里面的登陆 session 是否符合预期（多个设备都是一个目标 region ）&lt;/li&gt;
-&lt;li&gt;不要总是用完所有的额度，防止 A 社认为你在蒸馏他，A 社最敏感的是，国内的 AI 开发商蒸馏他，最近的 A 社的报告就写了很多这种案例&lt;/li&gt;
-&lt;li&gt;使用 tun 模式翻墙，我是用的 stash ios 版，在 mac 上很稳&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;其他的，可以参考别人的分享：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/2032879874097017916&quot; rel=&quot;nofollow&quot;&gt;https://zhuanlan.zhihu.com/p/2032879874097017916&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://feifei.537393.xyz/posts/claude-pro-stable-subscription/&quot; rel=&quot;nofollow&quot;&gt;https://feifei.537393.xyz/posts/claude-pro-stable-subscription/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;希望帮到大家&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>接下来一年的时间，我将从京东过渡到其它平台</title>
-      <link>https://www.v2ex.com/t/1246588</link>
-      <guid>v2ex-1246588</guid>
-      <pubDate>Tue, 06 Oct 2026 01:50:33 GMT</pubDate>
-      <description>接下来一年的时间，我将从京东过渡到其它平台&lt;br /&gt;&lt;br /&gt;极简描述&lt;br /&gt;京东无辜无法登录,必须同意京东金融人脸识别&lt;br /&gt;&lt;br /&gt;简单来说&lt;br /&gt;作为十几年的京东老用户,自认为消费习惯良好,而且安全意识非常到位,前天突然无法登录京东,必须要同意京东金融的协议进行人脸识别,才能登录,使用手机验证码不可以.&lt;br /&gt;考虑到这几年京东总是让我用金融,打白条,甚至有些退款都不能原路返回,只能进入钱包.&lt;br /&gt;作为有借贷洁癖的我,拒绝了这种方式,然后京东客服拒绝了我再使用京东账户,除非我同意京东金融的协议进行人脸识别.&lt;br /&gt;&lt;br /&gt;具体过程&lt;br /&gt;两天前我的京东账户突然无法登录,,强制要求人脸识别,本来打算国内避免不了,一张脸而已,但随后看到下面要同意京东金融的协议….京东金融,非常抵触,过去的几年京东总是有意无意的要给我放贷,但我从不借贷&lt;br /&gt;在当今社会,想要避免借贷,是很困难的,就像暴雨天走路不湿鞋一样困难.&lt;br /&gt;还有十几件在路上的快递无法看到,还有一件衣服尺码错了也不确定是不是买错了还是发错了.&lt;br /&gt;所以我要不要进行人脸识别.&lt;br /&gt;&lt;br /&gt;曾几何时我认为京东的全方位体验是最好的，用京东承担生活的全部开销&lt;br /&gt;以至于我十几年的时间里消费了至少 50 万&lt;br /&gt;我不明白,我这样的用户为什么一定要搞我的金融&lt;br /&gt;或者说,我这样的用户,才更要搞我的金融?&lt;br /&gt;打客服,告诉我为了我的安全,必须要人脸识别,但是我京东没有钱,付款都是第三方,即使京东被盗,也无法对我的财产无法造成损失,我能想到人脸识别的唯一用途就是借贷了.&lt;br /&gt;&lt;br /&gt;我只是想买东西而已&lt;br /&gt;950618 和 95118 打了很多次,没有意义&lt;br /&gt;网上查了一下,去年貌似有很多这样的情况.&lt;br /&gt;&lt;br /&gt;如果最终我妥协了&lt;br /&gt;也决定放弃京东了&lt;br /&gt;&lt;br /&gt;如果说京东唯一让我留恋的,应该就是送货上门的快递了&lt;br /&gt;或者说电子产品保真?这两年也开始收到二手了&lt;br /&gt;&lt;br /&gt;尝试改用淘宝&lt;br /&gt;无奈我加 20 运费也不让我指定快递。&lt;br /&gt;尝试 pdd,问了几个客服,居然很多默认是京东快递，今天买几样生活消耗品看看有没有区别&lt;br /&gt;生鲜改山姆盒马小象&lt;br /&gt;电子从官网买或者天猫&lt;br /&gt;对比了一下价格，过去几个月买的生活用品普遍京东的要贵一些，我这个买东西不对比价格的习惯真不好.&lt;br /&gt;&lt;br /&gt;思来想去无论如何跟客服反应,都是在同一个体系内折腾,只会徒增烦恼和浪费时间,只有两种方式可以解决问题&lt;br /&gt;1 找到能管理京东的,所以根据网友的经验打了 12345,进行京东总部投诉,目前还没有消息&lt;br /&gt;2 用脚投票&lt;br /&gt;&lt;br /&gt;最后祝还在使用京东的网友,不要遇到我这样的情况.</description>
-    </item>
-    <item>
-      <title>做了个 AI API 聚合服务， V2EX 前 20 位送 20 元额度</title>
-      <link>https://www.v2ex.com/t/1246595</link>
-      <guid>v2ex-1246595</guid>
-      <pubDate>Tue, 06 Oct 2026 02:15:11 GMT</pubDate>
-      <description>AIKey365 是一个面向开发者的 AI API 聚合服务，这次给 V2EX 单独放一批体验额度。&lt;br /&gt;&lt;br /&gt;兼容 OpenAI API 格式。平时在用 OpenAI SDK 、Cursor 、Claude Code 或其他兼容客户端的话，一般修改 Base URL 和 API Key 就可以接入。&lt;br /&gt;&lt;br /&gt;地址： &lt;a target=&quot;_blank&quot; href=&quot;https://aikey365.com&quot; rel=&quot;nofollow noopener&quot;&gt;https://aikey365.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这次给 V2EX 放 20 个名额：&lt;br /&gt;&lt;br /&gt;前 20 个符合条件的回复，每人送 20 元站内余额。&lt;br /&gt;&lt;br /&gt;站内余额按 ¥1 = 1 余额单位计，不是美元。&lt;br /&gt;&lt;br /&gt;注册 AIKey365 后，在评论区留下站内用户名，我会按回复顺序手动加余额。&lt;br /&gt;&lt;br /&gt;每个 V2EX 账号、每个 AIKey365 账号限领一次。&lt;br /&gt;&lt;br /&gt;不用关注、不用转发，也不用专门写测评，正常使用就可以。&lt;br /&gt;&lt;br /&gt;如果遇到断流、报错或者明显速度异常，可以告诉我模型名和大概时间，我会查一下。&lt;br /&gt;&lt;br /&gt;请不要在评论区发送 API Key 。</description>
     </item>
     <item>
       <title>怎么反制楼上租户制造噪音，沟通了效果不大</title>
@@ -81,20 +42,73 @@
 </description>
     </item>
     <item>
-      <title>codex 现在这消耗也太快了吧</title>
-      <link>https://www.v2ex.com/t/1246573</link>
-      <guid>v2ex-1246573</guid>
-      <pubDate>Tue, 06 Oct 2026 00:35:02 GMT</pubDate>
-      <description>&lt;p&gt;5x ，基本一次对话就消耗 20 ％周额度，也就改了几百行代码而已；
-当然我开的是 6 astra ultra&lt;/p&gt;
+      <title>从转行到失败： 32 岁程序员跨界做女鞋的经历</title>
+      <link>https://www.v2ex.com/t/1246711</link>
+      <guid>v2ex-1246711</guid>
+      <pubDate>Tue, 06 Oct 2026 23:12:01 GMT</pubDate>
+      <description>&lt;p&gt;我以前压根就不是 fashion 行业的，而是一个程序员&lt;/p&gt;
+&lt;p&gt;当程序员的时候，我觉得我对我自己的工作感到自豪，为什么呢？因为我觉得我用我自己的技能赚钱是一件很骄傲的事情。&lt;/p&gt;
+&lt;p&gt;在帝都拿着几 w 的工资，也让我体会到一种受人尊重的感觉，到哪里都是“X 工 X 工”的叫着，这种感觉真的很好。&lt;/p&gt;
+&lt;p&gt;同时程序这个东西我是完全可以掌控的，只要输入正确，逻辑正确，我的输出就是正确的，这种掌控感是我喜欢的。&lt;/p&gt;
+&lt;p&gt;我的写程序是我自己自学的，在项目中，在工作中，需要什么技术学什么技术。&lt;/p&gt;
+&lt;p&gt;我坚信，只要我掌握这个技术，我就可以拿到一个体面的工作。&lt;/p&gt;
+&lt;p&gt;但是我错了&lt;/p&gt;
+&lt;p&gt;后来，我由于程序员的工作，患上了不可逆的静脉炎，那种疼痛打碎了我对于未来的期望，我不得不花钱去治疗，但是你们也知道，静脉炎是不可逆的，它治不好，只能缓解。&lt;/p&gt;
+&lt;p&gt;而且我患病之后，在就业市场的性价比顿时开始急剧贬值，以至于后来我再也无法找到一份程序员的工作。&lt;/p&gt;
+&lt;p&gt;疫情期间，我染上了新冠，在出租屋里，缺医少药，被病痛折磨差点没 over 了，我在住户群里哀求药，才得到一些布洛芬，帮我抵抗住了新冠。&lt;/p&gt;
+&lt;p&gt;好不容易在家人的帮助下我控制了病情，我打算东山再起，继续从事这个行业，AI 浪潮来了。&lt;/p&gt;
+&lt;p&gt;AI 浪潮之前，我觉得只要我有坚实的编程技术，我就可以有体面的工作&lt;/p&gt;
+&lt;p&gt;但是 AI 浪潮彻底粉碎了我对于技术的自信，它让我多年的编程经验变得一文不值&lt;/p&gt;
+&lt;p&gt;为了生存，我没办法，只能跨界尝试别的&lt;/p&gt;
+&lt;p&gt;我发现 AI 虽然厉害，但是它只能替代基础工作，无法替代一些创造性的工作&lt;/p&gt;
+&lt;p&gt;因此我不得不去转行到 fashion 行业，于是我创建了自己的女鞋品牌 MAITELAINI&lt;/p&gt;
+&lt;p&gt;说是品牌，其实只是一个商标，除了制作环节可以交给代工厂之外，其余只能靠我自己，设计，物流，运营，都必须我一个人来做，里面的困难可想而知。&lt;/p&gt;
+&lt;p&gt;我在网上看了一些资料，发现女人们穿着高跟鞋经常脚痛，因此我打算用我擅长的工科思维来对高跟鞋进行结构上的重新设计&lt;/p&gt;
+&lt;p&gt;因此这就是我的品牌 MAITELAINI 的核心卖点，那就是所谓的“时尚工程学”&lt;/p&gt;
+&lt;p&gt;时尚工程学就是用工程学的思维重新设计高跟鞋的结构，它在我的品牌 MAITELAINI 上体现为两个：&lt;/p&gt;
+&lt;p&gt;第一，是不对称人体工学尖头，市面上流行的尖头高跟鞋多是对称型的尖头，这样就会导致脚趾严重外翻，因此我提出了不对称尖头，将尖头向大拇指一侧偏移，以便达到缓解拇指外翻的作用。&lt;/p&gt;
+&lt;p&gt;第二，是三角形结构稳定细跟鞋，我发现，高跟鞋，尤其是细跟鞋，其经常崴脚的原因，就是因为高跟鞋细跟承担了人体过多的重量所致&lt;/p&gt;
+&lt;p&gt;因此我利用了斜拉桥的原理，在高跟鞋细跟和鞋底之间加装了一根斜向的支撑条，形成一个三角形的结构，这样的高跟鞋非常稳固&lt;/p&gt;
+&lt;p&gt;有了这些坚实的技术作为基础，于是我注册了 shopify ，开始了我的销售之旅，我认为我的技术是可以的。&lt;/p&gt;
+&lt;p&gt;但是我又错了&lt;/p&gt;
+&lt;p&gt;我在 shopify 挣扎了三年，订单只有一个，最后我实在是撑不下去了只能黯然关店&lt;/p&gt;
+&lt;p&gt;后来我才想明白，不是因为我的技术不够好，而是因为我没有掌握流量渠道，shopify 没有外部流量就是一座孤岛&lt;/p&gt;
+&lt;p&gt;于是我决定要去搞流量，当网红，但是这个行业也不是那么容易被攻克，因此我毫无疑问地又失败了。&lt;/p&gt;
+&lt;p&gt;经历了一次又一次的失败，我对未来很迷茫，不知道路在何方&lt;/p&gt;
+&lt;p&gt;我喜欢程序员工作，因为它是可以掌控的。我不喜欢创业，因为它是不确定的。我的失败已经证明了这一点&lt;/p&gt;
+&lt;p&gt;管他呢，活一天算一天吧。&lt;/p&gt;
+&lt;p&gt;只要我还有一口气在，我就得继续奋斗下去&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>ai 最可怕的，不是取代你，而是让你无效成功</title>
-      <link>https://www.v2ex.com/t/1246601</link>
-      <guid>v2ex-1246601</guid>
-      <pubDate>Tue, 06 Oct 2026 02:40:41 GMT</pubDate>
-      <description>ai 最可怕的，不是取代你，而是让你无效成功</description>
+      <title>6W 以内的二手车有什么推荐吗？</title>
+      <link>https://www.v2ex.com/t/1246674</link>
+      <guid>v2ex-1246674</guid>
+      <pubDate>Tue, 06 Oct 2026 12:45:17 GMT</pubDate>
+      <description>&lt;p&gt;油电不限，刚上班两年，没攒多少钱，主要是回老家用，1 个月用个 2-3 次车，每次三四十公里&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>大家还搞 Python 吗 , 感觉现在用的不多了啊</title>
+      <link>https://www.v2ex.com/t/1246645</link>
+      <guid>v2ex-1246645</guid>
+      <pubDate>Tue, 06 Oct 2026 08:00:57 GMT</pubDate>
+      <description>&lt;p&gt;以前我主要用 python 得, 包括后台, gui(pyside)等等&lt;/p&gt;
+&lt;p&gt;因为综合易用性(好写, 易懂), 跨平台, 功能性(覆盖面广)&lt;/p&gt;
+&lt;p&gt;但了解得都知道, 这些东西现在可能不一定还成立了, 或者说选择太多了&lt;/p&gt;
+&lt;p&gt;首先, python 本身大量重要库都是基于 rust 得, 那可能就要问下了, 为啥不直接用 rust, 以前可能还有学习曲线陡得问题, 现在 ai 其实很擅长写编译型语言&lt;/p&gt;
+&lt;p&gt;库多, 现在随便移植, 任何平台你看上其他平台某个库, 必然就有人移植, 或者你自己让 ai 干也用不了多少 token&lt;/p&gt;
+&lt;p&gt;所以我现在好像用 python 不多了, 现在后台更偏向 go, 或者 rust&lt;/p&gt;
+&lt;p&gt;gui, 偏向 rust+tauri, 甚至最近 rust+gpui 也流行了&lt;/p&gt;
+&lt;p&gt;那些容易学, 好写易懂等, 在 ai 时代好像也不重要了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>6.1sol 排名第一没人反对吧</title>
+      <link>https://www.v2ex.com/t/1246603</link>
+      <guid>v2ex-1246603</guid>
+      <pubDate>Tue, 06 Oct 2026 02:52:16 GMT</pubDate>
+      <description>讲真的 6.1sol 排名第一没人反对吧！&lt;br /&gt;真的妥妥的第一，官方介绍 6.1sol 接近 6astra 的水平，但原来 6astra 大多数降智，现在我的体感，包括我的朋友一致认为不降智的 6.1sol 比原来的 6astra 还要能打。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;而 6.1sol 开支不到原来的五分之一却能用上 6astra 的水平。对个人和公司的钱袋太友好，我真的不允许还有人不知道。&lt;br /&gt;&lt;br /&gt;我在强调一下，6.1sol 第一，但前提是不降智的 6.1sol 哦。&lt;br /&gt;&lt;br /&gt;不降智 6.1sol 推荐 &lt;a target=&quot;_blank&quot; href=&quot;https://www.jiji.cc&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.jiji.cc&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;我搞了一大堆吉吉 api 的兑换码。需要的 v 佬回贴</description>
     </item>
   </channel>
 </rss>
