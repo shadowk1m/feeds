@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 07 Oct 2026 16:48:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:41:21 GMT</lastBuildDate>
     <item>
       <title>从转行到失败： 32 岁程序员跨界做女鞋的经历</title>
       <link>https://www.v2ex.com/t/1246711</link>
@@ -42,14 +42,6 @@
 &lt;p&gt;我喜欢程序员工作，因为它是可以掌控的。我不喜欢创业，因为它是不确定的。我的失败已经证明了这一点&lt;/p&gt;
 &lt;p&gt;管他呢，活一天算一天吧。&lt;/p&gt;
 &lt;p&gt;只要我还有一口气在，我就得继续奋斗下去&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>我要和女朋友结婚了，关于婚纱照，求各位大佬给我点意见！</title>
-      <link>https://www.v2ex.com/t/1246705</link>
-      <guid>v2ex-1246705</guid>
-      <pubDate>Tue, 06 Oct 2026 17:08:38 GMT</pubDate>
-      <description>&lt;p&gt;我和女朋友打算结婚了，但是在某书了解了一下关于婚纱照的价格之后，一致决定，通过 AI 进行生成，但是没看到合适的，求教论坛里有经验大佬有哪些 AI 是可以生成的，之前试过豆包，gemini ，grok,chatgpt ，不知道是不是哪里没弄对，效果不尽人意！求教各位大佬给些意见，不胜感激！！！！&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -121,6 +113,24 @@
       <guid>v2ex-1246722</guid>
       <pubDate>Wed, 07 Oct 2026 01:32:39 GMT</pubDate>
       <description>突然发现听英语还是的听自己感兴趣的内容，B 站上我看的最多的就是 影视飓风、Linksphotograph 、小鹿 Lawrence 、超 Carry 的柴西、Jasmine 茉莉与冰川。&lt;br /&gt;&lt;br /&gt;自己搜了些看看发现我还卡颜 ，老外很多脸胀的通红、头发乱糟糟、皮肤皱巴巴，真的看不下去。&lt;br /&gt;&lt;br /&gt;最好跟以上几位 B 站的博主风格类似，慢节奏旅行，大多是风景类，有对话但不吵闹。</description>
+    </item>
+    <item>
+      <title>Safari 用户苦沉浸式翻译久矣，所以我开发了一个代替它的软件，支持 iOS 和 macOS，正在 TestFlight 中，欢迎使用</title>
+      <link>https://www.v2ex.com/t/1246740</link>
+      <guid>v2ex-1246740</guid>
+      <pubDate>Wed, 07 Oct 2026 03:19:11 GMT</pubDate>
+      <description>&lt;p&gt;前段时间开发了一款 iOS 上的翻译软件，纯粹翻译，这是一款原生开发的客户端翻译 app ，顾名思义就是只有客户端没有服务端，所有服务都用的是你自己的 API Key ，可以接入传统翻译和大模型，具体介绍可以看这个帖子： &lt;a href=&quot;https://v2ex.com/t/1238694&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1238694&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这款软件的初衷是为了在 iOS 上有一个更好的“默认翻译 app”解决方案，但是最近我发现它还不够，我一直在 Safari 浏览器上使用沉浸式翻译来翻译网页，但是它没办法使用自己的 API 密钥，只能花钱买官方的会员，实在是过于恶心，而且 iOS 上几乎没有它的代替品，尝试过几个，但是效果不理想，所以我决定自己 &lt;del&gt;vb&lt;/del&gt; 开发一个，于是它就出现了！&lt;/p&gt;
+&lt;p&gt;这款软件的初衷就变成了：为 iOS 和 macOS 提供完整的翻译解决方案（&lt;del&gt;仅限于文本翻译&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;是的，因为 Safari 浏览器扩展跟着 app 一起，所以为了醋包了点饺子，我还开发了 macOS 上的 app ，&lt;del&gt;其实初衷是为了解决 Bob 的一个小问题&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;iOS app 就不介绍了，具体可以看之前的帖子，这次主要介绍一下 macOS app 和浏览器翻译扩展&lt;/p&gt;
+&lt;p&gt;macOS app 目前定位和用法 Bob app 是完全一致的，但是更好看一点（个人觉得&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;4bKSHEzoB1eWYW1NDJZ0N59NY4bUfzyz.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/4bKSHEzoB1eWYW1NDJZ0N59NY4bUfzyz.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;最后就是 Safari 浏览器扩展了，iOS 和 macOS 都可以用，用起来跟沉浸式翻译没啥区别，就是目前没那么多功能，目前只实现了网页翻译，后面再做其他功能，实测下来部分网页的翻译效果比从沉浸式翻译还好&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;LrIRxBhtXCYsZ85XmbaSGt5BpcG9GZFz.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.nodeimage.com/i/LrIRxBhtXCYsZ85XmbaSGt5BpcG9GZFz.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;欢迎加入 TestFlight 体验一下： &lt;a href=&quot;https://testflight.apple.com/join/sPY8644g&quot; rel=&quot;nofollow&quot;&gt;https://testflight.apple.com/join/sPY8644g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;顺便一提，软件还支持使用 apple 智能来翻译，欢迎使用外版设备的 v 友来试试&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
