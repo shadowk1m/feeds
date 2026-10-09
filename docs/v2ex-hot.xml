@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:01:05 GMT</lastBuildDate>
     <item>
       <title>第一次相亲，请教下各位怎么聊，应该聊些什么。</title>
       <link>https://www.v2ex.com/t/1247240</link>
@@ -20,23 +20,264 @@
 </description>
     </item>
     <item>
-      <title>绝了，碰到神人了！一大早给我奶头气堵了</title>
-      <link>https://www.v2ex.com/t/1247250</link>
-      <guid>v2ex-1247250</guid>
-      <pubDate>Fri, 09 Oct 2026 01:41:57 GMT</pubDate>
-      <description>&lt;p&gt;背景：我们小区有梯控，要刷卡才能上去，所以像京东顺丰一类的快递都是放在电梯里的。&lt;/p&gt;
-&lt;p&gt;前两天我的一个京东快递找不到了，昨晚就让管家查了一下监控，后面果然找到了，被另一个邻居给踢出去了。然后我就让管家联系一下那个邻居，为啥踢出去，管家回复说当成垃圾踢出去了。。。态度还很恶劣，说她以为里面是个空盒子就踢出去，不是她拿的，让报警，我一整个黑人问号，一、把垃圾从电梯里踢到一楼的电梯口，有什么意义吗？但凡她把垃圾扔到垃圾桶我都能理解。二、把别人的东西弄丢了还给她急上了，一般这种时候不应该想着给人赔偿吗。&lt;/p&gt;
-&lt;p&gt;因为里面就是个几块钱的东西，我跟管家说我不报警了，以后如果我碰到了她家的快递不小心踢出去的话，希望她多多包涵。并且让管家把这个话一定要转告她。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/bliFl8f.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/LFIOgup.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/MLUTjX5.png&quot;/&gt;
-&lt;a href=&quot;https://www.lnjubao.cn/minio-jbpt/upload/20261009/0df3122b1a84ab4d1e6509ddfbd675fa.mp4&quot; rel=&quot;nofollow&quot;&gt;https://www.lnjubao.cn/minio-jbpt/upload/20261009/0df3122b1a84ab4d1e6509ddfbd675fa.mp4&lt;/a&gt;&lt;/p&gt;
+      <title>[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 迎来 macOS 首发，送 30 个永久 Pro</title>
+      <link>https://www.v2ex.com/t/1247361</link>
+      <guid>v2ex-1247361</guid>
+      <pubDate>Fri, 09 Oct 2026 07:10:13 GMT</pubDate>
+      <description>&lt;h2&gt;功能介绍&lt;/h2&gt;
+&lt;p&gt;组了 NAS 之后，顺便搭建了 Emby/Jellyfin/Plex 服务器，对观影有了更高的要求，市面上的这类播放器软件，对于免费用户限制比较大，基本无法满足日常使用。我的想法是免费基础功能要能够覆盖大部分使用场景，这样用户量起来之后，可以更快的迭代优化。个人比较看重响应速度和用户体验&lt;/p&gt;
+&lt;p&gt;下面是免费版和 Pro 对比：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;th&gt;免费版&lt;/th&gt;
+&lt;th&gt;Pro&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;视频播放&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jellyfin / Emby / Plex 服务器&lt;/td&gt;
+&lt;td&gt;1 个&lt;/td&gt;
+&lt;td&gt;不限&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;本地文件 / WebDAV / SMB / NFS / FTP&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;跳过片头&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学习模式：悬停查词&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学习模式：字幕样式&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学习模式：句子导航&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学习模式：字幕列表&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;软件截图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://vidzer.app/_next/image?url=%2Fscreenshots%2Fvidzer-home-zh-dark.png&amp;amp;w=3840&amp;amp;q=75&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://vidzer.app/_next/image?url=%2Fscreenshots%2Fvidzer-player.png&amp;amp;w=3840&amp;amp;q=75&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;特性：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;支持的文件源：Emby/Jellyfin/Plex、WebDav/SMB/NFS/FTP、本地文件/本地文件夹&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;播放器基于 MPV，视频的处理基于 FFmpeg，几乎兼容所有常见格式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;跳过片头、小窗模式、字幕下载、进度条预览、记忆音频和字幕&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;学习模式（特色功能，支持悬浮查词、字幕列表、句子导航、字幕样式），主要针对语言学习场景，当前学习语言支持英语，可以边看美剧边学英语，后续计划支持日语。功能比较小众，灵感是我之前开源的双语翻译插件 Duo Translator 里面的 YouTube 双语字幕功能。但是不确定这个方向有没有市场。下面是实际效果：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/aq3awLm.png&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;相关链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://vidzer.app/zh&quot; rel=&quot;nofollow&quot;&gt;官网&lt;/a&gt; &lt;a href=&quot;https://github.com/vidzer-app/vidzer-releases&quot; rel=&quot;nofollow&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;下载地址&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://vidzer.app/api/download/arm64&quot; rel=&quot;nofollow&quot;&gt;apple&lt;/a&gt; &lt;a href=&quot;https://vidzer.app/api/download/x64&quot; rel=&quot;nofollow&quot;&gt;intel&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;支持平台&lt;/h2&gt;
+&lt;p&gt;首发 macOS。&lt;/p&gt;
+&lt;p&gt;Windows 大部分适配已完成，很快就可以发布。&lt;/p&gt;
+&lt;p&gt;Android 还在开发，适配工作量大点，年前应该可以发布。&lt;/p&gt;
+&lt;p&gt;iOS 计划中，看用户量和反馈吧&lt;/p&gt;
+&lt;h2&gt;送码&lt;/h2&gt;
+&lt;p&gt;送 30 个永久激活码，评论区发送邮箱，收到激活码邮件后，使用邮箱地址和激活码激活即可&lt;/p&gt;
+&lt;p&gt;入口：设置-&amp;gt;授权-&amp;gt;输入邮箱和激活码-&amp;gt;激活&lt;/p&gt;
+&lt;p&gt;后续 Windows 和 Android、iOS 发布时打算再赠送一波激活码&lt;/p&gt;
+&lt;h2&gt;收费计划&lt;/h2&gt;
+&lt;p&gt;永久 Pro 最多支持三台设备，定价是¥19.9（美元$9.9），搞了个半价优惠码&lt;code&gt;V2EX&lt;/code&gt;，优惠后价格¥9.9。拍脑袋决定的！想请教下价格是高了还是低了，后面打算研究下早鸟价方案&lt;/p&gt;
+&lt;h2&gt;后记&lt;/h2&gt;
+&lt;p&gt;当前是第一个 MVP 版本，功能已经比较全了，但是肯定会有很多 bug 和瑕疵，还请多多包涵。&lt;/p&gt;
+&lt;p&gt;如果遇到 bug 或者有功能建议，欢迎反馈！我会第一时间处理&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>紧急情况，不应该一脚踩死么，还要点点刹？</title>
-      <link>https://www.v2ex.com/t/1247194</link>
-      <guid>v2ex-1247194</guid>
-      <pubDate>Thu, 08 Oct 2026 14:26:28 GMT</pubDate>
-      <description>以前遇到老司机总说我踩刹车，老是一脚踩死，这个习惯不好。应该踩一脚松一下再踩死，这样更安全&lt;br /&gt;&lt;br /&gt;今天网上又看到老司机争论说：高速踩刹车要点点再踩死，说这样既不会踩断刹车，也不打滑。&lt;br /&gt;&lt;br /&gt;能理解多次点刹肯定更不易损坏刹车，也更安全，问题是遇到紧急情况本能就一脚踩到底啊，再松一下不是又往前多冲出距离了么。&lt;br /&gt;&lt;br /&gt;再说，高速情况，踩&amp;gt;松&amp;gt;踩 那得多块的脚速啊，这™是老司机炫技，还是挖坑呢，有老铁说说真的能做到吗？</description>
+      <title>分享一下国庆美国东海岸的行程和花费</title>
+      <link>https://www.v2ex.com/t/1247300</link>
+      <guid>v2ex-1247300</guid>
+      <pubDate>Fri, 09 Oct 2026 03:42:10 GMT</pubDate>
+      <description>&lt;p&gt;一个人独自旅行，不自驾，全程主要靠公共交通。老美的消费水平还是太夸张了：睡了好几晚青旅和机场，这样一趟下来竟然花了近两万元。不算账真不知道会花这么多。&lt;/p&gt;
+&lt;p&gt;更惨的是，碰上暴风雨导致火车停运，前几天的计划被打乱了：损失了一晚不可取消的住宿，还临时以更高的价格订了青旅。&lt;/p&gt;
+&lt;h2&gt;具体行程&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;9 月 25 日：&lt;/strong&gt;上海飞首尔，抵达后前往市区，简单游览。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;9 月 26 日：&lt;/strong&gt;首尔飞波士顿。受波士顿暴风影响，原定深夜前往 Stamford 的行程调整为留在波士顿。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;9 月 27 日：&lt;/strong&gt;在波士顿停留，安排市区活动和休整。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;9 月 28 日：&lt;/strong&gt;早上 6:00 乘改签后的火车从波士顿前往 Stamford ，再转乘通勤火车前往纽约。原计划是 9 月 26 日住 Stamford 、9 月 27 日早上乘通勤火车去纽约；调整后纽约少玩了一天，波士顿多留了一天。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;9 月 29 日：&lt;/strong&gt;游览纽约。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;9 月 30 日：&lt;/strong&gt;继续游览纽约；晚上 20:30 乘 Amtrak 前往费城，21:55 抵达。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10 月 1 日：&lt;/strong&gt;游览费城；傍晚 18:00 乘 Amtrak 前往巴尔的摩，19:12 抵达。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10 月 2 日：&lt;/strong&gt;游览巴尔的摩；晚上 20:49 乘 Amtrak 前往华盛顿，21:32 抵达。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10 月 3 日：&lt;/strong&gt;在华盛顿地区游览。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10 月 4 日：&lt;/strong&gt;继续游览华盛顿地区，之后前往 DCA 机场，为第二天的早班机做准备。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10 月 5 日：&lt;/strong&gt;早上 06:59 从华盛顿 DCA 飞往波士顿，08:46 抵达；当天在波士顿活动。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10 月 6 日：&lt;/strong&gt;中午 12:55 从波士顿飞往首尔。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10 月 7 日：&lt;/strong&gt;抵达首尔后前往云西站一带，在机场和云西站之间往返，并在当地用餐。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10 月 8 日：&lt;/strong&gt;早上 08:25 从首尔飞回上海，09:40 抵达，行程结束。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;各城市主要游览景点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;波士顿：&lt;/strong&gt;Museum of Fine Arts Boston 、Isabella Stewart Gardner Museum 、自由之路、View Boston 观景台、波士顿公共图书馆等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;纽约：&lt;/strong&gt;大都会博物馆、自由女神像上岛、帝国大厦观景台、Edge 观景台、洛克菲勒中心观景台、世贸中心一号楼观景台、MoMA 、中央公园等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;费城：&lt;/strong&gt;Philadelphia Museum of Art 、The Barnes 、独立宫、自由钟等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;巴尔的摩：&lt;/strong&gt;Fort McHenry 、Washington Monument 、The Walters Art Museum 、Maryland Center for History and Culture 、国家水族馆等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;华盛顿：&lt;/strong&gt;阿灵顿公墓、林肯纪念堂、国会大厦、国会图书馆、国家美术馆、航空航天博物馆等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;费用汇总&lt;/h2&gt;
+&lt;p&gt;美元按 1 美元约合 6.7 元人民币、韩元按 1,000 韩元约合 5 元人民币估算。&lt;/p&gt;
+&lt;h3&gt;大类费用占比&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;类别&lt;/th&gt;
+&lt;th&gt;金额&lt;/th&gt;
+&lt;th&gt;占比&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;机票与城际交通&lt;/td&gt;
+&lt;td&gt;7,362.30 元&lt;/td&gt;
+&lt;td&gt;39.1%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;住宿&lt;/td&gt;
+&lt;td&gt;6,509.66 元&lt;/td&gt;
+&lt;td&gt;34.6%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;景点、通票及会员&lt;/td&gt;
+&lt;td&gt;2,801.27 元&lt;/td&gt;
+&lt;td&gt;14.9%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;餐饮及便利店&lt;/td&gt;
+&lt;td&gt;1,170.37 元&lt;/td&gt;
+&lt;td&gt;6.2%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;市内交通&lt;/td&gt;
+&lt;td&gt;784.54 元&lt;/td&gt;
+&lt;td&gt;4.2%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;通信&lt;/td&gt;
+&lt;td&gt;132.18 元&lt;/td&gt;
+&lt;td&gt;0.7%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;行李寄存&lt;/td&gt;
+&lt;td&gt;84.02 元&lt;/td&gt;
+&lt;td&gt;0.4%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;信用卡返现抵减&lt;/td&gt;
+&lt;td&gt;-20.17 元&lt;/td&gt;
+&lt;td&gt;-0.1%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;合计&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;约 18,824.16 元&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;约 100%&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;一、机票与城际交通：7,362.30 元&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;大韩航空上海、首尔、波士顿往返机票：6,761 元。&lt;/li&gt;
+&lt;li&gt;华盛顿里根机场至波士顿的 AA 航班：340 元。&lt;/li&gt;
+&lt;li&gt;Amtrak 城际火车票：合计 261.30 元。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;火车行程时间均为当地时间：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;波士顿 South Station → Stamford：&lt;/strong&gt;免费改签至 9 月 28 日早上 6:00 出发，之后转乘 Metro-North 前往纽约。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;纽约 Moynihan Train Hall → 费城 30th Street Station：&lt;/strong&gt;9 月 30 日 20:30 出发，21:55 到达，Amtrak 657 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;费城 30th Street Station → 巴尔的摩 Penn Station：&lt;/strong&gt;10 月 1 日 18:00 出发，19:12 到达，Amtrak 129 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;巴尔的摩 Penn Station → 华盛顿 Union Station：&lt;/strong&gt;10 月 2 日 20:49 出发，21:32 到达，Amtrak 197 。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;二、住宿：6,509.66 元&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;首尔：&lt;/strong&gt;首尔黄金酒店，9 月 25 日至 26 日，515.34 元。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stamford：&lt;/strong&gt;Amsterdam Hotel ，原定 9 月 26 日至 27 日，655.06 元。受波士顿暴风影响未能入住，费用损失。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;波士顿：&lt;/strong&gt;Boston Homestel ，9 月 26 日至 27 日，563.40 元。暴风影响后临时增订。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;波士顿：&lt;/strong&gt;HI Boston Hostel ，9 月 27 日至 28 日，457.54 元。因暴风影响和行程调整继续留宿波士顿。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;纽约：&lt;/strong&gt;The Nolita Express Hostel ，9 月 28 日至 29 日，513.62 元。信用卡实际入账 76.66 美元。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;纽约：&lt;/strong&gt;U.S. Pacific Hotel ，9 月 29 日至 30 日，938.34 元。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;费城：&lt;/strong&gt;Apple Hostels of Philadelphia ，9 月 30 日至 10 月 1 日，334.40 元。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;巴尔的摩：&lt;/strong&gt;Hampton Inn Baltimore-Inner Harbor ，10 月 1 日至 2 日，834.11 元。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;华盛顿地区：&lt;/strong&gt;Budget Inn Temple Hills ，10 月 2 日至 4 日，1,226.37 元。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;华盛顿里根机场：&lt;/strong&gt;10 月 4 日至 5 日，在机场过夜，0 元。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;波士顿：&lt;/strong&gt;HI Boston Hostel ，10 月 5 日至 6 日，471.48 元。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;首尔仁川机场：&lt;/strong&gt;10 月 7 日至 8 日，住宿费用 0 元。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;三、景点、通票及会员：2,801.27 元&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Go City 纽约通票：约 1,320.57 元。&lt;/li&gt;
+&lt;li&gt;美国博物馆联盟会员：约 670 元。&lt;/li&gt;
+&lt;li&gt;Go City 波士顿通票：约 502.84 元。&lt;/li&gt;
+&lt;li&gt;巴尔的摩国家水族馆：约 167.17 元。&lt;/li&gt;
+&lt;li&gt;巴尔的摩 Fort McHenry：约 100.50 元。&lt;/li&gt;
+&lt;li&gt;巴尔的摩 Washington Monument：现金 5 美元，约 33.50 元。&lt;/li&gt;
+&lt;li&gt;费城 Independence Hall 预约费：约 6.70 元。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;四、餐饮及便利店：1,170.37 元&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;麦当劳：约 23 笔，合计约 698.74 元。&lt;/li&gt;
+&lt;li&gt;Panda Express：约 142.58 元。&lt;/li&gt;
+&lt;li&gt;7-Eleven：约 103.18 元。&lt;/li&gt;
+&lt;li&gt;Burger King：约 57.89 元。&lt;/li&gt;
+&lt;li&gt;首尔 CU 、GS25 等便利店：约 39.33 元。&lt;/li&gt;
+&lt;li&gt;华盛顿可乐：现金 8 美元，约 53.60 元。&lt;/li&gt;
+&lt;li&gt;韩国脊骨汤：11,000 韩元，约 55 元。&lt;/li&gt;
+&lt;li&gt;首尔 10/7 晚便利店：4,010 韩元，约 20.05 元。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;五、市内交通：784.54 元&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;上海地铁前往浦东机场：25.20 元。&lt;/li&gt;
+&lt;li&gt;首尔气候同行卡两日券：约 40 元。&lt;/li&gt;
+&lt;li&gt;首尔机场地铁：约 32.50 元。&lt;/li&gt;
+&lt;li&gt;首尔机场往返云西站：3,600 韩元，约 18 元。&lt;/li&gt;
+&lt;li&gt;波士顿 MBTA：约 195.64 元。&lt;/li&gt;
+&lt;li&gt;纽约 MTA 地铁：合计 127.81 元。&lt;/li&gt;
+&lt;li&gt;纽约地区 Metro-North：约 88.78 元。&lt;/li&gt;
+&lt;li&gt;费城 SEPTA：约 58.29 元。&lt;/li&gt;
+&lt;li&gt;华盛顿地铁账单扣款：约 50.25 元。&lt;/li&gt;
+&lt;li&gt;巴尔的摩 CharmPass：约 44.22 元。&lt;/li&gt;
+&lt;li&gt;华盛顿地铁一日票：现金 15.50 美元，约 103.85 元。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;六、通信：132.18 元&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;美国电话卡：120.54 元。&lt;/li&gt;
+&lt;li&gt;韩国电话卡：11.64 元。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;七、行李寄存：84.02 元&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Stasher 行李寄存：约 50.52 元。&lt;/li&gt;
+&lt;li&gt;波士顿现金行李寄存：5 美元，约 33.50 元。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     <item>
       <title>大家多久没去电影院看电影了</title>
@@ -77,6 +318,25 @@ ui 方面希望给出更多的建议，争取赶上 mac 的体验！&lt;/p&gt;
 </description>
     </item>
     <item>
+      <title>绝了，碰到神人了！一大早给我奶头气堵了</title>
+      <link>https://www.v2ex.com/t/1247250</link>
+      <guid>v2ex-1247250</guid>
+      <pubDate>Fri, 09 Oct 2026 01:41:57 GMT</pubDate>
+      <description>&lt;p&gt;背景：我们小区有梯控，要刷卡才能上去，所以像京东顺丰一类的快递都是放在电梯里的。&lt;/p&gt;
+&lt;p&gt;前两天我的一个京东快递找不到了，昨晚就让管家查了一下监控，后面果然找到了，被另一个邻居给踢出去了。然后我就让管家联系一下那个邻居，为啥踢出去，管家回复说当成垃圾踢出去了。。。态度还很恶劣，说她以为里面是个空盒子就踢出去，不是她拿的，让报警，我一整个黑人问号，一、把垃圾从电梯里踢到一楼的电梯口，有什么意义吗？但凡她把垃圾扔到垃圾桶我都能理解。二、把别人的东西弄丢了还给她急上了，一般这种时候不应该想着给人赔偿吗。&lt;/p&gt;
+&lt;p&gt;因为里面就是个几块钱的东西，我跟管家说我不报警了，以后如果我碰到了她家的快递不小心踢出去的话，希望她多多包涵。并且让管家把这个话一定要转告她。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/bliFl8f.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/LFIOgup.png&quot;/&gt; &lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/MLUTjX5.png&quot;/&gt;
+&lt;a href=&quot;https://www.lnjubao.cn/minio-jbpt/upload/20261009/0df3122b1a84ab4d1e6509ddfbd675fa.mp4&quot; rel=&quot;nofollow&quot;&gt;https://www.lnjubao.cn/minio-jbpt/upload/20261009/0df3122b1a84ab4d1e6509ddfbd675fa.mp4&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>紧急情况，不应该一脚踩死么，还要点点刹？</title>
+      <link>https://www.v2ex.com/t/1247194</link>
+      <guid>v2ex-1247194</guid>
+      <pubDate>Thu, 08 Oct 2026 14:26:28 GMT</pubDate>
+      <description>以前遇到老司机总说我踩刹车，老是一脚踩死，这个习惯不好。应该踩一脚松一下再踩死，这样更安全&lt;br /&gt;&lt;br /&gt;今天网上又看到老司机争论说：高速踩刹车要点点再踩死，说这样既不会踩断刹车，也不打滑。&lt;br /&gt;&lt;br /&gt;能理解多次点刹肯定更不易损坏刹车，也更安全，问题是遇到紧急情况本能就一脚踩到底啊，再松一下不是又往前多冲出距离了么。&lt;br /&gt;&lt;br /&gt;再说，高速情况，踩&amp;gt;松&amp;gt;踩 那得多块的脚速啊，这™是老司机炫技，还是挖坑呢，有老铁说说真的能做到吗？</description>
+    </item>
+    <item>
       <title>你们用 AI 写代码，会每次都看它改了什么吗？</title>
       <link>https://www.v2ex.com/t/1247211</link>
       <guid>v2ex-1247211</guid>
@@ -84,19 +344,19 @@ ui 方面希望给出更多的建议，争取赶上 mac 的体验！&lt;/p&gt;
       <description>想问问大家，让 AI 改完代码以后，你们会逐行看 diff ，还是功能试一下没问题就提交？&lt;br /&gt;&lt;br /&gt;只改几行还好，一次改了十几个文件，看起来也挺费劲。但完全不看，又怕它顺手改了不该改的地方。&lt;br /&gt;&lt;br /&gt;你们一般怎么检查？有没有哪些部分是一定会自己看的？</description>
     </item>
     <item>
-      <title>今天的大 A 有 V 友赚钱吗</title>
-      <link>https://www.v2ex.com/t/1247058</link>
-      <guid>v2ex-1247058</guid>
-      <pubDate>Thu, 08 Oct 2026 07:06:42 GMT</pubDate>
-      <description>&lt;p&gt;如题，已经麻了， [投资请去正规市场] 含金量不断上升。。&lt;/p&gt;
+      <title>明年结婚订的酒店，昨天突然给我打电话说他们要配合区政府搞文旅不开店了，问我们愿不愿意挪到他们家另外一家店（不可办户外婚礼），但是我们一开始选中他们家原本的店就是看中他们家可以办户外婚礼的场地，求大家支招。</title>
+      <link>https://www.v2ex.com/t/1247264</link>
+      <guid>v2ex-1247264</guid>
+      <pubDate>Fri, 09 Oct 2026 02:18:09 GMT</pubDate>
+      <description>&lt;p&gt;基本信息：说 不办的这家店可以办户外婚礼，婚宴价格每桌在 2100 起，当时选这家店就两点一可以办户外；二每桌餐费价格不高。
+他们家的另外一家店，靠着湖，基本上每个包间都是可以看到湖景，办室内典礼，办室内典礼的地方不通透，不宽敞，这家店因为位置和景色比较好，所以价格比之前高（ 2300 还是 2400 起），昨晚我们谈的是，每桌婚宴价格带来的差价他们可以不收，婚庆场地费也不收，缺点就是不能办户外，对象一直想办一个户外婚礼，我对象看不上办室内典礼的地方，别说我对象，他们家办室内典礼的地方我都看不上。。。&lt;/p&gt;
+&lt;p&gt;另外一家可以办户外婚礼的地方，每桌婚宴价格 2699 起，可以办户外而且我跟我对象都一致认为这家酒店从位置到环境吊打上一家，而且他们家可以办户外婚礼的场地设计的很精妙。唯一的缺陷就是婚宴价格每桌比上一家酒店高出 600 ，但是这个酒店目前来看除了小贵一点其余真没什么太大的毛病。&lt;/p&gt;
+&lt;p&gt;纠结的点：&lt;/p&gt;
+&lt;p&gt;我觉得我们之前定的酒店这种突然的通知打乱了我们所有的计划，跟他们同价位差不多可以办户外婚礼的场地都被订出去了。我们也并不是太心仪他们如果不定他们家多出来的这些成本都需要我们自己来承担，我们觉得很憋屈。想问他们要点补偿。选他们价格上是好说了，但是我又感觉委屈我对象。&lt;/p&gt;
+&lt;p&gt;他们说是区政府要回收地，但是至今我们也没有看到什么实质性的红头书面文件，他们只说现在只是先给透口风正式的文件要等到 11 月中旬。我们明年结婚的日子是大日子，我们也不敢耗，害怕跟他们耗我们之前看上的那个稍贵的酒店被定出去，然后又害怕红头文件一下来这确实也属于不可抗力因素现在谈的一些优惠都没了。&lt;/p&gt;
+&lt;p&gt;结过婚或者正在备婚的兄弟 应该都知道 如果是大日子的话 这种酒店 和四大金刚有多难订 基本都是提前一年或者一年半都会物色好。&lt;/p&gt;
+&lt;p&gt;求各位 v 友支招或给建议。&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>想问下 V 站上的各位非程序员朋友，你们开 AI 会员一般选择哪家？</title>
-      <link>https://www.v2ex.com/t/1247251</link>
-      <guid>v2ex-1247251</guid>
-      <pubDate>Fri, 09 Oct 2026 01:48:23 GMT</pubDate>
-      <description>众所周知，V 站程序员占比 99.99%，那剩下 1%的非程序员朋友们，你们需要用 AI 的一般开啥会员啊？ chagpt go/plus/pro ？ Gemini plus/pro ？还是随时被封号的 Claude ？</description>
     </item>
   </channel>
 </rss>
