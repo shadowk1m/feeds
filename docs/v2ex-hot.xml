@@ -4,24 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 11 Oct 2026 09:05:50 GMT</lastBuildDate>
-    <item>
-      <title>发工资了今晚干一票大的，我准备直接用招行卡开 5 倍 max</title>
-      <link>https://www.v2ex.com/t/1247676</link>
-      <guid>v2ex-1247676</guid>
-      <pubDate>Sat, 10 Oct 2026 09:06:43 GMT</pubDate>
-      <description>&lt;p&gt;我看 claude 官网能选 china 地址了，我准备直接选我的居住地天津的地址，然后我看来一下 max 的费用是 3,047.62 台币 折合人人民币也就是不到 650 而且换算成美元也是 95 美金，如果能开出来那岂不是血赚了。&lt;/p&gt;
-&lt;p&gt;刚才在工位试了一下，触发活体验证了，我扫描了我的身份证，好像不行，说要 passport ，我一下下班就回去那护照去，tmd 等我好消息&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>AI 时代为什么硬件工程师反而不焦虑</title>
-      <link>https://www.v2ex.com/t/1247677</link>
-      <guid>v2ex-1247677</guid>
-      <pubDate>Sat, 10 Oct 2026 09:08:06 GMT</pubDate>
-      <description>&lt;p&gt;各个论坛都是讨论 IT 行业何去何从，反而很少看到硬件工程师吐槽的，有 V 友是硬件工程师，能谈下吗&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 15:50:10 GMT</lastBuildDate>
     <item>
       <title>内存越来越贵会不会拉高 Linux 的装机率？</title>
       <link>https://www.v2ex.com/t/1247772</link>
@@ -39,14 +22,11 @@
 </description>
     </item>
     <item>
-      <title>Google Play 开通 Claude Pro，搭配大陆护照 KYC，安全上车中...</title>
-      <link>https://www.v2ex.com/t/1247761</link>
-      <guid>v2ex-1247761</guid>
-      <pubDate>Sun, 11 Oct 2026 01:06:47 GMT</pubDate>
-      <description>&lt;p&gt;昨天使用 google play 开了一个 claude pro 的新号（原动态： &lt;a href=&quot;https://x.com/licoycn/status/2108784475241062521&quot; rel=&quot;nofollow&quot;&gt;https://x.com/licoycn/status/2108784475241062521&lt;/a&gt; ），然后一订阅就让我要验证身份，当时就想放弃了，但是转头一想要不试试，反正一百多，然后使用大陆护照进行了身份验证，秒通过。&lt;/p&gt;
-&lt;p&gt;然后再去 claude 中点击订阅，这个时候已经订阅过了，就会直接成功，然后身份验证也过了，就可以直接用了，然后挂上了 CPA ，一直到今天都是稳稳的，目前已经用了周额度 26%了&lt;/p&gt;
-&lt;p&gt;现在是 2 个 claude pro 在 cpa 上轮询，反正没啥问题，看看后续吧，存活记录也会一直更新到 X 。&lt;/p&gt;
-</description>
+      <title>3 个月用了 287 亿的 token。。。</title>
+      <link>https://www.v2ex.com/t/1247820</link>
+      <guid>v2ex-1247820</guid>
+      <pubDate>Sun, 11 Oct 2026 07:43:33 GMT</pubDate>
+      <description>下了个统计 token 的软件，一看用了 287 亿个 token ，发现这订阅真让我用回本了&lt;br /&gt;&lt;br /&gt;我自己是 claude+gpt 200 美元双持&lt;br /&gt;&lt;br /&gt;不过用 claude 更多一些&lt;br /&gt;&lt;br /&gt;claude 给的量真是太大了</description>
     </item>
     <item>
       <title>中文版讨论，哪些童书能让孩子爱上阅读？</title>
@@ -58,11 +38,87 @@
 </description>
     </item>
     <item>
-      <title>[免费赠] NasV：直接刷 NAS 里的照片和视频，整个文件夹递归扫一遍，不用一层层点</title>
-      <link>https://www.v2ex.com/t/1247734</link>
-      <guid>v2ex-1247734</guid>
-      <pubDate>Sat, 10 Oct 2026 15:22:59 GMT</pubDate>
-      <description>家里 NAS 里存了好几年的照片和家庭录像，之前想在 iPad 或电视上看，基本都是用 Infuse 、VLC 或者 NAS 自带的 App 。这些播放器拿来看电影很好用，但翻「自己拍的东西」挺别扭的：照片和视频分在几十个子文件夹里，得一层层进去点，看完一个还得退出来再找下一个。&lt;br /&gt;&lt;br /&gt;所以我做了 NasV ，只解决这一件事：把 NAS 里自己的照片和视频接进来，像刷相册一样连着往下刷。&lt;br /&gt;&lt;br /&gt;跟常见播放器不一样的地方&lt;br /&gt;&lt;br /&gt;递归扫描： 选一个根目录，下面所有子文件夹里的照片和视频一次扫出来，放在一起刷，不用一层层点进去。&lt;br /&gt;照片和视频混着看： 不是只能播视频，照片和视频在同一个流里，适合看旅行、孩子成长这类素材。&lt;br /&gt;连续幻灯： 设好就自动往下放，Apple TV 上一家人坐着看就行。&lt;br /&gt;来源自己配：SMB （群晖、极空间、Windows 共享）、WebDAV 、本机相册和本地文件都能接。App 不提供任何片源，也不刮削海报，就是看你自己的东西。&lt;br /&gt;多端：iPhone 、iPad 、Apple TV 都能用，Mac 兼容运行。&lt;br /&gt;免费能做什么&lt;br /&gt;&lt;br /&gt;单个文件随便播，没有时间限制，可以先试试能不能顺利连上你的 NAS 。递归扫描、连续幻灯和离线下载在 Pro 里。&lt;br /&gt;&lt;br /&gt;目前还不够好的地方还很多，比如播放引擎和解码问题&lt;br /&gt;还是个人开发，肯定有很多没想到的地方。欢迎直接在帖子里直接说或者提需求，我会一条条看，能改的尽快改。&lt;br /&gt;&lt;br /&gt;送码&lt;br /&gt;&lt;br /&gt;先送一批 Pro 兑换码，一个月、一年和永久的都有，没有按顺序排，先到先得：&lt;br /&gt;&lt;br /&gt; [一个月兑换链接 × N ] &lt;br /&gt; [一年兑换链接 × N ] &lt;br /&gt; [永久兑换链接 × N ] &lt;br /&gt;&lt;br /&gt;另外： 只要在帖子里提了有用的意见或 bug 反馈（说清楚是什么设备、什么 NAS 、遇到了什么问题），我就送一个永久解锁码，回复里留个邮箱就行。&lt;br /&gt;&lt;br /&gt;App Store：NasV &lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/cn/app/id6812900357&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/cn/app/id6812900357&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=PYJNXENX6M4K4HNMR6&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=PYJNXENX6M4K4HNMR6&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=ATAAALWKPFWR7FXPNN&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=ATAAALWKPFWR7FXPNN&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=M8LALA7LFNLJPML4LY&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=M8LALA7LFNLJPML4LY&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=RFFMTANWRE83X7YN4K&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=RFFMTANWRE83X7YN4K&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=T7XXN464HMYNKW33XA&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=T7XXN464HMYNKW33XA&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=44KMHKNTJHXKRF3KT6&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=44KMHKNTJHXKRF3KT6&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=6WKYJTXPHT3RR78AT8&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=6WKYJTXPHT3RR78AT8&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=MRPJ3E44YRAXMEJXEL&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=MRPJ3E44YRAXMEJXEL&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=NYXRFFR8KN4FXHNHJ3&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=NYXRFFR8KN4FXHNHJ3&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=JEL3AX8JT7MERNKYM6&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=JEL3AX8JT7MERNKYM6&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=K4LRYYX63W367FPT36&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=K4LRYYX63W367FPT36&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=T44X6RH7AF3EH8TA6J&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=T44X6RH7AF3EH8TA6J&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=PR76PLAH3JYXE6XK78&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=PR76PLAH3JYXE6XK78&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=JMWN4H373NFF3EJ4MY&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=JMWN4H373NFF3EJ4MY&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=8K4TP88XT8HKMMM88K&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=8K4TP88XT8HKMMM88K&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=ANXTKFLMTT4A3LWWFL&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=ANXTKFLMTT4A3LWWFL&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=R6JKNTM37746HMTTEK&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=R6JKNTM37746HMTTEK&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=LHPRPEFKT34TYYKKWE&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=LHPRPEFKT34TYYKKWE&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=MA3JPMK7ETP4R6KX4Y&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=MA3JPMK7ETP4R6KX4Y&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=E3NKYH8WF467J7PX3H&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=E3NKYH8WF467J7PX3H&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=6L4NEWJKKET83LR3T6&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=6L4NEWJKKET83LR3T6&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=T3HELKHXMLJNWREFRX&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=T3HELKHXMLJNWREFRX&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=XJNWMJ74883XXX6A4L&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=XJNWMJ74883XXX6A4L&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=J7XPMXTHYLAWY8TL4T&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=J7XPMXTHYLAWY8TL4T&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=L3T8PHAF7EKNPNF8A4&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=L3T8PHAF7EKNPNF8A4&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=MLLL6K478LFH6YTAXF&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=MLLL6K478LFH6YTAXF&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=N3K7XHNLXM3W4KMK4T&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=N3K7XHNLXM3W4KMK4T&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=JTHX8HE4PHXJAMRL4K&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=JTHX8HE4PHXJAMRL4K&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=HNXATJE6JKYW8X87AM&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=HNXATJE6JKYW8X87AM&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=TXAKJ8ALNNLYHARM7W&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=TXAKJ8ALNNLYHARM7W&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=T7L648TTJPRXMTE4PX&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=T7L648TTJPRXMTE4PX&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=TK7EFAAHKWAFY6RE8P&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=TK7EFAAHKWAFY6RE8P&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=8APY67XKRHPFFLNP7X&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=8APY67XKRHPFFLNP7X&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=F3KYLXW8MKLWYHLFKJ&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=F3KYLXW8MKLWYHLFKJ&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=WPPHAT46XT4TP87HEE&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=WPPHAT46XT4TP87HEE&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=NETLYMKPNPP3XPTE4X&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=NETLYMKPNPP3XPTE4X&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=NPNF8JKRFTLYNM4RFF&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=NPNF8JKRFTLYNM4RFF&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=7JWEY8A7YH44KRNKNF&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=7JWEY8A7YH44KRNKNF&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=NP48TR6PPHYLEA78HW&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=NP48TR6PPHYLEA78HW&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=FM87YA63Y68AXTFHFR&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=FM87YA63Y68AXTFHFR&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=WK8KK7KRX88ML4T7RX&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=WK8KK7KRX88ML4T7RX&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=M4EJXJHTWPJ76A6LJJ&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=M4EJXJHTWPJ76A6LJJ&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=W4HYK46EYW7WFJM3PE&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=W4HYK46EYW7WFJM3PE&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=EFKMAM4PAA4AMXR6ET&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=EFKMAM4PAA4AMXR6ET&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=KNPK4WFMHFFF3XEELP&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=KNPK4WFMHFFF3XEELP&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=L8T44A4K7333EYFF8H&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=L8T44A4K7333EYFF8H&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=F7AEPFK877W8RKAKFT&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=F7AEPFK877W8RKAKFT&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=RHPA4AAXMTTEJ3FXPE&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=RHPA4AAXMTTEJ3FXPE&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=NXRET8PRFAT47A4YK8&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=NXRET8PRFAT47A4YK8&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=HM7HANNEM7H67AA3E3&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=HM7HANNEM7H67AA3E3&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=JW6A87WJF6XXFRTK36&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=JW6A87WJF6XXFRTK36&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=N3NPJ3JP6A6TMAJN8H&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=N3NPJ3JP6A6TMAJN8H&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=HKM6MLNR8TFKLHL47H&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=HKM6MLNR8TFKLHL47H&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=L6ERXWMRNA7MAJJ7JR&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=L6ERXWMRNA7MAJJ7JR&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=H7JLK3NKLJLK38AL3W&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=H7JLK3NKLJLK38AL3W&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=8RWEHEFM8J8PX64668&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=8RWEHEFM8J8PX64668&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=73E3LEFPWXNYAJLKMM&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=73E3LEFPWXNYAJLKMM&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=PJ3XNMYWFHJA77MPJW&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=PJ3XNMYWFHJA77MPJW&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=LNR7JYAHW668HJY4YP&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=LNR7JYAHW668HJY4YP&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=3LWNPH37J7NN6YKMLJ&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=3LWNPH37J7NN6YKMLJ&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=EJTYYY6MT3ATTXTXET&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=EJTYYY6MT3ATTXTXET&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=MLXRJXYXRLK7HWRHKF&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=MLXRJXYXRLK7HWRHKF&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=TK6AETALPAXANJP4AN&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=TK6AETALPAXANJP4AN&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=E4EJRLETPMNRJEK4KH&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=E4EJRLETPMNRJEK4KH&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=FWY6YFMLKAARH44YYE&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=FWY6YFMLKAARH44YYE&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=PELTLJTW6KWJYXJFTM&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=PELTLJTW6KWJYXJFTM&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=AEJRE7RP8NN34RKNF7&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=AEJRE7RP8NN34RKNF7&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=787HWRHRAAP44YR4M7&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=787HWRHRAAP44YR4M7&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=36XLNKHTA83K48NKA3&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=36XLNKHTA83K48NKA3&lt;/a&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=8L3NA4ARXNXNMAR74M&quot; rel=&quot;nofollow noopener&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6812900357&amp;amp;code=8L3NA4ARXNXNMAR74M&lt;/a&gt;</description>
+      <title>Google Play 开通 Claude Pro，搭配大陆护照 KYC，安全上车中...</title>
+      <link>https://www.v2ex.com/t/1247761</link>
+      <guid>v2ex-1247761</guid>
+      <pubDate>Sun, 11 Oct 2026 01:06:47 GMT</pubDate>
+      <description>&lt;p&gt;昨天使用 google play 开了一个 claude pro 的新号（原动态： &lt;a href=&quot;https://x.com/licoycn/status/2108784475241062521&quot; rel=&quot;nofollow&quot;&gt;https://x.com/licoycn/status/2108784475241062521&lt;/a&gt; ），然后一订阅就让我要验证身份，当时就想放弃了，但是转头一想要不试试，反正一百多，然后使用大陆护照进行了身份验证，秒通过。&lt;/p&gt;
+&lt;p&gt;然后再去 claude 中点击订阅，这个时候已经订阅过了，就会直接成功，然后身份验证也过了，就可以直接用了，然后挂上了 CPA ，一直到今天都是稳稳的，目前已经用了周额度 26%了&lt;/p&gt;
+&lt;p&gt;现在是 2 个 claude pro 在 cpa 上轮询，反正没啥问题，看看后续吧，存活记录也会一直更新到 X 。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>相亲贴-找对象自救</title>
+      <link>https://www.v2ex.com/t/1247811</link>
+      <guid>v2ex-1247811</guid>
+      <pubDate>Sun, 11 Oct 2026 06:26:06 GMT</pubDate>
+      <description>&lt;h3&gt;背景&lt;/h3&gt;
+&lt;p&gt;大学毕业两年了，家里也开始催找对象，找人介绍两个，都是高中的漏网之鱼，不是嫌弃学历低，是接触一段时间都不合适，就不了了之了，自己圈子小，也接触不到异性，也在尝试扩大社交圈&lt;/p&gt;
+&lt;h3&gt;感叹&lt;/h3&gt;
+&lt;p&gt;在大学最应该找对象的时候忙着学习和学编程，回头来看就是瞎胡忙，反正自我感觉没有闲着，当时挺羡慕有对象的人的，但是为了学业也对此事较为无感，当时的状态就像写的接口没有对外暴露，谁来也调不通，简单来说就是不主动接触异性，当然我这条件也基本上不会有异性主动的接触我，哈哈哈&lt;/p&gt;
+&lt;p&gt;考研也没考上，回头来看，不见得是件坏事~  &lt;/p&gt;
+&lt;p&gt;导致现在这种情况，但是我不后悔，只是有点遗憾。  &lt;/p&gt;
+&lt;p&gt;较为在意父母的感受，以及发小大部分都结婚了，不得不自救啦！&lt;/p&gt;
+&lt;h3&gt;个人情况（自救）&lt;/h3&gt;
+&lt;p&gt;年龄：01 年&lt;br/&gt;
+身高：165cm&lt;br/&gt;
+体重：70kg （腱子肉）&lt;br/&gt;
+长相：普通，照片就不贴了（可交换），颜控的就不要来了，身材看着偏壮，也在减脂，穿搭有品在学习&lt;br/&gt;
+性格：自我感觉是个搞笑男，反复观看星爷电影，也看网上的搞笑段子，能融入生活中&lt;br/&gt;
+学历：本科&lt;br/&gt;
+职业：程序员，目前工作地在上海浦东新区&lt;br/&gt;
+年薪：10W~20W&lt;br/&gt;
+老家：河南周口&lt;br/&gt;
+家庭：父母健康，家庭和睦，有房（老家有一套新盖的别墅，已装修好，县城有一套房，沈阳有房子），有车(暂未开到上海)，有个小妹在上大学&lt;br/&gt;
+日常：自己做饭；每周都跑步和健身；偶尔看动漫；没事也喜欢去人多的地方逛逛；旅行；不熬夜作息规律；游戏也玩（没天分，哈哈哈）  &lt;/p&gt;
+&lt;p&gt;主业在努力啦，自救也开始啦，从此以后开始两条腿走路啦！&lt;br/&gt;
+我的 v：c2h1YWlfY29kaW5n&lt;br/&gt;
+Base64 解码一下就可以，附上介绍或者来意哈，使用的小 v 见谅&lt;/p&gt;
+&lt;h3&gt;期望对象&lt;/h3&gt;
+&lt;p&gt;身高 155+，河南内的或者在上海上班的都可以，学历专科以上，年龄 05~99 的吧&lt;/p&gt;
+&lt;p&gt;随缘贴~~~&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>发现了新的泡水好喝的东西</title>
+      <link>https://www.v2ex.com/t/1247774</link>
+      <guid>v2ex-1247774</guid>
+      <pubDate>Sun, 11 Oct 2026 02:37:51 GMT</pubDate>
+      <description>&lt;p&gt;甜叶菊，pdd3 块钱两小瓶，一杯水放 1-2 个叶子就好了，比罗汉果便宜，好泡，喝起来甜甜的，有回甘。&lt;/p&gt;
+&lt;p&gt;比罗汉果好，罗汉果一方面是略微贵一点，便宜的容易买到质量差的，另外一个是不好泡，需要掰开+热水才好泡出味道。&lt;/p&gt;
+&lt;p&gt;甜叶菊这个直接放杯子一两片就能泡好。
+甜叶菊叶子泡水喝起来我觉得比白砂糖水清爽很多，喝完嘴里是甜的，杯子闻着有植物的香气。打算买点种子放阳台种~&lt;/p&gt;
+&lt;p&gt;pdd 推送之后，我才了解到这个植物，顺便了解了一下几种代糖，并下单了一包 100g 的甜菊糖苷试试看提取出来的甜菊糖苷跟叶子泡出来的味道有没有区别。&lt;/p&gt;
+&lt;p&gt;三氯蔗糖: 600 倍甜度(以白砂糖甜度为基准)&lt;/p&gt;
+&lt;p&gt;甜菊糖苷: 200-300 倍&lt;/p&gt;
+&lt;p&gt;罗汉果甜苷: 100-300 倍&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>求助，为什么新申请的招行 visa 信用卡死活绑不了 google play 的支付</title>
+      <link>https://www.v2ex.com/t/1247797</link>
+      <guid>v2ex-1247797</guid>
+      <pubDate>Sun, 11 Oct 2026 04:43:47 GMT</pubDate>
+      <description>&lt;p&gt;填的内容都没问题，节点也都试过了，手机上也试过，就是过不了。
+&lt;img alt=&quot;替代文本&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/q1rFbKh.png&quot; title=&quot;11&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>麦当劳现在越来越贵了</title>
+      <link>https://www.v2ex.com/t/1247855</link>
+      <guid>v2ex-1247855</guid>
+      <pubDate>Sun, 11 Oct 2026 11:22:35 GMT</pubDate>
+      <description>&lt;p&gt;我常吃的不素之霸去年咸鱼基本 28 左右，今年上半年变 32 ，夏天时是 34 ，现在又变成 35 了，真的吃不起了，小城市又没有汉堡王的平替，肯德基又难吃，只好告别汉堡了&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>codex 下午 15:00~16:00 重置？</title>
+      <link>https://www.v2ex.com/t/1247751</link>
+      <guid>v2ex-1247751</guid>
+      <pubDate>Sat, 10 Oct 2026 22:38:54 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Aq4xVN7.png&quot;/&gt;
+EOD == end of day?&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>我认为应用开发包括前端正在迎来最好的时代</title>
@@ -88,24 +144,6 @@
 &lt;p&gt;相信未来的需求和产品开发架构会迎来新的变化（不仅是普通程序员，设计师\产品经理也会彻底洗牌）&lt;/p&gt;
 &lt;p&gt;人打字所以文字比较零散&lt;/p&gt;
 &lt;p&gt;但完全反对在最有希望的时代失去希望的观点。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>求助，为什么新申请的招行 visa 信用卡死活绑不了 google play 的支付</title>
-      <link>https://www.v2ex.com/t/1247797</link>
-      <guid>v2ex-1247797</guid>
-      <pubDate>Sun, 11 Oct 2026 04:43:47 GMT</pubDate>
-      <description>&lt;p&gt;填的内容都没问题，节点也都试过了，手机上也试过，就是过不了。
-&lt;img alt=&quot;替代文本&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/q1rFbKh.png&quot; title=&quot;11&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>codex 下午 15:00~16:00 重置？</title>
-      <link>https://www.v2ex.com/t/1247751</link>
-      <guid>v2ex-1247751</guid>
-      <pubDate>Sat, 10 Oct 2026 22:38:54 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Aq4xVN7.png&quot;/&gt;
-EOD == end of day?&lt;/p&gt;
 </description>
     </item>
   </channel>
