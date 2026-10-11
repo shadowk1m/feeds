@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:50:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 19:47:19 GMT</lastBuildDate>
     <item>
       <title>内存越来越贵会不会拉高 Linux 的装机率？</title>
       <link>https://www.v2ex.com/t/1247772</link>
@@ -80,6 +80,35 @@ Base64 解码一下就可以，附上介绍或者来意哈，使用的小 v 见�
 </description>
     </item>
     <item>
+      <title>[开源] 好看，更好用的音乐播放器 NonsPlayer</title>
+      <link>https://www.v2ex.com/t/1247825</link>
+      <guid>v2ex-1247825</guid>
+      <pubDate>Sun, 11 Oct 2026 08:05:51 GMT</pubDate>
+      <description>&lt;h1&gt;预览&lt;/h1&gt;
+&lt;img alt=&quot;pasted-image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.cdn1.vip/i/6acb4124217df_1791705380.webp&quot;/&gt;
+&lt;img alt=&quot;pasted-image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.cdn1.vip/i/6acb412cbbf08_1791705388.webp&quot;/&gt;
+&lt;h2&gt;简介&lt;/h2&gt;
+&lt;p&gt;时隔 3 年，Nons 终于做完了！从 WPF ，到 WinUi3 ，最后痛定思痛决定采用 Tauri 推倒重写……总之，NonsPlayer 终于做完了！&lt;/p&gt;
+&lt;p&gt;来说说特点！&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;多音源适配器，没错，终于可以把种平台塞进去了！&lt;/li&gt;
+&lt;li&gt;完善的插件系统。通过 WebAssembly 技术，我们可以把任何想要的东西都放进 NonsPlayer 里！&lt;/li&gt;
+&lt;li&gt;比较好的用户交互设计。我从个人需求和使用习惯出发，把 NonsPlayer 设计成一个&lt;strong&gt;真正的日常工具&lt;/strong&gt;，而不是一个玩具。&lt;/li&gt;
+&lt;li&gt;低占用。虽然 WebView 的占用依然不可忽视，但是在后台运行时 NonsPlayer 会&lt;strong&gt;主动销毁 WebView 进程，整个程序占用可以达到 10-20MB&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;没什么特殊的花里胡哨的功能，反正就是专门用来听歌的，只要把听歌这件事做好不就够了吗！&lt;/p&gt;
+&lt;p&gt;欢迎大家试用！仓库： &lt;a href=&quot;https://github.com/Miaoyww/Nons&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Miaoyww/Nons&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>麦当劳现在越来越贵了</title>
+      <link>https://www.v2ex.com/t/1247855</link>
+      <guid>v2ex-1247855</guid>
+      <pubDate>Sun, 11 Oct 2026 11:22:35 GMT</pubDate>
+      <description>&lt;p&gt;我常吃的不素之霸去年咸鱼基本 28 左右，今年上半年变 32 ，夏天时是 34 ，现在又变成 35 了，真的吃不起了，小城市又没有汉堡王的平替，肯德基又难吃，只好告别汉堡了&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>发现了新的泡水好喝的东西</title>
       <link>https://www.v2ex.com/t/1247774</link>
       <guid>v2ex-1247774</guid>
@@ -101,23 +130,6 @@ Base64 解码一下就可以，附上介绍或者来意哈，使用的小 v 见�
       <pubDate>Sun, 11 Oct 2026 04:43:47 GMT</pubDate>
       <description>&lt;p&gt;填的内容都没问题，节点也都试过了，手机上也试过，就是过不了。
 &lt;img alt=&quot;替代文本&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/q1rFbKh.png&quot; title=&quot;11&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>麦当劳现在越来越贵了</title>
-      <link>https://www.v2ex.com/t/1247855</link>
-      <guid>v2ex-1247855</guid>
-      <pubDate>Sun, 11 Oct 2026 11:22:35 GMT</pubDate>
-      <description>&lt;p&gt;我常吃的不素之霸去年咸鱼基本 28 左右，今年上半年变 32 ，夏天时是 34 ，现在又变成 35 了，真的吃不起了，小城市又没有汉堡王的平替，肯德基又难吃，只好告别汉堡了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>codex 下午 15:00~16:00 重置？</title>
-      <link>https://www.v2ex.com/t/1247751</link>
-      <guid>v2ex-1247751</guid>
-      <pubDate>Sat, 10 Oct 2026 22:38:54 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Aq4xVN7.png&quot;/&gt;
-EOD == end of day?&lt;/p&gt;
 </description>
     </item>
     <item>
