@@ -4,17 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 13 Oct 2026 21:37:50 GMT</lastBuildDate>
-    <item>
-      <title>广州欢迎你</title>
-      <link>https://www.v2ex.com/t/1248258</link>
-      <guid>v2ex-1248258</guid>
-      <pubDate>Tue, 13 Oct 2026 00:29:12 GMT</pubDate>
-      <description>&lt;p&gt;欢迎来广州旅游，哈哈哈&lt;/p&gt;
-&lt;p&gt;旅游地址：
-&lt;a href=&quot;https://522e7c37.pinme.dev/&quot; rel=&quot;nofollow&quot;&gt;https://522e7c37.pinme.dev/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 00:43:19 GMT</lastBuildDate>
     <item>
       <title>关于长辈抽烟的问题，有好的解决办法么？</title>
       <link>https://www.v2ex.com/t/1248405</link>
@@ -89,13 +79,6 @@
 </description>
     </item>
     <item>
-      <title>现在 AI 是不是逐渐能取代很多高水平程序员了</title>
-      <link>https://www.v2ex.com/t/1248259</link>
-      <guid>v2ex-1248259</guid>
-      <pubDate>Tue, 13 Oct 2026 00:35:14 GMT</pubDate>
-      <description>一句话，codex 帮我把光追加入到了我正在开发的游戏引擎中，感觉我已经不用干啥了。&lt;br /&gt;这在以前好像是很难想象的。&lt;br /&gt;&lt;br /&gt;目标是给 vulkan 渲染器加上光追，但一次就写对，并完美整合到现有代码中，这种能力其实已经说明了 AI 对很多代码的理解度不再比人类差了。下面是我发的视频，大伙可以看下效果：&lt;br /&gt;&lt;br /&gt; [我只说了“要有光”，codex 就帮我加好了光追]  &lt;a target=&quot;_blank&quot; href=&quot;https://www.bilibili.com/video/BV1sHpX6EEci/?share_source=copy_web&amp;amp;vd_source=dc379818946312063729495537a1e411&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.bilibili.com/video/BV1sHpX6EEci/?share_source=copy_web&amp;amp;vd_source=dc379818946312063729495537a1e411&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;P.S 我正在设计适合 AI 开发游戏的游戏引擎，项目已开源 &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/EVEngine/EVEngine&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/EVEngine/EVEngine&lt;/a&gt;&lt;br /&gt;C++20 + Vulkan + Webgpu 实现，类型 love2d 风格，但功能更强大，喜欢的朋友多多支持。</description>
-    </item>
-    <item>
       <title>Claude 很好开啊</title>
       <link>https://www.v2ex.com/t/1248324</link>
       <guid>v2ex-1248324</guid>
@@ -108,59 +91,67 @@
 </description>
     </item>
     <item>
-      <title>避坑恒洁卫浴，前所未见的售后体验</title>
-      <link>https://www.v2ex.com/t/1248260</link>
-      <guid>v2ex-1248260</guid>
-      <pubDate>Tue, 13 Oct 2026 00:36:50 GMT</pubDate>
-      <description>&lt;p&gt;大致描述下背景：房子 20 年中装修，基本上所有家电都经过一轮维修或坑，西门子冰箱（过保维修过，费用小几百，损失部分冻品），美的洗烘套装（大坑+1 ，开始以为是 10 年保，实际是核心部件 10 年保，但是产品可能的设计问题，过保后每年修一次减震器，已经持续三年），抽油烟机燃气灶（记得有付费维修过，忘记详情了），洗碗机（偶尔小范围漏水）。&lt;/p&gt;
-&lt;p&gt;全套京东购买。&lt;/p&gt;
-&lt;p&gt;叠上面这个背景的含义大概是，不是不能接受付费维修，就算是坑几年的美的洗烘套装售后也基本接受了，这三年每年付费维修一次。&lt;/p&gt;
-&lt;p&gt;为啥觉得美的虽然产品有问题，售后后还能接受这家？原因是&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;第二次复现也就是第二次维修时因为是第一次向网点反馈去年出现过同样情况，网点反馈可以做部分减免，但是好像第二次维修没有做减免，因为修完师傅让我付钱后我就没管后续了。&lt;/li&gt;
-&lt;li&gt;第三次维修时，跟师傅聊天时忍不住吐槽洗衣机买成了年费产品（因为洗烘套装还有个烘干机的拆装费，所以每次的费用是上门费+拆装费+零件），师傅主动做了部分减免。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;也就是，虽然产品有问题，但是售后，它真的让人感觉属实是跟真实的人在沟通。这种情况下，如果我下次买洗衣机，我可能会买延保，可能会挑型号，但这家我觉得再次购买问题不大。&lt;/p&gt;
-&lt;p&gt;但是恒洁马桶，它家真的是很特别的那种。&lt;/p&gt;
-&lt;p&gt;马桶价格 2200 左右。&lt;/p&gt;
-&lt;p&gt;时间线如下：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;6 月过保；&lt;/li&gt;
-&lt;li&gt;8 月底第一次联系客服&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;上门前先视频诊断，然后先付配件费，并且配件顺丰到付。最开始质疑过为什么是这种流程，因为一般正常都是维修师傅自带配件上门，而且配件邮寄意味着两天+的等待时间。然后反馈它家售后都是这个流程，京东随便吐槽几句厂商客服反馈会向上反映，但它家这么说只能这样，那要修也只能接受了。配件费 320+上门费 100 。&lt;/p&gt;
-&lt;p&gt;第一次维修时，还跟师傅聊天说，虽然是付费维修，但 400 多修一下又能用好久还是值得的，当时师傅回了句那也不一定，此时我还没明白是什么含义，后来我才知道为啥这么说。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;9 月底第二次联系客服&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;临近国庆时，有一次突然出现滴滴声，然后马桶彻底罢工，因为唯一的物理按键是电控的，并且遥控器也无响应。有了第一次流程后，虽然还是需要快递但是也上道了，知道它家就是这么个情况。&lt;/p&gt;
-&lt;p&gt;第一次上门：这次是另一个师傅维修。然后又是 3 天的等待+上门，结果师傅维修后告知，还有一个零件坏了需要换，先修理到了能冲水的状态。那个坏掉的零件让我明白了为什么 8 月份维修时维修师傅说的话，已经完全锈蚀了。这次维修时师傅还吐槽，前一个人维修时有点坑，xx 东西留的线很短，当然咱也不懂。此时上门费+配件费，200+。&lt;/p&gt;
-&lt;p&gt;第二次上门：然后又是 2 天+的等待，当然又订购了这个锈蚀的零件。师傅过来换上，结果发现还有其他问题。这次要再订购 400+的配件。&lt;/p&gt;
-&lt;p&gt;都是算术天才的 V2 大佬们很容易算出来，如果加上这个 400+，差不多一个月左右，维修费 1000+。&lt;/p&gt;
-&lt;p&gt;第二次上门后，因为上门时我不在家，后来售后点打电话向我确认是否需要订购配件，当然我很难接受过保三个月维修费直接突破商品一半左右的价格，于是电话中我明确不接受+会投诉。当时售后点并不关心我会不会投诉，只是圈话的表示非常理解您的心情+向您确认是否订购，于是结束沟通。&lt;/p&gt;
-&lt;p&gt;2020 年，京东的售后神话应还未破灭，大家在京东买东西，相信都是存有希望京东能兜底售后的想法。其实体感京东最近几年售后已大不如前，在京东的朋友也说客服岗走了很多，但还是先沟通了下，京东 plus 线上客服先表示可以补偿 200 块，我拒绝了，请客服升级专员，表示我期待的解决方案是：厂商退我 600+已付的维修费，马桶我不要了（这种方案当然厂商不太可能接受）；后续维修要求帮我修好，我不再掏钱了。&lt;/p&gt;
-&lt;p&gt;备注：让 ChatGPT Computer Use 帮我做的与京东客服沟通，因为近几年，京东客服售后给我的体验，大多都是非常理解但无能为力，交流基本像机器人。我给 ChatGPT 下的指令是，先帮我沟通，看能否解决，同时准备材料 12315 。ChatGPT 帮我与京东的沟通，做到了升级专员处理后停止。&lt;/p&gt;
-&lt;p&gt;然后 ChatGPT 帮我额外做了一些沟通。。与恒洁京东厂商客服，因为指令是准备 12315 材料投诉，ChatGPT 认为需要厂商提供收款方等信息。后来看对话记录，感觉这家基本上没救了，因为对方回复有几次向主管反馈，向上反映等，但是这家从来没有联系过我，从来只有单向联系，我从未获得过任何对方主动给我的反馈，只有对于我问题的部分回答，要的确切的收款点也并未要到。实际上我也并不知道我到底有没有投诉过维修网点，因为我当时只是电话中跟本地维修网点的人表示我会投诉+ChatGPT 帮助我向京东厂商客服要一些资料，我并不太确定是否有触发厂商的投诉，而京东的厂商客服实际上并未起到任何作用，我都不知道对方是否存在内部沟通。&lt;/p&gt;
-&lt;p&gt;升级专员后的京东专员小姐姐，在与她沟通我遇到的情况后，对方表示可以帮我去与售后厂商沟通能否做一定的费用减免，会在第二天结束前反馈我答复。&lt;/p&gt;
-&lt;p&gt;第二天下午，专员小姐姐回电，与厂商经理沟通大半天，对方未同意减免。专员小姐姐在京东内部与负责业务线的责任方沟通，可以补偿 500 块钱，但是这是他们能争取到的最大的帮助了，我可以自决如何处理马桶，但后续有问题就不会有更多补偿了。我同意了，实际上我自己要求的能把 400+的费用处理掉就可以了，京东已经做的很好了。京东这轮上大分。&lt;/p&gt;
-&lt;p&gt;然后我准备去跟维修师傅沟通，请他继续维修，然后发现，我被删好友了。我不清楚他们内部是经历了什么，事实上我从未投诉过这个维修师傅，并且上门时，基本上所有售后维修的师傅我都是态度良好，而且搞技术的，还是调试硬件，就算是两次未维修好，其实我对维修师傅也并没有什么意见，只能说厂商产品质量极度堪忧，非常迷惑。这种情况下只能再次联系厂商售后，并且要求换维修师傅。&lt;/p&gt;
-&lt;p&gt;实际上像产品质量与售后如此糟糕的体验，正常来说完全不应该继续用这家产品，但是简单的经济账，沉没的 600+维修费难以舍弃。&lt;/p&gt;
-&lt;p&gt;当前事情还在进行中，第三次上门还未发生。&lt;/p&gt;
-&lt;p&gt;各位身经百战的 V2 大师们，你们在这种情况下，会如何做？&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;规则就是规则，虽然贵但是应遵守规则，无异议按厂商方案持续维修；&lt;/li&gt;
-&lt;li&gt;支持楼主按闹分配&lt;/li&gt;
-&lt;li&gt;果断放弃沉没成本换马桶&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;or ？ 请大师们教教小弟一些人生的经验。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>2026 年了，还有老架构坚持 MySQL 单表数据不能超过 2000 万行</title>
       <link>https://www.v2ex.com/t/1248372</link>
       <guid>v2ex-1248372</guid>
       <pubDate>Tue, 13 Oct 2026 06:05:14 GMT</pubDate>
       <description>问他为什么，张口闭口就是：“单表过 2000 万，B+ 树就从 3 层变成 4 层了，多一层就多一次磁盘 I/O ，多的我不想说了 你自己问 AI”&lt;br /&gt;&lt;br /&gt;我寻思现在生产环境服务器 256G 内存，给 Buffer Pool 分 200G 。&lt;br /&gt;&lt;br /&gt;Buffer Pool 看着 200G 空间表示：“我管你这那的，非叶子节点全都给我常驻内存！多出来的一层不过是几十纳秒的内存二分查找，哪来的这么多废话”&lt;br /&gt;&lt;br /&gt;业务场景如果是因为备份恢复 SLA 扛不住、在线 DDL 风险大、或者热数据 Working Set 超出内存导致离散回表击穿，那该分分、该归档归档，这叫架构治理；&lt;br /&gt;但如果不看硬件规格和查询场景，纯拿“B+ 树长到 4 层就会性能崩塌”当圣经到处念咒，AI 的回复直接输出本帖</description>
+    </item>
+    <item>
+      <title>今年双十一，你们有什么要买的？</title>
+      <link>https://www.v2ex.com/t/1248323</link>
+      <guid>v2ex-1248323</guid>
+      <pubDate>Tue, 13 Oct 2026 03:18:49 GMT</pubDate>
+      <description>&lt;p&gt;猛然发现双十一已经开始预热了，站立的朋友们都有什么想买的东西吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Piczo 相册照片自动分类 | 送码</title>
+      <link>https://www.v2ex.com/t/1248362</link>
+      <guid>v2ex-1248362</guid>
+      <pubDate>Tue, 13 Oct 2026 05:37:26 GMT</pubDate>
+      <description>&lt;p&gt;功能很简单，相册&lt;strong&gt;照片自动帮你分好类&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;除了苹果服务器外，&lt;strong&gt;不连接任何网络&lt;/strong&gt;，&lt;strong&gt;不上传任何数据&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;一次性买断，&lt;strong&gt;没有订阅&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;图库&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/b3/50/86b3501e-2946-f5be-20e1-2b0caf4674e7/01-photo-library.png/460x998bb.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;自动分类&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/9f/43/069f4310-60b1-dff8-7f48-031015f501b0/02-similar-photos.png/460x998bb.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;自动分类&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/46/56/2f4656a7-49ec-9147-5b6a-c88a32a070c3/03-make-it-yours.png/460x998bb.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;自动分类&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/dc/f7/83dcf7ef-d80a-1327-0fc8-fd85e112f2e1/04-personal-albums.png/460x998bb.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;自动分类&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/9c/08/429c080e-0244-6e15-79f6-e97ac275d5a6/05-daily-surprise.png/460x998bb.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;自动分类&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/92/bd/ee92bde7-e0a3-b8ef-7bdb-eae151f77ba3/06-find-your-kind.png/460x998bb.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;没有套路，直接送码！&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;6TF64TR33R3RJW8AA8
+AAJ4REML7X3FMHHJML
+XFH7FPFXMPXYLNY8W3
+X7YHEFJKHKLP8NRHPA
+A47L384WRXPEAPLNJW
+8HKXAKJPXPP8YPPXMN
+XFE4LEF63KL3WEX8KP
+EW6W6TW73MHMH4EYLR
+P48FHTF3KAH8X6HHN8
+RFWEEXLAJF3YFYTTAE
+XH4MRHLXEWKNFN8KEJ
+PHRWXRRKX33P6MMNTA
+7WA474AKPERY67H6WF
+MWW87FA3XNFKRHKWTF
+6PNK4EJFWTMNEH4F83
+4868EH83E3PY7P7MML
+MWJMNH6MANLPLRY6JN
+KYLTE8YYHMPRTMTNW7
+LXLF7XHWT6JA7HLXRE
+TMNE4TTEEPTFJJYMPR
+RMWJKL6688HTWR6E37
+WRLEMA6XXTFPXYFNTF
+MYR4ELAHRMJHY3NR3X
+3MY37HPLR676YRM8KP
+7LA36TANRLN7XPPTA7
+AMPNE8FM7TENHL68KP
+846847K4MK6K4HTEYJ
+X6A7WHJ4WYKL4MN8HK
+P4PM3KJYM6JRN6ER7M
+WREKYFLP3XM6AJ4KNT
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
   </channel>
 </rss>
