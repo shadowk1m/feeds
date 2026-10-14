@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 14 Oct 2026 00:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:35:52 GMT</lastBuildDate>
     <item>
       <title>关于长辈抽烟的问题，有好的解决办法么？</title>
       <link>https://www.v2ex.com/t/1248405</link>
@@ -26,69 +26,34 @@
 </description>
     </item>
     <item>
-      <title>用 Rust 重写一切，这次是 navicat</title>
-      <link>https://www.v2ex.com/t/1248355</link>
-      <guid>v2ex-1248355</guid>
-      <pubDate>Tue, 13 Oct 2026 05:12:07 GMT</pubDate>
-      <description>&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;公司前阵子收到了律师函，于是通知全员删除 navicat ，个人版也不行，要求用开源的 DBeaver ，由于常年习惯了 navicat 的布局和操作习惯，实在适应不了其他工具，都 AI 时代了，索性自己撸一个吧。&lt;/p&gt;
-&lt;h2&gt;技术栈 &amp;amp; 进度&lt;/h2&gt;
-&lt;p&gt;Rust + GPUI ，gpui-kit 组件库 , shadcn 风格。无 WebView ，全部 UI 都用 Rust 写&lt;/p&gt;
-&lt;p&gt;适配了 ODBC 驱动，理论上只要有 ODBC 驱动，都能连接&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;数据库&lt;/th&gt;
-&lt;th&gt;状态&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;MySQL / MariaDB&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SQLite&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SQL Server&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;PostgreSQL&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Oracle&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;DB2, Redis, ...&lt;/td&gt;
-&lt;td&gt;接入中&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;截图&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/10/13/QSG4kEH8.png&quot;/&gt;
-&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/10/13/XaFv1I3B.png&quot;/&gt;
-&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/10/13/1mZZxV0C.png&quot;/&gt;
-&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s3.bmp.ovh/2026/10/13/ykmVIOWu.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;结尾&lt;/h2&gt;
-&lt;p&gt;github：&lt;a href=&quot;https://github.com/yisier/rustgrid&quot; rel=&quot;nofollow&quot;&gt;https://github.com/yisier/rustgrid&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;常用功能基本上 “可以用了”，像是 用户/角色/权限/模型/图表/自动运行 这些的功能，navicat 还是太权威了，每家数据库的操作体系都不一样，还有很多坑要踩。&lt;/p&gt;
-&lt;p&gt;AI 时代传统软件公司的天真的塌了，放在两年前都完全不敢想象，我一个从来没接触过 Rust 的人，不到一个月居然可以做出这么多功能。&lt;/p&gt;
+      <title>v2 的大佬们指点一下我该不该割肉，房子的事</title>
+      <link>https://www.v2ex.com/t/1248572</link>
+      <guid>v2ex-1248572</guid>
+      <pubDate>Wed, 14 Oct 2026 00:53:39 GMT</pubDate>
+      <description>目前情况：&lt;br /&gt;1. 西安当时高位买了一套房子目前月供不到 4k 但是已经资不抵债了。 贷款还有 60 个。 房子只能买 50 出头甚至都没人看。&lt;br /&gt;2. 杭州去年不算最低点但也不是高点入手了一套月供 4k+，贷款 100 个， 卖杭州房子的时候还借了点钱。 &lt;br /&gt;&lt;br /&gt;因为买房后两边贷款加起来 8k 出头  家庭收入也就一个月也就 15k 左右。  当时没下手杭州这边的时候没想到西安那边出手如此困难。&lt;br /&gt;&lt;br /&gt;细节我就不描述了。 &lt;br /&gt;&lt;br /&gt;我目前的想法：西安那边继续降价贴钱卖。 杭州这边快满二了也出手掉。 杭州这边应该是能平处亏个装修的钱。 西安那边能欠 10 来万吧   全都卖掉后 1 年时间处理掉债务 然后重新攒钱 租房住 重头再来。清理掉所有的债务 租房重新攒钱  以后想置办房子或者大额东西 不贷款 攒够钱再上&lt;br /&gt;&lt;br /&gt;大佬们给点建议是继续死扛 我两边月供是能还得起 就是感觉 一直还月供 也攒不下钱。  还是清理掉重还不值钱的负资产 重新开始呢 。</description>
+    </item>
+    <item>
+      <title>muse 30 亿免费 token</title>
+      <link>https://www.v2ex.com/t/1248583</link>
+      <guid>v2ex-1248583</guid>
+      <pubDate>Wed, 14 Oct 2026 01:36:37 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://t.me/satudigitalbot?start=ref_8713666123&quot; rel=&quot;nofollow&quot;&gt;https://t.me/satudigitalbot?start=ref_8713666123&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;直接 tg ，输出自己的邀请码就行。可自己生成邀请链接，单个邀请码好像最高 3 次，合计 90 亿 token&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Claude 很好开啊</title>
-      <link>https://www.v2ex.com/t/1248324</link>
-      <guid>v2ex-1248324</guid>
-      <pubDate>Tue, 13 Oct 2026 03:20:42 GMT</pubDate>
-      <description>&lt;p&gt;Codex 额度真的消耗太快了，跟风开个 Claude 做补充&lt;/p&gt;
-&lt;p&gt;不过 Claude 很好开啊，用之前开过的一张 Revolut ，Windows 端直接就付款成功了  &lt;/p&gt;
-&lt;p&gt;另外使用过程中有哪些注意事项吗？我在党政机关工作，希望用它来处理报表台账、公文撰写以及偶尔写点政府网站的插件扩展，会不会一张嘴就秒封了   &lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;PixPin_2026-10-13_10-52-37.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.crabpt.vip/xhb-image/2026/10/13/PixPin_2026-10-13_10-52-37.png&quot;/&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;IMG_3013.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img.crabpt.vip/xhb-image/2026/10/13/IMG_3013.png&quot;/&gt;&lt;/p&gt;
-</description>
+      <title>昨天把家里 Wi-Fi 2.4G 和 5G 分开了，你们呢？</title>
+      <link>https://www.v2ex.com/t/1248569</link>
+      <guid>v2ex-1248569</guid>
+      <pubDate>Wed, 14 Oct 2026 00:46:23 GMT</pubDate>
+      <description>家里有个稍微老点的小爱音箱，老是掉线，后来研究发现不支持 5G 的，当时家里的 wifi 上二频合一的，虽然连上了，隔一段时间莫名其妙就掉线了。&lt;br /&gt;一直想拆分，但是家里几十个设备要重新配置，尤其是有些设备重置网络的方法都忘记了（分别是什么长按这个键那个键的）得去查。&lt;br /&gt;昨天晚上还是决定去拆了一下，把 iot 设备都分到 2.4G 上去，手机电脑保留 5G 上，心理上感觉好像速度快了一些。</description>
+    </item>
+    <item>
+      <title>现在修电视都这么贵的吗？</title>
+      <link>https://www.v2ex.com/t/1248577</link>
+      <guid>v2ex-1248577</guid>
+      <pubDate>Wed, 14 Oct 2026 01:11:06 GMT</pubDate>
+      <description>19 年买的大法，国庆回来，小孩说就灰屏了。找了师傅上门，说是屏幕坏了。修的话要 1000 多，我想着现在只有我儿子看，就懒得修了。1000 多加一点钱都能买个国产了。上门费：78&lt;br /&gt;&lt;br /&gt;再回头想想，也是月初修的洗衣机，网上查了零件才 40 ，修了 370 。这电视会不会也是坏了小毛病，然后报价奇高。</description>
     </item>
     <item>
       <title>2026 年了，还有老架构坚持 MySQL 单表数据不能超过 2000 万行</title>
@@ -98,11 +63,30 @@
       <description>问他为什么，张口闭口就是：“单表过 2000 万，B+ 树就从 3 层变成 4 层了，多一层就多一次磁盘 I/O ，多的我不想说了 你自己问 AI”&lt;br /&gt;&lt;br /&gt;我寻思现在生产环境服务器 256G 内存，给 Buffer Pool 分 200G 。&lt;br /&gt;&lt;br /&gt;Buffer Pool 看着 200G 空间表示：“我管你这那的，非叶子节点全都给我常驻内存！多出来的一层不过是几十纳秒的内存二分查找，哪来的这么多废话”&lt;br /&gt;&lt;br /&gt;业务场景如果是因为备份恢复 SLA 扛不住、在线 DDL 风险大、或者热数据 Working Set 超出内存导致离散回表击穿，那该分分、该归档归档，这叫架构治理；&lt;br /&gt;但如果不看硬件规格和查询场景，纯拿“B+ 树长到 4 层就会性能崩塌”当圣经到处念咒，AI 的回复直接输出本帖</description>
     </item>
     <item>
-      <title>今年双十一，你们有什么要买的？</title>
-      <link>https://www.v2ex.com/t/1248323</link>
-      <guid>v2ex-1248323</guid>
-      <pubDate>Tue, 13 Oct 2026 03:18:49 GMT</pubDate>
-      <description>&lt;p&gt;猛然发现双十一已经开始预热了，站立的朋友们都有什么想买的东西吗？&lt;/p&gt;
+      <title>最好看最好用的 iOS V2EX 客户端过审了，欢迎 TestFlight 体验打脸</title>
+      <link>https://www.v2ex.com/t/1248562</link>
+      <guid>v2ex-1248562</guid>
+      <pubDate>Wed, 14 Oct 2026 00:02:37 GMT</pubDate>
+      <description>&lt;h2&gt;前情提要&lt;/h2&gt;
+&lt;p&gt;新手口喷了最好看最好用的 iOS V2EX 客户端，帮我看看值得上架 App Store 吗？&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://v2ex.com/t/1247152&quot; rel=&quot;nofollow&quot;&gt;https://v2ex.com/t/1247152&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;立即体验：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://testflight.apple.com/join/TN6dqZVj&quot; rel=&quot;nofollow&quot;&gt;https://testflight.apple.com/join/TN6dqZVj&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;注册开发者，审核用了两天&lt;/li&gt;
+&lt;li&gt;第一个 TF 审核用了两天，感觉还挺快的，后边小版本一天能过审&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;上次发帖之后做了很多更新，还有一些更新没上 TF 。&lt;/p&gt;
+&lt;p&gt;牛逼的说，应该是 1000 万以内最好的 V2EX 客户端了，欢迎大家体验，打我脸。&lt;/p&gt;
+&lt;p&gt;简单传几张图吧，吹牛逼文案还没想：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/OGOclVm.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/yMljdaT.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/zIHDxlA.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/O0ysApk.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/jTG0YQB.jpeg&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/WArM5oT.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/0k6WViA.png&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/qAK5SDn.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -152,6 +136,22 @@ P4PM3KJYM6JRN6ER7M
 WREKYFLP3XM6AJ4KNT
 &lt;/code&gt;&lt;/pre&gt;
 </description>
+    </item>
+    <item>
+      <title>求推荐扫地机</title>
+      <link>https://www.v2ex.com/t/1248365</link>
+      <guid>v2ex-1248365</guid>
+      <pubDate>Tue, 13 Oct 2026 05:52:07 GMT</pubDate>
+      <description>&lt;p&gt;OP 想在双 11 买一个扫地机器人 因为没有上下水，所以需要支持水箱版的
+大佬们有没有推荐的。性价比的。 心理价位是三四千吧&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>今年买到的最值的东西推荐</title>
+      <link>https://www.v2ex.com/t/1248653</link>
+      <guid>v2ex-1248653</guid>
+      <pubDate>Wed, 14 Oct 2026 03:10:28 GMT</pubDate>
+      <description>我先叠甲，推荐只是我自己使用舒服，解决了我的问题，不是说它一定适合你（但万一能给你一点启发呢&lt;br /&gt;值不值得买，要看它能不能解决你的实际需求，是否有性价比，是否能长期高频使用&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;第一，macbook air m5 ，淘宝百亿补贴 ¥6099 拿下，轻薄携带方便，性能够用，彻底摆脱了键盘鼠标这些。之前是 macmini m2 算是大升级了。&lt;br /&gt;&lt;br /&gt;第二，大行折叠车 p8 ，能上高铁（参考我之前的帖子）、能上地铁（合肥地铁真的太友好了），周末回家大巴通勤也很方便，解决了公共交通的首尾几公里难题。还可以 4+2 ，去很多双脚和小汽车都没法去的地方。¥3000 ，京东买的，我知道可以更便宜，但是我不想等了。感觉很耐造，已经是高频使用了&lt;br /&gt;&lt;br /&gt;第三，莱芬吹风机，se lite ，好像是低配版本，pdd ¥150 买的。听说故障率高，但是我买了两个，元旦买的，都没任何问题。&lt;br /&gt;&lt;br /&gt;第四，小米智能室外摄像机 4pro ，三摄变焦版。京东 ¥381 。放在院子，看狗、猫，还有住宅安全。偶尔直接通过摄像头和父母临时讲两句，不用他们立马去找手机。智能化很强，可以人脸跟随。&lt;br /&gt;&lt;br /&gt;第五，一对 10kg 的哑铃，配合之前 5kg 练小肌肉，主要跟着 apple fitness+ 练，虽然这个重量大家可能看不起，但是练扎实还是有效果的，目前可以引体拉五个了。不过已经不够用了，再想办法升级。&lt;br /&gt;&lt;br /&gt;还有一些小东西，不说了。&lt;br /&gt;总体来说今年算事消费降级了，能不买就不买。&lt;br /&gt;&lt;br /&gt;接下来想买的是一套杠铃训练设备，还有 action6 （有点犹豫），还有一张游泳馆年卡。&lt;br /&gt;&lt;br /&gt;看到另一个双 11 的帖子，随手写的，如果后续有补充的我继续。&lt;br /&gt;&lt;br /&gt;**主要是也想看看大家今年买到了哪些值得推荐的东西**</description>
     </item>
   </channel>
 </rss>
