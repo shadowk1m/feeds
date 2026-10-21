@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 21 Oct 2026 15:43:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:45:18 GMT</lastBuildDate>
     <item>
       <title>前端这个行业真要完了</title>
       <link>https://www.v2ex.com/t/1250524</link>
@@ -164,23 +164,47 @@
 </description>
     </item>
     <item>
-      <title>我发现很多人都迷之自信的认为， AI 不会取代自己的能力。</title>
-      <link>https://www.v2ex.com/t/1250467</link>
-      <guid>v2ex-1250467</guid>
-      <pubDate>Tue, 20 Oct 2026 16:38:45 GMT</pubDate>
-      <description>&lt;p&gt;现在 AI 在各个领域的能力，都超越了一般人。不管是文化艺术，还是编程开发，或者是科学技术，都快赶上专家级别了。&lt;/p&gt;
-&lt;p&gt;但是还是有很多人认为，自己的创意、经验、能力、认知都比别人好。所以自己（用 AI ）写出来的作品，肯定比别人好。但残酷的是，除了自己之外很少有人去理解你做的东西。AI 解决了普通人的需求，那么你存在的价值就会打很大折扣。&lt;/p&gt;
-&lt;p&gt;有了 AI 本站讨论技术的人都没有了，这就是个例子。你再牛逼的经验，比不过别人问 AI 一秒钟。&lt;/p&gt;
-&lt;p&gt;把 AI Slop 可以算作拼多多，你东西再好，也敌不过别人亏本倾销。&lt;/p&gt;
-&lt;p&gt;所以，这个世界上到最后只有一种能力，就是营销能力。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>感叹 Codex 的过度设计。</title>
       <link>https://www.v2ex.com/t/1250482</link>
       <guid>v2ex-1250482</guid>
       <pubDate>Wed, 21 Oct 2026 00:29:46 GMT</pubDate>
       <description>&lt;p&gt;让 Codex 写了一个功能模块（中等复杂度），给它沟通好功能以及边界后，列好开发计划，它持续工作了了 15 个小时左右，写了 2w 行代码，消耗了一整个 20x 账号的 7 周额度，看到后我惊呆了，我是真不敢合并啊！！！ 2w 行代码 review 都得一星期也够呛完成！！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>做了款苹果四端播放器 Vanto，支持杜比视界、空间音频，送 200 份永久版</title>
+      <link>https://www.v2ex.com/t/1250565</link>
+      <guid>v2ex-1250565</guid>
+      <pubDate>Wed, 21 Oct 2026 03:29:23 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;Vanto：iPhone 、iPad 、Mac 和 Apple TV 的真实 App 界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.ibb.co/mrBjmwVg/Vanto-App.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;大家好，我是 Vanto 的开发者。Vanto 是一款面向 iPhone 、iPad 、Mac 和 Apple TV 的个人媒体播放器，主要给已有 NAS 或媒体服务器的朋友使用&lt;/p&gt;
+&lt;h3&gt;支持哪些来源和功能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;媒体来源&lt;/strong&gt;：Emby 、Jellyfin 、Plex 、SMB 、WebDAV ； AList 、OpenList 可通过 WebDAV 接入。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;杜比视界与 HDR&lt;/strong&gt;：根据片源和设备能力选择播放路径，最终显示效果取决于片源、设备与显示链路。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AirPods 空间音频&lt;/strong&gt;：支持系统空间音频，固定或头部追踪在系统控制中心切换，需兼容的耳机、设备和音轨。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;字幕与音轨&lt;/strong&gt;：切换音轨、双语字幕，调整字幕大小、位置和同步。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;手机点播电视&lt;/strong&gt;：手机选片，交给 Apple TV 播放，也可以用手机控制暂停、进度、音轨和字幕。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;离线下载&lt;/strong&gt;：支持 iPhone 、iPad 、Mac 下载后观看。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iCloud 同步&lt;/strong&gt;：同步 SMB / WebDAV 的观看进度和收藏，不上传影片文件。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;刮削&lt;/strong&gt;：暂不支持刮削,但支持手动编辑海报和影片信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;200 份永久专业版，Telegram 领取&lt;/h3&gt;
+&lt;p&gt;这次共开放 &lt;strong&gt;200 份永久专业版兑换码&lt;/strong&gt;，与官方频道共享同一批名额，先到先得，领完即止。永久权益不自动续费。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;加入交流群：&lt;a href=&quot;https://t.me/VantoUsers&quot; rel=&quot;nofollow&quot;&gt;t.me/VantoUsers&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;私聊领取机器人：&lt;a href=&quot;https://t.me/VantoRedeemBot&quot; rel=&quot;nofollow&quot;&gt;t.me/VantoRedeemBot&lt;/a&gt;，点击「领取兑换码」。&lt;/li&gt;
+&lt;li&gt;通过机器人提供的 Apple 官方链接兑换，再回 Vanto 点击「恢复购买」。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;每个 Telegram 账号限领一次&lt;/strong&gt;；同一 Apple 账号在本优惠活动中限兑一次。&lt;/p&gt;
+&lt;p&gt;活动公告：&lt;a href=&quot;https://t.me/VantoApp/12&quot; rel=&quot;nofollow&quot;&gt;Telegram 官方频道&lt;/a&gt;。频道里也有真实 App 画面的功能演示。&lt;/p&gt;
+&lt;h3&gt;下载与反馈&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://apps.apple.com/cn/app/id6794951510&quot; rel=&quot;nofollow&quot;&gt;App Store 下载&lt;/a&gt;（也可搜索「 Vanto 播放器」）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://vanto.space/zh/&quot; rel=&quot;nofollow&quot;&gt;官网与使用指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎有 NAS 或 Apple TV 的朋友试试。也想听听大家用什么设备、什么来源，以及播放、字幕和遥控操作中还有哪些不顺手的地方。&lt;/p&gt;
+&lt;p&gt;开发不易，好用的话也希望大家给个好评！感谢🙏&lt;/p&gt;
 </description>
     </item>
     <item>
