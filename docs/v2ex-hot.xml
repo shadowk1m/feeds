@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 20 Oct 2026 22:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:43:52 GMT</lastBuildDate>
     <item>
       <title>开个银河买纳指或者红利低波 ETF 比较稳健，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。</title>
       <link>https://www.v2ex.com/t/1250173</link>
@@ -53,51 +53,6 @@
 &lt;li&gt;有类似经历的朋友吗？最后怎么选的，现在回头看后悔吗？&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;先谢过。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>能清理、卸载和系统维护的 Mole Windows 版终于来啦，聊聊我是怎么用 Mac 开发它的</title>
-      <link>https://www.v2ex.com/t/1250170</link>
-      <guid>v2ex-1250170</guid>
-      <pubDate>Tue, 20 Oct 2026 00:27:28 GMT</pubDate>
-      <description>&lt;p&gt;上周 Mole 的 Windows 版终于上线啦，Mac 版发布以后一直有不少小伙伴问什么时候出 Windows 版，当时给大伙的答复是等 Mac 完善以后才有空来弄，这次终于做出来了，这一次的开发挺有意思的，想和大伙随便聊聊。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://mole.fit/zh/windows&quot; rel=&quot;nofollow&quot;&gt;https://mole.fit/zh/windows&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上线之前其实已经在小范围里迭代了 20 多个版本，又经过 Mole 天使用户多天内测，大家提了非常多的建议，终于差不多可用了，非常感谢大伙帮忙。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Mole Windows 清理&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.fliggy.com/pic/jZCD4d30.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;为了更好的使用体验和性能，这次用的是 Windows 原生的 C# 和 WinUI 3 ，没有套 Electron ，加上 Windows 和 Mac 的系统特性、要清理的东西完全不一样，除了设计和文案，Mac 版十几万行 Swift 几乎没有可以复用的代码，来来回回差不多写了一个月，大概 7.8 万行代码和 4000 多个测试用例。&lt;/p&gt;
-&lt;p&gt;开发和调试的难度也远大于熟悉的 Mac ，WinUI 的界面在 Mac 上编译不了，我的做法是代码编写和 AI 上下文都留在 Mac 这一台机器上，Mac 上装 Parallels Desktop 开一台 Windows 虚拟机做调试验证，再整一台 ThinkPad X1 让它 24 小时开着，看虚拟机里看不到的真实效果。这是我现在的工作台，中间是 Mac ，左边是 ThinkPad X1 ，几块屏上开着的都是 Mole 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;工作台&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-workspace.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;用 Mac 开发 Windows 软件这一个月，有几个做法我感觉还挺好用，分享给有同样需求的小伙伴：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;代码分层，清理、卸载这些核心逻辑和界面状态放在不依赖 Windows 的 .NET 工程里，调用系统接口的那一层开了 &lt;code&gt;EnableWindowsTargeting&lt;/code&gt;，在 Mac 上也能编译，4000 多个测试大部分在 Mac 上就能跑，只有 WinUI 界面这一层必须去 Windows 里编译。&lt;/li&gt;
-&lt;li&gt;仓库直接作为 Parallels 的共享文件夹挂到虚拟机里，Mac 上改完代码，虚拟机里直接编译运行，不用来回拷，两边的编译产物要分到不同目录，不然 &lt;code&gt;obj&lt;/code&gt; 里记的绝对路径会来回打架。&lt;/li&gt;
-&lt;li&gt;虚拟机用脚本来驱动，&lt;code&gt;prlctl exec&lt;/code&gt; 在里面执行命令，再按控件的无障碍名字（ UI Automation ）去点按钮、截窗口，AI 不靠坐标也能准确点中，界面稍微变动也不会点偏。&lt;/li&gt;
-&lt;li&gt;ThinkPad 通过 UU 远程和 ssh 连过去，真实的 x64 、高分屏缩放、电池、SmartScreen 和 Defender 这些都在它上面看，每次发版前我都会在它上面装一遍、点一遍，看看有没有问题。&lt;/li&gt;
-&lt;li&gt;实在没有命令行能解决的地方，在 Claude 里通过 lcu 让它去调用 Codex 的 computer use ，有一说一 Codex 的 computer use 是真的好用，不过 UAC 弹窗它不好点，这个时候就我自己上了，哈哈。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我平时一般是在我自己做的终端 Kaku 里面用 7 到 10 个 Tab 的 Agent 同时在跑任务，使用各种快捷键非常方便。&lt;/p&gt;
-&lt;p&gt;开发 Windows 版本，花时间最多的其实是测软件，清理工具最怕删错还有用的数据和配置，然后 Windows 上每个软件的安装器和卸载器又各有各的写法，只能一款款装上去试。我按国内外工程师常用的软件列了一份名单，编辑器、IDE 、浏览器、聊天、网盘、数据库、AI 工具都有，每一款让 AI 装上、打开随便用一下，再看 Mole 的卸载、更新、残留清理和启动项认不认得它，到现在实测了 430 款，有 73 款测出了不符合预期的情况，直接当轮修掉、补上测试再重测。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Mole Windows 软件卸载&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.fliggy.com/pic/5NUjhF42.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;当前功能上和 Mac 版基本一致，清理、软件卸载与更新、优化、空间分析、状态五个页面，加上托盘面板、屏幕常亮和清洁屏幕，支持 Windows 10 22H2 和 Windows 11 ，x64 和 ARM64 都有原生安装包。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Mole Windows 托盘面板&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.fliggy.com/pic/9CLY8051.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;除了桌面版，Mole 的 Windows 命令行版其实年初就开始做了，最早是一位印度开发者提的需求，还顺手给我提了 PR ，非常感谢，到现在 9 个半月发了 9 个版本，最近一个月我也在密集迭代，用法和体验基本和 Mac 的命令行版对齐了，开源免费，喜欢命令行的小伙伴可以直接去 GitHub 上用。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;Mole CLI for Windows&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.fliggy.com/pic/5KTnEA01.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;价格上为了感谢大伙一直的支持，现在是早鸟价 15.20 美元，可以用在两台电脑上，到 11 月 11 日结束，之前买过 Mole 的朋友到 12 月 31 日结账时输入 MOLEAGAIN 只要 10 美元，每个功能也都可以先免费用几次再决定。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;官网： &lt;a href=&quot;https://mole.fit/zh/windows&quot; rel=&quot;nofollow&quot;&gt;https://mole.fit/zh/windows&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;命令行版： &lt;a href=&quot;https://github.com/tw93/Mole/tree/windows&quot; rel=&quot;nofollow&quot;&gt;https://github.com/tw93/Mole/tree/windows&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;欢迎有 Windows 电脑的小伙伴试试，也非常欢迎给我反馈各种建议和问题！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>搓了一个看东南亚频道的站</title>
-      <link>https://www.v2ex.com/t/1250171</link>
-      <guid>v2ex-1250171</guid>
-      <pubDate>Tue, 20 Oct 2026 00:34:36 GMT</pubDate>
-      <description>&lt;p&gt;hd.rip
-纯 ai 搓的，无需登录，爬源、验证、抓 epg 都自动完成
-大家看看还有什么需要改进的&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -245,6 +200,26 @@
 &lt;p&gt;字写得好不好看，其实没那么重要。&lt;/p&gt;
 &lt;p&gt;重要的是，她坐在那里的时候，背后看到的，应该是两个相爱的、愿意蹲下来听她说话的大人，而不是一张写满了&quot;你还不够好&quot;的脸。&lt;/p&gt;
 &lt;p&gt;走在持续成长的路上，学着做丈夫，学着做父亲&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>各位大佬都是用啥工具管理自己的密码的</title>
+      <link>https://www.v2ex.com/t/1250247</link>
+      <guid>v2ex-1250247</guid>
+      <pubDate>Tue, 20 Oct 2026 03:14:59 GMT</pubDate>
+      <description>各位大佬都是用啥工具管理自己的密码的</description>
+    </item>
+    <item>
+      <title>武汉交通卡终于支持苹果钱包了</title>
+      <link>https://www.v2ex.com/t/1250183</link>
+      <guid>v2ex-1250183</guid>
+      <pubDate>Tue, 20 Oct 2026 01:13:48 GMT</pubDate>
+      <description>&lt;p&gt;武汉交通卡实体卡，一张就要 30 元押金，也就是开卡费，太黑了&lt;/p&gt;
+&lt;p&gt;前几年用手机开武汉交通虚拟卡仍要 30 元开卡费，小米手环也是一样&lt;/p&gt;
+&lt;p&gt;现在苹果手机直接 0 元，起充费 30 元&lt;/p&gt;
+&lt;p&gt;每次看到别人扫码掏出手机等半天堵在闸机那里，就觉得扫码这东西，再加上有的手机卡顿，有时候还有广告，就觉得很蠢，
+尤其是有次清明节放假，motro 服务异常，导致很多人二维码刷不出来&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Om38TZN.jpeg&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
