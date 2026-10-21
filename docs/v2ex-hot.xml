@@ -4,13 +4,53 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Wed, 21 Oct 2026 10:47:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:43:08 GMT</lastBuildDate>
     <item>
       <title>前端这个行业真要完了</title>
       <link>https://www.v2ex.com/t/1250524</link>
       <guid>v2ex-1250524</guid>
       <pubDate>Wed, 21 Oct 2026 02:23:45 GMT</pubDate>
       <description>现在开发需求，总有服务端会跳出来说不需要前端，自己 AI 一把梭</description>
+    </item>
+    <item>
+      <title>为啥你们 Vibe 的网页 AI 味儿那么重?</title>
+      <link>https://www.v2ex.com/t/1250676</link>
+      <guid>v2ex-1250676</guid>
+      <pubDate>Wed, 21 Oct 2026 08:27:44 GMT</pubDate>
+      <description>&lt;p&gt;好像每天看到的大家贴的自己的页面/网站 AI 味儿都特别重..
+包括不限于：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;AI 最爱的紫色&lt;/li&gt;
+&lt;li&gt;奇怪的渐变效果&lt;/li&gt;
+&lt;li&gt;各种卡片泛滥&lt;/li&gt;
+&lt;li&gt;卡片里面经常用大段文字配满……&lt;/li&gt;
+&lt;li&gt;大量统一的线性图标，放在圆角方块&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;看看我的：
+&lt;a href=&quot;https://vpaste.app/zh/&quot; rel=&quot;nofollow&quot;&gt;https://vpaste.app/zh/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;B 站视频： &lt;a href=&quot;https://www.bilibili.com/video/BV1onpk6MEsn/&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1onpk6MEsn/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;不过坦白说视频方面感觉 GPT 确实没有 Claude 效果好，看到很多站内大佬用 Claude 做的效果非常耀眼..&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>前端想学后端，但是看完这段代码就已经力竭了</title>
+      <link>https://www.v2ex.com/t/1250533</link>
+      <guid>v2ex-1250533</guid>
+      <pubDate>Wed, 21 Oct 2026 02:40:39 GMT</pubDate>
+      <description>&lt;pre&gt;&lt;code&gt;def fetch_created_at():
+    conn = pymysql.connect(
+        host=MYSQL_HOST, port=MYSQL_PORT, user=MYSQL_USER,
+        password=MYSQL_PASSWORD, database=MYSQL_DATABASE, charset=&quot;utf8mb4&quot;,
+    )
+    try:
+        with conn.cursor() as cur:
+            cur.execute(&quot;SELECT created_at FROM A WHERE uid=%s&quot;, (TARGET_UID,))
+            return [r[0] for r in cur.fetchall()]
+    finally:
+        conn.close()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;就是一段读库操作，就涉及 py 的基础操作和上下文管理，PyMySQL 数据库操作。其中数据库操作又涉及 pymysql 的函数作用和事务处理。每一个知识点又能扩展很多内容🤯&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>[图一乐] 给大家看看我的 Claude 账号到底有多硬</title>
@@ -68,26 +108,6 @@
 </description>
     </item>
     <item>
-      <title>前端想学后端，但是看完这段代码就已经力竭了</title>
-      <link>https://www.v2ex.com/t/1250533</link>
-      <guid>v2ex-1250533</guid>
-      <pubDate>Wed, 21 Oct 2026 02:40:39 GMT</pubDate>
-      <description>&lt;pre&gt;&lt;code&gt;def fetch_created_at():
-    conn = pymysql.connect(
-        host=MYSQL_HOST, port=MYSQL_PORT, user=MYSQL_USER,
-        password=MYSQL_PASSWORD, database=MYSQL_DATABASE, charset=&quot;utf8mb4&quot;,
-    )
-    try:
-        with conn.cursor() as cur:
-            cur.execute(&quot;SELECT created_at FROM A WHERE uid=%s&quot;, (TARGET_UID,))
-            return [r[0] for r in cur.fetchall()]
-    finally:
-        conn.close()
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;就是一段读库操作，就涉及 py 的基础操作和上下文管理，PyMySQL 数据库操作。其中数据库操作又涉及 pymysql 的函数作用和事务处理。每一个知识点又能扩展很多内容🤯&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>有骑电瓶车通勤的吗，有啥必买的配件推荐一下呗。</title>
       <link>https://www.v2ex.com/t/1250519</link>
       <guid>v2ex-1250519</guid>
@@ -96,23 +116,51 @@
 </description>
     </item>
     <item>
-      <title>为啥你们 Vibe 的网页 AI 味儿那么重?</title>
-      <link>https://www.v2ex.com/t/1250676</link>
-      <guid>v2ex-1250676</guid>
-      <pubDate>Wed, 21 Oct 2026 08:27:44 GMT</pubDate>
-      <description>&lt;p&gt;好像每天看到的大家贴的自己的页面/网站 AI 味儿都特别重..
-包括不限于：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;AI 最爱的紫色&lt;/li&gt;
-&lt;li&gt;奇怪的渐变效果&lt;/li&gt;
-&lt;li&gt;各种卡片泛滥&lt;/li&gt;
-&lt;li&gt;卡片里面经常用大段文字配满……&lt;/li&gt;
-&lt;li&gt;大量统一的线性图标，放在圆角方块&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;看看我的：
-&lt;a href=&quot;https://vpaste.app/zh/&quot; rel=&quot;nofollow&quot;&gt;https://vpaste.app/zh/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;B 站视频： &lt;a href=&quot;https://www.bilibili.com/video/BV1onpk6MEsn/&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1onpk6MEsn/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;不过坦白说视频方面感觉 GPT 确实没有 Claude 效果好，看到很多站内大佬用 Claude 做的效果非常耀眼..&lt;/p&gt;
+      <title>PHP 最新零日漏洞怎么没人讨论</title>
+      <link>https://www.v2ex.com/t/1250646</link>
+      <guid>v2ex-1250646</guid>
+      <pubDate>Wed, 21 Oct 2026 07:17:48 GMT</pubDate>
+      <description>&lt;p&gt;好多业务都还在 php7 环境跑呐 这下官方都不支持修补 完蛋了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; [紧急安全预警] 关于 PHP2Shell (CVSS 9.2) 核心级 RCE 漏洞的修复指南
+
+尊敬的客户：
+
+您好！针对即将在北京时间 10 月 21 日（周三） 22:00 公开的 PHP 核心严重安全漏洞，我们在此向您发布最高级别的安全预警。
+
+据国际安全机构 Sansec 披露，此次爆发的漏洞被称为 PHP2Shell 。目前该漏洞的自动化利用工具截图已在安全社区泄露，预计官方补丁发布后 15 分钟内，全网将出现大规模的无差别扫描与攻击。
+
+漏洞核心情报
+漏洞代号/编号：PHP2Shell (CVE-2026-109618, CVE-2026-109619)
+
+危险等级：CVSS 9.2 （极度危险）
+
+漏洞类型： 远程代码执行（ RCE ），攻击者可直接接管服务器获取 Shell 。
+
+受影响版本：PHP 5.4 及以上所有版本。Magento 、Shopware 、WooCommerce 等电商系统及各类 CMS 将受严重威胁。
+
+补丁发布时间： 北京时间 10 月 21 日（周三） 22:00 （ 14:00 UTC ）
+
+⚠️ 核心警告：无法在代码层防御
+该漏洞存在于 PHP 的底层架构中。这意味着任何代码级别的修改、面板加固或常规的应用层防护插件都无法拦截此攻击。防御的唯一有效方式是在服务器基础设施层面（环境底层）直接更新 PHP 版本。
+
+紧急应对与修复建议
+官方将仅为 PHP 8.2 、8.3 、8.4 和 8.5 发布修复补丁。请您立即采取以下行动：
+
+1. 正在使用 PHP 8.2 - 8.5 的用户（需今晚紧急操作）：
+
+随时待命： 请通知您的运维团队在今晚 22:00 前做好准备。
+
+抢占黄金 15 分钟： 补丁一旦发布，请务必在第一波自动化攻击到来前，通过包管理器（ apt/yum ）或重新编译升级 PHP ，并立刻重启相关服务（ Nginx/Apache/PHP-FPM ）。
+
+2. 正在使用 PHP 8.1 及以下旧版本（含 5.6 、7.x 等）的用户：
+
+官方已明确不会为这些版本发布补丁。继续使用这些版本将让您的服务器完全裸露在 PHP2Shell 的攻击火力之下。
+
+短期缓解： 立即排查并收紧服务器安全组及防火墙（ iptables/firewalld ）策略，开启高级别 WAF ，并在 php.ini 中禁用高风险命令执行函数。
+
+长期建议： 请即刻安排业务环境迁移，将底层升级至受官方支持的 PHP 8.2+ 版本。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/qEoWWiP.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -128,146 +176,6 @@
 </description>
     </item>
     <item>
-      <title>想购买 iPad mini 8, 有人打醒我吗？</title>
-      <link>https://www.v2ex.com/t/1250420</link>
-      <guid>v2ex-1250420</guid>
-      <pubDate>Tue, 20 Oct 2026 12:43:16 GMT</pubDate>
-      <description>&lt;h1&gt;iPad mini 8 最新进度｜ 2026-10-20&lt;/h1&gt;
-&lt;h2&gt;一、最新消息&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;发布&lt;/strong&gt;：预计 10 月 27 ～ 28 日公布，最快 11 月 6 日上市； 10 月 28 日媒体活动已确认，但 mini 8 尚未官宣。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;高刷&lt;/strong&gt;：苹果测试过 60Hz ／ 120Hz ，最终未知。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;价格&lt;/strong&gt;：预计涨价。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;配件&lt;/strong&gt;：苹果网站出现新款 Smart Folio （ A3632 ），暗示设计可能调整。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;二、核心参数：mini 7 → mini 8&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;项目&lt;/th&gt;
-&lt;th&gt;mini 7&lt;/th&gt;
-&lt;th&gt;mini 8 （传闻）&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;芯片&lt;/td&gt;
-&lt;td&gt;A17 Pro&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;A20 Pro&lt;/strong&gt;（较可信）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;内存&lt;/td&gt;
-&lt;td&gt;8GB&lt;/td&gt;
-&lt;td&gt;12GB （推测）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;屏幕&lt;/td&gt;
-&lt;td&gt;8.3&quot; LCD&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;8.4 ～ 8.7&quot; OLED&lt;/strong&gt;（较可信）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;刷新率&lt;/td&gt;
-&lt;td&gt;60Hz&lt;/td&gt;
-&lt;td&gt;60 ／ 120Hz 未定&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;亮度&lt;/td&gt;
-&lt;td&gt;500 尼特&lt;/td&gt;
-&lt;td&gt;未知&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;前摄&lt;/td&gt;
-&lt;td&gt;12MP ，短边&lt;/td&gt;
-&lt;td&gt;移至长边，像素未知&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;后摄&lt;/td&gt;
-&lt;td&gt;12MP&lt;/td&gt;
-&lt;td&gt;未知&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;扬声器&lt;/td&gt;
-&lt;td&gt;横向立体声&lt;/td&gt;
-&lt;td&gt;新型振动式扬声器&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;防水&lt;/td&gt;
-&lt;td&gt;无 IP 认证&lt;/td&gt;
-&lt;td&gt;预计增强，等级未知&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;无线&lt;/td&gt;
-&lt;td&gt;Wi-Fi 6E ／ BT 5.3&lt;/td&gt;
-&lt;td&gt;Wi-Fi 7 ／ BT 6 ／ N1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;蜂窝网络&lt;/td&gt;
-&lt;td&gt;5G ，Qualcomm 基带&lt;/td&gt;
-&lt;td&gt;预计 5G ，C1X ／ C2 基带&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;eSIM&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;蜂窝版仅 eSIM ，无实体卡&lt;/td&gt;
-&lt;td&gt;预计延续，未确认&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GPS&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;仅蜂窝版内置 GPS/GNSS&lt;/td&gt;
-&lt;td&gt;未确认，预计延续&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;NFC ／支付&lt;/td&gt;
-&lt;td&gt;无线下 NFC 支付，支持应用及网页 Apple Pay&lt;/td&gt;
-&lt;td&gt;无新增消息&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;存储&lt;/td&gt;
-&lt;td&gt;128 ／ 256 ／ 512GB&lt;/td&gt;
-&lt;td&gt;未知&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;重量&lt;/td&gt;
-&lt;td&gt;293g （ Wi-Fi ）&lt;/td&gt;
-&lt;td&gt;未知&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;续航&lt;/td&gt;
-&lt;td&gt;Wi-Fi 10h ／蜂窝 9h&lt;/td&gt;
-&lt;td&gt;未知&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;接口&lt;/td&gt;
-&lt;td&gt;USB-C 10Gbps&lt;/td&gt;
-&lt;td&gt;未知&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;解锁&lt;/td&gt;
-&lt;td&gt;顶部 Touch ID&lt;/td&gt;
-&lt;td&gt;未知&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;手写笔&lt;/td&gt;
-&lt;td&gt;Pencil Pro ／ USB-C&lt;/td&gt;
-&lt;td&gt;兼容性待确认&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;保护套&lt;/td&gt;
-&lt;td&gt;mini 6 ／ 7 通用&lt;/td&gt;
-&lt;td&gt;可能不兼容旧款&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;AI&lt;/td&gt;
-&lt;td&gt;Apple Intelligence&lt;/td&gt;
-&lt;td&gt;预计继续支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;三、价格对比（美元）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Wi-Fi&lt;/strong&gt;：mini 7 为 $599 起； mini 8 传闻约 $799 起。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wi-Fi + Cellular&lt;/strong&gt;：mini 7 为 $749 起； mini 8 未知。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
       <title>感叹 Codex 的过度设计。</title>
       <link>https://www.v2ex.com/t/1250482</link>
       <guid>v2ex-1250482</guid>
@@ -276,69 +184,11 @@
 </description>
     </item>
     <item>
-      <title>重生之我做了个浏览器 Agent，以为能火，结果 github 只有 50 star</title>
-      <link>https://www.v2ex.com/t/1250414</link>
-      <guid>v2ex-1250414</guid>
-      <pubDate>Tue, 20 Oct 2026 12:06:34 GMT</pubDate>
-      <description>&lt;h1&gt;只有 50 Star 的项目是啥&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;项目名称：&lt;strong&gt;轻舟(qz)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;项目地址：&lt;a href=&quot;https://github.com/alibaba/qz-browser-agent&quot; rel=&quot;nofollow&quot;&gt;alibaba/qz-browser-agent&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Chrome 应用商店： &lt;a href=&quot;https://chromewebstore.google.com/detail/dknbdgkgoinlgjpfebapkklbmjjgdblm&quot; rel=&quot;nofollow&quot;&gt;https://chromewebstore.google.com/detail/dknbdgkgoinlgjpfebapkklbmjjgdblm&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;基本上就是一个生活在浏览器里的 Claude Code ，人能干的他都能干。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;轻&lt;/strong&gt; 的意思是所有功能都集成在 &lt;strong&gt;浏览器扩展&lt;/strong&gt; 里，大小不到 5MB ，不需要额外安装东西，你自己配置模型接口&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;舟&lt;/strong&gt; 的意思就是提升你上网冲浪的速度，但你依然能把控船的方向（人能随时介入“自动化上网”过程）&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;轻舟工作现场&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/alibaba/qz-browser-agent/raw/main/docs/images/examples/zh/llm-compare-browser-zh.png&quot;/&gt;&lt;/p&gt;
-&lt;h1&gt;核心设计：&lt;strong&gt;把浏览器和 Coding Agent 杂交一把&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;下表是轻舟从 Coding Agent 上借鉴而来的设计&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Coding Agent&lt;/th&gt;
-&lt;th&gt;轻舟（ qz ）&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;读取代码&lt;/td&gt;
-&lt;td&gt;读取网页结构/提取正文（下图：提取页面表格信息） &lt;img alt=&quot;提取页面表格&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/alibaba/qz-browser-agent/raw/main/docs/images/examples/en/travel-en.png&quot;/&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;运行代码&lt;/td&gt;
-&lt;td&gt;在网页上运行自定义 JS &lt;img alt=&quot;自定义 JS&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://alibaba.github.io/qz-browser-agent/assets/screens/skill-code-zh.png&quot;/&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;多任务 / 子 Agent 并行&lt;/td&gt;
-&lt;td&gt;多任务 / 子 Agent 同时开多个 Tab 干活 &lt;img alt=&quot;多 Agent 运行&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/alibaba/qz-browser-agent/raw/main/docs/images/examples/zh/github-weekly-zh.gif&quot;/&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;支持 Skill&lt;/td&gt;
-&lt;td&gt;支持&lt;strong&gt;能在网页上运行的 Skill&lt;/strong&gt; 比如去 arxiv 搜论文 &lt;img alt=&quot;Skill 复用&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/alibaba/qz-browser-agent/raw/main/docs/images/examples/zh/arxiv-skill-reuse-zh.png&quot;/&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;交付代码系统&lt;/td&gt;
-&lt;td&gt;交付采集&amp;amp;整理好的页面信息 &lt;img alt=&quot;表格&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://alibaba.github.io/qz-browser-agent/assets/screens/gallery-zh.png&quot;/&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;另外，由于轻舟运行在 &lt;strong&gt;你自己的浏览器&lt;/strong&gt;，复用了你的登录态，所以一些难以进入的站点（这里不贴图了），对他来说如入无人之境。&lt;/p&gt;
-&lt;h1&gt;开发者友好性&lt;/h1&gt;
-&lt;p&gt;作为一个老登，我怀念远古时代那些不用登录的软件。&lt;/p&gt;
-&lt;p&gt;比如 foobar2000 ，解压打开就能用，不要注册，不要账号，不会弹窗求你开会员。&lt;/p&gt;
-&lt;p&gt;轻舟也想做成这样：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;不用注册账号&lt;/strong&gt;：装上扩展就能用，没有服务器，会话、Skill 和数据全存在你本地。&lt;strong&gt;所有网络请求只有大模型 API 请求&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;模型自己选&lt;/strong&gt;：填上你自己的 API Key ，DeepSeek 、KIMI 都能接；有 ChatGPT 账号的话，也可以直接用 OpenAI Codex 登录。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;能被别的 Agent 调用&lt;/strong&gt;：提供 CLI 和 MCP （&lt;code&gt;npx skills add alibaba/qz-browser-agent -g&lt;/code&gt;)，下图：PI Coding Agent 操作轻舟采集信息&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;Agent 操作轻舟采集信息&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/alibaba/qz-browser-agent/raw/main/docs/images/examples/zh/pi-delegate-zh.gif&quot;/&gt;&lt;/p&gt;
-&lt;h1&gt;所以，为什么只有 50 Star ？&lt;/h1&gt;
-&lt;p&gt;我自己也想不通，所以来 V2EX 求个答案（以及 Star ，帮我脱离 50 俱乐部 🙏）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;可能原因 1：浏览器 Agent 这个方向本身就是伪需求？未来是 Grok Bot 的（ Maybe ）&lt;/li&gt;
-&lt;li&gt;可能原因 2：个人营销能力太差 🤦 （各位给点意见）&lt;/li&gt;
-&lt;li&gt;可能原因 3：单纯做得烂（个人不觉得！可以试用感受一下）&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <title>最近准备换车，旧车想送给妹妹开，怕老婆不同意，该怎么处理？</title>
+      <link>https://www.v2ex.com/t/1250656</link>
+      <guid>v2ex-1250656</guid>
+      <pubDate>Wed, 21 Oct 2026 07:36:56 GMT</pubDate>
+      <description>旧车是婚前父母买给我的一辆小轿车，最近准备换个 SUV ，旧车估值大概 2 万元，妹妹和我不在一个城市。妹妹上班也需要用车，目前是骑电动车，我想把车给妹妹，但是之前家里因为一些琐事，导致妹妹和老婆的关系不太好，我怕提出这个请求后，老婆不同意。&lt;br /&gt;我本来想拿出私房钱偷偷给妹妹，让我妹转给我老婆，说是想买我们的旧车，但是问了 AI 后，AI 不建议这么搞，让我去坦诚沟通。我也知道老婆不是不讲理的人，我们也结婚多年了，夫妻感情不错，就是老婆和我家里人，主要是我妈和我妹，相处的不太好。&lt;br /&gt;过去没有相处好的原因有很多，大概是：&lt;br /&gt;1.我妈性格强势，且爱搞封建传统那些东西，让我们都得跟着参与，比如上香磕头之类的，我过去也阻拦过，但是也没有完全阻拦成功，年纪大的人很固执。结婚的时候，在婚礼现场也弄得不太愉快。但是最近几年，我妈和我老婆的关系要比之前好一些，也会来我们这帮我们做饭做家务之类的，目前我俩还没有小孩。&lt;br /&gt;2.我没有做好沟通的桥梁，有时候不会传话、不会办事，弄了一些误会。既没有保护好老婆，也没有保护好家里人。&lt;br /&gt;3.我妹有因为我妈和我、我老婆之间的矛盾，打电话来说我，但是被我老婆听到了，我老婆认为我妹不能掺和我们家里的事，我妹认为她只说她哥，没有说她嫂子的意思，而且当时也没注意到嫂子在旁边听到了。这个事当时也闹的不愉快，后来我妹也不会去说我们的事了。&lt;br /&gt;其实我妹平时对我父母付出蛮多的，经常给我妈转钱，比我转的多。而且家里的钱，绝大部分都是花给我结婚、买房了。所以我感觉自己既没有做好一个丈夫的责任，也没有做好一个儿子、哥哥的责任。&lt;br /&gt;最后再补充点背景信息，我老婆和我是不同省份的人，而且我岳父母的经济条件比我们家要好挺多，所以我对我老婆和岳父母都挺感激的，但是我对我妈我妹也很愧疚，感觉自己没处理好。其实在结婚之初，我们双方都对对方是没有什么矛盾或者意见的。&lt;br /&gt;再补充点，我爸比较老实，主要就是在外地上班挣钱，不会怎么参与家里的事。</description>
     </item>
   </channel>
 </rss>
