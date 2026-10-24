@@ -4,31 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 24 Oct 2026 07:28:09 GMT</lastBuildDate>
-    <item>
-      <title>做了个 Mac 小工具，在屏幕边上看 Codex / Claude Code 还剩多少额度</title>
-      <link>https://www.v2ex.com/t/1251299</link>
-      <guid>v2ex-1251299</guid>
-      <pubDate>Fri, 23 Oct 2026 08:02:54 GMT</pubDate>
-      <description>&lt;p&gt;平时 Codex 和 Claude Code 都在用，每次想看还剩多少额度都得点开页面,很不方便.&lt;/p&gt;
-&lt;p&gt;EdgeQuota 贴在 Mac 屏幕边上。Codex 或 Claude Code 开始干活时它自己滑出来，干完自动收起。能看到：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;5 小时额度和每周额度，还剩多少、几点重置&lt;/li&gt;
-&lt;li&gt;正在跑的会话，哪个在等你确认&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Codex 用的是官方 Codex ，Claude 走 Claude Code 自带的状态栏和 hooks 。不要密码，不读浏览器 cookie ，也没有我自己的服务器。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/LgRh9FU.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;几点说明：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;国区 App Store 搜不到&lt;/strong&gt;，目前没上架中国大陆区，要用美区、港区、台区等外区 Apple ID 下载&lt;/li&gt;
-&lt;li&gt;目前支持 Apple 芯片的 Mac ，macOS 13 以上&lt;/li&gt;
-&lt;li&gt;Claude Code 要 2.1.268 以上； Codex 第一次登录要在 ChatGPT 安全设置里打开「设备代码登录」，app 里有指引&lt;/li&gt;
-&lt;li&gt;免费试用 7 天，之后一次买断 $4.99 ，没有订阅&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;App Store： &lt;a href=&quot;https://apps.apple.com/app/apple-store/id6810217203?pt=129430776&amp;amp;ct=v2ex&amp;amp;mt=8&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/apple-store/id6810217203?pt=129430776&amp;amp;ct=v2ex&amp;amp;mt=8&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;送 30 个终身兑换码：需要的话评论区留言就行（外区账号、macOS 15 以上可兑换）。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 12:08:13 GMT</lastBuildDate>
     <item>
       <title>为什么很多人都把 DeepSeek 神化了，看不起国内豆包和其它 LLM？</title>
       <link>https://www.v2ex.com/t/1251402</link>
@@ -61,23 +37,6 @@ DeepSeek：开源了 DeepSeek-V4 、DeepSeek-R1 、DeepSeek-VL 等模型。 &lt;
 </description>
     </item>
     <item>
-      <title>大家在为下一次失业做准备吗</title>
-      <link>https://www.v2ex.com/t/1251287</link>
-      <guid>v2ex-1251287</guid>
-      <pubDate>Fri, 23 Oct 2026 07:37:02 GMT</pubDate>
-      <description>&lt;p&gt;现在的社会经济形式，感觉不知道哪天就失业了，现在找工作基本是按月等消息了&lt;/p&gt;
-&lt;p&gt;网上各种 AI 爆炸的信息，但真问一句自己明天失业了能干什么真不知道&lt;/p&gt;
-&lt;p&gt;大家在为下一次失业做什么准备？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>大龄后端程序员出路讨论</title>
-      <link>https://www.v2ex.com/t/1251316</link>
-      <guid>v2ex-1251316</guid>
-      <pubDate>Fri, 23 Oct 2026 08:44:53 GMT</pubDate>
-      <description>背景：&lt;br /&gt;  35 岁了，从事 Java 后端开发，现在公司每个月来一次裁员。&lt;br /&gt;想咨询下：如果还想再狗几年的话，比较好的思路是啥？&lt;br /&gt;  1 、降薪、进外包&lt;br /&gt;  2 、转行吃经验的岗位：比如 嵌入式工程师（速成以下）&lt;br /&gt;大家觉得呢？ 或者大家觉得嵌入式工程师 是否和我想的一样，能够干久一点？ 一起讨论下把</description>
-    </item>
-    <item>
       <title>用单位电脑开代理，如何逃避后台监测？</title>
       <link>https://www.v2ex.com/t/1251432</link>
       <guid>v2ex-1251432</guid>
@@ -85,19 +44,26 @@ DeepSeek：开源了 DeepSeek-V4 、DeepSeek-R1 、DeepSeek-VL 等模型。 &lt;
       <description>OP 不是公务员，是教育事业单位，电脑网络连着教育局服务端口，那边有网络日志，随时可以倒查&lt;br /&gt;&lt;br /&gt;开了两年多代理查资料用 AI 也没被警告处理。但前段时间突然开始宣传网络安全，特别强调不能翻墙，有点慌了，不怎么敢用了。因为听说朋友公务员单位内部有使用代理被处分的，害怕自己的饭碗也会受影响&lt;br /&gt;&lt;br /&gt;有什么技术手段能够保证不被追踪或者监测吗？实在没有，也让我死心吧。今后用还是会用的，不然实在不方便，被查了再说</description>
     </item>
     <item>
-      <title>来了一个到处搬运帖子起号的用户：@cjkcjkcjk</title>
-      <link>https://www.v2ex.com/t/1251407</link>
-      <guid>v2ex-1251407</guid>
-      <pubDate>Fri, 23 Oct 2026 21:43:10 GMT</pubDate>
-      <description>t/1251383 年轻人的出路在哪里？ 6 小时 48 分钟前&lt;br /&gt;t/1251369 我发现张本智和、张本美和不仅球打得好，人也很有意思 7 小时前&lt;br /&gt;t/1251256 想起了我以前工作的医院的一件事 14 小时 57 分钟前&lt;br /&gt;t/1250785 结婚三年，现在跟我说不生小孩，我该怎么办？求建议  1 天前&lt;br /&gt;t/1250112 不婚不生可行么？怎么养老？ 4 天前&lt;br /&gt;t/1249853 vps 的 IP 送中了能用来给 Claude 做代理么？ 4 天前&lt;br /&gt;t/1249815 怎么改用户名呢？  5 天前</description>
+      <title>月入零到月入百刀，自已没变，外人一直在变。</title>
+      <link>https://www.v2ex.com/t/1251417</link>
+      <guid>v2ex-1251417</guid>
+      <pubDate>Sat, 24 Oct 2026 02:04:08 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;http://relabel.me&quot; rel=&quot;nofollow noopener&quot;&gt;relabel.me&lt;/a&gt; 这个网站三个月破百刀。&lt;a target=&quot;_blank&quot; href=&quot;http://relabel.me&quot; rel=&quot;nofollow noopener&quot;&gt;relabel.me&lt;/a&gt; 这个网站三个月零收入。看到不同的结果，外人的评价总会大变。实际上我们自己，我们要做的事情一直没变。却总被各种片面误解，恶意揣测影响到，有幸坚持下去了当初的人又会马上找补回来。这个网站会模拟各种评价，还能输入新的变化看评论如何反转。坚持不下去了模拟一下爽文男主，被别的言论伤害了可以模拟看到施暴者另一幅嘴脸。总之希望我们可以更好的做自己，做自己坚持想做的事情，没有人真正了解自己，持续去做就好了。</description>
     </item>
     <item>
-      <title>为了不被优化，现在应该学点啥</title>
-      <link>https://www.v2ex.com/t/1251315</link>
-      <guid>v2ex-1251315</guid>
-      <pubDate>Fri, 23 Oct 2026 08:42:05 GMT</pubDate>
-      <description>&lt;p&gt;我在三线城市国企做 app 开发的，本来需求就少，现在业务被别的部门抢了，基本没啥活可干了，最近一年也基本是 AI 写，手工写不了 2 行。
-为了将来不被优化，应该学点啥，感觉 AI 现在不说很智能吧，但是大部分项目它都能写个七七八八，各个岗位将来肯定也是需要有经验丰富的人的，但是可能不需要那么多人了。&lt;/p&gt;
+      <title>Personal Agent 大家平时都拿来干啥？都有啥定时任务？</title>
+      <link>https://www.v2ex.com/t/1251415</link>
+      <guid>v2ex-1251415</guid>
+      <pubDate>Sat, 24 Oct 2026 02:03:53 GMT</pubDate>
+      <description>AI 助理（ Grok Bot 、Dots 、Muse 之类的）也出了一段时间了，确实在某些方面省了点事&lt;br /&gt;但是感觉到最后还是个美丽的小废物，也就是看看邮件，看看活动啥的。。。&lt;br /&gt;有没有真离不开的用法？感觉我做的那些定时任务玩两天就吃灰了</description>
+    </item>
+    <item>
+      <title>Kimi K3.1 Pro 发布, 比 K3 快、性能逼近 Opus，但额度 10 分钟就烧光了</title>
+      <link>https://www.v2ex.com/t/1251425</link>
+      <guid>v2ex-1251425</guid>
+      <pubDate>Sat, 24 Oct 2026 02:32:55 GMT</pubDate>
+      <description>&lt;p&gt;官方公众号: &lt;a href=&quot;https://mp.weixin.qq.com/s/Q6Z-skAUH_na9g37VWbHew&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/Q6Z-skAUH_na9g37VWbHew&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我对 kimi 已经没啥感情了, 额度太不透明了.速度还慢...&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -119,11 +85,114 @@ DeepSeek：开源了 DeepSeek-V4 、DeepSeek-R1 、DeepSeek-VL 等模型。 &lt;
 </description>
     </item>
     <item>
-      <title>月入零到月入百刀，自已没变，外人一直在变。</title>
-      <link>https://www.v2ex.com/t/1251417</link>
-      <guid>v2ex-1251417</guid>
-      <pubDate>Sat, 24 Oct 2026 02:04:08 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;http://relabel.me&quot; rel=&quot;nofollow noopener&quot;&gt;relabel.me&lt;/a&gt; 这个网站三个月破百刀。&lt;a target=&quot;_blank&quot; href=&quot;http://relabel.me&quot; rel=&quot;nofollow noopener&quot;&gt;relabel.me&lt;/a&gt; 这个网站三个月零收入。看到不同的结果，外人的评价总会大变。实际上我们自己，我们要做的事情一直没变。却总被各种片面误解，恶意揣测影响到，有幸坚持下去了当初的人又会马上找补回来。这个网站会模拟各种评价，还能输入新的变化看评论如何反转。坚持不下去了模拟一下爽文男主，被别的言论伤害了可以模拟看到施暴者另一幅嘴脸。总之希望我们可以更好的做自己，做自己坚持想做的事情，没有人真正了解自己，持续去做就好了。</description>
+      <title>来了一个到处搬运帖子起号的用户：@cjkcjkcjk</title>
+      <link>https://www.v2ex.com/t/1251407</link>
+      <guid>v2ex-1251407</guid>
+      <pubDate>Fri, 23 Oct 2026 21:43:10 GMT</pubDate>
+      <description>t/1251383 年轻人的出路在哪里？ 6 小时 48 分钟前&lt;br /&gt;t/1251369 我发现张本智和、张本美和不仅球打得好，人也很有意思 7 小时前&lt;br /&gt;t/1251256 想起了我以前工作的医院的一件事 14 小时 57 分钟前&lt;br /&gt;t/1250785 结婚三年，现在跟我说不生小孩，我该怎么办？求建议  1 天前&lt;br /&gt;t/1250112 不婚不生可行么？怎么养老？ 4 天前&lt;br /&gt;t/1249853 vps 的 IP 送中了能用来给 Claude 做代理么？ 4 天前&lt;br /&gt;t/1249815 怎么改用户名呢？  5 天前</description>
+    </item>
+    <item>
+      <title>国行 iPhone Duo 如何在境内写入境外 eSIM？</title>
+      <link>https://www.v2ex.com/t/1251454</link>
+      <guid>v2ex-1251454</guid>
+      <pubDate>Sat, 24 Oct 2026 04:21:20 GMT</pubDate>
+      <description>&lt;p&gt;如题&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;iPhone Duo 国行&lt;/li&gt;
+&lt;li&gt;iOS 27.0.1&lt;/li&gt;
+&lt;li&gt;中国联通 eSIM 已安装&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1 ，我用 Anygo 把 iPhone Duo 的定位改到了纽约
+2 ，用另一台 iPhone 上的 Tello 美国流量共享热点&lt;/p&gt;
+&lt;p&gt;当在 iPhone Duo 国行上点击添加 eSIM ，会显示“ 请开启定位服务” 但我的定位服务并没有关闭。&lt;/p&gt;
+&lt;p&gt;各位大神 ， 有办法不出境的情况下将境外 eSIM 添加到国行 iPhone 里？&lt;/p&gt;
+&lt;p&gt;请纯技术讨论。谢谢。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>做匿名举报系统，难的不是表单，而是权限模型与动态隔离</title>
+      <link>https://www.v2ex.com/t/1251413</link>
+      <guid>v2ex-1251413</guid>
+      <pubDate>Sat, 24 Oct 2026 01:57:18 GMT</pubDate>
+      <description>&lt;p&gt;刚开始构思匿名举报（ Whistleblowing ）系统时，思路看起来很简单：前端放个表单，后端落库，再做个后台给 HR 或 Auditing 团队看。&lt;/p&gt;
+&lt;p&gt;但真正设计架构时才发现，&amp;lt;textarea&amp;gt; 提交表单是全系统最简单的部分。核心难题全在数据落库之后：动态权限、数据最小化以及无身份通信。&lt;/p&gt;
+&lt;p&gt;总结了我们在实际工程中遇到的几个核心冲突，想和大家探讨一下：&lt;/p&gt;
+&lt;p&gt;1. 利益冲突 vs 静态 RBAC：当 Admin 成为被举报人
+传统的 RBAC 模型通常是：Admin 拥有查看所有数据的权限。
+但在举报场景中，如果员工举报了自己的直属领导，而这位领导正好拥有系统 Admin 权限，直接套用 RBAC 就会立即失效——被举报人能直接在后台看到针对自己的举报。&lt;/p&gt;
+&lt;p&gt;此时权限不能仅依赖 Role ，必须引入上下文/内容感知（ Content-Aware Authorization ）：&lt;/p&gt;
+&lt;p&gt;can_access = has_permission &amp;amp;&amp;amp; !is_involved_in_report(current_user, report_id)&lt;/p&gt;
+&lt;p&gt;伪代码很简单，但落到工程上就会引发一连串边缘问题：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;谁来认定“涉案/关联”？（仅限被举报人，还是包含被提及的证人？）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果调查人员在调查中途被追加为涉案人，如何实时剥离其权限并重新指派？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;当所有默认有权限的人都存在利益冲突时，兜底的访问规则该怎么设计？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2. 匿名不是“不存姓名”，而是数据最小化架构
+很多系统以为不收集 name 字段就是匿名。但常规 Web 栈默认记录了太多数据：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Web Server &amp;amp; Nginx Access Log (IP)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WAF / CDN Payload 留存&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;APM / Analytics (Session ID, User-Agent)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;附件中的 Exif 元数据&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在这种敏感系统里，思考方式必须从“这个数据以后可能有用”转变为“我们能否在架构层面让这个数据根本不存在”。数据最小化（ Data Minimization ）不是法律条款，而是系统设计决策。&lt;/p&gt;
+&lt;p&gt;3. 无账号体系下的“匿名双向通信”
+补充举证（ Follow-up ）是刚需，但举报人没有注册账号，系统不能也不应该知道他是谁。
+这里的解法是将通信上下文绑定到单据本身而非用户：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;提交后生成高熵值的 report_id + access_token&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;举报人凭凭证随时返回查看进度、补充材料&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;调查员面向该 Token 发送消息，双方在不建立 User Identity 的前提下完成加密对话&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;4. 技术实现 vs 用户信任（ UX 细节）
+就算我们在后端删掉了 IP 、加密了数据库、隔离了权限，用户打开页面依然会怀疑：“这真的匿名吗？”&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;抽象的表态：“您的举报完全匿名”（说服力低）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;具象的技术告知：“系统不记录 IP 地址，自动擦除上传文件的元数据，且不保留 Session”（说服力高）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;技术是隐形的，但信任需要被感知。 很多时候基础设施的选择，直接决定了 UX 怎么写。&lt;/p&gt;
+&lt;p&gt;想请教一下大家：
+当权限逻辑严重依赖“当前用户与具体记录内容的关系（如利益冲突避让）”时，大家在项目中更倾向于把这种 Policy 放在哪里？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;应用层逻辑（ Service / Middleware / Policy Layer ）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;数据库层（如 PostgreSQL Row Level Security / RLS ）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;独立的鉴权引擎（如 OpenFGA / OPA / Zanzibar 架构）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;多层分散处理？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
   </channel>
 </rss>
