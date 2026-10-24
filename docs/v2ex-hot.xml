@@ -4,25 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 24 Oct 2026 18:53:04 GMT</lastBuildDate>
-    <item>
-      <title>为什么很多人都把 DeepSeek 神化了，看不起国内豆包和其它 LLM？</title>
-      <link>https://www.v2ex.com/t/1251402</link>
-      <guid>v2ex-1251402</guid>
-      <pubDate>Fri, 23 Oct 2026 18:57:03 GMT</pubDate>
-      <description>&lt;p&gt;我认为 DeepSeek 、MiniMax 、Kimi 、GLM 这些 LLM 公司被严重高估了：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;月活（ MAU ）&lt;/strong&gt;：
-豆包 4.2 亿，千问 1.7 亿，DeepSeek 1.2 亿，智谱 2000 万，Kimi 1000 万；&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;商业化（ ARR ）&lt;/strong&gt;：
-豆包 272 亿，智谱 68 亿、阿里 80 亿、DeepSeek 27-34 亿、Kimi 20 亿；&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;开源贡献&lt;/strong&gt;：
-Qwen：开源了超过 460 个模型，衍生模型超 30 万个，全球下载量破 20 亿次；
-GLM：开源 50 余款模型，GLM-5.2 以 51 分位居全球开源智能指数榜首；
-DeepSeek：开源了 DeepSeek-V4 、DeepSeek-R1 、DeepSeek-VL 等模型。 &lt;/p&gt;
-&lt;p&gt;豆包的战略和 Google 的 Gemini 是很相似。Google 有搜索、有 YouTube 、有 Android ，Gemini 不需要单打独斗；字节有抖音、今日头条、剪映、飞书。字节不仅有全中国最恐怖的流量分发机器，还有花不完的现金流。所以大家都说，Gemimi 是美国大豆包 —— 这说明圈外的普通人真理解不了。&lt;/p&gt;
-&lt;p&gt;DeepSeek 是一家非常厉害的公司，虽然主业是炒股搞量化的。我也偶尔会用 DeepSeek ，但把它捧成国内 AI 唯一的神，这么多国人又开始&lt;strong&gt;造神&lt;/strong&gt;，不仅是对阿里、智谱这些开源和技术的老实人的不公，更是对商业常识的无知。&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 21:18:17 GMT</lastBuildDate>
     <item>
       <title>别说开发了, 这把运维真给干没了把</title>
       <link>https://www.v2ex.com/t/1251410</link>
@@ -161,6 +143,14 @@ DeepSeek：开源了 DeepSeek-V4 、DeepSeek-R1 、DeepSeek-VL 等模型。 &lt;
       <guid>v2ex-1251407</guid>
       <pubDate>Fri, 23 Oct 2026 21:43:10 GMT</pubDate>
       <description>t/1251383 年轻人的出路在哪里？ 6 小时 48 分钟前&lt;br /&gt;t/1251369 我发现张本智和、张本美和不仅球打得好，人也很有意思 7 小时前&lt;br /&gt;t/1251256 想起了我以前工作的医院的一件事 14 小时 57 分钟前&lt;br /&gt;t/1250785 结婚三年，现在跟我说不生小孩，我该怎么办？求建议  1 天前&lt;br /&gt;t/1250112 不婚不生可行么？怎么养老？ 4 天前&lt;br /&gt;t/1249853 vps 的 IP 送中了能用来给 Claude 做代理么？ 4 天前&lt;br /&gt;t/1249815 怎么改用户名呢？  5 天前</description>
+    </item>
+    <item>
+      <title>现在新号订阅是不是必被 KYC</title>
+      <link>https://www.v2ex.com/t/1251445</link>
+      <guid>v2ex-1251445</guid>
+      <pubDate>Sat, 24 Oct 2026 03:51:41 GMT</pubDate>
+      <description>&lt;p&gt;前两天第二个号封了，注册了新号 free tier 可以正常使用，google play 里面想订阅，扣完钱就弹 kyc ，网络环境应该是干净的，出口是日本住宅 IP&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
