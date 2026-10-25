@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 25 Oct 2026 15:13:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:29:07 GMT</lastBuildDate>
     <item>
       <title>Bing 中国大陆搜索是否存在对部分国外网站的刻意降权或隐藏？</title>
       <link>https://www.v2ex.com/t/1251598</link>
@@ -60,6 +60,13 @@
 </description>
     </item>
     <item>
+      <title>有没有感觉 Codex 越来越比不上 Claude 了</title>
+      <link>https://www.v2ex.com/t/1251671</link>
+      <guid>v2ex-1251671</guid>
+      <pubDate>Sun, 25 Oct 2026 10:40:51 GMT</pubDate>
+      <description>有没有感觉 Codex 越来越比不上 Claude 了</description>
+    </item>
+    <item>
       <title>搓了一个“V2EX 评论上下文”的 chrome 插件，方便 V 友阅读评论</title>
       <link>https://www.v2ex.com/t/1251601</link>
       <guid>v2ex-1251601</guid>
@@ -106,6 +113,14 @@
 &lt;p&gt;&lt;img alt=&quot;showcase_copybook_sim.jpg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://fastly.jsdelivr.net/gh/dvbs2000/liuchunlin-shufa@main/docs/gallery/showcase_copybook_sim.jpg&quot;/&gt;&lt;/p&gt;
 &lt;h3&gt;9. 二维码印章演示&lt;/h3&gt;
 &lt;p&gt;&lt;img alt=&quot;showcase_qr_seal_demo.jpg&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://fastly.jsdelivr.net/gh/dvbs2000/liuchunlin-shufa@main/docs/gallery/showcase_qr_seal_demo.jpg&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>微信是怎么屏蔽 codex 的</title>
+      <link>https://www.v2ex.com/t/1251624</link>
+      <guid>v2ex-1251624</guid>
+      <pubDate>Sun, 25 Oct 2026 04:55:14 GMT</pubDate>
+      <description>&lt;p&gt;微信是怎么屏蔽 codex 的，理论上 codex 是通过图形界面操作微信的，模仿人类的吧. 现在只要我让 codex 操作微信，微信就自动退出，让我重新登录。&lt;/p&gt;
 </description>
     </item>
   </channel>
