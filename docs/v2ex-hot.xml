@@ -4,86 +4,163 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 26 Oct 2026 01:24:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:32:55 GMT</lastBuildDate>
     <item>
-      <title>有没有发现一个奇怪的现象？</title>
-      <link>https://www.v2ex.com/t/1251636</link>
-      <guid>v2ex-1251636</guid>
-      <pubDate>Sun, 25 Oct 2026 06:57:32 GMT</pubDate>
-      <description>我发现一个很奇怪，但也很有意思的现象。&lt;br /&gt;&lt;br /&gt;如果做一个 app ，开源免费发布出来，唉，不一定有多少人用。&lt;br /&gt;&lt;br /&gt;但是你说收费，然后发码，那就会有很多人要。&lt;br /&gt;&lt;br /&gt;挺奇怪的逻辑, 特别在 V2 上，我见过很多这样的。&lt;br /&gt;&lt;br /&gt;（当然，我说的这种 case 也不是绝对的&lt;br /&gt;&lt;br /&gt;有没有人愿意分析一下这是什么心理呢？ &lt;br /&gt;如果是开源免费的 App ，（ AI Slop 除外），应该怎么样来运营呢？</description>
-    </item>
-    <item>
-      <title>Bing 中国大陆搜索是否存在对部分国外网站的刻意降权或隐藏？</title>
-      <link>https://www.v2ex.com/t/1251598</link>
-      <guid>v2ex-1251598</guid>
-      <pubDate>Sun, 25 Oct 2026 01:48:36 GMT</pubDate>
-      <description>&lt;p&gt;最近发现一个非常奇怪的现象。&lt;/p&gt;
-&lt;p&gt;在中国大陆使用 Bing 搜索时，输入一些知名国外网站的名称或域名，例如：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;themoviedb&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;google&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;youtube&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;telegram&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;&lt;a href=&quot;http://x.com&quot; rel=&quot;nofollow&quot;&gt;x.com&lt;/a&gt;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;openai&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Bing 似乎不会优先展示这些网站的官方网站，甚至在搜索结果前几页都找不到官网入口，反而推荐各种第三方网站、教程、镜像站或无关页面。&lt;/p&gt;
-&lt;p&gt;以 The Movie Database （ TMDB ）为例&lt;/p&gt;
-&lt;p&gt;在 Bing 搜索 &lt;code&gt;themoviedb&lt;/code&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;第一条结果：&lt;code&gt;https://tmdb-pearl.vercel.app&lt;/code&gt;，一个部署在 Vercel 上的第三方项目。&lt;/li&gt;
-&lt;li&gt;第二条结果：&lt;code&gt;&lt;a href=&quot;https://themoviesdb.org&quot; rel=&quot;nofollow&quot;&gt;https://themoviesdb.org&lt;/a&gt;&lt;/code&gt;，一个域名与官方网站非常相似的网站。&lt;/li&gt;
-&lt;li&gt;官方网站：&lt;code&gt;&lt;a href=&quot;https://www.themoviedb.org&quot; rel=&quot;nofollow&quot;&gt;https://www.themoviedb.org&lt;/a&gt;&lt;/code&gt;，在截图所示的结果中完全没有出现。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;而在 Google 搜索同样的关键词，第一条就是 TMDB 官方网站。&lt;/p&gt;
-&lt;p&gt;更奇怪的是，TMDB 并没有被墙&lt;/p&gt;
-&lt;p&gt;Google 、YouTube 、Telegram 、X 、OpenAI 等网站在中国大陆存在访问限制。&lt;/p&gt;
-&lt;p&gt;但 &lt;strong&gt;&lt;a href=&quot;http://themoviedb.org&quot; rel=&quot;nofollow&quot;&gt;themoviedb.org&lt;/a&gt; 经过我实际测试，在国内可以正常访问，并没有被墙。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;也就是说，这是一个可以正常访问、知名度也不低的影视数据库网站，但 Bing 却连它的官方网站都没有优先展示。&lt;/p&gt;
+      <title>偶然和一个在药店工作的女生聊了聊，震惊于药店的黑心，写了个总结，和大家分享一下</title>
+      <link>https://www.v2ex.com/t/1251749</link>
+      <guid>v2ex-1251749</guid>
+      <pubDate>Mon, 26 Oct 2026 01:03:15 GMT</pubDate>
+      <description>&lt;p&gt;陪朋友去猫咖遇到了一个挺可爱的女生，聊了聊，她是在药店打工，说了些不算内幕的内幕，&lt;/p&gt;
+&lt;p&gt;其实一直有感觉药店很贵，价格翻 2-5 倍也是众所周知了，但最黑心的居然还不是价格。&lt;/p&gt;
+&lt;p&gt;先叠甲：下面内容是闲聊内容的总结，仅供参考，不构成医疗建议，纯手打&lt;/p&gt;
+&lt;h2&gt;1 、感冒药&lt;/h2&gt;
+&lt;p&gt;溢价的重灾区就是各种感冒药，感冒灵、复方氨酚烷胺（感康）、退烧止咳这种把功效写在名字里的，&lt;/p&gt;
+&lt;p&gt;其中感冒灵和感康这类复方，是中药+对乙酰氨基酚+扑尔敏+咖啡因，这种其实算好的，喝下去至少有有效成分，缺点一是溢价高，二是会摄入不需要的成分，增加肝肾负担，&lt;/p&gt;
+&lt;p&gt;中成药的利润最高，也是店员最喜欢拿的，效果见仁见智不多点评。&lt;/p&gt;
+&lt;h4&gt;正确做法：&lt;/h4&gt;
+&lt;p&gt;发热头痛考虑对&lt;strong&gt;乙酰氨基酚&lt;/strong&gt;或者&lt;strong&gt;布洛芬&lt;/strong&gt;就行，其它感冒药生效的实际上一般就是对乙酰氨基酚，鼻塞用生理盐水喷雾。&lt;/p&gt;
+&lt;h4&gt;为什么店员不拿：&lt;/h4&gt;
+&lt;p&gt;第一当然是利润高有钱赚，真拿对乙酰氨基酚东北制药，20 块能买 400 片，布洛芬 10 块钱 100 片，没提成，&lt;/p&gt;
+&lt;p&gt;第二就算真的给人拿，其实人家也不愿意要，觉得副作用大、是化学成分、太便宜不敢吃，反而你给人家搞一个贵的、把功效写在名字上的、包装好看的，人家拿得开心，自己又有钱赚，大家都开心嘛。&lt;/p&gt;
+&lt;h3&gt;2 、维生素 C 、B 、D&lt;/h3&gt;
+&lt;p&gt;如果有人要维生素 C ，肯定优先推保健品甚至是食字号 VC ，包装好看，味道好吃，一盒一两百，至于 vc 含量别问，&lt;/p&gt;
+&lt;p&gt;实际上 otc 小白瓶 2-5 块 100 片，标准更严。&lt;/p&gt;
+&lt;h4&gt;为啥不拿：&lt;/h4&gt;
+&lt;p&gt;跟前面类似，1 、没钱 2 、便宜的效果不好 3 、别人觉得这是药，药不敢乱吃，保健品可以自己吃&lt;/p&gt;
+&lt;p&gt;后面不再赘述&lt;/p&gt;
+&lt;h3&gt;3 、胃不舒服：各种 xx 消食、xx 通&lt;/h3&gt;
+&lt;p&gt;健胃消食片纯中药成分，效果见仁见智，药店价格略贵，&lt;/p&gt;
+&lt;p&gt;但店里还有盗版健胃消食片！外包装看上去和江中牌特别像，别人说要健胃消食片，你不仔细看就给你拿盗版的，提成更高，有时候店员自己也不想拿，但连锁店是会有任务的&lt;/p&gt;
+&lt;p&gt;当然不止健胃消食片，其它也一样，最优先拿的肯定提成最高的，有效期快到的，&lt;/p&gt;
+&lt;p&gt;其实想想也正常，药店绝对不可能把日期最新的放最外面的，&lt;/p&gt;
+&lt;p&gt;排毒、清肠之类的，那都顶级摇钱树。尤其是再叫什么茶的话就更好卖了。&lt;/p&gt;
+&lt;h4&gt;实际上有用的：&lt;/h4&gt;
+&lt;p&gt;吃撑了不消化：复方消化酶、多酶片（一样是 6 块 100 片的超高性价比玩意，直接补充消化酶），&lt;/p&gt;
+&lt;p&gt;拉肚子：口服补液盐 III 、蒙脱石散&lt;/p&gt;
+&lt;p&gt;胃反酸烧心：铝碳酸镁&lt;/p&gt;
+&lt;h3&gt;4 、xx 皮炎膏、x 癣净、本草 xxx 之类治皮肤的&lt;/h3&gt;
+&lt;p&gt;身上痒很容易被推荐的，这些玩意甚至不是药，打的是“械字号”和“消字号”，&lt;/p&gt;
+&lt;p&gt;或者还有另一种，那就是极其有效，下料极其猛，&lt;/p&gt;
+&lt;p&gt;提成很高，只要名字起的好，人也愿意买。&lt;/p&gt;
+&lt;h3&gt;5 、其它的一些有效但变贵的&lt;/h3&gt;
+&lt;p&gt;比方说同一款药，降压药、阿莫西林，老厂牌的提成低，会说没货了，然后拿另外一个更贵牌子，&lt;/p&gt;
+&lt;p&gt;这种也有效，成分也一样，只是牌子不一样多花钱，&lt;/p&gt;
+&lt;p&gt;不急用可以上网买，急用可以上外卖点。统一话术是“外卖平台有补贴。”&lt;/p&gt;
+&lt;h2&gt;其他忘了，随便写写&lt;/h2&gt;
+&lt;p&gt;她说其实自己有时候心里也过不去，但没办法，要讨生活嘛，一是提成，药店把基础工资给很低，逼迫店员卖高提成药，二是连锁药店也会直接派任务。&lt;/p&gt;
+&lt;p&gt;话术都是药代教的，很多自己也不懂，&lt;/p&gt;
+&lt;p&gt;但是反过来想，其实有一部分人需求就是这样，比方说一个老人，你要跟他说别拿“清热解毒颗粒”，吃“对乙酰氨基酚”吗？&lt;/p&gt;
+&lt;p&gt;一些老人身体没什么毛病，就觉得不舒服要买点药“调理调理”“通通血管”，这种不可能给他拿药，而且人家还会觉得贵的好，便宜不愿意要，大几百买回去，还能起到一些安慰剂效应。&lt;/p&gt;
+&lt;p&gt;说起安慰剂效应，我以前一直以为“安慰剂效应”是没用的意思，才知道原来安慰剂效应是真的有疗效，就是说“能产生可测量到的生理变化”。&lt;/p&gt;
+&lt;p&gt;就这些，不是什么很专业的内容，分享一下，说到底还是希望身体健康最好。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>有件事我搞不明白， V 站为何不升级一下交互和 UI？然后出一个官方的 APP？</title>
-      <link>https://www.v2ex.com/t/1251696</link>
-      <guid>v2ex-1251696</guid>
-      <pubDate>Sun, 25 Oct 2026 14:02:39 GMT</pubDate>
-      <description>好多 V 友都做过针对 V 站优化，有做油猴脚本的，chrome 插件的，有做 APP 的，各式各样，光我见过的不下 10 个了，说明大家对这个有需求的。&lt;br /&gt;既然有需求为何 V 站不自己去做呢？&lt;br /&gt;实在搞不懂，让 AI 来一梭子分分钟的事情。</description>
-    </item>
-    <item>
-      <title>有没有感觉 Codex 越来越比不上 Claude 了</title>
-      <link>https://www.v2ex.com/t/1251671</link>
-      <guid>v2ex-1251671</guid>
-      <pubDate>Sun, 25 Oct 2026 10:40:51 GMT</pubDate>
-      <description>有没有感觉 Codex 越来越比不上 Claude 了</description>
-    </item>
-    <item>
-      <title>[Day 20] - 10.25 - Tibo 又要重置了</title>
-      <link>https://www.v2ex.com/t/1251616</link>
-      <guid>v2ex-1251616</guid>
-      <pubDate>Sun, 25 Oct 2026 03:44:52 GMT</pubDate>
-      <description>&lt;p&gt;下午 3 点前
-&lt;a href=&quot;https://codex-reset.com/zh/#signals&quot; rel=&quot;nofollow&quot;&gt;https://codex-reset.com/zh/#signals&lt;/a&gt;&lt;/p&gt;
+      <title>创业一年了，还活着</title>
+      <link>https://www.v2ex.com/t/1251768</link>
+      <guid>v2ex-1251768</guid>
+      <pubDate>Mon, 26 Oct 2026 01:32:58 GMT</pubDate>
+      <description>&lt;p&gt;去年有了创业的想法，&lt;a href=&quot;https://www.v2ex.com/t/1121404#reply115&quot; rel=&quot;nofollow&quot;&gt;说好一年后说说后续&lt;/a&gt;，后续这就来了&lt;/p&gt;
+&lt;p&gt;这一年多发生的事情太多了，感觉一直在出现问题解决问题，但是好像也没沉淀下来什么，那就在这记一下，也跟大家分享一下吧。&lt;/p&gt;
+&lt;h2&gt;业绩&lt;/h2&gt;
+&lt;p&gt;很多人最想找到的是有没有赚钱？那就先给大家看看真实的数据（&lt;del&gt;商业机密&lt;/del&gt;）&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-plain&quot;&gt;实际开售：2025 年 8 月，至今 14 个月
+
+实际投入：14w （旧店 12w ，新店 2w ）
+
+累计支出：49w （采购、物流、工资等）
+
+累计销量：6k+
+
+累计销售额：76w （人民币，按当前汇率折算）
+
+综合毛利率：约 20%
+
+粗算利润在 15w 左右
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;总的来说目前还没基本盈利，现在每个月利润基本只够用来发工资&lt;/p&gt;
+&lt;p&gt;在开始做的时候定了个三个半年计划，现在想想还是太天真了😂😂😂&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-plain&quot;&gt;第一个半年(25 年下半年)，两个店铺，6w
+
+第二个半年(26 年上半年)，两个店铺，15w
+
+第三个半年(26 年下半年)，四个店铺，50w
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;后面的内容有点乱大伙凑合看看&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;从 0 到 1&lt;/h2&gt;
+&lt;p&gt;做了一年多，简单总结一下亚马逊开店的基本流程：&lt;/p&gt;
+&lt;p&gt;注册公司 → 注册店铺 → 市场调研 → 选品 → 利润核算 → 找供应商 → 打样 → 创建 Listing → 采购生产 → 物流发货 → 商品开售 → 广告推广 → 日常运营&lt;/p&gt;
+&lt;p&gt;看起来就这么十几个步骤，但实际每个环节都能踩不少坑。&lt;/p&gt;
+&lt;p&gt;比如第一批货就被货代坑了，运输了整整三个月，原本计划的开售时间直接推迟。&lt;/p&gt;
+&lt;p&gt;选品也是我们一直没解决好的问题，没有成熟的选品逻辑，效率很低。&lt;/p&gt;
+&lt;p&gt;至于 Listing 的图片和文案，现在基本可以借助 AI 完成，省了不少成本，但也得注意图片真实性和平台合规。&lt;/p&gt;
+&lt;p&gt;采购、物流、广告这些环节也远没有想象中简单，很多时候只能一边做一边学。&lt;/p&gt;
+&lt;h2&gt;变化&lt;/h2&gt;
+&lt;p&gt;我女朋友今年初开始全职运营我们店铺，同时再申请了一个店铺（原计划今年有四个店）&lt;/p&gt;
+&lt;p&gt;我觉得一切都可能会想计划的一样，业绩逐渐增长，有一两个爆品之类的&lt;/p&gt;
+&lt;p&gt;然后开新店，业绩再增长，以此类推，然后我就不用当码农了，哈哈&lt;/p&gt;
+&lt;p&gt;但就像上面业绩看到的一样，打脸了&lt;/p&gt;
+&lt;h3&gt;从兼职到全职&lt;/h3&gt;
+&lt;p&gt;女朋友全职后每个月给她开 1w 工资（她原工资 12w 左右），居家办公，有很多时间和精力来管理店铺，业绩确实也有连续几个月小幅增长，不过还是不达预期&lt;/p&gt;
+&lt;p&gt;看似逐渐步入正轨，其实是一路都走在悬崖边上&lt;/p&gt;
+&lt;p&gt;女朋友全职前躲躲藏藏生怕被公司发现，我们也因为感情闹过很多次矛盾，不过这都走过来了&lt;/p&gt;
+&lt;p&gt;这是她的原话：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;当初想象的是：开店 → 稳步涨业绩 → 开新店 → 走向小康。
+
+现实剧本却是：踩坑 → 业绩过山车 → 税务突发问题 → 心态反复崩盘，计划被现实按在地上反复打脸😂。 
+
+居家创业，生活和工作完全混在一起，焦虑是家常便饭，
+
+也有无数次想放弃打工跑路，家人亲戚都看着我每天可以在家上班，觉得我很潇洒很羡慕，
+
+但是其实只有我心里知道，这无形的压力一直环绕折着我，
+
+其实我有时候也还在探索我究竟还适不适合在家办公哈哈
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;现在基本是我负责大方向和一些重要决策，她负责日常运营和具体执行。&lt;/p&gt;
+&lt;p&gt;但这种分工其实也有问题，很多事情最后还是要两个人一起商量。她有时候也会怀疑自己到底适不适合做这件事。&lt;/p&gt;
+&lt;p&gt;说实话，创业带来的压力远比当初想象的大，尤其是两个人既是情侣（现在是夫妻），又是创业搭档，工作和生活很难完全分开。&lt;/p&gt;
+&lt;h3&gt;从女朋友到老婆&lt;/h3&gt;
+&lt;p&gt;这个月初，我们结婚了。&lt;/p&gt;
+&lt;p&gt;去年发帖的时候，不少老哥建议我俩把合作协议签一下，当时也想着弄，一直拖着没落实。&lt;/p&gt;
+&lt;p&gt;没想到协议还没签，结婚证倒是先领了，哈哈。&lt;/p&gt;
+&lt;p&gt;不过店铺的财务和分工这些事情，后面还是得慢慢规范起来。&lt;/p&gt;
+&lt;h2&gt;越来越难做&lt;/h2&gt;
+&lt;p&gt;之前的贴上我提到了税号的问题，后面我们是买了本土的税号，这样就不用扣税了&lt;/p&gt;
+&lt;p&gt;去年年底墨西哥对本土税号也要扣接近 10% 的税&lt;/p&gt;
+&lt;p&gt;10 月旧店被抽查到税号，没搞定的话要扣 36%的税，现在还在处理&lt;/p&gt;
+&lt;p&gt;以至于我一个做墨西哥的朋友基本是在清货状态了&lt;/p&gt;
+&lt;p&gt;这样印证了我常说的一句话，现在能赚的钱未来不一定能赚到  &lt;/p&gt;
+&lt;p&gt;近两个月旧店业绩下滑严重，新店一直没起量。据我了解一定程度是受到了 TK 的影响&lt;/p&gt;
+&lt;h2&gt;目前的问题&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;旧店税号验证被抽查到&lt;/li&gt;
+&lt;li&gt;旧店销量下跌严重，新店一直没起色&lt;/li&gt;
+&lt;li&gt;旧店有一个链接违规，申述无效&lt;/li&gt;
+&lt;li&gt;选品太慢&lt;/li&gt;
+&lt;li&gt;最近墨西哥汇率暴跌，现在都不敢兑换人民币&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;现在还是不适合做？&lt;/h2&gt;
+&lt;p&gt;能明显感觉这几年官媒和自体都在宣传出海外贸跨境电商，深圳北站走廊都是跨境服务商的公告，身边做这个行和想接触这一行的人越来越多，但是能赚到钱的还是少数。&lt;/p&gt;
+&lt;p&gt;对于新人是否值得去做，还是跟我之前的想法一样&lt;/p&gt;
+&lt;p&gt;如果你现在还有一份还不错的工作千万别辞职去做。&lt;/p&gt;
+&lt;p&gt;如果你有认识的朋友对这一行有一定的了解可以跟他合伙或者让他带你去做。&lt;/p&gt;
+&lt;p&gt;如果你没有做好折腾了一年还赔本的觉悟就不要做。&lt;/p&gt;
+&lt;br/&gt;
+但如果现在还给自己选一次的话还是会决定去做吧。
+&lt;p&gt;最近有个做 TK 的念头，不过现在兼职的情况应该是没办法做的，后面再看看吧&lt;/p&gt;
+&lt;h2&gt;END&lt;/h2&gt;
+&lt;p&gt;我也不确定这条路能做多久，能不能赚到钱，既然还活着还路上就努力做好吧&lt;/p&gt;
+&lt;p&gt;前段时间有个梗，程序员的路线，我正走在跨境电商的路上，后面也可能会走独立开发，也不知道要多久才去铁人三项😂😂😂&lt;/p&gt;
+&lt;p&gt;祝愿各位有数不完的 money&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>有什么工具可以测试鼠标的微动是否有问题</title>
-      <link>https://www.v2ex.com/t/1251609</link>
-      <guid>v2ex-1251609</guid>
-      <pubDate>Sun, 25 Oct 2026 02:59:28 GMT</pubDate>
-      <description>&lt;p&gt;请问各位大神，有什么工具可以测试鼠标的微动是否有问题？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>搓了一个“V2EX 评论上下文”的 chrome 插件，方便 V 友阅读评论</title>
-      <link>https://www.v2ex.com/t/1251601</link>
-      <guid>v2ex-1251601</guid>
-      <pubDate>Sun, 25 Oct 2026 01:59:03 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;v2ex 评论区楼层引用信息自动展示插件&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://www.mdview.cn/static/other/screenshot_marked.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;作用是，根据评论中的 #17 ，或者 @&lt;a href=&quot;/member/xxx&quot;&gt;xxx&lt;/a&gt; ，或者“十七楼”，这样的信息，找到最近的一条回复，自动在当前这条评论上方展示。&lt;/p&gt;
-&lt;p&gt;刚刚已上架到 chrome 应用商店，搜索 “V2EX 评论上下文” 即可。
-插件免费开源 &lt;a href=&quot;https://github.com/mdview2026/v2ex-comment-context&quot; rel=&quot;nofollow&quot;&gt;https://github.com/mdview2026/v2ex-comment-context&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;解决了我自己遇到的一个痛点。如果对你也有用，就更好了。&lt;/p&gt;
-</description>
+      <title>大家有没有好看的电视剧推荐，最近出的，经典的都行</title>
+      <link>https://www.v2ex.com/t/1251787</link>
+      <guid>v2ex-1251787</guid>
+      <pubDate>Mon, 26 Oct 2026 01:59:30 GMT</pubDate>
+      <description>我先来几个抛砖引玉，《毛骗》《端脑 真人版》《大秦帝国 裂变 纵横 崛起》</description>
     </item>
     <item>
       <title>股灾来了就开个银河买纳指或者红利低波 ETF 吧，“万 1 免 5”股票基金免 5 大笑脸开户</title>
@@ -93,11 +170,67 @@
       <description>股灾来了最近大家还是少操作吧，买买 etf 或者纳指就行，胆子大的可以抄底，哈哈&lt;br /&gt;这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+&lt;br /&gt;⚠️回帖即可参与抽奖！&lt;br /&gt;⚠️大笑脸开户，股票基金 etf 最低费率，etf 低至“万 0.5 免五”，欢迎来开！&lt;br /&gt;⚠️大笑脸开户推荐：&lt;br /&gt;YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利，逆回购 1 折，新手必备]&lt;br /&gt;GF 证券：ETF 万 0.5 免 5 [ETF 费率低]&lt;br /&gt;CC 证券： 万 1 免 5  [低门槛股票 etf 双免 5]&lt;br /&gt;GTHT 证券：万 0.8 免 5  [头部龙头券商，综合费率最低]&lt;br /&gt;DB 证券： 万 0.741 免 5 [国企券商，股票 etf 费率都很低]&lt;br /&gt;GX 证券： 万 0.851 免 5 [头部龙头券商，综合费率也很低]&lt;br /&gt;&lt;br /&gt;⚠️大笑脸联系方式和最新券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;http://www.daxiaolian.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.daxiaolian.com&lt;/a&gt;&lt;br /&gt;备用链接 &lt;a target=&quot;_blank&quot; href=&quot;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&quot; rel=&quot;nofollow noopener&quot;&gt;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&lt;/a&gt;&lt;br /&gt;备用联系方式 Z2FveWEyNTAw&lt;br /&gt;ZHhnODg0NA==</description>
     </item>
     <item>
-      <title>我做了一个我自认为全世界最好的雅思背词网站，完全免费，完全开源。🔥🔥🔥🔥🔥</title>
-      <link>https://www.v2ex.com/t/1251691</link>
-      <guid>v2ex-1251691</guid>
-      <pubDate>Sun, 25 Oct 2026 12:58:16 GMT</pubDate>
-      <description>我做了一个我自认为全世界最好的雅思背词网站，完全免费，完全开源。🔥🔥🔥🔥🔥&lt;br /&gt;&lt;br /&gt;7,298 个雅思词，每个词一幅原创插画，英音、美音、例句全都有接近真人的配音。学会一个词，你的词汇星图上就点亮一颗星。&lt;br /&gt;&lt;br /&gt;完全免费！！不用注册，打开就能背，代码和词库大家随便用。&lt;br /&gt;&lt;br /&gt;希望每个人都能考过雅思。学会英语，去接触更广阔的天地，获取更多的知识。&lt;br /&gt;&lt;br /&gt;👉 &lt;a target=&quot;_blank&quot; href=&quot;http://0xlei.tech/words&quot; rel=&quot;nofollow noopener&quot;&gt;http://0xlei.tech/words&lt;/a&gt;&lt;br /&gt;开源： &lt;a target=&quot;_blank&quot; href=&quot;http://github.com/designfuchen/word-atlas&quot; rel=&quot;nofollow noopener&quot;&gt;http://github.com/designfuchen/word-atlas&lt;/a&gt;</description>
+      <title>有件事我搞不明白， V 站为何不升级一下交互和 UI？然后出一个官方的 APP？</title>
+      <link>https://www.v2ex.com/t/1251696</link>
+      <guid>v2ex-1251696</guid>
+      <pubDate>Sun, 25 Oct 2026 14:02:39 GMT</pubDate>
+      <description>好多 V 友都做过针对 V 站优化，有做油猴脚本的，chrome 插件的，有做 APP 的，各式各样，光我见过的不下 10 个了，说明大家对这个有需求的。&lt;br /&gt;既然有需求为何 V 站不自己去做呢？&lt;br /&gt;实在搞不懂，让 AI 来一梭子分分钟的事情。</description>
+    </item>
+    <item>
+      <title>国产《长虹》安卓电视机 不支持开通 ADB</title>
+      <link>https://www.v2ex.com/t/1251745</link>
+      <guid>v2ex-1251745</guid>
+      <pubDate>Mon, 26 Oct 2026 00:56:18 GMT</pubDate>
+      <description>&lt;p&gt;国产 CHANGHONG Android TV 全是坑。
+遥控器控制起来卡卡的，给的桌面全是广告，我想换成 Emotn UI 桌面，不想要 CHLauncher ，怎么都关不掉，还不支持开通 ADB ，一个周末给我整麻了，客服不行，投诉不行，完全不给 ADB 权限。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.网上的方法目前都看了，工厂模式 0816 隐藏了 ADB 。&lt;/li&gt;
+&lt;li&gt;2.打开了开发者模式内是空的没内容展示&lt;/li&gt;
+&lt;li&gt;3.配合 Gemini 4 Argon 写了一套 apk ，安装运行后尝试激活 adb ，均以失败告终，最后 AI 无奈了，推荐买电视盒子，电视机当屏幕用。&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;研究结束 告辞！&lt;/h2&gt;
+&lt;p&gt;哪位大佬有办法还原补充！万分感谢&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>双十一撸了一个微波炉，有什么好的食谱或者怎么用好它呢</title>
+      <link>https://www.v2ex.com/t/1251740</link>
+      <guid>v2ex-1251740</guid>
+      <pubDate>Mon, 26 Oct 2026 00:44:46 GMT</pubDate>
+      <description>&lt;p&gt;撸了个格兰仕最经典的微波炉，200 块买的，你们都爱用它来干啥呀，我打算用来热东西，还有用来叮粗粮，红薯，玉米之类
+我想向各位 V 友请教下还有啥食谱么，或者你们经常用来做啥用的，我要增加它的复用率。第一次用微波炉哈&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Mac mini M6 价格彻底崩了</title>
+      <link>https://www.v2ex.com/t/1251751</link>
+      <guid>v2ex-1251751</guid>
+      <pubDate>Mon, 26 Oct 2026 01:10:37 GMT</pubDate>
+      <description>&lt;p&gt;pdd 价格 4299
+jd 官旗 4800
+可以选择入手吗？还是等等党？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>反思了下，原来我是个黄毛</title>
+      <link>https://www.v2ex.com/t/1251781</link>
+      <guid>v2ex-1251781</guid>
+      <pubDate>Mon, 26 Oct 2026 01:49:20 GMT</pubDate>
+      <description>&lt;p&gt;说黄毛可能还不太合适，应该说是个&lt;del&gt;精神小伙&lt;/del&gt;，精神中伙&lt;br/&gt;
+以前一直以为自己是学习型人格，长得也像老老实实只知道学习的闷男&lt;br/&gt;
+这两天反思了一下，总结了一下，对比一下特征，原来以前都高估了自己&lt;br/&gt;
+黄毛竟是我自己？？？&lt;br/&gt;
+这我真的没想到，中年发现自己是个黄毛，可悲，可叹！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>有没有感觉 Codex 越来越比不上 Claude 了</title>
+      <link>https://www.v2ex.com/t/1251671</link>
+      <guid>v2ex-1251671</guid>
+      <pubDate>Sun, 25 Oct 2026 10:40:51 GMT</pubDate>
+      <description>有没有感觉 Codex 越来越比不上 Claude 了</description>
     </item>
   </channel>
 </rss>
