@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 27 Oct 2026 08:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:44:03 GMT</lastBuildDate>
     <item>
       <title>深夜求助，物业只提前 1 小时通知停电，导致我家里电脑坏了</title>
       <link>https://www.v2ex.com/t/1252074</link>
@@ -24,46 +24,6 @@
       <guid>v2ex-1252085</guid>
       <pubDate>Tue, 27 Oct 2026 00:24:27 GMT</pubDate>
       <description>我现在都是喝网上买的冰露, 寄过来的平均一瓶 550 毫升 5 毛/6 毛.&lt;br /&gt;因为城中村的水烧开都一股铁锈味, AI 都不建议喝也不敢喝.&lt;br /&gt;想问下大家平常是自己烧自来水多? 还是买瓶装水/桶装水? 还是家里装净水器? 还是自己运山泉水? 还有什么便宜的渠道吗? 谢谢.</description>
-    </item>
-    <item>
-      <title>坠机日，大妈和瓦工 3 台机器都阵亡了</title>
-      <link>https://www.v2ex.com/t/1251991</link>
-      <guid>v2ex-1251991</guid>
-      <pubDate>Mon, 26 Oct 2026 09:54:24 GMT</pubDate>
-      <description>&lt;p&gt;下午还在用 claude 干活儿，突然会话就显示 Server error 了，第一反应是被封号了，结果一开网页发现节点全部红了，除了一个冷门机房节点活着，其他都是端口被封了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>iPhone Duo 有感</title>
-      <link>https://www.v2ex.com/t/1252088</link>
-      <guid>v2ex-1252088</guid>
-      <pubDate>Tue, 27 Oct 2026 00:31:17 GMT</pubDate>
-      <description>&lt;p&gt;这次 iPhone Duo 是苹果有史以来最不负责任的一代机器，已经这样了，依旧是一群用户维护它&lt;/p&gt;
-&lt;p&gt;早期我也是苹果的用户，手机电脑平板手表，后面只有电脑是苹果的产品，不过下一代我不会再买苹果的电脑了&lt;/p&gt;
-&lt;p&gt;iPhone Duo 连自己 APP 都没适应，这是让人万万没想到的，就连影视飓风提前拿到机器的博主都没有说，真的让人虎躯一震，这还是苹果的产品吗&lt;/p&gt;
-&lt;p&gt;它卖的贵不是它的问题，是我的问题&lt;/p&gt;
-&lt;p&gt;其次 &quot;苹果的产品喷不得，国产的产品使劲喷&quot; 和 &quot;苹果的使劲喷，国产的产品喷不得&quot;的那些人真是魔怔人，有问题改进就好，还没必要这么维护，这只是一部手机。&lt;/p&gt;
-&lt;p&gt;最后，你说的都对，我无意跟你争论，iPhone Duo 已经伤透了一批老用户的期待。祝苹果好运。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>你们是如何和岳父岳母相处的</title>
-      <link>https://www.v2ex.com/t/1251970</link>
-      <guid>v2ex-1251970</guid>
-      <pubDate>Mon, 26 Oct 2026 08:59:45 GMT</pubDate>
-      <description>&lt;p&gt;一些纲常问题&lt;/p&gt;
-&lt;p&gt;现在岳父母给我老婆大哥带小孩，住的离我们买的房子比较近，但是也有个 20 分钟左右的路程，每周都可以选择回去蹭顿饭，然后回来，而家里目前就我和我老婆两个住。&lt;/p&gt;
-&lt;p&gt;我怕总是蹭吃蹭喝不方便，所以每次上门都买点东西，水果、酒啥的，但是感觉好像为了吃顿饭也没啥必要？而我老婆很喜欢回去吃，我只能和她一起回去了。&lt;/p&gt;
-&lt;p&gt;回去多了，我又不干活，感觉是现眼包，坐着刷手机等吃，非常不好。。而我本身也会厨艺，但是偏很耐心做的那种，花的时间比较长，而岳母也不想我展示算是。。。&lt;/p&gt;
-&lt;p&gt;然后，我又不喝酒，，我岳父喜欢喝酒，我又陪不了他，他们还飙家乡话。。我只能微笑点头，装傻吃饭，倒是挺不自在的。。。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>AI vibe coding 的进展，不知道程序员还能存活多久？</title>
-      <link>https://www.v2ex.com/t/1251976</link>
-      <guid>v2ex-1251976</guid>
-      <pubDate>Mon, 26 Oct 2026 09:08:29 GMT</pubDate>
-      <description>我那开劳斯莱斯的朋友，7 月份时候还是 coding 白痴， 但经过几个月的 vibe coding, 现在已经成功上线了工厂的 erp ，并且是那种可以当生产力工具用的，且按照他的说法，简直完美的和他工厂所有流程吻合。他正在慢慢的把周边模块一点一点的加上，不断的接入周边硬件，基本上都是许愿式的提交需求，大部分一次可以搞定。&lt;br /&gt;&lt;br /&gt;而最关键的是，他已经知道利用 github actions 通过 Claude 做自动化部署实施，前 2 个月他还孤军奋战，现在他在 erp 中做了 issue/function request 提交界面，员工可以在该页面上直接提交到 github issue 中，他只是在 erp （可以直接看到 issues 所有状态）中看下员工提交的 issues, 判断后批准 Claude 直接接手进行修改代码经 github actions 自动部署的全自动化流程，拒绝则直接打回不执行，但有了 issue 记录，未来也可以进行回顾和评估。 &lt;br /&gt;&lt;br /&gt;本来 Claude 搞完后还有个测试和预览过程，但这几个月他发现 Claude 做这种应用类软件，杀鸡用牛刀，所以取消了这个环节，反正现在整个框架和流程已经基本确定，所做的也只是一些小的修改和完善，无非是配色，布局，拼写错误之类的修改。&lt;br /&gt;&lt;br /&gt;目前他已经进入到下一阶段，本地部署大模型（已经组装了算力服务器，虽然配置不太高，但基本工厂企业使用也最多是简单的 coding/视频图像处理）， 看是否可以替代 Claude code ，正在进行测试。也同时在评估工厂内部部署 gitlab 之类支持 github actions/runner 之类软件，达到未来实现全流程内部封闭运行，不依靠任何外部服务。&lt;br /&gt;&lt;br /&gt;我会有空过来说下进度，各位有问题也可以提，因为他这个项目基本是我引导进行，相信会给你一些少走弯路的建议。</description>
     </item>
     <item>
       <title>《关于我和一个教师恋爱一年的经历》后续</title>
@@ -163,11 +123,137 @@
 </description>
     </item>
     <item>
+      <title>iPhone Duo 有感</title>
+      <link>https://www.v2ex.com/t/1252088</link>
+      <guid>v2ex-1252088</guid>
+      <pubDate>Tue, 27 Oct 2026 00:31:17 GMT</pubDate>
+      <description>&lt;p&gt;这次 iPhone Duo 是苹果有史以来最不负责任的一代机器，已经这样了，依旧是一群用户维护它&lt;/p&gt;
+&lt;p&gt;早期我也是苹果的用户，手机电脑平板手表，后面只有电脑是苹果的产品，不过下一代我不会再买苹果的电脑了&lt;/p&gt;
+&lt;p&gt;iPhone Duo 连自己 APP 都没适应，这是让人万万没想到的，就连影视飓风提前拿到机器的博主都没有说，真的让人虎躯一震，这还是苹果的产品吗&lt;/p&gt;
+&lt;p&gt;它卖的贵不是它的问题，是我的问题&lt;/p&gt;
+&lt;p&gt;其次 &quot;苹果的产品喷不得，国产的产品使劲喷&quot; 和 &quot;苹果的使劲喷，国产的产品喷不得&quot;的那些人真是魔怔人，有问题改进就好，还没必要这么维护，这只是一部手机。&lt;/p&gt;
+&lt;p&gt;最后，你说的都对，我无意跟你争论，iPhone Duo 已经伤透了一批老用户的期待。祝苹果好运。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[送码] Mu3ic 重磅更新！支持车机播放和电台，完美横屏播放， Navidrome 最佳播放器， Nas 音乐玩家的优选</title>
+      <link>https://www.v2ex.com/t/1252164</link>
+      <guid>v2ex-1252164</guid>
+      <pubDate>Tue, 27 Oct 2026 03:12:11 GMT</pubDate>
+      <description>&lt;p&gt;🎉Mu3ic 1.7.0 正式版发布🎉&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mu3ic.xyz&quot; rel=&quot;nofollow&quot;&gt;主页&lt;/a&gt; 进行了升级重构，更新的所有内容都可以直接在主页上体验，无需下载应用即可上手体验，玩起来：&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/RRK2V1c.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Zp35iZv.png&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;本帖专属福利规则&lt;/h2&gt;
+&lt;p&gt;本帖送码分为三层，&lt;strong&gt;激活码&lt;/strong&gt;和&lt;strong&gt;优惠券&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;50 个 Pro 激活码&lt;/strong&gt;：前 50 个留下邮箱的，会送出 Mu3ic Pro 激活码，&lt;strong&gt;24h 内激活有效，逾期不补&lt;/strong&gt;，最后一批 Pro 赠码&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可叠加优惠券&lt;/strong&gt;：50 个码送完后，本帖留下邮箱（优惠券本帖不限量供应），送出 6 元 Pro 优惠券，叠加推广期优惠，限时 &lt;del&gt;38&lt;/del&gt; &lt;strong&gt;12 元&lt;/strong&gt;即可激活 Mu3ic Pro （史低价格，6 元优惠券 24h 有效，推广期优惠截至日期 11.05 ）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;反馈/评价赠码&lt;/strong&gt;：免费版使用后，提出有效反馈/任何使用体验或评价，可以获得 50 个赠码外的额外赠码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;进群&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;进群可以&lt;strong&gt;许愿&lt;/strong&gt;！&lt;/li&gt;
+&lt;li&gt;🎉任何问题和需求都会被重视，让我们共同提升应用体验🎉&lt;/li&gt;
+&lt;li&gt;资源交流（博文也写的很详细，曲目自动化入库 prompt 进群获取）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;主要更新内容&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;车机播放，支持手机车机模式、横屏播放和 Android Auto ，也可以与电台模块结合，实现车载自定义电台
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/YCcQoUr.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/H6zheAP.jpg&quot;/&gt;
+唱机皮肤实机播放： &lt;a href=&quot;https://www.bilibili.com/video/BV1JWno61ENf&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1JWno61ENf&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;新增电台，支持 Navidrome 服务端电台配置，也支持本地添加配置，电台可以批量导入，也可以分类
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/pJlsYyW.jpg&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;歌曲统计，八个维度的听歌数据统计，首页随心切换展示维度，每个维度都配备独立 UI 设计，丝滑构建音乐复利系统
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/vvLEU2f.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/BKyQgbA.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/QPGJkXT.jpg&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;拖动进度条显示歌词，丝滑查看歌词分布，上滑取消跳转，完美交互逻辑
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/PhIF86q.jpg&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;APP 内应用说明，7 个主题 43 篇说明，每一篇均图文并茂，说透每一处交互逻辑和设计思路，丝滑掌握 APP 最佳使用姿势
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/NpLkky7.jpg&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;歌曲切换支持淡入淡出和交叉切换
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/xUDaoGP.jpg&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;支持 ReplayGain 音乐标签，曲目模式和专辑模式随心切换
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/5BRfP2m.jpg&quot;/&gt;&lt;/li&gt;
+&lt;li&gt;首页支持自定义界面，新增拾遗，可以自由展示/隐藏逻辑块，随心拖动以改变展示顺序，满足您的审美
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/bGsn427.jpg&quot;/&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;相关链接&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;产品主页&lt;/strong&gt;： &lt;a href=&quot;https://mu3ic.xyz&quot; rel=&quot;nofollow&quot;&gt;https://mu3ic.xyz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;软件直链下载&lt;/strong&gt;： &lt;a href=&quot;https://dl.robb3n.site/mu3ic/Mu3ic-stable.apk&quot; rel=&quot;nofollow&quot;&gt;https://dl.robb3n.site/mu3ic/Mu3ic-stable.apk&lt;/a&gt; （海外慢的话用 &lt;a href=&quot;https://mu3ic.xyz/dl/Mu3ic-stable.apk&quot; rel=&quot;nofollow&quot;&gt;https://mu3ic.xyz/dl/Mu3ic-stable.apk&lt;/a&gt; ）&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;相关 Blog&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://robb3n.site/posts/turn-phone-sideways-play-vinyl/&quot; rel=&quot;nofollow&quot;&gt;黑胶唱机：横过手机，放一张唱片&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://robb3n.site/posts/folder-to-music-library-tagging-best-practices/&quot; rel=&quot;nofollow&quot;&gt;从文件夹到曲库：音乐文件标签最佳实践&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://robb3n.site/posts/song-ingestion-automation-gates/&quot; rel=&quot;nofollow&quot;&gt;入库自动化：一首歌进曲库要过的几道闸&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;更新日志&lt;/strong&gt;： &lt;a href=&quot;https://mu3ic.xyz/changelog/&quot; rel=&quot;nofollow&quot;&gt;https://mu3ic.xyz/changelog/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;官方讨论群&lt;/strong&gt;： &lt;a href=&quot;https://t.me/+wQQlVDMami4xNzNl&quot; rel=&quot;nofollow&quot;&gt;https://t.me/+wQQlVDMami4xNzNl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;唱机皮肤实机播放&lt;/strong&gt;： &lt;a href=&quot;https://www.bilibili.com/video/BV1JWno61ENf&quot; rel=&quot;nofollow&quot;&gt;https://www.bilibili.com/video/BV1JWno61ENf&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;后续开发计划&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;支持播客&lt;/li&gt;
+&lt;li&gt;本地/Nas/Webdav 播放器&lt;/li&gt;
+&lt;li&gt;桌面端播放器&lt;/li&gt;
+&lt;li&gt;短期内不考虑 ios 端&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    <item>
+      <title>这是你印象中的 WinXP 吗，一起回到 2005 吧</title>
+      <link>https://www.v2ex.com/t/1252173</link>
+      <guid>v2ex-1252173</guid>
+      <pubDate>Tue, 27 Oct 2026 03:24:08 GMT</pubDate>
+      <description>&lt;p&gt;连肝一段时间，mac 都罢工了。（送修中）&lt;/p&gt;
+&lt;p&gt;之前做了个 &lt;a href=&quot;http://win98.si&quot; rel=&quot;nofollow&quot;&gt;win98.si&lt;/a&gt; ，后来好多朋友问为啥不做 XP 好吧。其实不太喜欢 xp ，虽然工作中 xp 用的时间最长。&lt;/p&gt;
+&lt;p&gt;我对 win98 感情真的很深。都有些恋物癖那种了（有可能真是一种病，隔一两天就会打开，一打开就想起 20 年前坐在机房中的场景）。我的大部分软件都会去找个 win98 皮。（对 win7 之类没有任何感情）&lt;/p&gt;
+&lt;p&gt;发现真的好多朋友没有用过 98 。甚至没有见过。&lt;/p&gt;
+&lt;p&gt;流用了很多 win98 的思路和基础。折腾。windows xp web 版如下。&lt;/p&gt;
+&lt;p&gt;目前应该是所有史上市上实际上事实上模拟版中颗粒度最细的。还会继续改进&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可以真实访问历史上存在过的 web 版网页。&lt;/li&gt;
+&lt;li&gt;可以挂载真实磁盘文件夹（映射成虚拟盘符），双向同步。&lt;/li&gt;
+&lt;li&gt;99%视觉和流程上忠于 xp 本身&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;首页&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://winxp.si/&quot; rel=&quot;nofollow&quot;&gt;https://winxp.si/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;2007 年的 V2EX&lt;/h2&gt;
+&lt;p&gt;也可以访问其他网页
+&lt;a href=&quot;https://winxp.si/#web=http://www.v2ex.com/&amp;amp;date=20070103084547&quot; rel=&quot;nofollow&quot;&gt;https://winxp.si/#web=http://www.v2ex.com/&amp;amp;date=20070103084547&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;command-prompt&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://winxp.si/apps/command-prompt/&quot; rel=&quot;nofollow&quot;&gt;https://winxp.si/apps/command-prompt/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;wmplayer&lt;/h2&gt;
+&lt;p&gt;希望这首歌能给你力量
+&lt;a href=&quot;https://winxp.si/#open=wmplayer&quot; rel=&quot;nofollow&quot;&gt;https://winxp.si/#open=wmplayer&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;windows messenger&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://winxp.si/#open=messenger&quot; rel=&quot;nofollow&quot;&gt;https://winxp.si/#open=messenger&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>35➕真的是老了吗</title>
       <link>https://www.v2ex.com/t/1252134</link>
       <guid>v2ex-1252134</guid>
       <pubDate>Tue, 27 Oct 2026 02:02:12 GMT</pubDate>
       <description>上周末去医院看皮肤(有个湿疹)&lt;br /&gt;&lt;br /&gt;在排队等号的时候，大屏幕下边有个提示&lt;br /&gt;&lt;br /&gt;35 岁以上人群首次候诊请到服务台测量血压&lt;br /&gt;&lt;br /&gt;虽然我没到但是也快了😭</description>
+    </item>
+    <item>
+      <title>做了个跨 Mac / Windows / Linux 的剪贴板工具 Zipover，送 30 份授权</title>
+      <link>https://www.v2ex.com/t/1252166</link>
+      <guid>v2ex-1252166</guid>
+      <pubDate>Tue, 27 Oct 2026 03:14:41 GMT</pubDate>
+      <description>&lt;p&gt;做了个叫 Zipover 的小工具，刚发布 1.0.0 。&lt;/p&gt;
+&lt;p&gt;Mac 、Windows 、Linux 连接同一局域网，配对后就能互相复制粘贴文字、图片、文件和文件夹。局域网直连、加密传输，剪贴板内容不经过云端。&lt;/p&gt;
+&lt;p&gt;支持 30 天免费试用，无需账号。&lt;/p&gt;
+&lt;p&gt;下载： &lt;a href=&quot;https://zipover.app/cn/download/&quot; rel=&quot;nofollow&quot;&gt;https://zipover.app/cn/download/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一次送出 30 份 1.x 许可证，每份最多用于 5 台电脑，包含 1.x 的永久使用权和更新。许可证联网激活后可长期离线使用。&lt;/p&gt;
+&lt;p&gt;想领的朋友回帖留下邮箱即可。回复前 30 位，每人一份，名额确认后统一邮件发放，满额会更新原帖。&lt;/p&gt;
+&lt;p&gt;欢迎试试，有问题直接回帖反馈。&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
