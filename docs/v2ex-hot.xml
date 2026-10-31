@@ -4,113 +4,84 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 31 Oct 2026 06:00:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:52:00 GMT</lastBuildDate>
     <item>
-      <title>AppleTV 看不了国内的优爱腾，国际版的会员要另开，于是……</title>
-      <link>https://www.v2ex.com/t/1253203</link>
-      <guid>v2ex-1253203</guid>
-      <pubDate>Fri, 30 Oct 2026 06:59:23 GMT</pubDate>
-      <description>&lt;p&gt;用过 AppleTV 的都懂，体验不是安卓 TV 能比的&lt;br/&gt;
-但国内的流媒体搞不定啊&lt;br/&gt;
-于是用 gpt 、glm 写了个 AppleTV 的客户端和服务端&lt;br/&gt;
-服务端跑在 windows 机器上，为啥？用于转发 windows 端的四大视频网站的 app&lt;br/&gt;
-有人问为啥不用 web 接口？因为 web 接口没有 4K 、HDR 、杜比视界&lt;br/&gt;
-看看客户端的截图先  &lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;首页&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/RICwang/pic/refs/heads/main/Screenshot%20%E4%B9%A6%E6%88%BF%20Apple%20TV%204K%2010-30-2026%20at%2014.50.39.png&quot; title=&quot;首页&quot;/&gt;&lt;br/&gt;
-&lt;img alt=&quot;详情&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/RICwang/pic/refs/heads/main/Screenshot%20%E4%B9%A6%E6%88%BF%20Apple%20TV%204K%2010-30-2026%20at%2014.43.08.png&quot; title=&quot;详情&quot;/&gt;&lt;br/&gt;
-&lt;img alt=&quot;详情 1&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/RICwang/pic/refs/heads/main/Screenshot%20%E4%B9%A6%E6%88%BF%20Apple%20TV%204K%2010-30-2026%20at%2014.41.13.png&quot; title=&quot;详情 1&quot;/&gt;&lt;br/&gt;
-&lt;img alt=&quot;播放界面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://raw.githubusercontent.com/RICwang/pic/refs/heads/main/Screenshot%20%E4%B9%A6%E6%88%BF%20Apple%20TV%204K%2010-30-2026%20at%2014.42.40.png&quot; title=&quot;播放界面&quot;/&gt; &lt;/p&gt;
+      <title>求助： 10GB 音乐文件如何高速分享给好友？网盘限速、微信限大小， NAS 也受运营商上行限制</title>
+      <link>https://www.v2ex.com/t/1253376</link>
+      <guid>v2ex-1253376</guid>
+      <pubDate>Sat, 31 Oct 2026 03:53:53 GMT</pubDate>
+      <description>&lt;p&gt;最近有个需求，需要给好友分享一批 MP3 音乐文件，总大小大约 10GB 。歌曲已经全部下载到本地，现在的问题是：如何让好友能够快速、稳定地下载这些文件？&lt;/p&gt;
+&lt;p&gt;目前想到的几种方式都有各自的痛点：&lt;/p&gt;
+&lt;p&gt;微信文件传输：单个文件大小有限制，1GB 以上基本没法直接解决。&lt;/p&gt;
+&lt;p&gt;百度网盘：非 VIP 用户的下载速度实在难以接受，20KB/s 的速度，属实有点难绷。&lt;/p&gt;
+&lt;p&gt;NAS 外网分享：理论上可以直接通过 NAS 分享链接，让好友下载，但又受到运营商上行带宽限制。如果运营商还对上行进行限速，实际体验可能也好不到哪里去。&lt;/p&gt;
+&lt;p&gt;再此我想请教下有没有什么成熟、实用的解决方案？欢迎大家分享经验！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>AI 时代少有人类阅读，我开始建自己的独立站，但真的是 49 年入国军吗</title>
+      <link>https://www.v2ex.com/t/1253343</link>
+      <guid>v2ex-1253343</guid>
+      <pubDate>Sat, 31 Oct 2026 01:06:13 GMT</pubDate>
+      <description>&lt;p&gt;前几天，我在一个平台发了条动态，预告自己在做的一个写作发布工具。底下有人说没啥用，不如做个抢优惠券的；也有人说别自嗨。&lt;/p&gt;
+&lt;p&gt;我没有生气，也没往心里去，但它让我想了很久。平台上的读者来自四面八方，关心的东西差别很大，同一件事在不同的人眼里，价值完全不同，这很正常。我真正在意的是另一件事：我想写的东西，是不是只能放进推荐流里，等一个不确定的结果？&lt;/p&gt;
+&lt;p&gt;这让我重新审视了一个老问题：在 AI 时代，个人博客还有什么位置，能起什么作用。&lt;/p&gt;
+&lt;p&gt;先说难听的：我知道现在开独立博客很傻。&lt;/p&gt;
+&lt;p&gt;平台有推荐，AI 有摘要，人连搜索结果都懒得点。新域名没有权重，没有外链，没有推荐位，写一篇长文发出去，阅读量个位数是常态。这不是“内容不够好”的问题，是分发结构就这样。所以问题不是“博客还有没有价值”，而是：&lt;strong&gt;在一个人人都不直接访问网站的时代，我为什么还要建一个自己的站？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;site-home-light&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.jsdelivr.net/gh/kingshuaishuai/ys-imgs@main/quirepub/4dfc71519187e9dc8176a7145ec7e6a4.png&quot;/&gt;
+&lt;em&gt;yishuai.wang 的首页。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;这看起来确实像 49 年入国军。&lt;/p&gt;
+&lt;h2&gt;这个比喻，成立一半&lt;/h2&gt;
+&lt;p&gt;成立的一半是：&lt;strong&gt;如果把独立站当流量生意做，那它就是逆风局。&lt;/strong&gt; 靠 SEO 等自然流量、靠广告联盟变现、靠批量更新维持权重——这套玩法在 AI 把内容供给打到无限之后，基本没有胜算。AI 一秒能生成的通稿，你写十篇也没人看，搜索引擎也未必收录。这个意义上，49 年入国军不是玩笑。&lt;/p&gt;
+&lt;p&gt;不成立的一半是：&lt;strong&gt;49 年入国军是押注一个正在崩塌的旧秩序；我不是押注“独立博客会重新成为流量中心”。&lt;/strong&gt; 我不认为独立站会回到 2010 年那种“写博客—被搜索引擎收录—拿流量—接广告”的黄金年代。那个年代确实结束了。&lt;/p&gt;
+&lt;p&gt;我押的是另一件事：&lt;strong&gt;AI 内容越泛滥，一手经历、真实项目、可验证署名，可能越稀缺。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;现在下结论还太早。AI 可以帮我查资料、改代码、润色句子，但它没有做过我做的项目，没有踩过我踩的坑，没有在四个月里对着分页排版一个像素一个像素地改。它写不出“我当时为什么决定不用现成方案”这种判断，因为它没有“当时”。但这套东西到底有没有人认，我不知道，只能先做再看。&lt;/p&gt;
+&lt;h2&gt;不是没人读，可能是阅读结构变了&lt;/h2&gt;
+&lt;p&gt;“AI 时代少有人类阅读”这句话对一半。更准确地说：&lt;strong&gt;人直接访问一个陌生独立站的概率变低了，但人通过 AI 搜索、AI 摘要、GitHub 、开发者社区、RSS 找到你的路径，可能变多了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;读者未必消失，入口可能在变。以前入口是搜索引擎结果页，现在入口可能是：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;重点的来了，怎么用呢？不想步 o&#39;b&#39;o&#39;x 作者后尘，所以留着自用。&lt;/li&gt;
+&lt;li&gt;有人问 AI“中文分页编辑器怎么做”，AI 引用了你的文章；&lt;/li&gt;
+&lt;li&gt;有人在 GitHub 看到 QuireKit ，顺藤摸瓜找到你的站；&lt;/li&gt;
+&lt;li&gt;有人从 V2EX 、即刻、X 、掘金看到一段踩坑记录，点进来看完整版；&lt;/li&gt;
+&lt;li&gt;有人用 RSS 订阅了你的站，每篇都读，但从不留言。&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>人生第一次相亲了</title>
-      <link>https://www.v2ex.com/t/1253190</link>
-      <guid>v2ex-1253190</guid>
-      <pubDate>Fri, 30 Oct 2026 06:31:09 GMT</pubDate>
-      <description>&lt;p&gt;最近家里人给我介绍了一个相亲对象，认识到现在也有一段时间了，但目前的相处状态让我有点迷茫，想听听大家的看法。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;先说说女方的基本情况：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;年龄：&lt;/strong&gt; 29 岁，比我大两岁。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;恋爱经历：&lt;/strong&gt; 据她本人和她家里长辈说，从来没有谈过恋爱。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;长相：&lt;/strong&gt; 普普通通，和我一样，属于扔进人群里就找不出来的 NPC 脸。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;家庭条件：&lt;/strong&gt; 和我家差不多，父母都是普通私企职工，家里还有一个妹妹。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;总的来说，无论是长相还是家庭条件，我们都算得上“门当户对”，不存在谁高攀谁的情况。&lt;/p&gt;
-&lt;p&gt;我舅妈和她舅妈是表姐妹，这次相亲就是两边舅妈牵线搭桥促成的。&lt;/p&gt;
-&lt;p&gt;双方交换照片后都没什么意见，于是就加了微信。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;然后，问题就来了。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我和她都属于那种不太擅长跟陌生人聊天的人。刚加微信的时候，她就主动跟我说过，自己不太会聊天。&lt;/p&gt;
-&lt;p&gt;我当时也没太在意，毕竟我自己也是这样。&lt;/p&gt;
-&lt;p&gt;但真正聊起来才发现，情况比我想象的还要尴尬。&lt;/p&gt;
-&lt;p&gt;基本上所有话题都是我主动发起，再由我想办法往下延伸。她通常就是回答我的问题，很少反问，更没有主动开启过什么新话题。&lt;/p&gt;
-&lt;p&gt;而且她回复消息的间隔也比较长，短则几十分钟，长则几个小时。&lt;/p&gt;
-&lt;p&gt;就这样一问一答地聊了两天，我实在是找不到什么新话题了。&lt;/p&gt;
-&lt;p&gt;再加上她从来没有主动找过我，我就开始怀疑：她是不是对我没什么兴趣，只是碍于家里人的面子，才勉强加个微信应付一下？&lt;/p&gt;
-&lt;p&gt;这么一想，我也就没再主动联系她。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;又过了两天，舅妈打电话来问进展。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我就把聊天的情况如实说了。&lt;/p&gt;
-&lt;p&gt;舅妈的意思是，既然我是男生，就应该多主动一点。没话题也得想办法找话题，先聊上几天，再约出来见个面、吃顿饭，看看有没有继续发展的可能。&lt;/p&gt;
-&lt;p&gt;但我觉得，如果对方本身就没兴趣，那我一个人使劲找话题也没什么意义。&lt;/p&gt;
-&lt;p&gt;于是我干脆直接问她：到底是真的不擅长聊天，还是说其实对相亲没什么兴趣，只是为了应付家里人？&lt;/p&gt;
-&lt;p&gt;她也挺坦诚的。&lt;/p&gt;
-&lt;p&gt;她说自己确实不太会聊天，也不知道该怎么跟陌生人交流，而且还担心聊得不好，会被家里人责怪。&lt;/p&gt;
-&lt;p&gt;至于结婚，她本人的态度比较随缘，有缘分就结，没缘分的话，一个人过也无所谓。&lt;/p&gt;
-&lt;p&gt;听完这些，我觉得至少她并不是明确地看不上我，可能真的只是性格比较内向，不擅长交流。&lt;/p&gt;
-&lt;p&gt;既然如此，那就再试着接触接触吧。&lt;/p&gt;
-&lt;p&gt;于是我又开始硬着头皮找话题，继续维持着这种有一搭没一搭的聊天。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;又聊了两天后，两边家里人安排我们周日见面吃饭。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我们俩都答应了。&lt;/p&gt;
-&lt;p&gt;到了周日，终于第一次线下见面。&lt;/p&gt;
-&lt;p&gt;但实际情况和微信聊天也没太大区别，基本还是我主动找话题，她负责回答。&lt;/p&gt;
-&lt;p&gt;唯一比微信上好一点的是，面对面聊天时，她偶尔也会主动提起一些话题。&lt;/p&gt;
-&lt;p&gt;吃完饭后，附近正好有个公园，我们就商量着一起去散散步。&lt;/p&gt;
-&lt;p&gt;散步的过程也差不多，想到什么聊什么，时不时就会冷场。&lt;/p&gt;
-&lt;p&gt;不过整体气氛倒也不算尴尬，只是始终没有看别人相亲那种聊得特别投机、话题接连不断的感觉。&lt;/p&gt;
-&lt;p&gt;逛完公园后，我们就各回各家各找各妈了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当天晚上，我主动问了她对这次见面的感受。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我问她觉得怎么样，愿不愿意继续接触、再试着聊聊看。&lt;/p&gt;
-&lt;p&gt;她回复说感觉挺好的，可以继续试试。&lt;/p&gt;
-&lt;p&gt;既然她都这么说了，那我自然也愿意再接触看看。&lt;/p&gt;
-&lt;p&gt;于是，熟悉的一问一答模式又开始了。&lt;/p&gt;
-&lt;p&gt;每天依旧是我主动发起话题，问她在干什么、最近有什么事、对某件事怎么看……&lt;/p&gt;
-&lt;p&gt;她会回复，也会正常回答我的问题，但基本不会主动分享自己的生活，也很少反过来问我些什么。&lt;/p&gt;
-&lt;p&gt;换句话说，只要我不主动找她，这段聊天似乎就没有办法继续下去。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;说实话，聊到这周，我已经有点累了。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;倒不是说我不愿意主动，毕竟我也知道两个人刚认识，总得有一方先迈出第一步。&lt;/p&gt;
-&lt;p&gt;但我觉得，主动应该是相互的吧？&lt;/p&gt;
-&lt;p&gt;哪怕她偶尔主动问我一句在干什么，或者分享一点自己的日常，我都会觉得她至少有在尝试了解我。&lt;/p&gt;
-&lt;p&gt;可实际情况是，几乎每一次聊天都得由我来开启、引导和维持。&lt;/p&gt;
-&lt;p&gt;久而久之，聊天反倒像是在完成某种任务。&lt;/p&gt;
-&lt;p&gt;所以这周一，我们像往常一样聊完之后，我就没再主动联系她了。&lt;/p&gt;
-&lt;p&gt;我想着，这次就看看，如果我不主动，她会不会主动找我一次。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;结果从周一到今天，已经好几天了。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我没找她，她也没找我。&lt;/p&gt;
-&lt;p&gt;两个人就这么彻底没了联系。&lt;/p&gt;
-&lt;p&gt;现在我有点分不清，她到底是真的不擅长聊天、性格比较被动，还是说其实对我并没有多大兴趣，只是觉得我条件还算合适，所以愿意继续接触看看。&lt;/p&gt;
-&lt;p&gt;毕竟她说过自己不太会聊天，也明确表示过愿意继续了解，这些我都能理解。&lt;/p&gt;
-&lt;p&gt;但我同样觉得，再内向、再不会聊天的人，如果真有兴趣了解对方，多少也应该有一点主动性吧？&lt;/p&gt;
-&lt;p&gt;我不介意在关系刚开始的时候多主动一些，但如果从头到尾都只有我一个人在推动，那这段关系到底还有没有继续发展的必要？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>为什么越来越多人学习英语了？</title>
-      <link>https://www.v2ex.com/t/1253188</link>
-      <guid>v2ex-1253188</guid>
-      <pubDate>Fri, 30 Oct 2026 06:28:47 GMT</pubDate>
-      <description>&lt;p&gt;一直有个比较明显的感受：身边以及网上学习英语的人好像越来越多了。&lt;/p&gt;
-&lt;p&gt;不只是学生、考研党，还有很多国内职场人，甚至不少宝妈也开始学习英语了。&lt;/p&gt;
-&lt;p&gt;我自己最近也有意重新捡起英语。原因是，最近工作中接触的客户是老外，平时沟通、讨论产品需求、解决技术问题，都需要用到英语。虽然借助翻译工具也能解决一部分问题，但总觉得效率很低。&lt;/p&gt;
-&lt;p&gt;可能是最近搜索和关注了英语学习相关的内容，抖音也开始疯狂给我推各种英语学习博主了，感觉这个群体还挺庞大的。&lt;/p&gt;
-&lt;p&gt;想问问 V 友们：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;你们现在还在学习英语吗？学习英语的主要目的是什么？工作需要、出国旅游、移民，还是单纯想提升自己？&lt;/li&gt;
-&lt;li&gt;有没有什么比较好的英语学习方法或者工具推荐？尤其是适合成年人、平时工作比较忙的那种。&lt;/li&gt;
-&lt;li&gt;有没有好用的英语输入辅助工具？&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;最近还看到一个比较有意思的输入法，可以根据输入内容自动联想、补全英文，感觉对日常英文沟通挺有帮助的。可惜一看不支持 macOS 15 ，只能放弃了。&lt;/p&gt;
+&lt;p&gt;这些都不体现在“首页访问量”里。但这也只是我的观察，不一定对。还有一个坑必须说清楚：&lt;strong&gt;被 AI 读到 ≠ 被 AI 引用 ≠ 被 AI 导流。&lt;/strong&gt; 放一个 &lt;code&gt;llms.txt&lt;/code&gt; 就以为 AI 会替你传播，是自我安慰。llms.txt 不是标准，很多 AI 不读，读了也不一定引用；被训练进模型更不等于有人会来你的站。所以我没把 llms.txt 当战略，只当导览。我试图做的是：&lt;strong&gt;让站更像一个可被引用的一手源，并且尽量确保引用里有我的名字、链接和工具。&lt;/strong&gt; 做不做得成，另说。&lt;/p&gt;
+&lt;h2&gt;还有一些很个人的原因&lt;/h2&gt;
+&lt;p&gt;yishuai.wang 就是我的名字。我很喜欢这个域名，只是一直没好好用起来。&lt;/p&gt;
+&lt;p&gt;这几年在各个平台发文，我也有个感受：有些平台越来越平台化，推荐、热榜、流量规则排在前面，技术本身反而退到了后面。V2EX 是我觉得一直保持初心的地方，也是给我帮助最多的社区。如果有一天有机会，我也想在国内做一个像它这样的社区。现在还很远，先从把自己的站写好开始。&lt;/p&gt;
+&lt;p&gt;所以我重新把站点搭了起来，也终于把这个域名用上了。给自己留一块净土：不用围着推荐规则写，想写什么就写什么。&lt;/p&gt;
+&lt;h2&gt;我正在尝试的事&lt;/h2&gt;
+&lt;p&gt;都是很具体、也还没验证的事。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，写我想写的，但让站里有一部分内容有“为什么是我”。&lt;/strong&gt; 我会写工程记录，也会写随笔、观点、工具分享。这些内容别人也能写，我不装作每篇都有独家价值。但站里得有一部分是别人替代不了的：QuireKit 的工程记录、分页排版的踩坑、为什么不用现成方案、四个月做到 Word 常用功能 85% 兼容是什么过程。这些不是每篇都有，但它们决定了这个站“为什么是我”。其余内容自由写，写得开心就写，只是我不拿它们当护城河。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，让独立站做首发站。&lt;/strong&gt; 以后文章先发在 yishuai.wang ，再同步到各个平台，平台上也是完整内容，不做删减。之后有修改和补充，先更新站内版本。能设 canonical 的平台就指向站内原文，不能设的就在文末写一句“本文首发并持续更新于 yishuai.wang”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，给 AI 和人准备可引用的结构。&lt;/strong&gt; 长文里补结论卡、事实表、FAQ 、版本记录；给 QuireKit 单独做工具页，写清楚一句话定义、功能、边界、许可证、对比、路线图。AI 最爱抽取的通常不是长叙事，是结论、事实、版本、对比、代码和边界。工具页可能比博客文章更容易被 AI 推荐。这只是假设，我按这个假设在做。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;site-article&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.jsdelivr.net/gh/kingshuaishuai/ys-imgs@main/quirepub/1d5b58c6e0b6451f96b8cc13fc5c3aee.png&quot;/&gt;
+&lt;em&gt;文章页：开头是智能总结，右侧是目录，每篇都能直接拿到 Markdown 原文。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第四，保留 RSS 。&lt;/strong&gt; 独立站没有平台推荐，RSS 是我能想到的少数真正属于我的连接：不经过算法，更新了就能收到。中文、英文和全部内容各有一个订阅源。有没有人用，还要再看。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第五，不和 AI 对抗，把 AI 当一层分发。&lt;/strong&gt; 我不指望拦着 AI 读我的站，也拦不住。我能做的是让 AI 读到的内容是可验证的、有署名的、有链接的。AI 的输出有人看，那我希望那个输出里，有我的名字和我的工具。&lt;/p&gt;
+&lt;h2&gt;这个站，是用我自己做的工具搭的&lt;/h2&gt;
+&lt;p&gt;我清楚 QuireKit 是什么、能做什么，所以愿意自己先吃这份 dogfood：这个站就是用它搭的。&lt;/p&gt;
+&lt;p&gt;QuireKit 是我在做的开源文档编辑器生态。主打的是 Classic 分页文档编辑器：在浏览器里真正分页，断行、分页、光标、选区都自己算，像 Word 、WPS 一样一页一页地编辑；另一条线是 MSFE ，专为 Markdown 定制的编辑器框架，Markdown 原文就是文档。&lt;/p&gt;
+&lt;p&gt;yishuai.wang 从页面到写作，用的都是它：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;页面用 QuireKit 的组件库和 InkWash 水墨主题；&lt;/li&gt;
+&lt;li&gt;写文章的后台和评论框都是 MD Editor （基于 MSFE ），文档、实时预览、源码三种视图随时切换；&lt;/li&gt;
+&lt;li&gt;每篇文章在地址后面加 &lt;code&gt;.md&lt;/code&gt; 就能拿到原文，配上中英文 RSS 、canonical 、&lt;code&gt;llms.txt&lt;/code&gt;，就是上面说的“可引用的结构”；&lt;/li&gt;
+&lt;li&gt;文章开头的智能总结在发布后生成一次，读者阅读时不会调用模型；&lt;/li&gt;
+&lt;li&gt;站点也支持 Micropub ，以后可以从别的写作工具直接发文到站上。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;site-comment&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.jsdelivr.net/gh/kingshuaishuai/ys-imgs@main/quirepub/522d5267e115070825c6835a4603e7b5.png&quot;/&gt;
+&lt;em&gt;评论框就是 MD Editor ，页脚是 RSS 和 llms.txt 。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;站点源码也开源了（ MIT ）：&lt;a href=&quot;https://github.com/kingshuaishuai/yishuai.wang&quot; rel=&quot;nofollow&quot;&gt;https://github.com/kingshuaishuai/yishuai.wang&lt;/a&gt; 。自己的东西先自己用，哪里不顺手，最先知道的是我。&lt;/p&gt;
+&lt;h2&gt;所以，是 49 年入国军吗&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;我认为不是。但这只是我的个人观点，不构成对任何人的建议。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;国军押的是一套正在崩塌的秩序；我押的是另一件事：&lt;strong&gt;当 AI 把内容供给打到无限，人的经历、判断、署名和可验证的一手记录，可能会变贵。&lt;/strong&gt; 独立站可能没人看，但它至少是我留给自己的一个源头。域名、文章和版本记录归我，不被平台算法拿捏，也不被 AI 摘要一笔带过。&lt;/p&gt;
+&lt;p&gt;还有一层原因。好的中文技术博客本来就不多，而大模型能答成什么样，很大程度上取决于它能读到什么。如果资料大多是搬运和水文，模型再强，也会被这样的资料生态限制住。一个人的站很渺小，像一颗星；但好的内容生态，本来就是很多颗星组成的。我想做其中一颗。&lt;/p&gt;
+&lt;p&gt;没人看是常态，不是判决。我先写一批只有我能写的东西，再写更多我想写的东西，然后看它值不值得活下去。&lt;/p&gt;
+&lt;p&gt;AI 可以读它、引用它、忽略它。但源头在这里。&lt;/p&gt;
+&lt;p&gt;至于这是不是 49 年入国军——我现在不知道。我只是觉得，与其等一个确定的答案，不如先把自己的那一份留下来。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;em&gt;本文首发并持续更新于 &lt;a href=&quot;https://yishuai.wang&quot; rel=&quot;nofollow&quot;&gt;yishuai.wang&lt;/a&gt;。&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -127,37 +98,6 @@
 </description>
     </item>
     <item>
-      <title>30 男飞机</title>
-      <link>https://www.v2ex.com/t/1253198</link>
-      <guid>v2ex-1253198</guid>
-      <pubDate>Fri, 30 Oct 2026 06:44:37 GMT</pubDate>
-      <description>30 岁男的，一个月不打飞机，不做爱 正常不正常？&lt;br /&gt;&lt;br /&gt;在我看来非常正常，哪有那么多性欲。&lt;br /&gt;&lt;br /&gt;我朋友觉得非常不正常，一个礼拜至少 3 次飞机。&lt;br /&gt;&lt;br /&gt;请问谁不正常？？？</description>
-    </item>
-    <item>
-      <title>下单了新 mbp，港版，准备去香港取货，第一次去有什么要注意的吗</title>
-      <link>https://www.v2ex.com/t/1253192</link>
-      <guid>v2ex-1253192</guid>
-      <pubDate>Fri, 30 Oct 2026 06:32:52 GMT</pubDate>
-      <description>&lt;p&gt;我看的配置（ 16 寸 M5pro+64G+1T ），国行 3 万 5 千多，教育优惠也要 3 万 3 千多，相同配置港版，34499 港币，约 29000+人民币，车票酒店算下来，也还是港版更划算。&lt;/p&gt;
-&lt;p&gt;已经下单成功，11 月 6 日周五，尖沙咀广东道店取货，目前订单状态为处理中&lt;/p&gt;
-&lt;p&gt;计划 11 月 6 日当天做高铁到西九龙站，取货，住一晚，第二天高铁返回&lt;/p&gt;
-&lt;p&gt;第一次在香港 Apple Store 购买港版 Mac ，也是第一次去香港，请问有什么要注意的吗&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>求助： 10GB 音乐文件如何高速分享给好友？网盘限速、微信限大小， NAS 也受运营商上行限制</title>
-      <link>https://www.v2ex.com/t/1253376</link>
-      <guid>v2ex-1253376</guid>
-      <pubDate>Sat, 31 Oct 2026 03:53:53 GMT</pubDate>
-      <description>&lt;p&gt;最近有个需求，需要给好友分享一批 MP3 音乐文件，总大小大约 10GB 。歌曲已经全部下载到本地，现在的问题是：如何让好友能够快速、稳定地下载这些文件？&lt;/p&gt;
-&lt;p&gt;目前想到的几种方式都有各自的痛点：&lt;/p&gt;
-&lt;p&gt;微信文件传输：单个文件大小有限制，1GB 以上基本没法直接解决。&lt;/p&gt;
-&lt;p&gt;百度网盘：非 VIP 用户的下载速度实在难以接受，20KB/s 的速度，属实有点难绷。&lt;/p&gt;
-&lt;p&gt;NAS 外网分享：理论上可以直接通过 NAS 分享链接，让好友下载，但又受到运营商上行带宽限制。如果运营商还对上行进行限速，实际体验可能也好不到哪里去。&lt;/p&gt;
-&lt;p&gt;再此我想请教下有没有什么成熟、实用的解决方案？欢迎大家分享经验！&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>大家从事程序开发工作几年了</title>
       <link>https://www.v2ex.com/t/1253339</link>
       <guid>v2ex-1253339</guid>
@@ -170,6 +110,55 @@
       <guid>v2ex-1253305</guid>
       <pubDate>Fri, 30 Oct 2026 14:40:34 GMT</pubDate>
       <description>好像是有人不遵守协议肆意转发把作者搞生气了，然后 Loon 光速推出了之前的废案，现在允许插件加密了。我作为白嫖党很感谢大佬的贡献，不过后面我是真不敢用了...&lt;br /&gt;当然有人说你平时也不看插件源码，对你有影响吗？这个例子就像路边的摄像头，我平时也没法看，但是我知道这么多用户里面总有几个盯着更新的（我身边知道的就有一个，从来不开自动更新，都是手动维护），而且在大众的监督下，做手脚的风险很低，也能追溯。后续插件全面加密之后，只能通过抓包分析流量来判断插件的内容了，就像把大街上的摄像头全拆了，一举一动全靠大家的良心。作者用爱发电了好几年，我也信任最近一段时间的插件肯定没有问题，就怕在用一两年之后，人总是会变的，我也见过开源项目偷偷卖给企业的例子出现，那时候谁也说不好...&lt;br /&gt;还是自己维护一个仓库更方便，可惜可莉的插件更新的又快又好用，希望未来环境好一点了还能用上吧</description>
+    </item>
+    <item>
+      <title>现在教育真的太卷了，一年级上学期期中测验趣事</title>
+      <link>https://www.v2ex.com/t/1253357</link>
+      <guid>v2ex-1253357</guid>
+      <pubDate>Sat, 31 Oct 2026 02:00:23 GMT</pubDate>
+      <description>&lt;p&gt;昨天周五，我儿子说语文考试了，把试卷拿回家，我看了，现在不写多少分，满分 100 ，只扣分，我看扣了 7 分，得 93 分，扣分点基本上都是细节，比如写一句话后面用句号结尾，我儿子写完字没有用句号，三行直接扣三分，还有一些小毛病。&lt;/p&gt;
+&lt;p&gt;然后我问有人得满分吗，我儿子回答说有 7 个人得 100 分。鼓励了一下儿子，继续加油就完事了。&lt;/p&gt;
+&lt;p&gt;我媳妇正好有 2 个得 100 分同学的家长微信 问人家平时怎么做的，结果人家提前 1-2 星期就在网上买的期中测验题，做了七八次了。什么题型，注意点 ，人家都知道了，我跟我媳妇都懵逼了。&lt;/p&gt;
+&lt;p&gt;真的太卷了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>台湾 Claude 号生意有搞头吗</title>
+      <link>https://www.v2ex.com/t/1253348</link>
+      <guid>v2ex-1253348</guid>
+      <pubDate>Sat, 31 Oct 2026 01:38:04 GMT</pubDate>
+      <description>&lt;p&gt;全套本地 KYC + 付款 + 手机验证 + 家宽 IP 代开的话。
+我有资源，不知道市场需求怎么样。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>claude 似乎 今天对 pro 和 free 用户执行 ID verification 了</title>
+      <link>https://www.v2ex.com/t/1253347</link>
+      <guid>v2ex-1253347</guid>
+      <pubDate>Sat, 31 Oct 2026 01:36:16 GMT</pubDate>
+      <description>好像是因为他们改策略了</description>
+    </item>
+    <item>
+      <title>大家目前被封禁了几个 Claude 账户？</title>
+      <link>https://www.v2ex.com/t/1253335</link>
+      <guid>v2ex-1253335</guid>
+      <pubDate>Fri, 30 Oct 2026 23:47:21 GMT</pubDate>
+      <description>&lt;p&gt;看了最近不少 Claude 封号的帖子，也想分享一下自己的情况&lt;/p&gt;
+&lt;p&gt;我的账号目前都还正常，最早的一个已经使用了 1 年 3 个月。注册初期甚至有 3 个月是在设备设置为北京时间的 iPhone 上使用的，后来还在 iPhone 上订阅过一个月 Pro&lt;/p&gt;
+&lt;p&gt;目前没有 Max 的需求&lt;/p&gt;
+&lt;p&gt;大家的 Claude 账号都是什么情况？最长用了多久？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>LockSticky 喜提大陆 App Store 下架</title>
+      <link>https://www.v2ex.com/t/1253370</link>
+      <guid>v2ex-1253370</guid>
+      <pubDate>Sat, 31 Oct 2026 03:25:39 GMT</pubDate>
+      <description>&lt;p&gt;早上本来想发一个版本更新的帖子，进到 App Store 突然发现搜不到了，在后台一看，天塌了😂&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/g8EBC2v.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;鹤立鸡群，我真爱了😠&lt;/p&gt;
+&lt;p&gt;现在 App Connect 申请了免备案。另外，以防免备案不通过，也在看服务器了。服务器有什么推荐吗，最便宜的那种...&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
