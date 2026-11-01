@@ -4,20 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Nov 2026 03:05:25 GMT</lastBuildDate>
-    <item>
-      <title>求助： 10GB 音乐文件如何高速分享给好友？网盘限速、微信限大小， NAS 也受运营商上行限制</title>
-      <link>https://www.v2ex.com/t/1253376</link>
-      <guid>v2ex-1253376</guid>
-      <pubDate>Sat, 31 Oct 2026 03:53:53 GMT</pubDate>
-      <description>&lt;p&gt;最近有个需求，需要给好友分享一批 MP3 音乐文件，总大小大约 10GB 。歌曲已经全部下载到本地，现在的问题是：如何让好友能够快速、稳定地下载这些文件？&lt;/p&gt;
-&lt;p&gt;目前想到的几种方式都有各自的痛点：&lt;/p&gt;
-&lt;p&gt;微信文件传输：单个文件大小有限制，1GB 以上基本没法直接解决。&lt;/p&gt;
-&lt;p&gt;百度网盘：非 VIP 用户的下载速度实在难以接受，20KB/s 的速度，属实有点难绷。&lt;/p&gt;
-&lt;p&gt;NAS 外网分享：理论上可以直接通过 NAS 分享链接，让好友下载，但又受到运营商上行带宽限制。如果运营商还对上行进行限速，实际体验可能也好不到哪里去。&lt;/p&gt;
-&lt;p&gt;再此我想请教下有没有什么成熟、实用的解决方案？欢迎大家分享经验！&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 01 Nov 2026 10:40:15 GMT</lastBuildDate>
     <item>
       <title>[送码两天] Emby/Plex/NAS 视频播放器 Vidzer v1.2.0 发布，首次支持安卓，还支持 macOS 和 Windows</title>
       <link>https://www.v2ex.com/t/1253453</link>
@@ -122,50 +109,6 @@
 </description>
     </item>
     <item>
-      <title>大家用 obsidian 么，用什么路线同步的。</title>
-      <link>https://www.v2ex.com/t/1253421</link>
-      <guid>v2ex-1253421</guid>
-      <pubDate>Sat, 31 Oct 2026 09:17:45 GMT</pubDate>
-      <description>&lt;p&gt;刚新增了个 macmini 想问问使用 obsidian 的兄弟如何解决同步问题&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Blob0 更新： Mac 上的 R2 / S3 客户端现在单连接永久免费[送 Pro 码]</title>
-      <link>https://www.v2ex.com/t/1253369</link>
-      <guid>v2ex-1253369</guid>
-      <pubDate>Sat, 31 Oct 2026 03:23:42 GMT</pubDate>
-      <description>&lt;p&gt;大家好，我是 Blob0 的开发者。前阵子在 V2EX 分享过这个项目，当时还是 30 天试用；这次回来，是因为我把它改成了单连接永久免费。&lt;/p&gt;
-&lt;p&gt;Blob0 是一款 macOS 上的 Cloudflare R2 / S3 兼容存储客户端。你可以把桶当作文件夹来管理，不用每次都打开控制台或敲命令。免费版支持 &lt;strong&gt;1 个存储连接（ 1 个桶），全部功能可一直使用&lt;/strong&gt;，无需注册 Blob0 账户或填写信用卡。需要添加并切换多个连接时，再考虑一次性买断的 Pro 。存储桶和存储服务的费用仍由你自己的服务商收取。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blob0.com&quot; rel=&quot;nofollow&quot;&gt;https://blob0.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;如果你上次没看到介绍，核心功能简单列一下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;文件管理&lt;/strong&gt;：像文件管理器一样浏览、搜索和筛选对象；拖拽上传、批量下载，重命名、移动、复制、删除和新建文件夹。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;传输&lt;/strong&gt;：大文件分片上传，逐文件显示进度；上传和下载可以暂停、继续，重启应用后也能恢复中断的任务。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;预览与分享&lt;/strong&gt;：在应用内全屏预览图片、视频、音频、PDF 和文本；生成有有效期的预签名链接，也可使用自己的公开域名。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;当图床用&lt;/strong&gt;：粘贴剪贴板图片上传，或通过兼容 PicGo 的服务接入 Obsidian 、Typora ；可选上传前压缩，原图仍留在本机。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;看清存储占用&lt;/strong&gt;：仪表盘按文件类型展示用量、大文件等信息。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;给终端和 Agent 用&lt;/strong&gt;：自带 &lt;code&gt;blob0&lt;/code&gt; CLI 和 Agent Skill ，可让 Codex 、Claude Code 、Cursor 等通过已配置的连接操作存储桶；支持先用 dry-run 预览改动。存储密钥保存在 macOS 钥匙串中。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这次更新还把预览改成了应用内全屏视图，传输面板增加了暂停、恢复和剩余时间估算。想试用的话，直接从官网下载安装，再连接你自己的 R2 / S3 存储桶即可：&lt;/p&gt;
-&lt;p&gt;官网与下载： &lt;a href=&quot;https://blob0.com/zh/download&quot; rel=&quot;nofollow&quot;&gt;https://blob0.com/zh/download&lt;/a&gt;
-免费版与 Pro 的区别： &lt;a href=&quot;https://blob0.com/zh/pricing&quot; rel=&quot;nofollow&quot;&gt;https://blob0.com/zh/pricing&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;回帖送 5 枚个人版 Pro 激活码&lt;/strong&gt;，给需要管理多个连接的 V 友。想参与的话，在本帖回复即可；也欢迎说说你用的是 R2 、S3 还是其他服务，以及最想改善的操作。参与时不用先留邮箱。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;每个 V2EX 账号只计首次公开回复，楼主和同一账号的后续回复不计；平台删除的回复也不计。每出现第 &lt;strong&gt;5 、10 、15 、20 、25&lt;/strong&gt; 个有效回复，就确定该位回复者获得 1 枚 Pro 码，我看到后会尽快在楼内 @ 获奖者。这里按不同账号的有效回复计数，不一定等于页面显示的原始楼层号；已公布的结果不再重排。&lt;/li&gt;
-&lt;li&gt;发帖后 72 小时结束。若届时有效回复不足 25 个，剩余名额按尚未获奖账号的首次回复顺序补发；参与者不足 5 人则按实际人数发放。&lt;/li&gt;
-&lt;li&gt;获奖后，请用同一个 V2EX 账号在楼里留下收码邮箱（可以用 Base64 编码，建议用临时邮箱； Base64 不能保护隐私）。我会将独立激活码发到邮箱，不会在公开回复中贴出。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;免费版不需要抢码。如果只用一个桶，直接下载就能一直用。也欢迎实际用过的朋友提问题和建议，我会继续改。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>看到很多相亲的帖子，对于大龄单身无孩的，是不是不结婚也比较好？</title>
-      <link>https://www.v2ex.com/t/1253387</link>
-      <guid>v2ex-1253387</guid>
-      <pubDate>Sat, 31 Oct 2026 05:16:04 GMT</pubDate>
-      <description>今年 36 了，33 岁时有过一段非常短的婚姻，3 个月就被对方逼离婚了。&lt;br /&gt;&lt;br /&gt;看着论坛里的相亲、离婚的各种帖子，越发感觉难以找到幸福。&lt;br /&gt;&lt;br /&gt;是不是努力工作，提升资产，保护好身体健康，不再考虑结婚事宜，是个更好的选择？</description>
-    </item>
-    <item>
       <title>[macOS] AbcTab：让 ⌘Tab 快得能跟上你的手 [送激活码]</title>
       <link>https://www.v2ex.com/t/1253484</link>
       <guid>v2ex-1253484</guid>
@@ -193,15 +136,11 @@
 </description>
     </item>
     <item>
-      <title>LockSticky 喜提大陆 App Store 下架</title>
-      <link>https://www.v2ex.com/t/1253370</link>
-      <guid>v2ex-1253370</guid>
-      <pubDate>Sat, 31 Oct 2026 03:25:39 GMT</pubDate>
-      <description>&lt;p&gt;早上本来想发一个版本更新的帖子，进到 App Store 突然发现搜不到了，在后台一看，天塌了😂&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/g8EBC2v.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;鹤立鸡群，我真爱了😠&lt;/p&gt;
-&lt;p&gt;现在 App Connect 申请了免备案。另外，以防免备案不通过，也在看服务器了。服务器有什么推荐吗，最便宜的那种...&lt;/p&gt;
-</description>
+      <title>大家坐飞机的时候，怎么打发时间？</title>
+      <link>https://www.v2ex.com/t/1253504</link>
+      <guid>v2ex-1253504</guid>
+      <pubDate>Sun, 01 Nov 2026 03:42:04 GMT</pubDate>
+      <description>前两天刚下飞机，随手带了一本没看过的书，结果很无语，书很垃圾&lt;br /&gt;&lt;br /&gt;但是手机也没有网&lt;br /&gt;&lt;br /&gt;航旅纵横上面的无网掼蛋我也不喜欢，纯粹不喜欢打牌</description>
     </item>
     <item>
       <title>claude 跳 kyc 了，有啥渠道可以联系歪果仁帮忙 kyc 啊？</title>
@@ -214,44 +153,65 @@
 </description>
     </item>
     <item>
-      <title>给大家分享一下四款 ios 梯子软件的使用体验，我主要看哪个更省电</title>
-      <link>https://www.v2ex.com/t/1253420</link>
-      <guid>v2ex-1253420</guid>
-      <pubDate>Sat, 31 Oct 2026 09:07:01 GMT</pubDate>
-      <description>&lt;p&gt;我是自建梯子，所以只有一个节点(ss2022)，其余的 dns 设置，分流规则均一致。而且是 24 小时开启，基本不去打开程序页面。&lt;/p&gt;
-&lt;p&gt;以下是四款软件几个月来的耗电量以及稳定性体验：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Qx：日常耗电 1%-3% ，软件稳定，但协议缺少太多，它本身支持的协议少，但如果是自建梯子，协议少本身不是什么大问题，然而 7 月开始 iPhone 不支持国外 app 推送，软件内又没有 代理 APNs 开关，这成了致命缺陷。作者始终不提供开关，收不到 tg 消息推送......&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;shadowrocket：日常耗电 3%-5% ，软件支持的功能多，更新及时，然而开启的时候，玩王者荣耀这类游戏，每隔 10 分钟左右出现周期性的 460ms 延迟(另外三款没问题)，显然是 tun 隧道转发可能有周期性的卡顿问题。而且在近两个月的使用过程中发现两次异常耗电，一次夜间耗电 20%，一次 40%，虽然作者更新速度、协议支持无可挑剔，但稳定性不够&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Stash： 日常耗电 3%-7% ，一款支持 clash 配置的软件，软件足够稳定，协议支持够丰富。但耗电量比其他三款略高，挑不出其他毛病&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Clash Mi：日常耗电 1%-3% ，软件足够稳定，协议支持足够多，只有 vpn 功能，没有 Mitm 、模块、脚本等额外功能。但是软件默认开启  &lt;code&gt;备用下载&lt;/code&gt; 通道，而且默认拉取官方规则覆写，github issues 也有人抓包讨论默认会上传某些数据，&lt;strong&gt;官方没有正面回答这些 issues&lt;/strong&gt;，这意味着订阅链接，某些数据可能发往它的服务器。隐私安全存疑&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这里面有个违反直觉的点：Stash 内存占用 12MB 左右，Clash Mi 的 Mihomo 内核内存占用 21MB 左右，反而 clash mi 更省电...... 是的：内存占用更多的 ，反而更省电，我只能归功于 mihomo 作为开源内核，有众多大佬优化，所以耗电表现非常好。&lt;/p&gt;
-&lt;p&gt;这只是我的个人体验，这些软件自带的 &lt;code&gt;js 脚本&lt;/code&gt;、&lt;code&gt;Mitm&lt;/code&gt;、&lt;code&gt;模块&lt;/code&gt; 等功能都没有使用。每个人使用的时候，机场节点、协议、分流规则均可能不一样，所以看个乐呵就好&lt;/p&gt;
-&lt;p&gt;一句话总结就是：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Qx: 稳定省电，但功能缺失的太多，有致命缺陷&lt;/li&gt;
-&lt;li&gt;Shadowrocket： 协议支持快，足够省电，但不断的有小 bug&lt;/li&gt;
-&lt;li&gt;Stash：稳定、协议支持多，但耗电量略微高一点&lt;/li&gt;
-&lt;li&gt;Clash Mi：省电、稳定、功能少，但节点、隐私安全存疑&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;除了 Clash Mi ，还有什么开源的套壳 mihomo 的软件吗。&lt;/p&gt;
+      <title>我去，原来 Loon 的加密插件能明文直接看用户密码，怎么办啊 换哪个好</title>
+      <link>https://www.v2ex.com/t/1253483</link>
+      <guid>v2ex-1253483</guid>
+      <pubDate>Sun, 01 Nov 2026 01:19:58 GMT</pubDate>
+      <description>看到最近热门的 Clash 发了一篇文章，讲了 MitM 的原理吓出我一身冷汗啊。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://x.com/ClashbyClash/status/2116694703357964555&quot; rel=&quot;nofollow noopener&quot;&gt;https://x.com/ClashbyClash/status/2116694703357964555&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;是不是开启了这个 MitM 的功能使用了加密脚本，就得有自己被攻击的心理准备啊。</description>
+    </item>
+    <item>
+      <title>看到最近群晖被黑，想给 NAS 里的数据做个备份，大家用的什么方案？</title>
+      <link>https://www.v2ex.com/t/1253451</link>
+      <guid>v2ex-1253451</guid>
+      <pubDate>Sat, 31 Oct 2026 13:27:29 GMT</pubDate>
+      <description>&lt;p&gt;最近很多 NAS 被黑了，虽然是因为开公网访问导致的，但是处于 AI 时代，说不定未来内网也不安全！&lt;/p&gt;
+&lt;p&gt;所以想着给 NAS 里接近&lt;strong&gt;1T&lt;/strong&gt;的照片视频备个份。&lt;/p&gt;
+&lt;p&gt;至于为啥有 1T ，因为我老婆一个人就占了 700G,全部都是娃从小到大的照片，视频，10 多年的数据，真被勒索的话会很蛋疼。。&lt;/p&gt;
+&lt;p&gt;最近看了下存百度盘啥的感觉不太靠谱，也不是很方便。。&lt;/p&gt;
+&lt;p&gt;所以想问下大家都在用什么备份方案，必须得做多备份了。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>我常用的几个工具软件都让 AI 替代了</title>
-      <link>https://www.v2ex.com/t/1253398</link>
-      <guid>v2ex-1253398</guid>
-      <pubDate>Sat, 31 Oct 2026 06:59:44 GMT</pubDate>
-      <description>有声书制作软件，把下载的单集音频合并成 m4b 文件，并补充元数据，现在文件夹扔给 AI ，一句话说下需求，ai 就自己操作 ffmpeg 给处理了，并会网上搜索资料填充元数据。&lt;br /&gt;&lt;br /&gt;音乐元数据刮削软件，自己网上下载的音乐很多元数据缺失或者不对的，需要用这种软件修正，以前用的很烂的软件，经常会失败。现在直接把文件夹扔给 AI 一句话就帮你搞定了。&lt;br /&gt;&lt;br /&gt;网页数据抓取，交给国内 AI 干这些太好用了，也是一句话的事情，最终给你结构化的数据。&lt;br /&gt;&lt;br /&gt;程序员工具箱类，都懒得打开这些网页了，直接问一下 AI 。&lt;br /&gt;&lt;br /&gt;感觉以后个人开发的前景只有游戏这一个方向了，工具类软件完全没用了。</description>
+      <title>apple 官网（美区）购买礼品卡可以用招行银行的 visa 卡支付吗？</title>
+      <link>https://www.v2ex.com/t/1253481</link>
+      <guid>v2ex-1253481</guid>
+      <pubDate>Sun, 01 Nov 2026 00:58:56 GMT</pubDate>
+      <description>&lt;p&gt;听说要美国账单地址？
+招行信用卡，支付有短信验证的，需要设置什么？&lt;/p&gt;
+&lt;p&gt;据说很容易被风控？请一个可靠的方式&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>恶心了， ChatGPT 要跟 Codex 共用额度了</title>
+      <link>https://www.v2ex.com/t/1253511</link>
+      <guid>v2ex-1253511</guid>
+      <pubDate>Sun, 01 Nov 2026 04:14:54 GMT</pubDate>
+      <description>&lt;p&gt;今天收到邮件&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-plain&quot;&gt;Hello,
+
+In the coming weeks, we’ll start testing a combined experience for Chat and Work tabs in ChatGPT with a small group of users. We’ll use their feedback to improve the experience before bringing it to more people.
+
+This will enable you to move from exploring an idea to having ChatGPT carry it through, all in one place. You can bring in your files and plugins and ask ChatGPT to build a website, create a presentation, or do things for you on the web, while reviewing and guiding its work. Codex will remain a separate experience in the ChatGPT desktop app.
+
+A shared allowance for ChatGPT and Codex
+
+As part of this unified experience, your use of ChatGPT and Codex will draw from the same allowance in the coming weeks. We’re preparing carefully for this transition to help prevent disruption to your workflows. We expect most users won’t need to wait for their usage to reset more often than they do today. Usage will depend on model and task, with more advanced models and complex tasks using more of your allowance. Unlimited Instant is included in your plan and will not draw from your usage.
+
+You will be able to see your combined remaining usage and reset times in Settings → Usage. If you use your full allowance, you can wait for it to reset, upgrade your plan, or buy credits to continue using eligible features.
+
+The OpenAI team
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;意味着以后 Chat 模式也不能随便用了。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>把 Surge 换成 FlClash 了，实在用不起了～ 老铁们你们都用哪个客户端？</title>
+      <link>https://www.v2ex.com/t/1253435</link>
+      <guid>v2ex-1253435</guid>
+      <pubDate>Sat, 31 Oct 2026 11:35:06 GMT</pubDate>
+      <description>&lt;p&gt;升级到 macOS 27 ，Surge 无法使用了&lt;/p&gt;
+&lt;p&gt;准备续费 一看要 300 人民币，果断用免费的 Clash&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
