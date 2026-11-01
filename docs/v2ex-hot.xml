@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Nov 2026 16:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:54:51 GMT</lastBuildDate>
     <item>
       <title>[macOS] AbcTab：让 ⌘Tab 快得能跟上你的手 [送激活码]</title>
       <link>https://www.v2ex.com/t/1253484</link>
@@ -40,13 +40,6 @@
       <description>前两天刚下飞机，随手带了一本没看过的书，结果很无语，书很垃圾&lt;br /&gt;&lt;br /&gt;但是手机也没有网&lt;br /&gt;&lt;br /&gt;航旅纵横上面的无网掼蛋我也不喜欢，纯粹不喜欢打牌</description>
     </item>
     <item>
-      <title>我去，原来 Loon 的加密插件能明文直接看用户密码，怎么办啊 换哪个好</title>
-      <link>https://www.v2ex.com/t/1253483</link>
-      <guid>v2ex-1253483</guid>
-      <pubDate>Sun, 01 Nov 2026 01:19:58 GMT</pubDate>
-      <description>看到最近热门的 Clash 发了一篇文章，讲了 MitM 的原理吓出我一身冷汗啊。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://x.com/ClashbyClash/status/2116694703357964555&quot; rel=&quot;nofollow noopener&quot;&gt;https://x.com/ClashbyClash/status/2116694703357964555&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;是不是开启了这个 MitM 的功能使用了加密脚本，就得有自己被攻击的心理准备啊。</description>
-    </item>
-    <item>
       <title>apple 官网（美区）购买礼品卡可以用招行银行的 visa 卡支付吗？</title>
       <link>https://www.v2ex.com/t/1253481</link>
       <guid>v2ex-1253481</guid>
@@ -55,13 +48,6 @@
 招行信用卡，支付有短信验证的，需要设置什么？&lt;/p&gt;
 &lt;p&gt;据说很容易被风控？请一个可靠的方式&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>当没 token 额度了 你会手改 AI 生成的代码吗 😂</title>
-      <link>https://www.v2ex.com/t/1253543</link>
-      <guid>v2ex-1253543</guid>
-      <pubDate>Sun, 01 Nov 2026 08:41:51 GMT</pubDate>
-      <description>当没 token 额度了 你会手改 AI 生成的代码吗 😂</description>
     </item>
     <item>
       <title>恶心了， ChatGPT 要跟 Codex 共用额度了</title>
@@ -87,6 +73,13 @@ The OpenAI team
 </description>
     </item>
     <item>
+      <title>当没 token 额度了 你会手改 AI 生成的代码吗 😂</title>
+      <link>https://www.v2ex.com/t/1253543</link>
+      <guid>v2ex-1253543</guid>
+      <pubDate>Sun, 01 Nov 2026 08:41:51 GMT</pubDate>
+      <description>当没 token 额度了 你会手改 AI 生成的代码吗 😂</description>
+    </item>
+    <item>
       <title>注册 claude 就弹 kyc</title>
       <link>https://www.v2ex.com/t/1253499</link>
       <guid>v2ex-1253499</guid>
@@ -101,13 +94,13 @@ The OpenAI team
       <description>简介：&lt;br /&gt;赛博乞讨，一人给我一元钱，我将是亿万富翁啦，哈哈哈，欢迎投喂（使用微信赞赏码收款）&lt;br /&gt;&lt;br /&gt;网站地址：&lt;br /&gt;http://47.107.180.19:8080/</description>
     </item>
     <item>
-      <title>Reddit 只发评论，被禁 6 个账户😡，有什么使用规则吗？</title>
-      <link>https://www.v2ex.com/t/1253477</link>
-      <guid>v2ex-1253477</guid>
-      <pubDate>Sun, 01 Nov 2026 00:08:53 GMT</pubDate>
-      <description>&lt;p&gt;Reddit 上为了推广自己的软件，给相关贴纸留言评论，都是简短的十几二十几个单词的简短评论，不带链接，一天也就是两三条，结果发现第二天账户就被禁了。&lt;/p&gt;
-&lt;p&gt;申述不管用，只能重新注册账号，然后反复注册了 6 个账号，一般都是注册 3 天后开始尝试回复评论，新账号也基本都被禁了。&lt;/p&gt;
-&lt;p&gt;有实践过的朋友吗，Reddit 有什么具体的规则，是否合适推广自己软件产品，如何避免被禁，求教～&lt;/p&gt;
+      <title>用 AI 逆向了搜狗输入法， 让搜狗输入法(v16.10)完全断网 / 禁止更新 / 禁止广告 的一键脚本</title>
+      <link>https://www.v2ex.com/t/1253540</link>
+      <guid>v2ex-1253540</guid>
+      <pubDate>Sun, 01 Nov 2026 08:24:20 GMT</pubDate>
+      <description>&lt;p&gt;让搜狗输入法(v16.10)完全断网 / 禁止更新 / 禁止广告 的一键脚本&lt;/p&gt;
+&lt;p&gt;放 github 了：
+&lt;a href=&quot;https://github.com/SillyShalong/input-method-no-network&quot; rel=&quot;nofollow&quot;&gt;https://github.com/SillyShalong/input-method-no-network&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
