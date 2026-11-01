@@ -4,110 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 01 Nov 2026 10:40:15 GMT</lastBuildDate>
-    <item>
-      <title>[送码两天] Emby/Plex/NAS 视频播放器 Vidzer v1.2.0 发布，首次支持安卓，还支持 macOS 和 Windows</title>
-      <link>https://www.v2ex.com/t/1253453</link>
-      <guid>v2ex-1253453</guid>
-      <pubDate>Sat, 31 Oct 2026 13:47:27 GMT</pubDate>
-      <description>&lt;h3&gt;前言&lt;/h3&gt;
-&lt;p&gt;两周前发布了 Windows 版，安卓版终于也来了，实话说，因为我送的永久激活码可以三台设备，为了不让 v 友蒙受损失，所以继续搞了安卓版本，正好支持三端了，哈哈。目前需要下载安装包安装（和 Google Play 版签名相同，后续可以直接升级，数据不会丢失），Google Play 正在着手上架，上架成功了还会再送一波码。&lt;/p&gt;
-&lt;p&gt;听人劝吃饱饭，v1.2.0 加入了弹幕（支持弹弹 Play 兼容的 API ）和字幕样式等功能；解决了 v 友 github 提的 issue ；还优化了一些细节和 bug 修复&lt;/p&gt;
-&lt;h3&gt;功能&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;支持的文件源：Emby/Jellyfin/Plex 、WebDav/SMB/NFS/FTP 、本地文件/本地文件夹&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;播放器基于 MPV ，视频的处理基于 FFmpeg ，几乎兼容所有常见格式&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;跳过片头片尾、小窗模式、字幕下载、进度条预览、记忆音频和字幕、字幕样式&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;弹幕功能，支持弹弹 Play 兼容的 API&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;学习模式（特色功能，支持悬浮查词、字幕列表、句子导航、字幕样式），主要针对语言学习场景，学习语言支持英语，可以边看美剧边学英语。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;安卓版截图&lt;/h3&gt;
-&lt;p&gt;首页：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/YT1sTNc.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;剧集详情页：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/mGdbYUB.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;播放器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/bBfoDmB.jpeg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;学习模式：&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/mrDdUN3.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;送码&lt;/h2&gt;
-&lt;p&gt;本次送码不限制数量，送码两天，即 11 月 2 号 22 点活动结束。评论区发送邮箱地址，收到激活码邮件后，使用邮箱地址和激活码激活即可。请尽快激活，如果 7 天不激活，我这边打算清理掉。&lt;/p&gt;
-&lt;p&gt;安卓入口：设置-&amp;gt;Vidzer Pro-&amp;gt;已有激活码-&amp;gt;输入邮箱和激活码-&amp;gt;激活&lt;/p&gt;
-&lt;p&gt;桌面端入口：设置-&amp;gt;授权-&amp;gt;输入邮箱和激活码-&amp;gt;激活&lt;/p&gt;
-&lt;p&gt;收到码的大佬，麻烦帮忙 github 点点 star ，谢谢了！&lt;/p&gt;
-&lt;p&gt;下面是免费版和 pro 对比：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;功能&lt;/th&gt;
-&lt;th&gt;免费版&lt;/th&gt;
-&lt;th&gt;Pro&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;视频播放&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Jellyfin / Emby / Plex 服务器&lt;/td&gt;
-&lt;td&gt;1 个&lt;/td&gt;
-&lt;td&gt;不限&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;本地文件 / WebDAV / SMB / NFS / FTP&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;跳过片头片尾&lt;/td&gt;
-&lt;td&gt;❌&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;学习模式：悬停查词&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;学习模式：字幕样式&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;学习模式：句子导航&lt;/td&gt;
-&lt;td&gt;❌&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;学习模式：字幕列表&lt;/td&gt;
-&lt;td&gt;❌&lt;/td&gt;
-&lt;td&gt;✅&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;收费计划&lt;/h2&gt;
-&lt;p&gt;永久 Pro 最多支持三台设备，定价是¥19.9 （美元$9.9 ），搞了个 v 站专属半价优惠码&lt;code&gt;V2EX&lt;/code&gt;，优惠后价格¥9.9&lt;/p&gt;
-&lt;h3&gt;链接&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://vidzer.app/zh&quot; rel=&quot;nofollow&quot;&gt;官网&lt;/a&gt; &lt;a href=&quot;https://github.com/vidzer-app/vidzer-releases&quot; rel=&quot;nofollow&quot;&gt;Github&lt;/a&gt; &lt;a href=&quot;https://t.me/+71lcg5GEq0w5MDhh&quot; rel=&quot;nofollow&quot;&gt;官方讨论群&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;下载地址：&lt;/p&gt;
-&lt;p&gt;安卓：&lt;a href=&quot;https://vidzer.app/api/download/android-arm64&quot; rel=&quot;nofollow&quot;&gt;arm64&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;macOS：&lt;a href=&quot;https://vidzer.app/api/download/arm64&quot; rel=&quot;nofollow&quot;&gt;apple&lt;/a&gt; &lt;a href=&quot;https://vidzer.app/api/download/x64&quot; rel=&quot;nofollow&quot;&gt;intel&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Windows：&lt;a href=&quot;https://vidzer.app/api/download/windows-x64&quot; rel=&quot;nofollow&quot;&gt;x64&lt;/a&gt; &lt;/p&gt;
-&lt;h3&gt;后记&lt;/h3&gt;
-&lt;p&gt;Google Play 开发者账号还是比较划算的，25 美元一次性费用，没有订阅费用，点个赞。另外想问下大家对 iOS 和 Linux 版有需求吗？&lt;/p&gt;
-&lt;p&gt;如果遇到问题和 bug 欢迎反馈（特别是安卓版本，预计有不少 bug 和瑕疵），评论区，讨论群，github issue 都可以，我会优先处理！&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 01 Nov 2026 16:56:36 GMT</lastBuildDate>
     <item>
       <title>[macOS] AbcTab：让 ⌘Tab 快得能跟上你的手 [送激活码]</title>
       <link>https://www.v2ex.com/t/1253484</link>
@@ -143,33 +40,11 @@
       <description>前两天刚下飞机，随手带了一本没看过的书，结果很无语，书很垃圾&lt;br /&gt;&lt;br /&gt;但是手机也没有网&lt;br /&gt;&lt;br /&gt;航旅纵横上面的无网掼蛋我也不喜欢，纯粹不喜欢打牌</description>
     </item>
     <item>
-      <title>claude 跳 kyc 了，有啥渠道可以联系歪果仁帮忙 kyc 啊？</title>
-      <link>https://www.v2ex.com/t/1253446</link>
-      <guid>v2ex-1253446</guid>
-      <pubDate>Sat, 31 Oct 2026 13:05:21 GMT</pubDate>
-      <description>&lt;p&gt;求救求救，天才程序员不想陨落啊。&lt;/p&gt;
-&lt;p&gt;有啥渠道可以联系歪果仁帮忙 kyc 啊？&lt;/p&gt;
-&lt;p&gt;咸鱼上我看关键字都被封禁了，都不知道怎么找歪果仁帮忙。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>我去，原来 Loon 的加密插件能明文直接看用户密码，怎么办啊 换哪个好</title>
       <link>https://www.v2ex.com/t/1253483</link>
       <guid>v2ex-1253483</guid>
       <pubDate>Sun, 01 Nov 2026 01:19:58 GMT</pubDate>
       <description>看到最近热门的 Clash 发了一篇文章，讲了 MitM 的原理吓出我一身冷汗啊。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://x.com/ClashbyClash/status/2116694703357964555&quot; rel=&quot;nofollow noopener&quot;&gt;https://x.com/ClashbyClash/status/2116694703357964555&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;是不是开启了这个 MitM 的功能使用了加密脚本，就得有自己被攻击的心理准备啊。</description>
-    </item>
-    <item>
-      <title>看到最近群晖被黑，想给 NAS 里的数据做个备份，大家用的什么方案？</title>
-      <link>https://www.v2ex.com/t/1253451</link>
-      <guid>v2ex-1253451</guid>
-      <pubDate>Sat, 31 Oct 2026 13:27:29 GMT</pubDate>
-      <description>&lt;p&gt;最近很多 NAS 被黑了，虽然是因为开公网访问导致的，但是处于 AI 时代，说不定未来内网也不安全！&lt;/p&gt;
-&lt;p&gt;所以想着给 NAS 里接近&lt;strong&gt;1T&lt;/strong&gt;的照片视频备个份。&lt;/p&gt;
-&lt;p&gt;至于为啥有 1T ，因为我老婆一个人就占了 700G,全部都是娃从小到大的照片，视频，10 多年的数据，真被勒索的话会很蛋疼。。&lt;/p&gt;
-&lt;p&gt;最近看了下存百度盘啥的感觉不太靠谱，也不是很方便。。&lt;/p&gt;
-&lt;p&gt;所以想问下大家都在用什么备份方案，必须得做多备份了。&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>apple 官网（美区）购买礼品卡可以用招行银行的 visa 卡支付吗？</title>
@@ -180,6 +55,13 @@
 招行信用卡，支付有短信验证的，需要设置什么？&lt;/p&gt;
 &lt;p&gt;据说很容易被风控？请一个可靠的方式&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>当没 token 额度了 你会手改 AI 生成的代码吗 😂</title>
+      <link>https://www.v2ex.com/t/1253543</link>
+      <guid>v2ex-1253543</guid>
+      <pubDate>Sun, 01 Nov 2026 08:41:51 GMT</pubDate>
+      <description>当没 token 额度了 你会手改 AI 生成的代码吗 😂</description>
     </item>
     <item>
       <title>恶心了， ChatGPT 要跟 Codex 共用额度了</title>
@@ -205,12 +87,27 @@ The OpenAI team
 </description>
     </item>
     <item>
-      <title>把 Surge 换成 FlClash 了，实在用不起了～ 老铁们你们都用哪个客户端？</title>
-      <link>https://www.v2ex.com/t/1253435</link>
-      <guid>v2ex-1253435</guid>
-      <pubDate>Sat, 31 Oct 2026 11:35:06 GMT</pubDate>
-      <description>&lt;p&gt;升级到 macOS 27 ，Surge 无法使用了&lt;/p&gt;
-&lt;p&gt;准备续费 一看要 300 人民币，果断用免费的 Clash&lt;/p&gt;
+      <title>注册 claude 就弹 kyc</title>
+      <link>https://www.v2ex.com/t/1253499</link>
+      <guid>v2ex-1253499</guid>
+      <pubDate>Sun, 01 Nov 2026 02:50:17 GMT</pubDate>
+      <description>注册一个 claude 就弹 kyc ，这个节点是不是就不推荐了</description>
+    </item>
+    <item>
+      <title>我做了一个赛博乞讨网站</title>
+      <link>https://www.v2ex.com/t/1253521</link>
+      <guid>v2ex-1253521</guid>
+      <pubDate>Sun, 01 Nov 2026 05:10:14 GMT</pubDate>
+      <description>简介：&lt;br /&gt;赛博乞讨，一人给我一元钱，我将是亿万富翁啦，哈哈哈，欢迎投喂（使用微信赞赏码收款）&lt;br /&gt;&lt;br /&gt;网站地址：&lt;br /&gt;http://47.107.180.19:8080/</description>
+    </item>
+    <item>
+      <title>Reddit 只发评论，被禁 6 个账户😡，有什么使用规则吗？</title>
+      <link>https://www.v2ex.com/t/1253477</link>
+      <guid>v2ex-1253477</guid>
+      <pubDate>Sun, 01 Nov 2026 00:08:53 GMT</pubDate>
+      <description>&lt;p&gt;Reddit 上为了推广自己的软件，给相关贴纸留言评论，都是简短的十几二十几个单词的简短评论，不带链接，一天也就是两三条，结果发现第二天账户就被禁了。&lt;/p&gt;
+&lt;p&gt;申述不管用，只能重新注册账号，然后反复注册了 6 个账号，一般都是注册 3 天后开始尝试回复评论，新账号也基本都被禁了。&lt;/p&gt;
+&lt;p&gt;有实践过的朋友吗，Reddit 有什么具体的规则，是否合适推广自己软件产品，如何避免被禁，求教～&lt;/p&gt;
 </description>
     </item>
   </channel>
