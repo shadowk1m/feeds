@@ -4,22 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 02 Nov 2026 23:43:38 GMT</lastBuildDate>
-    <item>
-      <title>没有人讨论影之刃零吗？</title>
-      <link>https://www.v2ex.com/t/1253638</link>
-      <guid>v2ex-1253638</guid>
-      <pubDate>Mon, 02 Nov 2026 00:53:26 GMT</pubDate>
-      <description>我周末已经玩到天昏地暗不知时间为何物了，无心上班想请假回去继续打</description>
-    </item>
-    <item>
-      <title>你们除了上班 娱乐方式有哪些</title>
-      <link>https://www.v2ex.com/t/1253690</link>
-      <guid>v2ex-1253690</guid>
-      <pubDate>Mon, 02 Nov 2026 02:15:17 GMT</pubDate>
-      <description>&lt;p&gt;周末有时候无聊到甚至想上班，  游戏不想打，  在家躺着心里都有点焦虑，  想去做点什么又不知道做什么，  你们休息一般做点什么呢？&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Tue, 03 Nov 2026 04:29:40 GMT</lastBuildDate>
     <item>
       <title>前公司老板找我回去救场，情况比较特殊，想听听各位的建议</title>
       <link>https://www.v2ex.com/t/1253836</link>
@@ -43,13 +28,6 @@
 </description>
     </item>
     <item>
-      <title>兄弟们这辈子买过的最贵的东西是什么？</title>
-      <link>https://www.v2ex.com/t/1253707</link>
-      <guid>v2ex-1253707</guid>
-      <pubDate>Mon, 02 Nov 2026 02:47:41 GMT</pubDate>
-      <description>除了房子、看病、养娃，摸得到的实物</description>
-    </item>
-    <item>
       <title>朋友一家定期献血，我看着矿泉水瓶陷入了沉思</title>
       <link>https://www.v2ex.com/t/1253782</link>
       <guid>v2ex-1253782</guid>
@@ -62,47 +40,89 @@
 </description>
     </item>
     <item>
-      <title>大家现在每天早餐消费多少钱？</title>
-      <link>https://www.v2ex.com/t/1253673</link>
-      <guid>v2ex-1253673</guid>
-      <pubDate>Mon, 02 Nov 2026 01:57:10 GMT</pubDate>
-      <description>我是上班时吃一个和善园肉包 2.5 ，周末起不来就不吃了</description>
+      <title>Claude 不到 10 分钟搓了个这个，码农真的要玩完了</title>
+      <link>https://www.v2ex.com/t/1253990</link>
+      <guid>v2ex-1253990</guid>
+      <pubDate>Mon, 02 Nov 2026 23:58:15 GMT</pubDate>
+      <description>Claude 不到 10 分钟做了个能用的小朋友四则运算练习站，真的感觉要失业了。&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://binarydevil.github.io/bunny-math/&quot; rel=&quot;nofollow noopener&quot;&gt;https://binarydevil.github.io/bunny-math/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;其实我不是惊讶于他能不能搓到这个程度，而是一把梭 10 分钟就搓出来，完全没有返工。大受震撼</description>
     </item>
     <item>
-      <title>agent 的代码到底审不审核</title>
-      <link>https://www.v2ex.com/t/1253699</link>
-      <guid>v2ex-1253699</guid>
-      <pubDate>Mon, 02 Nov 2026 02:33:29 GMT</pubDate>
-      <description>&lt;p&gt;用 claude code 写的代码&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# 子集聚合全部改成掩码列，取代循环里的 kills/killed/npc/rev/paid 五次切片
-    d[&quot;_paid&quot;] = ((d[&quot;is_revive&quot;] == 1) &amp;amp; (d[&quot;irevivemoney&quot;] &amp;gt; 0)).astype(int)
-    d[&quot;_kill_tgt&quot;] = d[&quot;votherroleid&quot;].where(d[&quot;is_kill&quot;] == 1)
-    d[&quot;_killed_src&quot;] = d[&quot;votherroleid&quot;].where(d[&quot;is_killed_by_role&quot;] == 1)
-    d[&quot;_rev_type&quot;] = d[&quot;irevivetype&quot;].where(d[&quot;is_revive&quot;] == 1)
-    d[&quot;_paid_money&quot;] = d[&quot;irevivemoney&quot;].where(d[&quot;_paid&quot;] == 1)
-    d[&quot;_red&quot;] = (utils.to_num(d[&quot;ikilledred&quot;]).fillna(0) if has_killedred
-                 else pd.Series(0.0, index=d.index))
-    gb = d.groupby(&quot;roleid&quot;, sort=False)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;全是这样的，完全看不懂！但是让 agent 讲解一看，确实又高效又简洁，但是很难看懂啊。到底审还是不审核&lt;/p&gt;
+      <title>如何找借口拒绝医生开的中药</title>
+      <link>https://www.v2ex.com/t/1254023</link>
+      <guid>v2ex-1254023</guid>
+      <pubDate>Tue, 03 Nov 2026 01:46:57 GMT</pubDate>
+      <description>&lt;p&gt;如题，特别是那种说明书上各种“尚不明确”的中药&lt;/p&gt;
+&lt;p&gt;怎么才能不得罪大夫的情况下，合理的拒绝&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>现在的行情真的很冷</title>
-      <link>https://www.v2ex.com/t/1253652</link>
-      <guid>v2ex-1253652</guid>
-      <pubDate>Mon, 02 Nov 2026 01:19:33 GMT</pubDate>
-      <description>4 月份开始搞绩效改革，5 月份开始不发工资，8 月份被骂 然后离职。然后 boss 上一直没什么面试。娃一岁半需要陪伴也需要经济支持，而我，只有一腔对自己的失望。老婆的收入勉强付得起房贷，生活费还在吃老本。有点后悔以前经济形势好的时候养猫，胡吃海喝，没有提前还房贷。但是除此之外也没怎么浪费钱，养猫虽然花了 2 个 W，但是学到了好多照顾哺乳动物的常识，为养娃打基础。真的没想到自己就这样被时代淘汰了，以后真的要加入铁人三项了吗？</description>
+      <title>市场行情啥时候能好点？</title>
+      <link>https://www.v2ex.com/t/1253887</link>
+      <guid>v2ex-1253887</guid>
+      <pubDate>Mon, 02 Nov 2026 09:21:03 GMT</pubDate>
+      <description>&lt;p&gt;记得 21 年前，房价年年涨，工资也年年涨，感觉这就是常态，然后突然行情就调转直下了。&lt;/p&gt;
+&lt;p&gt;新闻中到处是裁员的新闻，房价连创新低，找工作也越来越不好找，找到了工资比之前还低。。&lt;/p&gt;
+&lt;p&gt;大家觉得啥时候是个头啊？啥时候能回到 21 年前的那种状态呢？还能回去吗？&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>AI 普及之后，应该把所有 Electron 重写为 native</title>
-      <link>https://www.v2ex.com/t/1253744</link>
-      <guid>v2ex-1253744</guid>
-      <pubDate>Mon, 02 Nov 2026 03:45:29 GMT</pubDate>
-      <description>&lt;p&gt;凡是基于 Electron 开发的，开着时间长，必然内存占用越来越大，界面响应越来越慢&lt;/p&gt;
-&lt;p&gt;以前大家手写不挑你理，既然 AI 让写代码成本降低了&lt;/p&gt;
-&lt;p&gt;感觉第一件事就应该全部迁移为 native&lt;/p&gt;
-&lt;p&gt;大不了 macos/windows 各写一套呗，相同业务逻辑&lt;/p&gt;
+      <title>熊市持续中就开个银河买纳指或者红利低波 ETF 吧，“万一免五”股票基金免 5 大笑脸开户</title>
+      <link>https://www.v2ex.com/t/1253995</link>
+      <guid>v2ex-1253995</guid>
+      <pubDate>Tue, 03 Nov 2026 00:35:15 GMT</pubDate>
+      <description>熊市中少买股票，就开个银河买买纳指或者红利低波 ETF 就行，胆子大的可以抄底!&lt;br /&gt;这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+&lt;br /&gt;⚠️回帖即可参与抽奖！&lt;br /&gt;⚠️大笑脸开户，股票基金 etf 最低费率，etf 低至“万 0.5 免五”，欢迎来开！&lt;br /&gt;⚠️大笑脸开户推荐：&lt;br /&gt;YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，逆回购 1 折，新手必备]&lt;br /&gt;GF 证券：ETF 万 0.5 免 5 [ETF 费率低]&lt;br /&gt;CC 证券： 万 1 免 5 [低门槛股票 etf 双免 5]&lt;br /&gt;DB 证券： 万 0.741 免 5 [国企券商，股票 etf 费率都很低]&lt;br /&gt;GX 证券： 万 0.851 免 5 [头部龙头券商，综合费率也很低]&lt;br /&gt;&lt;br /&gt;⚠️大笑脸联系方式和最新券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;http://www.daxiaolian.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.daxiaolian.com&lt;/a&gt;&lt;br /&gt;备用链接 &lt;a target=&quot;_blank&quot; href=&quot;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&quot; rel=&quot;nofollow noopener&quot;&gt;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&lt;/a&gt;&lt;br /&gt;备用联系方式 Z2FveWEyNTAw&lt;br /&gt;ZHhnODg0NA==</description>
+    </item>
+    <item>
+      <title>这可能是今年最让 JS 开发者激动的事情了</title>
+      <link>https://www.v2ex.com/t/1253998</link>
+      <guid>v2ex-1253998</guid>
+      <pubDate>Tue, 03 Nov 2026 00:47:11 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;3D 鹈鹕骑自行车&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/WS77boZ.png&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;上面是我用 JS+HTML+WebGL2 做的鹈鹕 3D 骑自行车，FPS 也非常不错。&lt;/p&gt;
+&lt;p&gt;你可能会说“这不是用 Ai 有手就行了么？”&lt;/p&gt;
+&lt;p&gt;但是，如果我说我把这上面用 xbintsc 编译成原生二进制，还不到 10MB,还能在没有 WebView 环境上跑，还能支持 Node.js 和 HTML 混写，如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;html&amp;gt;
+    &amp;lt;body&amp;gt;
+    &amp;lt;div id=&quot;out&quot;&amp;gt;loading...&amp;lt;/div&amp;gt;
+    &amp;lt;script lang=&quot;ts&quot;&amp;gt;
+        import { readFileSync } from &quot;fs&quot;;
+
+        const out = document.getElementById(&quot;out&quot;);
+        const world = readFileSync(&quot;data.txt&quot;, &quot;utf8&quot;);
+        out.textContent = &quot;hello &quot; + world;
+    &amp;lt;/script&amp;gt;
+    &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;要知道以前光 chrome 最少也得有 100MB ，用 xbintsc 编译产物 10MB 还不需要 WebView 环境，这可不仅仅代表桌面端开发体积极大减小和更加正确的实现路径的问题。&lt;/p&gt;
+&lt;p&gt;更加具有划时代意义的是，JS 开发者在嵌入式设备跑你想要做的应用成为了可能。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/zy445566/xbintsc&quot; rel=&quot;nofollow&quot;&gt;xbintsc 开源地址&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>周末白裙被勒索病毒攻击，目前恢复中</title>
+      <link>https://www.v2ex.com/t/1253811</link>
+      <guid>v2ex-1253811</guid>
+      <pubDate>Mon, 02 Nov 2026 06:43:35 GMT</pubDate>
+      <description>&lt;p&gt;周末起来发现 nas 服务都挂了，查看日志显示凌晨 2 点多被攻击，幸好 nas 还能通过 5001 端口登入，所有文件都被加密，后缀是.L0CK3D ，问了下 muse,按照提示进行操作，后面让 muse 通过 tailscale 来接管操作，关键千万不能关机。找到密钥以后就简单了，后面就是慢慢跑脚本恢复了。
+&lt;a href=&quot;https://imgchr.com/i/pngdLpF&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;pngdLpF.md.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s41.ax1x.com/2026/11/02/pngdLpF.md.png&quot;/&gt;&lt;/a&gt;
+&lt;a href=&quot;https://imgchr.com/i/pngdoT0&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;pngdoT0.md.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s41.ax1x.com/2026/11/02/pngdoT0.md.png&quot;/&gt;&lt;/a&gt;
+&lt;a href=&quot;https://imgchr.com/i/pngd7kV&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;pngd7kV.md.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s41.ax1x.com/2026/11/02/pngd7kV.md.png&quot;/&gt;&lt;/a&gt;
+&lt;a href=&quot;https://imgchr.com/i/pngdIwq&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;pngdIwq.md.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s41.ax1x.com/2026/11/02/pngdIwq.md.png&quot;/&gt;&lt;/a&gt;
+&lt;a href=&quot;https://imgchr.com/i/pngdHYT&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;pngdHYT.md.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s41.ax1x.com/2026/11/02/pngdHYT.md.png&quot;/&gt;&lt;/a&gt;
+&lt;a href=&quot;https://imgchr.com/i/pngdbfU&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;pngdbfU.md.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://s41.ax1x.com/2026/11/02/pngdbfU.md.png&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>万一 token 全部涨价，我们怎么办？</title>
+      <link>https://www.v2ex.com/t/1253791</link>
+      <guid>v2ex-1253791</guid>
+      <pubDate>Mon, 02 Nov 2026 06:14:28 GMT</pubDate>
+      <description>&lt;p&gt;现在写代码、排查问题全部使用 AI 了，如果下个月 token 全部涨价，公司不提供了。&lt;/p&gt;
+&lt;p&gt;你该如何办？&lt;/p&gt;
+&lt;p&gt;自费购买还是回归手写？&lt;/p&gt;
+&lt;p&gt;另外调查下，现在有多少自费购买 coding plan 用于工作的？&lt;/p&gt;
+&lt;p&gt;（中午午休突然想到这个问题，反正我现在很难回到手工时代了。）&lt;/p&gt;
 </description>
     </item>
   </channel>
