@@ -4,44 +4,140 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 05 Nov 2026 01:20:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 08:00:54 GMT</lastBuildDate>
     <item>
-      <title>我就想知道我顶着限速跑在最左侧道路到底有没有问题？</title>
-      <link>https://www.v2ex.com/t/1254349</link>
-      <guid>v2ex-1254349</guid>
-      <pubDate>Wed, 04 Nov 2026 02:47:12 GMT</pubDate>
-      <description>我就想知道我顶着限速跑在最左侧道路到底有没有问题？</description>
-    </item>
-    <item>
-      <title>2026 年底了，忽然想转 iPhone ，属于是？</title>
-      <link>https://www.v2ex.com/t/1254315</link>
-      <guid>v2ex-1254315</guid>
-      <pubDate>Wed, 04 Nov 2026 01:34:45 GMT</pubDate>
-      <description>这么多年，之前用过 4s 和 6s ，其他都是折腾安卓家的各个品牌&lt;br /&gt;最近接连着碰到两三件国产品牌安卓手机过渡介入私人隐私问题搞的有点恼火&lt;br /&gt;想着 ios 是好点？&lt;br /&gt;但是似乎果子是在下坡路上俯冲了？&lt;br /&gt;还一个担忧的是之前很多折腾的 app 在 ios 上不知道有没有平替，现在应该也没有越狱之类的说法了吧？&lt;br /&gt;对了，还有信号担忧。&lt;br /&gt;续航倒是还好，能接受带着的充电宝。</description>
-    </item>
-    <item>
-      <title>第一次相亲结束了，果然和网上说的一模一样啊。</title>
-      <link>https://www.v2ex.com/t/1254348</link>
-      <guid>v2ex-1254348</guid>
-      <pubDate>Wed, 04 Nov 2026 02:46:22 GMT</pubDate>
-      <description>&lt;p&gt;前情提要： &lt;a href=&quot;/t/1253104&quot; rel=&quot;nofollow&quot;&gt;/t/1253104&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;上次发了帖子后，我尝试了和对方聊天，然后想着周末约着出去玩。 之前对方说对我没什么看法，我以为可以聊聊然后继续约着见面。&lt;/p&gt;
-&lt;p&gt;但连续两三天，都是我给对方说点什么，对方隔七八个小时或者第二天才回复，回复也就是几个字。我再傻也知道这没什么沟通的必要了，只是我不理解既然不想回复，之前直接说不合适不就好了，为啥要说：“对我没什么看法”呢？是因为要给父母有个交代吗？&lt;/p&gt;
-&lt;p&gt;以前我以为网上相亲那些视频里面，什么女生慢热将男生挂在半空中都是玩梗呢，现在我才知道原来现实里真有这样的。 我知道自己远远达不到让别人倒追的地步，但这种言行不一的行为还是让我大开眼界。&lt;/p&gt;
+      <title>全球 3.5 万个电台随机听 RoamDial： iOS 版上架了，安卓正在封测，发帖送一波永久 Pro 码</title>
+      <link>https://www.v2ex.com/t/1254622</link>
+      <guid>v2ex-1254622</guid>
+      <pubDate>Thu, 05 Nov 2026 02:00:08 GMT</pubDate>
+      <description>&lt;p&gt;前阵子在 V 站发帖分享了自己做的网页电台 RoamDial （原帖： &lt;a href=&quot;https://www.v2ex.com/t/1249321&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1249321&lt;/a&gt; ，网页版： &lt;a href=&quot;https://roamdial.com&quot; rel=&quot;nofollow&quot;&gt;https://roamdial.com&lt;/a&gt; ），没想到收到 370 多条回复。&lt;/p&gt;
+&lt;p&gt;当时帖子里很多朋友在催原生 App 、CarPlay ，还有朋友帮我测试发现 Safari 添加到主屏幕后，锁屏用 AirPods 连续切台偶尔会被系统吞掉按键。这段时间把 iOS 和安卓客户端都做出来了——&lt;strong&gt;iOS 版刚过审上架，安卓版正在 Google Play 封闭测试&lt;/strong&gt;，开个新帖来交作业，顺便给大家送一波 Pro 永久买断码。&lt;/p&gt;
+&lt;h2&gt;App 比网页版多了什么&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;完整的锁屏 / 灵动岛 / 耳机按键接管&lt;/strong&gt;：原生音频链路（预加载秒切、多线路断流自动换、音量统一都保留了），锁屏和 AirPods 双击切台不再掉链子，支持睡眠定时、AirPlay&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iCloud 同步（依然不用注册账号）&lt;/strong&gt;：收藏的电台、歌曲和排序跟着 iCloud 在不同设备间自动同步；也支持用流地址（ URL / M3U / PLS ）手动添加自己的电台&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;桌面与锁屏小组件&lt;/strong&gt;：正在听（小 / 中 / 大号、锁屏，桌面上直接点播放或换台）、收藏直达、电台那边几点、随机一站&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;电台闹钟&lt;/strong&gt;：设好时间，用你收藏的台或者随机世界上某个台叫醒你&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/gtwfdU6jl.gif&quot;/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;横屏床头模式&lt;/strong&gt;：手机横过来自动变成电台时钟 + 唱片（大字显示电台当地时间、小字显示你这里的时间；插着电播放时常亮，夜里自动压暗，适合放桌搭或床头）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/o733D917l.png&quot;/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;车载（ CarPlay &amp;amp; Android Auto ）&lt;/strong&gt;：安卓版已经支持 Android Auto ； iOS 的 CarPlay 音频权限昨天刚批下来，已经打包进 &lt;code&gt;0.1.1&lt;/code&gt; 提交审核了（过审自动更新），车机收听和车机上直接按「识别这首歌」向所有用户免费开放&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/CvCG3daEl.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/XsJN02bHl.png&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;关于免费与 Pro&lt;/h2&gt;
+&lt;p&gt;和网页版一样，&lt;strong&gt;没有账号，没有广告&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;永远免费&lt;/strong&gt;：所有 3.5 万+ 电台收听、筛选搜索、收藏与 iCloud 同步、自定义地址加台、AirPlay 、横屏床头模式、CarPlay 车载、每天 3 次手机端听歌识曲（认出来才扣次数）、基础唱片样式（地球 / 圆盘 / 星球 / 山脉）和小号组件&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RoamDial Pro （ $9.99 一次买断，不是订阅）&lt;/strong&gt;：不限次听歌识曲、5 种新唱片样式（雷达 / 星系 / 电波 / 脉冲星 / 光环）、全部桌面与锁屏小组件、电台闹钟&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr/&gt;
-&lt;p&gt;之后和家里人说了情况，家里人也算是不催我了。但我妈后续的一些话又让我很是无语： 男的结婚有好处所以都急着结婚，女的结婚是吃亏所以都不急，想多挑挑。&lt;/p&gt;
-&lt;p&gt;我满脑子问号，问我妈这个理论从何谈起，她说男的将女的娶到家里，家里多了个人，又是给生孩子做家务啥的，也不能上班没有经济来源，肯定都想结婚。&lt;/p&gt;
-&lt;p&gt;我简直无话可说，我会做饭，和我相亲的女生还不会做饭呢，生孩子这也不都是两个人的孩子吗，怎么就好像专门给男人生的一样，再说了结婚不能上班没有经济来源这是什么说法，谁不想让家里多一份收入来源啊，这还是 2026 年吗？ &lt;/p&gt;
-&lt;p&gt;当然我知道我要是和她说这些，肯定又会吵起来，所以我就应付了过去。&lt;/p&gt;
-&lt;p&gt;唉，有的时候我真的不敢相信我是我妈亲生的，之前还要给我介绍离婚带了个已经上小学男孩的女人，非要推微信给我，还说白得一儿子还不好，我当时真怀疑我是路边捡来的。&lt;/p&gt;
+&lt;h2&gt;下载地址&lt;/h2&gt;
+&lt;h3&gt;1. iOS 版（已上架）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;App Store： &lt;a href=&quot;https://apps.apple.com/app/id6826042937&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/id6826042937&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;注意&lt;/strong&gt;：因为备案原因，&lt;strong&gt;未在国区上架，请用美区 / 港区 / 日区等非国区 Apple ID 下载和兑换&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Android 版（ Google Play 封闭测试招募）&lt;/h3&gt;
+&lt;p&gt;Google Play 个人开发者新号要求满 &lt;strong&gt;12 人连续参与测试 14 天&lt;/strong&gt;才能申请正式版上架，非常需要有 Play 环境的安卓朋友搭把手，只需两步：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;用手机 Google Play 登录的同一个 Google 账号，打开测试群组点 &lt;strong&gt;Join group （加入群组）&lt;/strong&gt;：
+&lt;a href=&quot;https://groups.google.com/g/roamdial-testers/about&quot; rel=&quot;nofollow&quot;&gt;https://groups.google.com/g/roamdial-testers/about&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;再打开 Play 测试页点 &lt;strong&gt;Become a tester （成为测试人员）&lt;/strong&gt;，就能跳去 Play 商店安装了：
+&lt;a href=&quot;https://play.google.com/apps/testing/com.roamdial.app&quot; rel=&quot;nofollow&quot;&gt;https://play.google.com/apps/testing/com.roamdial.app&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr/&gt;
+&lt;h2&gt;送码规则&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;iOS 先放 30 个明文 Pro 兑换码&lt;/strong&gt;（非国区 App Store → 点右上角头像 → 兑换充值卡或代码；&lt;strong&gt;领到的朋友麻烦回帖报一下尾号&lt;/strong&gt;，省得后面的人挨个试）：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&quot;language-text&quot;&gt;9WXNPKAR37WK
+TYYKKYE7R6J7
+YH4PPKLE4WL6
+KRA9WYJH3493
+RXWPK4T69FHN
+EJRTHR9J7L4R
+JWARATHL49FY
+9TN39A6EKPKX
+LEFPWMJXWTP7
+YAPXN6FM3F73
+EN6PJEAFEFK7
+NRE7MTYWA7HT
+3HLNRY69YEPP
+7J47A3HE9XJP
+RMET4JPK43M6
+6MPAPTMLYEAE
+TXLM93636LHA
+6NJ4H73K3R7J
+A9477A7YM4KH
+TK44FR6XYFNX
+FLKWKHWJ7MNA
+JTHMRH3LP94H
+P774XXX7F4M3
+Y36WL39R9L6L
+NT9PTJKFEX7R
+N66HHFXY6P3R
+WF49MYJYAJNY
+KY97PHKAEWN9
+P3RPFP63X7T3
+3AFPP7EMYEAL
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;strong&gt;回帖继续送（主力）&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;之前在旧帖里求过 App 的老朋友&lt;/strong&gt;：回帖吱一声，直接优先送码！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;新朋友&lt;/strong&gt;：下载体验后回帖聊聊感受、提提建议或反馈 bug ，今天我会在评论区继续分批送出 50 个 iOS Pro 兑换码（可以留一下 Base64 邮箱或 TG ，也可以等我在楼层里回复）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;Android 封测福利（上车即送）&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;凡是按上面两步加入安卓封闭测试并安装的朋友，回帖说一声「安卓已上车」+ 留个联系方式（或软件内点设置 → 解锁 Pro → 底部兑换访问码），&lt;strong&gt;直接送永久 Pro 解锁码&lt;/strong&gt;，只求帮我在手机里留够 14 天别卸载，感谢！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;大家在使用中遇到任何问题可以直接 app 内通过反馈邮箱发给我，也可以直接在此回复。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>大佬们，你们觉得有必要上回音壁吗</title>
-      <link>https://www.v2ex.com/t/1254330</link>
-      <guid>v2ex-1254330</guid>
-      <pubDate>Wed, 04 Nov 2026 02:01:50 GMT</pubDate>
-      <description>想了解下回音壁对看电视体验提升大吗，最近有点心痒痒，但是又不知道适不适合我&lt;br /&gt;&lt;br /&gt;家里是 TCL Q9K + Apple TV ，平时看电视挺多的，几乎是有电视就不会看手机，但是不会囤积那种高质量片源，不玩 pt ，一般就是看网盘分享的一些剧集、电影。&lt;br /&gt;&lt;br /&gt;还有就是我家沙发挨墙，我看后环绕跟沙发形成一定角度体验才好，这个也是担心的点&lt;br /&gt;&lt;br /&gt;大家接触过什么牌子？想着看看双十一有没有合适的，有的话就想入一个体验体验</description>
+      <title>全新三端纯原生 SSH 客户端： SSH、SFTP 与 AI 尽在一个应用里，随楼依次赠送 100 位评论者 50 个$v2ex</title>
+      <link>https://www.v2ex.com/t/1254583</link>
+      <guid>v2ex-1254583</guid>
+      <pubDate>Thu, 05 Nov 2026 00:15:51 GMT</pubDate>
+      <description>&lt;h2&gt;介绍&lt;/h2&gt;
+&lt;p&gt;SSHYard 是一款免费开源的 SSH / SFTP / SSH-AI 助手 客户端，支持 macOS 、Windows 和 Linux ，在终端里操作、管理远程文件，再让 AI 助手直接在主机上执行命令，一个窗口全部搞定。&lt;/p&gt;
+&lt;p&gt;本软件是纯 Go 编写的，而且纯原生渲染，无任何 WebView 等，速度和占用都很不错，欢迎使用体验和反馈！&lt;/p&gt;
+&lt;h2&gt;开源地址&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;官方网站： &lt;a href=&quot;https://sshyard.com&quot; rel=&quot;nofollow&quot;&gt;https://sshyard.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;开源地址： &lt;a href=&quot;https://github.com/Licoy/sshyard&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Licoy/sshyard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;截图展示&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/Licoy/sshyard/raw/main/docs/terminal-ai-assistant.webp&quot;/&gt;
+&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/Licoy/sshyard/raw/main/docs/system-monitor.webp&quot;/&gt;
+&lt;img alt=&quot;image.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://github.com/Licoy/sshyard/raw/main/docs/ai-assistant-settings.webp&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;评论福利&lt;/h2&gt;
+&lt;p&gt;我们会跟随评论的楼层，依次赠送 50 $v2ex ，如果您的账户没有绑定地址，那么将会顺延至下一个楼层，总计共送 100 层，送完的我都会点击一个感谢以标注提示。&lt;/p&gt;
+&lt;h2&gt;最后&lt;/h2&gt;
+&lt;p&gt;如果觉得本软件还不错，欢迎给我们 &lt;a href=&quot;https://github.com/Licoy/sshyard&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Licoy/sshyard&lt;/a&gt; 点个小小的 Star ，也是对于我们的一种支持&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>刚去接水，发现领导在用洗洁精洗眼镜，搜了下好像说是可以，不过长期用会有什么问题吗</title>
+      <link>https://www.v2ex.com/t/1254628</link>
+      <guid>v2ex-1254628</guid>
+      <pubDate>Thu, 05 Nov 2026 02:11:01 GMT</pubDate>
+      <description>毕竟一个蔡司的镜片也要千把块了，怕长久洗坏了，之前眼镜用久了会感觉被磨了，想掉了膜一样的，不知道洗洁精会不会加重这个</description>
+    </item>
+    <item>
+      <title>能不能给人留点隐私</title>
+      <link>https://www.v2ex.com/t/1254629</link>
+      <guid>v2ex-1254629</guid>
+      <pubDate>Thu, 05 Nov 2026 02:12:25 GMT</pubDate>
+      <description>小米 HyperOS 3 隐私安全事件。&lt;br /&gt;1. System Security Components （系统安全组件）：被指存在屏幕采集、通话反诈检测和数据上传机制。&lt;br /&gt;2. SystemHelper：被指在后台统计 App 安装情况、使用记录、设备及 SIM 卡标识，并向中国联通服务器上报。&lt;br /&gt;3. GuardProvider：另一项被爆料的系统特权组件，涉及录屏、录音及风险检测能力。&lt;br /&gt;&lt;br /&gt;我看片不会被发现了吧</description>
     </item>
     <item>
       <title>昨天通知被裁员了，到现在脑瓜子还是嗡嗡的</title>
@@ -66,17 +162,36 @@
 </description>
     </item>
     <item>
-      <title>现在国模编程第一是谁？</title>
-      <link>https://www.v2ex.com/t/1254390</link>
-      <guid>v2ex-1254390</guid>
-      <pubDate>Wed, 04 Nov 2026 05:15:40 GMT</pubDate>
-      <description>&lt;p&gt;只考虑质量，不考虑价格的情况下，下面 3 个谁是第一？&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;DS V4.1&lt;/li&gt;
-&lt;li&gt;Kimi 3.1 Pro&lt;/li&gt;
-&lt;li&gt;Qwen 3.8 max&lt;/li&gt;
-&lt;/ol&gt;
+      <title>我觉得 ai 时代对于普通人是利好啊，为啥如此多的人反感/不屑呢？</title>
+      <link>https://www.v2ex.com/t/1254526</link>
+      <guid>v2ex-1254526</guid>
+      <pubDate>Wed, 04 Nov 2026 12:06:07 GMT</pubDate>
+      <description>&lt;p&gt;最近逛论坛、看国外的一些文章，发现好多人（包括我常看的一些专栏作者）都对 ai 有不少负面情绪，或者对那种“vibe coding”挺反感的。他们的理由听起来也五花八门的，比如觉得 ai 剥夺了自己亲手敲代码的乐趣啦、担心 ai 巨头变成了垄断生产资料的地主啦、或者觉得人类的价值被贬值等等。&lt;/p&gt;
+&lt;p&gt;虽说我也能理解这些焦虑，但说实话，要是现在问我“愿不愿意回到没有 ai 的日子”，我绝对会说：打死都不回去，完全回不去了！因为跟现在一比，以前那日子简直就是地狱好吗？&lt;/p&gt;
+&lt;p&gt;大家想想过去咱们过的是啥日子。就拿我自己来说吧，上大学那会儿，身边连个 ai 帮手都没有。遇到做不出的数学题、编程题，就硬生生卡在那儿，一点脾气都没有。然后就是无数个熬夜拖延的晚上，眼看着马上要到截止日期了，心里那种焦虑、害怕，好几次甚至直接 ptsd 。再想想初中、高中，那时更没有 ai ，互联网也不像现在这么发达，就算可以网上搜题的答案，家里也不让上网，所以为了应试，只能花冤枉钱去报各种补习班，活生生被当成韭菜割，不知道被收割了多少钱了。&lt;/p&gt;
+&lt;p&gt;等到了找工作的时候，那就更让人窒息了。你得死记硬背一大堆概念，什么闭包啊、use effect 啊，说句掏心窝子的话，那些概念我到现在都没弄明白。你跟面试官说你会主流的前端框架像 react ，人家觉得你会得不够多，还得精通 html 、css ，你懂了这些，人家又挑刺说你最好还得会 webpack ，最好懂底层原理，最好连源码都研读过，最好在开源社区都有贡献，这都还没算上为了进大厂，在 leetcode 里没日没夜刷算法题的折磨呢，你好不容易做出来了几题，它说 99%的人比你强😂，在 ai 出来之前，感觉整个社会就是把咱们的人脑当 ai 使，还嫌咱们转得不够快。可人脑它根本就不是 ai 啊！这种惨无人道的内卷，真的给人搞出心理创伤了。&lt;/p&gt;
+&lt;p&gt;退一万步讲，就算你熬过了这些，千军万马过独木桥拿到了 offer ，说到底你不还是个职场最底层的打工“牛马”吗？你头上压着主管，主管上面还有老板，人家捏着你的生杀大权，想怎么使唤你就怎么使唤你。再看看那些科技大厂，其实全是被一帮精英把持着，他们就像高高在上的守门人。你非得拼了老命刷题，去迎合他们的规矩，才能分到一杯羹，他们攥着你的饭碗，决定谁能吃上这口饭，谁只能滚蛋。&lt;/p&gt;
+&lt;p&gt;你再看看现在的 ai 时代，它是真真切切地把咱们普通人从这种痛苦里解救出来了，现在任何人都可以靠着 ai 去实现想法、去搞创业。不会前端框架？不懂网页样式和结构？不会搞容器部署和服务器运维？统统没关系，这些痛苦的牛马活儿 ai 全帮咱们搞定了。咱们再也不用去舔那些高高在上的守门人了，也不用在职场里看人脸色受那个窝囊气。ai 把以前那些被垄断的技术全放给了咱们普通人，让我们终于有了不看任何人脸色、真正自己说了算的底气，所以我觉得对于这个时代，ai 确实是给普通人赋能，我觉得不应该对 ai 有如此负面的态度呀。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>勤俭节约的过一辈子，会不会等老了才发现亏大发了</title>
+      <link>https://www.v2ex.com/t/1254524</link>
+      <guid>v2ex-1254524</guid>
+      <pubDate>Wed, 04 Nov 2026 11:54:40 GMT</pubDate>
+      <description>&lt;p&gt;从小节俭生活惯了，节衣缩食的，总想着多存点为未来留后路&lt;/p&gt;
+&lt;p&gt;等老了才发现钱花不完，就没了，是不是血亏啊&lt;/p&gt;
+&lt;p&gt;马斯克还说，未来金钱将变得毫无意义&lt;/p&gt;
+&lt;p&gt;如果金钱真变废纸了，这辈子的节俭，就成了个最大的笑话&lt;/p&gt;
+&lt;p&gt;勤俭节约还有意义吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>可以一直压着最左侧限速跑在最左侧道吗🐶</title>
+      <link>https://www.v2ex.com/t/1254591</link>
+      <guid>v2ex-1254591</guid>
+      <pubDate>Thu, 05 Nov 2026 00:47:24 GMT</pubDate>
+      <description>可以一直压着最左侧限速跑在最左侧道吗🐶</description>
     </item>
     <item>
       <title>比亚迪的天神之眼 B 是真的烂</title>
