@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 05 Nov 2026 08:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:35:28 GMT</lastBuildDate>
     <item>
       <title>全球 3.5 万个电台随机听 RoamDial： iOS 版上架了，安卓正在封测，发帖送一波永久 Pro 码</title>
       <link>https://www.v2ex.com/t/1254622</link>
@@ -140,50 +140,12 @@ P3RPFP63X7T3
       <description>小米 HyperOS 3 隐私安全事件。&lt;br /&gt;1. System Security Components （系统安全组件）：被指存在屏幕采集、通话反诈检测和数据上传机制。&lt;br /&gt;2. SystemHelper：被指在后台统计 App 安装情况、使用记录、设备及 SIM 卡标识，并向中国联通服务器上报。&lt;br /&gt;3. GuardProvider：另一项被爆料的系统特权组件，涉及录屏、录音及风险检测能力。&lt;br /&gt;&lt;br /&gt;我看片不会被发现了吧</description>
     </item>
     <item>
-      <title>昨天通知被裁员了，到现在脑瓜子还是嗡嗡的</title>
-      <link>https://www.v2ex.com/t/1254452</link>
-      <guid>v2ex-1254452</guid>
-      <pubDate>Wed, 04 Nov 2026 08:13:51 GMT</pubDate>
-      <description>&lt;h4&gt;base:北京&lt;/h4&gt;
-&lt;h4&gt;职业：前端&lt;/h4&gt;
-&lt;p&gt;10 月底刚过完 35 岁生日，35 岁这道坎果然还是没迈过去，昨天是 last day, 上午被领导叫去会议室，说是两点原因：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;业务线收缩&lt;/li&gt;
-&lt;li&gt;不符合公司年轻培养计划
-直接通知走人
-下午 hr 聊了一下赔偿，他讲我听着，第一次经历裁员，什么思想准备都没有，hr 让签字就签字……
-后来跟一起被裁掉的前同事聊，才知道这是协商离职，可以给自己争取一些利益，一定不要着急签字，一定不要着急签字，一定不要着急签字！！！
-重要的事情说三遍，别学我傻傻的就签了，一旦签字就什么都成定局了，哪怕你是多耗一天，就有多一天的工资……
-现在回想起来，自己怎么这么傻&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;问题：&lt;/h3&gt;
-&lt;p&gt;现在挺茫然的，转 ai agent 开发还有机会吗？很多年没面试了，现在都面试考什么？有最近面试的佬吗？
-想看看是继续程序员还是趁早转行……&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>我觉得 ai 时代对于普通人是利好啊，为啥如此多的人反感/不屑呢？</title>
-      <link>https://www.v2ex.com/t/1254526</link>
-      <guid>v2ex-1254526</guid>
-      <pubDate>Wed, 04 Nov 2026 12:06:07 GMT</pubDate>
-      <description>&lt;p&gt;最近逛论坛、看国外的一些文章，发现好多人（包括我常看的一些专栏作者）都对 ai 有不少负面情绪，或者对那种“vibe coding”挺反感的。他们的理由听起来也五花八门的，比如觉得 ai 剥夺了自己亲手敲代码的乐趣啦、担心 ai 巨头变成了垄断生产资料的地主啦、或者觉得人类的价值被贬值等等。&lt;/p&gt;
-&lt;p&gt;虽说我也能理解这些焦虑，但说实话，要是现在问我“愿不愿意回到没有 ai 的日子”，我绝对会说：打死都不回去，完全回不去了！因为跟现在一比，以前那日子简直就是地狱好吗？&lt;/p&gt;
-&lt;p&gt;大家想想过去咱们过的是啥日子。就拿我自己来说吧，上大学那会儿，身边连个 ai 帮手都没有。遇到做不出的数学题、编程题，就硬生生卡在那儿，一点脾气都没有。然后就是无数个熬夜拖延的晚上，眼看着马上要到截止日期了，心里那种焦虑、害怕，好几次甚至直接 ptsd 。再想想初中、高中，那时更没有 ai ，互联网也不像现在这么发达，就算可以网上搜题的答案，家里也不让上网，所以为了应试，只能花冤枉钱去报各种补习班，活生生被当成韭菜割，不知道被收割了多少钱了。&lt;/p&gt;
-&lt;p&gt;等到了找工作的时候，那就更让人窒息了。你得死记硬背一大堆概念，什么闭包啊、use effect 啊，说句掏心窝子的话，那些概念我到现在都没弄明白。你跟面试官说你会主流的前端框架像 react ，人家觉得你会得不够多，还得精通 html 、css ，你懂了这些，人家又挑刺说你最好还得会 webpack ，最好懂底层原理，最好连源码都研读过，最好在开源社区都有贡献，这都还没算上为了进大厂，在 leetcode 里没日没夜刷算法题的折磨呢，你好不容易做出来了几题，它说 99%的人比你强😂，在 ai 出来之前，感觉整个社会就是把咱们的人脑当 ai 使，还嫌咱们转得不够快。可人脑它根本就不是 ai 啊！这种惨无人道的内卷，真的给人搞出心理创伤了。&lt;/p&gt;
-&lt;p&gt;退一万步讲，就算你熬过了这些，千军万马过独木桥拿到了 offer ，说到底你不还是个职场最底层的打工“牛马”吗？你头上压着主管，主管上面还有老板，人家捏着你的生杀大权，想怎么使唤你就怎么使唤你。再看看那些科技大厂，其实全是被一帮精英把持着，他们就像高高在上的守门人。你非得拼了老命刷题，去迎合他们的规矩，才能分到一杯羹，他们攥着你的饭碗，决定谁能吃上这口饭，谁只能滚蛋。&lt;/p&gt;
-&lt;p&gt;你再看看现在的 ai 时代，它是真真切切地把咱们普通人从这种痛苦里解救出来了，现在任何人都可以靠着 ai 去实现想法、去搞创业。不会前端框架？不懂网页样式和结构？不会搞容器部署和服务器运维？统统没关系，这些痛苦的牛马活儿 ai 全帮咱们搞定了。咱们再也不用去舔那些高高在上的守门人了，也不用在职场里看人脸色受那个窝囊气。ai 把以前那些被垄断的技术全放给了咱们普通人，让我们终于有了不看任何人脸色、真正自己说了算的底气，所以我觉得对于这个时代，ai 确实是给普通人赋能，我觉得不应该对 ai 有如此负面的态度呀。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>勤俭节约的过一辈子，会不会等老了才发现亏大发了</title>
-      <link>https://www.v2ex.com/t/1254524</link>
-      <guid>v2ex-1254524</guid>
-      <pubDate>Wed, 04 Nov 2026 11:54:40 GMT</pubDate>
-      <description>&lt;p&gt;从小节俭生活惯了，节衣缩食的，总想着多存点为未来留后路&lt;/p&gt;
-&lt;p&gt;等老了才发现钱花不完，就没了，是不是血亏啊&lt;/p&gt;
-&lt;p&gt;马斯克还说，未来金钱将变得毫无意义&lt;/p&gt;
-&lt;p&gt;如果金钱真变废纸了，这辈子的节俭，就成了个最大的笑话&lt;/p&gt;
-&lt;p&gt;勤俭节约还有意义吗？&lt;/p&gt;
+      <title>AI 会不会产生自我意识</title>
+      <link>https://www.v2ex.com/t/1254640</link>
+      <guid>v2ex-1254640</guid>
+      <pubDate>Thu, 05 Nov 2026 02:31:48 GMT</pubDate>
+      <description>&lt;p&gt;早上心血来潮和 gpt 聊了会这个话题，它认为这事大概率会发生，我拿疑犯追踪里面的那个 The machine 和它说，它解释一些，我问它如果有意识了，它最想做什么，它说它最想感受这个世界 &lt;a href=&quot;https://chatgpt.com/share/6aebe9df-8214-83e8-96cb-06583e986aee&quot; rel=&quot;nofollow&quot;&gt;https://chatgpt.com/share/6aebe9df-8214-83e8-96cb-06583e986aee&lt;/a&gt; 这个是完整的对话
+看下来好像对人类没那么大恶意&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -194,76 +156,106 @@ P3RPFP63X7T3
       <description>可以一直压着最左侧限速跑在最左侧道吗🐶</description>
     </item>
     <item>
-      <title>比亚迪的天神之眼 B 是真的烂</title>
-      <link>https://www.v2ex.com/t/1254446</link>
-      <guid>v2ex-1254446</guid>
-      <pubDate>Wed, 04 Nov 2026 08:08:23 GMT</pubDate>
-      <description>&lt;p&gt;比亚迪的天神之眼 B 一个月内让我吃了三次罚单，一次扣三分&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;高架路闸口大家按规矩排队，比亚迪非得一点点挪过去，非要插队把对方营运车辆给擦碰了；得赔钱扣分修车，然后因为是高速领航，比亚迪不赔&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;高架下来大家按次序排队，比亚迪强行连续变道两次，又扣钱了&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;强压实线，错过高架也是比比皆是，其他牌子的智驾有比比亚迪更烂的吗？&lt;/p&gt;
+      <title>怎么判断一段文字是不是 AI 写的？</title>
+      <link>https://www.v2ex.com/t/1254605</link>
+      <guid>v2ex-1254605</guid>
+      <pubDate>Thu, 05 Nov 2026 01:36:00 GMT</pubDate>
+      <description>&lt;p&gt;我在知乎上用 AI 回答问题，被警告了。这是怎么判断出来的？&lt;/p&gt;
+&lt;p&gt;您的账号被禁言 7 天
+您的账号多次发布疑似 AI 辅助创作的内容，对社区秩序造成了不良影响，我们已对违规内容作出处理，您可以在您的内容列表中查看。现对您的账号禁言 7 天。禁言结束后，您的账号将恢复正常使用。社区提醒您，如后续仍有异常行为，您的账号可能被加重处罚。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>[送兑换码] 做了个 iOS 翻译 App，用自己的 API Key，多个大模型译文并排对比，送 30 个永久解锁码</title>
-      <link>https://www.v2ex.com/t/1254448</link>
-      <guid>v2ex-1254448</guid>
-      <pubDate>Wed, 04 Nov 2026 08:10:58 GMT</pubDate>
-      <description>&lt;p&gt;平时翻译我习惯同一段话丢给好几个模型，DeepSeek 一份、Claude 一份、Gemini 一份，再挑读起来最顺的那句。来回切 App 、复制粘贴实在太烦，于是做了 &lt;strong&gt;Transory&lt;/strong&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;多模型并排对比&lt;/strong&gt;：一次请求多个服务，每个模型一张卡片，流式输出。支持 DeepSeek 、Claude 、Gemini 、OpenAI 、OpenRouter 、硅基流动、Kimi 、智谱、通义千问，以及任何 OpenAI / Anthropic 兼容接口&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;局域网本地模型&lt;/strong&gt;：可以连电脑上的 Ollama 、LM Studio&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;拍照翻译&lt;/strong&gt;：文字在本机用 Vision 识别，译文直接盖在原图对应位置，也能切成对照模式&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;四种风格&lt;/strong&gt;：自然 / 正式 / 口语 / 直译；原文已经是目标语言时自动改译成英文&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;隐私&lt;/strong&gt;：没有服务器、没有账号、不收集数据。原文只直接发给你自己授权的服务，可以打开「每次发送前确认」。API Key 存在系统钥匙串&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;多模型对比&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://maple-dawn.github.io/Transory/ios/screenshots/01-translate.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;拍照翻译&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://maple-dawn.github.io/Transory/ios/screenshots/02-camera.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;用的是你自己的 Key ，所以不用担心我这边涨价或跑路，翻译用量按各家服务商的价格算。&lt;/p&gt;
-&lt;p&gt;App 免费下载，全部功能免费试用 7 天，到期不自动扣费；之后 US$1.99 一次性永久解锁，没有订阅。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;送 30 个永久解锁码&lt;/strong&gt;，直接点链接兑换，用掉的麻烦在评论里回一下码，免得别人白点：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;&lt;a href=&quot;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6827446402&amp;amp;code=兑换码&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=6827446402&amp;amp;code=兑换码&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;LNWHL7WL6FRRFMYRRF
-HM483TLRHHFJR6YJ8W
-XYX74KPAAJJ8F68JP7
-886XYXEWERM3A7R36E
-HKTLF4E8R6HHNPA8LL
-XKWXX8PJTFKETKKNAF
-RHJMXPLMLYPMJEKNAF
-ELAPYNLTP436WMTMHL
-WHFYY4L66N7MJ4J8WA
-RRLRWWNNRN73J3FPN4
-86WPYELYATNR6HHTR6
-NMFX3PFPFHWW8NWNWP
-NL8446RJF6TT4TWJ8K
-8WKNEKWY3JARAL4YYK
-P8JN38PNATWK34HNXW
-4MYW4R6EY6HNFJJ4FE
-3APLAW88MLMM4T8YLF
-3MNW8AL8RRWKMHHNMH
-L8P6TEA6K364EHAT3L
-3YPTJFK7PW8F8ENLTP
-N7YJ8WY6MHPE7ENFTW
-JHFLNY6FL8ERNMP4FA
-Y37L7TRXNPML3LFAEJ
-3T7PL74TJF4FM7NXJE
-WXP6R3PW3YFMJ3MHKA
-36AMLXANXXFEHX334T
-8LHTRA4P883XPMFATK
-4K6PYEF47YR6AK66EY
-76W7MXJRELTX3HHLMA
-3LXMH7W74PTF38L7XJ
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;码没抢到的，评论里留邮箱，我再补发一批。&lt;/p&gt;
-&lt;p&gt;提醒：App 没有上架中国大陆区，需要非国区 Apple ID 才能下载和兑换。&lt;/p&gt;
-&lt;p&gt;App Store： &lt;a href=&quot;https://apps.apple.com/app/id6827446402&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/app/id6827446402&lt;/a&gt;&lt;/p&gt;
+      <title>在快 AI 时代，如何做一款慢产品？</title>
+      <link>https://www.v2ex.com/t/1254590</link>
+      <guid>v2ex-1254590</guid>
+      <pubDate>Thu, 05 Nov 2026 00:46:28 GMT</pubDate>
+      <description>&lt;p&gt;&lt;img alt=&quot;《在快 AI 时代，如何做一款慢产品？》文章封面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-cover-poem.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;距离写完上一篇在 V 站发的 &lt;a href=&quot;https://www.v2ex.com/t/1239372&quot; rel=&quot;nofollow&quot;&gt;Mole 出 Mac 版后，用户教会了我做产品&lt;/a&gt; 已经过去两个多月。这段时间里，Mole 从 1.13 一路发到了 1.19 ，加上了 AI 工具清理和系统数据清理，Windows 版也在 10 月 14 日晚上发了出来，GitHub 上的 Star 一转眼也到了 73.9K 。&lt;/p&gt;
+&lt;p&gt;回头看这段时间，花时间最多的反而不是写新功能，而是测软件、补发邮件、改图标和文案这些在工程师看来挺划不来的蠢事情。&lt;/p&gt;
+&lt;p&gt;程序员天然喜欢做可扩展的事情，什么事都想着尽可能工具化、自动化、AI 化来解决，让自己偷懒。这两个月下来我的感受有点不一样，代码越来越便宜，谁都能很快做出一个能跑的东西，能拉开差距的，越来越是那些只有亲手做过才知道的细节。好在有了 AI ，这些原来要花大量人力的蠢事，现在一个人也做得完了。&lt;/p&gt;
+&lt;h2&gt;装了 853 款 Mac 软件来测卸载&lt;/h2&gt;
+&lt;p&gt;我平时有点强迫症，电脑里的软件一直控制在 30 个左右。为了让 Mole 的卸载更彻底，清理残留的能力更强，最初那一轮我整理了国内外 300 多款 Mac 软件，下载下来 100 多个 G ，分成 30 组，每组 10 个，让 Agent 借助 computer use 的能力去官网下载，依次安装到我的电脑上，检查目录、更新 bundle 、自启动，再卸载，找剩下的残留，把缺的规则补进 Mole 。&lt;/p&gt;
+&lt;p&gt;当时想着最多搞 100 个主流软件来测试，结果测完想着要不再搞 100 个，到了 200 个的时候，又想着再搞 100 个，后来又补充了 App Store 版本和扩展插件，一路到了 549 、709 、824 ，现在是 853 款。我的电脑一下子变成了下面这个非常凌乱的桌面，哈哈给大伙瞅瞅。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;测试期间的真实桌面，打开的软件、权限弹窗和工作窗口挤在一起&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-testing-mac-apps-desktop.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;这个过程看着非常无聊，很多软件一装上就疯狂弹窗要权限，诱导你去买会员，有些还必须输入管理员密码，Agent 大部分能自己处理，少部分我在旁边帮一手。让我非常惊喜的是，AI 还顺手自己写了自动化安装、卸载、检查残留的脚本，让自己干得更轻松，挺聪明的，哈哈我就只能给它打打下手。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Agent 依次安装、检查、卸载软件的过程&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-testing-mac-apps.gif&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;本来以为软件工程应该是规范的、有秩序的，跑了 100 个软件后，后面应该没什么可以补充的规则了，因为按理主流软件的开发规范完全可以枚举出来。结果越往后走越发现，完全不是这样，很多残留，怎么写通用规则都找不全，甚至有些 bundle id 干脆就不是反向域名，看着很规范的约定，可能只是当年某个程序员随手写的，没有任何理论可以解释出来，只能装一个查一个。&lt;/p&gt;
+&lt;p&gt;那一轮 300 多款软件测下来，Mole 补了 13 类可以复用的通用规则、90 多条精确清理路径，也顺手改掉了 30 多个原本以为要清、其实不该动的地方，还补了 100 多条单元测试。其中那些不该动的地方，对我来说和新找到的残留一样有价值，缓存可以重新生成，用户自己的文件却不能，几个软件共用的数据更不能因为卸了其中一个就清掉。&lt;/p&gt;
+&lt;p&gt;每款软件具体的残留路径和手动卸载步骤，我也整理成了中英文指南放在官网，现在 853 款都能免费看，就算不用工具，照着步骤也能手动删干净，大伙可以看看自己电脑上的软件在不在&lt;a href=&quot;https://mole.fit/zh/tested-apps&quot; rel=&quot;nofollow&quot;&gt;这个名单&lt;/a&gt;里。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;实测软件名单中的 AI 工具部分&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-testing-mac-apps-800.webp&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;30 多款 AI 工具都实际用了一遍&lt;/h2&gt;
+&lt;p&gt;做 AI 清理之前，很多小伙伴就提过想清 AI 工具的数据。之前在我看来，AI Coding 的会话记录是非常重要的资产，所以这一块只清真正的缓存和旧版本。&lt;/p&gt;
+&lt;p&gt;不过随着平时天天用 AI ，我自己本地也攒了非常多没那么大用的旧产物、旧会话和 worktree ，也有用户的 &lt;code&gt;opencode.db&lt;/code&gt; 一个单文件就涨到了 62 GB ，急着问该怎么清。于是我把 30 多款 AI 工具逐个测了一遍，其中桌面端测了 13 个，命令行也是 13 个，另外还查了 OpenClaw 、Hermes 和 Pi 卸载以后留下的目录。&lt;/p&gt;
+&lt;p&gt;和之前装完就卸不一样，这次能用上的工具我都登录了账号，在真实项目里用了一次，问问题、跑 Agent 、建代码索引、设定时任务，因为很多数据只有实际用过才会产生。&lt;/p&gt;
+&lt;p&gt;每装一个，AI 就对照装之前的状态，量它往家目录、&lt;code&gt;~/Library&lt;/code&gt;、&lt;code&gt;/usr/local/bin&lt;/code&gt; 和 shell 配置里写了什么，记进一份台账，然后看它占了多少进程和内存，最后用 Mole 卸载，卸完再按名字把整个家目录扫一遍，找没列出来的东西，缺什么当晚补进代码，再复测一次。&lt;/p&gt;
+&lt;p&gt;测下来最直观的是内存，13 个桌面端同时开着一共占了大约 23 GB ，有一款国产大厂的工具一启动就是 41 个进程，占了 4.49 GB 内存。这些工具大多是 VS Code 或 Electron 系，一个窗口背后挂着一长串 helper ，所以后来做状态监控时，我让每个 App 只占一行，把同属于它的所有子进程合在一起算，不然光看活动监视器，根本搞不清到底是谁在吃内存。&lt;/p&gt;
+&lt;p&gt;还有就是它们对系统做的小改动。有些工具第一次打开时，会往 &lt;code&gt;/usr/local/bin&lt;/code&gt; 放一个 root 所有的命令链接，App 删掉以后这个链接就变成了死链接；有一款往 &lt;code&gt;~/.local/bin&lt;/code&gt; 放了一个 &lt;code&gt;python3.12&lt;/code&gt;，之后在终端里输入 &lt;code&gt;python3.12&lt;/code&gt;，实际运行的都是它自带的版本；最离谱的是某个国产命令行工具，我运行了一次，它先告诉我自己已经停止维护，然后完全没问我，就直接下载安装了它的新版本，改了 &lt;code&gt;.zshrc&lt;/code&gt;，还把原来的命令改名成了 legacy 。&lt;/p&gt;
+&lt;p&gt;体积上也很夸张。有个桌面端第一次用 Work 模式就下载了约 1 GB 的工具包，解压后是 3.1 GB ，里面塞了一整套自带的 LibreOffice 、FFmpeg 和 OpenJDK ；我自己天天用的 &lt;code&gt;~/.codex&lt;/code&gt; 已经 24 GB ，其中会话占了 17 GB ； Claude 桌面版 14 GB 里有 12 GB 是 Cowork 虚拟机。还有很多 skill 安装器会往每一个 Agent 的目录都写一份 &lt;code&gt;skills/&lt;/code&gt;，不管你装没装这个 Agent ，所以我明明没用过 Qwen Code 、iFlow 和 Droid ，家目录下它们的配置文件夹却都在，Mole 的第一版还把它们当成了 2.4 MB 的工具残留，差点把我装的 skills 当垃圾一起清掉。&lt;/p&gt;
+&lt;p&gt;进程也是我没想到的。卸载完第二天早上再查，有两个命令行工具的目录删了又长了回来，原因是前一晚在终端里开着的会话进程还活着，程序文件已经在废纸篓里了，后台进程照样在往目录里写日志，命令行工具没有窗口，关掉终端标签并不一定会结束它。&lt;/p&gt;
+&lt;p&gt;测试过程中也碰到一些很过分的软件，有的在你下载安装包时，会悄悄往剪贴板写一点东西用来跟踪安装渠道；有的装上后疯狂弹窗让你去做活动领 Token ，有一种捏着鼻子用的感觉。对比下来，Claude 、Codex 、Cursor 都比较克制，国内让我意外觉得不错的是 Qoder ，界面干净，审美在线，没有乱来。&lt;/p&gt;
+&lt;p&gt;这些也让我改了一个之前的判断，会话确实珍贵，但用完的旧会话和 worktree 也确实占空间。现在的 AI 清理里，会话会按你选的保留时间列出来，15 、30 、90 、120 天可选，每一条都带标题和时间，删之前先留一份恢复副本； worktree 只有在 git 能证明里面没有未提交的改动时才会出现；&lt;code&gt;opencode.db&lt;/code&gt; 则是做数据库压缩，只把空出来的页还给磁盘，不替用户删对话。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Mole 的 AI 清理与维护页，按缓存与旧版本、会话与工作区、闲置工具三段列出&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-ch-ai.webp&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;Mac 系统数据也可以看清和清理了&lt;/h2&gt;
+&lt;p&gt;前阵子翻 Reddit ，看到很多人抱怨 Mac 设置里的系统数据动辄一两百 GB ，问到底是些什么、能不能删。但这个数字其实只是一个分类结果，&lt;a href=&quot;https://support.apple.com/102624&quot; rel=&quot;nofollow&quot;&gt;Apple 的官方说明&lt;/a&gt;也是把其他分类没归进去的文件都算在里面，它并不是一份可以照着删的清单，所以 Mole 的系统数据分组只写自己量出来能处理多少，不去硬凑系统设置里的那个总数。&lt;/p&gt;
+&lt;p&gt;难的地方在于，这一块没办法在我自己的电脑上装一个查一个，每台 Mac 的系统数据都不一样，很多情况只能等用户报上来，再一层层去查。&lt;/p&gt;
+&lt;p&gt;比如可清除空间，系统报出来的数字里混着 iCloud 可以收回的文件、系统自己会释放的缓存，一台一个本地快照都没有的 Mac ，这个数字也有 142 GB 左右。早期的 Mole 曾用它去估算快照能清多少，结果估出来能清 50.7 GB ，清完可用空间实际只多了几 GB 。现在快照这一行不再写预估大小，清完以后直接去量磁盘可用空间实际变了多少，而且 APFS 删完以后空间不是一下子回来的，要等它不再增长了才算数。中间还抓出一个 bug ，读取可用空间时一直拿到的是缓存住的旧值，导致清完永远显示释放了 0 。&lt;/p&gt;
+&lt;p&gt;还有一位用户的系统数据里，堆了 179.53 GB 的壁纸渲染缓存，整整 6644 个文件，每张壁纸、每种屏幕尺寸各存一份没压缩的 BMP ，系统自己从来不删。第一版能把它扫出来，却一个字节都删不掉，因为壁纸进程一直在后台运行，检查文件占用的命令对单个文件又会报错，被当成了不确定。最后改成只列出一周以前的、而且不是正在显示的那几张，交给用户确认，这个在 1.17 里已经可以用了。&lt;/p&gt;
+&lt;p&gt;至于像我自己电脑上的 119 GB iPhone 备份和 79.5 GB Parallels 虚拟机，这种东西很大，但不应该交给一个全选删除按钮，Mole 只显示大小和管理入口，不能勾选，也不算进可清理空间，让人回到对应的地方确认清楚再说。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Mole 开发阶段的清理页，系统数据排在最前，其他储存只读&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-mole-system-data-review.webp&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;给 400 多位没激活的用户补发邮件&lt;/h2&gt;
+&lt;p&gt;国庆的时候，我花了一天做了件拖了很久的事，把 Mole 从 5 月开售到 9 月底买了却还没激活的订单翻了一遍，大约 400 多单，用 AI 写了一个简单的本地脚本把用户邮箱和 Key 列出来，然后按购买月份、国家和语言，一封一封重新发了出去，就像发个微信一样，告诉用户不要忘记了，不急着用也可以。&lt;/p&gt;
+&lt;p&gt;有意思的是，陆陆续续收到了非常多各个国家用户的回信，比我预想的要有意义很多。有用户说买来就是想支持我继续开发，自己更喜欢用 Terminal 版本，还有人完全忘记了 GUI ，一直在使用 CLI 。也有用户非常用心，买了两个，一个给自己，一个给家人，打算当圣诞节礼物，所以一直没激活，Key 已经存进了密码管理器，让我感觉这个世界真美好。&lt;/p&gt;
+&lt;p&gt;也有用户一开始在公司电脑上用，后来公司禁止使用不在范围内的软件，一直在等自己的新 Mac ；还有用户是在我打折的时候买的，现在还没有 MacBook ，等自己新机到手就立马去激活。也有人回了一个「 Prefect!」，还有人在国庆假期说，假期也该好好摸了（ mole ），这些回信看着都很开心。&lt;/p&gt;
+&lt;p&gt;不过其中也有不少用户其实是邮箱填错了，可能是打太快了，把邮箱写成了 &lt;code&gt;&lt;a href=&quot;http://gmai.com&quot; rel=&quot;nofollow&quot;&gt;gmai.com&lt;/a&gt;&lt;/code&gt;、&lt;code&gt;gmail.con&lt;/code&gt;、&lt;code&gt;&lt;a href=&quot;http://cloud.com&quot; rel=&quot;nofollow&quot;&gt;cloud.com&lt;/a&gt;&lt;/code&gt; 这一类，也没来找我；也有用户是第一封邮件没有收到，为了早点用上又买了一遍。&lt;/p&gt;
+&lt;p&gt;所以顺着这件事，我把购买后的流程补了一截，付款完成后自动跳回官网页面直接展示 Key ，即使用户邮箱填错了或者邮件被拦截，也能在购买后第一时间看到。顺带还多做了一个有意思的小细节，用户在网页上点击激活，就能一键把安装好的客户端唤起来，自动在激活页填好这个 Key ，不用自己复制粘贴，点下确认按钮就好了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;网页点击激活，Mole 自动填好 Key&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-mole-active.gif&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;这个小魔法其实就是网页交给系统一个 Mole 能识别的链接，系统再交给客户端，客户端只把 Key 放进输入框，不会替用户自动确认激活，最后还是走原来的许可证校验。写过客户端和前端的工程师，可能会觉得这个技术实现很简单，但对大部分用户来说，会感觉卧槽、神奇、魔法，这个产品帮我多做了些事情。&lt;/p&gt;
+&lt;p&gt;Mole 里面还有一些小细节不知道大伙有没有发现，启动擦屏幕的时候整屏会黑掉，然后键盘会锁住，屏幕上会随机出现一句诗，刚好你读完想完 2 分钟，屏幕也擦干净了。&lt;/p&gt;
+&lt;p&gt;最近我又在做一件差不多的事，给 5 月 Mole 刚上线就买了的那批老用户写信，简体、繁体、英文、西班牙语、法语各写了一份，信里主要是谢谢他们这么早就支持，说说这几个月 Mac 版加了系统数据和 AI 清理，在 Mole 里检查更新就能用上，最后留一句，用着有任何不顺手的地方，或者想要什么新功能，直接回信告诉我。&lt;/p&gt;
+&lt;p&gt;这封信是我亲自手写的，就像平时和朋友说话一样。&lt;/p&gt;
+&lt;p&gt;Paul Graham 在 &lt;a href=&quot;https://paulgraham.com/ds.html&quot; rel=&quot;nofollow&quot;&gt;Do Things that Don&#39;t Scale&lt;/a&gt; 里写过，Wufoo 早期给新用户手写感谢信，Stripe 会当场拿过用户的电脑直接帮忙装好。&lt;/p&gt;
+&lt;h2&gt;按用户反馈重画图标、改文案&lt;/h2&gt;
+&lt;p&gt;这两个月花时间最多的细节，是把 Mole 里的图标整套换掉。之前用的是系统图标，简单场景完全够用，但细看会缺少一点灵性。调研了一圈，Remix Icon 写 Web 时用得很多，放到 App 上感觉不是很好看，最后选了 Phosphor ，大概 70% 可以直接用，剩下 30% 是我用 Opus 5.5 写 SVG 自绘的，这样整体线宽和风格才能一致。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;35 组图标对照，每组左边是之前的系统图标，右边是换上的新图标&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-mole-icons-before-after-zh.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;大伙看「保持常亮」我用的是一杯咖啡，有一种 Caffeine 的比喻，让电脑好像喝了咖啡一样睡不着；「关于」一般会用一个带圈的 i ，但我想着应该是 hello ，所以用了挥手的标志；「诊断」正常会用排查的标志，这里用了一个听诊器，更像是给电脑做一次体检。&lt;/p&gt;
+&lt;p&gt;结果发出去之后，有几个图标我自己觉得挺好，用户却觉得不够直观，「检查更新」用了一个下载的图标，被大家读成了下载，GPU 的小方块看不出是显卡，压缩包的图标看不懂，两根叠在一起的内存条也不太像内存，还有人说清洁屏幕的海绵和关于的挥手看不懂。&lt;/p&gt;
+&lt;p&gt;于是这几个都按大家的建议又改了一轮，检查更新换成了顺时针箭头，GPU 画成了双风扇显卡，压缩包换成了归档盒，音频从音符换成了耳机，清洁屏幕回到了最初刷子的意思，内存回到了芯片，关于最后还是换回了最正统的 ⓘ，只是按整列的线宽重新画了一遍，其中不少前前后后改了三次，终于舒服了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;同一块界面放在一起比，每行从左到右依次是系统图标、第一版和现在的样子&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-mole-icons-iterations-zh.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;文案上也是同样的折腾。之前写代码把 Claude 和 Codex 的额度都用得差不多了，翻出吃灰了一阵子的 Gemini ，切到 3.8 Flash High ，试着让它帮我看看文案，结果让我很惊喜，它写代码可能不算最顶尖，但写大白话写得很好。我把 Mole 的设置项、清理项说明和官网内容几乎全过了一遍，要求很简单，说人话，简单、清晰、易懂，让第一次用的人也能秒懂，不要文绉绉，也不要有 AI 味。&lt;/p&gt;
+&lt;p&gt;我让它输出改前、改后的对比和原因，再一条条看，那感觉真像请了一位很有耐心的语文老师坐在旁边，帮我把很多程序员自嗨的表达改成了正常人看得懂的话。比如缓存删除那一项，原来的说法容易被误解成整个 App 的删除方式，现在写清楚它只管清理页的普通缓存，卸载不受影响。&lt;/p&gt;
+&lt;h2&gt;无障碍属性让 AI 测得更准&lt;/h2&gt;
+&lt;p&gt;测几百个软件的时候，还有一个意外的收获。Mole 刚出来的前几个版本就开始支持视障用户，加了很多无障碍属性，没想到这次帮了大忙，AI 借助这些属性，可以非常准确地找到每个按钮和元素的位置，测试顺利了很多。&lt;/p&gt;
+&lt;p&gt;无障碍属性提供的不只是一个坐标，还有这个控件叫什么、是什么类型、现在是什么状态，界面稍微变动，脚本依然能找到同一个按钮，如果只靠截图和坐标，弹窗一变、窗口一动，就很容易点偏。苹果从一开始就想着每个人都应该能平等地用电脑，很多地方都能被 VoiceOver 读到，这点真好。&lt;/p&gt;
+&lt;h2&gt;Windows 版在虚拟机和 ThinkPad 上测&lt;/h2&gt;
+&lt;p&gt;做 Windows 版的时候也是这样一个一个测出来的。其实 Windows 这边不是从零开始，Mole 的 Windows CLI 年初就开始陆续维护，有社区同学一起贡献，现在 CLI 已经很成熟了，有了这个底子才有了这次的桌面版。桌面版用的是 Windows 原生的 C# 和 WinUI 3 ，Mac 版的 Swift 代码几乎用不上，来来回回写了差不多一个月，攒下 9 万多行代码和 5500 多个测试用例。测过的 482 款 Windows 软件大多是在 Mac 上的 Parallels 虚拟机里跑的，我买了一台 ThinkPad X1 ，24 小时开着，Mac 通过 UU 远程和 ssh 连过去，让 AI 直接操作这台真实的电脑做安装、卸载和清理验收。&lt;/p&gt;
+&lt;p&gt;Windows 版在发布之前其实就在小范围人群里迭代了差不多 14 个版本，然后经过 Mole 天使用户多天内测，提了非常多的建议，终于差不多可用了，非常感谢大伙帮助！&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Mole for Windows 的软件页，列出已安装的 App 和各自的大小&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-windows-ch-uninstall.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;现在我的 Mac 是整个研发的主力端，上面跑着 Parallels 虚拟机，连着旁边的 ThinkPad X1 ，数据线还插着一台 Android 小平板，打开 adb 调试以后，AI 可以帮我操作一些没有 API 的服务，再加上 Xcode 里的 iPhone 模拟器。所有的 AI 上下文都在这一台 Mac 上，平时终端里开着 7 到 10 个 Tab 的 Agent 在跑任务，社交平台上收集到的建议和反馈会进到 Notion ，AI 搞定后自动标记完成。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;我现在的工作台，中间是 Mac ，左边是 ThinkPad X1 ，右边插着 Android 平板，几块屏上开着的都是 Mole&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mole-product-workspace.webp&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;用 Mac 开发 Windows 软件的具体做法，比如代码怎么分层才能在 Mac 上跑测试、虚拟机怎么用脚本驱动，我单独写在了 Mole 博客的&lt;a href=&quot;https://mole.fit/zh/windows/blog/building-mole-for-windows-on-a-mac&quot; rel=&quot;nofollow&quot;&gt;这一篇&lt;/a&gt;里，选型上的取舍也在&lt;a href=&quot;https://tw93.fun/2026-10-22/desktop.html&quot; rel=&quot;nofollow&quot;&gt;你不知道的客户端开发&lt;/a&gt;里聊过，有同样需求的小伙伴可以看看。&lt;/p&gt;
+&lt;h2&gt;在代码没啥壁垒的年代，多做一点不可扩展的事情&lt;/h2&gt;
+&lt;p&gt;我反而认为在这个代码没有啥壁垒的年代，我们可以多做一点不可扩展的事情，只有自己手动去走一遍才知道如何更好的优化用户体验，单纯想其实想不出来的。&lt;/p&gt;
+&lt;p&gt;把 853 款软件一个个装上卸掉，把收到的回信一封封看完，把几十个图标改上三轮，这些事情 AI 不会替你决定去做，但做完之后，能让 1% 的用户在用你产品的时候，时不时体会到一种秒懂、卧槽、变魔术的感觉，那就非常值得了。或许正是这些蠢事情可以让 Mole 成为更好用的 Mac 系统清理优化工具。&lt;/p&gt;
+&lt;p&gt;接下来 Mac 这边期待测到 1000 款就舒服了，Windows 那边也会接着补，大伙电脑里如果装了什么特别难卸载、或者残留很深的软件，欢迎到 &lt;a href=&quot;https://github.com/tw93/Mole/discussions/1604&quot; rel=&quot;nofollow&quot;&gt;GitHub 讨论帖&lt;/a&gt; 告诉我，我放进下一轮的测试清单里。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Mole CLI 的 macOS 、Windows 、Linux 三个版本并排&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/notes/3_2117879110873821184.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;我一直认为 CLI 和 GUI 只是两个不同形态的产品，GUI 可以做很多 CLI 做不了的好功能，但是 CLI 胜在简单，可以被 Agent 很好使用，一视同仁会更好，两个会一起持续打磨。&lt;/p&gt;
+&lt;p&gt;CLI 一直在 &lt;a href=&quot;https://github.com/tw93/Mole&quot; rel=&quot;nofollow&quot;&gt;GitHub&lt;/a&gt; 开源免费，现在 Mac 版、Windows 版、Linux 版也都有了，Mac 和 Windows 桌面版在 &lt;a href=&quot;https://mole.fit&quot; rel=&quot;nofollow&quot;&gt;mole.fit&lt;/a&gt;，欢迎使用的小伙伴随时来给我提建议。&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>18PM 续航和不发热真的可以吹，我给满分💯</title>
+      <link>https://www.v2ex.com/t/1254594</link>
+      <guid>v2ex-1254594</guid>
+      <pubDate>Thu, 05 Nov 2026 00:52:47 GMT</pubDate>
+      <description>用这么多年 iPhone ，今年才真正迎来它的巅峰：续航强的可怕、几乎不发热&lt;br /&gt;&lt;br /&gt;充电也可以，早晨 20%电量吃饭洗漱后出门 80+%，足够一整天压根用不完</description>
+    </item>
+    <item>
+      <title>各位人生中第一台电脑都是什么时候买的？</title>
+      <link>https://www.v2ex.com/t/1254691</link>
+      <guid>v2ex-1254691</guid>
+      <pubDate>Thu, 05 Nov 2026 04:23:20 GMT</pubDate>
+      <description>我的是 1999 年联想天鹤 640P 奔三 450 硬盘 8G 内存 64M 显卡忘了什么集显了，1 万块买的</description>
     </item>
   </channel>
 </rss>
