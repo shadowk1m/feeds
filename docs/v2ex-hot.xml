@@ -4,79 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 06 Nov 2026 02:38:53 GMT</lastBuildDate>
-    <item>
-      <title>彩云天气是不是快倒闭了？</title>
-      <link>https://www.v2ex.com/t/1254663</link>
-      <guid>v2ex-1254663</guid>
-      <pubDate>Thu, 05 Nov 2026 03:24:21 GMT</pubDate>
-      <description>&lt;p&gt;彩云天气 pro 的广告多的离谱，体验及其糟糕
-早些年购买了彩云天气 Pro 版，近几年这款 App 的广告越来越多，多到离谱，十次打开八次都有弹窗广告。App 也越来越大了，我只是一个普通用户，根本不需要那么丰富详尽的数据。
-还没买 Pro 版的就别买了，强烈不推荐。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>各位人生中第一台电脑都是什么时候买的？</title>
-      <link>https://www.v2ex.com/t/1254691</link>
-      <guid>v2ex-1254691</guid>
-      <pubDate>Thu, 05 Nov 2026 04:23:20 GMT</pubDate>
-      <description>我的是 1999 年联想天鹤 640P 奔三 450 硬盘 8G 内存 64M 显卡忘了什么集显了，1 万块买的</description>
-    </item>
-    <item>
-      <title>大模型“涌现”出能力，到底什么是“涌现”</title>
-      <link>https://www.v2ex.com/t/1254657</link>
-      <guid>v2ex-1254657</guid>
-      <pubDate>Thu, 05 Nov 2026 03:14:47 GMT</pubDate>
-      <description>&lt;p&gt;写程序，咱们习惯了确定、可复现性，所以始终不能彻底理解这个“涌现”，总是说不清道不明的&lt;/p&gt;
-&lt;p&gt;大家理解啥叫“涌现”吗？这个“涌现”到底是怎么来的？&lt;/p&gt;
-&lt;p&gt;也看了些文章，始终没彻底理解&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>做了一款 iOS 阅读器「随阅」，目前限免，欢迎试试</title>
-      <link>https://www.v2ex.com/t/1254782</link>
-      <guid>v2ex-1254782</guid>
-      <pubDate>Thu, 05 Nov 2026 09:56:30 GMT</pubDate>
-      <description>&lt;p&gt;最近做了一款阅读器 App ，叫「随阅 NoriReader 」，可以把在线阅读书源和本地书库放在一起
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/fwGihKQ.png&quot;/&gt;
-目前主要有这些功能：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;在线书源&lt;/strong&gt;：支持 Legado 格式的 JSON 书源，在 App 内搜索和阅读。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;本地书库&lt;/strong&gt;：支持导入文件、整个目录，阅读 TXT 、EPUB 、MOBI 、AZW3 等格式的电子书。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;小说和漫画&lt;/strong&gt;：小说支持分页、卷页和滑动翻页；漫画支持在线阅读，也可以导入 CBZ 、图片 ZIP 。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;阅读设置&lt;/strong&gt;：字体、字号、背景、行距、目录、书签、标注、阅读进度这些都有，基本借鉴（抄的） Books 。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;书架和历史&lt;/strong&gt;：可以收藏书籍，也能直接从历史记录继续读。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前限免，现有功能大家可以先免费用着。觉得好用的话，也可以通过 App 内的随阅 Max 支持一下，哈哈。&lt;/p&gt;
-&lt;p&gt;下个版本准备把 Max 的高级权益划分清楚，具体怎么分还在琢磨。目前也还没研究明白兑换码怎么弄，等我搞定了，会回来抽 &lt;strong&gt;20 个移动端 Max 、10 个全端 Max&lt;/strong&gt;。感兴趣、觉得好用的朋友可以留个邮箱，到时候回来更新抽奖。&lt;/p&gt;
-&lt;p&gt;平台方面，目前只有 iOS 版，主要按 iPhone 的体验来做，iPad 还没专门优化。后面计划继续做 iPad 、Mac 和 Vision 端。至于 Apple TV 上看小说、漫画，不知道有没有人需要，也想听听大家的使用场景 😂&lt;/p&gt;
-&lt;p&gt;还有不少细节在慢慢打磨。欢迎大家试用，有不好用的地方直接说，也想听听你们最希望阅读器做好哪件事。也可以加 tg 群深入交流一下&lt;/p&gt;
-&lt;p&gt;目前正式版已经上架了&lt;br/&gt;
-非国区、非欧洲区&lt;br/&gt;
-&lt;a href=&quot;https://apps.apple.com/us/app/%E9%9A%8F%E9%98%85-norireader/id6827821601&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/us/app/%E9%9A%8F%E9%98%85-norireader/id6827821601&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>不要用 sparkcloud 机场</title>
-      <link>https://www.v2ex.com/t/1254791</link>
-      <guid>v2ex-1254791</guid>
-      <pubDate>Thu, 05 Nov 2026 10:49:26 GMT</pubDate>
-      <description>&lt;p&gt;前几天自己的梯子不稳定。10 月 27 日买了 SparkCloud 机场的梯子，今天发现我的号被封了，全程没有任何邮件通知、站内说明或封号原因。&lt;/p&gt;
-&lt;p&gt;它们的网址 &lt;a href=&quot;https://www.sparkcloud.cc&quot; rel=&quot;nofollow&quot;&gt;https://www.sparkcloud.cc&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;离谱的是，它们还在站内打广告。发出来给大家避雷：购买前务必谨慎，至少先确认售后和封号规则。&lt;/p&gt;
-&lt;p&gt;@&lt;a href=&quot;/member/sparkcc&quot;&gt;sparkcc&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>呆了八年还是被裁了</title>
-      <link>https://www.v2ex.com/t/1254749</link>
-      <guid>v2ex-1254749</guid>
-      <pubDate>Thu, 05 Nov 2026 07:49:38 GMT</pubDate>
-      <description>&lt;p&gt;太突然了，一时不知道说些什么
-经历了这个公司的起起落落 最终还是轮到了我
-坐标成都&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 10:04:43 GMT</lastBuildDate>
     <item>
       <title>微信输入法敏感词提取器</title>
       <link>https://www.v2ex.com/t/1254864</link>
@@ -99,6 +27,32 @@
 </description>
     </item>
     <item>
+      <title>一人一本书</title>
+      <link>https://www.v2ex.com/t/1254937</link>
+      <guid>v2ex-1254937</guid>
+      <pubDate>Fri, 06 Nov 2026 03:21:46 GMT</pubDate>
+      <description>一人一本书</description>
+    </item>
+    <item>
+      <title>如果不上班了，你还能靠什么继续谋生！</title>
+      <link>https://www.v2ex.com/t/1254971</link>
+      <guid>v2ex-1254971</guid>
+      <pubDate>Fri, 06 Nov 2026 05:27:49 GMT</pubDate>
+      <description>很厌恶上班了，但是为了赚钱，又不得已。&lt;br /&gt;想问大家，各位有不上班了，也能继续谋生的副业吗。&lt;br /&gt;如果不上班了，能坚持多久呢？</description>
+    </item>
+    <item>
+      <title>为了充实虚无的人生，开始第三次尝试学吉他。。。</title>
+      <link>https://www.v2ex.com/t/1254933</link>
+      <guid>v2ex-1254933</guid>
+      <pubDate>Fri, 06 Nov 2026 03:07:49 GMT</pubDate>
+      <description>&lt;ul&gt;
+&lt;li&gt;10 年前买过一把民谣吉他，但是没坚持下去，海鲜市场卖了&lt;/li&gt;
+&lt;li&gt;4 年前疫情整天在家无聊，又打了鸡血买了一把雅马哈静音吉他，又是没坚持下去，去年卖了&lt;/li&gt;
+&lt;li&gt;最近刷抖 y ，看电吉他又上头，然后又买了把电的加入门 音箱。。希望能坚持下去吧&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>40+还能遇到爱情吗</title>
       <link>https://www.v2ex.com/t/1254811</link>
       <guid>v2ex-1254811</guid>
@@ -108,12 +62,38 @@
 </description>
     </item>
     <item>
-      <title>1Password 7 又耍流氓，说好的终免呢？</title>
-      <link>https://www.v2ex.com/t/1254717</link>
-      <guid>v2ex-1254717</guid>
-      <pubDate>Thu, 05 Nov 2026 06:35:44 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/gNNYtH2.png&quot;/&gt;&lt;/p&gt;
+      <title>今天要不要逃命，美股大跌、</title>
+      <link>https://www.v2ex.com/t/1254880</link>
+      <guid>v2ex-1254880</guid>
+      <pubDate>Fri, 06 Nov 2026 01:26:07 GMT</pubDate>
+      <description>今天要不要逃命，美股大跌、</description>
+    </item>
+    <item>
+      <title>无人在意的角落， idea 2026.3 发布了</title>
+      <link>https://www.v2ex.com/t/1254865</link>
+      <guid>v2ex-1254865</guid>
+      <pubDate>Fri, 06 Nov 2026 00:31:38 GMT</pubDate>
+      <description>都是 AI 方面的功能&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.jetbrains.com/idea/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.jetbrains.com/idea/&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>二狗匹配对象突然删好友加拉黑</title>
+      <link>https://www.v2ex.com/t/1254892</link>
+      <guid>v2ex-1254892</guid>
+      <pubDate>Fri, 06 Nov 2026 01:50:27 GMT</pubDate>
+      <description>&lt;p&gt;上周四在二狗上互相心动匹配到一个女生，她先主动打的招呼，后续也是顺理成章加了微信。&lt;/p&gt;
+&lt;p&gt;这几天有一搭没一搭聊着，昨晚下班后还互动了几句，吃晚饭的时候打开主页意外发现自己被删除了好友同时拉黑。&lt;/p&gt;
+&lt;p&gt;脑瓜子嗡嗡的，感觉自己被厌恶了😭，一夜没睡好，很想找个说法。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一开始她告诉我的名字甚至都是假的，还是看她朋友圈才发现真名，问起来被打个哈哈糊弄过去了。&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
+    </item>
+    <item>
+      <title>jetbrains 好像已经亏损了。ai 冲击好大啊</title>
+      <link>https://www.v2ex.com/t/1254870</link>
+      <guid>v2ex-1254870</guid>
+      <pubDate>Fri, 06 Nov 2026 00:54:51 GMT</pubDate>
+      <description>jetbrains 好像已经亏损了。ai 冲击好大啊</description>
     </item>
   </channel>
 </rss>
