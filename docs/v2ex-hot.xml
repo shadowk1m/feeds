@@ -4,28 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 06 Nov 2026 22:29:53 GMT</lastBuildDate>
-    <item>
-      <title>微信输入法敏感词提取器</title>
-      <link>https://www.v2ex.com/t/1254864</link>
-      <guid>v2ex-1254864</guid>
-      <pubDate>Fri, 06 Nov 2026 00:26:16 GMT</pubDate>
-      <description>&lt;p&gt;众所不周知，微信输入法存在一个内置的敏感词库&lt;/p&gt;
-&lt;p&gt;具体表现为：命中该词库的输入，无法组词、联想、形成记忆、永远不会出现在候选中（例如：鸡巴）&lt;/p&gt;
-&lt;p&gt;该词库并非实时联网获取，而是直接集成在输入法的安装包内&lt;/p&gt;
-&lt;p&gt;出于兴趣，在 AI 的辅助下，我编写了本微信输入法敏感词提取器&lt;/p&gt;
-&lt;p&gt;目前该词库的词条数量在 1 万出头，提取效果预览：&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;（由于内容过于劲爆，这里不放结果了）&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;本工具从微信输入法安装目录的.\BuildIn\cell_dict.ssrc.zh 文件提取，在 Windows 最新版测试通过&lt;/p&gt;
-&lt;p&gt;具体用法：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python export_sensitive_single.py -f &amp;lt;cell_dict.ssrc.zh&amp;gt; -o &amp;lt;out.txt&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;此外还有一些有趣的发现，微信输入法还另内置一个不那么敏感的“敏感词”库（ kind=440 ）&lt;/p&gt;
-&lt;p&gt;该额外的词库虽然可以组词，但是在输入法实现中被单独归类，&lt;/p&gt;
-&lt;p&gt;至于是否有特殊处理（比如记录），本人没有进一步分析&lt;/p&gt;
-&lt;p&gt;工具下载地址： &lt;a href=&quot;https://pastebin.com/emEXbrCh&quot; rel=&quot;nofollow&quot;&gt;https://pastebin.com/emEXbrCh&lt;/a&gt; （提取码：x7E56zQ4uZ ）&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 02:11:56 GMT</lastBuildDate>
     <item>
       <title>一人一本书</title>
       <link>https://www.v2ex.com/t/1254937</link>
@@ -53,38 +32,85 @@
 </description>
     </item>
     <item>
-      <title>今天要不要逃命，美股大跌、</title>
-      <link>https://www.v2ex.com/t/1254880</link>
-      <guid>v2ex-1254880</guid>
-      <pubDate>Fri, 06 Nov 2026 01:26:07 GMT</pubDate>
-      <description>今天要不要逃命，美股大跌、</description>
+      <title>大佬们今年双 11 准备买点啥？</title>
+      <link>https://www.v2ex.com/t/1254969</link>
+      <guid>v2ex-1254969</guid>
+      <pubDate>Fri, 06 Nov 2026 05:22:32 GMT</pubDate>
+      <description>我想买个耳夹式耳机，普通耳机老掉，入耳的又太疼</description>
     </item>
     <item>
-      <title>无人在意的角落， idea 2026.3 发布了</title>
-      <link>https://www.v2ex.com/t/1254865</link>
-      <guid>v2ex-1254865</guid>
-      <pubDate>Fri, 06 Nov 2026 00:31:38 GMT</pubDate>
-      <description>都是 AI 方面的功能&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.jetbrains.com/idea/&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.jetbrains.com/idea/&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>二狗匹配对象突然删好友加拉黑</title>
-      <link>https://www.v2ex.com/t/1254892</link>
-      <guid>v2ex-1254892</guid>
-      <pubDate>Fri, 06 Nov 2026 01:50:27 GMT</pubDate>
-      <description>&lt;p&gt;上周四在二狗上互相心动匹配到一个女生，她先主动打的招呼，后续也是顺理成章加了微信。&lt;/p&gt;
-&lt;p&gt;这几天有一搭没一搭聊着，昨晚下班后还互动了几句，吃晚饭的时候打开主页意外发现自己被删除了好友同时拉黑。&lt;/p&gt;
-&lt;p&gt;脑瓜子嗡嗡的，感觉自己被厌恶了😭，一夜没睡好，很想找个说法。&lt;/p&gt;
+      <title>V2EX Polish 2.5.6 版本导致谷歌浏览器卡死</title>
+      <link>https://www.v2ex.com/t/1254940</link>
+      <guid>v2ex-1254940</guid>
+      <pubDate>Fri, 06 Nov 2026 03:23:10 GMT</pubDate>
+      <description>&lt;p&gt;rt&lt;/p&gt;
+&lt;p&gt;今天自动更新之后，浏览器开个标签页都一卡一卡的。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;一开始她告诉我的名字甚至都是假的，还是看她朋友圈才发现真名，问起来被打个哈哈糊弄过去了。&lt;/p&gt;
+&lt;p&gt;破案了！证据确凿，罪魁祸首就是第二行那个占用 106.3% CPU 的扩展！
+它的具体身份是：👉  [ V2EX Polish ] 扩展插件（扩展 ID：onnepejgdiojhiflfoemillegpgpabdm ）。
+系统底层日志显示：
+正好在 11:10 （你打开 Chrome 时），Chrome 自动把该扩展从 2.5.5 升级到了 2.5.6 。
+该版本后台的 Service Worker （后台服务进程）存在死循环 Bug ，一启动就死锁在后台，直接吃满 1 个完整的 CPU 核心（ 106.3%）。
+它在后台以每秒数万次的频率疯狂向 Chrome 索取资源，直接把第一行的浏览器主进程（ PID 6174 ）也拖累到了 148.5% 的超高 CPU 负载，导致整台电脑界面掉帧、发烫甚至假死。&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;将插件禁用掉就好了，谷歌浏览器版本为：156.0.8078.80&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>jetbrains 好像已经亏损了。ai 冲击好大啊</title>
-      <link>https://www.v2ex.com/t/1254870</link>
-      <guid>v2ex-1254870</guid>
-      <pubDate>Fri, 06 Nov 2026 00:54:51 GMT</pubDate>
-      <description>jetbrains 好像已经亏损了。ai 冲击好大啊</description>
+      <title>上个月在这里求内测的取餐号收集册「杯号」，上架 App Store 了（送 30 个永久 Pro 码）</title>
+      <link>https://www.v2ex.com/t/1254951</link>
+      <guid>v2ex-1254951</guid>
+      <pubDate>Fri, 06 Nov 2026 03:45:59 GMT</pubDate>
+      <description>&lt;p&gt;上个月在这里发过一帖求内测（ &lt;a href=&quot;https://www.v2ex.com/t/1246279&quot; rel=&quot;nofollow&quot;&gt;https://www.v2ex.com/t/1246279&lt;/a&gt; ），App 叫「杯号」：每天一杯咖啡，取餐时拍一下杯贴，把那天的取餐号收进 000–999 的号码册，一千个格子，喝一杯点亮一格。&lt;/p&gt;
+&lt;p&gt;这几天正式上架 App Store 了，回来交个作业。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.pomodiary.com/pro/u/2c21524cf46b/080e3d123ddcb5a9.jpg&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;它做什么&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;拍一下杯贴，点亮一格&lt;/strong&gt;：认出品牌、取餐号和下单时间，把弯在杯子上的贴纸「撕」下来、拉平、包白边，收进对应品牌的号码本。号码只能由真实照片点亮，不能手填。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;一个品牌一本&lt;/strong&gt;：瑞幸、库迪这类三位数号码是 000–999 的格子；星巴克杯子上没有号码，就做成口令册，记那句「快乐满来」「心有晴空」。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;每一杯留两张&lt;/strong&gt;：一张号码贴纸，一张从背景里抠出来的整杯，还能打开当时拍的原图。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;记录日历&lt;/strong&gt;：按喝的日期归档，翻回上个月，哪天喝了什么一眼就看到。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.pomodiary.com/pro/u/2c21524cf46b/8d7deaee4d82f841.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;上次帖子里大家提的问题都改了，谢谢 @&lt;a href=&quot;/member/jose13&quot;&gt;jose13&lt;/a&gt; 一条条帮我找出来。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.pomodiary.com/pro/u/2c21524cf46b/1f87757af7990851.jpg&quot;/&gt;&lt;/p&gt;
+&lt;h2&gt;收费&lt;/h2&gt;
+&lt;p&gt;拍照、识别、入册、日历、同步永远免费，没有广告。Pro 是可选的，解锁彩色白边、号码本皮肤、App 图标、年度报告和数据导出。&lt;/p&gt;
+&lt;h2&gt;下载&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;App Store （国内和海外都能装）： &lt;a href=&quot;https://apps.apple.com/cn/app/id6816797314&quot; rel=&quot;nofollow&quot;&gt;https://apps.apple.com/cn/app/id6816797314&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;官网 / 网页版（没有 iPhone 可以先用这个，账号互通）： &lt;a href=&quot;https://beihao.app&quot; rel=&quot;nofollow&quot;&gt;https://beihao.app&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;安卓版还在做。&lt;/p&gt;
+&lt;h2&gt;想听听大家的意见&lt;/h2&gt;
+&lt;p&gt;瑞幸、星巴克是我自己天天喝的，比较稳； Manner 、M Stand 、Peet&#39;s 、奈雪这些我手里样张还少，认不准的话很正常。哪里认错了、哪里难用、想要什么品牌，直接回帖就行，我都会看。&lt;/p&gt;
+&lt;h2&gt;送 30 个 Pro 永久版兑换码&lt;/h2&gt;
+&lt;p&gt;庆祝上架，送 30 个杯号 Pro &lt;strong&gt;永久版&lt;/strong&gt;兑换码（ App 内买断价 ¥68 ）。&lt;/p&gt;
+&lt;p&gt;回帖说一句你最常喝哪家，有建议或者吐槽更好。前 30 位我会按回帖顺序在楼里 @ 你，码用 base64 编码贴出来，防止被爬走。送完会在帖子里附言说明。&lt;/p&gt;
+&lt;p&gt;兑换：iPhone 上打开 App Store →点右上角头像 →「兑换充值卡或代码」，输入码就行。码 12 月 6 日前有效。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>居委会是如何精准知道家里住了哪些人的</title>
+      <link>https://www.v2ex.com/t/1254966</link>
+      <guid>v2ex-1254966</guid>
+      <pubDate>Fri, 06 Nov 2026 05:05:58 GMT</pubDate>
+      <description>&lt;p&gt;坐标 021,今天居委会打电话家里住了 xxx （并不认识）没。重点是他精准报出了我家现在住的所有人，包括孩子和我妈。去年选举一个什么我妈没在是丈母娘在的，他们也精准知道是丈母娘在。我妈和丈母娘是居住在，其余的是户口。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>没用过 BOSS 直聘， HR 已读不回需要再追问么？</title>
+      <link>https://www.v2ex.com/t/1254942</link>
+      <guid>v2ex-1254942</guid>
+      <pubDate>Fri, 06 Nov 2026 03:25:29 GMT</pubDate>
+      <description>因为各方面原因吧，之前没用过 BOSS 直聘，不知道惯常做法是怎么样的。&lt;br /&gt;&lt;br /&gt;最近在 BOSS 直聘上就打招呼了几个岗位，我看对方都是已读不回，是对方收到太多简历看不过来了么？需要再追问下 HR 么？&lt;br /&gt;&lt;br /&gt;还是说现在已读不回是常态，没必要再追问了呢？</description>
+    </item>
+    <item>
+      <title>今天离职谈话领导说他心寒了</title>
+      <link>https://www.v2ex.com/t/1255048</link>
+      <guid>v2ex-1255048</guid>
+      <pubDate>Fri, 06 Nov 2026 09:01:14 GMT</pubDate>
+      <description>昨天通知被离职原因是效益不好，今天谈话&lt;br /&gt;1 、干了 7 个月赔偿 1 个月的感觉还挺仗义的&lt;br /&gt;2 、离职协议中写了 11 月 6 号是截止日期，工资竟然只给算到 10 月 30 号的，我提出这个问题后领导说太让他心寒了&lt;br /&gt;&lt;br /&gt;怎么感觉是我错了呢，我不该提出来吗</description>
     </item>
   </channel>
 </rss>
