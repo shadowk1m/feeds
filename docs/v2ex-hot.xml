@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 08 Nov 2026 16:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:39:17 GMT</lastBuildDate>
     <item>
       <title>[趁周末人少，回复就送永久激活码]Mac 专属应用 TouchX，自定义触控板动作</title>
       <link>https://www.v2ex.com/t/1255299</link>
@@ -57,13 +57,6 @@
 </description>
     </item>
     <item>
-      <title>这大环境看来是很差了</title>
-      <link>https://www.v2ex.com/t/1255285</link>
-      <guid>v2ex-1255285</guid>
-      <pubDate>Sat, 07 Nov 2026 18:19:52 GMT</pubDate>
-      <description>前两天入职了一家公司，干的广州黄埔某国企外包深圳融创项目，新入职的一共几个人。早上开完会，下午去现场，这边一个叶姓领导去联系那边领路开门。&lt;br /&gt;/&lt;br /&gt;到了门口等了十几分钟门没开，电话里问他到底联系对地方没有、确认下情况，结果这哥们张嘴就 TMTM 地说话。&lt;br /&gt;/&lt;br /&gt;我反驳了几句，让他就事论事，不要拿情绪说话。我才第一天进来，就见过一眼，这哥们就搁那儿喷。我翻开他的钉钉职位一看，副经理。难怪对第一面、第一天入职的人都这么横。果不其然，第二天就被穿小鞋公报私仇了，说什么“不符合试用期录用标准”。合着第一面、第一天，能忍受得了对父母问候，才是你们公司的企业文化考核是吧？还问我到底懂没懂，这哥们自己没懂别人想表达啥，还觉得自己有道理。&lt;br /&gt;/&lt;br /&gt;这哥们也能当经理、还能做到这个位置，应该是历史遗留产物了。学历背景我不评价，但沟通素质确实拉胯，对素不相识、第一天入职的人直接爆粗口，这管理水平我是不敢恭维。&lt;br /&gt;/&lt;br /&gt;说起来其他入职的几个哥们也是人才，短期项目、没有正儿八经的合同都要去做，都是五六年经验的人了，这行情这么差么？我了解到的情况是短期项目、合同和社保情况都不太清晰。这家公司叫铭思，Boss 上写的是 14-16 ，结果面过了又是另一个价格，还是短期项目，然后还说自己不知情，到底知不知情我就不知道了。有时间的可以去 Boss 搜索，现在还挂着呢。&lt;br /&gt;/&lt;br /&gt;说这么多也不是完全为了泄愤。收到消息的时候，我完全觉得很正常，毕竟他能对一个素不相识的人放屁，干出这种事情也在我预判范围。林子大了啥鸟都有，给兄弟们插个眼，自己留个心眼。</description>
-    </item>
-    <item>
       <title>写了个开源工具：手机照片视频无损搬到电脑，局域网直传， PC 不装任何客户端</title>
       <link>https://www.v2ex.com/t/1255317</link>
       <guid>v2ex-1255317</guid>
@@ -105,6 +98,13 @@
 </description>
     </item>
     <item>
+      <title>哪位大神的 claude 没有被封过，分享下方法哇，拜托，人麻了</title>
+      <link>https://www.v2ex.com/t/1255324</link>
+      <guid>v2ex-1255324</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:38 GMT</pubDate>
+      <description>哪位大神的 claude 没有被封过，分享下方法哇，拜托，人麻了</description>
+    </item>
+    <item>
       <title>倒霉呀，买官翻扫地机器人翻车了</title>
       <link>https://www.v2ex.com/t/1255303</link>
       <guid>v2ex-1255303</guid>
@@ -137,18 +137,18 @@
 </description>
     </item>
     <item>
-      <title>哪位大神的 claude 没有被封过，分享下方法哇，拜托，人麻了</title>
-      <link>https://www.v2ex.com/t/1255324</link>
-      <guid>v2ex-1255324</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:38 GMT</pubDate>
-      <description>哪位大神的 claude 没有被封过，分享下方法哇，拜托，人麻了</description>
-    </item>
-    <item>
       <title>FinalShell 开源了？类 FinalShell 的 SSH 客户端 —— FinallyShell</title>
       <link>https://www.v2ex.com/t/1255296</link>
       <guid>v2ex-1255296</guid>
       <pubDate>Sun, 08 Nov 2026 01:52:10 GMT</pubDate>
       <description>相信这里很多人都用过 FinalShell ，我自己也很喜欢，一直觉得它是最顺手的 ssh 工具。不过现在是 2026 年了，客户端还是 Java 写的，Mac 上的体验也一直挺差...&lt;br /&gt;&lt;br /&gt;趁周末 token 重置之前，我用 Opus 5.5 神力对着 FinalShell 复刻了一个出来，换了 go 来写，UI 用的是最近中文推上挺火的 MyGo UI：&lt;br /&gt;&lt;br /&gt;项目地址： &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/TooonyChen/finallyshell/&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/TooonyChen/finallyshell/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/bt7jS7t.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/bt7jS7t.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/LHp9Lyw.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/LHp9Lyw.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/2rdiEd8.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/2rdiEd8.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;布局基本照着 FinalShell 做的，只不过改了一个左边竖排会话标签出来（我不喜欢横向 tab ）。&lt;br /&gt;&lt;br /&gt;老用户打开就能上手。基本功能都齐活了：&lt;br /&gt;&lt;br /&gt; - 能直接导入 FinalShell 的连接和分组（密码导不过来，要重新输一遍）&lt;br /&gt; - 终端内核用 Ghostty 的 libghostty-vt ，配色直接用 Ghostty 默认，可以设背景图&lt;br /&gt; - 自带编辑器，有语法高亮、多光标、查找替换，GBK / GB18030 的文件打开不乱码&lt;br /&gt; - 服务器监控：CPU 、内存、负载、网络、延迟、磁盘、进程，两秒刷新一次&lt;br /&gt; - SFTP 拖拽上传，三个任务并发，失败可以重试&lt;br /&gt; - 文件图标支持 VS Code 主题，Material Icon 和 Seti 是内置的&lt;br /&gt; - 密码存在系统钥匙串里，配置文件里没有明文&lt;br /&gt; - 跳板机可以串多层，也支持 SOCKS5 / HTTP 代理&lt;br /&gt; - 端口转发 -L / -R / -D 都有，单独一个 Tunnels 页看状态&lt;br /&gt;&lt;br /&gt;欢迎大家来试用以及提 issue ，觉得还行的话求求点个 star 🥹🙏 &lt;br /&gt;谢谢～</description>
+    </item>
+    <item>
+      <title>IG 还是输给了 GEN</title>
+      <link>https://www.v2ex.com/t/1255301</link>
+      <guid>v2ex-1255301</guid>
+      <pubDate>Sun, 08 Nov 2026 02:16:46 GMT</pubDate>
+      <description>起个大早看了 IG 比赛，还是办不到吗？今年 GEN 太强了，感觉要夺冠了啊</description>
     </item>
   </channel>
 </rss>
