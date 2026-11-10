@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Mon, 09 Nov 2026 17:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:45:04 GMT</lastBuildDate>
     <item>
       <title>感冒愈后长期咳嗽，发现了个神药？</title>
       <link>https://www.v2ex.com/t/1255459</link>
@@ -18,11 +18,11 @@
 </description>
     </item>
     <item>
-      <title>熊市持续中就开个银河定投纳指或者红利低波 ETF 吧，“万一免五”股票基金免 5 大笑脸开户</title>
-      <link>https://www.v2ex.com/t/1255423</link>
-      <guid>v2ex-1255423</guid>
-      <pubDate>Mon, 09 Nov 2026 00:40:55 GMT</pubDate>
-      <description>熊市中少买股票，就开个银河买买纳指或者红利低波 ETF 就行，胆子大的可以抄底!&lt;br /&gt;这周抽键盘迈从 Ace 68 V2 ；鼠标迈从 A7 V3 PRO+&lt;br /&gt;⚠️回帖即可参与抽奖！&lt;br /&gt;⚠️大笑脸开户，股票基金 etf 最低费率，etf 低至“万 0.5 免五”，欢迎来开！&lt;br /&gt;⚠️大笑脸开户推荐：&lt;br /&gt;YH 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，逆回购 1 折，新手必备]&lt;br /&gt;GF 证券：ETF 万 0.5 免 5 [ETF 费率低]&lt;br /&gt;GD 证券： 万 1 免 5 [低门槛股票 etf 双免 5 ，龙头券商]&lt;br /&gt;CC 证券： 万 1 免 5 [低门槛股票 etf 双免 5]&lt;br /&gt;DB 证券： 万 0.741 免 5 [国企券商，股票 etf 费率低]&lt;br /&gt;GX 证券： 万 0.851 免 5 [头部龙头券商，综合费率很低]&lt;br /&gt;&lt;br /&gt;⚠️大笑脸联系方式和最新券商表格清单，随时更新 &lt;a target=&quot;_blank&quot; href=&quot;http://www.daxiaolian.com&quot; rel=&quot;nofollow noopener&quot;&gt;www.daxiaolian.com&lt;/a&gt;&lt;br /&gt;备用链接 &lt;a target=&quot;_blank&quot; href=&quot;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&quot; rel=&quot;nofollow noopener&quot;&gt;https://shimo.im/docs/rp3OMVG1KaCV6Lkm&lt;/a&gt;&lt;br /&gt;备用联系方式 Z2FveWEyNTAw&lt;br /&gt;ZHhnODg0NA==</description>
+      <title>七年级期中考试分数如下，哎，认命了</title>
+      <link>https://www.v2ex.com/t/1255591</link>
+      <guid>v2ex-1255591</guid>
+      <pubDate>Mon, 09 Nov 2026 07:51:30 GMT</pubDate>
+      <description>总分：282&lt;br /&gt;语文：60&lt;br /&gt;数学：35&lt;br /&gt;英语：88&lt;br /&gt;生物：19&lt;br /&gt;政治：47&lt;br /&gt;历史：27&lt;br /&gt;地理：6</description>
     </item>
     <item>
       <title>希望 BLG 抗韩成功</title>
@@ -30,13 +30,6 @@
       <guid>v2ex-1255430</guid>
       <pubDate>Mon, 09 Nov 2026 00:57:00 GMT</pubDate>
       <description>希望 BLG 抗韩成功</description>
-    </item>
-    <item>
-      <title>七年级期中考试分数如下，哎，认命了</title>
-      <link>https://www.v2ex.com/t/1255591</link>
-      <guid>v2ex-1255591</guid>
-      <pubDate>Mon, 09 Nov 2026 07:51:30 GMT</pubDate>
-      <description>总分：282&lt;br /&gt;语文：60&lt;br /&gt;数学：35&lt;br /&gt;英语：88&lt;br /&gt;生物：19&lt;br /&gt;政治：47&lt;br /&gt;历史：27&lt;br /&gt;地理：6</description>
     </item>
     <item>
       <title>[送会员] 为了学好 英语 和 日语，我做了这个...</title>
@@ -120,29 +113,6 @@
 </description>
     </item>
     <item>
-      <title>重新定义全平台 IPTV 播放器，自研内核极速快， V 友专属福利来了</title>
-      <link>https://www.v2ex.com/t/1255416</link>
-      <guid>v2ex-1255416</guid>
-      <pubDate>Sun, 08 Nov 2026 23:15:32 GMT</pubDate>
-      <description>&lt;p&gt;做了几个月，发上来给大家鉴定鉴定。&lt;/p&gt;
-&lt;p&gt;TiviMini 跟常见的 IPTV 播放器不太一样的地方：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;没用 FFmpeg 。TS 拆包、DASH （.mpd ）解析和 fMP4 拆包、码流分析都是自己用 Rust 写的，解完直接交给芯片硬解，界面是各平台原生控件（ UIKit / AppKit / Android View ）&lt;/li&gt;
-&lt;li&gt;起播快：从点击到画面动起来约 0.26 秒，系统播放器同一个源大概 1.1 秒&lt;/li&gt;
-&lt;li&gt;轻：Android 安装包 3.3 MB ，两万个频道的列表解析 12 ms&lt;/li&gt;
-&lt;li&gt;1080i 隔行台专门处理过，没有梳齿、不黑屏； Apple 设备上做了 25i→50p 去隔行&lt;/li&gt;
-&lt;li&gt;HLS 、DASH 、组播 rtp:// 都能直接播，多音轨、字幕（文字和 DVB 图片字幕）、回看、时移、XMLTV 节目单、多播放源这些都有&lt;/li&gt;
-&lt;li&gt;Apple TV 和 Android 电视盒子都是专门做的遥控器界面，不是手机界面放大&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;给 V 友福利：&lt;/strong&gt;
-苹果版 Pro 订阅了以后 iPhone / iPad 、Apple TV 、Mac 都能用，&lt;strong&gt;活动期间送全 Android （手机和平板电视）&lt;/strong&gt;。Pro 页面会显示激活码，在 Android 上输入就行。&lt;/p&gt;
-&lt;p&gt;下载： &lt;a href=&quot;https://tivimini.app&quot; rel=&quot;nofollow&quot;&gt;https://tivimini.app&lt;/a&gt;
-（国区 App Store 还在备案，暂时要用外区账号）&lt;/p&gt;
-&lt;p&gt;就是个播放器：导入 m3u / txt 列表，点一下就播，不带任何源，用你自己的。&lt;/p&gt;
-&lt;p&gt;有问题、有 bug 直接回帖，App 里也能一键发反馈日志。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>初级古法前端说：前端比后端难多了。我这个后端老登沉默了</title>
       <link>https://www.v2ex.com/t/1255534</link>
       <guid>v2ex-1255534</guid>
@@ -179,6 +149,43 @@
 &lt;p&gt;我自认为目前承担的工作量至少是他的好几倍。当然，我使用 AI 确实提高了效率，但这不代表我做的事情就没有工作量。&lt;/p&gt;
 &lt;p&gt;说到底，我并不反感多做事情，也不觉得使用 AI 有什么值得炫耀的。&lt;/p&gt;
 &lt;p&gt;虽然目前用了 AI 做完这些事，还是有很多时间摸鱼，但是总觉得哪里不愉快。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>00 后到底是整顿职场还是素质低下</title>
+      <link>https://www.v2ex.com/t/1255461</link>
+      <guid>v2ex-1255461</guid>
+      <pubDate>Mon, 09 Nov 2026 02:06:22 GMT</pubDate>
+      <description>上次发了个话题《 00 后整顿职场》&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1245496#reply37&quot;&gt;https://www.v2ex.com/t/1245496#reply37&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;上周五又搞事情，是这样的&lt;br /&gt;他外卖没送筷子，然后看到我桌子上有之前多送的一次性筷子，就拿了一双&lt;br /&gt;然后高潮来了，他吃完后又把筷子放回到我桌子上：还给你，职场就应该互不相欠</description>
+    </item>
+    <item>
+      <title>请教下，有啥线下认识的女生渠道，推荐下</title>
+      <link>https://www.v2ex.com/t/1255531</link>
+      <guid>v2ex-1255531</guid>
+      <pubDate>Mon, 09 Nov 2026 04:29:38 GMT</pubDate>
+      <description>&lt;p&gt;坐标杭州，圈子比较小，想认识些好看性格好的女生，线下有啥好的渠道推荐下吗&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>我做的收费 SSH 客户端 Termark，被人 1:1 复刻并开源了</title>
+      <link>https://www.v2ex.com/t/1255590</link>
+      <guid>v2ex-1255590</guid>
+      <pubDate>Mon, 09 Nov 2026 07:49:10 GMT</pubDate>
+      <description>&lt;p&gt;很久没来 V 站了，今天搜「 gpui 」想学点新东西，点开第一个结果，发现这个项目和我做的 SSH 客户端 Termark ，在界面布局、功能设计、交互方式，甚至图标上都高度一致。&lt;/p&gt;
+&lt;p&gt;作为开发者，第一反应挺复杂的。这些细节是我一点点打磨出来的，现在被原样搬走，说不难受是假的。&lt;/p&gt;
+&lt;p&gt;不过冷静下来想想，能被人复刻，至少说明这个产品是有价值的。&lt;/p&gt;
+&lt;p&gt;我也不打算折腾维权，只想说一句：&lt;strong&gt;开源不等于可以不署名、不尊重原创。&lt;/strong&gt; 借鉴可以，但希望能有边界，也希望能说明来源。&lt;/p&gt;
+&lt;p&gt;Termark 会继续开发和维护，不会因为出现了相似产品就停下来。下面是两边的截图，大家可以自己对比。&lt;/p&gt;
+&lt;p&gt;如果你还没用过 Termark ，欢迎体验：
+官网： &lt;a href=&quot;https://termark.app&quot; rel=&quot;nofollow&quot;&gt;https://termark.app&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我的（ Termark ）：&lt;/strong&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/648CA39g.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对方的：&lt;/strong&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/X76m96g0.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我的（ Termark ）：&lt;/strong&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/DKgTjpGL.png&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对方的：&lt;/strong&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/0XtLg5NW.png&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
