@@ -4,89 +4,13 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 12 Nov 2026 03:57:00 GMT</lastBuildDate>
-    <item>
-      <title>家人们，我失恋了</title>
-      <link>https://www.v2ex.com/t/1256209</link>
-      <guid>v2ex-1256209</guid>
-      <pubDate>Wed, 11 Nov 2026 08:37:01 GMT</pubDate>
-      <description>&lt;p&gt;好像失去了支撑，现在在工位，回家也是一个人，工作没有什么盼头，喜欢的人也没有了&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>最近秋招陆陆续续面了一堆应届生，说点感受</title>
-      <link>https://www.v2ex.com/t/1256189</link>
-      <guid>v2ex-1256189</guid>
-      <pubDate>Wed, 11 Nov 2026 07:28:26 GMT</pubDate>
-      <description>&lt;p&gt;整体水平是真的高。CCF A 一作的不少，两段大厂实习基本是标配，而且实习都是实打实做过东西的，能讲出细节。聊业务、聊领域、聊 Agent 怎么搭、评测怎么做，回答得全面也有自己的思考，简历和表达都比我们当年强很多。&lt;/p&gt;
-&lt;p&gt;但稍微往底层问一点，问题就出来了：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;LLM 接口的 token 分几类、计费为什么不一样，说不清楚&lt;/li&gt;
-&lt;li&gt;prefill 和 decode 分别在做什么，说不清楚&lt;/li&gt;
-&lt;li&gt;QKV 的八股答得很漂亮，但往下追问 KV cache 存的是什么、长上下文为什么慢，基本就答不上了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;现在的学校有点像一场军备竞赛：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;老师用 GPT 出题，学生用 GPT 做题，老师再用 GPT 阅卷&lt;/li&gt;
-&lt;li&gt;论文用 AI 找方向、写代码、跑实验、润色，人手一篇反正是摸奖中彩票&lt;/li&gt;
-&lt;li&gt;面试准备也能看出 AI 痕迹，大概率是让 AI 整理八股、模拟面试，标准答案背得比谁都熟&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;结果就是大家都卡在一种似懂非懂的状态里。说完全不懂吧，概念、术语、公式都知道，说真懂吧，追问两句就露馅了。&lt;/p&gt;
-&lt;p&gt;他们自己心里多少也清楚，但没时间停下来补，因为身边的人都在往前冲。于是一边心虚，一边加速，越卷越拧巴。&lt;/p&gt;
-&lt;p&gt;最后感慨一下，今年大环境居然成了这样。换我穿越回去，大概率全面扑街。只是作为面试官坐在对面，看着一个个这么优秀又这么拧巴的年轻人，心情复杂。。。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>腾讯裁员一半</title>
-      <link>https://www.v2ex.com/t/1256359</link>
-      <guid>v2ex-1256359</guid>
-      <pubDate>Thu, 12 Nov 2026 02:04:48 GMT</pubDate>
-      <description>&lt;p&gt;灭霸响指？&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 12:03:51 GMT</lastBuildDate>
     <item>
       <title>31 岁男前来讨教 V 吧老哥备孕秘籍</title>
       <link>https://www.v2ex.com/t/1256329</link>
       <guid>v2ex-1256329</guid>
       <pubDate>Thu, 12 Nov 2026 01:12:46 GMT</pubDate>
       <description>&lt;p&gt;如题，不知道 V 吧老哥们会不会有备孕技巧。还是说干就完了！ 31 岁男，32 岁女，正准备开始备孕，目标六个月怀上。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>双十一都买了什么</title>
-      <link>https://www.v2ex.com/t/1256122</link>
-      <guid>v2ex-1256122</guid>
-      <pubDate>Wed, 11 Nov 2026 03:58:19 GMT</pubDate>
-      <description>&lt;p&gt;年纪上来了，都不知道买什么，也没什么欲望
-就买了一个升降的桌子，可以站着办公，对健康会好一点吧？
-问问大家都买了什么&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>兄弟们，房贷终于要还清了！</title>
-      <link>https://www.v2ex.com/t/1256244</link>
-      <guid>v2ex-1256244</guid>
-      <pubDate>Wed, 11 Nov 2026 09:51:01 GMT</pubDate>
-      <description>&lt;p&gt;本月房贷终于要还清了，卡里备好的 4.7 万静静躺着，等那天银行自动划走就好。&lt;/p&gt;
-&lt;p&gt;回想 2022 年初刚背上这 35 万贷款那会儿，压力大到喘不过气。真得谢谢老婆，之前她把彩礼钱拿出来帮我还贷，前前后后提前还了五六次，愣是把一大笔债磨成了现在这点零头。&lt;/p&gt;
-&lt;p&gt;四年，从 2022 到 2026 ，35 万清零。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>咸鱼怎么卖东西，好多东西挂了许久也卖不出去，只有购买记录，售出记录屈指可数</title>
-      <link>https://www.v2ex.com/t/1256332</link>
-      <guid>v2ex-1256332</guid>
-      <pubDate>Thu, 12 Nov 2026 01:22:53 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/VN7vbGJ.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/VN7vbGJ.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ObHvBCp.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ObHvBCp.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; 图示举例如上，佬们有啥好办法或新思路</description>
-    </item>
-    <item>
-      <title>未来公司的护城河是什么</title>
-      <link>https://www.v2ex.com/t/1256139</link>
-      <guid>v2ex-1256139</guid>
-      <pubDate>Wed, 11 Nov 2026 05:23:41 GMT</pubDate>
-      <description>&lt;p&gt;之前看 Dario 谈到公司的护城河是拥有未被 ai 训练过的数据。
-腾讯姚顺雨 说公司的护城河不在大模型 在应用层。&lt;/p&gt;
-&lt;p&gt;感觉 建筑，养老，个护，医疗，教育，餐饮 可能是受到冲击较小的行业，现在的软件，互联网，嵌入式行业的护城河在哪里&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -107,64 +31,41 @@
 </description>
     </item>
     <item>
-      <title>[送码] Mu3ic 史诗级更新，现已支持播客和听书，实现音频内容消费中心，对音乐服大曲库实现深度优化，最佳用户体验没有之一，送码+双 11 优惠活动</title>
-      <link>https://www.v2ex.com/t/1256202</link>
-      <guid>v2ex-1256202</guid>
-      <pubDate>Wed, 11 Nov 2026 08:16:02 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;Mu3ic 宣传封面&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/flLEZ6e.png&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;🎉 &lt;a href=&quot;https://mu3ic.xyz&quot; rel=&quot;nofollow&quot;&gt;Mu3ic&lt;/a&gt; 迎来史诗级更新，&lt;strong&gt;最强音频内容消费终端&lt;/strong&gt;，完美支持音乐、电台、播客和听书。&lt;strong&gt;最佳用户体验&lt;/strong&gt;，深度优化音乐服大曲库的使用体验，丝滑切换音乐服。&lt;strong&gt;横屏唱机皮肤升级&lt;/strong&gt;，支持明暗自动切换，彩色胶片的色彩和纹理自适应歌曲封面。&lt;strong&gt;福利说明在文末&lt;/strong&gt;，进群享受&lt;strong&gt;ios 内测&lt;/strong&gt;权益 📱&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;唱机皮肤展示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/M4PI7Ma.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;Audio Hub Terminal&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;音乐&lt;/strong&gt;：本地音乐 / Navidrome / Jellyfin / Emby&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;电台&lt;/strong&gt;：Navidrome / 应用内自行添加&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;播客&lt;/strong&gt;：应用内订阅，支持 RSS 与 OPML 导入&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;听书&lt;/strong&gt;：Audiobookshelf&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Mu3ic 1.8.0 stable 的重磅更新&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;深度优化了对&lt;strong&gt;第三方大体量音乐服&lt;/strong&gt;的使用体验，针对数十万首曲库的同步、浏览、搜索与加载进行了集中打磨，大曲库也能用得顺手。&lt;/li&gt;
-&lt;li&gt;新增&lt;strong&gt;播客&lt;/strong&gt;、&lt;strong&gt;听书&lt;/strong&gt;功能，集&lt;strong&gt;音乐、电台、播客和听书&lt;/strong&gt;于一体，让 Mu3ic 成为你的个人 &lt;strong&gt;Audio Hub&lt;/strong&gt;。
-&lt;img alt=&quot;Mu3ic 功能展示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/5TIPbiv.png&quot;/&gt;
-&lt;img alt=&quot;Mu3ic 功能展示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Dvn7rai.png&quot;/&gt;&lt;/li&gt;
-&lt;li&gt;横屏&lt;strong&gt;唱机皮肤&lt;/strong&gt;升级，新增&lt;strong&gt;彩胶唱片&lt;/strong&gt;：根据专辑封面的主题色自动搭配唱片颜色，呈现大理石、烟雾、回旋等纹理；唱机底座支持浅橡木与深胡桃两套木色，随应用明暗自动切换。
-&lt;img alt=&quot;唱机皮肤展示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/M4PI7Ma.png&quot;/&gt;
-&lt;img alt=&quot;唱机皮肤展示&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/LtyfOhN.png&quot;/&gt;&lt;/li&gt;
-&lt;li&gt;曲库检索全面升级，独家智能标签检索，支持拼音模糊搜索
-&lt;img alt=&quot;大曲库筛选与搜索&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/WQl2crS.png&quot;/&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;进群&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;进群可以许愿！&lt;/li&gt;
-&lt;li&gt;🎉任何问题和需求都会被重视，让我们共同提升应用体验🎉&lt;/li&gt;
-&lt;li&gt;资源交流（博文也写的很详细，曲目自动化入库 prompt 进群获取）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;获取 ios 端内测资格&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;本帖福利说明&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;前 50 送激活码&lt;/strong&gt;（激活码无法享受 1 年 2 次换机权益，其他权益不变）&lt;/li&gt;
-&lt;li&gt;之后端朋友，在该帖留下邮箱，发放 &lt;strong&gt;6 元优惠券&lt;/strong&gt;，叠加&lt;strong&gt;双 11 优惠&lt;/strong&gt;（持续一个月），优惠价为 &lt;del&gt;48&lt;/del&gt; &lt;strong&gt;26&lt;/strong&gt;元&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;ios 、tv 端正拍马赶来&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;ios 最快月底出内测版，进群获取最新内测信息&lt;/li&gt;
-&lt;li&gt;Android TV 端预计与 ios 一起发布，敬请期待&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;相关链接&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;产品主页&lt;/strong&gt;： &lt;a href=&quot;https://mu3ic.xyz&quot; rel=&quot;nofollow&quot;&gt;https://mu3ic.xyz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;软件直链下载&lt;/strong&gt;： &lt;a href=&quot;https://dl.robb3n.site/mu3ic/Mu3ic-stable.apk&quot; rel=&quot;nofollow&quot;&gt;https://dl.robb3n.site/mu3ic/Mu3ic-stable.apk&lt;/a&gt; （海外慢的话用 &lt;a href=&quot;https://mu3ic.xyz/dl/Mu3ic-stable.apk&quot; rel=&quot;nofollow&quot;&gt;https://mu3ic.xyz/dl/Mu3ic-stable.apk&lt;/a&gt; ）&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;相关 Blog&lt;/strong&gt;：&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://robb3n.site/posts/turn-phone-sideways-play-vinyl/&quot; rel=&quot;nofollow&quot;&gt;黑胶唱机：横过手机，放一张唱片&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://robb3n.site/posts/folder-to-music-library-tagging-best-practices/&quot; rel=&quot;nofollow&quot;&gt;从文件夹到曲库：音乐文件标签最佳实践&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://robb3n.site/posts/song-ingestion-automation-gates/&quot; rel=&quot;nofollow&quot;&gt;入库自动化：一首歌进曲库要过的几道闸&lt;/a&gt; &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;更新日志&lt;/strong&gt;： &lt;a href=&quot;https://mu3ic.xyz/changelog/&quot; rel=&quot;nofollow&quot;&gt;https://mu3ic.xyz/changelog/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;官方讨论群&lt;/strong&gt;： &lt;a href=&quot;https://t.me/+RFkD6vL_889iMjQ9&quot; rel=&quot;nofollow&quot;&gt;https://t.me/+RFkD6vL_889iMjQ9&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <title>资金垫子铺完了！</title>
+      <link>https://www.v2ex.com/t/1256423</link>
+      <guid>v2ex-1256423</guid>
+      <pubDate>Thu, 12 Nov 2026 03:40:18 GMT</pubDate>
+      <description>各位老哥大家好，今天我是兴高采烈啊。我是大专，26 年毕业了来深漂。&lt;br /&gt;来的时候配置狠狠拉跨，那个时候支付宝欠了几千块钱，随后又问朋友借了 3000 块钱。手里除了这-3000 没有任何现钱。&lt;br /&gt;4 月 9 日，我找到一个工作，结果那个工作带上老板带上我总共 3~4 个人。写代码的，干了两周就跑路了。&lt;br /&gt;当时住在青旅里面，一天 50 元。青旅大家知道的，总会遇到有意思的人，老板给我价格减到 43 。这样我手头的钱总算能坚持到发工资了。那个时候我心里还很忐忑：这个工作室太小了，有点像是发不出来工资的呀。索性工资顺利到账。让我又苟了两个星期，那个时候我也抑郁发作，天天想 si 算了，在青旅爬起来买了舍曲林吃吃。继续投工作，总算又找到了一个工作。&lt;br /&gt;&lt;br /&gt;实习 5000 ，不签劳动合同，不转正。后来 leader 看我技术还可以，给我提到了 6000.先干着呗，干了四个月，公司发奖金。我技术尚可，原 CTFer 转开发，leader 可能怕我走，给我申请了 20k 奖金。至此，这四个月入 12k/月。每个月还会存钱的。在拿了奖金以后，工资提升到了 9.1k&lt;br /&gt;&lt;br /&gt;下半场正在做，昨天老师让我申请了奖学金 10k 。是挑战杯团队赛，我们学校给 10k 奖金。我负责的项目，有电子开心。等奖学金发下来，我就铺完了我的资金垫子：30k ，到时候足够半年多无工作 GAP 了。如果遭遇意外被裁我终于不担心了。&lt;br /&gt;&lt;br /&gt;自 4 月来，历经 7 个月，终于不用有了上顿担心下顿了。</description>
+    </item>
+    <item>
+      <title>被领导叫去涨薪了</title>
+      <link>https://www.v2ex.com/t/1256525</link>
+      <guid>v2ex-1256525</guid>
+      <pubDate>Thu, 12 Nov 2026 08:50:09 GMT</pubDate>
+      <description>&lt;p&gt;虽然只加了 2K ，但是也很开心啊&lt;/p&gt;
+&lt;p&gt;最近 V 站工作贴一片灰暗，给 V 友一些希望&lt;/p&gt;
 </description>
+    </item>
+    <item>
+      <title>咸鱼怎么卖东西，好多东西挂了许久也卖不出去，只有购买记录，售出记录屈指可数</title>
+      <link>https://www.v2ex.com/t/1256332</link>
+      <guid>v2ex-1256332</guid>
+      <pubDate>Thu, 12 Nov 2026 01:22:53 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/VN7vbGJ.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/VN7vbGJ.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/ObHvBCp.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ObHvBCp.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt; 图示举例如上，佬们有啥好办法或新思路</description>
+    </item>
+    <item>
+      <title>不知道的迷信，它生效吗？</title>
+      <link>https://www.v2ex.com/t/1256363</link>
+      <guid>v2ex-1256363</guid>
+      <pubDate>Thu, 12 Nov 2026 02:07:13 GMT</pubDate>
+      <description>预告：我知道这可能是一个比较具有争议性的问题，我先说明，我很叛逆。&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;这篇文章始于一个问题：一个月前外公走了，两个月后我能参加好友的婚礼吗？&lt;br /&gt;&lt;br /&gt;我的观点是，**只要我不告诉对方，我开心地去参加，那毫无问题**。我跟另一个人讨论这个问题，他表示强烈反对：对方有知情权，有的人就很在意，你不说就会影响到人家，你就是素质低。&lt;br /&gt;&lt;br /&gt;我首先就问了，我不说，到底怎么影响到别人？对方说问就是玄学。但是这里面确实有一个值得玩味的问题。&lt;br /&gt;&lt;br /&gt;**如果对方不知道，这个迷信成立吗？**&lt;br /&gt;&lt;br /&gt;对于一些近乎疯狂的“玄学爱好者”，他们会觉得不行，不行的！会有感应的！你这人去到那了对人家就不好了！不管别人知不知道！他就是不好。嗯，我真的没什么好说，也不想反驳，我又不能证伪，怎么反驳。&lt;br /&gt;&lt;br /&gt;## 说与不说的结果&lt;br /&gt;&lt;br /&gt;想一想，说的结果无非两种。&lt;br /&gt;&lt;br /&gt;一是拒绝，二是没问题，可以来。我觉得现在唯物主义的 90 后应该会比较少说不能来，毕竟两件事并不是贴得很近。但是如果真的觉得我不能去，那不去就可以了，尊重对方的想法。&lt;br /&gt;&lt;br /&gt;如果他说没问题呢，对我来说结果是可以去，但是有可能对对方来说却可能承受了一次扩散膈应，这个下面再说。&lt;br /&gt;&lt;br /&gt;如果不说呢？**实际上 0 人受伤**。没有人会感觉的膈应，没有人受到诅咒，一切正常。&lt;br /&gt;&lt;br /&gt;**除非对方是一个能感应到我外公走了的灵能者，还顺便觉得最近有点生活不顺，并归因为这是我的锅**。&lt;br /&gt;&lt;br /&gt;所以实际上，选择说与不说，至少是没有一个选择比另一个选择更好的。&lt;br /&gt;&lt;br /&gt;这时候又可能被杠了，我不说，这就是我故意隐瞒，别人有知情权，你尊重别人了吗？我素质低。&lt;br /&gt;&lt;br /&gt;## 隐瞒&lt;br /&gt;&lt;br /&gt;按照“知情权”这一套理论，我告诉了对方。&lt;br /&gt;&lt;br /&gt;但是迷信的通常是上一辈，那上一辈也有知情权哦，是不是代表我告诉了对方，对方就要继续往上上报呢？&lt;br /&gt;&lt;br /&gt;正常人会选“是”吗？把这件“坏事”再传一个遍？那跟“新年嘴臭”有什么区别？&lt;br /&gt;&lt;br /&gt;至于选“否”呢？对方一个人代表全家接受了这件事，我就心安理得地去？这听起来是对的，但是这何尝不是把这种迷信的压力单纯地转嫁给别人？&lt;br /&gt;&lt;br /&gt;我的观点是，从一开始就不该从我这说出去。&lt;br /&gt;&lt;br /&gt;举个不太恰当的例子就是有点像小时候的诅咒邮件。更加恰当的就是那些与死亡无关迷信，例如什么时候不能洗头啊，什么时候不能剪指甲啊，什么时候又不能这啊，那啊。不知道倒好，知道了就膈应，这种事一传十十传百，不就是扩散的膈应？&lt;br /&gt;&lt;br /&gt;那从这个角度看，我怎么就素质低了，素质非常高，我独自承受了这个悲伤的消息。&lt;br /&gt;&lt;br /&gt;再次强调，**无论说与不说，结果都是 0 人受伤**。&lt;br /&gt;&lt;br /&gt;如果你还是说“隐瞒”本身就是道德的缺失呢？那我拒绝接受这种建立在迷信（即使是死亡）上的道德观。如果觉得这种隐瞒是不道德的，那是否会觉得父为子纲夫为妻纲、三从四德是对的？&lt;br /&gt;&lt;br /&gt;## 死亡&lt;br /&gt;&lt;br /&gt;说到死亡，中国人是极怕的，不敢讨论半句。我倒是觉得死亡是应该值得我们沉思和交流的，有死亡，我们做的一切才会有意义。&lt;br /&gt;&lt;br /&gt;其实也不是所有文化都畏惧死亡，也是由一套传统文化故事驱动的，古埃及人就不惧怕死亡。最近我在 B 站看到小钟的一个投稿，说有一个地方的人甚至和死去的祖先住在一起。注意，这不是普通的像日本那种在家隔壁建个坟的那种住在一起，而是棺材直接放家里，而棺材里放着的，就直接是经过特殊处理的遗体。不害怕的理由有很多，难道你祖宗还能害你不成？&lt;br /&gt;&lt;br /&gt;所以现代社会了，人活着就够累了，还要遵守迷信规则吗？&lt;br /&gt;&lt;br /&gt;## 结语&lt;br /&gt;&lt;br /&gt;当然，我很双标，作为一个反迷信斗士，我不是平等地讨厌每一个迷信，我拥抱所有对我好迷信，摒弃所有不利于我的迷信。&lt;br /&gt;&lt;br /&gt;谢谢大家看完，这里祝看到本文的大家生活愉快、财源广进！</description>
+    </item>
+    <item>
+      <title>佬们，工资太低想跳槽，该准备什么？</title>
+      <link>https://www.v2ex.com/t/1256427</link>
+      <guid>v2ex-1256427</guid>
+      <pubDate>Thu, 12 Nov 2026 03:54:54 GMT</pubDate>
+      <description>校招进的国企，可是工资太低了，而且没有涨的希望，准备跳槽了&lt;br /&gt;目前就是时间宽松，早九晚六，上班的时候也能刷两道力扣的题&lt;br /&gt;下班了就准备软考高级</description>
     </item>
   </channel>
 </rss>
