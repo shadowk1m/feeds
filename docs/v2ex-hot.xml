@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sat, 14 Nov 2026 16:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:49:20 GMT</lastBuildDate>
     <item>
       <title>有小孩了,想每年给小孩存一点钱,大家推荐什么</title>
       <link>https://www.v2ex.com/t/1256985</link>
@@ -65,6 +65,14 @@
       <description>最近 codex 特别慢， 尝试体验以下 CodeBuddy Trae 这些。 发现国模(主要用 glm flash deepseek flash)真的效果还是可以的， 不光更便宜，整体其实效果还行。整体下来比 codex 价格合适。&lt;br /&gt;&lt;br /&gt;另外还有一个感受就是即使不用手写代码，但是最好还有一个编辑器，在类似 CodeBuddy trae 这种编辑器里面使用 ai 的时候感觉 ai 对项目整体的感知能力会更好，比如我用 openspec 产出好的 task ，CodeBuddy trae 可以比较顺畅的沿着计划执行下去， 但是 codex 无论是客户端 cli 还是嵌入到 zed 中都总是卡壳断在某个任务上停止。 &lt;br /&gt;&lt;br /&gt;再有就是编辑器中可以连远程机器，直接可以交给 ai 去操作，以及编辑器里打开浏览器去操作验收功能，尽管 codex 也有这种能力，但是要占用系统的 chrome ，相比之下感觉放到编辑器中开个浏览器似乎更友好一点。感觉比起一些各种自己配置的编辑器不如这种拿来就用的效率高，而且相对还更成熟。&lt;br /&gt;&lt;br /&gt;当然顶级模型应该还是国外的领先，我用 codex 也只是 gpt6 sol 和 gpt6.1 terra ，也不敢开太高，主要额度用的太快了。 &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;最近使用的一点感受，不知道你们感受如何</description>
     </item>
     <item>
+      <title>很多火的东西，理解不了为什么火</title>
+      <link>https://www.v2ex.com/t/1256990</link>
+      <guid>v2ex-1256990</guid>
+      <pubDate>Sat, 14 Nov 2026 00:58:37 GMT</pubDate>
+      <description>&lt;p&gt;是不是也表示：我自己做出来的产品就不可能火，因为我的品味有问题&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>睡前安排了一整晚的 agent 全自动任务，一觉醒来被 Windows 自动更新重启杀了</title>
       <link>https://www.v2ex.com/t/1257008</link>
       <guid>v2ex-1257008</guid>
@@ -74,26 +82,11 @@
 </description>
     </item>
     <item>
-      <title>很多火的东西，理解不了为什么火</title>
-      <link>https://www.v2ex.com/t/1256990</link>
-      <guid>v2ex-1256990</guid>
-      <pubDate>Sat, 14 Nov 2026 00:58:37 GMT</pubDate>
-      <description>&lt;p&gt;是不是也表示：我自己做出来的产品就不可能火，因为我的品味有问题&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>换了个新 macbook air m5 有没有推荐的软件安装</title>
       <link>https://www.v2ex.com/t/1257002</link>
       <guid>v2ex-1257002</guid>
       <pubDate>Sat, 14 Nov 2026 02:07:06 GMT</pubDate>
       <description>如题，之前的电脑都是旧系统，很多软件都不支持 intel 芯片了，&lt;br /&gt;&lt;br /&gt;看看大家有没有推荐的&lt;br /&gt;&lt;br /&gt;我主要做产品经理，写文档，画原型，搞浏览器自动化&lt;br /&gt;&lt;br /&gt;看看有没有啥好玩的 Mac 软件和玩法推荐</description>
-    </item>
-    <item>
-      <title>家里用 PVE 做软路由，想和同好交流一下，也可远程帮看（长春可上门）</title>
-      <link>https://www.v2ex.com/t/1256986</link>
-      <guid>v2ex-1256986</guid>
-      <pubDate>Sat, 14 Nov 2026 00:34:29 GMT</pubDate>
-      <description>自己在长春，家里小主机装着 PVE ，上面跑 OpenWrt 旁路由，也用 Unraid 和一些 VPS 。平时安装、组网、虚拟机这些会自己折腾。&lt;br /&gt;&lt;br /&gt;想多认识一些玩软路由、PVE 、NAS 的朋友，有在用类似方案的，欢迎一起聊聊坑。&lt;br /&gt;&lt;br /&gt;如果有人卡在安装、网络配置或者救砖上，也可以找我远程看一下，长春本地能上门。先说情况和报错，能做再谈要不要帮忙，按次算。不卖机器，也不接来路不明的账号和面板。</description>
     </item>
     <item>
       <title>最近做了一个运行在 iPhone 的 agent</title>
@@ -112,6 +105,43 @@
 &lt;li&gt;最近用来给截图，视频套手机壳，管理家里的 nas ，控制智能家居等，可玩性非常高&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;tf 内测中： &lt;a href=&quot;https://testflight.apple.com/join/WUPfjzh2&quot; rel=&quot;nofollow&quot;&gt;https://testflight.apple.com/join/WUPfjzh2&lt;/a&gt; 欢迎提 bug&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>求助: 想在寝室搞一个小主机 有推荐么?</title>
+      <link>https://www.v2ex.com/t/1257109</link>
+      <guid>v2ex-1257109</guid>
+      <pubDate>Sat, 14 Nov 2026 14:03:54 GMT</pubDate>
+      <description>&lt;p&gt;目前只有一台 8845H 的笔记本 + iPad air(有点想把 pad 出掉... 记笔记屏幕滑的一 看书不如手机随时随地又小巧 拿着舒服)&lt;/p&gt;
+&lt;p&gt;预算 4000 左右&lt;/p&gt;
+&lt;h2&gt;用途&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;挂 agent 跑任务(主要是翻译一些文档 搜集一些资料 完成一些重复小任务 小机器人监控一些任务 有时候有一些想法直接丢给 ai one-shot 先跑三四轮 然后后看一看结果是否收敛 如果有感觉就继续迭代 感觉完成的不好或者是后续投入优化的时间会花费的很大的话就放弃掉) 如果在本机跑的话老是控制不住自己 tmux 切过去看进程 有点难受.  &lt;/li&gt;
+&lt;li&gt;挂 pt&lt;/li&gt;
+&lt;li&gt;喜欢折腾 最近在学运维 docker 想要自己装台机子舒服一下 :)&lt;/li&gt;
+&lt;li&gt;... &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;试过 grok bot 这类的产品 但是我还是更喜欢将一些 prompt 和数据维护在本地
+grok bot 自动压缩和学习有时候会记住一些我不想让他记住的东西 有点难受.
+试过 vps. 但是有一些任务有时候 cpu 太弱要很久. &lt;/p&gt;
+&lt;h2&gt;候选&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;mac mini
+静音 功耗低
+存储贵(外挂硬盘盒?) 多多上蹲不到 24G 内存机子的好价&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;树莓派 5
+性能比较低 没用过
+价格便宜&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;itx 小主机
+现在板 u 都是低价 咸鱼上收个低价内存先撑一下 然后等以后慢慢攒钱拓展&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;老哥们有什么推荐么?&lt;/p&gt;
 </description>
     </item>
   </channel>
