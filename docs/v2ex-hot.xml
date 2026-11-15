@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Nov 2026 06:57:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:28:55 GMT</lastBuildDate>
     <item>
       <title>关于设置中目前提供的 6 种楼中楼样式的 Demo</title>
       <link>https://www.v2ex.com/t/1257128</link>
@@ -29,6 +29,26 @@
 </description>
     </item>
     <item>
+      <title>deepseek harness 的实际能力远超大多数人的认知，最近深度体验总结</title>
+      <link>https://www.v2ex.com/t/1257214</link>
+      <guid>v2ex-1257214</guid>
+      <pubDate>Sun, 15 Nov 2026 08:22:58 GMT</pubDate>
+      <description>&lt;p&gt;先说下本人的 AI Coding 经验，chatgpt 横空出世时，一款名为免费的 Cursor 在 2023 年悄然上线，我当时也算是最先一批把 cursor 用于公司项目的程序员，所以 AI Coding 经验有 2 年半的时间了吧。&lt;/p&gt;
+&lt;p&gt;当时惊叹 chatgpt 的能力，我意识到了 AI 真的会思考，AI 不再是算法和程序堆叠的产物。&lt;/p&gt;
+&lt;p&gt;从 Cursor 到 Codex 到 Calude Code，再到 deepseek-harness。&lt;/p&gt;
+&lt;p&gt;他们都在特定的环境完成了我的任务，从用 Cursor 时自己还会手动改下 AI 写代码遗留下的问题，到用 Codex 时感受到 AI 可以自己完成 UI 设计（前端开发），功能实现，自己用浏览器测试项目。&lt;/p&gt;
+&lt;p&gt;后面又用了几个月的 Calude Code，cc 的代码能力的确把 codex 远远的甩在身后，理解需求的能力，设计品味的能力，把任务交给他，很放心，返工也少。&lt;/p&gt;
+&lt;p&gt;在深度使用 cc 和 codex 的时候，dsh 只是我的备胎，所以有一段时间很少使用 dsh，事情的转折来自 codex 降智，claude code 弹 kyc，于是我深度使用了半个月的 dsh。&lt;/p&gt;
+&lt;p&gt;在实际的项目开发中，dsh 完成了所有的功能！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从 UI 还原，架构设计，前端代码编写，后端代码编写，复杂原子任务，把代码提交到 github，登录 ECS 服务器部署，排查线上问题，查询服务器日志，修复代码推送，部署！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一气呵成，当一套组合拳被 dsh 打下来的时候，我才明白为什么人们称那个男人叫 &lt;strong&gt;梁圣！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;原来我认为只有 Claude code 和 codex 完成的任务，被 DSH 同样完成时，我猜明白，原来最好的模型就在身边。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;没有降智，没有 PUA，没有时间限制，不会封号，他是认知对待每一位开发者的可爱大肥鱼！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果**AI 最终走向递归自我改进 (RSI)**，那么不论是 CloseAI 还是 A 畜，他们的护城河最终被 AI 打破，这个只是时间问题。&lt;/p&gt;
+&lt;p&gt;目前已经放弃了 ClaudeCode，我也相信未来 3 年内，deepseek 将会成为世界第一梯队的模型，如果未来的 AI 神话是真的，那么 AI 将亲手打破封锁，没有任何人能阻止 AI 属于任何人这件事。&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>如果给计算机基础教材列一个「五大经典」，你会选哪几本</title>
       <link>https://www.v2ex.com/t/1257146</link>
       <guid>v2ex-1257146</guid>
@@ -48,62 +68,38 @@
 </description>
     </item>
     <item>
-      <title>有没有 V 友自己搭建过云手机？想实现网页远程操作，不想再用第三方云手机了</title>
-      <link>https://www.v2ex.com/t/1257073</link>
-      <guid>v2ex-1257073</guid>
-      <pubDate>Sat, 14 Nov 2026 10:13:39 GMT</pubDate>
-      <description>&lt;p&gt;想问一下，有没有 V 友尝试过自己用服务器搭建开源项目的云手机？&lt;/p&gt;
-&lt;p&gt;比如在自己的服务器上部署云手机环境，然后通过网页端远程访问和操作，平时用来刷视频、玩游戏，测试 app 等等。&lt;/p&gt;
-&lt;p&gt;如果整个环境都部署在自己的服务器上，数据和操作也由自己掌控，理论上隐私和安全性也会更有保障。&lt;/p&gt;
-&lt;p&gt;不知道有没有大佬实践过？目前有哪些比较成熟的开源方案值得推荐？求分享经验！&lt;/p&gt;
+      <title>闲聊聊到了我司当前接入 AI 的年度成本</title>
+      <link>https://www.v2ex.com/t/1257169</link>
+      <guid>v2ex-1257169</guid>
+      <pubDate>Sun, 15 Nov 2026 02:54:38 GMT</pubDate>
+      <description>&lt;p&gt;前几天蹭了一下所属大部门 VP 的饭，旁敲侧击的问了一下今年度企业接入 AI 带来的额外成本&lt;/p&gt;
+&lt;p&gt;我们公司在接入 AI 上起步算是比较晚的，今年 2 月伴随着 Opus4.6 的发布才开始大规模采购基于 AWS 分销的 Claude API，之后更进一步采购了外界的 Gateway 服务从而实现了几乎所有的模型供应商的模型覆盖&lt;/p&gt;
+&lt;p&gt;员工采取每月限额的方式来限制，截止到目前整体的大模型调用支出已经占据了部门往年总工资支出的 20%，估计一整个自然年的话应该能到 30%朝上。&lt;/p&gt;
+&lt;p&gt;公司的年度盈利并没有变好，甚至有变差的趋势，估摸着这份支出最后还是会回到打工人自己头上。明年应该是砍额度+裁员，按照比例的话估计要裁 20%+，瑟瑟发抖中。。。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>求助: 想在寝室搞一个小主机 有推荐么?</title>
-      <link>https://www.v2ex.com/t/1257109</link>
-      <guid>v2ex-1257109</guid>
-      <pubDate>Sat, 14 Nov 2026 14:03:54 GMT</pubDate>
-      <description>&lt;p&gt;目前只有一台 8845H 的笔记本 + iPad air(有点想把 pad 出掉... 记笔记屏幕滑的一 看书不如手机随时随地又小巧 拿着舒服)&lt;/p&gt;
-&lt;p&gt;预算 4000 左右&lt;/p&gt;
-&lt;h2&gt;用途&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;挂 agent 跑任务(主要是翻译一些文档 搜集一些资料 完成一些重复小任务 小机器人监控一些任务 有时候有一些想法直接丢给 ai one-shot 先跑三四轮 然后后看一看结果是否收敛 如果有感觉就继续迭代 感觉完成的不好或者是后续投入优化的时间会花费的很大的话就放弃掉) 如果在本机跑的话老是控制不住自己 tmux 切过去看进程 有点难受.  &lt;/li&gt;
-&lt;li&gt;挂 pt&lt;/li&gt;
-&lt;li&gt;喜欢折腾 最近在学运维 docker 想要自己装台机子舒服一下 :)&lt;/li&gt;
-&lt;li&gt;... &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;试过 grok bot 这类的产品 但是我还是更喜欢将一些 prompt 和数据维护在本地
-grok bot 自动压缩和学习有时候会记住一些我不想让他记住的东西 有点难受.
-试过 vps. 但是有一些任务有时候 cpu 太弱要很久. &lt;/p&gt;
-&lt;h2&gt;候选&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;mac mini
-静音 功耗低
-存储贵(外挂硬盘盒?) 多多上蹲不到 24G 内存机子的好价&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;树莓派 5
-性能比较低 没用过
-价格便宜&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;itx 小主机
-现在板 u 都是低价 咸鱼上收个低价内存先撑一下 然后等以后慢慢攒钱拓展&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;老哥们有什么推荐么?&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>AI 时代，程序员正在慢慢转向产品经理</title>
-      <link>https://www.v2ex.com/t/1257054</link>
-      <guid>v2ex-1257054</guid>
-      <pubDate>Sat, 14 Nov 2026 08:05:30 GMT</pubDate>
-      <description>&lt;p&gt;以前我也是个古法编程的坚定维护者，但随着 DeepSeek Flash 1017 模型的发布，尝试了一下，现在已经离不开 AI 编程了。&lt;/p&gt;
-&lt;p&gt;AI 可以自动完成：编码、验证、修复、重构一条龙，再也不需要自己去思考具体逻辑、代码漏洞等问题，最多只需要自己设计程序架构。（甚至也可以让 AI 设计架构）&lt;/p&gt;
-&lt;p&gt;不知道从何时开始，我慢慢地也习惯了向 AI 不断提需求、提改动，键盘也开始从从来敲代码变成敲 prompt 了...&lt;/p&gt;
-&lt;p&gt;而这一切的代价，就是付费 token ，仅此而已。&lt;/p&gt;
+      <title>记录第一次相亲</title>
+      <link>https://www.v2ex.com/t/1257174</link>
+      <guid>v2ex-1257174</guid>
+      <pubDate>Sun, 15 Nov 2026 04:01:13 GMT</pubDate>
+      <description>&lt;h2&gt;介绍认识&lt;/h2&gt;
+&lt;p&gt;前两周，一位亲戚给我推了一个女生的微信，大致介绍了一下对方的情况。&lt;/p&gt;
+&lt;p&gt;我今年 30 岁，其实之前一直不太愿意通过相亲这种方式认识女生。不过最近想了想，加个微信也没什么，先聊聊看也无妨。毕竟在目前的工作地，身边没什么朋友，如果能找到有共同爱好的人，以后一起骑骑车、爬爬山，偶尔约着出去玩，也挺不错。&lt;/p&gt;
+&lt;h2&gt;聊天&lt;/h2&gt;
+&lt;p&gt;加上微信后，简单聊了几句，和我预想的差不多，基本看不出对方有什么主动交流的意愿，聊天也很难继续推进。&lt;/p&gt;
+&lt;p&gt;两天后，我主动问对方有没有时间线下见一面。对方表示有时间可以，于是我接着问她什么时候方便。结果对方说最近没空，等有时间再说。&lt;/p&gt;
+&lt;p&gt;说实话，到这里我其实已经不太想继续约了。&lt;/p&gt;
+&lt;p&gt;过了几天，亲戚问起我们的进展，我便如实说了自己的感受，觉得女生应该没什么想法。后来亲戚又帮忙向对方的介绍人打听了一下，得到的答复是：对方那周确实有事情，回老家了。&lt;/p&gt;
+&lt;h2&gt;再次约见面&lt;/h2&gt;
+&lt;p&gt;既然如此，本周我便又主动约了一次。对方这次表示有空，于是我们约好周末一起吃饭。&lt;/p&gt;
+&lt;p&gt;确定见面时间后，我问对方有没有什么特别想吃的。对方表示没有，于是我就随便找了一家店。对于这个安排，对方既没有明确表示认可，也没有提出异议。&lt;/p&gt;
+&lt;h2&gt;见面&lt;/h2&gt;
+&lt;p&gt;见面当天，我又问了一遍对方有没有什么想吃的，得到的答复依然是没有。既然如此，那就按照之前选好的地方吃饭吧。&lt;/p&gt;
+&lt;p&gt;整个过程基本就是吃饭加客套话，聊的也都是一些比较常规的话题。聊天过程中，对方明确表示，自己其实比较抵触通过相亲这种方式认识异性。&lt;/p&gt;
+&lt;p&gt;听到这里，我倒也不觉得意外，毕竟这和我最初的猜想基本一致。&lt;/p&gt;
+&lt;p&gt;吃完饭后，对方表示要回去了。OK，那就回去吧。&lt;/p&gt;
+&lt;p&gt;我和她一起下楼，出了楼之后，她便径直离开了，头也没回。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -116,37 +112,62 @@ grok bot 自动压缩和学习有时候会记住一些我不想让他记住的�
 </description>
     </item>
     <item>
-      <title>分享一下 claude portal kyc 后用护照认证被封但又申诉成功的经历</title>
-      <link>https://www.v2ex.com/t/1257045</link>
-      <guid>v2ex-1257045</guid>
-      <pubDate>Sat, 14 Nov 2026 07:26:59 GMT</pubDate>
-      <description>&lt;p&gt;时间线：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;12 号早上通过手机端的 paseo 给 claude opus 5.5 会话发消息时，执行到一半提示错误，给了 portal 链接去认证&lt;/li&gt;
-&lt;li&gt;当天稀里糊涂点进去，国家选择了中国，但没有继续拍照，想着先看网上有没有相关的经验&lt;/li&gt;
-&lt;li&gt;查了一下发现当天很多人都被 kyc 了，而且很多人反馈用护照进行认证，能通过但是账号秒封&lt;/li&gt;
-&lt;li&gt;12 号、13 号都在网上看大家的解决方案，也曾想过找人过 kyc ，但我已经在认证的页面选了国家了，而且不能回去修改了，担心即使找人 kyc 也会被封。而且 portal 的 kyc 是要登陆账号的，担心不安全&lt;/li&gt;
-&lt;li&gt;13 号看到有一些人反馈被封后能申诉回来，当然也有人申诉失败，于是心想与其花钱找人 kyc 被封，还不如自己尝试 kyc ，被封了就尝试申诉&lt;/li&gt;
-&lt;li&gt;当晚直接上传护照以及人脸拍照，果不其然，认证通过还没一分钟账号就被停用了，此时能登陆账号，但会话内容都看不到，而且此时没有退款&lt;/li&gt;
-&lt;li&gt;当晚随即用 codex 整理了一下申诉的内容，主要内容就是讲最近是怎么用 claude 的，用在什么项目上，然后强调 claude 对自己很重要，自己生活和工作严重依赖它，以及说明自己没有滥用 claude&lt;/li&gt;
-&lt;li&gt;隔天醒来，11 点多申诉通过，但账号回退到 free 账号并收到退款&lt;/li&gt;
-&lt;li&gt;今天下午重新尝试订阅，还是用原来的卡，支付成功，现在仍能正常使用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;自己 claude 账号情况：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;23 年注册的老账号，持续订阅 max 5x 的套餐接近快半年了，之前一直没有遇到问题，也没有被要求 kyc 过&lt;/li&gt;
-&lt;li&gt;平时只在固定的两台设备上使用 claude ，且用的是固定的美国家宽 ip ，近大半年来没切过 ip 。设备没改语言也没改时区，没有反代 api&lt;/li&gt;
-&lt;li&gt;平时没有高强度使用 claude code ，基本只用 opus 5.5 high ，reset 也很少用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;以上就是自己的经历，可能是运气好，也可能是老账号，以及固定环境有加持。不保证每个账号都能申诉回来。不过如果你的被封了 可以尝试申诉一下。&lt;/p&gt;
+      <title>20261114 - 楼中楼样式、黑暗模式可以自动跟随系统设置及 Solana 买入按钮的额外铜币奖励</title>
+      <link>https://www.v2ex.com/t/1257127</link>
+      <guid>v2ex-1257127</guid>
+      <pubDate>Sat, 14 Nov 2026 15:43:57 GMT</pubDate>
+      <description>&lt;p&gt;现在在设置中可以选择几种不同的楼中楼样式：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://edge.v2ex.com/settings#reply_thread_style&quot; rel=&quot;nofollow&quot;&gt;https://edge.v2ex.com/settings#reply_thread_style&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;关于几种新的楼中楼样式的说明：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://edge.v2ex.com/help/reply-threads&quot; rel=&quot;nofollow&quot;&gt;https://edge.v2ex.com/help/reply-threads&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前提供的 6 种楼中楼样式的 Demo：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://edge.v2ex.com/t/1257128&quot; rel=&quot;nofollow&quot;&gt;https://edge.v2ex.com/t/1257128&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;首页右上角的黑暗模式切换现在支持自动跟随系统设置。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.v2ex.co/odpRBzC8.png&quot;/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;如果在 Solana HODL 页面或者注册时使用快速买入功能（由 Jupiter Swap API 驱动），那么会获得额外的铜币奖励：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://edge.v2ex.com/help/buy-bonus&quot; rel=&quot;nofollow&quot;&gt;https://edge.v2ex.com/help/buy-bonus&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Claude 代充跳 kyc 被封都是不退款的吗</title>
-      <link>https://www.v2ex.com/t/1257042</link>
-      <guid>v2ex-1257042</guid>
-      <pubDate>Sat, 14 Nov 2026 07:02:58 GMT</pubDate>
-      <description>有走代充的朋友吗，可以讲一下么</description>
+      <title>又被淘宝双 11 背刺了</title>
+      <link>https://www.v2ex.com/t/1257229</link>
+      <guid>v2ex-1257229</guid>
+      <pubDate>Sun, 15 Nov 2026 11:18:06 GMT</pubDate>
+      <description>&lt;p&gt;因为准备玩 GTA6，双 11 期间在淘宝买了一台新电视，价格 4200+，买的时候宣传&lt;strong&gt;“全网保价至 11 月 20 日”&lt;/strong&gt;，所以也没害怕会降价，就下单了。&lt;/p&gt;
+&lt;p&gt;结果没过几天，发现拼兮兮同款便宜了 400+。申请保价时，淘宝却说&lt;strong&gt;必须在签收后 7 天内申请，超期不支持。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;？？？&lt;/p&gt;
+&lt;p&gt;宣传时大字写着保价到 11 月 20 日，真要申请了，又搬出一个“签收后 7 天”的限制。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;那所谓的全网保价，到底保了个什么？&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;更离谱的还在后面！&lt;/h3&gt;
+&lt;p&gt;因为不认可处理结果，我通过 12315 正式投诉。&lt;/p&gt;
+&lt;p&gt;淘宝只是打电话通知我不给退差价，我明确没有接受这个方案，也没有同意和解。&lt;/p&gt;
+&lt;p&gt;结果 12315 的处理反馈居然显示：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;「和解结果：协商和解成功」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;？？？？？？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;没退款、没达成一致、我也没同意，怎么就“和解成功”了？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;难道现在的协商和解，只需要平台打个电话单方面通知，就算成功？&lt;/p&gt;
+&lt;p&gt;几百块钱是小事，但平台宣传的承诺算不算数？消费者没认可的处理方案，凭什么叫“和解成功”？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;双 11 的套路越来越多，现在连投诉都能被“成功和解”了？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;之前双十一也遇到过这种类似的情况，12315 投诉以后没超过三天就把差价退了，现在真是呵呵了，&lt;/p&gt;
+&lt;p&gt;可能我年纪大了，我也 out 了&lt;/p&gt;
+&lt;p&gt;所以以后不打算在淘宝买大件了，体检都很不好&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>哈哈哈喜报，做的垂直分享发现优质产品社区，注册用户超 2000+，收录/发布产品超 1000+啦～</title>
+      <link>https://www.v2ex.com/t/1257168</link>
+      <guid>v2ex-1257168</guid>
+      <pubDate>Sun, 15 Nov 2026 02:54:19 GMT</pubDate>
+      <description>&lt;p&gt;距离产品派上线大半年时间了，期间一直在不停的迭代修复 bug&lt;/p&gt;
+&lt;p&gt;近日发现注册用户超 2000+，收录/发布产品超 1000+&lt;/p&gt;
+&lt;p&gt;非常感谢各位派友和 v 友们的支持～&lt;/p&gt;
+&lt;p&gt;近日我们还进行了一轮大版本更新，包括全新界面吉祥物、全新积分体系等等&lt;/p&gt;
+&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.chanpinpai.cn/uploads/img-1794635793577-647696013.webp&quot;/&gt;
+&lt;p&gt;具体的更新内容可以参考：&lt;a href=&quot;https://chanpinpai.com/topic/ok8xnNZ2&quot; rel=&quot;nofollow&quot;&gt;https://chanpinpai.com/topic/ok8xnNZ2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;未来我们会推出积分兑换商城等等更多玩法&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着</title>
