@@ -4,82 +4,59 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Nov 2026 00:29:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:57:29 GMT</lastBuildDate>
     <item>
-      <title>iOS 原生多论坛客户端： V2EX / NGA / Linux .do / Chiphell / 4D4Y 一个 App 刷，抽 10 个半年 Pro</title>
-      <link>https://www.v2ex.com/t/1257030</link>
-      <guid>v2ex-1257030</guid>
-      <pubDate>Sat, 14 Nov 2026 06:05:09 GMT</pubDate>
-      <description>&lt;p&gt;平时同时逛好几个论坛，一个论坛一个 App 或者一个网页，来回切有点烦。之前一直用论坛助手，支持的论坛多，用着其实也不差，就是我这人比较龟毛，很多地方想按自己的审美和习惯来，索性自己手搓了一个。断断续续做了几个月，前两天终于上架了。&lt;/p&gt;
-&lt;p&gt;App Store 搜「&lt;a href=&quot;https://apps.apple.com/app/id6821816100&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Dis 看帖&lt;/strong&gt;&lt;/a&gt;」，需要 iOS 18 以上，iPhone / iPad 都能用，iPhone Duo 也做了初步适配。&lt;/p&gt;
-&lt;p&gt;现在支持 V2EX 、NGA 、Linuxdo 、4D4Y 、Chiphell ，后面会接更多。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;全部视图和聚合搜索&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/Wt1fv61.png&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;功能&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;「全部」里几个论坛的帖子混在一起刷，搜索也可以一次搜好几个论坛&lt;/li&gt;
-&lt;li&gt;帖子没有「页」的概念，一路往下滑就是。想去哪层，按住右下角的胶囊拖一下，楼层实时跟着变，几万楼的帖子也能准确跳过去（喜欢分页的，设置里能切回去）&lt;/li&gt;
-&lt;li&gt;尽量做成 iOS 原生的手感，不是网页套壳&lt;/li&gt;
-&lt;li&gt;不登录也能逛，有账号再登录回帖&lt;/li&gt;
-&lt;li&gt;iCloud 同步登录状态、常用节点、看到哪了、外观设置，换设备接着看&lt;/li&gt;
-&lt;li&gt;十几套深浅色主题，列表排版、疏密、字号都能调&lt;/li&gt;
-&lt;li&gt;没广告&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;无极楼层&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/PPy9UAD.gif&quot;/&gt;&lt;/p&gt;
-&lt;h2&gt;V2EX 支持情况&lt;/h2&gt;
-&lt;p&gt;看帖、回复、节点、收藏、提醒、特别关注、Block 都有，网站本身没有的（比如私信）也就没有了。只看 V2EX 的话，V2ER 这些已经很好用了，Dis 可能更适合同时还逛别的论坛的。&lt;/p&gt;
-&lt;h2&gt;隐私&lt;/h2&gt;
-&lt;p&gt;Dis 没有自己的服务器，也不收集任何使用数据。除了访问论坛，只会读一个放在 GitHub 上的公开配置文件（公告、版本提示），读的时候不带任何用户信息。密码和登录信息只存在你自己手机的钥匙串和你自己的 iCloud 里。&lt;/p&gt;
-&lt;h2&gt;不足&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;不开源&lt;/li&gt;
-&lt;li&gt;没有服务器，新提醒靠 iOS 后台刷新去查，会晚一会儿&lt;/li&gt;
-&lt;li&gt;访问论坛比较克制，不想给人家添负担，有些地方没网页快&lt;/li&gt;
-&lt;li&gt;五个论坛要兼顾，有些站点特有的小功能还没做全，在慢慢补&lt;/li&gt;
-&lt;li&gt;现在商店这版有个 bug：V2EX 部分帖子在列表里的时间会显示成「刚刚」，已经修了，下个版本更新&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;收费&lt;/h2&gt;
-&lt;p&gt;看帖、回帖、收提醒都免费。有一部分功能是 Pro ，月付 3 块、年付 18 、永久 38 （永久是早鸟价，以后可能会涨），算是挣点电费，给开发者账号的年费回回血。&lt;/p&gt;
-&lt;h2&gt;抽奖&lt;/h2&gt;
-&lt;p&gt;刚上线肯定还有不少 bug ，送 10 个半年 Pro 码，给愿意试用、帮忙挑毛病的 v 友：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;回帖就算参与，随便说点啥都行，有建议或吐槽更好&lt;/li&gt;
-&lt;li&gt;同一个 ID 回多楼只算一次，我自己的楼不算&lt;/li&gt;
-&lt;li&gt;大概几天后开奖，用 &lt;a href=&quot;http://random.org&quot; rel=&quot;nofollow&quot;&gt;random.org&lt;/a&gt; 按楼层抽 10 个，中奖楼层和码（ base64 ）发在附言里&lt;/li&gt;
-&lt;li&gt;参与的人不到 10 个就全送&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;很多地方还是边做边试，用着不顺手的欢迎吐槽，有喜欢的配色或者排版也可以提，楼里我都会回。&lt;/p&gt;
+      <title>关于设置中目前提供的 6 种楼中楼样式的 Demo</title>
+      <link>https://www.v2ex.com/t/1257128</link>
+      <guid>v2ex-1257128</guid>
+      <pubDate>Sat, 14 Nov 2026 15:56:02 GMT</pubDate>
+      <description>&lt;p&gt;新的设置选项可以在这里找到：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://edge.v2ex.com/settings#reply_thread_style&quot; rel=&quot;nofollow&quot;&gt;https://edge.v2ex.com/settings#reply_thread_style&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;六种样式的 Demo&lt;/p&gt;
+&lt;h3&gt;引用条&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://hub.v2core.com/v1/embed/bafybeiffmnfwa3r5edlffz2766r6c6u2nc2243ujw6ihcsw65uofidmhea&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;角标 + 悬浮预览&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://hub.v2core.com/v1/embed/bafkreids33ezap7kkcu6yjhhpnkpxz44vvxmcmwr5mteq5mpb6nfuamf5e&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;楼中楼&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://hub.v2core.com/v1/embed/bafkreieglxqlq72ffmjyf6lg3i7crfd6xmvihf6hwlv6saoetky4xeqsyq&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;树形缩进&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://hub.v2core.com/v1/embed/bafkreihghvzyabkdyroc4gakxlzz4zfjpi3cf5g7k2n46yecrajdh62z2e&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;对话连线&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://hub.v2core.com/v1/embed/bafkreic4arhjuuaja5o57lh774c74mosrk326sivo66q3rhk22npgimnlq&quot;/&gt;&lt;/p&gt;
+&lt;h3&gt;引用楼层&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://hub.v2core.com/v1/embed/bafybeidcsljofey2t5tvnvd32tasphslyfh4ji5sa236avbfzh2l5ex424&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>国模真的还可以的</title>
-      <link>https://www.v2ex.com/t/1257001</link>
-      <guid>v2ex-1257001</guid>
-      <pubDate>Sat, 14 Nov 2026 02:05:00 GMT</pubDate>
-      <description>最近 codex 特别慢， 尝试体验以下 CodeBuddy Trae 这些。 发现国模(主要用 glm flash deepseek flash)真的效果还是可以的， 不光更便宜，整体其实效果还行。整体下来比 codex 价格合适。&lt;br /&gt;&lt;br /&gt;另外还有一个感受就是即使不用手写代码，但是最好还有一个编辑器，在类似 CodeBuddy trae 这种编辑器里面使用 ai 的时候感觉 ai 对项目整体的感知能力会更好，比如我用 openspec 产出好的 task ，CodeBuddy trae 可以比较顺畅的沿着计划执行下去， 但是 codex 无论是客户端 cli 还是嵌入到 zed 中都总是卡壳断在某个任务上停止。 &lt;br /&gt;&lt;br /&gt;再有就是编辑器中可以连远程机器，直接可以交给 ai 去操作，以及编辑器里打开浏览器去操作验收功能，尽管 codex 也有这种能力，但是要占用系统的 chrome ，相比之下感觉放到编辑器中开个浏览器似乎更友好一点。感觉比起一些各种自己配置的编辑器不如这种拿来就用的效率高，而且相对还更成熟。&lt;br /&gt;&lt;br /&gt;当然顶级模型应该还是国外的领先，我用 codex 也只是 gpt6 sol 和 gpt6.1 terra ，也不敢开太高，主要额度用的太快了。 &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;最近使用的一点感受，不知道你们感受如何</description>
-    </item>
-    <item>
-      <title>睡前安排了一整晚的 agent 全自动任务，一觉醒来被 Windows 自动更新重启杀了</title>
-      <link>https://www.v2ex.com/t/1257008</link>
-      <guid>v2ex-1257008</guid>
-      <pubDate>Sat, 14 Nov 2026 03:02:12 GMT</pubDate>
-      <description>&lt;p&gt;期待在醒来时看到项目做好上线发布的页面，结果被 Windows 登录页面迎接。&lt;/p&gt;
-&lt;p&gt;这种设计究竟是怎么期待人用它稳定工作开发的？&lt;/p&gt;
+      <title>如果给计算机基础教材列一个「五大经典」，你会选哪几本</title>
+      <link>https://www.v2ex.com/t/1257146</link>
+      <guid>v2ex-1257146</guid>
+      <pubDate>Sun, 15 Nov 2026 00:21:57 GMT</pubDate>
+      <description>&lt;p&gt;最近在整理计算机基础方面的阅读书单，想到能不能按五个方向，各选一本有代表性的经典教材：&lt;/p&gt;
+&lt;p&gt;计算机系统：《深入理解计算机系统》（CSAPP）&lt;/p&gt;
+&lt;p&gt;计算机网络：《计算机网络：自顶向下方法》&lt;/p&gt;
+&lt;p&gt;操作系统：《操作系统导论》（OSTEP）&lt;/p&gt;
+&lt;p&gt;编译原理：《编译原理》（Dragon Book）&lt;/p&gt;
+&lt;p&gt;数据库：《数据库系统概念》（Database System Concepts）&lt;/p&gt;
+&lt;p&gt;这五个方向基本覆盖了我理解的计算机基础知识体系。已经买了 CSAPP、自顶向下。准备都买回来&lt;/p&gt;
+&lt;p&gt;想问问 V 站的各位：&lt;/p&gt;
+&lt;p&gt;这五本书作为对应领域的代表教材，选择是否合适？&lt;/p&gt;
+&lt;p&gt;有没有你认为更值得推荐的替代书籍？&lt;/p&gt;
+&lt;p&gt;除了这五个方向，还有哪些基础领域值得纳入这份书单？&lt;/p&gt;
+&lt;p&gt;当然，这只是我个人整理出来的书单，不是什么权威排名。欢迎畅所欲言，推荐其他经典教材&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>很多火的东西，理解不了为什么火</title>
-      <link>https://www.v2ex.com/t/1256990</link>
-      <guid>v2ex-1256990</guid>
-      <pubDate>Sat, 14 Nov 2026 00:58:37 GMT</pubDate>
-      <description>&lt;p&gt;是不是也表示：我自己做出来的产品就不可能火，因为我的品味有问题&lt;/p&gt;
+      <title>有没有 V 友自己搭建过云手机？想实现网页远程操作，不想再用第三方云手机了</title>
+      <link>https://www.v2ex.com/t/1257073</link>
+      <guid>v2ex-1257073</guid>
+      <pubDate>Sat, 14 Nov 2026 10:13:39 GMT</pubDate>
+      <description>&lt;p&gt;想问一下，有没有 V 友尝试过自己用服务器搭建开源项目的云手机？&lt;/p&gt;
+&lt;p&gt;比如在自己的服务器上部署云手机环境，然后通过网页端远程访问和操作，平时用来刷视频、玩游戏，测试 app 等等。&lt;/p&gt;
+&lt;p&gt;如果整个环境都部署在自己的服务器上，数据和操作也由自己掌控，理论上隐私和安全性也会更有保障。&lt;/p&gt;
+&lt;p&gt;不知道有没有大佬实践过？目前有哪些比较成熟的开源方案值得推荐？求分享经验！&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>换了个新 macbook air m5 有没有推荐的软件安装</title>
-      <link>https://www.v2ex.com/t/1257002</link>
-      <guid>v2ex-1257002</guid>
-      <pubDate>Sat, 14 Nov 2026 02:07:06 GMT</pubDate>
-      <description>如题，之前的电脑都是旧系统，很多软件都不支持 intel 芯片了，&lt;br /&gt;&lt;br /&gt;看看大家有没有推荐的&lt;br /&gt;&lt;br /&gt;我主要做产品经理，写文档，画原型，搞浏览器自动化&lt;br /&gt;&lt;br /&gt;看看有没有啥好玩的 Mac 软件和玩法推荐</description>
     </item>
     <item>
       <title>求助: 想在寝室搞一个小主机 有推荐么?</title>
@@ -119,41 +96,76 @@ grok bot 自动压缩和学习有时候会记住一些我不想让他记住的�
 </description>
     </item>
     <item>
-      <title>最近做了一个运行在 iPhone 的 agent</title>
-      <link>https://www.v2ex.com/t/1256987</link>
-      <guid>v2ex-1256987</guid>
-      <pubDate>Sat, 14 Nov 2026 00:47:08 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;图片&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/oowI3Je.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;核心功能如下&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;支持挂载本地 Linux ，远程 Linux 和沙箱运行环境，让 agent 能干活&lt;/li&gt;
-&lt;li&gt;支持本地浏览器&lt;/li&gt;
-&lt;li&gt;支持动态 ui 生成&lt;/li&gt;
-&lt;li&gt;支持 skill ，能自动扫描远程 skill&lt;/li&gt;
-&lt;li&gt;支持插件，可以在各种时机插入想要的逻辑&lt;/li&gt;
-&lt;li&gt;支持定时或者地理位置触发任务&lt;/li&gt;
-&lt;li&gt;最近用来给截图，视频套手机壳，管理家里的 nas ，控制智能家居等，可玩性非常高&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;tf 内测中： &lt;a href=&quot;https://testflight.apple.com/join/WUPfjzh2&quot; rel=&quot;nofollow&quot;&gt;https://testflight.apple.com/join/WUPfjzh2&lt;/a&gt; 欢迎提 bug&lt;/p&gt;
+      <title>AI 时代，程序员正在慢慢转向产品经理</title>
+      <link>https://www.v2ex.com/t/1257054</link>
+      <guid>v2ex-1257054</guid>
+      <pubDate>Sat, 14 Nov 2026 08:05:30 GMT</pubDate>
+      <description>&lt;p&gt;以前我也是个古法编程的坚定维护者，但随着 DeepSeek Flash 1017 模型的发布，尝试了一下，现在已经离不开 AI 编程了。&lt;/p&gt;
+&lt;p&gt;AI 可以自动完成：编码、验证、修复、重构一条龙，再也不需要自己去思考具体逻辑、代码漏洞等问题，最多只需要自己设计程序架构。（甚至也可以让 AI 设计架构）&lt;/p&gt;
+&lt;p&gt;不知道从何时开始，我慢慢地也习惯了向 AI 不断提需求、提改动，键盘也开始从从来敲代码变成敲 prompt 了...&lt;/p&gt;
+&lt;p&gt;而这一切的代价，就是付费 token ，仅此而已。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>家里用 PVE 做软路由，想和同好交流一下，也可远程帮看（长春可上门）</title>
-      <link>https://www.v2ex.com/t/1256986</link>
-      <guid>v2ex-1256986</guid>
-      <pubDate>Sat, 14 Nov 2026 00:34:29 GMT</pubDate>
-      <description>自己在长春，家里小主机装着 PVE ，上面跑 OpenWrt 旁路由，也用 Unraid 和一些 VPS 。平时安装、组网、虚拟机这些会自己折腾。&lt;br /&gt;&lt;br /&gt;想多认识一些玩软路由、PVE 、NAS 的朋友，有在用类似方案的，欢迎一起聊聊坑。&lt;br /&gt;&lt;br /&gt;如果有人卡在安装、网络配置或者救砖上，也可以找我远程看一下，长春本地能上门。先说情况和报错，能做再谈要不要帮忙，按次算。不卖机器，也不接来路不明的账号和面板。</description>
+      <title>打算购买 Claude Team 成品号，这种号的风险跟稳定性怎么样？</title>
+      <link>https://www.v2ex.com/t/1257158</link>
+      <guid>v2ex-1257158</guid>
+      <pubDate>Sun, 15 Nov 2026 02:15:58 GMT</pubDate>
+      <description>&lt;p&gt;有在用的老师提供一些经验分享吗？
+只自己工作室内部使用。&lt;/p&gt;
+</description>
     </item>
     <item>
-      <title>有些程序员（产品经理）的脑回路秀逗了吧？ 就拿咪咕视频来说</title>
-      <link>https://www.v2ex.com/t/1257021</link>
-      <guid>v2ex-1257021</guid>
-      <pubDate>Sat, 14 Nov 2026 04:59:22 GMT</pubDate>
-      <description>&lt;p&gt;没有会员，看个央视吧。&lt;/p&gt;
-&lt;p&gt;弹出来广告，猜猜多少秒？ &lt;/p&gt;
-&lt;p&gt;900 秒&lt;/p&gt;
-&lt;p&gt;15 分钟。&lt;/p&gt;
-&lt;p&gt;就这个破软件，我是不会花 1 分钱的&lt;/p&gt;
+      <title>分享一下 claude portal kyc 后用护照认证被封但又申诉成功的经历</title>
+      <link>https://www.v2ex.com/t/1257045</link>
+      <guid>v2ex-1257045</guid>
+      <pubDate>Sat, 14 Nov 2026 07:26:59 GMT</pubDate>
+      <description>&lt;p&gt;时间线：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;12 号早上通过手机端的 paseo 给 claude opus 5.5 会话发消息时，执行到一半提示错误，给了 portal 链接去认证&lt;/li&gt;
+&lt;li&gt;当天稀里糊涂点进去，国家选择了中国，但没有继续拍照，想着先看网上有没有相关的经验&lt;/li&gt;
+&lt;li&gt;查了一下发现当天很多人都被 kyc 了，而且很多人反馈用护照进行认证，能通过但是账号秒封&lt;/li&gt;
+&lt;li&gt;12 号、13 号都在网上看大家的解决方案，也曾想过找人过 kyc ，但我已经在认证的页面选了国家了，而且不能回去修改了，担心即使找人 kyc 也会被封。而且 portal 的 kyc 是要登陆账号的，担心不安全&lt;/li&gt;
+&lt;li&gt;13 号看到有一些人反馈被封后能申诉回来，当然也有人申诉失败，于是心想与其花钱找人 kyc 被封，还不如自己尝试 kyc ，被封了就尝试申诉&lt;/li&gt;
+&lt;li&gt;当晚直接上传护照以及人脸拍照，果不其然，认证通过还没一分钟账号就被停用了，此时能登陆账号，但会话内容都看不到，而且此时没有退款&lt;/li&gt;
+&lt;li&gt;当晚随即用 codex 整理了一下申诉的内容，主要内容就是讲最近是怎么用 claude 的，用在什么项目上，然后强调 claude 对自己很重要，自己生活和工作严重依赖它，以及说明自己没有滥用 claude&lt;/li&gt;
+&lt;li&gt;隔天醒来，11 点多申诉通过，但账号回退到 free 账号并收到退款&lt;/li&gt;
+&lt;li&gt;今天下午重新尝试订阅，还是用原来的卡，支付成功，现在仍能正常使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;自己 claude 账号情况：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;23 年注册的老账号，持续订阅 max 5x 的套餐接近快半年了，之前一直没有遇到问题，也没有被要求 kyc 过&lt;/li&gt;
+&lt;li&gt;平时只在固定的两台设备上使用 claude ，且用的是固定的美国家宽 ip ，近大半年来没切过 ip 。设备没改语言也没改时区，没有反代 api&lt;/li&gt;
+&lt;li&gt;平时没有高强度使用 claude code ，基本只用 opus 5.5 high ，reset 也很少用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上就是自己的经历，可能是运气好，也可能是老账号，以及固定环境有加持。不保证每个账号都能申诉回来。不过如果你的被封了 可以尝试申诉一下。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Claude 代充跳 kyc 被封都是不退款的吗</title>
+      <link>https://www.v2ex.com/t/1257042</link>
+      <guid>v2ex-1257042</guid>
+      <pubDate>Sat, 14 Nov 2026 07:02:58 GMT</pubDate>
+      <description>有走代充的朋友吗，可以讲一下么</description>
+    </item>
+    <item>
+      <title>两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着</title>
+      <link>https://www.v2ex.com/t/1257137</link>
+      <guid>v2ex-1257137</guid>
+      <pubDate>Sat, 14 Nov 2026 17:41:27 GMT</pubDate>
+      <description>&lt;p&gt;我大号用了 4 个月，在 11 月 11 日跳 KYC 验证，此前一直在蹬 fable5.2, 想着有 fable5.2 重置卡，想多用用体验一下新模型，没想到触发了 KYC 。小号用了一周，在 11 月 11 前一直在蹬 fable5.2, 大号跳 KYC 了，怀疑是 A÷新模型防蒸馏严格一些，11 月 12 日就不敢用 fable5.2 了，开着 opus5.5 meduim 来蹬，晚上用到周额度 95%了给我跳出 KYC ，这天聊的都是爬虫，这个我怀疑是滥用的原因或者是聊的内容有点不合规，或者是 fable5.2 蹬太狠了。&lt;/p&gt;
+&lt;p&gt;说一下我的环境，我买的 lisahost 9929 400gb 50Mbps 269 一年的 vps ，&lt;a href=&quot;http://ping0.cc&quot; rel=&quot;nofollow&quot;&gt;ping0.cc&lt;/a&gt; 纯净度 14%，&lt;a href=&quot;https://ip.net.coffee/claude&quot; rel=&quot;nofollow&quot;&gt;https://ip.net.coffee/claude&lt;/a&gt; 100%纯净,我的 ip 是机房 ip ，coffee 不知道为啥显示家宽。
+&lt;img alt=&quot;Claude ip 截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/7cxbzAT.png&quot;/&gt;
+&lt;img alt=&quot;Claude ip 截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/y5s0H4e.png&quot;/&gt;
+时区啥的都不改，经常在算力服务器上用 vscode claude code 插件，但是代理都是 lisahost 节点。有时候在自己电脑上用会忘记开梯子，显示不支持国家和地区。稳定用了四个月，最近忙就多充了一个 claude pro 。我怀疑 kyc 跟这个有点关系，我这一周经常切号用。订阅用的万事达招行卡绑定 google play 美国免税州，手机 claude 充值 133 元订阅费。充值不会跳 kyc persona ，11 月 10 帮朋友充了一个号，没跳 kyc ，但是他 ip 跟我不一样。&lt;/p&gt;
+&lt;p&gt;聊的内容违规的话可能是爬虫，逆向，之前经常给我跳到 opus4.8 ，最近实习也在干公司项目，可能漏了甲方名字，claude 发现为中国公司干活，就跳 kyc 。其他就是写毕业论文，应该没问题。&lt;/p&gt;
+&lt;p&gt;跳 portal kyc 后我到处找解决方法，搜链动小铺，搜小红书，搜 x ，搜 v2ex, 搜 linuxdo 。很多人用中国护照过了秒封，但是申诉说 A÷种族歧视等等就解封了；还有说找代过商家，他们找的黑哥们白哥们一人验证多次，很容易秒封，portal kyc 等于账号死刑；还有说可以买过了 persona 验证的号，就不会弹 kyc 了，但是实际上很多人跳了二次 kyc ，我怀疑是过了 persona kyc 还要过 portal kyc 。&lt;/p&gt;
+&lt;p&gt;我最后选择了代充，第一家是小红书找的美国代过 300 元，他这家是把验证链接发到黑哥们白哥们的邮箱，黑白哥们就在他们手机上验证。这我觉得是大忌，因为我 ip 环境跟他们的 ip 环境不一样，可能就是因为这个原因把我小号秒封了。秒封这商家不收钱。最后跟 A÷申诉也失败 on hold 了，现在在等 google play 退款，不知道能不能退。&lt;/p&gt;
+&lt;p&gt;第二家是师弟的朋友，我半信半疑，那大佬说是东南亚的黄哥们帮我验证，是韩国的。我好奇我的 ip 一直都是美国洛杉矶，用东南亚的验证很容易被封吧。但是我也暂时没其他方法了，只能死马当活马医。我问他能不能保证验证的环境跟我的环境一样，他说他有焚决，但是要用 uu 远程帮我。弄了大概 7 分钟我的大号在 11 月 14 晚上 8 点复活了。
+&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/JPHl1Nk.png&quot;/&gt;
+&lt;img alt=&quot;Claude ip 截图&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/xbDxpVc.png&quot;/&gt;
+我觉得 claude ip 连坐是没有的，我的小号 on hold ，现在不影响大号正常使用现在。当然我会每天更新我的号的状态在评论区。大家有什么经验可以在评论区分享一下呀。&lt;/p&gt;
+&lt;p&gt;这里经验仅供参考&lt;/p&gt;
 </description>
     </item>
   </channel>
