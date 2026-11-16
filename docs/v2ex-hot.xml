@@ -4,150 +4,86 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 15 Nov 2026 23:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:11:58 GMT</lastBuildDate>
     <item>
-      <title>deepseek harness 的实际能力远超大多数人的认知，最近深度体验总结</title>
-      <link>https://www.v2ex.com/t/1257214</link>
-      <guid>v2ex-1257214</guid>
-      <pubDate>Sun, 15 Nov 2026 08:22:58 GMT</pubDate>
-      <description>&lt;p&gt;先说下本人的 AI Coding 经验，chatgpt 横空出世时，一款名为免费的 Cursor 在 2023 年悄然上线，我当时也算是最先一批把 cursor 用于公司项目的程序员，所以 AI Coding 经验有 2 年半的时间了吧。&lt;/p&gt;
-&lt;p&gt;当时惊叹 chatgpt 的能力，我意识到了 AI 真的会思考，AI 不再是算法和程序堆叠的产物。&lt;/p&gt;
-&lt;p&gt;从 Cursor 到 Codex 到 Calude Code，再到 deepseek-harness。&lt;/p&gt;
-&lt;p&gt;他们都在特定的环境完成了我的任务，从用 Cursor 时自己还会手动改下 AI 写代码遗留下的问题，到用 Codex 时感受到 AI 可以自己完成 UI 设计（前端开发），功能实现，自己用浏览器测试项目。&lt;/p&gt;
-&lt;p&gt;后面又用了几个月的 Calude Code，cc 的代码能力的确把 codex 远远的甩在身后，理解需求的能力，设计品味的能力，把任务交给他，很放心，返工也少。&lt;/p&gt;
-&lt;p&gt;在深度使用 cc 和 codex 的时候，dsh 只是我的备胎，所以有一段时间很少使用 dsh，事情的转折来自 codex 降智，claude code 弹 kyc，于是我深度使用了半个月的 dsh。&lt;/p&gt;
-&lt;p&gt;在实际的项目开发中，dsh 完成了所有的功能！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;从 UI 还原，架构设计，前端代码编写，后端代码编写，复杂原子任务，把代码提交到 github，登录 ECS 服务器部署，排查线上问题，查询服务器日志，修复代码推送，部署！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一气呵成，当一套组合拳被 dsh 打下来的时候，我才明白为什么人们称那个男人叫 &lt;strong&gt;梁圣！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;原来我认为只有 Claude code 和 codex 完成的任务，被 DSH 同样完成时，我猜明白，原来最好的模型就在身边。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;没有降智，没有 PUA，没有时间限制，不会封号，他是认知对待每一位开发者的可爱大肥鱼！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果**AI 最终走向递归自我改进 (RSI)**，那么不论是 CloseAI 还是 A 畜，他们的护城河最终被 AI 打破，这个只是时间问题。&lt;/p&gt;
-&lt;p&gt;目前已经放弃了 ClaudeCode，我也相信未来 3 年内，deepseek 将会成为世界第一梯队的模型，如果未来的 AI 神话是真的，那么 AI 将亲手打破封锁，没有任何人能阻止 AI 属于任何人这件事。&lt;/p&gt;
+      <title>世态炎凉，瑟瑟发抖</title>
+      <link>https://www.v2ex.com/t/1257325</link>
+      <guid>v2ex-1257325</guid>
+      <pubDate>Mon, 16 Nov 2026 02:15:19 GMT</pubDate>
+      <description>纯吐槽&lt;br /&gt;&lt;br /&gt;每次周一开会都很想打开 boss 准备简历了，但是感觉实在是难啊&lt;br /&gt;&lt;br /&gt;会上交流的时候发现，越菜的人越依赖 ai，越觉得 ai 好用，直接来一句开发效率提高 100%，给我人都听傻了，(不是说 ai 不好用，只能说你不测试不看代码逻辑的话，那可以到 100%&lt;br /&gt;&lt;br /&gt;现在问同事之前他写的逻辑，他都直接来一句你让 ai 分析总结一下，我就很无语了&lt;br /&gt;&lt;br /&gt;开发一个 skill 就想完美使用，用下来发现甚至是 debuff，还不如不走 skill&lt;br /&gt;&lt;br /&gt;没有一个真正技术大佬的坐镇，是真的好难啊，乱七八糟的管理，现在直接没测试，发现好几次同事写的东西都跑不通就上线了，人也是麻了。&lt;br /&gt;&lt;br /&gt;后面还要转 FDE（本质外包驻场，一点意思没有</description>
+    </item>
+    <item>
+      <title>其实我个人也是比较偏向于使用国模的，但问题是</title>
+      <link>https://www.v2ex.com/t/1257339</link>
+      <guid>v2ex-1257339</guid>
+      <pubDate>Mon, 16 Nov 2026 02:37:57 GMT</pubDate>
+      <description>其实我个人也是比较偏向于使用国模的，但问题是：&lt;br /&gt;&lt;br /&gt;- 要不像 deepseek 这种没有订阅的，使用起来其实非常昂贵的，你用 flash, 一天很容易烧掉 100 块&lt;br /&gt;- 要不像 GLM 这种的，在模型能力不行的情况下（最近降智特别严重），同时还慢、贵，现在 GLM 5.5 更是难产&lt;br /&gt;- 要不像 KIMI 这种的，模型能力不错，但是更贵、更慢、输入输出不透明&lt;br /&gt;- 其它的就是一坨&lt;br /&gt;&lt;br /&gt;我当然不想用国外的模型，因为同样恶心：&lt;br /&gt;&lt;br /&gt;- gpt 之前经常重置，但是使用政策朝令夕改，模型降智那也是常有的事，也就发布之初使用体验最好&lt;br /&gt;- claude 使用起来最为稳定，但是仇视中国人，疯狂封号，使用之外的事情非常折腾，而且也是如履薄冰&lt;br /&gt;- gemini 被戏称北美豆包，从去年 12 月份起， antigravity 到今年 9 月份才勉强能用，多少人被 gemini 3 pro 的刷分和 pro 半价订阅骗去订阅了&lt;br /&gt;&lt;br /&gt;说到底，用户只想用高性价比的模型，不要求你能力最高，但是也不能在模型能力不足的同时，价格还要赶超吧？  而且是在国内消费能力明显比米国低的情况下！&lt;br /&gt;&lt;br /&gt;贵而好、便宜单一般、又贵又不好，用户会用脚投票</description>
+    </item>
+    <item>
+      <title>唉，QQ 音乐年会员又涨价了</title>
+      <link>https://www.v2ex.com/t/1257321</link>
+      <guid>v2ex-1257321</guid>
+      <pubDate>Mon, 16 Nov 2026 02:06:13 GMT</pubDate>
+      <description>&lt;p&gt;每年都是趁着 11 月份生日的时候续费年会员，想着有优惠，昨天一看年卡变成 128 了，记得前几年好像 80+，去年买的好像 90 多。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>如果给计算机基础教材列一个「五大经典」，你会选哪几本</title>
-      <link>https://www.v2ex.com/t/1257146</link>
-      <guid>v2ex-1257146</guid>
-      <pubDate>Sun, 15 Nov 2026 00:21:57 GMT</pubDate>
-      <description>&lt;p&gt;最近在整理计算机基础方面的阅读书单，想到能不能按五个方向，各选一本有代表性的经典教材：&lt;/p&gt;
-&lt;p&gt;计算机系统：《深入理解计算机系统》（CSAPP）&lt;/p&gt;
-&lt;p&gt;计算机网络：《计算机网络：自顶向下方法》&lt;/p&gt;
-&lt;p&gt;操作系统：《操作系统导论》（OSTEP）&lt;/p&gt;
-&lt;p&gt;编译原理：《编译原理》（Dragon Book）&lt;/p&gt;
-&lt;p&gt;数据库：《数据库系统概念》（Database System Concepts）&lt;/p&gt;
-&lt;p&gt;这五个方向基本覆盖了我理解的计算机基础知识体系。已经买了 CSAPP、自顶向下。准备都买回来&lt;/p&gt;
-&lt;p&gt;想问问 V 站的各位：&lt;/p&gt;
-&lt;p&gt;这五本书作为对应领域的代表教材，选择是否合适？&lt;/p&gt;
-&lt;p&gt;有没有你认为更值得推荐的替代书籍？&lt;/p&gt;
-&lt;p&gt;除了这五个方向，还有哪些基础领域值得纳入这份书单？&lt;/p&gt;
-&lt;p&gt;当然，这只是我个人整理出来的书单，不是什么权威排名。欢迎畅所欲言，推荐其他经典教材&lt;/p&gt;
+      <title>路上天天都能遇到焊颈帝</title>
+      <link>https://www.v2ex.com/t/1257304</link>
+      <guid>v2ex-1257304</guid>
+      <pubDate>Mon, 16 Nov 2026 01:39:15 GMT</pubDate>
+      <description>&lt;p&gt;提车半年，每天通勤 13 公里，早上 5 公里，晚上走高架 8 公里，虽说晚上距离远点而且上海南北高架很堵，但是开起来都比早上轻松太多了...&lt;/p&gt;
+&lt;p&gt;几乎每天路上都能遇到电动车和自行车乱骑的，转弯回头观察也不会，电动车转向灯也没有，反正就是突然就要顶你车头前面转弯...&lt;/p&gt;
+&lt;p&gt;早上又遇到一个大妈，我直行过 T 字路口速度降低到 20 就是怕电动车来个转弯，果不其然大妈一个左转直接顶我车头前面，给我吓得一把方向加急刹才停下，大妈挡风被贴着车屁股过去了，更恶心的是我到公司翻看记录仪，我后车也遇到了 A 柱盲区的电动车，我车刚停下电动车就往我车屁股和他车头的缝里钻，他刚起步又是一脚急刹，估计也是吓坏了...&lt;/p&gt;
+&lt;p&gt;碰到了机动车高低是个次责，和同事吐槽，同事说被判过次责，电动车主责赔了 1000 补漆钱，然后他次责赔了 2000 去医院检查... 真是太抽象了...&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>闲聊聊到了我司当前接入 AI 的年度成本</title>
-      <link>https://www.v2ex.com/t/1257169</link>
-      <guid>v2ex-1257169</guid>
-      <pubDate>Sun, 15 Nov 2026 02:54:38 GMT</pubDate>
-      <description>&lt;p&gt;前几天蹭了一下所属大部门 VP 的饭，旁敲侧击的问了一下今年度企业接入 AI 带来的额外成本&lt;/p&gt;
-&lt;p&gt;我们公司在接入 AI 上起步算是比较晚的，今年 2 月伴随着 Opus4.6 的发布才开始大规模采购基于 AWS 分销的 Claude API，之后更进一步采购了外界的 Gateway 服务从而实现了几乎所有的模型供应商的模型覆盖&lt;/p&gt;
-&lt;p&gt;员工采取每月限额的方式来限制，截止到目前整体的大模型调用支出已经占据了部门往年总工资支出的 20%，估计一整个自然年的话应该能到 30%朝上。&lt;/p&gt;
-&lt;p&gt;公司的年度盈利并没有变好，甚至有变差的趋势，估摸着这份支出最后还是会回到打工人自己头上。明年应该是砍额度+裁员，按照比例的话估计要裁 20%+，瑟瑟发抖中。。。&lt;/p&gt;
+      <title>微软悄悄上线了一款新的中文输入法</title>
+      <link>https://www.v2ex.com/t/1257291</link>
+      <guid>v2ex-1257291</guid>
+      <pubDate>Mon, 16 Nov 2026 01:09:31 GMT</pubDate>
+      <description>&lt;p&gt;虽然名字叫中文输入法，但是目前仅支持拼音输入，估计后期会增加五笔输入。&lt;/p&gt;
+&lt;p&gt;整体功能很简陋，皮肤不支持深色模式。&lt;/p&gt;
+&lt;p&gt;看起来就是系统自带微软拼音的复刻，不知道微软为什么要重复造轮子。&lt;/p&gt;
+&lt;p&gt;但是使用起来比微软拼音流畅不少，有种 30Hz 视频升级到 60Hz 的感觉，动画直追搜狗输入法。&lt;/p&gt;
+&lt;p&gt;还有设置依然不支持关闭颜文字和 emoji。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;微信图片_2026-11-16_085401_940.png&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://picui.ogmua.cn/s1/2026/11/16/6afa56ae3dbe5.webp&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>记录第一次相亲</title>
-      <link>https://www.v2ex.com/t/1257174</link>
-      <guid>v2ex-1257174</guid>
-      <pubDate>Sun, 15 Nov 2026 04:01:13 GMT</pubDate>
-      <description>&lt;h2&gt;介绍认识&lt;/h2&gt;
-&lt;p&gt;前两周，一位亲戚给我推了一个女生的微信，大致介绍了一下对方的情况。&lt;/p&gt;
-&lt;p&gt;我今年 30 岁，其实之前一直不太愿意通过相亲这种方式认识女生。不过最近想了想，加个微信也没什么，先聊聊看也无妨。毕竟在目前的工作地，身边没什么朋友，如果能找到有共同爱好的人，以后一起骑骑车、爬爬山，偶尔约着出去玩，也挺不错。&lt;/p&gt;
-&lt;h2&gt;聊天&lt;/h2&gt;
-&lt;p&gt;加上微信后，简单聊了几句，和我预想的差不多，基本看不出对方有什么主动交流的意愿，聊天也很难继续推进。&lt;/p&gt;
-&lt;p&gt;两天后，我主动问对方有没有时间线下见一面。对方表示有时间可以，于是我接着问她什么时候方便。结果对方说最近没空，等有时间再说。&lt;/p&gt;
-&lt;p&gt;说实话，到这里我其实已经不太想继续约了。&lt;/p&gt;
-&lt;p&gt;过了几天，亲戚问起我们的进展，我便如实说了自己的感受，觉得女生应该没什么想法。后来亲戚又帮忙向对方的介绍人打听了一下，得到的答复是：对方那周确实有事情，回老家了。&lt;/p&gt;
-&lt;h2&gt;再次约见面&lt;/h2&gt;
-&lt;p&gt;既然如此，本周我便又主动约了一次。对方这次表示有空，于是我们约好周末一起吃饭。&lt;/p&gt;
-&lt;p&gt;确定见面时间后，我问对方有没有什么特别想吃的。对方表示没有，于是我就随便找了一家店。对于这个安排，对方既没有明确表示认可，也没有提出异议。&lt;/p&gt;
-&lt;h2&gt;见面&lt;/h2&gt;
-&lt;p&gt;见面当天，我又问了一遍对方有没有什么想吃的，得到的答复依然是没有。既然如此，那就按照之前选好的地方吃饭吧。&lt;/p&gt;
-&lt;p&gt;整个过程基本就是吃饭加客套话，聊的也都是一些比较常规的话题。聊天过程中，对方明确表示，自己其实比较抵触通过相亲这种方式认识异性。&lt;/p&gt;
-&lt;p&gt;听到这里，我倒也不觉得意外，毕竟这和我最初的猜想基本一致。&lt;/p&gt;
-&lt;p&gt;吃完饭后，对方表示要回去了。OK，那就回去吧。&lt;/p&gt;
-&lt;p&gt;我和她一起下楼，出了楼之后，她便径直离开了，头也没回。&lt;/p&gt;
+      <title>都说 AI 大大提高了编程效率，真正失业的程序员多吗</title>
+      <link>https://www.v2ex.com/t/1257251</link>
+      <guid>v2ex-1257251</guid>
+      <pubDate>Sun, 15 Nov 2026 14:24:17 GMT</pubDate>
+      <description>&lt;p&gt;我看身边大部分人都还苟着，有一些被裁员优化的，很多还是找到了新工作，不论好坏，有多卷，至少还有一份工作。只有一小部分人真的失业在家。另外，大家都再说经济下行，钱难赚。不知道这里的朋友们怎么样？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>打算购买 Claude Team 成品号，这种号的风险跟稳定性怎么样？</title>
-      <link>https://www.v2ex.com/t/1257158</link>
-      <guid>v2ex-1257158</guid>
-      <pubDate>Sun, 15 Nov 2026 02:15:58 GMT</pubDate>
-      <description>&lt;p&gt;有在用的老师提供一些经验分享吗？
-只自己工作室内部使用。&lt;/p&gt;
+      <title>让你见识下 8 年 IOS 的实力</title>
+      <link>https://www.v2ex.com/t/1257359</link>
+      <guid>v2ex-1257359</guid>
+      <pubDate>Mon, 16 Nov 2026 03:07:40 GMT</pubDate>
+      <description>我：http://api.***&lt;a target=&quot;_blank&quot; href=&quot;http://em.top&quot; rel=&quot;nofollow noopener&quot;&gt;em.top&lt;/a&gt;  &lt;br /&gt;对方：这个域名能把 top 改成其他的随机字母吗</description>
+    </item>
+    <item>
+      <title>我觉得 AI 的发展已经到头了</title>
+      <link>https://www.v2ex.com/t/1257274</link>
+      <guid>v2ex-1257274</guid>
+      <pubDate>Sun, 15 Nov 2026 18:57:00 GMT</pubDate>
+      <description>&lt;p&gt;生产端 AI 只能解决从 1 到 10 从 1 到 100，越往后边际效益递减。
+1+1 算一万亿次也只能是 2，算不出花来。
+需求端一个人一天需要的东西在 AI 问世前后是区别不大的
+还是吃那么多东西还是消费那么多东西
+目前 AI 最大的作用就是在二进制世界替代人力，程序员演员等职业，这个也是有很明显的上边界的。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>又被淘宝双 11 背刺了</title>
-      <link>https://www.v2ex.com/t/1257229</link>
-      <guid>v2ex-1257229</guid>
-      <pubDate>Sun, 15 Nov 2026 11:18:06 GMT</pubDate>
-      <description>&lt;p&gt;因为准备玩 GTA6，双 11 期间在淘宝买了一台新电视，价格 4200+，买的时候宣传&lt;strong&gt;“全网保价至 11 月 20 日”&lt;/strong&gt;，所以也没害怕会降价，就下单了。&lt;/p&gt;
-&lt;p&gt;结果没过几天，发现拼兮兮同款便宜了 400+。申请保价时，淘宝却说&lt;strong&gt;必须在签收后 7 天内申请，超期不支持。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;？？？&lt;/p&gt;
-&lt;p&gt;宣传时大字写着保价到 11 月 20 日，真要申请了，又搬出一个“签收后 7 天”的限制。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;那所谓的全网保价，到底保了个什么？&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;更离谱的还在后面！&lt;/h3&gt;
-&lt;p&gt;因为不认可处理结果，我通过 12315 正式投诉。&lt;/p&gt;
-&lt;p&gt;淘宝只是打电话通知我不给退差价，我明确没有接受这个方案，也没有同意和解。&lt;/p&gt;
-&lt;p&gt;结果 12315 的处理反馈居然显示：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「和解结果：协商和解成功」&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;？？？？？？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;没退款、没达成一致、我也没同意，怎么就“和解成功”了？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;难道现在的协商和解，只需要平台打个电话单方面通知，就算成功？&lt;/p&gt;
-&lt;p&gt;几百块钱是小事，但平台宣传的承诺算不算数？消费者没认可的处理方案，凭什么叫“和解成功”？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;双 11 的套路越来越多，现在连投诉都能被“成功和解”了？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;之前双十一也遇到过这种类似的情况，12315 投诉以后没超过三天就把差价退了，现在真是呵呵了，&lt;/p&gt;
-&lt;p&gt;可能我年纪大了，我也 out 了&lt;/p&gt;
-&lt;p&gt;所以以后不打算在淘宝买大件了，体检都很不好&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>恭喜 BLG，一穿四 LCK，史上最有含金量的 S 冠</title>
-      <link>https://www.v2ex.com/t/1257145</link>
-      <guid>v2ex-1257145</guid>
-      <pubDate>Sun, 15 Nov 2026 00:20:34 GMT</pubDate>
-      <description>恭喜 BLG，一穿四 LCK，史上最有含金量的 S 冠</description>
-    </item>
-    <item>
-      <title>Gemini 模型如何？</title>
-      <link>https://www.v2ex.com/t/1257234</link>
-      <guid>v2ex-1257234</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:27 GMT</pubDate>
-      <description>最近 codex 表现实在有点拉，智力有点下滑，额度还不经用 想体验下 Gemini， 有用过的朋友吗？ 体验对比 claude 如何？如果开 20 刀的额度对比 codex 的 20 刀哪个更经用一点？</description>
-    </item>
-    <item>
-      <title>哈哈哈喜报，做的垂直分享发现优质产品社区，注册用户超 2000+，收录/发布产品超 1000+啦～</title>
-      <link>https://www.v2ex.com/t/1257168</link>
-      <guid>v2ex-1257168</guid>
-      <pubDate>Sun, 15 Nov 2026 02:54:19 GMT</pubDate>
-      <description>&lt;p&gt;距离产品派上线大半年时间了，期间一直在不停的迭代修复 bug&lt;/p&gt;
-&lt;p&gt;近日发现注册用户超 2000+，收录/发布产品超 1000+&lt;/p&gt;
-&lt;p&gt;非常感谢各位派友和 v 友们的支持～&lt;/p&gt;
-&lt;p&gt;近日我们还进行了一轮大版本更新，包括全新界面吉祥物、全新积分体系等等&lt;/p&gt;
-&lt;img class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://static.chanpinpai.cn/uploads/img-1794635793577-647696013.webp&quot;/&gt;
-&lt;p&gt;具体的更新内容可以参考：&lt;a href=&quot;https://chanpinpai.com/topic/ok8xnNZ2&quot; rel=&quot;nofollow&quot;&gt;https://chanpinpai.com/topic/ok8xnNZ2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;未来我们会推出积分兑换商城等等更多玩法&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>有没有 Claude portal 验证一直在验证中的 v 友</title>
-      <link>https://www.v2ex.com/t/1257170</link>
-      <guid>v2ex-1257170</guid>
-      <pubDate>Sun, 15 Nov 2026 03:35:14 GMT</pubDate>
-      <description>&lt;p&gt;我的 Claude 在前天弹出 portal 验证，当即用护照进行了验证，但是已经 48h 以上了还一直在验证中，提示正在检查。有没有 v 友知道啥情况吗？&lt;/p&gt;
-</description>
+      <title>一觉醒来，V 站升级了评论区 UI 交互，Polish 要为上次的事故付出代价了</title>
+      <link>https://www.v2ex.com/t/1257309</link>
+      <guid>v2ex-1257309</guid>
+      <pubDate>Mon, 16 Nov 2026 01:44:48 GMT</pubDate>
+      <description>之前我在 V 站节点提过升级的事情，当时感觉站长升级的意愿不大，虽然评论升级的呼声比较高，&lt;a target=&quot;_blank&quot; href=&quot;https://www.v2ex.com/t/1251696&quot;&gt;https://www.v2ex.com/t/1251696&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;前一阵上次 Polish 升级产生了一次电脑卡死的事故，&lt;a target=&quot;_blank&quot; href=&quot;https://fast.v2ex.com/t/1254940&quot; rel=&quot;nofollow noopener&quot;&gt;https://fast.v2ex.com/t/1254940&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;感觉站长真的觉醒了，靠第三方插件提升用户体验终究不是一个可靠的路子，产品的用户体验应该主要由产品本身主导，而不是高度依赖第三方。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;下一步还有哪些有价值的更新呢？比如上传图片？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Polish 第三方插件的效果图&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/MqHNaHL.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/MqHNaHL.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;V 站官方升级后效果图&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/6k2nMfW.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/6k2nMfW.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
