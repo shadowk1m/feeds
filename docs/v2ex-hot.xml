@@ -4,168 +4,182 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Nov 2026 01:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:39:45 GMT</lastBuildDate>
     <item>
-      <title>想买个折叠车，这领域真的是只有大行和其他吗，求推荐</title>
-      <link>https://www.v2ex.com/t/1257918</link>
-      <guid>v2ex-1257918</guid>
-      <pubDate>Wed, 18 Nov 2026 02:39:56 GMT</pubDate>
-      <description>&lt;p&gt;说下相关&lt;/p&gt;
+      <title>我司全面禁止 AI Coding，一夜之间回到古法编程时代</title>
+      <link>https://www.v2ex.com/t/1258200</link>
+      <guid>v2ex-1258200</guid>
+      <pubDate>Thu, 19 Nov 2026 02:49:00 GMT</pubDate>
+      <description>&lt;p&gt;起因：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;部门某同事使用 AI 生成代码，审核不到位引发线上故障，导致大批量用户投诉。&lt;/li&gt;
+&lt;li&gt;前一阵子另一同事删除不活跃用户数据，使用 AI 生成 SQL，结果误删部分活跃用户数据。&lt;/li&gt;
+&lt;li&gt;叠加最近微软崩溃(Boss 认为是 Vibe Coding 导致)事故。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;现状：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;BOSS 对 AI Coding 失去信心，要求全面禁止 Vibe Coding ，AI 可以用于辅助分析、出方案，但是严令禁止直接生成代码，宁愿慢也不要出问题&lt;/li&gt;
+&lt;li&gt;部分需求的 DDL 有所延长，但只相对于 vibe,古法编程所需耗时远远不够，还需要扯皮加时长 = =&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr/&gt;
+&lt;p&gt;突然有点不适应，如果换成是你，你还能回归古法编程手搓代码吗？&lt;/p&gt;
+&lt;p&gt;在全面 Ai Coding 时代，如何限制 AI 才能减少类似问题发生，单纯的 review 或者工作流的限制能不能解决问题？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>UU 远程宣布收费</title>
+      <link>https://www.v2ex.com/t/1258207</link>
+      <guid>v2ex-1258207</guid>
+      <pubDate>Thu, 19 Nov 2026 03:02:58 GMT</pubDate>
+      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://uuyc.163.com/help/membershipbenefits.html&quot; rel=&quot;nofollow noopener&quot;&gt;https://uuyc.163.com/help/membershipbenefits.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;免费版：1080p 30fps 码率最高 8Mbps，不支持副屏/虚拟屏&lt;br /&gt;VIP：30/月 238/年 4K 144fps HDR，码率最高 500Mbps&lt;br /&gt;SVIP：98/月 758/年 在 VIP 基础上增加全球节点</description>
+    </item>
+    <item>
+      <title>求助帖：2 年被裁 3 次，简历花掉还能找到工作吗？</title>
+      <link>https://www.v2ex.com/t/1258214</link>
+      <guid>v2ex-1258214</guid>
+      <pubDate>Thu, 19 Nov 2026 03:26:48 GMT</pubDate>
+      <description>&lt;p&gt;首先先自我介绍下吧，本人女，29 岁，未婚未育，河南小镇做题家出身，南航本（飞行器动力工程）+南大硕（环境工程），希望不要被熟人刷到&lt;/p&gt;
+&lt;p&gt;目前从事信贷风控行业，由于前期发育不完善，策略经验不足，在 2025-2026 年接连被裁 3 次，简历花掉，找工作都是已读不回，还有负债，压力山大。&lt;/p&gt;
+&lt;p&gt;等现在这家离职，马上就要没有收入了，我其实挺慌的&lt;/p&gt;
+&lt;p&gt;如果现在开始没有收入的话，差不多明年 2 月就要逾了吧，我不想逾&lt;/p&gt;
+&lt;p&gt;还是想请 v 站的朋友帮忙出出主意给些建议吧，我现在的这种情况怎么样才能搞到点钱？除了搞钱之外，也希望对我的未来有一些指点吧&lt;/p&gt;
+&lt;p&gt;到底是继续在风控领域找工作？还是副业？还是说考公考编？&lt;/p&gt;
+&lt;p&gt;一方面在想我是不是能继续在风控策略领域找工作？因为其实现在简历太花了，有人说这简历已经烂到可以直接丢垃圾桶的程度了；&lt;/p&gt;
+&lt;p&gt;另一方面，在想现在是不是可以搞搞副业，今年 vibecoding 出来一些东西，也就从网友兜里掏了几千块钱出来吧，但对于负债来说差太远了&lt;/p&gt;
+&lt;p&gt;比较坦诚的讲下被裁的原因，也希望 v 友能从各个角度给点建议：如果我有幸找到下一份工作，怎么才能保住下一份工作？&lt;/p&gt;
+&lt;p&gt;以及在此处插入一条求职，如果有合适的工作（什么样的都行，您觉得我能干的都可以），请联系我，我私发简历&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1）第一家&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在携程，数仓组--风控策略工程师（听组别和岗位就会奇怪吧，这里埋下了大雷），工龄 2.5 年，25.07 被裁&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;岗位日常：&lt;/strong&gt; 给风控策略和模型同事打杂，负责策略和模型在内部引擎的上线；&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;被裁原因：&lt;/strong&gt; &lt;strong&gt;无核心业务资源+无数仓经验+无底牌&lt;/strong&gt;，就是那种感觉，要裁就是我了，是组里最没有用的那个人，别人要么做业务报表的开发，要么做模型特征的开发，但领导发现我只会打杂；&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;能干 2.5 年的原因：&lt;/strong&gt; 有一定的 PYTHON 编程能力（其实很菜），挺被我的第一任领导赏识的，维护了一些模型和开发了一些提效工具（其实就是本人日常工作当中有一些痛点，感觉可以直接用代码解决，本人又懒，所以本人喜欢折腾一些提效工具），还升职加薪了；但是第二任领导来了之后就让我滚蛋了，因为我日常没什么产出，只是把模型部署上线。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为后续埋大雷的地方：&lt;/strong&gt; 感觉在这边根本就没有建立起来自己的核心竞争力，既不会做风控策略，又不会做数仓，除了打杂就是打杂；&lt;/p&gt;
+&lt;p&gt;2）第二家&lt;/p&gt;
+&lt;p&gt;在美团，策略组--风控策略工程师，0.5 年&lt;/p&gt;
+&lt;p&gt;被裁原因：根据第一家公司的经历可以得知，我本人其实没有任何风控策略经验，所以并不能很好完成领导交代的任务，因而被裁&lt;/p&gt;
+&lt;p&gt;3）第三家&lt;/p&gt;
+&lt;p&gt;某家 500 强银行的金服公司，贷后策略，0.5 年；&lt;/p&gt;
+&lt;p&gt;被裁原因：个人能力问题+工作态度不行+有更便宜的人选（工作被应届生接受）&lt;/p&gt;
+&lt;p&gt;这次被裁，我自身有需要承担的责任。一方面，工作难度不大能 cover 住，但策略经验不足，前期交付的内容不够成熟，虽然之后有所改进，但没能扭转领导的印象；另一方面，对这边管理风格不满意，所以工作起来非常的心累，就会导致动作变形。&lt;/p&gt;
+&lt;p&gt;领导比较强势，经常当众骂人，我很难适应这种管理方式。所以被裁之后，除了焦虑，我其实也松了一口气。&lt;/p&gt;
+&lt;p&gt;这次被裁之前，其实我有预感，因为当时确实是感觉组里进了很多新人，又不可能全留，而且因为这里薪资低，男生很少，+1 和+2 私下小窗聊天说要招男生，接替我工作的就是一个应届的男生。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;其实在上一次从美团干 6 个月离职的时候，我就发现了找工作很难，我的简历去面策略，别人问我策略的东西，我都答不上来。不然的话，其实当时是有很多面试机会的，但是最后只有这家金服公司面过了，其他的都面不过&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[回复抽奖] 自家种的赣南脐橙又上市了｜V 友券后 10 斤装 45 元、20 斤装 90 元</title>
+      <link>https://www.v2ex.com/t/1258199</link>
+      <guid>v2ex-1258199</guid>
+      <pubDate>Thu, 19 Nov 2026 02:48:05 GMT</pubDate>
+      <description>&lt;h2&gt;写在前面&lt;/h2&gt;
+&lt;p&gt;V 友们好，又到赣南脐橙上市的时候了。老家在江西赣州信丰，爸妈在家里打理果园。去年在 V 站发帖，收到不少 V 友的支持和反馈。今年继续来给爸妈吆喝一声，也照例抽两箱请大家尝尝。&lt;/p&gt;
+&lt;h2&gt;V 站特价和领券方式&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;规格&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;V 友券后价&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;10 斤装精品果&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;45 元&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20 斤装精品果&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;90 元&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;包邮地区&lt;/strong&gt;　上海、江西、广东、湖南、湖北、安徽、江苏、福建、浙江、河南。发往这些地区，其他地区需另补运费差价。&lt;/p&gt;
+&lt;p&gt;微信关注公众号 &lt;strong&gt;老胡赣南脐橙&lt;/strong&gt;，公众号回复 &lt;code&gt;v2ex&lt;/code&gt;，即可领取 V 站专属大额优惠券。下单用券后就是上面的价格。也可以扫下方卡片左侧的二维码关注。&lt;/p&gt;
+&lt;h2&gt;回复抽奖&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;预算 500-2000&lt;/li&gt;
-&lt;li&gt;需求就是把车折叠后放在后备箱或者后排，出去郊游能更方便的 4+2 旅行&lt;/li&gt;
-&lt;li&gt;的确更在乎车架和折叠机构，担心有些车以后会有异响&lt;/li&gt;
-&lt;li&gt;V 刹就行，我只接受 V 刹和油压碟刹。不要机械碟刹&lt;/li&gt;
-&lt;li&gt;我觉得同是 1500 元，大行只有 V 刹，但是有些小众牌子可能给了油压碟刹，这可能在折叠车领域有点本末倒置&lt;/li&gt;
-&lt;li&gt;当然我觉得大行肯定有更高的溢价&lt;/li&gt;
-&lt;li&gt;速别的话，不要单速，至少 6 速吧&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;奖品&lt;/strong&gt;　抽 2 位 V 友，每人一箱 10 斤装赣南脐橙。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;参与方式&lt;/strong&gt;　回复本帖即可免费参加。&lt;strong&gt;11 月 26 日（下周四）20:00&lt;/strong&gt; 截止，以当时本帖最后一条回复的楼层号为总楼层数。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;怎么算&lt;/strong&gt;　取 &lt;strong&gt;2026 年 11 月 26 日&lt;/strong&gt; 当期福彩快乐 8 和双色球各自公布的销售额，分别除以总楼层数取余，余数就是中奖楼层。某项销售额如果整除，就把该项当期所有开奖号码相加后再取余。仍为 0 则对应最后一楼。若两份奖命中同一人，第二份顺延给下一位回帖的 V 友，顺延到末楼后从首楼继续。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开奖时间&lt;/strong&gt;　&lt;strong&gt;11 月 26 日（周四）晚&lt;/strong&gt;，两项销售额公布后在本帖附言公布中奖楼层。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;昨天看了一晚上，目前有这些候选：喜德盛 W5，富士达纸飞机，大行 D6（KBC061），kosda 科盛达 D7&lt;/p&gt;
-&lt;p&gt;求大家的建议，谢谢🙏&lt;/p&gt;
+&lt;h2&gt;公众号和售后&lt;/h2&gt;
+&lt;p&gt;收到后可以先开箱，把果子放在阴凉通风处，也可以冷藏。收到有破损的话，拍照发给售后微信 &lt;strong&gt;laohu_gnqc&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806955_codex-clipboard-e4611f28-459c-4626-8da8-42fa23dae83b.png&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;老胡赣南脐橙公众号和售后卡&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806955_codex-clipboard-e4611f28-459c-4626-8da8-42fa23dae83b.png&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;今年的实拍&lt;/h2&gt;
+&lt;p&gt;点击照片可看原图。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806251__20261119101020_261_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;果园里刚采下的脐橙&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806251__20261119101020_261_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806396__20261119101021_262_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;周转筐里的脐橙&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806396__20261119101021_262_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806530__20261119101021_263_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;箱装脐橙&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806530__20261119101021_263_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806622__20261119101022_264_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;带叶脐橙近照&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806622__20261119101022_264_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806737__20261119101023_265_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;分箱打包现场&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806737__20261119101023_265_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806906__20261119101024_266_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;装箱实拍&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806906__20261119101024_266_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>新 offer 我该怎么选？</title>
-      <link>https://www.v2ex.com/t/1258010</link>
-      <guid>v2ex-1258010</guid>
-      <pubDate>Wed, 18 Nov 2026 07:39:05 GMT</pubDate>
-      <description>&lt;p&gt;最近遇到一个选择，有点纠结，想问问大家的意见。&lt;/p&gt;
-&lt;p&gt;本人江苏大学软件工程专业，27 届，目前在杭州实习，主要做 Java 开发，实习工资 5000 左右。之前了解到转正后薪资可能有 1.5W，但目前还没确定有没有 HC，也没有明确的转正时间。&lt;/p&gt;
-&lt;p&gt;前几天拿到了斯堪尼亚南通的实习 Offer，130 一天，另外每天 15 块餐补。岗位主要是制造业 IT 相关的工作，和生产部门、IT 团队一起处理生产过程中遇到的信息系统和技术问题。&lt;/p&gt;
-&lt;p&gt;斯堪尼亚的平台肯定是不错的，其实主要是因为它是国际大厂的缘故，不然我连考虑都不带考虑的，根据他这个待遇水平和给的转正回复。。。但现在有个比较大的问题：HR 说今年是第一批采用这种实习招聘模式，以前的实习生一般有机会直接拿正式 Offer，但今年因为市场和预算原因，先招实习生，后面能不能转正还得看 HC。换句话说，表现好也不一定有转正名额。&lt;/p&gt;
-&lt;p&gt;我现在最纠结的就是这个。杭州这边虽然也没给我明确承诺，但毕竟已经实习了一段时间，至少还有机会争取一下。万一我为了斯堪尼亚放弃杭州，去了之后又因为没有 HC 转不了正，那不就两头空了吗？&lt;/p&gt;
-&lt;p&gt;但反过来想，杭州这边也可能只是我自己觉得有希望，最后同样转不了正。现在就是两个机会都不确定，一个是已经在做的 Java 开发，另一个是平台不错但转正情况不明的外企制造业 IT 岗位。&lt;/p&gt;
-&lt;p&gt;想问问大家，如果是你们，会怎么选？&lt;/p&gt;
-&lt;p&gt;尤其想听听有制造业 IT、外企或者 Java 开发相关经验的朋友的看法。斯堪尼亚这种经历，对应届生以后找工作到底有多大帮助？值得冒这个转正风险吗？&lt;/p&gt;
+      <title>哎 裁员了 好难受</title>
+      <link>https://www.v2ex.com/t/1258180</link>
+      <guid>v2ex-1258180</guid>
+      <pubDate>Thu, 19 Nov 2026 01:55:26 GMT</pubDate>
+      <description>&lt;p&gt;国内一家公司出海, 我在的海外实体签的&lt;strong&gt;Service Agreement(服务合同)&lt;/strong&gt; 远程办公&lt;/p&gt;
+&lt;p&gt;然后昨天 HR 通知我项目不行/不盈利,直接关业务了.  所以服务合同终止, 也没有赔偿(这个有预期,签的时候知道是服务合同)&lt;/p&gt;
+&lt;p&gt;其实早有预感项目不行, 只是没想到这一天来的这么快. 然后突然收到这个消息,感觉挺难受的. 因为在老家&lt;strong&gt;浙江宁波, 简直是互联网荒漠&lt;/strong&gt;, 原来毕业就在深圳/杭州/上海待了七年回到宁波, 有点不想再出去了. &lt;/p&gt;
+&lt;p&gt;现在这个情况宁波非常难找工作.  有些焦虑. 害&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>后续：偷头盔的人找到了，头盔耳机拿回，另外赔了 600 元</title>
-      <link>https://www.v2ex.com/t/1257941</link>
-      <guid>v2ex-1257941</guid>
-      <pubDate>Wed, 18 Nov 2026 03:45:34 GMT</pubDate>
-      <description>&lt;p&gt;前情：&lt;a href=&quot;https://www.v2ex.com/t/1256357&quot; rel=&quot;nofollow&quot;&gt;一年前给小电驴装的监控，终于派上用场了，成功拍到偷头盔的全过程&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;后续：&lt;strong&gt;头盔和耳机都拿回来了，对方另外赔偿了 600 元。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;不过，人不是帽子叔叔帮我找到的，我自己投诉顺丰同城联系上的（求人不如靠自己）。&lt;/p&gt;
-&lt;p&gt;我跟顺丰客服表示不及时处理处理，我就把事情经过发出来曝光，标题都想好了：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;“顺丰哪有顺手快。”&lt;/strong&gt; （再此鸣谢第一个想到这个标语的 v 友）&lt;/p&gt;
-&lt;p&gt;当天下午，一个乌鲁木齐的电话打来，一个 20 岁的新疆小伙。&lt;/p&gt;
-&lt;p&gt;反复念叨：“哥，求你了，帮同事拿的头盔。”&lt;/p&gt;
-&lt;p&gt;原来他之前就偷过别人的头盔，被关过一次，说第二次就要拘留了。&lt;/p&gt;
-&lt;p&gt;我跟他说，东西还回来是一回事，我花了五六天找人、投诉、处理这件事，总不能一句“还给你”就结束。&lt;/p&gt;
-&lt;p&gt;赔偿从 1000 谈到 600 元，我接受了。我也只能多一事不如少一事了，虽然之前设想过 100 中搞他的方案。&lt;/p&gt;
-&lt;p&gt;目前东西已经完整归还，600 元也收到了。和解及赔偿情况已经向办案民警说明，后续手续等警方通知。&lt;/p&gt;
-&lt;p&gt;后来顺丰同城给我回访，说会严肃处理。具体怎么处理，我就不跟进了。希望这小伙能记住这次，回头是岸，以后别再顺手拿别人的东西了。&lt;/p&gt;
+      <title>人啊，没个释放压力的出口是真难受，大家都有什么可以释放压力的嗜好/爱好或者癖好？</title>
+      <link>https://www.v2ex.com/t/1258219</link>
+      <guid>v2ex-1258219</guid>
+      <pubDate>Thu, 19 Nov 2026 03:49:18 GMT</pubDate>
+      <description>&lt;h1&gt;食欲、性欲、睡欲、分享欲&lt;/h1&gt;
+&lt;p&gt;之前看到的一句话，大概是：人总得靠点什么东西撑下去，食欲、性欲、睡欲、分享欲。&lt;/p&gt;
+&lt;p&gt;是啊，高压力之后，总得找个方式解解乏，可能需要某个特定的行为，最简单的就是抽烟、喝酒，通过熟悉的行为，刺激多巴胺释放压力。&lt;/p&gt;
+&lt;h1&gt;现状&lt;/h1&gt;
+&lt;p&gt;90 后北漂中，单身，程序员，压力时常有，但没方法、没途径释放，&lt;/p&gt;
+&lt;p&gt;所以总感觉憋得慌，六日/假期没事就会离开北京，去溜达，&lt;/p&gt;
+&lt;p&gt;不然在北京呆着就感觉一直没放松下来，对我而言北京就是个上班的地方，北京的那些景点都没啥兴趣。&lt;/p&gt;
+&lt;p&gt;周边的秦皇岛、张家口、赤峰都去过好多次了，并不是想去玩，单纯就是想远离北京换个地方溜达。&lt;/p&gt;
+&lt;h1&gt;压力没个正经出口&lt;/h1&gt;
+&lt;p&gt;我对抽烟喝酒没啥兴趣，也不会抽烟，就是偶尔自己喝点啤酒，刷着 B 站自己就着下酒菜，喝完在小象超市上买的 1L 啤酒，只能说还凑活，毕竟吃东西挺爽。&lt;/p&gt;
+&lt;p&gt;抽烟喝酒其实挺爽的，有时候会梦到自己抽烟抽的吞云吐雾，但小时候被大人们抽烟熏的以及经常见耍酒疯的，可能就天然排斥这些。&lt;/p&gt;
+&lt;p&gt;打游戏吧，除了小时候红白机玩的凑活，现在的吃鸡、LOL、CF、王者荣耀，玩的很一般，遇到队友坑还容易抓狂，所以也没啥意思。&lt;/p&gt;
+&lt;h1&gt;打个飞机&lt;/h1&gt;
+&lt;p&gt;要说有能释放压力的爱好，那可能就是打飞机了，&lt;/p&gt;
+&lt;p&gt;打飞机也没啥好羞耻的，单身青年，只不过原来没有这方面的知识、引导，导致年轻的时候有点成瘾了，欲望也非常大。&lt;/p&gt;
+&lt;p&gt;从初中开始就打，那时候怎么整都不射，都磨破皮了，现在不行了，挺快的，大脑已经形成条件反射了吧，想尽快达到“射”的那刻，分泌多巴胺让自己愉悦，所有现在还挺焦虑，担心实战时太快，晨勃也少了，哎，都是当年的放纵不克制。&lt;/p&gt;
+&lt;h1&gt;总是焦虑&lt;/h1&gt;
+&lt;p&gt;慢下来的事情我都没法专注，我也想过培养关于“咖啡”的爱好，至少不伤害身体，也能通过特定的行为达到放松，比如慢悠悠的冲个咖啡，一步步来，但我发现自己对慢慢做的事情都沉不下心来，总感觉还有很多事没做，应该学很多的东西，对未来也满满的焦虑，一旦人慢下来了就慌，&lt;/p&gt;
+&lt;p&gt;喝咖啡吧，我貌似对咖啡因敏感，喝完心跳加快，但的确会放松不少，精力也多了些，&lt;/p&gt;
+&lt;p&gt;早上一杯瑞幸的话，午休肯定睡不着，有时候晚上也难以入睡，不过现在掌握规律了，喝完咖啡后白天大量喝水，晚上就还行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;想问问大家有啥释放压力的嗜好/爱好，甚至癖好，想照抄照抄&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>公司年假计算规则</title>
-      <link>https://www.v2ex.com/t/1257939</link>
-      <guid>v2ex-1257939</guid>
-      <pubDate>Wed, 18 Nov 2026 03:34:23 GMT</pubDate>
-      <description>&lt;p&gt;有的公司是按毕业年限开始计算&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;left&quot;&gt;累计社会工龄&lt;/th&gt;
-&lt;th align=&quot;center&quot;&gt;法定年假天数&lt;/th&gt;
-&lt;th align=&quot;left&quot;&gt;依据标准&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;累计工作已满 1 年不满 10 年&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;5 天&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;《职工带薪年休假条例》&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;累计工作已满 10 年不满 20 年&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;10 天&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;《职工带薪年休假条例》&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;累计工作已满 20 年&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;15 天&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;《职工带薪年休假条例》&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;然后今天才发现我司，居然是按入职服务年限；&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;left&quot;&gt;条件&lt;/th&gt;
-&lt;th align=&quot;center&quot;&gt;企业年假天数（不包含国家法定休假日、休息日）&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;为本公司服务 1 年以内&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;每两个月增加 1 个工作日（最长 5 个工作日）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;为本公司服务 1 年以上 10 年以下&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;5 个工作日&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;为本公司服务 10 年（含）以上 20 年以下&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;10 个工作日&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;为本公司服务 20 年（含）以上&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;15 个工作日&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;感觉简直见了鬼，这是第一次遇到这样以服务年限来计算年假的公司；&lt;/p&gt;
+      <title>程序员的双重暴击之继就业寒冬后的投资暴雷</title>
+      <link>https://www.v2ex.com/t/1258173</link>
+      <guid>v2ex-1258173</guid>
+      <pubDate>Thu, 19 Nov 2026 01:42:55 GMT</pubDate>
+      <description>买了 12 年的鲸鱼宝暴雷了，一夜回到解放前😭&lt;br /&gt;&lt;br /&gt;赚钱不容易，大家理性投资，守住本金</description>
+    </item>
+    <item>
+      <title>如果汽车智驾的程序由 AI 编写，你还敢用吗？</title>
+      <link>https://www.v2ex.com/t/1258153</link>
+      <guid>v2ex-1258153</guid>
+      <pubDate>Thu, 19 Nov 2026 00:32:50 GMT</pubDate>
+      <description>说实话我还是更相信传统手搓出来的，毕竟知道自己做的是什么。验证流程也更成熟。&lt;br /&gt;现在迭代那么快，上线后出问题再修。一般项目倒是无所谓，就怕一些不讲究的车厂也这么搞啊。</description>
+    </item>
+    <item>
+      <title>有没有什么办法让我忘记开梯子的时候，让 Claude 断网？</title>
+      <link>https://www.v2ex.com/t/1258094</link>
+      <guid>v2ex-1258094</guid>
+      <pubDate>Wed, 18 Nov 2026 11:37:05 GMT</pubDate>
+      <description>&lt;p&gt;我今天重启了下电脑，重启前特意把 Claude 桌面版关了，但不知道为什么开启后 Claude 桌面版自动打开了，但这个时候我还没有开梯子，我都看到它显示“App Unavailable”了，感觉我离封号不远了&lt;/p&gt;
+&lt;p&gt;所以为了避免下次再次出现这个问题，有没有什么办法让我在忘记开梯子的情况下打开 Claude 的时候，让 Claude 连不上网络？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>用完 gpt-6.2 当场退订转 gemini</title>
-      <link>https://www.v2ex.com/t/1258022</link>
-      <guid>v2ex-1258022</guid>
-      <pubDate>Wed, 18 Nov 2026 08:02:04 GMT</pubDate>
-      <description>6.2-astra 给我的感觉就是拉了坨大的&lt;br /&gt;完全不说人话了&lt;br /&gt;&lt;br /&gt;直接退订了 gpt 200 刀，转了 gemini 100 刀&lt;br /&gt;&lt;br /&gt;刚用上 agy，还在熟悉中，好像还能用 claude，就是不知道额度有多少</description>
-    </item>
-    <item>
-      <title>成都和重庆那个好玩呢？</title>
-      <link>https://www.v2ex.com/t/1257964</link>
-      <guid>v2ex-1257964</guid>
-      <pubDate>Wed, 18 Nov 2026 05:26:50 GMT</pubDate>
-      <description>好玩又好吃，摸鱼的大伙一起吹吹水</description>
-    </item>
-    <item>
-      <title>一次涨薪谈话，感受到了行业寒意</title>
-      <link>https://www.v2ex.com/t/1258013</link>
-      <guid>v2ex-1258013</guid>
-      <pubDate>Wed, 18 Nov 2026 07:41:54 GMT</pubDate>
-      <description>&lt;p&gt;在这里做了两年，期间参与了平台搭建，也接手过推进困难的项目、推动过合同签订。而且我的工资还是低于行业水平的，加上最近来自生活的压力逐渐的加码，决定跟老板提了一次薪资调整，约了个时间聊了一下。&lt;/p&gt;
-&lt;p&gt;老板上来先跟我讲，大意是：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们现在做的都是土木行业的项目，土木行业本来就不景气，项目回款也比较困难。&lt;/p&gt;
-&lt;p&gt;今年靠着 AI 的热度接到了一些项目，但是合同金额都不高。现在到年底了，感觉这波 AI 的热度也快过去了，特别是在土木这个行业，其他行业可能还是有些机会的。估计明年的工作也不好安排。&lt;/p&gt;
-&lt;p&gt;给你调整工资，涨少了也解决不了你的生活问题。你现在年纪也不小了，刚结婚，也面临生育和生活的压力。建议你现在开始投投简历，每天晚上花一两个小时准备准备。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我这边表达的意思是：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;目前还是想继续做，优先考虑在公司继续发展。&lt;/p&gt;
-&lt;p&gt;现在手上的业务推进得比较顺利，客户这边也比较满意。&lt;/p&gt;
-&lt;p&gt;说现在再出去找，年纪也不小了，学历没有优势，即使能找到工作，估计也需要一些时间。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;后面又来来回回客套着绕了一圈，老板说我能力还是可以的，能找到更好的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后还是没松口给涨工资，只说等我找不到，回头再来聊。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;大家都是成年人了，有些话真真假假、半客套的，听听就好。&lt;/p&gt;
-&lt;p&gt;马上年底了，虽然还没说要裁员，但听完这番话，还是决定开始投简历，给自己找条后路。&lt;/p&gt;
-&lt;p&gt;这一波如果真扛不住了，可能就得去干“铁人三项”，或者回去继承我爹的卡车运输事业，跑车去了。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>跟风追《持械入宋》，看到的 AI 短剧读音问题的疑惑</title>
-      <link>https://www.v2ex.com/t/1257898</link>
-      <guid>v2ex-1257898</guid>
-      <pubDate>Wed, 18 Nov 2026 02:02:19 GMT</pubDate>
-      <description>&lt;p&gt;趁着热度追了最近很火的 AI 短剧《持械入宋》。能明显感觉到，对比最初的 AI 短剧，画面，人物的建模，表情，场景的精细度进步还是很大的。
-但有个地方实在很别扭：AI 配音有很多读错的，比如主簿，一直读成 zhǔ bào，实际上应该是 zhǔ bù的吧，每次听到都瞬间出戏。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;很好奇，这种反复稳定读错某一些字词，到底是技术上的短板？还是制作流程的问题？还是故意的？用来区分 AI 和真人？
-有没有懂行的朋友说一说。
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <title>好像被女朋友催婚了</title>
+      <link>https://www.v2ex.com/t/1258145</link>
+      <guid>v2ex-1258145</guid>
+      <pubDate>Wed, 18 Nov 2026 23:25:39 GMT</pubDate>
+      <description>第一次发帖，先说一下我的情况。&lt;br /&gt;今年 24 岁，博士在读，可能还要两到三年才能毕业。女朋友比我大两岁多，三年前本科毕业就已经工作了。我俩是同一所高中的，她比我高一级，但直到我大四那年才因为一些机缘巧合认识。&lt;br /&gt;前年在一起，到现在谈了将近两年，期间聚少离多，绝大多数时间都是异地。她计划明年夏天跟我结婚，连婚纱照什么时候拍都安排好了。说实话，我还没做好准备，每次听她聊起这些就特别焦虑。&lt;br /&gt;&lt;br /&gt;我的顾虑：&lt;br /&gt;1. 我不想要小孩，她想要。（但是最近她好像改变意思了，这条待定）&lt;br /&gt;2. 感情目前不够稳定，最近几个月经常吵架，我觉得还没到能结婚的程度。&lt;br /&gt;3. 我有点恐婚恐育，可能是帖子看多了，也可能是现在学业压力比较大。&lt;br /&gt;4. 即便结婚也改变不了异地的现实，结婚前后的相处模式不会有任何变化，我觉得现在结婚没什么意义。&lt;br /&gt;&lt;br /&gt;其他一些想法：&lt;br /&gt;1. 结婚这件事我也想过，也期待过一起生活，但我觉得应该是毕业之后。那时候二十多岁刚刚好，可女朋友觉得太晚了。&lt;br /&gt;2. 女朋友人很好，也是讲道理的人，但是很容易上头，吵架我也有问题，大部分是因为互不相让的性格问题，冷静下来她也会来解决问题。让我比较苦恼的是，吵架这件事总是循环出现，这种无休止的争吵循环让我感到很疲惫，感情被消耗了很多。&lt;br /&gt;3.结婚的意义是什么，我身边的同龄人都还没有结婚，这也是一个我焦虑的原因。&lt;br /&gt;4. 如果明年结婚，我该怎么做准备？如果不结，又该怎么跟女朋友沟通这件事？&lt;br /&gt;&lt;br /&gt;（手机发帖，可能有格式问题请多担待）</description>
     </item>
   </channel>
 </rss>
