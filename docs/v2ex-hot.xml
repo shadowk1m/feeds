@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Thu, 19 Nov 2026 18:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:57:44 GMT</lastBuildDate>
     <item>
       <title>我司全面禁止 AI Coding，一夜之间回到古法编程时代</title>
       <link>https://www.v2ex.com/t/1258200</link>
@@ -152,13 +152,6 @@
 </description>
     </item>
     <item>
-      <title>好像被女朋友催婚了</title>
-      <link>https://www.v2ex.com/t/1258145</link>
-      <guid>v2ex-1258145</guid>
-      <pubDate>Wed, 18 Nov 2026 23:25:39 GMT</pubDate>
-      <description>第一次发帖，先说一下我的情况。&lt;br /&gt;今年 24 岁，博士在读，可能还要两到三年才能毕业。女朋友比我大两岁多，三年前本科毕业就已经工作了。我俩是同一所高中的，她比我高一级，但直到我大四那年才因为一些机缘巧合认识。&lt;br /&gt;前年在一起，到现在谈了将近两年，期间聚少离多，绝大多数时间都是异地。她计划明年夏天跟我结婚，连婚纱照什么时候拍都安排好了。说实话，我还没做好准备，每次听她聊起这些就特别焦虑。&lt;br /&gt;&lt;br /&gt;我的顾虑：&lt;br /&gt;1. 我不想要小孩，她想要。（但是最近她好像改变意思了，这条待定）&lt;br /&gt;2. 感情目前不够稳定，最近几个月经常吵架，我觉得还没到能结婚的程度。&lt;br /&gt;3. 我有点恐婚恐育，可能是帖子看多了，也可能是现在学业压力比较大。&lt;br /&gt;4. 即便结婚也改变不了异地的现实，结婚前后的相处模式不会有任何变化，我觉得现在结婚没什么意义。&lt;br /&gt;&lt;br /&gt;其他一些想法：&lt;br /&gt;1. 结婚这件事我也想过，也期待过一起生活，但我觉得应该是毕业之后。那时候二十多岁刚刚好，可女朋友觉得太晚了。&lt;br /&gt;2. 女朋友人很好，也是讲道理的人，但是很容易上头，吵架我也有问题，大部分是因为互不相让的性格问题，冷静下来她也会来解决问题。让我比较苦恼的是，吵架这件事总是循环出现，这种无休止的争吵循环让我感到很疲惫，感情被消耗了很多。&lt;br /&gt;3.结婚的意义是什么，我身边的同龄人都还没有结婚，这也是一个我焦虑的原因。&lt;br /&gt;4. 如果明年结婚，我该怎么做准备？如果不结，又该怎么跟女朋友沟通这件事？&lt;br /&gt;&lt;br /&gt;（手机发帖，可能有格式问题请多担待）</description>
-    </item>
-    <item>
       <title>程序员的双重暴击之继就业寒冬后的投资暴雷</title>
       <link>https://www.v2ex.com/t/1258173</link>
       <guid>v2ex-1258173</guid>
@@ -166,18 +159,112 @@
       <description>买了 12 年的鲸鱼宝暴雷了，一夜回到解放前😭&lt;br /&gt;&lt;br /&gt;赚钱不容易，大家理性投资，守住本金</description>
     </item>
     <item>
-      <title>如果汽车智驾的程序由 AI 编写，你还敢用吗？</title>
-      <link>https://www.v2ex.com/t/1258153</link>
-      <guid>v2ex-1258153</guid>
-      <pubDate>Thu, 19 Nov 2026 00:32:50 GMT</pubDate>
-      <description>说实话我还是更相信传统手搓出来的，毕竟知道自己做的是什么。验证流程也更成熟。&lt;br /&gt;现在迭代那么快，上线后出问题再修。一般项目倒是无所谓，就怕一些不讲究的车厂也这么搞啊。</description>
-    </item>
-    <item>
       <title>我的悲哀 我父母的悲哀</title>
       <link>https://www.v2ex.com/t/1258332</link>
       <guid>v2ex-1258332</guid>
       <pubDate>Thu, 19 Nov 2026 09:19:21 GMT</pubDate>
       <description>要我父母去邻里亲戚问问，有没有转行的门路。我父妈来一句，我们是农民，去找谁问。谁家有亲亲，都不能帮他找到工作。反正只能靠我自了。我想起几年前，要我找对象，也是说我们是农民，只能靠你自己。</description>
+    </item>
+    <item>
+      <title>统计了 V2EX 近 15 年提到「裁员」或「失业」的帖子</title>
+      <link>https://www.v2ex.com/t/1258315</link>
+      <guid>v2ex-1258315</guid>
+      <pubDate>Thu, 19 Nov 2026 08:35:40 GMT</pubDate>
+      <description>&lt;p&gt;好奇这几年站里聊裁员、失业的帖子到底有多少，就用 SOV2EX 搜了一下，最近 15 年
+情况从 19 年开始急转直下（疫情？），21 年这个低谷有点意思&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;自然年&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;命中主题数&lt;/th&gt;
+&lt;th&gt;原始查询&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2012&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;42&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1325347200&amp;amp;lte=1356969599&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2013&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;70&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1356969600&amp;amp;lte=1388505599&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2014&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;150&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1388505600&amp;amp;lte=1420041599&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2015&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;220&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1420041600&amp;amp;lte=1451577599&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2016&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;384&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1451577600&amp;amp;lte=1483199999&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2017&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;392&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1483200000&amp;amp;lte=1514735999&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2018&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;706&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1514736000&amp;amp;lte=1546271999&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2019&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1,297&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1546272000&amp;amp;lte=1577807999&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2020&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1,279&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1577808000&amp;amp;lte=1609430399&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2021&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;301&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1609430400&amp;amp;lte=1640966399&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2022&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1,126&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1640966400&amp;amp;lte=1672502399&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2023&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1,377&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1672502400&amp;amp;lte=1704038399&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2024&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;1,608&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1704038400&amp;amp;lte=1735660799&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2025&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;921&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1735660800&amp;amp;lte=1767196799&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2026（截至 11 月 19 日）&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1,405&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.sov2ex.com/api/search?q=%E8%A3%81%E5%91%98+%E5%A4%B1%E4%B8%9A&amp;amp;operator=or&amp;amp;gte=1767196800&amp;amp;lte=1795103999&amp;amp;size=0&quot; rel=&quot;nofollow&quot;&gt;核对&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;a href=&quot;https://imgur.com/to2YMfb&quot; rel=&quot;nofollow&quot;&gt;曲线图&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>升降办公桌好用么？这里有人用过么？</title>
+      <link>https://www.v2ex.com/t/1258259</link>
+      <guid>v2ex-1258259</guid>
+      <pubDate>Thu, 19 Nov 2026 05:57:01 GMT</pubDate>
+      <description>升降桌，坐久了，可以站着敲字&lt;br /&gt;&lt;br /&gt; 这种桌子的体验怎样？&lt;br /&gt; &lt;br /&gt; 用过的朋友可以分享一下使用体验</description>
     </item>
   </channel>
 </rss>
