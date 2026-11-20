@@ -4,159 +4,49 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 20 Nov 2026 00:57:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:00:58 GMT</lastBuildDate>
     <item>
-      <title>我司全面禁止 AI Coding，一夜之间回到古法编程时代</title>
-      <link>https://www.v2ex.com/t/1258200</link>
-      <guid>v2ex-1258200</guid>
-      <pubDate>Thu, 19 Nov 2026 02:49:00 GMT</pubDate>
-      <description>&lt;p&gt;起因：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;部门某同事使用 AI 生成代码，审核不到位引发线上故障，导致大批量用户投诉。&lt;/li&gt;
-&lt;li&gt;前一阵子另一同事删除不活跃用户数据，使用 AI 生成 SQL，结果误删部分活跃用户数据。&lt;/li&gt;
-&lt;li&gt;叠加最近微软崩溃(Boss 认为是 Vibe Coding 导致)事故。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;现状：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;BOSS 对 AI Coding 失去信心，要求全面禁止 Vibe Coding ，AI 可以用于辅助分析、出方案，但是严令禁止直接生成代码，宁愿慢也不要出问题&lt;/li&gt;
-&lt;li&gt;部分需求的 DDL 有所延长，但只相对于 vibe,古法编程所需耗时远远不够，还需要扯皮加时长 = =&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr/&gt;
-&lt;p&gt;突然有点不适应，如果换成是你，你还能回归古法编程手搓代码吗？&lt;/p&gt;
-&lt;p&gt;在全面 Ai Coding 时代，如何限制 AI 才能减少类似问题发生，单纯的 review 或者工作流的限制能不能解决问题？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>UU 远程宣布收费</title>
-      <link>https://www.v2ex.com/t/1258207</link>
-      <guid>v2ex-1258207</guid>
-      <pubDate>Thu, 19 Nov 2026 03:02:58 GMT</pubDate>
-      <description>&lt;a target=&quot;_blank&quot; href=&quot;https://uuyc.163.com/help/membershipbenefits.html&quot; rel=&quot;nofollow noopener&quot;&gt;https://uuyc.163.com/help/membershipbenefits.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;免费版：1080p 30fps 码率最高 8Mbps，不支持副屏/虚拟屏&lt;br /&gt;VIP：30/月 238/年 4K 144fps HDR，码率最高 500Mbps&lt;br /&gt;SVIP：98/月 758/年 在 VIP 基础上增加全球节点</description>
-    </item>
-    <item>
-      <title>求助帖：2 年被裁 3 次，简历花掉还能找到工作吗？</title>
-      <link>https://www.v2ex.com/t/1258214</link>
-      <guid>v2ex-1258214</guid>
-      <pubDate>Thu, 19 Nov 2026 03:26:48 GMT</pubDate>
-      <description>&lt;p&gt;首先先自我介绍下吧，本人女，29 岁，未婚未育，河南小镇做题家出身，南航本（飞行器动力工程）+南大硕（环境工程），希望不要被熟人刷到&lt;/p&gt;
-&lt;p&gt;目前从事信贷风控行业，由于前期发育不完善，策略经验不足，在 2025-2026 年接连被裁 3 次，简历花掉，找工作都是已读不回，还有负债，压力山大。&lt;/p&gt;
-&lt;p&gt;等现在这家离职，马上就要没有收入了，我其实挺慌的&lt;/p&gt;
-&lt;p&gt;如果现在开始没有收入的话，差不多明年 2 月就要逾了吧，我不想逾&lt;/p&gt;
-&lt;p&gt;还是想请 v 站的朋友帮忙出出主意给些建议吧，我现在的这种情况怎么样才能搞到点钱？除了搞钱之外，也希望对我的未来有一些指点吧&lt;/p&gt;
-&lt;p&gt;到底是继续在风控领域找工作？还是副业？还是说考公考编？&lt;/p&gt;
-&lt;p&gt;一方面在想我是不是能继续在风控策略领域找工作？因为其实现在简历太花了，有人说这简历已经烂到可以直接丢垃圾桶的程度了；&lt;/p&gt;
-&lt;p&gt;另一方面，在想现在是不是可以搞搞副业，今年 vibecoding 出来一些东西，也就从网友兜里掏了几千块钱出来吧，但对于负债来说差太远了&lt;/p&gt;
-&lt;p&gt;比较坦诚的讲下被裁的原因，也希望 v 友能从各个角度给点建议：如果我有幸找到下一份工作，怎么才能保住下一份工作？&lt;/p&gt;
-&lt;p&gt;以及在此处插入一条求职，如果有合适的工作（什么样的都行，您觉得我能干的都可以），请联系我，我私发简历&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1）第一家&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在携程，数仓组--风控策略工程师（听组别和岗位就会奇怪吧，这里埋下了大雷），工龄 2.5 年，25.07 被裁&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;岗位日常：&lt;/strong&gt; 给风控策略和模型同事打杂，负责策略和模型在内部引擎的上线；&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;被裁原因：&lt;/strong&gt; &lt;strong&gt;无核心业务资源+无数仓经验+无底牌&lt;/strong&gt;，就是那种感觉，要裁就是我了，是组里最没有用的那个人，别人要么做业务报表的开发，要么做模型特征的开发，但领导发现我只会打杂；&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;能干 2.5 年的原因：&lt;/strong&gt; 有一定的 PYTHON 编程能力（其实很菜），挺被我的第一任领导赏识的，维护了一些模型和开发了一些提效工具（其实就是本人日常工作当中有一些痛点，感觉可以直接用代码解决，本人又懒，所以本人喜欢折腾一些提效工具），还升职加薪了；但是第二任领导来了之后就让我滚蛋了，因为我日常没什么产出，只是把模型部署上线。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;为后续埋大雷的地方：&lt;/strong&gt; 感觉在这边根本就没有建立起来自己的核心竞争力，既不会做风控策略，又不会做数仓，除了打杂就是打杂；&lt;/p&gt;
-&lt;p&gt;2）第二家&lt;/p&gt;
-&lt;p&gt;在美团，策略组--风控策略工程师，0.5 年&lt;/p&gt;
-&lt;p&gt;被裁原因：根据第一家公司的经历可以得知，我本人其实没有任何风控策略经验，所以并不能很好完成领导交代的任务，因而被裁&lt;/p&gt;
-&lt;p&gt;3）第三家&lt;/p&gt;
-&lt;p&gt;某家 500 强银行的金服公司，贷后策略，0.5 年；&lt;/p&gt;
-&lt;p&gt;被裁原因：个人能力问题+工作态度不行+有更便宜的人选（工作被应届生接受）&lt;/p&gt;
-&lt;p&gt;这次被裁，我自身有需要承担的责任。一方面，工作难度不大能 cover 住，但策略经验不足，前期交付的内容不够成熟，虽然之后有所改进，但没能扭转领导的印象；另一方面，对这边管理风格不满意，所以工作起来非常的心累，就会导致动作变形。&lt;/p&gt;
-&lt;p&gt;领导比较强势，经常当众骂人，我很难适应这种管理方式。所以被裁之后，除了焦虑，我其实也松了一口气。&lt;/p&gt;
-&lt;p&gt;这次被裁之前，其实我有预感，因为当时确实是感觉组里进了很多新人，又不可能全留，而且因为这里薪资低，男生很少，+1 和+2 私下小窗聊天说要招男生，接替我工作的就是一个应届的男生。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其实在上一次从美团干 6 个月离职的时候，我就发现了找工作很难，我的简历去面策略，别人问我策略的东西，我都答不上来。不然的话，其实当时是有很多面试机会的，但是最后只有这家金服公司面过了，其他的都面不过&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>[回复抽奖] 自家种的赣南脐橙又上市了｜V 友券后 10 斤装 45 元、20 斤装 90 元</title>
-      <link>https://www.v2ex.com/t/1258199</link>
-      <guid>v2ex-1258199</guid>
-      <pubDate>Thu, 19 Nov 2026 02:48:05 GMT</pubDate>
-      <description>&lt;h2&gt;写在前面&lt;/h2&gt;
-&lt;p&gt;V 友们好，又到赣南脐橙上市的时候了。老家在江西赣州信丰，爸妈在家里打理果园。去年在 V 站发帖，收到不少 V 友的支持和反馈。今年继续来给爸妈吆喝一声，也照例抽两箱请大家尝尝。&lt;/p&gt;
-&lt;h2&gt;V 站特价和领券方式&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;规格&lt;/th&gt;
-&lt;th align=&quot;right&quot;&gt;V 友券后价&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;10 斤装精品果&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;45 元&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20 斤装精品果&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;90 元&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;包邮地区&lt;/strong&gt;　上海、江西、广东、湖南、湖北、安徽、江苏、福建、浙江、河南。发往这些地区，其他地区需另补运费差价。&lt;/p&gt;
-&lt;p&gt;微信关注公众号 &lt;strong&gt;老胡赣南脐橙&lt;/strong&gt;，公众号回复 &lt;code&gt;v2ex&lt;/code&gt;，即可领取 V 站专属大额优惠券。下单用券后就是上面的价格。也可以扫下方卡片左侧的二维码关注。&lt;/p&gt;
-&lt;h2&gt;回复抽奖&lt;/h2&gt;
+      <title>我的 App 火了，然后苹果威胁要关闭我的开发者账号</title>
+      <link>https://www.v2ex.com/t/1258411</link>
+      <guid>v2ex-1258411</guid>
+      <pubDate>Fri, 20 Nov 2026 00:29:25 GMT</pubDate>
+      <description>&lt;p&gt;我是 iOS 上安卓模拟器&lt;a href=&quot;https://apps.apple.com/us/app/andarium/id6827505184&quot; rel=&quot;nofollow&quot;&gt;Andarium&lt;/a&gt;的开发者。&lt;/p&gt;
+&lt;p&gt;昨天这个 App 通过苹果审核上架 App Store，结果很快在国内外都火了：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;奖品&lt;/strong&gt;　抽 2 位 V 友，每人一箱 10 斤装赣南脐橙。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;参与方式&lt;/strong&gt;　回复本帖即可免费参加。&lt;strong&gt;11 月 26 日（下周四）20:00&lt;/strong&gt; 截止，以当时本帖最后一条回复的楼层号为总楼层数。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;怎么算&lt;/strong&gt;　取 &lt;strong&gt;2026 年 11 月 26 日&lt;/strong&gt; 当期福彩快乐 8 和双色球各自公布的销售额，分别除以总楼层数取余，余数就是中奖楼层。某项销售额如果整除，就把该项当期所有开奖号码相加后再取余。仍为 0 则对应最后一楼。若两份奖命中同一人，第二份顺延给下一位回帖的 V 友，顺延到末楼后从首楼继续。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;开奖时间&lt;/strong&gt;　&lt;strong&gt;11 月 26 日（周四）晚&lt;/strong&gt;，两项销售额公布后在本帖附言公布中奖楼层。&lt;/li&gt;
+&lt;li&gt;X：&lt;a href=&quot;https://x.com/imxieyi/status/2123113325710225595&quot; rel=&quot;nofollow&quot;&gt;https://x.com/imxieyi/status/2123113325710225595&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IT 之家：&lt;a href=&quot;https://mp.weixin.qq.com/s/ujoPBioGoiKZM_bo8QSVQg&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/ujoPBioGoiKZM_bo8QSVQg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&quot;https://github.com/imxieyi/Kernarium&quot; rel=&quot;nofollow&quot;&gt;https://github.com/imxieyi/Kernarium&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;公众号和售后&lt;/h2&gt;
-&lt;p&gt;收到后可以先开箱，把果子放在阴凉通风处，也可以冷藏。收到有破损的话，拍照发给售后微信 &lt;strong&gt;laohu_gnqc&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806955_codex-clipboard-e4611f28-459c-4626-8da8-42fa23dae83b.png&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;老胡赣南脐橙公众号和售后卡&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806955_codex-clipboard-e4611f28-459c-4626-8da8-42fa23dae83b.png&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;今年的实拍&lt;/h2&gt;
-&lt;p&gt;点击照片可看原图。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806251__20261119101020_261_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;果园里刚采下的脐橙&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806251__20261119101020_261_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806396__20261119101021_262_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;周转筐里的脐橙&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806396__20261119101021_262_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806530__20261119101021_263_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;箱装脐橙&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806530__20261119101021_263_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806622__20261119101022_264_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;带叶脐橙近照&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806622__20261119101022_264_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806737__20261119101023_265_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;分箱打包现场&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806737__20261119101023_265_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://img3.pixhost.to/images/7277/810806906__20261119101024_266_83.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;装箱实拍&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://img3.pixhost.to/images/7277/810806906__20261119101024_266_83.jpg&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这个 App 也很快冲上了 App Store 排行榜。&lt;/p&gt;
+&lt;p&gt;今天早上一醒来就看到苹果发的邮件：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Hello Yi Xie,
+
+We&#39;re writing to inform you that your developer account is not in compliance with the Apple Developer Program License Agreement (“DPLA”).
+
+Section 3.2(f) states:
+
+You will not, directly or indirectly, commit any act intended to interfere with any of the Apple Software or Services, the intent of this Agreement, or Apple’s business practices including, but not limited to, taking actions that may hinder the performance or intended use of the App Store, Custom App Distribution, TestFlight, Xcode Cloud, Ad Hoc distribution, or the Program (e.g., submitting fraudulent reviews of Your own Application or any third-party application, choosing a name for Your Application that is substantially similar to the name of a third-party application in order to create consumer confusion, or squatting on application names to prevent legitimate third-party use). Further, you will not engage, or encourage others to engage, in any unlawful, unfair, misleading, fraudulent, improper, or dishonest acts or business practices relating to Your Covered Products or Corresponding Products (e.g., engaging in bait-and-switch pricing, consumer misrepresentation, deceptive business practices, or unfair competition against other developers).
+
+Because of the identified concerns app transfers are currently disabled.
+
+Be aware that manipulating App Store chart rankings, user reviews or search index may result in the loss of your developer program membership.
+
+Please address this issue promptly.
+
+Sincerely,
+Apple
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;没有给任何证据就指控我操控App Store排行榜，甚至威胁要关闭我的开发者账号。更搞人的是回复邮件被bounce了，因为发这封威胁邮件的地址不能收邮件。App目前也被强行从排行榜撤下。&lt;/p&gt;
+&lt;p&gt;这也太离谱了吧，那么多买量刷评分排行版的App没见被撤过，我的App全是自然流量反而被撤而且要被威胁关账号。&lt;/p&gt;
+&lt;p&gt;苹果专门欺负个人开发者吗？&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>人啊，没个释放压力的出口是真难受，大家都有什么可以释放压力的嗜好/爱好或者癖好？</title>
-      <link>https://www.v2ex.com/t/1258219</link>
-      <guid>v2ex-1258219</guid>
-      <pubDate>Thu, 19 Nov 2026 03:49:18 GMT</pubDate>
-      <description>&lt;h1&gt;食欲、性欲、睡欲、分享欲&lt;/h1&gt;
-&lt;p&gt;之前看到的一句话，大概是：人总得靠点什么东西撑下去，食欲、性欲、睡欲、分享欲。&lt;/p&gt;
-&lt;p&gt;是啊，高压力之后，总得找个方式解解乏，可能需要某个特定的行为，最简单的就是抽烟、喝酒，通过熟悉的行为，刺激多巴胺释放压力。&lt;/p&gt;
-&lt;h1&gt;现状&lt;/h1&gt;
-&lt;p&gt;90 后北漂中，单身，程序员，压力时常有，但没方法、没途径释放，&lt;/p&gt;
-&lt;p&gt;所以总感觉憋得慌，六日/假期没事就会离开北京，去溜达，&lt;/p&gt;
-&lt;p&gt;不然在北京呆着就感觉一直没放松下来，对我而言北京就是个上班的地方，北京的那些景点都没啥兴趣。&lt;/p&gt;
-&lt;p&gt;周边的秦皇岛、张家口、赤峰都去过好多次了，并不是想去玩，单纯就是想远离北京换个地方溜达。&lt;/p&gt;
-&lt;h1&gt;压力没个正经出口&lt;/h1&gt;
-&lt;p&gt;我对抽烟喝酒没啥兴趣，也不会抽烟，就是偶尔自己喝点啤酒，刷着 B 站自己就着下酒菜，喝完在小象超市上买的 1L 啤酒，只能说还凑活，毕竟吃东西挺爽。&lt;/p&gt;
-&lt;p&gt;抽烟喝酒其实挺爽的，有时候会梦到自己抽烟抽的吞云吐雾，但小时候被大人们抽烟熏的以及经常见耍酒疯的，可能就天然排斥这些。&lt;/p&gt;
-&lt;p&gt;打游戏吧，除了小时候红白机玩的凑活，现在的吃鸡、LOL、CF、王者荣耀，玩的很一般，遇到队友坑还容易抓狂，所以也没啥意思。&lt;/p&gt;
-&lt;h1&gt;打个飞机&lt;/h1&gt;
-&lt;p&gt;要说有能释放压力的爱好，那可能就是打飞机了，&lt;/p&gt;
-&lt;p&gt;打飞机也没啥好羞耻的，单身青年，只不过原来没有这方面的知识、引导，导致年轻的时候有点成瘾了，欲望也非常大。&lt;/p&gt;
-&lt;p&gt;从初中开始就打，那时候怎么整都不射，都磨破皮了，现在不行了，挺快的，大脑已经形成条件反射了吧，想尽快达到“射”的那刻，分泌多巴胺让自己愉悦，所有现在还挺焦虑，担心实战时太快，晨勃也少了，哎，都是当年的放纵不克制。&lt;/p&gt;
-&lt;h1&gt;总是焦虑&lt;/h1&gt;
-&lt;p&gt;慢下来的事情我都没法专注，我也想过培养关于“咖啡”的爱好，至少不伤害身体，也能通过特定的行为达到放松，比如慢悠悠的冲个咖啡，一步步来，但我发现自己对慢慢做的事情都沉不下心来，总感觉还有很多事没做，应该学很多的东西，对未来也满满的焦虑，一旦人慢下来了就慌，&lt;/p&gt;
-&lt;p&gt;喝咖啡吧，我貌似对咖啡因敏感，喝完心跳加快，但的确会放松不少，精力也多了些，&lt;/p&gt;
-&lt;p&gt;早上一杯瑞幸的话，午休肯定睡不着，有时候晚上也难以入睡，不过现在掌握规律了，喝完咖啡后白天大量喝水，晚上就还行。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;想问问大家有啥释放压力的嗜好/爱好，甚至癖好，想照抄照抄&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>哎 裁员了 好难受</title>
-      <link>https://www.v2ex.com/t/1258180</link>
-      <guid>v2ex-1258180</guid>
-      <pubDate>Thu, 19 Nov 2026 01:55:26 GMT</pubDate>
-      <description>&lt;p&gt;国内一家公司出海, 我在的海外实体签的&lt;strong&gt;Service Agreement(服务合同)&lt;/strong&gt; 远程办公&lt;/p&gt;
-&lt;p&gt;然后昨天 HR 通知我项目不行/不盈利,直接关业务了.  所以服务合同终止, 也没有赔偿(这个有预期,签的时候知道是服务合同)&lt;/p&gt;
-&lt;p&gt;其实早有预感项目不行, 只是没想到这一天来的这么快. 然后突然收到这个消息,感觉挺难受的. 因为在老家&lt;strong&gt;浙江宁波, 简直是互联网荒漠&lt;/strong&gt;, 原来毕业就在深圳/杭州/上海待了七年回到宁波, 有点不想再出去了. &lt;/p&gt;
-&lt;p&gt;现在这个情况宁波非常难找工作.  有些焦虑. 害&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>程序员的双重暴击之继就业寒冬后的投资暴雷</title>
-      <link>https://www.v2ex.com/t/1258173</link>
-      <guid>v2ex-1258173</guid>
-      <pubDate>Thu, 19 Nov 2026 01:42:55 GMT</pubDate>
-      <description>买了 12 年的鲸鱼宝暴雷了，一夜回到解放前😭&lt;br /&gt;&lt;br /&gt;赚钱不容易，大家理性投资，守住本金</description>
+      <title>结婚后对象想买特斯拉 model y</title>
+      <link>https://www.v2ex.com/t/1258451</link>
+      <guid>v2ex-1258451</guid>
+      <pubDate>Fri, 20 Nov 2026 02:27:13 GMT</pubDate>
+      <description>婚前一直没买车，结婚后对象想买个特斯拉，看了看落地要 27 左右，对象电车只考虑特斯拉。我现在的用车场景不多，我现在每周都高铁回去。落地 27w 感觉还是贵，心里还是不想买，对象说他出一部分但是我还是不想买，怕之后生小孩没钱。</description>
     </item>
     <item>
       <title>我的悲哀 我父母的悲哀</title>
@@ -164,6 +54,18 @@
       <guid>v2ex-1258332</guid>
       <pubDate>Thu, 19 Nov 2026 09:19:21 GMT</pubDate>
       <description>要我父母去邻里亲戚问问，有没有转行的门路。我父妈来一句，我们是农民，去找谁问。谁家有亲亲，都不能帮他找到工作。反正只能靠我自了。我想起几年前，要我找对象，也是说我们是农民，只能靠你自己。</description>
+    </item>
+    <item>
+      <title>小弟需要贷款，想问下各路大佬怎么找到性价比最高的途径</title>
+      <link>https://www.v2ex.com/t/1258362</link>
+      <guid>v2ex-1258362</guid>
+      <pubDate>Thu, 19 Nov 2026 11:56:09 GMT</pubDate>
+      <description>&lt;ol&gt;
+&lt;li&gt;我女朋友上学需要缴纳学费 18w，小弟没有攒钱，想贷款一下，怎么找利率最低的方式？&lt;/li&gt;
+&lt;li&gt;无法助学贷，上的是 HK，家庭条件也不符合要求。&lt;/li&gt;
+&lt;li&gt;我目前工资到手每个月是十几，月消费应该是 6-8，无房无车&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     <item>
       <title>统计了 V2EX 近 15 年提到「裁员」或「失业」的帖子</title>
@@ -260,11 +162,71 @@
 </description>
     </item>
     <item>
-      <title>升降办公桌好用么？这里有人用过么？</title>
-      <link>https://www.v2ex.com/t/1258259</link>
-      <guid>v2ex-1258259</guid>
-      <pubDate>Thu, 19 Nov 2026 05:57:01 GMT</pubDate>
-      <description>升降桌，坐久了，可以站着敲字&lt;br /&gt;&lt;br /&gt; 这种桌子的体验怎样？&lt;br /&gt; &lt;br /&gt; 用过的朋友可以分享一下使用体验</description>
+      <title>因为工作老生气,然后想了解一下看的观点是不是信息茧房</title>
+      <link>https://www.v2ex.com/t/1258423</link>
+      <guid>v2ex-1258423</guid>
+      <pubDate>Fri, 20 Nov 2026 01:09:05 GMT</pubDate>
+      <description>&lt;h2&gt;起因&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;同事 A 平时就吹国外模型牛,用 gpt pro 会员. &lt;/li&gt;
+&lt;li&gt;最近和 A 冲突, 他不懂我项目代码,但是之前开发一直用我的系统,知道业务. 一直想完全用 AI 改我代码, 我很反感.  闹到大领导那,也就是打马虎眼, 说不要吵架.尽量不要互相改. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;目前想法&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;我还是觉得 vibe coding ,harness ,agent 之类要有约束,审核之类还是需要人来有把控, 最近反正是经常看各种开源项目,能快速理解不同场景/行业/不同开发语言的 项目, 然后遇到各种需求可以快速应对.反正是想这离职.&lt;/li&gt;
+&lt;li&gt;还是感觉自己太较真, 对工作, 不管是加班还是开发. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;问题&lt;/h2&gt;
+&lt;p&gt;昨天看了个&lt;a href=&quot;https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/&quot; rel=&quot;nofollow&quot;&gt;世界靠在乎的聪明人维系&lt;/a&gt;  , 文章列举了就在这几天（2026 年 11 月中旬）接连发生的微软 365 宕机、FAA 空中交通管制停飞、美联航系统故障、NSA 网络降级、各大银行和苹果服务中断。作者认为：&lt;strong&gt;一线“聪明且较真的人”不够用了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我肯定是没有达到这种聪明人水平, 但是还是想了解一下这种想法的人多不多.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>老婆就是要买，各位能想想办法吗</title>
+      <link>https://www.v2ex.com/t/1258328</link>
+      <guid>v2ex-1258328</guid>
+      <pubDate>Thu, 19 Nov 2026 09:10:33 GMT</pubDate>
+      <description>给小孩拍照片，老婆嫌弃人家贵，想自己奶买，以前也没玩过微单，毕竟也不便宜，怕冲动消费最后吃灰。&lt;br /&gt;机器考虑：尼康 z8&lt;br /&gt;镜头: 待定&lt;br /&gt;有没有买过之后一直吃灰的过来人劝一下。</description>
+    </item>
+    <item>
+      <title>牵手、亲吻之后，第二天却被告知不想继续了</title>
+      <link>https://www.v2ex.com/t/1258512</link>
+      <guid>v2ex-1258512</guid>
+      <pubDate>Fri, 20 Nov 2026 05:10:41 GMT</pubDate>
+      <description>&lt;p&gt;前段时间认识了一个女生，见了三次面，整体感觉都挺好的。聊天比较顺畅，约会也很合拍，第二次见面的时候牵了手，分别时还简单亲了一下。当时确实觉得双方是在互相靠近，所以对后续也有一些期待。&lt;/p&gt;
+&lt;p&gt;第三次见面后计划下次见面正式表白，结果第二天晚上，她突然发消息说，自己认真考虑了一下，觉得还是不继续发展比较好。&lt;/p&gt;
+&lt;p&gt;她解释说不是我的问题，主要是她刚转岗，最近状态比较乱。之前可能只是比较需要有人陪伴，并没有真正想清楚自己的心意。觉得这样继续下去对双方都不太公平，所以希望退回普通朋友。&lt;/p&gt;
+&lt;p&gt;收到消息的时候还是挺难受的。毕竟前几次相处都不错，也没感觉到什么明显的不对劲。最后我也只是回复说理解，尊重她的决定，没有再挽留。&lt;/p&gt;
+&lt;p&gt;这几天冷静下来，还是有点想不明白。&lt;/p&gt;
+&lt;p&gt;见面时的氛围、聊天时的反馈，包括牵手和亲吻这些互动，都让我觉得双方是在互相靠近。但现在回头看，又不确定是自己把这些信号理解得太乐观了，还是她当时确实有过好感，只是后来想清楚了，发现自己并没有继续发展的意愿。&lt;/p&gt;
+&lt;p&gt;今年 26 岁，上海互联网公司程序员，185/75，平时生活比较简单，工作之外的社交圈也比较窄。以前觉得遇到聊得来、相处舒服的人，就正常约会，慢慢了解，顺其自然就好。这次经历之后，反而有点不知道该怎么判断了。&lt;/p&gt;
+&lt;p&gt;想问问 V 站的朋友几个问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;大家平时都是通过什么渠道认识女生的？有什么比较推荐的方式？&lt;/li&gt;
+&lt;li&gt;刚认识一个女生时，怎么判断她是真的对你有好感，还是只是需要陪伴？&lt;/li&gt;
+&lt;li&gt;如果前期相处很好，也有牵手、亲吻这样的亲密互动，后面应该怎么把握关系推进的节奏？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;没有责怪女生的意思，每个人都有选择的权利，也理解她可能确实还没准备好。只是自己之前没怎么遇到过这种情况，有点想听听大家的真实经历和看法，也算给自己积累点经验。&lt;/p&gt;
+&lt;p&gt;感谢各位。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>X 也被封了，难受</title>
+      <link>https://www.v2ex.com/t/1258429</link>
+      <guid>v2ex-1258429</guid>
+      <pubDate>Fri, 20 Nov 2026 01:24:55 GMT</pubDate>
+      <description>&lt;p&gt;昨晚手贱填了下生日，想装嫩故意把年龄填成 20，然后被秒封，理由是注册的时候未满 13 岁。。啊！怎么还能这样&lt;br/&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/ZiPSKHi.png&quot;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>不是，鸽们，你 6</title>
+      <link>https://www.v2ex.com/t/1258420</link>
+      <guid>v2ex-1258420</guid>
+      <pubDate>Fri, 20 Nov 2026 01:01:45 GMT</pubDate>
+      <description>&lt;p&gt;这么冷的天，你还穿短袖，搞不明白，表示尊重，不过我还是佩服你&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/H8qQJfN.jpeg&quot;/&gt;&lt;/p&gt;
+</description>
     </item>
   </channel>
 </rss>
