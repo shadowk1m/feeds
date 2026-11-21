@@ -4,70 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Fri, 20 Nov 2026 23:12:25 GMT</lastBuildDate>
-    <item>
-      <title>我的 App 火了，然后苹果威胁要关闭我的开发者账号</title>
-      <link>https://www.v2ex.com/t/1258411</link>
-      <guid>v2ex-1258411</guid>
-      <pubDate>Fri, 20 Nov 2026 00:29:25 GMT</pubDate>
-      <description>&lt;p&gt;我是 iOS 上安卓模拟器&lt;a href=&quot;https://apps.apple.com/us/app/andarium/id6827505184&quot; rel=&quot;nofollow&quot;&gt;Andarium&lt;/a&gt;的开发者。&lt;/p&gt;
-&lt;p&gt;昨天这个 App 通过苹果审核上架 App Store，结果很快在国内外都火了：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;X：&lt;a href=&quot;https://x.com/imxieyi/status/2123113325710225595&quot; rel=&quot;nofollow&quot;&gt;https://x.com/imxieyi/status/2123113325710225595&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;IT 之家：&lt;a href=&quot;https://mp.weixin.qq.com/s/ujoPBioGoiKZM_bo8QSVQg&quot; rel=&quot;nofollow&quot;&gt;https://mp.weixin.qq.com/s/ujoPBioGoiKZM_bo8QSVQg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub: &lt;a href=&quot;https://github.com/imxieyi/Kernarium&quot; rel=&quot;nofollow&quot;&gt;https://github.com/imxieyi/Kernarium&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这个 App 也很快冲上了 App Store 排行榜。&lt;/p&gt;
-&lt;p&gt;今天早上一醒来就看到苹果发的邮件：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Hello Yi Xie,
-
-We&#39;re writing to inform you that your developer account is not in compliance with the Apple Developer Program License Agreement (“DPLA”).
-
-Section 3.2(f) states:
-
-You will not, directly or indirectly, commit any act intended to interfere with any of the Apple Software or Services, the intent of this Agreement, or Apple’s business practices including, but not limited to, taking actions that may hinder the performance or intended use of the App Store, Custom App Distribution, TestFlight, Xcode Cloud, Ad Hoc distribution, or the Program (e.g., submitting fraudulent reviews of Your own Application or any third-party application, choosing a name for Your Application that is substantially similar to the name of a third-party application in order to create consumer confusion, or squatting on application names to prevent legitimate third-party use). Further, you will not engage, or encourage others to engage, in any unlawful, unfair, misleading, fraudulent, improper, or dishonest acts or business practices relating to Your Covered Products or Corresponding Products (e.g., engaging in bait-and-switch pricing, consumer misrepresentation, deceptive business practices, or unfair competition against other developers).
-
-Because of the identified concerns app transfers are currently disabled.
-
-Be aware that manipulating App Store chart rankings, user reviews or search index may result in the loss of your developer program membership.
-
-Please address this issue promptly.
-
-Sincerely,
-Apple
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;没有给任何证据就指控我操控App Store排行榜，甚至威胁要关闭我的开发者账号。更搞人的是回复邮件被bounce了，因为发这封威胁邮件的地址不能收邮件。App目前也被强行从排行榜撤下。&lt;/p&gt;
-&lt;p&gt;这也太离谱了吧，那么多买量刷评分排行版的App没见被撤过，我的App全是自然流量反而被撤而且要被威胁关账号。&lt;/p&gt;
-&lt;p&gt;苹果专门欺负个人开发者吗？&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>结婚后对象想买特斯拉 model y</title>
-      <link>https://www.v2ex.com/t/1258451</link>
-      <guid>v2ex-1258451</guid>
-      <pubDate>Fri, 20 Nov 2026 02:27:13 GMT</pubDate>
-      <description>婚前一直没买车，结婚后对象想买个特斯拉，看了看落地要 27 左右，对象电车只考虑特斯拉。我现在的用车场景不多，我现在每周都高铁回去。落地 27w 感觉还是贵，心里还是不想买，对象说他出一部分但是我还是不想买，怕之后生小孩没钱。</description>
-    </item>
-    <item>
-      <title>因为工作老生气,然后想了解一下看的观点是不是信息茧房</title>
-      <link>https://www.v2ex.com/t/1258423</link>
-      <guid>v2ex-1258423</guid>
-      <pubDate>Fri, 20 Nov 2026 01:09:05 GMT</pubDate>
-      <description>&lt;h2&gt;起因&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;同事 A 平时就吹国外模型牛,用 gpt pro 会员. &lt;/li&gt;
-&lt;li&gt;最近和 A 冲突, 他不懂我项目代码,但是之前开发一直用我的系统,知道业务. 一直想完全用 AI 改我代码, 我很反感.  闹到大领导那,也就是打马虎眼, 说不要吵架.尽量不要互相改. &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;目前想法&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;我还是觉得 vibe coding ,harness ,agent 之类要有约束,审核之类还是需要人来有把控, 最近反正是经常看各种开源项目,能快速理解不同场景/行业/不同开发语言的 项目, 然后遇到各种需求可以快速应对.反正是想这离职.&lt;/li&gt;
-&lt;li&gt;还是感觉自己太较真, 对工作, 不管是加班还是开发. &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;问题&lt;/h2&gt;
-&lt;p&gt;昨天看了个&lt;a href=&quot;https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/&quot; rel=&quot;nofollow&quot;&gt;世界靠在乎的聪明人维系&lt;/a&gt;  , 文章列举了就在这几天（2026 年 11 月中旬）接连发生的微软 365 宕机、FAA 空中交通管制停飞、美联航系统故障、NSA 网络降级、各大银行和苹果服务中断。作者认为：&lt;strong&gt;一线“聪明且较真的人”不够用了。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我肯定是没有达到这种聪明人水平, 但是还是想了解一下这种想法的人多不多.&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 21 Nov 2026 04:05:19 GMT</lastBuildDate>
     <item>
       <title>牵手、亲吻之后，第二天却被告知不想继续了</title>
       <link>https://www.v2ex.com/t/1258512</link>
@@ -91,15 +28,6 @@ Apple
 </description>
     </item>
     <item>
-      <title>X 也被封了，难受</title>
-      <link>https://www.v2ex.com/t/1258429</link>
-      <guid>v2ex-1258429</guid>
-      <pubDate>Fri, 20 Nov 2026 01:24:55 GMT</pubDate>
-      <description>&lt;p&gt;昨晚手贱填了下生日，想装嫩故意把年龄填成 20，然后被秒封，理由是注册的时候未满 13 岁。。啊！怎么还能这样&lt;br/&gt;
-&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/ZiPSKHi.png&quot;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>95 年生，今年 31，准备买辆车，想听听兄弟们的建议。</title>
       <link>https://www.v2ex.com/t/1258549</link>
       <guid>v2ex-1258549</guid>
@@ -110,47 +38,192 @@ Apple
 </description>
     </item>
     <item>
-      <title>不是，鸽们，你 6</title>
-      <link>https://www.v2ex.com/t/1258420</link>
-      <guid>v2ex-1258420</guid>
-      <pubDate>Fri, 20 Nov 2026 01:01:45 GMT</pubDate>
-      <description>&lt;p&gt;这么冷的天，你还穿短袖，搞不明白，表示尊重，不过我还是佩服你&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/H8qQJfN.jpeg&quot;/&gt;&lt;/p&gt;
+      <title>分享点个人焦虑</title>
+      <link>https://www.v2ex.com/t/1258521</link>
+      <guid>v2ex-1258521</guid>
+      <pubDate>Fri, 20 Nov 2026 05:49:41 GMT</pubDate>
+      <description>&lt;p&gt;已过 30 岁生日，从毕业到现在，已经在一线城市漂泊 8 年。&lt;br/&gt;
+本人只是普通民办本科毕业，从事开发工作，并且收入已经达到人生顶峰（个人认为未来只会下跌）。&lt;br/&gt;
+事业上我已经非常满足了，类似于完成了人生目标一样，以前都不敢想自己能赚这么多钱。（简单说就是家里省会房车全款都有了，还有点存款）
+但是爱情上却一直有遗憾，面对当前这个变局下也有很大的纠结和焦虑，主要集中在几个点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;这份工作大概率是最后一份高薪工作了，我知道自己的背景在离职后不可能再找到相同薪资的工作，哪怕腰斩估计都很难。
+不过我在这一行干的也挺累了，再加上家里只有母亲一人，所以迟早要回去的。我也知足了，打算干到离职就回五线小城市的家退休了。
+只是不知道回家该干嘛了，有时候想想回去当个保安领领社保也不错。反正未来基本就是 期待+迷茫 吧。&lt;/li&gt;
+&lt;li&gt;妈妈对我结婚挺急的，我自己本人也有点急吧，奈何现实条件约束下很难找对象。
+核心原因是不知道该找哪的，一线城市找吧，我迟早要回家，以后不愿意跟我回去怎么办呢，留在一线反而压力大。
+在家里找吧，距离太远，每次飞机单程 3 个小时，以前找过这种，最后也都是很难坚持异地。
+并且自己也不知道啥时候能回去，总想着多干两年，干到领 N+1。但是感觉越干越稳， N+1 又有点遥遥无期，除非我领导走了，估计我才会被裁掉吧。&lt;/li&gt;
+&lt;li&gt;因为我家条件不算好，妈妈只是市场摆摊卖东西的。所以有时候也在幻想，找个家里本地的条件好的，回去了直接继承岳父事业该多好。但是很现实，这类家庭的女生也看不上我家。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;说这么多，主要就是想说，在现在这个经济情况下，赚差不多干脆就摆烂吧，经济反正是没救了，还是多焦虑下生活和家庭。&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>GTA6 是在 GTA 当力工的日子？</title>
-      <link>https://www.v2ex.com/t/1258427</link>
-      <guid>v2ex-1258427</guid>
-      <pubDate>Fri, 20 Nov 2026 01:13:15 GMT</pubDate>
-      <description>&lt;p&gt;有没有买游戏的老哥，说下真伪。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/7j2vuNo.jpeg&quot;/&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/94HJ9xV.jpeg&quot;/&gt;&lt;/p&gt;
+      <title>在清华读了一年非全后的感受</title>
+      <link>https://www.v2ex.com/t/1258591</link>
+      <guid>v2ex-1258591</guid>
+      <pubDate>Fri, 20 Nov 2026 08:08:10 GMT</pubDate>
+      <description>1.世界是个巨大的草台班子，包括清华&lt;br /&gt;2.在清华没有人会督促你学习，需要更多的自制力，你很自由，除了你自己没有人会为你负责&lt;br /&gt;3.清华的绝大部分的学生很努力很卷，很多学生比上班的人累&lt;br /&gt;4.清华的资源多的超出想象，能获得的视野也完全不同&lt;br /&gt;5.如果孩子能考上清华，很建议去读</description>
+    </item>
+    <item>
+      <title>分享个出租屋男女的故事</title>
+      <link>https://www.v2ex.com/t/1258542</link>
+      <guid>v2ex-1258542</guid>
+      <pubDate>Fri, 20 Nov 2026 06:30:18 GMT</pubDate>
+      <description>&lt;p&gt;房间格局及场景我是请豆包画的，基本还原&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/KNK8ce7.jpeg&quot;/&gt; &lt;/p&gt;
+&lt;p&gt;我在公司周围租了个单间，离公司近在打卡范围内很爽，环境位置也不错，我经常下班去浮山爬山。&lt;/p&gt;
+&lt;p&gt;一天晚上我从公园溜达回来，看到了上面场景，这个老哥也太入迷了我开了门进房间他从地上弹跳了起来。&lt;/p&gt;
+&lt;p&gt;我没说话进房间了，但是回想一下感觉很不对，此时洗手间有人在洗澡，就我们三个租房子，那么洗澡的是女生，那么这小子应该就是在偷窥？&lt;/p&gt;
+&lt;p&gt;我不敢确认，于是仔细听客厅动静又听到了衣服悉悉索索摩擦的声音，我刚进门虽然惊扰到了这个小子但是他也是色胆包天竟然在从洗手间门下的通风框的间隙中继续偷窥，并在起飞。。&lt;/p&gt;
+&lt;p&gt;过了好一会女生洗澡出来回房间里了，客厅也没人了，我写了个小纸条约女生下楼聊。&lt;/p&gt;
+&lt;p&gt;我先下了楼，一会女生也下来了，我把她被偷窥的事情告诉了她，并建议下次洗澡可以把手机隐蔽放到电视柜录像&lt;/p&gt;
+&lt;p&gt;过了两天她发我微信说抓住现行了，我建议她报警，之后她接受了金钱赔偿与道歉信了解了。。&lt;/p&gt;
+&lt;p&gt;然后他们双双搬出了这个房子，清净了~&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Claude 真的吹过头了吗？实测下来很多场景还不如 GPT</title>
-      <link>https://www.v2ex.com/t/1258440</link>
-      <guid>v2ex-1258440</guid>
-      <pubDate>Fri, 20 Nov 2026 02:01:39 GMT</pubDate>
-      <description>&lt;p&gt;最近在项目里折腾了一圈，感觉网传 Claude 强到没边的说法有点滤镜了，不少场景下甚至觉得还不如 GPT。&lt;/p&gt;
-&lt;p&gt;说说几个直观感受：&lt;/p&gt;
-&lt;p&gt;模型与稳定性：项目里用 6 astra、6.1 sol 大多数时候还行，但切到 opus5.5/fable 5.2 反而偶尔冒出些 bug 得回头修；新出的 6.2 sol 体验也挺让人失望的，功能做到一半就歇菜了。GPT 不上 200 元的套餐就不耐用。&lt;/p&gt;
-&lt;p&gt;前端与审美：之前看不少人说 Claude 写前端强，拿它重构了一版官网，结果出来的黑+棕绿色调并没有多惊艳，审美上甚至不如之前用 5.6 再靠 6 astra 慢慢磨出来的版本。GPT 那边则是文案和代码风格经常偏“糙”，但底子能力其实不差。&lt;/p&gt;
-&lt;p&gt;交互与工作流：工具层面 Claude Code 确实挺讨喜，每干完一段活会给个确认/提交的交互，点一下就能顺着往下走，这点在 Codex 里我还没怎么见到类似体验。&lt;/p&gt;
-&lt;p&gt;整体给我的感觉有点像 Claude 偏精致路线（类比于 Apple)、GPT 偏重型/硬核路线(类比于 Google)，但真用到复杂任务和稳定性上，未必像吹得那么神。大家日常主力用哪家&lt;/p&gt;
+      <title>[送码] 波波小红书获客助手：养号、AI 自动评论、自动发现线索（自己天天在用的小工具）</title>
+      <link>https://www.v2ex.com/t/1258559</link>
+      <guid>v2ex-1258559</guid>
+      <pubDate>Fri, 20 Nov 2026 07:04:33 GMT</pubDate>
+      <description>&lt;p&gt;我是 gybin02，之前在这儿发过这个小工具的介绍帖，这次换个方式：直接送码。&lt;/p&gt;
+&lt;p&gt;做小红书最耗时间的就是每天那几件重复活，这个工具就是替你干这些的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;推荐流养号：自动停留、点赞、浏览，贴着真人的节奏来，号不用你整天手动刷着保活跃。&lt;/li&gt;
+&lt;li&gt;AI 意向评论：AI 先读懂笔记内容，再按内容现写一条自然的评论，自动发出去，不是复制粘贴的群发灌水。&lt;/li&gt;
+&lt;li&gt;静默查找线索：按关键词、或者盯着指定的爆款笔记，自动去评论区里发现意向用户，进独立看板，一键导出 CSV 表格，拿着就能跟进。&lt;/li&gt;
+&lt;li&gt;多账号人设档案：每个号单独存关键词和 AI 提示词，内置博主模板，一键切换。&lt;/li&gt;
+&lt;li&gt;通知与私信自动回复：有人评论你、私信你，自动回上，不漏客。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;送码的规则很简单，照着一个我觉得做得很好的帖子学的：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;回帖就能拿：前 50 条有效回帖，人人送 30 天版&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;回帖里留邮箱（怕被爬就 Base64 编一下），再答一句：你现在怎么找小红书上的意向客户、回评论，最烦的是哪一步？&lt;/li&gt;
+&lt;li&gt;一人只认第一条回帖，多号只算一个。&lt;/li&gt;
+&lt;li&gt;激活码我批量发到你留的邮箱里，楼里只贴已发送名单对账，码本身不进帖子；没收到先翻垃圾箱。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;先说清楚的限制：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这次送的是 30 天版：激活码拿到后 30 天内要在应用内粘贴激活，首次激活绑定设备，从激活那天起算 30 天。到期想继续用，永久版 ¥19.9 终身买断，不会自动扣费。&lt;/li&gt;
+&lt;li&gt;评论是 AI 读完笔记内容现写、自动发出的；间隔、上限、关键词过滤这些参数都能自己调，建议从保守的节奏开始，别一上来就拉满。&lt;/li&gt;
+&lt;li&gt;楼里的每一条我都会认真回：有的功能就指路，没有的我记下来，加上后回来 @ 你。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chrome 商店：&lt;a href=&quot;https://chromewebstore.google.com/detail/iokmpbpakmcjmmpjeefhhnjmbgcphhbh&quot; rel=&quot;nofollow&quot;&gt;https://chromewebstore.google.com/detail/iokmpbpakmcjmmpjeefhhnjmbgcphhbh&lt;/a&gt;
+Edge 商店：&lt;a href=&quot;https://microsoftedge.microsoft.com/addons/detail/jidbkgheipnafopdgfodcdnpdnampedi&quot; rel=&quot;nofollow&quot;&gt;https://microsoftedge.microsoft.com/addons/detail/jidbkgheipnafopdgfodcdnpdnampedi&lt;/a&gt;
+&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://xhs.tihub.com/promo/xhs/shot-hero.jpg?v=20261119&quot;/&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>听过 ICQ 没？OICQ？做了个 OICU</title>
-      <link>https://www.v2ex.com/t/1258464</link>
-      <guid>v2ex-1258464</guid>
-      <pubDate>Fri, 20 Nov 2026 02:45:42 GMT</pubDate>
-      <description>&lt;p&gt;向无聊致敬。&lt;/p&gt;
-&lt;p&gt;好多个 6 位号丢了遗憾中。&lt;/p&gt;
-&lt;p&gt;密码默认虚拟的，直接登录就行。&lt;/p&gt;
-&lt;h2&gt;电梯直达&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://8pc.net/#lang=zh&amp;amp;open=oicu&quot; rel=&quot;nofollow&quot;&gt;https://8pc.net/#lang=zh&amp;amp;open=oicu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;功能不断改进中&lt;/p&gt;
+      <title>黎曼猜想被证明了？</title>
+      <link>https://www.v2ex.com/t/1258665</link>
+      <guid>v2ex-1258665</guid>
+      <pubDate>Fri, 20 Nov 2026 14:53:55 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;http://alpo.ge/remark.pdf&quot; rel=&quot;nofollow&quot;&gt;alpo.ge/remark.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>[更新] iPhone 上远程使用 ClaudeCode 等 Coding Agent 的 UULink 重磅更新，这回征集 Windows 测试用户，另外还是长期送兑换码给真正需要的朋友</title>
+      <link>https://www.v2ex.com/t/1258620</link>
+      <guid>v2ex-1258620</guid>
+      <pubDate>Fri, 20 Nov 2026 09:35:27 GMT</pubDate>
+      <description>&lt;p&gt;大家好 👋 一个月前我在这里发布了 UULink 的第一个版本（&lt;a href=&quot;https://www.v2ex.com/t/1252201&quot; rel=&quot;nofollow&quot;&gt;写了个 iPhone 远程用 Mac 上 Claude Code / Codex 的 App，不用内网穿透，送 月卡&lt;/a&gt;），收到了近 4k 次点击和不少回复，也按约定给大家送出了不少兑换码，谢谢大家捧场 🙏&lt;/p&gt;
+&lt;p&gt;这一个月我把大部分业余时间都花在了 UULink 上，做了不少改进，希望大家喜欢～&lt;/p&gt;
+&lt;h2&gt;👀 第一次看到 UULink？&lt;/h2&gt;
+&lt;p&gt;一句话：&lt;strong&gt;用手机远程操控电脑上的 Claude Code、Codex 等 AI 编程助手。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;1. 🔌 内置内网穿透，零配置&lt;/h3&gt;
+&lt;p&gt;电脑上装一个 UULink（Mac 菜单栏 / Windows 托盘），手机在 App Store 装 UULink，扫码配对就能用。不用配置网络，也不用装 Tailscale、frp 这类内网穿透工具。&lt;/p&gt;
+&lt;h3&gt;2. 🔔 推送通知 + 灵动岛，离开电脑也不错过&lt;/h3&gt;
+&lt;p&gt;在手机上新建会话、发消息、看 AI 改了哪些代码、批准它要执行的命令。AI 跑完或者等你批准时会推送提醒，灵动岛和锁屏上能直接看进度。&lt;/p&gt;
+&lt;h3&gt;3. 🤖 主流 Coding Agent 都支持&lt;/h3&gt;
+&lt;p&gt;Claude Code、Codex、Cursor、opencode、Qoder CLI、DeepSeek Harness、Pi、Antigravity，新建会话时随便选。&lt;/p&gt;
+&lt;h3&gt;4. 🔒 P2P 直连 + 端到端加密&lt;/h3&gt;
+&lt;p&gt;手机和电脑点对点直连、端到端加密，对话和代码不经过我们的服务器。打不通时经中继转发，中继也看不到内容，国内有中继节点。不占手机的 VPN。&lt;/p&gt;
+&lt;h3&gt;5. 📂 手机上直接看文件、传文件，还能远程操作电脑&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;看文件&lt;/strong&gt;：会话页右上角可以浏览项目文件夹，点开就能看，代码有行号和语法高亮，Markdown、Mermaid 直接渲染。AI 回复里的 &lt;code&gt;src/app.ts:42&lt;/code&gt; 这种路径点一下就打开，还会跳到对应行。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;引用文件&lt;/strong&gt;：输入栏「+」→「引用文件」，选几个电脑上的文件，以 &lt;code&gt;@路径&lt;/code&gt; 插进输入框，AI 会去读。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;传文件&lt;/strong&gt;：「+」→「选取文件」，把手机里的 PDF、表格、代码传到项目文件夹，和消息一起发给 AI。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;远程操作电脑&lt;/strong&gt;：内置所有 Agent 通用的 Computer Use，遇到急事可以让 AI 帮你远程操作电脑（目前仅 Mac）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🚀 这一个月更新了什么？&lt;/h2&gt;
+&lt;h3&gt;1. 🪟 支持 Windows 啦！&lt;/h3&gt;
+&lt;p&gt;这也是发这个帖子的主要目的：&lt;strong&gt;Windows 版目前是 Beta，正在招募测试用户！&lt;/strong&gt; 装好之后手机扫码配对，用法和 Mac 版一样。不需要管理员权限，开机自启，自带自动更新。暂时还不支持控制桌面。&lt;/p&gt;
+&lt;h3&gt;2. 🖱️ Computer Use 大幅增强&lt;/h3&gt;
+&lt;p&gt;这个月读了几篇 Computer Use 的论文，主要改的是速度。OSWorld-Human 统计过 GUI agent 的时间花在哪：规划和反思占 75%–94%，截图和执行动作只占 2%–5%。所以想让 AI 操作电脑更快，关键是减少模型调用次数，把截图做快没多大用。参考 UFO2、Agent S3、A11y-Compressor、macOSWorld，我们改了这几处：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;动作后直接回报变化&lt;/strong&gt;：动作执行完先等画面稳定（把屏幕分块算指纹，相邻两帧基本不变就算稳定，最多等 2 秒），再把「画面哪里变了、前台 App 和窗口有没有切换、有没有弹出对话框、焦点在哪」直接告诉模型。以前每做一步都要再截一张图确认，现在这次往返省掉了。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多步打包执行&lt;/strong&gt;：有把握的几步可以一次做完，中间哪一步失败就停下，并报告执行到了哪一步。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;读懂窗口内容&lt;/strong&gt;：通过辅助功能读出窗口里的按钮、输入框和文字，按工具栏、列表、内容区分组，只列看得见的；有弹出面板时只列面板。截图上也能标出控件编号（Set-of-Marks 的做法），模型按编号点，不用估坐标。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;另外还做了防出错 🛡️：锁屏时不会再乱输入；解锁和代填密码前先确认焦点在密码框里，避免多次输错被系统锁定。&lt;/p&gt;
+&lt;h3&gt;3. ⚡ 打洞大幅优化，连接更快更稳&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;国内中继节点&lt;/strong&gt;：大陆不用再绕道海外。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;打洞策略重做&lt;/strong&gt;：手机和电脑都在 NAT 后面时，要互相往对方猜测的端口范围发包（下面叫「撒网」）才能打通。Trautwein 等人在 IMC 2026 发表的大规模实测（440 万次打洞）显示，成功的打洞 97.6% 是第一次就成，条件不变时一直撒网基本是浪费，还白白占用自己 NAT 的映射表项。所以现在两端先交换各自的 NAT 画像（映射类型、端口分配规律），按对方的类型决定撒多大范围：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;锥形 NAT：不用撒&lt;/li&gt;
+&lt;li&gt;端口顺序分配：撒 ±128&lt;/li&gt;
+&lt;li&gt;端口随机分配：不撒（打中的概率可以忽略）&lt;/li&gt;
+&lt;li&gt;拿不准的：按默认 ±512&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;每条连接撒 3 轮还没打通就停，网络变化或对方换端口后再重来。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;自己踩出来的坑&lt;/strong&gt; 🕳️：手机的包如果比电脑的撒网先到家里的光猫，光猫会在这个端口上留下一条「空绑定」，之后这个端口对这台手机基本都打不通了。所以现在电脑发现某台手机一直打不通时，会自己换个端口重来，已经走中继的连接不受影响。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;加载更快&lt;/strong&gt;：连上后项目、会话列表并行加载；手机本地缓存会话列表，打开 App 立刻有内容，之后只同步有变化的部分。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;消息不丢&lt;/strong&gt;：消息先在手机上显示，断网时排队，恢复后自动发出，发送失败可以重发。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. 🌐 支持端口映射了&lt;/h3&gt;
+&lt;p&gt;AI 跑了 &lt;code&gt;npm run dev&lt;/code&gt;，开发服务器开在电脑的 &lt;code&gt;localhost:5173&lt;/code&gt;？现在 AI 回复里的这类地址点一下，就能在 UULink 的内置浏览器里直接打开，地址栏里也能手动换别的端口。走的是手机和电脑之间已有的加密连接，不用在同一个 Wi-Fi，电脑也不用对外开放端口。前端改完样式，手机上刷新一下就能看效果 ✨&lt;/p&gt;
+&lt;h3&gt;5. 🎨 体验重构，更直观、更舒服&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;支持 iPad 和折叠屏：大屏是「会话列表 + 对话」双栏，还能多窗口并排开两个会话。&lt;/li&gt;
+&lt;li&gt;配色改成中性灰，深色模式不再刺眼。&lt;/li&gt;
+&lt;li&gt;连续的工具调用合并成一行，比如「读取 3 个文件、修改 1 个文件」「运行 npm test 等 2 条命令」，点开看细节，长会话清爽多了。&lt;/li&gt;
+&lt;li&gt;首页「最近」列出所有会话，包括你在终端、Claude 桌面版、Codex 里开的，手机上可以接着聊。&lt;/li&gt;
+&lt;li&gt;每个会话可以单独切换模型和推理强度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🎉 最后，招募「原始股东」啦！&lt;/h2&gt;
+&lt;p&gt;回帖留下邮箱（建议 base64 一下防爬虫），送兑换码 🎁&lt;/p&gt;
+&lt;p&gt;如果你是 &lt;strong&gt;Windows + iPhone&lt;/strong&gt; 用户，直接享受 VIP 待遇：需求直达开发，最迟 T+1 响应 💪&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>许愿式编程会取代程序员吗？</title>
+      <link>https://www.v2ex.com/t/1258629</link>
+      <guid>v2ex-1258629</guid>
+      <pubDate>Fri, 20 Nov 2026 10:39:11 GMT</pubDate>
+      <description>&lt;p&gt;在这周 &lt;a href=&quot;https://tabthursday.com/about&quot; rel=&quot;nofollow&quot;&gt;Tab 星期四&lt;/a&gt;认识一个团队，他们在做一个用 app 许愿编程做 app 的 agent app，开发了几个月，已经拿到天使轮。&lt;/p&gt;
+&lt;p&gt;团队自己的开发也在用许愿式编程，跟我 chat 那位开发者认为绝大部分编码能力很快会被模型吃掉、且前沿模型（specifically, Fable 5.2）已经超越大多数程序员。&lt;/p&gt;
+&lt;p&gt;按这个预测观点的势头下去，不久之后不仅编码不需要，架构都不用人去学了。开发者还是早点转行为妙。&lt;/p&gt;
+&lt;p&gt;不知使用前沿模型的各位，日常用模型编码的感觉更多是相似、还是相反？你认为这个场景还有多久到达，亦或不可能？如果这部分的能力被替代了，开发者能去做什么？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>想偷偷出钱，做个让爸妈锻炼打卡就能提现的 App，怎么实现？</title>
+      <link>https://www.v2ex.com/t/1258661</link>
+      <guid>v2ex-1258661</guid>
+      <pubDate>Fri, 20 Nov 2026 14:27:00 GMT</pubDate>
+      <description>&lt;p&gt;我有一个思路：我父母年龄大了，肌肉流失比较快，为了鼓励他们做抗阻运动，我想到了一个办法。&lt;/p&gt;
+&lt;p&gt;直接跟他们讲道理其实不太愿意听，哪怕一天只是花个 10 分钟、20 分钟做抗阻运动，他们都不太愿意去。但他们又爱赚点小钱，平时会去捡纸壳子之类的，说白了就是想赚点零花钱。&lt;/p&gt;
+&lt;p&gt;我想到的办法就是：他们做锻炼，我就可以给钱，但不能让他们知道是我给的。相当于是做一个 App，他们锻炼打卡就能收钱提现。他们以为是别人给的钱，这样锻炼起来就会很有动力。&lt;/p&gt;
+&lt;p&gt;我觉得这个思路挺好的，但我不太清楚怎么实现这个事情。&lt;/p&gt;
+&lt;p&gt;他们的设备一个是苹果手机，一个是安卓手机。&lt;/p&gt;
+&lt;p&gt;主要想问问大家：&lt;br/&gt;
+1.  有没有现成的走路/打卡赚钱类 App 或小程序能直接套用，不用自己开发？&lt;br/&gt;
+2.  如果自己做，是做 App 好还是微信小程序好？他们一个苹果一个安卓。&lt;br/&gt;
+3.  最关键的是提现这块，个人主体能接微信/支付宝提现吗？钱是我这边充进去，他们那边点提现就能到账，这种怎么走通？&lt;/p&gt;
+&lt;p&gt;金额不大，就是一天几块钱的零花钱，主要是想让他们动起来&lt;/p&gt;
 </description>
     </item>
   </channel>
