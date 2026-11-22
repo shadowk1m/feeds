@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Sun, 22 Nov 2026 13:28:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 20:25:55 GMT</lastBuildDate>
     <item>
       <title>Google 黑五 1 年 100 刀的活动，和现在 APP 上 15 刀 3 个月的活动能叠加吗？</title>
       <link>https://www.v2ex.com/t/1258850</link>
@@ -69,6 +69,29 @@
 </description>
     </item>
     <item>
+      <title>google 账号改地区总是被驳回</title>
+      <link>https://www.v2ex.com/t/1258887</link>
+      <guid>v2ex-1258887</guid>
+      <pubDate>Sun, 22 Nov 2026 06:14:33 GMT</pubDate>
+      <description>&lt;p&gt;十几年的 google 老账号，看到 neon 这么火，想订阅一下，发现所在地区是中国，无法订阅，已经发起申请了十几遍的更改地区的请求，全部以证据不足驳回来了，IP 还算纯净吧，请教各位大佬还有什么办法吗？&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>重度使用 neon 后，我宣布中国人可以不用考虑开 claude 订阅了</title>
+      <link>https://www.v2ex.com/t/1258877</link>
+      <guid>v2ex-1258877</guid>
+      <pubDate>Sun, 22 Nov 2026 05:15:10 GMT</pubDate>
+      <description>测试场景是一个 AI 大乱斗堆了几十万行代码的大屎山，包含了市面上所有能用的订阅，都是 ultra 拉满额度管够，我的评价如下：&lt;br /&gt;1. astra medium fast 如果你手上有急事比如排查非常严重的线上问题，开它是永远最快能救急的，永远比其它所有模型快得多&lt;br /&gt;2. astra xhigh 只适合用于一个问题反复出错修不好的情况下，和其它模型讨论出来方案到底有什么问题，以及做非常严谨不能出错的重构和数据迁移方案的审核，编写普通代码跟 sol 比额度用的太快，效果也没有显著更好&lt;br /&gt;3. sol xhigh 主力后端模型，适合在其它模型的安排下写需求，模块不能分的太大，必须有一个调度角色一直盯着不让它偷懒&lt;br /&gt;4. opus xhigh 适合当调度角色安排活给其它模型干，以及专门写前端代码写后端。考虑到订阅难度极大，少量能稳定续费的额度仅建议用于需求方案规划和代码审核，干其他活性价比不如 sol 和 neon&lt;br /&gt;5. neon xhigh 跟 sol 一样量大管饱，由于测试的时间不够久，我只谨慎给一个结论是它至少是平替 opus，话不说的太满。如果考虑额度跟订阅难度的话，它是毫无争议的上位替代品。如果你测试的比较少，个别例子可能互有胜负手，我个人的评价是两个模型各个方面表现的很难让人感觉到区别在哪&lt;br /&gt;&lt;br /&gt;综合所有维度，从开订阅到/写代码质量和智商/干活主动性/和其他模型的配合效果，我会只保留 astra 跟 neon 两个模型的订阅，彻底不再开 claude</description>
+    </item>
+    <item>
+      <title>有没有网上方便采购的预制菜，方便做+好吃营养+省钱的推荐？懒人不想花太多时间折腾吃了。</title>
+      <link>https://www.v2ex.com/t/1258895</link>
+      <guid>v2ex-1258895</guid>
+      <pubDate>Sun, 22 Nov 2026 07:33:10 GMT</pubDate>
+      <description>&lt;p&gt;大家来推荐一些吧，自己在家可以做，并且做起来方便的预制菜！&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Apple Watch：戴了 8 年，我的使用测评</title>
       <link>https://www.v2ex.com/t/1258855</link>
       <guid>v2ex-1258855</guid>
@@ -128,33 +151,12 @@
 </description>
     </item>
     <item>
-      <title>重度使用 neon 后，我宣布中国人可以不用考虑开 claude 订阅了</title>
-      <link>https://www.v2ex.com/t/1258877</link>
-      <guid>v2ex-1258877</guid>
-      <pubDate>Sun, 22 Nov 2026 05:15:10 GMT</pubDate>
-      <description>测试场景是一个 AI 大乱斗堆了几十万行代码的大屎山，包含了市面上所有能用的订阅，都是 ultra 拉满额度管够，我的评价如下：&lt;br /&gt;1. astra medium fast 如果你手上有急事比如排查非常严重的线上问题，开它是永远最快能救急的，永远比其它所有模型快得多&lt;br /&gt;2. astra xhigh 只适合用于一个问题反复出错修不好的情况下，和其它模型讨论出来方案到底有什么问题，以及做非常严谨不能出错的重构和数据迁移方案的审核，编写普通代码跟 sol 比额度用的太快，效果也没有显著更好&lt;br /&gt;3. sol xhigh 主力后端模型，适合在其它模型的安排下写需求，模块不能分的太大，必须有一个调度角色一直盯着不让它偷懒&lt;br /&gt;4. opus xhigh 适合当调度角色安排活给其它模型干，以及专门写前端代码写后端。考虑到订阅难度极大，少量能稳定续费的额度仅建议用于需求方案规划和代码审核，干其他活性价比不如 sol 和 neon&lt;br /&gt;5. neon xhigh 跟 sol 一样量大管饱，由于测试的时间不够久，我只谨慎给一个结论是它至少是平替 opus，话不说的太满。如果考虑额度跟订阅难度的话，它是毫无争议的上位替代品。如果你测试的比较少，个别例子可能互有胜负手，我个人的评价是两个模型各个方面表现的很难让人感觉到区别在哪&lt;br /&gt;&lt;br /&gt;综合所有维度，从开订阅到/写代码质量和智商/干活主动性/和其他模型的配合效果，我会只保留 astra 跟 neon 两个模型的订阅，彻底不再开 claude</description>
-    </item>
-    <item>
-      <title>体验多天，发现国行苹果 ai 一点都不好用！</title>
-      <link>https://www.v2ex.com/t/1258824</link>
-      <guid>v2ex-1258824</guid>
-      <pubDate>Sat, 21 Nov 2026 16:00:44 GMT</pubDate>
-      <description>1.上下文不连贯，容易丢失&lt;br /&gt;2.回答极其简陋，毫无参考价值&lt;br /&gt;3.语音识别纠正接近于无&lt;br /&gt;&lt;br /&gt;总结：毫无使用价值</description>
-    </item>
-    <item>
-      <title>有没有网上方便采购的预制菜，方便做+好吃营养+省钱的推荐？懒人不想花太多时间折腾吃了。</title>
-      <link>https://www.v2ex.com/t/1258895</link>
-      <guid>v2ex-1258895</guid>
-      <pubDate>Sun, 22 Nov 2026 07:33:10 GMT</pubDate>
-      <description>&lt;p&gt;大家来推荐一些吧，自己在家可以做，并且做起来方便的预制菜！&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>google 账号改地区总是被驳回</title>
-      <link>https://www.v2ex.com/t/1258887</link>
-      <guid>v2ex-1258887</guid>
-      <pubDate>Sun, 22 Nov 2026 06:14:33 GMT</pubDate>
-      <description>&lt;p&gt;十几年的 google 老账号，看到 neon 这么火，想订阅一下，发现所在地区是中国，无法订阅，已经发起申请了十几遍的更改地区的请求，全部以证据不足驳回来了，IP 还算纯净吧，请教各位大佬还有什么办法吗？&lt;/p&gt;
+      <title>关于 Agy 无法将远程 Mac 作为开发宿主机，大家目前有优雅的解决方案吗？</title>
+      <link>https://www.v2ex.com/t/1258894</link>
+      <guid>v2ex-1258894</guid>
+      <pubDate>Sun, 22 Nov 2026 07:18:43 GMT</pubDate>
+      <description>&lt;p&gt;手头有一台 Mac mini，之前一直将其作为固定的远程代码开发服务器, 主力代码生成使用 Codex, 修修补补用 Codebuddy 的 ds 4.1F。之前用 Jio 开了一个 Gemini 账号, 但因为 Antigravity IDE 不支持远程 Mac 环境, 因此基本上只用 Chat。
+最近看到很多小伙伴开 Pro 账号, 有没有同样有“把远程 Mac 作为主力开发硬件 + 使用 Antigravity 进行开发”的需求，目前大家成熟或推荐的解决姿势是什么？&lt;/p&gt;
 </description>
     </item>
   </channel>
