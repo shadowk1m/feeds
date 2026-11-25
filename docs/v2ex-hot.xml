@@ -4,7 +4,7 @@
     <title>V2EX Hot Topics</title>
     <link>https://www.v2ex.com/?tab=hot</link>
     <description>Hot topics from V2EX</description>
-    <lastBuildDate>Tue, 24 Nov 2026 16:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:55:48 GMT</lastBuildDate>
     <item>
       <title>养猫两个月，我和猫的关系却越来越糟</title>
       <link>https://www.v2ex.com/t/1259458</link>
@@ -23,39 +23,11 @@
 </description>
     </item>
     <item>
-      <title>2026 年我的常用 Mac 软件分享</title>
-      <link>https://www.v2ex.com/t/1259301</link>
-      <guid>v2ex-1259301</guid>
-      <pubDate>Tue, 24 Nov 2026 00:37:41 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img alt=&quot;2026 我的 Mac 常用软件，按自己做的、产品开发、上网、效率四组排列的 24 个软件图标&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://cdn.tw93.fun/blog/pic/mac-apps-2026.webp&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;每年固定节目，给大伙分享我这一年每天都在用的不错 Mac 软件，由于有了 AI 以后反而常用软件少了很多，只有这 24 个了，看看哪些是大伙也经常在用的，也欢迎推荐你认为 2026 你最喜欢的软件给我。&lt;/p&gt;
-&lt;p&gt;打算想到啥说啥，先看到哪一个说哪个，不按照上图顺序来给大伙分享。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;https://mole.fit/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Mole&lt;/strong&gt;&lt;/a&gt;：几乎每天会用来清理一遍垃圾以及看菜单栏看系统的状态，包括里面的卸载、不息屏、风扇小工具每天会使用，同时每天都会来迭代它。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.claude.com/product/claude-code&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Claude Code&lt;/strong&gt;&lt;/a&gt;：我现在主要用 CLI，几乎每时每刻都在跑，默认 Opus 5.5 high，复杂就 Fable 5.2 medium，现在没有用 Codex 了，也没有用啥多 Agent 工具，我喜欢简单可控的编码。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://kaku.fun/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Kaku&lt;/strong&gt;&lt;/a&gt;：我喜欢简单默认好看轻量的终端工具，每天在上面多 Tab 跑 Claude，我喜欢用黑色背景的 TUI 搭配 &lt;a href=&quot;https://www.jetbrains.com/lp/mono/&quot; rel=&quot;nofollow&quot;&gt;JetBrains Mono&lt;/a&gt; 代码字体，这个字体依然是我最近三年最喜欢的代码字体。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://lite.ego.app/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;ego lite&lt;/strong&gt;&lt;/a&gt;：今年最让我惊喜的一个浏览器，简单漂亮好用，之前我主要是用 &lt;a href=&quot;https://helium.computer/&quot; rel=&quot;nofollow&quot;&gt;Helium Browser&lt;/a&gt;，假如你很少用 AI 操作浏览器，那我还是推荐 Helium 这个，轻量迅速简洁，ego 这个我喜欢的点，就有给 Agent 一个单独的窗口，不会干扰我自己的使用。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://1password.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;1Password&lt;/strong&gt;&lt;/a&gt;：今年把我的密码管理逐步迁移到了这个，多平台复用，整体软件品质不错，更多是在 AI 什么都可以破解的年代求一份安全保障，价格也可以接受，用习惯以后，感觉还挺好用的。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://miaoyan.app/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;妙言&lt;/strong&gt;&lt;/a&gt;：一个轻快的原生的 Markdown 笔记应用，默认好用好看，在支持 iPhone 版本后，我几乎每天会打开记录一些东西，每周大伙看到的&lt;a href=&quot;https://weekly.tw93.fun/&quot; rel=&quot;nofollow&quot;&gt;潮流周刊&lt;/a&gt;就是我用这个 Mac 端来编辑的，包括大伙看到的我的所有文字输出，都是在这个里面草稿来的。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://x.ai/bot&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Grok Bot&lt;/strong&gt;&lt;/a&gt;：可能不是每一个小伙伴喜欢用这个，我感觉他帮了我很多产品经营增长上的忙，包括各种答疑、退款处理、记录问题到 Notion，以及我每天的投资报告、推特日报、潮流日报，均来源于这个帮我在做 Personal Agent。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://uuyc.163.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;UU 远程&lt;/strong&gt;&lt;/a&gt;：我感觉这个产品简单易用，在我外出的时候，非常依赖他帮我操作家里的多 Mac 和 Windows 设备，给我帮了很多忙，虽然后面也做付费了，不过我还是非常希望他家可以越做越好。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.apple.com.cn/apple-music/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Apple Music&lt;/strong&gt;&lt;/a&gt;：用过非常多音乐播放器，我还是最喜欢苹果自带的，包月也便宜，歌的质量也高，我听的歌也都在上面，而且我喜欢这个简洁，以及多设备使用，不太喜欢花里胡哨的东西，这个刚刚好。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://pake.run/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Pake&lt;/strong&gt;&lt;/a&gt;：一个可以很简单把网页打包成桌面 App 的工具，我会把微信读书、李志音乐播放器打包成 Mac 应用，然后用 Raycast 快捷键唤起，很方便，而且可以按照自己喜好定制非常多的东西。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://shottr.cc/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Shottr&lt;/strong&gt;&lt;/a&gt;：假如要推荐一个最好用最简单的截图工具，还是推荐这个，貌似才 4 刀不买好像也可以用，轻量、我非常喜欢用他来截图窗口、以及滚动截图，用了好几年了。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://z.weixin.qq.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;微信输入法&lt;/strong&gt;&lt;/a&gt;：我的所有设备都是用这个输入法，腾讯的赎罪产品，简洁舒服、打字猜的准，特别是最近的语音输入法，我不想装同类的软件，就只用这个，非常好用。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.parallels.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Parallels&lt;/strong&gt;&lt;/a&gt;：这个软件可能对大伙也褒贬不一，但是我感觉还是这个 Windows 虚拟机做得最好用，也可能是我 M5 Pro 的缘故，我在上面用，完全没有虚拟机的感觉，非常顺滑，在我开发 Windows 软件的时候帮了很大的忙。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://bobtranslate.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Bob&lt;/strong&gt;&lt;/a&gt;：一个随手用的翻译工具，好像也不贵，然后绑定了自己的 AI key，设置快捷键以后，随用随唤起，很不错。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://inputsource.pro/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Input Source Pro&lt;/strong&gt;&lt;/a&gt;：默认切换输入法的工具，比如在你写东西的里面默认就是中文输入法，在你敲代码的地方默认设置英文，少掉了一次快捷键切换，润物细无声。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://netnewswire.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;NetNewsWire&lt;/strong&gt;&lt;/a&gt;：轻量默认好用的 RSS 阅读器，也有 iPhone 版本，推荐使用我自己做的&lt;a href=&quot;https://github.com/tw93/MiaoYan-NetNewsWire-Theme&quot; rel=&quot;nofollow&quot;&gt;妙言主题&lt;/a&gt;，很舒服，这是我认为在 AI 时代还需要保持阅读的一个很好工具。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.sketch.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Sketch&lt;/strong&gt;&lt;/a&gt;：哈哈好吧，我承认我现在的所有的设计、做 Logo、做稿子，还是用这个软件，可能是原生客户端的缘故，有执念，而且工具完全够我用，也比较舒服，可能是用习惯了，反而不太关注新产品。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://guojiubo.github.io/zh/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Top Calendar&lt;/strong&gt;&lt;/a&gt;：菜单栏最好用的日历时间插件，可以把系统的菜单栏时间替换后用这个，点击可以看到日历，以及你的日程，也是润物细无声。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/AyuGram/AyuGramDesktop&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;AyuGram&lt;/strong&gt;&lt;/a&gt;：开源易用简洁的电报工具，可以把原有官方的版本很多会员广告啥的干掉，然后有非常多自定义的功能，但是默认其实就够了，平时我每天打开 1-2 次看看消息。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://stash.ws/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Stash&lt;/strong&gt;&lt;/a&gt;：我在用的 Mac 和 iPhone 的代理工具，用了 2 年左右了，胜在稳定和原生，以及满足我使用的覆写、DNS 覆盖等功能，然后家里 Apple TV 也用的这个，我认为最好的就是多设备配置同步，省去了我来回配置的麻烦。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.raycast.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Raycast&lt;/strong&gt;&lt;/a&gt;：这个是唯一我感觉有点重但是也每天在用的工具，同步也在另外一台电脑上使用 &lt;a href=&quot;https://tinycast.dev/&quot; rel=&quot;nofollow&quot;&gt;Tinycast&lt;/a&gt;，作为对照使用，Raycast 的粘贴历史记录、软件快捷键唤起、文件快捷键查找这几个功能我几乎每天用，就是麻烦一点第一次使用，你要关掉非常多我认为多余的功能才会好用，Tinycast 等更成熟了，可能主力机就迁移过去了。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/gee1k/uPic&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;uPic&lt;/strong&gt;&lt;/a&gt;：用了好多年的图片上传到 CDN 的工具，为啥用这个，还是原生轻量的执念，绑定好快捷键以后，我认为非常好用。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://sindresorhus.com/command-x&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Command X&lt;/strong&gt;&lt;/a&gt;：一个非常轻量的让你的 Mac 在访达支持剪切的工具，就这个功能，哈哈哈。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;VS Code&lt;/strong&gt;&lt;/a&gt;：前 AI 时代每天都在用的，现在也经常用，主要用来看一些 diff，以及整理一些文件内容，以及看 README，不过我感觉明年我可能就不用这个了，找一个更轻量原生的。&lt;/li&gt;
-&lt;/ol&gt;
+      <title>有多少人通过 AI 赚到工作以外额外的钱了？</title>
+      <link>https://www.v2ex.com/t/1259411</link>
+      <guid>v2ex-1259411</guid>
+      <pubDate>Tue, 24 Nov 2026 04:49:41 GMT</pubDate>
+      <description>&lt;p&gt;大家每天都在讨论 AI 这样用那样用，很好奇各位大佬，有多少人用 AI 赚到自己工作以外其他的钱了，还是只是用来给老板来降本增效的呀。&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -66,28 +38,6 @@
       <description>&lt;p&gt;坐标北京，35+前端失业一个月，投简历零 offer，连外包面完都没回信，心态彻底崩了。&lt;/p&gt;
 &lt;p&gt;不想再在家内耗了，最近看了很多转转上门回收师的视频，虽然忙碌程度堪比铁人三项，但好在时间相对自由，自己本身也喜欢研究数码，打算去试试。&lt;/p&gt;
 &lt;p&gt;目标不高，在北京跑单月入能过万就行。有没有懂行的兄弟，求分享点大实话：&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>有多少人通过 AI 赚到工作以外额外的钱了？</title>
-      <link>https://www.v2ex.com/t/1259411</link>
-      <guid>v2ex-1259411</guid>
-      <pubDate>Tue, 24 Nov 2026 04:49:41 GMT</pubDate>
-      <description>&lt;p&gt;大家每天都在讨论 AI 这样用那样用，很好奇各位大佬，有多少人用 AI 赚到自己工作以外其他的钱了，还是只是用来给老板来降本增效的呀。&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>小时候背的诗，长大了才懂。</title>
-      <link>https://www.v2ex.com/t/1259304</link>
-      <guid>v2ex-1259304</guid>
-      <pubDate>Tue, 24 Nov 2026 00:47:02 GMT</pubDate>
-      <description>&lt;p&gt;看到隔壁帖子「回首来看当年学的诗词」，很有共鸣&lt;br/&gt;
-我小时候背诗也是只为了考试，摇头晃脑背完就忘。后来一个人在外地工作，某天加班到深夜，抬头看到月亮，脑子里突然蹦出「露从今夜白，月是故乡明」，那时候才明白，诗词不是背的，是等你在某个年纪、某个时刻，突然被它击中
-后来用大肥鱼做了个小程序「诗如初见」，把自己喜欢的、从网上收集的诗词都放了进去，每次打开都能邂逅一首名句，就像初见那样&lt;br/&gt;
-你们有没有哪句诗，是某个瞬间突然懂的或者最爱哪一句？
-&lt;br/&gt;
-小程序码：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://i.imgur.com/1tPblmD.jpeg&quot; rel=&quot;nofollow&quot;&gt;https://i.imgur.com/1tPblmD.jpeg&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -116,29 +66,41 @@
 </description>
     </item>
     <item>
-      <title>Apple ID 刚刚被盗刷了！</title>
-      <link>https://www.v2ex.com/t/1259296</link>
-      <guid>v2ex-1259296</guid>
-      <pubDate>Tue, 24 Nov 2026 00:09:26 GMT</pubDate>
-      <description>&lt;p&gt;非常好奇，作为 IT 从业者，平时我的 Apple ID 开了 MFA，并且非常肯定只在我的 mac 和手机上登录，从未点过可疑的钓鱼邮件。&lt;/p&gt;
-&lt;p&gt;但是就在刚刚今早上 7 点左右，我的支付宝提示付款失败 6399 人民币（APPLE id 绑定的是支付宝，但是做了限额），马上警觉，开始检查账号异常，也没有被绑定新设备、新的可信手机号之类的，登录记录也正常，赶紧改了密码。&lt;/p&gt;
-&lt;p&gt;非常奇怪，第一，Apple Store 里面有什么东西能够可疑刷 6000 的人民币？第二，当前什么技术可疑实现完全不需要登陆用户 Apple ID 的情况下就实现了盗刷？简直有点匪夷所思。&lt;/p&gt;
-&lt;p&gt;刚刚赶紧做了以下处理：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;解绑 apple id 和支付宝；&lt;/li&gt;
-&lt;li&gt;解绑 apple id 的任何付款功能；&lt;/li&gt;
-&lt;li&gt;重置 apple id 的密码&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;各位屌大的技术老哥们，你们知道还有啥可能能够实现这种盗刷嘛，虚心学习。&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>难受啊！为什么我开不了 99.99 刀的 Gemini Ai Pro?</title>
       <link>https://www.v2ex.com/t/1259372</link>
       <guid>v2ex-1259372</guid>
       <pubDate>Tue, 24 Nov 2026 02:56:19 GMT</pubDate>
       <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;embedded_image&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; rel=&quot;noreferrer&quot; src=&quot;https://i.imgur.com/WfC6jhc.png&quot;/&gt; &lt;/p&gt;
 &lt;p&gt;我还是取消了 Jio Pro 来开的，这波真是亏损最大化了。哭死！&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>吝啬的代价</title>
+      <link>https://www.v2ex.com/t/1259394</link>
+      <guid>v2ex-1259394</guid>
+      <pubDate>Tue, 24 Nov 2026 03:36:08 GMT</pubDate>
+      <description>&lt;p&gt;看到这个标题你大概能猜到，这是一个悲剧故事，幸好的是，故事的主角不是我，是我的小学同学——小张。&lt;/p&gt;
+&lt;p&gt;上学的时候，学校离村子还有一段距离，父母长辈都在田里劳作，没有接送的习惯，经常是一个村子的学生娃相互招呼着，结伴上学回家。小张和我是一个村里的，他比我大了几岁，我们的家相距也只有几百米，转个拐角就到，自然而然就玩到一起了。我的记忆也十分模糊，只隐约记得，小张的性格比较沉闷，矮个子，但是比较壮，皮肤有些黑，第一印象就是憨厚的感觉。&lt;/p&gt;
+&lt;p&gt;小张的父母很能吃苦，所以他家的家境比我家要好很多，老屋很早就翻修盖了新房。但是他的父母有个很大的毛病，很啬皮（老家方言，形容人非常吝啬、抠门）。那时候，放学后跟小张一起回他家，名义上是写作业，实际上是蹭他家彩色电视看动画片，看的什么大多都忘记了，只记得有经典的《猫和老鼠》。在他家做作业的时候，他父母如果在，也就招呼一声，别说吃饭了，连水都没有喝过一口。虽然小，当然我也不是傻子，人家不舒服，我也没厚脸皮待着，慢慢地就不去他家玩了。后面才知道，他家吃饭就等没客人的时候，让我想起《西游记》里面猪八戒的台词：这里的风俗可不好，吃饭还锁门。当然也无可厚非，偌大的家业说不定就是这样挣出来的呢。&lt;/p&gt;
+&lt;p&gt;念到高中后，我考到了城里的高中，开始住校，每周只有周六才能回家。只能从别人口中得知，小张上了另一所民办学校。这时候，他父母又展现出惊人的智慧，为了省钱，不让小张住校，觉得吃食堂都很奢侈，让他中午回家吃饭。为了不让村里人看到说闲话，还叮嘱小张路上要避着熟人。民办学校距离非常远，用两条腿走路是不行了，他家从废品站淘到一辆二八大杠，让小张骑着上学。最开始小张的个子矮，坐在车座上脚够不到踏板，只好用一只胳膊夹着车座，一只手扶着车把，窝着半个身子骑车。西北的天气，突出一个长夏与长冬，春秋季节非常短，天知道，小张是怎样在酷暑与严寒的交替中坚持读完了三年高中。&lt;/p&gt;
+&lt;p&gt;不要美化苦难，也不要以吃苦为荣，小张家就属于是没苦硬吃。为了省几个钱，让娃在上学路上吃了那么多没必要的苦，我也是长见识了。再到后来，小张考上了职业院校，家里不给多少钱，只能打零工来挣生活费。这样的处境下，想安心学习也不容易，听说他的成绩一直不太理想。毕业后干了几份混日子的工作，最近几年，经济下行，小张失业后就回到了老家。多年的书都读到狗肚子里去了，有手有脚的成年人连自食其力都做不到，开始了啃老生活。父母打也打过，骂也骂过，小张早就免疫，天天戴个瓜皮帽子，游手好闲，不务正业，在村里晃荡，最大的乐趣就是太阳好的时候，在南墙根下和老头老太太们下棋。别人问起来，他早已自暴自弃，然后振振有辞：都怪父母当初咋样咋样。后来人也就不问了。&lt;/p&gt;
+&lt;p&gt;小张父母的做法，实在让我难以理解。大家都是普通人，学习要想争上游，本来就得付出太多的精力。别人家的孩子努力学习的时候，他们却要为了省几个钱，人为地给娃设置障碍。小张如今混成这个样子，当然也不能把账全算在父母头上。三十多岁的人了，日子终究还得靠自己过。但我每每想到他当年窝着半个身子，骑着那辆破旧自行车上学的样子，就觉得有些苦实在没必要吃。娃小的时候，你不好好教育他，不想着怎么给他搭把手，等孩子长大了，自己知道愁了，早干什么去了？相比而言，我家里穷多了，但父母很爱我，砸锅卖铁也要供我上学，告诉我：吃不好但要吃饱，穿不阔但要穿暖。他们也没讲过多少大道理，只是在力所能及的范围内给我最大的保障，让我能把最大的心思和精力放在学习上。小时候觉得这些都是理所当然，现在回头想想，才知道自己有多幸运。&lt;/p&gt;
+&lt;p&gt;突然想起，二十年前的一个夏天中午，一群少年，走在田野里细长的地埂上。天空无比湛蓝，只有几缕云彩挂在天边。一阵风吹过，四周的麦田泛起金色的波浪。少年们高谈阔论，时不时爆发出笑声，传到很远的地方。&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Claude Code 最佳控制面</title>
+      <link>https://www.v2ex.com/t/1259417</link>
+      <guid>v2ex-1259417</guid>
+      <pubDate>Tue, 24 Nov 2026 05:09:09 GMT</pubDate>
+      <description>我们在短时间内获得了 5k 用户，它比目前任何第三方 UI 都更加流畅丝滑，每一个 token 输出都做了精致的 UI 适配，体积仅 20MB 左右&lt;br /&gt;&lt;br /&gt;官网 &lt;a target=&quot;_blank&quot; href=&quot;https://baocode.dev/&quot; rel=&quot;nofollow noopener&quot;&gt;https://baocode.dev/&lt;/a&gt;&lt;br /&gt;开源地址 &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/baocode-dev/baocode&quot; rel=&quot;nofollow noopener&quot;&gt;https://github.com/baocode-dev/baocode&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/3hy15wa.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/3hy15wa.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;  &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/4QzTcEY.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/4QzTcEY.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://i.imgur.com/9hQw9MU.png&quot; rel=&quot;nofollow noopener&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.imgur.com/9hQw9MU.png&quot; class=&quot;embedded_image&quot; rel=&quot;noreferrer&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>google 账号怎么注册啊？刚又被封了一个...</title>
+      <link>https://www.v2ex.com/t/1259433</link>
+      <guid>v2ex-1259433</guid>
+      <pubDate>Tue, 24 Nov 2026 05:58:25 GMT</pubDate>
+      <description>&lt;p&gt;昨天刚去海鲜市场买了一个 google 美区账号，一天不到就被限制登录了...现在注册也走不通 必须国外手机号码，虚拟号也不行，有没有办法呢 好想用哈基米 4&lt;/p&gt;
 </description>
     </item>
   </channel>
